@@ -9,7 +9,7 @@ while true; do
   echo "get rts.ch/info page"
   wget rts.ch/info
   mv info input.html
-  echo "extract car titles from page"
+  echo "extract card titles from page"
   node extract.js
   echo "extractDayliRemoval into folder removed-by-day"
   node extractDayliRemoval.js

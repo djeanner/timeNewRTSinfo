@@ -3,32 +3,77 @@ const path = require("path");
 
 // === CONFIG ===
 const inputFile = "card-titles.json";
-const outputDir = "removed-by-day";
+const outputJsonDir = "removed-by-day";
+const outputHtmlDir = "html";
 const targetYear = 2025;
 
-// Ensure output directory exists
-if (!fs.existsSync(outputDir)) {
-	fs.mkdirSync(outputDir);
-}
+// Ensure output directories exist
+if (!fs.existsSync(outputJsonDir)) fs.mkdirSync(outputJsonDir);
+if (!fs.existsSync(outputHtmlDir)) fs.mkdirSync(outputHtmlDir);
 
 // Load data
 const data = JSON.parse(fs.readFileSync(inputFile, "utf8"));
 
-// Helper to pad numbers
+// Helpers
 const pad = (n) => n.toString().padStart(2, "0");
+const formatTime = (iso) => new Date(iso).toISOString().substring(11, 16); // hh:mm
 
-// Loop through each day of the year 2025
+const htmlEscape = (str) =>
+	str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+
+const generateHtmlTable = (entries, dateStr) => {
+	const rows = entries
+		.sort((a, b) => new Date(a.added_at) - new Date(b.added_at))
+		.map((entry) => {
+			const time = formatTime(entry.added_at);
+			const duration = htmlEscape(entry.duration_str || "");
+			const title = htmlEscape(entry.title || "");
+			return `<tr><td>${time}</td><td>${duration}</td><td>${title}</td></tr>`;
+		})
+		.join("\n");
+
+	return `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Duration of info cards - ${dateStr}</title>
+  <style>
+    body { font-family: sans-serif; margin: 2em; }
+    table { border-collapse: collapse; width: 100%; }
+    th, td { border: 1px solid #ccc; padding: 0.5em; text-align: left; }
+    th { background: #eee; }
+  </style>
+</head>
+<body>
+  <h1>Duration of cards on ${dateStr}</h1>
+  <table>
+    <thead><tr><th>Time</th><th>Duration</th><th>Title</th></tr></thead>
+    <tbody>
+${rows}
+    </tbody>
+  </table>
+  <p><a href="index.html">← Back to index</a></p>
+</body>
+</html>`;
+};
+
+// Track generated HTML files for index
+const htmlFiles = [];
+
+// Loop through each day
 for (let month = 1; month <= 12; month++) {
 	const daysInMonth = new Date(targetYear, month, 0).getDate();
 	for (let day = 1; day <= daysInMonth; day++) {
 		const dateStr = `${targetYear}-${pad(month)}-${pad(day)}`;
 
-		// Filter entries removed on that specific date
+		// Filter entries removed and added on this day
 		const removedOnDay = data
-			.filter((entry) => {
-				if (!entry.removed_at) return false;
-				return entry.removed_at.startsWith(dateStr);
-			})
+			.filter(
+				(entry) =>
+					entry.removed_at &&
+					entry.added_at &&
+					entry.added_at.startsWith(dateStr)
+			)
 			.map((entry) => ({
 				title: entry.title,
 				added_at: entry.added_at,
@@ -37,17 +82,43 @@ for (let month = 1; month <= 12; month++) {
 				duration_str: entry.duration_str,
 			}));
 
-		// Write if there is at least one entry
 		if (removedOnDay.length > 0) {
-			const outputFilePath = path.join(outputDir, `${dateStr}.json`);
-			fs.writeFileSync(
-				outputFilePath,
-				JSON.stringify(removedOnDay, null, 2),
-				"utf8"
-			);
-			console.log(
-				`✅ ${dateStr}.json written (${removedOnDay.length} entries)`
-			);
+			// Write JSON
+			const jsonPath = path.join(outputJsonDir, `${dateStr}.json`);
+			fs.writeFileSync(jsonPath, JSON.stringify(removedOnDay, null, 2), "utf8");
+
+			// Write HTML
+			const htmlPath = path.join(outputHtmlDir, `${dateStr}.html`);
+			const htmlContent = generateHtmlTable(removedOnDay, dateStr);
+			fs.writeFileSync(htmlPath, htmlContent, "utf8");
+
+			htmlFiles.push({ date: dateStr, filename: `${dateStr}.html` });
+
+			console.log(`✅ ${dateStr}: ${removedOnDay.length} entries written`);
 		}
 	}
 }
+
+// Generate index.html
+const indexHtml = `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Removed Titles - Index</title>
+  <style>
+    body { font-family: sans-serif; margin: 2em; }
+    ul { line-height: 1.6; }
+  </style>
+</head>
+<body>
+  <h1>Duration of info cards - 2025</h1>
+  <ul>
+${htmlFiles
+	.map((entry) => `<li><a href="${entry.filename}">${entry.date}</a></li>`)
+	.join("\n")}
+  </ul>
+</body>
+</html>`;
+
+fs.writeFileSync(path.join(outputHtmlDir, "index.html"), indexHtml, "utf8");
+console.log(`📄 index.html written with ${htmlFiles.length} links.`);
