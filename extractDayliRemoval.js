@@ -17,7 +17,7 @@ const data = JSON.parse(fs.readFileSync(inputFile, "utf8"));
 // Helpers
 const pad = (n) => n.toString().padStart(2, "0");
 const formatTime = (iso) => new Date(iso).toISOString().substring(11, 16); // hh:mm
-
+const formatDate = (iso) => new Date(iso).toISOString().substring(0, 10); // yyyy-mm-dd
 const htmlEscape = (str) =>
 	str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 
@@ -26,7 +26,9 @@ const generateHtmlTable = (entries, dateStr) => {
 		.sort((a, b) => new Date(a.added_at) - new Date(b.added_at))
 		.map((entry) => {
 			const time = formatTime(entry.added_at);
-			const time2 = (entry.removed_at);
+			var time2 = formatTime(entry.removed_at) + " " + formatDate(entry.removed_at);
+			if (formatDate(entry.added_at) == formatDate(entry.removed_at))
+				time2 = formatTime(entry.removed_at);
 			const duration = htmlEscape(entry.duration_str || "");
 			const title = htmlEscape(entry.title || "");
 			return `<tr><td>${time}</td><td>${time2}</td><td>${duration}</td><td>${title}</td></tr>`;
