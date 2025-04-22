@@ -26,7 +26,7 @@ const generateHtmlTable = (entries, dateStr) => {
 		.sort((a, b) => new Date(a.added_at) - new Date(b.added_at))
 		.map((entry) => {
 			const time = formatTime(entry.added_at);
-			const time2 = formatTime(entry.removed_at);
+			const time2 = (entry.removed_at);
 			const duration = htmlEscape(entry.duration_str || "");
 			const title = htmlEscape(entry.title || "");
 			return `<tr><td>${time}</td><td>${time2}</td><td>${duration}</td><td>${title}</td></tr>`;
