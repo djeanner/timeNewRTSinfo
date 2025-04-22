@@ -306,7 +306,10 @@
   },
   {
     "title": "La route de Saas rouverte l'espace de deux heures, les trains circulent à nouveau à Zermatt",
-    "added_at": "2025-04-21T15:14:20.955Z"
+    "added_at": "2025-04-21T15:14:20.955Z",
+    "removed_at": "2025-04-22T15:29:49.921Z",
+    "duration_minutes": 1455,
+    "duration_str": "1d 15m"
   },
   {
     "title": "Au moins 56 personnes ont été tuées par des hommes armés au centre du Nigeria",
@@ -657,5 +660,9 @@
   {
     "title": "\"The Shameless\" plonge dans l'enfer de la prostitution féminine en Inde",
     "added_at": "2025-04-22T14:39:14.709Z"
+  },
+  {
+    "title": "\"Heartbreak City\", le retour aux sources pop-rock du groupe bâlois Lovebugs",
+    "added_at": "2025-04-22T15:29:49.921Z"
   }
 ]
