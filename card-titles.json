@@ -305,7 +305,10 @@
   },
   {
     "title": "Le Kremlin annonce un bref cessez-le-feu en Ukraine pour Pâques",
-    "added_at": "2025-04-21T15:14:20.955Z"
+    "added_at": "2025-04-21T15:14:20.955Z",
+    "removed_at": "2025-04-22T17:07:17.825Z",
+    "duration_minutes": 1552,
+    "duration_str": "1d 1h 52m"
   },
   {
     "title": "La route de Saas rouverte l'espace de deux heures, les trains circulent à nouveau à Zermatt",
@@ -682,5 +685,9 @@
   {
     "title": "Le pape François est apparu très affaibli à la messe de Pâques",
     "added_at": "2025-04-22T16:25:00.922Z"
+  },
+  {
+    "title": "Donald Trump met les universités suisses sous pression",
+    "added_at": "2025-04-22T17:07:17.825Z"
   }
 ]
