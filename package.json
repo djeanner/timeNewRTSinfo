@@ -1,0 +1,14 @@
+{
+  "name": "rts-info-extractor",
+  "version": "1.0.0",
+  "description": "RTS info page extractor",
+  "type": "module",
+  "main": "extract.js",
+  "scripts": {
+    "start": "node extract.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
+
