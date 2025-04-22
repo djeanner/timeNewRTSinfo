@@ -16,8 +16,17 @@ const data = JSON.parse(fs.readFileSync(inputFile, "utf8"));
 
 // Helpers
 const pad = (n) => n.toString().padStart(2, "0");
-const formatTime = (iso) => new Date(iso).toISOString().substring(11, 16); // hh:mm
-const formatDate = (iso) => new Date(iso).toISOString().substring(0, 10); // yyyy-mm-dd
+const formatTime = (iso) => {
+	if (!iso) return "";
+	const date = new Date(iso);
+	return isNaN(date) ? "" : date.toISOString().substring(11, 16);
+};
+
+const formatDate = (iso) => {
+	if (!iso) return "";
+	const date = new Date(iso);
+	return isNaN(date) ? "" : date.toISOString().substring(0, 10);
+};
 const htmlEscape = (str) =>
 	str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 
@@ -26,7 +35,8 @@ const generateHtmlTable = (entries, dateStr) => {
 		.sort((a, b) => new Date(a.added_at) - new Date(b.added_at))
 		.map((entry) => {
 			const time = formatTime(entry.added_at);
-			var time2 = formatTime(entry.removed_at) + " " + formatDate(entry.removed_at);
+			var time2 =
+				formatTime(entry.removed_at) + " " + formatDate(entry.removed_at);
 			if (formatDate(entry.added_at) == formatDate(entry.removed_at))
 				time2 = formatTime(entry.removed_at);
 			const duration = htmlEscape(entry.duration_str || "");
@@ -70,34 +80,29 @@ for (let month = 1; month <= 12; month++) {
 		const dateStr = `${targetYear}-${pad(month)}-${pad(day)}`;
 
 		// Filter entries removed and added on this day
-		const removedOnDay = data
-			.filter(
-				(entry) =>
-					entry.removed_at &&
-					entry.added_at &&
-					entry.added_at.startsWith(dateStr)
-			)
+		const onDay = data
+			.filter((entry) => entry.added_at && entry.added_at.startsWith(dateStr))
 			.map((entry) => ({
 				title: entry.title,
 				added_at: entry.added_at,
 				removed_at: entry.removed_at,
-				duration_minutes: entry.duration_minutes,
-				duration_str: entry.duration_str,
+				duration_minutes: entry.duration_minutes ?? 0,
+				duration_str: entry.duration_str ?? "",
 			}));
 
-		if (removedOnDay.length > 0) {
+		if (onDay.length > 0) {
 			// Write JSON
 			const jsonPath = path.join(outputJsonDir, `${dateStr}.json`);
-			fs.writeFileSync(jsonPath, JSON.stringify(removedOnDay, null, 2), "utf8");
+			fs.writeFileSync(jsonPath, JSON.stringify(onDay, null, 2), "utf8");
 
 			// Write HTML
 			const htmlPath = path.join(outputHtmlDir, `${dateStr}.html`);
-			const htmlContent = generateHtmlTable(removedOnDay, dateStr);
+			const htmlContent = generateHtmlTable(onDay, dateStr);
 			fs.writeFileSync(htmlPath, htmlContent, "utf8");
 
 			htmlFiles.push({ date: dateStr, filename: `${dateStr}.html` });
 
-			console.log(`✅ ${dateStr}: ${removedOnDay.length} entries written`);
+			console.log(`✅ ${dateStr}: ${onDay.length} entries written`);
 		}
 	}
 }
