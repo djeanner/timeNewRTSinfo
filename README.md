@@ -2,6 +2,9 @@
 See how long each rts info cards stays on the rts.ch/info home page
 It is testing the page every 10 minutes (see [run-loop.zsh](./run-loop.zsh))
 
+The repository has a workflow running automatically in github.
+Alternatively, it can be run locally with the following instructions:
+
 # Installation
 ```zsh
 npm install cheerio
