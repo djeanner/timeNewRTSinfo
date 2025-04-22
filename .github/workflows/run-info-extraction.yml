@@ -23,7 +23,8 @@ jobs:
           if [ -f package.json ]; then
             npm install
           fi
-      - name: Install dependencies
+
+      - name: Install dependencies2
         run: npm ci
 
       - name: Download RTS info page
