@@ -18,3 +18,7 @@ caffeinate ./run-loop.zsh
 ```
 to make sure the computer does not go to sleep while the script is running. 
 
+```zsh
+caffeinate -dimsu ./run-loop.zsh &
+kill % 
+```
