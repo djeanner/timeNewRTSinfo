@@ -1,14 +1,17 @@
 {
   "name": "rts-info-extractor",
   "version": "1.0.0",
-  "description": "RTS info page extractor",
-  "type": "module",
+  "description": "Automation for fetching and processing rts.ch/info",
   "main": "extract.js",
   "scripts": {
-    "start": "node extract.js"
+    "start": "node extract.js",
+    "run-all": "node extract.js && node extractDayliRemoval.js"
   },
+  "author": "Your Name",
+  "license": "MIT",
+  "type": "module",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.12"
+    "cheerio": "^1.0.0-rc.12",
+    "node-cron": "^3.0.2"
   }
 }
-

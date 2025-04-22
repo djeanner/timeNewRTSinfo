@@ -44,7 +44,7 @@ jobs:
         with:
           name: html-output
           path: html/
-          
+
       - name: Commit and push updated files
         run: |
           git config --global user.name "github-actions[bot]"
