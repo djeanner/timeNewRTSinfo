@@ -302,7 +302,10 @@
   },
   {
     "title": "Le Kremlin annonce un bref cessez-le-feu en Ukraine pour Pâques",
-    "added_at": "2025-04-21T15:14:20.955Z"
+    "added_at": "2025-04-21T15:14:20.955Z",
+    "removed_at": "2025-04-22T15:40:53.898Z",
+    "duration_minutes": 1466,
+    "duration_str": "1d 26m"
   },
   {
     "title": "La route de Saas rouverte l'espace de deux heures, les trains circulent à nouveau à Zermatt",
@@ -664,5 +667,9 @@
   {
     "title": "\"Heartbreak City\", le retour aux sources pop-rock du groupe bâlois Lovebugs",
     "added_at": "2025-04-22T15:29:49.921Z"
+  },
+  {
+    "title": "Selon le FMI, les droits de douane vont lester l'économie mondiale",
+    "added_at": "2025-04-22T15:40:53.898Z"
   }
 ]
