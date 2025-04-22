@@ -121,6 +121,7 @@ const indexHtml = `<!DOCTYPE html>
 <body>
   <h1>Duration of RTS info cards - 2025</h1>
   Updates these pages every hour. Updates lists of cards every 10 minutes.
+  See https://github.com/djeanner/timeNewRTSinfo
   <ul>
 ${htmlFiles
 	.map((entry) => `<li><a href="${entry.filename}">${entry.date}</a></li>`)
