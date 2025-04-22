@@ -47,13 +47,16 @@ jobs:
         with:
           name: html-output
           path: html/
-
       - name: Commit and push updated files
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add card-titles.json removed-by-day html
-          git commit -m "Update card titles and reports [auto]"
+
+          git add html card-titles.json removed-by-day || true
+          git diff --cached --quiet || git commit -m "Update card titles and reports [auto]"
+
+          # Use token-authenticated push
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
