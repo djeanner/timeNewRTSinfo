@@ -119,7 +119,8 @@ const indexHtml = `<!DOCTYPE html>
   </style>
 </head>
 <body>
-  <h1>Duration of info cards - 2025</h1>
+  <h1>Duration of RTS info cards - 2025</h1>
+  Updates these pages every hour. Updates lists of cards every 10 minutes.
   <ul>
 ${htmlFiles
 	.map((entry) => `<li><a href="${entry.filename}">${entry.date}</a></li>`)
