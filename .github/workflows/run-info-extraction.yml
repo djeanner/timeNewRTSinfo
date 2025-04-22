@@ -24,9 +24,6 @@ jobs:
             npm install
           fi
 
-      - name: Install dependencies2
-        run: npm ci
-
       - name: Download RTS info page
         run: |
           echo "get rts.ch/info page"
