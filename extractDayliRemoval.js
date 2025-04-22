@@ -26,9 +26,10 @@ const generateHtmlTable = (entries, dateStr) => {
 		.sort((a, b) => new Date(a.added_at) - new Date(b.added_at))
 		.map((entry) => {
 			const time = formatTime(entry.added_at);
+			const time2 = formatTime(entry.removed_at);
 			const duration = htmlEscape(entry.duration_str || "");
 			const title = htmlEscape(entry.title || "");
-			return `<tr><td>${time}</td><td>${duration}</td><td>${title}</td></tr>`;
+			return `<tr><td>${time}</td><td>${time2}</td><td>${duration}</td><td>${title}</td></tr>`;
 		})
 		.join("\n");
 
@@ -47,7 +48,7 @@ const generateHtmlTable = (entries, dateStr) => {
 <body>
   <h1>Duration of cards on ${dateStr}</h1>
   <table>
-    <thead><tr><th>Time</th><th>Duration</th><th>Title</th></tr></thead>
+    <thead><tr><th>In (GMT)</th><th>Out (GMT)</th><th>Duration</th><th>Title</th></tr></thead>
     <tbody>
 ${rows}
     </tbody>
