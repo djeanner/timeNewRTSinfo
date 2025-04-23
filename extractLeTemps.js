@@ -34,7 +34,7 @@ const $ = cheerio.load(html);
 
 
 const htmlPath = path.join(__dirname, 'leTemps.html'); // Change to your actual filename
-const allowedFirstTerms = new Set(['culture', 'monde', 'suisse', 'economie', 'science', 'sport', 'cyber']);
+const allowedFirstTerms = new Set(['culture', 'monde', 'suisse', 'economie', 'sciences', 'sport', 'cyber']);
 
 
 const foundTitles = new Set();
@@ -50,14 +50,10 @@ const foundTitles = new Set();
 
       if (allowedFirstTerms.has(firstTerm)) {
         //results.push({ firstTerm, secondTerm, title });
-		  foundTitles.add(title);
-
+		foundTitles.add(`${firstTerm}:::${title}`);
       }
     }
   });
-
-
-  console.log(foundTitles);
 
 // === LOAD EXISTING DATA ===
 let existingTitles = [];
