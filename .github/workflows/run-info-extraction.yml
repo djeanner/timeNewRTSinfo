@@ -1,8 +1,8 @@
 name: Extract RTS Info Every 10 Minutes
 
 on:
-  schedule:
-    - cron: '*/10 * * * *'  # every 10 minutes (UTC time)
+  #schedule:
+  #  - cron: '*/10 * * * *'  # every 10 minutes (UTC time)
   workflow_dispatch:  # allows manual trigger
 
 jobs:
