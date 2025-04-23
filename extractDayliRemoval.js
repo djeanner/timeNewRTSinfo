@@ -108,6 +108,8 @@ for (let month = 1; month <= 12; month++) {
 }
 
 // Generate index.html
+const now = new Date();
+const nowStr = now.toISOString();
 const indexHtml = `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -120,13 +122,14 @@ const indexHtml = `<!DOCTYPE html>
 </head>
 <body>
   <h1>Duration of RTS info cards - 2025</h1>
-  Updates these pages every hour. Updates lists of cards every 10 minutes.
+  Updates lists of cards every couple of minutes approximatively.
   See https://github.com/djeanner/timeNewRTSinfo
   <ul>
 ${htmlFiles
 	.map((entry) => `<li><a href="${entry.filename}">${entry.date}</a></li>`)
 	.join("\n")}
   </ul>
+  Last update ${nowStr} GMT
 </body>
 </html>`;
 

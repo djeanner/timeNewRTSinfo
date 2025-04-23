@@ -99,7 +99,10 @@
   },
   {
     "title": "Hausse inquiétante des rentes AI chez les jeunes Suisses de moins de 25 ans",
-    "added_at": "2025-04-21T15:14:20.954Z"
+    "added_at": "2025-04-21T15:14:20.954Z",
+    "removed_at": "2025-04-23T11:04:22.189Z",
+    "duration_minutes": 2630,
+    "duration_str": "1d 19h 50m"
   },
   {
     "title": "A Interlaken, le masque hygiénique pour contourner l'interdiction de porter le niqab",
@@ -873,5 +876,9 @@
   {
     "title": "Feu vert pour les travaux sous la place de la gare de Lausanne",
     "added_at": "2025-04-23T10:59:44.056Z"
+  },
+  {
+    "title": "L'UE inflige de lourdes amendes à Apple et Meta pour concurrence déloyale",
+    "added_at": "2025-04-23T11:04:22.189Z"
   }
 ]
