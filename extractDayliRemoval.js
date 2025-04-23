@@ -6,7 +6,6 @@ const configs = [
 		inputFile: "card-titles.json",
 		outputJsonDir: "removed-by-day",
 		outputHtmlDir: "html",
-		outputHtmlFile: "index.html",
 		dateFileSuf: "",
 		targetYear: 2025,
 		medium: "RTS",
@@ -15,7 +14,6 @@ const configs = [
 		inputFile: "card-titles2.json",
 		outputJsonDir: "removed-by-day2",
 		outputHtmlDir: "html",
-		outputHtmlFile: "index2.html",
 		dateFileSuf: "_2",
 		targetYear: 2025,
 		medium: "Le Temps",
@@ -39,7 +37,7 @@ const formatDate = (iso) => {
 const htmlEscape = (str) =>
 	str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 
-const generateHtmlTable = (entries, dateStr) => {
+const generateHtmlTable = (entries, dateStr, medium, dateFileSuf) => {
 	const rows = entries
 		.sort((a, b) => new Date(a.added_at) - new Date(b.added_at))
 		.map((entry) => {
@@ -75,7 +73,7 @@ const generateHtmlTable = (entries, dateStr) => {
 ${rows}
     </tbody>
   </table>
-  <p><a href="index.html">← Back to index</a></p>
+  <p><a href="index${dateFileSuf}.html">← Back to index</a></p>
 </body>
 </html>`;
 };
@@ -85,11 +83,11 @@ for (const config of configs) {
 		inputFile,
 		outputJsonDir,
 		outputHtmlDir,
-		outputHtmlFile,
 		dateFileSuf,
 		targetYear,
 		medium,
 	} = config;
+	const outputHtmlFile = `index${dateFileSuf}.html`;
 
 	if (!fs.existsSync(outputJsonDir)) fs.mkdirSync(outputJsonDir);
 	if (!fs.existsSync(outputHtmlDir)) fs.mkdirSync(outputHtmlDir);
@@ -120,7 +118,7 @@ for (const config of configs) {
 					outputHtmlDir,
 					`${dateStr}${dateFileSuf}.html`
 				);
-				const htmlContent = generateHtmlTable(onDay, dateStr);
+				const htmlContent = generateHtmlTable(onDay, dateStr, medium, dateFileSuf);
 				fs.writeFileSync(htmlPath, htmlContent, "utf8");
 
 				htmlFiles.push({
