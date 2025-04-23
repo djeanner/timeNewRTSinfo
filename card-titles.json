@@ -270,7 +270,10 @@
   },
   {
     "title": "La trêve pascale est rompue en Ukraine dès les premières heures",
-    "added_at": "2025-04-21T15:14:20.955Z"
+    "added_at": "2025-04-21T15:14:20.955Z",
+    "removed_at": "2025-04-23T08:10:53.028Z",
+    "duration_minutes": 2456,
+    "duration_str": "1d 16h 56m"
   },
   {
     "title": "Un éléphanteau asiatique mâle naît pour Pâques au zoo de Zurich",
@@ -779,5 +782,9 @@
   {
     "title": "Libertés et justice sociale réclame l'annulation de l'élection de l'exécutif de Vernier",
     "added_at": "2025-04-23T07:54:37.588Z"
+  },
+  {
+    "title": "Les caisses de pensions suisses ont subi les soubresauts boursiers",
+    "added_at": "2025-04-23T08:10:53.028Z"
   }
 ]
