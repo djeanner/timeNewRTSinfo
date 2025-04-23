@@ -155,7 +155,10 @@
   },
   {
     "title": "suisse:::A Schwytz, le centre d’asile de la discorde continue d’échauffer les esprits",
-    "added_at": "2025-04-23T16:36:30.427Z"
+    "added_at": "2025-04-23T16:36:30.427Z",
+    "removed_at": "2025-04-23T20:30:33.690Z",
+    "duration_minutes": 234,
+    "duration_str": "3h 54m"
   },
   {
     "title": "economie:::En direct, guerre commerciale – Karin Keller-Sutter devrait rencontrer le ministre américain des finances d’ici à jeudi soir",
@@ -197,5 +200,9 @@
   {
     "title": "monde:::En direct, obsèques du pape François – Entre trois et quatre heures d’attente pour rendre un dernier hommage au Saint-Père",
     "added_at": "2025-04-23T18:40:53.032Z"
+  },
+  {
+    "title": "monde:::Après l’attentat dans le Cachemire, l’Inde suspend son traité sur l’eau avec le Pakistan, entre autres mesures punitives",
+    "added_at": "2025-04-23T20:30:33.690Z"
   }
 ]
