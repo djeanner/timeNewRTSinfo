@@ -926,7 +926,10 @@
   },
   {
     "title": "Un séisme de magnitude 6,2 secoue Istanbul sans faire de victime, selon un premier bilan",
-    "added_at": "2025-04-23T12:57:13.453Z"
+    "added_at": "2025-04-23T12:57:13.453Z",
+    "removed_at": "2025-04-23T15:30:38.689Z",
+    "duration_minutes": 153,
+    "duration_str": "2h 33m"
   },
   {
     "title": "La fille du Premier ministre français François Bayrou révèle avoir subi une agression à Notre-Dame de Bétharram",
@@ -978,5 +981,16 @@
   {
     "title": "La politique de Donald Trump, entre folie, méconnaissance et stratégie: interview de John Plassard",
     "added_at": "2025-04-23T15:14:34.525Z"
+  },
+  {
+    "title": "Un puissant séisme secoue Istanbul, 151 blessés dans la panique",
+    "added_at": "2025-04-23T15:30:38.689Z"
+  },
+  {
+    "title": "Intempéries en Valais: à Saas-Grund, les secouristes ont dû faire sans leurs talkies-walkies",
+    "added_at": "2025-04-23T15:34:20.614Z",
+    "removed_at": "2025-04-23T15:39:33.902Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
   }
 ]

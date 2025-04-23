@@ -1,21 +1,29 @@
 const fs = require("fs");
 const path = require("path");
 
-// === CONFIG ===
-const inputFile = "card-titles.json";
-const outputJsonDir = "removed-by-day";
-const outputHtmlDir = "html";
-const targetYear = 2025;
+const configs = [
+	{
+		inputFile: "card-titles.json",
+		outputJsonDir: "removed-by-day",
+		outputHtmlDir: "html",
+		outputHtmlFile: "index.html",
+		dateFileSuf: "",
+		targetYear: 2025,
+		medium: "RTS",
+	},
+	{
+		inputFile: "card-titles2.json",
+		outputJsonDir: "removed-by-day2",
+		outputHtmlDir: "html",
+		outputHtmlFile: "index2.html",
+		dateFileSuf: "_2",
+		targetYear: 2025,
+		medium: "Le Temps",
+	},
+];
 
-// Ensure output directories exist
-if (!fs.existsSync(outputJsonDir)) fs.mkdirSync(outputJsonDir);
-if (!fs.existsSync(outputHtmlDir)) fs.mkdirSync(outputHtmlDir);
-
-// Load data
-const data = JSON.parse(fs.readFileSync(inputFile, "utf8"));
-
-// Helpers
 const pad = (n) => n.toString().padStart(2, "0");
+
 const formatTime = (iso) => {
 	if (!iso) return "";
 	const date = new Date(iso);
@@ -27,6 +35,7 @@ const formatDate = (iso) => {
 	const date = new Date(iso);
 	return isNaN(date) ? "" : date.toISOString().substring(0, 10);
 };
+
 const htmlEscape = (str) =>
 	str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 
@@ -35,10 +44,11 @@ const generateHtmlTable = (entries, dateStr) => {
 		.sort((a, b) => new Date(a.added_at) - new Date(b.added_at))
 		.map((entry) => {
 			const time = formatTime(entry.added_at);
-			var time2 =
+			let time2 =
 				formatTime(entry.removed_at) + " " + formatDate(entry.removed_at);
-			if (formatDate(entry.added_at) == formatDate(entry.removed_at))
+			if (formatDate(entry.added_at) === formatDate(entry.removed_at)) {
 				time2 = formatTime(entry.removed_at);
+			}
 			const duration = htmlEscape(entry.duration_str || "");
 			const title = htmlEscape(entry.title || "");
 			return `<tr><td>${time}</td><td>${time2}</td><td>${duration}</td><td>${title}</td></tr>`;
@@ -70,47 +80,62 @@ ${rows}
 </html>`;
 };
 
-// Track generated HTML files for index
-const htmlFiles = [];
+for (const config of configs) {
+	const {
+		inputFile,
+		outputJsonDir,
+		outputHtmlDir,
+		outputHtmlFile,
+		dateFileSuf,
+		targetYear,
+		medium,
+	} = config;
 
-// Loop through each day
-for (let month = 1; month <= 12; month++) {
-	const daysInMonth = new Date(targetYear, month, 0).getDate();
-	for (let day = 1; day <= daysInMonth; day++) {
-		const dateStr = `${targetYear}-${pad(month)}-${pad(day)}`;
+	if (!fs.existsSync(outputJsonDir)) fs.mkdirSync(outputJsonDir);
+	if (!fs.existsSync(outputHtmlDir)) fs.mkdirSync(outputHtmlDir);
 
-		// Filter entries removed and added on this day
-		const onDay = data
-			.filter((entry) => entry.added_at && entry.added_at.startsWith(dateStr))
-			.map((entry) => ({
-				title: entry.title,
-				added_at: entry.added_at,
-				removed_at: entry.removed_at,
-				duration_minutes: entry.duration_minutes ?? 0,
-				duration_str: entry.duration_str ?? "",
-			}));
+	const data = JSON.parse(fs.readFileSync(inputFile, "utf8"));
+	const htmlFiles = [];
 
-		if (onDay.length > 0) {
-			// Write JSON
-			const jsonPath = path.join(outputJsonDir, `${dateStr}.json`);
-			fs.writeFileSync(jsonPath, JSON.stringify(onDay, null, 2), "utf8");
+	for (let month = 1; month <= 12; month++) {
+		const daysInMonth = new Date(targetYear, month, 0).getDate();
+		for (let day = 1; day <= daysInMonth; day++) {
+			const dateStr = `${targetYear}-${pad(month)}-${pad(day)}`;
 
-			// Write HTML
-			const htmlPath = path.join(outputHtmlDir, `${dateStr}.html`);
-			const htmlContent = generateHtmlTable(onDay, dateStr);
-			fs.writeFileSync(htmlPath, htmlContent, "utf8");
+			const onDay = data
+				.filter((entry) => entry.added_at && entry.added_at.startsWith(dateStr))
+				.map((entry) => ({
+					title: entry.title,
+					added_at: entry.added_at,
+					removed_at: entry.removed_at,
+					duration_minutes: entry.duration_minutes ?? 0,
+					duration_str: entry.duration_str ?? "",
+				}));
 
-			htmlFiles.push({ date: dateStr, filename: `${dateStr}.html` });
+			if (onDay.length > 0) {
+				const jsonPath = path.join(outputJsonDir, `${dateStr}.json`);
+				fs.writeFileSync(jsonPath, JSON.stringify(onDay, null, 2), "utf8");
 
-			console.log(`✅ ${dateStr}: ${onDay.length} entries written`);
+				const htmlPath = path.join(
+					outputHtmlDir,
+					`${dateStr}${dateFileSuf}.html`
+				);
+				const htmlContent = generateHtmlTable(onDay, dateStr);
+				fs.writeFileSync(htmlPath, htmlContent, "utf8");
+
+				htmlFiles.push({
+					date: dateStr,
+					filename: `${dateStr}${dateFileSuf}.html`,
+				});
+
+				console.log(`✅ ${medium} ${dateStr}: ${onDay.length} entries written`);
+			}
 		}
 	}
-}
 
-// Generate index.html
-const now = new Date();
-const nowStr = now.toISOString();
-const indexHtml = `<!DOCTYPE html>
+	const now = new Date();
+	const nowStr = now.toISOString();
+	const indexHtml = `<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -121,7 +146,7 @@ const indexHtml = `<!DOCTYPE html>
   </style>
 </head>
 <body>
-  <h1>Duration of RTS info cards - 2025</h1>
+  <h1>Duration of ${medium} info cards - ${targetYear}</h1>
   Updates lists of cards every couple of minutes approximatively.
   See https://github.com/djeanner/timeNewRTSinfo
   <ul>
@@ -133,5 +158,6 @@ ${htmlFiles
 </body>
 </html>`;
 
-fs.writeFileSync(path.join(outputHtmlDir, "index.html"), indexHtml, "utf8");
-console.log(`📄 index.html written with ${htmlFiles.length} links.`);
+	fs.writeFileSync(path.join(outputHtmlDir, outputHtmlFile), indexHtml, "utf8");
+	console.log(`📄 ${outputHtmlFile} written with ${htmlFiles.length} links.`);
+}
