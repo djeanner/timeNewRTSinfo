@@ -59,7 +59,7 @@ const generateHtmlTable = (entries, dateStr) => {
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Duration of info cards - ${dateStr}</title>
+  <title>Duration of ${medium} info cards - ${dateStr}</title>
   <style>
     body { font-family: sans-serif; margin: 2em; }
     table { border-collapse: collapse; width: 100%; }
