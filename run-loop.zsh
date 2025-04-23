@@ -4,6 +4,7 @@ echo "⏳ Starting loop... (Ctrl+C to stop)"
 
 while true; do
   echo "🔁 Running extract-card-titles.js at $(date)"
+  wget https://www.letemps.ch -O leTemps.html
   node extractLeTemps.js
 
   # Run your Node script
