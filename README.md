@@ -1,5 +1,6 @@
 # Duration of RTS information cards
-See how long each rts info cards stays on the rts.ch/info home page.
+
+See how long each info cards stays on the rts.ch/info home page.
 
 [Main site](html/index.html).
 
