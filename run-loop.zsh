@@ -4,6 +4,7 @@ echo "⏳ Starting loop... (Ctrl+C to stop)"
 
 while true; do
   echo "🔁 Running extract-card-titles.js at $(date)"
+  
   wget https://www.letemps.ch -O leTemps.html
   node extractLeTemps.js
 
@@ -17,6 +18,8 @@ while true; do
   node extractDayliRemoval.js
   echo "Waiting for a while ..."
   sleep 113  # 600 seconds = 10 minutes
+  wget https://www.letemps.ch -O leTemps.html
+  node extractLeTemps.js
 
  # Run your Node script
   echo "get rts.ch/info page"
@@ -28,6 +31,8 @@ while true; do
   node extractDayliRemoval.js
   echo "Waiting for a while ..."
   sleep 107  # 600 seconds = 10 minutes
+  wget https://www.letemps.ch -O leTemps.html
+  node extractLeTemps.js
 
 
  # Run your Node script
@@ -40,6 +45,8 @@ while true; do
   node extractDayliRemoval.js
   echo "Waiting for a while ..."
   sleep 111  # 600 seconds = 10 minutes
+  wget https://www.letemps.ch -O leTemps.html
+  node extractLeTemps.js
 
 
   # Run your Node script
@@ -52,6 +59,8 @@ while true; do
   node extractDayliRemoval.js
   echo "Waiting for a while ..."
   sleep 113  # 600 seconds = 10 minutes
+  wget https://www.letemps.ch -O leTemps.html
+  node extractLeTemps.js
 
  # Run your Node script
   echo "get rts.ch/info page"
@@ -63,6 +72,8 @@ while true; do
   node extractDayliRemoval.js
   echo "Waiting for a while ..."
   sleep 107  # 600 seconds = 10 minutes
+  wget https://www.letemps.ch -O leTemps.html
+  node extractLeTemps.js
 
 
  # Run your Node script
@@ -75,6 +86,8 @@ while true; do
   node extractDayliRemoval.js
   echo "Waiting for a while ..."
   sleep 111  # 600 seconds = 10 minutes
+  wget https://www.letemps.ch -O leTemps.html
+  node extractLeTemps.js
 
 
   # Run your Node script
@@ -87,6 +100,8 @@ while true; do
   node extractDayliRemoval.js
   echo "Waiting for a while ..."
   sleep 113  # 600 seconds = 10 minutes
+  wget https://www.letemps.ch -O leTemps.html
+  node extractLeTemps.js
 
  # Run your Node script
   echo "get rts.ch/info page"
@@ -98,6 +113,8 @@ while true; do
   node extractDayliRemoval.js
   echo "Waiting for a while ..."
   sleep 107  # 600 seconds = 10 minutes
+  wget https://www.letemps.ch -O leTemps.html
+  node extractLeTemps.js
 
 
  # Run your Node script
@@ -110,6 +127,7 @@ while true; do
   node extractDayliRemoval.js
   echo "Waiting for a while ..."
   sleep 111  # 600 seconds = 10 minutes
+
 
   git commit html card-titles.json -m "update html"
   git push
