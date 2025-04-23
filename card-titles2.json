@@ -29,10 +29,7 @@
   },
   {
     "title": "culture:::«Deux sœurs», dont une femme en colère, pour le retour du réalisateur Mike Leigh",
-    "added_at": "2025-04-23T15:17:53.838Z",
-    "removed_at": "2025-04-23T15:52:56.898Z",
-    "duration_minutes": 35,
-    "duration_str": "35m"
+    "added_at": "2025-04-23T15:17:53.838Z"
   },
   {
     "title": "economie:::La pharma fait pression sur l’Union européenne et les prix des médicaments",
@@ -106,7 +103,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Les pourparlers de paix prévus à Londres ce mercredi finalement reportés",
-    "added_at": "2025-04-23T15:17:53.838Z"
+    "added_at": "2025-04-23T15:17:53.838Z",
+    "removed_at": "2025-04-23T18:39:05.177Z",
+    "duration_minutes": 201,
+    "duration_str": "3h 21m"
   },
   {
     "title": "suisse:::Jacques Gerber: «Il y a déjà en Ukraine un espace pour des projets de reconstruction»",
@@ -167,7 +167,10 @@
   },
   {
     "title": "economie:::En direct, guerre commerciale – Karin Keller-Sutter devrait rencontrer le ministre américain des Finances d’ici à jeudi soir",
-    "added_at": "2025-04-23T17:04:22.881Z"
+    "added_at": "2025-04-23T17:04:22.881Z",
+    "removed_at": "2025-04-23T18:40:53.032Z",
+    "duration_minutes": 96,
+    "duration_str": "1h 36m"
   },
   {
     "title": "suisse:::Les frais d’Erasmus+ vont tripler quand la Suisse réintégrera le programme de mobilité",
@@ -179,6 +182,17 @@
   },
   {
     "title": "monde:::En direct, obsèques du pape François – Entre trois et quatre heures d’attente pour saluer le corps du pape",
-    "added_at": "2025-04-23T18:05:38.982Z"
+    "added_at": "2025-04-23T18:05:38.982Z",
+    "removed_at": "2025-04-23T18:40:53.032Z",
+    "duration_minutes": 35,
+    "duration_str": "35m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Donald Trump critique à nouveau Volodymyr Zelensky en le pressant de renoncer à la Crimée",
+    "added_at": "2025-04-23T18:39:05.177Z"
+  },
+  {
+    "title": "monde:::En direct, obsèques du pape François – Entre trois et quatre heures d’attente pour rendre un dernier hommage au Saint-Père",
+    "added_at": "2025-04-23T18:40:53.032Z"
   }
 ]
