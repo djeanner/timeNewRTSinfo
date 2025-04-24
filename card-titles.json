@@ -1187,7 +1187,10 @@
   },
   {
     "title": "Quelque 50'000 fidèles ont déjà défilé devant le cercueil du pape",
-    "added_at": "2025-04-24T07:10:53.713Z"
+    "added_at": "2025-04-24T07:10:53.713Z",
+    "removed_at": "2025-04-24T12:56:28.430Z",
+    "duration_minutes": 345,
+    "duration_str": "5h 45m"
   },
   {
     "title": "La guerre commerciale donne des sueurs froides à la filière du cognac",
@@ -1219,7 +1222,10 @@
   },
   {
     "title": "L'Inde promet de \"traquer jusqu'au bout de la Terre\" les auteurs de l'attentat qui a fait 26 morts au Cachemire",
-    "added_at": "2025-04-24T10:20:30.427Z"
+    "added_at": "2025-04-24T10:20:30.427Z",
+    "removed_at": "2025-04-24T12:54:40.272Z",
+    "duration_minutes": 154,
+    "duration_str": "2h 34m"
   },
   {
     "title": "Au moins huit morts et des dizaines de blessés après une attaque aérienne russe sur Kiev",
@@ -1240,5 +1246,13 @@
   {
     "title": "Testez vos connaissances sur Bâle, ville hôte du Concours Eurovision",
     "added_at": "2025-04-24T12:43:31.435Z"
+  },
+  {
+    "title": "Au moins 200'000 personnes attendues aux obsèques de François samedi",
+    "added_at": "2025-04-24T12:54:40.272Z"
+  },
+  {
+    "title": "Le ton monte entre l'Inde et le Pakistan après l'attentat qui a fait 26 morts au Cachemire",
+    "added_at": "2025-04-24T12:54:40.272Z"
   }
 ]
