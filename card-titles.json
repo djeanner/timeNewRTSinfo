@@ -1042,7 +1042,10 @@
   },
   {
     "title": "La Poste veut proposer un service de lettres électroniques sécurisées",
-    "added_at": "2025-04-23T12:14:43.900Z"
+    "added_at": "2025-04-23T12:14:43.900Z",
+    "removed_at": "2025-04-24T20:20:25.748Z",
+    "duration_minutes": 1925,
+    "duration_str": "1d 8h 5m"
   },
   {
     "title": "Un séisme de magnitude 6,2 secoue Istanbul sans faire de victime, selon un premier bilan",
@@ -1360,5 +1363,9 @@
   {
     "title": "Investir son 2e ou 3e pilier pour devenir propriétaire en vaut-il la chandelle?",
     "added_at": "2025-04-24T19:46:57.694Z"
+  },
+  {
+    "title": "Inauguration dans le canton de Neuchâtel d'une centrale solaire installée sur une voie ferrée",
+    "added_at": "2025-04-24T20:20:25.748Z"
   }
 ]
