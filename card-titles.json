@@ -896,7 +896,10 @@
   },
   {
     "title": "Le FMI revoit à la baisse ses prévisions de croissance mondiale pour 2025",
-    "added_at": "2025-04-22T15:54:43.194Z"
+    "added_at": "2025-04-22T15:54:43.194Z",
+    "removed_at": "2025-04-24T16:37:29.814Z",
+    "duration_minutes": 2922,
+    "duration_str": "2d 42m"
   },
   {
     "title": "Le pape François est apparu très affaibli à la messe de Pâques",
@@ -1339,5 +1342,9 @@
   {
     "title": "Volodymyr Zelensky ne veut pas reconnaître la Crimée comme territoire russe",
     "added_at": "2025-04-24T16:20:47.174Z"
+  },
+  {
+    "title": "La Suisse et la Chine prônent le \"dialogue\" face aux taxes américaines",
+    "added_at": "2025-04-24T16:37:29.814Z"
   }
 ]
