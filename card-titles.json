@@ -824,7 +824,10 @@
   },
   {
     "title": "Ignazio Cassis loue la cohésion et le dialogue à l'exposition universelle d'Osaka",
-    "added_at": "2025-04-22T12:34:24.908Z"
+    "added_at": "2025-04-22T12:34:24.908Z",
+    "removed_at": "2025-04-24T14:46:03.888Z",
+    "duration_minutes": 3011,
+    "duration_str": "2d 2h 11m"
   },
   {
     "title": "Au moins une heure de plus et moins de trains pour aller à Milan cet été",
@@ -1273,7 +1276,10 @@
   },
   {
     "title": "Au moins huit morts après une attaque aérienne russe sur Kiev, Trump somme Poutine \"d'arrêter\"",
-    "added_at": "2025-04-24T13:07:36.561Z"
+    "added_at": "2025-04-24T13:07:36.561Z",
+    "removed_at": "2025-04-24T14:53:25.809Z",
+    "duration_minutes": 105,
+    "duration_str": "1h 45m"
   },
   {
     "title": "Revus à la hausse, les coûts du projet de la patinoire du Trèfle-Blanc dérange le PLR",
@@ -1293,5 +1299,13 @@
   {
     "title": "Un mort et trois blessés après une attaque au couteau dans une école de Nantes",
     "added_at": "2025-04-24T14:29:21.162Z"
+  },
+  {
+    "title": "L'autodérision, maître-mot du premier spectacle de la Valaisanne Priscilla Formaz",
+    "added_at": "2025-04-24T14:46:03.888Z"
+  },
+  {
+    "title": "Au moins douze morts après une attaque aérienne russe sur Kiev, Trump somme Poutine \"d'arrêter\"",
+    "added_at": "2025-04-24T14:53:25.809Z"
   }
 ]
