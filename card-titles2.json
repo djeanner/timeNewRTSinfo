@@ -57,7 +57,10 @@
   },
   {
     "title": "suisse:::Les travaux sous la gare de Lausanne pourront bientôt débuter",
-    "added_at": "2025-04-23T15:17:53.838Z"
+    "added_at": "2025-04-23T15:17:53.838Z",
+    "removed_at": "2025-04-24T13:31:43.958Z",
+    "duration_minutes": 1333,
+    "duration_str": "22h 13m"
   },
   {
     "title": "suisse:::Dans le Haut-Valais, le réseau radio de sécurité Polycom a montré ses limites face aux chutes de neige",
@@ -292,7 +295,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Abbas appelle le Hamas à libérer les otages à Gaza",
-    "added_at": "2025-04-24T03:05:59.248Z"
+    "added_at": "2025-04-24T03:05:59.248Z",
+    "removed_at": "2025-04-24T13:31:43.958Z",
+    "duration_minutes": 625,
+    "duration_str": "10h 25m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Des frappes russes sur Kiev pendant la nuit font au moins neuf morts et plus de 60 blessés",
@@ -396,5 +402,13 @@
   {
     "title": "monde:::Un mort et trois blessés dans une attaque au couteau dans un lycée de Nantes",
     "added_at": "2025-04-24T13:09:28.012Z"
+  },
+  {
+    "title": "economie:::A Neuchâtel, une première centrale solaire entre des rails de train",
+    "added_at": "2025-04-24T13:31:43.958Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L'Espagne annule un contrat d'armement avec Israël",
+    "added_at": "2025-04-24T13:31:43.958Z"
   }
 ]
