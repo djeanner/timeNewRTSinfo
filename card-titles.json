@@ -62,7 +62,10 @@
   },
   {
     "title": "Gare aux délais de résiliation des abonnements qui se renouvellent automatiquement",
-    "added_at": "2025-04-21T15:14:20.954Z"
+    "added_at": "2025-04-21T15:14:20.954Z",
+    "removed_at": "2025-04-24T01:42:28.551Z",
+    "duration_minutes": 3508,
+    "duration_str": "2d 10h 28m"
   },
   {
     "title": "Les téléphones portables sont-ils vraiment plus sales que les toilettes?",
@@ -1093,5 +1096,9 @@
   {
     "title": "Deux cardinaux suisses seront présents au conclave",
     "added_at": "2025-04-24T00:18:55.828Z"
+  },
+  {
+    "title": "Donald Trump \"pense avoir un accord\" avec la Russie et fustige Volodymyr Zelensky",
+    "added_at": "2025-04-24T01:42:28.551Z"
   }
 ]
