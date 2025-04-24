@@ -927,7 +927,10 @@
   },
   {
     "title": "La lettre hybride, comment la Poste réinvente la correspondance à l'ère numérique",
-    "added_at": "2025-04-22T19:06:32.224Z"
+    "added_at": "2025-04-22T19:06:32.224Z",
+    "removed_at": "2025-04-24T21:56:55.920Z",
+    "duration_minutes": 3050,
+    "duration_str": "2d 2h 50m"
   },
   {
     "title": "Le Hamas au Caire pour discuter d'une trêve, nouveaux raids sur Gaza",
@@ -1378,5 +1381,9 @@
   {
     "title": "Des frappes israéliennes font au moins 55 morts dans la bande de Gaza",
     "added_at": "2025-04-24T21:04:59.440Z"
+  },
+  {
+    "title": "Des députés fribourgeois veulent inscrire le féminicide dans le Code pénal après celui d'Epagny",
+    "added_at": "2025-04-24T21:56:55.920Z"
   }
 ]
