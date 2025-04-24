@@ -761,7 +761,10 @@
   },
   {
     "title": "Klaus Schwab a annoncé sa démission du WEF",
-    "added_at": "2025-04-22T11:10:48.197Z"
+    "added_at": "2025-04-22T11:10:48.197Z",
+    "removed_at": "2025-04-24T00:18:55.828Z",
+    "duration_minutes": 2228,
+    "duration_str": "1d 13h 8m"
   },
   {
     "title": "Raoul Peck réhabilite la mémoire d'Ernest Cole, photographe oublié de l'apartheid",
@@ -959,10 +962,7 @@
   },
   {
     "title": "Un séisme de magnitude 6,2 secoue Istanbul sans faire de victime, selon un premier bilan",
-    "added_at": "2025-04-23T12:57:13.453Z",
-    "removed_at": "2025-04-23T15:30:38.689Z",
-    "duration_minutes": 153,
-    "duration_str": "2h 33m"
+    "added_at": "2025-04-23T12:57:13.453Z"
   },
   {
     "title": "La fille du Premier ministre français François Bayrou révèle avoir subi une agression à Notre-Dame de Bétharram",
@@ -1089,5 +1089,9 @@
   {
     "title": "La fille de François Bayrou révèle avoir subi une agression à Notre-Dame de Bétharram",
     "added_at": "2025-04-23T23:17:40.590Z"
+  },
+  {
+    "title": "Deux cardinaux suisses seront présents au conclave",
+    "added_at": "2025-04-24T00:18:55.828Z"
   }
 ]
