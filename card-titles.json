@@ -693,7 +693,10 @@
   },
   {
     "title": "Au mudac de Lausanne, l'exposition \"Soleil.s\" imagine un futur désirable",
-    "added_at": "2025-04-22T06:26:01.434Z"
+    "added_at": "2025-04-22T06:26:01.434Z",
+    "removed_at": "2025-04-24T06:32:01.694Z",
+    "duration_minutes": 2886,
+    "duration_str": "2d 6m"
   },
   {
     "title": "Les assureurs Baloise et Helvetia fusionnent et deviennent numéro 2 de la branche",
@@ -1128,5 +1131,9 @@
   {
     "title": "World Press Photo: découvrez les meilleures photos de presse de l'année 2025",
     "added_at": "2025-04-24T06:00:28.576Z"
+  },
+  {
+    "title": "Kevin Farrell, ce pape \"par intérim\" chargé d'organiser le conclave au Vatican",
+    "added_at": "2025-04-24T06:32:01.694Z"
   }
 ]
