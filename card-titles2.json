@@ -281,7 +281,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Des frappes russes sur Kiev pendant la nuit font au moins neuf morts et plus de 60 blessés",
-    "added_at": "2025-04-24T03:50:30.788Z"
+    "added_at": "2025-04-24T03:50:30.788Z",
+    "removed_at": "2025-04-24T08:39:59.566Z",
+    "duration_minutes": 289,
+    "duration_str": "4h 49m"
   },
   {
     "title": "suisse:::Rétentions à répétition du côté du fisc vaudois",
@@ -293,7 +296,10 @@
   },
   {
     "title": "cyber:::Hyperconnexion, mesures de santé et coaching sportif: en dix ans, l’Apple Watch a bouleversé notre rapport aux écrans",
-    "added_at": "2025-04-24T04:05:24.988Z"
+    "added_at": "2025-04-24T04:05:24.988Z",
+    "removed_at": "2025-04-24T08:43:45.260Z",
+    "duration_minutes": 278,
+    "duration_str": "4h 38m"
   },
   {
     "title": "sport:::A Zurich, on se prépare à un titre «logique» contre un Lausanne HC néanmoins très respecté",
@@ -306,5 +312,16 @@
   {
     "title": "culture:::Le NIFFF va explorer la face sombre des soins et des systèmes de santé",
     "added_at": "2025-04-24T08:30:42.561Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky écourte sa visite en Afrique du Sud après des frappes russes sur Kiev",
+    "added_at": "2025-04-24T08:39:59.566Z",
+    "removed_at": "2025-04-24T08:45:33.116Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "monde:::En direct – Volodymyr Zelensky écourte sa visite en Afrique du Sud après des frappes russes sur Kiev",
+    "added_at": "2025-04-24T08:45:33.116Z"
   }
 ]
