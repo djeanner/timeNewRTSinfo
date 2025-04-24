@@ -931,7 +931,10 @@
   },
   {
     "title": "Le Hamas au Caire pour discuter d'une trêve, nouveaux raids sur Gaza",
-    "added_at": "2025-04-22T19:29:15.290Z"
+    "added_at": "2025-04-22T19:29:15.290Z",
+    "removed_at": "2025-04-24T20:37:08.264Z",
+    "duration_minutes": 2947,
+    "duration_str": "2d 1h 7m"
   },
   {
     "title": "Encore battu à Zurich, Lausanne est dos au mur",
@@ -1367,5 +1370,9 @@
   {
     "title": "Inauguration dans le canton de Neuchâtel d'une centrale solaire installée sur une voie ferrée",
     "added_at": "2025-04-24T20:20:25.748Z"
+  },
+  {
+    "title": "Lausanne battu, Zurich conserve son titre",
+    "added_at": "2025-04-24T20:37:08.264Z"
   }
 ]
