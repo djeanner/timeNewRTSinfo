@@ -434,7 +434,10 @@
   },
   {
     "title": "sport:::Voici l’ère des footballeurs-actionnaires",
-    "added_at": "2025-04-24T14:01:29.046Z"
+    "added_at": "2025-04-24T14:01:29.046Z",
+    "removed_at": "2025-04-24T18:10:19.000Z",
+    "duration_minutes": 248,
+    "duration_str": "4h 8m"
   },
   {
     "title": "economie:::Pour les entreprises suisses, «se hâter lentement» d’investir au Vietnam",
@@ -470,5 +473,9 @@
   {
     "title": "monde:::Face au déficit budgétaire, l’OMS vers un fonctionnement plus «condensé et rationnel»",
     "added_at": "2025-04-24T17:38:47.161Z"
+  },
+  {
+    "title": "monde:::Rome, ville sainte et blindée pour les obsèques du pape François",
+    "added_at": "2025-04-24T18:10:19.000Z"
   }
 ]
