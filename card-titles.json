@@ -58,7 +58,10 @@
   },
   {
     "title": "Des horloges atomiques mises en orbite pour tester la relativité d'Einstein",
-    "added_at": "2025-04-21T15:14:20.954Z"
+    "added_at": "2025-04-21T15:14:20.954Z",
+    "removed_at": "2025-04-24T03:46:49.386Z",
+    "duration_minutes": 3632,
+    "duration_str": "2d 12h 32m"
   },
   {
     "title": "Gare aux délais de résiliation des abonnements qui se renouvellent automatiquement",
@@ -1107,5 +1110,9 @@
   {
     "title": "Mahmoud Abbas appelle le Hamas à libérer les otages à Gaza",
     "added_at": "2025-04-24T02:19:38.569Z"
+  },
+  {
+    "title": "L'ex-président sud-coréen Moon Jae-in inculpé pour corruption",
+    "added_at": "2025-04-24T03:46:49.386Z"
   }
 ]

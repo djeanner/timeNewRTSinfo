@@ -244,7 +244,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Donald Trump accuse Volodymyr Zelensky de saboter les discussions, la Russie frappe Kiev",
-    "added_at": "2025-04-24T02:47:28.966Z"
+    "added_at": "2025-04-24T02:47:28.966Z",
+    "removed_at": "2025-04-24T03:50:30.788Z",
+    "duration_minutes": 63,
+    "duration_str": "1h 3m"
   },
   {
     "title": "monde:::En direct, obsèques du pape François – Nouvelle journée d’hommage à la basilique Saint-Pierre",
@@ -257,5 +260,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Abbas appelle le Hamas à libérer les otages à Gaza",
     "added_at": "2025-04-24T03:05:59.248Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Des frappes russes sur Kiev pendant la nuit font au moins neuf morts et plus de 60 blessés",
+    "added_at": "2025-04-24T03:50:30.788Z"
   }
 ]
