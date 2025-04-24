@@ -284,7 +284,10 @@
   },
   {
     "title": "monde:::En direct, obsèques du pape François – Nouvelle journée d’hommage à la basilique Saint-Pierre",
-    "added_at": "2025-04-24T02:51:08.816Z"
+    "added_at": "2025-04-24T02:51:08.816Z",
+    "removed_at": "2025-04-24T17:10:55.534Z",
+    "duration_minutes": 859,
+    "duration_str": "14h 19m"
   },
   {
     "title": "monde:::La RDC et le M23 annoncent vouloir «une trêve»",
@@ -405,7 +408,10 @@
   },
   {
     "title": "economie:::La Fnac lève le voile sur ses affaires en Suisse",
-    "added_at": "2025-04-24T12:30:28.645Z"
+    "added_at": "2025-04-24T12:30:28.645Z",
+    "removed_at": "2025-04-24T17:07:09.556Z",
+    "duration_minutes": 276,
+    "duration_str": "4h 36m"
   },
   {
     "title": "monde:::Après une fusillade mortelle dans le Cachemire, le Pakistan et l’Inde sont à couteaux tirés",
@@ -452,5 +458,13 @@
   {
     "title": "cyber:::Meta va aspirer nos données sur WhatsApp, Instagram et Facebook pour entraîner son IA: cinq questions pour comprendre ce que nous risquons",
     "added_at": "2025-04-24T16:52:18.199Z"
+  },
+  {
+    "title": "suisse:::Les partis politiques pourront consulter les accords avec l’Union européenne avant qu’ils ne soient publics",
+    "added_at": "2025-04-24T17:07:09.556Z"
+  },
+  {
+    "title": "monde:::En direct, obsèques du pape François – Les photos interdites à la basilique Saint-Pierre pour accélérer le flux",
+    "added_at": "2025-04-24T17:10:55.534Z"
   }
 ]
