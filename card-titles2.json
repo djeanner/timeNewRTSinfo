@@ -205,7 +205,10 @@
   },
   {
     "title": "monde:::En direct, obsèques du pape François – Entre trois et quatre heures d’attente pour rendre un dernier hommage au Saint-Père",
-    "added_at": "2025-04-23T18:40:53.032Z"
+    "added_at": "2025-04-23T18:40:53.032Z",
+    "removed_at": "2025-04-24T02:49:16.773Z",
+    "duration_minutes": 488,
+    "duration_str": "8h 8m"
   },
   {
     "title": "monde:::Après l’attentat dans le Cachemire, l’Inde suspend son traité sur l’eau avec le Pakistan, entre autres mesures punitives",
@@ -217,7 +220,10 @@
   },
   {
     "title": "culture:::Les librairies indépendantes romandes s’allient pour la vente en ligne",
-    "added_at": "2025-04-23T21:07:44.610Z"
+    "added_at": "2025-04-23T21:07:44.610Z",
+    "removed_at": "2025-04-24T03:00:24.490Z",
+    "duration_minutes": 352,
+    "duration_str": "5h 52m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Donald Trump fait porter à Kiev la responsabilité du blocage des tractations avec Moscou",
@@ -228,6 +234,21 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Donald Trump accuse Volodymyr Zelensky de bloquer les tractations avec Moscou",
-    "added_at": "2025-04-24T02:41:54.126Z"
+    "added_at": "2025-04-24T02:41:54.126Z",
+    "removed_at": "2025-04-24T02:47:28.966Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Donald Trump accuse Volodymyr Zelensky de saboter les discussions, la Russie frappe Kiev",
+    "added_at": "2025-04-24T02:47:28.966Z"
+  },
+  {
+    "title": "monde:::En direct, obsèques du pape François – Nouvelle journée d’hommage à la basilique Saint-Pierre",
+    "added_at": "2025-04-24T02:51:08.816Z"
+  },
+  {
+    "title": "monde:::La RDC et le M23 annoncent vouloir «une trêve»",
+    "added_at": "2025-04-24T03:00:24.490Z"
   }
 ]
