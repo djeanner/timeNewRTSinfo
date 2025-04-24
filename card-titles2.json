@@ -366,7 +366,10 @@
   },
   {
     "title": "economie:::La guerre commerciale va compliquer le retour en grâce de Nestlé",
-    "added_at": "2025-04-24T10:11:13.298Z"
+    "added_at": "2025-04-24T10:11:13.298Z",
+    "removed_at": "2025-04-24T14:01:29.046Z",
+    "duration_minutes": 230,
+    "duration_str": "3h 50m"
   },
   {
     "title": "sciences:::Donald Trump veut priver la NASA de sa science",
@@ -410,5 +413,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – L'Espagne annule un contrat d'armement avec Israël",
     "added_at": "2025-04-24T13:31:43.958Z"
+  },
+  {
+    "title": "sport:::Voici l’ère des footballeurs-actionnaires",
+    "added_at": "2025-04-24T14:01:29.046Z"
   }
 ]
