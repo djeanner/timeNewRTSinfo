@@ -55,7 +55,10 @@
   },
   {
     "title": "suisse:::Dans le Haut-Valais, le réseau radio de sécurité Polycom a montré ses limites face aux chutes de neige",
-    "added_at": "2025-04-23T15:17:53.838Z"
+    "added_at": "2025-04-23T15:17:53.838Z",
+    "removed_at": "2025-04-24T04:03:31.147Z",
+    "duration_minutes": 765,
+    "duration_str": "12h 45m"
   },
   {
     "title": "economie:::La Suisse dispose désormais d’un nouvel atout sur le marché de l’électricité: une centrale virtuelle",
@@ -161,10 +164,7 @@
   },
   {
     "title": "suisse:::A Schwytz, le centre d’asile de la discorde continue d’échauffer les esprits",
-    "added_at": "2025-04-23T16:36:30.427Z",
-    "removed_at": "2025-04-23T20:30:33.690Z",
-    "duration_minutes": 234,
-    "duration_str": "3h 54m"
+    "added_at": "2025-04-23T16:36:30.427Z"
   },
   {
     "title": "economie:::En direct, guerre commerciale – Karin Keller-Sutter devrait rencontrer le ministre américain des finances d’ici à jeudi soir",
@@ -186,7 +186,10 @@
   },
   {
     "title": "suisse:::Les frais d’Erasmus+ vont tripler quand la Suisse réintégrera le programme de mobilité",
-    "added_at": "2025-04-23T17:11:44.369Z"
+    "added_at": "2025-04-23T17:11:44.369Z",
+    "removed_at": "2025-04-24T04:05:24.988Z",
+    "duration_minutes": 653,
+    "duration_str": "10h 53m"
   },
   {
     "title": "culture:::«La Cour maudite» d’Ivo Andric, une méditation sur le pouvoir d’une saisissante actualité",
@@ -215,7 +218,10 @@
   },
   {
     "title": "monde:::Après l’attentat dans le Cachemire, l’Inde suspend son traité sur l’eau avec le Pakistan, entre autres mesures punitives",
-    "added_at": "2025-04-23T20:30:33.690Z"
+    "added_at": "2025-04-23T20:30:33.690Z",
+    "removed_at": "2025-04-24T04:05:24.988Z",
+    "duration_minutes": 454,
+    "duration_str": "7h 34m"
   },
   {
     "title": "culture:::A Mendrisio, l’architecture moderne japonaise redécouverte",
@@ -255,7 +261,10 @@
   },
   {
     "title": "monde:::La RDC et le M23 annoncent vouloir «une trêve»",
-    "added_at": "2025-04-24T03:00:24.490Z"
+    "added_at": "2025-04-24T03:00:24.490Z",
+    "removed_at": "2025-04-24T04:05:24.988Z",
+    "duration_minutes": 65,
+    "duration_str": "1h 5m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Abbas appelle le Hamas à libérer les otages à Gaza",
@@ -264,5 +273,17 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Des frappes russes sur Kiev pendant la nuit font au moins neuf morts et plus de 60 blessés",
     "added_at": "2025-04-24T03:50:30.788Z"
+  },
+  {
+    "title": "suisse:::Rétentions à répétition du côté du fisc vaudois",
+    "added_at": "2025-04-24T04:05:24.988Z"
+  },
+  {
+    "title": "economie:::Les 10 ans de l’Apple Watch et la Suisse: à malin, malin et demi",
+    "added_at": "2025-04-24T04:05:24.988Z"
+  },
+  {
+    "title": "cyber:::Hyperconnexion, mesures de santé et coaching sportif: en dix ans, l’Apple Watch a bouleversé notre rapport aux écrans",
+    "added_at": "2025-04-24T04:05:24.988Z"
   }
 ]
