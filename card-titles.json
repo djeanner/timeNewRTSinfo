@@ -820,7 +820,10 @@
   },
   {
     "title": "Les salaires ont augmenté en 2024, comme le pouvoir d'achat",
-    "added_at": "2025-04-22T12:34:24.908Z"
+    "added_at": "2025-04-22T12:34:24.908Z",
+    "removed_at": "2025-04-24T19:06:02.570Z",
+    "duration_minutes": 3271,
+    "duration_str": "2d 6h 31m"
   },
   {
     "title": "Ignazio Cassis loue la cohésion et le dialogue à l'exposition universelle d'Osaka",
@@ -1346,5 +1349,9 @@
   {
     "title": "La Suisse et la Chine prônent le \"dialogue\" face aux taxes américaines",
     "added_at": "2025-04-24T16:37:29.814Z"
+  },
+  {
+    "title": "Un nouveau titre pour le NUC et Bertolacci",
+    "added_at": "2025-04-24T19:06:02.570Z"
   }
 ]
