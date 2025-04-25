@@ -1101,7 +1101,10 @@
   },
   {
     "title": "L'UE inflige de lourdes amendes à Apple et Meta pour concurrence déloyale",
-    "added_at": "2025-04-23T11:04:22.189Z"
+    "added_at": "2025-04-23T11:04:22.189Z",
+    "removed_at": "2025-04-25T17:43:16.720Z",
+    "duration_minutes": 3278,
+    "duration_str": "2d 6h 38m"
   },
   {
     "title": "La Poste veut proposer un service de lettres électroniques sécurisées",
@@ -1540,9 +1543,9 @@
   {
     "title": "La foule continue à rendre hommage au pape François avant ses funérailles samedi matin",
     "added_at": "2025-04-25T15:20:19.764Z",
-    "removed_at": "2025-04-25T17:30:19.876Z",
-    "duration_minutes": 130,
-    "duration_str": "2h 10m"
+    "removed_at": "2025-04-25T17:37:42.372Z",
+    "duration_minutes": 137,
+    "duration_str": "2h 17m"
   },
   {
     "title": "La Confédération diminue ses aides aux ONG suisses actives à l'étranger",
@@ -1595,5 +1598,9 @@
   {
     "title": "Les hommages au pape François ont pris fin, quelque 250'000 fidèles ont défilé",
     "added_at": "2025-04-25T17:28:25.622Z"
+  },
+  {
+    "title": "Malgré la grogne des éleveurs, Vaud ne prévoit pas de tirs de régulation du loup dans l'immédiat",
+    "added_at": "2025-04-25T17:43:16.720Z"
   }
 ]
