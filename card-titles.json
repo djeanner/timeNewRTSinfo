@@ -1176,7 +1176,10 @@
   },
   {
     "title": "Les demandes d'asile baissent, mais les cantons restent inquiets",
-    "added_at": "2025-04-23T15:02:00.803Z"
+    "added_at": "2025-04-23T15:02:00.803Z",
+    "removed_at": "2025-04-25T19:29:07.170Z",
+    "duration_minutes": 3147,
+    "duration_str": "2d 4h 27m"
   },
   {
     "title": "Pour ses 45 ans de carrière, Youssou N'Dour veut encore \"Eclairer le monde\" avec un album",
@@ -1271,11 +1274,17 @@
   },
   {
     "title": "La fille de François Bayrou révèle avoir subi une agression à Notre-Dame de Bétharram",
-    "added_at": "2025-04-23T23:17:40.590Z"
+    "added_at": "2025-04-23T23:17:40.590Z",
+    "removed_at": "2025-04-25T19:25:25.398Z",
+    "duration_minutes": 2647,
+    "duration_str": "1d 20h 7m"
   },
   {
     "title": "Deux cardinaux suisses seront présents au conclave",
-    "added_at": "2025-04-24T00:18:55.828Z"
+    "added_at": "2025-04-24T00:18:55.828Z",
+    "removed_at": "2025-04-25T19:23:33.482Z",
+    "duration_minutes": 2584,
+    "duration_str": "1d 19h 4m"
   },
   {
     "title": "Donald Trump \"pense avoir un accord\" avec la Russie et fustige Volodymyr Zelensky",
@@ -1609,5 +1618,17 @@
   {
     "title": "Le profil de l'élève mis en cause dans l'attaque au couteau à Nantes se précise",
     "added_at": "2025-04-25T19:12:24.523Z"
+  },
+  {
+    "title": "Baisse du prix de l'essence : bientôt 1,50 CHF le litre ?",
+    "added_at": "2025-04-25T19:23:33.482Z"
+  },
+  {
+    "title": "La Russie est \"prête\" à conclure un accord pour mettre fin à la guerre en Ukraine, selon son chef de la diplomatie",
+    "added_at": "2025-04-25T19:25:25.398Z"
+  },
+  {
+    "title": "Gagner l'Eurovision est un tremplin, mais n'ouvre pas toujours une voie royale vers le succès",
+    "added_at": "2025-04-25T19:29:07.170Z"
   }
 ]
