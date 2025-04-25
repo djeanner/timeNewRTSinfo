@@ -502,7 +502,10 @@
   },
   {
     "title": "sciences:::Hubble, trente-cinq années de science et d’enchantement",
-    "added_at": "2025-04-24T19:04:10.110Z"
+    "added_at": "2025-04-24T19:04:10.110Z",
+    "removed_at": "2025-04-25T05:17:00.738Z",
+    "duration_minutes": 612,
+    "duration_str": "10h 12m"
   },
   {
     "title": "culture:::«iHostage», acheter des écouteurs sans fil et risquer sa vie",
@@ -541,5 +544,9 @@
   {
     "title": "cyber:::Le Conseil fédéral sème la confusion en jouant la montre face à des plateformes comme TikTok et Amazon",
     "added_at": "2025-04-25T04:43:34.934Z"
+  },
+  {
+    "title": "suisse:::Genève songe à des procureurs d’un nouveau genre pour parer aux absences prolongées",
+    "added_at": "2025-04-25T05:17:00.738Z"
   }
 ]
