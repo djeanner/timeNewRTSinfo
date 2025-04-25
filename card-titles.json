@@ -1303,7 +1303,10 @@
   },
   {
     "title": "Au moins 200'000 personnes attendues aux obsèques de François samedi",
-    "added_at": "2025-04-24T12:54:40.272Z"
+    "added_at": "2025-04-24T12:54:40.272Z",
+    "removed_at": "2025-04-25T05:48:38.348Z",
+    "duration_minutes": 1013,
+    "duration_str": "16h 53m"
   },
   {
     "title": "Le ton monte entre l'Inde et le Pakistan après l'attentat qui a fait 26 morts au Cachemire",
@@ -1420,5 +1423,9 @@
   {
     "title": "Les boîtes à clés, un système pratique mais moins sécurisé qu'on ne le pense",
     "added_at": "2025-04-25T04:26:53.268Z"
+  },
+  {
+    "title": "Le Vatican met la dernière main aux préparatifs des funérailles du pape François",
+    "added_at": "2025-04-25T05:48:38.348Z"
   }
 ]
