@@ -1100,7 +1100,10 @@
   },
   {
     "title": "Feu vert pour les travaux sous la place de la gare de Lausanne",
-    "added_at": "2025-04-23T10:59:44.056Z"
+    "added_at": "2025-04-23T10:59:44.056Z",
+    "removed_at": "2025-04-25T19:32:54.016Z",
+    "duration_minutes": 3393,
+    "duration_str": "2d 8h 33m"
   },
   {
     "title": "L'UE inflige de lourdes amendes à Apple et Meta pour concurrence déloyale",
@@ -1630,5 +1633,9 @@
   {
     "title": "Gagner l'Eurovision est un tremplin, mais n'ouvre pas toujours une voie royale vers le succès",
     "added_at": "2025-04-25T19:29:07.170Z"
+  },
+  {
+    "title": "La Tessinoise Francesca Torrani  journaliste suisse de l'année, un reportage de Mise au Point primé",
+    "added_at": "2025-04-25T19:32:54.016Z"
   }
 ]
