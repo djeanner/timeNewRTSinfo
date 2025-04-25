@@ -1143,7 +1143,10 @@
   },
   {
     "title": "Deux cardinaux suisses participeront au conclave chargé d'élire le nouveau pape",
-    "added_at": "2025-04-23T13:51:34.991Z"
+    "added_at": "2025-04-23T13:51:34.991Z",
+    "removed_at": "2025-04-25T20:37:52.353Z",
+    "duration_minutes": 3286,
+    "duration_str": "2d 6h 46m"
   },
   {
     "title": "Les fidèles affluent à la basilique Saint-Pierre où est exposé le corps du pape François",
@@ -1175,7 +1178,10 @@
   },
   {
     "title": "Mahmoud Abbas exhorte le Hamas à \"libérer les otages\" car le \"peuple en paie le prix\"",
-    "added_at": "2025-04-23T14:37:30.155Z"
+    "added_at": "2025-04-23T14:37:30.155Z",
+    "removed_at": "2025-04-25T20:43:26.208Z",
+    "duration_minutes": 3245,
+    "duration_str": "2d 6h 5m"
   },
   {
     "title": "Les demandes d'asile baissent, mais les cantons restent inquiets",
@@ -1637,5 +1643,13 @@
   {
     "title": "La Tessinoise Francesca Torrani  journaliste suisse de l'année, un reportage de Mise au Point primé",
     "added_at": "2025-04-25T19:32:54.016Z"
+  },
+  {
+    "title": "Aux Etats-Unis, le meurtrier présumé du patron d'un géant des assurances plaide non coupable",
+    "added_at": "2025-04-25T20:37:52.353Z"
+  },
+  {
+    "title": "Apple veut assembler l'iPhone en Inde pour éviter les taxes douanières chinoises",
+    "added_at": "2025-04-25T20:43:26.208Z"
   }
 ]
