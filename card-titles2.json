@@ -433,7 +433,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L'Espagne annule un contrat d'armement avec Israël",
-    "added_at": "2025-04-24T13:31:43.958Z"
+    "added_at": "2025-04-24T13:31:43.958Z",
+    "removed_at": "2025-04-25T02:39:14.054Z",
+    "duration_minutes": 787,
+    "duration_str": "13h 7m"
   },
   {
     "title": "sport:::Voici l’ère des footballeurs-actionnaires",
@@ -527,5 +530,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine –Sergueï Lavrov assure que la Russie est «prête» à conclure un accord",
     "added_at": "2025-04-25T02:22:31.259Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L'émissaire américain Steve Witkoff participera samedi à des pourparlers avec l'Iran",
+    "added_at": "2025-04-25T02:39:14.054Z"
   }
 ]
