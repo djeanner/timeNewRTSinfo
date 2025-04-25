@@ -977,7 +977,10 @@
   },
   {
     "title": "Une attaque contre un bus de touristes au Cachemire indien fait 26 morts",
-    "added_at": "2025-04-23T07:30:32.930Z"
+    "added_at": "2025-04-23T07:30:32.930Z",
+    "removed_at": "2025-04-25T04:26:53.268Z",
+    "duration_minutes": 2696,
+    "duration_str": "1d 20h 56m"
   },
   {
     "title": "Le corps du pape transféré vers la basilique Saint-Pierre, où des milliers de fidèles sont attendus",
@@ -1413,5 +1416,9 @@
   {
     "title": "La Russie est \"prête\" à conclure un accord pour mettre fin à la guerre en Ukraine",
     "added_at": "2025-04-25T03:46:05.477Z"
+  },
+  {
+    "title": "Les boîtes à clés, un système pratique mais moins sécurisé qu'on ne le pense",
+    "added_at": "2025-04-25T04:26:53.268Z"
   }
 ]
