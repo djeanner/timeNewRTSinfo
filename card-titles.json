@@ -1121,7 +1121,10 @@
   },
   {
     "title": "Un séisme de magnitude 6,2 secoue Istanbul sans faire de victime, selon un premier bilan",
-    "added_at": "2025-04-23T12:57:13.453Z"
+    "added_at": "2025-04-23T12:57:13.453Z",
+    "removed_at": "2025-04-25T23:26:51.681Z",
+    "duration_minutes": 3509,
+    "duration_str": "2d 10h 29m"
   },
   {
     "title": "La fille du Premier ministre français François Bayrou révèle avoir subi une agression à Notre-Dame de Bétharram",
@@ -1448,7 +1451,10 @@
   },
   {
     "title": "La reformation du groupe Oasis crée une vague d'arnaque aux billets sans précédent au Royaume-Uni",
-    "added_at": "2025-04-24T15:19:29.075Z"
+    "added_at": "2025-04-24T15:19:29.075Z",
+    "removed_at": "2025-04-25T23:24:57.557Z",
+    "duration_minutes": 1925,
+    "duration_str": "1d 8h 5m"
   },
   {
     "title": "\"Vladimir, stop!\": Donald Trump critique Vladimir Poutine après l'attaque qui a fait douze morts à Kiev",
@@ -1637,10 +1643,7 @@
   },
   {
     "title": "La Russie est \"prête\" à conclure un accord pour mettre fin à la guerre en Ukraine, selon son chef de la diplomatie",
-    "added_at": "2025-04-25T19:25:25.398Z",
-    "removed_at": "2025-04-25T21:26:07.407Z",
-    "duration_minutes": 120,
-    "duration_str": "2h"
+    "added_at": "2025-04-25T19:25:25.398Z"
   },
   {
     "title": "Gagner l'Eurovision est un tremplin, mais n'ouvre pas toujours une voie royale vers le succès",
@@ -1665,5 +1668,9 @@
   {
     "title": "Des scientifiques ont la preuve que les gladiateurs se battaient avec des animaux",
     "added_at": "2025-04-25T21:26:07.407Z"
+  },
+  {
+    "title": "Rendez-vous culture avec la chanteuse et humoriste Priscilla Formaz alias FORMA",
+    "added_at": "2025-04-25T23:24:57.557Z"
   }
 ]
