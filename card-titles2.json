@@ -129,7 +129,10 @@
   },
   {
     "title": "monde:::Des mines en Europe? Un mal nécessaire pour certains, une aberration pour d’autres et un crève-cœur pour beaucoup",
-    "added_at": "2025-04-23T15:17:53.838Z"
+    "added_at": "2025-04-23T15:17:53.838Z",
+    "removed_at": "2025-04-25T09:11:01.277Z",
+    "duration_minutes": 2513,
+    "duration_str": "1d 17h 53m"
   },
   {
     "title": "sciences:::«Une maladie évitable»: le discours de RFK Jr sur l’autisme génère un débat sur la place du handicap dans la société",
@@ -182,7 +185,10 @@
   },
   {
     "title": "suisse:::A Schwytz, le centre d’asile de la discorde continue d’échauffer les esprits",
-    "added_at": "2025-04-23T16:36:30.427Z"
+    "added_at": "2025-04-23T16:36:30.427Z",
+    "removed_at": "2025-04-25T09:22:09.408Z",
+    "duration_minutes": 2445,
+    "duration_str": "1d 16h 45m"
   },
   {
     "title": "economie:::En direct, guerre commerciale – Karin Keller-Sutter devrait rencontrer le ministre américain des finances d’ici à jeudi soir",
@@ -193,10 +199,7 @@
   },
   {
     "title": "monde:::A Kiev, l’idée américaine de reconnaître la Crimée comme territoire russe n’a pas l’ombre d’une chance",
-    "added_at": "2025-04-23T17:02:29.002Z",
-    "removed_at": "2025-04-24T16:52:18.199Z",
-    "duration_minutes": 1429,
-    "duration_str": "23h 49m"
+    "added_at": "2025-04-23T17:02:29.002Z"
   },
   {
     "title": "economie:::En direct, guerre commerciale – Karin Keller-Sutter devrait rencontrer le ministre américain des Finances d’ici à jeudi soir",
@@ -426,7 +429,10 @@
   },
   {
     "title": "economie:::A Neuchâtel, une première centrale solaire entre des rails de train",
-    "added_at": "2025-04-24T13:31:43.958Z"
+    "added_at": "2025-04-24T13:31:43.958Z",
+    "removed_at": "2025-04-25T09:22:09.408Z",
+    "duration_minutes": 1190,
+    "duration_str": "19h 50m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L'Espagne annule un contrat d'armement avec Israël",
@@ -476,10 +482,7 @@
   },
   {
     "title": "suisse:::Les partis politiques pourront consulter les accords avec l’Union européenne avant qu’ils ne soient publics",
-    "added_at": "2025-04-24T17:07:09.556Z",
-    "removed_at": "2025-04-24T21:19:47.886Z",
-    "duration_minutes": 252,
-    "duration_str": "4h 12m"
+    "added_at": "2025-04-24T17:07:09.556Z"
   },
   {
     "title": "monde:::En direct, obsèques du pape François – Les photos interdites à la basilique Saint-Pierre pour accélérer le flux",
@@ -495,7 +498,10 @@
   },
   {
     "title": "sciences:::Hubble, le doyen des télescopes spatiaux, n’a pas fini de nous surprendre",
-    "added_at": "2025-04-24T19:04:10.110Z"
+    "added_at": "2025-04-24T19:04:10.110Z",
+    "removed_at": "2025-04-25T09:20:21.294Z",
+    "duration_minutes": 856,
+    "duration_str": "14h 16m"
   },
   {
     "title": "sciences:::Hubble, trente-cinq années de science et d’enchantement",
@@ -513,7 +519,10 @@
   },
   {
     "title": "sport:::Vainqueur à Lausanne, Zurich est champion de Suisse de hockey pour la onzième fois",
-    "added_at": "2025-04-24T20:31:32.846Z"
+    "added_at": "2025-04-24T20:31:32.846Z",
+    "removed_at": "2025-04-25T09:22:09.408Z",
+    "duration_minutes": 770,
+    "duration_str": "12h 50m"
   },
   {
     "title": "economie:::Guerre commerciale – A Washington, Karin Keller-Sutter évoque des «échanges productifs» avec l’administration Trump",
@@ -535,7 +544,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine –Sergueï Lavrov assure que la Russie est «prête» à conclure un accord",
-    "added_at": "2025-04-25T02:22:31.259Z"
+    "added_at": "2025-04-25T02:22:31.259Z",
+    "removed_at": "2025-04-25T09:07:19.211Z",
+    "duration_minutes": 404,
+    "duration_str": "6h 44m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L'émissaire américain Steve Witkoff participera samedi à des pourparlers avec l'Iran",
@@ -560,5 +572,21 @@
   {
     "title": "monde:::Donald Trump peut-il briguer un troisième mandat? Non. Le fera-t-il? Il se délecte en tout cas du suspense",
     "added_at": "2025-04-25T07:01:02.506Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Pour le maire de Kiev, l’Ukraine pourrait devoir céder des territoires pour obtenir une paix temporaire",
+    "added_at": "2025-04-25T09:07:19.211Z"
+  },
+  {
+    "title": "monde:::Une «trêve pascale» en forme de répit diplomatique pour Vladimir Poutine",
+    "added_at": "2025-04-25T09:11:01.277Z"
+  },
+  {
+    "title": "culture:::A l’Ariana, un pays des merveilles, de contes et de couleurs créé par Antonio Vasconcelos Lapa",
+    "added_at": "2025-04-25T09:20:21.294Z"
+  },
+  {
+    "title": "monde:::Psychiatrie ou ensauvagement? L’attaque au couteau dans un lycée de Nantes relance la machine à récupération politique française",
+    "added_at": "2025-04-25T09:22:09.408Z"
   }
 ]
