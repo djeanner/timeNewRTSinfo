@@ -953,7 +953,10 @@
   },
   {
     "title": "Encore battu à Zurich, Lausanne est dos au mur",
-    "added_at": "2025-04-22T20:25:03.602Z"
+    "added_at": "2025-04-22T20:25:03.602Z",
+    "removed_at": "2025-04-25T06:16:28.962Z",
+    "duration_minutes": 3471,
+    "duration_str": "2d 9h 51m"
   },
   {
     "title": "Elon Musk se consacrera beaucoup moins à l'administration Trump dès mai",
@@ -1427,5 +1430,9 @@
   {
     "title": "Le Vatican met la dernière main aux préparatifs des funérailles du pape François",
     "added_at": "2025-04-25T05:48:38.348Z"
+  },
+  {
+    "title": "L'USAM joue la carte provoc avec sa campagne contre \"l'Etat-nounou\"",
+    "added_at": "2025-04-25T06:16:28.962Z"
   }
 ]
