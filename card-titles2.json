@@ -838,7 +838,10 @@
   },
   {
     "title": "monde:::Une «puissante» explosion dans un port fait plus de 500 blessés en Iran",
-    "added_at": "2025-04-26T13:07:21.669Z"
+    "added_at": "2025-04-26T13:07:21.669Z",
+    "removed_at": "2025-04-26T16:00:01.956Z",
+    "duration_minutes": 172,
+    "duration_str": "2h 52m"
   },
   {
     "title": "sport:::Julien Wanders, inlassable artiste nietzschéen, de retour sur marathon",
@@ -873,5 +876,9 @@
   {
     "title": "culture:::L’âme de -M- est au Mali",
     "added_at": "2025-04-26T15:48:53.137Z"
+  },
+  {
+    "title": "monde:::Une «puissante» explosion dans un port en Iran fait plus de 500 blessés",
+    "added_at": "2025-04-26T16:00:01.956Z"
   }
 ]
