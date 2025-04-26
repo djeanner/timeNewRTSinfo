@@ -857,7 +857,10 @@
   },
   {
     "title": "sport:::Julien Wanders, inlassable artiste nietzschéen, de retour sur marathon",
-    "added_at": "2025-04-26T13:11:07.539Z"
+    "added_at": "2025-04-26T13:11:07.539Z",
+    "removed_at": "2025-04-26T21:23:13.046Z",
+    "duration_minutes": 492,
+    "duration_str": "8h 12m"
   },
   {
     "title": "culture:::Le Jukebox d’avril 2025: Elton John et Brandi Carlile, Bon Iver, Beirut…",
@@ -918,5 +921,9 @@
   {
     "title": "monde:::Guerre en Ukraine – Vladimir Poutine se dit prêt à négocier «sans aucune condition préalable»",
     "added_at": "2025-04-26T20:05:13.101Z"
+  },
+  {
+    "title": "sport:::FC Bienne a réalisé le plus grand exploit du football suisse",
+    "added_at": "2025-04-26T21:23:13.046Z"
   }
 ]
