@@ -1792,7 +1792,10 @@
   },
   {
     "title": "Une \"puissante explosion\" dans un port en Iran fait des centaines de blessés",
-    "added_at": "2025-04-26T11:25:19.410Z"
+    "added_at": "2025-04-26T11:25:19.410Z",
+    "removed_at": "2025-04-26T12:06:05.900Z",
+    "duration_minutes": 40,
+    "duration_str": "40m"
   },
   {
     "title": "La Chine annonce que sa capacité en énergie éolienne et solaire dépasse pour la première fois le thermique",
@@ -1805,5 +1808,9 @@
   {
     "title": "Après la messe place Saint-Pierre, le cercueil du pape a été conduit en la basilique Sainte-Marie-Majeure",
     "added_at": "2025-04-26T11:32:41.397Z"
+  },
+  {
+    "title": "Une \"puissante explosion\" dans un port en Iran fait plus de 500 blessés",
+    "added_at": "2025-04-26T12:02:24.131Z"
   }
 ]
