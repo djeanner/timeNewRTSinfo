@@ -1534,7 +1534,10 @@
   },
   {
     "title": "Inauguration dans le canton de Neuchâtel d'une centrale solaire installée sur une voie ferrée",
-    "added_at": "2025-04-24T20:20:25.748Z"
+    "added_at": "2025-04-24T20:20:25.748Z",
+    "removed_at": "2025-04-26T18:28:42.565Z",
+    "duration_minutes": 2768,
+    "duration_str": "1d 22h 8m"
   },
   {
     "title": "Lausanne battu, Zurich conserve son titre",
@@ -1666,7 +1669,10 @@
   },
   {
     "title": "Les premiers panneaux ferrovoltaïques ont été installés dans le Val-de-Travers",
-    "added_at": "2025-04-25T15:20:19.764Z"
+    "added_at": "2025-04-25T15:20:19.764Z",
+    "removed_at": "2025-04-26T18:28:42.565Z",
+    "duration_minutes": 1628,
+    "duration_str": "1d 3h 8m"
   },
   {
     "title": "Les Etats-Unis voudraient trouver rapidement un accord sur la guerre commerciale avec la Suisse: explications",
@@ -1739,10 +1745,7 @@
   },
   {
     "title": "L'USAM surprend avec sa nouvelle campagne contre \"l'Etat-nounou\"",
-    "added_at": "2025-04-26T05:26:58.312Z",
-    "removed_at": "2025-04-26T17:29:13.084Z",
-    "duration_minutes": 722,
-    "duration_str": "12h 2m"
+    "added_at": "2025-04-26T05:26:58.312Z"
   },
   {
     "title": "La reconnaissance faciale à l'aéroport, l'argent américain des hautes écoles suisses et la sécurité des boîtes à clés",
@@ -1910,5 +1913,9 @@
   {
     "title": "Une puissante explosion dans un port en Iran fait au moins cinq morts et plus de 700 blessés",
     "added_at": "2025-04-26T18:17:33.666Z"
+  },
+  {
+    "title": "L’alliance climatique manifeste à Berne pour dénoncer certains investissements de la BNS",
+    "added_at": "2025-04-26T18:28:42.565Z"
   }
 ]
