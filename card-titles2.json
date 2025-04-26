@@ -761,7 +761,10 @@
   },
   {
     "title": "monde:::Environ 50 arrestations dans l’enquête visant le maire d’Istanbul",
-    "added_at": "2025-04-26T09:46:51.866Z"
+    "added_at": "2025-04-26T09:46:51.866Z",
+    "removed_at": "2025-04-26T12:19:05.880Z",
+    "duration_minutes": 152,
+    "duration_str": "2h 32m"
   },
   {
     "title": "sport:::Ces hommes atypiques qui ont reconstruit le FC Bienne",
@@ -790,10 +793,21 @@
   },
   {
     "title": "monde:::En direct, obsèques du pape François – Le cercueil est arrivé à Sainte-Marie-Majeure ultime demeure du souverain pontife",
-    "added_at": "2025-04-26T11:03:01.712Z"
+    "added_at": "2025-04-26T11:03:01.712Z",
+    "removed_at": "2025-04-26T12:13:32.095Z",
+    "duration_minutes": 70,
+    "duration_str": "1h 10m"
   },
   {
     "title": "monde:::En direct –L'armée russe dit avoir repris entièrement le contrôle de la région russe de Koursk aux Ukrainiens",
     "added_at": "2025-04-26T11:40:07.582Z"
+  },
+  {
+    "title": "monde:::Obsèques du pape François – Le cercueil est arrivé à Sainte-Marie-Majeure ultime demeure du souverain pontife",
+    "added_at": "2025-04-26T12:13:32.095Z"
+  },
+  {
+    "title": "economie:::Le Brésil, un marché à double tranchant pour les medtechs suisses",
+    "added_at": "2025-04-26T12:19:05.880Z"
   }
 ]
