@@ -1324,7 +1324,10 @@
   },
   {
     "title": "Donald Trump \"pense avoir un accord\" avec la Russie et fustige Volodymyr Zelensky",
-    "added_at": "2025-04-24T01:42:28.551Z"
+    "added_at": "2025-04-24T01:42:28.551Z",
+    "removed_at": "2025-04-26T16:44:35.632Z",
+    "duration_minutes": 3782,
+    "duration_str": "2d 15h 2m"
   },
   {
     "title": "Mahmoud Abbas appelle le Hamas à libérer les otages à Gaza",
@@ -1875,5 +1878,16 @@
   {
     "title": "Karin Keller-Sutter a rencontré Donald Trump au Vatican en marge d'une \"cérémonie intense et émouvante\"",
     "added_at": "2025-04-26T15:32:11.190Z"
+  },
+  {
+    "title": "La route du Grand-Saint-Bernard sera praticable plus tôt que prévu",
+    "added_at": "2025-04-26T16:44:35.632Z",
+    "removed_at": "2025-04-26T16:52:01.943Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "La route du Grand-Saint-Bernard praticable plus tôt que prévu",
+    "added_at": "2025-04-26T16:52:01.943Z"
   }
 ]
