@@ -318,7 +318,10 @@
   },
   {
     "title": "suisse:::Rétentions à répétition du côté du fisc vaudois",
-    "added_at": "2025-04-24T04:05:24.988Z"
+    "added_at": "2025-04-24T04:05:24.988Z",
+    "removed_at": "2025-04-26T11:43:49.329Z",
+    "duration_minutes": 3338,
+    "duration_str": "2d 7h 38m"
   },
   {
     "title": "economie:::Les 10 ans de l’Apple Watch et la Suisse: à malin, malin et demi",
@@ -671,7 +674,10 @@
   },
   {
     "title": "monde:::En direct – Vladimir Poutine et l’émissaire américain ont évoqué de possibles «négociations directes» entre Moscou et Kiev",
-    "added_at": "2025-04-25T15:20:19.267Z"
+    "added_at": "2025-04-25T15:20:19.267Z",
+    "removed_at": "2025-04-26T11:40:07.582Z",
+    "duration_minutes": 1219,
+    "duration_str": "20h 19m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Programme alimentaire mondial annonce avoir «épuisé» ses stocks de nourriture à Gaza",
@@ -759,10 +765,7 @@
   },
   {
     "title": "sport:::Ces hommes atypiques qui ont reconstruit le FC Bienne",
-    "added_at": "2025-04-26T10:18:28.841Z",
-    "removed_at": "2025-04-26T10:44:25.657Z",
-    "duration_minutes": 25,
-    "duration_str": "25m"
+    "added_at": "2025-04-26T10:18:28.841Z"
   },
   {
     "title": "monde:::En direct, obsèques du pape François – La messe terminée, le souverain pontife sera inhumé à Sainte-Marie-Majeure, au centre de Rome",
@@ -788,5 +791,9 @@
   {
     "title": "monde:::En direct, obsèques du pape François – Le cercueil est arrivé à Sainte-Marie-Majeure ultime demeure du souverain pontife",
     "added_at": "2025-04-26T11:03:01.712Z"
+  },
+  {
+    "title": "monde:::En direct –L'armée russe dit avoir repris entièrement le contrôle de la région russe de Koursk aux Ukrainiens",
+    "added_at": "2025-04-26T11:40:07.582Z"
   }
 ]
