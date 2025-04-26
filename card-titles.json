@@ -1761,7 +1761,10 @@
   },
   {
     "title": "La messe des funérailles de François s'est achevée sur la place Saint-Pierre, le suivi en direct",
-    "added_at": "2025-04-26T10:27:43.496Z"
+    "added_at": "2025-04-26T10:27:43.496Z",
+    "removed_at": "2025-04-26T10:59:16.160Z",
+    "duration_minutes": 31,
+    "duration_str": "31m"
   },
   {
     "title": "Une victoire à l’Eurovision n’est pas forcément synonyme de succès",
@@ -1770,5 +1773,9 @@
   {
     "title": "Le Hamas se dit prêt à une trêve de cinq ans contre la libération des otages",
     "added_at": "2025-04-26T10:33:18.468Z"
+  },
+  {
+    "title": "Après la messe place Saint-Pierre, le cercueil du pape a été conduit en la basilique Sainte-Marie-Majeure. Notre suivi en direct",
+    "added_at": "2025-04-26T10:59:16.160Z"
   }
 ]
