@@ -1223,7 +1223,10 @@
   },
   {
     "title": "Une épidémie de chikungunya balaie La Réunion, déjà affaiblie par le cyclone Garance",
-    "added_at": "2025-04-23T16:17:54.681Z"
+    "added_at": "2025-04-23T16:17:54.681Z",
+    "removed_at": "2025-04-26T05:01:03.021Z",
+    "duration_minutes": 3643,
+    "duration_str": "2d 12h 43m"
   },
   {
     "title": "Intempéries en Valais: à Saas-Grund, les secouristes ont dû faire sans leurs talkies-walkies Polycom",
@@ -1672,5 +1675,9 @@
   {
     "title": "Rendez-vous culture avec la chanteuse et humoriste Priscilla Formaz alias FORMA",
     "added_at": "2025-04-25T23:24:57.557Z"
+  },
+  {
+    "title": "Le monde se prépare aux funérailles du pape François samedi matin",
+    "added_at": "2025-04-26T05:01:03.021Z"
   }
 ]
