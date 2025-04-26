@@ -1849,7 +1849,10 @@
   },
   {
     "title": "Une puissante explosion dans un port en Iran fait au moins quatre morts et plus de 500 blessés",
-    "added_at": "2025-04-26T12:56:13.059Z"
+    "added_at": "2025-04-26T12:56:13.059Z",
+    "removed_at": "2025-04-26T18:17:33.666Z",
+    "duration_minutes": 321,
+    "duration_str": "5h 21m"
   },
   {
     "title": "Le trafic de fourmis exotiques, nouvelle tendance du marché noir animalier",
@@ -1903,5 +1906,9 @@
   {
     "title": "Obsèques du pape François: un rassemblement diplomatique majeur",
     "added_at": "2025-04-26T17:29:13.084Z"
+  },
+  {
+    "title": "Une puissante explosion dans un port en Iran fait au moins cinq morts et plus de 700 blessés",
+    "added_at": "2025-04-26T18:17:33.666Z"
   }
 ]
