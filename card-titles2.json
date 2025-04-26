@@ -669,7 +669,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Programme alimentaire mondial annonce avoir «épuisé» ses stocks de nourriture à Gaza",
-    "added_at": "2025-04-25T15:20:19.267Z"
+    "added_at": "2025-04-25T15:20:19.267Z",
+    "removed_at": "2025-04-26T08:30:45.462Z",
+    "duration_minutes": 1030,
+    "duration_str": "17h 10m"
   },
   {
     "title": "sciences:::Quand les glaciers crachent des objets anciens et que des trous s’ouvrent sur des gouffres mortels",
@@ -722,5 +725,9 @@
   {
     "title": "monde:::En direct, obsèques du pape François – Au Vatican, le début des funérailles de tous les records",
     "added_at": "2025-04-26T07:22:02.333Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Gaza: le Hamas prêt à un accord prévoyant la libération des otages et une longue trêve",
+    "added_at": "2025-04-26T08:30:45.462Z"
   }
 ]
