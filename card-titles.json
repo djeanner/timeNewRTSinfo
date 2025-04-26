@@ -1921,7 +1921,10 @@
   },
   {
     "title": "Une puissante explosion dans un port en Iran fait au moins cinq morts et plus de 700 blessés",
-    "added_at": "2025-04-26T18:17:33.666Z"
+    "added_at": "2025-04-26T18:17:33.666Z",
+    "removed_at": "2025-04-26T19:20:38.641Z",
+    "duration_minutes": 63,
+    "duration_str": "1h 3m"
   },
   {
     "title": "L’alliance climatique manifeste à Berne pour dénoncer certains investissements de la BNS",
@@ -1938,5 +1941,9 @@
   {
     "title": "Importateurs de voiture et écologistes pestent contre l'ordonnance CO2",
     "added_at": "2025-04-26T19:05:47.582Z"
+  },
+  {
+    "title": "Une puissante explosion dans un port en Iran fait au moins huit morts et plus de 750 blessés",
+    "added_at": "2025-04-26T19:20:38.641Z"
   }
 ]
