@@ -1773,7 +1773,10 @@
   },
   {
     "title": "La compagnie Le Marchepied, qui fête ses 25 ans, forme les jeunes talents de la danse",
-    "added_at": "2025-04-25T15:20:19.764Z"
+    "added_at": "2025-04-25T15:20:19.764Z",
+    "removed_at": "2025-04-27T17:41:17.824Z",
+    "duration_minutes": 3020,
+    "duration_str": "2d 2h 20m"
   },
   {
     "title": "Les hommages au pape François ont pris fin, quelque 250'000 fidèles ont défilé",
@@ -2160,7 +2163,10 @@
   },
   {
     "title": "Un automobiliste tue neuf personnes en fonçant dans la foule lors d'un festival à Vancouver",
-    "added_at": "2025-04-27T10:28:33.795Z"
+    "added_at": "2025-04-27T10:28:33.795Z",
+    "removed_at": "2025-04-27T17:31:57.989Z",
+    "duration_minutes": 423,
+    "duration_str": "7h 3m"
   },
   {
     "title": "Le Premier ministre du Groenland en visite au Danemark pour contrer l'appétit de Donald Trump",
@@ -2257,5 +2263,9 @@
   {
     "title": "Un automobiliste tue onze personnes en fonçant dans la foule lors d'un festival à Vancouver",
     "added_at": "2025-04-27T17:24:35.389Z"
+  },
+  {
+    "title": "Des défenseurs des animaux déposent une plainte contre une affiche de la BEA",
+    "added_at": "2025-04-27T17:41:17.824Z"
   }
 ]

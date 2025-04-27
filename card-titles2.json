@@ -1075,7 +1075,10 @@
   },
   {
     "title": "suisse:::Les incidents racistes ont augmenté de 40% en Suisse l’an dernier",
-    "added_at": "2025-04-27T13:11:58.157Z"
+    "added_at": "2025-04-27T13:11:58.157Z",
+    "removed_at": "2025-04-27T17:31:57.637Z",
+    "duration_minutes": 259,
+    "duration_str": "4h 19m"
   },
   {
     "title": "suisse:::Angela Koller devient la première femme Landammann élue à Appenzell",
@@ -1148,5 +1151,9 @@
   {
     "title": "monde:::L’Inde et le Pakistan échangent de nouveaux tirs à la frontière",
     "added_at": "2025-04-27T16:58:32.248Z"
+  },
+  {
+    "title": "suisse:::La présidence de la ville de Zurich aiguise les appétits",
+    "added_at": "2025-04-27T17:31:57.637Z"
   }
 ]
