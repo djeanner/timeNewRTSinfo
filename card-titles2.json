@@ -976,7 +976,10 @@
   },
   {
     "title": "monde:::En Iran, une explosion dévastatrice dans un port fait au moins 25 morts et 800 blessés",
-    "added_at": "2025-04-27T07:00:40.163Z"
+    "added_at": "2025-04-27T07:00:40.163Z",
+    "removed_at": "2025-04-27T09:31:04.858Z",
+    "duration_minutes": 150,
+    "duration_str": "2h 30m"
   },
   {
     "title": "suisse:::«Ils ont lancé l’assaut»: Treize supporters du FC Sion portent plainte contre la police valaisanne",
@@ -993,5 +996,9 @@
   {
     "title": "monde:::«Il venait toujours prier ici» : à Sainte-Marie-Majeure, dernière demeure du pape François",
     "added_at": "2025-04-27T09:03:12.940Z"
+  },
+  {
+    "title": "monde:::Une explosion dévastatrice dans le principal port d’Iran fait au moins 25 morts et 1000 blessés",
+    "added_at": "2025-04-27T09:31:04.858Z"
   }
 ]
