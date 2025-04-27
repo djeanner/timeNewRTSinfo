@@ -795,7 +795,10 @@
   },
   {
     "title": "sport:::Ces hommes atypiques qui ont reconstruit le FC Bienne",
-    "added_at": "2025-04-26T10:18:28.841Z"
+    "added_at": "2025-04-26T10:18:28.841Z",
+    "removed_at": "2025-04-27T18:49:56.685Z",
+    "duration_minutes": 1951,
+    "duration_str": "1d 8h 31m"
   },
   {
     "title": "monde:::En direct, obsèques du pape François – La messe terminée, le souverain pontife sera inhumé à Sainte-Marie-Majeure, au centre de Rome",
@@ -989,7 +992,10 @@
   },
   {
     "title": "monde:::Vienne, «rouge» avec bonheur depuis plus d’un siècle",
-    "added_at": "2025-04-27T06:40:11.852Z"
+    "added_at": "2025-04-27T06:40:11.852Z",
+    "removed_at": "2025-04-27T18:35:06.829Z",
+    "duration_minutes": 714,
+    "duration_str": "11h 54m"
   },
   {
     "title": "monde:::En Iran, une puissante explosion dans un port fait au moins 25 morts et 800 blessés",
@@ -1132,10 +1138,7 @@
   },
   {
     "title": "culture:::En images – Avec la photographe Jessica Dreier, le voyage au bout des images",
-    "added_at": "2025-04-27T15:07:06.603Z",
-    "removed_at": "2025-04-27T17:48:39.933Z",
-    "duration_minutes": 161,
-    "duration_str": "2h 41m"
+    "added_at": "2025-04-27T15:07:06.603Z"
   },
   {
     "title": "monde:::«Peut-être qu’il me balade»: à Rome, le doute s’invite dans l’idylle qu’espérait Donald Trump avec Vladimir Poutine",
@@ -1159,11 +1162,17 @@
   },
   {
     "title": "monde:::L’Inde et le Pakistan échangent de nouveaux tirs à la frontière",
-    "added_at": "2025-04-27T16:58:32.248Z"
+    "added_at": "2025-04-27T16:58:32.248Z",
+    "removed_at": "2025-04-27T18:37:00.741Z",
+    "duration_minutes": 98,
+    "duration_str": "1h 38m"
   },
   {
     "title": "suisse:::La présidence de la ville de Zurich aiguise les appétits",
-    "added_at": "2025-04-27T17:31:57.637Z"
+    "added_at": "2025-04-27T17:31:57.637Z",
+    "removed_at": "2025-04-27T18:49:56.685Z",
+    "duration_minutes": 77,
+    "duration_str": "1h 17m"
   },
   {
     "title": "sport:::A Bastogne, entre Liège et Liège, seul Pogacar ne regarde pas derrière",
@@ -1171,10 +1180,25 @@
   },
   {
     "title": "sport:::Le FC Bienne finaliste de la Coupe de Suisse: les cinq raisons d’un exploit historique",
-    "added_at": "2025-04-27T18:14:43.097Z"
+    "added_at": "2025-04-27T18:14:43.097Z",
+    "removed_at": "2025-04-27T18:49:56.685Z",
+    "duration_minutes": 35,
+    "duration_str": "35m"
   },
   {
     "title": "cyber:::Comment empêcher Facebook, Instagram, ChatGPT ou LinkedIn d’utiliser nos données pour entraîner leur intelligence artificielle",
     "added_at": "2025-04-27T18:31:25.908Z"
+  },
+  {
+    "title": "monde:::L’Allemagne commémore la libération du camp de concentration nazi de Bergen-Belsen",
+    "added_at": "2025-04-27T18:37:00.741Z"
+  },
+  {
+    "title": "culture:::Un rescapé de la Shoah traque le meurtrier de ses parents: «La ligne» d’Aharon Appelfeld, un roman de 1991 resté inédit en français",
+    "added_at": "2025-04-27T18:37:00.741Z"
+  },
+  {
+    "title": "sport:::Kim Le Court, première cycliste africaine à remporter une course World Tour",
+    "added_at": "2025-04-27T18:49:56.685Z"
   }
 ]
