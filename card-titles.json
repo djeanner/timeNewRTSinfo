@@ -1953,7 +1953,10 @@
   },
   {
     "title": "Une puissante explosion dans un port en Iran fait au moins huit morts et plus de 750 blessés",
-    "added_at": "2025-04-26T19:20:38.641Z"
+    "added_at": "2025-04-26T19:20:38.641Z",
+    "removed_at": "2025-04-27T00:06:36.405Z",
+    "duration_minutes": 285,
+    "duration_str": "4h 45m"
   },
   {
     "title": "Le projet de transport de marchandises \"Cargo sous terrain\" est en grande difficulté",
@@ -1966,5 +1969,9 @@
   {
     "title": "Les obsèques du pape François ont été le théâtre de rencontres informelles entre nombreux chefs d'Etat",
     "added_at": "2025-04-26T23:29:30.989Z"
+  },
+  {
+    "title": "Une puissante explosion dans un port en Iran fait au moins 14 morts et plus de 750 blessés",
+    "added_at": "2025-04-27T00:06:36.405Z"
   }
 ]
