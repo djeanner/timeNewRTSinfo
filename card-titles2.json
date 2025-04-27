@@ -658,7 +658,10 @@
   },
   {
     "title": "suisse:::Dans les forêts valaisannes dévastées par les neiges d’avril, les bûcherons travailleront pendant des mois",
-    "added_at": "2025-04-25T15:20:19.267Z"
+    "added_at": "2025-04-25T15:20:19.267Z",
+    "removed_at": "2025-04-27T09:01:18.911Z",
+    "duration_minutes": 2500,
+    "duration_str": "1d 17h 40m"
   },
   {
     "title": "sport:::Les ZSC Lions sur le toit de la Suisse et de l’Europe",
@@ -982,5 +985,13 @@
   {
     "title": "culture:::Avec «Sud», Mario Fortunato signe une plongée vibrante d’humanité dans le Mezzogiorno",
     "added_at": "2025-04-27T08:11:09.908Z"
+  },
+  {
+    "title": "monde:::Rome et le monde ont fait leurs adieux au pape François: «A nous maintenant de te demander de prier pour nous»",
+    "added_at": "2025-04-27T09:01:18.911Z"
+  },
+  {
+    "title": "monde:::«Il venait toujours prier ici» : à Sainte-Marie-Majeure, dernière demeure du pape François",
+    "added_at": "2025-04-27T09:03:12.940Z"
   }
 ]
