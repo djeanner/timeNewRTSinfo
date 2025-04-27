@@ -1596,7 +1596,10 @@
   },
   {
     "title": "Des frappes israéliennes font au moins 55 morts dans la bande de Gaza",
-    "added_at": "2025-04-24T21:04:59.440Z"
+    "added_at": "2025-04-24T21:04:59.440Z",
+    "removed_at": "2025-04-27T10:50:51.156Z",
+    "duration_minutes": 3705,
+    "duration_str": "2d 13h 45m"
   },
   {
     "title": "Des députés fribourgeois veulent inscrire le féminicide dans le Code pénal après celui d'Epagny",
@@ -2123,5 +2126,9 @@
   {
     "title": "Le Premier ministre du Groenland en visite au Danemark pour contrer l'appétit de Donald Trump",
     "added_at": "2025-04-27T10:41:34.572Z"
+  },
+  {
+    "title": "Les brasseries jurassiennes s'unissent pour survivre face aux géants de la bière",
+    "added_at": "2025-04-27T10:50:51.156Z"
   }
 ]
