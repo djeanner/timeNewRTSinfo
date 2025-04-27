@@ -1517,7 +1517,10 @@
   },
   {
     "title": "Un mort et trois blessés après une attaque au couteau dans une école de Nantes",
-    "added_at": "2025-04-24T14:29:21.162Z"
+    "added_at": "2025-04-24T14:29:21.162Z",
+    "removed_at": "2025-04-27T11:18:42.052Z",
+    "duration_minutes": 4129,
+    "duration_str": "2d 20h 49m"
   },
   {
     "title": "L'autodérision, maître-mot du premier spectacle de la Valaisanne Priscilla Formaz",
@@ -2113,7 +2116,10 @@
   },
   {
     "title": "Une puissante explosion dans un port en Iran fait au moins 25 morts et 1000 blessés",
-    "added_at": "2025-04-27T09:19:56.385Z"
+    "added_at": "2025-04-27T09:19:56.385Z",
+    "removed_at": "2025-04-27T11:13:07.950Z",
+    "duration_minutes": 113,
+    "duration_str": "1h 53m"
   },
   {
     "title": "Les fidèles ont commencé à se recueillir sur la tombe du pape François",
@@ -2130,5 +2136,20 @@
   {
     "title": "Les brasseries jurassiennes s'unissent pour survivre face aux géants de la bière",
     "added_at": "2025-04-27T10:50:51.156Z"
+  },
+  {
+    "title": "\"Aucune\" cargaison militaire n'était entreposée au port, indique Téhéran après l'explosion meurtrière",
+    "added_at": "2025-04-27T11:13:07.950Z",
+    "removed_at": "2025-04-27T11:15:00.079Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "\"Aucune\" cargaison militaire n'était entreposée au port, indique l'Iran après l'explosion meurtrière",
+    "added_at": "2025-04-27T11:15:00.079Z"
+  },
+  {
+    "title": "Les épéistes suisses provoquent un scandale diplomatique",
+    "added_at": "2025-04-27T11:18:42.052Z"
   }
 ]
