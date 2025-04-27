@@ -1448,11 +1448,17 @@
   },
   {
     "title": "La disparition de la neige s'accélère dans les stations suisses",
-    "added_at": "2025-04-24T12:24:54.288Z"
+    "added_at": "2025-04-24T12:24:54.288Z",
+    "removed_at": "2025-04-27T05:59:25.159Z",
+    "duration_minutes": 3934,
+    "duration_str": "2d 17h 34m"
   },
   {
     "title": "Testez vos connaissances sur Bâle, ville hôte du Concours Eurovision",
-    "added_at": "2025-04-24T12:43:31.435Z"
+    "added_at": "2025-04-24T12:43:31.435Z",
+    "removed_at": "2025-04-27T05:53:51.220Z",
+    "duration_minutes": 3910,
+    "duration_str": "2d 17h 10m"
   },
   {
     "title": "Au moins 200'000 personnes attendues aux obsèques de François samedi",
@@ -1987,5 +1993,13 @@
   {
     "title": "Le nombre d'incidents racistes signalés en Suisse a augmenté de près de 40% en 2024",
     "added_at": "2025-04-27T03:38:17.547Z"
+  },
+  {
+    "title": "Un automobiliste fonce dans une foule à un festival de la communauté philippine à Vancouver",
+    "added_at": "2025-04-27T05:53:51.220Z"
+  },
+  {
+    "title": "Le projet titanesque du CERN divise la communauté scientifique",
+    "added_at": "2025-04-27T05:59:25.159Z"
   }
 ]
