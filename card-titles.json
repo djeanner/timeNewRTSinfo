@@ -1687,7 +1687,10 @@
   },
   {
     "title": "Les premiers panneaux ferrovoltaïques ont été installés dans le Val-de-Travers",
-    "added_at": "2025-04-25T15:20:19.764Z"
+    "added_at": "2025-04-25T15:20:19.764Z",
+    "removed_at": "2025-04-27T00:30:47.215Z",
+    "duration_minutes": 1990,
+    "duration_str": "1d 9h 10m"
   },
   {
     "title": "Les Etats-Unis voudraient trouver rapidement un accord sur la guerre commerciale avec la Suisse: explications",
@@ -1973,5 +1976,9 @@
   {
     "title": "Une puissante explosion dans un port en Iran fait au moins 14 morts et plus de 750 blessés",
     "added_at": "2025-04-27T00:06:36.405Z"
+  },
+  {
+    "title": "A Fribourg, des députés veulent inscrire le féminicide dans le code pénal",
+    "added_at": "2025-04-27T00:30:47.215Z"
   }
 ]
