@@ -974,7 +974,10 @@
   },
   {
     "title": "monde:::Entre noix de cajou et paires de Nike, le Vietnam est un «laboratoire» de la mondialisation qui séduit la Suisse",
-    "added_at": "2025-04-27T05:24:05.611Z"
+    "added_at": "2025-04-27T05:24:05.611Z",
+    "removed_at": "2025-04-27T18:51:49.625Z",
+    "duration_minutes": 807,
+    "duration_str": "13h 27m"
   },
   {
     "title": "monde:::En Iran, une puissante explosion dans un port fait au moins 18 morts et 800 blessés",
@@ -1101,7 +1104,10 @@
   },
   {
     "title": "suisse:::La route du Grand-Saint-Bernard est de nouveau ouverte ce samedi",
-    "added_at": "2025-04-27T13:15:40.017Z"
+    "added_at": "2025-04-27T13:15:40.017Z",
+    "removed_at": "2025-04-27T18:51:49.625Z",
+    "duration_minutes": 336,
+    "duration_str": "5h 36m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky affirme que les forces ukrainiennes «poursuivent leurs opérations» dans la région de Koursk",
@@ -1119,7 +1125,10 @@
   },
   {
     "title": "monde:::En direct – Volodymyr Zelensky affirme que les forces ukrainiennes «poursuivent leurs opérations» dans la région de Koursk",
-    "added_at": "2025-04-27T13:43:31.718Z"
+    "added_at": "2025-04-27T13:43:31.718Z",
+    "removed_at": "2025-04-27T19:04:51.308Z",
+    "duration_minutes": 321,
+    "duration_str": "5h 21m"
   },
   {
     "title": "suisse:::«Ils ont lancé l’assaut»: 13 supporters du FC Sion portent plainte contre la police valaisanne",
@@ -1138,7 +1147,10 @@
   },
   {
     "title": "culture:::En images – Avec la photographe Jessica Dreier, le voyage au bout des images",
-    "added_at": "2025-04-27T15:07:06.603Z"
+    "added_at": "2025-04-27T15:07:06.603Z",
+    "removed_at": "2025-04-27T18:59:17.495Z",
+    "duration_minutes": 232,
+    "duration_str": "3h 52m"
   },
   {
     "title": "monde:::«Peut-être qu’il me balade»: à Rome, le doute s’invite dans l’idylle qu’espérait Donald Trump avec Vladimir Poutine",
@@ -1169,10 +1181,7 @@
   },
   {
     "title": "suisse:::La présidence de la ville de Zurich aiguise les appétits",
-    "added_at": "2025-04-27T17:31:57.637Z",
-    "removed_at": "2025-04-27T18:49:56.685Z",
-    "duration_minutes": 77,
-    "duration_str": "1h 17m"
+    "added_at": "2025-04-27T17:31:57.637Z"
   },
   {
     "title": "sport:::A Bastogne, entre Liège et Liège, seul Pogacar ne regarde pas derrière",
@@ -1180,10 +1189,7 @@
   },
   {
     "title": "sport:::Le FC Bienne finaliste de la Coupe de Suisse: les cinq raisons d’un exploit historique",
-    "added_at": "2025-04-27T18:14:43.097Z",
-    "removed_at": "2025-04-27T18:49:56.685Z",
-    "duration_minutes": 35,
-    "duration_str": "35m"
+    "added_at": "2025-04-27T18:14:43.097Z"
   },
   {
     "title": "cyber:::Comment empêcher Facebook, Instagram, ChatGPT ou LinkedIn d’utiliser nos données pour entraîner leur intelligence artificielle",
@@ -1200,5 +1206,9 @@
   {
     "title": "sport:::Kim Le Court, première cycliste africaine à remporter une course World Tour",
     "added_at": "2025-04-27T18:49:56.685Z"
+  },
+  {
+    "title": "monde:::En direct – La semaine à venir sera «cruciale» sur l’issue de la guerre en Ukraine, selon Marco Rubio",
+    "added_at": "2025-04-27T19:04:51.308Z"
   }
 ]
