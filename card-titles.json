@@ -1513,7 +1513,10 @@
   },
   {
     "title": "La première centrale solaire sur rails de Suisse inaugurée dans le canton de Neuchâtel",
-    "added_at": "2025-04-24T14:18:11.956Z"
+    "added_at": "2025-04-24T14:18:11.956Z",
+    "removed_at": "2025-04-27T11:20:35.062Z",
+    "duration_minutes": 4142,
+    "duration_str": "2d 21h 2m"
   },
   {
     "title": "Un mort et trois blessés après une attaque au couteau dans une école de Nantes",
@@ -1728,7 +1731,10 @@
   },
   {
     "title": "Les boîtes à clés se généralisent malgré leur vulnérabilité",
-    "added_at": "2025-04-25T15:20:19.764Z"
+    "added_at": "2025-04-25T15:20:19.764Z",
+    "removed_at": "2025-04-27T11:33:36.566Z",
+    "duration_minutes": 2653,
+    "duration_str": "1d 20h 13m"
   },
   {
     "title": "Les premiers panneaux ferrovoltaïques ont été installés dans le Val-de-Travers",
@@ -2151,5 +2157,13 @@
   {
     "title": "Les épéistes suisses provoquent un scandale diplomatique",
     "added_at": "2025-04-27T11:18:42.052Z"
+  },
+  {
+    "title": "Un record du monde pour Tigst Assefa",
+    "added_at": "2025-04-27T11:20:35.062Z"
+  },
+  {
+    "title": "Le projet cargo sous terrain de transport de marchandises en grande difficulté",
+    "added_at": "2025-04-27T11:33:36.566Z"
   }
 ]
