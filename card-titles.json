@@ -1366,7 +1366,10 @@
   },
   {
     "title": "Quel temps fera-t-il cet été en Suisse?",
-    "added_at": "2025-04-24T06:52:29.433Z"
+    "added_at": "2025-04-24T06:52:29.433Z",
+    "removed_at": "2025-04-27T03:38:17.547Z",
+    "duration_minutes": 4125,
+    "duration_str": "2d 20h 45m"
   },
   {
     "title": "Quelque 50'000 fidèles ont déjà défilé devant le cercueil du pape",
@@ -1980,5 +1983,9 @@
   {
     "title": "A Fribourg, des députés veulent inscrire le féminicide dans le code pénal",
     "added_at": "2025-04-27T00:30:47.215Z"
+  },
+  {
+    "title": "Le nombre d'incidents racistes signalés en Suisse a augmenté de près de 40% en 2024",
+    "added_at": "2025-04-27T03:38:17.547Z"
   }
 ]
