@@ -961,7 +961,10 @@
   },
   {
     "title": "sport:::Le FC Bienne a réalisé le plus grand exploit du football suisse",
-    "added_at": "2025-04-26T22:00:23.817Z"
+    "added_at": "2025-04-26T22:00:23.817Z",
+    "removed_at": "2025-04-27T16:45:35.587Z",
+    "duration_minutes": 1125,
+    "duration_str": "18h 45m"
   },
   {
     "title": "monde:::Entre noix de cajou et paires de Nike, le Vietnam est un «laboratoire» de la mondialisation qui séduit la Suisse",
@@ -1073,7 +1076,10 @@
   },
   {
     "title": "suisse:::Angela Koller devient la première femme Landammann élue à Appenzell",
-    "added_at": "2025-04-27T13:15:40.017Z"
+    "added_at": "2025-04-27T13:15:40.017Z",
+    "removed_at": "2025-04-27T16:38:07.680Z",
+    "duration_minutes": 202,
+    "duration_str": "3h 22m"
   },
   {
     "title": "suisse:::La route du Grand-Saint-Bernard est de nouveau ouverte ce samedi",
@@ -1127,5 +1133,13 @@
   {
     "title": "monde:::En direct – Une frappe touche la banlieue de Beyrouth après un appel israélien à évacuer",
     "added_at": "2025-04-27T16:04:41.782Z"
+  },
+  {
+    "title": "sport:::Le FC Bâle vient à bout de Lausanne et rejoint Bienne en finale de la Coupe de Suisse",
+    "added_at": "2025-04-27T16:38:07.680Z"
+  },
+  {
+    "title": "economie:::Menaces, plaintes, enquête et gros sous: l’affaire de Klaus Schwab et du WEF tourne à la pagaille générale",
+    "added_at": "2025-04-27T16:45:35.587Z"
   }
 ]

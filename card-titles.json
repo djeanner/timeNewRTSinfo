@@ -1604,7 +1604,10 @@
   },
   {
     "title": "Lausanne battu, Zurich conserve son titre",
-    "added_at": "2025-04-24T20:37:08.264Z"
+    "added_at": "2025-04-24T20:37:08.264Z",
+    "removed_at": "2025-04-27T16:38:08.116Z",
+    "duration_minutes": 4080,
+    "duration_str": "2d 20h"
   },
   {
     "title": "Des frappes israéliennes font au moins 55 morts dans la bande de Gaza",
@@ -2239,5 +2242,9 @@
   {
     "title": "Le premier match de Carlos le boxeur, le détenu le plus célèbre de Suisse",
     "added_at": "2025-04-27T16:32:33.198Z"
+  },
+  {
+    "title": "Bâle brise le rêve des Lausannois",
+    "added_at": "2025-04-27T16:38:08.116Z"
   }
 ]
