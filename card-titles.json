@@ -1788,7 +1788,10 @@
   },
   {
     "title": "Nouveaux échanges de tirs entre armées indienne et pakistanaise",
-    "added_at": "2025-04-26T07:40:37.496Z"
+    "added_at": "2025-04-26T07:40:37.496Z",
+    "removed_at": "2025-04-27T06:55:06.625Z",
+    "duration_minutes": 1394,
+    "duration_str": "23h 14m"
   },
   {
     "title": "Les funérailles du pape François vont débuter sur la place Saint-Pierre",
@@ -1984,7 +1987,10 @@
   },
   {
     "title": "Une puissante explosion dans un port en Iran fait au moins 14 morts et plus de 750 blessés",
-    "added_at": "2025-04-27T00:06:36.405Z"
+    "added_at": "2025-04-27T00:06:36.405Z",
+    "removed_at": "2025-04-27T07:00:40.547Z",
+    "duration_minutes": 414,
+    "duration_str": "6h 54m"
   },
   {
     "title": "A Fribourg, des députés veulent inscrire le féminicide dans le code pénal",
@@ -2001,5 +2007,13 @@
   {
     "title": "Le projet titanesque du CERN divise la communauté scientifique",
     "added_at": "2025-04-27T05:59:25.159Z"
+  },
+  {
+    "title": "Nouveaux échanges de tirs à la frontière entre l'Inde et le Pakistan",
+    "added_at": "2025-04-27T06:55:06.625Z"
+  },
+  {
+    "title": "Une puissante explosion dans un port en Iran fait au moins 25 morts et 800 blessés",
+    "added_at": "2025-04-27T07:00:40.547Z"
   }
 ]
