@@ -887,7 +887,10 @@
   },
   {
     "title": "culture:::L’âme de -M- est au Mali",
-    "added_at": "2025-04-26T15:48:53.137Z"
+    "added_at": "2025-04-26T15:48:53.137Z",
+    "removed_at": "2025-04-27T07:21:01.906Z",
+    "duration_minutes": 932,
+    "duration_str": "15h 32m"
   },
   {
     "title": "monde:::Une «puissante» explosion dans un port en Iran fait plus de 500 blessés",
@@ -968,5 +971,9 @@
   {
     "title": "monde:::En Iran, une explosion dévastatrice dans un port fait au moins 25 morts et 800 blessés",
     "added_at": "2025-04-27T07:00:40.163Z"
+  },
+  {
+    "title": "suisse:::«Ils ont lancé l’assaut»: Treize supporters du FC Sion portent plainte contre la police valaisanne",
+    "added_at": "2025-04-27T07:21:01.906Z"
   }
 ]
