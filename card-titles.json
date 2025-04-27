@@ -1931,7 +1931,10 @@
   },
   {
     "title": "La Chine annonce que sa capacité en énergie éolienne et solaire dépasse pour la première fois le thermique",
-    "added_at": "2025-04-26T11:25:19.410Z"
+    "added_at": "2025-04-26T11:25:19.410Z",
+    "removed_at": "2025-04-27T18:33:14.457Z",
+    "duration_minutes": 1867,
+    "duration_str": "1d 7h 7m"
   },
   {
     "title": "Vive émotion en France après l'attaque au couteau dans un lycée de Nantes",
@@ -2267,5 +2270,9 @@
   {
     "title": "Des défenseurs des animaux déposent une plainte contre une affiche de la BEA",
     "added_at": "2025-04-27T17:41:17.824Z"
+  },
+  {
+    "title": "Reportage à la basilique Sainte-Marie-Majeure à Rome où repose le pape François",
+    "added_at": "2025-04-27T18:33:14.457Z"
   }
 ]

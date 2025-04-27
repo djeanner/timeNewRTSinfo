@@ -901,7 +901,10 @@
   },
   {
     "title": "suisse:::Cinquante ans après la chute de Saigon, le fabuleux destin des boat people vietnamiens arrivés en Suisse",
-    "added_at": "2025-04-26T15:24:49.194Z"
+    "added_at": "2025-04-26T15:24:49.194Z",
+    "removed_at": "2025-04-27T18:31:25.908Z",
+    "duration_minutes": 1626,
+    "duration_str": "1d 3h 6m"
   },
   {
     "title": "culture:::L’âme de -M- est au Mali",
@@ -1169,5 +1172,9 @@
   {
     "title": "sport:::Le FC Bienne finaliste de la Coupe de Suisse: les cinq raisons d’un exploit historique",
     "added_at": "2025-04-27T18:14:43.097Z"
+  },
+  {
+    "title": "cyber:::Comment empêcher Facebook, Instagram, ChatGPT ou LinkedIn d’utiliser nos données pour entraîner leur intelligence artificielle",
+    "added_at": "2025-04-27T18:31:25.908Z"
   }
 ]
