@@ -658,10 +658,7 @@
   },
   {
     "title": "suisse:::Dans les forêts valaisannes dévastées par les neiges d’avril, les bûcherons travailleront pendant des mois",
-    "added_at": "2025-04-25T15:20:19.267Z",
-    "removed_at": "2025-04-27T09:01:18.911Z",
-    "duration_minutes": 2500,
-    "duration_str": "1d 17h 40m"
+    "added_at": "2025-04-25T15:20:19.267Z"
   },
   {
     "title": "sport:::Les ZSC Lions sur le toit de la Suisse et de l’Europe",
@@ -781,7 +778,10 @@
   },
   {
     "title": "sciences:::Le corps humain vu de l’intérieur et sous toutes les coutures, au Musée d’histoire des sciences de Genève",
-    "added_at": "2025-04-26T09:15:18.456Z"
+    "added_at": "2025-04-26T09:15:18.456Z",
+    "removed_at": "2025-04-27T13:15:40.017Z",
+    "duration_minutes": 1680,
+    "duration_str": "1d 4h"
   },
   {
     "title": "monde:::Environ 50 arrestations dans l’enquête visant le maire d’Istanbul",
@@ -880,7 +880,10 @@
   },
   {
     "title": "cyber:::Discrets, ultra-motivés et bien organisés, les anti-5G font encore souffrir les opérateurs télécoms",
-    "added_at": "2025-04-26T13:37:05.831Z"
+    "added_at": "2025-04-26T13:37:05.831Z",
+    "removed_at": "2025-04-27T13:11:58.157Z",
+    "duration_minutes": 1414,
+    "duration_str": "23h 34m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Vladimir Poutine se dit prêt à négocier «sans aucune condition préalable»",
@@ -1010,11 +1013,17 @@
   },
   {
     "title": "monde:::«Il venait toujours prier ici» : à Sainte-Marie-Majeure, dernière demeure du pape François",
-    "added_at": "2025-04-27T09:03:12.940Z"
+    "added_at": "2025-04-27T09:03:12.940Z",
+    "removed_at": "2025-04-27T13:11:58.157Z",
+    "duration_minutes": 248,
+    "duration_str": "4h 8m"
   },
   {
     "title": "monde:::Une explosion dévastatrice dans le principal port d’Iran fait au moins 25 morts et 1000 blessés",
-    "added_at": "2025-04-27T09:31:04.858Z"
+    "added_at": "2025-04-27T09:31:04.858Z",
+    "removed_at": "2025-04-27T13:11:58.157Z",
+    "duration_minutes": 220,
+    "duration_str": "3h 40m"
   },
   {
     "title": "culture:::Sur les traces du fantôme de Tchang, l’ami de Tintin, avec Maxime Dalle",
@@ -1022,7 +1031,10 @@
   },
   {
     "title": "economie:::Dans la peau d’un «compliance officer»",
-    "added_at": "2025-04-27T10:26:45.486Z"
+    "added_at": "2025-04-27T10:26:45.486Z",
+    "removed_at": "2025-04-27T13:13:52.106Z",
+    "duration_minutes": 167,
+    "duration_str": "2h 47m"
   },
   {
     "title": "monde:::Un automobiliste fonce dans une foule à un festival à Vancouver et fait neuf morts",
@@ -1035,5 +1047,21 @@
   {
     "title": "monde:::En direct– Le Hamas prêt à un accord prévoyant la libération des otages et une longue trêve",
     "added_at": "2025-04-27T11:33:35.793Z"
+  },
+  {
+    "title": "sport:::Le FC Bienne finaliste en Coupe de Suisse après voir battu Young Boys: les cinq raisons d’un exploit historique",
+    "added_at": "2025-04-27T13:11:58.157Z"
+  },
+  {
+    "title": "suisse:::Les incidents racistes ont augmenté de 40% en Suisse l’an dernier",
+    "added_at": "2025-04-27T13:11:58.157Z"
+  },
+  {
+    "title": "suisse:::Angela Koller devient la première femme Landammann élue à Appenzell",
+    "added_at": "2025-04-27T13:15:40.017Z"
+  },
+  {
+    "title": "suisse:::La route du Grand-Saint-Bernard est de nouveau ouverte ce samedi",
+    "added_at": "2025-04-27T13:15:40.017Z"
   }
 ]
