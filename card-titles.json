@@ -1571,7 +1571,10 @@
   },
   {
     "title": "Un nouveau titre pour le NUC et Bertolacci",
-    "added_at": "2025-04-24T19:06:02.570Z"
+    "added_at": "2025-04-24T19:06:02.570Z",
+    "removed_at": "2025-04-27T09:45:53.140Z",
+    "duration_minutes": 3759,
+    "duration_str": "2d 14h 39m"
   },
   {
     "title": "Investir son 2e ou 3e pilier pour devenir propriétaire en vaut-il la chandelle?",
@@ -2099,5 +2102,9 @@
   {
     "title": "Une puissante explosion dans un port en Iran fait au moins 25 morts et 1000 blessés",
     "added_at": "2025-04-27T09:19:56.385Z"
+  },
+  {
+    "title": "Les fidèles ont commencé à se recueillir sur la tombe du pape François",
+    "added_at": "2025-04-27T09:45:53.140Z"
   }
 ]
