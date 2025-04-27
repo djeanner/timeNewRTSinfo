@@ -2035,7 +2035,10 @@
   },
   {
     "title": "Un automobiliste fonce dans une foule à un festival de la communauté philippine à Vancouver",
-    "added_at": "2025-04-27T05:53:51.220Z"
+    "added_at": "2025-04-27T05:53:51.220Z",
+    "removed_at": "2025-04-27T10:28:33.795Z",
+    "duration_minutes": 274,
+    "duration_str": "4h 34m"
   },
   {
     "title": "Le projet titanesque du CERN divise la communauté scientifique",
@@ -2106,5 +2109,9 @@
   {
     "title": "Les fidèles ont commencé à se recueillir sur la tombe du pape François",
     "added_at": "2025-04-27T09:45:53.140Z"
+  },
+  {
+    "title": "Un automobiliste tue neuf personnes en fonçant dans la foule lors d'un festival à Vancouver",
+    "added_at": "2025-04-27T10:28:33.795Z"
   }
 ]
