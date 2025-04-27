@@ -884,7 +884,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Vladimir Poutine se dit prêt à négocier «sans aucune condition préalable»",
-    "added_at": "2025-04-26T14:01:16.729Z"
+    "added_at": "2025-04-26T14:01:16.729Z",
+    "removed_at": "2025-04-27T13:39:49.529Z",
+    "duration_minutes": 1418,
+    "duration_str": "23h 38m"
   },
   {
     "title": "monde:::En direct – Le Hamas prêt à un accord prévoyant la libération des otages et une longue trêve",
@@ -1043,7 +1046,10 @@
   },
   {
     "title": "monde:::En direct– Le Hamas prêt à un accord prévoyant la libération des otages et une longue trêve",
-    "added_at": "2025-04-27T11:33:35.793Z"
+    "added_at": "2025-04-27T11:33:35.793Z",
+    "removed_at": "2025-04-27T13:41:43.592Z",
+    "duration_minutes": 128,
+    "duration_str": "2h 8m"
   },
   {
     "title": "sport:::Le FC Bienne finaliste en Coupe de Suisse après voir battu Young Boys: les cinq raisons d’un exploit historique",
@@ -1060,5 +1066,20 @@
   {
     "title": "suisse:::La route du Grand-Saint-Bernard est de nouveau ouverte ce samedi",
     "added_at": "2025-04-27T13:15:40.017Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky affirme que les forces ukrainiennes «poursuivent leurs opérations» dans la région de Koursk",
+    "added_at": "2025-04-27T13:39:49.529Z",
+    "removed_at": "2025-04-27T13:43:31.718Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "monde:::En direct– Le Qatar fait état de «progrès» pour obtenir une trêve à Gaza",
+    "added_at": "2025-04-27T13:41:43.592Z"
+  },
+  {
+    "title": "monde:::En direct – Volodymyr Zelensky affirme que les forces ukrainiennes «poursuivent leurs opérations» dans la région de Koursk",
+    "added_at": "2025-04-27T13:43:31.718Z"
   }
 ]
