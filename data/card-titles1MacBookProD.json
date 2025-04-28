@@ -1740,7 +1740,10 @@
   },
   {
     "title": "10 ans de suspension supplémentaires pour Alex Wilson !",
-    "added_at": "2025-04-25T15:20:19.764Z"
+    "added_at": "2025-04-25T15:20:19.764Z",
+    "removed_at": "2025-04-28T10:38:38.005Z",
+    "duration_minutes": 4038,
+    "duration_str": "2d 19h 18m"
   },
   {
     "title": "Deux trottinettes électriques pouvant dépasser les 100 km/h saisies en Valais",
@@ -1807,7 +1810,10 @@
   },
   {
     "title": "Les hommages au pape François ont pris fin, quelque 250'000 fidèles ont défilé",
-    "added_at": "2025-04-25T17:28:25.622Z"
+    "added_at": "2025-04-25T17:28:25.622Z",
+    "removed_at": "2025-04-28T10:40:26.225Z",
+    "duration_minutes": 3912,
+    "duration_str": "2d 17h 12m"
   },
   {
     "title": "Malgré la grogne des éleveurs, Vaud ne prévoit pas de tirs de régulation du loup dans l'immédiat",
@@ -2172,7 +2178,10 @@
   },
   {
     "title": "Des centaines de blessés après une explosion dans un port iranien",
-    "added_at": "2025-04-27T08:31:36.126Z"
+    "added_at": "2025-04-27T08:31:36.126Z",
+    "removed_at": "2025-04-28T10:36:43.749Z",
+    "duration_minutes": 1565,
+    "duration_str": "1d 2h 5m"
   },
   {
     "title": "Le FC Bienne écrit l'histoire",
@@ -2209,10 +2218,7 @@
   },
   {
     "title": "Le Premier ministre du Groenland en visite au Danemark pour contrer l'appétit de Donald Trump",
-    "added_at": "2025-04-27T10:41:34.572Z",
-    "removed_at": "2025-04-27T14:07:42.346Z",
-    "duration_minutes": 206,
-    "duration_str": "3h 26m"
+    "added_at": "2025-04-27T10:41:34.572Z"
   },
   {
     "title": "Les brasseries jurassiennes s'unissent pour survivre face aux géants de la bière",
@@ -2365,5 +2371,13 @@
   {
     "title": "Une explosion dans un port en Iran fait au moins 28 morts et 1000 blessés",
     "added_at": "2025-04-28T09:36:25.324Z"
+  },
+  {
+    "title": "\"La Russie ne cherche pas la paix en Ukraine, elle veut la victoire\"",
+    "added_at": "2025-04-28T10:38:38.005Z"
+  },
+  {
+    "title": "\"L'espoir doit revenir pour mes enfants\": un Palestinien retrouve sa famille évacuée de Gaza après deux ans",
+    "added_at": "2025-04-28T10:40:26.225Z"
   }
 ]

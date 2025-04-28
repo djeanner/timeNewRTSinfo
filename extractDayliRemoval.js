@@ -116,15 +116,16 @@ const generateHtmlTable = (entries, dateStr, medium, dateFileSustr) => {
 	const rows = entries
 		.sort((a, b) => new Date(a.added_at) - new Date(b.added_at))
 		.map((entry) => {
-			const time = formatTime(entry.added_at);
-			let time2 =
-				formatTime(entry.removed_at) + " (" + formatDate(entry.removed_at) + ")";
+			const timeadd = formatTime(entry.added_at);
+			let timeRem = "";
+			if (entry.removed_at)
+				timeRem = formatTime(entry.removed_at) + " (" + formatDate(entry.removed_at) + ")";
 			if (formatDate(entry.added_at) === formatDate(entry.removed_at)) {
-				time2 = formatTime(entry.removed_at);
+				timeRem = formatTime(entry.removed_at);
 			}
 			const duration = htmlEscape(entry.duration_str || "");
 			const title = htmlEscape(entry.title || "");
-			return `<tr><td>${time}</td><td>${time2}</td><td>${duration}</td><td>${title}</td></tr>`;
+			return `<tr><td>${timeadd}</td><td>${timeRem}</td><td>${duration}</td><td>${title}</td></tr>`;
 		})
 		.join("\n");
 
