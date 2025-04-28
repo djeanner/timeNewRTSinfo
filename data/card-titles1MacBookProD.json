@@ -418,7 +418,10 @@
   },
   {
     "title": "Les images de la semaine",
-    "added_at": "2025-04-21T15:14:20.955Z"
+    "added_at": "2025-04-21T15:14:20.955Z",
+    "removed_at": "2025-04-28T15:15:13.322Z",
+    "duration_minutes": 10080,
+    "duration_str": "7d"
   },
   {
     "title": "Qui est vraiment le lapin de Pâques?",
@@ -2054,7 +2057,10 @@
   },
   {
     "title": "Le trafic de fourmis exotiques, nouvelle tendance du marché noir animalier",
-    "added_at": "2025-04-26T12:56:13.059Z"
+    "added_at": "2025-04-26T12:56:13.059Z",
+    "removed_at": "2025-04-28T15:24:29.362Z",
+    "duration_minutes": 3028,
+    "duration_str": "2d 2h 28m"
   },
   {
     "title": "Après la messe place Saint-Pierre, le pape a été inhumé en la basilique Sainte-Marie-Majeure",
@@ -2523,5 +2529,13 @@
   {
     "title": "Philipp Matthias Bregy seul en lice pour être président du Centre",
     "added_at": "2025-04-28T15:11:32.310Z"
+  },
+  {
+    "title": "L'affaire Gurlitt, et l'art dans tout ça?",
+    "added_at": "2025-04-28T15:15:13.322Z"
+  },
+  {
+    "title": "\"J'ai réalisé que tuer n'aidait pas à résoudre le conflit\" en Ukraine",
+    "added_at": "2025-04-28T15:24:29.362Z"
   }
 ]
