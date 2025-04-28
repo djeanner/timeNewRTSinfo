@@ -751,7 +751,10 @@
   },
   {
     "title": "monde:::Avec le pape François, Donald Trump enterre un important contre-pouvoir",
-    "added_at": "2025-04-26T05:19:32.441Z"
+    "added_at": "2025-04-26T05:19:32.441Z",
+    "removed_at": "2025-04-28T17:56:59.776Z",
+    "duration_minutes": 3637,
+    "duration_str": "2d 12h 37m"
   },
   {
     "title": "monde:::La Chine réaffirme ne pas mener de négociations commerciales avec les Etats-Unis",
@@ -860,7 +863,10 @@
   },
   {
     "title": "monde:::Obsèques du pape François – Les moments forts de la cérémonie",
-    "added_at": "2025-04-26T12:54:24.778Z"
+    "added_at": "2025-04-26T12:54:24.778Z",
+    "removed_at": "2025-04-28T17:56:59.776Z",
+    "duration_minutes": 3182,
+    "duration_str": "2d 5h 2m"
   },
   {
     "title": "monde:::En direct –En direct, guerre en Ukraine – Volodymyr Zelensky et Donald Trump ont effectué une discussion «très productive» aux obsèques du pape François",
@@ -1357,14 +1363,14 @@
   },
   {
     "title": "suisse:::André Kolly: «Le prochain pape ne sera pas Suisse, mais peut-être Luxembourgeois»",
-    "added_at": "2025-04-28T11:27:24.876Z",
-    "removed_at": "2025-04-28T14:52:54.066Z",
-    "duration_minutes": 205,
-    "duration_str": "3h 25m"
+    "added_at": "2025-04-28T11:27:24.876Z"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Vladimir Poutine annonce une trêve de trois jours du 8 au 10 mai",
-    "added_at": "2025-04-28T11:32:59.302Z"
+    "added_at": "2025-04-28T11:32:59.302Z",
+    "removed_at": "2025-04-28T17:45:50.775Z",
+    "duration_minutes": 372,
+    "duration_str": "6h 12m"
   },
   {
     "title": "monde:::L'Espagne et le Portugal touchés par une coupure d'électricité massive",
@@ -1440,5 +1446,13 @@
   {
     "title": "economie:::L’industrie microtechnique teste la flexibilité de la RHT",
     "added_at": "2025-04-28T17:23:31.073Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Emmanuel Macron: «Nous allons accroître la pression sur la Russie»",
+    "added_at": "2025-04-28T17:45:50.775Z"
+  },
+  {
+    "title": "monde:::Le conclave qui désignera le successeur de François débutera le 7 mai",
+    "added_at": "2025-04-28T17:56:59.776Z"
   }
 ]
