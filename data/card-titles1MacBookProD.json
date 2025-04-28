@@ -2445,7 +2445,10 @@
   },
   {
     "title": "Une explosion dans un port en Iran fait au moins 28 morts et 1000 blessés",
-    "added_at": "2025-04-28T09:36:25.324Z"
+    "added_at": "2025-04-28T09:36:25.324Z",
+    "removed_at": "2025-04-28T23:35:31.512Z",
+    "duration_minutes": 839,
+    "duration_str": "13h 59m"
   },
   {
     "title": "\"La Russie ne cherche pas la paix en Ukraine, elle veut la victoire\"",
@@ -2603,5 +2606,9 @@
   {
     "title": "Un avion évite de justesse un groupe de randonneurs sur un glacier au Mont Rose",
     "added_at": "2025-04-28T20:12:48.966Z"
+  },
+  {
+    "title": "De nombreux Russes cherchent à échapper à l’armée, témoignage d'un déserteur",
+    "added_at": "2025-04-28T23:35:31.512Z"
   }
 ]
