@@ -1391,7 +1391,10 @@
   },
   {
     "title": "sciences:::La haute saison des pollens a débuté en Suisse",
-    "added_at": "2025-04-28T11:47:54.711Z"
+    "added_at": "2025-04-28T11:47:54.711Z",
+    "removed_at": "2025-04-28T21:04:54.508Z",
+    "duration_minutes": 556,
+    "duration_str": "9h 16m"
   },
   {
     "title": "monde:::L’Espagne et le Portugal touchés par une coupure d’électricité massive",
@@ -1476,5 +1479,9 @@
   {
     "title": "monde:::L’Espagne et le Portugal touchés par une coupure d’électricité massive: le courant revient petit à petit",
     "added_at": "2025-04-28T20:09:01.886Z"
+  },
+  {
+    "title": "sciences:::Trop utilisée, l’imagerie médicale coûte plus de 2 milliards au système de santé suisse",
+    "added_at": "2025-04-28T21:04:54.508Z"
   }
 ]
