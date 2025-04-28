@@ -1214,7 +1214,10 @@
   },
   {
     "title": "suisse:::La présidence de la ville de Zurich aiguise les appétits",
-    "added_at": "2025-04-27T17:31:57.637Z"
+    "added_at": "2025-04-27T17:31:57.637Z",
+    "removed_at": "2025-04-28T18:21:13.833Z",
+    "duration_minutes": 1489,
+    "duration_str": "1d 49m"
   },
   {
     "title": "sport:::A Bastogne, entre Liège et Liège, seul Pogacar ne regarde pas derrière",
@@ -1427,10 +1430,7 @@
   },
   {
     "title": "suisse:::Philipp Matthias Bregy sera le nouveau patron du Centre",
-    "added_at": "2025-04-28T17:01:12.228Z",
-    "removed_at": "2025-04-28T17:23:31.073Z",
-    "duration_minutes": 22,
-    "duration_str": "22m"
+    "added_at": "2025-04-28T17:01:12.228Z"
   },
   {
     "title": "monde:::Dans les rues de Madrid, pas d'électricité mais un concert de sifflets et de sirènes",
@@ -1458,5 +1458,9 @@
   {
     "title": "suisse:::Hautes écoles et recherche: la balle dans le cœur du Conseil fédéral",
     "added_at": "2025-04-28T18:10:04.262Z"
+  },
+  {
+    "title": "economie:::L’invisible excédent commercial américain dans le numérique",
+    "added_at": "2025-04-28T18:26:48.263Z"
   }
 ]
