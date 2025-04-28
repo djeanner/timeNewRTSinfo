@@ -1940,7 +1940,10 @@
   },
   {
     "title": "A-t-on le droit de toucher les fruits et légumes avant de les acheter au supermarché?",
-    "added_at": "2025-04-26T06:57:58.593Z"
+    "added_at": "2025-04-26T06:57:58.593Z",
+    "removed_at": "2025-04-28T19:37:26.078Z",
+    "duration_minutes": 3639,
+    "duration_str": "2d 12h 39m"
   },
   {
     "title": "Nouveaux échanges de tirs entre armées indienne et pakistanaise",
@@ -2557,10 +2560,17 @@
   },
   {
     "title": "Le courant progressivement rétabli en Espagne après la coupure d'électricité qui a touché la péninsule ibérique",
-    "added_at": "2025-04-28T15:37:31.217Z"
+    "added_at": "2025-04-28T15:37:31.217Z",
+    "removed_at": "2025-04-28T19:29:59.400Z",
+    "duration_minutes": 232,
+    "duration_str": "3h 52m"
   },
   {
     "title": "Toute l'Espagne et le Portugal sont touchés par une vaste coupure d'électricité",
     "added_at": "2025-04-28T16:37:00.053Z"
+  },
+  {
+    "title": "Le courant progressivement rétabli en Espagne et au Portugal après la coupure d'électricité qui a touché la péninsule ibérique",
+    "added_at": "2025-04-28T19:29:59.400Z"
   }
 ]
