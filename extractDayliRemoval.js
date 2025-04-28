@@ -18,16 +18,25 @@ const configs = [
 const pad = (n) => n.toString().padStart(2, "0");
 
 const formatTime = (iso) => {
-	if (!iso) return "";
-	const date = new Date(iso);
-	return isNaN(date) ? "" : date.toISOString().substring(11, 16);
+  if (!iso) return "";
+  const date = new Date(iso);
+  if (isNaN(date)) return "";
+
+  return date.toLocaleTimeString([], {
+    hour: '2-digit',
+    minute: '2-digit',
+    hour12: false   // Force 24h format
+  });
 };
 
 const formatDate = (iso) => {
-	if (!iso) return "";
-	const date = new Date(iso);
-	return isNaN(date) ? "" : date.toISOString().substring(0, 10);
+  if (!iso) return "";
+  const date = new Date(iso);
+  if (isNaN(date)) return "";
+
+  return date.toLocaleDateString('sv-SE'); // 'sv-SE' gives YYYY-MM-DD format
 };
+
 
 function getAllDataFiles(pref) {
     return fs.readdirSync(DATA_DIR)
@@ -130,7 +139,7 @@ const generateHtmlTable = (entries, dateStr, medium, dateFileSustr) => {
 <body>
   <h1>Duration of cards on ${dateStr}</h1>
   <table>
-    <thead><tr><th>In (GMT)</th><th>Out (GMT)</th><th>Duration</th><th>Title</th></tr></thead>
+    <thead><tr><th>In</th><th>Out</th><th>Duration</th><th>Title</th></tr></thead>
     <tbody>
 ${rows}
     </tbody>
