@@ -1830,7 +1830,10 @@
   },
   {
     "title": "Le profil de l'élève mis en cause dans l'attaque au couteau à Nantes se précise",
-    "added_at": "2025-04-25T19:12:24.523Z"
+    "added_at": "2025-04-25T19:12:24.523Z",
+    "removed_at": "2025-04-28T11:38:34.810Z",
+    "duration_minutes": 3866,
+    "duration_str": "2d 16h 26m"
   },
   {
     "title": "Baisse du prix de l'essence : bientôt 1,50 CHF le litre ?",
@@ -1852,7 +1855,10 @@
   },
   {
     "title": "La Tessinoise Francesca Torrani  journaliste suisse de l'année, un reportage de Mise au Point primé",
-    "added_at": "2025-04-25T19:32:54.016Z"
+    "added_at": "2025-04-25T19:32:54.016Z",
+    "removed_at": "2025-04-28T11:44:09.146Z",
+    "duration_minutes": 3851,
+    "duration_str": "2d 16h 11m"
   },
   {
     "title": "Aux Etats-Unis, le meurtrier présumé du patron d'un géant des assurances plaide non coupable",
@@ -2081,7 +2087,10 @@
   },
   {
     "title": "L’alliance climatique manifeste à Berne pour dénoncer certains investissements de la BNS",
-    "added_at": "2025-04-26T18:28:42.565Z"
+    "added_at": "2025-04-26T18:28:42.565Z",
+    "removed_at": "2025-04-28T11:34:52.642Z",
+    "duration_minutes": 2466,
+    "duration_str": "1d 17h 6m"
   },
   {
     "title": "La route du Grand-Saint-Bernard rouverte plus tôt que prévu",
@@ -2399,10 +2408,29 @@
   },
   {
     "title": "L'Espagne et le Portugal touchés par une coupure d'électricité massive",
-    "added_at": "2025-04-28T11:18:09.087Z"
+    "added_at": "2025-04-28T11:18:09.087Z",
+    "removed_at": "2025-04-28T11:42:21.230Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
   },
   {
     "title": "La Jurassienne Léonie Adrover publie \"Passage du soir\", un premier roman remarqué",
     "added_at": "2025-04-28T11:20:03.211Z"
+  },
+  {
+    "title": "A Genève, le conflit entre les médecins et les assurances complémentaires pourrait prendre fin",
+    "added_at": "2025-04-28T11:34:52.642Z"
+  },
+  {
+    "title": "Vladimir Poutine annonce une trêve de trois jours en Ukraine du 8 au 10 mai",
+    "added_at": "2025-04-28T11:38:34.810Z"
+  },
+  {
+    "title": "Toute l'Espagne et le Portugal touchés par une coupure d'électricité massive",
+    "added_at": "2025-04-28T11:42:21.230Z"
+  },
+  {
+    "title": "Vingt-cinq interpellations après les attaques de prisons en France",
+    "added_at": "2025-04-28T11:44:09.146Z"
   }
 ]
