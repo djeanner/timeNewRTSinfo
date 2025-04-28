@@ -2148,7 +2148,10 @@
   },
   {
     "title": "La route du Grand-Saint-Bernard rouverte plus tôt que prévu",
-    "added_at": "2025-04-26T18:39:51.271Z"
+    "added_at": "2025-04-26T18:39:51.271Z",
+    "removed_at": "2025-04-28T20:09:02.569Z",
+    "duration_minutes": 2969,
+    "duration_str": "2d 1h 29m"
   },
   {
     "title": "Brian, célèbre ancien détenu suisse, s'apprête à faire son premier match de boxe",
@@ -2578,6 +2581,24 @@
   },
   {
     "title": "A l'occasion du traditionnel Sechseläuten, Zurich a brûlé son bonhomme d'hiver qui augure un été maussade",
-    "added_at": "2025-04-28T19:48:35.986Z"
+    "added_at": "2025-04-28T19:48:35.986Z",
+    "removed_at": "2025-04-28T20:05:19.980Z",
+    "duration_minutes": 16,
+    "duration_str": "16m"
+  },
+  {
+    "title": "Le Böögg, traditionnel bonhomme hiver zurichois, a longuement brûlé, augurant un été maussade",
+    "added_at": "2025-04-28T20:05:19.980Z"
+  },
+  {
+    "title": "Un avion évite de justesse un groupe de randonneurs en Valais",
+    "added_at": "2025-04-28T20:09:02.569Z",
+    "removed_at": "2025-04-28T20:12:48.966Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "Un avion évite de justesse un groupe de randonneurs sur un glacier au Mont Rose",
+    "added_at": "2025-04-28T20:12:48.966Z"
   }
 ]
