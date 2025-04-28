@@ -1,21 +1,15 @@
 const fs = require("fs");
 const path = require("path");
 const COMPUTER_ID = process.env.COMPUTER_ID || 'unknown-computer';
-
+const DATA_DIR = path.join(__dirname, 'data');
 const configs = [
 	{
-		inputFile: path.join(__dirname, 'data', `card-titles1${COMPUTER_ID}.json`),
-		outputJsonDir: "removed-by-day",
-		outputHtmlDir: "html",
-		dateFileSuf: "",
+		dateFileSuf: 1,
 		targetYear: 2025,
 		medium: "RTS",
 	},
 	{
-		inputFile: path.join(__dirname, 'data', `card-titles2${COMPUTER_ID}.json`),
-		outputJsonDir: "removed-by-day2",
-		outputHtmlDir: "html",
-		dateFileSuf: "_2",
+		dateFileSuf: 2,
 		targetYear: 2025,
 		medium: "Le Temps",
 	},
@@ -35,10 +29,69 @@ const formatDate = (iso) => {
 	return isNaN(date) ? "" : date.toISOString().substring(0, 10);
 };
 
+function getAllDataFiles(pref) {
+    return fs.readdirSync(DATA_DIR)
+             .filter(f => f.endsWith('.json') && f.startsWith(pref) && !f.startsWith("index"))
+             .map(f => path.join(DATA_DIR, f));
+}
+
+function formatDuration(minutes) {
+  const hours = Math.floor(minutes / 60);
+  const mins = minutes % 60;
+  let parts = [];
+  if (hours > 0) parts.push(`${hours}h`);
+  if (mins > 0) parts.push(`${mins}m`);
+  return parts.join(' ');
+}
+
+function deduplicateItems(items) {
+  const map = new Map();
+
+  for (const item of items) {
+    if (!map.has(item.title)) {
+      map.set(item.title, {
+        title: item.title,
+        added_at: item.added_at,
+        removed_at: item.removed_at
+      });
+    } else {
+      const existing = map.get(item.title);
+
+      // Find earliest added_at
+      if (new Date(item.added_at) < new Date(existing.added_at)) {
+        existing.added_at = item.added_at;
+      }
+
+      // Find latest removed_at
+      if (new Date(item.removed_at) > new Date(existing.removed_at)) {
+        existing.removed_at = item.removed_at;
+      }
+    }
+  }
+
+  // Recalculate durations
+  const result = [];
+  for (const obj of map.values()) {
+    const added = new Date(obj.added_at);
+    const removed = new Date(obj.removed_at);
+    const durationMs = removed - added;
+    const durationMinutes = Math.round(durationMs / 60000); // ms -> minutes
+    result.push({
+      title: obj.title,
+      added_at: obj.added_at,
+      removed_at: obj.removed_at,
+      duration_minutes: durationMinutes,
+      duration_str: formatDuration(durationMinutes)
+    });
+  }
+
+  return result;
+}
+
 const htmlEscape = (str) =>
 	str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 
-const generateHtmlTable = (entries, dateStr, medium, dateFileSuf) => {
+const generateHtmlTable = (entries, dateStr, medium, dateFileSustr) => {
 	const rows = entries
 		.sort((a, b) => new Date(a.added_at) - new Date(b.added_at))
 		.map((entry) => {
@@ -74,26 +127,44 @@ const generateHtmlTable = (entries, dateStr, medium, dateFileSuf) => {
 ${rows}
     </tbody>
   </table>
-  <p><a href="index${dateFileSuf}.html">← Back to index</a></p>
+  <p><a href="index${dateFileSustr}.html">← Back to index</a></p>
 </body>
 </html>`;
 };
 
 for (const config of configs) {
 	const {
-		inputFile,
-		outputJsonDir,
-		outputHtmlDir,
 		dateFileSuf,
 		targetYear,
 		medium,
 	} = config;
-	const outputHtmlFile = `index${dateFileSuf}.html`;
-
+	const dateFileSustr = dateFileSuf == 1 ? "" : `_${dateFileSuf}`;
+	const dateFileSustrForIndex = dateFileSuf == 1 ? "" : `${dateFileSuf}`;
+	const outputHtmlFile = `index${dateFileSustr}.html`;
+	const outputJsonDir = `removed-by-day${dateFileSustrForIndex}`;
+	const outputHtmlDir = "html";
 	if (!fs.existsSync(outputJsonDir)) fs.mkdirSync(outputJsonDir);
 	if (!fs.existsSync(outputHtmlDir)) fs.mkdirSync(outputHtmlDir);
+	//const inputFile = path.join(DATA_DIR, `card-titles${dateFileSuf}${COMPUTER_ID}.json`);
+	const allInputFiles = getAllDataFiles(`card-titles${dateFileSuf}`);
+    var data = [];
+    for (const inputFile of allInputFiles) {
+	console.log(`✅ allInput : ${allInputFiles} `);
+	console.log(`✅ inputFile: ${inputFile} `);
+    
+	//const data = JSON.parse(fs.readFileSync(inputFile, "utf8"));
+	const computerName = path.basename(inputFile, '.json');
+        const dataOne = JSON.parse(fs.readFileSync(inputFile, "utf8"));
+        if (dataOne.length > 0) {
+            data.push(...dataOne);
+//data = deduplicateItems(data);		
+		console.log(`✅ data: ${data.length} `);
 
-	const data = JSON.parse(fs.readFileSync(inputFile, "utf8"));
+        } 
+    }
+
+
+
 	const htmlFiles = [];
 
 	for (let month = 1; month <= 12; month++) {
@@ -117,14 +188,14 @@ for (const config of configs) {
 
 				const htmlPath = path.join(
 					outputHtmlDir,
-					`${dateStr}${dateFileSuf}.html`
+					`${dateStr}${dateFileSustr}.html`
 				);
-				const htmlContent = generateHtmlTable(onDay, dateStr, medium, dateFileSuf);
+				const htmlContent = generateHtmlTable(onDay, dateStr, medium, dateFileSustr);
 				fs.writeFileSync(htmlPath, htmlContent, "utf8");
 
 				htmlFiles.push({
 					date: dateStr,
-					filename: `${dateStr}${dateFileSuf}.html`,
+					filename: `${dateStr}${dateFileSustr}.html`,
 				});
 
 				console.log(`✅ ${medium} ${dateStr}: ${onDay.length} entries written`);
