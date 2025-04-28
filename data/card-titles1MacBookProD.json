@@ -2118,7 +2118,10 @@
   },
   {
     "title": "Obsèques du pape François: un rassemblement diplomatique majeur",
-    "added_at": "2025-04-26T17:29:13.084Z"
+    "added_at": "2025-04-26T17:29:13.084Z",
+    "removed_at": "2025-04-28T16:37:00.053Z",
+    "duration_minutes": 2827,
+    "duration_str": "1d 23h 7m"
   },
   {
     "title": "Une puissante explosion dans un port en Iran fait au moins cinq morts et plus de 700 blessés",
@@ -2555,5 +2558,9 @@
   {
     "title": "Le courant progressivement rétabli en Espagne après la coupure d'électricité qui a touché la péninsule ibérique",
     "added_at": "2025-04-28T15:37:31.217Z"
+  },
+  {
+    "title": "Toute l'Espagne et le Portugal sont touchés par une vaste coupure d'électricité",
+    "added_at": "2025-04-28T16:37:00.053Z"
   }
 ]
