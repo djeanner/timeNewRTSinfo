@@ -1350,7 +1350,10 @@
   },
   {
     "title": "monde:::L'Espagne et le Portugal touchés par une coupure d'électricité massive",
-    "added_at": "2025-04-28T11:44:08.799Z"
+    "added_at": "2025-04-28T11:44:08.799Z",
+    "removed_at": "2025-04-28T11:53:29.553Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
   },
   {
     "title": "cyber:::Une formation politique naît de la crise au sein du Parti pirate suisse",
@@ -1359,5 +1362,9 @@
   {
     "title": "sciences:::La haute saison des pollens a débuté en Suisse",
     "added_at": "2025-04-28T11:47:54.711Z"
+  },
+  {
+    "title": "monde:::L’Espagne et le Portugal touchés par une coupure d’électricité massive",
+    "added_at": "2025-04-28T11:53:29.553Z"
   }
 ]
