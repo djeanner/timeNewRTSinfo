@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
-const COMPUTER_ID = process.env.COMPUTER_ID || 'unknown-computer';
-const DATA_DIR = path.join(__dirname, 'data');
+const COMPUTER_ID = process.env.COMPUTER_ID || "unknown-computer";
+const DATA_DIR = path.join(__dirname, "data");
 const configs = [
 	{
 		dateFileSuf: 1,
@@ -18,91 +18,95 @@ const configs = [
 const pad = (n) => n.toString().padStart(2, "0");
 
 const formatTime = (iso) => {
-  if (!iso) return "";
-  const date = new Date(iso);
-  if (isNaN(date)) return "";
+	if (!iso) return "";
+	const date = new Date(iso);
+	if (isNaN(date)) return "";
 
-  return date.toLocaleTimeString([], {
-    hour: '2-digit',
-    minute: '2-digit',
-    hour12: false   // Force 24h format
-  });
+	return date.toLocaleTimeString([], {
+		hour: "2-digit",
+		minute: "2-digit",
+		hour12: false, // Force 24h format
+	});
 };
 
 const formatDate = (iso) => {
-  if (!iso) return "";
-  const date = new Date(iso);
-  if (isNaN(date)) return "";
-
-  return date.toLocaleDateString('sv-SE'); // 'sv-SE' gives YYYY-MM-DD format
+	if (!iso) return "";
+	const date = new Date(iso);
+	if (isNaN(date)) return "";
+	const day = String(date.getDate()).padStart(2, "0");
+	//const month = String(date.getMonth() + 1).padStart(2, "0");
+	const month = date.toLocaleString('en', { month: 'short' }); // 3-letter month
+	return `${month} ${day}`;
 };
 
-
 function getAllDataFiles(pref) {
-    return fs.readdirSync(DATA_DIR)
-             .filter(f => f.endsWith('.json') && f.startsWith(pref) && !f.startsWith("index"))
-             .map(f => path.join(DATA_DIR, f));
+	return fs
+		.readdirSync(DATA_DIR)
+		.filter(
+			(f) => f.endsWith(".json") && f.startsWith(pref) && !f.startsWith("index")
+		)
+		.map((f) => path.join(DATA_DIR, f));
 }
 
 function formatDuration(minutes) {
-const days = Math.floor(minutes / 1440);
-  const hours = Math.floor((minutes % 1440) / 60);
-  const minutes2 = minutes % 60;
-  let str = '';
-  if (days) str += `${days}d `;
-  if (hours) str += `${hours}h `;
-  if (minutes2 || (!days && !hours)) str += `${minutes2}m`;
-  return str.trim();
+	const days = Math.floor(minutes / 1440);
+	const hours = Math.floor((minutes % 1440) / 60);
+	const minutes2 = minutes % 60;
+	let str = "";
+	if (days) str += `${days}d `;
+	if (hours) str += `${hours}h `;
+	if (minutes2 || (!days && !hours)) str += `${minutes2}m`;
+	return str.trim();
 }
 
 function deduplicateItems(items) {
-  const map = new Map();
+	const map = new Map();
 
-  for (const item of items) {
-    if (!map.has(item.title)) {
-      map.set(item.title, {
-        title: item.title,
-        added_at: item.added_at,
-        removed_at: item.removed_at
-      });
-    } else {
-      const existing = map.get(item.title);
+	for (const item of items) {
+		if (!map.has(item.title)) {
+			map.set(item.title, {
+				title: item.title,
+				added_at: item.added_at,
+				removed_at: item.removed_at,
+			});
+		} else {
+			const existing = map.get(item.title);
 
-      // Find earliest added_at
-      if (new Date(item.added_at) <= new Date(existing.added_at)) {
-        existing.added_at = item.added_at;
-      }
+			// Find earliest added_at
+			if (new Date(item.added_at) <= new Date(existing.added_at)) {
+				existing.added_at = item.added_at;
+			}
 
-      // Find latest removed_at
-      if (new Date(item.removed_at) >= new Date(existing.removed_at)) {
-        existing.removed_at = item.removed_at;
-      }
-    }
-  }
-const result = [];
-for (const obj of map.values()) {
-  const added = new Date(obj.added_at);
+			// Find latest removed_at
+			if (new Date(item.removed_at) >= new Date(existing.removed_at)) {
+				existing.removed_at = item.removed_at;
+			}
+		}
+	}
+	const result = [];
+	for (const obj of map.values()) {
+		const added = new Date(obj.added_at);
 
-  let durationMinutes = 0;
-  let durationStr = "";
+		let durationMinutes = 0;
+		let durationStr = "";
 
-  if (obj.removed_at) {
-    const removed = new Date(obj.removed_at);
-    const durationMs = removed - added;
-    durationMinutes = Math.round(durationMs / 60000);
-    durationStr = formatDuration(durationMinutes);
-  }
+		if (obj.removed_at) {
+			const removed = new Date(obj.removed_at);
+			const durationMs = removed - added;
+			durationMinutes = Math.round(durationMs / 60000);
+			durationStr = formatDuration(durationMinutes);
+		}
 
-  result.push({
-    title: obj.title,
-    added_at: obj.added_at,
-    removed_at: obj.removed_at,
-    duration_minutes: durationMinutes,
-    duration_str: durationStr
-  });
-}
+		result.push({
+			title: obj.title,
+			added_at: obj.added_at,
+			removed_at: obj.removed_at,
+			duration_minutes: durationMinutes,
+			duration_str: durationStr,
+		});
+	}
 
-  return result;
+	return result;
 }
 
 const htmlEscape = (str) =>
@@ -114,7 +118,7 @@ const generateHtmlTable = (entries, dateStr, medium, dateFileSustr) => {
 		.map((entry) => {
 			const time = formatTime(entry.added_at);
 			let time2 =
-				formatTime(entry.removed_at) + " " + formatDate(entry.removed_at);
+				formatTime(entry.removed_at) + " (" + formatDate(entry.removed_at) + ")";
 			if (formatDate(entry.added_at) === formatDate(entry.removed_at)) {
 				time2 = formatTime(entry.removed_at);
 			}
@@ -128,7 +132,7 @@ const generateHtmlTable = (entries, dateStr, medium, dateFileSustr) => {
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Duration of ${medium} info cards - ${dateStr}</title>
+  <title>Duration of ${medium} info - ${dateStr}</title>
   <style>
     body { font-family: sans-serif; margin: 2em; }
     table { border-collapse: collapse; width: 100%; }
@@ -137,7 +141,7 @@ const generateHtmlTable = (entries, dateStr, medium, dateFileSustr) => {
   </style>
 </head>
 <body>
-  <h1>Duration of cards on ${dateStr}</h1>
+  <h1>Duration of ${medium} info on ${formatDate(dateStr)}</h1>
   <table>
     <thead><tr><th>In</th><th>Out</th><th>Duration</th><th>Title</th></tr></thead>
     <tbody>
@@ -150,11 +154,7 @@ ${rows}
 };
 
 for (const config of configs) {
-	const {
-		dateFileSuf,
-		targetYear,
-		medium,
-	} = config;
+	const { dateFileSuf, targetYear, medium } = config;
 	const dateFileSustr = dateFileSuf == 1 ? "" : `_${dateFileSuf}`;
 	const dateFileSustrForIndex = dateFileSuf == 1 ? "" : `${dateFileSuf}`;
 	const outputHtmlFile = `index${dateFileSustr}.html`;
@@ -164,24 +164,21 @@ for (const config of configs) {
 	if (!fs.existsSync(outputHtmlDir)) fs.mkdirSync(outputHtmlDir);
 	//const inputFile = path.join(DATA_DIR, `card-titles${dateFileSuf}${COMPUTER_ID}.json`);
 	const allInputFiles = getAllDataFiles(`card-titles${dateFileSuf}`);
-    var data = [];
-    for (const inputFile of allInputFiles) {
-	console.log(`✅ allInput : ${allInputFiles} `);
-	console.log(`✅ inputFile: ${inputFile} `);
-    
-	//const data = JSON.parse(fs.readFileSync(inputFile, "utf8"));
-	const computerName = path.basename(inputFile, '.json');
-        const dataOne = JSON.parse(fs.readFileSync(inputFile, "utf8"));
-        if (dataOne.length > 0) {
-            data.push(...dataOne);
-            data.push(...dataOne);
-			data = deduplicateItems(data);		
-		console.log(`✅ data: ${data.length} `);
+	var data = [];
+	for (const inputFile of allInputFiles) {
+		console.log(`✅ allInput : ${allInputFiles} `);
+		console.log(`✅ inputFile: ${inputFile} `);
 
-        } 
-    }
-
-
+		//const data = JSON.parse(fs.readFileSync(inputFile, "utf8"));
+		const computerName = path.basename(inputFile, ".json");
+		const dataOne = JSON.parse(fs.readFileSync(inputFile, "utf8"));
+		if (dataOne.length > 0) {
+			data.push(...dataOne);
+			data.push(...dataOne);
+			data = deduplicateItems(data);
+			console.log(`✅ data: ${data.length} `);
+		}
+	}
 
 	const htmlFiles = [];
 
@@ -208,7 +205,12 @@ for (const config of configs) {
 					outputHtmlDir,
 					`${dateStr}${dateFileSustr}.html`
 				);
-				const htmlContent = generateHtmlTable(onDay, dateStr, medium, dateFileSustr);
+				const htmlContent = generateHtmlTable(
+					onDay,
+					dateStr,
+					medium,
+					dateFileSustr
+				);
 				fs.writeFileSync(htmlPath, htmlContent, "utf8");
 
 				htmlFiles.push({
