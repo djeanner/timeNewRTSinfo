@@ -4,7 +4,7 @@ const cheerio = require('cheerio');
 const COMPUTER_ID = process.env.COMPUTER_ID || 'unknown-computer';
 // === CONFIG ===
 const inputHtmlFile = 'input.html';
-const outputJsonFileSuf = '';
+const outputJsonFileSuf = '1';
 const outputJsonFile = path.join(__dirname, 'data', `card-titles${outputJsonFileSuf}${COMPUTER_ID}.json`);
 
 // === UTILS ===

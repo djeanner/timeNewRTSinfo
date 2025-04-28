@@ -4,7 +4,7 @@ const COMPUTER_ID = process.env.COMPUTER_ID || 'unknown-computer';
 
 const configs = [
 	{
-		inputFile: path.join(__dirname, 'data', `card-titles${COMPUTER_ID}.json`),
+		inputFile: path.join(__dirname, 'data', `card-titles1${COMPUTER_ID}.json`),
 		outputJsonDir: "removed-by-day",
 		outputHtmlDir: "html",
 		dateFileSuf: "",
