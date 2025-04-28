@@ -1,9 +1,10 @@
 const fs = require("fs");
 const path = require("path");
+const COMPUTER_ID = process.env.COMPUTER_ID || 'unknown-computer';
 
 const configs = [
 	{
-		inputFile: "card-titles.json",
+		inputFile: path.join(__dirname, 'data', `card-titles${COMPUTER_ID}.json`),
 		outputJsonDir: "removed-by-day",
 		outputHtmlDir: "html",
 		dateFileSuf: "",
@@ -11,7 +12,7 @@ const configs = [
 		medium: "RTS",
 	},
 	{
-		inputFile: "card-titles2.json",
+		inputFile: path.join(__dirname, 'data', `card-titles2${COMPUTER_ID}.json`),
 		outputJsonDir: "removed-by-day2",
 		outputHtmlDir: "html",
 		dateFileSuf: "_2",

@@ -16,16 +16,19 @@ npm install cheerio
 # Run
 The script 
 ```zsh
+export COMPUTER_ID=$(scutil --get ComputerName)
 ./run-loop.zsh
 ```
 calls [extract.js](extract.js) and [extractDayliRemoval.js](extractDayliRemoval.js) for ever.
 If you are on macos, use 
 ```zsh
+export COMPUTER_ID=$(scutil --get ComputerName)
 caffeinate ./run-loop.zsh
 ```
 to make sure the computer does not go to sleep while the script is running. 
 
 ```zsh
+export COMPUTER_ID=$(scutil --get ComputerName)
 caffeinate -dimsu ./run-loop.zsh &
 kill % 
 ```

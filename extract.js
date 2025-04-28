@@ -1,9 +1,11 @@
 const fs = require('fs');
+const path = require('path');
 const cheerio = require('cheerio');
-
+const COMPUTER_ID = process.env.COMPUTER_ID || 'unknown-computer';
 // === CONFIG ===
 const inputHtmlFile = 'input.html';
-const outputJsonFile = 'card-titles.json';
+const outputJsonFileSuf = '';
+const outputJsonFile = path.join(__dirname, 'data', `card-titles${outputJsonFileSuf}${COMPUTER_ID}.json`);
 
 // === UTILS ===
 function parseDate(iso) {
@@ -30,6 +32,14 @@ function calculateDurationString(start, end) {
 const html = fs.readFileSync(inputHtmlFile, 'utf8');
 const $ = cheerio.load(html);
 
+
+
+// === EXTRACT CURRENT TITLES FROM HTML ===
+const foundTitles = new Set();
+$('p.card-title').each((_, elem) => {
+  const title = $(elem).text().trim();
+  foundTitles.add(title);
+});
 // === LOAD EXISTING DATA ===
 let existingTitles = [];
 try {
@@ -45,13 +55,6 @@ try {
 } catch {
   console.warn(`⚠️ Could not read or parse ${outputJsonFile}. Starting fresh.`);
 }
-
-// === EXTRACT CURRENT TITLES FROM HTML ===
-const foundTitles = new Set();
-$('p.card-title').each((_, elem) => {
-  const title = $(elem).text().trim();
-  foundTitles.add(title);
-});
 
 // === BUILD MAP FOR QUICK ACCESS ===
 const now = new Date();
@@ -92,4 +95,5 @@ for (const entry of existingTitles) {
 // === SAVE TO FILE ===
 fs.writeFileSync(outputJsonFile, JSON.stringify(existingTitles, null, 2), 'utf8');
 console.log(`✅ ${outputJsonFile} updated successfully.`);
+
 

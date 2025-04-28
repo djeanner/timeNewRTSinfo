@@ -1,11 +1,11 @@
 const fs = require('fs');
 const path = require('path');
-const cheerio = require('cheerio'); 
-
-
+const cheerio = require('cheerio');
+const COMPUTER_ID = process.env.COMPUTER_ID || 'unknown-computer';
 // === CONFIG ===
 const inputHtmlFile = 'leTemps.html';
-const outputJsonFile = 'card-titles2.json';
+const outputJsonFileSuf = '2';
+const outputJsonFile = path.join(__dirname, 'data', `card-titles${outputJsonFileSuf}${COMPUTER_ID}.json`);
 
 // === UTILS ===
 function parseDate(iso) {
@@ -71,8 +71,6 @@ try {
   console.warn(`⚠️ Could not read or parse ${outputJsonFile}. Starting fresh.`);
 }
 
-
-
 // === BUILD MAP FOR QUICK ACCESS ===
 const now = new Date();
 const existingMap = new Map();
@@ -112,7 +110,5 @@ for (const entry of existingTitles) {
 // === SAVE TO FILE ===
 fs.writeFileSync(outputJsonFile, JSON.stringify(existingTitles, null, 2), 'utf8');
 console.log(`✅ ${outputJsonFile} updated successfully.`);
-
-
 
 

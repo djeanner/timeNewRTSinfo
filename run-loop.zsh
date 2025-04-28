@@ -2,132 +2,32 @@
 
 echo "⏳ Starting loop... (Ctrl+C to stop)"
 
+# Define an array of sleep times
+sleep_times=(113 107 111 113 107 111 113 107 111)
+
 while true; do
   echo "🔁 Running extract-card-titles.js at $(date)"
 
-  wget https://www.letemps.ch -O leTemps.html
-  node extractLeTemps.js
+  for sleep_time in $sleep_times; do
+    echo "Fetching letemps.ch..."
+    wget https://www.letemps.ch -O leTemps.html
+    node extractLeTemps.js
 
-  # Run your Node script
-  echo "get rts.ch/info page"
-  wget rts.ch/info -O input.html
-  echo "extract card titles from page"
-  node extract.js
-  echo "extractDayliRemoval into folder removed-by-day"
-  node extractDayliRemoval.js
-  echo "Waiting for a while ..."
-  sleep 113  # 600 seconds = 10 minutes
-  wget https://www.letemps.ch -O leTemps.html
-  node extractLeTemps.js
-
- # Run your Node script
-  echo "get rts.ch/info page"
-  wget rts.ch/info -O input.html
-  echo "extract card titles from page"
-  node extract.js
-  echo "extractDayliRemoval into folder removed-by-day"
-  node extractDayliRemoval.js
-  echo "Waiting for a while ..."
-  sleep 107  # 600 seconds = 10 minutes
-  wget https://www.letemps.ch -O leTemps.html
-  node extractLeTemps.js
-
-
- # Run your Node script
-  echo "get rts.ch/info page"
+    echo "Fetching rts.ch/info..."
     wget rts.ch/info -O input.html
 
-  echo "extract card titles from page"
-  node extract.js
-  echo "extractDayliRemoval into folder removed-by-day"
-  node extractDayliRemoval.js
-  echo "Waiting for a while ..."
-  sleep 111  # 600 seconds = 10 minutes
-  wget https://www.letemps.ch -O leTemps.html
-  node extractLeTemps.js
+    echo "Extracting card titles..."
+    node extract.js
 
+    echo "Extracting daily removals..."
+    node extractDayliRemoval.js
 
-  # Run your Node script
-  echo "get rts.ch/info page"
-    wget rts.ch/info -O input.html
+    echo "Waiting for $sleep_time seconds..."
+    sleep $sleep_time
+  done
 
-  echo "extract card titles from page"
-  node extract.js
-  echo "extractDayliRemoval into folder removed-by-day"
-  node extractDayliRemoval.js
-  echo "Waiting for a while ..."
-  sleep 113  # 600 seconds = 10 minutes
-  wget https://www.letemps.ch -O leTemps.html
-  node extractLeTemps.js
-
- # Run your Node script
-  echo "get rts.ch/info page"
-  wget rts.ch/info
-  mv info input.html
-  echo "extract card titles from page"
-  node extract.js
-  echo "extractDayliRemoval into folder removed-by-day"
-  node extractDayliRemoval.js
-  echo "Waiting for a while ..."
-  sleep 107  # 600 seconds = 10 minutes
-  wget https://www.letemps.ch -O leTemps.html
-  node extractLeTemps.js
-
-
- # Run your Node script
-  echo "get rts.ch/info page"
-  wget rts.ch/info
-  mv info input.html
-  echo "extract card titles from page"
-  node extract.js
-  echo "extractDayliRemoval into folder removed-by-day"
-  node extractDayliRemoval.js
-  echo "Waiting for a while ..."
-  sleep 111  # 600 seconds = 10 minutes
-  wget https://www.letemps.ch -O leTemps.html
-  node extractLeTemps.js
-
-
-  # Run your Node script
-  echo "get rts.ch/info page"
-  wget rts.ch/info
-  mv info input.html
-  echo "extract card titles from page"
-  node extract.js
-  echo "extractDayliRemoval into folder removed-by-day"
-  node extractDayliRemoval.js
-  echo "Waiting for a while ..."
-  sleep 113  # 600 seconds = 10 minutes
-  wget https://www.letemps.ch -O leTemps.html
-  node extractLeTemps.js
-
- # Run your Node script
-  echo "get rts.ch/info page"
-  wget rts.ch/info
-  mv info input.html
-  echo "extract card titles from page"
-  node extract.js
-  echo "extractDayliRemoval into folder removed-by-day"
-  node extractDayliRemoval.js
-  echo "Waiting for a while ..."
-  sleep 107  # 600 seconds = 10 minutes
-  wget https://www.letemps.ch -O leTemps.html
-  node extractLeTemps.js
-
-
- # Run your Node script
-  echo "get rts.ch/info page"
-  wget rts.ch/info
-  mv info input.html
-  echo "extract card titles from page"
-  node extract.js
-  echo "extractDayliRemoval into folder removed-by-day"
-  node extractDayliRemoval.js
-  echo "Waiting for a while ..."
-  sleep 111  # 600 seconds = 10 minutes
-
-
-  git commit html card-titles.json card-titles2.json -m "update html and all card-titles"
+  echo "📤 Committing updates to Git..."
+  git add html/
+  git commit html data/ -m "update html and all card-titles"
   git push
 done
-
