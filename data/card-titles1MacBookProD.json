@@ -2394,7 +2394,10 @@
   },
   {
     "title": "Le premier match de Carlos le boxeur, le détenu le plus célèbre de Suisse",
-    "added_at": "2025-04-27T16:32:33.198Z"
+    "added_at": "2025-04-27T16:32:33.198Z",
+    "removed_at": "2025-04-29T06:37:37.262Z",
+    "duration_minutes": 2285,
+    "duration_str": "1d 14h 5m"
   },
   {
     "title": "Bâle brise le rêve des Lausannois",
@@ -2659,5 +2662,9 @@
   {
     "title": "Plus de transparence demandée face à la hausse du recours à l'imagerie médicale",
     "added_at": "2025-04-29T06:07:49.716Z"
+  },
+  {
+    "title": "Un jeune homme poignardé dans une mosquée en France: interview d'Hamza Esmili",
+    "added_at": "2025-04-29T06:37:37.262Z"
   }
 ]
