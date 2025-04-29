@@ -2179,7 +2179,10 @@
   },
   {
     "title": "Le projet de transport de marchandises \"Cargo sous terrain\" est en grande difficulté",
-    "added_at": "2025-04-26T20:25:43.018Z"
+    "added_at": "2025-04-26T20:25:43.018Z",
+    "removed_at": "2025-04-29T06:07:49.716Z",
+    "duration_minutes": 3462,
+    "duration_str": "2d 9h 42m"
   },
   {
     "title": "Constituer des réserves de vin pour faire face aux aléas climatiques?",
@@ -2652,5 +2655,9 @@
   {
     "title": "Les échanges de tirs entre soldats indiens et pakistanais se poursuivent au Cachemire",
     "added_at": "2025-04-29T05:58:34.423Z"
+  },
+  {
+    "title": "Plus de transparence demandée face à la hausse du recours à l'imagerie médicale",
+    "added_at": "2025-04-29T06:07:49.716Z"
   }
 ]

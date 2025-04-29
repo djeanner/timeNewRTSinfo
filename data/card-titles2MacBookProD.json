@@ -1448,7 +1448,10 @@
   },
   {
     "title": "suisse:::Philipp Matthias Bregy sera le nouveau patron du Centre",
-    "added_at": "2025-04-28T17:01:12.228Z"
+    "added_at": "2025-04-28T17:01:12.228Z",
+    "removed_at": "2025-04-29T06:07:49.317Z",
+    "duration_minutes": 786,
+    "duration_str": "13h 6m"
   },
   {
     "title": "monde:::Dans les rues de Madrid, pas d'électricité mais un concert de sifflets et de sirènes",
@@ -1585,5 +1588,9 @@
   {
     "title": "monde:::Le Canada élit Mark Carney à sa tête pour croiser le fer avec Donald Trump",
     "added_at": "2025-04-29T05:41:50.057Z"
+  },
+  {
+    "title": "cyber:::Ultra-dominateur sur le web, le navigateur Chrome de Google intéresse les géants de l’intelligence artificielle",
+    "added_at": "2025-04-29T06:07:49.317Z"
   }
 ]
