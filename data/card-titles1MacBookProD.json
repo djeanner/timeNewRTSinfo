@@ -2227,7 +2227,10 @@
   },
   {
     "title": "Un automobiliste fonce dans une foule à un festival de la communauté philippine à Vancouver",
-    "added_at": "2025-04-27T05:53:51.220Z"
+    "added_at": "2025-04-27T05:53:51.220Z",
+    "removed_at": "2025-04-29T10:37:40.816Z",
+    "duration_minutes": 3163,
+    "duration_str": "2d 4h 43m"
   },
   {
     "title": "Le projet titanesque du CERN divise la communauté scientifique",
@@ -2307,10 +2310,7 @@
   },
   {
     "title": "\"Anaon\" sur Prime, l’art de s'emparer du thriller fantastique pour traiter de deuil",
-    "added_at": "2025-04-27T09:10:36.096Z",
-    "removed_at": "2025-04-29T10:15:14.246Z",
-    "duration_minutes": 2944,
-    "duration_str": "2d 1h 4m"
+    "added_at": "2025-04-27T09:10:36.096Z"
   },
   {
     "title": "Une puissante explosion dans un port en Iran fait au moins 25 morts et 1000 blessés",
@@ -2716,7 +2716,10 @@
   },
   {
     "title": "La Suisse croule-t-elle vraiment sous les fonctionnaires?",
-    "added_at": "2025-04-29T07:38:56.764Z"
+    "added_at": "2025-04-29T07:38:56.764Z",
+    "removed_at": "2025-04-29T10:32:06.359Z",
+    "duration_minutes": 173,
+    "duration_str": "2h 53m"
   },
   {
     "title": "Un drame a été évité de justesse ce weekend sur les pentes du Mont Rose",
@@ -2752,10 +2755,17 @@
   },
   {
     "title": "Retour progressif à la normale en Espagne et au Portugal après la coupure d'électricité géante",
-    "added_at": "2025-04-29T10:11:26.929Z"
+    "added_at": "2025-04-29T10:11:26.929Z",
+    "removed_at": "2025-04-29T10:41:20.928Z",
+    "duration_minutes": 29,
+    "duration_str": "29m"
   },
   {
     "title": "Une campagne pour inciter à s'agripper dans les transports afin d'éviter les accidents",
     "added_at": "2025-04-29T10:15:14.246Z"
+  },
+  {
+    "title": "Retour progressif à la normale en Espagne et au Portugal, la piste d'une cyberattaque écartée",
+    "added_at": "2025-04-29T10:39:28.876Z"
   }
 ]
