@@ -1675,7 +1675,10 @@
   },
   {
     "title": "sciences:::Les salles d’escalade sont saturées de substances toxiques, selon une étude de l’EPFL",
-    "added_at": "2025-04-29T10:00:18.034Z"
+    "added_at": "2025-04-29T10:00:18.034Z",
+    "removed_at": "2025-04-29T15:42:43.519Z",
+    "duration_minutes": 342,
+    "duration_str": "5h 42m"
   },
   {
     "title": "suisse:::Un avion frôle des randonneurs au Mont-Rose, le pilote s’excuse",
@@ -1714,5 +1717,9 @@
   {
     "title": "economie:::Un an après la porte arrachée en plein vol, Airbus s’empare d’une partie de Spirit AeroSystems",
     "added_at": "2025-04-29T15:14:50.742Z"
+  },
+  {
+    "title": "suisse:::A Genève, le personnel de nettoyage de l’hôpital obtient des contrats à plein temps après des années de revendication",
+    "added_at": "2025-04-29T15:42:43.519Z"
   }
 ]
