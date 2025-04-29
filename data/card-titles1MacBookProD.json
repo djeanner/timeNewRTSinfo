@@ -2473,7 +2473,10 @@
   },
   {
     "title": "Faire la fête à l'heure du petit-déjeuner, les bakery raves débarquent en Suisse",
-    "added_at": "2025-04-27T21:31:31.435Z"
+    "added_at": "2025-04-27T21:31:31.435Z",
+    "removed_at": "2025-04-29T14:39:29.836Z",
+    "duration_minutes": 2467,
+    "duration_str": "1d 17h 7m"
   },
   {
     "title": "Hausse \"sans précédent\" des dépenses militaires en 2024",
@@ -2517,10 +2520,7 @@
   },
   {
     "title": "Une explosion dans un port en Iran fait au moins 28 morts et 1000 blessés",
-    "added_at": "2025-04-28T09:36:25.324Z",
-    "removed_at": "2025-04-29T07:38:56.764Z",
-    "duration_minutes": 1322,
-    "duration_str": "22h 2m"
+    "added_at": "2025-04-28T09:36:25.324Z"
   },
   {
     "title": "\"La Russie ne cherche pas la paix en Ukraine, elle veut la victoire\"",
@@ -2787,7 +2787,10 @@
   },
   {
     "title": "Retour progressif à la normale en Espagne et au Portugal, la piste d'une cyberattaque écartée",
-    "added_at": "2025-04-29T10:39:28.876Z"
+    "added_at": "2025-04-29T10:39:28.876Z",
+    "removed_at": "2025-04-29T14:30:13.048Z",
+    "duration_minutes": 230,
+    "duration_str": "3h 50m"
   },
   {
     "title": "L'idée d'un contre-projet à l'initiative SSR abandonnée au Parlement",
@@ -2835,5 +2838,20 @@
   {
     "title": "L'américain UPS va supprimer 20'000 postes dans le monde",
     "added_at": "2025-04-29T14:13:28.128Z"
+  },
+  {
+    "title": "L'électricité rétablie dans la quasi-intégralité en Espagne et au Portugal, la piste d'une cyberattaque écartée",
+    "added_at": "2025-04-29T14:26:32.674Z",
+    "removed_at": "2025-04-29T14:35:47.460Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Erreur humaine ou problème technique, l'origine de la panne électrique en Espagne et au Portugal toujours pas identifiée",
+    "added_at": "2025-04-29T14:32:07.168Z"
+  },
+  {
+    "title": "En Suisse aussi des parlementaires critiquent un état peu efficace et avec trop de personnel",
+    "added_at": "2025-04-29T14:37:41.534Z"
   }
 ]
