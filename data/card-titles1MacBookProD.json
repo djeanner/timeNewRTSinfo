@@ -2234,7 +2234,10 @@
   },
   {
     "title": "Le projet titanesque du CERN divise la communauté scientifique",
-    "added_at": "2025-04-27T05:59:25.159Z"
+    "added_at": "2025-04-27T05:59:25.159Z",
+    "removed_at": "2025-04-29T13:15:42.820Z",
+    "duration_minutes": 3316,
+    "duration_str": "2d 7h 16m"
   },
   {
     "title": "Nouveaux échanges de tirs à la frontière entre l'Inde et le Pakistan",
@@ -2785,5 +2788,9 @@
   {
     "title": "L'Etat du Valais veut massivement soutenir son hôpital",
     "added_at": "2025-04-29T12:29:15.842Z"
+  },
+  {
+    "title": "Elisabeth Baume-Schneider en visite au centre médical de Crissier, un projet innovant de l'OFSP",
+    "added_at": "2025-04-29T13:15:42.820Z"
   }
 ]
