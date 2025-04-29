@@ -1597,7 +1597,10 @@
   },
   {
     "title": "suisse:::Le spectre d’une commission d’enquête parlementaire plane sur le Grand Conseil vaudois",
-    "added_at": "2025-04-29T04:36:43.403Z"
+    "added_at": "2025-04-29T04:36:43.403Z",
+    "removed_at": "2025-04-29T15:14:50.742Z",
+    "duration_minutes": 638,
+    "duration_str": "10h 38m"
   },
   {
     "title": "monde:::En Ukraine: «Notre Constitution ne permet pas de changements territoriaux»",
@@ -1707,5 +1710,9 @@
   {
     "title": "economie:::Amazon s’apprêterait à afficher le coût des droits de douane américains sur certains produits",
     "added_at": "2025-04-29T15:09:15.197Z"
+  },
+  {
+    "title": "economie:::Un an après la porte arrachée en plein vol, Airbus s’empare d’une partie de Spirit AeroSystems",
+    "added_at": "2025-04-29T15:14:50.742Z"
   }
 ]
