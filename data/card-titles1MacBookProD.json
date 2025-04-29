@@ -2223,7 +2223,10 @@
   },
   {
     "title": "Nouveaux échanges de tirs à la frontière entre l'Inde et le Pakistan",
-    "added_at": "2025-04-27T06:55:06.625Z"
+    "added_at": "2025-04-27T06:55:06.625Z",
+    "removed_at": "2025-04-29T05:58:34.423Z",
+    "duration_minutes": 2823,
+    "duration_str": "1d 23h 3m"
   },
   {
     "title": "Une puissante explosion dans un port en Iran fait au moins 25 morts et 800 blessés",
@@ -2645,5 +2648,9 @@
   {
     "title": "Le Valais a tenu ses premiers Etats généraux de la viticulture",
     "added_at": "2025-04-29T05:26:54.838Z"
+  },
+  {
+    "title": "Les échanges de tirs entre soldats indiens et pakistanais se poursuivent au Cachemire",
+    "added_at": "2025-04-29T05:58:34.423Z"
   }
 ]
