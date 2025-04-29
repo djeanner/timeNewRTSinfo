@@ -2158,7 +2158,10 @@
   },
   {
     "title": "Brian, célèbre ancien détenu suisse, s'apprête à faire son premier match de boxe",
-    "added_at": "2025-04-26T18:43:31.176Z"
+    "added_at": "2025-04-26T18:43:31.176Z",
+    "removed_at": "2025-04-29T05:26:54.838Z",
+    "duration_minutes": 3523,
+    "duration_str": "2d 10h 43m"
   },
   {
     "title": "Importateurs de voiture et écologistes pestent contre l'ordonnance CO2",
@@ -2638,5 +2641,9 @@
   {
     "title": "Tesla, le pionnier de la voiture électrique, est-il en péril avec les frasques d'Elon Musk?",
     "added_at": "2025-04-29T04:44:10.741Z"
+  },
+  {
+    "title": "Le Valais a tenu ses premiers Etats généraux de la viticulture",
+    "added_at": "2025-04-29T05:26:54.838Z"
   }
 ]
