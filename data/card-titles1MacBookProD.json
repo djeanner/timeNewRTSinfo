@@ -2454,7 +2454,10 @@
   },
   {
     "title": "Un automobiliste tue onze personnes en fonçant dans la foule lors d'un festival à Vancouver",
-    "added_at": "2025-04-27T17:24:35.389Z"
+    "added_at": "2025-04-27T17:24:35.389Z",
+    "removed_at": "2025-04-29T14:13:28.128Z",
+    "duration_minutes": 2688,
+    "duration_str": "1d 20h 48m"
   },
   {
     "title": "Des défenseurs des animaux déposent une plainte contre une affiche de la BEA",
@@ -2828,5 +2831,9 @@
   {
     "title": "La hausse du patrimoine des Suisses cache un potentiel risque immobilier",
     "added_at": "2025-04-29T13:54:51.611Z"
+  },
+  {
+    "title": "L'américain UPS va supprimer 20'000 postes dans le monde",
+    "added_at": "2025-04-29T14:13:28.128Z"
   }
 ]
