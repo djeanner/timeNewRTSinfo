@@ -2129,7 +2129,10 @@
   },
   {
     "title": "Le pape a rejoint sa dernière demeure après des funérailles suivies par plus de 250'000 personnes",
-    "added_at": "2025-04-26T17:12:26.786Z"
+    "added_at": "2025-04-26T17:12:26.786Z",
+    "removed_at": "2025-04-29T09:21:13.935Z",
+    "duration_minutes": 3848,
+    "duration_str": "2d 16h 8m"
   },
   {
     "title": "Obsèques du pape François: un rassemblement diplomatique majeur",
@@ -2729,5 +2732,9 @@
   {
     "title": "Succession du pape François: le  conclave débutera le 7 mai prochain au Vatican",
     "added_at": "2025-04-29T08:40:22.916Z"
+  },
+  {
+    "title": "André Duvillard: \"Ce qui s'est passé en Espagne et au Portugal devrait servir de piqûre de rappel\"",
+    "added_at": "2025-04-29T09:21:13.935Z"
   }
 ]
