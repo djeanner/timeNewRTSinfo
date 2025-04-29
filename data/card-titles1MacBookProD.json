@@ -2406,7 +2406,10 @@
   },
   {
     "title": "Pour la première fois, une femme est élue Landammann à Appenzell",
-    "added_at": "2025-04-27T12:58:58.105Z"
+    "added_at": "2025-04-27T12:58:58.105Z",
+    "removed_at": "2025-04-29T15:55:48.699Z",
+    "duration_minutes": 3056,
+    "duration_str": "2d 2h 56m"
   },
   {
     "title": "Football: l'arbitre de la finale de la Coupe d'Espagne en larme à cause de son lynchage par le Real Madrid",
@@ -2436,7 +2439,10 @@
   },
   {
     "title": "Les fidèles se recueillent sur la tombe du pape François",
-    "added_at": "2025-04-27T14:39:15.734Z"
+    "added_at": "2025-04-27T14:39:15.734Z",
+    "removed_at": "2025-04-29T15:55:48.699Z",
+    "duration_minutes": 2956,
+    "duration_str": "2d 1h 16m"
   },
   {
     "title": "Assureurs complémentaires et médecins genevois rouvrent les négociations",
@@ -2898,5 +2904,13 @@
   {
     "title": "Coupure de courant totale en Espagne: le point de situation",
     "added_at": "2025-04-29T15:39:03.808Z"
+  },
+  {
+    "title": "La France accuse le renseignement russe de vol de données dans la campagne d'Emmanuel Macron de 2017",
+    "added_at": "2025-04-29T15:55:48.699Z"
+  },
+  {
+    "title": "Watson crée la surprise à Saint-Imier",
+    "added_at": "2025-04-29T15:55:48.699Z"
   }
 ]
