@@ -1482,7 +1482,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Emmanuel Macron: «Nous allons accroître la pression sur la Russie»",
-    "added_at": "2025-04-28T17:45:50.775Z"
+    "added_at": "2025-04-28T17:45:50.775Z",
+    "removed_at": "2025-04-29T08:45:56.947Z",
+    "duration_minutes": 900,
+    "duration_str": "15h"
   },
   {
     "title": "monde:::Le conclave qui désignera le successeur de François débutera le 7 mai",
@@ -1620,5 +1623,16 @@
   {
     "title": "sport:::Arsenal ou PSG, le Rwanda sera en finale de la Ligue des champions",
     "added_at": "2025-04-29T08:03:04.771Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Donald Trump affirme vouloir «sauver» l’Ukraine, un pays «bientôt écrasé» par la Russie",
+    "added_at": "2025-04-29T08:45:56.947Z",
+    "removed_at": "2025-04-29T08:47:45.057Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "monde:::En direct – Donald Trump affirme vouloir «sauver» l’Ukraine, un pays «bientôt écrasé» par la Russie",
+    "added_at": "2025-04-29T08:47:45.057Z"
   }
 ]
