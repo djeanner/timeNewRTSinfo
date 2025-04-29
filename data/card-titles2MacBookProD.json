@@ -1755,7 +1755,10 @@
   },
   {
     "title": "economie:::Un an après la porte arrachée en plein vol, Airbus s’empare d’une partie de Spirit AeroSystems",
-    "added_at": "2025-04-29T15:14:50.742Z"
+    "added_at": "2025-04-29T15:14:50.742Z",
+    "removed_at": "2025-04-29T20:14:19.422Z",
+    "duration_minutes": 299,
+    "duration_str": "4h 59m"
   },
   {
     "title": "suisse:::A Genève, le personnel de nettoyage de l’hôpital obtient des contrats à plein temps après des années de revendication",
@@ -1833,5 +1836,9 @@
   {
     "title": "economie:::Changement d’époque chez L’Oréal: Françoise Bettencourt Meyers passe la main à la nouvelle génération",
     "added_at": "2025-04-29T19:20:23.777Z"
+  },
+  {
+    "title": "monde:::Les libéraux de Mark Carney échouent de peu à obtenir la majorité absolue au parlement canadien",
+    "added_at": "2025-04-29T20:14:19.422Z"
   }
 ]

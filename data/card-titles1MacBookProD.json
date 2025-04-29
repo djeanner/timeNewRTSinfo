@@ -1467,7 +1467,10 @@
   },
   {
     "title": "Testez vos connaissances sur Bâle, ville hôte du Concours Eurovision",
-    "added_at": "2025-04-24T12:43:31.435Z"
+    "added_at": "2025-04-24T12:43:31.435Z",
+    "removed_at": "2025-04-29T20:01:22.575Z",
+    "duration_minutes": 7637,
+    "duration_str": "5d 7h 17m"
   },
   {
     "title": "Au moins 200'000 personnes attendues aux obsèques de François samedi",
@@ -2972,5 +2975,16 @@
   {
     "title": "Le Parti libéral de Mark Carney a remporté cette nuit les élections fédérales canadiennes",
     "added_at": "2025-04-29T19:40:51.547Z"
+  },
+  {
+    "title": "Des indices de vie sur une exoplanète? Controverse autour des résultats du télescope James Webb",
+    "added_at": "2025-04-29T20:01:22.575Z",
+    "removed_at": "2025-04-29T20:06:57.132Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "Des indices de vie sur une exoplanète? L'astronome Didier Queloz explique pourquoi il faut rester prudent",
+    "added_at": "2025-04-29T20:06:57.132Z"
   }
 ]
