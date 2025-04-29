@@ -1453,7 +1453,10 @@
   },
   {
     "title": "monde:::Dans les rues de Madrid, pas d’électricité mais un concert de sifflets et de sirènes",
-    "added_at": "2025-04-28T17:14:16.008Z"
+    "added_at": "2025-04-28T17:14:16.008Z",
+    "removed_at": "2025-04-29T04:12:37.022Z",
+    "duration_minutes": 658,
+    "duration_str": "10h 58m"
   },
   {
     "title": "economie:::L’industrie microtechnique teste la flexibilité de la RHT",
@@ -1476,14 +1479,14 @@
   },
   {
     "title": "economie:::L’invisible excédent commercial américain dans le numérique",
-    "added_at": "2025-04-28T18:26:48.263Z",
-    "removed_at": "2025-04-29T03:09:20.713Z",
-    "duration_minutes": 522,
-    "duration_str": "8h 42m"
+    "added_at": "2025-04-28T18:26:48.263Z"
   },
   {
     "title": "culture:::Le week-end dernier, une compagnie genevoise d’arts urbains a fait vibrer le public parisien",
-    "added_at": "2025-04-28T19:28:10.689Z"
+    "added_at": "2025-04-28T19:28:10.689Z",
+    "removed_at": "2025-04-29T04:12:37.022Z",
+    "duration_minutes": 524,
+    "duration_str": "8h 44m"
   },
   {
     "title": "monde:::L’Espagne et le Portugal touchés par une coupure d’électricité massive: le courant revient petit à petit",
@@ -1535,5 +1538,13 @@
   {
     "title": "monde:::Le libéral Mark Carney est élu premier ministre du Canada, selon les projections",
     "added_at": "2025-04-29T03:44:43.401Z"
+  },
+  {
+    "title": "suisse:::Le Contrôle des finances estime que la stratégie fédérale sur la corruption doit être révisée et améliorée",
+    "added_at": "2025-04-29T04:12:37.022Z"
+  },
+  {
+    "title": "monde:::Le droit international menacé par les conflits et les «attaques frontales» de Donald Trump, fustige Amnesty",
+    "added_at": "2025-04-29T04:12:37.022Z"
   }
 ]
