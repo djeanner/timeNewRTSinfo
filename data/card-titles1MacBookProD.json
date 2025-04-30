@@ -2571,7 +2571,10 @@
   },
   {
     "title": "A Zurich, un centre unique en Suisse prépare les secours aux futures inondations",
-    "added_at": "2025-04-28T08:48:53.212Z"
+    "added_at": "2025-04-28T08:48:53.212Z",
+    "removed_at": "2025-04-30T02:33:52.676Z",
+    "duration_minutes": 2504,
+    "duration_str": "1d 17h 44m"
   },
   {
     "title": "Le Canada choisit le nouveau Premier ministre qui sera chargé d'affronter Donald Trump",
@@ -3052,5 +3055,9 @@
   {
     "title": "L'invité de La Matinale - André Duvillard, ancien délégué du Réseau national de sécurité",
     "added_at": "2025-04-30T01:39:58.078Z"
+  },
+  {
+    "title": "Le Pakistan dit avoir des preuves \"crédibles\" d'une frappe militaire indienne imminente",
+    "added_at": "2025-04-30T02:33:52.676Z"
   }
 ]
