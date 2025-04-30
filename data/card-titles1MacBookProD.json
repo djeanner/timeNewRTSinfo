@@ -2638,7 +2638,10 @@
   },
   {
     "title": "Vingt-cinq interpellations après les attaques de prisons en France",
-    "added_at": "2025-04-28T11:44:09.146Z"
+    "added_at": "2025-04-28T11:44:09.146Z",
+    "removed_at": "2025-04-30T06:13:21.371Z",
+    "duration_minutes": 2549,
+    "duration_str": "1d 18h 29m"
   },
   {
     "title": "L'Espagne, le Portugal et une partie de la France touchés par une coupure d'électricité massive",
@@ -3073,5 +3076,9 @@
   {
     "title": "Le casino de Saint-Moritz cesse son activité suite au retrait de sa concession",
     "added_at": "2025-04-30T05:43:35.987Z"
+  },
+  {
+    "title": "Donald Trump marque ses 100 jours sur un ton triomphaliste et agressif",
+    "added_at": "2025-04-30T06:13:21.371Z"
   }
 ]

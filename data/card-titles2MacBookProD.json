@@ -1798,10 +1798,7 @@
   },
   {
     "title": "monde:::Après la méga-coupure d’électricité, l’Espagne découvre la fragilité des énergies renouvelables",
-    "added_at": "2025-04-29T17:25:05.119Z",
-    "removed_at": "2025-04-30T04:55:15.471Z",
-    "duration_minutes": 690,
-    "duration_str": "11h 30m"
+    "added_at": "2025-04-29T17:25:05.119Z"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Antonio Guterres: «Le monde ne peut pas se permettre de regarder la solution à deux Etats disparaître»",
@@ -1812,7 +1809,10 @@
   },
   {
     "title": "sport:::«Quand on court chez soi, on est attendu au tournant»: souvenirs et rêves croisés sur le Tour de Romandie",
-    "added_at": "2025-04-29T17:54:48.233Z"
+    "added_at": "2025-04-29T17:54:48.233Z",
+    "removed_at": "2025-04-30T06:02:12.182Z",
+    "duration_minutes": 727,
+    "duration_str": "12h 7m"
   },
   {
     "title": "sport:::Samuel Watson, un maillot jaune de dernière minute après le prologue du Tour de Romandie",
@@ -1823,7 +1823,10 @@
   },
   {
     "title": "monde:::Cyril Hanouna fait son buzz sur une éventuelle candidature à la présidentielle française, avant de démentir",
-    "added_at": "2025-04-29T17:54:48.233Z"
+    "added_at": "2025-04-29T17:54:48.233Z",
+    "removed_at": "2025-04-30T06:02:12.182Z",
+    "duration_minutes": 727,
+    "duration_str": "12h 7m"
   },
   {
     "title": "suisse:::Les parlementaires privilégient la voie du dialogue avec l’administration Trump… pour le moment",
@@ -1857,7 +1860,10 @@
   },
   {
     "title": "monde:::Les libéraux de Mark Carney échouent de peu à obtenir la majorité absolue au parlement canadien",
-    "added_at": "2025-04-29T20:14:19.422Z"
+    "added_at": "2025-04-29T20:14:19.422Z",
+    "removed_at": "2025-04-30T06:09:40.706Z",
+    "duration_minutes": 595,
+    "duration_str": "9h 55m"
   },
   {
     "title": "economie:::Les montres Corum reviennent en mains neuchâteloises",
@@ -1882,5 +1888,13 @@
   {
     "title": "cyber:::L’Europe perd la guerre des puces électroniques, si importantes pour sa politique industrielle",
     "added_at": "2025-04-30T05:00:49.817Z"
+  },
+  {
+    "title": "economie:::UBS enregistre un 1er trimestre en repli et poursuit l’intégration de Credit Suisse",
+    "added_at": "2025-04-30T06:02:12.182Z"
+  },
+  {
+    "title": "suisse:::Avec les Hongrois, les Suisses se distinguent sur le conflit ukrainien",
+    "added_at": "2025-04-30T06:09:40.706Z"
   }
 ]
