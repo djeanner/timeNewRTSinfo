@@ -2588,7 +2588,10 @@
   },
   {
     "title": "Une organisation de défense animale dépose une plainte contre l'affiche de la foire agricole de Berne BEA",
-    "added_at": "2025-04-28T09:34:02.686Z"
+    "added_at": "2025-04-28T09:34:02.686Z",
+    "removed_at": "2025-04-30T09:43:38.082Z",
+    "duration_minutes": 2889,
+    "duration_str": "2d 9m"
   },
   {
     "title": "Une explosion dans un port en Iran fait au moins 28 morts et 1000 blessés",
@@ -2736,7 +2739,10 @@
   },
   {
     "title": "L'affaire Gurlitt, et l'art dans tout ça?",
-    "added_at": "2025-04-28T15:15:13.322Z"
+    "added_at": "2025-04-28T15:15:13.322Z",
+    "removed_at": "2025-04-30T09:49:12.769Z",
+    "duration_minutes": 2553,
+    "duration_str": "1d 18h 33m"
   },
   {
     "title": "\"J'ai réalisé que tuer n'aidait pas à résoudre le conflit\" en Ukraine",
@@ -3082,10 +3088,7 @@
   },
   {
     "title": "La communauté universitaire se mobilise contre le projet d'économies dans la recherche proposé par la Confédération",
-    "added_at": "2025-04-29T23:40:54.081Z",
-    "removed_at": "2025-04-30T00:44:09.811Z",
-    "duration_minutes": 63,
-    "duration_str": "1h 3m"
+    "added_at": "2025-04-29T23:40:54.081Z"
   },
   {
     "title": "Coupure de courant en Espagne et au Portugal: interview de Claude Cornaz, fondateur de SwissElectricity",
@@ -3120,7 +3123,10 @@
   },
   {
     "title": "Le rassemblement romand patriote dans la tourmente",
-    "added_at": "2025-04-30T06:41:14.950Z"
+    "added_at": "2025-04-30T06:41:14.950Z",
+    "removed_at": "2025-04-30T09:41:49.786Z",
+    "duration_minutes": 180,
+    "duration_str": "3h"
   },
   {
     "title": "\"L'espoir doit revenir pour mes enfants\": un Palestinien retrouve sa famille évacuée de Gaza après 18 mois",
@@ -3164,5 +3170,13 @@
   {
     "title": "Les \"prisonniers fantômes\" de la Russie: l'enquête qui a coûté la vie à Viktoriia Roschyna",
     "added_at": "2025-04-30T09:30:39.113Z"
+  },
+  {
+    "title": "Des ″indices″ de vie extraterrestre sur une exoplanète: le point de vue de Didier Queloz",
+    "added_at": "2025-04-30T09:41:49.786Z"
+  },
+  {
+    "title": "Les sociaux-démocrates allemands approuvent un gouvernement de coalition avec les conservateurs",
+    "added_at": "2025-04-30T09:49:12.769Z"
   }
 ]
