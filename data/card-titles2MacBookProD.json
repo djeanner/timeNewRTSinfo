@@ -2005,7 +2005,10 @@
   },
   {
     "title": "suisse:::Paquet avec l’Europe: le Conseil fédéral ne veut pas de la double majorité",
-    "added_at": "2025-04-30T12:01:22.132Z"
+    "added_at": "2025-04-30T12:01:22.132Z",
+    "removed_at": "2025-04-30T16:21:50.650Z",
+    "duration_minutes": 260,
+    "duration_str": "4h 20m"
   },
   {
     "title": "sciences:::Quand la science nous offre une recette infaillible de pâtes «cacio e pepe»",
@@ -2049,7 +2052,10 @@
   },
   {
     "title": "economie:::La Chine ressent déjà les effets de la guerre commerciale",
-    "added_at": "2025-04-30T13:38:02.042Z"
+    "added_at": "2025-04-30T13:38:02.042Z",
+    "removed_at": "2025-04-30T16:34:53.938Z",
+    "duration_minutes": 176,
+    "duration_str": "2h 56m"
   },
   {
     "title": "economie:::Recul surprise du PIB des Etats-Unis au premier trimestre du mandat de Donald Trump",
@@ -2095,5 +2101,9 @@
   {
     "title": "monde:::Confrontée à une crise financière, l’ONU Genève se voit contrainte de délocaliser des emplois",
     "added_at": "2025-04-30T16:14:22.528Z"
+  },
+  {
+    "title": "suisse:::Paquet européen: le Conseil fédéral ne veut pas de la double majorité",
+    "added_at": "2025-04-30T16:21:50.650Z"
   }
 ]
