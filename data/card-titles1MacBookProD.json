@@ -2863,7 +2863,10 @@
   },
   {
     "title": "Le Valais a tenu ses premiers Etats généraux de la viticulture",
-    "added_at": "2025-04-29T05:26:54.838Z"
+    "added_at": "2025-04-29T05:26:54.838Z",
+    "removed_at": "2025-04-30T18:50:41.973Z",
+    "duration_minutes": 2243,
+    "duration_str": "1d 13h 23m"
   },
   {
     "title": "Les échanges de tirs entre soldats indiens et pakistanais se poursuivent au Cachemire",
@@ -3290,5 +3293,9 @@
   {
     "title": "Gaza: Amnesty International dénonce \"un génocide en direct\" commis par Israël",
     "added_at": "2025-04-30T16:44:10.336Z"
+  },
+  {
+    "title": "Lausanne teste le report de 30 minutes du début des cours en secondaire",
+    "added_at": "2025-04-30T18:50:41.973Z"
   }
 ]
