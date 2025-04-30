@@ -2913,7 +2913,10 @@
   },
   {
     "title": "La France accueille 115 Gazaouis",
-    "added_at": "2025-04-29T08:40:22.916Z"
+    "added_at": "2025-04-29T08:40:22.916Z",
+    "removed_at": "2025-04-30T16:44:10.336Z",
+    "duration_minutes": 1923,
+    "duration_str": "1d 8h 3m"
   },
   {
     "title": "Succession du pape François: le  conclave débutera le 7 mai prochain au Vatican",
@@ -3280,5 +3283,9 @@
   {
     "title": "Portés une seule fois, devenus maudits ou choix symboliques: la petite histoire des noms de règne des papes",
     "added_at": "2025-04-30T15:55:50.135Z"
+  },
+  {
+    "title": "Gaza: Amnesty International dénonce \"un génocide en direct\" commis par Israël",
+    "added_at": "2025-04-30T16:44:10.336Z"
   }
 ]
