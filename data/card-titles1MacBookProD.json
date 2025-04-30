@@ -2584,7 +2584,10 @@
   },
   {
     "title": "Le Canada choisit le nouveau Premier ministre qui sera chargé d'affronter Donald Trump",
-    "added_at": "2025-04-28T09:30:28.800Z"
+    "added_at": "2025-04-28T09:30:28.800Z",
+    "removed_at": "2025-04-30T10:37:39.245Z",
+    "duration_minutes": 2947,
+    "duration_str": "2d 1h 7m"
   },
   {
     "title": "Une organisation de défense animale dépose une plainte contre l'affiche de la foire agricole de Berne BEA",
@@ -3091,7 +3094,10 @@
   },
   {
     "title": "La communauté universitaire se mobilise contre le projet d'économies dans la recherche proposé par la Confédération",
-    "added_at": "2025-04-29T23:40:54.081Z"
+    "added_at": "2025-04-29T23:40:54.081Z",
+    "removed_at": "2025-04-30T10:41:19.677Z",
+    "duration_minutes": 660,
+    "duration_str": "11h"
   },
   {
     "title": "Coupure de courant en Espagne et au Portugal: interview de Claude Cornaz, fondateur de SwissElectricity",
@@ -3185,5 +3191,20 @@
   {
     "title": "Des réservistes et vétérans israéliens réclament l'arrêt des hostilités dans la bande de Gaza",
     "added_at": "2025-04-30T10:13:25.346Z"
+  },
+  {
+    "title": "Swissgrid investira près de 5,5 milliards dans le réseau d'ici 2040",
+    "added_at": "2025-04-30T10:37:39.245Z",
+    "removed_at": "2025-04-30T10:39:27.608Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Swissgrid investira près de 5,5 milliards dans le réseau électrique d'ici 2040",
+    "added_at": "2025-04-30T10:39:27.608Z"
+  },
+  {
+    "title": "Coupure de courant dans toute l'Espagne: retour sur la réponse de l'Union européenne",
+    "added_at": "2025-04-30T10:41:19.677Z"
   }
 ]
