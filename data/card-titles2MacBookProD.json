@@ -1804,7 +1804,10 @@
   },
   {
     "title": "monde:::Après la méga-coupure d’électricité, l’Espagne découvre la fragilité des énergies renouvelables",
-    "added_at": "2025-04-29T17:25:05.119Z"
+    "added_at": "2025-04-29T17:25:05.119Z",
+    "removed_at": "2025-04-30T10:28:16.856Z",
+    "duration_minutes": 1023,
+    "duration_str": "17h 3m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Antonio Guterres: «Le monde ne peut pas se permettre de regarder la solution à deux Etats disparaître»",
@@ -1935,5 +1938,9 @@
   {
     "title": "sciences:::En graphiques – Aux Etats-Unis, la fuite des cerveaux a bel et bien commencé",
     "added_at": "2025-04-30T09:30:38.435Z"
+  },
+  {
+    "title": "sciences:::Quand la science nous offre une recette infaillible de pâtes cacio e pepe",
+    "added_at": "2025-04-30T10:28:16.856Z"
   }
 ]

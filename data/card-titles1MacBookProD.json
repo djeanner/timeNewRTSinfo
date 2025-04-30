@@ -2717,7 +2717,10 @@
   },
   {
     "title": "L'été 2024, le plus chaud qu'a connu la Laponie en 2000 ans",
-    "added_at": "2025-04-28T14:36:10.386Z"
+    "added_at": "2025-04-28T14:36:10.386Z",
+    "removed_at": "2025-04-30T10:13:25.346Z",
+    "duration_minutes": 2617,
+    "duration_str": "1d 19h 37m"
   },
   {
     "title": "Des raves à la boulangerie, du speed dating en rando et une centrale solaire sur rails",
@@ -3178,5 +3181,9 @@
   {
     "title": "Les sociaux-démocrates allemands approuvent un gouvernement de coalition avec les conservateurs",
     "added_at": "2025-04-30T09:49:12.769Z"
+  },
+  {
+    "title": "Des réservistes et vétérans israéliens réclament l'arrêt des hostilités dans la bande de Gaza",
+    "added_at": "2025-04-30T10:13:25.346Z"
   }
 ]
