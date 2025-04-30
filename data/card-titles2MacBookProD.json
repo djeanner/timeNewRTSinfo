@@ -1790,7 +1790,10 @@
   },
   {
     "title": "economie:::Durant ses 100 premiers jours, Donald Trump a pris les investisseurs à revers",
-    "added_at": "2025-04-29T17:08:20.121Z"
+    "added_at": "2025-04-29T17:08:20.121Z",
+    "removed_at": "2025-04-30T09:30:38.435Z",
+    "duration_minutes": 982,
+    "duration_str": "16h 22m"
   },
   {
     "title": "economie:::Amazon n’affichera pas le coût des droits de douane américains sur certains produits",
@@ -1880,7 +1883,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis ont frappé plus de 1000 cibles au Yémen depuis mi-mars",
-    "added_at": "2025-04-30T02:46:54.008Z"
+    "added_at": "2025-04-30T02:46:54.008Z",
+    "removed_at": "2025-04-30T09:25:03.578Z",
+    "duration_minutes": 398,
+    "duration_str": "6h 38m"
   },
   {
     "title": "monde:::Un électeur de Donald Trump: «Je n’ai pas voté pour l’annexion du Groenland ou du Panama»",
@@ -1921,5 +1927,13 @@
   {
     "title": "suisse:::L’Eurovision sera plus stricte concernant les drapeaux montrés sur scène",
     "added_at": "2025-04-30T08:42:12.449Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le Hamas sera interdit en Suisse dès le 15 mai",
+    "added_at": "2025-04-30T09:25:03.578Z"
+  },
+  {
+    "title": "sciences:::En graphiques – Aux Etats-Unis, la fuite des cerveaux a bel et bien commencé",
+    "added_at": "2025-04-30T09:30:38.435Z"
   }
 ]
