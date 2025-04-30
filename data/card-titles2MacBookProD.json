@@ -1998,7 +1998,10 @@
   },
   {
     "title": "economie:::Le PIB des Etats-Unis s’est contracté de 0,3% au premier trimestre",
-    "added_at": "2025-04-30T12:55:15.420Z"
+    "added_at": "2025-04-30T12:55:15.420Z",
+    "removed_at": "2025-04-30T13:39:54.388Z",
+    "duration_minutes": 44,
+    "duration_str": "44m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L'Ukraine s'attend à signer  l'accord sur les minerais avec Washington ce mercredi",
@@ -2010,7 +2013,10 @@
   },
   {
     "title": "monde:::Sur la corde raide, Friedrich Merz pourra néanmoins être chancelier d’Allemagne",
-    "added_at": "2025-04-30T13:25:04.047Z"
+    "added_at": "2025-04-30T13:25:04.047Z",
+    "removed_at": "2025-04-30T13:38:02.042Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
   },
   {
     "title": "monde:::50 ans après la chute de Saïgon: «Aujourd’hui, la guerre du Vietnam n’est plus présente dans l’esprit des Américains»",
@@ -2019,5 +2025,20 @@
   {
     "title": "monde:::Au Vietnam, la parade géante pour les 50 ans de la chute de Saïgon s’est élancée",
     "added_at": "2025-04-30T13:26:52.131Z"
+  },
+  {
+    "title": "economie:::La Chine ressent déjà les effets de la guerre commerciale",
+    "added_at": "2025-04-30T13:38:02.042Z"
+  },
+  {
+    "title": "economie:::Recul surprise du PIB des Etats-Unis au premier trimestre du mandat de Donald Trump",
+    "added_at": "2025-04-30T13:39:54.388Z",
+    "removed_at": "2025-04-30T13:41:48.448Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "economie:::Recul surprise du PIB des Etats-Unis au premier trimestre",
+    "added_at": "2025-04-30T13:41:48.448Z"
   }
 ]
