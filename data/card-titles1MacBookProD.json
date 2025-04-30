@@ -2804,7 +2804,10 @@
   },
   {
     "title": "Toute l'Espagne et le Portugal sont touchés par une vaste coupure d'électricité",
-    "added_at": "2025-04-28T16:37:00.053Z"
+    "added_at": "2025-04-28T16:37:00.053Z",
+    "removed_at": "2025-04-30T23:45:10.795Z",
+    "duration_minutes": 3308,
+    "duration_str": "2d 7h 8m"
   },
   {
     "title": "Le courant progressivement rétabli en Espagne et au Portugal après la coupure d'électricité qui a touché la péninsule ibérique",
@@ -3109,10 +3112,7 @@
   },
   {
     "title": "Le Parti libéral de Mark Carney a remporté cette nuit les élections fédérales canadiennes",
-    "added_at": "2025-04-29T19:40:51.547Z",
-    "removed_at": "2025-04-30T19:44:45.999Z",
-    "duration_minutes": 1443,
-    "duration_str": "1d 3m"
+    "added_at": "2025-04-29T19:40:51.547Z"
   },
   {
     "title": "Des indices de vie sur une exoplanète? Controverse autour des résultats du télescope James Webb",
