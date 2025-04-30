@@ -1542,10 +1542,7 @@
   },
   {
     "title": "sciences:::Trop utilisée, l’imagerie médicale coûte plus de 2 milliards au système de santé suisse",
-    "added_at": "2025-04-28T21:04:54.508Z",
-    "removed_at": "2025-04-29T15:50:13.461Z",
-    "duration_minutes": 1125,
-    "duration_str": "18h 45m"
+    "added_at": "2025-04-28T21:04:54.508Z"
   },
   {
     "title": "monde:::Panne d’électricité géante: près de 50% de l’approvisionnement électrique est rétabli côté espagnol",
@@ -2109,7 +2106,10 @@
   },
   {
     "title": "monde:::Confrontée à une crise financière, l’ONU Genève se voit contrainte de délocaliser des emplois",
-    "added_at": "2025-04-30T16:14:22.528Z"
+    "added_at": "2025-04-30T16:14:22.528Z",
+    "removed_at": "2025-04-30T18:58:09.383Z",
+    "duration_minutes": 163,
+    "duration_str": "2h 43m"
   },
   {
     "title": "suisse:::Paquet européen: le Conseil fédéral ne veut pas de la double majorité",
@@ -2125,10 +2125,17 @@
   },
   {
     "title": "culture:::Nathalie Muller Mirza dévoile les secrets de la cathédrale Saint-Pierre de Genève",
-    "added_at": "2025-04-30T18:37:43.695Z"
+    "added_at": "2025-04-30T18:37:43.695Z",
+    "removed_at": "2025-04-30T19:00:03.527Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
   },
   {
     "title": "monde:::Charles III évoque son cancer, un peu plus d’un an après un diagnostic «effrayant»",
     "added_at": "2025-04-30T18:41:23.964Z"
+  },
+  {
+    "title": "sciences:::Coup de chaud sur la Suisse: Faut-il encore craindre les saints de glace?",
+    "added_at": "2025-04-30T19:00:03.527Z"
   }
 ]
