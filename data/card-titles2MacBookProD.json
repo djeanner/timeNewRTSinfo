@@ -1771,7 +1771,10 @@
   },
   {
     "title": "suisse:::A Genève, le personnel de nettoyage de l’hôpital obtient des contrats à plein temps après des années de revendication",
-    "added_at": "2025-04-29T15:42:43.519Z"
+    "added_at": "2025-04-29T15:42:43.519Z",
+    "removed_at": "2025-04-30T15:05:34.678Z",
+    "duration_minutes": 1402,
+    "duration_str": "23h 22m"
   },
   {
     "title": "suisse:::Initiative sur le foie gras: restreindre l’importation plutôt que l’interdire? Débat sur un contre-projet indirect",
@@ -2068,5 +2071,9 @@
   {
     "title": "economie:::L’économie américaine s’est contractée au premier trimestre",
     "added_at": "2025-04-30T14:35:42.810Z"
+  },
+  {
+    "title": "suisse:::Le Conseil d’Etat vaudois épinglé par un rapport de la Commission de gestion pour son manque de transparence",
+    "added_at": "2025-04-30T15:03:40.584Z"
   }
 ]
