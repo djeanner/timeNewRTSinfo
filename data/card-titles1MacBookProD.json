@@ -2648,7 +2648,10 @@
   },
   {
     "title": "Vladimir Poutine annonce une trêve de trois jours en Ukraine du 8 au 10 mai",
-    "added_at": "2025-04-28T11:38:34.810Z"
+    "added_at": "2025-04-28T11:38:34.810Z",
+    "removed_at": "2025-04-30T10:59:58.700Z",
+    "duration_minutes": 2841,
+    "duration_str": "1d 23h 21m"
   },
   {
     "title": "Toute l'Espagne et le Portugal touchés par une coupure d'électricité massive",
@@ -3206,5 +3209,9 @@
   {
     "title": "Coupure de courant dans toute l'Espagne: retour sur la réponse de l'Union européenne",
     "added_at": "2025-04-30T10:41:19.677Z"
+  },
+  {
+    "title": "Une parade géante au Vietnam pour les 50 ans de la chute de Saïgon",
+    "added_at": "2025-04-30T10:59:58.700Z"
   }
 ]
