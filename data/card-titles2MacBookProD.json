@@ -2132,7 +2132,10 @@
   },
   {
     "title": "suisse:::Les tarifs médicaux de la discorde sont enfin validés",
-    "added_at": "2025-04-30T17:06:29.430Z"
+    "added_at": "2025-04-30T17:06:29.430Z",
+    "removed_at": "2025-05-01T07:15:29.238Z",
+    "duration_minutes": 848,
+    "duration_str": "14h 8m"
   },
   {
     "title": "culture:::«Thunderbolts*», l’avenir est aux marginaux",
@@ -2222,5 +2225,9 @@
   {
     "title": "monde:::De gros incendies de forêt menacent Jérusalem",
     "added_at": "2025-05-01T06:53:09.391Z"
+  },
+  {
+    "title": "sport:::Jorgen Nordhagen, promis à remporter le Tour de France, aime surtout «ne rien faire»",
+    "added_at": "2025-05-01T07:15:29.238Z"
   }
 ]
