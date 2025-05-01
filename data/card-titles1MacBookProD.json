@@ -3064,7 +3064,10 @@
   },
   {
     "title": "Plus inclusif, le Bonhomme hiver de la Sechseläuten annonce un été maussade",
-    "added_at": "2025-04-29T15:39:03.808Z"
+    "added_at": "2025-04-29T15:39:03.808Z",
+    "removed_at": "2025-05-01T01:46:10.265Z",
+    "duration_minutes": 2047,
+    "duration_str": "1d 10h 7m"
   },
   {
     "title": "Coupure de courant totale en Espagne: le point de situation",
@@ -3377,5 +3380,9 @@
   {
     "title": "Les Etats-Unis et l'Ukraine signent un accord sur les minerais",
     "added_at": "2025-05-01T00:31:40.083Z"
+  },
+  {
+    "title": "Des militaires israéliens exigent l'arrêt de la guerre à Gaza",
+    "added_at": "2025-05-01T01:46:10.265Z"
   }
 ]
