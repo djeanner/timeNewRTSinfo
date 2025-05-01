@@ -2294,7 +2294,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Un influent chef druze s’en prend au pouvoir syrien et dénonce des «massacres»",
-    "added_at": "2025-05-01T12:29:57.993Z"
+    "added_at": "2025-05-01T12:29:57.993Z",
+    "removed_at": "2025-05-01T16:09:35.064Z",
+    "duration_minutes": 219,
+    "duration_str": "3h 39m"
   },
   {
     "title": "culture:::A Genève, le festival Electron met le son en orbite",
@@ -2309,7 +2312,10 @@
   },
   {
     "title": "suisse:::La Chancellerie fédérale dépose une quatrième plainte pénale pour fausses signatures",
-    "added_at": "2025-05-01T14:29:08.408Z"
+    "added_at": "2025-05-01T14:29:08.408Z",
+    "removed_at": "2025-05-01T16:13:17.445Z",
+    "duration_minutes": 104,
+    "duration_str": "1h 44m"
   },
   {
     "title": "monde:::Un 1er Mai politique de transition pour les oppositions françaises",
@@ -2337,5 +2343,13 @@
   {
     "title": "economie:::Trois jours après le black-out en Espagne, les milieux énergétiques se perdent en conjectures",
     "added_at": "2025-05-01T15:49:09.334Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le bilan des heurts en Syrie s'élève à plus de 100 morts en deux jours",
+    "added_at": "2025-05-01T16:09:35.064Z"
+  },
+  {
+    "title": "sport:::Lorenzo Fortunato remporte la deuxième étape du Tour de Romandie",
+    "added_at": "2025-05-01T16:13:17.445Z"
   }
 ]
