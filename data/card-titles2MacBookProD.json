@@ -2230,7 +2230,10 @@
   },
   {
     "title": "monde:::De gros incendies de forêt menacent Jérusalem",
-    "added_at": "2025-05-01T06:53:09.391Z"
+    "added_at": "2025-05-01T06:53:09.391Z",
+    "removed_at": "2025-05-01T10:06:36.701Z",
+    "duration_minutes": 193,
+    "duration_str": "3h 13m"
   },
   {
     "title": "sport:::Jorgen Nordhagen, promis à remporter le Tour de France, aime surtout «ne rien faire»",
@@ -2239,5 +2242,9 @@
   {
     "title": "monde:::En direct – Donald Trump «voulait être protégé» par l’accord sur les minerais avec l’Ukraine",
     "added_at": "2025-05-01T08:28:00.591Z"
+  },
+  {
+    "title": "monde:::«L’attitude internationale face à la guerre en RDC révolte les Congolais autant que la guerre elle-même»",
+    "added_at": "2025-05-01T10:06:36.701Z"
   }
 ]
