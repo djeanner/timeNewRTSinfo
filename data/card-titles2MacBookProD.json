@@ -1816,10 +1816,7 @@
   },
   {
     "title": "monde:::Après la méga-coupure d’électricité, l’Espagne découvre la fragilité des énergies renouvelables",
-    "added_at": "2025-04-29T17:25:05.119Z",
-    "removed_at": "2025-04-30T10:28:16.856Z",
-    "duration_minutes": 1023,
-    "duration_str": "17h 3m"
+    "added_at": "2025-04-29T17:25:05.119Z"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Antonio Guterres: «Le monde ne peut pas se permettre de regarder la solution à deux Etats disparaître»",
@@ -2097,7 +2094,10 @@
   },
   {
     "title": "monde:::Cinquante ans après la chute de Saigon: «Aujourd’hui, la guerre du Vietnam n’est plus présente dans l’esprit des Américains»",
-    "added_at": "2025-04-30T14:04:07.576Z"
+    "added_at": "2025-04-30T14:04:07.576Z",
+    "removed_at": "2025-05-01T15:49:09.334Z",
+    "duration_minutes": 1545,
+    "duration_str": "1d 1h 45m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël se dit prêt à frapper des objectifs du pouvoir syrien si les Druzes sont menacés",
@@ -2215,7 +2215,10 @@
   },
   {
     "title": "suisse:::1er Mai - Les syndicats appellent à la solidarité contre l’extrême-droite",
-    "added_at": "2025-05-01T05:18:19.672Z"
+    "added_at": "2025-05-01T05:18:19.672Z",
+    "removed_at": "2025-05-01T15:49:09.334Z",
+    "duration_minutes": 630,
+    "duration_str": "10h 30m"
   },
   {
     "title": "suisse:::Entre Davos et son Forum, une longue histoire d’amour-haine",
@@ -2330,5 +2333,9 @@
   {
     "title": "monde:::Entre l’Ukraine et les Etats-Unis, un accord qui permet avant tout de limiter la casse",
     "added_at": "2025-05-01T15:32:25.241Z"
+  },
+  {
+    "title": "economie:::Trois jours après le black-out en Espagne, les milieux énergétiques se perdent en conjectures",
+    "added_at": "2025-05-01T15:49:09.334Z"
   }
 ]
