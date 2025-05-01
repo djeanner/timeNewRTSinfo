@@ -520,7 +520,10 @@
   },
   {
     "title": "monde:::Face au déficit budgétaire, l’OMS vers un fonctionnement plus «condensé et rationnel»",
-    "added_at": "2025-04-24T17:38:47.161Z"
+    "added_at": "2025-04-24T17:38:47.161Z",
+    "removed_at": "2025-05-01T14:29:08.408Z",
+    "duration_minutes": 9890,
+    "duration_str": "6d 20h 50m"
   },
   {
     "title": "monde:::Rome, ville sainte et blindée pour les obsèques du pape François",
@@ -2130,7 +2133,10 @@
   },
   {
     "title": "monde:::Confrontée à une crise financière, l’ONU Genève se voit contrainte de délocaliser des emplois",
-    "added_at": "2025-04-30T16:14:22.528Z"
+    "added_at": "2025-04-30T16:14:22.528Z",
+    "removed_at": "2025-05-01T14:29:08.408Z",
+    "duration_minutes": 1334,
+    "duration_str": "22h 14m"
   },
   {
     "title": "suisse:::Paquet européen: le Conseil fédéral ne veut pas de la double majorité",
@@ -2209,10 +2215,7 @@
   },
   {
     "title": "suisse:::1er Mai - Les syndicats appellent à la solidarité contre l’extrême-droite",
-    "added_at": "2025-05-01T05:18:19.672Z",
-    "removed_at": "2025-05-01T13:03:26.706Z",
-    "duration_minutes": 465,
-    "duration_str": "7h 45m"
+    "added_at": "2025-05-01T05:18:19.672Z"
   },
   {
     "title": "suisse:::Entre Davos et son Forum, une longue histoire d’amour-haine",
@@ -2255,7 +2258,10 @@
   },
   {
     "title": "sport:::Jorgen Nordhagen, promis à remporter le Tour de France, aime surtout «ne rien faire»",
-    "added_at": "2025-05-01T07:15:29.238Z"
+    "added_at": "2025-05-01T07:15:29.238Z",
+    "removed_at": "2025-05-01T14:29:08.408Z",
+    "duration_minutes": 433,
+    "duration_str": "7h 13m"
   },
   {
     "title": "monde:::En direct – Donald Trump «voulait être protégé» par l’accord sur les minerais avec l’Ukraine",
@@ -2266,7 +2272,10 @@
   },
   {
     "title": "monde:::«L’attitude internationale face à la guerre en RDC révolte les Congolais autant que la guerre elle-même»",
-    "added_at": "2025-05-01T10:06:36.701Z"
+    "added_at": "2025-05-01T10:06:36.701Z",
+    "removed_at": "2025-05-01T14:29:08.408Z",
+    "duration_minutes": 262,
+    "duration_str": "4h 22m"
   },
   {
     "title": "monde:::Coupes budgétaires dictées par Donald Trump: un trou de 100 millions pour les ONG suisses",
@@ -2287,5 +2296,13 @@
   {
     "title": "culture:::A Genève, le festival Electron met le son en orbite",
     "added_at": "2025-05-01T12:39:20.009Z"
+  },
+  {
+    "title": "monde:::Un 1er mai politique de transition pour les oppositions françaises",
+    "added_at": "2025-05-01T14:29:08.408Z"
+  },
+  {
+    "title": "suisse:::La Chancellerie fédérale dépose une quatrième plainte pénale pour fausses signatures",
+    "added_at": "2025-05-01T14:29:08.408Z"
   }
 ]

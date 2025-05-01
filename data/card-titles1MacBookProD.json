@@ -2969,7 +2969,10 @@
   },
   {
     "title": "André Duvillard: \"Ce qui s'est passé en Espagne et au Portugal devrait servir de piqûre de rappel\"",
-    "added_at": "2025-04-29T09:21:13.935Z"
+    "added_at": "2025-04-29T09:21:13.935Z",
+    "removed_at": "2025-05-01T14:31:03.169Z",
+    "duration_minutes": 3189,
+    "duration_str": "2d 5h 9m"
   },
   {
     "title": "Les Suisses boivent moins de vin et tournent le dos aux crus locaux",
@@ -3165,7 +3168,10 @@
   },
   {
     "title": "Les deux Bâles n'auront pas de second siège au Conseil des Etats, tranche une commission",
-    "added_at": "2025-04-29T19:26:00.126Z"
+    "added_at": "2025-04-29T19:26:00.126Z",
+    "removed_at": "2025-05-01T14:29:08.827Z",
+    "duration_minutes": 2583,
+    "duration_str": "1d 19h 3m"
   },
   {
     "title": "Un nouveau satellite placé en orbite pour cartographier la biomasse terrestre",
@@ -3243,7 +3249,10 @@
   },
   {
     "title": "L'invité de La Matinale - André Duvillard, ancien délégué du Réseau national de sécurité",
-    "added_at": "2025-04-30T01:39:58.078Z"
+    "added_at": "2025-04-30T01:39:58.078Z",
+    "removed_at": "2025-05-01T14:31:03.169Z",
+    "duration_minutes": 2211,
+    "duration_str": "1d 12h 51m"
   },
   {
     "title": "Le Pakistan dit avoir des preuves \"crédibles\" d'une frappe militaire indienne imminente",
@@ -3464,10 +3473,7 @@
   },
   {
     "title": "Des militaires israéliens exigent l'arrêt de la guerre à Gaza",
-    "added_at": "2025-05-01T01:46:10.265Z",
-    "removed_at": "2025-05-01T08:48:26.850Z",
-    "duration_minutes": 422,
-    "duration_str": "7h 2m"
+    "added_at": "2025-05-01T01:46:10.265Z"
   },
   {
     "title": "Washington et Kiev signent un vaste partenariat pour l'accès aux ressources ukrainiennes",
@@ -3601,5 +3607,9 @@
   {
     "title": "La ville de Bâle, une métropole prisée pour le graffiti depuis les années 1980",
     "added_at": "2025-05-01T14:25:27.626Z"
+  },
+  {
+    "title": "La Chancellerie fédérale dépose une quatrième plainte pénale pour fausses signatures",
+    "added_at": "2025-05-01T14:29:08.827Z"
   }
 ]
