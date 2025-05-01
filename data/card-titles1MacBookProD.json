@@ -3302,7 +3302,10 @@
   },
   {
     "title": "Le casino de Saint-Moritz cesse son activité à la suite du retrait de sa concession",
-    "added_at": "2025-04-30T06:39:22.655Z"
+    "added_at": "2025-04-30T06:39:22.655Z",
+    "removed_at": "2025-05-01T21:05:38.642Z",
+    "duration_minutes": 2306,
+    "duration_str": "1d 14h 26m"
   },
   {
     "title": "Le rassemblement romand patriote dans la tourmente",
@@ -3738,5 +3741,9 @@
   {
     "title": "La Suisse autorise l'importation de 158 millions d'oufs supplémentaires à droits de douanes réduits",
     "added_at": "2025-05-01T20:32:06.799Z"
+  },
+  {
+    "title": "L’accès limité des élus aux accords Suisse–UE fait débat au Palais fédéral",
+    "added_at": "2025-05-01T21:05:38.642Z"
   }
 ]
