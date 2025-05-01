@@ -3088,7 +3088,10 @@
   },
   {
     "title": "Erreur humaine ou problème technique, l'origine de la panne électrique en Espagne et au Portugal toujours pas identifiée",
-    "added_at": "2025-04-29T14:32:07.168Z"
+    "added_at": "2025-04-29T14:32:07.168Z",
+    "removed_at": "2025-05-01T22:33:08.911Z",
+    "duration_minutes": 3361,
+    "duration_str": "2d 8h 1m"
   },
   {
     "title": "En Suisse aussi des parlementaires critiquent un état peu efficace et avec trop de personnel",
@@ -3254,11 +3257,17 @@
   },
   {
     "title": "Les salles d'escalade sont saturées de substances toxiques",
-    "added_at": "2025-04-29T21:39:56.425Z"
+    "added_at": "2025-04-29T21:39:56.425Z",
+    "removed_at": "2025-05-01T22:33:08.911Z",
+    "duration_minutes": 2933,
+    "duration_str": "2d 53m"
   },
   {
     "title": "Selon une analyse de la BNS, le patrimoine des ménages suisses a augmenté de 3,8% en 2024",
-    "added_at": "2025-04-29T22:39:30.148Z"
+    "added_at": "2025-04-29T22:39:30.148Z",
+    "removed_at": "2025-05-01T22:33:08.911Z",
+    "duration_minutes": 2873,
+    "duration_str": "1d 23h 53m"
   },
   {
     "title": "La communauté universitaire se mobilise contre le projet d'économies dans la recherche proposé par la Confédération",
@@ -3439,7 +3448,10 @@
   },
   {
     "title": "Gaza: Amnesty International dénonce \"un génocide en direct\" commis par Israël",
-    "added_at": "2025-04-30T16:44:10.336Z"
+    "added_at": "2025-04-30T16:44:10.336Z",
+    "removed_at": "2025-05-01T22:33:08.911Z",
+    "duration_minutes": 1788,
+    "duration_str": "1d 5h 48m"
   },
   {
     "title": "Lausanne teste le report de 30 minutes du début des cours en secondaire",
@@ -3506,10 +3518,7 @@
   },
   {
     "title": "Des militaires israéliens exigent l'arrêt de la guerre à Gaza",
-    "added_at": "2025-05-01T01:46:10.265Z",
-    "removed_at": "2025-05-01T20:32:06.799Z",
-    "duration_minutes": 1125,
-    "duration_str": "18h 45m"
+    "added_at": "2025-05-01T01:46:10.265Z"
   },
   {
     "title": "Washington et Kiev signent un vaste partenariat pour l'accès aux ressources ukrainiennes",
@@ -3745,5 +3754,9 @@
   {
     "title": "L’accès limité des élus aux accords Suisse–UE fait débat au Palais fédéral",
     "added_at": "2025-05-01T21:05:38.642Z"
+  },
+  {
+    "title": "Europe, le choc Trump: interview de Melissa Bell",
+    "added_at": "2025-05-01T22:33:08.911Z"
   }
 ]
