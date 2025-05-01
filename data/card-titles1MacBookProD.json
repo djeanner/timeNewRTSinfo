@@ -3231,7 +3231,10 @@
   },
   {
     "title": "Le PSG prend l'avantage à Londres",
-    "added_at": "2025-04-29T21:02:46.415Z"
+    "added_at": "2025-04-29T21:02:46.415Z",
+    "removed_at": "2025-05-01T17:03:34.475Z",
+    "duration_minutes": 2640,
+    "duration_str": "1d 20h"
   },
   {
     "title": "Le fisc vaudois n'a pas suffisamment taxé de riches contribuables pendant 13 ans",
@@ -3658,5 +3661,23 @@
   {
     "title": "Lorenzo Fortunato s'impose à la Grande Béroche",
     "added_at": "2025-05-01T16:24:26.657Z"
+  },
+  {
+    "title": "La Confédération abandonne la coordination nationale des aires pour gens du voyage",
+    "added_at": "2025-05-01T17:03:34.475Z",
+    "removed_at": "2025-05-01T17:09:09.197Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "La Confédération abandonne son projet de coordination nationale des aires pour gens du voyage",
+    "added_at": "2025-05-01T17:09:09.197Z",
+    "removed_at": "2025-05-01T17:12:55.575Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "La Confédération abandonne son projet de coordination nationale des aires pour gens du voyage étrangers",
+    "added_at": "2025-05-01T17:12:55.575Z"
   }
 ]
