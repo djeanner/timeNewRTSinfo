@@ -1542,7 +1542,10 @@
   },
   {
     "title": "sciences:::Trop utilisée, l’imagerie médicale coûte plus de 2 milliards au système de santé suisse",
-    "added_at": "2025-04-28T21:04:54.508Z"
+    "added_at": "2025-04-28T21:04:54.508Z",
+    "removed_at": "2025-05-01T04:28:04.797Z",
+    "duration_minutes": 3323,
+    "duration_str": "2d 7h 23m"
   },
   {
     "title": "monde:::Panne d’électricité géante: près de 50% de l’approvisionnement électrique est rétabli côté espagnol",
@@ -2165,5 +2168,9 @@
   {
     "title": "suisse:::Les Genevois appelés à abolir une fiscalité communale unique en Suisse",
     "added_at": "2025-05-01T04:14:59.698Z"
+  },
+  {
+    "title": "monde:::A défaut de garanties de sécurité et d’aide militaire, l’Ukraine obtient de Donald Trump des investissements",
+    "added_at": "2025-05-01T04:28:04.797Z"
   }
 ]
