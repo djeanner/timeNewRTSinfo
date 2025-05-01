@@ -3056,7 +3056,10 @@
   },
   {
     "title": "L'américain UPS va supprimer 20'000 postes dans le monde",
-    "added_at": "2025-04-29T14:13:28.128Z"
+    "added_at": "2025-04-29T14:13:28.128Z",
+    "removed_at": "2025-05-01T11:11:50.765Z",
+    "duration_minutes": 2698,
+    "duration_str": "1d 20h 58m"
   },
   {
     "title": "L'électricité rétablie dans la quasi-intégralité en Espagne et au Portugal, la piste d'une cyberattaque écartée",
@@ -3503,5 +3506,9 @@
   {
     "title": "Qu’est-ce que la \"lumière bleue\" et pourquoi perturbe-t-elle notre sommeil?",
     "added_at": "2025-05-01T10:45:42.137Z"
+  },
+  {
+    "title": "Le supposé nouveau maillot secondaire du Brésil crée la polémique",
+    "added_at": "2025-05-01T11:11:50.765Z"
   }
 ]
