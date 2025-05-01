@@ -2136,7 +2136,10 @@
   },
   {
     "title": "culture:::«Thunderbolts*», l’avenir est aux marginaux",
-    "added_at": "2025-04-30T18:33:56.255Z"
+    "added_at": "2025-04-30T18:33:56.255Z",
+    "removed_at": "2025-05-01T05:55:28.372Z",
+    "duration_minutes": 681,
+    "duration_str": "11h 21m"
   },
   {
     "title": "culture:::Nathalie Muller Mirza dévoile les secrets de la cathédrale Saint-Pierre de Genève",
@@ -2190,5 +2193,9 @@
   {
     "title": "suisse:::Entre Davos et son Forum, une longue histoire d’amour-haine",
     "added_at": "2025-05-01T05:27:34.323Z"
+  },
+  {
+    "title": "suisse:::L’Etat de Fribourg veut économiser 490 millions sur trois ans",
+    "added_at": "2025-05-01T05:55:28.372Z"
   }
 ]
