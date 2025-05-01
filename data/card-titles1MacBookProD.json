@@ -2927,7 +2927,10 @@
   },
   {
     "title": "Un drame a été évité de justesse ce weekend sur les pentes du Mont Rose",
-    "added_at": "2025-04-29T07:38:56.764Z"
+    "added_at": "2025-04-29T07:38:56.764Z",
+    "removed_at": "2025-05-01T11:28:35.410Z",
+    "duration_minutes": 3109,
+    "duration_str": "2d 3h 49m"
   },
   {
     "title": "\"Hergé musicien?\" explore la dimension musicale insoupçonnée de l'œuvre de Tintin",
@@ -3391,7 +3394,10 @@
   },
   {
     "title": "Chercheurs et étudiants romands planchent sur le futur des transports publics",
-    "added_at": "2025-04-30T19:46:34.376Z"
+    "added_at": "2025-04-30T19:46:34.376Z",
+    "removed_at": "2025-05-01T11:28:35.410Z",
+    "duration_minutes": 942,
+    "duration_str": "15h 42m"
   },
   {
     "title": "L'armée syrienne intervient près de Damas après des violences confessionnelles",
@@ -3510,5 +3516,13 @@
   {
     "title": "Le supposé nouveau maillot secondaire du Brésil crée la polémique",
     "added_at": "2025-05-01T11:11:50.765Z"
+  },
+  {
+    "title": "Après des années de négociations, le Conseil fédéral approuve le système Tardoc",
+    "added_at": "2025-05-01T11:28:35.410Z"
+  },
+  {
+    "title": "La panne électrique est le scénario catastrophe le plus probable aussi en Suisse",
+    "added_at": "2025-05-01T11:28:35.410Z"
   }
 ]
