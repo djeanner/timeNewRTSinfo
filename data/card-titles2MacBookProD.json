@@ -520,10 +520,7 @@
   },
   {
     "title": "monde:::Face au déficit budgétaire, l’OMS vers un fonctionnement plus «condensé et rationnel»",
-    "added_at": "2025-04-24T17:38:47.161Z",
-    "removed_at": "2025-05-01T14:29:08.408Z",
-    "duration_minutes": 9890,
-    "duration_str": "6d 20h 50m"
+    "added_at": "2025-04-24T17:38:47.161Z"
   },
   {
     "title": "monde:::Rome, ville sainte et blindée pour les obsèques du pape François",
@@ -1816,7 +1813,10 @@
   },
   {
     "title": "monde:::Après la méga-coupure d’électricité, l’Espagne découvre la fragilité des énergies renouvelables",
-    "added_at": "2025-04-29T17:25:05.119Z"
+    "added_at": "2025-04-29T17:25:05.119Z",
+    "removed_at": "2025-05-01T17:29:39.480Z",
+    "duration_minutes": 2884,
+    "duration_str": "2d 4m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Antonio Guterres: «Le monde ne peut pas se permettre de regarder la solution à deux Etats disparaître»",
@@ -2133,10 +2133,7 @@
   },
   {
     "title": "monde:::Confrontée à une crise financière, l’ONU Genève se voit contrainte de délocaliser des emplois",
-    "added_at": "2025-04-30T16:14:22.528Z",
-    "removed_at": "2025-05-01T14:29:08.408Z",
-    "duration_minutes": 1334,
-    "duration_str": "22h 14m"
+    "added_at": "2025-04-30T16:14:22.528Z"
   },
   {
     "title": "suisse:::Paquet européen: le Conseil fédéral ne veut pas de la double majorité",
@@ -2285,11 +2282,17 @@
   },
   {
     "title": "monde:::Coupes budgétaires dictées par Donald Trump: un trou de 100 millions pour les ONG suisses",
-    "added_at": "2025-05-01T10:42:01.075Z"
+    "added_at": "2025-05-01T10:42:01.075Z",
+    "removed_at": "2025-05-01T17:29:39.480Z",
+    "duration_minutes": 407,
+    "duration_str": "6h 47m"
   },
   {
     "title": "suisse:::Nouveau directeur de la CGN, Vincent Pellissier, est à la fois ingénieur, économiste et un peu artiste",
-    "added_at": "2025-05-01T11:17:24.800Z"
+    "added_at": "2025-05-01T11:17:24.800Z",
+    "removed_at": "2025-05-01T17:18:30.648Z",
+    "duration_minutes": 361,
+    "duration_str": "6h 1m"
   },
   {
     "title": "monde:::En direct – Volodymyr Zelensky appelle à augmenter la «pression» sur Moscou après une frappe russe sur Odessa",
@@ -2386,5 +2389,9 @@
   {
     "title": "monde:::Mike Waltz, le conseiller à la sécurité nationale de Donald Trump à l’origine du «Signalgate», quitte son poste",
     "added_at": "2025-05-01T16:56:10.114Z"
+  },
+  {
+    "title": "monde:::Le directeur général de l’OMS: «Tout le monde perd au retrait des Etats-Unis»",
+    "added_at": "2025-05-01T17:29:39.480Z"
   }
 ]
