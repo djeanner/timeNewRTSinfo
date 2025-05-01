@@ -2003,7 +2003,10 @@
   },
   {
     "title": "suisse:::SGS a vendu son siège à Genève pour 83 millions de francs",
-    "added_at": "2025-04-30T11:22:18.312Z"
+    "added_at": "2025-04-30T11:22:18.312Z",
+    "removed_at": "2025-05-01T05:18:19.672Z",
+    "duration_minutes": 1076,
+    "duration_str": "17h 56m"
   },
   {
     "title": "culture:::«Blue Sun Palace», histoire de fantômes chinois",
@@ -2166,10 +2169,7 @@
   },
   {
     "title": "suisse:::Le PS lausannois lance Julien Eggenberger pour l’élection à la Municipalité",
-    "added_at": "2025-05-01T04:09:25.173Z",
-    "removed_at": "2025-05-01T04:59:40.038Z",
-    "duration_minutes": 50,
-    "duration_str": "50m"
+    "added_at": "2025-05-01T04:09:25.173Z"
   },
   {
     "title": "suisse:::Les Genevois appelés à abolir une fiscalité communale unique en Suisse",
@@ -2182,5 +2182,13 @@
   {
     "title": "cyber:::OpenAI tente de se distinguer de Google mais risque bien de suivre le même chemin",
     "added_at": "2025-05-01T05:05:14.522Z"
+  },
+  {
+    "title": "suisse:::1er Mai - Les syndicats appellent à la solidarité contre l’extrême-droite",
+    "added_at": "2025-05-01T05:18:19.672Z"
+  },
+  {
+    "title": "suisse:::Entre Davos et son Forum, une longue histoire d’amour-haine",
+    "added_at": "2025-05-01T05:27:34.323Z"
   }
 ]
