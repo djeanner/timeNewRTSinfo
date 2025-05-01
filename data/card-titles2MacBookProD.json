@@ -1911,10 +1911,7 @@
   },
   {
     "title": "monde:::Un électeur de Donald Trump: «Je n’ai pas voté pour l’annexion du Groenland ou du Panama»",
-    "added_at": "2025-04-30T04:12:30.931Z",
-    "removed_at": "2025-04-30T13:26:52.131Z",
-    "duration_minutes": 554,
-    "duration_str": "9h 14m"
+    "added_at": "2025-04-30T04:12:30.931Z"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Les Etats-Unis menacent de jeter l'éponge face à Moscou et Kiev",
@@ -2202,7 +2199,10 @@
   },
   {
     "title": "suisse:::L’Etat de Fribourg veut économiser 490 millions sur trois ans",
-    "added_at": "2025-05-01T05:55:28.372Z"
+    "added_at": "2025-05-01T05:55:28.372Z",
+    "removed_at": "2025-05-01T06:51:15.218Z",
+    "duration_minutes": 55,
+    "duration_str": "55m"
   },
   {
     "title": "monde:::En direct – Après des semaines de négociations, Kiev et Washington annoncent la signature de l'accord sur les minerais",
@@ -2218,5 +2218,9 @@
   {
     "title": "monde:::En direct – Donald Trump «voulait être protégé» par l’accord sur les minéraux avec l’Ukraine",
     "added_at": "2025-05-01T06:32:39.109Z"
+  },
+  {
+    "title": "monde:::De gros incendies de forêt menacent Jérusalem",
+    "added_at": "2025-05-01T06:53:09.391Z"
   }
 ]
