@@ -3316,7 +3316,10 @@
   },
   {
     "title": "Donald Trump marque ses 100 jours sur un ton triomphaliste et agressif",
-    "added_at": "2025-04-30T06:13:21.371Z"
+    "added_at": "2025-04-30T06:13:21.371Z",
+    "removed_at": "2025-05-02T10:04:01.990Z",
+    "duration_minutes": 3110,
+    "duration_str": "2d 3h 50m"
   },
   {
     "title": "Le casino de Saint-Moritz cesse son activité à la suite du retrait de sa concession",
@@ -3884,5 +3887,9 @@
   {
     "title": "La France se rêve en eldorado des data centers, malgré les inquiétudes",
     "added_at": "2025-05-02T09:52:18.013Z"
+  },
+  {
+    "title": "Les colis de faible valeur venant de Chine ne sont plus exemptés de taxes douanières aux Etats-Unis",
+    "added_at": "2025-05-02T10:04:01.990Z"
   }
 ]
