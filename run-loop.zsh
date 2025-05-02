@@ -27,10 +27,12 @@ while true; do
   done
 
   # echo "📤 NOT Committing updates to Git..."
+  git stash push -m "stash everything except data, html, removed-by-day, removed-by-day2" -- . ':(exclude)data' ':(exclude)html' ':(exclude)removed-by-day' ':(exclude)removed-by-day2'
   git pull
   echo "📤 Committing updates to Git..."
-  git add html/ 
-  git commit html data/ -m "update html and all card-titles"
-  git commit removed-by-day/ removed-by-day2/ -m "update removed by day"
+  git add html/ data/ removed-by-day/ removed-by-day2/
+  git commit -m "update html/ data/ removed-by-day/ removed-by-day2/"
   git push
+  git stash pop
+
 done
