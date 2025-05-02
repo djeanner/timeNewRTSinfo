@@ -24,10 +24,10 @@ while true; do
   done
 
   # Stash only changes outside of 'data/'
-  git stash push -m "non-data changes" -- pathspec-exclude=data/
+  git stash push -m "non-data changes" -- . ':(exclude)data'
   git pull
   git commit data/ -m "update only main json file"
   git push
-  git stash pop || true
+  git stash pop
     
 done
