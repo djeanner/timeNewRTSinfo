@@ -23,11 +23,11 @@ while true; do
     sleep $sleep_time
   done
 
-  # echo "📤 NOT Committing updates to Git..."
-  git stash push -m "temp changes"
+  # Stash only changes outside of 'data/'
+  git stash push -m "non-data changes" -- pathspec-exclude=data/
   git pull
-  git stash pop  # optional: restore your changes after pulling
-  echo "📤 Committing updates in data to Git..."
   git commit data/ -m "update only main json file"
   git push
+  git stash pop || true
+    
 done
