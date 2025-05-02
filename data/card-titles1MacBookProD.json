@@ -3259,7 +3259,10 @@
   },
   {
     "title": "Le fisc vaudois n'a pas suffisamment taxé de riches contribuables pendant 13 ans",
-    "added_at": "2025-04-29T21:30:40.480Z"
+    "added_at": "2025-04-29T21:30:40.480Z",
+    "removed_at": "2025-05-02T10:33:54.458Z",
+    "duration_minutes": 3663,
+    "duration_str": "2d 13h 3m"
   },
   {
     "title": "Les salles d'escalade sont saturées de substances toxiques",
@@ -3805,7 +3808,10 @@
   },
   {
     "title": "Europe, le choc Trump: interview de Melissa Bell",
-    "added_at": "2025-05-01T22:33:08.911Z"
+    "added_at": "2025-05-01T22:33:08.911Z",
+    "removed_at": "2025-05-02T10:33:54.458Z",
+    "duration_minutes": 720,
+    "duration_str": "12h"
   },
   {
     "title": "120 secondes - Les cours des collégiens commenceront plus tard à Lausanne",
@@ -3895,5 +3901,9 @@
   {
     "title": "La Ville de Bienne autorise les artisans à stationner sur des places dédiées à la livraison",
     "added_at": "2025-05-02T10:18:56.013Z"
+  },
+  {
+    "title": "L'armée israélienne annonce avoir bombardé les abords du palais présidentiel syrien",
+    "added_at": "2025-05-02T10:33:54.458Z"
   }
 ]
