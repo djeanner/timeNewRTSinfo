@@ -75,7 +75,10 @@
   },
   {
     "title": "Les salles d'escalade sont saturées de substances toxiques, selon une étude de l'EPFL",
-    "added_at": "2025-05-01T08:09:10.618Z"
+    "added_at": "2025-05-01T08:09:10.618Z",
+    "removed_at": "2025-05-02T09:32:15.834Z",
+    "duration_minutes": 1523,
+    "duration_str": "1d 1h 23m"
   },
   {
     "title": "Le fisc vaudois n'a pas suffisamment taxé de riches contribuables pendant 13 ans",
@@ -118,7 +121,10 @@
   },
   {
     "title": "Le fisc vaudois a mal appliqué la loi sur le bouclier fiscal",
-    "added_at": "2025-05-01T08:09:10.618Z"
+    "added_at": "2025-05-01T08:09:10.618Z",
+    "removed_at": "2025-05-02T09:32:15.834Z",
+    "duration_minutes": 1523,
+    "duration_str": "1d 1h 23m"
   },
   {
     "title": "Un drame a été évité de justesse ce weekend sur les pentes du Mont Rose",
@@ -161,10 +167,7 @@
   },
   {
     "title": "Des militaires israéliens exigent l'arrêt de la guerre à Gaza",
-    "added_at": "2025-05-01T08:09:10.618Z",
-    "removed_at": "2025-05-02T08:45:23.288Z",
-    "duration_minutes": 1476,
-    "duration_str": "1d 36m"
+    "added_at": "2025-05-01T08:09:10.618Z"
   },
   {
     "title": "Les salles d'escalade sont saturées de substances toxiques",
@@ -261,7 +264,10 @@
   },
   {
     "title": "Swissgrid investira près de 5,5 milliards dans le réseau électrique d'ici 2040",
-    "added_at": "2025-05-01T08:09:10.618Z"
+    "added_at": "2025-05-01T08:09:10.618Z",
+    "removed_at": "2025-05-02T09:32:15.834Z",
+    "duration_minutes": 1523,
+    "duration_str": "1d 1h 23m"
   },
   {
     "title": "Une exposition du MCBA rend hommage à la galeriste et mécène lausannoise Alice Pauli",
@@ -709,10 +715,7 @@
   },
   {
     "title": "Europe, le choc Trump: interview de Melissa Bell",
-    "added_at": "2025-05-01T22:32:17.068Z",
-    "removed_at": "2025-05-02T00:32:04.421Z",
-    "duration_minutes": 119,
-    "duration_str": "1h 59m"
+    "added_at": "2025-05-01T22:32:17.068Z"
   },
   {
     "title": "120 secondes - Les cours des collégiens commenceront plus tard à Lausanne",
@@ -790,5 +793,9 @@
   {
     "title": "Le Basler Papiermühle, un lieu atypique dédié au papier, à l'écriture et l'impression",
     "added_at": "2025-05-02T09:31:06.606Z"
+  },
+  {
+    "title": "La France se rêve en eldorado des data centers, malgré les inquiétudes",
+    "added_at": "2025-05-02T09:32:15.834Z"
   }
 ]
