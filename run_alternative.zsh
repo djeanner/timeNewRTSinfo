@@ -22,8 +22,7 @@ while true; do
     echo "Waiting for $sleep_time seconds..."
     sleep $sleep_time
   done
-  git restore leTemps.html
-  git restore index.html
+  git restore leTemps.html input.html
   
   # Stash only changes outside of 'data/'
   git stash push -m "non-data changes" -- . ':(exclude)data'
