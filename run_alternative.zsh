@@ -24,6 +24,7 @@ while true; do
   done
 
   # echo "📤 NOT Committing updates to Git..."
+  git pull
   echo "📤 Committing updates to Git..."
   git commit html data/ -m "update only main json file"
   git push

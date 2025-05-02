@@ -24,6 +24,9 @@ If you are on macos, use
 ```zsh
 export COMPUTER_ID=$(scutil --get ComputerName)
 caffeinate ./run-loop.zsh
+
+
+caffeinate ./run_alternative.zsh
 ```
 to make sure the computer does not go to sleep while the script is running. 
 
