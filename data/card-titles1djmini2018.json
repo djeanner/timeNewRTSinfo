@@ -962,7 +962,10 @@
   },
   {
     "title": "Un exorciste officiel reprend du service auprès du diocèse de Lugano",
-    "added_at": "2025-05-02T14:34:00.627Z"
+    "added_at": "2025-05-02T14:34:00.627Z",
+    "removed_at": "2025-05-02T16:18:32.183Z",
+    "duration_minutes": 104,
+    "duration_str": "1h 44m"
   },
   {
     "title": "La synchronisation des cerveaux entre deux personnes, nouveau mystère des neurosciences",
@@ -986,5 +989,9 @@
   {
     "title": "Le plan d'austérité du Conseil fédéral fustigé de partout à l'issue de la consultation",
     "added_at": "2025-05-02T16:07:19.932Z"
+  },
+  {
+    "title": "Un exorciste reprend officiellement du service auprès du diocèse de Lugano",
+    "added_at": "2025-05-02T16:18:32.183Z"
   }
 ]
