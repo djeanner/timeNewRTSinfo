@@ -1651,10 +1651,7 @@
   },
   {
     "title": "cyber:::Ultra-dominateur sur le web, le navigateur Chrome de Google intéresse les géants de l’intelligence artificielle",
-    "added_at": "2025-04-29T06:07:49.317Z",
-    "removed_at": "2025-04-29T18:11:32.799Z",
-    "duration_minutes": 723,
-    "duration_str": "12h 3m"
+    "added_at": "2025-04-29T06:07:49.317Z"
   },
   {
     "title": "suisse:::Clarence Chollet: un nouveau souffle vert sur Berne",
@@ -2477,7 +2474,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’armée israélienne annonce avoir bombardé le quartier du palais présidentiel à Damas",
-    "added_at": "2025-05-02T02:01:38.326Z"
+    "added_at": "2025-05-02T02:01:38.326Z",
+    "removed_at": "2025-05-02T15:34:07.023Z",
+    "duration_minutes": 812,
+    "duration_str": "13h 32m"
   },
   {
     "title": "culture:::Sophie Thun, exposée à Lausanne: «La photographie argentique, c’est toujours mouillé. Je me sens ici comme dans une piscine»",
@@ -2589,5 +2589,9 @@
   {
     "title": "monde:::La guerre de Donald Trump contre les médias se poursuit avec NPR et PBS dans le viseur",
     "added_at": "2025-05-02T15:15:33.229Z"
+  },
+  {
+    "title": "cyber:::Peut-on vraiment faire confiance pour nos données à Microsoft, auteur d’une offensive marketing sans précédent en Europe et en Suisse?",
+    "added_at": "2025-05-02T15:34:07.023Z"
   }
 ]
