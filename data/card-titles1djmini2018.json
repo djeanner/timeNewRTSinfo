@@ -170,7 +170,10 @@
   },
   {
     "title": "Des militaires israéliens exigent l'arrêt de la guerre à Gaza",
-    "added_at": "2025-05-01T08:09:10.618Z"
+    "added_at": "2025-05-01T08:09:10.618Z",
+    "removed_at": "2025-05-02T12:34:43.315Z",
+    "duration_minutes": 1705,
+    "duration_str": "1d 4h 25m"
   },
   {
     "title": "Les salles d'escalade sont saturées de substances toxiques",
@@ -235,7 +238,10 @@
   },
   {
     "title": "Donald Trump, 100 jours de second mandat qui laissent le monde médusé",
-    "added_at": "2025-05-01T08:09:10.618Z"
+    "added_at": "2025-05-01T08:09:10.618Z",
+    "removed_at": "2025-05-02T12:42:06.890Z",
+    "duration_minutes": 1712,
+    "duration_str": "1d 4h 32m"
   },
   {
     "title": "Accords avec l'UE: le Conseil fédéral opte pour un référendum facultatif",
@@ -860,5 +866,20 @@
   {
     "title": "50 ans, le bel et joyeux anniversaire de l'Accademia Dimitri, l'école du célèbre clown",
     "added_at": "2025-05-02T11:44:20.351Z"
+  },
+  {
+    "title": "La Suisse finalise en ce moment le nouveau paquet d’accords avec l’UE",
+    "added_at": "2025-05-02T12:34:43.315Z"
+  },
+  {
+    "title": "Les substituts véganes ne doivent pas imiter les noms carnés, tranche le Tribunal fédéral",
+    "added_at": "2025-05-02T12:42:06.890Z",
+    "removed_at": "2025-05-02T12:45:53.598Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "Les substituts végans ne doivent pas imiter les noms carnés, tranche le Tribunal fédéral",
+    "added_at": "2025-05-02T12:45:53.598Z"
   }
 ]
