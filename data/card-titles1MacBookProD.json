@@ -3370,7 +3370,10 @@
   },
   {
     "title": "Le Hamas sera officiellement interdit en Suisse à partir du 15 mai prochain",
-    "added_at": "2025-04-30T09:21:16.915Z"
+    "added_at": "2025-04-30T09:21:16.915Z",
+    "removed_at": "2025-05-02T07:53:39.056Z",
+    "duration_minutes": 2792,
+    "duration_str": "1d 22h 32m"
   },
   {
     "title": "La Suisse autorise l'importation de 158 millions d'œufs supplémentaires à droits de douanes réduits",
@@ -3849,5 +3852,9 @@
   {
     "title": "L'armée israélienne bombarde le quartier du palais présidentiel syrien",
     "added_at": "2025-05-02T07:42:29.084Z"
+  },
+  {
+    "title": "Volodymyr Zelensky juge l'accord avec les Etats-Unis sur les minerais \"équitable\"",
+    "added_at": "2025-05-02T07:53:39.056Z"
   }
 ]
