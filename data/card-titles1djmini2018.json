@@ -304,7 +304,10 @@
   },
   {
     "title": "Un soldat blessé lors du grand exercice de l'armée suisse en Autriche",
-    "added_at": "2025-05-01T08:09:10.618Z"
+    "added_at": "2025-05-01T08:09:10.618Z",
+    "removed_at": "2025-05-02T15:35:35.132Z",
+    "duration_minutes": 1886,
+    "duration_str": "1d 7h 26m"
   },
   {
     "title": "Donald Trump marque ses 100 jours sur un ton triomphaliste et agressif",
@@ -968,5 +971,9 @@
   {
     "title": "La synchronisation des cerveaux entre deux personnes, un nouveau mystère des neurosciences",
     "added_at": "2025-05-02T14:48:59.043Z"
+  },
+  {
+    "title": "Un policier condamné par le tribunal de Vevey pour tentative de meurtre",
+    "added_at": "2025-05-02T15:35:35.132Z"
   }
 ]
