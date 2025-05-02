@@ -2367,7 +2367,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le bilan des heurts en Syrie s'élève à plus de 100 morts en deux jours",
-    "added_at": "2025-05-01T16:09:35.064Z"
+    "added_at": "2025-05-01T16:09:35.064Z",
+    "removed_at": "2025-05-02T02:01:38.326Z",
+    "duration_minutes": 592,
+    "duration_str": "9h 52m"
   },
   {
     "title": "sport:::Lorenzo Fortunato remporte la deuxième étape du Tour de Romandie",
@@ -2423,7 +2426,10 @@
   },
   {
     "title": "monde:::Donald Trump nomme Mike Waltz, jusqu’ici conseiller à la sécurité nationale, à l’ONU",
-    "added_at": "2025-05-01T18:59:00.756Z"
+    "added_at": "2025-05-01T18:59:00.756Z",
+    "removed_at": "2025-05-02T02:09:07.384Z",
+    "duration_minutes": 430,
+    "duration_str": "7h 10m"
   },
   {
     "title": "economie:::Quel droit à la déconnexion en dehors des heures de travail?",
@@ -2432,5 +2438,9 @@
   {
     "title": "monde:::Face à Donald Trump, les démocrates s’en remettent aux «gens ordinaires»",
     "added_at": "2025-05-01T23:15:59.157Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’armée israélienne annonce avoir bombardé le quartier du palais présidentiel à Damas",
+    "added_at": "2025-05-02T02:01:38.326Z"
   }
 ]
