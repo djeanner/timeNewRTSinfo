@@ -3360,7 +3360,10 @@
   },
   {
     "title": "À Vevey, le syndic Yvan Luccarini retire son soutien au projet de caméras dans le secteur de la gare",
-    "added_at": "2025-04-30T09:17:34.394Z"
+    "added_at": "2025-04-30T09:17:34.394Z",
+    "removed_at": "2025-05-02T04:19:35.184Z",
+    "duration_minutes": 2582,
+    "duration_str": "1d 19h 2m"
   },
   {
     "title": "Le Hamas sera officiellement interdit en Suisse à partir du 15 mai prochain",
@@ -3782,5 +3785,9 @@
   {
     "title": "L'armée israélienne annonce avoir bombardé le quartier du palais présidentiel syrien",
     "added_at": "2025-05-02T03:47:54.866Z"
+  },
+  {
+    "title": "Accident de chantier à Prilly: la Suva dans le viseur du procureur vaudois",
+    "added_at": "2025-05-02T04:19:35.184Z"
   }
 ]
