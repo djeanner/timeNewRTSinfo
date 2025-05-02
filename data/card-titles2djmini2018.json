@@ -498,7 +498,10 @@
   },
   {
     "title": "suisse:::Ligne ferroviaire Neuchâtel-La Chaux-de-Fonds: des tunnels creusés l’un après l’autre et des travaux qui s’étirent jusqu’en 2041",
-    "added_at": "2025-05-02T15:57:57.705Z"
+    "added_at": "2025-05-02T15:57:57.705Z",
+    "removed_at": "2025-05-02T16:29:45.395Z",
+    "duration_minutes": 31,
+    "duration_str": "31m"
   },
   {
     "title": "monde:::Reform UK s’offre un raz-de-marée électoral au Royaume-Uni",
@@ -507,5 +510,9 @@
   {
     "title": "monde:::Les services de renseignement allemand classent l’AfD à l’extrême droite, relançant le débat sur l’interdiction du parti",
     "added_at": "2025-05-02T16:18:31.588Z"
+  },
+  {
+    "title": "suisse:::Pour équilibrer ses finances, le Jura ambitionne une profonde transformation",
+    "added_at": "2025-05-02T16:29:45.395Z"
   }
 ]
