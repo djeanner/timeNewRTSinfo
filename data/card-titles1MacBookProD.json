@@ -3056,7 +3056,10 @@
   },
   {
     "title": "Les salles d'escalade sont saturées de substances toxiques, selon une étude de l'EPFL",
-    "added_at": "2025-04-29T13:45:34.190Z"
+    "added_at": "2025-04-29T13:45:34.190Z",
+    "removed_at": "2025-05-02T09:52:18.013Z",
+    "duration_minutes": 4086,
+    "duration_str": "2d 20h 6m"
   },
   {
     "title": "Deux projets de transports publics du futur présentés à Sion",
@@ -3359,7 +3362,10 @@
   },
   {
     "title": "Le fisc vaudois a mal appliqué la loi sur le bouclier fiscal",
-    "added_at": "2025-04-30T08:44:05.185Z"
+    "added_at": "2025-04-30T08:44:05.185Z",
+    "removed_at": "2025-05-02T09:52:18.013Z",
+    "duration_minutes": 2948,
+    "duration_str": "2d 1h 8m"
   },
   {
     "title": "À Vevey, le syndic Yvan Luccarini retire son soutien au projet de caméras dans le secteur de la gare",
@@ -3414,7 +3420,10 @@
   },
   {
     "title": "Swissgrid investira près de 5,5 milliards dans le réseau électrique d'ici 2040",
-    "added_at": "2025-04-30T10:39:27.608Z"
+    "added_at": "2025-04-30T10:39:27.608Z",
+    "removed_at": "2025-05-02T09:52:18.013Z",
+    "duration_minutes": 2832,
+    "duration_str": "1d 23h 12m"
   },
   {
     "title": "Coupure de courant dans toute l'Espagne: retour sur la réponse de l'Union européenne",
@@ -3432,7 +3441,10 @@
   },
   {
     "title": "Le Conseil fédéral donne son feu vert à davantage de moyens pour les radios et TV locales",
-    "added_at": "2025-04-30T11:05:34.202Z"
+    "added_at": "2025-04-30T11:05:34.202Z",
+    "removed_at": "2025-05-02T09:52:18.013Z",
+    "duration_minutes": 2806,
+    "duration_str": "1d 22h 46m"
   },
   {
     "title": "Une exposition du MCBA rend hommage à la galeriste et mécène lausannoise Alice Pauli",
@@ -3548,10 +3560,7 @@
   },
   {
     "title": "Des militaires israéliens exigent l'arrêt de la guerre à Gaza",
-    "added_at": "2025-05-01T01:46:10.265Z",
-    "removed_at": "2025-05-02T08:34:45.785Z",
-    "duration_minutes": 1848,
-    "duration_str": "1d 6h 48m"
+    "added_at": "2025-05-01T01:46:10.265Z"
   },
   {
     "title": "Washington et Kiev signent un vaste partenariat pour l'accès aux ressources ukrainiennes",
@@ -3793,10 +3802,7 @@
   },
   {
     "title": "Europe, le choc Trump: interview de Melissa Bell",
-    "added_at": "2025-05-01T22:33:08.911Z",
-    "removed_at": "2025-05-02T00:32:19.954Z",
-    "duration_minutes": 119,
-    "duration_str": "1h 59m"
+    "added_at": "2025-05-01T22:33:08.911Z"
   },
   {
     "title": "120 secondes - Les cours des collégiens commenceront plus tard à Lausanne",
@@ -3874,5 +3880,9 @@
   {
     "title": "Pourquoi certains animaux se fossilisent et d'autres pas",
     "added_at": "2025-05-02T09:31:09.841Z"
+  },
+  {
+    "title": "La France se rêve en eldorado des data centers, malgré les inquiétudes",
+    "added_at": "2025-05-02T09:52:18.013Z"
   }
 ]
