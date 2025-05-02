@@ -24,6 +24,9 @@ while true; do
   done
 
   # echo "📤 NOT Committing updates to Git..."
+  git stash push -m "temp changes"
+  git pull
+  git stash pop  # optional: restore your changes after pulling
   echo "📤 Committing updates in data to Git..."
   git commit data/ -m "update only main json file"
   git push
