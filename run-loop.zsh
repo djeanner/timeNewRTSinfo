@@ -29,7 +29,8 @@ while true; do
   # echo "📤 NOT Committing updates to Git..."
   git pull
   echo "📤 Committing updates to Git..."
-  git add html/ removed-by-day/ removed-by-day2/
+  git add html/ 
   git commit html data/ -m "update html and all card-titles"
+  git commit removed-by-day/ removed-by-day2/ -m "update removed by day"
   git push
 done
