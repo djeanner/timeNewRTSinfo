@@ -233,7 +233,10 @@
   },
   {
     "title": "Podcast - Pourra-t-on encore habiter en ville ces prochaines années ?",
-    "added_at": "2025-05-01T08:09:10.618Z"
+    "added_at": "2025-05-01T08:09:10.618Z",
+    "removed_at": "2025-05-02T13:43:40.913Z",
+    "duration_minutes": 1774,
+    "duration_str": "1d 5h 34m"
   },
   {
     "title": "Les failles informatiques, le nouvel outil des voleurs de voitures",
@@ -916,5 +919,9 @@
   {
     "title": "Libertés et justice sociale demande à la justice d'annuler le second tour de l'élection de l'exécutif de Vernier",
     "added_at": "2025-05-02T13:32:28.788Z"
+  },
+  {
+    "title": "L'extrême droite britannique gagne du terrain aux élections locales",
+    "added_at": "2025-05-02T13:43:40.913Z"
   }
 ]
