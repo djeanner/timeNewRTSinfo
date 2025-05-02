@@ -3345,7 +3345,10 @@
   },
   {
     "title": "La Suissesse enlevée au Niger serait aux mains du groupe Etat islamique au Mali",
-    "added_at": "2025-04-30T07:46:22.191Z"
+    "added_at": "2025-04-30T07:46:22.191Z",
+    "removed_at": "2025-05-02T04:56:53.220Z",
+    "duration_minutes": 2710,
+    "duration_str": "1d 21h 10m"
   },
   {
     "title": "\"Louise\", l'hommage aux femmes du clown Martin Zimmermann",
@@ -3789,5 +3792,16 @@
   {
     "title": "Accident de chantier à Prilly: la Suva dans le viseur du procureur vaudois",
     "added_at": "2025-05-02T04:19:35.184Z"
+  },
+  {
+    "title": "En Corée du Sud, le Premier ministre démissionnaire et ex-président par intérim vise la présidence",
+    "added_at": "2025-05-02T04:56:53.220Z",
+    "removed_at": "2025-05-02T04:58:41.654Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "En Corée du Sud, le Premier ministre et président par intérim démissionnaire vise la présidence",
+    "added_at": "2025-05-02T04:58:41.654Z"
   }
 ]
