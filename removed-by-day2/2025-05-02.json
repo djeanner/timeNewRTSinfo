@@ -152,8 +152,9 @@
   {
     "title": "sciences:::Alerte au tsunami après un puissant séisme en mer à l’extrême sud du Chili, une ville argentine appelée à évacuer",
     "added_at": "2025-05-02T15:56:35.813Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-02T16:18:55.875Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
   },
   {
     "title": "suisse:::Ligne ferroviaire Neuchâtel-La Chaux-de-Fonds: des tunnels creusés l’un après l’autre et des travaux qui s’étirent jusqu’en 2041",
@@ -164,6 +165,12 @@
   {
     "title": "monde:::Reform UK s’offre un raz-de-marée électoral au Royaume-Uni",
     "added_at": "2025-05-02T16:00:22.449Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Les services de renseignement allemand classent l’AfD à l’extrême droite, relançant le débat sur l’interdiction du parti",
+    "added_at": "2025-05-02T16:18:55.875Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
