@@ -260,7 +260,10 @@
   },
   {
     "title": "Donald Trump marque ses 100 jours sur un ton triomphaliste et agressif",
-    "added_at": "2025-05-01T08:09:10.618Z"
+    "added_at": "2025-05-01T08:09:10.618Z",
+    "removed_at": "2025-05-02T10:11:11.477Z",
+    "duration_minutes": 1562,
+    "duration_str": "1d 2h 2m"
   },
   {
     "title": "Swissgrid investira près de 5,5 milliards dans le réseau électrique d'ici 2040",
@@ -797,5 +800,9 @@
   {
     "title": "La France se rêve en eldorado des data centers, malgré les inquiétudes",
     "added_at": "2025-05-02T09:32:15.834Z"
+  },
+  {
+    "title": "Les colis de faible valeur venant de Chine ne sont plus exemptés de taxes douanières aux Etats-Unis",
+    "added_at": "2025-05-02T10:11:11.477Z"
   }
 ]

@@ -321,7 +321,10 @@
   },
   {
     "title": "sport:::Equipe la plus pure du Tour de Romandie, le Team Picnic se met à table",
-    "added_at": "2025-05-01T18:40:28.725Z"
+    "added_at": "2025-05-01T18:40:28.725Z",
+    "removed_at": "2025-05-02T10:11:10.718Z",
+    "duration_minutes": 930,
+    "duration_str": "15h 30m"
   },
   {
     "title": "monde:::Donald Trump nomme Mike Waltz, jusqu’ici conseiller à la sécurité nationale, à l’ONU",
@@ -404,5 +407,9 @@
   {
     "title": "economie:::Au WEF ou ailleurs, la difficulté de couper le cordon ombilical en entreprise",
     "added_at": "2025-05-02T07:21:27.233Z"
+  },
+  {
+    "title": "culture:::Série: «Carême», une pièce montée pâtissière et politique sur Apple TV+",
+    "added_at": "2025-05-02T10:11:10.718Z"
   }
 ]
