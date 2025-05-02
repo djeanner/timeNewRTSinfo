@@ -520,7 +520,10 @@
   },
   {
     "title": "monde:::Face au déficit budgétaire, l’OMS vers un fonctionnement plus «condensé et rationnel»",
-    "added_at": "2025-04-24T17:38:47.161Z"
+    "added_at": "2025-04-24T17:38:47.161Z",
+    "removed_at": "2025-05-02T04:06:35.293Z",
+    "duration_minutes": 10707,
+    "duration_str": "7d 10h 27m"
   },
   {
     "title": "monde:::Rome, ville sainte et blindée pour les obsèques du pape François",
@@ -1378,10 +1381,7 @@
   },
   {
     "title": "suisse:::André Kolly: «Le prochain pape ne sera pas Suisse, mais peut-être Luxembourgeois»",
-    "added_at": "2025-04-28T11:27:24.876Z",
-    "removed_at": "2025-04-30T13:26:52.131Z",
-    "duration_minutes": 2999,
-    "duration_str": "2d 1h 59m"
+    "added_at": "2025-04-28T11:27:24.876Z"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Vladimir Poutine annonce une trêve de trois jours du 8 au 10 mai",
@@ -2136,7 +2136,10 @@
   },
   {
     "title": "monde:::Confrontée à une crise financière, l’ONU Genève se voit contrainte de délocaliser des emplois",
-    "added_at": "2025-04-30T16:14:22.528Z"
+    "added_at": "2025-04-30T16:14:22.528Z",
+    "removed_at": "2025-05-02T04:06:35.293Z",
+    "duration_minutes": 2152,
+    "duration_str": "1d 11h 52m"
   },
   {
     "title": "suisse:::Paquet européen: le Conseil fédéral ne veut pas de la double majorité",
@@ -2452,5 +2455,9 @@
   {
     "title": "culture:::Sophie Thun, exposée à Lausanne: «La photographie argentique, c’est toujours mouillé. Je me sens ici comme dans une piscine»",
     "added_at": "2025-05-02T02:22:15.316Z"
+  },
+  {
+    "title": "monde:::Entre périphéries et Rome, les sept cardinaux qui incarnent au conclave l’Eglise de demain",
+    "added_at": "2025-05-02T04:06:35.293Z"
   }
 ]
