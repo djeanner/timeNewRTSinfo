@@ -26,8 +26,9 @@ while true; do
     sleep $sleep_time
   done
 
-  echo "📤 Committing updates to Git..."
-  git add html/
-  git commit html data/ -m "update html and all card-titles"
-  git push
+  echo "📤 NOT Committing updates to Git..."
+  # echo "📤 Committing updates to Git..."
+  # git add html/ removed-by-day/ removed-by-day2/
+  # git commit html data/ -m "update html and all card-titles"
+  # git push
 done
