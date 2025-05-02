@@ -255,7 +255,10 @@
   },
   {
     "title": "Des réservistes et vétérans israéliens réclament l'arrêt des hostilités dans la bande de Gaza",
-    "added_at": "2025-05-01T08:09:10.618Z"
+    "added_at": "2025-05-01T08:09:10.618Z",
+    "removed_at": "2025-05-02T10:38:53.662Z",
+    "duration_minutes": 1589,
+    "duration_str": "1d 2h 29m"
   },
   {
     "title": "Un soldat blessé lors du grand exercice de l'armée suisse en Autriche",
@@ -818,5 +821,9 @@
   {
     "title": "L'armée israélienne annonce avoir bombardé les abords du palais présidentiel syrien",
     "added_at": "2025-05-02T10:34:22.897Z"
+  },
+  {
+    "title": "Donald Trump ordonne la fin du financement fédéral de deux médias publics",
+    "added_at": "2025-05-02T10:38:53.662Z"
   }
 ]
