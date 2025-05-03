@@ -786,7 +786,10 @@
   },
   {
     "title": "Lorenzo Fortunato s'impose à la Grande Béroche",
-    "added_at": "2025-05-01T16:23:57.425Z"
+    "added_at": "2025-05-01T16:23:57.425Z",
+    "removed_at": "2025-05-03T11:12:34.425Z",
+    "duration_minutes": 2568,
+    "duration_str": "1d 18h 48m"
   },
   {
     "title": "La Confédération abandonne la coordination nationale des aires pour gens du voyage",
@@ -1192,5 +1195,9 @@
   {
     "title": "En Bolivie amazonienne, un avion atterrit d'urgence dans un marais infesté de caïmans",
     "added_at": "2025-05-03T10:39:01.853Z"
+  },
+  {
+    "title": "Le gouvernement australien de centre gauche remporte les législatives",
+    "added_at": "2025-05-03T11:12:34.425Z"
   }
 ]
