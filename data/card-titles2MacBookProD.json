@@ -2377,7 +2377,10 @@
   },
   {
     "title": "monde:::Entre l’Ukraine et les Etats-Unis, un accord qui permet avant tout de limiter la casse",
-    "added_at": "2025-05-01T15:32:25.241Z"
+    "added_at": "2025-05-01T15:32:25.241Z",
+    "removed_at": "2025-05-03T10:07:22.518Z",
+    "duration_minutes": 2554,
+    "duration_str": "1d 18h 34m"
   },
   {
     "title": "economie:::Trois jours après le black-out en Espagne, les milieux énergétiques se perdent en conjectures",
@@ -2646,7 +2649,10 @@
   },
   {
     "title": "monde:::Reform UK s’offre un raz-de-marée électoral au Royaume-Uni",
-    "added_at": "2025-05-02T16:00:22.449Z"
+    "added_at": "2025-05-02T16:00:22.449Z",
+    "removed_at": "2025-05-03T10:05:30.450Z",
+    "duration_minutes": 1085,
+    "duration_str": "18h 5m"
   },
   {
     "title": "monde:::Les services de renseignement allemand classent l’AfD à l’extrême droite, relançant le débat sur l’interdiction du parti",
@@ -2754,5 +2760,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – L’Ukraine redoute les festivités russes du 9 mai",
     "added_at": "2025-05-03T08:58:27.209Z"
+  },
+  {
+    "title": "monde:::Un groupe de travail de l’ONU propose la fusion des affaires humanitaires, du HCR et de l’OIM",
+    "added_at": "2025-05-03T10:05:30.450Z"
   }
 ]
