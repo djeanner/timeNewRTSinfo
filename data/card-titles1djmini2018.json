@@ -682,7 +682,10 @@
   },
   {
     "title": "Lancement du chantier du centre d'archives de La Chaux-de-Fonds et du canton de Neuchâtel",
-    "added_at": "2025-05-01T13:45:03.459Z"
+    "added_at": "2025-05-01T13:45:03.459Z",
+    "removed_at": "2025-05-03T05:42:57.447Z",
+    "duration_minutes": 2397,
+    "duration_str": "1d 15h 57m"
   },
   {
     "title": "Marie Holzman: \"Les Européens doivent comprendre que la Chine n'est pas un Etat autoritaire, mais totalitaire\"",
@@ -1084,5 +1087,9 @@
   {
     "title": "Les difficultés économiques rencontrées par les artistes moins connus de Paléo",
     "added_at": "2025-05-03T04:35:57.146Z"
+  },
+  {
+    "title": "\"Le vrai risque pour l'humanité n'est pas militaire, c'est le changement climatique\"",
+    "added_at": "2025-05-03T05:42:57.447Z"
   }
 ]
