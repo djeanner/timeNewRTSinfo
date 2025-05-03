@@ -1055,7 +1055,10 @@
   },
   {
     "title": "Un policier condamné par le tribunal de Vevey pour tentative de meurtre",
-    "added_at": "2025-05-02T15:35:35.132Z"
+    "added_at": "2025-05-02T15:35:35.132Z",
+    "removed_at": "2025-05-03T10:39:01.853Z",
+    "duration_minutes": 1143,
+    "duration_str": "19h 3m"
   },
   {
     "title": "Jay Vine s'impose en puncheur à Cossonay",
@@ -1185,5 +1188,9 @@
   {
     "title": "Volodymyr Zelensky dit ne pas vouloir \"jouer\" avec les courtes trêves proposées par Vladimir Poutine",
     "added_at": "2025-05-03T09:48:45.075Z"
+  },
+  {
+    "title": "En Bolivie amazonienne, un avion atterrit d'urgence dans un marais infesté de caïmans",
+    "added_at": "2025-05-03T10:39:01.853Z"
   }
 ]
