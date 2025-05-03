@@ -945,7 +945,10 @@
   },
   {
     "title": "La liberté de la presse menacée par une pression économique à son paroxysme",
-    "added_at": "2025-05-02T06:04:47.221Z"
+    "added_at": "2025-05-02T06:04:47.221Z",
+    "removed_at": "2025-05-03T18:54:32.704Z",
+    "duration_minutes": 2209,
+    "duration_str": "1d 12h 49m"
   },
   {
     "title": "\"Pablo Phone Home\", l'album d'inspiration berlinoise du Neuchâtelois FlexFab",
@@ -984,7 +987,10 @@
   },
   {
     "title": "Le Basler Papiermühle, un lieu atypique dédié au papier, à l'écriture et l'impression",
-    "added_at": "2025-05-02T09:31:06.606Z"
+    "added_at": "2025-05-02T09:31:06.606Z",
+    "removed_at": "2025-05-03T18:56:21.005Z",
+    "duration_minutes": 2005,
+    "duration_str": "1d 9h 25m"
   },
   {
     "title": "La France se rêve en eldorado des data centers, malgré les inquiétudes",
@@ -1346,5 +1352,13 @@
   {
     "title": "La tension toujours au plus haut entre l'Inde et le Pakistan au Cachemire",
     "added_at": "2025-05-03T17:49:18.153Z"
+  },
+  {
+    "title": "\"Reconstruction du mur de Berlin\", \"tyrannie déguisée\", Washington fustige la décision allemande sur l'AfD",
+    "added_at": "2025-05-03T18:54:32.704Z"
+  },
+  {
+    "title": "Les vacances de Céline Vara à Oman soulèvent la question du devoir d'exemplarité des élus",
+    "added_at": "2025-05-03T18:56:21.005Z"
   }
 ]
