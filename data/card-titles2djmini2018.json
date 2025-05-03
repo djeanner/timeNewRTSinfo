@@ -594,7 +594,10 @@
   },
   {
     "title": "monde:::Donald Trump se dépeint en pape",
-    "added_at": "2025-05-03T05:29:58.073Z"
+    "added_at": "2025-05-03T05:29:58.073Z",
+    "removed_at": "2025-05-03T07:53:17.207Z",
+    "duration_minutes": 143,
+    "duration_str": "2h 23m"
   },
   {
     "title": "economie:::Klaus Schwab et «l’esprit de Davos», la fin d’un mythe",
@@ -626,5 +629,9 @@
   {
     "title": "suisse:::A La Haye, Berne défend l’UNRWA face au blocus d’Israël",
     "added_at": "2025-05-03T07:38:26.412Z"
+  },
+  {
+    "title": "monde:::Donald Trump va s’offrir un défilé militaire pour son anniversaire",
+    "added_at": "2025-05-03T07:53:17.207Z"
   }
 ]
