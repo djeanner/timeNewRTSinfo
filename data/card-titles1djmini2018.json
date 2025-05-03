@@ -591,7 +591,10 @@
   },
   {
     "title": "Sommeil des ados: Lausanne va tester le début des cours 30 minutes plus tard",
-    "added_at": "2025-05-01T08:48:00.300Z"
+    "added_at": "2025-05-01T08:48:00.300Z",
+    "removed_at": "2025-05-03T07:38:26.910Z",
+    "duration_minutes": 2810,
+    "duration_str": "1d 22h 50m"
   },
   {
     "title": "Les éditions Héloïse d’Ormesson fêtent vingt ans de romanesque de qualité",
@@ -1128,10 +1131,21 @@
   },
   {
     "title": "Images générées par IA: que coûtent-elles vraiment à la planète?",
-    "added_at": "2025-05-03T07:17:54.922Z"
+    "added_at": "2025-05-03T07:17:54.922Z",
+    "removed_at": "2025-05-03T07:38:26.910Z",
+    "duration_minutes": 20,
+    "duration_str": "20m"
   },
   {
     "title": "Podcast – Le comptable meurtrier de Plan-les-Ouates",
     "added_at": "2025-05-03T07:29:05.004Z"
+  },
+  {
+    "title": "Une image générée par IA nécessite-t-elle vraiment entre 2 et 5 litres d'eau?",
+    "added_at": "2025-05-03T07:38:26.910Z"
+  },
+  {
+    "title": "Les règles de l’aviation de montagne et des atterrissages sur glacier",
+    "added_at": "2025-05-03T07:38:26.910Z"
   }
 ]
