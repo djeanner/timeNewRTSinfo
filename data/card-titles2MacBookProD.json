@@ -2701,10 +2701,7 @@
   },
   {
     "title": "culture:::En images - Les horizons des Journées photographiques de Bienne",
-    "added_at": "2025-05-02T19:21:30.765Z",
-    "removed_at": "2025-05-03T06:36:58.857Z",
-    "duration_minutes": 675,
-    "duration_str": "11h 15m"
+    "added_at": "2025-05-02T19:21:30.765Z"
   },
   {
     "title": "monde:::Donald Trump se dépeint en pape",
@@ -2719,7 +2716,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Les Européens préparent de nouvelles sanctions contre la Russie",
-    "added_at": "2025-05-03T05:57:54.226Z"
+    "added_at": "2025-05-03T05:57:54.226Z",
+    "removed_at": "2025-05-03T08:58:27.209Z",
+    "duration_minutes": 180,
+    "duration_str": "3h"
   },
   {
     "title": "monde:::Une «envie obsessionnelle de tuer» aurait motivé le meurtrier d’un jeune homme dans une mosquée en Occitanie",
@@ -2738,7 +2738,10 @@
   },
   {
     "title": "monde:::Ronen Bar, l’espion israélien devenu l’opposant numéro un de Benyamin Netanyahou malgré lui",
-    "added_at": "2025-05-03T06:57:25.577Z"
+    "added_at": "2025-05-03T06:57:25.577Z",
+    "removed_at": "2025-05-03T09:04:01.982Z",
+    "duration_minutes": 126,
+    "duration_str": "2h 6m"
   },
   {
     "title": "suisse:::A La Haye, Berne défend l’UNRWA face au blocus d’Israël",
@@ -2747,5 +2750,9 @@
   {
     "title": "monde:::Donald Trump va s’offrir un défilé militaire pour son anniversaire",
     "added_at": "2025-05-03T07:53:17.128Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – L’Ukraine redoute les festivités russes du 9 mai",
+    "added_at": "2025-05-03T08:58:27.209Z"
   }
 ]
