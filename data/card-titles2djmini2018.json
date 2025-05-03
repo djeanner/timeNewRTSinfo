@@ -661,7 +661,10 @@
   },
   {
     "title": "monde:::Un groupe de travail de l’ONU propose la fusion des affaires humanitaires, du HCR et de l’OIM",
-    "added_at": "2025-05-03T10:05:30.278Z"
+    "added_at": "2025-05-03T10:05:30.278Z",
+    "removed_at": "2025-05-03T13:37:50.600Z",
+    "duration_minutes": 212,
+    "duration_str": "3h 32m"
   },
   {
     "title": "sport:::Remco Evenepoel, par amour des gens",
@@ -670,5 +673,9 @@
   {
     "title": "monde:::En direct, conflits au Moyen-Orient – L’armée israélienne annonce s’être déployée dans le sud de la Syrie",
     "added_at": "2025-05-03T11:55:27.452Z"
+  },
+  {
+    "title": "monde:::En Australie, les travaillistes sortants remportent les législatives",
+    "added_at": "2025-05-03T13:37:50.600Z"
   }
 ]
