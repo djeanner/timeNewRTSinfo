@@ -590,7 +590,10 @@
   },
   {
     "title": "sport:::Le Football et les Femmes: chez Sylvie, baguettes-pizzas et coups de main à gogo",
-    "added_at": "2025-05-02T18:46:00.817Z"
+    "added_at": "2025-05-02T18:46:00.817Z",
+    "removed_at": "2025-05-03T20:03:22.020Z",
+    "duration_minutes": 1517,
+    "duration_str": "1d 1h 17m"
   },
   {
     "title": "monde:::Une voiture fonce dans la foule à Stuttgart et fait huit blessés: la piste de l’accident privilégiée",
@@ -666,7 +669,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L’Ukraine redoute les festivités russes du 9 mai",
-    "added_at": "2025-05-03T08:58:27.327Z"
+    "added_at": "2025-05-03T08:58:27.327Z",
+    "removed_at": "2025-05-03T19:54:04.688Z",
+    "duration_minutes": 655,
+    "duration_str": "10h 55m"
   },
   {
     "title": "monde:::Un groupe de travail de l’ONU propose la fusion des affaires humanitaires, du HCR et de l’OIM",
@@ -684,7 +690,10 @@
   },
   {
     "title": "monde:::En direct, conflits au Moyen-Orient – L’armée israélienne annonce s’être déployée dans le sud de la Syrie",
-    "added_at": "2025-05-03T11:55:27.452Z"
+    "added_at": "2025-05-03T11:55:27.452Z",
+    "removed_at": "2025-05-03T19:54:04.688Z",
+    "duration_minutes": 478,
+    "duration_str": "7h 58m"
   },
   {
     "title": "monde:::En Australie, les travaillistes sortants remportent les législatives",
@@ -699,7 +708,10 @@
   },
   {
     "title": "culture:::«Les Quatre Saisons», valse de quinquas en crise",
-    "added_at": "2025-05-03T13:47:13.234Z"
+    "added_at": "2025-05-03T13:47:13.234Z",
+    "removed_at": "2025-05-03T20:03:22.020Z",
+    "duration_minutes": 376,
+    "duration_str": "6h 16m"
   },
   {
     "title": "sport:::Mathys Rondel, révélation du Tour de Romandie: «Ma ferme contribue à mon bonheur»",
@@ -708,5 +720,28 @@
   {
     "title": "economie:::En Europe, les black-out ont été jusqu’à présent très rares",
     "added_at": "2025-05-03T19:01:56.739Z"
+  },
+  {
+    "title": "monde:::Conflits au Moyen-Orient – L’armée israélienne annonce s’être déployée dans le sud de la Syrie",
+    "added_at": "2025-05-03T19:54:04.688Z",
+    "removed_at": "2025-05-03T19:59:39.761Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – L’Ukraine redoute les festivités russes du 9 mai",
+    "added_at": "2025-05-03T19:54:04.688Z"
+  },
+  {
+    "title": "monde:::Conflits au Moyen-Orient – Israël rappelle des dizaines de milliers de réservistes",
+    "added_at": "2025-05-03T19:59:39.761Z"
+  },
+  {
+    "title": "culture:::Dora Formica: «Je perçois l’IA comme un danger pour la vie artistique, qui est faite d’élans et n’obéit pas à des prompts»",
+    "added_at": "2025-05-03T20:03:22.020Z"
+  },
+  {
+    "title": "culture:::Leçons de dessin et d’humanité, avec Dora Formica",
+    "added_at": "2025-05-03T20:03:22.020Z"
   }
 ]
