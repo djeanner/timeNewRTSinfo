@@ -75,8 +75,9 @@
   {
     "title": "sport:::Remco Evenepoel, par amour des gens",
     "added_at": "2025-05-03T11:08:53.184Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-03T17:43:43.060Z",
+    "duration_minutes": 395,
+    "duration_str": "6h 35m"
   },
   {
     "title": "monde:::En direct, conflits au Moyen-Orient – L’armée israélienne annonce s’être déployée dans le sud de la Syrie",
@@ -99,6 +100,12 @@
   {
     "title": "culture:::«Les Quatre Saisons», valse de quinquas en crise",
     "added_at": "2025-05-03T13:47:12.835Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "sport:::Mathys Rondel, révélation du Tour de Romandie: «Ma ferme contribue à mon bonheur»",
+    "added_at": "2025-05-03T17:40:00.117Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
