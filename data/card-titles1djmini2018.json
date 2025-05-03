@@ -15,7 +15,10 @@
   },
   {
     "title": "Flux migratoire: pourquoi tant d'étrangers quittent la Suisse chaque année",
-    "added_at": "2025-05-01T08:09:10.618Z"
+    "added_at": "2025-05-01T08:09:10.618Z",
+    "removed_at": "2025-05-03T13:39:44.659Z",
+    "duration_minutes": 3210,
+    "duration_str": "2d 5h 30m"
   },
   {
     "title": "Kamala Harris fustige Donald Trump dans son premier grand discours depuis sa défaite en novembre",
@@ -722,7 +725,10 @@
   },
   {
     "title": "Marie Holzman: \"Les Européens doivent comprendre que la Chine n'est pas un Etat autoritaire, mais totalitaire\"",
-    "added_at": "2025-05-01T13:46:56.072Z"
+    "added_at": "2025-05-01T13:46:56.072Z",
+    "removed_at": "2025-05-03T13:47:13.760Z",
+    "duration_minutes": 2880,
+    "duration_str": "2d"
   },
   {
     "title": "Un gendarme condamné pour avoir tiré sur un innocent à Vevey",
@@ -1251,5 +1257,9 @@
   {
     "title": "A Berne, la Place fédérale s'effrite",
     "added_at": "2025-05-03T13:34:08.896Z"
+  },
+  {
+    "title": "Un militaire grièvement blessé dans le troisième accident au sein de l'armée en une semaine",
+    "added_at": "2025-05-03T13:47:13.760Z"
   }
 ]
