@@ -62,8 +62,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – L’Ukraine redoute les festivités russes du 9 mai",
     "added_at": "2025-05-03T08:58:27.209Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-03T19:54:04.647Z",
+    "duration_minutes": 656,
+    "duration_str": "10h 56m"
   },
   {
     "title": "monde:::Un groupe de travail de l’ONU propose la fusion des affaires humanitaires, du HCR et de l’OIM",
@@ -82,8 +83,9 @@
   {
     "title": "monde:::En direct, conflits au Moyen-Orient – L’armée israélienne annonce s’être déployée dans le sud de la Syrie",
     "added_at": "2025-05-03T11:55:26.990Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-03T19:54:04.647Z",
+    "duration_minutes": 479,
+    "duration_str": "7h 59m"
   },
   {
     "title": "monde:::En Australie, les travaillistes sortants remportent les législatives",
@@ -101,8 +103,9 @@
   {
     "title": "culture:::«Les Quatre Saisons», valse de quinquas en crise",
     "added_at": "2025-05-03T13:47:12.835Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-03T20:03:21.808Z",
+    "duration_minutes": 376,
+    "duration_str": "6h 16m"
   },
   {
     "title": "sport:::Mathys Rondel, révélation du Tour de Romandie: «Ma ferme contribue à mon bonheur»",
@@ -113,6 +116,37 @@
   {
     "title": "economie:::En Europe, les black-out ont été jusqu’à présent très rares",
     "added_at": "2025-05-03T19:01:56.152Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Conflits au Moyen-Orient – L’armée israélienne annonce s’être déployée dans le sud de la Syrie",
+    "added_at": "2025-05-03T19:54:04.647Z",
+    "removed_at": "2025-05-03T19:59:39.446Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – L’Ukraine redoute les festivités russes du 9 mai",
+    "added_at": "2025-05-03T19:54:04.647Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Conflits au Moyen-Orient – Israël rappelle des dizaines de milliers de réservistes",
+    "added_at": "2025-05-03T19:59:39.446Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "culture:::Dora Formica: «Je perçois l’IA comme un danger pour la vie artistique, qui est faite d’élans et n’obéit pas à des prompts»",
+    "added_at": "2025-05-03T20:03:21.808Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "culture:::Leçons de dessin et d’humanité, avec Dora Formica",
+    "added_at": "2025-05-03T20:03:21.808Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
