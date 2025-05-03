@@ -714,7 +714,10 @@
   },
   {
     "title": "La ville de Bâle, une métropole prisée pour le graffiti depuis les années 1980",
-    "added_at": "2025-05-01T14:26:13.534Z"
+    "added_at": "2025-05-01T14:26:13.534Z",
+    "removed_at": "2025-05-03T07:10:30.198Z",
+    "duration_minutes": 2444,
+    "duration_str": "1d 16h 44m"
   },
   {
     "title": "La Chancellerie fédérale dépose une quatrième plainte pénale pour fausses signatures",
@@ -1088,10 +1091,7 @@
   },
   {
     "title": "Plus de 20 frappes israéliennes recensées à travers la Syrie dans la nuit de vendredi à samedi",
-    "added_at": "2025-05-03T03:47:34.842Z",
-    "removed_at": "2025-05-03T03:49:28.850Z",
-    "duration_minutes": 1,
-    "duration_str": "1m"
+    "added_at": "2025-05-03T03:47:34.842Z"
   },
   {
     "title": "Les difficultés économiques rencontrées par les artistes moins connus de Paléo",
@@ -1111,6 +1111,13 @@
   },
   {
     "title": "En Bolivie, un avion atterrit d'urgence et reste 36 heures bloqués dans un marais plein de caïmans",
-    "added_at": "2025-05-03T06:33:13.057Z"
+    "added_at": "2025-05-03T06:33:13.057Z",
+    "removed_at": "2025-05-03T07:10:30.198Z",
+    "duration_minutes": 37,
+    "duration_str": "37m"
+  },
+  {
+    "title": "En Bolivie, un avion atterrit d'urgence et reste 36 heures bloqué dans un marais plein de caïmans",
+    "added_at": "2025-05-03T07:10:30.198Z"
   }
 ]
