@@ -968,7 +968,10 @@
   },
   {
     "title": "Les enfants de la banlieue sud de Valence pâtissent encore des effets des inondations",
-    "added_at": "2025-05-02T07:04:36.994Z"
+    "added_at": "2025-05-02T07:04:36.994Z",
+    "removed_at": "2025-05-03T20:33:10.632Z",
+    "duration_minutes": 2248,
+    "duration_str": "1d 13h 28m"
   },
   {
     "title": "Des artistes précaires à l'affiche du Paléo Festival de Nyon",
@@ -1384,5 +1387,9 @@
   {
     "title": "Des militants anti et pro-avortement se sont fait face à Genève",
     "added_at": "2025-05-03T20:01:34.541Z"
+  },
+  {
+    "title": "Une discothèque géante réservée aux seniors à Bâle pour lancer les festivités de l'Eurovision",
+    "added_at": "2025-05-03T20:33:10.632Z"
   }
 ]
