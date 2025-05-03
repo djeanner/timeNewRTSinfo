@@ -2672,7 +2672,10 @@
   },
   {
     "title": "monde:::Une voiture fonce dans la foule à Stuttgart et fait huit blessés: la piste de l’accident privilégiée",
-    "added_at": "2025-05-02T19:08:25.058Z"
+    "added_at": "2025-05-02T19:08:25.058Z",
+    "removed_at": "2025-05-03T05:29:59.316Z",
+    "duration_minutes": 621,
+    "duration_str": "10h 21m"
   },
   {
     "title": "culture:::Connectées à l’époque, les Journées photographiques de Bienne explorent les horizons incertains",
@@ -2681,5 +2684,9 @@
   {
     "title": "culture:::En images - Les horizons des Journées photographiques de Bienne",
     "added_at": "2025-05-02T19:21:30.765Z"
+  },
+  {
+    "title": "monde:::Donald Trump se dépeint en pape",
+    "added_at": "2025-05-03T05:29:59.316Z"
   }
 ]
