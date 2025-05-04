@@ -813,7 +813,10 @@
   },
   {
     "title": "culture:::Au Port Franc à Sion, dix ans de musiques actuelles à contre-courant",
-    "added_at": "2025-05-04T07:04:22.907Z"
+    "added_at": "2025-05-04T07:04:22.907Z",
+    "removed_at": "2025-05-04T13:59:48.295Z",
+    "duration_minutes": 415,
+    "duration_str": "6h 55m"
   },
   {
     "title": "economie:::L’industrie automobile européenne ne sort pas la tête de l’eau",
@@ -881,5 +884,9 @@
   {
     "title": "suisse:::Un tremblement de terre de magnitude 3,1 a été ressenti en Valais",
     "added_at": "2025-05-04T13:56:00.325Z"
+  },
+  {
+    "title": "culture:::Petzi au pays de la fondue",
+    "added_at": "2025-05-04T13:59:48.295Z"
   }
 ]
