@@ -2821,7 +2821,10 @@
   },
   {
     "title": "suisse:::Un nouvel accident faisant un blessé grave: semaine noire pour l’armée",
-    "added_at": "2025-05-03T13:39:43.944Z"
+    "added_at": "2025-05-03T13:39:43.944Z",
+    "removed_at": "2025-05-04T08:41:15.885Z",
+    "duration_minutes": 1141,
+    "duration_str": "19h 1m"
   },
   {
     "title": "culture:::«Les Quatre Saisons», valse de quinquas en crise",
@@ -2883,7 +2886,10 @@
   },
   {
     "title": "monde:::En direct, conflits au Moyen-Orient – Israël rappelle des dizaines de milliers de réservistes",
-    "added_at": "2025-05-04T05:55:28.524Z"
+    "added_at": "2025-05-04T05:55:28.524Z",
+    "removed_at": "2025-05-04T08:39:21.655Z",
+    "duration_minutes": 163,
+    "duration_str": "2h 43m"
   },
   {
     "title": "monde:::Après une annulation de scrutin controversée, la Roumanie retourne aux urnes",
@@ -2896,5 +2902,9 @@
   {
     "title": "economie:::L’industrie automobile européenne ne sort pas la tête de l’eau",
     "added_at": "2025-05-04T07:06:16.610Z"
+  },
+  {
+    "title": "monde:::En direct, conflits au Moyen-Orient – Un missile venu du Yémen est tombé non loin de l'aéroport de Tel-Aviv",
+    "added_at": "2025-05-04T08:39:21.655Z"
   }
 ]
