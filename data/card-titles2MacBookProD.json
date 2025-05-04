@@ -3070,7 +3070,10 @@
   },
   {
     "title": "monde:::«C’est amusant, les gens les plus importants du monde viennent me voir dans ce bureau»: la drôle de discussion de Donald Trump avec le patron de «The Atlantic»",
-    "added_at": "2025-05-04T15:23:37.873Z"
+    "added_at": "2025-05-04T15:23:37.873Z",
+    "removed_at": "2025-05-04T17:37:45.405Z",
+    "duration_minutes": 134,
+    "duration_str": "2h 14m"
   },
   {
     "title": "cyber:::Aussi puissant que discret, NotebookLM, super-outil d’IA de Google, crée désormais des podcasts en français",
@@ -3090,5 +3093,9 @@
   {
     "title": "sport:::Le Tour de Romandie, la plus ouverte des grandes courses… ou la plus ennuyeuse?",
     "added_at": "2025-05-04T17:24:39.536Z"
+  },
+  {
+    "title": "sport:::Le FC Bâle écrase Servette et fonce vers le titre de champion de Suisse",
+    "added_at": "2025-05-04T17:37:45.405Z"
   }
 ]
