@@ -4425,7 +4425,10 @@
   },
   {
     "title": "Les règles de l’aviation de montagne et des atterrissages sur glacier",
-    "added_at": "2025-05-03T07:38:26.182Z"
+    "added_at": "2025-05-03T07:38:26.182Z",
+    "removed_at": "2025-05-04T21:43:34.251Z",
+    "duration_minutes": 2285,
+    "duration_str": "1d 14h 5m"
   },
   {
     "title": "Le canton de Fribourg veut davantage soutenir la culture",
@@ -4734,5 +4737,9 @@
   {
     "title": "Petros Mavromichalis: les accords entre la Suisse et l'UE \"sont dans l'intérêt des deux parties\"",
     "added_at": "2025-05-04T19:40:42.134Z"
+  },
+  {
+    "title": "Le TF interdit toute dénomination animale sur les produits végétaux",
+    "added_at": "2025-05-04T21:43:34.251Z"
   }
 ]
