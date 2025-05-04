@@ -2863,7 +2863,10 @@
   },
   {
     "title": "economie:::En Europe, les black-out ont été jusqu’à présent très rares",
-    "added_at": "2025-05-03T19:01:56.152Z"
+    "added_at": "2025-05-03T19:01:56.152Z",
+    "removed_at": "2025-05-04T16:26:53.454Z",
+    "duration_minutes": 1284,
+    "duration_str": "21h 24m"
   },
   {
     "title": "monde:::Conflits au Moyen-Orient – L’armée israélienne annonce s’être déployée dans le sud de la Syrie",
@@ -3066,5 +3069,9 @@
   {
     "title": "cyber:::Aussi puissant que discret, NotebookLM, super-outil d’IA de Google, crée désormais des podcasts en français",
     "added_at": "2025-05-04T15:31:00.941Z"
+  },
+  {
+    "title": "culture:::Série: «Mauvais suspect», quand la traque post-attentats conduit à une effroyable erreur",
+    "added_at": "2025-05-04T16:26:53.454Z"
   }
 ]
