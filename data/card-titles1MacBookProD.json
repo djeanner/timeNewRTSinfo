@@ -4159,7 +4159,10 @@
   },
   {
     "title": "Les atterrissages en haute montagne, une tradition alpine discrète et très encadrée",
-    "added_at": "2025-05-02T11:06:37.736Z"
+    "added_at": "2025-05-02T11:06:37.736Z",
+    "removed_at": "2025-05-04T16:28:47.425Z",
+    "duration_minutes": 3202,
+    "duration_str": "2d 5h 22m"
   },
   {
     "title": "Les opérations humanitaires à Gaza \"au bord de l'effondrement total\", alerte la Croix-Rouge",
@@ -4223,7 +4226,10 @@
   },
   {
     "title": "Fini le \"poulet végétal\": le Tribunal fédéral bannit les noms d'animaux pour les substituts de viande",
-    "added_at": "2025-05-02T13:33:03.978Z"
+    "added_at": "2025-05-02T13:33:03.978Z",
+    "removed_at": "2025-05-04T16:38:04.722Z",
+    "duration_minutes": 3065,
+    "duration_str": "2d 3h 5m"
   },
   {
     "title": "Libertés et justice sociale demande à la justice d'annuler le second tour de l'élection de l'exécutif de Vernier",
@@ -4685,5 +4691,13 @@
   {
     "title": "Almeida remporte la 78e édition; Evenepoel la dernière étape dans la cité de Calvin",
     "added_at": "2025-05-04T14:35:08.705Z"
+  },
+  {
+    "title": "Bâle assomme Servette et, sauf tremblement de terre, plie le championnat",
+    "added_at": "2025-05-04T16:28:47.425Z"
+  },
+  {
+    "title": "La Suisse finit en beauté avant le Mondial",
+    "added_at": "2025-05-04T16:38:04.722Z"
   }
 ]
