@@ -1048,7 +1048,10 @@
   },
   {
     "title": "L'armée israélienne annonce avoir bombardé les abords du palais présidentiel syrien",
-    "added_at": "2025-05-02T10:34:22.897Z"
+    "added_at": "2025-05-02T10:34:22.897Z",
+    "removed_at": "2025-05-04T08:44:57.220Z",
+    "duration_minutes": 2770,
+    "duration_str": "1d 22h 10m"
   },
   {
     "title": "Donald Trump ordonne la fin du financement fédéral de deux médias publics",
@@ -1088,7 +1091,10 @@
   },
   {
     "title": "La Suisse finalise en ce moment le nouveau paquet d’accords avec l’UE",
-    "added_at": "2025-05-02T12:34:43.315Z"
+    "added_at": "2025-05-02T12:34:43.315Z",
+    "removed_at": "2025-05-04T08:44:57.220Z",
+    "duration_minutes": 2650,
+    "duration_str": "1d 20h 10m"
   },
   {
     "title": "Les substituts véganes ne doivent pas imiter les noms carnés, tranche le Tribunal fédéral",
@@ -1443,10 +1449,7 @@
   },
   {
     "title": "Un militaire grièvement blessé lors d'une manoeuvre au Simplon",
-    "added_at": "2025-05-03T22:37:55.854Z",
-    "removed_at": "2025-05-04T03:39:36.855Z",
-    "duration_minutes": 301,
-    "duration_str": "5h 1m"
+    "added_at": "2025-05-03T22:37:55.854Z"
   },
   {
     "title": "Loyers inabordables, pénurie de logements, l'avenir des locataires en question",
@@ -1510,5 +1513,9 @@
   {
     "title": "Podcast - A quoi servent les jardins botaniques?",
     "added_at": "2025-05-04T08:30:05.914Z"
+  },
+  {
+    "title": "Le camp Trump vole au secours du parti allemand AfD, classé à l'extrême droite",
+    "added_at": "2025-05-04T08:44:57.220Z"
   }
 ]
