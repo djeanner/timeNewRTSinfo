@@ -1256,7 +1256,10 @@
   },
   {
     "title": "Thoune est promu en Super League",
-    "added_at": "2025-05-02T20:26:40.286Z"
+    "added_at": "2025-05-02T20:26:40.286Z",
+    "removed_at": "2025-05-04T18:52:12.972Z",
+    "duration_minutes": 2785,
+    "duration_str": "1d 22h 25m"
   },
   {
     "title": "Une voiture percute accidentellement une foule à Stuttgart, faisant un mort et sept blessés",
@@ -1633,5 +1636,9 @@
   {
     "title": "Accords Suisse-UE: la gestion du Conseil fédéral critiquée",
     "added_at": "2025-05-04T17:33:57.885Z"
+  },
+  {
+    "title": "En Valais, des sentiers toujours impraticables à cause des intempéries du 17 avril",
+    "added_at": "2025-05-04T18:52:12.972Z"
   }
 ]
