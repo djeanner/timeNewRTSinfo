@@ -4114,7 +4114,10 @@
   },
   {
     "title": "La France se rêve en eldorado des data centers, malgré les inquiétudes",
-    "added_at": "2025-05-02T09:52:18.013Z"
+    "added_at": "2025-05-02T09:52:18.013Z",
+    "removed_at": "2025-05-04T08:56:07.707Z",
+    "duration_minutes": 2823,
+    "duration_str": "1d 23h 3m"
   },
   {
     "title": "Les colis de faible valeur venant de Chine ne sont plus exemptés de taxes douanières aux Etats-Unis",
@@ -4597,5 +4600,9 @@
   {
     "title": "Le camp Trump vole au secours du parti allemand AfD, classé à l'extrême droite",
     "added_at": "2025-05-04T08:44:56.622Z"
+  },
+  {
+    "title": "\"Impact de missile\" près de l'aéroport de Tel-Aviv après un tir du Yémen",
+    "added_at": "2025-05-04T08:56:07.707Z"
   }
 ]
