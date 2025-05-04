@@ -1026,7 +1026,10 @@
   },
   {
     "title": "La Ville de Bienne autorise les artisans à stationner sur des places dédiées à la livraison",
-    "added_at": "2025-05-02T10:22:38.484Z"
+    "added_at": "2025-05-02T10:22:38.484Z",
+    "removed_at": "2025-05-04T05:38:44.109Z",
+    "duration_minutes": 2596,
+    "duration_str": "1d 19h 16m"
   },
   {
     "title": "L'armée israélienne annonce avoir bombardé les abords du palais présidentiel syrien",
@@ -1447,5 +1450,9 @@
   {
     "title": "La police britannique déjoue un complot terroriste présumé",
     "added_at": "2025-05-04T03:47:00.109Z"
+  },
+  {
+    "title": "La construction de barrages, remède à la pénurie d'eau en Suisse?",
+    "added_at": "2025-05-04T05:38:44.109Z"
   }
 ]
