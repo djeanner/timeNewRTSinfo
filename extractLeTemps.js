@@ -3,7 +3,7 @@ const path = require('path');
 const cheerio = require('cheerio');
 const COMPUTER_ID = process.env.COMPUTER_ID || 'unknown-computer';
 // === CONFIG ===
-const inputHtmlFile = 'leTemps.html';
+const inputHtmlFile = 'scratch/leTemps.html';
 const outputJsonFileSuf = '2';
 const outputJsonFile = path.join(__dirname, 'data', `card-titles${outputJsonFileSuf}${COMPUTER_ID}.json`);
 
