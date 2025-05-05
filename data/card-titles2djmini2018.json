@@ -1005,7 +1005,10 @@
   },
   {
     "title": "sport:::Le Tour de Romandie, la plus ouverte des grandes courses… ou la plus ennuyeuse?",
-    "added_at": "2025-05-04T17:24:39.680Z"
+    "added_at": "2025-05-04T17:24:39.680Z",
+    "removed_at": "2025-05-05T14:26:35.803Z",
+    "duration_minutes": 1261,
+    "duration_str": "21h 1m"
   },
   {
     "title": "sport:::Le FC Bâle écrase Servette et fonce vers le titre de champion de Suisse",
@@ -1154,7 +1157,10 @@
   },
   {
     "title": "monde:::En Allemagne, l’AfD porte plainte après avoir été classé «extrémiste»",
-    "added_at": "2025-05-05T11:38:06.278Z"
+    "added_at": "2025-05-05T11:38:06.278Z",
+    "removed_at": "2025-05-05T14:19:04.113Z",
+    "duration_minutes": 160,
+    "duration_str": "2h 40m"
   },
   {
     "title": "monde:::«Quelle erreur de ne pas choisir la science!»: Macron et Von der Leyen s’activent pour attirer les chercheurs dégoûtés par Trump",
@@ -1163,5 +1169,13 @@
   {
     "title": "suisse:::Matthieu Wildhaber, expert en rhétorique: «Céline Vara aurait dû partir avec un bon argumentaire dans sa valise»",
     "added_at": "2025-05-05T12:58:33.357Z"
+  },
+  {
+    "title": "monde:::Sauver le beau face à la guerre: à Genève, la lutte passionnée de la Fondation Aliph pour le patrimoine",
+    "added_at": "2025-05-05T14:19:04.113Z"
+  },
+  {
+    "title": "economie:::Face à l’insécurité géopolitique, les faîtières de l’économie estiment qu’il y a urgence à agir",
+    "added_at": "2025-05-05T14:26:35.803Z"
   }
 ]
