@@ -106,7 +106,10 @@
   },
   {
     "title": "monde:::A Gaza, la «mort bruyante» de la journaliste Fatma Hassouna",
-    "added_at": "2025-04-23T15:17:53.838Z"
+    "added_at": "2025-04-23T15:17:53.838Z",
+    "removed_at": "2025-05-05T09:26:24.908Z",
+    "duration_minutes": 16928,
+    "duration_str": "11d 18h 8m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’ONU lance une «évaluation stratégique» de l’UNRWA",
@@ -3181,7 +3184,10 @@
   },
   {
     "title": "monde:::En Roumanie, le candidat d’extrême droite George Simion domine le premier tour de la présidentielle",
-    "added_at": "2025-05-05T04:53:40.366Z"
+    "added_at": "2025-05-05T04:53:40.366Z",
+    "removed_at": "2025-05-05T09:26:24.908Z",
+    "duration_minutes": 272,
+    "duration_str": "4h 32m"
   },
   {
     "title": "suisse:::Benoît Gaillard: ces épreuves qui forgent la résilience",
@@ -3221,5 +3227,9 @@
   {
     "title": "culture:::Laurence Crevoisier, des cordes aux frontières de la conscience",
     "added_at": "2025-05-05T09:06:29.283Z"
+  },
+  {
+    "title": "economie:::Le spectre de la déflation plane sur la Suisse",
+    "added_at": "2025-05-05T09:26:24.908Z"
   }
 ]
