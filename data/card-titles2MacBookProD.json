@@ -1997,7 +1997,10 @@
   },
   {
     "title": "sciences:::En graphiques – Aux Etats-Unis, la fuite des cerveaux a bel et bien commencé",
-    "added_at": "2025-04-30T09:30:38.435Z"
+    "added_at": "2025-04-30T09:30:38.435Z",
+    "removed_at": "2025-05-05T12:59:56.912Z",
+    "duration_minutes": 7409,
+    "duration_str": "5d 3h 29m"
   },
   {
     "title": "sciences:::Quand la science nous offre une recette infaillible de pâtes cacio e pepe",
@@ -3014,10 +3017,7 @@
   },
   {
     "title": "suisse:::Vacances de Céline Vara à Oman: pour un expert en éthique, «la société de 2025 exige une parfaite cohérence»",
-    "added_at": "2025-05-04T13:31:50.808Z",
-    "removed_at": "2025-05-05T09:08:08.325Z",
-    "duration_minutes": 1176,
-    "duration_str": "19h 36m"
+    "added_at": "2025-05-04T13:31:50.808Z"
   },
   {
     "title": "suisse:::Un tremblement de terre de magnitude 3,1 a été ressenti en Valais",
@@ -3242,7 +3242,10 @@
   },
   {
     "title": "economie:::Le spectre de la déflation plane sur la Suisse",
-    "added_at": "2025-05-05T09:26:24.908Z"
+    "added_at": "2025-05-05T09:26:24.908Z",
+    "removed_at": "2025-05-05T12:59:56.912Z",
+    "duration_minutes": 213,
+    "duration_str": "3h 33m"
   },
   {
     "title": "cyber:::Une étude de l’Université de Zurich menée sur Reddit avec de l’IA suscite le malaise dans la recherche",
@@ -3270,5 +3273,9 @@
   {
     "title": "monde:::«Quelle erreur de ne pas choisir la science!»: Macron et Von der Leyen s’activent pour attirer les chercheurs dégoûtés par Trump",
     "added_at": "2025-05-05T12:43:02.856Z"
+  },
+  {
+    "title": "suisse:::Matthieu Wildhaber, expert en rhétorique: «Céline Vara aurait dû partir avec un bon argumentaire dans sa valise»",
+    "added_at": "2025-05-05T12:59:56.912Z"
   }
 ]
