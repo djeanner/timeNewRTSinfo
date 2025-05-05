@@ -13,11 +13,13 @@ while true; do
     wget https://www.letemps.ch -O leTemps.html
     node extractLeTemps.js
 
-    echo "Fetching rts.ch/info..."
+   echo "Fetching rts.ch/info..."
     wget rts.ch/info -O input.html
-
-    echo "Extracting card titles..."
     node extract.js
+
+    echo "Fetching nytimes.com ..."
+    wget nytimes.com -O scratch/inputNY.html
+    node extractNY.js
 
     echo "Waiting for $sleep_time seconds..."
     sleep $sleep_time
