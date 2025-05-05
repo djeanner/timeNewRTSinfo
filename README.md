@@ -12,6 +12,7 @@ Alternatively, it can be run locally with the following instructions:
 # Installation
 ```zsh
 npm install cheerio
+mkdir scratch
 ```
 # Run
 The script 
