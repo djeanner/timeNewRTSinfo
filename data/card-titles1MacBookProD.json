@@ -4444,7 +4444,10 @@
   },
   {
     "title": "Podcast – Le comptable meurtrier de Plan-les-Ouates",
-    "added_at": "2025-05-03T07:29:02.974Z"
+    "added_at": "2025-05-03T07:29:02.974Z",
+    "removed_at": "2025-05-05T09:47:10.329Z",
+    "duration_minutes": 3018,
+    "duration_str": "2d 2h 18m"
   },
   {
     "title": "Une image générée par IA nécessite-t-elle vraiment entre 2 et 5 litres d'eau?",
@@ -4600,10 +4603,7 @@
   },
   {
     "title": "Des combats de MMA entre influenceurs à la patinoire de Fribourg: interview de Volkan Oezdemir",
-    "added_at": "2025-05-03T19:39:14.513Z",
-    "removed_at": "2025-05-05T08:56:55.682Z",
-    "duration_minutes": 2237,
-    "duration_str": "1d 13h 17m"
+    "added_at": "2025-05-03T19:39:14.513Z"
   },
   {
     "title": "La tension toujours au plus haut entre l'Inde et le Pakistan dans le Cachemire",
@@ -4850,5 +4850,9 @@
   {
     "title": "Léon Salin: \"C'est très compliqué d'avoir l'impression d'être un fantôme aux yeux de la loi\"",
     "added_at": "2025-05-05T09:24:30.679Z"
+  },
+  {
+    "title": "Feu vert du Grand Conseil valaisan pour une loi sur la vidéosurveillance",
+    "added_at": "2025-05-05T09:47:10.329Z"
   }
 ]
