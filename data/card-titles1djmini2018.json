@@ -1247,7 +1247,10 @@
   },
   {
     "title": "La ligne ferroviaire directe entre Neuchâtel et la Chaux-de-Fonds retardée de trois ans",
-    "added_at": "2025-05-02T18:06:44.611Z"
+    "added_at": "2025-05-02T18:06:44.611Z",
+    "removed_at": "2025-05-05T06:00:41.727Z",
+    "duration_minutes": 3593,
+    "duration_str": "2d 11h 53m"
   },
   {
     "title": "15'000 agressions sexuelles durant l'Eurovision, le chiffre-choc de Bâle pour sensibiliser",
@@ -1700,5 +1703,9 @@
   {
     "title": "La Russie affirme avoir déjoué une attaque de drones ukrainiens sur Moscou",
     "added_at": "2025-05-05T05:34:34.265Z"
+  },
+  {
+    "title": "Les ventes de vélos sont en baisse en Suisse, mais les réparations cartonnent",
+    "added_at": "2025-05-05T06:00:41.727Z"
   }
 ]
