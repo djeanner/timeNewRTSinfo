@@ -127,10 +127,7 @@
   },
   {
     "title": "monde:::A Gaza, la «mort bruyante» de la journaliste Fatma Hassouna",
-    "added_at": "2025-05-01T08:09:09.743Z",
-    "removed_at": "2025-05-03T06:57:25.608Z",
-    "duration_minutes": 2808,
-    "duration_str": "1d 22h 48m"
+    "added_at": "2025-05-01T08:09:09.743Z"
   },
   {
     "title": "suisse:::Une Eglise peut-elle condamner Israël?",
@@ -1042,11 +1039,17 @@
   },
   {
     "title": "monde:::Guerre en Ukraine – Notre suivi de la semaine du 28 avril au 4 mai 2025",
-    "added_at": "2025-05-04T20:30:56.364Z"
+    "added_at": "2025-05-04T20:30:56.364Z",
+    "removed_at": "2025-05-05T08:24:00.469Z",
+    "duration_minutes": 713,
+    "duration_str": "11h 53m"
   },
   {
     "title": "monde:::Moyen-Orient – Notre suivi de la semaine du 28 avril au 4 mai 2025",
-    "added_at": "2025-05-04T20:34:36.836Z"
+    "added_at": "2025-05-04T20:34:36.836Z",
+    "removed_at": "2025-05-05T08:24:00.469Z",
+    "duration_minutes": 709,
+    "duration_str": "11h 49m"
   },
   {
     "title": "culture:::Près de Düsseldorf, Michael Ringier expose trente ans de coup de cœur pour l’art contemporain",
@@ -1082,5 +1085,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Le cabinet de sécurité israélien approuve la «conquête» de Gaza",
     "added_at": "2025-05-05T08:22:06.649Z"
+  },
+  {
+    "title": "monde:::En direct, Guerre en Ukraine – Volodymyr Zelensky ne «croit pas» que Moscou respecterait une trêve de 3 jours",
+    "added_at": "2025-05-05T08:24:00.469Z"
   }
 ]
