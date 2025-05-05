@@ -1438,7 +1438,10 @@
   },
   {
     "title": "Découvrir Bâle en trois balades culturelles",
-    "added_at": "2025-05-03T12:08:27.036Z"
+    "added_at": "2025-05-03T12:08:27.036Z",
+    "removed_at": "2025-05-05T13:37:53.368Z",
+    "duration_minutes": 2969,
+    "duration_str": "2d 1h 29m"
   },
   {
     "title": "Hofmann et la Suisse cartonnent face à la Finlande",
@@ -1830,5 +1833,9 @@
   {
     "title": "Le blanchiment d'argent, l'un des risques liés aux passeports dorés",
     "added_at": "2025-05-05T12:11:48.494Z"
+  },
+  {
+    "title": "Comment une commune devient-elle \"Cité de l’énergie\"?",
+    "added_at": "2025-05-05T13:37:53.368Z"
   }
 ]
