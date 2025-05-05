@@ -1997,10 +1997,7 @@
   },
   {
     "title": "sciences:::En graphiques – Aux Etats-Unis, la fuite des cerveaux a bel et bien commencé",
-    "added_at": "2025-04-30T09:30:38.435Z",
-    "removed_at": "2025-05-04T09:53:53.064Z",
-    "duration_minutes": 5783,
-    "duration_str": "4d 23m"
+    "added_at": "2025-04-30T09:30:38.435Z"
   },
   {
     "title": "sciences:::Quand la science nous offre une recette infaillible de pâtes cacio e pepe",
@@ -3215,7 +3212,10 @@
   },
   {
     "title": "culture:::«La Haine», généalogie d’un film phénomène",
-    "added_at": "2025-05-05T09:04:39.696Z"
+    "added_at": "2025-05-05T09:04:39.696Z",
+    "removed_at": "2025-05-05T10:43:17.734Z",
+    "duration_minutes": 98,
+    "duration_str": "1h 38m"
   },
   {
     "title": "suisse:::Marie Da Roxa quittera direction de l’Imad à la fin de l’année",
@@ -3226,7 +3226,10 @@
   },
   {
     "title": "culture:::Laurence Crevoisier, des cordes aux frontières de la conscience",
-    "added_at": "2025-05-05T09:06:29.283Z"
+    "added_at": "2025-05-05T09:06:29.283Z",
+    "removed_at": "2025-05-05T10:43:17.734Z",
+    "duration_minutes": 96,
+    "duration_str": "1h 36m"
   },
   {
     "title": "economie:::Le spectre de la déflation plane sur la Suisse",
@@ -3239,5 +3242,9 @@
   {
     "title": "suisse:::Marie Da Roxa quittera la direction de l’Imad à la fin de l’année",
     "added_at": "2025-05-05T10:00:12.651Z"
+  },
+  {
+    "title": "monde:::«Quelle erreur de ne pas choisir la science!»: Macron et von der Leyen s’activent pour attirer les chercheurs dégoûtés par Trump",
+    "added_at": "2025-05-05T10:43:17.734Z"
   }
 ]
