@@ -10,11 +10,11 @@ while true; do
 
   for sleep_time in $sleep_times; do
     echo "Fetching letemps.ch..."
-    wget https://www.letemps.ch -O leTemps.html
+    wget https://www.letemps.ch -O scratch/leTemps.html
     node extractLeTemps.js
 
    echo "Fetching rts.ch/info..."
-    wget rts.ch/info -O input.html
+    wget rts.ch/info -O scratch/input.html
     node extract.js
 
     echo "Fetching nytimes.com ..."
