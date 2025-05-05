@@ -32,8 +32,8 @@ while true; do
   git stash push -m "stash everything except data, html, removed-by-day, removed-by-day2" -- . ':(exclude)data' ':(exclude)html' ':(exclude)removed-by-day' ':(exclude)removed-by-day2'
   git pull
   echo "📤 Committing updates to Git..."
-  git add html/ data/ removed-by-day/ removed-by-day2/
-  git commit -m "update html/ data/ removed-by-day/ removed-by-day2/"
+  git add html/ data/ removed-by-day/ removed-by-day2/ removed-by-day3/
+  git commit -m "update html/ data/ removed-by-day/ removed-by-day2/ removed-by-day3/"
   git push
   git stash pop
 
