@@ -106,10 +106,7 @@
   },
   {
     "title": "sciences:::En graphiques – Aux Etats-Unis, la fuite des cerveaux a bel et bien commencé",
-    "added_at": "2025-05-01T08:09:09.743Z",
-    "removed_at": "2025-05-04T09:53:53.109Z",
-    "duration_minutes": 4424,
-    "duration_str": "3d 1h 44m"
+    "added_at": "2025-05-01T08:09:09.743Z"
   },
   {
     "title": "monde:::Un électeur de Donald Trump: «Je n’ai pas voté pour l’annexion du Groenland ou du Panama»",
@@ -1101,7 +1098,10 @@
   },
   {
     "title": "culture:::Laurence Crevoisier, des cordes aux frontières de la conscience",
-    "added_at": "2025-05-05T09:14:23.894Z"
+    "added_at": "2025-05-05T09:14:23.894Z",
+    "removed_at": "2025-05-05T10:43:45.743Z",
+    "duration_minutes": 89,
+    "duration_str": "1h 29m"
   },
   {
     "title": "suisse:::Marie Da Roxa quittera direction de l’Imad à la fin de l’année",
@@ -1124,6 +1124,13 @@
   },
   {
     "title": "culture:::«La Haine», généalogie d’un film phénomène",
-    "added_at": "2025-05-05T10:02:36.799Z"
+    "added_at": "2025-05-05T10:02:36.799Z",
+    "removed_at": "2025-05-05T10:43:45.743Z",
+    "duration_minutes": 41,
+    "duration_str": "41m"
+  },
+  {
+    "title": "monde:::«Quelle erreur de ne pas choisir la science!»: Macron et von der Leyen s’activent pour attirer les chercheurs dégoûtés par Trump",
+    "added_at": "2025-05-05T10:43:45.743Z"
   }
 ]
