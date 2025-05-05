@@ -3,8 +3,8 @@ const path = require('path');
 const cheerio = require('cheerio');
 const COMPUTER_ID = process.env.COMPUTER_ID || 'unknown-computer';
 // === CONFIG ===
-const inputHtmlFile = 'leTemps.html';
-const outputJsonFileSuf = '2';
+const inputHtmlFile = 'scratch/inputNY.html';
+const outputJsonFileSuf = '3';
 const outputJsonFile = path.join(__dirname, 'data', `card-titles${outputJsonFileSuf}${COMPUTER_ID}.json`);
 
 // === UTILS ===
@@ -33,26 +33,20 @@ const html = fs.readFileSync(inputHtmlFile, 'utf8');
 const $ = cheerio.load(html);
 
 
-const allowedFirstTerms = new Set(['culture', 'monde', 'suisse', 'economie', 'sciences', 'sport', 'cyber']);
 
-
+// === EXTRACT CURRENT TITLES FROM HTML ===
+// === EXTRACT CURRENT TITLES FROM HTML ===
 const foundTitles = new Set();
 
-  $('a[href]').each((_, elem) => {
-    const href = $(elem).attr('href');
-    const title = $(elem).text().trim();
-
-    const match = href.match(/^\/([^\/]+)\/([^\/]+)/);
-    if (match) {
-      const firstTerm = match[1];
-      const secondTerm = match[2];
-
-      if (allowedFirstTerms.has(firstTerm)) {
-        //results.push({ firstTerm, secondTerm, title });
-		foundTitles.add(`${firstTerm}:::${title}`);
-      }
+$('div.css-xdandi').each((_, elem) => {
+  const titleElem = $(elem).find('p[class^="indicate-hover"]');
+  if (titleElem.length) {
+    const title = titleElem.text().trim();
+    if (title) {
+      foundTitles.add(title);
     }
-  });
+  }
+});
 
 // === LOAD EXISTING DATA ===
 let existingTitles = [];
@@ -69,7 +63,6 @@ try {
 } catch {
   console.warn(`⚠️ Could not read or parse ${outputJsonFile}. Starting fresh.`);
 }
-
 // === BUILD MAP FOR QUICK ACCESS ===
 const now = new Date();
 const existingMap = new Map();
