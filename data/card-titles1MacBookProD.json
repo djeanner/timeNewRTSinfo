@@ -4692,7 +4692,10 @@
   },
   {
     "title": "Un militaire grièvement blessé lors d'une manoeuvre au Simplon",
-    "added_at": "2025-05-03T22:37:55.778Z"
+    "added_at": "2025-05-03T22:37:55.778Z",
+    "removed_at": "2025-05-05T17:50:14.120Z",
+    "duration_minutes": 2592,
+    "duration_str": "1d 19h 12m"
   },
   {
     "title": "Loyers inabordables, pénurie de logements, l'avenir des locataires en question",
@@ -4898,7 +4901,10 @@
   },
   {
     "title": "Un plan incluant la \"conquête\" de la bande de Gaza approuvé en Israël",
-    "added_at": "2025-05-05T07:48:36.950Z"
+    "added_at": "2025-05-05T07:48:36.950Z",
+    "removed_at": "2025-05-05T18:03:15.536Z",
+    "duration_minutes": 614,
+    "duration_str": "10h 14m"
   },
   {
     "title": "Dans \"Prendre corps\", Sarah Najjar croque avec tendresse dix métiers de la mort",
@@ -5039,5 +5045,9 @@
   {
     "title": "Triche généralisée, colombe providentielle et toilettes laissées sales: ces conclaves agités qui ont marqué l'Eglise",
     "added_at": "2025-05-05T16:35:16.898Z"
+  },
+  {
+    "title": "Un plan incluant la \"conquête\" de Gaza et le déplacement de sa population approuvé en Israël",
+    "added_at": "2025-05-05T18:03:15.536Z"
   }
 ]
