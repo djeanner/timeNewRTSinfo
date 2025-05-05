@@ -3068,7 +3068,10 @@
   },
   {
     "title": "sport:::João Almeida remporte le Tour de Romandie, Remco Evenepoel l’ultime contre-la-montre",
-    "added_at": "2025-05-04T14:48:11.154Z"
+    "added_at": "2025-05-04T14:48:11.154Z",
+    "removed_at": "2025-05-05T04:31:21.149Z",
+    "duration_minutes": 823,
+    "duration_str": "13h 43m"
   },
   {
     "title": "economie:::La mondialisation est transformée, pas stoppée",
@@ -3115,7 +3118,10 @@
   },
   {
     "title": "sport:::Dans l’ombre de Tadej Pogacar, João Almeida trouve son petit paradis au Tour de Romandie",
-    "added_at": "2025-05-04T17:52:36.872Z"
+    "added_at": "2025-05-04T17:52:36.872Z",
+    "removed_at": "2025-05-05T04:31:21.149Z",
+    "duration_minutes": 638,
+    "duration_str": "10h 38m"
   },
   {
     "title": "economie:::Enrique Martinez: «Le livre reste fondamental pour la Fnac»",
@@ -3150,5 +3156,9 @@
   {
     "title": "culture:::Près de Düsseldorf, Michael Ringier expose trente ans de coup de cœur pour l’art contemporain",
     "added_at": "2025-05-05T04:10:48.165Z"
+  },
+  {
+    "title": "sciences:::Donald Trump lance la très controversée chasse aux trésors miniers des fonds océaniques",
+    "added_at": "2025-05-05T04:31:21.149Z"
   }
 ]
