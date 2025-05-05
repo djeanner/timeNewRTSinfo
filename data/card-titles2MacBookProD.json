@@ -3119,7 +3119,10 @@
   },
   {
     "title": "sport:::Le Tour de Romandie, la plus ouverte des grandes courses… ou la plus ennuyeuse?",
-    "added_at": "2025-05-04T17:24:39.536Z"
+    "added_at": "2025-05-04T17:24:39.536Z",
+    "removed_at": "2025-05-05T14:26:09.008Z",
+    "duration_minutes": 1261,
+    "duration_str": "21h 1m"
   },
   {
     "title": "sport:::Le FC Bâle écrase Servette et fonce vers le titre de champion de Suisse",
@@ -3284,5 +3287,9 @@
   {
     "title": "monde:::Sauver le beau face à la guerre: à Genève, la lutte passionnée de la Fondation Aliph pour le patrimoine",
     "added_at": "2025-05-05T14:20:31.311Z"
+  },
+  {
+    "title": "economie:::Face à l’insécurité géopolitique, les faîtières de l’économie estiment qu’il y a urgence à agir",
+    "added_at": "2025-05-05T14:26:09.008Z"
   }
 ]
