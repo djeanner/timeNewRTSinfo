@@ -1089,7 +1089,10 @@
   },
   {
     "title": "culture:::A l’Arena de Genève, «La Haine» fait son show",
-    "added_at": "2025-05-05T07:03:55.949Z"
+    "added_at": "2025-05-05T07:03:55.949Z",
+    "removed_at": "2025-05-05T09:41:57.385Z",
+    "duration_minutes": 158,
+    "duration_str": "2h 38m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le cabinet de sécurité israélien approuve la «conquête» de Gaza",
@@ -1110,5 +1113,9 @@
   {
     "title": "economie:::Le spectre de la déflation plane sur la Suisse",
     "added_at": "2025-05-05T09:26:58.839Z"
+  },
+  {
+    "title": "cyber:::Une étude de l’Université de Zurich menée sur Reddit avec de l’IA suscite le malaise dans la recherche",
+    "added_at": "2025-05-05T09:41:57.385Z"
   }
 ]
