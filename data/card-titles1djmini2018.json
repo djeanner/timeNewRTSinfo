@@ -1861,7 +1861,10 @@
   },
   {
     "title": "En Valais, de nombreux chemins pédestres sont endommagés après les intempéries",
-    "added_at": "2025-05-05T09:14:24.440Z"
+    "added_at": "2025-05-05T09:14:24.440Z",
+    "removed_at": "2025-05-05T22:49:58.183Z",
+    "duration_minutes": 815,
+    "duration_str": "13h 35m"
   },
   {
     "title": "Léon Salin: \"C'est très compliqué d'avoir l'impression d'être un fantôme aux yeux de la loi\"",
@@ -1956,7 +1959,10 @@
   },
   {
     "title": "Un missile tiré du Yémen en direction d'Israël est tombé à proximité de l'aéroport Ben-Gourion",
-    "added_at": "2025-05-05T14:49:04.677Z"
+    "added_at": "2025-05-05T14:49:04.677Z",
+    "removed_at": "2025-05-05T22:49:58.183Z",
+    "duration_minutes": 480,
+    "duration_str": "8h"
   },
   {
     "title": "Face au \"diktat\" de Donald Trump, la France et l'UE investissent pour attirer les chercheurs",
@@ -2049,5 +2055,13 @@
   {
     "title": "Les CFF reviennent à l'expression \"accident de personne\" pour désigner les suicides ou les accidents",
     "added_at": "2025-05-05T21:07:07.061Z"
+  },
+  {
+    "title": "L'invité de La Matinale - Léon Salin, influenceur et militant transgenre",
+    "added_at": "2025-05-05T22:49:58.183Z"
+  },
+  {
+    "title": "Début du procès pour trafic sexuel du magnat du hip-hop P. Diddy",
+    "added_at": "2025-05-05T22:49:58.183Z"
   }
 ]
