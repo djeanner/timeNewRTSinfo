@@ -4353,7 +4353,10 @@
   },
   {
     "title": "Une voiture percute accidentellement une foule à Stuttgart, faisant un mort et sept blessés",
-    "added_at": "2025-05-02T20:49:03.883Z"
+    "added_at": "2025-05-02T20:49:03.883Z",
+    "removed_at": "2025-05-05T03:09:20.922Z",
+    "duration_minutes": 3260,
+    "duration_str": "2d 6h 20m"
   },
   {
     "title": "Un potentiel sérum universel anti-venin de serpent porteur de grandes promesses",
@@ -4755,5 +4758,9 @@
   {
     "title": "La deuxième édition de l'évènement de MMA \"Influence Fight Club\" a eu lieu ce samedi à la patinoire de Fribourg",
     "added_at": "2025-05-04T23:46:28.096Z"
+  },
+  {
+    "title": "Donald Trump veut rouvrir la prison d'Alcatraz pour y enfermer les criminels les plus dangereux",
+    "added_at": "2025-05-05T03:09:20.922Z"
   }
 ]
