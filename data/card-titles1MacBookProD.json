@@ -4985,7 +4985,10 @@
   },
   {
     "title": "Le ferroutage suisse disparaîtra à la fin de l'année",
-    "added_at": "2025-05-05T14:24:15.346Z"
+    "added_at": "2025-05-05T14:24:15.346Z",
+    "removed_at": "2025-05-05T15:54:05.703Z",
+    "duration_minutes": 89,
+    "duration_str": "1h 29m"
   },
   {
     "title": "À quoi servent les puces électroniques dans les implants mammaires?",
@@ -5018,5 +5021,9 @@
   {
     "title": "L'éducation non-violente devrait bientôt être inscrite dans le code civil",
     "added_at": "2025-05-05T15:42:51.524Z"
+  },
+  {
+    "title": "Le transport de camions par rail s'arrête en Suisse fin 2025, faute de moyens",
+    "added_at": "2025-05-05T15:54:05.703Z"
   }
 ]
