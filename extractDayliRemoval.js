@@ -13,6 +13,11 @@ const configs = [
 		targetYear: 2025,
 		medium: "Le Temps",
 	},
+	{
+		dateFileSuf: 3,
+		targetYear: 2025,
+		medium: "NY Times",
+	},
 ];
 
 const pad = (n) => n.toString().padStart(2, "0");

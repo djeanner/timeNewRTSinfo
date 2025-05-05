@@ -15,9 +15,11 @@ while true; do
 
     echo "Fetching rts.ch/info..."
     wget rts.ch/info -O input.html
-
-    echo "Extracting card titles..."
     node extract.js
+
+    echo "Fetching nytimes.com ..."
+    wget nytimes.com -O scratch/inputNY.html
+    node extractNY.js
 
     echo "Extracting daily removals..."
     node extractDayliRemoval.js
