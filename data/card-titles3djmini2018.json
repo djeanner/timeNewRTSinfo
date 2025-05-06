@@ -1180,7 +1180,10 @@
   },
   {
     "title": "A Dandy Night",
-    "added_at": "2025-05-06T11:01:22.432Z"
+    "added_at": "2025-05-06T11:01:22.432Z",
+    "removed_at": "2025-05-06T19:30:11.656Z",
+    "duration_minutes": 508,
+    "duration_str": "8h 28m"
   },
   {
     "title": "Israel’s ‘Intensive’ Escalation, an Air Traffic Control Crisis, and More",
@@ -1362,7 +1365,10 @@
   },
   {
     "title": "Israel Bombs Yemen’s Main Airport in Retaliation for Houthi Strike",
-    "added_at": "2025-05-06T15:46:40.269Z"
+    "added_at": "2025-05-06T15:46:40.269Z",
+    "removed_at": "2025-05-06T19:24:35.175Z",
+    "duration_minutes": 217,
+    "duration_str": "3h 37m"
   },
   {
     "title": "Merz Is Sworn In as Germany’s Chancellor",
@@ -1485,17 +1491,11 @@
   },
   {
     "title": "Some Giant Law Firms Shy Away From Pro Bono Immigration Cases",
-    "added_at": "2025-05-06T18:35:54.525Z",
-    "removed_at": "2025-05-06T19:02:08.344Z",
-    "duration_minutes": 26,
-    "duration_str": "26m"
+    "added_at": "2025-05-06T18:35:54.525Z"
   },
   {
     "title": "Tense Standoff at New ICE Detention Center as Newark Mayor Joins Protest",
-    "added_at": "2025-05-06T18:35:54.525Z",
-    "removed_at": "2025-05-06T19:02:08.344Z",
-    "duration_minutes": 26,
-    "duration_str": "26m"
+    "added_at": "2025-05-06T18:35:54.525Z"
   },
   {
     "title": "Supreme Court Lets Trump Enforce Transgender Troop Ban as Cases Proceed",
@@ -1534,5 +1534,13 @@
     "removed_at": "2025-05-06T19:02:08.344Z",
     "duration_minutes": 1,
     "duration_str": "1m"
+  },
+  {
+    "title": "U.S. Will Stop Bombing Houthi Militants, President Trump Says",
+    "added_at": "2025-05-06T19:24:35.175Z"
+  },
+  {
+    "title": "What Are Your Questions About the Trump Administration?",
+    "added_at": "2025-05-06T19:30:11.656Z"
   }
 ]
