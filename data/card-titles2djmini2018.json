@@ -1378,7 +1378,10 @@
   },
   {
     "title": "monde:::En direct, Guerre en Ukraine – Moscou et Kiev procèdent à l’échange de 410 prisonniers de guerre au total",
-    "added_at": "2025-05-06T12:49:53.688Z"
+    "added_at": "2025-05-06T12:49:53.688Z",
+    "removed_at": "2025-05-06T18:50:51.844Z",
+    "duration_minutes": 360,
+    "duration_str": "6h"
   },
   {
     "title": "economie:::Benjamin Melman (Rothschild): «Donald Trump veut passer aux baisses d’impôts dès le 4 juillet»",
@@ -1478,5 +1481,9 @@
   {
     "title": "culture:::«Un Monde merveilleux»: Blanche Gardin, des robots, et nous et nous et nous",
     "added_at": "2025-05-06T18:37:48.355Z"
+  },
+  {
+    "title": "monde:::En direct, Guerre en Ukraine – Trois morts et 11 blessés dans une frappe russe à Soumy",
+    "added_at": "2025-05-06T18:50:51.844Z"
   }
 ]
