@@ -1824,7 +1824,10 @@
   },
   {
     "title": "Bâle assomme Servette et, sauf tremblement de terre, plie le championnat",
-    "added_at": "2025-05-04T16:28:47.526Z"
+    "added_at": "2025-05-04T16:28:47.526Z",
+    "removed_at": "2025-05-06T11:23:50.779Z",
+    "duration_minutes": 2575,
+    "duration_str": "1d 18h 55m"
   },
   {
     "title": "La Suisse finit en beauté avant le Mondial",
@@ -2225,5 +2228,9 @@
   {
     "title": "La première pierre du Campus biennois de la Haute école spécialisée enfin posée",
     "added_at": "2025-05-06T11:10:41.075Z"
+  },
+  {
+    "title": "\"Le cahier à spirale\" de Didier Tronchet, l'album d'un retour aux sources",
+    "added_at": "2025-05-06T11:23:50.779Z"
   }
 ]
