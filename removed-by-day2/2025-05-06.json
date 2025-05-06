@@ -174,8 +174,9 @@
   {
     "title": "suisse:::Pas de puce pour les chats",
     "added_at": "2025-05-06T16:37:38.173Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-06T18:28:24.625Z",
+    "duration_minutes": 111,
+    "duration_str": "1h 51m"
   },
   {
     "title": "suisse:::Martin Braichet, le PLR jurassien qui veut reconquérir le siège de Jacques Gerber",
@@ -198,6 +199,12 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Trump annonce l’arrêt des raids américains contre les rebelles au Yémen, qui auraient «capitulé»",
     "added_at": "2025-05-06T17:41:33.716Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Une fondation genevoise au cœur du dispositif de contrôle israélien à Gaza",
+    "added_at": "2025-05-06T18:28:24.625Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
