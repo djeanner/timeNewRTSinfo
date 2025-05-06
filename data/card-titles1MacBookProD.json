@@ -4888,7 +4888,10 @@
   },
   {
     "title": "Almeida remporte la 78e édition; Evenepoel la dernière étape dans la cité de Calvin",
-    "added_at": "2025-05-04T14:35:08.705Z"
+    "added_at": "2025-05-04T14:35:08.705Z",
+    "removed_at": "2025-05-06T10:33:11.594Z",
+    "duration_minutes": 2638,
+    "duration_str": "1d 19h 58m"
   },
   {
     "title": "Bâle assomme Servette et, sauf tremblement de terre, plie le championnat",
@@ -5235,7 +5238,10 @@
   },
   {
     "title": "La Haute École Arc passe à la semaine de quatre jours pour séduire les futurs ingénieurs",
-    "added_at": "2025-05-06T08:20:23.188Z"
+    "added_at": "2025-05-06T08:20:23.188Z",
+    "removed_at": "2025-05-06T10:36:55.019Z",
+    "duration_minutes": 136,
+    "duration_str": "2h 16m"
   },
   {
     "title": "Le vinyle, cet objet tangible qui séduit la génération du streaming",
@@ -5263,5 +5269,13 @@
   {
     "title": "Secret absolu, rituel codifié et bulletins de vote brûlés: le programme du conclave pour élire le prochain pape",
     "added_at": "2025-05-06T09:57:38.130Z"
+  },
+  {
+    "title": "Un juge cantonal de 72 ans non réélu par le Grand Conseil valaisan",
+    "added_at": "2025-05-06T10:33:11.594Z"
+  },
+  {
+    "title": "La Haute Ecole Arc passe à la semaine de quatre jours pour séduire les futurs ingénieurs",
+    "added_at": "2025-05-06T10:36:55.019Z"
   }
 ]
