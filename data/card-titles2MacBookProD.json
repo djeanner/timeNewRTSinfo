@@ -3294,7 +3294,10 @@
   },
   {
     "title": "monde:::En direct, Guerre en Ukraine – Des attaques de drones ukrainiennes dans la région de Koursk font trois morts",
-    "added_at": "2025-05-05T11:05:49.463Z"
+    "added_at": "2025-05-05T11:05:49.463Z",
+    "removed_at": "2025-05-06T03:13:32.950Z",
+    "duration_minutes": 967,
+    "duration_str": "16h 7m"
   },
   {
     "title": "monde:::En Allemagne, l’AfD porte plainte après avoir été classé «extrémiste»",
@@ -3364,5 +3367,9 @@
   {
     "title": "economie:::UBS va payer 420 millions de francs à la justice américaine pour Credit Suisse",
     "added_at": "2025-05-05T22:21:35.622Z"
+  },
+  {
+    "title": "monde:::En direct, Guerre en Ukraine – La Russie visée par des dizaines de drones ukrainiens",
+    "added_at": "2025-05-06T03:13:32.950Z"
   }
 ]
