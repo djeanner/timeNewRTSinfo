@@ -4748,7 +4748,10 @@
   },
   {
     "title": "Manifestations pro et anti avortement à Genève",
-    "added_at": "2025-05-04T03:39:36.700Z"
+    "added_at": "2025-05-04T03:39:36.700Z",
+    "removed_at": "2025-05-06T09:50:12.870Z",
+    "duration_minutes": 3250,
+    "duration_str": "2d 6h 10m"
   },
   {
     "title": "La police britannique déjoue un complot terroriste présumé",
@@ -4809,7 +4812,10 @@
   },
   {
     "title": "Le camp Trump vole au secours du parti allemand AfD, classé à l'extrême droite",
-    "added_at": "2025-05-04T08:44:56.622Z"
+    "added_at": "2025-05-04T08:44:56.622Z",
+    "removed_at": "2025-05-06T09:50:12.870Z",
+    "duration_minutes": 2945,
+    "duration_str": "2d 1h 5m"
   },
   {
     "title": "\"Impact de missile\" près de l'aéroport de Tel-Aviv après un tir du Yémen",
@@ -4976,10 +4982,7 @@
   },
   {
     "title": "En Valais, de nombreux chemins pédestres sont endommagés après les intempéries",
-    "added_at": "2025-05-05T08:56:55.682Z",
-    "removed_at": "2025-05-06T06:48:39.783Z",
-    "duration_minutes": 1311,
-    "duration_str": "21h 51m"
+    "added_at": "2025-05-05T08:56:55.682Z"
   },
   {
     "title": "Début du procès de la star du hip-hop P. Diddy qui risque la prison à vie",
@@ -5078,10 +5081,7 @@
   },
   {
     "title": "Un missile tiré du Yémen en direction d'Israël est tombé à proximité de l'aéroport Ben-Gourion",
-    "added_at": "2025-05-05T14:48:36.565Z",
-    "removed_at": "2025-05-05T22:49:39.097Z",
-    "duration_minutes": 481,
-    "duration_str": "8h 1m"
+    "added_at": "2025-05-05T14:48:36.565Z"
   },
   {
     "title": "Face au \"diktat\" de Donald Trump, la France et l'UE investissent pour attirer les chercheurs",
@@ -5221,7 +5221,10 @@
   },
   {
     "title": "Secret absolu, prières intermittentes et bulletins de vote brûlés: le programme du conclave pour élire le prochain pape",
-    "added_at": "2025-05-06T08:09:10.617Z"
+    "added_at": "2025-05-06T08:09:10.617Z",
+    "removed_at": "2025-05-06T09:57:38.130Z",
+    "duration_minutes": 108,
+    "duration_str": "1h 48m"
   },
   {
     "title": "Le vinyle, cet objet tangible qui séduit de plus en plus la génération du streaming",
@@ -5256,5 +5259,9 @@
   {
     "title": "Un projet mêlant agriculture, écologie et tourisme divise Château-d'Œx",
     "added_at": "2025-05-06T09:44:35.432Z"
+  },
+  {
+    "title": "Secret absolu, rituel codifié et bulletins de vote brûlés: le programme du conclave pour élire le prochain pape",
+    "added_at": "2025-05-06T09:57:38.130Z"
   }
 ]
