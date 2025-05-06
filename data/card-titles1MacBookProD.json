@@ -4781,7 +4781,10 @@
   },
   {
     "title": "Podcast - A quoi servent les jardins botaniques?",
-    "added_at": "2025-05-04T08:30:05.895Z"
+    "added_at": "2025-05-04T08:30:05.895Z",
+    "removed_at": "2025-05-06T02:38:03.361Z",
+    "duration_minutes": 2527,
+    "duration_str": "1d 18h 7m"
   },
   {
     "title": "Le camp Trump vole au secours du parti allemand AfD, classé à l'extrême droite",
@@ -5143,5 +5146,9 @@
   {
     "title": "Début du procès pour trafic sexuel du magnat du hip-hop P. Diddy",
     "added_at": "2025-05-05T22:49:39.097Z"
+  },
+  {
+    "title": "UBS va payer plus de 500 millions de dollars à la justice américaine pour Credit Suisse",
+    "added_at": "2025-05-06T02:38:03.361Z"
   }
 ]
