@@ -254,10 +254,7 @@
   },
   {
     "title": "monde:::Entre l’Ukraine et les Etats-Unis, un accord qui permet avant tout de limiter la casse",
-    "added_at": "2025-05-01T15:31:34.407Z",
-    "removed_at": "2025-05-03T10:07:22.577Z",
-    "duration_minutes": 2555,
-    "duration_str": "1d 18h 35m"
+    "added_at": "2025-05-01T15:31:34.407Z"
   },
   {
     "title": "economie:::Trois jours après le black-out en Espagne, les milieux énergétiques se perdent en conjectures",
@@ -1205,7 +1202,10 @@
   },
   {
     "title": "monde:::Sauver le beau face à la guerre: à Genève, la lutte passionnée de la Fondation Aliph pour le patrimoine",
-    "added_at": "2025-05-05T14:19:04.113Z"
+    "added_at": "2025-05-05T14:19:04.113Z",
+    "removed_at": "2025-05-06T05:58:10.191Z",
+    "duration_minutes": 939,
+    "duration_str": "15h 39m"
   },
   {
     "title": "economie:::Face à l’insécurité géopolitique, les faîtières de l’économie estiment qu’il y a urgence à agir",
@@ -1262,7 +1262,10 @@
   },
   {
     "title": "monde:::En direct, Guerre en Ukraine – La Russie visée par des dizaines de drones ukrainiens",
-    "added_at": "2025-05-06T03:13:35.053Z"
+    "added_at": "2025-05-06T03:13:35.053Z",
+    "removed_at": "2025-05-06T05:56:15.272Z",
+    "duration_minutes": 162,
+    "duration_str": "2h 42m"
   },
   {
     "title": "suisse:::Récupération politique ou réponse crédible? La question du nucléaire relancée par le black-out espagnol",
@@ -1275,5 +1278,9 @@
   {
     "title": "economie:::Les levées de fonds pour les biotechs ont augmenté en 2024, mais toutes n’en bénéficient pas",
     "added_at": "2025-05-06T05:30:08.675Z"
+  },
+  {
+    "title": "monde:::En direct, Guerre en Ukraine – Plus d'une centaine de drones ukrainiens ont visé la Russie",
+    "added_at": "2025-05-06T05:56:15.272Z"
   }
 ]
