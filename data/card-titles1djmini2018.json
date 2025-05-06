@@ -1661,7 +1661,10 @@
   },
   {
     "title": "Manifestations pro et anti avortement à Genève",
-    "added_at": "2025-05-04T03:39:36.855Z"
+    "added_at": "2025-05-04T03:39:36.855Z",
+    "removed_at": "2025-05-06T09:50:10.706Z",
+    "duration_minutes": 3250,
+    "duration_str": "2d 6h 10m"
   },
   {
     "title": "La police britannique déjoue un complot terroriste présumé",
@@ -1729,7 +1732,10 @@
   },
   {
     "title": "Le camp Trump vole au secours du parti allemand AfD, classé à l'extrême droite",
-    "added_at": "2025-05-04T08:44:57.220Z"
+    "added_at": "2025-05-04T08:44:57.220Z",
+    "removed_at": "2025-05-06T09:50:10.706Z",
+    "duration_minutes": 2945,
+    "duration_str": "2d 1h 5m"
   },
   {
     "title": "\"Impact de missile\" près de l'aéroport de Tel-Aviv après un tir du Yémen",
@@ -1900,10 +1906,7 @@
   },
   {
     "title": "En Valais, de nombreux chemins pédestres sont endommagés après les intempéries",
-    "added_at": "2025-05-05T09:14:24.440Z",
-    "removed_at": "2025-05-06T06:48:41.539Z",
-    "duration_minutes": 1294,
-    "duration_str": "21h 34m"
+    "added_at": "2025-05-05T09:14:24.440Z"
   },
   {
     "title": "Léon Salin: \"C'est très compliqué d'avoir l'impression d'être un fantôme aux yeux de la loi\"",
@@ -1998,10 +2001,7 @@
   },
   {
     "title": "Un missile tiré du Yémen en direction d'Israël est tombé à proximité de l'aéroport Ben-Gourion",
-    "added_at": "2025-05-05T14:49:04.677Z",
-    "removed_at": "2025-05-05T22:49:58.183Z",
-    "duration_minutes": 480,
-    "duration_str": "8h"
+    "added_at": "2025-05-05T14:49:04.677Z"
   },
   {
     "title": "Face au \"diktat\" de Donald Trump, la France et l'UE investissent pour attirer les chercheurs",
@@ -2164,10 +2164,17 @@
   },
   {
     "title": "Un projet original mêlant agriculture, écologie et tourisme divise Château-d'Œx",
-    "added_at": "2025-05-06T08:44:41.179Z"
+    "added_at": "2025-05-06T08:44:41.179Z",
+    "removed_at": "2025-05-06T09:44:33.704Z",
+    "duration_minutes": 59,
+    "duration_str": "59m"
   },
   {
     "title": "L'ONU alarmée par le ralentissement inattendu du développement humain post-Covid",
     "added_at": "2025-05-06T09:18:22.055Z"
+  },
+  {
+    "title": "Un projet mêlant agriculture, écologie et tourisme divise Château-d'Œx",
+    "added_at": "2025-05-06T09:44:33.704Z"
   }
 ]
