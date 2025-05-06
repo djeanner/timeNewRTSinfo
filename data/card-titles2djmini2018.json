@@ -1275,7 +1275,10 @@
   },
   {
     "title": "culture:::Crêpes, fruits et légumes à BDFIL",
-    "added_at": "2025-05-05T20:14:50.637Z"
+    "added_at": "2025-05-05T20:14:50.637Z",
+    "removed_at": "2025-05-06T12:06:51.133Z",
+    "duration_minutes": 952,
+    "duration_str": "15h 52m"
   },
   {
     "title": "economie:::UBS va payer 420 millions de francs à la justice américaine pour Credit Suisse",
@@ -1340,5 +1343,9 @@
   {
     "title": "monde:::Friedrich Merz échoue à être élu chancelier allemand dès le premier tour",
     "added_at": "2025-05-06T09:29:35.232Z"
+  },
+  {
+    "title": "monde:::Un casse-tête administratif hors de prix et sans requins: pourquoi Donald Trump ne gagnerait rien à rouvrir Alcatraz",
+    "added_at": "2025-05-06T12:06:51.133Z"
   }
 ]
