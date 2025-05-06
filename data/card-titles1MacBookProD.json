@@ -5365,7 +5365,10 @@
   },
   {
     "title": "Le vote sur l'installation de caméras vers la gare de Vevey aura lieu le 29 juin",
-    "added_at": "2025-05-06T14:23:27.681Z"
+    "added_at": "2025-05-06T14:23:27.681Z",
+    "removed_at": "2025-05-06T15:22:41.478Z",
+    "duration_minutes": 59,
+    "duration_str": "59m"
   },
   {
     "title": "En Allemagne, Friedrich Merz élu chancelier après un deuxième vote du Bundestag",
@@ -5380,10 +5383,35 @@
   },
   {
     "title": "L'armée israélienne dit avoir frappé l'aéroport de Sanaa, au Yémen",
-    "added_at": "2025-05-06T14:52:03.911Z"
+    "added_at": "2025-05-06T14:52:03.911Z",
+    "removed_at": "2025-05-06T15:17:05.363Z",
+    "duration_minutes": 25,
+    "duration_str": "25m"
   },
   {
     "title": "En Allemagne, Friedrich Merz finalement élu chancelier au terme d'un second vote du Bundestag",
-    "added_at": "2025-05-06T15:03:23.164Z"
+    "added_at": "2025-05-06T15:03:23.164Z",
+    "removed_at": "2025-05-06T15:13:14.649Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "En Allemagne, Friedrich Merz élu chancelier par le Bundestag après un désaveu au premier tour",
+    "added_at": "2025-05-06T15:13:14.649Z"
+  },
+  {
+    "title": "L'armée israélienne a frappé l'aéroport de Sanaa, au Yémen",
+    "added_at": "2025-05-06T15:17:05.363Z",
+    "removed_at": "2025-05-06T15:18:54.048Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "L'armée israélienne frappe l'aéroport de Sanaa, au Yémen, et le met hors service",
+    "added_at": "2025-05-06T15:18:54.048Z"
+  },
+  {
+    "title": "Le vote sur l'installation de caméras à la gare de Vevey aura lieu le 29 juin",
+    "added_at": "2025-05-06T15:22:41.478Z"
   }
 ]
