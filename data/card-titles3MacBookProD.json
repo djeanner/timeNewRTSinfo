@@ -573,11 +573,17 @@
   },
   {
     "title": "Buy American? No Thanks, Europe Says, as Tariff Backlash Grows.",
-    "added_at": "2025-05-05T15:39:08.250Z"
+    "added_at": "2025-05-05T15:39:08.250Z",
+    "removed_at": "2025-05-06T01:32:29.221Z",
+    "duration_minutes": 593,
+    "duration_str": "9h 53m"
   },
   {
     "title": "Trump Administration Offers to Pay Immigrants Who Deport Themselves",
-    "added_at": "2025-05-05T15:42:51.932Z"
+    "added_at": "2025-05-05T15:42:51.932Z",
+    "removed_at": "2025-05-06T01:32:29.221Z",
+    "duration_minutes": 589,
+    "duration_str": "9h 49m"
   },
   {
     "title": "At Least 3 Killed and 5 Injured in Shooting at Arizona Restaurant",
@@ -707,16 +713,16 @@
   {
     "title": "University President Who Shut Down D.E.I. Efforts Is Recruited to Florida",
     "added_at": "2025-05-05T20:33:06.287Z",
-    "removed_at": "2025-05-06T00:23:17.222Z",
-    "duration_minutes": 230,
-    "duration_str": "3h 50m"
+    "removed_at": "2025-05-06T01:28:45.309Z",
+    "duration_minutes": 295,
+    "duration_str": "4h 55m"
   },
   {
     "title": "OpenAI Backtracks on Plans to Drop Nonprofit Control",
     "added_at": "2025-05-05T20:33:06.287Z",
-    "removed_at": "2025-05-06T00:23:17.222Z",
-    "duration_minutes": 230,
-    "duration_str": "3h 50m"
+    "removed_at": "2025-05-06T01:28:45.309Z",
+    "duration_minutes": 295,
+    "duration_str": "4h 55m"
   },
   {
     "title": "Did Cuomo’s ‘Message for Voters’ Violate Campaign Finance Rules?",
@@ -742,9 +748,9 @@
   {
     "title": "Watch a Meteor Shower Made by Halley’s Comet",
     "added_at": "2025-05-05T20:33:06.287Z",
-    "removed_at": "2025-05-06T00:23:17.222Z",
-    "duration_minutes": 230,
-    "duration_str": "3h 50m"
+    "removed_at": "2025-05-06T01:28:45.309Z",
+    "duration_minutes": 295,
+    "duration_str": "4h 55m"
   },
   {
     "title": "Trump Denies Posting Image of Himself as the Pope",
@@ -872,16 +878,16 @@
   {
     "title": "Trump Administration Disqualifies Harvard From Future Research Grants",
     "added_at": "2025-05-06T00:21:22.290Z",
-    "removed_at": "2025-05-06T00:23:17.222Z",
-    "duration_minutes": 1,
-    "duration_str": "1m"
+    "removed_at": "2025-05-06T01:28:45.309Z",
+    "duration_minutes": 67,
+    "duration_str": "1h 7m"
   },
   {
     "title": "States Are Tightening Rules for Getting Citizen-Led Proposals on the Ballot",
     "added_at": "2025-05-06T00:21:22.290Z",
-    "removed_at": "2025-05-06T00:23:17.222Z",
-    "duration_minutes": 1,
-    "duration_str": "1m"
+    "removed_at": "2025-05-06T01:28:45.309Z",
+    "duration_minutes": 67,
+    "duration_str": "1h 7m"
   },
   {
     "title": "Judge Orders Elections Board to Certify Democrat’s Victory in N.C. Race",
@@ -898,5 +904,12 @@
   {
     "title": "13 Workers Found Killed at Gold Mine in Peru",
     "added_at": "2025-05-06T01:04:22.730Z"
+  },
+  {
+    "title": "Bodies of 13 Workers Found at Gold Mine in Peru",
+    "added_at": "2025-05-06T01:26:52.621Z",
+    "removed_at": "2025-05-06T01:28:45.309Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
   }
 ]
