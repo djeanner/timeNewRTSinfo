@@ -1848,7 +1848,10 @@
   },
   {
     "title": "Accords Suisse-UE: la gestion du Conseil fédéral critiquée",
-    "added_at": "2025-05-04T17:33:57.885Z"
+    "added_at": "2025-05-04T17:33:57.885Z",
+    "removed_at": "2025-05-06T14:23:33.202Z",
+    "duration_minutes": 2689,
+    "duration_str": "1d 20h 49m"
   },
   {
     "title": "En Valais, des sentiers toujours impraticables à cause des intempéries du 17 avril",
@@ -2199,7 +2202,10 @@
   },
   {
     "title": "En Allemagne, Friedrich Merz échoue à être élu chancelier au premier tour",
-    "added_at": "2025-05-06T08:39:04.346Z"
+    "added_at": "2025-05-06T08:39:04.346Z",
+    "removed_at": "2025-05-06T14:25:22.205Z",
+    "duration_minutes": 346,
+    "duration_str": "5h 46m"
   },
   {
     "title": "Un projet original mêlant agriculture, écologie et tourisme divise Château-d'Œx",
@@ -2267,5 +2273,13 @@
   {
     "title": "Des additifs de pneus retrouvés sur les fruits et légumes consommés en Suisse",
     "added_at": "2025-05-06T13:23:36.349Z"
+  },
+  {
+    "title": "Le vote sur l'installation de caméras vers la gare de Vevey aura lieu le 29 juin",
+    "added_at": "2025-05-06T14:23:33.202Z"
+  },
+  {
+    "title": "En Allemagne, Friedrich Merz élu chancelier après un deuxième vote du Bundestag",
+    "added_at": "2025-05-06T14:25:22.205Z"
   }
 ]
