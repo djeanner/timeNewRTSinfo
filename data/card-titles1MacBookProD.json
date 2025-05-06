@@ -4512,7 +4512,10 @@
   },
   {
     "title": "En Bolivie amazonienne, un avion atterrit d'urgence dans un marais infesté de caïmans",
-    "added_at": "2025-05-03T10:39:01.635Z"
+    "added_at": "2025-05-03T10:39:01.635Z",
+    "removed_at": "2025-05-06T18:52:42.816Z",
+    "duration_minutes": 4813,
+    "duration_str": "3d 8h 13m"
   },
   {
     "title": "Le gouvernement australien de centre gauche remporte les législatives",
@@ -4894,7 +4897,10 @@
   },
   {
     "title": "Un projet de tunnel privé de l'héritier de Porsche provoque des remous à Salzbourg",
-    "added_at": "2025-05-04T14:05:23.527Z"
+    "added_at": "2025-05-04T14:05:23.527Z",
+    "removed_at": "2025-05-06T18:52:42.816Z",
+    "duration_minutes": 3167,
+    "duration_str": "2d 4h 47m"
   },
   {
     "title": "Les arts de la scène à Bâle, \"un jardin exquis qui pousse un peu à l'ombre\"",
@@ -5447,10 +5453,24 @@
   },
   {
     "title": "Oman annonce un cessez-le-feu entre les Houthis et les Etats-Unis",
-    "added_at": "2025-05-06T18:47:04.972Z"
+    "added_at": "2025-05-06T18:47:04.972Z",
+    "removed_at": "2025-05-06T18:50:53.961Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
   },
   {
     "title": "Dix ans après sa création, le Centre Suisse Islam et Société fait consensus à Fribourg",
     "added_at": "2025-05-06T18:47:04.972Z"
+  },
+  {
+    "title": "Le sultanat d'Oman annonce un cessez-le-feu entre les Houthis et les Etats-Unis au Yémen",
+    "added_at": "2025-05-06T18:50:53.961Z",
+    "removed_at": "2025-05-06T19:00:12.643Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Un cessez-le-feu conclu au Yémen entre les Houthis et les Etats-Unis, annonce le sultanat d'Oman",
+    "added_at": "2025-05-06T19:00:12.643Z"
   }
 ]
