@@ -1898,7 +1898,10 @@
   },
   {
     "title": "Guerre à Gaza: Israël rappelle des dizaines de milliers de réservistes",
-    "added_at": "2025-05-04T23:46:27.882Z"
+    "added_at": "2025-05-04T23:46:27.882Z",
+    "removed_at": "2025-05-06T21:56:11.388Z",
+    "duration_minutes": 2769,
+    "duration_str": "1d 22h 9m"
   },
   {
     "title": "La deuxième édition de l'évènement de MMA \"Influence Fight Club\" a eu lieu ce samedi à la patinoire de Fribourg",
@@ -1969,10 +1972,7 @@
   },
   {
     "title": "En Valais, de nombreux chemins pédestres sont endommagés après les intempéries",
-    "added_at": "2025-05-05T09:14:24.440Z",
-    "removed_at": "2025-05-06T12:53:42.085Z",
-    "duration_minutes": 1659,
-    "duration_str": "1d 3h 39m"
+    "added_at": "2025-05-05T09:14:24.440Z"
   },
   {
     "title": "Léon Salin: \"C'est très compliqué d'avoir l'impression d'être un fantôme aux yeux de la loi\"",
@@ -2006,7 +2006,10 @@
   },
   {
     "title": "L'UNIL et l'EPFL autorisés à ne plus reconnaître la société masculine Zofingue comme association",
-    "added_at": "2025-05-05T11:13:44.504Z"
+    "added_at": "2025-05-05T11:13:44.504Z",
+    "removed_at": "2025-05-06T21:54:21.979Z",
+    "duration_minutes": 2080,
+    "duration_str": "1d 10h 40m"
   },
   {
     "title": "L'inflation a été nulle en avril, portée par le franc fort et la chute de certaines dépenses",
@@ -2430,6 +2433,21 @@
   },
   {
     "title": "L'Inde a frappé des sites \"terroristes\" au Pakistan avec des missiles",
-    "added_at": "2025-05-06T21:09:25.958Z"
+    "added_at": "2025-05-06T21:09:25.958Z",
+    "removed_at": "2025-05-06T21:56:11.388Z",
+    "duration_minutes": 46,
+    "duration_str": "46m"
+  },
+  {
+    "title": "En Allemagne, l'AfD va diriger pour la première fois une collectivité territoriale",
+    "added_at": "2025-05-06T21:52:26.775Z"
+  },
+  {
+    "title": "L'Inter et Yann Sommer renversent Barcelone au terme d'un match fou",
+    "added_at": "2025-05-06T21:54:21.979Z"
+  },
+  {
+    "title": "Escalade militaire entre l’Inde et le Pakistan après des frappes croisées",
+    "added_at": "2025-05-06T21:56:11.388Z"
   }
 ]
