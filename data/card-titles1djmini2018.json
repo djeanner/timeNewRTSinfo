@@ -1897,7 +1897,10 @@
   },
   {
     "title": "La Russie affirme avoir déjoué une attaque de drones ukrainiens sur Moscou",
-    "added_at": "2025-05-05T05:34:34.265Z"
+    "added_at": "2025-05-05T05:34:34.265Z",
+    "removed_at": "2025-05-06T14:38:29.415Z",
+    "duration_minutes": 1983,
+    "duration_str": "1d 9h 3m"
   },
   {
     "title": "Les ventes de vélos sont en baisse en Suisse, mais les réparations cartonnent",
@@ -2281,5 +2284,9 @@
   {
     "title": "En Allemagne, Friedrich Merz élu chancelier après un deuxième vote du Bundestag",
     "added_at": "2025-05-06T14:25:22.205Z"
+  },
+  {
+    "title": "\"Leila\", un jeu vidéo comme un voyage existentiel et introspectif",
+    "added_at": "2025-05-06T14:38:29.415Z"
   }
 ]
