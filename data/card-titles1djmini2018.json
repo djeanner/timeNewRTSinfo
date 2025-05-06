@@ -1846,7 +1846,10 @@
   },
   {
     "title": "En Valais, des sentiers toujours impraticables à cause des intempéries du 17 avril",
-    "added_at": "2025-05-04T18:52:12.972Z"
+    "added_at": "2025-05-04T18:52:12.972Z",
+    "removed_at": "2025-05-06T12:33:03.681Z",
+    "duration_minutes": 2500,
+    "duration_str": "1d 17h 40m"
   },
   {
     "title": "Le candidat d'extrême droite George Simion remporte le premier tour de la présidentielle roumaine",
@@ -2236,5 +2239,9 @@
   {
     "title": "L'accueil extrafamilial sera soutenu via une nouvelle allocation de garde pour les enfants jusqu'à huit ans",
     "added_at": "2025-05-06T12:25:37.595Z"
+  },
+  {
+    "title": "Le nombre de cyberincidents signalés en Suisse a nettement augmenté en 2024",
+    "added_at": "2025-05-06T12:33:03.681Z"
   }
 ]
