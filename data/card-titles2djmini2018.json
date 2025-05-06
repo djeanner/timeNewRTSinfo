@@ -752,10 +752,7 @@
   },
   {
     "title": "economie:::En Europe, les black-out ont été jusqu’à présent très rares",
-    "added_at": "2025-05-03T19:01:56.739Z",
-    "removed_at": "2025-05-04T16:26:53.416Z",
-    "duration_minutes": 1284,
-    "duration_str": "21h 24m"
+    "added_at": "2025-05-03T19:01:56.739Z"
   },
   {
     "title": "monde:::Conflits au Moyen-Orient – L’armée israélienne annonce s’être déployée dans le sud de la Syrie",
@@ -1217,7 +1214,10 @@
   },
   {
     "title": "sciences:::L’histoire millénaire des marsouins du Yangtsé racontée par les poètes chinois",
-    "added_at": "2025-05-05T15:26:28.685Z"
+    "added_at": "2025-05-05T15:26:28.685Z",
+    "removed_at": "2025-05-06T04:09:40.589Z",
+    "duration_minutes": 763,
+    "duration_str": "12h 43m"
   },
   {
     "title": "economie:::Augmenter ses prix aux Etats-Unis, un exercice difficile pour les entreprises suisses",
@@ -1257,5 +1257,16 @@
   {
     "title": "monde:::En direct, Guerre en Ukraine – La Russie visée par des dizaines de drones ukrainiens",
     "added_at": "2025-05-06T03:13:35.053Z"
+  },
+  {
+    "title": "suisse:::Récupération politique ou réponse crédible? La question du nucléaire relancée par le black-out espagnol",
+    "added_at": "2025-05-06T04:09:40.589Z"
+  },
+  {
+    "title": "economie:::Le solaire ne fragilise pas le réseau, selon les experts",
+    "added_at": "2025-05-06T04:09:40.589Z",
+    "removed_at": "2025-05-06T04:19:00.630Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
   }
 ]
