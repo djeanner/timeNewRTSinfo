@@ -3551,7 +3551,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël frappe les rebelles houtis au Yémen, l’aéroport de Sanaa «hors service»",
-    "added_at": "2025-05-06T16:35:46.058Z"
+    "added_at": "2025-05-06T16:35:46.058Z",
+    "removed_at": "2025-05-06T17:41:33.716Z",
+    "duration_minutes": 65,
+    "duration_str": "1h 5m"
   },
   {
     "title": "suisse:::Pas de puce pour les chats",
@@ -3568,5 +3571,9 @@
   {
     "title": "cyber:::La Confédération en fait-elle assez pour protéger la population contre les cybercriminels?",
     "added_at": "2025-05-06T17:13:27.732Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Trump annonce l’arrêt des raids américains contre les rebelles au Yémen, qui auraient «capitulé»",
+    "added_at": "2025-05-06T17:41:33.716Z"
   }
 ]
