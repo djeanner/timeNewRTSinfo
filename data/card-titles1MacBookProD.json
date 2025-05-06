@@ -5002,7 +5002,10 @@
   },
   {
     "title": "Les ventes de vélos sont en baisse en Suisse, mais les réparations cartonnent",
-    "added_at": "2025-05-05T06:00:41.755Z"
+    "added_at": "2025-05-05T06:00:41.755Z",
+    "removed_at": "2025-05-06T20:50:42.526Z",
+    "duration_minutes": 2330,
+    "duration_str": "1d 14h 50m"
   },
   {
     "title": "Un attentat a été déjoué au concert de Lady Gaga au Brésil",
@@ -5497,5 +5500,9 @@
   {
     "title": "La seconde main gagne du terrain face à la mode jetable en Suisse",
     "added_at": "2025-05-06T19:39:34.433Z"
+  },
+  {
+    "title": "L'Inde déclare la guerre de l'eau au Pakistan en riposte à l'attentat au Cachemire",
+    "added_at": "2025-05-06T20:50:42.526Z"
   }
 ]
