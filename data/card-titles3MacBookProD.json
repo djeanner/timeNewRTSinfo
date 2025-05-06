@@ -1620,7 +1620,10 @@
   },
   {
     "title": "Inter Milan Face Barcelona in the Champions League Semifinal",
-    "added_at": "2025-05-06T19:52:42.949Z"
+    "added_at": "2025-05-06T19:52:42.949Z",
+    "removed_at": "2025-05-06T20:45:05.249Z",
+    "duration_minutes": 52,
+    "duration_str": "52m"
   },
   {
     "title": "Germany Gets a New Chancellor, in Unexpectedly Dramatic Fashion",
@@ -1633,5 +1636,9 @@
   {
     "title": "Explosions Reported in Pakistani Kashmir After India’s Vow of Retaliation",
     "added_at": "2025-05-06T20:28:14.790Z"
+  },
+  {
+    "title": "Inter Milan Faces Barcelona in the Champions League Semifinal",
+    "added_at": "2025-05-06T20:39:29.014Z"
   }
 ]
