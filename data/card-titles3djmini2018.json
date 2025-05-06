@@ -1185,7 +1185,10 @@
   },
   {
     "title": "Who Is Friedrich Merz?",
-    "added_at": "2025-05-06T11:01:22.432Z"
+    "added_at": "2025-05-06T11:01:22.432Z",
+    "removed_at": "2025-05-06T20:52:35.999Z",
+    "duration_minutes": 591,
+    "duration_str": "9h 51m"
   },
   {
     "title": "A Dandy Night",
@@ -1571,7 +1574,10 @@
   },
   {
     "title": "Inter Milan Face Barcelona in the Champions League Semifinal",
-    "added_at": "2025-05-06T19:50:49.200Z"
+    "added_at": "2025-05-06T19:50:49.200Z",
+    "removed_at": "2025-05-06T20:39:28.203Z",
+    "duration_minutes": 48,
+    "duration_str": "48m"
   },
   {
     "title": "$750 Million to Be Paid to Women Who Were Sexually Abused by Doctor",
@@ -1598,5 +1604,9 @@
   {
     "title": "Explosions Reported in Pakistani Kashmir After India’s Vow of Retaliation",
     "added_at": "2025-05-06T20:30:09.579Z"
+  },
+  {
+    "title": "Inter Milan Faces Barcelona in the Champions League Semifinal",
+    "added_at": "2025-05-06T20:39:28.203Z"
   }
 ]
