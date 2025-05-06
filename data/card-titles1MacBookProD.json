@@ -4978,7 +4978,10 @@
   },
   {
     "title": "Guerre à Gaza: Israël rappelle des dizaines de milliers de réservistes",
-    "added_at": "2025-05-04T23:46:28.096Z"
+    "added_at": "2025-05-04T23:46:28.096Z",
+    "removed_at": "2025-05-06T21:56:16.651Z",
+    "duration_minutes": 2769,
+    "duration_str": "1d 22h 9m"
   },
   {
     "title": "La deuxième édition de l'évènement de MMA \"Influence Fight Club\" a eu lieu ce samedi à la patinoire de Fribourg",
@@ -5045,10 +5048,7 @@
   },
   {
     "title": "En Valais, de nombreux chemins pédestres sont endommagés après les intempéries",
-    "added_at": "2025-05-05T08:56:55.682Z",
-    "removed_at": "2025-05-06T12:53:37.382Z",
-    "duration_minutes": 1676,
-    "duration_str": "1d 3h 56m"
+    "added_at": "2025-05-05T08:56:55.682Z"
   },
   {
     "title": "Début du procès de la star du hip-hop P. Diddy qui risque la prison à vie",
@@ -5086,7 +5086,10 @@
   },
   {
     "title": "L'UNIL et l'EPFL autorisés à ne plus reconnaître la société masculine Zofingue comme association",
-    "added_at": "2025-05-05T11:13:15.219Z"
+    "added_at": "2025-05-05T11:13:15.219Z",
+    "removed_at": "2025-05-06T21:54:21.886Z",
+    "duration_minutes": 2081,
+    "duration_str": "1d 10h 41m"
   },
   {
     "title": "L'inflation a été nulle en avril, portée par le franc fort et la chute de certaines dépenses",
@@ -5517,10 +5520,21 @@
   },
   {
     "title": "L'Inde a frappé des sites \"terroristes\" au Pakistan avec des missiles",
-    "added_at": "2025-05-06T21:09:25.905Z"
+    "added_at": "2025-05-06T21:09:25.905Z",
+    "removed_at": "2025-05-06T21:56:16.651Z",
+    "duration_minutes": 46,
+    "duration_str": "46m"
   },
   {
     "title": "En Allemagne, l'AfD va diriger pour la première fois une collectivité territoriale",
     "added_at": "2025-05-06T21:52:27.156Z"
+  },
+  {
+    "title": "L'Inter et Yann Sommer renversent Barcelone au terme d'un match fou",
+    "added_at": "2025-05-06T21:54:21.886Z"
+  },
+  {
+    "title": "Escalade militaire entre l’Inde et le Pakistan après des frappes croisées",
+    "added_at": "2025-05-06T21:56:16.651Z"
   }
 ]
