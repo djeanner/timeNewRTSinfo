@@ -105,8 +105,9 @@
   {
     "title": "sciences:::Une sonde spatiale de l’époque soviétique s’apprête à revenir sur Terre de manière incontrôlée",
     "added_at": "2025-05-07T09:55:11.392Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-07T18:45:38.939Z",
+    "duration_minutes": 530,
+    "duration_str": "8h 50m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Moscou se prépare aux commémorations du 9 mai 1945",
@@ -200,8 +201,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Les Etats doivent agir pour éviter l'«annihilation» des Palestiniens, alertent des experts de l’ONU",
     "added_at": "2025-05-07T16:43:50.353Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-07T18:43:50.097Z",
+    "duration_minutes": 120,
+    "duration_str": "2h"
   },
   {
     "title": "suisse:::La Poste ferme notime, sa filiale de livraison express, et supprime 600 emplois",
@@ -224,6 +226,18 @@
   {
     "title": "economie:::Mirabaud à nouveau sanctionnée dans l’affaire Brockman",
     "added_at": "2025-05-07T18:08:09.827Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le président syrien confirme l’existence de pourparlers indirects avec Israël",
+    "added_at": "2025-05-07T18:43:50.097Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::La Fed laisse ses taux inchangés et pointe des risques accrus sur l’emploi et les prix",
+    "added_at": "2025-05-07T18:45:38.939Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
