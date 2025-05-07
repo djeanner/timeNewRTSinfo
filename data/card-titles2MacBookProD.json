@@ -3661,7 +3661,10 @@
   },
   {
     "title": "monde:::L’Inde mène des frappes au Pakistan, qui riposte par des tirs d’artillerie au Cachemire",
-    "added_at": "2025-05-06T23:07:20.836Z"
+    "added_at": "2025-05-06T23:07:20.836Z",
+    "removed_at": "2025-05-07T05:34:45.387Z",
+    "duration_minutes": 387,
+    "duration_str": "6h 27m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – «L’aide humanitaire ne doit jamais être politisée», assène la cheffe de la diplomatie de l’UE",
@@ -3676,7 +3679,10 @@
   },
   {
     "title": "culture:::Le journal intime de Gershom Scholem ou la naissance d’une pensée",
-    "added_at": "2025-05-07T00:37:11.214Z"
+    "added_at": "2025-05-07T00:37:11.214Z",
+    "removed_at": "2025-05-07T05:36:40.104Z",
+    "duration_minutes": 299,
+    "duration_str": "4h 59m"
   },
   {
     "title": "monde:::En direct, Guerre en Ukraine – Le principal aéroport de Moscou fermé à deux reprises",
@@ -3692,10 +3698,25 @@
   },
   {
     "title": "monde:::La fantastique résilience du réseau électrique ukrainien",
-    "added_at": "2025-05-07T05:10:24.347Z"
+    "added_at": "2025-05-07T05:10:24.347Z",
+    "removed_at": "2025-05-07T05:31:03.734Z",
+    "duration_minutes": 20,
+    "duration_str": "20m"
   },
   {
     "title": "economie:::L’Union européenne présente sa feuille de route pour en finir avec le gaz russe d’ici fin 2027",
     "added_at": "2025-05-07T05:10:24.347Z"
+  },
+  {
+    "title": "monde:::Malgré les attaques russes, la fantastique résilience du réseau électrique ukrainien",
+    "added_at": "2025-05-07T05:31:03.734Z"
+  },
+  {
+    "title": "monde:::L’Inde bombarde le Pakistan, qui riposte par des tirs d’artillerie au Cachemire",
+    "added_at": "2025-05-07T05:34:45.387Z"
+  },
+  {
+    "title": "suisse:::En Suisse, des «thérapies de conversion» mais pas à l’américaine",
+    "added_at": "2025-05-07T05:36:40.104Z"
   }
 ]
