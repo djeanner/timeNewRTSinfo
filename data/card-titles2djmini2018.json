@@ -1680,7 +1680,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Moscou se prépare aux commémorations du 9 mai 1945",
-    "added_at": "2025-05-07T10:00:44.072Z"
+    "added_at": "2025-05-07T10:00:44.072Z",
+    "removed_at": "2025-05-07T15:58:51.032Z",
+    "duration_minutes": 358,
+    "duration_str": "5h 58m"
   },
   {
     "title": "suisse:::Antonio Hodgers démissionne: «J’espère avoir été à la hauteur»",
@@ -1723,5 +1726,9 @@
   {
     "title": "cyber:::Le Conseil fédéral est accusé de vouloir étendre massivement la surveillance en contournant la loi",
     "added_at": "2025-05-07T15:11:57.030Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – J. D. Vance appelle à des «négociations directes» entre l’Ukraine et la Russie",
+    "added_at": "2025-05-07T15:58:51.032Z"
   }
 ]
