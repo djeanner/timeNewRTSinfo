@@ -2256,7 +2256,10 @@
   },
   {
     "title": "Clap de fin pour Skype, dépassé par la concurrence",
-    "added_at": "2025-05-05T20:03:37.641Z"
+    "added_at": "2025-05-05T20:03:37.641Z",
+    "removed_at": "2025-05-07T20:58:41.548Z",
+    "duration_minutes": 2935,
+    "duration_str": "2d 55m"
   },
   {
     "title": "Julien Perrot: \"Chaque fois que je vois un animal, c'est une victoire\"",
@@ -2309,7 +2312,10 @@
   },
   {
     "title": "La pollution lumineuse au coeur d'une exposition des Journées photographiques de Bienne",
-    "added_at": "2025-05-06T06:52:23.575Z"
+    "added_at": "2025-05-06T06:52:23.575Z",
+    "removed_at": "2025-05-07T21:02:28.912Z",
+    "duration_minutes": 2290,
+    "duration_str": "1d 14h 10m"
   },
   {
     "title": "La Russie visée par plus d'une centaine de drones ukrainiens, plusieurs aéroports fermés",
@@ -2855,5 +2861,13 @@
     "removed_at": "2025-05-07T20:25:00.603Z",
     "duration_minutes": 3,
     "duration_str": "3m"
+  },
+  {
+    "title": "La Fed laisse ses taux inchangés devant \"tellement d'incertitudes\" et malgré la pression de Donald Trump",
+    "added_at": "2025-05-07T20:58:41.548Z"
+  },
+  {
+    "title": "Le PSG en finale pour la deuxième fois de son histoire",
+    "added_at": "2025-05-07T21:02:28.912Z"
   }
 ]
