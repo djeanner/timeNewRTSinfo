@@ -3692,7 +3692,10 @@
   },
   {
     "title": "monde:::En direct, Guerre en Ukraine – Le principal aéroport de Moscou fermé à deux reprises",
-    "added_at": "2025-05-07T04:04:57.140Z"
+    "added_at": "2025-05-07T04:04:57.140Z",
+    "removed_at": "2025-05-07T09:57:00.148Z",
+    "duration_minutes": 352,
+    "duration_str": "5h 52m"
   },
   {
     "title": "economie:::Les marchés se sont remis du Liberation Day, mais la faiblesse du dollar montre la fragilité des gains",
@@ -3700,7 +3703,10 @@
   },
   {
     "title": "culture:::«Les Musiciens», quand un quatuor à cordes s’accorde",
-    "added_at": "2025-05-07T04:47:57.772Z"
+    "added_at": "2025-05-07T04:47:57.772Z",
+    "removed_at": "2025-05-07T09:55:11.392Z",
+    "duration_minutes": 307,
+    "duration_str": "5h 7m"
   },
   {
     "title": "monde:::La fantastique résilience du réseau électrique ukrainien",
@@ -3750,5 +3756,13 @@
   {
     "title": "suisse:::Plus d’un tiers des Suisses utilisent des plateformes de santé numérique",
     "added_at": "2025-05-07T09:04:38.105Z"
+  },
+  {
+    "title": "sciences:::Une sonde spatiale de l’époque soviétique s’apprête à revenir sur Terre de manière incontrôlée",
+    "added_at": "2025-05-07T09:55:11.392Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Moscou se prépare aux commémorations du 9 mai 1945",
+    "added_at": "2025-05-07T09:57:00.148Z"
   }
 ]
