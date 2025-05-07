@@ -1507,7 +1507,10 @@
   },
   {
     "title": "Tesla Sales Fall in Germany and U.K. to Lowest Point in 2 Years",
-    "added_at": "2025-05-06T17:11:37.075Z"
+    "added_at": "2025-05-06T17:11:37.075Z",
+    "removed_at": "2025-05-07T00:12:51.003Z",
+    "duration_minutes": 421,
+    "duration_str": "7h 1m"
   },
   {
     "title": "India Seeks to Block Auction of Buddhist Religious Relics",
@@ -1669,7 +1672,10 @@
   },
   {
     "title": "India Strikes Pakistan Two Weeks After Terrorist Attack in Kashmir",
-    "added_at": "2025-05-06T21:20:40.197Z"
+    "added_at": "2025-05-06T21:20:40.197Z",
+    "removed_at": "2025-05-07T00:14:45.928Z",
+    "duration_minutes": 174,
+    "duration_str": "2h 54m"
   },
   {
     "title": "Travelers Without a Real ID Will Still Be Allowed to Fly, Noem Says",
@@ -1694,14 +1700,14 @@
   },
   {
     "title": "Blackstone President Donates $125 Million to Israeli Medical School",
-    "added_at": "2025-05-06T21:24:21.784Z"
+    "added_at": "2025-05-06T21:24:21.784Z",
+    "removed_at": "2025-05-07T00:12:51.003Z",
+    "duration_minutes": 168,
+    "duration_str": "2h 48m"
   },
   {
     "title": "Elon Musk Tried Keeping Issues at His Texas Mansion Private, Emails Show",
-    "added_at": "2025-05-06T21:39:19.897Z",
-    "removed_at": "2025-05-06T22:43:01.470Z",
-    "duration_minutes": 63,
-    "duration_str": "1h 3m"
+    "added_at": "2025-05-06T21:39:19.897Z"
   },
   {
     "title": "Inter Milan Advances to Champions League Final With Win Over Barcelona",
@@ -1764,5 +1770,13 @@
   {
     "title": "U.S. and Chinese Officials to Talk Trade",
     "added_at": "2025-05-06T23:59:44.289Z"
+  },
+  {
+    "title": "At Harvard, a Clash Between Democracy and Monarchy",
+    "added_at": "2025-05-07T00:12:51.003Z"
+  },
+  {
+    "title": "India Strikes Pakistan Two Weeks After Terrorist Attack",
+    "added_at": "2025-05-07T00:14:45.928Z"
   }
 ]
