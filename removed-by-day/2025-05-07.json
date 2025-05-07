@@ -242,8 +242,9 @@
   {
     "title": "Les cardinaux entrent dans la chapelle Sixtine pour le début du conclave destiné à élire un nouveau pape",
     "added_at": "2025-05-07T14:19:40.973Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-07T14:43:57.105Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
   },
   {
     "title": "Le référendum contre l'introduction de l'e-ID a abouti",
@@ -254,6 +255,12 @@
   {
     "title": "Des étudiants propalestiniens occupent à nouveau l'Université de Genève",
     "added_at": "2025-05-07T14:27:06.125Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Les cardinaux prient dans la chapelle Pauline avant le début du conclave destiné à élire un nouveau pape",
+    "added_at": "2025-05-07T14:43:57.105Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
