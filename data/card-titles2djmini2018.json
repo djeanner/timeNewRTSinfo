@@ -387,10 +387,7 @@
   },
   {
     "title": "monde:::Entre périphéries et Rome, les sept cardinaux qui incarnent au conclave l’Eglise de demain",
-    "added_at": "2025-05-02T04:05:05.927Z",
-    "removed_at": "2025-05-04T13:05:42.206Z",
-    "duration_minutes": 3420,
-    "duration_str": "2d 9h"
+    "added_at": "2025-05-02T04:05:05.927Z"
   },
   {
     "title": "suisse:::André Kolly: «Le prochain pape ne sera pas Suisse, mais peut-être Luxembourgeois»",
@@ -1497,7 +1494,10 @@
   },
   {
     "title": "monde:::Une fondation genevoise au cœur du dispositif de contrôle israélien à Gaza",
-    "added_at": "2025-05-06T18:28:23.256Z"
+    "added_at": "2025-05-06T18:28:23.256Z",
+    "removed_at": "2025-05-07T06:08:27.037Z",
+    "duration_minutes": 700,
+    "duration_str": "11h 40m"
   },
   {
     "title": "culture:::«Un Monde merveilleux»: Blanche Gardin, des robots, et nous et nous et nous",
@@ -1607,5 +1607,9 @@
   {
     "title": "suisse:::En Suisse, des «thérapies de conversion» mais pas à l’américaine",
     "added_at": "2025-05-07T05:36:33.885Z"
+  },
+  {
+    "title": "cyber:::Une photo de Céline Vara publiée par «Le Temps» et détournée avec ChatGPT à des fins politiques",
+    "added_at": "2025-05-07T06:08:27.037Z"
   }
 ]
