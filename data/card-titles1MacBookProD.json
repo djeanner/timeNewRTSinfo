@@ -5167,7 +5167,10 @@
   },
   {
     "title": "Une vingtaine de caravanes des gens du voyage campent illégalement à Lausanne",
-    "added_at": "2025-05-05T14:07:22.355Z"
+    "added_at": "2025-05-05T14:07:22.355Z",
+    "removed_at": "2025-05-07T14:21:29.751Z",
+    "duration_minutes": 2894,
+    "duration_str": "2d 14m"
   },
   {
     "title": "Derrière l'écran: la réalité des travailleuses du sexe en ligne",
@@ -5286,7 +5289,10 @@
   },
   {
     "title": "L'éducation non violente devrait bientôt être inscrite dans le Code civil",
-    "added_at": "2025-05-05T18:23:55.918Z"
+    "added_at": "2025-05-05T18:23:55.918Z",
+    "removed_at": "2025-05-07T14:27:06.125Z",
+    "duration_minutes": 2643,
+    "duration_str": "1d 20h 3m"
   },
   {
     "title": "\"Aujourd'hui à Gaza, plus personne ne sait où aller. Aucun endroit n'est sûr\"",
@@ -5643,7 +5649,10 @@
   },
   {
     "title": "Les cardinaux se coupent du monde à partir de cet après-midi pour élire le futur pape",
-    "added_at": "2025-05-07T04:12:28.780Z"
+    "added_at": "2025-05-07T04:12:28.780Z",
+    "removed_at": "2025-05-07T14:19:40.973Z",
+    "duration_minutes": 607,
+    "duration_str": "10h 7m"
   },
   {
     "title": "La Suisse abritera dès vendredi des négociations économiques entre la Chine et les Etats-Unis",
@@ -5799,5 +5808,17 @@
   {
     "title": "A Sion, la taxation du ramassage des déchets végétaux provoque la grogne",
     "added_at": "2025-05-07T14:06:32.199Z"
+  },
+  {
+    "title": "Les cardinaux entrent dans la chapelle Sixtine pour le début du conclave destiné à élire un nouveau pape",
+    "added_at": "2025-05-07T14:19:40.973Z"
+  },
+  {
+    "title": "Le référendum contre l'introduction de l'e-ID a abouti",
+    "added_at": "2025-05-07T14:21:29.751Z"
+  },
+  {
+    "title": "Des étudiants propalestiniens occupent à nouveau l'Université de Genève",
+    "added_at": "2025-05-07T14:27:06.125Z"
   }
 ]
