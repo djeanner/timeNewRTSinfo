@@ -1923,7 +1923,10 @@
   },
   {
     "title": "Donald Trump annonce des droits de douane de 100% sur les films étrangers",
-    "added_at": "2025-05-05T05:27:11.360Z"
+    "added_at": "2025-05-05T05:27:11.360Z",
+    "removed_at": "2025-05-07T09:55:08.205Z",
+    "duration_minutes": 3147,
+    "duration_str": "2d 4h 27m"
   },
   {
     "title": "La Russie affirme avoir déjoué une attaque de drones ukrainiens sur Moscou",
@@ -2558,7 +2561,10 @@
   },
   {
     "title": "Le conseiller d'Etat genevois Antonio Hodgers pourrait démissionner",
-    "added_at": "2025-05-07T06:29:01.978Z"
+    "added_at": "2025-05-07T06:29:01.978Z",
+    "removed_at": "2025-05-07T09:58:55.913Z",
+    "duration_minutes": 209,
+    "duration_str": "3h 29m"
   },
   {
     "title": "Le Musée suisse des douanes de Gandria expose des objets exotiques confisqués",
@@ -2590,5 +2596,16 @@
   {
     "title": "La SSR a coproduit 220 films et séries suisses en 2024",
     "added_at": "2025-05-07T09:23:18.193Z"
+  },
+  {
+    "title": "Le conseiller d'Etat genevois Antonio Hodgers sur le départ",
+    "added_at": "2025-05-07T09:58:55.913Z",
+    "removed_at": "2025-05-07T10:04:32.362Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "Le conseiller d'Etat genevois Antonio Hodgers démissionne",
+    "added_at": "2025-05-07T10:04:32.362Z"
   }
 ]
