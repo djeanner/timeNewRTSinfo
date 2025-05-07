@@ -1942,7 +1942,10 @@
   },
   {
     "title": "Accord UE-Suisse: une partie du Parlement s'oppose au référendum facultatif",
-    "added_at": "2025-05-05T06:47:10.813Z"
+    "added_at": "2025-05-05T06:47:10.813Z",
+    "removed_at": "2025-05-07T00:54:04.032Z",
+    "duration_minutes": 2526,
+    "duration_str": "1d 18h 6m"
   },
   {
     "title": "L'investisseur légendaire Warren Buffet prendra sa retraite à la fin de l'année",
@@ -1975,7 +1978,10 @@
   },
   {
     "title": "En Valais, de nombreux chemins pédestres sont endommagés après les intempéries",
-    "added_at": "2025-05-05T09:14:24.440Z"
+    "added_at": "2025-05-05T09:14:24.440Z",
+    "removed_at": "2025-05-07T00:54:04.032Z",
+    "duration_minutes": 2379,
+    "duration_str": "1d 15h 39m"
   },
   {
     "title": "Léon Salin: \"C'est très compliqué d'avoir l'impression d'être un fantôme aux yeux de la loi\"",
@@ -2452,5 +2458,13 @@
   {
     "title": "Escalade militaire entre l’Inde et le Pakistan après des frappes croisées",
     "added_at": "2025-05-06T21:56:11.388Z"
+  },
+  {
+    "title": "Au Vatican le conclave pour l'élection du nouveau Pape commence demain",
+    "added_at": "2025-05-07T00:54:04.032Z"
+  },
+  {
+    "title": "Après 22 ans de service, Microsoft ferme définitivement la plateforme Skype",
+    "added_at": "2025-05-07T00:54:04.032Z"
   }
 ]
