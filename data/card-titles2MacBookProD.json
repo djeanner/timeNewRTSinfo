@@ -1629,10 +1629,7 @@
   },
   {
     "title": "monde:::Reconnaître l’annexion de la Crimée, «c’est ouvrir la boîte de Pandore»",
-    "added_at": "2025-04-29T04:38:36.243Z",
-    "removed_at": "2025-05-01T10:30:50.344Z",
-    "duration_minutes": 3232,
-    "duration_str": "2d 5h 52m"
+    "added_at": "2025-04-29T04:38:36.243Z"
   },
   {
     "title": "economie:::Pourquoi nous aimons soutenir des politiques irrationnelles",
@@ -1958,7 +1955,10 @@
   },
   {
     "title": "suisse:::Avec les Hongrois, les Suisses se distinguent sur le conflit ukrainien",
-    "added_at": "2025-04-30T06:09:40.706Z"
+    "added_at": "2025-04-30T06:09:40.706Z",
+    "removed_at": "2025-05-07T06:10:22.181Z",
+    "duration_minutes": 10080,
+    "duration_str": "7d"
   },
   {
     "title": "monde:::Les autorités du Pakistan disent s’attendre à une «frappe» indienne",
@@ -2228,10 +2228,7 @@
   },
   {
     "title": "monde:::A défaut de garanties de sécurité et d’aide militaire, l’Ukraine obtient de Donald Trump des investissements",
-    "added_at": "2025-05-01T04:28:04.797Z",
-    "removed_at": "2025-05-01T18:32:52.059Z",
-    "duration_minutes": 844,
-    "duration_str": "14h 4m"
+    "added_at": "2025-05-01T04:28:04.797Z"
   },
   {
     "title": "cyber:::OpenAI tente de se distinguer de Google mais risque bien de suivre le même chemin",
@@ -2515,10 +2512,7 @@
   },
   {
     "title": "monde:::Entre périphéries et Rome, les sept cardinaux qui incarnent au conclave l’Eglise de demain",
-    "added_at": "2025-05-02T04:06:35.293Z",
-    "removed_at": "2025-05-04T13:05:42.130Z",
-    "duration_minutes": 3419,
-    "duration_str": "2d 8h 59m"
+    "added_at": "2025-05-02T04:06:35.293Z"
   },
   {
     "title": "cyber:::Une app concurrente de ChatGPT, des dizaines de milliards investis: il faut prendre au sérieux les gigantesques ambitions de Meta en IA",
@@ -3611,7 +3605,10 @@
   },
   {
     "title": "monde:::Une fondation genevoise au cœur du dispositif de contrôle israélien à Gaza",
-    "added_at": "2025-05-06T18:28:24.625Z"
+    "added_at": "2025-05-06T18:28:24.625Z",
+    "removed_at": "2025-05-07T06:08:27.281Z",
+    "duration_minutes": 700,
+    "duration_str": "11h 40m"
   },
   {
     "title": "culture:::«Un Monde merveilleux»: Blanche Gardin, des robots, et nous et nous et nous",
@@ -3721,5 +3718,9 @@
   {
     "title": "suisse:::En Suisse, des «thérapies de conversion» mais pas à l’américaine",
     "added_at": "2025-05-07T05:36:40.104Z"
+  },
+  {
+    "title": "cyber:::Une photo de Céline Vara publiée par «Le Temps» et détournée avec ChatGPT à des fins politiques",
+    "added_at": "2025-05-07T06:08:27.281Z"
   }
 ]
