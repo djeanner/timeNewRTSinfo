@@ -2087,7 +2087,10 @@
   },
   {
     "title": "Une vingtaine de caravanes des gens du voyage campent illégalement à Lausanne",
-    "added_at": "2025-05-05T14:07:50.978Z"
+    "added_at": "2025-05-05T14:07:50.978Z",
+    "removed_at": "2025-05-07T14:21:21.198Z",
+    "duration_minutes": 2893,
+    "duration_str": "2d 13m"
   },
   {
     "title": "Derrière l'écran: la réalité des travailleuses du sexe en ligne",
@@ -2206,7 +2209,10 @@
   },
   {
     "title": "L'éducation non violente devrait bientôt être inscrite dans le Code civil",
-    "added_at": "2025-05-05T18:22:36.468Z"
+    "added_at": "2025-05-05T18:22:36.468Z",
+    "removed_at": "2025-05-07T14:26:58.000Z",
+    "duration_minutes": 2644,
+    "duration_str": "1d 20h 4m"
   },
   {
     "title": "\"Aujourd'hui à Gaza, plus personne ne sait où aller. Aucun endroit n'est sûr\"",
@@ -2719,5 +2725,13 @@
   {
     "title": "Les cardinaux entrent dans la chapelle Sixtine pour le début du conclave destiné à élire un nouveau pape",
     "added_at": "2025-05-07T14:19:27.237Z"
+  },
+  {
+    "title": "Le référendum contre l'introduction de l'e-ID a abouti",
+    "added_at": "2025-05-07T14:21:21.198Z"
+  },
+  {
+    "title": "Des étudiants propalestiniens occupent à nouveau l'Université de Genève",
+    "added_at": "2025-05-07T14:26:58.000Z"
   }
 ]
