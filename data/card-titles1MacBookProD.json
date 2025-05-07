@@ -5744,7 +5744,10 @@
   },
   {
     "title": "À Avully, les habitants craignent les nuisances des hélicoptères de l'armée",
-    "added_at": "2025-05-07T08:55:14.526Z"
+    "added_at": "2025-05-07T08:55:14.526Z",
+    "removed_at": "2025-05-07T21:34:19.597Z",
+    "duration_minutes": 759,
+    "duration_str": "12h 39m"
   },
   {
     "title": "L'abuseur d'enfants René Osterwalder a mis fin à ses jours en prison",
@@ -5956,5 +5959,9 @@
   {
     "title": "Le PSG en finale pour la deuxième fois de son histoire",
     "added_at": "2025-05-07T21:02:31.510Z"
+  },
+  {
+    "title": "Une étude de l’EPFL décèle des additifs de pneus dans les fruits et légumes",
+    "added_at": "2025-05-07T21:34:19.597Z"
   }
 ]
