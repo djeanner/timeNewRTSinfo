@@ -1348,7 +1348,10 @@
   },
   {
     "title": "economie:::«Je suis ressortie du rendez-vous en larmes»: à Genève, le grand désarroi des chômeurs face à l’ORP",
-    "added_at": "2025-05-06T08:27:49.996Z"
+    "added_at": "2025-05-06T08:27:49.996Z",
+    "removed_at": "2025-05-07T15:23:11.334Z",
+    "duration_minutes": 1855,
+    "duration_str": "1d 6h 55m"
   },
   {
     "title": "economie:::Taux de chômage: une légère éclaircie, de plus sombres perspectives",
@@ -1506,7 +1509,10 @@
   },
   {
     "title": "monde:::Une fondation genevoise au cœur du dispositif de contrôle israélien à Gaza",
-    "added_at": "2025-05-06T18:28:23.256Z"
+    "added_at": "2025-05-06T18:28:23.256Z",
+    "removed_at": "2025-05-07T15:21:18.593Z",
+    "duration_minutes": 1252,
+    "duration_str": "20h 52m"
   },
   {
     "title": "culture:::«Un Monde merveilleux»: Blanche Gardin, des robots, et nous et nous et nous",
@@ -1626,7 +1632,10 @@
   },
   {
     "title": "monde:::L’Inde bombarde le Pakistan, qui riposte par des tirs d’artillerie au Cachemire",
-    "added_at": "2025-05-07T05:34:44.971Z"
+    "added_at": "2025-05-07T05:34:44.971Z",
+    "removed_at": "2025-05-07T15:11:57.030Z",
+    "duration_minutes": 577,
+    "duration_str": "9h 37m"
   },
   {
     "title": "suisse:::En Suisse, des «thérapies de conversion» mais pas à l’américaine",
@@ -1675,10 +1684,7 @@
   },
   {
     "title": "suisse:::Antonio Hodgers démissionne: «J’espère avoir été à la hauteur»",
-    "added_at": "2025-05-07T10:32:38.612Z",
-    "removed_at": "2025-05-07T15:04:26.028Z",
-    "duration_minutes": 271,
-    "duration_str": "4h 31m"
+    "added_at": "2025-05-07T10:32:38.612Z"
   },
   {
     "title": "culture:::Lord Betterave, aux racines d'un humour fertile",
@@ -1710,5 +1716,9 @@
   {
     "title": "suisse:::A Genève, Chinois et Américains tenteront une première désescalade dans la guerre commerciale",
     "added_at": "2025-05-07T15:04:26.028Z"
+  },
+  {
+    "title": "cyber:::Le Conseil fédéral est accusé de vouloir étendre massivement la surveillance en contournant la loi",
+    "added_at": "2025-05-07T15:11:57.030Z"
   }
 ]
