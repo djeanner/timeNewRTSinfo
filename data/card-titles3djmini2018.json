@@ -2269,7 +2269,10 @@
   },
   {
     "title": "Fed Is Expected to Hold Rates Again",
-    "added_at": "2025-05-07T16:34:26.486Z"
+    "added_at": "2025-05-07T16:34:26.486Z",
+    "removed_at": "2025-05-07T18:08:11.414Z",
+    "duration_minutes": 93,
+    "duration_str": "1h 33m"
   },
   {
     "title": "Republican Gives Up Fight to Overturn Defeat in N.C. Judicial Race",
@@ -2301,5 +2304,9 @@
   {
     "title": "Airstrikes Pound Gaza as Israel Announces Plans to Displace More Residents",
     "added_at": "2025-05-07T17:58:45.526Z"
+  },
+  {
+    "title": "Fed Keeps Rates Steady Amid Deluge of Policy Changes by Trump",
+    "added_at": "2025-05-07T18:08:11.414Z"
   }
 ]
