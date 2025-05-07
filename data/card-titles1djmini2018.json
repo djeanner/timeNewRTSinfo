@@ -2025,7 +2025,10 @@
   },
   {
     "title": "L'inflation a été nulle en avril, portée par le franc fort et la chute de certaines dépenses",
-    "added_at": "2025-05-05T11:19:21.634Z"
+    "added_at": "2025-05-05T11:19:21.634Z",
+    "removed_at": "2025-05-07T05:19:43.641Z",
+    "duration_minutes": 2520,
+    "duration_str": "1d 18h"
   },
   {
     "title": "En Allemagne, le parti AfD porte plainte après avoir été classé \"extrémiste\"",
@@ -2519,5 +2522,9 @@
   {
     "title": "La Suisse accueillera samedi la reprise du dialogue économique entre la Chine et les Etats-Unis",
     "added_at": "2025-05-07T04:57:16.614Z"
+  },
+  {
+    "title": "Face à la hausse des morsures, le Valais veut renforcer la formation des propriétaires de chiens",
+    "added_at": "2025-05-07T05:19:43.641Z"
   }
 ]
