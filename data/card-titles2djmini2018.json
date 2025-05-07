@@ -1469,7 +1469,10 @@
   },
   {
     "title": "suisse:::Martin Braichet, le PLR jurassien qui veut reconquérir le siège de Jacques Gerber",
-    "added_at": "2025-05-06T16:45:25.754Z"
+    "added_at": "2025-05-06T16:45:25.754Z",
+    "removed_at": "2025-05-07T07:27:11.688Z",
+    "duration_minutes": 881,
+    "duration_str": "14h 41m"
   },
   {
     "title": "cyber:::Ultra-sophistiquées, ingénieuses et exploitant nos faiblesses, les cyberattaques ravagent la Suisse",
@@ -1555,7 +1558,10 @@
   },
   {
     "title": "economie:::C’est en Suisse que Chinois et Américains se rencontreront pour négocier sur les droits de douane",
-    "added_at": "2025-05-07T00:05:20.325Z"
+    "added_at": "2025-05-07T00:05:20.325Z",
+    "removed_at": "2025-05-07T07:21:29.500Z",
+    "duration_minutes": 436,
+    "duration_str": "7h 16m"
   },
   {
     "title": "culture:::Le journal intime de Gershom Scholem ou la naissance d’une pensée",
@@ -1605,5 +1611,13 @@
   {
     "title": "cyber:::Une photo de Céline Vara publiée par «Le Temps» et détournée avec ChatGPT à des fins politiques",
     "added_at": "2025-05-07T06:08:27.037Z"
+  },
+  {
+    "title": "economie:::C’est en Suisse que Chinois et Américains se rencontreront pour négocier les droits de douane",
+    "added_at": "2025-05-07T07:21:29.500Z"
+  },
+  {
+    "title": "monde:::A Rome, la guerre des tailleurs du pape",
+    "added_at": "2025-05-07T07:27:11.688Z"
   }
 ]
