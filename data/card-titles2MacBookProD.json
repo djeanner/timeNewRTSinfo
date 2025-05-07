@@ -3616,7 +3616,10 @@
   },
   {
     "title": "monde:::En direct, Guerre en Ukraine – Trois morts et 11 blessés dans une frappe russe à Soumy",
-    "added_at": "2025-05-06T18:50:53.502Z"
+    "added_at": "2025-05-06T18:50:53.502Z",
+    "removed_at": "2025-05-07T04:04:57.140Z",
+    "duration_minutes": 554,
+    "duration_str": "9h 14m"
   },
   {
     "title": "monde:::Au Yémen, la guerre dont Donald Trump ne savait plus que faire",
@@ -3659,5 +3662,9 @@
   {
     "title": "culture:::Le journal intime de Gershom Scholem ou la naissance d’une pensée",
     "added_at": "2025-05-07T00:37:11.214Z"
+  },
+  {
+    "title": "monde:::En direct, Guerre en Ukraine – Le principal aéroport de Moscou fermé à deux reprises",
+    "added_at": "2025-05-07T04:04:57.140Z"
   }
 ]
