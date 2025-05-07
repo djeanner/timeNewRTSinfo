@@ -5234,7 +5234,10 @@
   },
   {
     "title": "Podcast - C'est quoi le Met Gala?",
-    "added_at": "2025-05-05T15:09:10.815Z"
+    "added_at": "2025-05-05T15:09:10.815Z",
+    "removed_at": "2025-05-07T15:45:47.117Z",
+    "duration_minutes": 2916,
+    "duration_str": "2d 36m"
   },
   {
     "title": "Reconnaîtrez-vous ces stars passées par l'Eurovision? Faites notre jeu",
@@ -5862,5 +5865,9 @@
   {
     "title": "Les cardinaux réunis dans la chapelle Sixtine pour le début du conclave destiné à élire un nouveau pape",
     "added_at": "2025-05-07T15:10:14.626Z"
+  },
+  {
+    "title": "Le National soutient l'initiative sur l'imposition individuelle pour les couples mariés",
+    "added_at": "2025-05-07T15:45:47.117Z"
   }
 ]
