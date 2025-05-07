@@ -3785,7 +3785,10 @@
   },
   {
     "title": "suisse:::Plus d’un tiers des Suisses utilisent des plateformes de santé numérique",
-    "added_at": "2025-05-07T09:04:38.105Z"
+    "added_at": "2025-05-07T09:04:38.105Z",
+    "removed_at": "2025-05-07T18:08:09.827Z",
+    "duration_minutes": 543,
+    "duration_str": "9h 3m"
   },
   {
     "title": "sciences:::Une sonde spatiale de l’époque soviétique s’apprête à revenir sur Terre de manière incontrôlée",
@@ -3877,5 +3880,9 @@
   {
     "title": "suisse:::Lentement, mais sûrement, l’imposition individuelle fait son chemin sous la Coupole",
     "added_at": "2025-05-07T17:10:02.517Z"
+  },
+  {
+    "title": "economie:::Mirabaud à nouveau sanctionnée dans l’affaire Brockman",
+    "added_at": "2025-05-07T18:08:09.827Z"
   }
 ]
