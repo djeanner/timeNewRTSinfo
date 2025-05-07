@@ -5027,7 +5027,10 @@
   },
   {
     "title": "Un attentat a été déjoué au concert de Lady Gaga au Brésil",
-    "added_at": "2025-05-05T06:43:29.116Z"
+    "added_at": "2025-05-05T06:43:29.116Z",
+    "removed_at": "2025-05-07T11:58:54.561Z",
+    "duration_minutes": 3195,
+    "duration_str": "2d 5h 15m"
   },
   {
     "title": "Accord UE-Suisse: une partie du Parlement s'oppose au référendum facultatif",
@@ -5729,5 +5732,9 @@
   {
     "title": "Une pièce bien \"Perchée\" et un \"Cosimo\" de haut vol, le théâtre grimpe aux arbres",
     "added_at": "2025-05-07T11:25:12.476Z"
+  },
+  {
+    "title": "Le service de ferroutage suisse disparaîtra à la fin de l'année",
+    "added_at": "2025-05-07T11:58:54.561Z"
   }
 ]
