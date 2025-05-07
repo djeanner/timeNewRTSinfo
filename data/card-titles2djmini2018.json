@@ -1639,7 +1639,10 @@
   },
   {
     "title": "suisse:::En Suisse, des «thérapies de conversion» mais pas à l’américaine",
-    "added_at": "2025-05-07T05:36:33.885Z"
+    "added_at": "2025-05-07T05:36:33.885Z",
+    "removed_at": "2025-05-07T16:47:33.022Z",
+    "duration_minutes": 670,
+    "duration_str": "11h 10m"
   },
   {
     "title": "cyber:::Une photo de Céline Vara publiée par «Le Temps» et détournée avec ChatGPT à des fins politiques",
@@ -1708,7 +1711,10 @@
   },
   {
     "title": "monde:::Friedrich Merz et Emmanuel Macron, premiers pas d’un couple idéal (déjà contrarié?)",
-    "added_at": "2025-05-07T13:17:31.089Z"
+    "added_at": "2025-05-07T13:17:31.089Z",
+    "removed_at": "2025-05-07T16:43:51.165Z",
+    "duration_minutes": 206,
+    "duration_str": "3h 26m"
   },
   {
     "title": "suisse:::En démissionnant, le messager politique Antonio Hodgers laisse place à l’incertitude",
@@ -1744,5 +1750,13 @@
   {
     "title": "suisse:::A Morges, la patinoire a eu chaud mais glisse vers des jours nouveaux",
     "added_at": "2025-05-07T16:06:18.588Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les Etats doivent agir pour éviter l'«annihilation» des Palestiniens, alertent des experts de l’ONU",
+    "added_at": "2025-05-07T16:43:51.165Z"
+  },
+  {
+    "title": "suisse:::La Poste ferme notime, sa filiale de livraison express, et supprime 600 emplois",
+    "added_at": "2025-05-07T16:47:33.022Z"
   }
 ]

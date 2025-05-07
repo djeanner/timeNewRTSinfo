@@ -1810,7 +1810,10 @@
   },
   {
     "title": "‘James’ Won the Pulitzer, but Not Without Complications",
-    "added_at": "2025-05-06T22:43:01.470Z"
+    "added_at": "2025-05-06T22:43:01.470Z",
+    "removed_at": "2025-05-07T16:38:15.326Z",
+    "duration_minutes": 1075,
+    "duration_str": "17h 55m"
   },
   {
     "title": "‘We Don’t Have to Sign Deals’: Trump Backs Off Big Promises About Tariffs",
@@ -1870,7 +1873,10 @@
   },
   {
     "title": "Trump Administration Plans to Send Migrants to Libya on a Military Flight",
-    "added_at": "2025-05-07T02:07:04.423Z"
+    "added_at": "2025-05-07T02:07:04.423Z",
+    "removed_at": "2025-05-07T16:49:29.304Z",
+    "duration_minutes": 882,
+    "duration_str": "14h 42m"
   },
   {
     "title": "Fans Disappointed at Vogue’s Coverage of South Asian Stars at Met Gala",
@@ -2114,10 +2120,7 @@
   },
   {
     "title": "Disney to Build a Magic Kingdom Theme Park in the Middle East",
-    "added_at": "2025-05-07T12:08:16.154Z",
-    "removed_at": "2025-05-07T15:02:38.158Z",
-    "duration_minutes": 174,
-    "duration_str": "2h 54m"
+    "added_at": "2025-05-07T12:08:16.154Z"
   },
   {
     "title": "The Vote for the Next Pope Is a Referendum on Francis",
@@ -2166,7 +2169,10 @@
   },
   {
     "title": "Republican Challenger in Long-Contested N.C. Race Concedes Defeat",
-    "added_at": "2025-05-07T15:02:38.158Z"
+    "added_at": "2025-05-07T15:02:38.158Z",
+    "removed_at": "2025-05-07T16:38:15.326Z",
+    "duration_minutes": 95,
+    "duration_str": "1h 35m"
   },
   {
     "title": "Republican Challenger in Long-Contested N. Carolina Race Concedes Defeat",
@@ -2199,7 +2205,10 @@
   },
   {
     "title": "Libya’s Rival Governments Both Deny Deal to Take Deported U.S. Migrants",
-    "added_at": "2025-05-07T15:30:45.982Z"
+    "added_at": "2025-05-07T15:30:45.982Z",
+    "removed_at": "2025-05-07T16:49:29.304Z",
+    "duration_minutes": 78,
+    "duration_str": "1h 18m"
   },
   {
     "title": "India Strikes Pakistan but Is Said to Have Lost Aircraft",
@@ -2243,5 +2252,13 @@
   {
     "title": "Fed Is Expected to Hold Rates Again",
     "added_at": "2025-05-07T16:34:26.486Z"
+  },
+  {
+    "title": "Republican Gives Up Fight to Overturn Defeat in N.C. Judicial Race",
+    "added_at": "2025-05-07T16:38:15.326Z"
+  },
+  {
+    "title": "Libyan Governments Deny Any Deal to Take U.S. Migrants",
+    "added_at": "2025-05-07T16:49:29.304Z"
   }
 ]
