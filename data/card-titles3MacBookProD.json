@@ -2352,7 +2352,10 @@
   },
   {
     "title": "Cardinals Vote in Conclave to Elect Pope",
-    "added_at": "2025-05-07T17:41:58.182Z"
+    "added_at": "2025-05-07T17:41:58.182Z",
+    "removed_at": "2025-05-07T19:04:24.421Z",
+    "duration_minutes": 82,
+    "duration_str": "1h 22m"
   },
   {
     "title": "Hegseth’s Use of Some Passwords Raises New Security Concerns",
@@ -2380,5 +2383,9 @@
   {
     "title": "Fed Holds Rates and Flags Heightened Uncertainty About the Economy",
     "added_at": "2025-05-07T18:55:04.707Z"
+  },
+  {
+    "title": "No Pope Elected on Cardinals’ First Vote",
+    "added_at": "2025-05-07T19:04:24.421Z"
   }
 ]
