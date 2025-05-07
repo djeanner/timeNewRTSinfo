@@ -1951,7 +1951,10 @@
   },
   {
     "title": "Test Your Knowledge of the Papal Conclave",
-    "added_at": "2025-05-07T04:44:14.915Z"
+    "added_at": "2025-05-07T04:44:14.915Z",
+    "removed_at": "2025-05-07T14:08:12.951Z",
+    "duration_minutes": 563,
+    "duration_str": "9h 23m"
   },
   {
     "title": "India Strikes Pakistan, Which Vows to Respond",
@@ -2103,5 +2106,9 @@
     "removed_at": "2025-05-07T14:00:45.975Z",
     "duration_minutes": 1,
     "duration_str": "1m"
+  },
+  {
+    "title": "Take Our Quiz About the Conclave",
+    "added_at": "2025-05-07T14:08:12.951Z"
   }
 ]
