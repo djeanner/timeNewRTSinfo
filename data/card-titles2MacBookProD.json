@@ -3981,7 +3981,10 @@
   },
   {
     "title": "economie:::Donald Trump s’apprêterait à signer un «accord commercial majeur» avec le Royaume-Uni",
-    "added_at": "2025-05-08T05:09:41.077Z"
+    "added_at": "2025-05-08T05:09:41.077Z",
+    "removed_at": "2025-05-08T05:58:25.586Z",
+    "duration_minutes": 48,
+    "duration_str": "48m"
   },
   {
     "title": "sport:::Paris Saint-Germain jouera la finale de la Ligue des champions face à l’Inter",
@@ -3997,5 +4000,9 @@
   {
     "title": "sport:::Le Paris Saint-Germain jouera la finale de la Ligue des champions face à l’Inter",
     "added_at": "2025-05-08T05:32:08.385Z"
+  },
+  {
+    "title": "cyber:::OpenAI œuvre-t-il toujours en priorité pour le bien de l’humanité? Ce n’est pas certain…",
+    "added_at": "2025-05-08T05:58:25.586Z"
   }
 ]
