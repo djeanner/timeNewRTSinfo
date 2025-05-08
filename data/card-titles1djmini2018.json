@@ -2445,7 +2445,10 @@
   },
   {
     "title": "L'humour des Monty Python, toujours d'actualité 50 ans après leur premier film",
-    "added_at": "2025-05-06T11:06:59.508Z"
+    "added_at": "2025-05-06T11:06:59.508Z",
+    "removed_at": "2025-05-08T13:47:10.313Z",
+    "duration_minutes": 3040,
+    "duration_str": "2d 2h 40m"
   },
   {
     "title": "La première pierre du Campus biennois de la Haute école spécialisée enfin posée",
@@ -2503,7 +2506,10 @@
   },
   {
     "title": "\"Leila\", un jeu vidéo comme un voyage existentiel et introspectif",
-    "added_at": "2025-05-06T14:38:29.415Z"
+    "added_at": "2025-05-06T14:38:29.415Z",
+    "removed_at": "2025-05-08T14:00:12.665Z",
+    "duration_minutes": 2841,
+    "duration_str": "1d 23h 21m"
   },
   {
     "title": "L'armée israélienne dit avoir frappé l'aéroport de Sanaa, au Yémen",
@@ -2620,7 +2626,10 @@
   },
   {
     "title": "En Allemagne, l'AfD va diriger pour la première fois une collectivité territoriale",
-    "added_at": "2025-05-06T21:52:26.775Z"
+    "added_at": "2025-05-06T21:52:26.775Z",
+    "removed_at": "2025-05-08T13:47:10.313Z",
+    "duration_minutes": 2394,
+    "duration_str": "1d 15h 54m"
   },
   {
     "title": "L'Inter et Yann Sommer renversent Barcelone au terme d'un match fou",
@@ -3065,5 +3074,13 @@
   {
     "title": "Kiev et Moscou s'accusent mutuellement de violer la trêve de trois jours décrétée par Vladimir Poutine",
     "added_at": "2025-05-08T13:26:30.226Z"
+  },
+  {
+    "title": "La police israélienne ferme des écoles de l'UNRWA à Jérusalem-Est",
+    "added_at": "2025-05-08T13:47:10.313Z"
+  },
+  {
+    "title": "Trump annonce un accord commercial \"complet\" avec le Royaume-Uni, dont les termes doivent être précisés",
+    "added_at": "2025-05-08T14:00:12.665Z"
   }
 ]
