@@ -27,8 +27,9 @@
   {
     "title": "monde:::L’Inde et le Pakistan procèdent à de nouveaux échanges de tirs",
     "added_at": "2025-05-08T04:11:39.979Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-08T06:13:22.214Z",
+    "duration_minutes": 122,
+    "duration_str": "2h 2m"
   },
   {
     "title": "monde:::Au Cachemire, le rouleau compresseur de Narendra Modi",
@@ -51,9 +52,8 @@
   {
     "title": "economie:::Donald Trump s’apprêterait à signer un «accord commercial majeur» avec le Royaume-Uni",
     "added_at": "2025-05-08T05:09:41.077Z",
-    "removed_at": "2025-05-08T05:58:25.586Z",
-    "duration_minutes": 49,
-    "duration_str": "49m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "sport:::Paris Saint-Germain jouera la finale de la Ligue des champions face à l’Inter",
@@ -77,6 +77,19 @@
   {
     "title": "cyber:::OpenAI œuvre-t-il toujours en priorité pour le bien de l’humanité? Ce n’est pas certain…",
     "added_at": "2025-05-08T05:58:25.586Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "sciences:::Pas de colorants ni de vaccins: qui sont les «MAHA moms», premières supportrices du Robert Kennedy Jr?",
+    "added_at": "2025-05-08T06:13:22.214Z",
+    "removed_at": "2025-05-08T06:15:17.234Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "sciences:::Pas de colorants ni de vaccins: qui sont les «MAHA moms», premières supportrices de Robert Kennedy Jr?",
+    "added_at": "2025-05-08T06:15:17.234Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
