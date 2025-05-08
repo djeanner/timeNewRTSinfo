@@ -2470,7 +2470,10 @@
   },
   {
     "title": "Le nombre de cyberincidents signalés en Suisse a nettement augmenté en 2024",
-    "added_at": "2025-05-06T12:33:03.681Z"
+    "added_at": "2025-05-06T12:33:03.681Z",
+    "removed_at": "2025-05-08T14:05:50.221Z",
+    "duration_minutes": 2972,
+    "duration_str": "2d 1h 32m"
   },
   {
     "title": "Julien Perrot, fondateur de la Salamandre, est l'invité du 19:30",
@@ -3082,5 +3085,9 @@
   {
     "title": "Trump annonce un accord commercial \"complet\" avec le Royaume-Uni, dont les termes doivent être précisés",
     "added_at": "2025-05-08T14:00:12.665Z"
+  },
+  {
+    "title": "La mythique course assurée au moins jusqu'en 2034",
+    "added_at": "2025-05-08T14:05:50.221Z"
   }
 ]
