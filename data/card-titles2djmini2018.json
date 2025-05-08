@@ -1801,7 +1801,10 @@
   },
   {
     "title": "suisse:::Lentement, mais sûrement, l’imposition individuelle fait son chemin sous la Coupole",
-    "added_at": "2025-05-07T17:10:02.498Z"
+    "added_at": "2025-05-07T17:10:02.498Z",
+    "removed_at": "2025-05-08T10:56:37.251Z",
+    "duration_minutes": 1066,
+    "duration_str": "17h 46m"
   },
   {
     "title": "economie:::Mirabaud à nouveau sanctionnée dans l’affaire Brockman",
@@ -1963,5 +1966,9 @@
   {
     "title": "sciences:::L’administration Trump s’attaque aux revues savantes",
     "added_at": "2025-05-08T10:09:45.848Z"
+  },
+  {
+    "title": "sport:::Au Mondial de hockey, la République tchèque se rêve au début d’un nouvel âge d’or avant d’affronter la Suisse",
+    "added_at": "2025-05-08T10:56:37.251Z"
   }
 ]
