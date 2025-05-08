@@ -1708,7 +1708,10 @@
   },
   {
     "title": "suisse:::Antonio Hodgers démissionne: «J’espère avoir été à la hauteur»",
-    "added_at": "2025-05-07T10:32:38.612Z"
+    "added_at": "2025-05-07T10:32:38.612Z",
+    "removed_at": "2025-05-08T05:24:38.254Z",
+    "duration_minutes": 1131,
+    "duration_str": "18h 51m"
   },
   {
     "title": "culture:::Lord Betterave, aux racines d'un humour fertile",
@@ -1810,7 +1813,10 @@
   },
   {
     "title": "economie:::La Fed laisse ses taux inchangés et pointe des risques accrus sur l’emploi et les prix",
-    "added_at": "2025-05-07T18:45:37.012Z"
+    "added_at": "2025-05-07T18:45:37.012Z",
+    "removed_at": "2025-05-08T05:20:54.535Z",
+    "duration_minutes": 635,
+    "duration_str": "10h 35m"
   },
   {
     "title": "culture:::Sophia Aram: «Je ne pratique pas le refus d’obstacle»",
@@ -1862,5 +1868,13 @@
   {
     "title": "economie:::Donald Trump s’apprêterait à signer un «accord commercial majeur» avec le Royaume-Uni",
     "added_at": "2025-05-08T05:09:39.126Z"
+  },
+  {
+    "title": "sport:::Paris Saint-Germain jouera la finale de la Ligue des champions face à l’Inter",
+    "added_at": "2025-05-08T05:20:54.535Z"
+  },
+  {
+    "title": "suisse:::Votation du 18 mai à Genève: faut-il rogner l’élection populaire des juges?",
+    "added_at": "2025-05-08T05:24:38.254Z"
   }
 ]
