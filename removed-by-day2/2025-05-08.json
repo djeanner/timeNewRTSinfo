@@ -243,8 +243,9 @@
   {
     "title": "suisse:::Les camps s’échauffent autour de la vidéosurveillance à Vevey",
     "added_at": "2025-05-08T15:02:42.015Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-08T16:12:12.670Z",
+    "duration_minutes": 70,
+    "duration_str": "1h 10m"
   },
   {
     "title": "suisse:::Malgré un contexte financier tendu, l’économie vaudoise se porte bien",
@@ -255,6 +256,12 @@
   {
     "title": "economie:::Les caisses de pension sont parées pour affronter les turbulences sur les marchés",
     "added_at": "2025-05-08T15:45:57.562Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct – Fumée blanche au Vatican: le nouveau pape a été élu",
+    "added_at": "2025-05-08T16:12:12.670Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
