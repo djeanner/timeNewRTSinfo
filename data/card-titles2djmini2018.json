@@ -1805,7 +1805,10 @@
   },
   {
     "title": "economie:::Mirabaud à nouveau sanctionnée dans l’affaire Brockman",
-    "added_at": "2025-05-07T18:08:10.278Z"
+    "added_at": "2025-05-07T18:08:10.278Z",
+    "removed_at": "2025-05-08T10:09:45.848Z",
+    "duration_minutes": 961,
+    "duration_str": "16h 1m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le président syrien confirme l’existence de pourparlers indirects avec Israël",
@@ -1953,5 +1956,9 @@
   {
     "title": "monde:::Fumée noire au Vatican après trois tours de scrutin",
     "added_at": "2025-05-08T10:04:08.264Z"
+  },
+  {
+    "title": "sciences:::L’administration Trump s’attaque aux revues savantes",
+    "added_at": "2025-05-08T10:09:45.848Z"
   }
 ]
