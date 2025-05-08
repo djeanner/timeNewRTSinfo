@@ -6220,7 +6220,10 @@
   },
   {
     "title": "Trump annonce un accord commercial \"historique\" avec le Royaume-Uni, sur le bœuf et l'éthanol",
-    "added_at": "2025-05-08T15:25:14.295Z"
+    "added_at": "2025-05-08T15:25:14.295Z",
+    "removed_at": "2025-05-08T15:45:57.530Z",
+    "duration_minutes": 20,
+    "duration_str": "20m"
   },
   {
     "title": "Des réserves d'électricité sont encore nécessaires en Suisse, selon l'Elcom",
@@ -6229,5 +6232,9 @@
   {
     "title": "Les cardinaux ont recommencé à voter au Vatican pour élire un nouveau pape",
     "added_at": "2025-05-08T15:28:57.758Z"
+  },
+  {
+    "title": "Trump annonce un accord commercial \"historique\" avec le Royaume-Uni, sur l'automobile, le bœuf et l'éthanol",
+    "added_at": "2025-05-08T15:45:57.530Z"
   }
 ]
