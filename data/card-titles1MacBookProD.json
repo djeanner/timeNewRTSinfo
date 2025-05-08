@@ -5586,7 +5586,10 @@
   },
   {
     "title": "\"Leila\", un jeu vidéo comme un voyage existentiel et introspectif",
-    "added_at": "2025-05-06T14:38:26.085Z"
+    "added_at": "2025-05-06T14:38:26.085Z",
+    "removed_at": "2025-05-08T14:00:51.225Z",
+    "duration_minutes": 2842,
+    "duration_str": "1d 23h 22m"
   },
   {
     "title": "L'armée israélienne dit avoir frappé l'aéroport de Sanaa, au Yémen",
@@ -6162,5 +6165,9 @@
   {
     "title": "La police israélienne ferme des écoles de l'UNRWA à Jérusalem-Est",
     "added_at": "2025-05-08T13:47:44.923Z"
+  },
+  {
+    "title": "Trump annonce un accord commercial \"complet\" avec le Royaume-Uni, dont les termes doivent être précisés",
+    "added_at": "2025-05-08T14:00:51.225Z"
   }
 ]
