@@ -4173,7 +4173,10 @@
   },
   {
     "title": "suisse:::Les Lucernois veulent croire à un pape suisse",
-    "added_at": "2025-05-08T14:13:59.715Z"
+    "added_at": "2025-05-08T14:13:59.715Z",
+    "removed_at": "2025-05-08T16:25:20.932Z",
+    "duration_minutes": 131,
+    "duration_str": "2h 11m"
   },
   {
     "title": "suisse:::Succession d’Antonio Hodgers: «Pour la droite, il est l’heure de soutenir l’UDC», estime Lionel Dugerdil",
@@ -4189,10 +4192,7 @@
   },
   {
     "title": "suisse:::Les camps s’échauffent autour de la vidéosurveillance à Vevey",
-    "added_at": "2025-05-08T15:02:42.015Z",
-    "removed_at": "2025-05-08T16:12:12.670Z",
-    "duration_minutes": 69,
-    "duration_str": "1h 9m"
+    "added_at": "2025-05-08T15:02:42.015Z"
   },
   {
     "title": "suisse:::Malgré un contexte financier tendu, l’économie vaudoise se porte bien",
@@ -4205,5 +4205,9 @@
   {
     "title": "monde:::En direct – Fumée blanche au Vatican: le nouveau pape a été élu",
     "added_at": "2025-05-08T16:12:12.670Z"
+  },
+  {
+    "title": "monde:::Un four crématoire à côté de villas: en Autriche, le camp de concentration de Gusen, symbole d’un passé nié",
+    "added_at": "2025-05-08T16:25:20.932Z"
   }
 ]
