@@ -2513,7 +2513,10 @@
   },
   {
     "title": "Trump Withdraws Surgeon General Pick, Choosing Kennedy Ally as Replacement",
-    "added_at": "2025-05-07T22:27:19.129Z"
+    "added_at": "2025-05-07T22:27:19.129Z",
+    "removed_at": "2025-05-08T01:17:31.304Z",
+    "duration_minutes": 170,
+    "duration_str": "2h 50m"
   },
   {
     "title": "Trump Says U.S. Won’t Drop Tariffs Ahead of China Talks",
@@ -2551,9 +2554,9 @@
   {
     "title": "Kennedy Announces New Database for Research Into ‘Root Causes’ of Autism",
     "added_at": "2025-05-07T23:04:42.107Z",
-    "removed_at": "2025-05-08T00:49:28.322Z",
-    "duration_minutes": 104,
-    "duration_str": "1h 44m"
+    "removed_at": "2025-05-08T01:17:31.304Z",
+    "duration_minutes": 132,
+    "duration_str": "2h 12m"
   },
   {
     "title": "The Indian Aircraft Pakistan Says It Shot Down",
@@ -2584,5 +2587,9 @@
   {
     "title": "Federal Judge Casts Doubt on Trump Arguments in Venezuelan Migrants Case",
     "added_at": "2025-05-08T00:55:04.541Z"
+  },
+  {
+    "title": "President Chooses New Surgeon General Nominee",
+    "added_at": "2025-05-08T01:11:54.889Z"
   }
 ]
