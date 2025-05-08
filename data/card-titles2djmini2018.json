@@ -1752,7 +1752,10 @@
   },
   {
     "title": "cyber:::Le Conseil fédéral est accusé de vouloir étendre massivement la surveillance en contournant la loi",
-    "added_at": "2025-05-07T15:11:57.030Z"
+    "added_at": "2025-05-07T15:11:57.030Z",
+    "removed_at": "2025-05-08T05:02:08.978Z",
+    "duration_minutes": 830,
+    "duration_str": "13h 50m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – J. D. Vance appelle à des «négociations directes» entre l’Ukraine et la Russie",
@@ -1763,7 +1766,10 @@
   },
   {
     "title": "economie:::A GemGenève, les pierres précieuses brillent sans bling-bling",
-    "added_at": "2025-05-07T16:06:18.588Z"
+    "added_at": "2025-05-07T16:06:18.588Z",
+    "removed_at": "2025-05-08T05:09:39.126Z",
+    "duration_minutes": 783,
+    "duration_str": "13h 3m"
   },
   {
     "title": "suisse:::A Morges, la patinoire a eu chaud mais glisse vers des jours nouveaux",
@@ -1816,10 +1822,7 @@
   },
   {
     "title": "monde:::Fumée noire au Vatican, le premier vote du conclave n’a pas désigné de nouveau pape",
-    "added_at": "2025-05-07T19:17:38.677Z",
-    "removed_at": "2025-05-08T04:52:48.192Z",
-    "duration_minutes": 575,
-    "duration_str": "9h 35m"
+    "added_at": "2025-05-07T19:17:38.677Z"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël aurait bombardé une école après avoir fait évacuer le mauvais bâtiment, selon des sources palestiniennes",
@@ -1851,5 +1854,13 @@
   {
     "title": "suisse:::Le 8 mai 1945, la Suisse entre protection divine, cortèges spontanés et inquiétudes",
     "added_at": "2025-05-08T04:56:31.945Z"
+  },
+  {
+    "title": "monde:::Seynabou Dia Sall, l’entrepreneuse qui veut changer la narration autour du continent africain",
+    "added_at": "2025-05-08T05:02:08.978Z"
+  },
+  {
+    "title": "economie:::Donald Trump s’apprêterait à signer un «accord commercial majeur» avec le Royaume-Uni",
+    "added_at": "2025-05-08T05:09:39.126Z"
   }
 ]
