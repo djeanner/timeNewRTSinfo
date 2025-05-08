@@ -5525,7 +5525,10 @@
   },
   {
     "title": "L'humour des Monty Python, toujours d'actualité 50 ans après leur premier film",
-    "added_at": "2025-05-06T11:06:52.288Z"
+    "added_at": "2025-05-06T11:06:52.288Z",
+    "removed_at": "2025-05-08T13:47:44.923Z",
+    "duration_minutes": 3040,
+    "duration_str": "2d 2h 40m"
   },
   {
     "title": "La première pierre du Campus biennois de la Haute école spécialisée enfin posée",
@@ -5707,7 +5710,10 @@
   },
   {
     "title": "En Allemagne, l'AfD va diriger pour la première fois une collectivité territoriale",
-    "added_at": "2025-05-06T21:52:27.156Z"
+    "added_at": "2025-05-06T21:52:27.156Z",
+    "removed_at": "2025-05-08T13:47:44.923Z",
+    "duration_minutes": 2395,
+    "duration_str": "1d 15h 55m"
   },
   {
     "title": "L'Inter et Yann Sommer renversent Barcelone au terme d'un match fou",
@@ -6152,5 +6158,9 @@
   {
     "title": "Kiev et Moscou s'accusent mutuellement de violer la trêve de trois jours décrétée par Vladimir Poutine",
     "added_at": "2025-05-08T13:27:11.718Z"
+  },
+  {
+    "title": "La police israélienne ferme des écoles de l'UNRWA à Jérusalem-Est",
+    "added_at": "2025-05-08T13:47:44.923Z"
   }
 ]
