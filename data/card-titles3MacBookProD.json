@@ -2660,7 +2660,10 @@
   },
   {
     "title": "Trump Is Expected to Announce a U.K. Trade Deal",
-    "added_at": "2025-05-08T02:09:52.930Z"
+    "added_at": "2025-05-08T02:09:52.930Z",
+    "removed_at": "2025-05-08T02:39:52.200Z",
+    "duration_minutes": 29,
+    "duration_str": "29m"
   },
   {
     "title": "Knicks’ Second 20-Point Comeback Puts Celtics in a Deep Hole",
@@ -2668,5 +2671,9 @@
     "removed_at": "2025-05-08T02:24:55.598Z",
     "duration_minutes": 1,
     "duration_str": "1m"
+  },
+  {
+    "title": "Trump Is Said to Announce Trade Deal With Britain on Thursday",
+    "added_at": "2025-05-08T02:39:52.200Z"
   }
 ]
