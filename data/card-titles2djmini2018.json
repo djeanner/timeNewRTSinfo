@@ -2089,7 +2089,10 @@
   },
   {
     "title": "suisse:::La Confédération lance un système d’alerte sécheresse unique au monde",
-    "added_at": "2025-05-08T14:39:33.562Z"
+    "added_at": "2025-05-08T14:39:33.562Z",
+    "removed_at": "2025-05-08T18:24:28.975Z",
+    "duration_minutes": 224,
+    "duration_str": "3h 44m"
   },
   {
     "title": "culture:::«Tapajos», au Théâtre de Vidy, à Lausanne, «Il était une fois la nuit des musées», à Genève: notre agenda culturel",
@@ -2147,5 +2150,9 @@
   {
     "title": "suisse:::A Genève, Nicolas Walder se lance pour la succession d’Antonio Hodgers au Conseil d’Etat",
     "added_at": "2025-05-08T18:07:36.188Z"
+  },
+  {
+    "title": "economie:::L’industrie de défense romande cherche sa place dans le mouvement de réarmement européen",
+    "added_at": "2025-05-08T18:24:28.975Z"
   }
 ]
