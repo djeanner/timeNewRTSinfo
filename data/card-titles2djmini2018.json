@@ -2126,7 +2126,10 @@
   },
   {
     "title": "culture:::Une saison 2025-2026 entre deux mondes au Grand Théâtre de Genève",
-    "added_at": "2025-05-08T16:37:37.744Z"
+    "added_at": "2025-05-08T16:37:37.744Z",
+    "removed_at": "2025-05-08T18:41:21.171Z",
+    "duration_minutes": 123,
+    "duration_str": "2h 3m"
   },
   {
     "title": "monde:::En direct – Le cardinal américain Robert Francis Prevost  devient le pape Léon XIV",
@@ -2154,5 +2157,9 @@
   {
     "title": "economie:::L’industrie de défense romande cherche sa place dans le mouvement de réarmement européen",
     "added_at": "2025-05-08T18:24:28.975Z"
+  },
+  {
+    "title": "monde:::Le fentanyl, au cœur des discussions de Genève entre Chine et Etats-Unis",
+    "added_at": "2025-05-08T18:41:21.171Z"
   }
 ]
