@@ -2573,7 +2573,10 @@
   },
   {
     "title": "Après 22 ans de service, Microsoft ferme définitivement la plateforme Skype",
-    "added_at": "2025-05-07T00:54:04.032Z"
+    "added_at": "2025-05-07T00:54:04.032Z",
+    "removed_at": "2025-05-08T00:43:50.455Z",
+    "duration_minutes": 1429,
+    "duration_str": "23h 49m"
   },
   {
     "title": "Chinois et Américains vont s'entretenir de leurs relations commerciales en Suisse",
@@ -2876,5 +2879,9 @@
   {
     "title": "Une étude de l’EPFL décèle des additifs de pneus dans les fruits et légumes",
     "added_at": "2025-05-07T21:34:14.333Z"
+  },
+  {
+    "title": "Friedrich Merz élu chancelier après deux tours de scrutin, une première",
+    "added_at": "2025-05-08T00:43:50.455Z"
   }
 ]
