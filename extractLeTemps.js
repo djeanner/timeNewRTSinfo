@@ -33,10 +33,11 @@ const html = fs.readFileSync(inputHtmlFile, 'utf8');
 const $ = cheerio.load(html);
 
 
-const allowedFirstTerms = new Set(['culture', 'monde', 'suisse', 'economie', 'sciences', 'sport', 'cyber']);
 
 
 const foundTitles = new Set();
+// start specific part
+const allowedFirstTerms = new Set(['culture', 'monde', 'suisse', 'economie', 'sciences', 'sport', 'cyber']);
 
   $('a[href]').each((_, elem) => {
     const href = $(elem).attr('href');
@@ -53,6 +54,7 @@ const foundTitles = new Set();
       }
     }
   });
+// END Specific part
 
 // === LOAD EXISTING DATA ===
 let existingTitles = [];

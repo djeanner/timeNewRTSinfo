@@ -2,23 +2,10 @@ const fs = require("fs");
 const path = require("path");
 const COMPUTER_ID = process.env.COMPUTER_ID || "unknown-computer";
 const DATA_DIR = path.join(__dirname, "data");
-const configs = [
-	{
-		dateFileSuf: 1,
-		targetYear: 2025,
-		medium: "RTS",
-	},
-	{
-		dateFileSuf: 2,
-		targetYear: 2025,
-		medium: "Le Temps",
-	},
-	{
-		dateFileSuf: 3,
-		targetYear: 2025,
-		medium: "NY Times",
-	},
-];
+const outputHtmlDir = "html";
+const targetYear = 2025;
+const configs = JSON.parse(fs.readFileSync('media.json', 'utf8'));
+
 
 const pad = (n) => n.toString().padStart(2, "0");
 
@@ -78,12 +65,12 @@ function deduplicateItems(items) {
 			const existing = map.get(item.title);
 
 			// Find earliest added_at
-			if (new Date(item.added_at) <= new Date(existing.added_at)) {
+			if (new Date(item.added_at) < new Date(existing.added_at)) {
 				existing.added_at = item.added_at;
 			}
 
-			// Find latest removed_at
-			if (new Date(item.removed_at) >= new Date(existing.removed_at)) {
+			// Find earliest removed_at
+			if (new Date(item.removed_at) < new Date(existing.removed_at)) {
 				existing.removed_at = item.removed_at;
 			}
 		}
@@ -116,6 +103,43 @@ function deduplicateItems(items) {
 
 const htmlEscape = (str) =>
 	str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+
+const generateMainHtmlTable = () => {
+	const rows = configs
+		.map((entry) => {
+			return `<tr><td><a href="index_${entry.dateFileSuf}.html">${entry.medium}</a></td><td><a href="${entry.url}">${entry.url}</a></td></tr>`;
+		})
+		.join("\n");
+
+	return `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Duration of info on selected information media</title>
+  <style>
+    body { font-family: sans-serif; margin: 2em; }
+	table {
+	  border-collapse: collapse;
+	  width: auto;
+	  max-width: 100%;
+	}
+    th, td { border: 1px solid #ccc; padding: 0.5em; text-align: left; }
+    th { background: #eee; }
+  </style>
+</head>
+<body>
+  <h1>Duration of headlines on the main page of selected information media</h1>
+  <table>
+    <thead><tr><th>Medium</th><th>Origin of data</th></tr></thead>
+    <tbody>
+${rows}
+    </tbody>
+  </table>
+  <p><a href="https://github.com/djeanner/timeNewRTSinfo">github repository</a></p>
+</body>
+</html>`;
+};
+
 
 const generateHtmlTable = (entries, dateStr, medium, dateFileSustr) => {
 	const rows = entries
@@ -160,12 +184,11 @@ ${rows}
 };
 
 for (const config of configs) {
-	const { dateFileSuf, targetYear, medium } = config;
-	const dateFileSustr = dateFileSuf == 1 ? "" : `_${dateFileSuf}`;
-	const dateFileSustrForIndex = dateFileSuf == 1 ? "" : `${dateFileSuf}`;
+	const { dateFileSuf, medium } = config;
+	const dateFileSustr = `_${dateFileSuf}`;
+	const dateFileSustForIndex = dateFileSuf == 1 ? "" : `${dateFileSuf}`;
 	const outputHtmlFile = `index${dateFileSustr}.html`;
-	const outputJsonDir = `removed-by-day${dateFileSustrForIndex}`;
-	const outputHtmlDir = "html";
+	const outputJsonDir = `removed-by-day${dateFileSustForIndex}`;
 	if (!fs.existsSync(outputJsonDir)) fs.mkdirSync(outputJsonDir);
 	if (!fs.existsSync(outputHtmlDir)) fs.mkdirSync(outputHtmlDir);
 	//const inputFile = path.join(DATA_DIR, `card-titles${dateFileSuf}${COMPUTER_ID}.json`);
@@ -250,6 +273,8 @@ ${htmlFiles
 	.map((entry) => `<li><a href="${entry.filename}">${entry.date}</a></li>`)
 	.join("\n")}
   </ul>
+  <p><a href="index.html">← Back to index</a></p>
+
   Last update ${nowStr} GMT
 </body>
 </html>`;
@@ -257,3 +282,7 @@ ${htmlFiles
 	fs.writeFileSync(path.join(outputHtmlDir, outputHtmlFile), indexHtml, "utf8");
 	console.log(`📄 ${outputHtmlFile} written with ${htmlFiles.length} links.`);
 }
+
+const mainHtmlPath = path.join(outputHtmlDir, `index.html`);
+const mainHtmlContent = generateMainHtmlTable();
+fs.writeFileSync(mainHtmlPath, mainHtmlContent, "utf8");
