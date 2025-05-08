@@ -4090,7 +4090,10 @@
   },
   {
     "title": "monde:::Fumée noire au Vatican après trois tours de scrutin",
-    "added_at": "2025-05-08T10:02:48.141Z"
+    "added_at": "2025-05-08T10:02:48.141Z",
+    "removed_at": "2025-05-08T14:10:12.077Z",
+    "duration_minutes": 247,
+    "duration_str": "4h 7m"
   },
   {
     "title": "sciences:::L’administration Trump s’attaque aux revues savantes",
@@ -4139,5 +4142,16 @@
   {
     "title": "suisse:::Exclusif – «On marche sur la tête»: la possible fermeture du laboratoire du Mont Terri suscite la consternation",
     "added_at": "2025-05-08T13:00:58.176Z"
+  },
+  {
+    "title": "suisse:::Les Lucernois veulent croirent à un pape suisse",
+    "added_at": "2025-05-08T14:10:12.077Z",
+    "removed_at": "2025-05-08T14:13:59.715Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "suisse:::Les Lucernois veulent croire à un pape suisse",
+    "added_at": "2025-05-08T14:13:59.715Z"
   }
 ]
