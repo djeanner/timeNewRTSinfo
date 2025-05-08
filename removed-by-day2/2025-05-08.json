@@ -73,8 +73,9 @@
   {
     "title": "sport:::Le Paris Saint-Germain jouera la finale de la Ligue des champions face à l’Inter",
     "added_at": "2025-05-08T05:32:08.385Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-08T06:56:24.660Z",
+    "duration_minutes": 84,
+    "duration_str": "1h 24m"
   },
   {
     "title": "cyber:::OpenAI œuvre-t-il toujours en priorité pour le bien de l’humanité? Ce n’est pas certain…",
@@ -98,6 +99,12 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky appelle à combattre «le mal» russe",
     "added_at": "2025-05-08T06:41:26.554Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En Allemagne, des commémorations ébranlées par la présence grandissante de l’extrême droite",
+    "added_at": "2025-05-08T06:56:24.660Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
