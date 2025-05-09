@@ -2403,7 +2403,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky annonce un sommet de dirigeants européens en Ukraine samedi",
-    "added_at": "2025-05-09T16:49:21.129Z"
+    "added_at": "2025-05-09T16:49:21.129Z",
+    "removed_at": "2025-05-09T19:31:44.186Z",
+    "duration_minutes": 162,
+    "duration_str": "2h 42m"
   },
   {
     "title": "suisse:::Karin Keller-Sutter et Guy Parmelin parlent de marché avec Pékin et de taxes avec Washington",
@@ -2422,7 +2425,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Un comité spécial de l’ONU met en garde contre «une autre Naqba»",
-    "added_at": "2025-05-09T17:25:10.521Z"
+    "added_at": "2025-05-09T17:25:10.521Z",
+    "removed_at": "2025-05-09T19:31:44.186Z",
+    "duration_minutes": 126,
+    "duration_str": "2h 6m"
   },
   {
     "title": "monde:::Réformes, ouverture au monde: ce qu’il faut attendre du nouveau pape Léon XIV",
@@ -2446,5 +2452,13 @@
   {
     "title": "sport:::Une entame prometteuse, une fin cruelle: la Suisse s’incline en prolongation face à la République tchèque",
     "added_at": "2025-05-09T19:27:57.637Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Un comité spécial de l’ONU met en garde contre «une autre Naqba»",
+    "added_at": "2025-05-09T19:31:44.186Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Volodymyr Zelensky annonce un sommet de dirigeants européens en Ukraine samedi",
+    "added_at": "2025-05-09T19:31:44.186Z"
   }
 ]
