@@ -4226,7 +4226,10 @@
   },
   {
     "title": "suisse:::Malgré un contexte financier tendu, l’économie vaudoise se porte bien",
-    "added_at": "2025-05-08T15:36:37.806Z"
+    "added_at": "2025-05-08T15:36:37.806Z",
+    "removed_at": "2025-05-09T08:30:56.602Z",
+    "duration_minutes": 1014,
+    "duration_str": "16h 54m"
   },
   {
     "title": "economie:::Les caisses de pension sont parées pour affronter les turbulences sur les marchés",
@@ -4375,5 +4378,9 @@
   {
     "title": "sport:::Neymar a-t-il vraiment été transféré au PSG?",
     "added_at": "2025-05-09T08:19:36.855Z"
+  },
+  {
+    "title": "economie:::L’informatique, un «pont» vers le marché du travail pour les réfugiés en Suisse",
+    "added_at": "2025-05-09T08:32:49.238Z"
   }
 ]
