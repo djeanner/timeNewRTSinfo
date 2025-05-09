@@ -2717,7 +2717,10 @@
   },
   {
     "title": "Des élevages de chats illégaux en Suisse romande",
-    "added_at": "2025-05-07T04:10:34.020Z"
+    "added_at": "2025-05-07T04:10:34.020Z",
+    "removed_at": "2025-05-09T09:25:02.515Z",
+    "duration_minutes": 3194,
+    "duration_str": "2d 5h 14m"
   },
   {
     "title": "Les cardinaux se coupent du monde à partir de cet après-midi pour élire le futur pape",
@@ -3295,10 +3298,7 @@
   },
   {
     "title": "Une exposition au Musée suisse des douanes sur les objets de vacances confisqués",
-    "added_at": "2025-05-08T23:48:32.638Z",
-    "removed_at": "2025-05-09T08:49:25.275Z",
-    "duration_minutes": 540,
-    "duration_str": "9h"
+    "added_at": "2025-05-08T23:48:32.638Z"
   },
   {
     "title": "120 secondes - La police en sous-effectif",
@@ -3335,7 +3335,10 @@
   },
   {
     "title": "En pleine guerre commerciale, les Etats-Unis signent un premier accord",
-    "added_at": "2025-05-09T07:49:27.888Z"
+    "added_at": "2025-05-09T07:49:27.888Z",
+    "removed_at": "2025-05-09T09:30:39.724Z",
+    "duration_minutes": 101,
+    "duration_str": "1h 41m"
   },
   {
     "title": "L'Allemagne a durci ses contrôles aux frontières",
@@ -3344,5 +3347,9 @@
   {
     "title": "Dans la chapelle Sixtine, le pape Léon XIV célèbre sa première messe",
     "added_at": "2025-05-09T09:19:24.698Z"
+  },
+  {
+    "title": "Le CERN réalise le rêve des alchimistes de transmuter du plomb en or",
+    "added_at": "2025-05-09T09:25:02.515Z"
   }
 ]
