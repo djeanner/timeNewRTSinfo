@@ -3355,7 +3355,10 @@
   },
   {
     "title": "Dans la chapelle Sixtine, le pape Léon XIV célèbre sa première messe",
-    "added_at": "2025-05-09T09:19:24.698Z"
+    "added_at": "2025-05-09T09:19:24.698Z",
+    "removed_at": "2025-05-09T10:29:07.988Z",
+    "duration_minutes": 69,
+    "duration_str": "1h 9m"
   },
   {
     "title": "Le CERN réalise le rêve des alchimistes de transmuter du plomb en or",
@@ -3379,5 +3382,9 @@
     "removed_at": "2025-05-09T10:00:39.788Z",
     "duration_minutes": 3,
     "duration_str": "3m"
+  },
+  {
+    "title": "Dans sa première messe, Léon XIV déplore le recul de la foi au profit de \"l'argent\"",
+    "added_at": "2025-05-09T10:29:07.988Z"
   }
 ]
