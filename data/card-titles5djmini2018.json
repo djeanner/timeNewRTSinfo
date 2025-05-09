@@ -23,10 +23,7 @@
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-09T15:11:07.665Z",
-    "duration_minutes": 249,
-    "duration_str": "4h 9m"
+    "added_at": "2025-05-09T11:01:45.077Z"
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
@@ -247,21 +244,24 @@
   },
   {
     "title": "La première apparition du pape Léon XIV en images",
-    "added_at": "2025-05-09T11:07:52.917Z"
+    "added_at": "2025-05-09T11:07:52.917Z",
+    "removed_at": "2025-05-09T15:31:52.682Z",
+    "duration_minutes": 263,
+    "duration_str": "4h 23m"
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
     "added_at": "2025-05-09T11:11:38.599Z",
-    "removed_at": "2025-05-09T15:07:23.775Z",
-    "duration_minutes": 235,
-    "duration_str": "3h 55m"
+    "removed_at": "2025-05-09T15:26:13.668Z",
+    "duration_minutes": 254,
+    "duration_str": "4h 14m"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
     "added_at": "2025-05-09T11:15:27.813Z",
-    "removed_at": "2025-05-09T15:11:07.665Z",
-    "duration_minutes": 235,
-    "duration_str": "3h 55m"
+    "removed_at": "2025-05-09T15:31:52.682Z",
+    "duration_minutes": 256,
+    "duration_str": "4h 16m"
   },
   {
     "title": "Fidji Simo, une Française de 39 ans dans la direction d’OpenAI, l’entreprise d’intelligence artificielle",
@@ -319,9 +319,9 @@
   {
     "title": "Entre l’Inde et le Pakistan, des tirs et des ripostes qui les rapprochent d’une guerre",
     "added_at": "2025-05-09T12:06:21.982Z",
-    "removed_at": "2025-05-09T15:13:03.137Z",
-    "duration_minutes": 186,
-    "duration_str": "3h 6m"
+    "removed_at": "2025-05-09T15:26:13.668Z",
+    "duration_minutes": 199,
+    "duration_str": "3h 19m"
   },
   {
     "title": "Le retour contrarié de Marion Maréchal dans l’orbite du RN",
@@ -1758,7 +1758,10 @@
   },
   {
     "title": "Emmanuel Macron et Donald Tusk signent un traité à Nancy pour renforcer les liens entre la France et la Pologne",
-    "added_at": "2025-05-09T15:01:44.751Z"
+    "added_at": "2025-05-09T15:01:44.751Z",
+    "removed_at": "2025-05-09T15:18:44.727Z",
+    "duration_minutes": 16,
+    "duration_str": "16m"
   },
   {
     "title": "« Le débat sur le travail ne peut se réduire à une question de quantité »",
@@ -1779,5 +1782,16 @@
   {
     "title": "Le Pakistan affirme qu’il n’ira pas « à la désescalade » avec l’Inde",
     "added_at": "2025-05-09T15:14:53.010Z"
+  },
+  {
+    "title": "Emmanuel Macron et Donald Tusk signent un traité à Nancy pour renforcer les liens entre la France et la Pologne",
+    "added_at": "2025-05-09T15:18:44.727Z",
+    "removed_at": "2025-05-09T15:26:13.668Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Emmanuel Macron et Donald Tusk signent un traité à Nancy pour renforcer les liens militaires entre la France et la Pologne",
+    "added_at": "2025-05-09T15:26:13.668Z"
   }
 ]
