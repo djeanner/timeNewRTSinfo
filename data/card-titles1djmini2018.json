@@ -2612,7 +2612,10 @@
   },
   {
     "title": "Un cessez-le-feu conclu au Yémen entre les Houthis et les Etats-Unis, annonce le sultanat d'Oman",
-    "added_at": "2025-05-06T19:00:18.431Z"
+    "added_at": "2025-05-06T19:00:18.431Z",
+    "removed_at": "2025-05-09T05:47:52.953Z",
+    "duration_minutes": 3527,
+    "duration_str": "2d 10h 47m"
   },
   {
     "title": "Le Parlement veut une loi spécifique sur le captage, le transport et le stockage de CO2",
@@ -3292,5 +3295,9 @@
   {
     "title": "La Poste va fermer fin septembre sa filiale de coursiers à vélo Notime",
     "added_at": "2025-05-09T03:48:06.250Z"
+  },
+  {
+    "title": "La Confédération envisage de se séparer du laboratoire du Mont Terri fin 2026",
+    "added_at": "2025-05-09T05:47:52.953Z"
   }
 ]
