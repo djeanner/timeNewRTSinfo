@@ -192,7 +192,10 @@
   },
   {
     "title": "This company’s edible skincare products are full of ‘raw Ghanaian goodness’",
-    "added_at": "2025-05-09T09:46:51.236Z"
+    "added_at": "2025-05-09T09:46:51.236Z",
+    "removed_at": "2025-05-09T10:13:07.723Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
   },
   {
     "title": "Did South Korea’s legendary female free divers evolve for a life underwater? Scientists find new evidence",
@@ -405,5 +408,9 @@
   {
     "title": "Founder of crypto lender Celsius sentenced to 12 years in prison",
     "added_at": "2025-05-09T10:07:11.758Z"
+  },
+  {
+    "title": "Sycamore Gap: Two men convicted of felling one of UK’s most famous trees",
+    "added_at": "2025-05-09T10:13:07.723Z"
   }
 ]
