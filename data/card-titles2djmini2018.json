@@ -2314,7 +2314,10 @@
   },
   {
     "title": "sport:::Novak Djokovic sera de retour au Geneva Open",
-    "added_at": "2025-05-09T08:47:35.810Z"
+    "added_at": "2025-05-09T08:47:35.810Z",
+    "removed_at": "2025-05-09T16:58:46.006Z",
+    "duration_minutes": 491,
+    "duration_str": "8h 11m"
   },
   {
     "title": "culture:::Annexe, collectif de femmes architectes au pavillon suisse à Venise: «Les jardins de la Biennale sont un «no woman’s land»",
@@ -2392,5 +2395,20 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky annonce un sommet de dirigeants européens en Ukraine samedi",
     "added_at": "2025-05-09T16:49:21.129Z"
+  },
+  {
+    "title": "suisse:::Karin Keller-Sutter et Guy Parmelin parlent de marché avec Pékin et de taxes avec Washington",
+    "added_at": "2025-05-09T16:58:46.006Z",
+    "removed_at": "2025-05-09T17:13:50.007Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "suisse:::Comme New-York, Zurich a désormais sa «Highline»",
+    "added_at": "2025-05-09T16:58:46.006Z"
+  },
+  {
+    "title": "suisse:::Karin Keller-Sutter et Guy Parmelin parlent de libre-échange avec Pékin et de taxes avec Washington",
+    "added_at": "2025-05-09T17:13:50.007Z"
   }
 ]
