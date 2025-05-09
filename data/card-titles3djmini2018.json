@@ -3384,7 +3384,10 @@
   },
   {
     "title": "50 States, 50 Fixes",
-    "added_at": "2025-05-08T19:03:52.717Z"
+    "added_at": "2025-05-08T19:03:52.717Z",
+    "removed_at": "2025-05-09T04:34:55.150Z",
+    "duration_minutes": 571,
+    "duration_str": "9h 31m"
   },
   {
     "title": "What Questions Do You Have About Death and Dying?",
@@ -3525,7 +3528,10 @@
   },
   {
     "title": "An American Was Elected Pope",
-    "added_at": "2025-05-08T22:07:24.404Z"
+    "added_at": "2025-05-08T22:07:24.404Z",
+    "removed_at": "2025-05-09T04:34:55.150Z",
+    "duration_minutes": 387,
+    "duration_str": "6h 27m"
   },
   {
     "title": "Across America, Big Cities Are Sinking",
@@ -3552,9 +3558,9 @@
   {
     "title": "Trump Names Pirro, Who Questioned 2020 Election, as Interim U.S. Attorney in Washington",
     "added_at": "2025-05-08T23:03:36.121Z",
-    "removed_at": "2025-05-09T04:18:05.216Z",
-    "duration_minutes": 314,
-    "duration_str": "5h 14m"
+    "removed_at": "2025-05-09T04:34:55.150Z",
+    "duration_minutes": 331,
+    "duration_str": "5h 31m"
   },
   {
     "title": "‘He Checked All the Boxes’: Pope Leo XIV Overcame the Liability of Being American",
@@ -3570,7 +3576,10 @@
   },
   {
     "title": "Trump Administration Demands Records From Penn on Foreign Ties",
-    "added_at": "2025-05-08T23:29:47.088Z"
+    "added_at": "2025-05-08T23:29:47.088Z",
+    "removed_at": "2025-05-09T04:34:55.150Z",
+    "duration_minutes": 305,
+    "duration_str": "5h 5m"
   },
   {
     "title": "New Pope Has Creole Roots in New Orleans, Genealogist Says",
@@ -3634,10 +3643,7 @@
   },
   {
     "title": "Police and Brooklyn College Protesters Clash After Pro-Palestinian Rally",
-    "added_at": "2025-05-09T04:03:03.695Z",
-    "removed_at": "2025-05-09T04:04:57.324Z",
-    "duration_minutes": 1,
-    "duration_str": "1m"
+    "added_at": "2025-05-09T04:03:03.695Z"
   },
   {
     "title": "What to Know About a Divisive Show of Military Might in Moscow",
@@ -3654,5 +3660,9 @@
   {
     "title": "Trump Officials Seek to Bring First White Afrikaner Refugees to U.S. Next Week",
     "added_at": "2025-05-09T04:18:05.216Z"
+  },
+  {
+    "title": "Are U.S. Tariffs Affecting Your Business? We Want to Hear From You.",
+    "added_at": "2025-05-09T04:34:55.150Z"
   }
 ]
