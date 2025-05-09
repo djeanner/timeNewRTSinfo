@@ -1,4 +1,4 @@
 
 
-wget https://www.lemonde.fr -O scratch/medium.html
-node leMonde.js
+wget https://www.aljazeera.com -O scratch/medium.html
+node aljazeera.js

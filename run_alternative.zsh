@@ -23,6 +23,9 @@ while true; do
     
     echo "Fetching lemonde.fr ..."
     wget lemonde.fr -O scratch/le_Monde.html
+    
+    echo "Fetching aljazeera.com ..."
+    wget aljazeera.com -O scratch/Al_Jazeera.html
 
     node extract.js
 

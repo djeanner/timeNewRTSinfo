@@ -129,6 +129,20 @@ function extractLeMonde(dom) {
   return titles;
 }
 
+
+function extractAl(dom) {
+  const titles = new Set();
+
+dom('h3.article-card__title span').each((_, element) => {
+  const titleText = dom(element).text().trim();
+  if (titleText) {
+    titles.add(titleText);
+  }
+});
+
+  return titles;
+}
+
 // Get the found titles
 //
 
@@ -153,7 +167,9 @@ if (dateFileSuf == 4) {
 if (dateFileSuf == 5) {
   foundTitles = extractLeMonde(dom);
 }
-
+if (dateFileSuf == 6) {
+  foundTitles = extractAl(dom);
+}
 // foundTitles is accessible here
 
 
