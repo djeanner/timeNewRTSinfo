@@ -2686,7 +2686,10 @@
   },
   {
     "title": "Au Vatican le conclave pour l'élection du nouveau Pape commence demain",
-    "added_at": "2025-05-07T00:54:04.032Z"
+    "added_at": "2025-05-07T00:54:04.032Z",
+    "removed_at": "2025-05-09T03:48:06.250Z",
+    "duration_minutes": 3054,
+    "duration_str": "2d 2h 54m"
   },
   {
     "title": "Après 22 ans de service, Microsoft ferme définitivement la plateforme Skype",
@@ -3285,5 +3288,9 @@
   {
     "title": "120 secondes - La police en sous-effectif",
     "added_at": "2025-05-09T00:48:25.578Z"
+  },
+  {
+    "title": "La Poste va fermer fin septembre sa filiale de coursiers à vélo Notime",
+    "added_at": "2025-05-09T03:48:06.250Z"
   }
 ]
