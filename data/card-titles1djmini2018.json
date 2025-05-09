@@ -2775,7 +2775,10 @@
   },
   {
     "title": "Le Musée suisse des douanes de Gandria expose des objets exotiques confisqués",
-    "added_at": "2025-05-07T07:08:20.144Z"
+    "added_at": "2025-05-07T07:08:20.144Z",
+    "removed_at": "2025-05-09T07:23:17.065Z",
+    "duration_minutes": 2894,
+    "duration_str": "2d 14m"
   },
   {
     "title": "Une requête de commission d'enquête parlementaire déposée sur le bouclier fiscal vaudois",
@@ -3299,5 +3302,9 @@
   {
     "title": "La Confédération envisage de se séparer du laboratoire du Mont Terri fin 2026",
     "added_at": "2025-05-09T05:47:52.953Z"
+  },
+  {
+    "title": "\"La haine\" en version comédie musicale signée Mathieu Kassovitz débarque à Genève",
+    "added_at": "2025-05-09T07:23:17.065Z"
   }
 ]
