@@ -5911,7 +5911,10 @@
   },
   {
     "title": "Le Parlement approuve une nouvelle allocation de garde pour enfants",
-    "added_at": "2025-05-07T10:57:01.323Z"
+    "added_at": "2025-05-07T10:57:01.323Z",
+    "removed_at": "2025-05-09T00:48:42.844Z",
+    "duration_minutes": 2271,
+    "duration_str": "1d 13h 51m"
   },
   {
     "title": "La Poste va fermer notime, sa filiale de livraisons le jour même employant 600 personnes",
@@ -6365,5 +6368,9 @@
   {
     "title": "Une exposition au Musée suisse des douanes sur les objets de vacances confisqués",
     "added_at": "2025-05-08T23:48:49.886Z"
+  },
+  {
+    "title": "120 secondes - La police en sous-effectif",
+    "added_at": "2025-05-09T00:48:42.844Z"
   }
 ]
