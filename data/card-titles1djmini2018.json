@@ -3295,7 +3295,10 @@
   },
   {
     "title": "Une exposition au Musée suisse des douanes sur les objets de vacances confisqués",
-    "added_at": "2025-05-08T23:48:32.638Z"
+    "added_at": "2025-05-08T23:48:32.638Z",
+    "removed_at": "2025-05-09T08:49:25.275Z",
+    "duration_minutes": 540,
+    "duration_str": "9h"
   },
   {
     "title": "120 secondes - La police en sous-effectif",
@@ -3330,5 +3333,9 @@
   {
     "title": "En pleine guerre commerciale, les Etats-Unis signent un premier accord",
     "added_at": "2025-05-09T07:49:27.888Z"
+  },
+  {
+    "title": "L'Allemagne a durci ses contrôles aux frontières",
+    "added_at": "2025-05-09T08:49:25.275Z"
   }
 ]
