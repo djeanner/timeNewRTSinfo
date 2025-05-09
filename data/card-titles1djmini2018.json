@@ -3328,7 +3328,10 @@
   },
   {
     "title": "Le pape Léon XIV célébrera sa première messe vendredi matin à 11h",
-    "added_at": "2025-05-09T07:34:31.490Z"
+    "added_at": "2025-05-09T07:34:31.490Z",
+    "removed_at": "2025-05-09T09:19:24.698Z",
+    "duration_minutes": 104,
+    "duration_str": "1h 44m"
   },
   {
     "title": "En pleine guerre commerciale, les Etats-Unis signent un premier accord",
@@ -3337,5 +3340,9 @@
   {
     "title": "L'Allemagne a durci ses contrôles aux frontières",
     "added_at": "2025-05-09T08:49:25.275Z"
+  },
+  {
+    "title": "Dans la chapelle Sixtine, le pape Léon XIV célèbre sa première messe",
+    "added_at": "2025-05-09T09:19:24.698Z"
   }
 ]
