@@ -2915,7 +2915,10 @@
   },
   {
     "title": "La Poste va fermer sa filiale de livraisons express notime, 600 emplois menacés",
-    "added_at": "2025-05-07T13:56:57.323Z"
+    "added_at": "2025-05-07T13:56:57.323Z",
+    "removed_at": "2025-05-09T14:31:28.803Z",
+    "duration_minutes": 2914,
+    "duration_str": "2d 34m"
   },
   {
     "title": "Le conseiller d'Etat genevois Antonio Hodgers pourrait annoncer sa démission, selon la Tribune de Genève",
@@ -3442,5 +3445,9 @@
   {
     "title": "Le Pakistan accuse l'Inde de les rapprocher \"d'un conflit majeur\"",
     "added_at": "2025-05-09T13:55:36.134Z"
+  },
+  {
+    "title": "Plan israélien d'annexion de Gaza: \"On n'impose rien durablement par la force\"",
+    "added_at": "2025-05-09T14:31:28.803Z"
   }
 ]
