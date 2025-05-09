@@ -48,7 +48,6 @@ dom('h3.article-card__title span').each((_, element) => {
   }
 });
 
-
   return titles;
 }
 
