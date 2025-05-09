@@ -3783,7 +3783,10 @@
   },
   {
     "title": "monde:::A Rome, la guerre des tailleurs du pape",
-    "added_at": "2025-05-07T07:27:08.962Z"
+    "added_at": "2025-05-07T07:27:08.962Z",
+    "removed_at": "2025-05-09T13:17:53.389Z",
+    "duration_minutes": 3230,
+    "duration_str": "2d 5h 50m"
   },
   {
     "title": "sport:::Nuit de folie à Milan où l’Inter se qualifie pour la finale de Ligue des champions avec un Yann Sommer héroïque",
@@ -4356,10 +4359,7 @@
   },
   {
     "title": "monde:::«Ancien joueur de tennis et fin cuisinier», Léon XIV, «un bergoglien ouvert raisonnablement aux réformes»",
-    "added_at": "2025-05-09T04:35:03.858Z",
-    "removed_at": "2025-05-09T10:34:52.380Z",
-    "duration_minutes": 359,
-    "duration_str": "5h 59m"
+    "added_at": "2025-05-09T04:35:03.858Z"
   },
   {
     "title": "suisse:::Spécialiste du loup, Jean-Marc Landry s’oppose aux tirs de défense: «Albert Rösti est inconscient et irresponsable»",
@@ -4408,7 +4408,10 @@
   },
   {
     "title": "economie:::L’informatique, un «pont» vers le marché du travail pour les réfugiés en Suisse",
-    "added_at": "2025-05-09T08:32:49.238Z"
+    "added_at": "2025-05-09T08:32:49.238Z",
+    "removed_at": "2025-05-09T13:16:03.635Z",
+    "duration_minutes": 283,
+    "duration_str": "4h 43m"
   },
   {
     "title": "sport:::Novak Djokovic sera de retour au Geneva Open",
@@ -4416,7 +4419,10 @@
   },
   {
     "title": "culture:::Annexe, collectif de femmes architectes au pavillon suisse à Venise: «Les jardins de la Biennale sont un «no woman’s land»",
-    "added_at": "2025-05-09T09:38:20.805Z"
+    "added_at": "2025-05-09T09:38:20.805Z",
+    "removed_at": "2025-05-09T13:16:03.635Z",
+    "duration_minutes": 217,
+    "duration_str": "3h 37m"
   },
   {
     "title": "economie:::La régulation émotionnelle, un outil au travail aussi",
@@ -4443,5 +4449,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – L'Union européenne s'engage à verser un milliard d'euros à l'industrie militaire ukrainienne à partir d'avoirs russes gelés",
     "added_at": "2025-05-09T12:26:49.885Z"
+  },
+  {
+    "title": "monde:::La nouvelle fondation «genevoise» se dit prête à nourrir l’ensemble des Gazaouis",
+    "added_at": "2025-05-09T13:16:03.635Z"
   }
 ]

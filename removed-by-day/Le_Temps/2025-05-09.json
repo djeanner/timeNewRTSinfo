@@ -37,9 +37,8 @@
   {
     "title": "monde:::«Ancien joueur de tennis et fin cuisinier», Léon XIV, «un bergoglien ouvert raisonnablement aux réformes»",
     "added_at": "2025-05-09T04:34:54.082Z",
-    "removed_at": "2025-05-09T10:34:45.491Z",
-    "duration_minutes": 360,
-    "duration_str": "6h"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "suisse:::Spécialiste du loup, Jean-Marc Landry s’oppose aux tirs de défense: «Albert Rösti est inconscient et irresponsable»",
@@ -101,8 +100,9 @@
   {
     "title": "economie:::L’informatique, un «pont» vers le marché du travail pour les réfugiés en Suisse",
     "added_at": "2025-05-09T08:32:33.200Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-09T13:16:03.635Z",
+    "duration_minutes": 284,
+    "duration_str": "4h 44m"
   },
   {
     "title": "sport:::Novak Djokovic sera de retour au Geneva Open",
@@ -113,8 +113,9 @@
   {
     "title": "culture:::Annexe, collectif de femmes architectes au pavillon suisse à Venise: «Les jardins de la Biennale sont un «no woman’s land»",
     "added_at": "2025-05-09T09:15:41.979Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-09T13:16:03.635Z",
+    "duration_minutes": 240,
+    "duration_str": "4h"
   },
   {
     "title": "economie:::La régulation émotionnelle, un outil au travail aussi",
@@ -145,6 +146,12 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – L'Union européenne s'engage à verser un milliard d'euros à l'industrie militaire ukrainienne à partir d'avoirs russes gelés",
     "added_at": "2025-05-09T12:26:49.885Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::La nouvelle fondation «genevoise» se dit prête à nourrir l’ensemble des Gazaouis",
+    "added_at": "2025-05-09T13:16:03.635Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
