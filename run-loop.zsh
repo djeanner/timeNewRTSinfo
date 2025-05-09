@@ -10,16 +10,19 @@ while true; do
 
   for sleep_time in $sleep_times; do
     echo "Fetching letemps.ch..."
-    wget https://www.letemps.ch -O scratch/leTemps.html
-    node extractLeTemps.js
+    wget https://www.letemps.ch -O scratch/Le_Temps.html
+    # node extractLeTemps.js
 
     echo "Fetching rts.ch/info..."
-    wget rts.ch/info -O scratch/input.html
-    node extract.js
+    wget rts.ch/info -O scratch/RTS.html
 
     echo "Fetching nytimes.com ..."
-    wget nytimes.com -O scratch/inputNY.html
-    node extractNY.js
+    wget nytimes.com -O scratch/NY_Times.html
+
+    echo "Fetching cnn.com ..."
+    wget cnn.com -O scratch/CNN.html
+    
+    node extract.js
 
     echo "Extracting daily removals..."
     node extractDayliRemoval.js
@@ -30,11 +33,11 @@ while true; do
 
   # echo "📤 NOT Committing updates to Git..."
   
-  git stash push -m "stash everything except data, html, removed-by-day, removed-by-day2, removed-by-day3 " -- . ':(exclude)data' ':(exclude)html' ':(exclude)removed-by-day' ':(exclude)removed-by-day2' ':(exclude)removed-by-day3'
+  git stash push -m "stash everything except data, html, removed-by-day " -- . ':(exclude)data' ':(exclude)html' ':(exclude)removed-by-day'
   git pull
   echo "📤 Committing updates to Git..."
-  git add html/ data/ removed-by-day/ removed-by-day2/ removed-by-day3/
-  git commit -m "update html/ data/ removed-by-day/ removed-by-day2/ removed-by-day3/"
+  git add html/ data/ removed-by-day/ 
+  git commit -m "update html/ data/ removed-by-day/"
   git push
   git stash pop
 

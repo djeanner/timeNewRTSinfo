@@ -49,7 +49,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add html card-titles.json removed-by-day || true
+          git add html data removed-by-day || true
           git diff --cached --quiet || git commit -m "Update card titles and reports [auto]"
 
           # Use token-authenticated push

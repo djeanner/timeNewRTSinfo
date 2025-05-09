@@ -30,24 +30,28 @@ function calculateDurationString(start, end) {
 
 // === LOAD HTML ===
 const html = fs.readFileSync(inputHtmlFile, 'utf8');
-const $ = cheerio.load(html);
-
-
+const dom = cheerio.load(html); 
 
 // === EXTRACT CURRENT TITLES FROM HTML ===
-// === EXTRACT CURRENT TITLES FROM HTML ===
-const foundTitles = new Set();
+function extractTitlesFromPageNY(dom) {
+  const titles = new Set();
 
-$('div.css-xdandi').each((_, elem) => {
-  const titleElem = $(elem).find('p[class^="indicate-hover"]');
-  if (titleElem.length) {
-    const title = titleElem.text().trim();
-    if (title) {
-      foundTitles.add(title);
+  dom('div.css-xdandi').each((_, element) => {
+    const $titleElement = dom(element).find('p[class^="indicate-hover"]');
+    const titleText = $titleElement.text().trim();
+
+    if (titleText) {
+      titles.add(titleText);
     }
-  }
-});
+  });
 
+  return titles;
+}
+
+// Get the found titles
+const foundTitles = extractTitlesFromPageNY(dom);
+
+// END Specific part
 // === LOAD EXISTING DATA ===
 let existingTitles = [];
 try {

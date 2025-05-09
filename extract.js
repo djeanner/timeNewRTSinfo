@@ -1,11 +1,11 @@
 const fs = require('fs');
 const path = require('path');
 const cheerio = require('cheerio');
+
 const COMPUTER_ID = process.env.COMPUTER_ID || 'unknown-computer';
 // === CONFIG ===
-const inputHtmlFile = 'scratch/input.html';
-const outputJsonFileSuf = '1';
-const outputJsonFile = path.join(__dirname, 'data', `card-titles${outputJsonFileSuf}${COMPUTER_ID}.json`);
+
+const configs = JSON.parse(fs.readFileSync('media.json', 'utf8'));
 
 // === UTILS ===
 function parseDate(iso) {
@@ -28,18 +28,116 @@ function calculateDurationString(start, end) {
   };
 }
 
+
+for (const config of configs) {
+	const { dateFileSuf, medium } = config;
+  if (true) {
+    const outputJsonFileSuf = String(dateFileSuf);
+    const mediumUnderscored = medium.replace(/ /g, '_');
+    const inputHtmlFile = `scratch/${mediumUnderscored}.html`
+    const outputJsonFile = path.join(__dirname, 'data', `card-titles${outputJsonFileSuf}${COMPUTER_ID}.json`);
+
 // === LOAD HTML ===
 const html = fs.readFileSync(inputHtmlFile, 'utf8');
-const $ = cheerio.load(html);
+const dom = cheerio.load(html);
 
 
+function extractTitlesFromPageNY(dom) {
+  const titles = new Set();
 
-// === EXTRACT CURRENT TITLES FROM HTML ===
-const foundTitles = new Set();
-$('p.card-title').each((_, elem) => {
-  const title = $(elem).text().trim();
-  foundTitles.add(title);
+  dom('div.css-xdandi').each((_, element) => {
+    const $titleElement = dom(element).find('p[class^="indicate-hover"]');
+    const titleText = $titleElement.text().trim();
+
+    if (titleText) {
+      titles.add(titleText);
+    }
+  });
+
+  return titles;
+}
+
+function extractTitlesFromRTS(dom) {
+  const titles = new Set();
+
+dom('p.card-title').each((_, elem) => {
+  const title = dom(elem).text().trim();
+  titles.add(title);
 });
+
+  return titles;
+}
+
+
+function extractCNN(dom) {
+  const titles = new Set();
+
+// Select all matching span elements
+  dom('span.container__headline-text[data-editable="headline"]').each((_, element) => {
+    const $element = dom(element);
+
+    // Skip if any ancestor has the 'container_ribbon__text' class
+    if ($element.closest('.container_ribbon__text').length > 0) {
+      return; // skip this one
+    }
+
+    const titleText = $element.text().trim();
+    if (titleText) {
+      titles.add(titleText);
+    }
+  });
+
+  return titles;
+}
+
+function extractTitlesFromLeTemps(dom) {
+ // start specific part
+const allowedFirstTerms = new Set(['culture', 'monde', 'suisse', 'economie', 'sciences', 'sport', 'cyber']);
+  const titles = new Set();
+
+  dom('a[href]').each((_, elem) => {
+    const href = dom(elem).attr('href');
+    const title = dom(elem).text().trim();
+
+    const match = href.match(/^\/([^\/]+)\/([^\/]+)/);
+    if (match) {
+      const firstTerm = match[1];
+      const secondTerm = match[2];
+
+      if (allowedFirstTerms.has(firstTerm)) {
+        //results.push({ firstTerm, secondTerm, title });
+		titles.add(`${firstTerm}:::${title}`);
+      }
+    }
+  });
+
+  return titles;
+}
+// Get the found titles
+//
+
+let foundTitles = new Set();
+
+if (dateFileSuf == 1) {
+  foundTitles = extractTitlesFromRTS(dom);
+}
+
+if (dateFileSuf == 2) {
+  foundTitles = extractTitlesFromLeTemps(dom);
+}
+
+if (dateFileSuf == 3) {
+  foundTitles = extractTitlesFromPageNY(dom);
+}
+
+if (dateFileSuf == 4) {
+  foundTitles = extractCNN(dom);
+}
+
+// foundTitles is accessible here
+
+
+
 // === LOAD EXISTING DATA ===
 let existingTitles = [];
 try {
@@ -96,4 +194,5 @@ for (const entry of existingTitles) {
 fs.writeFileSync(outputJsonFile, JSON.stringify(existingTitles, null, 2), 'utf8');
 console.log(`✅ ${outputJsonFile} updated successfully.`);
 
-
+  }
+}
