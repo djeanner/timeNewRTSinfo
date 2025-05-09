@@ -184,21 +184,20 @@ ${rows}
 };
 
 for (const config of configs) {
-	const { dateFileSuf, medium } = config;
+	const {dateFileSuf, medium} = config;
 	const dateFileSustr = `_${dateFileSuf}`;
 	const dateFileSustForIndex = dateFileSuf == 1 ? "" : `${dateFileSuf}`;
 	const outputHtmlFile = `index${dateFileSustr}.html`;
-	const outputJsonDir = `removed-by-day${dateFileSustForIndex}`;
-	if (!fs.existsSync(outputJsonDir)) fs.mkdirSync(outputJsonDir);
+	const mediumUnderscores = medium.replace(/ /g, '_');
+	const outputJsonDir = path.join("removed-by-day", mediumUnderscores);
+	if (!fs.existsSync(outputJsonDir)) fs.mkdirSync(outputJsonDir, {recursive: true});
 	if (!fs.existsSync(outputHtmlDir)) fs.mkdirSync(outputHtmlDir);
-	//const inputFile = path.join(DATA_DIR, `card-titles${dateFileSuf}${COMPUTER_ID}.json`);
 	const allInputFiles = getAllDataFiles(`card-titles${dateFileSuf}`);
 	var data = [];
 	for (const inputFile of allInputFiles) {
 		console.log(`✅ allInput : ${allInputFiles} `);
 		console.log(`✅ inputFile: ${inputFile} `);
 
-		//const data = JSON.parse(fs.readFileSync(inputFile, "utf8"));
 		const computerName = path.basename(inputFile, ".json");
 		const dataOne = JSON.parse(fs.readFileSync(inputFile, "utf8"));
 		if (dataOne.length > 0) {
