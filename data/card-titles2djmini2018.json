@@ -2028,7 +2028,10 @@
   },
   {
     "title": "monde:::En direct – Kiev accuse Moscou d’attaquer sur «toute la ligne de front» malgré le cessez-le-feu",
-    "added_at": "2025-05-08T11:30:19.389Z"
+    "added_at": "2025-05-08T11:30:19.389Z",
+    "removed_at": "2025-05-09T02:35:03.934Z",
+    "duration_minutes": 904,
+    "duration_str": "15h 4m"
   },
   {
     "title": "suisse:::Nucléaire: la possible fermeture du laboratoire du Mont Terri suscite la consternation",
@@ -2103,7 +2106,10 @@
   },
   {
     "title": "suisse:::Les camps s’échauffent autour de la vidéosurveillance à Vevey",
-    "added_at": "2025-05-08T15:02:02.834Z"
+    "added_at": "2025-05-08T15:02:02.834Z",
+    "removed_at": "2025-05-09T02:31:22.243Z",
+    "duration_minutes": 689,
+    "duration_str": "11h 29m"
   },
   {
     "title": "suisse:::Malgré un contexte financier tendu, l’économie vaudoise se porte bien",
@@ -2159,7 +2165,10 @@
   },
   {
     "title": "economie:::L’industrie de défense romande cherche sa place dans le mouvement de réarmement européen",
-    "added_at": "2025-05-08T18:24:28.975Z"
+    "added_at": "2025-05-08T18:24:28.975Z",
+    "removed_at": "2025-05-09T02:31:22.243Z",
+    "duration_minutes": 486,
+    "duration_str": "8h 6m"
   },
   {
     "title": "monde:::Le fentanyl, au cœur des discussions de Genève entre Chine et Etats-Unis",
@@ -2172,5 +2181,13 @@
   {
     "title": "suisse:::A Bienne, des pavés pour se souvenir des compromissions avec le nazisme",
     "added_at": "2025-05-08T19:22:37.111Z"
+  },
+  {
+    "title": "monde:::«Le Saint-Esprit continue de nous surprendre»: Léon XIV, un premier pape américain, héritier de François",
+    "added_at": "2025-05-09T02:31:22.243Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Donald Trump appelle à un «cessez-le-feu inconditionnel de 30 jours»",
+    "added_at": "2025-05-09T02:35:03.934Z"
   }
 ]
