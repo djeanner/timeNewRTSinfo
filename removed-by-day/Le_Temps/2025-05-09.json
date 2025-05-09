@@ -169,8 +169,9 @@
   {
     "title": "culture:::Ariane Moret, directrice du Théâtre du Jorat qui lance sa saison: «Notre ambition est de combler tous les publics»",
     "added_at": "2025-05-09T15:24:23.357Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-09T19:28:43.496Z",
+    "duration_minutes": 244,
+    "duration_str": "4h 4m"
   },
   {
     "title": "economie:::Le fragile renouveau de la petite hydraulique en Suisse",
@@ -188,9 +189,9 @@
   {
     "title": "monde:::Notre suivi de l’élection de Léon XIV, premier pape nord-américain",
     "added_at": "2025-05-09T16:34:33.529Z",
-    "removed_at": "2025-05-09T19:04:05.072Z",
-    "duration_minutes": 150,
-    "duration_str": "2h 30m"
+    "removed_at": "2025-05-09T19:03:21.897Z",
+    "duration_minutes": 149,
+    "duration_str": "2h 29m"
   },
   {
     "title": "economie:::A quand des taux négatifs en Suisse?",
@@ -201,8 +202,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky annonce un sommet de dirigeants européens en Ukraine samedi",
     "added_at": "2025-05-09T16:49:21.129Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-09T19:30:39.577Z",
+    "duration_minutes": 161,
+    "duration_str": "2h 41m"
   },
   {
     "title": "suisse:::Karin Keller-Sutter et Guy Parmelin parlent de marché avec Pékin et de taxes avec Washington",
@@ -226,8 +228,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Un comité spécial de l’ONU met en garde contre «une autre Naqba»",
     "added_at": "2025-05-09T17:25:10.521Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-09T19:30:39.577Z",
+    "duration_minutes": 125,
+    "duration_str": "2h 5m"
   },
   {
     "title": "monde:::Réformes, ouverture au monde: ce qu’il faut attendre du nouveau pape Léon XIV",
@@ -251,6 +254,24 @@
   {
     "title": "sciences:::Marco Sieber: «C'est un bon moment pour être astronaute parce qu'il y a beaucoup d'opportunités qui se présentent»",
     "added_at": "2025-05-09T18:50:52.893Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "sport:::Une entame prometteuse, une fin cruelle: la Suisse s’incline en prolongation face à la République tchèque",
+    "added_at": "2025-05-09T19:28:43.496Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Moyen-Orient – Un comité spécial de l’ONU met en garde contre «une autre Naqba»",
+    "added_at": "2025-05-09T19:30:39.577Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Volodymyr Zelensky annonce un sommet de dirigeants européens en Ukraine samedi",
+    "added_at": "2025-05-09T19:30:39.577Z",
     "duration_minutes": 0,
     "duration_str": ""
   }

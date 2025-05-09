@@ -3978,7 +3978,10 @@
   },
   {
     "title": "See How a Communications Outage Affected Flights at Newark Airport",
-    "added_at": "2025-05-09T10:02:17.652Z"
+    "added_at": "2025-05-09T10:02:17.652Z",
+    "removed_at": "2025-05-09T19:19:18.584Z",
+    "duration_minutes": 557,
+    "duration_str": "9h 17m"
   },
   {
     "title": "‘How Do I Survive?’: Tariffs Threaten U.S. Market for Traditional Chinese Medicine",
@@ -4142,7 +4145,10 @@
   },
   {
     "title": "Newark Airport Has Another Radar Outage",
-    "added_at": "2025-05-09T15:58:36.257Z"
+    "added_at": "2025-05-09T15:58:36.257Z",
+    "removed_at": "2025-05-09T19:19:18.584Z",
+    "duration_minutes": 200,
+    "duration_str": "3h 20m"
   },
   {
     "title": "Baffled by the Trump Tariffs, C.E.O.s Lean on the Word ‘Uncertainty’",
@@ -4209,7 +4215,10 @@
   },
   {
     "title": "Judge Orders Release of Tufts Student Detained by ICE",
-    "added_at": "2025-05-09T17:29:23.115Z"
+    "added_at": "2025-05-09T17:29:23.115Z",
+    "removed_at": "2025-05-09T19:19:18.584Z",
+    "duration_minutes": 109,
+    "duration_str": "1h 49m"
   },
   {
     "title": "He Runs a Family Business. He Wants to Follow the Rules. It Isn’t Easy.",
@@ -4252,17 +4261,11 @@
   },
   {
     "title": "Menendez Brothers’ Resentencing Hearing Is Set for Next Week",
-    "added_at": "2025-05-09T18:54:37.433Z",
-    "removed_at": "2025-05-09T18:56:33.627Z",
-    "duration_minutes": 1,
-    "duration_str": "1m"
+    "added_at": "2025-05-09T18:54:37.433Z"
   },
   {
     "title": "The Menendez Brothers Chicken Wing Empire That Never Was",
-    "added_at": "2025-05-09T18:54:37.433Z",
-    "removed_at": "2025-05-09T18:56:33.627Z",
-    "duration_minutes": 1,
-    "duration_str": "1m"
+    "added_at": "2025-05-09T18:54:37.433Z"
   },
   {
     "title": "On Red Square, Putin Enlists Russian Pride for His War in Ukraine",
@@ -4271,5 +4274,9 @@
   {
     "title": "India and Pakistan Enter 3rd Night of Conflict Amid Efforts at Peace",
     "added_at": "2025-05-09T19:09:45.965Z"
+  },
+  {
+    "title": "How Trump Is Scrambling the G.O.P. Push to Cut Medicaid Spending",
+    "added_at": "2025-05-09T19:19:18.584Z"
   }
 ]

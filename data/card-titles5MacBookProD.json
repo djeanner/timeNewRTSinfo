@@ -23,14 +23,14 @@
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T10:29:58.735Z",
-    "removed_at": "2025-05-09T19:11:40.206Z",
-    "duration_minutes": 521,
-    "duration_str": "8h 41m"
+    "added_at": "2025-05-09T10:29:58.735Z"
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T10:29:58.735Z"
+    "added_at": "2025-05-09T10:29:58.735Z",
+    "removed_at": "2025-05-09T19:32:29.933Z",
+    "duration_minutes": 542,
+    "duration_str": "9h 2m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -115,7 +115,10 @@
   },
   {
     "title": "« Vladimir Poutine a privatisé à son profit la victoire de 1945 »",
-    "added_at": "2025-05-09T10:29:58.735Z"
+    "added_at": "2025-05-09T10:29:58.735Z",
+    "removed_at": "2025-05-09T19:26:49.605Z",
+    "duration_minutes": 536,
+    "duration_str": "8h 56m"
   },
   {
     "title": "Israël poursuit ses bombardements sur la bande de Gaza, le camp de déplacés de Nousseirat visé",
@@ -239,9 +242,9 @@
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
     "added_at": "2025-05-09T10:32:57.100Z",
-    "removed_at": "2025-05-09T19:02:15.474Z",
-    "duration_minutes": 509,
-    "duration_str": "8h 29m"
+    "removed_at": "2025-05-09T19:26:49.605Z",
+    "duration_minutes": 533,
+    "duration_str": "8h 53m"
   },
   {
     "title": "En direct, nouveau pape : qui est Léon XIV, et que peut-on attendre de son pontificat ? Posez vos questions à nos journalistes",
@@ -309,10 +312,7 @@
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
-    "added_at": "2025-05-09T11:14:47.814Z",
-    "removed_at": "2025-05-09T19:15:26.787Z",
-    "duration_minutes": 480,
-    "duration_str": "8h"
+    "added_at": "2025-05-09T11:14:47.814Z"
   },
   {
     "title": "En direct, nouveau pape : « L’homélie du pape Léon XIV, très ancrée dans le monde réel, le place dans la double continuité de François et de Benoît XVI »",
@@ -2061,10 +2061,17 @@
   },
   {
     "title": "Emmanuel Macron appelle à un plan américano-européen pour un cessez-le-feu en Ukraine, avec menace de « sanctions massives »",
-    "added_at": "2025-05-09T19:02:15.474Z"
+    "added_at": "2025-05-09T19:02:15.474Z",
+    "removed_at": "2025-05-09T19:30:39.891Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
   },
   {
     "title": "Richard Overy, historien : « Hitler était déterminé à organiser une fin apocalyptique »",
     "added_at": "2025-05-09T19:04:05.475Z"
+  },
+  {
+    "title": "Emmanuel Macron souhaite un plan américano-européen pour un cessez-le-feu en Ukraine, avec menace de « sanctions massives »",
+    "added_at": "2025-05-09T19:30:39.891Z"
   }
 ]
