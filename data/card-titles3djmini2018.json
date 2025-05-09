@@ -3832,7 +3832,10 @@
   },
   {
     "title": "Late Night: The First American Pope",
-    "added_at": "2025-05-09T09:43:49.472Z"
+    "added_at": "2025-05-09T09:43:49.472Z",
+    "removed_at": "2025-05-09T16:24:45.478Z",
+    "duration_minutes": 400,
+    "duration_str": "6h 40m"
   },
   {
     "title": "Amid Blockade, Trump and Israel Mull Divisive Aid Plan For Gaza",
@@ -3910,7 +3913,10 @@
   },
   {
     "title": "2 Men Found Guilty of Felling Britain’s Sycamore Gap Tree",
-    "added_at": "2025-05-09T09:56:52.390Z"
+    "added_at": "2025-05-09T09:56:52.390Z",
+    "removed_at": "2025-05-09T16:24:45.478Z",
+    "duration_minutes": 387,
+    "duration_str": "6h 27m"
   },
   {
     "title": "See How a Communications Outage Affected Flights at Newark Airport",
@@ -4101,9 +4107,6 @@
   },
   {
     "title": "How the Strange Case of the Sycamore Gap Tree Was Solved",
-    "added_at": "2025-05-09T16:17:09.378Z",
-    "removed_at": "2025-05-09T16:22:48.328Z",
-    "duration_minutes": 5,
-    "duration_str": "5m"
+    "added_at": "2025-05-09T16:17:09.378Z"
   }
 ]
