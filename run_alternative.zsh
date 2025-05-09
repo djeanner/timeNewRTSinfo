@@ -36,6 +36,7 @@ while true; do
   # Stash only changes outside of 'data/'
   git stash push -m "non-data changes" -- . ':(exclude)data'
   git pull --ff-only
+  git add data/
   git commit data/ -m "update only main json file"
   git push
   git stash pop
