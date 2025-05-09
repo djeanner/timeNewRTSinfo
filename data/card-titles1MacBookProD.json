@@ -6001,7 +6001,10 @@
   },
   {
     "title": "Comment la Russie et la Chine mènent la bataille de l'information internationale",
-    "added_at": "2025-05-07T13:28:51.269Z"
+    "added_at": "2025-05-07T13:28:51.269Z",
+    "removed_at": "2025-05-09T15:51:00.758Z",
+    "duration_minutes": 3022,
+    "duration_str": "2d 2h 22m"
   },
   {
     "title": "La Poste va fermer sa filiale de livraisons express notime, 600 emplois menacés",
@@ -6420,7 +6423,10 @@
   },
   {
     "title": "La frontière entre Inde et Pakistan s'embrase : des bombardements font 40 morts",
-    "added_at": "2025-05-08T22:47:08.239Z"
+    "added_at": "2025-05-08T22:47:08.239Z",
+    "removed_at": "2025-05-09T15:51:00.758Z",
+    "duration_minutes": 1023,
+    "duration_str": "17h 3m"
   },
   {
     "title": "Une exposition au Musée suisse des douanes sur les objets de vacances confisqués",
@@ -6506,10 +6512,7 @@
   },
   {
     "title": "Des étudiants propalestiniens occupent à nouveau l’Université de Genève",
-    "added_at": "2025-05-09T10:50:54.975Z",
-    "removed_at": "2025-05-09T12:51:26.703Z",
-    "duration_minutes": 120,
-    "duration_str": "2h"
+    "added_at": "2025-05-09T10:50:54.975Z"
   },
   {
     "title": "Début du deuxième jour du conclave pour désigner le pape",
@@ -6561,5 +6564,9 @@
   {
     "title": "Moscou célèbre le 80e anniversaire de la défaite de l'Allemagne nazie",
     "added_at": "2025-05-09T15:03:50.244Z"
+  },
+  {
+    "title": "Le métro lausannois à nouveau à l'arrêt entre Ouchy et Bessières",
+    "added_at": "2025-05-09T15:51:00.758Z"
   }
 ]
