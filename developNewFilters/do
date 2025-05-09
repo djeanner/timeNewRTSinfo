@@ -1,0 +1,4 @@
+
+
+wget https://www.cnn.com -O scratch/medium.html
+node cnn.js
