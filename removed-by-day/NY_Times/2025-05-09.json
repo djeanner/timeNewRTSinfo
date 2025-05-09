@@ -282,8 +282,9 @@
   {
     "title": "Can You Pass the Army’s New Fitness Test?",
     "added_at": "2025-05-09T09:56:39.485Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-09T19:36:21.797Z",
+    "duration_minutes": 580,
+    "duration_str": "9h 40m"
   },
   {
     "title": "‘Enough Is Enough’: Report of a Child’s Rape Enrages South Africans",
@@ -301,7 +302,7 @@
   {
     "title": "See How a Communications Outage Affected Flights at Newark Airport",
     "added_at": "2025-05-09T09:56:52.390Z",
-    "removed_at": "2025-05-09T19:19:18.584Z",
+    "removed_at": "2025-05-09T19:18:29.027Z",
     "duration_minutes": 562,
     "duration_str": "9h 22m"
   },
@@ -478,9 +479,9 @@
   {
     "title": "Newark Airport Has Another Radar Outage",
     "added_at": "2025-05-09T15:58:20.520Z",
-    "removed_at": "2025-05-09T19:19:18.584Z",
-    "duration_minutes": 201,
-    "duration_str": "3h 21m"
+    "removed_at": "2025-05-09T19:20:22.721Z",
+    "duration_minutes": 202,
+    "duration_str": "3h 22m"
   },
   {
     "title": "Baffled by the Trump Tariffs, C.E.O.s Lean on the Word ‘Uncertainty’",
@@ -562,9 +563,8 @@
   {
     "title": "Judge Orders Release of Tufts Student Detained by ICE",
     "added_at": "2025-05-09T17:28:59.912Z",
-    "removed_at": "2025-05-09T19:19:18.584Z",
-    "duration_minutes": 110,
-    "duration_str": "1h 50m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "He Runs a Family Business. He Wants to Follow the Rules. It Isn’t Easy.",
@@ -647,7 +647,13 @@
   },
   {
     "title": "How Trump Is Scrambling the G.O.P. Push to Cut Medicaid Spending",
-    "added_at": "2025-05-09T19:19:18.584Z",
+    "added_at": "2025-05-09T19:18:29.027Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "El Salvador Put Trump Deportees Behind Bars. Now Their Families Are Suing.",
+    "added_at": "2025-05-09T19:36:21.797Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
