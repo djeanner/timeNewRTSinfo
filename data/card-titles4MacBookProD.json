@@ -815,7 +815,10 @@
   },
   {
     "title": "Air controllers lost radar and radio contact with planes at Newark airport a second time",
-    "added_at": "2025-05-09T16:09:57.545Z"
+    "added_at": "2025-05-09T16:09:57.545Z",
+    "removed_at": "2025-05-09T17:48:21.999Z",
+    "duration_minutes": 98,
+    "duration_str": "1h 38m"
   },
   {
     "title": "US and other Ukraine allies pile pressure on Putin, threatening fresh sanctions if he refuses 30-day truce",
@@ -831,11 +834,17 @@
   },
   {
     "title": "Migrants, believed to be destined for Libya, sat on a bus for hours",
-    "added_at": "2025-05-09T16:32:37.873Z"
+    "added_at": "2025-05-09T16:32:37.873Z",
+    "removed_at": "2025-05-09T17:40:45.841Z",
+    "duration_minutes": 68,
+    "duration_str": "1h 8m"
   },
   {
     "title": "Trump floats 100% tariff on Barbies while UK trade ‘deal’ shields super-luxury cars",
-    "added_at": "2025-05-09T16:32:37.873Z"
+    "added_at": "2025-05-09T16:32:37.873Z",
+    "removed_at": "2025-05-09T17:48:21.999Z",
+    "duration_minutes": 75,
+    "duration_str": "1h 15m"
   },
   {
     "title": "See aftermath of alleged drone attack",
@@ -844,5 +853,17 @@
   {
     "title": "Medieval tale of Merlin and King Arthur found hiding as a book cover",
     "added_at": "2025-05-09T16:55:20.123Z"
+  },
+  {
+    "title": "US federal judge orders immediate release of Tufts University student after six weeks in detention",
+    "added_at": "2025-05-09T17:40:45.841Z"
+  },
+  {
+    "title": "Pentagon considers shifting Greenland to US Northern Command, sparking concerns over Trump’s ambitions",
+    "added_at": "2025-05-09T17:48:21.999Z"
+  },
+  {
+    "title": "Air controllers lose contact with planes at Newark airport again",
+    "added_at": "2025-05-09T17:48:21.999Z"
   }
 ]
