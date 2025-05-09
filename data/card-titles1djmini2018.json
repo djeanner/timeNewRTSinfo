@@ -3495,7 +3495,10 @@
   },
   {
     "title": "Le métro lausannois à nouveau à l'arrêt entre Ouchy et Bessières",
-    "added_at": "2025-05-09T15:52:41.261Z"
+    "added_at": "2025-05-09T15:52:41.261Z",
+    "removed_at": "2025-05-09T20:16:57.727Z",
+    "duration_minutes": 264,
+    "duration_str": "4h 24m"
   },
   {
     "title": "Les entreprises neuchâteloises s'attendent à une année morose",
@@ -3516,5 +3519,9 @@
   {
     "title": "Lausanne fait son grand nettoyage de printemps, quartier par quartier",
     "added_at": "2025-05-09T19:05:17.731Z"
+  },
+  {
+    "title": "Le métro lausannois a subi plusieurs grosses perturbations vendredi",
+    "added_at": "2025-05-09T20:16:57.727Z"
   }
 ]
