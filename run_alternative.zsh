@@ -21,6 +21,9 @@ while true; do
     echo "Fetching cnn.com ..."
     wget cnn.com -O scratch/CNN.html
     
+    echo "Fetching lemonde.fr ..."
+    wget lemonde.fr -O scratch/le_Monde.html
+
     node extract.js
 
     echo "Waiting for $sleep_time seconds..."

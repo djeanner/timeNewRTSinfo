@@ -1,4 +1,4 @@
 
 
-wget https://www.cnn.com -O scratch/medium.html
-node cnn.js
+wget https://www.lemonde.fr -O scratch/medium.html
+node leMonde.js
