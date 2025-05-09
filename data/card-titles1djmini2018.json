@@ -2957,7 +2957,10 @@
   },
   {
     "title": "Des étudiants propalestiniens occupent à nouveau l'Université de Genève",
-    "added_at": "2025-05-07T14:26:58.000Z"
+    "added_at": "2025-05-07T14:26:58.000Z",
+    "removed_at": "2025-05-09T15:03:33.991Z",
+    "duration_minutes": 2916,
+    "duration_str": "2d 36m"
   },
   {
     "title": "Les cardinaux prient dans la chapelle Pauline avant le début du conclave destiné à élire un nouveau pape",
@@ -3467,5 +3470,9 @@
   {
     "title": "A quel point peut-on se soigner avec les IA? On en parle a fait le test",
     "added_at": "2025-05-09T14:54:06.518Z"
+  },
+  {
+    "title": "Moscou célèbre le 80e anniversaire de la défaite de l'Allemagne nazie",
+    "added_at": "2025-05-09T15:03:33.991Z"
   }
 ]
