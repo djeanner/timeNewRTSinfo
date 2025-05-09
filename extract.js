@@ -33,18 +33,8 @@ for (const config of configs) {
 	const { dateFileSuf, medium } = config;
   if (true) {
     const outputJsonFileSuf = String(dateFileSuf);
-    var inputHtmlFile = `scratch/input_${dateFileSuf}.html`;
-
-    // until change the main scripts... overwrite the input names
-    if (dateFileSuf == 1) { // rts
-      inputHtmlFile = `scratch/input.html`;
-    }
-     if (dateFileSuf == 2) { // le temps
-      inputHtmlFile = `scratch/leTemps.html`;
-    }
-     if (dateFileSuf == 3) { // nytimes
-      inputHtmlFile = `scratch/inputNY.html`;
-    }
+    const mediumUnderscored = medium.replace(/ /g, '_');
+    const inputHtmlFile = `scratch/${mediumUnderscored}.html`
     const outputJsonFile = path.join(__dirname, 'data', `card-titles${outputJsonFileSuf}${COMPUTER_ID}.json`);
 
 // === LOAD HTML ===
@@ -67,7 +57,7 @@ function extractTitlesFromPageNY(dom) {
   return titles;
 }
 
-function extractTitlesFroRTS(dom) {
+function extractTitlesFromRTS(dom) {
   const titles = new Set();
 
 dom('p.card-title').each((_, elem) => {
@@ -79,7 +69,28 @@ dom('p.card-title').each((_, elem) => {
 }
 
 
-function extractTitlesFroLeTemps(dom) {
+function extractCNN(dom) {
+  const titles = new Set();
+
+// Select all matching span elements
+  dom('span.container__headline-text[data-editable="headline"]').each((_, element) => {
+    const $element = dom(element);
+
+    // Skip if any ancestor has the 'container_ribbon__text' class
+    if ($element.closest('.container_ribbon__text').length > 0) {
+      return; // skip this one
+    }
+
+    const titleText = $element.text().trim();
+    if (titleText) {
+      titles.add(titleText);
+    }
+  });
+
+  return titles;
+}
+
+function extractTitlesFromLeTemps(dom) {
  // start specific part
 const allowedFirstTerms = new Set(['culture', 'monde', 'suisse', 'economie', 'sciences', 'sport', 'cyber']);
   const titles = new Set();
@@ -105,18 +116,22 @@ const allowedFirstTerms = new Set(['culture', 'monde', 'suisse', 'economie', 'sc
 // Get the found titles
 //
 
-let foundTitles;
+let foundTitles = new Set();
 
-if (dateFileSuf == 1) { // RTS
-  foundTitles = extractTitlesFroRTS(dom);
+if (dateFileSuf == 1) {
+  foundTitles = extractTitlesFromRTS(dom);
 }
 
-if (dateFileSuf == 2) { // Le Temps
-  foundTitles = extractTitlesFroLeTemps(dom);
+if (dateFileSuf == 2) {
+  foundTitles = extractTitlesFromLeTemps(dom);
 }
 
-if (dateFileSuf == 3) { // NY Times
+if (dateFileSuf == 3) {
   foundTitles = extractTitlesFromPageNY(dom);
+}
+
+if (dateFileSuf == 4) {
+  foundTitles = extractCNN(dom);
 }
 
 // foundTitles is accessible here
