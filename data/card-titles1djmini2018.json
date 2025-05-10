@@ -3264,7 +3264,10 @@
   },
   {
     "title": "L'occupation du hall d'UniMail par des étudiants propalestiniens se poursuit",
-    "added_at": "2025-05-08T12:07:47.692Z"
+    "added_at": "2025-05-08T12:07:47.692Z",
+    "removed_at": "2025-05-10T18:57:59.610Z",
+    "duration_minutes": 3290,
+    "duration_str": "2d 6h 50m"
   },
   {
     "title": "BDFIL met en lumière le travail des femmes horlogères de la Vallée de Joux au XVIIIe siècle",
@@ -3531,7 +3534,10 @@
   },
   {
     "title": "Des étudiants propalestiniens occupent à nouveau l’Université de Genève",
-    "added_at": "2025-05-09T10:51:39.756Z"
+    "added_at": "2025-05-09T10:51:39.756Z",
+    "removed_at": "2025-05-10T18:54:09.834Z",
+    "duration_minutes": 1922,
+    "duration_str": "1d 8h 2m"
   },
   {
     "title": "Bâtisseur de pont, modeste, anti-Trump: la presse mondiale enthousiaste sur le nouveau pape",
@@ -3625,10 +3631,7 @@
   },
   {
     "title": "Le Pakistan annonce avoir lancé une offensive militaire contre l'Inde",
-    "added_at": "2025-05-10T03:47:51.188Z",
-    "removed_at": "2025-05-10T15:52:44.193Z",
-    "duration_minutes": 724,
-    "duration_str": "12h 4m"
+    "added_at": "2025-05-10T03:47:51.188Z"
   },
   {
     "title": "Swisstopo ne veut plus assurer l'exploitation du laboratoire du Mont Terri",
@@ -3803,5 +3806,13 @@
   {
     "title": "Les négociations commerciales entre les Etats-Unis et la Chine lancées à Genève",
     "added_at": "2025-05-10T18:12:39.296Z"
+  },
+  {
+    "title": "Plusieurs dirigeants européens à Kiev pour soutenir le président Zelensky",
+    "added_at": "2025-05-10T18:54:09.834Z"
+  },
+  {
+    "title": "Le cinéma américain influence-t-il encore le monde?",
+    "added_at": "2025-05-10T18:57:59.610Z"
   }
 ]
