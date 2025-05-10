@@ -3142,7 +3142,10 @@
   },
   {
     "title": "Le Parlement veut maintenir le taux spécial de TVA pour l'hôtellerie sur le long terme",
-    "added_at": "2025-05-08T06:50:47.226Z"
+    "added_at": "2025-05-08T06:50:47.226Z",
+    "removed_at": "2025-05-10T09:12:23.278Z",
+    "duration_minutes": 3021,
+    "duration_str": "2d 2h 21m"
   },
   {
     "title": "\"La Meute\": le livre qui dévoile les dérives autoritaires de Jean-Luc Mélenchon",
@@ -3168,7 +3171,10 @@
   },
   {
     "title": "Michel Polnareff revient avec \"Un temps pour elles\", album dédié aux femmes de sa vie",
-    "added_at": "2025-05-08T07:58:13.326Z"
+    "added_at": "2025-05-08T07:58:13.326Z",
+    "removed_at": "2025-05-10T09:19:58.572Z",
+    "duration_minutes": 2961,
+    "duration_str": "2d 1h 21m"
   },
   {
     "title": "Une sonde soviétique oubliée s'apprête à s'écraser sur Terre après 53 ans dans l'espace",
@@ -3623,6 +3629,21 @@
   },
   {
     "title": "Genève accueille la reprise du dialogue économique entre Washington et Pékin ce week-end",
-    "added_at": "2025-05-10T08:25:12.703Z"
+    "added_at": "2025-05-10T08:25:12.703Z",
+    "removed_at": "2025-05-10T09:16:08.874Z",
+    "duration_minutes": 50,
+    "duration_str": "50m"
+  },
+  {
+    "title": "12345678, un mot de passe piraté en 37 secondes!",
+    "added_at": "2025-05-10T09:12:23.278Z"
+  },
+  {
+    "title": "Les négociations commerciales entre les Etats-Unis et la Chine ont débuté à Genève",
+    "added_at": "2025-05-10T09:16:08.874Z"
+  },
+  {
+    "title": "Plus de 160'000 personnes confinées en Espagne à cause d'un nuage de chlore",
+    "added_at": "2025-05-10T09:19:58.572Z"
   }
 ]
