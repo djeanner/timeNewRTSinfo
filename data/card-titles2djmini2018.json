@@ -2266,7 +2266,10 @@
   },
   {
     "title": "cyber:::La guerre entre Google et les chatbots d’intelligence artificielle est lancée et nous concerne tous",
-    "added_at": "2025-05-09T04:38:36.630Z"
+    "added_at": "2025-05-09T04:38:36.630Z",
+    "removed_at": "2025-05-10T05:20:19.138Z",
+    "duration_minutes": 1481,
+    "duration_str": "1d 41m"
   },
   {
     "title": "monde:::Les célébrations du 9 Mai à Moscou, trêve pour l’Histoire selon les uns, «coup de com» pour les autres",
@@ -2460,5 +2463,9 @@
   {
     "title": "monde:::Guerre en Ukraine – Volodymyr Zelensky annonce un sommet de dirigeants européens en Ukraine samedi",
     "added_at": "2025-05-09T19:31:44.186Z"
+  },
+  {
+    "title": "monde:::Le Pakistan frappe l’Inde en riposte à des missiles indiens contre Islamabad",
+    "added_at": "2025-05-10T05:20:19.138Z"
   }
 ]
