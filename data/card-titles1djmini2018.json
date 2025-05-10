@@ -3455,7 +3455,10 @@
   },
   {
     "title": "120 secondes - La police en sous-effectif",
-    "added_at": "2025-05-09T00:48:25.578Z"
+    "added_at": "2025-05-09T00:48:25.578Z",
+    "removed_at": "2025-05-10T22:57:31.962Z",
+    "duration_minutes": 2769,
+    "duration_str": "1d 22h 9m"
   },
   {
     "title": "La Poste va fermer fin septembre sa filiale de coursiers à vélo Notime",
@@ -3842,5 +3845,9 @@
   {
     "title": "Théo Jeannet évoque les enjeux de la rencontre entre les Etats-Unis et la Chine",
     "added_at": "2025-05-10T21:57:10.309Z"
+  },
+  {
+    "title": "Le CERN transmute le plomb en or: interview de John Jowett",
+    "added_at": "2025-05-10T22:53:46.599Z"
   }
 ]
