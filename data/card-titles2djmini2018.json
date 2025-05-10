@@ -2499,7 +2499,10 @@
   },
   {
     "title": "monde:::En direct, Guerre en Ukraine – Volodymyr Zelensky reçoit à Kiev le président français, les premiers ministres britannique et polonais, et le chancelier allemand",
-    "added_at": "2025-05-10T05:42:57.065Z"
+    "added_at": "2025-05-10T05:42:57.065Z",
+    "removed_at": "2025-05-10T08:34:42.126Z",
+    "duration_minutes": 171,
+    "duration_str": "2h 51m"
   },
   {
     "title": "suisse:::A Genève, Chine et Etats-Unis tiennent des négociations commerciales pour calmer le jeu",
@@ -2516,5 +2519,9 @@
   {
     "title": "sport:::Bienvenue à Herning, cœur battant du hockey danois, où la Suisse dispute le premier tour du Mondial",
     "added_at": "2025-05-10T08:04:28.795Z"
+  },
+  {
+    "title": "monde:::En direct, Guerre en Ukraine – A Kiev, Friedrich Merz menace la Russie d’un «durcissement massif des sanctions»",
+    "added_at": "2025-05-10T08:34:42.126Z"
   }
 ]
