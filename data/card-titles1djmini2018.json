@@ -3753,7 +3753,10 @@
   },
   {
     "title": "Ultimatum des alliés de Kiev à Moscou pour une trêve de 30 jours",
-    "added_at": "2025-05-10T14:12:37.215Z"
+    "added_at": "2025-05-10T14:12:37.215Z",
+    "removed_at": "2025-05-10T17:17:44.767Z",
+    "duration_minutes": 185,
+    "duration_str": "3h 5m"
   },
   {
     "title": "Reusser magnifique dauphine de la reine Vollering",
@@ -3782,5 +3785,9 @@
   {
     "title": "Le Hamas diffuse une vidéo de deux otages israéliens en vie",
     "added_at": "2025-05-10T16:30:37.610Z"
+  },
+  {
+    "title": "Les alliés de Kiev adressent à la Russie un ultimatum pour une trêve de 30 jours, le Kremlin \"va réfléchir\"",
+    "added_at": "2025-05-10T17:17:44.767Z"
   }
 ]
