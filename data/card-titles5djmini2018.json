@@ -27,7 +27,10 @@
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-10T05:37:17.214Z",
+    "duration_minutes": 1115,
+    "duration_str": "18h 35m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -262,24 +265,18 @@
   },
   {
     "title": "La première apparition du pape Léon XIV en images",
-    "added_at": "2025-05-09T11:07:52.917Z",
-    "removed_at": "2025-05-10T05:07:06.681Z",
-    "duration_minutes": 1079,
-    "duration_str": "17h 59m"
+    "added_at": "2025-05-09T11:07:52.917Z"
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
     "added_at": "2025-05-09T11:11:38.599Z",
-    "removed_at": "2025-05-10T05:16:36.333Z",
-    "duration_minutes": 1084,
-    "duration_str": "18h 4m"
+    "removed_at": "2025-05-10T05:37:17.214Z",
+    "duration_minutes": 1105,
+    "duration_str": "18h 25m"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
-    "added_at": "2025-05-09T11:15:27.813Z",
-    "removed_at": "2025-05-10T05:24:05.039Z",
-    "duration_minutes": 1088,
-    "duration_str": "18h 8m"
+    "added_at": "2025-05-09T11:15:27.813Z"
   },
   {
     "title": "Fidji Simo, une Française de 39 ans dans la direction d’OpenAI, l’entreprise d’intelligence artificielle",
@@ -333,7 +330,10 @@
   },
   {
     "title": "Entre l’Inde et le Pakistan, des tirs et des ripostes qui les rapprochent d’une guerre",
-    "added_at": "2025-05-09T12:06:21.982Z"
+    "added_at": "2025-05-09T12:06:21.982Z",
+    "removed_at": "2025-05-10T05:39:12.608Z",
+    "duration_minutes": 1052,
+    "duration_str": "17h 32m"
   },
   {
     "title": "Le retour contrarié de Marion Maréchal dans l’orbite du RN",
@@ -2097,7 +2097,10 @@
   },
   {
     "title": "Ukraine : Emmanuel Macron, Friedrich Merz, Keir Starmer et Donald Tusk se rendent ensemble à Kiev pour le sommet de la « coalition des volontaires »",
-    "added_at": "2025-05-09T21:41:57.584Z"
+    "added_at": "2025-05-09T21:41:57.584Z",
+    "removed_at": "2025-05-10T05:31:38.593Z",
+    "duration_minutes": 469,
+    "duration_str": "7h 49m"
   },
   {
     "title": "Guerre au Proche-Orient : missiles tirés du Yémen vers Israël, fondation pour gérer l’aide humanitaire… Le point sur la situation",
@@ -2243,5 +2246,9 @@
   {
     "title": "« Léon XIV aura affaire à un catholicisme américain différent de celui du Chicago qui l’a vu naître »",
     "added_at": "2025-05-10T05:07:06.681Z"
+  },
+  {
+    "title": "Ukraine : Emmanuel Macron, Friedrich Merz, Keir Starmer et Donald Tusk ensemble à Kiev pour le sommet de la « coalition des volontaires »",
+    "added_at": "2025-05-10T05:31:38.593Z"
   }
 ]
