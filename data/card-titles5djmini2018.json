@@ -12,7 +12,10 @@
   },
   {
     "title": "Taxes Trump : « La vulnérabilité de l’industrie automobile nippone fragilise l’économie du Japon »",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-10T13:06:35.106Z",
+    "duration_minutes": 1564,
+    "duration_str": "1d 2h 4m"
   },
   {
     "title": "« L’enjeu pour les jeunes et les seniors n’est plus de travailler moins, mais de travailler tous »",
@@ -27,7 +30,10 @@
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-10T13:06:35.106Z",
+    "duration_minutes": 1564,
+    "duration_str": "1d 2h 4m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -51,9 +57,9 @@
   {
     "title": "Le risque d’un retour en arrière pour les victimes de violence sexuelle et pour la place des femmes dans l’Eglise catholique",
     "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-10T12:47:41.475Z",
-    "duration_minutes": 1545,
-    "duration_str": "1d 1h 45m"
+    "removed_at": "2025-05-10T13:14:03.437Z",
+    "duration_minutes": 1572,
+    "duration_str": "1d 2h 12m"
   },
   {
     "title": "Les membres du jury",
@@ -115,9 +121,9 @@
   {
     "title": "Gaza : les images authentifiées de l’opération sans précédent menée par Israël à Rafah",
     "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-10T13:02:44.254Z",
-    "duration_minutes": 1560,
-    "duration_str": "1d 2h"
+    "removed_at": "2025-05-10T13:17:52.847Z",
+    "duration_minutes": 1576,
+    "duration_str": "1d 2h 16m"
   },
   {
     "title": "La France, le Royaume-Uni et les pays du nord de l’Europe soutiennent la trêve de 30 jours en Ukraine proposée par Trump",
@@ -259,9 +265,9 @@
   {
     "title": "Inde-Pakistan : l’opération militaire indienne a révélé les faiblesses de son armée de l’air",
     "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-10T12:49:36.940Z",
-    "duration_minutes": 1547,
-    "duration_str": "1d 1h 47m"
+    "removed_at": "2025-05-10T13:14:03.437Z",
+    "duration_minutes": 1572,
+    "duration_str": "1d 2h 12m"
   },
   {
     "title": "En direct, nouveau pape : « Le conclave pour désigner le pape Léon XIV a été très court et de premières confidences font état d’une quasi “unanimité” en sa faveur »",
@@ -287,16 +293,13 @@
   {
     "title": "La première apparition du pape Léon XIV en images",
     "added_at": "2025-05-09T11:07:52.917Z",
-    "removed_at": "2025-05-10T13:02:44.254Z",
-    "duration_minutes": 1554,
-    "duration_str": "1d 1h 54m"
+    "removed_at": "2025-05-10T13:17:52.847Z",
+    "duration_minutes": 1569,
+    "duration_str": "1d 2h 9m"
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T11:11:38.599Z",
-    "removed_at": "2025-05-10T12:57:05.251Z",
-    "duration_minutes": 1545,
-    "duration_str": "1d 1h 45m"
+    "added_at": "2025-05-09T11:11:38.599Z"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -2241,10 +2244,7 @@
   },
   {
     "title": "Au Soudan, une guerre des drones sans précédent",
-    "added_at": "2025-05-10T03:49:45.442Z",
-    "removed_at": "2025-05-10T13:02:44.254Z",
-    "duration_minutes": 552,
-    "duration_str": "9h 12m"
+    "added_at": "2025-05-10T03:49:45.442Z"
   },
   {
     "title": "Le harcèlement de run, cauchemar des joggeuses : « Ça va du coup de klaxon aux insultes, en passant par les attouchements »",
@@ -2637,5 +2637,9 @@
   {
     "title": "Nuage toxique de chlore en Espagne : le confinement de 150 000 personnes a été levé en Catalogne",
     "added_at": "2025-05-10T13:02:44.254Z"
+  },
+  {
+    "title": "Le pape Léon XIV explique le choix de son nom par un engagement sur la question sociale, et souligne le « précieux héritage » de François",
+    "added_at": "2025-05-10T13:17:52.847Z"
   }
 ]
