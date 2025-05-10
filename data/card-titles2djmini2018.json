@@ -2426,7 +2426,10 @@
   },
   {
     "title": "economie:::A quand des taux négatifs en Suisse?",
-    "added_at": "2025-05-09T16:45:31.423Z"
+    "added_at": "2025-05-09T16:45:31.423Z",
+    "removed_at": "2025-05-10T13:59:21.775Z",
+    "duration_minutes": 1273,
+    "duration_str": "21h 13m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky annonce un sommet de dirigeants européens en Ukraine samedi",
@@ -2444,7 +2447,10 @@
   },
   {
     "title": "suisse:::Comme New-York, Zurich a désormais sa «Highline»",
-    "added_at": "2025-05-09T16:58:46.006Z"
+    "added_at": "2025-05-09T16:58:46.006Z",
+    "removed_at": "2025-05-10T13:59:21.775Z",
+    "duration_minutes": 1260,
+    "duration_str": "21h"
   },
   {
     "title": "suisse:::Karin Keller-Sutter et Guy Parmelin parlent de libre-échange avec Pékin et de taxes avec Washington",
@@ -2578,5 +2584,13 @@
   {
     "title": "culture:::Dans son roman «Me taire», Sandro Marcacci s'attache au destin d'une femme soignée en sanatorium, à son corps défendant",
     "added_at": "2025-05-10T13:42:22.522Z"
+  },
+  {
+    "title": "sciences:::Sur les traces du castor, prodigieux ingénieur des écosystèmes, là où ses barrages dérangent",
+    "added_at": "2025-05-10T13:59:21.775Z"
+  },
+  {
+    "title": "monde:::Un pompier gravement blessé après un rodéo urbain à Evian-les-Bains",
+    "added_at": "2025-05-10T13:59:21.775Z"
   }
 ]
