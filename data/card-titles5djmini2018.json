@@ -27,14 +27,14 @@
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-10T03:12:03.725Z",
+    "duration_minutes": 970,
+    "duration_str": "16h 10m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
-    "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-10T03:06:22.884Z",
-    "duration_minutes": 964,
-    "duration_str": "16h 4m"
+    "added_at": "2025-05-09T11:01:45.077Z"
   },
   {
     "title": "Comment se déroule le conclave pour élire un nouveau pape ? Nos explications en vidéo, dans les couloirs d’une chapelle Sixtine en 3D",
@@ -119,10 +119,7 @@
   },
   {
     "title": "« Vladimir Poutine a privatisé à son profit la victoire de 1945 »",
-    "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-10T03:08:12.486Z",
-    "duration_minutes": 966,
-    "duration_str": "16h 6m"
+    "added_at": "2025-05-09T11:01:45.077Z"
   },
   {
     "title": "La France et la Pologne vont signer un traité avec une clause de soutien réciproque en cas d’agression, annonce Donald Tusk",
@@ -263,9 +260,9 @@
   {
     "title": "La première apparition du pape Léon XIV en images",
     "added_at": "2025-05-09T11:07:52.917Z",
-    "removed_at": "2025-05-10T02:56:54.193Z",
-    "duration_minutes": 949,
-    "duration_str": "15h 49m"
+    "removed_at": "2025-05-10T03:15:47.499Z",
+    "duration_minutes": 967,
+    "duration_str": "16h 7m"
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
@@ -274,9 +271,9 @@
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
     "added_at": "2025-05-09T11:15:27.813Z",
-    "removed_at": "2025-05-10T03:06:22.884Z",
-    "duration_minutes": 950,
-    "duration_str": "15h 50m"
+    "removed_at": "2025-05-10T03:17:43.508Z",
+    "duration_minutes": 962,
+    "duration_str": "16h 2m"
   },
   {
     "title": "Fidji Simo, une Française de 39 ans dans la direction d’OpenAI, l’entreprise d’intelligence artificielle",
@@ -1800,7 +1797,10 @@
   },
   {
     "title": "Quand le design revisite ses classiques",
-    "added_at": "2025-05-09T15:07:23.775Z"
+    "added_at": "2025-05-09T15:07:23.775Z",
+    "removed_at": "2025-05-10T03:12:03.725Z",
+    "duration_minutes": 724,
+    "duration_str": "12h 4m"
   },
   {
     "title": "Sur la place Rouge, la parade de Vladimir Poutine célèbre l’offensive en Ukraine",
@@ -2139,5 +2139,9 @@
   {
     "title": "« Un bon usage du référendum implique d’abord un bon sujet »",
     "added_at": "2025-05-10T02:41:49.857Z"
+  },
+  {
+    "title": "Timothée Chalamet, vitrine de la mode",
+    "added_at": "2025-05-10T03:12:03.725Z"
   }
 ]
