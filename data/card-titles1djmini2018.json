@@ -3455,10 +3455,7 @@
   },
   {
     "title": "120 secondes - La police en sous-effectif",
-    "added_at": "2025-05-09T00:48:25.578Z",
-    "removed_at": "2025-05-10T19:52:42.134Z",
-    "duration_minutes": 2584,
-    "duration_str": "1d 19h 4m"
+    "added_at": "2025-05-09T00:48:25.578Z"
   },
   {
     "title": "La Poste va fermer fin septembre sa filiale de coursiers à vélo Notime",
@@ -3559,7 +3556,10 @@
   },
   {
     "title": "Les Etats-Unis signent un accord commercial avec le Royaume-Uni: interview de Cédric Dupont et Bertrand Badie",
-    "added_at": "2025-05-09T12:51:32.137Z"
+    "added_at": "2025-05-09T12:51:32.137Z",
+    "removed_at": "2025-05-10T21:55:17.009Z",
+    "duration_minutes": 1983,
+    "duration_str": "1d 9h 3m"
   },
   {
     "title": "L'UE va injecter un milliard d'euros dans l'industrie de défense ukrainienne",
@@ -3633,7 +3633,10 @@
   },
   {
     "title": "L'association jurassienne des communes veut poursuivre ses réformes",
-    "added_at": "2025-05-09T23:54:09.376Z"
+    "added_at": "2025-05-09T23:54:09.376Z",
+    "removed_at": "2025-05-10T21:57:10.309Z",
+    "duration_minutes": 1323,
+    "duration_str": "22h 3m"
   },
   {
     "title": "Le Pakistan annonce avoir lancé une offensive militaire contre l'Inde",
@@ -3835,5 +3838,9 @@
   {
     "title": "Comment Stop Suicide brise le tabou du suicide depuis 25 ans",
     "added_at": "2025-05-10T19:58:21.273Z"
+  },
+  {
+    "title": "Théo Jeannet évoque les enjeux de la rencontre entre les Etats-Unis et la Chine",
+    "added_at": "2025-05-10T21:57:10.309Z"
   }
 ]
