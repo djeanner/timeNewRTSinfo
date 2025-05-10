@@ -3452,7 +3452,10 @@
   },
   {
     "title": "120 secondes - La police en sous-effectif",
-    "added_at": "2025-05-09T00:48:25.578Z"
+    "added_at": "2025-05-09T00:48:25.578Z",
+    "removed_at": "2025-05-10T19:52:42.134Z",
+    "duration_minutes": 2584,
+    "duration_str": "1d 19h 4m"
   },
   {
     "title": "La Poste va fermer fin septembre sa filiale de coursiers à vélo Notime",
@@ -3821,5 +3824,16 @@
   {
     "title": "L'Inde et le Pakistan ont accepté un cessez-le-feu, mais les tensions demeurent",
     "added_at": "2025-05-10T19:16:51.235Z"
+  },
+  {
+    "title": "Le DFAE prend la main sur le Palazzo Trevisan à Venise",
+    "added_at": "2025-05-10T19:52:42.134Z"
+  },
+  {
+    "title": "Comment Stop Suicide brise le tabou du suicide depuis 25 ans",
+    "added_at": "2025-05-10T19:58:21.273Z",
+    "removed_at": "2025-05-10T20:02:06.515Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
   }
 ]
