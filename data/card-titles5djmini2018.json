@@ -12,7 +12,10 @@
   },
   {
     "title": "Taxes Trump : « La vulnérabilité de l’industrie automobile nippone fragilise l’économie du Japon »",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-10T20:56:52.126Z",
+    "duration_minutes": 2035,
+    "duration_str": "1d 9h 55m"
   },
   {
     "title": "« L’enjeu pour les jeunes et les seniors n’est plus de travailler moins, mais de travailler tous »",
@@ -23,10 +26,7 @@
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-10T20:41:42.944Z",
-    "duration_minutes": 2019,
-    "duration_str": "1d 9h 39m"
+    "added_at": "2025-05-09T11:01:45.077Z"
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
@@ -289,7 +289,10 @@
   },
   {
     "title": "La première apparition du pape Léon XIV en images",
-    "added_at": "2025-05-09T11:07:52.917Z"
+    "added_at": "2025-05-09T11:07:52.917Z",
+    "removed_at": "2025-05-10T20:56:52.126Z",
+    "duration_minutes": 2028,
+    "duration_str": "1d 9h 48m"
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
@@ -1215,10 +1218,7 @@
   },
   {
     "title": "Les grands-parents doivent-ils obéir à leurs enfants quand ils gardent les petits ?",
-    "added_at": "2025-05-09T12:45:54.313Z",
-    "removed_at": "2025-05-10T20:41:42.944Z",
-    "duration_minutes": 1915,
-    "duration_str": "1d 7h 55m"
+    "added_at": "2025-05-09T12:45:54.313Z"
   },
   {
     "title": "Athénaïs et Maxime, 16 et 17 ans : « Les profs du collège hallucinent de voir que notre relation dure encore »",
@@ -1797,9 +1797,9 @@
   {
     "title": "Au cœur de l’océan Indien, l’un des plus grands poumons de la planète est en danger de mort",
     "added_at": "2025-05-09T13:27:18.841Z",
-    "removed_at": "2025-05-10T20:20:59.516Z",
-    "duration_minutes": 1853,
-    "duration_str": "1d 6h 53m"
+    "removed_at": "2025-05-10T20:51:13.045Z",
+    "duration_minutes": 1883,
+    "duration_str": "1d 7h 23m"
   },
   {
     "title": "Volodymyr Zelensky annonce un sommet des dirigeants de la « coalition des volontaires » samedi en Ukraine",
@@ -2254,9 +2254,9 @@
   {
     "title": "Au Soudan, une guerre des drones sans précédent",
     "added_at": "2025-05-10T03:49:45.442Z",
-    "removed_at": "2025-05-10T20:39:53.195Z",
-    "duration_minutes": 1010,
-    "duration_str": "16h 50m"
+    "removed_at": "2025-05-10T20:47:23.465Z",
+    "duration_minutes": 1017,
+    "duration_str": "16h 57m"
   },
   {
     "title": "Le harcèlement de run, cauchemar des joggeuses : « Ça va du coup de klaxon aux insultes, en passant par les attouchements »",
@@ -2886,7 +2886,10 @@
   },
   {
     "title": "Emmanuel Macron, Friedrich Merz, Keir Starmer et Donald Tusk ensemble à Kiev pour le sommet de la « coalition des volontaires »",
-    "added_at": "2025-05-10T17:30:59.596Z"
+    "added_at": "2025-05-10T17:30:59.596Z",
+    "removed_at": "2025-05-10T20:54:56.597Z",
+    "duration_minutes": 203,
+    "duration_str": "3h 23m"
   },
   {
     "title": "Guerre en Ukraine : la Russie dit « devoir réfléchir » à la proposition de cessez-le-feu de trente jours à partir de lundi",
@@ -2958,10 +2961,24 @@
   },
   {
     "title": "EN DIRECT | Ligue 1 : match suspendu au Havre où l’OM mène, Saint-Etienne peut encore croire au maintien... Suivez la 33ᵉ journée du championnat",
-    "added_at": "2025-05-10T20:28:35.638Z"
+    "added_at": "2025-05-10T20:28:35.638Z",
+    "removed_at": "2025-05-10T20:53:02.871Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
   },
   {
     "title": "Inde-Pakistan : New Delhi accuse Islamabad de « violations répétées » du cessez-le-feu conclu samedi et affirme que son armée a riposté",
     "added_at": "2025-05-10T20:30:25.419Z"
+  },
+  {
+    "title": "EN DIRECT | Ligue 1 : le match reprend au Havre où l’OM mène, Saint-Etienne peut encore croire au maintien... Suivez la 33ᵉ journée du championnat",
+    "added_at": "2025-05-10T20:53:02.871Z",
+    "removed_at": "2025-05-10T20:58:41.774Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "EN DIRECT | Ligue 1 : Le Havre égalise face à l’OM, Monaco qualifié en Ligue des champions... Suivez la 33ᵉ journée du championnat",
+    "added_at": "2025-05-10T20:58:41.774Z"
   }
 ]

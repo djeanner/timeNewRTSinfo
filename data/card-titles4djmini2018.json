@@ -1612,7 +1612,10 @@
   },
   {
     "title": "The two sides have traded accusations of ceasefire violations, but each has called to maintain the uneasy truce",
-    "added_at": "2025-05-10T20:36:03.767Z"
+    "added_at": "2025-05-10T20:36:03.767Z",
+    "removed_at": "2025-05-10T20:54:56.552Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
   },
   {
     "title": "Trade talks between US and China are underway in Switzerland. Here’s what’s at stake",
@@ -1621,5 +1624,9 @@
   {
     "title": "Homeland Security Dept. accuses lawmakers of ‘storming’ an ICE facility despite oversight laws saying they could be there",
     "added_at": "2025-05-10T20:39:53.150Z"
+  },
+  {
+    "title": "Explosions rocked several parts of Kashmir, but each side has called to maintain the fragile ceasefire",
+    "added_at": "2025-05-10T20:54:56.552Z"
   }
 ]
