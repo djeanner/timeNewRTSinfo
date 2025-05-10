@@ -3012,7 +3012,10 @@
   },
   {
     "title": "Le National soutient l'initiative sur l'imposition individuelle pour les couples mariés",
-    "added_at": "2025-05-07T15:45:42.093Z"
+    "added_at": "2025-05-07T15:45:42.093Z",
+    "removed_at": "2025-05-10T03:47:51.188Z",
+    "duration_minutes": 3602,
+    "duration_str": "2d 12h 2m"
   },
   {
     "title": "Les cardinaux réunis dans la chapelle Sixtine ont entamé le conclave destiné à élire un nouveau pape",
@@ -3194,7 +3197,10 @@
   },
   {
     "title": "Ligue des champions: le PSG rejoindra-t-il l'Inter Milan en finale?",
-    "added_at": "2025-05-08T11:49:06.334Z"
+    "added_at": "2025-05-08T11:49:06.334Z",
+    "removed_at": "2025-05-10T03:51:40.097Z",
+    "duration_minutes": 2402,
+    "duration_str": "1d 16h 2m"
   },
   {
     "title": "L'occupation du hall d'UniMail par des étudiants propalestiniens se poursuit",
@@ -3547,5 +3553,13 @@
   {
     "title": "L'association jurassienne des communes veut poursuivre ses réformes",
     "added_at": "2025-05-09T23:54:09.376Z"
+  },
+  {
+    "title": "Le Pakistan annonce avoir lancé une offensive militaire contre l'Inde",
+    "added_at": "2025-05-10T03:47:51.188Z"
+  },
+  {
+    "title": "Swisstopo ne veut plus assurer l'exploitation du laboratoire du Mont Terri",
+    "added_at": "2025-05-10T03:51:40.097Z"
   }
 ]
