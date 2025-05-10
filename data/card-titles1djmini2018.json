@@ -3184,7 +3184,10 @@
   },
   {
     "title": "Une sonde soviétique oubliée s'apprête à s'écraser sur Terre après 53 ans dans l'espace",
-    "added_at": "2025-05-08T08:03:51.173Z"
+    "added_at": "2025-05-08T08:03:51.173Z",
+    "removed_at": "2025-05-10T12:53:19.531Z",
+    "duration_minutes": 3169,
+    "duration_str": "2d 4h 49m"
   },
   {
     "title": "Les contrôles de sécurité imposés aux plus hauts fonctionnaires de la Confédération vont-ils trop loin?",
@@ -3595,10 +3598,7 @@
   },
   {
     "title": "Le Pakistan annonce avoir lancé une offensive militaire contre l'Inde",
-    "added_at": "2025-05-10T03:47:51.188Z",
-    "removed_at": "2025-05-10T05:44:52.793Z",
-    "duration_minutes": 117,
-    "duration_str": "1h 57m"
+    "added_at": "2025-05-10T03:47:51.188Z"
   },
   {
     "title": "Swisstopo ne veut plus assurer l'exploitation du laboratoire du Mont Terri",
@@ -3694,5 +3694,9 @@
   {
     "title": "L'Inde et le Pakistan ont accepté un cessez-le-feu \"total et immédiat\", annonce Donald Trump",
     "added_at": "2025-05-10T12:28:46.311Z"
+  },
+  {
+    "title": "Le conseiller fédéral Albert Rösti plaide pour des radios et une SSR fortes",
+    "added_at": "2025-05-10T12:53:19.531Z"
   }
 ]
