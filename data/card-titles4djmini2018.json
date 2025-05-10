@@ -1213,7 +1213,10 @@
   },
   {
     "title": "Tufts University student Rümeysa Öztürk is released after spending six weeks at a Louisiana detention center",
-    "added_at": "2025-05-10T03:00:43.584Z"
+    "added_at": "2025-05-10T03:00:43.584Z",
+    "removed_at": "2025-05-10T13:36:41.791Z",
+    "duration_minutes": 635,
+    "duration_str": "10h 35m"
   },
   {
     "title": "Taylor Swift subpoenaed in Blake Lively and Justin Baldoni case",
@@ -1390,5 +1393,9 @@
   {
     "title": "A failed Soviet-era spacecraft likely crashed back to Earth overnight",
     "added_at": "2025-05-10T12:45:46.275Z"
+  },
+  {
+    "title": "Earthquake in Tennessee felt across the US’ Southeast",
+    "added_at": "2025-05-10T13:36:41.791Z"
   }
 ]

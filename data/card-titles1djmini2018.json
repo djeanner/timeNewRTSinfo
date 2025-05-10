@@ -3238,7 +3238,10 @@
   },
   {
     "title": "La modification du tracé du train AOMC à Monthey peut aller de l'avant",
-    "added_at": "2025-05-08T11:04:09.777Z"
+    "added_at": "2025-05-08T11:04:09.777Z",
+    "removed_at": "2025-05-10T13:34:50.951Z",
+    "duration_minutes": 3030,
+    "duration_str": "2d 2h 30m"
   },
   {
     "title": "Ligue des champions: le PSG rejoindra-t-il l'Inter Milan en finale?",
@@ -3696,7 +3699,10 @@
   },
   {
     "title": "L'Inde et le Pakistan ont accepté un cessez-le-feu \"total et immédiat\", annonce Donald Trump",
-    "added_at": "2025-05-10T12:28:46.311Z"
+    "added_at": "2025-05-10T12:28:46.311Z",
+    "removed_at": "2025-05-10T13:36:41.096Z",
+    "duration_minutes": 67,
+    "duration_str": "1h 7m"
   },
   {
     "title": "Le conseiller fédéral Albert Rösti plaide pour des radios et une SSR fortes",
@@ -3705,5 +3711,13 @@
   {
     "title": "\"Les musiciens\" de Grégory Magne prône l'importance du nous face au moi",
     "added_at": "2025-05-10T13:12:13.199Z"
+  },
+  {
+    "title": "Le pape a choisi son nom notamment face aux défis de l'intelligence artificielle",
+    "added_at": "2025-05-10T13:34:50.951Z"
+  },
+  {
+    "title": "Après plusieurs jours d'escalade, l'Inde et le Pakistan ont accepté un cessez-le-feu \"total et immédiat\"",
+    "added_at": "2025-05-10T13:36:41.096Z"
   }
 ]
