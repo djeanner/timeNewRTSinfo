@@ -412,7 +412,10 @@
   },
   {
     "title": "What percentage of US toys and Christmas goods are imported from China?",
-    "added_at": "2025-05-11T14:51:23.366Z"
+    "added_at": "2025-05-11T14:51:23.366Z",
+    "removed_at": "2025-05-11T17:10:04.643Z",
+    "duration_minutes": 138,
+    "duration_str": "2h 18m"
   },
   {
     "title": "‘Difficult but useful’: Iran says nuclear talks with US conclude in Oman",
@@ -443,5 +446,9 @@
     "removed_at": "2025-05-11T17:04:21.722Z",
     "duration_minutes": 22,
     "duration_str": "22m"
+  },
+  {
+    "title": "Ukraine welcomes Russia’s offer for direct talks, insists on truce first",
+    "added_at": "2025-05-11T17:10:04.643Z"
   }
 ]
