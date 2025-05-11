@@ -513,7 +513,10 @@
   },
   {
     "title": "Explosions heard, drones spotted after India, Pakistan agree to ceasefire",
-    "added_at": "2025-05-10T16:49:29.068Z"
+    "added_at": "2025-05-10T16:49:29.068Z",
+    "removed_at": "2025-05-11T00:07:17.996Z",
+    "duration_minutes": 437,
+    "duration_str": "7h 17m"
   },
   {
     "title": "Children among 21 killed in Israel’s attacks on Gaza amid aid blockade",
@@ -534,5 +537,16 @@
   {
     "title": "Israeli protesters in Tel Aviv demand an end to war on Gaza",
     "added_at": "2025-05-10T18:31:30.929Z"
+  },
+  {
+    "title": "Pakistan says it is ‘committed’ to ceasefire after India claims violations",
+    "added_at": "2025-05-11T00:07:17.996Z",
+    "removed_at": "2025-05-11T00:20:30.117Z",
+    "duration_minutes": 13,
+    "duration_str": "13m"
+  },
+  {
+    "title": "Pakistan says it is committed to truce after India claims violations",
+    "added_at": "2025-05-11T00:20:30.117Z"
   }
 ]
