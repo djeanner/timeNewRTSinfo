@@ -733,11 +733,17 @@
   },
   {
     "title": "LIVE: Barcelona vs Real Madrid – El Clasico La Liga",
-    "added_at": "2025-05-11T13:01:58.350Z"
+    "added_at": "2025-05-11T13:01:58.350Z",
+    "removed_at": "2025-05-11T17:55:16.054Z",
+    "duration_minutes": 293,
+    "duration_str": "4h 53m"
   },
   {
     "title": "LIVE: Liverpool vs Arsenal – Premier League",
-    "added_at": "2025-05-11T13:26:36.752Z"
+    "added_at": "2025-05-11T13:26:36.752Z",
+    "removed_at": "2025-05-11T17:51:30.282Z",
+    "duration_minutes": 264,
+    "duration_str": "4h 24m"
   },
   {
     "title": "‘No more war’: Pope Leo XIV calls for Gaza ceasefire, peace in Ukraine",
@@ -793,5 +799,13 @@
   {
     "title": "Ukraine welcomes Russia’s offer for direct talks, insists on truce first",
     "added_at": "2025-05-11T17:09:57.211Z"
+  },
+  {
+    "title": "Arsenal come back from two goals down to salvage draw with Liverpool",
+    "added_at": "2025-05-11T17:51:30.282Z"
+  },
+  {
+    "title": "Sudan’s army and RSF paramilitary launch attacks across war-ravaged nation",
+    "added_at": "2025-05-11T17:55:16.054Z"
   }
 ]
