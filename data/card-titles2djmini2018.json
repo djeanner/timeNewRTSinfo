@@ -2662,7 +2662,10 @@
   },
   {
     "title": "culture:::Barry et Betty Bossi, deux icônes suisses bientôt sur grand écran",
-    "added_at": "2025-05-10T17:10:16.431Z"
+    "added_at": "2025-05-10T17:10:16.431Z",
+    "removed_at": "2025-05-11T13:55:25.397Z",
+    "duration_minutes": 1245,
+    "duration_str": "20h 45m"
   },
   {
     "title": "suisse:::Le Nord vaudois aura bien son deuxième parc éolien",
@@ -2777,7 +2780,10 @@
   },
   {
     "title": "monde:::Le pape Léon XIV appelle les «grands du monde» à arrêter la guerre",
-    "added_at": "2025-05-11T11:23:50.515Z"
+    "added_at": "2025-05-11T11:23:50.515Z",
+    "removed_at": "2025-05-11T13:57:14.946Z",
+    "duration_minutes": 153,
+    "duration_str": "2h 33m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky se dit «prêt» à des pourparlers, et la Turiquie «prête» à accueillir des négociations",
@@ -2793,5 +2799,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Israël met en garde contre la reconnaissance unilatérale d'un Etat palestinien",
     "added_at": "2025-05-11T12:58:14.341Z"
+  },
+  {
+    "title": "cyber:::La bague Galaxy Ring de Samsung sait faire beaucoup de choses. Mais est-elle pour autant utile?",
+    "added_at": "2025-05-11T13:57:14.946Z"
   }
 ]
