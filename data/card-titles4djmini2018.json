@@ -1339,7 +1339,10 @@
   },
   {
     "title": "Don’t expect the problems at Newark Airport to end anytime soon, experts say",
-    "added_at": "2025-05-10T08:12:04.136Z"
+    "added_at": "2025-05-10T08:12:04.136Z",
+    "removed_at": "2025-05-11T07:13:08.815Z",
+    "duration_minutes": 1381,
+    "duration_str": "23h 1m"
   },
   {
     "title": "THC drinks are flying off shelves. Can it last?",
@@ -1401,7 +1404,10 @@
   },
   {
     "title": "Ukraine and European allies call for 30-day truce with Russia starting Monday",
-    "added_at": "2025-05-10T11:11:23.177Z"
+    "added_at": "2025-05-10T11:11:23.177Z",
+    "removed_at": "2025-05-11T07:13:08.815Z",
+    "duration_minutes": 1201,
+    "duration_str": "20h 1m"
   },
   {
     "title": "Trade talks between the US and China are underway in Switzerland. Here’s what’s at stake",
@@ -1456,7 +1462,10 @@
   },
   {
     "title": "Earthquake in Tennessee felt across the US’ Southeast",
-    "added_at": "2025-05-10T13:36:41.791Z"
+    "added_at": "2025-05-10T13:36:41.791Z",
+    "removed_at": "2025-05-11T07:22:31.178Z",
+    "duration_minutes": 1065,
+    "duration_str": "17h 45m"
   },
   {
     "title": "Air New Zealand has a solution to the airplane seat recline debate",
@@ -1664,11 +1673,17 @@
   },
   {
     "title": "Pope Leo explains why he chose his papal name during first meeting with cardinals",
-    "added_at": "2025-05-10T22:57:32.543Z"
+    "added_at": "2025-05-10T22:57:32.543Z",
+    "removed_at": "2025-05-11T07:14:58.721Z",
+    "duration_minutes": 497,
+    "duration_str": "8h 17m"
   },
   {
     "title": "First day of trade talks between US and China conclude. Here’s what’s next",
-    "added_at": "2025-05-10T23:03:13.110Z"
+    "added_at": "2025-05-10T23:03:13.110Z",
+    "removed_at": "2025-05-11T07:16:52.145Z",
+    "duration_minutes": 493,
+    "duration_str": "8h 13m"
   },
   {
     "title": "Homeland Security Dept. accuses lawmakers of ‘storming’ an ICE facility despite laws saying they could be there",
@@ -1700,5 +1715,21 @@
   {
     "title": "Pope Leo XIV explains his choice of name",
     "added_at": "2025-05-11T03:38:27.726Z"
+  },
+  {
+    "title": "Russia’s European neighbors are lifting bans on landmines. Campaigners are horrified",
+    "added_at": "2025-05-11T07:13:08.815Z"
+  },
+  {
+    "title": "Former Panama president Martinelli leaves Nicaraguan embassy for asylum in Colombia",
+    "added_at": "2025-05-11T07:13:08.815Z"
+  },
+  {
+    "title": "Trump says ‘great progress made’ between US and China following first day of trade talks",
+    "added_at": "2025-05-11T07:16:52.145Z"
+  },
+  {
+    "title": "Tufts University student Rümeysa Öztürk arrives back home after spending six weeks at a Louisiana detention center",
+    "added_at": "2025-05-11T07:22:31.178Z"
   }
 ]
