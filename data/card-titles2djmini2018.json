@@ -2702,7 +2702,10 @@
   },
   {
     "title": "monde:::Moyen-Orient – Le Hamas diffuse une vidéo de deux otages israéliens en vie à Gaza",
-    "added_at": "2025-05-10T20:47:22.870Z"
+    "added_at": "2025-05-10T20:47:22.870Z",
+    "removed_at": "2025-05-11T12:58:14.341Z",
+    "duration_minutes": 970,
+    "duration_str": "16h 10m"
   },
   {
     "title": "monde:::Guerre en Ukraine – A Kiev, Friedrich Merz menace la Russie d’un «durcissement massif des sanctions»",
@@ -2786,5 +2789,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky se dit «prêt» à des pourparlers, et la Turquie «prête» à accueillir des négociations",
     "added_at": "2025-05-11T11:33:20.323Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Israël met en garde contre la reconnaissance unilatérale d'un Etat palestinien",
+    "added_at": "2025-05-11T12:58:14.341Z"
   }
 ]

@@ -684,7 +684,10 @@
   },
   {
     "title": "LIVE: Barcelona vs Real Madrid – La Liga El Clasico",
-    "added_at": "2025-05-11T09:21:17.496Z"
+    "added_at": "2025-05-11T09:21:17.496Z",
+    "removed_at": "2025-05-11T13:01:58.350Z",
+    "duration_minutes": 220,
+    "duration_str": "3h 40m"
   },
   {
     "title": "Uneasy calm after India and Pakistan ceasefire gets off to shaky start",
@@ -709,5 +712,9 @@
   {
     "title": "LIVE: Liverpool vs Arsenal – English Premier League",
     "added_at": "2025-05-11T12:48:42.460Z"
+  },
+  {
+    "title": "LIVE: Barcelona vs Real Madrid – El Clasico La Liga",
+    "added_at": "2025-05-11T13:01:58.350Z"
   }
 ]
