@@ -3800,7 +3800,10 @@
   },
   {
     "title": "Les étudiants propalestiniens ont mis fin à leur occupation de l'UNIGE",
-    "added_at": "2025-05-10T15:52:44.193Z"
+    "added_at": "2025-05-10T15:52:44.193Z",
+    "removed_at": "2025-05-11T02:56:57.509Z",
+    "duration_minutes": 664,
+    "duration_str": "11h 4m"
   },
   {
     "title": "Plus de 160'000 personnes confinées en Catalogne, à cause d'un nuage de chlore",
@@ -3865,7 +3868,10 @@
   },
   {
     "title": "Reportage à Grolley, où l'émotion était forte jeudi soir sur le parvis de l'Eglise",
-    "added_at": "2025-05-10T23:54:05.830Z"
+    "added_at": "2025-05-10T23:54:05.830Z",
+    "removed_at": "2025-05-11T02:56:57.509Z",
+    "duration_minutes": 182,
+    "duration_str": "3h 2m"
   },
   {
     "title": "Moscou propose des négociations directes jeudi, après un ultimatum des Occidentaux fixé à lundi",
@@ -3873,9 +3879,10 @@
   },
   {
     "title": "Tronçon autoroutier recouvert par un parc à Zurich-Schwamendingen",
-    "added_at": "2025-05-11T02:53:12.890Z",
-    "removed_at": "2025-05-11T02:55:02.357Z",
-    "duration_minutes": 1,
-    "duration_str": "1m"
+    "added_at": "2025-05-11T02:53:12.890Z"
+  },
+  {
+    "title": "Feu vert du TF pour le parc éolien Sur Grati entre Vallorbe et Romainmôtier",
+    "added_at": "2025-05-11T02:56:57.509Z"
   }
 ]
