@@ -2595,7 +2595,10 @@
   },
   {
     "title": "suisse:::Eté sous tension: la ligne CFF Fribourg-Berne sera à l’arrêt pendant deux mois",
-    "added_at": "2025-05-10T11:39:42.310Z"
+    "added_at": "2025-05-10T11:39:42.310Z",
+    "removed_at": "2025-05-11T08:34:08.824Z",
+    "duration_minutes": 1254,
+    "duration_str": "20h 54m"
   },
   {
     "title": "monde:::Donald Trump annonce un cessez-le-feu «total et immédiat» entre l’Inde et le Pakistan",
@@ -2711,7 +2714,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Les négociations proposées par Vladimir Poutine sont insuffisantes estime Emmanuel Macron",
-    "added_at": "2025-05-11T05:12:31.743Z"
+    "added_at": "2025-05-11T05:12:31.743Z",
+    "removed_at": "2025-05-11T08:21:01.945Z",
+    "duration_minutes": 188,
+    "duration_str": "3h 8m"
   },
   {
     "title": "suisse:::Le canton de Vaud coupe dans l’accueil des enfants à besoins particuliers pendant les vacances",
@@ -2728,5 +2734,13 @@
   {
     "title": "suisse:::Coup d'envoi de l'Eurovision bâloise",
     "added_at": "2025-05-11T07:50:48.647Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky se dit «prêt» à des pourparlers",
+    "added_at": "2025-05-11T08:21:01.945Z"
+  },
+  {
+    "title": "culture:::Le grand guide de l’Eurovision 2025 – classement, prédictions et présentation interactive des 37 artistes",
+    "added_at": "2025-05-11T08:34:08.824Z"
   }
 ]
