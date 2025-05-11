@@ -3353,7 +3353,10 @@
   },
   {
     "title": "Des réserves d'électricité sont encore nécessaires en Suisse, selon l'Elcom",
-    "added_at": "2025-05-08T15:24:32.883Z"
+    "added_at": "2025-05-08T15:24:32.883Z",
+    "removed_at": "2025-05-11T07:09:17.950Z",
+    "duration_minutes": 3824,
+    "duration_str": "2d 15h 44m"
   },
   {
     "title": "Les cardinaux ont recommencé à voter au Vatican pour élire un nouveau pape",
@@ -3561,7 +3564,10 @@
   },
   {
     "title": "Levée de bouclier contre le projet de surveillance des télécommunications du Conseil fédéral: interview de Marc Loebekken",
-    "added_at": "2025-05-09T12:51:32.137Z"
+    "added_at": "2025-05-09T12:51:32.137Z",
+    "removed_at": "2025-05-11T06:54:15.352Z",
+    "duration_minutes": 2522,
+    "duration_str": "1d 18h 2m"
   },
   {
     "title": "Les Etats-Unis signent un accord commercial avec le Royaume-Uni: interview de Cédric Dupont et Bertrand Badie",
@@ -3893,10 +3899,25 @@
   },
   {
     "title": "Moscou propose des négociations \"directes\" avec Kiev dès jeudi à Istanbul",
-    "added_at": "2025-05-11T05:08:47.331Z"
+    "added_at": "2025-05-11T05:08:47.331Z",
+    "removed_at": "2025-05-11T07:03:38.919Z",
+    "duration_minutes": 114,
+    "duration_str": "1h 54m"
   },
   {
     "title": "Les cliniques de longévité, fontaine de Jouvence ou charlatanisme moderne?",
     "added_at": "2025-05-11T05:50:11.453Z"
+  },
+  {
+    "title": "Les alliés de Kiev adressent un ultimatum à Moscou",
+    "added_at": "2025-05-11T06:54:15.352Z"
+  },
+  {
+    "title": "Vladimir Poutine propose des négociations \"directes\" avec l'Ukraine dès jeudi à Istanbul",
+    "added_at": "2025-05-11T07:03:38.919Z"
+  },
+  {
+    "title": "Chez les barbiers de Suisse, des cosmétiques pas toujours nets",
+    "added_at": "2025-05-11T07:09:17.950Z"
   }
 ]

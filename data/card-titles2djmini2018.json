@@ -2660,7 +2660,10 @@
   },
   {
     "title": "suisse:::Le Nord vaudois aura bien son deuxième parc éolien",
-    "added_at": "2025-05-10T17:23:26.327Z"
+    "added_at": "2025-05-10T17:23:26.327Z",
+    "removed_at": "2025-05-11T07:07:28.399Z",
+    "duration_minutes": 824,
+    "duration_str": "13h 44m"
   },
   {
     "title": "monde:::Pékin et Washington brisent la glace à Genève pour tenter de désamorcer leur guerre commerciale",
@@ -2710,5 +2713,9 @@
   {
     "title": "suisse:::Le canton de Vaud coupe dans l’accueil des enfants à besoins particuliers pendant les vacances",
     "added_at": "2025-05-11T05:52:04.801Z"
+  },
+  {
+    "title": "monde:::Les Albanais votent pour des législatives test sur l’UE",
+    "added_at": "2025-05-11T07:07:28.399Z"
   }
 ]
