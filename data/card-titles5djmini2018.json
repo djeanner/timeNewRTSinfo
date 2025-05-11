@@ -23,10 +23,7 @@
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-11T10:25:27.384Z",
-    "duration_minutes": 2843,
-    "duration_str": "1d 23h 23m"
+    "added_at": "2025-05-09T11:01:45.077Z"
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
@@ -286,14 +283,17 @@
   },
   {
     "title": "La première apparition du pape Léon XIV en images",
-    "added_at": "2025-05-09T11:07:52.917Z"
+    "added_at": "2025-05-09T11:07:52.917Z",
+    "removed_at": "2025-05-11T10:46:08.462Z",
+    "duration_minutes": 2858,
+    "duration_str": "1d 23h 38m"
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
     "added_at": "2025-05-09T11:11:38.599Z",
-    "removed_at": "2025-05-11T10:32:55.221Z",
-    "duration_minutes": 2841,
-    "duration_str": "1d 23h 21m"
+    "removed_at": "2025-05-11T10:42:25.140Z",
+    "duration_minutes": 2850,
+    "duration_str": "1d 23h 30m"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -2413,9 +2413,9 @@
   {
     "title": "« C’est une course capitaliste extrême » : à Canton, dans les ateliers de la sueur de Shein",
     "added_at": "2025-05-10T07:49:26.550Z",
-    "removed_at": "2025-05-11T10:32:55.221Z",
-    "duration_minutes": 1603,
-    "duration_str": "1d 2h 43m"
+    "removed_at": "2025-05-11T10:49:53.744Z",
+    "duration_minutes": 1620,
+    "duration_str": "1d 3h"
   },
   {
     "title": "Une cyberattaque sème le chaos dans les magasins au Royaume-Uni",
@@ -3331,7 +3331,10 @@
   },
   {
     "title": "L’Albanie vote pour des législatives cruciales pour son adhésion à l’Union européenne",
-    "added_at": "2025-05-11T08:32:19.885Z"
+    "added_at": "2025-05-11T08:32:19.885Z",
+    "removed_at": "2025-05-11T10:46:08.462Z",
+    "duration_minutes": 133,
+    "duration_str": "2h 13m"
   },
   {
     "title": "En direct, guerre en Ukraine : Emmanuel Macron estime que les négociations proposées par Vladimir Poutine sont « un premier mouvement » qui n’est « pas suffisant »",
@@ -3373,5 +3376,9 @@
   {
     "title": "Face au harcèlement, les joggeuses trouvent des parades : « En courant à plusieurs, si ça dérape, ce sera plus facile d’appeler à l’aide »",
     "added_at": "2025-05-11T10:12:13.169Z"
+  },
+  {
+    "title": "Donald Trump se dit optimiste sur les négociations commerciales en cours entre la Chine et les Etats-Unis",
+    "added_at": "2025-05-11T10:46:08.462Z"
   }
 ]
