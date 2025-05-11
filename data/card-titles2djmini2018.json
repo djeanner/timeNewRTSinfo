@@ -2557,7 +2557,10 @@
   },
   {
     "title": "sport:::Bienvenue à Herning, cœur battant du hockey danois, où la Suisse dispute le premier tour du Mondial",
-    "added_at": "2025-05-10T08:04:28.795Z"
+    "added_at": "2025-05-10T08:04:28.795Z",
+    "removed_at": "2025-05-11T05:16:16.277Z",
+    "duration_minutes": 1271,
+    "duration_str": "21h 11m"
   },
   {
     "title": "monde:::En direct, Guerre en Ukraine – A Kiev, Friedrich Merz menace la Russie d’un «durcissement massif des sanctions»",
@@ -2682,10 +2685,17 @@
   },
   {
     "title": "monde:::Guerre en Ukraine – A Kiev, Friedrich Merz menace la Russie d’un «durcissement massif des sanctions»",
-    "added_at": "2025-05-10T20:49:16.581Z"
+    "added_at": "2025-05-10T20:49:16.581Z",
+    "removed_at": "2025-05-11T05:12:31.743Z",
+    "duration_minutes": 503,
+    "duration_str": "8h 23m"
   },
   {
     "title": "sport:::Portée par ses joueurs de NHL, la Suisse a décroché face au Danemark sa première victoire du Mondial",
     "added_at": "2025-05-10T20:58:41.145Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Les négociations proposées par Vladimir Poutine sont insuffisantes estime Emmanuel Macron",
+    "added_at": "2025-05-11T05:12:31.743Z"
   }
 ]
