@@ -2695,7 +2695,10 @@
   },
   {
     "title": "sport:::Le 21e titre de champion de Suisse du FC Bâle restera celui de Xherdan Shaqiri",
-    "added_at": "2025-05-10T20:43:37.669Z"
+    "added_at": "2025-05-10T20:43:37.669Z",
+    "removed_at": "2025-05-11T10:25:26.813Z",
+    "duration_minutes": 821,
+    "duration_str": "13h 41m"
   },
   {
     "title": "monde:::Moyen-Orient – Le Hamas diffuse une vidéo de deux otages israéliens en vie à Gaza",
@@ -2735,7 +2738,10 @@
   },
   {
     "title": "sport:::L’Afrique, mine à ciel ouvert de joueurs de talent mais terre oubliée des contributions de solidarité",
-    "added_at": "2025-05-11T07:33:50.065Z"
+    "added_at": "2025-05-11T07:33:50.065Z",
+    "removed_at": "2025-05-11T10:21:37.776Z",
+    "duration_minutes": 167,
+    "duration_str": "2h 47m"
   },
   {
     "title": "suisse:::Coup d'envoi de l'Eurovision bâloise",
@@ -2752,5 +2758,9 @@
   {
     "title": "culture:::D'Olivier Messiaen au luthier Jean-Loup Dierstein, l'héritage électronique des ondes Martenot",
     "added_at": "2025-05-11T09:04:19.781Z"
+  },
+  {
+    "title": "monde:::Le pape Léon XIV récite sa première prière dominicale à Saint-Pierre",
+    "added_at": "2025-05-11T10:25:26.813Z"
   }
 ]
