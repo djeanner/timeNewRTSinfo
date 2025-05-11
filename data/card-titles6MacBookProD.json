@@ -345,7 +345,10 @@
   },
   {
     "title": "‘Difficult but useful’: Iran says nuclear talks with US concludes in Oman",
-    "added_at": "2025-05-11T14:50:45.645Z"
+    "added_at": "2025-05-11T14:50:45.645Z",
+    "removed_at": "2025-05-11T15:00:52.311Z",
+    "duration_minutes": 10,
+    "duration_str": "10m"
   },
   {
     "title": "LIVE: Barcelona vs Real Madrid – El Clasico La Liga",
@@ -381,7 +384,10 @@
   },
   {
     "title": "Russia-Ukraine war: List of key events, day 1,172",
-    "added_at": "2025-05-11T14:50:45.645Z"
+    "added_at": "2025-05-11T14:50:45.645Z",
+    "removed_at": "2025-05-11T14:51:23.366Z",
+    "duration_minutes": 0,
+    "duration_str": "0m"
   },
   {
     "title": "Albania votes in elections amid growing voter disillusionment",
@@ -394,5 +400,13 @@
   {
     "title": "LIVE: Liverpool vs Arsenal – Premier League",
     "added_at": "2025-05-11T14:50:45.645Z"
+  },
+  {
+    "title": "What percentage of US toys and Christmas goods are imported from China?",
+    "added_at": "2025-05-11T14:51:23.366Z"
+  },
+  {
+    "title": "‘Difficult but useful’: Iran says nuclear talks with US conclude in Oman",
+    "added_at": "2025-05-11T15:00:52.311Z"
   }
 ]
