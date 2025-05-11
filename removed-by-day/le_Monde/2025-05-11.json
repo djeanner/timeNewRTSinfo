@@ -40,7 +40,7 @@
   {
     "title": "Est-ce bien raisonnable de… porter ses convictions sur le tapis rouge ?",
     "added_at": "2025-05-11T08:05:54.160Z",
-    "removed_at": "2025-05-11T17:11:54.880Z",
+    "removed_at": "2025-05-11T17:11:51.020Z",
     "duration_minutes": 546,
     "duration_str": "9h 6m"
   },
@@ -98,21 +98,23 @@
   {
     "title": "Trois bons réflexes à avoir pour soulager son dos",
     "added_at": "2025-05-11T04:31:07.133Z",
-    "removed_at": "2025-05-11T17:21:25.986Z",
+    "removed_at": "2025-05-11T17:21:15.548Z",
     "duration_minutes": 770,
     "duration_str": "12h 50m"
   },
   {
     "title": "En direct, guerre en Ukraine : Zelensky attend de la Russie qu’elle s’engage à un cessez-le-feu et se dit « prêt » à des pourparlers ; ce qu’il faut retenir",
     "added_at": "2025-05-11T14:02:56.342Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-11T17:32:50.253Z",
+    "duration_minutes": 210,
+    "duration_str": "3h 30m"
   },
   {
     "title": "Dans le Lot, une rave-party illégale en cours depuis mercredi rassemble 10 000 participants",
     "added_at": "2025-05-11T05:01:14.529Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-11T17:32:50.253Z",
+    "duration_minutes": 752,
+    "duration_str": "12h 32m"
   },
   {
     "title": "Le chacal doré, un nouveau venu en France qui pourrait s’établir durablement",
@@ -442,12 +444,45 @@
   {
     "title": "Guerre en Ukraine : Donald Trump presse l’Ukraine d’accepter « immédiatement » la rencontre proposée par Vladimir Poutine",
     "added_at": "2025-05-11T17:04:15.889Z",
+    "removed_at": "2025-05-11T17:30:53.912Z",
+    "duration_minutes": 27,
+    "duration_str": "27m"
+  },
+  {
+    "title": "A Cannes, La Malmaison au plus près des étoiles",
+    "added_at": "2025-05-11T17:11:51.020Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
-    "title": "A Cannes, La Malmaison au plus près des étoiles",
-    "added_at": "2025-05-11T17:11:54.880Z",
+    "title": "Guerre en Ukraine : Volodymyr Zelensky appelle Moscou à accepter une trêve et dit qu’il « attendra » Vladimir Poutine « jeudi en Turquie »",
+    "added_at": "2025-05-11T17:30:53.912Z",
+    "removed_at": "2025-05-11T17:32:50.253Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Volodymyr Zelensky appelle à une trêve dès lundi et dit qu’il « attendra » Vladimir Poutine « jeudi en Turquie »",
+    "added_at": "2025-05-11T17:32:50.253Z",
+    "removed_at": "2025-05-11T17:36:35.049Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "En direct, guerre en Ukraine : Donald Trump presse l’Ukraine d’accepter « immédiatement » la rencontre proposée par Vladimir Poutine",
+    "added_at": "2025-05-11T17:32:50.253Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Dans le Lot, une rave-party illégale se termine après avoir rassemblé 10 000 participants",
+    "added_at": "2025-05-11T17:32:50.253Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Volodymyr Zelensky appelle à « un cessez-le-feu à partir de demain » et dit qu’il sera « jeudi en Turquie » pour rencontrer Vladimir Poutine",
+    "added_at": "2025-05-11T17:36:35.049Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
