@@ -786,7 +786,10 @@
   },
   {
     "title": "Trump makes major concession to China ahead of trade talks",
-    "added_at": "2025-05-09T15:05:28.132Z"
+    "added_at": "2025-05-09T15:05:28.132Z",
+    "removed_at": "2025-05-11T19:08:55.493Z",
+    "duration_minutes": 3123,
+    "duration_str": "2d 4h 3m"
   },
   {
     "title": "Trump floats raising taxes on the rich to pay for his sweeping tax and spending cuts package",
@@ -871,7 +874,10 @@
   },
   {
     "title": "A familiar face is advising on Trump’s Middle East trip: Jared Kushner",
-    "added_at": "2025-05-09T15:45:05.480Z"
+    "added_at": "2025-05-09T15:45:05.480Z",
+    "removed_at": "2025-05-11T19:08:55.493Z",
+    "duration_minutes": 3083,
+    "duration_str": "2d 3h 23m"
   },
   {
     "title": "Sources: Newark Liberty International Airport experienced second air control outage",
@@ -2176,5 +2182,16 @@
   {
     "title": "Zelensky offers first meeting of war with Putin after Russia ignores ceasefire demand",
     "added_at": "2025-05-11T18:44:24.476Z"
+  },
+  {
+    "title": "A familiar face is advising on Trump’s Middle East trip",
+    "added_at": "2025-05-11T19:08:55.493Z",
+    "removed_at": "2025-05-11T19:20:14.328Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "Hamas announces imminent release of Edan Alexander, last known living American hostage",
+    "added_at": "2025-05-11T19:18:24.533Z"
   }
 ]
