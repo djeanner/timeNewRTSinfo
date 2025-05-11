@@ -3414,7 +3414,10 @@
   },
   {
     "title": "Une commission fédérale enquête sur l’utilité des contrôles de sécurité aux plus hautes instances de l’Etat",
-    "added_at": "2025-05-08T17:48:55.164Z"
+    "added_at": "2025-05-08T17:48:55.164Z",
+    "removed_at": "2025-05-11T09:57:10.984Z",
+    "duration_minutes": 3848,
+    "duration_str": "2d 16h 8m"
   },
   {
     "title": "Le Vert Nicolas Walder et l'UDC Lionel Dugerdil visent la succession d'Antonio Hodger au Conseil d'Etat genevois",
@@ -3671,7 +3674,10 @@
   },
   {
     "title": "Swisstopo ne veut plus assurer l'exploitation du laboratoire du Mont Terri",
-    "added_at": "2025-05-10T03:51:40.097Z"
+    "added_at": "2025-05-10T03:51:40.097Z",
+    "removed_at": "2025-05-11T09:57:10.984Z",
+    "duration_minutes": 1805,
+    "duration_str": "1d 6h 5m"
   },
   {
     "title": "Le Pakistan frappe l'Inde en riposte à des missiles indiens contre Islamabad",
@@ -3884,10 +3890,7 @@
   },
   {
     "title": "Le CERN transmute le plomb en or: interview de John Jowett",
-    "added_at": "2025-05-10T22:53:46.599Z",
-    "removed_at": "2025-05-11T08:54:57.778Z",
-    "duration_minutes": 601,
-    "duration_str": "10h 1m"
+    "added_at": "2025-05-10T22:53:46.599Z"
   },
   {
     "title": "Les thérapies vétérinaires complémentaires, ça vaut quoi?",
@@ -3975,5 +3978,9 @@
   {
     "title": "Un Suisse sur sept dit avoir perdu de l'argent dans une arnaque en ligne",
     "added_at": "2025-05-11T09:38:15.745Z"
+  },
+  {
+    "title": "L'Inde et le Pakistan ont accepté un cessez-le-feu avec effet immédiat",
+    "added_at": "2025-05-11T09:57:10.984Z"
   }
 ]
