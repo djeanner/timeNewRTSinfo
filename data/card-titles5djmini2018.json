@@ -23,14 +23,14 @@
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-11T11:06:51.657Z",
-    "duration_minutes": 2885,
-    "duration_str": "2d 5m"
+    "added_at": "2025-05-09T11:01:45.077Z"
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-11T11:16:22.741Z",
+    "duration_minutes": 2894,
+    "duration_str": "2d 14m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -54,9 +54,9 @@
   {
     "title": "Le risque d’un retour en arrière pour les victimes de violence sexuelle et pour la place des femmes dans l’Eglise catholique",
     "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-11T11:05:02.333Z",
-    "duration_minutes": 2883,
-    "duration_str": "2d 3m"
+    "removed_at": "2025-05-11T11:23:51.097Z",
+    "duration_minutes": 2902,
+    "duration_str": "2d 22m"
   },
   {
     "title": "Les membres du jury",
@@ -291,9 +291,9 @@
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
     "added_at": "2025-05-09T11:11:38.599Z",
-    "removed_at": "2025-05-11T11:06:51.657Z",
-    "duration_minutes": 2875,
-    "duration_str": "1d 23h 55m"
+    "removed_at": "2025-05-11T11:22:01.472Z",
+    "duration_minutes": 2890,
+    "duration_str": "2d 10m"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -2267,7 +2267,10 @@
   },
   {
     "title": "Léon XIII, Innocent III, Pie IX... Quels sont les papes qui ont marqué l’histoire ?",
-    "added_at": "2025-05-10T04:12:22.846Z"
+    "added_at": "2025-05-10T04:12:22.846Z",
+    "removed_at": "2025-05-11T11:16:22.741Z",
+    "duration_minutes": 1863,
+    "duration_str": "1d 7h 3m"
   },
   {
     "title": "Guerre à Gaza : une conférence pour la paix organisée à Jérusalem présente un plan reposant sur une solution à deux Etats",
@@ -2415,10 +2418,7 @@
   },
   {
     "title": "« C’est une course capitaliste extrême » : à Canton, dans les ateliers de la sueur de Shein",
-    "added_at": "2025-05-10T07:49:26.550Z",
-    "removed_at": "2025-05-11T11:06:51.657Z",
-    "duration_minutes": 1637,
-    "duration_str": "1d 3h 17m"
+    "added_at": "2025-05-10T07:49:26.550Z"
   },
   {
     "title": "Une cyberattaque sème le chaos dans les magasins au Royaume-Uni",
@@ -3208,7 +3208,10 @@
   },
   {
     "title": "Trois bons réflexes à avoir pour soulager son dos",
-    "added_at": "2025-05-11T04:31:07.133Z"
+    "added_at": "2025-05-11T04:31:07.133Z",
+    "removed_at": "2025-05-11T11:18:12.261Z",
+    "duration_minutes": 407,
+    "duration_str": "6h 47m"
   },
   {
     "title": "Le cumul emploi-retraite est-il possible après un départ anticipé pour carrière longue ?",
@@ -3241,10 +3244,7 @@
   },
   {
     "title": "Pourquoi les entreprises se ruent sur les IA conversationnelles",
-    "added_at": "2025-05-11T06:01:28.301Z",
-    "removed_at": "2025-05-11T11:05:02.333Z",
-    "duration_minutes": 303,
-    "duration_str": "5h 3m"
+    "added_at": "2025-05-11T06:01:28.301Z"
   },
   {
     "title": "Hideo Kojima, le cinéphile maître du jeu vidéo",
@@ -3415,5 +3415,9 @@
   {
     "title": "Handicap : comment la communication alternative et améliorée redonne une voix à ceux qui en sont privés",
     "added_at": "2025-05-11T11:03:06.669Z"
+  },
+  {
+    "title": "Le pape Léon XIV laisse entrevoir une rupture avec François sur la guerre en Ukraine lors de sa première prière dominicale",
+    "added_at": "2025-05-11T11:16:22.741Z"
   }
 ]
