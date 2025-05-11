@@ -3292,11 +3292,17 @@
   },
   {
     "title": "Kiev et Moscou s'accusent mutuellement de violer la trêve de trois jours décrétée par Vladimir Poutine",
-    "added_at": "2025-05-08T13:26:30.226Z"
+    "added_at": "2025-05-08T13:26:30.226Z",
+    "removed_at": "2025-05-11T05:50:11.453Z",
+    "duration_minutes": 3863,
+    "duration_str": "2d 16h 23m"
   },
   {
     "title": "La police israélienne ferme des écoles de l'UNRWA à Jérusalem-Est",
-    "added_at": "2025-05-08T13:47:10.313Z"
+    "added_at": "2025-05-08T13:47:10.313Z",
+    "removed_at": "2025-05-11T05:46:26.349Z",
+    "duration_minutes": 3839,
+    "duration_str": "2d 15h 59m"
   },
   {
     "title": "Trump annonce un accord commercial \"complet\" avec le Royaume-Uni, dont les termes doivent être précisés",
@@ -3822,10 +3828,7 @@
   },
   {
     "title": "Kiev et ses alliés adressent à la Russie un ultimatum pour une trêve de 30 jours, le Kremlin \"va réfléchir\"",
-    "added_at": "2025-05-10T17:27:15.793Z",
-    "removed_at": "2025-05-11T02:43:44.334Z",
-    "duration_minutes": 556,
-    "duration_str": "9h 16m"
+    "added_at": "2025-05-10T17:27:15.793Z"
   },
   {
     "title": "Les négociations commerciales entre les Etats-Unis et la Chine lancées à Genève",
@@ -3891,5 +3894,9 @@
   {
     "title": "Moscou propose des négociations \"directes\" avec Kiev dès jeudi à Istanbul",
     "added_at": "2025-05-11T05:08:47.331Z"
+  },
+  {
+    "title": "Les cliniques de longévité, fontaine de Jouvence ou charlatanisme moderne?",
+    "added_at": "2025-05-11T05:50:11.453Z"
   }
 ]
