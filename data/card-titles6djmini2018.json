@@ -488,7 +488,10 @@
   },
   {
     "title": "At least 33 people killed in suspected RSF attacks in Sudan",
-    "added_at": "2025-05-10T15:26:18.575Z"
+    "added_at": "2025-05-10T15:26:18.575Z",
+    "removed_at": "2025-05-11T03:19:34.420Z",
+    "duration_minutes": 713,
+    "duration_str": "11h 53m"
   },
   {
     "title": "Children among 14 killed in Israel’s attacks on Gaza amid aid blockade",
@@ -562,5 +565,9 @@
   {
     "title": "India, Pakistan accuse each other of violations, hours after ceasefire deal",
     "added_at": "2025-05-11T02:11:39.668Z"
+  },
+  {
+    "title": "Putin proposes direct Russia-Ukraine talks in Istanbul on May 15",
+    "added_at": "2025-05-11T03:19:34.420Z"
   }
 ]
