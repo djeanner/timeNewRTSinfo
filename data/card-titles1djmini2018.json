@@ -3310,7 +3310,10 @@
   },
   {
     "title": "La mythique course assurée au moins jusqu'en 2034",
-    "added_at": "2025-05-08T14:05:50.221Z"
+    "added_at": "2025-05-08T14:05:50.221Z",
+    "removed_at": "2025-05-11T11:03:06.042Z",
+    "duration_minutes": 4137,
+    "duration_str": "2d 20h 57m"
   },
   {
     "title": "\"Présence de la mort\" de Karen Ichters, un Ramuz en noir et blanc",
@@ -3863,7 +3866,10 @@
   },
   {
     "title": "Plusieurs dirigeants européens à Kiev pour soutenir le président Zelensky",
-    "added_at": "2025-05-10T18:54:09.834Z"
+    "added_at": "2025-05-10T18:54:09.834Z",
+    "removed_at": "2025-05-11T10:55:33.415Z",
+    "duration_minutes": 961,
+    "duration_str": "16h 1m"
   },
   {
     "title": "Le cinéma américain influence-t-il encore le monde?",
@@ -3989,5 +3995,13 @@
   {
     "title": "Un éboulement s'est produit dans la région de Sonvico au Tessin",
     "added_at": "2025-05-11T10:14:08.088Z"
+  },
+  {
+    "title": "Pourparlers entre les Etats-Unis et la Chine à Cologny, dans le canton de Genève",
+    "added_at": "2025-05-11T10:55:33.415Z"
+  },
+  {
+    "title": "Reprise des négociations sur le nucléaire iranien, dans un contexte de tensions",
+    "added_at": "2025-05-11T11:03:06.042Z"
   }
 ]
