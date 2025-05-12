@@ -4121,7 +4121,10 @@
   },
   {
     "title": "Pourparlers entre les Etats-Unis et la Chine à Cologny, dans le canton de Genève",
-    "added_at": "2025-05-11T10:55:33.415Z"
+    "added_at": "2025-05-11T10:55:33.415Z",
+    "removed_at": "2025-05-12T13:00:21.802Z",
+    "duration_minutes": 1564,
+    "duration_str": "1d 2h 4m"
   },
   {
     "title": "Reprise des négociations sur le nucléaire iranien, dans un contexte de tensions",
@@ -4395,5 +4398,9 @@
   {
     "title": "Le Népal cherche la solution miracle pour un Everest moins encombré mais pas moins rentable",
     "added_at": "2025-05-12T12:37:41.805Z"
+  },
+  {
+    "title": "Le conseiller fédéral Guy Parmelin est le grand invité du 19h30",
+    "added_at": "2025-05-12T13:00:21.802Z"
   }
 ]

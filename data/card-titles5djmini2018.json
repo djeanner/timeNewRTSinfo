@@ -34,7 +34,10 @@
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-12T13:02:18.061Z",
+    "duration_minutes": 4440,
+    "duration_str": "3d 2h"
   },
   {
     "title": "Comment se déroule le conclave pour élire un nouveau pape ? Nos explications en vidéo, dans les couloirs d’une chapelle Sixtine en 3D",
@@ -296,16 +299,13 @@
   {
     "title": "La première apparition du pape Léon XIV en images",
     "added_at": "2025-05-09T11:07:52.917Z",
-    "removed_at": "2025-05-12T12:52:45.149Z",
-    "duration_minutes": 4424,
-    "duration_str": "3d 1h 44m"
+    "removed_at": "2025-05-12T13:06:01.108Z",
+    "duration_minutes": 4438,
+    "duration_str": "3d 1h 58m"
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T11:11:38.599Z",
-    "removed_at": "2025-05-12T12:50:55.639Z",
-    "duration_minutes": 4419,
-    "duration_str": "3d 1h 39m"
+    "added_at": "2025-05-09T11:11:38.599Z"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -2046,9 +2046,9 @@
   {
     "title": "« Quand les peuples se droitisent, l’argent public peut-il encore être monopolisé par des œuvres de gauche ? »",
     "added_at": "2025-05-09T16:32:20.958Z",
-    "removed_at": "2025-05-12T12:49:00.247Z",
-    "duration_minutes": 4096,
-    "duration_str": "2d 20h 16m"
+    "removed_at": "2025-05-12T13:06:01.108Z",
+    "duration_minutes": 4113,
+    "duration_str": "2d 20h 33m"
   },
   {
     "title": "A Bruxelles, les Européens jaugent l’engagement européen de Friedrich Merz",
@@ -3448,10 +3448,7 @@
   },
   {
     "title": "Réseaux sociaux : « N’est-il pas temps, pour une Europe en quête de souveraineté, de s’ériger en espace où les adolescents sont protégés de cette jungle »",
-    "added_at": "2025-05-11T10:02:51.749Z",
-    "removed_at": "2025-05-12T12:52:45.149Z",
-    "duration_minutes": 1609,
-    "duration_str": "1d 2h 49m"
+    "added_at": "2025-05-11T10:02:51.749Z"
   },
   {
     "title": "« Elsa », d’Angela Bubba : les tourments intimes d’Elsa Morante",
@@ -4207,7 +4204,10 @@
   },
   {
     "title": "Martin Hirsch : « Et si on créait un service public de la santé ? »",
-    "added_at": "2025-05-12T10:06:34.899Z"
+    "added_at": "2025-05-12T10:06:34.899Z",
+    "removed_at": "2025-05-12T13:06:01.108Z",
+    "duration_minutes": 179,
+    "duration_str": "2h 59m"
   },
   {
     "title": "Guerre commerciale : comment la Chine a fait plier Donald Trump",
@@ -4233,11 +4233,17 @@
   },
   {
     "title": "La Nouvelle-Calédonie de nouveau face au risque de guerre civile",
-    "added_at": "2025-05-12T10:36:42.036Z"
+    "added_at": "2025-05-12T10:36:42.036Z",
+    "removed_at": "2025-05-12T13:06:01.108Z",
+    "duration_minutes": 149,
+    "duration_str": "2h 29m"
   },
   {
     "title": "Affaire Goodyear : les accusations sévères de la justice",
-    "added_at": "2025-05-12T11:01:24.219Z"
+    "added_at": "2025-05-12T11:01:24.219Z",
+    "removed_at": "2025-05-12T13:04:07.600Z",
+    "duration_minutes": 122,
+    "duration_str": "2h 2m"
   },
   {
     "title": "Le pape Léon XIV demande la libération des journalistes emprisonnés",
@@ -4266,7 +4272,10 @@
   },
   {
     "title": "Après la proposition d’une trêve inconditionnelle de 30 jours en Ukraine, les ministres européens se réunissent pour des discussions « capitales »",
-    "added_at": "2025-05-12T12:22:38.932Z"
+    "added_at": "2025-05-12T12:22:38.932Z",
+    "removed_at": "2025-05-12T13:02:18.061Z",
+    "duration_minutes": 39,
+    "duration_str": "39m"
   },
   {
     "title": "Les 2 millions de personnes habitant la bande de Gaza face à « un risque critique » de famine, selon l’ONU et des ONG",
@@ -4356,5 +4365,35 @@
   {
     "title": "La holding de la famille Saadé prend 20 % du groupe Pathé",
     "added_at": "2025-05-12T12:52:45.149Z"
+  },
+  {
+    "title": "La Russie refuse l’ultimatum « inacceptable » lancé par l’Ukraine et ses alliés d’accepter un cessez-le-feu de 30 jours",
+    "added_at": "2025-05-12T13:02:18.061Z",
+    "removed_at": "2025-05-12T13:07:56.946Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "Des éléments de l’enquête sur les pneus défectueux de Goodyear confirment les lourds soupçons sur l’entreprise",
+    "added_at": "2025-05-12T13:04:07.600Z"
+  },
+  {
+    "title": "« La loi promet un “droit à mourir” quand on n’a plus les moyens de garantir un droit à être soigné »",
+    "added_at": "2025-05-12T13:06:01.108Z"
+  },
+  {
+    "title": "Le risque d’un retour de la violence en Nouvelle-Calédonie après l’échec des négociations politiques",
+    "added_at": "2025-05-12T13:06:01.108Z"
+  },
+  {
+    "title": "La Russie refuse l’ultimatum « inacceptable » lancé par l’Ukraine et ses alliés d’accepter un cessez-le-feu de trente jours",
+    "added_at": "2025-05-12T13:07:56.946Z",
+    "removed_at": "2025-05-12T13:09:46.719Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "La Russie refuse l’ultimatum « inacceptable » lancé par l’Ukraine et ses alliés d’accepter un cessez-le-feu inconditionnel de 30 jours",
+    "added_at": "2025-05-12T13:09:46.719Z"
   }
 ]
