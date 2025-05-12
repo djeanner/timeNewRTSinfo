@@ -3590,7 +3590,10 @@
   },
   {
     "title": "La ligne Fribourg-Berne fermée tout l'été, les pendulaires redécouvriront le bus",
-    "added_at": "2025-05-09T09:53:07.956Z"
+    "added_at": "2025-05-09T09:53:07.956Z",
+    "removed_at": "2025-05-12T08:11:14.786Z",
+    "duration_minutes": 4218,
+    "duration_str": "2d 22h 18m"
   },
   {
     "title": "L'Hôpital fribourgeois affiche une perte de près de 40 millions en 2024",
@@ -4241,5 +4244,9 @@
   {
     "title": "L'Ukraine et ses alliés occidentaux proposent un cessez-le-feu de 30 jours à la Russie",
     "added_at": "2025-05-12T07:58:01.537Z"
+  },
+  {
+    "title": "Les talibans interdisent les échecs, assimilés à un jeu d'argent",
+    "added_at": "2025-05-12T08:11:14.786Z"
   }
 ]
