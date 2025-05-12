@@ -5761,7 +5761,10 @@
   },
   {
     "title": "Airport Chaos",
-    "added_at": "2025-05-12T11:05:09.136Z"
+    "added_at": "2025-05-12T11:05:09.136Z",
+    "removed_at": "2025-05-12T19:06:46.692Z",
+    "duration_minutes": 481,
+    "duration_str": "8h 1m"
   },
   {
     "title": "Pope Leo XIV Calls for News Media to Shun Divisive Language",
@@ -5892,7 +5895,10 @@
   },
   {
     "title": "‘Clock Is Ticking’: E.U. Leaders Demand Russia Accept Truce by Day’s End",
-    "added_at": "2025-05-12T14:40:27.702Z"
+    "added_at": "2025-05-12T14:40:27.702Z",
+    "removed_at": "2025-05-12T19:06:46.692Z",
+    "duration_minutes": 266,
+    "duration_str": "4h 26m"
   },
   {
     "title": "Newsom Asks Cities to Ban Homeless Encampments, Escalating Crackdown",
@@ -6052,5 +6058,13 @@
   {
     "title": "India and Pakistan Hold Talks Aimed at Extending Cease-Fire",
     "added_at": "2025-05-12T18:42:16.932Z"
+  },
+  {
+    "title": "Fed Official Still Bracing for Economic Shock Despite China Tariff Pause",
+    "added_at": "2025-05-12T18:53:37.525Z"
+  },
+  {
+    "title": "Europeans Demand Russia Accept Truce; Trump Says He Might Join Peace Talks",
+    "added_at": "2025-05-12T19:06:46.692Z"
   }
 ]
