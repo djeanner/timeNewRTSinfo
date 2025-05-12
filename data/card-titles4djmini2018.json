@@ -2895,7 +2895,10 @@
   },
   {
     "title": "US and China to roll back tariffs",
-    "added_at": "2025-05-12T12:20:43.218Z"
+    "added_at": "2025-05-12T12:20:43.218Z",
+    "removed_at": "2025-05-12T15:56:00.822Z",
+    "duration_minutes": 215,
+    "duration_str": "3h 35m"
   },
   {
     "title": "CNN breaks down US-China tariff agreement",
@@ -3016,5 +3019,9 @@
   {
     "title": "Hamas hands Edan Alexander, last known living US hostage in Gaza, to Red Cross",
     "added_at": "2025-05-12T15:42:45.841Z"
+  },
+  {
+    "title": "Dow soars after Trump team and China announce tariff truce",
+    "added_at": "2025-05-12T15:56:00.822Z"
   }
 ]
