@@ -3030,7 +3030,10 @@
   },
   {
     "title": "culture:::Le Week-end musical de Pully, un festival où la musique se vit en famille",
-    "added_at": "2025-05-12T09:22:57.580Z"
+    "added_at": "2025-05-12T09:22:57.580Z",
+    "removed_at": "2025-05-12T20:12:58.826Z",
+    "duration_minutes": 650,
+    "duration_str": "10h 50m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky dit avoir invité le pape en Ukraine lors de leur premier entretien téléphonique",
@@ -3056,7 +3059,10 @@
   },
   {
     "title": "economie:::Etats-Unis et Chine concluent une trêve commerciale à Genève",
-    "added_at": "2025-05-12T10:59:30.022Z"
+    "added_at": "2025-05-12T10:59:30.022Z",
+    "removed_at": "2025-05-12T20:11:02.245Z",
+    "duration_minutes": 551,
+    "duration_str": "9h 11m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – «Un risque critique de famine»: 22% de la population de Gaza est dans une situation «catastrophique»",
@@ -3082,10 +3088,7 @@
   },
   {
     "title": "suisse:::Dans le canton de Neuchâtel, la commune des Verrières demande la fermeture du centre pour requérants «récalcitrants» des Cernets",
-    "added_at": "2025-05-12T13:34:18.767Z",
-    "removed_at": "2025-05-12T14:19:42.940Z",
-    "duration_minutes": 45,
-    "duration_str": "45m"
+    "added_at": "2025-05-12T13:34:18.767Z"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Benyamin Netanyahou annonce l’envoi d’une délégation à Doha pour des négociations sur les otages",
@@ -3135,7 +3138,10 @@
   },
   {
     "title": "sport:::La Suisse dompte les Etats-Unis et affirme ses ambitions au Mondial de hockey",
-    "added_at": "2025-05-12T17:39:55.791Z"
+    "added_at": "2025-05-12T17:39:55.791Z",
+    "removed_at": "2025-05-12T20:07:17.186Z",
+    "duration_minutes": 147,
+    "duration_str": "2h 27m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’otage israélo-américain Edan Alexander de retour sur le sol israélien",
@@ -3160,5 +3166,17 @@
   {
     "title": "economie:::Une trêve commerciale accueillie comme une victoire par les marchés financiers",
     "added_at": "2025-05-12T19:38:56.892Z"
+  },
+  {
+    "title": "monde:::Ann Telnaes, Prix Pulitzer 2025, ancienne du «Washington Post»: «Pouvoir rire de quelqu’un au pouvoir, c’est une grande arme»",
+    "added_at": "2025-05-12T20:07:17.186Z"
+  },
+  {
+    "title": "culture:::Andrea Colamedici: «Donald Trump et Elon Musk sont les prêtres d’une transe collective alimentée par l’IA»",
+    "added_at": "2025-05-12T20:09:07.156Z"
+  },
+  {
+    "title": "monde:::Les Etats-Unis obtiennent la libération de leur dernier otage à Gaza, la preuve que la diplomatie fonctionne",
+    "added_at": "2025-05-12T20:11:02.245Z"
   }
 ]
