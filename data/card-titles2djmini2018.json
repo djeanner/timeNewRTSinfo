@@ -2949,7 +2949,10 @@
   },
   {
     "title": "monde:::Le PKK annonce sa dissolution et la fin de la lutte armée",
-    "added_at": "2025-05-12T06:55:37.868Z"
+    "added_at": "2025-05-12T06:55:37.868Z",
+    "removed_at": "2025-05-12T15:33:20.377Z",
+    "duration_minutes": 517,
+    "duration_str": "8h 37m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Benyamin Netanyahou ne prévoit ni cessez-le-feu, ni libération de prisonniers palestiniens",
@@ -3077,7 +3080,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Benyamin Netanyahou annonce l’envoi d’une délégation à Doha pour des négociations sur les otages",
-    "added_at": "2025-05-12T13:51:17.118Z"
+    "added_at": "2025-05-12T13:51:17.118Z",
+    "removed_at": "2025-05-12T15:29:37.037Z",
+    "duration_minutes": 98,
+    "duration_str": "1h 38m"
   },
   {
     "title": "economie:::Tableau de bord numérique, «dialogue constructif»… Voici comment UBS surveille la présence de ses employés au bureau",
@@ -3086,5 +3092,16 @@
   {
     "title": "sport:::Les Etats-Unis, un géant inabouti du hockey mondial",
     "added_at": "2025-05-12T15:25:45.927Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Gaza: L’otage israélo-américain Edan Alexander a été remis à la Croix-Rouge",
+    "added_at": "2025-05-12T15:29:37.037Z",
+    "removed_at": "2025-05-12T15:38:59.970Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’otage israélo-américain Edan Alexander a été remis à la Croix-Rouge",
+    "added_at": "2025-05-12T15:38:59.970Z"
   }
 ]
