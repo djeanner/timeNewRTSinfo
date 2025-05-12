@@ -3688,7 +3688,10 @@
   },
   {
     "title": "A quel point peut-on se soigner avec les IA? On en parle a fait le test",
-    "added_at": "2025-05-09T14:54:06.518Z"
+    "added_at": "2025-05-09T14:54:06.518Z",
+    "removed_at": "2025-05-12T13:28:40.526Z",
+    "duration_minutes": 4234,
+    "duration_str": "2d 22h 34m"
   },
   {
     "title": "Moscou célèbre le 80e anniversaire de la défaite de l'Allemagne nazie",
@@ -4402,5 +4405,16 @@
   {
     "title": "Le conseiller fédéral Guy Parmelin est le grand invité du 19h30",
     "added_at": "2025-05-12T13:00:21.802Z"
+  },
+  {
+    "title": "La présidente du Kosovo en visite d'état en Suisse dès mercredi",
+    "added_at": "2025-05-12T13:28:40.526Z",
+    "removed_at": "2025-05-12T13:39:57.444Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "La présidente du Kosovo en visite d'Etat en Suisse dès mercredi",
+    "added_at": "2025-05-12T13:39:57.444Z"
   }
 ]

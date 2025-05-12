@@ -2751,7 +2751,10 @@
   },
   {
     "title": "suisse:::Le canton de Vaud coupe dans l’accueil des enfants à besoins particuliers pendant les vacances",
-    "added_at": "2025-05-11T05:52:04.801Z"
+    "added_at": "2025-05-11T05:52:04.801Z",
+    "removed_at": "2025-05-12T13:34:18.767Z",
+    "duration_minutes": 1902,
+    "duration_str": "1d 7h 42m"
   },
   {
     "title": "monde:::Les Albanais votent pour des législatives test sur l’UE",
@@ -3052,5 +3055,9 @@
   {
     "title": "suisse:::Pour le glaciologue Matthias Huss, «ces prochaines années, beaucoup de glaciers vont complètement disparaître»",
     "added_at": "2025-05-12T12:41:26.958Z"
+  },
+  {
+    "title": "suisse:::Dans le canton de Neuchâtel, la commune des Verrières demande la fermeture du centre pour requérants «récalcitrants» des Cernets",
+    "added_at": "2025-05-12T13:34:18.767Z"
   }
 ]
