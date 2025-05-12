@@ -30,11 +30,17 @@
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-12T14:25:23.010Z",
+    "duration_minutes": 4523,
+    "duration_str": "3d 3h 23m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-12T14:32:57.779Z",
+    "duration_minutes": 4531,
+    "duration_str": "3d 3h 31m"
   },
   {
     "title": "Comment se déroule le conclave pour élire un nouveau pape ? Nos explications en vidéo, dans les couloirs d’une chapelle Sixtine en 3D",
@@ -298,17 +304,11 @@
   },
   {
     "title": "La première apparition du pape Léon XIV en images",
-    "added_at": "2025-05-09T11:07:52.917Z",
-    "removed_at": "2025-05-12T14:06:24.259Z",
-    "duration_minutes": 4498,
-    "duration_str": "3d 2h 58m"
+    "added_at": "2025-05-09T11:07:52.917Z"
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T11:11:38.599Z",
-    "removed_at": "2025-05-12T13:51:17.719Z",
-    "duration_minutes": 4479,
-    "duration_str": "3d 2h 39m"
+    "added_at": "2025-05-09T11:11:38.599Z"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -4190,10 +4190,7 @@
   },
   {
     "title": "Tours de luxe, Boeing 747 offert… Les bonnes affaires de la famille Trump dans le golfe Arabo-Persique",
-    "added_at": "2025-05-12T09:28:36.711Z",
-    "removed_at": "2025-05-12T14:15:53.383Z",
-    "duration_minutes": 287,
-    "duration_str": "4h 47m"
+    "added_at": "2025-05-12T09:28:36.711Z"
   },
   {
     "title": "Les bonnes affaires de la famille Trump dans le Golfe arabo-persique : tours de luxe, Boeing 747 offert par le Qatar…",
@@ -4351,7 +4348,10 @@
   },
   {
     "title": "Prix des médicaments : les laboratoires se servent de Donald Trump pour faire pression sur l’Europe",
-    "added_at": "2025-05-12T12:37:42.482Z"
+    "added_at": "2025-05-12T12:37:42.482Z",
+    "removed_at": "2025-05-12T14:34:47.550Z",
+    "duration_minutes": 117,
+    "duration_str": "1h 57m"
   },
   {
     "title": "Bus à hydrogène : à Albi, les salariés de Safra craignent de passer sous pavillon chinois",
@@ -4398,7 +4398,10 @@
   },
   {
     "title": "Le risque d’un retour de la violence en Nouvelle-Calédonie après l’échec des négociations politiques",
-    "added_at": "2025-05-12T13:06:01.108Z"
+    "added_at": "2025-05-12T13:06:01.108Z",
+    "removed_at": "2025-05-12T14:34:47.550Z",
+    "duration_minutes": 88,
+    "duration_str": "1h 28m"
   },
   {
     "title": "La Russie refuse l’ultimatum « inacceptable » lancé par l’Ukraine et ses alliés d’accepter un cessez-le-feu de trente jours",
@@ -4444,5 +4447,9 @@
   {
     "title": "En Lituanie, la hantise du retour de la guerre avec la Russie tapie au bout du jardin",
     "added_at": "2025-05-12T14:10:14.375Z"
+  },
+  {
+    "title": "Les laboratoires pharmaceutiques se servent des droits de douane de Trump pour exiger une hausse des prix des médicaments en Europe",
+    "added_at": "2025-05-12T14:34:47.550Z"
   }
 ]
