@@ -6675,7 +6675,10 @@
   },
   {
     "title": "L'Hôpital fribourgeois affiche une perte de près de 40 millions en 2024",
-    "added_at": "2025-05-09T09:58:34.778Z"
+    "added_at": "2025-05-09T09:58:34.778Z",
+    "removed_at": "2025-05-12T02:41:33.695Z",
+    "duration_minutes": 3882,
+    "duration_str": "2d 16h 42m"
   },
   {
     "title": "Dans sa première messe, Léon XIV déplore le recul de la foi au profit de \"l'argent\"",
@@ -7104,5 +7107,9 @@
   {
     "title": "Eboulement dans la région de Sonvico au Tessin",
     "added_at": "2025-05-12T00:59:03.764Z"
+  },
+  {
+    "title": "Donald Trump veut s'attaquer au prix des médicaments aux Etats-Unis",
+    "added_at": "2025-05-12T02:41:33.695Z"
   }
 ]
