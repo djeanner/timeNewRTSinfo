@@ -6540,7 +6540,10 @@
   },
   {
     "title": "Léon XIV, un homme d'écoute et de synthèse modéré",
-    "added_at": "2025-05-08T18:12:03.488Z"
+    "added_at": "2025-05-08T18:12:03.488Z",
+    "removed_at": "2025-05-12T05:02:07.288Z",
+    "duration_minutes": 4970,
+    "duration_str": "3d 10h 50m"
   },
   {
     "title": "Premier pape américain, Léon XIV appelle \"tous les peuples\" à la paix et à avancer \"sans peur\"",
@@ -7111,5 +7114,9 @@
   {
     "title": "Donald Trump veut s'attaquer au prix des médicaments aux Etats-Unis",
     "added_at": "2025-05-12T02:41:33.695Z"
+  },
+  {
+    "title": "RaiseNow, la plateforme de paiement qui refuse ses services à l'UDC",
+    "added_at": "2025-05-12T05:02:07.288Z"
   }
 ]
