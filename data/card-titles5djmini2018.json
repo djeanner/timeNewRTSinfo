@@ -26,7 +26,10 @@
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-12T12:26:22.341Z",
+    "duration_minutes": 4404,
+    "duration_str": "3d 1h 24m"
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
@@ -289,17 +292,14 @@
   },
   {
     "title": "La première apparition du pape Léon XIV en images",
-    "added_at": "2025-05-09T11:07:52.917Z",
-    "removed_at": "2025-05-12T12:16:58.228Z",
-    "duration_minutes": 4389,
-    "duration_str": "3d 1h 9m"
+    "added_at": "2025-05-09T11:07:52.917Z"
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
     "added_at": "2025-05-09T11:11:38.599Z",
-    "removed_at": "2025-05-12T11:56:08.462Z",
-    "duration_minutes": 4364,
-    "duration_str": "3d 44m"
+    "removed_at": "2025-05-12T12:35:45.835Z",
+    "duration_minutes": 4404,
+    "duration_str": "3d 1h 24m"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -2034,9 +2034,9 @@
   {
     "title": "« Quand les peuples se droitisent, l’argent public peut-il encore être monopolisé par des œuvres de gauche ? »",
     "added_at": "2025-05-09T16:32:20.958Z",
-    "removed_at": "2025-05-12T12:16:58.228Z",
-    "duration_minutes": 4064,
-    "duration_str": "2d 19h 44m"
+    "removed_at": "2025-05-12T12:28:18.084Z",
+    "duration_minutes": 4075,
+    "duration_str": "2d 19h 55m"
   },
   {
     "title": "A Bruxelles, les Européens jaugent l’engagement européen de Friedrich Merz",
@@ -3944,10 +3944,7 @@
   },
   {
     "title": "La création d’un « droit à l’aide à mourir » divise le gouvernement et les groupes parlementaires",
-    "added_at": "2025-05-12T04:49:19.533Z",
-    "removed_at": "2025-05-12T12:15:02.362Z",
-    "duration_minutes": 445,
-    "duration_str": "7h 25m"
+    "added_at": "2025-05-12T04:49:19.533Z"
   },
   {
     "title": "Gaza : le Hamas se déclare prêt à des négociations pour « un accord final sur l’arrêt de la guerre »",
@@ -4065,7 +4062,10 @@
   },
   {
     "title": "En Allemagne, nouvelles manifestations massives pour réclamer l’interdiction de l’AfD",
-    "added_at": "2025-05-12T09:02:14.393Z"
+    "added_at": "2025-05-12T09:02:14.393Z",
+    "removed_at": "2025-05-12T12:32:01.027Z",
+    "duration_minutes": 209,
+    "duration_str": "3h 29m"
   },
   {
     "title": "La Pologne accuse les services russes d’avoir commandité l’incendie d’un centre commercial à Varsovie en 2024",
@@ -4162,9 +4162,9 @@
   {
     "title": "En direct, guerre à Gaza : Israël met en pause ses opérations militaires pour permettre la libération de l’otage Edan Alexander",
     "added_at": "2025-05-12T09:13:34.885Z",
-    "removed_at": "2025-05-12T10:12:13.301Z",
-    "duration_minutes": 58,
-    "duration_str": "58m"
+    "removed_at": "2025-05-12T12:32:01.027Z",
+    "duration_minutes": 198,
+    "duration_str": "3h 18m"
   },
   {
     "title": "Diversité et inclusion : « Que des acteurs européens comme SAP cèdent aux injonctions de Trump démontre soit la puissance de cet appel, soit l’hypocrisie de certains quant à leur engagement pour un capitalisme inclusif »",
@@ -4243,10 +4243,24 @@
   },
   {
     "title": "Le PKK annonce sa dissolution et la fin de la lutte armée contre le pouvoir turc",
-    "added_at": "2025-05-12T11:35:22.494Z"
+    "added_at": "2025-05-12T11:35:22.494Z",
+    "removed_at": "2025-05-12T12:30:07.651Z",
+    "duration_minutes": 54,
+    "duration_str": "54m"
   },
   {
     "title": "En direct, guerre en Ukraine : Emmanuel Macron va reparler avec Volodymyr Zelensky et ses « collègues européens » lundi après-midi",
-    "added_at": "2025-05-12T11:54:18.969Z"
+    "added_at": "2025-05-12T11:54:18.969Z",
+    "removed_at": "2025-05-12T12:22:38.932Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
+  },
+  {
+    "title": "Après la proposition d’une trêve inconditionnelle de 30 jours en Ukraine, les ministres européens se réunissent pour des discussions « capitales »",
+    "added_at": "2025-05-12T12:22:38.932Z"
+  },
+  {
+    "title": "Les 2 millions de personnes habitant la bande de Gaza face à « un risque critique » de famine, selon l’ONU et des ONG",
+    "added_at": "2025-05-12T12:32:01.027Z"
   }
 ]

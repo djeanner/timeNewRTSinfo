@@ -3010,7 +3010,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky dit avoir invité le pape en Ukraine lors de leur premier entretien téléphonique",
-    "added_at": "2025-05-12T09:32:31.813Z"
+    "added_at": "2025-05-12T09:32:31.813Z",
+    "removed_at": "2025-05-12T12:22:38.311Z",
+    "duration_minutes": 170,
+    "duration_str": "2h 50m"
   },
   {
     "title": "suisse:::L'Eurovision 2025 à Bâle: du sacre de Nemo à la Halle Saint-Jacques",
@@ -3035,5 +3038,9 @@
   {
     "title": "culture:::Au Royaume-Uni, les lieux dédiés à l’écoute des vinyles connaissent un joyeux renouveau",
     "added_at": "2025-05-12T11:31:38.865Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – La Russie «ignore totalement» la proposition occidentale de cessez-le-feu, estime Kiev",
+    "added_at": "2025-05-12T12:22:38.311Z"
   }
 ]

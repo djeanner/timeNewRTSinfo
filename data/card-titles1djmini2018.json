@@ -3607,7 +3607,10 @@
   },
   {
     "title": "Dans sa première messe, Léon XIV déplore le recul de la foi au profit de \"l'argent\"",
-    "added_at": "2025-05-09T10:29:07.988Z"
+    "added_at": "2025-05-09T10:29:07.988Z",
+    "removed_at": "2025-05-12T12:20:42.613Z",
+    "duration_minutes": 4431,
+    "duration_str": "3d 1h 51m"
   },
   {
     "title": "Début du deuxième jour du conclave pour désigner le pape",
@@ -4354,7 +4357,10 @@
   },
   {
     "title": "En Suisse, les bébés naissent de préférence la semaine, plannings hospitaliers obligent",
-    "added_at": "2025-05-12T11:52:22.616Z"
+    "added_at": "2025-05-12T11:52:22.616Z",
+    "removed_at": "2025-05-12T12:33:55.770Z",
+    "duration_minutes": 41,
+    "duration_str": "41m"
   },
   {
     "title": "Mathieu Bertholet, directeur du Theater Neumarkt de Zurich, compte \"secouer le bourgeois\"",
@@ -4366,6 +4372,21 @@
   },
   {
     "title": "Les glaciers recouverts une couche de neige historiquement basse cette année",
-    "added_at": "2025-05-12T12:18:47.118Z"
+    "added_at": "2025-05-12T12:18:47.118Z",
+    "removed_at": "2025-05-12T12:20:42.613Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Les glaciers recouverts d'une couche de neige historiquement basse cette année",
+    "added_at": "2025-05-12T12:20:42.613Z"
+  },
+  {
+    "title": "Le canton de Neuchâtel lance un appel à projets pour favoriser le vivre ensemble, en lien avec le climat",
+    "added_at": "2025-05-12T12:20:42.613Z"
+  },
+  {
+    "title": "En Suisse, les bébés naissent majoritairement la semaine, plannings hospitaliers obligent",
+    "added_at": "2025-05-12T12:33:55.770Z"
   }
 ]
