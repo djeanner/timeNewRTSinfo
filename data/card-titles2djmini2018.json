@@ -2881,7 +2881,10 @@
   },
   {
     "title": "monde:::Guerre commerciale: les Etats-Unis et la Chine s’accordent sur un mécanisme de résolution des conflits",
-    "added_at": "2025-05-11T19:27:48.045Z"
+    "added_at": "2025-05-11T19:27:48.045Z",
+    "removed_at": "2025-05-12T17:04:01.460Z",
+    "duration_minutes": 1296,
+    "duration_str": "21h 36m"
   },
   {
     "title": "culture:::La soprano Asmik Grigorian met l’Opéra Bastille à genoux dans «Le Triptyque» de Puccini",
@@ -3020,7 +3023,10 @@
   },
   {
     "title": "culture:::A Yverdon, la Maison d’Ailleurs explore les paysages de sa ville, et jusqu’à Aldébaran",
-    "added_at": "2025-05-12T08:52:50.879Z"
+    "added_at": "2025-05-12T08:52:50.879Z",
+    "removed_at": "2025-05-12T17:00:18.267Z",
+    "duration_minutes": 487,
+    "duration_str": "8h 7m"
   },
   {
     "title": "culture:::Le Week-end musical de Pully, un festival où la musique se vit en famille",
@@ -3047,10 +3053,7 @@
   },
   {
     "title": "economie:::Etats-Unis et Chine concluent une trêve commerciale à Genève",
-    "added_at": "2025-05-12T10:59:30.022Z",
-    "removed_at": "2025-05-12T16:47:01.992Z",
-    "duration_minutes": 347,
-    "duration_str": "5h 47m"
+    "added_at": "2025-05-12T10:59:30.022Z"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – «Un risque critique de famine»: 22% de la population de Gaza est dans une situation «catastrophique»",
@@ -3110,5 +3113,9 @@
   {
     "title": "suisse:::A Genève, la Suisse en tête de liste pour un accord sur les droits de douane",
     "added_at": "2025-05-12T16:47:01.992Z"
+  },
+  {
+    "title": "economie:::Pour faire baisser les prix des médicaments aux Etats-Unis, Donald Trump veut que les autres pays payent plus",
+    "added_at": "2025-05-12T16:58:22.784Z"
   }
 ]
