@@ -6772,7 +6772,10 @@
   },
   {
     "title": "Les entreprises neuchâteloises s'attendent à une année morose",
-    "added_at": "2025-05-09T16:26:57.753Z"
+    "added_at": "2025-05-09T16:26:57.753Z",
+    "removed_at": "2025-05-12T07:26:36.288Z",
+    "duration_minutes": 3779,
+    "duration_str": "2d 14h 59m"
   },
   {
     "title": "Le CERN réalise le rêve des alchimistes de transformer du plomb en or",
@@ -7139,5 +7142,9 @@
   {
     "title": "\"Dale l'infiltré\", la série qui dévoile l'incroyable destin d'un pasteur agent secret",
     "added_at": "2025-05-12T07:03:42.634Z"
+  },
+  {
+    "title": "Les Etats-Unis et la Chine ramènent leurs taxes douanières réciproques à 10% pour 90 jours",
+    "added_at": "2025-05-12T07:26:36.288Z"
   }
 ]
