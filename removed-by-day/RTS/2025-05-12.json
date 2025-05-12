@@ -44,8 +44,9 @@
   {
     "title": "Les Etats-Unis et la Chine ramènent leurs taxes douanières réciproques à 10% pour 90 jours",
     "added_at": "2025-05-12T07:25:52.704Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-12T09:05:37.609Z",
+    "duration_minutes": 100,
+    "duration_str": "1h 40m"
   },
   {
     "title": "L'Ukraine et ses alliés occidentaux proposent un cessez-le-feu de 30 jours à la Russie",
@@ -62,13 +63,26 @@
   },
   {
     "title": "\"Comment ça va, la Suisse?\": participez à notre grand sondage national",
-    "added_at": "2025-05-12T08:48:19.091Z",
+    "added_at": "2025-05-12T08:47:12.580Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "L'association Stop Suicide fait de la prévention depuis 25 ans: interview de Sophia Perez",
     "added_at": "2025-05-12T08:57:55.624Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Les Etats-Unis et la Chine font une pause de 90 jours sur leurs taxes douanières réciproques",
+    "added_at": "2025-05-12T09:05:37.609Z",
+    "removed_at": "2025-05-12T09:13:16.321Z",
+    "duration_minutes": 8,
+    "duration_str": "8m"
+  },
+  {
+    "title": "Les Etats-Unis et la Chine ramènent leurs droits de douane à respectivement 30% et 10% pour 90 jours",
+    "added_at": "2025-05-12T09:13:16.321Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
