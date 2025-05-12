@@ -322,8 +322,9 @@
   {
     "title": "Officials Are Denied Access to Library of Congress After Trump Shake-Up",
     "added_at": "2025-05-12T19:59:42.337Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-12T21:21:34.262Z",
+    "duration_minutes": 82,
+    "duration_str": "1h 22m"
   },
   {
     "title": "Hamas Frees American Held in Gaza in Deal That Largely Circumvents Israel",
@@ -382,8 +383,9 @@
   {
     "title": "Sean Combs Trial Begins With Testimony of Sex and Violence",
     "added_at": "2025-05-12T20:31:52.321Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-12T21:15:52.346Z",
+    "duration_minutes": 44,
+    "duration_str": "44m"
   },
   {
     "title": "Coming Out of the Closet Was a Liberation. Why Are Some Peeking Back In?",
@@ -430,6 +432,46 @@
   {
     "title": "Michael Jordan Is Back and Bringing ’90s Nostalgia to NBC’s N.B.A. Coverage",
     "added_at": "2025-05-12T19:14:23.543Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Day 1 of Testimony in Sean Combs Trial Ends After Accounts of Sex and Violence",
+    "added_at": "2025-05-12T21:15:52.346Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Looking for Belichick’s Girlfriend? Try a Beauty Pageant in Maine.",
+    "added_at": "2025-05-12T17:47:26.920Z",
+    "removed_at": "2025-05-12T19:57:46.802Z",
+    "duration_minutes": 130,
+    "duration_str": "2h 10m"
+  },
+  {
+    "title": "Air Traffic Staffing Shortage Forces Delays at Newark Airport",
+    "added_at": "2025-05-12T17:47:26.920Z",
+    "removed_at": "2025-05-12T19:57:46.802Z",
+    "duration_minutes": 130,
+    "duration_str": "2h 10m"
+  },
+  {
+    "title": "Yeshiva University Reverses Itself and Bans L.G.B.T.Q. Club",
+    "added_at": "2025-05-12T21:17:43.250Z",
+    "removed_at": "2025-05-12T21:19:37.573Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Cuomo Loses $622,000 Over Concerns of Improper Super PAC Coordination",
+    "added_at": "2025-05-12T19:55:56.893Z",
+    "removed_at": "2025-05-12T19:57:46.802Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Standoff After Trump Installs Justice Dept. Official at Library of Congress",
+    "added_at": "2025-05-12T21:21:34.262Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -637,20 +679,6 @@
     "duration_str": "3h 28m"
   },
   {
-    "title": "Looking for Belichick’s Girlfriend? Try a Beauty Pageant in Maine.",
-    "added_at": "2025-05-12T17:47:26.920Z",
-    "removed_at": "2025-05-12T19:57:46.802Z",
-    "duration_minutes": 130,
-    "duration_str": "2h 10m"
-  },
-  {
-    "title": "Air Traffic Staffing Shortage Forces Delays at Newark Airport",
-    "added_at": "2025-05-12T17:47:26.920Z",
-    "removed_at": "2025-05-12T19:57:46.802Z",
-    "duration_minutes": 130,
-    "duration_str": "2h 10m"
-  },
-  {
     "title": "Cuomo Loses $622,000 in Campaign Funds for Coordinating With Super PAC",
     "added_at": "2025-05-12T17:47:26.920Z",
     "removed_at": "2025-05-12T19:14:23.543Z",
@@ -663,12 +691,5 @@
     "removed_at": "2025-05-12T19:57:46.802Z",
     "duration_minutes": 130,
     "duration_str": "2h 10m"
-  },
-  {
-    "title": "Cuomo Loses $622,000 Over Concerns of Improper Super PAC Coordination",
-    "added_at": "2025-05-12T19:55:56.893Z",
-    "removed_at": "2025-05-12T19:57:46.802Z",
-    "duration_minutes": 2,
-    "duration_str": "2m"
   }
 ]
