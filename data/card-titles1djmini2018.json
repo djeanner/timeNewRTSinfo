@@ -3987,7 +3987,10 @@
   },
   {
     "title": "Plus de 160'000 personnes confinées en Catalogne, à cause d'un nuage de chlore",
-    "added_at": "2025-05-10T15:52:44.193Z"
+    "added_at": "2025-05-10T15:52:44.193Z",
+    "removed_at": "2025-05-12T18:44:06.607Z",
+    "duration_minutes": 3051,
+    "duration_str": "2d 2h 51m"
   },
   {
     "title": "Le Hamas diffuse une vidéo de deux otages israéliens en vie",
@@ -4059,7 +4062,10 @@
   },
   {
     "title": "Les thérapies vétérinaires complémentaires, ça vaut quoi?",
-    "added_at": "2025-05-10T23:54:05.830Z"
+    "added_at": "2025-05-10T23:54:05.830Z",
+    "removed_at": "2025-05-12T18:44:06.607Z",
+    "duration_minutes": 2570,
+    "duration_str": "1d 18h 50m"
   },
   {
     "title": "Reportage à Grolley, où l'émotion était forte jeudi soir sur le parvis de l'Eglise",
@@ -4163,10 +4169,7 @@
   },
   {
     "title": "Pourparlers entre les Etats-Unis et la Chine à Cologny, dans le canton de Genève",
-    "added_at": "2025-05-11T10:55:33.415Z",
-    "removed_at": "2025-05-12T13:00:21.802Z",
-    "duration_minutes": 1564,
-    "duration_str": "1d 2h 4m"
+    "added_at": "2025-05-11T10:55:33.415Z"
   },
   {
     "title": "Reprise des négociations sur le nucléaire iranien, dans un contexte de tensions",
@@ -4528,5 +4531,9 @@
   {
     "title": "Le Hamas a libéré un otage israélo-américain retenu à Gaza depuis le 7 octobre 2023",
     "added_at": "2025-05-12T17:43:41.005Z"
+  },
+  {
+    "title": "L'armée suisse encourage le port de brassières au lieu de soutiens-gorge avec armatures métalliques",
+    "added_at": "2025-05-12T18:44:06.607Z"
   }
 ]
