@@ -2881,7 +2881,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Pressions pour faire avancer les discussions sur le cessez-le-feu",
-    "added_at": "2025-05-12T04:13:31.034Z"
+    "added_at": "2025-05-12T04:13:31.034Z",
+    "removed_at": "2025-05-12T07:52:22.879Z",
+    "duration_minutes": 218,
+    "duration_str": "3h 38m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump salue une «nouvelle monumentale» au sujet de la future libération d'un otage à Gaza",
@@ -2942,5 +2945,16 @@
   {
     "title": "economie:::Les Etats-Unis et la Chine ramènent leurs droits de douane à 10% pour 90 jours",
     "added_at": "2025-05-12T07:22:09.474Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – La Pologne annonce la fermeture d’un consulat russe à la suite d'«un acte de sabotage»",
+    "added_at": "2025-05-12T07:52:22.879Z",
+    "removed_at": "2025-05-12T07:59:54.841Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – La Pologne annonce la fermeture du consulat russe à Cracovie pour «un acte de sabotage»",
+    "added_at": "2025-05-12T07:59:54.841Z"
   }
 ]

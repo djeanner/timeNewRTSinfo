@@ -3733,7 +3733,10 @@
   },
   {
     "title": "Le Pakistan annonce avoir lancé une offensive militaire contre l'Inde",
-    "added_at": "2025-05-10T03:47:51.188Z"
+    "added_at": "2025-05-10T03:47:51.188Z",
+    "removed_at": "2025-05-12T07:58:01.537Z",
+    "duration_minutes": 3130,
+    "duration_str": "2d 4h 10m"
   },
   {
     "title": "Swisstopo ne veut plus assurer l'exploitation du laboratoire du Mont Terri",
@@ -4234,5 +4237,9 @@
   {
     "title": "Les Etats-Unis et la Chine ramènent leurs taxes douanières réciproques à 10% pour 90 jours",
     "added_at": "2025-05-12T07:25:52.704Z"
+  },
+  {
+    "title": "L'Ukraine et ses alliés occidentaux proposent un cessez-le-feu de 30 jours à la Russie",
+    "added_at": "2025-05-12T07:58:01.537Z"
   }
 ]
