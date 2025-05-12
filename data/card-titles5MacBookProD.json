@@ -34,7 +34,10 @@
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
-    "added_at": "2025-05-09T10:29:58.735Z"
+    "added_at": "2025-05-09T10:29:58.735Z",
+    "removed_at": "2025-05-12T11:35:53.497Z",
+    "duration_minutes": 4385,
+    "duration_str": "3d 1h 5m"
   },
   {
     "title": "Comment se déroule le conclave pour élire un nouveau pape ? Nos explications en vidéo, dans les couloirs d’une chapelle Sixtine en 3D",
@@ -271,10 +274,7 @@
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T10:32:57.100Z",
-    "removed_at": "2025-05-12T11:05:28.912Z",
-    "duration_minutes": 4352,
-    "duration_str": "3d 32m"
+    "added_at": "2025-05-09T10:32:57.100Z"
   },
   {
     "title": "En direct, nouveau pape : qui est Léon XIV, et que peut-on attendre de son pontificat ? Posez vos questions à nos journalistes",
@@ -293,9 +293,9 @@
   {
     "title": "La première apparition du pape Léon XIV en images",
     "added_at": "2025-05-09T10:42:14.805Z",
-    "removed_at": "2025-05-12T11:16:50.838Z",
-    "duration_minutes": 4354,
-    "duration_str": "3d 34m"
+    "removed_at": "2025-05-12T11:32:02.143Z",
+    "duration_minutes": 4369,
+    "duration_str": "3d 49m"
   },
   {
     "title": "« Il est temps de réguler l’installation des médecins et de bâtir un vrai service public territorial de santé »",
@@ -2061,10 +2061,7 @@
   },
   {
     "title": "« Quand les peuples se droitisent, l’argent public peut-il encore être monopolisé par des œuvres de gauche ? »",
-    "added_at": "2025-05-09T16:30:43.940Z",
-    "removed_at": "2025-05-12T11:20:37.669Z",
-    "duration_minutes": 4009,
-    "duration_str": "2d 18h 49m"
+    "added_at": "2025-05-09T16:30:43.940Z"
   },
   {
     "title": "A Bruxelles, les Européens jaugent l’engagement européen de Friedrich Merz",
@@ -2335,16 +2332,16 @@
   {
     "title": "Réseaux sociaux : « N’est-il pas temps, pour une Europe en quête de souveraineté, de s’ériger en espace où les adolescents sont protégés de cette jungle »",
     "added_at": "2025-05-11T14:50:45.626Z",
-    "removed_at": "2025-05-12T11:18:47.323Z",
-    "duration_minutes": 1228,
-    "duration_str": "20h 28m"
+    "removed_at": "2025-05-12T11:33:56.939Z",
+    "duration_minutes": 1243,
+    "duration_str": "20h 43m"
   },
   {
     "title": "Histoire esthétique de la vulve, de l’intime au politique",
     "added_at": "2025-05-11T14:50:45.626Z",
-    "removed_at": "2025-05-12T11:20:37.669Z",
-    "duration_minutes": 1229,
-    "duration_str": "20h 29m"
+    "removed_at": "2025-05-12T11:33:56.939Z",
+    "duration_minutes": 1243,
+    "duration_str": "20h 43m"
   },
   {
     "title": "Après le cessez-le-feu conclu entre l’Inde et le Pakistan, les leçons du conflit le plus grave entre les deux rivaux depuis deux décennies",
@@ -3390,7 +3387,10 @@
   },
   {
     "title": "Turquie : après la dissolution du PKK, de nombreux aspects de la question kurde restent à régler",
-    "added_at": "2025-05-12T08:44:32.998Z"
+    "added_at": "2025-05-12T08:44:32.998Z",
+    "removed_at": "2025-05-12T11:35:53.497Z",
+    "duration_minutes": 171,
+    "duration_str": "2h 51m"
   },
   {
     "title": "En Allemagne, nouvelles manifestations massives pour réclamer l’interdiction de l’AfD",
@@ -3575,6 +3575,17 @@
   },
   {
     "title": "Le pape Léon XIV demande la libération des journalistes emprisonnés",
-    "added_at": "2025-05-12T11:16:50.838Z"
+    "added_at": "2025-05-12T11:16:50.838Z",
+    "removed_at": "2025-05-12T11:35:53.497Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
+  },
+  {
+    "title": "Des personnalités de la communauté juive française prennent position pour dénoncer la situation à Gaza",
+    "added_at": "2025-05-12T11:35:53.497Z"
+  },
+  {
+    "title": "Le PKK annonce sa dissolution et la fin de la lutte armée contre le pouvoir turc",
+    "added_at": "2025-05-12T11:35:53.497Z"
   }
 ]
