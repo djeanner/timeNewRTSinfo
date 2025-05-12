@@ -3849,7 +3849,10 @@
   },
   {
     "title": "12345678, un mot de passe piraté en 37 secondes!",
-    "added_at": "2025-05-10T09:12:23.278Z"
+    "added_at": "2025-05-10T09:12:23.278Z",
+    "removed_at": "2025-05-12T15:06:55.200Z",
+    "duration_minutes": 3234,
+    "duration_str": "2d 5h 54m"
   },
   {
     "title": "Les négociations commerciales entre les Etats-Unis et la Chine ont débuté à Genève",
@@ -4458,5 +4461,9 @@
   {
     "title": "Vanlife à la ferme, un parc sur une autoroute et un blind test sur l'Eurovision",
     "added_at": "2025-05-12T14:23:28.551Z"
+  },
+  {
+    "title": "Sonam Dreyer-Cornut, de retour de Gaza: \"Je n'ai jamais vu un tel acharnement, une telle destruction\"",
+    "added_at": "2025-05-12T15:06:55.200Z"
   }
 ]
