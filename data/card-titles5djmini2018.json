@@ -30,10 +30,7 @@
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-12T10:51:54.968Z",
-    "duration_minutes": 4310,
-    "duration_str": "2d 23h 50m"
+    "added_at": "2025-05-09T11:01:45.077Z"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -299,7 +296,10 @@
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T11:11:38.599Z"
+    "added_at": "2025-05-09T11:11:38.599Z",
+    "removed_at": "2025-05-12T11:05:09.639Z",
+    "duration_minutes": 4313,
+    "duration_str": "2d 23h 53m"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -2034,9 +2034,9 @@
   {
     "title": "« Quand les peuples se droitisent, l’argent public peut-il encore être monopolisé par des œuvres de gauche ? »",
     "added_at": "2025-05-09T16:32:20.958Z",
-    "removed_at": "2025-05-12T10:51:54.968Z",
-    "duration_minutes": 3979,
-    "duration_str": "2d 18h 19m"
+    "removed_at": "2025-05-12T10:59:30.603Z",
+    "duration_minutes": 3987,
+    "duration_str": "2d 18h 27m"
   },
   {
     "title": "A Bruxelles, les Européens jaugent l’engagement européen de Friedrich Merz",
@@ -2310,10 +2310,7 @@
   },
   {
     "title": "Histoire esthétique de la vulve, de l’intime au politique",
-    "added_at": "2025-05-10T04:12:22.846Z",
-    "removed_at": "2025-05-12T10:53:44.741Z",
-    "duration_minutes": 3281,
-    "duration_str": "2d 6h 41m"
+    "added_at": "2025-05-10T04:12:22.846Z"
   },
   {
     "title": "A l’Opéra de Lille, l’enthousiasmant « Faust » de Denis Podalydès signe un nouveau pacte avec le diable",
@@ -3529,7 +3526,10 @@
   },
   {
     "title": "RMC Découverte sanctionnée d’une amende de 100 000 euros pour n’avoir pas diffusé assez de documentaires",
-    "added_at": "2025-05-11T12:56:19.238Z"
+    "added_at": "2025-05-11T12:56:19.238Z",
+    "removed_at": "2025-05-12T11:01:24.219Z",
+    "duration_minutes": 1325,
+    "duration_str": "22h 5m"
   },
   {
     "title": "Johann Zarco s’offre le Grand Prix de France de MotoGP, une première pour un Français depuis 1954",
@@ -4056,10 +4056,7 @@
   },
   {
     "title": "En Allemagne, nouvelles manifestations massives pour réclamer l’interdiction de l’AfD",
-    "added_at": "2025-05-12T09:02:14.393Z",
-    "removed_at": "2025-05-12T09:32:32.373Z",
-    "duration_minutes": 30,
-    "duration_str": "30m"
+    "added_at": "2025-05-12T09:02:14.393Z"
   },
   {
     "title": "La Pologne accuse les services russes d’avoir commandité l’incendie d’un centre commercial à Varsovie en 2024",
@@ -4216,5 +4213,9 @@
   {
     "title": "La Nouvelle-Calédonie de nouveau face au risque de guerre civile",
     "added_at": "2025-05-12T10:36:42.036Z"
+  },
+  {
+    "title": "Affaire Goodyear : les accusations sévères de la justice",
+    "added_at": "2025-05-12T11:01:24.219Z"
   }
 ]
