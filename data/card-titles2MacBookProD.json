@@ -4790,7 +4790,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Benyamin Netanyahou ne prévoit ni cessez-le-feu, ni libération de prisonniers palestiniens",
-    "added_at": "2025-05-12T06:58:01.763Z"
+    "added_at": "2025-05-12T06:58:01.763Z",
+    "removed_at": "2025-05-12T11:13:05.789Z",
+    "duration_minutes": 255,
+    "duration_str": "4h 15m"
   },
   {
     "title": "economie:::Le dollar, entre ajustement conjoncturel et remise en cause structurelle",
@@ -4876,5 +4879,9 @@
   {
     "title": "economie:::Etats-Unis et Chine concluent une trêve commerciale à Genève",
     "added_at": "2025-05-12T10:59:45.741Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – «Un risque critique de famine»: 22% de la population de Gaza est dans une situation «catastrophique»",
+    "added_at": "2025-05-12T11:13:05.789Z"
   }
 ]
