@@ -1118,7 +1118,10 @@
   },
   {
     "title": "Ukraine says Russia fired barrage of drones amid calls for ceasefire, talks",
-    "added_at": "2025-05-12T13:49:23.984Z"
+    "added_at": "2025-05-12T13:49:23.984Z",
+    "removed_at": "2025-05-12T16:45:09.004Z",
+    "duration_minutes": 175,
+    "duration_str": "2h 55m"
   },
   {
     "title": "US, China to cut tariffs in trade war de-escalation, agree to 90-day pause",
@@ -1199,5 +1202,9 @@
   {
     "title": "Trump hints at talks with China’s Xi, lifting of Syria sanctions",
     "added_at": "2025-05-12T15:52:17.258Z"
+  },
+  {
+    "title": "Ukraine says Russia launches barrage of drones amid calls for truce, talks",
+    "added_at": "2025-05-12T16:45:09.004Z"
   }
 ]
