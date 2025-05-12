@@ -6677,7 +6677,10 @@
   },
   {
     "title": "La ligne Fribourg-Berne fermée tout l'été, les pendulaires redécouvriront le bus",
-    "added_at": "2025-05-09T09:54:19.535Z"
+    "added_at": "2025-05-09T09:54:19.535Z",
+    "removed_at": "2025-05-12T08:10:20.461Z",
+    "duration_minutes": 4216,
+    "duration_str": "2d 22h 16m"
   },
   {
     "title": "L'Hôpital fribourgeois affiche une perte de près de 40 millions en 2024",
@@ -6955,7 +6958,10 @@
   },
   {
     "title": "Le Pakistan annonce avoir lancé une offensive militaire contre l'Inde",
-    "added_at": "2025-05-11T14:50:45.273Z"
+    "added_at": "2025-05-11T14:50:45.273Z",
+    "removed_at": "2025-05-12T07:58:57.949Z",
+    "duration_minutes": 1028,
+    "duration_str": "17h 8m"
   },
   {
     "title": "Le DFAE prend la main sur le Palazzo Trevisan à Venise",
@@ -7146,5 +7152,13 @@
   {
     "title": "Les Etats-Unis et la Chine ramènent leurs taxes douanières réciproques à 10% pour 90 jours",
     "added_at": "2025-05-12T07:26:36.288Z"
+  },
+  {
+    "title": "L'Ukraine et ses alliés occidentaux proposent un cessez-le-feu de 30 jours à la Russie",
+    "added_at": "2025-05-12T07:58:57.949Z"
+  },
+  {
+    "title": "Les talibans interdisent les échecs, assimilés à un jeu d'argent",
+    "added_at": "2025-05-12T08:10:20.461Z"
   }
 ]
