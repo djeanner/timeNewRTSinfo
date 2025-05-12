@@ -5718,7 +5718,10 @@
   },
   {
     "title": "Everything That Has Changed Since Congestion Pricing Started in New York",
-    "added_at": "2025-05-12T09:58:58.680Z"
+    "added_at": "2025-05-12T09:58:58.680Z",
+    "removed_at": "2025-05-12T19:38:57.018Z",
+    "duration_minutes": 579,
+    "duration_str": "9h 39m"
   },
   {
     "title": "Starmer, Under Pressure From the Right, Pledges to Cut Immigration to U.K.",
@@ -5953,7 +5956,10 @@
   },
   {
     "title": "How Is Business in New York City’s Congestion Pricing Zone?",
-    "added_at": "2025-05-12T15:59:46.275Z"
+    "added_at": "2025-05-12T15:59:46.275Z",
+    "removed_at": "2025-05-12T19:38:57.018Z",
+    "duration_minutes": 219,
+    "duration_str": "3h 39m"
   },
   {
     "title": "Why Has the Closet Taken on a New Allure?",
@@ -5984,7 +5990,10 @@
   },
   {
     "title": "White South Africans Given Refugee Status Arrive in the U.S.",
-    "added_at": "2025-05-12T16:54:39.306Z"
+    "added_at": "2025-05-12T16:54:39.306Z",
+    "removed_at": "2025-05-12T19:38:57.018Z",
+    "duration_minutes": 164,
+    "duration_str": "2h 44m"
   },
   {
     "title": "Avelo Airlines Faces Backlash for Aiding Trump’s Deportation Campaign",
@@ -6065,10 +6074,7 @@
   },
   {
     "title": "Europeans Demand Russia Accept Truce; Trump Says He Might Join Peace Talks",
-    "added_at": "2025-05-12T19:06:46.692Z",
-    "removed_at": "2025-05-12T19:18:08.701Z",
-    "duration_minutes": 11,
-    "duration_str": "11m"
+    "added_at": "2025-05-12T19:06:46.692Z"
   },
   {
     "title": "Michael Jordan Is Back and Bringing ’90s Nostalgia to NBC’s N.B.A. Coverage",
@@ -6077,5 +6083,9 @@
   {
     "title": "Trump Family Bitcoin Company Announces Plan to Go Public",
     "added_at": "2025-05-12T19:20:02.339Z"
+  },
+  {
+    "title": "U.S. Welcomes White South Africans Given Refugee Status",
+    "added_at": "2025-05-12T19:33:17.879Z"
   }
 ]
