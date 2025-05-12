@@ -5330,7 +5330,10 @@
   },
   {
     "title": "When Getting Out of Jail Means a Deadly Walk Home",
-    "added_at": "2025-05-12T20:50:46.442Z"
+    "added_at": "2025-05-12T20:50:46.442Z",
+    "removed_at": "2025-05-12T23:00:30.160Z",
+    "duration_minutes": 129,
+    "duration_str": "2h 9m"
   },
   {
     "title": "From a Cell in Europe, Duterte Is Far Ahead in a Philippine Election",
@@ -5345,7 +5348,10 @@
   },
   {
     "title": "Newsom Asks Cities to Ban Homeless Encampments, Escalating Crackdown",
-    "added_at": "2025-05-12T20:50:46.442Z"
+    "added_at": "2025-05-12T20:50:46.442Z",
+    "removed_at": "2025-05-12T23:02:24.775Z",
+    "duration_minutes": 131,
+    "duration_str": "2h 11m"
   },
   {
     "title": "Michael Jordan Is Back and Bringing ’90s Nostalgia to NBC’s N.B.A. Coverage",
@@ -5363,21 +5369,21 @@
   },
   {
     "title": "Looking for Belichick’s Girlfriend? Try a Beauty Pageant in Maine.",
-    "added_at": "2025-05-12T21:17:43.250Z",
-    "removed_at": "2025-05-12T21:59:38.475Z",
-    "duration_minutes": 41,
-    "duration_str": "41m"
+    "added_at": "2025-05-12T21:17:43.250Z"
   },
   {
     "title": "Air Traffic Staffing Shortage Forces Delays at Newark Airport",
-    "added_at": "2025-05-12T21:17:43.250Z"
+    "added_at": "2025-05-12T21:17:43.250Z",
+    "removed_at": "2025-05-12T23:02:24.775Z",
+    "duration_minutes": 104,
+    "duration_str": "1h 44m"
   },
   {
     "title": "Yeshiva University Reverses Itself and Bans L.G.B.T.Q. Club",
     "added_at": "2025-05-12T21:17:43.250Z",
-    "removed_at": "2025-05-12T21:59:38.475Z",
-    "duration_minutes": 41,
-    "duration_str": "41m"
+    "removed_at": "2025-05-12T23:00:30.160Z",
+    "duration_minutes": 102,
+    "duration_str": "1h 42m"
   },
   {
     "title": "Cuomo Loses $622,000 Over Concerns of Improper Super PAC Coordination",
@@ -5420,30 +5426,27 @@
   {
     "title": "This Year’s N.B.A. Draft Lottery Comes With a Twist",
     "added_at": "2025-05-12T21:57:42.326Z",
-    "removed_at": "2025-05-12T21:59:38.475Z",
-    "duration_minutes": 1,
-    "duration_str": "1m"
+    "removed_at": "2025-05-12T23:00:30.160Z",
+    "duration_minutes": 62,
+    "duration_str": "1h 2m"
   },
   {
     "title": "On N.B.A. Draft Lottery Night, 14 Teams Have a Chance at the No. 1 Pick",
-    "added_at": "2025-05-12T21:57:42.326Z",
-    "removed_at": "2025-05-12T21:59:38.475Z",
-    "duration_minutes": 1,
-    "duration_str": "1m"
+    "added_at": "2025-05-12T21:57:42.326Z"
   },
   {
     "title": "Ranking the Top N.B.A. Prospects",
     "added_at": "2025-05-12T21:57:42.326Z",
-    "removed_at": "2025-05-12T21:59:38.475Z",
-    "duration_minutes": 1,
-    "duration_str": "1m"
+    "removed_at": "2025-05-12T23:00:30.160Z",
+    "duration_minutes": 62,
+    "duration_str": "1h 2m"
   },
   {
     "title": "Midwest Grapples With Wildfires During Record Heat and Dry Conditions",
     "added_at": "2025-05-12T21:57:42.326Z",
-    "removed_at": "2025-05-12T21:59:38.475Z",
-    "duration_minutes": 1,
-    "duration_str": "1m"
+    "removed_at": "2025-05-12T23:00:30.160Z",
+    "duration_minutes": 62,
+    "duration_str": "1h 2m"
   },
   {
     "title": "Elon Musk’s Boring Company Is in Talks With Government Over Amtrak Project",
@@ -5451,10 +5454,7 @@
   },
   {
     "title": "Palestinian Authority Lifting Ban on Al Jazeera in West Bank",
-    "added_at": "2025-05-12T22:39:35.883Z",
-    "removed_at": "2025-05-12T22:49:04.608Z",
-    "duration_minutes": 9,
-    "duration_str": "9m"
+    "added_at": "2025-05-12T22:39:35.883Z"
   },
   {
     "title": "The Golf Analogy That Explains a Lot About Trump",
@@ -5467,5 +5467,16 @@
   {
     "title": "Trump Backed Down on China Tariffs",
     "added_at": "2025-05-12T22:39:35.883Z"
+  },
+  {
+    "title": "Delays, Staffing Shortages, Outages: Newark Airport Has No Quick Fix",
+    "added_at": "2025-05-12T22:58:39.629Z"
+  },
+  {
+    "title": "V.P. of Real Estate Group Will Step Away After Harassment Claims",
+    "added_at": "2025-05-12T22:58:39.629Z",
+    "removed_at": "2025-05-12T23:00:30.160Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
   }
 ]
