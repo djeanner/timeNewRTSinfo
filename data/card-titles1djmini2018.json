@@ -3973,7 +3973,10 @@
   },
   {
     "title": "Un tronçon d'autoroute recouvert par un parc inauguré à Zurich après cinq ans de travaux",
-    "added_at": "2025-05-10T15:41:25.643Z"
+    "added_at": "2025-05-10T15:41:25.643Z",
+    "removed_at": "2025-05-12T17:43:41.005Z",
+    "duration_minutes": 3002,
+    "duration_str": "2d 2h 2m"
   },
   {
     "title": "Les étudiants propalestiniens ont mis fin à leur occupation de l'UNIGE",
@@ -4521,5 +4524,9 @@
   {
     "title": "Les gens du voyage stationnés au nord de Lausanne sommés de partir",
     "added_at": "2025-05-12T17:02:07.836Z"
+  },
+  {
+    "title": "Le Hamas a libéré un otage israélo-américain retenu à Gaza depuis le 7 octobre 2023",
+    "added_at": "2025-05-12T17:43:41.005Z"
   }
 ]
