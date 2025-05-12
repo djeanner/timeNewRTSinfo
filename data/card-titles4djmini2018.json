@@ -1224,7 +1224,10 @@
   },
   {
     "title": "See the FAA reports that downplayed the risk of a Newark outage",
-    "added_at": "2025-05-10T00:46:50.160Z"
+    "added_at": "2025-05-10T00:46:50.160Z",
+    "removed_at": "2025-05-11T23:57:17.850Z",
+    "duration_minutes": 2830,
+    "duration_str": "1d 23h 10m"
   },
   {
     "title": "Cardinal Dolan talks about moment he knew Prevost would be new pope",
@@ -1831,7 +1834,10 @@
   },
   {
     "title": "Pope Leo XIV explains his choice of name",
-    "added_at": "2025-05-11T03:38:27.726Z"
+    "added_at": "2025-05-11T03:38:27.726Z",
+    "removed_at": "2025-05-11T23:57:17.850Z",
+    "duration_minutes": 1218,
+    "duration_str": "20h 18m"
   },
   {
     "title": "Russia’s European neighbors are lifting bans on landmines. Campaigners are horrified",
@@ -2046,7 +2052,10 @@
   },
   {
     "title": "Another equipment outage impacts flights at Newark Liberty International Airport",
-    "added_at": "2025-05-11T14:06:45.455Z"
+    "added_at": "2025-05-11T14:06:45.455Z",
+    "removed_at": "2025-05-11T23:57:17.850Z",
+    "duration_minutes": 590,
+    "duration_str": "9h 50m"
   },
   {
     "title": "Trump is visiting three of the world’s richest nations. Here’s what’s on their wish list",
@@ -2258,5 +2267,13 @@
   {
     "title": "Locals in Chiclayo, Peru, say this is the Pope’s favorite dish. CNN tries it",
     "added_at": "2025-05-11T23:40:21.082Z"
+  },
+  {
+    "title": "Pope Leo explains his choice of name",
+    "added_at": "2025-05-11T23:57:17.850Z"
+  },
+  {
+    "title": "CNN Vatican reporter reflects on pope’s first Sunday address",
+    "added_at": "2025-05-11T23:57:17.850Z"
   }
 ]
