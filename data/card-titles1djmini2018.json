@@ -1705,7 +1705,10 @@
   },
   {
     "title": "Les images de la semaine",
-    "added_at": "2025-05-04T07:13:41.035Z"
+    "added_at": "2025-05-04T07:13:41.035Z",
+    "removed_at": "2025-05-13T05:29:27.236Z",
+    "duration_minutes": 12855,
+    "duration_str": "8d 22h 15m"
   },
   {
     "title": "Quels sont les pays les plus titrés de l'histoire du concours de l'Eurovision?",
@@ -4598,5 +4601,9 @@
   {
     "title": "Les centres de loisirs indoor, un marché en pleine expansion",
     "added_at": "2025-05-13T04:25:21.648Z"
+  },
+  {
+    "title": "\"On peut tout expliquer\" selon Julien Bobroff, vulgarisateur scientifique",
+    "added_at": "2025-05-13T05:29:27.236Z"
   }
 ]
