@@ -1437,7 +1437,10 @@
   },
   {
     "title": "Tatum injured as Celtics lose Game 4 to Knicks in NBA playoffs",
-    "added_at": "2025-05-13T08:26:43.572Z"
+    "added_at": "2025-05-13T08:26:43.572Z",
+    "removed_at": "2025-05-13T10:40:53.169Z",
+    "duration_minutes": 134,
+    "duration_str": "2h 14m"
   },
   {
     "title": "Israel bombs Gaza hospital, killing journalist, wounding patients",
@@ -1458,5 +1461,9 @@
   {
     "title": "Trump offers to join Russia-Ukraine direct peace talks in Istanbul",
     "added_at": "2025-05-13T09:23:22.488Z"
+  },
+  {
+    "title": "Tennis: Djokovic ends coaching partnership with Murray before French Open",
+    "added_at": "2025-05-13T10:40:53.169Z"
   }
 ]
