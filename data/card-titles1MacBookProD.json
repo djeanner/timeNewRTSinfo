@@ -7686,7 +7686,10 @@
   },
   {
     "title": "Benjamin Netanyahu annonce une attaque d'envergure à Gaza et évoque des relocalisations",
-    "added_at": "2025-05-13T14:03:53.002Z"
+    "added_at": "2025-05-13T14:03:53.002Z",
+    "removed_at": "2025-05-13T15:16:17.338Z",
+    "duration_minutes": 72,
+    "duration_str": "1h 12m"
   },
   {
     "title": "\"Tardes de soledad\" d'Albert Serra, le portrait stupéfiant d'une star de la tauromachie",
@@ -7703,5 +7706,9 @@
   {
     "title": "Podcast - C'est quoi le droit au soleil?",
     "added_at": "2025-05-13T15:03:00.243Z"
+  },
+  {
+    "title": "Benjamin Netanyahu annonce une offensive d'envergure à Gaza et évoque \"des relocalisations\" d'habitants",
+    "added_at": "2025-05-13T15:16:17.338Z"
   }
 ]
