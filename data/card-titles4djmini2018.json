@@ -3400,7 +3400,10 @@
   },
   {
     "title": "Taiwan test-fires new US-supplied HIMARS rocket system",
-    "added_at": "2025-05-13T01:52:39.621Z"
+    "added_at": "2025-05-13T01:52:39.621Z",
+    "removed_at": "2025-05-13T11:54:29.987Z",
+    "duration_minutes": 601,
+    "duration_str": "10h 1m"
   },
   {
     "title": "Rodrigo Duterte wins Philippines mayoral election from ICC detention in The Hague",
@@ -3650,7 +3653,10 @@
   },
   {
     "title": "Kim Kardashian arrives at French court to testify in burglary trial",
-    "added_at": "2025-05-13T11:33:45.886Z"
+    "added_at": "2025-05-13T11:33:45.886Z",
+    "removed_at": "2025-05-13T11:56:23.542Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
   },
   {
     "title": "One in five people in Gaza face starvation, report warns, as Israel’s months-long blockade continues",
@@ -3670,5 +3676,9 @@
   {
     "title": "One in five people in Gaza face starvation, report warns",
     "added_at": "2025-05-13T11:45:03.277Z"
+  },
+  {
+    "title": "Kim Kardashian testifies at French court in $10 million burglary trial",
+    "added_at": "2025-05-13T11:56:23.542Z"
   }
 ]
