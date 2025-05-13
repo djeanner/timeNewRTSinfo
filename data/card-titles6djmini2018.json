@@ -1412,7 +1412,10 @@
   },
   {
     "title": "How much are US-Gulf investments worth?",
-    "added_at": "2025-05-13T07:20:43.291Z"
+    "added_at": "2025-05-13T07:20:43.291Z",
+    "removed_at": "2025-05-13T17:25:02.901Z",
+    "duration_minutes": 604,
+    "duration_str": "10h 4m"
   },
   {
     "title": "MBS welcomes Trump as US president arrives in Saudi Arabia",
@@ -1633,5 +1636,16 @@
   {
     "title": "Libya’s prime minister asserts control after deadly Tripoli violence",
     "added_at": "2025-05-13T17:09:58.676Z"
+  },
+  {
+    "title": "US reality TV star Kim Kardashian testifies about Paris robbery",
+    "added_at": "2025-05-13T17:25:02.901Z",
+    "removed_at": "2025-05-13T17:26:58.556Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "India expels Pakistan diplomat as war of words simmers in place of fighting",
+    "added_at": "2025-05-13T17:26:58.556Z"
   }
 ]
