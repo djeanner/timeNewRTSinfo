@@ -120,8 +120,9 @@
   {
     "title": "Affaire de Bétharram : l’heure de vérité pour François Bayrou",
     "added_at": "2025-05-13T03:56:59.520Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-13T16:53:27.235Z",
+    "duration_minutes": 776,
+    "duration_str": "12h 56m"
   },
   {
     "title": "Guerre économique : le moratoire entre la Chine et les Etats-Unis met fin à la crise sans régler les problèmes de fond",
@@ -175,9 +176,9 @@
   {
     "title": "Frédérique Coulée, professeure de droit public : « Les droits français et européen protègent la liberté académique »",
     "added_at": "2025-05-13T04:32:52.771Z",
-    "removed_at": "2025-05-13T16:18:57.501Z",
-    "duration_minutes": 706,
-    "duration_str": "11h 46m"
+    "removed_at": "2025-05-13T16:30:17.083Z",
+    "duration_minutes": 717,
+    "duration_str": "11h 57m"
   },
   {
     "title": "« Les mathématiques semblent être le seul repère pour les sciences dans notre pays »",
@@ -524,8 +525,9 @@
   {
     "title": "Potentielle présence de vie sur l’exoplanète K2-18b : anatomie d’un faux positif",
     "added_at": "2025-05-13T10:15:31.337Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-13T16:55:22.105Z",
+    "duration_minutes": 400,
+    "duration_str": "6h 40m"
   },
   {
     "title": "Christophe Lavergne, écologue botaniste : « Nous recensons aujourd’hui à La Réunion plus d’une centaine d’espèces végétales envahissantes »",
@@ -708,7 +710,7 @@
   {
     "title": "Aide à mourir : ce que permettrait ou non la nouvelle loi française",
     "added_at": "2025-05-13T14:21:53.817Z",
-    "removed_at": "2025-05-13T16:26:45.445Z",
+    "removed_at": "2025-05-13T16:26:27.976Z",
     "duration_minutes": 125,
     "duration_str": "2h 5m"
   },
@@ -784,9 +786,8 @@
   {
     "title": "Le paradoxe du hip-hop français, style dominant mais peu valorisé",
     "added_at": "2025-05-13T15:10:35.602Z",
-    "removed_at": "2025-05-13T16:00:03.047Z",
-    "duration_minutes": 49,
-    "duration_str": "49m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "« Alcool au féminin, elles brisent le tabou », sur France 5 : célébrités et anonymes prennent la parole",
@@ -855,14 +856,20 @@
   },
   {
     "title": "Donald Trump reçu en grande pompe en Arabie saoudite en ouverture de sa tournée dans le golfe Persique",
-    "added_at": "2025-05-13T16:26:45.445Z",
+    "added_at": "2025-05-13T16:26:27.976Z",
     "removed_at": "2025-05-13T16:42:00.676Z",
-    "duration_minutes": 15,
-    "duration_str": "15m"
+    "duration_minutes": 16,
+    "duration_str": "16m"
   },
   {
     "title": "Donald Trump annonce la levée des sanctions américaines contre la Syrie",
     "added_at": "2025-05-13T16:42:00.676Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Affaire de Bétharram : au Rassemblement national, silence et malaise sur un « dossier pourri »",
+    "added_at": "2025-05-13T16:53:27.235Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
