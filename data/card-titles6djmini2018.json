@@ -1444,7 +1444,10 @@
   },
   {
     "title": "Israel bombs Gaza hospital, killing journalist, wounding patients",
-    "added_at": "2025-05-13T08:32:22.107Z"
+    "added_at": "2025-05-13T08:32:22.107Z",
+    "removed_at": "2025-05-13T10:42:48.759Z",
+    "duration_minutes": 130,
+    "duration_str": "2h 10m"
   },
   {
     "title": "Argentina’s top court finds Nazi files ‘of global significance’ in basement",
@@ -1460,10 +1463,35 @@
   },
   {
     "title": "Trump offers to join Russia-Ukraine direct peace talks in Istanbul",
-    "added_at": "2025-05-13T09:23:22.488Z"
+    "added_at": "2025-05-13T09:23:22.488Z",
+    "removed_at": "2025-05-13T10:56:02.163Z",
+    "duration_minutes": 92,
+    "duration_str": "1h 32m"
   },
   {
     "title": "Tennis: Djokovic ends coaching partnership with Murray before French Open",
-    "added_at": "2025-05-13T10:40:53.169Z"
+    "added_at": "2025-05-13T10:40:53.169Z",
+    "removed_at": "2025-05-13T10:44:44.467Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "Famine will effect ‘entire generation’ of Palestinians in Gaza, says UN",
+    "added_at": "2025-05-13T10:42:48.759Z",
+    "removed_at": "2025-05-13T10:54:06.723Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "Djokovic exits coaching partnership with former tennis rival Murray",
+    "added_at": "2025-05-13T10:44:44.467Z"
+  },
+  {
+    "title": "Famine will affect ‘entire generation’ of Palestinians in Gaza, says UN",
+    "added_at": "2025-05-13T10:54:06.723Z"
+  },
+  {
+    "title": "Palestinian journalist among two killed in Israeli attack on Gaza hospital",
+    "added_at": "2025-05-13T10:56:02.163Z"
   }
 ]
