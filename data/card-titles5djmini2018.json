@@ -31,9 +31,9 @@
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
     "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-13T19:56:02.913Z",
-    "duration_minutes": 6294,
-    "duration_str": "4d 8h 54m"
+    "removed_at": "2025-05-13T20:13:01.902Z",
+    "duration_minutes": 6311,
+    "duration_str": "4d 9h 11m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -307,14 +307,14 @@
   },
   {
     "title": "La première apparition du pape Léon XIV en images",
-    "added_at": "2025-05-09T11:07:52.917Z"
+    "added_at": "2025-05-09T11:07:52.917Z",
+    "removed_at": "2025-05-13T20:13:01.902Z",
+    "duration_minutes": 6305,
+    "duration_str": "4d 9h 5m"
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T11:11:38.599Z",
-    "removed_at": "2025-05-13T19:56:02.913Z",
-    "duration_minutes": 6284,
-    "duration_str": "4d 8h 44m"
+    "added_at": "2025-05-09T11:11:38.599Z"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -4223,9 +4223,9 @@
   {
     "title": "Diversité et inclusion : « Que des acteurs européens comme SAP cèdent aux injonctions de Trump démontre soit la puissance de cet appel, soit l’hypocrisie de certains quant à leur engagement pour un capitalisme inclusif »",
     "added_at": "2025-05-12T09:21:08.763Z",
-    "removed_at": "2025-05-13T20:01:41.681Z",
-    "duration_minutes": 2080,
-    "duration_str": "1d 10h 40m"
+    "removed_at": "2025-05-13T20:18:41.002Z",
+    "duration_minutes": 2097,
+    "duration_str": "1d 10h 57m"
   },
   {
     "title": "Tours de luxe, Boeing 747 offert… Les bonnes affaires de la famille Trump dans le golfe Arabo-Persique",
@@ -4293,9 +4293,9 @@
   {
     "title": "« La maison brûle, mais les compagnies pétrolières européennes regardent vers Wall Street, où elles trouveront des investisseurs moins regardants sur l’environnement »",
     "added_at": "2025-05-12T10:15:56.790Z",
-    "removed_at": "2025-05-13T19:57:56.619Z",
-    "duration_minutes": 2021,
-    "duration_str": "1d 9h 41m"
+    "removed_at": "2025-05-13T20:16:51.240Z",
+    "duration_minutes": 2040,
+    "duration_str": "1d 10h"
   },
   {
     "title": "La Nouvelle-Calédonie de nouveau face au risque de guerre civile",
@@ -4321,9 +4321,9 @@
   {
     "title": "Des personnalités de la communauté juive française prennent position pour dénoncer la situation à Gaza",
     "added_at": "2025-05-12T11:35:22.494Z",
-    "removed_at": "2025-05-13T20:01:41.681Z",
-    "duration_minutes": 1946,
-    "duration_str": "1d 8h 26m"
+    "removed_at": "2025-05-13T20:16:51.240Z",
+    "duration_minutes": 1961,
+    "duration_str": "1d 8h 41m"
   },
   {
     "title": "Le PKK annonce sa dissolution et la fin de la lutte armée contre le pouvoir turc",
@@ -5121,7 +5121,10 @@
   },
   {
     "title": "Frédérique Coulée, professeure de droit public : « Les droits français et européen protègent la liberté académique »",
-    "added_at": "2025-05-13T04:32:52.771Z"
+    "added_at": "2025-05-13T04:32:52.771Z",
+    "removed_at": "2025-05-13T20:14:55.754Z",
+    "duration_minutes": 942,
+    "duration_str": "15h 42m"
   },
   {
     "title": "« Les mathématiques semblent être le seul repère pour les sciences dans notre pays »",
@@ -5792,7 +5795,10 @@
   },
   {
     "title": "Cannes 2025 : « Partir un jour », Juliette Armanet sur des airs de nostalgie",
-    "added_at": "2025-05-13T17:25:02.866Z"
+    "added_at": "2025-05-13T17:25:02.866Z",
+    "removed_at": "2025-05-13T20:13:01.902Z",
+    "duration_minutes": 167,
+    "duration_str": "2h 47m"
   },
   {
     "title": "La Finlande restitue officiellement le 27e trésor royal d’Abomey au Bénin",
@@ -5906,6 +5912,31 @@
   },
   {
     "title": "Sur TF1, Emmanuel Macron n’exclut pas la suppression du statut à vie des fonctionnaires des collectivités locales et des hôpitaux",
-    "added_at": "2025-05-13T19:56:02.913Z"
+    "added_at": "2025-05-13T19:56:02.913Z",
+    "removed_at": "2025-05-13T20:07:23.342Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "Sur TF1, Emmanuel Macron estime à propos de Gaza : « Ce que ce que fait le gouvernement est de Benyamin Nétanyahou est inacceptable »",
+    "added_at": "2025-05-13T20:07:23.342Z",
+    "removed_at": "2025-05-13T20:09:16.760Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Sur TF1, Emmanuel Macron estime à propos de Gaza : « Ce que ce que fait le gouvernement de Benyamin Nétanyahou est inacceptable »",
+    "added_at": "2025-05-13T20:09:16.760Z",
+    "removed_at": "2025-05-13T20:11:12.310Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Sur TF1, Emmanuel Macron estime à propos de Gaza : « Ce que fait le gouvernement de Benyamin Nétanyahou est inacceptable »",
+    "added_at": "2025-05-13T20:11:12.310Z"
+  },
+  {
+    "title": "#TouchePasAuComté : au-delà de la polémique, quel est l’impact environnemental de ce fromage ?",
+    "added_at": "2025-05-13T20:13:01.902Z"
   }
 ]
