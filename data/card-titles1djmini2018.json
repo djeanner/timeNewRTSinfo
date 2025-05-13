@@ -4181,7 +4181,10 @@
   },
   {
     "title": "Pourparlers entre les Etats-Unis et la Chine à Cologny, dans le canton de Genève",
-    "added_at": "2025-05-11T10:55:33.415Z"
+    "added_at": "2025-05-11T10:55:33.415Z",
+    "removed_at": "2025-05-13T01:45:04.058Z",
+    "duration_minutes": 2329,
+    "duration_str": "1d 14h 49m"
   },
   {
     "title": "Reprise des négociations sur le nucléaire iranien, dans un contexte de tensions",
@@ -4570,5 +4573,9 @@
   {
     "title": "Nouvelles sanctions américaines contre l'Iran et son programme de recherche nucléaire",
     "added_at": "2025-05-13T01:35:39.782Z"
+  },
+  {
+    "title": "L'armée songe à remettre certains bunkers en fonction",
+    "added_at": "2025-05-13T01:45:04.058Z"
   }
 ]
