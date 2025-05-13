@@ -2876,7 +2876,10 @@
   },
   {
     "title": "suisse:::Des dizaines de milliers de personnes ont assisté à la cérémonie d’ouverture de l’Eurovision à Bâle",
-    "added_at": "2025-05-11T18:23:35.340Z"
+    "added_at": "2025-05-11T18:23:35.340Z",
+    "removed_at": "2025-05-13T04:49:50.597Z",
+    "duration_minutes": 2066,
+    "duration_str": "1d 10h 26m"
   },
   {
     "title": "monde:::Guerre commerciale: les Etats-Unis annoncent des «progrès substantiels» à Genève",
@@ -3205,11 +3208,17 @@
   },
   {
     "title": "economie:::UBS envisagerait de céder son hedge fund américain O’Connor",
-    "added_at": "2025-05-12T21:05:48.857Z"
+    "added_at": "2025-05-12T21:05:48.857Z",
+    "removed_at": "2025-05-13T05:01:07.676Z",
+    "duration_minutes": 475,
+    "duration_str": "7h 55m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Des stars du cinéma, dont Leïla Bekhti et Mark Ruffalo, dénoncent le «silence» face au «génocide» à Gaza",
-    "added_at": "2025-05-13T02:41:38.721Z"
+    "added_at": "2025-05-13T02:41:38.721Z",
+    "removed_at": "2025-05-13T05:01:07.676Z",
+    "duration_minutes": 139,
+    "duration_str": "2h 19m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Donald Trump dit «envisager» se rendre en Turquie jeudi pour des discussions Ukraine-Russie",
@@ -3230,5 +3239,13 @@
   {
     "title": "monde:::Arabie saoudite: les domestiques kényanes dans des conditions proches de «la traite d'êtres humains», selon Amnesty",
     "added_at": "2025-05-13T04:15:53.187Z"
+  },
+  {
+    "title": "cyber:::Un mouvement appelant l’Europe à ne pas devenir une «colonie numérique» intéresse de près la Suisse",
+    "added_at": "2025-05-13T04:51:44.182Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’armée israélienne reprend les bombardements contre Gaza après la libération d’un otage",
+    "added_at": "2025-05-13T05:01:07.676Z"
   }
 ]
