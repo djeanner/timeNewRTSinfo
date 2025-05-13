@@ -175,9 +175,8 @@
   {
     "title": "Frédérique Coulée, professeure de droit public : « Les droits français et européen protègent la liberté académique »",
     "added_at": "2025-05-13T04:32:52.771Z",
-    "removed_at": "2025-05-13T19:50:33.923Z",
-    "duration_minutes": 918,
-    "duration_str": "15h 18m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "« Les mathématiques semblent être le seul repère pour les sciences dans notre pays »",
@@ -871,7 +870,7 @@
   {
     "title": "Affaire de Bétharram : au Rassemblement national, silence et malaise sur un « dossier pourri »",
     "added_at": "2025-05-13T16:52:54.373Z",
-    "removed_at": "2025-05-13T19:37:17.226Z",
+    "removed_at": "2025-05-13T19:37:15.423Z",
     "duration_minutes": 164,
     "duration_str": "2h 44m"
   },
@@ -885,8 +884,9 @@
   {
     "title": "Cannes 2025 : « Partir un jour », Juliette Armanet sur des airs de nostalgie",
     "added_at": "2025-05-13T17:23:56.596Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-13T20:13:22.275Z",
+    "duration_minutes": 169,
+    "duration_str": "2h 49m"
   },
   {
     "title": "La Finlande restitue officiellement le 27e trésor royal d’Abomey au Bénin",
@@ -987,26 +987,53 @@
   {
     "title": "Sur TF1, Emmanuel Macron exclut un référendum sur l’abrogation de la réforme des retraites",
     "added_at": "2025-05-13T19:21:59.664Z",
-    "removed_at": "2025-05-13T19:44:52.199Z",
+    "removed_at": "2025-05-13T19:44:43.946Z",
     "duration_minutes": 23,
     "duration_str": "23m"
   },
   {
     "title": "José « Pepe » Mujica, ancien président de l’Uruguay et grande voix de l’Amérique latine, est mort",
-    "added_at": "2025-05-13T19:37:17.226Z",
+    "added_at": "2025-05-13T19:37:15.423Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Emmanuel Macron sur TF1 : « J’assume totalement le quoi qu’il en coûte pendant la crise du Covid »",
-    "added_at": "2025-05-13T19:44:52.199Z",
+    "added_at": "2025-05-13T19:44:43.946Z",
     "removed_at": "2025-05-13T19:56:15.507Z",
-    "duration_minutes": 11,
-    "duration_str": "11m"
+    "duration_minutes": 12,
+    "duration_str": "12m"
   },
   {
     "title": "Sur TF1, Emmanuel Macron n’exclut pas la suppression du statut à vie des fonctionnaires des collectivités locales et des hôpitaux",
     "added_at": "2025-05-13T19:56:15.507Z",
+    "removed_at": "2025-05-13T20:07:40.520Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "Sur TF1, Emmanuel Macron estime à propos de Gaza : « Ce que ce que fait le gouvernement est de Benyamin Nétanyahou est inacceptable »",
+    "added_at": "2025-05-13T20:07:40.520Z",
+    "removed_at": "2025-05-13T20:09:35.125Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Sur TF1, Emmanuel Macron estime à propos de Gaza : « Ce que ce que fait le gouvernement de Benyamin Nétanyahou est inacceptable »",
+    "added_at": "2025-05-13T20:09:35.125Z",
+    "removed_at": "2025-05-13T20:11:31.800Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Sur TF1, Emmanuel Macron estime à propos de Gaza : « Ce que fait le gouvernement de Benyamin Nétanyahou est inacceptable »",
+    "added_at": "2025-05-13T20:11:31.800Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "#TouchePasAuComté : au-delà de la polémique, quel est l’impact environnemental de ce fromage ?",
+    "added_at": "2025-05-13T20:13:22.275Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
