@@ -4826,7 +4826,10 @@
   },
   {
     "title": "Un policier tire sur un homme armé d'un couteau aux Pâquis, à Genève",
-    "added_at": "2025-05-13T14:20:03.688Z"
+    "added_at": "2025-05-13T14:20:03.688Z",
+    "removed_at": "2025-05-13T16:45:19.491Z",
+    "duration_minutes": 145,
+    "duration_str": "2h 25m"
   },
   {
     "title": "Mobilisation sans précédent sur la politique OGM de Migros",
@@ -4845,7 +4848,10 @@
   },
   {
     "title": "IA, armement: Trump quitte l'Arabie Saoudite avec des promesses d'investissements record",
-    "added_at": "2025-05-13T15:29:47.431Z"
+    "added_at": "2025-05-13T15:29:47.431Z",
+    "removed_at": "2025-05-13T16:43:25.626Z",
+    "duration_minutes": 73,
+    "duration_str": "1h 13m"
   },
   {
     "title": "Plus de 60'000 personnes demandent à la Migros de s'engager pour des aliments sans OGM",
@@ -4858,5 +4864,13 @@
   {
     "title": "Le festival de Cannes 2025 a ouvert ses portes",
     "added_at": "2025-05-13T15:44:56.629Z"
+  },
+  {
+    "title": "IA, armement: Trump quitte l'Arabie saoudite avec des promesses d'investissements record",
+    "added_at": "2025-05-13T16:43:25.626Z"
+  },
+  {
+    "title": "Un homme armé d'un couteau tué lors d'une intervention policière à Genève",
+    "added_at": "2025-05-13T16:45:19.491Z"
   }
 ]
