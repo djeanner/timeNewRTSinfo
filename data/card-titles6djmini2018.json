@@ -1291,7 +1291,10 @@
   },
   {
     "title": "Israel resumes attacks on Gaza after US-Israeli soldier’s release",
-    "added_at": "2025-05-13T00:08:51.716Z"
+    "added_at": "2025-05-13T00:08:51.716Z",
+    "removed_at": "2025-05-13T02:13:23.344Z",
+    "duration_minutes": 124,
+    "duration_str": "2h 4m"
   },
   {
     "title": "US President Trump embarks on three-day visit to Saudi Arabia, Qatar, UAE",
@@ -1304,5 +1307,16 @@
   {
     "title": "Heavy gunfire, clashes in Libya’s Tripoli after killing of militia leader",
     "added_at": "2025-05-13T02:02:03.980Z"
+  },
+  {
+    "title": "Israel bombs burns unit at Gaza’s Nasser hospital, killing journalist",
+    "added_at": "2025-05-13T02:13:23.344Z",
+    "removed_at": "2025-05-13T02:22:47.494Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Israel bombs Gaza’s Nasser hospital, kills journalist",
+    "added_at": "2025-05-13T02:22:47.494Z"
   }
 ]
