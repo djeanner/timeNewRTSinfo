@@ -4289,7 +4289,10 @@
   },
   {
     "title": "Les assistants sociaux pour la protection des mineurs vaudois tirent la sonnette d'alarme",
-    "added_at": "2025-05-11T13:17:04.499Z"
+    "added_at": "2025-05-11T13:17:04.499Z",
+    "removed_at": "2025-05-13T20:48:54.148Z",
+    "duration_minutes": 3331,
+    "duration_str": "2d 7h 31m"
   },
   {
     "title": "Katherine Langford fait son retour en ex-taularde dans le thriller \"Savage River\"",
@@ -4381,7 +4384,10 @@
   },
   {
     "title": "Léon XIV récite sa première prière dominicale depuis la basilique Saint-Pierre",
-    "added_at": "2025-05-11T20:58:12.368Z"
+    "added_at": "2025-05-11T20:58:12.368Z",
+    "removed_at": "2025-05-13T20:48:54.148Z",
+    "duration_minutes": 2870,
+    "duration_str": "1d 23h 50m"
   },
   {
     "title": "Le Hamas va libérer un otage israélo-américain après des contacts avec Washington",
@@ -4893,5 +4899,9 @@
   {
     "title": "Donald Trump annonce la levée des sanctions contre la Syrie",
     "added_at": "2025-05-13T20:11:11.688Z"
+  },
+  {
+    "title": "Le pape Léon XIV a appelé à la libération des journalistes emprisonnés",
+    "added_at": "2025-05-13T20:48:54.148Z"
   }
 ]
