@@ -418,7 +418,10 @@
   },
   {
     "title": "Les images de la semaine",
-    "added_at": "2025-04-21T15:14:20.955Z"
+    "added_at": "2025-04-21T15:14:20.955Z",
+    "removed_at": "2025-05-13T05:30:04.285Z",
+    "duration_minutes": 31095,
+    "duration_str": "21d 14h 15m"
   },
   {
     "title": "Qui est vraiment le lapin de Pâques?",
@@ -7475,5 +7478,9 @@
   {
     "title": "Les centres de loisirs indoor, un marché en pleine expansion",
     "added_at": "2025-05-13T04:25:28.732Z"
+  },
+  {
+    "title": "\"On peut tout expliquer\" selon Julien Bobroff, vulgarisateur scientifique",
+    "added_at": "2025-05-13T05:30:04.285Z"
   }
 ]
