@@ -4408,11 +4408,17 @@
   },
   {
     "title": "La Direction de l'enfance du canton de Vaud est sous le feu des critiques",
-    "added_at": "2025-05-11T23:59:10.525Z"
+    "added_at": "2025-05-11T23:59:10.525Z",
+    "removed_at": "2025-05-13T22:45:49.032Z",
+    "duration_minutes": 2806,
+    "duration_str": "1d 22h 46m"
   },
   {
     "title": "Les fleuristes indépendants subissent l'inflation de plein fouet",
-    "added_at": "2025-05-12T00:59:25.420Z"
+    "added_at": "2025-05-12T00:59:25.420Z",
+    "removed_at": "2025-05-13T22:45:49.032Z",
+    "duration_minutes": 2746,
+    "duration_str": "1d 21h 46m"
   },
   {
     "title": "Eboulement dans la région de Sonvico au Tessin",
@@ -4748,7 +4754,10 @@
   },
   {
     "title": "Désescalade à Genève dans la guerre commerciale entre la Chine et les États-Unis",
-    "added_at": "2025-05-13T08:45:37.112Z"
+    "added_at": "2025-05-13T08:45:37.112Z",
+    "removed_at": "2025-05-13T22:45:49.032Z",
+    "duration_minutes": 840,
+    "duration_str": "14h"
   },
   {
     "title": "Pourquoi la Suisse affiche une balance commerciale excédentaire par rapport aux USA?",
@@ -4911,10 +4920,7 @@
   },
   {
     "title": "Le pape Léon XIV a appelé à la libération des journalistes emprisonnés",
-    "added_at": "2025-05-13T20:48:54.148Z",
-    "removed_at": "2025-05-13T21:45:34.175Z",
-    "duration_minutes": 56,
-    "duration_str": "56m"
+    "added_at": "2025-05-13T20:48:54.148Z"
   },
   {
     "title": "Une première demi-finale tout feu tout flamme pour l'Eurovision à Bâle",
@@ -4934,5 +4940,13 @@
   {
     "title": "Perquisitions et arrestations en Allemagne qui dissout un \"Royaume\" complotiste",
     "added_at": "2025-05-13T21:45:34.175Z"
+  },
+  {
+    "title": "La délicate cohabitation entre les grèbes huppées et les bateaux de plaisance",
+    "added_at": "2025-05-13T22:45:49.032Z"
+  },
+  {
+    "title": "Deux fois plus de Vaudois atteints du cancer ont recherché des conseils juridiques en 2024",
+    "added_at": "2025-05-13T22:45:49.032Z"
   }
 ]
