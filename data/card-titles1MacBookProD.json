@@ -7673,7 +7673,10 @@
   },
   {
     "title": "Un policier tire sur un homme armé d'un couteau aux Pâquis à Genève",
-    "added_at": "2025-05-13T14:00:07.678Z"
+    "added_at": "2025-05-13T14:00:07.678Z",
+    "removed_at": "2025-05-13T14:19:05.863Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
   },
   {
     "title": "Benjamin Netanyahu annonce une attaque d'envergure à Gaza et évoque des relocalisations",
@@ -7682,5 +7685,9 @@
   {
     "title": "\"Tardes de soledad\" d'Albert Serra, le portrait stupéfiant d'une star de la tauromachie",
     "added_at": "2025-05-13T14:09:34.589Z"
+  },
+  {
+    "title": "Un policier tire sur un homme armé d'un couteau aux Pâquis, à Genève",
+    "added_at": "2025-05-13T14:19:05.863Z"
   }
 ]
