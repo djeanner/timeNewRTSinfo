@@ -120,7 +120,7 @@
   {
     "title": "sciences:::Essor des psychothérapies assistées par psychédéliques: comment protéger les patients",
     "added_at": "2025-05-13T11:12:34.665Z",
-    "removed_at": "2025-05-13T20:43:50.413Z",
+    "removed_at": "2025-05-13T20:43:15.236Z",
     "duration_minutes": 571,
     "duration_str": "9h 31m"
   },
@@ -270,8 +270,9 @@
   {
     "title": "monde:::Donald Trump annonce la fin des sanctions contre la Syrie",
     "added_at": "2025-05-13T19:37:14.863Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-13T21:06:46.674Z",
+    "duration_minutes": 90,
+    "duration_str": "1h 30m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – «Allez-vous agir pour empêcher un génocide?», lance le chef des opérations humanitaires de l’ONU",
@@ -281,19 +282,25 @@
   },
   {
     "title": "suisse:::Nucléaire: Swisstopo fera tout pour sauver le laboratoire du Mont-Terri",
-    "added_at": "2025-05-13T20:40:04.721Z",
+    "added_at": "2025-05-13T20:39:31.919Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "culture:::Le Belge Frédéric Roussel signe un récit dessiné poignant publié à Vevey par Hélice Hélas",
-    "added_at": "2025-05-13T20:41:55.759Z",
+    "added_at": "2025-05-13T20:41:21.481Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "culture:::«Familia», la violence conjugale en héritage",
     "added_at": "2025-05-13T20:43:50.413Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Emmanuel Macron veut un référendum à questions multiples et essaye de défendre son bilan",
+    "added_at": "2025-05-13T21:06:46.674Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
