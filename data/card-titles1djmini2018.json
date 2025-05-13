@@ -3936,7 +3936,10 @@
   },
   {
     "title": "Le pape a choisi son nom notamment face aux défis de l'intelligence artificielle",
-    "added_at": "2025-05-10T13:34:50.951Z"
+    "added_at": "2025-05-10T13:34:50.951Z",
+    "removed_at": "2025-05-13T01:35:39.782Z",
+    "duration_minutes": 3600,
+    "duration_str": "2d 12h"
   },
   {
     "title": "Après plusieurs jours d'escalade, l'Inde et le Pakistan ont accepté un cessez-le-feu \"total et immédiat\"",
@@ -4563,5 +4566,9 @@
   {
     "title": "Le nouveau système de surveillance de l’espace aérien de l'armée dans la tourmente",
     "added_at": "2025-05-13T00:16:28.060Z"
+  },
+  {
+    "title": "Nouvelles sanctions américaines contre l'Iran et son programme de recherche nucléaire",
+    "added_at": "2025-05-13T01:35:39.782Z"
   }
 ]
