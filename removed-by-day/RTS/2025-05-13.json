@@ -308,8 +308,9 @@
   {
     "title": "Le pape Léon XIV a appelé à la libération des journalistes emprisonnés",
     "added_at": "2025-05-13T20:48:54.148Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-13T21:48:41.234Z",
+    "duration_minutes": 60,
+    "duration_str": "1h"
   },
   {
     "title": "Une première demi-finale tout feu tout flamme pour l'Eurovision à Bâle",
@@ -320,6 +321,19 @@
   {
     "title": "Emmanuel Macron décline son action diplomatique",
     "added_at": "2025-05-13T21:35:18.290Z",
+    "removed_at": "2025-05-13T21:42:59.206Z",
+    "duration_minutes": 8,
+    "duration_str": "8m"
+  },
+  {
+    "title": "Emmanuel Macron défend son action diplomatique et refuse de bouger sur sa politique intérieure",
+    "added_at": "2025-05-13T21:42:59.206Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Perquisitions et arrestations en Allemagne qui dissout un \"Royaume\" complotiste",
+    "added_at": "2025-05-13T21:44:49.964Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
