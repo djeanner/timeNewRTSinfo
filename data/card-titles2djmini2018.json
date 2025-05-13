@@ -3425,7 +3425,10 @@
   },
   {
     "title": "suisse:::Aux Pâquis, la police abat un homme armé d’un couteau",
-    "added_at": "2025-05-13T17:02:23.311Z"
+    "added_at": "2025-05-13T17:02:23.311Z",
+    "removed_at": "2025-05-13T18:55:43.063Z",
+    "duration_minutes": 113,
+    "duration_str": "1h 53m"
   },
   {
     "title": "suisse:::Après le retrait du MCG Thierry Cerutti, un inhabituel suspense entoure l’élection du premier citoyen du canton de Genève",
@@ -3449,5 +3452,20 @@
   {
     "title": "culture:::«Partir un jour», une ouverture enchantée pour le Festival de Cannes",
     "added_at": "2025-05-13T18:32:59.966Z"
+  },
+  {
+    "title": "economie:::Les bonus des ex-cadres de Credit Suisse ne doivent pas être réduits, estime le Tribunal administratif fédéral",
+    "added_at": "2025-05-13T18:55:43.063Z",
+    "removed_at": "2025-05-13T19:03:18.426Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "suisse:::A Genève, la police abat un homme armé d’un couteau",
+    "added_at": "2025-05-13T18:55:43.063Z"
+  },
+  {
+    "title": "sport:::A Herning, la marche au rythme du hockey: immersion dans la fan-walk du Mondial 2025",
+    "added_at": "2025-05-13T19:03:18.426Z"
   }
 ]
