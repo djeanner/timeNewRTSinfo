@@ -92,9 +92,8 @@
   {
     "title": "How much are US-Gulf investments worth?",
     "added_at": "2025-05-13T07:20:34.521Z",
-    "removed_at": "2025-05-13T17:25:02.901Z",
-    "duration_minutes": 604,
-    "duration_str": "10h 4m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "MBS welcomes Trump as US president arrives in Saudi Arabia",
@@ -208,8 +207,9 @@
   {
     "title": "Palestinian journalist among two killed in Israeli attack on Gaza hospital",
     "added_at": "2025-05-13T10:55:27.715Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-13T19:01:02.611Z",
+    "duration_minutes": 486,
+    "duration_str": "8h 6m"
   },
   {
     "title": "Kurdish leader Ocalan told the PKK to disband, it did: Here’s what to know",
@@ -255,15 +255,15 @@
   {
     "title": "Why has Trump given white South Africans refugee status?",
     "added_at": "2025-05-13T13:22:00.640Z",
-    "removed_at": "2025-05-13T16:56:44.578Z",
-    "duration_minutes": 215,
-    "duration_str": "3h 35m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Sean ‘Diddy’ Combs trial: Key takeaways from day 1, what’s expected today?",
     "added_at": "2025-05-13T13:47:53.713Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-13T19:02:59.796Z",
+    "duration_minutes": 315,
+    "duration_str": "5h 15m"
   },
   {
     "title": "‘We like each other a lot’: Trump and MBS sign bilateral agreements",
@@ -375,5 +375,12 @@
     "added_at": "2025-05-13T18:47:40.530Z",
     "duration_minutes": 0,
     "duration_str": ""
+  },
+  {
+    "title": "Israel bombs two Gaza hospitals, killing at least 18 Palestinians",
+    "added_at": "2025-05-13T19:01:02.611Z",
+    "removed_at": "2025-05-13T19:02:59.796Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
   }
 ]
