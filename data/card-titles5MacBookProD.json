@@ -30,7 +30,10 @@
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T10:29:58.735Z"
+    "added_at": "2025-05-09T10:29:58.735Z",
+    "removed_at": "2025-05-13T16:45:52.363Z",
+    "duration_minutes": 6135,
+    "duration_str": "4d 6h 15m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -284,9 +287,9 @@
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
     "added_at": "2025-05-09T10:32:57.100Z",
-    "removed_at": "2025-05-13T16:23:00.363Z",
-    "duration_minutes": 6110,
-    "duration_str": "4d 5h 50m"
+    "removed_at": "2025-05-13T16:42:00.676Z",
+    "duration_minutes": 6129,
+    "duration_str": "4d 6h 9m"
   },
   {
     "title": "En direct, nouveau pape : qui est Léon XIV, et que peut-on attendre de son pontificat ? Posez vos questions à nos journalistes",
@@ -304,10 +307,7 @@
   },
   {
     "title": "La première apparition du pape Léon XIV en images",
-    "added_at": "2025-05-09T10:42:14.805Z",
-    "removed_at": "2025-05-13T16:26:45.445Z",
-    "duration_minutes": 6104,
-    "duration_str": "4d 5h 44m"
+    "added_at": "2025-05-09T10:42:14.805Z"
   },
   {
     "title": "« Il est temps de réguler l’installation des médecins et de bâtir un vrai service public territorial de santé »",
@@ -2365,9 +2365,9 @@
   {
     "title": "Réseaux sociaux : « N’est-il pas temps, pour une Europe en quête de souveraineté, de s’ériger en espace où les adolescents sont protégés de cette jungle »",
     "added_at": "2025-05-11T14:50:45.626Z",
-    "removed_at": "2025-05-13T16:26:45.445Z",
-    "duration_minutes": 2975,
-    "duration_str": "2d 1h 35m"
+    "removed_at": "2025-05-13T16:43:55.511Z",
+    "duration_minutes": 2993,
+    "duration_str": "2d 1h 53m"
   },
   {
     "title": "Histoire esthétique de la vulve, de l’intime au politique",
@@ -3641,7 +3641,10 @@
   },
   {
     "title": "« La maison brûle, mais les compagnies pétrolières européennes regardent vers Wall Street, où elles trouveront des investisseurs moins regardants sur l’environnement »",
-    "added_at": "2025-05-12T10:16:08.206Z"
+    "added_at": "2025-05-12T10:16:08.206Z",
+    "removed_at": "2025-05-13T16:45:52.363Z",
+    "duration_minutes": 1829,
+    "duration_str": "1d 6h 29m"
   },
   {
     "title": "La Nouvelle-Calédonie de nouveau face au risque de guerre civile",
@@ -4849,6 +4852,13 @@
   },
   {
     "title": "Donald Trump reçu en grande pompe en Arabie saoudite en ouverture de sa tournée dans le golfe Persique",
-    "added_at": "2025-05-13T16:26:45.445Z"
+    "added_at": "2025-05-13T16:26:45.445Z",
+    "removed_at": "2025-05-13T16:42:00.676Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "Donald Trump annonce la levée des sanctions américaines contre la Syrie",
+    "added_at": "2025-05-13T16:42:00.676Z"
   }
 ]
