@@ -2808,7 +2808,10 @@
   },
   {
     "title": "suisse:::A La Haye, Berne défend l’UNRWA face au blocus d’Israël",
-    "added_at": "2025-05-03T07:38:24.972Z"
+    "added_at": "2025-05-03T07:38:24.972Z",
+    "removed_at": "2025-05-13T04:19:47.676Z",
+    "duration_minutes": 14201,
+    "duration_str": "9d 20h 41m"
   },
   {
     "title": "monde:::Donald Trump va s’offrir un défilé militaire pour son anniversaire",
@@ -4788,10 +4791,7 @@
   },
   {
     "title": "monde:::Donald Trump part en visite d’affaires, y compris les siennes, dans le Golfe",
-    "added_at": "2025-05-12T04:43:06.090Z",
-    "removed_at": "2025-05-12T20:50:46.375Z",
-    "duration_minutes": 967,
-    "duration_str": "16h 7m"
+    "added_at": "2025-05-12T04:43:06.090Z"
   },
   {
     "title": "culture:::A Genève, le «Stabat Mater» funambule de Romeo Castellucci",
@@ -4802,7 +4802,10 @@
   },
   {
     "title": "monde:::Unifier l’Eglise américaine: la mission impossible de Léon XIV",
-    "added_at": "2025-05-12T05:51:30.558Z"
+    "added_at": "2025-05-12T05:51:30.558Z",
+    "removed_at": "2025-05-13T04:16:01.232Z",
+    "duration_minutes": 1344,
+    "duration_str": "22h 24m"
   },
   {
     "title": "economie:::Des dirigeants s’expriment sur la santé mentale au travail pour briser un tabou",
@@ -4979,14 +4982,14 @@
   },
   {
     "title": "monde:::Les Etats-Unis obtiennent la libération de leur dernier otage à Gaza, la preuve que la diplomatie fonctionne",
-    "added_at": "2025-05-12T20:50:46.375Z",
-    "removed_at": "2025-05-13T03:56:59.189Z",
-    "duration_minutes": 426,
-    "duration_str": "7h 6m"
+    "added_at": "2025-05-12T20:50:46.375Z"
   },
   {
     "title": "suisse:::Dans le canton de Neuchâtel, la commune des Verrières demande la fermeture du centre pour requérants «récalcitrants» des Cernets",
-    "added_at": "2025-05-12T20:50:46.375Z"
+    "added_at": "2025-05-12T20:50:46.375Z",
+    "removed_at": "2025-05-13T04:17:57.474Z",
+    "duration_minutes": 447,
+    "duration_str": "7h 27m"
   },
   {
     "title": "suisse:::Pour le glaciologue Matthias Huss, «ces prochaines années, beaucoup de glaciers vont complètement disparaître»",
@@ -5029,5 +5032,9 @@
   {
     "title": "monde:::La Russie jugée responsable du crash du MH17 en Ukraine en 2014 par l'agence de l'ONU pour l'aviation",
     "added_at": "2025-05-13T04:04:36.731Z"
+  },
+  {
+    "title": "monde:::Arabie saoudite: les domestiques kényanes dans des conditions proches de «la traite d'êtres humains», selon Amnesty",
+    "added_at": "2025-05-13T04:16:01.232Z"
   }
 ]
