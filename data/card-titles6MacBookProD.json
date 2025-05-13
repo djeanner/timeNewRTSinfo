@@ -811,7 +811,10 @@
   },
   {
     "title": "UN urges calm as heavy fire, clashes erupt in Libya’s Tripoli",
-    "added_at": "2025-05-12T22:45:17.969Z"
+    "added_at": "2025-05-12T22:45:17.969Z",
+    "removed_at": "2025-05-13T02:02:57.009Z",
+    "duration_minutes": 197,
+    "duration_str": "3h 17m"
   },
   {
     "title": "Music mogul ‘Diddy’ faces allegations of abuse during first day of US trial",
@@ -819,7 +822,10 @@
   },
   {
     "title": "Israel resumes attacks on Gaza after US-Israeli soldier’s release",
-    "added_at": "2025-05-13T00:08:58.367Z"
+    "added_at": "2025-05-13T00:08:58.367Z",
+    "removed_at": "2025-05-13T02:14:18.567Z",
+    "duration_minutes": 125,
+    "duration_str": "2h 5m"
   },
   {
     "title": "US President Trump embarks on three-day visit to Saudi Arabia, Qatar, UAE",
@@ -828,5 +834,13 @@
   {
     "title": "PKK disbands, potentially ending decades of conflict in Turkiye",
     "added_at": "2025-05-13T01:04:05.009Z"
+  },
+  {
+    "title": "Heavy gunfire, clashes in Libya’s Tripoli after killing of militia leader",
+    "added_at": "2025-05-13T02:02:57.009Z"
+  },
+  {
+    "title": "Israel bombs burns unit at Gaza’s Nasser hospital, killing journalist",
+    "added_at": "2025-05-13T02:14:18.567Z"
   }
 ]
