@@ -92,8 +92,9 @@
   {
     "title": "monde:::La confrontation entre l’Inde et le Pakistan a fait plus de 70 morts, dont une quinzaine de soldats",
     "added_at": "2025-05-13T10:03:03.069Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-13T11:12:34.665Z",
+    "duration_minutes": 70,
+    "duration_str": "1h 10m"
   },
   {
     "title": "suisse:::Affaire Dittli: Une délégation de treize députés vaudois rencontrera prochainement Jean Studer",
@@ -105,6 +106,12 @@
   {
     "title": "suisse:::Affaire Dittli: une délégation de 13 députés vaudois rencontrera prochainement Jean Studer",
     "added_at": "2025-05-13T10:47:48.952Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "sciences:::Essor des psychothérapies assistées par psychédéliques: comment protéger les patients",
+    "added_at": "2025-05-13T11:12:34.665Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
