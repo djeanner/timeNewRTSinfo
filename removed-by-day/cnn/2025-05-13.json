@@ -78,7 +78,7 @@
   {
     "title": "Taiwan test-fires new US-supplied HIMARS rocket system",
     "added_at": "2025-05-13T01:52:39.621Z",
-    "removed_at": "2025-05-13T11:54:30.461Z",
+    "removed_at": "2025-05-13T11:54:29.987Z",
     "duration_minutes": 602,
     "duration_str": "10h 2m"
   },
@@ -184,8 +184,9 @@
   {
     "title": "UN mission in Libya calls for de-escalation after fighting erupts in capital",
     "added_at": "2025-05-13T05:04:59.637Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-13T12:26:53.137Z",
+    "duration_minutes": 442,
+    "duration_str": "7h 22m"
   },
   {
     "title": "‘Greatest coach in history’ to manage struggling Brazil national team",
@@ -423,6 +424,12 @@
   {
     "title": "Kim Kardashian testifies at French court in $10 million burglary trial",
     "added_at": "2025-05-13T11:56:20.930Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Novak Djokovic and Andy Murray end coaching partnership after six months",
+    "added_at": "2025-05-13T12:19:17.642Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
