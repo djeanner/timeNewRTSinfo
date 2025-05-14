@@ -284,8 +284,9 @@
   {
     "title": "Après deux tirs de missiles du Yémen vers Israël, l’armée israélienne ordonne l’évacuation de trois ports contrôlés par les houthistes",
     "added_at": "2025-05-14T07:59:41.631Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-14T11:35:12.580Z",
+    "duration_minutes": 216,
+    "duration_str": "3h 36m"
   },
   {
     "title": "Hydroélectricité : la France dans le viseur de la Commission européenne depuis deux décennies",
@@ -440,6 +441,12 @@
   {
     "title": "Paris ouvrira ses trois sites de baignade dans la Seine, à partir du 5 juillet",
     "added_at": "2025-05-14T10:09:02.224Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "L’armée israélienne affirme avoir « éliminé un terroriste », membre du Hezbollah, dans le sud du Liban",
+    "added_at": "2025-05-14T11:35:12.580Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
