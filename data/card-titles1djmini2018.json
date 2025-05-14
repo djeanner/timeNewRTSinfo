@@ -4730,7 +4730,10 @@
   },
   {
     "title": "Les gens du voyage stationnés au nord de Lausanne sommés de partir",
-    "added_at": "2025-05-12T17:02:07.836Z"
+    "added_at": "2025-05-12T17:02:07.836Z",
+    "removed_at": "2025-05-14T13:19:49.635Z",
+    "duration_minutes": 2657,
+    "duration_str": "1d 20h 17m"
   },
   {
     "title": "Le Hamas a libéré un otage israélo-américain retenu à Gaza depuis le 7 octobre 2023",
@@ -5129,5 +5132,9 @@
   {
     "title": "Guillaume Long: \"Je suis avant tout un gastronome, bien avant d'être dessinateur\"",
     "added_at": "2025-05-14T12:55:10.697Z"
+  },
+  {
+    "title": "Prudence recommandée avec une plateforme de réservation d'hôtels",
+    "added_at": "2025-05-14T13:19:49.635Z"
   }
 ]
