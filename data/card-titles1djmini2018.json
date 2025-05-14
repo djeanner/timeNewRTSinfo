@@ -4506,7 +4506,10 @@
   },
   {
     "title": "Les Etats-Unis et la Chine ramènent leurs droits de douane à respectivement 30% et 10% pour 90 jours",
-    "added_at": "2025-05-12T09:11:37.083Z"
+    "added_at": "2025-05-12T09:11:37.083Z",
+    "removed_at": "2025-05-14T14:21:48.125Z",
+    "duration_minutes": 3190,
+    "duration_str": "2d 5h 10m"
   },
   {
     "title": "Vladimir Poutine propose des négociations de paix directes avec l'Ukraine",
@@ -5158,5 +5161,9 @@
   {
     "title": "La Suisse définit les critères pour activer la clause de sauvegarde avec l'UE",
     "added_at": "2025-05-14T14:06:41.708Z"
+  },
+  {
+    "title": "Le Conseil fédéral présente ses mesures de protection face à la libéralisation du marché de l'électricité",
+    "added_at": "2025-05-14T14:21:48.125Z"
   }
 ]
