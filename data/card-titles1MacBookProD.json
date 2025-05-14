@@ -7517,7 +7517,10 @@
   },
   {
     "title": "Convaincante, la Suisse s'offre les Etats-Unis",
-    "added_at": "2025-05-12T20:50:46.341Z"
+    "added_at": "2025-05-12T20:50:46.341Z",
+    "removed_at": "2025-05-14T13:41:47.815Z",
+    "duration_minutes": 2451,
+    "duration_str": "1d 16h 51m"
   },
   {
     "title": "Les gens du voyage stationnés au nord de Lausanne sommés de partir",
@@ -8013,5 +8016,9 @@
   {
     "title": "Prudence recommandée avec une plateforme de réservation d'hôtels",
     "added_at": "2025-05-14T13:20:26.546Z"
+  },
+  {
+    "title": "La police fribourgeoise teste sa première voiture d'intervention 100% électrique",
+    "added_at": "2025-05-14T13:41:47.815Z"
   }
 ]
