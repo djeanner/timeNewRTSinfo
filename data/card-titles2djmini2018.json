@@ -3704,7 +3704,10 @@
   },
   {
     "title": "sciences:::Opération survie pour la légendaire grande nacre, plus grand coquillage de la Méditerranée",
-    "added_at": "2025-05-14T10:37:22.101Z"
+    "added_at": "2025-05-14T10:37:22.101Z",
+    "removed_at": "2025-05-14T15:44:57.404Z",
+    "duration_minutes": 307,
+    "duration_str": "5h 7m"
   },
   {
     "title": "suisse:::Le siège genevois OMS réduit son équipe de direction de près de moitié",
@@ -3726,7 +3729,10 @@
   },
   {
     "title": "culture:::«Pooja, Sir», enquête sur une minorité racisée",
-    "added_at": "2025-05-14T12:21:09.798Z"
+    "added_at": "2025-05-14T12:21:09.798Z",
+    "removed_at": "2025-05-14T15:46:46.797Z",
+    "duration_minutes": 205,
+    "duration_str": "3h 25m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Benyamin Netanyahou accuse Emmanuel Macron de se ranger du côté du Hamas",
@@ -3751,5 +3757,9 @@
   {
     "title": "economie:::Guerre commerciale avec Donald Trump: pour Bruxelles, la tension monte",
     "added_at": "2025-05-14T15:16:37.119Z"
+  },
+  {
+    "title": "suisse:::Tous les parlementaires vont pouvoir consulter le paquet d’accords négociés avec l’UE",
+    "added_at": "2025-05-14T15:44:57.404Z"
   }
 ]
