@@ -4577,7 +4577,10 @@
   },
   {
     "title": "Les glaciers recouverts d'une couche de neige historiquement basse cette année",
-    "added_at": "2025-05-12T12:20:42.613Z"
+    "added_at": "2025-05-12T12:20:42.613Z",
+    "removed_at": "2025-05-14T07:30:10.821Z",
+    "duration_minutes": 2589,
+    "duration_str": "1d 19h 9m"
   },
   {
     "title": "Le canton de Neuchâtel lance un appel à projets pour favoriser le vivre ensemble, en lien avec le climat",
@@ -4617,7 +4620,10 @@
   },
   {
     "title": "Gros travaux sur la ligne ferroviaire entre La Verrerie et Vaulruz-Sud dès le mois de juin",
-    "added_at": "2025-05-12T13:45:38.018Z"
+    "added_at": "2025-05-12T13:45:38.018Z",
+    "removed_at": "2025-05-14T07:28:15.466Z",
+    "duration_minutes": 2502,
+    "duration_str": "1d 17h 42m"
   },
   {
     "title": "La commune des Verrières demande la fermeture de son centre pour requérants d'asile",
@@ -4992,10 +4998,7 @@
   },
   {
     "title": "Pourquoi le nombre de fermes bio diminue malgré un marché stable",
-    "added_at": "2025-05-14T06:12:41.960Z",
-    "removed_at": "2025-05-14T06:14:37.943Z",
-    "duration_minutes": 1,
-    "duration_str": "1m"
+    "added_at": "2025-05-14T06:12:41.960Z"
   },
   {
     "title": "Avec \"A la guerre\", Elisa Bories signe un manifeste féministe d’une belle radicalité",
@@ -5004,5 +5007,9 @@
   {
     "title": "La Chine et les Etats-Unis concrétisent la pause dans leur guerre commerciale",
     "added_at": "2025-05-14T06:46:40.353Z"
+  },
+  {
+    "title": "Au procès de P. Diddy, la chanteuse Cassie témoigne des abus subis pendant leur relation",
+    "added_at": "2025-05-14T07:28:15.466Z"
   }
 ]
