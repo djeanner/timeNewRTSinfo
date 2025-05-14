@@ -3667,7 +3667,10 @@
   },
   {
     "title": "culture:::Le «Boléro», une exposition pour quelques notes mythiques",
-    "added_at": "2025-05-14T09:23:36.543Z"
+    "added_at": "2025-05-14T09:23:36.543Z",
+    "removed_at": "2025-05-14T13:17:51.443Z",
+    "duration_minutes": 234,
+    "duration_str": "3h 54m"
   },
   {
     "title": "culture:::«Les Immortels», une jeunesse irakienne brisée",
@@ -3678,7 +3681,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump demande\nà Ahmed al-Charaa de normaliser la relation de la Syrie avec Israël",
-    "added_at": "2025-05-14T09:25:26.381Z"
+    "added_at": "2025-05-14T09:25:26.381Z",
+    "removed_at": "2025-05-14T13:02:47.041Z",
+    "duration_minutes": 217,
+    "duration_str": "3h 37m"
   },
   {
     "title": "monde:::Un Ukrainien soupçonné de préparer des sabotages en Allemagne pour la Russie a été arrêté en Suisse",
@@ -3709,5 +3715,9 @@
   {
     "title": "culture:::«Pooja, Sir», enquête sur une minorité racisée",
     "added_at": "2025-05-14T12:21:09.798Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Benyamin Netanyahou accuse Emmanuel Macron de se ranger du côté du Hamas",
+    "added_at": "2025-05-14T13:02:47.041Z"
   }
 ]
