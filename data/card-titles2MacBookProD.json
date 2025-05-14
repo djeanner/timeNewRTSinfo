@@ -4917,7 +4917,10 @@
   },
   {
     "title": "suisse:::L'Eurovision 2025 à Bâle: du sacre de Nemo à la Halle Saint-Jacques",
-    "added_at": "2025-05-12T10:02:39.353Z"
+    "added_at": "2025-05-12T10:02:39.353Z",
+    "removed_at": "2025-05-14T08:32:03.922Z",
+    "duration_minutes": 2789,
+    "duration_str": "1d 22h 29m"
   },
   {
     "title": "culture:::La romancière Iuna Allioux signe une brûlante fin du monde",
@@ -5377,10 +5380,7 @@
   },
   {
     "title": "culture:::A la première demi-finale de l’Eurovision 2025, la Suède s’impose, l’Albanie surprend et la Belgique est éliminée",
-    "added_at": "2025-05-13T23:16:12.518Z",
-    "removed_at": "2025-05-14T07:06:21.284Z",
-    "duration_minutes": 470,
-    "duration_str": "7h 50m"
+    "added_at": "2025-05-13T23:16:12.518Z"
   },
   {
     "title": "monde:::«Toute l’Amérique latine est en deuil»: José «Pepe» Mujica, ex-président uruguayen et icône de la gauche, est mort",
@@ -5413,7 +5413,10 @@
   },
   {
     "title": "cyber:::Peut-on sérieusement prédire l’impact de l’intelligence artificielle sur la croissance économique mondiale?",
-    "added_at": "2025-05-14T05:44:28.607Z"
+    "added_at": "2025-05-14T05:44:28.607Z",
+    "removed_at": "2025-05-14T08:45:25.339Z",
+    "duration_minutes": 180,
+    "duration_str": "3h"
   },
   {
     "title": "monde:::«Enfin! La Syrie n’est plus un Etat paria»: à Damas, l’espoir après l’annonce de la levée des sanctions américaines",
@@ -5438,5 +5441,9 @@
   {
     "title": "monde:::La baisse du prix des œufs offre un (court) répit à Donald Trump",
     "added_at": "2025-05-14T08:30:07.003Z"
+  },
+  {
+    "title": "monde:::La Commission européenne épinglée pour son manque de transparence sur les échanges d’Ursula von der Leyen avec le PDG de Pfizer",
+    "added_at": "2025-05-14T08:45:25.339Z"
   }
 ]
