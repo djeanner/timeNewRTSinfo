@@ -59,8 +59,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – L’UE approuve un 17e paquet de sanctions contre la Russie",
     "added_at": "2025-05-14T07:10:08.905Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-14T13:26:10.687Z",
+    "duration_minutes": 376,
+    "duration_str": "6h 16m"
   },
   {
     "title": "monde:::La baisse du prix des œufs offre un (court) répit à Donald Trump",
@@ -84,9 +85,9 @@
   {
     "title": "culture:::Le «Boléro», une exposition pour quelques notes mythiques",
     "added_at": "2025-05-14T09:23:34.442Z",
-    "removed_at": "2025-05-14T13:18:29.614Z",
-    "duration_minutes": 235,
-    "duration_str": "3h 55m"
+    "removed_at": "2025-05-14T13:17:51.443Z",
+    "duration_minutes": 234,
+    "duration_str": "3h 54m"
   },
   {
     "title": "culture:::«Les Immortels», une jeunesse irakienne brisée",
@@ -98,9 +99,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump demande\nà Ahmed al-Charaa de normaliser la relation de la Syrie avec Israël",
     "added_at": "2025-05-14T09:25:26.381Z",
-    "removed_at": "2025-05-14T13:03:17.611Z",
-    "duration_minutes": 218,
-    "duration_str": "3h 38m"
+    "removed_at": "2025-05-14T13:02:47.041Z",
+    "duration_minutes": 217,
+    "duration_str": "3h 37m"
   },
   {
     "title": "monde:::Un Ukrainien soupçonné de préparer des sabotages en Allemagne pour la Russie a été arrêté en Suisse",
@@ -142,7 +143,13 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Benyamin Netanyahou accuse Emmanuel Macron de se ranger du côté du Hamas",
-    "added_at": "2025-05-14T13:03:17.611Z",
+    "added_at": "2025-05-14T13:02:47.041Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Un détour de Donald Trump par la Turquie est possible si Vladimir Poutine s’y rend",
+    "added_at": "2025-05-14T13:26:10.687Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
