@@ -5205,7 +5205,10 @@
   },
   {
     "title": "Le pape Léon XIV a tenu sa première audience",
-    "added_at": "2025-05-14T15:48:40.501Z"
+    "added_at": "2025-05-14T15:48:40.501Z",
+    "removed_at": "2025-05-14T17:49:34.938Z",
+    "duration_minutes": 120,
+    "duration_str": "2h"
   },
   {
     "title": "Avec le blocage de l'aide humanitaire à Gaza, le spectre de la famine se précise",
@@ -5218,5 +5221,9 @@
   {
     "title": "\"Ibn\" d'Asya Djoulaït, un roman pour dire l'amour filial et la quête de foi",
     "added_at": "2025-05-14T16:37:47.983Z"
+  },
+  {
+    "title": "Le Premier ministre israélien Benjamin Netanyahu veut la guerre \"jusqu'au bout\" à Gaza",
+    "added_at": "2025-05-14T17:49:34.938Z"
   }
 ]
