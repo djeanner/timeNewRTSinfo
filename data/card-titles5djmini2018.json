@@ -26,7 +26,10 @@
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-14T15:12:48.127Z",
+    "duration_minutes": 7451,
+    "duration_str": "5d 4h 11m"
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
@@ -304,14 +307,14 @@
   },
   {
     "title": "La première apparition du pape Léon XIV en images",
-    "added_at": "2025-05-09T11:07:52.917Z"
+    "added_at": "2025-05-09T11:07:52.917Z",
+    "removed_at": "2025-05-14T15:05:19.251Z",
+    "duration_minutes": 7437,
+    "duration_str": "5d 3h 57m"
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T11:11:38.599Z",
-    "removed_at": "2025-05-14T15:01:27.375Z",
-    "duration_minutes": 7429,
-    "duration_str": "5d 3h 49m"
+    "added_at": "2025-05-09T11:11:38.599Z"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -3470,9 +3473,9 @@
   {
     "title": "Réseaux sociaux : « N’est-il pas temps, pour une Europe en quête de souveraineté, de s’ériger en espace où les adolescents sont protégés de cette jungle »",
     "added_at": "2025-05-11T10:02:51.749Z",
-    "removed_at": "2025-05-14T14:57:41.717Z",
-    "duration_minutes": 4614,
-    "duration_str": "3d 4h 54m"
+    "removed_at": "2025-05-14T15:16:37.730Z",
+    "duration_minutes": 4633,
+    "duration_str": "3d 5h 13m"
   },
   {
     "title": "« Elsa », d’Angela Bubba : les tourments intimes d’Elsa Morante",
@@ -5328,10 +5331,7 @@
   },
   {
     "title": "Les bombes planantes : l’astuce de la Russie pour recycler ses vieilles armes",
-    "added_at": "2025-05-13T10:01:09.971Z",
-    "removed_at": "2025-05-14T15:01:27.375Z",
-    "duration_minutes": 1740,
-    "duration_str": "1d 5h"
+    "added_at": "2025-05-13T10:01:09.971Z"
   },
   {
     "title": "Gérard Depardieu condamné à dix-huit mois de prison avec sursis pour agressions sexuelles sur le tournage du film « Les Volets verts »",
@@ -6375,7 +6375,10 @@
   },
   {
     "title": "Andriy Yermak, chef de cabinet de Volodymyr Zelensky : « Si Poutine n’est pas en Turquie, ce sera un signal très clair pour le monde entier qu’il ne veut pas arrêter la guerre »",
-    "added_at": "2025-05-14T08:00:20.767Z"
+    "added_at": "2025-05-14T08:00:20.767Z",
+    "removed_at": "2025-05-14T15:18:27.768Z",
+    "duration_minutes": 438,
+    "duration_str": "7h 18m"
   },
   {
     "title": "Après deux tirs de missiles du Yémen vers Israël, l’armée israélienne ordonne l’évacuation de trois ports contrôlés par les houthistes",
@@ -6585,14 +6588,14 @@
   },
   {
     "title": "Un road-trip à travers l’Europe de deux reporters documente la radicalisation vers l’extrême droite de la diaspora roumaine",
-    "added_at": "2025-05-14T12:28:45.634Z",
-    "removed_at": "2025-05-14T15:01:27.375Z",
-    "duration_minutes": 152,
-    "duration_str": "2h 32m"
+    "added_at": "2025-05-14T12:28:45.634Z"
   },
   {
     "title": "Le point sur la guerre en Ukraine : la Russie ne dévoile pas la composition de sa délégation qui se rendra à Istanbul pour les négociations avec Kiev",
-    "added_at": "2025-05-14T12:32:30.655Z"
+    "added_at": "2025-05-14T12:32:30.655Z",
+    "removed_at": "2025-05-14T15:18:27.768Z",
+    "duration_minutes": 165,
+    "duration_str": "2h 45m"
   },
   {
     "title": "Le premier ministre israélien Nétanyahou accuse Emmanuel Macron, qui a critiqué sa politique, de se ranger « du côté » du Hamas",
@@ -6923,5 +6926,9 @@
   {
     "title": "Emmanuel Macron accusé de ne rien faire devant la marée montante des licenciements : pourquoi l’Etat est souvent démuni",
     "added_at": "2025-05-14T14:44:26.920Z"
+  },
+  {
+    "title": "L’Ukraine n’a « toujours pas reçu de réponse de Poutine » sur son éventuelle présence à Istanbul pour les négociations",
+    "added_at": "2025-05-14T15:18:27.768Z"
   }
 ]
