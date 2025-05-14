@@ -5223,7 +5223,10 @@
   },
   {
     "title": "culture:::Cannes, jour 1: Juliette Binoche, une présidente questionnée (en vain) sur Gaza et Gérard Depardieu",
-    "added_at": "2025-05-13T15:46:47.409Z"
+    "added_at": "2025-05-13T15:46:47.409Z",
+    "removed_at": "2025-05-14T08:26:19.380Z",
+    "duration_minutes": 999,
+    "duration_str": "16h 39m"
   },
   {
     "title": "culture:::Quand l’Eurovision avait lieu en Suisse, à Lausanne, il y a 36 ans",
@@ -5284,7 +5287,10 @@
   },
   {
     "title": "culture:::«Partir un jour», une ouverture enchantée pour le Festival de Cannes",
-    "added_at": "2025-05-13T18:32:28.353Z"
+    "added_at": "2025-05-13T18:32:28.353Z",
+    "removed_at": "2025-05-14T08:30:07.003Z",
+    "duration_minutes": 837,
+    "duration_str": "13h 57m"
   },
   {
     "title": "economie:::Les bonus des ex-cadres de Credit Suisse ne doivent pas être réduits, estime le Tribunal administratif fédéral",
@@ -5428,5 +5434,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – L’UE approuve un 17e paquet de sanctions contre la Russie",
     "added_at": "2025-05-14T07:10:08.905Z"
+  },
+  {
+    "title": "monde:::La baisse du prix des œufs offre un (court) répit à Donald Trump",
+    "added_at": "2025-05-14T08:30:07.003Z"
   }
 ]
