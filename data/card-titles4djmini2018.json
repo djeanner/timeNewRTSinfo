@@ -5011,10 +5011,7 @@
   },
   {
     "title": "The US president had tea with the Syrian leader, a former jihadist who until recently had a $10 million US bounty on his head",
-    "added_at": "2025-05-14T18:35:00.532Z",
-    "removed_at": "2025-05-14T18:38:44.098Z",
-    "duration_minutes": 3,
-    "duration_str": "3m"
+    "added_at": "2025-05-14T18:35:00.532Z"
   },
   {
     "title": "Trump announces deals with Qatar after lavish welcome",
@@ -5025,11 +5022,17 @@
   },
   {
     "title": "The US president was greeted with mounted camels and red Cybertrucks in Doha",
-    "added_at": "2025-05-14T18:38:44.098Z"
+    "added_at": "2025-05-14T18:38:44.098Z",
+    "removed_at": "2025-05-14T19:35:28.012Z",
+    "duration_minutes": 56,
+    "duration_str": "56m"
   },
   {
     "title": "Trump’s embrace of Syria and its jihadist-turned-president could shake up the Middle East",
-    "added_at": "2025-05-14T18:38:44.098Z"
+    "added_at": "2025-05-14T18:38:44.098Z",
+    "removed_at": "2025-05-14T19:35:28.012Z",
+    "duration_minutes": 56,
+    "duration_str": "56m"
   },
   {
     "title": "The best kind of workout? One that trains both your body and brain",
@@ -5038,5 +5041,9 @@
   {
     "title": "Premier League striker reportedly placed in an induced coma",
     "added_at": "2025-05-14T19:05:13.177Z"
+  },
+  {
+    "title": "Trump announces deals with Qatar after meeting Syrian leader",
+    "added_at": "2025-05-14T19:35:28.012Z"
   }
 ]
