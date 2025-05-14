@@ -7351,7 +7351,10 @@
   },
   {
     "title": "RaiseNow, la plateforme de paiement qui refuse ses services à l'UDC",
-    "added_at": "2025-05-12T05:02:07.288Z"
+    "added_at": "2025-05-12T05:02:07.288Z",
+    "removed_at": "2025-05-14T08:49:13.222Z",
+    "duration_minutes": 3107,
+    "duration_str": "2d 3h 47m"
   },
   {
     "title": "L'armée encourage les femmes à porter des brassières, moins dangereuses que les soutiens-gorge",
@@ -7675,7 +7678,10 @@
   },
   {
     "title": "Pourquoi la Suisse affiche une balance commerciale excédentaire par rapport aux USA?",
-    "added_at": "2025-05-13T08:47:58.356Z"
+    "added_at": "2025-05-13T08:47:58.356Z",
+    "removed_at": "2025-05-14T08:49:13.222Z",
+    "duration_minutes": 1441,
+    "duration_str": "1d 1m"
   },
   {
     "title": "\"Saga - Mythologie du départ\" fait entendre les voix d'une famille égyptienne",
@@ -7902,5 +7908,9 @@
   {
     "title": "Les dix premiers pays sélectionnés pour la finale de l'Eurovision",
     "added_at": "2025-05-14T08:26:19.350Z"
+  },
+  {
+    "title": "Une agence de l'ONU juge la Russie responsable du crash du MH17",
+    "added_at": "2025-05-14T08:49:13.222Z"
   }
 ]
