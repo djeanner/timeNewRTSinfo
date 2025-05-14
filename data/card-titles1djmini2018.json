@@ -3123,7 +3123,10 @@
   },
   {
     "title": "Ici la Suisse - Le \"Heels\", un style de danse sensuel venu des États-Unis, cartonne à Lausanne",
-    "added_at": "2025-05-08T02:45:33.512Z"
+    "added_at": "2025-05-08T02:45:33.512Z",
+    "removed_at": "2025-05-14T07:48:58.561Z",
+    "duration_minutes": 8943,
+    "duration_str": "6d 5h 3m"
   },
   {
     "title": "Donald Trump sur le point d'annoncer un \"accord commercial majeur\"",
@@ -4502,7 +4505,10 @@
   },
   {
     "title": "La Fédération d'élevage de la race d'Hérens au secours de la finale nationale",
-    "added_at": "2025-05-12T10:00:53.809Z"
+    "added_at": "2025-05-12T10:00:53.809Z",
+    "removed_at": "2025-05-14T07:48:58.561Z",
+    "duration_minutes": 2748,
+    "duration_str": "1d 21h 48m"
   },
   {
     "title": "Une jeune fille de 14 ans soupçonnée d'homicide à Berikon en Argovie",
@@ -4602,7 +4608,10 @@
   },
   {
     "title": "Le conseiller fédéral Guy Parmelin est le grand invité du 19h30",
-    "added_at": "2025-05-12T13:00:21.802Z"
+    "added_at": "2025-05-12T13:00:21.802Z",
+    "removed_at": "2025-05-14T07:48:58.561Z",
+    "duration_minutes": 2568,
+    "duration_str": "1d 18h 48m"
   },
   {
     "title": "La présidente du Kosovo en visite d'état en Suisse dès mercredi",
@@ -4785,10 +4794,7 @@
   },
   {
     "title": "Pourquoi la Suisse affiche une balance commerciale excédentaire par rapport aux USA?",
-    "added_at": "2025-05-13T08:45:37.112Z",
-    "removed_at": "2025-05-13T23:48:02.290Z",
-    "duration_minutes": 902,
-    "duration_str": "15h 2m"
+    "added_at": "2025-05-13T08:45:37.112Z"
   },
   {
     "title": "Comment les influenceurs catholiques conquièrent les réseaux sociaux",
@@ -4967,10 +4973,7 @@
   },
   {
     "title": "La délicate cohabitation entre les grèbes huppées et les bateaux de plaisance",
-    "added_at": "2025-05-13T22:45:49.032Z",
-    "removed_at": "2025-05-14T01:48:40.160Z",
-    "duration_minutes": 182,
-    "duration_str": "3h 2m"
+    "added_at": "2025-05-13T22:45:49.032Z"
   },
   {
     "title": "Deux fois plus de Vaudois atteints du cancer ont recherché des conseils juridiques en 2024",
@@ -5011,5 +5014,9 @@
   {
     "title": "Au procès de P. Diddy, la chanteuse Cassie témoigne des abus subis pendant leur relation",
     "added_at": "2025-05-14T07:28:15.466Z"
+  },
+  {
+    "title": "Interview d'Andy Yen, fondateur du service de courriel Proton",
+    "added_at": "2025-05-14T07:48:58.561Z"
   }
 ]
