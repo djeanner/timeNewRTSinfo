@@ -7362,7 +7362,10 @@
   },
   {
     "title": "Le PKK annonce sa dissolution et la fin de sa lutte armée en Turquie",
-    "added_at": "2025-05-12T06:37:06.131Z"
+    "added_at": "2025-05-12T06:37:06.131Z",
+    "removed_at": "2025-05-14T09:44:31.779Z",
+    "duration_minutes": 3067,
+    "duration_str": "2d 3h 7m"
   },
   {
     "title": "\"Dale l'infiltré\", la série qui dévoile l'incroyable destin d'un pasteur agent secret",
@@ -7416,7 +7419,10 @@
   },
   {
     "title": "Vladimir Poutine propose des négociations de paix directes avec l'Ukraine",
-    "added_at": "2025-05-12T10:00:44.804Z"
+    "added_at": "2025-05-12T10:00:44.804Z",
+    "removed_at": "2025-05-14T09:48:23.020Z",
+    "duration_minutes": 2867,
+    "duration_str": "1d 23h 47m"
   },
   {
     "title": "La Fédération d'élevage de la race d'Hérens au secours de la finale nationale",
@@ -7594,7 +7600,10 @@
   },
   {
     "title": "La plateforme de récolte de dons RaiseNow refuse de tavailler avec l'UDC",
-    "added_at": "2025-05-12T22:45:17.593Z"
+    "added_at": "2025-05-12T22:45:17.593Z",
+    "removed_at": "2025-05-14T09:48:23.020Z",
+    "duration_minutes": 2103,
+    "duration_str": "1d 11h 3m"
   },
   {
     "title": "Le nouveau système de surveillance de l’espace aérien de l'armée dans la tourmente",
@@ -7844,10 +7853,7 @@
   },
   {
     "title": "Emmanuel Macron décline son action diplomatique",
-    "added_at": "2025-05-13T21:35:18.290Z",
-    "removed_at": "2025-05-13T21:42:59.206Z",
-    "duration_minutes": 7,
-    "duration_str": "7m"
+    "added_at": "2025-05-13T21:35:18.290Z"
   },
   {
     "title": "Emmanuel Macron défend son action diplomatique et refuse de bouger sur sa politique intérieure",
@@ -7912,5 +7918,13 @@
   {
     "title": "Une agence de l'ONU juge la Russie responsable du crash du MH17",
     "added_at": "2025-05-14T08:49:13.222Z"
+  },
+  {
+    "title": "La sincérité avant le succès: les vraies valeurs de la population suisse",
+    "added_at": "2025-05-14T09:44:31.779Z"
+  },
+  {
+    "title": "Perquisitions et arrestations en Allemagne, qui dissout un \"Royaume\" complotiste",
+    "added_at": "2025-05-14T09:48:23.020Z"
   }
 ]
