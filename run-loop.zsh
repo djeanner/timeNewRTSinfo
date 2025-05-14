@@ -3,7 +3,7 @@
 echo "⏳ Starting loop... (Ctrl+C to stop)"
 
 # Define an array of sleep times
-sleep_times=(113 107 111 113 107 111 113 107 111)
+sleep_times=(113 107 111 113 107 111 113 107 111 112 107 111 113 107 111 113 107 111 113 107 111 113 107 111 113 107 115)
 
 while true; do
   echo "🔁 Running extract-card-titles.js at $(date)"
