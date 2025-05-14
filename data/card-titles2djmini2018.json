@@ -3542,7 +3542,10 @@
   },
   {
     "title": "suisse:::Nucléaire: Swisstopo fera tout pour sauver le laboratoire du Mont-Terri",
-    "added_at": "2025-05-13T20:39:31.919Z"
+    "added_at": "2025-05-13T20:39:31.919Z",
+    "removed_at": "2025-05-14T16:22:40.375Z",
+    "duration_minutes": 1183,
+    "duration_str": "19h 43m"
   },
   {
     "title": "culture:::Le Belge Frédéric Roussel signe un récit dessiné poignant publié à Vevey par Hélice Hélas",
@@ -3613,7 +3616,10 @@
   },
   {
     "title": "monde:::Comment les Russes mènent Donald Trump «par le bout du nez»",
-    "added_at": "2025-05-14T04:17:39.326Z"
+    "added_at": "2025-05-14T04:17:39.326Z",
+    "removed_at": "2025-05-14T16:13:17.846Z",
+    "duration_minutes": 715,
+    "duration_str": "11h 55m"
   },
   {
     "title": "economie:::Comment les entreprises chinoises se jouent des droits de douane américains",
@@ -3661,7 +3667,10 @@
   },
   {
     "title": "monde:::La baisse du prix des œufs offre un (court) répit à Donald Trump",
-    "added_at": "2025-05-14T08:30:38.587Z"
+    "added_at": "2025-05-14T08:30:38.587Z",
+    "removed_at": "2025-05-14T16:13:17.846Z",
+    "duration_minutes": 462,
+    "duration_str": "7h 42m"
   },
   {
     "title": "monde:::La Commission européenne épinglée pour son manque de transparence sur les échanges d’Ursula von der Leyen avec le PDG de Pfizer",
@@ -3672,7 +3681,10 @@
   },
   {
     "title": "monde:::Agneau cru, longboard et tabatière: ces cadeaux qui ont marqué l’histoire de la diplomatie américaine",
-    "added_at": "2025-05-14T09:06:36.954Z"
+    "added_at": "2025-05-14T09:06:36.954Z",
+    "removed_at": "2025-05-14T16:13:17.846Z",
+    "duration_minutes": 426,
+    "duration_str": "7h 6m"
   },
   {
     "title": "culture:::Le «Boléro», une exposition pour quelques notes mythiques",
@@ -3704,10 +3716,7 @@
   },
   {
     "title": "sciences:::Opération survie pour la légendaire grande nacre, plus grand coquillage de la Méditerranée",
-    "added_at": "2025-05-14T10:37:22.101Z",
-    "removed_at": "2025-05-14T15:44:57.404Z",
-    "duration_minutes": 307,
-    "duration_str": "5h 7m"
+    "added_at": "2025-05-14T10:37:22.101Z"
   },
   {
     "title": "suisse:::Le siège genevois OMS réduit son équipe de direction de près de moitié",
@@ -3761,5 +3770,21 @@
   {
     "title": "suisse:::Tous les parlementaires vont pouvoir consulter le paquet d’accords négociés avec l’UE",
     "added_at": "2025-05-14T15:44:57.404Z"
+  },
+  {
+    "title": "sciences:::Les démocraties se font passer pour plus vertes qu’elles ne le sont grâce aux délocalisations, suggère une étude",
+    "added_at": "2025-05-14T16:13:17.846Z"
+  },
+  {
+    "title": "suisse:::La nouvelle stratégie climatique suisse ne convainc pas les militants",
+    "added_at": "2025-05-14T16:13:17.846Z"
+  },
+  {
+    "title": "sciences:::La confrontation des pays sur le climat se prolonge devant la Cour internationale de justice",
+    "added_at": "2025-05-14T16:13:17.846Z"
+  },
+  {
+    "title": "suisse:::Pour Albert Rösti, «le service public sera garanti» avec l’accord sur l’électricité avec l’UE",
+    "added_at": "2025-05-14T16:26:26.245Z"
   }
 ]
