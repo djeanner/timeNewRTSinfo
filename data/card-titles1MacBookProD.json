@@ -7691,7 +7691,10 @@
   },
   {
     "title": "\"On peut tout expliquer\" selon Julien Bobroff, vulgarisateur scientifique",
-    "added_at": "2025-05-13T05:30:04.285Z"
+    "added_at": "2025-05-13T05:30:04.285Z",
+    "removed_at": "2025-05-14T19:07:41.086Z",
+    "duration_minutes": 2257,
+    "duration_str": "1d 13h 37m"
   },
   {
     "title": "Genève, Vaud et le Valais lancent une campagne pour les victimes d'agressions sexuelles",
@@ -7934,7 +7937,10 @@
   },
   {
     "title": "La délicate cohabitation entre les grèbes huppées et les bateaux de plaisance",
-    "added_at": "2025-05-13T22:45:49.300Z"
+    "added_at": "2025-05-13T22:45:49.300Z",
+    "removed_at": "2025-05-14T19:51:25.159Z",
+    "duration_minutes": 1265,
+    "duration_str": "21h 5m"
   },
   {
     "title": "Deux fois plus de Vaudois atteints du cancer ont recherché des conseils juridiques en 2024",
@@ -8085,10 +8091,7 @@
   },
   {
     "title": "Le pape Léon XIV a tenu sa première audience",
-    "added_at": "2025-05-14T15:51:10.994Z",
-    "removed_at": "2025-05-14T17:49:27.260Z",
-    "duration_minutes": 118,
-    "duration_str": "1h 58m"
+    "added_at": "2025-05-14T15:51:10.994Z"
   },
   {
     "title": "Avec le blocage de l'aide humanitaire à Gaza, le spectre de la famine se précise",
@@ -8109,5 +8112,9 @@
   {
     "title": "Affaire Bétharram: François Bayrou entendu devant une commission d'enquête parlementaire",
     "added_at": "2025-05-14T18:29:33.982Z"
+  },
+  {
+    "title": "La baignade dans la Seine ouverte au grand public à partir du 5 juillet",
+    "added_at": "2025-05-14T19:07:41.086Z"
   }
 ]
