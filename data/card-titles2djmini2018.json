@@ -3504,7 +3504,10 @@
   },
   {
     "title": "suisse:::A Genève, la police abat un homme armé d’un couteau",
-    "added_at": "2025-05-13T18:55:43.063Z"
+    "added_at": "2025-05-13T18:55:43.063Z",
+    "removed_at": "2025-05-14T11:35:52.108Z",
+    "duration_minutes": 1000,
+    "duration_str": "16h 40m"
   },
   {
     "title": "sport:::A Herning, la marche au rythme du hockey: immersion dans la fan-walk du Mondial 2025",
@@ -3688,5 +3691,9 @@
   {
     "title": "suisse:::Le siège genevois OMS réduit son équipe de direction de près de moitié",
     "added_at": "2025-05-14T11:18:49.266Z"
+  },
+  {
+    "title": "cyber:::Rodolphe Koller ouvre un nouveau chapitre mais garde un œil sur les innovations technologiques",
+    "added_at": "2025-05-14T11:35:52.108Z"
   }
 ]

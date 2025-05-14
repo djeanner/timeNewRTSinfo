@@ -1931,7 +1931,10 @@
   },
   {
     "title": "Trump reaffirms US’s commitment to region at key Saudi summit",
-    "added_at": "2025-05-14T09:53:48.566Z"
+    "added_at": "2025-05-14T09:53:48.566Z",
+    "removed_at": "2025-05-14T11:34:02.918Z",
+    "duration_minutes": 100,
+    "duration_str": "1h 40m"
   },
   {
     "title": "Trump meets Syria’s new leader Ahmed al-Sharaa",
@@ -1955,5 +1958,9 @@
   {
     "title": "Israeli attacks on Gaza kill 70 as ceasefire talks continue",
     "added_at": "2025-05-14T10:41:06.483Z"
+  },
+  {
+    "title": "Trump reaffirms US’s commitment to region as he lands in Qatar",
+    "added_at": "2025-05-14T11:34:02.918Z"
   }
 ]
