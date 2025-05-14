@@ -3062,7 +3062,10 @@
   },
   {
     "title": "suisse:::L'Eurovision 2025 à Bâle: du sacre de Nemo à la Halle Saint-Jacques",
-    "added_at": "2025-05-12T10:02:43.350Z"
+    "added_at": "2025-05-12T10:02:43.350Z",
+    "removed_at": "2025-05-14T08:32:34.201Z",
+    "duration_minutes": 2789,
+    "duration_str": "1d 22h 29m"
   },
   {
     "title": "culture:::La romancière Iuna Allioux signe une brûlante fin du monde",
@@ -3571,10 +3574,7 @@
   },
   {
     "title": "culture:::A la première demi-finale de l’Eurovision 2025, la Suède s’impose, l’Albanie surprend et la Belgique est éliminée",
-    "added_at": "2025-05-13T23:17:55.583Z",
-    "removed_at": "2025-05-14T07:07:31.645Z",
-    "duration_minutes": 469,
-    "duration_str": "7h 49m"
+    "added_at": "2025-05-13T23:17:55.583Z"
   },
   {
     "title": "monde:::«Toute l’Amérique latine est en deuil»: José «Pepe» Mujica, ex-président uruguayen et icône de la gauche, est mort",
@@ -3592,10 +3592,7 @@
   },
   {
     "title": "monde:::Comment les Russes mènent Donald Trump «par le bout du nez»",
-    "added_at": "2025-05-14T04:17:39.326Z",
-    "removed_at": "2025-05-14T08:28:41.111Z",
-    "duration_minutes": 251,
-    "duration_str": "4h 11m"
+    "added_at": "2025-05-14T04:17:39.326Z"
   },
   {
     "title": "economie:::Comment les entreprises chinoises se jouent des droits de douane américains",
@@ -3611,9 +3608,9 @@
   {
     "title": "cyber:::Peut-on sérieusement prédire l’impact de l’intelligence artificielle sur la croissance économique mondiale?",
     "added_at": "2025-05-14T05:44:22.243Z",
-    "removed_at": "2025-05-14T08:28:41.111Z",
-    "duration_minutes": 164,
-    "duration_str": "2h 44m"
+    "removed_at": "2025-05-14T08:45:41.125Z",
+    "duration_minutes": 181,
+    "duration_str": "3h 1m"
   },
   {
     "title": "monde:::«Enfin! La Syrie n’est plus un Etat paria»: à Damas, l’espoir après l’annonce de la levée des sanctions américaines",
@@ -3625,10 +3622,7 @@
   },
   {
     "title": "monde:::Défendre les Palestiniens, une cause plus populaire que jamais dans les mosquées d’Iran",
-    "added_at": "2025-05-14T06:37:15.577Z",
-    "removed_at": "2025-05-14T08:28:41.111Z",
-    "duration_minutes": 111,
-    "duration_str": "1h 51m"
+    "added_at": "2025-05-14T06:37:15.577Z"
   },
   {
     "title": "suisse:::Nicolas Walder, candidat au Conseil d’Etat genevois: «Trop souvent, on densifie, et les services publics peinent à suivre»",
@@ -3637,5 +3631,13 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – L’UE approuve un 17e paquet de sanctions contre la Russie",
     "added_at": "2025-05-14T07:11:15.177Z"
+  },
+  {
+    "title": "monde:::La baisse du prix des œufs offre un (court) répit à Donald Trump",
+    "added_at": "2025-05-14T08:30:38.587Z"
+  },
+  {
+    "title": "monde:::La Commission européenne épinglée pour son manque de transparence sur les échanges d’Ursula von der Leyen avec le PDG de Pfizer",
+    "added_at": "2025-05-14T08:45:41.125Z"
   }
 ]
