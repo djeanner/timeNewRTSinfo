@@ -4705,7 +4705,10 @@
   },
   {
     "title": "Les grèbes huppés invités à faire leur nid sur des plateformes en liège dans les ports",
-    "added_at": "2025-05-12T16:22:28.258Z"
+    "added_at": "2025-05-12T16:22:28.258Z",
+    "removed_at": "2025-05-14T12:32:29.921Z",
+    "duration_minutes": 2650,
+    "duration_str": "1d 20h 10m"
   },
   {
     "title": "La Suisse enchaîne face aux Etats-Unis",
@@ -5108,5 +5111,9 @@
   {
     "title": "La suppression de bonus de Credit Suisse jugée \"illégale\", la Confédération pourrait faire recours",
     "added_at": "2025-05-14T12:15:31.027Z"
+  },
+  {
+    "title": "Un lit médicalisé au marché de Lausanne pour ouvrir le dialogue sur la fin de vie",
+    "added_at": "2025-05-14T12:32:29.921Z"
   }
 ]
