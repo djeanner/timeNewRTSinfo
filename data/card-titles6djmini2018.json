@@ -1971,7 +1971,10 @@
   },
   {
     "title": "US President Trump arrives in Qatar for second leg of Gulf trip",
-    "added_at": "2025-05-14T11:45:23.766Z"
+    "added_at": "2025-05-14T11:45:23.766Z",
+    "removed_at": "2025-05-14T11:54:48.526Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
   },
   {
     "title": "In some Jewish families, speaking up for Palestine causes discontent",
@@ -1983,5 +1986,9 @@
   {
     "title": "In some Jewish families, speaking up for Palestine stirs discontent",
     "added_at": "2025-05-14T11:47:13.614Z"
+  },
+  {
+    "title": "US President Trump arrives in Qatar for the second leg of Gulf trip",
+    "added_at": "2025-05-14T11:54:48.526Z"
   }
 ]
