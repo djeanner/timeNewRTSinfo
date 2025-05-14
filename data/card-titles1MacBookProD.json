@@ -7547,11 +7547,17 @@
   },
   {
     "title": "Les glaciers recouverts d'une couche de neige historiquement basse cette année",
-    "added_at": "2025-05-12T20:50:46.341Z"
+    "added_at": "2025-05-12T20:50:46.341Z",
+    "removed_at": "2025-05-14T07:29:10.820Z",
+    "duration_minutes": 2078,
+    "duration_str": "1d 10h 38m"
   },
   {
     "title": "Gros travaux sur la ligne ferroviaire entre La Verrerie et Vaulruz-Sud dès le mois de juin",
-    "added_at": "2025-05-12T20:50:46.341Z"
+    "added_at": "2025-05-12T20:50:46.341Z",
+    "removed_at": "2025-05-14T07:27:16.208Z",
+    "duration_minutes": 2076,
+    "duration_str": "1d 10h 36m"
   },
   {
     "title": "En Suisse, les bébés naissent majoritairement la semaine, plannings hospitaliers obligent",
@@ -7869,10 +7875,7 @@
   },
   {
     "title": "Pourquoi le nombre de fermes bio diminue malgré un marché stable",
-    "added_at": "2025-05-14T06:09:13.473Z",
-    "removed_at": "2025-05-14T06:11:10.005Z",
-    "duration_minutes": 1,
-    "duration_str": "1m"
+    "added_at": "2025-05-14T06:09:13.473Z"
   },
   {
     "title": "Avec \"A la guerre\", Elisa Bories signe un manifeste féministe d’une belle radicalité",
@@ -7881,5 +7884,9 @@
   {
     "title": "La Chine et les Etats-Unis concrétisent la pause dans leur guerre commerciale",
     "added_at": "2025-05-14T06:47:16.462Z"
+  },
+  {
+    "title": "Au procès de P. Diddy, la chanteuse Cassie témoigne des abus subis pendant leur relation",
+    "added_at": "2025-05-14T07:27:16.208Z"
   }
 ]
