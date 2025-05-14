@@ -307,14 +307,14 @@
   },
   {
     "title": "La première apparition du pape Léon XIV en images",
-    "added_at": "2025-05-09T11:07:52.917Z"
+    "added_at": "2025-05-09T11:07:52.917Z",
+    "removed_at": "2025-05-14T08:26:52.210Z",
+    "duration_minutes": 7038,
+    "duration_str": "4d 21h 18m"
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T11:11:38.599Z",
-    "removed_at": "2025-05-14T08:11:38.645Z",
-    "duration_minutes": 7020,
-    "duration_str": "4d 21h"
+    "added_at": "2025-05-09T11:11:38.599Z"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -3466,7 +3466,10 @@
   },
   {
     "title": "Réseaux sociaux : « N’est-il pas temps, pour une Europe en quête de souveraineté, de s’ériger en espace où les adolescents sont protégés de cette jungle »",
-    "added_at": "2025-05-11T10:02:51.749Z"
+    "added_at": "2025-05-11T10:02:51.749Z",
+    "removed_at": "2025-05-14T08:24:56.355Z",
+    "duration_minutes": 4222,
+    "duration_str": "2d 22h 22m"
   },
   {
     "title": "« Elsa », d’Angela Bubba : les tourments intimes d’Elsa Morante",
@@ -4225,10 +4228,7 @@
   },
   {
     "title": "Diversité et inclusion : « Que des acteurs européens comme SAP cèdent aux injonctions de Trump démontre soit la puissance de cet appel, soit l’hypocrisie de certains quant à leur engagement pour un capitalisme inclusif »",
-    "added_at": "2025-05-12T09:21:08.763Z",
-    "removed_at": "2025-05-14T08:00:20.767Z",
-    "duration_minutes": 2799,
-    "duration_str": "1d 22h 39m"
+    "added_at": "2025-05-12T09:21:08.763Z"
   },
   {
     "title": "Tours de luxe, Boeing 747 offert… Les bonnes affaires de la famille Trump dans le golfe Arabo-Persique",
@@ -4296,9 +4296,9 @@
   {
     "title": "« La maison brûle, mais les compagnies pétrolières européennes regardent vers Wall Street, où elles trouveront des investisseurs moins regardants sur l’environnement »",
     "added_at": "2025-05-12T10:15:56.790Z",
-    "removed_at": "2025-05-14T08:05:59.383Z",
-    "duration_minutes": 2750,
-    "duration_str": "1d 21h 50m"
+    "removed_at": "2025-05-14T08:26:52.210Z",
+    "duration_minutes": 2770,
+    "duration_str": "1d 22h 10m"
   },
   {
     "title": "La Nouvelle-Calédonie de nouveau face au risque de guerre civile",
@@ -4323,10 +4323,7 @@
   },
   {
     "title": "Des personnalités de la communauté juive française prennent position pour dénoncer la situation à Gaza",
-    "added_at": "2025-05-12T11:35:22.494Z",
-    "removed_at": "2025-05-14T08:07:53.571Z",
-    "duration_minutes": 2672,
-    "duration_str": "1d 20h 32m"
+    "added_at": "2025-05-12T11:35:22.494Z"
   },
   {
     "title": "Le PKK annonce sa dissolution et la fin de la lutte armée contre le pouvoir turc",
@@ -5067,7 +5064,10 @@
   },
   {
     "title": "Violences à l’école : Paul Vannier et Violette Spillebout, un duo offensif et inattendu face à François Bayrou",
-    "added_at": "2025-05-13T03:57:05.652Z"
+    "added_at": "2025-05-13T03:57:05.652Z",
+    "removed_at": "2025-05-14T08:26:52.210Z",
+    "duration_minutes": 1709,
+    "duration_str": "1d 4h 29m"
   },
   {
     "title": "Affaire de Bétharram : l’heure de vérité pour François Bayrou",
@@ -5127,10 +5127,7 @@
   },
   {
     "title": "Frédérique Coulée, professeure de droit public : « Les droits français et européen protègent la liberté académique »",
-    "added_at": "2025-05-13T04:32:52.771Z",
-    "removed_at": "2025-05-14T08:07:53.571Z",
-    "duration_minutes": 1655,
-    "duration_str": "1d 3h 35m"
+    "added_at": "2025-05-13T04:32:52.771Z"
   },
   {
     "title": "« Les mathématiques semblent être le seul repère pour les sciences dans notre pays »",
@@ -5240,7 +5237,10 @@
   },
   {
     "title": "Le fabuleux destin d’Amélie Bonnin, réalisatrice du film d’ouverture de Cannes",
-    "added_at": "2025-05-13T08:19:06.274Z"
+    "added_at": "2025-05-13T08:19:06.274Z",
+    "removed_at": "2025-05-14T08:24:56.355Z",
+    "duration_minutes": 1445,
+    "duration_str": "1d 5m"
   },
   {
     "title": "Inde-Pakistan : Narendra Modi jette de l’huile sur le feu",
@@ -6373,5 +6373,9 @@
     "removed_at": "2025-05-14T08:04:09.854Z",
     "duration_minutes": 1,
     "duration_str": "1m"
+  },
+  {
+    "title": "Le Tour de France 2025 grimpera bien la butte Montmartre lors de son ultime étape",
+    "added_at": "2025-05-14T08:26:52.210Z"
   }
 ]
