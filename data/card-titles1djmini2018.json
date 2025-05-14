@@ -4517,7 +4517,10 @@
   },
   {
     "title": "Le retour de l'\"arbre dinosaure\", ou l'histoire d'un sauvetage botanique hors du commun",
-    "added_at": "2025-05-12T10:34:51.936Z"
+    "added_at": "2025-05-12T10:34:51.936Z",
+    "removed_at": "2025-05-14T02:09:21.851Z",
+    "duration_minutes": 2374,
+    "duration_str": "1d 15h 34m"
   },
   {
     "title": "Pourquoi la Suisse affiche-t-elle une balance commerciale excédentaire par rapport aux USA?",
@@ -4955,5 +4958,9 @@
   {
     "title": "Un homme muni d'un couteau abattu par la police dans le centre de Genève",
     "added_at": "2025-05-14T01:48:40.160Z"
+  },
+  {
+    "title": "Le camp du Premier ministre Edi Rama remporte les élections législatives en Albanie",
+    "added_at": "2025-05-14T02:09:21.851Z"
   }
 ]
