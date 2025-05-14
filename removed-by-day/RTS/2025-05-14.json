@@ -213,8 +213,9 @@
   {
     "title": "Le pape Léon XIV a tenu sa première audience",
     "added_at": "2025-05-14T15:48:40.501Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-14T17:49:27.260Z",
+    "duration_minutes": 121,
+    "duration_str": "2h 1m"
   },
   {
     "title": "Avec le blocage de l'aide humanitaire à Gaza, le spectre de la famine se précise",
@@ -224,13 +225,19 @@
   },
   {
     "title": "La grande introspection de l'école vaudoise sur son fonctionnement et son avenir",
-    "added_at": "2025-05-14T16:29:17.337Z",
+    "added_at": "2025-05-14T16:28:22.457Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "\"Ibn\" d'Asya Djoulaït, un roman pour dire l'amour filial et la quête de foi",
     "added_at": "2025-05-14T16:36:57.332Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Le Premier ministre israélien Benjamin Netanyahu veut la guerre \"jusqu'au bout\" à Gaza",
+    "added_at": "2025-05-14T17:49:27.260Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
