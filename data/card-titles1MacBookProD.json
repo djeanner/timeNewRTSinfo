@@ -7521,7 +7521,10 @@
   },
   {
     "title": "Les gens du voyage stationnés au nord de Lausanne sommés de partir",
-    "added_at": "2025-05-12T20:50:46.341Z"
+    "added_at": "2025-05-12T20:50:46.341Z",
+    "removed_at": "2025-05-14T13:20:26.546Z",
+    "duration_minutes": 2429,
+    "duration_str": "1d 16h 29m"
   },
   {
     "title": "Podcast - Quel pouvoir a un pape?",
@@ -8006,5 +8009,9 @@
   {
     "title": "Guillaume Long: \"Je suis avant tout un gastronome, bien avant d'être dessinateur\"",
     "added_at": "2025-05-14T12:51:51.837Z"
+  },
+  {
+    "title": "Prudence recommandée avec une plateforme de réservation d'hôtels",
+    "added_at": "2025-05-14T13:20:26.546Z"
   }
 ]
