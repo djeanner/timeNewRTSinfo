@@ -4722,7 +4722,10 @@
   },
   {
     "title": "Convaincante, la Suisse s'offre les Etats-Unis",
-    "added_at": "2025-05-12T16:37:38.451Z"
+    "added_at": "2025-05-12T16:37:38.451Z",
+    "removed_at": "2025-05-14T13:42:09.460Z",
+    "duration_minutes": 2704,
+    "duration_str": "1d 21h 4m"
   },
   {
     "title": "Les CFF testent avec succès des mélanges de plantes pour remplacer les herbicides",
@@ -5136,5 +5139,9 @@
   {
     "title": "Prudence recommandée avec une plateforme de réservation d'hôtels",
     "added_at": "2025-05-14T13:19:49.635Z"
+  },
+  {
+    "title": "La police fribourgeoise teste sa première voiture d'intervention 100% électrique",
+    "added_at": "2025-05-14T13:42:09.460Z"
   }
 ]
