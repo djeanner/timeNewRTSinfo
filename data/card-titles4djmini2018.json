@@ -4644,10 +4644,7 @@
   },
   {
     "title": "Most intense fighting for years rocks Libyan capital",
-    "added_at": "2025-05-14T08:40:02.999Z",
-    "removed_at": "2025-05-14T20:20:43.172Z",
-    "duration_minutes": 700,
-    "duration_str": "11h 40m"
+    "added_at": "2025-05-14T08:40:02.999Z"
   },
   {
     "title": "President Trump speaks at GCC leaders’ meeting in Riyadh",
@@ -4834,7 +4831,10 @@
   },
   {
     "title": "UN aid chief calls on Israel to allow humanitarian aid into Gaza",
-    "added_at": "2025-05-14T11:49:07.303Z"
+    "added_at": "2025-05-14T11:49:07.303Z",
+    "removed_at": "2025-05-14T20:56:34.189Z",
+    "duration_minutes": 547,
+    "duration_str": "9h 7m"
   },
   {
     "title": "He was tired of just surviving. A pig kidney gave him a shot at living",
@@ -5054,10 +5054,17 @@
   },
   {
     "title": "Qatar’s PM speaks to CNN amid scrutiny surrounding gifted jet",
-    "added_at": "2025-05-14T20:11:21.111Z"
+    "added_at": "2025-05-14T20:11:21.111Z",
+    "removed_at": "2025-05-14T20:56:34.189Z",
+    "duration_minutes": 45,
+    "duration_str": "45m"
   },
   {
     "title": "Severe wildfires in Russia’s Siberia region rage through 600,000 hectares of forest",
     "added_at": "2025-05-14T20:20:43.172Z"
+  },
+  {
+    "title": "Dr. Sanjay Gupta answers questions about animal organ transplants",
+    "added_at": "2025-05-14T20:56:34.189Z"
   }
 ]
