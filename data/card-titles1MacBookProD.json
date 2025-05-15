@@ -7795,7 +7795,10 @@
   },
   {
     "title": "Première observation directe de courants d'eau sous l'Antarctique",
-    "added_at": "2025-05-13T10:06:01.523Z"
+    "added_at": "2025-05-13T10:06:01.523Z",
+    "removed_at": "2025-05-15T09:10:50.850Z",
+    "duration_minutes": 2824,
+    "duration_str": "1d 23h 4m"
   },
   {
     "title": "\"Il n'y a pas d'opacité\" dans les ventes aux enchères, toujours florissantes",
@@ -7810,7 +7813,10 @@
   },
   {
     "title": "Les stéréotypes liés à la famille et aux genres reculent en Suisse",
-    "added_at": "2025-05-13T11:12:34.634Z"
+    "added_at": "2025-05-13T11:12:34.634Z",
+    "removed_at": "2025-05-15T09:33:41.962Z",
+    "duration_minutes": 2781,
+    "duration_str": "1d 22h 21m"
   },
   {
     "title": "Les enseignants genevois en grève contre une réforme du temps de travail",
@@ -8174,9 +8180,9 @@
   {
     "title": "Précision attendue sur la clause de sauvegarde, les explications de Pierre Nebel",
     "added_at": "2025-05-14T22:50:47.656Z",
-    "removed_at": "2025-05-15T08:49:45.664Z",
-    "duration_minutes": 598,
-    "duration_str": "9h 58m"
+    "removed_at": "2025-05-15T08:53:43.615Z",
+    "duration_minutes": 602,
+    "duration_str": "10h 2m"
   },
   {
     "title": "L'Union européenne a approuvé une nouvelle salve de sanctions contre la Russie et promet des mesures encore plus lourdes",
@@ -8224,5 +8230,20 @@
   {
     "title": "Le Conseil fédéral a dévoilé la clause de sauvegarde pour limiter l’immigration",
     "added_at": "2025-05-15T08:49:45.664Z"
+  },
+  {
+    "title": "La Défense civile palestinienne fait état de 50 morts jeudi à Gaza, après déjà 80 la veille",
+    "added_at": "2025-05-15T09:10:50.850Z",
+    "removed_at": "2025-05-15T09:20:19.486Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "La Défense civile palestinienne fait état de 80 morts jeudi à Gaza, après déjà 80 la veille",
+    "added_at": "2025-05-15T09:20:19.486Z"
+  },
+  {
+    "title": "L'ex-présentateur vedette de France 2 Daniel Bilalian est décédé à 78 ans",
+    "added_at": "2025-05-15T09:33:41.962Z"
   }
 ]

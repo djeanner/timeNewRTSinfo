@@ -5713,7 +5713,10 @@
   },
   {
     "title": "culture:::Cannes, jour 2: ce festival qui peut faire et défaire des carrières",
-    "added_at": "2025-05-14T18:58:07.112Z"
+    "added_at": "2025-05-14T18:58:07.112Z",
+    "removed_at": "2025-05-15T09:10:50.881Z",
+    "duration_minutes": 852,
+    "duration_str": "14h 12m"
   },
   {
     "title": "culture:::Festival de Cannes: «Sound of Falling», quatre adolescentes liées à travers le temps",
@@ -5800,7 +5803,10 @@
   },
   {
     "title": "monde:::En direct – La délégation russe est arrivée à Istanbul pour des négociations directes avec l'Ukraine",
-    "added_at": "2025-05-15T06:45:42.348Z"
+    "added_at": "2025-05-15T06:45:42.348Z",
+    "removed_at": "2025-05-15T09:01:17.352Z",
+    "duration_minutes": 135,
+    "duration_str": "2h 15m"
   },
   {
     "title": "sport:::Patrick Fischer, sélectionneur de l’équipe de Suisse de hockey: «Tout est une question d’équilibre»",
@@ -5813,5 +5819,13 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump affirme que les Etats-Unis devraient faire de Gaza une «zone de liberté»",
     "added_at": "2025-05-15T08:19:20.003Z"
+  },
+  {
+    "title": "monde:::En direct – Les pourparlers russo-ukrainiens auront lieu en deuxième partie de journée «à la demande» d'Ankara",
+    "added_at": "2025-05-15T09:01:17.352Z"
+  },
+  {
+    "title": "economie:::De Swissair à Balexert, d’Istanbul à Genève: le conte des mille et une vies d’Ivan Haralambof",
+    "added_at": "2025-05-15T09:12:42.001Z"
   }
 ]
