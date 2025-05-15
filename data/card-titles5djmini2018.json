@@ -31,9 +31,9 @@
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
     "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-15T12:51:06.993Z",
-    "duration_minutes": 8749,
-    "duration_str": "6d 1h 49m"
+    "removed_at": "2025-05-15T13:21:20.463Z",
+    "duration_minutes": 8779,
+    "duration_str": "6d 2h 19m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -307,14 +307,14 @@
   },
   {
     "title": "La première apparition du pape Léon XIV en images",
-    "added_at": "2025-05-09T11:07:52.917Z",
-    "removed_at": "2025-05-15T13:02:25.323Z",
-    "duration_minutes": 8754,
-    "duration_str": "6d 1h 54m"
+    "added_at": "2025-05-09T11:07:52.917Z"
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T11:11:38.599Z"
+    "added_at": "2025-05-09T11:11:38.599Z",
+    "removed_at": "2025-05-15T13:21:20.463Z",
+    "duration_minutes": 8769,
+    "duration_str": "6d 2h 9m"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -7572,9 +7572,9 @@
   {
     "title": "« La pause de trois mois dans la bataille commerciale entre la Chine et les Etats-Unis offre un répit. Pour autant, la guerre n’est pas finie »",
     "added_at": "2025-05-15T04:17:48.207Z",
-    "removed_at": "2025-05-15T13:06:10.974Z",
-    "duration_minutes": 528,
-    "duration_str": "8h 48m"
+    "removed_at": "2025-05-15T13:21:20.463Z",
+    "duration_minutes": 543,
+    "duration_str": "9h 3m"
   },
   {
     "title": "Les industriels français pris dans le bourbier des droits de douane américains",
@@ -8172,7 +8172,10 @@
   },
   {
     "title": "Bande de Gaza : plus de 100 personnes tuées dans des nouveaux bombardements israéliens",
-    "added_at": "2025-05-15T12:24:43.141Z"
+    "added_at": "2025-05-15T12:24:43.141Z",
+    "removed_at": "2025-05-15T13:11:52.443Z",
+    "duration_minutes": 47,
+    "duration_str": "47m"
   },
   {
     "title": "Les premières discussions directes entre la Russie et l’Ukraine depuis 2022 débuteront en Turquie jeudi après-midi",
@@ -8184,5 +8187,9 @@
   {
     "title": "Les premières discussions directes entre la Russie et l’Ukraine depuis 2022 devraient débuter jeudi après-midi en Turquie",
     "added_at": "2025-05-15T13:04:21.092Z"
+  },
+  {
+    "title": "L’ONG Human Rights Watch accuse Israël d’avoir fait du blocus dans la bande de Gaza un « outil d’extermination »",
+    "added_at": "2025-05-15T13:11:52.443Z"
   }
 ]
