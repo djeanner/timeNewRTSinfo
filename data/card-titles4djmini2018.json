@@ -4724,7 +4724,10 @@
   },
   {
     "title": "Good news! Prices are falling. But it might be for bad reasons",
-    "added_at": "2025-05-14T09:15:59.871Z"
+    "added_at": "2025-05-14T09:15:59.871Z",
+    "removed_at": "2025-05-15T01:50:46.313Z",
+    "duration_minutes": 994,
+    "duration_str": "16h 34m"
   },
   {
     "title": "How Russia is using social media to keep a grip on occupied Mariupol",
@@ -4887,10 +4890,7 @@
   },
   {
     "title": "3 climbers fell 400 feet to their death. 1 climber survived and drove to a pay phone",
-    "added_at": "2025-05-14T12:11:46.669Z",
-    "removed_at": "2025-05-15T01:26:14.164Z",
-    "duration_minutes": 794,
-    "duration_str": "13h 14m"
+    "added_at": "2025-05-14T12:11:46.669Z"
   },
   {
     "title": "Trump welcomed to Qatar with red Cybertrucks and mounted camels",
@@ -5312,7 +5312,10 @@
   },
   {
     "title": "3 climbers fell 400 feet to their death. 1 survived and drove to a pay phone",
-    "added_at": "2025-05-15T01:26:14.164Z"
+    "added_at": "2025-05-15T01:26:14.164Z",
+    "removed_at": "2025-05-15T01:50:46.313Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
   },
   {
     "title": "She escaped an avalanche and became the first woman to summit Everest. Today, few remember her name",
@@ -5333,5 +5336,9 @@
   {
     "title": "White House officials say Trump won’t attend Ukraine-Russia talks",
     "added_at": "2025-05-15T01:43:10.396Z"
+  },
+  {
+    "title": "Rihanna new music alert: Singer to release first song in 3 years for the ‘Smurfs’ movie",
+    "added_at": "2025-05-15T01:50:46.313Z"
   }
 ]
