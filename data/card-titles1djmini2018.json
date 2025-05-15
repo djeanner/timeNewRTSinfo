@@ -4914,7 +4914,10 @@
   },
   {
     "title": "Hausse record des consultations juridiques pour les malades du cancer",
-    "added_at": "2025-05-13T09:47:58.777Z"
+    "added_at": "2025-05-13T09:47:58.777Z",
+    "removed_at": "2025-05-15T10:29:29.707Z",
+    "duration_minutes": 2921,
+    "duration_str": "2d 41m"
   },
   {
     "title": "Première observation directe de courants d'eau sous l'Antarctique",
@@ -4985,11 +4988,17 @@
   },
   {
     "title": "Plus de 300 kg de cartouches volées au stand de tir de Châtillon",
-    "added_at": "2025-05-13T13:19:30.504Z"
+    "added_at": "2025-05-13T13:19:30.504Z",
+    "removed_at": "2025-05-15T10:33:14.547Z",
+    "duration_minutes": 2713,
+    "duration_str": "1d 21h 13m"
   },
   {
     "title": "L'UDC Céline Baux présidera la délégation des commissions de surveillance dans l'affaire Dittli",
-    "added_at": "2025-05-13T13:27:03.560Z"
+    "added_at": "2025-05-13T13:27:03.560Z",
+    "removed_at": "2025-05-15T10:31:25.140Z",
+    "duration_minutes": 2704,
+    "duration_str": "1d 21h 4m"
   },
   {
     "title": "Des tombes ont été vandalisées dans plusieurs cimetières valaisans",
@@ -5382,5 +5391,17 @@
   {
     "title": "La SSR et l'association des éditeurs alémaniques annoncent un accord de coopération",
     "added_at": "2025-05-15T09:51:49.872Z"
+  },
+  {
+    "title": "Des champignons vivants découverts dans la stratosphère",
+    "added_at": "2025-05-15T10:29:29.707Z"
+  },
+  {
+    "title": "\"La pulpe et le jus\" de Laura Chomet, cocktail d'hypocondrie, de téléréalité et cancer",
+    "added_at": "2025-05-15T10:31:25.140Z"
+  },
+  {
+    "title": "Les pourparlers entre Kiev et Moscou décalés \"en deuxième partie de journée\"",
+    "added_at": "2025-05-15T10:33:14.547Z"
   }
 ]
