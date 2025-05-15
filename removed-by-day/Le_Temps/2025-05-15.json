@@ -23,7 +23,7 @@
   {
     "title": "suisse:::Le Tribunal fédéral, 150 ans d’histoire retracée à travers ses moments les plus marquants",
     "added_at": "2025-05-15T04:07:28.631Z",
-    "removed_at": "2025-05-15T17:13:48.388Z",
+    "removed_at": "2025-05-15T17:13:33.784Z",
     "duration_minutes": 786,
     "duration_str": "13h 6m"
   },
@@ -44,8 +44,9 @@
   {
     "title": "monde:::La crise budgétaire de l’ONU provoque un vent de «panique» au Haut-Commissariat aux droits de l’homme",
     "added_at": "2025-05-15T05:04:39.324Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-15T17:38:41.366Z",
+    "duration_minutes": 754,
+    "duration_str": "12h 34m"
   },
   {
     "title": "monde:::En direct – Avec ou sans Vladimir Poutine, les Occidentaux ont convaincu Volodymyr Zelensky de participer aux pourparlers à Istanbul",
@@ -131,8 +132,9 @@
   {
     "title": "economie:::Toujours dans le rouge, Cremo identifie des premiers signes de redressement",
     "added_at": "2025-05-15T10:08:49.068Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-15T17:38:41.366Z",
+    "duration_minutes": 450,
+    "duration_str": "7h 30m"
   },
   {
     "title": "monde:::En direct – Volodymyr Zelensky dénonce une «farce» avant des pourparlers en Turquie, Moscou le qualifie de «clown»",
@@ -143,8 +145,9 @@
   {
     "title": "suisse:::La grande réforme de l’AVS est lancée, et ça s’annonce compliqué",
     "added_at": "2025-05-15T11:01:31.628Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-15T17:38:41.366Z",
+    "duration_minutes": 397,
+    "duration_str": "6h 37m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Hamas accuse Israël de «saper» les efforts de médiation",
@@ -193,13 +196,46 @@
   },
   {
     "title": "suisse:::Mont-Terri: le Jura «attend des actes, pas des paroles»",
-    "added_at": "2025-05-15T17:13:48.388Z",
+    "added_at": "2025-05-15T17:13:33.784Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "economie:::Du lait à base de légumineuses suisses, le projet de Fabas Foods",
     "added_at": "2025-05-15T17:23:23.546Z",
+    "removed_at": "2025-05-15T17:29:12.675Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
+  },
+  {
+    "title": "economie:::Prix Sud 2025: Fabas Foods mise sur les légumineuses pour révolutionner le lait suisse",
+    "added_at": "2025-05-15T17:29:12.675Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Eurovision: la scintillante vitrine bâloise",
+    "added_at": "2025-05-15T17:38:41.366Z",
+    "removed_at": "2025-05-15T17:50:07.060Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "sport:::Sven Andrighetto et la Suisse surclassent l’Allemagne et glissent un patin vers les quarts de finale",
+    "added_at": "2025-05-15T17:38:41.366Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Pour l’Eurovision, Bâle brille de mille feux, au point de faire jalouser la voisine zurichoise",
+    "added_at": "2025-05-15T17:50:07.060Z",
+    "removed_at": "2025-05-15T17:59:38.689Z",
+    "duration_minutes": 10,
+    "duration_str": "10m"
+  },
+  {
+    "title": "suisse:::Pour l’Eurovision, Bâle brille... et fait grincer des dents à Zurich",
+    "added_at": "2025-05-15T17:59:38.689Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
