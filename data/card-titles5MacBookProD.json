@@ -26,7 +26,10 @@
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T10:29:58.735Z"
+    "added_at": "2025-05-09T10:29:58.735Z",
+    "removed_at": "2025-05-15T23:07:26.063Z",
+    "duration_minutes": 9397,
+    "duration_str": "6d 12h 37m"
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
@@ -284,9 +287,9 @@
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
     "added_at": "2025-05-09T10:32:57.100Z",
-    "removed_at": "2025-05-15T22:27:18.484Z",
-    "duration_minutes": 9354,
-    "duration_str": "6d 11h 54m"
+    "removed_at": "2025-05-15T23:26:27.604Z",
+    "duration_minutes": 9413,
+    "duration_str": "6d 12h 53m"
   },
   {
     "title": "En direct, nouveau pape : qui est Léon XIV, et que peut-on attendre de son pontificat ? Posez vos questions à nos journalistes",
@@ -304,10 +307,7 @@
   },
   {
     "title": "La première apparition du pape Léon XIV en images",
-    "added_at": "2025-05-09T10:42:14.805Z",
-    "removed_at": "2025-05-15T22:27:18.484Z",
-    "duration_minutes": 9345,
-    "duration_str": "6d 11h 45m"
+    "added_at": "2025-05-09T10:42:14.805Z"
   },
   {
     "title": "« Il est temps de réguler l’installation des médecins et de bâtir un vrai service public territorial de santé »",
@@ -6629,7 +6629,10 @@
   },
   {
     "title": "« La reconnaissance de l’Etat de Palestine par la France est désormais une urgence »",
-    "added_at": "2025-05-15T03:12:07.786Z"
+    "added_at": "2025-05-15T03:12:07.786Z",
+    "removed_at": "2025-05-15T23:26:27.604Z",
+    "duration_minutes": 1214,
+    "duration_str": "20h 14m"
   },
   {
     "title": "L’audition de François Bayrou sur l’affaire de Bétharram tourne à l’affrontement politique",
@@ -6740,7 +6743,10 @@
   },
   {
     "title": "L’attractivité économique de la France et de l’Europe flanche face aux Etats-Unis",
-    "added_at": "2025-05-15T05:16:05.577Z"
+    "added_at": "2025-05-15T05:16:05.577Z",
+    "removed_at": "2025-05-15T23:24:36.593Z",
+    "duration_minutes": 1088,
+    "duration_str": "18h 8m"
   },
   {
     "title": "L’acteur français Théo Navarro-Mussy, accusé de violences sexuelles, interdit de venir au Festival de Cannes, une décision inédite",
@@ -7292,10 +7298,7 @@
   },
   {
     "title": "Grande agitation dans les prisons françaises, en attendant la liste des 100 « plus dangereux » narcotrafiquants du gouvernement",
-    "added_at": "2025-05-15T12:23:40.579Z",
-    "removed_at": "2025-05-15T22:34:53.187Z",
-    "duration_minutes": 611,
-    "duration_str": "10h 11m"
+    "added_at": "2025-05-15T12:23:40.579Z"
   },
   {
     "title": "Bande de Gaza : plus de 100 personnes tuées dans des nouveaux bombardements israéliens",
@@ -7455,9 +7458,9 @@
   {
     "title": "Au procès Le Scouarnec, l’envie croissante des victimes de se faire entendre",
     "added_at": "2025-05-15T14:31:32.605Z",
-    "removed_at": "2025-05-15T22:34:53.187Z",
-    "duration_minutes": 483,
-    "duration_str": "8h 3m"
+    "removed_at": "2025-05-15T23:24:36.593Z",
+    "duration_minutes": 533,
+    "duration_str": "8h 53m"
   },
   {
     "title": "En Libye, trêve fragile après trois jours de violents combats à Tripoli",
@@ -7613,7 +7616,10 @@
   },
   {
     "title": "Guerre à Gaza : l’ONU ne participera pas à la distribution d’aide de la nouvelle fondation soutenue par Washington",
-    "added_at": "2025-05-15T17:44:24.550Z"
+    "added_at": "2025-05-15T17:44:24.550Z",
+    "removed_at": "2025-05-15T23:26:27.604Z",
+    "duration_minutes": 342,
+    "duration_str": "5h 42m"
   },
   {
     "title": "Les pourparlers entre délégations russe et ukrainienne se dérouleront en Turquie jeudi soir ou vendredi, selon Zelensky",
@@ -7726,5 +7732,9 @@
     "removed_at": "2025-05-15T21:26:11.346Z",
     "duration_minutes": 1,
     "duration_str": "1m"
+  },
+  {
+    "title": "Guerre à Gaza : l’OMS déplore la fermeture de l’hôpital européen de Khan Younès après les attaques récentes",
+    "added_at": "2025-05-15T23:26:27.604Z"
   }
 ]
