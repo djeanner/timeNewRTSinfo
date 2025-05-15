@@ -3994,7 +3994,10 @@
   },
   {
     "title": "monde:::En direct – La délégation russe est arrivée à Istanbul pour des négociations directes avec l'Ukraine",
-    "added_at": "2025-05-15T06:44:58.988Z"
+    "added_at": "2025-05-15T06:44:58.988Z",
+    "removed_at": "2025-05-15T09:00:52.958Z",
+    "duration_minutes": 135,
+    "duration_str": "2h 15m"
   },
   {
     "title": "sport:::Patrick Fischer, sélectionneur de l’équipe de Suisse de hockey: «Tout est une question d’équilibre»",
@@ -4007,5 +4010,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump affirme que les Etats-Unis devraient faire de Gaza une «zone de liberté»",
     "added_at": "2025-05-15T08:19:17.761Z"
+  },
+  {
+    "title": "monde:::En direct – Les pourparlers russo-ukrainiens auront lieu en deuxième partie de journée «à la demande» d'Ankara",
+    "added_at": "2025-05-15T09:00:52.958Z"
   }
 ]
