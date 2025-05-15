@@ -26,14 +26,14 @@
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-15T23:32:49.280Z",
+    "duration_minutes": 9391,
+    "duration_str": "6d 12h 31m"
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-15T23:06:24.131Z",
-    "duration_minutes": 9364,
-    "duration_str": "6d 12h 4m"
+    "added_at": "2025-05-09T11:01:45.077Z"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -308,9 +308,9 @@
   {
     "title": "La première apparition du pape Léon XIV en images",
     "added_at": "2025-05-09T11:07:52.917Z",
-    "removed_at": "2025-05-15T23:15:51.558Z",
-    "duration_minutes": 9367,
-    "duration_str": "6d 12h 7m"
+    "removed_at": "2025-05-15T23:32:49.280Z",
+    "duration_minutes": 9384,
+    "duration_str": "6d 12h 24m"
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
@@ -7586,7 +7586,10 @@
   },
   {
     "title": "« La pause de trois mois dans la bataille commerciale entre la Chine et les Etats-Unis offre un répit. Pour autant, la guerre n’est pas finie »",
-    "added_at": "2025-05-15T04:17:48.207Z"
+    "added_at": "2025-05-15T04:17:48.207Z",
+    "removed_at": "2025-05-15T23:29:00.233Z",
+    "duration_minutes": 1151,
+    "duration_str": "19h 11m"
   },
   {
     "title": "Les industriels français pris dans le bourbier des droits de douane américains",
@@ -7652,9 +7655,9 @@
   {
     "title": "Le décrochage économique français et européen s’aggrave",
     "added_at": "2025-05-15T05:38:51.236Z",
-    "removed_at": "2025-05-15T23:17:41.322Z",
-    "duration_minutes": 1058,
-    "duration_str": "17h 38m"
+    "removed_at": "2025-05-15T23:30:53.832Z",
+    "duration_minutes": 1072,
+    "duration_str": "17h 52m"
   },
   {
     "title": "Ministres et élus s’unissent pour relancer le chantier de l’autoroute A69, en contournant la justice",
@@ -8358,9 +8361,9 @@
   {
     "title": "Au procès Le Scouarnec, l’envie croissante des victimes de se faire entendre",
     "added_at": "2025-05-15T14:31:07.034Z",
-    "removed_at": "2025-05-15T23:13:55.983Z",
-    "duration_minutes": 522,
-    "duration_str": "8h 42m"
+    "removed_at": "2025-05-15T23:32:49.280Z",
+    "duration_minutes": 541,
+    "duration_str": "9h 1m"
   },
   {
     "title": "En Libye, trêve fragile après trois jours de violents combats à Tripoli",
@@ -8516,7 +8519,10 @@
   },
   {
     "title": "Guerre à Gaza : l’ONU ne participera pas à la distribution d’aide de la nouvelle fondation soutenue par Washington",
-    "added_at": "2025-05-15T17:43:44.229Z"
+    "added_at": "2025-05-15T17:43:44.229Z",
+    "removed_at": "2025-05-15T23:27:10.783Z",
+    "duration_minutes": 343,
+    "duration_str": "5h 43m"
   },
   {
     "title": "Les pourparlers entre délégations russe et ukrainienne se dérouleront en Turquie jeudi soir ou vendredi, selon Zelensky",
@@ -8629,5 +8635,9 @@
     "removed_at": "2025-05-15T21:26:29.161Z",
     "duration_minutes": 1,
     "duration_str": "1m"
+  },
+  {
+    "title": "Guerre à Gaza : l’OMS déplore la fermeture de l’hôpital européen de Khan Younès après les attaques récentes",
+    "added_at": "2025-05-15T23:27:10.783Z"
   }
 ]
