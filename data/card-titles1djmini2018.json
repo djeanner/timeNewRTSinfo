@@ -4772,7 +4772,10 @@
   },
   {
     "title": "L’armée pourrait remettre en état de tir d’anciennes forteresses d’artillerie",
-    "added_at": "2025-05-12T18:59:16.683Z"
+    "added_at": "2025-05-12T18:59:16.683Z",
+    "removed_at": "2025-05-15T04:34:45.205Z",
+    "duration_minutes": 3455,
+    "duration_str": "2d 9h 35m"
   },
   {
     "title": "Un radar épingle un canard en excès de vitesse à Köniz",
@@ -5287,5 +5290,9 @@
   {
     "title": "L'Iran serait prêt à accepter un accord sur le nucléaire contre la levée des sanctions américaines",
     "added_at": "2025-05-15T03:32:31.381Z"
+  },
+  {
+    "title": "Comment le changement démographique risque d'impacter le marché immobilier suisse",
+    "added_at": "2025-05-15T04:34:45.205Z"
   }
 ]
