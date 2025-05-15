@@ -4918,7 +4918,10 @@
   },
   {
     "title": "Première observation directe de courants d'eau sous l'Antarctique",
-    "added_at": "2025-05-13T10:06:48.514Z"
+    "added_at": "2025-05-13T10:06:48.514Z",
+    "removed_at": "2025-05-15T09:12:13.381Z",
+    "duration_minutes": 2825,
+    "duration_str": "1d 23h 5m"
   },
   {
     "title": "\"Il n'y a pas d'opacité\" dans les ventes aux enchères, toujours florissantes",
@@ -5347,5 +5350,16 @@
   {
     "title": "Le Conseil fédéral a dévoilé la clause de sauvegarde pour limiter l’immigration",
     "added_at": "2025-05-15T08:49:32.282Z"
+  },
+  {
+    "title": "La Défense civile palestinienne fait état de 50 morts jeudi à Gaza, après déjà 80 la veille",
+    "added_at": "2025-05-15T09:12:13.381Z",
+    "removed_at": "2025-05-15T09:19:42.842Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "La Défense civile palestinienne fait état de 80 morts jeudi à Gaza, après déjà 80 la veille",
+    "added_at": "2025-05-15T09:19:42.842Z"
   }
 ]
