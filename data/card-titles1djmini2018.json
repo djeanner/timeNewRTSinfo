@@ -5114,7 +5114,10 @@
   },
   {
     "title": "Donald Trump annonce la levée des sanctions contre la Syrie",
-    "added_at": "2025-05-13T20:11:11.688Z"
+    "added_at": "2025-05-13T20:11:11.688Z",
+    "removed_at": "2025-05-15T14:02:46.817Z",
+    "duration_minutes": 2511,
+    "duration_str": "1d 17h 51m"
   },
   {
     "title": "Le pape Léon XIV a appelé à la libération des journalistes emprisonnés",
@@ -5501,5 +5504,9 @@
   {
     "title": "Aide à mourir: pourquoi la France peine à franchir le pas",
     "added_at": "2025-05-15T13:55:16.325Z"
+  },
+  {
+    "title": "A Fribourg, une pétition réclame plus de moyens pour le service de l'enfance",
+    "added_at": "2025-05-15T14:02:46.817Z"
   }
 ]
