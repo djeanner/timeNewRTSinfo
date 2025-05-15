@@ -4807,7 +4807,10 @@
   },
   {
     "title": "L'armée songe à remettre certains bunkers en fonction",
-    "added_at": "2025-05-13T01:45:04.058Z"
+    "added_at": "2025-05-13T01:45:04.058Z",
+    "removed_at": "2025-05-15T10:54:04.733Z",
+    "duration_minutes": 3429,
+    "duration_str": "2d 9h 9m"
   },
   {
     "title": "La Russie est responsable du crash du vol MH17 en Ukraine en 2014, selon l'OACI",
@@ -5226,7 +5229,10 @@
   },
   {
     "title": "Riverdance à l'Eurovision, une prestation de danse irlandaise devenue culte",
-    "added_at": "2025-05-14T12:49:31.167Z"
+    "added_at": "2025-05-14T12:49:31.167Z",
+    "removed_at": "2025-05-15T10:54:04.733Z",
+    "duration_minutes": 1324,
+    "duration_str": "22h 4m"
   },
   {
     "title": "Guillaume Long: \"Je suis avant tout un gastronome, bien avant d'être dessinateur\"",
@@ -5317,10 +5323,7 @@
   },
   {
     "title": "Précision attendue sur la clause de sauvegarde, les explications de Pierre Nebel",
-    "added_at": "2025-05-14T22:51:37.226Z",
-    "removed_at": "2025-05-15T08:53:18.256Z",
-    "duration_minutes": 601,
-    "duration_str": "10h 1m"
+    "added_at": "2025-05-14T22:51:37.226Z"
   },
   {
     "title": "L'Union européenne a approuvé une nouvelle salve de sanctions contre la Russie et promet des mesures encore plus lourdes",
@@ -5403,5 +5406,9 @@
   {
     "title": "Les pourparlers entre Kiev et Moscou décalés \"en deuxième partie de journée\"",
     "added_at": "2025-05-15T10:33:14.547Z"
+  },
+  {
+    "title": "Les pressions de l'Union européenne sur la Russie ont-elles des effets? Interview de Cyrille Bret",
+    "added_at": "2025-05-15T10:54:04.733Z"
   }
 ]
