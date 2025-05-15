@@ -5008,7 +5008,10 @@
   },
   {
     "title": "Des tombes ont été vandalisées dans plusieurs cimetières valaisans",
-    "added_at": "2025-05-13T13:38:27.735Z"
+    "added_at": "2025-05-13T13:38:27.735Z",
+    "removed_at": "2025-05-15T12:58:40.896Z",
+    "duration_minutes": 2840,
+    "duration_str": "1d 23h 20m"
   },
   {
     "title": "Un policier tire sur un homme armé d'un couteau aux Pâquis à Genève",
@@ -5466,5 +5469,9 @@
   {
     "title": "Cremo affiche encore une perte, mais poursuit sa transformation",
     "added_at": "2025-05-15T12:49:10.822Z"
+  },
+  {
+    "title": "Critiquées pour leurs atteintes à l'environnement, les croisières continuent à augmenter",
+    "added_at": "2025-05-15T12:58:40.896Z"
   }
 ]
