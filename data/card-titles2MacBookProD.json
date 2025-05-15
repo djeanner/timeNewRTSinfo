@@ -5783,7 +5783,10 @@
   },
   {
     "title": "culture:::Ça déménage à la Villa Bernasconi, avec Delphine Reist et Laurent Faulon",
-    "added_at": "2025-05-15T05:48:28.124Z"
+    "added_at": "2025-05-15T05:48:28.124Z",
+    "removed_at": "2025-05-15T07:48:41.388Z",
+    "duration_minutes": 120,
+    "duration_str": "2h"
   },
   {
     "title": "economie:::Les avions chinois seront des concurrents sérieux pour Airbus et Boeing",
@@ -5792,5 +5795,9 @@
   {
     "title": "monde:::En direct – La délégation russe est arrivée à Istanbul pour des négociations directes avec l'Ukraine",
     "added_at": "2025-05-15T06:45:42.348Z"
+  },
+  {
+    "title": "sport:::Patrick Fischer, sélectionneur de l’équipe de Suisse de hockey: «Tout est une question d’équilibre»",
+    "added_at": "2025-05-15T07:48:41.388Z"
   }
 ]
