@@ -4939,7 +4939,10 @@
   },
   {
     "title": "La chanteuse jamaïcaine Grace Jones rejoint l'affiche du 59e Montreux Jazz Festival",
-    "added_at": "2025-05-13T11:50:44.403Z"
+    "added_at": "2025-05-13T11:50:44.403Z",
+    "removed_at": "2025-05-15T07:37:46.767Z",
+    "duration_minutes": 2627,
+    "duration_str": "1d 19h 47m"
   },
   {
     "title": "L'Allemagne dissout un mouvement complotiste et extrémiste, l'enquête mène jusqu'en Suisse",
@@ -5312,5 +5315,9 @@
   {
     "title": "La dernière \"Mission impossible\" de Tom Cruise présentée à Cannes",
     "added_at": "2025-05-15T07:01:59.232Z"
+  },
+  {
+    "title": "\"Le sommet\" de Christoph Marthaler, événement théâtral incontournable présenté à Vidy",
+    "added_at": "2025-05-15T07:37:46.767Z"
   }
 ]
