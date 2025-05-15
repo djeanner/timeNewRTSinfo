@@ -8043,7 +8043,10 @@
   },
   {
     "title": "Tom Cruise sur la Croisette pour le 8e volet de \"Mission impossible\"",
-    "added_at": "2025-05-14T11:29:29.004Z"
+    "added_at": "2025-05-14T11:29:29.004Z",
+    "removed_at": "2025-05-15T06:55:13.367Z",
+    "duration_minutes": 1165,
+    "duration_str": "19h 25m"
   },
   {
     "title": "Donald Trump demande au président syrien de normaliser les liens avec Israël",
@@ -8175,5 +8178,16 @@
   {
     "title": "Dengue et chikungunya pourraient devenir endémiques en Europe",
     "added_at": "2025-05-15T06:13:17.533Z"
+  },
+  {
+    "title": "La dernière \"Mission: Impossible\" de Tom Cruise présentée à Cannes",
+    "added_at": "2025-05-15T06:55:13.367Z",
+    "removed_at": "2025-05-15T07:00:56.045Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "La dernière \"Mission impossible\" de Tom Cruise présentée à Cannes",
+    "added_at": "2025-05-15T07:00:56.045Z"
   }
 ]

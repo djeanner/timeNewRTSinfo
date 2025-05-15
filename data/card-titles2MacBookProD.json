@@ -5706,7 +5706,10 @@
   },
   {
     "title": "culture:::Robert De Niro au Festival de Cannes, pour une rencontre phagocytée par l’artiste JR",
-    "added_at": "2025-05-14T18:58:07.112Z"
+    "added_at": "2025-05-14T18:58:07.112Z",
+    "removed_at": "2025-05-15T06:47:39.528Z",
+    "duration_minutes": 709,
+    "duration_str": "11h 49m"
   },
   {
     "title": "culture:::Cannes, jour 2: ce festival qui peut faire et défaire des carrières",
@@ -5762,7 +5765,10 @@
   },
   {
     "title": "monde:::Que sait-on des pourparlers de paix directs entre l’Ukraine et la Russie en Turquie?",
-    "added_at": "2025-05-15T04:47:32.189Z"
+    "added_at": "2025-05-15T04:47:32.189Z",
+    "removed_at": "2025-05-15T06:47:39.528Z",
+    "duration_minutes": 120,
+    "duration_str": "2h"
   },
   {
     "title": "monde:::La crise budgétaire de l’ONU provoque un vent de «panique» au Haut-Commissariat aux droits de l’homme",
@@ -5770,7 +5776,10 @@
   },
   {
     "title": "monde:::En direct – Avec ou sans Vladimir Poutine, les Occidentaux ont convaincu Volodymyr Zelensky de participer aux pourparlers à Istanbul",
-    "added_at": "2025-05-15T05:08:25.166Z"
+    "added_at": "2025-05-15T05:08:25.166Z",
+    "removed_at": "2025-05-15T06:45:42.348Z",
+    "duration_minutes": 97,
+    "duration_str": "1h 37m"
   },
   {
     "title": "culture:::Ça déménage à la Villa Bernasconi, avec Delphine Reist et Laurent Faulon",
@@ -5779,5 +5788,9 @@
   {
     "title": "economie:::Les avions chinois seront des concurrents sérieux pour Airbus et Boeing",
     "added_at": "2025-05-15T06:05:37.400Z"
+  },
+  {
+    "title": "monde:::En direct – La délégation russe est arrivée à Istanbul pour des négociations directes avec l'Ukraine",
+    "added_at": "2025-05-15T06:45:42.348Z"
   }
 ]
