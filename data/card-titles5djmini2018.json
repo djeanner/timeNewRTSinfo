@@ -26,14 +26,14 @@
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-15T06:22:21.175Z",
-    "duration_minutes": 8360,
-    "duration_str": "5d 19h 20m"
+    "added_at": "2025-05-09T11:01:45.077Z"
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-15T06:46:49.232Z",
+    "duration_minutes": 8385,
+    "duration_str": "5d 19h 45m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -307,14 +307,14 @@
   },
   {
     "title": "La première apparition du pape Léon XIV en images",
-    "added_at": "2025-05-09T11:07:52.917Z",
-    "removed_at": "2025-05-15T06:31:43.925Z",
-    "duration_minutes": 8363,
-    "duration_str": "5d 19h 23m"
+    "added_at": "2025-05-09T11:07:52.917Z"
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T11:11:38.599Z"
+    "added_at": "2025-05-09T11:11:38.599Z",
+    "removed_at": "2025-05-15T06:50:39.063Z",
+    "duration_minutes": 8379,
+    "duration_str": "5d 19h 39m"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -5152,9 +5152,9 @@
   {
     "title": "Frédérique Coulée, professeure de droit public : « Les droits français et européen protègent la liberté académique »",
     "added_at": "2025-05-13T04:32:52.771Z",
-    "removed_at": "2025-05-15T06:31:43.925Z",
-    "duration_minutes": 2998,
-    "duration_str": "2d 1h 58m"
+    "removed_at": "2025-05-15T06:44:59.567Z",
+    "duration_minutes": 3012,
+    "duration_str": "2d 2h 12m"
   },
   {
     "title": "« Les mathématiques semblent être le seul repère pour les sciences dans notre pays »",
@@ -6839,10 +6839,7 @@
   },
   {
     "title": "« Dans la diplomatie court-termiste de Donald Trump, tout se vaut pourvu que le deal soit conclu »",
-    "added_at": "2025-05-14T12:53:21.475Z",
-    "removed_at": "2025-05-15T06:35:29.289Z",
-    "duration_minutes": 1062,
-    "duration_str": "17h 42m"
+    "added_at": "2025-05-14T12:53:21.475Z"
   },
   {
     "title": "La transparence financière des comptes publics, un écueil depuis 1825",
@@ -6956,9 +6953,9 @@
   {
     "title": "Comment la guerre commerciale entre les Etats-Unis et la Chine a fait plonger le transport maritime mondial",
     "added_at": "2025-05-14T14:12:23.963Z",
-    "removed_at": "2025-05-15T06:35:29.289Z",
-    "duration_minutes": 983,
-    "duration_str": "16h 23m"
+    "removed_at": "2025-05-15T06:48:43.056Z",
+    "duration_minutes": 996,
+    "duration_str": "16h 36m"
   },
   {
     "title": "L’armée israélienne continue de bombarder la bande de Gaza, au moins 80 morts ce mercredi, selon la défense civile palestinienne",
@@ -7686,7 +7683,10 @@
   },
   {
     "title": "Une délégation russe sans Poutine ni Lavrov se rendra aujourd’hui en Turquie pour les négociations avec l’Ukraine",
-    "added_at": "2025-05-15T06:03:24.467Z"
+    "added_at": "2025-05-15T06:03:24.467Z",
+    "removed_at": "2025-05-15T06:37:24.599Z",
+    "duration_minutes": 34,
+    "duration_str": "34m"
   },
   {
     "title": "Vencorex : « La solution coopérative demeure largement ignorée par les pouvoirs publics »",
@@ -7707,5 +7707,9 @@
   {
     "title": "« L’Inde apparaît relativement isolée comparé au Pakistan »",
     "added_at": "2025-05-15T06:28:00.388Z"
+  },
+  {
+    "title": "Une délégation russe est arrivée en Turquie pour les premières discussions directes, sans intermédiaire, avec l’Ukraine depuis 2022",
+    "added_at": "2025-05-15T06:37:24.599Z"
   }
 ]
