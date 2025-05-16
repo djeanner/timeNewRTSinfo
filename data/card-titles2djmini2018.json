@@ -4274,7 +4274,10 @@
   },
   {
     "title": "sciences:::KJ, le bébé superstar qui trace la voie vers la modification personnalisée du génome",
-    "added_at": "2025-05-16T04:49:22.210Z"
+    "added_at": "2025-05-16T04:49:22.210Z",
+    "removed_at": "2025-05-16T14:00:15.548Z",
+    "duration_minutes": 550,
+    "duration_str": "9h 10m"
   },
   {
     "title": "suisse:::Les élections cantonales jurassiennes prennent des airs d’opération «coup de balai»",
@@ -4392,7 +4395,10 @@
   },
   {
     "title": "monde:::En direct – La réunion à Istanbul entre Russes et Ukrainiens est terminée",
-    "added_at": "2025-05-16T12:40:54.500Z"
+    "added_at": "2025-05-16T12:40:54.500Z",
+    "removed_at": "2025-05-16T13:58:26.039Z",
+    "duration_minutes": 77,
+    "duration_str": "1h 17m"
   },
   {
     "title": "suisse:::Fribourg ne doit pas avoir de salaire minimum, tranche le Conseil d’Etat",
@@ -4405,5 +4411,13 @@
   {
     "title": "cyber:::Malgré le succès d’Assassin’s Creed Shadows, Ubisoft s’effondre en bourse",
     "added_at": "2025-05-16T13:37:36.082Z"
+  },
+  {
+    "title": "monde:::En direct – Kiev et Moscou s’entendent sur un échange de 1000 prisonniers de chaque camp",
+    "added_at": "2025-05-16T13:58:26.039Z"
+  },
+  {
+    "title": "monde:::Donald Trump dans le Golfe? Retour de tournée d’un «prince occidental»",
+    "added_at": "2025-05-16T14:00:15.548Z"
   }
 ]

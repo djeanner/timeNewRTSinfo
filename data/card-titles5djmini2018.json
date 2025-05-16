@@ -26,14 +26,14 @@
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-16T13:31:56.913Z",
-    "duration_minutes": 10230,
-    "duration_str": "7d 2h 30m"
+    "added_at": "2025-05-09T11:01:45.077Z"
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-16T13:58:26.648Z",
+    "duration_minutes": 10256,
+    "duration_str": "7d 2h 56m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -7598,7 +7598,10 @@
   },
   {
     "title": "« La pause de trois mois dans la bataille commerciale entre la Chine et les Etats-Unis offre un répit. Pour autant, la guerre n’est pas finie »",
-    "added_at": "2025-05-15T04:17:48.207Z"
+    "added_at": "2025-05-15T04:17:48.207Z",
+    "removed_at": "2025-05-16T14:00:16.141Z",
+    "duration_minutes": 2022,
+    "duration_str": "1d 9h 42m"
   },
   {
     "title": "Les industriels français pris dans le bourbier des droits de douane américains",
@@ -9081,9 +9084,9 @@
   {
     "title": "Près d’une jeune femme sur cinq ne se définit pas comme hétérosexuelle en France : « Même maintenant je n’arrive pas à savoir si je suis plus attirée par les filles ou les garçons »",
     "added_at": "2025-05-16T07:31:19.628Z",
-    "removed_at": "2025-05-16T13:37:36.674Z",
-    "duration_minutes": 366,
-    "duration_str": "6h 6m"
+    "removed_at": "2025-05-16T13:58:26.648Z",
+    "duration_minutes": 387,
+    "duration_str": "6h 27m"
   },
   {
     "title": "Ressortissants français détenus en Iran : la France dépose plainte devant la Cour internationale de justice, annonce Jean-Noël Barrot",
@@ -9095,9 +9098,9 @@
   {
     "title": "Les drones de combat exacerbent la violence dans un Soudan en pleine guerre civile",
     "added_at": "2025-05-16T07:55:52.133Z",
-    "removed_at": "2025-05-16T13:41:26.717Z",
-    "duration_minutes": 345,
-    "duration_str": "5h 45m"
+    "removed_at": "2025-05-16T13:58:26.648Z",
+    "duration_minutes": 362,
+    "duration_str": "6h 2m"
   },
   {
     "title": "L’armée israélienne continue de bombarder la bande de Gaza, plus de 50 personnes tuées, selon la défense civile palestinienne",
@@ -9150,7 +9153,10 @@
   },
   {
     "title": "Au procès de Joël Le Scouarnec, l’accusé vu par les experts : « Une structure perverse comme la sienne, c’est la première fois que je vois ça »",
-    "added_at": "2025-05-16T08:59:59.986Z"
+    "added_at": "2025-05-16T08:59:59.986Z",
+    "removed_at": "2025-05-16T13:58:26.648Z",
+    "duration_minutes": 298,
+    "duration_str": "4h 58m"
   },
   {
     "title": "« Sanofi aurait tort d’oublier ce qu’il doit à la France »",
@@ -9506,7 +9512,10 @@
   },
   {
     "title": "Le point sur la guerre en Ukraine : la réunion à Istanbul entre délégations russe et ukrainienne est « terminée »",
-    "added_at": "2025-05-16T12:37:09.686Z"
+    "added_at": "2025-05-16T12:37:09.686Z",
+    "removed_at": "2025-05-16T13:52:47.524Z",
+    "duration_minutes": 75,
+    "duration_str": "1h 15m"
   },
   {
     "title": "Le Conseil de l’Europe dénonce « une famine délibérée » dans la bande de Gaza",
@@ -9550,5 +9559,16 @@
     "removed_at": "2025-05-16T12:59:49.343Z",
     "duration_minutes": 1,
     "duration_str": "1m"
+  },
+  {
+    "title": "En direct : Macron, Merz, Starmer et Tusk avec Zelensky à Tirana, en marge des négociations entre délégations russo-ukrainiennes en Turquie",
+    "added_at": "2025-05-16T13:52:47.524Z",
+    "removed_at": "2025-05-16T13:54:37.245Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "En direct : Macron, Merz, Starmer et Tusk avec Zelensky à Tirana, en marge des discussions en Turquie entre délégations russo-ukrainiennes",
+    "added_at": "2025-05-16T13:54:37.245Z"
   }
 ]
