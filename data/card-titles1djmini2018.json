@@ -5479,7 +5479,10 @@
   },
   {
     "title": "Précision attendue sur la clause de sauvegarde, les explications de Pierre Nebel",
-    "added_at": "2025-05-14T22:51:37.226Z"
+    "added_at": "2025-05-14T22:51:37.226Z",
+    "removed_at": "2025-05-16T15:57:22.619Z",
+    "duration_minutes": 2465,
+    "duration_str": "1d 17h 5m"
   },
   {
     "title": "L'Union européenne a approuvé une nouvelle salve de sanctions contre la Russie et promet des mesures encore plus lourdes",
@@ -5574,7 +5577,10 @@
   },
   {
     "title": "Les pressions de l'Union européenne sur la Russie ont-elles des effets? Interview de Cyrille Bret",
-    "added_at": "2025-05-15T10:54:04.733Z"
+    "added_at": "2025-05-15T10:54:04.733Z",
+    "removed_at": "2025-05-16T15:53:33.351Z",
+    "duration_minutes": 1739,
+    "duration_str": "1d 4h 59m"
   },
   {
     "title": "Travail facilité après 65 ans et retraite anticipée moins attractive, le Conseil fédéral donne ses pistes pour l'AVS",
@@ -5661,10 +5667,7 @@
   },
   {
     "title": "L'école obligatoire vaudoise lance une enquête approfondie sur son fonctionnement",
-    "added_at": "2025-05-15T15:52:19.759Z",
-    "removed_at": "2025-05-16T15:42:13.582Z",
-    "duration_minutes": 1429,
-    "duration_str": "23h 49m"
+    "added_at": "2025-05-15T15:52:19.759Z"
   },
   {
     "title": "La Suisse maîtrise son sujet",
@@ -5804,9 +5807,9 @@
   {
     "title": "La Matinale - Présenté par Valérie Hauert",
     "added_at": "2025-05-16T08:56:14.523Z",
-    "removed_at": "2025-05-16T15:40:23.956Z",
-    "duration_minutes": 404,
-    "duration_str": "6h 44m"
+    "removed_at": "2025-05-16T15:47:54.487Z",
+    "duration_minutes": 411,
+    "duration_str": "6h 51m"
   },
   {
     "title": "\"Dossier 137\" de Dominik Moll et \"Sirât\" avec Sergi López présentés en compétition",
@@ -5884,7 +5887,10 @@
   },
   {
     "title": "Les négociateurs russe et ukrainien évoquent un possible cessez-le-feu et une rencontre Poutine-Zelensky",
-    "added_at": "2025-05-16T14:38:05.299Z"
+    "added_at": "2025-05-16T14:38:05.299Z",
+    "removed_at": "2025-05-16T15:44:09.319Z",
+    "duration_minutes": 66,
+    "duration_str": "1h 6m"
   },
   {
     "title": "L'Asloca lance une initiative pour contrer la hausse des loyers",
@@ -5896,21 +5902,18 @@
   },
   {
     "title": "Eurovision: des manifestations ont eu lieu contre la participation d'Israël",
-    "added_at": "2025-05-16T15:27:09.567Z",
-    "removed_at": "2025-05-16T15:42:13.582Z",
-    "duration_minutes": 15,
-    "duration_str": "15m"
+    "added_at": "2025-05-16T15:27:09.567Z"
   },
   {
     "title": "Le Conseil Fédéral présente ses pistes pour réformer l'AVS",
-    "added_at": "2025-05-16T15:27:09.567Z",
-    "removed_at": "2025-05-16T15:42:13.582Z",
-    "duration_minutes": 15,
-    "duration_str": "15m"
+    "added_at": "2025-05-16T15:27:09.567Z"
   },
   {
     "title": "Les nouvelles normes pour lutter contre les bruits routiers sont plus strictes",
-    "added_at": "2025-05-16T15:27:09.567Z"
+    "added_at": "2025-05-16T15:27:09.567Z",
+    "removed_at": "2025-05-16T15:44:09.319Z",
+    "duration_minutes": 16,
+    "duration_str": "16m"
   },
   {
     "title": "Interview de l'artiste Nemo qui nous a offert l'Eurovision",
@@ -5931,5 +5934,9 @@
   {
     "title": "L'assaillant de l'écrivain Salman Rushdie condamné à 25 ans de prison",
     "added_at": "2025-05-16T15:38:27.885Z"
+  },
+  {
+    "title": "Les négociateurs russes et ukrainiens évoquent un possible cessez-le-feu et une rencontre Poutine-Zelensky",
+    "added_at": "2025-05-16T15:44:09.319Z"
   }
 ]
