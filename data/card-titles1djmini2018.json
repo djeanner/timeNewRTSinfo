@@ -5790,7 +5790,10 @@
   },
   {
     "title": "A Payerne, la population s’oppose à l’implantation de l’usine Swisspor, qui produit de la laine de pierre",
-    "added_at": "2025-05-16T08:56:14.523Z"
+    "added_at": "2025-05-16T08:56:14.523Z",
+    "removed_at": "2025-05-16T14:51:12.829Z",
+    "duration_minutes": 354,
+    "duration_str": "5h 54m"
   },
   {
     "title": "La Matinale - Présenté par Valérie Hauert",
@@ -5861,10 +5864,17 @@
   },
   {
     "title": "Les négociateurs russe et ukrainien évoquent un possible cessez-le-feu et une rencontre entre Poutine et Zelensky",
-    "added_at": "2025-05-16T14:21:05.971Z"
+    "added_at": "2025-05-16T14:21:05.971Z",
+    "removed_at": "2025-05-16T14:38:05.299Z",
+    "duration_minutes": 16,
+    "duration_str": "16m"
   },
   {
     "title": "Swiss annule 1400 vols à cause d'un manque de pilotes",
     "added_at": "2025-05-16T14:24:49.556Z"
+  },
+  {
+    "title": "Les négociateurs russe et ukrainien évoquent un possible cessez-le-feu et une rencontre Poutine-Zelensky",
+    "added_at": "2025-05-16T14:38:05.299Z"
   }
 ]
