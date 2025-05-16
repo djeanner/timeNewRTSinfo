@@ -8356,7 +8356,10 @@
   },
   {
     "title": "Précision attendue sur la clause de sauvegarde, les explications de Pierre Nebel",
-    "added_at": "2025-05-14T22:50:47.656Z"
+    "added_at": "2025-05-14T22:50:47.656Z",
+    "removed_at": "2025-05-16T15:58:01.621Z",
+    "duration_minutes": 2467,
+    "duration_str": "1d 17h 7m"
   },
   {
     "title": "L'Union européenne a approuvé une nouvelle salve de sanctions contre la Russie et promet des mesures encore plus lourdes",
@@ -8451,7 +8454,10 @@
   },
   {
     "title": "Les pressions de l'Union européenne sur la Russie ont-elles des effets? Interview de Cyrille Bret",
-    "added_at": "2025-05-15T10:53:57.801Z"
+    "added_at": "2025-05-15T10:53:57.801Z",
+    "removed_at": "2025-05-16T15:54:13.757Z",
+    "duration_minutes": 1740,
+    "duration_str": "1d 5h"
   },
   {
     "title": "Travail facilité après 65 ans et retraite anticipée moins attractive, le Conseil fédéral donne ses pistes pour l'AVS",
@@ -8538,10 +8544,7 @@
   },
   {
     "title": "L'école obligatoire vaudoise lance une enquête approfondie sur son fonctionnement",
-    "added_at": "2025-05-15T15:51:47.974Z",
-    "removed_at": "2025-05-16T15:46:29.604Z",
-    "duration_minutes": 1434,
-    "duration_str": "23h 54m"
+    "added_at": "2025-05-15T15:51:47.974Z"
   },
   {
     "title": "La Suisse maîtrise son sujet",
@@ -8780,10 +8783,7 @@
   },
   {
     "title": "Le Conseil Fédéral présente ses pistes pour réformer l'AVS",
-    "added_at": "2025-05-16T15:27:28.397Z",
-    "removed_at": "2025-05-16T15:44:38.246Z",
-    "duration_minutes": 17,
-    "duration_str": "17m"
+    "added_at": "2025-05-16T15:27:28.397Z"
   },
   {
     "title": "Les nouvelles normes pour lutter contre les bruits routiers sont plus strictes",
@@ -8815,5 +8815,9 @@
   {
     "title": "Les négociateurs russes et ukrainiens évoquent un possible cessez-le-feu et une rencontre Poutine-Zelensky",
     "added_at": "2025-05-16T15:44:38.246Z"
+  },
+  {
+    "title": "TikTok au cœur du débat démocratique entourant la présidentielle en Roumanie",
+    "added_at": "2025-05-16T16:13:18.813Z"
   }
 ]
