@@ -8220,7 +8220,10 @@
   },
   {
     "title": "La police fribourgeoise teste sa première voiture d'intervention 100% électrique",
-    "added_at": "2025-05-14T13:41:47.815Z"
+    "added_at": "2025-05-14T13:41:47.815Z",
+    "removed_at": "2025-05-16T09:51:01.175Z",
+    "duration_minutes": 2649,
+    "duration_str": "1d 20h 9m"
   },
   {
     "title": "Après avoir renforcé ses frontières, Washington accueille 49 réfugiés blancs sud-africains",
@@ -8247,7 +8250,10 @@
   },
   {
     "title": "L'exposition \"Humanilia\" explore les liens entre humains et animaux dans l'art contemporain",
-    "added_at": "2025-05-14T14:44:24.942Z"
+    "added_at": "2025-05-14T14:44:24.942Z",
+    "removed_at": "2025-05-16T09:52:56.093Z",
+    "duration_minutes": 2588,
+    "duration_str": "1d 19h 8m"
   },
   {
     "title": "Antonio Hodgers aura droit à une pension à vie de 12'300 francs par mois",
@@ -8613,10 +8619,7 @@
   },
   {
     "title": "A Payerne, la population s’oppose à l’implantation de l’usine Swisspor, qui produit de la laine de pierre",
-    "added_at": "2025-05-16T08:55:35.632Z",
-    "removed_at": "2025-05-16T09:41:22.819Z",
-    "duration_minutes": 45,
-    "duration_str": "45m"
+    "added_at": "2025-05-16T08:55:35.632Z"
   },
   {
     "title": "La Matinale - Présenté par Valérie Hauert",
@@ -8625,5 +8628,20 @@
   {
     "title": "\"Dossier 137\" de Dominik Moll et \"Sirât\" avec Sergi López présentés en compétition",
     "added_at": "2025-05-16T09:33:43.746Z"
+  },
+  {
+    "title": "Vladimir Poutine poussé dans les cordes par une économie russe en difficulté",
+    "added_at": "2025-05-16T09:51:01.175Z"
+  },
+  {
+    "title": "L'assainissement des sols lausannois pollués aux dioxines \"pourraient s'étaler sur plusieurs années\"",
+    "added_at": "2025-05-16T09:52:56.093Z"
+  },
+  {
+    "title": "Le recrutement du nouveau chef de l'armée se fera parmi une cinquantaine d'officiers",
+    "added_at": "2025-05-16T10:34:55.235Z",
+    "removed_at": "2025-05-16T10:36:46.300Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
   }
 ]
