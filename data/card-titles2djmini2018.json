@@ -4303,7 +4303,10 @@
   },
   {
     "title": "economie:::Une semaine d’étude de quatre jours: les formations en ingénierie innovent pour relancer les vocations",
-    "added_at": "2025-05-16T07:50:12.863Z"
+    "added_at": "2025-05-16T07:50:12.863Z",
+    "removed_at": "2025-05-16T17:22:20.553Z",
+    "duration_minutes": 572,
+    "duration_str": "9h 32m"
   },
   {
     "title": "culture:::En images – La deuxième demi-finale de l’Eurovision",
@@ -4375,7 +4378,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Conseil de l’Europe dénonce «une famine délibérée» à Gaza",
-    "added_at": "2025-05-16T11:32:55.867Z"
+    "added_at": "2025-05-16T11:32:55.867Z",
+    "removed_at": "2025-05-16T17:22:20.553Z",
+    "duration_minutes": 349,
+    "duration_str": "5h 49m"
   },
   {
     "title": "culture:::Raphael Hefti: plasticien: «Je veux pousser la matière vers des limites inexplorées»",
@@ -4465,5 +4471,13 @@
   {
     "title": "monde:::Comment Israël viole les Conventions de Genève à Gaza",
     "added_at": "2025-05-16T16:33:11.217Z"
+  },
+  {
+    "title": "culture:::Festival de Cannes, jour 4: deux cinéastes iraniens aux choix opposés dans la course à la Palme d’or",
+    "added_at": "2025-05-16T17:22:20.553Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’armée israélienne aurait ordonné l’évacuation du nord de Gaza",
+    "added_at": "2025-05-16T17:22:20.553Z"
   }
 ]
