@@ -5045,7 +5045,10 @@
   },
   {
     "title": "Un policier tire sur un homme armé d'un couteau aux Pâquis, à Genève",
-    "added_at": "2025-05-13T14:20:03.688Z"
+    "added_at": "2025-05-13T14:20:03.688Z",
+    "removed_at": "2025-05-15T23:53:30.101Z",
+    "duration_minutes": 3453,
+    "duration_str": "2d 9h 33m"
   },
   {
     "title": "Mobilisation sans précédent sur la politique OGM de Migros",
@@ -5359,7 +5362,10 @@
   },
   {
     "title": "Le Premier ministre israélien Benjamin Netanyahu veut la guerre \"jusqu'au bout\" à Gaza",
-    "added_at": "2025-05-14T17:49:34.938Z"
+    "added_at": "2025-05-14T17:49:34.938Z",
+    "removed_at": "2025-05-15T23:53:30.101Z",
+    "duration_minutes": 1803,
+    "duration_str": "1d 6h 3m"
   },
   {
     "title": "Affaire Bétharram: François Bayrou entendu devant une commission d'enquête parlementaire",
@@ -5623,5 +5629,9 @@
   {
     "title": "Le projet d'usine Swisspor à Payerne inquiète la population",
     "added_at": "2025-05-15T21:37:47.560Z"
+  },
+  {
+    "title": "Le Conseil fédéral donne ses pistes d'orientation pour l'AVS",
+    "added_at": "2025-05-15T23:53:30.101Z"
   }
 ]
