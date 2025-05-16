@@ -4113,7 +4113,10 @@
   },
   {
     "title": "suisse:::La grande réforme de l’AVS est lancée, et ça s’annonce compliqué",
-    "added_at": "2025-05-15T11:01:33.092Z"
+    "added_at": "2025-05-15T11:01:33.092Z",
+    "removed_at": "2025-05-16T11:29:10.835Z",
+    "duration_minutes": 1467,
+    "duration_str": "1d 27m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Hamas accuse Israël de «saper» les efforts de médiation",
@@ -4237,7 +4240,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Pourparlers à Istanbul entre l’Iran et trois pays européens",
-    "added_at": "2025-05-16T02:31:47.484Z"
+    "added_at": "2025-05-16T02:31:47.484Z",
+    "removed_at": "2025-05-16T11:32:55.867Z",
+    "duration_minutes": 541,
+    "duration_str": "9h 1m"
   },
   {
     "title": "culture:::Les «Brouillons» de Georg Christoph Lichtenberg, grand esprit des Lumières, sont enfin intégralement traduits en français",
@@ -4305,7 +4311,10 @@
   },
   {
     "title": "economie:::Dans le dédale du service après-vente horloger",
-    "added_at": "2025-05-16T08:44:50.746Z"
+    "added_at": "2025-05-16T08:44:50.746Z",
+    "removed_at": "2025-05-16T11:42:24.515Z",
+    "duration_minutes": 177,
+    "duration_str": "2h 57m"
   },
   {
     "title": "cyber:::Les cyberarnaques financières font perdre des millions aux entreprises romandes. Pourquoi font-elles encore de tels dégâts?",
@@ -4329,5 +4338,17 @@
   {
     "title": "monde:::En direct – Débuts des pourparlers directs en Russes et Ukrainiens à Istanbul",
     "added_at": "2025-05-16T11:17:50.693Z"
+  },
+  {
+    "title": "culture:::A Genève, la passion Mahler anime le grand chef Ivan Fischer",
+    "added_at": "2025-05-16T11:29:10.835Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le Conseil de l’Europe dénonce «une famine délibérée» à Gaza",
+    "added_at": "2025-05-16T11:32:55.867Z"
+  },
+  {
+    "title": "culture:::Raphael Hefti: plasticien: «Je veux pousser la matière vers des limites inexplorées»",
+    "added_at": "2025-05-16T11:42:24.515Z"
   }
 ]
