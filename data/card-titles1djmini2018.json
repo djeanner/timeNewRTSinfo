@@ -5359,7 +5359,10 @@
   },
   {
     "title": "Après avoir renforcé ses frontières, Washington accueille 49 réfugiés blancs sud-africains",
-    "added_at": "2025-05-14T13:59:08.447Z"
+    "added_at": "2025-05-14T13:59:08.447Z",
+    "removed_at": "2025-05-16T11:02:45.087Z",
+    "duration_minutes": 2703,
+    "duration_str": "1d 21h 3m"
   },
   {
     "title": "La Fête de la danse investit des lieux insolites en Suisse pour ses vingt ans",
@@ -5757,10 +5760,7 @@
   },
   {
     "title": "A Payerne, la population s’oppose à l’implantation de l’usine Swisspor, qui produit de la laine de pierre",
-    "added_at": "2025-05-16T08:56:14.523Z",
-    "removed_at": "2025-05-16T10:53:11.605Z",
-    "duration_minutes": 116,
-    "duration_str": "1h 56m"
+    "added_at": "2025-05-16T08:56:14.523Z"
   },
   {
     "title": "La Matinale - Présenté par Valérie Hauert",
@@ -5785,5 +5785,9 @@
   {
     "title": "Plus de 270 morts ces trois derniers jours à Gaza, selon la Défense civile palestinienne",
     "added_at": "2025-05-16T10:53:11.605Z"
+  },
+  {
+    "title": "Tir d'un loup isolé ordonné par les cantons de Vaud et de Neuchâtel",
+    "added_at": "2025-05-16T11:02:45.087Z"
   }
 ]
