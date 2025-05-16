@@ -5450,7 +5450,10 @@
   },
   {
     "title": "Affaire Bétharram: François Bayrou entendu devant une commission d'enquête parlementaire",
-    "added_at": "2025-05-14T18:29:19.896Z"
+    "added_at": "2025-05-14T18:29:19.896Z",
+    "removed_at": "2025-05-16T15:38:27.885Z",
+    "duration_minutes": 2709,
+    "duration_str": "1d 21h 9m"
   },
   {
     "title": "La baignade dans la Seine ouverte au grand public à partir du 5 juillet",
@@ -5659,9 +5662,9 @@
   {
     "title": "L'école obligatoire vaudoise lance une enquête approfondie sur son fonctionnement",
     "added_at": "2025-05-15T15:52:19.759Z",
-    "removed_at": "2025-05-15T19:14:22.730Z",
-    "duration_minutes": 202,
-    "duration_str": "3h 22m"
+    "removed_at": "2025-05-16T15:42:13.582Z",
+    "duration_minutes": 1429,
+    "duration_str": "23h 49m"
   },
   {
     "title": "La Suisse maîtrise son sujet",
@@ -5796,14 +5799,14 @@
   },
   {
     "title": "A Payerne, la population s’oppose à l’implantation de l’usine Swisspor, qui produit de la laine de pierre",
-    "added_at": "2025-05-16T08:56:14.523Z",
-    "removed_at": "2025-05-16T15:25:13.947Z",
-    "duration_minutes": 388,
-    "duration_str": "6h 28m"
+    "added_at": "2025-05-16T08:56:14.523Z"
   },
   {
     "title": "La Matinale - Présenté par Valérie Hauert",
-    "added_at": "2025-05-16T08:56:14.523Z"
+    "added_at": "2025-05-16T08:56:14.523Z",
+    "removed_at": "2025-05-16T15:40:23.956Z",
+    "duration_minutes": 404,
+    "duration_str": "6h 44m"
   },
   {
     "title": "\"Dossier 137\" de Dominik Moll et \"Sirât\" avec Sergi López présentés en compétition",
@@ -5886,5 +5889,47 @@
   {
     "title": "L'Asloca lance une initiative pour contrer la hausse des loyers",
     "added_at": "2025-05-16T15:04:28.824Z"
+  },
+  {
+    "title": "Accords sur la migration Suisse-UE: dans quelles conditions la Suisse peut-elle activer les clauses de sauvegarde?",
+    "added_at": "2025-05-16T15:27:09.567Z"
+  },
+  {
+    "title": "Eurovision: des manifestations ont eu lieu contre la participation d'Israël",
+    "added_at": "2025-05-16T15:27:09.567Z",
+    "removed_at": "2025-05-16T15:42:13.582Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "Le Conseil Fédéral présente ses pistes pour réformer l'AVS",
+    "added_at": "2025-05-16T15:27:09.567Z",
+    "removed_at": "2025-05-16T15:42:13.582Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "Les nouvelles normes pour lutter contre les bruits routiers sont plus strictes",
+    "added_at": "2025-05-16T15:27:09.567Z"
+  },
+  {
+    "title": "Interview de l'artiste Nemo qui nous a offert l'Eurovision",
+    "added_at": "2025-05-16T15:29:05.171Z"
+  },
+  {
+    "title": "Hockey sur glace: la Suisse affronte l'Allemagne au championnat du monde",
+    "added_at": "2025-05-16T15:29:05.171Z"
+  },
+  {
+    "title": "La participation d'Israël à l'Eurovision: interview de Jean-Marc Richard",
+    "added_at": "2025-05-16T15:30:54.762Z"
+  },
+  {
+    "title": "Les négociations entre l'Ukraine et la Russie débutent à Istanbul",
+    "added_at": "2025-05-16T15:36:33.946Z"
+  },
+  {
+    "title": "L'assaillant de l'écrivain Salman Rushdie condamné à 25 ans de prison",
+    "added_at": "2025-05-16T15:38:27.885Z"
   }
 ]
