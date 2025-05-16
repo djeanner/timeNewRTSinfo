@@ -5446,7 +5446,10 @@
   },
   {
     "title": "Vivant, l'intérieur de Vénus possède encore de l'activité tectonique",
-    "added_at": "2025-05-14T20:09:24.948Z"
+    "added_at": "2025-05-14T20:09:24.948Z",
+    "removed_at": "2025-05-16T13:39:30.066Z",
+    "duration_minutes": 2490,
+    "duration_str": "1d 17h 30m"
   },
   {
     "title": "Vladimir Poutine sera représenté par une délégation en Turquie pour des pourparlers avec Kiev",
@@ -5831,5 +5834,9 @@
   {
     "title": "Des enfants partent à la découverte d'une icône jurassienne, la saucisse d'Ajoie",
     "added_at": "2025-05-16T12:40:54.445Z"
+  },
+  {
+    "title": "Des ONG dénoncent le manque d'engagement de la Suisse dans la lutte internationale pour le climat",
+    "added_at": "2025-05-16T13:39:30.066Z"
   }
 ]
