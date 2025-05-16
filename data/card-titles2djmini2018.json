@@ -2210,7 +2210,10 @@
   },
   {
     "title": "economie:::L’industrie de défense romande cherche sa place dans le mouvement de réarmement européen",
-    "added_at": "2025-05-08T18:24:28.975Z"
+    "added_at": "2025-05-08T18:24:28.975Z",
+    "removed_at": "2025-05-16T12:23:54.369Z",
+    "duration_minutes": 11159,
+    "duration_str": "7d 17h 59m"
   },
   {
     "title": "monde:::Le fentanyl, au cœur des discussions de Genève entre Chine et Etats-Unis",
@@ -4127,7 +4130,10 @@
   },
   {
     "title": "suisse:::L’Université de Genève ferme un bâtiment occupé par des manifestants pro-palestiniens",
-    "added_at": "2025-05-15T13:10:01.961Z"
+    "added_at": "2025-05-15T13:10:01.961Z",
+    "removed_at": "2025-05-16T12:31:27.108Z",
+    "duration_minutes": 1401,
+    "duration_str": "23h 21m"
   },
   {
     "title": "economie:::Gestion de fortune: les clients asiatiques en mode «wait & see»",
@@ -4326,7 +4332,10 @@
   },
   {
     "title": "economie:::Les dépenses militaires explosent pendant que l’Europe reconstruit ses capacités de défense",
-    "added_at": "2025-05-16T09:37:41.537Z"
+    "added_at": "2025-05-16T09:37:41.537Z",
+    "removed_at": "2025-05-16T12:23:54.369Z",
+    "duration_minutes": 166,
+    "duration_str": "2h 46m"
   },
   {
     "title": "monde:::En direct – Kiev accuse Moscou de bloquer la participation américaine aux négociations",
@@ -4337,11 +4346,17 @@
   },
   {
     "title": "monde:::En direct – Débuts des pourparlers directs en Russes et Ukrainiens à Istanbul",
-    "added_at": "2025-05-16T11:17:50.693Z"
+    "added_at": "2025-05-16T11:17:50.693Z",
+    "removed_at": "2025-05-16T12:31:27.108Z",
+    "duration_minutes": 73,
+    "duration_str": "1h 13m"
   },
   {
     "title": "culture:::A Genève, la passion Mahler anime le grand chef Ivan Fischer",
-    "added_at": "2025-05-16T11:29:10.835Z"
+    "added_at": "2025-05-16T11:29:10.835Z",
+    "removed_at": "2025-05-16T12:23:54.369Z",
+    "duration_minutes": 54,
+    "duration_str": "54m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Conseil de l’Europe dénonce «une famine délibérée» à Gaza",
@@ -4354,5 +4369,13 @@
   {
     "title": "economie:::L’appel de Richemont: «L’horlogerie doit se discipliner»",
     "added_at": "2025-05-16T12:18:12.013Z"
+  },
+  {
+    "title": "monde:::En direct – Russes et Ukrainiens sont en pourparlers directs à Istanbul",
+    "added_at": "2025-05-16T12:31:27.108Z"
+  },
+  {
+    "title": "culture:::La dessinatrice Sarah Najjar, d’art et décès",
+    "added_at": "2025-05-16T12:31:27.108Z"
   }
 ]
