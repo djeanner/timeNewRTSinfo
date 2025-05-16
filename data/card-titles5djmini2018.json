@@ -26,14 +26,14 @@
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-16T06:31:04.699Z",
+    "duration_minutes": 9809,
+    "duration_str": "6d 19h 29m"
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-16T06:17:50.375Z",
-    "duration_minutes": 9796,
-    "duration_str": "6d 19h 16m"
+    "added_at": "2025-05-09T11:01:45.077Z"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -307,14 +307,14 @@
   },
   {
     "title": "La première apparition du pape Léon XIV en images",
-    "added_at": "2025-05-09T11:07:52.917Z",
-    "removed_at": "2025-05-16T06:21:35.278Z",
-    "duration_minutes": 9793,
-    "duration_str": "6d 19h 13m"
+    "added_at": "2025-05-09T11:07:52.917Z"
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T11:11:38.599Z"
+    "added_at": "2025-05-09T11:11:38.599Z",
+    "removed_at": "2025-05-16T06:36:42.829Z",
+    "duration_minutes": 9805,
+    "duration_str": "6d 19h 25m"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -7586,10 +7586,7 @@
   },
   {
     "title": "« La pause de trois mois dans la bataille commerciale entre la Chine et les Etats-Unis offre un répit. Pour autant, la guerre n’est pas finie »",
-    "added_at": "2025-05-15T04:17:48.207Z",
-    "removed_at": "2025-05-16T06:17:50.375Z",
-    "duration_minutes": 1560,
-    "duration_str": "1d 2h"
+    "added_at": "2025-05-15T04:17:48.207Z"
   },
   {
     "title": "Les industriels français pris dans le bourbier des droits de douane américains",
@@ -8608,10 +8605,7 @@
   },
   {
     "title": "« Les éditeurs de sites sont face au spectre d’un Web créé par et pour les IA »",
-    "added_at": "2025-05-15T18:30:59.253Z",
-    "removed_at": "2025-05-16T06:21:35.278Z",
-    "duration_minutes": 710,
-    "duration_str": "11h 50m"
+    "added_at": "2025-05-15T18:30:59.253Z"
   },
   {
     "title": "La mort de Daniel Bilalian, journaliste au service de la télévision publique pendant près d’un demi-siècle",
@@ -8745,7 +8739,10 @@
   },
   {
     "title": "Affaires et paix : la doctrine Trump à l’épreuve des réalités au Moyen-Orient",
-    "added_at": "2025-05-16T03:41:35.150Z"
+    "added_at": "2025-05-16T03:41:35.150Z",
+    "removed_at": "2025-05-16T06:27:16.036Z",
+    "duration_minutes": 165,
+    "duration_str": "2h 45m"
   },
   {
     "title": "Le « péché originel » de Joe Biden continue de hanter la politique américaine",
@@ -8799,7 +8796,10 @@
   },
   {
     "title": "Cannes 2025 : Robert De Niro, un vieux rebelle sur la Croisette",
-    "added_at": "2025-05-16T05:00:41.247Z"
+    "added_at": "2025-05-16T05:00:41.247Z",
+    "removed_at": "2025-05-16T06:31:04.699Z",
+    "duration_minutes": 90,
+    "duration_str": "1h 30m"
   },
   {
     "title": "« Sinners », ou le vampire suceur de blues",
@@ -8864,5 +8864,9 @@
   {
     "title": "Quatre ex-militaires du régiment de Castres portent plainte pour violences et harcèlement moral contre leurs supérieurs",
     "added_at": "2025-05-16T06:21:35.278Z"
+  },
+  {
+    "title": "Affaires et paix : la nouvelle doctrine Trump pour le Moyen-Orient",
+    "added_at": "2025-05-16T06:27:16.036Z"
   }
 ]
