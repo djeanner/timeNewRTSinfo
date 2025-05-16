@@ -30,7 +30,10 @@
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-16T08:01:30.978Z",
+    "duration_minutes": 9899,
+    "duration_str": "6d 20h 59m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -305,16 +308,13 @@
   {
     "title": "La première apparition du pape Léon XIV en images",
     "added_at": "2025-05-09T11:07:52.917Z",
-    "removed_at": "2025-05-16T07:33:15.207Z",
-    "duration_minutes": 9865,
-    "duration_str": "6d 20h 25m"
+    "removed_at": "2025-05-16T07:57:41.802Z",
+    "duration_minutes": 9889,
+    "duration_str": "6d 20h 49m"
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T11:11:38.599Z",
-    "removed_at": "2025-05-16T07:40:43.259Z",
-    "duration_minutes": 9869,
-    "duration_str": "6d 20h 29m"
+    "added_at": "2025-05-09T11:11:38.599Z"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -7586,10 +7586,7 @@
   },
   {
     "title": "« La pause de trois mois dans la bataille commerciale entre la Chine et les Etats-Unis offre un répit. Pour autant, la guerre n’est pas finie »",
-    "added_at": "2025-05-15T04:17:48.207Z",
-    "removed_at": "2025-05-16T07:46:22.242Z",
-    "duration_minutes": 1648,
-    "duration_str": "1d 3h 28m"
+    "added_at": "2025-05-15T04:17:48.207Z"
   },
   {
     "title": "Les industriels français pris dans le bourbier des droits de douane américains",
@@ -8859,7 +8856,10 @@
   },
   {
     "title": "Le chômage atteint 7,4 % en France, après une légère hausse au premier trimestre 2025, selon l’Insee",
-    "added_at": "2025-05-16T06:02:49.743Z"
+    "added_at": "2025-05-16T06:02:49.743Z",
+    "removed_at": "2025-05-16T07:55:52.133Z",
+    "duration_minutes": 113,
+    "duration_str": "1h 53m"
   },
   {
     "title": "« Il est essentiel de reconnaître la médecine de l’adolescence comme une spécialité à part entière »",
@@ -8900,7 +8900,10 @@
   },
   {
     "title": "« Fatigué », le maire écologiste d’Annecy, François Astorg, ne se représente pas",
-    "added_at": "2025-05-16T07:01:08.973Z"
+    "added_at": "2025-05-16T07:01:08.973Z",
+    "removed_at": "2025-05-16T07:55:52.133Z",
+    "duration_minutes": 54,
+    "duration_str": "54m"
   },
   {
     "title": "Le point sur la guerre en Ukraine : une réunion entre Russes et Ukrainiens, sous médiation de la Turquie, devrait avoir lieu ce matin",
@@ -9039,5 +9042,27 @@
   {
     "title": "Près d’une jeune femme sur cinq ne se définit pas comme hétérosexuelle en France : « Même maintenant je n’arrive pas à savoir si je suis plus attirée par les filles ou les garçons »",
     "added_at": "2025-05-16T07:31:19.628Z"
+  },
+  {
+    "title": "Ressortissants français détenus en Iran : la France dépose plainte devant la Cour internationale de justice, annonce Jean-Noël Barrot",
+    "added_at": "2025-05-16T07:55:52.133Z",
+    "removed_at": "2025-05-16T08:03:20.455Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Les drones de combat exacerbent la violence dans un Soudan en pleine guerre civile",
+    "added_at": "2025-05-16T07:55:52.133Z",
+    "removed_at": "2025-05-16T08:03:20.455Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "L’armée israélienne continue de bombarder la bande de Gaza, plus de 50 personnes tuées, selon la défense civile palestinienne",
+    "added_at": "2025-05-16T08:03:20.455Z"
+  },
+  {
+    "title": "Chômage : malgré une très légère hausse au premier trimestre, plusieurs tendances plutôt positives",
+    "added_at": "2025-05-16T08:03:20.455Z"
   }
 ]
