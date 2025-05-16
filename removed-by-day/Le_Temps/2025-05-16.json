@@ -79,8 +79,9 @@
   {
     "title": "sport:::Gil Mayencourt, historien: «La gymnastique est un ciment national d’importation»",
     "added_at": "2025-05-16T08:10:54.666Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-16T14:01:23.350Z",
+    "duration_minutes": 350,
+    "duration_str": "5h 50m"
   },
   {
     "title": "sciences:::Des plateformes flottantes pour abriter les nids des oiseaux des lacs",
@@ -118,14 +119,14 @@
   {
     "title": "monde:::En direct – Débuts des pourparlers directs en Russes et Ukrainiens à Istanbul",
     "added_at": "2025-05-16T11:17:50.693Z",
-    "removed_at": "2025-05-16T12:31:32.455Z",
+    "removed_at": "2025-05-16T12:31:27.108Z",
     "duration_minutes": 74,
     "duration_str": "1h 14m"
   },
   {
     "title": "culture:::A Genève, la passion Mahler anime le grand chef Ivan Fischer",
     "added_at": "2025-05-16T11:28:23.286Z",
-    "removed_at": "2025-05-16T12:23:58.908Z",
+    "removed_at": "2025-05-16T12:23:54.369Z",
     "duration_minutes": 56,
     "duration_str": "56m"
   },
@@ -138,8 +139,9 @@
   {
     "title": "culture:::Raphael Hefti: plasticien: «Je veux pousser la matière vers des limites inexplorées»",
     "added_at": "2025-05-16T11:41:51.258Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-16T13:17:22.364Z",
+    "duration_minutes": 96,
+    "duration_str": "1h 36m"
   },
   {
     "title": "economie:::L’appel de Richemont: «L’horlogerie doit se discipliner»",
@@ -149,26 +151,51 @@
   },
   {
     "title": "monde:::En direct – Russes et Ukrainiens sont en pourparlers directs à Istanbul",
-    "added_at": "2025-05-16T12:31:32.455Z",
-    "removed_at": "2025-05-16T12:41:06.825Z",
-    "duration_minutes": 10,
-    "duration_str": "10m"
+    "added_at": "2025-05-16T12:31:27.108Z",
+    "removed_at": "2025-05-16T12:40:54.500Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
   },
   {
     "title": "culture:::La dessinatrice Sarah Najjar, d’art et décès",
-    "added_at": "2025-05-16T12:31:32.455Z",
+    "added_at": "2025-05-16T12:31:27.108Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "monde:::En direct – La réunion à Istanbul entre Russes et Ukrainiens est terminée",
-    "added_at": "2025-05-16T12:41:06.825Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-05-16T12:40:54.500Z",
+    "removed_at": "2025-05-16T13:57:30.856Z",
+    "duration_minutes": 77,
+    "duration_str": "1h 17m"
   },
   {
     "title": "suisse:::Fribourg ne doit pas avoir de salaire minimum, tranche le Conseil d’Etat",
     "added_at": "2025-05-16T13:09:42.300Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "culture:::Série: «Murderbot», le robot qui en avait marre d’obéir",
+    "added_at": "2025-05-16T13:17:22.364Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "cyber:::Malgré le succès d’Assassin’s Creed Shadows, Ubisoft s’effondre en bourse",
+    "added_at": "2025-05-16T13:38:24.273Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct – Kiev et Moscou s’entendent sur un échange de 1000 prisonniers de chaque camp",
+    "added_at": "2025-05-16T13:57:30.856Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Donald Trump dans le Golfe? Retour de tournée d’un «prince occidental»",
+    "added_at": "2025-05-16T14:01:23.350Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
