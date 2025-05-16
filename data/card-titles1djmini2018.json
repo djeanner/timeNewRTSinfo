@@ -5343,7 +5343,10 @@
   },
   {
     "title": "La police fribourgeoise teste sa première voiture d'intervention 100% électrique",
-    "added_at": "2025-05-14T13:42:09.460Z"
+    "added_at": "2025-05-14T13:42:09.460Z",
+    "removed_at": "2025-05-16T09:50:49.833Z",
+    "duration_minutes": 2648,
+    "duration_str": "1d 20h 8m"
   },
   {
     "title": "Après avoir renforcé ses frontières, Washington accueille 49 réfugiés blancs sud-africains",
@@ -5370,7 +5373,10 @@
   },
   {
     "title": "L'exposition \"Humanilia\" explore les liens entre humains et animaux dans l'art contemporain",
-    "added_at": "2025-05-14T14:44:26.296Z"
+    "added_at": "2025-05-14T14:44:26.296Z",
+    "removed_at": "2025-05-16T09:52:43.728Z",
+    "duration_minutes": 2588,
+    "duration_str": "1d 19h 8m"
   },
   {
     "title": "Antonio Hodgers aura droit à une pension à vie de 12'300 francs par mois",
@@ -5737,9 +5743,9 @@
   {
     "title": "A Payerne, la population s’oppose à l’implantation de l’usine Swisspor, qui produit de la laine de pierre",
     "added_at": "2025-05-16T08:56:14.523Z",
-    "removed_at": "2025-05-16T09:41:24.409Z",
-    "duration_minutes": 45,
-    "duration_str": "45m"
+    "removed_at": "2025-05-16T10:02:08.077Z",
+    "duration_minutes": 65,
+    "duration_str": "1h 5m"
   },
   {
     "title": "La Matinale - Présenté par Valérie Hauert",
@@ -5748,5 +5754,13 @@
   {
     "title": "\"Dossier 137\" de Dominik Moll et \"Sirât\" avec Sergi López présentés en compétition",
     "added_at": "2025-05-16T09:33:52.452Z"
+  },
+  {
+    "title": "Vladimir Poutine poussé dans les cordes par une économie russe en difficulté",
+    "added_at": "2025-05-16T09:50:49.833Z"
+  },
+  {
+    "title": "L'assainissement des sols lausannois pollués aux dioxines \"pourraient s'étaler sur plusieurs années\"",
+    "added_at": "2025-05-16T09:52:43.728Z"
   }
 ]
