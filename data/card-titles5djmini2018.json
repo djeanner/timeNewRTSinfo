@@ -314,7 +314,10 @@
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T11:11:38.599Z"
+    "added_at": "2025-05-09T11:11:38.599Z",
+    "removed_at": "2025-05-16T22:26:04.531Z",
+    "duration_minutes": 10754,
+    "duration_str": "7d 11h 14m"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -7599,9 +7602,9 @@
   {
     "title": "« La pause de trois mois dans la bataille commerciale entre la Chine et les Etats-Unis offre un répit. Pour autant, la guerre n’est pas finie »",
     "added_at": "2025-05-15T04:17:48.207Z",
-    "removed_at": "2025-05-16T22:12:52.083Z",
-    "duration_minutes": 2515,
-    "duration_str": "1d 17h 55m"
+    "removed_at": "2025-05-16T22:29:49.489Z",
+    "duration_minutes": 2532,
+    "duration_str": "1d 18h 12m"
   },
   {
     "title": "Les industriels français pris dans le bourbier des droits de douane américains",
@@ -9098,7 +9101,10 @@
   },
   {
     "title": "Près d’une jeune femme sur cinq ne se définit pas comme hétérosexuelle en France : « Même maintenant je n’arrive pas à savoir si je suis plus attirée par les filles ou les garçons »",
-    "added_at": "2025-05-16T07:31:19.628Z"
+    "added_at": "2025-05-16T07:31:19.628Z",
+    "removed_at": "2025-05-16T22:27:59.839Z",
+    "duration_minutes": 896,
+    "duration_str": "14h 56m"
   },
   {
     "title": "Ressortissants français détenus en Iran : la France dépose plainte devant la Cour internationale de justice, annonce Jean-Noël Barrot",
@@ -9109,10 +9115,7 @@
   },
   {
     "title": "Les drones de combat exacerbent la violence dans un Soudan en pleine guerre civile",
-    "added_at": "2025-05-16T07:55:52.133Z",
-    "removed_at": "2025-05-16T22:12:52.083Z",
-    "duration_minutes": 856,
-    "duration_str": "14h 16m"
+    "added_at": "2025-05-16T07:55:52.133Z"
   },
   {
     "title": "L’armée israélienne continue de bombarder la bande de Gaza, plus de 50 personnes tuées, selon la défense civile palestinienne",
@@ -9165,10 +9168,7 @@
   },
   {
     "title": "Au procès de Joël Le Scouarnec, l’accusé vu par les experts : « Une structure perverse comme la sienne, c’est la première fois que je vois ça »",
-    "added_at": "2025-05-16T08:59:59.986Z",
-    "removed_at": "2025-05-16T22:11:02.673Z",
-    "duration_minutes": 791,
-    "duration_str": "13h 11m"
+    "added_at": "2025-05-16T08:59:59.986Z"
   },
   {
     "title": "« Sanofi aurait tort d’oublier ce qu’il doit à la France »",
@@ -9897,7 +9897,10 @@
   },
   {
     "title": "Guerre en Ukraine : les Européens préparent des sanctions contre la Russie « en coordination » avec les Etats-Unis, selon Emmanuel Macron",
-    "added_at": "2025-05-16T20:42:22.193Z"
+    "added_at": "2025-05-16T20:42:22.193Z",
+    "removed_at": "2025-05-16T22:14:47.406Z",
+    "duration_minutes": 92,
+    "duration_str": "1h 32m"
   },
   {
     "title": "Guerre en Ukraine : les Européens préparent des sanctions contre la Russie « en coordination » avec les Etats-Unis, selon Emmanuel Macron",
@@ -9926,5 +9929,9 @@
     "removed_at": "2025-05-16T22:11:02.673Z",
     "duration_minutes": 79,
     "duration_str": "1h 19m"
+  },
+  {
+    "title": "L’Ukraine et la Russie échouent à s’accorder sur un cessez-le-feu à Istanbul",
+    "added_at": "2025-05-16T22:14:47.406Z"
   }
 ]
