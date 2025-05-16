@@ -4274,10 +4274,7 @@
   },
   {
     "title": "sciences:::KJ, le bébé superstar qui trace la voie vers la modification personnalisée du génome",
-    "added_at": "2025-05-16T04:49:22.210Z",
-    "removed_at": "2025-05-16T14:00:15.548Z",
-    "duration_minutes": 550,
-    "duration_str": "9h 10m"
+    "added_at": "2025-05-16T04:49:22.210Z"
   },
   {
     "title": "suisse:::Les élections cantonales jurassiennes prennent des airs d’opération «coup de balai»",
@@ -4315,7 +4312,10 @@
   },
   {
     "title": "sport:::Gil Mayencourt, historien: «La gymnastique est un ciment national d’importation»",
-    "added_at": "2025-05-16T08:10:54.666Z"
+    "added_at": "2025-05-16T08:10:54.666Z",
+    "removed_at": "2025-05-16T14:02:10.897Z",
+    "duration_minutes": 351,
+    "duration_str": "5h 51m"
   },
   {
     "title": "sciences:::Des plateformes flottantes pour abriter les nids des oiseaux des lacs",
@@ -4410,7 +4410,10 @@
   },
   {
     "title": "cyber:::Malgré le succès d’Assassin’s Creed Shadows, Ubisoft s’effondre en bourse",
-    "added_at": "2025-05-16T13:37:36.082Z"
+    "added_at": "2025-05-16T13:37:36.082Z",
+    "removed_at": "2025-05-16T14:09:45.734Z",
+    "duration_minutes": 32,
+    "duration_str": "32m"
   },
   {
     "title": "monde:::En direct – Kiev et Moscou s’entendent sur un échange de 1000 prisonniers de chaque camp",
@@ -4419,5 +4422,9 @@
   {
     "title": "monde:::Donald Trump dans le Golfe? Retour de tournée d’un «prince occidental»",
     "added_at": "2025-05-16T14:00:15.548Z"
+  },
+  {
+    "title": "cyber:::Malgré le succès d’«Assassin’s Creed Shadows», Ubisoft s’effondre en bourse",
+    "added_at": "2025-05-16T14:09:45.734Z"
   }
 ]
