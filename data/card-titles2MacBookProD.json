@@ -1450,7 +1450,10 @@
   },
   {
     "title": "economie:::Les dépenses militaires explosent pendant que l’Europe reconstruit ses capacités de défense",
-    "added_at": "2025-04-28T14:52:54.066Z"
+    "added_at": "2025-04-28T14:52:54.066Z",
+    "removed_at": "2025-05-16T12:23:58.908Z",
+    "duration_minutes": 25771,
+    "duration_str": "17d 21h 31m"
   },
   {
     "title": "suisse:::Philippe Matthias Brey sera le nouveau patron du Centre",
@@ -4314,7 +4317,10 @@
   },
   {
     "title": "economie:::L’industrie de défense romande cherche sa place dans le mouvement de réarmement européen",
-    "added_at": "2025-05-08T18:25:10.371Z"
+    "added_at": "2025-05-08T18:25:10.371Z",
+    "removed_at": "2025-05-16T12:23:58.908Z",
+    "duration_minutes": 11158,
+    "duration_str": "7d 17h 58m"
   },
   {
     "title": "monde:::Le fentanyl, au cœur des discussions de Genève entre Chine et Etats-Unis",
@@ -5930,7 +5936,10 @@
   },
   {
     "title": "suisse:::L’Université de Genève ferme un bâtiment occupé par des manifestants pro-palestiniens",
-    "added_at": "2025-05-15T13:09:30.504Z"
+    "added_at": "2025-05-15T13:09:30.504Z",
+    "removed_at": "2025-05-16T12:31:32.455Z",
+    "duration_minutes": 1402,
+    "duration_str": "23h 22m"
   },
   {
     "title": "economie:::Gestion de fortune: les clients asiatiques en mode «wait & see»",
@@ -6092,7 +6101,10 @@
   },
   {
     "title": "suisse:::«Mensonges», «perte de crédibilité pour la profession»: l’Hôpital universitaire de Zurich secoué par un soupçon de fraude au sein de la clinique d’urologie",
-    "added_at": "2025-05-16T07:50:31.462Z"
+    "added_at": "2025-05-16T07:50:31.462Z",
+    "removed_at": "2025-05-16T13:09:42.300Z",
+    "duration_minutes": 319,
+    "duration_str": "5h 19m"
   },
   {
     "title": "sport:::Gil Mayencourt, historien: «La gymnastique est un ciment national d’importation»",
@@ -6129,11 +6141,17 @@
   },
   {
     "title": "monde:::En direct – Débuts des pourparlers directs en Russes et Ukrainiens à Istanbul",
-    "added_at": "2025-05-16T11:18:50.189Z"
+    "added_at": "2025-05-16T11:18:50.189Z",
+    "removed_at": "2025-05-16T12:31:32.455Z",
+    "duration_minutes": 72,
+    "duration_str": "1h 12m"
   },
   {
     "title": "culture:::A Genève, la passion Mahler anime le grand chef Ivan Fischer",
-    "added_at": "2025-05-16T11:28:23.286Z"
+    "added_at": "2025-05-16T11:28:23.286Z",
+    "removed_at": "2025-05-16T12:23:58.908Z",
+    "duration_minutes": 55,
+    "duration_str": "55m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Conseil de l’Europe dénonce «une famine délibérée» à Gaza",
@@ -6146,5 +6164,24 @@
   {
     "title": "economie:::L’appel de Richemont: «L’horlogerie doit se discipliner»",
     "added_at": "2025-05-16T12:18:09.756Z"
+  },
+  {
+    "title": "monde:::En direct – Russes et Ukrainiens sont en pourparlers directs à Istanbul",
+    "added_at": "2025-05-16T12:31:32.455Z",
+    "removed_at": "2025-05-16T12:41:06.825Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "culture:::La dessinatrice Sarah Najjar, d’art et décès",
+    "added_at": "2025-05-16T12:31:32.455Z"
+  },
+  {
+    "title": "monde:::En direct – La réunion à Istanbul entre Russes et Ukrainiens est terminée",
+    "added_at": "2025-05-16T12:41:06.825Z"
+  },
+  {
+    "title": "suisse:::Fribourg ne doit pas avoir de salaire minimum, tranche le Conseil d’Etat",
+    "added_at": "2025-05-16T13:09:42.300Z"
   }
 ]
