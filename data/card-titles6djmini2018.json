@@ -2929,7 +2929,10 @@
   },
   {
     "title": "Suspect in attack on author Salman Rushdie sentenced to 25 years in prison",
-    "added_at": "2025-05-16T17:39:20.421Z"
+    "added_at": "2025-05-16T17:39:20.421Z",
+    "removed_at": "2025-05-16T19:34:24.200Z",
+    "duration_minutes": 115,
+    "duration_str": "1h 55m"
   },
   {
     "title": "NJ Transit workers go on strike after wage increase talks stall",
@@ -2942,5 +2945,9 @@
   {
     "title": "Israel launches strikes on two Yemen ports",
     "added_at": "2025-05-16T18:32:08.735Z"
+  },
+  {
+    "title": "Attacker who stabbed author Salman Rushdie sentenced to 25 years in prison",
+    "added_at": "2025-05-16T19:34:24.200Z"
   }
 ]
