@@ -26,14 +26,14 @@
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T10:29:58.735Z",
-    "removed_at": "2025-05-16T13:57:31.153Z",
-    "duration_minutes": 10287,
-    "duration_str": "7d 3h 27m"
+    "added_at": "2025-05-09T10:29:58.735Z"
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T10:29:58.735Z"
+    "added_at": "2025-05-09T10:29:58.735Z",
+    "removed_at": "2025-05-16T14:47:19.512Z",
+    "duration_minutes": 10337,
+    "duration_str": "7d 4h 17m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -287,9 +287,9 @@
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
     "added_at": "2025-05-09T10:32:57.100Z",
-    "removed_at": "2025-05-16T14:01:23.646Z",
-    "duration_minutes": 10288,
-    "duration_str": "7d 3h 28m"
+    "removed_at": "2025-05-16T14:51:05.615Z",
+    "duration_minutes": 10338,
+    "duration_str": "7d 4h 18m"
   },
   {
     "title": "En direct, nouveau pape : qui est Léon XIV, et que peut-on attendre de son pontificat ? Posez vos questions à nos journalistes",
@@ -7592,7 +7592,10 @@
   },
   {
     "title": "Dans les Pouilles, la Maison Manara fait l’éloge de la lenteur",
-    "added_at": "2025-05-15T16:12:44.160Z"
+    "added_at": "2025-05-15T16:12:44.160Z",
+    "removed_at": "2025-05-16T14:51:05.615Z",
+    "duration_minutes": 1358,
+    "duration_str": "22h 38m"
   },
   {
     "title": "En Côte d’Ivoire, l’Etat financera l’élection présidentielle sans l’aide des bailleurs de fonds",
@@ -8018,7 +8021,10 @@
   },
   {
     "title": "Affaires et paix : la nouvelle doctrine Trump pour le Moyen-Orient",
-    "added_at": "2025-05-16T06:26:35.377Z"
+    "added_at": "2025-05-16T06:26:35.377Z",
+    "removed_at": "2025-05-16T14:53:02.995Z",
+    "duration_minutes": 506,
+    "duration_str": "8h 26m"
   },
   {
     "title": "Une réunion entre Russes et Ukrainiens, sous médiation de la Turquie, devrait débuter dans la matinée",
@@ -8180,10 +8186,7 @@
   },
   {
     "title": "Près d’une jeune femme sur cinq ne se définit pas comme hétérosexuelle en France : « Même maintenant je n’arrive pas à savoir si je suis plus attirée par les filles ou les garçons »",
-    "added_at": "2025-05-16T07:31:31.761Z",
-    "removed_at": "2025-05-16T14:03:14.753Z",
-    "duration_minutes": 391,
-    "duration_str": "6h 31m"
+    "added_at": "2025-05-16T07:31:31.761Z"
   },
   {
     "title": "Ressortissants français détenus en Iran : la France dépose plainte devant la Cour internationale de justice, annonce Jean-Noël Barrot",
@@ -8663,10 +8666,21 @@
   },
   {
     "title": "En direct : Macron, Merz, Starmer et Tusk avec Zelensky à Tirana, en marge des discussions en Turquie entre délégations russo-ukrainiennes",
-    "added_at": "2025-05-16T13:53:42.238Z"
+    "added_at": "2025-05-16T13:53:42.238Z",
+    "removed_at": "2025-05-16T14:22:28.814Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
   },
   {
     "title": "« Relations », de François Clementz : la chronique « philosophie » de Roger-Pol Droit",
     "added_at": "2025-05-16T14:01:23.646Z"
+  },
+  {
+    "title": "En direct : Macron, Merz, Starmer et Tusk avec Zelensky à Tirana, en marge des discussions russo-ukrainiennes en Turquie",
+    "added_at": "2025-05-16T14:22:28.814Z"
+  },
+  {
+    "title": "Quand les étudiants en mode réfléchissent à l’impact environnemental des vêtements",
+    "added_at": "2025-05-16T14:51:05.615Z"
   }
 ]
