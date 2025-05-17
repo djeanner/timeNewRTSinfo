@@ -3202,7 +3202,10 @@
   },
   {
     "title": "Tornadoes kill 21 in US states of Missouri and Kentucky",
-    "added_at": "2025-05-17T13:54:31.599Z"
+    "added_at": "2025-05-17T13:54:31.599Z",
+    "removed_at": "2025-05-17T16:08:35.830Z",
+    "duration_minutes": 134,
+    "duration_str": "2h 14m"
   },
   {
     "title": "4 dead children pulled from Gaza’s rubble as Israel kills at least 41",
@@ -3225,5 +3228,9 @@
   {
     "title": "4 dead children pulled from Gaza’s rubble as Israel kills at least 66",
     "added_at": "2025-05-17T15:08:10.840Z"
+  },
+  {
+    "title": "Storms kill at least 21 in US states of Missouri and Kentucky",
+    "added_at": "2025-05-17T16:08:35.830Z"
   }
 ]

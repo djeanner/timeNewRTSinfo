@@ -10171,7 +10171,10 @@
   },
   {
     "title": "Storms and Tornadoes Kill at Least 21 in Kentucky and Missouri",
-    "added_at": "2025-05-17T12:52:10.966Z"
+    "added_at": "2025-05-17T12:52:10.966Z",
+    "removed_at": "2025-05-17T16:12:25.199Z",
+    "duration_minutes": 200,
+    "duration_str": "3h 20m"
   },
   {
     "title": "The Reality of the New N.B.A. Caught Up With the Celtics",
@@ -10204,5 +10207,9 @@
   {
     "title": "Russian Drone Attack Kills 9 on Civilian Bus in Ukraine",
     "added_at": "2025-05-17T15:42:08.202Z"
+  },
+  {
+    "title": "At Least 23 Dead After Tornadoes and Storms Tear Through 3 States",
+    "added_at": "2025-05-17T16:12:25.199Z"
   }
 ]
