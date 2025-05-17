@@ -91,9 +91,8 @@
   {
     "title": "« Tout le monde devrait se sentir bienvenu dans l’eau » : le surf est-il réac ?",
     "added_at": "2025-05-17T04:12:08.249Z",
-    "removed_at": "2025-05-17T14:44:53.271Z",
-    "duration_minutes": 633,
-    "duration_str": "10h 33m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Jason Furman, ancien conseiller de Barack Obama : « Donald Trump poursuit des objectifs économiques contradictoires »",
@@ -132,8 +131,9 @@
   {
     "title": "Au Salon du meuble de Milan, entre passé fantasmé et nostalgie du futur",
     "added_at": "2025-05-17T05:13:17.609Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-17T16:07:15.000Z",
+    "duration_minutes": 654,
+    "duration_str": "10h 54m"
   },
   {
     "title": "L’armée israélienne annonce avoir lancé des « frappes d’envergure » sur Gaza, « dans le but d’atteindre tous les objectifs de la guerre »",
@@ -329,9 +329,8 @@
   {
     "title": "CPI : le procureur Karim Khan, à l’origine d’un mandat d’arrêt contre Nétanyahou, se met en retrait de son poste",
     "added_at": "2025-05-17T09:58:27.642Z",
-    "removed_at": "2025-05-17T14:19:05.487Z",
-    "duration_minutes": 261,
-    "duration_str": "4h 21m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Les proches de Djamel Bendjaballah luttent pour obtenir la reconnaissance du caractère identitaire de son meurtre : « C’était pas un accident, c’est raciste »",
@@ -466,7 +465,7 @@
   {
     "title": "Guerre à Gaza : l’armée israélienne lance une nouvelle offensive terrestre massive",
     "added_at": "2025-05-17T11:23:20.725Z",
-    "removed_at": "2025-05-17T14:44:53.271Z",
+    "removed_at": "2025-05-17T14:45:29.315Z",
     "duration_minutes": 202,
     "duration_str": "3h 22m"
   },
@@ -508,8 +507,9 @@
   {
     "title": "Syrie : l’ouverture à l’Ouest, le pari diplomatique gagnant d’Ahmed Al-Charaa",
     "added_at": "2025-05-17T12:42:49.484Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-17T16:18:40.657Z",
+    "duration_minutes": 216,
+    "duration_str": "3h 36m"
   },
   {
     "title": "A Nantes, le marché immobilier patine",
@@ -600,6 +600,18 @@
   {
     "title": "En direct, guerre à Gaza : le sommet arabe appelle à accroître la pression internationale pour « stopper l’effusion de sang »",
     "added_at": "2025-05-17T15:30:49.724Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Bryan Muller, historien : « Dans la campagne pour la présidence des Républicains, le gaullisme est éclipsé »",
+    "added_at": "2025-05-17T16:07:15.000Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Cinq sorties à Paris et alentour pour faire découvrir la photographie aux enfants",
+    "added_at": "2025-05-17T16:07:15.000Z",
     "duration_minutes": 0,
     "duration_str": ""
   }

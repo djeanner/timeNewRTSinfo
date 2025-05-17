@@ -2630,7 +2630,10 @@
   },
   {
     "title": "Russia-Ukraine war: List of key events, day 1,178",
-    "added_at": "2025-05-17T03:39:37.503Z"
+    "added_at": "2025-05-17T03:39:37.503Z",
+    "removed_at": "2025-05-17T16:28:10.510Z",
+    "duration_minutes": 768,
+    "duration_str": "12h 48m"
   },
   {
     "title": "Israel kills 115 Palestinians in ‘opening moves’ of new Gaza war operation",
@@ -2740,7 +2743,10 @@
   },
   {
     "title": "Tornadoes kill 21 in US states of Missouri and Kentucky",
-    "added_at": "2025-05-17T13:55:10.890Z"
+    "added_at": "2025-05-17T13:55:10.890Z",
+    "removed_at": "2025-05-17T16:09:06.155Z",
+    "duration_minutes": 133,
+    "duration_str": "2h 13m"
   },
   {
     "title": "4 dead children pulled from Gaza’s rubble as Israel kills at least 41",
@@ -2763,5 +2769,20 @@
   {
     "title": "4 dead children pulled from Gaza’s rubble as Israel kills at least 66",
     "added_at": "2025-05-17T15:07:54.976Z"
+  },
+  {
+    "title": "Storms kill at least 21 in US states of Missouri and Kentucky",
+    "added_at": "2025-05-17T16:09:06.155Z"
+  },
+  {
+    "title": "Hamas says new Gaza truce talks under way as Israel expands ground assault",
+    "added_at": "2025-05-17T16:28:10.510Z",
+    "removed_at": "2025-05-17T16:30:07.754Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "New Gaza truce talks under way as Israel expands ground assault",
+    "added_at": "2025-05-17T16:30:07.754Z"
   }
 ]
