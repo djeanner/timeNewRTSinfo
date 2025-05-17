@@ -2662,7 +2662,10 @@
   },
   {
     "title": "Ukraine says Russian drone attack on bus kills 9, hours after direct talks",
-    "added_at": "2025-05-17T07:48:07.684Z"
+    "added_at": "2025-05-17T07:48:07.684Z",
+    "removed_at": "2025-05-17T16:55:01.304Z",
+    "duration_minutes": 546,
+    "duration_str": "9h 6m"
   },
   {
     "title": "Knicks crush Celtics, reach conference finals for first time in 25 years",
@@ -2784,5 +2787,9 @@
   {
     "title": "New Gaza truce talks under way as Israel expands ground assault",
     "added_at": "2025-05-17T16:30:07.754Z"
+  },
+  {
+    "title": "Trump says he will call Putin, Zelenskyy to discuss Ukraine ‘bloodbath’",
+    "added_at": "2025-05-17T16:55:01.304Z"
   }
 ]
