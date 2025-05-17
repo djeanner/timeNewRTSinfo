@@ -4710,7 +4710,10 @@
   },
   {
     "title": "suisse:::Une avalanche emporte plusieurs personnes sur l'Eiger",
-    "added_at": "2025-05-17T16:55:49.425Z"
+    "added_at": "2025-05-17T16:55:49.425Z",
+    "removed_at": "2025-05-17T18:45:24.914Z",
+    "duration_minutes": 109,
+    "duration_str": "1h 49m"
   },
   {
     "title": "culture:::«Bullet Train Explosion», le film catastrophe de Netflix qui électrisera les amoureux du train",
@@ -4718,10 +4721,21 @@
   },
   {
     "title": "culture:::En direct, l’Eurovision 2025 à Bâle – Une manifestation anti-Israël paralyse le centre",
-    "added_at": "2025-05-17T17:48:46.935Z"
+    "added_at": "2025-05-17T17:48:46.935Z",
+    "removed_at": "2025-05-17T18:43:29.434Z",
+    "duration_minutes": 54,
+    "duration_str": "54m"
   },
   {
     "title": "economie:::De la poche au poignet, récit d'une révolution horlogère genevoise",
     "added_at": "2025-05-17T18:32:09.700Z"
+  },
+  {
+    "title": "culture:::En direct, l’Eurovision 2025 à Bâle – Le grand concours va commencer, peut-être avec Céline Dion",
+    "added_at": "2025-05-17T18:43:29.434Z"
+  },
+  {
+    "title": "suisse:::Une avalanche emporte plusieurs personnes sur l’Eiger, sans faire de victime",
+    "added_at": "2025-05-17T18:45:24.914Z"
   }
 ]
