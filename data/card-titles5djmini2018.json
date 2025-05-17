@@ -33,7 +33,10 @@
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-17T19:08:05.855Z",
+    "duration_minutes": 12006,
+    "duration_str": "8d 8h 6m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -5358,10 +5361,7 @@
   },
   {
     "title": "Les bombes planantes : l’astuce de la Russie pour recycler ses vieilles armes",
-    "added_at": "2025-05-13T10:01:09.971Z",
-    "removed_at": "2025-05-17T18:47:15.381Z",
-    "duration_minutes": 6286,
-    "duration_str": "4d 8h 46m"
+    "added_at": "2025-05-13T10:01:09.971Z"
   },
   {
     "title": "Gérard Depardieu condamné à dix-huit mois de prison avec sursis pour agressions sexuelles sur le tournage du film « Les Volets verts »",
@@ -7614,9 +7614,9 @@
   {
     "title": "« La pause de trois mois dans la bataille commerciale entre la Chine et les Etats-Unis offre un répit. Pour autant, la guerre n’est pas finie »",
     "added_at": "2025-05-15T04:17:48.207Z",
-    "removed_at": "2025-05-17T18:45:25.520Z",
-    "duration_minutes": 3747,
-    "duration_str": "2d 14h 27m"
+    "removed_at": "2025-05-17T19:09:55.683Z",
+    "duration_minutes": 3772,
+    "duration_str": "2d 14h 52m"
   },
   {
     "title": "Les industriels français pris dans le bourbier des droits de douane américains",
@@ -10192,9 +10192,9 @@
   {
     "title": "La Villa Noailles en proie aux dérives financières",
     "added_at": "2025-05-17T06:38:11.031Z",
-    "removed_at": "2025-05-17T18:49:09.143Z",
-    "duration_minutes": 730,
-    "duration_str": "12h 10m"
+    "removed_at": "2025-05-17T19:06:09.808Z",
+    "duration_minutes": 747,
+    "duration_str": "12h 27m"
   },
   {
     "title": "« Au bord du gouffre, la Roumanie peut encore éviter son suicide »",
@@ -10478,7 +10478,10 @@
   },
   {
     "title": "« C’était pas un accident, c’est raciste » : à Dunkerque, mobilisation pour faire reconnaître le caractère identitaire d’un meurtre",
-    "added_at": "2025-05-17T12:37:02.750Z"
+    "added_at": "2025-05-17T12:37:02.750Z",
+    "removed_at": "2025-05-17T19:06:09.808Z",
+    "duration_minutes": 389,
+    "duration_str": "6h 29m"
   },
   {
     "title": "Avec la baisse des cours du brut, l’Arabie saoudite se tourne vers la dette pour poursuivre ses grands projets",
@@ -10679,6 +10682,13 @@
   },
   {
     "title": "Ligue 1 : qui disputera la Ligue des champions ? Qui sera relégué ? Suivez la dernière journée du championnat de France",
-    "added_at": "2025-05-17T18:41:36.494Z"
+    "added_at": "2025-05-17T18:41:36.494Z",
+    "removed_at": "2025-05-17T19:00:30.189Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
+  },
+  {
+    "title": "Ligue 1 : Nice, Lille ou Strasbourg, qui disputera la Ligue des champions ? Suivez l’ultime journée du championnat de France",
+    "added_at": "2025-05-17T19:00:30.189Z"
   }
 ]
