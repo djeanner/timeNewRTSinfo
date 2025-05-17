@@ -5558,7 +5558,10 @@
   },
   {
     "title": "Le Royaume-Uni confronté à une vague d'incendies sans précédent à cause de la sécheresse",
-    "added_at": "2025-05-15T08:30:36.131Z"
+    "added_at": "2025-05-15T08:30:36.131Z",
+    "removed_at": "2025-05-17T06:43:53.395Z",
+    "duration_minutes": 2773,
+    "duration_str": "1d 22h 13m"
   },
   {
     "title": "Le Conseil fédéral a dévoilé la clause de sauvegarde pour limiter l’immigration",
@@ -6047,5 +6050,9 @@
   {
     "title": "Les champignons pathogènes, une menace invisible croissante",
     "added_at": "2025-05-17T06:41:55.420Z"
+  },
+  {
+    "title": "Moody's prive la dette américaine de son triple A",
+    "added_at": "2025-05-17T06:43:53.395Z"
   }
 ]
