@@ -4572,7 +4572,10 @@
   },
   {
     "title": "monde:::En direct – L’armée israélienne entame des «frappes d’envergure» à Gaza",
-    "added_at": "2025-05-17T05:30:13.525Z"
+    "added_at": "2025-05-17T05:30:13.525Z",
+    "removed_at": "2025-05-17T10:45:32.360Z",
+    "duration_minutes": 315,
+    "duration_str": "5h 15m"
   },
   {
     "title": "sport:::Kevin Fiala, la force tranquille de la Nati",
@@ -4618,5 +4621,9 @@
   {
     "title": "suisse:::Ursina Anderegg, sur la fermeture des classes bilingues à Berne: «Il n’est pas question de revenir en arrière»",
     "added_at": "2025-05-17T10:17:13.637Z"
+  },
+  {
+    "title": "monde:::En direct – Le chef de l’ONU «alarmé» par l’intensification de l’offensive israélienne à Gaza",
+    "added_at": "2025-05-17T10:45:32.360Z"
   }
 ]
