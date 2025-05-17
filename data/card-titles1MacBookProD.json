@@ -8367,7 +8367,10 @@
   },
   {
     "title": "Le Groupe E sous le feu des critiques après de nombreux licenciements et rachats d'entreprise",
-    "added_at": "2025-05-14T21:47:56.082Z"
+    "added_at": "2025-05-14T21:47:56.082Z",
+    "removed_at": "2025-05-17T08:58:43.443Z",
+    "duration_minutes": 3550,
+    "duration_str": "2d 11h 10m"
   },
   {
     "title": "Précision attendue sur la clause de sauvegarde, les explications de Pierre Nebel",
@@ -8734,10 +8737,7 @@
   },
   {
     "title": "La Matinale - Présenté par Valérie Hauert",
-    "added_at": "2025-05-16T08:55:35.632Z",
-    "removed_at": "2025-05-16T15:44:38.246Z",
-    "duration_minutes": 409,
-    "duration_str": "6h 49m"
+    "added_at": "2025-05-16T08:55:35.632Z"
   },
   {
     "title": "\"Dossier 137\" de Dominik Moll et \"Sirât\" avec Sergi López présentés en compétition",
@@ -8952,5 +8952,9 @@
   {
     "title": "Podcast - De l'escroquerie à l'assassinat: l'affaire Egon Zylla",
     "added_at": "2025-05-17T07:30:57.731Z"
+  },
+  {
+    "title": "Dans \"Astérix et Obélix: Le combat des chefs\", l'humour d'Alain Chabat carbure à plein régime",
+    "added_at": "2025-05-17T08:09:08.869Z"
   }
 ]
