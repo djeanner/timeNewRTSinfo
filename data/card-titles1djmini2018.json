@@ -5416,7 +5416,10 @@
   },
   {
     "title": "Antonio Hodgers aura droit à une pension à vie de 12'300 francs par mois",
-    "added_at": "2025-05-14T14:48:17.591Z"
+    "added_at": "2025-05-14T14:48:17.591Z",
+    "removed_at": "2025-05-17T10:58:46.410Z",
+    "duration_minutes": 4090,
+    "duration_str": "2d 20h 10m"
   },
   {
     "title": "Le Ministère public vaudois fait face à une envolée des affaires en 2024",
@@ -5869,7 +5872,10 @@
   },
   {
     "title": "La Matinale - Présenté par Valérie Hauert",
-    "added_at": "2025-05-16T08:56:14.523Z"
+    "added_at": "2025-05-16T08:56:14.523Z",
+    "removed_at": "2025-05-17T10:58:46.410Z",
+    "duration_minutes": 1562,
+    "duration_str": "1d 2h 2m"
   },
   {
     "title": "\"Dossier 137\" de Dominik Moll et \"Sirât\" avec Sergi López présentés en compétition",
@@ -6121,5 +6127,9 @@
   {
     "title": "Jennifer Lawrence et Robert Pattinson en vedette à Cannes pour le thriller \"Die, My Love\"",
     "added_at": "2025-05-17T10:04:04.910Z"
+  },
+  {
+    "title": "Swiss va annuler 1400 vols cet été en raison d'un manque de pilotes",
+    "added_at": "2025-05-17T10:58:46.410Z"
   }
 ]

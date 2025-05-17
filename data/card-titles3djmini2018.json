@@ -10087,7 +10087,10 @@
   },
   {
     "title": "Tornadoes Kill 7 in Missouri as Severe Weather Rolls Through Central U.S.",
-    "added_at": "2025-05-17T05:41:33.452Z"
+    "added_at": "2025-05-17T05:41:33.452Z",
+    "removed_at": "2025-05-17T11:13:50.185Z",
+    "duration_minutes": 332,
+    "duration_str": "5h 32m"
   },
   {
     "title": "Russian Drone Attack Kills 9 on Shuttle Bus in Ukraine",
@@ -10152,5 +10155,9 @@
   {
     "title": "Spring Fling",
     "added_at": "2025-05-17T10:19:07.191Z"
+  },
+  {
+    "title": "Tornadoes Kill 16 in Kentucky and Missouri",
+    "added_at": "2025-05-17T11:02:32.226Z"
   }
 ]
