@@ -4370,7 +4370,10 @@
   },
   {
     "title": "monde:::«La joie de revenir travailler»: plongée dans la fonderie française qui passe de l’automobile aux obus",
-    "added_at": "2025-05-16T09:35:45.973Z"
+    "added_at": "2025-05-16T09:35:45.973Z",
+    "removed_at": "2025-05-17T19:49:34.965Z",
+    "duration_minutes": 2053,
+    "duration_str": "1d 10h 13m"
   },
   {
     "title": "economie:::Les dépenses militaires explosent pendant que l’Europe reconstruit ses capacités de défense",
@@ -4654,7 +4657,10 @@
   },
   {
     "title": "monde:::En direct – Le chef de l’ONU «alarmé» par l’intensification de l’offensive israélienne à Gaza",
-    "added_at": "2025-05-17T10:45:32.360Z"
+    "added_at": "2025-05-17T10:45:32.360Z",
+    "removed_at": "2025-05-17T19:51:28.388Z",
+    "duration_minutes": 545,
+    "duration_str": "9h 5m"
   },
   {
     "title": "economie:::Exclusif – Paris prépare un petit Choose France consacré à la Suisse",
@@ -4684,10 +4690,7 @@
   },
   {
     "title": "culture:::Festival de Cannes: «Eddington», quand le shérif devient complotiste",
-    "added_at": "2025-05-17T14:34:08.501Z",
-    "removed_at": "2025-05-17T16:57:44.849Z",
-    "duration_minutes": 143,
-    "duration_str": "2h 23m"
+    "added_at": "2025-05-17T14:34:08.501Z"
   },
   {
     "title": "culture:::Jean-Marc Richard: «C’est ma dernière finale de l’Eurovision»",
@@ -4756,7 +4759,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Donald Trump annonce qu’il parlera lundi à Vladimir Poutine",
-    "added_at": "2025-05-17T19:42:00.834Z"
+    "added_at": "2025-05-17T19:42:00.834Z",
+    "removed_at": "2025-05-17T19:57:07.022Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
   },
   {
     "title": "culture:::En direct, l’Eurovision 2025 à Bâle – Les finalistes défendent leurs chansons loin des manifestations",
@@ -4765,5 +4771,13 @@
   {
     "title": "suisse:::Une avalanche emporte plusieurs personnes sur l’Eiger et fait deux victimes",
     "added_at": "2025-05-17T19:43:50.293Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Le sommet arabe réclame plus de pressions internationales pour «stopper l’effusion de sang» à Gaza",
+    "added_at": "2025-05-17T19:51:28.388Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Donald Trump annonce qu’il parlera lundi à Vladimir Poutine",
+    "added_at": "2025-05-17T19:57:07.022Z"
   }
 ]

@@ -6178,7 +6178,10 @@
   },
   {
     "title": "Swiss va annuler 1400 vols cet été en raison d'un manque de pilotes",
-    "added_at": "2025-05-17T10:58:46.410Z"
+    "added_at": "2025-05-17T10:58:46.410Z",
+    "removed_at": "2025-05-17T20:00:51.935Z",
+    "duration_minutes": 542,
+    "duration_str": "9h 2m"
   },
   {
     "title": "Mort à 31 ans de Werenoi, star discrète du rap français",
@@ -6287,10 +6290,17 @@
   },
   {
     "title": "Pas de victimes après une avalanche sur l'Eiger",
-    "added_at": "2025-05-17T18:26:30.318Z"
+    "added_at": "2025-05-17T18:26:30.318Z",
+    "removed_at": "2025-05-17T19:51:28.337Z",
+    "duration_minutes": 84,
+    "duration_str": "1h 24m"
   },
   {
     "title": "C’est parti à Bâle! Suivez en direct le concours de l'Eurovision 2025",
     "added_at": "2025-05-17T18:58:35.511Z"
+  },
+  {
+    "title": "Deux morts après une avalanche sur l'Eiger",
+    "added_at": "2025-05-17T19:51:28.337Z"
   }
 ]
