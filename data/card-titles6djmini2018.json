@@ -3067,7 +3067,10 @@
   },
   {
     "title": "Moody’s strips US government of top credit rating",
-    "added_at": "2025-05-16T23:28:26.469Z"
+    "added_at": "2025-05-16T23:28:26.469Z",
+    "removed_at": "2025-05-17T13:33:49.268Z",
+    "duration_minutes": 845,
+    "duration_str": "14h 5m"
   },
   {
     "title": "Israel kills 115 Palestinians in ‘opening moves’ of new Gaza war expansion",
@@ -3173,5 +3176,9 @@
   {
     "title": "Iran’s leaders slam Trump for ‘disgraceful’ remarks during Middle East tour",
     "added_at": "2025-05-17T12:25:45.099Z"
+  },
+  {
+    "title": "Tornadoes kill at least 21 in southern US states",
+    "added_at": "2025-05-17T13:33:49.268Z"
   }
 ]
