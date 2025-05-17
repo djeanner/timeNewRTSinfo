@@ -3043,7 +3043,10 @@
   },
   {
     "title": "monde:::Le duel diplomatique de Volodymyr Zelensky et Vladimir Poutine, mis sous pression par Donald Trump",
-    "added_at": "2025-05-12T08:49:02.085Z"
+    "added_at": "2025-05-12T08:49:02.085Z",
+    "removed_at": "2025-05-17T09:28:06.174Z",
+    "duration_minutes": 7239,
+    "duration_str": "5d 39m"
   },
   {
     "title": "culture:::A Yverdon, la Maison d’Ailleurs explore les paysages de sa ville, et jusqu’à Aldébaran",
@@ -3625,10 +3628,7 @@
   },
   {
     "title": "monde:::Comment les Russes mènent Donald Trump «par le bout du nez»",
-    "added_at": "2025-05-14T04:17:39.326Z",
-    "removed_at": "2025-05-15T14:10:19.688Z",
-    "duration_minutes": 2032,
-    "duration_str": "1d 9h 52m"
+    "added_at": "2025-05-14T04:17:39.326Z"
   },
   {
     "title": "economie:::Comment les entreprises chinoises se jouent des droits de douane américains",
@@ -4591,7 +4591,10 @@
   },
   {
     "title": "economie:::Coup dur pour Donald Trump, Moody’s prive la dette américaine de son triple A",
-    "added_at": "2025-05-17T07:19:46.631Z"
+    "added_at": "2025-05-17T07:19:46.631Z",
+    "removed_at": "2025-05-17T09:28:06.174Z",
+    "duration_minutes": 128,
+    "duration_str": "2h 8m"
   },
   {
     "title": "culture:::Brigitte Rosset, en tournée avec un nouveau solo: «Ma mère disait que je pouvais faire mieux!»",
@@ -4607,5 +4610,9 @@
   {
     "title": "monde:::En direct – Le Kremlin conditionne une rencontre Poutine-Zelensky à «des accords entre les deux camps»",
     "added_at": "2025-05-17T09:07:21.850Z"
+  },
+  {
+    "title": "economie:::De la roseraie de la Maison-Blanche à l’accord de Cologny: trois enseignements du prologue de la guerre commerciale II",
+    "added_at": "2025-05-17T09:20:33.975Z"
   }
 ]
