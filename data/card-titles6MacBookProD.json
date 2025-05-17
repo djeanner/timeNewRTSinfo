@@ -2724,7 +2724,10 @@
   },
   {
     "title": "LIVE: FA Cup Final 2025 – Man City vs Crystal Palace",
-    "added_at": "2025-05-17T12:17:39.203Z"
+    "added_at": "2025-05-17T12:17:39.203Z",
+    "removed_at": "2025-05-17T17:39:10.764Z",
+    "duration_minutes": 321,
+    "duration_str": "5h 21m"
   },
   {
     "title": "Iran’s leaders slam Trump for ‘disgraceful’ remarks during Middle East tour",
@@ -2771,11 +2774,17 @@
   },
   {
     "title": "4 dead children pulled from Gaza’s rubble as Israel kills at least 66",
-    "added_at": "2025-05-17T15:07:54.976Z"
+    "added_at": "2025-05-17T15:07:54.976Z",
+    "removed_at": "2025-05-17T17:48:41.965Z",
+    "duration_minutes": 160,
+    "duration_str": "2h 40m"
   },
   {
     "title": "Storms kill at least 21 in US states of Missouri and Kentucky",
-    "added_at": "2025-05-17T16:09:06.155Z"
+    "added_at": "2025-05-17T16:09:06.155Z",
+    "removed_at": "2025-05-17T17:46:46.294Z",
+    "duration_minutes": 97,
+    "duration_str": "1h 37m"
   },
   {
     "title": "Hamas says new Gaza truce talks under way as Israel expands ground assault",
@@ -2791,5 +2800,24 @@
   {
     "title": "Trump says he will call Putin, Zelenskyy to discuss Ukraine ‘bloodbath’",
     "added_at": "2025-05-17T16:55:01.304Z"
+  },
+  {
+    "title": "LIVE: Crystal Palace defeat Manchester City in FA Cup final – reaction",
+    "added_at": "2025-05-17T17:39:10.764Z"
+  },
+  {
+    "title": "At least 21 dead after storms hit US states of Missouri and Kentucky",
+    "added_at": "2025-05-17T17:46:46.294Z"
+  },
+  {
+    "title": "Four dead children pulled from Gaza’s rubble as Israel kills at least 66",
+    "added_at": "2025-05-17T17:48:41.965Z",
+    "removed_at": "2025-05-17T18:17:19.125Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
+  },
+  {
+    "title": "Israel army prevents rescuers from bombed Gaza sites as death toll surges",
+    "added_at": "2025-05-17T18:17:19.125Z"
   }
 ]
