@@ -5388,7 +5388,10 @@
   },
   {
     "title": "La Suisse définit les critères pour activer la clause de sauvegarde avec l'UE",
-    "added_at": "2025-05-14T14:06:41.708Z"
+    "added_at": "2025-05-14T14:06:41.708Z",
+    "removed_at": "2025-05-17T02:36:59.222Z",
+    "duration_minutes": 3630,
+    "duration_str": "2d 12h 30m"
   },
   {
     "title": "Le Conseil fédéral présente ses mesures de protection face à la libéralisation du marché de l'électricité",
@@ -6012,5 +6015,9 @@
   {
     "title": "Les attaquants de National League livrent la marchandise et Charlin \"blanchi\" à son 2e départ",
     "added_at": "2025-05-16T21:29:33.664Z"
+  },
+  {
+    "title": "L'armée israélienne annonce l'intensification de son offensive dans la bande de Gaza",
+    "added_at": "2025-05-17T02:36:59.222Z"
   }
 ]
