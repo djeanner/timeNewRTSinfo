@@ -26,7 +26,10 @@
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-17T18:01:55.641Z",
+    "duration_minutes": 11940,
+    "duration_str": "8d 7h"
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
@@ -312,9 +315,9 @@
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
     "added_at": "2025-05-09T11:11:38.599Z",
-    "removed_at": "2025-05-17T17:41:10.713Z",
-    "duration_minutes": 11909,
-    "duration_str": "8d 6h 29m"
+    "removed_at": "2025-05-17T17:58:10.520Z",
+    "duration_minutes": 11926,
+    "duration_str": "8d 6h 46m"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -7610,10 +7613,7 @@
   },
   {
     "title": "« La pause de trois mois dans la bataille commerciale entre la Chine et les Etats-Unis offre un répit. Pour autant, la guerre n’est pas finie »",
-    "added_at": "2025-05-15T04:17:48.207Z",
-    "removed_at": "2025-05-17T17:44:56.081Z",
-    "duration_minutes": 3687,
-    "duration_str": "2d 13h 27m"
+    "added_at": "2025-05-15T04:17:48.207Z"
   },
   {
     "title": "Les industriels français pris dans le bourbier des droits de douane américains",
@@ -9136,10 +9136,7 @@
   },
   {
     "title": "Les drones de combat exacerbent la violence dans un Soudan en pleine guerre civile",
-    "added_at": "2025-05-16T07:55:52.133Z",
-    "removed_at": "2025-05-17T17:41:10.713Z",
-    "duration_minutes": 2025,
-    "duration_str": "1d 9h 45m"
+    "added_at": "2025-05-16T07:55:52.133Z"
   },
   {
     "title": "L’armée israélienne continue de bombarder la bande de Gaza, plus de 50 personnes tuées, selon la défense civile palestinienne",
@@ -10191,7 +10188,10 @@
   },
   {
     "title": "La Villa Noailles en proie aux dérives financières",
-    "added_at": "2025-05-17T06:38:11.031Z"
+    "added_at": "2025-05-17T06:38:11.031Z",
+    "removed_at": "2025-05-17T18:00:06.053Z",
+    "duration_minutes": 681,
+    "duration_str": "11h 21m"
   },
   {
     "title": "« Au bord du gouffre, la Roumanie peut encore éviter son suicide »",
@@ -10475,10 +10475,7 @@
   },
   {
     "title": "« C’était pas un accident, c’est raciste » : à Dunkerque, mobilisation pour faire reconnaître le caractère identitaire d’un meurtre",
-    "added_at": "2025-05-17T12:37:02.750Z",
-    "removed_at": "2025-05-17T17:43:06.394Z",
-    "duration_minutes": 306,
-    "duration_str": "5h 6m"
+    "added_at": "2025-05-17T12:37:02.750Z"
   },
   {
     "title": "Avec la baisse des cours du brut, l’Arabie saoudite se tourne vers la dette pour poursuivre ses grands projets",
@@ -10575,7 +10572,10 @@
   },
   {
     "title": "En direct, guerre en Ukraine : Donald Trump annonce qu’il parlera lundi à Vladimir Poutine au téléphone",
-    "added_at": "2025-05-17T15:27:05.379Z"
+    "added_at": "2025-05-17T15:27:05.379Z",
+    "removed_at": "2025-05-17T17:52:31.183Z",
+    "duration_minutes": 145,
+    "duration_str": "2h 25m"
   },
   {
     "title": "En direct, guerre à Gaza : le sommet arabe appelle à accroître la pression internationale pour « stopper l’effusion de sang »",
@@ -10648,5 +10648,9 @@
     "removed_at": "2025-05-17T17:33:38.244Z",
     "duration_minutes": 9,
     "duration_str": "9m"
+  },
+  {
+    "title": "En direct : Donald Trump annonce qu’il parlera lundi à Vladimir Poutine au téléphone pour évoquer avec lui « l’arrêt du bain de sang » en Ukraine",
+    "added_at": "2025-05-17T17:52:31.183Z"
   }
 ]
