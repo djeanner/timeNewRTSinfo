@@ -8647,7 +8647,10 @@
   },
   {
     "title": "La Suisse maîtrise son sujet",
-    "added_at": "2025-05-15T16:52:52.204Z"
+    "added_at": "2025-05-15T16:52:52.204Z",
+    "removed_at": "2025-05-17T22:05:12.108Z",
+    "duration_minutes": 3192,
+    "duration_str": "2d 5h 12m"
   },
   {
     "title": "L'Hôpital des enfants du CHUV a déménagé. Ouverture des portes mercredi",
@@ -9200,5 +9203,9 @@
   {
     "title": "Deux morts et cinq blessés après une avalanche sur l'Eiger",
     "added_at": "2025-05-17T21:26:52.200Z"
+  },
+  {
+    "title": "Sion célèbre son maintien par une victoire contre GC",
+    "added_at": "2025-05-17T22:05:12.108Z"
   }
 ]
