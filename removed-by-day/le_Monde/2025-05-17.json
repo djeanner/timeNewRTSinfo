@@ -160,8 +160,9 @@
   {
     "title": "Cannes 2025 : « Eddington » raconte la décomposition de l’Amérique sous le regard cruel d’Ari Aster",
     "added_at": "2025-05-17T06:32:32.304Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-17T20:08:22.488Z",
+    "duration_minutes": 816,
+    "duration_str": "13h 36m"
   },
   {
     "title": "Guerre en Ukraine : une frappe russe sur un bus fait neuf morts dans le nord du pays",
@@ -187,9 +188,8 @@
   {
     "title": "La Villa Noailles en proie aux dérives financières",
     "added_at": "2025-05-17T06:38:11.031Z",
-    "removed_at": "2025-05-17T18:17:06.064Z",
-    "duration_minutes": 699,
-    "duration_str": "11h 39m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "« Au bord du gouffre, la Roumanie peut encore éviter son suicide »",
@@ -702,20 +702,47 @@
   {
     "title": "EN DIRECT | Ligue 1 : qui disputera la Ligue des champions ? Qui sera relégué ? Suivez la dernière journée du championnat de France",
     "added_at": "2025-05-17T18:23:02.674Z",
-    "removed_at": "2025-05-17T18:42:17.484Z",
+    "removed_at": "2025-05-17T18:41:36.494Z",
     "duration_minutes": 19,
     "duration_str": "19m"
   },
   {
     "title": "Ligue 1 : qui disputera la Ligue des champions ? Qui sera relégué ? Suivez la dernière journée du championnat de France",
-    "added_at": "2025-05-17T18:42:17.484Z",
+    "added_at": "2025-05-17T18:41:36.494Z",
     "removed_at": "2025-05-17T18:59:27.654Z",
-    "duration_minutes": 17,
-    "duration_str": "17m"
+    "duration_minutes": 18,
+    "duration_str": "18m"
   },
   {
     "title": "Ligue 1 : Nice, Lille ou Strasbourg, qui disputera la Ligue des champions ? Suivez l’ultime journée du championnat de France",
     "added_at": "2025-05-17T18:59:27.654Z",
+    "removed_at": "2025-05-17T19:26:15.896Z",
+    "duration_minutes": 27,
+    "duration_str": "27m"
+  },
+  {
+    "title": "Ligue 1 : Saint-Etienne en danger, les Niçois bien partis vers la Ligue des champions, suivez l’ultime journée",
+    "added_at": "2025-05-17T19:26:15.896Z",
+    "removed_at": "2025-05-17T19:41:31.678Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "La mort du rappeur français Werenoi, à 31 ans, en pleine gloire",
+    "added_at": "2025-05-17T19:31:59.109Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Ligue 1 : Nice bien parti vers la Ligue des champions, Saint-Etienne en danger, Paris mené, suivez l’ultime journée",
+    "added_at": "2025-05-17T19:41:31.678Z",
+    "removed_at": "2025-05-17T19:49:11.738Z",
+    "duration_minutes": 8,
+    "duration_str": "8m"
+  },
+  {
+    "title": "Ligue 1 : Greenwood rejoint Dembélé comme meilleur buteur, Saint-Etienne en danger, Paris mené, suivez l’ultime journée",
+    "added_at": "2025-05-17T19:49:11.738Z",
     "duration_minutes": 0,
     "duration_str": ""
   }

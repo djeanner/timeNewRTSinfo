@@ -100,8 +100,9 @@
   {
     "title": "Swiss va annuler 1400 vols cet été en raison d'un manque de pilotes",
     "added_at": "2025-05-17T10:58:46.410Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-17T20:00:40.497Z",
+    "duration_minutes": 542,
+    "duration_str": "9h 2m"
   },
   {
     "title": "Mort à 31 ans de Werenoi, star discrète du rap français",
@@ -187,7 +188,7 @@
   {
     "title": "Plusieurs personnes emportées dans une avalanche sur l'Eiger",
     "added_at": "2025-05-17T15:51:34.483Z",
-    "removed_at": "2025-05-17T18:26:50.676Z",
+    "removed_at": "2025-05-17T18:26:30.318Z",
     "duration_minutes": 155,
     "duration_str": "2h 35m"
   },
@@ -220,9 +221,9 @@
   {
     "title": "La chanteuse Céline Dion est bien à Bâle, confirme Jean-Marc Richard",
     "added_at": "2025-05-17T17:52:30.471Z",
-    "removed_at": "2025-05-17T18:59:27.312Z",
-    "duration_minutes": 67,
-    "duration_str": "1h 7m"
+    "removed_at": "2025-05-17T18:58:35.511Z",
+    "duration_minutes": 66,
+    "duration_str": "1h 6m"
   },
   {
     "title": "En France, des voix au sein de la communauté juive appellent à un cessez-le-feu et à une levée du blocus total à Gaza",
@@ -232,19 +233,26 @@
   },
   {
     "title": "Young Boys sacré champion de Suisse",
-    "added_at": "2025-05-17T18:21:07.047Z",
+    "added_at": "2025-05-17T18:20:50.698Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Pas de victimes après une avalanche sur l'Eiger",
-    "added_at": "2025-05-17T18:26:50.676Z",
+    "added_at": "2025-05-17T18:26:30.318Z",
+    "removed_at": "2025-05-17T19:51:09.010Z",
+    "duration_minutes": 85,
+    "duration_str": "1h 25m"
+  },
+  {
+    "title": "C’est parti à Bâle! Suivez en direct le concours de l'Eurovision 2025",
+    "added_at": "2025-05-17T18:58:35.511Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
-    "title": "C’est parti à Bâle! Suivez en direct le concours de l'Eurovision 2025",
-    "added_at": "2025-05-17T18:59:27.312Z",
+    "title": "Deux morts après une avalanche sur l'Eiger",
+    "added_at": "2025-05-17T19:51:09.010Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
