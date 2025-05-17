@@ -2940,10 +2940,7 @@
   },
   {
     "title": "Russia, Ukraine agree prisoner swap as talks end without major breakthrough",
-    "added_at": "2025-05-16T17:37:24.460Z",
-    "removed_at": "2025-05-17T01:17:51.783Z",
-    "duration_minutes": 460,
-    "duration_str": "7h 40m"
+    "added_at": "2025-05-16T17:37:24.460Z"
   },
   {
     "title": "Suspect in attack on author Salman Rushdie sentenced to 25 years in prison",
@@ -2961,7 +2958,10 @@
   },
   {
     "title": "Breaking down a deadly week in Gaza as Israel kills hundreds",
-    "added_at": "2025-05-16T18:11:24.211Z"
+    "added_at": "2025-05-16T18:11:24.211Z",
+    "removed_at": "2025-05-17T05:45:18.893Z",
+    "duration_minutes": 693,
+    "duration_str": "11h 33m"
   },
   {
     "title": "Israel launches strikes on two Yemen ports",
@@ -3048,7 +3048,10 @@
   },
   {
     "title": "The US announces first ‘terrorism’ charges for supporting a Mexican cartel",
-    "added_at": "2025-05-17T00:26:57.221Z"
+    "added_at": "2025-05-17T00:26:57.221Z",
+    "removed_at": "2025-05-17T05:43:29.555Z",
+    "duration_minutes": 316,
+    "duration_str": "5h 16m"
   },
   {
     "title": "Malaysia’s ‘fish hunters’ target invasive species, one catch at a time",
@@ -3061,5 +3064,9 @@
   {
     "title": "Israel kills 115 Palestinians in ‘opening moves’ of new Gaza war operation",
     "added_at": "2025-05-17T04:46:58.091Z"
+  },
+  {
+    "title": "US announces first ‘terrorism’ charges for supporting a Mexican cartel",
+    "added_at": "2025-05-17T05:43:29.555Z"
   }
 ]
