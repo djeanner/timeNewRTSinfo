@@ -3667,10 +3667,7 @@
   },
   {
     "title": "monde:::Défendre les Palestiniens, une cause plus populaire que jamais dans les mosquées d’Iran",
-    "added_at": "2025-05-14T06:37:15.577Z",
-    "removed_at": "2025-05-14T16:37:48.038Z",
-    "duration_minutes": 600,
-    "duration_str": "10h"
+    "added_at": "2025-05-14T06:37:15.577Z"
   },
   {
     "title": "suisse:::Nicolas Walder, candidat au Conseil d’Etat genevois: «Trop souvent, on densifie, et les services publics peinent à suivre»",
@@ -4298,7 +4295,10 @@
   },
   {
     "title": "monde:::Après la joie, les nombreux défis qui attendent la Syrie libérée des sanctions américaines",
-    "added_at": "2025-05-16T05:55:14.843Z"
+    "added_at": "2025-05-16T05:55:14.843Z",
+    "removed_at": "2025-05-17T05:26:30.661Z",
+    "duration_minutes": 1411,
+    "duration_str": "23h 31m"
   },
   {
     "title": "culture:::Plusieurs favoris, dont le Mr Muscles australien Go-Jo, éliminés lors de la seconde demi-finale de l’Eurovision",
@@ -4491,9 +4491,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – L’armée israélienne aurait ordonné l’évacuation du nord de Gaza",
     "added_at": "2025-05-16T17:22:20.553Z",
-    "removed_at": "2025-05-16T19:43:53.040Z",
-    "duration_minutes": 141,
-    "duration_str": "2h 21m"
+    "removed_at": "2025-05-17T05:24:35.259Z",
+    "duration_minutes": 722,
+    "duration_str": "12h 2m"
   },
   {
     "title": "monde:::En graphiques – A Gaza, un an et demi de destructions systématiques qui défient le droit humanitaire",
@@ -4523,10 +4523,31 @@
   },
   {
     "title": "monde:::Moyen-Orient – L’armée israélienne aurait ordonné l’évacuation du nord de Gaza",
-    "added_at": "2025-05-16T19:43:53.040Z"
+    "added_at": "2025-05-16T19:43:53.040Z",
+    "removed_at": "2025-05-17T05:20:52.470Z",
+    "duration_minutes": 576,
+    "duration_str": "9h 36m"
   },
   {
     "title": "suisse:::Une Suisse qui sermonne et soigne Israël",
     "added_at": "2025-05-17T05:15:12.549Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’armée israélienne entame des «frappes d’envergure» à Gaza",
+    "added_at": "2025-05-17T05:24:35.259Z",
+    "removed_at": "2025-05-17T05:30:13.525Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "monde:::De la Nakba de 1948 à la «Nakba de Gaza», deux Israéliens racontent la déshumanisation des Palestiniens",
+    "added_at": "2025-05-17T05:26:30.661Z",
+    "removed_at": "2025-05-17T05:28:20.044Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "monde:::En direct – L’armée israélienne entame des «frappes d’envergure» à Gaza",
+    "added_at": "2025-05-17T05:30:13.525Z"
   }
 ]
