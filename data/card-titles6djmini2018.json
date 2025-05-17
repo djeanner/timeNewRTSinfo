@@ -2900,10 +2900,7 @@
   },
   {
     "title": "FA Cup final: Man City vs Crystal Palace – all you need to know",
-    "added_at": "2025-05-16T14:49:24.197Z",
-    "removed_at": "2025-05-17T07:04:37.739Z",
-    "duration_minutes": 975,
-    "duration_str": "16h 15m"
+    "added_at": "2025-05-16T14:49:24.197Z"
   },
   {
     "title": "Istanbul talks highlight Turkiye’s balancing act between Russia and Ukraine",
@@ -3099,7 +3096,10 @@
   },
   {
     "title": "Israeli attacks kill 13 since dawn as besieged Gaza ‘left to starve’",
-    "added_at": "2025-05-17T07:48:01.464Z"
+    "added_at": "2025-05-17T07:48:01.464Z",
+    "removed_at": "2025-05-17T10:30:27.912Z",
+    "duration_minutes": 162,
+    "duration_str": "2h 42m"
   },
   {
     "title": "Ukraine says Russian drone attack on bus kills 9, hours after direct talks",
@@ -3127,5 +3127,9 @@
   {
     "title": "Gaza ‘carnage’ dominates agenda at Arab League summit in Baghdad",
     "added_at": "2025-05-17T10:17:14.290Z"
+  },
+  {
+    "title": "‘Palestine bleeding before our eyes’: Israel kills 150 in Gaza in a day",
+    "added_at": "2025-05-17T10:30:27.912Z"
   }
 ]
