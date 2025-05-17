@@ -3092,7 +3092,10 @@
   },
   {
     "title": "Russia-Ukraine war: List of key events, day 1,178",
-    "added_at": "2025-05-17T03:39:08.303Z"
+    "added_at": "2025-05-17T03:39:08.303Z",
+    "removed_at": "2025-05-17T16:27:30.169Z",
+    "duration_minutes": 768,
+    "duration_str": "12h 48m"
   },
   {
     "title": "Israel kills 115 Palestinians in ‘opening moves’ of new Gaza war operation",
@@ -3232,5 +3235,16 @@
   {
     "title": "Storms kill at least 21 in US states of Missouri and Kentucky",
     "added_at": "2025-05-17T16:08:35.830Z"
+  },
+  {
+    "title": "Hamas says new Gaza truce talks under way as Israel expands ground assault",
+    "added_at": "2025-05-17T16:27:30.169Z",
+    "removed_at": "2025-05-17T16:29:26.191Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "New Gaza truce talks under way as Israel expands ground assault",
+    "added_at": "2025-05-17T16:29:26.191Z"
   }
 ]
