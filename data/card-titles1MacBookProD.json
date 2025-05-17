@@ -8572,7 +8572,10 @@
   },
   {
     "title": "Neuchâtel veut former 1100 infirmières et infirmiers supplémentaires",
-    "added_at": "2025-05-15T13:13:18.266Z"
+    "added_at": "2025-05-15T13:13:18.266Z",
+    "removed_at": "2025-05-17T12:53:58.314Z",
+    "duration_minutes": 2860,
+    "duration_str": "1d 23h 40m"
   },
   {
     "title": "Aide à mourir : pourquoi la France peine à franchir le pas",
@@ -8721,7 +8724,10 @@
   },
   {
     "title": "Des étudiants propalestiniens ont occupé le bâtiment d'Uni Dufour à Genève",
-    "added_at": "2025-05-16T06:18:51.014Z"
+    "added_at": "2025-05-16T06:18:51.014Z",
+    "removed_at": "2025-05-17T12:40:40.733Z",
+    "duration_minutes": 1821,
+    "duration_str": "1d 6h 21m"
   },
   {
     "title": "La Cour suprême américaine indécise sur le pouvoir des juges fédéraux",
@@ -9029,5 +9035,13 @@
   {
     "title": "La campagne présidentielle en Pologne marquée par un duel entre pro-européens et nationalistes",
     "added_at": "2025-05-17T11:39:25.264Z"
+  },
+  {
+    "title": "Des personnalités de la communauté juive française sortent du silence et dénoncent les crimes israéliens à Gaza",
+    "added_at": "2025-05-17T12:40:40.733Z"
+  },
+  {
+    "title": "L'extrême droite aux portes du pouvoir en Roumanie avant le second tour de la présidentielle",
+    "added_at": "2025-05-17T12:53:58.314Z"
   }
 ]
