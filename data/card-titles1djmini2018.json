@@ -5700,7 +5700,10 @@
   },
   {
     "title": "Critiquées pour leurs atteintes à l'environnement, les croisières continuent à augmenter",
-    "added_at": "2025-05-15T12:58:40.896Z"
+    "added_at": "2025-05-15T12:58:40.896Z",
+    "removed_at": "2025-05-17T15:51:34.483Z",
+    "duration_minutes": 3052,
+    "duration_str": "2d 2h 52m"
   },
   {
     "title": "Neuchâtel veut former 1100 infirmières et infirmiers supplémentaires",
@@ -5830,7 +5833,10 @@
   },
   {
     "title": "Le Conseil fédéral donne ses pistes d'orientation pour l'AVS",
-    "added_at": "2025-05-15T23:53:30.101Z"
+    "added_at": "2025-05-15T23:53:30.101Z",
+    "removed_at": "2025-05-17T16:01:03.842Z",
+    "duration_minutes": 2407,
+    "duration_str": "1d 16h 7m"
   },
   {
     "title": "Pour Keir Starmer, Vladimir Poutine doit \"payer le prix de son refus de la paix\" en Ukraine",
@@ -6222,5 +6228,13 @@
   {
     "title": "Donald Trump va s'entretenir lundi avec Vladimir Poutine pour \"mettre fin au bain de sang en Ukraine\"",
     "added_at": "2025-05-17T15:27:04.691Z"
+  },
+  {
+    "title": "Plusieurs personnes emportées dans une avalanche sur l'Eiger",
+    "added_at": "2025-05-17T15:51:34.483Z"
+  },
+  {
+    "title": "Incendie dans un manège à chevaux au Mont-sur-Lausanne",
+    "added_at": "2025-05-17T16:01:03.842Z"
   }
 ]
