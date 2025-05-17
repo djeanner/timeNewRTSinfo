@@ -3038,7 +3038,10 @@
   },
   {
     "title": "Israel kills 115 Palestinians in ‘opening moves’ of new Gaza war expansion",
-    "added_at": "2025-05-17T00:06:10.679Z"
+    "added_at": "2025-05-17T00:06:10.679Z",
+    "removed_at": "2025-05-17T04:46:58.091Z",
+    "duration_minutes": 280,
+    "duration_str": "4h 40m"
   },
   {
     "title": "The US announces first ‘terrorism’ charges for supporting a Mexican cartel",
@@ -3054,5 +3057,9 @@
     "removed_at": "2025-05-17T03:40:58.109Z",
     "duration_minutes": 1,
     "duration_str": "1m"
+  },
+  {
+    "title": "Israel kills 115 Palestinians in ‘opening moves’ of new Gaza war operation",
+    "added_at": "2025-05-17T04:46:58.091Z"
   }
 ]
