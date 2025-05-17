@@ -2605,7 +2605,10 @@
   },
   {
     "title": "Moody’s strips US government of top credit rating",
-    "added_at": "2025-05-16T23:27:19.652Z"
+    "added_at": "2025-05-16T23:27:19.652Z",
+    "removed_at": "2025-05-17T13:34:10.218Z",
+    "duration_minutes": 846,
+    "duration_str": "14h 6m"
   },
   {
     "title": "Israel kills 115 Palestinians in ‘opening moves’ of new Gaza war expansion",
@@ -2686,7 +2689,10 @@
   },
   {
     "title": "‘Palestine bleeding before our eyes’: Israel kills 150 in Gaza in a day",
-    "added_at": "2025-05-17T10:30:35.064Z"
+    "added_at": "2025-05-17T10:30:35.064Z",
+    "removed_at": "2025-05-17T14:08:30.554Z",
+    "duration_minutes": 217,
+    "duration_str": "3h 37m"
   },
   {
     "title": "UK police charge three Iranians with suspected espionage",
@@ -2711,5 +2717,27 @@
   {
     "title": "Iran’s leaders slam Trump for ‘disgraceful’ remarks during Middle East tour",
     "added_at": "2025-05-17T12:25:13.848Z"
+  },
+  {
+    "title": "Tornadoes kill at least 21 in southern US states",
+    "added_at": "2025-05-17T13:34:10.218Z",
+    "removed_at": "2025-05-17T13:53:13.722Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
+  },
+  {
+    "title": "Tornadoes kill 21 in US states of Missouri, Kentucky",
+    "added_at": "2025-05-17T13:53:13.722Z",
+    "removed_at": "2025-05-17T13:55:10.890Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Tornadoes kill 21 in US states of Missouri and Kentucky",
+    "added_at": "2025-05-17T13:55:10.890Z"
+  },
+  {
+    "title": "4 dead children pulled from Gaza’s rubble as Israel kills at least 41",
+    "added_at": "2025-05-17T14:08:30.554Z"
   }
 ]
