@@ -5807,7 +5807,10 @@
   },
   {
     "title": "Le Tribunal fédéral fête ses 150 ans et réaffirme son rôle essentiel",
-    "added_at": "2025-05-15T19:16:16.554Z"
+    "added_at": "2025-05-15T19:16:16.554Z",
+    "removed_at": "2025-05-17T17:05:13.132Z",
+    "duration_minutes": 2748,
+    "duration_str": "1d 21h 48m"
   },
   {
     "title": "Genève sévit contre les véhicules trop bruyants",
@@ -6003,7 +6006,10 @@
   },
   {
     "title": "Accords sur la migration Suisse-UE: dans quelles conditions la Suisse peut-elle activer les clauses de sauvegarde?",
-    "added_at": "2025-05-16T15:27:09.567Z"
+    "added_at": "2025-05-16T15:27:09.567Z",
+    "removed_at": "2025-05-17T16:59:34.210Z",
+    "duration_minutes": 1532,
+    "duration_str": "1d 1h 32m"
   },
   {
     "title": "Eurovision: des manifestations ont eu lieu contre la participation d'Israël",
@@ -6015,10 +6021,7 @@
   },
   {
     "title": "Les nouvelles normes pour lutter contre les bruits routiers sont plus strictes",
-    "added_at": "2025-05-16T15:27:09.567Z",
-    "removed_at": "2025-05-17T10:00:16.268Z",
-    "duration_minutes": 1113,
-    "duration_str": "18h 33m"
+    "added_at": "2025-05-16T15:27:09.567Z"
   },
   {
     "title": "Interview de l'artiste Nemo qui nous a offert l'Eurovision",
@@ -6103,7 +6106,10 @@
   },
   {
     "title": "La fièvre de l'Eurovision s'empare de Bâle avant la grande finale ce soir",
-    "added_at": "2025-05-17T05:37:49.950Z"
+    "added_at": "2025-05-17T05:37:49.950Z",
+    "removed_at": "2025-05-17T16:55:49.374Z",
+    "duration_minutes": 677,
+    "duration_str": "11h 17m"
   },
   {
     "title": "\"La Chine joue un double jeu en Birmanie\"",
@@ -6236,5 +6242,20 @@
   {
     "title": "Incendie dans un manège à chevaux au Mont-sur-Lausanne",
     "added_at": "2025-05-17T16:01:03.842Z"
+  },
+  {
+    "title": "A H-3 de la finale de l'Eurovision, l'effervescence gagne la ville de Bâle",
+    "added_at": "2025-05-17T16:55:49.374Z",
+    "removed_at": "2025-05-17T17:07:06.665Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "Des tornades font au moins 21 morts aux Etats-Unis",
+    "added_at": "2025-05-17T17:05:13.132Z"
+  },
+  {
+    "title": "A quelques heures de la finale de l'Eurovision, l'effervescence gagne la ville de Bâle",
+    "added_at": "2025-05-17T17:07:06.665Z"
   }
 ]

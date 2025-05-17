@@ -7519,7 +7519,10 @@
   },
   {
     "title": "At least 21 dead after tornado-spawning storms move across central US",
-    "added_at": "2025-05-17T13:24:17.937Z"
+    "added_at": "2025-05-17T13:24:17.937Z",
+    "removed_at": "2025-05-17T17:09:02.921Z",
+    "duration_minutes": 224,
+    "duration_str": "3h 44m"
   },
   {
     "title": "‘It’s what helps us forget the bombs’: Young girls keep skating in Gaza",
@@ -7566,10 +7569,21 @@
   },
   {
     "title": "Bodycam video shows residents trying to stop ICE agents from arresting woman",
-    "added_at": "2025-05-17T16:46:25.640Z"
+    "added_at": "2025-05-17T16:46:25.640Z",
+    "removed_at": "2025-05-17T17:09:02.921Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
   },
   {
     "title": "Why this massive city park might be the best in the US",
     "added_at": "2025-05-17T16:46:25.640Z"
+  },
+  {
+    "title": "Bodycam footage shows chaotic ICE arrest of woman in Massachusetts",
+    "added_at": "2025-05-17T17:09:02.921Z"
+  },
+  {
+    "title": "Tornadoes leave 21 dead and thousands of buildings damaged in central US",
+    "added_at": "2025-05-17T17:09:02.921Z"
   }
 ]
