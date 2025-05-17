@@ -4898,7 +4898,10 @@
   },
   {
     "title": "monde:::Le duel diplomatique de Volodymyr Zelensky et Vladimir Poutine, mis sous pression par Donald Trump",
-    "added_at": "2025-05-12T08:48:19.122Z"
+    "added_at": "2025-05-12T08:48:19.122Z",
+    "removed_at": "2025-05-17T09:27:31.177Z",
+    "duration_minutes": 7239,
+    "duration_str": "5d 39m"
   },
   {
     "title": "culture:::A Yverdon, la Maison d’Ailleurs explore les paysages de sa ville, et jusqu’à Aldébaran",
@@ -5431,10 +5434,7 @@
   },
   {
     "title": "monde:::Comment les Russes mènent Donald Trump «par le bout du nez»",
-    "added_at": "2025-05-14T04:18:49.755Z",
-    "removed_at": "2025-05-15T14:10:31.910Z",
-    "duration_minutes": 2031,
-    "duration_str": "1d 9h 51m"
+    "added_at": "2025-05-14T04:18:49.755Z"
   },
   {
     "title": "economie:::Comment les entreprises chinoises se jouent des droits de douane américains",
@@ -6242,7 +6242,10 @@
   },
   {
     "title": "monde:::En direct – Kiev et Moscou s’entendent sur un échange de 1000 prisonniers de chaque camp",
-    "added_at": "2025-05-16T13:57:30.856Z"
+    "added_at": "2025-05-16T13:57:30.856Z",
+    "removed_at": "2025-05-17T09:02:45.653Z",
+    "duration_minutes": 1145,
+    "duration_str": "19h 5m"
   },
   {
     "title": "monde:::Donald Trump dans le Golfe? Retour de tournée d’un «prince occidental»",
@@ -6380,10 +6383,28 @@
   },
   {
     "title": "economie:::Coup dur pour Donald Trump, Moody’s prive la dette américaine de son triple A",
-    "added_at": "2025-05-17T07:19:30.311Z"
+    "added_at": "2025-05-17T07:19:30.311Z",
+    "removed_at": "2025-05-17T09:27:31.177Z",
+    "duration_minutes": 128,
+    "duration_str": "2h 8m"
   },
   {
     "title": "culture:::Brigitte Rosset, en tournée avec un nouveau solo: «Ma mère disait que je pouvais faire mieux!»",
     "added_at": "2025-05-17T08:22:32.837Z"
+  },
+  {
+    "title": "monde:::En direct – Le Kremlin envisage une rencontre Poutine-Zelensky «uniquement à la suite d’accords entre les deux camps»",
+    "added_at": "2025-05-17T09:02:45.653Z",
+    "removed_at": "2025-05-17T09:06:32.661Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "monde:::En direct – Le Kremlin conditionne une rencontre Poutine-Zelensky à «des accords entre les deux camps»",
+    "added_at": "2025-05-17T09:06:32.661Z"
+  },
+  {
+    "title": "economie:::De la roseraie de la Maison-Blanche à l’accord de Cologny: trois enseignements du prologue de la guerre commerciale II",
+    "added_at": "2025-05-17T09:19:56.289Z"
   }
 ]
