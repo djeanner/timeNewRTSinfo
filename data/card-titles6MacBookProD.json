@@ -2687,7 +2687,10 @@
   },
   {
     "title": "Libyan ministers resign as protesters call for government to step down",
-    "added_at": "2025-05-17T09:56:16.249Z"
+    "added_at": "2025-05-17T09:56:16.249Z",
+    "removed_at": "2025-05-17T19:10:54.704Z",
+    "duration_minutes": 554,
+    "duration_str": "9h 14m"
   },
   {
     "title": "Gaza ‘carnage’ dominates agenda at Arab League summit in Baghdad",
@@ -2803,7 +2806,10 @@
   },
   {
     "title": "LIVE: Crystal Palace defeat Manchester City in FA Cup final – reaction",
-    "added_at": "2025-05-17T17:39:10.764Z"
+    "added_at": "2025-05-17T17:39:10.764Z",
+    "removed_at": "2025-05-17T18:38:25.205Z",
+    "duration_minutes": 59,
+    "duration_str": "59m"
   },
   {
     "title": "At least 21 dead after storms hit US states of Missouri and Kentucky",
@@ -2819,5 +2825,13 @@
   {
     "title": "Israel army prevents rescuers from bombed Gaza sites as death toll surges",
     "added_at": "2025-05-17T18:17:19.125Z"
+  },
+  {
+    "title": "Crystal Palace beat Man City 1-0 in FA Cup final at Wembley",
+    "added_at": "2025-05-17T18:38:25.205Z"
+  },
+  {
+    "title": "At least three killed as Syrian forces raid ISIL hideouts in Aleppo",
+    "added_at": "2025-05-17T19:10:54.704Z"
   }
 ]
