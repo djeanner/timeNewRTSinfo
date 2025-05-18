@@ -26,14 +26,14 @@
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-18T00:42:20.106Z",
+    "duration_minutes": 12340,
+    "duration_str": "8d 13h 40m"
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-18T00:31:00.238Z",
-    "duration_minutes": 12329,
-    "duration_str": "8d 13h 29m"
+    "added_at": "2025-05-09T11:01:45.077Z"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -315,9 +315,9 @@
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
     "added_at": "2025-05-09T11:11:38.599Z",
-    "removed_at": "2025-05-18T00:31:00.238Z",
-    "duration_minutes": 12319,
-    "duration_str": "8d 13h 19m"
+    "removed_at": "2025-05-18T00:46:03.070Z",
+    "duration_minutes": 12334,
+    "duration_str": "8d 13h 34m"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -7613,10 +7613,7 @@
   },
   {
     "title": "« La pause de trois mois dans la bataille commerciale entre la Chine et les Etats-Unis offre un répit. Pour autant, la guerre n’est pas finie »",
-    "added_at": "2025-05-15T04:17:48.207Z",
-    "removed_at": "2025-05-18T00:29:04.629Z",
-    "duration_minutes": 4091,
-    "duration_str": "2d 20h 11m"
+    "added_at": "2025-05-15T04:17:48.207Z"
   },
   {
     "title": "Les industriels français pris dans le bourbier des droits de douane américains",
@@ -10170,9 +10167,9 @@
   {
     "title": "Cannes 2025 : « Eddington » raconte la décomposition de l’Amérique sous le regard cruel d’Ari Aster",
     "added_at": "2025-05-17T06:32:32.304Z",
-    "removed_at": "2025-05-18T00:32:49.727Z",
-    "duration_minutes": 1080,
-    "duration_str": "18h"
+    "removed_at": "2025-05-18T00:36:41.573Z",
+    "duration_minutes": 1084,
+    "duration_str": "18h 4m"
   },
   {
     "title": "Guerre en Ukraine : une frappe russe sur un bus fait neuf morts dans le nord du pays",
@@ -10484,10 +10481,7 @@
   },
   {
     "title": "« C’était pas un accident, c’est raciste » : à Dunkerque, mobilisation pour faire reconnaître le caractère identitaire d’un meurtre",
-    "added_at": "2025-05-17T12:37:02.750Z",
-    "removed_at": "2025-05-18T00:32:49.727Z",
-    "duration_minutes": 715,
-    "duration_str": "11h 55m"
+    "added_at": "2025-05-17T12:37:02.750Z"
   },
   {
     "title": "Avec la baisse des cours du brut, l’Arabie saoudite se tourne vers la dette pour poursuivre ses grands projets",
@@ -10807,7 +10801,10 @@
   },
   {
     "title": "Guerre à Gaza : le chef de la diplomatie américaine, Marco Rubio s’est entretenu avec Benyamin Nétanyahou, pour la deuxième fois en trois jours",
-    "added_at": "2025-05-17T23:02:13.342Z"
+    "added_at": "2025-05-17T23:02:13.342Z",
+    "removed_at": "2025-05-18T00:36:41.573Z",
+    "duration_minutes": 94,
+    "duration_str": "1h 34m"
   },
   {
     "title": "En direct, guerre à Gaza : le chef de la diplomatie américaine, Marco Rubio s’est entretenu avec Benyamin Nétanyahou, pour la deuxième fois en trois jours",
@@ -10826,5 +10823,9 @@
     "removed_at": "2025-05-18T00:32:49.727Z",
     "duration_minutes": 3,
     "duration_str": "3m"
+  },
+  {
+    "title": "Guerre à Gaza : le chef de la diplomatie américaine, Marco Rubio, s’est entretenu avec Benyamin Nétanyahou, pour la deuxième fois en trois jours",
+    "added_at": "2025-05-18T00:36:41.573Z"
   }
 ]
