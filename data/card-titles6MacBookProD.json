@@ -2957,7 +2957,10 @@
   },
   {
     "title": "Mexican Navy ship crashes into New York’s Brooklyn Bridge, killing 2 people",
-    "added_at": "2025-05-18T06:47:27.872Z"
+    "added_at": "2025-05-18T06:47:27.872Z",
+    "removed_at": "2025-05-18T14:23:06.751Z",
+    "duration_minutes": 455,
+    "duration_str": "7h 35m"
   },
   {
     "title": "Romanians cast ballots in tense presidential run-off",
@@ -3041,11 +3044,17 @@
   },
   {
     "title": "Children burned to death in tents as Israel intensifies attacks across Gaza",
-    "added_at": "2025-05-18T12:18:36.501Z"
+    "added_at": "2025-05-18T12:18:36.501Z",
+    "removed_at": "2025-05-18T15:03:15.305Z",
+    "duration_minutes": 164,
+    "duration_str": "2h 44m"
   },
   {
     "title": "India’s space agency suffers setback as it fails to launch satellite",
-    "added_at": "2025-05-18T12:30:04.196Z"
+    "added_at": "2025-05-18T12:30:04.196Z",
+    "removed_at": "2025-05-18T14:23:06.751Z",
+    "duration_minutes": 113,
+    "duration_str": "1h 53m"
   },
   {
     "title": "Israel kills 135 Palestinians in Gaza, hospitals in north ‘out of service’",
@@ -3057,5 +3066,17 @@
   {
     "title": "Israeli military begins ‘extensive’ ground operation as 135 killed in Gaza",
     "added_at": "2025-05-18T13:50:36.030Z"
+  },
+  {
+    "title": "Pope Leo XIV meets Ukraine’s Zelenskyy after his inaugural Mass",
+    "added_at": "2025-05-18T14:23:06.751Z"
+  },
+  {
+    "title": "Mexican Navy sailing ship crashes into Brooklyn Bridge in New York",
+    "added_at": "2025-05-18T14:23:06.751Z"
+  },
+  {
+    "title": "Israel begins Gaza ground operation, kills 135 in relentless bombardment",
+    "added_at": "2025-05-18T15:03:15.305Z"
   }
 ]
