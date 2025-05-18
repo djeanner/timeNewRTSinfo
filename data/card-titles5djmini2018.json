@@ -30,7 +30,10 @@
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-18T09:17:59.876Z",
+    "duration_minutes": 12856,
+    "duration_str": "8d 22h 16m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -311,10 +314,7 @@
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T11:11:38.599Z",
-    "removed_at": "2025-05-18T09:00:59.598Z",
-    "duration_minutes": 12829,
-    "duration_str": "8d 21h 49m"
+    "added_at": "2025-05-09T11:11:38.599Z"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -7610,10 +7610,7 @@
   },
   {
     "title": "« La pause de trois mois dans la bataille commerciale entre la Chine et les Etats-Unis offre un répit. Pour autant, la guerre n’est pas finie »",
-    "added_at": "2025-05-15T04:17:48.207Z",
-    "removed_at": "2025-05-18T08:42:01.108Z",
-    "duration_minutes": 4584,
-    "duration_str": "3d 4h 24m"
+    "added_at": "2025-05-15T04:17:48.207Z"
   },
   {
     "title": "Les industriels français pris dans le bourbier des droits de douane américains",
@@ -10117,14 +10114,14 @@
   },
   {
     "title": "« Tout le monde devrait se sentir bienvenu dans l’eau » : le surf est-il réac ?",
-    "added_at": "2025-05-17T04:13:03.026Z"
+    "added_at": "2025-05-17T04:13:03.026Z",
+    "removed_at": "2025-05-18T09:16:04.118Z",
+    "duration_minutes": 1743,
+    "duration_str": "1d 5h 3m"
   },
   {
     "title": "Jason Furman, ancien conseiller de Barack Obama : « Donald Trump poursuit des objectifs économiques contradictoires »",
-    "added_at": "2025-05-17T04:18:41.345Z",
-    "removed_at": "2025-05-18T09:02:49.060Z",
-    "duration_minutes": 1724,
-    "duration_str": "1d 4h 44m"
+    "added_at": "2025-05-17T04:18:41.345Z"
   },
   {
     "title": "Israël bombarde intensément la bande de Gaza, les secours palestiniens font état de cent morts",
@@ -11038,7 +11035,10 @@
   },
   {
     "title": "L’armée ukrainienne dit avoir abattu 88 drones sur les 273 lancés contre le pays dans l’une des attaques russes les plus massives",
-    "added_at": "2025-05-18T07:26:36.129Z"
+    "added_at": "2025-05-18T07:26:36.129Z",
+    "removed_at": "2025-05-18T09:06:42.101Z",
+    "duration_minutes": 100,
+    "duration_str": "1h 40m"
   },
   {
     "title": "Le beurrier, l’ami du petit déjeuner",
@@ -11051,5 +11051,9 @@
   {
     "title": "Marie-Pierre Pruvot, alias « Bambi » : « Je voulais absolument être Madame Tout-le-Monde »",
     "added_at": "2025-05-18T07:56:48.044Z"
+  },
+  {
+    "title": "En direct : l’armée ukrainienne dit avoir abattu 88 drones sur les 273 lancés contre le pays dans l’une des attaques russes les plus massives",
+    "added_at": "2025-05-18T09:06:42.101Z"
   }
 ]
