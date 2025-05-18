@@ -3281,7 +3281,10 @@
   },
   {
     "title": "At least 21 dead after storms hit US states of Missouri and Kentucky",
-    "added_at": "2025-05-17T17:46:51.956Z"
+    "added_at": "2025-05-17T17:46:51.956Z",
+    "removed_at": "2025-05-18T07:37:53.609Z",
+    "duration_minutes": 831,
+    "duration_str": "13h 51m"
   },
   {
     "title": "Four dead children pulled from Gaza’s rubble as Israel kills at least 66",
@@ -3390,5 +3393,9 @@
   {
     "title": "Mexican Navy ship crashes into New York’s Brooklyn Bridge, killing 2 people",
     "added_at": "2025-05-18T06:48:54.670Z"
+  },
+  {
+    "title": "Romanians cast ballots in tense presidential run-off",
+    "added_at": "2025-05-18T07:37:53.609Z"
   }
 ]
