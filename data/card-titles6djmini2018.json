@@ -3425,10 +3425,7 @@
   },
   {
     "title": "Mexican Navy ship crashes into New York’s Brooklyn Bridge, killing 2 people",
-    "added_at": "2025-05-18T06:48:54.670Z",
-    "removed_at": "2025-05-18T14:24:12.696Z",
-    "duration_minutes": 455,
-    "duration_str": "7h 35m"
+    "added_at": "2025-05-18T06:48:54.670Z"
   },
   {
     "title": "Romanians cast ballots in tense presidential run-off",
@@ -3610,7 +3607,10 @@
   },
   {
     "title": "Pro-EU Nicusor Dan on course to beat hard-right rival in Romania election",
-    "added_at": "2025-05-18T18:12:02.982Z"
+    "added_at": "2025-05-18T18:12:02.982Z",
+    "removed_at": "2025-05-18T21:20:55.825Z",
+    "duration_minutes": 188,
+    "duration_str": "3h 8m"
   },
   {
     "title": "Hundreds of Palestinians ‘erased’ as Israel expands war on Gaza",
@@ -3626,10 +3626,21 @@
   },
   {
     "title": "Former US President Biden diagnosed with aggressive prostate cancer",
-    "added_at": "2025-05-18T20:58:17.250Z"
+    "added_at": "2025-05-18T20:58:17.250Z",
+    "removed_at": "2025-05-18T21:32:13.429Z",
+    "duration_minutes": 33,
+    "duration_str": "33m"
   },
   {
     "title": "Centrist Trzaskowski leads first round in Poland’s tight presidential poll",
     "added_at": "2025-05-18T21:07:46.941Z"
+  },
+  {
+    "title": "Pro-EU candidate Nicusor Dan defeats hard-right rival in Romania election",
+    "added_at": "2025-05-18T21:20:55.825Z"
+  },
+  {
+    "title": "Former US President Biden diagnosed with ‘aggressive’ prostate cancer",
+    "added_at": "2025-05-18T21:32:13.429Z"
   }
 ]
