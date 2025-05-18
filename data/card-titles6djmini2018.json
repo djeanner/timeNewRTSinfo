@@ -3497,7 +3497,10 @@
   },
   {
     "title": "Portugal holds its third elections in three years",
-    "added_at": "2025-05-18T11:35:56.583Z"
+    "added_at": "2025-05-18T11:35:56.583Z",
+    "removed_at": "2025-05-18T17:21:01.566Z",
+    "duration_minutes": 345,
+    "duration_str": "5h 45m"
   },
   {
     "title": "Israel kills 132 Palestinians in Gaza, hospitals in north ‘out of service’",
@@ -3582,5 +3585,9 @@
   {
     "title": "Israeli military begins ‘extensive’ ground operation as 140 killed in Gaza",
     "added_at": "2025-05-18T16:41:19.302Z"
+  },
+  {
+    "title": "Israeli strikes batter Gaza hospitals as brutal siege, bombing intensify",
+    "added_at": "2025-05-18T17:19:05.775Z"
   }
 ]
