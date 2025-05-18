@@ -6025,7 +6025,10 @@
   },
   {
     "title": "Eurovision: des manifestations ont eu lieu contre la participation d'Israël",
-    "added_at": "2025-05-16T15:27:09.567Z"
+    "added_at": "2025-05-16T15:27:09.567Z",
+    "removed_at": "2025-05-18T03:00:15.762Z",
+    "duration_minutes": 2133,
+    "duration_str": "1d 11h 33m"
   },
   {
     "title": "Le Conseil Fédéral présente ses pistes pour réformer l'AVS",
@@ -6372,5 +6375,9 @@
   {
     "title": "Des habitants du village haut-valaisan de Blatten évacués après une coulée de boue",
     "added_at": "2025-05-18T02:43:15.171Z"
+  },
+  {
+    "title": "En Ukraine, une attaque russe a fait neuf mort dans la région de Soumy",
+    "added_at": "2025-05-18T03:00:15.762Z"
   }
 ]
