@@ -2819,7 +2819,10 @@
   },
   {
     "title": "At least 21 dead after storms hit US states of Missouri and Kentucky",
-    "added_at": "2025-05-17T17:46:46.294Z"
+    "added_at": "2025-05-17T17:46:46.294Z",
+    "removed_at": "2025-05-18T07:37:14.869Z",
+    "duration_minutes": 830,
+    "duration_str": "13h 50m"
   },
   {
     "title": "Four dead children pulled from Gaza’s rubble as Israel kills at least 66",
@@ -2841,7 +2844,10 @@
   },
   {
     "title": "At least three killed as Syrian forces raid ISIL hideouts in Aleppo",
-    "added_at": "2025-05-17T19:10:54.704Z"
+    "added_at": "2025-05-17T19:10:54.704Z",
+    "removed_at": "2025-05-18T08:07:45.361Z",
+    "duration_minutes": 776,
+    "duration_str": "12h 56m"
   },
   {
     "title": "Blocked food by Israel rots at Gaza border as ‘clock ticks towards famine’",
@@ -2923,10 +2929,21 @@
   },
   {
     "title": "Israel kills over 100 Palestinians in Gaza, resumes truce talks with Hamas",
-    "added_at": "2025-05-18T06:43:39.333Z"
+    "added_at": "2025-05-18T06:43:39.333Z",
+    "removed_at": "2025-05-18T08:00:09.696Z",
+    "duration_minutes": 76,
+    "duration_str": "1h 16m"
   },
   {
     "title": "Mexican Navy ship crashes into New York’s Brooklyn Bridge, killing 2 people",
     "added_at": "2025-05-18T06:47:27.872Z"
+  },
+  {
+    "title": "Romanians cast ballots in tense presidential run-off",
+    "added_at": "2025-05-18T07:37:14.869Z"
+  },
+  {
+    "title": "Israel kills 125 Palestinians across Gaza, resumes truce talks with Hamas",
+    "added_at": "2025-05-18T08:00:09.696Z"
   }
 ]
