@@ -2801,7 +2801,10 @@
   },
   {
     "title": "culture:::Le grand guide de l’Eurovision 2025 – classement, prédictions et présentation interactive des 37 artistes",
-    "added_at": "2025-05-11T08:34:08.824Z"
+    "added_at": "2025-05-11T08:34:08.824Z",
+    "removed_at": "2025-05-18T07:45:27.450Z",
+    "duration_minutes": 10031,
+    "duration_str": "6d 23h 11m"
   },
   {
     "title": "culture:::D'Olivier Messiaen au luthier Jean-Loup Dierstein, l'héritage électronique des ondes Martenot",
@@ -4849,7 +4852,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le sommet arabe réclame plus de pressions internationales pour «stopper l’effusion de sang» à Gaza",
-    "added_at": "2025-05-18T05:44:31.546Z"
+    "added_at": "2025-05-18T05:44:31.546Z",
+    "removed_at": "2025-05-18T07:47:23.179Z",
+    "duration_minutes": 122,
+    "duration_str": "2h 2m"
   },
   {
     "title": "monde:::Au Portugal, l’illusion perdue des migrants sud-asiatiques",
@@ -4866,5 +4872,13 @@
   {
     "title": "culture:::Sainte Bretécher, qui pour nous dessiniez",
     "added_at": "2025-05-18T06:48:54.042Z"
+  },
+  {
+    "title": "monde:::Comment l'idée d'une recolonisation de Gaza a infusé dans la société israélienne",
+    "added_at": "2025-05-18T07:45:27.450Z"
+  },
+  {
+    "title": "monde:::En direct – Le sommet arabe réclame plus de pressions internationales pour «stopper l’effusion de sang» à Gaza",
+    "added_at": "2025-05-18T07:47:23.179Z"
   }
 ]
