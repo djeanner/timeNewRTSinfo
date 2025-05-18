@@ -5820,7 +5820,10 @@
   },
   {
     "title": "Genève sévit contre les véhicules trop bruyants",
-    "added_at": "2025-05-15T19:38:56.527Z"
+    "added_at": "2025-05-15T19:38:56.527Z",
+    "removed_at": "2025-05-18T01:33:27.442Z",
+    "duration_minutes": 3234,
+    "duration_str": "2d 5h 54m"
   },
   {
     "title": "C'est parti pour la deuxième demi-finale de l'Eurovision",
@@ -6273,7 +6276,10 @@
   },
   {
     "title": "Des tornades font au moins 21 morts aux Etats-Unis",
-    "added_at": "2025-05-17T17:05:13.132Z"
+    "added_at": "2025-05-17T17:05:13.132Z",
+    "removed_at": "2025-05-18T01:33:27.442Z",
+    "duration_minutes": 508,
+    "duration_str": "8h 28m"
   },
   {
     "title": "A quelques heures de la finale de l'Eurovision, l'effervescence gagne la ville de Bâle",
@@ -6344,5 +6350,13 @@
   {
     "title": "Premiers pourparlers de paix entre l'Ukraine et la Russie depuis trois ans",
     "added_at": "2025-05-17T23:02:12.708Z"
+  },
+  {
+    "title": "Rencontre entre Karin Keller-Sutter et Volodymyr Zelensky à Rome",
+    "added_at": "2025-05-18T01:33:27.442Z"
+  },
+  {
+    "title": "Des tornades font au moins 25 morts aux Etats-Unis",
+    "added_at": "2025-05-18T01:33:27.442Z"
   }
 ]
