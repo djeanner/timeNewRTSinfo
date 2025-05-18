@@ -6411,7 +6411,10 @@
   },
   {
     "title": "suisse:::Affaire Dittli: censée partir à la retraite, la directrice de la fiscalité est toujours en poste",
-    "added_at": "2025-05-17T06:08:41.257Z"
+    "added_at": "2025-05-17T06:08:41.257Z",
+    "removed_at": "2025-05-18T20:34:20.070Z",
+    "duration_minutes": 2305,
+    "duration_str": "1d 14h 25m"
   },
   {
     "title": "culture:::A l’Eurovision 2025, la Suède reste favorite mais rien n’est joué, et Bâle se frotte déjà les mains",
@@ -6900,7 +6903,10 @@
   },
   {
     "title": "suisse:::Les Yverdonnois veulent un parking souterrain de 1000 places",
-    "added_at": "2025-05-18T15:56:55.188Z"
+    "added_at": "2025-05-18T15:56:55.188Z",
+    "removed_at": "2025-05-18T20:26:38.412Z",
+    "duration_minutes": 269,
+    "duration_str": "4h 29m"
   },
   {
     "title": "cyber:::Il ne faudrait pas garder de vieux téléphones chez soi… Mais alors que deviennent les appareils que l’on donne?",
@@ -6929,5 +6935,13 @@
   {
     "title": "monde:::Au Portugal, la droite modérée remporte de peu les législatives, l’extrême droite fait un score historique",
     "added_at": "2025-05-18T20:01:37.785Z"
+  },
+  {
+    "title": "monde:::En Roumanie, le candidat pro-européen Nicusor Dan remporte la présidence",
+    "added_at": "2025-05-18T20:26:38.412Z"
+  },
+  {
+    "title": "monde:::Joe Biden a été diagnostiqué d’une forme «agressive» de cancer de la prostate",
+    "added_at": "2025-05-18T20:34:20.070Z"
   }
 ]
