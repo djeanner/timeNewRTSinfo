@@ -6281,7 +6281,10 @@
   },
   {
     "title": "suisse:::A Genève, voici le projet qui doit faire renaître le Musée d’art et d’histoire",
-    "added_at": "2025-05-16T14:28:11.985Z"
+    "added_at": "2025-05-16T14:28:11.985Z",
+    "removed_at": "2025-05-18T06:11:08.288Z",
+    "duration_minutes": 2382,
+    "duration_str": "1d 15h 42m"
   },
   {
     "title": "economie:::«Oui, mais»: la position des gestionnaires du réseau de distribution face à l’accord sur l’électricité qui se dessine",
@@ -6478,7 +6481,10 @@
   },
   {
     "title": "sport:::Anissa Chanchah esquive le handicap et boxe les préjugés",
-    "added_at": "2025-05-17T13:41:46.956Z"
+    "added_at": "2025-05-17T13:41:46.956Z",
+    "removed_at": "2025-05-18T06:01:32.148Z",
+    "duration_minutes": 979,
+    "duration_str": "16h 19m"
   },
   {
     "title": "culture:::Festival de Cannes: «Eddington», quand le shérif devient complotiste",
@@ -6551,10 +6557,7 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Donald Trump annonce qu’il parlera lundi à Vladimir Poutine",
-    "added_at": "2025-05-17T19:41:31.354Z",
-    "removed_at": "2025-05-17T19:56:53.626Z",
-    "duration_minutes": 15,
-    "duration_str": "15m"
+    "added_at": "2025-05-17T19:41:31.354Z"
   },
   {
     "title": "culture:::En direct, l’Eurovision 2025 à Bâle – Les finalistes défendent leurs chansons loin des manifestations",
@@ -6572,11 +6575,17 @@
   },
   {
     "title": "monde:::Moyen-Orient – Le sommet arabe réclame plus de pressions internationales pour «stopper l’effusion de sang» à Gaza",
-    "added_at": "2025-05-17T19:51:09.041Z"
+    "added_at": "2025-05-17T19:51:09.041Z",
+    "removed_at": "2025-05-18T05:44:21.234Z",
+    "duration_minutes": 593,
+    "duration_str": "9h 53m"
   },
   {
     "title": "monde:::Guerre en Ukraine – Donald Trump annonce qu’il parlera lundi à Vladimir Poutine",
-    "added_at": "2025-05-17T19:56:53.626Z"
+    "added_at": "2025-05-17T19:56:53.626Z",
+    "removed_at": "2025-05-18T05:46:16.684Z",
+    "duration_minutes": 589,
+    "duration_str": "9h 49m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 5: Marie Colomb, de «Loft Story» au Trophée Chopard",
@@ -6620,5 +6629,17 @@
   {
     "title": "culture:::A l’Eurovision 2025 à Bâle, l’Autriche remporte le concours, la Suisse finit dixième",
     "added_at": "2025-05-18T00:47:51.459Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le sommet arabe réclame plus de pressions internationales pour «stopper l’effusion de sang» à Gaza",
+    "added_at": "2025-05-18T05:44:21.234Z"
+  },
+  {
+    "title": "monde:::Au Portugal, l’illusion perdue des migrants sud-asiatiques",
+    "added_at": "2025-05-18T06:01:32.148Z"
+  },
+  {
+    "title": "monde:::Le choc d’un voilier mexicain contre le pont de Brooklyn fait deux morts à New York",
+    "added_at": "2025-05-18T06:11:08.288Z"
   }
 ]

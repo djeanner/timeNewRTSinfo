@@ -2819,10 +2819,7 @@
   },
   {
     "title": "At least 21 dead after storms hit US states of Missouri and Kentucky",
-    "added_at": "2025-05-17T17:46:46.294Z",
-    "removed_at": "2025-05-18T04:27:48.206Z",
-    "duration_minutes": 641,
-    "duration_str": "10h 41m"
+    "added_at": "2025-05-17T17:46:46.294Z"
   },
   {
     "title": "Four dead children pulled from Gaza’s rubble as Israel kills at least 66",
@@ -2902,6 +2899,20 @@
   },
   {
     "title": "Israel kills 78 in pre-dawn attacks on Gaza, resumes truce talks with Hamas",
-    "added_at": "2025-05-18T04:41:06.208Z"
+    "added_at": "2025-05-18T04:41:06.208Z",
+    "removed_at": "2025-05-18T05:50:05.449Z",
+    "duration_minutes": 68,
+    "duration_str": "1h 8m"
+  },
+  {
+    "title": "Israel kills 78 in predawn attacks on Gaza, resumes truce talks with Hamas",
+    "added_at": "2025-05-18T05:50:05.449Z",
+    "removed_at": "2025-05-18T06:18:43.685Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
+  },
+  {
+    "title": "Israel kills 97 since dawn across Gaza, resumes truce talks with Hamas",
+    "added_at": "2025-05-18T06:18:43.685Z"
   }
 ]
