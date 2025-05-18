@@ -2895,7 +2895,10 @@
   },
   {
     "title": "Mexican Navy ship crashes into New York’s Brooklyn Bridge, 19 injured",
-    "added_at": "2025-05-18T04:27:48.206Z"
+    "added_at": "2025-05-18T04:27:48.206Z",
+    "removed_at": "2025-05-18T06:47:27.872Z",
+    "duration_minutes": 139,
+    "duration_str": "2h 19m"
   },
   {
     "title": "Israel kills 78 in pre-dawn attacks on Gaza, resumes truce talks with Hamas",
@@ -2913,6 +2916,17 @@
   },
   {
     "title": "Israel kills 97 since dawn across Gaza, resumes truce talks with Hamas",
-    "added_at": "2025-05-18T06:18:43.685Z"
+    "added_at": "2025-05-18T06:18:43.685Z",
+    "removed_at": "2025-05-18T06:43:39.333Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "Israel kills over 100 Palestinians in Gaza, resumes truce talks with Hamas",
+    "added_at": "2025-05-18T06:43:39.333Z"
+  },
+  {
+    "title": "Mexican Navy ship crashes into New York’s Brooklyn Bridge, killing 2 people",
+    "added_at": "2025-05-18T06:47:27.872Z"
   }
 ]
