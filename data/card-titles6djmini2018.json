@@ -3306,7 +3306,10 @@
   },
   {
     "title": "At least three killed as Syrian forces raid ISIL hideouts in Aleppo",
-    "added_at": "2025-05-17T19:09:55.727Z"
+    "added_at": "2025-05-17T19:09:55.727Z",
+    "removed_at": "2025-05-18T08:08:04.924Z",
+    "duration_minutes": 778,
+    "duration_str": "12h 58m"
   },
   {
     "title": "Blocked food by Israel rots at Gaza border as ‘clock ticks towards famine’",
@@ -3388,7 +3391,10 @@
   },
   {
     "title": "Israel kills over 100 Palestinians in Gaza, resumes truce talks with Hamas",
-    "added_at": "2025-05-18T06:43:11.683Z"
+    "added_at": "2025-05-18T06:43:11.683Z",
+    "removed_at": "2025-05-18T07:58:43.559Z",
+    "duration_minutes": 75,
+    "duration_str": "1h 15m"
   },
   {
     "title": "Mexican Navy ship crashes into New York’s Brooklyn Bridge, killing 2 people",
@@ -3397,5 +3403,9 @@
   {
     "title": "Romanians cast ballots in tense presidential run-off",
     "added_at": "2025-05-18T07:37:53.609Z"
+  },
+  {
+    "title": "Israel kills 125 Palestinians across Gaza, resumes truce talks with Hamas",
+    "added_at": "2025-05-18T07:58:43.559Z"
   }
 ]
