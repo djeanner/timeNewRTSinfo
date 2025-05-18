@@ -72,8 +72,9 @@
   {
     "title": "Mexican Navy ship crashes into New York’s Brooklyn Bridge, killing 2 people",
     "added_at": "2025-05-18T06:47:27.872Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-18T22:17:47.837Z",
+    "duration_minutes": 930,
+    "duration_str": "15h 30m"
   },
   {
     "title": "Romanians cast ballots in tense presidential run-off",
@@ -223,8 +224,9 @@
   {
     "title": "EU, UK leaders to speak with Trump before his Putin call as Ukraine hit",
     "added_at": "2025-05-18T15:20:07.966Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-18T22:38:45.675Z",
+    "duration_minutes": 439,
+    "duration_str": "7h 19m"
   },
   {
     "title": "Red Bull’s Max Verstappen wins F1 Emilia-Romagna GP in Italy",
@@ -293,9 +295,9 @@
   {
     "title": "Former US President Biden diagnosed with aggressive prostate cancer",
     "added_at": "2025-05-18T20:58:17.250Z",
-    "removed_at": "2025-05-18T21:39:25.160Z",
-    "duration_minutes": 41,
-    "duration_str": "41m"
+    "removed_at": "2025-05-18T21:37:53.482Z",
+    "duration_minutes": 40,
+    "duration_str": "40m"
   },
   {
     "title": "Centrist Trzaskowski leads first round in Poland’s tight presidential poll",
@@ -312,6 +314,18 @@
   {
     "title": "Former US President Biden diagnosed with ‘aggressive’ prostate cancer",
     "added_at": "2025-05-18T21:31:49.449Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Portuguese PM’s party set to win general election, fall short of majority",
+    "added_at": "2025-05-18T22:17:47.837Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "EU, UK leaders speak with Trump before his Putin call as Ukraine hit",
+    "added_at": "2025-05-18T22:38:45.675Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
