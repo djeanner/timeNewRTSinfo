@@ -10658,7 +10658,10 @@
   },
   {
     "title": "Severe Weather Continues to Threaten the Middle of the U.S.",
-    "added_at": "2025-05-18T09:38:51.228Z"
+    "added_at": "2025-05-18T09:38:51.228Z",
+    "removed_at": "2025-05-18T12:43:53.776Z",
+    "duration_minutes": 185,
+    "duration_str": "3h 5m"
   },
   {
     "title": "The Group Behind Project 2025 Has a Plan to Crush the Pro-Palestinian Movement",
@@ -10701,7 +10704,10 @@
   },
   {
     "title": "Zelensky Attends Leo’s Mass After Pope Offered to Help End War",
-    "added_at": "2025-05-18T10:52:30.239Z"
+    "added_at": "2025-05-18T10:52:30.239Z",
+    "removed_at": "2025-05-18T12:43:53.776Z",
+    "duration_minutes": 111,
+    "duration_str": "1h 51m"
   },
   {
     "title": "Pope Leo XIV Celebrates Inaugural Mass as Head of Catholic Church",
@@ -10721,10 +10727,25 @@
   },
   {
     "title": "What to Know About the Deadly Tornadoes That Ripped Through the Central U.S.",
-    "added_at": "2025-05-18T12:26:55.027Z"
+    "added_at": "2025-05-18T12:26:55.027Z",
+    "removed_at": "2025-05-18T12:43:53.776Z",
+    "duration_minutes": 16,
+    "duration_str": "16m"
   },
   {
     "title": "Round 4 of P.G.A. Championship Is Underway",
     "added_at": "2025-05-18T12:26:55.027Z"
+  },
+  {
+    "title": "Zelensky to Meet With Pope Leo After Attending Inaugural Mass",
+    "added_at": "2025-05-18T12:36:25.516Z"
+  },
+  {
+    "title": "At Least 27 Killed After Storms in the Central U.S.: Here’s What to Know",
+    "added_at": "2025-05-18T12:40:08.659Z"
+  },
+  {
+    "title": "Severe Weather Continues to Threaten the Midwest",
+    "added_at": "2025-05-18T12:43:53.776Z"
   }
 ]
