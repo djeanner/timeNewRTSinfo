@@ -4489,7 +4489,10 @@
   },
   {
     "title": "suisse:::A Genève, voici le projet qui doit faire renaître le Musée d’art et d’histoire",
-    "added_at": "2025-05-16T14:26:45.365Z"
+    "added_at": "2025-05-16T14:26:45.365Z",
+    "removed_at": "2025-05-18T06:11:01.255Z",
+    "duration_minutes": 2384,
+    "duration_str": "1d 15h 44m"
   },
   {
     "title": "economie:::«Oui, mais»: la position des gestionnaires du réseau de distribution face à l’accord sur l’électricité qui se dessine",
@@ -4686,7 +4689,10 @@
   },
   {
     "title": "sport:::Anissa Chanchah esquive le handicap et boxe les préjugés",
-    "added_at": "2025-05-17T13:41:17.352Z"
+    "added_at": "2025-05-17T13:41:17.352Z",
+    "removed_at": "2025-05-18T06:01:32.318Z",
+    "duration_minutes": 980,
+    "duration_str": "16h 20m"
   },
   {
     "title": "culture:::Festival de Cannes: «Eddington», quand le shérif devient complotiste",
@@ -4835,5 +4841,13 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Le sommet arabe réclame plus de pressions internationales pour «stopper l’effusion de sang» à Gaza",
     "added_at": "2025-05-18T05:44:31.546Z"
+  },
+  {
+    "title": "monde:::Au Portugal, l’illusion perdue des migrants sud-asiatiques",
+    "added_at": "2025-05-18T06:01:32.318Z"
+  },
+  {
+    "title": "monde:::Le choc d’un voilier mexicain contre le pont de Brooklyn fait deux morts à New York",
+    "added_at": "2025-05-18T06:11:01.255Z"
   }
 ]
