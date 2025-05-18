@@ -4691,11 +4691,17 @@
   },
   {
     "title": "Did You Follow the News This Week? Take Our Quiz.",
-    "added_at": "2025-05-10T09:59:40.743Z"
+    "added_at": "2025-05-10T09:59:40.743Z",
+    "removed_at": "2025-05-18T21:15:14.503Z",
+    "duration_minutes": 12195,
+    "duration_str": "8d 11h 15m"
   },
   {
     "title": "Play Flashback, Your Weekly History Quiz",
-    "added_at": "2025-05-10T09:59:40.743Z"
+    "added_at": "2025-05-10T09:59:40.743Z",
+    "removed_at": "2025-05-18T21:15:14.503Z",
+    "duration_minutes": 12195,
+    "duration_str": "8d 11h 15m"
   },
   {
     "title": "Elon Musk, Henry Ford and the Rich Tradition of Rabble-Rousers",
@@ -10601,16 +10607,16 @@
   {
     "title": "Trump Shrugs Off Netanyahu on Gulf Tour",
     "added_at": "2025-05-18T04:08:12.005Z",
-    "removed_at": "2025-05-18T20:52:38.127Z",
-    "duration_minutes": 1004,
-    "duration_str": "16h 44m"
+    "removed_at": "2025-05-18T21:15:14.503Z",
+    "duration_minutes": 1027,
+    "duration_str": "17h 7m"
   },
   {
     "title": "JD Vance Returns to the Vatican, a Potential Reset for the American Right",
     "added_at": "2025-05-18T04:08:12.005Z",
-    "removed_at": "2025-05-18T20:52:38.127Z",
-    "duration_minutes": 1004,
-    "duration_str": "16h 44m"
+    "removed_at": "2025-05-18T21:15:14.503Z",
+    "duration_minutes": 1027,
+    "duration_str": "17h 7m"
   },
   {
     "title": "How One Woman Is Breaking a Military Stereotype in Ukraine",
@@ -10714,9 +10720,9 @@
   {
     "title": "Energized by Kennedy, Texas ‘Mad Moms’ Are Chipping Away at Vaccine Mandates",
     "added_at": "2025-05-18T10:03:26.319Z",
-    "removed_at": "2025-05-18T20:52:38.127Z",
-    "duration_minutes": 649,
-    "duration_str": "10h 49m"
+    "removed_at": "2025-05-18T21:15:14.503Z",
+    "duration_minutes": 671,
+    "duration_str": "11h 11m"
   },
   {
     "title": "The Role Her Parents Never Expected: Raising Her Sister’s Kids",
@@ -10728,9 +10734,9 @@
   {
     "title": "Is Every Top Democrat Running for President?",
     "added_at": "2025-05-18T10:03:26.319Z",
-    "removed_at": "2025-05-18T20:52:38.127Z",
-    "duration_minutes": 649,
-    "duration_str": "10h 49m"
+    "removed_at": "2025-05-18T21:15:14.503Z",
+    "duration_minutes": 671,
+    "duration_str": "11h 11m"
   },
   {
     "title": "Surgeons in Southern California Perform First Human Bladder Transplant",
@@ -10813,9 +10819,9 @@
   {
     "title": "Severe Weather Continues to Threaten the Midwest",
     "added_at": "2025-05-18T12:43:53.776Z",
-    "removed_at": "2025-05-18T20:48:52.974Z",
-    "duration_minutes": 484,
-    "duration_str": "8h 4m"
+    "removed_at": "2025-05-18T21:15:14.503Z",
+    "duration_minutes": 511,
+    "duration_str": "8h 31m"
   },
   {
     "title": "House Budget Committee Takes Up Trump’s Domestic Policy Bill, Again",
@@ -10868,16 +10874,16 @@
   {
     "title": "Pope Leo Calls for Diversity in Unity as He Begins His Pontificate",
     "added_at": "2025-05-18T17:11:30.664Z",
-    "removed_at": "2025-05-18T20:26:15.817Z",
-    "duration_minutes": 194,
-    "duration_str": "3h 14m"
+    "removed_at": "2025-05-18T21:15:14.503Z",
+    "duration_minutes": 243,
+    "duration_str": "4h 3m"
   },
   {
     "title": "Trump Envoy Says Iran Must Give Up Nuclear Enrichment Capability",
     "added_at": "2025-05-18T17:19:05.273Z",
-    "removed_at": "2025-05-18T20:52:38.127Z",
-    "duration_minutes": 213,
-    "duration_str": "3h 33m"
+    "removed_at": "2025-05-18T21:15:14.503Z",
+    "duration_minutes": 236,
+    "duration_str": "3h 56m"
   },
   {
     "title": "Suspect in Palm Springs Bombing Is Said to Have Died in Blast",
@@ -10907,7 +10913,10 @@
   },
   {
     "title": "The New York Liberty’s Season Opener Added Another Win for the City",
-    "added_at": "2025-05-18T19:08:54.899Z"
+    "added_at": "2025-05-18T19:08:54.899Z",
+    "removed_at": "2025-05-18T21:15:14.503Z",
+    "duration_minutes": 126,
+    "duration_str": "2h 6m"
   },
   {
     "title": "The Nuggets’ Interim Coach Spent a Lifetime Preparing for This Moment",
@@ -10943,5 +10952,9 @@
   {
     "title": "Severe Weather Continues to Threaten Parts of the U.S.",
     "added_at": "2025-05-18T20:48:52.974Z"
+  },
+  {
+    "title": "W.N.B.A. Is Said to Be Investigating Hateful Comments Toward Angel Reese",
+    "added_at": "2025-05-18T21:09:35.947Z"
   }
 ]
