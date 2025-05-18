@@ -6671,7 +6671,10 @@
   },
   {
     "title": "La Pologne vote lors du premier tour d'une élection présidentielle serrée",
-    "added_at": "2025-05-18T16:46:59.313Z"
+    "added_at": "2025-05-18T16:46:59.313Z",
+    "removed_at": "2025-05-18T20:22:29.864Z",
+    "duration_minutes": 215,
+    "duration_str": "3h 35m"
   },
   {
     "title": "Les travailleurs du bâtiment manifestent à Lausanne et Zurich",
@@ -6715,5 +6718,9 @@
   {
     "title": "Les premiers résultats des votations cantonales à Genève",
     "added_at": "2025-05-18T20:03:35.014Z"
+  },
+  {
+    "title": "Le candidat pro-européen Rafal Trzaskowski en tête au premier tour de la présidentielle en Pologne",
+    "added_at": "2025-05-18T20:22:29.864Z"
   }
 ]
