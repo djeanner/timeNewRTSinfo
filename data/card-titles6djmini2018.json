@@ -3419,7 +3419,10 @@
   },
   {
     "title": "Mexican Navy ship crashes into New York’s Brooklyn Bridge, killing 2 people",
-    "added_at": "2025-05-18T06:48:54.670Z"
+    "added_at": "2025-05-18T06:48:54.670Z",
+    "removed_at": "2025-05-18T14:24:12.696Z",
+    "duration_minutes": 455,
+    "duration_str": "7h 35m"
   },
   {
     "title": "Romanians cast ballots in tense presidential run-off",
@@ -3507,7 +3510,10 @@
   },
   {
     "title": "India’s space agency suffers setback as it fails to launch satellite",
-    "added_at": "2025-05-18T12:28:51.322Z"
+    "added_at": "2025-05-18T12:28:51.322Z",
+    "removed_at": "2025-05-18T14:24:12.696Z",
+    "duration_minutes": 115,
+    "duration_str": "1h 55m"
   },
   {
     "title": "Israel kills 135 Palestinians in Gaza, hospitals in north ‘out of service’",
@@ -3519,5 +3525,13 @@
   {
     "title": "Israeli military begins ‘extensive’ ground operation as 135 killed in Gaza",
     "added_at": "2025-05-18T13:50:12.609Z"
+  },
+  {
+    "title": "Pope Leo XIV meets Ukraine’s Zelenskyy after his inaugural Mass",
+    "added_at": "2025-05-18T14:24:12.696Z"
+  },
+  {
+    "title": "Mexican Navy sailing ship crashes into Brooklyn Bridge in New York",
+    "added_at": "2025-05-18T14:24:12.696Z"
   }
 ]
