@@ -4824,7 +4824,10 @@
   },
   {
     "title": "culture:::Festival de Cannes, jour 5: Marie Colomb, de «Loft Story» au Trophée Chopard",
-    "added_at": "2025-05-17T20:04:47.527Z"
+    "added_at": "2025-05-17T20:04:47.527Z",
+    "removed_at": "2025-05-18T14:44:10.000Z",
+    "duration_minutes": 1119,
+    "duration_str": "18h 39m"
   },
   {
     "title": "suisse:::Une avalanche sur l’Eiger fait deux victimes",
@@ -5067,5 +5070,9 @@
   {
     "title": "sport:::A l’approche de l’Euro en Suisse, Young Boys remporte un championnat national féminin enfin valorisé",
     "added_at": "2025-05-18T14:20:22.464Z"
+  },
+  {
+    "title": "cyber:::Une idée américaine surréaliste pour déréguler l’intelligence artificielle",
+    "added_at": "2025-05-18T14:44:10.000Z"
   }
 ]
