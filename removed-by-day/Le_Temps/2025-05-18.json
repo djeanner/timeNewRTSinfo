@@ -36,8 +36,9 @@
   {
     "title": "culture:::Sainte Bretécher, qui pour nous dessiniez",
     "added_at": "2025-05-18T06:47:27.541Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-18T11:55:41.226Z",
+    "duration_minutes": 308,
+    "duration_str": "5h 8m"
   },
   {
     "title": "monde:::Comment l'idée d'une recolonisation de Gaza a infusé dans la société israélienne",
@@ -74,15 +75,15 @@
   {
     "title": "culture:::A Lugano, Louisa Gagliardi explore les rêves techno-décadents des temps présents",
     "added_at": "2025-05-18T10:00:49.828Z",
-    "removed_at": "2025-05-18T10:52:34.192Z",
-    "duration_minutes": 52,
-    "duration_str": "52m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "suisse:::Votations à Genève: la pose de panneaux solaires sera renforcée. La fiscalité communale ne devrait pas changer",
     "added_at": "2025-05-18T10:08:26.094Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-18T12:28:06.462Z",
+    "duration_minutes": 140,
+    "duration_str": "2h 20m"
   },
   {
     "title": "monde:::En direct – Benyamin Netanyahou se dit ouvert à un accord incluant la «fin des combats» à Gaza",
@@ -92,40 +93,72 @@
   },
   {
     "title": "suisse:::Première Suisse: le syndic de Perroy démis de ses fonctions par la population",
-    "added_at": "2025-05-18T10:52:34.192Z",
-    "removed_at": "2025-05-18T10:58:17.920Z",
+    "added_at": "2025-05-18T10:52:30.112Z",
+    "removed_at": "2025-05-18T10:58:09.013Z",
     "duration_minutes": 6,
     "duration_str": "6m"
   },
   {
     "title": "suisse:::Le Jura devrait modifier sa Constitution pour pouvoir absorber Moutier",
-    "added_at": "2025-05-18T10:52:34.192Z",
-    "removed_at": "2025-05-18T11:23:03.361Z",
+    "added_at": "2025-05-18T10:52:30.112Z",
+    "removed_at": "2025-05-18T11:22:46.786Z",
     "duration_minutes": 30,
     "duration_str": "30m"
   },
   {
     "title": "monde:::En images – Bain de foule, parterre d’officiels, justice sociale… Le pape Léon XIV a célébré la messe d’inauguration de son pontificat",
-    "added_at": "2025-05-18T10:52:34.192Z",
+    "added_at": "2025-05-18T10:52:30.112Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "suisse:::Première Suisse: à Perroy, la population demet un syndic de ses fonctions",
-    "added_at": "2025-05-18T10:58:17.920Z",
-    "removed_at": "2025-05-18T11:00:09.131Z",
+    "added_at": "2025-05-18T10:58:09.013Z",
+    "removed_at": "2025-05-18T11:00:04.995Z",
     "duration_minutes": 2,
     "duration_str": "2m"
   },
   {
     "title": "suisse:::Première Suisse: à Perroy, la population demet le syndic de ses fonctions",
-    "added_at": "2025-05-18T11:00:09.131Z",
+    "added_at": "2025-05-18T11:00:04.995Z",
+    "removed_at": "2025-05-18T11:51:48.689Z",
+    "duration_minutes": 52,
+    "duration_str": "52m"
+  },
+  {
+    "title": "suisse:::Le Jura modifiera sa Constitution pour pouvoir absorber Moutier",
+    "added_at": "2025-05-18T11:22:46.786Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
-    "title": "suisse:::Le Jura modifiera sa Constitution pour pouvoir absorber Moutier",
-    "added_at": "2025-05-18T11:23:03.361Z",
+    "title": "suisse:::Première en Suisse: à Perroy, la population demet le syndic de ses fonctions",
+    "added_at": "2025-05-18T11:51:48.689Z",
+    "removed_at": "2025-05-18T12:18:36.134Z",
+    "duration_minutes": 27,
+    "duration_str": "27m"
+  },
+  {
+    "title": "culture:::Festival de Cannes: «Nouvelle Vague», et Godard créa «A bout de souffle»",
+    "added_at": "2025-05-18T11:55:41.226Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Yverdon dit oui à un parking souterrain de 1000 places",
+    "added_at": "2025-05-18T12:10:54.709Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Première en Suisse: à Perroy, la population démet le syndic de ses fonctions",
+    "added_at": "2025-05-18T12:18:36.134Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Votations à Genève: la pose de panneaux solaires sera renforcée. La fiscalité communale ne va pas changer",
+    "added_at": "2025-05-18T12:28:06.462Z",
     "duration_minutes": 0,
     "duration_str": ""
   }

@@ -8905,7 +8905,10 @@
   },
   {
     "title": "Des enfants partent à la découverte d'une icône jurassienne, la saucisse d'Ajoie",
-    "added_at": "2025-05-16T12:41:06.793Z"
+    "added_at": "2025-05-16T12:41:06.793Z",
+    "removed_at": "2025-05-18T11:42:16.413Z",
+    "duration_minutes": 2821,
+    "duration_str": "1d 23h 1m"
   },
   {
     "title": "Des ONG dénoncent le manque d'engagement de la Suisse dans la lutte internationale pour le climat",
@@ -8917,7 +8920,10 @@
   },
   {
     "title": "\"Partir un jour\" donne à la chanteuse française Juliette Armanet son premier grand rôle",
-    "added_at": "2025-05-16T13:55:39.323Z"
+    "added_at": "2025-05-16T13:55:39.323Z",
+    "removed_at": "2025-05-18T12:20:27.527Z",
+    "duration_minutes": 2784,
+    "duration_str": "1d 22h 24m"
   },
   {
     "title": "Les négociateurs russe et ukrainien évoquent un possible cessez-le-feu et une rencontre entre Poutine et Zelensky",
@@ -9438,5 +9444,27 @@
   {
     "title": "Second tour de la présidentielle en Roumanie entre un candidat d'extrême droite et un maire pro-européen",
     "added_at": "2025-05-18T11:34:31.014Z"
+  },
+  {
+    "title": "\"J'y vis, j'y paie\" refusée, modifications constitutionnelles et solaire acceptés",
+    "added_at": "2025-05-18T11:42:16.413Z",
+    "removed_at": "2025-05-18T11:46:04.915Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "Genève dit non sur la fiscalité et oui aux modifications constitutionnelles et au contreprojet sur le solaire",
+    "added_at": "2025-05-18T11:46:04.915Z",
+    "removed_at": "2025-05-18T11:48:00.171Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Genève dit non sur la fiscalité et oui aux modifications constitutionnelles ainsi qu'au contreprojet sur le solaire",
+    "added_at": "2025-05-18T11:48:00.171Z"
+  },
+  {
+    "title": "La population d'Yverdon-les-Bains donne son feu vert au parking souterrain d'environ 1000 places",
+    "added_at": "2025-05-18T12:20:27.527Z"
   }
 ]
