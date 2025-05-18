@@ -8869,7 +8869,10 @@
   },
   {
     "title": "Tir d'un loup isolé ordonné par les cantons de Vaud et de Neuchâtel",
-    "added_at": "2025-05-16T11:01:40.413Z"
+    "added_at": "2025-05-16T11:01:40.413Z",
+    "removed_at": "2025-05-18T10:21:49.261Z",
+    "duration_minutes": 2840,
+    "duration_str": "1d 23h 20m"
   },
   {
     "title": "Joaquin Phoenix, Pedro Pascal et Emma Stone attendus à Cannes pour \"Eddington\", un western moderne",
@@ -8880,7 +8883,10 @@
   },
   {
     "title": "La chanteuse Lea Maria Fries rend hommage aux femmes et à la reine Cléopâtre dans \"Cleo\"",
-    "added_at": "2025-05-16T11:51:22.180Z"
+    "added_at": "2025-05-16T11:51:22.180Z",
+    "removed_at": "2025-05-18T10:04:36.903Z",
+    "duration_minutes": 2773,
+    "duration_str": "1d 22h 13m"
   },
   {
     "title": "Captage de CO2: la start-up Climeworks se prépare à un licenciement massif",
@@ -9396,5 +9402,13 @@
   {
     "title": "Grok reprend la propagande d'extrême droite et parle de \"génocide blanc\"",
     "added_at": "2025-05-18T09:54:59.389Z"
+  },
+  {
+    "title": "Second tour de présidentielle en Roumanie entre un candidat d'extrême droite et un maire pro-européen",
+    "added_at": "2025-05-18T10:04:36.903Z"
+  },
+  {
+    "title": "L'expérimentation animale est-elle encore indispensable en 2025?",
+    "added_at": "2025-05-18T10:21:49.261Z"
   }
 ]
