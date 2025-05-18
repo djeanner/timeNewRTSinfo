@@ -26,14 +26,14 @@
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-18T09:36:51.638Z",
+    "duration_minutes": 12875,
+    "duration_str": "8d 22h 35m"
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-18T09:17:59.876Z",
-    "duration_minutes": 12856,
-    "duration_str": "8d 22h 16m"
+    "added_at": "2025-05-09T11:01:45.077Z"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -5358,7 +5358,10 @@
   },
   {
     "title": "Les bombes planantes : l’astuce de la Russie pour recycler ses vieilles armes",
-    "added_at": "2025-05-13T10:01:09.971Z"
+    "added_at": "2025-05-13T10:01:09.971Z",
+    "removed_at": "2025-05-18T09:31:12.908Z",
+    "duration_minutes": 7170,
+    "duration_str": "4d 23h 30m"
   },
   {
     "title": "Gérard Depardieu condamné à dix-huit mois de prison avec sursis pour agressions sexuelles sur le tournage du film « Les Volets verts »",
@@ -7610,7 +7613,10 @@
   },
   {
     "title": "« La pause de trois mois dans la bataille commerciale entre la Chine et les Etats-Unis offre un répit. Pour autant, la guerre n’est pas finie »",
-    "added_at": "2025-05-15T04:17:48.207Z"
+    "added_at": "2025-05-15T04:17:48.207Z",
+    "removed_at": "2025-05-18T09:23:44.051Z",
+    "duration_minutes": 4625,
+    "duration_str": "3d 5h 5m"
   },
   {
     "title": "Les industriels français pris dans le bourbier des droits de douane américains",
@@ -8669,9 +8675,9 @@
   {
     "title": "« Les éditeurs de sites sont face au spectre d’un Web créé par et pour les IA »",
     "added_at": "2025-05-15T18:30:59.253Z",
-    "removed_at": "2025-05-18T09:02:49.060Z",
-    "duration_minutes": 3751,
-    "duration_str": "2d 14h 31m"
+    "removed_at": "2025-05-18T09:27:27.128Z",
+    "duration_minutes": 3776,
+    "duration_str": "2d 14h 56m"
   },
   {
     "title": "La mort de Daniel Bilalian, journaliste au service de la télévision publique pendant près d’un demi-siècle",
@@ -9142,10 +9148,7 @@
   },
   {
     "title": "Les drones de combat exacerbent la violence dans un Soudan en pleine guerre civile",
-    "added_at": "2025-05-16T07:55:52.133Z",
-    "removed_at": "2025-05-18T08:47:44.525Z",
-    "duration_minutes": 2931,
-    "duration_str": "2d 51m"
+    "added_at": "2025-05-16T07:55:52.133Z"
   },
   {
     "title": "L’armée israélienne continue de bombarder la bande de Gaza, plus de 50 personnes tuées, selon la défense civile palestinienne",
@@ -10114,10 +10117,7 @@
   },
   {
     "title": "« Tout le monde devrait se sentir bienvenu dans l’eau » : le surf est-il réac ?",
-    "added_at": "2025-05-17T04:13:03.026Z",
-    "removed_at": "2025-05-18T09:16:04.118Z",
-    "duration_minutes": 1743,
-    "duration_str": "1d 5h 3m"
+    "added_at": "2025-05-17T04:13:03.026Z"
   },
   {
     "title": "Jason Furman, ancien conseiller de Barack Obama : « Donald Trump poursuit des objectifs économiques contradictoires »",
@@ -10951,7 +10951,10 @@
   },
   {
     "title": "Avec un baril sous la barre des 70 dollars, les enjeux d’une nouvelle donne pétrolière",
-    "added_at": "2025-05-18T04:17:43.239Z"
+    "added_at": "2025-05-18T04:17:43.239Z",
+    "removed_at": "2025-05-18T09:33:06.385Z",
+    "duration_minutes": 315,
+    "duration_str": "5h 15m"
   },
   {
     "title": "Des souris de labos en retraite dans une classe de primaire alsacienne",
@@ -11054,6 +11057,17 @@
   },
   {
     "title": "En direct : l’armée ukrainienne dit avoir abattu 88 drones sur les 273 lancés contre le pays dans l’une des attaques russes les plus massives",
-    "added_at": "2025-05-18T09:06:42.101Z"
+    "added_at": "2025-05-18T09:06:42.101Z",
+    "removed_at": "2025-05-18T09:31:12.908Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "En direct : l’armée ukrainienne a fait état de l’une des attaques russes les plus massives dans la nuit",
+    "added_at": "2025-05-18T09:31:12.908Z"
+  },
+  {
+    "title": "Avec un baril sous la barre des 70 dollars, les enjeux de la chute des cours du pétrole",
+    "added_at": "2025-05-18T09:33:06.385Z"
   }
 ]
