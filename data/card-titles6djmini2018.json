@@ -3474,7 +3474,10 @@
   },
   {
     "title": "Poland votes in tight presidential election",
-    "added_at": "2025-05-18T09:50:10.273Z"
+    "added_at": "2025-05-18T09:50:10.273Z",
+    "removed_at": "2025-05-18T19:46:37.941Z",
+    "duration_minutes": 596,
+    "duration_str": "9h 56m"
   },
   {
     "title": "Israel kills 125 Palestinians in Gaza, hospitals in north ‘out of service’",
@@ -3584,9 +3587,9 @@
   {
     "title": "Israel begins Gaza ground operation, kills 140 in relentless bombardment",
     "added_at": "2025-05-18T16:09:10.842Z",
-    "removed_at": "2025-05-18T19:31:35.449Z",
-    "duration_minutes": 202,
-    "duration_str": "3h 22m"
+    "removed_at": "2025-05-18T19:40:59.538Z",
+    "duration_minutes": 211,
+    "duration_str": "3h 31m"
   },
   {
     "title": "Israeli military begins ‘extensive’ ground operation as 140 killed in Gaza",
@@ -3610,5 +3613,9 @@
   {
     "title": "Israel begins Gaza ground operation, kills 144 in relentless bombardment",
     "added_at": "2025-05-18T19:31:35.449Z"
+  },
+  {
+    "title": "Deadly blast rocks police station in eastern Syria, killing three: Report",
+    "added_at": "2025-05-18T19:46:37.941Z"
   }
 ]
