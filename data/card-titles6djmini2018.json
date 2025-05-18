@@ -3508,7 +3508,10 @@
   },
   {
     "title": "At least 10 reported killed in suicide bomb blast in Somalia’s Mogadishu",
-    "added_at": "2025-05-18T11:47:17.133Z"
+    "added_at": "2025-05-18T11:47:17.133Z",
+    "removed_at": "2025-05-18T16:09:10.842Z",
+    "duration_minutes": 261,
+    "duration_str": "4h 21m"
   },
   {
     "title": "Children burned to death in tents as Israel intensifies attacks across Gaza",
@@ -3548,7 +3551,10 @@
   },
   {
     "title": "Israel begins Gaza ground operation, kills 135 in relentless bombardment",
-    "added_at": "2025-05-18T15:03:07.566Z"
+    "added_at": "2025-05-18T15:03:07.566Z",
+    "removed_at": "2025-05-18T16:09:10.842Z",
+    "duration_minutes": 66,
+    "duration_str": "1h 6m"
   },
   {
     "title": "EU, UK leaders to speak with Trump before his Putin call as Ukraine hit",
@@ -3561,5 +3567,13 @@
   {
     "title": "South Korea’s presidential candidates hold first heated debate",
     "added_at": "2025-05-18T15:50:22.222Z"
+  },
+  {
+    "title": "At least 13 reported killed in suicide bomb blast in Somalia’s Mogadishu",
+    "added_at": "2025-05-18T16:09:10.842Z"
+  },
+  {
+    "title": "Israel begins Gaza ground operation, kills 140 in relentless bombardment",
+    "added_at": "2025-05-18T16:09:10.842Z"
   }
 ]
