@@ -6028,7 +6028,10 @@
   },
   {
     "title": "Des enfants partent à la découverte d'une icône jurassienne, la saucisse d'Ajoie",
-    "added_at": "2025-05-16T12:40:54.445Z"
+    "added_at": "2025-05-16T12:40:54.445Z",
+    "removed_at": "2025-05-18T11:41:37.048Z",
+    "duration_minutes": 2820,
+    "duration_str": "1d 23h"
   },
   {
     "title": "Des ONG dénoncent le manque d'engagement de la Suisse dans la lutte internationale pour le climat",
@@ -6554,5 +6557,23 @@
   {
     "title": "Second tour de la présidentielle en Roumanie entre un candidat d'extrême droite et un maire pro-européen",
     "added_at": "2025-05-18T11:34:05.921Z"
+  },
+  {
+    "title": "\"J'y vis, j'y paie\" refusée, modifications constitutionnelles et solaire acceptés",
+    "added_at": "2025-05-18T11:41:37.048Z",
+    "removed_at": "2025-05-18T11:45:26.832Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "Genève dit non sur la fiscalité et oui aux modifications constitutionnelles et au contreprojet sur le solaire",
+    "added_at": "2025-05-18T11:45:26.832Z",
+    "removed_at": "2025-05-18T11:49:10.344Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "Genève dit non sur la fiscalité et oui aux modifications constitutionnelles ainsi qu'au contreprojet sur le solaire",
+    "added_at": "2025-05-18T11:49:10.344Z"
   }
 ]

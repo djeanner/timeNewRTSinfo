@@ -4670,7 +4670,10 @@
   },
   {
     "title": "economie:::Exclusif – Paris prépare un petit Choose France consacré à la Suisse",
-    "added_at": "2025-05-17T11:02:32.105Z"
+    "added_at": "2025-05-17T11:02:32.105Z",
+    "removed_at": "2025-05-18T11:51:06.763Z",
+    "duration_minutes": 1488,
+    "duration_str": "1d 48m"
   },
   {
     "title": "suisse:::«Cette annonce ne nous a pas plu du tout»: Beat Jans se rendra à Berlin pour discuter des contrôles aux frontières",
@@ -4916,10 +4919,7 @@
   },
   {
     "title": "culture:::A Lugano, Louisa Gagliardi explore les rêves techno-décadents des temps présents",
-    "added_at": "2025-05-18T10:01:30.526Z",
-    "removed_at": "2025-05-18T10:52:30.112Z",
-    "duration_minutes": 50,
-    "duration_str": "50m"
+    "added_at": "2025-05-18T10:01:30.526Z"
   },
   {
     "title": "suisse:::Votations à Genève: la pose de panneaux solaires sera renforcée. La fiscalité communale ne devrait pas changer",
@@ -4956,10 +4956,17 @@
   },
   {
     "title": "suisse:::Première Suisse: à Perroy, la population demet le syndic de ses fonctions",
-    "added_at": "2025-05-18T11:00:04.995Z"
+    "added_at": "2025-05-18T11:00:04.995Z",
+    "removed_at": "2025-05-18T11:52:56.712Z",
+    "duration_minutes": 52,
+    "duration_str": "52m"
   },
   {
     "title": "suisse:::Le Jura modifiera sa Constitution pour pouvoir absorber Moutier",
     "added_at": "2025-05-18T11:22:46.786Z"
+  },
+  {
+    "title": "suisse:::Première en Suisse: à Perroy, la population demet le syndic de ses fonctions",
+    "added_at": "2025-05-18T11:52:56.712Z"
   }
 ]
