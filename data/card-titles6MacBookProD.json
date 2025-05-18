@@ -3046,7 +3046,10 @@
   },
   {
     "title": "At least 10 reported killed in suicide bomb blast in Somalia’s Mogadishu",
-    "added_at": "2025-05-18T11:48:00.546Z"
+    "added_at": "2025-05-18T11:48:00.546Z",
+    "removed_at": "2025-05-18T16:08:34.916Z",
+    "duration_minutes": 260,
+    "duration_str": "4h 20m"
   },
   {
     "title": "Children burned to death in tents as Israel intensifies attacks across Gaza",
@@ -3071,7 +3074,10 @@
   },
   {
     "title": "Israeli military begins ‘extensive’ ground operation as 135 killed in Gaza",
-    "added_at": "2025-05-18T13:50:36.030Z"
+    "added_at": "2025-05-18T13:50:36.030Z",
+    "removed_at": "2025-05-18T16:41:10.342Z",
+    "duration_minutes": 170,
+    "duration_str": "2h 50m"
   },
   {
     "title": "Pope Leo XIV meets Ukraine’s Zelenskyy after his inaugural Mass",
@@ -3086,7 +3092,10 @@
   },
   {
     "title": "Israel begins Gaza ground operation, kills 135 in relentless bombardment",
-    "added_at": "2025-05-18T15:03:15.305Z"
+    "added_at": "2025-05-18T15:03:15.305Z",
+    "removed_at": "2025-05-18T16:08:34.916Z",
+    "duration_minutes": 65,
+    "duration_str": "1h 5m"
   },
   {
     "title": "EU, UK leaders to speak with Trump before his Putin call as Ukraine hit",
@@ -3099,5 +3108,17 @@
   {
     "title": "South Korea’s presidential candidates hold first heated debate",
     "added_at": "2025-05-18T15:51:11.291Z"
+  },
+  {
+    "title": "At least 13 reported killed in suicide bomb blast in Somalia’s Mogadishu",
+    "added_at": "2025-05-18T16:08:34.916Z"
+  },
+  {
+    "title": "Israel begins Gaza ground operation, kills 140 in relentless bombardment",
+    "added_at": "2025-05-18T16:08:34.916Z"
+  },
+  {
+    "title": "Israeli military begins ‘extensive’ ground operation as 140 killed in Gaza",
+    "added_at": "2025-05-18T16:41:10.342Z"
   }
 ]
