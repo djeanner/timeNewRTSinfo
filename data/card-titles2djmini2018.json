@@ -4889,7 +4889,10 @@
   },
   {
     "title": "culture:::Sainte Bretécher, qui pour nous dessiniez",
-    "added_at": "2025-05-18T06:48:54.042Z"
+    "added_at": "2025-05-18T06:48:54.042Z",
+    "removed_at": "2025-05-18T11:54:52.856Z",
+    "duration_minutes": 305,
+    "duration_str": "5h 5m"
   },
   {
     "title": "monde:::Comment l'idée d'une recolonisation de Gaza a infusé dans la société israélienne",
@@ -4968,5 +4971,9 @@
   {
     "title": "suisse:::Première en Suisse: à Perroy, la population demet le syndic de ses fonctions",
     "added_at": "2025-05-18T11:52:56.712Z"
+  },
+  {
+    "title": "culture:::Festival de Cannes: «Nouvelle Vague», et Godard créa «A bout de souffle»",
+    "added_at": "2025-05-18T11:54:52.856Z"
   }
 ]
