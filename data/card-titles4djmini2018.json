@@ -6691,7 +6691,10 @@
   },
   {
     "title": "Once ‘dead’ thrusters on the farthest spacecraft from Earth are in action again",
-    "added_at": "2025-05-16T08:27:53.160Z"
+    "added_at": "2025-05-16T08:27:53.160Z",
+    "removed_at": "2025-05-18T16:16:45.520Z",
+    "duration_minutes": 3348,
+    "duration_str": "2d 7h 48m"
   },
   {
     "title": "Engineers go on strike at NJ Transit, halting the nation’s third-largest commuter line",
@@ -7543,10 +7546,7 @@
   },
   {
     "title": "Ancient home shows evidence of how Pompeiians tried to shelter from the eruption of Mount Vesuvius",
-    "added_at": "2025-05-17T12:01:04.650Z",
-    "removed_at": "2025-05-17T21:40:58.551Z",
-    "duration_minutes": 579,
-    "duration_str": "9h 39m"
+    "added_at": "2025-05-17T12:01:04.650Z"
   },
   {
     "title": "Cassie Ventura’s emotionally gripping and graphic testimony may be key to more serious charges against Sean ‘Diddy’ Combs",
@@ -8150,5 +8150,9 @@
   {
     "title": "Here’s how the nighttime escape of 10 inmates from a New Orleans jail unfolded",
     "added_at": "2025-05-18T16:03:31.884Z"
+  },
+  {
+    "title": "Chelsea seals treble with victory over Manchester United in Women’s FA Cup final",
+    "added_at": "2025-05-18T16:24:20.254Z"
   }
 ]
