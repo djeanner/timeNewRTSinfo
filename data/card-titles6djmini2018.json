@@ -3425,7 +3425,10 @@
   },
   {
     "title": "Mexican Navy ship crashes into New York’s Brooklyn Bridge, killing 2 people",
-    "added_at": "2025-05-18T06:48:54.670Z"
+    "added_at": "2025-05-18T06:48:54.670Z",
+    "removed_at": "2025-05-18T22:17:25.428Z",
+    "duration_minutes": 928,
+    "duration_str": "15h 28m"
   },
   {
     "title": "Romanians cast ballots in tense presidential run-off",
@@ -3642,5 +3645,9 @@
   {
     "title": "Former US President Biden diagnosed with ‘aggressive’ prostate cancer",
     "added_at": "2025-05-18T21:32:13.429Z"
+  },
+  {
+    "title": "Portuguese PM’s party set to win general election, fall short of majority",
+    "added_at": "2025-05-18T22:17:25.428Z"
   }
 ]
