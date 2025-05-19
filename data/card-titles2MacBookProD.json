@@ -7060,7 +7060,10 @@
   },
   {
     "title": "suisse:::«Je trouve terrible d’éliminer le loup, mais je comprends aussi les conséquences pour les éleveurs»: à l’école des effaroucheurs de loups",
-    "added_at": "2025-05-19T04:59:59.609Z"
+    "added_at": "2025-05-19T04:59:59.609Z",
+    "removed_at": "2025-05-19T14:35:13.342Z",
+    "duration_minutes": 575,
+    "duration_str": "9h 35m"
   },
   {
     "title": "culture:::A Genève, le Musée d’ethnographie met en scène l’essence des sonorités africaines",
@@ -7089,7 +7092,10 @@
   },
   {
     "title": "suisse:::Menacé par un éboulement, le village valaisan de Blatten doit être totalement évacué",
-    "added_at": "2025-05-19T08:42:18.019Z"
+    "added_at": "2025-05-19T08:42:18.019Z",
+    "removed_at": "2025-05-19T14:52:26.804Z",
+    "duration_minutes": 370,
+    "duration_str": "6h 10m"
   },
   {
     "title": "monde:::Bruxelles et Londres s’accordent pour relancer leur relation",
@@ -7100,10 +7106,7 @@
   },
   {
     "title": "monde:::Le tsunami Bruno Retailleau fait rêver la droite traditionnelle française",
-    "added_at": "2025-05-19T09:45:32.638Z",
-    "removed_at": "2025-05-19T13:22:14.862Z",
-    "duration_minutes": 216,
-    "duration_str": "3h 36m"
+    "added_at": "2025-05-19T09:45:32.638Z"
   },
   {
     "title": "suisse:::La gare Cornavin évacuée sur ordre des autorités",
@@ -7158,7 +7161,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Des échanges téléphoniques avant l'appel entre Donald Trump et Vladimir Poutine",
-    "added_at": "2025-05-19T12:07:29.298Z"
+    "added_at": "2025-05-19T12:07:29.298Z",
+    "removed_at": "2025-05-19T14:54:18.262Z",
+    "duration_minutes": 166,
+    "duration_str": "2h 46m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël va prendre le contrôle «de tout le territoire» de la bande de Gaza",
@@ -7194,5 +7200,17 @@
   {
     "title": "monde:::L’extrême droite ramène le Portugal à son passé en renversant le bipartisme",
     "added_at": "2025-05-19T13:52:59.835Z"
+  },
+  {
+    "title": "economie:::Après la publication d’un rapport accablant, le sort de Nestlé Waters est encore loin d’être réglé",
+    "added_at": "2025-05-19T14:35:13.342Z"
+  },
+  {
+    "title": "suisse:::Un important éboulement s’est produit après l’évacuation du village valaisan de Blatten",
+    "added_at": "2025-05-19T14:52:26.804Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – L’appel entre Donald Trump et Vladimir Poutine a commencé",
+    "added_at": "2025-05-19T14:54:18.262Z"
   }
 ]

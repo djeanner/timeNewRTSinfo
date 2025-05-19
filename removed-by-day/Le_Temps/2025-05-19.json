@@ -44,15 +44,16 @@
   {
     "title": "suisse:::«Je trouve terrible d’éliminer le loup, mais je comprends aussi les conséquences pour les éleveurs»: à l’école des effaroucheurs de loups",
     "added_at": "2025-05-19T04:59:30.589Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-19T14:35:13.342Z",
+    "duration_minutes": 576,
+    "duration_str": "9h 36m"
   },
   {
     "title": "culture:::A Genève, le Musée d’ethnographie met en scène l’essence des sonorités africaines",
     "added_at": "2025-05-19T05:49:44.606Z",
-    "removed_at": "2025-05-19T13:58:43.339Z",
-    "duration_minutes": 489,
-    "duration_str": "8h 9m"
+    "removed_at": "2025-05-19T13:58:03.983Z",
+    "duration_minutes": 488,
+    "duration_str": "8h 8m"
   },
   {
     "title": "monde:::Le Rwanda s’affiche en «rival» de la Genève internationale",
@@ -77,8 +78,9 @@
   {
     "title": "suisse:::Menacé par un éboulement, le village valaisan de Blatten doit être totalement évacué",
     "added_at": "2025-05-19T08:42:18.019Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-19T14:52:26.804Z",
+    "duration_minutes": 370,
+    "duration_str": "6h 10m"
   },
   {
     "title": "monde:::Bruxelles et Londres s’accordent pour relancer leur relation",
@@ -90,9 +92,8 @@
   {
     "title": "monde:::Le tsunami Bruno Retailleau fait rêver la droite traditionnelle française",
     "added_at": "2025-05-19T09:45:32.638Z",
-    "removed_at": "2025-05-19T13:22:14.862Z",
-    "duration_minutes": 217,
-    "duration_str": "3h 37m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "suisse:::La gare Cornavin évacuée sur ordre des autorités",
@@ -156,15 +157,16 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Des échanges téléphoniques avant l'appel entre Donald Trump et Vladimir Poutine",
     "added_at": "2025-05-19T12:06:46.061Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-19T14:54:18.262Z",
+    "duration_minutes": 168,
+    "duration_str": "2h 48m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël va prendre le contrôle «de tout le territoire» de la bande de Gaza",
     "added_at": "2025-05-19T12:15:08.137Z",
-    "removed_at": "2025-05-19T13:51:03.866Z",
-    "duration_minutes": 96,
-    "duration_str": "1h 36m"
+    "removed_at": "2025-05-19T13:50:35.131Z",
+    "duration_minutes": 95,
+    "duration_str": "1h 35m"
   },
   {
     "title": "culture:::Au Cap-Vert, la bande-son des indépendances résonne en mode majeur",
@@ -192,19 +194,37 @@
   },
   {
     "title": "suisse:::Eurovision: à Bâle, on proclame un «succès total»",
-    "added_at": "2025-05-19T13:29:54.140Z",
+    "added_at": "2025-05-19T13:29:47.588Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël annonce l'approvisionnement de Gaza en nourriture pour bébés",
-    "added_at": "2025-05-19T13:51:03.866Z",
+    "added_at": "2025-05-19T13:50:35.131Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "monde:::L’extrême droite ramène le Portugal à son passé en renversant le bipartisme",
     "added_at": "2025-05-19T13:52:59.835Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::Après la publication d’un rapport accablant, le sort de Nestlé Waters est encore loin d’être réglé",
+    "added_at": "2025-05-19T14:35:13.342Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Un important éboulement s’est produit après l’évacuation du village valaisan de Blatten",
+    "added_at": "2025-05-19T14:52:26.804Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – L’appel entre Donald Trump et Vladimir Poutine a commencé",
+    "added_at": "2025-05-19T14:54:18.262Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
