@@ -5421,7 +5421,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël annonce l'approvisionnement de Gaza en nourriture pour bébés",
-    "added_at": "2025-05-19T13:50:35.131Z"
+    "added_at": "2025-05-19T13:50:35.131Z",
+    "removed_at": "2025-05-19T17:08:47.223Z",
+    "duration_minutes": 198,
+    "duration_str": "3h 18m"
   },
   {
     "title": "monde:::L’extrême droite ramène le Portugal à son passé en renversant le bipartisme",
@@ -5462,5 +5465,16 @@
   {
     "title": "suisse:::A Genève, un prédicateur jugé pour avoir précipité la mort d’une croyante diabétique",
     "added_at": "2025-05-19T16:57:27.575Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Neuf camions d’aide humanitaire sont entrés dans Gaza",
+    "added_at": "2025-05-19T17:08:47.223Z",
+    "removed_at": "2025-05-19T17:12:30.383Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – 22 pays exigent d’Israël une «reprise complète de l’aide, immédiatement» à Gaza",
+    "added_at": "2025-05-19T17:12:30.383Z"
   }
 ]
