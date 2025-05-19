@@ -6292,7 +6292,10 @@
   },
   {
     "title": "Comment booster l'efficacité de ses révisions en mangeant?",
-    "added_at": "2025-05-17T07:19:46.573Z"
+    "added_at": "2025-05-17T07:19:46.573Z",
+    "removed_at": "2025-05-19T08:55:58.276Z",
+    "duration_minutes": 2976,
+    "duration_str": "2d 1h 36m"
   },
   {
     "title": "Podcast - De l'escroquerie à l'assassinat: l'affaire Egon Zylla",
@@ -6418,7 +6421,10 @@
   },
   {
     "title": "Incendie dans un manège à chevaux au Mont-sur-Lausanne",
-    "added_at": "2025-05-17T16:01:03.842Z"
+    "added_at": "2025-05-17T16:01:03.842Z",
+    "removed_at": "2025-05-19T09:07:16.047Z",
+    "duration_minutes": 2466,
+    "duration_str": "1d 17h 6m"
   },
   {
     "title": "A H-3 de la finale de l'Eurovision, l'effervescence gagne la ville de Bâle",
@@ -6758,10 +6764,7 @@
   },
   {
     "title": "La commune d'Yverdon vote sur deux projets de réaménagement de la Place d'Armes",
-    "added_at": "2025-05-18T20:01:41.716Z",
-    "removed_at": "2025-05-19T08:04:49.613Z",
-    "duration_minutes": 723,
-    "duration_str": "12h 3m"
+    "added_at": "2025-05-18T20:01:41.716Z"
   },
   {
     "title": "Les premiers résultats des votations cantonales à Genève",
@@ -6851,5 +6854,9 @@
   {
     "title": "Le village de Blatten doit être évacué en urgence, car un million de mètres cubes de roches pourraient tomber",
     "added_at": "2025-05-19T08:38:59.036Z"
+  },
+  {
+    "title": "Près de 300 victimes de la traite humaine en Suisse",
+    "added_at": "2025-05-19T08:55:58.276Z"
   }
 ]
