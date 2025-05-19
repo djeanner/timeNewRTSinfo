@@ -3197,7 +3197,10 @@
   },
   {
     "title": "Former US President Biden diagnosed with ‘aggressive’ prostate cancer",
-    "added_at": "2025-05-18T21:31:49.449Z"
+    "added_at": "2025-05-18T21:31:49.449Z",
+    "removed_at": "2025-05-19T05:49:44.933Z",
+    "duration_minutes": 497,
+    "duration_str": "8h 17m"
   },
   {
     "title": "Portuguese PM’s party set to win general election, fall short of majority",
@@ -3238,7 +3241,10 @@
   },
   {
     "title": "Israel bombs Gaza’s Nasser hospital, unleashes wave of raids on Khan Younis",
-    "added_at": "2025-05-19T04:29:16.748Z"
+    "added_at": "2025-05-19T04:29:16.748Z",
+    "removed_at": "2025-05-19T06:03:11.317Z",
+    "duration_minutes": 93,
+    "duration_str": "1h 33m"
   },
   {
     "title": "Trump’s massive tax cut bill passes key US House committee vote",
@@ -3247,8 +3253,16 @@
   {
     "title": "Israel bombs Gaza’s Nasser Hospital, unleashes wave of raids on Khan Younis",
     "added_at": "2025-05-19T05:30:29.312Z",
-    "removed_at": "2025-05-19T05:40:06.367Z",
-    "duration_minutes": 9,
-    "duration_str": "9m"
+    "removed_at": "2025-05-19T06:22:14.860Z",
+    "duration_minutes": 51,
+    "duration_str": "51m"
+  },
+  {
+    "title": "Former US President Joe Biden diagnosed with ‘aggressive’ prostate cancer",
+    "added_at": "2025-05-19T05:49:44.933Z"
+  },
+  {
+    "title": "Israel bombs Gaza’s Nasser Hospital, 23 Palestinians killed since dawn",
+    "added_at": "2025-05-19T06:18:25.526Z"
   }
 ]
