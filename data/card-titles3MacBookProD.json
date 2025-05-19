@@ -10275,7 +10275,10 @@
   },
   {
     "title": "Tornadoes Reported in Colorado as Severe Weather Threatens Parts of U.S.",
-    "added_at": "2025-05-18T23:41:56.220Z"
+    "added_at": "2025-05-18T23:41:56.220Z",
+    "removed_at": "2025-05-19T01:31:08.377Z",
+    "duration_minutes": 109,
+    "duration_str": "1h 49m"
   },
   {
     "title": "In Deadly Ship Crash, Questions About What Went Wrong",
@@ -10288,5 +10291,20 @@
   {
     "title": "Suspect in Palm Springs Bombing Died in Blast, Officials Say",
     "added_at": "2025-05-19T01:21:31.482Z"
+  },
+  {
+    "title": "Tornadoes Reported in Colorado and Kansas as Severe Weather Threat Persists",
+    "added_at": "2025-05-19T01:31:08.377Z"
+  },
+  {
+    "title": "What Is New Jersey Transit’s Backup Plan for Monday?",
+    "added_at": "2025-05-19T02:03:39.666Z",
+    "removed_at": "2025-05-19T02:11:19.269Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "This Is New Jersey Transit’s Backup Plan for Monday",
+    "added_at": "2025-05-19T02:11:19.269Z"
   }
 ]
