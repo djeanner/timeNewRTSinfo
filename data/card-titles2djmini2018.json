@@ -5089,7 +5089,10 @@
   },
   {
     "title": "monde:::En direct – L’armée israélienne débute une «vaste opération terrestre» à Gaza",
-    "added_at": "2025-05-18T14:05:16.005Z"
+    "added_at": "2025-05-18T14:05:16.005Z",
+    "removed_at": "2025-05-19T12:16:11.186Z",
+    "duration_minutes": 1330,
+    "duration_str": "22h 10m"
   },
   {
     "title": "sport:::A l’approche de l’Euro, Young Boys remporte un Championnat de Suisse féminin enfin valorisé",
@@ -5107,7 +5110,10 @@
   },
   {
     "title": "suisse:::Les Genevois rejettent une révolution de la fiscalité communale",
-    "added_at": "2025-05-18T14:18:32.926Z"
+    "added_at": "2025-05-18T14:18:32.926Z",
+    "removed_at": "2025-05-19T12:03:02.374Z",
+    "duration_minutes": 1304,
+    "duration_str": "21h 44m"
   },
   {
     "title": "sport:::A l’approche de l’Euro en Suisse, Young Boys remporte un championnat national féminin enfin valorisé",
@@ -5207,7 +5213,10 @@
   },
   {
     "title": "monde:::Guerre en Ukraine – Notre suivi de la semaine du 12 au 18 mai 2025",
-    "added_at": "2025-05-18T23:59:12.893Z"
+    "added_at": "2025-05-18T23:59:12.893Z",
+    "removed_at": "2025-05-19T12:06:46.061Z",
+    "duration_minutes": 727,
+    "duration_str": "12h 7m"
   },
   {
     "title": "economie:::Le dollar fait son «chaud»… et froid",
@@ -5313,7 +5322,10 @@
   },
   {
     "title": "suisse:::La gare Cornavin a été en partie évacuée en raison d'un colis suspect",
-    "added_at": "2025-05-19T11:36:29.487Z"
+    "added_at": "2025-05-19T11:36:29.487Z",
+    "removed_at": "2025-05-19T12:03:02.374Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
   },
   {
     "title": "culture:::En quatorze ans, Sami Kanaan a pacifié et transformé la Genève culturelle: à bicyclette, le grand tour d’une métamorphose",
@@ -5322,5 +5334,21 @@
   {
     "title": "sport:::Au Mondial de hockey, le Canada et la Suède survolent le groupe A en attendant la Suisse",
     "added_at": "2025-05-19T11:44:04.975Z"
+  },
+  {
+    "title": "economie:::La plateforme de réservation de rendez-vous médicaux genevoise OneDoc renforce sa position en rachetant Medicosearch",
+    "added_at": "2025-05-19T12:03:02.374Z"
+  },
+  {
+    "title": "suisse:::La gare Cornavin a été en partie évacuée en raison d’un colis suspect",
+    "added_at": "2025-05-19T12:03:02.374Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Des échanges téléphoniques avant l'appel entre Donald Trump et Vladimir Poutine",
+    "added_at": "2025-05-19T12:06:46.061Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Israël va prendre le contrôle «de tout le territoire» de la bande de Gaza",
+    "added_at": "2025-05-19T12:16:11.186Z"
   }
 ]
