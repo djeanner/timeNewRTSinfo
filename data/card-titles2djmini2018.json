@@ -5300,7 +5300,10 @@
   },
   {
     "title": "suisse:::Menacé par un éboulement, le village valaisan de Blatten doit être totalement évacué",
-    "added_at": "2025-05-19T08:42:42.518Z"
+    "added_at": "2025-05-19T08:42:42.518Z",
+    "removed_at": "2025-05-19T14:52:50.831Z",
+    "duration_minutes": 370,
+    "duration_str": "6h 10m"
   },
   {
     "title": "monde:::Bruxelles et Londres s’accordent pour relancer leur relation",
@@ -5311,10 +5314,7 @@
   },
   {
     "title": "monde:::Le tsunami Bruno Retailleau fait rêver la droite traditionnelle française",
-    "added_at": "2025-05-19T09:46:59.746Z",
-    "removed_at": "2025-05-19T13:22:17.650Z",
-    "duration_minutes": 215,
-    "duration_str": "3h 35m"
+    "added_at": "2025-05-19T09:46:59.746Z"
   },
   {
     "title": "suisse:::La gare Cornavin évacuée sur ordre des autorités",
@@ -5369,7 +5369,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Des échanges téléphoniques avant l'appel entre Donald Trump et Vladimir Poutine",
-    "added_at": "2025-05-19T12:06:46.061Z"
+    "added_at": "2025-05-19T12:06:46.061Z",
+    "removed_at": "2025-05-19T14:54:40.369Z",
+    "duration_minutes": 167,
+    "duration_str": "2h 47m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël va prendre le contrôle «de tout le territoire» de la bande de Gaza",
@@ -5409,5 +5412,13 @@
   {
     "title": "economie:::Après la publication d’un rapport accablant, le sort de Nestlé Waters est encore loin d’être réglé",
     "added_at": "2025-05-19T14:33:56.606Z"
+  },
+  {
+    "title": "suisse:::Un important éboulement s’est produit après l’évacuation du village valaisan de Blatten",
+    "added_at": "2025-05-19T14:52:50.831Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – L’appel entre Donald Trump et Vladimir Poutine a commencé",
+    "added_at": "2025-05-19T14:54:40.369Z"
   }
 ]

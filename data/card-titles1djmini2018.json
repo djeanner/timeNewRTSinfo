@@ -7002,7 +7002,10 @@
   },
   {
     "title": "Karin Keller-Sutter s'est entretenue avec Volodymyr Zelensky à Rome",
-    "added_at": "2025-05-19T13:03:25.038Z"
+    "added_at": "2025-05-19T13:03:25.038Z",
+    "removed_at": "2025-05-19T15:05:58.161Z",
+    "duration_minutes": 122,
+    "duration_str": "2h 2m"
   },
   {
     "title": "Le RHNe enregistre un déficit de près de 30 millions de francs",
@@ -7044,5 +7047,9 @@
     "removed_at": "2025-05-19T14:37:41.544Z",
     "duration_minutes": 1,
     "duration_str": "1m"
+  },
+  {
+    "title": "Avant son appel avec Vladimir Poutine, Donald Trump s'est entretenu au téléphone avec plusieurs dirigeants européens",
+    "added_at": "2025-05-19T15:05:58.161Z"
   }
 ]
