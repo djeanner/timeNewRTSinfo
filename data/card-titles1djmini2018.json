@@ -6287,7 +6287,10 @@
   },
   {
     "title": "Moody's prive la dette américaine de son triple A",
-    "added_at": "2025-05-17T06:43:53.395Z"
+    "added_at": "2025-05-17T06:43:53.395Z",
+    "removed_at": "2025-05-19T11:12:00.552Z",
+    "duration_minutes": 3148,
+    "duration_str": "2d 4h 28m"
   },
   {
     "title": "Les Etats-Unis ne limiteront plus le commerce de puces pour l'IA",
@@ -6923,10 +6926,21 @@
   },
   {
     "title": "Le village de Blatten évacué en urgence, car plusieurs millions de mètres cubes de roches pourraient tomber",
-    "added_at": "2025-05-19T11:06:18.643Z"
+    "added_at": "2025-05-19T11:06:18.643Z",
+    "removed_at": "2025-05-19T11:13:50.439Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
   },
   {
     "title": "Hommes et femmes ne sont pas égaux face aux problèmes de santé en Suisse",
     "added_at": "2025-05-19T11:06:18.643Z"
+  },
+  {
+    "title": "OneDoc et Medicosearch fusionnent pour accélérer l'avenir de la santé en ligne",
+    "added_at": "2025-05-19T11:12:00.552Z"
+  },
+  {
+    "title": "Le village de Blatten évacué en urgence, menacé par des millions de mètres cubes de roches",
+    "added_at": "2025-05-19T11:13:50.439Z"
   }
 ]
