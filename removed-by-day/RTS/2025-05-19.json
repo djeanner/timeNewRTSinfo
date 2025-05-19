@@ -217,7 +217,7 @@
   {
     "title": "Le village de Blatten évacué en urgence, alors que les éboulements se multiplient",
     "added_at": "2025-05-19T13:52:59.802Z",
-    "removed_at": "2025-05-19T15:23:08.987Z",
+    "removed_at": "2025-05-19T15:22:58.675Z",
     "duration_minutes": 90,
     "duration_str": "1h 30m"
   },
@@ -243,8 +243,9 @@
   {
     "title": "Les rendez-vous Pinte of science, pour étancher sa soif de connaissance",
     "added_at": "2025-05-19T14:33:15.630Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-19T16:34:05.791Z",
+    "duration_minutes": 121,
+    "duration_str": "2h 1m"
   },
   {
     "title": "Des habits de sport inclusifs, du bitume rafraîchissant et les bienfaits du jardinage",
@@ -273,26 +274,26 @@
   },
   {
     "title": "Un premier pan important de la montagne s'est détaché au-dessus de Blatten, le village évacué en urgence",
-    "added_at": "2025-05-19T15:21:17.518Z",
-    "removed_at": "2025-05-19T15:44:15.188Z",
+    "added_at": "2025-05-19T15:21:08.919Z",
+    "removed_at": "2025-05-19T15:43:51.137Z",
     "duration_minutes": 23,
     "duration_str": "23m"
   },
   {
     "title": "Le Valais veut réduire les disparités salariales via des contrôles",
-    "added_at": "2025-05-19T15:25:04.549Z",
+    "added_at": "2025-05-19T15:24:54.798Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Chorégraphe légendaire du Bolchoï, Iouri Grigorovitch est mort",
-    "added_at": "2025-05-19T15:32:46.635Z",
+    "added_at": "2025-05-19T15:32:29.746Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Un important pan de la montagne s'est détaché au-dessus de Blatten, le village évacué en urgence",
-    "added_at": "2025-05-19T15:36:33.689Z",
+    "added_at": "2025-05-19T15:36:13.091Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -305,6 +306,12 @@
   {
     "title": "Les habitants du village de Blatten (VS) évacués après une coulée de boue",
     "added_at": "2025-05-19T16:05:16.161Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Les rendez-vous Pint of science, pour étancher sa soif de connaissance",
+    "added_at": "2025-05-19T16:34:05.791Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
