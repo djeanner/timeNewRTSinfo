@@ -5366,7 +5366,10 @@
   },
   {
     "title": "sport:::Au Mondial de hockey, le Canada et la Suède survolent le groupe A en attendant la Suisse",
-    "added_at": "2025-05-19T11:44:04.975Z"
+    "added_at": "2025-05-19T11:44:04.975Z",
+    "removed_at": "2025-05-19T17:23:51.689Z",
+    "duration_minutes": 339,
+    "duration_str": "5h 39m"
   },
   {
     "title": "economie:::La plateforme de réservation de rendez-vous médicaux genevoise OneDoc renforce sa position en rachetant Medicosearch",
@@ -5417,7 +5420,10 @@
   },
   {
     "title": "suisse:::Eurovision: à Bâle, on proclame un «succès total»",
-    "added_at": "2025-05-19T13:29:47.588Z"
+    "added_at": "2025-05-19T13:29:47.588Z",
+    "removed_at": "2025-05-19T17:27:37.414Z",
+    "duration_minutes": 237,
+    "duration_str": "3h 57m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël annonce l'approvisionnement de Gaza en nourriture pour bébés",
@@ -5476,5 +5482,13 @@
   {
     "title": "monde:::En direct, Moyen-Orient – 22 pays exigent d’Israël une «reprise complète de l’aide, immédiatement» à Gaza",
     "added_at": "2025-05-19T17:12:30.383Z"
+  },
+  {
+    "title": "monde:::Face à la crise, les réformes indispensables de l’OMS",
+    "added_at": "2025-05-19T17:23:51.689Z"
+  },
+  {
+    "title": "suisse:::«Je m’ennuie dans ce parlement»: Charles Poncet démissionne du Grand Conseil",
+    "added_at": "2025-05-19T17:27:37.414Z"
   }
 ]
