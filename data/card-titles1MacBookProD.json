@@ -9381,7 +9381,10 @@
   },
   {
     "title": "En France, des voix au sein de la communauté juive appellent à un cessez-le-feu et à une levée du blocus total à Gaza",
-    "added_at": "2025-05-17T17:58:12.972Z"
+    "added_at": "2025-05-17T17:58:12.972Z",
+    "removed_at": "2025-05-19T21:04:48.716Z",
+    "duration_minutes": 3066,
+    "duration_str": "2d 3h 6m"
   },
   {
     "title": "Young Boys sacré champion de Suisse",
@@ -9520,7 +9523,10 @@
   },
   {
     "title": "L'alcool, un refuge trompeur: décryptage du trouble de l'usage",
-    "added_at": "2025-05-18T07:41:00.893Z"
+    "added_at": "2025-05-18T07:41:00.893Z",
+    "removed_at": "2025-05-19T20:38:02.077Z",
+    "duration_minutes": 2217,
+    "duration_str": "1d 12h 57m"
   },
   {
     "title": "La Défense civile de Gaza fait état d'au moins 33 morts dans des frappes israéliennes",
@@ -9720,10 +9726,7 @@
   },
   {
     "title": "La commune d'Yverdon vote sur deux projets de réaménagement de la Place d'Armes",
-    "added_at": "2025-05-18T20:01:37.755Z",
-    "removed_at": "2025-05-19T13:03:09.791Z",
-    "duration_minutes": 1021,
-    "duration_str": "17h 1m"
+    "added_at": "2025-05-18T20:01:37.755Z"
   },
   {
     "title": "Les premiers résultats des votations cantonales à Genève",
@@ -10065,5 +10068,9 @@
   {
     "title": "Un trafic d'êtres humains à des fins d'exploitation sexuelle démantelé à Berne",
     "added_at": "2025-05-19T19:46:11.591Z"
+  },
+  {
+    "title": "Comment le mycélium pourrait remplacer le béton dans nos maisons",
+    "added_at": "2025-05-19T20:38:02.077Z"
   }
 ]
