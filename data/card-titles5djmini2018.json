@@ -30,10 +30,7 @@
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-19T03:57:13.376Z",
-    "duration_minutes": 13975,
-    "duration_str": "9d 16h 55m"
+    "added_at": "2025-05-09T11:01:45.077Z"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -314,7 +311,10 @@
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T11:11:38.599Z"
+    "added_at": "2025-05-09T11:11:38.599Z",
+    "removed_at": "2025-05-19T04:12:22.200Z",
+    "duration_minutes": 13980,
+    "duration_str": "9d 17h"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -7617,9 +7617,9 @@
   {
     "title": "« La pause de trois mois dans la bataille commerciale entre la Chine et les Etats-Unis offre un répit. Pour autant, la guerre n’est pas finie »",
     "added_at": "2025-05-15T04:17:48.207Z",
-    "removed_at": "2025-05-19T04:02:52.645Z",
-    "duration_minutes": 5745,
-    "duration_str": "3d 23h 45m"
+    "removed_at": "2025-05-19T04:19:50.388Z",
+    "duration_minutes": 5762,
+    "duration_str": "4d 2m"
   },
   {
     "title": "Les industriels français pris dans le bourbier des droits de douane américains",
@@ -9155,9 +9155,9 @@
   {
     "title": "Les drones de combat exacerbent la violence dans un Soudan en pleine guerre civile",
     "added_at": "2025-05-16T07:55:52.133Z",
-    "removed_at": "2025-05-19T03:57:13.376Z",
-    "duration_minutes": 4081,
-    "duration_str": "2d 20h 1m"
+    "removed_at": "2025-05-19T04:16:05.305Z",
+    "duration_minutes": 4100,
+    "duration_str": "2d 20h 20m"
   },
   {
     "title": "L’armée israélienne continue de bombarder la bande de Gaza, plus de 50 personnes tuées, selon la défense civile palestinienne",
@@ -9217,7 +9217,10 @@
   },
   {
     "title": "« Sanofi aurait tort d’oublier ce qu’il doit à la France »",
-    "added_at": "2025-05-16T09:03:48.777Z"
+    "added_at": "2025-05-16T09:03:48.777Z",
+    "removed_at": "2025-05-19T04:06:43.513Z",
+    "duration_minutes": 4022,
+    "duration_str": "2d 19h 2m"
   },
   {
     "title": "Le pari syrien de Donald Trump",
@@ -10130,9 +10133,9 @@
   {
     "title": "« Tout le monde devrait se sentir bienvenu dans l’eau » : le surf est-il réac ?",
     "added_at": "2025-05-17T04:13:03.026Z",
-    "removed_at": "2025-05-19T03:49:44.597Z",
-    "duration_minutes": 2856,
-    "duration_str": "1d 23h 36m"
+    "removed_at": "2025-05-19T04:14:11.814Z",
+    "duration_minutes": 2881,
+    "duration_str": "2d 1m"
   },
   {
     "title": "Jason Furman, ancien conseiller de Barack Obama : « Donald Trump poursuit des objectifs économiques contradictoires »",
@@ -10227,10 +10230,7 @@
   },
   {
     "title": "La Villa Noailles en proie aux dérives financières",
-    "added_at": "2025-05-17T06:38:11.031Z",
-    "removed_at": "2025-05-19T04:02:52.645Z",
-    "duration_minutes": 2724,
-    "duration_str": "1d 21h 24m"
+    "added_at": "2025-05-17T06:38:11.031Z"
   },
   {
     "title": "« Au bord du gouffre, la Roumanie peut encore éviter son suicide »",
@@ -10927,9 +10927,9 @@
   {
     "title": "« L’environnement est demeuré pour Emmanuel Macron ce qu’il n’a jamais cessé d’être : un matériau de communication »",
     "added_at": "2025-05-18T02:50:52.177Z",
-    "removed_at": "2025-05-19T04:01:02.647Z",
-    "duration_minutes": 1510,
-    "duration_str": "1d 1h 10m"
+    "removed_at": "2025-05-19T04:19:50.388Z",
+    "duration_minutes": 1528,
+    "duration_str": "1d 1h 28m"
   },
   {
     "title": "« C’est un peu l’échappatoire » : les « discos », ces « teens parties » campagnardes",
@@ -11677,5 +11677,9 @@
   {
     "title": "Au procès Le Scouarnec, les années à Jonzac ou un voyage au cœur des ténèbres",
     "added_at": "2025-05-19T03:34:33.769Z"
+  },
+  {
+    "title": "Quand l’étendoir à linge sectionne le doigt de l’utilisateur",
+    "added_at": "2025-05-19T04:06:43.513Z"
   }
 ]
