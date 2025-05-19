@@ -11088,7 +11088,10 @@
   },
   {
     "title": "Tornadoes Reported in Colorado and Kansas as Severe Weather Threat Persists",
-    "added_at": "2025-05-19T01:28:00.090Z"
+    "added_at": "2025-05-19T01:28:00.090Z",
+    "removed_at": "2025-05-19T09:35:39.019Z",
+    "duration_minutes": 487,
+    "duration_str": "8h 7m"
   },
   {
     "title": "What Is New Jersey Transit’s Backup Plan for Monday?",
@@ -11182,13 +11185,21 @@
   },
   {
     "title": "2 Dead and Child Missing After Train Strikes Pedestrians in Ohio",
-    "added_at": "2025-05-19T09:07:16.209Z",
-    "removed_at": "2025-05-19T09:09:05.963Z",
-    "duration_minutes": 1,
-    "duration_str": "1m"
+    "added_at": "2025-05-19T09:07:16.209Z"
   },
   {
     "title": "E.U. and U.K. Strike a Deal: What to Know",
-    "added_at": "2025-05-19T09:24:17.628Z"
+    "added_at": "2025-05-19T09:24:17.628Z",
+    "removed_at": "2025-05-19T09:35:39.019Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "Britain and E.U. Strike Landmark Deal",
+    "added_at": "2025-05-19T09:35:39.019Z"
+  },
+  {
+    "title": "Tornadoes Bring Destruction to Great Plains as Severe Weather Threat Persists",
+    "added_at": "2025-05-19T09:35:39.019Z"
   }
 ]
