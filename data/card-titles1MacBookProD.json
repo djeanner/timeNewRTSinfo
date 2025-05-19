@@ -9176,7 +9176,10 @@
   },
   {
     "title": "Podcast - De l'escroquerie à l'assassinat: l'affaire Egon Zylla",
-    "added_at": "2025-05-17T07:30:57.731Z"
+    "added_at": "2025-05-17T07:30:57.731Z",
+    "removed_at": "2025-05-19T10:02:45.833Z",
+    "duration_minutes": 3031,
+    "duration_str": "2d 2h 31m"
   },
   {
     "title": "Dans \"Astérix et Obélix: Le combat des chefs\", l'humour d'Alain Chabat carbure à plein régime",
@@ -9613,7 +9616,10 @@
   },
   {
     "title": "Les travailleurs du bâtiment manifestent à Lausanne et Zurich",
-    "added_at": "2025-05-18T17:00:28.981Z"
+    "added_at": "2025-05-18T17:00:28.981Z",
+    "removed_at": "2025-05-19T10:06:34.956Z",
+    "duration_minutes": 1026,
+    "duration_str": "17h 6m"
   },
   {
     "title": "La fin de l'Univers devrait arriver plus vite que prévu",
@@ -9742,5 +9748,13 @@
   {
     "title": "Près de 300 victimes de la traite humaine en Suisse",
     "added_at": "2025-05-19T08:55:44.209Z"
+  },
+  {
+    "title": "Donald Trump, ultime fossoyeur de l'héritage du New Deal?",
+    "added_at": "2025-05-19T10:02:45.833Z"
+  },
+  {
+    "title": "Le grand bilan de l’Eurovision 2025: table ronde entre Moritz Stadler, Letizia Elia et Anne Fournier (vidéo)",
+    "added_at": "2025-05-19T10:06:34.956Z"
   }
 ]

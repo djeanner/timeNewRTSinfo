@@ -20,8 +20,9 @@
   {
     "title": "Tornadoes Reported in Colorado and Kansas as Severe Weather Threat Persists",
     "added_at": "2025-05-19T01:28:00.090Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-19T09:34:04.362Z",
+    "duration_minutes": 486,
+    "duration_str": "8h 6m"
   },
   {
     "title": "What Is New Jersey Transit’s Backup Plan for Monday?",
@@ -33,9 +34,9 @@
   {
     "title": "This Is New Jersey Transit’s Backup Plan for Monday",
     "added_at": "2025-05-19T02:09:30.242Z",
-    "removed_at": "2025-05-19T05:52:27.891Z",
-    "duration_minutes": 223,
-    "duration_str": "3h 43m"
+    "removed_at": "2025-05-19T08:36:33.449Z",
+    "duration_minutes": 387,
+    "duration_str": "6h 27m"
   },
   {
     "title": "2 Dead After Train Strikes Pedestrians in Ohio",
@@ -112,9 +113,8 @@
   {
     "title": "2 Dead and Child Missing After Train Strikes Pedestrians in Ohio",
     "added_at": "2025-05-19T07:46:37.294Z",
-    "removed_at": "2025-05-19T08:36:33.449Z",
-    "duration_minutes": 50,
-    "duration_str": "50m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "What to Know as the U.K. and E.U. Meet for a Highly-Anticipated Summit",
@@ -126,7 +126,62 @@
   {
     "title": "What to Know as the U.K. and E.U. Meet for a Highly Anticipated Summit",
     "added_at": "2025-05-19T07:52:20.578Z",
+    "removed_at": "2025-05-19T09:24:33.397Z",
+    "duration_minutes": 92,
+    "duration_str": "1h 32m"
+  },
+  {
+    "title": "E.U. and U.K. Strike a Deal: What to Know",
+    "added_at": "2025-05-19T09:24:33.397Z",
+    "removed_at": "2025-05-19T09:34:04.362Z",
+    "duration_minutes": 10,
+    "duration_str": "10m"
+  },
+  {
+    "title": "Britain and E.U. Strike Landmark Deal",
+    "added_at": "2025-05-19T09:34:04.362Z",
     "duration_minutes": 0,
     "duration_str": ""
+  },
+  {
+    "title": "Tornadoes Bring Destruction to Great Plains as Severe Weather Threat Persists",
+    "added_at": "2025-05-19T09:34:04.362Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Trump and Putin Are Set to Discuss Ukraine War in High-Stakes Call",
+    "added_at": "2025-05-19T10:04:43.469Z",
+    "removed_at": "2025-05-19T10:06:35.043Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Israel Announced a New Invasion of Gaza. Is It Bluffing?",
+    "added_at": "2025-05-19T10:04:43.469Z",
+    "removed_at": "2025-05-19T10:06:35.043Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "On Education, DeSantis’s Florida Paved the Way for Trump’s America",
+    "added_at": "2025-05-19T10:04:43.469Z",
+    "removed_at": "2025-05-19T10:06:35.043Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Canadians Fear Trump’s Tariffs Will Create a ‘Ghost Town’ in Ontario",
+    "added_at": "2025-05-19T10:04:43.469Z",
+    "removed_at": "2025-05-19T10:06:35.043Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "What Went Wrong in the Fatal Ship Collision?",
+    "added_at": "2025-05-19T10:04:43.469Z",
+    "removed_at": "2025-05-19T10:06:35.043Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
   }
 ]

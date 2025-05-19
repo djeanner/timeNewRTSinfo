@@ -10318,7 +10318,10 @@
   },
   {
     "title": "Tornadoes Reported in Colorado and Kansas as Severe Weather Threat Persists",
-    "added_at": "2025-05-19T01:31:08.377Z"
+    "added_at": "2025-05-19T01:31:08.377Z",
+    "removed_at": "2025-05-19T09:34:04.362Z",
+    "duration_minutes": 482,
+    "duration_str": "8h 2m"
   },
   {
     "title": "What Is New Jersey Transit’s Backup Plan for Monday?",
@@ -10398,10 +10401,7 @@
   },
   {
     "title": "2 Dead and Child Missing After Train Strikes Pedestrians in Ohio",
-    "added_at": "2025-05-19T07:46:37.294Z",
-    "removed_at": "2025-05-19T08:36:33.449Z",
-    "duration_minutes": 49,
-    "duration_str": "49m"
+    "added_at": "2025-05-19T07:46:37.294Z"
   },
   {
     "title": "What to Know as the U.K. and E.U. Meet for a Highly-Anticipated Summit",
@@ -10412,6 +10412,59 @@
   },
   {
     "title": "What to Know as the U.K. and E.U. Meet for a Highly Anticipated Summit",
-    "added_at": "2025-05-19T07:52:20.578Z"
+    "added_at": "2025-05-19T07:52:20.578Z",
+    "removed_at": "2025-05-19T09:24:33.397Z",
+    "duration_minutes": 92,
+    "duration_str": "1h 32m"
+  },
+  {
+    "title": "E.U. and U.K. Strike a Deal: What to Know",
+    "added_at": "2025-05-19T09:24:33.397Z",
+    "removed_at": "2025-05-19T09:34:04.362Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Britain and E.U. Strike Landmark Deal",
+    "added_at": "2025-05-19T09:34:04.362Z"
+  },
+  {
+    "title": "Tornadoes Bring Destruction to Great Plains as Severe Weather Threat Persists",
+    "added_at": "2025-05-19T09:34:04.362Z"
+  },
+  {
+    "title": "Trump and Putin Are Set to Discuss Ukraine War in High-Stakes Call",
+    "added_at": "2025-05-19T10:04:43.469Z",
+    "removed_at": "2025-05-19T10:06:35.043Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Israel Announced a New Invasion of Gaza. Is It Bluffing?",
+    "added_at": "2025-05-19T10:04:43.469Z",
+    "removed_at": "2025-05-19T10:06:35.043Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "On Education, DeSantis’s Florida Paved the Way for Trump’s America",
+    "added_at": "2025-05-19T10:04:43.469Z",
+    "removed_at": "2025-05-19T10:06:35.043Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Canadians Fear Trump’s Tariffs Will Create a ‘Ghost Town’ in Ontario",
+    "added_at": "2025-05-19T10:04:43.469Z",
+    "removed_at": "2025-05-19T10:06:35.043Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "What Went Wrong in the Fatal Ship Collision?",
+    "added_at": "2025-05-19T10:04:43.469Z",
+    "removed_at": "2025-05-19T10:06:35.043Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
   }
 ]
