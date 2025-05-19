@@ -26,14 +26,14 @@
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T10:29:58.735Z"
+    "added_at": "2025-05-09T10:29:58.735Z",
+    "removed_at": "2025-05-19T03:12:32.806Z",
+    "duration_minutes": 13962,
+    "duration_str": "9d 16h 42m"
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T10:29:58.735Z",
-    "removed_at": "2025-05-19T02:17:03.530Z",
-    "duration_minutes": 13907,
-    "duration_str": "9d 15h 47m"
+    "added_at": "2025-05-09T10:29:58.735Z"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -287,9 +287,9 @@
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
     "added_at": "2025-05-09T10:32:57.100Z",
-    "removed_at": "2025-05-19T02:17:03.530Z",
-    "duration_minutes": 13904,
-    "duration_str": "9d 15h 44m"
+    "removed_at": "2025-05-19T02:45:48.568Z",
+    "duration_minutes": 13932,
+    "duration_str": "9d 16h 12m"
   },
   {
     "title": "En direct, nouveau pape : qui est Léon XIV, et que peut-on attendre de son pontificat ? Posez vos questions à nos journalistes",
@@ -6716,10 +6716,7 @@
   },
   {
     "title": "« La pause de trois mois dans la bataille commerciale entre la Chine et les Etats-Unis offre un répit. Pour autant, la guerre n’est pas finie »",
-    "added_at": "2025-05-15T04:16:57.593Z",
-    "removed_at": "2025-05-19T02:15:08.439Z",
-    "duration_minutes": 5638,
-    "duration_str": "3d 21h 58m"
+    "added_at": "2025-05-15T04:16:57.593Z"
   },
   {
     "title": "Les industriels français pris dans le bourbier des droits de douane américains",
@@ -9226,7 +9223,10 @@
   },
   {
     "title": "« Tout le monde devrait se sentir bienvenu dans l’eau » : le surf est-il réac ?",
-    "added_at": "2025-05-17T04:12:08.249Z"
+    "added_at": "2025-05-17T04:12:08.249Z",
+    "removed_at": "2025-05-19T03:03:00.882Z",
+    "duration_minutes": 2810,
+    "duration_str": "1d 22h 50m"
   },
   {
     "title": "Jason Furman, ancien conseiller de Barack Obama : « Donald Trump poursuit des objectifs économiques contradictoires »",
@@ -9321,10 +9321,7 @@
   },
   {
     "title": "La Villa Noailles en proie aux dérives financières",
-    "added_at": "2025-05-17T06:39:21.326Z",
-    "removed_at": "2025-05-19T01:57:54.733Z",
-    "duration_minutes": 2598,
-    "duration_str": "1d 19h 18m"
+    "added_at": "2025-05-17T06:39:21.326Z"
   },
   {
     "title": "« Au bord du gouffre, la Roumanie peut encore éviter son suicide »",
@@ -10021,9 +10018,9 @@
   {
     "title": "« L’environnement est demeuré pour Emmanuel Macron ce qu’il n’a jamais cessé d’être : un matériau de communication »",
     "added_at": "2025-05-18T02:50:17.761Z",
-    "removed_at": "2025-05-19T02:17:03.530Z",
-    "duration_minutes": 1406,
-    "duration_str": "23h 26m"
+    "removed_at": "2025-05-19T03:12:32.806Z",
+    "duration_minutes": 1462,
+    "duration_str": "1d 22m"
   },
   {
     "title": "« C’est un peu l’échappatoire » : les « discos », ces « teens parties » campagnardes",
@@ -10543,7 +10540,10 @@
   },
   {
     "title": "En direct : la semaine à venir sera « cruciale » pour les négociations de paix en Ukraine, estime Ursula von der Leyen",
-    "added_at": "2025-05-18T16:52:47.360Z"
+    "added_at": "2025-05-18T16:52:47.360Z",
+    "removed_at": "2025-05-19T03:08:44.308Z",
+    "duration_minutes": 615,
+    "duration_str": "10h 15m"
   },
   {
     "title": "Fin de vie : les députés approuvent un article-clé créant un droit à l’« aide à mourir »",
@@ -10708,5 +10708,9 @@
     "removed_at": "2025-05-19T01:56:03.378Z",
     "duration_minutes": 53,
     "duration_str": "53m"
+  },
+  {
+    "title": "En direct : Donald Trump « déterminé à obtenir des résultats », selon son envoyé spécial",
+    "added_at": "2025-05-19T03:08:44.308Z"
   }
 ]
