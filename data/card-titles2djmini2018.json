@@ -5435,7 +5435,10 @@
   },
   {
     "title": "suisse:::L’affaire Dittli a déjà coûté près de 100 000 francs aux Vaudois",
-    "added_at": "2025-05-19T15:24:54.847Z"
+    "added_at": "2025-05-19T15:24:54.847Z",
+    "removed_at": "2025-05-19T16:30:58.868Z",
+    "duration_minutes": 66,
+    "duration_str": "1h 6m"
   },
   {
     "title": "economie:::Les investisseurs sont inquiets après la dégradation de la dette américaine",
@@ -5448,5 +5451,9 @@
   {
     "title": "culture:::Festival de Cannes: «Les Aigles de la République», un acteur au service de la dictature égyptienne",
     "added_at": "2025-05-19T16:13:59.784Z"
+  },
+  {
+    "title": "monde:::Cinq ans après le Brexit, Londres et Bruxelles renouent le dialogue lors d’un sommet inédit",
+    "added_at": "2025-05-19T16:30:58.868Z"
   }
 ]
