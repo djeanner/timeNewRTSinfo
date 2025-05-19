@@ -9178,7 +9178,10 @@
   },
   {
     "title": "Swiss va annuler 1400 vols cet été en raison d'une pénurie de pilotes",
-    "added_at": "2025-05-17T10:00:08.637Z"
+    "added_at": "2025-05-17T10:00:08.637Z",
+    "removed_at": "2025-05-19T01:02:22.697Z",
+    "duration_minutes": 2342,
+    "duration_str": "1d 15h 2m"
   },
   {
     "title": "Voici les votations les plus étonnantes de l'histoire politique suisse",
@@ -9644,5 +9647,9 @@
   {
     "title": "En Roumanie, le candidat pro-européen Nicusor Dan remporte la présidence",
     "added_at": "2025-05-18T22:10:06.517Z"
+  },
+  {
+    "title": "Second tour de présidentielle en Roumanie : le duel s'annonce serré. Reportage",
+    "added_at": "2025-05-19T01:02:22.697Z"
   }
 ]
