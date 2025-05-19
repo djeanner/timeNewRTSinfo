@@ -5209,7 +5209,10 @@
   },
   {
     "title": "culture:::Festival de Cannes: «The Phoenician Scheme», le cinéma d’espionnage selon Wes Anderson",
-    "added_at": "2025-05-18T22:04:16.321Z"
+    "added_at": "2025-05-18T22:04:16.321Z",
+    "removed_at": "2025-05-19T13:05:20.557Z",
+    "duration_minutes": 901,
+    "duration_str": "15h 1m"
   },
   {
     "title": "monde:::Guerre en Ukraine – Notre suivi de la semaine du 12 au 18 mai 2025",
@@ -5371,5 +5374,9 @@
   {
     "title": "sciences:::Même dans le coma, notre cerveau peut traiter des informations sensorielles complexes",
     "added_at": "2025-05-19T12:37:03.392Z"
+  },
+  {
+    "title": "culture:::Festival de Cannes: «L’Agent secret», la dictature brésilienne entre série B et film de complot",
+    "added_at": "2025-05-19T13:05:20.557Z"
   }
 ]
