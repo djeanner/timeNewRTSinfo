@@ -5039,7 +5039,10 @@
   },
   {
     "title": "suisse:::Première en Suisse: à Perroy, la population démet le syndic de ses fonctions",
-    "added_at": "2025-05-18T12:17:31.010Z"
+    "added_at": "2025-05-18T12:17:31.010Z",
+    "removed_at": "2025-05-19T13:54:18.657Z",
+    "duration_minutes": 1536,
+    "duration_str": "1d 1h 36m"
   },
   {
     "title": "suisse:::Votations à Genève: la pose de panneaux solaires sera renforcée. La fiscalité communale ne va pas changer",
@@ -5269,7 +5272,10 @@
   },
   {
     "title": "culture:::A Genève, le Musée d’ethnographie met en scène l’essence des sonorités africaines",
-    "added_at": "2025-05-19T05:50:34.090Z"
+    "added_at": "2025-05-19T05:50:34.090Z",
+    "removed_at": "2025-05-19T13:58:03.983Z",
+    "duration_minutes": 487,
+    "duration_str": "8h 7m"
   },
   {
     "title": "monde:::Le Rwanda s’affiche en «rival» de la Genève internationale",
@@ -5364,7 +5370,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël va prendre le contrôle «de tout le territoire» de la bande de Gaza",
-    "added_at": "2025-05-19T12:16:11.186Z"
+    "added_at": "2025-05-19T12:16:11.186Z",
+    "removed_at": "2025-05-19T13:50:35.131Z",
+    "duration_minutes": 94,
+    "duration_str": "1h 34m"
   },
   {
     "title": "culture:::Au Cap-Vert, la bande-son des indépendances résonne en mode majeur",
@@ -5385,5 +5394,13 @@
   {
     "title": "suisse:::Eurovision: à Bâle, on proclame un «succès total»",
     "added_at": "2025-05-19T13:29:47.588Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Israël annonce l'approvisionnement de Gaza en nourriture pour bébés",
+    "added_at": "2025-05-19T13:50:35.131Z"
+  },
+  {
+    "title": "monde:::L’extrême droite ramène le Portugal à son passé en renversant le bipartisme",
+    "added_at": "2025-05-19T13:54:18.657Z"
   }
 ]
