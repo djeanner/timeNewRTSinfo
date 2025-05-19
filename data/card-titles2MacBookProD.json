@@ -6920,7 +6920,10 @@
   },
   {
     "title": "suisse:::La pose de panneaux solaires sera facilitée à Genève",
-    "added_at": "2025-05-18T15:16:47.376Z"
+    "added_at": "2025-05-18T15:16:47.376Z",
+    "removed_at": "2025-05-19T10:52:39.490Z",
+    "duration_minutes": 1175,
+    "duration_str": "19h 35m"
   },
   {
     "title": "suisse:::Les Yverdonnois veulent un parking souterrain de 1000 places",
@@ -7069,10 +7072,35 @@
   },
   {
     "title": "monde:::Bruxelles et Londres s’accordent pour relancer leur relation",
-    "added_at": "2025-05-19T08:44:14.785Z"
+    "added_at": "2025-05-19T08:44:14.785Z",
+    "removed_at": "2025-05-19T10:35:24.656Z",
+    "duration_minutes": 111,
+    "duration_str": "1h 51m"
   },
   {
     "title": "monde:::Le tsunami Bruno Retailleau fait rêver la droite traditionnelle française",
     "added_at": "2025-05-19T09:45:32.638Z"
+  },
+  {
+    "title": "suisse:::La gare Cornavin évacuée sur ordre des autorités",
+    "added_at": "2025-05-19T10:35:24.656Z",
+    "removed_at": "2025-05-19T10:37:20.263Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "suisse:::La gare Cornavin en partie évacuée en raison d'une alerte à la bombe",
+    "added_at": "2025-05-19T10:37:20.263Z",
+    "removed_at": "2025-05-19T10:43:05.319Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "suisse:::La gare Cornavin en partie évacuée en raison d'un colis suspect",
+    "added_at": "2025-05-19T10:43:05.319Z"
+  },
+  {
+    "title": "suisse:::Le rapport Studer dans l’affaire Dittli a coûté 52 655 francs au canton de Vaud",
+    "added_at": "2025-05-19T10:52:39.490Z"
   }
 ]

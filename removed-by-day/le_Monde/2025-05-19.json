@@ -58,7 +58,7 @@
   {
     "title": "En direct, guerre en Ukraine : Donald Trump « déterminé à obtenir des résultats », selon son envoyé spécial, Steve Witkoff",
     "added_at": "2025-05-19T03:22:16.076Z",
-    "removed_at": "2025-05-19T09:41:45.967Z",
+    "removed_at": "2025-05-19T09:41:18.977Z",
     "duration_minutes": 379,
     "duration_str": "6h 19m"
   },
@@ -98,9 +98,8 @@
   {
     "title": "Le débat sur la fin de vie face à une Assemblée nationale provisoirement apaisée",
     "added_at": "2025-05-19T04:36:49.082Z",
-    "removed_at": "2025-05-19T08:59:31.319Z",
-    "duration_minutes": 263,
-    "duration_str": "4h 23m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "« C’est un métier ! » : vers le crépuscule des téléconseillers ?",
@@ -268,9 +267,8 @@
   {
     "title": "Après la victoire de Bruno Retailleau à la présidence de LR, le soulagement du bloc central",
     "added_at": "2025-05-19T06:37:54.407Z",
-    "removed_at": "2025-05-19T09:05:15.755Z",
-    "duration_minutes": 147,
-    "duration_str": "2h 27m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Au Festival de Cannes 2025, « Le Rire et le Couteau », un film tranchant et sensuel au cœur du capitalisme moderne",
@@ -288,8 +286,9 @@
   {
     "title": "En Roumanie, le soulagement des pro-européens après la victoire de Nicusor Dan face à l’extrême droite prorusse",
     "added_at": "2025-05-19T07:08:08.426Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-19T10:22:04.742Z",
+    "duration_minutes": 194,
+    "duration_str": "3h 14m"
   },
   {
     "title": "Présidence du parti Les Républicains : la belle soirée de Bruno Retailleau, qui surclasse Laurent Wauquiez",
@@ -300,8 +299,9 @@
   {
     "title": "Cinq ans après le Brexit, le Royaume-Uni et l’Union européenne actent leur rapprochement",
     "added_at": "2025-05-19T07:58:04.886Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-19T10:48:50.322Z",
+    "duration_minutes": 171,
+    "duration_str": "2h 51m"
   },
   {
     "title": "Aurore Gaillet, juriste : « Classer le parti allemand AfD comme formation politique aux “aspirations extrémistes avérées” ne constitue pas une censure politique »",
@@ -409,7 +409,7 @@
   {
     "title": "Bruno Retailleau élu président du parti Les Républicains : « La droite actuelle est repliée sur des questions identitaires et un discours assez décliniste »",
     "added_at": "2025-05-19T09:05:15.755Z",
-    "removed_at": "2025-05-19T09:30:17.885Z",
+    "removed_at": "2025-05-19T09:29:59.972Z",
     "duration_minutes": 25,
     "duration_str": "25m"
   },
@@ -433,13 +433,20 @@
   },
   {
     "title": "Bruno Retailleau élu président du parti Les Républicains : « La ligne très droitière de LR risque de constituer un plafond de verre au premier tour de la présidentielle »",
-    "added_at": "2025-05-19T09:30:17.885Z",
+    "added_at": "2025-05-19T09:29:59.972Z",
+    "removed_at": "2025-05-19T10:27:48.434Z",
+    "duration_minutes": 58,
+    "duration_str": "58m"
+  },
+  {
+    "title": "Benyamin Nétanyahou déclare qu’Israël doit empêcher une famine à Gaza « pour des raisons pratiques »",
+    "added_at": "2025-05-19T09:41:18.977Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
-    "title": "Benyamin Nétanyahou déclare qu’Israël doit empêcher une famine à Gaza « pour des raisons pratiques »",
-    "added_at": "2025-05-19T09:41:45.967Z",
+    "title": "Guerre en Ukraine : avant l’appel entre Vladimir Poutine et Donald Trump, le Kremlin dit « préférer » un règlement « diplomatique » du conflit",
+    "added_at": "2025-05-19T10:48:50.322Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
