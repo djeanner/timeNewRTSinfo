@@ -3492,7 +3492,10 @@
   },
   {
     "title": "Indian professor held over remarks on military operation against Pakistan",
-    "added_at": "2025-05-18T11:24:37.136Z"
+    "added_at": "2025-05-18T11:24:37.136Z",
+    "removed_at": "2025-05-19T08:31:22.422Z",
+    "duration_minutes": 1266,
+    "duration_str": "21h 6m"
   },
   {
     "title": "Portugal holds its third election in three years",
@@ -3675,7 +3678,10 @@
   },
   {
     "title": "Portuguese PM’s party set to win general election, fall short of majority",
-    "added_at": "2025-05-18T22:17:25.428Z"
+    "added_at": "2025-05-18T22:17:25.428Z",
+    "removed_at": "2025-05-19T08:31:22.422Z",
+    "duration_minutes": 613,
+    "duration_str": "10h 13m"
   },
   {
     "title": "EU, UK leaders speak with Trump before his Putin call as Ukraine hit",
@@ -3697,10 +3703,7 @@
   },
   {
     "title": "Russia-Ukraine war: List of key events, day 1,180",
-    "added_at": "2025-05-19T02:56:48.608Z",
-    "removed_at": "2025-05-19T04:36:49.120Z",
-    "duration_minutes": 100,
-    "duration_str": "1h 40m"
+    "added_at": "2025-05-19T02:56:48.608Z"
   },
   {
     "title": "Centrist Trzaskowski leads first round in Poland’s tight presidential race",
@@ -3734,7 +3737,10 @@
   },
   {
     "title": "Israel bombs Gaza’s Nasser Hospital, 23 Palestinians killed since dawn",
-    "added_at": "2025-05-19T06:18:52.617Z"
+    "added_at": "2025-05-19T06:18:52.617Z",
+    "removed_at": "2025-05-19T08:20:04.402Z",
+    "duration_minutes": 121,
+    "duration_str": "2h 1m"
   },
   {
     "title": "South Africa’s Ramaphosa to visit Trump: Can they fix tricky relations?",
@@ -3747,5 +3753,13 @@
   {
     "title": "Messi, Miami stunned 3-0 by Orlando in MLS",
     "added_at": "2025-05-19T08:17:58.653Z"
+  },
+  {
+    "title": "Israel launches 30 air strikes in an hour in southern Gaza’s Khan Younis",
+    "added_at": "2025-05-19T08:20:04.402Z"
+  },
+  {
+    "title": "Trump to hold separate calls with Putin, Zelenskyy in Ukraine war truce bid",
+    "added_at": "2025-05-19T08:31:22.422Z"
   }
 ]
