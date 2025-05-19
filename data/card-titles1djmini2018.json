@@ -7053,7 +7053,10 @@
   },
   {
     "title": "Les rendez-vous Pinte of science, pour étancher sa soif de connaissance",
-    "added_at": "2025-05-19T14:33:56.551Z"
+    "added_at": "2025-05-19T14:33:56.551Z",
+    "removed_at": "2025-05-19T16:32:54.635Z",
+    "duration_minutes": 118,
+    "duration_str": "1h 58m"
   },
   {
     "title": "Des habits de sport inclusifs, du bitume rafraîchissant et les bienfaits du jardinage",
@@ -7100,5 +7103,9 @@
   {
     "title": "Les habitants du village de Blatten (VS) évacués après une coulée de boue",
     "added_at": "2025-05-19T16:06:30.210Z"
+  },
+  {
+    "title": "Les rendez-vous Pint of science, pour étancher sa soif de connaissance",
+    "added_at": "2025-05-19T16:32:54.635Z"
   }
 ]
