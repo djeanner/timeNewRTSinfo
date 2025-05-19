@@ -3765,7 +3765,10 @@
   },
   {
     "title": "Israel launches 30 air strikes in an hour in southern Gaza’s Khan Younis",
-    "added_at": "2025-05-19T08:20:04.402Z"
+    "added_at": "2025-05-19T08:20:04.402Z",
+    "removed_at": "2025-05-19T09:50:43.920Z",
+    "duration_minutes": 90,
+    "duration_str": "1h 30m"
   },
   {
     "title": "Trump to hold separate calls with Putin, Zelenskyy in Ukraine war truce bid",
@@ -3773,7 +3776,10 @@
   },
   {
     "title": "Gilgeous-Alexander, Thunder oust Nuggets, move on to NBA West finals",
-    "added_at": "2025-05-19T08:59:42.435Z"
+    "added_at": "2025-05-19T08:59:42.435Z",
+    "removed_at": "2025-05-19T10:00:09.345Z",
+    "duration_minutes": 60,
+    "duration_str": "1h"
   },
   {
     "title": "China’s industrial output, retail sales dip amid US trade tensions",
@@ -3782,5 +3788,13 @@
   {
     "title": "Scheffler pulls away from Rahm for runaway PGA Championship victory",
     "added_at": "2025-05-19T09:35:39.581Z"
+  },
+  {
+    "title": "Israeli military issues forced displacement order for Gaza’s Khan Younis",
+    "added_at": "2025-05-19T09:50:43.920Z"
+  },
+  {
+    "title": "Israel to allow limited food into Gaza amid intensified military offensive",
+    "added_at": "2025-05-19T10:00:09.345Z"
   }
 ]
