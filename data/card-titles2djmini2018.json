@@ -5339,7 +5339,10 @@
   },
   {
     "title": "suisse:::Le rapport Studer dans l’affaire Dittli a coûté 52 655 francs au canton de Vaud",
-    "added_at": "2025-05-19T10:51:09.416Z"
+    "added_at": "2025-05-19T10:51:09.416Z",
+    "removed_at": "2025-05-19T15:24:54.847Z",
+    "duration_minutes": 273,
+    "duration_str": "4h 33m"
   },
   {
     "title": "suisse:::La gare Cornavin a été en partie évacuée en raison d'un colis suspect",
@@ -5420,5 +5423,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – L’appel entre Donald Trump et Vladimir Poutine a commencé",
     "added_at": "2025-05-19T14:54:40.369Z"
+  },
+  {
+    "title": "suisse:::L’affaire Dittli a déjà coûté près de 100 000 francs aux Vaudois",
+    "added_at": "2025-05-19T15:24:54.847Z"
   }
 ]
