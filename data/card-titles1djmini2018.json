@@ -6084,7 +6084,10 @@
   },
   {
     "title": "Swiss annule 1400 vols à cause d'un manque de pilotes",
-    "added_at": "2025-05-16T14:24:49.556Z"
+    "added_at": "2025-05-16T14:24:49.556Z",
+    "removed_at": "2025-05-19T05:50:34.038Z",
+    "duration_minutes": 3805,
+    "duration_str": "2d 15h 25m"
   },
   {
     "title": "Les négociateurs russe et ukrainien évoquent un possible cessez-le-feu et une rencontre Poutine-Zelensky",
@@ -6781,5 +6784,9 @@
   {
     "title": "Moritz Stadler: \"J'ai été impressionné par le résultat final\" et par le \"vrai engouement\" autour de l'Eurovision",
     "added_at": "2025-05-19T05:37:23.703Z"
+  },
+  {
+    "title": "Le marché de la contrefaçon représenterait près de 400 milliards de francs",
+    "added_at": "2025-05-19T05:50:34.038Z"
   }
 ]
