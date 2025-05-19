@@ -5028,10 +5028,7 @@
   },
   {
     "title": "culture:::Festival de Cannes: «Nouvelle Vague», et Godard créa «A bout de souffle»",
-    "added_at": "2025-05-18T11:54:52.856Z",
-    "removed_at": "2025-05-18T20:01:41.766Z",
-    "duration_minutes": 486,
-    "duration_str": "8h 6m"
+    "added_at": "2025-05-18T11:54:52.856Z"
   },
   {
     "title": "suisse:::Yverdon dit oui à un parking souterrain de 1000 places",
@@ -5167,10 +5164,7 @@
   },
   {
     "title": "culture:::Festival de Cannes, jour 6: le cinéma de Pagnol ressuscité grâce à la magie de l’animation",
-    "added_at": "2025-05-18T18:44:15.278Z",
-    "removed_at": "2025-05-19T00:25:41.502Z",
-    "duration_minutes": 341,
-    "duration_str": "5h 41m"
+    "added_at": "2025-05-18T18:44:15.278Z"
   },
   {
     "title": "economie:::Stéphane Waser, dirigeant de Maurice Lacroix: «Il y a de la demande, mais à des niveaux de prix plus bas»",
@@ -5261,7 +5255,10 @@
   },
   {
     "title": "monde:::Le Rwanda s’affiche en «rival» de la Genève internationale",
-    "added_at": "2025-05-19T05:56:13.432Z"
+    "added_at": "2025-05-19T05:56:13.432Z",
+    "removed_at": "2025-05-19T11:38:23.543Z",
+    "duration_minutes": 342,
+    "duration_str": "5h 42m"
   },
   {
     "title": "economie:::Scandale des eaux minérales en France: une commission d’enquête accuse l’Etat de «dissimulation»",
@@ -5272,7 +5269,10 @@
   },
   {
     "title": "culture:::A l’Eurovision 2025, la victoire de l’Autrichien JJ illustre un concours sans boussole, et sans clichés",
-    "added_at": "2025-05-19T08:23:49.114Z"
+    "added_at": "2025-05-19T08:23:49.114Z",
+    "removed_at": "2025-05-19T11:42:09.038Z",
+    "duration_minutes": 198,
+    "duration_str": "3h 18m"
   },
   {
     "title": "suisse:::Menacé par un éboulement, le village valaisan de Blatten doit être totalement évacué",
@@ -5305,10 +5305,21 @@
   },
   {
     "title": "suisse:::La gare Cornavin en partie évacuée en raison d'un colis suspect",
-    "added_at": "2025-05-19T10:43:40.501Z"
+    "added_at": "2025-05-19T10:43:40.501Z",
+    "removed_at": "2025-05-19T11:36:29.487Z",
+    "duration_minutes": 52,
+    "duration_str": "52m"
   },
   {
     "title": "suisse:::Le rapport Studer dans l’affaire Dittli a coûté 52 655 francs au canton de Vaud",
     "added_at": "2025-05-19T10:51:09.416Z"
+  },
+  {
+    "title": "suisse:::La gare Cornavin a été en partie évacuée en raison d'un colis suspect",
+    "added_at": "2025-05-19T11:36:29.487Z"
+  },
+  {
+    "title": "culture:::En quatorze ans, Sami Kanaan a pacifié et transformé la Genève culturelle: à bicyclette, le grand tour d’une métamorphose",
+    "added_at": "2025-05-19T11:38:23.543Z"
   }
 ]
