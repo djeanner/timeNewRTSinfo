@@ -6553,7 +6553,10 @@
   },
   {
     "title": "Deux morts et cinq blessés après une avalanche sur l'Eiger",
-    "added_at": "2025-05-17T21:27:45.095Z"
+    "added_at": "2025-05-17T21:27:45.095Z",
+    "removed_at": "2025-05-20T01:04:44.808Z",
+    "duration_minutes": 3096,
+    "duration_str": "2d 3h 36m"
   },
   {
     "title": "Sion célèbre son maintien par une victoire contre GC",
@@ -6635,7 +6638,10 @@
   },
   {
     "title": "Vols dans les cimetières vaudois et valaisans. La police annonce des arrestations",
-    "added_at": "2025-05-18T07:02:08.194Z"
+    "added_at": "2025-05-18T07:02:08.194Z",
+    "removed_at": "2025-05-20T01:04:44.808Z",
+    "duration_minutes": 2522,
+    "duration_str": "1d 18h 2m"
   },
   {
     "title": "L'Ukraine et la Russie entament leur première discussion directe depuis 3 ans",
@@ -7195,5 +7201,9 @@
   {
     "title": "L'invitée de La Matinale - Judith Perrignon, journaliste et autrice de \"L’autre Amérique\"",
     "added_at": "2025-05-19T22:07:06.284Z"
+  },
+  {
+    "title": "Menacé par un éboulement, le village de Blatten a dû être évacué en urgence",
+    "added_at": "2025-05-20T01:04:44.808Z"
   }
 ]
