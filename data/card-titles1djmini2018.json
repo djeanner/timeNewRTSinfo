@@ -6704,7 +6704,10 @@
   },
   {
     "title": "La fin de l'Univers devrait arriver plus vite que prévu, mais vous avez le temps",
-    "added_at": "2025-05-18T08:49:39.946Z"
+    "added_at": "2025-05-18T08:49:39.946Z",
+    "removed_at": "2025-05-20T15:07:19.444Z",
+    "duration_minutes": 3257,
+    "duration_str": "2d 6h 17m"
   },
   {
     "title": "Le pape Léon XIV inaugure son pontificat par une messe précédée d'un premier bain de foule",
@@ -6923,7 +6926,10 @@
   },
   {
     "title": "La commune d'Yverdon vote sur deux projets de réaménagement de la Place d'Armes",
-    "added_at": "2025-05-18T20:01:41.716Z"
+    "added_at": "2025-05-18T20:01:41.716Z",
+    "removed_at": "2025-05-20T15:07:19.444Z",
+    "duration_minutes": 2585,
+    "duration_str": "1d 19h 5m"
   },
   {
     "title": "Les premiers résultats des votations cantonales à Genève",
@@ -7329,10 +7335,7 @@
   },
   {
     "title": "Football: Les clubs suisses qui joueront l'Europe la saison prochaine sont connus",
-    "added_at": "2025-05-20T08:04:58.608Z",
-    "removed_at": "2025-05-20T12:06:21.649Z",
-    "duration_minutes": 241,
-    "duration_str": "4h 1m"
+    "added_at": "2025-05-20T08:04:58.608Z"
   },
   {
     "title": "Donald Trump et Vladimir Poutine se sont entretenus par téléphone au sujet de l’Ukraine",
@@ -7497,5 +7500,9 @@
   {
     "title": "Plus de 1,5 million de mètres cubes de roches se sont déjà décrochés en huit jours au-dessus de Blatten",
     "added_at": "2025-05-20T14:50:21.653Z"
+  },
+  {
+    "title": "En Roumanie, un candidat prorusse crée la surprise à la présidentielle",
+    "added_at": "2025-05-20T15:07:19.444Z"
   }
 ]
