@@ -6706,7 +6706,10 @@
   },
   {
     "title": "Attaque record de drones russes en Ukraine, une femme tuée près de Kiev",
-    "added_at": "2025-05-18T08:57:09.210Z"
+    "added_at": "2025-05-18T08:57:09.210Z",
+    "removed_at": "2025-05-20T09:52:25.384Z",
+    "duration_minutes": 2935,
+    "duration_str": "2d 55m"
   },
   {
     "title": "\"Immortals\" de Maja Tschumi, portrait d'une jeunesse irakienne en quête de liberté",
@@ -6810,11 +6813,17 @@
   },
   {
     "title": "Les habitants de Perroy révoquent leur syndic, accusé d'avoir favorisé ses intérêts privés",
-    "added_at": "2025-05-18T14:10:57.452Z"
+    "added_at": "2025-05-18T14:10:57.452Z",
+    "removed_at": "2025-05-20T09:56:14.250Z",
+    "duration_minutes": 2625,
+    "duration_str": "1d 19h 45m"
   },
   {
     "title": "Mercure dans les gélules d’Oméga 3: des résultats rassurants",
-    "added_at": "2025-05-18T14:27:58.510Z"
+    "added_at": "2025-05-18T14:27:58.510Z",
+    "removed_at": "2025-05-20T10:01:52.975Z",
+    "duration_minutes": 2613,
+    "duration_str": "1d 19h 33m"
   },
   {
     "title": "Volodymyr Zelensky et JD Vance ont évoqué à Rome l'appel Trump-Poutine prévu lundi",
@@ -7320,10 +7329,29 @@
   },
   {
     "title": "Bilan à mi-parcours: \"une compétition de haut vol, presque que des bons, voire des très bons films\"",
-    "added_at": "2025-05-20T09:39:16.956Z"
+    "added_at": "2025-05-20T09:39:16.956Z",
+    "removed_at": "2025-05-20T09:58:03.906Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
   },
   {
     "title": "CFF Cargo biffe 65 postes et ferme plusieurs terminaux de transport combiné",
     "added_at": "2025-05-20T09:41:06.567Z"
+  },
+  {
+    "title": "Une centaine de camions d'aide autorisés à Gaza, où Israël poursuit son offensive",
+    "added_at": "2025-05-20T09:52:25.384Z"
+  },
+  {
+    "title": "Une première greffe de vessie réalisée avec succès aux Etats-Unis",
+    "added_at": "2025-05-20T09:56:14.250Z"
+  },
+  {
+    "title": "Bilan à mi-parcours: \"une compétition de haut vol, avec presque que des bons films\"",
+    "added_at": "2025-05-20T09:58:03.906Z"
+  },
+  {
+    "title": "\"Quand viendra l'aube\" de Dominique Fortier, faire le deuil du père avec vue sur la mer",
+    "added_at": "2025-05-20T10:01:52.975Z"
   }
 ]
