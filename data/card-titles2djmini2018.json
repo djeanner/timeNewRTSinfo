@@ -5611,7 +5611,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – A Gaza, la défense civile annonce 44 morts dans des frappes israéliennes",
-    "added_at": "2025-05-20T05:06:02.159Z"
+    "added_at": "2025-05-20T05:06:02.159Z",
+    "removed_at": "2025-05-20T11:43:42.248Z",
+    "duration_minutes": 397,
+    "duration_str": "6h 37m"
   },
   {
     "title": "suisse:::Plaintes pénales et menaces de mort: Sierre débat de sa nouvelle patinoire et c’est chaud",
@@ -5676,5 +5679,9 @@
   {
     "title": "suisse:::Le Centre Jura ne défie pas Martial Courtet aux prochaines élections",
     "added_at": "2025-05-20T10:56:35.692Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’ONU autorisée à faire entrer «environ 100» camions d’aide à Gaza",
+    "added_at": "2025-05-20T11:43:42.248Z"
   }
 ]
