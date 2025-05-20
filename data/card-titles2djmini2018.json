@@ -5468,7 +5468,10 @@
   },
   {
     "title": "suisse:::L’affaire Dittli a déjà coûté près de 100 000 francs aux Vaudois",
-    "added_at": "2025-05-19T15:24:54.847Z"
+    "added_at": "2025-05-19T15:24:54.847Z",
+    "removed_at": "2025-05-20T04:03:54.808Z",
+    "duration_minutes": 758,
+    "duration_str": "12h 38m"
   },
   {
     "title": "economie:::Les investisseurs sont inquiets après la dégradation de la dette américaine",
@@ -5546,5 +5549,9 @@
   {
     "title": "suisse:::D'importants éboulements après l’évacuation du village valaisan de Blatten",
     "added_at": "2025-05-20T02:46:43.008Z"
+  },
+  {
+    "title": "sciences:::La voie est libre pour l'adoption de l'accord historique sur la prévention et la lutte contre les pandémies",
+    "added_at": "2025-05-20T04:03:54.808Z"
   }
 ]
