@@ -26,11 +26,17 @@
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-20T14:16:28.634Z",
+    "duration_minutes": 16034,
+    "duration_str": "11d 3h 14m"
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-20T14:10:49.569Z",
+    "duration_minutes": 16029,
+    "duration_str": "11d 3h 9m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -311,10 +317,7 @@
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T11:11:38.599Z",
-    "removed_at": "2025-05-20T13:46:17.924Z",
-    "duration_minutes": 15994,
-    "duration_str": "11d 2h 34m"
+    "added_at": "2025-05-09T11:11:38.599Z"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -5358,10 +5361,7 @@
   },
   {
     "title": "Les bombes planantes : l’astuce de la Russie pour recycler ses vieilles armes",
-    "added_at": "2025-05-13T10:01:09.971Z",
-    "removed_at": "2025-05-20T14:01:19.577Z",
-    "duration_minutes": 10320,
-    "duration_str": "7d 4h"
+    "added_at": "2025-05-13T10:01:09.971Z"
   },
   {
     "title": "Gérard Depardieu condamné à dix-huit mois de prison avec sursis pour agressions sexuelles sur le tournage du film « Les Volets verts »",
@@ -11748,9 +11748,9 @@
   {
     "title": "Derrière les milliards de Choose France, les vents contraires soufflent sur l’attractivité de la France",
     "added_at": "2025-05-19T03:32:44.084Z",
-    "removed_at": "2025-05-20T13:59:30.231Z",
-    "duration_minutes": 2066,
-    "duration_str": "1d 10h 26m"
+    "removed_at": "2025-05-20T14:16:28.634Z",
+    "duration_minutes": 2083,
+    "duration_str": "1d 10h 43m"
   },
   {
     "title": "Au procès Le Scouarnec, les années à Jonzac ou un voyage au cœur des ténèbres",
@@ -12564,7 +12564,10 @@
   },
   {
     "title": "« Bruno Retailleau galvanise ses troupes en agitant le même mirage que ses prédécesseurs, celui d’une droite capable de réexister par elle-même »",
-    "added_at": "2025-05-20T03:26:15.174Z"
+    "added_at": "2025-05-20T03:26:15.174Z",
+    "removed_at": "2025-05-20T14:16:28.634Z",
+    "duration_minutes": 650,
+    "duration_str": "10h 50m"
   },
   {
     "title": "Les séries de la semaine : « The Agency », « Plaine orientale », « Legado » et « Sirens »",
@@ -12603,10 +12606,7 @@
   },
   {
     "title": "Michel Winock, historien : « Depuis la seconde guerre mondiale, la France a perdu son rôle d’exportatrice des idées politiques »",
-    "added_at": "2025-05-20T03:35:40.041Z",
-    "removed_at": "2025-05-20T08:33:16.730Z",
-    "duration_minutes": 297,
-    "duration_str": "4h 57m"
+    "added_at": "2025-05-20T03:35:40.041Z"
   },
   {
     "title": "IA dans l’éducation : « L’outil empêche de réaliser l’acte philosophique d’élaborer un problème et d’en déployer les dimensions »",
@@ -12679,9 +12679,9 @@
   {
     "title": "Le scrutin proportionnel ne promet pas en soi de miracle démocratique",
     "added_at": "2025-05-20T05:02:19.965Z",
-    "removed_at": "2025-05-20T13:55:41.275Z",
-    "duration_minutes": 533,
-    "duration_str": "8h 53m"
+    "removed_at": "2025-05-20T14:07:00.288Z",
+    "duration_minutes": 544,
+    "duration_str": "9h 4m"
   },
   {
     "title": "Ian Brossat, sénateur : « Paris souffre d’une tutelle étatique que plus rien ne justifie »",
@@ -13039,14 +13039,14 @@
   },
   {
     "title": "« Les constructeurs cherchent à éluder leurs responsabilités sur le marasme actuel du marché automobile »",
-    "added_at": "2025-05-20T10:16:57.220Z",
-    "removed_at": "2025-05-20T13:38:44.253Z",
-    "duration_minutes": 201,
-    "duration_str": "3h 21m"
+    "added_at": "2025-05-20T10:16:57.220Z"
   },
   {
     "title": "Marine Le Pen tente de sauver son mandat de conseillère départementale du Pas-de-Calais devant le tribunal administratif",
-    "added_at": "2025-05-20T10:26:23.999Z"
+    "added_at": "2025-05-20T10:26:23.999Z",
+    "removed_at": "2025-05-20T14:03:15.504Z",
+    "duration_minutes": 216,
+    "duration_str": "3h 36m"
   },
   {
     "title": "Cancers : en France, la création d’une nouvelle molécule conçue pour éliminer les cellules métastatiques",
@@ -13235,6 +13235,31 @@
   },
   {
     "title": "Au moins trois morts dans le Var après un « épisode orageux avec des pluies intenses », annonce la préfecture",
-    "added_at": "2025-05-20T13:27:23.816Z"
+    "added_at": "2025-05-20T13:27:23.816Z",
+    "removed_at": "2025-05-20T14:05:10.939Z",
+    "duration_minutes": 37,
+    "duration_str": "37m"
+  },
+  {
+    "title": "Retraites : les obstacles à une dose accrue de capitalisation",
+    "added_at": "2025-05-20T14:03:15.504Z"
+  },
+  {
+    "title": "Au moins trois morts dans le Var en raison d’un « épisode orageux avec des pluies intenses », annonce la préfecture",
+    "added_at": "2025-05-20T14:05:10.939Z",
+    "removed_at": "2025-05-20T14:10:49.569Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "« Environ 100 » c mions d’aide humanitaire sont autorisés à entrer dans la bande de Gaza mardi",
+    "added_at": "2025-05-20T14:07:00.288Z",
+    "removed_at": "2025-05-20T14:08:54.069Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Orages dans le Var : trois morts après les intempéries",
+    "added_at": "2025-05-20T14:10:49.569Z"
   }
 ]
