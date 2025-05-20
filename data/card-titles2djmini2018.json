@@ -5454,7 +5454,10 @@
   },
   {
     "title": "suisse:::Un important éboulement s’est produit après l’évacuation du village valaisan de Blatten",
-    "added_at": "2025-05-19T14:52:50.831Z"
+    "added_at": "2025-05-19T14:52:50.831Z",
+    "removed_at": "2025-05-20T02:46:43.008Z",
+    "duration_minutes": 713,
+    "duration_str": "11h 53m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L’appel entre Donald Trump et Vladimir Poutine a commencé",
@@ -5539,5 +5542,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Les rebelles houthis du Yémen menacent le port israélien de Haïfa d'un «blocus naval»",
     "added_at": "2025-05-20T02:35:17.977Z"
+  },
+  {
+    "title": "suisse:::D'importants éboulements après l’évacuation du village valaisan de Blatten",
+    "added_at": "2025-05-20T02:46:43.008Z"
   }
 ]
