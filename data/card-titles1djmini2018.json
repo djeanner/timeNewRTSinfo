@@ -6817,7 +6817,10 @@
   },
   {
     "title": "L'armée israélienne lance de \"vastes opérations terrestres\" dans la bande de Gaza",
-    "added_at": "2025-05-18T14:03:22.135Z"
+    "added_at": "2025-05-18T14:03:22.135Z",
+    "removed_at": "2025-05-20T14:39:05.377Z",
+    "duration_minutes": 2915,
+    "duration_str": "2d 35m"
   },
   {
     "title": "Benjamin Netanyahu se dit ouvert à un accord incluant la fin de la guerre à Gaza",
@@ -7352,7 +7355,10 @@
   },
   {
     "title": "Le village de Blatten toujours en sursis face au risque d'éboulement",
-    "added_at": "2025-05-20T08:31:26.706Z"
+    "added_at": "2025-05-20T08:31:26.706Z",
+    "removed_at": "2025-05-20T14:40:54.796Z",
+    "duration_minutes": 369,
+    "duration_str": "6h 9m"
   },
   {
     "title": "Reportage dans une raffinerie d'or à Mendrisio (TI), alors que le prix de l'once bat des records",
@@ -7476,5 +7482,20 @@
   {
     "title": "Un accord international sur les pandémies conclu à l'OMS après trois ans de négociations",
     "added_at": "2025-05-20T13:57:33.988Z"
+  },
+  {
+    "title": "Le Parlement hongrois avalise la sortie de la Cour pénale internationale",
+    "added_at": "2025-05-20T14:39:05.377Z"
+  },
+  {
+    "title": "Les chutes de pierres se poursuivent au-dessus de Blatten",
+    "added_at": "2025-05-20T14:40:54.796Z",
+    "removed_at": "2025-05-20T14:50:21.653Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Plus de 1,5 million de mètres cubes de roches se sont déjà décrochés en huit jours au-dessus de Blatten",
+    "added_at": "2025-05-20T14:50:21.653Z"
   }
 ]
