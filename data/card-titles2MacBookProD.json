@@ -925,10 +925,7 @@
   },
   {
     "title": "suisse:::Cinquante ans après la chute de Saigon, le fabuleux destin des boat people vietnamiens arrivés en Suisse",
-    "added_at": "2025-04-26T15:24:49.194Z",
-    "removed_at": "2025-04-27T18:31:25.908Z",
-    "duration_minutes": 1626,
-    "duration_str": "1d 3h 6m"
+    "added_at": "2025-04-26T15:24:49.194Z"
   },
   {
     "title": "culture:::L’âme de -M- est au Mali",
@@ -6319,7 +6316,10 @@
   },
   {
     "title": "monde:::Comment Israël viole les Conventions de Genève à Gaza",
-    "added_at": "2025-05-16T16:34:15.481Z"
+    "added_at": "2025-05-16T16:34:15.481Z",
+    "removed_at": "2025-05-20T10:19:17.239Z",
+    "duration_minutes": 5385,
+    "duration_str": "3d 17h 45m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 4: deux cinéastes iraniens aux choix opposés dans la course à la Palme d’or",
@@ -7445,10 +7445,21 @@
   },
   {
     "title": "economie:::La Chine et l’Allemagne pèsent sur l’industrie des machines suisses",
-    "added_at": "2025-05-20T10:05:45.311Z"
+    "added_at": "2025-05-20T10:05:45.311Z",
+    "removed_at": "2025-05-20T10:55:49.162Z",
+    "duration_minutes": 50,
+    "duration_str": "50m"
   },
   {
     "title": "suisse:::En images – A Blatten, sous la menace de la montagne",
     "added_at": "2025-05-20T10:05:45.311Z"
+  },
+  {
+    "title": "suisse:::Ils accrochaient le drapeau du Vietcong au sommet de Notre-Dame: l’extraordinaire aventure de trois Vaudois, héros du Vietnam à 80 ans",
+    "added_at": "2025-05-20T10:19:17.239Z"
+  },
+  {
+    "title": "suisse:::Le Centre Jura ne défie pas Martial Courtet aux prochaines élections",
+    "added_at": "2025-05-20T10:55:49.162Z"
   }
 ]
