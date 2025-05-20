@@ -7246,7 +7246,10 @@
   },
   {
     "title": "suisse:::Un important éboulement s’est produit après l’évacuation du village valaisan de Blatten",
-    "added_at": "2025-05-19T14:52:26.804Z"
+    "added_at": "2025-05-19T14:52:26.804Z",
+    "removed_at": "2025-05-20T02:46:23.649Z",
+    "duration_minutes": 713,
+    "duration_str": "11h 53m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L’appel entre Donald Trump et Vladimir Poutine a commencé",
@@ -7288,7 +7291,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – 22 pays exigent d’Israël une «reprise complète de l’aide, immédiatement» à Gaza",
-    "added_at": "2025-05-19T17:12:28.716Z"
+    "added_at": "2025-05-19T17:12:28.716Z",
+    "removed_at": "2025-05-20T02:34:54.090Z",
+    "duration_minutes": 562,
+    "duration_str": "9h 22m"
   },
   {
     "title": "monde:::Face à la crise, les réformes indispensables de l’OMS",
@@ -7324,5 +7330,13 @@
   {
     "title": "economie:::Que se cache-t-il vraiment derrière les prix des montres?",
     "added_at": "2025-05-19T19:44:14.201Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les rebelles houthis du Yémen menacent le port israélien de Haïfa d'un «blocus naval»",
+    "added_at": "2025-05-20T02:34:54.090Z"
+  },
+  {
+    "title": "suisse:::D'importants éboulements après l’évacuation du village valaisan de Blatten",
+    "added_at": "2025-05-20T02:46:23.649Z"
   }
 ]
