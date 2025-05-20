@@ -78,8 +78,9 @@
   {
     "title": "Russia-Ukraine war: List of key events, day 1,181",
     "added_at": "2025-05-20T05:09:47.635Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-20T12:22:15.520Z",
+    "duration_minutes": 432,
+    "duration_str": "7h 12m"
   },
   {
     "title": "Biden’s cancer diagnosis renews transparency outcry; Trump claims cover-up",
@@ -148,8 +149,9 @@
   {
     "title": "Gaza City school shelter bombed as Israeli attacks kill 73",
     "added_at": "2025-05-20T10:11:18.771Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-20T12:33:44.253Z",
+    "duration_minutes": 142,
+    "duration_str": "2h 22m"
   },
   {
     "title": "Europe considers the perils of flying fighters in Ukraine’s airspace",
@@ -174,13 +176,25 @@
   {
     "title": "EU reaches initial deal to lift Syria sanctions: Reports",
     "added_at": "2025-05-20T11:07:19.170Z",
-    "removed_at": "2025-05-20T11:11:13.048Z",
-    "duration_minutes": 4,
-    "duration_str": "4m"
+    "removed_at": "2025-05-20T11:09:48.683Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
   },
   {
     "title": "EU reaches initial deal to lift economic sanctions on Syria: Reports",
-    "added_at": "2025-05-20T11:11:13.048Z",
+    "added_at": "2025-05-20T11:09:48.683Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Iran’s Khamenei slams ‘nonsense’ US nuclear demands",
+    "added_at": "2025-05-20T12:22:15.520Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Gaza City school shelter bombed as Israeli attacks kill over 70",
+    "added_at": "2025-05-20T12:33:44.253Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
