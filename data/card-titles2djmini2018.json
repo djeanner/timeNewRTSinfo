@@ -5635,7 +5635,10 @@
   },
   {
     "title": "sport:::Sur la glace, le Kazakhstan oscille entre mémoire soviétique et défi mondial",
-    "added_at": "2025-05-20T06:40:11.475Z"
+    "added_at": "2025-05-20T06:40:11.475Z",
+    "removed_at": "2025-05-20T15:33:41.652Z",
+    "duration_minutes": 533,
+    "duration_str": "8h 53m"
   },
   {
     "title": "culture:::Dans son dernier essai, Fanny Lederlin nourrit la flamme d’un avenir meilleur",
@@ -5711,5 +5714,9 @@
   {
     "title": "suisse:::Au dessus de Blatten, seul un tiers de la masse rocheuse attendue s'est pour l'instant effondré",
     "added_at": "2025-05-20T15:01:41.178Z"
+  },
+  {
+    "title": "suisse:::Zurich ouvre le plus grand tunnel à vélos de Suisse",
+    "added_at": "2025-05-20T15:33:41.652Z"
   }
 ]
