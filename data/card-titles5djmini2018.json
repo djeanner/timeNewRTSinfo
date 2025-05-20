@@ -30,7 +30,10 @@
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-20T10:35:52.344Z",
+    "duration_minutes": 15814,
+    "duration_str": "10d 23h 34m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -312,9 +315,9 @@
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
     "added_at": "2025-05-09T11:11:38.599Z",
-    "removed_at": "2025-05-20T10:16:57.220Z",
-    "duration_minutes": 15785,
-    "duration_str": "10d 23h 5m"
+    "removed_at": "2025-05-20T10:26:23.999Z",
+    "duration_minutes": 15794,
+    "duration_str": "10d 23h 14m"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -9157,10 +9160,7 @@
   },
   {
     "title": "Les drones de combat exacerbent la violence dans un Soudan en pleine guerre civile",
-    "added_at": "2025-05-16T07:55:52.133Z",
-    "removed_at": "2025-05-20T10:16:57.220Z",
-    "duration_minutes": 5901,
-    "duration_str": "4d 2h 21m"
+    "added_at": "2025-05-16T07:55:52.133Z"
   },
   {
     "title": "L’armée israélienne continue de bombarder la bande de Gaza, plus de 50 personnes tuées, selon la défense civile palestinienne",
@@ -10938,10 +10938,7 @@
   },
   {
     "title": "« L’environnement est demeuré pour Emmanuel Macron ce qu’il n’a jamais cessé d’être : un matériau de communication »",
-    "added_at": "2025-05-18T02:50:52.177Z",
-    "removed_at": "2025-05-20T10:20:42.449Z",
-    "duration_minutes": 3329,
-    "duration_str": "2d 7h 29m"
+    "added_at": "2025-05-18T02:50:52.177Z"
   },
   {
     "title": "« C’est un peu l’échappatoire » : les « discos », ces « teens parties » campagnardes",
@@ -11742,9 +11739,9 @@
   {
     "title": "Derrière les milliards de Choose France, les vents contraires soufflent sur l’attractivité de la France",
     "added_at": "2025-05-19T03:32:44.084Z",
-    "removed_at": "2025-05-20T10:15:03.727Z",
-    "duration_minutes": 1842,
-    "duration_str": "1d 6h 42m"
+    "removed_at": "2025-05-20T10:28:17.439Z",
+    "duration_minutes": 1855,
+    "duration_str": "1d 6h 55m"
   },
   {
     "title": "Au procès Le Scouarnec, les années à Jonzac ou un voyage au cœur des ténèbres",
@@ -12681,7 +12678,10 @@
   },
   {
     "title": "Le scrutin proportionnel ne promet pas en soi de miracle démocratique",
-    "added_at": "2025-05-20T05:02:19.965Z"
+    "added_at": "2025-05-20T05:02:19.965Z",
+    "removed_at": "2025-05-20T10:33:56.648Z",
+    "duration_minutes": 331,
+    "duration_str": "5h 31m"
   },
   {
     "title": "Ian Brossat, sénateur : « Paris souffre d’une tutelle étatique que plus rien ne justifie »",
@@ -12973,7 +12973,10 @@
   },
   {
     "title": "Macron prend la tête d’un mouvement de condamnation inédit de la guerre à Gaza",
-    "added_at": "2025-05-20T09:26:03.431Z"
+    "added_at": "2025-05-20T09:26:03.431Z",
+    "removed_at": "2025-05-20T10:35:52.344Z",
+    "duration_minutes": 69,
+    "duration_str": "1h 9m"
   },
   {
     "title": "Fraude aux eaux minérales : Aurélien Rousseau reconnaît une « erreur d’appréciation » mais récuse tout « scandale sanitaire »",
@@ -13014,13 +13017,28 @@
   },
   {
     "title": "Marine Le Pen tente de sauver son mandat de conseillère départementale du Pas-de-Calais devant le tribunal administratif",
-    "added_at": "2025-05-20T10:15:03.727Z"
+    "added_at": "2025-05-20T10:15:03.727Z",
+    "removed_at": "2025-05-20T10:26:23.999Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
   },
   {
     "title": "« Les constructeurs cherchent à éluder leurs responsabilités sur le marasme actuel du marché automobile »",
     "added_at": "2025-05-20T10:16:57.220Z",
-    "removed_at": "2025-05-20T10:18:52.703Z",
-    "duration_minutes": 1,
-    "duration_str": "1m"
+    "removed_at": "2025-05-20T10:35:52.344Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
+  },
+  {
+    "title": "Marine Le Pen tente de sauver son mandat de conseillère départementale du Pas-de-Calais devant le tribunal administratif",
+    "added_at": "2025-05-20T10:26:23.999Z"
+  },
+  {
+    "title": "Cancers : en France, la création d’une nouvelle molécule conçue pour éliminer les cellules métastatiques",
+    "added_at": "2025-05-20T10:32:02.725Z"
+  },
+  {
+    "title": "Emmanuel Macron prend la tête d’un mouvement de condamnation inédit de la guerre à Gaza, accentuant la pression sur Israël",
+    "added_at": "2025-05-20T10:35:52.344Z"
   }
 ]
