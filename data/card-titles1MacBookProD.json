@@ -9581,7 +9581,10 @@
   },
   {
     "title": "La fin de l'Univers devrait arriver plus vite que prévu, mais vous avez le temps",
-    "added_at": "2025-05-18T08:49:52.410Z"
+    "added_at": "2025-05-18T08:49:52.410Z",
+    "removed_at": "2025-05-20T15:07:17.577Z",
+    "duration_minutes": 3257,
+    "duration_str": "2d 6h 17m"
   },
   {
     "title": "Le pape Léon XIV inaugure son pontificat par une messe précédée d'un premier bain de foule",
@@ -9701,7 +9704,10 @@
   },
   {
     "title": "L'armée israélienne lance de \"vastes opérations terrestres\" dans la bande de Gaza",
-    "added_at": "2025-05-18T14:03:54.339Z"
+    "added_at": "2025-05-18T14:03:54.339Z",
+    "removed_at": "2025-05-20T14:38:31.942Z",
+    "duration_minutes": 2914,
+    "duration_str": "2d 34m"
   },
   {
     "title": "Benjamin Netanyahu se dit ouvert à un accord incluant la fin de la guerre à Gaza",
@@ -9804,7 +9810,10 @@
   },
   {
     "title": "La commune d'Yverdon vote sur deux projets de réaménagement de la Place d'Armes",
-    "added_at": "2025-05-18T20:01:37.755Z"
+    "added_at": "2025-05-18T20:01:37.755Z",
+    "removed_at": "2025-05-20T15:07:17.577Z",
+    "duration_minutes": 2585,
+    "duration_str": "1d 19h 5m"
   },
   {
     "title": "Les premiers résultats des votations cantonales à Genève",
@@ -9815,7 +9824,10 @@
   },
   {
     "title": "Le candidat pro-européen Rafal Trzaskowski en tête au premier tour de la présidentielle en Pologne",
-    "added_at": "2025-05-18T20:20:53.763Z"
+    "added_at": "2025-05-18T20:20:53.763Z",
+    "removed_at": "2025-05-20T15:22:37.035Z",
+    "duration_minutes": 2581,
+    "duration_str": "1d 19h 1m"
   },
   {
     "title": "Joe Biden atteint d'une forme \"agressive\" d'un cancer de la prostate",
@@ -9823,7 +9835,10 @@
   },
   {
     "title": "Andres Ambühl et Timo Meier se font plaisir dans un \"match de remplissage\" face à une faible Hongrie",
-    "added_at": "2025-05-18T20:41:54.190Z"
+    "added_at": "2025-05-18T20:41:54.190Z",
+    "removed_at": "2025-05-20T15:18:47.972Z",
+    "duration_minutes": 2556,
+    "duration_str": "1d 18h 36m"
   },
   {
     "title": "Moritz Stadler: \"J'ai été impressionné du résultat final\" et du \"vrai engouement\" autour de l'Eurovision",
@@ -10210,10 +10225,7 @@
   },
   {
     "title": "Football: Les clubs suisses qui joueront l'Europe la saison prochaine sont connus",
-    "added_at": "2025-05-20T08:04:50.469Z",
-    "removed_at": "2025-05-20T12:06:52.309Z",
-    "duration_minutes": 242,
-    "duration_str": "4h 2m"
+    "added_at": "2025-05-20T08:04:50.469Z"
   },
   {
     "title": "Donald Trump et Vladimir Poutine se sont entretenus par téléphone au sujet de l’Ukraine",
@@ -10236,7 +10248,10 @@
   },
   {
     "title": "Le village de Blatten toujours en sursis face au risque d'éboulement",
-    "added_at": "2025-05-20T08:31:42.829Z"
+    "added_at": "2025-05-20T08:31:42.829Z",
+    "removed_at": "2025-05-20T14:40:29.635Z",
+    "duration_minutes": 368,
+    "duration_str": "6h 8m"
   },
   {
     "title": "Reportage dans une raffinerie d'or à Mendrisio (TI), alors que le prix de l'once bat des records",
@@ -10360,5 +10375,40 @@
   {
     "title": "Un accord international sur les pandémies conclu à l'OMS après trois ans de négociations",
     "added_at": "2025-05-20T13:58:12.059Z"
+  },
+  {
+    "title": "Le Parlement hongrois avalise la sortie de la Cour pénale internationale",
+    "added_at": "2025-05-20T14:38:31.942Z"
+  },
+  {
+    "title": "Les chutes de pierres se poursuivent au-dessus de Blatten",
+    "added_at": "2025-05-20T14:40:29.635Z",
+    "removed_at": "2025-05-20T14:50:02.128Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Plus de 1,5 million de mètres cubes de roches se sont déjà décrochés en huit jours au-dessus de Blatten",
+    "added_at": "2025-05-20T14:50:02.128Z"
+  },
+  {
+    "title": "En Roumanie, un candidat prorusse crée la surprise à la présidentielle",
+    "added_at": "2025-05-20T15:07:17.577Z"
+  },
+  {
+    "title": "ChatGPT peut-il remplacer mon psy en cas de rupture amoureuse?",
+    "added_at": "2025-05-20T15:18:47.972Z"
+  },
+  {
+    "title": "Le Musée cantonal des Beaux-Arts de Lausanne reçoit 17 sculptures d'Alberto Giacometti",
+    "added_at": "2025-05-20T15:18:47.972Z"
+  },
+  {
+    "title": "Eurovision: Israël cartonne à nouveau au vote du public, plusieurs diffuseurs européens s'interrogent",
+    "added_at": "2025-05-20T15:22:37.035Z"
+  },
+  {
+    "title": "Au moins trois morts dans de fortes intempéries dans le sud-est de la France",
+    "added_at": "2025-05-20T15:24:32.546Z"
   }
 ]
