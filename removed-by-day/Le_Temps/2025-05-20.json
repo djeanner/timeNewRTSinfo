@@ -9,7 +9,7 @@
   {
     "title": "suisse:::D'importants éboulements après l’évacuation du village valaisan de Blatten",
     "added_at": "2025-05-20T02:46:23.649Z",
-    "removed_at": "2025-05-20T10:05:45.311Z",
+    "removed_at": "2025-05-20T10:05:38.428Z",
     "duration_minutes": 439,
     "duration_str": "7h 19m"
   },
@@ -49,8 +49,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – A Gaza, la défense civile annonce 44 morts dans des frappes israéliennes",
     "added_at": "2025-05-20T05:06:02.159Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-20T11:43:46.369Z",
+    "duration_minutes": 398,
+    "duration_str": "6h 38m"
   },
   {
     "title": "suisse:::Plaintes pénales et menaces de mort: Sierre débat de sa nouvelle patinoire et c’est chaud",
@@ -81,7 +82,7 @@
   {
     "title": "sport:::Dominique Prudent Gagner du terrain",
     "added_at": "2025-05-20T08:41:21.047Z",
-    "removed_at": "2025-05-20T10:17:15.202Z",
+    "removed_at": "2025-05-20T10:16:56.609Z",
     "duration_minutes": 96,
     "duration_str": "1h 36m"
   },
@@ -105,26 +106,32 @@
   },
   {
     "title": "economie:::La Chine et l’Allemagne pèsent sur l’industrie des machines suisses",
-    "added_at": "2025-05-20T10:05:45.311Z",
+    "added_at": "2025-05-20T10:05:38.428Z",
     "removed_at": "2025-05-20T10:55:49.162Z",
     "duration_minutes": 50,
     "duration_str": "50m"
   },
   {
     "title": "suisse:::En images – A Blatten, sous la menace de la montagne",
-    "added_at": "2025-05-20T10:05:45.311Z",
+    "added_at": "2025-05-20T10:05:38.428Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "suisse:::Ils accrochaient le drapeau du Vietcong au sommet de Notre-Dame: l’extraordinaire aventure de trois Vaudois, héros du Vietnam à 80 ans",
-    "added_at": "2025-05-20T10:19:17.239Z",
+    "added_at": "2025-05-20T10:18:52.135Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "suisse:::Le Centre Jura ne défie pas Martial Courtet aux prochaines élections",
     "added_at": "2025-05-20T10:55:49.162Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’ONU autorisée à faire entrer «environ 100» camions d’aide à Gaza",
+    "added_at": "2025-05-20T11:43:46.369Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
