@@ -100,9 +100,8 @@
   {
     "title": "Les salariés ne veulent plus devenir manageurs à n’importe quel prix",
     "added_at": "2025-05-21T04:05:17.044Z",
-    "removed_at": "2025-05-21T06:42:43.508Z",
-    "duration_minutes": 157,
-    "duration_str": "2h 37m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Les forêts primaires tropicales ont subi en 2024 leur pire recul depuis une vingtaine d’années",
@@ -142,9 +141,9 @@
   {
     "title": "Le point sur la guerre en Ukraine : les dernières informations",
     "added_at": "2025-05-21T05:17:50.831Z",
-    "removed_at": "2025-05-21T08:14:51.363Z",
-    "duration_minutes": 177,
-    "duration_str": "2h 57m"
+    "removed_at": "2025-05-21T08:13:18.403Z",
+    "duration_minutes": 175,
+    "duration_str": "2h 55m"
   },
   {
     "title": "Après s’être rangé derrière Trump, Mark Zuckerberg ferme son école pour enfants défavorisés",
@@ -395,8 +394,9 @@
   {
     "title": "Vers la fin du démarchage téléphonique non consenti",
     "added_at": "2025-05-21T07:37:33.063Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-21T09:06:43.225Z",
+    "duration_minutes": 89,
+    "duration_str": "1h 29m"
   },
   {
     "title": "Au procès de Joël Le Scouarnec, les ultimes regrets de « la machine à excuses »",
@@ -406,13 +406,13 @@
   },
   {
     "title": "Après la panne d’électricité géante espagnole, les énergies renouvelables en pleine tourmente en France",
-    "added_at": "2025-05-21T08:07:09.583Z",
+    "added_at": "2025-05-21T08:05:47.723Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Le point sur la guerre en Ukraine : les affrontements se poursuivent entre Russes et Ukrainiens, sur le front et dans les airs",
-    "added_at": "2025-05-21T08:14:51.363Z",
+    "added_at": "2025-05-21T08:13:18.403Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -438,6 +438,37 @@
   {
     "title": "« L’Assemblée nationale doit permettre la recherche du compromis et la fabrique du consensus »",
     "added_at": "2025-05-21T08:35:54.716Z",
+    "removed_at": "2025-05-21T09:35:28.039Z",
+    "duration_minutes": 60,
+    "duration_str": "1h"
+  },
+  {
+    "title": "« Les entreprises de capture du CO₂ dans l’air émettent plus de carbone qu’elles n’en éliminent »",
+    "added_at": "2025-05-21T09:04:46.444Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Editorial du « Monde » : le gouvernement israélien ne doit plus bénéficier de la moindre impunité",
+    "added_at": "2025-05-21T09:06:43.225Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Les enseignements électoraux de la victoire surprise du candidat pro-européen Nicusor Dan en Roumanie",
+    "added_at": "2025-05-21T09:06:43.225Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "« Cette urgence à ôter des crédits, sans concertation, à la petite Agence bio montre la puissance de ses ennemis »",
+    "added_at": "2025-05-21T09:35:28.039Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "« Il faut en finir, à l’école, avec les filles “consciencieuses” et les garçons “brillants” »",
+    "added_at": "2025-05-21T09:35:28.039Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
