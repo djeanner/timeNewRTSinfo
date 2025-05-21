@@ -7547,7 +7547,10 @@
   },
   {
     "title": "suisse:::Zurich ouvre le plus grand tunnel à vélos de Suisse",
-    "added_at": "2025-05-20T15:34:13.446Z"
+    "added_at": "2025-05-20T15:34:13.446Z",
+    "removed_at": "2025-05-21T14:33:18.072Z",
+    "duration_minutes": 1379,
+    "duration_str": "22h 59m"
   },
   {
     "title": "suisse:::A Zurich, la vente régulée de cannabis concurrence le marché noir",
@@ -7757,7 +7760,10 @@
   },
   {
     "title": "economie:::Monsieur Prix somme Booking d’abaisser ses commissions «abusives»: l'hôtellerie suisse s'en réjouit mais devra être patiente",
-    "added_at": "2025-05-21T13:22:14.466Z"
+    "added_at": "2025-05-21T13:22:14.466Z",
+    "removed_at": "2025-05-21T14:25:37.006Z",
+    "duration_minutes": 63,
+    "duration_str": "1h 3m"
   },
   {
     "title": "culture:::Avec Alice Rosselet, l’orgue fait sa rock star pour la Nuit des églises",
@@ -7765,6 +7771,21 @@
   },
   {
     "title": "monde:::Emmanuel Macron sonne la mobilisation générale suite à un rapport sur l’«entrisme» des Frères musulmans en France",
-    "added_at": "2025-05-21T13:51:00.824Z"
+    "added_at": "2025-05-21T13:51:00.824Z",
+    "removed_at": "2025-05-21T14:16:03.360Z",
+    "duration_minutes": 25,
+    "duration_str": "25m"
+  },
+  {
+    "title": "monde:::Emmanuel Macron sonne la mobilisation générale à la suite d’un rapport sur l’«entrisme» des Frères musulmans en France",
+    "added_at": "2025-05-21T14:16:03.360Z"
+  },
+  {
+    "title": "economie:::Monsieur Prix somme Booking d’abaisser ses commissions «abusives»: l’hôtellerie suisse s’en réjouit mais devra être patiente",
+    "added_at": "2025-05-21T14:25:37.006Z"
+  },
+  {
+    "title": "cyber:::Les Google Glass font leur retour… mais à nouveau, rien ne garantit leur succès",
+    "added_at": "2025-05-21T14:33:18.072Z"
   }
 ]
