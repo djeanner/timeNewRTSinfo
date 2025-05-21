@@ -572,10 +572,7 @@
   },
   {
     "title": "Saiga: Back from the brink",
-    "added_at": "2025-05-09T10:12:14.400Z",
-    "removed_at": "2025-05-21T13:05:42.421Z",
-    "duration_minutes": 17453,
-    "duration_str": "12d 2h 53m"
+    "added_at": "2025-05-09T10:12:14.400Z"
   },
   {
     "title": "In pictures: The history of the White House Correspondents’ Dinner",
@@ -10393,7 +10390,10 @@
   },
   {
     "title": "Forensic psychologist takes stand in Sean ‘Diddy’ Combs trial",
-    "added_at": "2025-05-21T15:12:00.585Z"
+    "added_at": "2025-05-21T15:12:00.585Z",
+    "removed_at": "2025-05-21T19:04:12.518Z",
+    "duration_minutes": 232,
+    "duration_str": "3h 52m"
   },
   {
     "title": "‘No way it passes today’: House Freedom Caucus chair pours doubt on future of budget bill",
@@ -10426,11 +10426,17 @@
   },
   {
     "title": "Asia’s 50 best restaurants for 2025 revealed",
-    "added_at": "2025-05-21T15:59:10.275Z"
+    "added_at": "2025-05-21T15:59:10.275Z",
+    "removed_at": "2025-05-21T19:04:12.518Z",
+    "duration_minutes": 185,
+    "duration_str": "3h 5m"
   },
   {
     "title": "In pictures: Former Supreme Court Justice David Souter",
-    "added_at": "2025-05-21T15:59:10.275Z"
+    "added_at": "2025-05-21T15:59:10.275Z",
+    "removed_at": "2025-05-21T19:04:12.518Z",
+    "duration_minutes": 185,
+    "duration_str": "3h 5m"
   },
   {
     "title": "South African president arrives at White House",
@@ -10505,5 +10511,13 @@
   {
     "title": "Former Apple design chief Jony Ive is joining OpenAI",
     "added_at": "2025-05-21T18:49:06.516Z"
+  },
+  {
+    "title": "Former assistant to Sean ‘Diddy’ Combs takes stand in trial",
+    "added_at": "2025-05-21T19:04:12.518Z"
+  },
+  {
+    "title": "World Press Photo 2025: Award Winners Unveiled",
+    "added_at": "2025-05-21T19:04:12.518Z"
   }
 ]
