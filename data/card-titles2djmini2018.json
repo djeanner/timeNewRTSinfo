@@ -5826,7 +5826,10 @@
   },
   {
     "title": "culture:::Festival de Cannes: «Un simple accident», un film iranien qui défie les mollahs et a le poids d’une Palme d’or",
-    "added_at": "2025-05-21T02:58:13.670Z"
+    "added_at": "2025-05-21T02:58:13.670Z",
+    "removed_at": "2025-05-21T06:16:20.103Z",
+    "duration_minutes": 198,
+    "duration_str": "3h 18m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Ignazio Cassis taxé de «collabo des plus ignobles comportements d’Israël» par Carlo Sommaruga",
@@ -5843,5 +5846,9 @@
   {
     "title": "suisse:::De petits effondrements au-dessus de Blatten dans la nuit",
     "added_at": "2025-05-21T05:29:09.296Z"
+  },
+  {
+    "title": "cyber:::Une vague d’enlèvements en France soulève la question de la sécurité des détenteurs de cryptomonnaies",
+    "added_at": "2025-05-21T06:16:20.103Z"
   }
 ]
