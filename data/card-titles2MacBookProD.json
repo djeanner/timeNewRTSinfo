@@ -7534,7 +7534,10 @@
   },
   {
     "title": "suisse:::Au dessus de Blatten, seul un tiers de la masse rocheuse attendue s'est pour l'instant effondré",
-    "added_at": "2025-05-20T15:01:32.097Z"
+    "added_at": "2025-05-20T15:01:32.097Z",
+    "removed_at": "2025-05-21T05:29:44.537Z",
+    "duration_minutes": 868,
+    "duration_str": "14h 28m"
   },
   {
     "title": "suisse:::Zurich ouvre le plus grand tunnel à vélos de Suisse",
@@ -7621,5 +7624,9 @@
   {
     "title": "monde:::Sans gouvernement depuis trois mois, le Kosovo s’enfonce dans la crise politique. Et ça peut lui coûter cher",
     "added_at": "2025-05-21T04:14:51.148Z"
+  },
+  {
+    "title": "suisse:::De petits effondrements au-dessus de Blatten dans la nuit",
+    "added_at": "2025-05-21T05:29:44.537Z"
   }
 ]
