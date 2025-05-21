@@ -7276,7 +7276,10 @@
   },
   {
     "title": "Podcast - Le tabou autour des règles a-t-il reculé ces dernières années?",
-    "added_at": "2025-05-19T15:17:19.475Z"
+    "added_at": "2025-05-19T15:17:19.475Z",
+    "removed_at": "2025-05-21T09:57:00.040Z",
+    "duration_minutes": 2559,
+    "duration_str": "1d 18h 39m"
   },
   {
     "title": "Un premier pan important de la montagne s'est détaché au-dessus de Blatten, le village évacué en urgence",
@@ -7778,10 +7781,21 @@
   },
   {
     "title": "A Fribourg, le bras de fer continue entre le canton et les techniciens en radiologie médicale",
-    "added_at": "2025-05-21T09:23:05.169Z"
+    "added_at": "2025-05-21T09:23:05.169Z",
+    "removed_at": "2025-05-21T10:04:34.382Z",
+    "duration_minutes": 41,
+    "duration_str": "41m"
   },
   {
     "title": "Monsieur Prix somme Booking.com de baisser ses commissions pour les hôtels suisses",
     "added_at": "2025-05-21T09:25:00.679Z"
+  },
+  {
+    "title": "Le nouvel horaire CFF renforcera les liaisons romandes",
+    "added_at": "2025-05-21T09:57:00.040Z"
+  },
+  {
+    "title": "A Fribourg, le bras de fer continue entre le Canton et les techniciens en radiologie médicale",
+    "added_at": "2025-05-21T10:04:34.382Z"
   }
 ]
