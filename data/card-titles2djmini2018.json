@@ -5883,7 +5883,10 @@
   },
   {
     "title": "culture:::Mos_Espa, un festival électrisant qui se passe de courant",
-    "added_at": "2025-05-21T08:18:56.342Z"
+    "added_at": "2025-05-21T08:18:56.342Z",
+    "removed_at": "2025-05-21T09:40:02.815Z",
+    "duration_minutes": 81,
+    "duration_str": "1h 21m"
   },
   {
     "title": "culture:::L’Eurovision pourrait encore modifier son système de vote",
@@ -5904,5 +5907,9 @@
   {
     "title": "suisse:::Gaza: un collectif jurassien porte plainte pour «crimes contre l’humanité» et «crimes de guerre» contre des membres du Conseil fédéral",
     "added_at": "2025-05-21T09:30:39.794Z"
+  },
+  {
+    "title": "cyber:::Grok, l’intelligence artificielle d’Elon Musk, a beau multiplier les scandales, elle est déjà incontournable",
+    "added_at": "2025-05-21T09:38:09.334Z"
   }
 ]
