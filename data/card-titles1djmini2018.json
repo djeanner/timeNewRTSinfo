@@ -7394,15 +7394,24 @@
   },
   {
     "title": "Quand la violence laisse des traces sur les gènes",
-    "added_at": "2025-05-19T19:34:16.200Z"
+    "added_at": "2025-05-19T19:34:16.200Z",
+    "removed_at": "2025-05-21T13:03:46.538Z",
+    "duration_minutes": 2489,
+    "duration_str": "1d 17h 29m"
   },
   {
     "title": "Procès d'un prédicateur à Genève, accusé d'avoir provoqué la mort d'une malade",
-    "added_at": "2025-05-19T19:43:42.090Z"
+    "added_at": "2025-05-19T19:43:42.090Z",
+    "removed_at": "2025-05-21T13:05:41.788Z",
+    "duration_minutes": 2481,
+    "duration_str": "1d 17h 21m"
   },
   {
     "title": "Un trafic d'êtres humains à des fins d'exploitation sexuelle démantelé à Berne",
-    "added_at": "2025-05-19T19:45:35.494Z"
+    "added_at": "2025-05-19T19:45:35.494Z",
+    "removed_at": "2025-05-21T13:09:24.501Z",
+    "duration_minutes": 2483,
+    "duration_str": "1d 17h 23m"
   },
   {
     "title": "Comment le mycélium pourrait remplacer le béton dans nos maisons",
@@ -7807,7 +7816,10 @@
   },
   {
     "title": "Des plaintes contre la participation d'Israël à l'Eurovision et contre le système de votation du public",
-    "added_at": "2025-05-21T09:11:45.768Z"
+    "added_at": "2025-05-21T09:11:45.768Z",
+    "removed_at": "2025-05-21T13:11:19.955Z",
+    "duration_minutes": 239,
+    "duration_str": "3h 59m"
   },
   {
     "title": "A Fribourg, le bras de fer continue entre le canton et les techniciens en radiologie médicale",
@@ -7854,7 +7866,10 @@
   },
   {
     "title": "Des intempéries dans le Var (France) font au moins trois morts",
-    "added_at": "2025-05-21T12:10:51.249Z"
+    "added_at": "2025-05-21T12:10:51.249Z",
+    "removed_at": "2025-05-21T13:11:19.955Z",
+    "duration_minutes": 60,
+    "duration_str": "1h"
   },
   {
     "title": "Le comité directeur du Centre Jura maintient sa confiance envers son ministre Martial Courtet",
@@ -7871,5 +7886,25 @@
   {
     "title": "Un Américain échoue à se faire élire au conseil d'administration de Swatch",
     "added_at": "2025-05-21T12:29:45.174Z"
+  },
+  {
+    "title": "Donald Trump annonce la construction du \"dôme d'or\", un bouclier antimissile pour les Etats-Unis",
+    "added_at": "2025-05-21T13:03:46.538Z"
+  },
+  {
+    "title": "Le Rhône abaissé de 10 mètres à Genève pour le nettoyage du barrage de Verbois",
+    "added_at": "2025-05-21T13:05:41.788Z"
+  },
+  {
+    "title": "L'inquiétante progression du vol à l'étalage met les commerçants sous pression",
+    "added_at": "2025-05-21T13:09:24.501Z"
+  },
+  {
+    "title": "Blatten toujours menacé: interview de l'ingénieur cantonal Alban Brigger",
+    "added_at": "2025-05-21T13:11:19.955Z"
+  },
+  {
+    "title": "La police romande convie discrètement les travailleurs nomades à ne plus stationner sur les parkings",
+    "added_at": "2025-05-21T13:11:19.955Z"
   }
 ]
