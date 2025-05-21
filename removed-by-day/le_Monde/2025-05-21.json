@@ -100,7 +100,7 @@
   {
     "title": "Les salariés ne veulent plus devenir manageurs à n’importe quel prix",
     "added_at": "2025-05-21T04:05:17.044Z",
-    "removed_at": "2025-05-21T06:42:43.131Z",
+    "removed_at": "2025-05-21T06:42:43.508Z",
     "duration_minutes": 157,
     "duration_str": "2h 37m"
   },
@@ -142,8 +142,9 @@
   {
     "title": "Le point sur la guerre en Ukraine : les dernières informations",
     "added_at": "2025-05-21T05:17:50.831Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-21T08:14:51.363Z",
+    "duration_minutes": 177,
+    "duration_str": "2h 57m"
   },
   {
     "title": "Après s’être rangé derrière Trump, Mark Zuckerberg ferme son école pour enfants défavorisés",
@@ -167,7 +168,7 @@
   {
     "title": "Chez les Skarsgård, le cinéma est un art de famille",
     "added_at": "2025-05-21T05:49:58.206Z",
-    "removed_at": "2025-05-21T07:38:18.755Z",
+    "removed_at": "2025-05-21T07:37:33.063Z",
     "duration_minutes": 108,
     "duration_str": "1h 48m"
   },
@@ -181,8 +182,9 @@
   {
     "title": "« Même au XXIᵉ siècle, on dénie toujours la dangerosité des produits toxiques qui nous entourent, en particulier au travail »",
     "added_at": "2025-05-21T06:06:09.015Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-21T08:35:54.716Z",
+    "duration_minutes": 150,
+    "duration_str": "2h 30m"
   },
   {
     "title": "Les cinq conditions nécessaires pour qu’une personne soit éligible à l’aide à mourir, un article clé de la loi sur la fin de vie voté à l’Assemblée",
@@ -213,8 +215,9 @@
   {
     "title": "Donald Trump annonce la construction d’un bouclier antimissile baptisé Dôme d’or pour les Etats-Unis",
     "added_at": "2025-05-21T06:31:13.016Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-21T08:32:06.974Z",
+    "duration_minutes": 121,
+    "duration_str": "2h 1m"
   },
   {
     "title": "Nouveaux bombardements de l’armée israélienne sur la bande de Gaza, au moins 19 personnes tuées, selon la défense civile palestinienne",
@@ -365,16 +368,17 @@
   },
   {
     "title": "Les pannes d’ascenseur dans son immeuble, le cauchemar des personnes handicapées : « Il y a deux ans, un locataire a dormi une nuit dans le local poubelle »",
-    "added_at": "2025-05-21T07:07:40.777Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-05-21T07:07:17.874Z",
+    "removed_at": "2025-05-21T08:32:06.974Z",
+    "duration_minutes": 85,
+    "duration_str": "1h 25m"
   },
   {
     "title": "Israël poursuit ses bombardements sur la bande de Gaza, les Emirats arabes unis vont pouvoir livrer de l’aide humanitaire",
     "added_at": "2025-05-21T07:09:36.451Z",
-    "removed_at": "2025-05-21T07:38:18.755Z",
-    "duration_minutes": 29,
-    "duration_str": "29m"
+    "removed_at": "2025-05-21T07:37:33.063Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
   },
   {
     "title": "Des rouges à lèvres bien dans leur temps",
@@ -384,19 +388,56 @@
   },
   {
     "title": "Israël poursuit ses bombardements sur la bande de Gaza, MSF dénonce une reprise de l’aide humanitaire « ridiculement insuffisante »",
-    "added_at": "2025-05-21T07:38:18.755Z",
+    "added_at": "2025-05-21T07:37:33.063Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Vers la fin du démarchage téléphonique non consenti",
-    "added_at": "2025-05-21T07:38:18.755Z",
+    "added_at": "2025-05-21T07:37:33.063Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Au procès de Joël Le Scouarnec, les ultimes regrets de « la machine à excuses »",
     "added_at": "2025-05-21T07:46:01.376Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Après la panne d’électricité géante espagnole, les énergies renouvelables en pleine tourmente en France",
+    "added_at": "2025-05-21T08:07:09.583Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Le point sur la guerre en Ukraine : les affrontements se poursuivent entre Russes et Ukrainiens, sur le front et dans les airs",
+    "added_at": "2025-05-21T08:14:51.363Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "A la Quinzaine des cinéastes, à Cannes, Alain Chabat partage ses inspirations : « Souvent, les idées de comédie naissent d’un énervement »",
+    "added_at": "2025-05-21T08:32:06.974Z",
+    "removed_at": "2025-05-21T08:33:58.866Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Le projet de bouclier antimissile baptisé Dôme d’or de Donald Trump « porte atteinte à la stabilité mondiale », selon la Chine",
+    "added_at": "2025-05-21T08:32:06.974Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Alain Chabat partage ses inspirations à Cannes : « Souvent, les idées de comédie naissent d’un énervement »",
+    "added_at": "2025-05-21T08:33:58.866Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "« L’Assemblée nationale doit permettre la recherche du compromis et la fabrique du consensus »",
+    "added_at": "2025-05-21T08:35:54.716Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
