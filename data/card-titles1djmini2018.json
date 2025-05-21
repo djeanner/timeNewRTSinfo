@@ -7546,7 +7546,10 @@
   },
   {
     "title": "CFF Cargo biffe 65 postes et ferme plusieurs terminaux de transport combiné",
-    "added_at": "2025-05-20T09:41:06.567Z"
+    "added_at": "2025-05-20T09:41:06.567Z",
+    "removed_at": "2025-05-21T20:27:17.834Z",
+    "duration_minutes": 2086,
+    "duration_str": "1d 10h 46m"
   },
   {
     "title": "Une centaine de camions d'aide autorisés à Gaza, où Israël poursuit son offensive",
@@ -8040,5 +8043,9 @@
   {
     "title": "Une dénonciation pénale vise quatre conseillers fédéraux pour complicité de crimes commis en Palestine",
     "added_at": "2025-05-21T20:10:18.459Z"
+  },
+  {
+    "title": "En visite historique à Berne, la présidente du Kosovo Vjosa Osmani Sadriu affiche ses liens avec la Suisse",
+    "added_at": "2025-05-21T20:27:17.834Z"
   }
 ]
