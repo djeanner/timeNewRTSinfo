@@ -8085,7 +8085,10 @@
   },
   {
     "title": "Le Rhône abaissé de 10 mètres à Genève pour le nettoyage du barrage de Verbois",
-    "added_at": "2025-05-21T13:05:41.788Z"
+    "added_at": "2025-05-21T13:05:41.788Z",
+    "removed_at": "2025-05-22T19:50:28.589Z",
+    "duration_minutes": 1844,
+    "duration_str": "1d 6h 44m"
   },
   {
     "title": "L'inquiétante progression du vol à l'étalage met les commerçants sous pression",
@@ -8432,5 +8435,9 @@
   {
     "title": "Le crash d'un petit avion sur des habitations a fait plusieurs morts à San Diego",
     "added_at": "2025-05-22T19:29:45.816Z"
+  },
+  {
+    "title": "En Suisse, les salariés de plus en plus souvent en vacances ou absents pour maladie",
+    "added_at": "2025-05-22T19:50:28.589Z"
   }
 ]
