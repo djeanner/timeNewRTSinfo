@@ -4674,10 +4674,7 @@
   },
   {
     "title": "suisse:::Ursina Anderegg, sur la fermeture des classes bilingues à Berne: «Il n’est pas question de revenir en arrière»",
-    "added_at": "2025-05-17T10:17:13.637Z",
-    "removed_at": "2025-05-18T12:11:52.327Z",
-    "duration_minutes": 1554,
-    "duration_str": "1d 1h 54m"
+    "added_at": "2025-05-17T10:17:13.637Z"
   },
   {
     "title": "monde:::En direct – Le chef de l’ONU «alarmé» par l’intensification de l’offensive israélienne à Gaza",
@@ -6222,7 +6219,10 @@
   },
   {
     "title": "cyber:::Amazon s'oppose à la publication des contrats qui lient la Confédération avec des fournisseurs cloud étrangers",
-    "added_at": "2025-05-22T05:28:55.986Z"
+    "added_at": "2025-05-22T05:28:55.986Z",
+    "removed_at": "2025-05-22T12:45:14.522Z",
+    "duration_minutes": 436,
+    "duration_str": "7h 16m"
   },
   {
     "title": "monde:::En direct – Deux agents de l'ambassade d'Israël abattus devant le musée juif de Washington",
@@ -6246,11 +6246,17 @@
   },
   {
     "title": "sport:::En quart de finale du Mondial de hockey, une Suisse quasi irréprochable à l’épreuve de l’Autriche",
-    "added_at": "2025-05-22T08:15:04.396Z"
+    "added_at": "2025-05-22T08:15:04.396Z",
+    "removed_at": "2025-05-22T12:45:14.522Z",
+    "duration_minutes": 270,
+    "duration_str": "4h 30m"
   },
   {
     "title": "monde:::Le déclin physique et cognitif de Joe Biden a commencé bien avant sa désastreuse campagne de 2024",
-    "added_at": "2025-05-22T10:00:47.245Z"
+    "added_at": "2025-05-22T10:00:47.245Z",
+    "removed_at": "2025-05-22T12:45:14.522Z",
+    "duration_minutes": 164,
+    "duration_str": "2h 44m"
   },
   {
     "title": "culture:::A l’occasion des 100 ans de Jean Tinguely, visite de son musée fantôme dans le canton de Fribourg",
@@ -6258,7 +6264,10 @@
   },
   {
     "title": "culture:::Genève offre un beau gâteau d’anniversaire à Jean Tinguely",
-    "added_at": "2025-05-22T10:08:21.715Z"
+    "added_at": "2025-05-22T10:08:21.715Z",
+    "removed_at": "2025-05-22T12:45:14.522Z",
+    "duration_minutes": 156,
+    "duration_str": "2h 36m"
   },
   {
     "title": "economie:::Equilibre entre vie privée et professionnelle, que dit le droit du travail?",
@@ -6267,5 +6276,17 @@
   {
     "title": "monde:::En direct – Moscou affirme qu’il n’y a «pas d’accord» à ce stade pour une nouvelle rencontre avec Kiev",
     "added_at": "2025-05-22T11:57:59.443Z"
+  },
+  {
+    "title": "suisse:::Apprentissage des langues en Suisse: l’anglais triomphe face à la débâcle des langues nationales",
+    "added_at": "2025-05-22T12:45:14.522Z"
+  },
+  {
+    "title": "suisse:::L’idée d’abandonner le français à l’école primaire refait surface à Zurich",
+    "added_at": "2025-05-22T12:45:14.522Z"
+  },
+  {
+    "title": "suisse:::Tout comprendre au projet de loi sur les «nouveaux OGM»",
+    "added_at": "2025-05-22T12:45:14.522Z"
   }
 ]
