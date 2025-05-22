@@ -11649,7 +11649,10 @@
   },
   {
     "title": "Beverly Hills hotel manager testifies in Sean ‘Diddy’ Combs’ trial",
-    "added_at": "2025-05-22T18:00:58.492Z"
+    "added_at": "2025-05-22T18:00:58.492Z",
+    "removed_at": "2025-05-22T18:46:20.950Z",
+    "duration_minutes": 45,
+    "duration_str": "45m"
   },
   {
     "title": "‘It’s going to fail’: Iranians speak to CNN ahead of US-Iran talks",
@@ -11677,5 +11680,9 @@
   {
     "title": "Trump and the GOP have no way out of the Big, Beautiful Bill",
     "added_at": "2025-05-22T18:35:00.222Z"
+  },
+  {
+    "title": "Computer forensics agent testifies he extracted data from Cassie Ventura’s laptops",
+    "added_at": "2025-05-22T18:46:20.950Z"
   }
 ]
