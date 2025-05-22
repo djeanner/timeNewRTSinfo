@@ -5803,7 +5803,10 @@
   },
   {
     "title": "monde:::A Gaza, un peu d’aide humanitaire en attendant les mercenaires, lâchés par leur fondation genevoise",
-    "added_at": "2025-05-20T17:55:06.945Z"
+    "added_at": "2025-05-20T17:55:06.945Z",
+    "removed_at": "2025-05-22T04:03:53.991Z",
+    "duration_minutes": 2048,
+    "duration_str": "1d 10h 8m"
   },
   {
     "title": "suisse:::Un manuel pour aider les villes suisses à faire face au crack",
@@ -5944,7 +5947,10 @@
   },
   {
     "title": "suisse:::Le nouvel horaire CFF signe le retour de la liaison directe Lausanne-Bâle",
-    "added_at": "2025-05-21T08:56:42.007Z"
+    "added_at": "2025-05-21T08:56:42.007Z",
+    "removed_at": "2025-05-22T04:05:49.911Z",
+    "duration_minutes": 1149,
+    "duration_str": "19h 9m"
   },
   {
     "title": "suisse:::Gaza: un collectif jurassien porte plainte pour «crimes contre l’humanité» et «crimes de guerre» contre des membres du Conseil fédéral",
@@ -6145,6 +6151,20 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Deux membres de l'ambassade israélienne aux Etats-Unis tués près du musée juif de Washington",
-    "added_at": "2025-05-22T03:54:28.770Z"
+    "added_at": "2025-05-22T03:54:28.770Z",
+    "removed_at": "2025-05-22T03:58:14.644Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Deux membres de l'ambassade israélienne aux Etats-Unis ont été tués près du musée juif de Washington",
+    "added_at": "2025-05-22T03:58:14.644Z",
+    "removed_at": "2025-05-22T04:03:53.991Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "monde:::En direct – Deux membres de l'ambassade israélienne aux Etats-Unis ont été tués près du musée juif de Washington",
+    "added_at": "2025-05-22T04:03:53.991Z"
   }
 ]
