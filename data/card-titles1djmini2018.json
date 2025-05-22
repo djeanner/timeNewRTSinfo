@@ -7624,7 +7624,10 @@
   },
   {
     "title": "En Valais, la montagne met le village de Blatten en sursis",
-    "added_at": "2025-05-20T12:06:21.649Z"
+    "added_at": "2025-05-20T12:06:21.649Z",
+    "removed_at": "2025-05-22T14:15:57.959Z",
+    "duration_minutes": 3009,
+    "duration_str": "2d 2h 9m"
   },
   {
     "title": "Volodymyr Zelensky accuse la Russie de faire traîner les discussions pour \"gagner du temps\"",
@@ -7961,7 +7964,10 @@
   },
   {
     "title": "Emprisonné en Algérie, l'écrivain Boualem Sansal reçoit un prix saluant sa \"parole libre\"",
-    "added_at": "2025-05-21T08:54:46.268Z"
+    "added_at": "2025-05-21T08:54:46.268Z",
+    "removed_at": "2025-05-22T14:23:32.787Z",
+    "duration_minutes": 1768,
+    "duration_str": "1d 5h 28m"
   },
   {
     "title": "Des plaintes contre la participation d’Israël à l’Eurovision et contre le système de votation du public",
@@ -8302,5 +8308,13 @@
   {
     "title": "A Lausanne, les instruments à cordes sont à l'honneur du Creative Strings Festival",
     "added_at": "2025-05-22T14:04:36.808Z"
+  },
+  {
+    "title": "Les éboulements de grande ampleur comme à Blatten pourraient devenir plus fréquents",
+    "added_at": "2025-05-22T14:15:57.959Z"
+  },
+  {
+    "title": "L'UDC du Valais romand s'attaque à l'Office cantonal de l'asile, accusé de \"dysfonctionnements\"",
+    "added_at": "2025-05-22T14:23:32.787Z"
   }
 ]
