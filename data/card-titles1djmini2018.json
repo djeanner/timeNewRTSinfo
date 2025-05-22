@@ -7819,11 +7819,17 @@
   },
   {
     "title": "Accusé d’avoir provoqué la mort d'une diabétique, un prédicateur a été acquitté à Genève",
-    "added_at": "2025-05-20T18:40:32.655Z"
+    "added_at": "2025-05-20T18:40:32.655Z",
+    "removed_at": "2025-05-22T11:08:50.190Z",
+    "duration_minutes": 2428,
+    "duration_str": "1d 16h 28m"
   },
   {
     "title": "Raphaël Bourquin succédera à Fabien Gasser au poste de procureur général de Fribourg",
-    "added_at": "2025-05-20T18:40:32.655Z"
+    "added_at": "2025-05-20T18:40:32.655Z",
+    "removed_at": "2025-05-22T11:06:56.274Z",
+    "duration_minutes": 2426,
+    "duration_str": "1d 16h 26m"
   },
   {
     "title": "Près de cent camions d'aide sont entrés dans Gaza, mais Israël poursuit son offensive",
@@ -7850,7 +7856,10 @@
   },
   {
     "title": "Evacuation de Blatten (VS): interview du président de la commune Matthias Bellwald",
-    "added_at": "2025-05-20T21:09:45.115Z"
+    "added_at": "2025-05-20T21:09:45.115Z",
+    "removed_at": "2025-05-22T11:14:29.910Z",
+    "duration_minutes": 2284,
+    "duration_str": "1d 14h 4m"
   },
   {
     "title": "Faut-il s'attendre à ce que la montagne ne soit plus habitable à l'avenir? Interview de Jonas Jeitziner",
@@ -7989,10 +7998,7 @@
   },
   {
     "title": "Des intempéries dans le Var (France) font au moins trois morts",
-    "added_at": "2025-05-21T12:10:51.249Z",
-    "removed_at": "2025-05-21T13:11:19.955Z",
-    "duration_minutes": 60,
-    "duration_str": "1h"
+    "added_at": "2025-05-21T12:10:51.249Z"
   },
   {
     "title": "Le comité directeur du Centre Jura maintient sa confiance envers son ministre Martial Courtet",
@@ -8203,5 +8209,13 @@
   {
     "title": "Dans le canton de Vaud, le nombre de fonctionnaires augmente deux fois plus vite que la population",
     "added_at": "2025-05-22T10:08:21.662Z"
+  },
+  {
+    "title": "Plus de 30'000 civils tués dans des bombardements en 2024, majoritairement à Gaza et en Cisjordanie",
+    "added_at": "2025-05-22T11:06:56.274Z"
+  },
+  {
+    "title": "Pour décarboner son système énergétique, la Suisse a besoin de quatre fois plus d'installations solaires",
+    "added_at": "2025-05-22T11:08:50.190Z"
   }
 ]
