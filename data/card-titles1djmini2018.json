@@ -8051,7 +8051,10 @@
   },
   {
     "title": "Le Jura se battra pour son laboratoire souterrain du Mont Terri",
-    "added_at": "2025-05-21T12:24:05.974Z"
+    "added_at": "2025-05-21T12:24:05.974Z",
+    "removed_at": "2025-05-22T16:03:50.851Z",
+    "duration_minutes": 1659,
+    "duration_str": "1d 3h 39m"
   },
   {
     "title": "La Confédération débloque 306 millions pour la 3e correction du Rhône",
@@ -8365,5 +8368,9 @@
   {
     "title": "Confirmé par le pape, Beat Grögli est le nouvel évêque de St-Gall",
     "added_at": "2025-05-22T15:43:04.482Z"
+  },
+  {
+    "title": "Le chantier de la ligne ferroviaire AOMC entre Monthey et Collombey a démarré",
+    "added_at": "2025-05-22T16:03:50.851Z"
   }
 ]
