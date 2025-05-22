@@ -204,15 +204,16 @@
   {
     "title": "Why are the number of flights reduced at Newark airport in the US?",
     "added_at": "2025-05-22T16:17:06.429Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-22T21:11:41.861Z",
+    "duration_minutes": 295,
+    "duration_str": "4h 55m"
   },
   {
     "title": "Columbia protester Mahmoud Khalil challenges arrest in US immigration court",
     "added_at": "2025-05-22T16:36:43.202Z",
-    "removed_at": "2025-05-22T20:40:42.257Z",
-    "duration_minutes": 244,
-    "duration_str": "4h 4m"
+    "removed_at": "2025-05-22T20:39:38.173Z",
+    "duration_minutes": 243,
+    "duration_str": "4h 3m"
   },
   {
     "title": "Multiple deaths after small plane crashes in California neighbourhood",
@@ -264,9 +265,9 @@
   {
     "title": "Israeli assaults continue across Gaza, at least 61 people killed today",
     "added_at": "2025-05-22T19:24:07.852Z",
-    "removed_at": "2025-05-22T20:44:33.019Z",
-    "duration_minutes": 80,
-    "duration_str": "1h 20m"
+    "removed_at": "2025-05-22T20:43:23.455Z",
+    "duration_minutes": 79,
+    "duration_str": "1h 19m"
   },
   {
     "title": "Lebanese PM condemns wave of Israeli attacks on southern Lebanon",
@@ -276,16 +277,16 @@
   },
   {
     "title": "Israeli speculation mounts over potential rift between Trump and Netanyahu",
-    "added_at": "2025-05-22T20:40:42.257Z",
+    "added_at": "2025-05-22T20:39:38.173Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Israeli assaults continue across Gaza, at least 72 people killed today",
-    "added_at": "2025-05-22T20:44:33.019Z",
-    "removed_at": "2025-05-22T21:01:55.807Z",
-    "duration_minutes": 17,
-    "duration_str": "17m"
+    "added_at": "2025-05-22T20:43:23.455Z",
+    "removed_at": "2025-05-22T20:54:40.243Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
   },
   {
     "title": "Syrian business owners welcome EU’s lifting of sanctions",
@@ -296,6 +297,19 @@
   {
     "title": "Israeli kills at least 72 in Gaza, aid trickling in insufficient, says UN",
     "added_at": "2025-05-22T20:54:12.195Z",
+    "removed_at": "2025-05-22T21:32:59.121Z",
+    "duration_minutes": 39,
+    "duration_str": "39m"
+  },
+  {
+    "title": "G7 vows to address global economic ‘imbalances’, considers Russia sanctions",
+    "added_at": "2025-05-22T21:11:41.861Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Israeli kills at least 80 in Gaza, aid trickling in insufficient, says UN",
+    "added_at": "2025-05-22T21:32:59.121Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
