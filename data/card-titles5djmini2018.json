@@ -26,14 +26,17 @@
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-22T12:35:50.716Z",
+    "duration_minutes": 18814,
+    "duration_str": "13d 1h 34m"
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
     "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-22T12:26:19.833Z",
-    "duration_minutes": 18804,
-    "duration_str": "13d 1h 24m"
+    "removed_at": "2025-05-22T12:41:29.881Z",
+    "duration_minutes": 18819,
+    "duration_str": "13d 1h 39m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -314,10 +317,7 @@
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T11:11:38.599Z",
-    "removed_at": "2025-05-22T12:26:19.833Z",
-    "duration_minutes": 18794,
-    "duration_str": "13d 1h 14m"
+    "added_at": "2025-05-09T11:11:38.599Z"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -12609,7 +12609,10 @@
   },
   {
     "title": "« Bruno Retailleau galvanise ses troupes en agitant le même mirage que ses prédécesseurs, celui d’une droite capable de réexister par elle-même »",
-    "added_at": "2025-05-20T03:26:15.174Z"
+    "added_at": "2025-05-20T03:26:15.174Z",
+    "removed_at": "2025-05-22T12:41:29.881Z",
+    "duration_minutes": 3435,
+    "duration_str": "2d 9h 15m"
   },
   {
     "title": "Les séries de la semaine : « The Agency », « Plaine orientale », « Legado » et « Sirens »",
@@ -13667,10 +13670,7 @@
   },
   {
     "title": "« La tournée moyen-orientale de Donald Trump confirme l’affaissement des normes américaines »",
-    "added_at": "2025-05-21T03:17:09.364Z",
-    "removed_at": "2025-05-22T12:24:30.217Z",
-    "duration_minutes": 1987,
-    "duration_str": "1d 9h 7m"
+    "added_at": "2025-05-21T03:17:09.364Z"
   },
   {
     "title": "Guerre à Gaza : le jour où les Européens ont décidé de reconsidérer leur accord d’association avec Israël",
@@ -14093,9 +14093,9 @@
   {
     "title": "« Cette urgence à ôter des crédits, sans concertation, à la petite Agence bio montre la puissance de ses ennemis »",
     "added_at": "2025-05-21T09:36:20.368Z",
-    "removed_at": "2025-05-22T12:18:50.442Z",
-    "duration_minutes": 1602,
-    "duration_str": "1d 2h 42m"
+    "removed_at": "2025-05-22T12:37:40.528Z",
+    "duration_minutes": 1621,
+    "duration_str": "1d 3h 1m"
   },
   {
     "title": "« Il faut en finir, à l’école, avec les filles “consciencieuses” et les garçons “brillants” »",
@@ -14968,9 +14968,9 @@
   {
     "title": "La commission d’enquête parlementaire sur les violences à l’école révèle une chaîne de défaillances, du signalement au contrôle",
     "added_at": "2025-05-22T04:53:02.092Z",
-    "removed_at": "2025-05-22T12:26:19.833Z",
-    "duration_minutes": 453,
-    "duration_str": "7h 33m"
+    "removed_at": "2025-05-22T12:39:34.217Z",
+    "duration_minutes": 466,
+    "duration_str": "7h 46m"
   },
   {
     "title": "« Tous les matins, dans mon nouveau boulot, je laisse ma créativité à la porte » : les illusions perdues des artistes contraints de se reconvertir",
@@ -15282,7 +15282,10 @@
   },
   {
     "title": "Après le double meurtre à Washington, le chef de la diplomatie israélienne accuse les pays européens d’« incitation à la haine »",
-    "added_at": "2025-05-22T11:44:48.206Z"
+    "added_at": "2025-05-22T11:44:48.206Z",
+    "removed_at": "2025-05-22T12:33:54.792Z",
+    "duration_minutes": 49,
+    "duration_str": "49m"
   },
   {
     "title": "Aux Etats-Unis, les doutes sur la dette secouent le Capitole et les marchés",
@@ -15291,5 +15294,9 @@
   {
     "title": "La poudre de saté, un supplément piquant et parfumé pour les sauces gourmandes",
     "added_at": "2025-05-22T12:05:33.185Z"
+  },
+  {
+    "title": "Après le double meurtre à Washington, le chef de la diplomatie israélienne accuse des pays européens d’« incitation à la haine »",
+    "added_at": "2025-05-22T12:33:54.792Z"
   }
 ]
