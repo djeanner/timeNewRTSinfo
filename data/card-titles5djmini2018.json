@@ -314,7 +314,10 @@
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T11:11:38.599Z"
+    "added_at": "2025-05-09T11:11:38.599Z",
+    "removed_at": "2025-05-22T20:13:09.061Z",
+    "duration_minutes": 19261,
+    "duration_str": "13d 9h 1m"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -9166,10 +9169,7 @@
   },
   {
     "title": "Les drones de combat exacerbent la violence dans un Soudan en pleine guerre civile",
-    "added_at": "2025-05-16T07:55:52.133Z",
-    "removed_at": "2025-05-22T20:07:28.026Z",
-    "duration_minutes": 9371,
-    "duration_str": "6d 12h 11m"
+    "added_at": "2025-05-16T07:55:52.133Z"
   },
   {
     "title": "L’armée israélienne continue de bombarder la bande de Gaza, plus de 50 personnes tuées, selon la défense civile palestinienne",
@@ -14996,10 +14996,7 @@
   },
   {
     "title": "L’ascension de Bruno Retailleau met sous pression le camp présidentiel",
-    "added_at": "2025-05-22T04:53:02.092Z",
-    "removed_at": "2025-05-22T20:07:28.026Z",
-    "duration_minutes": 914,
-    "duration_str": "15h 14m"
+    "added_at": "2025-05-22T04:53:02.092Z"
   },
   {
     "title": "La commission d’enquête parlementaire sur les violences à l’école révèle une chaîne de défaillances, du signalement au contrôle",
@@ -15448,9 +15445,9 @@
   {
     "title": "En Turquie, les limites de l’équilibrisme en diplomatie",
     "added_at": "2025-05-22T13:55:14.817Z",
-    "removed_at": "2025-05-22T20:07:28.026Z",
-    "duration_minutes": 372,
-    "duration_str": "6h 12m"
+    "removed_at": "2025-05-22T20:24:27.839Z",
+    "duration_minutes": 389,
+    "duration_str": "6h 29m"
   },
   {
     "title": "Dans le Perche, l’esprit de la forêt",
@@ -15820,7 +15817,10 @@
   },
   {
     "title": "L’administration Trump retire à l’université Harvard le droit d’accueillir des étudiants étrangers",
-    "added_at": "2025-05-22T18:59:30.045Z"
+    "added_at": "2025-05-22T18:59:30.045Z",
+    "removed_at": "2025-05-22T20:18:48.341Z",
+    "duration_minutes": 79,
+    "duration_str": "1h 19m"
   },
   {
     "title": "Cannes 2025 : pour la Quinzaine des cinéastes, une édition sous le signe du doute et de l’éparpillement",
@@ -15835,5 +15835,9 @@
     "removed_at": "2025-05-22T19:16:31.790Z",
     "duration_minutes": 3,
     "duration_str": "3m"
+  },
+  {
+    "title": "L’administration Trump retire à Harvard le droit d’accueillir des étudiants étrangers ; une décision « illégale » dénonce l’université",
+    "added_at": "2025-05-22T20:18:48.341Z"
   }
 ]
