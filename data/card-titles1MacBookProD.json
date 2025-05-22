@@ -10620,7 +10620,10 @@
   },
   {
     "title": "Plus de 1,5 million de mètres cubes de roches se sont déjà décrochés en huit jours au-dessus de Blatten",
-    "added_at": "2025-05-20T14:50:02.128Z"
+    "added_at": "2025-05-20T14:50:02.128Z",
+    "removed_at": "2025-05-22T23:15:28.132Z",
+    "duration_minutes": 3385,
+    "duration_str": "2d 8h 25m"
   },
   {
     "title": "En Roumanie, un candidat prorusse crée la surprise à la présidentielle",
@@ -11042,7 +11045,10 @@
   },
   {
     "title": "Podcast - Quel est le secret des pays nordiques?",
-    "added_at": "2025-05-21T15:10:25.587Z"
+    "added_at": "2025-05-21T15:10:25.587Z",
+    "removed_at": "2025-05-22T23:15:28.132Z",
+    "duration_minutes": 1925,
+    "duration_str": "1d 8h 5m"
   },
   {
     "title": "Environ deux millions de mètres cubes se sont déjà effondrés au-dessus de Blatten",
@@ -11347,5 +11353,9 @@
   {
     "title": "Yverdon est relégué en Challenge League",
     "added_at": "2025-05-22T20:32:56.266Z"
+  },
+  {
+    "title": "La population genevoise pourrait revoter sur les ouvertures dominicales des commerces",
+    "added_at": "2025-05-22T23:15:28.132Z"
   }
 ]
