@@ -10376,7 +10376,10 @@
   },
   {
     "title": "Donald Trump et Vladimir Poutine se sont entretenus par téléphone au sujet de l’Ukraine",
-    "added_at": "2025-05-20T08:06:46.141Z"
+    "added_at": "2025-05-20T08:06:46.141Z",
+    "removed_at": "2025-05-22T01:10:55.897Z",
+    "duration_minutes": 2464,
+    "duration_str": "1d 17h 4m"
   },
   {
     "title": "Après la finale de l'Eurovision à Bâle, les organisateurs tirent un 1er bilan",
@@ -10602,7 +10605,10 @@
   },
   {
     "title": "Le Musée cantonal des Beaux-Arts de Lausanne reçoit 17 sculptures d'Alberto Giacometti",
-    "added_at": "2025-05-20T15:18:47.972Z"
+    "added_at": "2025-05-20T15:18:47.972Z",
+    "removed_at": "2025-05-22T01:12:53.943Z",
+    "duration_minutes": 2034,
+    "duration_str": "1d 9h 54m"
   },
   {
     "title": "Eurovision: Israël cartonne à nouveau au vote du public, plusieurs diffuseurs européens s'interrogent",
@@ -10972,5 +10978,13 @@
   {
     "title": "Le Centre Jura lance cinq candidats pour les élections d'automne au Gouvernement",
     "added_at": "2025-05-22T00:20:51.998Z"
+  },
+  {
+    "title": "Pas assez rentables, les petites maternités ont tendance à fermer en Suisse",
+    "added_at": "2025-05-22T01:10:55.897Z"
+  },
+  {
+    "title": "Le Conseil fédéral soutient l'aide aux médias en ligne",
+    "added_at": "2025-05-22T01:12:53.943Z"
   }
 ]
