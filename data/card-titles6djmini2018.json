@@ -5115,7 +5115,10 @@
   },
   {
     "title": "Why are the number of flights reduced at Newark airport in the US?",
-    "added_at": "2025-05-22T16:17:06.429Z"
+    "added_at": "2025-05-22T16:17:06.429Z",
+    "removed_at": "2025-05-22T21:13:34.134Z",
+    "duration_minutes": 296,
+    "duration_str": "4h 56m"
   },
   {
     "title": "Columbia protester Mahmoud Khalil challenges arrest in US immigration court",
@@ -5185,9 +5188,9 @@
   {
     "title": "Israeli assaults continue across Gaza, at least 72 people killed today",
     "added_at": "2025-05-22T20:43:23.455Z",
-    "removed_at": "2025-05-22T20:54:40.243Z",
-    "duration_minutes": 11,
-    "duration_str": "11m"
+    "removed_at": "2025-05-22T21:02:16.223Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
   },
   {
     "title": "Syrian business owners welcome EU’s lifting of sanctions",
@@ -5196,5 +5199,9 @@
   {
     "title": "Israeli kills at least 72 in Gaza, aid trickling in insufficient, says UN",
     "added_at": "2025-05-22T20:54:40.243Z"
+  },
+  {
+    "title": "G7 vows to address global economic ‘imbalances’, considers Russia sanctions",
+    "added_at": "2025-05-22T21:13:34.134Z"
   }
 ]
