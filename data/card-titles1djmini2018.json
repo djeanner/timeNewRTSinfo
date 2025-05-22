@@ -8000,7 +8000,10 @@
   },
   {
     "title": "A Fribourg, le bras de fer continue entre le Canton et les techniciens en radiologie médicale",
-    "added_at": "2025-05-21T10:04:34.382Z"
+    "added_at": "2025-05-21T10:04:34.382Z",
+    "removed_at": "2025-05-22T15:43:04.482Z",
+    "duration_minutes": 1778,
+    "duration_str": "1d 5h 38m"
   },
   {
     "title": "\"Kylian\" d'Anne Akrich, autofiction incisive où foot et littérature font jeu égal",
@@ -8299,7 +8302,10 @@
   },
   {
     "title": "Confirmé par le nouveau pape, Beat Grögli est le nouvel évêque de St-Gall",
-    "added_at": "2025-05-22T13:13:33.267Z"
+    "added_at": "2025-05-22T13:13:33.267Z",
+    "removed_at": "2025-05-22T15:43:04.482Z",
+    "duration_minutes": 149,
+    "duration_str": "2h 29m"
   },
   {
     "title": "\"The history of Sound\" d'Oliver Hermanus, une romance qui bouleverse aux larmes",
@@ -8351,5 +8357,13 @@
   {
     "title": "Plus de 600'000 véhicules circulent sans expertise valable en Suisse",
     "added_at": "2025-05-22T15:18:28.423Z"
+  },
+  {
+    "title": "Le site de l'Etat du Valais victime d'une cyberattaque",
+    "added_at": "2025-05-22T15:43:04.482Z"
+  },
+  {
+    "title": "Confirmé par le pape, Beat Grögli est le nouvel évêque de St-Gall",
+    "added_at": "2025-05-22T15:43:04.482Z"
   }
 ]
