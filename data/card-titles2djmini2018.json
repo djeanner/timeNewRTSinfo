@@ -5968,7 +5968,10 @@
   },
   {
     "title": "sciences:::Entre coûts, impact sur la biodiversité et inondation, l’opération d’abaissement du Rhône à Genève est loin d’être un fleuve tranquille",
-    "added_at": "2025-05-21T09:57:00.098Z"
+    "added_at": "2025-05-21T09:57:00.098Z",
+    "removed_at": "2025-05-22T05:00:34.289Z",
+    "duration_minutes": 1143,
+    "duration_str": "19h 3m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – La Suisse versera 20 millions de francs à l’UNRWA et quatre autres organisations humanitaires protégeant la population palestinienne",
@@ -6046,7 +6049,10 @@
   },
   {
     "title": "cyber:::Les Google Glass font leur retour… mais à nouveau, rien ne garantit leur succès",
-    "added_at": "2025-05-21T14:34:17.873Z"
+    "added_at": "2025-05-21T14:34:17.873Z",
+    "removed_at": "2025-05-22T04:53:01.436Z",
+    "duration_minutes": 858,
+    "duration_str": "14h 18m"
   },
   {
     "title": "economie:::Les petits porteurs ouvrent une brèche chez Swatch Group, malgré une assemblée générale sans histoires",
@@ -6061,10 +6067,7 @@
   },
   {
     "title": "suisse:::Les villes de Lausanne et Genève contribuent à la pression sur le Conseil fédéral à propos de la situation à Gaza",
-    "added_at": "2025-05-21T16:42:34.426Z",
-    "removed_at": "2025-05-21T18:26:26.636Z",
-    "duration_minutes": 103,
-    "duration_str": "1h 43m"
+    "added_at": "2025-05-21T16:42:34.426Z"
   },
   {
     "title": "suisse:::Gaza: un collectif jurassien dénonce des membres du Conseil fédéral pour complicité de «crimes contre l’humanité» et «crimes de guerre»",
@@ -6166,5 +6169,9 @@
   {
     "title": "monde:::En direct – Deux membres de l'ambassade israélienne aux Etats-Unis ont été tués près du musée juif de Washington",
     "added_at": "2025-05-22T04:03:53.991Z"
+  },
+  {
+    "title": "monde:::Les Etats-Unis ont accepté un avion de luxe de la part du Qatar",
+    "added_at": "2025-05-22T04:53:01.436Z"
   }
 ]
