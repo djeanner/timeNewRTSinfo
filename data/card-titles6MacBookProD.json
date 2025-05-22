@@ -4340,7 +4340,10 @@
   },
   {
     "title": "UK retailer M&S puts cyberattack cost at $400m as disruptions continue",
-    "added_at": "2025-05-21T17:41:38.741Z"
+    "added_at": "2025-05-21T17:41:38.741Z",
+    "removed_at": "2025-05-22T02:58:47.873Z",
+    "duration_minutes": 557,
+    "duration_str": "9h 17m"
   },
   {
     "title": "Oman confirms new round of US-Iran talks despite enrichment dispute",
@@ -4420,7 +4423,10 @@
   },
   {
     "title": "Tottenham defeat Manchester United to win Europa League final",
-    "added_at": "2025-05-21T22:27:07.822Z"
+    "added_at": "2025-05-21T22:27:07.822Z",
+    "removed_at": "2025-05-22T03:37:24.894Z",
+    "duration_minutes": 310,
+    "duration_str": "5h 10m"
   },
   {
     "title": "US Justice Department ends post-George Floyd police reform settlements",
@@ -4436,5 +4442,13 @@
   {
     "title": "Israeli forces kill 93 in Gaza, fire shots towards diplomats in West Bank",
     "added_at": "2025-05-22T00:51:35.287Z"
+  },
+  {
+    "title": "Governments condemn Israel for firing towards diplomats in West Bank",
+    "added_at": "2025-05-22T02:58:47.873Z"
+  },
+  {
+    "title": "Shooting occurs outside Jewish museum in Washington, DC",
+    "added_at": "2025-05-22T03:37:24.894Z"
   }
 ]

@@ -12344,7 +12344,10 @@
   },
   {
     "title": "When Trump Was the One Taking Land From Farmers",
-    "added_at": "2025-05-21T16:04:38.382Z"
+    "added_at": "2025-05-21T16:04:38.382Z",
+    "removed_at": "2025-05-22T03:04:34.629Z",
+    "duration_minutes": 659,
+    "duration_str": "10h 59m"
   },
   {
     "title": "The Last Lucille Roberts",
@@ -12739,18 +12742,24 @@
   },
   {
     "title": "Republicans Announce Changes to Bill After Meeting With President",
-    "added_at": "2025-05-22T02:08:50.054Z"
+    "added_at": "2025-05-22T02:08:50.054Z",
+    "removed_at": "2025-05-22T03:14:14.148Z",
+    "duration_minutes": 65,
+    "duration_str": "1h 5m"
   },
   {
     "title": "N.B.A. Playoffs: Knicks Face Pacers in Game 1 of Eastern Conference Finals",
     "added_at": "2025-05-22T02:24:09.161Z",
-    "removed_at": "2025-05-22T02:29:54.303Z",
-    "duration_minutes": 5,
-    "duration_str": "5m"
+    "removed_at": "2025-05-22T03:25:50.141Z",
+    "duration_minutes": 61,
+    "duration_str": "1h 1m"
   },
   {
     "title": "N.B.A. Playoffs: Knicks Lead Pacers in Game 1 of Eastern Conference Finals",
-    "added_at": "2025-05-22T02:29:54.303Z"
+    "added_at": "2025-05-22T02:29:54.303Z",
+    "removed_at": "2025-05-22T02:54:57.599Z",
+    "duration_minutes": 25,
+    "duration_str": "25m"
   },
   {
     "title": "Knicks Lead Pacers in Game 1 of the Eastern Conference Finals",
@@ -12758,5 +12767,17 @@
     "removed_at": "2025-05-22T02:37:35.696Z",
     "duration_minutes": 1,
     "duration_str": "1m"
+  },
+  {
+    "title": "Trump Casts Himself as a Protector of Persecuted White People",
+    "added_at": "2025-05-22T03:04:34.629Z"
+  },
+  {
+    "title": "G.O.P. Rushes to Get Spending Bill to House Floor After It Passes Key Hurdle",
+    "added_at": "2025-05-22T03:14:14.148Z"
+  },
+  {
+    "title": "N.B.A. Playoffs: Pacers Beat Knicks in Overtime in Game 1 of Eastern Conference Finals",
+    "added_at": "2025-05-22T03:21:53.749Z"
   }
 ]
