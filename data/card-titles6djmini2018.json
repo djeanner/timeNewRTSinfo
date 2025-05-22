@@ -5025,7 +5025,10 @@
   },
   {
     "title": "Israeli assaults continue across Gaza, at least 51 people killed today",
-    "added_at": "2025-05-22T10:53:45.530Z"
+    "added_at": "2025-05-22T10:53:45.530Z",
+    "removed_at": "2025-05-22T19:24:07.852Z",
+    "duration_minutes": 510,
+    "duration_str": "8h 30m"
   },
   {
     "title": "Pakistan recommits to China bond amid Trump shadow over India ceasefire",
@@ -5154,5 +5157,9 @@
   {
     "title": "JPMorgan’s Dimon warns of stagflation risk: Report",
     "added_at": "2025-05-22T18:38:43.629Z"
+  },
+  {
+    "title": "Israeli assaults continue across Gaza, at least 61 people killed today",
+    "added_at": "2025-05-22T19:24:07.852Z"
   }
 ]
