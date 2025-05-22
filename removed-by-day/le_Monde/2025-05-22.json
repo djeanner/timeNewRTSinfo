@@ -134,9 +134,8 @@
   {
     "title": "La commission d’enquête parlementaire sur les violences à l’école révèle une chaîne de défaillances, du signalement au contrôle",
     "added_at": "2025-05-22T04:52:54.920Z",
-    "removed_at": "2025-05-22T15:31:43.729Z",
-    "duration_minutes": 639,
-    "duration_str": "10h 39m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "« Tous les matins, dans mon nouveau boulot, je laisse ma créativité à la porte » : les illusions perdues des artistes contraints de se reconvertir",
@@ -367,9 +366,8 @@
   {
     "title": "Le Golden Dome voulu par Donald Trump suscite inquiétudes et circonspections",
     "added_at": "2025-05-22T09:06:02.285Z",
-    "removed_at": "2025-05-22T14:10:19.716Z",
-    "duration_minutes": 304,
-    "duration_str": "5h 4m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Un tribunal britannique bloque à la dernière minute l’accord de cession de l’archipel des Chagos à l’île Maurice",
@@ -540,9 +538,8 @@
   {
     "title": "« L’économie française se rapproche dangereusement du bord de la falaise »",
     "added_at": "2025-05-22T13:07:54.283Z",
-    "removed_at": "2025-05-22T16:17:21.029Z",
-    "duration_minutes": 189,
-    "duration_str": "3h 9m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Dans « Love Me Tender », présenté à Cannes, Vicky Krieps au tribunal de l’amour maternel",
@@ -553,13 +550,14 @@
   {
     "title": "Après la diffusion du rapport sur l’« entrisme » des Frères musulmans, des spécialistes dénoncent une instrumentalisation politique",
     "added_at": "2025-05-22T13:21:39.681Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-22T17:36:41.627Z",
+    "duration_minutes": 255,
+    "duration_str": "4h 15m"
   },
   {
     "title": "Après le double meurtre de ressortissants israéliens à Washington, le chef de la diplomatie israélienne accuse des pays européens d’« incitation à la haine »",
     "added_at": "2025-05-22T13:32:31.402Z",
-    "removed_at": "2025-05-22T16:05:47.351Z",
+    "removed_at": "2025-05-22T16:05:45.473Z",
     "duration_minutes": 153,
     "duration_str": "2h 33m"
   },
@@ -585,8 +583,9 @@
   {
     "title": "En Turquie, les limites de l’équilibrisme en diplomatie",
     "added_at": "2025-05-22T13:54:28.195Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-22T17:36:41.627Z",
+    "duration_minutes": 222,
+    "duration_str": "3h 42m"
   },
   {
     "title": "Dans le Perche, l’esprit de la forêt",
@@ -662,9 +661,9 @@
   {
     "title": "Accidents du travail : les entreprises face au danger des machines",
     "added_at": "2025-05-22T14:08:05.718Z",
-    "removed_at": "2025-05-22T15:31:43.729Z",
-    "duration_minutes": 84,
-    "duration_str": "1h 24m"
+    "removed_at": "2025-05-22T16:34:07.538Z",
+    "duration_minutes": 146,
+    "duration_str": "2h 26m"
   },
   {
     "title": "Course à l’IA : la guerre des puces s’intensifie entre les Etats-Unis et la Chine",
@@ -734,8 +733,9 @@
   {
     "title": "Le Royaume-Uni signe l’accord rétrocédant l’archipel des Chagos à l’île Maurice",
     "added_at": "2025-05-22T15:29:50.056Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-22T16:41:42.252Z",
+    "duration_minutes": 72,
+    "duration_str": "1h 12m"
   },
   {
     "title": "Le PCF espère récupérer la ville de Champigny-sur-Marne, bastion communiste historique, aux municipales 2026",
@@ -776,9 +776,9 @@
   {
     "title": "En Italie, les indispensables « nonni »",
     "added_at": "2025-05-22T15:29:50.056Z",
-    "removed_at": "2025-05-22T15:31:43.729Z",
-    "duration_minutes": 2,
-    "duration_str": "2m"
+    "removed_at": "2025-05-22T16:36:03.287Z",
+    "duration_minutes": 66,
+    "duration_str": "1h 6m"
   },
   {
     "title": "La Russie dénonce un raid « massif » après avoir intercepté près de 500 drones ukrainiens en 36 heures",
@@ -790,7 +790,7 @@
   {
     "title": "La Russie dénonce un raid « massif » après avoir intercepté près de 500 drones ukrainiens en 36 heures",
     "added_at": "2025-05-22T15:36:40.030Z",
-    "removed_at": "2025-05-22T16:11:34.723Z",
+    "removed_at": "2025-05-22T16:11:26.698Z",
     "duration_minutes": 35,
     "duration_str": "35m"
   },
@@ -802,61 +802,106 @@
   },
   {
     "title": "L’armée russe crée une « zone tampon de sécurité » à la frontière ukrainienne, annonce Vladimir Poutine",
-    "added_at": "2025-05-22T16:11:34.723Z",
+    "added_at": "2025-05-22T16:11:26.698Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Malgré le piège tendu par la Maison Blanche, l’Afrique du Sud évite la rupture avec les Etats-Unis",
-    "added_at": "2025-05-22T16:23:08.822Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-05-22T16:22:45.860Z",
+    "removed_at": "2025-05-22T16:58:04.088Z",
+    "duration_minutes": 35,
+    "duration_str": "35m"
   },
   {
     "title": "Comment les entreprises tentent de prévenir les accidents du travail provoqués par les machines",
-    "added_at": "2025-05-22T16:34:43.959Z",
+    "added_at": "2025-05-22T16:34:07.538Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Les indispensables « nonni », ces grands-parents très présents pour leurs petits-enfants en Italie",
-    "added_at": "2025-05-22T16:36:43.173Z",
+    "added_at": "2025-05-22T16:36:03.287Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "« Yes », grand film malade de Nadav Lapid, scrutant l’effroi du monde post-7 octobre 2023",
-    "added_at": "2025-05-22T16:36:43.173Z",
+    "added_at": "2025-05-22T16:36:03.287Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "En Côte d’Ivoire, les Etats-Unis prêts à investir 5,1 milliards de dollars dans le secteur de l’énergie",
-    "added_at": "2025-05-22T16:36:43.173Z",
+    "added_at": "2025-05-22T16:36:03.287Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Municipales 2026 : « Pour le Parti communiste, la concurrence de LFI est très nette dans les zones urbaines »",
-    "added_at": "2025-05-22T16:36:43.173Z",
+    "added_at": "2025-05-22T16:36:03.287Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Internet : la bataille fait rage entre les géants du câble et du mobile aux Etats-Unis",
-    "added_at": "2025-05-22T16:36:43.173Z",
+    "added_at": "2025-05-22T16:36:03.287Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Accusations d’ingérence : à quoi joue Pavel Durov ?",
-    "added_at": "2025-05-22T16:36:43.173Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-05-22T16:36:03.287Z",
+    "removed_at": "2025-05-22T16:41:42.252Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
   },
   {
     "title": "Gaza : la présidente de l’université Columbia huée par les étudiants",
     "added_at": "2025-05-22T16:44:25.410Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Le président sud-africain, Cyril Ramaphosa, évite la rupture avec les Etats-Unis, malgré le piège tendu par la Maison Blanche",
+    "added_at": "2025-05-22T16:58:04.088Z",
+    "removed_at": "2025-05-22T17:00:03.319Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "L’Afrique du Sud évite la rupture avec les Etats-Unis après les accusations sans fondement de Trump sur des persécutions de fermiers blancs",
+    "added_at": "2025-05-22T17:00:03.319Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "A quoi joue Pavel Durov, le fondateur de Telegram qui accuse la France d’ingérence en Roumanie ?",
+    "added_at": "2025-05-22T17:00:03.319Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "En Afrique, l’onde de choc du retrait de l’Usaid sur la protection de la nature",
+    "added_at": "2025-05-22T17:01:55.324Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "« The Agency » : les sombres légendes d’un bureau de la CIA",
+    "added_at": "2025-05-22T17:01:55.324Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "La vaste opération « Prison Break » a abouti à la saisie de 164 téléphones portables dans 66 prisons",
+    "added_at": "2025-05-22T17:09:38.769Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Au Festival de Cannes 2025 : « Woman and Child », la violente charge de Saeed Roustaee contre l’ordre patriarcal en Iran",
+    "added_at": "2025-05-22T17:29:00.296Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
