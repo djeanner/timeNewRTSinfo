@@ -8430,7 +8430,10 @@
   },
   {
     "title": "Les armes explosives ont tué ou blessé 32'000 civils en 2024, majoritairement à Gaza et en Cisjordanie",
-    "added_at": "2025-05-22T11:54:13.532Z"
+    "added_at": "2025-05-22T11:54:13.532Z",
+    "removed_at": "2025-05-23T17:48:38.694Z",
+    "duration_minutes": 1794,
+    "duration_str": "1d 5h 54m"
   },
   {
     "title": "Décarbonation: la Suisse devrait multiplier par 80 sa capacité éolienne et par 4 sa production photovoltaïque",
@@ -8844,5 +8847,9 @@
   {
     "title": "Au moins 12 blessés dans une attaque au couteau à la gare de Hambourg, en Allemagne",
     "added_at": "2025-05-23T17:35:21.955Z"
+  },
+  {
+    "title": "Le site du Valais n'a pas été victime d'un piratage mais d'un \"dysfonctionnement\"",
+    "added_at": "2025-05-23T17:48:38.694Z"
   }
 ]
