@@ -29,14 +29,14 @@
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T10:29:58.735Z",
-    "removed_at": "2025-05-23T20:33:17.426Z",
-    "duration_minutes": 20763,
-    "duration_str": "14d 10h 3m"
+    "added_at": "2025-05-09T10:29:58.735Z"
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T10:29:58.735Z"
+    "added_at": "2025-05-09T10:29:58.735Z",
+    "removed_at": "2025-05-23T21:06:07.770Z",
+    "duration_minutes": 20796,
+    "duration_str": "14d 10h 36m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -8264,9 +8264,9 @@
   {
     "title": "Les drones de combat exacerbent la violence dans un Soudan en pleine guerre civile",
     "added_at": "2025-05-16T07:56:15.034Z",
-    "removed_at": "2025-05-23T20:33:17.426Z",
-    "duration_minutes": 10837,
-    "duration_str": "7d 12h 37m"
+    "removed_at": "2025-05-23T21:27:23.180Z",
+    "duration_minutes": 10891,
+    "duration_str": "7d 13h 31m"
   },
   {
     "title": "L’armée israélienne continue de bombarder la bande de Gaza, plus de 50 personnes tuées, selon la défense civile palestinienne",
@@ -14546,10 +14546,7 @@
   },
   {
     "title": "« L’économie française se rapproche dangereusement du bord de la falaise »",
-    "added_at": "2025-05-22T13:07:59.988Z",
-    "removed_at": "2025-05-23T20:33:17.426Z",
-    "duration_minutes": 1885,
-    "duration_str": "1d 7h 25m"
+    "added_at": "2025-05-22T13:07:59.988Z"
   },
   {
     "title": "Dans « Love Me Tender », présenté à Cannes, Vicky Krieps au tribunal de l’amour maternel",
@@ -14737,9 +14734,9 @@
   {
     "title": "« Avec Donald Trump, la paix au Moyen-Orient passe par le contrat commercial, et rien d’autre »",
     "added_at": "2025-05-22T15:27:04.029Z",
-    "removed_at": "2025-05-23T20:29:29.031Z",
-    "duration_minutes": 1742,
-    "duration_str": "1d 5h 2m"
+    "removed_at": "2025-05-23T21:29:15.206Z",
+    "duration_minutes": 1802,
+    "duration_str": "1d 6h 2m"
   },
   {
     "title": "Donald Trump et les cryptomonnaies : de lourds soupçons de conflits d’intérêts",
@@ -15270,9 +15267,9 @@
   {
     "title": "« Il y a tellement d’argent lié aux trafics de stupéfiants qu’on se retrouve avec toute une kyrielle d’activités criminelles »",
     "added_at": "2025-05-23T05:09:32.978Z",
-    "removed_at": "2025-05-23T20:37:07.595Z",
-    "duration_minutes": 927,
-    "duration_str": "15h 27m"
+    "removed_at": "2025-05-23T21:29:15.206Z",
+    "duration_minutes": 979,
+    "duration_str": "16h 19m"
   },
   {
     "title": "Dans une bande de Gaza en ruines, près de 2,1 millions de personnes sont « en danger de mort imminente », alerte l’OMS",
@@ -15926,7 +15923,10 @@
   },
   {
     "title": "« Les Français lisent beaucoup moins, on prédit la mort de la littérature, et tout le monde s’en fiche »",
-    "added_at": "2025-05-23T16:00:09.212Z"
+    "added_at": "2025-05-23T16:00:09.212Z",
+    "removed_at": "2025-05-23T21:27:23.180Z",
+    "duration_minutes": 327,
+    "duration_str": "5h 27m"
   },
   {
     "title": "« Elles ont volé une poule ce matin, chez les voisins. Mais pour quoi faire, putain, pour quoi faire ? »",
@@ -15959,7 +15959,10 @@
   },
   {
     "title": "Nogent-sur-Oise : trois lycéens mis en examen pour le « meurtre en bande organisée » d’un mineur de 17 ans",
-    "added_at": "2025-05-23T17:02:04.084Z"
+    "added_at": "2025-05-23T17:02:04.084Z",
+    "removed_at": "2025-05-23T21:02:16.626Z",
+    "duration_minutes": 240,
+    "duration_str": "4h"
   },
   {
     "title": "A Paris, les images hors du temps de la photographe de mode Yuriko Takagi",
@@ -16143,5 +16146,13 @@
   {
     "title": "Braquage de Kim Kardashian à Paris : les « papys braqueurs » condamnés à des peines allant jusqu’à huit ans de prison, dont trois ferme",
     "added_at": "2025-05-23T19:29:28.156Z"
+  },
+  {
+    "title": "Donald Trump menace l’Union européenne d’appliquer 50 % de droits de douane à partir du 1ᵉʳ juin",
+    "added_at": "2025-05-23T21:02:16.626Z"
+  },
+  {
+    "title": "Allemagne : 17 blessés dans une attaque au couteau à la gare de Hambourg, plusieurs sont dans un état critique",
+    "added_at": "2025-05-23T21:02:16.626Z"
   }
 ]
