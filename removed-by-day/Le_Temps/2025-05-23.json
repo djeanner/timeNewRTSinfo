@@ -59,7 +59,7 @@
   {
     "title": "suisse:::Commerce de détail: Genève pourrait revoter sur les ouvertures dominicales",
     "added_at": "2025-05-23T07:51:29.312Z",
-    "removed_at": "2025-05-23T10:07:39.450Z",
+    "removed_at": "2025-05-23T10:07:25.421Z",
     "duration_minutes": 136,
     "duration_str": "2h 16m"
   },
@@ -72,8 +72,9 @@
   {
     "title": "culture:::Festival de Cannes: «Valeur sentimentale», quand Joachim Trier se rêve en Bergman",
     "added_at": "2025-05-23T08:34:47.884Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-23T11:09:39.796Z",
+    "duration_minutes": 155,
+    "duration_str": "2h 35m"
   },
   {
     "title": "monde:::A l’OMS, la Chine s’affirme en leader de la médecine traditionnelle",
@@ -96,21 +97,21 @@
   },
   {
     "title": "monde:::​​Une «offensive en enduro»: comment pendant les négociations, l’armée russe prépare sa campagne d’été en Ukraine",
-    "added_at": "2025-05-23T10:05:39.873Z",
-    "removed_at": "2025-05-23T10:30:55.761Z",
+    "added_at": "2025-05-23T10:05:31.673Z",
+    "removed_at": "2025-05-23T10:30:08.872Z",
     "duration_minutes": 25,
     "duration_str": "25m"
   },
   {
     "title": "monde:::Trial International dépose des dénonciations contre la fondation qui veut se charger de l'aide à Gaza",
-    "added_at": "2025-05-23T10:07:39.450Z",
+    "added_at": "2025-05-23T10:07:25.421Z",
     "removed_at": "2025-05-23T10:25:09.209Z",
-    "duration_minutes": 17,
-    "duration_str": "17m"
+    "duration_minutes": 18,
+    "duration_str": "18m"
   },
   {
     "title": "economie:::Les investisseurs obligataires sont nerveux mais n’ont pas les yips du golfeur",
-    "added_at": "2025-05-23T10:13:33.640Z",
+    "added_at": "2025-05-23T10:13:04.802Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -122,7 +123,13 @@
   },
   {
     "title": "monde:::​​Une «offensive en enduro»: comment, pendant les négociations, l’armée russe prépare sa campagne d’été en Ukraine",
-    "added_at": "2025-05-23T10:30:55.761Z",
+    "added_at": "2025-05-23T10:30:08.872Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "sport:::Enceinte, Mujinga Kambundji met un terme à sa saison mais pas à sa carrière sportive",
+    "added_at": "2025-05-23T11:09:39.796Z",
     "duration_minutes": 0,
     "duration_str": ""
   }

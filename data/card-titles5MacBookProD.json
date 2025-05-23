@@ -286,10 +286,7 @@
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T10:32:57.100Z",
-    "removed_at": "2025-05-23T10:56:01.256Z",
-    "duration_minutes": 20183,
-    "duration_str": "14d 23m"
+    "added_at": "2025-05-09T10:32:57.100Z"
   },
   {
     "title": "En direct, nouveau pape : qui est Léon XIV, et que peut-on attendre de son pontificat ? Posez vos questions à nos journalistes",
@@ -4437,7 +4434,10 @@
   },
   {
     "title": "Les bombes planantes : l’astuce de la Russie pour recycler ses vieilles armes",
-    "added_at": "2025-05-13T10:02:10.382Z"
+    "added_at": "2025-05-13T10:02:10.382Z",
+    "removed_at": "2025-05-23T11:52:13.485Z",
+    "duration_minutes": 14510,
+    "duration_str": "10d 1h 50m"
   },
   {
     "title": "Gérard Depardieu condamné à dix-huit mois de prison avec sursis pour agressions sexuelles sur le tournage du film « Les Volets verts »",
@@ -8264,9 +8264,9 @@
   {
     "title": "Les drones de combat exacerbent la violence dans un Soudan en pleine guerre civile",
     "added_at": "2025-05-16T07:56:15.034Z",
-    "removed_at": "2025-05-23T11:01:49.289Z",
-    "duration_minutes": 10265,
-    "duration_str": "7d 3h 5m"
+    "removed_at": "2025-05-23T11:46:25.295Z",
+    "duration_minutes": 10310,
+    "duration_str": "7d 3h 50m"
   },
   {
     "title": "L’armée israélienne continue de bombarder la bande de Gaza, plus de 50 personnes tuées, selon la défense civile palestinienne",
@@ -15498,7 +15498,10 @@
   },
   {
     "title": "Dans le secteur automobile, un dialogue impossible entre acteurs français et allemands sur les normes et le « contenu local » des voitures",
-    "added_at": "2025-05-23T09:13:20.457Z"
+    "added_at": "2025-05-23T09:13:20.457Z",
+    "removed_at": "2025-05-23T11:15:28.167Z",
+    "duration_minutes": 122,
+    "duration_str": "2h 2m"
   },
   {
     "title": "Dans une bande de Gaza toujours bombardée, une centaine de camions d’aide humanitaire sont entrés jeudi, selon Israël",
@@ -15550,7 +15553,10 @@
   },
   {
     "title": "La terrine de truite : la recette d’Anthony Berthou",
-    "added_at": "2025-05-23T10:11:34.568Z"
+    "added_at": "2025-05-23T10:11:34.568Z",
+    "removed_at": "2025-05-23T11:05:51.641Z",
+    "duration_minutes": 54,
+    "duration_str": "54m"
   },
   {
     "title": "Le point sur la guerre en Ukraine : la Russie doute de la possibilité de pourparlers avec l’Ukraine au Vatican",
@@ -15578,5 +15584,27 @@
   {
     "title": "L’administration Trump retire à Harvard le droit d’accueillir des étudiants étrangers ; une décision « illégale », dénonce l’université",
     "added_at": "2025-05-23T11:01:49.289Z"
+  },
+  {
+    "title": "Camiel Fortgens, créateur de mode imparfaite",
+    "added_at": "2025-05-23T11:05:51.641Z"
+  },
+  {
+    "title": "Le poids exorbitant du secteur agroalimentaire dans la pollution plastique en France",
+    "added_at": "2025-05-23T11:15:28.167Z",
+    "removed_at": "2025-05-23T11:38:38.825Z",
+    "duration_minutes": 23,
+    "duration_str": "23m"
+  },
+  {
+    "title": "Les médecins réfutent le lien entre hausse de la mortalité infantile en France et fermeture des maternités",
+    "added_at": "2025-05-23T11:15:28.167Z",
+    "removed_at": "2025-05-23T11:17:27.530Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "« Il faut déplastifier le marché de l’alimentation » : le poids exorbitant du secteur dans la pollution plastique en France",
+    "added_at": "2025-05-23T11:38:38.825Z"
   }
 ]
