@@ -6709,7 +6709,10 @@
   },
   {
     "title": "sport:::Finaliste du Geneva Open, Novak Djokovic est à une victoire de son 100e titre ATP",
-    "added_at": "2025-05-23T17:46:42.970Z"
+    "added_at": "2025-05-23T17:46:42.970Z",
+    "removed_at": "2025-05-23T18:22:41.986Z",
+    "duration_minutes": 35,
+    "duration_str": "35m"
   },
   {
     "title": "culture:::Festival de Cannes: «Résurrection», le film-monde de Bi Gan pour célébrer le cinéma comme une machine à rêves",
@@ -6718,5 +6721,9 @@
   {
     "title": "monde:::Douze blessés dans une attaque au couteau à la gare de Hambourg",
     "added_at": "2025-05-23T17:48:38.746Z"
+  },
+  {
+    "title": "sport:::Finaliste du Geneva Open, Novak Djokovic est à une victoire de son 100e titre ATP",
+    "added_at": "2025-05-23T18:22:41.986Z"
   }
 ]
