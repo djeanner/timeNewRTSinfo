@@ -29,11 +29,17 @@
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-23T06:01:55.545Z",
+    "duration_minutes": 19860,
+    "duration_str": "13d 19h"
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-23T05:52:31.359Z",
+    "duration_minutes": 19850,
+    "duration_str": "13d 18h 50m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -314,10 +320,7 @@
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T11:11:38.599Z",
-    "removed_at": "2025-05-23T05:41:10.572Z",
-    "duration_minutes": 19829,
-    "duration_str": "13d 18h 29m"
+    "added_at": "2025-05-09T11:11:38.599Z"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -5361,10 +5364,7 @@
   },
   {
     "title": "Les bombes planantes : l’astuce de la Russie pour recycler ses vieilles armes",
-    "added_at": "2025-05-13T10:01:09.971Z",
-    "removed_at": "2025-05-23T05:41:10.572Z",
-    "duration_minutes": 14140,
-    "duration_str": "9d 19h 40m"
+    "added_at": "2025-05-13T10:01:09.971Z"
   },
   {
     "title": "Gérard Depardieu condamné à dix-huit mois de prison avec sursis pour agressions sexuelles sur le tournage du film « Les Volets verts »",
@@ -15248,7 +15248,10 @@
   },
   {
     "title": "Cannes 2025 : Nadav Lapid fait un nouvel adieu à Israël avec « Yes »",
-    "added_at": "2025-05-22T09:06:02.285Z"
+    "added_at": "2025-05-22T09:06:02.285Z",
+    "removed_at": "2025-05-23T06:01:55.545Z",
+    "duration_minutes": 1255,
+    "duration_str": "20h 55m"
   },
   {
     "title": "Le Golden Dome voulu par Donald Trump suscite inquiétudes et circonspections",
@@ -15316,10 +15319,7 @@
   },
   {
     "title": "Alexandre Desplat, compositeur de musiques de film : « On m’imagine à L.A., avec une Lamborghini rose »",
-    "added_at": "2025-05-22T09:19:11.259Z",
-    "removed_at": "2025-05-23T05:22:17.866Z",
-    "duration_minutes": 1203,
-    "duration_str": "20h 3m"
+    "added_at": "2025-05-22T09:19:11.259Z"
   },
   {
     "title": "Entre le Royaume-Uni et l’UE, un début de retrouvailles bienvenu",
@@ -15453,7 +15453,10 @@
   },
   {
     "title": "En Turquie, les limites de l’équilibrisme en diplomatie",
-    "added_at": "2025-05-22T13:55:14.817Z"
+    "added_at": "2025-05-22T13:55:14.817Z",
+    "removed_at": "2025-05-23T06:00:06.207Z",
+    "duration_minutes": 964,
+    "duration_str": "16h 4m"
   },
   {
     "title": "Dans le Perche, l’esprit de la forêt",
@@ -15589,9 +15592,9 @@
   {
     "title": "« Avec Donald Trump, la paix au Moyen-Orient passe par le contrat commercial, et rien d’autre »",
     "added_at": "2025-05-22T15:26:04.442Z",
-    "removed_at": "2025-05-23T05:37:27.153Z",
-    "duration_minutes": 851,
-    "duration_str": "14h 11m"
+    "removed_at": "2025-05-23T05:58:10.185Z",
+    "duration_minutes": 872,
+    "duration_str": "14h 32m"
   },
   {
     "title": "Donald Trump et les cryptomonnaies : de lourds soupçons de conflits d’intérêts",
@@ -16032,7 +16035,10 @@
   },
   {
     "title": "L’odyssée vers les Cévennes d’une famille gazaouie : « Je n’avais qu’une idée en tête, rester avec ma famille. Si nous devions mourir, ce serait tous ensemble »",
-    "added_at": "2025-05-23T04:06:51.338Z"
+    "added_at": "2025-05-23T04:06:51.338Z",
+    "removed_at": "2025-05-23T06:00:06.207Z",
+    "duration_minutes": 113,
+    "duration_str": "1h 53m"
   },
   {
     "title": "Saint-Amand-Montrond s’accroche à sa petite maternité : « Avons-nous encore le droit de naître à la campagne ? »",
@@ -16124,5 +16130,9 @@
   {
     "title": "Dans une bande de Gaza en ruine, près de 2,1 millions de personnes sont « en danger de mort imminente », alerte l’OMS",
     "added_at": "2025-05-23T05:44:56.097Z"
+  },
+  {
+    "title": "L’exil d’une famille, de la bande de Gaza vers les Cévennes : « Je n’avais qu’une idée en tête, rester avec ma famille. Si nous devions mourir, ce serait tous ensemble »",
+    "added_at": "2025-05-23T06:00:06.207Z"
   }
 ]
