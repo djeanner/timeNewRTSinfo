@@ -29,10 +29,7 @@
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-23T09:37:12.782Z",
-    "duration_minutes": 20075,
-    "duration_str": "13d 22h 35m"
+    "added_at": "2025-05-09T11:01:45.077Z"
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
@@ -317,7 +314,10 @@
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T11:11:38.599Z"
+    "added_at": "2025-05-09T11:11:38.599Z",
+    "removed_at": "2025-05-23T09:52:22.530Z",
+    "duration_minutes": 20080,
+    "duration_str": "13d 22h 40m"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -5362,9 +5362,9 @@
   {
     "title": "Les bombes planantes : l’astuce de la Russie pour recycler ses vieilles armes",
     "added_at": "2025-05-13T10:01:09.971Z",
-    "removed_at": "2025-05-23T09:42:52.109Z",
-    "duration_minutes": 14381,
-    "duration_str": "9d 23h 41m"
+    "removed_at": "2025-05-23T09:56:05.737Z",
+    "duration_minutes": 14394,
+    "duration_str": "9d 23h 54m"
   },
   {
     "title": "Gérard Depardieu condamné à dix-huit mois de prison avec sursis pour agressions sexuelles sur le tournage du film « Les Volets verts »",
@@ -16336,7 +16336,10 @@
   },
   {
     "title": "La petite maternité de Saint-Amand-Montrond menacée de fermeture, faute de réaliser assez d’accouchements : « Au moins ici, on n’est pas une usine à bébés »",
-    "added_at": "2025-05-23T08:10:25.118Z"
+    "added_at": "2025-05-23T08:10:25.118Z",
+    "removed_at": "2025-05-23T09:44:48.051Z",
+    "duration_minutes": 94,
+    "duration_str": "1h 34m"
   },
   {
     "title": "Un homme d’Église, un ambulancier, un professeur de musique : 55 hommes arrêtés en France après dix mois d’enquête sur un réseau de pédocriminalité",
@@ -16408,5 +16411,16 @@
   {
     "title": "Islam politique : vrai défi, navrant sujet de surenchère",
     "added_at": "2025-05-23T09:37:12.782Z"
+  },
+  {
+    "title": "Inde-Pakistan : quatre jours de guerre, deux versions des combats, et toujours aucun gagnant",
+    "added_at": "2025-05-23T09:44:48.051Z",
+    "removed_at": "2025-05-23T09:54:12.169Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Quatre jours de guerre, deux versions des combats, et toujours aucun gagnant entre l’Inde et le Pakistan",
+    "added_at": "2025-05-23T09:54:12.169Z"
   }
 ]
