@@ -29,7 +29,10 @@
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-23T11:21:10.169Z",
+    "duration_minutes": 20179,
+    "duration_str": "14d 19m"
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
@@ -314,7 +317,10 @@
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T11:11:38.599Z"
+    "added_at": "2025-05-09T11:11:38.599Z",
+    "removed_at": "2025-05-23T11:21:10.169Z",
+    "duration_minutes": 20169,
+    "duration_str": "14d 9m"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -5358,10 +5364,7 @@
   },
   {
     "title": "Les bombes planantes : l’astuce de la Russie pour recycler ses vieilles armes",
-    "added_at": "2025-05-13T10:01:09.971Z",
-    "removed_at": "2025-05-23T11:06:05.029Z",
-    "duration_minutes": 14464,
-    "duration_str": "10d 1h 4m"
+    "added_at": "2025-05-13T10:01:09.971Z"
   },
   {
     "title": "Gérard Depardieu condamné à dix-huit mois de prison avec sursis pour agressions sexuelles sur le tournage du film « Les Volets verts »",
@@ -9166,10 +9169,7 @@
   },
   {
     "title": "Les drones de combat exacerbent la violence dans un Soudan en pleine guerre civile",
-    "added_at": "2025-05-16T07:55:52.133Z",
-    "removed_at": "2025-05-23T11:02:15.759Z",
-    "duration_minutes": 10266,
-    "duration_str": "7d 3h 6m"
+    "added_at": "2025-05-16T07:55:52.133Z"
   },
   {
     "title": "L’armée israélienne continue de bombarder la bande de Gaza, plus de 50 personnes tuées, selon la défense civile palestinienne",
@@ -16401,7 +16401,10 @@
   },
   {
     "title": "Dans le secteur automobile, un dialogue impossible entre acteurs français et allemands sur les normes et le « contenu local » des voitures",
-    "added_at": "2025-05-23T09:14:33.180Z"
+    "added_at": "2025-05-23T09:14:33.180Z",
+    "removed_at": "2025-05-23T11:15:30.879Z",
+    "duration_minutes": 120,
+    "duration_str": "2h"
   },
   {
     "title": "Dans une bande de Gaza toujours bombardée, une centaine de camions d’aide humanitaire sont entrés jeudi, selon Israël",
@@ -16488,5 +16491,16 @@
   {
     "title": "Camiel Fortgens, créateur de mode imparfaite",
     "added_at": "2025-05-23T11:06:05.029Z"
+  },
+  {
+    "title": "Le poids exorbitant du secteur agroalimentaire dans la pollution plastique en France",
+    "added_at": "2025-05-23T11:15:30.879Z"
+  },
+  {
+    "title": "Les médecins réfutent le lien entre hausse de la mortalité infantile en France et fermeture des maternités",
+    "added_at": "2025-05-23T11:15:30.879Z",
+    "removed_at": "2025-05-23T11:17:26.678Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
   }
 ]
