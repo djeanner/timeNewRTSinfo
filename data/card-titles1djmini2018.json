@@ -7925,7 +7925,10 @@
   },
   {
     "title": "Près de 100'000 voitures sont encore équipées en Suisse d'un airbag Takata à risque",
-    "added_at": "2025-05-21T04:45:48.911Z"
+    "added_at": "2025-05-21T04:45:48.911Z",
+    "removed_at": "2025-05-23T09:16:26.166Z",
+    "duration_minutes": 3150,
+    "duration_str": "2d 4h 30m"
   },
   {
     "title": "Des petits éboulements cette nuit au-dessus de Blatten, le glacier du Birch en délicatesse",
@@ -8531,7 +8534,10 @@
   },
   {
     "title": "3 semaines après la panne géante, les Espagnols attendent toujours des réponses",
-    "added_at": "2025-05-23T02:15:27.764Z"
+    "added_at": "2025-05-23T02:15:27.764Z",
+    "removed_at": "2025-05-23T09:16:26.166Z",
+    "duration_minutes": 420,
+    "duration_str": "7h"
   },
   {
     "title": "Benjamin Netanyahu défie la justice en nommant un nouveau chef du Shin Bet",
@@ -8572,5 +8578,9 @@
   {
     "title": "120 secondes - L'Everest, une destination de plus en plus prisée",
     "added_at": "2025-05-23T08:16:03.211Z"
+  },
+  {
+    "title": "Dans le Jura, l'affaire Martial Courtet continue de susciter des interrogations",
+    "added_at": "2025-05-23T09:16:26.166Z"
   }
 ]
