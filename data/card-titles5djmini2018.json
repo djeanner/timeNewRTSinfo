@@ -30,13 +30,16 @@
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
     "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-23T11:21:10.169Z",
-    "duration_minutes": 20179,
-    "duration_str": "14d 19m"
+    "removed_at": "2025-05-23T11:36:17.205Z",
+    "duration_minutes": 20194,
+    "duration_str": "14d 34m"
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-23T11:41:56.944Z",
+    "duration_minutes": 20200,
+    "duration_str": "14d 40m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -317,10 +320,7 @@
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T11:11:38.599Z",
-    "removed_at": "2025-05-23T11:21:10.169Z",
-    "duration_minutes": 20169,
-    "duration_str": "14d 9m"
+    "added_at": "2025-05-09T11:11:38.599Z"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -16494,7 +16494,10 @@
   },
   {
     "title": "Le poids exorbitant du secteur agroalimentaire dans la pollution plastique en France",
-    "added_at": "2025-05-23T11:15:30.879Z"
+    "added_at": "2025-05-23T11:15:30.879Z",
+    "removed_at": "2025-05-23T11:38:11.242Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
   },
   {
     "title": "Les médecins réfutent le lien entre hausse de la mortalité infantile en France et fermeture des maternités",
@@ -16502,5 +16505,9 @@
     "removed_at": "2025-05-23T11:17:26.678Z",
     "duration_minutes": 1,
     "duration_str": "1m"
+  },
+  {
+    "title": "« Il faut déplastifier le marché de l’alimentation » : le poids exorbitant du secteur dans la pollution plastique en France",
+    "added_at": "2025-05-23T11:38:11.242Z"
   }
 ]
