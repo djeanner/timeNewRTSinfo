@@ -29,14 +29,14 @@
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-23T14:26:25.628Z",
+    "duration_minutes": 20364,
+    "duration_str": "14d 3h 24m"
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-23T14:13:12.091Z",
-    "duration_minutes": 20351,
-    "duration_str": "14d 3h 11m"
+    "added_at": "2025-05-09T11:01:45.077Z"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -318,9 +318,9 @@
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
     "added_at": "2025-05-09T11:11:38.599Z",
-    "removed_at": "2025-05-23T14:05:36.725Z",
-    "duration_minutes": 20333,
-    "duration_str": "14d 2h 53m"
+    "removed_at": "2025-05-23T14:30:15.314Z",
+    "duration_minutes": 20358,
+    "duration_str": "14d 3h 18m"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -16154,7 +16154,10 @@
   },
   {
     "title": "« Il y a tellement d’argent lié aux trafics de stupéfiants qu’on se retrouve avec toute une kyrielle d’activités criminelles »",
-    "added_at": "2025-05-23T05:09:06.867Z"
+    "added_at": "2025-05-23T05:09:06.867Z",
+    "removed_at": "2025-05-23T14:32:04.878Z",
+    "duration_minutes": 562,
+    "duration_str": "9h 22m"
   },
   {
     "title": "Dans une bande de Gaza en ruines, près de 2,1 millions de personnes sont « en danger de mort imminente », alerte l’OMS",
@@ -16556,10 +16559,7 @@
   },
   {
     "title": "Un homme d’Eglise, un ambulancier, un professeur de musique... 55 hommes arrêtés en France après dix mois d’enquête sur un réseau de pédocriminalité",
-    "added_at": "2025-05-23T12:53:51.631Z",
-    "removed_at": "2025-05-23T14:07:32.694Z",
-    "duration_minutes": 73,
-    "duration_str": "1h 13m"
+    "added_at": "2025-05-23T12:53:51.631Z"
   },
   {
     "title": "Israël-Palestine : trois livres pour éclairer les causes de l’interminable tragédie du peuple palestinien",
@@ -16709,10 +16709,28 @@
   },
   {
     "title": "Guerre en Ukraine : l’échange de prisonniers a eu lieu, selon le ministère de la défense russe",
-    "added_at": "2025-05-23T14:07:32.694Z"
+    "added_at": "2025-05-23T14:07:32.694Z",
+    "removed_at": "2025-05-23T14:16:57.167Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
   },
   {
     "title": "Six mois après l’entrée en vigueur d’un cessez-le-feu avec Israël, une guerre de basse intensité se poursuit au Liban",
     "added_at": "2025-05-23T14:07:32.694Z"
+  },
+  {
+    "title": "Guerre en Ukraine : Kiev et Moscou confirment l’échange de prisonniers annoncé par Donald Trump jeudi matin",
+    "added_at": "2025-05-23T14:16:57.167Z",
+    "removed_at": "2025-05-23T14:24:36.211Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Procès Le Scouarnec : le parquet requiert  la peine maximale de vingt ans de réclusion criminelle et une rétention de sûreté contre l’ex-chirurgien",
+    "added_at": "2025-05-23T14:24:36.211Z"
+  },
+  {
+    "title": "Harvard porte plainte contre l’administration Trump après l’interdiction des étudiants étrangers",
+    "added_at": "2025-05-23T14:26:25.628Z"
   }
 ]
