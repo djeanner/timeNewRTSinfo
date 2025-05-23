@@ -8132,7 +8132,10 @@
   },
   {
     "title": "Blatten toujours menacé: interview de l'ingénieur cantonal Alban Brigger",
-    "added_at": "2025-05-21T13:11:19.955Z"
+    "added_at": "2025-05-21T13:11:19.955Z",
+    "removed_at": "2025-05-23T17:16:27.160Z",
+    "duration_minutes": 3125,
+    "duration_str": "2d 4h 5m"
   },
   {
     "title": "La police romande convie discrètement les travailleurs nomades à ne plus stationner sur les parkings",
@@ -8535,7 +8538,10 @@
   },
   {
     "title": "Quel impact les pressions européennes ont-elles sur Israël?",
-    "added_at": "2025-05-22T16:15:11.763Z"
+    "added_at": "2025-05-22T16:15:11.763Z",
+    "removed_at": "2025-05-23T17:16:27.160Z",
+    "duration_minutes": 1501,
+    "duration_str": "1d 1h 1m"
   },
   {
     "title": "La Suisse se qualifie facilement pour les demi-finales",
@@ -8682,7 +8688,10 @@
   },
   {
     "title": "L'eau peut à nouveau être consommée dans la commune de Laténa",
-    "added_at": "2025-05-23T10:26:25.095Z"
+    "added_at": "2025-05-23T10:26:25.095Z",
+    "removed_at": "2025-05-23T17:22:07.031Z",
+    "duration_minutes": 415,
+    "duration_str": "6h 55m"
   },
   {
     "title": "Genève pourrait revoter sur les ouvertures dominicales des commerces",
@@ -8743,10 +8752,7 @@
   },
   {
     "title": "Le glacier dans la région de Blatten accélère son mouvement, risque d'éboulement accru",
-    "added_at": "2025-05-23T12:53:50.942Z",
-    "removed_at": "2025-05-23T13:01:20.493Z",
-    "duration_minutes": 7,
-    "duration_str": "7m"
+    "added_at": "2025-05-23T12:53:50.942Z"
   },
   {
     "title": "Les premières distributions de nourriture ont débuté à Gaza, mais sont encore largement insuffisantes",
@@ -8820,5 +8826,9 @@
   {
     "title": "Un discours du conseiller d'Etat Frédéric Borloz perturbé par des activistes propalestiniens à l'Unil",
     "added_at": "2025-05-23T17:05:06.496Z"
+  },
+  {
+    "title": "Une ONG dépose deux dénonciations en Suisse contre l'obscure \"Fondation humanitaire de Gaza\"",
+    "added_at": "2025-05-23T17:22:07.031Z"
   }
 ]
