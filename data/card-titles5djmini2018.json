@@ -33,7 +33,10 @@
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-23T12:32:57.949Z",
+    "duration_minutes": 20251,
+    "duration_str": "14d 1h 31m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -315,9 +318,9 @@
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
     "added_at": "2025-05-09T11:11:38.599Z",
-    "removed_at": "2025-05-23T12:15:58.808Z",
-    "duration_minutes": 20224,
-    "duration_str": "14d 1h 4m"
+    "removed_at": "2025-05-23T12:32:57.949Z",
+    "duration_minutes": 20241,
+    "duration_str": "14d 1h 21m"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -9166,10 +9169,7 @@
   },
   {
     "title": "Les drones de combat exacerbent la violence dans un Soudan en pleine guerre civile",
-    "added_at": "2025-05-16T07:55:52.133Z",
-    "removed_at": "2025-05-23T12:06:33.209Z",
-    "duration_minutes": 10330,
-    "duration_str": "7d 4h 10m"
+    "added_at": "2025-05-16T07:55:52.133Z"
   },
   {
     "title": "L’armée israélienne continue de bombarder la bande de Gaza, plus de 50 personnes tuées, selon la défense civile palestinienne",
@@ -16116,10 +16116,7 @@
   },
   {
     "title": "En concert, où faut-il se placer pour profiter du meilleur son ?",
-    "added_at": "2025-05-23T04:33:13.104Z",
-    "removed_at": "2025-05-23T07:53:25.593Z",
-    "duration_minutes": 200,
-    "duration_str": "3h 20m"
+    "added_at": "2025-05-23T04:33:13.104Z"
   },
   {
     "title": "Nicolas Mayer-Rossignol, l’homme qui rêve de détrôner Olivier Faure à la tête du Parti socialiste",
@@ -16148,7 +16145,10 @@
   },
   {
     "title": "« Il y a tellement d’argent lié aux trafics de stupéfiants qu’on se retrouve avec toute une kyrielle d’activités criminelles »",
-    "added_at": "2025-05-23T05:09:06.867Z"
+    "added_at": "2025-05-23T05:09:06.867Z",
+    "removed_at": "2025-05-23T12:32:57.949Z",
+    "duration_minutes": 443,
+    "duration_str": "7h 23m"
   },
   {
     "title": "Dans une bande de Gaza en ruines, près de 2,1 millions de personnes sont « en danger de mort imminente », alerte l’OMS",
@@ -16463,7 +16463,10 @@
   },
   {
     "title": "Le point sur la guerre en Ukraine : la Russie doute de la possibilité de pourparlers avec l’Ukraine au Vatican",
-    "added_at": "2025-05-23T10:18:47.399Z"
+    "added_at": "2025-05-23T10:18:47.399Z",
+    "removed_at": "2025-05-23T12:27:18.842Z",
+    "duration_minutes": 128,
+    "duration_str": "2h 8m"
   },
   {
     "title": "Louis Vuitton et ses demoiselles d’Avignon",
@@ -16509,5 +16512,9 @@
   {
     "title": "« Il faut déplastifier le marché de l’alimentation » : le poids exorbitant du secteur dans la pollution plastique en France",
     "added_at": "2025-05-23T11:38:11.242Z"
+  },
+  {
+    "title": "Donald Trump menace l’UE de 50 % de droits de douane à partir du 1er juin",
+    "added_at": "2025-05-23T12:27:18.842Z"
   }
 ]
