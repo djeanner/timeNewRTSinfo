@@ -6468,7 +6468,10 @@
   },
   {
     "title": "sport:::«Les Brûlures de glace», un alpiniste face à ses démons",
-    "added_at": "2025-05-22T22:17:36.863Z"
+    "added_at": "2025-05-22T22:17:36.863Z",
+    "removed_at": "2025-05-23T08:04:45.689Z",
+    "duration_minutes": 587,
+    "duration_str": "9h 47m"
   },
   {
     "title": "sport:::Inutile vainqueur de Zurich, Yverdon est relégué en Challenge League",
@@ -6519,5 +6522,9 @@
   {
     "title": "suisse:::Commerce de détail: Genève pourrait revoter sur les ouvertures dominicales",
     "added_at": "2025-05-23T07:51:29.312Z"
+  },
+  {
+    "title": "sciences:::Aux Etats-Unis, tandis que la mer monte, les villes côtières s’enfoncent",
+    "added_at": "2025-05-23T08:04:45.689Z"
   }
 ]
