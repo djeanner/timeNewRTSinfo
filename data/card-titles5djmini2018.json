@@ -30,9 +30,9 @@
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
     "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-24T17:11:23.799Z",
-    "duration_minutes": 21969,
-    "duration_str": "15d 6h 9m"
+    "removed_at": "2025-05-24T17:41:40.355Z",
+    "duration_minutes": 21999,
+    "duration_str": "15d 6h 39m"
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
@@ -5361,7 +5361,10 @@
   },
   {
     "title": "Les bombes planantes : l’astuce de la Russie pour recycler ses vieilles armes",
-    "added_at": "2025-05-13T10:01:09.971Z"
+    "added_at": "2025-05-13T10:01:09.971Z",
+    "removed_at": "2025-05-24T17:41:40.355Z",
+    "duration_minutes": 16300,
+    "duration_str": "11d 7h 40m"
   },
   {
     "title": "Gérard Depardieu condamné à dix-huit mois de prison avec sursis pour agressions sexuelles sur le tournage du film « Les Volets verts »",
@@ -9166,10 +9169,7 @@
   },
   {
     "title": "Les drones de combat exacerbent la violence dans un Soudan en pleine guerre civile",
-    "added_at": "2025-05-16T07:55:52.133Z",
-    "removed_at": "2025-05-24T17:22:42.523Z",
-    "duration_minutes": 12086,
-    "duration_str": "8d 9h 26m"
+    "added_at": "2025-05-16T07:55:52.133Z"
   },
   {
     "title": "L’armée israélienne continue de bombarder la bande de Gaza, plus de 50 personnes tuées, selon la défense civile palestinienne",
@@ -16769,9 +16769,9 @@
   {
     "title": "Laurent Fabius : « Le Conseil constitutionnel est un rempart indispensable pour protéger l’Etat de droit »",
     "added_at": "2025-05-23T13:25:56.420Z",
-    "removed_at": "2025-05-24T17:22:42.523Z",
-    "duration_minutes": 1676,
-    "duration_str": "1d 3h 56m"
+    "removed_at": "2025-05-24T17:37:50.418Z",
+    "duration_minutes": 1691,
+    "duration_str": "1d 4h 11m"
   },
   {
     "title": "Guerre à Gaza : soixante morts en vingt-quatre heures ; une centaine de camions humanitaires sont entrés dans l’enclave",
@@ -16880,7 +16880,10 @@
   },
   {
     "title": "« Les Français lisent beaucoup moins, on prédit la mort de la littérature, et tout le monde s’en fiche »",
-    "added_at": "2025-05-23T16:00:56.748Z"
+    "added_at": "2025-05-23T16:00:56.748Z",
+    "removed_at": "2025-05-24T17:41:40.355Z",
+    "duration_minutes": 1540,
+    "duration_str": "1d 1h 40m"
   },
   {
     "title": "« Elles ont volé une poule ce matin, chez les voisins. Mais pour quoi faire, putain, pour quoi faire ? »",
@@ -17333,7 +17336,10 @@
   },
   {
     "title": "Destruction des écoles, des universités, des hôpitaux… A Gaza, le futur oblitéré",
-    "added_at": "2025-05-24T05:26:51.881Z"
+    "added_at": "2025-05-24T05:26:51.881Z",
+    "removed_at": "2025-05-24T17:39:44.237Z",
+    "duration_minutes": 732,
+    "duration_str": "12h 12m"
   },
   {
     "title": "Confronté à des accusations graves de « violences » et de « mise en danger », le 8ᵉ RPIMa dans la tourmente",
@@ -17886,11 +17892,17 @@
   },
   {
     "title": "Laure Murat, historienne : « Supprimez les remarques et les attitudes sexistes de James Bond et vous ne comprendrez plus rien à la misogynie des années 1950 »",
-    "added_at": "2025-05-24T15:55:48.977Z"
+    "added_at": "2025-05-24T15:55:48.977Z",
+    "removed_at": "2025-05-24T17:28:24.497Z",
+    "duration_minutes": 92,
+    "duration_str": "1h 32m"
   },
   {
     "title": "Silvia Baron Supervielle : « Yourcenar est une mystique, mais charnelle »",
-    "added_at": "2025-05-24T16:07:08.749Z"
+    "added_at": "2025-05-24T16:07:08.749Z",
+    "removed_at": "2025-05-24T17:32:10.062Z",
+    "duration_minutes": 85,
+    "duration_str": "1h 25m"
   },
   {
     "title": "La mort du cinéaste algérien Mohamed Lakhdar Hamina, Palme d’or à Cannes en 1975",
@@ -17991,6 +18003,38 @@
   },
   {
     "title": "Festival de Cannes : le Prix de la mise en scène pour Kleber Mendonça Filho ; suivez la cérémonie de clôture",
-    "added_at": "2025-05-24T17:22:42.523Z"
+    "added_at": "2025-05-24T17:22:42.523Z",
+    "removed_at": "2025-05-24T17:28:24.497Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "Festival de Cannes : le Prix d’interprétation féminine pour Nadia Melliti ; suivez la cérémonie de clôture",
+    "added_at": "2025-05-24T17:28:24.497Z",
+    "removed_at": "2025-05-24T17:32:10.062Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "Silvia Baron Supervielle : « Marguerite Yourcenar est une mystique, mais charnelle »",
+    "added_at": "2025-05-24T17:30:20.146Z"
+  },
+  {
+    "title": "Joachim Trier remporte le Grand prix du Festival de Cannes",
+    "added_at": "2025-05-24T17:32:10.062Z",
+    "removed_at": "2025-05-24T17:34:04.175Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Joachim Trier remporte le Grand prix du Festival de Cannes pour « Valeur sentimentale »",
+    "added_at": "2025-05-24T17:34:04.175Z",
+    "removed_at": "2025-05-24T17:39:44.237Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "Le réalisateur iranien Jafar Panahi remporte la Palme d’or du Festival de Cannes pour « Un simple accident »",
+    "added_at": "2025-05-24T17:39:44.237Z"
   }
 ]
