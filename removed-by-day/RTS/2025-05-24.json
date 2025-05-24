@@ -46,7 +46,7 @@
   {
     "title": "Attaque russe massive sur Kiev à l'aube d'un échange de prisonniers",
     "added_at": "2025-05-24T07:21:33.258Z",
-    "removed_at": "2025-05-24T12:56:56.851Z",
+    "removed_at": "2025-05-24T12:56:23.001Z",
     "duration_minutes": 335,
     "duration_str": "5h 35m"
   },
@@ -116,8 +116,9 @@
   {
     "title": "L'UDC Valais romand tire à boulets rouges sur l'Office cantonal de l'asile",
     "added_at": "2025-05-24T10:19:35.825Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-24T14:20:16.680Z",
+    "duration_minutes": 241,
+    "duration_str": "4h 1m"
   },
   {
     "title": "Coupure de courant dans plusieurs quartiers de la ville de Berne",
@@ -210,7 +211,19 @@
   },
   {
     "title": "Attaque russe massive sur Kiev peu avant un nouvel échange de prisonniers",
-    "added_at": "2025-05-24T12:56:56.851Z",
+    "added_at": "2025-05-24T12:56:23.001Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Comment Meta utilisera vos contenus pour entraîner son intelligence artificielle (et comment s'y opposer)",
+    "added_at": "2025-05-24T14:16:24.811Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "En difficulté à cause d'une grève, Chiquita licencie 5000 personnes au Panama",
+    "added_at": "2025-05-24T14:45:26.101Z",
     "duration_minutes": 0,
     "duration_str": ""
   }

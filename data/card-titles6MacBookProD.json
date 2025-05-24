@@ -5192,7 +5192,10 @@
   },
   {
     "title": "German woman arrested after mass stabbing at Hamburg train station",
-    "added_at": "2025-05-24T02:07:42.461Z"
+    "added_at": "2025-05-24T02:07:42.461Z",
+    "removed_at": "2025-05-24T14:10:37.099Z",
+    "duration_minutes": 722,
+    "duration_str": "12h 2m"
   },
   {
     "title": "‘Killing civilians for fun’: Israel kills 76 in Gaza, no aid yet for north",
@@ -5311,9 +5314,9 @@
   {
     "title": "Arson attack probed as Cannes and parts of southern France suffer power cut",
     "added_at": "2025-05-24T13:24:07.162Z",
-    "removed_at": "2025-05-24T13:55:04.181Z",
-    "duration_minutes": 30,
-    "duration_str": "30m"
+    "removed_at": "2025-05-24T14:33:50.143Z",
+    "duration_minutes": 69,
+    "duration_str": "1h 9m"
   },
   {
     "title": "South Lebanon votes in municipal election seen as test of Hezbollah support",
@@ -5322,5 +5325,9 @@
   {
     "title": "Syria’s al-Sharaa meets Erdogan in Turkiye as sanctions lifted",
     "added_at": "2025-05-24T13:55:04.181Z"
+  },
+  {
+    "title": "Australia begins cleanup after floods kill 5, strand thousands",
+    "added_at": "2025-05-24T14:33:50.143Z"
   }
 ]
