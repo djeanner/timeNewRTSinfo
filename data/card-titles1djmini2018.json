@@ -8562,7 +8562,10 @@
   },
   {
     "title": "Confirmé par le pape, Beat Grögli est le nouvel évêque de St-Gall",
-    "added_at": "2025-05-22T15:43:04.482Z"
+    "added_at": "2025-05-22T15:43:04.482Z",
+    "removed_at": "2025-05-24T06:44:17.172Z",
+    "duration_minutes": 2341,
+    "duration_str": "1d 15h 1m"
   },
   {
     "title": "Le chantier de la ligne ferroviaire AOMC entre Monthey et Collombey a démarré",
@@ -8948,5 +8951,9 @@
   {
     "title": "Ignazio Cassis demande un cessez-le-feu à Gaza",
     "added_at": "2025-05-24T06:19:41.153Z"
+  },
+  {
+    "title": "Venezuela: arrestation d'un proche de la cheffe de l'opposition à l'avant-veille des élections",
+    "added_at": "2025-05-24T06:44:17.172Z"
   }
 ]
