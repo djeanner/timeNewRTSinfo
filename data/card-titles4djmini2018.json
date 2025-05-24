@@ -12848,7 +12848,10 @@
   },
   {
     "title": "Russia launches missile and drone attacks on Ukrainian capital, hours after prisoner swap begins",
-    "added_at": "2025-05-24T07:14:25.078Z"
+    "added_at": "2025-05-24T07:14:25.078Z",
+    "removed_at": "2025-05-24T10:29:01.345Z",
+    "duration_minutes": 194,
+    "duration_str": "3h 14m"
   },
   {
     "title": "Judge rules Trump administration must work to return asylum seeker from Guatemala who was wrongfully deported",
@@ -12877,5 +12880,9 @@
   {
     "title": "Video shows explosions in Kyiv as Russia launches renewed air attacks",
     "added_at": "2025-05-24T10:10:07.293Z"
+  },
+  {
+    "title": "Russia bombards Kyiv and kills at least 13 people across Ukraine hours after prisoner swap begins",
+    "added_at": "2025-05-24T10:29:01.345Z"
   }
 ]
