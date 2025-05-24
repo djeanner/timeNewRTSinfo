@@ -9016,7 +9016,10 @@
   },
   {
     "title": "Attaque russe massive sur Kiev à l'aube d'un échange de prisonniers",
-    "added_at": "2025-05-24T07:21:59.455Z"
+    "added_at": "2025-05-24T07:21:59.455Z",
+    "removed_at": "2025-05-24T12:56:23.001Z",
+    "duration_minutes": 334,
+    "duration_str": "5h 34m"
   },
   {
     "title": "Un ballon violet géant transformé en salle de concert à Lucerne",
@@ -9134,5 +9137,9 @@
   {
     "title": "Quinze morts dans de nouvelles frappes israéliennes nocturnes sur la bande de Gaza",
     "added_at": "2025-05-24T12:39:21.140Z"
+  },
+  {
+    "title": "Attaque russe massive sur Kiev peu avant un nouvel échange de prisonniers",
+    "added_at": "2025-05-24T12:56:23.001Z"
   }
 ]
