@@ -8579,7 +8579,10 @@
   },
   {
     "title": "Le site de l'Etat du Valais victime d'une cyberattaque",
-    "added_at": "2025-05-22T15:43:04.482Z"
+    "added_at": "2025-05-22T15:43:04.482Z",
+    "removed_at": "2025-05-24T12:01:34.890Z",
+    "duration_minutes": 2658,
+    "duration_str": "1d 20h 18m"
   },
   {
     "title": "Confirmé par le pape, Beat Grögli est le nouvel évêque de St-Gall",
@@ -9085,5 +9088,9 @@
   {
     "title": "La Pride romande va déferler à Genève le samedi 7 juin",
     "added_at": "2025-05-24T11:42:40.136Z"
+  },
+  {
+    "title": "Le danger persiste à Blatten, le retour des habitants encore impossible",
+    "added_at": "2025-05-24T12:01:34.890Z"
   }
 ]
