@@ -8635,7 +8635,10 @@
   },
   {
     "title": "suisse:::La forte diminution des dons inquiète les associations caritatives",
-    "added_at": "2025-05-24T06:15:44.889Z"
+    "added_at": "2025-05-24T06:15:44.889Z",
+    "removed_at": "2025-05-24T17:57:31.852Z",
+    "duration_minutes": 701,
+    "duration_str": "11h 41m"
   },
   {
     "title": "sport:::Après son exploit face au Canada, le Danemark rêve plus grand face à la Suisse",
@@ -8715,7 +8718,10 @@
   },
   {
     "title": "culture:::Festival de Cannes, jour 12: le palmarès du «Temps», avec une Palme d’or pour l’Iranien Jafar Panahi",
-    "added_at": "2025-05-24T12:53:01.242Z"
+    "added_at": "2025-05-24T12:53:01.242Z",
+    "removed_at": "2025-05-24T18:05:18.746Z",
+    "duration_minutes": 312,
+    "duration_str": "5h 12m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – La Défense civile annonce quinze morts dans des frappes israéliennes",
@@ -8776,5 +8782,13 @@
   {
     "title": "sport:::Peter Knäbel, nouveau président de l’ASF: «Il nous faut plus de terrains de football»",
     "added_at": "2025-05-24T17:32:13.501Z"
+  },
+  {
+    "title": "culture:::Festival de Cannes: la Palme d’or revient à «Un simple accident», grand film politique de Jafar Panahi",
+    "added_at": "2025-05-24T17:43:56.414Z"
+  },
+  {
+    "title": "suisse:::Harvard versus Donald Trump, vu par des Suisses: «Ce sera un combat de titans»",
+    "added_at": "2025-05-24T17:57:31.852Z"
   }
 ]

@@ -11418,7 +11418,10 @@
   },
   {
     "title": "Un Norvégien dort paisiblement pendant qu'un cargo s'échoue dans son jardin",
-    "added_at": "2025-05-22T13:31:17.568Z"
+    "added_at": "2025-05-22T13:31:17.568Z",
+    "removed_at": "2025-05-24T18:22:43.950Z",
+    "duration_minutes": 3171,
+    "duration_str": "2d 4h 51m"
   },
   {
     "title": "A Lausanne, les instruments à cordes sont à l'honneur du Creative Strings Festival",
@@ -11930,7 +11933,10 @@
   },
   {
     "title": "Qui décrochera la Palme d'or 2025 au Festival de Cannes?",
-    "added_at": "2025-05-24T08:37:06.319Z"
+    "added_at": "2025-05-24T08:37:06.319Z",
+    "removed_at": "2025-05-24T17:53:40.544Z",
+    "duration_minutes": 556,
+    "duration_str": "9h 16m"
   },
   {
     "title": "Une vague de \"crypto kidnappings\" touche la France",
@@ -12081,5 +12087,9 @@
   {
     "title": "En France, des détenteurs de cryptomonnaies visés par des tentatives d'enlèvements",
     "added_at": "2025-05-24T17:20:36.210Z"
+  },
+  {
+    "title": "Le cinéaste iranien Jafar Panahi reçoit la Palme d'or pour son film \"Un simple accident\"",
+    "added_at": "2025-05-24T17:53:40.544Z"
   }
 ]
