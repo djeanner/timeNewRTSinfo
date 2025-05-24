@@ -6857,7 +6857,10 @@
   },
   {
     "title": "sport:::Après son exploit face au Canada, le Danemark rêve plus grand face à la Suisse",
-    "added_at": "2025-05-24T07:33:19.460Z"
+    "added_at": "2025-05-24T07:33:19.460Z",
+    "removed_at": "2025-05-24T16:48:42.503Z",
+    "duration_minutes": 555,
+    "duration_str": "9h 15m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky appelle à plus de sanctions contre Moscou après une attaque russe massive sur Kiev",
@@ -6965,10 +6968,17 @@
   },
   {
     "title": "monde:::Le Conseil de l’Europe refuse d’affaiblir la Convention des droits de l’homme",
-    "added_at": "2025-05-24T15:33:09.247Z"
+    "added_at": "2025-05-24T15:33:09.247Z",
+    "removed_at": "2025-05-24T16:44:58.785Z",
+    "duration_minutes": 71,
+    "duration_str": "1h 11m"
   },
   {
     "title": "culture:::Michel Houellebecq, la morale et Fatima Hassouna",
     "added_at": "2025-05-24T16:10:57.816Z"
+  },
+  {
+    "title": "sport:::Novak Djokovic remporte le Geneva Open et avec lui le centième titre ATP de sa carrière",
+    "added_at": "2025-05-24T16:44:58.785Z"
   }
 ]
