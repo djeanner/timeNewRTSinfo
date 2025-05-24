@@ -5777,7 +5777,10 @@
   },
   {
     "title": "LIVE: Barcelona vs Arsenal – UEFA Women’s Champions League final",
-    "added_at": "2025-05-24T13:05:49.852Z"
+    "added_at": "2025-05-24T13:05:49.852Z",
+    "removed_at": "2025-05-24T19:06:43.531Z",
+    "duration_minutes": 360,
+    "duration_str": "6h"
   },
   {
     "title": "Arson attack probed as Cannes and parts of southern France suffer power cut",
@@ -5819,5 +5822,9 @@
   {
     "title": "Families of Israeli captives criticise Netanyahu amid large protests",
     "added_at": "2025-05-24T18:49:42.557Z"
+  },
+  {
+    "title": "Arsenal stun Barcelona to win the Women’s Champions League",
+    "added_at": "2025-05-24T19:06:43.531Z"
   }
 ]
