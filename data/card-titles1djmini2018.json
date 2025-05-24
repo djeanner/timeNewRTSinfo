@@ -9146,7 +9146,10 @@
   },
   {
     "title": "Importante panne d'électricité à Cannes et dans ses environs",
-    "added_at": "2025-05-24T12:20:24.195Z"
+    "added_at": "2025-05-24T12:20:24.195Z",
+    "removed_at": "2025-05-24T16:10:57.763Z",
+    "duration_minutes": 230,
+    "duration_str": "3h 50m"
   },
   {
     "title": "Attaque au couteau à Hambourg: 18 blessés, la suspecte souffrirait de troubles mentaux",
@@ -9179,5 +9182,9 @@
   {
     "title": "Plus de 8 millions de Syriens étaient recherchés par les services de renseignement et de sécurité d'Assad",
     "added_at": "2025-05-24T15:42:38.589Z"
+  },
+  {
+    "title": "Un sabotage a privé d'électricité 160'000 foyers dans la région de Cannes pendant la journée",
+    "added_at": "2025-05-24T16:10:57.763Z"
   }
 ]

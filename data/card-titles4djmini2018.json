@@ -13066,7 +13066,10 @@
   },
   {
     "title": "X is down for thousands of users",
-    "added_at": "2025-05-24T14:00:39.487Z"
+    "added_at": "2025-05-24T14:00:39.487Z",
+    "removed_at": "2025-05-24T16:05:19.403Z",
+    "duration_minutes": 124,
+    "duration_str": "2h 4m"
   },
   {
     "title": "Trump addresses service academy graduates at West Point",
@@ -13093,5 +13096,16 @@
   {
     "title": "Trump brings multiple West Point graduates onstage during commencement address",
     "added_at": "2025-05-24T15:59:37.963Z"
+  },
+  {
+    "title": "X temporarily down for thousands of users",
+    "added_at": "2025-05-24T16:05:19.403Z",
+    "removed_at": "2025-05-24T16:16:37.321Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "Sunderland secures promotion to Premier League after winning ‘most valuable match’ in soccer with injury-time winner",
+    "added_at": "2025-05-24T16:16:37.321Z"
   }
 ]
