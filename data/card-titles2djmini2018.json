@@ -6778,7 +6778,10 @@
   },
   {
     "title": "monde:::Dix-sept blessés dans une attaque au couteau à la gare de Hambourg",
-    "added_at": "2025-05-24T05:26:51.236Z"
+    "added_at": "2025-05-24T05:26:51.236Z",
+    "removed_at": "2025-05-24T06:15:58.152Z",
+    "duration_minutes": 49,
+    "duration_str": "49m"
   },
   {
     "title": "monde:::Guerre en Ukraine – Attaque russe massive sur Kiev à l'aube d'un deuxième échange de prisonniers",
@@ -6787,5 +6790,9 @@
   {
     "title": "economie:::Boeing évite les poursuites pénales aux Etats-Unis après un accord sur les crashes des 737 MAX",
     "added_at": "2025-05-24T06:06:28.231Z"
+  },
+  {
+    "title": "suisse:::La forte diminution des dons inquiète les associations caritatives",
+    "added_at": "2025-05-24T06:15:58.152Z"
   }
 ]
