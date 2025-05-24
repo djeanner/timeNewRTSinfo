@@ -8217,7 +8217,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z"
+    "added_at": "2025-05-22T18:01:52.008Z",
+    "removed_at": "2025-05-24T08:27:25.837Z",
+    "duration_minutes": 2305,
+    "duration_str": "1d 14h 25m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -8585,11 +8588,17 @@
   },
   {
     "title": "monde:::Guerre en Ukraine – Attaque russe massive sur Kiev à l'aube d'un deuxième échange de prisonniers",
-    "added_at": "2025-05-24T05:29:13.661Z"
+    "added_at": "2025-05-24T05:29:13.661Z",
+    "removed_at": "2025-05-24T08:21:36.478Z",
+    "duration_minutes": 172,
+    "duration_str": "2h 52m"
   },
   {
     "title": "economie:::Boeing évite les poursuites pénales aux Etats-Unis après un accord sur les crashes des 737 MAX",
-    "added_at": "2025-05-24T06:07:50.470Z"
+    "added_at": "2025-05-24T06:07:50.470Z",
+    "removed_at": "2025-05-24T08:23:36.214Z",
+    "duration_minutes": 135,
+    "duration_str": "2h 15m"
   },
   {
     "title": "suisse:::La forte diminution des dons inquiète les associations caritatives",
@@ -8598,5 +8607,20 @@
   {
     "title": "sport:::Après son exploit face au Canada, le Danemark rêve plus grand face à la Suisse",
     "added_at": "2025-05-24T07:35:06.511Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Volodymyr Zelensky appelle à plus de sanctions contre Moscou après une attaque russe massive sur Kiev",
+    "added_at": "2025-05-24T08:21:36.478Z",
+    "removed_at": "2025-05-24T08:23:36.214Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "culture:::Les festivals de musique deviennent des paradis pour les VIP",
+    "added_at": "2025-05-24T08:23:36.214Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky appelle à plus de sanctions contre Moscou après une attaque russe massive sur Kiev",
+    "added_at": "2025-05-24T08:23:36.214Z"
   }
 ]
