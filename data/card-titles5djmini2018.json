@@ -29,14 +29,14 @@
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-24T00:26:52.508Z",
-    "duration_minutes": 20965,
-    "duration_str": "14d 13h 25m"
+    "added_at": "2025-05-09T11:01:45.077Z"
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-24T00:30:44.039Z",
+    "duration_minutes": 20968,
+    "duration_str": "14d 13h 28m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -9167,9 +9167,9 @@
   {
     "title": "Les drones de combat exacerbent la violence dans un Soudan en pleine guerre civile",
     "added_at": "2025-05-16T07:55:52.133Z",
-    "removed_at": "2025-05-24T00:26:52.508Z",
-    "duration_minutes": 11071,
-    "duration_str": "7d 16h 31m"
+    "removed_at": "2025-05-24T00:42:01.887Z",
+    "duration_minutes": 11086,
+    "duration_str": "7d 16h 46m"
   },
   {
     "title": "L’armée israélienne continue de bombarder la bande de Gaza, plus de 50 personnes tuées, selon la défense civile palestinienne",
@@ -15450,9 +15450,9 @@
   {
     "title": "« L’économie française se rapproche dangereusement du bord de la falaise »",
     "added_at": "2025-05-22T13:07:54.283Z",
-    "removed_at": "2025-05-24T00:26:52.508Z",
-    "duration_minutes": 2118,
-    "duration_str": "1d 11h 18m"
+    "removed_at": "2025-05-24T00:42:01.887Z",
+    "duration_minutes": 2134,
+    "duration_str": "1d 11h 34m"
   },
   {
     "title": "Dans « Love Me Tender », présenté à Cannes, Vicky Krieps au tribunal de l’amour maternel",
@@ -15639,10 +15639,7 @@
   },
   {
     "title": "« Avec Donald Trump, la paix au Moyen-Orient passe par le contrat commercial, et rien d’autre »",
-    "added_at": "2025-05-22T15:26:04.442Z",
-    "removed_at": "2025-05-24T00:21:13.804Z",
-    "duration_minutes": 1975,
-    "duration_str": "1d 8h 55m"
+    "added_at": "2025-05-22T15:26:04.442Z"
   },
   {
     "title": "Donald Trump et les cryptomonnaies : de lourds soupçons de conflits d’intérêts",
@@ -16172,7 +16169,10 @@
   },
   {
     "title": "« Il y a tellement d’argent lié aux trafics de stupéfiants qu’on se retrouve avec toute une kyrielle d’activités criminelles »",
-    "added_at": "2025-05-23T05:09:06.867Z"
+    "added_at": "2025-05-23T05:09:06.867Z",
+    "removed_at": "2025-05-24T00:43:51.506Z",
+    "duration_minutes": 1174,
+    "duration_str": "19h 34m"
   },
   {
     "title": "Dans une bande de Gaza en ruines, près de 2,1 millions de personnes sont « en danger de mort imminente », alerte l’OMS",
@@ -16583,10 +16583,7 @@
   },
   {
     "title": "Un homme d’Eglise, un ambulancier, un professeur de musique... 55 hommes arrêtés en France après dix mois d’enquête sur un réseau de pédocriminalité",
-    "added_at": "2025-05-23T12:53:51.631Z",
-    "removed_at": "2025-05-24T00:26:52.508Z",
-    "duration_minutes": 693,
-    "duration_str": "11h 33m"
+    "added_at": "2025-05-23T12:53:51.631Z"
   },
   {
     "title": "Israël-Palestine : trois livres pour éclairer les causes de l’interminable tragédie du peuple palestinien",
@@ -16830,9 +16827,9 @@
   {
     "title": "« Les Français lisent beaucoup moins, on prédit la mort de la littérature, et tout le monde s’en fiche »",
     "added_at": "2025-05-23T16:00:56.748Z",
-    "removed_at": "2025-05-24T00:25:02.790Z",
-    "duration_minutes": 504,
-    "duration_str": "8h 24m"
+    "removed_at": "2025-05-24T00:40:06.314Z",
+    "duration_minutes": 519,
+    "duration_str": "8h 39m"
   },
   {
     "title": "« Elles ont volé une poule ce matin, chez les voisins. Mais pour quoi faire, putain, pour quoi faire ? »",
@@ -17085,7 +17082,10 @@
   },
   {
     "title": "Guerre en Ukraine : la capitale Kiev, visée par une attaque de drones et de missiles, active ses défenses aériennes, rapporte son maire",
-    "added_at": "2025-05-23T23:05:51.821Z"
+    "added_at": "2025-05-23T23:05:51.821Z",
+    "removed_at": "2025-05-24T00:43:51.506Z",
+    "duration_minutes": 97,
+    "duration_str": "1h 37m"
   },
   {
     "title": "A l’ONU, la France et l’Arabie saoudite demandent des « actes » vers la solution à deux Etats",
@@ -17097,5 +17097,9 @@
   {
     "title": "Guerre à Gaza : à l’ONU, la France et l’Arabie saoudite demandent des « actes » vers la solution à deux Etats, israélien et palestinien",
     "added_at": "2025-05-24T00:15:34.734Z"
+  },
+  {
+    "title": "Guerre en Ukraine : visée par une attaque de drones et de missiles, la capitale Kiev active ses défenses aériennes, rapporte son maire",
+    "added_at": "2025-05-24T00:43:51.506Z"
   }
 ]
