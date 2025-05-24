@@ -6672,7 +6672,10 @@
   },
   {
     "title": "suisse:::A Blatten, un éboulement massif est désormais peu probable",
-    "added_at": "2025-05-23T14:45:18.869Z"
+    "added_at": "2025-05-23T14:45:18.869Z",
+    "removed_at": "2025-05-24T10:53:37.195Z",
+    "duration_minutes": 1208,
+    "duration_str": "20h 8m"
   },
   {
     "title": "economie:::Chez Groupe E, un départ qui traduit les difficultés des gestionnaires du réseau",
@@ -6729,10 +6732,7 @@
   },
   {
     "title": "economie:::Guerre commerciale: Donald Trump profère de nouvelles menaces et les relations entre UE et Etats-Unis s’enveniment",
-    "added_at": "2025-05-23T17:33:28.294Z",
-    "removed_at": "2025-05-24T09:17:16.914Z",
-    "duration_minutes": 943,
-    "duration_str": "15h 43m"
+    "added_at": "2025-05-23T17:33:28.294Z"
   },
   {
     "title": "sport:::Finaliste du Geneva Open, Novak Djokovic est à une victoire de son 100e titre ATP",
@@ -6861,5 +6861,9 @@
   {
     "title": "suisse:::Une «panne majeure» de courant a touché plusieurs quartiers de la ville de Berne",
     "added_at": "2025-05-24T10:23:21.333Z"
+  },
+  {
+    "title": "culture:::Féministe et politique, «Le Cantonnement» est le premier roman éblouissant de la poétesse du Cap Ronelda S. Kamfer",
+    "added_at": "2025-05-24T10:53:37.195Z"
   }
 ]
