@@ -8352,7 +8352,10 @@
   },
   {
     "title": "Deux employés de l'ambassade d'Israël tués près du musée juif de Washington",
-    "added_at": "2025-05-22T04:32:15.045Z"
+    "added_at": "2025-05-22T04:32:15.045Z",
+    "removed_at": "2025-05-24T09:19:06.776Z",
+    "duration_minutes": 3166,
+    "duration_str": "2d 4h 46m"
   },
   {
     "title": "Abus au Pérou: le combat de deux journalistes et l’espoir placé en Léon XIV",
@@ -8455,7 +8458,10 @@
   },
   {
     "title": "Décarbonation: la Suisse devrait multiplier par 80 sa capacité éolienne et par 4 sa production photovoltaïque",
-    "added_at": "2025-05-22T11:57:59.390Z"
+    "added_at": "2025-05-22T11:57:59.390Z",
+    "removed_at": "2025-05-24T09:30:25.449Z",
+    "duration_minutes": 2732,
+    "duration_str": "1d 21h 32m"
   },
   {
     "title": "A Genève, le Musée Rath célèbre le centenaire de Jean Tinguely avec sculptures et dessins",
@@ -8998,5 +9004,9 @@
   {
     "title": "Le nord de l'Europe frappé par une sécheresse exceptionnelle",
     "added_at": "2025-05-24T08:54:33.633Z"
+  },
+  {
+    "title": "Genève accueillera la Marche romande des fiertés LGBTIQ+ le 7 juin",
+    "added_at": "2025-05-24T09:30:25.449Z"
   }
 ]
