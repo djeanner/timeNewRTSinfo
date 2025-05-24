@@ -29,14 +29,17 @@
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-24T09:47:25.588Z",
+    "duration_minutes": 21525,
+    "duration_str": "14d 22h 45m"
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
     "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-24T09:21:01.177Z",
-    "duration_minutes": 21499,
-    "duration_str": "14d 22h 19m"
+    "removed_at": "2025-05-24T09:41:46.847Z",
+    "duration_minutes": 21520,
+    "duration_str": "14d 22h 40m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -317,10 +320,7 @@
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T11:11:38.599Z",
-    "removed_at": "2025-05-24T09:26:40.650Z",
-    "duration_minutes": 21495,
-    "duration_str": "14d 22h 15m"
+    "added_at": "2025-05-09T11:11:38.599Z"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -15455,7 +15455,10 @@
   },
   {
     "title": "« L’économie française se rapproche dangereusement du bord de la falaise »",
-    "added_at": "2025-05-22T13:07:54.283Z"
+    "added_at": "2025-05-22T13:07:54.283Z",
+    "removed_at": "2025-05-24T09:43:40.479Z",
+    "duration_minutes": 2675,
+    "duration_str": "1d 20h 35m"
   },
   {
     "title": "Dans « Love Me Tender », présenté à Cannes, Vicky Krieps au tribunal de l’amour maternel",
@@ -15480,10 +15483,7 @@
   },
   {
     "title": "La vie d’après d’une « fulgurée », qui a survécu à la foudre : « Je témoigne pour que de prochains se sentent moins seuls »",
-    "added_at": "2025-05-22T13:34:21.222Z",
-    "removed_at": "2025-05-24T09:30:26.083Z",
-    "duration_minutes": 2636,
-    "duration_str": "1d 19h 56m"
+    "added_at": "2025-05-22T13:34:21.222Z"
   },
   {
     "title": "Entre la France et Israël, une relation de plus en plus glaciale",
@@ -15646,9 +15646,9 @@
   {
     "title": "« Avec Donald Trump, la paix au Moyen-Orient passe par le contrat commercial, et rien d’autre »",
     "added_at": "2025-05-22T15:26:04.442Z",
-    "removed_at": "2025-05-24T09:28:36.339Z",
-    "duration_minutes": 2522,
-    "duration_str": "1d 18h 2m"
+    "removed_at": "2025-05-24T09:47:25.588Z",
+    "duration_minutes": 2541,
+    "duration_str": "1d 18h 21m"
   },
   {
     "title": "Donald Trump et les cryptomonnaies : de lourds soupçons de conflits d’intérêts",
@@ -16438,9 +16438,9 @@
   {
     "title": "Un gynécologue devant la justice, accusé de viols par 92 femmes : une affaire d’une ampleur exceptionnelle et beaucoup d’interrogations",
     "added_at": "2025-05-23T08:50:02.100Z",
-    "removed_at": "2025-05-24T09:26:40.650Z",
-    "duration_minutes": 1476,
-    "duration_str": "1d 36m"
+    "removed_at": "2025-05-24T09:47:25.588Z",
+    "duration_minutes": 1497,
+    "duration_str": "1d 57m"
   },
   {
     "title": "Dans le secteur automobile, un dialogue impossible entre acteur français et allemand sur les normes et le « contenu local » des voitures",
@@ -16857,9 +16857,9 @@
   {
     "title": "« Les Français lisent beaucoup moins, on prédit la mort de la littérature, et tout le monde s’en fiche »",
     "added_at": "2025-05-23T16:00:56.748Z",
-    "removed_at": "2025-05-24T09:30:26.083Z",
-    "duration_minutes": 1049,
-    "duration_str": "17h 29m"
+    "removed_at": "2025-05-24T09:45:36.052Z",
+    "duration_minutes": 1064,
+    "duration_str": "17h 44m"
   },
   {
     "title": "« Elles ont volé une poule ce matin, chez les voisins. Mais pour quoi faire, putain, pour quoi faire ? »",
@@ -17550,5 +17550,9 @@
     "removed_at": "2025-05-24T09:19:07.395Z",
     "duration_minutes": 1,
     "duration_str": "1m"
+  },
+  {
+    "title": "L’inquiétante dérive budgétaire américaine",
+    "added_at": "2025-05-24T09:41:46.847Z"
   }
 ]
