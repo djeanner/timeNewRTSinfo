@@ -9175,7 +9175,10 @@
   },
   {
     "title": "Quinze morts dans de nouvelles frappes israéliennes nocturnes sur la bande de Gaza",
-    "added_at": "2025-05-24T12:39:21.140Z"
+    "added_at": "2025-05-24T12:39:21.140Z",
+    "removed_at": "2025-05-24T20:46:36.137Z",
+    "duration_minutes": 487,
+    "duration_str": "8h 7m"
   },
   {
     "title": "Attaque russe massive sur Kiev peu avant un nouvel échange de prisonniers",
@@ -9199,7 +9202,10 @@
   },
   {
     "title": "Plus de 8 millions de Syriens étaient recherchés par les services de renseignement et de sécurité d'Assad",
-    "added_at": "2025-05-24T15:42:38.589Z"
+    "added_at": "2025-05-24T15:42:38.589Z",
+    "removed_at": "2025-05-24T20:40:57.102Z",
+    "duration_minutes": 298,
+    "duration_str": "4h 58m"
   },
   {
     "title": "Un sabotage a privé d'électricité 160'000 foyers dans la région de Cannes pendant la journée",
@@ -9232,5 +9238,13 @@
   {
     "title": "Une mosaïque romaine de 14 tonnes extraite en un seul morceau à Avenches",
     "added_at": "2025-05-24T20:23:59.603Z"
+  },
+  {
+    "title": "Plus de 8 millions de Syriens étaient recherchés par les services de renseignement de Bachar al-Assad",
+    "added_at": "2025-05-24T20:40:57.102Z"
+  },
+  {
+    "title": "Quinze morts dans de nouveaux bombardements israéliens sur la bande de Gaza",
+    "added_at": "2025-05-24T20:46:36.137Z"
   }
 ]
