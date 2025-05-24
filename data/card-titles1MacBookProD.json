@@ -11471,7 +11471,10 @@
   },
   {
     "title": "Plus de 600'000 véhicules circulent sans expertise valable en Suisse",
-    "added_at": "2025-05-22T15:19:17.760Z"
+    "added_at": "2025-05-22T15:19:17.760Z",
+    "removed_at": "2025-05-24T20:22:57.673Z",
+    "duration_minutes": 3183,
+    "duration_str": "2d 5h 3m"
   },
   {
     "title": "Le site de l'Etat du Valais victime d'une cyberattaque",
@@ -11556,10 +11559,7 @@
   },
   {
     "title": "En Suisse, les salariés de plus en plus souvent en vacances ou absents pour maladie",
-    "added_at": "2025-05-22T19:50:21.595Z",
-    "removed_at": "2025-05-24T14:45:26.101Z",
-    "duration_minutes": 2575,
-    "duration_str": "1d 18h 55m"
+    "added_at": "2025-05-22T19:50:21.595Z"
   },
   {
     "title": "Exercice de sécurité géant au Stade de Genève avant l'Euro féminin",
@@ -11636,7 +11636,10 @@
   },
   {
     "title": "Rolf Iseli, l'un des doyens de l'art suisse, expose ses derniers travaux à Neuchâtel",
-    "added_at": "2025-05-23T07:26:51.789Z"
+    "added_at": "2025-05-23T07:26:51.789Z",
+    "removed_at": "2025-05-24T20:24:57.189Z",
+    "duration_minutes": 2218,
+    "duration_str": "1d 12h 58m"
   },
   {
     "title": "\"Pantouflage pharma\": derrière ce nom, Public Eye dénonce les liens étroits entre l’industrie et la santé",
@@ -12063,7 +12066,10 @@
   },
   {
     "title": "Quinze morts dans de nouvelles frappes israéliennes nocturnes sur la bande de Gaza",
-    "added_at": "2025-05-24T12:39:32.742Z"
+    "added_at": "2025-05-24T12:39:32.742Z",
+    "removed_at": "2025-05-24T20:46:11.005Z",
+    "duration_minutes": 486,
+    "duration_str": "8h 6m"
   },
   {
     "title": "Attaque russe massive sur Kiev peu avant un nouvel échange de prisonniers",
@@ -12087,7 +12093,10 @@
   },
   {
     "title": "Plus de 8 millions de Syriens étaient recherchés par les services de renseignement et de sécurité d'Assad",
-    "added_at": "2025-05-24T15:43:36.773Z"
+    "added_at": "2025-05-24T15:43:36.773Z",
+    "removed_at": "2025-05-24T20:40:22.498Z",
+    "duration_minutes": 296,
+    "duration_str": "4h 56m"
   },
   {
     "title": "Un sabotage a privé d'électricité 160'000 foyers dans la région de Cannes pendant la journée",
@@ -12116,5 +12125,17 @@
   {
     "title": "Les Grenat sont vice-champions de Suisse",
     "added_at": "2025-05-24T19:46:04.053Z"
+  },
+  {
+    "title": "Une mosaïque romaine de 14 tonnes extraite en un seul morceau à Avenches",
+    "added_at": "2025-05-24T20:24:57.189Z"
+  },
+  {
+    "title": "Plus de 8 millions de Syriens étaient recherchés par les services de renseignement de Bachar al-Assad",
+    "added_at": "2025-05-24T20:40:22.498Z"
+  },
+  {
+    "title": "Quinze morts dans de nouveaux bombardements israéliens sur la bande de Gaza",
+    "added_at": "2025-05-24T20:46:11.005Z"
   }
 ]
