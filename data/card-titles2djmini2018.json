@@ -6752,7 +6752,10 @@
   },
   {
     "title": "culture:::Festival de Cannes, jour 11: Cate Blanchett, une bonne féé pour les cinéastes déplacés",
-    "added_at": "2025-05-23T18:35:52.611Z"
+    "added_at": "2025-05-23T18:35:52.611Z",
+    "removed_at": "2025-05-24T09:11:35.481Z",
+    "duration_minutes": 875,
+    "duration_str": "14h 35m"
   },
   {
     "title": "monde:::Au procès Kardashian, les «papys braqueurs» sont condamnés",
@@ -6788,7 +6791,10 @@
   },
   {
     "title": "monde:::En direct – «L’aide humanitaire est un devoir»: Ignazio Cassis rappelle la position du Conseil fédéral sur le conflit à Gaza",
-    "added_at": "2025-05-24T05:15:31.378Z"
+    "added_at": "2025-05-24T05:15:31.378Z",
+    "removed_at": "2025-05-24T09:13:25.229Z",
+    "duration_minutes": 237,
+    "duration_str": "3h 57m"
   },
   {
     "title": "monde:::La diplomatie pontificale, l’art de la médiation «sans canons»",
@@ -6830,5 +6836,9 @@
   {
     "title": "culture:::Les festivals de musique deviennent des paradis pour les VIP",
     "added_at": "2025-05-24T08:24:19.587Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – La Défense civile annonce six morts dans des frappes israéliennes",
+    "added_at": "2025-05-24T09:13:25.229Z"
   }
 ]
