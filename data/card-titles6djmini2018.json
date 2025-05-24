@@ -5775,7 +5775,10 @@
   },
   {
     "title": "Arson attack probed as Cannes and parts of southern France suffer power cut",
-    "added_at": "2025-05-24T13:24:44.210Z"
+    "added_at": "2025-05-24T13:24:44.210Z",
+    "removed_at": "2025-05-24T14:34:39.002Z",
+    "duration_minutes": 69,
+    "duration_str": "1h 9m"
   },
   {
     "title": "South Lebanon votes in municipal election seen as test of Hezbollah support",
@@ -5784,5 +5787,9 @@
   {
     "title": "Syria’s al-Sharaa meets Erdogan in Turkiye as sanctions lifted",
     "added_at": "2025-05-24T13:55:00.408Z"
+  },
+  {
+    "title": "Australia begins cleanup after floods kill 5, strand thousands",
+    "added_at": "2025-05-24T14:34:39.002Z"
   }
 ]
