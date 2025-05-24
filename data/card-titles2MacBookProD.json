@@ -8667,7 +8667,10 @@
   },
   {
     "title": "suisse:::Une «panne majeure» de courant a touché plusieurs quartiers de la ville de Berne",
-    "added_at": "2025-05-24T10:23:45.633Z"
+    "added_at": "2025-05-24T10:23:45.633Z",
+    "removed_at": "2025-05-24T13:47:18.177Z",
+    "duration_minutes": 203,
+    "duration_str": "3h 23m"
   },
   {
     "title": "culture:::Féministe et politique, «Le Cantonnement» est le premier roman éblouissant de la poétesse du Cap Ronelda S. Kamfer",
@@ -8699,5 +8702,13 @@
   {
     "title": "monde:::En direct, Moyen-Orient – La Défense civile annonce quinze morts dans des frappes israéliennes",
     "added_at": "2025-05-24T12:56:56.883Z"
+  },
+  {
+    "title": "suisse:::Albert Rösti rejette l’idée d’un fonds pour les catastrophes naturelles",
+    "added_at": "2025-05-24T13:47:18.177Z"
+  },
+  {
+    "title": "sciences:::Des chercheurs exhument des techniques oubliées pour repenser notre avenir",
+    "added_at": "2025-05-24T14:00:52.799Z"
   }
 ]
