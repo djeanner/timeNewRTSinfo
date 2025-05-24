@@ -46,8 +46,9 @@
   {
     "title": "Attaque russe massive sur Kiev à l'aube d'un échange de prisonniers",
     "added_at": "2025-05-24T07:21:33.258Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-24T12:56:56.851Z",
+    "duration_minutes": 335,
+    "duration_str": "5h 35m"
   },
   {
     "title": "Un ballon violet géant transformé en salle de concert à Lucerne",
@@ -89,15 +90,16 @@
   {
     "title": "Genève accueillera la Marche romande des fiertés LGBTQIA+ le 7 juin",
     "added_at": "2025-05-24T09:54:45.961Z",
-    "removed_at": "2025-05-24T11:43:17.165Z",
-    "duration_minutes": 109,
-    "duration_str": "1h 49m"
+    "removed_at": "2025-05-24T11:42:40.136Z",
+    "duration_minutes": 108,
+    "duration_str": "1h 48m"
   },
   {
     "title": "Six morts dans de nouvelles frappes israéliennes nocturnes sur la bande de Gaza",
     "added_at": "2025-05-24T10:10:06.637Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-24T12:39:32.742Z",
+    "duration_minutes": 149,
+    "duration_str": "2h 29m"
   },
   {
     "title": "La Confédération priée d’enquêter sur une fondation genevoise qui dit distribuer de l’aide humanitaire à Gaza: interview de Philip Grant",
@@ -153,19 +155,20 @@
   {
     "title": "Au moins 18 blessés dans une attaque au couteau à la gare d'Hambourg, la suspecte atteinte de troubles mentaux",
     "added_at": "2025-05-24T11:21:55.620Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-24T12:43:21.157Z",
+    "duration_minutes": 81,
+    "duration_str": "1h 21m"
   },
   {
     "title": "La Pride romande va déferler à Genève le samedi 7 juin",
-    "added_at": "2025-05-24T11:43:17.165Z",
+    "added_at": "2025-05-24T11:42:40.136Z",
     "removed_at": "2025-05-24T12:16:13.567Z",
-    "duration_minutes": 33,
-    "duration_str": "33m"
+    "duration_minutes": 34,
+    "duration_str": "34m"
   },
   {
     "title": "Le danger persiste à Blatten, le retour des habitants encore impossible",
-    "added_at": "2025-05-24T12:02:38.928Z",
+    "added_at": "2025-05-24T12:01:34.890Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -178,6 +181,36 @@
   {
     "title": "La Marche romande des fiertés LGBTQIA+ va déferler à Genève le samedi 7 juin",
     "added_at": "2025-05-24T12:16:13.567Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Importante panne d'électricité à Cannes et dans ses environs",
+    "added_at": "2025-05-24T12:20:10.535Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Le village de Blatten (VS) reste menacé par la montagne",
+    "added_at": "2025-05-24T12:20:10.535Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Attaque au couteau à Hambourg: 18 blessés, la suspecte souffrirait de troubles mentaux",
+    "added_at": "2025-05-24T12:39:32.742Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Quinze morts dans de nouvelles frappes israéliennes nocturnes sur la bande de Gaza",
+    "added_at": "2025-05-24T12:39:32.742Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Attaque russe massive sur Kiev peu avant un nouvel échange de prisonniers",
+    "added_at": "2025-05-24T12:56:56.851Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
