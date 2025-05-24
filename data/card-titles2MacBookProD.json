@@ -8635,14 +8635,14 @@
   },
   {
     "title": "suisse:::La forte diminution des dons inquiète les associations caritatives",
-    "added_at": "2025-05-24T06:15:44.889Z",
-    "removed_at": "2025-05-24T15:31:58.952Z",
-    "duration_minutes": 556,
-    "duration_str": "9h 16m"
+    "added_at": "2025-05-24T06:15:44.889Z"
   },
   {
     "title": "sport:::Après son exploit face au Canada, le Danemark rêve plus grand face à la Suisse",
-    "added_at": "2025-05-24T07:35:06.511Z"
+    "added_at": "2025-05-24T07:35:06.511Z",
+    "removed_at": "2025-05-24T16:47:40.967Z",
+    "duration_minutes": 552,
+    "duration_str": "9h 12m"
   },
   {
     "title": "monde:::Guerre en Ukraine – Volodymyr Zelensky appelle à plus de sanctions contre Moscou après une attaque russe massive sur Kiev",
@@ -8737,7 +8737,10 @@
   },
   {
     "title": "culture:::Tyler Mitchell, photographe: «La ségrégation entre art et mode ne m’intéresse pas»",
-    "added_at": "2025-05-24T14:18:24.158Z"
+    "added_at": "2025-05-24T14:18:24.158Z",
+    "removed_at": "2025-05-24T17:32:13.501Z",
+    "duration_minutes": 193,
+    "duration_str": "3h 13m"
   },
   {
     "title": "economie:::Transmettre ou disparaître: le cri d’alerte des entreprises dans le monde de la construction",
@@ -8757,10 +8760,21 @@
   },
   {
     "title": "monde:::Le Conseil de l’Europe refuse d’affaiblir la Convention des droits de l’homme",
-    "added_at": "2025-05-24T15:31:58.952Z"
+    "added_at": "2025-05-24T15:31:58.952Z",
+    "removed_at": "2025-05-24T16:43:50.162Z",
+    "duration_minutes": 71,
+    "duration_str": "1h 11m"
   },
   {
     "title": "culture:::Michel Houellebecq, la morale et Fatima Hassouna",
     "added_at": "2025-05-24T16:12:44.845Z"
+  },
+  {
+    "title": "sport:::Novak Djokovic remporte le Geneva Open et avec lui le centième titre ATP de sa carrière",
+    "added_at": "2025-05-24T16:43:50.162Z"
+  },
+  {
+    "title": "sport:::Peter Knäbel, nouveau président de l’ASF: «Il nous faut plus de terrains de football»",
+    "added_at": "2025-05-24T17:32:13.501Z"
   }
 ]

@@ -43,15 +43,15 @@
   {
     "title": "suisse:::La forte diminution des dons inquiète les associations caritatives",
     "added_at": "2025-05-24T06:15:44.889Z",
-    "removed_at": "2025-05-24T15:31:19.316Z",
-    "duration_minutes": 556,
-    "duration_str": "9h 16m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "sport:::Après son exploit face au Canada, le Danemark rêve plus grand face à la Suisse",
     "added_at": "2025-05-24T07:33:19.460Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-24T16:47:40.967Z",
+    "duration_minutes": 554,
+    "duration_str": "9h 14m"
   },
   {
     "title": "monde:::Guerre en Ukraine – Volodymyr Zelensky appelle à plus de sanctions contre Moscou après une attaque russe massive sur Kiev",
@@ -161,8 +161,9 @@
   {
     "title": "culture:::Tyler Mitchell, photographe: «La ségrégation entre art et mode ne m’intéresse pas»",
     "added_at": "2025-05-24T14:17:38.460Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-24T17:32:13.501Z",
+    "duration_minutes": 195,
+    "duration_str": "3h 15m"
   },
   {
     "title": "economie:::Transmettre ou disparaître: le cri d’alerte des entreprises dans le monde de la construction",
@@ -191,12 +192,25 @@
   {
     "title": "monde:::Le Conseil de l’Europe refuse d’affaiblir la Convention des droits de l’homme",
     "added_at": "2025-05-24T15:31:58.952Z",
+    "removed_at": "2025-05-24T16:43:50.162Z",
+    "duration_minutes": 72,
+    "duration_str": "1h 12m"
+  },
+  {
+    "title": "culture:::Michel Houellebecq, la morale et Fatima Hassouna",
+    "added_at": "2025-05-24T16:10:57.816Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
-    "title": "culture:::Michel Houellebecq, la morale et Fatima Hassouna",
-    "added_at": "2025-05-24T16:12:44.845Z",
+    "title": "sport:::Novak Djokovic remporte le Geneva Open et avec lui le centième titre ATP de sa carrière",
+    "added_at": "2025-05-24T16:43:50.162Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "sport:::Peter Knäbel, nouveau président de l’ASF: «Il nous faut plus de terrains de football»",
+    "added_at": "2025-05-24T17:32:13.501Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
