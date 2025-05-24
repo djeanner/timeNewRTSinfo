@@ -89,8 +89,9 @@
   {
     "title": "Genève accueillera la Marche romande des fiertés LGBTQIA+ le 7 juin",
     "added_at": "2025-05-24T09:54:45.961Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-24T11:43:17.165Z",
+    "duration_minutes": 109,
+    "duration_str": "1h 49m"
   },
   {
     "title": "Six morts dans de nouvelles frappes israéliennes nocturnes sur la bande de Gaza",
@@ -125,7 +126,7 @@
   },
   {
     "title": "Une panne d'électricité frappe plusieurs quartiers de Berne",
-    "added_at": "2025-05-24T10:31:31.640Z",
+    "added_at": "2025-05-24T10:30:56.618Z",
     "removed_at": "2025-05-24T10:45:07.826Z",
     "duration_minutes": 14,
     "duration_str": "14m"
@@ -144,14 +145,39 @@
   },
   {
     "title": "Au moins 18 morts dans une attaque au couteau à la gare d'Hambourg, la suspecte atteinte de troubles mentaux",
-    "added_at": "2025-05-24T11:02:33.045Z",
+    "added_at": "2025-05-24T11:01:07.738Z",
     "removed_at": "2025-05-24T11:23:55.380Z",
-    "duration_minutes": 21,
-    "duration_str": "21m"
+    "duration_minutes": 23,
+    "duration_str": "23m"
   },
   {
     "title": "Au moins 18 blessés dans une attaque au couteau à la gare d'Hambourg, la suspecte atteinte de troubles mentaux",
     "added_at": "2025-05-24T11:21:55.620Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "La Pride romande va déferler à Genève le samedi 7 juin",
+    "added_at": "2025-05-24T11:43:17.165Z",
+    "removed_at": "2025-05-24T12:16:13.567Z",
+    "duration_minutes": 33,
+    "duration_str": "33m"
+  },
+  {
+    "title": "Le danger persiste à Blatten, le retour des habitants encore impossible",
+    "added_at": "2025-05-24T12:02:38.928Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Se découvrir une sœur grâce aux tests ADN: la face cachée derrière la belle histoire",
+    "added_at": "2025-05-24T12:10:25.378Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "La Marche romande des fiertés LGBTQIA+ va déferler à Genève le samedi 7 juin",
+    "added_at": "2025-05-24T12:16:13.567Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
