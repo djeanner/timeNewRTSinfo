@@ -29,11 +29,17 @@
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-24T05:26:51.881Z",
+    "duration_minutes": 21265,
+    "duration_str": "14d 18h 25m"
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-24T05:32:30.474Z",
+    "duration_minutes": 21270,
+    "duration_str": "14d 18h 30m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -314,10 +320,7 @@
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T11:11:38.599Z",
-    "removed_at": "2025-05-24T05:11:46.506Z",
-    "duration_minutes": 21240,
-    "duration_str": "14d 18h"
+    "added_at": "2025-05-09T11:11:38.599Z"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -9166,10 +9169,7 @@
   },
   {
     "title": "Les drones de combat exacerbent la violence dans un Soudan en pleine guerre civile",
-    "added_at": "2025-05-16T07:55:52.133Z",
-    "removed_at": "2025-05-24T05:11:46.506Z",
-    "duration_minutes": 11355,
-    "duration_str": "7d 21h 15m"
+    "added_at": "2025-05-16T07:55:52.133Z"
   },
   {
     "title": "L’armée israélienne continue de bombarder la bande de Gaza, plus de 50 personnes tuées, selon la défense civile palestinienne",
@@ -15642,7 +15642,10 @@
   },
   {
     "title": "« Avec Donald Trump, la paix au Moyen-Orient passe par le contrat commercial, et rien d’autre »",
-    "added_at": "2025-05-22T15:26:04.442Z"
+    "added_at": "2025-05-22T15:26:04.442Z",
+    "removed_at": "2025-05-24T05:32:30.474Z",
+    "duration_minutes": 2286,
+    "duration_str": "1d 14h 6m"
   },
   {
     "title": "Donald Trump et les cryptomonnaies : de lourds soupçons de conflits d’intérêts",
@@ -16176,9 +16179,9 @@
   {
     "title": "« Il y a tellement d’argent lié aux trafics de stupéfiants qu’on se retrouve avec toute une kyrielle d’activités criminelles »",
     "added_at": "2025-05-23T05:09:06.867Z",
-    "removed_at": "2025-05-24T05:08:03.159Z",
-    "duration_minutes": 1438,
-    "duration_str": "23h 58m"
+    "removed_at": "2025-05-24T05:28:45.582Z",
+    "duration_minutes": 1459,
+    "duration_str": "1d 19m"
   },
   {
     "title": "Dans une bande de Gaza en ruines, près de 2,1 millions de personnes sont « en danger de mort imminente », alerte l’OMS",
@@ -16845,9 +16848,9 @@
   {
     "title": "« Les Français lisent beaucoup moins, on prédit la mort de la littérature, et tout le monde s’en fiche »",
     "added_at": "2025-05-23T16:00:56.748Z",
-    "removed_at": "2025-05-24T05:09:52.953Z",
-    "duration_minutes": 788,
-    "duration_str": "13h 8m"
+    "removed_at": "2025-05-24T05:30:41.015Z",
+    "duration_minutes": 809,
+    "duration_str": "13h 29m"
   },
   {
     "title": "« Elles ont volé une poule ce matin, chez les voisins. Mais pour quoi faire, putain, pour quoi faire ? »",
@@ -17215,7 +17218,10 @@
   },
   {
     "title": "A Gaza, le futur oblitéré",
-    "added_at": "2025-05-24T04:32:12.898Z"
+    "added_at": "2025-05-24T04:32:12.898Z",
+    "removed_at": "2025-05-24T05:26:51.881Z",
+    "duration_minutes": 54,
+    "duration_str": "54m"
   },
   {
     "title": "Le Nord touché par une sécheresse sévère et précoce : « Les plantes sont en période de croissance, c’est catastrophique »",
@@ -17261,5 +17267,9 @@
   {
     "title": "Pour l’amour des eaux fraîches : « C’est une réponse à un besoin profond de beauté durable et de singularité discrète »",
     "added_at": "2025-05-24T05:11:46.506Z"
+  },
+  {
+    "title": "Destruction des écoles, des universités, des hôpitaux… A Gaza, le futur oblitéré",
+    "added_at": "2025-05-24T05:26:51.881Z"
   }
 ]
