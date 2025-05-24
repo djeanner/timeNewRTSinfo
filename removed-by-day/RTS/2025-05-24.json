@@ -188,8 +188,9 @@
   {
     "title": "Importante panne d'électricité à Cannes et dans ses environs",
     "added_at": "2025-05-24T12:20:10.535Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-24T16:10:48.207Z",
+    "duration_minutes": 231,
+    "duration_str": "3h 51m"
   },
   {
     "title": "Le village de Blatten (VS) reste menacé par la montagne",
@@ -235,13 +236,19 @@
   },
   {
     "title": "La Maison des Lionnes: un refuge et un nouveau départ pour les femmes en grande précarité",
-    "added_at": "2025-05-24T15:39:46.975Z",
+    "added_at": "2025-05-24T15:38:48.990Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Plus de 8 millions de Syriens étaient recherchés par les services de renseignement et de sécurité d'Assad",
-    "added_at": "2025-05-24T15:43:36.773Z",
+    "added_at": "2025-05-24T15:42:38.589Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Un sabotage a privé d'électricité 160'000 foyers dans la région de Cannes pendant la journée",
+    "added_at": "2025-05-24T16:10:48.207Z",
     "duration_minutes": 0,
     "duration_str": ""
   }

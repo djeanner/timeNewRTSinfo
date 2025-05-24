@@ -309,8 +309,9 @@
   {
     "title": "X is down for thousands of users",
     "added_at": "2025-05-24T14:00:39.487Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-24T16:05:01.427Z",
+    "duration_minutes": 124,
+    "duration_str": "2h 4m"
   },
   {
     "title": "Trump addresses service academy graduates at West Point",
@@ -334,6 +335,32 @@
   {
     "title": "Trump calls West Point graduates ‘winners’ and hails US military as most powerful in the world",
     "added_at": "2025-05-24T14:57:09.331Z",
+    "removed_at": "2025-05-24T15:59:12.346Z",
+    "duration_minutes": 62,
+    "duration_str": "1h 2m"
+  },
+  {
+    "title": "Trump brings multiple West Point graduates onstage during commencement address",
+    "added_at": "2025-05-24T15:59:12.346Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "X temporarily down for thousands of users",
+    "added_at": "2025-05-24T16:05:01.427Z",
+    "removed_at": "2025-05-24T16:18:32.731Z",
+    "duration_minutes": 14,
+    "duration_str": "14m"
+  },
+  {
+    "title": "Sunderland secures promotion to Premier League after winning ‘most valuable match’ in soccer with injury-time winner",
+    "added_at": "2025-05-24T16:18:32.731Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "A mistake finally corrected after more than 80 years for two WWII Jewish American soldiers",
+    "added_at": "2025-05-24T16:28:11.738Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
