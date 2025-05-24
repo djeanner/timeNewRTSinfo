@@ -8527,7 +8527,10 @@
   },
   {
     "title": "Les élèves romands à la traîne en orthographe et en allemand, selon une étude nationale",
-    "added_at": "2025-05-22T13:24:54.942Z"
+    "added_at": "2025-05-22T13:24:54.942Z",
+    "removed_at": "2025-05-24T14:15:42.410Z",
+    "duration_minutes": 2930,
+    "duration_str": "2d 50m"
   },
   {
     "title": "Un Norvégien dort paisiblement pendant qu'un cargo s'échoue dans son jardin",
@@ -9075,7 +9078,10 @@
   },
   {
     "title": "L'UDC Valais romand tire à boulets rouges sur l'Office cantonal de l'asile",
-    "added_at": "2025-05-24T10:19:35.825Z"
+    "added_at": "2025-05-24T10:19:35.825Z",
+    "removed_at": "2025-05-24T14:19:28.064Z",
+    "duration_minutes": 239,
+    "duration_str": "3h 59m"
   },
   {
     "title": "Une panne d'électricité frappe plusieurs quartiers de Berne",
@@ -9144,5 +9150,9 @@
   {
     "title": "Attaque russe massive sur Kiev peu avant un nouvel échange de prisonniers",
     "added_at": "2025-05-24T12:56:23.001Z"
+  },
+  {
+    "title": "Comment Meta utilisera vos contenus pour entraîner son intelligence artificielle (et comment s'y opposer)",
+    "added_at": "2025-05-24T14:15:42.410Z"
   }
 ]
