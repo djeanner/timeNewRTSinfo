@@ -12733,7 +12733,10 @@
   },
   {
     "title": "The US president threatened a 50% tariff on goods from the EU, citing a lack of progress in trade negotiations",
-    "added_at": "2025-05-24T01:10:21.843Z"
+    "added_at": "2025-05-24T01:10:21.843Z",
+    "removed_at": "2025-05-24T01:48:03.476Z",
+    "duration_minutes": 37,
+    "duration_str": "37m"
   },
   {
     "title": "Trump announces ‘partnership’ between US Steel and Nippon Steel",
@@ -12742,5 +12745,9 @@
   {
     "title": "Galaxies battle in ‘cosmic joust’ witnessed by astronomers for the first time",
     "added_at": "2025-05-24T01:34:49.663Z"
+  },
+  {
+    "title": "The US president, citing a lack of progress in trade negotiations, threatened to impose a 50% tariff",
+    "added_at": "2025-05-24T01:48:03.476Z"
   }
 ]
