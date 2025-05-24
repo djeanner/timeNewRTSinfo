@@ -9054,7 +9054,10 @@
   },
   {
     "title": "Six morts dans de nouvelles frappes israéliennes nocturnes sur la bande de Gaza",
-    "added_at": "2025-05-24T10:10:06.637Z"
+    "added_at": "2025-05-24T10:10:06.637Z",
+    "removed_at": "2025-05-24T12:39:21.140Z",
+    "duration_minutes": 149,
+    "duration_str": "2h 29m"
   },
   {
     "title": "La Confédération priée d’enquêter sur une fondation genevoise qui dit distribuer de l’aide humanitaire à Gaza: interview de Philip Grant",
@@ -9092,7 +9095,10 @@
   },
   {
     "title": "Au moins 18 blessés dans une attaque au couteau à la gare d'Hambourg, la suspecte atteinte de troubles mentaux",
-    "added_at": "2025-05-24T11:21:56.082Z"
+    "added_at": "2025-05-24T11:21:56.082Z",
+    "removed_at": "2025-05-24T12:43:07.120Z",
+    "duration_minutes": 81,
+    "duration_str": "1h 21m"
   },
   {
     "title": "La Pride romande va déferler à Genève le samedi 7 juin",
@@ -9120,5 +9126,13 @@
   {
     "title": "Importante panne d'électricité à Cannes et dans ses environs",
     "added_at": "2025-05-24T12:20:24.195Z"
+  },
+  {
+    "title": "Attaque au couteau à Hambourg: 18 blessés, la suspecte souffrirait de troubles mentaux",
+    "added_at": "2025-05-24T12:39:21.140Z"
+  },
+  {
+    "title": "Quinze morts dans de nouvelles frappes israéliennes nocturnes sur la bande de Gaza",
+    "added_at": "2025-05-24T12:39:21.140Z"
   }
 ]
