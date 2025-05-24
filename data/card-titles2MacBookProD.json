@@ -8501,7 +8501,10 @@
   },
   {
     "title": "monde:::Douze blessés dans une attaque au couteau à la gare de Hambourg",
-    "added_at": "2025-05-23T17:50:31.204Z"
+    "added_at": "2025-05-23T17:50:31.204Z",
+    "removed_at": "2025-05-24T05:27:14.357Z",
+    "duration_minutes": 696,
+    "duration_str": "11h 36m"
   },
   {
     "title": "sport:::Finaliste du Geneva Open, Novak Djokovic est à une victoire de son 100e titre ATP",
@@ -8527,7 +8530,10 @@
   },
   {
     "title": "monde:::Guerre en Ukraine – La Russie et l'Ukraine commencent leur échange record de prisonniers, salué par Donald Trump",
-    "added_at": "2025-05-23T19:37:14.030Z"
+    "added_at": "2025-05-23T19:37:14.030Z",
+    "removed_at": "2025-05-24T05:29:13.661Z",
+    "duration_minutes": 591,
+    "duration_str": "9h 51m"
   },
   {
     "title": "monde:::«L’aide humanitaire est un devoir»: Ignazio Cassis rappelle la position du Conseil fédéral sur le conflit à Gaza",
@@ -8554,5 +8560,17 @@
   {
     "title": "monde:::La diplomatie pontificale, l’art de la médiation «sans canons»",
     "added_at": "2025-05-24T05:19:24.801Z"
+  },
+  {
+    "title": "monde:::Dix-sept blessés dans une attaque au couteau à la gare de Hambourg",
+    "added_at": "2025-05-24T05:27:14.357Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Attaque russe massive sur Kiev à l'aube d'un deuxième échange de prisonniers",
+    "added_at": "2025-05-24T05:29:13.661Z"
+  },
+  {
+    "title": "economie:::Boeing évite les poursuites pénales aux Etats-Unis après un accord sur les crashes des 737 MAX",
+    "added_at": "2025-05-24T06:07:50.470Z"
   }
 ]
