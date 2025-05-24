@@ -6439,7 +6439,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:00:57.917Z"
+    "added_at": "2025-05-22T18:00:57.917Z",
+    "removed_at": "2025-05-24T08:28:05.204Z",
+    "duration_minutes": 2307,
+    "duration_str": "1d 14h 27m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -6807,7 +6810,10 @@
   },
   {
     "title": "economie:::Boeing évite les poursuites pénales aux Etats-Unis après un accord sur les crashes des 737 MAX",
-    "added_at": "2025-05-24T06:06:28.231Z"
+    "added_at": "2025-05-24T06:06:28.231Z",
+    "removed_at": "2025-05-24T08:24:19.587Z",
+    "duration_minutes": 137,
+    "duration_str": "2h 17m"
   },
   {
     "title": "suisse:::La forte diminution des dons inquiète les associations caritatives",
@@ -6820,5 +6826,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky appelle à plus de sanctions contre Moscou après une attaque russe massive sur Kiev",
     "added_at": "2025-05-24T08:22:23.694Z"
+  },
+  {
+    "title": "culture:::Les festivals de musique deviennent des paradis pour les VIP",
+    "added_at": "2025-05-24T08:24:19.587Z"
   }
 ]
