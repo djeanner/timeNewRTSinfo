@@ -6907,7 +6907,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Russie et l'Ukraine ont échangé 307 prisonniers de guerre de chaque camp",
-    "added_at": "2025-05-24T11:04:57.451Z"
+    "added_at": "2025-05-24T11:04:57.451Z",
+    "removed_at": "2025-05-24T20:01:22.413Z",
+    "duration_minutes": 536,
+    "duration_str": "8h 56m"
   },
   {
     "title": "sport:::Un seul être vous manque et tout est dépeuplé. Le «Big Three» n’aura pas survécu longtemps à Roger Federer",
@@ -6936,7 +6939,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – La Défense civile annonce quinze morts dans des frappes israéliennes",
-    "added_at": "2025-05-24T12:56:23.054Z"
+    "added_at": "2025-05-24T12:56:23.054Z",
+    "removed_at": "2025-05-24T20:01:22.413Z",
+    "duration_minutes": 424,
+    "duration_str": "7h 4m"
   },
   {
     "title": "suisse:::Albert Rösti rejette l’idée d’un fonds pour les catastrophes naturelles",
@@ -7009,5 +7015,13 @@
   {
     "title": "culture:::Série: «Faussaires», un suspense libanais en mode soap-opera sur Netflix",
     "added_at": "2025-05-24T19:16:07.645Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – La Défense civile annonce quinze morts dans des frappes israéliennes",
+    "added_at": "2025-05-24T20:01:22.413Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – La Russie et l'Ukraine ont échangé 307 prisonniers de guerre de chaque camp",
+    "added_at": "2025-05-24T20:01:22.413Z"
   }
 ]
