@@ -9060,7 +9060,10 @@
   },
   {
     "title": "Le site du Valais n'a pas été victime d'un piratage mais d'un \"dysfonctionnement\"",
-    "added_at": "2025-05-23T17:48:38.694Z"
+    "added_at": "2025-05-23T17:48:38.694Z",
+    "removed_at": "2025-05-25T21:09:14.228Z",
+    "duration_minutes": 3080,
+    "duration_str": "2d 3h 20m"
   },
   {
     "title": "Au moins 12 blessés dans une attaque au couteau à la gare de Hambourg, une femme a été arrêtée",
@@ -9566,5 +9569,9 @@
   {
     "title": "Une quinzaine de morts et plus de cent blessés au Pakistan dans des tempêtes liées à la chaleur",
     "added_at": "2025-05-25T20:33:18.921Z"
+  },
+  {
+    "title": "Une nouvelle médaille d’argent pour la Suisse",
+    "added_at": "2025-05-25T21:09:14.228Z"
   }
 ]
