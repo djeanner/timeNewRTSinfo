@@ -9304,7 +9304,10 @@
   },
   {
     "title": "Sport matin - Le coaching gagnant de l'équipe suisse de hockey sur glace",
-    "added_at": "2025-05-24T23:21:25.985Z"
+    "added_at": "2025-05-24T23:21:25.985Z",
+    "removed_at": "2025-05-25T09:23:13.637Z",
+    "duration_minutes": 601,
+    "duration_str": "10h 1m"
   },
   {
     "title": "La montagne menace toujours le village valaisan de Blatten",
@@ -9343,7 +9346,10 @@
   },
   {
     "title": "Attaques croisées entre Ukraine et Russie à l'aube d'un dernier échange de prisonniers prévu",
-    "added_at": "2025-05-25T07:56:29.423Z"
+    "added_at": "2025-05-25T07:56:29.423Z",
+    "removed_at": "2025-05-25T09:34:31.211Z",
+    "duration_minutes": 98,
+    "duration_str": "1h 38m"
   },
   {
     "title": "Le drapeau suisse est carré, une tradition devenue récemment obligatoire",
@@ -9373,10 +9379,28 @@
   },
   {
     "title": "Huit morts dans de nouvelles frappes israélienne sur la bande de Gaza",
-    "added_at": "2025-05-25T09:17:32.877Z"
+    "added_at": "2025-05-25T09:17:32.877Z",
+    "removed_at": "2025-05-25T09:27:02.406Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
   },
   {
     "title": "Après Cannes, Nice touchée par une coupure électrique provoquée par un acte malveillant",
-    "added_at": "2025-05-25T09:17:32.877Z"
+    "added_at": "2025-05-25T09:17:32.877Z",
+    "removed_at": "2025-05-25T09:23:13.637Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "Après Cannes, Nice visée à son tour par un sabotage électrique",
+    "added_at": "2025-05-25T09:23:13.637Z"
+  },
+  {
+    "title": "Huit morts dans de nouvelles frappes israéliennes sur la bande de Gaza",
+    "added_at": "2025-05-25T09:27:02.406Z"
+  },
+  {
+    "title": "Attaques croisées entre Ukraine et Russie à l'aube d'un dernier échange de prisonniers",
+    "added_at": "2025-05-25T09:34:31.211Z"
   }
 ]
