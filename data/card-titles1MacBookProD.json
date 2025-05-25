@@ -11825,7 +11825,10 @@
   },
   {
     "title": "Le glacier dans la région de Blatten accélère son mouvement, risque d'éboulement accru",
-    "added_at": "2025-05-23T12:54:13.199Z"
+    "added_at": "2025-05-23T12:54:13.199Z",
+    "removed_at": "2025-05-25T20:23:37.924Z",
+    "duration_minutes": 3329,
+    "duration_str": "2d 7h 29m"
   },
   {
     "title": "Les premières distributions de nourriture ont débuté à Gaza, mais sont encore largement insuffisantes",
@@ -11897,7 +11900,10 @@
   },
   {
     "title": "La quarantaine de caravanes de gens du voyage stationnées au nord de Lausanne ont levé le camp",
-    "added_at": "2025-05-23T16:21:30.851Z"
+    "added_at": "2025-05-23T16:21:30.851Z",
+    "removed_at": "2025-05-25T19:58:35.432Z",
+    "duration_minutes": 3097,
+    "duration_str": "2d 3h 37m"
   },
   {
     "title": "Le photographe franco-brésilien Sebastião Salgado est mort à 81 ans",
@@ -11909,7 +11915,10 @@
   },
   {
     "title": "Feu vert des actionnaires à la fusion entre Baloise et Helvetia",
-    "added_at": "2025-05-23T16:35:02.163Z"
+    "added_at": "2025-05-23T16:35:02.163Z",
+    "removed_at": "2025-05-25T20:06:14.853Z",
+    "duration_minutes": 3091,
+    "duration_str": "2d 3h 31m"
   },
   {
     "title": "Un discours du conseiller d'Etat Frédéric Borloz perturbé par des activistes propalestiniens à l'Unil",
@@ -12395,7 +12404,10 @@
   },
   {
     "title": "Une quinzaine de morts et plus de 100 blessés au Pakistan dans des tempêtes liées à la chaleur",
-    "added_at": "2025-05-25T15:26:50.495Z"
+    "added_at": "2025-05-25T15:26:50.495Z",
+    "removed_at": "2025-05-25T20:33:20.925Z",
+    "duration_minutes": 306,
+    "duration_str": "5h 6m"
   },
   {
     "title": "Le PS Vaud serre la vis sur les dérogations pour prolonger ou cumuler les mandats de ses élus",
@@ -12415,5 +12427,28 @@
   {
     "title": "Plus de vingt nouveaux morts dans des bombardements israéliens sur Gaza",
     "added_at": "2025-05-25T18:54:31.599Z"
+  },
+  {
+    "title": "Monero, la cryptomonnaie anonyme qui  séduit les cybercriminels",
+    "added_at": "2025-05-25T19:58:35.432Z",
+    "removed_at": "2025-05-25T20:00:28.210Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Monero, la cryptomonnaie anonyme quasi intraçable qui échappe à tout contrôle",
+    "added_at": "2025-05-25T20:00:28.210Z"
+  },
+  {
+    "title": "Les Suisses sont plus resquilleurs qu'on ne le croit, notamment les Alémaniques",
+    "added_at": "2025-05-25T20:06:14.853Z"
+  },
+  {
+    "title": "Panne de courant dans plusieurs quartiers de la ville de Berne",
+    "added_at": "2025-05-25T20:23:37.924Z"
+  },
+  {
+    "title": "Une quinzaine de morts et plus de cent blessés au Pakistan dans des tempêtes liées à la chaleur",
+    "added_at": "2025-05-25T20:33:20.925Z"
   }
 ]
