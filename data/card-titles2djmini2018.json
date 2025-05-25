@@ -7139,7 +7139,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Nouvelle attaque aérienne massive dans la région de Kiev, avant un dernier échange de prisonniers",
-    "added_at": "2025-05-25T10:00:59.134Z"
+    "added_at": "2025-05-25T10:00:59.134Z",
+    "removed_at": "2025-05-25T22:26:31.247Z",
+    "duration_minutes": 745,
+    "duration_str": "12h 25m"
   },
   {
     "title": "suisse:::La présidente des enseignants suisses plaide pour adapter l'enseignement du français précoce",
@@ -7279,5 +7282,9 @@
   {
     "title": "sport:::Immense déception: la Suisse battue par les Etats-Unis en finale du Mondial de hockey sur glace",
     "added_at": "2025-05-25T21:09:14.278Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Notre suivi de la semaine du 19 au 25 mai 2025",
+    "added_at": "2025-05-25T22:26:31.247Z"
   }
 ]
