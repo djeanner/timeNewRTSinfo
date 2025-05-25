@@ -262,8 +262,9 @@
   {
     "title": "Lando Norris wins Monaco Grand Prix in front of star-studded crowd",
     "added_at": "2025-05-25T16:40:34.642Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-25T22:33:13.448Z",
+    "duration_minutes": 353,
+    "duration_str": "5h 53m"
   },
   {
     "title": "Trump is calling for a ‘baby boom,’ but IVF may be under threat",
@@ -298,6 +299,38 @@
   {
     "title": "Flight from Tokyo diverted to Seattle after passenger tries to open exit door in flight",
     "added_at": "2025-05-25T21:27:24.609Z",
+    "removed_at": "2025-05-25T22:33:13.448Z",
+    "duration_minutes": 66,
+    "duration_str": "1h 6m"
+  },
+  {
+    "title": "Flight from Tokyo diverted to Seattle after passenger tries to open exit doors",
+    "added_at": "2025-05-25T22:33:13.448Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Álex Palou wins Indianapolis 500, Kyle Larson’s quest for the ‘Double’ comes to an end after wreck",
+    "added_at": "2025-05-25T22:33:13.448Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Trump says he is ‘not happy with what Putin is doing’",
+    "added_at": "2025-05-25T22:44:48.291Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Trump agrees to give EU until July 9 to negotiate a trade deal with the EU",
+    "added_at": "2025-05-25T22:44:48.291Z",
+    "removed_at": "2025-05-25T22:46:46.527Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Trump agrees to give EU until July 9 to negotiate a trade deal with the US",
+    "added_at": "2025-05-25T22:46:46.527Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
