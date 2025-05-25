@@ -4621,11 +4621,17 @@
   },
   {
     "title": "Did You Follow the News This Week? Take Our Quiz.",
-    "added_at": "2025-05-11T14:50:45.372Z"
+    "added_at": "2025-05-11T14:50:45.372Z",
+    "removed_at": "2025-05-25T21:10:01.955Z",
+    "duration_minutes": 20539,
+    "duration_str": "14d 6h 19m"
   },
   {
     "title": "Play Flashback, Your Weekly History Quiz",
-    "added_at": "2025-05-11T14:50:45.372Z"
+    "added_at": "2025-05-11T14:50:45.372Z",
+    "removed_at": "2025-05-25T21:10:01.955Z",
+    "duration_minutes": 20539,
+    "duration_str": "14d 6h 19m"
   },
   {
     "title": "A Professor’s Final Gift to Her Students: Her Life Savings",
@@ -15061,7 +15067,10 @@
   },
   {
     "title": "Selfies From the Front: Inside the ‘V.I.P.’ Brigade for Ambitious Russian Officials",
-    "added_at": "2025-05-25T09:57:03.929Z"
+    "added_at": "2025-05-25T09:57:03.929Z",
+    "removed_at": "2025-05-25T21:10:01.955Z",
+    "duration_minutes": 672,
+    "duration_str": "11h 12m"
   },
   {
     "title": "How Donald Trump Has Remade America’s Political Landscape",
@@ -15119,7 +15128,10 @@
   },
   {
     "title": "New Jersey’s Sinkholes, Bane of Drivers, Offer Peek Into a Lost Mining Past",
-    "added_at": "2025-05-25T09:59:03.592Z"
+    "added_at": "2025-05-25T09:59:03.592Z",
+    "removed_at": "2025-05-25T21:10:01.955Z",
+    "duration_minutes": 670,
+    "duration_str": "11h 10m"
   },
   {
     "title": "A Punk-Rock Past Comes With Unwanted Baggage for a N.Y. Politician",
@@ -15260,9 +15272,9 @@
   {
     "title": "Updates From a Chaotic Indy 500 Race at the Indianapolis Motor Speedway",
     "added_at": "2025-05-25T20:08:11.442Z",
-    "removed_at": "2025-05-25T20:35:13.647Z",
-    "duration_minutes": 27,
-    "duration_str": "27m"
+    "removed_at": "2025-05-25T21:10:01.955Z",
+    "duration_minutes": 61,
+    "duration_str": "1h 1m"
   },
   {
     "title": "American Is Charged With Trying to Firebomb Embassy Building in Tel Aviv",
@@ -15271,5 +15283,9 @@
   {
     "title": "Alex Palou Wins a Chaotic Indy 500 Race at the Indianapolis Motor Speedway",
     "added_at": "2025-05-25T20:35:13.647Z"
+  },
+  {
+    "title": "In Israel, a Quiet Funeral for a Victim of the Washington Shooting",
+    "added_at": "2025-05-25T21:00:24.355Z"
   }
 ]
