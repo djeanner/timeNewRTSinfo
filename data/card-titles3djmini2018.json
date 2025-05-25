@@ -15925,7 +15925,10 @@
   },
   {
     "title": "Rain Disrupts Day 1 of the French Open",
-    "added_at": "2025-05-25T13:26:36.405Z"
+    "added_at": "2025-05-25T13:26:36.405Z",
+    "removed_at": "2025-05-25T15:38:46.528Z",
+    "duration_minutes": 132,
+    "duration_str": "2h 12m"
   },
   {
     "title": "Updates From the Formula 1 Monaco Grand Prix",
@@ -15945,5 +15948,9 @@
   {
     "title": "Lando Norris Wins the Formula 1 Monaco Grand Prix",
     "added_at": "2025-05-25T14:57:13.562Z"
+  },
+  {
+    "title": "Day 1 of the French Open: Players Take to the Courts After a Rain Delay",
+    "added_at": "2025-05-25T15:35:03.352Z"
   }
 ]
