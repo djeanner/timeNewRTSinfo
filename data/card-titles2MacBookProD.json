@@ -5867,10 +5867,7 @@
   },
   {
     "title": "sport:::Patrick Fischer, sélectionneur de l’équipe de Suisse de hockey: «Tout est une question d’équilibre»",
-    "added_at": "2025-05-15T07:48:41.388Z",
-    "removed_at": "2025-05-15T13:57:09.673Z",
-    "duration_minutes": 368,
-    "duration_str": "6h 8m"
+    "added_at": "2025-05-15T07:48:41.388Z"
   },
   {
     "title": "suisse:::La SSR et les éditeurs alémaniques annoncent un accord de coopération",
@@ -8613,7 +8610,10 @@
   },
   {
     "title": "monde:::La diplomatie pontificale, l’art de la médiation «sans canons»",
-    "added_at": "2025-05-24T05:19:24.801Z"
+    "added_at": "2025-05-24T05:19:24.801Z",
+    "removed_at": "2025-05-25T13:53:44.491Z",
+    "duration_minutes": 1954,
+    "duration_str": "1d 8h 34m"
   },
   {
     "title": "monde:::Dix-sept blessés dans une attaque au couteau à la gare de Hambourg",
@@ -8775,7 +8775,10 @@
   },
   {
     "title": "suisse:::Dans le Lötschental, la montagne est toujours en mouvement au-dessus de Blatten",
-    "added_at": "2025-05-24T15:14:33.012Z"
+    "added_at": "2025-05-24T15:14:33.012Z",
+    "removed_at": "2025-05-25T14:20:53.831Z",
+    "duration_minutes": 1386,
+    "duration_str": "23h 6m"
   },
   {
     "title": "sciences:::A Neuchâtel, des chercheurs exhument des techniques oubliées pour repenser notre avenir",
@@ -8940,10 +8943,25 @@
   },
   {
     "title": "culture:::Festival de Cannes: la Palme d’or revient à «Un Simple Accident», grand film politique de Jafar Panahi",
-    "added_at": "2025-05-25T12:39:59.201Z"
+    "added_at": "2025-05-25T12:39:59.201Z",
+    "removed_at": "2025-05-25T14:01:27.586Z",
+    "duration_minutes": 81,
+    "duration_str": "1h 21m"
   },
   {
     "title": "monde:::A Cannes, la macroniste Deborah Abisror de Lieme s’est pris les pieds dans le tapis en accusant Léna Situations d’entrisme",
     "added_at": "2025-05-25T12:59:28.961Z"
+  },
+  {
+    "title": "sport:::Félicien Du Bois: «Les étoiles sont alignées pour un premier titre de champion du monde pour la Suisse»",
+    "added_at": "2025-05-25T13:53:44.491Z"
+  },
+  {
+    "title": "culture:::Dans la mise en scène de François Morel, le cultissime «Art» de Yasmina Reza pique bien au Théâtre de Carouge",
+    "added_at": "2025-05-25T14:01:27.586Z"
+  },
+  {
+    "title": "suisse:::Un mort et deux blessés dans une avalanche vers Kandersteg dans les Alpes bernoises",
+    "added_at": "2025-05-25T14:20:53.831Z"
   }
 ]
