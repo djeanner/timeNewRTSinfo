@@ -9013,7 +9013,10 @@
   },
   {
     "title": "La quarantaine de caravanes de gens du voyage stationnées au nord de Lausanne ont levé le camp",
-    "added_at": "2025-05-23T16:21:38.599Z"
+    "added_at": "2025-05-23T16:21:38.599Z",
+    "removed_at": "2025-05-25T19:59:23.337Z",
+    "duration_minutes": 3097,
+    "duration_str": "2d 3h 37m"
   },
   {
     "title": "Le photographe franco-brésilien Sebastião Salgado est mort à 81 ans",
@@ -9531,5 +9534,16 @@
   {
     "title": "Plus de vingt nouveaux morts dans des bombardements israéliens sur Gaza",
     "added_at": "2025-05-25T18:55:10.500Z"
+  },
+  {
+    "title": "Monero, la cryptomonnaie anonyme qui  séduit les cybercriminels",
+    "added_at": "2025-05-25T19:59:23.337Z",
+    "removed_at": "2025-05-25T20:01:18.789Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Monero, la cryptomonnaie anonyme quasi intraçable qui échappe à tout contrôle",
+    "added_at": "2025-05-25T20:01:18.789Z"
   }
 ]
