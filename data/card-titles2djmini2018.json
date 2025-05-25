@@ -7223,7 +7223,10 @@
   },
   {
     "title": "sport:::Viktorija Golubic et Jil Teichmann passent le premier tour à Roland-Garros",
-    "added_at": "2025-05-25T15:52:02.846Z"
+    "added_at": "2025-05-25T15:52:02.846Z",
+    "removed_at": "2025-05-25T18:32:31.137Z",
+    "duration_minutes": 160,
+    "duration_str": "2h 40m"
   },
   {
     "title": "economie:::Entre la Bulgarie et Glencore, un commerce de cuivre sale incarne la face sombre de la transition énergétique",
@@ -7240,5 +7243,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Le CICR annonce la mort de deux de ses collaborateurs à Gaza",
     "added_at": "2025-05-25T17:24:30.780Z"
+  },
+  {
+    "title": "sport:::«A la fin, le tennis est juste un jeu», nous rappelle Rafael Nadal en faisant ses adieux à Roland-Garros",
+    "added_at": "2025-05-25T18:32:31.137Z"
   }
 ]
