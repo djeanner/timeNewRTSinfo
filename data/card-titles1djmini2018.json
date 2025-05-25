@@ -8811,10 +8811,7 @@
   },
   {
     "title": "120 secondes - L'Everest, une destination de plus en plus prisée",
-    "added_at": "2025-05-23T08:16:03.211Z",
-    "removed_at": "2025-05-25T14:25:09.593Z",
-    "duration_minutes": 3249,
-    "duration_str": "2d 6h 9m"
+    "added_at": "2025-05-23T08:16:03.211Z"
   },
   {
     "title": "Dans le Jura, l'affaire Martial Courtet continue de susciter des interrogations",
@@ -8992,7 +8989,10 @@
   },
   {
     "title": "La Suisse accueillera-t-elle de futures discussions sur l'Ukraine?",
-    "added_at": "2025-05-23T15:38:14.226Z"
+    "added_at": "2025-05-23T15:38:14.226Z",
+    "removed_at": "2025-05-25T15:27:26.449Z",
+    "duration_minutes": 2869,
+    "duration_str": "1d 23h 49m"
   },
   {
     "title": "Une baisse des heures de travail et une hausse des vacances sont constatées en Suisse",
@@ -9340,7 +9340,10 @@
   },
   {
     "title": "Sport matin - Le coaching gagnant de l'équipe suisse de hockey sur glace",
-    "added_at": "2025-05-24T23:21:25.985Z"
+    "added_at": "2025-05-24T23:21:25.985Z",
+    "removed_at": "2025-05-25T15:23:43.200Z",
+    "duration_minutes": 962,
+    "duration_str": "16h 2m"
   },
   {
     "title": "La montagne menace toujours le village valaisan de Blatten",
@@ -9493,5 +9496,9 @@
   {
     "title": "Donald Trump défend sa décision d'empêcher Harvard d'accueillir des étudiants étrangers",
     "added_at": "2025-05-25T13:36:07.078Z"
+  },
+  {
+    "title": "Une quinzaine de morts et plus de 100 blessés au Pakistan dans des tempêtes liées à la chaleur",
+    "added_at": "2025-05-25T15:27:26.449Z"
   }
 ]
