@@ -70,9 +70,8 @@
   {
     "title": "Dix enfants, dont sept adoptés : l’extraordinaire famille de Geneviève et Alfred Zimmer",
     "added_at": "2025-05-25T03:17:51.776Z",
-    "removed_at": "2025-05-25T14:03:26.259Z",
-    "duration_minutes": 646,
-    "duration_str": "10h 46m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "En direct, guerre en Ukraine : au moins trois morts dans la région de Kiev après une « attaque massive » de drones russes",
@@ -146,8 +145,9 @@
   {
     "title": "De Burna Boy à « Young, Famous and African », les promesses du « soft power » africain",
     "added_at": "2025-05-25T04:39:09.577Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-25T15:15:07.512Z",
+    "duration_minutes": 636,
+    "duration_str": "10h 36m"
   },
   {
     "title": "Interdite de voyage, l’équipe érythréenne de football accueille son premier tournoi depuis cinq ans",
@@ -173,15 +173,15 @@
   {
     "title": "Antoine de Caunes : « Ma carrière est une série d’accidents. J’ai encore du mal aujourd’hui à définir ce que je fais »",
     "added_at": "2025-05-25T04:39:09.577Z",
-    "removed_at": "2025-05-25T14:03:26.259Z",
-    "duration_minutes": 564,
-    "duration_str": "9h 24m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Le prophète Mahomet a-t-il inventé l’islam politique ?",
     "added_at": "2025-05-25T04:39:09.577Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-25T15:20:56.284Z",
+    "duration_minutes": 642,
+    "duration_str": "10h 42m"
   },
   {
     "title": "Guerre à Gaza : neuf enfants d’un couple de médecins tués dans une frappe israélienne, selon la défense civile",
@@ -326,8 +326,9 @@
   {
     "title": "« Tirer les leçons des “sales périodes” de notre histoire suppose d’examiner les souvenirs gênants, pas de les effacer »",
     "added_at": "2025-05-25T09:26:05.197Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-25T15:19:02.363Z",
+    "duration_minutes": 353,
+    "duration_str": "5h 53m"
   },
   {
     "title": "Flavio Briatore, de nouveau tout-puissant chez Alpine : « Si tu as la vitesse et que tu vas dans le mur, ça ne sert à rien »",
@@ -524,6 +525,19 @@
   {
     "title": "En direct | Roland-Garros 2025 : le Français, Giovanni Mpetshi Perricard, remporte son premier match porte d’Auteuil",
     "added_at": "2025-05-25T14:15:05.133Z",
+    "removed_at": "2025-05-25T15:15:07.512Z",
+    "duration_minutes": 60,
+    "duration_str": "1h"
+  },
+  {
+    "title": "Le sort de Laurent Vinatier, prisonnier français en Russie, inquiète ses proches, sans nouvelles de lui",
+    "added_at": "2025-05-25T15:15:07.512Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "En direct | Roland-Garros 2025 : Mpetshi Perricard qualifié, la céremonie d’adieu de Nadal se rapproche",
+    "added_at": "2025-05-25T15:15:07.512Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
