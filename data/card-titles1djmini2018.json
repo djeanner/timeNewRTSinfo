@@ -8758,7 +8758,10 @@
   },
   {
     "title": "Migros, les étranges méthodes d'un employeur \"exemplaire\"",
-    "added_at": "2025-05-23T04:33:12.418Z"
+    "added_at": "2025-05-23T04:33:12.418Z",
+    "removed_at": "2025-05-25T17:34:01.850Z",
+    "duration_minutes": 3660,
+    "duration_str": "2d 13h"
   },
   {
     "title": "Sion inaugure son nouveau quartier Cour de Gare de 16'000 m2",
@@ -9439,7 +9442,10 @@
   },
   {
     "title": "Huit morts dans de nouvelles frappes israéliennes sur la bande de Gaza",
-    "added_at": "2025-05-25T09:27:02.406Z"
+    "added_at": "2025-05-25T09:27:02.406Z",
+    "removed_at": "2025-05-25T17:39:41.674Z",
+    "duration_minutes": 492,
+    "duration_str": "8h 12m"
   },
   {
     "title": "Attaques croisées entre Ukraine et Russie à l'aube d'un dernier échange de prisonniers",
@@ -9507,5 +9513,13 @@
   {
     "title": "Le PS Vaud serre la vis sur les dérogations pour prolonger ou cumuler les mandats de ses élus",
     "added_at": "2025-05-25T16:50:29.318Z"
+  },
+  {
+    "title": "Le glacier au-dessus de Blatten en Valais supporte 9 millions de tonnes de débris",
+    "added_at": "2025-05-25T17:34:01.850Z"
+  },
+  {
+    "title": "La Défense civile annonce 22 morts dans des frappes israéliennes",
+    "added_at": "2025-05-25T17:39:41.674Z"
   }
 ]
