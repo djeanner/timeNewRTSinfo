@@ -8804,7 +8804,10 @@
   },
   {
     "title": "Surveillance alpine: quand la technologie prévient les catastrophes",
-    "added_at": "2025-05-23T08:12:14.013Z"
+    "added_at": "2025-05-23T08:12:14.013Z",
+    "removed_at": "2025-05-25T12:14:55.831Z",
+    "duration_minutes": 3122,
+    "duration_str": "2d 4h 2m"
   },
   {
     "title": "120 secondes - L'Everest, une destination de plus en plus prisée",
@@ -8922,7 +8925,10 @@
   },
   {
     "title": "La CGN réduit son offre estivale sur le Léman avec seulement trois bateaux \"Belle-Epoque\" en service",
-    "added_at": "2025-05-23T12:32:57.322Z"
+    "added_at": "2025-05-23T12:32:57.322Z",
+    "removed_at": "2025-05-25T12:16:51.510Z",
+    "duration_minutes": 2863,
+    "duration_str": "1d 23h 43m"
   },
   {
     "title": "Le glacier dans la région de Blatten accélère son mouvement, risque d'éboulement accru",
@@ -8941,11 +8947,17 @@
   },
   {
     "title": "Le Mouvement autonomiste jurassien abandonne la confrontation territoriale avec le canton de Berne",
-    "added_at": "2025-05-23T13:03:14.364Z"
+    "added_at": "2025-05-23T13:03:14.364Z",
+    "removed_at": "2025-05-25T12:18:41.336Z",
+    "duration_minutes": 2835,
+    "duration_str": "1d 23h 15m"
   },
   {
     "title": "Belinda Bencic déclare forfait",
-    "added_at": "2025-05-23T13:05:10.367Z"
+    "added_at": "2025-05-23T13:05:10.367Z",
+    "removed_at": "2025-05-25T12:14:55.831Z",
+    "duration_minutes": 2829,
+    "duration_str": "1d 23h 9m"
   },
   {
     "title": "Harvard saisit la justice après l'interdiction d'accueillir des étudiants étrangers",
@@ -9423,5 +9435,21 @@
   {
     "title": "Après Cannes, la ville de Nice visée à son tour par un sabotage électrique",
     "added_at": "2025-05-25T10:31:08.069Z"
+  },
+  {
+    "title": "Des scientifiques chinois mettent au point des lentilles de contact pour voir dans le noir",
+    "added_at": "2025-05-25T12:14:55.831Z"
+  },
+  {
+    "title": "Les pesticides pourraient être autorisés en forêt pour lutter contre le frelon asiatique",
+    "added_at": "2025-05-25T12:14:55.831Z"
+  },
+  {
+    "title": "\"Soviet Jeans\", plongée romantique et politique dans Riga sous le régime communiste",
+    "added_at": "2025-05-25T12:16:51.510Z"
+  },
+  {
+    "title": "L'héritage évanescent de George Floyd, cinq ans après sa mort",
+    "added_at": "2025-05-25T12:18:41.336Z"
   }
 ]
