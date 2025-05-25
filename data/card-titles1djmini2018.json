@@ -8871,7 +8871,10 @@
   },
   {
     "title": "A quoi sert la coûteuse armée de communicants de la défense suisse?",
-    "added_at": "2025-05-23T10:45:15.254Z"
+    "added_at": "2025-05-23T10:45:15.254Z",
+    "removed_at": "2025-05-25T12:45:10.088Z",
+    "duration_minutes": 2999,
+    "duration_str": "2d 1h 59m"
   },
   {
     "title": "Avec \"Une création originale\", le théâtre se moque férocement de lui-même",
@@ -9451,5 +9454,16 @@
   {
     "title": "L'héritage évanescent de George Floyd, cinq ans après sa mort",
     "added_at": "2025-05-25T12:18:41.336Z"
+  },
+  {
+    "title": "Cinq skieurs retrouvés morts dans la région de Zermatt",
+    "added_at": "2025-05-25T12:45:10.088Z",
+    "removed_at": "2025-05-25T12:46:59.690Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Les corps sans vie de cinq skieurs retrouvés au-dessus de Zermatt",
+    "added_at": "2025-05-25T12:46:59.690Z"
   }
 ]
