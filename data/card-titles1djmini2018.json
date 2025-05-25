@@ -8788,7 +8788,10 @@
   },
   {
     "title": "L'Iran est confronté à de grosses coupures d'électricité, malgré ses ressources",
-    "added_at": "2025-05-23T08:08:28.703Z"
+    "added_at": "2025-05-23T08:08:28.703Z",
+    "removed_at": "2025-05-25T07:26:17.949Z",
+    "duration_minutes": 2837,
+    "duration_str": "1d 23h 17m"
   },
   {
     "title": "Surveillance alpine: quand la technologie prévient les catastrophes",
@@ -9311,5 +9314,9 @@
   {
     "title": "La fausse bonne idée des boissons sans alcool pour réduire sa dépendance",
     "added_at": "2025-05-25T07:07:25.848Z"
+  },
+  {
+    "title": "La Confédération veut miser sur les images satellites pour surveiller les mouvements du sol",
+    "added_at": "2025-05-25T07:26:17.949Z"
   }
 ]
