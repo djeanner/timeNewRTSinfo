@@ -4061,10 +4061,7 @@
   },
   {
     "title": "sport:::Patrick Fischer, sélectionneur de l’équipe de Suisse de hockey: «Tout est une question d’équilibre»",
-    "added_at": "2025-05-15T07:49:05.915Z",
-    "removed_at": "2025-05-15T13:57:06.062Z",
-    "duration_minutes": 368,
-    "duration_str": "6h 8m"
+    "added_at": "2025-05-15T07:49:05.915Z"
   },
   {
     "title": "suisse:::La SSR et les éditeurs alémaniques annoncent un accord de coopération",
@@ -6828,7 +6825,10 @@
   },
   {
     "title": "monde:::La diplomatie pontificale, l’art de la médiation «sans canons»",
-    "added_at": "2025-05-24T05:19:22.663Z"
+    "added_at": "2025-05-24T05:19:22.663Z",
+    "removed_at": "2025-05-25T13:53:06.833Z",
+    "duration_minutes": 1953,
+    "duration_str": "1d 8h 33m"
   },
   {
     "title": "monde:::Dix-sept blessés dans une attaque au couteau à la gare de Hambourg",
@@ -7162,10 +7162,21 @@
   },
   {
     "title": "culture:::Festival de Cannes: la Palme d’or revient à «Un Simple Accident», grand film politique de Jafar Panahi",
-    "added_at": "2025-05-25T12:41:19.429Z"
+    "added_at": "2025-05-25T12:41:19.429Z",
+    "removed_at": "2025-05-25T14:00:36.115Z",
+    "duration_minutes": 79,
+    "duration_str": "1h 19m"
   },
   {
     "title": "monde:::A Cannes, la macroniste Deborah Abisror de Lieme s’est pris les pieds dans le tapis en accusant Léna Situations d’entrisme",
     "added_at": "2025-05-25T13:00:13.166Z"
+  },
+  {
+    "title": "sport:::Félicien Du Bois: «Les étoiles sont alignées pour un premier titre de champion du monde pour la Suisse»",
+    "added_at": "2025-05-25T13:53:06.833Z"
+  },
+  {
+    "title": "culture:::Dans la mise en scène de François Morel, le cultissime «Art» de Yasmina Reza pique bien au Théâtre de Carouge",
+    "added_at": "2025-05-25T14:00:36.115Z"
   }
 ]
