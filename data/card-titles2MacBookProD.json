@@ -8596,7 +8596,10 @@
   },
   {
     "title": "culture:::Festival de Cannes: «Woman and Child», une poussive «telenovela» iranienne",
-    "added_at": "2025-05-24T03:15:29.539Z"
+    "added_at": "2025-05-24T03:15:29.539Z",
+    "removed_at": "2025-05-25T09:45:26.104Z",
+    "duration_minutes": 1829,
+    "duration_str": "1d 6h 29m"
   },
   {
     "title": "monde:::En direct – «L’aide humanitaire est un devoir»: Ignazio Cassis rappelle la position du Conseil fédéral sur le conflit à Gaza",
@@ -8607,10 +8610,7 @@
   },
   {
     "title": "monde:::La diplomatie pontificale, l’art de la médiation «sans canons»",
-    "added_at": "2025-05-24T05:19:24.801Z",
-    "removed_at": "2025-05-24T15:18:24.104Z",
-    "duration_minutes": 598,
-    "duration_str": "9h 58m"
+    "added_at": "2025-05-24T05:19:24.801Z"
   },
   {
     "title": "monde:::Dix-sept blessés dans une attaque au couteau à la gare de Hambourg",
@@ -8770,7 +8770,10 @@
   },
   {
     "title": "sciences:::A Neuchâtel, des chercheurs exhument des techniques oubliées pour repenser notre avenir",
-    "added_at": "2025-05-24T15:14:33.012Z"
+    "added_at": "2025-05-24T15:14:33.012Z",
+    "removed_at": "2025-05-25T09:59:03.533Z",
+    "duration_minutes": 1124,
+    "duration_str": "18h 44m"
   },
   {
     "title": "culture:::Chanter pour pardonner: l’histoire du «chœur de la réconciliation» en Colombie",
@@ -8843,7 +8846,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Nouvelle attaque aérienne massive dans la région de Kiev, quelques heures avant un dernier échange de prisonniers",
-    "added_at": "2025-05-25T05:15:58.653Z"
+    "added_at": "2025-05-25T05:15:58.653Z",
+    "removed_at": "2025-05-25T10:00:56.104Z",
+    "duration_minutes": 284,
+    "duration_str": "4h 44m"
   },
   {
     "title": "monde:::Comment l’Ukraine est devenue la championne de la production de drones armés",
@@ -8882,5 +8888,13 @@
   {
     "title": "culture:::«Bande-son pour un coup d’Etat»: la musique au rythme des révolutions",
     "added_at": "2025-05-25T08:56:56.466Z"
+  },
+  {
+    "title": "culture:::Faye Toogood, designer: «J’aime la pollinisation croisée, le mélange des idées»",
+    "added_at": "2025-05-25T09:45:26.104Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Nouvelle attaque aérienne massive dans la région de Kiev, avant un dernier échange de prisonniers",
+    "added_at": "2025-05-25T10:00:56.104Z"
   }
 ]
