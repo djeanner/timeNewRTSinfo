@@ -15950,7 +15950,10 @@
   },
   {
     "title": "Lando Norris Wins the Formula 1 Monaco Grand Prix",
-    "added_at": "2025-05-25T14:57:13.562Z"
+    "added_at": "2025-05-25T14:57:13.562Z",
+    "removed_at": "2025-05-25T16:39:09.951Z",
+    "duration_minutes": 101,
+    "duration_str": "1h 41m"
   },
   {
     "title": "Day 1 of the French Open: Players Take to the Courts After a Rain Delay",
@@ -15967,5 +15970,9 @@
   {
     "title": "Most Memorial Day Sales Stink. But These Are Great.",
     "added_at": "2025-05-25T16:03:22.221Z"
+  },
+  {
+    "title": "Updates From the Indy 500 Race at the Indianapolis Motor Speedway",
+    "added_at": "2025-05-25T16:39:09.951Z"
   }
 ]
