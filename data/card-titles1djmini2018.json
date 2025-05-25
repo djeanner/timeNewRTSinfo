@@ -8941,7 +8941,10 @@
   },
   {
     "title": "Le glacier dans la région de Blatten accélère son mouvement, risque d'éboulement accru",
-    "added_at": "2025-05-23T12:53:50.942Z"
+    "added_at": "2025-05-23T12:53:50.942Z",
+    "removed_at": "2025-05-25T20:23:56.938Z",
+    "duration_minutes": 3330,
+    "duration_str": "2d 7h 30m"
   },
   {
     "title": "Les premières distributions de nourriture ont débuté à Gaza, mais sont encore largement insuffisantes",
@@ -9517,7 +9520,10 @@
   },
   {
     "title": "Une quinzaine de morts et plus de 100 blessés au Pakistan dans des tempêtes liées à la chaleur",
-    "added_at": "2025-05-25T15:27:26.449Z"
+    "added_at": "2025-05-25T15:27:26.449Z",
+    "removed_at": "2025-05-25T20:33:18.921Z",
+    "duration_minutes": 305,
+    "duration_str": "5h 5m"
   },
   {
     "title": "Le PS Vaud serre la vis sur les dérogations pour prolonger ou cumuler les mandats de ses élus",
@@ -9552,5 +9558,13 @@
   {
     "title": "Les Suisses sont plus resquilleurs qu'on ne le croit, notamment les Alémaniques",
     "added_at": "2025-05-25T20:06:59.726Z"
+  },
+  {
+    "title": "Panne de courant dans plusieurs quartiers de la ville de Berne",
+    "added_at": "2025-05-25T20:23:56.938Z"
+  },
+  {
+    "title": "Une quinzaine de morts et plus de cent blessés au Pakistan dans des tempêtes liées à la chaleur",
+    "added_at": "2025-05-25T20:33:18.921Z"
   }
 ]
