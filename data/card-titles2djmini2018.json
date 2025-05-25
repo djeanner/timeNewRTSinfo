@@ -6811,7 +6811,10 @@
   },
   {
     "title": "culture:::Festival de Cannes: «Woman and Child», une poussive «telenovela» iranienne",
-    "added_at": "2025-05-24T03:14:54.210Z"
+    "added_at": "2025-05-24T03:14:54.210Z",
+    "removed_at": "2025-05-25T09:45:50.650Z",
+    "duration_minutes": 1830,
+    "duration_str": "1d 6h 30m"
   },
   {
     "title": "monde:::En direct – «L’aide humanitaire est un devoir»: Ignazio Cassis rappelle la position du Conseil fédéral sur le conflit à Gaza",
@@ -6822,10 +6825,7 @@
   },
   {
     "title": "monde:::La diplomatie pontificale, l’art de la médiation «sans canons»",
-    "added_at": "2025-05-24T05:19:22.663Z",
-    "removed_at": "2025-05-24T15:18:01.793Z",
-    "duration_minutes": 598,
-    "duration_str": "9h 58m"
+    "added_at": "2025-05-24T05:19:22.663Z"
   },
   {
     "title": "monde:::Dix-sept blessés dans une attaque au couteau à la gare de Hambourg",
@@ -7090,5 +7090,9 @@
   {
     "title": "culture:::«Bande-son pour un coup d’Etat»: la musique au rythme des révolutions",
     "added_at": "2025-05-25T08:56:48.373Z"
+  },
+  {
+    "title": "culture:::Faye Toogood, designer: «J’aime la pollinisation croisée, le mélange des idées»",
+    "added_at": "2025-05-25T09:45:50.650Z"
   }
 ]
