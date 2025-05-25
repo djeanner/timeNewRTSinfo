@@ -8678,7 +8678,10 @@
   },
   {
     "title": "En Suisse, les salariés de plus en plus souvent en vacances ou absents pour maladie",
-    "added_at": "2025-05-22T19:50:28.589Z"
+    "added_at": "2025-05-22T19:50:28.589Z",
+    "removed_at": "2025-05-25T01:24:04.423Z",
+    "duration_minutes": 3213,
+    "duration_str": "2d 5h 33m"
   },
   {
     "title": "Exercice de sécurité géant au Stade de Genève avant l'Euro féminin",
@@ -8788,7 +8791,10 @@
   },
   {
     "title": "Dans le Jura, l'affaire Martial Courtet continue de susciter des interrogations",
-    "added_at": "2025-05-23T09:16:26.166Z"
+    "added_at": "2025-05-23T09:16:26.166Z",
+    "removed_at": "2025-05-25T01:24:04.423Z",
+    "duration_minutes": 2407,
+    "duration_str": "1d 16h 7m"
   },
   {
     "title": "Les banques trop laxistes dans l'octroi des crédits hypothécaires, alerte le gendarme suisse de la finance",
@@ -9266,5 +9272,9 @@
   {
     "title": "Sport matin - Le coaching gagnant de l'équipe suisse de hockey sur glace",
     "added_at": "2025-05-24T23:21:25.985Z"
+  },
+  {
+    "title": "La montagne menace toujours le village valaisan de Blatten",
+    "added_at": "2025-05-25T01:24:04.423Z"
   }
 ]
