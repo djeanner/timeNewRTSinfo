@@ -15994,7 +15994,10 @@
   },
   {
     "title": "Updates From the Indy 500 Race at the Indianapolis Motor Speedway",
-    "added_at": "2025-05-25T16:39:09.951Z"
+    "added_at": "2025-05-25T16:39:09.951Z",
+    "removed_at": "2025-05-25T20:08:49.431Z",
+    "duration_minutes": 209,
+    "duration_str": "3h 29m"
   },
   {
     "title": "G.O.P. Senators Signal Difficult Path Ahead for Trump Policy Bill",
@@ -16034,5 +16037,9 @@
   {
     "title": "Roland Garros Honors Rafael Nadal in Ceremony Flanked by His Greatest Rivals",
     "added_at": "2025-05-25T19:51:51.016Z"
+  },
+  {
+    "title": "Updates From a Chaotic Indy 500 Race at the Indianapolis Motor Speedway",
+    "added_at": "2025-05-25T20:08:49.431Z"
   }
 ]
