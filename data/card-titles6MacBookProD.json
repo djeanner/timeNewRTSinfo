@@ -5309,7 +5309,10 @@
   },
   {
     "title": "Ukraine, Russia exchange more prisoners after ‘difficult night’ of attacks",
-    "added_at": "2025-05-24T11:41:25.231Z"
+    "added_at": "2025-05-24T11:41:25.231Z",
+    "removed_at": "2025-05-25T09:00:52.421Z",
+    "duration_minutes": 1279,
+    "duration_str": "21h 19m"
   },
   {
     "title": "Ronaldo in ‘discussions’ to play at FIFA Club World Cup",
@@ -5441,5 +5444,9 @@
   {
     "title": "Ukraine under Russian missile, drone attacks for second night, 12 killed",
     "added_at": "2025-05-25T08:20:06.353Z"
+  },
+  {
+    "title": "Timberwolves rout Thunder by 42 points in Game 3 of NBA West finals",
+    "added_at": "2025-05-25T09:00:52.421Z"
   }
 ]
