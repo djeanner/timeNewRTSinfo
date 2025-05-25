@@ -6978,7 +6978,10 @@
   },
   {
     "title": "sciences:::A Neuchâtel, des chercheurs exhument des techniques oubliées pour repenser notre avenir",
-    "added_at": "2025-05-24T15:16:07.826Z"
+    "added_at": "2025-05-24T15:16:07.826Z",
+    "removed_at": "2025-05-25T09:59:03.661Z",
+    "duration_minutes": 1122,
+    "duration_str": "18h 42m"
   },
   {
     "title": "culture:::Chanter pour pardonner: l’histoire du «chœur de la réconciliation» en Colombie",
@@ -7051,7 +7054,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Nouvelle attaque aérienne massive dans la région de Kiev, quelques heures avant un dernier échange de prisonniers",
-    "added_at": "2025-05-25T05:16:08.812Z"
+    "added_at": "2025-05-25T05:16:08.812Z",
+    "removed_at": "2025-05-25T10:00:59.134Z",
+    "duration_minutes": 284,
+    "duration_str": "4h 44m"
   },
   {
     "title": "monde:::Comment l’Ukraine est devenue la championne de la production de drones armés",
@@ -7094,5 +7100,9 @@
   {
     "title": "culture:::Faye Toogood, designer: «J’aime la pollinisation croisée, le mélange des idées»",
     "added_at": "2025-05-25T09:45:50.650Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Nouvelle attaque aérienne massive dans la région de Kiev, avant un dernier échange de prisonniers",
+    "added_at": "2025-05-25T10:00:59.134Z"
   }
 ]
