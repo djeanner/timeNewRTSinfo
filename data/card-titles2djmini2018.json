@@ -7460,7 +7460,10 @@
   },
   {
     "title": "suisse:::Le trafic ferroviaire entre Lausanne et Fribourg a été interrompu",
-    "added_at": "2025-05-26T10:30:17.923Z"
+    "added_at": "2025-05-26T10:30:17.923Z",
+    "removed_at": "2025-05-26T13:18:03.405Z",
+    "duration_minutes": 167,
+    "duration_str": "2h 47m"
   },
   {
     "title": "economie:::Quatre anciens dirigeants de Volkswagen reconnus coupables de fraude dans le cadre du «dieselgate»",
@@ -7480,5 +7483,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – L’armée israélienne émet un ordre d’évacuation pour Khan Younès",
     "added_at": "2025-05-26T12:34:43.825Z"
+  },
+  {
+    "title": "economie:::Un navire de MSC coule au large de l’Inde",
+    "added_at": "2025-05-26T13:18:03.405Z"
   }
 ]

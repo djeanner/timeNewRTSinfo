@@ -9281,7 +9281,10 @@
   },
   {
     "title": "Une panne \"partielle\" d'électricité a frappé plusieurs quartiers de Berne",
-    "added_at": "2025-05-24T10:46:01.905Z"
+    "added_at": "2025-05-24T10:46:01.905Z",
+    "removed_at": "2025-05-26T13:10:35.076Z",
+    "duration_minutes": 3024,
+    "duration_str": "2d 2h 24m"
   },
   {
     "title": "Au moins 18 morts dans une attaque au couteau à la gare d'Hambourg, la suspecte atteinte de troubles mentaux",
@@ -9801,5 +9804,9 @@
   {
     "title": "Accusé de faux témoignage, l'ex-chancelier autrichien Sebastian Kurz relaxé en appel",
     "added_at": "2025-05-26T12:36:39.183Z"
+  },
+  {
+    "title": "Le canton de Fribourg actualise son concept de lutte contre les violences domestiques",
+    "added_at": "2025-05-26T13:10:35.076Z"
   }
 ]
