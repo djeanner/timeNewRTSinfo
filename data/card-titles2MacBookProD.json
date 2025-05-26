@@ -8690,7 +8690,10 @@
   },
   {
     "title": "culture:::Le grand guide des festivals de l’été 2025",
-    "added_at": "2025-05-24T09:41:04.990Z"
+    "added_at": "2025-05-24T09:41:04.990Z",
+    "removed_at": "2025-05-26T10:42:39.411Z",
+    "duration_minutes": 2941,
+    "duration_str": "2d 1h 1m"
   },
   {
     "title": "suisse:::Une «panne majeure» de courant a touché plusieurs quartiers de la ville de Berne",
@@ -8972,7 +8975,10 @@
   },
   {
     "title": "suisse:::Les corps sans vie de cinq skieurs ont été retrouvés dans la région de Zermatt",
-    "added_at": "2025-05-25T12:39:59.201Z"
+    "added_at": "2025-05-25T12:39:59.201Z",
+    "removed_at": "2025-05-26T11:19:28.035Z",
+    "duration_minutes": 1359,
+    "duration_str": "22h 39m"
   },
   {
     "title": "culture:::Festival de Cannes: la Palme d’or revient à «Un Simple Accident», grand film politique de Jafar Panahi",
@@ -9046,7 +9052,10 @@
   },
   {
     "title": "economie:::Julien Scarpa, expert chez CBRE: «Une surenchère sur les prix est à prévoir pour les meilleurs actifs immobiliers»",
-    "added_at": "2025-05-25T17:01:51.107Z"
+    "added_at": "2025-05-25T17:01:51.107Z",
+    "removed_at": "2025-05-26T10:42:39.411Z",
+    "duration_minutes": 1060,
+    "duration_str": "17h 40m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le CICR annonce la mort de deux de ses collaborateurs à Gaza",
@@ -9224,5 +9233,13 @@
   {
     "title": "suisse:::Le trafic ferroviaire entre Lausanne et Fribourg a été interrompu",
     "added_at": "2025-05-26T10:30:55.198Z"
+  },
+  {
+    "title": "economie:::Quatre anciens dirigeants de Volkswagen reconnus coupables de fraude dans le cadre du «dieselgate»",
+    "added_at": "2025-05-26T11:00:05.657Z"
+  },
+  {
+    "title": "suisse:::La situation reste tendue à Blatten",
+    "added_at": "2025-05-26T11:19:28.035Z"
   }
 ]
