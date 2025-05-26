@@ -7342,7 +7342,10 @@
   },
   {
     "title": "culture:::Le documentariste français Marcel Ophüls est décédé",
-    "added_at": "2025-05-26T03:46:48.416Z"
+    "added_at": "2025-05-26T03:46:48.416Z",
+    "removed_at": "2025-05-26T09:52:37.320Z",
+    "duration_minutes": 365,
+    "duration_str": "6h 5m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Au moins 13 morts dans le bombardement d'une école à Gaza par Israël",
@@ -7383,7 +7386,10 @@
   },
   {
     "title": "sport:::Félicien Du Bois sur la finale du Mondial de hockey: «Je dois avouer que les Etats-Unis méritent cette victoire»",
-    "added_at": "2025-05-26T05:53:03.195Z"
+    "added_at": "2025-05-26T05:53:03.195Z",
+    "removed_at": "2025-05-26T09:46:58.102Z",
+    "duration_minutes": 233,
+    "duration_str": "3h 53m"
   },
   {
     "title": "economie:::Guerre commerciale: Donald Trump joue avec les nerfs des Européens et revient une nouvelle fois en arrière",
@@ -7422,5 +7428,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Lufthansa et Swiss prolongent la suspension de leurs vols vers Tev Aviv",
     "added_at": "2025-05-26T09:22:23.363Z"
+  },
+  {
+    "title": "monde:::Archiver les crimes commis à Gaza: «C’est mon devoir de citoyen», estime l’historien israélien Lee Mordechai",
+    "added_at": "2025-05-26T09:46:58.102Z"
   }
 ]
