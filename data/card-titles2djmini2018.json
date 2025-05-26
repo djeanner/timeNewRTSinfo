@@ -6898,7 +6898,10 @@
   },
   {
     "title": "culture:::Le grand guide des festivals de l’été 2025",
-    "added_at": "2025-05-24T09:41:46.266Z"
+    "added_at": "2025-05-24T09:41:46.266Z",
+    "removed_at": "2025-05-26T10:43:30.739Z",
+    "duration_minutes": 2941,
+    "duration_str": "2d 1h 1m"
   },
   {
     "title": "suisse:::Une «panne majeure» de courant a touché plusieurs quartiers de la ville de Berne",
@@ -7268,7 +7271,10 @@
   },
   {
     "title": "economie:::Julien Scarpa, expert chez CBRE: «Une surenchère sur les prix est à prévoir pour les meilleurs actifs immobiliers»",
-    "added_at": "2025-05-25T17:01:50.784Z"
+    "added_at": "2025-05-25T17:01:50.784Z",
+    "removed_at": "2025-05-26T10:41:35.216Z",
+    "duration_minutes": 1059,
+    "duration_str": "17h 39m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le CICR annonce la mort de deux de ses collaborateurs à Gaza",
@@ -7374,7 +7380,10 @@
   },
   {
     "title": "suisse:::Le trafic ferroviaire entre Lausanne et Fribourg est interrompu",
-    "added_at": "2025-05-26T05:21:03.516Z"
+    "added_at": "2025-05-26T05:21:03.516Z",
+    "removed_at": "2025-05-26T10:30:17.923Z",
+    "duration_minutes": 309,
+    "duration_str": "5h 9m"
   },
   {
     "title": "economie:::Donald Trump et Ursula von der Leyen confirment une prolongation de la pause dans les droits de douane pour l'UE",
@@ -7439,5 +7448,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – «Le président Poutine fait ce qu’il faut pour assurer la sécurité de la Russie», assure le Kremlin",
     "added_at": "2025-05-26T10:03:56.319Z"
+  },
+  {
+    "title": "suisse:::Le trafic ferroviaire entre Lausanne et Fribourg a été interrompu",
+    "added_at": "2025-05-26T10:30:17.923Z"
   }
 ]
