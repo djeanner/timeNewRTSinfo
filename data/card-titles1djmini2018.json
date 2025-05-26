@@ -9049,7 +9049,10 @@
   },
   {
     "title": "Institution à Neuchâtel, le bar \"Au 21\" baisse le rideau",
-    "added_at": "2025-05-23T17:24:03.714Z"
+    "added_at": "2025-05-23T17:24:03.714Z",
+    "removed_at": "2025-05-26T02:16:22.565Z",
+    "duration_minutes": 3412,
+    "duration_str": "2d 8h 52m"
   },
   {
     "title": "Au moins 12 blessés dans une attaque au couteau à la gare de Hambourg, en Allemagne",
@@ -9604,5 +9607,9 @@
   {
     "title": "Des lentilles de contact qui permettent de voir l'invisible: la lumière infrarouge",
     "added_at": "2025-05-26T00:25:13.806Z"
+  },
+  {
+    "title": "Les Etats-Unis vont prolonger la suspension des droits de douane pour l'UE",
+    "added_at": "2025-05-26T02:16:22.565Z"
   }
 ]
