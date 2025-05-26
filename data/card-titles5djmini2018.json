@@ -29,14 +29,17 @@
   },
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-26T08:12:36.433Z",
+    "duration_minutes": 24310,
+    "duration_str": "16d 21h 10m"
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
     "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-26T07:51:53.197Z",
-    "duration_minutes": 24290,
-    "duration_str": "16d 20h 50m"
+    "removed_at": "2025-05-26T08:12:36.433Z",
+    "duration_minutes": 24310,
+    "duration_str": "16d 21h 10m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -5361,10 +5364,7 @@
   },
   {
     "title": "Les bombes planantes : l’astuce de la Russie pour recycler ses vieilles armes",
-    "added_at": "2025-05-13T10:01:09.971Z",
-    "removed_at": "2025-05-26T07:46:13.745Z",
-    "duration_minutes": 18585,
-    "duration_str": "12d 21h 45m"
+    "added_at": "2025-05-13T10:01:09.971Z"
   },
   {
     "title": "Gérard Depardieu condamné à dix-huit mois de prison avec sursis pour agressions sexuelles sur le tournage du film « Les Volets verts »",
@@ -15474,9 +15474,9 @@
   {
     "title": "« L’économie française se rapproche dangereusement du bord de la falaise »",
     "added_at": "2025-05-22T13:07:54.283Z",
-    "removed_at": "2025-05-26T07:48:09.378Z",
-    "duration_minutes": 5440,
-    "duration_str": "3d 18h 40m"
+    "removed_at": "2025-05-26T08:05:08.161Z",
+    "duration_minutes": 5457,
+    "duration_str": "3d 18h 57m"
   },
   {
     "title": "Dans « Love Me Tender », présenté à Cannes, Vicky Krieps au tribunal de l’amour maternel",
@@ -17631,7 +17631,10 @@
   },
   {
     "title": "L’inquiétante dérive budgétaire américaine",
-    "added_at": "2025-05-24T09:41:46.847Z"
+    "added_at": "2025-05-24T09:41:46.847Z",
+    "removed_at": "2025-05-26T08:06:57.561Z",
+    "duration_minutes": 2785,
+    "duration_str": "1d 22h 25m"
   },
   {
     "title": "En Allemagne, le bilan de l’attaque au couteau à Hambourg monte à 18 blessés",
@@ -18350,14 +18353,17 @@
   },
   {
     "title": "« Les anciens ont connu un management similaire à leur époque, donc ils te font endurer la même chose » : chez les jeunes avocats, la robe pèse plus lourd",
-    "added_at": "2025-05-25T02:22:37.009Z"
+    "added_at": "2025-05-25T02:22:37.009Z",
+    "removed_at": "2025-05-26T08:08:51.230Z",
+    "duration_minutes": 1786,
+    "duration_str": "1d 5h 46m"
   },
   {
     "title": "Paroles de déserteurs russes : « Dans mes pires cauchemars, mes anciens officiers me retrouvent et m’arrêtent »",
     "added_at": "2025-05-25T03:02:13.208Z",
-    "removed_at": "2025-05-26T07:53:48.942Z",
-    "duration_minutes": 1731,
-    "duration_str": "1d 4h 51m"
+    "removed_at": "2025-05-26T07:59:29.452Z",
+    "duration_minutes": 1737,
+    "duration_str": "1d 4h 57m"
   },
   {
     "title": "« C’est hypervalorisant de se produire ici. Il y a une écoute attentive » : les spectacles chez les particuliers en plein essor",
@@ -18650,7 +18656,10 @@
   },
   {
     "title": "Après Cannes, Nice visée à son tour par un sabotage électrique",
-    "added_at": "2025-05-25T10:23:38.117Z"
+    "added_at": "2025-05-25T10:23:38.117Z",
+    "removed_at": "2025-05-26T08:03:12.417Z",
+    "duration_minutes": 1299,
+    "duration_str": "21h 39m"
   },
   {
     "title": "En direct : le dernier échange de prisonniers entre l’Ukraine et la Russie a eu lieu",
@@ -18833,10 +18842,7 @@
   },
   {
     "title": "Le sort de Laurent Vinatier, prisonnier français en Russie, inquiète ses proches, sans nouvelles de lui",
-    "added_at": "2025-05-25T15:16:08.980Z",
-    "removed_at": "2025-05-26T07:33:00.280Z",
-    "duration_minutes": 976,
-    "duration_str": "16h 16m"
+    "added_at": "2025-05-25T15:16:08.980Z"
   },
   {
     "title": "En direct | Roland-Garros 2025 : Mpetshi Perricard qualifié, la céremonie d’adieu de Nadal se rapproche",
@@ -19323,5 +19329,13 @@
   {
     "title": "Au Venezuela, le parti de Nicolas Maduro remporte 23 des 24 gouvernorats, probable majorité absolue à l’Assemblée",
     "added_at": "2025-05-26T07:51:53.197Z"
+  },
+  {
+    "title": "La Sécurité sociale menacée d’une « crise de liquidité », selon un rapport de la Cour des comptes",
+    "added_at": "2025-05-26T08:03:12.417Z"
+  },
+  {
+    "title": "L’insoutenable dérive de la Sécurité sociale",
+    "added_at": "2025-05-26T08:06:57.561Z"
   }
 ]

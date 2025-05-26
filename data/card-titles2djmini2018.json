@@ -7365,7 +7365,10 @@
   },
   {
     "title": "suisse:::Le trafic ferroviaire entre Lausanne et Fribourg est interrompu",
-    "added_at": "2025-05-26T05:21:03.516Z"
+    "added_at": "2025-05-26T05:21:03.516Z",
+    "removed_at": "2025-05-26T08:03:11.863Z",
+    "duration_minutes": 162,
+    "duration_str": "2h 42m"
   },
   {
     "title": "economie:::Donald Trump et Ursula von der Leyen confirment une prolongation de la pause dans les droits de douane pour l'UE",
@@ -7408,5 +7411,9 @@
   {
     "title": "suisse:::Dossier électronique du patient: cinq cantons romands tournent le dos à La Poste",
     "added_at": "2025-05-26T07:04:39.062Z"
+  },
+  {
+    "title": "suisse:::Martin Pfister, conseiller fédéral à la Défense: «Le risque d’une guerre sur le continent ces cinq prochaines années augmente»",
+    "added_at": "2025-05-26T08:05:07.618Z"
   }
 ]
