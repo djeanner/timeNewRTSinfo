@@ -9120,7 +9120,10 @@
   },
   {
     "title": "culture:::Le documentariste français Marcel Ophüls est décédé",
-    "added_at": "2025-05-26T03:47:02.165Z"
+    "added_at": "2025-05-26T03:47:02.165Z",
+    "removed_at": "2025-05-26T09:52:07.388Z",
+    "duration_minutes": 365,
+    "duration_str": "6h 5m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Au moins 13 morts dans le bombardement d'une école à Gaza par Israël",
@@ -9131,7 +9134,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Donald Trump affirme que Vladimir Poutine «est devenu complètement fou»",
-    "added_at": "2025-05-26T04:06:24.125Z"
+    "added_at": "2025-05-26T04:06:24.125Z",
+    "removed_at": "2025-05-26T10:03:44.119Z",
+    "duration_minutes": 357,
+    "duration_str": "5h 57m"
   },
   {
     "title": "sport:::«C’est peut-être notre soir»: les supporters suisses ont fait monter la fièvre avant la finale à Stockholm",
@@ -9146,7 +9152,10 @@
   },
   {
     "title": "suisse:::Le trafic ferroviaire entre Lausanne et Fribourg est interrompu",
-    "added_at": "2025-05-26T05:22:07.611Z"
+    "added_at": "2025-05-26T05:22:07.611Z",
+    "removed_at": "2025-05-26T10:30:55.198Z",
+    "duration_minutes": 308,
+    "duration_str": "5h 8m"
   },
   {
     "title": "economie:::Donald Trump et Ursula von der Leyen confirment une prolongation de la pause dans les droits de douane pour l'UE",
@@ -9161,7 +9170,10 @@
   },
   {
     "title": "sport:::Félicien Du Bois sur la finale du Mondial de hockey: «Je dois avouer que les Etats-Unis méritent cette victoire»",
-    "added_at": "2025-05-26T05:53:06.309Z"
+    "added_at": "2025-05-26T05:53:06.309Z",
+    "removed_at": "2025-05-26T09:48:15.171Z",
+    "duration_minutes": 235,
+    "duration_str": "3h 55m"
   },
   {
     "title": "economie:::Guerre commerciale: Donald Trump joue avec les nerfs des Européens et revient une nouvelle fois en arrière",
@@ -9200,5 +9212,17 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Lufthansa et Swiss prolongent la suspension de leurs vols vers Tev Aviv",
     "added_at": "2025-05-26T09:22:56.404Z"
+  },
+  {
+    "title": "monde:::Archiver les crimes commis à Gaza: «C’est mon devoir de citoyen», estime l’historien israélien Lee Mordechai",
+    "added_at": "2025-05-26T09:48:15.171Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – «Le président Poutine fait ce qu’il faut pour assurer la sécurité de la Russie», assure le Kremlin",
+    "added_at": "2025-05-26T10:03:44.119Z"
+  },
+  {
+    "title": "suisse:::Le trafic ferroviaire entre Lausanne et Fribourg a été interrompu",
+    "added_at": "2025-05-26T10:30:55.198Z"
   }
 ]
