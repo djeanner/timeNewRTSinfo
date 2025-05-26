@@ -9220,7 +9220,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Lufthansa et Swiss prolongent la suspension de leurs vols vers Tev Aviv",
-    "added_at": "2025-05-26T09:22:56.404Z"
+    "added_at": "2025-05-26T09:22:56.404Z",
+    "removed_at": "2025-05-26T12:06:05.047Z",
+    "duration_minutes": 163,
+    "duration_str": "2h 43m"
   },
   {
     "title": "monde:::Archiver les crimes commis à Gaza: «C’est mon devoir de citoyen», estime l’historien israélien Lee Mordechai",
@@ -9241,5 +9244,9 @@
   {
     "title": "suisse:::La situation reste tendue à Blatten",
     "added_at": "2025-05-26T11:19:28.035Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Lufthansa et Swiss prolongent la suspension de leurs vols vers Tel Aviv",
+    "added_at": "2025-05-26T12:06:05.047Z"
   }
 ]
