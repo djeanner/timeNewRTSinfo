@@ -12277,7 +12277,10 @@
   },
   {
     "title": "Un sabotage a privé d'électricité 160'000 foyers dans la région de Cannes pendant la journée",
-    "added_at": "2025-05-24T16:10:48.207Z"
+    "added_at": "2025-05-24T16:10:48.207Z",
+    "removed_at": "2025-05-26T14:29:59.146Z",
+    "duration_minutes": 2779,
+    "duration_str": "1d 22h 19m"
   },
   {
     "title": "En France, des détenteurs de cryptomonnaies visés par des tentatives d'enlèvements",
@@ -12542,7 +12545,10 @@
   },
   {
     "title": "Bière sans alcool : un marché qui monte mais qui interroge sur les addictions",
-    "added_at": "2025-05-25T23:25:24.478Z"
+    "added_at": "2025-05-25T23:25:24.478Z",
+    "removed_at": "2025-05-26T14:27:59.003Z",
+    "duration_minutes": 902,
+    "duration_str": "15h 2m"
   },
   {
     "title": "Il y a 5 ans, Georges Floyd était tué par un policier blanc aux Etats-Unis",
@@ -12707,5 +12713,13 @@
   {
     "title": "Un baptême de l'air en parapente pour une alerte aventurière de 98 ans",
     "added_at": "2025-05-26T14:00:44.094Z"
+  },
+  {
+    "title": "Selon un sondage, 25% à 40% des Suisses ont déjà commis un vol à l’étalage",
+    "added_at": "2025-05-26T14:27:59.003Z"
+  },
+  {
+    "title": "Une tour imprimée en 3D, sur les traces des héroïnes et des murs en champignons",
+    "added_at": "2025-05-26T14:29:59.146Z"
   }
 ]
