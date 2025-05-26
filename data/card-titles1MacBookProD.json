@@ -12179,7 +12179,10 @@
   },
   {
     "title": "Boire ou chasser? Les chasseurs fribourgeois n'auront pas à choisir",
-    "added_at": "2025-05-24T11:02:33.045Z"
+    "added_at": "2025-05-24T11:02:33.045Z",
+    "removed_at": "2025-05-26T15:28:18.157Z",
+    "duration_minutes": 3145,
+    "duration_str": "2d 4h 25m"
   },
   {
     "title": "Au moins 18 morts dans une attaque au couteau à la gare d'Hambourg, la suspecte atteinte de troubles mentaux",
@@ -12233,7 +12236,10 @@
   },
   {
     "title": "Attaque au couteau à Hambourg: 18 blessés, la suspecte souffrirait de troubles mentaux",
-    "added_at": "2025-05-24T12:39:32.742Z"
+    "added_at": "2025-05-24T12:39:32.742Z",
+    "removed_at": "2025-05-26T14:57:12.828Z",
+    "duration_minutes": 3017,
+    "duration_str": "2d 2h 17m"
   },
   {
     "title": "Quinze morts dans de nouvelles frappes israéliennes nocturnes sur la bande de Gaza",
@@ -12255,7 +12261,10 @@
   },
   {
     "title": "En difficulté à cause d'une grève, Chiquita licencie 5000 personnes au Panama",
-    "added_at": "2025-05-24T14:45:26.101Z"
+    "added_at": "2025-05-24T14:45:26.101Z",
+    "removed_at": "2025-05-26T14:59:11.713Z",
+    "duration_minutes": 2893,
+    "duration_str": "2d 13m"
   },
   {
     "title": "Affaire Dittli: le Ministère public vaudois ouvre deux instructions pénales",
@@ -12316,7 +12325,10 @@
   },
   {
     "title": "Quinze morts dans de nouveaux bombardements israéliens sur la bande de Gaza",
-    "added_at": "2025-05-24T20:46:11.005Z"
+    "added_at": "2025-05-24T20:46:11.005Z",
+    "removed_at": "2025-05-26T15:16:38.035Z",
+    "duration_minutes": 2550,
+    "duration_str": "1d 18h 30m"
   },
   {
     "title": "Découvrir ses origines par un test ADN, un business florissant",
@@ -12482,10 +12494,7 @@
   },
   {
     "title": "Une quinzaine de morts et plus de 100 blessés au Pakistan dans des tempêtes liées à la chaleur",
-    "added_at": "2025-05-25T15:26:50.495Z",
-    "removed_at": "2025-05-25T20:33:20.925Z",
-    "duration_minutes": 306,
-    "duration_str": "5h 6m"
+    "added_at": "2025-05-25T15:26:50.495Z"
   },
   {
     "title": "Le PS Vaud serre la vis sur les dérogations pour prolonger ou cumuler les mandats de ses élus",
@@ -12721,5 +12730,17 @@
   {
     "title": "Une tour imprimée en 3D, sur les traces des héroïnes et des murs en champignons",
     "added_at": "2025-05-26T14:29:59.146Z"
+  },
+  {
+    "title": "Une quinzaine de caravanes de gens du voyage s'installent sur une parcelle privée à Jussy",
+    "added_at": "2025-05-26T14:57:12.828Z"
+  },
+  {
+    "title": "Wawrinka sorti dès le premier tour",
+    "added_at": "2025-05-26T14:59:11.713Z"
+  },
+  {
+    "title": "Un homme décède dans les locaux de la police municipale de Lausanne",
+    "added_at": "2025-05-26T15:16:38.035Z"
   }
 ]
