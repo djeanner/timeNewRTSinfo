@@ -12108,7 +12108,10 @@
   },
   {
     "title": "Une vague de \"crypto kidnappings\" touche la France",
-    "added_at": "2025-05-24T08:52:45.150Z"
+    "added_at": "2025-05-24T08:52:45.150Z",
+    "removed_at": "2025-05-26T18:40:59.155Z",
+    "duration_minutes": 3468,
+    "duration_str": "2d 9h 48m"
   },
   {
     "title": "Le nord de l'Europe frappé par une sécheresse exceptionnelle",
@@ -12315,7 +12318,10 @@
   },
   {
     "title": "Novak Djokovic, le 100 neuf",
-    "added_at": "2025-05-24T19:44:11.921Z"
+    "added_at": "2025-05-24T19:44:11.921Z",
+    "removed_at": "2025-05-26T18:48:41.083Z",
+    "duration_minutes": 2824,
+    "duration_str": "1d 23h 4m"
   },
   {
     "title": "Les Grenat sont vice-champions de Suisse",
@@ -12770,5 +12776,20 @@
   {
     "title": "Emmanuel Macron répond à la polémique sur la prétendue gifle donnée par Brigitte",
     "added_at": "2025-05-26T17:56:10.839Z"
+  },
+  {
+    "title": "Une voiture fonce dans la foule lors de la parade de la victoire du club de foot de Liverpool",
+    "added_at": "2025-05-26T18:40:59.155Z",
+    "removed_at": "2025-05-26T18:56:26.810Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "Trois des cinq alpinistes retrouvés sans vie au-dessus de Zermatt ont été identifiés",
+    "added_at": "2025-05-26T18:48:41.083Z"
+  },
+  {
+    "title": "Une voiture fonce dans la foule lors de la parade du FC Liverpool, faisant plusieurs blessés",
+    "added_at": "2025-05-26T18:56:26.810Z"
   }
 ]
