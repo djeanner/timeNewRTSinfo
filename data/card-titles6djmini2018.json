@@ -5931,7 +5931,10 @@
   },
   {
     "title": "Ukraine under Russian missile, drone attacks for second night, 12 killed",
-    "added_at": "2025-05-25T08:21:01.400Z"
+    "added_at": "2025-05-25T08:21:01.400Z",
+    "removed_at": "2025-05-26T10:15:15.525Z",
+    "duration_minutes": 1554,
+    "duration_str": "1d 1h 54m"
   },
   {
     "title": "Timberwolves rout Thunder by 42 points in Game 3 of NBA West finals",
@@ -6176,5 +6179,9 @@
   {
     "title": "Israeli strikes kill more than 50 as school and housing hit",
     "added_at": "2025-05-26T09:11:04.330Z"
+  },
+  {
+    "title": "Trump rows back tariff threat to agree EU trade-talk extension",
+    "added_at": "2025-05-26T10:15:15.525Z"
   }
 ]
