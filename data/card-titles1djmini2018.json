@@ -9224,7 +9224,10 @@
   },
   {
     "title": "Une vague de \"crypto kidnappings\" touche la France",
-    "added_at": "2025-05-24T08:52:37.663Z"
+    "added_at": "2025-05-24T08:52:37.663Z",
+    "removed_at": "2025-05-26T18:40:38.419Z",
+    "duration_minutes": 3468,
+    "duration_str": "2d 9h 48m"
   },
   {
     "title": "Le nord de l'Europe frappé par une sécheresse exceptionnelle",
@@ -9886,5 +9889,9 @@
   {
     "title": "Emmanuel Macron répond à la polémique sur la prétendue gifle donnée par Brigitte",
     "added_at": "2025-05-26T17:55:19.812Z"
+  },
+  {
+    "title": "Une voiture fonce dans la foule lors de la parade de la victoire du club de foot de Liverpool",
+    "added_at": "2025-05-26T18:40:38.419Z"
   }
 ]
