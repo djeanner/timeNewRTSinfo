@@ -7429,7 +7429,10 @@
   },
   {
     "title": "monde:::Tammam Aloudat, l’humanitaire à bras-le-corps",
-    "added_at": "2025-05-26T06:55:14.737Z"
+    "added_at": "2025-05-26T06:55:14.737Z",
+    "removed_at": "2025-05-26T16:02:06.157Z",
+    "duration_minutes": 546,
+    "duration_str": "9h 6m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Au moins 33 morts dans le bombardement d’une école à Gaza par Israël",
@@ -7547,5 +7550,9 @@
   {
     "title": "suisse:::Une personne d’origine africaine décède dans les locaux de la police lausannoise",
     "added_at": "2025-05-26T15:39:28.136Z"
+  },
+  {
+    "title": "cyber:::Pourquoi vous devez agir avant que vos données soient exploitées pour l’intelligence artificielle de Meta",
+    "added_at": "2025-05-26T16:02:06.157Z"
   }
 ]
