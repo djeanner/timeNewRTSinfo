@@ -127,8 +127,9 @@
   {
     "title": "suisse:::Le trafic ferroviaire entre Lausanne et Fribourg a été interrompu",
     "added_at": "2025-05-26T10:30:55.198Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-26T13:18:02.917Z",
+    "duration_minutes": 167,
+    "duration_str": "2h 47m"
   },
   {
     "title": "economie:::Quatre anciens dirigeants de Volkswagen reconnus coupables de fraude dans le cadre du «dieselgate»",
@@ -152,6 +153,32 @@
   {
     "title": "monde:::En direct, Moyen-Orient – L’armée israélienne émet un ordre d’évacuation pour Khan Younès",
     "added_at": "2025-05-26T12:35:15.512Z",
+    "removed_at": "2025-05-26T13:41:19.228Z",
+    "duration_minutes": 66,
+    "duration_str": "1h 6m"
+  },
+  {
+    "title": "economie:::Un navire de MSC coule au large de l’Inde",
+    "added_at": "2025-05-26T13:18:02.917Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, guerre à Gaza – L’armée israélienne émet un ordre d’évacuation pour Khan Younès",
+    "added_at": "2025-05-26T13:41:19.228Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Martin Pfister a choisi Bure pour sa première prise de parole",
+    "added_at": "2025-05-26T13:49:06.231Z",
+    "removed_at": "2025-05-26T13:56:48.766Z",
+    "duration_minutes": 8,
+    "duration_str": "8m"
+  },
+  {
+    "title": "suisse:::A Bure, Martin Pfister veut mettre l’armée en ordre de marche",
+    "added_at": "2025-05-26T13:56:48.766Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
