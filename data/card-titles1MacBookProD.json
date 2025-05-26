@@ -11877,7 +11877,10 @@
   },
   {
     "title": "Le procureur général vaudois ouvre deux instructions pénales dans l'affaire Dittli",
-    "added_at": "2025-05-23T15:11:42.120Z"
+    "added_at": "2025-05-23T15:11:42.120Z",
+    "removed_at": "2025-05-26T08:32:28.396Z",
+    "duration_minutes": 3920,
+    "duration_str": "2d 17h 20m"
   },
   {
     "title": "Un discours du conseiller d'Etat Frédéric Borloz perturbé par des activistes pro-palestiniens à l'Unil",
@@ -12575,10 +12578,28 @@
   },
   {
     "title": "Plus de 30 morts dans une frappe israélienne sur une école de Gaza",
-    "added_at": "2025-05-26T07:20:30.477Z"
+    "added_at": "2025-05-26T07:20:30.477Z",
+    "removed_at": "2025-05-26T08:17:02.485Z",
+    "duration_minutes": 56,
+    "duration_str": "56m"
   },
   {
     "title": "Le glacier au-dessus de Blatten menace de rompre sous  la pression de 9 millions de tonnes de débris",
     "added_at": "2025-05-26T07:49:45.321Z"
+  },
+  {
+    "title": "Au moins 52 morts dans des bombardements israéliens sur la bande de Gaza",
+    "added_at": "2025-05-26T08:17:02.485Z",
+    "removed_at": "2025-05-26T08:22:51.621Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "Au moins 52 morts dans des bombardements israéliens sur la bande de Gaza, dont 33 dans une école",
+    "added_at": "2025-05-26T08:22:51.621Z"
+  },
+  {
+    "title": "Les CFF prennent des mesures pour éviter l'électrocution des oiseaux",
+    "added_at": "2025-05-26T08:32:28.396Z"
   }
 ]
