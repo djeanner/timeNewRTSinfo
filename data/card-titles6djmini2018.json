@@ -6208,7 +6208,10 @@
   },
   {
     "title": "Israeli strikes kill more than 50 as school and housing hit",
-    "added_at": "2025-05-26T09:11:04.330Z"
+    "added_at": "2025-05-26T09:11:04.330Z",
+    "removed_at": "2025-05-26T15:01:46.179Z",
+    "duration_minutes": 350,
+    "duration_str": "5h 50m"
   },
   {
     "title": "Trump rows back tariff threat to agree EU trade-talk extension",
@@ -6234,7 +6237,10 @@
   },
   {
     "title": "Uganda targeting LGBTQ community with hatred and violence: HRW",
-    "added_at": "2025-05-26T11:24:57.716Z"
+    "added_at": "2025-05-26T11:24:57.716Z",
+    "removed_at": "2025-05-26T15:14:59.347Z",
+    "duration_minutes": 230,
+    "duration_str": "3h 50m"
   },
   {
     "title": "Iran rules out enrichment break as bait for US nuclear deal",
@@ -6277,5 +6283,13 @@
   {
     "title": "ECB’s Lagarde says euro could be viable alternative to US dollar",
     "added_at": "2025-05-26T14:59:50.866Z"
+  },
+  {
+    "title": "Israeli attacks kill dozens in Gaza, including 36 in school-turned-shelter",
+    "added_at": "2025-05-26T15:01:46.179Z"
+  },
+  {
+    "title": "Hezbollah holds firm in Lebanon’s municipal elections",
+    "added_at": "2025-05-26T15:14:59.347Z"
   }
 ]

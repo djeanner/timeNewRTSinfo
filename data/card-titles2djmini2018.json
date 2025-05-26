@@ -7474,7 +7474,10 @@
   },
   {
     "title": "suisse:::La situation reste tendue à Blatten",
-    "added_at": "2025-05-26T11:19:16.525Z"
+    "added_at": "2025-05-26T11:19:16.525Z",
+    "removed_at": "2025-05-26T15:01:45.509Z",
+    "duration_minutes": 222,
+    "duration_str": "3h 42m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Lufthansa et Swiss prolongent la suspension de leurs vols vers Tel Aviv",
@@ -7529,5 +7532,13 @@
   {
     "title": "monde:::En direct, guerre à Gaza – Le Hamas a accepté une nouvelle proposition de trêve des médiateurs",
     "added_at": "2025-05-26T14:39:06.719Z"
+  },
+  {
+    "title": "suisse:::Plusieurs associations réclament au Conseil fédéral un moratoire sur les extensions autoroutières",
+    "added_at": "2025-05-26T15:01:45.509Z"
+  },
+  {
+    "title": "culture:::Blu boy express, un chanteur fribourgeois qui met en musique ses états d’âme",
+    "added_at": "2025-05-26T15:14:58.714Z"
   }
 ]
