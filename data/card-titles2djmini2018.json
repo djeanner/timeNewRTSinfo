@@ -7874,7 +7874,10 @@
   },
   {
     "title": "suisse:::Dans le Lötschental, le glacier du Birch menace toujours de fondre sur le village de Blatten",
-    "added_at": "2025-05-27T18:11:43.412Z"
+    "added_at": "2025-05-27T18:11:43.412Z",
+    "removed_at": "2025-05-27T21:35:33.049Z",
+    "duration_minutes": 203,
+    "duration_str": "3h 23m"
   },
   {
     "title": "monde:::En direct, guerre à Gaza – Dans la bande de Gaza affamée, la foule se rue sur un centre de distribution d’aide",
@@ -7887,5 +7890,9 @@
   {
     "title": "culture:::Nathalie Quintane s’inspire de son matou pour signer un récit expérimental, drôle et félin: «Chemoule, un chat français»",
     "added_at": "2025-05-27T20:33:18.825Z"
+  },
+  {
+    "title": "suisse:::Dans le Lötschental, le glacier du Birch menace de fondre sur le village de Blatten",
+    "added_at": "2025-05-27T21:35:33.049Z"
   }
 ]
