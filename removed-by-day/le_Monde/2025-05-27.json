@@ -76,9 +76,8 @@
   {
     "title": "« Face à Bruno Retailleau, rien ne va plus dans le bloc central, et pourtant tout continue comme avant »",
     "added_at": "2025-05-27T03:33:00.242Z",
-    "removed_at": "2025-05-27T05:19:52.435Z",
-    "duration_minutes": 107,
-    "duration_str": "1h 47m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "La NASA réussit à rallumer un des propulseurs de Voyager 1, après vingt et un ans d’inactivité",
@@ -117,9 +116,8 @@
   {
     "title": "Amours de jeunesse : « Il me dit qu’il est sûr que je l’aimerai encore, qu’il prie pour que je l’aime encore. Quel culot ! »",
     "added_at": "2025-05-27T04:04:09.435Z",
-    "removed_at": "2025-05-27T13:28:03.230Z",
-    "duration_minutes": 564,
-    "duration_str": "9h 24m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Mia Threapleton, actrice dans « The Phoenician Scheme » : « Wes Anderson laisse une grande place à l’invention »",
@@ -152,8 +150,9 @@
   {
     "title": "« Certains responsables politiques démagogiques marchent main dans la main avec l’islamisme »",
     "added_at": "2025-05-27T05:17:54.839Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-27T14:57:38.699Z",
+    "duration_minutes": 580,
+    "duration_str": "9h 40m"
   },
   {
     "title": "Mon master : « J’ai fini lessivée, avec une estime de moi en chute libre », les étudiants plongés dans le stress de la sélection",
@@ -595,8 +594,9 @@
   {
     "title": "En direct, fin de vie : suivez le vote de l’Assemblée sur l’aide à mourir et posez vos questions",
     "added_at": "2025-05-27T13:22:12.893Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-27T14:49:53.012Z",
+    "duration_minutes": 88,
+    "duration_str": "1h 28m"
   },
   {
     "title": "Grève des taxis : le gouvernement promet d’intensifier les contrôles des VTC ; la mobilisation continue avant une réunion au ministère de la santé",
@@ -628,6 +628,46 @@
   {
     "title": "« Nous plaidons pour l’abolition des pratiques d’isolement et de contention, en augmentation constante »",
     "added_at": "2025-05-27T14:07:05.592Z",
+    "removed_at": "2025-05-27T15:07:20.130Z",
+    "duration_minutes": 60,
+    "duration_str": "1h"
+  },
+  {
+    "title": "En direct : le vote de l’Assemblée nationale sur la proposition de loi relative aux soins palliatifs a débuté",
+    "added_at": "2025-05-27T14:49:53.012Z",
+    "removed_at": "2025-05-27T14:51:50.840Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Le conflit entre Amazon et le médiateur du livre se poursuit",
+    "added_at": "2025-05-27T14:51:50.840Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "En direct : le vote de l’Assemblée nationale sur la proposition de loi relative aux soins palliatifs va débuter",
+    "added_at": "2025-05-27T14:51:50.840Z",
+    "removed_at": "2025-05-27T15:09:18.016Z",
+    "duration_minutes": 17,
+    "duration_str": "17m"
+  },
+  {
+    "title": "Manon Aubry, députée européenne : « Emmanuel Macron choisit de défendre les grands patrons plutôt que ceux qu’ils exploitent »",
+    "added_at": "2025-05-27T15:07:20.130Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "En direct : le vote de l’Assemblée sur la proposition de loi relative aux soins palliatifs va débuter après les explications préalables",
+    "added_at": "2025-05-27T15:09:18.016Z",
+    "removed_at": "2025-05-27T15:21:00.112Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "En direct : le vote de l’Assemblée sur la proposition de loi relative aux soins palliatifs débutera après les explications préalables",
+    "added_at": "2025-05-27T15:21:00.112Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
