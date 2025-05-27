@@ -7522,7 +7522,10 @@
   },
   {
     "title": "economie:::Un navire de MSC coule au large de l’Inde",
-    "added_at": "2025-05-26T13:18:03.405Z"
+    "added_at": "2025-05-26T13:18:03.405Z",
+    "removed_at": "2025-05-27T11:29:32.765Z",
+    "duration_minutes": 1331,
+    "duration_str": "22h 11m"
   },
   {
     "title": "monde:::En direct, guerre à Gaza – L’armée israélienne émet un ordre d’évacuation pour Khan Younès",
@@ -7717,5 +7720,9 @@
   {
     "title": "cyber:::Attention, l’utilisation de nombreuses montres connectées, babyphones et modems est risquée",
     "added_at": "2025-05-27T10:19:41.053Z"
+  },
+  {
+    "title": "economie:::De Bethune ou la force d’attraction de l’horlogerie indépendante",
+    "added_at": "2025-05-27T11:29:32.765Z"
   }
 ]
