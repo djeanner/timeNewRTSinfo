@@ -13676,7 +13676,10 @@
   },
   {
     "title": "Flight from Tokyo diverted to Seattle after passenger tries to open exit doors",
-    "added_at": "2025-05-25T22:34:05.987Z"
+    "added_at": "2025-05-25T22:34:05.987Z",
+    "removed_at": "2025-05-27T06:54:14.410Z",
+    "duration_minutes": 1940,
+    "duration_str": "1d 8h 20m"
   },
   {
     "title": "Álex Palou wins Indianapolis 500, Kyle Larson’s quest for the ‘Double’ comes to an end after wreck",
@@ -14449,5 +14452,9 @@
   {
     "title": "Germany and other allies lift restrictions on Ukraine firing long-range missiles after Russia’s record aerial assault",
     "added_at": "2025-05-27T05:50:02.048Z"
+  },
+  {
+    "title": "Hong Kong’s baby pandas finally get names. Meet Jia Jia and De De",
+    "added_at": "2025-05-27T06:54:14.410Z"
   }
 ]
