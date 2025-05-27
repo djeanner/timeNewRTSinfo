@@ -317,10 +317,7 @@
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T11:11:38.599Z",
-    "removed_at": "2025-05-27T07:07:22.237Z",
-    "duration_minutes": 25675,
-    "duration_str": "17d 19h 55m"
+    "added_at": "2025-05-09T11:11:38.599Z"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -9169,7 +9166,10 @@
   },
   {
     "title": "Les drones de combat exacerbent la violence dans un Soudan en pleine guerre civile",
-    "added_at": "2025-05-16T07:55:52.133Z"
+    "added_at": "2025-05-16T07:55:52.133Z",
+    "removed_at": "2025-05-27T07:22:30.594Z",
+    "duration_minutes": 15806,
+    "duration_str": "10d 23h 26m"
   },
   {
     "title": "L’armée israélienne continue de bombarder la bande de Gaza, plus de 50 personnes tuées, selon la défense civile palestinienne",
@@ -19556,9 +19556,9 @@
   {
     "title": "« La TVA sociale est un objet politique radioactif, mais qui mérite réflexion à condition de bien poser le débat »",
     "added_at": "2025-05-26T09:24:19.985Z",
-    "removed_at": "2025-05-27T07:07:22.237Z",
-    "duration_minutes": 1303,
-    "duration_str": "21h 43m"
+    "removed_at": "2025-05-27T07:24:20.046Z",
+    "duration_minutes": 1320,
+    "duration_str": "22h"
   },
   {
     "title": "A Bagnères-de-Bigorre, une usine reprend vie en fabriquant des tramways",
@@ -19609,9 +19609,9 @@
   {
     "title": "« Entre assise locale et taille mondiale, les géants des gondoles cherchent la martingale. Et les envies de conquête peuvent ressurgir »",
     "added_at": "2025-05-26T09:52:37.925Z",
-    "removed_at": "2025-05-27T07:03:36.886Z",
-    "duration_minutes": 1270,
-    "duration_str": "21h 10m"
+    "removed_at": "2025-05-27T07:20:35.158Z",
+    "duration_minutes": 1287,
+    "duration_str": "21h 27m"
   },
   {
     "title": "« Quand on pointe la responsabilité des plus riches dans le réchauffement climatique, de quoi parle-t-on ? »",
@@ -20373,7 +20373,10 @@
   },
   {
     "title": "Des données officielles confirment la pollution autour de l’incinérateur d’Ivry-Paris XIII, l’un des plus grands et anciens d’Europe",
-    "added_at": "2025-05-27T03:34:14.828Z"
+    "added_at": "2025-05-27T03:34:14.828Z",
+    "removed_at": "2025-05-27T07:18:41.611Z",
+    "duration_minutes": 224,
+    "duration_str": "3h 44m"
   },
   {
     "title": "La proposition de loi sur l’aide à mourir va être soumise au vote des députés, au terme de discussions apaisées",
@@ -20507,5 +20510,9 @@
   {
     "title": "Agriculture : après le rejet tactique de la proposition de loi Duplomb, la FNSEA lève ses manifestations, les associations écologistes crient au « scandale démocratique »",
     "added_at": "2025-05-27T07:01:43.110Z"
+  },
+  {
+    "title": "Essais nucléaires en Polynésie française : quand le CEA finance un contre-récit sur les contaminations",
+    "added_at": "2025-05-27T07:18:41.611Z"
   }
 ]
