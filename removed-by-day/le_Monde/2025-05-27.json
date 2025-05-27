@@ -83,8 +83,9 @@
   {
     "title": "La NASA réussit à rallumer un des propulseurs de Voyager 1, après vingt et un ans d’inactivité",
     "added_at": "2025-05-27T03:33:00.242Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-27T06:22:02.495Z",
+    "duration_minutes": 169,
+    "duration_str": "2h 49m"
   },
   {
     "title": "Guerre en Ukraine : le point sur la situation",
@@ -128,8 +129,9 @@
   {
     "title": "Les représentants des taxis attendus au ministère des transports mardi matin",
     "added_at": "2025-05-27T04:39:02.419Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-27T06:16:13.216Z",
+    "duration_minutes": 97,
+    "duration_str": "1h 37m"
   },
   {
     "title": "« J’ai vu tellement de proches enterrer ceux qui auraient dû leur survivre » : en Irak, les torchères empoisonnées de Bassora",
@@ -172,5 +174,24 @@
     "removed_at": "2025-05-27T05:19:52.435Z",
     "duration_minutes": 2,
     "duration_str": "2m"
+  },
+  {
+    "title": "En direct : l’armée russe prend quatre villages dans la région ukrainienne de Soumy",
+    "added_at": "2025-05-27T06:16:13.216Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Congrès du PS : Oliver Faure, Nicolas Mayer-Rossignol et Boris Vallaud en lice pour la désignation du premier secrétaire",
+    "added_at": "2025-05-27T06:22:02.495Z",
+    "removed_at": "2025-05-27T06:23:59.007Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Congrès du PS : Olivier Faure, Nicolas Mayer-Rossignol et Boris Vallaud en lice pour la désignation du premier secrétaire",
+    "added_at": "2025-05-27T06:23:59.007Z",
+    "duration_minutes": 0,
+    "duration_str": ""
   }
 ]
