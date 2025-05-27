@@ -77,9 +77,8 @@
   {
     "title": "« Face à Bruno Retailleau, rien ne va plus dans le bloc central, et pourtant tout continue comme avant »",
     "added_at": "2025-05-27T03:33:00.242Z",
-    "removed_at": "2025-05-27T18:00:32.568Z",
-    "duration_minutes": 868,
-    "duration_str": "14h 28m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "La NASA réussit à rallumer un des propulseurs de Voyager 1, après vingt et un ans d’inactivité",
@@ -812,8 +811,9 @@
   {
     "title": "Dans le sud de la bande de Gaza, des milliers de personnes ont pris d’assaut un nouveau centre de distribution d’aide",
     "added_at": "2025-05-27T16:29:08.201Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-27T18:21:58.671Z",
+    "duration_minutes": 113,
+    "duration_str": "1h 53m"
   },
   {
     "title": "Anne-Sophie Lapix quittera la présentation du « 20 heures » de France 2 en juillet",
@@ -831,8 +831,9 @@
   {
     "title": "L’Assemblée nationale adopte la proposition de loi créant un « droit à l’aide à mourir »",
     "added_at": "2025-05-27T16:42:43.136Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-27T18:33:38.485Z",
+    "duration_minutes": 111,
+    "duration_str": "1h 51m"
   },
   {
     "title": "En direct | Roland-Garros 2025 : Corentin Moutet commence fort, Novak Djokovic soigne son entrée, Elsa Jacquemot rejoint le deuxième tour",
@@ -844,8 +845,9 @@
   {
     "title": "Proposition de loi Duplomb : la gauche resserre les rangs",
     "added_at": "2025-05-27T16:42:43.136Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-27T18:04:29.589Z",
+    "duration_minutes": 82,
+    "duration_str": "1h 22m"
   },
   {
     "title": "Argentine : le gouvernement limite fortement le droit de grève",
@@ -876,8 +878,9 @@
   {
     "title": "Le roi Charles III défend l’autodétermination du Canada face aux menaces de Donald Trump",
     "added_at": "2025-05-27T17:37:14.880Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-27T18:51:08.606Z",
+    "duration_minutes": 74,
+    "duration_str": "1h 14m"
   },
   {
     "title": "Anne-Sophie Lapix, redoutée pour ses interviews politiques, est évincée du « 20 heures » de France 2 dans un contexte de baisse d’audience",
@@ -888,6 +891,50 @@
   {
     "title": "En direct, fin de vie : l’Assemblée nationale adopte la proposition de loi créant un « droit à l’aide à mourir »",
     "added_at": "2025-05-27T18:02:26.396Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Défense : le plan de financement de l’Union européenne prend forme",
+    "added_at": "2025-05-27T18:04:29.589Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Bande de Gaza : l’ONU dénonce les images « déchirantes » de Palestiniens se ruant vers un nouveau centre de distribution d’aide",
+    "added_at": "2025-05-27T18:21:58.671Z",
+    "removed_at": "2025-05-27T18:27:47.796Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
+  },
+  {
+    "title": "« J’ai vu tellement de proches enterrer ceux qui auraient dû leur survivre » : en Irak, les torchères empoisonnées du pétrole de Bassora",
+    "added_at": "2025-05-27T18:23:57.915Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Gaza : l’ONU dénonce les images « déchirantes » de Palestiniens se ruant vers un nouveau centre de distribution d’aide",
+    "added_at": "2025-05-27T18:27:47.796Z",
+    "removed_at": "2025-05-27T18:41:29.025Z",
+    "duration_minutes": 14,
+    "duration_str": "14m"
+  },
+  {
+    "title": "L’Assemblée nationale adopte la proposition de loi créant un « droit à l’aide à mourir », suivez les dernières réactions",
+    "added_at": "2025-05-27T18:33:38.485Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Gaza : l’ONU dénonce les images « déchirantes » de Palestiniens se ruant vers un centre de distribution d’aide",
+    "added_at": "2025-05-27T18:41:29.025Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "« On s’est pris une baffe » : au lendemain du rejet stratégique de la proposition de loi Duplomb, les opposants veulent se faire entendre",
+    "added_at": "2025-05-27T18:51:08.606Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
