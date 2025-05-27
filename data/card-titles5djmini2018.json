@@ -317,10 +317,7 @@
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T11:11:38.599Z",
-    "removed_at": "2025-05-27T11:31:29.042Z",
-    "duration_minutes": 25939,
-    "duration_str": "18d 19m"
+    "added_at": "2025-05-09T11:11:38.599Z"
   },
   {
     "title": "Des images authentifiées par « Le Monde » montrent la destruction systématique de la ville de Rafah par Israël",
@@ -9169,7 +9166,10 @@
   },
   {
     "title": "Les drones de combat exacerbent la violence dans un Soudan en pleine guerre civile",
-    "added_at": "2025-05-16T07:55:52.133Z"
+    "added_at": "2025-05-16T07:55:52.133Z",
+    "removed_at": "2025-05-27T11:52:12.396Z",
+    "duration_minutes": 16076,
+    "duration_str": "11d 3h 56m"
   },
   {
     "title": "L’armée israélienne continue de bombarder la bande de Gaza, plus de 50 personnes tuées, selon la défense civile palestinienne",
@@ -19408,9 +19408,9 @@
   {
     "title": "La Sécurité sociale menacée d’une « crise de liquidité », selon un rapport de la Cour des comptes",
     "added_at": "2025-05-26T08:03:12.417Z",
-    "removed_at": "2025-05-27T11:31:29.042Z",
-    "duration_minutes": 1648,
-    "duration_str": "1d 3h 28m"
+    "removed_at": "2025-05-27T11:55:58.146Z",
+    "duration_minutes": 1672,
+    "duration_str": "1d 3h 52m"
   },
   {
     "title": "L’insoutenable dérive de la Sécurité sociale",
@@ -19561,10 +19561,7 @@
   },
   {
     "title": "« La TVA sociale est un objet politique radioactif, mais qui mérite réflexion à condition de bien poser le débat »",
-    "added_at": "2025-05-26T09:24:19.985Z",
-    "removed_at": "2025-05-27T11:31:29.042Z",
-    "duration_minutes": 1567,
-    "duration_str": "1d 2h 7m"
+    "added_at": "2025-05-26T09:24:19.985Z"
   },
   {
     "title": "A Bagnères-de-Bigorre, une usine reprend vie en fabriquant des tramways",
@@ -19617,7 +19614,10 @@
   },
   {
     "title": "« Entre assise locale et taille mondiale, les géants des gondoles cherchent la martingale. Et les envies de conquête peuvent ressurgir »",
-    "added_at": "2025-05-26T09:52:37.925Z"
+    "added_at": "2025-05-26T09:52:37.925Z",
+    "removed_at": "2025-05-27T11:40:53.812Z",
+    "duration_minutes": 1548,
+    "duration_str": "1d 1h 48m"
   },
   {
     "title": "« Quand on pointe la responsabilité des plus riches dans le réchauffement climatique, de quoi parle-t-on ? »",
@@ -19892,7 +19892,10 @@
   },
   {
     "title": "Avec Nigel Farage, l’extrême droite s’impose en principal adversaire du gouvernement britannique",
-    "added_at": "2025-05-26T15:14:59.295Z"
+    "added_at": "2025-05-26T15:14:59.295Z",
+    "removed_at": "2025-05-27T11:55:58.146Z",
+    "duration_minutes": 1240,
+    "duration_str": "20h 40m"
   },
   {
     "title": "En direct | Roland-Garros 2025 : Caroline Garcia éliminée pour sa dernière participation, Richard Gasquet entre en piste",
@@ -20389,7 +20392,10 @@
   },
   {
     "title": "La proposition de loi sur l’aide à mourir va être soumise au vote des députés, au terme de discussions apaisées",
-    "added_at": "2025-05-27T03:34:14.828Z"
+    "added_at": "2025-05-27T03:34:14.828Z",
+    "removed_at": "2025-05-27T11:48:28.843Z",
+    "duration_minutes": 494,
+    "duration_str": "8h 14m"
   },
   {
     "title": "« Face à Bruno Retailleau, rien ne va plus dans le bloc central, et pourtant tout continue comme avant »",
@@ -20442,7 +20448,10 @@
   },
   {
     "title": "Mia Threapleton, actrice dans « The Phoenician Scheme » : « Wes Anderson laisse une grande place à l’invention »",
-    "added_at": "2025-05-27T04:04:27.442Z"
+    "added_at": "2025-05-27T04:04:27.442Z",
+    "removed_at": "2025-05-27T11:46:33.161Z",
+    "duration_minutes": 462,
+    "duration_str": "7h 42m"
   },
   {
     "title": "Les représentants des taxis attendus au ministère des transports mardi matin",
@@ -20759,7 +20768,10 @@
   },
   {
     "title": "Protection des mineurs : l’Union européenne ouvre une enquête contre quatre plateformes pornographiques",
-    "added_at": "2025-05-27T10:59:18.555Z"
+    "added_at": "2025-05-27T10:59:18.555Z",
+    "removed_at": "2025-05-27T11:48:28.843Z",
+    "duration_minutes": 49,
+    "duration_str": "49m"
   },
   {
     "title": "En direct, guerre en Ukraine : Donald Trump envisage des sanctions contre la Russie, selon le « Wall Street Journal »",
@@ -20799,5 +20811,13 @@
     "removed_at": "2025-05-27T11:12:34.228Z",
     "duration_minutes": 3,
     "duration_str": "3m"
+  },
+  {
+    "title": "Lecteurs du « Monde », votez pour vos films préférés de l’histoire du cinéma d’animation",
+    "added_at": "2025-05-27T11:46:33.161Z"
+  },
+  {
+    "title": "En direct, fin de vie : suivez le vote de l’Assemblée nationale sur l’aide à mourir et posez-nous vos questions",
+    "added_at": "2025-05-27T11:48:28.843Z"
   }
 ]
