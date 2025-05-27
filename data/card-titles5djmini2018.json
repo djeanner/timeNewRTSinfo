@@ -30,16 +30,16 @@
   {
     "title": "Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
     "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-27T14:45:52.029Z",
-    "duration_minutes": 26144,
-    "duration_str": "18d 3h 44m"
+    "removed_at": "2025-05-27T15:02:52.433Z",
+    "duration_minutes": 26161,
+    "duration_str": "18d 4h 1m"
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
     "added_at": "2025-05-09T11:01:45.077Z",
-    "removed_at": "2025-05-27T14:42:06.411Z",
-    "duration_minutes": 26140,
-    "duration_str": "18d 3h 40m"
+    "removed_at": "2025-05-27T14:57:12.851Z",
+    "duration_minutes": 26155,
+    "duration_str": "18d 3h 55m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -15655,7 +15655,10 @@
   },
   {
     "title": "A Berlin, deux entrepreneuses de la tech nommées à des postes politiques influents",
-    "added_at": "2025-05-22T14:41:41.524Z"
+    "added_at": "2025-05-22T14:41:41.524Z",
+    "removed_at": "2025-05-27T14:51:32.921Z",
+    "duration_minutes": 7209,
+    "duration_str": "5d 9m"
   },
   {
     "title": "La footballeuse Kheira Hamraoui dépose plainte contre le Paris Saint-Germain pour « harcèlement moral »",
@@ -19241,9 +19244,9 @@
   {
     "title": "Marie Bergström, sociologue : « Chez les jeunes, le couple n’est plus tout à fait le même que par le passé »",
     "added_at": "2025-05-26T03:28:04.282Z",
-    "removed_at": "2025-05-27T14:45:52.029Z",
-    "duration_minutes": 2117,
-    "duration_str": "1d 11h 17m"
+    "removed_at": "2025-05-27T15:02:52.433Z",
+    "duration_minutes": 2134,
+    "duration_str": "1d 11h 34m"
   },
   {
     "title": "Wes Anderson : pourquoi son cinéma est-il si unique ?",
@@ -19624,9 +19627,9 @@
   {
     "title": "« Entre assise locale et taille mondiale, les géants des gondoles cherchent la martingale. Et les envies de conquête peuvent ressurgir »",
     "added_at": "2025-05-26T09:52:37.925Z",
-    "removed_at": "2025-05-27T14:42:06.411Z",
-    "duration_minutes": 1729,
-    "duration_str": "1d 4h 49m"
+    "removed_at": "2025-05-27T14:57:12.851Z",
+    "duration_minutes": 1744,
+    "duration_str": "1d 5h 4m"
   },
   {
     "title": "« Quand on pointe la responsabilité des plus riches dans le réchauffement climatique, de quoi parle-t-on ? »",
@@ -20447,10 +20450,7 @@
   },
   {
     "title": "Amours de jeunesse : « Il me dit qu’il est sûr que je l’aimerai encore, qu’il prie pour que je l’aime encore. Quel culot ! »",
-    "added_at": "2025-05-27T04:04:27.442Z",
-    "removed_at": "2025-05-27T13:28:28.777Z",
-    "duration_minutes": 564,
-    "duration_str": "9h 24m"
+    "added_at": "2025-05-27T04:04:27.442Z"
   },
   {
     "title": "Mia Threapleton, actrice dans « The Phoenician Scheme » : « Wes Anderson laisse une grande place à l’invention »",
@@ -20482,7 +20482,10 @@
   },
   {
     "title": "« Certains responsables politiques démagogiques marchent main dans la main avec l’islamisme »",
-    "added_at": "2025-05-27T05:18:01.325Z"
+    "added_at": "2025-05-27T05:18:01.325Z",
+    "removed_at": "2025-05-27T14:59:06.599Z",
+    "duration_minutes": 581,
+    "duration_str": "9h 41m"
   },
   {
     "title": "Mon master : « J’ai fini lessivée, avec une estime de moi en chute libre », les étudiants plongés dans le stress de la sélection",
@@ -20901,7 +20904,10 @@
   },
   {
     "title": "En direct, fin de vie : suivez le vote de l’Assemblée sur l’aide à mourir et posez vos questions",
-    "added_at": "2025-05-27T13:22:49.322Z"
+    "added_at": "2025-05-27T13:22:49.322Z",
+    "removed_at": "2025-05-27T14:49:43.249Z",
+    "duration_minutes": 86,
+    "duration_str": "1h 26m"
   },
   {
     "title": "Grève des taxis : le gouvernement promet d’intensifier les contrôles des VTC ; la mobilisation continue avant une réunion au ministère de la santé",
@@ -20931,5 +20937,20 @@
   {
     "title": "« Nous plaidons pour l’abolition des pratiques d’isolement et de contention, en augmentation constante »",
     "added_at": "2025-05-27T14:06:14.424Z"
+  },
+  {
+    "title": "En direct : le vote de l’Assemblée nationale sur la proposition de loi relative aux soins palliatifs a débuté",
+    "added_at": "2025-05-27T14:49:43.249Z",
+    "removed_at": "2025-05-27T14:51:32.921Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Le conflit entre Amazon et le médiateur du livre se poursuit",
+    "added_at": "2025-05-27T14:51:32.921Z"
+  },
+  {
+    "title": "En direct : le vote de l’Assemblée nationale sur la proposition de loi relative aux soins palliatifs va débuter",
+    "added_at": "2025-05-27T14:51:32.921Z"
   }
 ]
