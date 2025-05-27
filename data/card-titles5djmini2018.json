@@ -36,7 +36,10 @@
   },
   {
     "title": "Syrie : des vidéos authentifiées par « Le Monde » prouvent que des hommes du nouveau régime étaient bien impliqués dans les massacres d’alaouites",
-    "added_at": "2025-05-09T11:01:45.077Z"
+    "added_at": "2025-05-09T11:01:45.077Z",
+    "removed_at": "2025-05-27T12:12:57.591Z",
+    "duration_minutes": 25991,
+    "duration_str": "18d 1h 11m"
   },
   {
     "title": "Comment les restes d’Adolf Hitler ont été identifiés",
@@ -9166,10 +9169,7 @@
   },
   {
     "title": "Les drones de combat exacerbent la violence dans un Soudan en pleine guerre civile",
-    "added_at": "2025-05-16T07:55:52.133Z",
-    "removed_at": "2025-05-27T11:52:12.396Z",
-    "duration_minutes": 16076,
-    "duration_str": "11d 3h 56m"
+    "added_at": "2025-05-16T07:55:52.133Z"
   },
   {
     "title": "L’armée israélienne continue de bombarder la bande de Gaza, plus de 50 personnes tuées, selon la défense civile palestinienne",
@@ -19408,9 +19408,9 @@
   {
     "title": "La Sécurité sociale menacée d’une « crise de liquidité », selon un rapport de la Cour des comptes",
     "added_at": "2025-05-26T08:03:12.417Z",
-    "removed_at": "2025-05-27T11:55:58.146Z",
-    "duration_minutes": 1672,
-    "duration_str": "1d 3h 52m"
+    "removed_at": "2025-05-27T12:09:12.254Z",
+    "duration_minutes": 1685,
+    "duration_str": "1d 4h 5m"
   },
   {
     "title": "L’insoutenable dérive de la Sécurité sociale",
@@ -19561,7 +19561,10 @@
   },
   {
     "title": "« La TVA sociale est un objet politique radioactif, mais qui mérite réflexion à condition de bien poser le débat »",
-    "added_at": "2025-05-26T09:24:19.985Z"
+    "added_at": "2025-05-26T09:24:19.985Z",
+    "removed_at": "2025-05-27T12:03:33.278Z",
+    "duration_minutes": 1599,
+    "duration_str": "1d 2h 39m"
   },
   {
     "title": "A Bagnères-de-Bigorre, une usine reprend vie en fabriquant des tramways",
@@ -19614,10 +19617,7 @@
   },
   {
     "title": "« Entre assise locale et taille mondiale, les géants des gondoles cherchent la martingale. Et les envies de conquête peuvent ressurgir »",
-    "added_at": "2025-05-26T09:52:37.925Z",
-    "removed_at": "2025-05-27T11:40:53.812Z",
-    "duration_minutes": 1548,
-    "duration_str": "1d 1h 48m"
+    "added_at": "2025-05-26T09:52:37.925Z"
   },
   {
     "title": "« Quand on pointe la responsabilité des plus riches dans le réchauffement climatique, de quoi parle-t-on ? »",
@@ -19893,9 +19893,9 @@
   {
     "title": "Avec Nigel Farage, l’extrême droite s’impose en principal adversaire du gouvernement britannique",
     "added_at": "2025-05-26T15:14:59.295Z",
-    "removed_at": "2025-05-27T11:55:58.146Z",
-    "duration_minutes": 1240,
-    "duration_str": "20h 40m"
+    "removed_at": "2025-05-27T12:09:12.254Z",
+    "duration_minutes": 1254,
+    "duration_str": "20h 54m"
   },
   {
     "title": "En direct | Roland-Garros 2025 : Caroline Garcia éliminée pour sa dernière participation, Richard Gasquet entre en piste",
@@ -20113,7 +20113,10 @@
   },
   {
     "title": "« Loi Duplomb » : les députés votent la motion de rejet pour contourner des milliers d’amendements de la gauche, le texte agricole est renvoyé en commission mixte paritaire",
-    "added_at": "2025-05-26T17:15:40.897Z"
+    "added_at": "2025-05-26T17:15:40.897Z",
+    "removed_at": "2025-05-27T12:01:39.370Z",
+    "duration_minutes": 1125,
+    "duration_str": "18h 45m"
   },
   {
     "title": "Benyamin Nétanyahou espère faire une annonce sur les otages « aujourd’hui ou demain »",
@@ -20669,10 +20672,7 @@
   },
   {
     "title": "A Liverpool, une cinquantaine de blessés après qu’une voiture a percuté la parade de la victoire du Liverpool FC, la piste terroriste est écartée",
-    "added_at": "2025-05-27T09:02:21.941Z",
-    "removed_at": "2025-05-27T10:32:54.185Z",
-    "duration_minutes": 90,
-    "duration_str": "1h 30m"
+    "added_at": "2025-05-27T09:02:21.941Z"
   },
   {
     "title": "Jean Tiberi, ancien maire de Paris, est mort",
@@ -20818,6 +20818,13 @@
   },
   {
     "title": "En direct, fin de vie : suivez le vote de l’Assemblée nationale sur l’aide à mourir et posez-nous vos questions",
-    "added_at": "2025-05-27T11:48:28.843Z"
+    "added_at": "2025-05-27T11:48:28.843Z",
+    "removed_at": "2025-05-27T12:05:29.118Z",
+    "duration_minutes": 17,
+    "duration_str": "17m"
+  },
+  {
+    "title": "En direct, fin de vie : suivez le vote de l’Assemblée sur l’aide à mourir et posez vos questions à notre journaliste Robin Richardot",
+    "added_at": "2025-05-27T12:05:29.118Z"
   }
 ]
