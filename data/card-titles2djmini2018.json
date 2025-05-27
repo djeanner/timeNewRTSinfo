@@ -7842,7 +7842,10 @@
   },
   {
     "title": "monde:::En direct, guerre à Gaza – Des milliers de personnes se précipitent sur un centre de distribution de la Fondation humanitaire de Gaza",
-    "added_at": "2025-05-27T16:46:43.930Z"
+    "added_at": "2025-05-27T16:46:43.930Z",
+    "removed_at": "2025-05-27T19:06:28.138Z",
+    "duration_minutes": 139,
+    "duration_str": "2h 19m"
   },
   {
     "title": "culture:::Exclusif – L’Etat de Genève annule de justesse un festival de musique sacrée sur fond d’accusation d’abus sexuels",
@@ -7866,5 +7869,9 @@
   {
     "title": "suisse:::Dans le Lötschental, le glacier du Birch menace toujours de fondre sur le village de Blatten",
     "added_at": "2025-05-27T18:11:43.412Z"
+  },
+  {
+    "title": "monde:::En direct, guerre à Gaza – Dans la bande de Gaza affamée, la foule se rue sur un centre de distribution d’aide",
+    "added_at": "2025-05-27T19:06:28.138Z"
   }
 ]

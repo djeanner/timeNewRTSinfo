@@ -10132,7 +10132,10 @@
   },
   {
     "title": "Les fractures du glacier au-dessus de Blatten augmentent fortement et une grosse avalanche a eu lieu",
-    "added_at": "2025-05-27T10:29:09.052Z"
+    "added_at": "2025-05-27T10:29:09.052Z",
+    "removed_at": "2025-05-27T19:14:02.571Z",
+    "duration_minutes": 524,
+    "duration_str": "8h 44m"
   },
   {
     "title": "Pierre Krähenbühl, directeur général du CICR, est l'invité du 19:30",
@@ -10249,10 +10252,21 @@
   },
   {
     "title": "Quatre policiers poursuivis en justice après la mort d’un dealer présumé à Lausanne",
-    "added_at": "2025-05-27T16:48:39.689Z"
+    "added_at": "2025-05-27T16:48:39.689Z",
+    "removed_at": "2025-05-27T19:08:22.147Z",
+    "duration_minutes": 139,
+    "duration_str": "2h 19m"
   },
   {
     "title": "Lancement d'une initiative communale pour un marché couvert à la Riponne à Lausanne",
     "added_at": "2025-05-27T17:47:08.798Z"
+  },
+  {
+    "title": "Quatre policiers poursuivis en justice après la mort d'un dealer présumé à Lausanne",
+    "added_at": "2025-05-27T19:08:22.147Z"
+  },
+  {
+    "title": "Un important pan du glacier de Birch s'est effondré au-dessus de Blatten",
+    "added_at": "2025-05-27T19:14:02.571Z"
   }
 ]
