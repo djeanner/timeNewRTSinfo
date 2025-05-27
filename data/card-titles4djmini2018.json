@@ -11804,7 +11804,10 @@
   },
   {
     "title": "SpaceX cleared to launch Starship test flight after two explosive failures",
-    "added_at": "2025-05-22T17:02:29.132Z"
+    "added_at": "2025-05-22T17:02:29.132Z",
+    "removed_at": "2025-05-27T23:39:59.334Z",
+    "duration_minutes": 7597,
+    "duration_str": "5d 6h 37m"
   },
   {
     "title": "Sean ‘Diddy’ Combs’ trial: Combs and Ventura’s former makeup artist called to the stand",
@@ -13612,10 +13615,7 @@
   },
   {
     "title": "Mysterious gold stash found on hiking trail perplexes researchers",
-    "added_at": "2025-05-25T15:02:54.826Z",
-    "removed_at": "2025-05-27T08:43:28.685Z",
-    "duration_minutes": 2500,
-    "duration_str": "1d 17h 40m"
+    "added_at": "2025-05-25T15:02:54.826Z"
   },
   {
     "title": "US ‘silence’ encouraging Putin, says Zelensky, after Russia launches record air assault",
@@ -15094,7 +15094,10 @@
   },
   {
     "title": "SpaceX is poised to launch the ninth test flight of its Starship megarocket",
-    "added_at": "2025-05-27T20:50:18.091Z"
+    "added_at": "2025-05-27T20:50:18.091Z",
+    "removed_at": "2025-05-27T23:43:44.646Z",
+    "duration_minutes": 173,
+    "duration_str": "2h 53m"
   },
   {
     "title": "Rick Derringer, gifted guitarist who worked with ‘Weird Al’ Yankovic, dead at 77",
@@ -15103,5 +15106,9 @@
   {
     "title": "Recap of ‘Diddy’ trial: Ex-employee of Sean Combs testifies that Combs threatened to kill Kid Cudi",
     "added_at": "2025-05-27T22:20:49.455Z"
+  },
+  {
+    "title": "SpaceX launches the ninth test flight of its Starship megarocket",
+    "added_at": "2025-05-27T23:43:44.646Z"
   }
 ]

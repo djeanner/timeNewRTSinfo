@@ -6705,7 +6705,10 @@
   },
   {
     "title": "Sudan says cholera outbreak killed 172 people in a week",
-    "added_at": "2025-05-27T21:29:52.727Z"
+    "added_at": "2025-05-27T21:29:52.727Z",
+    "removed_at": "2025-05-27T23:39:59.451Z",
+    "duration_minutes": 130,
+    "duration_str": "2h 10m"
   },
   {
     "title": "US pauses student visa processing amid plans to up social media vetting",
@@ -6718,5 +6721,9 @@
   {
     "title": "Brazilian prosecutors sue Chinese carmaker BYD over labour conditions",
     "added_at": "2025-05-27T23:30:36.357Z"
+  },
+  {
+    "title": "Argentinian judge withdraws from a negligence trial about Maradona’s death",
+    "added_at": "2025-05-27T23:39:59.451Z"
   }
 ]
