@@ -7471,7 +7471,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – «Le président Poutine fait ce qu’il faut pour assurer la sécurité de la Russie», assure le Kremlin",
-    "added_at": "2025-05-26T10:03:56.319Z"
+    "added_at": "2025-05-26T10:03:56.319Z",
+    "removed_at": "2025-05-27T02:58:24.621Z",
+    "duration_minutes": 1014,
+    "duration_str": "16h 54m"
   },
   {
     "title": "suisse:::Le trafic ferroviaire entre Lausanne et Fribourg a été interrompu",
@@ -7632,5 +7635,9 @@
   {
     "title": "monde:::En direct, guerre à Gaza – Benyamin Netanyahou promet de ramener tous les otages",
     "added_at": "2025-05-27T02:48:58.412Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Vladimir Poutine menace d'«étrangler» les entreprises occidentales qui restent en Russie",
+    "added_at": "2025-05-27T02:58:24.621Z"
   }
 ]
