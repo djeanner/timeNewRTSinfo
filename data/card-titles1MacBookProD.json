@@ -12632,7 +12632,10 @@
   },
   {
     "title": "Le trafic ferroviaire entre Lausanne et Fribourg est interrompu en raison de travaux exceptionnels",
-    "added_at": "2025-05-26T05:20:07.940Z"
+    "added_at": "2025-05-26T05:20:07.940Z",
+    "removed_at": "2025-05-27T05:29:31.897Z",
+    "duration_minutes": 1449,
+    "duration_str": "1d 9m"
   },
   {
     "title": "Vladimir Poutine \"est devenu complètement fou\", affirme Donald Trump",
@@ -12857,5 +12860,9 @@
   {
     "title": "Pourquoi les victimes de violences domestiques ne peuvent toujours pas appeler le numéro d'urgence 142",
     "added_at": "2025-05-27T04:31:16.544Z"
+  },
+  {
+    "title": "Un dealer présumé décède dans les locaux de la police lausannoise",
+    "added_at": "2025-05-27T05:29:31.897Z"
   }
 ]
