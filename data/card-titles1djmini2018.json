@@ -9562,7 +9562,10 @@
   },
   {
     "title": "À Berne, une manifestation propalestinienne non-autorisée",
-    "added_at": "2025-05-25T08:24:49.605Z"
+    "added_at": "2025-05-25T08:24:49.605Z",
+    "removed_at": "2025-05-27T07:29:59.484Z",
+    "duration_minutes": 2825,
+    "duration_str": "1d 23h 5m"
   },
   {
     "title": "Carré, rouge et chargé d’histoire: les secrets du drapeau suisse",
@@ -9605,7 +9608,10 @@
   },
   {
     "title": "Attaques croisées entre Ukraine et Russie à l'aube d'un dernier échange de prisonniers",
-    "added_at": "2025-05-25T09:34:31.211Z"
+    "added_at": "2025-05-25T09:34:31.211Z",
+    "removed_at": "2025-05-27T07:41:17.918Z",
+    "duration_minutes": 2766,
+    "duration_str": "1d 22h 6m"
   },
   {
     "title": "Le Mazzika Orchestra à Genève pour rêver en chansons des \"Nuits d’Orient\"",
@@ -10012,5 +10018,13 @@
   {
     "title": "Les autorités turques se mobilisent face à la chute drastique de la natalité",
     "added_at": "2025-05-27T07:13:02.368Z"
+  },
+  {
+    "title": "Le verdict est tombé dans le Diesel-Gate",
+    "added_at": "2025-05-27T07:29:59.484Z"
+  },
+  {
+    "title": "François Morel et ses acolytes des Deschiens en tournée avec la pièce \"Art\" de Yasmina Reza",
+    "added_at": "2025-05-27T07:41:17.918Z"
   }
 ]
