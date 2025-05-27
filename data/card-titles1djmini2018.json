@@ -9827,7 +9827,10 @@
   },
   {
     "title": "Les Etats-Unis vont reporter d’un mois l’entrée en vigueur des nouveaux droits de douane imposés à l’UE",
-    "added_at": "2025-05-26T04:39:35.326Z"
+    "added_at": "2025-05-26T04:39:35.326Z",
+    "removed_at": "2025-05-27T20:33:18.765Z",
+    "duration_minutes": 2393,
+    "duration_str": "1d 15h 53m"
   },
   {
     "title": "Le trafic ferroviaire entre Lausanne et Fribourg est perturbé en raison de travaux exceptionnels",
@@ -9899,7 +9902,10 @@
   },
   {
     "title": "Le glacier au-dessus de Blatten menace de rompre sous  la pression de 9 millions de tonnes de débris",
-    "added_at": "2025-05-26T07:48:08.752Z"
+    "added_at": "2025-05-26T07:48:08.752Z",
+    "removed_at": "2025-05-27T20:31:24.984Z",
+    "duration_minutes": 2203,
+    "duration_str": "1d 12h 43m"
   },
   {
     "title": "Au moins 52 morts dans des bombardements israéliens sur la bande de Gaza",
@@ -10296,5 +10302,9 @@
     "removed_at": "2025-05-27T20:08:45.457Z",
     "duration_minutes": 1,
     "duration_str": "1m"
+  },
+  {
+    "title": "A Gaza, la foule affamée se rue sur un centre de la mystérieuse fondation basée à Genève",
+    "added_at": "2025-05-27T20:33:18.765Z"
   }
 ]
