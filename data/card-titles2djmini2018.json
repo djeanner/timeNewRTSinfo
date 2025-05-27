@@ -7569,7 +7569,10 @@
   },
   {
     "title": "culture:::Blu boy express, un chanteur fribourgeois qui met en musique ses états d’âme",
-    "added_at": "2025-05-26T15:14:58.714Z"
+    "added_at": "2025-05-26T15:14:58.714Z",
+    "removed_at": "2025-05-27T06:14:34.357Z",
+    "duration_minutes": 899,
+    "duration_str": "14h 59m"
   },
   {
     "title": "suisse:::Une personne d’origine africaine décède dans les locaux de la police lausannoise",
@@ -7668,5 +7671,9 @@
   {
     "title": "suisse:::A Genève, la révolution conservatrice autour de l’éducation sexuelle attendra",
     "added_at": "2025-05-27T05:50:01.534Z"
+  },
+  {
+    "title": "sport:::Brian Beyer, le footballeur au parcours tortueux qui rêve d'exploit avec le FC Bienne",
+    "added_at": "2025-05-27T06:14:34.357Z"
   }
 ]
