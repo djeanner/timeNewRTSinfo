@@ -6558,7 +6558,10 @@
   },
   {
     "title": "At least five reported killed in large explosion at China chemical plant",
-    "added_at": "2025-05-27T14:25:07.148Z"
+    "added_at": "2025-05-27T14:25:07.148Z",
+    "removed_at": "2025-05-27T20:06:56.506Z",
+    "duration_minutes": 341,
+    "duration_str": "5h 41m"
   },
   {
     "title": "‘Complete chaos’: Large crowds storm aid distribution centre in Gaza",
@@ -6625,7 +6628,10 @@
   },
   {
     "title": "Silhouetted by fire, 6-year-old girl survives Israeli attack in Gaza",
-    "added_at": "2025-05-27T18:43:48.293Z"
+    "added_at": "2025-05-27T18:43:48.293Z",
+    "removed_at": "2025-05-27T19:57:27.140Z",
+    "duration_minutes": 73,
+    "duration_str": "1h 13m"
   },
   {
     "title": "Key takeaways from King Charles’s ‘Speech from the Throne’ in Canada",
@@ -6638,5 +6644,9 @@
   {
     "title": "Trump administration to cut remaining US federal contracts with Harvard",
     "added_at": "2025-05-27T19:36:43.831Z"
+  },
+  {
+    "title": "Silhouetted by fire, six-year-old girl survives Israeli attack in Gaza",
+    "added_at": "2025-05-27T19:57:27.140Z"
   }
 ]
