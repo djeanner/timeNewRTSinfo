@@ -7704,7 +7704,10 @@
   },
   {
     "title": "sport:::Brian Beyer, le footballeur au parcours tortueux qui rêve d'exploit avec le FC Bienne",
-    "added_at": "2025-05-27T06:14:34.357Z"
+    "added_at": "2025-05-27T06:14:34.357Z",
+    "removed_at": "2025-05-27T14:19:27.618Z",
+    "duration_minutes": 484,
+    "duration_str": "8h 4m"
   },
   {
     "title": "sciences:::Le Brésil, champion du monde du métissage, confirme une vaste étude génomique",
@@ -7769,5 +7772,9 @@
   {
     "title": "suisse:::Les CFF cherchent des nouveaux trains pour le Léman Express",
     "added_at": "2025-05-27T12:54:28.948Z"
+  },
+  {
+    "title": "suisse:::A Neuchâtel, Céline Vara fait ses premiers pas de conseillère d’Etat",
+    "added_at": "2025-05-27T14:19:27.618Z"
   }
 ]
