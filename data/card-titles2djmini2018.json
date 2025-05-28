@@ -8041,7 +8041,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Selon Kiev, la Russie masse 50000 soldats près de la région ukrainienne de Soumy",
-    "added_at": "2025-05-28T07:15:53.215Z"
+    "added_at": "2025-05-28T07:15:53.215Z",
+    "removed_at": "2025-05-28T17:46:08.487Z",
+    "duration_minutes": 630,
+    "duration_str": "10h 30m"
   },
   {
     "title": "monde:::En direct, guerre à Gaza – 47 blessés dans la distribution d’aide de la Fondation humanitaire de Gaza",
@@ -8209,6 +8212,17 @@
   },
   {
     "title": "suisse:::En direct – A Blatten, «c’est le pire des scénarios qui s’est produit» avec l’éboulement presque total de la montagne et du glacier",
-    "added_at": "2025-05-28T17:31:03.850Z"
+    "added_at": "2025-05-28T17:31:03.850Z",
+    "removed_at": "2025-05-28T17:44:14.299Z",
+    "duration_minutes": 13,
+    "duration_str": "13m"
+  },
+  {
+    "title": "suisse:::A Blatten, «c’est le pire des scénarios qui s’est produit» avec l’éboulement presque total de la montagne et du glacier",
+    "added_at": "2025-05-28T17:44:14.299Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – La Russie propose de nouveaux pourparlers avec l’Ukraine à Istanbul",
+    "added_at": "2025-05-28T17:46:08.487Z"
   }
 ]
