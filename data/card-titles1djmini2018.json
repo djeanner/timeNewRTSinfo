@@ -9847,7 +9847,10 @@
   },
   {
     "title": "Le trafic ferroviaire entre Lausanne et Fribourg est interrompu en raison de travaux exceptionnels",
-    "added_at": "2025-05-26T05:21:03.450Z"
+    "added_at": "2025-05-26T05:21:03.450Z",
+    "removed_at": "2025-05-28T04:33:50.188Z",
+    "duration_minutes": 2832,
+    "duration_str": "1d 23h 12m"
   },
   {
     "title": "Vladimir Poutine \"est devenu complètement fou\", affirme Donald Trump",
@@ -10361,5 +10364,9 @@
   {
     "title": "Donald Trump avertit Vladimir Poutine qu'il \"joue avec le feu\"",
     "added_at": "2025-05-28T02:25:48.218Z"
+  },
+  {
+    "title": "Les nouvelles autorités politiques neuchâteloises prêtent serment",
+    "added_at": "2025-05-28T04:33:50.188Z"
   }
 ]
