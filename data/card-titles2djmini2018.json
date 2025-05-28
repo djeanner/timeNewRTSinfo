@@ -8055,7 +8055,10 @@
   },
   {
     "title": "sciences:::L’épervier apprend à l’école de la rue",
-    "added_at": "2025-05-28T07:29:05.176Z"
+    "added_at": "2025-05-28T07:29:05.176Z",
+    "removed_at": "2025-05-28T18:01:14.593Z",
+    "duration_minutes": 632,
+    "duration_str": "10h 32m"
   },
   {
     "title": "monde:::«Dépassée» vis-à-vis d’Israël depuis le 7-Octobre, l’Allemagne change de ton face au désastre de Gaza",
@@ -8098,7 +8101,10 @@
   },
   {
     "title": "suisse:::Bettina Mutter, l’ancienne journaliste qui a transformé l’inconnu Martin Pfister en conseiller fédéral",
-    "added_at": "2025-05-28T09:29:52.033Z"
+    "added_at": "2025-05-28T09:29:52.033Z",
+    "removed_at": "2025-05-28T17:57:28.669Z",
+    "duration_minutes": 507,
+    "duration_str": "8h 27m"
   },
   {
     "title": "suisse:::Dans le Lötschental, les effondrements du glacier du Birch se multiplient",
@@ -8131,10 +8137,7 @@
   },
   {
     "title": "cyber:::Infomaniak et Proton, une même sensibilité sur les données mais des visions politiques opposées",
-    "added_at": "2025-05-28T13:38:41.887Z",
-    "removed_at": "2025-05-28T14:08:52.530Z",
-    "duration_minutes": 30,
-    "duration_str": "30m"
+    "added_at": "2025-05-28T13:38:41.887Z"
   },
   {
     "title": "culture:::«Fanon», sur les traces d’un théoricien de la décolonisation",
@@ -8224,5 +8227,16 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – La Russie propose de nouveaux pourparlers avec l’Ukraine à Istanbul",
     "added_at": "2025-05-28T17:46:08.487Z"
+  },
+  {
+    "title": "monde:::Royaume-Uni: l'influenceur Andrew Tate et son frère inculpés de viol et trafic d'êtres humains",
+    "added_at": "2025-05-28T18:01:14.593Z",
+    "removed_at": "2025-05-28T18:03:08.371Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "monde:::Royaume-Uni: l’influenceur Andrew Tate et son frère inculpés de viol et trafic d’êtres humains",
+    "added_at": "2025-05-28T18:03:08.371Z"
   }
 ]
