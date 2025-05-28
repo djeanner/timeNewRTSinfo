@@ -6553,7 +6553,10 @@
   },
   {
     "title": "suisse:::Dans le Haut-Valais, le glacier de Birch incarne désormais la grande peur dans la montagne",
-    "added_at": "2025-05-23T05:03:27.005Z"
+    "added_at": "2025-05-23T05:03:27.005Z",
+    "removed_at": "2025-05-28T18:16:24.265Z",
+    "duration_minutes": 7992,
+    "duration_str": "5d 13h 12m"
   },
   {
     "title": "suisse:::Comprendre la crise des assurances complémentaires à Genève pour mieux y mettre un terme",
@@ -8122,7 +8125,10 @@
   },
   {
     "title": "suisse:::En 3D - Dans le Lötschental, les effondrements du glacier du Birch en direction de Blatten se multiplient",
-    "added_at": "2025-05-28T09:50:32.092Z"
+    "added_at": "2025-05-28T09:50:32.092Z",
+    "removed_at": "2025-05-28T18:16:24.265Z",
+    "duration_minutes": 505,
+    "duration_str": "8h 25m"
   },
   {
     "title": "suisse:::Face au danger dans le Lötschental, le Conseil d’Etat déclare la situation particulière",
@@ -8238,5 +8244,9 @@
   {
     "title": "monde:::Royaume-Uni: l’influenceur Andrew Tate et son frère inculpés de viol et trafic d’êtres humains",
     "added_at": "2025-05-28T18:03:08.371Z"
+  },
+  {
+    "title": "monde:::«De nombreux enfants nés à Gaza pendant ce conflit auront été enterrés avant qu’il ne prenne fin»",
+    "added_at": "2025-05-28T18:16:24.265Z"
   }
 ]
