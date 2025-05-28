@@ -6949,7 +6949,10 @@
   },
   {
     "title": "LIVE: Pakistan vs Bangladesh – first T20I",
-    "added_at": "2025-05-28T12:08:11.394Z"
+    "added_at": "2025-05-28T12:08:11.394Z",
+    "removed_at": "2025-05-28T19:24:27.262Z",
+    "duration_minutes": 436,
+    "duration_str": "7h 16m"
   },
   {
     "title": "Israel kills at least 36 in Gaza, health officials plead for medical aid",
@@ -7067,10 +7070,21 @@
   },
   {
     "title": "Russia proposes new round of Istanbul talks; Ukraine yet to respond",
-    "added_at": "2025-05-28T19:01:46.721Z"
+    "added_at": "2025-05-28T19:01:46.721Z",
+    "removed_at": "2025-05-28T19:30:06.184Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
   },
   {
     "title": "‘We can’t say we didn’t know’: Israeli academics demand end to war on Gaza",
     "added_at": "2025-05-28T19:05:32.004Z"
+  },
+  {
+    "title": "Pakistan beat Bangladesh by 37 runs in first T20 of series",
+    "added_at": "2025-05-28T19:24:27.262Z"
+  },
+  {
+    "title": "Russia proposes new round of Istanbul talks; Ukraine pushes for memorandum",
+    "added_at": "2025-05-28T19:30:06.184Z"
   }
 ]
