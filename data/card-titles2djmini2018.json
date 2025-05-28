@@ -7985,7 +7985,10 @@
   },
   {
     "title": "sciences:::La fin de la Station spatiale internationale attise les convoitises commerciales",
-    "added_at": "2025-05-28T05:43:31.739Z"
+    "added_at": "2025-05-28T05:43:31.739Z",
+    "removed_at": "2025-05-28T08:19:58.520Z",
+    "duration_minutes": 156,
+    "duration_str": "2h 36m"
   },
   {
     "title": "sciences:::Neuvième vol d'essai mouvementé pour Starship, son vaisseau explose",
@@ -8042,5 +8045,9 @@
   {
     "title": "suisse:::Dans le Lötschental, des pans importants du glacier du Birch s’effondrent en direction de Blatten",
     "added_at": "2025-05-28T08:06:46.481Z"
+  },
+  {
+    "title": "suisse:::Fuyant les coupes de l'administration Trump, des cerveaux américains frappent à la porte de l’EPFL",
+    "added_at": "2025-05-28T08:19:58.520Z"
   }
 ]
