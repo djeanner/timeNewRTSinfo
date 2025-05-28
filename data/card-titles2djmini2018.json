@@ -7743,7 +7743,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Moscou accuse Kiev d’intensifier ses attaques aériennes pour perturber les négociations de paix",
-    "added_at": "2025-05-27T09:49:33.143Z"
+    "added_at": "2025-05-27T09:49:33.143Z",
+    "removed_at": "2025-05-28T01:57:32.189Z",
+    "duration_minutes": 967,
+    "duration_str": "16h 7m"
   },
   {
     "title": "suisse:::Exclusif – Le directeur et le chef du service financier de la Caisse cantonale genevoise de chômage ont été mis à pied",
@@ -7898,5 +7901,9 @@
   {
     "title": "suisse:::Crimes de guerre à Gaza: «En gardant le silence, le Conseil fédéral expose la Suisse»",
     "added_at": "2025-05-27T22:03:51.014Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Plus de 120 drones ukrainiens interceptés par la Russie",
+    "added_at": "2025-05-28T01:57:32.189Z"
   }
 ]
