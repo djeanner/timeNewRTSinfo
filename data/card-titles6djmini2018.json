@@ -6672,7 +6672,10 @@
   },
   {
     "title": "Hajj pilgrimage in Saudi Arabia to begin on June 4",
-    "added_at": "2025-05-27T20:10:40.992Z"
+    "added_at": "2025-05-27T20:10:40.992Z",
+    "removed_at": "2025-05-28T01:06:44.933Z",
+    "duration_minutes": 296,
+    "duration_str": "4h 56m"
   },
   {
     "title": "Has Trump’s response on Ukraine attack emboldened Putin?",
@@ -6729,5 +6732,16 @@
   {
     "title": "Russia-Ukraine war: List of key events, day 1,189",
     "added_at": "2025-05-28T00:47:51.253Z"
+  },
+  {
+    "title": "SpaceX’s Starship test-flight loses control 30 minutes after launch",
+    "added_at": "2025-05-28T01:06:44.933Z",
+    "removed_at": "2025-05-28T01:14:12.435Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "SpaceX’s Starship test flight loses control 30 minutes after launch",
+    "added_at": "2025-05-28T01:14:12.435Z"
   }
 ]
