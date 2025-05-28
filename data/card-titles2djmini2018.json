@@ -7750,7 +7750,10 @@
   },
   {
     "title": "suisse:::Exclusif – Le directeur et le chef du service financier de la Caisse cantonale genevoise de chômage ont été mis à pied",
-    "added_at": "2025-05-27T09:58:57.425Z"
+    "added_at": "2025-05-27T09:58:57.425Z",
+    "removed_at": "2025-05-28T04:15:00.176Z",
+    "duration_minutes": 1096,
+    "duration_str": "18h 16m"
   },
   {
     "title": "monde:::Les pays de l’Union européenne adoptent un accord de principe pour faciliter leurs achats en commun d’armement",
@@ -7926,5 +7929,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Plus de 150 drones ukrainiens interceptés par la Russie",
     "added_at": "2025-05-28T03:26:01.409Z"
+  },
+  {
+    "title": "suisse:::Les coupes budgétaires imposées par le rectorat de l’Unige amplifient le malaise des scientifiques",
+    "added_at": "2025-05-28T04:15:00.176Z"
   }
 ]
