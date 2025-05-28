@@ -12731,7 +12731,10 @@
   },
   {
     "title": "Le trafic ferroviaire entre Lausanne et Fribourg est interrompu en raison de travaux exceptionnels",
-    "added_at": "2025-05-26T05:20:07.940Z"
+    "added_at": "2025-05-26T05:20:07.940Z",
+    "removed_at": "2025-05-28T04:33:35.602Z",
+    "duration_minutes": 2833,
+    "duration_str": "1d 23h 13m"
   },
   {
     "title": "Vladimir Poutine \"est devenu complètement fou\", affirme Donald Trump",
@@ -12809,7 +12812,10 @@
   },
   {
     "title": "Au moins 52 morts dans des bombardements israéliens sur la bande de Gaza, dont 33 dans une école",
-    "added_at": "2025-05-26T08:22:51.621Z"
+    "added_at": "2025-05-26T08:22:51.621Z",
+    "removed_at": "2025-05-28T04:51:03.699Z",
+    "duration_minutes": 2668,
+    "duration_str": "1d 20h 28m"
   },
   {
     "title": "Les CFF prennent des mesures pour éviter l'électrocution des oiseaux",
@@ -13245,5 +13251,17 @@
   {
     "title": "Donald Trump avertit Vladimir Poutine qu'il \"joue avec le feu\"",
     "added_at": "2025-05-28T02:25:10.560Z"
+  },
+  {
+    "title": "Les nouvelles autorités politiques neuchâteloises prêtent serment",
+    "added_at": "2025-05-28T04:33:35.602Z"
+  },
+  {
+    "title": "Podcast - \"Nahed, une voix de Gaza\": 18 mois de guerre racontés de l'intérieur",
+    "added_at": "2025-05-28T04:45:16.147Z"
+  },
+  {
+    "title": "Toujours présente dans les préaux, la violence des jeunes évolue",
+    "added_at": "2025-05-28T04:51:03.699Z"
   }
 ]
