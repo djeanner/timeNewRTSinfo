@@ -10183,7 +10183,10 @@
   },
   {
     "title": "Un dealer présumé décède dans les locaux de la police lausannoise",
-    "added_at": "2025-05-27T05:29:19.777Z"
+    "added_at": "2025-05-27T05:29:19.777Z",
+    "removed_at": "2025-05-28T16:36:10.584Z",
+    "duration_minutes": 2106,
+    "duration_str": "1d 11h 6m"
   },
   {
     "title": "La section genevoise de l'Asloca dénonce la multiplication des \"congés rénovation\"",
@@ -10545,10 +10548,7 @@
   },
   {
     "title": "Une énorme partie du glacier du Birch s'est effondrée sur le village de Blatten",
-    "added_at": "2025-05-28T13:55:41.809Z",
-    "removed_at": "2025-05-28T15:22:29.816Z",
-    "duration_minutes": 86,
-    "duration_str": "1h 26m"
+    "added_at": "2025-05-28T13:55:41.809Z"
   },
   {
     "title": "La série \"Anne Boleyn\" porte un regard neuf sur le destin tragique de l'épouse d'Henri VIII",
@@ -10598,7 +10598,10 @@
   },
   {
     "title": "Le village de Blatten en grande partie détruit par l'effondrement du glacier de Birch",
-    "added_at": "2025-05-28T15:22:29.816Z"
+    "added_at": "2025-05-28T15:22:29.816Z",
+    "removed_at": "2025-05-28T16:41:50.835Z",
+    "duration_minutes": 79,
+    "duration_str": "1h 19m"
   },
   {
     "title": "La Valaisanne Nicole Lamon nommée porte-parole du Conseil fédéral et vice-chancelière",
@@ -10615,5 +10618,20 @@
   {
     "title": "Le CHUV annonce un bénéfice de 4,6 millions et poursuit ses mesures d'économies",
     "added_at": "2025-05-28T16:30:29.502Z"
+  },
+  {
+    "title": "La moitié des écoles vaudoises annoncent avoir saisi au moins une arme blanche",
+    "added_at": "2025-05-28T16:36:10.584Z"
+  },
+  {
+    "title": "Le village de Blatten en grande partie détruit par l'effondrement du glacier de Birch, une personne disparue",
+    "added_at": "2025-05-28T16:41:50.835Z",
+    "removed_at": "2025-05-28T16:47:30.562Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "Le village de Blatten en grande partie détruit par l'effondrement du glacier du Birch, une personne disparue",
+    "added_at": "2025-05-28T16:47:30.562Z"
   }
 ]
