@@ -9655,7 +9655,10 @@
   },
   {
     "title": "monde:::En direct, guerre à Gaza – Dans la bande de Gaza affamée, la foule se rue sur un centre de distribution d’aide",
-    "added_at": "2025-05-27T19:04:52.626Z"
+    "added_at": "2025-05-27T19:04:52.626Z",
+    "removed_at": "2025-05-28T03:13:50.547Z",
+    "duration_minutes": 488,
+    "duration_str": "8h 8m"
   },
   {
     "title": "culture:::Dans un premier récit sensible, Céline Masson raconte comment elle a été élevée dans la Suisse romande des années 1980, alors dévouée au culte de la performance",
@@ -9675,6 +9678,24 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Plus de 120 drones ukrainiens interceptés par la Russie",
-    "added_at": "2025-05-28T01:58:02.433Z"
+    "added_at": "2025-05-28T01:58:02.433Z",
+    "removed_at": "2025-05-28T03:25:31.893Z",
+    "duration_minutes": 87,
+    "duration_str": "1h 27m"
+  },
+  {
+    "title": "monde:::En direct, guerre à Gaza – Des frappes aériennes israélienne nocturnes sur la bande de Gaza",
+    "added_at": "2025-05-28T03:13:50.547Z",
+    "removed_at": "2025-05-28T03:25:31.893Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "monde:::En direct, guerre à Gaza – Des frappes aériennes israéliennes nocturnes sur la bande de Gaza",
+    "added_at": "2025-05-28T03:25:31.893Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Plus de 150 drones ukrainiens interceptés par la Russie",
+    "added_at": "2025-05-28T03:25:31.893Z"
   }
 ]
