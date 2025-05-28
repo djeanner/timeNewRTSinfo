@@ -7872,7 +7872,10 @@
   },
   {
     "title": "suisse:::L’Agence spatiale européenne ouvre une antenne en Suisse",
-    "added_at": "2025-05-27T17:45:19.412Z"
+    "added_at": "2025-05-27T17:45:19.412Z",
+    "removed_at": "2025-05-28T05:02:04.201Z",
+    "duration_minutes": 676,
+    "duration_str": "11h 16m"
   },
   {
     "title": "culture:::Igor Stravinski, son «Sacre du printemps» et son scandale frappent à hauteur d’enfance à Genève",
@@ -7940,5 +7943,9 @@
   {
     "title": "suisse:::Lettre ouverte sur les crimes de guerre à Gaza: «En gardant le silence, le Conseil fédéral expose la Suisse»",
     "added_at": "2025-05-28T04:50:46.328Z"
+  },
+  {
+    "title": "sciences:::Après des turbulences, ClearSpace poursuit ses ambitions de services spatiaux",
+    "added_at": "2025-05-28T05:02:04.201Z"
   }
 ]
