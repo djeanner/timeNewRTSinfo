@@ -3305,7 +3305,10 @@
   },
   {
     "title": "cyber:::Un mouvement appelant l’Europe à ne pas devenir une «colonie numérique» intéresse de près la Suisse",
-    "added_at": "2025-05-13T04:51:44.182Z"
+    "added_at": "2025-05-13T04:51:44.182Z",
+    "removed_at": "2025-05-28T14:03:12.723Z",
+    "duration_minutes": 22151,
+    "duration_str": "15d 9h 11m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’armée israélienne reprend les bombardements contre Gaza après la libération d’un otage",
@@ -6249,7 +6252,10 @@
   },
   {
     "title": "cyber:::Amazon s'oppose à la publication des contrats qui lient la Confédération avec des fournisseurs cloud étrangers",
-    "added_at": "2025-05-22T05:28:55.986Z"
+    "added_at": "2025-05-22T05:28:55.986Z",
+    "removed_at": "2025-05-28T14:03:12.723Z",
+    "duration_minutes": 9154,
+    "duration_str": "6d 8h 34m"
   },
   {
     "title": "monde:::En direct – Deux agents de l'ambassade d'Israël abattus devant le musée juif de Washington",
@@ -6547,10 +6553,7 @@
   },
   {
     "title": "suisse:::Dans le Haut-Valais, le glacier de Birch incarne désormais la grande peur dans la montagne",
-    "added_at": "2025-05-23T05:03:27.005Z",
-    "removed_at": "2025-05-23T14:45:18.869Z",
-    "duration_minutes": 581,
-    "duration_str": "9h 41m"
+    "added_at": "2025-05-23T05:03:27.005Z"
   },
   {
     "title": "suisse:::Comprendre la crise des assurances complémentaires à Genève pour mieux y mettre un terme",
@@ -7845,7 +7848,10 @@
   },
   {
     "title": "cyber:::Exclusif – Cédric Moret: «Je n’ai pas touché le moindre dividende lié à Serafe et à la redevance radio-TV»",
-    "added_at": "2025-05-27T16:18:25.755Z"
+    "added_at": "2025-05-27T16:18:25.755Z",
+    "removed_at": "2025-05-28T13:59:27.458Z",
+    "duration_minutes": 1301,
+    "duration_str": "21h 41m"
   },
   {
     "title": "monde:::En direct, guerre à Gaza – Des milliers de personnes se précipitent sur un centre de distribution d'aide",
@@ -8076,10 +8082,7 @@
   },
   {
     "title": "suisse:::Le Ministère public vaudois doit rouvrir son enquête sur la mort de Nzoy",
-    "added_at": "2025-05-28T08:50:15.711Z",
-    "removed_at": "2025-05-28T13:38:41.887Z",
-    "duration_minutes": 288,
-    "duration_str": "4h 48m"
+    "added_at": "2025-05-28T08:50:15.711Z"
   },
   {
     "title": "suisse:::Bettina Mutter, l’ancienne journaliste qui a transformé l’inconnu Martin Pfister en conseiller fédéral",
@@ -8105,7 +8108,10 @@
   },
   {
     "title": "suisse:::Face au danger dans le Lötschental, le Conseil d’Etat déclare la situation particulière",
-    "added_at": "2025-05-28T09:54:17.294Z"
+    "added_at": "2025-05-28T09:54:17.294Z",
+    "removed_at": "2025-05-28T14:03:12.723Z",
+    "duration_minutes": 248,
+    "duration_str": "4h 8m"
   },
   {
     "title": "suisse:::Cheffe de la rubrique Suisse du «Temps», Nicole Lamon devient la première femme porte-parole du Conseil fédéral",
@@ -8113,7 +8119,10 @@
   },
   {
     "title": "cyber:::Infomaniak et Proton, une même sensibilité sur les données mais des visions politiques opposées",
-    "added_at": "2025-05-28T13:38:41.887Z"
+    "added_at": "2025-05-28T13:38:41.887Z",
+    "removed_at": "2025-05-28T14:08:52.530Z",
+    "duration_minutes": 30,
+    "duration_str": "30m"
   },
   {
     "title": "culture:::«Fanon», sur les traces d’un théoricien de la décolonisation",
@@ -8130,5 +8139,16 @@
   {
     "title": "culture:::De nouveaux témoignages de harcèlement sexuel accablent Dorian Rossel",
     "added_at": "2025-05-28T13:57:31.613Z"
+  },
+  {
+    "title": "suisse:::A Blatten, le glacier du Birch a cédé, provocant un éboulement monumental",
+    "added_at": "2025-05-28T14:03:12.723Z",
+    "removed_at": "2025-05-28T14:07:02.210Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "suisse:::Sur les hauts de Blatten, le glacier du Birch a cédé et provoqué un éboulement monumental",
+    "added_at": "2025-05-28T14:07:02.210Z"
   }
 ]
