@@ -12851,7 +12851,10 @@
   },
   {
     "title": "Le trafic ferroviaire entre Lausanne et Fribourg rétabli après la panne d'un engin de chantier",
-    "added_at": "2025-05-26T09:30:40.969Z"
+    "added_at": "2025-05-26T09:30:40.969Z",
+    "removed_at": "2025-05-28T08:33:17.384Z",
+    "duration_minutes": 2822,
+    "duration_str": "1d 23h 2m"
   },
   {
     "title": "Faut-il parler de son salaire avec ses collègues?",
@@ -12896,7 +12899,10 @@
   },
   {
     "title": "\"Etoile\", une série hilarante et tourbillonnante dans le milieu de la danse classique",
-    "added_at": "2025-05-26T13:20:01.275Z"
+    "added_at": "2025-05-26T13:20:01.275Z",
+    "removed_at": "2025-05-28T08:17:45.950Z",
+    "duration_minutes": 2577,
+    "duration_str": "1d 18h 57m"
   },
   {
     "title": "Un baptême de l'air en parapente pour une alerte aventurières de 98 ans",
@@ -12907,7 +12913,10 @@
   },
   {
     "title": "Un baptême de l'air en parapente pour une alerte aventurière de 98 ans",
-    "added_at": "2025-05-26T14:00:44.094Z"
+    "added_at": "2025-05-26T14:00:44.094Z",
+    "removed_at": "2025-05-28T08:06:06.360Z",
+    "duration_minutes": 2525,
+    "duration_str": "1d 18h 5m"
   },
   {
     "title": "Selon un sondage, 25% à 40% des Suisses ont déjà commis un vol à l’étalage",
@@ -13295,5 +13304,13 @@
   {
     "title": "Lausanne: 4 policiers poursuivis en justice après la mort d’un dealer présumé",
     "added_at": "2025-05-28T07:32:55.520Z"
+  },
+  {
+    "title": "Nouvel effondrement sur le glacier du Birch, au-dessus de Blatten",
+    "added_at": "2025-05-28T08:06:06.360Z"
+  },
+  {
+    "title": "Le Ministère public vaudois doit rouvrir son enquête sur la mort de Nzoy",
+    "added_at": "2025-05-28T08:17:45.950Z"
   }
 ]
