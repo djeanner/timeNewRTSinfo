@@ -7940,7 +7940,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Plus de 150 drones ukrainiens interceptés par la Russie",
-    "added_at": "2025-05-28T03:26:01.409Z"
+    "added_at": "2025-05-28T03:26:01.409Z",
+    "removed_at": "2025-05-28T06:19:17.138Z",
+    "duration_minutes": 173,
+    "duration_str": "2h 53m"
   },
   {
     "title": "suisse:::Les coupes budgétaires imposées par le rectorat de l’Unige amplifient le malaise des scientifiques",
@@ -7969,5 +7972,9 @@
   {
     "title": "sciences:::Neuvième vol d'essai mouvementé pour Starship, son vaisseau explose",
     "added_at": "2025-05-28T06:02:20.196Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Kiev a mené sa plus grande attaque de drones",
+    "added_at": "2025-05-28T06:19:17.138Z"
   }
 ]
