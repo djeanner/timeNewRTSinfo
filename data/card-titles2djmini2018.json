@@ -7942,7 +7942,10 @@
   },
   {
     "title": "monde:::En direct, guerre à Gaza – Des frappes aériennes israéliennes nocturnes sur la bande de Gaza",
-    "added_at": "2025-05-28T03:26:01.409Z"
+    "added_at": "2025-05-28T03:26:01.409Z",
+    "removed_at": "2025-05-28T07:27:10.236Z",
+    "duration_minutes": 241,
+    "duration_str": "4h 1m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Plus de 150 drones ukrainiens interceptés par la Russie",
@@ -7984,7 +7987,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Kiev a mené sa plus grande attaque de drones",
-    "added_at": "2025-05-28T06:19:17.138Z"
+    "added_at": "2025-05-28T06:19:17.138Z",
+    "removed_at": "2025-05-28T07:15:53.215Z",
+    "duration_minutes": 56,
+    "duration_str": "56m"
   },
   {
     "title": "monde:::Avec les rétorsions contre les opposants à Donald Trump, les Etats-Unis sont-ils encore une démocratie?",
@@ -7993,5 +7999,13 @@
   {
     "title": "suisse:::Une affaire d’abus sexuel secoue le théâtre d’impro vaudois",
     "added_at": "2025-05-28T07:10:13.282Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Selon Kiev, la Russie masse 50000 soldats près de la région ukrainienne de Soumy",
+    "added_at": "2025-05-28T07:15:53.215Z"
+  },
+  {
+    "title": "monde:::En direct, guerre à Gaza – 47 blessés dans la distribution d’aide de la Fondation humanitaire de Gaza",
+    "added_at": "2025-05-28T07:27:10.236Z"
   }
 ]
