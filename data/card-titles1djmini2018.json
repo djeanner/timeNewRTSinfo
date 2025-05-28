@@ -10435,7 +10435,10 @@
   },
   {
     "title": "Nouvel effondrement sur le glacier du Birch, au-dessus de Blatten",
-    "added_at": "2025-05-28T08:06:46.424Z"
+    "added_at": "2025-05-28T08:06:46.424Z",
+    "removed_at": "2025-05-28T10:54:39.287Z",
+    "duration_minutes": 167,
+    "duration_str": "2h 47m"
   },
   {
     "title": "Le Ministère public vaudois doit rouvrir son enquête sur la mort de Nzoy",
@@ -10456,5 +10459,9 @@
   {
     "title": "Donald Trump a affirmé sur son réseau Truth Social que Vladimir Poutine \"joue avec le feu\"",
     "added_at": "2025-05-28T10:33:50.191Z"
+  },
+  {
+    "title": "Nouveaux effondrements sur le glacier du Birch, au-dessus de Blatten",
+    "added_at": "2025-05-28T10:54:39.287Z"
   }
 ]
