@@ -227,7 +227,10 @@
   },
   {
     "title": "Major Israeli strikes on central Gaza kill 23 in Bureij refugee camp",
-    "added_at": "2025-05-29T11:10:00.661Z"
+    "added_at": "2025-05-29T11:10:00.661Z",
+    "removed_at": "2025-05-29T16:30:23.409Z",
+    "duration_minutes": 320,
+    "duration_str": "5h 20m"
   },
   {
     "title": "Israeli attacks kill more than 50 in Gaza as hunger crisis deepens",
@@ -285,5 +288,16 @@
   {
     "title": "Why has Elon Musk quit Donald Trump’s administration?",
     "added_at": "2025-05-29T16:08:58.873Z"
+  },
+  {
+    "title": "‘Dehumanising’ aid chaos grows in Gaza as Israeli attacks kill 55 people",
+    "added_at": "2025-05-29T16:30:23.409Z",
+    "removed_at": "2025-05-29T16:53:38.185Z",
+    "duration_minutes": 23,
+    "duration_str": "23m"
+  },
+  {
+    "title": "‘Dehumanising’ aid chaos grows in Gaza as Israeli attacks kill 64 people",
+    "added_at": "2025-05-29T16:53:38.185Z"
   }
 ]
