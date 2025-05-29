@@ -226,7 +226,10 @@
   },
   {
     "title": "Israel announces expansion of illegal settlements in occupied West Bank",
-    "added_at": "2025-05-29T10:31:16.075Z"
+    "added_at": "2025-05-29T10:31:16.075Z",
+    "removed_at": "2025-05-29T22:06:21.917Z",
+    "duration_minutes": 695,
+    "duration_str": "11h 35m"
   },
   {
     "title": "Major Israeli strikes on central Gaza kill 23 in Bureij refugee camp",
@@ -330,7 +333,10 @@
   },
   {
     "title": "Ex-DRC President Kabila holds talks in M23-held city of Goma: Reports",
-    "added_at": "2025-05-29T17:34:25.236Z"
+    "added_at": "2025-05-29T17:34:25.236Z",
+    "removed_at": "2025-05-29T21:52:46.086Z",
+    "duration_minutes": 258,
+    "duration_str": "4h 18m"
   },
   {
     "title": "RCB reach the IPL final with 8-wicket win against Punjab Kings – updates",
@@ -367,7 +373,10 @@
   },
   {
     "title": "US appeals court pauses ruling to block Trump’s sweeping tariff policy",
-    "added_at": "2025-05-29T19:30:54.165Z"
+    "added_at": "2025-05-29T19:30:54.165Z",
+    "removed_at": "2025-05-29T22:31:33.521Z",
+    "duration_minutes": 180,
+    "duration_str": "3h"
   },
   {
     "title": "‘Dehumanising’ aid chaos grows in Gaza as Israeli attacks kill 70 people",
@@ -376,5 +385,17 @@
   {
     "title": "Israel orders closure of al-Awda Hospital, a ‘lifeline’ in north Gaza",
     "added_at": "2025-05-29T21:27:26.762Z"
+  },
+  {
+    "title": "Chinese students in US grapple with uncertainty over Trump’s visa policies",
+    "added_at": "2025-05-29T21:52:46.086Z"
+  },
+  {
+    "title": "‘This must stop now’: UN food body condemns RSF attacks on Sudan premises",
+    "added_at": "2025-05-29T22:06:21.917Z"
+  },
+  {
+    "title": "Federal appeals court temporarily reinstates Trump tariffs",
+    "added_at": "2025-05-29T22:31:33.521Z"
   }
 ]
