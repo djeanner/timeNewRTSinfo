@@ -94,11 +94,17 @@
   },
   {
     "title": "China’s Tianwen-2 mission launches to explore what may be a lunar fragment",
-    "added_at": "2025-05-29T04:54:59.322Z"
+    "added_at": "2025-05-29T04:54:59.322Z",
+    "removed_at": "2025-05-29T06:55:35.340Z",
+    "duration_minutes": 120,
+    "duration_str": "2h"
   },
   {
     "title": "Trump says he believes US is close to reaching a new Iran nuclear deal as he confirms he told Israel not to disrupt the talks",
-    "added_at": "2025-05-29T04:54:59.322Z"
+    "added_at": "2025-05-29T04:54:59.322Z",
+    "removed_at": "2025-05-29T06:55:35.340Z",
+    "duration_minutes": 120,
+    "duration_str": "2h"
   },
   {
     "title": "Hundreds of starving Palestinians storm Gaza food warehouse in deadly incident, says UN agency",
@@ -114,7 +120,10 @@
   },
   {
     "title": "Some international students at Harvard are worried about attending graduation, school tells court",
-    "added_at": "2025-05-29T04:54:59.322Z"
+    "added_at": "2025-05-29T04:54:59.322Z",
+    "removed_at": "2025-05-29T07:15:00.119Z",
+    "duration_minutes": 140,
+    "duration_str": "2h 20m"
   },
   {
     "title": "Some of humanity’s oldest rock art is in Australia. A gas plant extension could erase it",
@@ -158,7 +167,10 @@
   },
   {
     "title": "Brazil prosecutors sue Chinese carmaker for violating labor rights",
-    "added_at": "2025-05-29T04:54:59.322Z"
+    "added_at": "2025-05-29T04:54:59.322Z",
+    "removed_at": "2025-05-29T07:38:14.861Z",
+    "duration_minutes": 163,
+    "duration_str": "2h 43m"
   },
   {
     "title": "In this museum space, the objects are yours to touch",
@@ -350,7 +362,10 @@
   },
   {
     "title": "Asian markets rise on tariff ruling news",
-    "added_at": "2025-05-29T05:12:48.316Z"
+    "added_at": "2025-05-29T05:12:48.316Z",
+    "removed_at": "2025-05-29T06:55:35.340Z",
+    "duration_minutes": 102,
+    "duration_str": "1h 42m"
   },
   {
     "title": "Trump administration will ‘aggressively revoke’ Chinese student visas in major escalation with Beijing",
@@ -367,5 +382,20 @@
   {
     "title": "China’s DeepSeek releases update to AI model that sent US shares tumbling earlier this year",
     "added_at": "2025-05-29T06:14:50.408Z"
+  },
+  {
+    "title": "Trump says he believes US is close to reaching new Iran nuclear deal, confirms he told Israel not to disrupt the talks",
+    "added_at": "2025-05-29T06:55:35.340Z",
+    "removed_at": "2025-05-29T07:38:14.861Z",
+    "duration_minutes": 42,
+    "duration_str": "42m"
+  },
+  {
+    "title": "Trump says he believes US is close to reaching new Iran nuclear deal",
+    "added_at": "2025-05-29T07:38:14.861Z"
+  },
+  {
+    "title": "‘Horrific’: Former Israeli hostage speaks to CNN about conditions in Hamas captivity",
+    "added_at": "2025-05-29T07:38:14.861Z"
   }
 ]
