@@ -8331,7 +8331,10 @@
   },
   {
     "title": "economie:::Un tribunal américain inflige à Donald Trump un camouflet sur les droits de douane",
-    "added_at": "2025-05-29T05:09:26.882Z"
+    "added_at": "2025-05-29T05:09:26.882Z",
+    "removed_at": "2025-05-29T15:12:24.586Z",
+    "duration_minutes": 602,
+    "duration_str": "10h 2m"
   },
   {
     "title": "monde:::Washington va révoquer des visas d'étudiants chinois",
@@ -8367,7 +8370,10 @@
   },
   {
     "title": "economie:::En choisissant le capital au détriment de la rente, les retraités privilégient la liberté financière",
-    "added_at": "2025-05-29T06:26:31.144Z"
+    "added_at": "2025-05-29T06:26:31.144Z",
+    "removed_at": "2025-05-29T15:08:40.457Z",
+    "duration_minutes": 522,
+    "duration_str": "8h 42m"
   },
   {
     "title": "suisse:::Balthasar Glättli s’invite dans la campagne à la municipalité de la ville de Zurich",
@@ -8403,7 +8409,10 @@
   },
   {
     "title": "monde:::A Budapest, un raout d’ultraconservateurs bat son plein alors que la Hongrie suscite toujours plus l’ire de Bruxelles",
-    "added_at": "2025-05-29T10:01:25.532Z"
+    "added_at": "2025-05-29T10:01:25.532Z",
+    "removed_at": "2025-05-29T15:50:03.952Z",
+    "duration_minutes": 348,
+    "duration_str": "5h 48m"
   },
   {
     "title": "suisse:::Parler de paix en Suisse? C’est toujours niet pour Moscou",
@@ -8414,11 +8423,17 @@
   },
   {
     "title": "monde:::En direct, guerre à Gaza – L’envoyé spécial américain appelle à un «pacte de non-agression» entre Israël et la Syrie",
-    "added_at": "2025-05-29T12:20:56.671Z"
+    "added_at": "2025-05-29T12:20:56.671Z",
+    "removed_at": "2025-05-29T15:14:20.479Z",
+    "duration_minutes": 173,
+    "duration_str": "2h 53m"
   },
   {
     "title": "suisse:::En direct – Le niveau du lac qui s’est formé à Blatten augmente de 80 cm par heure",
-    "added_at": "2025-05-29T13:13:39.492Z"
+    "added_at": "2025-05-29T13:13:39.492Z",
+    "removed_at": "2025-05-29T16:01:21.837Z",
+    "duration_minutes": 167,
+    "duration_str": "2h 47m"
   },
   {
     "title": "economie:::Sur fond de réforme fiscale, le milliardaire suisse Guillaume Pousaz quitte le Royaume-Uni pour Monaco",
@@ -8427,5 +8442,46 @@
   {
     "title": "suisse:::«La catastrophe de Blatten montre que la montagne est en train de changer»",
     "added_at": "2025-05-29T14:00:44.027Z"
+  },
+  {
+    "title": "monde:::La justice freine la guerre commerciale de Donald Trump",
+    "added_at": "2025-05-29T15:08:40.457Z"
+  },
+  {
+    "title": "suisse:::Isabelle Lehn: «Le CHUV est déjà dans les soins infirmiers de demain»",
+    "added_at": "2025-05-29T15:12:24.586Z"
+  },
+  {
+    "title": "monde:::En direct, guerre à Gaza – Le Hamas dit étudier une «nouvelle proposition» américaine de trêve à Gaza",
+    "added_at": "2025-05-29T15:14:20.479Z"
+  },
+  {
+    "title": "monde:::A Budapest, un raout d’ultra-conservateurs bat son plein alors que la Hongrie suscite toujours plus l’ire de Bruxelles",
+    "added_at": "2025-05-29T15:50:03.952Z",
+    "removed_at": "2025-05-29T16:40:58.572Z",
+    "duration_minutes": 50,
+    "duration_str": "50m"
+  },
+  {
+    "title": "suisse:::En direct – Le lac qui s’est formé à Blatten menace de déborder, suivez la conférence de presse des autorités",
+    "added_at": "2025-05-29T16:01:21.837Z",
+    "removed_at": "2025-05-29T16:12:41.245Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "suisse:::En direct – Le lac qui s’est formé à Blatten menace de déborder dans les prochaines heures",
+    "added_at": "2025-05-29T16:12:41.245Z",
+    "removed_at": "2025-05-29T16:20:13.949Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "suisse:::En direct – Le lac qui s’est formé à Blatten pourrait déborder durant la nuit",
+    "added_at": "2025-05-29T16:20:13.949Z"
+  },
+  {
+    "title": "monde:::A Budapest, un raout d’ultra-conservateurs bat son plein alors que Viktor Orban suscite toujours plus l’ire de Bruxelles",
+    "added_at": "2025-05-29T16:40:58.572Z"
   }
 ]
