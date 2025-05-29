@@ -10211,7 +10211,10 @@
   },
   {
     "title": "Denner veut ouvrir 120 magasins supplémentaires",
-    "added_at": "2025-05-27T07:13:02.368Z"
+    "added_at": "2025-05-27T07:13:02.368Z",
+    "removed_at": "2025-05-29T03:12:11.039Z",
+    "duration_minutes": 2639,
+    "duration_str": "1d 19h 59m"
   },
   {
     "title": "Les autorités turques se mobilisent face à la chute drastique de la natalité",
@@ -10734,5 +10737,9 @@
   {
     "title": "Le blocage humanitaire et ses conséquences pour les habitants de Gaza",
     "added_at": "2025-05-29T01:36:02.169Z"
+  },
+  {
+    "title": "Un tribunal bloque les droits de douane réciproques de Donald Trump",
+    "added_at": "2025-05-29T03:12:11.039Z"
   }
 ]
