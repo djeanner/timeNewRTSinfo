@@ -8501,7 +8501,10 @@
   },
   {
     "title": "suisse:::En direct – Le lac qui s’est formé à Blatten devrait déborder durant la nuit, pas d’évacuations supplémentaires",
-    "added_at": "2025-05-29T16:48:38.996Z"
+    "added_at": "2025-05-29T16:48:38.996Z",
+    "removed_at": "2025-05-29T21:06:38.446Z",
+    "duration_minutes": 257,
+    "duration_str": "4h 17m"
   },
   {
     "title": "monde:::En direct, guerre à Gaza – Le Hamas dit étudier une «nouvelle proposition» américaine de trêve à Gaza, qui aurait reçu l’aval d’Israël",
@@ -8522,5 +8525,9 @@
   {
     "title": "sport:::Envoyé à la retraite par Jannik Sinner, Richard Gasquet laisse les regrets aux autres",
     "added_at": "2025-05-29T19:02:14.359Z"
+  },
+  {
+    "title": "suisse:::A Blatten, une humilité forcée face à la montagne",
+    "added_at": "2025-05-29T19:32:27.499Z"
   }
 ]
