@@ -17,7 +17,10 @@
   },
   {
     "title": "Trump admin. orders some US companies to halt sales to China",
-    "added_at": "2025-05-29T04:54:59.322Z"
+    "added_at": "2025-05-29T04:54:59.322Z",
+    "removed_at": "2025-05-29T07:55:45.985Z",
+    "duration_minutes": 180,
+    "duration_str": "3h"
   },
   {
     "title": "Trump reacts to ‘TACO trade,’ calls it the ‘nastiest question’",
@@ -143,7 +146,10 @@
   },
   {
     "title": "Macron’s marital shove disappears from French airwaves",
-    "added_at": "2025-05-29T04:54:59.322Z"
+    "added_at": "2025-05-29T04:54:59.322Z",
+    "removed_at": "2025-05-29T07:44:09.280Z",
+    "duration_minutes": 169,
+    "duration_str": "2h 49m"
   },
   {
     "title": "SpaceX loses control of Starship during ninth test flight",
@@ -373,11 +379,17 @@
   },
   {
     "title": "State Department reviewing all Harvard-affiliated visa holders, officials say",
-    "added_at": "2025-05-29T05:12:48.316Z"
+    "added_at": "2025-05-29T05:12:48.316Z",
+    "removed_at": "2025-05-29T07:59:35.717Z",
+    "duration_minutes": 166,
+    "duration_str": "2h 46m"
   },
   {
     "title": "Japan cracks down on ‘sparkly’ names for babies like Pikachu and Nike",
-    "added_at": "2025-05-29T05:12:48.316Z"
+    "added_at": "2025-05-29T05:12:48.316Z",
+    "removed_at": "2025-05-29T07:59:35.717Z",
+    "duration_minutes": 166,
+    "duration_str": "2h 46m"
   },
   {
     "title": "China’s DeepSeek releases update to AI model that sent US shares tumbling earlier this year",
@@ -397,5 +409,17 @@
   {
     "title": "‘Horrific’: Former Israeli hostage speaks to CNN about conditions in Hamas captivity",
     "added_at": "2025-05-29T07:38:14.861Z"
+  },
+  {
+    "title": "MIT is shuttering DEI office amid Trump administration’s push to end diversity programs",
+    "added_at": "2025-05-29T07:44:09.280Z"
+  },
+  {
+    "title": "China thought it had a truce with the US. Then Trump dropped two bombshells",
+    "added_at": "2025-05-29T07:55:45.985Z"
+  },
+  {
+    "title": "Japan cracks down on ‘sparkly’ names for babies",
+    "added_at": "2025-05-29T07:59:35.717Z"
   }
 ]
