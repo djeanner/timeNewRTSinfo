@@ -153,7 +153,10 @@
   },
   {
     "title": "Donald Trump a affirmé sur son réseau Truth Social que Vladimir Poutine \"joue avec le feu\"",
-    "added_at": "2025-05-29T04:54:59.015Z"
+    "added_at": "2025-05-29T04:54:59.015Z",
+    "removed_at": "2025-05-29T17:40:12.501Z",
+    "duration_minutes": 765,
+    "duration_str": "12h 45m"
   },
   {
     "title": "Quels sont les enjeux de l'effondrement du glacier à Blatten? Interview de Christophe Lambiel",
@@ -559,5 +562,9 @@
   {
     "title": "Le lac créé par l'éboulement sur Blatten menace de déborder durant la nuit",
     "added_at": "2025-05-29T16:38:08.495Z"
+  },
+  {
+    "title": "Témoignages à la sortie de la messe dans un village voisin de Blatten",
+    "added_at": "2025-05-29T17:40:12.501Z"
   }
 ]
