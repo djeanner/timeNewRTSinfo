@@ -289,11 +289,17 @@
   },
   {
     "title": "L'Agence spatiale européenne a ouvert son premier site permanent en Suisse",
-    "added_at": "2025-05-29T04:54:59.015Z"
+    "added_at": "2025-05-29T04:54:59.015Z",
+    "removed_at": "2025-05-29T21:23:34.558Z",
+    "duration_minutes": 988,
+    "duration_str": "16h 28m"
   },
   {
     "title": "L'OFSP prévoit un ralentissement de la hausse des primes en 2026",
-    "added_at": "2025-05-29T04:54:59.015Z"
+    "added_at": "2025-05-29T04:54:59.015Z",
+    "removed_at": "2025-05-29T20:52:30.664Z",
+    "duration_minutes": 957,
+    "duration_str": "15h 57m"
   },
   {
     "title": "Neuchâtel célèbre ses nouvelles autorités avec un cortège solennel",
@@ -474,10 +480,7 @@
   },
   {
     "title": "Importante avalanche glaciaire à Blatten",
-    "added_at": "2025-05-29T08:36:33.084Z",
-    "removed_at": "2025-05-29T14:37:44.570Z",
-    "duration_minutes": 361,
-    "duration_str": "6h 1m"
+    "added_at": "2025-05-29T08:36:33.084Z"
   },
   {
     "title": "Des feux de forêt ont conduit à l'évacuation de 17'000 personnes au Canada",
@@ -576,7 +579,10 @@
   },
   {
     "title": "Le lac créé par l'éboulement sur Blatten menace de déborder durant la nuit",
-    "added_at": "2025-05-29T16:38:08.495Z"
+    "added_at": "2025-05-29T16:38:08.495Z",
+    "removed_at": "2025-05-29T20:52:30.664Z",
+    "duration_minutes": 254,
+    "duration_str": "4h 14m"
   },
   {
     "title": "Témoignages à la sortie de la messe dans un village voisin de Blatten",
@@ -622,5 +628,17 @@
   {
     "title": "La Cour d'appel maintient les droits de douane de Donald Trump, qu'un tribunal avait bloqués",
     "added_at": "2025-05-29T20:38:54.643Z"
+  },
+  {
+    "title": "Le lac créé par l'éboulement sur Blatten pourrait déborder cette nuit, des digues de protection installées dans la vallée",
+    "added_at": "2025-05-29T20:52:30.664Z"
+  },
+  {
+    "title": "L'automobiliste qui a foncé sur la foule à Liverpool a été inculpé",
+    "added_at": "2025-05-29T20:52:30.664Z"
+  },
+  {
+    "title": "L'Ukraine se dit \"prête\" à de nouveaux pourparlers, sous conditions",
+    "added_at": "2025-05-29T21:23:34.558Z"
   }
 ]
