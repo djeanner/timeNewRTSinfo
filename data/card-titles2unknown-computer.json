@@ -140,7 +140,10 @@
   },
   {
     "title": "culture:::A Genève, le Cirque du Soleil déballe des malles fantastiques et électrise les foules avec «Kurios»",
-    "added_at": "2025-05-29T05:36:01.911Z"
+    "added_at": "2025-05-29T05:36:01.911Z",
+    "removed_at": "2025-05-29T08:52:01.413Z",
+    "duration_minutes": 195,
+    "duration_str": "3h 15m"
   },
   {
     "title": "suisse:::Pour l’heure, les débris et les laves torrentielles de l’éboulement de Blatten ne touchent pas les communes en aval",
@@ -175,5 +178,9 @@
   {
     "title": "suisse:::En direct – Le lac qui s’est formé à Blatten se remplit d’heure en heure",
     "added_at": "2025-05-29T08:13:10.659Z"
+  },
+  {
+    "title": "culture:::Dans «Comme un parfum de lavande», Sinan Antoon entremêle les parcours de deux exilés irakiens aux Etats-Unis",
+    "added_at": "2025-05-29T08:52:01.413Z"
   }
 ]
