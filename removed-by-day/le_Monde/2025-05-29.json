@@ -1028,8 +1028,9 @@
   {
     "title": "Richard Gasquet, enfant prodige devenu modèle de longévité, dit adieu au tennis à Roland-Garros",
     "added_at": "2025-05-29T17:24:44.977Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-29T18:54:02.637Z",
+    "duration_minutes": 89,
+    "duration_str": "1h 29m"
   },
   {
     "title": "Corentin Moutet perd la première manche face à Novak Djokovic, Loïs Boisson poursuit son joli parcours",
@@ -1075,14 +1076,16 @@
   {
     "title": "En direct | Roland-Garros 2025 : Corentin Moutet mené deux manches à rien par Novak Djokovic, Loïs Boisson poursuit son joli parcours",
     "added_at": "2025-05-29T18:03:28.137Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-29T18:32:38.640Z",
+    "duration_minutes": 29,
+    "duration_str": "29m"
   },
   {
     "title": "Droits de douane : les négociations avec les Etats-Unis dans le brouillard, après le camouflet pour Trump",
     "added_at": "2025-05-29T18:05:25.028Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-29T18:21:01.322Z",
+    "duration_minutes": 16,
+    "duration_str": "16m"
   },
   {
     "title": "Israël aurait accepté le projet américain de cessez-le-feu dans la bande de Gaza, annonce la Maison Blanche",
@@ -1124,5 +1127,44 @@
     "removed_at": "2025-05-29T18:09:16.955Z",
     "duration_minutes": 2,
     "duration_str": "2m"
+  },
+  {
+    "title": "Après la suspension des droits de douane de Donald Trump, des réactions extrêmement prudentes, de Bruxelles à Pékin",
+    "added_at": "2025-05-29T18:21:01.322Z",
+    "removed_at": "2025-05-29T18:34:35.492Z",
+    "duration_minutes": 14,
+    "duration_str": "14m"
+  },
+  {
+    "title": "Après la suspension des droits de douane de Donald Trump, des réactions extrêmement prudentes, de la Chine à l’UE",
+    "added_at": "2025-05-29T18:34:35.492Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Gaël Monfils affronte Jack Draper, Corentin Moutet s’incline face à Novak Djokovic",
+    "added_at": "2025-05-29T18:54:02.637Z",
+    "removed_at": "2025-05-29T18:57:52.725Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Gaël Monfils affronte Jack Draper à Roland-Garros, Corentin Moutet s’incline face à Novak Djokovic",
+    "added_at": "2025-05-29T18:57:52.725Z",
+    "removed_at": "2025-05-29T19:01:45.121Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Gaël Monfils affronte Jack Draper, Elsa Jacquemot rejoint Loïs Boisson au 3ᵉ tour et Corentin Moutet s’incline face à Novak Djokovic",
+    "added_at": "2025-05-29T19:01:45.121Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Les joueurs du PSG courent plus… et c’est peut-être pour cela qu’ils vont gagner la Ligue des champions",
+    "added_at": "2025-05-29T19:01:45.121Z",
+    "duration_minutes": 0,
+    "duration_str": ""
   }
 ]
