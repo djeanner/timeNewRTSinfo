@@ -44,8 +44,9 @@
   {
     "title": "Pakistan pitches ‘responsible’ image as diplomatic war with India heats up",
     "added_at": "2025-05-29T05:24:25.072Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-29T18:24:35.646Z",
+    "duration_minutes": 780,
+    "duration_str": "13h"
   },
   {
     "title": "Cambodia PM urges calm after border clash with Thailand leaves soldier dead",
@@ -185,20 +186,23 @@
   {
     "title": "Israeli attacks kill more than 60 in Gaza as hunger crisis deepens",
     "added_at": "2025-05-29T13:35:36.602Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-29T18:54:02.661Z",
+    "duration_minutes": 318,
+    "duration_str": "5h 18m"
   },
   {
     "title": "LIVE: Punjab Kings vs RCB – IPL Qualifier 1",
     "added_at": "2025-05-29T13:45:21.876Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-29T17:44:08.638Z",
+    "duration_minutes": 239,
+    "duration_str": "3h 59m"
   },
   {
     "title": "US federal trade court blocks Donald Trump’s sweeping tariff policy",
     "added_at": "2025-05-29T14:04:27.901Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-29T17:24:26.986Z",
+    "duration_minutes": 200,
+    "duration_str": "3h 20m"
   },
   {
     "title": "US to revoke Chinese student visas: What’s the likely impact?",
@@ -215,8 +219,9 @@
   {
     "title": "US envoy visits Damascus, says Syria-Israel conflict ‘solvable’",
     "added_at": "2025-05-29T15:20:01.391Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-05-29T18:54:02.661Z",
+    "duration_minutes": 214,
+    "duration_str": "3h 34m"
   },
   {
     "title": "Israel kills municipal worker at water well in south Lebanon: Mayor",
@@ -234,26 +239,19 @@
   {
     "title": "‘Dehumanising’ aid chaos grows in Gaza as Israeli attacks kill 55 people",
     "added_at": "2025-05-29T16:30:23.409Z",
+    "removed_at": "2025-05-29T16:52:24.627Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
+  },
+  {
+    "title": "‘Dehumanising’ aid chaos grows in Gaza as Israeli attacks kill 64 people",
+    "added_at": "2025-05-29T16:52:24.627Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
-    "title": "Trump’s tariffs ruled illegal: What that means for US trade war",
-    "added_at": "2025-05-29T14:51:20.996Z",
-    "removed_at": "2025-05-29T14:53:17.968Z",
-    "duration_minutes": 2,
-    "duration_str": "2m"
-  },
-  {
-    "title": "‘Dehumanising’ aid chaos grows in Gaza as Israeli attacks kill 64 people",
-    "added_at": "2025-05-29T16:53:38.185Z",
-    "removed_at": "2025-05-29T19:54:10.559Z",
-    "duration_minutes": 181,
-    "duration_str": "3h 1m"
-  },
-  {
     "title": "‘Blatantly wrong’: White House slams trade court ruling on tariffs",
-    "added_at": "2025-05-29T17:24:44.996Z",
+    "added_at": "2025-05-29T17:24:26.986Z",
     "removed_at": "2025-05-29T17:51:50.358Z",
     "duration_minutes": 27,
     "duration_str": "27m"
@@ -274,9 +272,8 @@
   {
     "title": "‘Blatantly wrong’: White House slams trade court ruling on Trump’s tariffs",
     "added_at": "2025-05-29T17:51:50.358Z",
-    "removed_at": "2025-05-29T19:30:54.165Z",
-    "duration_minutes": 99,
-    "duration_str": "1h 39m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Mistrial declared in Argentina court over the death of Diego Maradona",
@@ -286,14 +283,14 @@
   },
   {
     "title": "RCB-Punjab Kings: Kohli closes on maiden IPL title as Bengaluru reach final",
-    "added_at": "2025-05-29T18:24:57.706Z",
-    "removed_at": "2025-05-29T18:26:50.600Z",
+    "added_at": "2025-05-29T18:24:35.646Z",
+    "removed_at": "2025-05-29T18:26:31.360Z",
     "duration_minutes": 2,
     "duration_str": "2m"
   },
   {
     "title": "Kohli closes on maiden IPL title as Bengaluru reach final",
-    "added_at": "2025-05-29T18:26:50.600Z",
+    "added_at": "2025-05-29T18:26:31.360Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -302,6 +299,13 @@
     "added_at": "2025-05-29T18:54:02.661Z",
     "duration_minutes": 0,
     "duration_str": ""
+  },
+  {
+    "title": "Trump’s tariffs ruled illegal: What that means for US trade war",
+    "added_at": "2025-05-29T14:51:20.996Z",
+    "removed_at": "2025-05-29T14:53:17.968Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
   },
   {
     "title": "US appeals court pauses ruling to block Trump’s sweeping tariff policy",
