@@ -6448,7 +6448,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:00:57.917Z"
+    "added_at": "2025-05-22T18:00:57.917Z",
+    "removed_at": "2025-05-30T19:26:02.043Z",
+    "duration_minutes": 11605,
+    "duration_str": "8d 1h 25m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -8693,10 +8696,7 @@
   },
   {
     "title": "sciences:::Contrairement à ce que l’on pensait, les crises d’épilepsie ne sont pas si imprévisibles",
-    "added_at": "2025-05-30T10:21:33.265Z",
-    "removed_at": "2025-05-30T18:35:06.079Z",
-    "duration_minutes": 493,
-    "duration_str": "8h 13m"
+    "added_at": "2025-05-30T10:21:33.265Z"
   },
   {
     "title": "economie:::Et si les spécialistes en santé et sécurité au travail ne se formaient plus (assez)",
@@ -8714,7 +8714,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Moscou rejette l’idée d’une rencontre trilatérale avec Kiev et Washington",
-    "added_at": "2025-05-30T10:45:59.230Z"
+    "added_at": "2025-05-30T10:45:59.230Z",
+    "removed_at": "2025-05-30T20:33:44.372Z",
+    "duration_minutes": 587,
+    "duration_str": "9h 47m"
   },
   {
     "title": "sciences:::Cleo Bertelsmeier Travail de fourmi",
@@ -8768,7 +8771,10 @@
   },
   {
     "title": "culture:::Le Jukebox de mai 2025: Staro, Lael Neale, Damiano David…",
-    "added_at": "2025-05-30T13:20:30.880Z"
+    "added_at": "2025-05-30T13:20:30.880Z",
+    "removed_at": "2025-05-30T19:10:58.271Z",
+    "duration_minutes": 350,
+    "duration_str": "5h 50m"
   },
   {
     "title": "suisse:::Les écoliers de Blatten et du Lötschental plongés dans l’incertitude",
@@ -8783,7 +8789,10 @@
   },
   {
     "title": "culture:::Série: «Sirens», lutte des classes sur une île de la haute",
-    "added_at": "2025-05-30T14:34:05.609Z"
+    "added_at": "2025-05-30T14:34:05.609Z",
+    "removed_at": "2025-05-30T19:10:58.271Z",
+    "duration_minutes": 276,
+    "duration_str": "4h 36m"
   },
   {
     "title": "suisse:::En direct – Arrivée dans le Lötschental, Karin Keller-Sutter a survolé Blatten: «C'est bouleversant»",
@@ -8802,7 +8811,10 @@
   },
   {
     "title": "suisse:::En direct – A Blatten, intervenir dans la zone sinistrée reste pour l'heure exclu",
-    "added_at": "2025-05-30T17:14:12.971Z"
+    "added_at": "2025-05-30T17:14:12.971Z",
+    "removed_at": "2025-05-30T20:22:28.014Z",
+    "duration_minutes": 188,
+    "duration_str": "3h 8m"
   },
   {
     "title": "economie:::Avec Blatten, un système d’assurance des risques face à une catastrophe hors norme",
@@ -8810,7 +8822,10 @@
   },
   {
     "title": "monde:::En direct – Israël somme le Hamas de choisir: accepter la proposition américaine ou «être anéanti»",
-    "added_at": "2025-05-30T17:38:36.252Z"
+    "added_at": "2025-05-30T17:38:36.252Z",
+    "removed_at": "2025-05-30T20:30:00.317Z",
+    "duration_minutes": 171,
+    "duration_str": "2h 51m"
   },
   {
     "title": "monde:::Israël dévoile 22 nouvelles colonies pour finir de verrouiller la Cisjordanie",
@@ -8823,5 +8838,21 @@
   {
     "title": "monde:::La Cour suprême autorise Donald Trump à révoquer temporairement le statut légal d'un demi-million d'immigrés",
     "added_at": "2025-05-30T18:35:06.079Z"
+  },
+  {
+    "title": "sport:::Les nuits de Roland-Garros sont plus mâles que les jours",
+    "added_at": "2025-05-30T19:26:02.043Z"
+  },
+  {
+    "title": "suisse:::A Blatten, la Lonza s'est frayé un chemin à travers les éboulis",
+    "added_at": "2025-05-30T20:22:28.014Z"
+  },
+  {
+    "title": "monde:::Guerre à Gaza – Israël somme le Hamas de choisir: accepter la proposition américaine ou «être anéanti»",
+    "added_at": "2025-05-30T20:30:00.317Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Kiev dénonce le manque de communication de Moscou pour des nouveaux pourparlers",
+    "added_at": "2025-05-30T20:33:44.372Z"
   }
 ]
