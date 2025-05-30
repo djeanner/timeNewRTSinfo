@@ -8177,7 +8177,10 @@
   },
   {
     "title": "culture:::De nouveaux témoignages de harcèlement sexuel accablent Dorian Rossel",
-    "added_at": "2025-05-28T13:57:31.613Z"
+    "added_at": "2025-05-28T13:57:31.613Z",
+    "removed_at": "2025-05-30T06:18:27.498Z",
+    "duration_minutes": 2420,
+    "duration_str": "1d 16h 20m"
   },
   {
     "title": "suisse:::A Blatten, le glacier du Birch a cédé, provocant un éboulement monumental",
@@ -8562,7 +8565,10 @@
   },
   {
     "title": "suisse:::En direct – Le lac qui s’est formé à Blatten pourrait déborder, Gampel et Steg sur le qui-vive",
-    "added_at": "2025-05-30T04:02:58.162Z"
+    "added_at": "2025-05-30T04:02:58.162Z",
+    "removed_at": "2025-05-30T05:44:36.602Z",
+    "duration_minutes": 101,
+    "duration_str": "1h 41m"
   },
   {
     "title": "suisse:::A Hongkong, la Suisse et Ignazio Cassis s’embarquent dans la «médiation à la chinoise»",
@@ -8571,5 +8577,20 @@
   {
     "title": "suisse:::«Un avertissement à tous les pays alpins»: à l’étranger, Blatten est devenu le symbole du déclin des glaciers",
     "added_at": "2025-05-30T04:27:23.276Z"
+  },
+  {
+    "title": "economie:::Horizon Europe et Erasmus+, les deux piliers du succès",
+    "added_at": "2025-05-30T05:12:36.807Z"
+  },
+  {
+    "title": "suisse:::En direct – La Lonza n’a pas débordé durant la nuit, Gampel et Steg sur le qui-vive",
+    "added_at": "2025-05-30T05:44:36.602Z",
+    "removed_at": "2025-05-30T06:41:00.822Z",
+    "duration_minutes": 56,
+    "duration_str": "56m"
+  },
+  {
+    "title": "suisse:::En direct – La Lonza trace son chemin dans les gravats, Gampel et Steg sur le qui-vive",
+    "added_at": "2025-05-30T06:41:00.822Z"
   }
 ]

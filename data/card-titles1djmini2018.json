@@ -10826,7 +10826,10 @@
   },
   {
     "title": "Le blocage humanitaire et ses conséquences pour les habitants de Gaza",
-    "added_at": "2025-05-29T01:36:02.169Z"
+    "added_at": "2025-05-29T01:36:02.169Z",
+    "removed_at": "2025-05-30T04:40:40.560Z",
+    "duration_minutes": 1624,
+    "duration_str": "1d 3h 4m"
   },
   {
     "title": "Un tribunal bloque les droits de douane réciproques de Donald Trump",
@@ -10867,10 +10870,7 @@
   },
   {
     "title": "Genève pourrait accueillir une rencontre entre les présidents Trump, Poutine et Zelensky",
-    "added_at": "2025-05-29T08:34:46.775Z",
-    "removed_at": "2025-05-30T01:39:52.090Z",
-    "duration_minutes": 1025,
-    "duration_str": "17h 5m"
+    "added_at": "2025-05-29T08:34:46.775Z"
   },
   {
     "title": "Importante avalanche glaciaire à Blatten",
@@ -11052,5 +11052,30 @@
   {
     "title": "La Lonza n'a pas débordé dans la nuit, mais la situation reste tendue dans le Lötschental",
     "added_at": "2025-05-30T04:21:44.288Z"
+  },
+  {
+    "title": "Glacier effondré à Blatten : un lac se forme, inquiétude dans la vallée",
+    "added_at": "2025-05-30T05:52:04.651Z",
+    "removed_at": "2025-05-30T06:12:48.935Z",
+    "duration_minutes": 20,
+    "duration_str": "20m"
+  },
+  {
+    "title": "Face à une montagne d'éboulis instable à Blatten, les risques de débordement persistent",
+    "added_at": "2025-05-30T06:12:48.935Z",
+    "removed_at": "2025-05-30T06:24:04.635Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "Les risques de débordement de la Lonza persistent, mais \"la situation actuelle est dans un scénario assez favorable\"",
+    "added_at": "2025-05-30T06:24:04.635Z",
+    "removed_at": "2025-05-30T06:29:43.073Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "La Lonza commence à faire son chemin sur l'éboulement, mais les risques de débordement massif persistent",
+    "added_at": "2025-05-30T06:29:43.073Z"
   }
 ]
