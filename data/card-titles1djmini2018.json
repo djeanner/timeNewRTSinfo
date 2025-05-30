@@ -10417,7 +10417,10 @@
   },
   {
     "title": "Les tirs préventifs ont freiné la hausse du nombre de loups",
-    "added_at": "2025-05-27T14:10:03.832Z"
+    "added_at": "2025-05-27T14:10:03.832Z",
+    "removed_at": "2025-05-30T08:32:07.661Z",
+    "duration_minutes": 3982,
+    "duration_str": "2d 18h 22m"
   },
   {
     "title": "Les caves valaisannes ouvrent leurs portes ce week-end pour une 19e édition",
@@ -10449,11 +10452,17 @@
   },
   {
     "title": "Le PLR et le PS restent les forces dominantes des villes suisses, mais leur avance diminue",
-    "added_at": "2025-05-27T15:50:05.739Z"
+    "added_at": "2025-05-27T15:50:05.739Z",
+    "removed_at": "2025-05-30T07:48:52.452Z",
+    "duration_minutes": 3838,
+    "duration_str": "2d 15h 58m"
   },
   {
     "title": "L'automobiliste de Liverpool soupçonné de conduite sous l'emprise de drogues",
-    "added_at": "2025-05-27T15:57:42.563Z"
+    "added_at": "2025-05-27T15:57:42.563Z",
+    "removed_at": "2025-05-30T08:28:24.449Z",
+    "duration_minutes": 3870,
+    "duration_str": "2d 16h 30m"
   },
   {
     "title": "L'Agence spatiale européenne a ouvert son premier site permanent en Suisse",
@@ -10478,7 +10487,10 @@
   },
   {
     "title": "Lancement d'une initiative communale pour un marché couvert à la Riponne à Lausanne",
-    "added_at": "2025-05-27T17:47:08.798Z"
+    "added_at": "2025-05-27T17:47:08.798Z",
+    "removed_at": "2025-05-30T07:48:52.452Z",
+    "duration_minutes": 3721,
+    "duration_str": "2d 14h 1m"
   },
   {
     "title": "Quatre policiers poursuivis en justice après la mort d'un dealer présumé à Lausanne",
@@ -10486,7 +10498,10 @@
   },
   {
     "title": "Un important pan du glacier de Birch s'est effondré au-dessus de Blatten",
-    "added_at": "2025-05-27T19:14:02.571Z"
+    "added_at": "2025-05-27T19:14:02.571Z",
+    "removed_at": "2025-05-30T08:39:42.263Z",
+    "duration_minutes": 3685,
+    "duration_str": "2d 13h 25m"
   },
   {
     "title": "Un troisième titre pour les Lions de Genève",
@@ -10504,7 +10519,10 @@
   },
   {
     "title": "Des Lions de Genève en forme \"Olympic\" fêtent leur 3e titre",
-    "added_at": "2025-05-27T20:04:59.995Z"
+    "added_at": "2025-05-27T20:04:59.995Z",
+    "removed_at": "2025-05-30T08:49:03.847Z",
+    "duration_minutes": 3644,
+    "duration_str": "2d 12h 44m"
   },
   {
     "title": "Les Lions de Genève en forme \"Olympic\"",
@@ -10522,7 +10540,10 @@
   },
   {
     "title": "Onze adolescents dénoncés auprès du Tribunal des mineurs du Valais",
-    "added_at": "2025-05-27T20:46:34.351Z"
+    "added_at": "2025-05-27T20:46:34.351Z",
+    "removed_at": "2025-05-30T08:45:20.496Z",
+    "duration_minutes": 3598,
+    "duration_str": "2d 11h 58m"
   },
   {
     "title": "Genève pourrait-elle accueillir bientôt un sommet pour la paix en Ukraine?",
@@ -10628,7 +10649,10 @@
   },
   {
     "title": "Nouvelle explosion du vaisseau de Starship lors d'un vol d'essai mouvementé",
-    "added_at": "2025-05-28T12:34:33.201Z"
+    "added_at": "2025-05-28T12:34:33.201Z",
+    "removed_at": "2025-05-30T08:39:42.263Z",
+    "duration_minutes": 2645,
+    "duration_str": "1d 20h 5m"
   },
   {
     "title": "Les effondrements s'enchaînent sur le glacier du Birch, au-dessus de Blatten",
@@ -10870,7 +10894,10 @@
   },
   {
     "title": "Genève pourrait accueillir une rencontre entre les présidents Trump, Poutine et Zelensky",
-    "added_at": "2025-05-29T08:34:46.775Z"
+    "added_at": "2025-05-29T08:34:46.775Z",
+    "removed_at": "2025-05-30T07:39:24.135Z",
+    "duration_minutes": 1384,
+    "duration_str": "23h 4m"
   },
   {
     "title": "Importante avalanche glaciaire à Blatten",
@@ -11077,5 +11104,44 @@
   {
     "title": "La Lonza commence à faire son chemin sur l'éboulement, mais les risques de débordement massif persistent",
     "added_at": "2025-05-30T06:29:43.073Z"
+  },
+  {
+    "title": "L'apprentissage du français au centre d'un débat en Suisse alémanique",
+    "added_at": "2025-05-30T07:39:24.135Z"
+  },
+  {
+    "title": "Une faible majorité de Suisses se prononce contre l'introduction des nouveaux OGM",
+    "added_at": "2025-05-30T07:48:52.452Z",
+    "removed_at": "2025-05-30T08:28:24.449Z",
+    "duration_minutes": 39,
+    "duration_str": "39m"
+  },
+  {
+    "title": "Les bibliothèques municipales de Lausanne fêtent 90 ans d'accès gratuit à la lecture",
+    "added_at": "2025-05-30T07:48:52.452Z"
+  },
+  {
+    "title": "Tourisme, patrimoine, traditions: les impacts de la catastrophe de Blatten sur le Lötschental",
+    "added_at": "2025-05-30T08:28:24.449Z"
+  },
+  {
+    "title": "Une faible majorité de Suisses contre l'introduction des nouveaux OGM, selon un sondage",
+    "added_at": "2025-05-30T08:28:24.449Z"
+  },
+  {
+    "title": "L'EPFL s'étend dans le canton du Jura dans l'objectif de favoriser l'innovation",
+    "added_at": "2025-05-30T08:28:24.449Z"
+  },
+  {
+    "title": "Les Swiss Music Awards 2025 sacrent Nemo",
+    "added_at": "2025-05-30T08:39:42.263Z"
+  },
+  {
+    "title": "L'ONU pourrait supprimer des milliers de postes face aux contraintes budgétaires",
+    "added_at": "2025-05-30T08:45:20.496Z"
+  },
+  {
+    "title": "Un rapport sur la santé des Américains s'appuie sur des études inexistantes",
+    "added_at": "2025-05-30T08:49:03.847Z"
   }
 ]
