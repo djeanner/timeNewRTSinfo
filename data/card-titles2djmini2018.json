@@ -8145,7 +8145,10 @@
   },
   {
     "title": "suisse:::Cheffe de la rubrique Suisse du «Temps», Nicole Lamon devient la première femme porte-parole du Conseil fédéral",
-    "added_at": "2025-05-28T13:00:55.709Z"
+    "added_at": "2025-05-28T13:00:55.709Z",
+    "removed_at": "2025-05-30T04:04:47.866Z",
+    "duration_minutes": 2343,
+    "duration_str": "1d 15h 3m"
   },
   {
     "title": "cyber:::Infomaniak et Proton, une même sensibilité sur les données mais des visions politiques opposées",
@@ -8351,7 +8354,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Marco Rubio demande à la Russie de négocier «de bonne foi» avec l’Ukraine",
-    "added_at": "2025-05-29T05:32:00.755Z"
+    "added_at": "2025-05-29T05:32:00.755Z",
+    "removed_at": "2025-05-30T02:51:26.420Z",
+    "duration_minutes": 1279,
+    "duration_str": "21h 19m"
   },
   {
     "title": "culture:::A Genève, le Cirque du Soleil déballe des malles fantastiques et électrise les foules avec «Kurios»",
@@ -8443,7 +8449,10 @@
   },
   {
     "title": "economie:::Sur fond de réforme fiscale, le milliardaire suisse Guillaume Pousaz quitte le Royaume-Uni pour Monaco",
-    "added_at": "2025-05-29T13:15:35.423Z"
+    "added_at": "2025-05-29T13:15:35.423Z",
+    "removed_at": "2025-05-30T04:02:58.162Z",
+    "duration_minutes": 887,
+    "duration_str": "14h 47m"
   },
   {
     "title": "suisse:::«La catastrophe de Blatten montre que la montagne est en train de changer»",
@@ -8500,7 +8509,10 @@
   },
   {
     "title": "monde:::A Budapest, un raout d’ultra-conservateurs bat son plein alors que Viktor Orban suscite toujours plus l’ire de Bruxelles",
-    "added_at": "2025-05-29T16:40:58.572Z"
+    "added_at": "2025-05-29T16:40:58.572Z",
+    "removed_at": "2025-05-30T04:27:23.276Z",
+    "duration_minutes": 706,
+    "duration_str": "11h 46m"
   },
   {
     "title": "suisse:::En direct – Le lac qui s’est formé à Blatten devrait déborder durant la nuit, pas d’évacuations supplémentaires",
@@ -8511,7 +8523,10 @@
   },
   {
     "title": "monde:::En direct, guerre à Gaza – Le Hamas dit étudier une «nouvelle proposition» américaine de trêve à Gaza, qui aurait reçu l’aval d’Israël",
-    "added_at": "2025-05-29T17:54:28.347Z"
+    "added_at": "2025-05-29T17:54:28.347Z",
+    "removed_at": "2025-05-30T02:58:59.281Z",
+    "duration_minutes": 544,
+    "duration_str": "9h 4m"
   },
   {
     "title": "economie:::Quinn Slobodian: «Les entrepreneurs de la tech se créent un monde alternatif à celui des Etats-nations»",
@@ -8536,5 +8551,25 @@
   {
     "title": "economie:::Une cour d’appel des Etats-Unis accorde en urgence le maintien des droits de douane à Donald Trump",
     "added_at": "2025-05-30T01:49:15.274Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Kiev se dit «prête» à de nouveaux pourparlers, sous conditions",
+    "added_at": "2025-05-30T02:51:26.420Z"
+  },
+  {
+    "title": "monde:::En direct, guerre à Gaza – La proposition américaine acceptée par Israël ne plaît pas au Hamas",
+    "added_at": "2025-05-30T02:58:59.281Z"
+  },
+  {
+    "title": "suisse:::En direct – Le lac qui s’est formé à Blatten pourrait déborder, Gampel et Steg sur le qui-vive",
+    "added_at": "2025-05-30T04:02:58.162Z"
+  },
+  {
+    "title": "suisse:::A Hongkong, la Suisse et Ignazio Cassis s’embarquent dans la «médiation à la chinoise»",
+    "added_at": "2025-05-30T04:04:47.866Z"
+  },
+  {
+    "title": "suisse:::«Un avertissement à tous les pays alpins»: à l’étranger, Blatten est devenu le symbole du déclin des glaciers",
+    "added_at": "2025-05-30T04:27:23.276Z"
   }
 ]
