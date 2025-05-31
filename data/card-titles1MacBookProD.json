@@ -13844,7 +13844,10 @@
   },
   {
     "title": "Audience record pour le concours Eurovision organisé à Bâle",
-    "added_at": "2025-05-31T06:26:17.062Z"
+    "added_at": "2025-05-31T06:26:17.062Z",
+    "removed_at": "2025-05-31T16:18:16.535Z",
+    "duration_minutes": 591,
+    "duration_str": "9h 51m"
   },
   {
     "title": "Comment les paillettes en plastique détériorent l’environnement marin",
@@ -13982,7 +13985,10 @@
   },
   {
     "title": "La Lonza s'écoule jusqu'au barrage de Ferden, légère baisse du niveau du lac de Blatten",
-    "added_at": "2025-05-31T11:39:27.502Z"
+    "added_at": "2025-05-31T11:39:27.502Z",
+    "removed_at": "2025-05-31T16:10:29.423Z",
+    "duration_minutes": 271,
+    "duration_str": "4h 31m"
   },
   {
     "title": "Le tourisme suisse et les bouchons pour le tunnel du Gothard",
@@ -14026,5 +14032,20 @@
   {
     "title": "La pression russe s'intensifie dans la région ukrainienne de Soumy",
     "added_at": "2025-05-31T15:54:49.335Z"
+  },
+  {
+    "title": "La situation s'améliore à Blatten, mais la prudence reste de mise",
+    "added_at": "2025-05-31T16:06:36.685Z",
+    "removed_at": "2025-05-31T16:39:41.124Z",
+    "duration_minutes": 33,
+    "duration_str": "33m"
+  },
+  {
+    "title": "L'élagage illégal d'une trentaine d'arbres choque La Chaux-de-Fonds",
+    "added_at": "2025-05-31T16:18:16.535Z"
+  },
+  {
+    "title": "La situation s'améliore à Blatten, mais le danger demeure à un niveau élevé",
+    "added_at": "2025-05-31T16:39:41.124Z"
   }
 ]
