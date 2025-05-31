@@ -8674,7 +8674,10 @@
   },
   {
     "title": "sport:::En Grand Chelem, les jours qui suivent après une victoire sans lendemain",
-    "added_at": "2025-05-30T09:23:07.349Z"
+    "added_at": "2025-05-30T09:23:07.349Z",
+    "removed_at": "2025-05-31T08:57:43.735Z",
+    "duration_minutes": 1414,
+    "duration_str": "23h 34m"
   },
   {
     "title": "suisse:::En direct – A Blatten, le niveau du lac s’approche du sommet des éboulis, pas d’évacuation programmée à Gampel et Steg",
@@ -8699,7 +8702,10 @@
   },
   {
     "title": "sciences:::Contrairement à ce que l’on pensait, les crises d’épilepsie ne sont pas si imprévisibles",
-    "added_at": "2025-05-30T10:21:33.265Z"
+    "added_at": "2025-05-30T10:21:33.265Z",
+    "removed_at": "2025-05-31T09:44:46.969Z",
+    "duration_minutes": 1403,
+    "duration_str": "23h 23m"
   },
   {
     "title": "economie:::Et si les spécialistes en santé et sécurité au travail ne se formaient plus (assez)",
@@ -8806,7 +8812,10 @@
   },
   {
     "title": "sport:::Le Football et les Femmes: Confession (fictive) d’une médecin qui voulait empêcher les femmes de taper dans le ballon",
-    "added_at": "2025-05-30T16:10:04.435Z"
+    "added_at": "2025-05-30T16:10:04.435Z",
+    "removed_at": "2025-05-31T09:46:36.441Z",
+    "duration_minutes": 1056,
+    "duration_str": "17h 36m"
   },
   {
     "title": "suisse:::A Blatten, sur les lieux du sinistre, Karin Keller-Sutter l’assure: «La situation est apocalyptique»",
@@ -8881,15 +8890,24 @@
   },
   {
     "title": "sciences:::Le Royaume-Uni interdit les cigarettes électroniques jetables",
-    "added_at": "2025-05-31T05:43:16.936Z"
+    "added_at": "2025-05-31T05:43:16.936Z",
+    "removed_at": "2025-05-31T09:42:52.508Z",
+    "duration_minutes": 239,
+    "duration_str": "3h 59m"
   },
   {
     "title": "monde:::Entre Donald Trump et Elon Musk, ce n’est qu’un au revoir",
-    "added_at": "2025-05-31T06:03:56.760Z"
+    "added_at": "2025-05-31T06:03:56.760Z",
+    "removed_at": "2025-05-31T10:41:10.604Z",
+    "duration_minutes": 277,
+    "duration_str": "4h 37m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Kiev dénonce le manque de communication de Moscou pour des nouveaux pourparlers",
-    "added_at": "2025-05-31T06:09:35.682Z"
+    "added_at": "2025-05-31T06:09:35.682Z",
+    "removed_at": "2025-05-31T09:24:04.156Z",
+    "duration_minutes": 194,
+    "duration_str": "3h 14m"
   },
   {
     "title": "suisse:::En direct – A Blatten, la Lonza s'est frayé un chemin à travers les éboulis",
@@ -8908,7 +8926,10 @@
   },
   {
     "title": "suisse:::En direct – Une nuit «assez calme» à Blatten, la Lonza s'écoule lentement",
-    "added_at": "2025-05-31T07:15:36.674Z"
+    "added_at": "2025-05-31T07:15:36.674Z",
+    "removed_at": "2025-05-31T10:37:21.033Z",
+    "duration_minutes": 201,
+    "duration_str": "3h 21m"
   },
   {
     "title": "economie:::Lucens: l’incroyable histoire du plus grave accident nucléaire suisse",
@@ -8917,5 +8938,17 @@
   {
     "title": "economie:::La centrale nucléaire de Lucens: de l’atome aux fantômes",
     "added_at": "2025-05-31T07:55:08.200Z"
+  },
+  {
+    "title": "culture:::En 1931, la Genevoise Noëlle Roger, imaginait dans «Le Chercheur d’ondes» un monde dans lequel les pensées sont générées par une machine",
+    "added_at": "2025-05-31T08:57:43.735Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Les autorités ukrainiennes ordonnent l’évacuation de onze villages",
+    "added_at": "2025-05-31T09:24:04.156Z"
+  },
+  {
+    "title": "suisse:::En direct – Après une nuit «assez calme» à Blatten, Martin Pfister va revenir dans la région ce samedi",
+    "added_at": "2025-05-31T10:37:21.033Z"
   }
 ]
