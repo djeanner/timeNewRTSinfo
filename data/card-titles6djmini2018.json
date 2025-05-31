@@ -7904,7 +7904,10 @@
   },
   {
     "title": "‘Each person had 10 phones’: Trapped in a cyber-scam centre in Laos",
-    "added_at": "2025-05-30T23:44:00.828Z"
+    "added_at": "2025-05-30T23:44:00.828Z",
+    "removed_at": "2025-05-31T20:18:53.658Z",
+    "duration_minutes": 1234,
+    "duration_str": "20h 34m"
   },
   {
     "title": "What is Project Esther, the playbook against pro-Palestine movement in US?",
@@ -8108,5 +8111,9 @@
   {
     "title": "Iran rejects IAEA report alleging increased enriched Uranium stockpile",
     "added_at": "2025-05-31T17:35:09.250Z"
+  },
+  {
+    "title": "Two killed in Russian attacks on Ukraine before possible talks in Turkiye",
+    "added_at": "2025-05-31T20:18:53.658Z"
   }
 ]

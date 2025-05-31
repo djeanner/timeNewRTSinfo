@@ -8868,7 +8868,10 @@
   },
   {
     "title": "sport:::Les nuits de Roland-Garros sont plus mâles que les jours",
-    "added_at": "2025-05-30T19:26:02.043Z"
+    "added_at": "2025-05-30T19:26:02.043Z",
+    "removed_at": "2025-05-31T18:24:12.198Z",
+    "duration_minutes": 1378,
+    "duration_str": "22h 58m"
   },
   {
     "title": "suisse:::A Blatten, la Lonza s'est frayé un chemin à travers les éboulis",
@@ -8974,7 +8977,10 @@
   },
   {
     "title": "suisse:::Mort sur un quad à Moudon",
-    "added_at": "2025-05-31T11:18:52.431Z"
+    "added_at": "2025-05-31T11:18:52.431Z",
+    "removed_at": "2025-05-31T18:37:19.215Z",
+    "duration_minutes": 438,
+    "duration_str": "7h 18m"
   },
   {
     "title": "culture:::Thomas Lécuyer, le blues dans la joie",
@@ -9037,10 +9043,33 @@
   },
   {
     "title": "sciences:::«Le lien entre l’éboulement de Blatten et le réchauffement climatique est évident»",
-    "added_at": "2025-05-31T16:36:55.209Z"
+    "added_at": "2025-05-31T16:36:55.209Z",
+    "removed_at": "2025-05-31T18:09:07.014Z",
+    "duration_minutes": 92,
+    "duration_str": "1h 32m"
   },
   {
     "title": "suisse:::Inès Lamunière: «Il faut que les tours soient belles!»",
     "added_at": "2025-05-31T17:06:56.207Z"
+  },
+  {
+    "title": "sciences:::Wilfried Haeberli, glaciologue: «Le lien entre l’éboulement de Blatten et le réchauffement climatique est évident»",
+    "added_at": "2025-05-31T18:09:07.014Z"
+  },
+  {
+    "title": "culture:::Dans la fabrique de Wes Anderson",
+    "added_at": "2025-05-31T18:20:23.687Z"
+  },
+  {
+    "title": "culture:::Wes Anderson, une œuvre qui se régénère au musée",
+    "added_at": "2025-05-31T18:20:23.687Z"
+  },
+  {
+    "title": "culture:::Au cœur de Paris, l’hôtel La Louisiane cultive l’esprit de bohème",
+    "added_at": "2025-05-31T18:37:19.215Z"
+  },
+  {
+    "title": "economie:::Horlogerie: tour d'horizon des nouveautés du moment",
+    "added_at": "2025-05-31T19:30:00.395Z"
   }
 ]
