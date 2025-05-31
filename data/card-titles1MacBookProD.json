@@ -13543,7 +13543,10 @@
   },
   {
     "title": "L'eau de la Lonza s'écoule désormais par-dessus les éboulis et a atteint le barrage de Ferden",
-    "added_at": "2025-05-31T06:26:17.062Z"
+    "added_at": "2025-05-31T06:26:17.062Z",
+    "removed_at": "2025-05-31T06:45:32.719Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
   },
   {
     "title": "Inde-Pakistan: \"L'enjeu du nucléaire empêche toute forme de négociation\"",
@@ -13876,5 +13879,9 @@
   {
     "title": "Christine Lagarde aurait envisagé de quitter la BCE pour prendre la tête du Forum de Davos",
     "added_at": "2025-05-31T06:26:17.062Z"
+  },
+  {
+    "title": "Nuit \"assez calme\" dans le Lötschental, l'eau de la Lonza s'écoule toujours sur les éboulis",
+    "added_at": "2025-05-31T06:41:42.250Z"
   }
 ]
