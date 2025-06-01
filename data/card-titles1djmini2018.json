@@ -11110,7 +11110,10 @@
   },
   {
     "title": "Le Gothard face aux traditionnels embouteillages, la faute aux automobilistes suisses",
-    "added_at": "2025-05-29T12:45:24.363Z"
+    "added_at": "2025-05-29T12:45:24.363Z",
+    "removed_at": "2025-06-01T08:10:05.413Z",
+    "duration_minutes": 4044,
+    "duration_str": "2d 19h 24m"
   },
   {
     "title": "Traduction à l'ère de IA, les défis d'une profession en pleine mutation",
@@ -11121,7 +11124,10 @@
   },
   {
     "title": "Israël annonce la création de 22 nouvelles colonies juives en Cisjordanie",
-    "added_at": "2025-05-29T12:52:58.666Z"
+    "added_at": "2025-05-29T12:52:58.666Z",
+    "removed_at": "2025-06-01T06:13:28.985Z",
+    "duration_minutes": 3920,
+    "duration_str": "2d 17h 20m"
   },
   {
     "title": "Réservation nécessaire pour accéder en télécabine au lac d'Oeschinen, victime de son succès",
@@ -11211,7 +11217,10 @@
   },
   {
     "title": "La traduction à l'ère de l'IA ou les défis d'une profession en pleine mutation",
-    "added_at": "2025-05-29T20:13:57.761Z"
+    "added_at": "2025-05-29T20:13:57.761Z",
+    "removed_at": "2025-06-01T07:04:16.771Z",
+    "duration_minutes": 3530,
+    "duration_str": "2d 10h 50m"
   },
   {
     "title": "La Cour d'appel maintient les droits de douane de Donald Trump",
@@ -11284,7 +11293,10 @@
   },
   {
     "title": "L'apprentissage du français au centre d'un débat en Suisse alémanique",
-    "added_at": "2025-05-30T07:39:24.135Z"
+    "added_at": "2025-05-30T07:39:24.135Z",
+    "removed_at": "2025-06-01T07:47:30.209Z",
+    "duration_minutes": 2888,
+    "duration_str": "2d 8m"
   },
   {
     "title": "Une faible majorité de Suisses se prononce contre l'introduction des nouveaux OGM",
@@ -11684,10 +11696,7 @@
   },
   {
     "title": "Evolution de la situation, les explications de Théo Jeannet",
-    "added_at": "2025-05-31T21:47:25.941Z",
-    "removed_at": "2025-06-01T00:46:05.381Z",
-    "duration_minutes": 178,
-    "duration_str": "2h 58m"
+    "added_at": "2025-05-31T21:47:25.941Z"
   },
   {
     "title": "Euphorie sur les Champs-Elysées après la victoire du PSG en finale de la Ligue des champions",
@@ -11707,10 +11716,40 @@
   },
   {
     "title": "Sept morts après l'effondrement d'un pont sur une voie ferrée en Russie",
-    "added_at": "2025-06-01T02:20:11.872Z"
+    "added_at": "2025-06-01T02:20:11.872Z",
+    "removed_at": "2025-06-01T06:11:35.249Z",
+    "duration_minutes": 231,
+    "duration_str": "3h 51m"
   },
   {
     "title": "La fibre optique sous-marine, face cachée de l'intelligence artificielle",
     "added_at": "2025-06-01T05:33:52.945Z"
+  },
+  {
+    "title": "Deux ponts s'effondrent en Russie, causant la mort d'au moins sept personnes",
+    "added_at": "2025-06-01T06:11:35.249Z"
+  },
+  {
+    "title": "Une bibliothèque sonore pour voyager à travers le patrimoine mondial",
+    "added_at": "2025-06-01T06:13:28.985Z"
+  },
+  {
+    "title": "Au moins 10 morts dans des tirs près d'un centre d'aide alimentaire à Gaza",
+    "added_at": "2025-06-01T06:49:17.199Z",
+    "removed_at": "2025-06-01T07:55:02.165Z",
+    "duration_minutes": 65,
+    "duration_str": "1h 5m"
+  },
+  {
+    "title": "Mal payés, maltraités, des avocats stagiaires dénoncent leurs conditions",
+    "added_at": "2025-06-01T07:04:16.771Z"
+  },
+  {
+    "title": "Au moins 22 morts dans des tirs près d'un centre d'aide alimentaire à Gaza",
+    "added_at": "2025-06-01T07:55:02.165Z"
+  },
+  {
+    "title": "L'histoire des \"savanturiers\" Piccard racontée en BD dans \"Un, deux, trois Piccard\"",
+    "added_at": "2025-06-01T08:10:05.413Z"
   }
 ]
