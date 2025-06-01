@@ -10043,7 +10043,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Les autorités ukrainiennes ordonnent l’évacuation de onze villages",
-    "added_at": "2025-05-31T09:23:12.582Z"
+    "added_at": "2025-05-31T09:23:12.582Z",
+    "removed_at": "2025-06-01T12:25:46.459Z",
+    "duration_minutes": 1622,
+    "duration_str": "1d 3h 2m"
   },
   {
     "title": "suisse:::En direct – Après une nuit «assez calme» à Blatten, Martin Pfister va revenir dans la région ce samedi",
@@ -10223,7 +10226,10 @@
   },
   {
     "title": "economie:::A Dalian, centre névralgique de l’essor de la Chine dans la construction navale",
-    "added_at": "2025-06-01T09:10:57.958Z"
+    "added_at": "2025-06-01T09:10:57.958Z",
+    "removed_at": "2025-06-01T12:51:03.516Z",
+    "duration_minutes": 220,
+    "duration_str": "3h 40m"
   },
   {
     "title": "sport:::A Bienne et dans l’Arc jurassien, le rendez-vous manqué du football et de l’horlogerie",
@@ -10246,6 +10252,32 @@
   },
   {
     "title": "sport:::En direct – La Finale de la Coupe de Suisse entre Bienne-et Bâle. C'est parti!",
-    "added_at": "2025-06-01T12:06:15.900Z"
+    "added_at": "2025-06-01T12:06:15.900Z",
+    "removed_at": "2025-06-01T12:41:22.466Z",
+    "duration_minutes": 35,
+    "duration_str": "35m"
+  },
+  {
+    "title": "monde:::«J’ai claqué la porte à ce moment-là»: le témoignage rare d’un houthi repenti",
+    "added_at": "2025-06-01T12:27:44.215Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Une délégation ukrainienne sera à Istanbul lundi pour des pourparlers avec la Russie",
+    "added_at": "2025-06-01T12:27:44.215Z"
+  },
+  {
+    "title": "sport:::En direct – Bâle mène 1 à 0 après 36 minutes",
+    "added_at": "2025-06-01T12:41:22.466Z",
+    "removed_at": "2025-06-01T12:56:53.154Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "sciences:::L’avion supersonique en piste pour reprendre son envol",
+    "added_at": "2025-06-01T12:51:03.516Z"
+  },
+  {
+    "title": "sport:::En direct – Bâle mène 1 à 0 à la mi-temps. Bienne y croit encore",
+    "added_at": "2025-06-01T12:56:53.154Z"
   }
 ]
