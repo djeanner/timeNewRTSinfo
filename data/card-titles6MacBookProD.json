@@ -6665,7 +6665,10 @@
   },
   {
     "title": "Saudi Arabia says it will jointly fund Syria state salaries with Qatar",
-    "added_at": "2025-05-31T16:27:59.525Z"
+    "added_at": "2025-05-31T16:27:59.525Z",
+    "removed_at": "2025-06-01T02:10:23.142Z",
+    "duration_minutes": 582,
+    "duration_str": "9h 42m"
   },
   {
     "title": "India top general admits aerial ‘losses’ in recent conflict with Pakistan",
@@ -6695,10 +6698,7 @@
   },
   {
     "title": "Hamas says ceasefire proposal offers ‘no guarantees’ for end to Gaza war",
-    "added_at": "2025-05-31T22:57:34.588Z",
-    "removed_at": "2025-05-31T23:07:20.984Z",
-    "duration_minutes": 9,
-    "duration_str": "9m"
+    "added_at": "2025-05-31T22:57:34.588Z"
   },
   {
     "title": "Updates: Israel, US say ‘unacceptable’ as Hamas gives Gaza truce response",
@@ -6718,5 +6718,9 @@
   {
     "title": "Train derails near Russia-Ukraine border, killing at least seven",
     "added_at": "2025-06-01T01:23:39.861Z"
+  },
+  {
+    "title": "Israel pounds Gaza; Hamas seeks changes to US ceasefire proposal",
+    "added_at": "2025-06-01T02:10:23.142Z"
   }
 ]
