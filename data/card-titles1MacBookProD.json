@@ -13794,7 +13794,10 @@
   },
   {
     "title": "Médecins sans frontières dénonce les déplacements forcés constants des Gazaouis",
-    "added_at": "2025-05-31T06:26:17.062Z"
+    "added_at": "2025-05-31T06:26:17.062Z",
+    "removed_at": "2025-06-01T16:47:02.151Z",
+    "duration_minutes": 2060,
+    "duration_str": "1d 10h 20m"
   },
   {
     "title": "Le Musée suisse du jeu se penche sur les liens entre jeux vidéo et défis environnementaux",
@@ -14373,11 +14376,17 @@
   },
   {
     "title": "Bilans contradictoires après des tirs près d'un centre d'aide alimentaire à Gaza",
-    "added_at": "2025-06-01T14:03:16.077Z"
+    "added_at": "2025-06-01T14:03:16.077Z",
+    "removed_at": "2025-06-01T16:39:13.098Z",
+    "duration_minutes": 155,
+    "duration_str": "2h 35m"
   },
   {
     "title": "Elon Musk quitte officiellement son poste au sein du gouvernement américain",
-    "added_at": "2025-06-01T14:49:57.563Z"
+    "added_at": "2025-06-01T14:49:57.563Z",
+    "removed_at": "2025-06-01T16:48:55.793Z",
+    "duration_minutes": 118,
+    "duration_str": "1h 58m"
   },
   {
     "title": "Raclette ou raclonette: Suisses et Français enterrent la hache de guerre à Saint-Gingolph",
@@ -14386,5 +14395,31 @@
   {
     "title": "Document: la bataille économique pour la fibre optique sous-marine",
     "added_at": "2025-06-01T15:46:33.500Z"
+  },
+  {
+    "title": "Les secours font état d'au moins 31 morts dans des tirs israéliens en marge de distributions d'aide à Gaza",
+    "added_at": "2025-06-01T16:39:13.098Z"
+  },
+  {
+    "title": "L'Ukraine mène une vaste attaque contre l'aviation russe jusqu'en Sibérie",
+    "added_at": "2025-06-01T16:47:02.151Z",
+    "removed_at": "2025-06-01T16:48:55.793Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "L'Ukraine mène une vaste attaque de drones contre l'aviation russe jusqu'en Sibérie",
+    "added_at": "2025-06-01T16:48:55.793Z",
+    "removed_at": "2025-06-01T16:50:53.258Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Roland-Garros: Amélie Mauresmo critiquée pour sa programmation en soirée de matchs exclusivement masculins",
+    "added_at": "2025-06-01T16:48:55.793Z"
+  },
+  {
+    "title": "L'Ukraine a mené une vaste attaque de drones contre l'aviation russe jusqu'en Sibérie",
+    "added_at": "2025-06-01T16:50:53.258Z"
   }
 ]
