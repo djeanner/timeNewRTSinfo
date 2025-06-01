@@ -9112,7 +9112,10 @@
   },
   {
     "title": "economie:::Horlogerie: tour d'horizon des nouveautés du moment",
-    "added_at": "2025-05-31T19:30:00.395Z"
+    "added_at": "2025-05-31T19:30:00.395Z",
+    "removed_at": "2025-06-01T20:07:26.532Z",
+    "duration_minutes": 1477,
+    "duration_str": "1d 37m"
   },
   {
     "title": "sport:::Le PSG ne gagne pas juste la Ligue des champions, il triomphe!",
@@ -9297,7 +9300,10 @@
   },
   {
     "title": "sport:::Simon Yates, vainqueur d’un Giro au goût magnifique de trahisons",
-    "added_at": "2025-06-01T15:32:31.127Z"
+    "added_at": "2025-06-01T15:32:31.127Z",
+    "removed_at": "2025-06-01T20:33:48.741Z",
+    "duration_minutes": 301,
+    "duration_str": "5h 1m"
   },
   {
     "title": "monde:::Les 12 travaux du premier ministre canadien Mark Carney",
@@ -9326,5 +9332,13 @@
   {
     "title": "culture:::Plus vivant que jamais, Sherlock Holmes enquête en Pléiade et se décline en manga",
     "added_at": "2025-06-01T18:20:04.435Z"
+  },
+  {
+    "title": "monde:::En Pologne, le candidat pro-UE et son rival sont au coude à coude du second tour de la présidentielle",
+    "added_at": "2025-06-01T20:07:26.532Z"
+  },
+  {
+    "title": "culture:::Joyce Carol Oates creuse le malaise contemporain dans les 12 nouvelles de «Flint Kill Creek», inégales mais envoûtantes",
+    "added_at": "2025-06-01T20:33:48.741Z"
   }
 ]
