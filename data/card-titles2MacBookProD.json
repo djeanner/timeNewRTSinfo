@@ -10054,10 +10054,7 @@
   },
   {
     "title": "suisse:::Mort sur un quad à Moudon",
-    "added_at": "2025-05-31T11:19:58.320Z",
-    "removed_at": "2025-05-31T18:38:31.231Z",
-    "duration_minutes": 438,
-    "duration_str": "7h 18m"
+    "added_at": "2025-05-31T11:19:58.320Z"
   },
   {
     "title": "culture:::Thomas Lécuyer, le blues dans la joie",
@@ -10079,10 +10076,7 @@
   },
   {
     "title": "economie:::Avec ou sans Coupe de Suisse, Bienne a déjà gagné",
-    "added_at": "2025-05-31T13:57:43.727Z",
-    "removed_at": "2025-06-01T06:52:31.725Z",
-    "duration_minutes": 1014,
-    "duration_str": "16h 54m"
+    "added_at": "2025-05-31T13:57:43.727Z"
   },
   {
     "title": "suisse:::En direct, l’éboulement de Blatten – Les autorités valaisannes font le point: suivez la conférence de presse",
@@ -10107,7 +10101,10 @@
   },
   {
     "title": "sport:::Paris compte désormais dans le football, mais le football compte-t-il à Paris?",
-    "added_at": "2025-05-31T15:47:00.744Z"
+    "added_at": "2025-05-31T15:47:00.744Z",
+    "removed_at": "2025-06-01T10:03:34.140Z",
+    "duration_minutes": 1096,
+    "duration_str": "18h 16m"
   },
   {
     "title": "monde:::En direct, guerre à Gaza – En réponse à la proposition de trêve, le Hamas annonce qu’il libérera 10 otages vivants et restituera 18 corps",
@@ -10172,7 +10169,10 @@
   },
   {
     "title": "sport:::Le PSG ne gagne pas juste la Ligue des champions, il triomphe!",
-    "added_at": "2025-05-31T21:02:42.532Z"
+    "added_at": "2025-05-31T21:02:42.532Z",
+    "removed_at": "2025-06-01T10:03:34.140Z",
+    "duration_minutes": 780,
+    "duration_str": "13h"
   },
   {
     "title": "suisse:::Le retour de l’expression «accident de personne» aux CFF inquiète des psychiatres",
@@ -10218,5 +10218,13 @@
   {
     "title": "economie:::A Dalian, centre névralgique de l’essor de la Chine dans la construction navale",
     "added_at": "2025-06-01T09:10:57.958Z"
+  },
+  {
+    "title": "sport:::A Bienne et dans l’Arc jurassien, le rendez-vous manqué du football et de l’horlogerie",
+    "added_at": "2025-06-01T10:03:34.140Z"
+  },
+  {
+    "title": "sport:::En direct – Finale de la Coupe de Suisse Bienne-Bâle: quand le petit Poucet rêve de battre l’ogre",
+    "added_at": "2025-06-01T10:03:34.140Z"
   }
 ]

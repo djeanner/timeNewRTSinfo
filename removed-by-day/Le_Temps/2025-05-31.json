@@ -84,9 +84,8 @@
   {
     "title": "suisse:::Mort sur un quad à Moudon",
     "added_at": "2025-05-31T11:18:52.431Z",
-    "removed_at": "2025-05-31T18:37:19.215Z",
-    "duration_minutes": 438,
-    "duration_str": "7h 18m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "culture:::Thomas Lécuyer, le blues dans la joie",
@@ -111,9 +110,8 @@
   {
     "title": "economie:::Avec ou sans Coupe de Suisse, Bienne a déjà gagné",
     "added_at": "2025-05-31T13:56:55.179Z",
-    "removed_at": "2025-06-01T06:51:06.850Z",
-    "duration_minutes": 1014,
-    "duration_str": "16h 54m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "suisse:::En direct, l’éboulement de Blatten – Les autorités valaisannes font le point: suivez la conférence de presse",
@@ -139,8 +137,9 @@
   {
     "title": "sport:::Paris compte désormais dans le football, mais le football compte-t-il à Paris?",
     "added_at": "2025-05-31T15:46:09.480Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-01T10:03:34.140Z",
+    "duration_minutes": 1097,
+    "duration_str": "18h 17m"
   },
   {
     "title": "monde:::En direct, guerre à Gaza – En réponse à la proposition de trêve, le Hamas annonce qu’il libérera 10 otages vivants et restituera 18 corps",
@@ -212,7 +211,8 @@
   {
     "title": "sport:::Le PSG ne gagne pas juste la Ligue des champions, il triomphe!",
     "added_at": "2025-05-31T21:02:17.601Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-01T10:03:34.140Z",
+    "duration_minutes": 781,
+    "duration_str": "13h 1m"
   }
 ]
