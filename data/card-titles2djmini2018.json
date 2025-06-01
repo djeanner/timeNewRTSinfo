@@ -6448,7 +6448,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:00:57.917Z"
+    "added_at": "2025-05-22T18:00:57.917Z",
+    "removed_at": "2025-06-01T09:00:58.022Z",
+    "duration_minutes": 13860,
+    "duration_str": "9d 15h"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -8980,10 +8983,7 @@
   },
   {
     "title": "suisse:::Mort sur un quad à Moudon",
-    "added_at": "2025-05-31T11:18:52.431Z",
-    "removed_at": "2025-05-31T18:37:19.215Z",
-    "duration_minutes": 438,
-    "duration_str": "7h 18m"
+    "added_at": "2025-05-31T11:18:52.431Z"
   },
   {
     "title": "culture:::Thomas Lécuyer, le blues dans la joie",
@@ -9005,10 +9005,7 @@
   },
   {
     "title": "economie:::Avec ou sans Coupe de Suisse, Bienne a déjà gagné",
-    "added_at": "2025-05-31T13:56:55.179Z",
-    "removed_at": "2025-06-01T06:51:06.850Z",
-    "duration_minutes": 1014,
-    "duration_str": "16h 54m"
+    "added_at": "2025-05-31T13:56:55.179Z"
   },
   {
     "title": "suisse:::En direct, l’éboulement de Blatten – Les autorités valaisannes font le point: suivez la conférence de presse",
@@ -9033,7 +9030,10 @@
   },
   {
     "title": "sport:::Paris compte désormais dans le football, mais le football compte-t-il à Paris?",
-    "added_at": "2025-05-31T15:46:09.480Z"
+    "added_at": "2025-05-31T15:46:09.480Z",
+    "removed_at": "2025-06-01T10:04:55.306Z",
+    "duration_minutes": 1098,
+    "duration_str": "18h 18m"
   },
   {
     "title": "monde:::En direct, guerre à Gaza – En réponse à la proposition de trêve, le Hamas annonce qu’il libérera 10 otages vivants et restituera 18 corps",
@@ -9069,7 +9069,10 @@
   },
   {
     "title": "sciences:::Wilfried Haeberli, glaciologue: «Le lien entre l’éboulement de Blatten et le réchauffement climatique est évident»",
-    "added_at": "2025-05-31T18:09:07.014Z"
+    "added_at": "2025-05-31T18:09:07.014Z",
+    "removed_at": "2025-06-01T09:10:26.171Z",
+    "duration_minutes": 901,
+    "duration_str": "15h 1m"
   },
   {
     "title": "culture:::Dans la fabrique de Wes Anderson",
@@ -9095,11 +9098,17 @@
   },
   {
     "title": "sport:::Le PSG ne gagne pas juste la Ligue des champions, il triomphe!",
-    "added_at": "2025-05-31T21:02:17.601Z"
+    "added_at": "2025-05-31T21:02:17.601Z",
+    "removed_at": "2025-06-01T10:04:55.306Z",
+    "duration_minutes": 782,
+    "duration_str": "13h 2m"
   },
   {
     "title": "suisse:::Le retour de l’expression «accident de personne» aux CFF inquiète des psychiatres",
-    "added_at": "2025-06-01T05:26:21.370Z"
+    "added_at": "2025-06-01T05:26:21.370Z",
+    "removed_at": "2025-06-01T08:34:38.978Z",
+    "duration_minutes": 188,
+    "duration_str": "3h 8m"
   },
   {
     "title": "monde:::En direct, guerre à Gaza – Le projet de trêve est plus que jamais dans l’impasse",
@@ -9111,10 +9120,40 @@
   },
   {
     "title": "monde:::Une élection présidentielle cruciale en Pologne",
-    "added_at": "2025-06-01T06:28:31.762Z"
+    "added_at": "2025-06-01T06:28:31.762Z",
+    "removed_at": "2025-06-01T09:23:31.858Z",
+    "duration_minutes": 175,
+    "duration_str": "2h 55m"
   },
   {
     "title": "suisse:::En direct, l’éboulement de Blatten – Les dons affluent pour les victimes de la catastrophe",
-    "added_at": "2025-06-01T06:49:17.258Z"
+    "added_at": "2025-06-01T06:49:17.258Z",
+    "removed_at": "2025-06-01T08:30:55.800Z",
+    "duration_minutes": 101,
+    "duration_str": "1h 41m"
+  },
+  {
+    "title": "suisse:::Gaza: Ignazio Cassis sous pression croissante, même au sein de son propre département",
+    "added_at": "2025-06-01T08:12:05.630Z"
+  },
+  {
+    "title": "suisse:::En direct, l’éboulement de Blatten – Le Petit Nesthorn reste en mouvement, mais les experts sont prudents",
+    "added_at": "2025-06-01T08:30:55.800Z"
+  },
+  {
+    "title": "sport:::Le PSG champion d’Europe, le chef-d’œuvre de Luis Enrique",
+    "added_at": "2025-06-01T08:49:40.793Z"
+  },
+  {
+    "title": "economie:::A Dalian, centre névralgique de l’essor de la Chine dans la construction navale",
+    "added_at": "2025-06-01T09:10:26.171Z"
+  },
+  {
+    "title": "sport:::A Bienne et dans l’Arc jurassien, le rendez-vous manqué du football et de l’horlogerie",
+    "added_at": "2025-06-01T10:04:55.306Z"
+  },
+  {
+    "title": "sport:::En direct – Finale de la Coupe de Suisse Bienne-Bâle: quand le petit Poucet rêve de battre l’ogre",
+    "added_at": "2025-06-01T10:04:55.306Z"
   }
 ]
