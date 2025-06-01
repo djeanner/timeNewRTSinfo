@@ -9121,7 +9121,10 @@
   },
   {
     "title": "monde:::En direct, guerre à Gaza – Le projet de trêve est plus que jamais dans l’impasse",
-    "added_at": "2025-06-01T05:43:15.757Z"
+    "added_at": "2025-06-01T05:43:15.757Z",
+    "removed_at": "2025-06-01T14:45:21.007Z",
+    "duration_minutes": 542,
+    "duration_str": "9h 2m"
   },
   {
     "title": "culture:::Rudy Ricciotti, architecte insoumis: «Sans la Suisse, je serais resté un voyou»",
@@ -9173,11 +9176,17 @@
   },
   {
     "title": "culture:::Série: «A propos d’Antoine», une jolie chronique de famille recomposée venue du Québec",
-    "added_at": "2025-06-01T11:03:20.056Z"
+    "added_at": "2025-06-01T11:03:20.056Z",
+    "removed_at": "2025-06-01T13:31:56.847Z",
+    "duration_minutes": 148,
+    "duration_str": "2h 28m"
   },
   {
     "title": "economie:::Le Conseil fédéral appuie sur l’accélérateur pour tenter de contrer les droits de douane américains",
-    "added_at": "2025-06-01T11:25:52.825Z"
+    "added_at": "2025-06-01T11:25:52.825Z",
+    "removed_at": "2025-06-01T15:00:28.496Z",
+    "duration_minutes": 214,
+    "duration_str": "3h 34m"
   },
   {
     "title": "sport:::En direct – La Finale de la Coupe de Suisse entre Bienne-et Bâle. C'est parti!",
@@ -9192,14 +9201,71 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Une délégation ukrainienne sera à Istanbul lundi pour des pourparlers avec la Russie",
-    "added_at": "2025-06-01T12:27:55.174Z"
+    "added_at": "2025-06-01T12:27:55.174Z",
+    "removed_at": "2025-06-01T13:09:21.555Z",
+    "duration_minutes": 41,
+    "duration_str": "41m"
   },
   {
     "title": "sport:::En direct – Bâle mène 1 à 0 après 36 minutes",
-    "added_at": "2025-06-01T12:41:01.542Z"
+    "added_at": "2025-06-01T12:41:01.542Z",
+    "removed_at": "2025-06-01T12:56:14.414Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
   },
   {
     "title": "sciences:::L’avion supersonique en piste pour reprendre son envol",
     "added_at": "2025-06-01T12:50:29.316Z"
+  },
+  {
+    "title": "sport:::En direct – Bâle mène 1 à 0 à la mi-temps. Bienne y croit encore",
+    "added_at": "2025-06-01T12:56:14.414Z",
+    "removed_at": "2025-06-01T13:24:27.789Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Une délégation russe en route vers Istanbul pour des pourparlers avec l'Ukraine lundi",
+    "added_at": "2025-06-01T13:09:21.555Z"
+  },
+  {
+    "title": "sport:::En direct – Bienne égalise à la 60e par Beyer sur pénalty",
+    "added_at": "2025-06-01T13:24:27.789Z",
+    "removed_at": "2025-06-01T13:31:56.847Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "sport:::En direct – Bâle mène 2 à 1 contre Bienne",
+    "added_at": "2025-06-01T13:31:56.847Z",
+    "removed_at": "2025-06-01T13:45:08.832Z",
+    "duration_minutes": 13,
+    "duration_str": "13m"
+  },
+  {
+    "title": "sport:::En direct – Bâle mène 4 à 1 contre Bienne",
+    "added_at": "2025-06-01T13:45:08.832Z",
+    "removed_at": "2025-06-01T13:54:33.304Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "sport:::En direct – Bâle bat Bienne 4 à 1 et remporte la Coupe de Suisse",
+    "added_at": "2025-06-01T13:54:33.304Z",
+    "removed_at": "2025-06-01T14:30:17.705Z",
+    "duration_minutes": 35,
+    "duration_str": "35m"
+  },
+  {
+    "title": "sport:::Bâle bat Bienne 4 à 1 et remporte la Coupe de Suisse de football",
+    "added_at": "2025-06-01T14:30:17.705Z"
+  },
+  {
+    "title": "monde:::En direct, guerre à Gaza – La distribution d’aide humanitaire est devenue un «piège mortel», déplore un responsable de l’ONU",
+    "added_at": "2025-06-01T14:45:21.007Z"
+  },
+  {
+    "title": "cyber:::Windows 10, c’est bientôt fini: comment prolonger la durée de vie de sa machine grâce aux logiciels libres",
+    "added_at": "2025-06-01T15:00:28.496Z"
   }
 ]
