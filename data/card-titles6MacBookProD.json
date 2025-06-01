@@ -6676,7 +6676,10 @@
   },
   {
     "title": "Iran rejects IAEA report alleging increased enriched Uranium stockpile",
-    "added_at": "2025-05-31T17:34:17.249Z"
+    "added_at": "2025-05-31T17:34:17.249Z",
+    "removed_at": "2025-06-01T04:40:11.877Z",
+    "duration_minutes": 665,
+    "duration_str": "11h 5m"
   },
   {
     "title": "Two killed in Russian attacks on Ukraine before possible talks in Turkiye",
@@ -6728,6 +6731,17 @@
   },
   {
     "title": "Israeli forces kill 22 Palestinians at US-backed aid site in Gaza",
-    "added_at": "2025-06-01T04:07:08.926Z"
+    "added_at": "2025-06-01T04:07:08.926Z",
+    "removed_at": "2025-06-01T04:46:00.026Z",
+    "duration_minutes": 38,
+    "duration_str": "38m"
+  },
+  {
+    "title": "Iran rejects IAEA report alleging increased enriched uranium stockpile",
+    "added_at": "2025-06-01T04:40:11.877Z"
+  },
+  {
+    "title": "Israeli forces attack Palestinians at US-backed aid hub in Gaza, killing 30",
+    "added_at": "2025-06-01T04:46:00.026Z"
   }
 ]
