@@ -8226,7 +8226,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z"
+    "added_at": "2025-05-22T18:01:52.008Z",
+    "removed_at": "2025-06-01T09:01:11.683Z",
+    "duration_minutes": 13859,
+    "duration_str": "9d 14h 59m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -10104,10 +10107,7 @@
   },
   {
     "title": "sport:::Paris compte désormais dans le football, mais le football compte-t-il à Paris?",
-    "added_at": "2025-05-31T15:47:00.744Z",
-    "removed_at": "2025-06-01T08:10:32.480Z",
-    "duration_minutes": 983,
-    "duration_str": "16h 23m"
+    "added_at": "2025-05-31T15:47:00.744Z"
   },
   {
     "title": "monde:::En direct, guerre à Gaza – En réponse à la proposition de trêve, le Hamas annonce qu’il libérera 10 otages vivants et restituera 18 corps",
@@ -10143,7 +10143,10 @@
   },
   {
     "title": "sciences:::Wilfried Haeberli, glaciologue: «Le lien entre l’éboulement de Blatten et le réchauffement climatique est évident»",
-    "added_at": "2025-05-31T18:09:22.368Z"
+    "added_at": "2025-05-31T18:09:22.368Z",
+    "removed_at": "2025-06-01T09:10:57.958Z",
+    "duration_minutes": 901,
+    "duration_str": "15h 1m"
   },
   {
     "title": "culture:::Dans la fabrique de Wes Anderson",
@@ -10188,7 +10191,10 @@
   },
   {
     "title": "monde:::Une élection présidentielle cruciale en Pologne",
-    "added_at": "2025-06-01T06:27:16.201Z"
+    "added_at": "2025-06-01T06:27:16.201Z",
+    "removed_at": "2025-06-01T09:24:31.922Z",
+    "duration_minutes": 177,
+    "duration_str": "2h 57m"
   },
   {
     "title": "suisse:::En direct, l’éboulement de Blatten – Les dons affluent pour les victimes de la catastrophe",
@@ -10204,5 +10210,13 @@
   {
     "title": "suisse:::En direct, l’éboulement de Blatten – Le Petit Nesthorn reste en mouvement, mais les experts sont prudents",
     "added_at": "2025-06-01T08:30:00.533Z"
+  },
+  {
+    "title": "sport:::Le PSG champion d’Europe, le chef-d’œuvre de Luis Enrique",
+    "added_at": "2025-06-01T08:51:28.705Z"
+  },
+  {
+    "title": "economie:::A Dalian, centre névralgique de l’essor de la Chine dans la construction navale",
+    "added_at": "2025-06-01T09:10:57.958Z"
   }
 ]
