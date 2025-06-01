@@ -8986,7 +8986,10 @@
   },
   {
     "title": "suisse:::Mort sur un quad à Moudon",
-    "added_at": "2025-05-31T11:18:52.431Z"
+    "added_at": "2025-05-31T11:18:52.431Z",
+    "removed_at": "2025-06-01T18:40:48.560Z",
+    "duration_minutes": 1881,
+    "duration_str": "1d 7h 21m"
   },
   {
     "title": "culture:::Thomas Lécuyer, le blues dans la joie",
@@ -9155,7 +9158,10 @@
   },
   {
     "title": "suisse:::Gaza: Ignazio Cassis sous pression croissante, même au sein de son propre département",
-    "added_at": "2025-06-01T08:12:05.630Z"
+    "added_at": "2025-06-01T08:12:05.630Z",
+    "removed_at": "2025-06-01T18:20:04.435Z",
+    "duration_minutes": 607,
+    "duration_str": "10h 7m"
   },
   {
     "title": "suisse:::En direct, l’éboulement de Blatten – Le Petit Nesthorn reste en mouvement, mais les experts sont prudents",
@@ -9316,5 +9322,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Moscou confirme que plusieurs avions ont «pris feu» dans une vaste attaque de drones par l’Ukraine",
     "added_at": "2025-06-01T17:23:29.867Z"
+  },
+  {
+    "title": "culture:::Plus vivant que jamais, Sherlock Holmes enquête en Pléiade et se décline en manga",
+    "added_at": "2025-06-01T18:20:04.435Z"
   }
 ]
