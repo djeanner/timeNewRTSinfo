@@ -10183,7 +10183,10 @@
   },
   {
     "title": "economie:::Horlogerie: tour d'horizon des nouveautés du moment",
-    "added_at": "2025-05-31T19:31:07.612Z"
+    "added_at": "2025-05-31T19:31:07.612Z",
+    "removed_at": "2025-06-01T20:07:53.050Z",
+    "duration_minutes": 1476,
+    "duration_str": "1d 36m"
   },
   {
     "title": "sport:::Le PSG ne gagne pas juste la Ligue des champions, il triomphe!",
@@ -10397,5 +10400,9 @@
   {
     "title": "culture:::Plus vivant que jamais, Sherlock Holmes enquête en Pléiade et se décline en manga",
     "added_at": "2025-06-01T18:20:40.240Z"
+  },
+  {
+    "title": "monde:::En Pologne, le candidat pro-UE et son rival sont au coude à coude du second tour de la présidentielle",
+    "added_at": "2025-06-01T20:07:53.050Z"
   }
 ]
