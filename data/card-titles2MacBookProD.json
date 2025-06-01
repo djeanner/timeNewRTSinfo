@@ -10244,7 +10244,10 @@
   },
   {
     "title": "culture:::Série: «A propos d’Antoine», une jolie chronique de famille recomposée venue du Québec",
-    "added_at": "2025-06-01T11:03:53.202Z"
+    "added_at": "2025-06-01T11:03:53.202Z",
+    "removed_at": "2025-06-01T13:32:02.192Z",
+    "duration_minutes": 148,
+    "duration_str": "2h 28m"
   },
   {
     "title": "economie:::Le Conseil fédéral appuie sur l’accélérateur pour tenter de contrer les droits de douane américains",
@@ -10263,7 +10266,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Une délégation ukrainienne sera à Istanbul lundi pour des pourparlers avec la Russie",
-    "added_at": "2025-06-01T12:27:44.215Z"
+    "added_at": "2025-06-01T12:27:44.215Z",
+    "removed_at": "2025-06-01T13:08:40.956Z",
+    "duration_minutes": 40,
+    "duration_str": "40m"
   },
   {
     "title": "sport:::En direct – Bâle mène 1 à 0 après 36 minutes",
@@ -10278,6 +10284,38 @@
   },
   {
     "title": "sport:::En direct – Bâle mène 1 à 0 à la mi-temps. Bienne y croit encore",
-    "added_at": "2025-06-01T12:56:53.154Z"
+    "added_at": "2025-06-01T12:56:53.154Z",
+    "removed_at": "2025-06-01T13:24:15.787Z",
+    "duration_minutes": 27,
+    "duration_str": "27m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Une délégation russe en route vers Istanbul pour des pourparlers avec l'Ukraine lundi",
+    "added_at": "2025-06-01T13:08:40.956Z"
+  },
+  {
+    "title": "sport:::En direct – Bienne égalise à la 60e par Beyer sur pénalty",
+    "added_at": "2025-06-01T13:24:15.787Z",
+    "removed_at": "2025-06-01T13:32:02.192Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "sport:::En direct – Bâle mène 2 à 1 contre Bienne",
+    "added_at": "2025-06-01T13:32:02.192Z",
+    "removed_at": "2025-06-01T13:45:40.676Z",
+    "duration_minutes": 13,
+    "duration_str": "13m"
+  },
+  {
+    "title": "sport:::En direct – Bâle mène 4 à 1 contre Bienne",
+    "added_at": "2025-06-01T13:45:40.676Z",
+    "removed_at": "2025-06-01T13:53:23.624Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "sport:::En direct – Bâle bat Bienne 4 à 1 et remporte la Coupe de Suisse",
+    "added_at": "2025-06-01T13:53:23.624Z"
   }
 ]
