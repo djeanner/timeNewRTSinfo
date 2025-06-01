@@ -10109,7 +10109,10 @@
   },
   {
     "title": "monde:::En direct, guerre à Gaza – Le Hamas se dit prêt à libérer 10 otages vivants et à restituer 18 corps",
-    "added_at": "2025-05-31T16:14:25.855Z"
+    "added_at": "2025-05-31T16:14:25.855Z",
+    "removed_at": "2025-06-01T05:42:25.927Z",
+    "duration_minutes": 808,
+    "duration_str": "13h 28m"
   },
   {
     "title": "sciences:::«Le lien avec le réchauffement climatique est évident»",
@@ -10131,10 +10134,7 @@
   },
   {
     "title": "sciences:::Wilfried Haeberli, glaciologue: «Le lien entre l’éboulement de Blatten et le réchauffement climatique est évident»",
-    "added_at": "2025-05-31T18:09:22.368Z",
-    "removed_at": "2025-06-01T05:13:12.363Z",
-    "duration_minutes": 663,
-    "duration_str": "11h 3m"
+    "added_at": "2025-05-31T18:09:22.368Z"
   },
   {
     "title": "culture:::Dans la fabrique de Wes Anderson",
@@ -10146,7 +10146,10 @@
   },
   {
     "title": "culture:::Au cœur de Paris, l’hôtel La Louisiane cultive l’esprit de bohème",
-    "added_at": "2025-05-31T18:38:31.231Z"
+    "added_at": "2025-05-31T18:38:31.231Z",
+    "removed_at": "2025-06-01T05:26:55.161Z",
+    "duration_minutes": 648,
+    "duration_str": "10h 48m"
   },
   {
     "title": "economie:::Horlogerie: tour d'horizon des nouveautés du moment",
@@ -10155,5 +10158,13 @@
   {
     "title": "sport:::Le PSG ne gagne pas juste la Ligue des champions, il triomphe!",
     "added_at": "2025-05-31T21:02:42.532Z"
+  },
+  {
+    "title": "suisse:::Le retour de l’expression «accident de personne» aux CFF inquiète des psychiatres",
+    "added_at": "2025-06-01T05:26:55.161Z"
+  },
+  {
+    "title": "monde:::En direct, guerre à Gaza – Le projet de trêve est plus que jamais dans l’impasse",
+    "added_at": "2025-06-01T05:42:25.927Z"
   }
 ]

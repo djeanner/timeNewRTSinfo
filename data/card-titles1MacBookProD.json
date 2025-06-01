@@ -13841,7 +13841,10 @@
   },
   {
     "title": "Podcast - Pourquoi les insectes nous dégoûtent (ou nous fascinent) autant ?",
-    "added_at": "2025-05-31T06:26:17.062Z"
+    "added_at": "2025-05-31T06:26:17.062Z",
+    "removed_at": "2025-06-01T05:34:42.941Z",
+    "duration_minutes": 1388,
+    "duration_str": "23h 8m"
   },
   {
     "title": "Des scientifiques pensent avoir découvert une nouvelle planète naine",
@@ -14141,5 +14144,9 @@
   {
     "title": "Sept morts après l'effondrement d'un pont sur une voie ferrée en Russie",
     "added_at": "2025-06-01T02:20:03.935Z"
+  },
+  {
+    "title": "La fibre optique sous-marine, face cachée de l'intelligence artificielle",
+    "added_at": "2025-06-01T05:34:42.941Z"
   }
 ]
