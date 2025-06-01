@@ -11157,7 +11157,10 @@
   },
   {
     "title": "Podcast - Pourquoi les insectes nous dégoûtent (ou nous fascinent) autant ?",
-    "added_at": "2025-05-29T15:35:00.792Z"
+    "added_at": "2025-05-29T15:35:00.792Z",
+    "removed_at": "2025-06-01T05:33:52.945Z",
+    "duration_minutes": 3718,
+    "duration_str": "2d 13h 58m"
   },
   {
     "title": "Après l'effondrement du glacier à Blatten, un lac pourrait se créer: interview de Michel Jaboyedoff",
@@ -11705,5 +11708,9 @@
   {
     "title": "Sept morts après l'effondrement d'un pont sur une voie ferrée en Russie",
     "added_at": "2025-06-01T02:20:11.872Z"
+  },
+  {
+    "title": "La fibre optique sous-marine, face cachée de l'intelligence artificielle",
+    "added_at": "2025-06-01T05:33:52.945Z"
   }
 ]
