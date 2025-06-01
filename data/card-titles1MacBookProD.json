@@ -13730,7 +13730,10 @@
   },
   {
     "title": "La presse internationale parle de Blatten",
-    "added_at": "2025-05-31T06:26:17.062Z"
+    "added_at": "2025-05-31T06:26:17.062Z",
+    "removed_at": "2025-06-01T22:49:54.100Z",
+    "duration_minutes": 2423,
+    "duration_str": "1d 16h 23m"
   },
   {
     "title": "Le village de Blatten pulvérisé par l'effondrement du glacier du Birch: interview de Franziska Biner",
@@ -14189,10 +14192,7 @@
   },
   {
     "title": "Le Hamas a remis sa réponse à la proposition américaine de trêve, libération d'otages en vue",
-    "added_at": "2025-05-31T17:57:43.194Z",
-    "removed_at": "2025-05-31T21:06:38.724Z",
-    "duration_minutes": 188,
-    "duration_str": "3h 8m"
+    "added_at": "2025-05-31T17:57:43.194Z"
   },
   {
     "title": "Daniel Monteiro: \"Le football ne passe pas la porte à l’entrée de l’école\"",
@@ -14407,7 +14407,10 @@
   },
   {
     "title": "Elon Musk quitte officiellement son poste au sein du gouvernement américain",
-    "added_at": "2025-06-01T14:49:57.563Z"
+    "added_at": "2025-06-01T14:49:57.563Z",
+    "removed_at": "2025-06-01T22:49:54.100Z",
+    "duration_minutes": 479,
+    "duration_str": "7h 59m"
   },
   {
     "title": "Raclette ou raclonette: Suisses et Français enterrent la hache de guerre à Saint-Gingolph",
@@ -14474,5 +14477,9 @@
   {
     "title": "Entre dons et soutiens, une vague de solidarité pour Blatten",
     "added_at": "2025-06-01T20:46:58.067Z"
+  },
+  {
+    "title": "Lysiane Tissières-Premand est la première femme à la tête du Centre du Valais romand: son interview",
+    "added_at": "2025-06-01T22:49:54.100Z"
   }
 ]

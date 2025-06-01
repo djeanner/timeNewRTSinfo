@@ -133,9 +133,8 @@
   {
     "title": "Two dead, 559 arrested in France clashes after PSG Champions League win",
     "added_at": "2025-06-01T10:32:51.254Z",
-    "removed_at": "2025-06-01T19:46:30.826Z",
-    "duration_minutes": 554,
-    "duration_str": "9h 14m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Israel kills 32 Palestinians waiting for food at US-backed Gaza aid sites",
@@ -214,14 +213,16 @@
   {
     "title": "Ukrainian drones target Russian airbases in unprecedented operation",
     "added_at": "2025-06-01T16:21:24.141Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-01T23:05:25.063Z",
+    "duration_minutes": 404,
+    "duration_str": "6h 44m"
   },
   {
     "title": "‘Absolute carnage’ after mass shooting at Israel’s aid site in Gaza",
     "added_at": "2025-06-01T18:05:02.443Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-01T23:05:25.063Z",
+    "duration_minutes": 300,
+    "duration_str": "5h"
   },
   {
     "title": "Aid ship aiming to break Israel’s siege of Gaza sets sail from Italy",
@@ -238,8 +239,9 @@
   {
     "title": "Poland’s presidential run-off election too close to call after exit poll",
     "added_at": "2025-06-01T19:46:30.826Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-01T23:01:34.135Z",
+    "duration_minutes": 195,
+    "duration_str": "3h 15m"
   },
   {
     "title": "Pakistan sweep series against Bangladesh as Haris hits 107 in third T20I",
@@ -257,6 +259,12 @@
   {
     "title": "Multiple people wounded in attack in US city of Boulder, Colorado",
     "added_at": "2025-06-01T22:45:51.429Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Poland’s presidential run-off election too close to call after exit polls",
+    "added_at": "2025-06-01T23:01:34.135Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
