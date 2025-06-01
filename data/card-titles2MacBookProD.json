@@ -10371,7 +10371,10 @@
   },
   {
     "title": "sport:::Simon Yates, vainqueur d’un Giro au goût magnifique de trahisons",
-    "added_at": "2025-06-01T15:32:49.783Z"
+    "added_at": "2025-06-01T15:32:49.783Z",
+    "removed_at": "2025-06-01T20:33:17.516Z",
+    "duration_minutes": 300,
+    "duration_str": "5h"
   },
   {
     "title": "monde:::Les 12 travaux du premier ministre canadien Mark Carney",
@@ -10404,5 +10407,9 @@
   {
     "title": "monde:::En Pologne, le candidat pro-UE et son rival sont au coude à coude du second tour de la présidentielle",
     "added_at": "2025-06-01T20:07:53.050Z"
+  },
+  {
+    "title": "culture:::Joyce Carol Oates creuse le malaise contemporain dans les 12 nouvelles de «Flint Kill Creek», inégales mais envoûtantes",
+    "added_at": "2025-06-01T20:33:17.516Z"
   }
 ]
