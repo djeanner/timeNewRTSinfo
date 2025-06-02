@@ -8287,7 +8287,10 @@
   },
   {
     "title": "China warns US not to ‘play with fire’ over Taiwan",
-    "added_at": "2025-06-01T09:31:04.193Z"
+    "added_at": "2025-06-01T09:31:04.193Z",
+    "removed_at": "2025-06-02T03:40:52.860Z",
+    "duration_minutes": 1089,
+    "duration_str": "18h 9m"
   },
   {
     "title": "In Canada, a daughter’s fight to bring her murdered mother home",
@@ -8337,7 +8340,10 @@
   },
   {
     "title": "Nigeria flash floods: Which is most affected area, what caused the deluge?",
-    "added_at": "2025-06-01T11:48:26.582Z"
+    "added_at": "2025-06-01T11:48:26.582Z",
+    "removed_at": "2025-06-02T03:40:52.860Z",
+    "duration_minutes": 952,
+    "duration_str": "15h 52m"
   },
   {
     "title": "Bangladesh top court lifts ban on country’s largest Muslim party",
@@ -8388,10 +8394,7 @@
   },
   {
     "title": "Ukrainian drones target Russian airbases in unprecedented operation",
-    "added_at": "2025-06-01T16:21:24.141Z",
-    "removed_at": "2025-06-01T23:06:11.239Z",
-    "duration_minutes": 404,
-    "duration_str": "6h 44m"
+    "added_at": "2025-06-01T16:21:24.141Z"
   },
   {
     "title": "‘Absolute carnage’ after mass shooting at Israel’s aid site in Gaza",
@@ -8417,7 +8420,10 @@
   },
   {
     "title": "Pakistan sweep series against Bangladesh as Haris hits 107 in third T20I",
-    "added_at": "2025-06-01T19:54:13.774Z"
+    "added_at": "2025-06-01T19:54:13.774Z",
+    "removed_at": "2025-06-02T04:37:21.231Z",
+    "duration_minutes": 523,
+    "duration_str": "8h 43m"
   },
   {
     "title": "Several people wounded in attack in US city of Boulder, Colorado",
@@ -8435,7 +8441,10 @@
   },
   {
     "title": "Poland’s presidential run-off election too close to call after exit polls",
-    "added_at": "2025-06-01T23:02:21.987Z"
+    "added_at": "2025-06-01T23:02:21.987Z",
+    "removed_at": "2025-06-02T03:03:18.874Z",
+    "duration_minutes": 240,
+    "duration_str": "4h"
   },
   {
     "title": "Russia-Ukraine war: List of key events, day 1,194",
@@ -8451,5 +8460,38 @@
   {
     "title": "Six wounded in attack at Colorado rally for Israeli captives in Gaza",
     "added_at": "2025-06-02T02:16:10.688Z"
+  },
+  {
+    "title": "Poland’s presidential runoff too close to call, exit polls show",
+    "added_at": "2025-06-02T03:03:18.874Z",
+    "removed_at": "2025-06-02T03:18:18.505Z",
+    "duration_minutes": 14,
+    "duration_str": "14m"
+  },
+  {
+    "title": "Poland’s presidential run-off too close to call, exit polls show",
+    "added_at": "2025-06-02T03:18:18.505Z"
+  },
+  {
+    "title": "Israel destroys Gaza dialysis hospital; outrage over killings at aid sites",
+    "added_at": "2025-06-02T03:40:52.860Z",
+    "removed_at": "2025-06-02T03:52:10.945Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "Israel destroys Gaza dialysis centre; outrage over killings at aid sites",
+    "added_at": "2025-06-02T03:52:10.945Z"
+  },
+  {
+    "title": "Conservative Nawrocki wins Poland’s presidential run-off, media reports say",
+    "added_at": "2025-06-02T04:37:21.231Z",
+    "removed_at": "2025-06-02T05:16:51.391Z",
+    "duration_minutes": 39,
+    "duration_str": "39m"
+  },
+  {
+    "title": "Conservative Karol Nawrocki wins Poland’s presidential run-off",
+    "added_at": "2025-06-02T05:16:51.391Z"
   }
 ]

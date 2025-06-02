@@ -9313,7 +9313,10 @@
   },
   {
     "title": "monde:::Les 12 travaux du premier ministre canadien Mark Carney",
-    "added_at": "2025-06-01T16:13:55.433Z"
+    "added_at": "2025-06-01T16:13:55.433Z",
+    "removed_at": "2025-06-02T04:26:03.399Z",
+    "duration_minutes": 732,
+    "duration_str": "12h 12m"
   },
   {
     "title": "monde:::Attaques de drones, bunkers souterrains, mur de brouilleurs: Kherson vit un cauchemar dystopique",
@@ -9329,7 +9332,10 @@
   },
   {
     "title": "economie:::La nouvelle facilité étendue de liquidités (FEL) de la BNS: une rupture avec les principes de Walter Bagehot?",
-    "added_at": "2025-06-01T17:19:44.349Z"
+    "added_at": "2025-06-01T17:19:44.349Z",
+    "removed_at": "2025-06-02T04:31:41.928Z",
+    "duration_minutes": 671,
+    "duration_str": "11h 11m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Moscou confirme que plusieurs avions ont «pris feu» dans une vaste attaque de drones par l’Ukraine",
@@ -9355,15 +9361,24 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Russes et Ukrainiens doivent se rencontrer à nouveau, aujourd’hui, à Istanbul",
-    "added_at": "2025-06-02T02:18:05.841Z"
+    "added_at": "2025-06-02T02:18:05.841Z",
+    "removed_at": "2025-06-02T04:27:58.951Z",
+    "duration_minutes": 129,
+    "duration_str": "2h 9m"
   },
   {
     "title": "monde:::Guerre en Ukraine – Notre suivi de la semaine du 26 mai",
-    "added_at": "2025-06-02T02:19:55.542Z"
+    "added_at": "2025-06-02T02:19:55.542Z",
+    "removed_at": "2025-06-02T05:13:06.864Z",
+    "duration_minutes": 173,
+    "duration_str": "2h 53m"
   },
   {
     "title": "monde:::En Pologne, le candidat nationaliste Karol Nawrocki en tête du second tour de la présidentielle",
-    "added_at": "2025-06-02T02:33:05.703Z"
+    "added_at": "2025-06-02T02:33:05.703Z",
+    "removed_at": "2025-06-02T04:59:54.258Z",
+    "duration_minutes": 146,
+    "duration_str": "2h 26m"
   },
   {
     "title": "monde:::En direct, guerre à Gaza – Notre suivi de la semaine du 26 mai",
@@ -9372,5 +9387,28 @@
   {
     "title": "suisse:::En direct, l’éboulement de Blatten – La masse des éboulis atteint plus de 100m de haut par endroits",
     "added_at": "2025-06-02T02:50:00.079Z"
+  },
+  {
+    "title": "economie:::Le Conseil fédéral s’apprêterait à durcir le ton envers UBS en exigeant davantage de capitaux",
+    "added_at": "2025-06-02T04:26:03.399Z",
+    "removed_at": "2025-06-02T04:33:37.587Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Russes et Ukrainiens doivent se rencontrer à nouveau ce lundi à Istanbul",
+    "added_at": "2025-06-02T04:27:58.951Z"
+  },
+  {
+    "title": "economie:::Le Conseil fédéral devrait faire connaître cette semaine ses exigences envers UBS",
+    "added_at": "2025-06-02T04:33:37.587Z"
+  },
+  {
+    "title": "monde:::En Pologne, le candidat nationaliste Karol Nawrocki remporte l’élection présidentielle",
+    "added_at": "2025-06-02T04:59:54.258Z"
+  },
+  {
+    "title": "monde:::Sur le front ukrainien, l’épuisement des soldats: «Nous n’en pouvons plus de voir mourir nos camarades»",
+    "added_at": "2025-06-02T05:13:06.864Z"
   }
 ]

@@ -11486,7 +11486,10 @@
   },
   {
     "title": "Le bilan amer d'Elon Musk au DOGE",
-    "added_at": "2025-05-30T13:56:21.040Z"
+    "added_at": "2025-05-30T13:56:21.040Z",
+    "removed_at": "2025-06-02T04:29:48.318Z",
+    "duration_minutes": 3753,
+    "duration_str": "2d 14h 33m"
   },
   {
     "title": "Les avalanches ont été particulièrement mortelles durant ce mois de mai",
@@ -12067,7 +12070,10 @@
   },
   {
     "title": "Des blessés dans une attaque lors d'une manifestation pour les otages israéliens au Colorado",
-    "added_at": "2025-06-02T01:16:03.641Z"
+    "added_at": "2025-06-02T01:16:03.641Z",
+    "removed_at": "2025-06-02T03:14:34.726Z",
+    "duration_minutes": 118,
+    "duration_str": "1h 58m"
   },
   {
     "title": "Le candidat nationaliste donné vainqueur de la présidentielle en Pologne, d'après une estimation",
@@ -12085,10 +12091,32 @@
   },
   {
     "title": "Le candidat nationaliste en tête de la présidentielle en Pologne, selon une estimation",
-    "added_at": "2025-06-02T01:32:59.222Z"
+    "added_at": "2025-06-02T01:32:59.222Z",
+    "removed_at": "2025-06-02T05:01:49.640Z",
+    "duration_minutes": 208,
+    "duration_str": "3h 28m"
   },
   {
     "title": "Bras de fer financier entre Coca-Cola et Denner",
     "added_at": "2025-06-02T02:50:00.019Z"
+  },
+  {
+    "title": "Six blessés dans une attaque lors d'une manifestation pour les otages israéliens au Colorado",
+    "added_at": "2025-06-02T03:14:34.726Z"
+  },
+  {
+    "title": "\"On ne naît pas patriote\": comment la Russie cultive le nationalisme chez ses citoyens",
+    "added_at": "2025-06-02T04:29:48.318Z"
+  },
+  {
+    "title": "Le nationaliste Karol Nawrocki remporte l'élection présidentielle en Pologne",
+    "added_at": "2025-06-02T04:54:15.464Z",
+    "removed_at": "2025-06-02T04:58:00.687Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "Le candidat nationaliste Karol Nawrocki a remporté de justesse l'élection présidentielle polonaise",
+    "added_at": "2025-06-02T05:01:49.640Z"
   }
 ]
