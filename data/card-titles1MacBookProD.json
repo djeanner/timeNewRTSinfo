@@ -13600,7 +13600,10 @@
   },
   {
     "title": "Donald Trump annonce doubler la surtaxe sur l'acier importé aux Etats-Unis",
-    "added_at": "2025-05-31T06:26:17.062Z"
+    "added_at": "2025-05-31T06:26:17.062Z",
+    "removed_at": "2025-06-02T10:19:52.685Z",
+    "duration_minutes": 3113,
+    "duration_str": "2d 3h 53m"
   },
   {
     "title": "Après la catastrophe, Blatten devra faire face au défi de sa reconstruction",
@@ -14123,7 +14126,10 @@
   },
   {
     "title": "\"The Phoenician Scheme\" de Wes Anderson, absurde et excentrique comédie d'espionnage",
-    "added_at": "2025-05-31T08:20:57.131Z"
+    "added_at": "2025-05-31T08:20:57.131Z",
+    "removed_at": "2025-06-02T10:35:22.722Z",
+    "duration_minutes": 3014,
+    "duration_str": "2d 2h 14m"
   },
   {
     "title": "Les dégâts à Blatten, un défi complexe pour les assurances et l'État",
@@ -14609,7 +14615,10 @@
   },
   {
     "title": "Skyguide réduit les atterrissages de 20% à Cointrin suite à des pannes radar",
-    "added_at": "2025-06-02T05:25:28.761Z"
+    "added_at": "2025-06-02T05:25:28.761Z",
+    "removed_at": "2025-06-02T10:45:05.603Z",
+    "duration_minutes": 319,
+    "duration_str": "5h 19m"
   },
   {
     "title": "L'accès au village de Lourtier et au fond du Val de Bagnes coupé par des laves torrentielles",
@@ -14673,5 +14682,31 @@
   {
     "title": "Grande invitée : Sylvie Briand, future scientifique en chef de l'OMS",
     "added_at": "2025-06-02T10:09:58.835Z"
+  },
+  {
+    "title": "Le promoteur de la capsule de suicide assisté Sarco est décédé",
+    "added_at": "2025-06-02T10:19:52.685Z"
+  },
+  {
+    "title": "Plaques de voiture, système scolaire, naturalisations: accords adoptés en vue de l'arrivée de Moutier dans le Jura",
+    "added_at": "2025-06-02T10:35:22.722Z",
+    "removed_at": "2025-06-02T11:02:37.321Z",
+    "duration_minutes": 27,
+    "duration_str": "27m"
+  },
+  {
+    "title": "Skyguide réduit les atterrissages de 20% à Cointrin à la suite de pannes radar",
+    "added_at": "2025-06-02T10:45:05.603Z",
+    "removed_at": "2025-06-02T10:56:46.793Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "Skyguide réduit les atterrissages de 20% à Cointrin à la suite de pannes de radar",
+    "added_at": "2025-06-02T10:56:46.793Z"
+  },
+  {
+    "title": "Plaques de voiture, système scolaire, naturalisations: sept accords adoptés en vue de l'arrivée de Moutier dans le Jura",
+    "added_at": "2025-06-02T11:02:37.321Z"
   }
 ]

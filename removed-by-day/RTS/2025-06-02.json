@@ -61,8 +61,9 @@
   {
     "title": "Skyguide réduit les atterrissages de 20% à Cointrin suite à des pannes radar",
     "added_at": "2025-06-02T05:24:31.693Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-02T10:45:05.603Z",
+    "duration_minutes": 321,
+    "duration_str": "5h 21m"
   },
   {
     "title": "L'accès au village de Lourtier et au fond du Val de Bagnes coupé par des laves torrentielles",
@@ -90,26 +91,26 @@
   },
   {
     "title": "L'Ukraine a lancé une attaque de drone massive en Russie",
-    "added_at": "2025-06-02T07:49:42.293Z",
+    "added_at": "2025-06-02T07:49:29.538Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Le football, un sport snobé par l'école? Interview de Daniel Monteiro",
-    "added_at": "2025-06-02T07:49:42.293Z",
+    "added_at": "2025-06-02T07:49:29.538Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "\"Dead Drop\", premier roman noir et local de la rappeuse lausannoise La Gale",
-    "added_at": "2025-06-02T07:55:31.232Z",
+    "added_at": "2025-06-02T07:55:08.963Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Cinq jours après la rupture du glacier du Birch, la vie reprend son cours",
-    "added_at": "2025-06-02T07:59:27.690Z",
-    "removed_at": "2025-06-02T08:05:18.186Z",
+    "added_at": "2025-06-02T07:58:54.304Z",
+    "removed_at": "2025-06-02T08:04:31.880Z",
     "duration_minutes": 6,
     "duration_str": "6m"
   },
@@ -121,7 +122,7 @@
   },
   {
     "title": "Des anciens diplomates suisses demandent la condamnation des opérations de l’armée israélienne à Gaza et en Cisjordanie",
-    "added_at": "2025-06-02T08:50:06.790Z",
+    "added_at": "2025-06-02T08:49:42.709Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -139,13 +140,13 @@
   },
   {
     "title": "\"Utiliser le territoire de la meilleure façon pour limiter au maximum les risques\", le défi de la reconstruction",
-    "added_at": "2025-06-02T09:40:46.929Z",
+    "added_at": "2025-06-02T09:40:31.671Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "La fréquentation des 47e Journées littéraires de Soleure dans la moyenne des dernières années",
-    "added_at": "2025-06-02T10:02:14.951Z",
+    "added_at": "2025-06-02T10:01:19.562Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -154,5 +155,44 @@
     "added_at": "2025-06-02T10:09:58.835Z",
     "duration_minutes": 0,
     "duration_str": ""
+  },
+  {
+    "title": "Le promoteur de la capsule de suicide assisté Sarco est décédé",
+    "added_at": "2025-06-02T10:19:52.685Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Plaques de voiture, système scolaire, naturalisations: accords adoptés en vue de l'arrivée de Moutier dans le Jura",
+    "added_at": "2025-06-02T10:35:22.722Z",
+    "removed_at": "2025-06-02T11:02:37.321Z",
+    "duration_minutes": 27,
+    "duration_str": "27m"
+  },
+  {
+    "title": "Skyguide réduit les atterrissages de 20% à Cointrin à la suite de pannes radar",
+    "added_at": "2025-06-02T10:45:05.603Z",
+    "removed_at": "2025-06-02T10:56:46.793Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "Skyguide réduit les atterrissages de 20% à Cointrin à la suite de pannes de radar",
+    "added_at": "2025-06-02T10:56:46.793Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Plaques de voiture, système scolaire, naturalisations: sept accords adoptés en vue de l'arrivée de Moutier dans le Jura",
+    "added_at": "2025-06-02T11:02:37.321Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Cinq jours après la rupture du glacier du Birch, la vie quotidienne reprend lentement son cours",
+    "added_at": "2025-06-02T08:04:31.880Z",
+    "removed_at": "2025-06-02T08:06:25.183Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
   }
 ]
