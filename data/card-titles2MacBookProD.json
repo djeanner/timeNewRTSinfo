@@ -10031,7 +10031,10 @@
   },
   {
     "title": "economie:::Lucens: l’incroyable histoire du plus grave accident nucléaire suisse",
-    "added_at": "2025-05-31T07:55:33.217Z"
+    "added_at": "2025-05-31T07:55:33.217Z",
+    "removed_at": "2025-06-02T09:50:34.181Z",
+    "duration_minutes": 2995,
+    "duration_str": "2d 1h 55m"
   },
   {
     "title": "economie:::La centrale nucléaire de Lucens: de l’atome aux fantômes",
@@ -10506,7 +10509,10 @@
   },
   {
     "title": "monde:::En Pologne, le candidat nationaliste Karol Nawrocki remporte l’élection présidentielle",
-    "added_at": "2025-06-02T05:00:09.993Z"
+    "added_at": "2025-06-02T05:00:09.993Z",
+    "removed_at": "2025-06-02T09:34:58.219Z",
+    "duration_minutes": 274,
+    "duration_str": "4h 34m"
   },
   {
     "title": "monde:::Sur le front ukrainien, l’épuisement des soldats: «Nous n’en pouvons plus de voir mourir nos camarades»",
@@ -10529,7 +10535,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La délégation ukrainienne est arrivée à Istanbul pour des pourparlers avec les émissaires russes",
-    "added_at": "2025-06-02T06:25:54.537Z"
+    "added_at": "2025-06-02T06:25:54.537Z",
+    "removed_at": "2025-06-02T09:23:16.838Z",
+    "duration_minutes": 177,
+    "duration_str": "2h 57m"
   },
   {
     "title": "suisse:::En Valais, une lave torrentielle coupe l’accès au village de Lourtier et au fond du Val de Bagnes",
@@ -10553,10 +10562,25 @@
   },
   {
     "title": "suisse:::Blatten, une très longue histoire liée à la montagne",
-    "added_at": "2025-06-02T09:05:39.199Z"
+    "added_at": "2025-06-02T09:05:39.199Z",
+    "removed_at": "2025-06-02T09:50:34.181Z",
+    "duration_minutes": 44,
+    "duration_str": "44m"
   },
   {
     "title": "suisse:::Le promoteur de la capsule Sarco, Florian Willet, est décédé",
     "added_at": "2025-06-02T09:11:29.236Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – L’Ukraine prête à «des mesures importantes en vue de la paix» lors des pourparlers avec Moscou",
+    "added_at": "2025-06-02T09:23:16.838Z"
+  },
+  {
+    "title": "monde:::Ce que l’élection du président nationaliste polonais pro-Trump signifie pour l’Union européenne",
+    "added_at": "2025-06-02T09:34:58.219Z"
+  },
+  {
+    "title": "suisse:::Objet de mille fantasmes, le laboratoire de Spiez manie pathogènes et secrets depuis cent ans",
+    "added_at": "2025-06-02T09:50:34.181Z"
   }
 ]
