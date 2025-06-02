@@ -167,8 +167,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Les pourparlers commencent à Istanbul",
     "added_at": "2025-06-02T12:13:01.500Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-02T14:20:40.343Z",
+    "duration_minutes": 128,
+    "duration_str": "2h 8m"
   },
   {
     "title": "suisse:::En direct, l’éboulement de Blatten – Les recherches de l'homme disparu après la catastrophe ont repris",
@@ -192,6 +193,19 @@
   {
     "title": "suisse:::En direct, l’éboulement de Blatten – Une enquête a été ouverte pour élucider la disparition de l’éleveur",
     "added_at": "2025-06-02T13:39:43.538Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Moscou refuse à Istanbul un cessez-le-feu inconditionnel",
+    "added_at": "2025-06-02T14:20:40.343Z",
+    "removed_at": "2025-06-02T14:22:39.619Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Moscou et Kiev s'accordent sur de nouveaux échanges de prisonniers",
+    "added_at": "2025-06-02T14:22:39.619Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
