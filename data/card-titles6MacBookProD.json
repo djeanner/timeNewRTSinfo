@@ -6979,7 +6979,10 @@
   },
   {
     "title": "Multiple people wounded in attack in US city of Boulder, Colorado",
-    "added_at": "2025-06-01T22:45:51.429Z"
+    "added_at": "2025-06-01T22:45:51.429Z",
+    "removed_at": "2025-06-02T01:56:53.697Z",
+    "duration_minutes": 191,
+    "duration_str": "3h 11m"
   },
   {
     "title": "Poland’s presidential run-off election too close to call after exit polls",
@@ -6988,5 +6991,16 @@
   {
     "title": "Russia-Ukraine war: List of key events, day 1,194",
     "added_at": "2025-06-02T00:52:37.104Z"
+  },
+  {
+    "title": "Six wounded in attack on Colorado rally for Israeli captives in Gaza",
+    "added_at": "2025-06-02T01:56:53.697Z",
+    "removed_at": "2025-06-02T02:16:18.292Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
+  },
+  {
+    "title": "Six wounded in attack at Colorado rally for Israeli captives in Gaza",
+    "added_at": "2025-06-02T02:16:18.292Z"
   }
 ]
