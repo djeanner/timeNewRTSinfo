@@ -10566,7 +10566,10 @@
   },
   {
     "title": "economie:::Chez les gestionnaires de fortune, un recrutement délicat",
-    "added_at": "2025-06-02T08:50:06.826Z"
+    "added_at": "2025-06-02T08:50:06.826Z",
+    "removed_at": "2025-06-02T16:15:45.179Z",
+    "duration_minutes": 445,
+    "duration_str": "7h 25m"
   },
   {
     "title": "suisse:::Des incidents informatiques forcent Skyguide à espacer les atterrissages à Genève",
@@ -10603,7 +10606,10 @@
   },
   {
     "title": "monde:::En direct, guerre à Gaza – La France peut créer un Etat palestinien sur la Côte d'Azur, lance l’ambassadeur américain en Israël",
-    "added_at": "2025-06-02T11:45:35.872Z"
+    "added_at": "2025-06-02T11:45:35.872Z",
+    "removed_at": "2025-06-02T16:21:36.191Z",
+    "duration_minutes": 276,
+    "duration_str": "4h 36m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Les pourparlers commencent à Istanbul",
@@ -10666,5 +10672,13 @@
   {
     "title": "suisse:::A Neuchâtel, l’initiative sur la protection des apprentis jugée contre-productive par le gouvernement",
     "added_at": "2025-06-02T15:15:19.653Z"
+  },
+  {
+    "title": "cyber:::Pourquoi Microsoft lance une campagne massive de séduction en Suisse avec des moyens colossaux",
+    "added_at": "2025-06-02T16:15:45.179Z"
+  },
+  {
+    "title": "monde:::En direct, guerre à Gaza – Le chef de l’ONU appelle à une enquête après les tirs mortels près d’un centre d’aide",
+    "added_at": "2025-06-02T16:21:36.191Z"
   }
 ]
