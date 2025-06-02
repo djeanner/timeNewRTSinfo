@@ -9339,10 +9339,7 @@
   },
   {
     "title": "sport:::Le président du FC Bienne: «Nous avons montré que nous n’étions pas des rigolos et nous avons rendu fière toute une région»",
-    "added_at": "2025-06-01T17:04:43.055Z",
-    "removed_at": "2025-06-02T06:45:20.870Z",
-    "duration_minutes": 820,
-    "duration_str": "13h 40m"
+    "added_at": "2025-06-01T17:04:43.055Z"
   },
   {
     "title": "sport:::En Coupe de Suisse, Bâle vainqueur mais Bienne aussi",
@@ -9409,7 +9406,10 @@
   },
   {
     "title": "monde:::En direct, guerre à Gaza – Notre suivi de la semaine du 26 mai",
-    "added_at": "2025-06-02T02:46:17.452Z"
+    "added_at": "2025-06-02T02:46:17.452Z",
+    "removed_at": "2025-06-02T11:44:55.798Z",
+    "duration_minutes": 538,
+    "duration_str": "8h 58m"
   },
   {
     "title": "suisse:::En direct, l’éboulement de Blatten – La masse des éboulis atteint plus de 100m de haut par endroits",
@@ -9449,7 +9449,10 @@
   },
   {
     "title": "culture:::L’art à travers Le Locle, de fontaine en fontaine et de bas en haut",
-    "added_at": "2025-06-02T05:58:23.037Z"
+    "added_at": "2025-06-02T05:58:23.037Z",
+    "removed_at": "2025-06-02T12:20:45.333Z",
+    "duration_minutes": 382,
+    "duration_str": "6h 22m"
   },
   {
     "title": "suisse:::Le nombre d’atterrissages va être réduit à l’aéroport de Genève suite à un problème technique",
@@ -9475,7 +9478,10 @@
   },
   {
     "title": "suisse:::En direct, l’éboulement de Blatten – «C’est un avertissement puissant de notre monde qui se réchauffe», estime l’ONU",
-    "added_at": "2025-06-02T07:49:29.600Z"
+    "added_at": "2025-06-02T07:49:29.600Z",
+    "removed_at": "2025-06-02T12:18:51.636Z",
+    "duration_minutes": 269,
+    "duration_str": "4h 29m"
   },
   {
     "title": "culture:::Waly Dia, le sniper de «punchlines», fier rempart de l’humour politique",
@@ -9498,11 +9504,17 @@
   },
   {
     "title": "suisse:::Le promoteur de la capsule Sarco, Florian Willet, est décédé",
-    "added_at": "2025-06-02T09:12:17.703Z"
+    "added_at": "2025-06-02T09:12:17.703Z",
+    "removed_at": "2025-06-02T11:31:46.247Z",
+    "duration_minutes": 139,
+    "duration_str": "2h 19m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L’Ukraine prête à «des mesures importantes en vue de la paix» lors des pourparlers avec Moscou",
-    "added_at": "2025-06-02T09:23:35.235Z"
+    "added_at": "2025-06-02T09:23:35.235Z",
+    "removed_at": "2025-06-02T12:13:12.054Z",
+    "duration_minutes": 169,
+    "duration_str": "2h 49m"
   },
   {
     "title": "monde:::Ce que l’élection du président nationaliste polonais pro-Trump signifie pour l’Union européenne",
@@ -9511,5 +9523,17 @@
   {
     "title": "suisse:::Objet de mille fantasmes, le laboratoire de Spiez manie pathogènes et secrets depuis cent ans",
     "added_at": "2025-06-02T09:51:50.114Z"
+  },
+  {
+    "title": "monde:::En direct, guerre à Gaza – La France peut créer un Etat palestinien sur la Côte d'Azur, lance l’ambassadeur américain en Israël",
+    "added_at": "2025-06-02T11:44:55.798Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Les pourparlers commencent à Istanbul",
+    "added_at": "2025-06-02T12:13:12.054Z"
+  },
+  {
+    "title": "suisse:::En direct, l’éboulement de Blatten – Les recherches de l'homme disparu après la catastrophe ont repris",
+    "added_at": "2025-06-02T12:18:51.636Z"
   }
 ]
