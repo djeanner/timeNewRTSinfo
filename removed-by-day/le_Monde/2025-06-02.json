@@ -340,8 +340,9 @@
   {
     "title": "Parcoursup 2025 : les cinq licences les plus demandées",
     "added_at": "2025-06-02T10:29:34.282Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-02T21:32:12.171Z",
+    "duration_minutes": 663,
+    "duration_str": "11h 3m"
   },
   {
     "title": "Gaza : des tirs à proximité d’un point de distribution d’aide à Rafah font de nombreux morts et blessés",
@@ -545,8 +546,9 @@
   {
     "title": "Une nouvelle stratégie fait naître un espoir de guérison pour certains cancers du sein métastatiques",
     "added_at": "2025-06-02T13:06:06.243Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-02T19:25:07.222Z",
+    "duration_minutes": 379,
+    "duration_str": "6h 19m"
   },
   {
     "title": "EN DIRECT | Roland-Garros 2025 : Loïs Boisson, dernière Française en lice, à la lutte pour une place en quarts de finale",
@@ -593,9 +595,8 @@
   {
     "title": "En Corée du Sud, des électeurs las de la crise politique prêts à redonner le pouvoir aux progressistes",
     "added_at": "2025-06-02T13:41:43.821Z",
-    "removed_at": "2025-06-02T13:47:34.907Z",
-    "duration_minutes": 6,
-    "duration_str": "6m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "EN DIRECT | Roland-Garros 2025 : Loïs Boisson, dernière Française en lice, renverse la numéro 3 mondiale et se hisse en quarts",
@@ -732,8 +733,9 @@
   {
     "title": "A voir ce soir : le documentaire « Vladimir Jankélévitch, penser la vie », sur LCP",
     "added_at": "2025-06-02T16:07:05.454Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-02T20:55:13.286Z",
+    "duration_minutes": 288,
+    "duration_str": "4h 48m"
   },
   {
     "title": "A la grand-messe annuelle de la cancérologie, une moisson de progrès, pas à pas",
@@ -785,9 +787,8 @@
   {
     "title": "« L’urgence sur les retraites va-t-elle déplacer le curseur en faveur de la capitalisation ? »",
     "added_at": "2025-06-02T17:13:10.071Z",
-    "removed_at": "2025-06-02T20:45:17.057Z",
-    "duration_minutes": 212,
-    "duration_str": "3h 32m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Xavier Dorison, scénariste de BD : « Les super-héros américains sont devenus un archétype fasciste »",
@@ -845,8 +846,9 @@
   {
     "title": "En direct : Volodymyr Zelensky accuse la Russie de ne vouloir qu’une « courte pause » dans la guerre et appelle Trump à prendre des sanctions pour la « contraindre » à un cessez-le-feu",
     "added_at": "2025-06-02T18:15:20.919Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-02T20:47:21.439Z",
+    "duration_minutes": 152,
+    "duration_str": "2h 32m"
   },
   {
     "title": "Roland-Garros 2025, les résultats du lundi 2 juin : Loïs Boisson, dernière Tricolore en lice, qualifiée pour les quarts au terme d’un duel renversant, Novak Djokovic retrouvera Alexander Zverev",
@@ -899,5 +901,12 @@
     "removed_at": "2025-06-02T20:39:25.909Z",
     "duration_minutes": 23,
     "duration_str": "23m"
+  },
+  {
+    "title": "En direct : Volodymyr Zelensky accuse la Russie de ne vouloir qu’une « courte pause » dans la guerre et appelle Donald Trump à prendre des sanctions pour la « contraindre » à un cessez-le-feu",
+    "added_at": "2025-06-02T20:47:21.439Z",
+    "removed_at": "2025-06-02T21:32:12.171Z",
+    "duration_minutes": 45,
+    "duration_str": "45m"
   }
 ]
