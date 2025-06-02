@@ -9510,7 +9510,10 @@
   },
   {
     "title": "economie:::Chez les gestionnaires de fortune, un recrutement délicat",
-    "added_at": "2025-06-02T08:49:42.774Z"
+    "added_at": "2025-06-02T08:49:42.774Z",
+    "removed_at": "2025-06-02T20:10:23.561Z",
+    "duration_minutes": 680,
+    "duration_str": "11h 20m"
   },
   {
     "title": "suisse:::Des incidents informatiques forcent Skyguide à espacer les atterrissages à Genève",
@@ -9673,5 +9676,9 @@
   {
     "title": "monde:::Après une attaque dans le Colorado, la communauté juive est en état de siège",
     "added_at": "2025-06-02T18:56:50.969Z"
+  },
+  {
+    "title": "culture:::«Ici, c’est pas Miami», de Fernanda Melchor: immersion dans le pré carré des narcotrafiquants",
+    "added_at": "2025-06-02T20:10:23.561Z"
   }
 ]
