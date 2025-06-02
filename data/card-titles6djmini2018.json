@@ -8316,7 +8316,10 @@
   },
   {
     "title": "Two dead, 559 arrested in France clashes after PSG Champions League win",
-    "added_at": "2025-06-01T10:33:14.700Z"
+    "added_at": "2025-06-01T10:33:14.700Z",
+    "removed_at": "2025-06-02T00:53:30.963Z",
+    "duration_minutes": 860,
+    "duration_str": "14h 20m"
   },
   {
     "title": "Israel kills 32 Palestinians waiting for food at US-backed Gaza aid sites",
@@ -8334,10 +8337,7 @@
   },
   {
     "title": "Nigeria flash floods: Which is most affected area, what caused the deluge?",
-    "added_at": "2025-06-01T11:48:26.582Z",
-    "removed_at": "2025-06-01T13:58:23.002Z",
-    "duration_minutes": 129,
-    "duration_str": "2h 9m"
+    "added_at": "2025-06-01T11:48:26.582Z"
   },
   {
     "title": "Bangladesh top court lifts ban on country’s largest Muslim party",
@@ -8428,10 +8428,28 @@
   },
   {
     "title": "Multiple people wounded in attack in US city of Boulder, Colorado",
-    "added_at": "2025-06-01T22:47:20.793Z"
+    "added_at": "2025-06-01T22:47:20.793Z",
+    "removed_at": "2025-06-02T01:57:22.131Z",
+    "duration_minutes": 190,
+    "duration_str": "3h 10m"
   },
   {
     "title": "Poland’s presidential run-off election too close to call after exit polls",
     "added_at": "2025-06-01T23:02:21.987Z"
+  },
+  {
+    "title": "Russia-Ukraine war: List of key events, day 1,194",
+    "added_at": "2025-06-02T00:53:30.963Z"
+  },
+  {
+    "title": "Six wounded in attack on Colorado rally for Israeli captives in Gaza",
+    "added_at": "2025-06-02T01:57:22.131Z",
+    "removed_at": "2025-06-02T02:16:10.688Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
+  },
+  {
+    "title": "Six wounded in attack at Colorado rally for Israeli captives in Gaza",
+    "added_at": "2025-06-02T02:16:10.688Z"
   }
 ]
