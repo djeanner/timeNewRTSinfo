@@ -29,8 +29,9 @@
   {
     "title": "suisse:::En direct, l’éboulement de Blatten – La masse des éboulis atteint plus de 100m de haut par endroits",
     "added_at": "2025-06-02T02:49:30.911Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-02T07:49:42.329Z",
+    "duration_minutes": 300,
+    "duration_str": "5h"
   },
   {
     "title": "economie:::Le Conseil fédéral s’apprêterait à durcir le ton envers UBS en exigeant davantage de capitaux",
@@ -91,6 +92,12 @@
   {
     "title": "suisse:::En Valais, une lave torrentielle coupe l’accès au village de Lourtier et au fond du Val de Bagnes",
     "added_at": "2025-06-02T06:45:24.570Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::En direct, l’éboulement de Blatten – «C’est un avertissement puissant de notre monde qui se réchauffe», estime l’ONU",
+    "added_at": "2025-06-02T07:49:42.329Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
