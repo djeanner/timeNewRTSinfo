@@ -16161,7 +16161,10 @@
   },
   {
     "title": "Boulder police chief shares details on attack in Colorado",
-    "added_at": "2025-06-01T23:13:13.833Z"
+    "added_at": "2025-06-01T23:13:13.833Z",
+    "removed_at": "2025-06-02T06:23:55.210Z",
+    "duration_minutes": 430,
+    "duration_str": "7h 10m"
   },
   {
     "title": "Multiple people set on fire in antisemitic attack in Colorado",
@@ -16264,5 +16267,9 @@
   {
     "title": "Holocaust survivor among those wounded, event participant tells CNN",
     "added_at": "2025-06-02T05:15:47.434Z"
+  },
+  {
+    "title": "Video shows scenes moments after attack in Colorado",
+    "added_at": "2025-06-02T06:23:55.210Z"
   }
 ]
