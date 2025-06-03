@@ -363,8 +363,9 @@
   {
     "title": "Roland Garros: la française Loïs Boisson en quart de finale",
     "added_at": "2025-06-03T18:12:54.576Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-03T21:12:48.730Z",
+    "duration_minutes": 180,
+    "duration_str": "3h"
   },
   {
     "title": "Un vaste réseau de trafic d'êtres humains démantelé en Suisse",
@@ -393,6 +394,24 @@
   {
     "title": "La Suisse reléguée et pas franchement rassurante",
     "added_at": "2025-06-03T20:00:26.770Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Une audacieuse attaque de drones ukrainienne a frappé des aérodromes militaires russes",
+    "added_at": "2025-06-03T21:12:48.730Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "L'Ukraine revendique une attaque contre le pont de Crimée",
+    "added_at": "2025-06-03T21:12:48.730Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Un seul des condamnés du procès de Mazan fait finalement recours contre sa condamnation",
+    "added_at": "2025-06-03T21:14:48.429Z",
     "duration_minutes": 0,
     "duration_str": ""
   }

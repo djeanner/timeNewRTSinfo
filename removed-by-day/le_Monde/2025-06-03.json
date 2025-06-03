@@ -969,8 +969,9 @@
   {
     "title": "En direct : après des tirs mortels près d’un centre d’aide dans la bande de Gaza, le secrétaire général de l’ONU « condamne » une situation « inacceptable » ; l’armée israélienne dit « enquêter »",
     "added_at": "2025-06-03T17:23:55.739Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-03T20:57:13.189Z",
+    "duration_minutes": 213,
+    "duration_str": "3h 33m"
   },
   {
     "title": "Municipales 2026 : la réforme du scrutin pour Paris, Lyon et Marseille massivement rejetée au Sénat",
@@ -1064,6 +1065,19 @@
   {
     "title": "EN DIRECT | Roland-Garros 2025 : Carlos Alcaraz écrase Tommy Paul et rejoint le dernier carré",
     "added_at": "2025-06-03T20:10:16.064Z",
+    "removed_at": "2025-06-03T20:33:48.615Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "Roland-Garros 2025 : Carlos Alcaraz écrase Tommy Paul et rejoint le dernier carré",
+    "added_at": "2025-06-03T20:33:48.615Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "En direct, guerre à Gaza : pour les Etats-Unis, l’aide humanitaire apportée par la Gaza Humanitarian Foundation est « une réussite »",
+    "added_at": "2025-06-03T20:57:13.189Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
