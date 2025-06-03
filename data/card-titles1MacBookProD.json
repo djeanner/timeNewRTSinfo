@@ -14325,7 +14325,10 @@
   },
   {
     "title": "Le PSG écrase l'Inter en finale et devient champion d'Europe!",
-    "added_at": "2025-05-31T20:56:52.689Z"
+    "added_at": "2025-05-31T20:56:52.689Z",
+    "removed_at": "2025-06-03T02:42:34.560Z",
+    "duration_minutes": 3225,
+    "duration_str": "2d 5h 45m"
   },
   {
     "title": "Le Hamas pose ses conditions pour une trêve, Washington les juge \"inacceptables\"",
@@ -14964,5 +14967,9 @@
   {
     "title": "Ukrainiens et Russes entament à Istanbul de nouveaux pourparlers de paix",
     "added_at": "2025-06-03T01:10:57.186Z"
+  },
+  {
+    "title": "Tout \"enrichissement d'uranium\" en Iran exclu par Donald Trump",
+    "added_at": "2025-06-03T02:42:34.560Z"
   }
 ]
