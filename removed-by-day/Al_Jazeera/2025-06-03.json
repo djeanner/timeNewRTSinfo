@@ -64,9 +64,8 @@
   {
     "title": "Earthquake sparks mass escape from Pakistan prison",
     "added_at": "2025-06-03T07:58:19.664Z",
-    "removed_at": "2025-06-03T17:27:49.709Z",
-    "duration_minutes": 570,
-    "duration_str": "9h 30m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Why are humanitarian crises in African countries so ignored?",
@@ -236,8 +235,9 @@
   {
     "title": "S Korea’s Lee Jae-myung projected to win snap poll, Kim Moon-soo concedes",
     "added_at": "2025-06-03T16:56:31.059Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-03T18:08:58.279Z",
+    "duration_minutes": 72,
+    "duration_str": "1h 12m"
   },
   {
     "title": "South Korea election results 2025: Who won, who lost, what’s next?",
@@ -256,5 +256,12 @@
     "added_at": "2025-06-03T17:31:47.240Z",
     "duration_minutes": 0,
     "duration_str": ""
+  },
+  {
+    "title": "South Korea election results live: Lee Jae-myung set to win, Kim concedes",
+    "added_at": "2025-06-03T18:08:58.279Z",
+    "removed_at": "2025-06-03T18:10:55.964Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
   }
 ]

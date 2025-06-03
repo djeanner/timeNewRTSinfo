@@ -132,9 +132,8 @@
   {
     "title": "A l’Union étudiante, guerre de clans et dissidence contre la direction",
     "added_at": "2025-06-03T04:02:44.222Z",
-    "removed_at": "2025-06-03T16:36:49.208Z",
-    "duration_minutes": 754,
-    "duration_str": "12h 34m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "A Bléré, l’expérimentation qui a sorti 130 personnes du chômage de longue durée",
@@ -828,9 +827,8 @@
   {
     "title": "« Le résultat du référendum européen de 2005 contribue à éclairer la nature des clivages en jeu aujourd’hui »",
     "added_at": "2025-06-03T14:34:22.035Z",
-    "removed_at": "2025-06-03T16:33:05.122Z",
-    "duration_minutes": 119,
-    "duration_str": "1h 59m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Municipales 2026 : le duo qui « tient » Limoges montre des signes de faiblesse",
@@ -938,8 +936,9 @@
   {
     "title": "L’Observatoire des inégalités alerte sur une « fracture sociale majeure dans les conditions de travail »",
     "added_at": "2025-06-03T16:33:05.122Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-03T18:05:04.244Z",
+    "duration_minutes": 92,
+    "duration_str": "1h 32m"
   },
   {
     "title": "Bercy prépare les esprits à une nouvelle hausse des impôts en 2026",
@@ -950,8 +949,9 @@
   {
     "title": "Pablo Saavedra de Decker, le DJ qui fait résonner l’œuvre de sa mère",
     "added_at": "2025-06-03T16:33:05.122Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-03T16:36:49.208Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
   },
   {
     "title": "Nouvelle-Calédonie : les juges ordonnent la remise en liberté de Christian Tein et d’autres indépendantistes kanak détenus dans l’Hexagone",
@@ -969,6 +969,12 @@
   {
     "title": "En direct : après des tirs mortels près d’un centre d’aide dans la bande de Gaza, le secrétaire général de l’ONU « condamne » une situation « inacceptable » ; l’armée israélienne dit « enquêter »",
     "added_at": "2025-06-03T17:23:55.739Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Municipales 2026 : la réforme du scrutin pour Paris, Lyon et Marseille massivement rejetée au Sénat",
+    "added_at": "2025-06-03T18:05:04.244Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
