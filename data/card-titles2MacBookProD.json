@@ -10681,7 +10681,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Moscou et Kiev s’accordent sur un échange de prisonniers et de corps de soldats",
-    "added_at": "2025-06-02T14:50:00.074Z"
+    "added_at": "2025-06-02T14:50:00.074Z",
+    "removed_at": "2025-06-03T03:35:16.766Z",
+    "duration_minutes": 765,
+    "duration_str": "12h 45m"
   },
   {
     "title": "suisse:::Parler de paix en Suisse? C’est toujours niet pour Moscou",
@@ -10772,5 +10775,9 @@
   {
     "title": "monde:::En direct, guerre à Gaza – L'armée israélienne a intercepté un missile tiré depuis le Yémen",
     "added_at": "2025-06-03T02:25:03.519Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky déplore la proposition de Moscou, «une courte pause dans la guerre»",
+    "added_at": "2025-06-03T03:35:16.766Z"
   }
 ]
