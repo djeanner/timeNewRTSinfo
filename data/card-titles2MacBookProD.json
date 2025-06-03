@@ -10563,7 +10563,10 @@
   },
   {
     "title": "suisse:::En Valais, une lave torrentielle coupe l’accès au village de Lourtier et au fond du Val de Bagnes",
-    "added_at": "2025-06-02T06:45:24.570Z"
+    "added_at": "2025-06-02T06:45:24.570Z",
+    "removed_at": "2025-06-03T05:05:07.039Z",
+    "duration_minutes": 1339,
+    "duration_str": "22h 19m"
   },
   {
     "title": "suisse:::En direct, l’éboulement de Blatten – «C’est un avertissement puissant de notre monde qui se réchauffe», estime l’ONU",
@@ -10717,7 +10720,10 @@
   },
   {
     "title": "sport:::Le PSG champion d’Europe sans Mbappé, comme tant d’autres équipes plus fortes sans leur star",
-    "added_at": "2025-06-02T17:02:36.771Z"
+    "added_at": "2025-06-02T17:02:36.771Z",
+    "removed_at": "2025-06-03T05:30:28.281Z",
+    "duration_minutes": 747,
+    "duration_str": "12h 27m"
   },
   {
     "title": "suisse:::Whisky, fromages et voitures... le mandat de négociation du Conseil fédéral avec les Etats-Unis se précise",
@@ -10790,5 +10796,9 @@
   {
     "title": "suisse:::Curabilis, le vaisseau à préserver d’un naufrage",
     "added_at": "2025-06-03T04:14:24.443Z"
+  },
+  {
+    "title": "suisse:::Dans le Lötschental sinistré, le silence pudique des montagnards face à la vague médiatique",
+    "added_at": "2025-06-03T05:05:07.039Z"
   }
 ]
