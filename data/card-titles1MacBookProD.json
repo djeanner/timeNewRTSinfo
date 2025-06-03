@@ -14551,7 +14551,10 @@
   },
   {
     "title": "Un immeuble pollué est laissé à l'abandon depuis 12 ans à La Chaux-de-Fonds",
-    "added_at": "2025-06-01T13:45:40.640Z"
+    "added_at": "2025-06-01T13:45:40.640Z",
+    "removed_at": "2025-06-03T15:22:46.437Z",
+    "duration_minutes": 2977,
+    "duration_str": "2d 1h 37m"
   },
   {
     "title": "Un harnais pourrait révolutionner la sécurité routière des femmes enceintes",
@@ -14587,11 +14590,17 @@
   },
   {
     "title": "Le doublé pour le FC Bâle",
-    "added_at": "2025-06-01T13:55:20.841Z"
+    "added_at": "2025-06-01T13:55:20.841Z",
+    "removed_at": "2025-06-03T15:42:12.944Z",
+    "duration_minutes": 2986,
+    "duration_str": "2d 1h 46m"
   },
   {
     "title": "Plusieurs anciens diplomates se disent choqués par le \"silence\" de la Suisse sur Gaza",
-    "added_at": "2025-06-01T13:59:13.352Z"
+    "added_at": "2025-06-01T13:59:13.352Z",
+    "removed_at": "2025-06-03T16:03:43.445Z",
+    "duration_minutes": 3004,
+    "duration_str": "2d 2h 4m"
   },
   {
     "title": "Bilans contradictoires après des tirs près d'un centre d'aide alimentaire à Gaza",
@@ -15237,7 +15246,10 @@
   },
   {
     "title": "Un rassemblement à Lausanne rend hommage au Nigérian décédé à l'Hôtel de police",
-    "added_at": "2025-06-03T13:46:54.860Z"
+    "added_at": "2025-06-03T13:46:54.860Z",
+    "removed_at": "2025-06-03T15:34:27.925Z",
+    "duration_minutes": 107,
+    "duration_str": "1h 47m"
   },
   {
     "title": "Le Parlement se prononce en faveur de l'imposition individuelle des couples mariés",
@@ -15245,7 +15257,10 @@
   },
   {
     "title": "Remplacement des trains par des bus entre Palézieux et Romont ce week-end",
-    "added_at": "2025-06-03T14:16:09.391Z"
+    "added_at": "2025-06-03T14:16:09.391Z",
+    "removed_at": "2025-06-03T15:42:12.944Z",
+    "duration_minutes": 86,
+    "duration_str": "1h 26m"
   },
   {
     "title": "20'000 salariés de Volkswagen ont signé pour quitter l'entreprise",
@@ -15260,10 +15275,37 @@
   },
   {
     "title": "Des résultats plutôt rassurants sur l’exposition aux pesticides des enfants valaisans, selon une étude",
-    "added_at": "2025-06-03T14:57:15.934Z"
+    "added_at": "2025-06-03T14:57:15.934Z",
+    "removed_at": "2025-06-03T15:22:46.437Z",
+    "duration_minutes": 25,
+    "duration_str": "25m"
   },
   {
     "title": "Feu vert à l'Etat de Vaud pour l'achat du centre des Baumettes à Renens",
     "added_at": "2025-06-03T15:12:51.676Z"
+  },
+  {
+    "title": "Une étude plutôt rassurante sur l'exposition des enfants valaisans aux pesticides",
+    "added_at": "2025-06-03T15:22:46.437Z"
+  },
+  {
+    "title": "Retour à la normale chez Skyguide à Genève",
+    "added_at": "2025-06-03T15:22:46.437Z"
+  },
+  {
+    "title": "Un rassemblement à Lausanne en hommage au Nigérian décédé à l'Hôtel de police",
+    "added_at": "2025-06-03T15:34:27.925Z"
+  },
+  {
+    "title": "Podcast - Les glaciers vont-ils tous s'effondrer?",
+    "added_at": "2025-06-03T15:42:12.944Z"
+  },
+  {
+    "title": "Les trains remplacés par des bus entre Palézieux et Romont ce week-end",
+    "added_at": "2025-06-03T15:42:12.944Z"
+  },
+  {
+    "title": "Le policier qui a tiré sur Nahel en banlieue parisienne sera jugé pour meurtre",
+    "added_at": "2025-06-03T16:03:43.445Z"
   }
 ]
