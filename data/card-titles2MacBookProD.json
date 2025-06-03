@@ -10764,7 +10764,10 @@
   },
   {
     "title": "economie:::La chute du dollar entraîne des pertes importantes chez des clients d’UBS",
-    "added_at": "2025-06-02T18:42:13.037Z"
+    "added_at": "2025-06-02T18:42:13.037Z",
+    "removed_at": "2025-06-03T05:57:49.676Z",
+    "duration_minutes": 675,
+    "duration_str": "11h 15m"
   },
   {
     "title": "monde:::Après une attaque dans le Colorado, la communauté juive est en état de siège",
@@ -10779,11 +10782,17 @@
   },
   {
     "title": "monde:::Après une attaque antisémite dans le Colorado, la communauté juive est en état de siège",
-    "added_at": "2025-06-03T02:19:14.120Z"
+    "added_at": "2025-06-03T02:19:14.120Z",
+    "removed_at": "2025-06-03T06:23:12.232Z",
+    "duration_minutes": 243,
+    "duration_str": "4h 3m"
   },
   {
     "title": "monde:::En direct, guerre à Gaza – L'armée israélienne a intercepté un missile tiré depuis le Yémen",
-    "added_at": "2025-06-03T02:25:03.519Z"
+    "added_at": "2025-06-03T02:25:03.519Z",
+    "removed_at": "2025-06-03T05:38:19.002Z",
+    "duration_minutes": 193,
+    "duration_str": "3h 13m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky déplore la proposition de Moscou, «une courte pause dans la guerre»",
@@ -10800,5 +10809,31 @@
   {
     "title": "suisse:::Dans le Lötschental sinistré, le silence pudique des montagnards face à la vague médiatique",
     "added_at": "2025-06-03T05:05:07.039Z"
+  },
+  {
+    "title": "monde:::En direct, guerre à Gaza – Au moins 15 personnes tuées dans le sud de la bande de Gaza",
+    "added_at": "2025-06-03T05:38:19.002Z",
+    "removed_at": "2025-06-03T05:46:08.160Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "monde:::En direct, guerre à Gaza – Au moins 15 personnes tuées dans le sud de la Palestine",
+    "added_at": "2025-06-03T05:46:08.160Z",
+    "removed_at": "2025-06-03T05:51:59.899Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "monde:::En direct, guerre à Gaza – Au moins 15 personnes tuées dans le sud du territoire palestinien",
+    "added_at": "2025-06-03T05:51:59.899Z"
+  },
+  {
+    "title": "economie:::La thèse du grand retour de l’inflation (et ce n'est pas à cause des droits de douane de Trump)",
+    "added_at": "2025-06-03T05:57:49.676Z"
+  },
+  {
+    "title": "suisse:::Budget et sécurité: la Pride zurichoise sous tension",
+    "added_at": "2025-06-03T06:23:12.232Z"
   }
 ]
