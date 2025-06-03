@@ -9492,7 +9492,10 @@
   },
   {
     "title": "suisse:::En Valais, une lave torrentielle coupe l’accès au village de Lourtier et au fond du Val de Bagnes",
-    "added_at": "2025-06-02T06:45:20.870Z"
+    "added_at": "2025-06-02T06:45:20.870Z",
+    "removed_at": "2025-06-03T05:05:05.701Z",
+    "duration_minutes": 1339,
+    "duration_str": "22h 19m"
   },
   {
     "title": "suisse:::En direct, l’éboulement de Blatten – «C’est un avertissement puissant de notre monde qui se réchauffe», estime l’ONU",
@@ -9517,7 +9520,10 @@
   },
   {
     "title": "suisse:::Des incidents informatiques forcent Skyguide à espacer les atterrissages à Genève",
-    "added_at": "2025-06-02T09:02:54.099Z"
+    "added_at": "2025-06-02T09:02:54.099Z",
+    "removed_at": "2025-06-03T07:09:15.573Z",
+    "duration_minutes": 1326,
+    "duration_str": "22h 6m"
   },
   {
     "title": "suisse:::Blatten, une très longue histoire liée à la montagne",
@@ -9639,7 +9645,10 @@
   },
   {
     "title": "sport:::Le PSG champion d’Europe sans Mbappé, comme tant d’autres équipes plus fortes sans leur star",
-    "added_at": "2025-06-02T17:03:38.151Z"
+    "added_at": "2025-06-02T17:03:38.151Z",
+    "removed_at": "2025-06-03T05:31:30.001Z",
+    "duration_minutes": 747,
+    "duration_str": "12h 27m"
   },
   {
     "title": "suisse:::Whisky, fromages et voitures... le mandat de négociation du Conseil fédéral avec les Etats-Unis se précise",
@@ -9680,7 +9689,10 @@
   },
   {
     "title": "economie:::La chute du dollar entraîne des pertes importantes chez des clients d’UBS",
-    "added_at": "2025-06-02T18:41:48.119Z"
+    "added_at": "2025-06-02T18:41:48.119Z",
+    "removed_at": "2025-06-03T05:57:47.688Z",
+    "duration_minutes": 675,
+    "duration_str": "11h 15m"
   },
   {
     "title": "monde:::Après une attaque dans le Colorado, la communauté juive est en état de siège",
@@ -9695,11 +9707,17 @@
   },
   {
     "title": "monde:::Après une attaque antisémite dans le Colorado, la communauté juive est en état de siège",
-    "added_at": "2025-06-03T02:19:25.545Z"
+    "added_at": "2025-06-03T02:19:25.545Z",
+    "removed_at": "2025-06-03T06:24:06.648Z",
+    "duration_minutes": 244,
+    "duration_str": "4h 4m"
   },
   {
     "title": "monde:::En direct, guerre à Gaza – L'armée israélienne a intercepté un missile tiré depuis le Yémen",
-    "added_at": "2025-06-03T02:25:03.944Z"
+    "added_at": "2025-06-03T02:25:03.944Z",
+    "removed_at": "2025-06-03T05:37:09.243Z",
+    "duration_minutes": 192,
+    "duration_str": "3h 12m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky déplore la proposition de Moscou, «une courte pause dans la guerre»",
@@ -9712,5 +9730,39 @@
   {
     "title": "suisse:::Curabilis, le vaisseau à préserver d’un naufrage",
     "added_at": "2025-06-03T04:14:13.032Z"
+  },
+  {
+    "title": "suisse:::Dans le Lötschental sinistré, le silence pudique des montagnards face à la vague médiatique",
+    "added_at": "2025-06-03T05:05:05.701Z"
+  },
+  {
+    "title": "monde:::En direct, guerre à Gaza – Au moins 15 personnes tuées dans le sud de la bande de Gaza",
+    "added_at": "2025-06-03T05:37:09.243Z",
+    "removed_at": "2025-06-03T05:46:30.665Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "monde:::En direct, guerre à Gaza – Au moins 15 personnes tuées dans le sud de la Palestine",
+    "added_at": "2025-06-03T05:46:30.665Z",
+    "removed_at": "2025-06-03T05:52:09.194Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "monde:::En direct, guerre à Gaza – Au moins 15 personnes tuées dans le sud du territoire palestinien",
+    "added_at": "2025-06-03T05:52:09.194Z"
+  },
+  {
+    "title": "economie:::La thèse du grand retour de l’inflation (et ce n'est pas à cause des droits de douane de Trump)",
+    "added_at": "2025-06-03T05:57:47.688Z"
+  },
+  {
+    "title": "suisse:::Budget et sécurité: la Pride zurichoise sous tension",
+    "added_at": "2025-06-03T06:24:06.648Z"
+  },
+  {
+    "title": "suisse:::A Genève, Arnaud Bürgin prend la tête du lobby des entreprises: «L’économie est entrée dans une période trouble»",
+    "added_at": "2025-06-03T07:09:15.573Z"
   }
 ]
