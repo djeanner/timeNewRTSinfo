@@ -9591,7 +9591,10 @@
   },
   {
     "title": "suisse:::En direct, l’éboulement de Blatten – Une enquête a été ouverte pour élucider la disparition de l’éleveur",
-    "added_at": "2025-06-02T13:39:59.622Z"
+    "added_at": "2025-06-02T13:39:59.622Z",
+    "removed_at": "2025-06-03T09:41:57.487Z",
+    "duration_minutes": 1201,
+    "duration_str": "20h 1m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Moscou refuse à Istanbul un cessez-le-feu inconditionnel",
@@ -9811,10 +9814,32 @@
   },
   {
     "title": "culture:::Bertrand Belin: «Je me suis mis à la lecture par amour»",
-    "added_at": "2025-06-03T08:51:00.503Z"
+    "added_at": "2025-06-03T08:51:00.503Z",
+    "removed_at": "2025-06-03T11:01:05.301Z",
+    "duration_minutes": 130,
+    "duration_str": "2h 10m"
   },
   {
     "title": "monde:::En direct, guerre à Gaza – Nouvelle hécatombe lors d’une distribution d’aide, l’ONU dénonce des «crimes de guerre»",
     "added_at": "2025-06-03T09:28:41.544Z"
+  },
+  {
+    "title": "suisse:::En direct, l’éboulement de Blatten – La situation est stable ce mardi",
+    "added_at": "2025-06-03T09:41:57.487Z",
+    "removed_at": "2025-06-03T11:19:55.994Z",
+    "duration_minutes": 97,
+    "duration_str": "1h 37m"
+  },
+  {
+    "title": "monde:::Olivier Falorni, le discret et déterminé «chef d’orchestre» des textes de loi sur la fin de vie",
+    "added_at": "2025-06-03T11:01:05.301Z"
+  },
+  {
+    "title": "culture:::Corto Maltese dans la plus belle usine du monde",
+    "added_at": "2025-06-03T11:16:12.180Z"
+  },
+  {
+    "title": "suisse:::L’éboulement de Blatten – La situation est stable ce mardi",
+    "added_at": "2025-06-03T11:19:55.994Z"
   }
 ]
