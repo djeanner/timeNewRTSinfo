@@ -10626,7 +10626,10 @@
   },
   {
     "title": "suisse:::Objet de mille fantasmes, le laboratoire de Spiez manie pathogènes et secrets depuis cent ans",
-    "added_at": "2025-06-02T09:50:34.181Z"
+    "added_at": "2025-06-02T09:50:34.181Z",
+    "removed_at": "2025-06-03T12:30:36.532Z",
+    "duration_minutes": 1600,
+    "duration_str": "1d 2h 40m"
   },
   {
     "title": "monde:::En direct, guerre à Gaza – La France peut créer un Etat palestinien sur la Côte d'Azur, lance l’ambassadeur américain en Israël",
@@ -10708,7 +10711,10 @@
   },
   {
     "title": "cyber:::Pourquoi Microsoft lance une campagne massive de séduction en Suisse avec des moyens colossaux",
-    "added_at": "2025-06-02T16:15:45.179Z"
+    "added_at": "2025-06-02T16:15:45.179Z",
+    "removed_at": "2025-06-03T12:30:36.532Z",
+    "duration_minutes": 1214,
+    "duration_str": "20h 14m"
   },
   {
     "title": "monde:::En direct, guerre à Gaza – Le chef de l’ONU appelle à une enquête après les tirs mortels près d’un centre d’aide",
@@ -10775,10 +10781,7 @@
   },
   {
     "title": "sport:::Les débuts de Boisson enivrent Roland-Garros",
-    "added_at": "2025-06-02T18:38:19.822Z",
-    "removed_at": "2025-06-03T08:51:37.667Z",
-    "duration_minutes": 853,
-    "duration_str": "14h 13m"
+    "added_at": "2025-06-02T18:38:19.822Z"
   },
   {
     "title": "economie:::La chute du dollar entraîne des pertes importantes chez des clients d’UBS",
@@ -10873,7 +10876,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Deux morts et près de 20 blessés dans une frappe russe sur Soumy",
-    "added_at": "2025-06-03T08:10:34.018Z"
+    "added_at": "2025-06-03T08:10:34.018Z",
+    "removed_at": "2025-06-03T12:22:47.565Z",
+    "duration_minutes": 252,
+    "duration_str": "4h 12m"
   },
   {
     "title": "cyber:::«Empire of AI», dans les coulisses d’une industrie qui fait feu de tout bois pour conquérir le monde",
@@ -10919,5 +10925,17 @@
   {
     "title": "suisse:::L’éboulement de Blatten – La situation est stable ce mardi",
     "added_at": "2025-06-03T11:20:13.567Z"
+  },
+  {
+    "title": "economie:::L’heure de la relève dans la banque privée",
+    "added_at": "2025-06-03T12:03:19.645Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Kiev revendique une attaque contre le pont de Crimée",
+    "added_at": "2025-06-03T12:22:47.565Z"
+  },
+  {
+    "title": "monde:::En Pologne, le moment de vérité pour Donald Tusk",
+    "added_at": "2025-06-03T12:30:36.532Z"
   }
 ]
