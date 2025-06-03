@@ -10591,7 +10591,10 @@
   },
   {
     "title": "suisse:::Des incidents informatiques forcent Skyguide à espacer les atterrissages à Genève",
-    "added_at": "2025-06-02T09:01:46.679Z"
+    "added_at": "2025-06-02T09:01:46.679Z",
+    "removed_at": "2025-06-03T07:10:05.397Z",
+    "duration_minutes": 1328,
+    "duration_str": "22h 8m"
   },
   {
     "title": "suisse:::Blatten, une très longue histoire liée à la montagne",
@@ -10835,5 +10838,9 @@
   {
     "title": "suisse:::Budget et sécurité: la Pride zurichoise sous tension",
     "added_at": "2025-06-03T06:23:12.232Z"
+  },
+  {
+    "title": "suisse:::A Genève, Arnaud Bürgin prend la tête du lobby des entreprises: «L’économie est entrée dans une période trouble»",
+    "added_at": "2025-06-03T07:10:05.397Z"
   }
 ]
