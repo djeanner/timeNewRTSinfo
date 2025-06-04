@@ -11177,7 +11177,10 @@
   },
   {
     "title": "suisse:::Le conseil des Etats interdit la vente des puffs en Suisse",
-    "added_at": "2025-06-04T11:33:44.882Z"
+    "added_at": "2025-06-04T11:33:44.882Z",
+    "removed_at": "2025-06-04T15:12:29.379Z",
+    "duration_minutes": 218,
+    "duration_str": "3h 38m"
   },
   {
     "title": "culture:::Mort du journaliste et écrivain Philippe Labro, l’Amérique au cœur",
@@ -11207,7 +11210,10 @@
   },
   {
     "title": "sport:::Nouvel exploit pour Loïs Boisson qui s’envole en demi-finale de Roland-Garros",
-    "added_at": "2025-06-04T14:44:59.890Z"
+    "added_at": "2025-06-04T14:44:59.890Z",
+    "removed_at": "2025-06-04T15:43:47.015Z",
+    "duration_minutes": 58,
+    "duration_str": "58m"
   },
   {
     "title": "monde:::Friedrich Merz entame une délicate visite à Washington",
@@ -11216,5 +11222,13 @@
   {
     "title": "suisse:::10 millions de francs et des mesures extraordinaires pour les habitants de Blatten",
     "added_at": "2025-06-04T14:54:46.612Z"
+  },
+  {
+    "title": "suisse:::Le parlement approuve l’interdiction de la vente de puffs en Suisse",
+    "added_at": "2025-06-04T15:12:29.379Z"
+  },
+  {
+    "title": "economie:::Dans les Alpes, les prix de l’immobilier poursuivent leur ascension mais à un rythme plus modéré",
+    "added_at": "2025-06-04T15:43:47.015Z"
   }
 ]
