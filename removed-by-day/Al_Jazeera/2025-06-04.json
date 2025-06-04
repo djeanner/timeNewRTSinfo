@@ -72,8 +72,9 @@
   {
     "title": "Israel stops food distribution for whole day in Gaza amid starvation",
     "added_at": "2025-06-04T06:39:56.139Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-04T08:13:58.847Z",
+    "duration_minutes": 94,
+    "duration_str": "1h 34m"
   },
   {
     "title": "Hunger and bullets: Palestinians recall Gaza aid massacre horror",
@@ -84,6 +85,19 @@
   {
     "title": "Iran’s Khamenei slams US nuclear proposal, vows to keep enriching uranium",
     "added_at": "2025-06-04T07:38:44.716Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Israel kills 26 people across Gaza, stops aid distribution for whole day",
+    "added_at": "2025-06-04T08:13:58.847Z",
+    "removed_at": "2025-06-04T08:29:38.138Z",
+    "duration_minutes": 16,
+    "duration_str": "16m"
+  },
+  {
+    "title": "Israel kills 26 people in Gaza, stops aid distribution for whole day",
+    "added_at": "2025-06-04T08:29:38.138Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
