@@ -15066,7 +15066,10 @@
   },
   {
     "title": "L'Etna crache un énorme panache de cendres et de gaz",
-    "added_at": "2025-06-02T15:17:13.054Z"
+    "added_at": "2025-06-02T15:17:13.054Z",
+    "removed_at": "2025-06-04T19:29:08.503Z",
+    "duration_minutes": 3131,
+    "duration_str": "2d 4h 11m"
   },
   {
     "title": "Des activistes volent la statue de Macron au musée Grévin et la déposent devant l'ambassade de Russie",
@@ -15197,7 +15200,10 @@
   },
   {
     "title": "Ukrainiens et Russes entament à Istanbul de nouveaux pourparlers de paix",
-    "added_at": "2025-06-03T01:10:57.186Z"
+    "added_at": "2025-06-03T01:10:57.186Z",
+    "removed_at": "2025-06-04T19:29:08.503Z",
+    "duration_minutes": 2538,
+    "duration_str": "1d 18h 18m"
   },
   {
     "title": "Tout \"enrichissement d'uranium\" en Iran exclu par Donald Trump",
@@ -15328,7 +15334,10 @@
   },
   {
     "title": "Après un mois d'avril désastreux, les bourses ont fortement rebondi en mai",
-    "added_at": "2025-06-03T11:16:22.461Z"
+    "added_at": "2025-06-03T11:16:22.461Z",
+    "removed_at": "2025-06-04T19:31:02.148Z",
+    "duration_minutes": 1934,
+    "duration_str": "1d 8h 14m"
   },
   {
     "title": "La Corée du Sud élit son nouveau président pour tourner la page de la loi martiale",
@@ -15503,10 +15512,7 @@
   },
   {
     "title": "Roland Garros: la française Loïs Boisson en quart de finale",
-    "added_at": "2025-06-03T18:12:54.576Z",
-    "removed_at": "2025-06-04T18:28:15.977Z",
-    "duration_minutes": 1455,
-    "duration_str": "1d 15m"
+    "added_at": "2025-06-03T18:12:54.576Z"
   },
   {
     "title": "Un vaste réseau de trafic d'êtres humains démantelé en Suisse",
@@ -15592,10 +15598,7 @@
   },
   {
     "title": "Suite à une lave torrentielle, le village de Lourtier à nouveau coupé du monde",
-    "added_at": "2025-06-04T08:13:58.447Z",
-    "removed_at": "2025-06-04T10:15:25.597Z",
-    "duration_minutes": 121,
-    "duration_str": "2h 1m"
+    "added_at": "2025-06-04T08:13:58.447Z"
   },
   {
     "title": "Budget supplémentaire de 666 millions pour la participation à Horizon Europe validé",
@@ -15752,6 +15755,17 @@
   },
   {
     "title": "Curabilis, l’unique prison psychiatrique romande en crise à cause d’un manque chronique de personnel",
-    "added_at": "2025-06-04T18:49:52.687Z"
+    "added_at": "2025-06-04T18:49:52.687Z",
+    "removed_at": "2025-06-04T20:16:03.305Z",
+    "duration_minutes": 86,
+    "duration_str": "1h 26m"
+  },
+  {
+    "title": "\"Vérité alternative\", \"propagande\", \"hasardeux\": les propos d'Ignazio Cassis sur Gaza font vivement réagir",
+    "added_at": "2025-06-04T19:31:02.148Z"
+  },
+  {
+    "title": "Curabilis, l’unique prison psychiatrique romande, en crise à cause d’un manque chronique de personnel",
+    "added_at": "2025-06-04T20:16:03.305Z"
   }
 ]
