@@ -6322,10 +6322,7 @@
   },
   {
     "title": "monde:::Comment Israël viole les Conventions de Genève à Gaza",
-    "added_at": "2025-05-16T16:34:15.481Z",
-    "removed_at": "2025-05-26T13:49:06.231Z",
-    "duration_minutes": 14234,
-    "duration_str": "9d 21h 14m"
+    "added_at": "2025-05-16T16:34:15.481Z"
   },
   {
     "title": "culture:::Festival de Cannes, jour 4: deux cinéastes iraniens aux choix opposés dans la course à la Palme d’or",
@@ -11054,7 +11051,10 @@
   },
   {
     "title": "suisse:::Dans le Lötschental, des technologies de pointe pour connaître les humeurs de la nature en temps réel",
-    "added_at": "2025-06-03T17:51:14.869Z"
+    "added_at": "2025-06-03T17:51:14.869Z",
+    "removed_at": "2025-06-04T15:59:32.305Z",
+    "duration_minutes": 1328,
+    "duration_str": "22h 8m"
   },
   {
     "title": "monde:::La distribution d’aide à Gaza tourne à nouveau au carnage",
@@ -11155,7 +11155,10 @@
   },
   {
     "title": "sciences:::Florence Magnin, géomorphologue: «Depuis 2015, on est passé dans un nouveau régime, avec beaucoup plus d’éboulements dans les Alpes»",
-    "added_at": "2025-06-04T10:31:00.569Z"
+    "added_at": "2025-06-04T10:31:00.569Z",
+    "removed_at": "2025-06-04T15:59:32.305Z",
+    "duration_minutes": 328,
+    "duration_str": "5h 28m"
   },
   {
     "title": "culture:::Dans le film «Here», humains qui marchent ramassent mousse",
@@ -11199,7 +11202,10 @@
   },
   {
     "title": "sciences:::Des aires marines vraiment protégées, enjeu majeur de la Conférence des nations unies sur l’océan",
-    "added_at": "2025-06-04T14:41:08.209Z"
+    "added_at": "2025-06-04T14:41:08.209Z",
+    "removed_at": "2025-06-04T16:05:23.341Z",
+    "duration_minutes": 84,
+    "duration_str": "1h 24m"
   },
   {
     "title": "sport:::Nouvel exploit pour Loïs Boisson qui s’envole en demie-finale de Roland-Garros",
@@ -11230,5 +11236,13 @@
   {
     "title": "economie:::Dans les Alpes, les prix de l’immobilier poursuivent leur ascension mais à un rythme plus modéré",
     "added_at": "2025-06-04T15:43:47.015Z"
+  },
+  {
+    "title": "suisse:::«Le dossier de Gaza doit être retiré à Ignazio Cassis»",
+    "added_at": "2025-06-04T15:59:32.305Z"
+  },
+  {
+    "title": "sciences:::Des aires marines vraiment protégées, enjeu majeur de la Conférence des Nations unies sur l’océan",
+    "added_at": "2025-06-04T16:05:23.341Z"
   }
 ]
