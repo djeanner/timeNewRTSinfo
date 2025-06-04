@@ -10959,7 +10959,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Kiev revendique une attaque contre le pont de Crimée",
-    "added_at": "2025-06-03T12:22:47.565Z"
+    "added_at": "2025-06-03T12:22:47.565Z",
+    "removed_at": "2025-06-04T02:23:46.977Z",
+    "duration_minutes": 840,
+    "duration_str": "14h"
   },
   {
     "title": "monde:::En Pologne, le moment de vérité pour Donald Tusk",
@@ -11031,5 +11034,9 @@
   {
     "title": "culture:::Catherine Simonpietri: «L’Ensemble Sequenza 9.3 est un laboratoire»",
     "added_at": "2025-06-03T20:04:24.299Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Kiev dénonce les «ultimatums» irréalistes de Moscou",
+    "added_at": "2025-06-04T02:23:46.977Z"
   }
 ]
