@@ -12329,7 +12329,10 @@
   },
   {
     "title": "Bras de fer financier entre Coca-Cola et Denner",
-    "added_at": "2025-06-02T02:50:00.019Z"
+    "added_at": "2025-06-02T02:50:00.019Z",
+    "removed_at": "2025-06-04T06:15:24.986Z",
+    "duration_minutes": 3085,
+    "duration_str": "2d 3h 25m"
   },
   {
     "title": "Six blessés dans une attaque lors d'une manifestation pour les otages israéliens au Colorado",
@@ -12430,7 +12433,10 @@
   },
   {
     "title": "Attaques de drones réciproques entre Kiev et Moscou, à quelques heures de nouveaux pourparlers",
-    "added_at": "2025-06-02T09:17:56.356Z"
+    "added_at": "2025-06-02T09:17:56.356Z",
+    "removed_at": "2025-06-04T05:33:59.256Z",
+    "duration_minutes": 2656,
+    "duration_str": "1d 20h 16m"
   },
   {
     "title": "Le taux hypothécaire de référence reste inchangé en juin",
@@ -12474,11 +12480,17 @@
   },
   {
     "title": "Skyguide réduit les atterrissages de 20% à Cointrin à la suite de pannes de radar",
-    "added_at": "2025-06-02T10:55:57.928Z"
+    "added_at": "2025-06-02T10:55:57.928Z",
+    "removed_at": "2025-06-04T04:41:11.412Z",
+    "duration_minutes": 2505,
+    "duration_str": "1d 17h 45m"
   },
   {
     "title": "Plaques de voiture, système scolaire, naturalisations: sept accords adoptés en vue de l'arrivée de Moutier dans le Jura",
-    "added_at": "2025-06-02T11:03:32.850Z"
+    "added_at": "2025-06-02T11:03:32.850Z",
+    "removed_at": "2025-06-04T06:00:19.883Z",
+    "duration_minutes": 2576,
+    "duration_str": "1d 18h 56m"
   },
   {
     "title": "Le Service suisse d'enquête de sécurité a rendu ses conclusions après l'accident ferroviaire dans le Gothard",
@@ -12486,7 +12498,10 @@
   },
   {
     "title": "L'audit blanchit la direction du Service de l'enseignement obligatoire de Fribourg des accusations de harcèlement",
-    "added_at": "2025-06-02T12:11:22.150Z"
+    "added_at": "2025-06-02T12:11:22.150Z",
+    "removed_at": "2025-06-04T06:36:11.759Z",
+    "duration_minutes": 2544,
+    "duration_str": "1d 18h 24m"
   },
   {
     "title": "Taxes américaines, 13e rente AVS ou redevance radio-TV au menu de la session d'été des Chambres fédérales",
@@ -12624,10 +12639,7 @@
   },
   {
     "title": "Reportage sur les actions de solidarités envers les villageois de Blatten en Valais",
-    "added_at": "2025-06-02T19:13:48.384Z",
-    "removed_at": "2025-06-04T04:14:43.771Z",
-    "duration_minutes": 1980,
-    "duration_str": "1d 9h"
+    "added_at": "2025-06-02T19:13:48.384Z"
   },
   {
     "title": "Week-end chaotique en Allemagne, où les GPS ont perdu le nord",
@@ -12994,5 +13006,35 @@
   {
     "title": "Le spectre des droits de douane américains mine les perspectives des PME suisses",
     "added_at": "2025-06-04T01:36:16.197Z"
+  },
+  {
+    "title": "\"Tout mon corps se met à trembler\": les écoles confrontées aux crises d'angoisse des étudiants lors des examens",
+    "added_at": "2025-06-04T04:41:11.412Z"
+  },
+  {
+    "title": "La chanteuse française Nicole Croisille est décédée à 88 ans",
+    "added_at": "2025-06-04T05:33:59.256Z"
+  },
+  {
+    "title": "Les tensions commerciales entre Pékin et Washington subsistent malgré la trêve",
+    "added_at": "2025-06-04T06:00:19.883Z"
+  },
+  {
+    "title": "Donald Trump double la surtaxe sur l'acier et l'aluminium, avant des négociations à Paris",
+    "added_at": "2025-06-04T06:36:11.759Z",
+    "removed_at": "2025-06-04T06:39:55.396Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "Donald Trump passe la surtaxe sur l'acier et l'aluminium à 50%, avant des négociations à Paris",
+    "added_at": "2025-06-04T06:39:55.396Z",
+    "removed_at": "2025-06-04T06:41:51.048Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Donald Trump passe à 50% la surtaxe sur l'acier et l'aluminium, avant des négociations à Paris",
+    "added_at": "2025-06-04T06:41:51.048Z"
   }
 ]
