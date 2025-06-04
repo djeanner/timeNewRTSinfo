@@ -14998,11 +14998,17 @@
   },
   {
     "title": "La compagnie Swiss a déménagé son siège de Bâle à Kloten",
-    "added_at": "2025-06-02T13:31:54.700Z"
+    "added_at": "2025-06-02T13:31:54.700Z",
+    "removed_at": "2025-06-04T10:03:42.513Z",
+    "duration_minutes": 2671,
+    "duration_str": "1d 20h 31m"
   },
   {
     "title": "Le canton de Vaud envisage un grand complexe administratif à Prilly",
-    "added_at": "2025-06-02T13:45:40.625Z"
+    "added_at": "2025-06-02T13:45:40.625Z",
+    "removed_at": "2025-06-04T10:03:42.513Z",
+    "duration_minutes": 2658,
+    "duration_str": "1d 20h 18m"
   },
   {
     "title": "Immersion au sein du service fédéral de sécurité, les gardiens du pouvoir suisse",
@@ -15020,7 +15026,10 @@
   },
   {
     "title": "Jean-Pierre Dionnet, itinéraire d'une figure de la contre-culture entre succès et excès",
-    "added_at": "2025-06-02T14:34:21.689Z"
+    "added_at": "2025-06-02T14:34:21.689Z",
+    "removed_at": "2025-06-04T10:11:27.682Z",
+    "duration_minutes": 2617,
+    "duration_str": "1d 19h 37m"
   },
   {
     "title": "Les pourparlers entre l'Ukraine et la Russie tournent court à Istanbul",
@@ -15028,7 +15037,10 @@
   },
   {
     "title": "Une boutique pour le bien être féminin, les vertus du silence et une BD sur l'impact de l'IA",
-    "added_at": "2025-06-02T14:59:42.192Z"
+    "added_at": "2025-06-02T14:59:42.192Z",
+    "removed_at": "2025-06-04T10:23:11.054Z",
+    "duration_minutes": 2603,
+    "duration_str": "1d 19h 23m"
   },
   {
     "title": "Forum des médias - Blatten et la peur dans la montagne",
@@ -15411,10 +15423,7 @@
   },
   {
     "title": "Vaste réseau de trafic d'êtres humains démantelé en Suisse",
-    "added_at": "2025-06-03T17:49:20.965Z",
-    "removed_at": "2025-06-03T18:52:00.843Z",
-    "duration_minutes": 62,
-    "duration_str": "1h 2m"
+    "added_at": "2025-06-03T17:49:20.965Z"
   },
   {
     "title": "Décès d'un Nigérian au poste de police. Les proches de la victime témoignent",
@@ -15511,7 +15520,10 @@
   },
   {
     "title": "Suite à une lave torrentielle, le village de Lourtier à nouveau coupé du monde",
-    "added_at": "2025-06-04T08:13:58.447Z"
+    "added_at": "2025-06-04T08:13:58.447Z",
+    "removed_at": "2025-06-04T10:15:25.597Z",
+    "duration_minutes": 121,
+    "duration_str": "2h 1m"
   },
   {
     "title": "Budget supplémentaire de 666 millions pour la participation à Horizon Europe validé",
@@ -15520,5 +15532,25 @@
   {
     "title": "Le nouveau logo de l'Université de Lausanne fait grincer des dents",
     "added_at": "2025-06-04T09:36:11.183Z"
+  },
+  {
+    "title": "Le canton de Vaud a créé 427 places de crèche en 2024, mais la pénurie persiste",
+    "added_at": "2025-06-04T10:03:42.513Z"
+  },
+  {
+    "title": "\"Gnocchi\", une vie théâtrale gourmande dans un appartement à vider",
+    "added_at": "2025-06-04T10:03:42.513Z"
+  },
+  {
+    "title": "St-Moritz, Verbier et Zermatt au top des stations alpines les plus chères pour se loger",
+    "added_at": "2025-06-04T10:11:27.682Z"
+  },
+  {
+    "title": "Publication du rapport commandé par l'UNIGE sur son rôle dans le débat public",
+    "added_at": "2025-06-04T10:15:25.597Z"
+  },
+  {
+    "title": "Le journaliste Philippe Labro est mort à 88 ans",
+    "added_at": "2025-06-04T10:19:17.430Z"
   }
 ]

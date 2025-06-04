@@ -11056,10 +11056,7 @@
   },
   {
     "title": "culture:::«John & Yoko», deux artistes en guerre contre Richard Nixon",
-    "added_at": "2025-06-03T20:04:24.299Z",
-    "removed_at": "2025-06-04T07:21:11.211Z",
-    "duration_minutes": 676,
-    "duration_str": "11h 16m"
+    "added_at": "2025-06-03T20:04:24.299Z"
   },
   {
     "title": "culture:::Catherine Simonpietri: «L’Ensemble Sequenza 9.3 est un laboratoire»",
@@ -11103,7 +11100,10 @@
   },
   {
     "title": "culture:::Nicole Croisille disparaît et avec elle, son célèbre «chabadabada»",
-    "added_at": "2025-06-04T07:07:33.629Z"
+    "added_at": "2025-06-04T07:07:33.629Z",
+    "removed_at": "2025-06-04T10:31:00.569Z",
+    "duration_minutes": 203,
+    "duration_str": "3h 23m"
   },
   {
     "title": "sport:::Que se passerait-il si le 50e mondial de tennis et le 150e mondial échangeaient leurs places? Rien, sans doute",
@@ -11119,6 +11119,21 @@
   },
   {
     "title": "economie:::La banque cantonale zurichoise tente d’imposer des obligations contractuelles aux journalistes, puis fait marche arrière",
-    "added_at": "2025-06-04T08:55:04.057Z"
+    "added_at": "2025-06-04T08:55:04.057Z",
+    "removed_at": "2025-06-04T10:07:34.249Z",
+    "duration_minutes": 72,
+    "duration_str": "1h 12m"
+  },
+  {
+    "title": "economie:::La Banque cantonale de Zurich tente d’imposer des obligations contractuelles aux journalistes, puis fait marche arrière",
+    "added_at": "2025-06-04T10:07:34.249Z"
+  },
+  {
+    "title": "suisse:::Les recours contre l’élection à l’exécutif de Vernier sont rejetés",
+    "added_at": "2025-06-04T10:31:00.569Z"
+  },
+  {
+    "title": "sciences:::Florence Magnin, géomorphologue: «Depuis 2015, on est passé dans un nouveau régime, avec beaucoup plus d’éboulements dans les Alpes»",
+    "added_at": "2025-06-04T10:31:00.569Z"
   }
 ]
