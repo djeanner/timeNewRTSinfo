@@ -10790,7 +10790,10 @@
   },
   {
     "title": "sport:::Les débuts de Boisson enivrent Roland-Garros",
-    "added_at": "2025-06-02T18:38:19.822Z"
+    "added_at": "2025-06-02T18:38:19.822Z",
+    "removed_at": "2025-06-04T06:28:21.506Z",
+    "duration_minutes": 2150,
+    "duration_str": "1d 11h 50m"
   },
   {
     "title": "economie:::La chute du dollar entraîne des pertes importantes chez des clients d’UBS",
@@ -10836,11 +10839,17 @@
   },
   {
     "title": "suisse:::A Genève, des dysfonctionnements sécuritaires mettent en péril la mission thérapeutique de Curabilis",
-    "added_at": "2025-06-03T04:14:24.443Z"
+    "added_at": "2025-06-03T04:14:24.443Z",
+    "removed_at": "2025-06-04T06:28:21.506Z",
+    "duration_minutes": 1573,
+    "duration_str": "1d 2h 13m"
   },
   {
     "title": "suisse:::Curabilis, le vaisseau à préserver d’un naufrage",
-    "added_at": "2025-06-03T04:14:24.443Z"
+    "added_at": "2025-06-03T04:14:24.443Z",
+    "removed_at": "2025-06-04T06:20:35.211Z",
+    "duration_minutes": 1566,
+    "duration_str": "1d 2h 6m"
   },
   {
     "title": "suisse:::Dans le Lötschental sinistré, le silence pudique des montagnards face à la vague médiatique",
@@ -10883,7 +10892,10 @@
   },
   {
     "title": "suisse:::A Genève, Arnaud Bürgin prend la tête du lobby des entreprises: «L’économie est entrée dans une période trouble»",
-    "added_at": "2025-06-03T07:10:05.397Z"
+    "added_at": "2025-06-03T07:10:05.397Z",
+    "removed_at": "2025-06-04T06:28:21.506Z",
+    "duration_minutes": 1398,
+    "duration_str": "23h 18m"
   },
   {
     "title": "sciences:::Jean-Pierre Gattuso: «L’océan se réchauffe en moyenne deux fois plus vite qu’il y a 20 ans»",
@@ -10994,21 +11006,18 @@
   },
   {
     "title": "suisse:::«La situation est inadmissible»: la Commission de gestion règle ses comptes avec le Conseil d’Etat vaudois",
-    "added_at": "2025-06-03T13:25:22.767Z",
-    "removed_at": "2025-06-03T20:04:24.299Z",
-    "duration_minutes": 399,
-    "duration_str": "6h 39m"
+    "added_at": "2025-06-03T13:25:22.767Z"
   },
   {
     "title": "suisse:::Dans la plus grande gabegie, l’Université de Genève dénonce ses partenariats en Israël",
-    "added_at": "2025-06-03T14:04:26.835Z",
-    "removed_at": "2025-06-04T04:38:48.678Z",
-    "duration_minutes": 874,
-    "duration_str": "14h 34m"
+    "added_at": "2025-06-03T14:04:26.835Z"
   },
   {
     "title": "suisse:::A Genève, la nouvelle loi sur la mendicité transformée en véritable casse-tête judiciaire",
-    "added_at": "2025-06-03T14:16:09.428Z"
+    "added_at": "2025-06-03T14:16:09.428Z",
+    "removed_at": "2025-06-04T07:03:29.277Z",
+    "duration_minutes": 1007,
+    "duration_str": "16h 47m"
   },
   {
     "title": "suisse:::L’imposition individuelle des couples mariés passe la rampe du parlement. Et après?",
@@ -11034,7 +11043,10 @@
   },
   {
     "title": "monde:::La distribution d’aide à Gaza tourne à nouveau au carnage",
-    "added_at": "2025-06-03T18:08:57.896Z"
+    "added_at": "2025-06-03T18:08:57.896Z",
+    "removed_at": "2025-06-04T06:18:35.000Z",
+    "duration_minutes": 729,
+    "duration_str": "12h 9m"
   },
   {
     "title": "culture:::«John & Yoko», deux artistes en guerre contre Richard Nixon",
@@ -11069,5 +11081,9 @@
   {
     "title": "economie:::À Genève, Socar Trading veut peser plus lourd dans le négoce pétrolier et gazier",
     "added_at": "2025-06-04T05:19:52.797Z"
+  },
+  {
+    "title": "monde:::Au procès de Mazan, un seul des 51 condamnés aurait fait appel",
+    "added_at": "2025-06-04T06:28:21.506Z"
   }
 ]

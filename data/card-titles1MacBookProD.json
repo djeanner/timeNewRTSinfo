@@ -14772,7 +14772,10 @@
   },
   {
     "title": "Bras de fer financier entre Coca-Cola et Denner",
-    "added_at": "2025-06-02T02:49:30.875Z"
+    "added_at": "2025-06-02T02:49:30.875Z",
+    "removed_at": "2025-06-04T06:16:37.019Z",
+    "duration_minutes": 3087,
+    "duration_str": "2d 3h 27m"
   },
   {
     "title": "Six blessés dans une attaque lors d'une manifestation pour les otages israéliens au Colorado",
@@ -14931,7 +14934,10 @@
   },
   {
     "title": "L'audit blanchit la direction du Service de l'enseignement obligatoire de Fribourg des accusations de harcèlement",
-    "added_at": "2025-06-02T12:11:07.302Z"
+    "added_at": "2025-06-02T12:11:07.302Z",
+    "removed_at": "2025-06-04T06:36:10.808Z",
+    "duration_minutes": 2545,
+    "duration_str": "1d 18h 25m"
   },
   {
     "title": "Taxes américaines, 13e rente AVS ou redevance radio-TV au menu de la session d'été des Chambres fédérales",
@@ -15069,10 +15075,7 @@
   },
   {
     "title": "Reportage sur les actions de solidarités envers les villageois de Blatten en Valais",
-    "added_at": "2025-06-02T19:13:32.294Z",
-    "removed_at": "2025-06-04T04:15:15.594Z",
-    "duration_minutes": 1981,
-    "duration_str": "1d 9h 1m"
+    "added_at": "2025-06-02T19:13:32.294Z"
   },
   {
     "title": "Week-end chaotique en Allemagne, où les GPS ont perdu le nord",
@@ -15451,5 +15454,23 @@
   {
     "title": "Les tensions commerciales entre Pékin et Washington subsistent malgré la trêve",
     "added_at": "2025-06-04T05:58:55.448Z"
+  },
+  {
+    "title": "Donald Trump double la surtaxe sur l'acier et l'aluminium, avant des négociations à Paris",
+    "added_at": "2025-06-04T06:36:10.808Z",
+    "removed_at": "2025-06-04T06:40:04.357Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "Donald Trump passe la surtaxe sur l'acier et l'aluminium à 50%, avant des négociations à Paris",
+    "added_at": "2025-06-04T06:40:04.357Z",
+    "removed_at": "2025-06-04T06:42:02.062Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Donald Trump passe à 50% la surtaxe sur l'acier et l'aluminium, avant des négociations à Paris",
+    "added_at": "2025-06-04T06:42:02.062Z"
   }
 ]
