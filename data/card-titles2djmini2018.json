@@ -4530,10 +4530,7 @@
   },
   {
     "title": "monde:::Comment Israël viole les Conventions de Genève à Gaza",
-    "added_at": "2025-05-16T16:33:11.217Z",
-    "removed_at": "2025-05-26T13:50:09.251Z",
-    "duration_minutes": 14236,
-    "duration_str": "9d 21h 16m"
+    "added_at": "2025-05-16T16:33:11.217Z"
   },
   {
     "title": "culture:::Festival de Cannes, jour 4: deux cinéastes iraniens aux choix opposés dans la course à la Palme d’or",
@@ -9976,7 +9973,10 @@
   },
   {
     "title": "suisse:::Dans le Lötschental, des technologies de pointe pour connaître les humeurs de la nature en temps réel",
-    "added_at": "2025-06-03T17:52:20.411Z"
+    "added_at": "2025-06-03T17:52:20.411Z",
+    "removed_at": "2025-06-04T15:59:22.771Z",
+    "duration_minutes": 1327,
+    "duration_str": "22h 7m"
   },
   {
     "title": "monde:::La distribution d’aide à Gaza tourne à nouveau au carnage",
@@ -10020,7 +10020,10 @@
   },
   {
     "title": "economie:::À Genève, Socar Trading veut peser plus lourd dans le négoce pétrolier et gazier",
-    "added_at": "2025-06-04T05:18:51.156Z"
+    "added_at": "2025-06-04T05:18:51.156Z",
+    "removed_at": "2025-06-04T14:42:08.607Z",
+    "duration_minutes": 563,
+    "duration_str": "9h 23m"
   },
   {
     "title": "monde:::Au procès de Mazan, un seul des 51 condamnés aurait fait appel",
@@ -10067,11 +10070,17 @@
   },
   {
     "title": "suisse:::Les recours contre l’élection à l’exécutif de Vernier sont rejetés",
-    "added_at": "2025-06-04T10:29:57.254Z"
+    "added_at": "2025-06-04T10:29:57.254Z",
+    "removed_at": "2025-06-04T14:40:14.401Z",
+    "duration_minutes": 250,
+    "duration_str": "4h 10m"
   },
   {
     "title": "sciences:::Florence Magnin, géomorphologue: «Depuis 2015, on est passé dans un nouveau régime, avec beaucoup plus d’éboulements dans les Alpes»",
-    "added_at": "2025-06-04T10:31:51.100Z"
+    "added_at": "2025-06-04T10:31:51.100Z",
+    "removed_at": "2025-06-04T15:59:22.771Z",
+    "duration_minutes": 327,
+    "duration_str": "5h 27m"
   },
   {
     "title": "culture:::Dans le film «Here», humains qui marchent ramassent mousse",
@@ -10093,14 +10102,17 @@
   },
   {
     "title": "suisse:::Le conseil des Etats interdit la vente des puffs en Suisse",
-    "added_at": "2025-06-04T11:34:09.763Z"
+    "added_at": "2025-06-04T11:34:09.763Z",
+    "removed_at": "2025-06-04T15:12:18.783Z",
+    "duration_minutes": 218,
+    "duration_str": "3h 38m"
   },
   {
     "title": "culture:::Mort du journaliste et écrivain Philippe Labro, l’Amérique au cœur",
     "added_at": "2025-06-04T12:00:30.344Z",
-    "removed_at": "2025-06-04T13:36:04.806Z",
-    "duration_minutes": 95,
-    "duration_str": "1h 35m"
+    "removed_at": "2025-06-04T14:53:27.115Z",
+    "duration_minutes": 172,
+    "duration_str": "2h 52m"
   },
   {
     "title": "cyber:::La Nintendo Switch 2, symptôme d’une industrie du jeu vidéo en pleine surenchère tarifaire",
@@ -10109,5 +10121,50 @@
   {
     "title": "culture:::Cette année, le Festival de la Cité prend de la hauteur",
     "added_at": "2025-06-04T13:36:04.806Z"
+  },
+  {
+    "title": "sciences:::Des aires marines vraiment protégées, enjeu majeur de la Conférence des nations unies sur l’océan",
+    "added_at": "2025-06-04T14:40:14.401Z",
+    "removed_at": "2025-06-04T16:05:01.758Z",
+    "duration_minutes": 84,
+    "duration_str": "1h 24m"
+  },
+  {
+    "title": "sport:::Nouvel exploit pour Loïs Boisson qui s’envole en demie-finale de Roland-Garros",
+    "added_at": "2025-06-04T14:42:08.607Z",
+    "removed_at": "2025-06-04T14:44:04.661Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "sport:::Nouvel exploit pour Loïs Boisson qui s’envole en demi-finale de Roland-Garros",
+    "added_at": "2025-06-04T14:44:04.661Z",
+    "removed_at": "2025-06-04T15:44:19.586Z",
+    "duration_minutes": 60,
+    "duration_str": "1h"
+  },
+  {
+    "title": "monde:::Friedrich Merz entame une délicate visite à Washington",
+    "added_at": "2025-06-04T14:53:27.115Z"
+  },
+  {
+    "title": "suisse:::10 millions de francs et des mesures extraordinaires pour les habitants de Blatten",
+    "added_at": "2025-06-04T14:55:22.614Z"
+  },
+  {
+    "title": "suisse:::Le parlement approuve l’interdiction de la vente de puffs en Suisse",
+    "added_at": "2025-06-04T15:12:18.783Z"
+  },
+  {
+    "title": "economie:::Dans les Alpes, les prix de l’immobilier poursuivent leur ascension mais à un rythme plus modéré",
+    "added_at": "2025-06-04T15:44:19.586Z"
+  },
+  {
+    "title": "suisse:::«Le dossier de Gaza doit être retiré à Ignazio Cassis»",
+    "added_at": "2025-06-04T15:59:22.771Z"
+  },
+  {
+    "title": "sciences:::Des aires marines vraiment protégées, enjeu majeur de la Conférence des Nations unies sur l’océan",
+    "added_at": "2025-06-04T16:05:01.758Z"
   }
 ]
