@@ -12630,7 +12630,10 @@
   },
   {
     "title": "L'Etna crache un énorme panache de cendres et de gaz",
-    "added_at": "2025-06-02T15:18:06.893Z"
+    "added_at": "2025-06-02T15:18:06.893Z",
+    "removed_at": "2025-06-04T19:28:51.487Z",
+    "duration_minutes": 3130,
+    "duration_str": "2d 4h 10m"
   },
   {
     "title": "Des activistes volent la statue de Macron au musée Grévin et la déposent devant l'ambassade de Russie",
@@ -12761,7 +12764,10 @@
   },
   {
     "title": "Ukrainiens et Russes entament à Istanbul de nouveaux pourparlers de paix",
-    "added_at": "2025-06-03T01:09:51.956Z"
+    "added_at": "2025-06-03T01:09:51.956Z",
+    "removed_at": "2025-06-04T19:28:51.487Z",
+    "duration_minutes": 2538,
+    "duration_str": "1d 18h 18m"
   },
   {
     "title": "Tout \"enrichissement d'uranium\" en Iran exclu par Donald Trump",
@@ -12818,7 +12824,10 @@
   },
   {
     "title": "En plein essor, les tours redessinent la silhouette urbaine de Genève",
-    "added_at": "2025-06-03T07:54:29.943Z"
+    "added_at": "2025-06-03T07:54:29.943Z",
+    "removed_at": "2025-06-04T18:49:17.430Z",
+    "duration_minutes": 2094,
+    "duration_str": "1d 10h 54m"
   },
   {
     "title": "Un bug de Google Maps a provoqué le chaos sur les routes allemandes",
@@ -12889,7 +12898,10 @@
   },
   {
     "title": "Après un mois d'avril désastreux, les bourses ont fortement rebondi en mai",
-    "added_at": "2025-06-03T11:16:12.124Z"
+    "added_at": "2025-06-03T11:16:12.124Z",
+    "removed_at": "2025-06-04T19:30:45.288Z",
+    "duration_minutes": 1934,
+    "duration_str": "1d 8h 14m"
   },
   {
     "title": "La Corée du Sud élit son nouveau président pour tourner la page de la loi martiale",
@@ -12900,7 +12912,10 @@
   },
   {
     "title": "Pierre Nora, historien, éditeur et académicien français est mort à 93 ans",
-    "added_at": "2025-06-03T11:57:38.908Z"
+    "added_at": "2025-06-03T11:57:38.908Z",
+    "removed_at": "2025-06-04T20:27:15.151Z",
+    "duration_minutes": 1949,
+    "duration_str": "1d 8h 29m"
   },
   {
     "title": "En Corée du Sud, triomphe du candidat de centre gauche Lee Jae-myung",
@@ -13064,10 +13079,7 @@
   },
   {
     "title": "Roland Garros: la française Loïs Boisson en quart de finale",
-    "added_at": "2025-06-03T18:13:02.069Z",
-    "removed_at": "2025-06-04T18:28:26.253Z",
-    "duration_minutes": 1455,
-    "duration_str": "1d 15m"
+    "added_at": "2025-06-03T18:13:02.069Z"
   },
   {
     "title": "Un vaste réseau de trafic d'êtres humains démantelé en Suisse",
@@ -13153,10 +13165,7 @@
   },
   {
     "title": "Suite à une lave torrentielle, le village de Lourtier à nouveau coupé du monde",
-    "added_at": "2025-06-04T08:14:12.195Z",
-    "removed_at": "2025-06-04T10:16:49.238Z",
-    "duration_minutes": 122,
-    "duration_str": "2h 2m"
+    "added_at": "2025-06-04T08:14:12.195Z"
   },
   {
     "title": "Budget supplémentaire de 666 millions pour la participation à Horizon Europe validé",
@@ -13310,5 +13319,24 @@
   {
     "title": "Quelque 2500 fonctionnaires dans la rue à Fribourg contre les vastes économies du Conseil d'Etat",
     "added_at": "2025-06-04T18:36:01.047Z"
+  },
+  {
+    "title": "Curabilis, l’unique prison psychiatrique romande en crise à cause d’un manque chronique de personnel",
+    "added_at": "2025-06-04T18:49:17.430Z",
+    "removed_at": "2025-06-04T20:15:56.043Z",
+    "duration_minutes": 86,
+    "duration_str": "1h 26m"
+  },
+  {
+    "title": "\"Vérité alternative\", \"propagande\", \"hasardeux\": les propos d'Ignazio Cassis sur Gaza font vivement réagir",
+    "added_at": "2025-06-04T19:30:45.288Z"
+  },
+  {
+    "title": "Curabilis, l’unique prison psychiatrique romande, en crise à cause d’un manque chronique de personnel",
+    "added_at": "2025-06-04T20:15:56.043Z"
+  },
+  {
+    "title": "Décès de Jeanne Lovis, l'une des premières femmes à présenter le Téléjournal",
+    "added_at": "2025-06-04T20:27:15.151Z"
   }
 ]
