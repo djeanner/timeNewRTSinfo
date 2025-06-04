@@ -14910,7 +14910,10 @@
   },
   {
     "title": "Skyguide réduit les atterrissages de 20% à Cointrin à la suite de pannes de radar",
-    "added_at": "2025-06-02T10:56:46.793Z"
+    "added_at": "2025-06-02T10:56:46.793Z",
+    "removed_at": "2025-06-04T04:40:48.322Z",
+    "duration_minutes": 2504,
+    "duration_str": "1d 17h 44m"
   },
   {
     "title": "Plaques de voiture, système scolaire, naturalisations: sept accords adoptés en vue de l'arrivée de Moutier dans le Jura",
@@ -15430,5 +15433,9 @@
   {
     "title": "Le spectre des droits de douane américains mine les perspectives des PME suisses",
     "added_at": "2025-06-04T01:36:50.545Z"
+  },
+  {
+    "title": "\"Tout mon corps se met à trembler\": les écoles confrontées aux crises d'angoisse des étudiants lors des examens",
+    "added_at": "2025-06-04T04:40:48.322Z"
   }
 ]
