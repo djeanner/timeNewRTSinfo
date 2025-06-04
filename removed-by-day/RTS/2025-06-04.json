@@ -64,8 +64,9 @@
   {
     "title": "Suite à une lave torrentielle, le village de Lourtier à nouveau coupé du monde",
     "added_at": "2025-06-04T08:13:58.447Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-04T22:29:12.362Z",
+    "duration_minutes": 855,
+    "duration_str": "14h 15m"
   },
   {
     "title": "Budget supplémentaire de 666 millions pour la participation à Horizon Europe validé",
@@ -335,6 +336,12 @@
   {
     "title": "L'inflation en Suisse bascule en territoire négatif entre mai 2024 et mai 2025, annonce l'OFS",
     "added_at": "2025-06-04T21:30:29.605Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Le Conseil des Etats adopte un compromis sur le projet de taxation individuelle",
+    "added_at": "2025-06-04T22:29:12.362Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
