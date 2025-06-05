@@ -8881,7 +8881,10 @@
   },
   {
     "title": "suisse:::«Notre avenir est ici et seulement ici»: dans le Lötschental, l’espoir renaît",
-    "added_at": "2025-05-30T18:31:20.073Z"
+    "added_at": "2025-05-30T18:31:20.073Z",
+    "removed_at": "2025-06-05T16:04:59.293Z",
+    "duration_minutes": 8493,
+    "duration_str": "5d 21h 33m"
   },
   {
     "title": "monde:::La Cour suprême autorise Donald Trump à révoquer temporairement le statut légal d'un demi-million d'immigrés",
@@ -9778,7 +9781,10 @@
   },
   {
     "title": "suisse:::Dans le Lötschental sinistré, le silence pudique des montagnards face à la vague médiatique",
-    "added_at": "2025-06-03T05:05:05.701Z"
+    "added_at": "2025-06-03T05:05:05.701Z",
+    "removed_at": "2025-06-05T16:04:59.293Z",
+    "duration_minutes": 3539,
+    "duration_str": "2d 10h 59m"
   },
   {
     "title": "monde:::En direct, guerre à Gaza – Au moins 15 personnes tuées dans le sud de la bande de Gaza",
@@ -9853,9 +9859,9 @@
   {
     "title": "suisse:::Exclusif – A Vernier, l’étude graphologique révèle une fraude électorale bien organisée",
     "added_at": "2025-06-03T08:51:00.503Z",
-    "removed_at": "2025-06-04T17:37:31.241Z",
-    "duration_minutes": 1966,
-    "duration_str": "1d 8h 46m"
+    "removed_at": "2025-06-05T17:45:09.816Z",
+    "duration_minutes": 3414,
+    "duration_str": "2d 8h 54m"
   },
   {
     "title": "culture:::Bertrand Belin: «Je me suis mis à la lecture par amour»",
@@ -9894,7 +9900,10 @@
   },
   {
     "title": "suisse:::L’éboulement de Blatten – La situation est stable ce mardi",
-    "added_at": "2025-06-03T11:19:55.994Z"
+    "added_at": "2025-06-03T11:19:55.994Z",
+    "removed_at": "2025-06-05T16:04:59.293Z",
+    "duration_minutes": 3165,
+    "duration_str": "2d 4h 45m"
   },
   {
     "title": "economie:::L’heure de la relève dans la banque privée",
@@ -10092,9 +10101,9 @@
   {
     "title": "suisse:::Les recours contre l’élection à l’exécutif de Vernier sont rejetés",
     "added_at": "2025-06-04T10:29:57.254Z",
-    "removed_at": "2025-06-04T14:40:14.401Z",
-    "duration_minutes": 250,
-    "duration_str": "4h 10m"
+    "removed_at": "2025-06-05T17:45:09.816Z",
+    "duration_minutes": 1875,
+    "duration_str": "1d 7h 15m"
   },
   {
     "title": "sciences:::Florence Magnin, géomorphologue: «Depuis 2015, on est passé dans un nouveau régime, avec beaucoup plus d’éboulements dans les Alpes»",
@@ -10245,11 +10254,17 @@
   },
   {
     "title": "suisse:::Sergei Aschwanden: «L’aboutissement de cette initiative pour le sport est mon plus bel accomplissement politique»",
-    "added_at": "2025-06-04T17:33:47.545Z"
+    "added_at": "2025-06-04T17:33:47.545Z",
+    "removed_at": "2025-06-05T16:04:59.293Z",
+    "duration_minutes": 1351,
+    "duration_str": "22h 31m"
   },
   {
     "title": "suisse:::L’Etat de Vaud accusé de trop durcir sa politique migratoire",
-    "added_at": "2025-06-04T17:37:31.241Z"
+    "added_at": "2025-06-04T17:37:31.241Z",
+    "removed_at": "2025-06-05T16:29:35.716Z",
+    "duration_minutes": 1372,
+    "duration_str": "22h 52m"
   },
   {
     "title": "monde:::Les déclarations d’Ignazio Cassis à l’épreuve des faits",
@@ -10299,7 +10314,10 @@
   },
   {
     "title": "suisse:::A Genève, seul un réfugié ukrainien sur sept a un emploi; le reste de la Suisse romande ne fait pas beaucoup mieux",
-    "added_at": "2025-06-05T04:20:36.297Z"
+    "added_at": "2025-06-05T04:20:36.297Z",
+    "removed_at": "2025-06-05T16:59:44.409Z",
+    "duration_minutes": 759,
+    "duration_str": "12h 39m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Washington tempère les estimations de Kiev sur les frappes contre des avions militaires russes",
@@ -10373,11 +10391,17 @@
   },
   {
     "title": "sciences:::Pluies intenses, sécheresses estivales… Les risques climatiques augmentent en Suisse",
-    "added_at": "2025-06-05T13:56:25.736Z"
+    "added_at": "2025-06-05T13:56:25.736Z",
+    "removed_at": "2025-06-05T17:45:09.816Z",
+    "duration_minutes": 228,
+    "duration_str": "3h 48m"
   },
   {
     "title": "monde:::Xi Jinping s’est entretenu par téléphone avec Donald Trump",
-    "added_at": "2025-06-05T14:30:25.209Z"
+    "added_at": "2025-06-05T14:30:25.209Z",
+    "removed_at": "2025-06-05T16:12:34.364Z",
+    "duration_minutes": 102,
+    "duration_str": "1h 42m"
   },
   {
     "title": "suisse:::Le PLR s'organise pour trouver un successeur à Thierry Burkart",
@@ -10388,10 +10412,44 @@
   },
   {
     "title": "suisse:::Le Parlement choisit de ne pas saler l’addition du budget de l’armée",
-    "added_at": "2025-06-05T15:21:24.547Z"
+    "added_at": "2025-06-05T15:21:24.547Z",
+    "removed_at": "2025-06-05T16:14:24.506Z",
+    "duration_minutes": 52,
+    "duration_str": "52m"
   },
   {
     "title": "sport:::Le Tour de France femmes 2026 passera par Lausanne, Aigle et Genève",
-    "added_at": "2025-06-05T15:49:47.270Z"
+    "added_at": "2025-06-05T15:49:47.270Z",
+    "removed_at": "2025-06-05T17:14:56.227Z",
+    "duration_minutes": 85,
+    "duration_str": "1h 25m"
+  },
+  {
+    "title": "suisse:::A Vernier, cette main invisible qui aurait rempli 80 bulletins de vote",
+    "added_at": "2025-06-05T16:04:59.293Z"
+  },
+  {
+    "title": "suisse:::Vaud tente de réagir face à la pénurie de logements: «Nous observons un phénomène de saturation»",
+    "added_at": "2025-06-05T16:12:34.364Z"
+  },
+  {
+    "title": "suisse:::Le parlement choisit de ne pas saler l’addition du budget de l’armée",
+    "added_at": "2025-06-05T16:14:24.506Z"
+  },
+  {
+    "title": "economie:::Les émissions liées à l’énergie baissent, mais l’avènement de l’IA interroge",
+    "added_at": "2025-06-05T16:29:35.716Z"
+  },
+  {
+    "title": "cyber:::Empêcher les jeunes de voir du porno? La France agit fermement, la Suisse tergiverse",
+    "added_at": "2025-06-05T16:59:44.409Z"
+  },
+  {
+    "title": "sport:::Le Tour de France Femmes 2026 passera par Lausanne, Aigle et Genève",
+    "added_at": "2025-06-05T17:14:56.227Z"
+  },
+  {
+    "title": "monde:::Yulia Navalnaya: «Nous devons retrousser nos manches, ensemble, pour faire barrage à Poutine»",
+    "added_at": "2025-06-05T17:45:09.816Z"
   }
 ]
