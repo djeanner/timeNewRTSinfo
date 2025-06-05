@@ -11212,7 +11212,10 @@
   },
   {
     "title": "cyber:::La Nintendo Switch 2, symptôme d’une industrie du jeu vidéo en pleine surenchère tarifaire",
-    "added_at": "2025-06-04T12:20:42.352Z"
+    "added_at": "2025-06-04T12:20:42.352Z",
+    "removed_at": "2025-06-05T01:31:13.616Z",
+    "duration_minutes": 790,
+    "duration_str": "13h 10m"
   },
   {
     "title": "culture:::Cette année, le Festival de la Cité prend de la hauteur",
@@ -11262,10 +11265,7 @@
   },
   {
     "title": "economie:::Dans les Alpes, les prix de l’immobilier poursuivent leur ascension mais à un rythme plus modéré",
-    "added_at": "2025-06-04T15:43:47.015Z",
-    "removed_at": "2025-06-04T21:30:29.642Z",
-    "duration_minutes": 346,
-    "duration_str": "5h 46m"
+    "added_at": "2025-06-04T15:43:47.015Z"
   },
   {
     "title": "suisse:::«Le dossier de Gaza doit être retiré à Ignazio Cassis»",
@@ -11277,7 +11277,10 @@
   },
   {
     "title": "suisse:::Le parlement approuve l’interdiction de la vente de «puffs» en Suisse",
-    "added_at": "2025-06-04T16:54:20.104Z"
+    "added_at": "2025-06-04T16:54:20.104Z",
+    "removed_at": "2025-06-05T01:31:13.616Z",
+    "duration_minutes": 516,
+    "duration_str": "8h 36m"
   },
   {
     "title": "suisse:::Thierry Burkart laisse le bateau PLR face à la tempête",
@@ -11317,5 +11320,9 @@
   {
     "title": "sport:::Alexandre Boucheix alias Casquette Verte, du plat de Paris au sommet de l’ultra-trail",
     "added_at": "2025-06-04T19:03:33.193Z"
+  },
+  {
+    "title": "monde:::Donald Trump interdit l’entrée aux Etats-Unis aux ressortissants de douze pays dont l’Erythrée, Haïti et l’Iran",
+    "added_at": "2025-06-05T01:31:13.616Z"
   }
 ]
