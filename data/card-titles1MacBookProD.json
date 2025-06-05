@@ -15477,7 +15477,10 @@
   },
   {
     "title": "Feu vert à l'Etat de Vaud pour l'achat du centre des Baumettes à Renens",
-    "added_at": "2025-06-03T15:12:51.676Z"
+    "added_at": "2025-06-03T15:12:51.676Z",
+    "removed_at": "2025-06-05T06:30:46.873Z",
+    "duration_minutes": 2357,
+    "duration_str": "1d 15h 17m"
   },
   {
     "title": "Une étude plutôt rassurante sur l'exposition des enfants valaisans aux pesticides",
@@ -15853,5 +15856,23 @@
   {
     "title": "Cristiano Ronaldo envoie le Portugal en finale",
     "added_at": "2025-06-05T05:18:22.910Z"
+  },
+  {
+    "title": "Un cIimat de travail délétère dénoncé à la maternité de l'hôpital de Fribourg",
+    "added_at": "2025-06-05T06:30:46.873Z",
+    "removed_at": "2025-06-05T06:42:31.414Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "Un climat de travail délétère dénoncé à la maternité de l'hôpital de Fribourg",
+    "added_at": "2025-06-05T06:42:31.414Z",
+    "removed_at": "2025-06-05T06:44:31.131Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Un climat de travail délétère dénoncé à la maternité de l'Hôpital de Fribourg",
+    "added_at": "2025-06-05T06:44:31.131Z"
   }
 ]
