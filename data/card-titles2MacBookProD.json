@@ -11414,7 +11414,10 @@
   },
   {
     "title": "economie:::Guerre commerciale: les marchés financiers ont digéré les incertitudes du Liberation Day",
-    "added_at": "2025-06-05T06:40:33.457Z"
+    "added_at": "2025-06-05T06:40:33.457Z",
+    "removed_at": "2025-06-05T18:28:16.684Z",
+    "duration_minutes": 707,
+    "duration_str": "11h 47m"
   },
   {
     "title": "economie:::Pour Antonio Filosa, nouveau directeur de Stellantis, la route vers le succès s’annonce cahoteuse",
@@ -11439,7 +11442,10 @@
   },
   {
     "title": "culture:::La pianiste Sylvie Courvoisier, Grand Prix suisse... de la liberté",
-    "added_at": "2025-06-05T09:19:10.961Z"
+    "added_at": "2025-06-05T09:19:10.961Z",
+    "removed_at": "2025-06-05T18:28:16.684Z",
+    "duration_minutes": 549,
+    "duration_str": "9h 9m"
   },
   {
     "title": "sciences:::Pluies intenses, sécheresses estivales... Les risques climatiques augmentent en Suisse",
@@ -11469,10 +11475,7 @@
   },
   {
     "title": "sciences:::Pluies intenses, sécheresses estivales… Les risques climatiques augmentent en Suisse",
-    "added_at": "2025-06-05T13:55:36.427Z",
-    "removed_at": "2025-06-05T17:45:06.594Z",
-    "duration_minutes": 229,
-    "duration_str": "3h 49m"
+    "added_at": "2025-06-05T13:55:36.427Z"
   },
   {
     "title": "monde:::Xi Jinping s’est entretenu par téléphone avec Donald Trump",
@@ -11520,7 +11523,10 @@
   },
   {
     "title": "cyber:::Empêcher les jeunes de voir du porno? La France agit fermement, la Suisse tergiverse",
-    "added_at": "2025-06-05T16:59:58.275Z"
+    "added_at": "2025-06-05T16:59:58.275Z",
+    "removed_at": "2025-06-05T18:59:38.351Z",
+    "duration_minutes": 119,
+    "duration_str": "1h 59m"
   },
   {
     "title": "sport:::Le Tour de France Femmes 2026 passera par Lausanne, Aigle et Genève",
@@ -11529,5 +11535,13 @@
   {
     "title": "monde:::Yulia Navalnaya: «Nous devons retrousser nos manches, ensemble, pour faire barrage à Poutine»",
     "added_at": "2025-06-05T17:45:06.594Z"
+  },
+  {
+    "title": "suisse:::Pour accélérer la production d’énergie renouvelable, les sénateurs rejettent le droit de recours des associations environnementales",
+    "added_at": "2025-06-05T18:28:16.684Z"
+  },
+  {
+    "title": "monde:::Pour Donald Trump, lutter contre l’immigration est une obsession et une diversion",
+    "added_at": "2025-06-05T18:59:38.351Z"
   }
 ]

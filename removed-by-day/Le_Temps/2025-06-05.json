@@ -23,7 +23,7 @@
   {
     "title": "suisse:::A Genève, seul un réfugié ukrainien sur sept a un emploi; le reste de la Suisse romande ne fait pas beaucoup mieux",
     "added_at": "2025-06-05T04:19:40.264Z",
-    "removed_at": "2025-06-05T16:59:58.275Z",
+    "removed_at": "2025-06-05T16:59:44.409Z",
     "duration_minutes": 760,
     "duration_str": "12h 40m"
   },
@@ -49,8 +49,9 @@
   {
     "title": "economie:::Guerre commerciale: les marchés financiers ont digéré les incertitudes du Liberation Day",
     "added_at": "2025-06-05T06:40:11.079Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-05T18:28:16.684Z",
+    "duration_minutes": 708,
+    "duration_str": "11h 48m"
   },
   {
     "title": "economie:::Pour Antonio Filosa, nouveau directeur de Stellantis, la route vers le succès s’annonce cahoteuse",
@@ -76,8 +77,9 @@
   {
     "title": "culture:::La pianiste Sylvie Courvoisier, Grand Prix suisse... de la liberté",
     "added_at": "2025-06-05T09:18:41.539Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-05T18:28:16.684Z",
+    "duration_minutes": 550,
+    "duration_str": "9h 10m"
   },
   {
     "title": "sciences:::Pluies intenses, sécheresses estivales... Les risques climatiques augmentent en Suisse",
@@ -114,14 +116,13 @@
   {
     "title": "sciences:::Pluies intenses, sécheresses estivales… Les risques climatiques augmentent en Suisse",
     "added_at": "2025-06-05T13:55:36.427Z",
-    "removed_at": "2025-06-05T17:45:06.594Z",
-    "duration_minutes": 230,
-    "duration_str": "3h 50m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "monde:::Xi Jinping s’est entretenu par téléphone avec Donald Trump",
     "added_at": "2025-06-05T14:30:25.209Z",
-    "removed_at": "2025-06-05T16:12:51.468Z",
+    "removed_at": "2025-06-05T16:12:34.364Z",
     "duration_minutes": 102,
     "duration_str": "1h 42m"
   },
@@ -135,32 +136,32 @@
   {
     "title": "suisse:::Le Parlement choisit de ne pas saler l’addition du budget de l’armée",
     "added_at": "2025-06-05T15:21:24.547Z",
-    "removed_at": "2025-06-05T16:14:51.748Z",
+    "removed_at": "2025-06-05T16:14:24.506Z",
     "duration_minutes": 53,
     "duration_str": "53m"
   },
   {
     "title": "sport:::Le Tour de France femmes 2026 passera par Lausanne, Aigle et Genève",
     "added_at": "2025-06-05T15:49:24.284Z",
-    "removed_at": "2025-06-05T17:15:36.772Z",
+    "removed_at": "2025-06-05T17:14:56.227Z",
     "duration_minutes": 86,
     "duration_str": "1h 26m"
   },
   {
     "title": "suisse:::A Vernier, cette main invisible qui aurait rempli 80 bulletins de vote",
-    "added_at": "2025-06-05T16:05:01.600Z",
+    "added_at": "2025-06-05T16:04:59.293Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "suisse:::Vaud tente de réagir face à la pénurie de logements: «Nous observons un phénomène de saturation»",
-    "added_at": "2025-06-05T16:12:51.468Z",
+    "added_at": "2025-06-05T16:12:34.364Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "suisse:::Le parlement choisit de ne pas saler l’addition du budget de l’armée",
-    "added_at": "2025-06-05T16:14:51.748Z",
+    "added_at": "2025-06-05T16:14:24.506Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -172,19 +173,32 @@
   },
   {
     "title": "cyber:::Empêcher les jeunes de voir du porno? La France agit fermement, la Suisse tergiverse",
-    "added_at": "2025-06-05T16:59:58.275Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-06-05T16:59:44.409Z",
+    "removed_at": "2025-06-05T18:59:38.351Z",
+    "duration_minutes": 120,
+    "duration_str": "2h"
   },
   {
     "title": "sport:::Le Tour de France Femmes 2026 passera par Lausanne, Aigle et Genève",
-    "added_at": "2025-06-05T17:15:36.772Z",
+    "added_at": "2025-06-05T17:14:56.227Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "monde:::Yulia Navalnaya: «Nous devons retrousser nos manches, ensemble, pour faire barrage à Poutine»",
     "added_at": "2025-06-05T17:45:06.594Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Pour accélérer la production d’énergie renouvelable, les sénateurs rejettent le droit de recours des associations environnementales",
+    "added_at": "2025-06-05T18:28:16.684Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Pour Donald Trump, lutter contre l’immigration est une obsession et une diversion",
+    "added_at": "2025-06-05T18:59:38.351Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
