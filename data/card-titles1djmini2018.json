@@ -13024,7 +13024,10 @@
   },
   {
     "title": "Le Parlement se prononce en faveur de l'imposition individuelle des couples mariés",
-    "added_at": "2025-06-03T14:05:56.795Z"
+    "added_at": "2025-06-03T14:05:56.795Z",
+    "removed_at": "2025-06-05T12:35:03.474Z",
+    "duration_minutes": 2789,
+    "duration_str": "1d 22h 29m"
   },
   {
     "title": "Remplacement des trains par des bus entre Palézieux et Romont ce week-end",
@@ -13063,7 +13066,10 @@
   },
   {
     "title": "Une étude plutôt rassurante sur l'exposition des enfants valaisans aux pesticides",
-    "added_at": "2025-06-03T15:21:25.222Z"
+    "added_at": "2025-06-03T15:21:25.222Z",
+    "removed_at": "2025-06-05T13:14:41.858Z",
+    "duration_minutes": 2753,
+    "duration_str": "1d 21h 53m"
   },
   {
     "title": "Retour à la normale chez Skyguide à Genève",
@@ -13106,11 +13112,17 @@
   },
   {
     "title": "En Corée du Sud, le candidat de centre gauche Lee Jae-myung remporte l'élection présidentielle anticipée",
-    "added_at": "2025-06-03T16:46:20.145Z"
+    "added_at": "2025-06-03T16:46:20.145Z",
+    "removed_at": "2025-06-05T11:49:46.917Z",
+    "duration_minutes": 2583,
+    "duration_str": "1d 19h 3m"
   },
   {
     "title": "L'inflation bascule en terrain négatif sur un an en mai: aubaine ou menace pour l'économie?",
-    "added_at": "2025-06-03T17:01:27.433Z"
+    "added_at": "2025-06-03T17:01:27.433Z",
+    "removed_at": "2025-06-05T13:16:37.853Z",
+    "duration_minutes": 2655,
+    "duration_str": "1d 20h 15m"
   },
   {
     "title": "Avec \"Ours final\", Hadrien Praz déploie dix nouvelles faisant de la Suisse un drôle d'endroit",
@@ -13296,7 +13308,10 @@
   },
   {
     "title": "De nouvelles laves torrentielles dans le val de Bagnes, où la route d'accès n'ouvrira pas de sitôt",
-    "added_at": "2025-06-04T12:45:11.386Z"
+    "added_at": "2025-06-04T12:45:11.386Z",
+    "removed_at": "2025-06-05T13:26:02.220Z",
+    "duration_minutes": 1480,
+    "duration_str": "1d 40m"
   },
   {
     "title": "Election au Conseil exécutif de Vernier validée en première instance",
@@ -13434,7 +13449,10 @@
   },
   {
     "title": "L'inflation en Suisse bascule en territoire négatif entre mai 2024 et mai 2025, annonce l'OFS",
-    "added_at": "2025-06-04T21:29:28.737Z"
+    "added_at": "2025-06-04T21:29:28.737Z",
+    "removed_at": "2025-06-05T13:29:48.305Z",
+    "duration_minutes": 960,
+    "duration_str": "16h"
   },
   {
     "title": "Le Conseil des Etats adopte un compromis sur le projet de taxation individuelle",
@@ -13543,5 +13561,33 @@
   {
     "title": "La puissance de frappe électro-rock de Prodigy met sur orbite le Caribana Festival",
     "added_at": "2025-06-05T11:02:24.542Z"
+  },
+  {
+    "title": "La pianiste jazz vaudoise Sylvie Courvoisier remporte le Grand Prix suisse de musique 2025",
+    "added_at": "2025-06-05T11:49:46.917Z"
+  },
+  {
+    "title": "L'ONG MSF invite Ignazio Cassis à venir discuter avec elle de la bande de Gaza",
+    "added_at": "2025-06-05T12:35:03.474Z"
+  },
+  {
+    "title": "Les risques liés à la sécheresse toujours plus importants en Suisse",
+    "added_at": "2025-06-05T12:38:49.415Z"
+  },
+  {
+    "title": "Les femmes assument toujours la majorité du travail non rémunéré",
+    "added_at": "2025-06-05T13:14:41.858Z"
+  },
+  {
+    "title": "Le canton de Vaud dévoile son plan pour résoudre la crise du logement",
+    "added_at": "2025-06-05T13:16:37.853Z"
+  },
+  {
+    "title": "En Suisse aussi, la malnutrition touche les enfants et les ados",
+    "added_at": "2025-06-05T13:26:02.220Z"
+  },
+  {
+    "title": "Un climat délétère règne dans la maternité de l'hôpital fribourgeois (HFR)",
+    "added_at": "2025-06-05T13:29:48.305Z"
   }
 ]
