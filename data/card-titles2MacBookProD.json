@@ -11386,7 +11386,10 @@
   },
   {
     "title": "suisse:::A Genève, seul un réfugié ukrainien sur sept a un emploi; le reste de la Suisse romande ne fait pas beaucoup mieux",
-    "added_at": "2025-06-05T04:19:40.264Z"
+    "added_at": "2025-06-05T04:19:40.264Z",
+    "removed_at": "2025-06-05T16:59:58.275Z",
+    "duration_minutes": 760,
+    "duration_str": "12h 40m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Washington tempère les estimations de Kiev sur les frappes contre des avions militaires russes",
@@ -11485,7 +11488,10 @@
   },
   {
     "title": "sport:::Le Tour de France femmes 2026 passera par Lausanne, Aigle et Genève",
-    "added_at": "2025-06-05T15:49:24.284Z"
+    "added_at": "2025-06-05T15:49:24.284Z",
+    "removed_at": "2025-06-05T17:15:36.772Z",
+    "duration_minutes": 86,
+    "duration_str": "1h 26m"
   },
   {
     "title": "suisse:::A Vernier, cette main invisible qui aurait rempli 80 bulletins de vote",
@@ -11502,5 +11508,13 @@
   {
     "title": "economie:::Les émissions liées à l’énergie baissent, mais l’avènement de l’IA interroge",
     "added_at": "2025-06-05T16:28:32.766Z"
+  },
+  {
+    "title": "cyber:::Empêcher les jeunes de voir du porno? La France agit fermement, la Suisse tergiverse",
+    "added_at": "2025-06-05T16:59:58.275Z"
+  },
+  {
+    "title": "sport:::Le Tour de France Femmes 2026 passera par Lausanne, Aigle et Genève",
+    "added_at": "2025-06-05T17:15:36.772Z"
   }
 ]
