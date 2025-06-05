@@ -12735,7 +12735,10 @@
   },
   {
     "title": "\"Veuillez garder votre ceinture attachée jusqu'à l'arrêt complet de l'avion\"... sous peine d'amende",
-    "added_at": "2025-06-02T20:29:15.231Z"
+    "added_at": "2025-06-02T20:29:15.231Z",
+    "removed_at": "2025-06-05T03:29:37.269Z",
+    "duration_minutes": 3300,
+    "duration_str": "2d 7h"
   },
   {
     "title": "Ordonnance de classement pour le drame de Tête-Blanche en Valais",
@@ -12795,7 +12798,10 @@
   },
   {
     "title": "\"C'était quelqu'un de très calme\": les proches du Nigérian mort à l'Hôtel de police de Lausanne témoignent",
-    "added_at": "2025-06-03T05:23:55.655Z"
+    "added_at": "2025-06-03T05:23:55.655Z",
+    "removed_at": "2025-06-05T02:42:33.533Z",
+    "duration_minutes": 2718,
+    "duration_str": "1d 21h 18m"
   },
   {
     "title": "La Lega fait jaser après une rocade surprise au sein du gouvernement tessinois",
@@ -12857,7 +12863,10 @@
   },
   {
     "title": "L'extrême droite claque la porte de la coalition au pouvoir aux Pays-Bas, ouvrant une période d'incertitude",
-    "added_at": "2025-06-03T10:12:05.881Z"
+    "added_at": "2025-06-03T10:12:05.881Z",
+    "removed_at": "2025-06-05T03:20:11.840Z",
+    "duration_minutes": 2468,
+    "duration_str": "1d 17h 8m"
   },
   {
     "title": "L'initiative sur l'imposition individuelle soutenue au Parlement",
@@ -13383,5 +13392,13 @@
   {
     "title": "Les collèges fribourgeois doivent gérer l'augmentation des crises d'angoisse des étudiants en période d'examens",
     "added_at": "2025-06-05T00:26:46.115Z"
+  },
+  {
+    "title": "Pour \"protéger\" les Etats-Unis, Donald Trump interdit d'entrée les ressortissants de 12 pays",
+    "added_at": "2025-06-05T02:42:33.533Z"
+  },
+  {
+    "title": "Kim Jong Un promet le \"soutien inconditionnel\" de la Corée du Nord à la Russie",
+    "added_at": "2025-06-05T03:20:11.840Z"
   }
 ]
