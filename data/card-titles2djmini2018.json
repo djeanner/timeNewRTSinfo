@@ -6448,10 +6448,7 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:00:57.917Z",
-    "removed_at": "2025-06-01T09:00:58.022Z",
-    "duration_minutes": 13860,
-    "duration_str": "9d 15h"
+    "added_at": "2025-05-22T18:00:57.917Z"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -9989,7 +9986,10 @@
   },
   {
     "title": "monde:::La distribution d’aide à Gaza tourne à nouveau au carnage",
-    "added_at": "2025-06-03T18:09:18.289Z"
+    "added_at": "2025-06-03T18:09:18.289Z",
+    "removed_at": "2025-06-05T14:30:25.209Z",
+    "duration_minutes": 2661,
+    "duration_str": "1d 20h 21m"
   },
   {
     "title": "culture:::«John & Yoko», deux artistes en guerre contre Richard Nixon",
@@ -10347,11 +10347,17 @@
   },
   {
     "title": "sciences:::Pluies intenses, sécheresses estivales... Les risques climatiques augmentent en Suisse",
-    "added_at": "2025-06-05T09:45:03.194Z"
+    "added_at": "2025-06-05T09:45:03.194Z",
+    "removed_at": "2025-06-05T13:56:25.736Z",
+    "duration_minutes": 251,
+    "duration_str": "4h 11m"
   },
   {
     "title": "economie:::PostFinance supprimera 141 emplois d’ici fin novembre",
-    "added_at": "2025-06-05T09:52:37.781Z"
+    "added_at": "2025-06-05T09:52:37.781Z",
+    "removed_at": "2025-06-05T14:30:25.209Z",
+    "duration_minutes": 277,
+    "duration_str": "4h 37m"
   },
   {
     "title": "culture:::Les douces colères de Solann, nouveau phénomène de la chanson française",
@@ -10360,5 +10366,32 @@
   {
     "title": "monde:::En direct, guerre à Gaza – «On veut lui raconter ce que nous voyons sur place»: l’ONG MSF invite Cassis à venir discuter avec elle de la situation humanitaire dans le territoire palestinien",
     "added_at": "2025-06-05T11:47:53.250Z"
+  },
+  {
+    "title": "sport:::Au Brésil, Ancelotti est devenu Carlinhos",
+    "added_at": "2025-06-05T13:35:35.897Z"
+  },
+  {
+    "title": "sciences:::Pluies intenses, sécheresses estivales… Les risques climatiques augmentent en Suisse",
+    "added_at": "2025-06-05T13:56:25.736Z"
+  },
+  {
+    "title": "monde:::Xi Jinping s’est entretenu par téléphone avec Donald Trump",
+    "added_at": "2025-06-05T14:30:25.209Z"
+  },
+  {
+    "title": "suisse:::Le PLR s'organise pour trouver un successeur à Thierry Burkart",
+    "added_at": "2025-06-05T14:30:25.209Z",
+    "removed_at": "2025-06-05T15:21:24.547Z",
+    "duration_minutes": 50,
+    "duration_str": "50m"
+  },
+  {
+    "title": "suisse:::Le Parlement choisit de ne pas saler l’addition du budget de l’armée",
+    "added_at": "2025-06-05T15:21:24.547Z"
+  },
+  {
+    "title": "sport:::Le Tour de France femmes 2026 passera par Lausanne, Aigle et Genève",
+    "added_at": "2025-06-05T15:49:47.270Z"
   }
 ]
