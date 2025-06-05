@@ -15279,7 +15279,10 @@
   },
   {
     "title": "Un bug de Google Maps a provoqué le chaos sur les routes allemandes",
-    "added_at": "2025-06-03T08:12:38.468Z"
+    "added_at": "2025-06-03T08:12:38.468Z",
+    "removed_at": "2025-06-05T08:32:08.326Z",
+    "duration_minutes": 2899,
+    "duration_str": "2d 19m"
   },
   {
     "title": "Des habitants sans village et sans perspectives",
@@ -15334,7 +15337,10 @@
   },
   {
     "title": "L'affaire Maddie relancée par de nouvelles investigations près du lieu de la disparition de la fillette il y a 18 ans",
-    "added_at": "2025-06-03T10:29:26.678Z"
+    "added_at": "2025-06-03T10:29:26.678Z",
+    "removed_at": "2025-06-05T07:58:55.386Z",
+    "duration_minutes": 2729,
+    "duration_str": "1d 21h 29m"
   },
   {
     "title": "La situation est stable à Blatten, mais les éboulements au-dessus du village se poursuivent",
@@ -15380,7 +15386,10 @@
   },
   {
     "title": "La Direction de l'aviation civile turque veut amender les passagers qui se lèvent trop tôt: interview de Gérald Feldzer",
-    "added_at": "2025-06-03T12:15:01.889Z"
+    "added_at": "2025-06-03T12:15:01.889Z",
+    "removed_at": "2025-06-05T08:32:08.326Z",
+    "duration_minutes": 2657,
+    "duration_str": "1d 20h 17m"
   },
   {
     "title": "De nouvelles laves torrentielles dans le Val de Bagnes, où la route d'accès n'ouvrira pas de sitôt",
@@ -15503,7 +15512,10 @@
   },
   {
     "title": "Les trains remplacés par des bus entre Palézieux et Romont ce week-end",
-    "added_at": "2025-06-03T15:42:12.944Z"
+    "added_at": "2025-06-03T15:42:12.944Z",
+    "removed_at": "2025-06-05T07:55:03.208Z",
+    "duration_minutes": 2412,
+    "duration_str": "1d 16h 12m"
   },
   {
     "title": "Le policier qui a tiré sur Nahel en banlieue parisienne sera jugé pour meurtre",
@@ -15835,10 +15847,7 @@
   },
   {
     "title": "Le Conseil des Etats adopte un compromis sur le projet de taxation individuelle",
-    "added_at": "2025-06-04T22:29:12.362Z",
-    "removed_at": "2025-06-05T00:26:39.191Z",
-    "duration_minutes": 117,
-    "duration_str": "1h 57m"
+    "added_at": "2025-06-04T22:29:12.362Z"
   },
   {
     "title": "Les collèges fribourgeois doivent gérer l'augmentation des crises d'angoisse des étudiants en période d'examens",
@@ -15857,10 +15866,7 @@
   },
   {
     "title": "La victoire du PSG en Ligue des champions, ce triomphe tardif du soft power qatari",
-    "added_at": "2025-06-05T04:29:30.503Z",
-    "removed_at": "2025-06-05T04:33:22.174Z",
-    "duration_minutes": 3,
-    "duration_str": "3m"
+    "added_at": "2025-06-05T04:29:30.503Z"
   },
   {
     "title": "Cristiano Ronaldo envoie le Portugal en finale",
@@ -15895,5 +15901,13 @@
   {
     "title": "Elisabeth Baume-Schneider: \"Il faut négocier des salaires minimums pour les artistes\"",
     "added_at": "2025-06-05T07:15:49.180Z"
+  },
+  {
+    "title": "Les parlementaires de la Ville de Genève décident d'augmenter leur propre rémunération",
+    "added_at": "2025-06-05T07:55:03.208Z"
+  },
+  {
+    "title": "Les propos d’Ignazio Cassis sur le Proche-Orient font réagir des parlementaires",
+    "added_at": "2025-06-05T08:32:08.326Z"
   }
 ]
