@@ -11515,7 +11515,10 @@
   },
   {
     "title": "suisse:::Le parlement choisit de ne pas saler l’addition du budget de l’armée",
-    "added_at": "2025-06-05T16:14:51.748Z"
+    "added_at": "2025-06-05T16:14:51.748Z",
+    "removed_at": "2025-06-05T21:24:49.712Z",
+    "duration_minutes": 309,
+    "duration_str": "5h 9m"
   },
   {
     "title": "economie:::Les émissions liées à l’énergie baissent, mais l’avènement de l’IA interroge",
@@ -11547,5 +11550,9 @@
   {
     "title": "monde:::«Il est temps de lâcher la bombe»: entre Donald Trump et Elon Musk, l’idylle est terminée pour de bon",
     "added_at": "2025-06-05T20:31:52.778Z"
+  },
+  {
+    "title": "economie:::Face à la crise du logement en Suisse, des pistes se dessinent",
+    "added_at": "2025-06-05T21:24:49.712Z"
   }
 ]

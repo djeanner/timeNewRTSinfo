@@ -162,8 +162,9 @@
   {
     "title": "suisse:::Le parlement choisit de ne pas saler l’addition du budget de l’armée",
     "added_at": "2025-06-05T16:14:24.506Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-05T21:24:49.712Z",
+    "duration_minutes": 310,
+    "duration_str": "5h 10m"
   },
   {
     "title": "economie:::Les émissions liées à l’énergie baissent, mais l’avènement de l’IA interroge",
@@ -174,9 +175,9 @@
   {
     "title": "cyber:::Empêcher les jeunes de voir du porno? La France agit fermement, la Suisse tergiverse",
     "added_at": "2025-06-05T16:59:44.409Z",
-    "removed_at": "2025-06-05T18:59:38.351Z",
-    "duration_minutes": 120,
-    "duration_str": "2h"
+    "removed_at": "2025-06-05T18:59:06.355Z",
+    "duration_minutes": 119,
+    "duration_str": "1h 59m"
   },
   {
     "title": "sport:::Le Tour de France Femmes 2026 passera par Lausanne, Aigle et Genève",
@@ -198,13 +199,19 @@
   },
   {
     "title": "monde:::Pour Donald Trump, lutter contre l’immigration est une obsession et une diversion",
-    "added_at": "2025-06-05T18:59:38.351Z",
+    "added_at": "2025-06-05T18:59:06.355Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "monde:::«Il est temps de lâcher la bombe»: entre Donald Trump et Elon Musk, l’idylle est terminée pour de bon",
-    "added_at": "2025-06-05T20:31:52.778Z",
+    "added_at": "2025-06-05T20:30:05.636Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::Face à la crise du logement en Suisse, des pistes se dessinent",
+    "added_at": "2025-06-05T21:24:49.712Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
