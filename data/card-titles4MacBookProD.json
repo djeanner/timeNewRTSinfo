@@ -19483,7 +19483,10 @@
   },
   {
     "title": "Mission controllers lose contact with Resilience moon lander",
-    "added_at": "2025-06-05T22:47:11.073Z"
+    "added_at": "2025-06-05T22:47:11.073Z",
+    "removed_at": "2025-06-06T03:45:07.186Z",
+    "duration_minutes": 297,
+    "duration_str": "4h 57m"
   },
   {
     "title": "Harvard challenges Trump’s proclamation to suspend visas for new international students in amended lawsuit",
@@ -19530,5 +19533,9 @@
   {
     "title": "Judge halts Trump’s proclamation to suspend new international student visas at Harvard hours after university filed amended lawsuit",
     "added_at": "2025-06-06T02:52:13.084Z"
+  },
+  {
+    "title": "Private moon lander crashes into the lunar surface",
+    "added_at": "2025-06-06T03:45:07.186Z"
   }
 ]

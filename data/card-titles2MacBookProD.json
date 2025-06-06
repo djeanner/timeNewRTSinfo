@@ -11477,11 +11477,17 @@
   },
   {
     "title": "sport:::Au Brésil, Ancelotti est devenu Carlinhos",
-    "added_at": "2025-06-05T13:36:04.323Z"
+    "added_at": "2025-06-05T13:36:04.323Z",
+    "removed_at": "2025-06-06T03:41:12.347Z",
+    "duration_minutes": 845,
+    "duration_str": "14h 5m"
   },
   {
     "title": "sciences:::Pluies intenses, sécheresses estivales… Les risques climatiques augmentent en Suisse",
-    "added_at": "2025-06-05T13:55:36.427Z"
+    "added_at": "2025-06-05T13:55:36.427Z",
+    "removed_at": "2025-06-06T03:41:12.347Z",
+    "duration_minutes": 825,
+    "duration_str": "13h 45m"
   },
   {
     "title": "monde:::Xi Jinping s’est entretenu par téléphone avec Donald Trump",
@@ -11521,14 +11527,14 @@
   },
   {
     "title": "suisse:::Le parlement choisit de ne pas saler l’addition du budget de l’armée",
-    "added_at": "2025-06-05T16:14:51.748Z",
-    "removed_at": "2025-06-05T21:24:49.712Z",
-    "duration_minutes": 309,
-    "duration_str": "5h 9m"
+    "added_at": "2025-06-05T16:14:51.748Z"
   },
   {
     "title": "economie:::Les émissions liées à l’énergie baissent, mais l’avènement de l’IA interroge",
-    "added_at": "2025-06-05T16:28:32.766Z"
+    "added_at": "2025-06-05T16:28:32.766Z",
+    "removed_at": "2025-06-06T03:41:12.347Z",
+    "duration_minutes": 672,
+    "duration_str": "11h 12m"
   },
   {
     "title": "cyber:::Empêcher les jeunes de voir du porno? La France agit fermement, la Suisse tergiverse",
@@ -11555,7 +11561,10 @@
   },
   {
     "title": "monde:::«Il est temps de lâcher la bombe»: entre Donald Trump et Elon Musk, l’idylle est terminée pour de bon",
-    "added_at": "2025-06-05T20:31:52.778Z"
+    "added_at": "2025-06-05T20:31:52.778Z",
+    "removed_at": "2025-06-06T03:39:14.240Z",
+    "duration_minutes": 427,
+    "duration_str": "7h 7m"
   },
   {
     "title": "economie:::Face à la crise du logement en Suisse, des pistes se dessinent",
@@ -11570,10 +11579,24 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Washington demande la «fin» de la coopération entre la Russie et la Corée du Nord",
-    "added_at": "2025-06-06T02:56:10.776Z"
+    "added_at": "2025-06-06T02:56:10.776Z",
+    "removed_at": "2025-06-06T03:31:27.939Z",
+    "duration_minutes": 35,
+    "duration_str": "35m"
   },
   {
     "title": "monde:::En direct, guerre à Gaza – Washington sanctionne 4 juges de la CPI pour des procédures impliquant Israël et les Etats-Unis",
     "added_at": "2025-06-06T03:02:03.050Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Au moins un mort et 20 blessés après une attaque russe à Kiev",
+    "added_at": "2025-06-06T03:31:27.939Z",
+    "removed_at": "2025-06-06T03:43:12.778Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Quatre morts à Kiev à la suite de frappes russes",
+    "added_at": "2025-06-06T03:43:12.778Z"
   }
 ]
