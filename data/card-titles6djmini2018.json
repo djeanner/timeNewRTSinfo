@@ -9665,7 +9665,10 @@
   },
   {
     "title": "FIFA Club World Cup 2025: Your full match schedule, teams and format guide",
-    "added_at": "2025-06-05T10:17:09.908Z"
+    "added_at": "2025-06-05T10:17:09.908Z",
+    "removed_at": "2025-06-06T06:52:02.974Z",
+    "duration_minutes": 1234,
+    "duration_str": "20h 34m"
   },
   {
     "title": "Ukraine war intensifies as peace talks appear at dead end",
@@ -9880,7 +9883,10 @@
   },
   {
     "title": "Donald Trump’s travel ban: Why? And why now?",
-    "added_at": "2025-06-05T21:15:42.326Z"
+    "added_at": "2025-06-05T21:15:42.326Z",
+    "removed_at": "2025-06-06T08:07:57.015Z",
+    "duration_minutes": 652,
+    "duration_str": "10h 52m"
   },
   {
     "title": "Netanyahu admits Israel backing ‘criminal’ groups, rivals of Hamas, in Gaza",
@@ -9899,17 +9905,11 @@
   },
   {
     "title": "Israel launches several attacks on Beirut’s southern suburbs, south Lebanon",
-    "added_at": "2025-06-05T21:49:45.135Z",
-    "removed_at": "2025-06-05T22:57:57.643Z",
-    "duration_minutes": 68,
-    "duration_str": "1h 8m"
+    "added_at": "2025-06-05T21:49:45.135Z"
   },
   {
     "title": "Yamal shines as Spain beat France 5-4 in wild Nations League semifinal",
-    "added_at": "2025-06-05T21:51:39.363Z",
-    "removed_at": "2025-06-06T03:23:20.132Z",
-    "duration_minutes": 331,
-    "duration_str": "5h 31m"
+    "added_at": "2025-06-05T21:51:39.363Z"
   },
   {
     "title": "Trump administration sanctions International Criminal Court judges",
@@ -9928,7 +9928,10 @@
   },
   {
     "title": "Russia-Ukraine war: List of key events, day 1,198",
-    "added_at": "2025-06-06T01:10:40.637Z"
+    "added_at": "2025-06-06T01:10:40.637Z",
+    "removed_at": "2025-06-06T07:45:13.034Z",
+    "duration_minutes": 394,
+    "duration_str": "6h 34m"
   },
   {
     "title": "North Korea raises capsized warship after botched launch: Report",
@@ -9936,11 +9939,17 @@
   },
   {
     "title": "Judge blocks new Trump bid to deny US entry for Harvard’s foreign students",
-    "added_at": "2025-06-06T03:19:28.877Z"
+    "added_at": "2025-06-06T03:19:28.877Z",
+    "removed_at": "2025-06-06T06:38:46.064Z",
+    "duration_minutes": 199,
+    "duration_str": "3h 19m"
   },
   {
     "title": "Japanese firm declares lunar mission a failure after crash landing",
-    "added_at": "2025-06-06T03:23:20.132Z"
+    "added_at": "2025-06-06T03:23:20.132Z",
+    "removed_at": "2025-06-06T08:11:42.887Z",
+    "duration_minutes": 288,
+    "duration_str": "4h 48m"
   },
   {
     "title": "Tech giants see emissions surge 150 percent in 3 years amid AI boom: UN",
@@ -9956,5 +9965,28 @@
   {
     "title": "UN says Gaza child malnutrition cases soaring, Israel bombs Beirut",
     "added_at": "2025-06-06T06:04:28.517Z"
+  },
+  {
+    "title": "Guatemala’s ‘Volcano of Fire’ sends ash, lava flowing as hundreds flee",
+    "added_at": "2025-06-06T06:36:53.755Z",
+    "removed_at": "2025-06-06T07:45:13.034Z",
+    "duration_minutes": 68,
+    "duration_str": "1h 8m"
+  },
+  {
+    "title": "Thailand ready for ‘high-level operation’ if Cambodia border row escalates",
+    "added_at": "2025-06-06T06:52:02.974Z"
+  },
+  {
+    "title": "At least four killed in Russian attacks on Kyiv",
+    "added_at": "2025-06-06T07:45:13.034Z"
+  },
+  {
+    "title": "Where does Poland’s new president stand on Ukraine?",
+    "added_at": "2025-06-06T08:07:57.015Z"
+  },
+  {
+    "title": "Haliburton buzzer-beater lifts Pacers to Game 1 win over Thunder",
+    "added_at": "2025-06-06T08:11:42.887Z"
   }
 ]

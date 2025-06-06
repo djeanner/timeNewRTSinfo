@@ -10399,7 +10399,10 @@
   },
   {
     "title": "sport:::Au Brésil, Ancelotti est devenu Carlinhos",
-    "added_at": "2025-06-05T13:35:35.897Z"
+    "added_at": "2025-06-05T13:35:35.897Z",
+    "removed_at": "2025-06-06T07:29:57.625Z",
+    "duration_minutes": 1074,
+    "duration_str": "17h 54m"
   },
   {
     "title": "sciences:::Pluies intenses, sécheresses estivales… Les risques climatiques augmentent en Suisse",
@@ -10442,7 +10445,10 @@
   },
   {
     "title": "suisse:::Vaud tente de réagir face à la pénurie de logements: «Nous observons un phénomène de saturation»",
-    "added_at": "2025-06-05T16:12:34.364Z"
+    "added_at": "2025-06-05T16:12:34.364Z",
+    "removed_at": "2025-06-06T08:00:19.128Z",
+    "duration_minutes": 947,
+    "duration_str": "15h 47m"
   },
   {
     "title": "suisse:::Le parlement choisit de ne pas saler l’addition du budget de l’armée",
@@ -10478,7 +10484,10 @@
   },
   {
     "title": "suisse:::Pour accélérer la production d’énergie renouvelable, les sénateurs rejettent le droit de recours des associations environnementales",
-    "added_at": "2025-06-05T18:28:53.897Z"
+    "added_at": "2025-06-05T18:28:53.897Z",
+    "removed_at": "2025-06-06T08:04:05.890Z",
+    "duration_minutes": 815,
+    "duration_str": "13h 35m"
   },
   {
     "title": "monde:::Pour Donald Trump, lutter contre l’immigration est une obsession et une diversion",
@@ -10544,17 +10553,33 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Russie frappe massivement l’Ukraine après une attaque de drones contre ses bases aériennes",
-    "added_at": "2025-06-06T05:05:47.297Z"
+    "added_at": "2025-06-06T05:05:47.297Z",
+    "removed_at": "2025-06-06T07:47:02.584Z",
+    "duration_minutes": 161,
+    "duration_str": "2h 41m"
   },
   {
     "title": "monde:::La crainte de voir la Russie riposter avec l’arme nucléaire en Ukraine",
-    "added_at": "2025-06-06T05:34:10.689Z",
-    "removed_at": "2025-06-06T05:51:14.397Z",
-    "duration_minutes": 17,
-    "duration_str": "17m"
+    "added_at": "2025-06-06T05:34:10.689Z"
   },
   {
     "title": "economie:::Donald Trump veut taxer les entreprises et les investisseurs étrangers pour financer sa réforme fiscale",
     "added_at": "2025-06-06T05:34:10.689Z"
+  },
+  {
+    "title": "suisse:::L’heure de généraliser les classes bilingues",
+    "added_at": "2025-06-06T06:17:52.207Z"
+  },
+  {
+    "title": "suisse:::La Suisse, rempart contre le populisme",
+    "added_at": "2025-06-06T07:29:57.625Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky appelle ses alliés à réagir de «manière décisive» aux attaques russes de la nuit",
+    "added_at": "2025-06-06T07:47:02.584Z"
+  },
+  {
+    "title": "economie:::Le Coq Sportif se trouve au milieu d’un arbitrage complexe entre Paris, Montreux et Zurich",
+    "added_at": "2025-06-06T08:00:19.128Z"
   }
 ]
