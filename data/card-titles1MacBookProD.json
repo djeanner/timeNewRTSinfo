@@ -15638,7 +15638,10 @@
   },
   {
     "title": "Une audacieuse attaque de drones ukrainienne a frappé des aérodromes militaires russes",
-    "added_at": "2025-06-03T21:12:48.730Z"
+    "added_at": "2025-06-03T21:12:48.730Z",
+    "removed_at": "2025-06-06T08:31:41.554Z",
+    "duration_minutes": 3558,
+    "duration_str": "2d 11h 18m"
   },
   {
     "title": "L'Ukraine revendique une attaque contre le pont de Crimée",
@@ -15670,7 +15673,10 @@
   },
   {
     "title": "\"Tout mon corps se met à trembler\": les écoles confrontées aux crises d'angoisse des étudiants lors des examens",
-    "added_at": "2025-06-04T04:40:48.322Z"
+    "added_at": "2025-06-04T04:40:48.322Z",
+    "removed_at": "2025-06-06T08:31:41.554Z",
+    "duration_minutes": 3110,
+    "duration_str": "2d 3h 50m"
   },
   {
     "title": "La chanteuse française Nicole Croisille est décédée à 88 ans",
@@ -15856,11 +15862,17 @@
   },
   {
     "title": "Bombardements israéliens dans le sud de la Syrie après des tirs de roquettes vers Israël",
-    "added_at": "2025-06-04T13:34:27.317Z"
+    "added_at": "2025-06-04T13:34:27.317Z",
+    "removed_at": "2025-06-06T09:10:46.401Z",
+    "duration_minutes": 2616,
+    "duration_str": "1d 19h 36m"
   },
   {
     "title": "Plus de 130 personnalités vaudoises et 40 ONG se mobilisent contre les renvois forcés",
-    "added_at": "2025-06-04T13:42:20.935Z"
+    "added_at": "2025-06-04T13:42:20.935Z",
+    "removed_at": "2025-06-06T08:37:34.121Z",
+    "duration_minutes": 2575,
+    "duration_str": "1d 18h 55m"
   },
   {
     "title": "La justice retire à Marine Le Pen son mandat de conseillère départementale",
@@ -16216,14 +16228,14 @@
   },
   {
     "title": "Des dysfonctionnements sécuritaires menacent l'établissement pénitentiaire Curabilis à Genève",
-    "added_at": "2025-06-05T21:32:42.482Z",
-    "removed_at": "2025-06-05T23:32:10.946Z",
-    "duration_minutes": 119,
-    "duration_str": "1h 59m"
+    "added_at": "2025-06-05T21:32:42.482Z"
   },
   {
     "title": "Le lait suisse pourrait venir à manquer du fait des mauvaises conditions de travail des agriculteurs",
-    "added_at": "2025-06-05T22:33:22.517Z"
+    "added_at": "2025-06-05T22:33:22.517Z",
+    "removed_at": "2025-06-06T08:31:41.554Z",
+    "duration_minutes": 598,
+    "duration_str": "9h 58m"
   },
   {
     "title": "Le Parlement vote l'interdiction des cigarettes électroniques jetables en Suisse",
@@ -16245,7 +16257,10 @@
   },
   {
     "title": "Manifestation de MSF à Genève pour alerter sur l'urgence sanitaire à Gaza",
-    "added_at": "2025-06-06T02:32:43.738Z"
+    "added_at": "2025-06-06T02:32:43.738Z",
+    "removed_at": "2025-06-06T08:31:41.554Z",
+    "duration_minutes": 358,
+    "duration_str": "5h 58m"
   },
   {
     "title": "L'autoroute A9 se dote d'un nouveau système de régulation du trafic",
@@ -16278,5 +16293,21 @@
   {
     "title": "Avec Noda, Sion accueille un nouveau lieu majeur pour la musique classique en Suisse",
     "added_at": "2025-06-06T07:34:37.151Z"
+  },
+  {
+    "title": "Les centrales de réserve, dernière ligne de défense électrique de la Suisse",
+    "added_at": "2025-06-06T08:31:41.554Z"
+  },
+  {
+    "title": "CSS et Helsana ont trouvé un accord avec deux cliniques privées du canton de Genève",
+    "added_at": "2025-06-06T08:31:41.554Z"
+  },
+  {
+    "title": "Nouvelles frappes israéliennes massives sur la banlieue sud de Beyrouth, suivies de menaces",
+    "added_at": "2025-06-06T08:37:34.121Z"
+  },
+  {
+    "title": "À Blatten, l'épineuse question des dettes hypothécaires des maisons détruites",
+    "added_at": "2025-06-06T09:10:46.401Z"
   }
 ]
