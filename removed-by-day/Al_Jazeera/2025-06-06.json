@@ -125,7 +125,7 @@
   {
     "title": "Has DOGE really saved the US government $180bn?",
     "added_at": "2025-06-06T11:26:12.038Z",
-    "removed_at": "2025-06-06T14:36:29.475Z",
+    "removed_at": "2025-06-06T14:35:43.140Z",
     "duration_minutes": 190,
     "duration_str": "3h 10m"
   },
@@ -156,7 +156,7 @@
   {
     "title": "Israel kills at least 22 in Gaza on first day of Eid al-Adha",
     "added_at": "2025-06-06T13:43:29.097Z",
-    "removed_at": "2025-06-06T14:30:36.842Z",
+    "removed_at": "2025-06-06T14:30:01.223Z",
     "duration_minutes": 47,
     "duration_str": "47m"
   },
@@ -168,16 +168,17 @@
   },
   {
     "title": "Israel kills at least 34 in Gaza on first day of Eid al-Adha",
-    "added_at": "2025-06-06T14:30:36.842Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-06-06T14:30:01.223Z",
+    "removed_at": "2025-06-06T17:01:43.880Z",
+    "duration_minutes": 152,
+    "duration_str": "2h 32m"
   },
   {
     "title": "Jordan celebrate reaching first World Cup after win against Oman",
-    "added_at": "2025-06-06T14:36:29.475Z",
+    "added_at": "2025-06-06T14:35:43.140Z",
     "removed_at": "2025-06-06T16:16:37.409Z",
-    "duration_minutes": 100,
-    "duration_str": "1h 40m"
+    "duration_minutes": 101,
+    "duration_str": "1h 41m"
   },
   {
     "title": "The Netherlands to hold election on October 29 after government collapse",
@@ -188,6 +189,32 @@
   {
     "title": "Alcaraz on course for French Open defence as Musetti retires injured",
     "added_at": "2025-06-06T16:16:37.409Z",
+    "removed_at": "2025-06-06T16:55:50.799Z",
+    "duration_minutes": 39,
+    "duration_str": "39m"
+  },
+  {
+    "title": "US economy adds 139,000 jobs as growth slows",
+    "added_at": "2025-06-06T16:30:24.191Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Interpol red notice issued for Ghana’s former finance minister",
+    "added_at": "2025-06-06T16:55:50.799Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Israel kills at least 42 in Gaza on first day of Eid al-Adha",
+    "added_at": "2025-06-06T17:01:43.880Z",
+    "removed_at": "2025-06-06T17:09:36.955Z",
+    "duration_minutes": 8,
+    "duration_str": "8m"
+  },
+  {
+    "title": "Israeli forces kill at least 42 in Gaza on first day of Eid al-Adha",
+    "added_at": "2025-06-06T17:09:36.955Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
