@@ -11463,7 +11463,10 @@
   },
   {
     "title": "culture:::Les douces colères de Solann, nouveau phénomène de la chanson française",
-    "added_at": "2025-06-05T10:59:10.080Z"
+    "added_at": "2025-06-05T10:59:10.080Z",
+    "removed_at": "2025-06-06T04:57:44.831Z",
+    "duration_minutes": 1078,
+    "duration_str": "17h 58m"
   },
   {
     "title": "monde:::En direct, guerre à Gaza – «On veut lui raconter ce que nous voyons sur place»: l’ONG MSF invite Cassis à venir discuter avec elle de la situation humanitaire dans le territoire palestinien",
@@ -11524,7 +11527,10 @@
   },
   {
     "title": "suisse:::Le parlement choisit de ne pas saler l’addition du budget de l’armée",
-    "added_at": "2025-06-05T16:14:51.748Z"
+    "added_at": "2025-06-05T16:14:51.748Z",
+    "removed_at": "2025-06-06T05:40:50.186Z",
+    "duration_minutes": 805,
+    "duration_str": "13h 25m"
   },
   {
     "title": "economie:::Les émissions liées à l’énergie baissent, mais l’avènement de l’IA interroge",
@@ -11535,18 +11541,21 @@
   },
   {
     "title": "cyber:::Empêcher les jeunes de voir du porno? La France agit fermement, la Suisse tergiverse",
-    "added_at": "2025-06-05T16:59:58.275Z",
-    "removed_at": "2025-06-05T18:59:38.351Z",
-    "duration_minutes": 119,
-    "duration_str": "1h 59m"
+    "added_at": "2025-06-05T16:59:58.275Z"
   },
   {
     "title": "sport:::Le Tour de France Femmes 2026 passera par Lausanne, Aigle et Genève",
-    "added_at": "2025-06-05T17:15:36.772Z"
+    "added_at": "2025-06-05T17:15:36.772Z",
+    "removed_at": "2025-06-06T05:13:23.816Z",
+    "duration_minutes": 717,
+    "duration_str": "11h 57m"
   },
   {
     "title": "monde:::Yulia Navalnaya: «Nous devons retrousser nos manches, ensemble, pour faire barrage à Poutine»",
-    "added_at": "2025-06-05T17:45:06.594Z"
+    "added_at": "2025-06-05T17:45:06.594Z",
+    "removed_at": "2025-06-06T05:34:57.998Z",
+    "duration_minutes": 709,
+    "duration_str": "11h 49m"
   },
   {
     "title": "suisse:::Pour accélérer la production d’énergie renouvelable, les sénateurs rejettent le droit de recours des associations environnementales",
@@ -11597,7 +11606,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Quatre morts à Kiev à la suite de frappes russes",
-    "added_at": "2025-06-06T03:43:12.778Z"
+    "added_at": "2025-06-06T03:43:12.778Z",
+    "removed_at": "2025-06-06T05:05:37.653Z",
+    "duration_minutes": 82,
+    "duration_str": "1h 22m"
   },
   {
     "title": "monde:::La guerre déclarée entre Donald Trump et Elon Musk aura des conséquences incalculables",
@@ -11606,5 +11618,21 @@
   {
     "title": "economie:::La dette américaine, une bombe à retardement?",
     "added_at": "2025-06-06T04:32:11.169Z"
+  },
+  {
+    "title": "suisse:::La caisse de pension des fonctionnaires genevois épinglée pour ses investissements en Israël",
+    "added_at": "2025-06-06T04:57:44.831Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – La Russie frappe massivement l’Ukraine après une attaque de drones contre ses bases aériennes",
+    "added_at": "2025-06-06T05:05:37.653Z"
+  },
+  {
+    "title": "monde:::La crainte de voir la Russie riposter avec l’arme nucléaire en Ukraine",
+    "added_at": "2025-06-06T05:34:57.998Z"
+  },
+  {
+    "title": "economie:::Donald Trump veut taxer les entreprises et les investisseurs étrangers pour financer sa réforme fiscale",
+    "added_at": "2025-06-06T05:34:57.998Z"
   }
 ]
