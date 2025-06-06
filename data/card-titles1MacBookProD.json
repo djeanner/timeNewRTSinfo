@@ -16006,7 +16006,10 @@
   },
   {
     "title": "Curabilis, l’unique prison psychiatrique romande, en crise à cause d’un manque chronique de personnel",
-    "added_at": "2025-06-04T20:16:03.305Z"
+    "added_at": "2025-06-04T20:16:03.305Z",
+    "removed_at": "2025-06-06T19:46:43.693Z",
+    "duration_minutes": 2850,
+    "duration_str": "1d 23h 30m"
   },
   {
     "title": "Décès de Jeanne Lovis, l'une des premières femmes à présenter le Téléjournal",
@@ -16074,7 +16077,10 @@
   },
   {
     "title": "Cristiano Ronaldo envoie le Portugal en finale",
-    "added_at": "2025-06-05T05:18:22.910Z"
+    "added_at": "2025-06-05T05:18:22.910Z",
+    "removed_at": "2025-06-06T19:07:32.481Z",
+    "duration_minutes": 2269,
+    "duration_str": "1d 13h 49m"
   },
   {
     "title": "Un cIimat de travail délétère dénoncé à la maternité de l'hôpital de Fribourg",
@@ -16487,5 +16493,20 @@
   {
     "title": "Des journalistes de 24 heures s'inquiètent de la perte de l'ancrage régional du quotidien",
     "added_at": "2025-06-06T18:28:10.509Z"
+  },
+  {
+    "title": "A quelques jours du \"festival des fiertés\", la Hongrie interdit les symboles LGBT+ sur les bâtiments publics",
+    "added_at": "2025-06-06T19:07:32.481Z",
+    "removed_at": "2025-06-06T19:13:25.390Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "A quelques jours du Festival des fiertés, la Hongrie interdit les symboles LGBT+ sur les bâtiments publics",
+    "added_at": "2025-06-06T19:13:25.390Z"
+  },
+  {
+    "title": "Nouvel incident pour la CGN, le bateau \"La Suisse\" est immobilisé",
+    "added_at": "2025-06-06T19:46:43.693Z"
   }
 ]
