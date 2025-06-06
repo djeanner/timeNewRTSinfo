@@ -11680,7 +11680,10 @@
   },
   {
     "title": "suisse:::La Suisse, rempart contre le populisme",
-    "added_at": "2025-06-06T07:30:41.691Z"
+    "added_at": "2025-06-06T07:30:41.691Z",
+    "removed_at": "2025-06-06T17:31:13.502Z",
+    "duration_minutes": 600,
+    "duration_str": "10h"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky appelle ses alliés à réagir de «manière décisive» aux attaques russes de la nuit",
@@ -11726,7 +11729,10 @@
   },
   {
     "title": "culture:::«Paris Noir», un pari presque réussi",
-    "added_at": "2025-06-06T10:05:42.466Z"
+    "added_at": "2025-06-06T10:05:42.466Z",
+    "removed_at": "2025-06-06T18:00:38.135Z",
+    "duration_minutes": 474,
+    "duration_str": "7h 54m"
   },
   {
     "title": "monde:::En direct, guerre à Gaza – «Qu'y a-t-il de mal à cela?»: Israël reconnaît soutenir un groupe criminel armé opposé au Hamas",
@@ -11792,5 +11798,13 @@
   {
     "title": "economie:::Renforcement des fonds propres, confiscation possible de boni… Le Conseil fédéral précise ses exigences pour renforcer les banques systémiques",
     "added_at": "2025-06-06T17:17:23.334Z"
+  },
+  {
+    "title": "economie:::A Berne, les mesures du Conseil fédéral pour sécuriser UBS ne font pas l’unanimité",
+    "added_at": "2025-06-06T17:33:13.925Z"
+  },
+  {
+    "title": "culture:::L’amour, ce Meccano en perpétuelle construction",
+    "added_at": "2025-06-06T18:00:38.135Z"
   }
 ]
