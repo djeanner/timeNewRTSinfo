@@ -13314,7 +13314,10 @@
   },
   {
     "title": "Le nouveau logo de l'Université de Lausanne fait grincer des dents",
-    "added_at": "2025-06-04T09:35:19.030Z"
+    "added_at": "2025-06-04T09:35:19.030Z",
+    "removed_at": "2025-06-06T17:34:19.384Z",
+    "duration_minutes": 3359,
+    "duration_str": "2d 7h 59m"
   },
   {
     "title": "Le canton de Vaud a créé 427 places de crèche en 2024, mais la pénurie persiste",
@@ -13565,7 +13568,10 @@
   },
   {
     "title": "Décès de Jeanne Lovis, l'une des premières femmes à présenter le Téléjournal",
-    "added_at": "2025-06-04T20:27:15.151Z"
+    "added_at": "2025-06-04T20:27:15.151Z",
+    "removed_at": "2025-06-06T15:36:30.332Z",
+    "duration_minutes": 2589,
+    "duration_str": "1d 19h 9m"
   },
   {
     "title": "\"On est toujours en degré 9 sur 10 de dangers\", insiste Raphaël Mayoraz",
@@ -14020,5 +14026,20 @@
   {
     "title": "Les banques vont faire un geste après la destruction des maisons à Blatten",
     "added_at": "2025-06-06T15:34:26.575Z"
+  },
+  {
+    "title": "Dans le val de Bagnes, le chantier du pont du Fregnoley est suspendu pour plusieurs semaines",
+    "added_at": "2025-06-06T15:36:30.332Z",
+    "removed_at": "2025-06-06T15:49:52.502Z",
+    "duration_minutes": 13,
+    "duration_str": "13m"
+  },
+  {
+    "title": "Dans le Val de Bagnes, le chantier du pont du Fregnoley est suspendu pour plusieurs semaines",
+    "added_at": "2025-06-06T15:49:52.502Z"
+  },
+  {
+    "title": "Malgré l'épidémie, la Confédération supprime la prévention de l'obésité",
+    "added_at": "2025-06-06T16:24:05.790Z"
   }
 ]
