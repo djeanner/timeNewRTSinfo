@@ -15582,7 +15582,10 @@
   },
   {
     "title": "Vaste réseau de trafic d'êtres humains démantelé en Suisse",
-    "added_at": "2025-06-03T17:49:20.965Z"
+    "added_at": "2025-06-03T17:49:20.965Z",
+    "removed_at": "2025-06-06T11:34:03.677Z",
+    "duration_minutes": 3944,
+    "duration_str": "2d 17h 44m"
   },
   {
     "title": "Décès d'un Nigérian au poste de police. Les proches de la victime témoignent",
@@ -15887,7 +15890,10 @@
   },
   {
     "title": "Dans \"Ce que l’océan ne dira jamais\", Aurélie Dye-Pellisson raconte le San Francisco de 1900",
-    "added_at": "2025-06-04T14:13:41.796Z"
+    "added_at": "2025-06-04T14:13:41.796Z",
+    "removed_at": "2025-06-06T11:22:19.238Z",
+    "duration_minutes": 2708,
+    "duration_str": "1d 21h 8m"
   },
   {
     "title": "Un premier budget jurassien déficitaire pour Moutier",
@@ -16237,10 +16243,7 @@
   },
   {
     "title": "Des dysfonctionnements sécuritaires menacent l'établissement pénitentiaire Curabilis à Genève",
-    "added_at": "2025-06-05T21:32:42.482Z",
-    "removed_at": "2025-06-06T09:34:19.912Z",
-    "duration_minutes": 721,
-    "duration_str": "12h 1m"
+    "added_at": "2025-06-05T21:32:42.482Z"
   },
   {
     "title": "Le lait suisse pourrait venir à manquer du fait des mauvaises conditions de travail des agriculteurs",
@@ -16334,5 +16337,9 @@
   {
     "title": "La Seine aura-t-elle bientôt des droits juridiques pour être mieux protégée?",
     "added_at": "2025-06-06T10:44:56.640Z"
+  },
+  {
+    "title": "L'Ukraine attaquée par plus de 400 drones et 40 missiles russes",
+    "added_at": "2025-06-06T11:22:19.238Z"
   }
 ]
