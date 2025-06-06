@@ -13146,7 +13146,10 @@
   },
   {
     "title": "Vaste réseau de trafic d'êtres humains démantelé en Suisse",
-    "added_at": "2025-06-03T17:48:30.965Z"
+    "added_at": "2025-06-03T17:48:30.965Z",
+    "removed_at": "2025-06-06T11:33:16.904Z",
+    "duration_minutes": 3944,
+    "duration_str": "2d 17h 44m"
   },
   {
     "title": "Décès d'un Nigérian au poste de police. Les proches de la victime témoignent",
@@ -13164,7 +13167,10 @@
   },
   {
     "title": "Un vaste réseau de trafic d'êtres humains démantelé en Suisse",
-    "added_at": "2025-06-03T18:52:35.310Z"
+    "added_at": "2025-06-03T18:52:35.310Z",
+    "removed_at": "2025-06-06T12:32:09.562Z",
+    "duration_minutes": 3939,
+    "duration_str": "2d 17h 39m"
   },
   {
     "title": "Elon Musk qualifie d'\"abomination répugnante\" le mégaprojet de loi budgétaire de Trump",
@@ -13347,7 +13353,10 @@
   },
   {
     "title": "Enquête administrative ouverte sur d'éventuelles fuites d'informations du SRC vers la Russie",
-    "added_at": "2025-06-04T10:50:44.974Z"
+    "added_at": "2025-06-04T10:50:44.974Z",
+    "removed_at": "2025-06-06T13:02:34.346Z",
+    "duration_minutes": 3011,
+    "duration_str": "2d 2h 11m"
   },
   {
     "title": "Après le National, le Conseil des Etats sonne le glas des cigarettes électroniques jetables",
@@ -13422,7 +13431,10 @@
   },
   {
     "title": "Les conditions de travail précaires dans le secteur laitier font peser la menace d'une pénurie",
-    "added_at": "2025-06-04T13:32:14.086Z"
+    "added_at": "2025-06-04T13:32:14.086Z",
+    "removed_at": "2025-06-06T12:53:06.467Z",
+    "duration_minutes": 2840,
+    "duration_str": "1d 23h 20m"
   },
   {
     "title": "Bombardements israéliens dans le sud de la Syrie après des tirs de roquettes vers Israël",
@@ -13451,7 +13463,10 @@
   },
   {
     "title": "Dans \"Ce que l’océan ne dira jamais\", Aurélie Dye-Pellisson raconte le San Francisco de 1900",
-    "added_at": "2025-06-04T14:13:51.110Z"
+    "added_at": "2025-06-04T14:13:51.110Z",
+    "removed_at": "2025-06-06T11:21:51.345Z",
+    "duration_minutes": 2708,
+    "duration_str": "1d 21h 8m"
   },
   {
     "title": "Un premier budget jurassien déficitaire pour Moutier",
@@ -13462,7 +13477,10 @@
   },
   {
     "title": "La Bulgarie franchit une étape clé vers l'adoption de l'euro en janvier 2026",
-    "added_at": "2025-06-04T14:23:15.315Z"
+    "added_at": "2025-06-04T14:23:15.315Z",
+    "removed_at": "2025-06-06T12:16:57.019Z",
+    "duration_minutes": 2753,
+    "duration_str": "1d 21h 53m"
   },
   {
     "title": "Presque toutes les personnes de 65-74 ans surfent aisément sur internet",
@@ -13482,7 +13500,10 @@
   },
   {
     "title": "Les transports publics nyonnais fusionnent pour plus d'efficacité",
-    "added_at": "2025-06-04T15:33:01.376Z"
+    "added_at": "2025-06-04T15:33:01.376Z",
+    "removed_at": "2025-06-06T12:36:01.142Z",
+    "duration_minutes": 2702,
+    "duration_str": "1d 21h 2m"
   },
   {
     "title": "Podcast - A quoi sert la montagne?",
@@ -13802,9 +13823,9 @@
   {
     "title": "Des dysfonctionnements sécuritaires menacent l'établissement pénitentiaire Curabilis à Genève",
     "added_at": "2025-06-05T21:32:43.570Z",
-    "removed_at": "2025-06-06T09:33:26.919Z",
-    "duration_minutes": 720,
-    "duration_str": "12h"
+    "removed_at": "2025-06-06T12:32:09.562Z",
+    "duration_minutes": 899,
+    "duration_str": "14h 59m"
   },
   {
     "title": "Le lait suisse pourrait venir à manquer du fait des mauvaises conditions de travail des agriculteurs",
@@ -13898,5 +13919,29 @@
   {
     "title": "La Seine aura-t-elle bientôt des droits juridiques pour être mieux protégée?",
     "added_at": "2025-06-06T10:41:48.950Z"
+  },
+  {
+    "title": "L'Ukraine attaquée par plus de 400 drones et 40 missiles russes",
+    "added_at": "2025-06-06T11:21:51.345Z"
+  },
+  {
+    "title": "La Confédération veut débloquer une aide d'urgence de 5 millions pour Blatten",
+    "added_at": "2025-06-06T12:16:57.019Z"
+  },
+  {
+    "title": "Donald Trump et Elon Musk se déchirent publiquement",
+    "added_at": "2025-06-06T12:32:09.562Z"
+  },
+  {
+    "title": "La BNS rejette toute manipulation du cours du franc, alors que Washington surveille la Suisse",
+    "added_at": "2025-06-06T12:36:01.142Z"
+  },
+  {
+    "title": "La piste d'une ingérence étrangère examinée après la dégradation de lieux juifs à Paris",
+    "added_at": "2025-06-06T12:53:06.467Z"
+  },
+  {
+    "title": "Le Conseil fédéral serre la vis à UBS et lui demande de renforcer ses fonds propres",
+    "added_at": "2025-06-06T13:02:34.346Z"
   }
 ]
