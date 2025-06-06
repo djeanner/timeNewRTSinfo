@@ -11477,7 +11477,10 @@
   },
   {
     "title": "sport:::Au Brésil, Ancelotti est devenu Carlinhos",
-    "added_at": "2025-06-05T13:36:04.323Z"
+    "added_at": "2025-06-05T13:36:04.323Z",
+    "removed_at": "2025-06-06T07:30:41.691Z",
+    "duration_minutes": 1074,
+    "duration_str": "17h 54m"
   },
   {
     "title": "sciences:::Pluies intenses, sécheresses estivales… Les risques climatiques augmentent en Suisse",
@@ -11635,5 +11638,9 @@
   {
     "title": "suisse:::L’heure de généraliser les classes bilingues",
     "added_at": "2025-06-06T06:18:02.531Z"
+  },
+  {
+    "title": "suisse:::La Suisse, rempart contre le populisme",
+    "added_at": "2025-06-06T07:30:41.691Z"
   }
 ]
