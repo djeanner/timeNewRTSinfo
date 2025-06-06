@@ -10321,7 +10321,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Washington tempère les estimations de Kiev sur les frappes contre des avions militaires russes",
-    "added_at": "2025-06-05T05:09:37.344Z"
+    "added_at": "2025-06-05T05:09:37.344Z",
+    "removed_at": "2025-06-06T02:49:13.925Z",
+    "duration_minutes": 1299,
+    "duration_str": "21h 39m"
   },
   {
     "title": "economie:::Guerre commerciale: les marchés financiers ont digéré les incertitudes du Liberation day",
@@ -10389,15 +10392,24 @@
   },
   {
     "title": "monde:::En direct, guerre à Gaza – «On veut lui raconter ce que nous voyons sur place»: l’ONG MSF invite Cassis à venir discuter avec elle de la situation humanitaire dans le territoire palestinien",
-    "added_at": "2025-06-05T11:47:53.250Z"
+    "added_at": "2025-06-05T11:47:53.250Z",
+    "removed_at": "2025-06-06T03:00:36.793Z",
+    "duration_minutes": 912,
+    "duration_str": "15h 12m"
   },
   {
     "title": "sport:::Au Brésil, Ancelotti est devenu Carlinhos",
-    "added_at": "2025-06-05T13:35:35.897Z"
+    "added_at": "2025-06-05T13:35:35.897Z",
+    "removed_at": "2025-06-06T03:40:24.188Z",
+    "duration_minutes": 844,
+    "duration_str": "14h 4m"
   },
   {
     "title": "sciences:::Pluies intenses, sécheresses estivales… Les risques climatiques augmentent en Suisse",
-    "added_at": "2025-06-05T13:56:25.736Z"
+    "added_at": "2025-06-05T13:56:25.736Z",
+    "removed_at": "2025-06-06T03:40:24.188Z",
+    "duration_minutes": 823,
+    "duration_str": "13h 43m"
   },
   {
     "title": "monde:::Xi Jinping s’est entretenu par téléphone avec Donald Trump",
@@ -10437,14 +10449,14 @@
   },
   {
     "title": "suisse:::Le parlement choisit de ne pas saler l’addition du budget de l’armée",
-    "added_at": "2025-06-05T16:14:24.506Z",
-    "removed_at": "2025-06-05T21:25:12.555Z",
-    "duration_minutes": 310,
-    "duration_str": "5h 10m"
+    "added_at": "2025-06-05T16:14:24.506Z"
   },
   {
     "title": "economie:::Les émissions liées à l’énergie baissent, mais l’avènement de l’IA interroge",
-    "added_at": "2025-06-05T16:29:35.716Z"
+    "added_at": "2025-06-05T16:29:35.716Z",
+    "removed_at": "2025-06-06T03:40:24.188Z",
+    "duration_minutes": 670,
+    "duration_str": "11h 10m"
   },
   {
     "title": "cyber:::Empêcher les jeunes de voir du porno? La France agit fermement, la Suisse tergiverse",
@@ -10471,10 +10483,42 @@
   },
   {
     "title": "monde:::«Il est temps de lâcher la bombe»: entre Donald Trump et Elon Musk, l’idylle est terminée pour de bon",
-    "added_at": "2025-06-05T20:30:05.636Z"
+    "added_at": "2025-06-05T20:30:05.636Z",
+    "removed_at": "2025-06-06T03:38:28.130Z",
+    "duration_minutes": 428,
+    "duration_str": "7h 8m"
   },
   {
     "title": "economie:::Face à la crise du logement en Suisse, des pistes se dessinent",
     "added_at": "2025-06-05T21:25:12.555Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Donald Trump a demandé à Vladimir Poutine de ne pas répondre à l’attaque de drones",
+    "added_at": "2025-06-06T02:49:13.925Z",
+    "removed_at": "2025-06-06T02:56:45.785Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Washington demande la «fin» de la coopération entre la Russie et la Corée du Nord",
+    "added_at": "2025-06-06T02:56:45.785Z",
+    "removed_at": "2025-06-06T03:30:51.646Z",
+    "duration_minutes": 34,
+    "duration_str": "34m"
+  },
+  {
+    "title": "monde:::En direct, guerre à Gaza – Washington sanctionne 4 juges de la CPI pour des procédures impliquant Israël et les Etats-Unis",
+    "added_at": "2025-06-06T03:00:36.793Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Au moins un mort et 20 blessés après une attaque russe à Kiev",
+    "added_at": "2025-06-06T03:30:51.646Z",
+    "removed_at": "2025-06-06T03:42:14.730Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Quatre morts à Kiev à la suite de frappes russes",
+    "added_at": "2025-06-06T03:42:14.730Z"
   }
 ]
