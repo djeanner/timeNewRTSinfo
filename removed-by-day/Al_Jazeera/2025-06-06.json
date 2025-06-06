@@ -106,14 +106,16 @@
   {
     "title": "At least three killed in Russian attacks on Ukraine",
     "added_at": "2025-06-06T09:59:50.458Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-06T18:22:18.491Z",
+    "duration_minutes": 502,
+    "duration_str": "8h 22m"
   },
   {
     "title": "What is driving a surge in COVID cases in India, other countries?",
     "added_at": "2025-06-06T10:31:13.765Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-06T18:12:31.150Z",
+    "duration_minutes": 461,
+    "duration_str": "7h 41m"
   },
   {
     "title": "Modi inaugurates strategic railway project in Indian-administered Kashmir",
@@ -176,7 +178,7 @@
   {
     "title": "Jordan celebrate reaching first World Cup after win against Oman",
     "added_at": "2025-06-06T14:35:43.140Z",
-    "removed_at": "2025-06-06T16:16:37.409Z",
+    "removed_at": "2025-06-06T16:16:26.998Z",
     "duration_minutes": 101,
     "duration_str": "1h 41m"
   },
@@ -188,16 +190,17 @@
   },
   {
     "title": "Alcaraz on course for French Open defence as Musetti retires injured",
-    "added_at": "2025-06-06T16:16:37.409Z",
+    "added_at": "2025-06-06T16:16:26.998Z",
     "removed_at": "2025-06-06T16:55:50.799Z",
     "duration_minutes": 39,
     "duration_str": "39m"
   },
   {
     "title": "US economy adds 139,000 jobs as growth slows",
-    "added_at": "2025-06-06T16:30:24.191Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-06-06T16:29:49.971Z",
+    "removed_at": "2025-06-06T18:47:46.894Z",
+    "duration_minutes": 138,
+    "duration_str": "2h 18m"
   },
   {
     "title": "Interpol red notice issued for Ghana’s former finance minister",
@@ -215,13 +218,31 @@
   {
     "title": "Israeli forces kill at least 42 in Gaza on first day of Eid al-Adha",
     "added_at": "2025-06-06T17:09:36.955Z",
-    "removed_at": "2025-06-06T17:31:13.853Z",
-    "duration_minutes": 22,
-    "duration_str": "22m"
+    "removed_at": "2025-06-06T17:30:33.049Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
   },
   {
     "title": "Israel hits Gaza with wave of attacks on first day of Eid, killing 42",
-    "added_at": "2025-06-06T17:31:13.853Z",
+    "added_at": "2025-06-06T17:30:33.049Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Tottenham sack Postecoglou despite Europa League win",
+    "added_at": "2025-06-06T18:12:31.150Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "At least four killed in Russian attacks on Ukraine",
+    "added_at": "2025-06-06T18:22:18.491Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Russia’s Wagner mercenaries leaving Mali, Africa Corps to remain",
+    "added_at": "2025-06-06T18:47:46.894Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
