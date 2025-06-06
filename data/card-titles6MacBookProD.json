@@ -8554,7 +8554,10 @@
   },
   {
     "title": "At least four killed in Russian attacks on Kyiv",
-    "added_at": "2025-06-06T07:44:36.338Z"
+    "added_at": "2025-06-06T07:44:36.338Z",
+    "removed_at": "2025-06-06T09:59:50.458Z",
+    "duration_minutes": 135,
+    "duration_str": "2h 15m"
   },
   {
     "title": "Where does Poland’s new president stand on Ukraine?",
@@ -8567,5 +8570,9 @@
   {
     "title": "Gaza Humanitarian Foundation again shuts all aid points in the Strip",
     "added_at": "2025-06-06T08:51:12.123Z"
+  },
+  {
+    "title": "At least three killed in Russian attacks on Ukraine",
+    "added_at": "2025-06-06T09:59:50.458Z"
   }
 ]
