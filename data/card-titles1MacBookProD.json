@@ -15417,7 +15417,10 @@
   },
   {
     "title": "Le président du PLR suisse Thierry Burkart annonce sa démission pour octobre",
-    "added_at": "2025-06-03T12:58:01.474Z"
+    "added_at": "2025-06-03T12:58:01.474Z",
+    "removed_at": "2025-06-06T00:33:04.000Z",
+    "duration_minutes": 3575,
+    "duration_str": "2d 11h 35m"
   },
   {
     "title": "L'Ukraine revendique une nouvelle attaque contre le pont de Crimée",
@@ -16208,5 +16211,9 @@
   {
     "title": "Trump et Musk se déchirent en public",
     "added_at": "2025-06-05T23:32:10.946Z"
+  },
+  {
+    "title": "Les syndicats manifestent à Fribourg contre le plan d'assainissement des finances du canton",
+    "added_at": "2025-06-06T00:33:04.000Z"
   }
 ]
