@@ -6448,7 +6448,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:00:57.917Z"
+    "added_at": "2025-05-22T18:00:57.917Z",
+    "removed_at": "2025-06-06T22:04:37.666Z",
+    "duration_minutes": 21843,
+    "duration_str": "15d 4h 3m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -10341,7 +10344,10 @@
   },
   {
     "title": "suisse:::Pour l’historien Christian Pfister, les catastrophes du type de Blatten «ont largement contribué à la création d’un sentiment national»",
-    "added_at": "2025-06-05T06:36:21.297Z"
+    "added_at": "2025-06-05T06:36:21.297Z",
+    "removed_at": "2025-06-06T22:04:37.666Z",
+    "duration_minutes": 2368,
+    "duration_str": "1d 15h 28m"
   },
   {
     "title": "economie:::Guerre commerciale: les marchés financiers ont digéré les incertitudes du Liberation Day",
@@ -10562,7 +10568,10 @@
   },
   {
     "title": "monde:::La guerre déclarée entre Donald Trump et Elon Musk aura des conséquences incalculables",
-    "added_at": "2025-06-06T04:29:43.995Z"
+    "added_at": "2025-06-06T04:29:43.995Z",
+    "removed_at": "2025-06-06T22:04:37.666Z",
+    "duration_minutes": 1054,
+    "duration_str": "17h 34m"
   },
   {
     "title": "economie:::La dette américaine, une bombe à retardement?",
@@ -10598,7 +10607,10 @@
   },
   {
     "title": "suisse:::L’heure de généraliser les classes bilingues",
-    "added_at": "2025-06-06T06:17:52.207Z"
+    "added_at": "2025-06-06T06:17:52.207Z",
+    "removed_at": "2025-06-06T22:04:37.666Z",
+    "duration_minutes": 946,
+    "duration_str": "15h 46m"
   },
   {
     "title": "suisse:::La Suisse, rempart contre le populisme",
@@ -10651,11 +10663,17 @@
   },
   {
     "title": "culture:::«Paris Noir», un pari presque réussi",
-    "added_at": "2025-06-06T10:05:38.317Z"
+    "added_at": "2025-06-06T10:05:38.317Z",
+    "removed_at": "2025-06-06T18:01:09.007Z",
+    "duration_minutes": 475,
+    "duration_str": "7h 55m"
   },
   {
     "title": "monde:::En direct, guerre à Gaza – «Qu'y a-t-il de mal à cela?»: Israël reconnaît soutenir un groupe criminel armé opposé au Hamas",
-    "added_at": "2025-06-06T11:16:09.324Z"
+    "added_at": "2025-06-06T11:16:09.324Z",
+    "removed_at": "2025-06-06T22:04:37.666Z",
+    "duration_minutes": 648,
+    "duration_str": "10h 48m"
   },
   {
     "title": "suisse:::Le Conseil fédéral veut débloquer une aide d’urgence de 5 millions de francs pour Blatten",
@@ -10688,11 +10706,17 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Moscou juge le conflit «existentiel» après avoir mené des frappes de représailles",
-    "added_at": "2025-06-06T14:58:26.215Z"
+    "added_at": "2025-06-06T14:58:26.215Z",
+    "removed_at": "2025-06-06T22:04:37.666Z",
+    "duration_minutes": 426,
+    "duration_str": "7h 6m"
   },
   {
     "title": "sciences:::Claire Nouvian, fondatrice de l’ONG Bloom: «Si le secteur de la pêche industrielle nous attaque, c’est parce que nous gagnons»",
-    "added_at": "2025-06-06T15:09:47.882Z"
+    "added_at": "2025-06-06T15:09:47.882Z",
+    "removed_at": "2025-06-06T22:04:37.666Z",
+    "duration_minutes": 414,
+    "duration_str": "6h 54m"
   },
   {
     "title": "suisse:::Le Conseil fédéral décide d’une aide urgente de 5 millions de francs pour Blatten",
@@ -10716,10 +10740,53 @@
   },
   {
     "title": "economie:::Renforcement des fonds propres, confiscation possible de boni… Le Conseil fédéral précise ses exigences pour renforcer les banques systémiques",
-    "added_at": "2025-06-06T17:19:07.473Z"
+    "added_at": "2025-06-06T17:19:07.473Z",
+    "removed_at": "2025-06-06T18:18:13.186Z",
+    "duration_minutes": 59,
+    "duration_str": "59m"
   },
   {
     "title": "economie:::A Berne, les mesures du Conseil fédéral pour sécuriser UBS ne font pas l’unanimité",
     "added_at": "2025-06-06T17:32:28.502Z"
+  },
+  {
+    "title": "culture:::L’amour, ce Meccano en perpétuelle construction",
+    "added_at": "2025-06-06T18:01:09.007Z"
+  },
+  {
+    "title": "economie:::Renforcement des fonds propres, confiscation possible de bonus… Le Conseil fédéral précise ses exigences pour renforcer les banques systémiques",
+    "added_at": "2025-06-06T18:18:13.186Z"
+  },
+  {
+    "title": "monde:::Israël soutient à Gaza des bandits armés pour contrecarrer le Hamas",
+    "added_at": "2025-06-06T22:04:37.666Z"
+  },
+  {
+    "title": "monde:::La trêve est précaire entre Elon Musk et Donald Trump",
+    "added_at": "2025-06-06T22:04:37.666Z"
+  },
+  {
+    "title": "monde:::Donald Trump annonce des discussions commerciales sino-américaines lundi à Londres",
+    "added_at": "2025-06-06T22:04:37.666Z"
+  },
+  {
+    "title": "sport:::A Roland-Garros, Carlos Alcaraz vainqueur par jet de l’éponge",
+    "added_at": "2025-06-06T22:04:37.666Z"
+  },
+  {
+    "title": "culture:::A l'Arsenic et à la Grange-Unil à Lausanne, de jeunes interprètes phénoménaux renouvellent l'art du solo",
+    "added_at": "2025-06-06T22:04:37.666Z"
+  },
+  {
+    "title": "culture:::«Plaine orientale», la Corse avec ses clichés mafieux, mais pas seulement",
+    "added_at": "2025-06-06T22:04:37.666Z"
+  },
+  {
+    "title": "monde:::Guerre à Gaza – Israël menace de continuer à frapper le Liban si le Hezbollah n’est pas désarmé",
+    "added_at": "2025-06-06T22:04:37.666Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Moscou juge le conflit «existentiel» après avoir mené des frappes de représailles",
+    "added_at": "2025-06-06T22:04:37.666Z"
   }
 ]
