@@ -8708,7 +8708,10 @@
   },
   {
     "title": "Interpol red notice issued for Ghana’s former finance minister",
-    "added_at": "2025-06-06T16:55:50.799Z"
+    "added_at": "2025-06-06T16:55:50.799Z",
+    "removed_at": "2025-06-07T06:48:54.432Z",
+    "duration_minutes": 833,
+    "duration_str": "13h 53m"
   },
   {
     "title": "Israel kills at least 42 in Gaza on first day of Eid al-Adha",
@@ -8815,5 +8818,16 @@
   {
     "title": "Israel kills 5 seeking aid near Rafah in latest distribution point violence",
     "added_at": "2025-06-07T06:05:37.455Z"
+  },
+  {
+    "title": "Police, protesters clash in Los Angeles following immigration raids",
+    "added_at": "2025-06-07T06:46:54.304Z",
+    "removed_at": "2025-06-07T06:50:48.450Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "US police, protesters clash in Los Angeles following immigration raids",
+    "added_at": "2025-06-07T06:50:48.450Z"
   }
 ]
