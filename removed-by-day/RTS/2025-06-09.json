@@ -461,8 +461,9 @@
   {
     "title": "Le navire humanitaire Madleen intercepté dans sa route vers Gaza et dérouté vers un port israélien",
     "added_at": "2025-06-09T13:23:44.025Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-09T18:50:04.075Z",
+    "duration_minutes": 326,
+    "duration_str": "5h 26m"
   },
   {
     "title": "Les \"humanisateurs\" dissimulent désormais l'utilisation de l'intelligence artificielle dans les textes",
@@ -553,6 +554,33 @@
   {
     "title": "Des manifestants pro-palestiniens sur les voies en gare de Lausanne et Genève, le trafic CFF fortement perturbé",
     "added_at": "2025-06-09T18:04:48.564Z",
+    "removed_at": "2025-06-09T18:14:47.037Z",
+    "duration_minutes": 10,
+    "duration_str": "10m"
+  },
+  {
+    "title": "Des manifestants pro-palestiniens sur les voies en gare de Lausanne et Genève, le trafic CFF partiellement interrompu",
+    "added_at": "2025-06-09T18:14:47.037Z",
+    "removed_at": "2025-06-09T18:22:34.417Z",
+    "duration_minutes": 8,
+    "duration_str": "8m"
+  },
+  {
+    "title": "D'importantes manifestations pro-palestiniennes en gare de Lausanne et Genève, le trafic CFF fortement perturbé",
+    "added_at": "2025-06-09T18:22:34.417Z",
+    "removed_at": "2025-06-09T18:57:51.275Z",
+    "duration_minutes": 35,
+    "duration_str": "35m"
+  },
+  {
+    "title": "Le navire humanitaire Madleen, intercepté dans sa route vers Gaza, est arrivé au port israélien d'Ashdod",
+    "added_at": "2025-06-09T18:48:03.912Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Des manifestants pro-palestiniens ont bloqué les voies en gare de Lausanne et Genève, le trafic CFF toujours fortement perturbé",
+    "added_at": "2025-06-09T18:57:51.275Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
