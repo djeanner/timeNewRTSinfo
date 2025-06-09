@@ -14511,7 +14511,10 @@
   },
   {
     "title": "1000 manifestants réclament justice à Lausanne après la mort de Michael",
-    "added_at": "2025-06-09T12:53:59.838Z"
+    "added_at": "2025-06-09T12:53:59.838Z",
+    "removed_at": "2025-06-09T17:42:54.400Z",
+    "duration_minutes": 288,
+    "duration_str": "4h 48m"
   },
   {
     "title": "Pas question d'utiliser un âne pour protéger un troupeau de moutons face au loup",
@@ -14667,11 +14670,17 @@
   },
   {
     "title": "L'actrice Vanessa Paradis en tournage en Valais",
-    "added_at": "2025-06-09T12:53:59.838Z"
+    "added_at": "2025-06-09T12:53:59.838Z",
+    "removed_at": "2025-06-09T17:10:36.352Z",
+    "duration_minutes": 256,
+    "duration_str": "4h 16m"
   },
   {
     "title": "Jusqu'à 20 kilomètres de bouchons au Gothard et plus de 3 heures d'attente",
-    "added_at": "2025-06-09T12:53:59.838Z"
+    "added_at": "2025-06-09T12:53:59.838Z",
+    "removed_at": "2025-06-09T16:55:27.835Z",
+    "duration_minutes": 241,
+    "duration_str": "4h 1m"
   },
   {
     "title": "Les habitants de la Vallée de Joux s’écharpent sur leur futur blason",
@@ -14751,5 +14760,42 @@
   {
     "title": "Les vols sont en hausse au Conservatoire et jardin botaniques de Genève",
     "added_at": "2025-06-09T15:45:06.220Z"
+  },
+  {
+    "title": "Les astuces pour un camping sauvage réussi et respectueux en Suisse",
+    "added_at": "2025-06-09T16:55:27.835Z"
+  },
+  {
+    "title": "Fuir, fabriquer des drones ou faire la guerre: trois jeunes Ukrainiens racontent l'impact du conflit sur leurs vies",
+    "added_at": "2025-06-09T17:10:36.352Z"
+  },
+  {
+    "title": "Importante manifestation pro-palestinienne en gare de Genève, le trafic CFF perturbé",
+    "added_at": "2025-06-09T17:37:12.715Z",
+    "removed_at": "2025-06-09T18:00:00.632Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
+  },
+  {
+    "title": "Les petites mains qui alimentent l'intelligence artificielle",
+    "added_at": "2025-06-09T17:42:54.400Z"
+  },
+  {
+    "title": "D'importantes manifestations pro-palestiniennes en gare de Lausanne et Genève, le trafic CFF perturbé",
+    "added_at": "2025-06-09T18:00:00.632Z",
+    "removed_at": "2025-06-09T18:05:42.666Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "Des manifestants pro-palestiniens sur les voies en gare de Lausanne et Genève, le trafic CFF fortement perturbé",
+    "added_at": "2025-06-09T18:05:42.666Z",
+    "removed_at": "2025-06-09T18:13:18.974Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Des manifestants pro-palestiniens sur les voies en gare de Lausanne et Genève, le trafic CFF partiellement interrompu",
+    "added_at": "2025-06-09T18:13:18.974Z"
   }
 ]
