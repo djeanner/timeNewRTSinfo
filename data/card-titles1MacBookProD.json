@@ -17185,7 +17185,10 @@
   },
   {
     "title": "Les manifestations continuent à Los Angeles, la police interdit le centre-ville",
-    "added_at": "2025-06-09T14:28:36.194Z"
+    "added_at": "2025-06-09T14:28:36.194Z",
+    "removed_at": "2025-06-09T19:05:49.439Z",
+    "duration_minutes": 277,
+    "duration_str": "4h 37m"
   },
   {
     "title": "Divorce Trump-Musk, quels sont les enjeux? Interview de John Plassard",
@@ -17261,5 +17264,16 @@
   {
     "title": "Des manifestants pro-palestiniens ont bloqué les voies en gare de Lausanne et Genève, le trafic CFF toujours fortement perturbé",
     "added_at": "2025-06-09T18:57:51.275Z"
+  },
+  {
+    "title": "Los Angeles à cran après trois jours de manifestations, Donald Trump blâme des \"agitateurs professionnels\"",
+    "added_at": "2025-06-09T19:05:49.439Z",
+    "removed_at": "2025-06-09T19:19:38.042Z",
+    "duration_minutes": 13,
+    "duration_str": "13m"
+  },
+  {
+    "title": "Los Angeles sous tension après trois jours de manifestations, Donald Trump blâme des \"agitateurs professionnels\"",
+    "added_at": "2025-06-09T19:19:38.042Z"
   }
 ]
