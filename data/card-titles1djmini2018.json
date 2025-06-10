@@ -14656,11 +14656,17 @@
   },
   {
     "title": "Coco Gauff remporte son 1er Roland-Garros en battant Aryna Sabalenka",
-    "added_at": "2025-06-09T12:53:59.838Z"
+    "added_at": "2025-06-09T12:53:59.838Z",
+    "removed_at": "2025-06-10T04:42:21.122Z",
+    "duration_minutes": 948,
+    "duration_str": "15h 48m"
   },
   {
     "title": "La Défense civile fait état de 36 morts à Gaza, dont 6 près d'un centre de distribution d'aide",
-    "added_at": "2025-06-09T12:53:59.838Z"
+    "added_at": "2025-06-09T12:53:59.838Z",
+    "removed_at": "2025-06-10T04:27:07.262Z",
+    "duration_minutes": 933,
+    "duration_str": "15h 33m"
   },
   {
     "title": "Succès du premier festival dédié au journalisme, sur fond de turbulences pour les médias romands",
@@ -14859,7 +14865,10 @@
   },
   {
     "title": "Des manifestants pro-palestiniens ont bloqué les voies en gare de Lausanne et Genève, le trafic CFF a été fortement perturbé",
-    "added_at": "2025-06-09T19:59:54.128Z"
+    "added_at": "2025-06-09T19:59:54.128Z",
+    "removed_at": "2025-06-10T03:58:39.892Z",
+    "duration_minutes": 478,
+    "duration_str": "7h 58m"
   },
   {
     "title": "L'écrivain Frederick Forsyth, auteur de \"Chacal\", est décédé à l'âge de 86 ans",
@@ -14894,5 +14903,38 @@
   {
     "title": "Les membres du navire humanitaire Madleen, intercepté dans sa route vers Gaza, vont être rapatriés",
     "added_at": "2025-06-10T02:10:16.131Z"
+  },
+  {
+    "title": "Des manifestants pro-palestiniens ont bloqué les voies en gare de Lausanne et Genève, le trafic CFF fortement perturbé",
+    "added_at": "2025-06-10T03:56:49.154Z",
+    "removed_at": "2025-06-10T04:25:16.387Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
+  },
+  {
+    "title": "Des manifestants pro-palestiniens ont bloqué les voies en gare de Lausanne et Genève",
+    "added_at": "2025-06-10T04:21:24.521Z"
+  },
+  {
+    "title": "\"Je n'arrivais plus à être empathique\": à bout, des soignantes et soignants témoignent",
+    "added_at": "2025-06-10T04:27:07.262Z"
+  },
+  {
+    "title": "Le trafic ferroviaire toujours perturbé mardi matin après les manifestations de la veille",
+    "added_at": "2025-06-10T04:42:21.122Z",
+    "removed_at": "2025-06-10T04:48:01.766Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "Le trafic ferroviaire est fortement perturbé mardi matin après les manifestations de la veille",
+    "added_at": "2025-06-10T04:48:01.766Z",
+    "removed_at": "2025-06-10T05:46:46.219Z",
+    "duration_minutes": 58,
+    "duration_str": "58m"
+  },
+  {
+    "title": "Le trafic ferroviaire est perturbé mardi matin après les manifestations de la veille",
+    "added_at": "2025-06-10T05:46:46.219Z"
   }
 ]
