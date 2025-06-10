@@ -17277,7 +17277,10 @@
   },
   {
     "title": "Le navire humanitaire Madleen, intercepté dans sa route vers Gaza, est arrivé au port israélien d'Ashdod",
-    "added_at": "2025-06-09T18:48:03.912Z"
+    "added_at": "2025-06-09T18:48:03.912Z",
+    "removed_at": "2025-06-10T01:27:03.891Z",
+    "duration_minutes": 398,
+    "duration_str": "6h 38m"
   },
   {
     "title": "Des manifestants pro-palestiniens ont bloqué les voies en gare de Lausanne et Genève, le trafic CFF toujours fortement perturbé",
@@ -17323,5 +17326,9 @@
   {
     "title": "Donald Trump envoie des centaines de Marines à Los Angeles",
     "added_at": "2025-06-10T00:38:01.538Z"
+  },
+  {
+    "title": "Les membres du navire humanitaire Madleen, intercepté dans sa route vers Gaza, sur le point d'être rapatriés",
+    "added_at": "2025-06-10T01:25:09.558Z"
   }
 ]
