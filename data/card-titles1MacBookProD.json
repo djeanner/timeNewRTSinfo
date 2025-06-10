@@ -17458,7 +17458,10 @@
   },
   {
     "title": "Le trafic ferroviaire a été perturbé mardi matin après les manifestations de la veille",
-    "added_at": "2025-06-10T08:08:45.099Z"
+    "added_at": "2025-06-10T08:08:45.099Z",
+    "removed_at": "2025-06-10T11:15:39.768Z",
+    "duration_minutes": 186,
+    "duration_str": "3h 6m"
   },
   {
     "title": "Mahmoud Abbas se dit favorable à la démilitarisation du Hamas et à la fin de de son rôle politique à Gaza",
@@ -17513,5 +17516,9 @@
   {
     "title": "Builder.ai s'effondre après avoir caché 700 développeurs derrière son \"IA\"",
     "added_at": "2025-06-10T10:59:47.184Z"
+  },
+  {
+    "title": "Le trafic ferroviaire a été perturbé mardi matin après les manifestations de la veille, les CFF vont porter plainte",
+    "added_at": "2025-06-10T11:15:39.768Z"
   }
 ]
