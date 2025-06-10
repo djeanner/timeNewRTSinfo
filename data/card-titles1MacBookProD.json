@@ -17561,7 +17561,10 @@
   },
   {
     "title": "Forum des médias - Gaza, Cassis et la neutralité suisse",
-    "added_at": "2025-06-10T10:44:04.969Z"
+    "added_at": "2025-06-10T10:44:04.969Z",
+    "removed_at": "2025-06-10T16:44:12.566Z",
+    "duration_minutes": 360,
+    "duration_str": "6h"
   },
   {
     "title": "Une attaque dans une école en Autriche fait une dizaine de morts",
@@ -17692,5 +17695,9 @@
   {
     "title": "Le Parlement approuve l'inscription de l'argent liquide dans la Constitution",
     "added_at": "2025-06-10T16:12:40.233Z"
+  },
+  {
+    "title": "Plusieurs morts dans une fusillade dans une école à Graz en Autriche",
+    "added_at": "2025-06-10T16:44:12.566Z"
   }
 ]
