@@ -12309,7 +12309,10 @@
   },
   {
     "title": "monde:::Fusillade à Graz, en Autriche: le bilan provisoire fait état de dix morts et plusieurs blessés graves",
-    "added_at": "2025-06-10T10:42:06.767Z"
+    "added_at": "2025-06-10T10:42:06.767Z",
+    "removed_at": "2025-06-10T19:06:03.033Z",
+    "duration_minutes": 503,
+    "duration_str": "8h 23m"
   },
   {
     "title": "monde:::En direct – Ignazio Cassis en visite éclair au Proche-Orient",
@@ -12395,5 +12398,9 @@
   {
     "title": "culture:::Petra Volpe, réalisatrice d'«En première ligne»: «S’il n’y a pas assez d’infirmières pour pratiquer les soins, vous pouvez mourir»",
     "added_at": "2025-06-10T18:54:08.944Z"
+  },
+  {
+    "title": "monde:::L’Autriche sous le choc après une fusillade mortelle dans un lycée",
+    "added_at": "2025-06-10T19:06:03.033Z"
   }
 ]
