@@ -10923,7 +10923,10 @@
   },
   {
     "title": "suisse:::Meyrin et son centre-ville, une greffe du cœur qui a réussi",
-    "added_at": "2025-06-09T12:53:59.906Z"
+    "added_at": "2025-06-09T12:53:59.906Z",
+    "removed_at": "2025-06-11T02:05:41.454Z",
+    "duration_minutes": 2231,
+    "duration_str": "1d 13h 11m"
   },
   {
     "title": "suisse:::Une trentaine d’habitants évacués dans le haut du Val de Bagnes",
@@ -11232,7 +11235,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L’Union européenne propose un 18ème «paquet» de sanctions contre la Russie",
-    "added_at": "2025-06-10T13:32:39.290Z"
+    "added_at": "2025-06-10T13:32:39.290Z",
+    "removed_at": "2025-06-11T02:05:41.454Z",
+    "duration_minutes": 753,
+    "duration_str": "12h 33m"
   },
   {
     "title": "economie:::Terres rares: la guerre chinoise des aimants menace l’industrie mondiale",
@@ -11289,5 +11295,13 @@
   {
     "title": "monde:::L’Autriche sous le choc après une fusillade mortelle dans un lycée",
     "added_at": "2025-06-10T19:05:48.541Z"
+  },
+  {
+    "title": "culture:::«Rideau pour le commissaire Ricciardi»: faux meurtre et vrai cadavre à Naples",
+    "added_at": "2025-06-11T02:05:41.454Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Deux morts et 54 blessés dans de nouvelles frappes russes sur Kharkiv",
+    "added_at": "2025-06-11T02:05:41.454Z"
   }
 ]
