@@ -30,8 +30,9 @@
   {
     "title": "La maire de Los Angeles déclare un couvre-feu à partir de mardi soir dans le quartier de Downtown",
     "added_at": "2025-06-11T01:59:47.946Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-11T04:01:54.191Z",
+    "duration_minutes": 122,
+    "duration_str": "2h 2m"
   },
   {
     "title": "En direct, guerre en Ukraine : deux morts et 37 blessés dans de nouvelles frappes russes sur Kharkiv",
@@ -64,8 +65,9 @@
   {
     "title": "Vincent Duclert, historien : « La focalisation sur l’occurrence d’un génocide à Gaza est contre-productive »",
     "added_at": "2025-06-11T03:42:13.172Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-11T04:11:46.811Z",
+    "duration_minutes": 30,
+    "duration_str": "30m"
   },
   {
     "title": "UNOC : Emmanuel Macron, l’océan et la dérive de la planification écologique",
@@ -76,6 +78,25 @@
   {
     "title": "A Nogent, les habitants sidérés par la mort d’une surveillante, poignardée par un élève de 3ᵉ : « D’habitude, on voit ça à la télé, on ne pensait pas que ça arriverait ici »",
     "added_at": "2025-06-11T03:50:01.728Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Los Angeles placée par couvre-feu partiel par la maire Karen Bass, en marge des manifestations contre la politique migratoire de Donald Trump",
+    "added_at": "2025-06-11T04:01:54.191Z",
+    "removed_at": "2025-06-11T04:11:46.811Z",
+    "duration_minutes": 10,
+    "duration_str": "10m"
+  },
+  {
+    "title": "Olivier Blanchard, Jean Pisani-Ferry et Gabriel Zucman : « Nous partageons le constat qu’un impôt plancher sur les grandes fortunes est le plus efficace face à l’inégalité fiscale »",
+    "added_at": "2025-06-11T04:11:46.811Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Los Angeles placée sous couvre-feu partiel par la maire Karen Bass, en marge des manifestations contre la politique migratoire de Donald Trump",
+    "added_at": "2025-06-11T04:11:46.811Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
