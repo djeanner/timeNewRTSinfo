@@ -17410,7 +17410,10 @@
   },
   {
     "title": "Les glissements de terrain s'accélèrent dans le Haut Val de Bagnes, la situation sous surveillance",
-    "added_at": "2025-06-09T14:54:16.149Z"
+    "added_at": "2025-06-09T14:54:16.149Z",
+    "removed_at": "2025-06-11T19:50:08.485Z",
+    "duration_minutes": 3175,
+    "duration_str": "2d 4h 55m"
   },
   {
     "title": "Les paysans suisses s'inquiètent de la concurrence du fromage américain",
@@ -17629,7 +17632,10 @@
   },
   {
     "title": "L'intelligence artificielle devient indétectable dans les travaux d'étudiants",
-    "added_at": "2025-06-10T07:43:18.797Z"
+    "added_at": "2025-06-10T07:43:18.797Z",
+    "removed_at": "2025-06-11T19:50:08.485Z",
+    "duration_minutes": 2166,
+    "duration_str": "1d 12h 6m"
   },
   {
     "title": "La chanson virale de l'Eurovision \"Made in Switzerland\" est disponible en streaming",
@@ -17787,7 +17793,10 @@
   },
   {
     "title": "Le calvaire oublié des \"filles perdues\", ces jeunes Espagnoles internées sous Franco",
-    "added_at": "2025-06-10T13:56:55.803Z"
+    "added_at": "2025-06-10T13:56:55.803Z",
+    "removed_at": "2025-06-11T20:15:47.714Z",
+    "duration_minutes": 1818,
+    "duration_str": "1d 6h 18m"
   },
   {
     "title": "\"Là où dorment les géants\", nouvel album poétique, féministe et coloré de Maurane Mazars",
@@ -17928,10 +17937,7 @@
   },
   {
     "title": "Intempéries : nouveau coup dur pour la population du Val de Bagnes (VS)",
-    "added_at": "2025-06-11T00:48:53.004Z",
-    "removed_at": "2025-06-11T17:51:42.043Z",
-    "duration_minutes": 1022,
-    "duration_str": "17h 2m"
+    "added_at": "2025-06-11T00:48:53.004Z"
   },
   {
     "title": "Peine de prison et inéligibilité confirmées pour l'ex-présidente argentine Cristina Kirchner",
@@ -18152,5 +18158,13 @@
   {
     "title": "Israël va expulser les quatre militants français du voilier \"Madleen\"",
     "added_at": "2025-06-11T19:26:24.587Z"
+  },
+  {
+    "title": "Trois Suisses témoignent à la veille de la \"Marche vers Gaza\"",
+    "added_at": "2025-06-11T20:15:47.714Z"
+  },
+  {
+    "title": "Harvey Weinstein reconnu coupable d'une agression sexuelle lors d'un nouveau procès",
+    "added_at": "2025-06-11T20:27:36.945Z"
   }
 ]
