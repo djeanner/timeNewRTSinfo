@@ -12606,7 +12606,10 @@
   },
   {
     "title": "sport:::Fête fédérale de gymnastique à Lausanne: la folie des grandeurs",
-    "added_at": "2025-06-11T16:40:44.907Z"
+    "added_at": "2025-06-11T16:40:44.907Z",
+    "removed_at": "2025-06-12T14:01:38.907Z",
+    "duration_minutes": 1280,
+    "duration_str": "21h 20m"
   },
   {
     "title": "economie:::Surprise: les tarifs douaniers n’alimentent pas l’inflation américaine, pour le moment",
@@ -12778,5 +12781,9 @@
   {
     "title": "economie:::Entre la Chine et les Etats-Unis, un accord commercial empreint d’incertitudes",
     "added_at": "2025-06-12T13:21:51.820Z"
+  },
+  {
+    "title": "economie:::Webinaire – Les grands défis des CFF en Suisse romande",
+    "added_at": "2025-06-12T14:27:15.483Z"
   }
 ]
