@@ -430,8 +430,9 @@
   {
     "title": "Brian Wilson, chanteur et compositeur des Beach Boys, est mort",
     "added_at": "2025-06-12T09:03:07.033Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-12T18:02:44.594Z",
+    "duration_minutes": 540,
+    "duration_str": "9h"
   },
   {
     "title": "Gouvernement Bayrou : plus de la moitié des ministres sont millionnaires, selon leur déclaration de patrimoine",
@@ -774,8 +775,9 @@
   {
     "title": "« Dans le conflit entre la Russie et l’Ukraine, la question territoriale est importante, certes, mais pas autant qu’il n’y paraît »",
     "added_at": "2025-06-12T13:02:13.142Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-12T18:50:04.188Z",
+    "duration_minutes": 348,
+    "duration_str": "5h 48m"
   },
   {
     "title": "Crash du vol Air India à destination de Londres : 204 corps ont été retrouvés, selon le chef de la police d’Ahmedabad",
@@ -1077,8 +1079,9 @@
   {
     "title": "Le vol d’Air India 171 s’écrase peu après son décollage de la ville d’Ahmedabad, plus de 200 corps et un survivant retrouvés dans les décombres",
     "added_at": "2025-06-12T15:54:17.367Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-12T18:10:39.815Z",
+    "duration_minutes": 136,
+    "duration_str": "2h 16m"
   },
   {
     "title": "Dans le procès de Harvey Weinstein à New York, la procédure pour viol a été jugée nulle",
@@ -1298,6 +1301,39 @@
   {
     "title": "Le combat de deux sœurs pour la reconnaissance du couple qui les a cachées pendant la seconde guerre mondiale",
     "added_at": "2025-06-12T18:00:39.124Z",
+    "removed_at": "2025-06-12T18:18:30.236Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
+  },
+  {
+    "title": "Surveillante tuée devant un collège à Nogent : le collégien mis en examen pour meurtre",
+    "added_at": "2025-06-12T18:02:44.594Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Le vol d’Air India 171 s’écrase peu après son décollage de la ville d’Ahmedabad, 260 corps et un survivant retrouvés dans les décombres",
+    "added_at": "2025-06-12T18:10:39.815Z",
+    "removed_at": "2025-06-12T18:34:19.958Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "Le combat de deux sœurs pour que le couple qui les a cachées pendant la seconde guerre mondiale soit reconnu Justes parmi les nations",
+    "added_at": "2025-06-12T18:18:30.236Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Le vol d’Air India 171 s’est écrasé peu après son décollage d’Ahmedabad, plus de 260 morts et un survivant retrouvé dans les décombres",
+    "added_at": "2025-06-12T18:34:19.958Z",
+    "removed_at": "2025-06-12T18:44:09.076Z",
+    "duration_minutes": 10,
+    "duration_str": "10m"
+  },
+  {
+    "title": "Le vol 171 d’Air India s’est écrasé peu après son décollage d’Ahmedabad, plus de 260 morts et un survivant retrouvé dans les décombres",
+    "added_at": "2025-06-12T18:44:09.076Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
