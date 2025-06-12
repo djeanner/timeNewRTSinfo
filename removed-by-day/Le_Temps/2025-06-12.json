@@ -95,8 +95,9 @@
   {
     "title": "monde:::Un avion de ligne s’est écrasé dans la ville indienne d’Ahmedabad",
     "added_at": "2025-06-12T11:05:40.848Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-12T15:02:50.886Z",
+    "duration_minutes": 237,
+    "duration_str": "3h 57m"
   },
   {
     "title": "suisse:::L’EPFL porte plainte contre des étudiants pro-palestiniens aux propos haineux",
@@ -131,6 +132,25 @@
   {
     "title": "economie:::Webinaire – Les grands défis des CFF en Suisse romande",
     "added_at": "2025-06-12T14:27:15.483Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Un avion de ligne d’Air India s’est écrasé dans la ville indienne d’Ahmedabad",
+    "added_at": "2025-06-12T15:02:50.886Z",
+    "removed_at": "2025-06-12T15:08:46.016Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
+  },
+  {
+    "title": "monde:::Crash d’un avion d’Air India à Ahmedabad: un ressortissant britannique a survécu à la catastrophe",
+    "added_at": "2025-06-12T15:08:46.016Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "sport:::A Lausanne, la Fête fédérale fait flotter dans l’air l’esprit de la gymnastique",
+    "added_at": "2025-06-12T15:20:35.924Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
