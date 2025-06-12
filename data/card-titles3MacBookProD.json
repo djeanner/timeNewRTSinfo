@@ -24774,7 +24774,10 @@
   },
   {
     "title": "Second Night of Curfew Begins in Downtown L.A.",
-    "added_at": "2025-06-12T03:06:01.834Z"
+    "added_at": "2025-06-12T03:06:01.834Z",
+    "removed_at": "2025-06-12T05:59:32.429Z",
+    "duration_minutes": 173,
+    "duration_str": "2h 53m"
   },
   {
     "title": "Pacers Outlast Thunder in Game 3 to Take N.B.A. Finals Lead",
@@ -24806,5 +24809,9 @@
   {
     "title": "Musk Called Trump Before Posting Message of ‘Regret’",
     "added_at": "2025-06-12T05:12:13.488Z"
+  },
+  {
+    "title": "Police Clear Protesters in Seattle, Las Vegas and L.A.",
+    "added_at": "2025-06-12T05:59:32.429Z"
   }
 ]
