@@ -9770,7 +9770,10 @@
   },
   {
     "title": "Has FIFA scored an own goal with big teams missing Club World Cup?",
-    "added_at": "2025-06-11T12:08:21.219Z"
+    "added_at": "2025-06-11T12:08:21.219Z",
+    "removed_at": "2025-06-12T08:33:36.250Z",
+    "duration_minutes": 1225,
+    "duration_str": "20h 25m"
   },
   {
     "title": "At least 57 aid seekers among 120 Palestinians killed in Gaza in 24 hours",
@@ -9823,10 +9826,7 @@
   },
   {
     "title": "Is time running out for Israel’s Benjamin Netanyahu?",
-    "added_at": "2025-06-11T14:20:38.356Z",
-    "removed_at": "2025-06-12T07:52:07.609Z",
-    "duration_minutes": 1051,
-    "duration_str": "17h 31m"
+    "added_at": "2025-06-11T14:20:38.356Z"
   },
   {
     "title": "Austrian police find bomb plans at shooting suspect’s home as nation mourns",
@@ -10048,7 +10048,10 @@
   },
   {
     "title": "Israeli soldiers kill 13, wound 200 in Gaza in latest aid seeker attack",
-    "added_at": "2025-06-12T06:01:33.444Z"
+    "added_at": "2025-06-12T06:01:33.444Z",
+    "removed_at": "2025-06-12T08:17:53.031Z",
+    "duration_minutes": 136,
+    "duration_str": "2h 16m"
   },
   {
     "title": "NBA Finals: Backups Mathurin, Haliburton star as Indiana take 2-1 lead",
@@ -10061,5 +10064,9 @@
   {
     "title": "Israel’s Netanyahu survives opposition bid to dissolve parliament",
     "added_at": "2025-06-12T07:52:07.609Z"
+  },
+  {
+    "title": "Israeli soldiers kill 24, wound 200 in Gaza in latest aid seeker attack",
+    "added_at": "2025-06-12T08:17:53.031Z"
   }
 ]
