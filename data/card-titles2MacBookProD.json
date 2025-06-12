@@ -11502,7 +11502,10 @@
   },
   {
     "title": "sciences:::Pluies intenses, sécheresses estivales… Les risques climatiques augmentent en Suisse",
-    "added_at": "2025-06-05T13:55:36.427Z"
+    "added_at": "2025-06-05T13:55:36.427Z",
+    "removed_at": "2025-06-12T06:48:55.799Z",
+    "duration_minutes": 9653,
+    "duration_str": "6d 16h 53m"
   },
   {
     "title": "monde:::Xi Jinping s’est entretenu par téléphone avec Donald Trump",
@@ -12583,14 +12586,14 @@
   },
   {
     "title": "suisse:::Genève serre encore la vis et n’acceptera plus de nouveaux élèves domiciliés hors du canton dès 2026",
-    "added_at": "2025-06-11T14:30:32.304Z"
+    "added_at": "2025-06-11T14:30:32.304Z",
+    "removed_at": "2025-06-12T06:48:55.799Z",
+    "duration_minutes": 978,
+    "duration_str": "16h 18m"
   },
   {
     "title": "suisse:::A Bruxelles, le conseiller fédéral Martin Pfister «impressionné» par la dynamique européenne en matière de réarmement",
-    "added_at": "2025-06-11T16:25:00.946Z",
-    "removed_at": "2025-06-12T05:14:14.074Z",
-    "duration_minutes": 769,
-    "duration_str": "12h 49m"
+    "added_at": "2025-06-11T16:25:00.946Z"
   },
   {
     "title": "sport:::Fête fédérale de gymnastique à Lausanne: la folie des grandeurs",
@@ -12620,7 +12623,10 @@
   },
   {
     "title": "suisse:::Sophie Waldvogel: «Donner son sang est l’un des beaux gestes citoyens que l’on peut faire»",
-    "added_at": "2025-06-11T18:13:26.899Z"
+    "added_at": "2025-06-11T18:13:26.899Z",
+    "removed_at": "2025-06-12T06:48:55.799Z",
+    "duration_minutes": 755,
+    "duration_str": "12h 35m"
   },
   {
     "title": "sciences:::Après les fumées des incendies canadiens, au tour des poussières sahariennes de voiler le ciel suisse",
@@ -12675,5 +12681,9 @@
   {
     "title": "sport:::Derrière l’équipe cycliste suisse Q36.5, l’ombre du magnat des mines Ivan Glasenberg",
     "added_at": "2025-06-12T06:03:27.682Z"
+  },
+  {
+    "title": "monde:::Dniepropetrovsk, cinquième région d’Ukraine en proie aux fantasmes impériaux de la Russie",
+    "added_at": "2025-06-12T06:48:55.799Z"
   }
 ]
