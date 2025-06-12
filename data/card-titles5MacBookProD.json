@@ -295,7 +295,10 @@
   },
   {
     "title": "Comment l’armée chinoise s’entraîne à envahir Taïwan",
-    "added_at": "2025-05-09T10:32:57.100Z"
+    "added_at": "2025-05-09T10:32:57.100Z",
+    "removed_at": "2025-06-12T23:16:44.623Z",
+    "duration_minutes": 49723,
+    "duration_str": "34d 12h 43m"
   },
   {
     "title": "En direct, nouveau pape : qui est Léon XIV, et que peut-on attendre de son pontificat ? Posez vos questions à nos journalistes",
@@ -4444,9 +4447,9 @@
   {
     "title": "Les bombes planantes : l’astuce de la Russie pour recycler ses vieilles armes",
     "added_at": "2025-05-13T10:02:10.382Z",
-    "removed_at": "2025-06-12T22:27:21.407Z",
-    "duration_minutes": 43945,
-    "duration_str": "30d 12h 25m"
+    "removed_at": "2025-06-12T23:16:44.623Z",
+    "duration_minutes": 43994,
+    "duration_str": "30d 13h 14m"
   },
   {
     "title": "Gérard Depardieu condamné à dix-huit mois de prison avec sursis pour agressions sexuelles sur le tournage du film « Les Volets verts »",
@@ -17953,10 +17956,7 @@
   },
   {
     "title": "Comment les journalistes dronistes sont pris pour cibles par l’armée israélienne dans la bande de Gaza",
-    "added_at": "2025-05-25T13:07:09.056Z",
-    "removed_at": "2025-06-12T22:27:21.407Z",
-    "duration_minutes": 26480,
-    "duration_str": "18d 9h 20m"
+    "added_at": "2025-05-25T13:07:09.056Z"
   },
   {
     "title": "En images : neuf des dix enfants d’un couple de médecins périssent dans un bombardement israélien à Gaza",
@@ -31739,9 +31739,9 @@
   {
     "title": "« Non seulement le PS n’est plus l’astre dominant à gauche, mais il ne s’est pas donné les moyens de le redevenir »",
     "added_at": "2025-06-10T05:40:31.943Z",
-    "removed_at": "2025-06-12T22:27:21.407Z",
-    "duration_minutes": 3886,
-    "duration_str": "2d 16h 46m"
+    "removed_at": "2025-06-12T23:16:44.623Z",
+    "duration_minutes": 3936,
+    "duration_str": "2d 17h 36m"
   },
   {
     "title": "Un an après la dissolution ratée, la paralysie de l’Etat    podcast",
@@ -34821,10 +34821,7 @@
   },
   {
     "title": "« Dans le conflit entre la Russie et l’Ukraine, la question territoriale est importante, certes, mais pas autant qu’il n’y paraît »",
-    "added_at": "2025-06-12T13:02:13.142Z",
-    "removed_at": "2025-06-12T22:25:26.406Z",
-    "duration_minutes": 563,
-    "duration_str": "9h 23m"
+    "added_at": "2025-06-12T13:02:13.142Z"
   },
   {
     "title": "Crash du vol Air India à destination de Londres : 204 corps ont été retrouvés, selon le chef de la police d’Ahmedabad",
@@ -35403,7 +35400,10 @@
   },
   {
     "title": "Crash d’un avion en Inde : 260 morts et un survivant retrouvé dans la ville d’Ahmedabad après l’accident du vol 171 d’Air India",
-    "added_at": "2025-06-12T20:32:53.355Z"
+    "added_at": "2025-06-12T20:32:53.355Z",
+    "removed_at": "2025-06-12T23:02:55.609Z",
+    "duration_minutes": 150,
+    "duration_str": "2h 30m"
   },
   {
     "title": "Surveillante tuée devant un collège à Nogent : le collégien mis en examen pour meurtre",
@@ -35425,6 +35425,13 @@
   },
   {
     "title": "Paul Bernard, haut fonctionnaire : « Etre juif en France aujourd’hui, c’est être seul »",
-    "added_at": "2025-06-12T22:01:47.403Z"
+    "added_at": "2025-06-12T22:01:47.403Z",
+    "removed_at": "2025-06-12T22:33:22.285Z",
+    "duration_minutes": 31,
+    "duration_str": "31m"
+  },
+  {
+    "title": "Crash d’un avion en Inde : 265 morts et un survivant retrouvé dans la ville d’Ahmedabad après l’accident du vol 171 d’Air India",
+    "added_at": "2025-06-12T23:02:55.609Z"
   }
 ]

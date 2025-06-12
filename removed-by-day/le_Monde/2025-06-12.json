@@ -775,9 +775,8 @@
   {
     "title": "« Dans le conflit entre la Russie et l’Ukraine, la question territoriale est importante, certes, mais pas autant qu’il n’y paraît »",
     "added_at": "2025-06-12T13:02:13.142Z",
-    "removed_at": "2025-06-12T22:25:26.406Z",
-    "duration_minutes": 563,
-    "duration_str": "9h 23m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Crash du vol Air India à destination de Londres : 204 corps ont été retrouvés, selon le chef de la police d’Ahmedabad",
@@ -1389,8 +1388,9 @@
   {
     "title": "Crash d’un avion en Inde : 260 morts et un survivant retrouvé dans la ville d’Ahmedabad après l’accident du vol 171 d’Air India",
     "added_at": "2025-06-12T20:32:53.355Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-12T23:02:55.609Z",
+    "duration_minutes": 150,
+    "duration_str": "2h 30m"
   },
   {
     "title": "Surveillante tuée devant un collège à Nogent : le collégien mis en examen pour meurtre",
@@ -1415,6 +1415,13 @@
   {
     "title": "Paul Bernard, haut fonctionnaire : « Etre juif en France aujourd’hui, c’est être seul »",
     "added_at": "2025-06-12T22:01:47.403Z",
+    "removed_at": "2025-06-12T22:33:22.285Z",
+    "duration_minutes": 32,
+    "duration_str": "32m"
+  },
+  {
+    "title": "Crash d’un avion en Inde : 265 morts et un survivant retrouvé dans la ville d’Ahmedabad après l’accident du vol 171 d’Air India",
+    "added_at": "2025-06-12T23:02:55.609Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
