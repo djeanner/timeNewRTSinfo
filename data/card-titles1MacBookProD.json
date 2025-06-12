@@ -18086,7 +18086,10 @@
   },
   {
     "title": "Neuchâtel se questionne sur l'avenir de son dossier électronique du patient",
-    "added_at": "2025-06-11T07:54:10.725Z"
+    "added_at": "2025-06-11T07:54:10.725Z",
+    "removed_at": "2025-06-12T16:35:47.009Z",
+    "duration_minutes": 1961,
+    "duration_str": "1d 8h 41m"
   },
   {
     "title": "D'où vient cette étrange brume qui flotte sur les sommets suisses?",
@@ -18314,7 +18317,10 @@
   },
   {
     "title": "Football: la Suisse affronte la sélection américaine en match amical à Nashville dans la nuit de mardi à mercredi",
-    "added_at": "2025-06-11T22:49:41.257Z"
+    "added_at": "2025-06-11T22:49:41.257Z",
+    "removed_at": "2025-06-12T17:05:22.078Z",
+    "duration_minutes": 1095,
+    "duration_str": "18h 15m"
   },
   {
     "title": "Les producteurs de fruits et légumes suisses sont en colère contre la Coop",
@@ -18445,10 +18451,7 @@
   },
   {
     "title": "Un avion de ligne avec 242 personnes à bord s'est écrasé à Ahmedabad, en Inde",
-    "added_at": "2025-06-12T09:58:24.547Z",
-    "removed_at": "2025-06-12T12:18:42.488Z",
-    "duration_minutes": 140,
-    "duration_str": "2h 20m"
+    "added_at": "2025-06-12T09:58:24.547Z"
   },
   {
     "title": "Dans le monde, une personne sur 67 reste déplacée de force, malgré une amélioration",
@@ -18546,5 +18549,9 @@
   {
     "title": "Donald Trump s'attribue le relatif retour au calme à Los Angeles",
     "added_at": "2025-06-12T16:06:07.393Z"
+  },
+  {
+    "title": "Lune des fraises: pourquoi notre satellite naturel brille-t-il si rouge?",
+    "added_at": "2025-06-12T16:35:47.009Z"
   }
 ]
