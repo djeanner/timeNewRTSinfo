@@ -17746,7 +17746,10 @@
   },
   {
     "title": "La ligne ferroviaire entre Palézieux et Payerne a fait peau neuve",
-    "added_at": "2025-06-10T12:55:58.955Z"
+    "added_at": "2025-06-10T12:55:58.955Z",
+    "removed_at": "2025-06-12T04:42:42.003Z",
+    "duration_minutes": 2386,
+    "duration_str": "1d 15h 46m"
   },
   {
     "title": "Ignazio Cassis en visite éclair au Proche-Orient pour avoir sa propre idée",
@@ -18256,5 +18259,9 @@
   {
     "title": "Trois Suisses témoignent avant la \"Marche vers Gaza\"",
     "added_at": "2025-06-12T04:28:47.633Z"
+  },
+  {
+    "title": "L'industrie du jeu vidéo en \"mode survie\" face à une baisse historique de sa croissance",
+    "added_at": "2025-06-12T04:42:42.003Z"
   }
 ]
