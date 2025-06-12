@@ -17936,7 +17936,10 @@
   },
   {
     "title": "Le ciel suisse s'est voilé à cause des feux de forêts au Canada",
-    "added_at": "2025-06-10T22:46:47.289Z"
+    "added_at": "2025-06-10T22:46:47.289Z",
+    "removed_at": "2025-06-12T01:53:03.689Z",
+    "duration_minutes": 1626,
+    "duration_str": "1d 3h 6m"
   },
   {
     "title": "Un phénomène naturel a refroidi le Léman de huit degrés à Genève",
@@ -18214,5 +18217,9 @@
   {
     "title": "Les producteurs de fruits et légumes suisses sont en colère contre la Coop",
     "added_at": "2025-06-11T23:48:52.025Z"
+  },
+  {
+    "title": "La fumée en provenance du Canada affecte l'air en Suisse",
+    "added_at": "2025-06-12T01:53:03.689Z"
   }
 ]
