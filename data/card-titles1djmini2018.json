@@ -15145,7 +15145,10 @@
   },
   {
     "title": "\"Je n'arrivais plus à être empathique\": à bout, des soignantes et soignants témoignent",
-    "added_at": "2025-06-10T04:27:07.262Z"
+    "added_at": "2025-06-10T04:27:07.262Z",
+    "removed_at": "2025-06-12T09:52:28.091Z",
+    "duration_minutes": 3205,
+    "duration_str": "2d 5h 25m"
   },
   {
     "title": "Le trafic ferroviaire toujours perturbé mardi matin après les manifestations de la veille",
@@ -15301,7 +15304,10 @@
   },
   {
     "title": "Le trafic ferroviaire a été perturbé mardi matin après les manifestations de la veille, les CFF vont porter plainte",
-    "added_at": "2025-06-10T11:15:47.229Z"
+    "added_at": "2025-06-10T11:15:47.229Z",
+    "removed_at": "2025-06-12T08:51:25.262Z",
+    "duration_minutes": 2735,
+    "duration_str": "1d 21h 35m"
   },
   {
     "title": "Le voilier humanitaire pour Gaza a été dérouté par Israël",
@@ -15436,11 +15442,17 @@
   },
   {
     "title": "L'Hôpital de La Tour et la CSS ont trouvé un accord",
-    "added_at": "2025-06-10T15:47:47.671Z"
+    "added_at": "2025-06-10T15:47:47.671Z",
+    "removed_at": "2025-06-12T07:59:56.338Z",
+    "duration_minutes": 2412,
+    "duration_str": "1d 16h 12m"
   },
   {
     "title": "Les vaccins seront exemptés de franchises l'an prochain",
-    "added_at": "2025-06-10T15:51:34.907Z"
+    "added_at": "2025-06-10T15:51:34.907Z",
+    "removed_at": "2025-06-12T09:06:38.406Z",
+    "duration_minutes": 2475,
+    "duration_str": "1d 17h 15m"
   },
   {
     "title": "Deuil national en Autriche, après la mort d'une dizaine de personnes tuées dans une école",
@@ -15451,7 +15463,10 @@
   },
   {
     "title": "En poste depuis un an, le directeur général de Genève Aéroport va déjà quitter ses fonctions",
-    "added_at": "2025-06-10T15:59:11.832Z"
+    "added_at": "2025-06-10T15:59:11.832Z",
+    "removed_at": "2025-06-12T09:52:28.091Z",
+    "duration_minutes": 2513,
+    "duration_str": "1d 17h 53m"
   },
   {
     "title": "Le Parlement approuve l'inscription de l'argent liquide dans la Constitution",
@@ -15484,7 +15499,10 @@
   },
   {
     "title": "Starlink prévoit l'installation de 40 antennes satellitaires à Loèche",
-    "added_at": "2025-06-10T18:02:47.567Z"
+    "added_at": "2025-06-10T18:02:47.567Z",
+    "removed_at": "2025-06-12T10:00:10.627Z",
+    "duration_minutes": 2397,
+    "duration_str": "1d 15h 57m"
   },
   {
     "title": "Une plainte à la Comco dénonce des ristournes imposées par Coop aux maraîchers",
@@ -15805,7 +15823,10 @@
   },
   {
     "title": "Football: la Suisse affronte la sélection américaine en match amical à Nashville dans la nuit de mardi à mercredi",
-    "added_at": "2025-06-11T22:50:22.081Z"
+    "added_at": "2025-06-11T22:50:22.081Z",
+    "removed_at": "2025-06-12T08:51:25.262Z",
+    "duration_minutes": 601,
+    "duration_str": "10h 1m"
   },
   {
     "title": "Les producteurs de fruits et légumes suisses sont en colère contre la Coop",
@@ -15879,6 +15900,61 @@
   },
   {
     "title": "L'invitée de La Matinale - Aude Pugin, directrice d'Apco Technologies",
-    "added_at": "2025-06-12T07:52:13.482Z"
+    "added_at": "2025-06-12T07:52:13.482Z",
+    "removed_at": "2025-06-12T09:50:35.729Z",
+    "duration_minutes": 118,
+    "duration_str": "1h 58m"
+  },
+  {
+    "title": "Coup d'envoi de la Fête fédérale de gymnastique à Lausanne",
+    "added_at": "2025-06-12T07:59:56.338Z"
+  },
+  {
+    "title": "Elon Musk regrette d'être \"allé trop loin\" en critiquant Donald Trump",
+    "added_at": "2025-06-12T08:51:25.262Z"
+  },
+  {
+    "title": "Un avion de ligne s'est écrasé à Ahmedabad dans l'ouest de l'Inde",
+    "added_at": "2025-06-12T09:06:38.406Z",
+    "removed_at": "2025-06-12T09:08:33.111Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Un avion de ligne s'est écrasé à Ahmedabad, dans l'ouest de l'Inde",
+    "added_at": "2025-06-12T09:08:33.111Z",
+    "removed_at": "2025-06-12T09:35:17.935Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "Un avion de ligne avec plus de 200 passagers à bord s'est écrasé à Ahmedabad, dans l'ouest de l'Inde",
+    "added_at": "2025-06-12T09:35:17.935Z",
+    "removed_at": "2025-06-12T09:50:35.729Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "Un avion de ligne avec plus de 200 passagers à bord s'est écrasé à Ahmedabad, en Inde",
+    "added_at": "2025-06-12T09:50:35.729Z",
+    "removed_at": "2025-06-12T09:58:14.025Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Plus de 300 personnes de Suisse s'apprêtent à rejoindre Gaza depuis l'Egypte",
+    "added_at": "2025-06-12T09:50:35.729Z"
+  },
+  {
+    "title": "La 22e Schubertiade à Sion attend plus de 1100 instrumentistes",
+    "added_at": "2025-06-12T09:52:28.091Z"
+  },
+  {
+    "title": "Un avion de ligne avec 242 personnes à bord s'est écrasé à Ahmedabad, en Inde",
+    "added_at": "2025-06-12T09:58:14.025Z"
+  },
+  {
+    "title": "Dans le monde, une personne sur 67 reste déplacée de force, malgré une amélioration",
+    "added_at": "2025-06-12T10:00:10.627Z"
   }
 ]
