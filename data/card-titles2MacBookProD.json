@@ -8226,10 +8226,7 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z",
-    "removed_at": "2025-06-06T19:01:33.159Z",
-    "duration_minutes": 21659,
-    "duration_str": "15d 59m"
+    "added_at": "2025-05-22T18:01:52.008Z"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -11677,7 +11674,10 @@
   },
   {
     "title": "monde:::La crainte de voir la Russie riposter avec l’arme nucléaire en Ukraine",
-    "added_at": "2025-06-06T05:34:57.998Z"
+    "added_at": "2025-06-06T05:34:57.998Z",
+    "removed_at": "2025-06-12T15:38:27.496Z",
+    "duration_minutes": 9243,
+    "duration_str": "6d 10h 3m"
   },
   {
     "title": "economie:::Donald Trump veut taxer les entreprises et les investisseurs étrangers pour financer sa réforme fiscale",
@@ -12677,7 +12677,10 @@
   },
   {
     "title": "sciences:::Dans le Val de Bagnes, «chaque orage peut créer de nouvelles laves torrentielles»",
-    "added_at": "2025-06-12T04:09:09.240Z"
+    "added_at": "2025-06-12T04:09:09.240Z",
+    "removed_at": "2025-06-12T16:04:06.502Z",
+    "duration_minutes": 714,
+    "duration_str": "11h 54m"
   },
   {
     "title": "monde:::Gavin Newsom: gouverneur de Californie, gladiateur de la communication et phénix des démocrates",
@@ -12735,7 +12738,10 @@
   },
   {
     "title": "culture:::The Young Gods, 40 ans de bruit, de fureur et de liberté",
-    "added_at": "2025-06-12T09:07:02.195Z"
+    "added_at": "2025-06-12T09:07:02.195Z",
+    "removed_at": "2025-06-12T16:13:57.475Z",
+    "duration_minutes": 426,
+    "duration_str": "7h 6m"
   },
   {
     "title": "monde:::Un avion s'est écrasé dans la ville indienne d'Ahmedabad",
@@ -12787,7 +12793,10 @@
   },
   {
     "title": "economie:::Webinaire – Les grands défis des CFF en Suisse romande",
-    "added_at": "2025-06-12T14:27:15.483Z"
+    "added_at": "2025-06-12T14:27:15.483Z",
+    "removed_at": "2025-06-12T15:32:32.758Z",
+    "duration_minutes": 65,
+    "duration_str": "1h 5m"
   },
   {
     "title": "monde:::Un avion de ligne d’Air India s’est écrasé dans la ville indienne d’Ahmedabad",
@@ -12803,5 +12812,17 @@
   {
     "title": "sport:::A Lausanne, la Fête fédérale fait flotter dans l’air l’esprit de la gymnastique",
     "added_at": "2025-06-12T15:20:35.924Z"
+  },
+  {
+    "title": "suisse:::A Genève, le MCG lance un jeune avocat, Maikl Gerzner, dans la course au Conseil d’Etat",
+    "added_at": "2025-06-12T16:04:06.502Z"
+  },
+  {
+    "title": "economie:::Les bénéfices générés par Serafe pour collecter la redevance interpellent certains élus fédéraux",
+    "added_at": "2025-06-12T16:13:57.475Z"
+  },
+  {
+    "title": "suisse:::Initiative SSR: «On ne touche pas à la vache sacrée!»",
+    "added_at": "2025-06-12T16:13:57.475Z"
   }
 ]
