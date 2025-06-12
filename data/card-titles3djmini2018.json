@@ -27273,7 +27273,10 @@
   },
   {
     "title": "Second Night of Curfew Begins in Downtown L.A.",
-    "added_at": "2025-06-12T03:05:02.588Z"
+    "added_at": "2025-06-12T03:05:02.588Z",
+    "removed_at": "2025-06-12T06:13:20.701Z",
+    "duration_minutes": 188,
+    "duration_str": "3h 8m"
   },
   {
     "title": "Pacers Outlast Thunder in Game 3 to Take N.B.A. Finals Lead",
@@ -27298,12 +27301,16 @@
   {
     "title": "Musk Spoke to Trump Privately Before Posting Message of ‘Regret’",
     "added_at": "2025-06-12T05:04:47.951Z",
-    "removed_at": "2025-06-12T05:10:29.178Z",
-    "duration_minutes": 5,
-    "duration_str": "5m"
+    "removed_at": "2025-06-12T06:13:20.701Z",
+    "duration_minutes": 68,
+    "duration_str": "1h 8m"
   },
   {
     "title": "Musk Called Trump Before Posting Message of ‘Regret’",
     "added_at": "2025-06-12T05:10:29.178Z"
+  },
+  {
+    "title": "Police Clear Protesters in Seattle, Las Vegas and L.A.",
+    "added_at": "2025-06-12T05:58:04.462Z"
   }
 ]
