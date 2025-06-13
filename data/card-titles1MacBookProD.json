@@ -18111,7 +18111,10 @@
   },
   {
     "title": "D'où vient cette étrange brume qui flotte sur les sommets suisses?",
-    "added_at": "2025-06-11T07:58:06.333Z"
+    "added_at": "2025-06-11T07:58:06.333Z",
+    "removed_at": "2025-06-13T09:09:19.384Z",
+    "duration_minutes": 2951,
+    "duration_str": "2d 1h 11m"
   },
   {
     "title": "Deuxième soirée de violences en Irlande du Nord après une tentative de viol",
@@ -18225,7 +18228,10 @@
   },
   {
     "title": "Ignazio Cassis en visite surprise au Proche-Orient",
-    "added_at": "2025-06-11T13:49:03.949Z"
+    "added_at": "2025-06-11T13:49:03.949Z",
+    "removed_at": "2025-06-13T09:09:19.384Z",
+    "duration_minutes": 2600,
+    "duration_str": "1d 19h 20m"
   },
   {
     "title": "Martin Pfister en visite stratégique à Bruxelles pour la Défense",
@@ -18717,7 +18723,10 @@
   },
   {
     "title": "L'Iran riposte avec des drones après les frappes israéliennes sur des sites militaires et nucléaires",
-    "added_at": "2025-06-13T05:24:00.217Z"
+    "added_at": "2025-06-13T05:24:00.217Z",
+    "removed_at": "2025-06-13T09:44:50.944Z",
+    "duration_minutes": 260,
+    "duration_str": "4h 20m"
   },
   {
     "title": "La Suisse refuse l'asile à un jeune Russe anti-guerre et le menace d'expulsion",
@@ -18756,5 +18765,20 @@
   {
     "title": "Vers une reconstruction de Blatten d'ici 2030, selon le plan dévoilé lors de l'assemblée communale",
     "added_at": "2025-06-13T09:01:17.724Z"
+  },
+  {
+    "title": "Le Canton de Genève n'acceptera plus les élèves frontaliers dans ses écoles",
+    "added_at": "2025-06-13T09:09:19.384Z"
+  },
+  {
+    "title": "Israël attaque des sites nucléaires et militaires de l'Iran, qui tente une riposte",
+    "added_at": "2025-06-13T09:44:50.944Z",
+    "removed_at": "2025-06-13T09:48:46.987Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "Israël bombarde des sites nucléaires et militaires de l'Iran, qui tente une riposte",
+    "added_at": "2025-06-13T09:48:46.987Z"
   }
 ]
