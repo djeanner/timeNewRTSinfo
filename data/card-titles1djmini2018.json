@@ -15633,7 +15633,10 @@
   },
   {
     "title": "Déplacer un village après une catastrophe: l'expérience douloureuse du village italien d'Erto",
-    "added_at": "2025-06-11T04:37:42.482Z"
+    "added_at": "2025-06-11T04:37:42.482Z",
+    "removed_at": "2025-06-13T02:08:10.824Z",
+    "duration_minutes": 2730,
+    "duration_str": "1d 21h 30m"
   },
   {
     "title": "Donald Trump souhaite \"libérer\" Los Angeles, placée sous couvre-feu partiel",
@@ -15680,7 +15683,10 @@
   },
   {
     "title": "Entretien avec Mike Pompeo, figure importante du premier mandat de Trump",
-    "added_at": "2025-06-11T08:48:37.380Z"
+    "added_at": "2025-06-11T08:48:37.380Z",
+    "removed_at": "2025-06-13T01:05:26.555Z",
+    "duration_minutes": 2416,
+    "duration_str": "1d 16h 16m"
   },
   {
     "title": "La glace du Groenland fond 17 fois plus vite que la moyenne historique",
@@ -15691,7 +15697,10 @@
   },
   {
     "title": "La police retrouve les munitions dérobées à Châtillon et arrête deux suspects",
-    "added_at": "2025-06-11T09:39:58.806Z"
+    "added_at": "2025-06-11T09:39:58.806Z",
+    "removed_at": "2025-06-13T01:26:19.555Z",
+    "duration_minutes": 2386,
+    "duration_str": "1d 15h 46m"
   },
   {
     "title": "Le Conseil des Etats veut faciliter l'exportation d'armes",
@@ -16226,5 +16235,20 @@
   {
     "title": "Coup d'envoi de la 77ème Fête fédérale de Gymnastique",
     "added_at": "2025-06-12T23:09:20.553Z"
+  },
+  {
+    "title": "Ignazio Cassis a rencontré ses homologues israélien et palestinien",
+    "added_at": "2025-06-13T01:05:26.555Z"
+  },
+  {
+    "title": "Israël a procédé à des frappes contre le programme nucléaire et des sites militaires de l'Iran",
+    "added_at": "2025-06-13T01:26:19.555Z",
+    "removed_at": "2025-06-13T01:56:44.929Z",
+    "duration_minutes": 30,
+    "duration_str": "30m"
+  },
+  {
+    "title": "Israël a procédé à des frappes contre des sites nucléaires et militaires de l'Iran",
+    "added_at": "2025-06-13T01:56:44.929Z"
   }
 ]
