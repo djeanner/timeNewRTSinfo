@@ -18496,7 +18496,10 @@
   },
   {
     "title": "Troisième nuit d'émeutes en Irlande du Nord à la suite d'une tentative de viol",
-    "added_at": "2025-06-12T07:12:37.023Z"
+    "added_at": "2025-06-12T07:12:37.023Z",
+    "removed_at": "2025-06-13T19:40:06.978Z",
+    "duration_minutes": 2187,
+    "duration_str": "1d 12h 27m"
   },
   {
     "title": "L'Usine à Gaz de Nyon célèbre ses trente ans avec un festival gratuit",
@@ -18996,10 +18999,21 @@
   },
   {
     "title": "L'Iran a tiré des centaines de missiles balistiques sur Israël, en riposte aux attaques du matin",
-    "added_at": "2025-06-13T18:38:44.459Z"
+    "added_at": "2025-06-13T18:38:44.459Z",
+    "removed_at": "2025-06-13T19:04:34.207Z",
+    "duration_minutes": 25,
+    "duration_str": "25m"
   },
   {
     "title": "Fribourg s'engage pour préserver la dernière tortue indigène de Suisse",
     "added_at": "2025-06-13T18:54:31.797Z"
+  },
+  {
+    "title": "L'Iran tire des centaines de missiles balistiques sur Israël, en riposte aux attaques du matin",
+    "added_at": "2025-06-13T19:00:34.130Z"
+  },
+  {
+    "title": "Comment Shein use de faux comptes sur les réseaux sociaux pour défendre ses intérêts",
+    "added_at": "2025-06-13T19:40:06.978Z"
   }
 ]
