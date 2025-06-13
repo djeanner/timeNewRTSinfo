@@ -12839,7 +12839,10 @@
   },
   {
     "title": "suisse:::A Genève, le MCG lance un jeune avocat, Maikl Gerzner, dans la course au Conseil d’Etat",
-    "added_at": "2025-06-12T16:04:06.502Z"
+    "added_at": "2025-06-12T16:04:06.502Z",
+    "removed_at": "2025-06-13T10:32:16.352Z",
+    "duration_minutes": 1108,
+    "duration_str": "18h 28m"
   },
   {
     "title": "economie:::Les bénéfices générés par Serafe pour collecter la redevance interpellent certains élus fédéraux",
@@ -12946,10 +12949,7 @@
   },
   {
     "title": "suisse:::Comment le canton de Vaud a tenté de surtaxer des femmes séparées démunies",
-    "added_at": "2025-06-13T04:30:40.703Z",
-    "removed_at": "2025-06-13T09:38:55.679Z",
-    "duration_minutes": 308,
-    "duration_str": "5h 8m"
+    "added_at": "2025-06-13T04:30:40.703Z"
   },
   {
     "title": "monde:::Les dépenses pour les armes nucléaires explosent",
@@ -12969,7 +12969,10 @@
   },
   {
     "title": "monde:::En direct – Trump dit avoir été prévenu à l’avance des frappes israéliennes sur l’Iran",
-    "added_at": "2025-06-13T06:56:52.042Z"
+    "added_at": "2025-06-13T06:56:52.042Z",
+    "removed_at": "2025-06-13T10:06:38.409Z",
+    "duration_minutes": 189,
+    "duration_str": "3h 9m"
   },
   {
     "title": "sciences:::La chasse aux super-fourmis est ouverte au Tessin",
@@ -12986,5 +12989,16 @@
   {
     "title": "suisse:::Les trains Genève-Londres pourraient partir de la Praille",
     "added_at": "2025-06-13T09:38:55.679Z"
+  },
+  {
+    "title": "monde:::En direct – De nouvelles explosions entendues dans le nord-ouest de l'Iran",
+    "added_at": "2025-06-13T10:06:38.409Z",
+    "removed_at": "2025-06-13T10:26:21.527Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
+  },
+  {
+    "title": "monde:::En direct – L’Iran «doit conclure un accord avant qu’il ne reste plus rien», exhorte Donald Trump",
+    "added_at": "2025-06-13T10:26:21.527Z"
   }
 ]

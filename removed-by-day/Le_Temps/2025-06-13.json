@@ -50,9 +50,8 @@
   {
     "title": "suisse:::Comment le canton de Vaud a tenté de surtaxer des femmes séparées démunies",
     "added_at": "2025-06-13T04:30:40.703Z",
-    "removed_at": "2025-06-13T09:38:55.679Z",
-    "duration_minutes": 308,
-    "duration_str": "5h 8m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "monde:::Les dépenses pour les armes nucléaires explosent",
@@ -81,8 +80,9 @@
   {
     "title": "monde:::En direct – Trump dit avoir été prévenu à l’avance des frappes israéliennes sur l’Iran",
     "added_at": "2025-06-13T06:56:52.042Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-13T10:06:38.409Z",
+    "duration_minutes": 190,
+    "duration_str": "3h 10m"
   },
   {
     "title": "sciences:::La chasse aux super-fourmis est ouverte au Tessin",
@@ -105,6 +105,19 @@
   {
     "title": "suisse:::Les trains Genève-Londres pourraient partir de la Praille",
     "added_at": "2025-06-13T09:38:55.679Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct – De nouvelles explosions entendues dans le nord-ouest de l'Iran",
+    "added_at": "2025-06-13T10:06:38.409Z",
+    "removed_at": "2025-06-13T10:26:21.527Z",
+    "duration_minutes": 20,
+    "duration_str": "20m"
+  },
+  {
+    "title": "monde:::En direct – L’Iran «doit conclure un accord avant qu’il ne reste plus rien», exhorte Donald Trump",
+    "added_at": "2025-06-13T10:26:21.527Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
