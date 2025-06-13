@@ -15668,11 +15668,17 @@
   },
   {
     "title": "D'où vient cette étrange brume qui flotte sur les sommets suisses?",
-    "added_at": "2025-06-11T08:00:57.474Z"
+    "added_at": "2025-06-11T08:00:57.474Z",
+    "removed_at": "2025-06-13T09:08:59.939Z",
+    "duration_minutes": 2948,
+    "duration_str": "2d 1h 8m"
   },
   {
     "title": "Deuxième soirée de violences en Irlande du Nord après une tentative de viol",
-    "added_at": "2025-06-11T08:14:24.226Z"
+    "added_at": "2025-06-11T08:14:24.226Z",
+    "removed_at": "2025-06-13T08:09:59.878Z",
+    "duration_minutes": 2875,
+    "duration_str": "1d 23h 55m"
   },
   {
     "title": "Aude Pugin: \"Je plaide pour une politique industrielle à la Suisse\"",
@@ -15750,7 +15756,10 @@
   },
   {
     "title": "Le canton de Vaud devra revoir son projet de loi sur les communes",
-    "added_at": "2025-06-11T12:31:29.635Z"
+    "added_at": "2025-06-11T12:31:29.635Z",
+    "removed_at": "2025-06-13T08:06:12.357Z",
+    "duration_minutes": 2614,
+    "duration_str": "1d 19h 34m"
   },
   {
     "title": "Ignazio Cassis a rencontré ses homologues palestinien et israélien",
@@ -15776,15 +15785,24 @@
   },
   {
     "title": "Ignazio Cassis en visite surprise au Proche-Orient",
-    "added_at": "2025-06-11T13:49:38.290Z"
+    "added_at": "2025-06-11T13:49:38.290Z",
+    "removed_at": "2025-06-13T09:08:59.939Z",
+    "duration_minutes": 2599,
+    "duration_str": "1d 19h 19m"
   },
   {
     "title": "Martin Pfister en visite stratégique à Bruxelles pour la Défense",
-    "added_at": "2025-06-11T13:55:20.111Z"
+    "added_at": "2025-06-11T13:55:20.111Z",
+    "removed_at": "2025-06-13T08:29:03.154Z",
+    "duration_minutes": 2553,
+    "duration_str": "1d 18h 33m"
   },
   {
     "title": "Une horloge réalisée par des apprentis installée dans la salle du Grand Conseil vaudois",
-    "added_at": "2025-06-11T14:18:10.701Z"
+    "added_at": "2025-06-11T14:18:10.701Z",
+    "removed_at": "2025-06-13T07:43:22.202Z",
+    "duration_minutes": 2485,
+    "duration_str": "1d 17h 25m"
   },
   {
     "title": "Le gouverneur de Californie Gavin Newsom, nouvelle figure de proue du Parti démocrate?",
@@ -16269,7 +16287,10 @@
   },
   {
     "title": "L'Iran riposte avec des drones après les frappes israéliennes sur des sites militaires et nucléaires",
-    "added_at": "2025-06-13T05:24:10.949Z"
+    "added_at": "2025-06-13T05:24:10.949Z",
+    "removed_at": "2025-06-13T09:45:11.871Z",
+    "duration_minutes": 261,
+    "duration_str": "4h 21m"
   },
   {
     "title": "La Suisse refuse l'asile à un jeune Russe anti-guerre et le menace d'expulsion",
@@ -16278,5 +16299,50 @@
   {
     "title": "Au moins un passager a survécu au crash aérien en Inde",
     "added_at": "2025-06-13T07:08:56.450Z"
+  },
+  {
+    "title": "The Young Gods renoue avec un rock frontal pour dire l'époque dure sur \"Appear Disappear\"",
+    "added_at": "2025-06-13T07:43:22.202Z"
+  },
+  {
+    "title": "Qui était Hossein Salami, le chef des Gardiens de la révolution tué par une frappe israélienne?",
+    "added_at": "2025-06-13T08:06:12.357Z"
+  },
+  {
+    "title": "Pierre Dessemontet \"ne s'y retrouve plus\", il jette l'éponge à Yverdon",
+    "added_at": "2025-06-13T08:09:59.878Z"
+  },
+  {
+    "title": "Blatten, vers une reconstruction d’ici 2030 selon le plan dévoilé lors de l'assemblée communale",
+    "added_at": "2025-06-13T08:29:03.154Z",
+    "removed_at": "2025-06-13T08:57:34.913Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
+  },
+  {
+    "title": "Blatten, vers une reconstruction d'ici 2030, selon le plan dévoilé lors de l'assemblée communale",
+    "added_at": "2025-06-13T08:57:34.913Z",
+    "removed_at": "2025-06-13T09:01:22.936Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "Vers une reconstruction de Blatten d'ici 2030, selon le plan dévoilé lors de l'assemblée communale",
+    "added_at": "2025-06-13T09:01:22.936Z"
+  },
+  {
+    "title": "Le Canton de Genève n'acceptera plus les élèves frontaliers dans ses écoles",
+    "added_at": "2025-06-13T09:08:59.939Z"
+  },
+  {
+    "title": "Israël attaque des sites nucléaires et militaires de l'Iran, qui tente une riposte",
+    "added_at": "2025-06-13T09:45:11.871Z",
+    "removed_at": "2025-06-13T09:48:57.637Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "Israël bombarde des sites nucléaires et militaires de l'Iran, qui tente une riposte",
+    "added_at": "2025-06-13T09:48:57.637Z"
   }
 ]
