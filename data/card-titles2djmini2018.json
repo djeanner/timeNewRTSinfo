@@ -6448,7 +6448,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:00:57.917Z"
+    "added_at": "2025-05-22T18:00:57.917Z",
+    "removed_at": "2025-06-13T12:36:42.096Z",
+    "duration_minutes": 31355,
+    "duration_str": "21d 18h 35m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -11725,7 +11728,10 @@
   },
   {
     "title": "sport:::A Lausanne, la Fête fédérale fait flotter dans l’air l’esprit de la gymnastique",
-    "added_at": "2025-06-12T15:20:31.524Z"
+    "added_at": "2025-06-12T15:20:31.524Z",
+    "removed_at": "2025-06-13T13:52:46.726Z",
+    "duration_minutes": 1352,
+    "duration_str": "22h 32m"
   },
   {
     "title": "suisse:::A Genève, le MCG lance un jeune avocat, Maikl Gerzner, dans la course au Conseil d’Etat",
@@ -11789,7 +11795,10 @@
   },
   {
     "title": "sport:::Décroissance oblige, le Bol d’or du Léman revient aux fondamentaux",
-    "added_at": "2025-06-12T20:02:40.306Z"
+    "added_at": "2025-06-12T20:02:40.306Z",
+    "removed_at": "2025-06-13T12:53:50.750Z",
+    "duration_minutes": 1011,
+    "duration_str": "16h 51m"
   },
   {
     "title": "monde:::En direct – Israël annonce avoir mené des frappes contre l’Iran",
@@ -11828,7 +11837,10 @@
   },
   {
     "title": "monde:::Israël attaque le programme nucléaire iranien et ruine la diplomatie de Donald Trump",
-    "added_at": "2025-06-13T04:19:28.253Z"
+    "added_at": "2025-06-13T04:19:28.253Z",
+    "removed_at": "2025-06-13T14:50:07.556Z",
+    "duration_minutes": 630,
+    "duration_str": "10h 30m"
   },
   {
     "title": "economie:::Le pétrole s’envole après les frappes israéliennes contre l’Iran",
@@ -11843,7 +11855,10 @@
   },
   {
     "title": "monde:::Les dépenses pour les armes nucléaires explosent",
-    "added_at": "2025-06-13T04:36:35.180Z"
+    "added_at": "2025-06-13T04:36:35.180Z",
+    "removed_at": "2025-06-13T12:55:41.937Z",
+    "duration_minutes": 499,
+    "duration_str": "8h 19m"
   },
   {
     "title": "cyber:::L’audience de certains sites de médias est en chute libre à cause de l’intelligence artificielle de Google. Désormais, ils cherchent des solutions",
@@ -11866,7 +11881,10 @@
   },
   {
     "title": "culture:::Ce week-end, l’Usine à Gaz fête ses 30 ans entre arche de la convivialité, italo-disco et cabaret",
-    "added_at": "2025-06-13T07:51:01.787Z"
+    "added_at": "2025-06-13T07:51:01.787Z",
+    "removed_at": "2025-06-13T12:36:42.096Z",
+    "duration_minutes": 285,
+    "duration_str": "4h 45m"
   },
   {
     "title": "sciences:::La chasse aux super-fourmis est ouverte au Tessin",
@@ -11892,7 +11910,10 @@
   },
   {
     "title": "monde:::En direct – L’Iran «doit conclure un accord avant qu’il ne reste plus rien», exhorte Donald Trump",
-    "added_at": "2025-06-13T10:27:05.776Z"
+    "added_at": "2025-06-13T10:27:05.776Z",
+    "removed_at": "2025-06-13T14:25:25.802Z",
+    "duration_minutes": 238,
+    "duration_str": "3h 58m"
   },
   {
     "title": "economie:::Pourquoi les femmes investissent-elles seulement au compte-goutte?",
@@ -11912,5 +11933,51 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – L'Union européenne prolonge la protection des réfugiés ukrainiens jusqu'en 2027",
     "added_at": "2025-06-13T12:23:14.542Z"
+  },
+  {
+    "title": "suisse:::Suisse-UE: Bruxelles publie les textes des accords avant Berne",
+    "added_at": "2025-06-13T12:36:42.096Z",
+    "removed_at": "2025-06-13T14:02:32.711Z",
+    "duration_minutes": 85,
+    "duration_str": "1h 25m"
+  },
+  {
+    "title": "culture:::Tif, la diplomatie par le rap",
+    "added_at": "2025-06-13T12:36:42.096Z"
+  },
+  {
+    "title": "sport:::Noemi Rüegg, des profondeurs du doute aux premiers rangs du cyclisme mondial",
+    "added_at": "2025-06-13T12:55:41.937Z"
+  },
+  {
+    "title": "sport:::Du Léman vers Le Mans, la réussite discrète des pilotes suisses en endurance",
+    "added_at": "2025-06-13T12:55:41.937Z"
+  },
+  {
+    "title": "economie:::Une institution bancaire africaine veut ouvrir une antenne à Genève",
+    "added_at": "2025-06-13T13:52:46.726Z"
+  },
+  {
+    "title": "suisse:::Bilatérales III entre la Suisse et l’Union européenne: le Conseil fédéral ouvre la consultation",
+    "added_at": "2025-06-13T14:02:32.711Z",
+    "removed_at": "2025-06-13T14:04:25.080Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "suisse:::Accords bilatéraux III entre la Suisse et l’Union européenne: le Conseil fédéral ouvre la consultation",
+    "added_at": "2025-06-13T14:04:25.080Z"
+  },
+  {
+    "title": "suisse:::Benoît Gaillard: «La CGN n’a pas besoin d’être sauvée, mais soutenue»",
+    "added_at": "2025-06-13T14:10:09.196Z"
+  },
+  {
+    "title": "monde:::En direct – Téhéran va faire «regretter» à Israël son attaque massive, déclare le président iranien",
+    "added_at": "2025-06-13T14:25:25.802Z"
+  },
+  {
+    "title": "monde:::En Egypte, la marche globale vers Gaza stoppée aux portes d’Ismaïlia fait demi-tour vers Le Caire",
+    "added_at": "2025-06-13T14:50:07.556Z"
   }
 ]
