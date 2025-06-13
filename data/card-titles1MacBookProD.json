@@ -18137,7 +18137,10 @@
   },
   {
     "title": "La police retrouve les munitions dérobées à Châtillon et arrête deux suspects",
-    "added_at": "2025-06-11T09:40:33.207Z"
+    "added_at": "2025-06-11T09:40:33.207Z",
+    "removed_at": "2025-06-13T01:27:05.476Z",
+    "duration_minutes": 2386,
+    "duration_str": "1d 15h 46m"
   },
   {
     "title": "Le Conseil des Etats veut faciliter l'exportation d'armes",
@@ -18669,5 +18672,16 @@
   {
     "title": "Ignazio Cassis a rencontré ses homologues israélien et palestinien",
     "added_at": "2025-06-13T01:05:22.068Z"
+  },
+  {
+    "title": "Israël a procédé à des frappes contre le programme nucléaire et des sites militaires de l'Iran",
+    "added_at": "2025-06-13T01:27:05.476Z",
+    "removed_at": "2025-06-13T01:56:38.899Z",
+    "duration_minutes": 29,
+    "duration_str": "29m"
+  },
+  {
+    "title": "Israël a procédé à des frappes contre des sites nucléaires et militaires de l'Iran",
+    "added_at": "2025-06-13T01:56:38.899Z"
   }
 ]
