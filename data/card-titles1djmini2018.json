@@ -15734,7 +15734,10 @@
   },
   {
     "title": "Une fusillade a fait plusieurs victimes dans une école en Autriche",
-    "added_at": "2025-06-11T10:48:41.893Z"
+    "added_at": "2025-06-11T10:48:41.893Z",
+    "removed_at": "2025-06-12T23:09:20.553Z",
+    "duration_minutes": 2180,
+    "duration_str": "1d 12h 20m"
   },
   {
     "title": "Le canton de Vaud devra revoir son projet de loi sur les communes",
@@ -16219,5 +16222,9 @@
   {
     "title": "120 secondes - Jochen Truttmann participe pour le 10e fois à la Fête fédérale de gymnastique",
     "added_at": "2025-06-12T22:06:25.743Z"
+  },
+  {
+    "title": "Coup d'envoi de la 77ème Fête fédérale de Gymnastique",
+    "added_at": "2025-06-12T23:09:20.553Z"
   }
 ]
