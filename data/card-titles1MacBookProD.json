@@ -18433,7 +18433,10 @@
   },
   {
     "title": "Les élèves frontaliers ne pourront plus aller à l'école à Genève dès 2026",
-    "added_at": "2025-06-11T22:49:41.257Z"
+    "added_at": "2025-06-11T22:49:41.257Z",
+    "removed_at": "2025-06-13T20:11:46.162Z",
+    "duration_minutes": 2722,
+    "duration_str": "1d 21h 22m"
   },
   {
     "title": "Football: la Suisse affronte la sélection américaine en match amical à Nashville dans la nuit de mardi à mercredi",
@@ -18455,7 +18458,10 @@
   },
   {
     "title": "La Fondation humanitaire de Gaza déplore la mort de cinq de ses membres dans une attaque du Hamas",
-    "added_at": "2025-06-12T02:32:29.239Z"
+    "added_at": "2025-06-12T02:32:29.239Z",
+    "removed_at": "2025-06-13T20:21:41.999Z",
+    "duration_minutes": 2509,
+    "duration_str": "1d 17h 49m"
   },
   {
     "title": "Echec d'un projet de loi en vue de la dissolution du Parlement israélien",
@@ -18473,7 +18479,10 @@
   },
   {
     "title": "Elliot Guy, directeur de SOS Méditerranée Suisse: \"La crise migratoire ne s'est pas arrêtée\"",
-    "added_at": "2025-06-12T04:26:53.010Z"
+    "added_at": "2025-06-12T04:26:53.010Z",
+    "removed_at": "2025-06-13T20:27:37.373Z",
+    "duration_minutes": 2400,
+    "duration_str": "1d 16h"
   },
   {
     "title": "Trois Suisses témoignent avant la \"Marche vers Gaza\"",
@@ -18865,10 +18874,7 @@
   },
   {
     "title": "Israël a procédé à une \"frappe préventive\" contre l'Iran, en ciblant des installations du programme nucléaire de Téhéran",
-    "added_at": "2025-06-13T10:08:37.505Z",
-    "removed_at": "2025-06-13T17:07:42.202Z",
-    "duration_minutes": 419,
-    "duration_str": "6h 59m"
+    "added_at": "2025-06-13T10:08:37.505Z"
   },
   {
     "title": "Petra Volpe clame son amour et son admiration des infirmières dans \"En première ligne\"",
@@ -19010,10 +19016,25 @@
   },
   {
     "title": "L'Iran tire des centaines de missiles balistiques sur Israël, en riposte aux attaques du matin",
-    "added_at": "2025-06-13T19:00:34.130Z"
+    "added_at": "2025-06-13T19:00:34.130Z",
+    "removed_at": "2025-06-13T20:37:27.103Z",
+    "duration_minutes": 96,
+    "duration_str": "1h 36m"
   },
   {
     "title": "Comment Shein use de faux comptes sur les réseaux sociaux pour défendre ses intérêts",
     "added_at": "2025-06-13T19:40:06.978Z"
+  },
+  {
+    "title": "Des manifestants s'opposent à l'ouverture du centre pour requérants d'asile du Grand-Saconnex",
+    "added_at": "2025-06-13T20:21:41.999Z"
+  },
+  {
+    "title": "Décès de l'ancien patron de Migros, Herbert Bolliger",
+    "added_at": "2025-06-13T20:27:37.373Z"
+  },
+  {
+    "title": "L'Iran tire des centaines de missiles balistiques sur Israël, en riposte aux attaques massives du matin",
+    "added_at": "2025-06-13T20:31:31.844Z"
   }
 ]
