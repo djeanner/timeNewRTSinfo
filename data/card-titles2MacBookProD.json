@@ -8226,7 +8226,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z"
+    "added_at": "2025-05-22T18:01:52.008Z",
+    "removed_at": "2025-06-13T12:36:47.780Z",
+    "duration_minutes": 31354,
+    "duration_str": "21d 18h 34m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -12789,7 +12792,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Kiev et Moscou ont procédé à un nouvel échange de prisonniers",
-    "added_at": "2025-06-12T11:49:08.749Z"
+    "added_at": "2025-06-12T11:49:08.749Z",
+    "removed_at": "2025-06-13T12:22:58.918Z",
+    "duration_minutes": 1473,
+    "duration_str": "1d 33m"
   },
   {
     "title": "suisse:::Raphaël Mahaim: «Si le fisc vaudois a taxé des femmes sur la base d’une règle discriminatoire, il devra rembourser»",
@@ -12980,11 +12986,17 @@
   },
   {
     "title": "culture:::Ce week-end, l’Usine à Gaz fête ses 30 ans entre arche de la convivialité, italo-disco et cabaret",
-    "added_at": "2025-06-13T07:52:10.826Z"
+    "added_at": "2025-06-13T07:52:10.826Z",
+    "removed_at": "2025-06-13T12:36:47.780Z",
+    "duration_minutes": 284,
+    "duration_str": "4h 44m"
   },
   {
     "title": "culture:::Les mille voix de Tigran Hamasyan aux Athénéennes de Genève",
-    "added_at": "2025-06-13T08:21:51.585Z"
+    "added_at": "2025-06-13T08:21:51.585Z",
+    "removed_at": "2025-06-13T11:51:28.660Z",
+    "duration_minutes": 209,
+    "duration_str": "3h 29m"
   },
   {
     "title": "suisse:::Les trains Genève-Londres pourraient partir de la Praille",
@@ -13004,5 +13016,28 @@
   {
     "title": "economie:::Pourquoi les femmes investissent-elles seulement au compte-goutte?",
     "added_at": "2025-06-13T11:05:55.552Z"
+  },
+  {
+    "title": "monde:::Après l'attaque sur l'Iran, les Israéliens aux abris: «Nous sommes prêts»",
+    "added_at": "2025-06-13T11:51:28.660Z",
+    "removed_at": "2025-06-13T11:57:23.667Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "monde:::Après l’attaque sur l’Iran, les Israéliens aux abris: «Nous sommes prêts»",
+    "added_at": "2025-06-13T11:57:23.667Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – L'Union européenne prolonge la protection des réfugiés ukrainiens jusqu'en 2027",
+    "added_at": "2025-06-13T12:22:58.918Z"
+  },
+  {
+    "title": "suisse:::Suisse-UE: Bruxelles publie les textes des accords avant Berne",
+    "added_at": "2025-06-13T12:36:47.780Z"
+  },
+  {
+    "title": "culture:::Tif, la diplomatie par le rap",
+    "added_at": "2025-06-13T12:36:47.780Z"
   }
 ]
