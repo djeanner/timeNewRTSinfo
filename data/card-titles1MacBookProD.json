@@ -17861,7 +17861,10 @@
   },
   {
     "title": "Chute drastique de la température du Léman à Genève, de 19 à 11 degrés",
-    "added_at": "2025-06-10T14:46:07.348Z"
+    "added_at": "2025-06-10T14:46:07.348Z",
+    "removed_at": "2025-06-13T11:07:54.833Z",
+    "duration_minutes": 4101,
+    "duration_str": "2d 20h 21m"
   },
   {
     "title": "La chanson \"Made in Switzerland\" disponible sur les plateformes de streaming musical",
@@ -18262,7 +18265,10 @@
   },
   {
     "title": "Une bombe artisanale et une lettre d'adieu trouvées chez le tireur présumé de Graz",
-    "added_at": "2025-06-11T14:24:31.503Z"
+    "added_at": "2025-06-11T14:24:31.503Z",
+    "removed_at": "2025-06-13T11:11:50.641Z",
+    "duration_minutes": 2687,
+    "duration_str": "1d 20h 47m"
   },
   {
     "title": "Aude Pugin: \"Je plaide pour une politique industrielle à la suisse\"",
@@ -18820,7 +18826,10 @@
   },
   {
     "title": "Israël bombarde des sites nucléaires et militaires de l'Iran, qui riposte",
-    "added_at": "2025-06-13T10:24:22.365Z"
+    "added_at": "2025-06-13T10:24:22.365Z",
+    "removed_at": "2025-06-13T11:19:44.417Z",
+    "duration_minutes": 55,
+    "duration_str": "55m"
   },
   {
     "title": "Ex-employé d'EMS acquitté d'abus sexuels à Neuchâtel",
@@ -18836,5 +18845,13 @@
   {
     "title": "Un ancien employé d'EMS acquitté d'abus sexuels à Neuchâtel",
     "added_at": "2025-06-13T10:38:11.909Z"
+  },
+  {
+    "title": "Une des boîtes noires du Boeing d'Air India retrouvée, le Premier ministre Narendra Modi sur les lieux du crash",
+    "added_at": "2025-06-13T11:11:50.641Z"
+  },
+  {
+    "title": "Israël bombarde des sites nucléaires et militaires de l'Iran, qui riposte avec des drones",
+    "added_at": "2025-06-13T11:19:44.417Z"
   }
 ]
