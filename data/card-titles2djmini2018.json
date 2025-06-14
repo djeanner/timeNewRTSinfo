@@ -12139,7 +12139,10 @@
   },
   {
     "title": "monde:::Guerre en Ukraine – L'Union européenne prolonge la protection des réfugiés ukrainiens jusqu'en 2027",
-    "added_at": "2025-06-13T19:55:25.972Z"
+    "added_at": "2025-06-13T19:55:25.972Z",
+    "removed_at": "2025-06-14T12:31:02.031Z",
+    "duration_minutes": 995,
+    "duration_str": "16h 35m"
   },
   {
     "title": "monde:::En Egypte, la Marche mondiale vers Gaza stoppée aux portes d’Ismaïlia et ramenée de force au Caire",
@@ -12203,7 +12206,10 @@
   },
   {
     "title": "sciences:::En Corse, l'enfer des chenilles dévoreuses de forêts",
-    "added_at": "2025-06-14T06:38:37.771Z"
+    "added_at": "2025-06-14T06:38:37.771Z",
+    "removed_at": "2025-06-14T14:34:49.639Z",
+    "duration_minutes": 476,
+    "duration_str": "7h 56m"
   },
   {
     "title": "sport:::Anobli par le roi Charles III, David Beckham est, loin des terrains de foot, une icône mondiale",
@@ -12237,10 +12243,21 @@
   },
   {
     "title": "culture:::Revue de presse: Neil Young, un nouvel album pour chanter les plaisirs simples de la vie",
-    "added_at": "2025-06-14T10:44:19.544Z"
+    "added_at": "2025-06-14T10:44:19.544Z",
+    "removed_at": "2025-06-14T13:28:11.000Z",
+    "duration_minutes": 163,
+    "duration_str": "2h 43m"
   },
   {
     "title": "economie:::Famille et parentalité: et quand bébé arrive, on fait comment?",
     "added_at": "2025-06-14T11:47:07.643Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Nouvel échange de prisonniers entre Kiev et Moscou, le quatrième en une semaine",
+    "added_at": "2025-06-14T12:31:02.031Z"
+  },
+  {
+    "title": "culture:::Le bureau barcelonais Takk, des architectes à l’attaque",
+    "added_at": "2025-06-14T14:34:49.639Z"
   }
 ]
