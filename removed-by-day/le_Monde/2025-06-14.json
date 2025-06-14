@@ -106,8 +106,9 @@
   {
     "title": "La marguerite, fille des champs",
     "added_at": "2025-06-14T04:11:09.447Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-14T11:57:52.075Z",
+    "duration_minutes": 467,
+    "duration_str": "7h 47m"
   },
   {
     "title": "« Il faut arrêter de nous pourrir la vie avec ça » : aux 24 Heures du Mans, un public de plus en plus nombreux fait fi de l’écologie",
@@ -247,9 +248,8 @@
   {
     "title": "Au Maroc, la « fermeture sauvage » d’une entreprise détenue par un Français plonge des dizaines de salariés dans la précarité",
     "added_at": "2025-06-14T06:07:42.706Z",
-    "removed_at": "2025-06-14T10:20:53.145Z",
-    "duration_minutes": 253,
-    "duration_str": "4h 13m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "A Couthures-sur-Garonne, un festival de journalisme dominé par l’actualité internationale",
@@ -282,16 +282,16 @@
   {
     "title": "Les images du Boeing 787 d’Air India qui s’est écrasé après son décollage à Ahmedabad",
     "added_at": "2025-06-14T07:10:58.087Z",
-    "removed_at": "2025-06-14T11:47:56.350Z",
-    "duration_minutes": 277,
-    "duration_str": "4h 37m"
+    "removed_at": "2025-06-14T12:21:32.393Z",
+    "duration_minutes": 311,
+    "duration_str": "5h 11m"
   },
   {
     "title": "A quoi servent les commissions d’enquête parlementaires ? Comprendre en trois minutes",
     "added_at": "2025-06-14T07:16:53.584Z",
-    "removed_at": "2025-06-14T11:42:01.038Z",
-    "duration_minutes": 265,
-    "duration_str": "4h 25m"
+    "removed_at": "2025-06-14T12:41:19.774Z",
+    "duration_minutes": 324,
+    "duration_str": "5h 24m"
   },
   {
     "title": "Irlande du Nord : retour en images sur les violents affrontements anti-immigrés qui secouent le pays",
@@ -302,9 +302,9 @@
   {
     "title": "Vidéo. Les premières images des attaques d’Israël contre l’Iran",
     "added_at": "2025-06-14T07:26:55.577Z",
-    "removed_at": "2025-06-14T11:38:01.007Z",
-    "duration_minutes": 251,
-    "duration_str": "4h 11m"
+    "removed_at": "2025-06-14T12:37:19.905Z",
+    "duration_minutes": 310,
+    "duration_str": "5h 10m"
   },
   {
     "title": "Orages : vigilance orange pour onze départements du Centre et de l’Est à partir de samedi après-midi",
@@ -363,8 +363,9 @@
   {
     "title": "Le point sur la guerre en Ukraine : des drones ukrainiens attaquent l’une des plus grandes usines chimiques de Russie",
     "added_at": "2025-06-14T08:49:56.205Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-14T12:13:38.188Z",
+    "duration_minutes": 204,
+    "duration_str": "3h 24m"
   },
   {
     "title": "« Emporté dans le sillage de l’or, l’argent surperforme »",
@@ -484,9 +485,8 @@
   {
     "title": "L’armée israélienne dit continuer à attaquer des sites militaires en Iran et n’écarte pas de nouveaux bombardements sur Téhéran",
     "added_at": "2025-06-14T10:34:42.258Z",
-    "removed_at": "2025-06-14T10:46:33.349Z",
-    "duration_minutes": 12,
-    "duration_str": "12m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Israël à déjoué la riposte iranienne et poursuit son offensive militaire, en préparation depuis huit mois",
@@ -531,12 +531,38 @@
   {
     "title": "Sur Facebook, le RN débordé par la parole raciste de ses sympathisants",
     "added_at": "2025-06-14T11:24:15.220Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-14T12:21:32.393Z",
+    "duration_minutes": 57,
+    "duration_str": "57m"
   },
   {
     "title": "Comment Donald Trump utilise l’armée, déployée à Los Angeles, à son profit politique",
     "added_at": "2025-06-14T11:26:10.466Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "À Marseille, la première Slow Fashion Week promeut une mode sobre et recyclée",
+    "added_at": "2025-06-14T11:57:52.075Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "En direct, guerre en Ukraine : Kiev et Moscou annoncent un nouvel échange de prisonniers",
+    "added_at": "2025-06-14T12:13:38.188Z",
+    "removed_at": "2025-06-14T12:21:32.393Z",
+    "duration_minutes": 8,
+    "duration_str": "8m"
+  },
+  {
+    "title": "Le point sur la guerre en Ukraine : Kiev et Moscou annoncent un nouvel échange de prisonniers",
+    "added_at": "2025-06-14T12:21:32.393Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Le RN débordé par la parole raciste de ses sympathisants sur Facebook",
+    "added_at": "2025-06-14T12:21:32.393Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
