@@ -18679,7 +18679,10 @@
   },
   {
     "title": "A Vienne, le théâtre porte les couleurs du Suisse Milo Rau sous le signe de l’amour",
-    "added_at": "2025-06-12T14:11:27.943Z"
+    "added_at": "2025-06-12T14:11:27.943Z",
+    "removed_at": "2025-06-14T08:30:09.010Z",
+    "duration_minutes": 2538,
+    "duration_str": "1d 18h 18m"
   },
   {
     "title": "L'Université de Lausanne cesse sa collaboration avec celle de Jérusalem",
@@ -19114,7 +19117,10 @@
   },
   {
     "title": "La hausse du nombre de morts au sol pousse le bilan du crash du Boeing 787 d'Air India à 279 morts",
-    "added_at": "2025-06-14T07:09:02.182Z"
+    "added_at": "2025-06-14T07:09:02.182Z",
+    "removed_at": "2025-06-14T08:55:50.911Z",
+    "duration_minutes": 106,
+    "duration_str": "1h 46m"
   },
   {
     "title": "Podcast – Les amants diaboliques de Monthey",
@@ -19131,5 +19137,13 @@
   {
     "title": "Implenia, les drôles d'affaires du roi du béton",
     "added_at": "2025-06-14T08:00:25.258Z"
+  },
+  {
+    "title": "Plusieurs petits oiseaux alpins sont perturbés par le changement climatique",
+    "added_at": "2025-06-14T08:30:09.010Z"
+  },
+  {
+    "title": "La hausse du nombre de morts au sol pousse le bilan du crash du Boeing 787 d'Air India à 279 tués",
+    "added_at": "2025-06-14T08:55:50.911Z"
   }
 ]
