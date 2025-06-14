@@ -18545,7 +18545,10 @@
   },
   {
     "title": "Le Val de Bagnes n'a subi aucune lave torrentielle depuis dimanche",
-    "added_at": "2025-06-12T07:46:11.750Z"
+    "added_at": "2025-06-12T07:46:11.750Z",
+    "removed_at": "2025-06-14T08:00:25.258Z",
+    "duration_minutes": 2894,
+    "duration_str": "2d 14m"
   },
   {
     "title": "Le Conseil national valide à son tour les 5 millions pour Blatten",
@@ -18620,7 +18623,10 @@
   },
   {
     "title": "Dans le monde, une personne sur 67 reste déplacée de force, malgré une amélioration",
-    "added_at": "2025-06-12T10:00:19.208Z"
+    "added_at": "2025-06-12T10:00:19.208Z",
+    "removed_at": "2025-06-14T07:56:30.699Z",
+    "duration_minutes": 2756,
+    "duration_str": "1d 21h 56m"
   },
   {
     "title": "Le syndic Pierre Dessemontet \"ne s'y retrouve plus\", il jette l'éponge à Yverdon",
@@ -18662,7 +18668,10 @@
   },
   {
     "title": "Avec \"Allmen et le dernier des Weynfeldt\", Martin Suter signe un cosy crime élégant",
-    "added_at": "2025-06-12T12:30:32.016Z"
+    "added_at": "2025-06-12T12:30:32.016Z",
+    "removed_at": "2025-06-14T07:40:40.916Z",
+    "duration_minutes": 2590,
+    "duration_str": "1d 19h 10m"
   },
   {
     "title": "RSI supprime 37 emplois équivalents plein temps par mesure d'économies",
@@ -19110,5 +19119,17 @@
   {
     "title": "Podcast – Les amants diaboliques de Monthey",
     "added_at": "2025-06-14T07:14:58.214Z"
+  },
+  {
+    "title": "Au Centre Pompidou, l'exposition \"Paris Noir\" redessine l'histoire de l'art afrodescendant",
+    "added_at": "2025-06-14T07:40:40.916Z"
+  },
+  {
+    "title": "La conférence de l'ONU sur la création d'un Etat palestinien repoussée",
+    "added_at": "2025-06-14T07:56:30.699Z"
+  },
+  {
+    "title": "Implenia, les drôles d'affaires du roi du béton",
+    "added_at": "2025-06-14T08:00:25.258Z"
   }
 ]
