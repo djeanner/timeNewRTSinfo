@@ -933,7 +933,10 @@
   },
   {
     "title": "125 destinations pour faire le tour du monde sans quitter la France (ou l’Europe)    Grand format",
-    "added_at": "2025-05-09T12:43:51.498Z"
+    "added_at": "2025-05-09T12:43:51.498Z",
+    "removed_at": "2025-06-15T22:33:51.340Z",
+    "duration_minutes": 53869,
+    "duration_str": "37d 9h 49m"
   },
   {
     "title": "Le film « Conclave » est-il fidèle à la réalité ?",
@@ -1587,27 +1590,27 @@
   {
     "title": "Les meilleures friteuses sans huile",
     "added_at": "2025-05-09T12:43:51.498Z",
-    "removed_at": "2025-06-15T21:40:20.992Z",
-    "duration_minutes": 53816,
-    "duration_str": "37d 8h 56m"
+    "removed_at": "2025-06-15T22:35:46.799Z",
+    "duration_minutes": 53871,
+    "duration_str": "37d 9h 51m"
   },
   {
     "title": "Les meilleures machines à café à grains à moins de 500 euros",
-    "added_at": "2025-05-09T12:43:51.498Z"
+    "added_at": "2025-05-09T12:43:51.498Z",
+    "removed_at": "2025-06-15T22:27:54.946Z",
+    "duration_minutes": 53864,
+    "duration_str": "37d 9h 44m"
   },
   {
     "title": "Les meilleurs fours micro-ondes grill",
-    "added_at": "2025-05-09T12:43:51.498Z",
-    "removed_at": "2025-06-15T21:26:27.697Z",
-    "duration_minutes": 53802,
-    "duration_str": "37d 8h 42m"
+    "added_at": "2025-05-09T12:43:51.498Z"
   },
   {
     "title": "Les meilleurs grille-pains",
     "added_at": "2025-05-09T12:43:51.498Z",
-    "removed_at": "2025-06-15T21:30:24.912Z",
-    "duration_minutes": 53806,
-    "duration_str": "37d 8h 46m"
+    "removed_at": "2025-06-15T22:25:53.587Z",
+    "duration_minutes": 53862,
+    "duration_str": "37d 9h 42m"
   },
   {
     "title": "Article réservé aux abonnés Guerre culturelle : comment Trump essaye d’imposer un récit mensonger de l’histoire",
@@ -1661,16 +1664,16 @@
   {
     "title": "Les meilleures gourdes pour remplacer les bouteilles jetables",
     "added_at": "2025-05-09T12:45:46.918Z",
-    "removed_at": "2025-06-15T21:16:32.743Z",
-    "duration_minutes": 53790,
-    "duration_str": "37d 8h 30m"
+    "removed_at": "2025-06-15T22:33:51.340Z",
+    "duration_minutes": 53868,
+    "duration_str": "37d 9h 48m"
   },
   {
     "title": "Les meilleurs aspirateurs balais sans fil",
     "added_at": "2025-05-09T12:45:46.918Z",
-    "removed_at": "2025-06-15T21:26:27.697Z",
-    "duration_minutes": 53800,
-    "duration_str": "37d 8h 40m"
+    "removed_at": "2025-06-15T22:08:05.632Z",
+    "duration_minutes": 53842,
+    "duration_str": "37d 9h 22m"
   },
   {
     "title": "« Le PSG a démontré pourquoi il avait conquis tant d’admirateurs cette saison » : la presse étrangère encense le finaliste de la Ligue des champions",
@@ -1703,16 +1706,16 @@
   {
     "title": "Les meilleurs chargeurs de piles AA et AAA",
     "added_at": "2025-05-09T12:47:42.830Z",
-    "removed_at": "2025-06-15T21:08:29.150Z",
-    "duration_minutes": 53780,
-    "duration_str": "37d 8h 20m"
+    "removed_at": "2025-06-15T22:35:46.799Z",
+    "duration_minutes": 53868,
+    "duration_str": "37d 9h 48m"
   },
   {
     "title": "Instax ou Polaroid : les meilleurs appareils photo instantanés",
     "added_at": "2025-05-09T12:47:42.830Z",
-    "removed_at": "2025-06-15T21:40:20.992Z",
-    "duration_minutes": 53812,
-    "duration_str": "37d 8h 52m"
+    "removed_at": "2025-06-15T22:33:51.340Z",
+    "duration_minutes": 53866,
+    "duration_str": "37d 9h 46m"
   },
   {
     "title": "Dans « L’Effacement », le cinéaste Karim Moussaoui met en scène une relation filiale suffocante",
@@ -1749,16 +1752,16 @@
   {
     "title": "Les meilleurs robots aspirateurs laveurs",
     "added_at": "2025-05-09T12:51:27.138Z",
-    "removed_at": "2025-06-15T21:12:30.117Z",
-    "duration_minutes": 53781,
-    "duration_str": "37d 8h 21m"
+    "removed_at": "2025-06-15T22:23:54.517Z",
+    "duration_minutes": 53852,
+    "duration_str": "37d 9h 32m"
   },
   {
     "title": "Les meilleures lunch box pour la pause déjeuner",
     "added_at": "2025-05-09T12:51:27.138Z",
-    "removed_at": "2025-06-15T21:40:20.992Z",
-    "duration_minutes": 53808,
-    "duration_str": "37d 8h 48m"
+    "removed_at": "2025-06-15T22:35:46.799Z",
+    "duration_minutes": 53864,
+    "duration_str": "37d 9h 44m"
   },
   {
     "title": "Les meilleurs jeux de société pour adultes",
@@ -1770,37 +1773,34 @@
   {
     "title": "Les meilleures visseuses entre 50 et 100 euros",
     "added_at": "2025-05-09T12:53:23.171Z",
-    "removed_at": "2025-06-15T21:24:26.989Z",
-    "duration_minutes": 53791,
-    "duration_str": "37d 8h 31m"
+    "removed_at": "2025-06-15T22:21:59.064Z",
+    "duration_minutes": 53848,
+    "duration_str": "37d 9h 28m"
   },
   {
     "title": "Les meilleurs sextoys pour le clitoris : comparatif",
-    "added_at": "2025-05-09T12:53:23.171Z",
-    "removed_at": "2025-06-15T21:32:24.196Z",
-    "duration_minutes": 53799,
-    "duration_str": "37d 8h 39m"
+    "added_at": "2025-05-09T12:53:23.171Z"
   },
   {
     "title": "Voici notre guide d’achat des meilleurs robots pâtissiers",
     "added_at": "2025-05-09T12:57:07.146Z",
-    "removed_at": "2025-06-15T21:32:24.196Z",
-    "duration_minutes": 53795,
-    "duration_str": "37d 8h 35m"
+    "removed_at": "2025-06-15T22:25:53.587Z",
+    "duration_minutes": 53848,
+    "duration_str": "37d 9h 28m"
   },
   {
     "title": "Les meilleurs mixeurs plongeants",
     "added_at": "2025-05-09T13:00:53.137Z",
-    "removed_at": "2025-06-15T21:10:31.838Z",
-    "duration_minutes": 53769,
-    "duration_str": "37d 8h 9m"
+    "removed_at": "2025-06-15T22:23:54.517Z",
+    "duration_minutes": 53843,
+    "duration_str": "37d 9h 23m"
   },
   {
     "title": "Les meilleurs réveils simulateurs d’aube",
     "added_at": "2025-05-09T13:00:53.137Z",
-    "removed_at": "2025-06-15T21:26:27.697Z",
-    "duration_minutes": 53785,
-    "duration_str": "37d 8h 25m"
+    "removed_at": "2025-06-15T22:27:54.946Z",
+    "duration_minutes": 53847,
+    "duration_str": "37d 9h 27m"
   },
   {
     "title": "Bill Gates : « Je ne peux pas compenser les coupes dans l’aide américaine »",
@@ -2053,7 +2053,10 @@
   },
   {
     "title": "Les meilleurs pianos numériques pas chers pour débutants",
-    "added_at": "2025-05-09T16:26:58.111Z"
+    "added_at": "2025-05-09T16:26:58.111Z",
+    "removed_at": "2025-06-15T22:33:51.340Z",
+    "duration_minutes": 53646,
+    "duration_str": "37d 6h 6m"
   },
   {
     "title": "Le Pakistan affirme qu’il n’ira pas « à la désescalade » avec l’Inde",
@@ -2099,10 +2102,7 @@
   },
   {
     "title": "125 destinations pour faire le tour du monde sans quitter la France (ou l’Europe)",
-    "added_at": "2025-05-09T17:33:09.583Z",
-    "removed_at": "2025-06-15T21:04:32.531Z",
-    "duration_minutes": 53491,
-    "duration_str": "37d 3h 31m"
+    "added_at": "2025-05-09T17:33:09.583Z"
   },
   {
     "title": "L’épidémie de rougeole aux Etats-Unis dépasse les 1 000 cas et a déjà fait trois morts sur fond de défiance vaccinale",
@@ -33534,10 +33534,7 @@
   },
   {
     "title": "Un effondrement de la circulation océanique atlantique pourrait entraîner des températures polaires en Europe",
-    "added_at": "2025-06-11T13:03:38.223Z",
-    "removed_at": "2025-06-15T21:40:20.992Z",
-    "duration_minutes": 6276,
-    "duration_str": "4d 8h 36m"
+    "added_at": "2025-06-11T13:03:38.223Z"
   },
   {
     "title": "La psychologue Esther Perel, autrice de « Je t’aime, je te trompe », en tournée en France",
@@ -33878,7 +33875,10 @@
   },
   {
     "title": "A l’Institut du monde arabe, vérités et légendes sur la reine Cléopâtre",
-    "added_at": "2025-06-11T18:54:46.711Z"
+    "added_at": "2025-06-11T18:54:46.711Z",
+    "removed_at": "2025-06-15T22:33:51.340Z",
+    "duration_minutes": 5979,
+    "duration_str": "4d 3h 39m"
   },
   {
     "title": "Baisse des infractions environnementales par les compagnies aériennes, selon un rapport",
@@ -34392,10 +34392,7 @@
   },
   {
     "title": "La plus vaste étude animale conduite à ce jour confirme des risques accrus de cancers à cause du glyphosate",
-    "added_at": "2025-06-12T09:20:57.242Z",
-    "removed_at": "2025-06-15T21:40:20.992Z",
-    "duration_minutes": 5059,
-    "duration_str": "3d 12h 19m"
+    "added_at": "2025-06-12T09:20:57.242Z"
   },
   {
     "title": "« Le dollar a beau perdre de sa superbe, l’euro n’attire pas plus. Pire, l’or lui est passé devant comme deuxième actif de réserve »",
@@ -35131,9 +35128,9 @@
   {
     "title": "En Algérie, des femmes exposent leurs harceleurs de rue sur les réseaux sociaux",
     "added_at": "2025-06-12T17:17:18.943Z",
-    "removed_at": "2025-06-15T21:42:16.340Z",
-    "duration_minutes": 4584,
-    "duration_str": "3d 4h 24m"
+    "removed_at": "2025-06-15T22:23:54.517Z",
+    "duration_minutes": 4626,
+    "duration_str": "3d 5h 6m"
   },
   {
     "title": "Parcoursup : plus de 10 000 lycéens ont déjà quitté la plateforme",
@@ -35267,10 +35264,7 @@
   },
   {
     "title": "Le « plan plastique » du gouvernement est axé essentiellement sur le recyclage, et jugé insuffisant par collectivités et ONG",
-    "added_at": "2025-06-12T20:22:57.246Z",
-    "removed_at": "2025-06-15T21:40:20.992Z",
-    "duration_minutes": 4397,
-    "duration_str": "3d 1h 17m"
+    "added_at": "2025-06-12T20:22:57.246Z"
   },
   {
     "title": "L’Etat refuse la création de nouveaux puits de pétrole en Gironde en raison de l’urgence climatique",
@@ -35289,9 +35283,9 @@
   {
     "title": "Au château de Chantilly, « Les Très Riches Heures du duc de Berry », le plus célèbre des manuscrits enluminés révélé",
     "added_at": "2025-06-12T20:22:57.246Z",
-    "removed_at": "2025-06-15T21:40:20.992Z",
-    "duration_minutes": 4397,
-    "duration_str": "3d 1h 17m"
+    "removed_at": "2025-06-15T22:35:46.799Z",
+    "duration_minutes": 4452,
+    "duration_str": "3d 2h 12m"
   },
   {
     "title": "Crash d’un avion en Inde : 260 morts et un survivant retrouvé dans la ville d’Ahmedabad après l’accident du vol 171 d’Air India",
@@ -35703,10 +35697,7 @@
   },
   {
     "title": "Salif Keita et Kassav’ magnétisent le festival Rio Loco à Toulouse",
-    "added_at": "2025-06-13T07:10:41.556Z",
-    "removed_at": "2025-06-15T21:40:20.992Z",
-    "duration_minutes": 3749,
-    "duration_str": "2d 14h 29m"
+    "added_at": "2025-06-13T07:10:41.556Z"
   },
   {
     "title": "Catastrophe aérienne en Inde dans un marché en pleine expansion",
@@ -35714,7 +35705,10 @@
   },
   {
     "title": "« Plume de chaleur » : Vérargues a tiré les leçons du coup de chaud record de 2019",
-    "added_at": "2025-06-13T07:28:32.669Z"
+    "added_at": "2025-06-13T07:28:32.669Z",
+    "removed_at": "2025-06-15T22:33:51.340Z",
+    "duration_minutes": 3785,
+    "duration_str": "2d 15h 5m"
   },
   {
     "title": "En direct, bac de français 2025 :  Musset, Corneille,  Sarraute en voie générale ; Rabelais, La Bruyère et Olympe de Gouges en voie technologique... posez vos questions sur les sujets",
@@ -35761,10 +35755,7 @@
   },
   {
     "title": "L’éducation nationale acte la création d’une épreuve anticipée de mathématiques au baccalauréat général et technologique",
-    "added_at": "2025-06-13T07:50:12.293Z",
-    "removed_at": "2025-06-15T21:40:20.992Z",
-    "duration_minutes": 3710,
-    "duration_str": "2d 13h 50m"
+    "added_at": "2025-06-13T07:50:12.293Z"
   },
   {
     "title": "Meta investit 14 milliards de dollars dans Scale AI pour se renforcer dans l’intelligence artificielle",
@@ -35819,9 +35810,9 @@
   {
     "title": "Le récit de l’attaque fulgurante et massive d’Israël contre l’Iran",
     "added_at": "2025-06-13T08:33:41.948Z",
-    "removed_at": "2025-06-15T21:32:24.196Z",
-    "duration_minutes": 3658,
-    "duration_str": "2d 12h 58m"
+    "removed_at": "2025-06-15T22:35:46.799Z",
+    "duration_minutes": 3722,
+    "duration_str": "2d 14h 2m"
   },
   {
     "title": "« La fermeture du Palais de la découverte ou sa réduction serait une perte pour l’ensemble de la communauté internationale »",
@@ -35924,9 +35915,9 @@
   {
     "title": "Aux Antilles, une vague d’homicides sur fond d’explosion des trafics",
     "added_at": "2025-06-13T09:40:57.312Z",
-    "removed_at": "2025-06-15T21:40:20.992Z",
-    "duration_minutes": 3599,
-    "duration_str": "2d 11h 59m"
+    "removed_at": "2025-06-15T22:35:46.799Z",
+    "duration_minutes": 3654,
+    "duration_str": "2d 12h 54m"
   },
   {
     "title": "Retraites : jugé trop « engagé », un rapport du Conseil d’orientation des retraites finalement amendé",
@@ -36009,10 +36000,7 @@
   },
   {
     "title": "Bac de français 2025 : ces élèves qui doivent passer l’épreuve alors qu’ils n’ont pas eu de professeur",
-    "added_at": "2025-06-13T10:44:07.504Z",
-    "removed_at": "2025-06-15T21:32:24.196Z",
-    "duration_minutes": 3528,
-    "duration_str": "2d 10h 48m"
+    "added_at": "2025-06-13T10:44:07.504Z"
   },
   {
     "title": "Surveillance : l’extension des « boîtes noires » au crime organisé censurée par le Conseil constitutionnel",
@@ -36048,7 +36036,10 @@
   },
   {
     "title": "Günther Uecker, artiste allemand qui avait le clou pour marque de fabrique, est mort",
-    "added_at": "2025-06-13T11:00:00.656Z"
+    "added_at": "2025-06-13T11:00:00.656Z",
+    "removed_at": "2025-06-15T22:23:54.517Z",
+    "duration_minutes": 3563,
+    "duration_str": "2d 11h 23m"
   },
   {
     "title": "En direct, bac de français 2025 : revivez la matinée d’épreuves, les sujets et les corrigés",
@@ -36300,7 +36291,10 @@
   },
   {
     "title": "Au procès de l’attentat de Condé-sur-Sarthe, la difficile reconstruction de deux gardiens de prison : « Je suis dans un service administratif aujourd’hui »",
-    "added_at": "2025-06-13T16:00:32.908Z"
+    "added_at": "2025-06-13T16:00:32.908Z",
+    "removed_at": "2025-06-15T22:33:51.340Z",
+    "duration_minutes": 3273,
+    "duration_str": "2d 6h 33m"
   },
   {
     "title": "Le Qatar voit plus loin que la France pour étendre son soft power sportif",
@@ -36326,9 +36320,9 @@
   {
     "title": "Sélection albums : Kévin Amiel, Alexandre de Villeneuve, Caroline, Neil Young and The Chrome Hearts, Isha",
     "added_at": "2025-06-13T16:00:32.908Z",
-    "removed_at": "2025-06-15T21:24:26.989Z",
-    "duration_minutes": 3203,
-    "duration_str": "2d 5h 23m"
+    "removed_at": "2025-06-15T22:35:46.799Z",
+    "duration_minutes": 3275,
+    "duration_str": "2d 6h 35m"
   },
   {
     "title": "Après le limogeage surprise de Bruno Maquart, le Palais de la découverte sur les charbons ardents",
@@ -36370,14 +36364,17 @@
   },
   {
     "title": "Vers un troisième acte de la rénovation urbaine des quartiers prioritaires",
-    "added_at": "2025-06-13T16:00:32.908Z"
+    "added_at": "2025-06-13T16:00:32.908Z",
+    "removed_at": "2025-06-15T22:35:46.799Z",
+    "duration_minutes": 3275,
+    "duration_str": "2d 6h 35m"
   },
   {
     "title": "Metallica ressort son controversé « Load », paru en 1996",
     "added_at": "2025-06-13T16:02:27.795Z",
-    "removed_at": "2025-06-15T21:32:24.196Z",
-    "duration_minutes": 3209,
-    "duration_str": "2d 5h 29m"
+    "removed_at": "2025-06-15T22:35:46.799Z",
+    "duration_minutes": 3273,
+    "duration_str": "2d 6h 33m"
   },
   {
     "title": "Un apéro avec Christophe Bourseiller : « Je ne crois pas être réac »",
@@ -36531,21 +36528,18 @@
   },
   {
     "title": "Au Festival d’Annecy, Baku Kinoshita et le crépuscule du yakuza",
-    "added_at": "2025-06-13T18:32:49.193Z",
-    "removed_at": "2025-06-15T21:32:24.196Z",
-    "duration_minutes": 3059,
-    "duration_str": "2d 2h 59m"
-  },
-  {
-    "title": "« Ebem »nous plonge dans l’univers geek de Yamê",
     "added_at": "2025-06-13T18:32:49.193Z"
   },
   {
-    "title": "La Villa Noailles s’engage dans un plan drastique de désendettement",
+    "title": "« Ebem »nous plonge dans l’univers geek de Yamê",
     "added_at": "2025-06-13T18:32:49.193Z",
-    "removed_at": "2025-06-15T21:30:24.912Z",
-    "duration_minutes": 3057,
-    "duration_str": "2d 2h 57m"
+    "removed_at": "2025-06-15T22:08:05.632Z",
+    "duration_minutes": 3095,
+    "duration_str": "2d 3h 35m"
+  },
+  {
+    "title": "La Villa Noailles s’engage dans un plan drastique de désendettement",
+    "added_at": "2025-06-13T18:32:49.193Z"
   },
   {
     "title": "La lèpre était présente sur le continent américain avant l’arrivée des colons européens",
@@ -36554,9 +36548,9 @@
   {
     "title": "Yoa, chanteuse : « On s’inspire de ce qui est plus radical que soi. Pour moi, ces figures plus radicales s’avèrent soit queer, soit noires »",
     "added_at": "2025-06-13T18:34:50.141Z",
-    "removed_at": "2025-06-15T21:32:24.196Z",
-    "duration_minutes": 3057,
-    "duration_str": "2d 2h 57m"
+    "removed_at": "2025-06-15T22:35:46.799Z",
+    "duration_minutes": 3120,
+    "duration_str": "2d 4h"
   },
   {
     "title": "Attaque en Iran, reconnaissance de la Palestine… Ce qu’il faut retenir de la conférence de presse d’Emmanuel Macron sur la situatio au Proche-Orient",
@@ -36844,10 +36838,7 @@
   },
   {
     "title": "Les images de la riposte iranienne sur Israël",
-    "added_at": "2025-06-14T05:59:48.290Z",
-    "removed_at": "2025-06-15T21:40:20.992Z",
-    "duration_minutes": 2380,
-    "duration_str": "1d 15h 40m"
+    "added_at": "2025-06-14T05:59:48.290Z"
   },
   {
     "title": "Les images de la riposte iranienne sur Israël    01:49",
@@ -36908,7 +36899,10 @@
   },
   {
     "title": "Les images du Boeing 787 d’Air India qui s’est écrasé après son décollage à Ahmedabad",
-    "added_at": "2025-06-14T07:10:58.087Z"
+    "added_at": "2025-06-14T07:10:58.087Z",
+    "removed_at": "2025-06-15T22:35:46.799Z",
+    "duration_minutes": 2364,
+    "duration_str": "1d 15h 24m"
   },
   {
     "title": "A quoi servent les commissions d’enquête parlementaires ? Comprendre en trois minutes",
@@ -36931,10 +36925,7 @@
   },
   {
     "title": "Le régime iranien ébranlé par la violence de l’attaque israélienne",
-    "added_at": "2025-06-14T08:10:16.988Z",
-    "removed_at": "2025-06-15T21:40:20.992Z",
-    "duration_minutes": 2250,
-    "duration_str": "1d 13h 30m"
+    "added_at": "2025-06-14T08:10:16.988Z"
   },
   {
     "title": "Attaque d’Israël contre l’Iran : la faillite de l’« axe de la résistance » pro-Téhéran",
@@ -36959,7 +36950,10 @@
   },
   {
     "title": "Trump tiraillé entre son soutien à Israël et son rejet des aventures militaires à l’étranger",
-    "added_at": "2025-06-14T08:38:05.738Z"
+    "added_at": "2025-06-14T08:38:05.738Z",
+    "removed_at": "2025-06-15T22:35:46.799Z",
+    "duration_minutes": 2277,
+    "duration_str": "1d 13h 57m"
   },
   {
     "title": "L’armée israélienne dit continuer à attaquer « des dizaines » de sites militaires en Iran : les dernières informations en direct",
@@ -37041,7 +37035,10 @@
   },
   {
     "title": "La faillite de l’« axe de la résistance » pro-iranien",
-    "added_at": "2025-06-14T10:03:00.726Z"
+    "added_at": "2025-06-14T10:03:00.726Z",
+    "removed_at": "2025-06-15T22:35:46.799Z",
+    "duration_minutes": 2192,
+    "duration_str": "1d 12h 32m"
   },
   {
     "title": "Trois passagers du voilier « Madleen » qui a tenté de briser le blocus à Gaza sont toujours emprisonnés en Israël",
@@ -37116,10 +37113,7 @@
   },
   {
     "title": "Israël a déjoué la riposte iranienne et poursuit son offensive militaire, en préparation depuis huit mois",
-    "added_at": "2025-06-14T10:56:25.316Z",
-    "removed_at": "2025-06-15T21:40:20.992Z",
-    "duration_minutes": 2083,
-    "duration_str": "1d 10h 43m"
+    "added_at": "2025-06-14T10:56:25.316Z"
   },
   {
     "title": "« Retarder de quelques années l’avancée du nucléaire iranien est un succès, mais cela ne peut être l’objectif final d’une politique de sécurité durable »",
@@ -37558,9 +37552,9 @@
   {
     "title": "Emmanuel Macron à Nuuk pour soutenir le Groenland et Copenhague face aux Etats-Unis",
     "added_at": "2025-06-15T04:29:50.053Z",
-    "removed_at": "2025-06-15T21:40:20.992Z",
-    "duration_minutes": 1030,
-    "duration_str": "17h 10m"
+    "removed_at": "2025-06-15T22:33:51.340Z",
+    "duration_minutes": 1084,
+    "duration_str": "18h 4m"
   },
   {
     "title": "Guy Savoy, chef étoilé : « A 15 ans, j’ai passé toutes mes vacances d’été à cuisiner à la buvette du jardin public »",
@@ -37619,7 +37613,10 @@
   },
   {
     "title": "Revivez les manifestations organisées aux Etats-Unis contre Donald Trump, et la parade militaire à laquelle assistait le président à Washington",
-    "added_at": "2025-06-15T07:00:20.047Z"
+    "added_at": "2025-06-15T07:00:20.047Z",
+    "removed_at": "2025-06-15T21:44:22.124Z",
+    "duration_minutes": 884,
+    "duration_str": "14h 44m"
   },
   {
     "title": "Guerre en Ukraine : Donald Trump dit à Vladimir Poutine que « sa guerre » doit s’arrêter, lors d’un entretien téléphonique",
@@ -37696,10 +37693,7 @@
   },
   {
     "title": "Stade quasi plein, sécurité… À Miami, la Coupe du monde des clubs de football démarre sans fausse note majeure",
-    "added_at": "2025-06-15T08:17:29.463Z",
-    "removed_at": "2025-06-15T21:30:24.912Z",
-    "duration_minutes": 792,
-    "duration_str": "13h 12m"
+    "added_at": "2025-06-15T08:17:29.463Z"
   },
   {
     "title": "La supériorité aérienne du F-35, l’un des avions de combat les plus performants au monde",
@@ -37896,7 +37890,10 @@
   },
   {
     "title": "La difficile coexistence de la population avec les ours en Roumanie : « Des gens sont tués, des animaux sont tués »",
-    "added_at": "2025-06-15T12:36:57.421Z"
+    "added_at": "2025-06-15T12:36:57.421Z",
+    "removed_at": "2025-06-15T22:35:46.799Z",
+    "duration_minutes": 598,
+    "duration_str": "9h 58m"
   },
   {
     "title": "L’assassinat d’une élue démocrate dans le Minnesota, nouvel épisode de violence politique aux Etats-Unis",
@@ -38099,7 +38096,10 @@
   },
   {
     "title": "Un collectif d’highliners joue les acrobates à plus de 4 000 m d’altitude dans le massif du Mont-Blanc",
-    "added_at": "2025-06-15T19:47:02.833Z"
+    "added_at": "2025-06-15T19:47:02.833Z",
+    "removed_at": "2025-06-15T22:35:46.799Z",
+    "duration_minutes": 168,
+    "duration_str": "2h 48m"
   },
   {
     "title": "Les brèves critiques du « Monde des livres » : Julien Barret, Yann Diener, Karin Serres…",
@@ -38119,9 +38119,9 @@
   {
     "title": "Le vice-champion olympique Joan-Benjamin Gaba sacré champion du monde de judo pour la première fois",
     "added_at": "2025-06-15T19:57:00.735Z",
-    "removed_at": "2025-06-15T21:32:24.196Z",
-    "duration_minutes": 95,
-    "duration_str": "1h 35m"
+    "removed_at": "2025-06-15T22:23:54.517Z",
+    "duration_minutes": 146,
+    "duration_str": "2h 26m"
   },
   {
     "title": "« Nicolas Delacour », de Jean-Marc Moriceau : un rural inconnu du XVIIᵉ siècle ressuscité",
@@ -38184,10 +38184,17 @@
   },
   {
     "title": "PSG-Atlético de Madrid : les Parisiens écrasent les Colchoneros, et réussissent leurs débuts en Coupe du monde des clubs",
-    "added_at": "2025-06-15T21:20:28.921Z"
+    "added_at": "2025-06-15T21:20:28.921Z",
+    "removed_at": "2025-06-15T21:50:18.080Z",
+    "duration_minutes": 29,
+    "duration_str": "29m"
   },
   {
     "title": "Coupe du monde des clubs : le Paris Saint-Germain domine l’Atlético de Madrid et soigne son entrée en lice",
     "added_at": "2025-06-15T21:30:24.912Z"
+  },
+  {
+    "title": "Etats-Unis : mort d’un manifestant blessé samedi par des tirs lors de la marche contre Donald Trump à Salt Lake City",
+    "added_at": "2025-06-15T21:48:18.722Z"
   }
 ]
