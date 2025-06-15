@@ -10902,7 +10902,10 @@
   },
   {
     "title": "Iran sends new missile barrage towards Israel, explosions over Tel Aviv",
-    "added_at": "2025-06-14T20:28:13.563Z"
+    "added_at": "2025-06-14T20:28:13.563Z",
+    "removed_at": "2025-06-15T00:06:39.002Z",
+    "duration_minutes": 218,
+    "duration_str": "3h 38m"
   },
   {
     "title": "Iranian state media says new missile, drone attack launched against Israel",
@@ -10922,5 +10925,9 @@
   {
     "title": "Iran strikes Israel with new missile, drone attack; Israel bombs Tehran",
     "added_at": "2025-06-14T21:59:20.848Z"
+  },
+  {
+    "title": "Iran fires new wave of missiles as Israel strikes oil facility in Tehran",
+    "added_at": "2025-06-15T00:06:39.002Z"
   }
 ]
