@@ -90,8 +90,9 @@
   {
     "title": "monde:::En direct, Guerre en Ukraine – L'Ukraine a reçu 1200 corps supplémentaires de la Russie",
     "added_at": "2025-06-15T10:42:03.135Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-15T14:51:41.018Z",
+    "duration_minutes": 250,
+    "duration_str": "4h 10m"
   },
   {
     "title": "economie:::A Moscou, plus de trois ans après le début de la guerre en Ukraine, des prix jugés «délirants»",
@@ -158,6 +159,12 @@
   {
     "title": "culture:::Le site de Festi’neuch évacué en raison d’un orage",
     "added_at": "2025-06-15T14:23:53.501Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "culture:::Série: «El’sardines», instants de la vie d’une jeune Algérienne",
+    "added_at": "2025-06-15T15:25:21.406Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
