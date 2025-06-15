@@ -12992,10 +12992,7 @@
   },
   {
     "title": "economie:::Une petite phrase et la Suisse redécouvre ses «working poor»",
-    "added_at": "2025-06-13T06:45:03.008Z",
-    "removed_at": "2025-06-15T11:37:31.241Z",
-    "duration_minutes": 3172,
-    "duration_str": "2d 4h 52m"
+    "added_at": "2025-06-13T06:45:03.008Z"
   },
   {
     "title": "monde:::En direct – Trump dit avoir été prévenu à l’avance des frappes israéliennes sur l’Iran",
@@ -13348,7 +13345,10 @@
   },
   {
     "title": "cyber:::Madagascar, terrain d’entraînement de l’IA",
-    "added_at": "2025-06-14T09:05:39.493Z"
+    "added_at": "2025-06-14T09:05:39.493Z",
+    "removed_at": "2025-06-15T13:00:47.143Z",
+    "duration_minutes": 1675,
+    "duration_str": "1d 3h 55m"
   },
   {
     "title": "suisse:::A Zoug, la gauche espère remplacer Martin Pfister sur fond de crise du logement",
@@ -13511,7 +13511,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Pas de répit entre Israël et l’Iran, qui poursuivent leurs frappes",
-    "added_at": "2025-06-15T09:12:54.164Z"
+    "added_at": "2025-06-15T09:12:54.164Z",
+    "removed_at": "2025-06-15T13:24:28.966Z",
+    "duration_minutes": 251,
+    "duration_str": "4h 11m"
   },
   {
     "title": "monde:::Emmanuel Macron entravé dans sa reconnaissance de l’Etat palestinien. Pourquoi est-ce si compliqué?",
@@ -13536,5 +13539,23 @@
   {
     "title": "sport:::Sur le Bol d’or, Realteam Spirit gagne doublement son pari",
     "added_at": "2025-06-15T11:49:22.599Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Des raids israéliens intenses se poursuivent en Iran",
+    "added_at": "2025-06-15T13:24:28.966Z",
+    "removed_at": "2025-06-15T13:34:21.829Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Des raids israéliens intenses se poursuivent en Iran, «alerte maximale» en Israël",
+    "added_at": "2025-06-15T13:34:21.829Z",
+    "removed_at": "2025-06-15T13:40:17.297Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Des raids intenses se poursuivent entre Israël et l’Iran",
+    "added_at": "2025-06-15T13:40:17.297Z"
   }
 ]

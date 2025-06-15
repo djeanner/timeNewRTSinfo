@@ -69,8 +69,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Pas de répit entre Israël et l’Iran, qui poursuivent leurs frappes",
     "added_at": "2025-06-15T09:12:54.164Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-15T13:24:28.966Z",
+    "duration_minutes": 252,
+    "duration_str": "4h 12m"
   },
   {
     "title": "monde:::Emmanuel Macron entravé dans sa reconnaissance de l’Etat palestinien. Pourquoi est-ce si compliqué?",
@@ -105,6 +106,26 @@
   {
     "title": "sport:::Sur le Bol d’or, Realteam Spirit gagne doublement son pari",
     "added_at": "2025-06-15T11:49:22.599Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Des raids israéliens intenses se poursuivent en Iran",
+    "added_at": "2025-06-15T13:24:28.966Z",
+    "removed_at": "2025-06-15T13:34:21.829Z",
+    "duration_minutes": 10,
+    "duration_str": "10m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Des raids israéliens intenses se poursuivent en Iran, «alerte maximale» en Israël",
+    "added_at": "2025-06-15T13:34:21.829Z",
+    "removed_at": "2025-06-15T13:40:17.297Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Des raids intenses se poursuivent entre Israël et l’Iran",
+    "added_at": "2025-06-15T13:40:17.297Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
