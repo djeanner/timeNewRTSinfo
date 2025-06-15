@@ -12251,7 +12251,10 @@
   },
   {
     "title": "sport:::A Miami, l’histoire du football en marche",
-    "added_at": "2025-06-14T10:06:17.773Z"
+    "added_at": "2025-06-14T10:06:17.773Z",
+    "removed_at": "2025-06-15T02:00:08.835Z",
+    "duration_minutes": 953,
+    "duration_str": "15h 53m"
   },
   {
     "title": "culture:::Revue de presse: Neil Young, un nouvel album pour chanter les plaisirs simples de la vie",
@@ -12304,5 +12307,9 @@
   {
     "title": "culture:::Echo vom Eierstock, la petite révolution du yodel féministe",
     "added_at": "2025-06-14T19:43:24.671Z"
+  },
+  {
+    "title": "sport:::Realteam Spirit remporte le 86e Bol d’Or du Léman",
+    "added_at": "2025-06-15T02:00:08.835Z"
   }
 ]
