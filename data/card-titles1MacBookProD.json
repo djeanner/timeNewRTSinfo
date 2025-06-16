@@ -19507,7 +19507,10 @@
   },
   {
     "title": "La carte des glaciers les plus dangereux de Suisse",
-    "added_at": "2025-06-14T15:25:36.507Z"
+    "added_at": "2025-06-14T15:25:36.507Z",
+    "removed_at": "2025-06-16T20:46:35.933Z",
+    "duration_minutes": 3200,
+    "duration_str": "2d 5h 20m"
   },
   {
     "title": "\"Ils m'ont tabassé\": le témoignage d'un participant à la Marche mondiale pour Gaza",
@@ -19518,7 +19521,10 @@
   },
   {
     "title": "Comment le vignoble valaisan perd du terrain face à l'urbanisation",
-    "added_at": "2025-06-14T17:10:16.943Z"
+    "added_at": "2025-06-14T17:10:16.943Z",
+    "removed_at": "2025-06-16T20:02:58.102Z",
+    "duration_minutes": 3052,
+    "duration_str": "2d 2h 52m"
   },
   {
     "title": "Une élue locale tuée et un autre blessé aux Etats-Unis, un \"acte de violence politique\" pour le gouverneur",
@@ -20022,5 +20028,13 @@
   {
     "title": "Pascal de Crousaz: \"Israël commence à devenir le maître du Moyen-Orient\"",
     "added_at": "2025-06-16T19:54:54.733Z"
+  },
+  {
+    "title": "Le Haut-Commissariat de l'ONU pour les réfugiés va supprimer environ 3500 postes dans le monde",
+    "added_at": "2025-06-16T20:02:58.102Z"
+  },
+  {
+    "title": "Du CO2 suisse bientôt stocké dans le sous-sol norvégien?",
+    "added_at": "2025-06-16T20:46:35.933Z"
   }
 ]
