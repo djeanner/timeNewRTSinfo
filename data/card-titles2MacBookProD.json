@@ -13892,7 +13892,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Frappe contre la télévision d’Etat iranienne, Israël appelle les habitants à évacuer une zone au nord-est de Téhéran",
-    "added_at": "2025-06-16T15:46:53.208Z"
+    "added_at": "2025-06-16T15:46:53.208Z",
+    "removed_at": "2025-06-16T23:15:27.975Z",
+    "duration_minutes": 448,
+    "duration_str": "7h 28m"
   },
   {
     "title": "cyber:::WhatsApp affichera des publicités, un tournant majeur pour la messagerie qui nous concerne tous de très près",
@@ -13940,5 +13943,9 @@
   {
     "title": "economie:::La Suisse retrouve sa place de championne du monde de la compétitivité, selon l’IMD",
     "added_at": "2025-06-16T22:07:58.875Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L'Iran promet des attaques contre Israël jusqu'au petit matin",
+    "added_at": "2025-06-16T23:15:27.975Z"
   }
 ]
