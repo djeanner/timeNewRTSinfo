@@ -19475,7 +19475,10 @@
   },
   {
     "title": "Une rave-party géante envahit illégalement des pâturages à Malleray",
-    "added_at": "2025-06-14T14:28:10.952Z"
+    "added_at": "2025-06-14T14:28:10.952Z",
+    "removed_at": "2025-06-16T19:21:14.865Z",
+    "duration_minutes": 3173,
+    "duration_str": "2d 4h 53m"
   },
   {
     "title": "Des milliers de personnes dans la rue pour la grève des femmes",
@@ -19508,7 +19511,10 @@
   },
   {
     "title": "\"Ils m'ont tabassé\": le témoignage d'un participant à la Marche mondiale pour Gaza",
-    "added_at": "2025-06-14T16:54:29.076Z"
+    "added_at": "2025-06-14T16:54:29.076Z",
+    "removed_at": "2025-06-16T19:54:54.733Z",
+    "duration_minutes": 3060,
+    "duration_str": "2d 3h"
   },
   {
     "title": "Comment le vignoble valaisan perd du terrain face à l'urbanisation",
@@ -20008,5 +20014,13 @@
   {
     "title": "Le G7, qui démarre sur fond de tensions internationales, veut une \"désescalade\" entre Iran et Israël",
     "added_at": "2025-06-16T18:27:38.845Z"
+  },
+  {
+    "title": "La police attaquée lors d'une rave party illégale à Malleray (BE)",
+    "added_at": "2025-06-16T19:21:14.865Z"
+  },
+  {
+    "title": "Pascal de Crousaz: \"Israël commence à devenir le maître du Moyen-Orient\"",
+    "added_at": "2025-06-16T19:54:54.733Z"
   }
 ]
