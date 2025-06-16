@@ -13598,7 +13598,10 @@
   },
   {
     "title": "sport:::Au Mont-Blanc, la montagne défiée par la vitesse",
-    "added_at": "2025-06-15T13:58:11.569Z"
+    "added_at": "2025-06-15T13:58:11.569Z",
+    "removed_at": "2025-06-16T05:32:05.632Z",
+    "duration_minutes": 933,
+    "duration_str": "15h 33m"
   },
   {
     "title": "suisse:::A Zoug, la succession de Martin Pfister nécessitera un second tour",
@@ -13677,5 +13680,9 @@
   {
     "title": "monde:::«Comme les fusillades dans les écoles», la violence politique s’est installée dans le quotidien des Américains",
     "added_at": "2025-06-16T04:22:47.735Z"
+  },
+  {
+    "title": "economie:::Vie privée et vie professionnelle, mode d’emploi pour un équilibre durable",
+    "added_at": "2025-06-16T05:32:05.632Z"
   }
 ]
