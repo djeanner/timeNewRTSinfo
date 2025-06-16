@@ -640,9 +640,8 @@
   {
     "title": "Entre trafics et incivilités, ces gardiens de HLM qui « font rempart »",
     "added_at": "2025-06-16T10:51:15.760Z",
-    "removed_at": "2025-06-16T12:52:10.960Z",
-    "duration_minutes": 121,
-    "duration_str": "2h 1m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "En Israël, sous le feu des missiles iraniens, un pays à l’arrêt",
@@ -674,8 +673,9 @@
   {
     "title": "Début du procès d’un Français jugé en Malaisie, qui risque la peine de mort",
     "added_at": "2025-06-16T11:30:55.456Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-16T15:01:18.239Z",
+    "duration_minutes": 210,
+    "duration_str": "3h 30m"
   },
   {
     "title": "Aux assises des Landes, le fils suicidé, le père assassiné et le meurtrier tourmenté",
@@ -738,6 +738,18 @@
   {
     "title": "Offensive politique contre le ministère de l’éducation nationale autour de l’album « La Belle et la Bête », de Jul",
     "added_at": "2025-06-16T14:13:39.774Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Retraites : François Bayrou dit avoir proposé aux partenaires sociaux « une prime » pour maintenir les seniors en emploi",
+    "added_at": "2025-06-16T14:45:24.181Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "A écouter ce soir : « Les Gardiens du droit », sur France Culture, une immersion instructive dans les arcanes de la justice",
+    "added_at": "2025-06-16T15:01:18.239Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
