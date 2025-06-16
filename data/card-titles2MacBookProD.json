@@ -13559,7 +13559,10 @@
   },
   {
     "title": "sport:::Sur le Bol d’or, Realteam Spirit gagne doublement son pari",
-    "added_at": "2025-06-15T11:49:22.599Z"
+    "added_at": "2025-06-15T11:49:22.599Z",
+    "removed_at": "2025-06-16T04:22:47.735Z",
+    "duration_minutes": 993,
+    "duration_str": "16h 33m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Des raids israéliens intenses se poursuivent en Iran",
@@ -13588,14 +13591,14 @@
   },
   {
     "title": "culture:::Les artistes ont-ils une place dans le marché de l’art?",
-    "added_at": "2025-06-15T13:56:16.143Z"
+    "added_at": "2025-06-15T13:56:16.143Z",
+    "removed_at": "2025-06-16T04:22:47.735Z",
+    "duration_minutes": 866,
+    "duration_str": "14h 26m"
   },
   {
     "title": "sport:::Au Mont-Blanc, la montagne défiée par la vitesse",
-    "added_at": "2025-06-15T13:58:11.569Z",
-    "removed_at": "2025-06-15T21:16:32.380Z",
-    "duration_minutes": 438,
-    "duration_str": "7h 18m"
+    "added_at": "2025-06-15T13:58:11.569Z"
   },
   {
     "title": "suisse:::A Zoug, la succession de Martin Pfister nécessitera un second tour",
@@ -13655,6 +13658,24 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Notre suivi de la semaine du 9 au 15 juin 2025",
-    "added_at": "2025-06-15T23:25:18.425Z"
+    "added_at": "2025-06-15T23:25:18.425Z",
+    "removed_at": "2025-06-16T04:14:53.197Z",
+    "duration_minutes": 289,
+    "duration_str": "4h 49m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L'armée israélienne dit que l'Iran a lancé une nouvelle salve de missiles",
+    "added_at": "2025-06-16T04:14:53.197Z",
+    "removed_at": "2025-06-16T04:20:48.228Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’Iran a affirmé lundi avoir frappé «avec succès» Israël",
+    "added_at": "2025-06-16T04:20:48.228Z"
+  },
+  {
+    "title": "monde:::«Comme les fusillades dans les écoles», la violence politique s’est installée dans le quotidien des Américains",
+    "added_at": "2025-06-16T04:22:47.735Z"
   }
 ]
