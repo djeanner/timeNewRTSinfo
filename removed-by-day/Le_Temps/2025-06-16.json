@@ -76,8 +76,9 @@
   {
     "title": "economie:::Cet art de la transmission familiale qui explique pourquoi Hermès galope plus vite que les autres",
     "added_at": "2025-06-16T08:40:29.039Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-16T14:13:39.426Z",
+    "duration_minutes": 333,
+    "duration_str": "5h 33m"
   },
   {
     "title": "culture:::Nicolas Delaroche révèle la vie secrète des œuvres en images",
@@ -114,8 +115,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – L’Iran accuse Israël d’avoir visé un hôpital et dénonce un «crime de guerre»",
     "added_at": "2025-06-16T11:25:00.067Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-16T13:53:50.002Z",
+    "duration_minutes": 149,
+    "duration_str": "2h 29m"
   },
   {
     "title": "culture:::Le Basel Social Club transforme la finance en art",
@@ -139,12 +141,38 @@
   {
     "title": "suisse:::Depuis les attaques du 7-Octobre, les cas de radicalisation ont doublé dans le canton de Vaud",
     "added_at": "2025-06-16T13:18:03.254Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-16T14:15:34.529Z",
+    "duration_minutes": 58,
+    "duration_str": "58m"
   },
   {
     "title": "suisse:::Les détenus de Champ-Dollon enchaînent les mouvements de protestation depuis trois jours",
     "added_at": "2025-06-16T13:37:54.879Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Israël appelle les habitants à évacuer un arrondissement entier de Téhéran",
+    "added_at": "2025-06-16T13:53:50.002Z",
+    "removed_at": "2025-06-16T14:09:39.088Z",
+    "duration_minutes": 16,
+    "duration_str": "16m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Israël appelle les habitants à évacuer une zone au nord-est de Téhéran",
+    "added_at": "2025-06-16T14:09:39.088Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::Transport aérien: Genève est désormais trois fois mieux desservie que Zurich pour se rendre Chine",
+    "added_at": "2025-06-16T14:13:39.426Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Depuis les attaques du 7 octobre 2023, les cas de radicalisation ont doublé dans le canton de Vaud",
+    "added_at": "2025-06-16T14:15:34.529Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
