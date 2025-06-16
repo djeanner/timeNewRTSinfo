@@ -13627,7 +13627,10 @@
   },
   {
     "title": "sport:::A Miami, l’Oscar ne va pas à Messi",
-    "added_at": "2025-06-15T16:54:33.271Z"
+    "added_at": "2025-06-15T16:54:33.271Z",
+    "removed_at": "2025-06-16T05:54:01.721Z",
+    "duration_minutes": 779,
+    "duration_str": "12h 59m"
   },
   {
     "title": "monde:::Les scénarios possibles entre Israël et l’Iran, alors que le conflit menace de se généraliser",
@@ -13639,7 +13642,10 @@
   },
   {
     "title": "cyber:::On a testé: la Nintendo Switch 2, une console pleine de promesses, mais pas encore indispensable",
-    "added_at": "2025-06-15T18:43:34.478Z"
+    "added_at": "2025-06-15T18:43:34.478Z",
+    "removed_at": "2025-06-16T06:09:46.473Z",
+    "duration_minutes": 686,
+    "duration_str": "11h 26m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump aurait rejeté la proposition israélienne de tuer l’ayatollah Ali Khamenei",
@@ -13675,7 +13681,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’Iran a affirmé lundi avoir frappé «avec succès» Israël",
-    "added_at": "2025-06-16T04:20:48.228Z"
+    "added_at": "2025-06-16T04:20:48.228Z",
+    "removed_at": "2025-06-16T06:01:52.860Z",
+    "duration_minutes": 101,
+    "duration_str": "1h 41m"
   },
   {
     "title": "monde:::«Comme les fusillades dans les écoles», la violence politique s’est installée dans le quotidien des Américains",
@@ -13684,5 +13693,31 @@
   {
     "title": "economie:::Vie privée et vie professionnelle, mode d’emploi pour un équilibre durable",
     "added_at": "2025-06-16T05:32:05.632Z"
+  },
+  {
+    "title": "monde:::L’ONU doit revoir son plan d’aide humanitaire et faire «un tri de la survie humaine»",
+    "added_at": "2025-06-16T05:54:01.721Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – les habitants de Téhéran «paieront le prix» des morts civils israéliens, promet l’Etat hébreu",
+    "added_at": "2025-06-16T06:01:52.860Z",
+    "removed_at": "2025-06-16T06:11:47.869Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "sport:::Des gymnastes de haut niveau dans la cohue de la Fête fédérale de Lausanne: «On se sent comme à la maison»",
+    "added_at": "2025-06-16T06:09:46.473Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les habitants de Téhéran «paieront le prix» des morts civils israéliens, promet l’Etat hébreu",
+    "added_at": "2025-06-16T06:11:47.869Z",
+    "removed_at": "2025-06-16T06:13:43.020Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "monde:::En direct – Les habitants de Téhéran «paieront le prix» des morts civils israéliens, promet l’Etat hébreu",
+    "added_at": "2025-06-16T06:13:43.020Z"
   }
 ]
