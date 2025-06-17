@@ -14147,7 +14147,10 @@
   },
   {
     "title": "sciences:::La chaleur revient en Suisse et c’est bien parti pour durer cet été",
-    "added_at": "2025-06-17T11:10:21.687Z"
+    "added_at": "2025-06-17T11:10:21.687Z",
+    "removed_at": "2025-06-17T18:29:51.311Z",
+    "duration_minutes": 439,
+    "duration_str": "7h 19m"
   },
   {
     "title": "economie:::Pictet et un ancien gérant condamnés dans l’affaire Petrobras",
@@ -14225,7 +14228,10 @@
   },
   {
     "title": "culture:::Alfred Brendel,  le poète de Schubert disparu",
-    "added_at": "2025-06-17T17:18:10.857Z"
+    "added_at": "2025-06-17T17:18:10.857Z",
+    "removed_at": "2025-06-17T18:23:54.774Z",
+    "duration_minutes": 65,
+    "duration_str": "1h 5m"
   },
   {
     "title": "cyber:::Plus de 100 000 employés d’UBS touchés par un vol massif de données sensibles, affectant aussi Pictet",
@@ -14253,5 +14259,13 @@
   {
     "title": "culture:::Gaza, théâtre sanglant de la banalité du mal",
     "added_at": "2025-06-17T18:05:55.624Z"
+  },
+  {
+    "title": "culture:::Alfred Brendel, le poète de Schubert disparu",
+    "added_at": "2025-06-17T18:23:54.774Z"
+  },
+  {
+    "title": "culture:::«Elio», un plaidoyer des studios Pixar pour faire de la différence une force",
+    "added_at": "2025-06-17T18:29:51.311Z"
   }
 ]
