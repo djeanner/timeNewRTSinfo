@@ -13572,7 +13572,10 @@
   },
   {
     "title": "economie:::A Moscou, plus de trois ans après le début de la guerre en Ukraine, des prix jugés «délirants»",
-    "added_at": "2025-06-15T11:09:53.318Z"
+    "added_at": "2025-06-15T11:09:53.318Z",
+    "removed_at": "2025-06-17T13:03:41.606Z",
+    "duration_minutes": 2993,
+    "duration_str": "2d 1h 53m"
   },
   {
     "title": "culture:::Didier Krzentowski, galeriste de design: «Avant de créer un objet, il faut me raconter une histoire»",
@@ -14101,7 +14104,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les Gardiens de la Révolution affirment avoir frappé le Mossad à Tel-Aviv",
-    "added_at": "2025-06-17T09:31:08.335Z"
+    "added_at": "2025-06-17T09:31:08.335Z",
+    "removed_at": "2025-06-17T13:25:26.288Z",
+    "duration_minutes": 234,
+    "duration_str": "3h 54m"
   },
   {
     "title": "culture:::Les Swiss Awards saluent l’engagement et la sensibilité, des jeunes créatifs suisses",
@@ -14133,5 +14139,9 @@
   {
     "title": "sport:::Le discret sacerdoce d'Evita Herminjard, capitaine de l'équipe nationale suisse de basketball",
     "added_at": "2025-06-17T12:21:56.863Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le site nucléaire iranien de Natanz touché en souterrain, après les attaques menées par Israël",
+    "added_at": "2025-06-17T13:25:26.288Z"
   }
 ]
