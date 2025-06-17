@@ -19601,7 +19601,10 @@
   },
   {
     "title": "A la recherche de la vache suisse perdue",
-    "added_at": "2025-06-15T05:49:04.668Z"
+    "added_at": "2025-06-15T05:49:04.668Z",
+    "removed_at": "2025-06-17T09:21:07.599Z",
+    "duration_minutes": 3092,
+    "duration_str": "2d 3h 32m"
   },
   {
     "title": "Primes maladie: les Jurassiens tardent trop à aller chez le médecin",
@@ -19684,7 +19687,10 @@
   },
   {
     "title": "Marlen Reusser triomphe pour la deuxième fois",
-    "added_at": "2025-06-15T12:09:18.448Z"
+    "added_at": "2025-06-15T12:09:18.448Z",
+    "removed_at": "2025-06-17T08:39:34.459Z",
+    "duration_minutes": 2670,
+    "duration_str": "1d 20h 30m"
   },
   {
     "title": "La marche internationale vers Gaza stoppée à la sortie du Caire",
@@ -19695,11 +19701,17 @@
   },
   {
     "title": "\"Lotus\", le nouvel album audacieux et introspectif de la rappeuse Little Simz",
-    "added_at": "2025-06-15T12:44:54.819Z"
+    "added_at": "2025-06-15T12:44:54.819Z",
+    "removed_at": "2025-06-17T08:41:35.810Z",
+    "duration_minutes": 2636,
+    "duration_str": "1d 19h 56m"
   },
   {
     "title": "Les visites médicales à domicile, une alternative aux urgences en plein essor",
-    "added_at": "2025-06-15T12:58:47.897Z"
+    "added_at": "2025-06-15T12:58:47.897Z",
+    "removed_at": "2025-06-17T09:19:08.084Z",
+    "duration_minutes": 2660,
+    "duration_str": "1d 20h 20m"
   },
   {
     "title": "Le site de Festi'neuch évacué en raison d'un violent orage",
@@ -20162,5 +20174,24 @@
   {
     "title": "La Suisse devient le pays le plus compétitif du monde, selon une étude",
     "added_at": "2025-06-17T08:29:36.121Z"
+  },
+  {
+    "title": "Maya Kandel: Pour son deuxième mandat, \"Trump a fait du mensonge un test d’allégeance\"",
+    "added_at": "2025-06-17T08:39:34.459Z",
+    "removed_at": "2025-06-17T09:01:19.136Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
+  },
+  {
+    "title": "Femmes, pères et masculinité au menu de la prochaine saison de la Comédie de Genève",
+    "added_at": "2025-06-17T08:41:35.810Z"
+  },
+  {
+    "title": "Maya Kandel: Pour son deuxième mandat, \"Trump a fait du mensonge un test d'allégeance\"",
+    "added_at": "2025-06-17T09:01:19.136Z"
+  },
+  {
+    "title": "Au moins 47 morts près d'un centre de distribution d'aide à Gaza",
+    "added_at": "2025-06-17T09:19:08.084Z"
   }
 ]
