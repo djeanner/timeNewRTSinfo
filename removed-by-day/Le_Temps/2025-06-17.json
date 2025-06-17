@@ -95,8 +95,9 @@
   {
     "title": "suisse:::«20 minutes» abandonnera le papier à la fin de l’année",
     "added_at": "2025-06-17T08:09:46.141Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-17T14:54:54.489Z",
+    "duration_minutes": 405,
+    "duration_str": "6h 45m"
   },
   {
     "title": "culture:::Warda, la renaissance d’une diva panarabe",
@@ -185,6 +186,19 @@
   {
     "title": "culture:::«Enzo», pas si facile d’être jeune",
     "added_at": "2025-06-17T14:30:58.467Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::Comment l’Union européenne envisage d’interdire le gaz russe",
+    "added_at": "2025-06-17T14:52:54.706Z",
+    "removed_at": "2025-06-17T15:30:35.810Z",
+    "duration_minutes": 38,
+    "duration_str": "38m"
+  },
+  {
+    "title": "suisse:::Les Suisses sont favorables à un rapprochement avec l’OTAN",
+    "added_at": "2025-06-17T15:30:35.810Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
