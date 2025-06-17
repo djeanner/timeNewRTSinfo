@@ -13774,7 +13774,10 @@
   },
   {
     "title": "sport:::C’est à Thoune que le football suisse entend bâtir la maison dont il rêve",
-    "added_at": "2025-06-16T07:25:02.175Z"
+    "added_at": "2025-06-16T07:25:02.175Z",
+    "removed_at": "2025-06-17T04:13:44.665Z",
+    "duration_minutes": 1248,
+    "duration_str": "20h 48m"
   },
   {
     "title": "economie:::Cet art de la transmission familiale qui explique pourquoi Hermès galope plus vite que les autres",
@@ -13902,7 +13905,10 @@
   },
   {
     "title": "cyber:::WhatsApp affichera des publicités, un tournant majeur pour la messagerie qui nous concerne tous de très près",
-    "added_at": "2025-06-16T15:58:45.030Z"
+    "added_at": "2025-06-16T15:58:45.030Z",
+    "removed_at": "2025-06-17T04:57:19.315Z",
+    "duration_minutes": 778,
+    "duration_str": "12h 58m"
   },
   {
     "title": "monde:::Quelque 130 Suisses veulent quitter le Proche et Moyen-Orient en proie à la guerre",
@@ -13959,10 +13965,25 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le G7 affirme le droit d'Israël à «se défendre» et appelle à «protéger les civils»",
-    "added_at": "2025-06-17T03:51:30.133Z"
+    "added_at": "2025-06-17T03:51:30.133Z",
+    "removed_at": "2025-06-17T04:27:37.450Z",
+    "duration_minutes": 36,
+    "duration_str": "36m"
   },
   {
     "title": "cyber:::Exclusif – L’Etat de Genève a discrètement fait le choix de renforcer sa dépendance à Microsoft",
     "added_at": "2025-06-17T04:03:34.064Z"
+  },
+  {
+    "title": "sport:::Un Vaudois en chasse un autre: Ludovic Magnin sur le banc du FC Bâle",
+    "added_at": "2025-06-17T04:13:44.665Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump a quitté le G7 précipitamment pour se consacrer au Moyen-Orient",
+    "added_at": "2025-06-17T04:27:37.450Z"
+  },
+  {
+    "title": "monde:::En direct, Guerre en Ukraine – Une attaque aérienne russe sur Kiev fait un mort et plusieurs blessés",
+    "added_at": "2025-06-17T04:57:19.315Z"
   }
 ]
