@@ -14243,11 +14243,17 @@
   },
   {
     "title": "suisse:::Fiscalité agricole: Valérie Dittli attendait plus du canton, Christelle Luisier évoque une «déception»",
-    "added_at": "2025-06-17T16:44:19.919Z"
+    "added_at": "2025-06-17T16:44:19.919Z",
+    "removed_at": "2025-06-18T14:33:14.054Z",
+    "duration_minutes": 1308,
+    "duration_str": "21h 48m"
   },
   {
     "title": "suisse:::Le Conseil d’Etat vaudois appelé à se positionner sur les potentiels conflits d’intérêts des communicants privés",
-    "added_at": "2025-06-17T16:50:20.090Z"
+    "added_at": "2025-06-17T16:50:20.090Z",
+    "removed_at": "2025-06-18T14:27:16.263Z",
+    "duration_minutes": 1296,
+    "duration_str": "21h 36m"
   },
   {
     "title": "suisse:::La Suisse évacue une partie de son personnel de l’ambassade de Téhéran",
@@ -14412,7 +14418,10 @@
   },
   {
     "title": "sciences:::Un «jumeau numérique» va prédire le futur des océans",
-    "added_at": "2025-06-18T07:07:37.901Z"
+    "added_at": "2025-06-18T07:07:37.901Z",
+    "removed_at": "2025-06-18T15:10:56.178Z",
+    "duration_minutes": 483,
+    "duration_str": "8h 3m"
   },
   {
     "title": "sport:::A Miami, Boca Juniors en terrain conquis mais en terre inconnue",
@@ -14451,7 +14460,10 @@
   },
   {
     "title": "suisse:::A Genève, l’Union populaire se lance dans la course au Conseil d’État avec Rémy Pagani",
-    "added_at": "2025-06-18T10:22:25.154Z"
+    "added_at": "2025-06-18T10:22:25.154Z",
+    "removed_at": "2025-06-18T14:41:11.591Z",
+    "duration_minutes": 258,
+    "duration_str": "4h 18m"
   },
   {
     "title": "culture:::A Genève après Lausanne, la folle cavale des comédiens de la Manufacture, au nom de Bernard-Marie Koltès",
@@ -14459,7 +14471,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’Iran «ne se rendra jamais» sous la pression, affirme le guide suprême iranien",
-    "added_at": "2025-06-18T11:40:16.600Z"
+    "added_at": "2025-06-18T11:40:16.600Z",
+    "removed_at": "2025-06-18T14:43:07.210Z",
+    "duration_minutes": 182,
+    "duration_str": "3h 2m"
   },
   {
     "title": "cyber:::Le Conseil d’Etat genevois devra s’expliquer sur sa stratégie vis-à-vis de Microsoft",
@@ -14475,6 +14490,37 @@
   },
   {
     "title": "monde:::Plus de 60 tués en 24 heures à Gaza «dans ces Hunger Games qu’Israël nous fait jouer dans la réalité»",
-    "added_at": "2025-06-18T13:47:31.357Z"
+    "added_at": "2025-06-18T13:47:31.357Z",
+    "removed_at": "2025-06-18T14:23:20.965Z",
+    "duration_minutes": 35,
+    "duration_str": "35m"
+  },
+  {
+    "title": "monde:::Plus de 60 tués en vingt-quatre heures à Gaza, «dans ces Hunger Games auxquels Israël nous fait jouer»",
+    "added_at": "2025-06-18T14:23:20.965Z"
+  },
+  {
+    "title": "economie:::Après la panne géante en Espagne, le gestionnaire du réseau et les opérateurs s’accusent mutuellement",
+    "added_at": "2025-06-18T14:27:16.263Z"
+  },
+  {
+    "title": "culture:::«Tout pour la lumière» sur Netflix, comme «HPI» et «Koh-Lanta»: la curieuse alliance de TF1 et du géant américain",
+    "added_at": "2025-06-18T14:27:16.263Z"
+  },
+  {
+    "title": "suisse:::Dans le Jura, la gauche dénonce «une parodie de transparence»",
+    "added_at": "2025-06-18T14:33:14.054Z"
+  },
+  {
+    "title": "suisse:::A Fribourg, des prérogatives sont octroyées à la communauté alévie",
+    "added_at": "2025-06-18T14:41:11.591Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’armée israélienne affirme avoir frappé la sécurité intérieure iranienne",
+    "added_at": "2025-06-18T14:43:07.210Z"
+  },
+  {
+    "title": "cyber:::Le débat devient brûlant, mais d’Apple à Meta, personne ne veut contrôler l’âge des enfants en ligne",
+    "added_at": "2025-06-18T15:10:56.178Z"
   }
 ]
