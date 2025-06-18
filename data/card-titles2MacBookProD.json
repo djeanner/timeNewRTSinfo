@@ -13947,7 +13947,10 @@
   },
   {
     "title": "monde:::Fuir pour vivre: Téhéran en proie à l’exode",
-    "added_at": "2025-06-16T17:00:18.046Z"
+    "added_at": "2025-06-16T17:00:18.046Z",
+    "removed_at": "2025-06-18T20:15:21.940Z",
+    "duration_minutes": 3075,
+    "duration_str": "2d 3h 15m"
   },
   {
     "title": "monde:::Guerre contre l’Iran: Benyamin Netanyahou a-t-il poussé Donald Trump dans le dos?",
@@ -14260,7 +14263,10 @@
   },
   {
     "title": "suisse:::La Suisse évacue une partie de son personnel de l’ambassade de Téhéran",
-    "added_at": "2025-06-17T16:54:17.022Z"
+    "added_at": "2025-06-17T16:54:17.022Z",
+    "removed_at": "2025-06-18T20:15:21.940Z",
+    "duration_minutes": 1641,
+    "duration_str": "1d 3h 21m"
   },
   {
     "title": "culture:::Alfred Brendel,  le poète de Schubert disparu",
@@ -14296,10 +14302,7 @@
   },
   {
     "title": "monde:::Après son départ précipité du G7, Donald Trump va-t-il engager l’Amérique dans la guerre entre Israël et l’Iran?",
-    "added_at": "2025-06-17T17:59:57.839Z",
-    "removed_at": "2025-06-18T09:56:30.982Z",
-    "duration_minutes": 956,
-    "duration_str": "15h 56m"
+    "added_at": "2025-06-17T17:59:57.839Z"
   },
   {
     "title": "culture:::Gaza, théâtre sanglant de la banalité du mal",
@@ -14561,10 +14564,7 @@
   },
   {
     "title": "monde:::L’ambassadeur iranien à Genève: «Si Trump attaque Téhéran, nous agirons de la même façon que contre Israël»",
-    "added_at": "2025-06-18T16:02:33.841Z",
-    "removed_at": "2025-06-18T18:45:49.124Z",
-    "duration_minutes": 163,
-    "duration_str": "2h 43m"
+    "added_at": "2025-06-18T16:02:33.841Z"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump et l'Iran: «Je vais peut-être le faire, peut-être pas»",
@@ -14576,10 +14576,7 @@
   },
   {
     "title": "monde:::Ali Khamenei, un guide suprême dans l’œil du cyclone",
-    "added_at": "2025-06-18T16:50:18.024Z",
-    "removed_at": "2025-06-18T18:45:49.124Z",
-    "duration_minutes": 115,
-    "duration_str": "1h 55m"
+    "added_at": "2025-06-18T16:50:18.024Z"
   },
   {
     "title": "economie:::Qui sont les «EMILLI», les millionnaires du quotidien qui ne se sentent pas riches",
@@ -14587,7 +14584,10 @@
   },
   {
     "title": "economie:::Changement à la présidence de Nestlé: Pablo Isla va succéder l’an prochain à Paul Bulcke",
-    "added_at": "2025-06-18T17:16:18.537Z"
+    "added_at": "2025-06-18T17:16:18.537Z",
+    "removed_at": "2025-06-18T20:11:20.187Z",
+    "duration_minutes": 175,
+    "duration_str": "2h 55m"
   },
   {
     "title": "suisse:::Une députée demande que le Canton de Vaud rembourse les impôts prélevés illégalement",
@@ -14614,7 +14614,10 @@
   },
   {
     "title": "sciences:::En graphiques – Près de 6000 exoplanètes découvertes en trente ans et toujours pas de jumelle de la Terre.",
-    "added_at": "2025-06-18T18:45:49.124Z"
+    "added_at": "2025-06-18T18:45:49.124Z",
+    "removed_at": "2025-06-18T20:17:17.766Z",
+    "duration_minutes": 91,
+    "duration_str": "1h 31m"
   },
   {
     "title": "sciences:::Découverte d’une famille rare de six exoplanètes en résonance orbitale",
@@ -14623,5 +14626,9 @@
   {
     "title": "sciences:::Chasser les exoplanètes pour mieux comprendre d’où on vient, et chérir où on vit",
     "added_at": "2025-06-18T18:47:44.865Z"
+  },
+  {
+    "title": "sciences:::En graphiques – Près de 6000 exoplanètes découvertes en trente ans et toujours pas de jumelle de la Terre",
+    "added_at": "2025-06-18T20:17:17.766Z"
   }
 ]
