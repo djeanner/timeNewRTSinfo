@@ -12287,7 +12287,10 @@
   },
   {
     "title": "monde:::Moyen-Orient – Benyamin Netanyahou déclare vouloir «frapper tous les sites du régime» iranien",
-    "added_at": "2025-06-14T15:34:04.123Z"
+    "added_at": "2025-06-14T15:34:04.123Z",
+    "removed_at": "2025-06-15T05:36:58.228Z",
+    "duration_minutes": 842,
+    "duration_str": "14h 2m"
   },
   {
     "title": "culture:::Dans «Le Cours secret du monde», Hugues Jallon remonte la piste des alchimistes, des mages, des rêveurs d’absolu qui ont émaillé le XIX et le XXe siècle",
@@ -12311,5 +12314,23 @@
   {
     "title": "sport:::Realteam Spirit remporte le 86e Bol d’Or du Léman",
     "added_at": "2025-06-15T02:00:08.835Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Benyamin Netanyahou déclare vouloir «frapper tous les sites du régime» iranien",
+    "added_at": "2025-06-15T05:36:58.228Z",
+    "removed_at": "2025-06-15T05:42:37.048Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Trois morts et plus de 130 blessés en Israël à la suite de tirs de missiles iraniens",
+    "added_at": "2025-06-15T05:42:37.048Z",
+    "removed_at": "2025-06-15T05:52:00.437Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Huit morts et plus de 130 blessés en Israël à la suite de tirs de missiles iraniens",
+    "added_at": "2025-06-15T05:52:00.437Z"
   }
 ]
