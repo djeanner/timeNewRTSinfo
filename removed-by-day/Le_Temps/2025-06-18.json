@@ -36,8 +36,9 @@
   {
     "title": "economie:::Est-ce que la BNS introduira des taux négatifs ce jeudi?",
     "added_at": "2025-06-18T04:32:10.776Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-18T17:47:59.667Z",
+    "duration_minutes": 796,
+    "duration_str": "13h 16m"
   },
   {
     "title": "monde:::En direct, Guerre en Ukraine – Au G7, un soutien a minima pour l’Ukraine",
@@ -74,7 +75,7 @@
   {
     "title": "sciences:::Un «jumeau numérique» va prédire le futur des océans",
     "added_at": "2025-06-18T07:07:37.901Z",
-    "removed_at": "2025-06-18T15:10:56.178Z",
+    "removed_at": "2025-06-18T15:10:21.710Z",
     "duration_minutes": 483,
     "duration_str": "8h 3m"
   },
@@ -123,9 +124,9 @@
   {
     "title": "culture:::A Genève après Lausanne, la folle cavale des comédiens de la Manufacture, au nom de Bernard-Marie Koltès",
     "added_at": "2025-06-18T11:27:59.659Z",
-    "removed_at": "2025-06-18T15:46:44.413Z",
-    "duration_minutes": 259,
-    "duration_str": "4h 19m"
+    "removed_at": "2025-06-18T15:46:04.568Z",
+    "duration_minutes": 258,
+    "duration_str": "4h 18m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’Iran «ne se rendra jamais» sous la pression, affirme le guide suprême iranien",
@@ -158,27 +159,29 @@
   {
     "title": "monde:::Plus de 60 tués en 24 heures à Gaza «dans ces Hunger Games qu’Israël nous fait jouer dans la réalité»",
     "added_at": "2025-06-18T13:47:23.565Z",
-    "removed_at": "2025-06-18T14:23:20.965Z",
+    "removed_at": "2025-06-18T14:23:15.731Z",
     "duration_minutes": 36,
     "duration_str": "36m"
   },
   {
     "title": "monde:::Plus de 60 tués en vingt-quatre heures à Gaza, «dans ces Hunger Games auxquels Israël nous fait jouer»",
-    "added_at": "2025-06-18T14:23:20.965Z",
+    "added_at": "2025-06-18T14:23:15.731Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "economie:::Après la panne géante en Espagne, le gestionnaire du réseau et les opérateurs s’accusent mutuellement",
-    "added_at": "2025-06-18T14:27:16.263Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-06-18T14:27:01.278Z",
+    "removed_at": "2025-06-18T17:16:18.537Z",
+    "duration_minutes": 169,
+    "duration_str": "2h 49m"
   },
   {
     "title": "culture:::«Tout pour la lumière» sur Netflix, comme «HPI» et «Koh-Lanta»: la curieuse alliance de TF1 et du géant américain",
-    "added_at": "2025-06-18T14:27:16.263Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-06-18T14:27:01.278Z",
+    "removed_at": "2025-06-18T17:34:08.510Z",
+    "duration_minutes": 187,
+    "duration_str": "3h 7m"
   },
   {
     "title": "suisse:::Dans le Jura, la gauche dénonce «une parodie de transparence»",
@@ -189,19 +192,20 @@
   {
     "title": "suisse:::A Fribourg, des prérogatives sont octroyées à la communauté alévie",
     "added_at": "2025-06-18T14:41:11.591Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-18T17:30:07.140Z",
+    "duration_minutes": 169,
+    "duration_str": "2h 49m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’armée israélienne affirme avoir frappé la sécurité intérieure iranienne",
     "added_at": "2025-06-18T14:43:07.210Z",
-    "removed_at": "2025-06-18T16:36:22.599Z",
-    "duration_minutes": 113,
-    "duration_str": "1h 53m"
+    "removed_at": "2025-06-18T16:35:04.022Z",
+    "duration_minutes": 112,
+    "duration_str": "1h 52m"
   },
   {
     "title": "cyber:::Le débat devient brûlant, mais d’Apple à Meta, personne ne veut contrôler l’âge des enfants en ligne",
-    "added_at": "2025-06-18T15:10:56.178Z",
+    "added_at": "2025-06-18T15:10:21.710Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -213,7 +217,7 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump et l'Iran: «Je vais peut-être le faire, peut-être pas»",
-    "added_at": "2025-06-18T16:36:22.599Z",
+    "added_at": "2025-06-18T16:35:04.022Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -232,6 +236,30 @@
   {
     "title": "economie:::Qui sont les «EMILLI», les millionnaires du quotidien qui ne se sentent pas riches",
     "added_at": "2025-06-18T16:58:17.231Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::Changement à la présidence de Nestlé: Pablo Isla va succéder l’an prochain à Paul Bulcke",
+    "added_at": "2025-06-18T17:16:18.537Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Une députée demande que le Canton de Vaud rembourse les impôts prélevés illégalement",
+    "added_at": "2025-06-18T17:30:07.140Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::A Genève, une affaire de viol avec pour décor un palace et la fin mouvementée de Credit Suisse",
+    "added_at": "2025-06-18T17:34:08.510Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Le Conseil des Etats ne veut pas que la Suisse courtise les chercheurs américains",
+    "added_at": "2025-06-18T17:47:59.667Z",
     "duration_minutes": 0,
     "duration_str": ""
   }

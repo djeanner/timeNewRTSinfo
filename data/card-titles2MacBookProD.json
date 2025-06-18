@@ -14388,7 +14388,10 @@
   },
   {
     "title": "economie:::Est-ce que la BNS introduira des taux négatifs ce jeudi?",
-    "added_at": "2025-06-18T04:32:10.776Z"
+    "added_at": "2025-06-18T04:32:10.776Z",
+    "removed_at": "2025-06-18T17:47:59.667Z",
+    "duration_minutes": 795,
+    "duration_str": "13h 15m"
   },
   {
     "title": "monde:::En direct, Guerre en Ukraine – Au G7, un soutien a minima pour l’Ukraine",
@@ -14513,11 +14516,17 @@
   },
   {
     "title": "economie:::Après la panne géante en Espagne, le gestionnaire du réseau et les opérateurs s’accusent mutuellement",
-    "added_at": "2025-06-18T14:27:16.263Z"
+    "added_at": "2025-06-18T14:27:16.263Z",
+    "removed_at": "2025-06-18T17:16:18.537Z",
+    "duration_minutes": 169,
+    "duration_str": "2h 49m"
   },
   {
     "title": "culture:::«Tout pour la lumière» sur Netflix, comme «HPI» et «Koh-Lanta»: la curieuse alliance de TF1 et du géant américain",
-    "added_at": "2025-06-18T14:27:16.263Z"
+    "added_at": "2025-06-18T14:27:16.263Z",
+    "removed_at": "2025-06-18T17:34:08.510Z",
+    "duration_minutes": 186,
+    "duration_str": "3h 6m"
   },
   {
     "title": "suisse:::Dans le Jura, la gauche dénonce «une parodie de transparence»",
@@ -14525,7 +14534,10 @@
   },
   {
     "title": "suisse:::A Fribourg, des prérogatives sont octroyées à la communauté alévie",
-    "added_at": "2025-06-18T14:41:11.591Z"
+    "added_at": "2025-06-18T14:41:11.591Z",
+    "removed_at": "2025-06-18T17:30:07.140Z",
+    "duration_minutes": 168,
+    "duration_str": "2h 48m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’armée israélienne affirme avoir frappé la sécurité intérieure iranienne",
@@ -14557,5 +14569,21 @@
   {
     "title": "economie:::Qui sont les «EMILLI», les millionnaires du quotidien qui ne se sentent pas riches",
     "added_at": "2025-06-18T16:58:17.231Z"
+  },
+  {
+    "title": "economie:::Changement à la présidence de Nestlé: Pablo Isla va succéder l’an prochain à Paul Bulcke",
+    "added_at": "2025-06-18T17:16:18.537Z"
+  },
+  {
+    "title": "suisse:::Une députée demande que le Canton de Vaud rembourse les impôts prélevés illégalement",
+    "added_at": "2025-06-18T17:30:07.140Z"
+  },
+  {
+    "title": "suisse:::A Genève, une affaire de viol avec pour décor un palace et la fin mouvementée de Credit Suisse",
+    "added_at": "2025-06-18T17:34:08.510Z"
+  },
+  {
+    "title": "suisse:::Le Conseil des Etats ne veut pas que la Suisse courtise les chercheurs américains",
+    "added_at": "2025-06-18T17:47:59.667Z"
   }
 ]
