@@ -36,3 +36,9 @@ export COMPUTER_ID=$(scutil --get ComputerName)
 caffeinate -dimsu ./run-loop.zsh &
 kill % 
 ```
+
+May need it not updating correctly
+```zsh
+git config --global http.postBuffer 
+```
+:wq
