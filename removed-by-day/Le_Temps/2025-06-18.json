@@ -80,8 +80,9 @@
   {
     "title": "sport:::A Miami, Boca Juniors en terrain conquis mais en terre inconnue",
     "added_at": "2025-06-18T07:57:17.986Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-18T11:27:59.659Z",
+    "duration_minutes": 211,
+    "duration_str": "3h 31m"
   },
   {
     "title": "suisse:::Stéphane Theimer, le vice-directeur de Fedpol, démissionne",
@@ -112,6 +113,12 @@
   {
     "title": "suisse:::A Genève, l’Union populaire se lance dans la course au Conseil d’État avec Rémy Pagani",
     "added_at": "2025-06-18T10:22:25.154Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "culture:::A Genève après Lausanne, la folle cavale des comédiens de la Manufacture, au nom de Bernard-Marie Koltès",
+    "added_at": "2025-06-18T11:27:59.659Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
