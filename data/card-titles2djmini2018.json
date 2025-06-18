@@ -12488,11 +12488,17 @@
   },
   {
     "title": "suisse:::La Suisse évacue une partie de son personnel de l’ambassade de Téhéran",
-    "added_at": "2025-06-18T11:55:07.262Z"
+    "added_at": "2025-06-18T11:55:07.262Z",
+    "removed_at": "2025-06-18T20:13:36.769Z",
+    "duration_minutes": 498,
+    "duration_str": "8h 18m"
   },
   {
     "title": "monde:::Fuir pour vivre: Téhéran en proie à l’exode",
-    "added_at": "2025-06-18T11:55:07.262Z"
+    "added_at": "2025-06-18T11:55:07.262Z",
+    "removed_at": "2025-06-18T20:13:36.769Z",
+    "duration_minutes": 498,
+    "duration_str": "8h 18m"
   },
   {
     "title": "monde:::Comment Israël importe des chiens pour son armée depuis l’Europe et pourquoi ces données sont difficiles à obtenir",
@@ -12580,10 +12586,7 @@
   },
   {
     "title": "monde:::L’ambassadeur iranien à Genève: «Si Trump attaque Téhéran, nous agirons de la même façon que contre Israël»",
-    "added_at": "2025-06-18T16:03:01.794Z",
-    "removed_at": "2025-06-18T18:45:06.942Z",
-    "duration_minutes": 162,
-    "duration_str": "2h 42m"
+    "added_at": "2025-06-18T16:03:01.794Z"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump et l'Iran: «Je vais peut-être le faire, peut-être pas»",
@@ -12595,10 +12598,7 @@
   },
   {
     "title": "monde:::Ali Khamenei, un guide suprême dans l’œil du cyclone",
-    "added_at": "2025-06-18T16:50:13.532Z",
-    "removed_at": "2025-06-18T18:45:06.942Z",
-    "duration_minutes": 114,
-    "duration_str": "1h 54m"
+    "added_at": "2025-06-18T16:50:13.532Z"
   },
   {
     "title": "economie:::Qui sont les «EMILLI», les millionnaires du quotidien qui ne se sentent pas riches",
@@ -12606,7 +12606,10 @@
   },
   {
     "title": "economie:::Changement à la présidence de Nestlé: Pablo Isla va succéder l’an prochain à Paul Bulcke",
-    "added_at": "2025-06-18T17:16:34.974Z"
+    "added_at": "2025-06-18T17:16:34.974Z",
+    "removed_at": "2025-06-18T20:11:43.254Z",
+    "duration_minutes": 175,
+    "duration_str": "2h 55m"
   },
   {
     "title": "suisse:::Une députée demande que le Canton de Vaud rembourse les impôts prélevés illégalement",
@@ -12633,7 +12636,10 @@
   },
   {
     "title": "sciences:::En graphiques – Près de 6000 exoplanètes découvertes en trente ans et toujours pas de jumelle de la Terre.",
-    "added_at": "2025-06-18T18:45:06.942Z"
+    "added_at": "2025-06-18T18:45:06.942Z",
+    "removed_at": "2025-06-18T20:17:21.715Z",
+    "duration_minutes": 92,
+    "duration_str": "1h 32m"
   },
   {
     "title": "sciences:::Découverte d’une famille rare de six exoplanètes en résonance orbitale",
@@ -12642,5 +12648,13 @@
   {
     "title": "sciences:::Chasser les exoplanètes pour mieux comprendre d’où on vient, et chérir où on vit",
     "added_at": "2025-06-18T18:46:56.746Z"
+  },
+  {
+    "title": "sciences:::En graphiques – Près de 6000 exoplanètes découvertes en trente ans et toujours pas de jumelle de la Terre",
+    "added_at": "2025-06-18T20:17:21.715Z"
+  },
+  {
+    "title": "monde:::Après son départ précipité du G7, Donald Trump va-t-il engager l’Amérique dans la guerre entre Israël et l’Iran?",
+    "added_at": "2025-06-18T20:19:15.426Z"
   }
 ]
