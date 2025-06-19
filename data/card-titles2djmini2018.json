@@ -6448,10 +6448,7 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:00:57.917Z",
-    "removed_at": "2025-06-18T11:55:07.262Z",
-    "duration_minutes": 38514,
-    "duration_str": "26d 17h 54m"
+    "added_at": "2025-05-22T18:00:57.917Z"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -12629,7 +12626,10 @@
   },
   {
     "title": "economie:::Qui sont les «EMILLI», les millionnaires du quotidien qui ne se sentent pas riches",
-    "added_at": "2025-06-18T16:59:38.456Z"
+    "added_at": "2025-06-18T16:59:38.456Z",
+    "removed_at": "2025-06-19T19:58:59.085Z",
+    "duration_minutes": 1619,
+    "duration_str": "1d 2h 59m"
   },
   {
     "title": "economie:::Changement à la présidence de Nestlé: Pablo Isla va succéder l’an prochain à Paul Bulcke",
@@ -12647,7 +12647,10 @@
   },
   {
     "title": "suisse:::A Genève, une affaire de viol avec pour décor un palace et la fin mouvementée de Credit Suisse",
-    "added_at": "2025-06-18T17:35:24.890Z"
+    "added_at": "2025-06-18T17:35:24.890Z",
+    "removed_at": "2025-06-19T18:45:37.887Z",
+    "duration_minutes": 1510,
+    "duration_str": "1d 1h 10m"
   },
   {
     "title": "suisse:::Le Conseil des Etats ne veut pas que la Suisse courtise les chercheurs américains",
@@ -12806,7 +12809,10 @@
   },
   {
     "title": "culture:::Art Basel, c’est «une part de la réalité de l’art»",
-    "added_at": "2025-06-19T06:55:31.146Z"
+    "added_at": "2025-06-19T06:55:31.146Z",
+    "removed_at": "2025-06-19T18:45:37.887Z",
+    "duration_minutes": 710,
+    "duration_str": "11h 50m"
   },
   {
     "title": "economie:::La BNS a coupé son taux directeur à 0%",
@@ -12950,5 +12956,13 @@
   {
     "title": "economie:::Discret «chef d’orchestre» de Zara, Pablo Isla va présider à la destinée de Nestlé",
     "added_at": "2025-06-19T18:11:36.323Z"
+  },
+  {
+    "title": "suisse:::Le Conseil national refuse d’accueillir davantage de demandeurs d’asile, contrairement aux Européens",
+    "added_at": "2025-06-19T18:45:37.887Z"
+  },
+  {
+    "title": "suisse:::Le centre fédéral pour requérants d’asile du Grand-Saconnex s’ouvre (enfin) aux médias",
+    "added_at": "2025-06-19T18:45:37.887Z"
   }
 ]
