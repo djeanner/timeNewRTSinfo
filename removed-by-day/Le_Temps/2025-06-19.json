@@ -101,8 +101,9 @@
   {
     "title": "suisse:::Marion Paradas, facilitatrice franco-suisse",
     "added_at": "2025-06-19T09:50:38.850Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-19T13:40:18.099Z",
+    "duration_minutes": 230,
+    "duration_str": "3h 50m"
   },
   {
     "title": "economie:::La sape douanière de Washington pousse l’Allemagne en premier partenaire commercial de la Suisse en mai",
@@ -120,14 +121,16 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Moscou «met en garde» Washington contre toute «intervention militaire» en Iran",
     "added_at": "2025-06-19T11:36:43.534Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-19T14:19:59.189Z",
+    "duration_minutes": 163,
+    "duration_str": "2h 43m"
   },
   {
     "title": "suisse:::Soupçons de fraude: la justice genevoise annule l’élection du Conseil municipal de Vernier",
     "added_at": "2025-06-19T12:04:43.463Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-19T13:38:16.000Z",
+    "duration_minutes": 94,
+    "duration_str": "1h 34m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L’Ukraine et la Russie annoncent avoir effectué un nouvel échange de prisonniers",
@@ -150,6 +153,24 @@
   {
     "title": "culture:::La cuvée 2025 du NIFFF est notamment marquée par la vigueur du fantastique japonais",
     "added_at": "2025-06-19T13:30:11.646Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Tremblement de terre à Genève: le scrutin municipal de Vernier est annulé pour fraude électorale",
+    "added_at": "2025-06-19T13:38:16.000Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "sport:::Une stèle en l’honneur de Gino Mäder a été installée sur les lieux de sa chute mortelle",
+    "added_at": "2025-06-19T13:40:18.099Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient –  Un missile iranien est tombé près de l'ambassadeur suisse en Israël",
+    "added_at": "2025-06-19T14:22:00.849Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
