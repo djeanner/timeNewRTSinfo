@@ -11537,10 +11537,7 @@
   },
   {
     "title": "suisse:::A Vernier, cette main invisible qui aurait rempli 80 bulletins de vote",
-    "added_at": "2025-06-05T16:05:01.600Z",
-    "removed_at": "2025-06-06T13:04:16.957Z",
-    "duration_minutes": 1259,
-    "duration_str": "20h 59m"
+    "added_at": "2025-06-05T16:05:01.600Z"
   },
   {
     "title": "suisse:::Vaud tente de réagir face à la pénurie de logements: «Nous observons un phénomène de saturation»",
@@ -13831,7 +13828,10 @@
   },
   {
     "title": "economie:::Les tarifs douaniers pèsent sur la conjoncture suisse, mais reste à savoir dans quelle ampleur",
-    "added_at": "2025-06-16T10:47:14.309Z"
+    "added_at": "2025-06-16T10:47:14.309Z",
+    "removed_at": "2025-06-19T16:11:48.365Z",
+    "duration_minutes": 4644,
+    "duration_str": "3d 5h 24m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’Iran accuse Israël d’avoir visé un hôpital et dénonce un «crime de guerre»",
@@ -14775,7 +14775,10 @@
   },
   {
     "title": "economie:::La BNS a coupé son taux directeur à 0%",
-    "added_at": "2025-06-19T07:51:51.096Z"
+    "added_at": "2025-06-19T07:51:51.096Z",
+    "removed_at": "2025-06-19T16:11:48.365Z",
+    "duration_minutes": 499,
+    "duration_str": "8h 19m"
   },
   {
     "title": "suisse:::Marion Paradas, facilitatrice franco-suisse",
@@ -14831,10 +14834,25 @@
   },
   {
     "title": "sport:::Une stèle en l’honneur de Gino Mäder a été installée sur les lieux de sa chute mortelle",
-    "added_at": "2025-06-19T13:40:18.099Z"
+    "added_at": "2025-06-19T13:40:18.099Z",
+    "removed_at": "2025-06-19T16:07:49.194Z",
+    "duration_minutes": 147,
+    "duration_str": "2h 27m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient –  Un missile iranien est tombé près de l'ambassadeur suisse en Israël",
     "added_at": "2025-06-19T14:22:00.849Z"
+  },
+  {
+    "title": "suisse:::A Berne, le PLR et le Centre prennent le relais pour défendre les assouplissements de la fiscalité agricole vaudoise",
+    "added_at": "2025-06-19T16:07:49.194Z"
+  },
+  {
+    "title": "suisse:::L’abolition de la peine fiscale du mariage menacée par un coup de poker",
+    "added_at": "2025-06-19T16:11:48.365Z"
+  },
+  {
+    "title": "suisse:::A Vernier, l’étau judiciaire se resserre autour du score canon du parti de Pierre Maudet aux élections municipales",
+    "added_at": "2025-06-19T16:11:48.365Z"
   }
 ]

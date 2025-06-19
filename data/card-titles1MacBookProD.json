@@ -20365,7 +20365,10 @@
   },
   {
     "title": "Le journal 20 minutes abandonne son édition papier à la fin de l'année, 80 postes menacés",
-    "added_at": "2025-06-17T07:51:58.152Z"
+    "added_at": "2025-06-17T07:51:58.152Z",
+    "removed_at": "2025-06-19T15:45:44.757Z",
+    "duration_minutes": 3353,
+    "duration_str": "2d 7h 53m"
   },
   {
     "title": "\"L'une des pires attaques\" russes sur Kiev fait au moins 14 morts, dénonce Volodymyr Zelensky",
@@ -20650,7 +20653,10 @@
   },
   {
     "title": "L'invitée de La Matinale - Maya Kandel, historienne et autrice du livre \"Une première histoire du trumpisme\"",
-    "added_at": "2025-06-17T17:22:08.163Z"
+    "added_at": "2025-06-17T17:22:08.163Z",
+    "removed_at": "2025-06-19T15:27:49.456Z",
+    "duration_minutes": 2765,
+    "duration_str": "1d 22h 5m"
   },
   {
     "title": "Surtensions et erreurs humaines à l'origine de la méga-panne en Espagne et au Portugal",
@@ -21012,7 +21018,10 @@
   },
   {
     "title": "L'Iran accuse l'AIEA d'être un \"partenaire\" de la \"guerre d'agression\" d'Israël",
-    "added_at": "2025-06-19T10:13:11.752Z"
+    "added_at": "2025-06-19T10:13:11.752Z",
+    "removed_at": "2025-06-19T15:33:47.024Z",
+    "duration_minutes": 320,
+    "duration_str": "5h 20m"
   },
   {
     "title": "Pierre Dessemontet: \"Quand on est confronté à un barrage systématique d'oppositions, ça fatigue\"",
@@ -21072,5 +21081,17 @@
   {
     "title": "L'alliance pour l'identité électronique fédérale lance sa campagne en vue de la votation",
     "added_at": "2025-06-19T15:01:48.845Z"
+  },
+  {
+    "title": "La situation en Iran inquiète la diaspora en Suisse",
+    "added_at": "2025-06-19T15:27:49.456Z"
+  },
+  {
+    "title": "Le CICR et l'OMS dénoncent les attaques contre les services de santé",
+    "added_at": "2025-06-19T15:29:45.481Z"
+  },
+  {
+    "title": "Nouvelle journée sanglante à Gaza avec 76 morts dans des tirs israéliens, selon la Défense civile",
+    "added_at": "2025-06-19T15:45:44.757Z"
   }
 ]
