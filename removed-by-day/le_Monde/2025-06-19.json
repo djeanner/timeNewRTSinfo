@@ -99,8 +99,9 @@
   {
     "title": "Limiter le réchauffement climatique à 1,5 °C est désormais impossible",
     "added_at": "2025-06-19T05:24:40.769Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-19T23:28:10.274Z",
+    "duration_minutes": 1083,
+    "duration_str": "18h 3m"
   },
   {
     "title": "Plus de 4 000 forces de l’ordre mobilisées mercredi et jeudi pour mener des contrôles dans les gares et les bus à la recherche de « clandestins », annonce Bruno Retailleau",
@@ -243,9 +244,9 @@
   {
     "title": "Au festival Montpellier-Danse, Crystal Pite et Simon McBurney brossent une impressionnante fresque sur le cycle du vivant",
     "added_at": "2025-06-19T06:44:06.713Z",
-    "removed_at": "2025-06-19T19:37:04.522Z",
-    "duration_minutes": 773,
-    "duration_str": "12h 53m"
+    "removed_at": "2025-06-19T20:44:09.598Z",
+    "duration_minutes": 840,
+    "duration_str": "14h"
   },
   {
     "title": "La peste sait mettre la pédale douce",
@@ -367,9 +368,9 @@
   {
     "title": "Jusqu’où les centrales photovoltaïques posées sur des lacs modifient leur écosystème",
     "added_at": "2025-06-19T08:20:16.216Z",
-    "removed_at": "2025-06-19T19:35:04.685Z",
-    "duration_minutes": 675,
-    "duration_str": "11h 15m"
+    "removed_at": "2025-06-19T19:36:24.940Z",
+    "duration_minutes": 676,
+    "duration_str": "11h 16m"
   },
   {
     "title": "Pernod Ricard lance une restructuration, avec suppressions de postes, face à la crise des ventes d’alcool",
@@ -499,9 +500,8 @@
   {
     "title": "Nouvel échec pour SpaceX après l’explosion d’une mégafusée Starship au Texas",
     "added_at": "2025-06-19T09:18:41.834Z",
-    "removed_at": "2025-06-19T10:50:54.557Z",
-    "duration_minutes": 92,
-    "duration_str": "1h 32m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Envie de salades ? A Paris, cinq adresses où trouver le haut du panier",
@@ -540,9 +540,9 @@
   {
     "title": "La Batsheva Dance Company contrainte d’annuler sa venue à Montpellier",
     "added_at": "2025-06-19T09:41:14.896Z",
-    "removed_at": "2025-06-19T19:45:04.250Z",
-    "duration_minutes": 604,
-    "duration_str": "10h 4m"
+    "removed_at": "2025-06-19T20:44:09.598Z",
+    "duration_minutes": 663,
+    "duration_str": "11h 3m"
   },
   {
     "title": "Envie de salades ? Nos cinq adresses à Paris",
@@ -1187,6 +1187,34 @@
     "removed_at": "2025-06-19T20:44:09.598Z",
     "duration_minutes": 2,
     "duration_str": "2m"
+  },
+  {
+    "title": "Au Niger, 34 soldats tués dans une attaque contre la ville de Banibangou, près de la frontière malienne",
+    "added_at": "2025-06-19T22:42:27.374Z",
+    "removed_at": "2025-06-19T23:26:14.427Z",
+    "duration_minutes": 44,
+    "duration_str": "44m"
+  },
+  {
+    "title": "Le Niger nationalise la filiale du géant français de l’uranium Orano, un nouvel acte marquant la rupture du régime avec Paris",
+    "added_at": "2025-06-19T22:42:27.374Z",
+    "removed_at": "2025-06-19T23:26:14.427Z",
+    "duration_minutes": 44,
+    "duration_str": "44m"
+  },
+  {
+    "title": "En Suisse, la foire Art Basel résiste à la crise",
+    "added_at": "2025-06-19T22:44:29.490Z",
+    "removed_at": "2025-06-19T23:26:14.427Z",
+    "duration_minutes": 42,
+    "duration_str": "42m"
+  },
+  {
+    "title": "« Le Patriarche, le gourou des drogués », Canal+ Docs : enquête sur les dérives sectaires de la « multinationale de la désintox »",
+    "added_at": "2025-06-19T22:46:25.555Z",
+    "removed_at": "2025-06-19T23:16:13.924Z",
+    "duration_minutes": 30,
+    "duration_str": "30m"
   },
   {
     "title": "Conflit Israël-Iran : Soutenant Téhéran a minima, Poutine veut jouer un rôle de médiation",
