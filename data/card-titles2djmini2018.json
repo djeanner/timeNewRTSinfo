@@ -12125,7 +12125,10 @@
   },
   {
     "title": "suisse:::Le DFAE vérifie «l'authenticité» de la lettre sur Gaza envoyée à Ignazio Cassis par ses collaborateurs",
-    "added_at": "2025-06-13T17:51:29.313Z"
+    "added_at": "2025-06-13T17:51:29.313Z",
+    "removed_at": "2025-06-19T05:04:29.367Z",
+    "duration_minutes": 7873,
+    "duration_str": "5d 11h 13m"
   },
   {
     "title": "monde:::En Egypte, la Marche globale vers Gaza, stoppée aux portes d’Ismaïlia, ne renonce pas",
@@ -12640,10 +12643,7 @@
   },
   {
     "title": "sport:::Double champion de NHL, Miami climatise le hockey sur glace",
-    "added_at": "2025-06-18T18:07:26.101Z",
-    "removed_at": "2025-06-19T04:17:21.131Z",
-    "duration_minutes": 609,
-    "duration_str": "10h 9m"
+    "added_at": "2025-06-18T18:07:26.101Z"
   },
   {
     "title": "economie:::La Fed laisse ses taux inchangés et revoit à la baisse ses prévisions pour l’économie américaine",
@@ -12706,6 +12706,43 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Genève sera le théâtre de négociations sur le nucléaire iranien vendredi",
-    "added_at": "2025-06-19T04:11:42.735Z"
+    "added_at": "2025-06-19T04:11:42.735Z",
+    "removed_at": "2025-06-19T04:32:34.501Z",
+    "duration_minutes": 20,
+    "duration_str": "20m"
+  },
+  {
+    "title": "monde:::Donald Trump doit-il intervenir? La guerre en Iran plonge le mouvement MAGA dans une crise identitaire",
+    "added_at": "2025-06-19T04:28:45.619Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – De violentes explosions entendues à Tel-Aviv et Jérusalem",
+    "added_at": "2025-06-19T04:32:34.501Z",
+    "removed_at": "2025-06-19T04:51:18.531Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Un hôpital du sud d’Israël touché par une frappe iranienne, «plusieurs impacts» signalés dans le pays",
+    "added_at": "2025-06-19T04:51:18.531Z"
+  },
+  {
+    "title": "monde:::EXCLUSIF - Des soldats iraniens face à la guerre: «Ce combat entre les mollahs et Israël n’est pas le mien»",
+    "added_at": "2025-06-19T05:04:29.367Z",
+    "removed_at": "2025-06-19T05:15:46.386Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "monde:::Exclusif – Des soldats iraniens face à la guerre: «Ce combat entre les mollahs et Israël n’est pas le mien»",
+    "added_at": "2025-06-19T05:15:46.386Z"
+  },
+  {
+    "title": "suisse:::Michael Schöll: «L’identité électronique offre une bonne manière de se simplifier la vie en toute sécurité»",
+    "added_at": "2025-06-19T05:51:32.007Z"
+  },
+  {
+    "title": "economie:::Pourquoi la ménopause reste taboue au travail et comment y remédier",
+    "added_at": "2025-06-19T06:14:05.296Z"
   }
 ]
