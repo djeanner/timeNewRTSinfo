@@ -12513,7 +12513,10 @@
   },
   {
     "title": "monde:::En direct, Guerre en Ukraine – Au G7, un soutien a minima pour l’Ukraine",
-    "added_at": "2025-06-18T11:55:07.262Z"
+    "added_at": "2025-06-18T11:55:07.262Z",
+    "removed_at": "2025-06-19T02:22:42.842Z",
+    "duration_minutes": 867,
+    "duration_str": "14h 27m"
   },
   {
     "title": "monde:::«Nous sommes des citoyens de seconde zone»: en Lettonie, la vie tourmentée des russophones",
@@ -12585,7 +12588,10 @@
   },
   {
     "title": "cyber:::Le débat devient brûlant, mais d’Apple à Meta, personne ne veut contrôler l’âge des enfants en ligne",
-    "added_at": "2025-06-18T15:10:21.710Z"
+    "added_at": "2025-06-18T15:10:21.710Z",
+    "removed_at": "2025-06-19T04:13:36.296Z",
+    "duration_minutes": 783,
+    "duration_str": "13h 3m"
   },
   {
     "title": "monde:::L’ambassadeur iranien à Genève: «Si Trump attaque Téhéran, nous agirons de la même façon que contre Israël»",
@@ -12634,11 +12640,17 @@
   },
   {
     "title": "sport:::Double champion de NHL, Miami climatise le hockey sur glace",
-    "added_at": "2025-06-18T18:07:26.101Z"
+    "added_at": "2025-06-18T18:07:26.101Z",
+    "removed_at": "2025-06-19T04:17:21.131Z",
+    "duration_minutes": 609,
+    "duration_str": "10h 9m"
   },
   {
     "title": "economie:::La Fed laisse ses taux inchangés et revoit à la baisse ses prévisions pour l’économie américaine",
-    "added_at": "2025-06-18T18:41:17.636Z"
+    "added_at": "2025-06-18T18:41:17.636Z",
+    "removed_at": "2025-06-19T04:07:57.293Z",
+    "duration_minutes": 566,
+    "duration_str": "9h 26m"
   },
   {
     "title": "sciences:::En graphiques – Près de 6000 exoplanètes découvertes en trente ans et toujours pas de jumelle de la Terre.",
@@ -12668,10 +12680,32 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Genève sera le théâtre de négociations sur le nucléaire iranien vendredi, révèle Reuters",
-    "added_at": "2025-06-18T21:34:41.841Z"
+    "added_at": "2025-06-18T21:34:41.841Z",
+    "removed_at": "2025-06-19T04:11:42.735Z",
+    "duration_minutes": 397,
+    "duration_str": "6h 37m"
   },
   {
     "title": "culture:::Dans «Brève histoire de la Création et de l’est du Caire» de Shady Lewis, un petit garçon tente de survivre à la violence des adultes",
     "added_at": "2025-06-18T22:17:55.403Z"
+  },
+  {
+    "title": "monde:::En direct, Guerre en Ukraine – Vladimir Poutine affirme que le réarmement de l'OTAN n'est pas une «menace»",
+    "added_at": "2025-06-19T02:22:42.842Z",
+    "removed_at": "2025-06-19T04:09:52.862Z",
+    "duration_minutes": 107,
+    "duration_str": "1h 47m"
+  },
+  {
+    "title": "economie:::Donald Trump maintient la pharma dans l’incertitude",
+    "added_at": "2025-06-19T04:07:57.293Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Vladimir Poutine affirme que le réarmement de l'OTAN n'est pas une «menace»",
+    "added_at": "2025-06-19T04:09:52.862Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Genève sera le théâtre de négociations sur le nucléaire iranien vendredi",
+    "added_at": "2025-06-19T04:11:42.735Z"
   }
 ]
