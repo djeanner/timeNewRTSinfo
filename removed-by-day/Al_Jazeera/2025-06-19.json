@@ -213,8 +213,9 @@
   {
     "title": "LIVE: Inter Miami vs Porto – FIFA Club World Cup",
     "added_at": "2025-06-19T17:23:38.009Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-19T21:08:48.394Z",
+    "duration_minutes": 225,
+    "duration_str": "3h 45m"
   },
   {
     "title": "Club World Cup: Bayern Munich prepares for epic clash against Boca Juniors",
@@ -255,6 +256,12 @@
   {
     "title": "Israeli attacks kill at least 92 people including aid seekers in Gaza",
     "added_at": "2025-06-19T20:36:51.124Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "LIVE: Inter Miami beat Porto 2-1 – FIFA Club World Cup",
+    "added_at": "2025-06-19T21:08:48.394Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
