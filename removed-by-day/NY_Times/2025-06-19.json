@@ -8,8 +8,9 @@
   {
     "title": "Hurricane Erick Nears Mexico’s Southern Coast as Category 3 Storm",
     "added_at": "2025-06-19T00:02:08.454Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-19T07:22:05.103Z",
+    "duration_minutes": 440,
+    "duration_str": "7h 20m"
   },
   {
     "title": "The Reagan-Appointed Judge Fast-Tracking President Trump to Trial",
@@ -61,14 +62,27 @@
   },
   {
     "title": "Israel Says Iranian Missile Strikes a Major Hospital",
-    "added_at": "2025-06-19T05:40:37.686Z",
-    "removed_at": "2025-06-19T05:56:29.521Z",
-    "duration_minutes": 16,
-    "duration_str": "16m"
+    "added_at": "2025-06-19T05:40:14.220Z",
+    "removed_at": "2025-06-19T05:55:15.247Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
   },
   {
     "title": "Israel Says Iranian Missile Strikes Major Hospital",
-    "added_at": "2025-06-19T05:56:29.521Z",
+    "added_at": "2025-06-19T05:55:15.247Z",
+    "removed_at": "2025-06-19T08:13:40.045Z",
+    "duration_minutes": 138,
+    "duration_str": "2h 18m"
+  },
+  {
+    "title": "Hurricane Erick Expected to Make Landfall in Mexico as a Category 4 Storm",
+    "added_at": "2025-06-19T07:22:05.103Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Israel Vows to Intensify Attacks After Iranian Missile Strikes Hospital",
+    "added_at": "2025-06-19T08:13:40.045Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
