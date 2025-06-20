@@ -20786,7 +20786,10 @@
   },
   {
     "title": "Des marques de lunettes de soleil épinglées pour leur faible qualité",
-    "added_at": "2025-06-18T04:28:16.042Z"
+    "added_at": "2025-06-18T04:28:16.042Z",
+    "removed_at": "2025-06-20T12:23:51.120Z",
+    "duration_minutes": 3355,
+    "duration_str": "2d 7h 55m"
   },
   {
     "title": "Donald Trump a réuni son Conseil de sécurité nationale, la pression monte sur Téhéran",
@@ -20997,14 +21000,14 @@
   },
   {
     "title": "Après les frappes israéliennes sur Téhéran, l'Iran continue de traquer les espions infiltrés",
-    "added_at": "2025-06-18T23:24:23.636Z",
-    "removed_at": "2025-06-19T16:27:55.005Z",
-    "duration_minutes": 1023,
-    "duration_str": "17h 3m"
+    "added_at": "2025-06-18T23:24:23.636Z"
   },
   {
     "title": "Des parents suisses veulent empêcher l'accès au smartphone avant l'âge de 14 ans",
-    "added_at": "2025-06-19T01:23:42.933Z"
+    "added_at": "2025-06-19T01:23:42.933Z",
+    "removed_at": "2025-06-20T12:27:47.621Z",
+    "duration_minutes": 2104,
+    "duration_str": "1d 11h 4m"
   },
   {
     "title": "Vladimir Poutine \"prêt\" à une rencontre avec Volodymyr Zelensky à la fin des négociations",
@@ -21303,5 +21306,9 @@
   {
     "title": "Lancement de la campagne du 28 septembre sur la loi sur l'identité électronique",
     "added_at": "2025-06-20T11:30:00.384Z"
+  },
+  {
+    "title": "Le démantèlement de la centrale de Mühleberg à mi-parcours",
+    "added_at": "2025-06-20T12:23:51.120Z"
   }
 ]
