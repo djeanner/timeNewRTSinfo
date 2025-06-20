@@ -14679,11 +14679,17 @@
   },
   {
     "title": "sciences:::Chasser les exoplanètes pour mieux comprendre d’où on vient, et chérir où on vit",
-    "added_at": "2025-06-18T18:47:44.865Z"
+    "added_at": "2025-06-18T18:47:44.865Z",
+    "removed_at": "2025-06-20T19:08:49.424Z",
+    "duration_minutes": 2901,
+    "duration_str": "2d 21m"
   },
   {
     "title": "sciences:::En graphiques – Près de 6000 exoplanètes découvertes en trente ans et toujours pas de jumelle de la Terre",
-    "added_at": "2025-06-18T20:17:17.766Z"
+    "added_at": "2025-06-18T20:17:17.766Z",
+    "removed_at": "2025-06-20T19:08:49.424Z",
+    "duration_minutes": 2811,
+    "duration_str": "1d 22h 51m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Genève sera le théâtre de négociations sur le nucléaire iranien vendredi, révèle Reuters",
@@ -15030,10 +15036,7 @@
   },
   {
     "title": "monde:::En Cisjordanie, face à la guerre entre Israël et l’Iran: «Nous avons l’habitude de nous préparer au pire»",
-    "added_at": "2025-06-20T07:28:23.520Z",
-    "removed_at": "2025-06-20T13:45:31.471Z",
-    "duration_minutes": 377,
-    "duration_str": "6h 17m"
+    "added_at": "2025-06-20T07:28:23.520Z"
   },
   {
     "title": "sciences:::Une coalition de chercheurs tente d’identifier les migrants décédés en mer",
@@ -15090,7 +15093,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Des frappes de drones russes font un mort et 14 blessés à Odessa",
-    "added_at": "2025-06-20T11:00:00.348Z"
+    "added_at": "2025-06-20T11:00:00.348Z",
+    "removed_at": "2025-06-20T18:25:02.662Z",
+    "duration_minutes": 445,
+    "duration_str": "7h 25m"
   },
   {
     "title": "suisse:::Face aux violences sexuelles à l’abbaye de Saint-Maurice, l’étrange mansuétude du père-abbé Jean Scarcella",
@@ -15187,5 +15193,13 @@
   {
     "title": "sciences:::Didier Queloz: «Sans la générosité de l’Univers, je n’aurais pas reçu le Prix Nobel»",
     "added_at": "2025-06-20T18:12:59.327Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – L’Ukraine accuse Vladimir Poutine de «mépris» envers le processus de paix",
+    "added_at": "2025-06-20T18:25:02.662Z"
+  },
+  {
+    "title": "monde:::Les ministres français, allemand et britannique à Genève: «Nous appelons l’Iran à reprendre la voie de la diplomatie»",
+    "added_at": "2025-06-20T19:08:49.424Z"
   }
 ]
