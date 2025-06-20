@@ -14606,7 +14606,10 @@
   },
   {
     "title": "monde:::Ali Khamenei, un guide suprême dans l’œil du cyclone",
-    "added_at": "2025-06-18T16:50:18.024Z"
+    "added_at": "2025-06-18T16:50:18.024Z",
+    "removed_at": "2025-06-20T10:07:52.910Z",
+    "duration_minutes": 2477,
+    "duration_str": "1d 17h 17m"
   },
   {
     "title": "economie:::Qui sont les «EMILLI», les millionnaires du quotidien qui ne se sentent pas riches",
@@ -14729,7 +14732,10 @@
   },
   {
     "title": "monde:::Donald Trump doit-il intervenir? La guerre en Iran plonge le mouvement MAGA dans une crise identitaire",
-    "added_at": "2025-06-19T04:28:57.239Z"
+    "added_at": "2025-06-19T04:28:57.239Z",
+    "removed_at": "2025-06-20T10:07:52.910Z",
+    "duration_minutes": 1778,
+    "duration_str": "1d 5h 38m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – De violentes explosions entendues à Tel-Aviv et Jérusalem",
@@ -14754,7 +14760,10 @@
   },
   {
     "title": "monde:::Exclusif – Des soldats iraniens face à la guerre: «Ce combat entre les mollahs et Israël n’est pas le mien»",
-    "added_at": "2025-06-19T05:16:40.492Z"
+    "added_at": "2025-06-19T05:16:40.492Z",
+    "removed_at": "2025-06-20T10:07:52.910Z",
+    "duration_minutes": 1731,
+    "duration_str": "1d 4h 51m"
   },
   {
     "title": "suisse:::Michael Schöll: «L’identité électronique offre une bonne manière de se simplifier la vie en toute sécurité»",
@@ -14906,7 +14915,10 @@
   },
   {
     "title": "suisse:::A Berne, le PLR et Le Centre prennent le relais pour défendre les assouplissements de la fiscalité agricole vaudoise",
-    "added_at": "2025-06-19T16:31:50.768Z"
+    "added_at": "2025-06-19T16:31:50.768Z",
+    "removed_at": "2025-06-20T10:03:52.542Z",
+    "duration_minutes": 1052,
+    "duration_str": "17h 32m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Benyamin Netanyahou affirme qu’Israël a détruit «plus de la moitié» des lanceurs de missiles iraniens",
@@ -14980,11 +14992,17 @@
   },
   {
     "title": "monde:::Israël contre l’Iran: une guerre qui ne fait pas les affaires de l’Ukraine",
-    "added_at": "2025-06-20T05:20:55.410Z"
+    "added_at": "2025-06-20T05:20:55.410Z",
+    "removed_at": "2025-06-20T10:03:52.542Z",
+    "duration_minutes": 282,
+    "duration_str": "4h 42m"
   },
   {
     "title": "economie:::Credit Suisse: pas de prison pour le banquier des «tuna bonds»",
-    "added_at": "2025-06-20T05:36:53.215Z"
+    "added_at": "2025-06-20T05:36:53.215Z",
+    "removed_at": "2025-06-20T09:32:00.074Z",
+    "duration_minutes": 235,
+    "duration_str": "3h 55m"
   },
   {
     "title": "culture:::Priscitouf The First en concert à Genève, la lumière par le rap",
@@ -15004,5 +15022,39 @@
   {
     "title": "monde:::En Cisjordanie, face à la guerre entre Israël et l’Iran: «Nous avons l’habitude de nous préparer au pire»",
     "added_at": "2025-06-20T07:28:23.520Z"
+  },
+  {
+    "title": "sciences:::Une coalition de chercheurs tente d’identifier les migrants décédés en mer",
+    "added_at": "2025-06-20T09:28:01.523Z"
+  },
+  {
+    "title": "economie:::Vers l’adoption de normes spécifiques sur le télétravail",
+    "added_at": "2025-06-20T09:32:00.074Z"
+  },
+  {
+    "title": "suisse:::Une panne touche les services de paiement du site et de l’application des CFF",
+    "added_at": "2025-06-20T09:51:53.149Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’Iran écarte toute négociation avec Washington tant que les attaques israéliennes se poursuivent",
+    "added_at": "2025-06-20T10:03:52.542Z"
+  },
+  {
+    "title": "suisse:::Un rapport décrit six décennies de violences sexuelles et de gestion défaillante à l’Abbaye de Saint-Maurice",
+    "added_at": "2025-06-20T10:03:52.542Z",
+    "removed_at": "2025-06-20T10:07:52.910Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "suisse:::Un rapport décrit des décennies de violences sexuelles et de gestion défaillante à l’Abbaye de Saint-Maurice",
+    "added_at": "2025-06-20T10:07:52.910Z",
+    "removed_at": "2025-06-20T10:13:52.877Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "suisse:::Un rapport décrit des décennies de violences sexuelles et de gestion défaillante à l’abbaye de Saint-Maurice",
+    "added_at": "2025-06-20T10:13:52.877Z"
   }
 ]
