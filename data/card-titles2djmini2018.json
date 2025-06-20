@@ -12951,7 +12951,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump dit qu’il décidera d’une intervention en Iran «au cours des deux prochaines semaines»",
-    "added_at": "2025-06-19T18:02:08.404Z"
+    "added_at": "2025-06-19T18:02:08.404Z",
+    "removed_at": "2025-06-20T00:07:39.620Z",
+    "duration_minutes": 365,
+    "duration_str": "6h 5m"
   },
   {
     "title": "economie:::Discret «chef d’orchestre» de Zara, Pablo Isla va présider à la destinée de Nestlé",
@@ -12964,5 +12967,9 @@
   {
     "title": "suisse:::Le centre fédéral pour requérants d’asile du Grand-Saconnex s’ouvre (enfin) aux médias",
     "added_at": "2025-06-19T18:45:37.887Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Londres dit qu’une «fenêtre existe» pour une «solution diplomatique» avec l’Iran",
+    "added_at": "2025-06-20T00:07:39.620Z"
   }
 ]
