@@ -510,8 +510,9 @@
   {
     "title": "Iran’s internet blackout has now lasted 48 hours",
     "added_at": "2025-06-20T15:19:11.597Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-20T17:41:14.058Z",
+    "duration_minutes": 142,
+    "duration_str": "2h 22m"
   },
   {
     "title": "‘Death is sweeter than honey’: Protester in Tehran addresses message to Trump",
@@ -579,6 +580,12 @@
   {
     "title": "Iranian official says Trump could end Iran-Israel conflict with one phone call",
     "added_at": "2025-06-20T17:05:16.845Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Trump’s two-week delay on Iran strike decision leaves Israel in limbo",
+    "added_at": "2025-06-20T17:41:14.058Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
