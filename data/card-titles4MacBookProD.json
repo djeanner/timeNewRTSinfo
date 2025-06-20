@@ -29361,7 +29361,10 @@
   },
   {
     "title": "Alex Zverev reaches second round in Halle after coming to aid of injured spectator",
-    "added_at": "2025-06-19T09:15:26.261Z"
+    "added_at": "2025-06-19T09:15:26.261Z",
+    "removed_at": "2025-06-20T14:39:21.286Z",
+    "duration_minutes": 1763,
+    "duration_str": "1d 5h 23m"
   },
   {
     "title": "Waymo is returning to NYC, but it still needs a change in the law to provide driverless rides",
@@ -29459,7 +29462,10 @@
   },
   {
     "title": "Here’s how Costa Rica became the largest exporter of butterflies in the world",
-    "added_at": "2025-06-19T11:05:01.884Z"
+    "added_at": "2025-06-19T11:05:01.884Z",
+    "removed_at": "2025-06-20T14:03:33.063Z",
+    "duration_minutes": 1618,
+    "duration_str": "1d 2h 58m"
   },
   {
     "title": "CNN goes inside Iranian TV studio destroyed in airstrike",
@@ -29761,7 +29767,10 @@
   },
   {
     "title": "Los Angeles Dodgers and Trump administration at odds over presence of federal agents at Dodger Stadium",
-    "added_at": "2025-06-19T21:06:47.258Z"
+    "added_at": "2025-06-19T21:06:47.258Z",
+    "removed_at": "2025-06-20T14:07:31.108Z",
+    "duration_minutes": 1020,
+    "duration_str": "17h"
   },
   {
     "title": "CNN team hears increase in aerial activity over skies in Tehran, Iran",
@@ -29956,14 +29965,14 @@
   },
   {
     "title": "Milan Fashion Week Men’s begins. Here’s what to expect",
-    "added_at": "2025-06-20T09:02:02.910Z"
+    "added_at": "2025-06-20T09:02:02.910Z",
+    "removed_at": "2025-06-20T14:41:23.555Z",
+    "duration_minutes": 339,
+    "duration_str": "5h 39m"
   },
   {
     "title": "Lionel Messi: The player who’s bigger than the club… and the FIFA Club World Cup tournament?",
-    "added_at": "2025-06-20T09:22:03.373Z",
-    "removed_at": "2025-06-20T13:09:42.855Z",
-    "duration_minutes": 227,
-    "duration_str": "3h 47m"
+    "added_at": "2025-06-20T09:22:03.373Z"
   },
   {
     "title": "‘I still don’t know how I’m standing’: Carlos Alcaraz comes through brutal three-and-a-half-hour epic at Queen’s Club",
@@ -30018,11 +30027,17 @@
   },
   {
     "title": "World’s best restaurant for 2025 revealed",
-    "added_at": "2025-06-20T11:05:59.147Z"
+    "added_at": "2025-06-20T11:05:59.147Z",
+    "removed_at": "2025-06-20T14:03:33.063Z",
+    "duration_minutes": 177,
+    "duration_str": "2h 57m"
   },
   {
     "title": "Did ‘Jaws’ make us fear sharks?",
-    "added_at": "2025-06-20T11:05:59.147Z"
+    "added_at": "2025-06-20T11:05:59.147Z",
+    "removed_at": "2025-06-20T14:41:23.555Z",
+    "duration_minutes": 215,
+    "duration_str": "3h 35m"
   },
   {
     "title": "Telegram founder Pavel Durov says all his 100+ children will receive share of his estate",
@@ -30086,7 +30101,10 @@
   },
   {
     "title": "How delay could impact timeline in Sean ‘Diddy’ Combs trial",
-    "added_at": "2025-06-20T12:53:43.839Z"
+    "added_at": "2025-06-20T12:53:43.839Z",
+    "removed_at": "2025-06-20T14:21:26.885Z",
+    "duration_minutes": 87,
+    "duration_str": "1h 27m"
   },
   {
     "title": "Cybercriminals breach Aflac as part of hacking spree against insurance industry",
@@ -30125,5 +30143,47 @@
   {
     "title": "Senegal women’s basketball team cancels US training camp after some players have visas denied",
     "added_at": "2025-06-20T13:49:29.631Z"
+  },
+  {
+    "title": "Senegal  basketball team cancels US training camp after some players have visas denied",
+    "added_at": "2025-06-20T13:53:38.916Z",
+    "removed_at": "2025-06-20T14:09:31.360Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "Carlos Alcaraz comes through brutal three-and-a-half-hour epic at Queen’s Club",
+    "added_at": "2025-06-20T13:53:38.916Z",
+    "removed_at": "2025-06-20T14:41:23.555Z",
+    "duration_minutes": 47,
+    "duration_str": "47m"
+  },
+  {
+    "title": "World’s best restaurant for 2025 isn’t in New York, Paris or London",
+    "added_at": "2025-06-20T14:03:33.063Z"
+  },
+  {
+    "title": "Here’s how Costa Rica’s butterflies end up around the world",
+    "added_at": "2025-06-20T14:03:33.063Z"
+  },
+  {
+    "title": "Assistant testifies to buying drugs for Combs",
+    "added_at": "2025-06-20T14:21:26.885Z"
+  },
+  {
+    "title": "Dozens in northeast England report symptoms of potentially deadly botulism after getting Botox",
+    "added_at": "2025-06-20T14:41:23.555Z"
+  },
+  {
+    "title": "No Gucci, no Fendi: Which brands are showing at Milan Fashion Week Men’s?",
+    "added_at": "2025-06-20T14:41:23.555Z"
+  },
+  {
+    "title": "‘Jaws’ turns 50. It changed pop culture and our perception of sharks",
+    "added_at": "2025-06-20T14:41:23.555Z"
+  },
+  {
+    "title": "Megan Thee Stallion heats things up on ‘Love Island USA’",
+    "added_at": "2025-06-20T14:41:23.555Z"
   }
 ]
