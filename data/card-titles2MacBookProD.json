@@ -14980,7 +14980,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Nomination d'un nouveau chef des forces terrestres ukrainiennes",
-    "added_at": "2025-06-20T02:33:32.982Z"
+    "added_at": "2025-06-20T02:33:32.982Z",
+    "removed_at": "2025-06-20T11:00:00.348Z",
+    "duration_minutes": 506,
+    "duration_str": "8h 26m"
   },
   {
     "title": "cyber:::New York, Austin et même Zurich: un peu partout, les robots-taxis étendent leur territoire",
@@ -14992,10 +14995,7 @@
   },
   {
     "title": "monde:::Israël contre l’Iran: une guerre qui ne fait pas les affaires de l’Ukraine",
-    "added_at": "2025-06-20T05:20:55.410Z",
-    "removed_at": "2025-06-20T10:03:52.542Z",
-    "duration_minutes": 282,
-    "duration_str": "4h 42m"
+    "added_at": "2025-06-20T05:20:55.410Z"
   },
   {
     "title": "economie:::Credit Suisse: pas de prison pour le banquier des «tuna bonds»",
@@ -15033,7 +15033,10 @@
   },
   {
     "title": "suisse:::Une panne touche les services de paiement du site et de l’application des CFF",
-    "added_at": "2025-06-20T09:51:53.149Z"
+    "added_at": "2025-06-20T09:51:53.149Z",
+    "removed_at": "2025-06-20T10:54:02.015Z",
+    "duration_minutes": 62,
+    "duration_str": "1h 2m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’Iran écarte toute négociation avec Washington tant que les attaques israéliennes se poursuivent",
@@ -15056,5 +15059,17 @@
   {
     "title": "suisse:::Un rapport décrit des décennies de violences sexuelles et de gestion défaillante à l’abbaye de Saint-Maurice",
     "added_at": "2025-06-20T10:13:52.877Z"
+  },
+  {
+    "title": "suisse:::Alerte rouge au village grison de Brienz, où un nouvel éboulement menace",
+    "added_at": "2025-06-20T10:54:02.015Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Des frappes de drones russes font un mort et 14 blessés à Odessa",
+    "added_at": "2025-06-20T11:00:00.348Z"
+  },
+  {
+    "title": "suisse:::Face aux violences sexuelles à l’abbaye de Saint-Maurice, l’étrange mansuétude du père-abbé Jean Scarcella",
+    "added_at": "2025-06-20T11:01:56.628Z"
   }
 ]
