@@ -21162,7 +21162,10 @@
   },
   {
     "title": "Des étudiants suisses toujours dans l'attente d'un visa pour les Etats-Unis",
-    "added_at": "2025-06-19T07:00:10.069Z"
+    "added_at": "2025-06-19T07:00:10.069Z",
+    "removed_at": "2025-06-21T14:34:24.708Z",
+    "duration_minutes": 3334,
+    "duration_str": "2d 7h 34m"
   },
   {
     "title": "Le président de Nestlé Paul Bulcke ne se représentera pas à sa réélection",
@@ -21198,11 +21201,17 @@
   },
   {
     "title": "Nomination de la nouvelle rédaction en chef de l'Actualité et des Sports de la RTS",
-    "added_at": "2025-06-19T08:29:43.517Z"
+    "added_at": "2025-06-19T08:29:43.517Z",
+    "removed_at": "2025-06-21T14:36:25.120Z",
+    "duration_minutes": 3246,
+    "duration_str": "2d 6h 6m"
   },
   {
     "title": "Des guichets mobiles d'assurances installés dans le Lötschental pour aider les sinistrés de Blatten",
-    "added_at": "2025-06-19T08:33:38.784Z"
+    "added_at": "2025-06-19T08:33:38.784Z",
+    "removed_at": "2025-06-21T14:50:23.916Z",
+    "duration_minutes": 3256,
+    "duration_str": "2d 6h 16m"
   },
   {
     "title": "Quel rôle pour la diplomatie suisse dans le conflit entre l’Iran et Israël? Interview de Monika Schmutz Kirgöz",
@@ -21658,5 +21667,31 @@
   {
     "title": "Emmanuel Macron indique que les Européens vont \"accélérer les négociations\" avec l'Iran",
     "added_at": "2025-06-21T12:40:40.747Z"
+  },
+  {
+    "title": "\"(What's the Story) Morning Glory?\" d'Oasis, les trente ans d'un marqueur de la britpop",
+    "added_at": "2025-06-21T14:34:24.708Z"
+  },
+  {
+    "title": "Moscou a remis à Kiev 20 corps de soldats russes au lieu de soldats ukrainiens, selon Zelensky",
+    "added_at": "2025-06-21T14:36:25.120Z",
+    "removed_at": "2025-06-21T14:40:23.384Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "Zelensky accuse Moscou de lui avoir remis 20 corps de soldats... russes",
+    "added_at": "2025-06-21T14:40:23.384Z"
+  },
+  {
+    "title": "La figure de l'opposition bélarusse Sergueï Tikhanovski a été libéré de prison",
+    "added_at": "2025-06-21T14:50:23.916Z",
+    "removed_at": "2025-06-21T14:52:19.965Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Sergueï Tikhanovski, figure de l'opposition bélarusse, a été libéré de prison",
+    "added_at": "2025-06-21T14:52:19.965Z"
   }
 ]
