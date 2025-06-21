@@ -15174,7 +15174,10 @@
   },
   {
     "title": "suisse:::Un nouveau bus à «biberonnage» lance la révolution électrique des Transports publics genevois",
-    "added_at": "2025-06-20T14:39:20.972Z"
+    "added_at": "2025-06-20T14:39:20.972Z",
+    "removed_at": "2025-06-21T12:30:44.512Z",
+    "duration_minutes": 1311,
+    "duration_str": "21h 51m"
   },
   {
     "title": "monde:::Quand le parlement français se réjouit d’enterrer l’Accord de Paris en pleine canicule",
@@ -15266,7 +15269,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les démarches des Européens dans la guerre conte l'Iran sont inutiles, tranche Donald Trump",
-    "added_at": "2025-06-21T07:09:26.259Z"
+    "added_at": "2025-06-21T07:09:26.259Z",
+    "removed_at": "2025-06-21T12:28:44.319Z",
+    "duration_minutes": 319,
+    "duration_str": "5h 19m"
   },
   {
     "title": "suisse:::Les avions F-35 pourraient coûter nettement plus cher",
@@ -15301,5 +15307,13 @@
   {
     "title": "culture:::«Sally»: comment la première femme américaine dans l’espace a caché son homosexualité",
     "added_at": "2025-06-21T12:08:46.714Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Porte-avions, appareils de transport: les Etats-Unis massent des forces en Europe et vers le Moyen-Orient",
+    "added_at": "2025-06-21T12:28:44.319Z"
+  },
+  {
+    "title": "suisse:::A Neuchâtel, des organisations dénoncent les conditions de vie au centre de Boudry",
+    "added_at": "2025-06-21T12:30:44.512Z"
   }
 ]
