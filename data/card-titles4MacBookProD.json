@@ -30352,7 +30352,10 @@
   },
   {
     "title": "Anderson Cooper reports from a bomb shelter in Tel Aviv",
-    "added_at": "2025-06-20T16:23:06.029Z"
+    "added_at": "2025-06-20T16:23:06.029Z",
+    "removed_at": "2025-06-21T02:34:04.604Z",
+    "duration_minutes": 610,
+    "duration_str": "10h 10m"
   },
   {
     "title": "Iranian Nobel Peace Laureate appeals to Trump to ‘stop the war’",
@@ -30568,11 +30571,17 @@
   },
   {
     "title": "In pictures: Behind the scenes of ‘Jaws’",
-    "added_at": "2025-06-21T02:04:06.698Z"
+    "added_at": "2025-06-21T02:04:06.698Z",
+    "removed_at": "2025-06-21T02:41:59.691Z",
+    "duration_minutes": 37,
+    "duration_str": "37m"
   },
   {
     "title": "Strange signals detected from Antarctic ice seem to defy laws of physics. Scientists are searching for an answer",
-    "added_at": "2025-06-21T02:04:06.698Z"
+    "added_at": "2025-06-21T02:04:06.698Z",
+    "removed_at": "2025-06-21T02:41:59.691Z",
+    "duration_minutes": 37,
+    "duration_str": "37m"
   },
   {
     "title": "Who is Florian Wirtz, the $156 million man joining Liverpool?",
@@ -30581,5 +30590,9 @@
   {
     "title": "A clash of English and Brazilian teams in Philadelphia shows off exactly what FIFA wants from the Club World Cup",
     "added_at": "2025-06-21T02:04:06.698Z"
+  },
+  {
+    "title": "Video shows missiles from Iran streaking skies of Israel",
+    "added_at": "2025-06-21T02:34:04.604Z"
   }
 ]
