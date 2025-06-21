@@ -14826,7 +14826,10 @@
   },
   {
     "title": "culture:::Comment Muse fait rager les métalleux du Hellfest",
-    "added_at": "2025-06-19T10:35:04.952Z"
+    "added_at": "2025-06-19T10:35:04.952Z",
+    "removed_at": "2025-06-21T06:45:26.951Z",
+    "duration_minutes": 2650,
+    "duration_str": "1d 20h 10m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Moscou «met en garde» Washington contre toute «intervention militaire» en Iran",
@@ -14936,7 +14939,10 @@
   },
   {
     "title": "monde:::«Si les Iraniens viennent négocier à Genève, c’est parce que c’est la panique à bord»",
-    "added_at": "2025-06-19T17:57:27.996Z"
+    "added_at": "2025-06-19T17:57:27.996Z",
+    "removed_at": "2025-06-21T06:05:36.165Z",
+    "duration_minutes": 2168,
+    "duration_str": "1d 12h 8m"
   },
   {
     "title": "culture:::«Je vais amener les Biennois à Nebia!»: Judith Madeline Walter, l’ambition pétillante et partageuse",
@@ -15185,10 +15191,7 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël doit se préparer à une «campagne prolongée» contre l'Iran, selon le chef de l’armée israélienne",
-    "added_at": "2025-06-20T16:21:03.194Z",
-    "removed_at": "2025-06-21T05:55:31.870Z",
-    "duration_minutes": 814,
-    "duration_str": "13h 34m"
+    "added_at": "2025-06-20T16:21:03.194Z"
   },
   {
     "title": "economie:::Le spécialiste de véhicules utilitaires Aebi Schmidt, en mains de Peter Spuhler, sera coté au Nasdaq",
@@ -15234,5 +15237,9 @@
   {
     "title": "economie:::Le départ du directeur de Genève Aéroport coûtera cher… aux recruteurs",
     "added_at": "2025-06-21T05:55:31.870Z"
+  },
+  {
+    "title": "culture:::Ramuz et la fin de l’humanité sur une Terre qui se réchauffe:«Présence de la mort» est brillamment adapté en roman graphique par la Lausannoise Karen Ichters",
+    "added_at": "2025-06-21T06:45:26.951Z"
   }
 ]
