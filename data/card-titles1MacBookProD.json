@@ -21031,7 +21031,10 @@
   },
   {
     "title": "Podcast - A partir de quand est-on addict ?",
-    "added_at": "2025-06-18T18:53:48.999Z"
+    "added_at": "2025-06-18T18:53:48.999Z",
+    "removed_at": "2025-06-21T05:43:35.244Z",
+    "duration_minutes": 3529,
+    "duration_str": "2d 10h 49m"
   },
   {
     "title": "La Suisse s'incline sans démériter face à la Grèce pour son entrée en lice",
@@ -21511,5 +21514,9 @@
   {
     "title": "Genève a mesuré l'impact de son salaire minimum sur le taux d'emploi",
     "added_at": "2025-06-21T02:32:02.225Z"
+  },
+  {
+    "title": "Voiture électrique, pourquoi le courant ne passe pas",
+    "added_at": "2025-06-21T05:43:35.244Z"
   }
 ]
