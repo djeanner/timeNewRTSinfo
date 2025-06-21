@@ -13131,7 +13131,10 @@
   },
   {
     "title": "Iran: More than 400 people killed in Israel’s 9-day attack",
-    "added_at": "2025-06-21T11:56:50.932Z"
+    "added_at": "2025-06-21T11:56:50.932Z",
+    "removed_at": "2025-06-21T13:56:32.028Z",
+    "duration_minutes": 119,
+    "duration_str": "1h 59m"
   },
   {
     "title": "UK Parliament approves assisted dying bill: How would it work?",
@@ -13144,5 +13147,9 @@
   {
     "title": "Israel strikes Iran’s Isfahan nuclear site, buildings on fire in Tel Aviv",
     "added_at": "2025-06-21T12:58:35.891Z"
+  },
+  {
+    "title": "Israel attacks southwest Iran as more Iranian drones target Israeli cities",
+    "added_at": "2025-06-21T13:56:32.028Z"
   }
 ]
