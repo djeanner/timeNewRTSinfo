@@ -14875,7 +14875,10 @@
   },
   {
     "title": "suisse:::Tremblement de terre à Genève: le scrutin municipal de Vernier est annulé pour fraude électorale",
-    "added_at": "2025-06-19T13:38:16.000Z"
+    "added_at": "2025-06-19T13:38:16.000Z",
+    "removed_at": "2025-06-21T07:03:27.809Z",
+    "duration_minutes": 2485,
+    "duration_str": "1d 17h 25m"
   },
   {
     "title": "sport:::Une stèle en l’honneur de Gino Mäder a été installée sur les lieux de sa chute mortelle",
@@ -15169,10 +15172,7 @@
   },
   {
     "title": "monde:::Quand le parlement français se réjouit d’enterrer l’Accord de Paris en pleine canicule",
-    "added_at": "2025-06-20T14:53:25.682Z",
-    "removed_at": "2025-06-21T05:37:37.019Z",
-    "duration_minutes": 884,
-    "duration_str": "14h 44m"
+    "added_at": "2025-06-20T14:53:25.682Z"
   },
   {
     "title": "suisse:::Face aux violences sexuelles à l’abbaye de Saint-Maurice, l’étrange mansuétude du Père Abbé Jean Scarcella",
@@ -15191,7 +15191,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël doit se préparer à une «campagne prolongée» contre l'Iran, selon le chef de l’armée israélienne",
-    "added_at": "2025-06-20T16:21:03.194Z"
+    "added_at": "2025-06-20T16:21:03.194Z",
+    "removed_at": "2025-06-21T07:09:26.259Z",
+    "duration_minutes": 888,
+    "duration_str": "14h 48m"
   },
   {
     "title": "economie:::Le spécialiste de véhicules utilitaires Aebi Schmidt, en mains de Peter Spuhler, sera coté au Nasdaq",
@@ -15241,5 +15244,13 @@
   {
     "title": "culture:::Ramuz et la fin de l’humanité sur une Terre qui se réchauffe:«Présence de la mort» est brillamment adapté en roman graphique par la Lausannoise Karen Ichters",
     "added_at": "2025-06-21T06:45:26.951Z"
+  },
+  {
+    "title": "suisse:::Les zones d’ombre du débat sur la vidéosurveillance contre le deal à Vevey",
+    "added_at": "2025-06-21T07:03:27.809Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les démarches des Européens dans la guerre conte l'Iran sont inutiles, tranche Donald Trump",
+    "added_at": "2025-06-21T07:09:26.259Z"
   }
 ]
