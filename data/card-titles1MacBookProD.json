@@ -21355,7 +21355,10 @@
   },
   {
     "title": "Donald Trump se laisse deux semaines pour décider ou non d'impliquer Washington en Iran",
-    "added_at": "2025-06-19T18:25:22.652Z"
+    "added_at": "2025-06-19T18:25:22.652Z",
+    "removed_at": "2025-06-21T23:33:30.546Z",
+    "duration_minutes": 3188,
+    "duration_str": "2d 5h 8m"
   },
   {
     "title": "Sans protection juridique de leurs employeurs, les chauffeurs du Montreux Jazz Festival menacent de ne pas conduire",
@@ -21762,10 +21765,7 @@
   },
   {
     "title": "Défilé dans les rues de Lausanne à l'occasion la Fête fédérale de gymnastique",
-    "added_at": "2025-06-21T17:24:01.288Z",
-    "removed_at": "2025-06-21T19:06:07.711Z",
-    "duration_minutes": 102,
-    "duration_str": "1h 42m"
+    "added_at": "2025-06-21T17:24:01.288Z"
   },
   {
     "title": "Le président iranien \"refuse\" l'arrêt des activités nucléaires \"quelles que soient les circonstances\"",
@@ -21807,11 +21807,17 @@
   },
   {
     "title": "L'achat des F-35 pourrait coûter jusqu'à 1 milliard et demi de francs de plus que prévu",
-    "added_at": "2025-06-21T20:32:04.999Z"
+    "added_at": "2025-06-21T20:32:04.999Z",
+    "removed_at": "2025-06-21T23:33:30.546Z",
+    "duration_minutes": 181,
+    "duration_str": "3h 1m"
   },
   {
     "title": "Davantage de microplastiques dans les bouteilles en verre",
-    "added_at": "2025-06-21T20:32:04.999Z"
+    "added_at": "2025-06-21T20:32:04.999Z",
+    "removed_at": "2025-06-21T23:33:30.546Z",
+    "duration_minutes": 181,
+    "duration_str": "3h 1m"
   },
   {
     "title": "L'assemblée des délégués de Syndicom s'inquiète du démantèlement des services publics",
@@ -21820,5 +21826,9 @@
   {
     "title": "De nombreux sentiers pédestres sont menacés par le réchauffement climatique",
     "added_at": "2025-06-21T22:33:39.458Z"
+  },
+  {
+    "title": "La décision sur le refus de la prise en charge des élèves transfrontaliers à Genève provoque des réactions",
+    "added_at": "2025-06-21T23:33:30.546Z"
   }
 ]
