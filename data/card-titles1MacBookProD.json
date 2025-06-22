@@ -21426,7 +21426,10 @@
   },
   {
     "title": "Une étude de l'Uni Lausanne prévoit un doublement des évènements météo extrêmes",
-    "added_at": "2025-06-20T07:26:23.277Z"
+    "added_at": "2025-06-20T07:26:23.277Z",
+    "removed_at": "2025-06-22T01:33:17.731Z",
+    "duration_minutes": 2526,
+    "duration_str": "1d 18h 6m"
   },
   {
     "title": "Blatten: les assureurs installent des bureaux mobiles dans le Lötschental",
@@ -21671,7 +21674,10 @@
   },
   {
     "title": "Une cour d'appel fédérale autorise Trump à déployer la Garde nationale à Los Angeles",
-    "added_at": "2025-06-21T11:32:57.610Z"
+    "added_at": "2025-06-21T11:32:57.610Z",
+    "removed_at": "2025-06-22T01:35:18.160Z",
+    "duration_minutes": 842,
+    "duration_str": "14h 2m"
   },
   {
     "title": "À Blatten, la présidente du Conseil national réclame une loi pour l'aide en cas de catastrophe",
@@ -21739,10 +21745,7 @@
   },
   {
     "title": "L'ambassade de Suisse à Téhéran a été temporairement fermée",
-    "added_at": "2025-06-21T15:32:17.779Z",
-    "removed_at": "2025-06-21T22:33:39.458Z",
-    "duration_minutes": 421,
-    "duration_str": "7h 1m"
+    "added_at": "2025-06-21T15:32:17.779Z"
   },
   {
     "title": "Des coachs pour vaches pour mieux comprendre leurs besoins et améliorer leur bien-être",
@@ -21832,10 +21835,7 @@
   },
   {
     "title": "La décision sur le refus de la prise en charge des élèves transfrontaliers à Genève provoque des réactions",
-    "added_at": "2025-06-21T23:33:30.546Z",
-    "removed_at": "2025-06-22T00:33:23.583Z",
-    "duration_minutes": 59,
-    "duration_str": "59m"
+    "added_at": "2025-06-21T23:33:30.546Z"
   },
   {
     "title": "Les Etats-Unis ont largué \"une charge complète de bombes\" sur Fordo",
@@ -21850,6 +21850,13 @@
   },
   {
     "title": "Les Etats-Unis ont largué \"une charge complète de bombes\" sur trois sites nucléaires iraniens, dont Fordo",
-    "added_at": "2025-06-22T00:47:21.189Z"
+    "added_at": "2025-06-22T00:47:21.189Z",
+    "removed_at": "2025-06-22T01:11:26.153Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "Les Etats-Unis ont largué des bombes sur trois sites nucléaires iraniens, dont Fordo",
+    "added_at": "2025-06-22T01:09:26.292Z"
   }
 ]
