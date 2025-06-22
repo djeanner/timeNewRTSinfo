@@ -31393,7 +31393,10 @@
   },
   {
     "title": "It’s About to Get Brutally Hot in New York City",
-    "added_at": "2025-06-22T09:58:48.749Z"
+    "added_at": "2025-06-22T09:58:48.749Z",
+    "removed_at": "2025-06-22T22:30:03.918Z",
+    "duration_minutes": 751,
+    "duration_str": "12h 31m"
   },
   {
     "title": "Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape",
@@ -31609,7 +31612,10 @@
   },
   {
     "title": "Will the Pacers or Thunder Win the N.B.A. Title? We Asked Our Experts.",
-    "added_at": "2025-06-22T19:16:05.550Z"
+    "added_at": "2025-06-22T19:16:05.550Z",
+    "removed_at": "2025-06-22T23:07:51.262Z",
+    "duration_minutes": 231,
+    "duration_str": "3h 51m"
   },
   {
     "title": "Tesla Begins Limited Robotaxi Service in Austin",
@@ -31629,7 +31635,10 @@
   },
   {
     "title": "U.S. Says Strikes on Iran’s Nuclear Sites Caused ‘Severe Damage’",
-    "added_at": "2025-06-22T22:25:53.648Z"
+    "added_at": "2025-06-22T22:25:53.648Z",
+    "removed_at": "2025-06-22T22:42:01.490Z",
+    "duration_minutes": 16,
+    "duration_str": "16m"
   },
   {
     "title": "Is the U.S. at War With Iran? What to Know About Trump, Congress and War Powers.",
@@ -31638,5 +31647,24 @@
   {
     "title": "Trump, in Effort to Return to Anti-War Messaging, Insists Strikes Are ‘One Off’",
     "added_at": "2025-06-22T22:25:53.648Z"
+  },
+  {
+    "title": "3 Dead in Central New York After Powerful Storm Lashes the Area",
+    "added_at": "2025-06-22T22:30:03.918Z"
+  },
+  {
+    "title": "As Allies Call for Diplomacy, Trump Raises Prospect of Regime Change in Iran",
+    "added_at": "2025-06-22T22:42:01.490Z",
+    "removed_at": "2025-06-22T22:57:54.340Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "As Allies Call for Diplomacy, Trump Posts About Regime Change in Iran",
+    "added_at": "2025-06-22T22:49:55.431Z"
+  },
+  {
+    "title": "N.B.A. Finals: Thunder Host Pacers in Winner-Take-All Game 7",
+    "added_at": "2025-06-22T23:07:51.262Z"
   }
 ]
