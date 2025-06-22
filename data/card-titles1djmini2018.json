@@ -18255,7 +18255,10 @@
   },
   {
     "title": "Une étude de l'Uni Lausanne prévoit un doublement des évènements météo extrêmes",
-    "added_at": "2025-06-20T07:26:22.840Z"
+    "added_at": "2025-06-20T07:26:22.840Z",
+    "removed_at": "2025-06-22T01:33:42.072Z",
+    "duration_minutes": 2527,
+    "duration_str": "1d 18h 7m"
   },
   {
     "title": "Blatten: les assureurs installent des bureaux mobiles dans le Lötschental",
@@ -18500,7 +18503,10 @@
   },
   {
     "title": "Une cour d'appel fédérale autorise Trump à déployer la Garde nationale à Los Angeles",
-    "added_at": "2025-06-21T11:30:00.073Z"
+    "added_at": "2025-06-21T11:30:00.073Z",
+    "removed_at": "2025-06-22T01:31:46.342Z",
+    "duration_minutes": 841,
+    "duration_str": "14h 1m"
   },
   {
     "title": "À Blatten, la présidente du Conseil national réclame une loi pour l'aide en cas de catastrophe",
@@ -18568,10 +18574,7 @@
   },
   {
     "title": "L'ambassade de Suisse à Téhéran a été temporairement fermée",
-    "added_at": "2025-06-21T15:32:59.070Z",
-    "removed_at": "2025-06-21T22:32:59.412Z",
-    "duration_minutes": 420,
-    "duration_str": "7h"
+    "added_at": "2025-06-21T15:32:59.070Z"
   },
   {
     "title": "Des coachs pour vaches pour mieux comprendre leurs besoins et améliorer leur bien-être",
@@ -18662,16 +18665,34 @@
   {
     "title": "La décision sur le refus de la prise en charge des élèves transfrontaliers à Genève provoque des réactions",
     "added_at": "2025-06-21T23:33:06.632Z",
-    "removed_at": "2025-06-22T00:33:19.859Z",
-    "duration_minutes": 60,
-    "duration_str": "1h"
+    "removed_at": "2025-06-22T02:33:50.330Z",
+    "duration_minutes": 180,
+    "duration_str": "3h"
   },
   {
     "title": "Les Etats-Unis ont largué \"une charge complète de bombes\" sur Fordo",
-    "added_at": "2025-06-22T00:25:52.166Z"
+    "added_at": "2025-06-22T00:25:52.166Z",
+    "removed_at": "2025-06-22T00:50:23.153Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
   },
   {
     "title": "Un tout nouveau groupe sanguin identifié chez une Française originaire de l'île de Guadeloupe",
     "added_at": "2025-06-22T00:33:19.859Z"
+  },
+  {
+    "title": "Les Etats-Unis ont largué \"une charge complète de bombes\" sur trois sites nucléaires iraniens, dont Fordo",
+    "added_at": "2025-06-22T00:46:38.204Z",
+    "removed_at": "2025-06-22T01:11:06.908Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "Les Etats-Unis ont largué des bombes sur trois sites nucléaires iraniens, dont Fordo",
+    "added_at": "2025-06-22T01:09:11.219Z"
+  },
+  {
+    "title": "Ici la Suisse - Un tunnel dédié aux deux-roues sous la gare centrale de Zurich",
+    "added_at": "2025-06-22T02:33:50.330Z"
   }
 ]
