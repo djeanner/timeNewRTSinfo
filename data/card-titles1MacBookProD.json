@@ -21555,7 +21555,10 @@
   },
   {
     "title": "Le démantèlement de la centrale de Mühleberg à mi-parcours",
-    "added_at": "2025-06-20T12:23:51.120Z"
+    "added_at": "2025-06-20T12:23:51.120Z",
+    "removed_at": "2025-06-23T06:33:22.165Z",
+    "duration_minutes": 3969,
+    "duration_str": "2d 18h 9m"
   },
   {
     "title": "L'ambassadrice suisse en Iran a quitté le pays, la représentation est désormais fermée",
@@ -22106,7 +22109,10 @@
   },
   {
     "title": "La fête de la musique attiré près de 200'000 personnes dans la ville de Genève",
-    "added_at": "2025-06-22T19:48:11.269Z"
+    "added_at": "2025-06-22T19:48:11.269Z",
+    "removed_at": "2025-06-23T07:07:18.667Z",
+    "duration_minutes": 679,
+    "duration_str": "11h 19m"
   },
   {
     "title": "L'Iran menace les Etats-Unis de représailles, l'ONU met en garde contre un \"cycle sans issue\"",
@@ -22166,5 +22172,13 @@
   {
     "title": "Sept bombardiers B-2, 14 bombes GBU-57, des leurres: les détails de l'opération \"Midnight Hammer\" en Iran",
     "added_at": "2025-06-23T06:23:19.272Z"
+  },
+  {
+    "title": "Un premier sacre pour Oklahoma City",
+    "added_at": "2025-06-23T06:33:22.165Z"
+  },
+  {
+    "title": "La fête de la musique a attiré près de 200'000 personnes dans la ville de Genève",
+    "added_at": "2025-06-23T07:07:18.667Z"
   }
 ]

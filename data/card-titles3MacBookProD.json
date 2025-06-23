@@ -31655,7 +31655,10 @@
   },
   {
     "title": "Suicide Bombing at Damascus Church Kills at Least 20",
-    "added_at": "2025-06-22T20:20:01.553Z"
+    "added_at": "2025-06-22T20:20:01.553Z",
+    "removed_at": "2025-06-23T07:25:17.812Z",
+    "duration_minutes": 665,
+    "duration_str": "11h 5m"
   },
   {
     "title": "U.S. Says Strikes on Iran’s Nuclear Sites Caused ‘Severe Damage’",
@@ -31762,7 +31765,10 @@
   },
   {
     "title": "Israel and Iran Targeted in New Round of Strikes",
-    "added_at": "2025-06-23T02:01:33.764Z"
+    "added_at": "2025-06-23T02:01:33.764Z",
+    "removed_at": "2025-06-23T07:13:18.349Z",
+    "duration_minutes": 311,
+    "duration_str": "5h 11m"
   },
   {
     "title": "Cuomo Enlists Clinton as Part of Late-Stage Bid to Fend Off Rival",
@@ -31828,5 +31834,13 @@
   {
     "title": "Judge Orders Salvadoran Man to Be Released on Smuggling Charges",
     "added_at": "2025-06-23T06:17:20.162Z"
+  },
+  {
+    "title": "Israel and Iran Trade New Round of Attacks",
+    "added_at": "2025-06-23T07:13:18.349Z"
+  },
+  {
+    "title": "Russian Attack on Kyiv Kills at Least 6, Ukraine Says",
+    "added_at": "2025-06-23T07:25:17.812Z"
   }
 ]

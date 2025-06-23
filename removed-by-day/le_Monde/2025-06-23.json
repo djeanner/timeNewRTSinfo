@@ -49,9 +49,8 @@
   {
     "title": "Capucine, 27 ans, analyste en fusions-acquisitions, 5 300 euros par mois : « On regardait les salaires et on se disait qu’on allait vivre comme des rois »",
     "added_at": "2025-06-23T03:21:19.466Z",
-    "removed_at": "2025-06-23T04:53:22.928Z",
-    "duration_minutes": 92,
-    "duration_str": "1h 32m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Guerre en Ukraine : une attaque massive de drones russes sur Kiev fait un mort et au moins neuf blessés",
@@ -124,8 +123,9 @@
   {
     "title": "Employeurs et salariés face aux fortes chaleurs au travail : « J’aimerais savoir à partir de quelle température il y a danger ? »",
     "added_at": "2025-06-23T04:51:28.124Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-23T04:53:22.928Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
   },
   {
     "title": "En Bourgogne, les producteurs de cassis misent sur les bienfaits d’un retour de la biodiversité",
@@ -157,8 +157,9 @@
   {
     "title": "A Disneyland, deux suspects seront déférés lundi après la mise en scène d’un mariage impliquant une mineure",
     "added_at": "2025-06-23T05:01:24.446Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-23T06:33:22.548Z",
+    "duration_minutes": 92,
+    "duration_str": "1h 32m"
   },
   {
     "title": "« 1917 », sur France 2 : l’odyssée sanglante de deux simples soldats filmée en un plan séquence illusoire",
@@ -210,6 +211,19 @@
   {
     "title": "En direct : une attaque de drones et de missiles russes sur Kiev fait au moins six morts et une vingtaine de blessés",
     "added_at": "2025-06-23T06:23:19.667Z",
+    "removed_at": "2025-06-23T07:21:19.243Z",
+    "duration_minutes": 58,
+    "duration_str": "58m"
+  },
+  {
+    "title": "Javier Blas, journaliste : « Les courtiers en matières premières sont les derniers aventuriers du capitalisme sauvage »",
+    "added_at": "2025-06-23T07:11:22.046Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "En direct : la Russie a lancé 352 drones et 16 missiles contre l’Ukraine durant la nuit, au moins six morts à Kiev",
+    "added_at": "2025-06-23T07:21:19.243Z",
     "duration_minutes": 0,
     "duration_str": ""
   }

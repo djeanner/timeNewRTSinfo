@@ -99,8 +99,9 @@
   {
     "title": "Anderson Cooper and CNN team evacuate while on air",
     "added_at": "2025-06-23T01:05:42.814Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-23T07:21:19.214Z",
+    "duration_minutes": 376,
+    "duration_str": "6h 16m"
   },
   {
     "title": "NBA Finals: Indiana locked in tight Game 7 battle with OKC",
@@ -203,6 +204,19 @@
   {
     "title": "Israel launches strikes on Iranian military infrastructure",
     "added_at": "2025-06-23T05:23:24.022Z",
+    "removed_at": "2025-06-23T06:41:24.440Z",
+    "duration_minutes": 78,
+    "duration_str": "1h 18m"
+  },
+  {
+    "title": "Iran’s army commander warns of a ‘strong response’ to US attacks",
+    "added_at": "2025-06-23T06:41:24.440Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Anderson Cooper and CNN team evacuate to shelter after missile warning while on air",
+    "added_at": "2025-06-23T07:21:19.214Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
