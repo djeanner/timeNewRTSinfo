@@ -15722,7 +15722,10 @@
   },
   {
     "title": "sport:::A Lausanne, Kirsty Coventry prend ses fonctions au CIO et ses habitudes à la piscine de Bellerive",
-    "added_at": "2025-06-23T07:41:26.313Z"
+    "added_at": "2025-06-23T07:41:26.313Z",
+    "removed_at": "2025-06-23T16:30:05.681Z",
+    "duration_minutes": 528,
+    "duration_str": "8h 48m"
   },
   {
     "title": "economie:::Monika Behr, cheffe de l’activité vie d’Allianz Suisse: «Nous devrions tous travailler deux ans de plus»",
@@ -15730,7 +15733,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’armée israélienne mène des frappes au centre de Téhéran",
-    "added_at": "2025-06-23T09:11:41.294Z"
+    "added_at": "2025-06-23T09:11:41.294Z",
+    "removed_at": "2025-06-23T16:55:58.994Z",
+    "duration_minutes": 464,
+    "duration_str": "7h 44m"
   },
   {
     "title": "culture:::Le look des artistes, un langage à part entière",
@@ -15756,7 +15762,10 @@
   },
   {
     "title": "culture:::Le chercheur et romancier brésilien Pedro Cesarino raconte les puissants pouvoirs de la femme-vautour",
-    "added_at": "2025-06-23T11:33:39.752Z"
+    "added_at": "2025-06-23T11:33:39.752Z",
+    "removed_at": "2025-06-23T16:42:04.563Z",
+    "duration_minutes": 308,
+    "duration_str": "5h 8m"
   },
   {
     "title": "monde:::Exclusif – Hind Kabawat, seule femme du nouveau gouvernement syrien: «Le président Al-Charaa n’est pas un dictateur»",
@@ -15799,5 +15808,24 @@
   {
     "title": "suisse:::Justifiée ou critiquée, la réaction du DFAE après l’attaque américaine en Iran fait débat à Berne",
     "added_at": "2025-06-23T16:21:56.248Z"
+  },
+  {
+    "title": "cyber:::Accusé de tromperie en intelligence artificielle, Apple risque de devoir payer des millions aux plaignants",
+    "added_at": "2025-06-23T16:30:05.681Z"
+  },
+  {
+    "title": "suisse:::Dans le Grand Genève, une part croissante de frontaliers ont envie de se déplacer sans leur voiture",
+    "added_at": "2025-06-23T16:42:04.563Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’armée israélienne mène des frappes au centre de Téhéran, des explosions entendues au Qatar",
+    "added_at": "2025-06-23T16:55:58.994Z",
+    "removed_at": "2025-06-23T17:09:59.997Z",
+    "duration_minutes": 14,
+    "duration_str": "14m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’Iran lance une «puissante» réponse à «l’agression américaine», des explosions entendues au Qatar",
+    "added_at": "2025-06-23T17:09:59.997Z"
   }
 ]
