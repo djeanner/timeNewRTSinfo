@@ -22494,7 +22494,10 @@
   },
   {
     "title": "Le détroit d'Ormuz, passage stratégique sous haute tension",
-    "added_at": "2025-06-23T17:38:06.011Z"
+    "added_at": "2025-06-23T17:38:06.011Z",
+    "removed_at": "2025-06-23T19:14:13.011Z",
+    "duration_minutes": 96,
+    "duration_str": "1h 36m"
   },
   {
     "title": "Un TGV percute un tracteur près de Genève, un ouvrier agricole blessé",
@@ -22514,5 +22517,9 @@
   {
     "title": "Les coulisses des frappes américaines en Iran, entre déclarations trompeuses et décisions secrètes",
     "added_at": "2025-06-23T18:12:06.036Z"
+  },
+  {
+    "title": "Le détroit d'Ormuz, un passage stratégique sous haute tension",
+    "added_at": "2025-06-23T19:14:13.011Z"
   }
 ]
