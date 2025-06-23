@@ -15609,7 +15609,10 @@
   },
   {
     "title": "culture:::A Neuchâtel, se perdre dans le dédale de Lagos",
-    "added_at": "2025-06-22T16:08:19.693Z"
+    "added_at": "2025-06-22T16:08:19.693Z",
+    "removed_at": "2025-06-23T20:46:16.186Z",
+    "duration_minutes": 1717,
+    "duration_str": "1d 4h 37m"
   },
   {
     "title": "sport:::João Almeida remporte le Tour de Suisse, devant des coureurs inquiets pour leur avenir",
@@ -15862,7 +15865,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’Iran cible une base militaire américaine au Qatar",
-    "added_at": "2025-06-23T18:26:08.543Z"
+    "added_at": "2025-06-23T18:26:08.543Z",
+    "removed_at": "2025-06-23T20:28:16.725Z",
+    "duration_minutes": 122,
+    "duration_str": "2h 2m"
   },
   {
     "title": "monde:::A La Haye, un sommet de l’OTAN réduit à la portion congrue pour éviter toutes frictions avec Donald Trump",
@@ -15879,5 +15885,13 @@
   {
     "title": "culture:::Jean Richard, l’éditeur d’«en bas», s’en est allé",
     "added_at": "2025-06-23T19:12:16.419Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump qualifie de «très faible» la riposte de l’Iran contre la base américaine au Qatar",
+    "added_at": "2025-06-23T20:28:16.725Z"
+  },
+  {
+    "title": "suisse:::16 ans et demi de prison requis contre le coupable présumé de la tentative de féminicide qui a secoué Neuchâtel en 2022",
+    "added_at": "2025-06-23T20:46:16.186Z"
   }
 ]
