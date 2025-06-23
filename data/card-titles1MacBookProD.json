@@ -21826,7 +21826,10 @@
   },
   {
     "title": "L'ambassade de Suisse à Téhéran a été temporairement fermée",
-    "added_at": "2025-06-21T15:32:17.779Z"
+    "added_at": "2025-06-21T15:32:17.779Z",
+    "removed_at": "2025-06-22T23:35:55.476Z",
+    "duration_minutes": 1923,
+    "duration_str": "1d 8h 3m"
   },
   {
     "title": "Des coachs pour vaches pour mieux comprendre leurs besoins et améliorer leur bien-être",
@@ -22124,5 +22127,9 @@
   {
     "title": "Le domaine des Bugnenets-Savagnières veut investir dans la neige artificielle",
     "added_at": "2025-06-22T22:36:02.660Z"
+  },
+  {
+    "title": "La pollution lumineuse a des effets sur la faune, mais aussi sur la végétation",
+    "added_at": "2025-06-22T23:35:55.476Z"
   }
 ]
