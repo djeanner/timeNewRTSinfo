@@ -13298,7 +13298,10 @@
   },
   {
     "title": "monde:::Guerre en Ukraine – L’Ukraine accuse Vladimir Poutine de «mépris» envers le processus de paix",
-    "added_at": "2025-06-20T19:26:02.795Z"
+    "added_at": "2025-06-20T19:26:02.795Z",
+    "removed_at": "2025-06-22T22:33:19.010Z",
+    "duration_minutes": 3067,
+    "duration_str": "2d 3h 7m"
   },
   {
     "title": "monde:::Un séisme de magnitude 5,1 a frappé le nord de l'Iran",
@@ -13502,7 +13505,10 @@
   },
   {
     "title": "economie:::Dans l’Arc lémanique, l’inexorable essor des apparts-hôtels",
-    "added_at": "2025-06-22T06:57:32.863Z"
+    "added_at": "2025-06-22T06:57:32.863Z",
+    "removed_at": "2025-06-22T23:29:45.115Z",
+    "duration_minutes": 992,
+    "duration_str": "16h 32m"
   },
   {
     "title": "culture:::Dix livres pour les enfants à lire pendant les grandes vacances",
@@ -13592,7 +13598,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis «ne sont pas en guerre contre l’Iran», assure J. D. Vance",
-    "added_at": "2025-06-22T14:25:34.028Z"
+    "added_at": "2025-06-22T14:25:34.028Z",
+    "removed_at": "2025-06-22T21:53:47.434Z",
+    "duration_minutes": 448,
+    "duration_str": "7h 28m"
   },
   {
     "title": "sport:::Joao Almeida remporte le Tour de Suisse, devant des coureurs inquiets pour leur avenir",
@@ -13636,5 +13645,24 @@
   {
     "title": "monde:::En Estonie, avec des soldats cachés dans les bois, prêts à braver la menace russe",
     "added_at": "2025-06-22T18:56:40.759Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – A l’ONU, l’Iran accuse Washington d’avoir lancé une «guerre» sous des «prétextes absurdes»",
+    "added_at": "2025-06-22T21:53:47.434Z",
+    "removed_at": "2025-06-23T00:09:15.407Z",
+    "duration_minutes": 135,
+    "duration_str": "2h 15m"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Notre suivi de la semaine du 16 juin 2025",
+    "added_at": "2025-06-22T22:33:19.010Z"
+  },
+  {
+    "title": "economie:::La flexibilité dans la prévoyance professionnelle à la loupe",
+    "added_at": "2025-06-22T23:29:45.115Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump évoque l'idée d'«un changement de régime en Iran»",
+    "added_at": "2025-06-23T00:09:15.407Z"
   }
 ]
