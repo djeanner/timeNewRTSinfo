@@ -13840,7 +13840,10 @@
   },
   {
     "title": "Satellite images show damage from US strikes on Iran’s Fordow nuclear site",
-    "added_at": "2025-06-22T15:44:42.600Z"
+    "added_at": "2025-06-22T15:44:42.600Z",
+    "removed_at": "2025-06-23T18:59:10.814Z",
+    "duration_minutes": 1634,
+    "duration_str": "1d 3h 14m"
   },
   {
     "title": "Senior Trump officials say US attacks on Iran ‘not about regime change’",
@@ -14030,7 +14033,10 @@
   },
   {
     "title": "‘We’ll end this war’: Iran warns ‘gambler’ Trump as it hits back at Israel",
-    "added_at": "2025-06-23T09:37:43.804Z"
+    "added_at": "2025-06-23T09:37:43.804Z",
+    "removed_at": "2025-06-23T18:40:18.343Z",
+    "duration_minutes": 542,
+    "duration_str": "9h 2m"
   },
   {
     "title": "Colombia’s army says 57 soldiers kidnapped in restive southwest",
@@ -14077,7 +14083,10 @@
   },
   {
     "title": "US bombs Iran: Are airlines stopping flights to Middle East?",
-    "added_at": "2025-06-23T12:34:51.540Z"
+    "added_at": "2025-06-23T12:34:51.540Z",
+    "removed_at": "2025-06-23T16:58:39.469Z",
+    "duration_minutes": 263,
+    "duration_str": "4h 23m"
   },
   {
     "title": "UN nuclear chief estimates damage to Iran’s facilities ‘very significant’",
@@ -14085,7 +14094,10 @@
   },
   {
     "title": "Shipping giant Maersk divests from companies linked to Israeli settlements",
-    "added_at": "2025-06-23T13:12:28.456Z"
+    "added_at": "2025-06-23T13:12:28.456Z",
+    "removed_at": "2025-06-23T17:41:56.676Z",
+    "duration_minutes": 269,
+    "duration_str": "4h 29m"
   },
   {
     "title": "Greece probes Azerbaijani arrested for espionage for links to Iran",
@@ -14100,7 +14112,10 @@
   },
   {
     "title": "As Israel-Iran war escalates, Ukraine fears ‘more losses’ to Russia",
-    "added_at": "2025-06-23T13:50:06.900Z"
+    "added_at": "2025-06-23T13:50:06.900Z",
+    "removed_at": "2025-06-23T18:08:21.235Z",
+    "duration_minutes": 258,
+    "duration_str": "4h 18m"
   },
   {
     "title": "Energy crisis adds to survival threats in war-torn Gaza: NGO",
@@ -14137,6 +14152,89 @@
   },
   {
     "title": "Deadly Israeli attacks hit Tehran, southern Lebanon, Gaza",
-    "added_at": "2025-06-23T16:35:54.840Z"
+    "added_at": "2025-06-23T16:35:54.840Z",
+    "removed_at": "2025-06-23T16:56:46.011Z",
+    "duration_minutes": 20,
+    "duration_str": "20m"
+  },
+  {
+    "title": "Explosions, flares over Qatar’s capital amid threat of attack on US bases",
+    "added_at": "2025-06-23T16:56:46.011Z",
+    "removed_at": "2025-06-23T17:17:31.431Z",
+    "duration_minutes": 20,
+    "duration_str": "20m"
+  },
+  {
+    "title": "Flares over Qatar’s Doha, explosions heard, amid US-Israel-Iran conflict",
+    "added_at": "2025-06-23T16:58:39.469Z",
+    "removed_at": "2025-06-23T17:08:02.703Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Iran says launched attack on US troops at Qatar’s Al Udeid Air Base",
+    "added_at": "2025-06-23T17:08:02.703Z",
+    "removed_at": "2025-06-23T17:17:31.431Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Iran launches missile attack on US base in Qatar; blasts heard over Doha",
+    "added_at": "2025-06-23T17:17:31.431Z",
+    "removed_at": "2025-06-23T18:17:43.950Z",
+    "duration_minutes": 60,
+    "duration_str": "1h"
+  },
+  {
+    "title": "Iran says launched attack on US troops Al Udeid Air Base in Qatar",
+    "added_at": "2025-06-23T17:17:31.431Z",
+    "removed_at": "2025-06-23T17:19:20.996Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Iran says launched attack on US troops at Al Udeid Air Base in Qatar",
+    "added_at": "2025-06-23T17:19:20.996Z",
+    "removed_at": "2025-06-23T18:57:14.938Z",
+    "duration_minutes": 97,
+    "duration_str": "1h 37m"
+  },
+  {
+    "title": "Israel bombs southern Lebanon amid conflict with Iran and assault on Gaza",
+    "added_at": "2025-06-23T17:41:56.676Z"
+  },
+  {
+    "title": "US attacks on Iran risk global conflict, Russia and China warn",
+    "added_at": "2025-06-23T18:08:21.235Z"
+  },
+  {
+    "title": "Iran launches missile attack on US base in Qatar; missiles intercepted",
+    "added_at": "2025-06-23T18:17:43.950Z",
+    "removed_at": "2025-06-23T18:27:08.550Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Iran launches missile attack on US base in Qatar; no casualties reported",
+    "added_at": "2025-06-23T18:27:08.550Z",
+    "removed_at": "2025-06-23T18:36:35.440Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Qatar says intercepted Iranian attack on base housing US troops",
+    "added_at": "2025-06-23T18:36:35.440Z"
+  },
+  {
+    "title": "Trump’s budget demands, Iran to split NATO summit focus",
+    "added_at": "2025-06-23T18:40:18.343Z"
+  },
+  {
+    "title": "Iran attacks base housing US troops in Qatar",
+    "added_at": "2025-06-23T18:57:14.938Z"
+  },
+  {
+    "title": "What to know about the US’s Al Udeid Air Base in Qatar after Iran’s attack",
+    "added_at": "2025-06-23T18:59:10.814Z"
   }
 ]
