@@ -21541,7 +21541,10 @@
   },
   {
     "title": "Des vagues de chaleur plus intenses et plus fréquentes en Suisse",
-    "added_at": "2025-06-20T11:25:58.933Z"
+    "added_at": "2025-06-20T11:25:58.933Z",
+    "removed_at": "2025-06-23T05:21:21.289Z",
+    "duration_minutes": 3955,
+    "duration_str": "2d 17h 55m"
   },
   {
     "title": "Lancement de la campagne du 28 septembre sur la loi sur l'identité électronique",
@@ -22093,7 +22096,10 @@
   },
   {
     "title": "Un attentat dans une église de Damas en Syrie fait au moins 20 morts",
-    "added_at": "2025-06-22T19:34:02.837Z"
+    "added_at": "2025-06-22T19:34:02.837Z",
+    "removed_at": "2025-06-23T04:57:25.997Z",
+    "duration_minutes": 563,
+    "duration_str": "9h 23m"
   },
   {
     "title": "La fête de la musique attiré près de 200'000 personnes dans la ville de Genève",
@@ -22145,5 +22151,13 @@
   {
     "title": "Le suicide des seniors, assisté ou non, augmente en Suisse",
     "added_at": "2025-06-23T04:37:21.698Z"
+  },
+  {
+    "title": "Un attentat dans une église de Damas en Syrie fait au moins 22 morts",
+    "added_at": "2025-06-23T04:57:25.997Z"
+  },
+  {
+    "title": "Donald Trump s'interroge sur un possible changement de régime en Iran",
+    "added_at": "2025-06-23T05:21:21.289Z"
   }
 ]
