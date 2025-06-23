@@ -21796,7 +21796,10 @@
   },
   {
     "title": "\"28 ans plus tard\", un film sauvage, sanglant et étonnamment émouvant signé Danny Boyle",
-    "added_at": "2025-06-21T09:21:00.249Z"
+    "added_at": "2025-06-21T09:21:00.249Z",
+    "removed_at": "2025-06-23T17:38:06.011Z",
+    "duration_minutes": 3377,
+    "duration_str": "2d 8h 17m"
   },
   {
     "title": "Le film culte \"Les Dents de la mer\" de Steven Spielberg fête ses 50 ans",
@@ -21846,7 +21849,10 @@
   },
   {
     "title": "À Blatten, la présidente du Conseil national réclame une loi pour l'aide en cas de catastrophe",
-    "added_at": "2025-06-21T11:34:53.962Z"
+    "added_at": "2025-06-21T11:34:53.962Z",
+    "removed_at": "2025-06-23T18:12:06.036Z",
+    "duration_minutes": 3277,
+    "duration_str": "2d 6h 37m"
   },
   {
     "title": "Lâchée par plusieurs sponsors, la Pride de Zurich s'inquiète pour son avenir",
@@ -21854,11 +21860,17 @@
   },
   {
     "title": "Une députée française s'inquiète de la fin de la scolarisation des élèves frontaliers à Genève",
-    "added_at": "2025-06-21T11:40:52.796Z"
+    "added_at": "2025-06-21T11:40:52.796Z",
+    "removed_at": "2025-06-23T17:24:09.176Z",
+    "duration_minutes": 3223,
+    "duration_str": "2d 5h 43m"
   },
   {
     "title": "Erwin Sperisen dépose plainte contre plusieurs juges genevois",
-    "added_at": "2025-06-21T12:12:43.142Z"
+    "added_at": "2025-06-21T12:12:43.142Z",
+    "removed_at": "2025-06-23T17:38:06.011Z",
+    "duration_minutes": 3205,
+    "duration_str": "2d 5h 25m"
   },
   {
     "title": "Une partie du réseau de sentiers pédestres est menacée par l'évolution du climat et des montagnes",
@@ -22441,7 +22453,10 @@
   },
   {
     "title": "Un TGV percute un tracteur près de Genève, l'ouvrier agricole blessé",
-    "added_at": "2025-06-23T15:21:53.263Z"
+    "added_at": "2025-06-23T15:21:53.263Z",
+    "removed_at": "2025-06-23T17:40:06.329Z",
+    "duration_minutes": 138,
+    "duration_str": "2h 18m"
   },
   {
     "title": "Pierre Maudet a bénéficié de donateurs fictifs lors de sa dernière campagne électorale",
@@ -22457,7 +22472,10 @@
   },
   {
     "title": "Des explosions entendues au Qatar, l'Iran dit avoir envoyé des missiles contre des bases américaines",
-    "added_at": "2025-06-23T17:02:00.174Z"
+    "added_at": "2025-06-23T17:02:00.174Z",
+    "removed_at": "2025-06-23T17:48:07.423Z",
+    "duration_minutes": 46,
+    "duration_str": "46m"
   },
   {
     "title": "Des explosions entendues au Qatar",
@@ -22465,5 +22483,36 @@
     "removed_at": "2025-06-23T17:07:59.575Z",
     "duration_minutes": 1,
     "duration_str": "1m"
+  },
+  {
+    "title": "Podcast - Israël-Iran: jusqu’où le conflit peut-il aller?",
+    "added_at": "2025-06-23T17:24:09.176Z"
+  },
+  {
+    "title": "Le centre pédiatrique de Lancy va mettre fin aux gardes sur fond de suppression de la taxe d'urgence",
+    "added_at": "2025-06-23T17:38:06.011Z"
+  },
+  {
+    "title": "Le détroit d'Ormuz, passage stratégique sous haute tension",
+    "added_at": "2025-06-23T17:38:06.011Z"
+  },
+  {
+    "title": "Un TGV percute un tracteur près de Genève, un ouvrier agricole blessé",
+    "added_at": "2025-06-23T17:40:06.329Z"
+  },
+  {
+    "title": "Le Qatar dit avoir intercepté avec succès des missiles iraniens visant une base américaine",
+    "added_at": "2025-06-23T17:46:05.064Z",
+    "removed_at": "2025-06-23T17:52:04.420Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "Le Qatar dit avoir intercepté \"avec succès\" des missiles iraniens visant une base américaine",
+    "added_at": "2025-06-23T17:52:04.420Z"
+  },
+  {
+    "title": "Les coulisses des frappes américaines en Iran, entre déclarations trompeuses et décisions secrètes",
+    "added_at": "2025-06-23T18:12:06.036Z"
   }
 ]
