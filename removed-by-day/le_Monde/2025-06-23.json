@@ -543,9 +543,8 @@
   {
     "title": "Jeux de Paris 2024 : la Cour des comptes évalue la facture publique à 6 milliards d’euros",
     "added_at": "2025-06-23T12:53:38.278Z",
-    "removed_at": "2025-06-23T14:44:53.434Z",
-    "duration_minutes": 111,
-    "duration_str": "1h 51m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "« Au lendemain de l’attaque des Etats-Unis contre l’Iran, il n’y a pas de choc pétrolier »",
@@ -741,8 +740,9 @@
   {
     "title": "L’Iran a « lancé une attaque de missiles » contre la base américaine d’Al-Udeid, au Qatar",
     "added_at": "2025-06-23T17:38:06.403Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-23T18:40:07.573Z",
+    "duration_minutes": 62,
+    "duration_str": "1h 2m"
   },
   {
     "title": "« Dans le meilleur des cas, les neurotechnologies servent à accroître votre autonomie, dans le pire, à tenter de vous contrôler »",
@@ -772,6 +772,26 @@
   {
     "title": "Seattle-PSG : Senny Mayulu dans un rôle inédit d’attaquant à la Coupe du monde des clubs",
     "added_at": "2025-06-23T18:14:02.768Z",
+    "removed_at": "2025-06-23T18:32:08.296Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
+  },
+  {
+    "title": "Seattle-PSG : Senny Mayulu titulaire, Ousmane Dembélé à nouveau absent",
+    "added_at": "2025-06-23T18:32:08.296Z",
+    "removed_at": "2025-06-23T19:02:05.988Z",
+    "duration_minutes": 30,
+    "duration_str": "30m"
+  },
+  {
+    "title": "L’attaque iranienne contre la base militaire américaine d’Al-Udeid, au Qatar, n’a pas fait de victime",
+    "added_at": "2025-06-23T18:40:07.573Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Seattle-PSG : avec Désiré Doué et sans Ousmane Dembélé, les Parisiens jouent leur place à la Coupe du monde des clubs",
+    "added_at": "2025-06-23T19:02:05.988Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
