@@ -18370,7 +18370,10 @@
   },
   {
     "title": "Des vagues de chaleur plus intenses et plus fréquentes en Suisse",
-    "added_at": "2025-06-20T11:25:42.491Z"
+    "added_at": "2025-06-20T11:25:42.491Z",
+    "removed_at": "2025-06-23T05:21:41.453Z",
+    "duration_minutes": 3955,
+    "duration_str": "2d 17h 55m"
   },
   {
     "title": "Lancement de la campagne du 28 septembre sur la loi sur l'identité électronique",
@@ -18381,7 +18384,10 @@
   },
   {
     "title": "Le démantèlement de la centrale de Mühleberg à mi-parcours",
-    "added_at": "2025-06-20T12:24:01.439Z"
+    "added_at": "2025-06-20T12:24:01.439Z",
+    "removed_at": "2025-06-23T06:35:02.895Z",
+    "duration_minutes": 3971,
+    "duration_str": "2d 18h 11m"
   },
   {
     "title": "L'ambassadrice suisse en Iran a quitté le pays, la représentation est désormais fermée",
@@ -18891,7 +18897,10 @@
   },
   {
     "title": "Sept bombardiers B-2, 14 bombes GBU-5, des leurres: les détails de l'opération \"Midnight Hammer\" en Iran",
-    "added_at": "2025-06-22T15:12:45.817Z"
+    "added_at": "2025-06-22T15:12:45.817Z",
+    "removed_at": "2025-06-23T06:25:39.267Z",
+    "duration_minutes": 912,
+    "duration_str": "15h 12m"
   },
   {
     "title": "Plus de plages, plus de parcs: à quoi ressemblera la \"cité balnéaire\" genevoise?",
@@ -18922,11 +18931,17 @@
   },
   {
     "title": "Un attentat dans une église de Damas en Syrie fait au moins 20 morts",
-    "added_at": "2025-06-22T19:34:24.352Z"
+    "added_at": "2025-06-22T19:34:24.352Z",
+    "removed_at": "2025-06-23T04:57:18.909Z",
+    "duration_minutes": 562,
+    "duration_str": "9h 22m"
   },
   {
     "title": "La fête de la musique attiré près de 200'000 personnes dans la ville de Genève",
-    "added_at": "2025-06-22T19:49:29.506Z"
+    "added_at": "2025-06-22T19:49:29.506Z",
+    "removed_at": "2025-06-23T07:07:03.683Z",
+    "duration_minutes": 677,
+    "duration_str": "11h 17m"
   },
   {
     "title": "L'Iran menace les Etats-Unis de représailles, l'ONU met en garde contre un \"cycle sans issue\"",
@@ -18974,5 +18989,25 @@
   {
     "title": "Le suicide des seniors, assisté ou non, augmente en Suisse",
     "added_at": "2025-06-23T04:36:26.881Z"
+  },
+  {
+    "title": "Un attentat dans une église de Damas en Syrie fait au moins 22 morts",
+    "added_at": "2025-06-23T04:57:18.909Z"
+  },
+  {
+    "title": "Donald Trump s'interroge sur un possible changement de régime en Iran",
+    "added_at": "2025-06-23T05:21:41.453Z"
+  },
+  {
+    "title": "Sept bombardiers B-2, 14 bombes GBU-57, des leurres: les détails de l'opération \"Midnight Hammer\" en Iran",
+    "added_at": "2025-06-23T06:21:56.247Z"
+  },
+  {
+    "title": "Un premier sacre pour Oklahoma City",
+    "added_at": "2025-06-23T06:35:02.895Z"
+  },
+  {
+    "title": "La fête de la musique a attiré près de 200'000 personnes dans la ville de Genève",
+    "added_at": "2025-06-23T07:07:03.683Z"
   }
 ]
