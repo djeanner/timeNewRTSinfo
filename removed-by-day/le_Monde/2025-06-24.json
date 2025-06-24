@@ -78,8 +78,9 @@
   {
     "title": "Les séries de la semaine : « Yellowjackets », « Nous les menteurs », « Smoke » et « The Waterfront »",
     "added_at": "2025-06-24T03:10:55.354Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-24T06:17:17.233Z",
+    "duration_minutes": 186,
+    "duration_str": "3h 6m"
   },
   {
     "title": "Energie et climat : le rejet annoncé de la proposition de loi « Gremillet » à l’issue d’un parcours chaotique à l’Assemblée",
@@ -172,9 +173,8 @@
   {
     "title": "Israël-Iran : Donald Trump s’autocongratule d’avoir obtenu un cessez-le-feu encore très incertain",
     "added_at": "2025-06-24T04:22:39.032Z",
-    "removed_at": "2025-06-24T05:53:11.798Z",
-    "duration_minutes": 91,
-    "duration_str": "1h 31m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Avec Cyril Hanouna et Anne-Sophie-Lapix, le Groupe M6 remet de « l’essence dans le moteur »",
@@ -217,8 +217,9 @@
   {
     "title": "En direct : Donald Trump annonce que le cessez-le-feu entre l’Iran et Israël est « à présent en vigueur »",
     "added_at": "2025-06-24T05:37:14.749Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-24T06:35:15.504Z",
+    "duration_minutes": 58,
+    "duration_str": "58m"
   },
   {
     "title": "Guerre en Ukraine : des frappes russes sur l’agglomération de Soumy font trois morts, dont un enfant",
@@ -289,5 +290,30 @@
     "removed_at": "2025-06-24T05:53:11.798Z",
     "duration_minutes": 2,
     "duration_str": "2m"
+  },
+  {
+    "title": "« L’Absent », de Marie Sizun : l’amour dans l’ombre",
+    "added_at": "2025-06-24T06:07:20.304Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Les séries de la semaine",
+    "added_at": "2025-06-24T06:17:17.233Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "En direct : Israël annonce avoir accepté la proposition américaine de « cessez-le-feu bilatéral » avec l’Iran",
+    "added_at": "2025-06-24T06:35:15.504Z",
+    "removed_at": "2025-06-24T06:41:15.767Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
+  },
+  {
+    "title": "En direct : Israël annonce avoir accepté la proposition américaine de « cessez-le-feu bilatéral » avec l’Iran",
+    "added_at": "2025-06-24T06:41:15.767Z",
+    "duration_minutes": 0,
+    "duration_str": ""
   }
 ]
