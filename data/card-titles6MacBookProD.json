@@ -13950,7 +13950,10 @@
   },
   {
     "title": "Trump says Israel and Iran have agreed to ceasefire",
-    "added_at": "2025-06-23T22:26:41.521Z"
+    "added_at": "2025-06-23T22:26:41.521Z",
+    "removed_at": "2025-06-24T00:06:51.697Z",
+    "duration_minutes": 100,
+    "duration_str": "1h 40m"
   },
   {
     "title": "Trump claims ceasefire reached between Israel and Iran",
@@ -13970,5 +13973,9 @@
   {
     "title": "Tehran attacks US base in Qatar, hours later Trump states Israel-Iran truce",
     "added_at": "2025-06-23T23:06:49.232Z"
+  },
+  {
+    "title": "Trump announces Israel-Iran truce after Iranian attack on US base in Qatar",
+    "added_at": "2025-06-24T00:06:51.697Z"
   }
 ]
