@@ -22376,7 +22376,10 @@
   },
   {
     "title": "Un attentat dans une église de Damas en Syrie fait au moins 22 morts",
-    "added_at": "2025-06-23T04:57:25.997Z"
+    "added_at": "2025-06-23T04:57:25.997Z",
+    "removed_at": "2025-06-24T17:58:48.068Z",
+    "duration_minutes": 2221,
+    "duration_str": "1d 13h 1m"
   },
   {
     "title": "Donald Trump s'interroge sur un possible changement de régime en Iran",
@@ -22934,5 +22937,23 @@
   {
     "title": "L'Etat français condamné après la mort d'un joggeur victime d'algues vertes en Bretagne",
     "added_at": "2025-06-24T17:34:39.170Z"
+  },
+  {
+    "title": "Le Canton de Vaud renégocie la convention pour la CGN",
+    "added_at": "2025-06-24T17:58:48.068Z",
+    "removed_at": "2025-06-24T18:26:50.584Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
+  },
+  {
+    "title": "Le Canton de Vaud renégocie avec la France la convention pour la CGN",
+    "added_at": "2025-06-24T18:26:50.584Z",
+    "removed_at": "2025-06-24T18:28:47.237Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Le Canton de Vaud doit renégocier avec la France la convention pour la CGN",
+    "added_at": "2025-06-24T18:28:47.237Z"
   }
 ]
