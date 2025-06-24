@@ -15963,7 +15963,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump annonce un cessez-le-feu entre Israël et l'Iran, la situation est confuse",
-    "added_at": "2025-06-24T03:55:08.104Z"
+    "added_at": "2025-06-24T03:55:08.104Z",
+    "removed_at": "2025-06-24T06:55:24.964Z",
+    "duration_minutes": 180,
+    "duration_str": "3h"
   },
   {
     "title": "monde:::Le fils du shah Reza Pahlavi se pose en alternative au guide suprême iranien",
@@ -15995,5 +15998,9 @@
   {
     "title": "monde:::Le fils du shah, Reza Pahlavi, se pose en alternative au guide suprême iranien",
     "added_at": "2025-06-24T06:17:16.887Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le gouvernement israélien dit avoir accepté un cessez-le-feu avec l'Iran",
+    "added_at": "2025-06-24T06:55:24.964Z"
   }
 ]
