@@ -14177,7 +14177,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Des frappes russes font  sept morts et des dizaines de blessés à Dnipro",
-    "added_at": "2025-06-24T13:38:28.647Z"
+    "added_at": "2025-06-24T13:38:28.647Z",
+    "removed_at": "2025-06-24T18:36:12.816Z",
+    "duration_minutes": 297,
+    "duration_str": "4h 57m"
   },
   {
     "title": "sciences:::Les premières images de l’Observatoire Vera C. Rubin montrent l’Univers comme vous ne l’avez jamais vu",
@@ -14231,7 +14234,10 @@
   },
   {
     "title": "culture:::«Köln 75 – Au rythme de Vera», Keith Jarrett et la fille de Cologne",
-    "added_at": "2025-06-24T17:24:32.625Z"
+    "added_at": "2025-06-24T17:24:32.625Z",
+    "removed_at": "2025-06-24T19:06:23.055Z",
+    "duration_minutes": 101,
+    "duration_str": "1h 41m"
   },
   {
     "title": "monde:::Un sommet de l’OTAN suspendu à l’imprévisible Donald Trump placé sous très haute sécurité",
@@ -14262,5 +14268,20 @@
   {
     "title": "sport:::Euro 2025: les 11 joueuses qui nous inspirent",
     "added_at": "2025-06-24T18:30:26.034Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Une frappe russe fait  17 morts et près de 300 blessés à Dnipro",
+    "added_at": "2025-06-24T18:36:12.816Z",
+    "removed_at": "2025-06-24T18:38:08.687Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Une frappe russe fait 17 morts et près de 300 blessés à Dnipro",
+    "added_at": "2025-06-24T18:38:08.687Z"
+  },
+  {
+    "title": "monde:::Que dit la très fragile trêve entre Tel-Aviv et Téhéran du programme nucléaire iranien?",
+    "added_at": "2025-06-24T18:43:48.021Z"
   }
 ]
