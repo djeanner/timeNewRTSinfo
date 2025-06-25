@@ -19512,7 +19512,10 @@
   },
   {
     "title": "Un municipal de Prilly suspendu avec effet immédiat",
-    "added_at": "2025-06-23T16:39:39.366Z"
+    "added_at": "2025-06-23T16:39:39.366Z",
+    "removed_at": "2025-06-25T19:42:40.590Z",
+    "duration_minutes": 3063,
+    "duration_str": "2d 3h 3m"
   },
   {
     "title": "eCop François, le visage de la prévention sur les réseaux sociaux",
@@ -19558,7 +19561,10 @@
   },
   {
     "title": "Un TGV percute un tracteur près de Genève, un ouvrier agricole blessé",
-    "added_at": "2025-06-23T17:38:10.773Z"
+    "added_at": "2025-06-23T17:38:10.773Z",
+    "removed_at": "2025-06-25T19:42:40.590Z",
+    "duration_minutes": 3004,
+    "duration_str": "2d 2h 4m"
   },
   {
     "title": "Le Qatar dit avoir intercepté avec succès des missiles iraniens visant une base américaine",
@@ -19732,7 +19738,10 @@
   },
   {
     "title": "Rachel Marks expose l’œuvre collective \"Planáō Germinatio\" au Forum Meyrin",
-    "added_at": "2025-06-24T10:28:09.459Z"
+    "added_at": "2025-06-24T10:28:09.459Z",
+    "removed_at": "2025-06-25T19:38:51.132Z",
+    "duration_minutes": 1990,
+    "duration_str": "1d 9h 10m"
   },
   {
     "title": "La Fête de la musique chahutée en France et marquée par de nombreux cas de piqûres de femmes",
@@ -19758,7 +19767,10 @@
   },
   {
     "title": "Comment les assurances suisses se préparent-elles à l’augmentation des coûts engendrés par les catastrophes naturelles?",
-    "added_at": "2025-06-24T11:39:53.849Z"
+    "added_at": "2025-06-24T11:39:53.849Z",
+    "removed_at": "2025-06-25T19:42:40.590Z",
+    "duration_minutes": 1922,
+    "duration_str": "1d 8h 2m"
   },
   {
     "title": "Donald Trump assure que le cessez-le-feu entre l'Iran et Israël est désormais entré en vigueur",
@@ -20208,5 +20220,13 @@
   {
     "title": "Duel insolite entre camion électrique et avion solaire sur le tarmac de Payerne",
     "added_at": "2025-06-25T17:43:46.490Z"
+  },
+  {
+    "title": "Pascal de Crousaz: Benjamin Netanyahu sort gagnant au Moyen-Orient, \"mais c’est mitigé\"",
+    "added_at": "2025-06-25T19:38:51.132Z"
+  },
+  {
+    "title": "Rassemblement des dirigeants de l’OTAN à La Haye aux Pays-Bas",
+    "added_at": "2025-06-25T19:42:40.590Z"
   }
 ]
