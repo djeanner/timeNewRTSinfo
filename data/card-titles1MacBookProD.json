@@ -22306,7 +22306,10 @@
   },
   {
     "title": "Un attentat dans une église de Damas en Syrie fait au moins 20 morts",
-    "added_at": "2025-06-22T19:34:02.837Z"
+    "added_at": "2025-06-22T19:34:02.837Z",
+    "removed_at": "2025-06-24T23:39:41.263Z",
+    "duration_minutes": 3125,
+    "duration_str": "2d 4h 5m"
   },
   {
     "title": "La fête de la musique attiré près de 200'000 personnes dans la ville de Genève",
@@ -23028,5 +23031,9 @@
   {
     "title": "L’AI songe à élever le seuil d’accès aux rentes à 30 ans",
     "added_at": "2025-06-24T22:41:31.995Z"
+  },
+  {
+    "title": "A Neuchâtel, le procès de l'homme qui a voulu immoler son ex-compagne et de ses complices",
+    "added_at": "2025-06-24T23:39:41.263Z"
   }
 ]
