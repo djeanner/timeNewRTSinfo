@@ -12069,7 +12069,10 @@
   },
   {
     "title": "suisse:::Les pilotes suisses s’entraînent en Italie, berceau des F-35 européens",
-    "added_at": "2025-06-09T12:53:49.233Z"
+    "added_at": "2025-06-09T12:53:49.233Z",
+    "removed_at": "2025-06-25T14:18:26.445Z",
+    "duration_minutes": 23124,
+    "duration_str": "16d 1h 24m"
   },
   {
     "title": "sciences:::«J’ai longtemps caché que j’avais des problèmes digestifs»: la dure réalité de la vie avec un syndrome de l’intestin irritable",
@@ -16259,7 +16262,10 @@
   },
   {
     "title": "sport:::Euro 2025: les 11 joueuses qui nous inspirent",
-    "added_at": "2025-06-24T18:30:47.909Z"
+    "added_at": "2025-06-24T18:30:47.909Z",
+    "removed_at": "2025-06-25T13:46:19.757Z",
+    "duration_minutes": 1155,
+    "duration_str": "19h 15m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Une frappe russe fait  17 morts et près de 300 blessés à Dnipro",
@@ -16320,7 +16326,10 @@
   },
   {
     "title": "culture:::«Ne Zha 2», arrivée sur les écrans du plus grand succès de l’histoire du cinéma d’animation",
-    "added_at": "2025-06-25T04:34:24.414Z"
+    "added_at": "2025-06-25T04:34:24.414Z",
+    "removed_at": "2025-06-25T14:00:24.992Z",
+    "duration_minutes": 566,
+    "duration_str": "9h 26m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les frappes américaines sur l’Iran n’ont pas détruit son programme nucléaire, selon un rapport classifié",
@@ -16370,11 +16379,17 @@
   },
   {
     "title": "monde:::En direct – Donald Trump insiste sur la destruction «totale» des sites nucléaires iraniens, Israël affirme qu’il est trop tôt pour évaluer les dommages",
-    "added_at": "2025-06-25T09:17:20.622Z"
+    "added_at": "2025-06-25T09:17:20.622Z",
+    "removed_at": "2025-06-25T14:10:23.388Z",
+    "duration_minutes": 293,
+    "duration_str": "4h 53m"
   },
   {
     "title": "monde:::En direct – Le Conseil fédéral durcit le statut S pour les Ukrainiens",
-    "added_at": "2025-06-25T09:53:23.004Z"
+    "added_at": "2025-06-25T09:53:23.004Z",
+    "removed_at": "2025-06-25T14:10:23.388Z",
+    "duration_minutes": 257,
+    "duration_str": "4h 17m"
   },
   {
     "title": "culture:::Eric Devanthéry: «Je suis fier d’avoir diversifié les publics et rempli les deux salles du Théâtre du Grütli»",
@@ -16382,7 +16397,10 @@
   },
   {
     "title": "economie:::Nestlé Waters (Suisse) condamné à verser 500 000 francs pour ses traitements illicites sur les eaux Henniez",
-    "added_at": "2025-06-25T10:35:35.266Z"
+    "added_at": "2025-06-25T10:35:35.266Z",
+    "removed_at": "2025-06-25T14:10:23.388Z",
+    "duration_minutes": 214,
+    "duration_str": "3h 34m"
   },
   {
     "title": "economie:::Grand Seiko, cette horlogerie japonaise «qui parle le même langage que les Suisses, mais utilise une autre grammaire»",
@@ -16398,10 +16416,48 @@
   },
   {
     "title": "economie:::L’avion de chasse du futur, symbole des divisions européennes sur la défense",
-    "added_at": "2025-06-25T12:17:57.178Z"
+    "added_at": "2025-06-25T12:17:57.178Z",
+    "removed_at": "2025-06-25T14:18:26.445Z",
+    "duration_minutes": 120,
+    "duration_str": "2h"
   },
   {
     "title": "suisse:::Le prix des F-35 achetés par la Suisse s’envole, mais le Conseil fédéral est réticent à articuler un chiffre",
     "added_at": "2025-06-25T13:32:10.306Z"
+  },
+  {
+    "title": "economie:::La fondation Sandoz garde la main sur son pôle horloger avec Hermès en premier partenaire",
+    "added_at": "2025-06-25T13:44:19.040Z",
+    "removed_at": "2025-06-25T14:10:23.388Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "sciences:::En Méditerranée, le mystère des raies diables de mer, à peine étudiées et déjà en danger",
+    "added_at": "2025-06-25T13:46:19.757Z"
+  },
+  {
+    "title": "economie:::Après le divorce tempétueux, Klaus Schwab et le WEF sur la voie de l’apaisement",
+    "added_at": "2025-06-25T14:00:24.992Z"
+  },
+  {
+    "title": "economie:::La Fondation Sandoz garde la main sur son pôle horloger avec Hermès en premier partenaire",
+    "added_at": "2025-06-25T14:10:23.388Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Le Conseil fédéral durcit le statut S pour les Ukrainiens",
+    "added_at": "2025-06-25T14:10:23.388Z"
+  },
+  {
+    "title": "economie:::Nestlé Waters Suisse condamnée à verser 500 000 francs pour ses traitements illicites des eaux Henniez",
+    "added_at": "2025-06-25T14:10:23.388Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump insiste sur la destruction «totale» des sites nucléaires iraniens, Israël affirme qu’il est trop tôt pour évaluer les dommages",
+    "added_at": "2025-06-25T14:10:23.388Z"
+  },
+  {
+    "title": "cyber:::Le Conseil fédéral favorable à un sommet sur l’IA à Genève en 2027",
+    "added_at": "2025-06-25T14:18:26.445Z"
   }
 ]
