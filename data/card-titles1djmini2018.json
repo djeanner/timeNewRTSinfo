@@ -19135,7 +19135,10 @@
   },
   {
     "title": "Un attentat dans une église de Damas en Syrie fait au moins 20 morts",
-    "added_at": "2025-06-22T19:34:24.352Z"
+    "added_at": "2025-06-22T19:34:24.352Z",
+    "removed_at": "2025-06-24T23:39:36.520Z",
+    "duration_minutes": 3125,
+    "duration_str": "2d 4h 5m"
   },
   {
     "title": "La fête de la musique attiré près de 200'000 personnes dans la ville de Genève",
@@ -19146,7 +19149,10 @@
   },
   {
     "title": "L'Iran menace les Etats-Unis de représailles, l'ONU met en garde contre un \"cycle sans issue\"",
-    "added_at": "2025-06-22T20:30:50.241Z"
+    "added_at": "2025-06-22T20:30:50.241Z",
+    "removed_at": "2025-06-25T00:41:44.767Z",
+    "duration_minutes": 3130,
+    "duration_str": "2d 4h 10m"
   },
   {
     "title": "Les réactions internationales suite aux frappes américaines",
@@ -19324,7 +19330,10 @@
   },
   {
     "title": "Une momie pré-inca datant d'il y a 1000 ans découverte à Lima",
-    "added_at": "2025-06-23T10:17:14.964Z"
+    "added_at": "2025-06-23T10:17:14.964Z",
+    "removed_at": "2025-06-25T01:32:34.116Z",
+    "duration_minutes": 2355,
+    "duration_str": "1d 15h 15m"
   },
   {
     "title": "L'armée israélienne frappe le centre de Téhéran, le QG des Gardiens de la Révolution visé",
@@ -19864,5 +19873,13 @@
   {
     "title": "L’AI songe à élever le seuil d’accès aux rentes à 30 ans",
     "added_at": "2025-06-24T22:41:11.692Z"
+  },
+  {
+    "title": "A Neuchâtel, le procès de l'homme qui a voulu immoler son ex-compagne et de ses complices",
+    "added_at": "2025-06-24T23:39:36.520Z"
+  },
+  {
+    "title": "Le taux de vaccination des enfants stagne dans plusieurs pays, la Suisse parmi les bons élèves",
+    "added_at": "2025-06-25T01:32:34.116Z"
   }
 ]
