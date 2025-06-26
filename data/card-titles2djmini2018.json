@@ -14621,7 +14621,10 @@
   },
   {
     "title": "suisse:::Le Conseil fédéral maintient ses coupes budgétaires, après quelques concessions aux cantons",
-    "added_at": "2025-06-25T17:06:01.999Z"
+    "added_at": "2025-06-25T17:06:01.999Z",
+    "removed_at": "2025-06-26T08:52:15.917Z",
+    "duration_minutes": 946,
+    "duration_str": "15h 46m"
   },
   {
     "title": "monde:::Mark Rutte a réussi son pari: Donald Trump n’a pas saboté le sommet de l’OTAN",
@@ -14639,7 +14642,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump annonce des discussions avec l'Iran la semaine prochaine",
-    "added_at": "2025-06-25T18:27:13.285Z"
+    "added_at": "2025-06-25T18:27:13.285Z",
+    "removed_at": "2025-06-26T08:50:22.387Z",
+    "duration_minutes": 863,
+    "duration_str": "14h 23m"
   },
   {
     "title": "suisse:::Signalement aux autorités, élèves retirés: des accusations graves visent une école Montessori à Vevey",
@@ -14710,5 +14716,9 @@
   {
     "title": "culture:::Alain Huck exposé à Lausanne, trente années entre ombre et lumière, dans l’intime et dans le monde",
     "added_at": "2025-06-26T06:59:16.587Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’effet des frappes sur le nucléaire iranien crispe les relations entre Donald Trump et le Congrès",
+    "added_at": "2025-06-26T08:50:22.387Z"
   }
 ]
