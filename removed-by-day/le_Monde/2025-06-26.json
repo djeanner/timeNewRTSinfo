@@ -253,8 +253,9 @@
   {
     "title": "Au Grand Palais, le Centre Pompidou célèbre le trio artistique formé par Niki de Saint Phalle, Jean Tinguely et Pontus Hulten",
     "added_at": "2025-06-26T05:49:33.617Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-06-26T07:55:42.419Z",
+    "duration_minutes": 126,
+    "duration_str": "2h 6m"
   },
   {
     "title": "Voyage à l’étranger : où changer des devises ?",
@@ -394,9 +395,8 @@
   {
     "title": "Orages : les images de la nuit de mercredi à jeudi en France",
     "added_at": "2025-06-26T08:12:38.141Z",
-    "removed_at": "2025-06-26T09:14:55.680Z",
-    "duration_minutes": 62,
-    "duration_str": "1h 2m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Iran, Gaza, Ukraine… Pour Emmanuel Macron, une croisade diplomatique semée d’écueils",
@@ -445,6 +445,12 @@
   {
     "title": "Orages : des dégâts partout en France, jusqu’à l’Assemblée nationale",
     "added_at": "2025-06-26T09:14:55.680Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Le stradivarius des Mendelssohn, volé sous les nazis, sort de l’ombre",
+    "added_at": "2025-06-26T09:33:05.194Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
