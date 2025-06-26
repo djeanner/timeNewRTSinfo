@@ -22907,7 +22907,10 @@
   },
   {
     "title": "Travail.Suisse propose 19 mesures pour moderniser le travail à temps partiel",
-    "added_at": "2025-06-24T09:35:34.544Z"
+    "added_at": "2025-06-24T09:35:34.544Z",
+    "removed_at": "2025-06-26T07:24:31.681Z",
+    "duration_minutes": 2748,
+    "duration_str": "1d 21h 48m"
   },
   {
     "title": "L'Iran et Israël s'accusent mutuellement d'avoir violé le cessez-le-feu et restent en alerte",
@@ -23031,7 +23034,10 @@
   },
   {
     "title": "La route entre Champsec et Lourtier devrait rouvrir la semaine prochaine",
-    "added_at": "2025-06-24T13:16:03.718Z"
+    "added_at": "2025-06-24T13:16:03.718Z",
+    "removed_at": "2025-06-26T07:24:31.681Z",
+    "duration_minutes": 2528,
+    "duration_str": "1d 18h 8m"
   },
   {
     "title": "Que faire si on découvre un vestige archéologique?",
@@ -23065,7 +23071,10 @@
   },
   {
     "title": "Le bâtiment de l'hôpital pédiatrique de Zurich est un gouffre en frais d'exploitation",
-    "added_at": "2025-06-24T14:14:16.725Z"
+    "added_at": "2025-06-24T14:14:16.725Z",
+    "removed_at": "2025-06-26T07:24:31.681Z",
+    "duration_minutes": 2470,
+    "duration_str": "1d 17h 10m"
   },
   {
     "title": "Les dessins et illustrations féroces du peintre Félix Vallotton réunis dans un ouvrage",
@@ -23516,10 +23525,17 @@
   },
   {
     "title": "Deux morts et quatre blessés graves en France après de violents orages",
-    "added_at": "2025-06-26T06:22:25.006Z"
+    "added_at": "2025-06-26T06:22:25.006Z",
+    "removed_at": "2025-06-26T07:10:34.263Z",
+    "duration_minutes": 48,
+    "duration_str": "48m"
   },
   {
     "title": "Un léger bénéfice et un développement qui se poursuit pour l'Hôpital du Jura",
     "added_at": "2025-06-26T06:38:23.205Z"
+  },
+  {
+    "title": "Deux morts et un blessé grave en France après de violents orages",
+    "added_at": "2025-06-26T07:10:34.263Z"
   }
 ]
