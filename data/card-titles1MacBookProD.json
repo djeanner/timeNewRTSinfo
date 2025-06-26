@@ -23358,7 +23358,10 @@
   },
   {
     "title": "Baignade interdite dans le Rhône à Genève à cause d'une pollution",
-    "added_at": "2025-06-25T08:43:02.988Z"
+    "added_at": "2025-06-25T08:43:02.988Z",
+    "removed_at": "2025-06-26T23:49:51.764Z",
+    "duration_minutes": 2346,
+    "duration_str": "1d 15h 6m"
   },
   {
     "title": "Genève présente une vaste enquête sur les violences sexistes et sexuelles",
@@ -23887,5 +23890,9 @@
   {
     "title": "La Suisse cartonne et se rassure à six jours de \"son\" tournoi",
     "added_at": "2025-06-26T22:31:09.668Z"
+  },
+  {
+    "title": "L'invité de La Matinale (vidéo) - Serge Gaillard, auteur du rapport sur les mesures d'économies de la Confédération",
+    "added_at": "2025-06-26T23:49:51.764Z"
   }
 ]
