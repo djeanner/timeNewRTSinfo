@@ -22674,7 +22674,10 @@
   },
   {
     "title": "L'armée a commencé ses opérations de pontonnage dans le Val de Bagnes",
-    "added_at": "2025-06-23T15:07:53.282Z"
+    "added_at": "2025-06-23T15:07:53.282Z",
+    "removed_at": "2025-06-25T23:43:10.890Z",
+    "duration_minutes": 3395,
+    "duration_str": "2d 8h 35m"
   },
   {
     "title": "Un TGV percute un tracteur près de Genève, l'ouvrier agricole blessé",
@@ -23416,5 +23419,9 @@
   {
     "title": "Seuls les Ukrainiens de régions directement touchées par le conflit pourront désormais obtenir le statut S en Suisse",
     "added_at": "2025-06-25T22:45:00.651Z"
+  },
+  {
+    "title": "Selon une fuite du Pentagone, les frappes américaines en Iran n'ont pas totalement détruit les installations nucléaires",
+    "added_at": "2025-06-25T23:43:10.890Z"
   }
 ]

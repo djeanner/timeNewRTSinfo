@@ -14804,7 +14804,10 @@
   },
   {
     "title": "Israeli forces slaughter dozens in Gaza after 7 troops killed",
-    "added_at": "2025-06-25T21:00:19.026Z"
+    "added_at": "2025-06-25T21:00:19.026Z",
+    "removed_at": "2025-06-26T00:07:12.529Z",
+    "duration_minutes": 186,
+    "duration_str": "3h 6m"
   },
   {
     "title": "Iran moves to punish ‘spying’ as it proclaims victory over Israel, US",
@@ -14842,5 +14845,9 @@
   {
     "title": "US sanctions Mexican banks, alleging connections to cartel money laundering",
     "added_at": "2025-06-25T23:29:02.781Z"
+  },
+  {
+    "title": "Israel kills more than 80 in Gaza; 3 killed in attack by Israeli settlers",
+    "added_at": "2025-06-26T00:07:12.529Z"
   }
 ]
