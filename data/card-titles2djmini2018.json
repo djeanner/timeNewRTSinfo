@@ -14583,7 +14583,10 @@
   },
   {
     "title": "monde:::«Nous voulons tous partir, personne ne nous protège»: avec les chrétiens de Syrie qui réclament des comptes",
-    "added_at": "2025-06-25T14:48:22.257Z"
+    "added_at": "2025-06-25T14:48:22.257Z",
+    "removed_at": "2025-06-26T17:04:01.675Z",
+    "duration_minutes": 1575,
+    "duration_str": "1d 2h 15m"
   },
   {
     "title": "suisse:::Le prix des F-35 achetés par la Suisse s’envole, mais le Conseil fédéral maintient sa position",
@@ -14616,10 +14619,7 @@
   },
   {
     "title": "suisse:::Genève va lancer le chantier de son nouveau tram transfrontalier, «vrai changement» en matière de mobilité",
-    "added_at": "2025-06-25T16:05:44.785Z",
-    "removed_at": "2025-06-26T12:12:04.509Z",
-    "duration_minutes": 1206,
-    "duration_str": "20h 6m"
+    "added_at": "2025-06-25T16:05:44.785Z"
   },
   {
     "title": "culture:::Série: Avec «The Waterfront», Kevin Williamson goûte au polar familial",
@@ -14676,15 +14676,24 @@
   },
   {
     "title": "suisse:::Ambiance à Genève: des juges se révoltent à l’idée d’une cohabitation avec le Ministère public",
-    "added_at": "2025-06-26T04:06:06.797Z"
+    "added_at": "2025-06-26T04:06:06.797Z",
+    "removed_at": "2025-06-26T16:13:12.614Z",
+    "duration_minutes": 727,
+    "duration_str": "12h 7m"
   },
   {
     "title": "sport:::Direction les Los Angeles Clippers! Le pari réussi de Yanic Konan Niederhauser qui rejoint le sommet du basket mondial",
-    "added_at": "2025-06-26T04:28:43.140Z"
+    "added_at": "2025-06-26T04:28:43.140Z",
+    "removed_at": "2025-06-26T16:43:21.754Z",
+    "duration_minutes": 734,
+    "duration_str": "12h 14m"
   },
   {
     "title": "cyber:::Les ingénieurs stars de l’intelligence artificielle se font payer des sommes qui dépassent l’entendement",
-    "added_at": "2025-06-26T04:32:25.911Z"
+    "added_at": "2025-06-26T04:32:25.911Z",
+    "removed_at": "2025-06-26T15:29:58.603Z",
+    "duration_minutes": 657,
+    "duration_str": "10h 57m"
   },
   {
     "title": "sport:::Euro 2025 - Les grands événements sportifs profitent-ils à l’économie?",
@@ -14692,7 +14701,10 @@
   },
   {
     "title": "suisse:::Un vaste plan pour améliorer l’employabilité des Genevois",
-    "added_at": "2025-06-26T05:08:12.632Z"
+    "added_at": "2025-06-26T05:08:12.632Z",
+    "removed_at": "2025-06-26T15:52:33.068Z",
+    "duration_minutes": 644,
+    "duration_str": "10h 44m"
   },
   {
     "title": "monde:::La «Guerre des douze jours» contre l’Iran, une guerre de religion?",
@@ -14746,7 +14758,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’effet des frappes sur le nucléaire iranien crispe les relations entre Donald Trump et le Congrès",
-    "added_at": "2025-06-26T08:50:22.387Z"
+    "added_at": "2025-06-26T08:50:22.387Z",
+    "removed_at": "2025-06-26T16:01:55.247Z",
+    "duration_minutes": 431,
+    "duration_str": "7h 11m"
   },
   {
     "title": "economie:::En Allemagne, plusieurs projets de méga-usines soutenus par l’Etat ont du plomb dans l’aile",
@@ -14781,6 +14796,61 @@
   },
   {
     "title": "suisse:::En images – La «course d’école» du Conseil fédéral en Suisse orientale",
-    "added_at": "2025-06-26T15:07:15.769Z"
+    "added_at": "2025-06-26T15:07:15.769Z",
+    "removed_at": "2025-06-26T17:19:03.453Z",
+    "duration_minutes": 131,
+    "duration_str": "2h 11m"
+  },
+  {
+    "title": "suisse:::Le Jura retient son souffle dans l’espoir de millions fédéraux pour Moutier",
+    "added_at": "2025-06-26T15:52:33.068Z",
+    "removed_at": "2025-06-26T16:20:47.505Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
+  },
+  {
+    "title": "suisse:::Moment d’histoire au parlement, qui entérine le transfert de Moutier",
+    "added_at": "2025-06-26T15:52:33.068Z",
+    "removed_at": "2025-06-26T16:13:12.614Z",
+    "duration_minutes": 20,
+    "duration_str": "20m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’Iran se rapproche d’une rupture avec sa coopération avec l’AIEA",
+    "added_at": "2025-06-26T16:01:55.247Z",
+    "removed_at": "2025-06-26T17:22:52.429Z",
+    "duration_minutes": 80,
+    "duration_str": "1h 20m"
+  },
+  {
+    "title": "suisse:::Le Grand Genève en opération séduction à Berne pour financer sa mobilité",
+    "added_at": "2025-06-26T16:13:12.614Z"
+  },
+  {
+    "title": "suisse:::Le Jura retient son souffle dans l’espoir d’obtenir des millions fédéraux pour Moutier",
+    "added_at": "2025-06-26T16:20:47.505Z"
+  },
+  {
+    "title": "cyber:::D’un coup, Meta s’empare à Zurich de tous les nouveaux ingénieurs stars d’OpenAI",
+    "added_at": "2025-06-26T16:43:21.754Z"
+  },
+  {
+    "title": "economie:::Face aux horlogers, la cheffe du Seco s’est montrée confiante sur l’avancée d’un accord de principe avec les Etats-Unis",
+    "added_at": "2025-06-26T17:04:01.675Z"
+  },
+  {
+    "title": "suisse:::Le corps humain découvert à Blatten est bien celui du berger de 64 ans disparu",
+    "added_at": "2025-06-26T17:19:03.453Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’Iran se rapproche d’une rupture l’Agence internationale de l’énergie atomique",
+    "added_at": "2025-06-26T17:22:52.429Z",
+    "removed_at": "2025-06-26T17:24:42.407Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’Iran coupe les ponts avec l’Agence internationale de l’énergie atomique",
+    "added_at": "2025-06-26T17:24:42.407Z"
   }
 ]
