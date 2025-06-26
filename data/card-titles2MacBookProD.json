@@ -16566,7 +16566,10 @@
   },
   {
     "title": "suisse:::Genève va lancer le chantier de son nouveau tram transfrontalier, «vrai changement» en matière de mobilité",
-    "added_at": "2025-06-25T16:04:52.103Z"
+    "added_at": "2025-06-25T16:04:52.103Z",
+    "removed_at": "2025-06-26T12:12:08.513Z",
+    "duration_minutes": 1207,
+    "duration_str": "20h 7m"
   },
   {
     "title": "culture:::Série: Avec «The Waterfront», Kevin Williamson goûte au polar familial",
@@ -16632,10 +16635,7 @@
   },
   {
     "title": "sport:::Euro 2025 - Les grands événements sportifs profitent-ils à l’économie?",
-    "added_at": "2025-06-26T05:00:13.109Z",
-    "removed_at": "2025-06-26T11:29:53.332Z",
-    "duration_minutes": 389,
-    "duration_str": "6h 29m"
+    "added_at": "2025-06-26T05:00:13.109Z"
   },
   {
     "title": "suisse:::Un vaste plan pour améliorer l’employabilité des Genevois",
@@ -16647,11 +16647,17 @@
   },
   {
     "title": "monde:::Le succès du progressiste Zohran Mamdani à New York provoque un séisme dans le paysage politique américain",
-    "added_at": "2025-06-26T06:08:22.611Z"
+    "added_at": "2025-06-26T06:08:22.611Z",
+    "removed_at": "2025-06-26T12:16:06.365Z",
+    "duration_minutes": 367,
+    "duration_str": "6h 7m"
   },
   {
     "title": "suisse:::A son tour, le Valais interdit le téléphone portable à l’école",
-    "added_at": "2025-06-26T06:16:24.655Z"
+    "added_at": "2025-06-26T06:16:24.655Z",
+    "removed_at": "2025-06-26T12:12:08.513Z",
+    "duration_minutes": 355,
+    "duration_str": "5h 55m"
   },
   {
     "title": "sport:::Le Football et les Femmes: L’Euro 2025 pour chasser certains mauvais souvenirs de 2008",
@@ -16693,5 +16699,13 @@
   {
     "title": "suisse:::Dangers naturels: «Les montants en jeu ont fortement augmenté ces dernières années», notent les établissements cantonaux d’assurance",
     "added_at": "2025-06-26T11:29:53.332Z"
+  },
+  {
+    "title": "suisse:::Les politiques de La Chaux-de-Fonds se déchirent",
+    "added_at": "2025-06-26T12:12:08.513Z"
+  },
+  {
+    "title": "economie:::La Vaudoise Aurélie Biehler veut dépoussiérer les services funéraires américains",
+    "added_at": "2025-06-26T12:16:06.365Z"
   }
 ]
