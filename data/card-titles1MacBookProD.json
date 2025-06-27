@@ -23259,7 +23259,10 @@
   },
   {
     "title": "Des restes humains ont été découverts à Blatten, l'identification est en cours",
-    "added_at": "2025-06-24T20:55:15.955Z"
+    "added_at": "2025-06-24T20:55:15.955Z",
+    "removed_at": "2025-06-27T01:46:39.059Z",
+    "duration_minutes": 3171,
+    "duration_str": "2d 4h 51m"
   },
   {
     "title": "Le programme nucléaire iranien, une histoire aux racines... américaines",
@@ -23928,6 +23931,13 @@
   },
   {
     "title": "Lalo Schifrin, compositeur de la musique du film \"Mission impossible\", est décédé",
-    "added_at": "2025-06-27T01:38:27.363Z"
+    "added_at": "2025-06-27T01:38:27.363Z",
+    "removed_at": "2025-06-27T01:44:36.305Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
+  },
+  {
+    "title": "Lalo Schifrin, compositeur de la musique des films \"Mission impossible\", est décédé",
+    "added_at": "2025-06-27T01:44:36.305Z"
   }
 ]
