@@ -23565,7 +23565,10 @@
   },
   {
     "title": "Horaires des CFF modifiés entre Lausanne et Genève durant les week-ends d'été à cause de travaux",
-    "added_at": "2025-06-25T15:36:52.743Z"
+    "added_at": "2025-06-25T15:36:52.743Z",
+    "removed_at": "2025-06-27T06:35:58.619Z",
+    "duration_minutes": 2339,
+    "duration_str": "1d 14h 59m"
   },
   {
     "title": "\"On attend le deuxième mois de juin le plus chaud depuis le début des mesures\"",
@@ -23960,5 +23963,9 @@
   {
     "title": "Le braqueur à l'origine du \"syndrome de Stockholm\" est décédé",
     "added_at": "2025-06-27T06:11:48.236Z"
+  },
+  {
+    "title": "Genève interdit à son tour le téléphone portable au Cycle d'orientation",
+    "added_at": "2025-06-27T06:35:58.619Z"
   }
 ]
