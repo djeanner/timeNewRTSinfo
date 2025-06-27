@@ -6448,10 +6448,7 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:00:57.917Z",
-    "removed_at": "2025-06-21T14:36:25.246Z",
-    "duration_minutes": 42995,
-    "duration_str": "29d 20h 35m"
+    "added_at": "2025-05-22T18:00:57.917Z"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -14611,7 +14608,10 @@
   },
   {
     "title": "sport:::L’équipe de Suisse féminine en quête de certitudes face à la République tchèque",
-    "added_at": "2025-06-25T15:39:16.708Z"
+    "added_at": "2025-06-25T15:39:16.708Z",
+    "removed_at": "2025-06-27T07:34:29.843Z",
+    "duration_minutes": 2395,
+    "duration_str": "1d 15h 55m"
   },
   {
     "title": "monde:::La bombe atomique, un instrument de survie pour le régime honni des mollahs",
@@ -14661,7 +14661,10 @@
   },
   {
     "title": "suisse:::Signalement aux autorités, élèves retirés: des accusations graves visent une école Montessori à Vevey",
-    "added_at": "2025-06-25T18:30:57.942Z"
+    "added_at": "2025-06-25T18:30:57.942Z",
+    "removed_at": "2025-06-27T06:02:18.465Z",
+    "duration_minutes": 2131,
+    "duration_str": "1d 11h 31m"
   },
   {
     "title": "culture:::Dans «Le Messager du Nord», Ulf Peter Hallberg explore la façon dont l’art et la vie sont inséparables",
@@ -14693,7 +14696,10 @@
   },
   {
     "title": "cyber:::Les ingénieurs stars de l’intelligence artificielle se font payer des sommes qui dépassent l’entendement",
-    "added_at": "2025-06-26T04:32:25.911Z"
+    "added_at": "2025-06-26T04:32:25.911Z",
+    "removed_at": "2025-06-27T06:02:18.465Z",
+    "duration_minutes": 1529,
+    "duration_str": "1d 1h 29m"
   },
   {
     "title": "sport:::Euro 2025 - Les grands événements sportifs profitent-ils à l’économie?",
@@ -14885,10 +14891,7 @@
   },
   {
     "title": "monde:::Anders Fogh Rasmussen: «Le sommet de l’OTAN me rend plus optimiste»",
-    "added_at": "2025-06-26T18:19:30.306Z",
-    "removed_at": "2025-06-27T03:16:34.283Z",
-    "duration_minutes": 537,
-    "duration_str": "8h 57m"
+    "added_at": "2025-06-26T18:19:30.306Z"
   },
   {
     "title": "sport:::Facilement victorieuse de la République tchèque, la Nati engrange une certitude: la Suisse sera derrière elle à l’Euro",
@@ -14904,7 +14907,10 @@
   },
   {
     "title": "culture:::Avec «Une Fratrie», Brigitte Reimann propose une tragicomédie familiale entre les deux Allemagnes",
-    "added_at": "2025-06-26T19:31:00.044Z"
+    "added_at": "2025-06-26T19:31:00.044Z",
+    "removed_at": "2025-06-27T05:52:54.026Z",
+    "duration_minutes": 621,
+    "duration_str": "10h 21m"
   },
   {
     "title": "monde:::Moyen-Orient – L’Iran coupe les ponts avec l’Agence internationale de l’énergie atomique",
@@ -14922,11 +14928,17 @@
   },
   {
     "title": "monde:::Guerre en Ukraine – Accord de l'UE pour prolonger les sanctions contre la Russie",
-    "added_at": "2025-06-26T23:56:41.389Z"
+    "added_at": "2025-06-26T23:56:41.389Z",
+    "removed_at": "2025-06-27T06:32:25.759Z",
+    "duration_minutes": 395,
+    "duration_str": "6h 35m"
   },
   {
     "title": "monde:::Moyen-Orient – L’Iran qualifie «d’importants» les dégâts sur les sites nucléaires",
-    "added_at": "2025-06-27T00:11:45.667Z"
+    "added_at": "2025-06-27T00:11:45.667Z",
+    "removed_at": "2025-06-27T06:30:32.109Z",
+    "duration_minutes": 378,
+    "duration_str": "6h 18m"
   },
   {
     "title": "economie:::La date butoir de juillet pour les droits de douane pourrait être repoussée",
@@ -14968,5 +14980,21 @@
   {
     "title": "economie:::L’initiative durable qui sidère les milieux durables",
     "added_at": "2025-06-27T05:18:52.995Z"
+  },
+  {
+    "title": "suisse:::«On ne trouve pas de place en crèche ici. En Ukraine, ce serait inimaginable»: pour les Ukrainiennes, la difficulté de trouver un travail",
+    "added_at": "2025-06-27T06:02:18.465Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’Iran qualifie «d’importants» les dégâts sur les sites nucléaires",
+    "added_at": "2025-06-27T06:30:32.109Z"
+  },
+  {
+    "title": "monde:::En direct – Les attaques «incessantes» de drones russes représentent l’une des menaces les plus mortelles pour les civils",
+    "added_at": "2025-06-27T06:32:25.759Z"
+  },
+  {
+    "title": "sciences:::Vagues de chaleur: pourquoi les femmes enceintes sont particulièrement à risque de complications",
+    "added_at": "2025-06-27T07:34:29.843Z"
   }
 ]
