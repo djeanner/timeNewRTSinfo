@@ -8226,10 +8226,7 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z",
-    "removed_at": "2025-06-21T14:36:25.161Z",
-    "duration_minutes": 42994,
-    "duration_str": "29d 20h 34m"
+    "added_at": "2025-05-22T18:01:52.008Z"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -16614,7 +16611,10 @@
   },
   {
     "title": "suisse:::Signalement aux autorités, élèves retirés: des accusations graves visent une école Montessori à Vevey",
-    "added_at": "2025-06-25T18:31:34.012Z"
+    "added_at": "2025-06-25T18:31:34.012Z",
+    "removed_at": "2025-06-27T06:03:44.799Z",
+    "duration_minutes": 2132,
+    "duration_str": "1d 11h 32m"
   },
   {
     "title": "culture:::Dans «Le Messager du Nord», Ulf Peter Hallberg explore la façon dont l’art et la vie sont inséparables",
@@ -16646,7 +16646,10 @@
   },
   {
     "title": "cyber:::Les ingénieurs stars de l’intelligence artificielle se font payer des sommes qui dépassent l’entendement",
-    "added_at": "2025-06-26T04:32:00.753Z"
+    "added_at": "2025-06-26T04:32:00.753Z",
+    "removed_at": "2025-06-27T06:03:44.799Z",
+    "duration_minutes": 1531,
+    "duration_str": "1d 1h 31m"
   },
   {
     "title": "sport:::Euro 2025 - Les grands événements sportifs profitent-ils à l’économie?",
@@ -16838,10 +16841,7 @@
   },
   {
     "title": "monde:::Anders Fogh Rasmussen: «Le sommet de l’OTAN me rend plus optimiste»",
-    "added_at": "2025-06-26T18:19:57.537Z",
-    "removed_at": "2025-06-27T03:16:56.171Z",
-    "duration_minutes": 536,
-    "duration_str": "8h 56m"
+    "added_at": "2025-06-26T18:19:57.537Z"
   },
   {
     "title": "sport:::Facilement victorieuse de la République tchèque, la Nati engrange une certitude: la Suisse sera derrière elle à l’Euro",
@@ -16857,7 +16857,10 @@
   },
   {
     "title": "culture:::Avec «Une Fratrie», Brigitte Reimann propose une tragicomédie familiale entre les deux Allemagnes",
-    "added_at": "2025-06-26T19:30:19.839Z"
+    "added_at": "2025-06-26T19:30:19.839Z",
+    "removed_at": "2025-06-27T05:51:42.664Z",
+    "duration_minutes": 621,
+    "duration_str": "10h 21m"
   },
   {
     "title": "monde:::Moyen-Orient – L’Iran coupe les ponts avec l’Agence internationale de l’énergie atomique",
@@ -16921,5 +16924,9 @@
   {
     "title": "economie:::L’initiative durable qui sidère les milieux durables",
     "added_at": "2025-06-27T05:19:26.749Z"
+  },
+  {
+    "title": "suisse:::«On ne trouve pas de place en crèche ici. En Ukraine, ce serait inimaginable»: pour les Ukrainiennes, la difficulté de trouver un travail",
+    "added_at": "2025-06-27T06:03:44.799Z"
   }
 ]
