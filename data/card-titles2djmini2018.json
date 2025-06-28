@@ -15030,7 +15030,10 @@
   },
   {
     "title": "monde:::En direct – Les attaques «incessantes» de drones russes représentent l’une des menaces les plus mortelles pour les civils",
-    "added_at": "2025-06-27T06:32:25.759Z"
+    "added_at": "2025-06-27T06:32:25.759Z",
+    "removed_at": "2025-06-28T07:41:49.535Z",
+    "duration_minutes": 1509,
+    "duration_str": "1d 1h 9m"
   },
   {
     "title": "sciences:::Vagues de chaleur: pourquoi les femmes enceintes sont particulièrement à risque de complications",
@@ -15226,7 +15229,10 @@
   },
   {
     "title": "culture:::Le Jukebox de juin 2025: Karol G, Addison Rae, BC Camplight...",
-    "added_at": "2025-06-27T19:32:27.919Z"
+    "added_at": "2025-06-27T19:32:27.919Z",
+    "removed_at": "2025-06-28T09:25:25.822Z",
+    "duration_minutes": 832,
+    "duration_str": "13h 52m"
   },
   {
     "title": "monde:::Moyen-Orient – Des soldats israéliens auraient sciemment reçu l’ordre de tirer sur des Gazaouis attendant l’aide humanitaire",
@@ -15237,7 +15243,10 @@
   },
   {
     "title": "suisse:::Dans le Jura, socialistes et verts adoubent leurs candidats au Gouvernement, non sans débat au PS",
-    "added_at": "2025-06-27T20:25:20.902Z"
+    "added_at": "2025-06-27T20:25:20.902Z",
+    "removed_at": "2025-06-28T07:30:30.968Z",
+    "duration_minutes": 665,
+    "duration_str": "11h 5m"
   },
   {
     "title": "suisse:::L’été ferroviaire des Romands sera un peu plus compliqué que prévu",
@@ -15254,5 +15263,20 @@
   {
     "title": "culture:::Frédéric Maire: «Jacqueline Veuve a été une chantre de l’égalité»",
     "added_at": "2025-06-28T06:33:54.151Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Un frappe russe sur Odessa fait deux morts et 14 blessés",
+    "added_at": "2025-06-28T07:41:49.535Z",
+    "removed_at": "2025-06-28T09:27:15.285Z",
+    "duration_minutes": 105,
+    "duration_str": "1h 45m"
+  },
+  {
+    "title": "monde:::Au moins 16 soldats ont été tués dans un attentat-suicide au Pakistan",
+    "added_at": "2025-06-28T09:25:25.822Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Un frappe russe sur Odessa fait deux morts et 14 blessés",
+    "added_at": "2025-06-28T09:27:15.285Z"
   }
 ]
