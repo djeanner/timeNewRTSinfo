@@ -15269,7 +15269,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump assure qu’un cessez-le-feu à Gaza est «proche»",
-    "added_at": "2025-06-28T05:29:50.581Z"
+    "added_at": "2025-06-28T05:29:50.581Z",
+    "removed_at": "2025-06-28T19:43:44.733Z",
+    "duration_minutes": 853,
+    "duration_str": "14h 13m"
   },
   {
     "title": "sport:::Où les faire jouer toutes? Les défis d’une Suisse à 80 000 footballeuses",
@@ -15298,7 +15301,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Un frappe russe sur Odessa fait deux morts et 14 blessés",
-    "added_at": "2025-06-28T09:27:15.285Z"
+    "added_at": "2025-06-28T09:27:15.285Z",
+    "removed_at": "2025-06-28T19:45:38.157Z",
+    "duration_minutes": 618,
+    "duration_str": "10h 18m"
   },
   {
     "title": "suisse:::Paquet d’accords avec l’UE: «On a atteint l’optimum dans ces négociations», estime Alexandre Fasel",
@@ -15343,10 +15349,29 @@
   },
   {
     "title": "suisse:::Le PLR veut limiter la croissance du personnel de la Confédération",
-    "added_at": "2025-06-28T16:05:04.144Z"
+    "added_at": "2025-06-28T16:05:04.144Z",
+    "removed_at": "2025-06-28T19:11:45.436Z",
+    "duration_minutes": 186,
+    "duration_str": "3h 6m"
   },
   {
     "title": "sport:::De l’exploit à la déroute, les possibilités d’une équipe de Suisse sous pression",
     "added_at": "2025-06-28T17:11:04.956Z"
+  },
+  {
+    "title": "suisse:::La vague de chaleur s'étend sur toute la Suisse",
+    "added_at": "2025-06-28T19:11:45.436Z"
+  },
+  {
+    "title": "culture:::Le cinéma cherche sa sortie de secours climatique",
+    "added_at": "2025-06-28T19:41:55.097Z"
+  },
+  {
+    "title": "monde:::Donald Trump assure qu’un cessez-le-feu à Gaza est «proche»",
+    "added_at": "2025-06-28T19:43:44.733Z"
+  },
+  {
+    "title": "monde:::Un frappe russe sur Odessa fait deux morts et 14 blessés",
+    "added_at": "2025-06-28T19:45:38.157Z"
   }
 ]
