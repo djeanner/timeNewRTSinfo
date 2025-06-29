@@ -15350,14 +15350,17 @@
   },
   {
     "title": "culture:::Les Editions Zoé fêtent 50 ans de littérature: retour sur une aventure hors-norme, d’un garage genevois aux succès internationaux",
-    "added_at": "2025-06-28T13:39:57.678Z"
+    "added_at": "2025-06-28T13:39:57.678Z",
+    "removed_at": "2025-06-29T08:23:28.432Z",
+    "duration_minutes": 1123,
+    "duration_str": "18h 43m"
   },
   {
     "title": "culture:::Lyna Khoudri, dans l’enfer de Kaboul",
     "added_at": "2025-06-28T15:59:25.159Z",
-    "removed_at": "2025-06-29T06:54:50.248Z",
-    "duration_minutes": 895,
-    "duration_str": "14h 55m"
+    "removed_at": "2025-06-29T08:29:07.435Z",
+    "duration_minutes": 989,
+    "duration_str": "16h 29m"
   },
   {
     "title": "suisse:::Le PLR veut limiter la croissance du personnel de la Confédération",
@@ -15376,7 +15379,10 @@
   },
   {
     "title": "culture:::Le cinéma cherche sa sortie de secours climatique",
-    "added_at": "2025-06-28T19:41:55.097Z"
+    "added_at": "2025-06-28T19:41:55.097Z",
+    "removed_at": "2025-06-29T09:03:02.824Z",
+    "duration_minutes": 801,
+    "duration_str": "13h 21m"
   },
   {
     "title": "monde:::Donald Trump assure qu’un cessez-le-feu à Gaza est «proche»",
@@ -15387,7 +15393,10 @@
   },
   {
     "title": "monde:::Un frappe russe sur Odessa fait deux morts et 14 blessés",
-    "added_at": "2025-06-28T19:45:38.157Z"
+    "added_at": "2025-06-28T19:45:38.157Z",
+    "removed_at": "2025-06-29T08:29:07.435Z",
+    "duration_minutes": 763,
+    "duration_str": "12h 43m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’Iran pourrait recommencer à enrichir de l’uranium en «quelques mois», selon le patron de l’AIEA",
@@ -15396,5 +15405,9 @@
   {
     "title": "culture:::Entre fictions et fossiles, comment les dinosaures reprennent vie",
     "added_at": "2025-06-29T06:54:50.248Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Au moins sept personnes ont été blessées dans de nouvelles frappes russes nocturnes",
+    "added_at": "2025-06-29T08:29:07.435Z"
   }
 ]
