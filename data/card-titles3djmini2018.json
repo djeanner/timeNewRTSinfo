@@ -35342,7 +35342,10 @@
   },
   {
     "title": "The 100 Best Movies of the 21st Century",
-    "added_at": "2025-06-27T10:03:23.321Z"
+    "added_at": "2025-06-27T10:03:23.321Z",
+    "removed_at": "2025-06-29T04:08:55.681Z",
+    "duration_minutes": 2525,
+    "duration_str": "1d 18h 5m"
   },
   {
     "title": "Our Movies and Pop Culture Team on the List",
@@ -36036,7 +36039,10 @@
   },
   {
     "title": "Chinese Police Detain Dozens of Writers Over Gay Erotic Online Novels",
-    "added_at": "2025-06-28T04:10:41.154Z"
+    "added_at": "2025-06-28T04:10:41.154Z",
+    "removed_at": "2025-06-29T04:10:51.609Z",
+    "duration_minutes": 1440,
+    "duration_str": "1d"
   },
   {
     "title": "Newsom Signs Budget That Includes Health Care Cuts for Undocumented Immigrants",
@@ -36345,14 +36351,14 @@
   },
   {
     "title": "Mikayla Raines, Who Rescued Foxes and Other Animals, Is Dead at 30",
-    "added_at": "2025-06-28T22:46:35.240Z",
-    "removed_at": "2025-06-29T00:26:30.964Z",
-    "duration_minutes": 99,
-    "duration_str": "1h 39m"
+    "added_at": "2025-06-28T22:46:35.240Z"
   },
   {
     "title": "Dave Parker, Power Hitter for the Pittsburgh Pirates, Dies at 74",
-    "added_at": "2025-06-28T23:09:11.879Z"
+    "added_at": "2025-06-28T23:09:11.879Z",
+    "removed_at": "2025-06-29T03:19:59.734Z",
+    "duration_minutes": 250,
+    "duration_str": "4h 10m"
   },
   {
     "title": "Musk Wades Back Into Politics, Slamming Trump’s Domestic Policy Bill",
@@ -36374,10 +36380,35 @@
   },
   {
     "title": "Senate Leaders Hunt for Votes to Bring President Trump’s Bill to the Floor",
-    "added_at": "2025-06-29T01:15:32.950Z"
+    "added_at": "2025-06-29T01:15:32.950Z",
+    "removed_at": "2025-06-29T03:23:43.299Z",
+    "duration_minutes": 128,
+    "duration_str": "2h 8m"
   },
   {
     "title": "Chess Lover Brings the Game to Malawi’s Prisons, Schools and Kids",
     "added_at": "2025-06-29T01:39:59.990Z"
+  },
+  {
+    "title": "Senate Narrowly Votes to Begin Debate on Trump’s Policy Bill",
+    "added_at": "2025-06-29T03:23:43.299Z",
+    "removed_at": "2025-06-29T03:27:28.555Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "Senate Takes Up Trump’s Policy Bill, As G.O.P. Scrounges for Votes to Pass It",
+    "added_at": "2025-06-29T03:27:28.555Z",
+    "removed_at": "2025-06-29T04:08:55.681Z",
+    "duration_minutes": 41,
+    "duration_str": "41m"
+  },
+  {
+    "title": "Senate Takes Up Trump’s Policy Bill, as G.O.P. Scrounges for Votes to Pass It",
+    "added_at": "2025-06-29T04:08:55.681Z"
+  },
+  {
+    "title": "How Europe Got Tough on Migration",
+    "added_at": "2025-06-29T04:08:55.681Z"
   }
 ]

@@ -16165,7 +16165,10 @@
   },
   {
     "title": "Israeli attacks on southern Lebanon kill three people",
-    "added_at": "2025-06-28T20:21:29.534Z"
+    "added_at": "2025-06-28T20:21:29.534Z",
+    "removed_at": "2025-06-29T03:23:43.843Z",
+    "duration_minutes": 422,
+    "duration_str": "7h 2m"
   },
   {
     "title": "Israel kills at leat 60 in Gaza today, medics for survivors in Gaza City",
@@ -16176,11 +16179,17 @@
   },
   {
     "title": "Police fire tear gas as thousands protest against Serbia’s president",
-    "added_at": "2025-06-28T21:16:05.320Z"
+    "added_at": "2025-06-28T21:16:05.320Z",
+    "removed_at": "2025-06-29T02:46:06.051Z",
+    "duration_minutes": 330,
+    "duration_str": "5h 30m"
   },
   {
     "title": "‘No Bezos, no war’: Protesters flood Venice streets during wedding",
-    "added_at": "2025-06-28T21:57:40.058Z"
+    "added_at": "2025-06-28T21:57:40.058Z",
+    "removed_at": "2025-06-29T04:08:56.268Z",
+    "duration_minutes": 371,
+    "duration_str": "6h 11m"
   },
   {
     "title": "Messi prepares to face former club and European champions PSG – all to know",
@@ -16217,5 +16226,24 @@
   {
     "title": "LIVE: Ilia Topuria vs Charles Oliveira – UFC 317 lightweight title fight",
     "added_at": "2025-06-29T02:06:26.097Z"
+  },
+  {
+    "title": "Russia-Ukraine war: List of key events, day 1,221",
+    "added_at": "2025-06-29T02:46:06.051Z"
+  },
+  {
+    "title": "Tens of thousands in Hungary defy ban to march at Budapest Pride",
+    "added_at": "2025-06-29T03:23:43.843Z"
+  },
+  {
+    "title": "Serbian police arrest dozens in clashes with anti-government protesters",
+    "added_at": "2025-06-29T04:08:56.268Z",
+    "removed_at": "2025-06-29T04:16:31.283Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Serbian police arrest dozens in clashes with antigovernment protesters",
+    "added_at": "2025-06-29T04:16:31.283Z"
   }
 ]
