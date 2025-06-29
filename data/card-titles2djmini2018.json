@@ -14709,7 +14709,10 @@
   },
   {
     "title": "sport:::Euro 2025 - Les grands événements sportifs profitent-ils à l’économie?",
-    "added_at": "2025-06-26T05:00:38.531Z"
+    "added_at": "2025-06-26T05:00:38.531Z",
+    "removed_at": "2025-06-29T06:02:04.830Z",
+    "duration_minutes": 4381,
+    "duration_str": "3d 1h 1m"
   },
   {
     "title": "suisse:::Un vaste plan pour améliorer l’employabilité des Genevois",
@@ -14927,7 +14930,10 @@
   },
   {
     "title": "suisse:::Appels à la grève, licenciements et plaintes: haute tension aux transports publics de la Riviera vaudoise",
-    "added_at": "2025-06-26T19:08:23.652Z"
+    "added_at": "2025-06-26T19:08:23.652Z",
+    "removed_at": "2025-06-29T05:28:11.301Z",
+    "duration_minutes": 3499,
+    "duration_str": "2d 10h 19m"
   },
   {
     "title": "culture:::Avec «Une Fratrie», Brigitte Reimann propose une tragicomédie familiale entre les deux Allemagnes",
@@ -15219,7 +15225,10 @@
   },
   {
     "title": "cyber:::Fraîchement remarié à Venise, Jeff Bezos déploie en silence un empire technologique qui passe par la Suisse",
-    "added_at": "2025-06-27T17:52:42.908Z"
+    "added_at": "2025-06-27T17:52:42.908Z",
+    "removed_at": "2025-06-29T05:47:03.541Z",
+    "duration_minutes": 2154,
+    "duration_str": "1d 11h 54m"
   },
   {
     "title": "monde:::Le mariage de Jeff Bezos rappelle l’affaire de corruption du maire de Venise",
@@ -15262,10 +15271,7 @@
   },
   {
     "title": "suisse:::L’été ferroviaire des Romands sera un peu plus compliqué que prévu",
-    "added_at": "2025-06-28T05:14:49.310Z",
-    "removed_at": "2025-06-28T13:39:57.678Z",
-    "duration_minutes": 505,
-    "duration_str": "8h 25m"
+    "added_at": "2025-06-28T05:14:49.310Z"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump assure qu’un cessez-le-feu à Gaza est «proche»",
@@ -15333,7 +15339,10 @@
   },
   {
     "title": "suisse:::Un hélicoptère s’est écrasé sur le glacier d’Oberaletsch, en Valais",
-    "added_at": "2025-06-28T12:49:04.590Z"
+    "added_at": "2025-06-28T12:49:04.590Z",
+    "removed_at": "2025-06-29T06:00:11.235Z",
+    "duration_minutes": 1031,
+    "duration_str": "17h 11m"
   },
   {
     "title": "suisse:::Au Centre, un président élu par acclamation et un éléphant dans la pièce: le F-35",
@@ -15345,7 +15354,10 @@
   },
   {
     "title": "culture:::Lyna Khoudri, dans l’enfer de Kaboul",
-    "added_at": "2025-06-28T15:59:25.159Z"
+    "added_at": "2025-06-28T15:59:25.159Z",
+    "removed_at": "2025-06-29T06:54:50.248Z",
+    "duration_minutes": 895,
+    "duration_str": "14h 55m"
   },
   {
     "title": "suisse:::Le PLR veut limiter la croissance du personnel de la Confédération",
@@ -15368,10 +15380,21 @@
   },
   {
     "title": "monde:::Donald Trump assure qu’un cessez-le-feu à Gaza est «proche»",
-    "added_at": "2025-06-28T19:43:44.733Z"
+    "added_at": "2025-06-28T19:43:44.733Z",
+    "removed_at": "2025-06-29T05:47:03.541Z",
+    "duration_minutes": 603,
+    "duration_str": "10h 3m"
   },
   {
     "title": "monde:::Un frappe russe sur Odessa fait deux morts et 14 blessés",
     "added_at": "2025-06-28T19:45:38.157Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’Iran pourrait recommencer à enrichir de l’uranium en «quelques mois», selon le patron de l’AIEA",
+    "added_at": "2025-06-29T05:47:03.541Z"
+  },
+  {
+    "title": "culture:::Entre fictions et fossiles, comment les dinosaures reprennent vie",
+    "added_at": "2025-06-29T06:54:50.248Z"
   }
 ]
