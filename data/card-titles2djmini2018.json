@@ -15386,7 +15386,10 @@
   },
   {
     "title": "sport:::De l’exploit à la déroute, les possibilités d’une équipe de Suisse sous pression",
-    "added_at": "2025-06-28T17:11:04.956Z"
+    "added_at": "2025-06-28T17:11:04.956Z",
+    "removed_at": "2025-06-30T13:49:27.166Z",
+    "duration_minutes": 2678,
+    "duration_str": "1d 20h 38m"
   },
   {
     "title": "suisse:::La vague de chaleur s'étend sur toute la Suisse",
@@ -15656,11 +15659,17 @@
   },
   {
     "title": "monde:::Ce mois de juillet qui pourrait couler le cognac",
-    "added_at": "2025-06-30T08:09:59.369Z"
+    "added_at": "2025-06-30T08:09:59.369Z",
+    "removed_at": "2025-06-30T15:21:45.428Z",
+    "duration_minutes": 431,
+    "duration_str": "7h 11m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Kiev se rapproche d’un retrait de la convention sur l’interdiction des mines antipersonnel",
-    "added_at": "2025-06-30T08:11:48.745Z"
+    "added_at": "2025-06-30T08:11:48.745Z",
+    "removed_at": "2025-06-30T14:53:29.419Z",
+    "duration_minutes": 401,
+    "duration_str": "6h 41m"
   },
   {
     "title": "economie:::Pas de miracle pour les cœurs artificiels de Carmat, la société française est en cessation de paiements",
@@ -15693,7 +15702,10 @@
   },
   {
     "title": "economie:::La centrale de Beznau réduit la puissance de ses réacteurs en raison de la chaleur",
-    "added_at": "2025-06-30T11:22:21.036Z"
+    "added_at": "2025-06-30T11:22:21.036Z",
+    "removed_at": "2025-06-30T14:21:25.732Z",
+    "duration_minutes": 179,
+    "duration_str": "2h 59m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Plus de 900 morts en Iran pendant la guerre avec Israël, selon un média officiel",
@@ -15701,7 +15713,10 @@
   },
   {
     "title": "culture:::Nicolas Party, rêves en technicolor",
-    "added_at": "2025-06-30T11:46:46.913Z"
+    "added_at": "2025-06-30T11:46:46.913Z",
+    "removed_at": "2025-06-30T15:06:41.004Z",
+    "duration_minutes": 199,
+    "duration_str": "3h 19m"
   },
   {
     "title": "suisse:::La SSR mutualise ses forces, mais ne donne pas encore les détails de sa restructuration",
@@ -15728,5 +15743,25 @@
   {
     "title": "suisse:::La SSR au seuil de la plus grande transformation de son histoire",
     "added_at": "2025-06-30T13:28:32.562Z"
+  },
+  {
+    "title": "suisse:::A Lausanne, la liste d’attente pour obtenir un potager urbain a explosé",
+    "added_at": "2025-06-30T13:43:48.023Z"
+  },
+  {
+    "title": "sport:::«Vamos España!» Avant l’Euro, Lausanne réserve un accueil vibrant aux championnes du monde",
+    "added_at": "2025-06-30T13:49:27.166Z"
+  },
+  {
+    "title": "monde:::A Kiev, l’intensification des attaques russes met à l’épreuve le moral des habitants",
+    "added_at": "2025-06-30T14:21:25.732Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – L’Union européenne annonce avoir trouvé un «accord de principe» avec l’Ukraine en matière de libre-échange",
+    "added_at": "2025-06-30T14:53:29.419Z"
+  },
+  {
+    "title": "sciences:::La Suisse traverse un épisode caniculaire inhabituel pour un mois de juin",
+    "added_at": "2025-06-30T15:21:45.428Z"
   }
 ]
