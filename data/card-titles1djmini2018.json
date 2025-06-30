@@ -21561,7 +21561,10 @@
   },
   {
     "title": "Ecoles, hôpitaux, universités: l'ampleur des dévastations à Gaza en images",
-    "added_at": "2025-06-28T14:51:36.105Z"
+    "added_at": "2025-06-28T14:51:36.105Z",
+    "removed_at": "2025-06-30T19:40:13.781Z",
+    "duration_minutes": 3168,
+    "duration_str": "2d 4h 48m"
   },
   {
     "title": "La Défense civile de Gaza annonce 23 morts dans des frappes ou des tirs",
@@ -21636,11 +21639,17 @@
   },
   {
     "title": "Le mariage de Jeff Bezos à Venise se termine après avoir fait de nombreux remous",
-    "added_at": "2025-06-28T20:42:09.843Z"
+    "added_at": "2025-06-28T20:42:09.843Z",
+    "removed_at": "2025-06-30T20:12:14.082Z",
+    "duration_minutes": 2850,
+    "duration_str": "1d 23h 30m"
   },
   {
     "title": "Echauffourée entre police et propalestiniens en marge du match de basket M19 contre Israël",
-    "added_at": "2025-06-28T20:55:24.350Z"
+    "added_at": "2025-06-28T20:55:24.350Z",
+    "removed_at": "2025-06-30T19:00:38.459Z",
+    "duration_minutes": 2765,
+    "duration_str": "1d 22h 5m"
   },
   {
     "title": "Albert Rösti veut restreindre les possibilités de limiter la vitesse à 30 km/h",
@@ -21982,5 +21991,24 @@
   {
     "title": "Sucre, noix ou vanille, le travail des enfants ne s’arrête pas au cacao pour l'industrie du chocolat",
     "added_at": "2025-06-30T16:20:15.540Z"
+  },
+  {
+    "title": "Les vallées de Saas et Zermatt coupées du monde après un violent orage",
+    "added_at": "2025-06-30T19:00:38.459Z",
+    "removed_at": "2025-06-30T19:26:59.641Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "Des coulées de boue dans les vallées de Saas et de Zermatt après un violent orage",
+    "added_at": "2025-06-30T19:26:59.641Z"
+  },
+  {
+    "title": "Plus de 50 morts dans des bombardements israéliens dans la bande de Gaza",
+    "added_at": "2025-06-30T19:40:13.781Z"
+  },
+  {
+    "title": "Une application pour aider les travailleurs à se protéger lors de fortes chaleurs",
+    "added_at": "2025-06-30T20:12:14.082Z"
   }
 ]
