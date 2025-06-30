@@ -15352,7 +15352,10 @@
   },
   {
     "title": "suisse:::Au Centre, un président élu par acclamation et un éléphant dans la pièce: le F-35",
-    "added_at": "2025-06-28T13:39:57.678Z"
+    "added_at": "2025-06-28T13:39:57.678Z",
+    "removed_at": "2025-06-30T04:29:41.200Z",
+    "duration_minutes": 2329,
+    "duration_str": "1d 14h 49m"
   },
   {
     "title": "culture:::Les Editions Zoé fêtent 50 ans de littérature: retour sur une aventure hors-norme, d’un garage genevois aux succès internationaux",
@@ -15527,7 +15530,10 @@
   },
   {
     "title": "suisse:::Mobilité universitaire aux Etats-Unis: ces étudiants suisses empêtrés dans les décisions de Donald Trump",
-    "added_at": "2025-06-29T17:45:06.479Z"
+    "added_at": "2025-06-29T17:45:06.479Z",
+    "removed_at": "2025-06-30T05:48:45.259Z",
+    "duration_minutes": 723,
+    "duration_str": "12h 3m"
   },
   {
     "title": "economie:::Alexandre Gaillard: «Les données sont un enjeu capital dans la guerre commerciale»",
@@ -15556,11 +15562,17 @@
   },
   {
     "title": "culture:::Carol Rama à Berne, près d’un siècle de rébellion par l’art",
-    "added_at": "2025-06-29T19:53:12.584Z"
+    "added_at": "2025-06-29T19:53:12.584Z",
+    "removed_at": "2025-06-30T05:16:40.958Z",
+    "duration_minutes": 563,
+    "duration_str": "9h 23m"
   },
   {
     "title": "monde:::La mobilisation se poursuit en Serbie, des barricades installées à Belgrade",
-    "added_at": "2025-06-30T02:44:03.938Z"
+    "added_at": "2025-06-30T02:44:03.938Z",
+    "removed_at": "2025-06-30T06:16:58.333Z",
+    "duration_minutes": 212,
+    "duration_str": "3h 32m"
   },
   {
     "title": "economie:::Le Canada fait un geste envers les Etats-Unis, les négociations commerciales vont reprendre",
@@ -15568,6 +15580,46 @@
   },
   {
     "title": "monde:::Moyen-Orient – Des propos anti-Israël au festival de Glastonbury font polémique",
-    "added_at": "2025-06-30T04:01:19.670Z"
+    "added_at": "2025-06-30T04:01:19.670Z",
+    "removed_at": "2025-06-30T05:48:45.259Z",
+    "duration_minutes": 107,
+    "duration_str": "1h 47m"
+  },
+  {
+    "title": "cyber:::Les faux sites pour payer les amendes se multiplient. Pourquoi est-il si difficile de lutter contre eux?",
+    "added_at": "2025-06-30T04:29:41.200Z",
+    "removed_at": "2025-06-30T04:42:49.081Z",
+    "duration_minutes": 13,
+    "duration_str": "13m"
+  },
+  {
+    "title": "cyber:::Les faux sites pour payer les amendes se multiplient. Comment lutter contre ce fléau?",
+    "added_at": "2025-06-30T04:42:49.081Z"
+  },
+  {
+    "title": "monde:::Monique Chemillier-Gendreau, juriste: «Israël a laissé croire que son occupation serait temporaire»",
+    "added_at": "2025-06-30T05:48:45.259Z",
+    "removed_at": "2025-06-30T05:56:13.727Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Des propos anti-Israël au festival de Glastonbury font polémique",
+    "added_at": "2025-06-30T05:48:45.259Z",
+    "removed_at": "2025-06-30T06:15:02.624Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "monde:::Monique Chemillier-Gendreau, juriste: «Israël a laissé croire que son occupation de la Palestine serait temporaire»",
+    "added_at": "2025-06-30T05:56:13.727Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – A Gaza, «un génocide pour le génocide», fustige le journal israélien «Haaretz»",
+    "added_at": "2025-06-30T06:15:02.624Z"
+  },
+  {
+    "title": "economie:::Les stablecoins, une révolution à bas bruit du système financier",
+    "added_at": "2025-06-30T06:16:58.333Z"
   }
 ]
