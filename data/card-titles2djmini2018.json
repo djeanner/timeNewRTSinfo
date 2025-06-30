@@ -14243,7 +14243,10 @@
   },
   {
     "title": "monde:::Donald Trump devrait finalement rencontrer Volodymyr Zelensky mercredi en marge du sommet de l’OTAN",
-    "added_at": "2025-06-24T15:44:35.741Z"
+    "added_at": "2025-06-24T15:44:35.741Z",
+    "removed_at": "2025-06-30T08:11:48.745Z",
+    "duration_minutes": 8187,
+    "duration_str": "5d 16h 27m"
   },
   {
     "title": "suisse:::A Prilly, les tensions s’intensifient dans la législature du chaos",
@@ -15320,7 +15323,10 @@
   },
   {
     "title": "suisse:::Paquet d’accords avec l’UE: «On a atteint l’optimum dans ces négociations», estime Alexandre Fasel",
-    "added_at": "2025-06-28T09:59:27.578Z"
+    "added_at": "2025-06-28T09:59:27.578Z",
+    "removed_at": "2025-06-30T08:09:59.369Z",
+    "duration_minutes": 2770,
+    "duration_str": "1d 22h 10m"
   },
   {
     "title": "monde:::En France, il est désormais interdit de fumer à la plage ou dans les parcs",
@@ -15380,11 +15386,17 @@
   },
   {
     "title": "sport:::De l’exploit à la déroute, les possibilités d’une équipe de Suisse sous pression",
-    "added_at": "2025-06-28T17:11:04.956Z"
+    "added_at": "2025-06-28T17:11:04.956Z",
+    "removed_at": "2025-06-30T08:09:59.369Z",
+    "duration_minutes": 2338,
+    "duration_str": "1d 14h 58m"
   },
   {
     "title": "suisse:::La vague de chaleur s'étend sur toute la Suisse",
-    "added_at": "2025-06-28T19:11:45.436Z"
+    "added_at": "2025-06-28T19:11:45.436Z",
+    "removed_at": "2025-06-30T07:34:11.134Z",
+    "duration_minutes": 2182,
+    "duration_str": "1d 12h 22m"
   },
   {
     "title": "culture:::Le cinéma cherche sa sortie de secours climatique",
@@ -15530,10 +15542,7 @@
   },
   {
     "title": "suisse:::Mobilité universitaire aux Etats-Unis: ces étudiants suisses empêtrés dans les décisions de Donald Trump",
-    "added_at": "2025-06-29T17:45:06.479Z",
-    "removed_at": "2025-06-30T05:48:45.259Z",
-    "duration_minutes": 723,
-    "duration_str": "12h 3m"
+    "added_at": "2025-06-29T17:45:06.479Z"
   },
   {
     "title": "economie:::Alexandre Gaillard: «Les données sont un enjeu capital dans la guerre commerciale»",
@@ -15594,7 +15603,10 @@
   },
   {
     "title": "cyber:::Les faux sites pour payer les amendes se multiplient. Comment lutter contre ce fléau?",
-    "added_at": "2025-06-30T04:42:49.081Z"
+    "added_at": "2025-06-30T04:42:49.081Z",
+    "removed_at": "2025-06-30T08:40:03.563Z",
+    "duration_minutes": 237,
+    "duration_str": "3h 57m"
   },
   {
     "title": "monde:::Monique Chemillier-Gendreau, juriste: «Israël a laissé croire que son occupation serait temporaire»",
@@ -15621,5 +15633,25 @@
   {
     "title": "economie:::Les stablecoins, une révolution à bas bruit du système financier",
     "added_at": "2025-06-30T06:16:58.333Z"
+  },
+  {
+    "title": "economie:::A Londres, la bataille pour briser le monopole d’Eurostar fait rage",
+    "added_at": "2025-06-30T06:58:24.234Z"
+  },
+  {
+    "title": "suisse:::Le retrait de Jean Scarcella de la tête de l’abbaye de Saint-Maurice, une décision «sage» et «inéluctable»",
+    "added_at": "2025-06-30T07:34:11.134Z"
+  },
+  {
+    "title": "monde:::Ce mois de juillet qui pourrait couler le cognac",
+    "added_at": "2025-06-30T08:09:59.369Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Kiev se rapproche d’un retrait de la convention sur l’interdiction des mines antipersonnel",
+    "added_at": "2025-06-30T08:11:48.745Z"
+  },
+  {
+    "title": "economie:::Pas de miracle pour les cœurs artificiels de Carmat, la société française est en cessation de paiements",
+    "added_at": "2025-06-30T08:40:03.563Z"
   }
 ]
