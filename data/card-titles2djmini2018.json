@@ -15775,7 +15775,10 @@
   },
   {
     "title": "suisse:::La SSR au seuil de la plus grande transformation de son histoire",
-    "added_at": "2025-06-30T13:28:32.562Z"
+    "added_at": "2025-06-30T13:28:32.562Z",
+    "removed_at": "2025-07-01T12:10:05.701Z",
+    "duration_minutes": 1361,
+    "duration_str": "22h 41m"
   },
   {
     "title": "suisse:::A Lausanne, la liste d’attente pour obtenir un potager urbain a explosé",
@@ -15899,7 +15902,10 @@
   },
   {
     "title": "suisse:::De violents orages provoquent un glissement de terrain dans le Haut-Valais",
-    "added_at": "2025-07-01T03:58:14.338Z"
+    "added_at": "2025-07-01T03:58:14.338Z",
+    "removed_at": "2025-07-01T10:56:39.461Z",
+    "duration_minutes": 418,
+    "duration_str": "6h 58m"
   },
   {
     "title": "suisse:::Echanges musclés, critiques contre Valérie Dittli: au Centre Vaud, une élection sous haute tension",
@@ -15907,7 +15913,10 @@
   },
   {
     "title": "culture:::Quel livre conseilleriez-vous à votre prochain?",
-    "added_at": "2025-07-01T05:06:00.127Z"
+    "added_at": "2025-07-01T05:06:00.127Z",
+    "removed_at": "2025-07-01T12:04:26.503Z",
+    "duration_minutes": 418,
+    "duration_str": "6h 58m"
   },
   {
     "title": "monde:::La publication d’un dessin accusé de représenter Mahomet entraîne arrestations et affrontements en Turquie",
@@ -15956,14 +15965,14 @@
   },
   {
     "title": "suisse:::La Fondation Hans Wilsdorf en bonne voie pour acquérir la tour RTS à Genève et y créer un centre dédié aux médias",
-    "added_at": "2025-07-01T10:01:50.908Z",
-    "removed_at": "2025-07-01T10:05:40.504Z",
-    "duration_minutes": 3,
-    "duration_str": "3m"
+    "added_at": "2025-07-01T10:01:50.908Z"
   },
   {
     "title": "suisse:::La Fondation Hans-Wilsdorf en bonne voie pour acquérir la tour RTS à Genève et y créer un centre dédié aux médias",
-    "added_at": "2025-07-01T10:05:40.504Z"
+    "added_at": "2025-07-01T10:05:40.504Z",
+    "removed_at": "2025-07-01T12:19:28.293Z",
+    "duration_minutes": 133,
+    "duration_str": "2h 13m"
   },
   {
     "title": "economie:::Faut-il relancer le nucléaire en Suisse? Les experts des Académies suisses des sciences émettent des réserves",
@@ -15980,5 +15989,27 @@
   {
     "title": "cyber:::Comment les géants de l’intelligence artificielle gagnent la bataille sur les œuvres protégées par droit d’auteur",
     "added_at": "2025-07-01T10:37:39.344Z"
+  },
+  {
+    "title": "monde:::Karin Keller-Sutter affirme qu'Emmanuel Macron soutient la mise en place d'une «plateforme» de négociation entre l'Ukraine et la Russie à Genève",
+    "added_at": "2025-07-01T10:56:39.461Z",
+    "removed_at": "2025-07-01T11:39:55.344Z",
+    "duration_minutes": 43,
+    "duration_str": "43m"
+  },
+  {
+    "title": "monde:::Karin Keller-Sutter affirme qu’Emmanuel Macron soutient la mise en place d’une «plateforme» de négociation entre l’Ukraine et la Russie à Genève",
+    "added_at": "2025-07-01T11:39:55.344Z",
+    "removed_at": "2025-07-01T11:49:19.440Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "monde:::Karin Keller-Sutter affirme qu’Emmanuel Macron soutient l’idée d’une «plateforme» de négociation entre l’Ukraine et la Russie à Genève",
+    "added_at": "2025-07-01T11:49:19.440Z"
+  },
+  {
+    "title": "monde:::Le «Big Beautiful Bill», féroce objet de discorde entre Donald Trump et Elon Musk",
+    "added_at": "2025-07-01T12:10:05.701Z"
   }
 ]
