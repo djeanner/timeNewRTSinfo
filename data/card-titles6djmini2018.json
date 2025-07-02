@@ -17178,7 +17178,10 @@
   },
   {
     "title": "Ukraine drone attack on central Russia kills three, wounds 35",
-    "added_at": "2025-07-01T14:23:53.509Z"
+    "added_at": "2025-07-01T14:23:53.509Z",
+    "removed_at": "2025-07-01T23:00:51.341Z",
+    "duration_minutes": 516,
+    "duration_str": "8h 36m"
   },
   {
     "title": "Court suspends Thailand’s PM pending probe over leaked phone call",
@@ -17232,7 +17235,10 @@
   },
   {
     "title": "Trump threatens to review subsidies on Musk-owned companies",
-    "added_at": "2025-07-01T17:30:34.156Z"
+    "added_at": "2025-07-01T17:30:34.156Z",
+    "removed_at": "2025-07-01T23:29:07.892Z",
+    "duration_minutes": 358,
+    "duration_str": "5h 58m"
   },
   {
     "title": "Man arrested for ‘spying’ for Iran before possible attacks in Germany",
@@ -17258,15 +17264,24 @@
   },
   {
     "title": "UK PM Starmer gets watered-down welfare bill passed amid Labour uprising",
-    "added_at": "2025-07-01T20:37:26.850Z"
+    "added_at": "2025-07-01T20:37:26.850Z",
+    "removed_at": "2025-07-02T00:27:31.790Z",
+    "duration_minutes": 230,
+    "duration_str": "3h 50m"
   },
   {
     "title": "‘Starvation, gunfire’: More condemnation for Israel aid scheme amid attacks",
-    "added_at": "2025-07-01T20:45:01.933Z"
+    "added_at": "2025-07-01T20:45:01.933Z",
+    "removed_at": "2025-07-01T22:55:11.985Z",
+    "duration_minutes": 130,
+    "duration_str": "2h 10m"
   },
   {
     "title": "Israel kills 109 in Gaza as Trump says he will be ‘firm’ with Netanyahu",
-    "added_at": "2025-07-01T20:45:01.933Z"
+    "added_at": "2025-07-01T20:45:01.933Z",
+    "removed_at": "2025-07-01T22:43:54.247Z",
+    "duration_minutes": 118,
+    "duration_str": "1h 58m"
   },
   {
     "title": "LIVE: Real Madrid vs Juventus 1-0 – FIFA Club World Cup",
@@ -17281,6 +17296,57 @@
   },
   {
     "title": "Mbappe returns as Real Madrid beat Juventus at Club World Cup",
-    "added_at": "2025-07-01T21:47:13.766Z"
+    "added_at": "2025-07-01T21:47:13.766Z",
+    "removed_at": "2025-07-02T00:06:49.336Z",
+    "duration_minutes": 139,
+    "duration_str": "2h 19m"
+  },
+  {
+    "title": "Trump says Israel agrees to ceasefire conditions as 109 killed in Gaza",
+    "added_at": "2025-07-01T22:43:54.247Z"
+  },
+  {
+    "title": "Trump says Israel ‘agreed to necessary conditions’ for ceasefire",
+    "added_at": "2025-07-01T22:55:11.985Z",
+    "removed_at": "2025-07-02T00:06:49.336Z",
+    "duration_minutes": 71,
+    "duration_str": "1h 11m"
+  },
+  {
+    "title": "Venezuelan lawmakers declare UN human rights chief persona non grata",
+    "added_at": "2025-07-01T23:00:51.341Z"
+  },
+  {
+    "title": "US Senate passes Trump’s ‘One Big Beautiful Bill’, sending it to the House",
+    "added_at": "2025-07-01T23:29:07.892Z"
+  },
+  {
+    "title": "Trump says Israel has agreed to finalise 60-day ceasefire in Gaza",
+    "added_at": "2025-07-02T00:06:49.336Z",
+    "removed_at": "2025-07-02T00:08:45.385Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Trump says Israel has agreed to finalise a 60-day ceasefire in Gaza",
+    "added_at": "2025-07-02T00:08:45.385Z",
+    "removed_at": "2025-07-02T00:18:08.234Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Trump says Israel agrees to a truce in Gaza, urges Hamas to accept the deal",
+    "added_at": "2025-07-02T00:18:08.234Z",
+    "removed_at": "2025-07-02T00:44:30.051Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "Two Chinese nationals charged for trying to recruit spies in US military",
+    "added_at": "2025-07-02T00:27:31.790Z"
+  },
+  {
+    "title": "Trump says Israel agrees to a truce in Gaza, urges Hamas to accept deal",
+    "added_at": "2025-07-02T00:44:30.051Z"
   }
 ]
