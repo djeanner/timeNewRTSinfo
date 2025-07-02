@@ -24607,7 +24607,10 @@
   },
   {
     "title": "Le sud de l'Europe suffoque sous une vague de chaleur record et généralisée",
-    "added_at": "2025-07-02T09:35:07.190Z"
+    "added_at": "2025-07-02T09:35:07.190Z",
+    "removed_at": "2025-07-02T22:09:09.811Z",
+    "duration_minutes": 754,
+    "duration_str": "12h 34m"
   },
   {
     "title": "Des \"farfadets\" ont zébré le ciel de rouge au-dessus du Léman",
@@ -24963,10 +24966,7 @@
   },
   {
     "title": "Donald Trump vante un centre de rétention entouré d'alligators en Floride",
-    "added_at": "2025-07-02T12:26:13.550Z",
-    "removed_at": "2025-07-02T12:30:15.713Z",
-    "duration_minutes": 4,
-    "duration_str": "4m"
+    "added_at": "2025-07-02T12:26:13.550Z"
   },
   {
     "title": "Donald Trump vante un centre de rétention pour migrants entouré d'alligators en Floride",
@@ -25045,11 +25045,17 @@
   },
   {
     "title": "Martin Pfister: \"Il faut mieux soutenir le sport, mais je dois suivre les mesures d'économie de la Confédération\"",
-    "added_at": "2025-07-02T19:16:13.171Z"
+    "added_at": "2025-07-02T19:16:13.171Z",
+    "removed_at": "2025-07-02T21:34:45.838Z",
+    "duration_minutes": 138,
+    "duration_str": "2h 18m"
   },
   {
     "title": "De plus en plus de jeunes footballeuses dans les clubs, mais les terrains restent majoritairement prisés par les garçons",
-    "added_at": "2025-07-02T20:04:55.298Z"
+    "added_at": "2025-07-02T20:04:55.298Z",
+    "removed_at": "2025-07-02T22:09:09.811Z",
+    "duration_minutes": 124,
+    "duration_str": "2h 4m"
   },
   {
     "title": "La station de moyenne montagne fribourgeoise Charmey inaugure sept toboggans géants",
@@ -25062,5 +25068,9 @@
   {
     "title": "Cruel coup de froid au Parc St-Jacques",
     "added_at": "2025-07-02T21:02:14.834Z"
+  },
+  {
+    "title": "Martin Pfister: \"Il faut mieux soutenir le sport, mais je dois suivre les mesures d'économies de la Confédération\"",
+    "added_at": "2025-07-02T21:34:45.838Z"
   }
 ]
