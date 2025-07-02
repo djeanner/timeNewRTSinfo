@@ -24805,7 +24805,10 @@
   },
   {
     "title": "Une application pour aider les travailleurs à se protéger lors de fortes chaleurs",
-    "added_at": "2025-07-02T09:35:07.190Z"
+    "added_at": "2025-07-02T09:35:07.190Z",
+    "removed_at": "2025-07-02T17:53:01.909Z",
+    "duration_minutes": 497,
+    "duration_str": "8h 17m"
   },
   {
     "title": "UBS lance un nouveau programme de rachats d’actions, malgré les exigences de fonds propres",
@@ -25010,5 +25013,9 @@
   {
     "title": "Le gouvernement britannique peine à réduire les traversées illégales de la Manche, sur fond de tensions politiques",
     "added_at": "2025-07-02T17:06:18.232Z"
+  },
+  {
+    "title": "La canicule met sous tension les urgences des services hospitaliers du Tessin",
+    "added_at": "2025-07-02T17:53:01.909Z"
   }
 ]

@@ -28,8 +28,9 @@
   {
     "title": "sport:::Euro 2025 – Pour les libérer de la pression, Pia Sundhage raconte des histoires à ses joueuses",
     "added_at": "2025-07-02T06:52:05.913Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-02T18:41:35.801Z",
+    "duration_minutes": 709,
+    "duration_str": "11h 49m"
   },
   {
     "title": "economie:::Deux accords en 90 jours, le maigre bilan de Donald Trump",
@@ -147,9 +148,9 @@
   {
     "title": "sport:::En direct, Euro 2025 – Bâle et Thoune donnent le coup d’envoi du tournoi",
     "added_at": "2025-07-02T14:29:55.717Z",
-    "removed_at": "2025-07-02T16:27:41.207Z",
-    "duration_minutes": 118,
-    "duration_str": "1h 58m"
+    "removed_at": "2025-07-02T16:26:49.032Z",
+    "duration_minutes": 117,
+    "duration_str": "1h 57m"
   },
   {
     "title": "suisse:::La Suisse se dote d’un nouveau plan pandémie. Pour quoi faire?",
@@ -161,8 +162,9 @@
   {
     "title": "culture:::Mardi, malgré la canicule, le public a afflué et pogoté à la première soirée du Festival de la Cité",
     "added_at": "2025-07-02T14:46:51.207Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-02T17:59:06.406Z",
+    "duration_minutes": 192,
+    "duration_str": "3h 12m"
   },
   {
     "title": "suisse:::«Nous n’avons jamais vu une telle densité de menaces»: le Service de renseignement de la Confédération sonne l’alarme",
@@ -185,10 +187,10 @@
   },
   {
     "title": "sport:::En direct, Euro 2025 – La Finlande et l’Islande entrent en jeu à Thoune",
-    "added_at": "2025-07-02T16:27:41.207Z",
+    "added_at": "2025-07-02T16:26:49.032Z",
     "removed_at": "2025-07-02T17:36:41.854Z",
-    "duration_minutes": 69,
-    "duration_str": "1h 9m"
+    "duration_minutes": 70,
+    "duration_str": "1h 10m"
   },
   {
     "title": "monde:::L’annonce de la réincarnation du dalaï-lama réjouit les Tibétains de Suisse",
@@ -213,18 +215,70 @@
   {
     "title": "economie:::Après l'accord de libre-échange entre la Suisse et le Mercosur, les exportateurs sourient, l'agriculture s'inquiète",
     "added_at": "2025-07-02T17:22:30.738Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-02T18:15:21.387Z",
+    "duration_minutes": 53,
+    "duration_str": "53m"
   },
   {
     "title": "sport:::En direct, Euro 2025 – Katarina Kosola ouvre le score pour la Finlande",
     "added_at": "2025-07-02T17:36:41.854Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-02T18:07:13.948Z",
+    "duration_minutes": 31,
+    "duration_str": "31m"
   },
   {
     "title": "suisse:::Nouvelle patinoire à Genève: le Conseil d’Etat demande 275 millions au parlement",
     "added_at": "2025-07-02T17:36:41.854Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "sciences:::Pourquoi la canicule fait aussi souffrir les centrales nucléaires",
+    "added_at": "2025-07-02T17:59:06.406Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "culture:::Avec le film «Materialists», l’amour comme une transaction commerciale",
+    "added_at": "2025-07-02T17:59:06.406Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "sport:::En direct, Euro 2025 – Coup de sifflet final, la Finlande s’impose face à l’Islande sur la pelouse de la Stockhorn Arena",
+    "added_at": "2025-07-02T18:07:13.948Z",
+    "removed_at": "2025-07-02T18:17:18.783Z",
+    "duration_minutes": 10,
+    "duration_str": "10m"
+  },
+  {
+    "title": "economie:::Après l’accord de libre-échange entre la Suisse et le Mercosur, les exportateurs sourient, l’agriculture et la viticulture s’inquiètent",
+    "added_at": "2025-07-02T18:15:21.387Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "sport:::En direct, Euro 2025 – Coup de sifflet final, la Finlande s’impose face à l’Islande sur la pelouse thounoise",
+    "added_at": "2025-07-02T18:17:18.783Z",
+    "removed_at": "2025-07-02T18:35:31.878Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
+  },
+  {
+    "title": "monde:::Le régime iranien, affaibli par la guerre avec Israël, renforce la répression",
+    "added_at": "2025-07-02T18:17:18.783Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "sport:::En direct, Euro 2025 – «Il n’y a plus de différence entre de grands tournois masculin et féminin», estime Dominique Blanc tandis que la Nati s’apprête à entrer en lice face à la Norvège",
+    "added_at": "2025-07-02T18:35:31.878Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "sport:::Euro 2025 – En battant l’Islande, la Finlande prend la tête du groupe A",
+    "added_at": "2025-07-02T18:41:35.801Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
