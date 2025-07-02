@@ -24657,7 +24657,10 @@
   },
   {
     "title": "Nouvelle semaine de chaleur extrême en Europe",
-    "added_at": "2025-07-02T09:35:07.190Z"
+    "added_at": "2025-07-02T09:35:07.190Z",
+    "removed_at": "2025-07-02T12:05:53.249Z",
+    "duration_minutes": 150,
+    "duration_str": "2h 30m"
   },
   {
     "title": "L'invité de La Matinale - Petros Mavromichalis, ambassadeur de l’Union européenne en Suisse",
@@ -24681,7 +24684,10 @@
   },
   {
     "title": "Le moustique tigre accélère la propagation du Chikungunya en France",
-    "added_at": "2025-07-02T09:35:07.190Z"
+    "added_at": "2025-07-02T09:35:07.190Z",
+    "removed_at": "2025-07-02T12:03:54.027Z",
+    "duration_minutes": 148,
+    "duration_str": "2h 28m"
   },
   {
     "title": "Une carte d'identité biométrique pourrait être introduite en Suisse à fin 2026",
@@ -24837,15 +24843,24 @@
   },
   {
     "title": "Plus de 50'000 personnes évacuées en Turquie à cause des feux de forêt",
-    "added_at": "2025-07-02T09:35:07.190Z"
+    "added_at": "2025-07-02T09:35:07.190Z",
+    "removed_at": "2025-07-02T11:49:39.481Z",
+    "duration_minutes": 134,
+    "duration_str": "2h 14m"
   },
   {
     "title": "Cinq ans après la révision de la loi sur l'égalité salariale, les résultats sont jugés insuffisants",
-    "added_at": "2025-07-02T09:35:07.190Z"
+    "added_at": "2025-07-02T09:35:07.190Z",
+    "removed_at": "2025-07-02T11:43:34.428Z",
+    "duration_minutes": 128,
+    "duration_str": "2h 8m"
   },
   {
     "title": "Bombes, alertes, traumas: les nuits sans sommeil de la population ukrainienne",
-    "added_at": "2025-07-02T09:35:07.190Z"
+    "added_at": "2025-07-02T09:35:07.190Z",
+    "removed_at": "2025-07-02T11:35:27.147Z",
+    "duration_minutes": 120,
+    "duration_str": "2h"
   },
   {
     "title": "L'Espagne fait cavalier seul face à la stratégie de Donald Trump sur la hausse des dépenses militaires",
@@ -24869,5 +24884,21 @@
   {
     "title": "Les Etats-Unis interrompent certaines livraisons d'armes à l'Ukraine, inquiétudes à Kiev",
     "added_at": "2025-07-02T11:05:00.995Z"
+  },
+  {
+    "title": "La police municipale zurichoise n'est pas prête à se passer de balles en caoutchouc",
+    "added_at": "2025-07-02T11:35:27.147Z"
+  },
+  {
+    "title": "A Genève, les selles de cheval deviennent la cible des cambrioleurs",
+    "added_at": "2025-07-02T11:43:34.428Z"
+  },
+  {
+    "title": "L'UE veut maintenir son objectif 2040, mais avec des \"flexibilités\"",
+    "added_at": "2025-07-02T11:49:39.481Z"
+  },
+  {
+    "title": "Devant faire plus de 16 millions d'économies, la RTS accélère sa transformation",
+    "added_at": "2025-07-02T12:05:53.249Z"
   }
 ]
