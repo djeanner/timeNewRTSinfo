@@ -17930,7 +17930,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël n’a pris «aucune décision» après l’aval du Hamas à des négociations",
-    "added_at": "2025-07-05T16:27:14.180Z"
+    "added_at": "2025-07-05T16:27:14.180Z",
+    "removed_at": "2025-07-05T19:35:06.721Z",
+    "duration_minutes": 187,
+    "duration_str": "3h 7m"
   },
   {
     "title": "sport:::La fièvre (jaune) de l’Euro a fini par gagner Genève",
@@ -17949,7 +17952,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Donald Trump «très mécontent» de son appel avec Vladimir Poutine",
-    "added_at": "2025-07-05T16:27:14.180Z"
+    "added_at": "2025-07-05T16:27:14.180Z",
+    "removed_at": "2025-07-05T19:45:16.786Z",
+    "duration_minutes": 198,
+    "duration_str": "3h 18m"
   },
   {
     "title": "monde:::Karin Keller-Sutter affirme qu’Emmanuel Macron soutient l’idée d’une «plateforme» de négociation entre l’Ukraine et la Russie à Genève",
@@ -17957,7 +17963,10 @@
   },
   {
     "title": "culture:::«Le Prince barbare», une perle historique de la RTS exhumée au NIFFF",
-    "added_at": "2025-07-05T16:31:50.152Z"
+    "added_at": "2025-07-05T16:31:50.152Z",
+    "removed_at": "2025-07-05T19:49:24.204Z",
+    "duration_minutes": 197,
+    "duration_str": "3h 17m"
   },
   {
     "title": "sport:::Belinda Bencic la résiliente reviendra en deuxième semaine à Wimbledon",
@@ -17981,5 +17990,27 @@
   {
     "title": "culture:::Le Festival d’Avignon ouvre ce samedi et met à l’honneur les cultures arabes",
     "added_at": "2025-07-05T18:55:50.998Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’ayatollah Ali Khamenei fait sa première apparition publique depuis le cessez-le-feu avec Israël",
+    "added_at": "2025-07-05T19:35:06.721Z",
+    "removed_at": "2025-07-05T19:59:47.058Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – L’ONU dénonce l’attaque de drones menée par la Russie vendredi",
+    "added_at": "2025-07-05T19:45:16.786Z",
+    "removed_at": "2025-07-05T20:01:47.105Z",
+    "duration_minutes": 16,
+    "duration_str": "16m"
+  },
+  {
+    "title": "monde:::Moyen-Orient – L’ayatollah Ali Khamenei fait sa première apparition publique depuis le cessez-le-feu avec Israël",
+    "added_at": "2025-07-05T19:59:47.058Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – L’ONU dénonce l’attaque de drones menée par la Russie vendredi",
+    "added_at": "2025-07-05T20:01:47.105Z"
   }
 ]
