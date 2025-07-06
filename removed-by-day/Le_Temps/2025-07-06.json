@@ -102,8 +102,9 @@
   {
     "title": "sport:::Est-ce que 2025 sera (enfin) l’année des Bleues?",
     "added_at": "2025-07-06T14:09:05.006Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-06T21:00:22.281Z",
+    "duration_minutes": 411,
+    "duration_str": "6h 51m"
   },
   {
     "title": "culture:::Au NIFFF, une Piazza Grande Obscura pour le cœur de Neuchâtel",
@@ -227,8 +228,9 @@
   {
     "title": "sport:::Euro 2025 – La Suisse et l’Islande se neutralisent en première mi-temps",
     "added_at": "2025-07-06T19:54:04.432Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-06T20:33:35.744Z",
+    "duration_minutes": 40,
+    "duration_str": "40m"
   },
   {
     "title": "culture:::Série: «Carmen Curlers», comment les bigoudis ont fait tourner les têtes",
@@ -239,6 +241,53 @@
   {
     "title": "monde:::Moyen-Orient – Un groupe armé palestinien reconnaît coopérer avec l’armée israélienne",
     "added_at": "2025-07-06T20:10:41.333Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "sport:::Euro 2025 – La Suisse et l’Islande se neutralisent toujours en seconde période",
+    "added_at": "2025-07-06T20:33:35.744Z",
+    "removed_at": "2025-07-06T20:41:47.600Z",
+    "duration_minutes": 8,
+    "duration_str": "8m"
+  },
+  {
+    "title": "sport:::Euro 2025 – La Suisse marque en seconde période",
+    "added_at": "2025-07-06T20:41:47.600Z",
+    "removed_at": "2025-07-06T20:43:53.312Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "sport:::Euro 2025 – Géraldine Reuteler ouvre le score pour la Suisse qui mène désormais 1-0 au Wankdorf",
+    "added_at": "2025-07-06T20:43:53.312Z",
+    "removed_at": "2025-07-06T20:54:12.040Z",
+    "duration_minutes": 10,
+    "duration_str": "10m"
+  },
+  {
+    "title": "sport:::Euro 2025 – Pilgrim double la mise, la Suisse mène désormais 2-0 au Wankdorf",
+    "added_at": "2025-07-06T20:54:12.040Z",
+    "removed_at": "2025-07-06T20:58:21.466Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "sport:::Euro 2025 – La Suisse s’impose 2-0 au Wankdorf face à l’Islande",
+    "added_at": "2025-07-06T20:58:21.466Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "sport:::Et Geraldine Reuteler libéra l'équipe de Suisse, victorieuse de l'Islande 2-0",
+    "added_at": "2025-07-06T21:00:22.281Z",
+    "removed_at": "2025-07-06T21:08:39.012Z",
+    "duration_minutes": 8,
+    "duration_str": "8m"
+  },
+  {
+    "title": "sport:::Et Geraldine Reuteler libéra l’équipe de Suisse, victorieuse de l’Islande 2-0",
+    "added_at": "2025-07-06T21:08:39.012Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
