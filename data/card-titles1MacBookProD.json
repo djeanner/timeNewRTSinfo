@@ -25281,7 +25281,10 @@
   },
   {
     "title": "La station de moyenne montagne fribourgeoise Charmey inaugure sept toboggans géants",
-    "added_at": "2025-07-02T20:04:55.298Z"
+    "added_at": "2025-07-02T20:04:55.298Z",
+    "removed_at": "2025-07-06T17:20:55.757Z",
+    "duration_minutes": 5596,
+    "duration_str": "3d 21h 16m"
   },
   {
     "title": "Le Centre vaudois tient son nouveau président, mais reste en proie à de vives tensions internes",
@@ -25682,10 +25685,7 @@
   },
   {
     "title": "La piscine de Porrentruy refuse l'entrée aux Français durant l'été: débat entre Lionel Maitre et Lisa Raval",
-    "added_at": "2025-07-05T16:27:14.140Z",
-    "removed_at": "2025-07-06T08:16:44.680Z",
-    "duration_minutes": 949,
-    "duration_str": "15h 49m"
+    "added_at": "2025-07-05T16:27:14.140Z"
   },
   {
     "title": "Le tunnel du Gothard est fermé dans les deux sens à cause d'un camion en feu",
@@ -25790,7 +25790,10 @@
   },
   {
     "title": "Stress thermique: quand les vaches réduisent leur consommation",
-    "added_at": "2025-07-05T16:27:14.140Z"
+    "added_at": "2025-07-05T16:27:14.140Z",
+    "removed_at": "2025-07-06T17:14:43.100Z",
+    "duration_minutes": 1487,
+    "duration_str": "1d 47m"
   },
   {
     "title": "Comment la Suisse lutte contre la menace grandissante des cyberattaques?",
@@ -26143,5 +26146,16 @@
   {
     "title": "Un groupe armé palestinien coopère avec l'armée israélienne contre le Hamas",
     "added_at": "2025-07-06T16:06:36.539Z"
+  },
+  {
+    "title": "Les droits de douane américains s'appliqueront dès le 1er août faute d'accord avec Washington",
+    "added_at": "2025-07-06T17:06:27.479Z",
+    "removed_at": "2025-07-06T17:08:33.442Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Une marée de supporters suisses a envahi la ville de Berne",
+    "added_at": "2025-07-06T17:14:43.100Z"
   }
 ]
