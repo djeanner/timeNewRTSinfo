@@ -25608,7 +25608,10 @@
   },
   {
     "title": "Des trains sans conducteur circulent désormais en service régulier en Suisse",
-    "added_at": "2025-07-05T16:27:14.140Z"
+    "added_at": "2025-07-05T16:27:14.140Z",
+    "removed_at": "2025-07-06T19:43:46.237Z",
+    "duration_minutes": 1636,
+    "duration_str": "1d 3h 16m"
   },
   {
     "title": "Des travailleurs agricoles du monde entier touchés par une mystérieuse insuffisance rénale",
@@ -26192,5 +26195,9 @@
   {
     "title": "Le canton de Vaud adopte une nouvelle loi sur la mendicité",
     "added_at": "2025-07-06T19:16:40.939Z"
+  },
+  {
+    "title": "Un homme tue sa femme et son bébé près de Fribourg",
+    "added_at": "2025-07-06T19:43:46.237Z"
   }
 ]
