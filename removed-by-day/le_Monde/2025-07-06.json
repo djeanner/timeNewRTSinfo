@@ -50,9 +50,8 @@
   {
     "title": "Comment les réponses générées par IA menacent les fondamentaux du Web",
     "added_at": "2025-07-06T03:35:05.650Z",
-    "removed_at": "2025-07-06T08:53:45.433Z",
-    "duration_minutes": 319,
-    "duration_str": "5h 19m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Sept jeux vidéo sortis cette année à rattraper pendant l’été",
@@ -154,9 +153,8 @@
   {
     "title": "Festival d’Aix : les mondes extraordinaires de Peter Sellars",
     "added_at": "2025-07-06T04:10:09.708Z",
-    "removed_at": "2025-07-06T08:53:45.433Z",
-    "duration_minutes": 284,
-    "duration_str": "4h 44m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Festival d’Avignon : avec « Nôt », Marlene Monteiro Freitas livre des « Mille et Une Nuits » loin du conte",
@@ -181,14 +179,16 @@
   {
     "title": "Edouard Herbo, gestionnaire de fortune et empêcheur d’hériter en rond",
     "added_at": "2025-07-06T05:41:57.747Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-06T09:53:30.402Z",
+    "duration_minutes": 252,
+    "duration_str": "4h 12m"
   },
   {
     "title": "Ce que les mythologies du monde disent du corps humain",
     "added_at": "2025-07-06T05:41:57.747Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-06T09:53:30.402Z",
+    "duration_minutes": 252,
+    "duration_str": "4h 12m"
   },
   {
     "title": "Eric Lombard dénonce la guerre économique menée par les Etats-Unis, la Chine et la Russie, « trois caïds qui ne respectent plus aucune règle »",
@@ -238,14 +238,16 @@
   {
     "title": "En direct : l’Ukraine annonce avoir détruit 117 drones russes au-dessus de son territoire dans la nuit",
     "added_at": "2025-07-06T07:25:05.807Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-06T09:14:25.266Z",
+    "duration_minutes": 109,
+    "duration_str": "1h 49m"
   },
   {
     "title": "Léon XIV revient à un style de papauté plus traditionnel sans se dévoiler : « A ce stade, personne ne connaît vraiment sa vision »",
     "added_at": "2025-07-06T07:25:05.807Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-06T09:49:25.888Z",
+    "duration_minutes": 144,
+    "duration_str": "2h 24m"
   },
   {
     "title": "Le cœur de la formule 1 bat à Silverstone, épicentre de la « Motorsport Valley »",
@@ -327,5 +329,43 @@
     "removed_at": "2025-07-06T08:53:45.433Z",
     "duration_minutes": 2,
     "duration_str": "2m"
+  },
+  {
+    "title": "Vous aimez Agnès Varda, vous aimerez le 14ᵉ arrondissement de Paris",
+    "added_at": "2025-07-06T09:12:25.844Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "L’Ukraine annonce avoir détruit 117 drones dans la nuit ; plusieurs blessés signalés",
+    "added_at": "2025-07-06T09:16:29.843Z",
+    "removed_at": "2025-07-06T09:26:45.258Z",
+    "duration_minutes": 10,
+    "duration_str": "10m"
+  },
+  {
+    "title": "L’Ukraine annonce avoir détruit 117 drones russes  dans la nuit ; plusieurs blessés signalés",
+    "added_at": "2025-07-06T09:26:45.258Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Léon XIV, un style de papauté plus traditionnel sans se dévoiler",
+    "added_at": "2025-07-06T09:49:25.888Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Lando Norris, porté par les succès de McLaren, rejoint Lewis Hamilton dans le cœur du public britannique du Grand Prix de formule 1 de Silverstone",
+    "added_at": "2025-07-06T09:53:30.402Z",
+    "removed_at": "2025-07-06T09:59:40.483Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
+  },
+  {
+    "title": "F1 : Lando Norris, porté par les succès de McLaren, rejoint Lewis Hamilton dans le cœur du public du Grand Prix de Silverstone",
+    "added_at": "2025-07-06T09:59:40.483Z",
+    "duration_minutes": 0,
+    "duration_str": ""
   }
 ]
