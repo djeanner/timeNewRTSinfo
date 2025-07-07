@@ -16721,11 +16721,17 @@
   },
   {
     "title": "Yemen’s Houthis claim to have sunk ship, exchange attacks with Israel",
-    "added_at": "2025-07-07T15:31:32.161Z"
+    "added_at": "2025-07-07T15:31:32.161Z",
+    "removed_at": "2025-07-07T19:53:25.306Z",
+    "duration_minutes": 261,
+    "duration_str": "4h 21m"
   },
   {
     "title": "‘Death trap’: Gaza hospital, shelters, and aid sites attacked by Israel",
-    "added_at": "2025-07-07T17:29:35.267Z"
+    "added_at": "2025-07-07T17:29:35.267Z",
+    "removed_at": "2025-07-07T20:16:10.064Z",
+    "duration_minutes": 166,
+    "duration_str": "2h 46m"
   },
   {
     "title": "Tesla shares tumble as Elon Musk floats new US political party",
@@ -16746,5 +16752,13 @@
   {
     "title": "Trump announces new suite of tariffs against Japan, South Korea and more",
     "added_at": "2025-07-07T18:51:11.803Z"
+  },
+  {
+    "title": "Yemen’s Houthis claim to have sunk ship; exchange attacks with Israel",
+    "added_at": "2025-07-07T19:53:25.306Z"
+  },
+  {
+    "title": "Israel kills more than 60 in Gaza as Houthis attack ships off Yemen",
+    "added_at": "2025-07-07T20:16:10.064Z"
   }
 ]
