@@ -17862,7 +17862,10 @@
   },
   {
     "title": "sport:::Euro 2025 – La volcanique filière de l’Islande, qui affrontera la Suisse dimanche à Berne",
-    "added_at": "2025-07-05T16:27:14.180Z"
+    "added_at": "2025-07-05T16:27:14.180Z",
+    "removed_at": "2025-07-07T04:14:38.478Z",
+    "duration_minutes": 2147,
+    "duration_str": "1d 11h 47m"
   },
   {
     "title": "culture:::Livres de l’été: nos 30 coups de cœur à mettre dans la poche",
@@ -18105,7 +18108,10 @@
   },
   {
     "title": "monde:::En partant à la conquête des Etats-Unis, Elon Musk poursuit sa terrible fuite en avant et joue avec le feu",
-    "added_at": "2025-07-06T09:59:40.150Z"
+    "added_at": "2025-07-06T09:59:40.150Z",
+    "removed_at": "2025-07-07T03:51:53.993Z",
+    "duration_minutes": 1072,
+    "duration_str": "17h 52m"
   },
   {
     "title": "economie:::Sur le front des droits de douane, Donald Trump lance un nouvel ultimatum",
@@ -18248,11 +18254,17 @@
   },
   {
     "title": "culture:::Le polar pour penser l’après-guerre, avec Pierre Courrège et Harald Gilbers",
-    "added_at": "2025-07-06T19:39:35.900Z"
+    "added_at": "2025-07-06T19:39:35.900Z",
+    "removed_at": "2025-07-07T04:26:59.566Z",
+    "duration_minutes": 527,
+    "duration_str": "8h 47m"
   },
   {
     "title": "monde:::Des incendies «catastrophiques» ravagent la Syrie pour le quatrième jour consécutif",
-    "added_at": "2025-07-06T19:39:35.900Z"
+    "added_at": "2025-07-06T19:39:35.900Z",
+    "removed_at": "2025-07-07T03:51:53.993Z",
+    "duration_minutes": 492,
+    "duration_str": "8h 12m"
   },
   {
     "title": "sport:::Euro 2025 – La Suisse et l’Islande se neutralisent en première mi-temps",
@@ -18331,10 +18343,75 @@
   },
   {
     "title": "monde:::Moyen-Orient – Les négociations entre l’Etat hébreu et le Hamas ont commencé à Doha",
-    "added_at": "2025-07-06T23:04:27.488Z"
+    "added_at": "2025-07-06T23:04:27.488Z",
+    "removed_at": "2025-07-07T03:45:41.145Z",
+    "duration_minutes": 281,
+    "duration_str": "4h 41m"
   },
   {
     "title": "monde:::Guerre en Ukraine – Notre suivi de la semaine du 30 juin 2025",
-    "added_at": "2025-07-06T23:41:43.234Z"
+    "added_at": "2025-07-06T23:41:43.234Z",
+    "removed_at": "2025-07-07T03:51:53.993Z",
+    "duration_minutes": 250,
+    "duration_str": "4h 10m"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Israël a détecté deux missiles lancés depuis le Yémen",
+    "added_at": "2025-07-07T03:45:41.145Z",
+    "removed_at": "2025-07-07T04:22:54.015Z",
+    "duration_minutes": 37,
+    "duration_str": "37m"
+  },
+  {
+    "title": "monde:::Varsovie introduit pendant un peu moins d'un mois des contrôles aux frontières avec l'Allemagne et la Lituanie",
+    "added_at": "2025-07-07T03:51:53.993Z",
+    "removed_at": "2025-07-07T04:18:49.739Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "monde:::Au Brésil, les Brics expriment leur «préoccupation» face aux droits de douane «unilatéraux»",
+    "added_at": "2025-07-07T03:51:53.993Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – La Russie poursuit son avancée sur le front",
+    "added_at": "2025-07-07T03:51:53.993Z",
+    "removed_at": "2025-07-07T04:22:54.015Z",
+    "duration_minutes": 31,
+    "duration_str": "31m"
+  },
+  {
+    "title": "suisse:::D’Alger à Madrid, Beat Jans accélère la cadence",
+    "added_at": "2025-07-07T04:14:38.478Z",
+    "removed_at": "2025-07-07T04:16:43.494Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "suisse:::Beat Jans: «C’est dans l’intérêt des migrants de recevoir une décision rapide»",
+    "added_at": "2025-07-07T04:14:38.478Z"
+  },
+  {
+    "title": "suisse:::D’Alger à Madrid, le marathon de Beat Jans",
+    "added_at": "2025-07-07T04:16:43.494Z",
+    "removed_at": "2025-07-07T04:29:04.793Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Israël a détecté deux missiles lancés depuis le Yémen",
+    "added_at": "2025-07-07T04:22:54.015Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – La Russie poursuit son avancée sur le front",
+    "added_at": "2025-07-07T04:22:54.015Z"
+  },
+  {
+    "title": "economie:::Face aux géants de la tech américains, les grandes capitalisations boursières européennes font figure de nains",
+    "added_at": "2025-07-07T04:26:59.566Z"
+  },
+  {
+    "title": "suisse:::D’Alger à Madrid, des renvois de requérants à la lutte contre les féminicides, Beat Jans marque ses priorités",
+    "added_at": "2025-07-07T04:29:04.793Z"
   }
 ]
