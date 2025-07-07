@@ -52726,7 +52726,10 @@
   },
   {
     "title": "Ukraine : la Russie lance la plus grande attaque aérienne depuis le début de la guerre",
-    "added_at": "2025-07-02T09:35:07.588Z"
+    "added_at": "2025-07-02T09:35:07.588Z",
+    "removed_at": "2025-07-07T23:12:26.453Z",
+    "duration_minutes": 8017,
+    "duration_str": "5d 13h 37m"
   },
   {
     "title": "Canicule : un dôme de chaleur s’installe sur la France pour plusieurs jours",
@@ -53010,10 +53013,7 @@
   },
   {
     "title": "Gaza : enquête sur une distribution alimentaire qui a tourné à la fusillade contre des civils",
-    "added_at": "2025-07-02T09:47:54.158Z",
-    "removed_at": "2025-07-07T22:12:27.510Z",
-    "duration_minutes": 7944,
-    "duration_str": "5d 12h 24m"
+    "added_at": "2025-07-02T09:47:54.158Z"
   },
   {
     "title": "Les films à l’affiche cette semaine : « L’Accident de piano », « L’Aventura », « Rêves », « Materialists »…",
@@ -54968,9 +54968,9 @@
   {
     "title": "Des témoins racontent l’enfer des camps secrets du Groupe Wagner au Mali",
     "added_at": "2025-07-03T13:48:42.572Z",
-    "removed_at": "2025-07-07T22:16:38.616Z",
-    "duration_minutes": 6267,
-    "duration_str": "4d 8h 27m"
+    "removed_at": "2025-07-07T22:55:54.972Z",
+    "duration_minutes": 6307,
+    "duration_str": "4d 9h 7m"
   },
   {
     "title": "Donald Trump interrompt la livraison aux Ukrainiens du parapluie antimissile américain, un coup de semonce pour les Européens",
@@ -55362,9 +55362,9 @@
   {
     "title": "« Non, grand-mère n’était pas folle » : la quête de vérité sur les aïeules internées de force en psychiatrie",
     "added_at": "2025-07-05T16:27:14.539Z",
-    "removed_at": "2025-07-07T22:18:39.244Z",
-    "duration_minutes": 3231,
-    "duration_str": "2d 5h 51m"
+    "removed_at": "2025-07-07T23:06:16.730Z",
+    "duration_minutes": 3279,
+    "duration_str": "2d 6h 39m"
   },
   {
     "title": "L’entraîneur Joël Chenal accusé de harcèlement sexuel : l’affaire que le ski français n’a pas voulu voir pendant des années",
@@ -55375,7 +55375,10 @@
   },
   {
     "title": "Francis Dupuis-Déri, politiste : « Les “incels” forment l’une des communautés très actives du mouvement masculiniste aujourd’hui »",
-    "added_at": "2025-07-05T16:27:14.539Z"
+    "added_at": "2025-07-05T16:27:14.539Z",
+    "removed_at": "2025-07-07T23:14:26.852Z",
+    "duration_minutes": 3287,
+    "duration_str": "2d 6h 47m"
   },
   {
     "title": "« Il suffit qu’une femme entre dans son champ de vision et que, par malheur, elle pose son attention sur lui, pour que ses mâchoires se serrent »",
@@ -58335,5 +58338,9 @@
     "removed_at": "2025-07-07T22:12:27.510Z",
     "duration_minutes": 14,
     "duration_str": "14m"
+  },
+  {
+    "title": "La pauvreté et les inégalités au plus haut depuis trente ans",
+    "added_at": "2025-07-07T23:14:26.852Z"
   }
 ]
