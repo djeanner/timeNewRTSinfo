@@ -16635,11 +16635,17 @@
   },
   {
     "title": "Wildfires erupt across Mediterranean as heatwave worsens",
-    "added_at": "2025-07-07T09:55:35.217Z"
+    "added_at": "2025-07-07T09:55:35.217Z",
+    "removed_at": "2025-07-07T17:42:07.266Z",
+    "duration_minutes": 466,
+    "duration_str": "7h 46m"
   },
   {
     "title": "Israel attacks more aid seekers in Gaza; 24 Palestinians killed today",
-    "added_at": "2025-07-07T11:30:59.177Z"
+    "added_at": "2025-07-07T11:30:59.177Z",
+    "removed_at": "2025-07-07T17:29:35.267Z",
+    "duration_minutes": 358,
+    "duration_str": "5h 58m"
   },
   {
     "title": "Kenya police fire tear gas, water cannons at antigovernment protesters",
@@ -16704,5 +16710,13 @@
   {
     "title": "Yemen’s Houthis claim to have sunk ship, exchange attacks with Israel",
     "added_at": "2025-07-07T15:31:32.161Z"
+  },
+  {
+    "title": "‘Death trap’: Gaza hospital, shelters, and aid sites attacked by Israel",
+    "added_at": "2025-07-07T17:29:35.267Z"
+  },
+  {
+    "title": "Tesla shares tumble as Elon Musk floats new US political party",
+    "added_at": "2025-07-07T17:42:07.266Z"
   }
 ]

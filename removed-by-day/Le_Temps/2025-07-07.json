@@ -106,8 +106,9 @@
   {
     "title": "sport:::L’équipe Israel, de plus en plus encombrante dans le peloton du Tour de France",
     "added_at": "2025-07-07T06:51:44.512Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-07T17:02:47.683Z",
+    "duration_minutes": 611,
+    "duration_str": "10h 11m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Benyamin Netanyahou à Washington, Donald Trump espère un accord Israël-Hamas «cette semaine»",
@@ -174,14 +175,16 @@
   {
     "title": "culture:::Quand les artistes polonais voulaient peindre l’âme du pays perdu",
     "added_at": "2025-07-07T11:55:44.385Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-07T17:35:50.706Z",
+    "duration_minutes": 340,
+    "duration_str": "5h 40m"
   },
   {
     "title": "culture:::Série: Avec «Smoke», Dennis Lehane fait du polar pompier",
     "added_at": "2025-07-07T12:26:48.256Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-07T17:12:56.564Z",
+    "duration_minutes": 286,
+    "duration_str": "4h 46m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Kiev érige des filets de pêche sur le front pour se protéger des drones russes",
@@ -241,6 +244,24 @@
   {
     "title": "sciences:::Au Texas, plus de 80 morts dans les inondations et de nombreuses questions sans réponse",
     "added_at": "2025-07-07T16:29:50.461Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Décès d’Olivier Marleix, 54 ans, figure de la droite française qui voulait rassembler",
+    "added_at": "2025-07-07T17:02:47.683Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::Donald Trump confirme ses premières salves de tarifs douaniers",
+    "added_at": "2025-07-07T17:12:56.564Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "culture:::A Aix-en-Provence, «Louise» ou le charme de l’opéra vintage",
+    "added_at": "2025-07-07T17:35:50.706Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
