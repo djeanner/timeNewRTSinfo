@@ -25686,7 +25686,10 @@
   },
   {
     "title": "Asile: Berne revoit sa prise en charge des requérants récalcitrants",
-    "added_at": "2025-07-05T16:27:14.140Z"
+    "added_at": "2025-07-05T16:27:14.140Z",
+    "removed_at": "2025-07-07T01:18:59.728Z",
+    "duration_minutes": 1971,
+    "duration_str": "1d 8h 51m"
   },
   {
     "title": "Un nouveau rapport dévoile la lucrativité de la guerre à Gaza: interview de Francesca Albanese",
@@ -25777,7 +25780,10 @@
   },
   {
     "title": "Un attentat d'un jeune masculiniste revendiqué déjoué en France",
-    "added_at": "2025-07-05T16:27:14.140Z"
+    "added_at": "2025-07-05T16:27:14.140Z",
+    "removed_at": "2025-07-07T01:39:33.235Z",
+    "duration_minutes": 1992,
+    "duration_str": "1d 9h 12m"
   },
   {
     "title": "De nombreuses banques suisses ne sont pas constamment atteignables en cas d'urgence",
@@ -26076,10 +26082,7 @@
   },
   {
     "title": "L'armée suisse envisage l'abandon des drones de surveillance israéliens",
-    "added_at": "2025-07-06T07:16:45.562Z",
-    "removed_at": "2025-07-06T21:19:03.667Z",
-    "duration_minutes": 842,
-    "duration_str": "14h 2m"
+    "added_at": "2025-07-06T07:16:45.562Z"
   },
   {
     "title": "Une étude fédérale détaille les menaces pour la SSR d'une redevance à 200 francs",
@@ -26248,5 +26251,9 @@
   {
     "title": "Premières discussions sans résultat après l'ouverture des pourpalers entre le Hamas et Israël au Qatar",
     "added_at": "2025-07-07T00:39:35.524Z"
+  },
+  {
+    "title": "Israël frappe plusieurs cibles houthies au Yémen, les rebels répliquent avec un tir de missile",
+    "added_at": "2025-07-07T01:39:33.235Z"
   }
 ]
