@@ -26223,7 +26223,10 @@
   },
   {
     "title": "La météo caniculaire perturbe la faune piscicole des cours d'eau suisses",
-    "added_at": "2025-07-06T08:49:35.567Z"
+    "added_at": "2025-07-06T08:49:35.567Z",
+    "removed_at": "2025-07-08T04:41:13.482Z",
+    "duration_minutes": 2631,
+    "duration_str": "1d 19h 51m"
   },
   {
     "title": "L'ambassade suisse à Téhéran, en Iran, est réouverte depuis dimanche",
@@ -26666,5 +26669,9 @@
   {
     "title": "Le bilan des inondations au Texas dépasse désormais les 100 morts, les recherches se poursuivent",
     "added_at": "2025-07-08T01:18:42.777Z"
+  },
+  {
+    "title": "Sans église, sans salaire, sans reconnaissance: le combat de femmes pour devenir prêtres ou évêques",
+    "added_at": "2025-07-08T04:41:13.482Z"
   }
 ]
