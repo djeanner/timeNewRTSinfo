@@ -18693,7 +18693,10 @@
   },
   {
     "title": "culture:::Au Festival d’Avignon, l’amour fou selon la danseuse Anne Teresa De Keersmaeker et Jacques Brel",
-    "added_at": "2025-07-07T19:16:00.002Z"
+    "added_at": "2025-07-07T19:16:00.002Z",
+    "removed_at": "2025-07-08T08:58:24.025Z",
+    "duration_minutes": 822,
+    "duration_str": "13h 42m"
   },
   {
     "title": "monde:::Moyen-Orient – La Caisse de prévoyance de l’Etat de Genève va renoncer aux obligations d’Etat israéliennes",
@@ -18776,7 +18779,10 @@
   },
   {
     "title": "monde:::Guerre en Ukraine – Les Etats-Unis vont envoyer plus d’armes «défensives» à l’Ukraine, assure Donald Trump",
-    "added_at": "2025-07-08T07:16:26.076Z"
+    "added_at": "2025-07-08T07:16:26.076Z",
+    "removed_at": "2025-07-08T09:21:15.321Z",
+    "duration_minutes": 124,
+    "duration_str": "2h 4m"
   },
   {
     "title": "suisse:::Alexandre Edelmann, Présence Suisse: «L’Eurovision et l’Euro créent une séquence positive pour l’image de la Suisse»",
@@ -18793,5 +18799,9 @@
   {
     "title": "monde:::Moyen-Orient – «Aucune percée» dans les négociations indirectes entre Israël et Hamas",
     "added_at": "2025-07-08T08:33:28.517Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Au moins 9 morts civils et 81 blessés dans des attaques russes à travers l’Ukraine ces dernières 24 heures",
+    "added_at": "2025-07-08T09:21:15.321Z"
   }
 ]
