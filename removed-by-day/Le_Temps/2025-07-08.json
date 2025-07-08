@@ -172,8 +172,9 @@
   {
     "title": "sciences:::Le lait cru est un nouveau vecteur de transmission de l’encéphalite à tiques",
     "added_at": "2025-07-08T14:23:40.571Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-08T20:43:39.509Z",
+    "duration_minutes": 380,
+    "duration_str": "6h 20m"
   },
   {
     "title": "economie:::Le Conseil fédéral est toujours dans l'attente de nouvelles des Etats-Unis au sujet des droits de douane",
@@ -260,6 +261,12 @@
   {
     "title": "monde:::Moyen-Orient – «Il faut que l’on trouve une solution»: Donald Trump annonce une nouvelle rencontre avec Benyamin Netanyahou",
     "added_at": "2025-07-08T19:41:23.425Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::Toujours dans l’incertitude, la Suisse tremble après les dernières déclarations de Donald Trump",
+    "added_at": "2025-07-08T20:43:39.509Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
