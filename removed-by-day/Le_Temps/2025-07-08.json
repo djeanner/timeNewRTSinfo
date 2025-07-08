@@ -98,8 +98,9 @@
   {
     "title": "monde:::Guerre en Ukraine – Au moins 9 morts civils et 81 blessés dans des attaques russes à travers l’Ukraine ces dernières 24 heures",
     "added_at": "2025-07-08T09:21:15.321Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-08T23:13:01.084Z",
+    "duration_minutes": 832,
+    "duration_str": "13h 52m"
   },
   {
     "title": "economie:::Hermès agrandit ses ateliers dans les Franches-Montagnes même si l’horlogerie est à la peine",
@@ -267,6 +268,12 @@
   {
     "title": "economie:::Toujours dans l’incertitude, la Suisse tremble après les dernières déclarations de Donald Trump",
     "added_at": "2025-07-08T20:43:39.509Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Une attaque de drone ukrainienne fait au moins trois morts à Koursk",
+    "added_at": "2025-07-08T23:13:01.084Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
