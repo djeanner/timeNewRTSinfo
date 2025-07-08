@@ -25652,7 +25652,10 @@
   },
   {
     "title": "Le policier qui a poursuivi l'ado décédée à moto à Lausanne est aussi impliqué dans l'affaire Mike Ben Peter",
-    "added_at": "2025-07-05T16:27:14.140Z"
+    "added_at": "2025-07-05T16:27:14.140Z",
+    "removed_at": "2025-07-08T07:24:37.119Z",
+    "duration_minutes": 3777,
+    "duration_str": "2d 14h 57m"
   },
   {
     "title": "Des trains sans conducteur circulent désormais en service régulier en Suisse",
@@ -26218,7 +26221,10 @@
   },
   {
     "title": "Le velcro, cette invention suisse qui doit son succès à la conquête spatiale",
-    "added_at": "2025-07-06T08:00:07.222Z"
+    "added_at": "2025-07-06T08:00:07.222Z",
+    "removed_at": "2025-07-08T07:01:57.665Z",
+    "duration_minutes": 2821,
+    "duration_str": "1d 23h 1m"
   },
   {
     "title": "\"Les grands espaces\" s'invitent dans une triple exposition au Musée d'art du Valais",
@@ -26371,10 +26377,7 @@
   },
   {
     "title": "Le bilan des inondations au Texas s'alourdit à près de 80 morts, les recherches se poursuivent",
-    "added_at": "2025-07-06T21:33:31.494Z",
-    "removed_at": "2025-07-08T01:18:42.777Z",
-    "duration_minutes": 1665,
-    "duration_str": "1d 3h 45m"
+    "added_at": "2025-07-06T21:33:31.494Z"
   },
   {
     "title": "Le magnétiseur vedette Denis Vipret fait l'objet de multiples plaintes pour agressions sexuelles",
@@ -26644,7 +26647,10 @@
   },
   {
     "title": "Au Texas, le bilan des inondations s'alourdit",
-    "added_at": "2025-07-07T20:22:44.977Z"
+    "added_at": "2025-07-07T20:22:44.977Z",
+    "removed_at": "2025-07-08T07:24:37.119Z",
+    "duration_minutes": 661,
+    "duration_str": "11h 1m"
   },
   {
     "title": "Tennis: Belinda Bencic affronte Ekaterina Alexandrova pour une place en quart de finale à Wimbledon",
@@ -26677,7 +26683,10 @@
   },
   {
     "title": "Le bilan des inondations au Texas dépasse désormais les 100 morts, les recherches se poursuivent",
-    "added_at": "2025-07-08T01:18:42.777Z"
+    "added_at": "2025-07-08T01:18:42.777Z",
+    "removed_at": "2025-07-08T07:04:02.869Z",
+    "duration_minutes": 345,
+    "duration_str": "5h 45m"
   },
   {
     "title": "Sans église, sans salaire, sans reconnaissance: le combat de femmes pour devenir prêtres ou évêques",
@@ -26694,5 +26703,9 @@
   {
     "title": "Les assurés suisses coûtent plus cher aux caisses maladie que les étrangers",
     "added_at": "2025-07-08T06:22:36.143Z"
+  },
+  {
+    "title": "Une députée argovienne relance le débat sur la conduite de motos 125 cm3 à 16 ans",
+    "added_at": "2025-07-08T07:01:57.665Z"
   }
 ]
