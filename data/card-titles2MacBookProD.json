@@ -18684,7 +18684,10 @@
   },
   {
     "title": "monde:::Exclusif – Le CICR contraint à des réductions budgétaires de 17%",
-    "added_at": "2025-07-07T18:30:47.210Z"
+    "added_at": "2025-07-07T18:30:47.210Z",
+    "removed_at": "2025-07-08T15:05:00.654Z",
+    "duration_minutes": 1234,
+    "duration_str": "20h 34m"
   },
   {
     "title": "economie:::Migros Industrie pourrait fermer d’autres sites de production en Suisse",
@@ -18799,7 +18802,10 @@
   },
   {
     "title": "economie:::Guerres de la morue, quand un poisson a bousculé l’OTAN",
-    "added_at": "2025-07-08T08:00:26.918Z"
+    "added_at": "2025-07-08T08:00:26.918Z",
+    "removed_at": "2025-07-08T14:23:40.571Z",
+    "duration_minutes": 383,
+    "duration_str": "6h 23m"
   },
   {
     "title": "suisse:::A Lausanne, les logements étudiants affichent déjà complets pour la rentrée",
@@ -18836,7 +18842,10 @@
   },
   {
     "title": "monde:::Le parquet européen ouvre une enquête sur le RN, soupçonné d’irrégularités financières au Parlement",
-    "added_at": "2025-07-08T13:11:04.726Z"
+    "added_at": "2025-07-08T13:11:04.726Z",
+    "removed_at": "2025-07-08T14:54:39.820Z",
+    "duration_minutes": 103,
+    "duration_str": "1h 43m"
   },
   {
     "title": "culture:::La fontaine de Meret Oppenheim à Berne, trait d’union entre ciel et terre",
@@ -18851,7 +18860,10 @@
   },
   {
     "title": "suisse:::A Lausanne, les logements étudiants affichent déjà complet pour la rentrée",
-    "added_at": "2025-07-08T13:42:10.405Z"
+    "added_at": "2025-07-08T13:42:10.405Z",
+    "removed_at": "2025-07-08T14:31:57.696Z",
+    "duration_minutes": 49,
+    "duration_str": "49m"
   },
   {
     "title": "monde:::Un incendie à la propagation «très rapide» provoque la fermeture de l’aéroport de Marseille",
@@ -18864,5 +18876,17 @@
   {
     "title": "suisse:::Les lacs suisses ont grimpé de cinq degrés en deux semaines",
     "added_at": "2025-07-08T14:00:47.835Z"
+  },
+  {
+    "title": "sciences:::Le lait cru est un nouveau vecteur de transmission de l’encéphalite à tiques",
+    "added_at": "2025-07-08T14:23:40.571Z"
+  },
+  {
+    "title": "economie:::Le Conseil fédéral est toujours dans l'attente de nouvelles des Etats-Unis au sujet des droits de douane",
+    "added_at": "2025-07-08T14:54:39.820Z"
+  },
+  {
+    "title": "suisse:::Face au secret bancaire, la liberté de la presse l’emporte – pour le moment",
+    "added_at": "2025-07-08T15:05:00.654Z"
   }
 ]
