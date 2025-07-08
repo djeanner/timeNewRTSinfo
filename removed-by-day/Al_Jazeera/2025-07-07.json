@@ -193,8 +193,9 @@
   {
     "title": "Methane gas inside northern Iraq cave kills 12 Turkish soldiers",
     "added_at": "2025-07-07T13:37:13.848Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-08T00:10:21.287Z",
+    "duration_minutes": 633,
+    "duration_str": "10h 33m"
   },
   {
     "title": "Donald Trump to host Israel’s Benjamin Netanyahu at White House",
@@ -213,8 +214,9 @@
   {
     "title": "BRICS condemns attacks on Iran, Gaza war, Trump tariffs: Key takeaways",
     "added_at": "2025-07-07T14:49:56.966Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-07T23:57:54.494Z",
+    "duration_minutes": 548,
+    "duration_str": "9h 8m"
   },
   {
     "title": "Two killed after Kenya police shoot at antigovernment protesters: Official",
@@ -326,5 +328,12 @@
     "added_at": "2025-07-07T23:14:26.892Z",
     "duration_minutes": 0,
     "duration_str": ""
+  },
+  {
+    "title": "Donald Trump threatens ‘un-American’ BRICS countries with 10-percent tariff",
+    "added_at": "2025-07-07T23:57:54.494Z",
+    "removed_at": "2025-07-08T00:08:20.051Z",
+    "duration_minutes": 10,
+    "duration_str": "10m"
   }
 ]
