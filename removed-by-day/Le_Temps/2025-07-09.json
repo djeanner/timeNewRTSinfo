@@ -88,8 +88,9 @@
   {
     "title": "culture:::Comic Sans, tout le monde déteste la police",
     "added_at": "2025-07-09T13:55:04.275Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-09T17:18:22.623Z",
+    "duration_minutes": 203,
+    "duration_str": "3h 23m"
   },
   {
     "title": "economie:::A Londres, les introductions en bourse ne font plus recette",
@@ -119,8 +120,9 @@
   {
     "title": "sport:::Où s’arrêtera Belinda Bencic, demi-finaliste de Wimbledon?",
     "added_at": "2025-07-09T15:09:50.238Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-09T17:26:42.689Z",
+    "duration_minutes": 137,
+    "duration_str": "2h 17m"
   },
   {
     "title": "sport:::A Versoix, les «Chouettes boréales» de la Finlande se préparent en famille à défier la Nati",
@@ -131,8 +133,9 @@
   {
     "title": "monde:::La Grèce suspend pour trois mois l’examen des demandes d’asile des personnes arrivant d’Afrique du Nord",
     "added_at": "2025-07-09T15:09:50.238Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-09T17:03:56.672Z",
+    "duration_minutes": 114,
+    "duration_str": "1h 54m"
   },
   {
     "title": "economie:::Comment le détaillant Action a conquis l’Europe",
@@ -143,12 +146,37 @@
   {
     "title": "economie:::Le détaillant Action, qui s’apprête à débarquer en Suisse, est moins cher que Temu",
     "added_at": "2025-07-09T15:32:34.376Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-09T17:30:54.654Z",
+    "duration_minutes": 118,
+    "duration_str": "1h 58m"
   },
   {
     "title": "suisse:::A Zurich, la destruction planifiée d’un club de badminton passionne la ville",
     "added_at": "2025-07-09T16:07:50.343Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "cyber:::Nvidia première entreprise à dépasser les 4’000 milliards de dollars de capitalisation boursière",
+    "added_at": "2025-07-09T17:03:56.672Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "sciences:::Les cas d’encéphalite à tiques se multiplient en Suisse, ce qu’il faut savoir sur cette maladie",
+    "added_at": "2025-07-09T17:08:02.674Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "sport:::Belinda Bencic, la sensation de Wimbledon",
+    "added_at": "2025-07-09T17:26:42.689Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "cyber:::L’EPFL est près de lancer un modèle de langage suisse, souverain et destiné au «bien commun»: trois questions pour comprendre ces immenses ambitions",
+    "added_at": "2025-07-09T17:30:54.654Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
