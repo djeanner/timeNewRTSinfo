@@ -19063,7 +19063,10 @@
   },
   {
     "title": "monde:::Marseille en flammes illustre la particularité des feux de forêt en milieu urbain",
-    "added_at": "2025-07-09T13:55:04.275Z"
+    "added_at": "2025-07-09T13:55:04.275Z",
+    "removed_at": "2025-07-09T16:07:50.343Z",
+    "duration_minutes": 132,
+    "duration_str": "2h 12m"
   },
   {
     "title": "economie:::Comment les Etats-Unis ont remporté la guerre d’internet",
@@ -19144,5 +19147,9 @@
   {
     "title": "economie:::Le détaillant Action, qui s’apprête à débarquer en Suisse, est moins cher que Temu",
     "added_at": "2025-07-09T15:32:34.376Z"
+  },
+  {
+    "title": "suisse:::A Zurich, la destruction planifiée d’un club de badminton passionne la ville",
+    "added_at": "2025-07-09T16:07:50.343Z"
   }
 ]
