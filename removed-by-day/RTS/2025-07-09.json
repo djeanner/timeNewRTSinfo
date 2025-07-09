@@ -195,8 +195,9 @@
   {
     "title": "Un incendie atteint la ville de Marseille, entraînant la fermeture de l'aéroport",
     "added_at": "2025-07-09T17:28:51.841Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-09T19:27:52.712Z",
+    "duration_minutes": 119,
+    "duration_str": "1h 59m"
   },
   {
     "title": "La polémique de la piscine de Porrentruy déborde des frontières",
@@ -213,6 +214,12 @@
   {
     "title": "Pedro Sánchez dévoile un plan anti-corruption dans l'espoir de sauver son mandat",
     "added_at": "2025-07-09T18:46:01.979Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Page spéciale Euro 2025 avec Nicole Petignat, 1ère femme arbitre en Suisse",
+    "added_at": "2025-07-09T19:27:52.712Z",
     "duration_minutes": 0,
     "duration_str": ""
   }

@@ -19090,14 +19090,14 @@
   },
   {
     "title": "culture:::La création en épitaphe",
-    "added_at": "2025-07-09T13:55:04.275Z",
-    "removed_at": "2025-07-09T18:35:37.354Z",
-    "duration_minutes": 280,
-    "duration_str": "4h 40m"
+    "added_at": "2025-07-09T13:55:04.275Z"
   },
   {
     "title": "culture:::Le phénomène Theodora au Montreux Jazz, tout pour durer",
-    "added_at": "2025-07-09T13:55:04.275Z"
+    "added_at": "2025-07-09T13:55:04.275Z",
+    "removed_at": "2025-07-09T18:56:37.303Z",
+    "duration_minutes": 301,
+    "duration_str": "5h 1m"
   },
   {
     "title": "suisse:::Les médias recevront 35 millions de francs supplémentaires de la Confédération lors des sept prochaines années",
@@ -19123,7 +19123,10 @@
   },
   {
     "title": "economie:::A Londres, les introductions en bourse ne font plus recette",
-    "added_at": "2025-07-09T13:55:04.275Z"
+    "added_at": "2025-07-09T13:55:04.275Z",
+    "removed_at": "2025-07-09T19:27:52.760Z",
+    "duration_minutes": 332,
+    "duration_str": "5h 32m"
   },
   {
     "title": "culture:::A Aix-en-Provence, le marin «Billy Budd», d’après Britten, a le vent en poupe",
@@ -19175,7 +19178,10 @@
   },
   {
     "title": "cyber:::Nvidia première entreprise à dépasser les 4’000 milliards de dollars de capitalisation boursière",
-    "added_at": "2025-07-09T17:03:56.672Z"
+    "added_at": "2025-07-09T17:03:56.672Z",
+    "removed_at": "2025-07-09T18:54:30.228Z",
+    "duration_minutes": 110,
+    "duration_str": "1h 50m"
   },
   {
     "title": "sciences:::Les cas d’encéphalite à tiques se multiplient en Suisse, ce qu’il faut savoir sur cette maladie",
@@ -19187,10 +19193,7 @@
   },
   {
     "title": "cyber:::L’EPFL est près de lancer un modèle de langage suisse, souverain et destiné au «bien commun»: trois questions pour comprendre ces immenses ambitions",
-    "added_at": "2025-07-09T17:30:54.654Z",
-    "removed_at": "2025-07-09T18:43:58.689Z",
-    "duration_minutes": 73,
-    "duration_str": "1h 13m"
+    "added_at": "2025-07-09T17:30:54.654Z"
   },
   {
     "title": "sport:::Nike et Rabobank, les marques brûlées par le dopage, font leur retour sur le Tour",
@@ -19203,5 +19206,13 @@
   {
     "title": "sport:::A Zurich, l’Angleterre se rassure aux dépens des Pays-Bas",
     "added_at": "2025-07-09T18:43:58.689Z"
+  },
+  {
+    "title": "culture:::«The Killer», quand le John Woo de Hongkong refait du John Woo à Paris",
+    "added_at": "2025-07-09T18:56:37.303Z"
+  },
+  {
+    "title": "culture:::Sean Byrne, réalisateur de «Dangerous Animals»: «J’ai voulu mêler film de requins et de «serial killer»",
+    "added_at": "2025-07-09T19:27:52.760Z"
   }
 ]
