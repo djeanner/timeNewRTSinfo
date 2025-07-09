@@ -26366,7 +26366,10 @@
   },
   {
     "title": "Cinq femmes accusent le guérisseur suisse Denis Vipret d'agressions sexuelles",
-    "added_at": "2025-07-06T15:00:35.022Z"
+    "added_at": "2025-07-06T15:00:35.022Z",
+    "removed_at": "2025-07-09T01:25:31.825Z",
+    "duration_minutes": 3504,
+    "duration_str": "2d 10h 24m"
   },
   {
     "title": "Un groupe armé palestinien coopère avec l'armée israélienne contre le Hamas",
@@ -26746,7 +26749,10 @@
   },
   {
     "title": "De nouvelles crues attendues au Texas, où Donald Trump se rendra \"probablement vendredi\"",
-    "added_at": "2025-07-07T19:28:25.018Z"
+    "added_at": "2025-07-07T19:28:25.018Z",
+    "removed_at": "2025-07-09T01:25:31.825Z",
+    "duration_minutes": 1797,
+    "duration_str": "1d 5h 57m"
   },
   {
     "title": "Edouard Philippe et deux autres ex-ministres français obtiennent un non-lieu dans l'affaire de la gestion du Covid",
@@ -27027,5 +27033,9 @@
   {
     "title": "Le lait cru, nouveau vecteur de transmission de l'encéphalite à tiques",
     "added_at": "2025-07-09T00:25:26.546Z"
+  },
+  {
+    "title": "La Cour suprême des Etats-Unis débloque les licenciements de fonctionnaires fédéraux",
+    "added_at": "2025-07-09T01:25:31.825Z"
   }
 ]
