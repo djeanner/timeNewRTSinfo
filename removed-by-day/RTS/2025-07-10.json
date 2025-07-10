@@ -262,8 +262,9 @@
   {
     "title": "Important incendie dans la région de Coeuve, dans le canton du Jura",
     "added_at": "2025-07-10T19:06:26.747Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-10T20:46:13.709Z",
+    "duration_minutes": 100,
+    "duration_str": "1h 40m"
   },
   {
     "title": "La France et le Royaume-Uni renforcent leur coopération migratoire et nucléaire",
@@ -274,6 +275,24 @@
   {
     "title": "Le maire de Porrentruy défend la limitation d'accès à la piscine",
     "added_at": "2025-07-10T20:00:22.966Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "\"Monsieur Ukraine\" du Conseil fédéral, Jacques Gerber signe un accord avec Kiev",
+    "added_at": "2025-07-10T20:08:51.866Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Le chef de la junte malienne s'octroie un mandat illimité de président",
+    "added_at": "2025-07-10T20:33:45.155Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Alerte levée pour l'incendie à Coeuve, dans le canton du Jura",
+    "added_at": "2025-07-10T20:46:13.709Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
