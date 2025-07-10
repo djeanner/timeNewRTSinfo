@@ -37,8 +37,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Kiev visée par une attaque russe qui a fait deux morts",
     "added_at": "2025-07-10T04:00:58.257Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-10T06:13:49.774Z",
+    "duration_minutes": 133,
+    "duration_str": "2h 13m"
   },
   {
     "title": "economie:::Droits de douane: Donald Trump annonce des taxes de 50% sur le cuivre dès le 1er août",
@@ -105,6 +106,12 @@
   {
     "title": "monde:::Reconstruire sous les bombes: à Rome, l’Europe se cherche à nouveau un rôle dans l’avenir de l’Ukraine",
     "added_at": "2025-07-10T05:59:07.154Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Une nouvelle attaque d'ampleur russe fait au moins deux morts à Kiev",
+    "added_at": "2025-07-10T06:13:49.774Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
