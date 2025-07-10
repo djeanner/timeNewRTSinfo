@@ -195,8 +195,9 @@
   {
     "title": "Un incendie atteint la ville de Marseille, entraînant la fermeture de l'aéroport",
     "added_at": "2025-07-09T17:28:51.841Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-09T23:29:15.745Z",
+    "duration_minutes": 360,
+    "duration_str": "6h"
   },
   {
     "title": "La polémique de la piscine de Porrentruy déborde des frontières",
@@ -251,6 +252,12 @@
   {
     "title": "The Velvet Sundown, un groupe de musique factice et entièrement généré par IA cartonne sur Spotify",
     "added_at": "2025-07-09T23:27:02.049Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "L'invité de La Matinale - Patrice Spinosi, avocat à la Cour de cassation et auteur de \"Menace sur l'État de droit\"",
+    "added_at": "2025-07-09T23:29:15.745Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
