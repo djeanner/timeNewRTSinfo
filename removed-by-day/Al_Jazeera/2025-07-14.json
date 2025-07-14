@@ -95,9 +95,8 @@
   {
     "title": "Israel killing Gaza civilians with commercial drones, probe finds",
     "added_at": "2025-07-14T10:19:31.037Z",
-    "removed_at": "2025-07-14T14:09:59.926Z",
-    "duration_minutes": 230,
-    "duration_str": "3h 50m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Sleeplessness, death, destruction: Russian attacks torment Kyiv",
@@ -114,8 +113,9 @@
   {
     "title": "Grand Canyon Lodge destroyed in wildfire: What we know",
     "added_at": "2025-07-14T11:24:26.276Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-14T14:28:40.421Z",
+    "duration_minutes": 184,
+    "duration_str": "3h 4m"
   },
   {
     "title": "‘No basis’: Pilot groups reject claims of human error in Air India crash",
@@ -151,6 +151,13 @@
   {
     "title": "Commercial drones used to bomb civilians in Gaza, report says",
     "added_at": "2025-07-14T14:09:59.926Z",
+    "removed_at": "2025-07-14T14:57:35.067Z",
+    "duration_minutes": 48,
+    "duration_str": "48m"
+  },
+  {
+    "title": "Grand Canyon Lodge destroyed in wildfire: What happened, what’s the latest?",
+    "added_at": "2025-07-14T14:28:40.421Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
