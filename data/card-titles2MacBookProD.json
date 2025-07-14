@@ -19730,7 +19730,10 @@
   },
   {
     "title": "sport:::Jonas Vingegaard, la revanche du «poissonnier»",
-    "added_at": "2025-07-13T19:40:02.054Z"
+    "added_at": "2025-07-13T19:40:02.054Z",
+    "removed_at": "2025-07-14T15:30:41.133Z",
+    "duration_minutes": 1190,
+    "duration_str": "19h 50m"
   },
   {
     "title": "culture:::Esther Welger-Barboza, directrice de la Sélection suisse en Avignon: «Les artistes suisses sont chers pour la France»",
@@ -19868,7 +19871,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump espère que la question de Gaza sera «réglée» la semaine prochaine",
-    "added_at": "2025-07-14T04:05:37.180Z"
+    "added_at": "2025-07-14T04:05:37.180Z",
+    "removed_at": "2025-07-14T15:53:25.363Z",
+    "duration_minutes": 707,
+    "duration_str": "11h 47m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Les Etats-Unis vont envoyer des systèmes antiaériens Patriot à l'Ukraine",
@@ -19890,11 +19896,17 @@
   },
   {
     "title": "monde:::En direct – Les Etats-Unis vont envoyer des systèmes antiaériens Patriot à l'Ukraine",
-    "added_at": "2025-07-14T04:48:50.275Z"
+    "added_at": "2025-07-14T04:48:50.275Z",
+    "removed_at": "2025-07-14T15:38:55.725Z",
+    "duration_minutes": 650,
+    "duration_str": "10h 50m"
   },
   {
     "title": "monde:::L’OTAN teste des drones en mer Baltique pour surveiller la flotte fantôme russe et détecter des actes de sabotage",
-    "added_at": "2025-07-14T06:26:02.978Z"
+    "added_at": "2025-07-14T06:26:02.978Z",
+    "removed_at": "2025-07-14T15:36:51.102Z",
+    "duration_minutes": 550,
+    "duration_str": "9h 10m"
   },
   {
     "title": "culture:::Thierry Ardisson, «l’homme en noir» de la télévision française, est mort à 76 ans",
@@ -19924,7 +19936,10 @@
   },
   {
     "title": "suisse:::Une autre affaire de guérisseur accusé d’agressions sexuelles secoue Fribourg",
-    "added_at": "2025-07-14T09:46:27.071Z"
+    "added_at": "2025-07-14T09:46:27.071Z",
+    "removed_at": "2025-07-14T15:59:37.068Z",
+    "duration_minutes": 373,
+    "duration_str": "6h 13m"
   },
   {
     "title": "economie:::L’émergence des Private Trust Companies suisses",
@@ -19961,10 +19976,43 @@
   },
   {
     "title": "monde:::Dans le nord du Bénin, l’Etat annonce des projets sociaux pour lutter contre le djihadisme",
-    "added_at": "2025-07-14T14:32:50.859Z"
+    "added_at": "2025-07-14T14:32:50.859Z",
+    "removed_at": "2025-07-14T15:57:30.174Z",
+    "duration_minutes": 84,
+    "duration_str": "1h 24m"
   },
   {
     "title": "suisse:::Le journal vaudois «La Région» licencie l’ensemble de son personnel",
-    "added_at": "2025-07-14T14:36:55.544Z"
+    "added_at": "2025-07-14T14:36:55.544Z",
+    "removed_at": "2025-07-14T16:05:49.144Z",
+    "duration_minutes": 88,
+    "duration_str": "1h 28m"
+  },
+  {
+    "title": "monde:::Peut-on vraiment «négocier» avec Donald Trump? Les Européens contraints de miser sur un double langage",
+    "added_at": "2025-07-14T15:30:41.133Z"
+  },
+  {
+    "title": "monde:::En direct – L’Ukraine recevra un «grand nombre» d’armes grâce à un accord entre l’OTAN et les Etats-Unis",
+    "added_at": "2025-07-14T15:38:55.725Z",
+    "removed_at": "2025-07-14T15:51:18.611Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "monde:::En direct – Donald Trump menace la Russie de droits de douane et lui donne «50 jours» pour trouver un accord avec l’Ukraine",
+    "added_at": "2025-07-14T15:51:18.611Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les médiateurs disent tenter de surmonter les «divergences restantes» dans les négociations de la trêve",
+    "added_at": "2025-07-14T15:53:25.363Z"
+  },
+  {
+    "title": "sport:::Euro 2025: sur et hors du stade, la beauté du collectif",
+    "added_at": "2025-07-14T15:57:30.174Z"
+  },
+  {
+    "title": "suisse:::Le journal vaudois «La Région» licencie l’ensemble de son personnel, sa parution est «incertaine» dès la semaine prochaine",
+    "added_at": "2025-07-14T16:05:49.144Z"
   }
 ]
