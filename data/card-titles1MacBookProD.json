@@ -28119,11 +28119,17 @@
   },
   {
     "title": "Donald Trump annonce des droits de douane de 30% contre l'UE et le Mexique",
-    "added_at": "2025-07-13T19:40:02.005Z"
+    "added_at": "2025-07-13T19:40:02.005Z",
+    "removed_at": "2025-07-14T17:03:43.587Z",
+    "duration_minutes": 1283,
+    "duration_str": "21h 23m"
   },
   {
     "title": "Le NIFFF récompense la Française Lucile Hadžihalilović",
-    "added_at": "2025-07-13T19:40:02.005Z"
+    "added_at": "2025-07-13T19:40:02.005Z",
+    "removed_at": "2025-07-14T16:41:01.169Z",
+    "duration_minutes": 1260,
+    "duration_str": "21h"
   },
   {
     "title": "Le canton de Neuchâtel souhaite accueillir la Fête fédérale du lutte en 2031",
@@ -28162,10 +28168,7 @@
   },
   {
     "title": "Podcast - Où sont passés les Invaders?",
-    "added_at": "2025-07-13T19:40:02.005Z",
-    "removed_at": "2025-07-14T14:41:01.292Z",
-    "duration_minutes": 1140,
-    "duration_str": "19h"
+    "added_at": "2025-07-13T19:40:02.005Z"
   },
   {
     "title": "Incident au Montreux Jazz Festival, le plancher cède pendant un concert",
@@ -28465,5 +28468,9 @@
   {
     "title": "La Région, le journal du Nord Vaudois, licencie l'ensemble de son personnel",
     "added_at": "2025-07-14T15:26:33.996Z"
+  },
+  {
+    "title": "Le Tribunal fédéral saisi dans l’affaire des bulletins trafiqués à Vernier",
+    "added_at": "2025-07-14T17:03:43.587Z"
   }
 ]
