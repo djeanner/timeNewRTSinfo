@@ -19989,7 +19989,10 @@
   },
   {
     "title": "suisse:::Décisions en demi-teinte dans l’affaire des activistes suspectés d’avoir peint une piste cyclable à Genève",
-    "added_at": "2025-07-14T12:51:29.196Z"
+    "added_at": "2025-07-14T12:51:29.196Z",
+    "removed_at": "2025-07-15T17:37:27.309Z",
+    "duration_minutes": 1725,
+    "duration_str": "1d 4h 45m"
   },
   {
     "title": "culture:::Etre artiste ici et maintenant. Deux œuvres de femmes engagées au Musée des beaux-arts de La Chaux-de-Fonds",
@@ -20103,7 +20106,10 @@
   },
   {
     "title": "economie:::La concentration des financements pour les start-up suisses se poursuit",
-    "added_at": "2025-07-15T13:47:08.061Z"
+    "added_at": "2025-07-15T13:47:08.061Z",
+    "removed_at": "2025-07-15T16:57:55.389Z",
+    "duration_minutes": 190,
+    "duration_str": "3h 10m"
   },
   {
     "title": "monde:::Frustré par Vladimir Poutine, Donald Trump hausse le ton mais change-t-il réellement de stratégie?",
@@ -20115,7 +20121,10 @@
   },
   {
     "title": "monde:::Derrière le revirement de Donald Trump sur l’Ukraine, la frustration d’un président et un délai de cinquante jours jugé trop long",
-    "added_at": "2025-07-15T13:47:08.061Z"
+    "added_at": "2025-07-15T13:47:08.061Z",
+    "removed_at": "2025-07-15T16:51:41.131Z",
+    "duration_minutes": 184,
+    "duration_str": "3h 4m"
   },
   {
     "title": "culture:::A découvrir au Montreux Jazz: Saint Levant, et la lutte devint sexy",
@@ -20184,5 +20193,24 @@
   {
     "title": "suisse:::A Genève, grosse déprime au sein du service chargé de suivre et de contrôler le parcours des détenus",
     "added_at": "2025-07-15T16:07:51.393Z"
+  },
+  {
+    "title": "sciences:::Un bras de fer s’engage autour de la mammographie de dépistage entre les radiologues et les assureurs",
+    "added_at": "2025-07-15T16:51:41.131Z",
+    "removed_at": "2025-07-15T17:16:36.345Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "monde:::Richard Gowan: «Au cours des six premiers mois, la diplomatie américaine à l’ONU a été une vraie pagaille»",
+    "added_at": "2025-07-15T16:57:55.389Z"
+  },
+  {
+    "title": "sciences:::Un bras de fer s’engage autour du dépistage du cancer du sein entre les radiologues et les assureurs",
+    "added_at": "2025-07-15T17:16:36.345Z"
+  },
+  {
+    "title": "economie:::Le débit du Rhône en question autour d’un projet de réacteurs nucléaires à Bugey",
+    "added_at": "2025-07-15T17:37:27.309Z"
   }
 ]
