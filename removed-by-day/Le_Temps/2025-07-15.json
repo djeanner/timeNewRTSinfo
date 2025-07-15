@@ -76,8 +76,9 @@
   {
     "title": "sport:::Tour de France: Lucho Herrera, ancien messager de la paix sur son vélo, accusé d’avoir commandité quatre meurtres",
     "added_at": "2025-07-15T13:47:08.061Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-15T16:07:51.393Z",
+    "duration_minutes": 141,
+    "duration_str": "2h 21m"
   },
   {
     "title": "economie:::En Chine, l’avènement des giga-porcheries, ces fermes verticales aux 260 000 cochons",
@@ -95,12 +96,25 @@
   {
     "title": "monde:::Israël viole l’accord d’association avec l’UE. Mais les 27 refusent de prendre des sanctions",
     "added_at": "2025-07-15T15:15:33.902Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-15T16:03:38.078Z",
+    "duration_minutes": 48,
+    "duration_str": "48m"
   },
   {
     "title": "monde:::François Bayrou s’expose en menaçant deux jours fériés et en gelant les dépenses publiques pour sortir la France de la «malédiction» déficitaire",
     "added_at": "2025-07-15T15:34:16.151Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Israël viole l’accord d’association avec l’UE. Mais les Vingt-Sept refusent de prendre des sanctions",
+    "added_at": "2025-07-15T16:03:38.078Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::A Genève, grosse déprime au sein du service chargé de suivre et de contrôler le parcours des détenus",
+    "added_at": "2025-07-15T16:07:51.393Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
