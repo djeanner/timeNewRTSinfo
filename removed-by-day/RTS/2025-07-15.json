@@ -401,14 +401,16 @@
   {
     "title": "Le détenu évadé de prison dans un sac a été arrêté près de Lyon",
     "added_at": "2025-07-15T10:12:36.110Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-15T19:11:28.956Z",
+    "duration_minutes": 539,
+    "duration_str": "8h 59m"
   },
   {
     "title": "Eté karaoké explore chaque jour le top 5 des chansons les plus demandées en karaoké",
     "added_at": "2025-07-15T10:12:36.110Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-15T18:48:29.273Z",
+    "duration_minutes": 516,
+    "duration_str": "8h 36m"
   },
   {
     "title": "Les bières sans alcool sont moins caloriques mais plus sucrées que leur équivalent classique",
@@ -565,8 +567,9 @@
   {
     "title": "Ouverture du procès de l'homme qui a poignardé sa compagne en 2020 dans un parc de Montreux",
     "added_at": "2025-07-15T13:47:08.014Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-15T19:23:59.685Z",
+    "duration_minutes": 337,
+    "duration_str": "5h 37m"
   },
   {
     "title": "L'agriculture face aux aléas climatiques, entre adaptations et incertitudes",
@@ -702,8 +705,9 @@
   {
     "title": "Wawrinka battu dès son entrée en lice, comme l'an passé",
     "added_at": "2025-07-15T17:52:05.540Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-15T18:40:12.269Z",
+    "duration_minutes": 48,
+    "duration_str": "48m"
   },
   {
     "title": "Le voile à l'école au cœur d'un nouveau débat à Saint-Gall",
@@ -720,6 +724,30 @@
   {
     "title": "Émeutes racistes et ratonnades secouent une petite ville du sud-est de l'Espagne",
     "added_at": "2025-07-15T18:27:34.098Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Wawrinka sorti d'entrée. \"On approche simplement de la fin d'une carrière\"",
+    "added_at": "2025-07-15T18:40:12.269Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Une femme voilée se voit refuser l'entrée d'un restaurant à Genève",
+    "added_at": "2025-07-15T18:48:29.273Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "La nouvelle tarification médicale, un risque pour le dépistage du cancer du sein",
+    "added_at": "2025-07-15T19:11:28.956Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Une peine de 18 ans requise contre l'homme qui a poignardé sa compagne dans un parc de Montreux en 2020",
+    "added_at": "2025-07-15T19:23:59.685Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
