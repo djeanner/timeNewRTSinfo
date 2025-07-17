@@ -665,7 +665,10 @@
   },
   {
     "title": "Le premier cliché de Mars souffle ses 60 bougies",
-    "added_at": "2025-07-15T13:47:08.014Z"
+    "added_at": "2025-07-15T13:47:08.014Z",
+    "removed_at": "2025-07-17T09:28:16.176Z",
+    "duration_minutes": 2621,
+    "duration_str": "1d 19h 41m"
   },
   {
     "title": "Pulp fait souffler un vent de fraîcheur pop mélodique au Montreux Jazz Festival",
@@ -999,5 +1002,9 @@
   {
     "title": "Un centre commercial en flammes fait au moins 60 morts dans l'est de l'Irak",
     "added_at": "2025-07-17T08:22:58.991Z"
+  },
+  {
+    "title": "Après un début d'année record, le commerce extérieur suisse en repli au deuxième trimestre",
+    "added_at": "2025-07-17T09:28:16.176Z"
   }
 ]
