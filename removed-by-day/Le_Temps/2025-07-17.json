@@ -48,7 +48,7 @@
   {
     "title": "suisse:::Le barrage de la Grande Dixence est inaccessible suite à un important éboulement",
     "added_at": "2025-07-17T05:54:56.462Z",
-    "removed_at": "2025-07-17T09:58:21.070Z",
+    "removed_at": "2025-07-17T09:57:35.762Z",
     "duration_minutes": 243,
     "duration_str": "4h 3m"
   },
@@ -61,7 +61,7 @@
   {
     "title": "economie:::Swatch Group plombé par la faiblesse de la Chine",
     "added_at": "2025-07-17T06:10:22.796Z",
-    "removed_at": "2025-07-17T11:28:13.874Z",
+    "removed_at": "2025-07-17T11:28:01.057Z",
     "duration_minutes": 318,
     "duration_str": "5h 18m"
   },
@@ -74,9 +74,9 @@
   {
     "title": "economie:::Patrick Leimgruber, directeur d’UPSA en Suisse: «En termes de rapatriement de la production pharmaceutique, l’Europe n’y est pas encore»",
     "added_at": "2025-07-17T06:53:57.968Z",
-    "removed_at": "2025-07-17T11:46:40.824Z",
-    "duration_minutes": 293,
-    "duration_str": "4h 53m"
+    "removed_at": "2025-07-17T11:44:58.353Z",
+    "duration_minutes": 291,
+    "duration_str": "4h 51m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les forces syriennes ont quitté la province à majorité druze de Soueïda",
@@ -94,7 +94,7 @@
   {
     "title": "sciences:::En Islande, le volcan de Reykjanes est à nouveau entré en éruption, la neuvième en deux ans",
     "added_at": "2025-07-17T09:16:01.213Z",
-    "removed_at": "2025-07-17T10:45:18.384Z",
+    "removed_at": "2025-07-17T10:44:43.355Z",
     "duration_minutes": 89,
     "duration_str": "1h 29m"
   },
@@ -112,19 +112,25 @@
   },
   {
     "title": "monde:::The Horse & Groom, un refuge historique de la communauté ouvrière anglaise à l’article de la mort",
-    "added_at": "2025-07-17T09:58:21.070Z",
+    "added_at": "2025-07-17T09:57:35.762Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "sciences:::En graphiques – Le Congrès américain vole au secours des budgets scientifiques menacés par Donald Trump",
-    "added_at": "2025-07-17T10:45:18.384Z",
+    "added_at": "2025-07-17T10:44:43.355Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "economie:::Plombé par la faiblesse de la Chine, Swatch Group identifie des premiers signes d’amélioration",
-    "added_at": "2025-07-17T11:28:13.874Z",
+    "added_at": "2025-07-17T11:28:01.057Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Le barrage de la Grande Dixence est inaccessible suite à un important éboulement, le secteur du tourisme touché",
+    "added_at": "2025-07-17T13:14:32.188Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
