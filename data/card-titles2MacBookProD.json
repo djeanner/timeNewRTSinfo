@@ -20234,7 +20234,10 @@
   },
   {
     "title": "suisse:::A Genève, grosse déprime au sein du service chargé de suivre et de contrôler le parcours des détenus",
-    "added_at": "2025-07-15T16:07:51.393Z"
+    "added_at": "2025-07-15T16:07:51.393Z",
+    "removed_at": "2025-07-17T05:54:56.462Z",
+    "duration_minutes": 2267,
+    "duration_str": "1d 13h 47m"
   },
   {
     "title": "sciences:::Un bras de fer s’engage autour de la mammographie de dépistage entre les radiologues et les assureurs",
@@ -20410,7 +20413,10 @@
   },
   {
     "title": "monde:::Le budget de François Bayrou choque alors qu’il est simplement fait pour être négocié comme un tapis au souk",
-    "added_at": "2025-07-16T14:37:26.628Z"
+    "added_at": "2025-07-16T14:37:26.628Z",
+    "removed_at": "2025-07-17T06:05:05.866Z",
+    "duration_minutes": 927,
+    "duration_str": "15h 27m"
   },
   {
     "title": "culture:::Courier, message mécanique, police numérique",
@@ -20466,7 +20472,10 @@
   },
   {
     "title": "economie:::Sceptiques sur les annonces de François Bayrou, les marchés financiers attendent de voir la suite",
-    "added_at": "2025-07-16T17:17:06.238Z"
+    "added_at": "2025-07-16T17:17:06.238Z",
+    "removed_at": "2025-07-17T06:11:11.660Z",
+    "duration_minutes": 774,
+    "duration_str": "12h 54m"
   },
   {
     "title": "monde:::Dans le sud de l’Espagne, quand le racisme a pignon sur rue",
@@ -20540,10 +20549,29 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’armée syrienne a entamé son retrait de Soueida après des combats meurtriers",
-    "added_at": "2025-07-17T04:21:12.134Z"
+    "added_at": "2025-07-17T04:21:12.134Z",
+    "removed_at": "2025-07-17T05:22:24.653Z",
+    "duration_minutes": 61,
+    "duration_str": "1h 1m"
   },
   {
     "title": "suisse:::La fermeture du camping d’Arolla, symptôme d’un tourisme forcé de s’adapter",
     "added_at": "2025-07-17T04:49:49.173Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’armée syrienne a entamé son retrait de Soueïda après des combats meurtriers",
+    "added_at": "2025-07-17T05:22:24.653Z"
+  },
+  {
+    "title": "suisse:::Le barrage de la Grande Dixence est inaccessible suite à un important éboulement",
+    "added_at": "2025-07-17T05:54:56.462Z"
+  },
+  {
+    "title": "sport:::Le jour où, dans les Pyrénées, le Tour de France va plonger dans la tourmente",
+    "added_at": "2025-07-17T06:05:05.866Z"
+  },
+  {
+    "title": "economie:::Swatch Group plombé par la faiblesse de la Chine",
+    "added_at": "2025-07-17T06:11:11.660Z"
   }
 ]
