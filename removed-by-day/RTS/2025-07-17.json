@@ -20,8 +20,9 @@
   {
     "title": "Un incendie détruit la scène principale de Tomorrowland, mais le festival aura bien lieu",
     "added_at": "2025-07-17T05:30:33.326Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-17T13:53:16.009Z",
+    "duration_minutes": 503,
+    "duration_str": "8h 23m"
   },
   {
     "title": "La FRC dénonce des conditions de travail illégales chez des fournisseurs de tomates bio",
@@ -111,6 +112,31 @@
   {
     "title": "Le bilan des violences dans le sud de la Syrie dépasse les 500 morts",
     "added_at": "2025-07-17T13:24:40.789Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Les Etats-Unis réorganisent leurs livraisons des Patriot, la Suisse devra patienter",
+    "added_at": "2025-07-17T13:51:17.477Z",
+    "removed_at": "2025-07-17T13:55:18.745Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Un incendie détruit la scène principale de Tomorrowland en Belgique, mais le festival aura bien lieu",
+    "added_at": "2025-07-17T13:53:16.009Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Les Etats-Unis réorganisent leurs livraisons des systèmes Patriot, la Suisse devra patienter",
+    "added_at": "2025-07-17T13:55:18.745Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Une frappe israélienne sur l'église catholique de Gaza fait deux morts",
+    "added_at": "2025-07-17T14:21:50.222Z",
     "duration_minutes": 0,
     "duration_str": ""
   }

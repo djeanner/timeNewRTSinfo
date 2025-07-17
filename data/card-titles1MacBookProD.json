@@ -713,7 +713,10 @@
   },
   {
     "title": "Des pluies torrentielles provoquent des inondations à New York",
-    "added_at": "2025-07-15T15:07:15.865Z"
+    "added_at": "2025-07-15T15:07:15.865Z",
+    "removed_at": "2025-07-17T13:51:17.477Z",
+    "duration_minutes": 2804,
+    "duration_str": "1d 22h 44m"
   },
   {
     "title": "Cyclisme: quatre coureurs du Tour de France ont écopé de cartons jaunes",
@@ -795,7 +798,10 @@
   },
   {
     "title": "Le voile à l'école au cœur d'un nouveau débat à Saint-Gall",
-    "added_at": "2025-07-15T17:58:20.487Z"
+    "added_at": "2025-07-15T17:58:20.487Z",
+    "removed_at": "2025-07-17T14:21:50.222Z",
+    "duration_minutes": 2663,
+    "duration_str": "1d 20h 23m"
   },
   {
     "title": "Une action en justice pour empêcher la Suisse d'acheter des drones à Israël",
@@ -1012,7 +1018,10 @@
   },
   {
     "title": "Un incendie détruit la scène principale de Tomorrowland, mais le festival aura bien lieu",
-    "added_at": "2025-07-17T05:30:33.326Z"
+    "added_at": "2025-07-17T05:30:33.326Z",
+    "removed_at": "2025-07-17T13:53:16.009Z",
+    "duration_minutes": 502,
+    "duration_str": "8h 22m"
   },
   {
     "title": "La FRC dénonce des conditions de travail illégales chez des fournisseurs de tomates bio",
@@ -1076,5 +1085,24 @@
   {
     "title": "Le bilan des violences dans le sud de la Syrie dépasse les 500 morts",
     "added_at": "2025-07-17T13:24:40.789Z"
+  },
+  {
+    "title": "Les Etats-Unis réorganisent leurs livraisons des Patriot, la Suisse devra patienter",
+    "added_at": "2025-07-17T13:51:17.477Z",
+    "removed_at": "2025-07-17T13:55:18.745Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Un incendie détruit la scène principale de Tomorrowland en Belgique, mais le festival aura bien lieu",
+    "added_at": "2025-07-17T13:53:16.009Z"
+  },
+  {
+    "title": "Les Etats-Unis réorganisent leurs livraisons des systèmes Patriot, la Suisse devra patienter",
+    "added_at": "2025-07-17T13:55:18.745Z"
+  },
+  {
+    "title": "Une frappe israélienne sur l'église catholique de Gaza fait deux morts",
+    "added_at": "2025-07-17T14:21:50.222Z"
   }
 ]
