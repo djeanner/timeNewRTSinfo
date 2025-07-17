@@ -23125,7 +23125,10 @@
   },
   {
     "title": "The Kills au Festival Les Georges, incandescences et accalmies rock",
-    "added_at": "2025-07-16T14:28:57.225Z"
+    "added_at": "2025-07-16T14:28:57.225Z",
+    "removed_at": "2025-07-17T21:57:09.798Z",
+    "duration_minutes": 1888,
+    "duration_str": "1d 7h 28m"
   },
   {
     "title": "Chinois, Allemands, Français... qui sont les touristes les moins appréciés en Europe?",
@@ -23903,5 +23906,23 @@
   {
     "title": "L'OMS recommande un nouveau traitement préventif sous-cutané contre le VIH",
     "added_at": "2025-07-17T20:24:37.822Z"
+  },
+  {
+    "title": "L'Angleterre passe au bout du suspense",
+    "added_at": "2025-07-17T21:57:09.798Z",
+    "removed_at": "2025-07-17T22:10:25.120Z",
+    "duration_minutes": 13,
+    "duration_str": "13m"
+  },
+  {
+    "title": "L'Angleterre passe en demies au bout du suspense",
+    "added_at": "2025-07-17T22:10:25.120Z",
+    "removed_at": "2025-07-17T22:33:01.044Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
+  },
+  {
+    "title": "Au bord du précipice, les Lionesses sortent les griffes et arrachent une place en demies",
+    "added_at": "2025-07-17T22:33:01.044Z"
   }
 ]
