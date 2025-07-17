@@ -23,8 +23,9 @@
   {
     "title": "suisse:::Pourquoi la Suisse romande n’a toujours pas de train de nuit",
     "added_at": "2025-07-17T04:13:07.995Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-17T17:07:13.755Z",
+    "duration_minutes": 774,
+    "duration_str": "12h 54m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’armée syrienne a entamé son retrait de Soueida après des combats meurtriers",
@@ -172,6 +173,19 @@
   {
     "title": "monde:::L’armée française quitte le Sénégal et signe la fin de sa présence permanente en Afrique de l’Ouest et centrale",
     "added_at": "2025-07-17T15:59:56.939Z",
+    "removed_at": "2025-07-17T16:55:00.504Z",
+    "duration_minutes": 55,
+    "duration_str": "55m"
+  },
+  {
+    "title": "sciences:::Les rivières des Alpes devraient connaître une forte hausse de température",
+    "added_at": "2025-07-17T16:55:00.504Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::Une meilleure isolation du parc résidentiel suisse permettrait de réduire la consommation électrique du pays de près de 10%",
+    "added_at": "2025-07-17T17:07:13.755Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
