@@ -20230,7 +20230,10 @@
   },
   {
     "title": "monde:::Israël viole l’accord d’association avec l’UE. Mais les Vingt-Sept refusent de prendre des sanctions",
-    "added_at": "2025-07-15T16:03:38.078Z"
+    "added_at": "2025-07-15T16:03:38.078Z",
+    "removed_at": "2025-07-17T19:07:59.989Z",
+    "duration_minutes": 3064,
+    "duration_str": "2d 3h 4m"
   },
   {
     "title": "suisse:::A Genève, grosse déprime au sein du service chargé de suivre et de contrôler le parcours des détenus",
@@ -20329,10 +20332,7 @@
   },
   {
     "title": "sport:::Mauro Schmid, champion de Suisse et animateur du Tour de France: «Maintenant, c’est moi qui frôle les spectateurs»",
-    "added_at": "2025-07-16T10:45:26.988Z",
-    "removed_at": "2025-07-16T17:17:06.238Z",
-    "duration_minutes": 391,
-    "duration_str": "6h 31m"
+    "added_at": "2025-07-16T10:45:26.988Z"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël frappe le régime syrien à Soueïda et dans la région de Damas",
@@ -20696,10 +20696,7 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Une frappe israélienne sur la seule église catholique de Gaza fait deux morts",
-    "added_at": "2025-07-17T13:51:17.513Z",
-    "removed_at": "2025-07-17T19:05:49.207Z",
-    "duration_minutes": 314,
-    "duration_str": "5h 14m"
+    "added_at": "2025-07-17T13:51:17.513Z"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Une frappe israélienne sur la seule Eglise catholique de Gaza fait deux morts",
@@ -20757,5 +20754,13 @@
   {
     "title": "suisse:::Pour les Patriot américains, la Suisse est mise sur liste d’attente",
     "added_at": "2025-07-17T19:05:49.207Z"
+  },
+  {
+    "title": "sport:::Tadej Pogacar, la caution jeune, écolo et tolérante des Emirats arabes unis",
+    "added_at": "2025-07-17T19:56:58.447Z"
+  },
+  {
+    "title": "monde:::Une partie des Druzes de Syrie entend couper tous les ponts avec Damas",
+    "added_at": "2025-07-17T19:56:58.447Z"
   }
 ]
