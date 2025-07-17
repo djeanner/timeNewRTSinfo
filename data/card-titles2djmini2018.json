@@ -11257,7 +11257,10 @@
   },
   {
     "title": "economie:::Eurostar va lancer un train direct de Londres à Genève",
-    "added_at": "2025-06-10T12:16:32.955Z"
+    "added_at": "2025-06-10T12:16:32.955Z",
+    "removed_at": "2025-07-17T14:14:02.881Z",
+    "duration_minutes": 53397,
+    "duration_str": "37d 1h 57m"
   },
   {
     "title": "suisse:::Gilles Rufenacht, directeur général de l’aéroport de Genève va quitter ses fonctions",
@@ -16914,7 +16917,10 @@
   },
   {
     "title": "suisse:::Le Tribunal fédéral complique encore davantage la célèbre affaire des constructions fantômes à Genève",
-    "added_at": "2025-07-16T14:51:35.707Z"
+    "added_at": "2025-07-16T14:51:35.707Z",
+    "removed_at": "2025-07-17T13:15:34.993Z",
+    "duration_minutes": 1343,
+    "duration_str": "22h 23m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’armée israélienne redéploie des troupes de Gaza vers la frontière syrienne",
@@ -16946,7 +16952,10 @@
   },
   {
     "title": "economie:::L’automobile chinoise met la concurrence dans le rétroviseur",
-    "added_at": "2025-07-16T16:22:16.530Z"
+    "added_at": "2025-07-16T16:22:16.530Z",
+    "removed_at": "2025-07-17T13:06:11.851Z",
+    "duration_minutes": 1243,
+    "duration_str": "20h 43m"
   },
   {
     "title": "monde:::Israël annonce déployer des forces armées vers la Syrie",
@@ -17107,7 +17116,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les forces syriennes ont quitté la province à majorité druze de Soueïda",
-    "added_at": "2025-07-17T07:17:09.832Z"
+    "added_at": "2025-07-17T07:17:09.832Z",
+    "removed_at": "2025-07-17T13:51:24.467Z",
+    "duration_minutes": 394,
+    "duration_str": "6h 34m"
   },
   {
     "title": "economie:::Malgré l’environnement économique, le premier semestre sourit à Novartis",
@@ -17142,5 +17154,24 @@
   {
     "title": "economie:::Plombé par la faiblesse de la Chine, Swatch Group identifie des premiers signes d’amélioration",
     "added_at": "2025-07-17T11:28:01.057Z"
+  },
+  {
+    "title": "suisse:::Le barrage de la Grande Dixence est inaccessible suite à un important éboulement, le secteur du tourisme touché",
+    "added_at": "2025-07-17T13:15:34.993Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Une frappe israélienne sur la seule église catholique de Gaza fait deux morts",
+    "added_at": "2025-07-17T13:51:24.467Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Une frappe israélienne sur la seule Eglise catholique de Gaza fait deux morts",
+    "added_at": "2025-07-17T13:57:04.027Z",
+    "removed_at": "2025-07-17T13:58:53.974Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "suisse:::Un amateur de wingsuit s'est tué dans la région des Diablerets",
+    "added_at": "2025-07-17T14:14:02.881Z"
   }
 ]
