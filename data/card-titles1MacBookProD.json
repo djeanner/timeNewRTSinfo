@@ -641,11 +641,17 @@
   },
   {
     "title": "Comment les festivals romands gèrent les annulations d'artistes et autres aléas?",
-    "added_at": "2025-07-15T13:47:08.014Z"
+    "added_at": "2025-07-15T13:47:08.014Z",
+    "removed_at": "2025-07-17T15:47:43.466Z",
+    "duration_minutes": 3000,
+    "duration_str": "2d 2h"
   },
   {
     "title": "L'équipe de Suisse annule l'entraînement de mardi. Plusieurs joueuses souffrent d'un refroidissement",
-    "added_at": "2025-07-15T13:47:08.014Z"
+    "added_at": "2025-07-15T13:47:08.014Z",
+    "removed_at": "2025-07-17T15:31:24.088Z",
+    "duration_minutes": 2984,
+    "duration_str": "2d 1h 44m"
   },
   {
     "title": "Ouverture du procès de l'homme qui a poignardé sa compagne en 2020 dans un parc de Montreux",
@@ -776,7 +782,10 @@
   },
   {
     "title": "Des foules dans les rues et une ambiance pacifique, un premier bilan positif pour les villes hôtes de l'Euro",
-    "added_at": "2025-07-15T16:22:25.993Z"
+    "added_at": "2025-07-15T16:22:25.993Z",
+    "removed_at": "2025-07-17T16:20:14.951Z",
+    "duration_minutes": 2877,
+    "duration_str": "1d 23h 57m"
   },
   {
     "title": "Le parquet brésilien réclame la condamnation de Jair Bolsonaro pour \"coup d'Etat\"",
@@ -826,7 +835,10 @@
   },
   {
     "title": "Une femme voilée se voit refuser l'entrée d'un restaurant à Genève",
-    "added_at": "2025-07-15T18:48:29.273Z"
+    "added_at": "2025-07-15T18:48:29.273Z",
+    "removed_at": "2025-07-17T15:47:43.466Z",
+    "duration_minutes": 2699,
+    "duration_str": "1d 20h 59m"
   },
   {
     "title": "La nouvelle tarification médicale, un risque pour le dépistage du cancer du sein",
@@ -1118,5 +1130,28 @@
   {
     "title": "Donald Trump annonce que Coca-Cola a modifié sa recette à sa demande et s'en félicite",
     "added_at": "2025-07-17T14:46:26.301Z"
+  },
+  {
+    "title": "Podcast - Mieux protéger nos données, c'est possible?",
+    "added_at": "2025-07-17T15:31:24.088Z"
+  },
+  {
+    "title": "Voyager dans des zones macabres ou à risque: le \"dark tourism\" est en plein essor",
+    "added_at": "2025-07-17T15:47:43.466Z"
+  },
+  {
+    "title": "L'adieu à Thierry Ardisson réunit un millier de personnes à Paris",
+    "added_at": "2025-07-17T15:47:43.466Z",
+    "removed_at": "2025-07-17T16:08:02.103Z",
+    "duration_minutes": 20,
+    "duration_str": "20m"
+  },
+  {
+    "title": "L'adieu à Thierry Ardisson réunit un millier de personnes à Paris, dont de nombreuses personnalités",
+    "added_at": "2025-07-17T16:08:02.103Z"
+  },
+  {
+    "title": "Crise en Syrie: les dessous du conflit impliquant les Druzes, les Bédouins, le pouvoir de Damas et Israël",
+    "added_at": "2025-07-17T16:20:14.951Z"
   }
 ]
