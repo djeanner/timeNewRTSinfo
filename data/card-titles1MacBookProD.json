@@ -896,7 +896,10 @@
   },
   {
     "title": "Le procès d'un proxénète met en lumière le discret phénomène de la traite d'êtres humains en Valais",
-    "added_at": "2025-07-16T10:45:26.949Z"
+    "added_at": "2025-07-16T10:45:26.949Z",
+    "removed_at": "2025-07-17T20:25:33.934Z",
+    "duration_minutes": 2020,
+    "duration_str": "1d 9h 40m"
   },
   {
     "title": "Les jeunes restent attachés à la démocratie, mais formulent des critiques",
@@ -1232,10 +1235,21 @@
   },
   {
     "title": "Le champion autrichien de saut extrême Felix Baumgartner est mort à 56 ans dans un accident de parapente",
-    "added_at": "2025-07-17T19:36:33.188Z"
+    "added_at": "2025-07-17T19:36:33.188Z",
+    "removed_at": "2025-07-17T20:07:16.716Z",
+    "duration_minutes": 30,
+    "duration_str": "30m"
   },
   {
     "title": "L'ex-collaboratrice de Viola Amherd n'a pas bénéficié d'un salaire de président américain",
     "added_at": "2025-07-17T19:38:36.346Z"
+  },
+  {
+    "title": "Felix Baumgartner, l'homme qui avait sauté de la stratosphère, est mort à 56 ans dans un accident de parapente",
+    "added_at": "2025-07-17T20:07:16.716Z"
+  },
+  {
+    "title": "L'OMS recommande un nouveau traitement préventif sous-cutané contre le VIH",
+    "added_at": "2025-07-17T20:25:33.934Z"
   }
 ]
