@@ -20379,7 +20379,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Des attaques russes font au moins trois morts dans l'est de l'Ukraine",
-    "added_at": "2025-07-16T10:45:26.988Z"
+    "added_at": "2025-07-16T10:45:26.988Z",
+    "removed_at": "2025-07-17T01:58:51.273Z",
+    "duration_minutes": 913,
+    "duration_str": "15h 13m"
   },
   {
     "title": "suisse:::A Genève, le patron du géant pétrolier Trafigura s’offre une villa à 24,5 millions de francs",
@@ -20510,5 +20513,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – L'armée syrienne a initié son retrait de Soueida après des combats meurtriers",
     "added_at": "2025-07-17T01:26:11.719Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Des attaques russes sur l'Ukraine malgré l'ultimatum lancé par Donald Trump",
+    "added_at": "2025-07-17T01:58:51.273Z"
   }
 ]
