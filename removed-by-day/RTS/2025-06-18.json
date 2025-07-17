@@ -1,178 +1,619 @@
 [
   {
-    "title": "La Suisse est devenue le pays le plus compétitif du monde, selon un rapport de l'IMD",
-    "added_at": "2025-06-18T00:19:40.849Z",
-    "removed_at": "2025-06-19T13:25:17.667Z",
-    "duration_minutes": 2226,
-    "duration_str": "1d 13h 6m"
-  },
-  {
-    "title": "Moscou dit que Pyongyang va envoyer des militaires pour reconstruire la région russe de Koursk",
-    "added_at": "2025-06-18T01:35:21.973Z",
-    "removed_at": "2025-06-20T04:21:13.042Z",
-    "duration_minutes": 3046,
-    "duration_str": "2d 2h 46m"
-  },
-  {
-    "title": "Des marques de lunettes de soleil épinglées pour leur faible qualité",
-    "added_at": "2025-06-18T04:28:16.042Z",
-    "removed_at": "2025-06-20T12:23:51.120Z",
-    "duration_minutes": 3356,
-    "duration_str": "2d 7h 56m"
-  },
-  {
-    "title": "Donald Trump a réuni son Conseil de sécurité nationale, la pression monte sur Téhéran",
-    "added_at": "2025-06-18T04:30:11.388Z",
-    "removed_at": "2025-06-20T06:56:16.208Z",
-    "duration_minutes": 3026,
-    "duration_str": "2d 2h 26m"
-  },
-  {
-    "title": "En guise de conclusion, le G7 se contente du minimum sur l'Ukraine",
-    "added_at": "2025-06-18T06:35:20.313Z",
-    "removed_at": "2025-06-20T08:24:12.555Z",
-    "duration_minutes": 2989,
-    "duration_str": "2d 1h 49m"
-  },
-  {
-    "title": "Pas avant l'âge de 14 ans: des parents se mobilisent pour retarder l’arrivée du smartphone",
-    "added_at": "2025-06-18T06:43:50.207Z",
-    "removed_at": "2025-06-20T13:37:33.581Z",
-    "duration_minutes": 3294,
-    "duration_str": "2d 6h 54m"
-  },
-  {
-    "title": "Bouleversante, la série \"Querer\" traite des violences domestiques avec une puissance rare",
-    "added_at": "2025-06-18T06:55:44.646Z",
-    "removed_at": "2025-06-20T08:26:36.623Z",
-    "duration_minutes": 2971,
-    "duration_str": "2d 1h 31m"
-  },
-  {
-    "title": "Israël poursuit ses opérations aériennes contre des sites industriels et militaires iraniens",
-    "added_at": "2025-06-18T07:21:27.415Z",
-    "removed_at": "2025-06-18T11:14:05.772Z",
-    "duration_minutes": 233,
-    "duration_str": "3h 53m"
-  },
-  {
-    "title": "Les arnaques aux faux policiers explosent en Suisse romande",
-    "added_at": "2025-06-18T07:29:26.010Z",
-    "removed_at": "2025-06-20T19:08:49.381Z",
-    "duration_minutes": 3579,
-    "duration_str": "2d 11h 39m"
-  },
-  {
-    "title": "GBU-57, la bombe anti-bunker américaine qui pourrait changer le conflit entre Israël et l'Iran",
-    "added_at": "2025-06-18T07:41:27.460Z",
-    "removed_at": "2025-06-20T17:29:09.711Z",
-    "duration_minutes": 3468,
-    "duration_str": "2d 9h 48m"
-  },
-  {
-    "title": "Renaud Capuçon reste à la tête de l'Orchestre de chambre de Lausanne jusqu'en 2029",
-    "added_at": "2025-06-18T08:03:15.271Z",
-    "removed_at": "2025-06-20T09:28:01.483Z",
-    "duration_minutes": 2965,
-    "duration_str": "2d 1h 25m"
-  },
-  {
-    "title": "Le DFAE évacue 5 diplomates en poste à Téhéran avec leurs proches",
-    "added_at": "2025-06-18T08:23:05.979Z",
-    "removed_at": "2025-06-20T09:28:01.483Z",
-    "duration_minutes": 2945,
-    "duration_str": "2d 1h 5m"
-  },
-  {
-    "title": "Genève: les départs d'expatriés pourraient libérer de nombreux logements",
-    "added_at": "2025-06-18T09:22:48.436Z",
-    "removed_at": "2025-06-20T11:29:26.192Z",
-    "duration_minutes": 3007,
-    "duration_str": "2d 2h 7m"
-  },
-  {
-    "title": "Le régime iranien des mollahs tiendra-t-il face à Israël? Interview de Clément Therme",
-    "added_at": "2025-06-18T09:22:48.436Z",
-    "removed_at": "2025-06-18T12:23:57.068Z",
-    "duration_minutes": 181,
-    "duration_str": "3h 1m"
-  },
-  {
-    "title": "Le chef du Service fédéral de sécurité quitte son poste",
-    "added_at": "2025-06-18T09:26:45.725Z",
-    "removed_at": "2025-06-20T10:19:40.301Z",
-    "duration_minutes": 2933,
-    "duration_str": "2d 53m"
-  },
-  {
-    "title": "L'Union populaire lance Rémy Pagani dans la course au Conseil d'Etat",
-    "added_at": "2025-06-18T10:26:22.793Z",
-    "removed_at": "2025-06-20T13:05:27.465Z",
-    "duration_minutes": 3039,
-    "duration_str": "2d 2h 39m"
+    "title": "L'ayatollah Khamenei affirme que l'Iran \"ne se rendra jamais\" et met en garde les Etats-Unis",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-18T15:02:47.159Z",
+    "duration_minutes": 188,
+    "duration_str": "3h 8m"
   },
   {
     "title": "Le Conseil national accepte de durcir les conditions d'admission au service civil",
-    "added_at": "2025-06-18T10:52:10.421Z",
-    "removed_at": "2025-06-19T06:36:21.498Z",
-    "duration_minutes": 1184,
-    "duration_str": "19h 44m"
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T06:36:37.770Z",
+    "duration_minutes": 1122,
+    "duration_str": "18h 42m"
+  },
+  {
+    "title": "Les arnaques aux faux policiers explosent en Suisse romande",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-20T19:09:06.471Z",
+    "duration_minutes": 3314,
+    "duration_str": "2d 7h 14m"
   },
   {
     "title": "UBS et Pictet victimes d'un vaste vol de données chez un sous-traitant",
-    "added_at": "2025-06-18T11:04:04.430Z",
-    "removed_at": "2025-06-20T15:03:19.263Z",
-    "duration_minutes": 3119,
-    "duration_str": "2d 3h 59m"
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-20T15:04:10.069Z",
+    "duration_minutes": 3069,
+    "duration_str": "2d 3h 9m"
   },
   {
-    "title": "L'ayathollah Khamenei affirme que l'iran \"ne se rendra jamais\" et met en garde les Etats-Unis",
-    "added_at": "2025-06-18T11:14:05.772Z",
-    "removed_at": "2025-06-18T11:27:59.620Z",
-    "duration_minutes": 14,
-    "duration_str": "14m"
+    "title": "GBU-57, la bombe anti-bunker américaine qui pourrait changer le conflit entre Israël et l'Iran",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-20T17:29:09.711Z",
+    "duration_minutes": 3214,
+    "duration_str": "2d 5h 34m"
   },
   {
-    "title": "L'ayatollah Khamenei affirme que l'Iran \"ne se rendra jamais\" et met en garde les Etats-Unis",
-    "added_at": "2025-06-18T11:27:59.620Z",
-    "removed_at": "2025-06-18T15:02:47.159Z",
-    "duration_minutes": 215,
-    "duration_str": "3h 35m"
+    "title": "L'Union populaire lance Rémy Pagani dans la course au Conseil d'Etat",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-20T13:05:27.465Z",
+    "duration_minutes": 2950,
+    "duration_str": "2d 1h 10m"
+  },
+  {
+    "title": "Des marques de lunettes de soleil épinglées pour leur faible qualité",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-20T12:24:01.439Z",
+    "duration_minutes": 2909,
+    "duration_str": "2d 29m"
+  },
+  {
+    "title": "Pas avant l'âge de 14 ans: des parents se mobilisent pour retarder l’arrivée du smartphone",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-20T13:37:35.766Z",
+    "duration_minutes": 2982,
+    "duration_str": "2d 1h 42m"
+  },
+  {
+    "title": "Le chef du Service fédéral de sécurité quitte son poste",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-20T10:19:40.301Z",
+    "duration_minutes": 2785,
+    "duration_str": "1d 22h 25m"
+  },
+  {
+    "title": "Pascal de Crousaz: \"Israël commence à devenir le maître du Moyen-Orient\"",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-20T16:08:18.846Z",
+    "duration_minutes": 3133,
+    "duration_str": "2d 4h 13m"
+  },
+  {
+    "title": "Opération en Iran: \"Si on ne l'avait pas fait maintenant, cela aurait été trop tard\", juge l'ambassadrice d'Israël en Suisse",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-20T14:05:49.777Z",
+    "duration_minutes": 3011,
+    "duration_str": "2d 2h 11m"
+  },
+  {
+    "title": "Pourquoi le programme nucléaire iranien inquiète-t-il Israël et les Occidentaux?",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-20T16:08:18.846Z",
+    "duration_minutes": 3133,
+    "duration_str": "2d 4h 13m"
+  },
+  {
+    "title": "En Suisse, l'inquiétude de la communauté iranienne",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T09:11:09.073Z",
+    "duration_minutes": 1276,
+    "duration_str": "21h 16m"
+  },
+  {
+    "title": "Les départs au sein de la Genève internationale détendront-ils le marché du logement?",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-20T10:19:40.301Z",
+    "duration_minutes": 2785,
+    "duration_str": "1d 22h 25m"
+  },
+  {
+    "title": "Renaud Capuçon reste à la tête de l'Orchestre de chambre de Lausanne jusqu'en 2029",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-20T09:28:51.720Z",
+    "duration_minutes": 2734,
+    "duration_str": "1d 21h 34m"
+  },
+  {
+    "title": "Bouleversante, la série \"Querer\" traite des violences domestiques avec une puissance rare",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-20T08:26:36.623Z",
+    "duration_minutes": 2671,
+    "duration_str": "1d 20h 31m"
+  },
+  {
+    "title": "En guise de conclusion, le G7 se contente du minimum sur l'Ukraine",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-20T08:24:46.604Z",
+    "duration_minutes": 2670,
+    "duration_str": "1d 20h 30m"
+  },
+  {
+    "title": "Le DFAE évacue près de la moitié de son ambassade à Téhéran",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-20T07:33:57.975Z",
+    "duration_minutes": 2619,
+    "duration_str": "1d 19h 39m"
+  },
+  {
+    "title": "Philipp Matthias Bregy: \"Rassembler toutes les ailes du parti est le travail du président\"",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-20T07:15:06.857Z",
+    "duration_minutes": 2600,
+    "duration_str": "1d 19h 20m"
+  },
+  {
+    "title": "Donald Trump a réuni son Conseil de sécurité nationale, la pression monte sur Téhéran",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-20T06:56:16.208Z",
+    "duration_minutes": 2581,
+    "duration_str": "1d 19h 1m"
+  },
+  {
+    "title": "Moscou dit que Pyongyang va envoyer des militaires pour reconstruire la région russe de Koursk",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-20T04:21:57.144Z",
+    "duration_minutes": 2427,
+    "duration_str": "1d 16h 27m"
+  },
+  {
+    "title": "Le siège d'Allseas à Châtel-St-Denis ciblé par des militants écologistes",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-20T03:27:13.187Z",
+    "duration_minutes": 2372,
+    "duration_str": "1d 15h 32m"
+  },
+  {
+    "title": "Donald Trump a quitté le sommet du G7 un jour plus tôt pour se consacrer au conflit entre Israël et l'Iran",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T06:25:21.476Z",
+    "duration_minutes": 1110,
+    "duration_str": "18h 30m"
+  },
+  {
+    "title": "Votre smartphone émet-il trop d'ondes? Notre comparateur",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-18T16:23:46.516Z",
+    "duration_minutes": 269,
+    "duration_str": "4h 29m"
+  },
+  {
+    "title": "Deux cyclistes suisses perdent la vie dans un accident en France",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-18T18:24:22.271Z",
+    "duration_minutes": 389,
+    "duration_str": "6h 29m"
+  },
+  {
+    "title": "Arbres au sol, routes coupées et festivaliers sidérés: des vents de 140 km/h ont frappé Neuchâtel dimanche",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-18T14:21:22.005Z",
+    "duration_minutes": 146,
+    "duration_str": "2h 26m"
+  },
+  {
+    "title": "Plus de 40'000 signatures contre l'achat des avions de combat américains F-35",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-21T01:31:19.145Z",
+    "duration_minutes": 3696,
+    "duration_str": "2d 13h 36m"
+  },
+  {
+    "title": "Pascal de Crousaz, spécialiste du Proche-Orient, analyse la situation",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T09:26:14.310Z",
+    "duration_minutes": 1291,
+    "duration_str": "21h 31m"
+  },
+  {
+    "title": "A FestiNeuch le retour au calme après la tempête",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-18T21:23:23.668Z",
+    "duration_minutes": 568,
+    "duration_str": "9h 28m"
+  },
+  {
+    "title": "L'évacuation de Festi'neuch questionne la sécurité des festivals en cas d'orage",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T21:27:29.556Z",
+    "duration_minutes": 2012,
+    "duration_str": "1d 9h 32m"
+  },
+  {
+    "title": "Le DFAE évacue 5 diplomates en poste à Téhéran avec leurs proches",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-20T09:28:51.720Z",
+    "duration_minutes": 2734,
+    "duration_str": "1d 21h 34m"
+  },
+  {
+    "title": "L'invitée de La Matinale - Ifat Reshef, ambassadrice d'Israël en Suisse",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-18T15:23:28.710Z",
+    "duration_minutes": 208,
+    "duration_str": "3h 28m"
+  },
+  {
+    "title": "Albert Rösti en Norvège pour visiter une usine de stockage de CO2",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T06:25:21.476Z",
+    "duration_minutes": 1110,
+    "duration_str": "18h 30m"
+  },
+  {
+    "title": "Genève: les départs d'expatriés pourraient libérer de nombreux logements",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-20T11:29:26.192Z",
+    "duration_minutes": 2854,
+    "duration_str": "1d 23h 34m"
+  },
+  {
+    "title": "Le corps enseignant vaudois des 1-2P a manifesté pour plus de moyens",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T00:24:03.527Z",
+    "duration_minutes": 749,
+    "duration_str": "12h 29m"
+  },
+  {
+    "title": "Le nucléaire iranien est-il réellement une menace \"existentielle\"?",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T18:26:37.568Z",
+    "duration_minutes": 1832,
+    "duration_str": "1d 6h 32m"
+  },
+  {
+    "title": "L'invitée de La Matinale - Maya Kandel, historienne et autrice du livre \"Une première histoire du trumpisme\"",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T15:27:46.741Z",
+    "duration_minutes": 1653,
+    "duration_str": "1d 3h 33m"
+  },
+  {
+    "title": "La police attaquée lors d'une rave party illégale à Malleray (BE)",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-18T16:21:50.713Z",
+    "duration_minutes": 267,
+    "duration_str": "4h 27m"
+  },
+  {
+    "title": "Festi'Neuch évacué, les organisateurs ont-ils manqué de prudence? Interview d'Antonin Rousseau",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-20T06:26:13.703Z",
+    "duration_minutes": 2551,
+    "duration_str": "1d 18h 31m"
+  },
+  {
+    "title": "La Suisse est devenue le pays le plus compétitif du monde, selon un rapport de l'IMD",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T13:25:17.667Z",
+    "duration_minutes": 1530,
+    "duration_str": "1d 1h 30m"
+  },
+  {
+    "title": "Le principal médecin de Matthew Perry va plaider coupable",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T06:27:10.869Z",
+    "duration_minutes": 1112,
+    "duration_str": "18h 32m"
+  },
+  {
+    "title": "Le régime iranien des mollahs tiendra-t-il face à Israël? Interview de Clément Therme",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-18T12:24:37.858Z",
+    "duration_minutes": 30,
+    "duration_str": "30m"
+  },
+  {
+    "title": "Surtensions et erreurs humaines à l'origine de la méga-panne en Espagne et au Portugal",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T19:04:22.472Z",
+    "duration_minutes": 1869,
+    "duration_str": "1d 7h 9m"
+  },
+  {
+    "title": "Des détenus de la prison de Champ-Dollon protestent contre le manque de personnel",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T18:41:48.891Z",
+    "duration_minutes": 1847,
+    "duration_str": "1d 6h 47m"
+  },
+  {
+    "title": "Légende de la musique classique, le pianiste Alfred Brendel est décédé",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T16:44:59.764Z",
+    "duration_minutes": 1730,
+    "duration_str": "1d 4h 50m"
+  },
+  {
+    "title": "Israël-Iran: prudence des pays arabes face aux ambitions de Benjamin Netanyahu",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T16:41:16.288Z",
+    "duration_minutes": 1726,
+    "duration_str": "1d 4h 46m"
+  },
+  {
+    "title": "Le journal 20 minutes abandonne son édition papier à la fin de l'année, 80 postes menacés",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T15:46:30.847Z",
+    "duration_minutes": 1671,
+    "duration_str": "1d 3h 51m"
+  },
+  {
+    "title": "François Fillon échappe à la prison ferme, mais écope d'une peine d'inéligibilité de cinq ans",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T15:01:22.641Z",
+    "duration_minutes": 1626,
+    "duration_str": "1d 3h 6m"
+  },
+  {
+    "title": "La réforme de la fiscalité agricole vaudoise recalée par l'Administration fédérale",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T14:35:04.059Z",
+    "duration_minutes": 1600,
+    "duration_str": "1d 2h 40m"
+  },
+  {
+    "title": "Podcast - Qui est (vraiment) Pedro Pascal?",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T14:25:41.712Z",
+    "duration_minutes": 1591,
+    "duration_str": "1d 2h 31m"
+  },
+  {
+    "title": "L'évacuation de Festi'neuch questionne la sécurité des festivals en cas d'orage violent",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T14:20:02.361Z",
+    "duration_minutes": 1585,
+    "duration_str": "1d 2h 25m"
+  },
+  {
+    "title": "La Suisse enregistre une nette diminution des séjours illégaux en 2025",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T13:53:38.836Z",
+    "duration_minutes": 1559,
+    "duration_str": "1d 1h 59m"
+  },
+  {
+    "title": "Quelle menace représente le programme nucléaire iranien?",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T13:34:44.774Z",
+    "duration_minutes": 1540,
+    "duration_str": "1d 1h 40m"
+  },
+  {
+    "title": "La Suisse doit mieux protéger les lanceurs d'alerte, selon l'OCDE",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T13:23:27.751Z",
+    "duration_minutes": 1528,
+    "duration_str": "1d 1h 28m"
+  },
+  {
+    "title": "La hausse du trafic autoroutier met à l'épreuve le réseau suisse",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T12:55:13.856Z",
+    "duration_minutes": 1500,
+    "duration_str": "1d 1h"
+  },
+  {
+    "title": "A Bâle, la foire Art Basel démarre confiante malgré un contexte difficile",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T12:55:13.856Z",
+    "duration_minutes": 1500,
+    "duration_str": "1d 1h"
+  },
+  {
+    "title": "Migros a vendu un tiers de ses magasins Do it + Garden, à deux semaines d'une fermeture définitive",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T12:10:04.296Z",
+    "duration_minutes": 1455,
+    "duration_str": "1d 15m"
+  },
+  {
+    "title": "Maya Kandel: Pour son deuxième mandat, \"Trump a fait du mensonge un test d'allégeance\"",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T12:04:24.811Z",
+    "duration_minutes": 1449,
+    "duration_str": "1d 9m"
+  },
+  {
+    "title": "Au moins 50 morts près d'un centre de distribution d'aide à Gaza",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T11:15:17.174Z",
+    "duration_minutes": 1400,
+    "duration_str": "23h 20m"
+  },
+  {
+    "title": "\"L'une des pires attaques\" russes sur Kiev fait au moins 14 morts, dénonce Volodymyr Zelensky",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T10:43:19.836Z",
+    "duration_minutes": 1368,
+    "duration_str": "22h 48m"
+  },
+  {
+    "title": "Le pergélisol dégèle toujours plus vite dans les Alpes suisses",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T08:37:10.447Z",
+    "duration_minutes": 1242,
+    "duration_str": "20h 42m"
+  },
+  {
+    "title": "Le cinéaste Guillaume Brac explore les amitiés adolescentes dans deux documentaires",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T08:29:43.068Z",
+    "duration_minutes": 1235,
+    "duration_str": "20h 35m"
+  },
+  {
+    "title": "La Suisse devient le pays le plus compétitif du monde, selon une étude",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T08:24:04.355Z",
+    "duration_minutes": 1229,
+    "duration_str": "20h 29m"
+  },
+  {
+    "title": "Une majorité de la population suisse souhaite un rapprochement avec l'Otan, d'après un sondage",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T08:12:47.350Z",
+    "duration_minutes": 1218,
+    "duration_str": "20h 18m"
+  },
+  {
+    "title": "Le média financier Inside Paradeplatz perquisitionné dans le cadre de l'affaire Pierin Vincenz",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T07:44:27.812Z",
+    "duration_minutes": 1189,
+    "duration_str": "19h 49m"
+  },
+  {
+    "title": "Production à la peine et demande en hausse font bondir les prix du café au Brésil et ailleurs",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T07:21:53.588Z",
+    "duration_minutes": 1167,
+    "duration_str": "19h 27m"
+  },
+  {
+    "title": "\"L'ombre d'une faille\" de Rafael Wolf ou la fièvre d'une île",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T06:42:16.427Z",
+    "duration_minutes": 1127,
+    "duration_str": "18h 47m"
+  },
+  {
+    "title": "Femmes, pères et masculinité au menu de la prochaine saison de la Comédie de Genève",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T06:19:43.328Z",
+    "duration_minutes": 1105,
+    "duration_str": "18h 25m"
+  },
+  {
+    "title": "Comment le changement climatique amplifie les allergies aux pollens",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T05:36:25.094Z",
+    "duration_minutes": 1061,
+    "duration_str": "17h 41m"
+  },
+  {
+    "title": "Une petite majorité de la population suisse est favorable à de nouvelles centrales nucléaires",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T04:28:45.562Z",
+    "duration_minutes": 994,
+    "duration_str": "16h 34m"
+  },
+  {
+    "title": "L'éboulement de Blatten a provoqué 320 millions de francs de dégâts",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-19T03:24:45.374Z",
+    "duration_minutes": 930,
+    "duration_str": "15h 30m"
+  },
+  {
+    "title": "Du CO2 suisse bientôt stocké dans le sous-sol norvégien?",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-18T20:36:12.599Z",
+    "duration_minutes": 521,
+    "duration_str": "8h 41m"
+  },
+  {
+    "title": "En colère, les maîtresses et maîtres vaudois manifestent pour plus de moyens en 1-2P",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-18T18:54:29.288Z",
+    "duration_minutes": 419,
+    "duration_str": "6h 59m"
+  },
+  {
+    "title": "Le centriste Xavier Magnin à nouveau candidat au Conseil d'Etat genevois",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-18T18:52:35.672Z",
+    "duration_minutes": 417,
+    "duration_str": "6h 57m"
+  },
+  {
+    "title": "Deux pointures de l'Université de Lausanne briguent le poste de recteur",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-18T17:46:41.241Z",
+    "duration_minutes": 352,
+    "duration_str": "5h 52m"
+  },
+  {
+    "title": "Le Parlement ouvre la porte aux récoltes de signatures numériques",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-18T15:42:18.899Z",
+    "duration_minutes": 227,
+    "duration_str": "3h 47m"
+  },
+  {
+    "title": "Le Haut-Commissariat de l'ONU pour les réfugiés va supprimer environ 3500 postes dans le monde",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-18T15:40:25.116Z",
+    "duration_minutes": 225,
+    "duration_str": "3h 45m"
+  },
+  {
+    "title": "Trumpisme en Europe: les limites d'une importation politique",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-18T15:29:07.583Z",
+    "duration_minutes": 214,
+    "duration_str": "3h 34m"
+  },
+  {
+    "title": "Le G7, qui démarre sur fond de tensions internationales, veut une \"désescalade\" entre Iran et Israël",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-18T14:21:22.005Z",
+    "duration_minutes": 146,
+    "duration_str": "2h 26m"
+  },
+  {
+    "title": "La Russie a rendu plus de 6000 dépouilles à l'Ukraine en une semaine",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-18T13:21:04.679Z",
+    "duration_minutes": 86,
+    "duration_str": "1h 26m"
+  },
+  {
+    "title": "Nouveau risque d'éboulement au-dessus de Brienz, le village grison est bouclé",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-18T13:09:47.598Z",
+    "duration_minutes": 75,
+    "duration_str": "1h 15m"
+  },
+  {
+    "title": "Le canton de Vaud veut développer la prévention de la radicalisation",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-18T12:26:33.276Z",
+    "duration_minutes": 31,
+    "duration_str": "31m"
+  },
+  {
+    "title": "\"Les dossiers oubliés\", la série à ne pas manquer adaptée des polars de Jussi Adler-Olsen",
+    "added_at": "2025-06-18T11:55:07.192Z",
+    "removed_at": "2025-06-18T12:22:43.611Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
   },
   {
     "title": "Le financement des partis jurassiens sera plus transparent, mais pas assez aux yeux de la gauche",
-    "added_at": "2025-06-18T12:21:55.472Z",
+    "added_at": "2025-06-18T12:22:43.611Z",
     "removed_at": "2025-06-20T10:51:42.235Z",
-    "duration_minutes": 2790,
-    "duration_str": "1d 22h 30m"
+    "duration_minutes": 2789,
+    "duration_str": "1d 22h 29m"
   },
   {
     "title": "De plus en plus de personnes se font arnaquer par de faux policiers en Suisse romande",
-    "added_at": "2025-06-18T12:23:57.068Z",
+    "added_at": "2025-06-18T12:24:37.858Z",
     "removed_at": "2025-06-20T20:30:05.513Z",
-    "duration_minutes": 3366,
-    "duration_str": "2d 8h 6m"
+    "duration_minutes": 3365,
+    "duration_str": "2d 8h 5m"
   },
   {
     "title": "Une commune suisse sur deux n'est pas assez préparée face aux cyberrisques",
-    "added_at": "2025-06-18T12:25:52.915Z",
+    "added_at": "2025-06-18T12:26:33.276Z",
     "removed_at": "2025-06-20T11:25:42.491Z",
-    "duration_minutes": 2820,
-    "duration_str": "1d 23h"
+    "duration_minutes": 2819,
+    "duration_str": "1d 22h 59m"
   },
   {
     "title": "Une femme et un couple tués dans le canton de Soleure",
-    "added_at": "2025-06-18T12:29:54.331Z",
-    "removed_at": "2025-06-20T13:37:33.581Z",
-    "duration_minutes": 2948,
-    "duration_str": "2d 1h 8m"
+    "added_at": "2025-06-18T12:30:16.613Z",
+    "removed_at": "2025-06-20T13:37:35.766Z",
+    "duration_minutes": 2947,
+    "duration_str": "2d 1h 7m"
   },
   {
     "title": "Tom Cruise va obtenir un Oscar d'honneur pour l'ensemble de sa carrière",
-    "added_at": "2025-06-18T13:09:40.921Z",
+    "added_at": "2025-06-18T13:09:47.598Z",
     "removed_at": "2025-06-20T13:43:13.795Z",
-    "duration_minutes": 2914,
-    "duration_str": "2d 34m"
+    "duration_minutes": 2913,
+    "duration_str": "2d 33m"
   },
   {
     "title": "La Confédération veut mieux combattre les infections dans les EMS",
@@ -184,9 +625,9 @@
   {
     "title": "Recours de Greenpeace admis contre l'extension de l'utilisation d'un insecticide",
     "added_at": "2025-06-18T13:21:04.679Z",
-    "removed_at": "2025-06-20T14:03:32.716Z",
-    "duration_minutes": 2922,
-    "duration_str": "2d 42m"
+    "removed_at": "2025-06-20T14:04:00.103Z",
+    "duration_minutes": 2923,
+    "duration_str": "2d 43m"
   },
   {
     "title": "Le fondateur d'Amazon Jeff Bezos, persona non grata à Venise pour son mariage",
@@ -197,17 +638,17 @@
   },
   {
     "title": "L'UE se coordonne pour mieux lutter contre les méga-feux, mais peut mieux faire",
-    "added_at": "2025-06-18T13:59:25.418Z",
-    "removed_at": "2025-06-20T16:05:09.610Z",
+    "added_at": "2025-06-18T14:00:34.419Z",
+    "removed_at": "2025-06-20T16:06:22.996Z",
     "duration_minutes": 3006,
     "duration_str": "2d 2h 6m"
   },
   {
     "title": "Des astronomes capturent l'image d'une galaxie en mille couleurs pour mieux l'étudier",
-    "added_at": "2025-06-18T14:21:19.191Z",
-    "removed_at": "2025-06-21T06:35:26.751Z",
-    "duration_minutes": 3854,
-    "duration_str": "2d 16h 14m"
+    "added_at": "2025-06-18T14:21:22.005Z",
+    "removed_at": "2025-06-21T06:36:12.655Z",
+    "duration_minutes": 3855,
+    "duration_str": "2d 16h 15m"
   },
   {
     "title": "Donald Trump affirme que sa patience est \"déjà à bout\" avec l'Iran",
@@ -218,15 +659,15 @@
   },
   {
     "title": "Un rapport sur les causes du black-out qui a touché l'Espagne présenté par le gouvernement espagnol",
-    "added_at": "2025-06-18T15:22:57.868Z",
+    "added_at": "2025-06-18T15:23:28.710Z",
     "removed_at": "2025-06-20T07:26:22.840Z",
     "duration_minutes": 2403,
     "duration_str": "1d 16h 3m"
   },
   {
     "title": "Les millionnaires sont toujours plus nombreux dans le monde, rapporte UBS",
-    "added_at": "2025-06-18T15:28:54.847Z",
-    "removed_at": "2025-06-21T07:19:20.117Z",
+    "added_at": "2025-06-18T15:29:07.583Z",
+    "removed_at": "2025-06-21T07:19:26.800Z",
     "duration_minutes": 3830,
     "duration_str": "2d 15h 50m"
   },
@@ -246,57 +687,57 @@
   },
   {
     "title": "Hausse alarmante des décès de civils dans les conflits mondiaux en 2024",
-    "added_at": "2025-06-18T17:46:03.463Z",
-    "removed_at": "2025-06-21T09:21:00.249Z",
+    "added_at": "2025-06-18T17:46:41.241Z",
+    "removed_at": "2025-06-21T09:21:54.188Z",
     "duration_minutes": 3815,
     "duration_str": "2d 15h 35m"
   },
   {
     "title": "Romain Puértolas imagine la survie d'Hitler en Argentine dans une savoureuse enquête",
-    "added_at": "2025-06-18T18:51:52.860Z",
+    "added_at": "2025-06-18T18:52:35.672Z",
     "removed_at": "2025-06-21T06:26:51.008Z",
-    "duration_minutes": 3575,
-    "duration_str": "2d 11h 35m"
+    "duration_minutes": 3574,
+    "duration_str": "2d 11h 34m"
   },
   {
     "title": "Podcast - A partir de quand est-on addict ?",
-    "added_at": "2025-06-18T18:53:48.999Z",
+    "added_at": "2025-06-18T18:54:29.288Z",
     "removed_at": "2025-06-21T05:43:24.969Z",
-    "duration_minutes": 3530,
-    "duration_str": "2d 10h 50m"
+    "duration_minutes": 3529,
+    "duration_str": "2d 10h 49m"
   },
   {
     "title": "La Suisse s'incline sans démériter face à la Grèce pour son entrée en lice",
-    "added_at": "2025-06-18T19:37:30.314Z",
-    "removed_at": "2025-06-21T08:57:07.779Z",
+    "added_at": "2025-06-18T19:37:51.304Z",
+    "removed_at": "2025-06-21T08:57:23.760Z",
     "duration_minutes": 3680,
     "duration_str": "2d 13h 20m"
   },
   {
     "title": "Donald Trump qualifie de \"stupide\" et \"politisé\" le président de la Réserve fédérale américaine",
     "added_at": "2025-06-18T20:32:28.937Z",
-    "removed_at": "2025-06-21T10:20:52.010Z",
-    "duration_minutes": 3708,
-    "duration_str": "2d 13h 48m"
+    "removed_at": "2025-06-21T10:22:06.790Z",
+    "duration_minutes": 3710,
+    "duration_str": "2d 13h 50m"
   },
   {
     "title": "Entretien avec Philipp Matthias Bregy, unique candidat à la présidence du Centre",
-    "added_at": "2025-06-18T21:22:56.531Z",
+    "added_at": "2025-06-18T21:23:23.668Z",
     "removed_at": "2025-06-20T07:26:22.840Z",
     "duration_minutes": 2043,
     "duration_str": "1d 10h 3m"
   },
   {
     "title": "Témoignages des survivants des scènes ouvertes de la drogue",
-    "added_at": "2025-06-18T22:22:36.094Z",
-    "removed_at": "2025-06-21T08:31:04.970Z",
+    "added_at": "2025-06-18T22:23:33.973Z",
+    "removed_at": "2025-06-21T08:31:05.774Z",
     "duration_minutes": 3488,
     "duration_str": "2d 10h 8m"
   },
   {
     "title": "Après les frappes israéliennes sur Téhéran, l'Iran continue de traquer les espions infiltrés",
     "added_at": "2025-06-18T23:23:41.836Z",
-    "removed_at": "2025-06-20T13:29:38.850Z",
+    "removed_at": "2025-06-20T13:30:06.522Z",
     "duration_minutes": 2286,
     "duration_str": "1d 14h 6m"
   }
