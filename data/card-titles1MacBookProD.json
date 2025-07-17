@@ -28,7 +28,10 @@
   },
   {
     "title": "Les interrupteurs à carburant des Boeing inspectés en Inde après le crash d'un 787",
-    "added_at": "2025-07-15T10:12:36.110Z"
+    "added_at": "2025-07-15T10:12:36.110Z",
+    "removed_at": "2025-07-17T04:35:32.950Z",
+    "duration_minutes": 2542,
+    "duration_str": "1d 18h 22m"
   },
   {
     "title": "Un cours de dialecte singinois à l'Hôpital fribourgeois pour améliorer les soins aux patients alémaniques",
@@ -950,5 +953,9 @@
   {
     "title": "Donald Trump freine le projet de train à grande vitesse en Californie",
     "added_at": "2025-07-17T03:26:14.933Z"
+  },
+  {
+    "title": "Le leasing est peu utilisé en Suisse, et à raison, selon le TCS",
+    "added_at": "2025-07-17T04:35:32.950Z"
   }
 ]
