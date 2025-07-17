@@ -42016,7 +42016,10 @@
   },
   {
     "title": "Fire Damages Tomorrowland Music Festival’s Main Stage",
-    "added_at": "2025-07-17T02:35:32.483Z"
+    "added_at": "2025-07-17T02:35:32.483Z",
+    "removed_at": "2025-07-17T07:58:33.867Z",
+    "duration_minutes": 323,
+    "duration_str": "5h 23m"
   },
   {
     "title": "Canadian Retailer Abandons Its Quest for 7-Eleven",
@@ -42049,5 +42052,16 @@
   {
     "title": "How Every Senator Voted on the Measure",
     "added_at": "2025-07-17T07:28:41.688Z"
+  },
+  {
+    "title": "Dozens of People Are Reported Killed in Iraq Shopping Mall Fire",
+    "added_at": "2025-07-17T07:46:20.052Z",
+    "removed_at": "2025-07-17T08:12:50.459Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "Dozens of People Are Killed in Iraq Shopping Mall Fire",
+    "added_at": "2025-07-17T08:12:50.459Z"
   }
 ]
