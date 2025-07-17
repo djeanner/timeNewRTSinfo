@@ -8226,10 +8226,7 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z",
-    "removed_at": "2025-07-11T11:41:26.223Z",
-    "duration_minutes": 71619,
-    "duration_str": "49d 17h 39m"
+    "added_at": "2025-05-22T18:01:52.008Z"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -20685,7 +20682,10 @@
   },
   {
     "title": "economie:::Plombé par la faiblesse de la Chine, Swatch Group identifie des premiers signes d’amélioration",
-    "added_at": "2025-07-17T11:28:13.874Z"
+    "added_at": "2025-07-17T11:28:13.874Z",
+    "removed_at": "2025-07-17T18:20:58.864Z",
+    "duration_minutes": 412,
+    "duration_str": "6h 52m"
   },
   {
     "title": "suisse:::Le barrage de la Grande Dixence est inaccessible suite à un important éboulement, le secteur du tourisme touché",
@@ -20696,7 +20696,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Une frappe israélienne sur la seule église catholique de Gaza fait deux morts",
-    "added_at": "2025-07-17T13:51:17.513Z"
+    "added_at": "2025-07-17T13:51:17.513Z",
+    "removed_at": "2025-07-17T19:05:49.207Z",
+    "duration_minutes": 314,
+    "duration_str": "5h 14m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Une frappe israélienne sur la seule Eglise catholique de Gaza fait deux morts",
@@ -20734,10 +20737,25 @@
   },
   {
     "title": "economie:::L’Union européenne se prépare à cibler la tech américaine",
-    "added_at": "2025-07-17T17:31:46.266Z"
+    "added_at": "2025-07-17T17:31:46.266Z",
+    "removed_at": "2025-07-17T19:01:45.130Z",
+    "duration_minutes": 89,
+    "duration_str": "1h 29m"
   },
   {
     "title": "cyber:::L’intelligence artificielle générale, avatar poli d’un transhumanisme qui ne dit pas son nom",
     "added_at": "2025-07-17T18:02:21.452Z"
+  },
+  {
+    "title": "monde:::L’effet boomerang de l’affaire Epstein pour Donald Trump",
+    "added_at": "2025-07-17T18:20:58.864Z"
+  },
+  {
+    "title": "monde:::Barcelone va limiter ses capacités d’accueil de navires de croisières",
+    "added_at": "2025-07-17T19:01:45.130Z"
+  },
+  {
+    "title": "suisse:::Pour les Patriot américains, la Suisse est mise sur liste d’attente",
+    "added_at": "2025-07-17T19:05:49.207Z"
   }
 ]
