@@ -48,8 +48,9 @@
   {
     "title": "suisse:::Le barrage de la Grande Dixence est inaccessible suite à un important éboulement",
     "added_at": "2025-07-17T05:54:56.462Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-17T09:58:21.070Z",
+    "duration_minutes": 243,
+    "duration_str": "4h 3m"
   },
   {
     "title": "sport:::Le jour où, dans les Pyrénées, le Tour de France va plonger dans la tourmente",
@@ -84,18 +85,38 @@
   {
     "title": "economie:::Malgré l’environnement économique, le premier semestre sourit à Novartis",
     "added_at": "2025-07-17T09:14:03.582Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-17T09:38:38.387Z",
+    "duration_minutes": 25,
+    "duration_str": "25m"
   },
   {
     "title": "sciences:::En Islande, le volcan de Reykjanes est à nouveau entré en éruption, la neuvième en deux ans",
     "added_at": "2025-07-17T09:16:02.340Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-17T10:45:18.384Z",
+    "duration_minutes": 89,
+    "duration_str": "1h 29m"
   },
   {
     "title": "sport:::Euro 2025 – En Angleterre, un symbole d’indépendance au plus haut niveau",
     "added_at": "2025-07-17T09:28:16.212Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::Dans un contexte de guerre commerciale, le premier semestre sourit à Novartis",
+    "added_at": "2025-07-17T09:38:38.387Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::The Horse & Groom, un refuge historique de la communauté ouvrière anglaise à l’article de la mort",
+    "added_at": "2025-07-17T09:58:21.070Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "sciences:::En graphiques – Le Congrès américain vole au secours des budgets scientifiques menacés par Donald Trump",
+    "added_at": "2025-07-17T10:45:18.384Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
