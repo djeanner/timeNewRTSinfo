@@ -1409,7 +1409,10 @@
   },
   {
     "title": "Berne en effervescence avant le quart de finale entre la Suisse et l'Espagne",
-    "added_at": "2025-07-18T08:18:45.212Z"
+    "added_at": "2025-07-18T08:18:45.212Z",
+    "removed_at": "2025-07-18T16:18:29.453Z",
+    "duration_minutes": 479,
+    "duration_str": "7h 59m"
   },
   {
     "title": "Le dispositif de sécurité du Gothard à l'épreuve des départs en vacances",
@@ -1517,5 +1520,9 @@
   {
     "title": "Les plages du Vengeron et de Pregny-Chambésy fermées à cause d'une eau impropre",
     "added_at": "2025-07-18T16:08:12.506Z"
+  },
+  {
+    "title": "Une nouvelle marée rouge à Berne avant le quart de finale entre la Suisse et l'Espagne",
+    "added_at": "2025-07-18T16:18:29.453Z"
   }
 ]

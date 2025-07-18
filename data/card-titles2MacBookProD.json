@@ -20604,7 +20604,10 @@
   },
   {
     "title": "suisse:::La fermeture du camping d’Arolla, symptôme d’un tourisme forcé de s’adapter",
-    "added_at": "2025-07-17T04:49:49.173Z"
+    "added_at": "2025-07-17T04:49:49.173Z",
+    "removed_at": "2025-07-18T16:22:36.924Z",
+    "duration_minutes": 2132,
+    "duration_str": "1d 11h 32m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’armée syrienne a entamé son retrait de Soueïda après des combats meurtriers",
@@ -20762,7 +20765,10 @@
   },
   {
     "title": "sciences:::Les rivières des Alpes devraient connaître une forte hausse de température",
-    "added_at": "2025-07-17T16:55:00.504Z"
+    "added_at": "2025-07-17T16:55:00.504Z",
+    "removed_at": "2025-07-18T16:22:36.924Z",
+    "duration_minutes": 1407,
+    "duration_str": "23h 27m"
   },
   {
     "title": "economie:::Une meilleure isolation du parc résidentiel suisse permettrait de réduire la consommation électrique du pays de près de 10%",
@@ -20787,7 +20793,10 @@
   },
   {
     "title": "monde:::L’effet boomerang de l’affaire Epstein pour Donald Trump",
-    "added_at": "2025-07-17T18:20:58.864Z"
+    "added_at": "2025-07-17T18:20:58.864Z",
+    "removed_at": "2025-07-18T17:03:17.386Z",
+    "duration_minutes": 1362,
+    "duration_str": "22h 42m"
   },
   {
     "title": "monde:::Barcelone va limiter ses capacités d’accueil de navires de croisières",
@@ -20798,7 +20807,10 @@
   },
   {
     "title": "suisse:::Pour les Patriot américains, la Suisse est mise sur liste d’attente",
-    "added_at": "2025-07-17T19:05:49.207Z"
+    "added_at": "2025-07-17T19:05:49.207Z",
+    "removed_at": "2025-07-18T17:03:17.386Z",
+    "duration_minutes": 1317,
+    "duration_str": "21h 57m"
   },
   {
     "title": "sport:::Tadej Pogacar, la caution jeune, écolo et tolérante des Emirats arabes unis",
@@ -20903,7 +20915,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – La Défense civile annonce 14 morts dans de nouveaux bombardements israéliens",
-    "added_at": "2025-07-18T09:48:32.908Z"
+    "added_at": "2025-07-18T09:48:32.908Z",
+    "removed_at": "2025-07-18T16:34:49.255Z",
+    "duration_minutes": 406,
+    "duration_str": "6h 46m"
   },
   {
     "title": "culture:::Milo Rau, l’artiste suisse qui monte «Le Procès Pelicot» à Avignon: «Gisèle Pelicot a retourné dix ans de torture en message d’espoir»",
@@ -20955,10 +20970,7 @@
   },
   {
     "title": "suisse:::«La Région» a fait chauffer l’imprimerie pour la toute dernière fois",
-    "added_at": "2025-07-18T15:47:48.692Z",
-    "removed_at": "2025-07-18T16:12:16.344Z",
-    "duration_minutes": 24,
-    "duration_str": "24m"
+    "added_at": "2025-07-18T15:47:48.692Z"
   },
   {
     "title": "sport:::En direct, Euro 2025 – Vers un nouveau «Miracle de Berne»? Les supporters suisses convergent vers le Wankdorf pour le choc entre la Nati et l’Espagne",
@@ -20974,5 +20986,17 @@
   {
     "title": "monde:::L’Allemagne se veut locomotive de la politique migratoire européenne",
     "added_at": "2025-07-18T16:12:16.344Z"
+  },
+  {
+    "title": "economie:::Donald Trump utilise les travaux de rénovation de la Fed pour accentuer la pression sur son président",
+    "added_at": "2025-07-18T16:30:42.573Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Près de 80 000 personnes ont été déplacées dans le sud de la Syrie depuis dimanche",
+    "added_at": "2025-07-18T16:34:49.255Z"
+  },
+  {
+    "title": "suisse:::Berne lance un mandat d’arrêt contre trois Russes, Moscou parle d’un «conte de fées»",
+    "added_at": "2025-07-18T17:03:17.386Z"
   }
 ]
