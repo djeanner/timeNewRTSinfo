@@ -1145,7 +1145,10 @@
   },
   {
     "title": "Le leasing est peu utilisé en Suisse, et à raison, selon le TCS",
-    "added_at": "2025-07-17T04:35:32.950Z"
+    "added_at": "2025-07-17T04:35:32.950Z",
+    "removed_at": "2025-07-18T20:56:14.294Z",
+    "duration_minutes": 2420,
+    "duration_str": "1d 16h 20m"
   },
   {
     "title": "Une étude suisse dévoile les secrets de la puissance destructrice des laves torrentielles",
@@ -1587,5 +1590,9 @@
   {
     "title": "Rouge, rouge et encore rouge: 25'000 fans suisses ont défilé à Berne avant le match contre l'Espagne",
     "added_at": "2025-07-18T19:57:04.374Z"
+  },
+  {
+    "title": "Valeureuse, la Suisse finit par céder face à l'Espagne",
+    "added_at": "2025-07-18T20:56:14.294Z"
   }
 ]
