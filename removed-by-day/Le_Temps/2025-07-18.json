@@ -55,8 +55,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – L’UE adopte un 18e paquet de sanctions contre la Russie",
     "added_at": "2025-07-18T08:26:35.536Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-18T19:36:29.903Z",
+    "duration_minutes": 670,
+    "duration_str": "11h 10m"
   },
   {
     "title": "sciences:::A Genève, l’inquiétude gagne les éleveurs face à l’épidémie de dermatose en Savoie et Haute-Savoie",
@@ -178,15 +179,16 @@
   },
   {
     "title": "economie:::Donald Trump utilise les travaux de rénovation de la Fed pour accentuer la pression sur son président",
-    "added_at": "2025-07-18T16:30:42.573Z",
+    "added_at": "2025-07-18T16:29:24.722Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Près de 80 000 personnes ont été déplacées dans le sud de la Syrie depuis dimanche",
     "added_at": "2025-07-18T16:34:49.255Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-18T19:36:29.903Z",
+    "duration_minutes": 182,
+    "duration_str": "3h 2m"
   },
   {
     "title": "suisse:::Berne lance un mandat d’arrêt contre trois Russes, Moscou parle d’un «conte de fées»",
@@ -197,12 +199,45 @@
   {
     "title": "sport:::En direct, Euro 2025 – Des surprises dans le «onze» suisse qui s’apprête à affronter la sélection espagnole",
     "added_at": "2025-07-18T17:58:25.081Z",
+    "removed_at": "2025-07-18T19:01:50.579Z",
+    "duration_minutes": 63,
+    "duration_str": "1h 3m"
+  },
+  {
+    "title": "sport:::Le Football et les Femmes: Sauvegarder la partie",
+    "added_at": "2025-07-18T18:16:50.113Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
-    "title": "sport:::Le Football et les Femmes: Sauvegarder la partie",
-    "added_at": "2025-07-18T18:16:53.063Z",
+    "title": "sport:::En direct, Euro 2025 – Coup d’envoi à Berne avec quelques surprises dans le onze suisse qui affronte l’Espagne",
+    "added_at": "2025-07-18T19:01:50.579Z",
+    "removed_at": "2025-07-18T19:30:23.559Z",
+    "duration_minutes": 29,
+    "duration_str": "29m"
+  },
+  {
+    "title": "sport:::En direct, Euro 2025 – La Suisse résiste face à l’Espagne sur la pelouse du Wankdorf",
+    "added_at": "2025-07-18T19:30:23.559Z",
+    "removed_at": "2025-07-18T19:50:50.582Z",
+    "duration_minutes": 20,
+    "duration_str": "20m"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Près de 80 000 personnes ont été déplacées dans le sud de la Syrie depuis dimanche",
+    "added_at": "2025-07-18T19:36:29.903Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – L’UE adopte un 18e paquet de sanctions contre la Russie",
+    "added_at": "2025-07-18T19:36:29.903Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "sport:::En direct, Euro 2025 – La Suisse et l’Espagne se neutralisent en première période",
+    "added_at": "2025-07-18T19:50:50.582Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
