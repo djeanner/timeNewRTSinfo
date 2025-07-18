@@ -20156,7 +20156,10 @@
   },
   {
     "title": "culture:::Au Festival d’Avignon, les stars attendues se reposent sur leurs lauriers",
-    "added_at": "2025-07-15T13:47:08.061Z"
+    "added_at": "2025-07-15T13:47:08.061Z",
+    "removed_at": "2025-07-18T12:48:15.175Z",
+    "duration_minutes": 4261,
+    "duration_str": "2d 23h 1m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Une ONG accuse les forces syriennes d’avoir tué 12 civils à Soueïda",
@@ -20486,7 +20489,10 @@
   },
   {
     "title": "monde:::Israël annonce déployer des forces armées vers la Syrie",
-    "added_at": "2025-07-16T16:30:19.585Z"
+    "added_at": "2025-07-16T16:30:19.585Z",
+    "removed_at": "2025-07-18T12:46:10.168Z",
+    "duration_minutes": 2655,
+    "duration_str": "1d 20h 15m"
   },
   {
     "title": "economie:::Sceptiques sur les annonces de François Bayrou, les marchés financiers attendent de voir la suite",
@@ -20546,10 +20552,7 @@
   },
   {
     "title": "cyber:::Les Zizians, la secte de véganes vengeurs qui a ébranlé les rationalistes de la Silicon Valley",
-    "added_at": "2025-07-16T19:07:25.942Z",
-    "removed_at": "2025-07-17T04:13:07.995Z",
-    "duration_minutes": 545,
-    "duration_str": "9h 5m"
+    "added_at": "2025-07-16T19:07:25.942Z"
   },
   {
     "title": "sport:::L'Italie, première qualifiée pour les demi-finales de l'Euro 2025",
@@ -20881,5 +20884,9 @@
   {
     "title": "culture:::Milo Rau, l’artiste suisse qui monte «Le Procès Pelicot» à Avignon: «Gisèle Pelicot a retourné dix ans de torture en message d’espoir»",
     "added_at": "2025-07-18T10:47:50.255Z"
+  },
+  {
+    "title": "cyber:::Obsédés par l’apocalypse, les milliardaires de la Silicon Valley sont devenus survivalistes",
+    "added_at": "2025-07-18T12:48:15.175Z"
   }
 ]
