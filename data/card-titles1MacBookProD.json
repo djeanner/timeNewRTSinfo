@@ -884,7 +884,10 @@
   },
   {
     "title": "Début du procès d'un guérisseur accusé d'agressions sexuelles à Fribourg",
-    "added_at": "2025-07-16T10:45:26.949Z"
+    "added_at": "2025-07-16T10:45:26.949Z",
+    "removed_at": "2025-07-18T04:42:40.214Z",
+    "duration_minutes": 2517,
+    "duration_str": "1d 17h 57m"
   },
   {
     "title": "Le Conseil fédéral veut permettre un nouveau départ aux citoyens surendettés",
@@ -1293,5 +1296,9 @@
   {
     "title": "Donald Trump menace le Wall Street Journal qui lui attribue une lettre salace à Jeffrey Epstein",
     "added_at": "2025-07-18T03:25:21.410Z"
+  },
+  {
+    "title": "La délicate migration des comptes Credit Suisse chez UBS a débuté en Suisse",
+    "added_at": "2025-07-18T04:42:40.214Z"
   }
 ]
