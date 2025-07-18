@@ -42639,7 +42639,10 @@
   },
   {
     "title": "CBS Is Canceling ‘Late Show With Stephen Colbert’",
-    "added_at": "2025-07-18T00:09:47.666Z"
+    "added_at": "2025-07-18T00:09:47.666Z",
+    "removed_at": "2025-07-18T09:19:55.200Z",
+    "duration_minutes": 550,
+    "duration_str": "9h 10m"
   },
   {
     "title": "Musk Clears Final Hurdles for Tesla and Starlink in India",
@@ -42743,5 +42746,9 @@
   {
     "title": "5 Charged in U.C. Berkeley Professor’s Killing in Greece, Including His Ex-Wife",
     "added_at": "2025-07-18T07:23:42.460Z"
+  },
+  {
+    "title": "CBS Is Canceling ‘The Late Show With Stephen Colbert’",
+    "added_at": "2025-07-18T09:19:55.200Z"
   }
 ]
