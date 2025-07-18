@@ -984,7 +984,10 @@
   },
   {
     "title": "Le tunnel du Mont-Blanc fête ses 60 ans",
-    "added_at": "2025-07-16T14:37:26.592Z"
+    "added_at": "2025-07-16T14:37:26.592Z",
+    "removed_at": "2025-07-18T03:25:21.410Z",
+    "duration_minutes": 2207,
+    "duration_str": "1d 12h 47m"
   },
   {
     "title": "La Suisse doit se préparer à des dangers naturels plus fréquents et intenses",
@@ -1286,5 +1289,9 @@
   {
     "title": "Les bénéfices de Netflix en hausse de 45% grâce à l'augmentation du prix de ses abonnements",
     "added_at": "2025-07-18T01:33:19.828Z"
+  },
+  {
+    "title": "Donald Trump menace le Wall Street Journal qui lui attribue une lettre salace à Jeffrey Epstein",
+    "added_at": "2025-07-18T03:25:21.410Z"
   }
 ]
