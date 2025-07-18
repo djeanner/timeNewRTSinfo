@@ -876,7 +876,10 @@
   },
   {
     "title": "Le champ de vision des conducteurs de voitures diminue d'année en année, alerte une étude",
-    "added_at": "2025-07-16T10:45:26.949Z"
+    "added_at": "2025-07-16T10:45:26.949Z",
+    "removed_at": "2025-07-18T08:12:39.226Z",
+    "duration_minutes": 2727,
+    "duration_str": "1d 21h 27m"
   },
   {
     "title": "La guerre privatisée, ou quand les Etats délèguent le monopole de la violence",
@@ -974,7 +977,10 @@
   },
   {
     "title": "Des images inédites du Soleil pour comprendre la météo spatiale",
-    "added_at": "2025-07-16T14:37:26.592Z"
+    "added_at": "2025-07-16T14:37:26.592Z",
+    "removed_at": "2025-07-18T08:18:45.212Z",
+    "duration_minutes": 2501,
+    "duration_str": "1d 17h 41m"
   },
   {
     "title": "A Genève, l'espoir d'une rencontre entre parlementaires russes et ukrainiens fin juillet",
@@ -1342,5 +1348,13 @@
     "removed_at": "2025-07-18T07:52:08.594Z",
     "duration_minutes": 28,
     "duration_str": "28m"
+  },
+  {
+    "title": "L'Union européenne adopte un 18e paquet de sanctions contre la Russie",
+    "added_at": "2025-07-18T08:12:39.226Z"
+  },
+  {
+    "title": "Berne en effervescence avant le quart de finale entre la Suisse et l'Espagne",
+    "added_at": "2025-07-18T08:18:45.212Z"
   }
 ]

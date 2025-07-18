@@ -36,9 +36,8 @@
   {
     "title": "« On nous traite comme des machines » : sur les bateaux de croisière, jusqu’à 72 heures de travail par semaine",
     "added_at": "2025-07-18T03:23:11.328Z",
-    "removed_at": "2025-07-18T06:25:54.912Z",
-    "duration_minutes": 183,
-    "duration_str": "3h 3m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Manuel Bompard, deuxième homme fort de LFI et aspirant dauphin",
@@ -149,9 +148,8 @@
   {
     "title": "Gaza : trois morts dans le bombardement de l’église catholique de la Sainte-Famille, Emmanuel Macron « condamne fermement » la frappe",
     "added_at": "2025-07-18T05:00:58.622Z",
-    "removed_at": "2025-07-18T06:31:33.522Z",
-    "duration_minutes": 91,
-    "duration_str": "1h 31m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Narcotrafic : premières convocations avant le début des transferts de détenus à Vendin-le-Vieil",
@@ -197,8 +195,9 @@
   {
     "title": "Syrie : qui sont les Druzes et pourquoi sont-ils défendus par Israël ?",
     "added_at": "2025-07-18T05:47:52.120Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-18T08:18:45.591Z",
+    "duration_minutes": 151,
+    "duration_str": "2h 31m"
   },
   {
     "title": "Felix Baumgartner, champion autrichien de saut extrême, meurt dans un accident en Italie",
@@ -275,8 +274,9 @@
   {
     "title": "Serge Atlaoui : l’ex-condamné à mort en Indonésie pour trafic de drogue va sortir de prison, annonce sa femme",
     "added_at": "2025-07-18T07:13:29.910Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-18T08:14:38.524Z",
+    "duration_minutes": 61,
+    "duration_str": "1h 1m"
   },
   {
     "title": "Donald Trump pourrait bientôt promulguer la première loi d’encadrement des cryptomonnaies aux Etats-Unis",
@@ -308,6 +308,12 @@
   {
     "title": "Editorial du « Monde » : sur les livraisons d’armes à l’Ukraine, l’inflexion limitée de Trump",
     "added_at": "2025-07-18T07:37:53.954Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Serge Atlaoui : l’ex-condamné à mort en Indonésie pour trafic de drogue est sorti de prison en France",
+    "added_at": "2025-07-18T08:14:38.524Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
