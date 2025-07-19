@@ -1213,7 +1213,10 @@
   },
   {
     "title": "La Russie dit avoir rendu les corps de 1000 soldats ukrainiens tués",
-    "added_at": "2025-07-17T11:22:07.423Z"
+    "added_at": "2025-07-17T11:22:07.423Z",
+    "removed_at": "2025-07-19T06:12:56.066Z",
+    "duration_minutes": 2570,
+    "duration_str": "1d 18h 50m"
   },
   {
     "title": "En Valais, le barrage de la Grande Dixence reste sous surveillance après un éboulement",
@@ -1615,5 +1618,9 @@
   {
     "title": "Derrière les arnaques en ligne, un système d'esclavagisme moderne",
     "added_at": "2025-07-19T05:38:14.910Z"
+  },
+  {
+    "title": "Un soldat ukrainien raconte la guerre, les images de l'espace politisées et des fripes toujours plus fripées",
+    "added_at": "2025-07-19T06:12:56.066Z"
   }
 ]
