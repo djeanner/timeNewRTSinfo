@@ -1317,7 +1317,10 @@
   },
   {
     "title": "Voyager dans des zones macabres ou à risque: le \"dark tourism\" est en plein essor",
-    "added_at": "2025-07-17T15:47:43.466Z"
+    "added_at": "2025-07-17T15:47:43.466Z",
+    "removed_at": "2025-07-19T19:51:50.935Z",
+    "duration_minutes": 3124,
+    "duration_str": "2d 4h 4m"
   },
   {
     "title": "L'adieu à Thierry Ardisson réunit un millier de personnes à Paris",
@@ -1360,7 +1363,10 @@
   },
   {
     "title": "L'idée d'un registre numérique pour surveiller les prêtres est à l'étude",
-    "added_at": "2025-07-17T18:04:20.154Z"
+    "added_at": "2025-07-17T18:04:20.154Z",
+    "removed_at": "2025-07-19T19:55:58.900Z",
+    "duration_minutes": 2991,
+    "duration_str": "2d 1h 51m"
   },
   {
     "title": "En pleine querelle tarifaire, Roche retire un traitement contre le cancer en Suisse",
@@ -1415,7 +1421,10 @@
   },
   {
     "title": "L'OMS recommande un nouveau traitement préventif sous-cutané contre le VIH",
-    "added_at": "2025-07-17T20:25:33.934Z"
+    "added_at": "2025-07-17T20:25:33.934Z",
+    "removed_at": "2025-07-19T20:28:37.128Z",
+    "duration_minutes": 2883,
+    "duration_str": "2d 3m"
   },
   {
     "title": "L'Angleterre passe au bout du suspense",
@@ -1755,5 +1764,24 @@
   {
     "title": "L'hôpital de Château-d’Œx menacé de fermeture par le projet d'économies de l'Etat de Vaud",
     "added_at": "2025-07-19T18:32:07.632Z"
+  },
+  {
+    "title": "Alors que les réserves de sang s'épuisent à Genève, les HUG tirent la sonnette d'alarme",
+    "added_at": "2025-07-19T19:51:50.935Z"
+  },
+  {
+    "title": "Une centaine d'émeutiers ont attaqué des voitures avec des mortiers à Limoges",
+    "added_at": "2025-07-19T19:55:58.900Z",
+    "removed_at": "2025-07-19T19:57:58.169Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Une centaine d'émeutiers cagoulés s'en prennent à des voitures à Limoges",
+    "added_at": "2025-07-19T19:57:58.169Z"
+  },
+  {
+    "title": "Une voiture fonce sur la foule à Los Angeles devant une boîte de nuit",
+    "added_at": "2025-07-19T20:28:37.128Z"
   }
 ]
