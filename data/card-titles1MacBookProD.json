@@ -697,10 +697,7 @@
   },
   {
     "title": "Le suivi de la 59e édition du Montreux Jazz Festival",
-    "added_at": "2025-07-15T13:47:08.014Z",
-    "removed_at": "2025-07-18T18:39:16.572Z",
-    "duration_minutes": 4612,
-    "duration_str": "3d 4h 52m"
+    "added_at": "2025-07-15T13:47:08.014Z"
   },
   {
     "title": "Israël bombarde l'armée syrienne à Soueïda, malgré un cessez-le-feu annoncé",
@@ -1243,7 +1240,10 @@
   },
   {
     "title": "En Valais, le site de la Grande Dixence reste sous surveillance après un éboulement",
-    "added_at": "2025-07-17T12:35:38.494Z"
+    "added_at": "2025-07-17T12:35:38.494Z",
+    "removed_at": "2025-07-19T12:28:30.780Z",
+    "duration_minutes": 2872,
+    "duration_str": "1d 23h 52m"
   },
   {
     "title": "TikTok dans le viseur d’une ONG autrichienne de protection de la vie privée",
@@ -1333,7 +1333,10 @@
   },
   {
     "title": "Tadej Pogacar assomme la concurrence à Hautacam",
-    "added_at": "2025-07-17T16:40:43.577Z"
+    "added_at": "2025-07-17T16:40:43.577Z",
+    "removed_at": "2025-07-19T12:30:30.054Z",
+    "duration_minutes": 2629,
+    "duration_str": "1d 19h 49m"
   },
   {
     "title": "L'économiste Ioulia Svyrydenko nommée Première ministre en Ukraine",
@@ -1368,11 +1371,17 @@
   },
   {
     "title": "Le bilan des violences dans le sud de la Syrie avoisine les 600 morts",
-    "added_at": "2025-07-17T19:16:13.754Z"
+    "added_at": "2025-07-17T19:16:13.754Z",
+    "removed_at": "2025-07-19T13:03:06.219Z",
+    "duration_minutes": 2506,
+    "duration_str": "1d 17h 46m"
   },
   {
     "title": "Une frappe israélienne sur l'église catholique de Gaza fait trois morts",
-    "added_at": "2025-07-17T19:28:28.120Z"
+    "added_at": "2025-07-17T19:28:28.120Z",
+    "removed_at": "2025-07-19T13:09:13.013Z",
+    "duration_minutes": 2500,
+    "duration_str": "1d 17h 40m"
   },
   {
     "title": "Le champion autrichien de saut extrême Felix Baumgartner est mort à 56 ans dans un accident de parapente",
@@ -1664,7 +1673,10 @@
   },
   {
     "title": "Cessez-le-feu \"immédiat\" à Soueida où les forces de sécurité syriennes se déploient à nouveau",
-    "added_at": "2025-07-19T09:00:14.566Z"
+    "added_at": "2025-07-19T09:00:14.566Z",
+    "removed_at": "2025-07-19T12:26:26.092Z",
+    "duration_minutes": 206,
+    "duration_str": "3h 26m"
   },
   {
     "title": "Podcast – Comment gérer le temps d’écran dans la famille?",
@@ -1685,5 +1697,21 @@
   {
     "title": "Cinq mois après la prise de Goma, le lourd tribut payé par la population civile",
     "added_at": "2025-07-19T11:06:42.241Z"
+  },
+  {
+    "title": "Cessez-le-feu \"immédiat\" à Soueida, où les forces de sécurité syriennes se déploient à nouveau",
+    "added_at": "2025-07-19T12:26:26.092Z"
+  },
+  {
+    "title": "Qui est Anoush Abrar, le photographe des stars du Montreux Jazz Festival?",
+    "added_at": "2025-07-19T12:28:30.780Z"
+  },
+  {
+    "title": "Remco Evenepoel abandonne lors de la 14e étape",
+    "added_at": "2025-07-19T12:30:30.054Z"
+  },
+  {
+    "title": "En Valais, une procession religieuse se réinvente face au recul des glaciers",
+    "added_at": "2025-07-19T13:09:13.013Z"
   }
 ]
