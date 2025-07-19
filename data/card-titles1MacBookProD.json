@@ -1300,7 +1300,10 @@
   },
   {
     "title": "Donald Trump annonce que Coca-Cola a modifié sa recette à sa demande et s'en félicite",
-    "added_at": "2025-07-17T14:46:26.301Z"
+    "added_at": "2025-07-17T14:46:26.301Z",
+    "removed_at": "2025-07-19T15:54:38.639Z",
+    "duration_minutes": 2948,
+    "duration_str": "2d 1h 8m"
   },
   {
     "title": "Podcast - Mieux protéger nos données, c'est possible?",
@@ -1455,7 +1458,10 @@
   },
   {
     "title": "L'adieu à Thierry Ardisson a réuni un millier de personnes à Paris, dont de nombreuses personnalités",
-    "added_at": "2025-07-18T06:34:46.090Z"
+    "added_at": "2025-07-18T06:34:46.090Z",
+    "removed_at": "2025-07-19T15:26:10.791Z",
+    "duration_minutes": 1971,
+    "duration_str": "1d 8h 51m"
   },
   {
     "title": "La vente d'antibiotiques à l'unité suscite des avis contrastés des acteurs du secteur",
@@ -1727,5 +1733,13 @@
   {
     "title": "La liberté de la presse toujours plus attaquée par Donald Trump",
     "added_at": "2025-07-19T14:31:01.797Z"
+  },
+  {
+    "title": "Une trentaine de morts après le naufrage d'un bateau touristique dans la Baie d'Halong",
+    "added_at": "2025-07-19T15:26:10.791Z"
+  },
+  {
+    "title": "La 14e étape pour Arensman",
+    "added_at": "2025-07-19T15:54:38.639Z"
   }
 ]
