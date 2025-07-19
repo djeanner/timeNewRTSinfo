@@ -1344,7 +1344,10 @@
   },
   {
     "title": "Georges Abdallah, l'un des plus anciens détenus de France, va être libéré après 40 ans de prison",
-    "added_at": "2025-07-17T17:54:10.051Z"
+    "added_at": "2025-07-17T17:54:10.051Z",
+    "removed_at": "2025-07-19T14:00:20.999Z",
+    "duration_minutes": 2646,
+    "duration_str": "1d 20h 6m"
   },
   {
     "title": "L'idée d'un registre numérique pour surveiller les prêtres est à l'étude",
@@ -1713,5 +1716,9 @@
   {
     "title": "En Valais, une procession religieuse se réinvente face au recul des glaciers",
     "added_at": "2025-07-19T13:09:13.013Z"
+  },
+  {
+    "title": "La Ville d'Yverdon a pris des mesures pour faire face au deal de rue",
+    "added_at": "2025-07-19T14:00:20.999Z"
   }
 ]
