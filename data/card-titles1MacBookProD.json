@@ -1290,7 +1290,10 @@
   },
   {
     "title": "A Verbier, la musique classique rythme la station durant l'été et attire les mélomanes",
-    "added_at": "2025-07-17T14:42:18.441Z"
+    "added_at": "2025-07-17T14:42:18.441Z",
+    "removed_at": "2025-07-19T09:59:21.566Z",
+    "duration_minutes": 2597,
+    "duration_str": "1d 19h 17m"
   },
   {
     "title": "Donald Trump annonce que Coca-Cola a modifié sa recette à sa demande et s'en félicite",
@@ -1657,5 +1660,9 @@
   {
     "title": "Podcast – Comment gérer le temps d’écran dans la famille?",
     "added_at": "2025-07-19T09:10:21.565Z"
+  },
+  {
+    "title": "L'armée cherche une solution \"moderne\" pour ses bunkers désaffectés",
+    "added_at": "2025-07-19T09:59:21.566Z"
   }
 ]
