@@ -4691,17 +4691,11 @@
   },
   {
     "title": "Did You Follow the News This Week? Take Our Quiz.",
-    "added_at": "2025-05-10T09:59:40.743Z",
-    "removed_at": "2025-06-29T21:42:33.871Z",
-    "duration_minutes": 72702,
-    "duration_str": "50d 11h 42m"
+    "added_at": "2025-05-10T09:59:40.743Z"
   },
   {
     "title": "Play Flashback, Your Weekly History Quiz",
-    "added_at": "2025-05-10T09:59:40.743Z",
-    "removed_at": "2025-06-29T21:42:33.871Z",
-    "duration_minutes": 72702,
-    "duration_str": "50d 11h 42m"
+    "added_at": "2025-05-10T09:59:40.743Z"
   },
   {
     "title": "Elon Musk, Henry Ford and the Rich Tradition of Rabble-Rousers",
@@ -40573,7 +40567,10 @@
   },
   {
     "title": "Democrats’ 2024 Autopsy Is Described as Avoiding the Likeliest Cause of Death",
-    "added_at": "2025-07-19T09:53:31.094Z"
+    "added_at": "2025-07-19T09:53:31.094Z",
+    "removed_at": "2025-07-19T14:21:13.522Z",
+    "duration_minutes": 267,
+    "duration_str": "4h 27m"
   },
   {
     "title": "Tech’s Top Venture Firm Tried to Stay Above Politics. Then a Partner Created a Furor.",
@@ -40661,7 +40658,10 @@
   },
   {
     "title": "Gaza Health Ministry Says Israeli Military Killed 32 in Attack Near Aid Site",
-    "added_at": "2025-07-19T10:53:44.294Z"
+    "added_at": "2025-07-19T10:53:44.294Z",
+    "removed_at": "2025-07-19T14:40:05.429Z",
+    "duration_minutes": 226,
+    "duration_str": "3h 46m"
   },
   {
     "title": "For the Man Accused in the Minnesota Assassinations, a Life of Erratic Turns",
@@ -40685,5 +40685,9 @@
   {
     "title": "South Korea Pulls Plane Crash Report After Victims’ Families Protest",
     "added_at": "2025-07-19T13:01:55.201Z"
+  },
+  {
+    "title": "Gaza Health Ministry Says Israeli Military Killed 32 Near Aid Site",
+    "added_at": "2025-07-19T14:34:26.014Z"
   }
 ]
