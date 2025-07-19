@@ -20628,7 +20628,10 @@
   },
   {
     "title": "sport:::Le jour où, dans les Pyrénées, le Tour de France va plonger dans la tourmente",
-    "added_at": "2025-07-17T06:05:05.866Z"
+    "added_at": "2025-07-17T06:05:05.866Z",
+    "removed_at": "2025-07-19T17:59:29.524Z",
+    "duration_minutes": 3594,
+    "duration_str": "2d 11h 54m"
   },
   {
     "title": "economie:::Swatch Group plombé par la faiblesse de la Chine",
@@ -21084,7 +21087,10 @@
   },
   {
     "title": "monde:::Guerre en Ukraine – L’UE adopte un 18e paquet de sanctions contre la Russie",
-    "added_at": "2025-07-18T19:36:29.903Z"
+    "added_at": "2025-07-18T19:36:29.903Z",
+    "removed_at": "2025-07-19T18:09:39.609Z",
+    "duration_minutes": 1353,
+    "duration_str": "22h 33m"
   },
   {
     "title": "sport:::En direct, Euro 2025 – La Suisse et l’Espagne se neutralisent en première période",
@@ -21279,5 +21285,13 @@
   {
     "title": "sport:::Repérer le dopage à l’œil nu, l’impasse du Tour de France",
     "added_at": "2025-07-19T17:08:20.546Z"
+  },
+  {
+    "title": "sport:::«Que voulez-vous que je vous dise?», «Dégoûté»... Le bruit de la foudre sur le Tour de France, après la sur-domination de Tadej Pogacar",
+    "added_at": "2025-07-19T17:59:29.524Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – L’Ukraine propose à la Russie de nouveaux pourparlers la semaine prochaine",
+    "added_at": "2025-07-19T18:09:39.609Z"
   }
 ]
