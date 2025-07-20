@@ -4026,10 +4026,7 @@
   },
   {
     "title": "monde:::Au Cachemire, le rouleau compresseur de Narendra Modi",
-    "added_at": "2025-05-08T04:52:49.734Z",
-    "removed_at": "2025-05-08T16:38:27.650Z",
-    "duration_minutes": 705,
-    "duration_str": "11h 45m"
+    "added_at": "2025-05-08T04:52:49.734Z"
   },
   {
     "title": "suisse:::Le 8 mai 1945, la Suisse entre protection divine, cortèges spontanés et inquiétudes",
@@ -18075,10 +18072,7 @@
   },
   {
     "title": "monde:::L’Inde relance la guerre de l’eau contre le Pakistan",
-    "added_at": "2025-07-06T05:19:07.301Z",
-    "removed_at": "2025-07-07T05:47:42.443Z",
-    "duration_minutes": 1468,
-    "duration_str": "1d 28m"
+    "added_at": "2025-07-06T05:19:07.301Z"
   },
   {
     "title": "culture:::Au Montreux Jazz, le prince du reggaeton J Balvin fait chalouper mais pas chavirer",
@@ -21321,7 +21315,10 @@
   },
   {
     "title": "sport:::«Que voulez-vous que je vous dise?», «Dégoûté»... Le bruit de la foudre sur le Tour de France, après la sur-domination de Tadej Pogacar",
-    "added_at": "2025-07-19T17:59:29.524Z"
+    "added_at": "2025-07-19T17:59:29.524Z",
+    "removed_at": "2025-07-20T13:04:01.767Z",
+    "duration_minutes": 1144,
+    "duration_str": "19h 4m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L’Ukraine propose à la Russie de nouveaux pourparlers la semaine prochaine",
@@ -21336,7 +21333,10 @@
   },
   {
     "title": "sport:::L'Allemagne arrache sa qualification pour les demi-finales aux tirs au but",
-    "added_at": "2025-07-19T22:25:06.933Z"
+    "added_at": "2025-07-19T22:25:06.933Z",
+    "removed_at": "2025-07-20T12:53:51.312Z",
+    "duration_minutes": 868,
+    "duration_str": "14h 28m"
   },
   {
     "title": "monde:::Au Vietnam, un naufrage dans la baie d’Halong fait au moins 38 victimes",
@@ -21361,7 +21361,10 @@
   },
   {
     "title": "monde:::La Chine commence à construire un barrage monstre au Tibet",
-    "added_at": "2025-07-20T07:59:13.333Z"
+    "added_at": "2025-07-20T07:59:13.333Z",
+    "removed_at": "2025-07-20T12:43:33.895Z",
+    "duration_minutes": 284,
+    "duration_str": "4h 44m"
   },
   {
     "title": "economie:::Les premières conclusions de l’enquête sur le Forum de Davos égratignent les Schwab",
@@ -21373,11 +21376,17 @@
   },
   {
     "title": "sport:::Avant, pendant, après: comment l'équipe de Suisse a profité de son Euro à domicile pour grandir",
-    "added_at": "2025-07-20T09:22:56.171Z"
+    "added_at": "2025-07-20T09:22:56.171Z",
+    "removed_at": "2025-07-20T12:57:54.234Z",
+    "duration_minutes": 214,
+    "duration_str": "3h 34m"
   },
   {
     "title": "monde:::En France, une pétition contre la réintroduction d'un pesticide fait un triomphe",
-    "added_at": "2025-07-20T09:37:21.817Z"
+    "added_at": "2025-07-20T09:37:21.817Z",
+    "removed_at": "2025-07-20T12:53:51.312Z",
+    "duration_minutes": 196,
+    "duration_str": "3h 16m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’armée israélienne demande à la population d’évacuer le centre de la bande de Gaza",
@@ -21386,5 +21395,21 @@
   {
     "title": "sport:::Le prix du silence: l’affaire Christophe Gleizes et les limites du journalisme de sport",
     "added_at": "2025-07-20T10:42:44.172Z"
+  },
+  {
+    "title": "monde:::Deux mois après le conflit entre l’Inde et le Pakistan, un pèlerinage hindou sous haute surveillance dans le Cachemire",
+    "added_at": "2025-07-20T12:43:33.895Z"
+  },
+  {
+    "title": "economie:::De peur de rater un virage, Uber envisage d’investir massivement dans les robots-taxis – notamment en Suisse",
+    "added_at": "2025-07-20T12:53:51.312Z"
+  },
+  {
+    "title": "sport:::Avant, pendant, après: comment l’équipe de Suisse a profité de son Euro à domicile pour grandir",
+    "added_at": "2025-07-20T12:57:54.234Z"
+  },
+  {
+    "title": "sport:::«Que voulez-vous que je vous dise?», «Dégoûté»… Le bruit de la foudre sur le Tour de France, après la sur-domination de Tadej Pogacar",
+    "added_at": "2025-07-20T13:04:01.767Z"
   }
 ]
