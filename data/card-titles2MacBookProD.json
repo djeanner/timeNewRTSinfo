@@ -21213,7 +21213,10 @@
   },
   {
     "title": "suisse:::La présidente Karin Keller-Sutter fêtera le 1er août sur la plaine du Grütli",
-    "added_at": "2025-07-19T08:03:04.965Z"
+    "added_at": "2025-07-19T08:03:04.965Z",
+    "removed_at": "2025-07-20T18:55:30.530Z",
+    "duration_minutes": 2092,
+    "duration_str": "1d 10h 52m"
   },
   {
     "title": "culture:::Le Montreux Jazz se réjouit de finances saines avant son retour dans ses murs pour sa 60e édition",
@@ -21224,10 +21227,7 @@
   },
   {
     "title": "suisse:::Malgré la clôture d’une procédure, le canton de Vaud maintient la pression sur les militants pro-loup",
-    "added_at": "2025-07-19T09:20:31.485Z",
-    "removed_at": "2025-07-19T17:08:20.546Z",
-    "duration_minutes": 467,
-    "duration_str": "7h 47m"
+    "added_at": "2025-07-19T09:20:31.485Z"
   },
   {
     "title": "monde:::Les forces tribales syriennes entrent dans la bataille contre les Druzes, et contre Israël",
@@ -21317,7 +21317,10 @@
   },
   {
     "title": "sport:::Repérer le dopage à l’œil nu, l’impasse du Tour de France",
-    "added_at": "2025-07-19T17:08:20.546Z"
+    "added_at": "2025-07-19T17:08:20.546Z",
+    "removed_at": "2025-07-20T19:34:28.718Z",
+    "duration_minutes": 1586,
+    "duration_str": "1d 2h 26m"
   },
   {
     "title": "sport:::«Que voulez-vous que je vous dise?», «Dégoûté»... Le bruit de la foudre sur le Tour de France, après la sur-domination de Tadej Pogacar",
@@ -21435,5 +21438,9 @@
   {
     "title": "culture:::Série: «Untamed», un thriller de canyon qui ne file pas le vertige",
     "added_at": "2025-07-20T17:43:32.899Z"
+  },
+  {
+    "title": "culture:::Les Suds à Arles, un festival où on écoute le monde",
+    "added_at": "2025-07-20T19:34:28.718Z"
   }
 ]
