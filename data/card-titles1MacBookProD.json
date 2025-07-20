@@ -1429,7 +1429,10 @@
   },
   {
     "title": "Felix Baumgartner, l'homme qui avait sauté de la stratosphère, est mort à 56 ans dans un accident de parapente",
-    "added_at": "2025-07-17T20:07:16.716Z"
+    "added_at": "2025-07-17T20:07:16.716Z",
+    "removed_at": "2025-07-20T08:42:07.817Z",
+    "duration_minutes": 3634,
+    "duration_str": "2d 12h 34m"
   },
   {
     "title": "L'OMS recommande un nouveau traitement préventif sous-cutané contre le VIH",
@@ -1839,5 +1842,9 @@
   {
     "title": "De la tortilla aux tapas, plongée dans la gastronomie espagnole en cinq épisodes",
     "added_at": "2025-07-20T08:13:25.046Z"
+  },
+  {
+    "title": "En Cisjordanie, des colons accusés de cibler les ressources hydriques palestiniennes",
+    "added_at": "2025-07-20T08:42:07.817Z"
   }
 ]
