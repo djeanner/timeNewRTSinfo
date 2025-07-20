@@ -1601,7 +1601,10 @@
   },
   {
     "title": "Trois mois après des chutes de neige destructrices en Valais, la lutte contre les dégâts forestiers continue",
-    "added_at": "2025-07-18T13:10:37.596Z"
+    "added_at": "2025-07-18T13:10:37.596Z",
+    "removed_at": "2025-07-20T17:31:15.354Z",
+    "duration_minutes": 3140,
+    "duration_str": "2d 4h 20m"
   },
   {
     "title": "La vaccination des bovins de Genève et Terre Sainte (VD) contre la dermatose est désormais obligatoire",
@@ -1930,5 +1933,9 @@
   {
     "title": "Des pluies torrentielles s'abattent sur la Corée du Sud, faisant au moins 17 morts",
     "added_at": "2025-07-20T15:03:11.201Z"
+  },
+  {
+    "title": "Valais: quand la chasse au loup tourne à la loterie",
+    "added_at": "2025-07-20T17:31:15.354Z"
   }
 ]
