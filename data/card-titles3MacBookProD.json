@@ -4621,11 +4621,17 @@
   },
   {
     "title": "Did You Follow the News This Week? Take Our Quiz.",
-    "added_at": "2025-05-11T14:50:45.372Z"
+    "added_at": "2025-05-11T14:50:45.372Z",
+    "removed_at": "2025-07-20T21:02:37.952Z",
+    "duration_minutes": 101171,
+    "duration_str": "70d 6h 11m"
   },
   {
     "title": "Play Flashback, Your Weekly History Quiz",
-    "added_at": "2025-05-11T14:50:45.372Z"
+    "added_at": "2025-05-11T14:50:45.372Z",
+    "removed_at": "2025-07-20T21:02:37.952Z",
+    "duration_minutes": 101171,
+    "duration_str": "70d 6h 11m"
   },
   {
     "title": "A Professor’s Final Gift to Her Students: Her Life Savings",
@@ -43721,10 +43727,7 @@
   },
   {
     "title": "This K-Pop Band Is Making Waves With Sign Language",
-    "added_at": "2025-07-20T04:08:21.439Z",
-    "removed_at": "2025-07-20T13:30:48.052Z",
-    "duration_minutes": 562,
-    "duration_str": "9h 22m"
+    "added_at": "2025-07-20T04:08:21.439Z"
   },
   {
     "title": "W.N.B.A. All-Star Game: Napheesa Collier Leads Her Team on a Rout",
@@ -43833,7 +43836,10 @@
   },
   {
     "title": "Heavy Rains and Flash Floods Threaten Midwest and Ohio Valley",
-    "added_at": "2025-07-20T14:19:59.140Z"
+    "added_at": "2025-07-20T14:19:59.140Z",
+    "removed_at": "2025-07-20T20:56:29.567Z",
+    "duration_minutes": 396,
+    "duration_str": "6h 36m"
   },
   {
     "title": "Flash Floods Prompt Water Rescues in Washington Area Following Heavy Rains",
@@ -43922,5 +43928,9 @@
   {
     "title": "Mamdani Travels to Uganda in Break From Mayoral Campaign",
     "added_at": "2025-07-20T20:15:28.612Z"
+  },
+  {
+    "title": "What to Know About Scheffler’s Win",
+    "added_at": "2025-07-20T21:04:41.141Z"
   }
 ]
