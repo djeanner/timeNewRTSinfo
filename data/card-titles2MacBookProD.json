@@ -18810,7 +18810,10 @@
   },
   {
     "title": "monde:::«J’ai été violée pendant trois jours»: des policiers enquêtent sur les crimes de guerre commis en Ukraine",
-    "added_at": "2025-07-08T06:02:02.414Z"
+    "added_at": "2025-07-08T06:02:02.414Z",
+    "removed_at": "2025-07-20T06:25:11.391Z",
+    "duration_minutes": 17303,
+    "duration_str": "12d 23m"
   },
   {
     "title": "economie:::Donald Trump confirme ses premières salves de tarifs douaniers et semble laisser la porte ouverte à des négociations",
@@ -21250,7 +21253,10 @@
   },
   {
     "title": "sciences:::Dans le nord de l’Italie, une invasion de flamants roses ravage les cultures de riz à risotto",
-    "added_at": "2025-07-19T14:00:21.035Z"
+    "added_at": "2025-07-19T14:00:21.035Z",
+    "removed_at": "2025-07-20T06:10:54.660Z",
+    "duration_minutes": 970,
+    "duration_str": "16h 10m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Malgré les annonces, les combats continuent dans le sud de la Syrie",
@@ -21304,5 +21310,16 @@
   {
     "title": "sport:::L'Allemagne arrache sa qualification pour les demi-finales aux tirs au but",
     "added_at": "2025-07-19T22:25:06.933Z"
+  },
+  {
+    "title": "monde:::Au Vietnam, un naufrage dans la baie d’Halong fait au moins 38 victimes",
+    "added_at": "2025-07-20T06:25:11.391Z",
+    "removed_at": "2025-07-20T06:33:22.739Z",
+    "duration_minutes": 8,
+    "duration_str": "8m"
+  },
+  {
+    "title": "monde:::Au Vietnam, le bilan d'un naufrage dans la baie d’Halong monte à 38 victimes",
+    "added_at": "2025-07-20T06:33:22.739Z"
   }
 ]
