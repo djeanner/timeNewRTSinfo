@@ -697,7 +697,10 @@
   },
   {
     "title": "Le suivi de la 59e édition du Montreux Jazz Festival",
-    "added_at": "2025-07-15T13:47:08.014Z"
+    "added_at": "2025-07-15T13:47:08.014Z",
+    "removed_at": "2025-07-20T10:20:12.503Z",
+    "duration_minutes": 6993,
+    "duration_str": "4d 20h 33m"
   },
   {
     "title": "Israël bombarde l'armée syrienne à Soueïda, malgré un cessez-le-feu annoncé",
@@ -1482,7 +1485,10 @@
   },
   {
     "title": "La délicate migration des comptes Credit Suisse chez UBS a débuté en Suisse",
-    "added_at": "2025-07-18T04:42:40.214Z"
+    "added_at": "2025-07-18T04:42:40.214Z",
+    "removed_at": "2025-07-20T10:16:04.202Z",
+    "duration_minutes": 3213,
+    "duration_str": "2d 5h 33m"
   },
   {
     "title": "Taxer les automobilistes étrangers, la solution aux bouchons estivaux?",
@@ -1846,5 +1852,13 @@
   {
     "title": "En Cisjordanie, des colons accusés de cibler les ressources hydriques palestiniennes",
     "added_at": "2025-07-20T08:42:07.817Z"
+  },
+  {
+    "title": "La fougue rock d'Alanis Morissette tire le rideau sur la 59e édition du Montreux Jazz Festival",
+    "added_at": "2025-07-20T10:16:04.202Z"
+  },
+  {
+    "title": "L'entrain rock d'Alanis Morissette clôt une 59e édition radieuse du Montreux Jazz Festival",
+    "added_at": "2025-07-20T10:20:12.503Z"
   }
 ]
