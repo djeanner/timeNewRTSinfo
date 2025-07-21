@@ -1688,7 +1688,10 @@
   },
   {
     "title": "L'ex-président brésilien Jair Bolsonaro contraint de porter un bracelet électronique",
-    "added_at": "2025-07-18T15:33:35.566Z"
+    "added_at": "2025-07-18T15:33:35.566Z",
+    "removed_at": "2025-07-21T09:50:20.868Z",
+    "duration_minutes": 3976,
+    "duration_str": "2d 18h 16m"
   },
   {
     "title": "Tadej Pogacar s'adjuge le contre-la-montre et creuse l'écart au général",
@@ -1738,7 +1741,10 @@
   },
   {
     "title": "La droite aimerait limiter le télétravail dans l'administration fédérale",
-    "added_at": "2025-07-18T18:35:13.005Z"
+    "added_at": "2025-07-18T18:35:13.005Z",
+    "removed_at": "2025-07-21T10:14:59.220Z",
+    "duration_minutes": 3819,
+    "duration_str": "2d 15h 39m"
   },
   {
     "title": "Le château de Guédelon, un projet fou lancé il y a 28 ans, mais aussi un exemple de construction durable",
@@ -2042,5 +2048,27 @@
   {
     "title": "Le Conseil d'Etat fribourgeois veut une loi pour définir le statut de commune bilingue",
     "added_at": "2025-07-21T09:13:19.885Z"
+  },
+  {
+    "title": "Maladie pendant les vacances: comment peut-on récupérer ses jours ?",
+    "added_at": "2025-07-21T09:50:20.868Z",
+    "removed_at": "2025-07-21T09:54:31.390Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Maladie pendant les vacances: comment peut-on récupérer ses jours?",
+    "added_at": "2025-07-21T09:54:31.390Z"
+  },
+  {
+    "title": "Toronto vs ratons laveurs, une bataille à 30 millions de dollars",
+    "added_at": "2025-07-21T10:14:59.220Z",
+    "removed_at": "2025-07-21T10:17:02.820Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Toronto face aux ratons laveurs, une bataille à 30 millions de dollars",
+    "added_at": "2025-07-21T10:17:02.820Z"
   }
 ]
