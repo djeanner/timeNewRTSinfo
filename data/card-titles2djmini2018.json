@@ -17966,11 +17966,17 @@
   },
   {
     "title": "culture:::William Christie au Gstaad Menuhin Festival: «J’ai horreur des chefs qui se sentent plus importants que la musique»",
-    "added_at": "2025-07-20T15:44:24.649Z"
+    "added_at": "2025-07-20T15:44:24.649Z",
+    "removed_at": "2025-07-21T14:30:53.401Z",
+    "duration_minutes": 1366,
+    "duration_str": "22h 46m"
   },
   {
     "title": "culture:::Série: «Untamed», un thriller de canyon qui ne file pas le vertige",
-    "added_at": "2025-07-20T17:45:18.135Z"
+    "added_at": "2025-07-20T17:45:18.135Z",
+    "removed_at": "2025-07-21T13:06:07.142Z",
+    "duration_minutes": 1160,
+    "duration_str": "19h 20m"
   },
   {
     "title": "culture:::Les Suds à Arles, un festival où on écoute le monde",
@@ -18002,7 +18008,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – La population de la région de Deir al-Balah sommée d'évacuer",
-    "added_at": "2025-07-21T01:47:28.029Z"
+    "added_at": "2025-07-21T01:47:28.029Z",
+    "removed_at": "2025-07-21T14:04:33.883Z",
+    "duration_minutes": 737,
+    "duration_str": "12h 17m"
   },
   {
     "title": "monde:::Guerre en Ukraine – Notre suivi de la semaine du 14 au 20 juillet 2025",
@@ -18045,7 +18054,10 @@
   },
   {
     "title": "cyber:::La Suite numérique, une alternative logicielle souveraine pour les administrations publiques",
-    "added_at": "2025-07-21T05:27:54.613Z"
+    "added_at": "2025-07-21T05:27:54.613Z",
+    "removed_at": "2025-07-21T14:30:53.401Z",
+    "duration_minutes": 542,
+    "duration_str": "9h 2m"
   },
   {
     "title": "economie:::La compagnie américaine Alaska Airlines suspend tous ses vols en raison d’une panne informatique",
@@ -18056,7 +18068,10 @@
   },
   {
     "title": "monde:::Les Etats-Unis expulsent des migrants criminels vers la dernière monarchie absolue d’Afrique, l’Eswatini",
-    "added_at": "2025-07-21T06:50:51.067Z"
+    "added_at": "2025-07-21T06:50:51.067Z",
+    "removed_at": "2025-07-21T14:53:30.143Z",
+    "duration_minutes": 482,
+    "duration_str": "8h 2m"
   },
   {
     "title": "sport:::L’étrange disparition du rapport d’autopsie de Tom Simpson, le coureur mort au Ventoux",
@@ -18079,7 +18094,10 @@
   },
   {
     "title": "suisse:::L’élue zurichoise Sanija Ameti, qui avait tiré sur une image de Jésus, a été inculpée pour atteinte à la liberté de croyance",
-    "added_at": "2025-07-21T09:47:59.020Z"
+    "added_at": "2025-07-21T09:47:59.020Z",
+    "removed_at": "2025-07-21T13:58:54.926Z",
+    "duration_minutes": 250,
+    "duration_str": "4h 10m"
   },
   {
     "title": "sciences:::Les yeux au ciel depuis des millénaires, comment l’humanité a cherché à comprendre le climat",
@@ -18116,14 +18134,51 @@
   },
   {
     "title": "economie:::Guerre commerciale: la loi Hawley-Smoot, une inspiration pour Donald Trump",
-    "added_at": "2025-07-21T12:11:22.645Z"
+    "added_at": "2025-07-21T12:11:22.645Z",
+    "removed_at": "2025-07-21T14:30:53.401Z",
+    "duration_minutes": 139,
+    "duration_str": "2h 19m"
   },
   {
     "title": "monde:::Peut-on vraiment «négocier» avec Donald Trump? Les Européens contraints de miser sur un double langage",
-    "added_at": "2025-07-21T12:11:22.645Z"
+    "added_at": "2025-07-21T12:11:22.645Z",
+    "removed_at": "2025-07-21T14:30:53.401Z",
+    "duration_minutes": 139,
+    "duration_str": "2h 19m"
   },
   {
     "title": "economie:::En graphiques – Après six mois de guerre commerciale, le vrai coût des droits de douane de Donald Trump",
     "added_at": "2025-07-21T12:15:06.424Z"
+  },
+  {
+    "title": "economie:::Le changement climatique fait exploser les prix des denrées alimentaires dans le monde",
+    "added_at": "2025-07-21T13:58:54.926Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le Royaume-Uni et 24 pays appellent à mettre fin «immédiatement» à la guerre à Gaza",
+    "added_at": "2025-07-21T14:04:33.883Z",
+    "removed_at": "2025-07-21T14:34:38.948Z",
+    "duration_minutes": 30,
+    "duration_str": "30m"
+  },
+  {
+    "title": "culture:::Le chef d’orchestre russe Valery Gergiev déprogrammé d’un festival italien en raison de sa proximité avec le Kremlin",
+    "added_at": "2025-07-21T14:30:53.401Z"
+  },
+  {
+    "title": "economie:::La géopolitique a coûté 320 milliards de dollars de bénéfices aux grandes entreprises depuis 2017",
+    "added_at": "2025-07-21T14:30:53.401Z"
+  },
+  {
+    "title": "monde:::En direct – Le Royaume-Uni et 24 pays appellent à mettre fin «immédiatement» à la guerre à Gaza",
+    "added_at": "2025-07-21T14:34:38.948Z"
+  },
+  {
+    "title": "monde:::Agnès Callamard, directrice d’Amnesty International: «Il y a un fossé entre ce que les gens savent sur Gaza et ce que les dirigeants osent en dire»",
+    "added_at": "2025-07-21T14:36:32.353Z"
+  },
+  {
+    "title": "monde:::Loi Duplomb: les conséquences de la pétition écolo qui sort la France de sa torpeur estivale",
+    "added_at": "2025-07-21T14:53:30.143Z"
   }
 ]
