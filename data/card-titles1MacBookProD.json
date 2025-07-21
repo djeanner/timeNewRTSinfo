@@ -1579,7 +1579,10 @@
   },
   {
     "title": "Le parc Disneyland fête ses 70 ans, retour sur une ouverture mouvementée",
-    "added_at": "2025-07-18T12:27:44.759Z"
+    "added_at": "2025-07-18T12:27:44.759Z",
+    "removed_at": "2025-07-21T08:01:37.586Z",
+    "duration_minutes": 4053,
+    "duration_str": "2d 19h 33m"
   },
   {
     "title": "A Fribourg, le festival des Georges séduit les familles avec une garderie gratuite",
@@ -1653,7 +1656,10 @@
   },
   {
     "title": "Trois femmes agressées sexuellement en deux heures par le même homme à Bienne",
-    "added_at": "2025-07-18T14:11:49.892Z"
+    "added_at": "2025-07-18T14:11:49.892Z",
+    "removed_at": "2025-07-21T08:24:04.156Z",
+    "duration_minutes": 3972,
+    "duration_str": "2d 18h 12m"
   },
   {
     "title": "La Suisse, un pays peuplé d'irréductibles Helvètes qui résistent encore et toujours à Amazon",
@@ -2007,5 +2013,20 @@
   {
     "title": "En Valais, quand la chasse au loup tourne à la loterie",
     "added_at": "2025-07-21T07:08:23.166Z"
+  },
+  {
+    "title": "Les cyberattaques en temps de guerre, un enjeu de vie ou de mort",
+    "added_at": "2025-07-21T08:01:37.586Z",
+    "removed_at": "2025-07-21T08:19:59.232Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
+  },
+  {
+    "title": "Couper internet en temps de guerre, un enjeu de vie ou de mort pour les populations",
+    "added_at": "2025-07-21T08:19:59.232Z"
+  },
+  {
+    "title": "Les Rencontres de la photographie d'Arles célèbrent la diversité face aux défis mondiaux",
+    "added_at": "2025-07-21T08:24:04.156Z"
   }
 ]
