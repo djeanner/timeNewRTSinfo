@@ -17735,7 +17735,10 @@
   },
   {
     "title": "suisse:::La police vaudoise arrête à nouveau des voleurs de voitures de luxe",
-    "added_at": "2025-07-19T11:55:59.919Z"
+    "added_at": "2025-07-19T11:55:59.919Z",
+    "removed_at": "2025-07-21T09:34:46.459Z",
+    "duration_minutes": 2738,
+    "duration_str": "1d 21h 38m"
   },
   {
     "title": "monde:::Une voiture fonce sur la foule à Los Angeles",
@@ -17918,7 +17921,10 @@
   },
   {
     "title": "monde:::Deux mois après le conflit entre l’Inde et le Pakistan, un pèlerinage hindou sous haute surveillance dans le Cachemire",
-    "added_at": "2025-07-20T12:42:47.862Z"
+    "added_at": "2025-07-20T12:42:47.862Z",
+    "removed_at": "2025-07-21T08:42:05.741Z",
+    "duration_minutes": 1199,
+    "duration_str": "19h 59m"
   },
   {
     "title": "economie:::De peur de rater un virage, Uber envisage d’investir massivement dans les robots-taxis – notamment en Suisse",
@@ -17947,7 +17953,10 @@
   },
   {
     "title": "culture:::Comment Rilke, en quête d’isolement extrême, composa son œuvre majeure dans une tour valaisanne sans eau ni électricité",
-    "added_at": "2025-07-20T14:21:09.050Z"
+    "added_at": "2025-07-20T14:21:09.050Z",
+    "removed_at": "2025-07-21T09:47:59.020Z",
+    "duration_minutes": 1166,
+    "duration_str": "19h 26m"
   },
   {
     "title": "culture:::William Christie au Gstaad Menuhin Festival: «J’ai horreur des chefs qui se sentent plus importants que la musique»",
@@ -17998,7 +18007,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Chine fustige l'«impact négatif grave» des sanctions européennes",
-    "added_at": "2025-07-21T02:47:42.186Z"
+    "added_at": "2025-07-21T02:47:42.186Z",
+    "removed_at": "2025-07-21T10:08:42.210Z",
+    "duration_minutes": 441,
+    "duration_str": "7h 21m"
   },
   {
     "title": "monde:::Nucléaire iranien: les pourparlers entre Téhéran et Européens vont reprendre vendredi",
@@ -18020,7 +18032,10 @@
   },
   {
     "title": "economie:::Le dollar se déprécie au bonheur de Trump. Mais les Etats-Unis en paieront aussi le prix",
-    "added_at": "2025-07-21T04:12:34.521Z"
+    "added_at": "2025-07-21T04:12:34.521Z",
+    "removed_at": "2025-07-21T08:17:34.807Z",
+    "duration_minutes": 245,
+    "duration_str": "4h 5m"
   },
   {
     "title": "cyber:::La Suite numérique, une alternative logicielle souveraine pour les administrations publiques",
@@ -18036,5 +18051,36 @@
   {
     "title": "monde:::Les Etats-Unis expulsent des migrants criminels vers la dernière monarchie absolue d’Afrique, l’Eswatini",
     "added_at": "2025-07-21T06:50:51.067Z"
+  },
+  {
+    "title": "sport:::L’étrange disparition du rapport d’autopsie de Tom Simpson, le coureur mort au Ventoux",
+    "added_at": "2025-07-21T08:17:34.807Z"
+  },
+  {
+    "title": "economie:::Le dollar se déprécie au bonheur de Donald Trump. Mais les Etats-Unis en paieront aussi le prix",
+    "added_at": "2025-07-21T08:17:34.807Z"
+  },
+  {
+    "title": "sciences:::Depuis des millénaires, les yeux au ciel pour comprendre le climat",
+    "added_at": "2025-07-21T08:42:05.741Z",
+    "removed_at": "2025-07-21T09:49:55.013Z",
+    "duration_minutes": 67,
+    "duration_str": "1h 7m"
+  },
+  {
+    "title": "monde:::Sur le champ de bataille ukrainien, le péril des agents asphyxiants",
+    "added_at": "2025-07-21T09:34:46.459Z"
+  },
+  {
+    "title": "suisse:::L’élue zurichoise Sanija Ameti, qui avait tiré sur une image de Jésus, a été inculpée pour atteinte à la liberté de croyance",
+    "added_at": "2025-07-21T09:47:59.020Z"
+  },
+  {
+    "title": "sciences:::Les yeux au ciel depuis des millénaires, comment l’humanité a cherché à comprendre le climat",
+    "added_at": "2025-07-21T09:49:55.013Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Au moins un mort à Kiev après une nouvelle nuit de bombardements russes",
+    "added_at": "2025-07-21T10:08:42.210Z"
   }
 ]
