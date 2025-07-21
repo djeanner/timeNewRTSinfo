@@ -21331,7 +21331,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L’Ukraine propose à la Russie de nouveaux pourparlers la semaine prochaine",
-    "added_at": "2025-07-19T18:09:39.609Z"
+    "added_at": "2025-07-19T18:09:39.609Z",
+    "removed_at": "2025-07-21T02:05:25.042Z",
+    "duration_minutes": 1915,
+    "duration_str": "1d 7h 55m"
   },
   {
     "title": "culture:::A Arles, à bord du train fantôme avec Peter Fischli",
@@ -21377,7 +21380,10 @@
   },
   {
     "title": "economie:::Les premières conclusions de l’enquête sur le Forum de Davos égratignent les Schwab",
-    "added_at": "2025-07-20T08:40:02.915Z"
+    "added_at": "2025-07-20T08:40:02.915Z",
+    "removed_at": "2025-07-21T01:44:59.648Z",
+    "duration_minutes": 1024,
+    "duration_str": "17h 4m"
   },
   {
     "title": "culture:::Série: «Les Sept Ours», des contes de fées en boules de poils",
@@ -21448,6 +21454,28 @@
   },
   {
     "title": "monde:::Moyen-Orient – Notre suivi de la semaine du 14 au 20 juillet 2025",
-    "added_at": "2025-07-21T00:31:22.680Z"
+    "added_at": "2025-07-21T00:31:22.680Z",
+    "removed_at": "2025-07-21T01:44:59.648Z",
+    "duration_minutes": 73,
+    "duration_str": "1h 13m"
+  },
+  {
+    "title": "monde:::L'Equateur extrade le narcotrafiquant «Fito» vers les Etats-Unis",
+    "added_at": "2025-07-21T01:44:59.648Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Près de 100 Palestiniens tués à Gaza en tentant de récupérer de l'aide humanitaire",
+    "added_at": "2025-07-21T01:44:59.648Z",
+    "removed_at": "2025-07-21T01:47:02.789Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – La population de la région de Deir al-Balah sommée d'évacuer",
+    "added_at": "2025-07-21T01:47:02.789Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Notre suivi de la semaine du 14 au 20 juillet 2025",
+    "added_at": "2025-07-21T02:05:25.042Z"
   }
 ]
