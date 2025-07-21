@@ -17702,7 +17702,10 @@
   },
   {
     "title": "economie:::A Monaco, vingt ans de règne et des pierres dans le jardin du prince Albert II",
-    "added_at": "2025-07-19T07:41:36.302Z"
+    "added_at": "2025-07-19T07:41:36.302Z",
+    "removed_at": "2025-07-21T04:12:34.521Z",
+    "duration_minutes": 2670,
+    "duration_str": "1d 20h 30m"
   },
   {
     "title": "suisse:::La présidente Karin Keller-Sutter fêtera le 1er août sur la plaine du Grütli",
@@ -17930,11 +17933,17 @@
   },
   {
     "title": "sport:::Avant, pendant, après: comment l’équipe de Suisse a profité de son Euro à domicile pour grandir",
-    "added_at": "2025-07-20T12:57:57.084Z"
+    "added_at": "2025-07-20T12:57:57.084Z",
+    "removed_at": "2025-07-21T03:49:57.349Z",
+    "duration_minutes": 892,
+    "duration_str": "14h 52m"
   },
   {
     "title": "sport:::«Que voulez-vous que je vous dise?», «Dégoûté»… Le bruit de la foudre sur le Tour de France, après la sur-domination de Tadej Pogacar",
-    "added_at": "2025-07-20T13:05:35.557Z"
+    "added_at": "2025-07-20T13:05:35.557Z",
+    "removed_at": "2025-07-21T05:27:54.613Z",
+    "duration_minutes": 982,
+    "duration_str": "16h 22m"
   },
   {
     "title": "culture:::Comment Rilke, en quête d’isolement extrême, composa son œuvre majeure dans une tour valaisanne sans eau ni électricité",
@@ -17950,7 +17959,10 @@
   },
   {
     "title": "culture:::Les Suds à Arles, un festival où on écoute le monde",
-    "added_at": "2025-07-20T19:32:58.558Z"
+    "added_at": "2025-07-20T19:32:58.558Z",
+    "removed_at": "2025-07-21T05:27:54.613Z",
+    "duration_minutes": 594,
+    "duration_str": "9h 54m"
   },
   {
     "title": "monde:::Moyen-Orient – Notre suivi de la semaine du 14 au 20 juillet 2025",
@@ -17961,7 +17973,10 @@
   },
   {
     "title": "monde:::L'Equateur extrade le narcotrafiquant «Fito» vers les Etats-Unis",
-    "added_at": "2025-07-21T01:43:45.172Z"
+    "added_at": "2025-07-21T01:43:45.172Z",
+    "removed_at": "2025-07-21T03:49:57.349Z",
+    "duration_minutes": 126,
+    "duration_str": "2h 6m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Près de 100 Palestiniens tués à Gaza en tentant de récupérer de l'aide humanitaire",
@@ -17984,5 +17999,32 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – La Chine fustige l'«impact négatif grave» des sanctions européennes",
     "added_at": "2025-07-21T02:47:42.186Z"
+  },
+  {
+    "title": "monde:::Nucléaire iranien: les pourparlers entre Téhéran et Européens vont reprendre vendredi",
+    "added_at": "2025-07-21T03:49:57.349Z"
+  },
+  {
+    "title": "monde:::En Angleterre, de nouvelles tensions éclatent devant un hôtel hébergeant des demandeurs d'asile",
+    "added_at": "2025-07-21T03:49:57.349Z",
+    "removed_at": "2025-07-21T04:12:34.521Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
+  },
+  {
+    "title": "suisse:::Main courante, courriers anonymes, plainte pénale et enquête interne: les dommages collatéraux des affaires Dittli sur son parti",
+    "added_at": "2025-07-21T04:10:45.056Z"
+  },
+  {
+    "title": "economie:::Le dollar se déprécie au bonheur de Trump. Mais les Etats-Unis en paieront aussi le prix",
+    "added_at": "2025-07-21T04:12:34.521Z"
+  },
+  {
+    "title": "cyber:::La Suite numérique, une alternative logicielle souveraine pour les administrations publiques",
+    "added_at": "2025-07-21T05:27:54.613Z"
+  },
+  {
+    "title": "economie:::La compagnie américaine Alaska Airlines suspend tous ses vols en raison d’une panne informatique",
+    "added_at": "2025-07-21T05:27:54.613Z"
   }
 ]
