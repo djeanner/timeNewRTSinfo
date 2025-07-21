@@ -1911,7 +1911,10 @@
   },
   {
     "title": "La 14e étape pour Arensman",
-    "added_at": "2025-07-19T15:54:38.639Z"
+    "added_at": "2025-07-19T15:54:38.639Z",
+    "removed_at": "2025-07-21T19:37:30.091Z",
+    "duration_minutes": 3102,
+    "duration_str": "2d 3h 42m"
   },
   {
     "title": "Les joueuses de l'équipe de Suisse acclamées par des milliers de supporters à Berne",
@@ -2094,7 +2097,10 @@
   },
   {
     "title": "Des individus dangereux et armés recherchés en Valais après un vol dans une armurerie",
-    "added_at": "2025-07-21T08:50:48.834Z"
+    "added_at": "2025-07-21T08:50:48.834Z",
+    "removed_at": "2025-07-21T19:02:45.312Z",
+    "duration_minutes": 611,
+    "duration_str": "10h 11m"
   },
   {
     "title": "Le Conseil d'Etat fribourgeois veut une loi pour définir le statut de commune bilingue",
@@ -2217,5 +2223,13 @@
   {
     "title": "Une lettre anonyme réclame la fermeture d'une plage nudiste à Zurich",
     "added_at": "2025-07-21T17:19:57.974Z"
+  },
+  {
+    "title": "Des individus dangereux et armés toujours recherchés en Valais après un vol dans une armurerie",
+    "added_at": "2025-07-21T19:02:45.312Z"
+  },
+  {
+    "title": "Volodymyr Zelensky annonce de nouveaux pourparlers avec la Russie à Istanbul",
+    "added_at": "2025-07-21T19:37:30.091Z"
   }
 ]
