@@ -48,14 +48,16 @@
   {
     "title": "monde:::En Autriche, refuges et sentiers de randonnée menacés par le réchauffement climatique",
     "added_at": "2025-07-22T06:33:18.847Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-22T12:38:50.774Z",
+    "duration_minutes": 366,
+    "duration_str": "6h 6m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Le chef de la diplomatie française annonce la préparation d’un nouveau paquet de sanctions européennes contre Moscou",
     "added_at": "2025-07-22T07:05:22.056Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-22T12:36:47.092Z",
+    "duration_minutes": 331,
+    "duration_str": "5h 31m"
   },
   {
     "title": "culture:::«Le Fantôme de l’Opéra»: Théophraste Longuet et l’oreille arrachée à la manière de «Reservoir Dogs»",
@@ -73,7 +75,7 @@
   {
     "title": "suisse:::Une explosion dans un laboratoire de l’Université de Genève blesse une personne",
     "added_at": "2025-07-22T08:47:01.826Z",
-    "removed_at": "2025-07-22T11:39:21.849Z",
+    "removed_at": "2025-07-22T11:39:17.018Z",
     "duration_minutes": 172,
     "duration_str": "2h 52m"
   },
@@ -104,10 +106,10 @@
   },
   {
     "title": "economie:::Julius Baer pénalisé par ses nouveaux soucis dans le crédit",
-    "added_at": "2025-07-22T11:39:21.849Z",
+    "added_at": "2025-07-22T11:39:17.018Z",
     "removed_at": "2025-07-22T11:57:48.714Z",
-    "duration_minutes": 18,
-    "duration_str": "18m"
+    "duration_minutes": 19,
+    "duration_str": "19m"
   },
   {
     "title": "economie:::Julius Baer pénalisée par ses nouveaux soucis dans le crédit",
@@ -123,7 +125,19 @@
   },
   {
     "title": "sport:::La romance des joueuses italiennes et de leur sélectionneur",
-    "added_at": "2025-07-22T12:12:05.170Z",
+    "added_at": "2025-07-22T12:11:21.880Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Les députés ukrainiens liquident l’indépendance des instances anticorruption",
+    "added_at": "2025-07-22T12:36:47.092Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Les Etats-Unis se retirent à nouveau de l’Unesco",
+    "added_at": "2025-07-22T12:49:03.724Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
