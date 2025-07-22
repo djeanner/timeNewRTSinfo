@@ -1531,9 +1531,9 @@
   {
     "title": "Lausanne veut des potagers au pied de chaque immeuble d’ici 2030",
     "added_at": "2025-07-18T07:23:42.357Z",
-    "removed_at": "2025-07-18T07:52:08.594Z",
-    "duration_minutes": 28,
-    "duration_str": "28m"
+    "removed_at": "2025-07-22T05:44:18.149Z",
+    "duration_minutes": 5660,
+    "duration_str": "3d 22h 20m"
   },
   {
     "title": "L'Union européenne adopte un 18e paquet de sanctions contre la Russie",
@@ -1859,7 +1859,10 @@
   },
   {
     "title": "La RDC et le M23 signent un accord de cessez-le-feu au Qatar",
-    "added_at": "2025-07-19T10:44:21.155Z"
+    "added_at": "2025-07-19T10:44:21.155Z",
+    "removed_at": "2025-07-22T05:30:01.108Z",
+    "duration_minutes": 4005,
+    "duration_str": "2d 18h 45m"
   },
   {
     "title": "Le Liechtenstein veut étudier les modalités d'une intégration européenne",
@@ -2252,5 +2255,9 @@
   {
     "title": "La plus grande banque de graines sauvages au monde veille sur la biodiversité depuis 25 ans",
     "added_at": "2025-07-22T04:24:24.417Z"
+  },
+  {
+    "title": "La Ville de Lausanne veut des potagers au pied de chaque immeuble d'ici 2030",
+    "added_at": "2025-07-22T05:44:18.149Z"
   }
 ]
