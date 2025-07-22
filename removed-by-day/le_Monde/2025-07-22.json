@@ -169,8 +169,9 @@
   {
     "title": "Malcolm-Jamal Warner, figure du « Cosby Show », est mort noyé au Costa Rica, à 54 ans",
     "added_at": "2025-07-22T05:01:19.971Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-22T21:02:49.612Z",
+    "duration_minutes": 961,
+    "duration_str": "16h 1m"
   },
   {
     "title": "Deux mois avant le procès de Cédric Jubillar, la cour d’assises du Tarn ordonne l’audition de son ex-compagne",
@@ -535,8 +536,9 @@
   {
     "title": "Le torchage de gaz, une pratique en pleine augmentation, « terrible pour le climat » et qui pollue « en pure perte »",
     "added_at": "2025-07-22T08:18:10.803Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-22T21:33:36.455Z",
+    "duration_minutes": 795,
+    "duration_str": "13h 15m"
   },
   {
     "title": "STMicroelectronics, symbole de la stagnation de l’industrie européenne des puces électroniques",
@@ -583,9 +585,8 @@
   {
     "title": "Loi Duplomb : une mobilisation citoyenne d’ampleur inédite",
     "added_at": "2025-07-22T09:04:23.044Z",
-    "removed_at": "2025-07-22T20:01:09.941Z",
-    "duration_minutes": 657,
-    "duration_str": "10h 57m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Face à l’essor spectaculaire des familles monoparentales, des maires commencent à se mobiliser",
@@ -645,9 +646,8 @@
   {
     "title": "Comment des maires aident les familles monoparentales au quotidien : « C’est un soutien bienvenu, on se sent épaulées »",
     "added_at": "2025-07-22T09:44:24.309Z",
-    "removed_at": "2025-07-22T19:12:58.694Z",
-    "duration_minutes": 569,
-    "duration_str": "9h 29m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "En direct, guerre à Gaza : la situation humanitaire est « moralement inacceptable », dit le patriarche latin de Jérusalem",
@@ -1335,5 +1335,33 @@
     "removed_at": "2025-07-22T20:01:09.941Z",
     "duration_minutes": 2,
     "duration_str": "2m"
+  },
+  {
+    "title": "En direct : manifestation à Kiev contre le vote d’une loi privant les instances anticorruption de leur indépendance",
+    "added_at": "2025-07-22T20:54:42.124Z",
+    "removed_at": "2025-07-22T21:00:49.998Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
+  },
+  {
+    "title": "L’Etat condamné pour la pollution persistante aux métaux lourds dans un ancien bassin minier de l’Aude",
+    "added_at": "2025-07-22T20:54:42.124Z",
+    "removed_at": "2025-07-22T21:33:36.455Z",
+    "duration_minutes": 39,
+    "duration_str": "39m"
+  },
+  {
+    "title": "La directrice de l’information de la radio publique américaine NPR démissionne, peu près la coupe de financements par l’administration Trump",
+    "added_at": "2025-07-22T20:58:45.404Z",
+    "removed_at": "2025-07-22T21:33:36.455Z",
+    "duration_minutes": 35,
+    "duration_str": "35m"
+  },
+  {
+    "title": "Guerre en Ukraine : manifestation à Kiev contre le vote d’une loi privant les instances anticorruption de leur indépendance",
+    "added_at": "2025-07-22T21:27:27.419Z",
+    "removed_at": "2025-07-22T21:33:36.455Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
   }
 ]
