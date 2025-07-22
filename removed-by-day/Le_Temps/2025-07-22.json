@@ -36,9 +36,8 @@
   {
     "title": "suisse:::A l’aéroport de Genève, l’épineuse question de la mesure de la pollution de l’air",
     "added_at": "2025-07-22T05:56:41.961Z",
-    "removed_at": "2025-07-22T10:04:53.747Z",
-    "duration_minutes": 248,
-    "duration_str": "4h 8m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "monde:::Comment la Russie influence les flux migratoires depuis la Libye pour déstabiliser l’Europe",
@@ -74,8 +73,9 @@
   {
     "title": "suisse:::Une explosion dans un laboratoire de l’Université de Genève blesse une personne",
     "added_at": "2025-07-22T08:47:01.826Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-22T11:39:21.849Z",
+    "duration_minutes": 172,
+    "duration_str": "2h 52m"
   },
   {
     "title": "culture:::Six musiciennes suisses à découvrir au Paléo 2025",
@@ -86,8 +86,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – La France demande un accès à la presse à Gaza pour «montrer ce qu’il s’y passe»",
     "added_at": "2025-07-22T09:42:11.087Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-22T11:57:48.714Z",
+    "duration_minutes": 136,
+    "duration_str": "2h 16m"
   },
   {
     "title": "sciences:::De la température de l'aisselle d'un cheval au baromètre à mercure, la grande aventure de la mesure météorologique",
@@ -98,6 +99,31 @@
   {
     "title": "sciences:::Une fusion record de deux trous noirs massifs détectée grâce aux ondes gravitationnelles",
     "added_at": "2025-07-22T10:04:53.747Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::Julius Baer pénalisé par ses nouveaux soucis dans le crédit",
+    "added_at": "2025-07-22T11:39:21.849Z",
+    "removed_at": "2025-07-22T11:57:48.714Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
+  },
+  {
+    "title": "economie:::Julius Baer pénalisée par ses nouveaux soucis dans le crédit",
+    "added_at": "2025-07-22T11:57:48.714Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct – L’ONU a recensé plus de 1000 civils tués à Gaza lors de distribution alimentaire",
+    "added_at": "2025-07-22T11:57:48.714Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "sport:::La romance des joueuses italiennes et de leur sélectionneur",
+    "added_at": "2025-07-22T12:12:05.170Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
