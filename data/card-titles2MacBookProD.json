@@ -20501,10 +20501,7 @@
   },
   {
     "title": "monde:::Israël annonce déployer des forces armées vers la Syrie",
-    "added_at": "2025-07-16T16:30:19.585Z",
-    "removed_at": "2025-07-18T12:46:10.168Z",
-    "duration_minutes": 2655,
-    "duration_str": "1d 20h 15m"
+    "added_at": "2025-07-16T16:30:19.585Z"
   },
   {
     "title": "economie:::Sceptiques sur les annonces de François Bayrou, les marchés financiers attendent de voir la suite",
@@ -21670,7 +21667,10 @@
   },
   {
     "title": "culture:::Le chef d’orchestre russe Valery Gergiev déprogrammé d’un festival italien en raison de sa proximité avec le Kremlin",
-    "added_at": "2025-07-21T14:29:39.652Z"
+    "added_at": "2025-07-21T14:29:39.652Z",
+    "removed_at": "2025-07-22T09:36:15.781Z",
+    "duration_minutes": 1146,
+    "duration_str": "19h 6m"
   },
   {
     "title": "economie:::La géopolitique a coûté 320 milliards de dollars de bénéfices aux grandes entreprises depuis 2017",
@@ -21688,7 +21688,10 @@
   },
   {
     "title": "monde:::Loi Duplomb: les conséquences de la pétition écolo qui sort la France de sa torpeur estivale",
-    "added_at": "2025-07-21T14:52:10.341Z"
+    "added_at": "2025-07-21T14:52:10.341Z",
+    "removed_at": "2025-07-22T09:50:34.743Z",
+    "duration_minutes": 1138,
+    "duration_str": "18h 58m"
   },
   {
     "title": "suisse:::Didier Cuche, fils du Chasseral",
@@ -21721,7 +21724,10 @@
   },
   {
     "title": "cyber:::Puissants et risqués, les agents multifonctions dopés à l’IA commencent à faire leur apparition",
-    "added_at": "2025-07-21T16:53:18.723Z"
+    "added_at": "2025-07-21T16:53:18.723Z",
+    "removed_at": "2025-07-22T09:40:18.499Z",
+    "duration_minutes": 1006,
+    "duration_str": "16h 46m"
   },
   {
     "title": "culture:::Labess, des couloirs de métro aux scènes du Paléo",
@@ -21748,9 +21754,9 @@
   {
     "title": "sport:::Michael Storer, le coureur aux mains froides qui enflamme l’équipe suisse Tudor au Tour de France",
     "added_at": "2025-07-21T18:44:10.190Z",
-    "removed_at": "2025-07-22T08:47:01.826Z",
-    "duration_minutes": 842,
-    "duration_str": "14h 2m"
+    "removed_at": "2025-07-22T10:15:07.177Z",
+    "duration_minutes": 930,
+    "duration_str": "15h 30m"
   },
   {
     "title": "culture:::«Rome, rien d’autre», de Dolores Prato: la capitale italienne pas à pas",
@@ -21779,7 +21785,10 @@
   },
   {
     "title": "monde:::En direct – L'OMS dénonce des «attaques» contre ses locaux à Deir el-Balah, dans la bande de Gaza",
-    "added_at": "2025-07-22T04:53:05.748Z"
+    "added_at": "2025-07-22T04:53:05.748Z",
+    "removed_at": "2025-07-22T09:42:24.172Z",
+    "duration_minutes": 289,
+    "duration_str": "4h 49m"
   },
   {
     "title": "culture:::En concert au PALP Festival, New Model Army s’apprête à retrouver ces Alpes tant aimées",
@@ -21790,7 +21799,10 @@
   },
   {
     "title": "suisse:::A l’aéroport de Genève, l’épineuse question de la mesure de la pollution de l’air",
-    "added_at": "2025-07-22T05:56:41.961Z"
+    "added_at": "2025-07-22T05:56:41.961Z",
+    "removed_at": "2025-07-22T10:04:53.747Z",
+    "duration_minutes": 248,
+    "duration_str": "4h 8m"
   },
   {
     "title": "monde:::Comment la Russie influence les flux migratoires depuis la Libye pour déstabiliser l’Europe",
@@ -21822,5 +21834,17 @@
   {
     "title": "culture:::Six musiciennes suisses à découvrir au Paléo 2025",
     "added_at": "2025-07-22T09:19:42.959Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – La France demande un accès à la presse à Gaza pour «montrer ce qu’il s’y passe»",
+    "added_at": "2025-07-22T09:42:24.172Z"
+  },
+  {
+    "title": "sciences:::De la température de l'aisselle d'un cheval au baromètre à mercure, la grande aventure de la mesure météorologique",
+    "added_at": "2025-07-22T09:50:34.743Z"
+  },
+  {
+    "title": "sciences:::Une fusion record de deux trous noirs massifs détectée grâce aux ondes gravitationnelles",
+    "added_at": "2025-07-22T10:04:53.747Z"
   }
 ]
