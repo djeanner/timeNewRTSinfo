@@ -1898,7 +1898,10 @@
   },
   {
     "title": "En Valais, une procession religieuse se réinvente face au recul des glaciers",
-    "added_at": "2025-07-19T13:09:13.013Z"
+    "added_at": "2025-07-19T13:09:13.013Z",
+    "removed_at": "2025-07-22T01:42:32.587Z",
+    "duration_minutes": 3633,
+    "duration_str": "2d 12h 33m"
   },
   {
     "title": "La Ville d'Yverdon a pris des mesures pour faire face au deal de rue",
@@ -2238,5 +2241,9 @@
   {
     "title": "L'OMS dénonce des \"attaques\" contre ses locaux à Gaza",
     "added_at": "2025-07-22T00:28:47.407Z"
+  },
+  {
+    "title": "L'Iran n'abandonnera pas son programme nucléaire et l'enrichissement d'uranium",
+    "added_at": "2025-07-22T01:42:32.587Z"
   }
 ]
