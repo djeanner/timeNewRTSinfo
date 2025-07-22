@@ -1961,7 +1961,10 @@
   },
   {
     "title": "Une centaine d'émeutiers cagoulés s'en prennent à des voitures à Limoges",
-    "added_at": "2025-07-19T19:57:58.169Z"
+    "added_at": "2025-07-19T19:57:58.169Z",
+    "removed_at": "2025-07-22T08:26:23.153Z",
+    "duration_minutes": 3628,
+    "duration_str": "2d 12h 28m"
   },
   {
     "title": "Une voiture fonce sur la foule à Los Angeles devant une boîte de nuit",
@@ -1969,11 +1972,17 @@
   },
   {
     "title": "De nombreux hommages ont lieu en Martinique pour le centenaire de la naissance de Frantz Fanon",
-    "added_at": "2025-07-20T00:29:49.557Z"
+    "added_at": "2025-07-20T00:29:49.557Z",
+    "removed_at": "2025-07-22T08:20:14.210Z",
+    "duration_minutes": 3350,
+    "duration_str": "2d 7h 50m"
   },
   {
     "title": "Le gouvernement syrien affirme que les combats à Soueida ont cessé",
-    "added_at": "2025-07-20T04:10:24.282Z"
+    "added_at": "2025-07-20T04:10:24.282Z",
+    "removed_at": "2025-07-22T07:55:41.330Z",
+    "duration_minutes": 3105,
+    "duration_str": "2d 3h 45m"
   },
   {
     "title": "Sous pression financière, les écoles suisses à l’étranger redoutent de perdre leur \"suissitude\"",
@@ -2294,5 +2303,17 @@
   {
     "title": "Les fermes connectées révolutionnent le quotidien des agriculteurs",
     "added_at": "2025-07-22T07:37:09.266Z"
+  },
+  {
+    "title": "Face aux critiques des restaurateurs, Paléo réduit le nombre de stands de nourriture",
+    "added_at": "2025-07-22T07:55:41.330Z"
+  },
+  {
+    "title": "Alexander Skarsgård déchire tout dans la série \"Murderbot, journal d'un AssaSynth\"",
+    "added_at": "2025-07-22T08:20:14.210Z"
+  },
+  {
+    "title": "Une personne blessée à la suite d'une explosion dans un laboratoire de l'Université de Genève",
+    "added_at": "2025-07-22T08:26:23.153Z"
   }
 ]
