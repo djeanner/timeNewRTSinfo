@@ -1824,7 +1824,10 @@
   },
   {
     "title": "Terres rares, le lourd tribut environnemental de la transition énergétique",
-    "added_at": "2025-07-19T08:07:08.336Z"
+    "added_at": "2025-07-19T08:07:08.336Z",
+    "removed_at": "2025-07-22T00:28:47.407Z",
+    "duration_minutes": 3861,
+    "duration_str": "2d 16h 21m"
   },
   {
     "title": "Disparu il y a 150 ans, Guillaume Henri Dufour, un héros suisse au-delà des mythes",
@@ -2231,5 +2234,9 @@
   {
     "title": "Volodymyr Zelensky annonce de nouveaux pourparlers avec la Russie à Istanbul",
     "added_at": "2025-07-21T19:37:30.091Z"
+  },
+  {
+    "title": "L'OMS dénonce des \"attaques\" contre ses locaux à Gaza",
+    "added_at": "2025-07-22T00:28:47.407Z"
   }
 ]
