@@ -18222,7 +18222,10 @@
   },
   {
     "title": "suisse:::Didier Cuche, fils du Chasseral",
-    "added_at": "2025-07-21T15:08:41.989Z"
+    "added_at": "2025-07-21T15:08:41.989Z",
+    "removed_at": "2025-07-22T13:38:22.280Z",
+    "duration_minutes": 1349,
+    "duration_str": "22h 29m"
   },
   {
     "title": "culture:::A Paléo, les drones feront leur retour dans un ciel instable",
@@ -18268,7 +18271,10 @@
   },
   {
     "title": "culture:::Labess, des couloirs de métro aux scènes du Paléo",
-    "added_at": "2025-07-21T17:34:04.190Z"
+    "added_at": "2025-07-21T17:34:04.190Z",
+    "removed_at": "2025-07-22T12:49:22.232Z",
+    "duration_minutes": 1155,
+    "duration_str": "19h 15m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Les prochains pourparlers entre Russes et Ukrainiens sont prévus mercredi",
@@ -18344,11 +18350,17 @@
   },
   {
     "title": "monde:::En Autriche, refuges et sentiers de randonnée menacés par le réchauffement climatique",
-    "added_at": "2025-07-22T06:33:18.847Z"
+    "added_at": "2025-07-22T06:33:18.847Z",
+    "removed_at": "2025-07-22T12:38:03.571Z",
+    "duration_minutes": 364,
+    "duration_str": "6h 4m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Le chef de la diplomatie française annonce la préparation d’un nouveau paquet de sanctions européennes contre Moscou",
-    "added_at": "2025-07-22T07:05:22.056Z"
+    "added_at": "2025-07-22T07:05:22.056Z",
+    "removed_at": "2025-07-22T12:36:07.355Z",
+    "duration_minutes": 330,
+    "duration_str": "5h 30m"
   },
   {
     "title": "culture:::«Le Fantôme de l’Opéra»: Théophraste Longuet et l’oreille arrachée à la manière de «Reservoir Dogs»",
@@ -18400,10 +18412,43 @@
   },
   {
     "title": "monde:::En direct – L’ONU a recensé plus de 1000 civils tués à Gaza lors de distribution alimentaire",
-    "added_at": "2025-07-22T11:58:11.623Z"
+    "added_at": "2025-07-22T11:58:11.623Z",
+    "removed_at": "2025-07-22T14:27:26.981Z",
+    "duration_minutes": 149,
+    "duration_str": "2h 29m"
   },
   {
     "title": "sport:::La romance des joueuses italiennes et de leur sélectionneur",
-    "added_at": "2025-07-22T12:11:21.880Z"
+    "added_at": "2025-07-22T12:11:21.880Z",
+    "removed_at": "2025-07-22T13:21:23.640Z",
+    "duration_minutes": 70,
+    "duration_str": "1h 10m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Les députés ukrainiens liquident l’indépendance des instances anticorruption",
+    "added_at": "2025-07-22T12:36:07.355Z"
+  },
+  {
+    "title": "monde:::Les Etats-Unis se retirent à nouveau de l’Unesco",
+    "added_at": "2025-07-22T12:49:22.232Z",
+    "removed_at": "2025-07-22T14:01:02.726Z",
+    "duration_minutes": 71,
+    "duration_str": "1h 11m"
+  },
+  {
+    "title": "sport:::Entre les joueuses italiennes et leur sélectionneur, une histoire de rêve",
+    "added_at": "2025-07-22T13:21:23.640Z"
+  },
+  {
+    "title": "suisse:::Deux suspects arrêtés après le cambriolage d’un magasin d’armes d’Evionnaz",
+    "added_at": "2025-07-22T13:38:22.280Z"
+  },
+  {
+    "title": "monde:::Morts de civils à Gaza: Kaja Kallas hausse le ton mais ne parvient pas à masquer les atermoiements de l’UE face à Israël",
+    "added_at": "2025-07-22T14:01:02.726Z"
+  },
+  {
+    "title": "monde:::En direct – Antonio Guterres dénonce «un niveau de mort et de destruction sans équivalent dans l’histoire récente» à Gaza",
+    "added_at": "2025-07-22T14:27:26.981Z"
   }
 ]
