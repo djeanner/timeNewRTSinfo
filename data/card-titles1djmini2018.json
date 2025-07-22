@@ -24595,15 +24595,24 @@
   },
   {
     "title": "L'hôpital de Château-d’Œx menacé de fermeture par le projet d'économies de l'Etat de Vaud",
-    "added_at": "2025-07-19T18:32:09.838Z"
+    "added_at": "2025-07-19T18:32:09.838Z",
+    "removed_at": "2025-07-22T09:36:31.153Z",
+    "duration_minutes": 3784,
+    "duration_str": "2d 15h 4m"
   },
   {
     "title": "Alors que les réserves de sang s'épuisent à Genève, les HUG tirent la sonnette d'alarme",
-    "added_at": "2025-07-19T19:51:23.068Z"
+    "added_at": "2025-07-19T19:51:23.068Z",
+    "removed_at": "2025-07-22T07:37:35.780Z",
+    "duration_minutes": 3586,
+    "duration_str": "2d 11h 46m"
   },
   {
     "title": "Une centaine d'émeutiers cagoulés s'en prennent à des voitures à Limoges",
-    "added_at": "2025-07-19T19:57:02.654Z"
+    "added_at": "2025-07-19T19:57:02.654Z",
+    "removed_at": "2025-07-22T08:26:37.277Z",
+    "duration_minutes": 3629,
+    "duration_str": "2d 12h 29m"
   },
   {
     "title": "Une voiture fonce sur la foule à Los Angeles devant une boîte de nuit",
@@ -24611,11 +24620,17 @@
   },
   {
     "title": "De nombreux hommages ont lieu en Martinique pour le centenaire de la naissance de Frantz Fanon",
-    "added_at": "2025-07-20T00:30:39.762Z"
+    "added_at": "2025-07-20T00:30:39.762Z",
+    "removed_at": "2025-07-22T08:20:57.502Z",
+    "duration_minutes": 3350,
+    "duration_str": "2d 7h 50m"
   },
   {
     "title": "Le gouvernement syrien affirme que les combats à Soueida ont cessé",
-    "added_at": "2025-07-20T04:11:13.678Z"
+    "added_at": "2025-07-20T04:11:13.678Z",
+    "removed_at": "2025-07-22T07:56:24.273Z",
+    "duration_minutes": 3105,
+    "duration_str": "2d 3h 45m"
   },
   {
     "title": "Sous pression financière, les écoles suisses à l’étranger redoutent de perdre leur \"suissitude\"",
@@ -24627,7 +24642,10 @@
   },
   {
     "title": "Quelque 60'000 festivaliers pour la 10e édition de Sion sous les étoiles",
-    "added_at": "2025-07-20T06:59:07.509Z"
+    "added_at": "2025-07-20T06:59:07.509Z",
+    "removed_at": "2025-07-22T09:23:15.248Z",
+    "duration_minutes": 3024,
+    "duration_str": "2d 2h 24m"
   },
   {
     "title": "Du charbon à la plage, la spectaculaire conversion du bassin minier de la Lusace",
@@ -24651,7 +24669,10 @@
   },
   {
     "title": "L'entrain rock d'Alanis Morissette clôt une 59e édition radieuse du Montreux Jazz Festival",
-    "added_at": "2025-07-20T10:19:15.554Z"
+    "added_at": "2025-07-20T10:19:15.554Z",
+    "removed_at": "2025-07-22T07:35:39.990Z",
+    "duration_minutes": 2716,
+    "duration_str": "1d 21h 16m"
   },
   {
     "title": "Le syndicat des pilotes de la compagnie Swiss veut résilier la CCT",
@@ -24925,5 +24946,47 @@
   {
     "title": "Les 700 Marines déployés à Los Angeles en juin se retirent",
     "added_at": "2025-07-22T07:22:19.885Z"
+  },
+  {
+    "title": "Faute de suivi, de nombreux patients se sentent démunis à leur sortie d'hôpital psychiatrique",
+    "added_at": "2025-07-22T07:35:39.990Z"
+  },
+  {
+    "title": "Les fermes connectées révolutionnent le quotidien des agriculteurs",
+    "added_at": "2025-07-22T07:37:35.780Z"
+  },
+  {
+    "title": "Face aux critiques des restaurateurs, Paléo réduit le nombre de stands de nourriture",
+    "added_at": "2025-07-22T07:56:24.273Z"
+  },
+  {
+    "title": "Alexander Skarsgård déchire tout dans la série \"Murderbot, journal d'un AssaSynth\"",
+    "added_at": "2025-07-22T08:20:57.502Z"
+  },
+  {
+    "title": "Une personne blessée à la suite d'une explosion dans un laboratoire de l'Université de Genève",
+    "added_at": "2025-07-22T08:26:37.277Z"
+  },
+  {
+    "title": "Sylvain Perron de retour du Soudan: \"Il n'y a plus d'Etat ni de services publics au Darfour\"",
+    "added_at": "2025-07-22T09:23:15.248Z",
+    "removed_at": "2025-07-22T09:28:55.511Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "Sylvain Perron, de retour du Soudan: \"Il n'y a plus d'Etat ni de services publics au Darfour\"",
+    "added_at": "2025-07-22T09:28:55.511Z",
+    "removed_at": "2025-07-22T09:30:51.544Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Sylvain Perron, de retour du Soudan: \"Il n'y a plus d'Etat, ni de services publics au Darfour\"",
+    "added_at": "2025-07-22T09:30:51.544Z"
+  },
+  {
+    "title": "La Suisse renforce sa défense sol-air avec des systèmes allemands",
+    "added_at": "2025-07-22T09:36:31.153Z"
   }
 ]
