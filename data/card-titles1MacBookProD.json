@@ -2394,7 +2394,10 @@
   },
   {
     "title": "Des individus dangereux et armés toujours recherchés en Valais après un vol dans une armurerie",
-    "added_at": "2025-07-21T19:02:45.312Z"
+    "added_at": "2025-07-21T19:02:45.312Z",
+    "removed_at": "2025-07-23T21:17:35.712Z",
+    "duration_minutes": 3014,
+    "duration_str": "2d 2h 14m"
   },
   {
     "title": "Volodymyr Zelensky annonce de nouveaux pourparlers avec la Russie à Istanbul",
@@ -2862,5 +2865,9 @@
   {
     "title": "Volodymyr Zelensky défend sa réforme des instances anticorruption, nouvelles manifestations à Kiev",
     "added_at": "2025-07-23T20:26:05.472Z"
+  },
+  {
+    "title": "Le Parlement israélien vote en faveur d'un appel à annexer la Cisjordanie",
+    "added_at": "2025-07-23T21:17:35.712Z"
   }
 ]
