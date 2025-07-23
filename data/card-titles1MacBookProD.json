@@ -2223,7 +2223,10 @@
   },
   {
     "title": "Des individus dangereux et armés recherchés en Valais après un vol dans une armurerie",
-    "added_at": "2025-07-21T08:50:48.834Z"
+    "added_at": "2025-07-21T08:50:48.834Z",
+    "removed_at": "2025-07-23T19:03:35.566Z",
+    "duration_minutes": 3492,
+    "duration_str": "2d 10h 12m"
   },
   {
     "title": "Le Conseil d'Etat fribourgeois veut une loi pour définir le statut de commune bilingue",
@@ -2297,7 +2300,10 @@
   },
   {
     "title": "Béatrice Giblin: \"L'extraction de minerais dans l'Arctique est encore trop onéreuse\"",
-    "added_at": "2025-07-21T13:05:29.839Z"
+    "added_at": "2025-07-21T13:05:29.839Z",
+    "removed_at": "2025-07-23T19:03:35.566Z",
+    "duration_minutes": 3238,
+    "duration_str": "2d 5h 58m"
   },
   {
     "title": "La Suisse pourrait manquer de 400'000 travailleurs et travailleuses d'ici 10 ans, selon la BNS",
@@ -2806,5 +2812,27 @@
   {
     "title": "La Cour internationale de justice ouvre la voie aux \"réparations\" climatiques pour les pays pollueurs",
     "added_at": "2025-07-23T17:45:06.423Z"
+  },
+  {
+    "title": "L'acétamipride, objet de controverse en France, reste pour l'heure autorisé en Suisse",
+    "added_at": "2025-07-23T19:03:35.566Z",
+    "removed_at": "2025-07-23T19:30:15.664Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "Les vignerons romands lancent un cri d’alarme sur leur situation financière",
+    "added_at": "2025-07-23T19:03:35.566Z"
+  },
+  {
+    "title": "L'acétamipride, pesticide controversé en France, reste pour l'heure autorisé en Suisse",
+    "added_at": "2025-07-23T19:30:15.664Z",
+    "removed_at": "2025-07-23T19:32:19.882Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "L'acétamipride, pesticide au cœur d'une polémique en France, reste pour l'heure autorisé en Suisse",
+    "added_at": "2025-07-23T19:32:19.882Z"
   }
 ]
