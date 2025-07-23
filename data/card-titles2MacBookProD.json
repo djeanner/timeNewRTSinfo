@@ -5111,7 +5111,10 @@
   },
   {
     "title": "cyber:::Un mouvement appelant l’Europe à ne pas devenir une «colonie numérique» intéresse de près la Suisse",
-    "added_at": "2025-05-13T04:52:06.885Z"
+    "added_at": "2025-05-13T04:52:06.885Z",
+    "removed_at": "2025-07-23T14:54:11.459Z",
+    "duration_minutes": 102842,
+    "duration_str": "71d 10h 2m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’armée israélienne reprend les bombardements contre Gaza après la libération d’un otage",
@@ -22022,7 +22025,10 @@
   },
   {
     "title": "sport:::Dans le Ventoux vert, sur la face cachée de la lune",
-    "added_at": "2025-07-22T18:34:38.872Z"
+    "added_at": "2025-07-22T18:34:38.872Z",
+    "removed_at": "2025-07-23T14:17:11.596Z",
+    "duration_minutes": 1182,
+    "duration_str": "19h 42m"
   },
   {
     "title": "suisse:::A Genève, la Confédération donne son feu vert à la Voie bleue et des riverains voient rouge",
@@ -22073,7 +22079,10 @@
   },
   {
     "title": "economie:::Du Tibet à la Suisse, le changement climatique transforme les barrages",
-    "added_at": "2025-07-23T05:01:26.885Z"
+    "added_at": "2025-07-23T05:01:26.885Z",
+    "removed_at": "2025-07-23T15:06:33.227Z",
+    "duration_minutes": 605,
+    "duration_str": "10h 5m"
   },
   {
     "title": "sciences:::La menace grandissante des tsunamis de montagne, dans l’Himalaya mais aussi dans les Alpes",
@@ -22091,7 +22100,10 @@
   },
   {
     "title": "economie:::Pratique largement répandue, la microfiltration de l’eau minérale fait aussi débat en Suisse",
-    "added_at": "2025-07-23T05:34:12.564Z"
+    "added_at": "2025-07-23T05:34:12.564Z",
+    "removed_at": "2025-07-23T14:17:11.596Z",
+    "duration_minutes": 522,
+    "duration_str": "8h 42m"
   },
   {
     "title": "monde:::En trois mois à la tête de l’Allemagne, Friedrich Merz est devenu le «chancelier de la politique étrangère»",
@@ -22121,19 +22133,31 @@
   },
   {
     "title": "sciences:::L’atmosphère, une couverture de plus en plus réchauffante pour le climat",
-    "added_at": "2025-07-23T09:38:48.610Z"
+    "added_at": "2025-07-23T09:38:48.610Z",
+    "removed_at": "2025-07-23T14:56:18.138Z",
+    "duration_minutes": 317,
+    "duration_str": "5h 17m"
   },
   {
     "title": "monde:::Plus de 80% des habitants de l’archipel de Tuvalu sont candidats à un visa climatique",
-    "added_at": "2025-07-23T09:46:56.549Z"
+    "added_at": "2025-07-23T09:46:56.549Z",
+    "removed_at": "2025-07-23T14:27:28.262Z",
+    "duration_minutes": 280,
+    "duration_str": "4h 40m"
   },
   {
     "title": "cyber:::Le choc: le genevois Proton décide d’investir 100 millions hors de Suisse, jugeant la situation dans le pays trop risquée",
-    "added_at": "2025-07-23T10:11:34.611Z"
+    "added_at": "2025-07-23T10:11:34.611Z",
+    "removed_at": "2025-07-23T14:19:17.325Z",
+    "duration_minutes": 247,
+    "duration_str": "4h 7m"
   },
   {
     "title": "cyber:::Accusée de «pratiques prédatrices», Apple est attaquée en justice aux Etats-Unis par l’entreprise suisse Proton",
-    "added_at": "2025-07-23T10:11:34.611Z"
+    "added_at": "2025-07-23T10:11:34.611Z",
+    "removed_at": "2025-07-23T14:54:11.459Z",
+    "duration_minutes": 282,
+    "duration_str": "4h 42m"
   },
   {
     "title": "suisse:::L’aéroport de Zurich gardera un peu de français dans ses annonces",
@@ -22150,5 +22174,43 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Ursula von der Leyen a demandé des «explications» à Volodymyr Zelensky concernant la lutte anticorruption",
     "added_at": "2025-07-23T13:54:30.657Z"
+  },
+  {
+    "title": "sport:::Chloe Kelly, la «supersub» et sa joie pure au service des Lionesses",
+    "added_at": "2025-07-23T14:17:11.596Z",
+    "removed_at": "2025-07-23T14:48:00.984Z",
+    "duration_minutes": 30,
+    "duration_str": "30m"
+  },
+  {
+    "title": "suisse:::Affaire Denis Vipret: la RTS va contester les mesures superprovisionnelles",
+    "added_at": "2025-07-23T14:17:11.596Z"
+  },
+  {
+    "title": "sciences:::Des chercheurs détectent des particules de dioxyde de titane dans le lait maternel en France",
+    "added_at": "2025-07-23T14:17:11.596Z",
+    "removed_at": "2025-07-23T14:54:11.459Z",
+    "duration_minutes": 36,
+    "duration_str": "36m"
+  },
+  {
+    "title": "cyber:::Exclusif – Le genevois Proton décide d’investir 100 millions hors de Suisse, jugeant la situation dans le pays trop risquée",
+    "added_at": "2025-07-23T14:19:17.325Z"
+  },
+  {
+    "title": "monde:::Mortiers d’artifice, l’arme des violences urbaines françaises dans le viseur du ministre Bruno Retailleau",
+    "added_at": "2025-07-23T14:27:28.262Z"
+  },
+  {
+    "title": "sport:::Chloe Kelly, la «super-sub» et sa joie pure au service des Lionesses",
+    "added_at": "2025-07-23T14:48:00.984Z"
+  },
+  {
+    "title": "suisse:::Entre Euro et Paléo, un mardi soir chaotique sur la ligne CFF Genève-Lausanne",
+    "added_at": "2025-07-23T14:54:11.459Z"
+  },
+  {
+    "title": "economie:::Dopée par la volatilité des marchés, la banque EFG signe un 1er semestre solide",
+    "added_at": "2025-07-23T15:06:33.227Z"
   }
 ]
