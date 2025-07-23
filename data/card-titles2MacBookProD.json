@@ -21855,7 +21855,10 @@
   },
   {
     "title": "culture:::Le fantôme de l’Opéra: Théophraste Longuet et l’oreille arrachée à la manière de «Reservoir Dogs»",
-    "added_at": "2025-07-22T07:43:24.167Z"
+    "added_at": "2025-07-22T07:43:24.167Z",
+    "removed_at": "2025-07-23T07:00:31.690Z",
+    "duration_minutes": 1397,
+    "duration_str": "23h 17m"
   },
   {
     "title": "suisse:::Une explosion dans un laboratoire de l’Université de Genève blesse une personne",
@@ -22014,7 +22017,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Kiev a perdu un premier avion de chasse français Mirage lors d'une mission",
-    "added_at": "2025-07-23T01:48:16.989Z"
+    "added_at": "2025-07-23T01:48:16.989Z",
+    "removed_at": "2025-07-23T07:25:06.078Z",
+    "duration_minutes": 336,
+    "duration_str": "5h 36m"
   },
   {
     "title": "monde:::Donald Trump annonce un accord commercial avec le Japon, frappé par 15% de droits de douane",
@@ -22060,5 +22066,9 @@
   {
     "title": "monde:::En trois mois à la tête de l’Allemagne, Friedrich Merz est devenu le «chancelier de la politique étrangère»",
     "added_at": "2025-07-23T06:13:15.933Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Une modification des instances anticorruption fait polémique en Ukraine",
+    "added_at": "2025-07-23T07:25:06.078Z"
   }
 ]
