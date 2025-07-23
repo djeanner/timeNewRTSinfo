@@ -24954,7 +24954,10 @@
   },
   {
     "title": "Un séisme de magnitude 4,2 a frappé l'Oberland bernois près de Mürren",
-    "added_at": "2025-07-21T13:28:44.511Z"
+    "added_at": "2025-07-21T13:28:44.511Z",
+    "removed_at": "2025-07-23T14:40:36.931Z",
+    "duration_minutes": 2951,
+    "duration_str": "2d 1h 11m"
   },
   {
     "title": "Le recul de la vaccination aux Etats-Unis  influence négativement le reste du monde",
@@ -24973,7 +24976,10 @@
   },
   {
     "title": "Alan Bergman, parolier oscarisé pour la chanson \"The Way We Were\", est décédé à 99 ans",
-    "added_at": "2025-07-21T14:44:07.322Z"
+    "added_at": "2025-07-21T14:44:07.322Z",
+    "removed_at": "2025-07-23T15:43:01.792Z",
+    "duration_minutes": 2938,
+    "duration_str": "2d 58m"
   },
   {
     "title": "Vingt-cinq pays dont la Suisse appellent à mettre fin \"immédiatement\" à la guerre à Gaza",
@@ -25161,14 +25167,17 @@
   },
   {
     "title": "Suisse-Espagne : des milliers de fans ont déferlé en ville de Berne",
-    "added_at": "2025-07-22T13:38:22.215Z"
+    "added_at": "2025-07-22T13:38:22.215Z",
+    "removed_at": "2025-07-23T16:28:24.209Z",
+    "duration_minutes": 1610,
+    "duration_str": "1d 2h 50m"
   },
   {
     "title": "Défaite électorale pour le premier ministre japonais qui s'accroche au pouvoir",
     "added_at": "2025-07-22T13:38:22.215Z",
-    "removed_at": "2025-07-23T12:43:03.888Z",
-    "duration_minutes": 1384,
-    "duration_str": "23h 4m"
+    "removed_at": "2025-07-23T14:29:16.875Z",
+    "duration_minutes": 1490,
+    "duration_str": "1d 50m"
   },
   {
     "title": "Couleurs d'été",
@@ -25190,7 +25199,10 @@
   },
   {
     "title": "L'accord de libre-échange avec des pays du Mercosur inquiète les agriculteurs, qui redoutent une perte de compétitivité",
-    "added_at": "2025-07-22T13:38:22.215Z"
+    "added_at": "2025-07-22T13:38:22.215Z",
+    "removed_at": "2025-07-23T14:25:32.588Z",
+    "duration_minutes": 1487,
+    "duration_str": "1d 47m"
   },
   {
     "title": "Dans les Grisons, l'artiste sonore français Ludwig Berger a enregistré les derniers souffles d'un glacier",
@@ -25365,9 +25377,9 @@
   {
     "title": "VD : rassemblement en soutien à l'homme décédé lors d’une intervention policière",
     "added_at": "2025-07-23T12:41:07.661Z",
-    "removed_at": "2025-07-23T12:43:03.888Z",
-    "duration_minutes": 1,
-    "duration_str": "1m"
+    "removed_at": "2025-07-23T14:29:16.875Z",
+    "duration_minutes": 108,
+    "duration_str": "1h 48m"
   },
   {
     "title": "Netflix rate sa cible avec \"Soleil noir\", hommage aux téléfilms estivaux des années 90",
@@ -25391,5 +25403,32 @@
   {
     "title": "Le come (Men in) back de la star hollywoodienne Will Smith",
     "added_at": "2025-07-23T14:14:04.185Z"
+  },
+  {
+    "title": "En France, la pétition citoyenne contre la très controversée loi Duplomb dépasse le million de signatures",
+    "added_at": "2025-07-23T14:25:32.588Z"
+  },
+  {
+    "title": "Les Etats ont \"des obligations strictes de protéger le système climatique\", tranche La Cour internationale de justice",
+    "added_at": "2025-07-23T14:40:36.931Z",
+    "removed_at": "2025-07-23T16:13:18.766Z",
+    "duration_minutes": 92,
+    "duration_str": "1h 32m"
+  },
+  {
+    "title": "Un fan du Servette FC condamné à un an de prison ferme pour avoir lancé un engin pyrotechnique allumé",
+    "added_at": "2025-07-23T15:01:24.849Z"
+  },
+  {
+    "title": "A Soleure, 22 personnes contraintes de refaire leurs impôts, jetés à la poubelle par erreur",
+    "added_at": "2025-07-23T15:43:01.792Z"
+  },
+  {
+    "title": "Les Etats ont \"des obligations strictes de protéger le système climatique\", tranche la Cour internationale de justice",
+    "added_at": "2025-07-23T16:13:18.766Z"
+  },
+  {
+    "title": "Protestations en Ukraine contre une loi affaiblissant la lutte anticorruption",
+    "added_at": "2025-07-23T16:28:24.209Z"
   }
 ]
