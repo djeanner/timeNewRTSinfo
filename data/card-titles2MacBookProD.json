@@ -22173,7 +22173,10 @@
   },
   {
     "title": "suisse:::L’aéroport de Zurich gardera un peu de français dans ses annonces",
-    "added_at": "2025-07-23T11:19:26.186Z"
+    "added_at": "2025-07-23T11:19:26.186Z",
+    "removed_at": "2025-07-24T04:31:36.007Z",
+    "duration_minutes": 1032,
+    "duration_str": "17h 12m"
   },
   {
     "title": "monde:::La nuit, Pékin assaillie par les cyclistes vit en roue libre",
@@ -22234,7 +22237,10 @@
   },
   {
     "title": "suisse:::Entre Euro et Paléo, un mardi soir chaotique sur la ligne CFF Genève-Lausanne",
-    "added_at": "2025-07-23T14:54:11.459Z"
+    "added_at": "2025-07-23T14:54:11.459Z",
+    "removed_at": "2025-07-24T04:39:46.499Z",
+    "duration_minutes": 825,
+    "duration_str": "13h 45m"
   },
   {
     "title": "economie:::Dopée par la volatilité des marchés, la banque EFG signe un 1er semestre solide",
@@ -22328,7 +22334,10 @@
   },
   {
     "title": "sport:::Aitana Bonmati, la meilleure joueuse du monde, envoie l'Espagne en finale de l'Euro contre l'Angleterre",
-    "added_at": "2025-07-23T21:40:11.568Z"
+    "added_at": "2025-07-23T21:40:11.568Z",
+    "removed_at": "2025-07-24T04:43:56.070Z",
+    "duration_minutes": 423,
+    "duration_str": "7h 3m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Ce qu’il faut retenir des négociations à Istanbul",
@@ -22352,5 +22361,21 @@
   {
     "title": "economie:::Grandes fortunes: pourquoi Genève est perçu comme moins attractif",
     "added_at": "2025-07-24T04:06:51.847Z"
+  },
+  {
+    "title": "culture:::Au Paléo, Will Smith en mode autocélébration tandis que Texas et Jean-Louis Aubert sont dans le partage sincère",
+    "added_at": "2025-07-24T04:31:36.007Z"
+  },
+  {
+    "title": "culture:::En images – De Texas à Lost Frequencies, la deuxième soirée du Paléo",
+    "added_at": "2025-07-24T04:31:36.007Z"
+  },
+  {
+    "title": "suisse:::Martin Muller, l’oiseau majestueux du Salève",
+    "added_at": "2025-07-24T04:39:46.499Z"
+  },
+  {
+    "title": "sport:::Aitana Bonmati, la meilleure joueuse du monde, envoie l’Espagne en finale de l’Euro contre l’Angleterre",
+    "added_at": "2025-07-24T04:43:56.070Z"
   }
 ]
