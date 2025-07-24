@@ -2578,11 +2578,17 @@
   },
   {
     "title": "Sept mille nouvelles demandes de subsides sont en attente dans le canton de Vaud",
-    "added_at": "2025-07-22T13:24:05.198Z"
+    "added_at": "2025-07-22T13:24:05.198Z",
+    "removed_at": "2025-07-24T17:03:56.045Z",
+    "duration_minutes": 3099,
+    "duration_str": "2d 3h 39m"
   },
   {
     "title": "En crise, les vignerons romands cherchent des solutions pour contrer la concurrence étrangère",
-    "added_at": "2025-07-22T13:26:04.587Z"
+    "added_at": "2025-07-22T13:26:04.587Z",
+    "removed_at": "2025-07-24T16:33:05.723Z",
+    "duration_minutes": 3067,
+    "duration_str": "2d 3h 7m"
   },
   {
     "title": "Julien Guillaume analyse les raisons des investissements massifs de Rheinmetall",
@@ -2708,7 +2714,10 @@
   },
   {
     "title": "Le déclin des lieux de culte: quand les églises deviennent des habitations",
-    "added_at": "2025-07-22T14:48:11.505Z"
+    "added_at": "2025-07-22T14:48:11.505Z",
+    "removed_at": "2025-07-24T16:51:35.146Z",
+    "duration_minutes": 3003,
+    "duration_str": "2d 2h 3m"
   },
   {
     "title": "Paléo démarre avec le duo de la french touch Justice et une météo incertaine",
@@ -2865,10 +2874,7 @@
   },
   {
     "title": "En France, la pétition citoyenne contre la très controversée loi Duplomb dépasse le million de signatures",
-    "added_at": "2025-07-23T14:25:28.313Z",
-    "removed_at": "2025-07-24T16:04:09.131Z",
-    "duration_minutes": 1538,
-    "duration_str": "1d 1h 38m"
+    "added_at": "2025-07-23T14:25:28.313Z"
   },
   {
     "title": "Les Etats ont \"des obligations strictes de protéger le système climatique\", tranche La Cour internationale de justice",
@@ -2924,7 +2930,10 @@
   },
   {
     "title": "Les vignerons romands lancent un cri d’alarme sur leur situation financière",
-    "added_at": "2025-07-23T19:03:35.566Z"
+    "added_at": "2025-07-23T19:03:35.566Z",
+    "removed_at": "2025-07-24T17:03:56.045Z",
+    "duration_minutes": 1320,
+    "duration_str": "22h"
   },
   {
     "title": "L'acétamipride, pesticide controversé en France, reste pour l'heure autorisé en Suisse",
@@ -3144,7 +3153,10 @@
   },
   {
     "title": "La Banque centrale européenne marque une pause, après un long cycle de baisse des taux",
-    "added_at": "2025-07-24T16:04:09.131Z"
+    "added_at": "2025-07-24T16:04:09.131Z",
+    "removed_at": "2025-07-24T16:16:36.953Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
   },
   {
     "title": "Euro 2025: l’Espagne et l’Allemagne se disputent une place en finale",
@@ -3153,5 +3165,17 @@
   {
     "title": "O'Connor enlève l'étape reine au Col de la Loze",
     "added_at": "2025-07-24T16:12:20.372Z"
+  },
+  {
+    "title": "La Banque centrale européenne marque une pause après un long cycle de baisse des taux",
+    "added_at": "2025-07-24T16:16:36.953Z"
+  },
+  {
+    "title": "L'enquête sur la mort de l'ex-femme de Bertrand Cantat relancée après un documentaire Netflix",
+    "added_at": "2025-07-24T16:33:05.723Z"
+  },
+  {
+    "title": "Un juge fribourgeois sous enquête pour une surprenante offre financière",
+    "added_at": "2025-07-24T16:51:35.146Z"
   }
 ]
