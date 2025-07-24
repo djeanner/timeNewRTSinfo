@@ -22345,7 +22345,10 @@
   },
   {
     "title": "sport:::Le Tour des autres: six coureurs valeureux loin derrière Tadej Pogacar",
-    "added_at": "2025-07-23T19:24:05.743Z"
+    "added_at": "2025-07-23T19:24:05.743Z",
+    "removed_at": "2025-07-24T09:11:29.097Z",
+    "duration_minutes": 827,
+    "duration_str": "13h 47m"
   },
   {
     "title": "sport:::Aitana Bonmati, la meilleure joueuse du monde, envoie l'Espagne en finale de l'Euro contre l'Angleterre",
@@ -22400,11 +22403,17 @@
   },
   {
     "title": "sport:::Aitana Bonmati, la meilleure joueuse du monde, envoie l’Espagne en finale de l’Euro contre l’Angleterre",
-    "added_at": "2025-07-24T04:43:56.070Z"
+    "added_at": "2025-07-24T04:43:56.070Z",
+    "removed_at": "2025-07-24T09:15:39.770Z",
+    "duration_minutes": 271,
+    "duration_str": "4h 31m"
   },
   {
     "title": "sciences:::7000 pas chaque jour sont bons pour la santé, calcule une nouvelle étude",
-    "added_at": "2025-07-24T05:31:12.911Z"
+    "added_at": "2025-07-24T05:31:12.911Z",
+    "removed_at": "2025-07-24T08:50:57.961Z",
+    "duration_minutes": 199,
+    "duration_str": "3h 19m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L’Ukraine propose une rencontre entre Volodymyr Zelensky et Vladimir Poutine avant la fin du mois d’août",
@@ -22429,5 +22438,24 @@
   {
     "title": "sport:::«Je veux être irréprochable»: Roman Mityukov raconte son ascèse avant le plot de départ",
     "added_at": "2025-07-24T08:22:01.658Z"
+  },
+  {
+    "title": "monde:::Entre la Thaïlande et le Cambodge des affrontements inédits depuis 15 ans",
+    "added_at": "2025-07-24T08:50:57.961Z",
+    "removed_at": "2025-07-24T09:15:39.770Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "sport:::Le Tour des autres: cinq coureurs valeureux loin derrière Tadej Pogacar",
+    "added_at": "2025-07-24T09:11:29.097Z"
+  },
+  {
+    "title": "monde:::Entre la Thaïlande et le Cambodge, des affrontements inédits depuis 15 ans",
+    "added_at": "2025-07-24T09:15:39.770Z"
+  },
+  {
+    "title": "sciences:::De l’intérêt d’apprécier le whisky quand on étudie les climats anciens",
+    "added_at": "2025-07-24T09:15:39.770Z"
   }
 ]
