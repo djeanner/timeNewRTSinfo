@@ -61,7 +61,7 @@
   {
     "title": "sciences:::7000 pas chaque jour sont bons pour la santé, calcule une nouvelle étude",
     "added_at": "2025-07-24T05:29:56.607Z",
-    "removed_at": "2025-07-24T08:50:57.961Z",
+    "removed_at": "2025-07-24T08:50:52.606Z",
     "duration_minutes": 201,
     "duration_str": "3h 21m"
   },
@@ -103,7 +103,7 @@
   },
   {
     "title": "monde:::Entre la Thaïlande et le Cambodge des affrontements inédits depuis 15 ans",
-    "added_at": "2025-07-24T08:50:57.961Z",
+    "added_at": "2025-07-24T08:50:52.606Z",
     "removed_at": "2025-07-24T09:15:39.770Z",
     "duration_minutes": 25,
     "duration_str": "25m"
@@ -111,8 +111,9 @@
   {
     "title": "sport:::Le Tour des autres: cinq coureurs valeureux loin derrière Tadej Pogacar",
     "added_at": "2025-07-24T09:11:29.097Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-24T10:07:08.070Z",
+    "duration_minutes": 56,
+    "duration_str": "56m"
   },
   {
     "title": "monde:::Entre la Thaïlande et le Cambodge, des affrontements inédits depuis 15 ans",
@@ -123,6 +124,12 @@
   {
     "title": "sciences:::De l’intérêt d’apprécier le whisky quand on étudie les climats anciens",
     "added_at": "2025-07-24T09:15:39.770Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Les lacs des barrages alpins peuvent aussi redouter des éboulements",
+    "added_at": "2025-07-24T10:00:58.170Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
