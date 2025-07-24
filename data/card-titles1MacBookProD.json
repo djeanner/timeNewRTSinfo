@@ -2549,7 +2549,10 @@
   },
   {
     "title": "Deux personnes arrêtées après le vol dans une armurerie en Bas-Valais",
-    "added_at": "2025-07-22T12:28:39.450Z"
+    "added_at": "2025-07-22T12:28:39.450Z",
+    "removed_at": "2025-07-24T21:01:05.627Z",
+    "duration_minutes": 3392,
+    "duration_str": "2d 8h 32m"
   },
   {
     "title": "Les Etats-Unis annonçent leur retrait de l'Unesco",
@@ -2699,7 +2702,10 @@
   },
   {
     "title": "L'armée israélienne accusée d'avoir tué plus de 1000 Gazaouis cherchant de la nourriture depuis mai",
-    "added_at": "2025-07-22T14:37:59.128Z"
+    "added_at": "2025-07-22T14:37:59.128Z",
+    "removed_at": "2025-07-24T21:22:48.551Z",
+    "duration_minutes": 3284,
+    "duration_str": "2d 6h 44m"
   },
   {
     "title": "Un réseau de prostitution de mineures démantelé à Genève",
@@ -3234,5 +3240,9 @@
   {
     "title": "La France va reconnaître l'Etat de Palestine en septembre devant l'ONU, annonce Emmanuel Macron",
     "added_at": "2025-07-24T20:42:28.238Z"
+  },
+  {
+    "title": "Douze ans de prison pour le rebouteux fribourgeois auteur de viols et d'agressions sexuelles",
+    "added_at": "2025-07-24T21:22:48.551Z"
   }
 ]
