@@ -8226,10 +8226,7 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z",
-    "removed_at": "2025-07-18T06:00:03.838Z",
-    "duration_minutes": 81358,
-    "duration_str": "56d 11h 58m"
+    "added_at": "2025-05-22T18:01:52.008Z"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -22474,7 +22471,10 @@
   },
   {
     "title": "sciences:::De l’intérêt d’apprécier le whisky quand on étudie les climats anciens",
-    "added_at": "2025-07-24T09:15:39.770Z"
+    "added_at": "2025-07-24T09:15:39.770Z",
+    "removed_at": "2025-07-24T16:08:13.790Z",
+    "duration_minutes": 412,
+    "duration_str": "6h 52m"
   },
   {
     "title": "suisse:::Les lacs des barrages alpins peuvent aussi redouter des éboulements",
@@ -22509,5 +22509,9 @@
   {
     "title": "suisse:::A Neuchâtel, un médecin condamné après la mort d’un patient",
     "added_at": "2025-07-24T15:00:05.740Z"
+  },
+  {
+    "title": "cyber:::Les Etats-Unis lancent un plan massif pour l’IA, accroissant la pression sur une Europe qui tente de tenir le choc",
+    "added_at": "2025-07-24T15:33:15.266Z"
   }
 ]
