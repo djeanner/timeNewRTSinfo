@@ -17578,10 +17578,7 @@
   },
   {
     "title": "This article will be opened in a new browser window",
-    "added_at": "2025-07-09T19:50:57.052Z",
-    "removed_at": "2025-07-14T05:15:43.067Z",
-    "duration_minutes": 6324,
-    "duration_str": "4d 9h 24m"
+    "added_at": "2025-07-09T19:50:57.052Z"
   },
   {
     "title": "What it takes to save a life in Gaza",
@@ -22114,7 +22111,10 @@
   },
   {
     "title": "‘Did you eat today?’: Voices of Gaza speak of starvation and survival",
-    "added_at": "2025-07-24T07:30:36.780Z"
+    "added_at": "2025-07-24T07:30:36.780Z",
+    "removed_at": "2025-07-25T14:16:10.449Z",
+    "duration_minutes": 1845,
+    "duration_str": "1d 6h 45m"
   },
   {
     "title": "China’s Xi calls for pragmatism at summit with EU in uncertain times",
@@ -22490,7 +22490,10 @@
   },
   {
     "title": "France’s move to recognise Palestinian state condemned by US, Israel",
-    "added_at": "2025-07-25T03:43:44.122Z"
+    "added_at": "2025-07-25T03:43:44.122Z",
+    "removed_at": "2025-07-25T14:10:00.194Z",
+    "duration_minutes": 626,
+    "duration_str": "10h 26m"
   },
   {
     "title": "Why is Taiwan holding a ‘Great Recall’ vote?",
@@ -22579,7 +22582,10 @@
   },
   {
     "title": "Russian rocket launches Iran satellite into space: Iranian media",
-    "added_at": "2025-07-25T09:33:39.944Z"
+    "added_at": "2025-07-25T09:33:39.944Z",
+    "removed_at": "2025-07-25T14:22:20.310Z",
+    "duration_minutes": 288,
+    "duration_str": "4h 48m"
   },
   {
     "title": "Pro-Palestinian Lebanese fighter released from French prison after 40 years",
@@ -22597,7 +22603,10 @@
   },
   {
     "title": "Death toll in Thai-Cambodia clashes at least 15 as 120,000 flee border area",
-    "added_at": "2025-07-25T10:21:05.723Z"
+    "added_at": "2025-07-25T10:21:05.723Z",
+    "removed_at": "2025-07-25T13:39:07.582Z",
+    "duration_minutes": 198,
+    "duration_str": "3h 18m"
   },
   {
     "title": "Thailand urges bilateral talks with Cambodia, open to regional mediation",
@@ -22629,5 +22638,28 @@
   {
     "title": "Thailand declares martial law in 8 border districts amid Cambodia clashes",
     "added_at": "2025-07-25T13:30:50.652Z"
+  },
+  {
+    "title": "Thai-Cambodia clashes kill at least 15 as 120,000 flee border area",
+    "added_at": "2025-07-25T13:39:07.582Z",
+    "removed_at": "2025-07-25T14:20:20.170Z",
+    "duration_minutes": 41,
+    "duration_str": "41m"
+  },
+  {
+    "title": "US military says it has killed senior ISIL (ISIS) leader in Syria’s Aleppo",
+    "added_at": "2025-07-25T14:10:00.194Z"
+  },
+  {
+    "title": "How a Sri Lankan woman seeking asylum in the UK ended up in Rwanda",
+    "added_at": "2025-07-25T14:16:10.449Z"
+  },
+  {
+    "title": "Thailand-Cambodia clashes kill at least 15 as 120,000 flee border area",
+    "added_at": "2025-07-25T14:20:20.170Z"
+  },
+  {
+    "title": "France’s top court annuls arrest warrant against Syria’s al-Assad",
+    "added_at": "2025-07-25T14:22:20.310Z"
   }
 ]
