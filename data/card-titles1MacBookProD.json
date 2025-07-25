@@ -2831,7 +2831,10 @@
   },
   {
     "title": "La colère des côtes face au boom des croisières",
-    "added_at": "2025-07-23T04:24:25.952Z"
+    "added_at": "2025-07-23T04:24:25.952Z",
+    "removed_at": "2025-07-25T15:09:47.848Z",
+    "duration_minutes": 3525,
+    "duration_str": "2d 10h 45m"
   },
   {
     "title": "L'Espagne fait un premier pas pour déclassifier les archives du franquisme",
@@ -2881,7 +2884,10 @@
   },
   {
     "title": "\"En matière de néonicotinoïdes, la seule dose acceptable, c’est zéro\", affirme le chercheur Alexandre Aebi",
-    "added_at": "2025-07-23T10:11:34.572Z"
+    "added_at": "2025-07-23T10:11:34.572Z",
+    "removed_at": "2025-07-25T14:36:51.763Z",
+    "duration_minutes": 3145,
+    "duration_str": "2d 4h 25m"
   },
   {
     "title": "Sophie Bouvier Ausländer transforme le temps en œuvre d'art à l'Eglise Saint-François",
@@ -3432,5 +3438,20 @@
   {
     "title": "Les vélos électriques rapides seraient souvent en excès de vitesse dans les zones 30",
     "added_at": "2025-07-25T13:55:36.412Z"
+  },
+  {
+    "title": "Les boîtes noires de l'avion de ligne qui s'est écrasé jeudi dans l'Extrême-Orient russe ont été retrouvées",
+    "added_at": "2025-07-25T14:36:51.763Z",
+    "removed_at": "2025-07-25T14:38:57.870Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Les boîtes noires de l'avion de ligne qui s'est écrasé en Russie ont été retrouvées",
+    "added_at": "2025-07-25T14:38:57.870Z"
+  },
+  {
+    "title": "Il y a 20 ans, un ours était observé en Suisse pour la première fois depuis un siècle",
+    "added_at": "2025-07-25T15:09:47.848Z"
   }
 ]

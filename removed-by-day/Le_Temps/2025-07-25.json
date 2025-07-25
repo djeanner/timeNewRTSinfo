@@ -97,8 +97,9 @@
   {
     "title": "suisse:::Alain Ribaux, gardien secret du Creux-du-Van",
     "added_at": "2025-07-25T08:46:18.884Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-25T15:15:57.659Z",
+    "duration_minutes": 390,
+    "duration_str": "6h 30m"
   },
   {
     "title": "economie:::Fonds nazis chez Credit Suisse: la piste argentine et l’appétit américain",
@@ -109,8 +110,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – A Gaza, un quart des enfants de moins de 5 ans souffrent de malnutrition, dénonce MSF",
     "added_at": "2025-07-25T09:11:04.604Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-25T15:11:47.882Z",
+    "duration_minutes": 361,
+    "duration_str": "6h 1m"
   },
   {
     "title": "sport:::Euro 2025: «Aujourd’hui, nous avons quelque chose de plus: la conscience» – Le brillant discours de la capitaine italienne Cristiana Girelli",
@@ -163,13 +165,25 @@
   },
   {
     "title": "culture:::Paléo Festival: pourquoi il ne faut surtout pas rater le «last train»",
-    "added_at": "2025-07-25T12:51:41.820Z",
+    "added_at": "2025-07-25T12:51:32.151Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "suisse:::La justice genevoise annule une loi qui visait à transformer plus facilement les bureaux en logements",
     "added_at": "2025-07-25T14:12:04.113Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – A Gaza, «près d’une personne sur trois ne mange pas pendant des jours»",
+    "added_at": "2025-07-25T15:11:47.882Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::Après la folie des NFT, le marché de l’art numérique cherche un nouveau souffle",
+    "added_at": "2025-07-25T15:15:57.659Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
