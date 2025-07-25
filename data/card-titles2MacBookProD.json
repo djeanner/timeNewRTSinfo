@@ -17396,7 +17396,10 @@
   },
   {
     "title": "monde:::Après la suspension de sa première ministre, la Thaïlande plonge dans une nouvelle crise politique",
-    "added_at": "2025-07-02T10:24:22.526Z"
+    "added_at": "2025-07-02T10:24:22.526Z",
+    "removed_at": "2025-07-25T19:06:50.920Z",
+    "duration_minutes": 33642,
+    "duration_str": "23d 8h 42m"
   },
   {
     "title": "culture:::«Rapaces», quand un journaliste sensationnaliste mène l’enquête",
@@ -22554,10 +22557,7 @@
   },
   {
     "title": "cyber:::Les Etats-Unis lancent un plan massif pour l’IA, accroissant la pression sur une Europe qui tente de tenir le choc",
-    "added_at": "2025-07-24T15:33:15.266Z",
-    "removed_at": "2025-07-24T18:38:49.656Z",
-    "duration_minutes": 185,
-    "duration_str": "3h 5m"
+    "added_at": "2025-07-24T15:33:15.266Z"
   },
   {
     "title": "sport:::Aitana Bonmati, la meilleure joueuse du monde, a envoyé l’Espagne en finale de l’Euro contre l’Angleterre",
@@ -22706,7 +22706,10 @@
   },
   {
     "title": "economie:::Malaise palpable pendant une rencontre entre Donald Trump et Jerome Powell",
-    "added_at": "2025-07-25T07:42:25.733Z"
+    "added_at": "2025-07-25T07:42:25.733Z",
+    "removed_at": "2025-07-25T19:06:50.920Z",
+    "duration_minutes": 684,
+    "duration_str": "11h 24m"
   },
   {
     "title": "suisse:::Ma montagne et moi/Alain Ribaux, gardien secret du Creux-du-Van",
@@ -22813,7 +22816,10 @@
   },
   {
     "title": "monde:::La Thaïlande affirme que plus de 100 000 civils ont fui les affrontements avec le Cambodge",
-    "added_at": "2025-07-25T16:22:02.102Z"
+    "added_at": "2025-07-25T16:22:02.102Z",
+    "removed_at": "2025-07-25T19:06:50.920Z",
+    "duration_minutes": 164,
+    "duration_str": "2h 44m"
   },
   {
     "title": "suisse:::«Jacques Neirynck était un esprit libre comme on n’en fait plus beaucoup aujourd’hui»",
@@ -22830,5 +22836,13 @@
   {
     "title": "sport:::Si le réel c’est quand on se cogne, alors le Tour de France a une bosse au front",
     "added_at": "2025-07-25T17:58:49.358Z"
+  },
+  {
+    "title": "cyber:::Quel est l’impact environnemental d’un grand modèle de langage? Mistral AI lève (partiellement) le voile",
+    "added_at": "2025-07-25T19:06:50.920Z"
+  },
+  {
+    "title": "economie:::Patrick Artus: «Nous basculons d’un monde pétrolier au monde des métaux critiques et des terres rares»",
+    "added_at": "2025-07-25T19:06:50.920Z"
   }
 ]
