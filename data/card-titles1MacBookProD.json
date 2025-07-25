@@ -2489,7 +2489,10 @@
   },
   {
     "title": "Face aux critiques des restaurateurs, Paléo réduit le nombre de stands de nourriture",
-    "added_at": "2025-07-22T07:55:41.330Z"
+    "added_at": "2025-07-22T07:55:41.330Z",
+    "removed_at": "2025-07-25T06:01:28.510Z",
+    "duration_minutes": 4205,
+    "duration_str": "2d 22h 5m"
   },
   {
     "title": "Alexander Skarsgård déchire tout dans la série \"Murderbot, journal d'un AssaSynth\"",
@@ -2620,10 +2623,7 @@
   },
   {
     "title": "Suisse-Espagne : des milliers de fans ont déferlé en ville de Berne",
-    "added_at": "2025-07-22T13:38:22.048Z",
-    "removed_at": "2025-07-23T16:29:02.283Z",
-    "duration_minutes": 1610,
-    "duration_str": "1d 2h 50m"
+    "added_at": "2025-07-22T13:38:22.048Z"
   },
   {
     "title": "Défaite électorale pour le premier ministre japonais qui s'accroche au pouvoir",
@@ -2694,7 +2694,10 @@
   },
   {
     "title": "Les vignerons suisses affichent l'unité face à la concurrence étrangère",
-    "added_at": "2025-07-22T14:27:42.256Z"
+    "added_at": "2025-07-22T14:27:42.256Z",
+    "removed_at": "2025-07-25T06:01:28.510Z",
+    "duration_minutes": 3813,
+    "duration_str": "2d 15h 33m"
   },
   {
     "title": "De Julia Roberts à Jude Law, la Mostra de Venise dévoile une sélection 2025 riche en stars",
@@ -2855,7 +2858,10 @@
   },
   {
     "title": "Sophie Bouvier Ausländer transforme le temps en œuvre d'art à l'Eglise Saint-François",
-    "added_at": "2025-07-23T10:48:38.215Z"
+    "added_at": "2025-07-23T10:48:38.215Z",
+    "removed_at": "2025-07-25T06:07:40.445Z",
+    "duration_minutes": 2599,
+    "duration_str": "1d 19h 19m"
   },
   {
     "title": "Nouvelle solution provisoire à Arolla suite à la fermeture du camping en raison de dangers naturels",
@@ -3293,5 +3299,9 @@
   {
     "title": "L'ancien conseiller national vaudois Jacques Neirynck est décédé à 93 ans",
     "added_at": "2025-07-25T05:10:03.124Z"
+  },
+  {
+    "title": "La direction de 20 minutes et du matin.ch refuse les propositions du personnel pour réduire les licenciements",
+    "added_at": "2025-07-25T06:07:40.445Z"
   }
 ]
