@@ -2606,7 +2606,10 @@
   },
   {
     "title": "A Genève, la gratuité des transports publics va coûter plus cher que prévu",
-    "added_at": "2025-07-22T13:38:22.048Z"
+    "added_at": "2025-07-22T13:38:22.048Z",
+    "removed_at": "2025-07-25T04:04:13.446Z",
+    "duration_minutes": 3745,
+    "duration_str": "2d 14h 25m"
   },
   {
     "title": "Euro 2025: Valeureuse, la Suisse s’est inclinée 2-0 face à l'Espagne",
@@ -2838,7 +2841,10 @@
   },
   {
     "title": "Les Etats-Unis se retirent une nouvelle fois de l'Unesco",
-    "added_at": "2025-07-23T10:03:23.489Z"
+    "added_at": "2025-07-23T10:03:23.489Z",
+    "removed_at": "2025-07-25T03:29:18.195Z",
+    "duration_minutes": 2485,
+    "duration_str": "1d 17h 25m"
   },
   {
     "title": "\"En matière de néonicotinoïdes, la seule dose acceptable, c’est zéro\", affirme le chercheur Alexandre Aebi",
@@ -3269,5 +3275,9 @@
   {
     "title": "Au moins quatorze morts dans une escalade militaire entre le Cambodge et la Thaïlande",
     "added_at": "2025-07-25T01:58:43.777Z"
+  },
+  {
+    "title": "La série South Park vexe la Maison Blanche avec un épisode humiliant Donald Trump",
+    "added_at": "2025-07-25T03:29:18.195Z"
   }
 ]
