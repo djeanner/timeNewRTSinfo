@@ -2752,7 +2752,10 @@
   },
   {
     "title": "Tentative de féminicide à Fribourg, une femme grièvement blessée",
-    "added_at": "2025-07-22T16:57:55.104Z"
+    "added_at": "2025-07-22T16:57:55.104Z",
+    "removed_at": "2025-07-25T01:38:08.904Z",
+    "duration_minutes": 3400,
+    "duration_str": "2d 8h 40m"
   },
   {
     "title": "L'étoile Bételgeuse a un \"copain\" qui lui colle à l'orbite, une observation majeure",
@@ -3116,7 +3119,10 @@
   },
   {
     "title": "Au moins douze morts dans une escalade militaire entre le Cambodge et la Thaïlande",
-    "added_at": "2025-07-24T12:35:38.601Z"
+    "added_at": "2025-07-24T12:35:38.601Z",
+    "removed_at": "2025-07-25T01:58:43.777Z",
+    "duration_minutes": 803,
+    "duration_str": "13h 23m"
   },
   {
     "title": "Beau concert de Jean-Louis Aubert entre passé rock et présent pop",
@@ -3255,5 +3261,13 @@
   {
     "title": "L'attrait pour les trains de nuit concerne principalement la Suisse alémanique",
     "added_at": "2025-07-25T01:23:39.327Z"
+  },
+  {
+    "title": "Donald Trump obtient des changements chez CBS en échange d'un rachat de Paramount",
+    "added_at": "2025-07-25T01:38:08.904Z"
+  },
+  {
+    "title": "Au moins quatorze morts dans une escalade militaire entre le Cambodge et la Thaïlande",
+    "added_at": "2025-07-25T01:58:43.777Z"
   }
 ]
