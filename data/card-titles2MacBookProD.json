@@ -22240,7 +22240,10 @@
   },
   {
     "title": "cyber:::Exclusif – Le genevois Proton décide d’investir 100 millions hors de Suisse, jugeant la situation dans le pays trop risquée",
-    "added_at": "2025-07-23T14:19:17.325Z"
+    "added_at": "2025-07-23T14:19:17.325Z",
+    "removed_at": "2025-07-26T07:24:43.110Z",
+    "duration_minutes": 3905,
+    "duration_str": "2d 17h 5m"
   },
   {
     "title": "monde:::Mortiers d’artifice, l’arme des violences urbaines françaises dans le viseur du ministre Bruno Retailleau",
@@ -22847,7 +22850,10 @@
   },
   {
     "title": "sport:::Si le réel c’est quand on se cogne, alors le Tour de France a une bosse au front",
-    "added_at": "2025-07-25T17:58:49.358Z"
+    "added_at": "2025-07-25T17:58:49.358Z",
+    "removed_at": "2025-07-26T07:57:39.153Z",
+    "duration_minutes": 838,
+    "duration_str": "13h 58m"
   },
   {
     "title": "cyber:::Quel est l’impact environnemental d’un grand modèle de langage? Mistral AI lève (partiellement) le voile",
@@ -22886,5 +22892,13 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Trois morts en Ukraine et en Russie dans des frappes nocturnes",
     "added_at": "2025-07-26T06:59:54.820Z"
+  },
+  {
+    "title": "suisse:::Intervention des pompiers à Breitenbach après des explosions dans une entreprise de feux d’artifice",
+    "added_at": "2025-07-26T07:24:43.110Z"
+  },
+  {
+    "title": "suisse:::Gratuité des transports publics à Genève, une mesure «populaire» au coût encore incertain",
+    "added_at": "2025-07-26T07:57:39.153Z"
   }
 ]
