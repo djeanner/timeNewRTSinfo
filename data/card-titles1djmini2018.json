@@ -25935,7 +25935,10 @@
   },
   {
     "title": "Les paiements avec une carte Visa coûteront désormais moins cher aux commerçants suisses",
-    "added_at": "2025-07-24T12:50:25.774Z"
+    "added_at": "2025-07-24T12:50:25.774Z",
+    "removed_at": "2025-07-26T17:41:47.329Z",
+    "duration_minutes": 3171,
+    "duration_str": "2d 4h 51m"
   },
   {
     "title": "Face au risque de famine, plusieurs agences de presse demandent à Israël un libre accès à Gaza",
@@ -25981,7 +25984,10 @@
   },
   {
     "title": "Face à la famine qui menace les journalistes, des agences de presse demandent un libre accès à Gaza",
-    "added_at": "2025-07-24T14:14:08.123Z"
+    "added_at": "2025-07-24T14:14:08.123Z",
+    "removed_at": "2025-07-26T18:56:01.388Z",
+    "duration_minutes": 3161,
+    "duration_str": "2d 4h 41m"
   },
   {
     "title": "Podcast - Pourquoi tout le monde aime Pedro Pascal?",
@@ -26283,7 +26289,10 @@
   },
   {
     "title": "Le Cambodge appelle à un cessez-le-feu avec la Thaïlande",
-    "added_at": "2025-07-26T01:19:30.853Z"
+    "added_at": "2025-07-26T01:19:30.853Z",
+    "removed_at": "2025-07-26T19:13:10.223Z",
+    "duration_minutes": 1073,
+    "duration_str": "17h 53m"
   },
   {
     "title": "Pourquoi la Suisse fait partie du top 10 des pays qui se réchauffent le plus",
@@ -26291,10 +26300,7 @@
   },
   {
     "title": "Couleur d'été",
-    "added_at": "2025-07-26T06:01:47.058Z",
-    "removed_at": "2025-07-26T16:02:42.990Z",
-    "duration_minutes": 600,
-    "duration_str": "10h"
+    "added_at": "2025-07-26T06:01:47.058Z"
   },
   {
     "title": "Sport matin - La plus vieille archive répertoriée de la RTS concerne le Tour de France de 1933",
@@ -26427,7 +26433,10 @@
   },
   {
     "title": "Londres se prépare à envoyer de l'aide humanitaire à Gaza par les airs",
-    "added_at": "2025-07-26T14:00:37.024Z"
+    "added_at": "2025-07-26T14:00:37.024Z",
+    "removed_at": "2025-07-26T19:56:56.552Z",
+    "duration_minutes": 356,
+    "duration_str": "5h 56m"
   },
   {
     "title": "La malnutrition a tué plus de 600 enfants en six mois dans le nord du Nigeria",
@@ -26448,5 +26457,21 @@
   {
     "title": "Lancement d'une pétition pour \"sauver\" le projet du nouveau Bioparc à Genève",
     "added_at": "2025-07-26T17:24:29.141Z"
+  },
+  {
+    "title": "Plus de 10'000 personnes ont bravé la pluie pour la Lake Parade à Genève",
+    "added_at": "2025-07-26T17:41:47.329Z"
+  },
+  {
+    "title": "Face aux incendies de forêt, Barcelone prévoit une \"ceinture verte\" de 17'000 hectares d'ici 2050",
+    "added_at": "2025-07-26T18:56:01.388Z"
+  },
+  {
+    "title": "Le Cambodge et la Thaïlande acceptent de se rencontrer, annonce Donald Trump",
+    "added_at": "2025-07-26T19:13:10.223Z"
+  },
+  {
+    "title": "Londres et les Emirats se préparent à envoyer de l'aide humanitaire à Gaza par les airs, Israël lève son blocus",
+    "added_at": "2025-07-26T19:56:56.552Z"
   }
 ]
