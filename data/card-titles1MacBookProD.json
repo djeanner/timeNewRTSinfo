@@ -3780,7 +3780,10 @@
   },
   {
     "title": "Londres se prépare à envoyer de l'aide humanitaire à Gaza par les airs",
-    "added_at": "2025-07-26T14:00:41.511Z"
+    "added_at": "2025-07-26T14:00:41.511Z",
+    "removed_at": "2025-07-26T19:57:28.645Z",
+    "duration_minutes": 356,
+    "duration_str": "5h 56m"
   },
   {
     "title": "La malnutrition a tué plus de 600 enfants en six mois dans le nord du Nigeria",
@@ -3821,5 +3824,9 @@
   {
     "title": "Le Cambodge et la Thaïlande acceptent de se rencontrer, annonce Donald Trump",
     "added_at": "2025-07-26T19:12:08.837Z"
+  },
+  {
+    "title": "Londres et les Emirats se préparent à envoyer de l'aide humanitaire à Gaza par les airs, Israël lève son blocus",
+    "added_at": "2025-07-26T19:57:28.645Z"
   }
 ]
