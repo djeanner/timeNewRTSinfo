@@ -3259,7 +3259,10 @@
   },
   {
     "title": "Un avion avec 49 personnes à bord s'écrase dans l'est de la Russie, a priori \"pas de survivants\"",
-    "added_at": "2025-07-24T12:33:38.650Z"
+    "added_at": "2025-07-24T12:33:38.650Z",
+    "removed_at": "2025-07-26T15:56:11.910Z",
+    "duration_minutes": 3082,
+    "duration_str": "2d 3h 22m"
   },
   {
     "title": "Au moins douze morts dans une escalade militaire entre le Cambodge et la Thaïlande",
@@ -3341,7 +3344,10 @@
   },
   {
     "title": "Face au changement climatique, Lausanne s'arborise avec des espèces trouvées à l'étranger",
-    "added_at": "2025-07-24T15:59:57.935Z"
+    "added_at": "2025-07-24T15:59:57.935Z",
+    "removed_at": "2025-07-26T15:50:02.816Z",
+    "duration_minutes": 2870,
+    "duration_str": "1d 23h 50m"
   },
   {
     "title": "La Banque centrale européenne marque une pause, après un long cycle de baisse des taux",
@@ -3366,7 +3372,10 @@
   },
   {
     "title": "La Banque centrale européenne marque une pause après un long cycle de baisse des taux",
-    "added_at": "2025-07-24T16:16:36.953Z"
+    "added_at": "2025-07-24T16:16:36.953Z",
+    "removed_at": "2025-07-26T16:04:26.261Z",
+    "duration_minutes": 2867,
+    "duration_str": "1d 23h 47m"
   },
   {
     "title": "L'enquête sur la mort de l'ex-femme de Bertrand Cantat relancée après un documentaire Netflix",
@@ -3572,7 +3581,10 @@
   },
   {
     "title": "Couleur d'été",
-    "added_at": "2025-07-25T18:02:59.959Z"
+    "added_at": "2025-07-25T18:02:59.959Z",
+    "removed_at": "2025-07-26T16:02:22.019Z",
+    "duration_minutes": 1319,
+    "duration_str": "21h 59m"
   },
   {
     "title": "La légende du catch Hulk Hogan est décédée à l'âge de 71 ans",
@@ -3588,10 +3600,7 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T19:02:44.375Z",
-    "removed_at": "2025-07-26T11:30:02.908Z",
-    "duration_minutes": 987,
-    "duration_str": "16h 27m"
+    "added_at": "2025-07-25T19:02:44.375Z"
   },
   {
     "title": "En Israël, la population sensible au sort des Gazaouis refuse d'en rendre son armée responsable",
@@ -3768,5 +3777,17 @@
   {
     "title": "Les propositions du personnel de 20 minutes et du matin.ch pour réduire les licenciements ont toutes été refusées",
     "added_at": "2025-07-26T15:04:39.752Z"
+  },
+  {
+    "title": "Donald Trump en Ecosse pour un séjour mêlant golf, diplomatie et commerce",
+    "added_at": "2025-07-26T15:50:02.816Z"
+  },
+  {
+    "title": "Le personnel de la NASA va fondre de 20% en raison de la politique de dégraissage de Donald Trump",
+    "added_at": "2025-07-26T15:56:11.910Z"
+  },
+  {
+    "title": "Le combat de reines du 10 août à Bonatchiesse annulé à cause de la dermatose",
+    "added_at": "2025-07-26T16:04:26.261Z"
   }
 ]
