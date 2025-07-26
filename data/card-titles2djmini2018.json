@@ -19355,7 +19355,10 @@
   },
   {
     "title": "suisse:::La justice genevoise annule une loi qui visait à transformer plus facilement les bureaux en logements",
-    "added_at": "2025-07-25T14:11:41.419Z"
+    "added_at": "2025-07-25T14:11:41.419Z",
+    "removed_at": "2025-07-26T20:00:49.864Z",
+    "duration_minutes": 1789,
+    "duration_str": "1d 5h 49m"
   },
   {
     "title": "economie:::Sous l’effet des droits de douane, l’industrie automobile ne parvient pas à freiner sa chute",
@@ -19534,6 +19537,17 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël annonce la reprise des largages d’aide humanitaire sur Gaza",
-    "added_at": "2025-07-26T19:53:05.363Z"
+    "added_at": "2025-07-26T19:53:05.363Z",
+    "removed_at": "2025-07-26T20:08:31.334Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "culture:::Le chant pour l’Arménie de Yahia Belaskri",
+    "added_at": "2025-07-26T20:00:49.864Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Israël annonce la reprise des largages d’aide humanitaire sur Gaza",
+    "added_at": "2025-07-26T20:08:31.334Z"
   }
 ]
