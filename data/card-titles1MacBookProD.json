@@ -3662,7 +3662,10 @@
   },
   {
     "title": "Tour de France: l'australien Ben O'Connor remporte la 18ème étape au col de la Loze",
-    "added_at": "2025-07-26T07:02:01.284Z"
+    "added_at": "2025-07-26T07:02:01.284Z",
+    "removed_at": "2025-07-26T17:04:10.292Z",
+    "duration_minutes": 602,
+    "duration_str": "10h 2m"
   },
   {
     "title": "Des frappes nocturnes en Russie et en Ukraine tuent au moins trois personnes",
@@ -3789,5 +3792,9 @@
   {
     "title": "Le combat de reines du 10 août à Bonatchiesse annulé à cause de la dermatose",
     "added_at": "2025-07-26T16:04:26.261Z"
+  },
+  {
+    "title": "Proton gèle ses investissements en Suisse: interview de Samuel Bendahan",
+    "added_at": "2025-07-26T17:04:10.292Z"
   }
 ]
