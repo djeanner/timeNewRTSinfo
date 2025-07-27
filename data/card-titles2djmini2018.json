@@ -19751,7 +19751,10 @@
   },
   {
     "title": "sport:::En direct, Euro 2025 – L’Angleterre s’impose aux tirs au but face à l’Espagne et remporte son second Euro consécutif",
-    "added_at": "2025-07-27T18:50:06.168Z"
+    "added_at": "2025-07-27T18:50:06.168Z",
+    "removed_at": "2025-07-27T20:00:35.593Z",
+    "duration_minutes": 70,
+    "duration_str": "1h 10m"
   },
   {
     "title": "sport:::A Bâle, l’Angleterre est championne d’Europe au bout du suspense",
@@ -19760,5 +19763,9 @@
   {
     "title": "culture:::Dans «Jimmy Freeman», Joy Majdalani interroge le regard de Robert Mapplethorpe et esquisse son propre autoportrait",
     "added_at": "2025-07-27T19:26:14.783Z"
+  },
+  {
+    "title": "sport:::Euro 2025 – L’Angleterre s’impose aux tirs au but face à l’Espagne et remporte son second Euro consécutif",
+    "added_at": "2025-07-27T20:00:35.593Z"
   }
 ]
