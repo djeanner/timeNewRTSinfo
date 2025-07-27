@@ -96,8 +96,9 @@
   {
     "title": "Un an après les Jeux, la rue Lepic redevient le temple parisien du vélo pour l’épilogue du Tour de France",
     "added_at": "2025-07-27T04:06:06.138Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-27T07:25:56.521Z",
+    "duration_minutes": 200,
+    "duration_str": "3h 20m"
   },
   {
     "title": "Henri Matisse et ses héritiers, la fin d’une manne financière",
@@ -245,15 +246,16 @@
   {
     "title": "Une nouvelle version « militarisée » très assumée de la journée de défense et de citoyenneté dès la rentrée pour tous les jeunes de 16 à 25 ans",
     "added_at": "2025-07-27T07:34:39.803Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-27T11:00:51.100Z",
+    "duration_minutes": 206,
+    "duration_str": "3h 26m"
   },
   {
     "title": "Zaho de Sagazan interpelle Emmanuel Macron sur Gaza : « N’utilisez pas les mots des artistes si vous n’agissez pas pour les vies qu’ils défendent »",
     "added_at": "2025-07-27T07:59:21.093Z",
-    "removed_at": "2025-07-27T09:50:46.915Z",
-    "duration_minutes": 111,
-    "duration_str": "1h 51m"
+    "removed_at": "2025-07-27T10:54:39.640Z",
+    "duration_minutes": 175,
+    "duration_str": "2h 55m"
   },
   {
     "title": "Journée de défense et de citoyenneté : une nouvelle version « militarisée » très assumée dès la rentrée pour tous les jeunes de 16 à 25 ans",
@@ -264,9 +266,9 @@
   {
     "title": "Mattéo Vercher, 124ᵉ du Tour de France 2025 : « Chaque jour, on se demande pourquoi on fait ça. C’est tellement ingrat, le cyclisme… »",
     "added_at": "2025-07-27T08:05:32.433Z",
-    "removed_at": "2025-07-27T09:50:46.915Z",
-    "duration_minutes": 105,
-    "duration_str": "1h 45m"
+    "removed_at": "2025-07-27T10:54:39.640Z",
+    "duration_minutes": 169,
+    "duration_str": "2h 49m"
   },
   {
     "title": "La radio étanche de Marc Berthier",
@@ -289,13 +291,74 @@
   {
     "title": "L’armée israélienne annonce une « pause tactique » dans ses opérations militaires, en journée, à Al-Mawasi, Deir Al-Balah et dans la ville de Gaza",
     "added_at": "2025-07-27T09:19:53.911Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-27T10:44:22.781Z",
+    "duration_minutes": 84,
+    "duration_str": "1h 24m"
   },
   {
     "title": "La prise d’un nouveau village annoncée par l’armée russe, 153 combats entre les deux armées samedi... Le point sur la situation en Ukraine",
     "added_at": "2025-07-27T09:48:41.147Z",
-    "removed_at": "2025-07-27T09:50:46.915Z",
+    "removed_at": "2025-07-27T10:54:39.640Z",
+    "duration_minutes": 66,
+    "duration_str": "1h 6m"
+  },
+  {
+    "title": "Les incendies continuent de faire rage en Grèce, qui attend l’aide de ses voisins",
+    "added_at": "2025-07-27T10:11:25.418Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Tour de France : le fabuleux destin de la rue Lepic, à Montmartre, qui redevient le temple parisien du vélo un an après les JO",
+    "added_at": "2025-07-27T10:13:29.301Z",
+    "removed_at": "2025-07-27T10:50:33.470Z",
+    "duration_minutes": 37,
+    "duration_str": "37m"
+  },
+  {
+    "title": "En direct : 133 personnes, dont 87 enfants, sont mortes de malnutrition à Gaza depuis le début de la guerre, selon le ministère de la santé de l’enclave",
+    "added_at": "2025-07-27T10:44:22.781Z",
+    "removed_at": "2025-07-27T10:48:29.345Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "En direct : 133 personnes, dont 87 enfants, sont mortes de malnutrition à Gaza depuis le début de la guerre",
+    "added_at": "2025-07-27T10:48:29.345Z",
+    "removed_at": "2025-07-27T10:50:33.470Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Le Handala », navire de militants propalestiniens intercepté par l’armée israélienne, est arrivé en Israël",
+    "added_at": "2025-07-27T10:48:29.345Z",
+    "removed_at": "2025-07-27T10:54:39.640Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
+  },
+  {
+    "title": "Un an après Paris 2024 : les Jeux paralympiques ont changé la perception du handicap, mais pas les conditions de vie des personnes handicapées",
+    "added_at": "2025-07-27T10:48:29.345Z",
+    "removed_at": "2025-07-27T10:50:33.470Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Tour de France : le fabuleux destin de la rue Lepic qui redevient le temple parisien du vélo un an après les JO",
+    "added_at": "2025-07-27T10:50:33.470Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Au moins 133 personnes, dont 87 enfants, sont mortes de malnutrition à Gaza depuis le début de la guerre, selon le ministère de la santé de l’enclave",
+    "added_at": "2025-07-27T10:50:33.470Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Les Jeux paralympiques ont changé la perception du handicap, mais pas les conditions de vie des personnes handicapées",
+    "added_at": "2025-07-27T10:52:39.502Z",
+    "removed_at": "2025-07-27T10:54:39.640Z",
     "duration_minutes": 2,
     "duration_str": "2m"
   }
