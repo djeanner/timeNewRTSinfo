@@ -3469,7 +3469,10 @@
   },
   {
     "title": "Déception en Suisse romande face au manque de trains de nuit vers le sud de l'Europe",
-    "added_at": "2025-07-24T20:38:18.390Z"
+    "added_at": "2025-07-24T20:38:18.390Z",
+    "removed_at": "2025-07-27T09:28:04.944Z",
+    "duration_minutes": 3649,
+    "duration_str": "2d 12h 49m"
   },
   {
     "title": "La France va reconnaître l'Etat de Palestine en septembre devant l'ONU, annonce Emmanuel Macron",
@@ -4009,5 +4012,9 @@
   {
     "title": "Le suivi de la 48e édition du Paléo Festival",
     "added_at": "2025-07-27T08:42:43.208Z"
+  },
+  {
+    "title": "En Suisse, les zones humides s'assèchent malgré leur protection",
+    "added_at": "2025-07-27T09:28:04.944Z"
   }
 ]
