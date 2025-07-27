@@ -23128,7 +23128,10 @@
   },
   {
     "title": "suisse:::Les Gastlosen, là où Nicole Niquille dansait",
-    "added_at": "2025-07-27T10:36:07.417Z"
+    "added_at": "2025-07-27T10:36:07.417Z",
+    "removed_at": "2025-07-27T19:24:58.775Z",
+    "duration_minutes": 528,
+    "duration_str": "8h 48m"
   },
   {
     "title": "culture:::Sandra Gomes: «Les médias reproduisent des stéréotypes qui nuisent à l’image du rap»",
@@ -23213,10 +23216,21 @@
   },
   {
     "title": "sport:::En direct, Euro 2025 – L’Angleterre s’impose aux tirs au but face à l’Espagne et remporte son second Euro consécutif",
-    "added_at": "2025-07-27T18:49:50.160Z"
+    "added_at": "2025-07-27T18:49:50.160Z",
+    "removed_at": "2025-07-27T20:00:00.780Z",
+    "duration_minutes": 70,
+    "duration_str": "1h 10m"
   },
   {
     "title": "sport:::A Bâle, l’Angleterre est championne d’Europe au bout du suspense",
     "added_at": "2025-07-27T19:06:17.294Z"
+  },
+  {
+    "title": "culture:::Dans «Jimmy Freeman», Joy Majdalani interroge le regard de Robert Mapplethorpe et esquisse son propre autoportrait",
+    "added_at": "2025-07-27T19:24:58.775Z"
+  },
+  {
+    "title": "sport:::Euro 2025 – L’Angleterre s’impose aux tirs au but face à l’Espagne et remporte son second Euro consécutif",
+    "added_at": "2025-07-27T20:00:00.780Z"
   }
 ]
