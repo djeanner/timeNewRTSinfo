@@ -14,8 +14,9 @@
   {
     "title": "Passenger train derails in Germany, killing three and injuring dozens",
     "added_at": "2025-07-28T03:08:55.016Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-28T10:25:04.795Z",
+    "duration_minutes": 436,
+    "duration_str": "7h 16m"
   },
   {
     "title": "North Korea says it has ‘no interest’ in dialogue with South Korea",
@@ -40,7 +41,7 @@
   {
     "title": "Israeli strikes kill 63 in Gaza despite ‘pauses’, as hunger crisis deepens",
     "added_at": "2025-07-28T04:15:22.079Z",
-    "removed_at": "2025-07-28T08:04:29.385Z",
+    "removed_at": "2025-07-28T08:03:59.182Z",
     "duration_minutes": 229,
     "duration_str": "3h 49m"
   },
@@ -73,9 +74,9 @@
   {
     "title": "Thailand, Cambodia hold ceasefire talks in Malaysia as clashes continue",
     "added_at": "2025-07-28T07:27:45.920Z",
-    "removed_at": "2025-07-28T08:04:29.385Z",
-    "duration_minutes": 37,
-    "duration_str": "37m"
+    "removed_at": "2025-07-28T08:03:59.182Z",
+    "duration_minutes": 36,
+    "duration_str": "36m"
   },
   {
     "title": "Heavy rains kill four in China as flood warnings issued in 11 provinces",
@@ -86,12 +87,13 @@
   {
     "title": "Another baby starves to death in Gaza as Israel fires on more aid seekers",
     "added_at": "2025-07-28T07:43:57.462Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-28T10:35:20.455Z",
+    "duration_minutes": 171,
+    "duration_str": "2h 51m"
   },
   {
     "title": "Thailand, Cambodia hold ceasefire talks in Malaysia after deadly clashes",
-    "added_at": "2025-07-28T08:04:29.385Z",
+    "added_at": "2025-07-28T08:03:59.182Z",
     "removed_at": "2025-07-28T08:56:07.927Z",
     "duration_minutes": 52,
     "duration_str": "52m"
@@ -105,13 +107,39 @@
   },
   {
     "title": "Five people killed in shooting at market in Thailand’s Bangkok",
-    "added_at": "2025-07-28T09:20:59.283Z",
+    "added_at": "2025-07-28T09:20:14.554Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Thailand, Cambodia agree to ‘immediate, unconditional’ ceasefire: Malaysia",
     "added_at": "2025-07-28T10:12:35.120Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "EU and US announce deal: Here’s what you need to know",
+    "added_at": "2025-07-28T10:25:04.795Z",
+    "removed_at": "2025-07-28T10:41:30.772Z",
+    "duration_minutes": 16,
+    "duration_str": "16m"
+  },
+  {
+    "title": "Aid Israel allowing into Gaza still a ‘drop in the ocean’, UN says",
+    "added_at": "2025-07-28T10:35:20.455Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "EU and US announce trade deal: Here’s what you need to know",
+    "added_at": "2025-07-28T10:41:30.772Z",
+    "removed_at": "2025-07-28T11:04:13.073Z",
+    "duration_minutes": 23,
+    "duration_str": "23m"
+  },
+  {
+    "title": "EU and US announce trade deal: What you need to know",
+    "added_at": "2025-07-28T11:04:13.073Z",
     "duration_minutes": 0,
     "duration_str": ""
   }

@@ -23395,7 +23395,10 @@
   },
   {
     "title": "Passenger train derails in Germany, killing three and injuring dozens",
-    "added_at": "2025-07-28T03:09:22.185Z"
+    "added_at": "2025-07-28T03:09:22.185Z",
+    "removed_at": "2025-07-28T10:25:04.795Z",
+    "duration_minutes": 435,
+    "duration_str": "7h 15m"
   },
   {
     "title": "North Korea says it has ‘no interest’ in dialogue with South Korea",
@@ -23457,7 +23460,10 @@
   },
   {
     "title": "Another baby starves to death in Gaza as Israel fires on more aid seekers",
-    "added_at": "2025-07-28T07:43:57.462Z"
+    "added_at": "2025-07-28T07:43:57.462Z",
+    "removed_at": "2025-07-28T10:35:20.455Z",
+    "duration_minutes": 171,
+    "duration_str": "2h 51m"
   },
   {
     "title": "Thailand, Cambodia hold ceasefire talks in Malaysia after deadly clashes",
@@ -23480,5 +23486,27 @@
   {
     "title": "Thailand, Cambodia agree to ‘immediate, unconditional’ ceasefire: Malaysia",
     "added_at": "2025-07-28T10:12:35.120Z"
+  },
+  {
+    "title": "EU and US announce deal: Here’s what you need to know",
+    "added_at": "2025-07-28T10:25:04.795Z",
+    "removed_at": "2025-07-28T10:41:30.772Z",
+    "duration_minutes": 16,
+    "duration_str": "16m"
+  },
+  {
+    "title": "Aid Israel allowing into Gaza still a ‘drop in the ocean’, UN says",
+    "added_at": "2025-07-28T10:35:20.455Z"
+  },
+  {
+    "title": "EU and US announce trade deal: Here’s what you need to know",
+    "added_at": "2025-07-28T10:41:30.772Z",
+    "removed_at": "2025-07-28T11:04:13.073Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
+  },
+  {
+    "title": "EU and US announce trade deal: What you need to know",
+    "added_at": "2025-07-28T11:04:13.073Z"
   }
 ]
