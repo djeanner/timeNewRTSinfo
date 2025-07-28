@@ -3716,7 +3716,10 @@
   },
   {
     "title": "La Finlande bat son record de chaleur avec 14 jours à plus de 30°C",
-    "added_at": "2025-07-25T18:40:09.752Z"
+    "added_at": "2025-07-25T18:40:09.752Z",
+    "removed_at": "2025-07-28T04:29:47.040Z",
+    "duration_minutes": 3469,
+    "duration_str": "2d 9h 49m"
   },
   {
     "title": "19h30 signé",
@@ -4144,10 +4147,21 @@
   },
   {
     "title": "Un déraillement de train en Allemagne fait au moins trois morts et plusieurs blessés",
-    "added_at": "2025-07-27T21:01:57.257Z"
+    "added_at": "2025-07-27T21:01:57.257Z",
+    "removed_at": "2025-07-28T04:38:04.701Z",
+    "duration_minutes": 456,
+    "duration_str": "7h 36m"
   },
   {
     "title": "Hécatombe de 83 morts cet été dans les Alpes italiennes",
     "added_at": "2025-07-27T23:51:16.778Z"
+  },
+  {
+    "title": "Autoproclamé \"roi de Suisse\", il agace les élus avec ses pratiques foncières",
+    "added_at": "2025-07-28T04:29:47.040Z"
+  },
+  {
+    "title": "Un déraillement de train en Allemagne fait au moins trois morts et de nombreux blessés",
+    "added_at": "2025-07-28T04:38:04.701Z"
   }
 ]
