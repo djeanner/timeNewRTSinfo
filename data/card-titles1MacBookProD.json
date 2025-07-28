@@ -3673,7 +3673,10 @@
   },
   {
     "title": "Les boîtes noires de l'avion de ligne qui s'est écrasé en Russie ont été retrouvées",
-    "added_at": "2025-07-25T14:38:57.870Z"
+    "added_at": "2025-07-25T14:38:57.870Z",
+    "removed_at": "2025-07-27T23:51:16.778Z",
+    "duration_minutes": 3432,
+    "duration_str": "2d 9h 12m"
   },
   {
     "title": "Il y a 20 ans, un ours était observé en Suisse pour la première fois depuis un siècle",
@@ -4142,5 +4145,9 @@
   {
     "title": "Un déraillement de train en Allemagne fait au moins trois morts et plusieurs blessés",
     "added_at": "2025-07-27T21:01:57.257Z"
+  },
+  {
+    "title": "Hécatombe de 83 morts cet été dans les Alpes italiennes",
+    "added_at": "2025-07-27T23:51:16.778Z"
   }
 ]
