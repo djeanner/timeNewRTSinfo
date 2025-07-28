@@ -3737,7 +3737,10 @@
   },
   {
     "title": "La justice genevoise annule une loi contre la pénurie de logements",
-    "added_at": "2025-07-25T19:39:55.069Z"
+    "added_at": "2025-07-25T19:39:55.069Z",
+    "removed_at": "2025-07-28T07:37:46.598Z",
+    "duration_minutes": 3597,
+    "duration_str": "2d 11h 57m"
   },
   {
     "title": "Les forêts valaisannes menacées par les séquelles des chutes de neige d'avril",
@@ -4177,5 +4180,9 @@
   {
     "title": "L'ONU se penche sur la question palestinienne et l'avenir menacé de la solution à deux Etats",
     "added_at": "2025-07-28T07:04:40.229Z"
+  },
+  {
+    "title": "Deux millions de signatures en France contre un pesticide controversé",
+    "added_at": "2025-07-28T07:37:46.598Z"
   }
 ]
