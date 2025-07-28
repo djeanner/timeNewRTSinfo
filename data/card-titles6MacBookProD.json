@@ -23599,7 +23599,10 @@
   },
   {
     "title": "UN report reveals global hunger falls, but food insecurity rises in Africa",
-    "added_at": "2025-07-28T17:47:41.005Z"
+    "added_at": "2025-07-28T17:47:41.005Z",
+    "removed_at": "2025-07-28T21:57:56.845Z",
+    "duration_minutes": 250,
+    "duration_str": "4h 10m"
   },
   {
     "title": "At least 17 killed after gunmen storm small-town bar in Ecuador",
@@ -23627,5 +23630,9 @@
   {
     "title": "Aid arrives in Syria’s Suwayda as UN says humanitarian situation critical",
     "added_at": "2025-07-28T19:53:52.571Z"
+  },
+  {
+    "title": "ISIL claims responsibility for deadly church attack in eastern DR Congo",
+    "added_at": "2025-07-28T21:57:56.845Z"
   }
 ]
