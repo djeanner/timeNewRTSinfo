@@ -3835,7 +3835,10 @@
   },
   {
     "title": "Des rangers sensibilisent les randonneurs aux bonnes pratiques en pleine nature",
-    "added_at": "2025-07-26T07:24:43.071Z"
+    "added_at": "2025-07-26T07:24:43.071Z",
+    "removed_at": "2025-07-28T13:55:50.646Z",
+    "duration_minutes": 3271,
+    "duration_str": "2d 6h 31m"
   },
   {
     "title": "Paléo a vibré sur les textes intimistes et les airs de french pop de Clara Luciani",
@@ -3868,11 +3871,17 @@
   },
   {
     "title": "Une attaque \"terroriste\" fait au moins cinq morts à Zahedan en Iran",
-    "added_at": "2025-07-26T10:01:27.165Z"
+    "added_at": "2025-07-26T10:01:27.165Z",
+    "removed_at": "2025-07-28T13:28:57.245Z",
+    "duration_minutes": 3087,
+    "duration_str": "2d 3h 27m"
   },
   {
     "title": "Une entreprise de feux d'artifice menace de s'effondrer à Breitenbach (SO) après des explosions",
-    "added_at": "2025-07-26T10:15:50.181Z"
+    "added_at": "2025-07-26T10:15:50.181Z",
+    "removed_at": "2025-07-28T13:39:15.914Z",
+    "duration_minutes": 3083,
+    "duration_str": "2d 3h 23m"
   },
   {
     "title": "Santa: \"Je veux être à la hauteur de ces cœurs suisses qui sont devant moi\"",
@@ -4293,5 +4302,24 @@
   {
     "title": "Noè Ponti se pare d'argent sur 50m papillon!",
     "added_at": "2025-07-28T12:14:34.808Z"
+  },
+  {
+    "title": "Les exportations pharma suisses touchées par l'accord commercial entre les Etats-Unis et l'UE",
+    "added_at": "2025-07-28T13:28:57.245Z",
+    "removed_at": "2025-07-28T13:31:03.776Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Les exportations pharmaceutiques suisses touchées par l'accord commercial entre les Etats-Unis et l'UE",
+    "added_at": "2025-07-28T13:31:03.776Z"
+  },
+  {
+    "title": "Donald Trump lance un nouvel ultimatum de \"10 ou 12 jours\" à Vladimir Poutine pour arrêter la guerre en Ukraine",
+    "added_at": "2025-07-28T13:39:15.914Z"
+  },
+  {
+    "title": "Le risque d'une destruction d'ampleur augmente sur le village grison de Brienz",
+    "added_at": "2025-07-28T13:55:50.646Z"
   }
 ]
