@@ -3752,7 +3752,10 @@
   },
   {
     "title": "La justice française annule un mandat d'arrêt contre l'ex-président syrien Bachar al-Assad",
-    "added_at": "2025-07-25T20:06:50.725Z"
+    "added_at": "2025-07-25T20:06:50.725Z",
+    "removed_at": "2025-07-28T07:04:40.229Z",
+    "duration_minutes": 3537,
+    "duration_str": "2d 10h 57m"
   },
   {
     "title": "Ouverture du procès de l'ex-président Joseph Kabila en RDC",
@@ -4170,5 +4173,9 @@
   {
     "title": "La canicule qui frappe l'Iran provoque des coupures d'eau et d'électricité",
     "added_at": "2025-07-28T06:21:17.458Z"
+  },
+  {
+    "title": "L'ONU se penche sur la question palestinienne et l'avenir menacé de la solution à deux Etats",
+    "added_at": "2025-07-28T07:04:40.229Z"
   }
 ]
