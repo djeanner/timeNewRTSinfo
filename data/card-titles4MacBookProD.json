@@ -51521,7 +51521,10 @@
   },
   {
     "title": "Passenger train derails in Germany killing at least 3 people",
-    "added_at": "2025-07-27T19:53:49.299Z"
+    "added_at": "2025-07-27T19:53:49.299Z",
+    "removed_at": "2025-07-28T03:42:21.344Z",
+    "duration_minutes": 468,
+    "duration_str": "7h 48m"
   },
   {
     "title": "Tom Lehrer, song satirist and mathematician, dies at 97",
@@ -51606,7 +51609,10 @@
   },
   {
     "title": "Dozens killed and over 150,000 displaced in Thai-Cambodian tensions",
-    "added_at": "2025-07-28T00:16:07.439Z"
+    "added_at": "2025-07-28T00:16:07.439Z",
+    "removed_at": "2025-07-28T03:09:22.121Z",
+    "duration_minutes": 173,
+    "duration_str": "2h 53m"
   },
   {
     "title": "Smerconish: Here’s what Trump should have said",
@@ -51627,5 +51633,13 @@
   {
     "title": "Trump hails EU trade agreement as ‘biggest deal ever made’",
     "added_at": "2025-07-28T02:28:06.276Z"
+  },
+  {
+    "title": "Russia starts direct commercial flights between Moscow and Pyongyang",
+    "added_at": "2025-07-28T03:09:22.121Z"
+  },
+  {
+    "title": "Passenger train derails in Germany, killing at least 3 people",
+    "added_at": "2025-07-28T03:42:21.344Z"
   }
 ]

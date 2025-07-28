@@ -23293,7 +23293,10 @@
   },
   {
     "title": "At least 38 killed in church attack in eastern DR Congo",
-    "added_at": "2025-07-27T12:56:35.930Z"
+    "added_at": "2025-07-27T12:56:35.930Z",
+    "removed_at": "2025-07-28T03:09:22.185Z",
+    "duration_minutes": 852,
+    "duration_str": "14h 12m"
   },
   {
     "title": "‘Apocalypse’: Turkiye wildfires reach key northwest city as hundreds flee",
@@ -23368,5 +23371,9 @@
   {
     "title": "US and EU agree on 15 percent tariffs, averting transatlantic trade war",
     "added_at": "2025-07-28T01:46:47.050Z"
+  },
+  {
+    "title": "Passenger train derails in Germany, killing three and injuring dozens",
+    "added_at": "2025-07-28T03:09:22.185Z"
   }
 ]
