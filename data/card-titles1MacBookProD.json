@@ -4115,7 +4115,10 @@
   },
   {
     "title": "Au moins 11 personnes poignardées dans un supermarché aux Etats-Unis",
-    "added_at": "2025-07-27T06:26:37.280Z"
+    "added_at": "2025-07-27T06:26:37.280Z",
+    "removed_at": "2025-07-29T15:16:19.854Z",
+    "duration_minutes": 3409,
+    "duration_str": "2d 8h 49m"
   },
   {
     "title": "Au sud de Lisbonne, le paradis naturel cède la place aux hôtels de luxe",
@@ -4615,5 +4618,9 @@
   {
     "title": "Le pape Léon XIV alerte sur les dangers de l'IA pour la dignité humaine",
     "added_at": "2025-07-29T14:53:25.650Z"
+  },
+  {
+    "title": "La vaccination obligatoire des bovins valaisans contre la dermatose nodulaire est bientôt terminée",
+    "added_at": "2025-07-29T15:16:19.854Z"
   }
 ]
