@@ -4072,7 +4072,10 @@
   },
   {
     "title": "Un record de 50,5°C mesuré dans le sud-est de la Turquie",
-    "added_at": "2025-07-26T21:03:30.828Z"
+    "added_at": "2025-07-26T21:03:30.828Z",
+    "removed_at": "2025-07-29T14:53:25.650Z",
+    "duration_minutes": 3949,
+    "duration_str": "2d 17h 49m"
   },
   {
     "title": "Le nombre de cas de \"maladie du renard\" augmente en Suisse, selon une étude publiée dans The Lancet",
@@ -4170,7 +4173,10 @@
   },
   {
     "title": "Le suivi de la 48e édition du Paléo Festival",
-    "added_at": "2025-07-27T08:42:43.208Z"
+    "added_at": "2025-07-27T08:42:43.208Z",
+    "removed_at": "2025-07-29T14:53:25.650Z",
+    "duration_minutes": 3250,
+    "duration_str": "2d 6h 10m"
   },
   {
     "title": "En Suisse, les zones humides s'assèchent malgré leur protection",
@@ -4594,5 +4600,20 @@
   {
     "title": "\"L'affaire du Mont-Blanc\" fait revivre une tragédie de l'histoire de l'alpinisme",
     "added_at": "2025-07-29T14:09:56.892Z"
+  },
+  {
+    "title": "\"Irréaliste\", de nombreux experts soulignent les incohérences de l'accord énergétique entre l'UE et Washington",
+    "added_at": "2025-07-29T14:47:14.527Z",
+    "removed_at": "2025-07-29T14:49:19.139Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "De nombreux experts jugent \"irréaliste\" l''accord énergétique entre l'Union européenne et les Etats-Unis",
+    "added_at": "2025-07-29T14:53:25.650Z"
+  },
+  {
+    "title": "Le pape Léon XIV alerte sur les dangers de l'IA pour la dignité humaine",
+    "added_at": "2025-07-29T14:53:25.650Z"
   }
 ]
