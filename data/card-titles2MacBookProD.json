@@ -23540,7 +23540,10 @@
   },
   {
     "title": "monde:::De fortes pluies à Pékin font 30 morts et provoquent plus de 80 000 évacuations",
-    "added_at": "2025-07-29T04:26:31.125Z"
+    "added_at": "2025-07-29T04:26:31.125Z",
+    "removed_at": "2025-07-29T09:45:05.849Z",
+    "duration_minutes": 318,
+    "duration_str": "5h 18m"
   },
   {
     "title": "sciences:::La Suisse sous pression alors qu’elle accueille des négociations internationales contre la pollution au plastique",
@@ -23572,5 +23575,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Le «pire scénario de famine est en cours» à Gaza, selon l’IPC",
     "added_at": "2025-07-29T08:57:32.762Z"
+  },
+  {
+    "title": "culture:::Luc Besson, qui n’a décidément pas peur du ridicule, massacre le «Dracula» de Bram Stoker",
+    "added_at": "2025-07-29T09:45:05.849Z"
   }
 ]
