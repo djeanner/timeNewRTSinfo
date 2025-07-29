@@ -23522,7 +23522,10 @@
   },
   {
     "title": "monde:::A New York, un tireur tue au moins quatre personnes dans un gratte-ciel",
-    "added_at": "2025-07-29T03:34:52.118Z"
+    "added_at": "2025-07-29T03:34:52.118Z",
+    "removed_at": "2025-07-29T08:36:52.346Z",
+    "duration_minutes": 302,
+    "duration_str": "5h 2m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Une attaque de drones ukrainiens fait un mort en Russie",
@@ -23553,10 +23556,21 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les Pays-Bas interdisent l’entrée sur leur territoire à deux ministres israéliens",
-    "added_at": "2025-07-29T06:26:29.729Z"
+    "added_at": "2025-07-29T06:26:29.729Z",
+    "removed_at": "2025-07-29T08:57:32.762Z",
+    "duration_minutes": 151,
+    "duration_str": "2h 31m"
   },
   {
     "title": "culture:::«Le Fantôme de l’Opéra»: une première grande adaptation au cinéma maudite et fabuleuse",
     "added_at": "2025-07-29T07:07:50.743Z"
+  },
+  {
+    "title": "culture:::«Trilogie d’Oslo: Désir», l’amour à la norvégienne",
+    "added_at": "2025-07-29T08:36:52.346Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le «pire scénario de famine est en cours» à Gaza, selon l’IPC",
+    "added_at": "2025-07-29T08:57:32.762Z"
   }
 ]
