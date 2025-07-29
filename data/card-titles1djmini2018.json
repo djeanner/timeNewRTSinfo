@@ -26405,7 +26405,10 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T21:30:25.517Z"
+    "added_at": "2025-07-25T21:30:25.517Z",
+    "removed_at": "2025-07-29T20:03:23.827Z",
+    "duration_minutes": 5672,
+    "duration_str": "3d 22h 32m"
   },
   {
     "title": "La légende du catch Hulk Hogan est décédée à l'âge de 71 ans",
@@ -26731,7 +26734,10 @@
   },
   {
     "title": "Des soldats israéliens prennent le contrôle d'un bateau d'aide pour Gaza",
-    "added_at": "2025-07-27T00:40:31.491Z"
+    "added_at": "2025-07-27T00:40:31.491Z",
+    "removed_at": "2025-07-29T18:18:46.268Z",
+    "duration_minutes": 3938,
+    "duration_str": "2d 17h 38m"
   },
   {
     "title": "Les nationalistes écossais menacent Keir Starmer sur la reconnaissance de la Palestine",
@@ -26756,7 +26762,10 @@
   },
   {
     "title": "Toboggans et luges d'été: des attractions qui portent une part de risque",
-    "added_at": "2025-07-27T05:39:25.577Z"
+    "added_at": "2025-07-27T05:39:25.577Z",
+    "removed_at": "2025-07-29T17:52:05.363Z",
+    "duration_minutes": 3612,
+    "duration_str": "2d 12h 12m"
   },
   {
     "title": "Au moins 11 personnes poignardées dans un supermarché aux Etats-Unis",
@@ -26767,7 +26776,10 @@
   },
   {
     "title": "Au sud de Lisbonne, le paradis naturel cède la place aux hôtels de luxe",
-    "added_at": "2025-07-27T06:40:16.502Z"
+    "added_at": "2025-07-27T06:40:16.502Z",
+    "removed_at": "2025-07-29T18:51:05.765Z",
+    "duration_minutes": 3610,
+    "duration_str": "2d 12h 10m"
   },
   {
     "title": "RTSreligion - Notre-Dame de Paris (5/5): la renaissance d’un symbole nationale",
@@ -26834,7 +26846,10 @@
   },
   {
     "title": "En Suisse, les zones humides s'assèchent malgré leur protection",
-    "added_at": "2025-07-27T09:29:42.421Z"
+    "added_at": "2025-07-27T09:29:42.421Z",
+    "removed_at": "2025-07-29T18:39:40.005Z",
+    "duration_minutes": 3429,
+    "duration_str": "2d 9h 9m"
   },
   {
     "title": "Trois ans d'enfer en Russie: un soldat ukrainien raconte l'horreur de sa captivité",
@@ -26955,14 +26970,14 @@
   },
   {
     "title": "Couleurs d'été - 2025",
-    "added_at": "2025-07-28T08:55:22.363Z",
-    "removed_at": "2025-07-29T07:23:41.806Z",
-    "duration_minutes": 1348,
-    "duration_str": "22h 28m"
+    "added_at": "2025-07-28T08:55:22.363Z"
   },
   {
     "title": "Coup d'envoi à Bâle de la finale de l'Euro 2025 féminin opposant l'Angleterre à l'Espagne",
-    "added_at": "2025-07-28T08:55:22.363Z"
+    "added_at": "2025-07-28T08:55:22.363Z",
+    "removed_at": "2025-07-29T18:01:39.391Z",
+    "duration_minutes": 1986,
+    "duration_str": "1d 9h 6m"
   },
   {
     "title": "L’Angleterre et l’Espagne s’affronteront en finale de l’Euro féminin: interview de Philippe Auclair et de François David",
@@ -27005,7 +27020,10 @@
   },
   {
     "title": "Comment répondre aux cris d'alarme des vignerons? Débat entre Léonore Porchet et Simone De Montmollin",
-    "added_at": "2025-07-28T08:55:22.363Z"
+    "added_at": "2025-07-28T08:55:22.363Z",
+    "removed_at": "2025-07-29T20:03:23.827Z",
+    "duration_minutes": 2108,
+    "duration_str": "1d 11h 8m"
   },
   {
     "title": "Plus de 40 morts dans l'attaque d'une église par des rebelles dans l'est de la RDC",
@@ -27218,10 +27236,7 @@
   },
   {
     "title": "La distribution d’aide par voie aérienne et terrestre progresse à Gaza, mais provoque des scènes chaotiques",
-    "added_at": "2025-07-29T10:22:40.137Z",
-    "removed_at": "2025-07-29T13:23:28.202Z",
-    "duration_minutes": 180,
-    "duration_str": "3h"
+    "added_at": "2025-07-29T10:22:40.137Z"
   },
   {
     "title": "A Davos, les marmottes vivent plus haut, notamment à cause du réchauffement climatique",
@@ -27281,5 +27296,32 @@
   {
     "title": "L'UE veut pour la première fois suspendre des aides à l'Ukraine dans l'attente de réformes",
     "added_at": "2025-07-29T17:32:56.334Z"
+  },
+  {
+    "title": "Des produits dérivés vendus par UBS font polémique",
+    "added_at": "2025-07-29T17:52:05.363Z"
+  },
+  {
+    "title": "Karin Keller-Sutter sur les droits de douane: \"C'est dans les mains de Donald Trump\"",
+    "added_at": "2025-07-29T18:18:46.268Z"
+  },
+  {
+    "title": "Guerre à Gaza: comment expliquer l'apathie européenne vis-à-vis d'Israël?",
+    "added_at": "2025-07-29T18:39:40.005Z",
+    "removed_at": "2025-07-29T19:13:57.510Z",
+    "duration_minutes": 34,
+    "duration_str": "34m"
+  },
+  {
+    "title": "\"Stop, on en a marre\": la grogne des commerçants lausannois à la Municipalité",
+    "added_at": "2025-07-29T18:51:05.765Z"
+  },
+  {
+    "title": "Crise humanitaire à Gaza: comment expliquer l'apathie européenne vis-à-vis d'Israël?",
+    "added_at": "2025-07-29T19:13:57.510Z"
+  },
+  {
+    "title": "Deal énergétique avec les Etats-Unis: l'Europe a-t-elle trahi ses engagements? Interview de Thierry Bros",
+    "added_at": "2025-07-29T19:17:45.913Z"
   }
 ]
