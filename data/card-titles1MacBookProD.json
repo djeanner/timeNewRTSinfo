@@ -4086,7 +4086,10 @@
   },
   {
     "title": "Des soldats israéliens prennent le contrôle d'un bateau d'aide pour Gaza",
-    "added_at": "2025-07-27T00:40:09.517Z"
+    "added_at": "2025-07-27T00:40:09.517Z",
+    "removed_at": "2025-07-29T18:18:40.591Z",
+    "duration_minutes": 3938,
+    "duration_str": "2d 17h 38m"
   },
   {
     "title": "Les nationalistes écossais menacent Keir Starmer sur la reconnaissance de la Palestine",
@@ -4192,7 +4195,10 @@
   },
   {
     "title": "En Suisse, les zones humides s'assèchent malgré leur protection",
-    "added_at": "2025-07-27T09:28:04.944Z"
+    "added_at": "2025-07-27T09:28:04.944Z",
+    "removed_at": "2025-07-29T18:39:24.451Z",
+    "duration_minutes": 3431,
+    "duration_str": "2d 9h 11m"
   },
   {
     "title": "Trois ans d'enfer en Russie: un soldat ukrainien raconte l'horreur de sa captivité",
@@ -4320,7 +4326,10 @@
   },
   {
     "title": "Coup d'envoi à Bâle de la finale de l'Euro 2025 féminin opposant l'Angleterre à l'Espagne",
-    "added_at": "2025-07-28T08:54:02.841Z"
+    "added_at": "2025-07-28T08:54:02.841Z",
+    "removed_at": "2025-07-29T18:02:09.199Z",
+    "duration_minutes": 1988,
+    "duration_str": "1d 9h 8m"
   },
   {
     "title": "L’Angleterre et l’Espagne s’affronteront en finale de l’Euro féminin: interview de Philippe Auclair et de François David",
@@ -4583,10 +4592,7 @@
   },
   {
     "title": "La distribution d’aide par voie aérienne et terrestre progresse à Gaza, mais provoque des scènes chaotiques",
-    "added_at": "2025-07-29T10:24:21.502Z",
-    "removed_at": "2025-07-29T13:24:34.220Z",
-    "duration_minutes": 180,
-    "duration_str": "3h"
+    "added_at": "2025-07-29T10:24:21.502Z"
   },
   {
     "title": "A Davos, les marmottes vivent plus haut, notamment à cause du réchauffement climatique",
@@ -4650,5 +4656,13 @@
   {
     "title": "Des produits dérivés vendus par UBS font polémique",
     "added_at": "2025-07-29T17:51:42.614Z"
+  },
+  {
+    "title": "Karin Keller-Sutter sur les droits de douane: \"C'est dans les mains de Donald Trump\"",
+    "added_at": "2025-07-29T18:18:40.591Z"
+  },
+  {
+    "title": "Guerre à Gaza: comment expliquer l'apathie européenne vis-à-vis d'Israël?",
+    "added_at": "2025-07-29T18:39:24.451Z"
   }
 ]
