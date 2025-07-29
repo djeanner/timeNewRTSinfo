@@ -3947,7 +3947,10 @@
   },
   {
     "title": "Le journaliste Eric Willemin est décédé à l'âge de 77 ans",
-    "added_at": "2025-07-26T13:27:36.932Z"
+    "added_at": "2025-07-26T13:27:36.932Z",
+    "removed_at": "2025-07-29T06:07:55.358Z",
+    "duration_minutes": 3880,
+    "duration_str": "2d 16h 40m"
   },
   {
     "title": "Les hôteliers misent sur la tendance des \"digital detox\"",
@@ -4025,7 +4028,10 @@
   },
   {
     "title": "Londres et les Emirats se préparent à envoyer de l'aide humanitaire à Gaza par les airs, Israël lève son blocus",
-    "added_at": "2025-07-26T19:57:28.645Z"
+    "added_at": "2025-07-26T19:57:28.645Z",
+    "removed_at": "2025-07-29T06:12:01.668Z",
+    "duration_minutes": 3494,
+    "duration_str": "2d 10h 14m"
   },
   {
     "title": "Un record de 50,5 degrés mesuré dans le sud-est de la Turquie",
@@ -4461,5 +4467,13 @@
   {
     "title": "Le Roaccutane connaît une nouvelle vague de popularité en Suisse et soulève des inquiétudes",
     "added_at": "2025-07-29T04:24:29.610Z"
+  },
+  {
+    "title": "La Thaïlande accuse le Cambodge d'avoir violé le cessez-le-feu entre les deux pays",
+    "added_at": "2025-07-29T06:07:55.358Z"
+  },
+  {
+    "title": "Plaidoyers à l'ONU pour la solution à deux Etats sur la question palestinienne",
+    "added_at": "2025-07-29T06:12:01.668Z"
   }
 ]
