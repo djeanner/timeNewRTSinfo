@@ -20029,7 +20029,10 @@
   },
   {
     "title": "culture:::A Chamonix, un arc-en-ciel de jazz au-delà des nuages",
-    "added_at": "2025-07-28T18:59:32.545Z"
+    "added_at": "2025-07-28T18:59:32.545Z",
+    "removed_at": "2025-07-29T08:34:18.582Z",
+    "duration_minutes": 814,
+    "duration_str": "13h 34m"
   },
   {
     "title": "sciences:::La Suisse sous pression alors qu’elle accueille des négociations internationales contre la pollution au plastique",
@@ -20048,11 +20051,17 @@
   },
   {
     "title": "monde:::A New York, un tireur tue au moins quatre personnes dans un gratte-ciel",
-    "added_at": "2025-07-29T05:23:34.694Z"
+    "added_at": "2025-07-29T05:23:34.694Z",
+    "removed_at": "2025-07-29T08:36:15.143Z",
+    "duration_minutes": 192,
+    "duration_str": "3h 12m"
   },
   {
     "title": "monde:::De fortes pluies à Pékin font 30 morts et provoquent plus de 80 000 évacuations",
-    "added_at": "2025-07-29T05:23:34.694Z"
+    "added_at": "2025-07-29T05:23:34.694Z",
+    "removed_at": "2025-07-29T09:44:42.356Z",
+    "duration_minutes": 261,
+    "duration_str": "4h 21m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Une attaque de drones ukrainiens fait un mort en Russie",
@@ -20064,10 +20073,25 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les Pays-Bas interdisent l’entrée sur leur territoire à deux ministres israéliens",
-    "added_at": "2025-07-29T06:26:36.590Z"
+    "added_at": "2025-07-29T06:26:36.590Z",
+    "removed_at": "2025-07-29T08:57:07.680Z",
+    "duration_minutes": 150,
+    "duration_str": "2h 30m"
   },
   {
     "title": "culture:::«Le Fantôme de l’Opéra»: une première grande adaptation au cinéma maudite et fabuleuse",
     "added_at": "2025-07-29T07:08:28.249Z"
+  },
+  {
+    "title": "culture:::«Trilogie d’Oslo: Désir», l’amour à la norvégienne",
+    "added_at": "2025-07-29T08:36:15.143Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le «pire scénario de famine est en cours» à Gaza, selon l’IPC",
+    "added_at": "2025-07-29T08:57:07.680Z"
+  },
+  {
+    "title": "culture:::Luc Besson, qui n’a décidément pas peur du ridicule, massacre le «Dracula» de Bram Stoker",
+    "added_at": "2025-07-29T09:44:42.356Z"
   }
 ]
