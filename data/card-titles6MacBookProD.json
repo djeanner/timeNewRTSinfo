@@ -23703,7 +23703,10 @@
   },
   {
     "title": "Heavy rains leave 30 dead in China’s capital Beijing as downpour continues",
-    "added_at": "2025-07-29T01:57:39.108Z"
+    "added_at": "2025-07-29T01:57:39.108Z",
+    "removed_at": "2025-07-29T12:41:01.843Z",
+    "duration_minutes": 643,
+    "duration_str": "10h 43m"
   },
   {
     "title": "Israeli settler kills West Bank activist who worked on Oscar-winning film",
@@ -23879,5 +23882,9 @@
   {
     "title": "India claims to have killed all suspects of Kashmir’s Pahalgam attack",
     "added_at": "2025-07-29T10:53:20.571Z"
+  },
+  {
+    "title": "Death toll in Israel’s war on Gaza surpasses 60,000",
+    "added_at": "2025-07-29T12:41:01.843Z"
   }
 ]
