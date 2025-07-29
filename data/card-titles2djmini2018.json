@@ -19552,7 +19552,10 @@
   },
   {
     "title": "culture:::Un paysan madré, une femme bafouée: Verbier chavire",
-    "added_at": "2025-07-26T16:12:11.459Z"
+    "added_at": "2025-07-26T16:12:11.459Z",
+    "removed_at": "2025-07-29T06:15:12.038Z",
+    "duration_minutes": 3723,
+    "duration_str": "2d 14h 3m"
   },
   {
     "title": "suisse:::Ma montagne et moi: Olivier Français, les Diablerets chevillés au cœur",
@@ -20038,7 +20041,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Hamas doit rendre le contrôle de Gaza, estime l’Autorité palestinienne",
-    "added_at": "2025-07-29T05:23:34.694Z"
+    "added_at": "2025-07-29T05:23:34.694Z",
+    "removed_at": "2025-07-29T06:26:36.590Z",
+    "duration_minutes": 63,
+    "duration_str": "1h 3m"
   },
   {
     "title": "monde:::A New York, un tireur tue au moins quatre personnes dans un gratte-ciel",
@@ -20051,5 +20057,17 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Une attaque de drones ukrainiens fait un mort en Russie",
     "added_at": "2025-07-29T05:23:34.694Z"
+  },
+  {
+    "title": "cyber:::De la 5G à la fibre optique, les réseaux télécoms suisses sont à la pointe. Mais attention, rien n’est éternel…",
+    "added_at": "2025-07-29T06:15:12.038Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les Pays-Bas interdisent l’entrée sur leur territoire à deux ministres israéliens",
+    "added_at": "2025-07-29T06:26:36.590Z"
+  },
+  {
+    "title": "culture:::«Le Fantôme de l’Opéra»: une première grande adaptation au cinéma maudite et fabuleuse",
+    "added_at": "2025-07-29T07:08:28.249Z"
   }
 ]
