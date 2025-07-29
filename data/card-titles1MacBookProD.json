@@ -4111,7 +4111,10 @@
   },
   {
     "title": "Toboggans et luges d'été: des attractions qui portent une part de risque",
-    "added_at": "2025-07-27T05:39:05.282Z"
+    "added_at": "2025-07-27T05:39:05.282Z",
+    "removed_at": "2025-07-29T17:51:42.614Z",
+    "duration_minutes": 3612,
+    "duration_str": "2d 12h 12m"
   },
   {
     "title": "Au moins 11 personnes poignardées dans un supermarché aux Etats-Unis",
@@ -4208,7 +4211,10 @@
   },
   {
     "title": "Ravageuse de cultures, la noctuelle de la tomate prospère en Suisse et se déplace vers l'Allemagne",
-    "added_at": "2025-07-27T11:13:19.281Z"
+    "added_at": "2025-07-27T11:13:19.281Z",
+    "removed_at": "2025-07-29T17:33:05.201Z",
+    "duration_minutes": 3259,
+    "duration_str": "2d 6h 19m"
   },
   {
     "title": "Israël annonce des \"pauses\" journalières à Gaza pour l'aide humanitaire, un premier convoi en route",
@@ -4636,5 +4642,13 @@
   {
     "title": "Le Royaume-Uni prêt à reconnaître l'État palestinien, sous conditions",
     "added_at": "2025-07-29T16:49:26.052Z"
+  },
+  {
+    "title": "L'UE veut pour la première fois suspendre des aides à l'Ukraine dans l'attente de réformes",
+    "added_at": "2025-07-29T17:33:05.201Z"
+  },
+  {
+    "title": "Des produits dérivés vendus par UBS font polémique",
+    "added_at": "2025-07-29T17:51:42.614Z"
   }
 ]
