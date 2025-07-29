@@ -22454,7 +22454,10 @@
   },
   {
     "title": "Five dead in NYC shooting, including gunman",
-    "added_at": "2025-07-29T05:23:35.614Z"
+    "added_at": "2025-07-29T05:23:35.614Z",
+    "removed_at": "2025-07-29T10:53:16.459Z",
+    "duration_minutes": 329,
+    "duration_str": "5h 29m"
   },
   {
     "title": "North Korea says US must accept its status as a nuclear weapons state",
@@ -22462,18 +22465,21 @@
   },
   {
     "title": "Message in a bottle found in Ireland prompts theories about Taiwanese crew",
-    "added_at": "2025-07-29T05:23:35.614Z",
-    "removed_at": "2025-07-29T10:16:58.672Z",
-    "duration_minutes": 293,
-    "duration_str": "4h 53m"
+    "added_at": "2025-07-29T05:23:35.614Z"
   },
   {
     "title": "Thailand accuses Cambodia of ceasefire violations but truce still holding",
-    "added_at": "2025-07-29T05:23:35.614Z"
+    "added_at": "2025-07-29T05:23:35.614Z",
+    "removed_at": "2025-07-29T11:00:50.038Z",
+    "duration_minutes": 337,
+    "duration_str": "5h 37m"
   },
   {
     "title": "Heavy rains leave 30 dead in China’s capital Beijing as downpour continues",
-    "added_at": "2025-07-29T05:23:35.614Z"
+    "added_at": "2025-07-29T05:23:35.614Z",
+    "removed_at": "2025-07-29T12:39:39.878Z",
+    "duration_minutes": 436,
+    "duration_str": "7h 16m"
   },
   {
     "title": "Calm amid the chaos: How England won Women’s Euro 2025 title",
@@ -22556,10 +22562,7 @@
   },
   {
     "title": "‘Worst-case famine scenario’ unfolding in Gaza, global hunger monitor finds",
-    "added_at": "2025-07-29T08:34:19.526Z",
-    "removed_at": "2025-07-29T10:13:13.441Z",
-    "duration_minutes": 98,
-    "duration_str": "1h 38m"
+    "added_at": "2025-07-29T08:34:19.526Z"
   },
   {
     "title": "Why did Zelenskyy try to curb autonomy of Ukraine’s anti-graft bodies?",
@@ -22586,10 +22589,28 @@
   },
   {
     "title": "NYC Shooting: What we know about the victims, suspect Shane Tamura",
-    "added_at": "2025-07-29T10:20:46.356Z"
+    "added_at": "2025-07-29T10:20:46.356Z",
+    "removed_at": "2025-07-29T10:53:16.459Z",
+    "duration_minutes": 32,
+    "duration_str": "32m"
   },
   {
     "title": "Israel has killed over 60,000 Palestinians in 662 days of war on Gaza",
-    "added_at": "2025-07-29T10:24:38.039Z"
+    "added_at": "2025-07-29T10:24:38.039Z",
+    "removed_at": "2025-07-29T12:03:36.868Z",
+    "duration_minutes": 98,
+    "duration_str": "1h 38m"
+  },
+  {
+    "title": "NYC shooting: What we know about the victims, suspect Shane Tamura",
+    "added_at": "2025-07-29T10:53:16.459Z"
+  },
+  {
+    "title": "India claims to have killed all suspects of Kashmir’s Pahalgam attack",
+    "added_at": "2025-07-29T10:53:16.459Z"
+  },
+  {
+    "title": "Death toll in Israel’s war on Gaza surpasses 60,000",
+    "added_at": "2025-07-29T12:39:39.878Z"
   }
 ]
