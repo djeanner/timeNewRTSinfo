@@ -3997,7 +3997,10 @@
   },
   {
     "title": "Le personnel de la NASA va fondre de 20% en raison de la politique de dégraissage de Donald Trump",
-    "added_at": "2025-07-26T15:56:11.910Z"
+    "added_at": "2025-07-26T15:56:11.910Z",
+    "removed_at": "2025-07-29T06:47:17.628Z",
+    "duration_minutes": 3771,
+    "duration_str": "2d 14h 51m"
   },
   {
     "title": "Le combat de reines du 10 août à Bonatchiesse annulé à cause de la dermatose",
@@ -4012,7 +4015,10 @@
   },
   {
     "title": "Lancement d'une pétition pour \"sauver\" le projet du nouveau Bioparc à Genève",
-    "added_at": "2025-07-26T17:24:52.998Z"
+    "added_at": "2025-07-26T17:24:52.998Z",
+    "removed_at": "2025-07-29T07:26:24.845Z",
+    "duration_minutes": 3721,
+    "duration_str": "2d 14h 1m"
   },
   {
     "title": "Plus de 10'000 personnes ont bravé la pluie pour la Lake Parade à Genève",
@@ -4259,7 +4265,10 @@
   },
   {
     "title": "Couleurs d'été - 2025",
-    "added_at": "2025-07-28T08:54:02.841Z"
+    "added_at": "2025-07-28T08:54:02.841Z",
+    "removed_at": "2025-07-29T07:24:24.173Z",
+    "duration_minutes": 1350,
+    "duration_str": "22h 30m"
   },
   {
     "title": "Coup d'envoi à Bâle de la finale de l'Euro 2025 féminin opposant l'Angleterre à l'Espagne",
@@ -4267,7 +4276,10 @@
   },
   {
     "title": "L’Angleterre et l’Espagne s’affronteront en finale de l’Euro féminin: interview de Philippe Auclair et de François David",
-    "added_at": "2025-07-28T08:54:02.841Z"
+    "added_at": "2025-07-28T08:54:02.841Z",
+    "removed_at": "2025-07-29T07:24:24.173Z",
+    "duration_minutes": 1350,
+    "duration_str": "22h 30m"
   },
   {
     "title": "Pour faire face aux imprévus, Paléo pourrait se transformer en ville permanente: interview de Daniel Rossellat",
@@ -4455,10 +4467,7 @@
   },
   {
     "title": "Entretien avec Florian Besse, président d’honneur « Les Amis de Plan-Cerisier »",
-    "added_at": "2025-07-29T03:05:56.174Z",
-    "removed_at": "2025-07-29T03:08:00.531Z",
-    "duration_minutes": 2,
-    "duration_str": "2m"
+    "added_at": "2025-07-29T03:05:56.174Z"
   },
   {
     "title": "Proche-Orient: la solution à deux Etats a-t-elle encore un avenir? Interview d’Elena Aoun",
@@ -4475,5 +4484,17 @@
   {
     "title": "Plaidoyers à l'ONU pour la solution à deux Etats sur la question palestinienne",
     "added_at": "2025-07-29T06:12:01.668Z"
+  },
+  {
+    "title": "La Suisse utilise de plus en plus son bois pour le chauffage",
+    "added_at": "2025-07-29T06:47:17.628Z"
+  },
+  {
+    "title": "La Thaïlande et le Cambodge concluent un accord de cessez-le-feu",
+    "added_at": "2025-07-29T07:24:24.173Z"
+  },
+  {
+    "title": "Des frappes russes dans deux régions d'Ukraine tuent au moins 20 personnes",
+    "added_at": "2025-07-29T07:26:24.845Z"
   }
 ]
