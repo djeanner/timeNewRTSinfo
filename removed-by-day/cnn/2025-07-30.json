@@ -29,8 +29,9 @@
   {
     "title": "The quake is the strongest on the planet since 2011, when a 9.0 magnitude earthquake hit northeast Japan",
     "added_at": "2025-07-30T01:33:31.440Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-30T02:54:11.302Z",
+    "duration_minutes": 81,
+    "duration_str": "1h 21m"
   },
   {
     "title": "A closer look at where the earthquake occurred",
@@ -47,6 +48,32 @@
   {
     "title": "Parts of Russia, Japan, Alaska, Hawaii and all of the US West Coast are on alert after an 8.8 magnitude quake strikes of Russia’s remote eastern coast",
     "added_at": "2025-07-30T02:12:46.085Z",
+    "removed_at": "2025-07-30T02:45:58.411Z",
+    "duration_minutes": 33,
+    "duration_str": "33m"
+  },
+  {
+    "title": "It’s too soon to say how destructive or widespread the tsunami waves will be after a powerful 8.8 magnitude earthquake hit Russia’s remote far eastern coast",
+    "added_at": "2025-07-30T02:45:58.411Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "The quake is the strongest on the planet since 2011",
+    "added_at": "2025-07-30T02:54:11.302Z",
+    "removed_at": "2025-07-30T03:04:33.967Z",
+    "duration_minutes": 10,
+    "duration_str": "10m"
+  },
+  {
+    "title": "What to do if a tsunami strikes",
+    "added_at": "2025-07-30T02:54:11.302Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "This quake is tied for sixth-strongest ever recorded",
+    "added_at": "2025-07-30T03:04:33.967Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
