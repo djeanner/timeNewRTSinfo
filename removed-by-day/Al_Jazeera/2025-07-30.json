@@ -51,8 +51,9 @@
   {
     "title": "Tsunami alerts issued for US, Japan, Philippines after massive earthquake",
     "added_at": "2025-07-30T02:54:11.368Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-30T05:50:07.176Z",
+    "duration_minutes": 176,
+    "duration_str": "2h 56m"
   },
   {
     "title": "Tsunami alerts for US, Russia, Japan after 8.7 quake off Russian east coast",
@@ -64,6 +65,18 @@
   {
     "title": "Tsunami alerts for US, Russia, Japan after 8.8 quake off Russian east coast",
     "added_at": "2025-07-30T04:04:28.718Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Russia-Ukraine war: List of key events, day 1,252",
+    "added_at": "2025-07-30T05:21:14.675Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Tsunami alerts for US, Japan, Philippines after massive Russia earthquake",
+    "added_at": "2025-07-30T05:50:07.176Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
