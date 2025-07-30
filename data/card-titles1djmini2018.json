@@ -26949,7 +26949,10 @@
   },
   {
     "title": "Ruth Dreifuss appelle à accueillir des blessés palestiniens en Suisse",
-    "added_at": "2025-07-27T20:27:10.523Z"
+    "added_at": "2025-07-27T20:27:10.523Z",
+    "removed_at": "2025-07-30T13:25:02.377Z",
+    "duration_minutes": 3897,
+    "duration_str": "2d 16h 57m"
   },
   {
     "title": "Bilan \"très positif\" pour la 48e édition du Paléo, marquée par le retour de la pluie",
@@ -26972,11 +26975,17 @@
   },
   {
     "title": "Un déraillement de train en Allemagne fait au moins trois morts et de nombreux blessés",
-    "added_at": "2025-07-28T04:38:19.277Z"
+    "added_at": "2025-07-28T04:38:19.277Z",
+    "removed_at": "2025-07-30T14:31:37.465Z",
+    "duration_minutes": 3473,
+    "duration_str": "2d 9h 53m"
   },
   {
     "title": "La canicule qui frappe l'Iran provoque des coupures d'eau et d'électricité",
-    "added_at": "2025-07-28T06:21:10.956Z"
+    "added_at": "2025-07-28T06:21:10.956Z",
+    "removed_at": "2025-07-30T13:42:08.525Z",
+    "duration_minutes": 3320,
+    "duration_str": "2d 7h 20m"
   },
   {
     "title": "L'ONU se penche sur la question palestinienne et l'avenir menacé de la solution à deux Etats",
@@ -26988,11 +26997,17 @@
   },
   {
     "title": "La police zurichoise a arrêté deux cambrioleurs dans une armurerie",
-    "added_at": "2025-07-28T08:55:22.363Z"
+    "added_at": "2025-07-28T08:55:22.363Z",
+    "removed_at": "2025-07-30T15:04:00.096Z",
+    "duration_minutes": 3248,
+    "duration_str": "2d 6h 8m"
   },
   {
     "title": "La France va reconnaître l'État de Palestine en septembre devant l'ONU",
-    "added_at": "2025-07-28T08:55:22.363Z"
+    "added_at": "2025-07-28T08:55:22.363Z",
+    "removed_at": "2025-07-30T14:03:05.178Z",
+    "duration_minutes": 3187,
+    "duration_str": "2d 5h 7m"
   },
   {
     "title": "Donald Trump et Ursula von der Leyen se rencontrent en Ecosse",
@@ -27231,7 +27246,10 @@
   },
   {
     "title": "La Thaïlande et le Cambodge concluent un accord de cessez-le-feu",
-    "added_at": "2025-07-29T07:23:41.806Z"
+    "added_at": "2025-07-29T07:23:41.806Z",
+    "removed_at": "2025-07-30T13:21:16.797Z",
+    "duration_minutes": 1797,
+    "duration_str": "1d 5h 57m"
   },
   {
     "title": "Des frappes russes dans deux régions d'Ukraine tuent au moins 20 personnes",
@@ -27390,7 +27408,10 @@
   },
   {
     "title": "Alertes au tsunami dans le Pacifique après un séisme de magnitude 8,8 près des côtes russes",
-    "added_at": "2025-07-30T04:58:18.344Z"
+    "added_at": "2025-07-30T04:58:18.344Z",
+    "removed_at": "2025-07-30T14:31:37.465Z",
+    "duration_minutes": 573,
+    "duration_str": "9h 33m"
   },
   {
     "title": "Le Royaume-Uni prêt à reconnaître l'Etat palestinien, sous conditions",
@@ -27440,10 +27461,7 @@
   },
   {
     "title": "Le Parlement veut normaliser la garde partagée avec une loi: débat entre Anaïs Brodard et Sidney Kamerzin",
-    "added_at": "2025-07-30T09:15:22.841Z",
-    "removed_at": "2025-07-30T09:19:09.337Z",
-    "duration_minutes": 3,
-    "duration_str": "3m"
+    "added_at": "2025-07-30T09:15:22.841Z"
   },
   {
     "title": "Les petites comme les grandes exploitations agricoles confrontées à une pénurie de main-d'oeuvre",
@@ -27474,5 +27492,39 @@
   {
     "title": "Petites ou grandes, les exploitations agricoles sont confrontées à une pénurie de main-d'œuvre",
     "added_at": "2025-07-30T10:50:37.227Z"
+  },
+  {
+    "title": "La moitié de la flotte Belle Epoque circulera dès cet automne",
+    "added_at": "2025-07-30T13:21:16.797Z"
+  },
+  {
+    "title": "Le bateau à vapeur \"Montreux\" fera son grand retour sur le Léman le 1er septembre, annonce la CGN",
+    "added_at": "2025-07-30T13:25:02.377Z"
+  },
+  {
+    "title": "La Suisse \"plaide pour la solution à deux États\" dans le conflit israélo-palestinien",
+    "added_at": "2025-07-30T13:42:08.525Z",
+    "removed_at": "2025-07-30T13:57:22.793Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "La Suisse \"plaide pour la solution à deux Etats\" dans le conflit israélo-palestinien",
+    "added_at": "2025-07-30T13:57:22.793Z"
+  },
+  {
+    "title": "Niveaux d'alerte en partie rétrogradés après des alertes au tsunami dans tout le Pacifique",
+    "added_at": "2025-07-30T14:29:46.782Z",
+    "removed_at": "2025-07-30T14:44:54.957Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "L'exposition \"Disparition et réminiscence\" se balade entre art et histoire à La Sarraz",
+    "added_at": "2025-07-30T14:31:37.465Z"
+  },
+  {
+    "title": "Niveaux d'alerte au tsunami en partie rétrogradés dans le Pacifique après le violent séisme en Russie",
+    "added_at": "2025-07-30T14:39:13.818Z"
   }
 ]
