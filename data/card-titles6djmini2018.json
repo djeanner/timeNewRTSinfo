@@ -22651,7 +22651,10 @@
   },
   {
     "title": "Inmates, pregnant woman among 27 killed in Russia’s attacks on Ukraine",
-    "added_at": "2025-07-29T13:36:46.939Z"
+    "added_at": "2025-07-29T13:36:46.939Z",
+    "removed_at": "2025-07-30T05:21:07.158Z",
+    "duration_minutes": 944,
+    "duration_str": "15h 44m"
   },
   {
     "title": "Four killed, hundreds arrested in Angola protests against fuel price hike",
@@ -22796,10 +22799,28 @@
   },
   {
     "title": "Tsunami alerts issued for US, Japan, Philippines after massive earthquake",
-    "added_at": "2025-07-30T02:54:28.420Z"
+    "added_at": "2025-07-30T02:54:28.420Z",
+    "removed_at": "2025-07-30T05:49:42.924Z",
+    "duration_minutes": 175,
+    "duration_str": "2h 55m"
   },
   {
     "title": "Tsunami alerts for US, Russia, Japan after 8.7 quake off Russian east coast",
-    "added_at": "2025-07-30T03:15:26.715Z"
+    "added_at": "2025-07-30T03:15:26.715Z",
+    "removed_at": "2025-07-30T04:04:58.115Z",
+    "duration_minutes": 49,
+    "duration_str": "49m"
+  },
+  {
+    "title": "Tsunami alerts for US, Russia, Japan after 8.8 quake off Russian east coast",
+    "added_at": "2025-07-30T04:04:58.115Z"
+  },
+  {
+    "title": "Russia-Ukraine war: List of key events, day 1,252",
+    "added_at": "2025-07-30T05:21:07.158Z"
+  },
+  {
+    "title": "Tsunami alerts for US, Japan, Philippines after massive Russia earthquake",
+    "added_at": "2025-07-30T05:49:42.924Z"
   }
 ]
