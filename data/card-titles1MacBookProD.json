@@ -4439,7 +4439,10 @@
   },
   {
     "title": "Plus de 40 morts dans l'attaque d'une église par des rebelles dans l'est de la RDC",
-    "added_at": "2025-07-28T09:31:18.057Z"
+    "added_at": "2025-07-28T09:31:18.057Z",
+    "removed_at": "2025-07-30T18:41:15.939Z",
+    "duration_minutes": 3429,
+    "duration_str": "2d 9h 9m"
   },
   {
     "title": "Droits de douane: les pays européens plus ou moins concernés selon leurs exportations",
@@ -4920,5 +4923,9 @@
   {
     "title": "Les députés européens débattent de la mise en place de sanctions contre Israël",
     "added_at": "2025-07-30T17:03:44.666Z"
+  },
+  {
+    "title": "Les frontières de l'espace Schengen seront contrôlées numériquement",
+    "added_at": "2025-07-30T18:41:15.939Z"
   }
 ]
