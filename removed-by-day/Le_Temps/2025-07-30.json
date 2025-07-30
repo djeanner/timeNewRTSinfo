@@ -70,8 +70,9 @@
   {
     "title": "economie:::UBS dépasse les attentes au deuxième trimestre",
     "added_at": "2025-07-30T05:54:14.185Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-30T12:34:10.356Z",
+    "duration_minutes": 400,
+    "duration_str": "6h 40m"
   },
   {
     "title": "monde:::Après 1000 jours au pouvoir en Italie, les deux visages de Giorgia Meloni",
@@ -108,8 +109,9 @@
   {
     "title": "monde:::Les alertes tsunami sont levées à Hawaï et au Japon après un séisme près des côtes russes",
     "added_at": "2025-07-30T10:44:23.073Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-30T13:25:56.762Z",
+    "duration_minutes": 162,
+    "duration_str": "2h 42m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Quinze pays appellent à s’engager vers la reconnaissance d’un Etat de Palestine",
@@ -139,6 +141,24 @@
   {
     "title": "culture:::Jeunes pianistes exceptionnels à l’affiche du Verbier Festival: pourquoi une telle explosion?",
     "added_at": "2025-07-30T11:52:44.042Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::UBS estime que le dossier de ses produits financiers problématiques est réglé",
+    "added_at": "2025-07-30T12:34:10.356Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En Chine, la jeunesse désabusée rit avec candeur pour contourner la censure",
+    "added_at": "2025-07-30T12:50:43.290Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::La Polynésie, la Colombie et l’Equateur attendent les tsunamis, la majorité des alertes levées dans le Pacifique Nord",
+    "added_at": "2025-07-30T13:25:56.762Z",
     "duration_minutes": 0,
     "duration_str": ""
   }

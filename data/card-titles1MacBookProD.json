@@ -3732,7 +3732,10 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T19:02:44.375Z"
+    "added_at": "2025-07-25T19:02:44.375Z",
+    "removed_at": "2025-07-30T13:21:45.364Z",
+    "duration_minutes": 6859,
+    "duration_str": "4d 18h 19m"
   },
   {
     "title": "En Israël, la population sensible au sort des Gazaouis refuse d'en rendre son armée responsable",
@@ -4304,7 +4307,10 @@
   },
   {
     "title": "Ruth Dreifuss appelle à accueillir des blessés palestiniens en Suisse",
-    "added_at": "2025-07-27T20:26:56.508Z"
+    "added_at": "2025-07-27T20:26:56.508Z",
+    "removed_at": "2025-07-30T13:25:56.725Z",
+    "duration_minutes": 3899,
+    "duration_str": "2d 16h 59m"
   },
   {
     "title": "Bilan \"très positif\" pour la 48e édition du Paléo, marquée par le retour de la pluie",
@@ -4593,7 +4599,10 @@
   },
   {
     "title": "La Thaïlande et le Cambodge concluent un accord de cessez-le-feu",
-    "added_at": "2025-07-29T07:24:24.173Z"
+    "added_at": "2025-07-29T07:24:24.173Z",
+    "removed_at": "2025-07-30T13:21:45.364Z",
+    "duration_minutes": 1797,
+    "duration_str": "1d 5h 57m"
   },
   {
     "title": "Des frappes russes dans deux régions d'Ukraine tuent au moins 20 personnes",
@@ -4802,10 +4811,7 @@
   },
   {
     "title": "Le Parlement veut normaliser la garde partagée avec une loi: débat entre Anaïs Brodard et Sidney Kamerzin",
-    "added_at": "2025-07-30T09:15:11.076Z",
-    "removed_at": "2025-07-30T09:19:18.220Z",
-    "duration_minutes": 4,
-    "duration_str": "4m"
+    "added_at": "2025-07-30T09:15:11.076Z"
   },
   {
     "title": "Les petites comme les grandes exploitations agricoles confrontées à une pénurie de main-d'oeuvre",
@@ -4836,5 +4842,13 @@
   {
     "title": "Petites ou grandes, les exploitations agricoles sont confrontées à une pénurie de main-d'œuvre",
     "added_at": "2025-07-30T10:50:35.525Z"
+  },
+  {
+    "title": "La moitié de la flotte Belle Epoque circulera dès cet automne",
+    "added_at": "2025-07-30T13:21:45.364Z"
+  },
+  {
+    "title": "Le bateau à vapeur \"Montreux\" fera son grand retour sur le Léman le 1er septembre, annonce la CGN",
+    "added_at": "2025-07-30T13:25:56.725Z"
   }
 ]
