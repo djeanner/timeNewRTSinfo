@@ -3732,10 +3732,7 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T19:02:44.375Z",
-    "removed_at": "2025-07-30T13:21:45.364Z",
-    "duration_minutes": 6859,
-    "duration_str": "4d 18h 19m"
+    "added_at": "2025-07-25T19:02:44.375Z"
   },
   {
     "title": "En Israël, la population sensible au sort des Gazaouis refuse d'en rendre son armée responsable",
@@ -4337,7 +4334,10 @@
   },
   {
     "title": "La canicule qui frappe l'Iran provoque des coupures d'eau et d'électricité",
-    "added_at": "2025-07-28T06:21:17.458Z"
+    "added_at": "2025-07-28T06:21:17.458Z",
+    "removed_at": "2025-07-30T13:42:35.605Z",
+    "duration_minutes": 3321,
+    "duration_str": "2d 7h 21m"
   },
   {
     "title": "L'ONU se penche sur la question palestinienne et l'avenir menacé de la solution à deux Etats",
@@ -4353,7 +4353,10 @@
   },
   {
     "title": "La France va reconnaître l'État de Palestine en septembre devant l'ONU",
-    "added_at": "2025-07-28T08:54:02.841Z"
+    "added_at": "2025-07-28T08:54:02.841Z",
+    "removed_at": "2025-07-30T14:03:19.581Z",
+    "duration_minutes": 3189,
+    "duration_str": "2d 5h 9m"
   },
   {
     "title": "Donald Trump et Ursula von der Leyen se rencontrent en Ecosse",
@@ -4850,5 +4853,16 @@
   {
     "title": "Le bateau à vapeur \"Montreux\" fera son grand retour sur le Léman le 1er septembre, annonce la CGN",
     "added_at": "2025-07-30T13:25:56.725Z"
+  },
+  {
+    "title": "La Suisse \"plaide pour la solution à deux États\" dans le conflit israélo-palestinien",
+    "added_at": "2025-07-30T13:42:35.605Z",
+    "removed_at": "2025-07-30T13:57:07.322Z",
+    "duration_minutes": 14,
+    "duration_str": "14m"
+  },
+  {
+    "title": "La Suisse \"plaide pour la solution à deux Etats\" dans le conflit israélo-palestinien",
+    "added_at": "2025-07-30T13:57:07.322Z"
   }
 ]

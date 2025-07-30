@@ -187,15 +187,16 @@
   {
     "title": "Japan records highest temperature on record",
     "added_at": "2025-07-30T09:54:37.819Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-30T13:52:55.179Z",
+    "duration_minutes": 238,
+    "duration_str": "3h 58m"
   },
   {
     "title": "Hawaii, parts of Japan downgrade tsunami threat after massive quake",
     "added_at": "2025-07-30T09:56:38.755Z",
-    "removed_at": "2025-07-30T10:46:24.382Z",
-    "duration_minutes": 50,
-    "duration_str": "50m"
+    "removed_at": "2025-07-30T10:44:56.519Z",
+    "duration_minutes": 48,
+    "duration_str": "48m"
   },
   {
     "title": "Bayern Munich sign star forward Luis Diaz from Liverpool",
@@ -231,10 +232,10 @@
   },
   {
     "title": "Warning of imminent 4-metre waves in French Polynesia after massive quake",
-    "added_at": "2025-07-30T10:46:24.382Z",
+    "added_at": "2025-07-30T10:44:56.519Z",
     "removed_at": "2025-07-30T12:46:36.832Z",
-    "duration_minutes": 120,
-    "duration_str": "2h"
+    "duration_minutes": 122,
+    "duration_str": "2h 2m"
   },
   {
     "title": "Myanmar military government sets long prison terms for election protests",
@@ -257,6 +258,30 @@
   {
     "title": "How significant is UK’s move to recognise Palestinian state, and why now?",
     "added_at": "2025-07-30T13:17:37.862Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "‘Dramatic setback’: Will Peru’s new amnesty law put justice out of reach?",
+    "added_at": "2025-07-30T13:34:18.895Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Border clash between Ugandan, South Sudanese troops kills at least four",
+    "added_at": "2025-07-30T13:52:55.179Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "‘Exorbitant privilege’: Can the US dollar maintain its global dominance?",
+    "added_at": "2025-07-30T14:21:57.875Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Trump hits India with 25% tariff, extra ‘penalty’ for Russian oil purchases",
+    "added_at": "2025-07-30T14:23:58.690Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
