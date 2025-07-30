@@ -4330,7 +4330,10 @@
   },
   {
     "title": "Un déraillement de train en Allemagne fait au moins trois morts et de nombreux blessés",
-    "added_at": "2025-07-28T04:38:04.701Z"
+    "added_at": "2025-07-28T04:38:04.701Z",
+    "removed_at": "2025-07-30T14:32:22.912Z",
+    "duration_minutes": 3474,
+    "duration_str": "2d 9h 54m"
   },
   {
     "title": "La canicule qui frappe l'Iran provoque des coupures d'eau et d'électricité",
@@ -4349,7 +4352,10 @@
   },
   {
     "title": "La police zurichoise a arrêté deux cambrioleurs dans une armurerie",
-    "added_at": "2025-07-28T08:54:02.841Z"
+    "added_at": "2025-07-28T08:54:02.841Z",
+    "removed_at": "2025-07-30T15:03:24.914Z",
+    "duration_minutes": 3249,
+    "duration_str": "2d 6h 9m"
   },
   {
     "title": "La France va reconnaître l'État de Palestine en septembre devant l'ONU",
@@ -4764,7 +4770,10 @@
   },
   {
     "title": "Alertes au tsunami dans le Pacifique après un séisme de magnitude 8,8 près des côtes russes",
-    "added_at": "2025-07-30T04:58:19.156Z"
+    "added_at": "2025-07-30T04:58:19.156Z",
+    "removed_at": "2025-07-30T14:32:22.912Z",
+    "duration_minutes": 574,
+    "duration_str": "9h 34m"
   },
   {
     "title": "Le Royaume-Uni prêt à reconnaître l'Etat palestinien, sous conditions",
@@ -4864,5 +4873,20 @@
   {
     "title": "La Suisse \"plaide pour la solution à deux Etats\" dans le conflit israélo-palestinien",
     "added_at": "2025-07-30T13:57:07.322Z"
+  },
+  {
+    "title": "Niveaux d'alerte en partie rétrogradés après des alertes au tsunami dans tout le Pacifique",
+    "added_at": "2025-07-30T14:30:18.288Z",
+    "removed_at": "2025-07-30T14:44:49.427Z",
+    "duration_minutes": 14,
+    "duration_str": "14m"
+  },
+  {
+    "title": "L'exposition \"Disparition et réminiscence\" se balade entre art et histoire à La Sarraz",
+    "added_at": "2025-07-30T14:32:22.912Z"
+  },
+  {
+    "title": "Niveaux d'alerte au tsunami en partie rétrogradés dans le Pacifique après le violent séisme en Russie",
+    "added_at": "2025-07-30T14:38:36.365Z"
   }
 ]

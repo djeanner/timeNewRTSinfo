@@ -22,8 +22,9 @@
   {
     "title": "Alertes au tsunami dans le Pacifique après un séisme de magnitude 8,8 près des côtes russes",
     "added_at": "2025-07-30T04:58:18.344Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-30T14:32:22.912Z",
+    "duration_minutes": 574,
+    "duration_str": "9h 34m"
   },
   {
     "title": "Le Royaume-Uni prêt à reconnaître l'Etat palestinien, sous conditions",
@@ -153,6 +154,25 @@
   {
     "title": "La Suisse \"plaide pour la solution à deux Etats\" dans le conflit israélo-palestinien",
     "added_at": "2025-07-30T13:57:07.322Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Niveaux d'alerte en partie rétrogradés après des alertes au tsunami dans tout le Pacifique",
+    "added_at": "2025-07-30T14:30:18.288Z",
+    "removed_at": "2025-07-30T14:44:49.427Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "L'exposition \"Disparition et réminiscence\" se balade entre art et histoire à La Sarraz",
+    "added_at": "2025-07-30T14:32:22.912Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Niveaux d'alerte au tsunami en partie rétrogradés dans le Pacifique après le violent séisme en Russie",
+    "added_at": "2025-07-30T14:38:36.365Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
