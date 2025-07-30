@@ -49527,11 +49527,17 @@
   },
   {
     "title": "With First Waves Expected Soon, Hawaii Declares Emergency",
-    "added_at": "2025-07-30T04:41:47.312Z"
+    "added_at": "2025-07-30T04:41:47.312Z",
+    "removed_at": "2025-07-30T06:04:45.417Z",
+    "duration_minutes": 82,
+    "duration_str": "1h 22m"
   },
   {
     "title": "Tsunami Warning Issued for 100-Mile Stretch of Northern California",
-    "added_at": "2025-07-30T04:47:59.391Z"
+    "added_at": "2025-07-30T04:47:59.391Z",
+    "removed_at": "2025-07-30T06:10:57.152Z",
+    "duration_minutes": 82,
+    "duration_str": "1h 22m"
   },
   {
     "title": "Thailand and Cambodia Stepped Back From War, but Their Temple Fight Remains",
@@ -49555,5 +49561,20 @@
   {
     "title": "Pacific Region on Alert, With Waves of Up to 10 Feet Expected",
     "added_at": "2025-07-30T06:00:27.005Z"
+  },
+  {
+    "title": "Hawaii Declares an Emergency",
+    "added_at": "2025-07-30T06:04:45.417Z",
+    "removed_at": "2025-07-30T06:56:20.971Z",
+    "duration_minutes": 51,
+    "duration_str": "51m"
+  },
+  {
+    "title": "Tsunami Warning Is Issued for 100-Mile Stretch of Northern California",
+    "added_at": "2025-07-30T06:10:57.152Z"
+  },
+  {
+    "title": "Hawaii on Alert as Tsunami Rolls Through",
+    "added_at": "2025-07-30T06:56:20.971Z"
   }
 ]
