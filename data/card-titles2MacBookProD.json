@@ -23739,7 +23739,10 @@
   },
   {
     "title": "monde:::Alertes au tsunami dans le Pacifique après un séisme de magnitude 8,8 près des côtes russes",
-    "added_at": "2025-07-30T03:48:00.194Z"
+    "added_at": "2025-07-30T03:48:00.194Z",
+    "removed_at": "2025-07-30T08:41:59.794Z",
+    "duration_minutes": 293,
+    "duration_str": "4h 53m"
   },
   {
     "title": "economie:::Trump influence le commerce mondial, à commencer par les matières premières",
@@ -23781,5 +23784,9 @@
   {
     "title": "culture:::Caractères particuliers: Garamond, police qui vaut son pesant d’encre",
     "added_at": "2025-07-30T06:52:13.648Z"
+  },
+  {
+    "title": "monde:::Des vagues de tsunami de plus d’un mètre au Japon et à Hawaï après un séisme près des côtes russes",
+    "added_at": "2025-07-30T08:41:59.794Z"
   }
 ]
