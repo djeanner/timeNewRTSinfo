@@ -3011,7 +3011,10 @@
   },
   {
     "title": "Protestations en Ukraine contre une loi affaiblissant la lutte anticorruption",
-    "added_at": "2025-07-23T16:29:02.283Z"
+    "added_at": "2025-07-23T16:29:02.283Z",
+    "removed_at": "2025-07-30T10:48:28.825Z",
+    "duration_minutes": 9739,
+    "duration_str": "6d 18h 19m"
   },
   {
     "title": "Tirs de loup en Valais: \"On joue aux apprentis sorciers\", déplore un spécialiste",
@@ -4355,10 +4358,7 @@
   },
   {
     "title": "Couleurs d'été - 2025",
-    "added_at": "2025-07-28T08:54:02.841Z",
-    "removed_at": "2025-07-30T09:19:18.220Z",
-    "duration_minutes": 2905,
-    "duration_str": "2d 25m"
+    "added_at": "2025-07-28T08:54:02.841Z"
   },
   {
     "title": "Coup d'envoi à Bâle de la finale de l'Euro 2025 féminin opposant l'Angleterre à l'Espagne",
@@ -4809,7 +4809,10 @@
   },
   {
     "title": "Les petites comme les grandes exploitations agricoles confrontées à une pénurie de main-d'oeuvre",
-    "added_at": "2025-07-30T09:46:18.768Z"
+    "added_at": "2025-07-30T09:46:18.768Z",
+    "removed_at": "2025-07-30T10:44:23.031Z",
+    "duration_minutes": 58,
+    "duration_str": "58m"
   },
   {
     "title": "Vingt-cinq ménages sont prêts à quitter définitivement le village grison de Brienz",
@@ -4818,5 +4821,20 @@
   {
     "title": "UBS double son bénéfice net au deuxième trimestre",
     "added_at": "2025-07-30T10:09:02.851Z"
+  },
+  {
+    "title": "Les petites comme les grandes exploitations agricoles confrontées à une pénurie de main-d'œuvre",
+    "added_at": "2025-07-30T10:44:23.031Z",
+    "removed_at": "2025-07-30T10:50:35.525Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
+  },
+  {
+    "title": "La traite d'êtres humains en hausse en Suisse avec 201 victimes répertoriées en 2024",
+    "added_at": "2025-07-30T10:48:28.825Z"
+  },
+  {
+    "title": "Petites ou grandes, les exploitations agricoles sont confrontées à une pénurie de main-d'œuvre",
+    "added_at": "2025-07-30T10:50:35.525Z"
   }
 ]
