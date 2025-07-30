@@ -186,8 +186,9 @@
   {
     "title": "Pacific Region on Alert, With Waves of Up to 10 Feet Expected",
     "added_at": "2025-07-30T06:00:27.005Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-30T09:02:47.389Z",
+    "duration_minutes": 182,
+    "duration_str": "3h 2m"
   },
   {
     "title": "Hawaii Declares an Emergency",
@@ -199,19 +200,38 @@
   {
     "title": "Tsunami Warning Is Issued for 100-Mile Stretch of Northern California",
     "added_at": "2025-07-30T06:10:57.152Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-30T09:13:06.421Z",
+    "duration_minutes": 182,
+    "duration_str": "3h 2m"
   },
   {
     "title": "Hawaii on Alert as Tsunami Rolls Through",
-    "added_at": "2025-07-30T06:56:20.971Z",
-    "removed_at": "2025-07-30T07:48:07.773Z",
-    "duration_minutes": 52,
-    "duration_str": "52m"
+    "added_at": "2025-07-30T06:54:26.312Z",
+    "removed_at": "2025-07-30T07:43:52.355Z",
+    "duration_minutes": 49,
+    "duration_str": "49m"
   },
   {
     "title": "Initial Damage in Hawaii Appears Minimal, Governor Says",
     "added_at": "2025-07-30T07:39:51.085Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Late Night: Trying to Convert Your Co-Workers",
+    "added_at": "2025-07-30T08:50:23.838Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Biggest Quake Since 2011 Puts Pacific Region on Alert",
+    "added_at": "2025-07-30T09:02:47.389Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Officials in California Warn People to Avoid Beaches",
+    "added_at": "2025-07-30T09:13:06.421Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
