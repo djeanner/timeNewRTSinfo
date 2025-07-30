@@ -23,8 +23,9 @@
   {
     "title": "Tsunami alerts issued after powerful magnitude 8.7 earthquake off Russia",
     "added_at": "2025-07-30T00:54:14.859Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-30T01:43:53.265Z",
+    "duration_minutes": 50,
+    "duration_str": "50m"
   },
   {
     "title": "Tsunami warning after magnitude 8.7 earthquake off Russia’s east coast",
@@ -36,6 +37,12 @@
   {
     "title": "Tsunami alerts for Russia, Japan after 8.7 quake off Russian east coast",
     "added_at": "2025-07-30T01:14:50.091Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Tsunami alerts issued for US, Japan after powerful earthquake off Russia",
+    "added_at": "2025-07-30T01:43:53.265Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
