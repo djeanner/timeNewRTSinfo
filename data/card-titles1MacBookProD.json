@@ -4300,7 +4300,10 @@
   },
   {
     "title": "La série policière \"Surface\" offre à Laura Smet une plongée en eaux troubles",
-    "added_at": "2025-07-27T19:33:16.953Z"
+    "added_at": "2025-07-27T19:33:16.953Z",
+    "removed_at": "2025-07-30T21:31:28.265Z",
+    "duration_minutes": 4438,
+    "duration_str": "3d 1h 58m"
   },
   {
     "title": "Ruth Dreifuss appelle à accueillir des blessés palestiniens en Suisse",
@@ -4461,7 +4464,10 @@
   },
   {
     "title": "La ville de Berne se prépare à la montée du niveau de l'Aar",
-    "added_at": "2025-07-28T10:43:37.371Z"
+    "added_at": "2025-07-28T10:43:37.371Z",
+    "removed_at": "2025-07-30T21:00:26.827Z",
+    "duration_minutes": 3496,
+    "duration_str": "2d 10h 16m"
   },
   {
     "title": "L'ambassadeur d'Iran en Suisse: \"Tant que nous ne sommes pas attaqués, nous ne ferons rien\"",
@@ -4905,7 +4911,10 @@
   },
   {
     "title": "Niveaux d'alerte au tsunami en partie rétrogradés dans le Pacifique après le violent séisme en Russie",
-    "added_at": "2025-07-30T14:38:36.365Z"
+    "added_at": "2025-07-30T14:38:36.365Z",
+    "removed_at": "2025-07-30T20:58:20.145Z",
+    "duration_minutes": 379,
+    "duration_str": "6h 19m"
   },
   {
     "title": "Donald Trump annonce des droits de douane de 25% contre l'Inde à partir du 1er août",
@@ -4956,5 +4965,20 @@
     "removed_at": "2025-07-30T20:43:41.519Z",
     "duration_minutes": 18,
     "duration_str": "18m"
+  },
+  {
+    "title": "Après le violent séisme en Russie, l'alerte tsunami baisse en divers endroits dans le Pacifique",
+    "added_at": "2025-07-30T20:58:20.145Z"
+  },
+  {
+    "title": "Après le violent séisme en Russie, l'alerte tsunami baisse dans le Pacifique",
+    "added_at": "2025-07-30T20:58:20.145Z",
+    "removed_at": "2025-07-30T21:00:26.827Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Kiev promet de réviser sa loi anti-corruption après un tollé général",
+    "added_at": "2025-07-30T21:00:26.827Z"
   }
 ]
