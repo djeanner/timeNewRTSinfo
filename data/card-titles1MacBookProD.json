@@ -4477,7 +4477,10 @@
   },
   {
     "title": "L'ambassadeur d'Iran en Suisse: \"Tant que nous ne sommes pas attaqués, nous ne ferons rien\"",
-    "added_at": "2025-07-28T10:45:37.736Z"
+    "added_at": "2025-07-28T10:45:37.736Z",
+    "removed_at": "2025-07-31T09:36:52.184Z",
+    "duration_minutes": 4251,
+    "duration_str": "2d 22h 51m"
   },
   {
     "title": "Israël affirme que des premiers colis de vivres ont été livrés à Gaza, une aide jugée insuffisante",
@@ -4616,7 +4619,10 @@
   },
   {
     "title": "Le retour de l’aide humanitaire à Gaza répond-il à l’urgence des besoins? Interview de Pierre Micheletti",
-    "added_at": "2025-07-29T02:01:49.701Z"
+    "added_at": "2025-07-29T02:01:49.701Z",
+    "removed_at": "2025-07-31T09:05:49.084Z",
+    "duration_minutes": 3303,
+    "duration_str": "2d 7h 3m"
   },
   {
     "title": "Entretien avec Florian Besse, président d’honneur « Les Amis de Plan-Cerisier »",
@@ -4713,10 +4719,7 @@
   },
   {
     "title": "Les Etats-Unis ont-ils imposé leur ligne à l’UE dans les accords commerciaux? Interview de Rahul Sahgal",
-    "added_at": "2025-07-29T13:24:34.220Z",
-    "removed_at": "2025-07-31T09:03:37.240Z",
-    "duration_minutes": 2619,
-    "duration_str": "1d 19h 39m"
+    "added_at": "2025-07-29T13:24:34.220Z"
   },
   {
     "title": "Un projet de traversée lacustre à Genève accusé de servir des intérêts privés",
@@ -4793,10 +4796,7 @@
   },
   {
     "title": "Chute du dollar: UBS fâche certains de ses clients avec la vente de produits très risqués",
-    "added_at": "2025-07-29T22:16:53.901Z",
-    "removed_at": "2025-07-31T09:03:37.240Z",
-    "duration_minutes": 2086,
-    "duration_str": "1d 10h 46m"
+    "added_at": "2025-07-29T22:16:53.901Z"
   },
   {
     "title": "Alertes au tsunami dans le Pacifique après un séisme de magnitude 8,7 près des côtes russes",
@@ -5070,6 +5070,13 @@
   },
   {
     "title": "Les exploitations agricoles recherchent désespérément du personnel qualifié",
-    "added_at": "2025-07-31T09:03:37.240Z"
+    "added_at": "2025-07-31T09:03:37.240Z",
+    "removed_at": "2025-07-31T09:05:49.084Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Colère des opposants russes face à la venue à Genève de parlementaires sanctionnés",
+    "added_at": "2025-07-31T09:36:52.184Z"
   }
 ]
