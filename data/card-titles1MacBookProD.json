@@ -4456,7 +4456,10 @@
   },
   {
     "title": "Le déraillement d'un train qui a fait trois morts en Allemagne causé par un glissement de terrain",
-    "added_at": "2025-07-28T09:51:54.527Z"
+    "added_at": "2025-07-28T09:51:54.527Z",
+    "removed_at": "2025-07-31T02:48:33.154Z",
+    "duration_minutes": 3896,
+    "duration_str": "2d 16h 56m"
   },
   {
     "title": "Droits de douane américains: les pays européens plus ou moins concernés selon leurs exportations",
@@ -4980,5 +4983,9 @@
   {
     "title": "Kiev promet de réviser sa loi anti-corruption après un tollé général",
     "added_at": "2025-07-30T21:00:26.827Z"
+  },
+  {
+    "title": "En soutien à Jair Bolsonaro, Donald Trump maintient la pression sur le Brésil",
+    "added_at": "2025-07-31T02:48:33.154Z"
   }
 ]

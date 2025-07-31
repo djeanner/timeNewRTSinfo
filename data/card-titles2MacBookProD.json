@@ -23877,7 +23877,10 @@
   },
   {
     "title": "economie:::UBS estime que le dossier de ses produits financiers problématiques est réglé",
-    "added_at": "2025-07-30T12:34:10.356Z"
+    "added_at": "2025-07-30T12:34:10.356Z",
+    "removed_at": "2025-07-31T03:15:21.653Z",
+    "duration_minutes": 881,
+    "duration_str": "14h 41m"
   },
   {
     "title": "monde:::En Chine, la jeunesse désabusée rit avec candeur pour contourner la censure",
@@ -23943,5 +23946,9 @@
   {
     "title": "monde:::En direct, Gaza – Le Canada annonce son «intention» de reconnaître l'Etat de Palestine, Israël condamne",
     "added_at": "2025-07-31T01:48:25.198Z"
+  },
+  {
+    "title": "economie:::La Fed maintient ses taux inchangés, Jerome Powell défend son indépendance face à Donald Trump",
+    "added_at": "2025-07-31T03:15:21.653Z"
   }
 ]
