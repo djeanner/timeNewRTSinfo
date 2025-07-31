@@ -23874,7 +23874,10 @@
   },
   {
     "title": "suisse:::Le Valais appelle à la prudence face au risque de feu de forêt",
-    "added_at": "2025-07-30T11:21:35.425Z"
+    "added_at": "2025-07-30T11:21:35.425Z",
+    "removed_at": "2025-07-31T16:03:00.087Z",
+    "duration_minutes": 1721,
+    "duration_str": "1d 4h 41m"
   },
   {
     "title": "sport:::Granit Xhaka signe à Sunderland, ambitieux promu de Premier League",
@@ -24015,7 +24018,10 @@
   },
   {
     "title": "suisse:::Le Grütli retrouve grâce devant le Conseil fédéral pour le 1er Août",
-    "added_at": "2025-07-31T04:56:54.326Z"
+    "added_at": "2025-07-31T04:56:54.326Z",
+    "removed_at": "2025-07-31T16:03:00.087Z",
+    "duration_minutes": 666,
+    "duration_str": "11h 6m"
   },
   {
     "title": "cyber:::«Vulnérabilités et portes dérobées»: la Chine convoque Nvidia pour des «problèmes de sécurité» sur ses puces",
@@ -24068,5 +24074,9 @@
   {
     "title": "economie:::Pionnière des vaccins anti-covid, Moderna va licencier 10% de ses salariés",
     "added_at": "2025-07-31T14:50:21.971Z"
+  },
+  {
+    "title": "cyber:::La Suisse pourrait se doter d’un nouveau site de développement de semi-conducteurs à Zurich",
+    "added_at": "2025-07-31T16:03:00.087Z"
   }
 ]

@@ -48,8 +48,9 @@
   {
     "title": "suisse:::Le Grütli retrouve grâce devant le Conseil fédéral pour le 1er Août",
     "added_at": "2025-07-31T04:56:54.326Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-07-31T16:03:00.087Z",
+    "duration_minutes": 666,
+    "duration_str": "11h 6m"
   },
   {
     "title": "cyber:::«Vulnérabilités et portes dérobées»: la Chine convoque Nvidia pour des «problèmes de sécurité» sur ses puces",
@@ -112,6 +113,12 @@
   {
     "title": "economie:::Pionnière des vaccins anti-covid, Moderna va licencier 10% de ses salariés",
     "added_at": "2025-07-31T14:50:21.971Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "cyber:::La Suisse pourrait se doter d’un nouveau site de développement de semi-conducteurs à Zurich",
+    "added_at": "2025-07-31T16:03:00.087Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
