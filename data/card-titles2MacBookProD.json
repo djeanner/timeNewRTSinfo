@@ -21631,10 +21631,7 @@
   },
   {
     "title": "sciences:::Les yeux au ciel depuis des millénaires, comment l’humanité a cherché à comprendre le climat",
-    "added_at": "2025-07-21T09:50:20.909Z",
-    "removed_at": "2025-07-21T16:45:04.608Z",
-    "duration_minutes": 414,
-    "duration_str": "6h 54m"
+    "added_at": "2025-07-21T09:50:20.909Z"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Au moins un mort à Kiev après une nouvelle nuit de bombardements russes",
@@ -21904,7 +21901,10 @@
   },
   {
     "title": "sciences:::De la température de l'aisselle d'un cheval au baromètre à mercure, la grande aventure de la mesure météorologique",
-    "added_at": "2025-07-22T09:50:34.743Z"
+    "added_at": "2025-07-22T09:50:34.743Z",
+    "removed_at": "2025-07-31T13:43:45.170Z",
+    "duration_minutes": 13193,
+    "duration_str": "9d 3h 53m"
   },
   {
     "title": "sciences:::Une fusion record de deux trous noirs massifs détectée grâce aux ondes gravitationnelles",
@@ -23954,14 +23954,14 @@
   },
   {
     "title": "sciences:::Dans l’air des maisons et des voitures, des concentrations importantes de particules fines de plastique",
-    "added_at": "2025-07-30T18:01:46.705Z",
-    "removed_at": "2025-07-31T12:35:17.859Z",
-    "duration_minutes": 1113,
-    "duration_str": "18h 33m"
+    "added_at": "2025-07-30T18:01:46.705Z"
   },
   {
     "title": "culture:::«Le Chemin de la frontière», de Grete Weil, ou le récit d’un aveuglement à l’aube de la guerre",
-    "added_at": "2025-07-30T19:29:01.318Z"
+    "added_at": "2025-07-30T19:29:01.318Z",
+    "removed_at": "2025-07-31T13:25:07.020Z",
+    "duration_minutes": 1076,
+    "duration_str": "17h 56m"
   },
   {
     "title": "sport:::Un Servette poids plume laisse s’envoler son rêve de qualification européenne directe",
@@ -24013,7 +24013,10 @@
   },
   {
     "title": "cyber:::«Vulnérabilités et portes dérobées»: la Chine convoque Nvidia pour des «problèmes de sécurité» sur ses puces",
-    "added_at": "2025-07-31T09:22:22.681Z"
+    "added_at": "2025-07-31T09:22:22.681Z",
+    "removed_at": "2025-07-31T13:39:37.568Z",
+    "duration_minutes": 257,
+    "duration_str": "4h 17m"
   },
   {
     "title": "suisse:::Controversés, les feux d’artifice n’ont pas encore dit leur dernier mot",
@@ -24037,5 +24040,9 @@
   {
     "title": "economie:::Plombée par l’affaiblissement du dollar, la BNS annonce une perte de 15 milliards de francs",
     "added_at": "2025-07-31T12:35:17.859Z"
+  },
+  {
+    "title": "economie:::Euronext va racheter la Bourse d’Athènes",
+    "added_at": "2025-07-31T13:39:37.568Z"
   }
 ]
