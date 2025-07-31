@@ -24098,10 +24098,7 @@
   },
   {
     "title": "cyber:::La Suisse pourrait se doter d’un nouveau site de développement de semi-conducteurs à Zurich",
-    "added_at": "2025-07-31T16:03:00.087Z",
-    "removed_at": "2025-07-31T20:16:23.192Z",
-    "duration_minutes": 253,
-    "duration_str": "4h 13m"
+    "added_at": "2025-07-31T16:03:00.087Z"
   },
   {
     "title": "suisse:::Les CFF assurent que les travaux sur la ligne Fribourg-Berne sont dans les temps",
@@ -24113,7 +24110,10 @@
   },
   {
     "title": "culture:::A L’Orangerie, Julia Botelho présente son cirque intime, entre délires et démons",
-    "added_at": "2025-07-31T17:40:37.846Z"
+    "added_at": "2025-07-31T17:40:37.846Z",
+    "removed_at": "2025-07-31T20:20:43.314Z",
+    "duration_minutes": 160,
+    "duration_str": "2h 40m"
   },
   {
     "title": "sciences:::Avec ses escouades de «travailleurs de la mort», Jean Pierre Mégnin fonde l’entomologie forensique",
@@ -24121,17 +24121,11 @@
   },
   {
     "title": "cyber:::Les résultats de Meta, Microsoft, et Alphabet montrent que la folie de l’IA et du cloud n’est pas terminée",
-    "added_at": "2025-07-31T17:57:15.374Z",
-    "removed_at": "2025-07-31T20:16:23.192Z",
-    "duration_minutes": 139,
-    "duration_str": "2h 19m"
+    "added_at": "2025-07-31T17:57:15.374Z"
   },
   {
     "title": "culture:::Merveille, Jungle Jack, Badnaiy et les autres: les cinq rappeuses et rappeurs à ne pas manquer cet été",
-    "added_at": "2025-07-31T18:15:56.108Z",
-    "removed_at": "2025-07-31T19:18:16.276Z",
-    "duration_minutes": 62,
-    "duration_str": "1h 2m"
+    "added_at": "2025-07-31T18:15:56.108Z"
   },
   {
     "title": "economie:::En direct, guerre commerciale – Suspense pour la Suisse et d'autres pays à propos des taxes douanières américaines",
@@ -24142,7 +24136,10 @@
   },
   {
     "title": "economie:::En direct, guerre commerciale – Cette fois, Donald Trump attaque frontalement les pharmas",
-    "added_at": "2025-07-31T19:07:50.740Z"
+    "added_at": "2025-07-31T19:07:50.740Z",
+    "removed_at": "2025-07-31T20:39:22.654Z",
+    "duration_minutes": 91,
+    "duration_str": "1h 31m"
   },
   {
     "title": "culture:::Décès du metteur en scène américain Bob Wilson",
@@ -24151,5 +24148,9 @@
   {
     "title": "monde:::En direct, Gaza – Le Djihad islamique diffuse une vidéo d’un otage",
     "added_at": "2025-07-31T19:59:46.843Z"
+  },
+  {
+    "title": "economie:::En direct, guerre commerciale – Karin Keller-Sutter annonce un échec des discussions à propos des taxes américaines",
+    "added_at": "2025-07-31T20:39:22.654Z"
   }
 ]

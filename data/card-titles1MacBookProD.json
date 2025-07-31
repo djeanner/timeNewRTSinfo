@@ -4770,7 +4770,10 @@
   },
   {
     "title": "A Davos, les marmottes vivent plus haut, notamment à cause du réchauffement climatique",
-    "added_at": "2025-07-29T10:40:57.007Z"
+    "added_at": "2025-07-29T10:40:57.007Z",
+    "removed_at": "2025-07-31T20:24:49.835Z",
+    "duration_minutes": 3463,
+    "duration_str": "2d 9h 43m"
   },
   {
     "title": "Les noix de cajou, source d'allergies graves chez de plus en plus d'enfants",
@@ -5030,7 +5033,10 @@
   },
   {
     "title": "Les députés européens débattent de la mise en place de sanctions contre Israël",
-    "added_at": "2025-07-30T17:03:44.666Z"
+    "added_at": "2025-07-30T17:03:44.666Z",
+    "removed_at": "2025-07-31T21:02:07.394Z",
+    "duration_minutes": 1678,
+    "duration_str": "1d 3h 58m"
   },
   {
     "title": "Les frontières de l'espace Schengen seront contrôlées numériquement",
@@ -5136,10 +5142,7 @@
   },
   {
     "title": "Les exploitations agricoles recherchent désespérément du personnel qualifié",
-    "added_at": "2025-07-31T09:03:37.240Z",
-    "removed_at": "2025-07-31T19:18:16.236Z",
-    "duration_minutes": 614,
-    "duration_str": "10h 14m"
+    "added_at": "2025-07-31T09:03:37.240Z"
   },
   {
     "title": "Colère des opposants russes face à la venue à Genève de parlementaires sanctionnés",
@@ -5298,5 +5301,9 @@
   {
     "title": "Aucun accord n'a été trouvé entre la Suisse et les Etats-Unis concernant les droits de douane",
     "added_at": "2025-07-31T20:12:14.341Z"
+  },
+  {
+    "title": "Incendie dans un centre de compostage à Sion, la population invitée à fermer portes et fenêtres",
+    "added_at": "2025-07-31T20:24:49.835Z"
   }
 ]
