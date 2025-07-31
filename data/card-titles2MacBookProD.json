@@ -23822,7 +23822,10 @@
   },
   {
     "title": "culture:::Caractères particuliers: Garamond, police qui vaut son pesant d’encre",
-    "added_at": "2025-07-30T06:52:13.648Z"
+    "added_at": "2025-07-30T06:52:13.648Z",
+    "removed_at": "2025-07-31T04:52:48.826Z",
+    "duration_minutes": 1320,
+    "duration_str": "22h"
   },
   {
     "title": "monde:::Des vagues de tsunami de plus d’un mètre au Japon et à Hawaï après un séisme près des côtes russes",
@@ -23931,7 +23934,10 @@
   },
   {
     "title": "economie:::Suisse-France: du télétravail pérenne pour les frontaliers et (un peu) plus d’administratif pour les entreprises",
-    "added_at": "2025-07-30T17:22:30.020Z"
+    "added_at": "2025-07-30T17:22:30.020Z",
+    "removed_at": "2025-07-31T04:27:59.815Z",
+    "duration_minutes": 665,
+    "duration_str": "11h 5m"
   },
   {
     "title": "economie:::Les résultats du luxe démontrent que la clientèle est plus sélective mais toujours présente",
@@ -23975,5 +23981,16 @@
   {
     "title": "suisse:::Immersion chez les Favre, la famille romande typique de la génération solaire de 2030",
     "added_at": "2025-07-31T04:17:28.922Z"
+  },
+  {
+    "title": "monde:::Des millions de riverains du Pacifique évacués après un très fort séisme au large de la Russie",
+    "added_at": "2025-07-31T04:27:59.815Z",
+    "removed_at": "2025-07-31T04:56:54.326Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
+  },
+  {
+    "title": "suisse:::Le Grütli retrouve grâce devant le Conseil fédéral pour le 1er Août",
+    "added_at": "2025-07-31T04:56:54.326Z"
   }
 ]
