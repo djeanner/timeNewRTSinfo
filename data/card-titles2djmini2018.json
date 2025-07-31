@@ -6448,10 +6448,7 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:00:57.917Z",
-    "removed_at": "2025-07-25T12:36:18.324Z",
-    "duration_minutes": 91835,
-    "duration_str": "63d 18h 35m"
+    "added_at": "2025-05-22T18:00:57.917Z"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -20495,7 +20492,10 @@
   },
   {
     "title": "monde:::En direct, Gaza – Le Canada annonce son «intention» de reconnaître l'Etat de Palestine, Israël condamne",
-    "added_at": "2025-07-31T01:49:31.891Z"
+    "added_at": "2025-07-31T01:49:31.891Z",
+    "removed_at": "2025-07-31T19:58:55.949Z",
+    "duration_minutes": 1089,
+    "duration_str": "18h 9m"
   },
   {
     "title": "economie:::La Fed maintient ses taux inchangés, Jerome Powell défend son indépendance face à Donald Trump",
@@ -20520,10 +20520,7 @@
   },
   {
     "title": "suisse:::Immersion chez les Favre, la famille romande typique de la génération solaire de 2030",
-    "added_at": "2025-07-31T04:16:04.157Z",
-    "removed_at": "2025-07-31T17:41:18.584Z",
-    "duration_minutes": 805,
-    "duration_str": "13h 25m"
+    "added_at": "2025-07-31T04:16:04.157Z"
   },
   {
     "title": "monde:::A Gaza, les photojournalistes à bout de forces et derniers témoins d’une guerre sous blocus médiatique racontent le «cœur des enfers»",
@@ -20555,11 +20552,17 @@
   },
   {
     "title": "suisse:::Controversés, les feux d’artifice n’ont pas encore dit leur dernier mot",
-    "added_at": "2025-07-31T10:21:54.176Z"
+    "added_at": "2025-07-31T10:21:54.176Z",
+    "removed_at": "2025-07-31T19:18:51.103Z",
+    "duration_minutes": 536,
+    "duration_str": "8h 56m"
   },
   {
     "title": "culture:::A Arles, Ho Tzu Nyen raconte toutes les histoires possibles de l’Asie du Sud-Est",
-    "added_at": "2025-07-31T11:07:43.953Z"
+    "added_at": "2025-07-31T11:07:43.953Z",
+    "removed_at": "2025-07-31T18:17:43.898Z",
+    "duration_minutes": 429,
+    "duration_str": "7h 9m"
   },
   {
     "title": "monde:::Détruire pour près de 10 millions de francs de contraceptifs féminins: dernière polémique en date liée au démantèlement de l’USAID par Washington",
@@ -20570,7 +20573,10 @@
   },
   {
     "title": "monde:::Détruire pour près de 10 millions de francs de contraceptifs féminins: dernière polémique en date liée au démantèlement de l’Usaid par Washington",
-    "added_at": "2025-07-31T12:29:42.740Z"
+    "added_at": "2025-07-31T12:29:42.740Z",
+    "removed_at": "2025-07-31T18:15:48.624Z",
+    "duration_minutes": 346,
+    "duration_str": "5h 46m"
   },
   {
     "title": "economie:::Plombée par l’affaiblissement du dollar, la BNS annonce une perte de 15 milliards de francs",
@@ -20589,7 +20595,10 @@
   },
   {
     "title": "economie:::Pionnière des vaccins anti-covid, Moderna va licencier 10% de ses salariés",
-    "added_at": "2025-07-31T17:31:45.943Z"
+    "added_at": "2025-07-31T17:31:45.943Z",
+    "removed_at": "2025-07-31T17:54:49.037Z",
+    "duration_minutes": 23,
+    "duration_str": "23m"
   },
   {
     "title": "suisse:::Les CFF assurent que les travaux sur la ligne Fribourg-Berne sont dans les temps",
@@ -20606,5 +20615,35 @@
   {
     "title": "sciences:::Avec ses escouades de «travailleurs de la mort», Jean Pierre Mégnin fonde l’entomologie forensique",
     "added_at": "2025-07-31T17:41:18.584Z"
+  },
+  {
+    "title": "cyber:::Les résultats de Meta, Microsoft, et Alphabet montrent que la folie de l’IA et du cloud n’est pas terminée",
+    "added_at": "2025-07-31T17:56:46.738Z"
+  },
+  {
+    "title": "culture:::Merveille, Jungle Jack, Badnaiy et les autres: les cinq rappeuses et rappeurs à ne pas manquer cet été",
+    "added_at": "2025-07-31T18:15:48.624Z",
+    "removed_at": "2025-07-31T19:17:00.224Z",
+    "duration_minutes": 61,
+    "duration_str": "1h 1m"
+  },
+  {
+    "title": "economie:::En direct, guerre commerciale – Suspense pour la Suisse et d'autres pays à propos des taxes douanières américaines",
+    "added_at": "2025-07-31T18:38:43.485Z",
+    "removed_at": "2025-07-31T19:07:22.132Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
+  },
+  {
+    "title": "economie:::En direct, guerre commerciale – Cette fois, Donald Trump attaque frontalement les pharmas",
+    "added_at": "2025-07-31T19:07:22.132Z"
+  },
+  {
+    "title": "culture:::Décès du metteur en scène américain Bob Wilson",
+    "added_at": "2025-07-31T19:17:00.224Z"
+  },
+  {
+    "title": "monde:::En direct, Gaza – Le Djihad islamique diffuse une vidéo d’un otage",
+    "added_at": "2025-07-31T19:58:55.949Z"
   }
 ]
