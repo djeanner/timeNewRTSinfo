@@ -4490,7 +4490,10 @@
   },
   {
     "title": "Noè Ponti se pare d'argent sur 50m papillon!",
-    "added_at": "2025-07-28T12:14:34.808Z"
+    "added_at": "2025-07-28T12:14:34.808Z",
+    "removed_at": "2025-07-31T04:17:28.886Z",
+    "duration_minutes": 3842,
+    "duration_str": "2d 16h 2m"
   },
   {
     "title": "Les exportations pharma suisses touchées par l'accord commercial entre les Etats-Unis et l'UE",
@@ -4987,5 +4990,9 @@
   {
     "title": "En soutien à Jair Bolsonaro, Donald Trump maintient la pression sur le Brésil",
     "added_at": "2025-07-31T02:48:33.154Z"
+  },
+  {
+    "title": "L'ergot du seigle frappe les cultures de céréales romandes",
+    "added_at": "2025-07-31T04:17:28.886Z"
   }
 ]
