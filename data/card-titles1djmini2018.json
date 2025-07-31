@@ -27334,7 +27334,10 @@
   },
   {
     "title": "La Suisse utilise de plus en plus son bois pour le chauffage",
-    "added_at": "2025-07-29T06:47:35.954Z"
+    "added_at": "2025-07-29T06:47:35.954Z",
+    "removed_at": "2025-07-31T20:10:30.377Z",
+    "duration_minutes": 3682,
+    "duration_str": "2d 13h 22m"
   },
   {
     "title": "Entretien avec Florian Besse, président d’honneur « Les Amis de Plan-Cerisier »",
@@ -27405,7 +27408,10 @@
   },
   {
     "title": "A Davos, les marmottes vivent plus haut, notamment à cause du réchauffement climatique",
-    "added_at": "2025-07-29T10:39:55.940Z"
+    "added_at": "2025-07-29T10:39:55.940Z",
+    "removed_at": "2025-07-31T20:25:48.470Z",
+    "duration_minutes": 3465,
+    "duration_str": "2d 9h 45m"
   },
   {
     "title": "Les noix de cajou, source d'allergies graves chez de plus en plus d'enfants",
@@ -27560,7 +27566,10 @@
   },
   {
     "title": "La Suisse attend la décision américaine sur les taxes douanières: débat entre Samuel Bendahan et Damien Cottier",
-    "added_at": "2025-07-30T07:21:05.085Z"
+    "added_at": "2025-07-30T07:21:05.085Z",
+    "removed_at": "2025-07-31T22:02:51.377Z",
+    "duration_minutes": 2321,
+    "duration_str": "1d 14h 41m"
   },
   {
     "title": "Record de sécheresse en Europe: 52% des sols affectés début juillet",
@@ -27665,7 +27674,10 @@
   },
   {
     "title": "Les députés européens débattent de la mise en place de sanctions contre Israël",
-    "added_at": "2025-07-30T16:58:13.344Z"
+    "added_at": "2025-07-30T16:58:13.344Z",
+    "removed_at": "2025-07-31T21:01:56.182Z",
+    "duration_minutes": 1683,
+    "duration_str": "1d 4h 3m"
   },
   {
     "title": "Les frontières de l'espace Schengen seront contrôlées numériquement",
@@ -27841,10 +27853,7 @@
   },
   {
     "title": "Les exploitations agricoles recherchent désespérément du personnel qualifié",
-    "added_at": "2025-07-31T18:02:28.757Z",
-    "removed_at": "2025-07-31T19:18:50.971Z",
-    "duration_minutes": 76,
-    "duration_str": "1h 16m"
+    "added_at": "2025-07-31T18:02:28.757Z"
   },
   {
     "title": "Un projet pilote transforme les vieilles fenêtres en vitrage neuf",
@@ -27901,5 +27910,17 @@
   {
     "title": "L'émissaire de Donald Trump se rend vendredi à Gaza rongée par la famine",
     "added_at": "2025-07-31T20:02:47.496Z"
+  },
+  {
+    "title": "Aucun accord n'a été trouvé entre la Suisse et les Etats-Unis concernant les droits de douane",
+    "added_at": "2025-07-31T20:10:30.377Z"
+  },
+  {
+    "title": "Incendie dans un centre de compostage à Sion, la population invitée à fermer portes et fenêtres",
+    "added_at": "2025-07-31T20:25:48.470Z"
+  },
+  {
+    "title": "Les inconnues autour des taxes douanières américaines inquiètent les transporteurs suisses: interview de Thierry Moreno",
+    "added_at": "2025-07-31T22:02:51.377Z"
   }
 ]
