@@ -20606,7 +20606,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Vladimir Poutine renforce la censure dans son pays",
-    "added_at": "2025-07-31T17:31:45.943Z"
+    "added_at": "2025-07-31T17:31:45.943Z",
+    "removed_at": "2025-08-01T01:26:43.487Z",
+    "duration_minutes": 474,
+    "duration_str": "7h 54m"
   },
   {
     "title": "culture:::A L’Orangerie, Julia Botelho présente son cirque intime, entre délires et démons",
@@ -20647,7 +20650,10 @@
   },
   {
     "title": "monde:::En direct, Gaza – Le Djihad islamique diffuse une vidéo d’un otage",
-    "added_at": "2025-07-31T19:58:55.949Z"
+    "added_at": "2025-07-31T19:58:55.949Z",
+    "removed_at": "2025-08-01T01:34:21.496Z",
+    "duration_minutes": 335,
+    "duration_str": "5h 35m"
   },
   {
     "title": "economie:::En direct, guerre commerciale – Karin Keller-Sutter annonce un échec des discussions à propos des taxes américaines",
@@ -20659,5 +20665,13 @@
   {
     "title": "economie:::En direct, guerre commerciale – Donald Trump signe le décret augmentant les droits de douane, mais leur application repoussée au 7 août",
     "added_at": "2025-08-01T00:42:51.155Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky appelle à un «changement de régime» en Russie",
+    "added_at": "2025-08-01T01:26:43.487Z"
+  },
+  {
+    "title": "monde:::En direct, Gaza – L'émissaire de  Donald Trump se rend vendredi dans l'enclave palestinienne",
+    "added_at": "2025-08-01T01:34:21.496Z"
   }
 ]
