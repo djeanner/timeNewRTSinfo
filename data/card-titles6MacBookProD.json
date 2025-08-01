@@ -25047,7 +25047,10 @@
   },
   {
     "title": "Which countries are included in Trump’s latest round of adjusted tariffs?",
-    "added_at": "2025-08-01T03:59:15.700Z"
+    "added_at": "2025-08-01T03:59:15.700Z",
+    "removed_at": "2025-08-01T10:39:58.250Z",
+    "duration_minutes": 400,
+    "duration_str": "6h 40m"
   },
   {
     "title": "Israel sharpens UAE travel warning for citizens, cites ‘terrorist’ threat",
@@ -25065,7 +25068,10 @@
   },
   {
     "title": "Trump envoy to visit Gaza aid sites as Israel accused of starvation policy",
-    "added_at": "2025-08-01T04:51:11.958Z"
+    "added_at": "2025-08-01T04:51:11.958Z",
+    "removed_at": "2025-08-01T10:33:46.053Z",
+    "duration_minutes": 342,
+    "duration_str": "5h 42m"
   },
   {
     "title": "El Salvador approves indefinite presidential re-election",
@@ -25090,5 +25096,20 @@
   {
     "title": "Pakistan’s Nawaz takes three West Indies wickets in 14-run T20 win",
     "added_at": "2025-08-01T10:14:58.730Z"
+  },
+  {
+    "title": "Trump envoy visits Gaza aid sites as Israel accused of starvation policy",
+    "added_at": "2025-08-01T10:33:46.053Z",
+    "removed_at": "2025-08-01T10:54:27.554Z",
+    "duration_minutes": 20,
+    "duration_str": "20m"
+  },
+  {
+    "title": "How are countries and markets reacting to Trump tariffs?",
+    "added_at": "2025-08-01T10:39:58.250Z"
+  },
+  {
+    "title": "In the wake of new tariffs, how are US-China trade talks going?",
+    "added_at": "2025-08-01T10:54:27.554Z"
   }
 ]
