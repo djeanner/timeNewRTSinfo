@@ -24207,7 +24207,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky appelle à un «changement de régime» en Russie",
-    "added_at": "2025-08-01T01:25:41.659Z"
+    "added_at": "2025-08-01T01:25:41.659Z",
+    "removed_at": "2025-08-01T14:18:14.171Z",
+    "duration_minutes": 772,
+    "duration_str": "12h 52m"
   },
   {
     "title": "monde:::En direct, Gaza – L'émissaire de  Donald Trump se rend vendredi dans l'enclave palestinienne",
@@ -24304,7 +24307,10 @@
   },
   {
     "title": "economie:::Swissmem évoque un «choc douanier» et un «1er août funeste»",
-    "added_at": "2025-08-01T09:06:26.213Z"
+    "added_at": "2025-08-01T09:06:26.213Z",
+    "removed_at": "2025-08-01T14:57:33.223Z",
+    "duration_minutes": 351,
+    "duration_str": "5h 51m"
   },
   {
     "title": "culture:::Tube m’oubliera: «The Captain of Her Heart», un raz-de-marée et puis s’en va",
@@ -24323,10 +24329,7 @@
   },
   {
     "title": "economie:::Le prix des montres suisses va (encore) augmenter",
-    "added_at": "2025-08-01T09:56:17.656Z",
-    "removed_at": "2025-08-01T13:36:35.046Z",
-    "duration_minutes": 220,
-    "duration_str": "3h 40m"
+    "added_at": "2025-08-01T09:56:17.656Z"
   },
   {
     "title": "economie:::En direct, guerre commerciale – Entrepreneurs inquiets, divisions politiques: les réactions fusent après l’annonce de taxes douanières de 39% aux Etats-Unis",
@@ -24359,5 +24362,9 @@
   {
     "title": "economie:::Fabio Regazzi, président de l’USAM: «Face aux 39%, il faut continuer de négocier et prendre des mesures internes»",
     "added_at": "2025-08-01T13:38:40.211Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Vladimir Poutine dit vouloir «une paix durable» en Ukraine sans changer ses conditions",
+    "added_at": "2025-08-01T14:18:14.171Z"
   }
 ]
