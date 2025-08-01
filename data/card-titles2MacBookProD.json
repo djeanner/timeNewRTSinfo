@@ -24146,7 +24146,10 @@
   },
   {
     "title": "culture:::Décès du metteur en scène américain Bob Wilson",
-    "added_at": "2025-07-31T19:18:16.276Z"
+    "added_at": "2025-07-31T19:18:16.276Z",
+    "removed_at": "2025-08-01T03:30:12.021Z",
+    "duration_minutes": 491,
+    "duration_str": "8h 11m"
   },
   {
     "title": "monde:::En direct, Gaza – Le Djihad islamique diffuse une vidéo d’un otage",
@@ -24164,7 +24167,10 @@
   },
   {
     "title": "economie:::En direct, guerre commerciale – Donald Trump signe le décret augmentant les droits de douane, mais leur application repoussée au 7 août",
-    "added_at": "2025-08-01T00:42:07.130Z"
+    "added_at": "2025-08-01T00:42:07.130Z",
+    "removed_at": "2025-08-01T03:17:45.978Z",
+    "duration_minutes": 155,
+    "duration_str": "2h 35m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky appelle à un «changement de régime» en Russie",
@@ -24173,5 +24179,13 @@
   {
     "title": "monde:::En direct, Gaza – L'émissaire de  Donald Trump se rend vendredi dans l'enclave palestinienne",
     "added_at": "2025-08-01T01:33:55.505Z"
+  },
+  {
+    "title": "economie:::En direct, guerre commerciale – Les exportations suisses frappées de 39% de taxes douanières aux Etats-Unis",
+    "added_at": "2025-08-01T03:17:45.978Z"
+  },
+  {
+    "title": "monde:::Le parlement du Salvador adopte la réforme permettant à Nayib Bukele de se représenter indéfiniment",
+    "added_at": "2025-08-01T03:30:12.021Z"
   }
 ]
