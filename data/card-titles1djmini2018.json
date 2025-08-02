@@ -27752,7 +27752,10 @@
   },
   {
     "title": "Les tsunamis sont des phénomènes presque impossibles à prévoir",
-    "added_at": "2025-07-30T19:17:12.976Z"
+    "added_at": "2025-07-30T19:17:12.976Z",
+    "removed_at": "2025-08-02T05:04:27.595Z",
+    "duration_minutes": 3467,
+    "duration_str": "2d 9h 47m"
   },
   {
     "title": "Pour la cinquième fois, la Réserve fédérale américaine ne change pas ses taux d'intérêt",
@@ -28161,9 +28164,9 @@
   {
     "title": "Allocution de Karin Keller-Sutter, Présidente de la Confédération",
     "added_at": "2025-08-01T23:50:48.092Z",
-    "removed_at": "2025-08-02T01:16:24.945Z",
-    "duration_minutes": 85,
-    "duration_str": "1h 25m"
+    "removed_at": "2025-08-02T04:24:30.969Z",
+    "duration_minutes": 273,
+    "duration_str": "4h 33m"
   },
   {
     "title": "USA/Taxes: coup de massue pour l’économie suisse: interview de François Gabella et Michel Girardin",
@@ -28188,5 +28191,9 @@
   {
     "title": "Le juge brésilien chargé du procès de Jair Bolsonaro ne cède pas face aux sanctions américaines",
     "added_at": "2025-08-02T02:41:49.895Z"
+  },
+  {
+    "title": "Interview de Rahul Sahgal de la Chambre de commerce Suisse-Etats-Unis",
+    "added_at": "2025-08-02T04:22:36.807Z"
   }
 ]
