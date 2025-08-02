@@ -24347,7 +24347,10 @@
   },
   {
     "title": "economie:::Le prix des montres suisses va (encore) augmenter",
-    "added_at": "2025-08-01T09:56:17.656Z"
+    "added_at": "2025-08-01T09:56:17.656Z",
+    "removed_at": "2025-08-02T06:10:05.469Z",
+    "duration_minutes": 1213,
+    "duration_str": "20h 13m"
   },
   {
     "title": "economie:::En direct, guerre commerciale – Entrepreneurs inquiets, divisions politiques: les réactions fusent après l’annonce de taxes douanières de 39% aux Etats-Unis",
@@ -24492,7 +24495,10 @@
   },
   {
     "title": "culture:::Anastasia Kobekina, un violoncelle de chair et d’esprit",
-    "added_at": "2025-08-01T19:21:35.275Z"
+    "added_at": "2025-08-01T19:21:35.275Z",
+    "removed_at": "2025-08-02T06:28:46.453Z",
+    "duration_minutes": 667,
+    "duration_str": "11h 7m"
   },
   {
     "title": "monde:::Guerre en Ukraine: Après des commentaires russes jugés «provocateurs», Donald Trump annonce déployer deux sous-marins nucléaires",
@@ -24519,5 +24525,9 @@
   {
     "title": "monde:::En direct – Guerre à Gaza: Près de 1400 Palestiniens ont été tués depuis fin mai alors qu’ils cherchaient de la nourriture",
     "added_at": "2025-08-02T05:38:50.524Z"
+  },
+  {
+    "title": "economie:::Dans le monde, une cascade d’émotions après les injonctions douanières de Donald Trump",
+    "added_at": "2025-08-02T06:28:46.453Z"
   }
 ]
