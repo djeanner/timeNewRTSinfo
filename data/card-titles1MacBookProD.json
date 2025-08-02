@@ -4400,10 +4400,7 @@
   },
   {
     "title": "Couleurs d'été - 2025",
-    "added_at": "2025-07-28T08:54:02.841Z",
-    "removed_at": "2025-07-31T12:14:37.605Z",
-    "duration_minutes": 4520,
-    "duration_str": "3d 3h 20m"
+    "added_at": "2025-07-28T08:54:02.841Z"
   },
   {
     "title": "Coup d'envoi à Bâle de la finale de l'Euro 2025 féminin opposant l'Angleterre à l'Espagne",
@@ -5055,7 +5052,10 @@
   },
   {
     "title": "La moitié de la flotte Belle Epoque circulera dès cet automne",
-    "added_at": "2025-07-30T13:21:45.364Z"
+    "added_at": "2025-07-30T13:21:45.364Z",
+    "removed_at": "2025-08-02T10:02:54.565Z",
+    "duration_minutes": 4121,
+    "duration_str": "2d 20h 41m"
   },
   {
     "title": "Le bateau à vapeur \"Montreux\" fera son grand retour sur le Léman le 1er septembre, annonce la CGN",
@@ -5476,7 +5476,10 @@
   },
   {
     "title": "La Suisse dans l’attente de la décision des Etats-Unis sur les droits de douane: interview de Jan Atteslander",
-    "added_at": "2025-08-01T10:23:19.622Z"
+    "added_at": "2025-08-01T10:23:19.622Z",
+    "removed_at": "2025-08-02T10:21:34.177Z",
+    "duration_minutes": 1438,
+    "duration_str": "23h 58m"
   },
   {
     "title": "Berne réagit \"avec grand regret\" à la décision américaines, milieux économiques et politiques inquiets",
@@ -5613,5 +5616,9 @@
   {
     "title": "Nouveau film d'horreur des frères Philippou, \"Bring her Back\" peine à convaincre",
     "added_at": "2025-08-02T07:54:00.674Z"
+  },
+  {
+    "title": "USA/Taxes: faut-il défier l’administration Trump ou continuer de négocier avec elle? La réaction de nos invités",
+    "added_at": "2025-08-02T10:21:34.177Z"
   }
 ]
