@@ -5066,7 +5066,10 @@
   },
   {
     "title": "Petites ou grandes, les exploitations agricoles sont confrontées à une pénurie de main-d'œuvre",
-    "added_at": "2025-07-30T10:50:35.525Z"
+    "added_at": "2025-07-30T10:50:35.525Z",
+    "removed_at": "2025-08-02T16:17:26.218Z",
+    "duration_minutes": 4646,
+    "duration_str": "3d 5h 26m"
   },
   {
     "title": "La moitié de la flotte Belle Epoque circulera dès cet automne",
@@ -5592,7 +5595,10 @@
   },
   {
     "title": "Allocution de Karin Keller-Sutter, Présidente de la Confédération",
-    "added_at": "2025-08-01T22:18:24.004Z"
+    "added_at": "2025-08-01T22:18:24.004Z",
+    "removed_at": "2025-08-02T16:23:40.956Z",
+    "duration_minutes": 1085,
+    "duration_str": "18h 5m"
   },
   {
     "title": "USA/Taxes: les réactions de Céline Amaudruz, Samuel Bendahan, Damien Cottier, Charles Juillard et Sophie Michaud-Gigon",
@@ -5669,5 +5675,13 @@
   {
     "title": "Le chômage partiel, une solution pour les entreprises suisses après la hausse des droits de douane?",
     "added_at": "2025-08-02T15:21:13.120Z"
+  },
+  {
+    "title": "Guy Parmelin déplore \"la punition\" des Etats-Unis et promet une rencontre rapide du Conseil fédéral",
+    "added_at": "2025-08-02T16:17:26.218Z"
+  },
+  {
+    "title": "Donald Trump somme les entreprises pharmaceutiques de baisser leurs prix",
+    "added_at": "2025-08-02T16:23:40.956Z"
   }
 ]
