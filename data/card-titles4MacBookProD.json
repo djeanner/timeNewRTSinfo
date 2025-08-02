@@ -55132,7 +55132,10 @@
   },
   {
     "title": "Kyiv apartment block strike marks the deadliest attack on Ukraine’s capital since 2024",
-    "added_at": "2025-08-01T11:44:22.827Z"
+    "added_at": "2025-08-01T11:44:22.827Z",
+    "removed_at": "2025-08-02T21:00:20.455Z",
+    "duration_minutes": 1995,
+    "duration_str": "1d 9h 15m"
   },
   {
     "title": "‘I should have been with him’: Ukrainian mother describes horror of losing child",
@@ -55785,7 +55788,10 @@
   },
   {
     "title": "Rescue workers race to save five men trapped in Chilean copper mine",
-    "added_at": "2025-08-02T19:16:17.089Z"
+    "added_at": "2025-08-02T19:16:17.089Z",
+    "removed_at": "2025-08-02T21:14:52.920Z",
+    "duration_minutes": 118,
+    "duration_str": "1h 58m"
   },
   {
     "title": "Watchdog agency launches probe into Jack Smith for allegedly violating Hatch Act",
@@ -55804,5 +55810,13 @@
   {
     "title": "Watchdog agency launches probe into former Trump prosecutor Jack Smith",
     "added_at": "2025-08-02T20:51:58.939Z"
+  },
+  {
+    "title": "Ukraine says it uncovers major drone procurement corruption scheme",
+    "added_at": "2025-08-02T21:00:20.455Z"
+  },
+  {
+    "title": "Body found as Chile’s rescue workers scramble to find missing miners",
+    "added_at": "2025-08-02T21:14:52.920Z"
   }
 ]
