@@ -137,8 +137,9 @@
   {
     "title": "Ukraine drone attacks kill three in Russia, cause fire at oil refinery",
     "added_at": "2025-08-02T12:25:53.915Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-02T22:13:10.152Z",
+    "duration_minutes": 587,
+    "duration_str": "9h 47m"
   },
   {
     "title": "One dead, five trapped after giant Chile copper mine collapses",
@@ -192,6 +193,12 @@
   {
     "title": "Death toll rises to 2 as rescue efforts continue at collapsed Chile mine",
     "added_at": "2025-08-02T21:29:25.508Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Canadian wildfire smoke triggers air quality alerts in US",
+    "added_at": "2025-08-02T22:13:10.152Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
