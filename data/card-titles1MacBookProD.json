@@ -5132,7 +5132,10 @@
   },
   {
     "title": "Le mouvement raélien s'affiche à nouveau dans les gares romandes",
-    "added_at": "2025-07-30T15:47:00.098Z"
+    "added_at": "2025-07-30T15:47:00.098Z",
+    "removed_at": "2025-08-03T14:08:14.361Z",
+    "duration_minutes": 5661,
+    "duration_str": "3d 22h 21m"
   },
   {
     "title": "Quinze pays occidentaux appellent à reconnaître la Palestine",
@@ -5590,7 +5593,10 @@
   },
   {
     "title": "Guy Parmelin réagit depuis Soleure aux taxes américaines",
-    "added_at": "2025-08-01T16:22:51.649Z"
+    "added_at": "2025-08-01T16:22:51.649Z",
+    "removed_at": "2025-08-03T14:01:59.904Z",
+    "duration_minutes": 2739,
+    "duration_str": "1d 21h 39m"
   },
   {
     "title": "Un bus dévie de sa route et heurte onze véhicules à la Tour-de-Peilz",
@@ -5625,10 +5631,7 @@
   },
   {
     "title": "Allocution de Karin Keller-Sutter, Présidente de la Confédération",
-    "added_at": "2025-08-01T22:18:24.004Z",
-    "removed_at": "2025-08-03T13:01:33.508Z",
-    "duration_minutes": 2323,
-    "duration_str": "1d 14h 43m"
+    "added_at": "2025-08-01T22:18:24.004Z"
   },
   {
     "title": "USA/Taxes: les réactions de Céline Amaudruz, Samuel Bendahan, Damien Cottier, Charles Juillard et Sophie Michaud-Gigon",
@@ -5821,5 +5824,9 @@
   {
     "title": "L'or, possible levier dans les négociations sur les taxes douanières américaines?",
     "added_at": "2025-08-03T12:44:48.763Z"
+  },
+  {
+    "title": "Des tréfonds du lac à l'assiette, le silure gagne en popularité en Suisse",
+    "added_at": "2025-08-03T14:08:14.361Z"
   }
 ]

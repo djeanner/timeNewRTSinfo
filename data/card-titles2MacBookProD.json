@@ -24716,7 +24716,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Un employé du Croissant-Rouge palestinien tué à Gaza",
-    "added_at": "2025-08-03T06:03:08.618Z"
+    "added_at": "2025-08-03T06:03:08.618Z",
+    "removed_at": "2025-08-03T14:04:01.295Z",
+    "duration_minutes": 480,
+    "duration_str": "8h"
   },
   {
     "title": "economie:::Olivier Meuwly: «Donald Trump pose un problème à la droite libérale suisse»",
@@ -24786,5 +24789,9 @@
   {
     "title": "monde:::Au Salvador, au cœur du régime répressif de Bukele",
     "added_at": "2025-08-03T13:34:49.014Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – La publication de vidéos montrant des otages israéliens à Gaza provoque stupeur et indignation",
+    "added_at": "2025-08-03T14:04:01.295Z"
   }
 ]
