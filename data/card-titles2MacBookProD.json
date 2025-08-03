@@ -24349,7 +24349,10 @@
   },
   {
     "title": "suisse:::Au chevet de la ville du futur, dense et perméable",
-    "added_at": "2025-08-01T09:43:50.804Z"
+    "added_at": "2025-08-01T09:43:50.804Z",
+    "removed_at": "2025-08-03T07:34:45.479Z",
+    "duration_minutes": 2750,
+    "duration_str": "1d 21h 50m"
   },
   {
     "title": "economie:::Le prix des montres suisses va (encore) augmenter",
@@ -24558,7 +24561,10 @@
   },
   {
     "title": "economie:::Dans le monde, une cascade d’émotions après les injonctions douanières de Donald Trump",
-    "added_at": "2025-08-02T06:28:46.453Z"
+    "added_at": "2025-08-02T06:28:46.453Z",
+    "removed_at": "2025-08-03T07:28:32.607Z",
+    "duration_minutes": 1499,
+    "duration_str": "1d 59m"
   },
   {
     "title": "monde:::Tom Barrack, l’homme d’affaires à tout faire de Donald Trump au Moyen-Orient",
@@ -24650,7 +24656,10 @@
   },
   {
     "title": "monde:::Guerre en Ukraine – Plusieurs arrestations ont eu lieu en Ukraine dans le cadre d'une sensible affaire de corruption",
-    "added_at": "2025-08-02T19:49:32.178Z"
+    "added_at": "2025-08-02T19:49:32.178Z",
+    "removed_at": "2025-08-03T08:03:49.150Z",
+    "duration_minutes": 734,
+    "duration_str": "12h 14m"
   },
   {
     "title": "sport:::A Singapour, le rêve continue pour l’Américaine Katie Ledecky, nageuse aux 23 titres mondiaux",
@@ -24689,5 +24698,17 @@
   {
     "title": "economie:::En direct, Guerre commerciale – La Suisse va préparer «une future offre» à l’adresse des Etats-Unis, annonce Guy Parmelin",
     "added_at": "2025-08-03T06:30:14.224Z"
+  },
+  {
+    "title": "economie:::Taxes douanières: l’appel téléphonique entre Karin Keller-Sutter et Donald Trump au cœur des spéculations",
+    "added_at": "2025-08-03T07:28:32.607Z"
+  },
+  {
+    "title": "cyber:::Le recrutement des tâcherons de l’IA passe aussi par les universités suisses",
+    "added_at": "2025-08-03T07:34:45.479Z"
+  },
+  {
+    "title": "monde:::En direct, Guerre en Ukraine – Des drones ukrainiens provoquent un incendie dans un dépôt pétrolier de Sotchi",
+    "added_at": "2025-08-03T08:03:49.150Z"
   }
 ]
