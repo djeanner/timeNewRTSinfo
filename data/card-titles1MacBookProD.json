@@ -5083,7 +5083,10 @@
   },
   {
     "title": "Le bateau à vapeur \"Montreux\" fera son grand retour sur le Léman le 1er septembre, annonce la CGN",
-    "added_at": "2025-07-30T13:25:56.725Z"
+    "added_at": "2025-07-30T13:25:56.725Z",
+    "removed_at": "2025-08-03T09:39:39.233Z",
+    "duration_minutes": 5533,
+    "duration_str": "3d 20h 13m"
   },
   {
     "title": "La Suisse \"plaide pour la solution à deux États\" dans le conflit israélo-palestinien",
@@ -5779,5 +5782,9 @@
   {
     "title": "Plus d'un million de personnes rassemblées à Rome pour la messe de clôture du Jubilé",
     "added_at": "2025-08-03T08:14:20.487Z"
+  },
+  {
+    "title": "\"La fabrique à films\", l'exposition genevoise qui permet à chacun de faire son cinéma",
+    "added_at": "2025-08-03T09:39:39.233Z"
   }
 ]
