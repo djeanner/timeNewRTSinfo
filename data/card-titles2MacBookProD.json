@@ -24754,7 +24754,10 @@
   },
   {
     "title": "culture:::Letizia Battaglia et Louis Stettner, deux regards redécouverts aux Rencontres d’Arles",
-    "added_at": "2025-08-03T09:02:09.430Z"
+    "added_at": "2025-08-03T09:02:09.430Z",
+    "removed_at": "2025-08-03T15:04:30.149Z",
+    "duration_minutes": 362,
+    "duration_str": "6h 2m"
   },
   {
     "title": "sport:::La tribune Nord, lieu de tensions et enjeu de pouvoir entre deux groupes de supporters du Servette",
@@ -24788,10 +24791,21 @@
   },
   {
     "title": "monde:::Au Salvador, au cœur du régime répressif de Bukele",
-    "added_at": "2025-08-03T13:34:49.014Z"
+    "added_at": "2025-08-03T13:34:49.014Z",
+    "removed_at": "2025-08-03T15:08:37.172Z",
+    "duration_minutes": 93,
+    "duration_str": "1h 33m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – La publication de vidéos montrant des otages israéliens à Gaza provoque stupeur et indignation",
     "added_at": "2025-08-03T14:04:01.295Z"
+  },
+  {
+    "title": "sciences:::La drosophile, une bête de la génétique grâce à Thomas Hunt Morgan",
+    "added_at": "2025-08-03T15:04:30.149Z"
+  },
+  {
+    "title": "monde:::Au Salvador, au cœur du régime répressif de Nayib Bukele",
+    "added_at": "2025-08-03T15:08:37.172Z"
   }
 ]
