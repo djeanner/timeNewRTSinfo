@@ -21261,7 +21261,10 @@
   },
   {
     "title": "culture:::Letizia Battaglia et Louis Stettner, deux regards redécouverts aux Rencontres d’Arles",
-    "added_at": "2025-08-03T09:01:50.268Z"
+    "added_at": "2025-08-03T09:01:50.268Z",
+    "removed_at": "2025-08-03T15:03:46.243Z",
+    "duration_minutes": 361,
+    "duration_str": "6h 1m"
   },
   {
     "title": "sport:::La tribune Nord, lieu de tensions et enjeu de pouvoir entre deux groupes de supporters du Servette",
@@ -21280,10 +21283,7 @@
   },
   {
     "title": "monde:::A Rome, le pape Léon XIV célèbre une messe devant un million de fidèles lors d’un «Woodstock» catholique",
-    "added_at": "2025-08-03T12:46:33.623Z",
-    "removed_at": "2025-08-03T13:34:05.087Z",
-    "duration_minutes": 47,
-    "duration_str": "47m"
+    "added_at": "2025-08-03T12:46:33.623Z"
   },
   {
     "title": "sport:::La tribune nord, lieu de tensions et enjeu de pouvoir entre deux groupes de supporters du Servette",
@@ -21295,10 +21295,25 @@
   },
   {
     "title": "monde:::Au Salvador, au cœur du régime répressif de Bukele",
-    "added_at": "2025-08-03T13:34:05.087Z"
+    "added_at": "2025-08-03T13:34:05.087Z",
+    "removed_at": "2025-08-03T15:09:27.143Z",
+    "duration_minutes": 95,
+    "duration_str": "1h 35m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – La publication de vidéos montrant des otages israéliens à Gaza provoque stupeur et indignation",
     "added_at": "2025-08-03T14:04:31.585Z"
+  },
+  {
+    "title": "sciences:::La drosophile, une bête de la génétique grâce à Thomas Hunt Morgan",
+    "added_at": "2025-08-03T15:03:46.243Z"
+  },
+  {
+    "title": "monde:::Au Salvador, au cœur du régime répressif de Nayib Bukele",
+    "added_at": "2025-08-03T15:09:27.143Z"
+  },
+  {
+    "title": "economie:::Un restaurateur suisse à Washington: «Ces taxes ne vont pas arranger les choses, d’autant que le business est déjà difficile»",
+    "added_at": "2025-08-03T16:57:57.645Z"
   }
 ]
