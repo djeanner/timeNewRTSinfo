@@ -24203,7 +24203,10 @@
   },
   {
     "title": "Canadian wildfire smoke triggers air quality alerts in US",
-    "added_at": "2025-08-02T22:11:56.119Z"
+    "added_at": "2025-08-02T22:11:56.119Z",
+    "removed_at": "2025-08-03T14:46:29.022Z",
+    "duration_minutes": 994,
+    "duration_str": "16h 34m"
   },
   {
     "title": "Syrian government, Kurdish-led SDF trade blame over northern Syria attack",
@@ -24287,6 +24290,17 @@
   },
   {
     "title": "Israeli attacks kill 44, including 22 aid seekers, amid Gaza hunger crisis",
-    "added_at": "2025-08-03T12:00:49.650Z"
+    "added_at": "2025-08-03T12:00:49.650Z",
+    "removed_at": "2025-08-03T14:10:18.453Z",
+    "duration_minutes": 129,
+    "duration_str": "2h 9m"
+  },
+  {
+    "title": "Israeli attacks kill 69, including 37 aid seekers, amid Gaza hunger crisis",
+    "added_at": "2025-08-03T14:10:18.453Z"
+  },
+  {
+    "title": "Israel forces shoot Palestinian boy in eye at aid site amid Gaza starvation",
+    "added_at": "2025-08-03T14:46:29.022Z"
   }
 ]
