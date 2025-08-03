@@ -29,11 +29,17 @@
   },
   {
     "title": "Tour de France : le responsable du parcours vous explique comment l’édition 2025 a été tracée pour créer du suspense",
-    "added_at": "2025-07-16T00:51:31.043Z"
+    "added_at": "2025-07-16T00:51:31.043Z",
+    "removed_at": "2025-08-03T22:50:52.521Z",
+    "duration_minutes": 27239,
+    "duration_str": "18d 21h 59m"
   },
   {
     "title": "Parler au nom du peuple en érodant toutes les oppositions : les rhétoriques communes de Trump, Orban, Nétanyahou ou Le Pen",
-    "added_at": "2025-07-16T00:51:31.043Z"
+    "added_at": "2025-07-16T00:51:31.043Z",
+    "removed_at": "2025-08-03T23:07:29.779Z",
+    "duration_minutes": 27255,
+    "duration_str": "18d 22h 15m"
   },
   {
     "title": "Motos, trottinettes : comment l’armée russe s’adapte aux nouvelles réalités du champ de bataille en Ukraine",
@@ -496,10 +502,7 @@
   },
   {
     "title": "Article réservé aux abonnés Parler au nom du peuple en érodant toutes les oppositions : les rhétoriques communes de Trump, Orban, Nétanyahou ou Le Pen",
-    "added_at": "2025-07-16T01:01:07.300Z",
-    "removed_at": "2025-08-03T21:44:18.874Z",
-    "duration_minutes": 27163,
-    "duration_str": "18d 20h 43m"
+    "added_at": "2025-07-16T01:01:07.300Z"
   },
   {
     "title": "Article réservé aux abonnés Tour de France : le responsable du parcours vous explique comment l’édition 2025 a été tracée pour créer du suspense",
@@ -510,7 +513,10 @@
   },
   {
     "title": "Article réservé aux abonnés Motos, trottinettes : comment l’armée russe s’adapte aux nouvelles réalités du champ de bataille en Ukraine",
-    "added_at": "2025-07-16T01:01:07.300Z"
+    "added_at": "2025-07-16T01:01:07.300Z",
+    "removed_at": "2025-08-03T22:44:38.979Z",
+    "duration_minutes": 27223,
+    "duration_str": "18d 21h 43m"
   },
   {
     "title": "Au Québec, de plus en plus d’Haïtiens fuient les Etats-Unis pour trouver refuge au Canada",
@@ -1433,34 +1439,37 @@
   {
     "title": "Les meilleurs réveils simulateurs d’aube",
     "added_at": "2025-07-16T01:01:07.300Z",
-    "removed_at": "2025-08-03T21:44:18.874Z",
-    "duration_minutes": 27163,
-    "duration_str": "18d 20h 43m"
+    "removed_at": "2025-08-03T22:44:38.979Z",
+    "duration_minutes": 27223,
+    "duration_str": "18d 21h 43m"
   },
   {
     "title": "Le meilleur antivol pour vélo",
-    "added_at": "2025-07-16T01:01:07.300Z"
+    "added_at": "2025-07-16T01:01:07.300Z",
+    "removed_at": "2025-08-03T22:44:38.979Z",
+    "duration_minutes": 27223,
+    "duration_str": "18d 21h 43m"
   },
   {
     "title": "Les meilleurs mixeurs plongeants",
     "added_at": "2025-07-16T01:01:07.300Z",
-    "removed_at": "2025-08-03T22:07:08.610Z",
-    "duration_minutes": 27186,
-    "duration_str": "18d 21h 6m"
+    "removed_at": "2025-08-03T22:40:31.897Z",
+    "duration_minutes": 27219,
+    "duration_str": "18d 21h 39m"
   },
   {
     "title": "Les meilleurs aspirateurs balais sans fil",
     "added_at": "2025-07-16T01:01:07.300Z",
-    "removed_at": "2025-08-03T21:29:43.963Z",
-    "duration_minutes": 27148,
-    "duration_str": "18d 20h 28m"
+    "removed_at": "2025-08-03T22:40:31.897Z",
+    "duration_minutes": 27219,
+    "duration_str": "18d 21h 39m"
   },
   {
     "title": "Les meilleurs chargeurs de piles AA et AAA",
     "added_at": "2025-07-16T01:01:07.300Z",
-    "removed_at": "2025-08-03T21:06:47.684Z",
-    "duration_minutes": 27125,
-    "duration_str": "18d 20h 5m"
+    "removed_at": "2025-08-03T23:01:15.565Z",
+    "duration_minutes": 27240,
+    "duration_str": "18d 22h"
   },
   {
     "title": "Les meilleurs gaufriers",
@@ -1468,10 +1477,7 @@
   },
   {
     "title": "Les meilleurs coussins de voyage",
-    "added_at": "2025-07-16T01:01:07.300Z",
-    "removed_at": "2025-08-03T21:25:36.084Z",
-    "duration_minutes": 27144,
-    "duration_str": "18d 20h 24m"
+    "added_at": "2025-07-16T01:01:07.300Z"
   },
   {
     "title": "Israël-Iran : quelle est l’ampleur du coup porté au programme nucléaire iranien ?",
@@ -1560,9 +1566,9 @@
   {
     "title": "Les meilleures visseuses entre 50 et 100 euros",
     "added_at": "2025-07-16T01:36:13.367Z",
-    "removed_at": "2025-08-03T21:25:36.084Z",
-    "duration_minutes": 27109,
-    "duration_str": "18d 19h 49m"
+    "removed_at": "2025-08-03T23:01:15.565Z",
+    "duration_minutes": 27205,
+    "duration_str": "18d 21h 25m"
   },
   {
     "title": "Les meilleures gourdes pour remplacer les bouteilles jetables",
@@ -1574,24 +1580,21 @@
   },
   {
     "title": "Les meilleurs fours micro-ondes grill",
-    "added_at": "2025-07-16T01:36:13.367Z",
-    "removed_at": "2025-08-03T21:06:47.684Z",
-    "duration_minutes": 27090,
-    "duration_str": "18d 19h 30m"
+    "added_at": "2025-07-16T01:36:13.367Z"
   },
   {
     "title": "Les meilleurs jeux de société pour adultes",
     "added_at": "2025-07-16T01:36:13.367Z",
-    "removed_at": "2025-08-03T21:44:18.874Z",
-    "duration_minutes": 27128,
-    "duration_str": "18d 20h 8m"
+    "removed_at": "2025-08-03T23:01:15.565Z",
+    "duration_minutes": 27205,
+    "duration_str": "18d 21h 25m"
   },
   {
     "title": "Les meilleures machines à café à grains à moins de 500 euros",
     "added_at": "2025-07-16T01:36:13.367Z",
-    "removed_at": "2025-08-03T21:44:18.874Z",
-    "duration_minutes": 27128,
-    "duration_str": "18d 20h 8m"
+    "removed_at": "2025-08-03T22:28:05.081Z",
+    "duration_minutes": 27171,
+    "duration_str": "18d 20h 51m"
   },
   {
     "title": "Article réservé aux abonnés Israël-Iran : quelle est l’ampleur du coup porté au programme nucléaire iranien ?",
@@ -1623,24 +1626,21 @@
   },
   {
     "title": "Les meilleures machines à café à grains de 500 à 1 000 euros",
-    "added_at": "2025-07-16T01:44:22.772Z",
-    "removed_at": "2025-08-03T21:29:43.963Z",
-    "duration_minutes": 27105,
-    "duration_str": "18d 19h 45m"
+    "added_at": "2025-07-16T01:44:22.772Z"
   },
   {
     "title": "Les meilleurs robots aspirateurs laveurs",
     "added_at": "2025-07-16T01:44:22.772Z",
-    "removed_at": "2025-08-03T21:44:18.874Z",
-    "duration_minutes": 27119,
-    "duration_str": "18d 19h 59m"
+    "removed_at": "2025-08-03T22:44:38.979Z",
+    "duration_minutes": 27180,
+    "duration_str": "18d 21h"
   },
   {
     "title": "Les meilleurs grille-pains",
     "added_at": "2025-07-16T01:44:22.772Z",
-    "removed_at": "2025-08-03T22:07:08.610Z",
-    "duration_minutes": 27142,
-    "duration_str": "18d 20h 22m"
+    "removed_at": "2025-08-03T23:01:15.565Z",
+    "duration_minutes": 27196,
+    "duration_str": "18d 21h 16m"
   },
   {
     "title": "Ukraine : ce que l’on sait de l’attaque de drones inédite lancée contre des bases russes",
@@ -1981,9 +1981,9 @@
   {
     "title": "125 destinations pour faire le tour du monde sans quitter la France (ou l’Europe)",
     "added_at": "2025-07-16T10:45:27.394Z",
-    "removed_at": "2025-08-03T21:29:43.963Z",
-    "duration_minutes": 26564,
-    "duration_str": "18d 10h 44m"
+    "removed_at": "2025-08-03T22:32:11.927Z",
+    "duration_minutes": 26626,
+    "duration_str": "18d 11h 46m"
   },
   {
     "title": "L’horreur gothique à l’italienne à l’honneur dans trois films réédités en Blu-ray",
@@ -2029,10 +2029,7 @@
   },
   {
     "title": "Pourquoi les femmes restent peu investies en Bourse",
-    "added_at": "2025-07-16T10:45:27.394Z",
-    "removed_at": "2025-08-03T21:25:36.084Z",
-    "duration_minutes": 26560,
-    "duration_str": "18d 10h 40m"
+    "added_at": "2025-07-16T10:45:27.394Z"
   },
   {
     "title": "Mon assurance habitation me couvre-t-elle durant les vacances ?",
@@ -2064,18 +2061,24 @@
   },
   {
     "title": "Les meilleurs pianos numériques pas chers pour débutants",
-    "added_at": "2025-07-16T10:45:27.394Z"
+    "added_at": "2025-07-16T10:45:27.394Z",
+    "removed_at": "2025-08-03T22:44:38.979Z",
+    "duration_minutes": 26639,
+    "duration_str": "18d 11h 59m"
   },
   {
     "title": "Voici notre guide d’achat des meilleurs robots pâtissiers",
     "added_at": "2025-07-16T10:45:27.394Z",
-    "removed_at": "2025-08-03T22:07:08.610Z",
-    "duration_minutes": 26601,
-    "duration_str": "18d 11h 21m"
+    "removed_at": "2025-08-03T23:01:15.565Z",
+    "duration_minutes": 26655,
+    "duration_str": "18d 12h 15m"
   },
   {
     "title": "Les meilleures friteuses sans huile",
-    "added_at": "2025-07-16T10:47:35.358Z"
+    "added_at": "2025-07-16T10:47:35.358Z",
+    "removed_at": "2025-08-03T22:36:19.586Z",
+    "duration_minutes": 26628,
+    "duration_str": "18d 11h 48m"
   },
   {
     "title": "Club Med : Henri Giscard d’Estaing débarqué par le propriétaire chinois du groupe, Fosun",
@@ -2101,9 +2104,9 @@
   {
     "title": "Livret A : le gouvernement annonce une nouvelle baisse du taux, à 1,7 % au 1ᵉʳ août",
     "added_at": "2025-07-16T14:37:26.987Z",
-    "removed_at": "2025-08-03T21:44:18.874Z",
-    "duration_minutes": 26346,
-    "duration_str": "18d 7h 6m"
+    "removed_at": "2025-08-03T23:01:15.565Z",
+    "duration_minutes": 26423,
+    "duration_str": "18d 8h 23m"
   },
   {
     "title": "Tour de France 2025 : le peloton et les leaders surveillent une courte échappée, lors de la onzième étape de Toulouse à Toulouse",
@@ -2192,9 +2195,9 @@
   {
     "title": "Les meilleurs balais vapeur",
     "added_at": "2025-07-16T14:50:18.348Z",
-    "removed_at": "2025-08-03T22:07:08.610Z",
-    "duration_minutes": 26356,
-    "duration_str": "18d 7h 16m"
+    "removed_at": "2025-08-03T23:01:15.565Z",
+    "duration_minutes": 26410,
+    "duration_str": "18d 8h 10m"
   },
   {
     "title": "Au Festival d’Avignon, le théâtre, bousculé par l’actualité immédiate, livre toujours ses leçons",
@@ -2987,9 +2990,9 @@
   {
     "title": "Pour les investisseurs en Bourse, un été à hauts risques",
     "added_at": "2025-07-17T06:33:41.660Z",
-    "removed_at": "2025-08-03T20:50:05.898Z",
-    "duration_minutes": 25336,
-    "duration_str": "17d 14h 16m"
+    "removed_at": "2025-08-03T22:28:05.081Z",
+    "duration_minutes": 25434,
+    "duration_str": "17d 15h 54m"
   },
   {
     "title": "Ces voyages qui renforcent ou brisent les liens : « J’ai regretté ce road trip qui a sans doute flingué notre relation »",
@@ -4443,7 +4446,10 @@
   },
   {
     "title": "En 2024, la collecte nette sur le Livret A a marqué le pas",
-    "added_at": "2025-07-18T09:26:02.618Z"
+    "added_at": "2025-07-18T09:26:02.618Z",
+    "removed_at": "2025-08-03T23:01:15.565Z",
+    "duration_minutes": 23855,
+    "duration_str": "16d 13h 35m"
   },
   {
     "title": "La Haute Autorité de santé recommande de répondre aux demandes de chirurgie des adultes trans",
@@ -8809,9 +8815,9 @@
   {
     "title": "Même à 55 ans, il n’est pas trop tard pour économiser pour sa retraite",
     "added_at": "2025-07-22T11:35:13.310Z",
-    "removed_at": "2025-08-03T22:07:08.610Z",
-    "duration_minutes": 17911,
-    "duration_str": "12d 10h 31m"
+    "removed_at": "2025-08-03T22:32:11.927Z",
+    "duration_minutes": 17936,
+    "duration_str": "12d 10h 56m"
   },
   {
     "title": "L’ONU accuse Israël d’avoir tué plus de 1 000 personnes tentant d’obtenir de l’aide humanitaire dans la bande de Gaza depuis fin mai",
@@ -11794,9 +11800,9 @@
   {
     "title": "Epilation du maillot et brûlures : quelle indemnisation ?",
     "added_at": "2025-07-25T04:08:23.565Z",
-    "removed_at": "2025-08-03T22:07:08.610Z",
-    "duration_minutes": 14038,
-    "duration_str": "9d 17h 58m"
+    "removed_at": "2025-08-03T23:01:15.565Z",
+    "duration_minutes": 14092,
+    "duration_str": "9d 18h 52m"
   },
   {
     "title": "« Il faut penser la question agricole hors des paradigmes économiques classiques »",
@@ -14646,9 +14652,9 @@
   {
     "title": "Quand le propriétaire prête son logement sans prévoir de terme",
     "added_at": "2025-07-28T04:07:10.601Z",
-    "removed_at": "2025-08-03T21:44:18.874Z",
-    "duration_minutes": 9697,
-    "duration_str": "6d 17h 37m"
+    "removed_at": "2025-08-03T22:28:05.081Z",
+    "duration_minutes": 9740,
+    "duration_str": "6d 18h 20m"
   },
   {
     "title": "Bande de Gaza : l’Organisation mondiale de la santé alerte sur des « niveaux alarmants » de malnutrition",
@@ -18472,9 +18478,9 @@
   {
     "title": "A Paris, le Musée d’art et d’histoire du judaïsme expose Pascal Monteil, brodeur de corps en suspension",
     "added_at": "2025-07-31T12:20:51.077Z",
-    "removed_at": "2025-08-03T22:07:08.610Z",
-    "duration_minutes": 4906,
-    "duration_str": "3d 9h 46m"
+    "removed_at": "2025-08-03T22:36:19.586Z",
+    "duration_minutes": 4935,
+    "duration_str": "3d 10h 15m"
   },
   {
     "title": "En direct : Volodymyr Zelensky dit avoir promulgué la loi rétablissant l’indépendance d’instances anticorruption",
@@ -18851,10 +18857,7 @@
   },
   {
     "title": "Le metteur en scène Robert Wilson est mort",
-    "added_at": "2025-07-31T17:55:08.577Z",
-    "removed_at": "2025-08-03T22:07:08.610Z",
-    "duration_minutes": 4572,
-    "duration_str": "3d 4h 12m"
+    "added_at": "2025-07-31T17:55:08.577Z"
   },
   {
     "title": "Toujours plus vite, toujours plus cher : le xénon à l’assaut de l’Everest",
@@ -18876,7 +18879,10 @@
   },
   {
     "title": "Au Brésil, le secteur de la culture renaît après les années noires de Bolsonaro",
-    "added_at": "2025-07-31T18:03:29.278Z"
+    "added_at": "2025-07-31T18:03:29.278Z",
+    "removed_at": "2025-08-03T22:44:38.979Z",
+    "duration_minutes": 4601,
+    "duration_str": "3d 4h 41m"
   },
   {
     "title": "Tour de France Femmes 2025 : le classement général complet après la 6e étape",
@@ -18970,9 +18976,9 @@
   {
     "title": "Réindustrialiser les Etats-Unis, le pari incertain de Donald Trump",
     "added_at": "2025-08-01T03:03:13.950Z",
-    "removed_at": "2025-08-03T21:44:18.874Z",
-    "duration_minutes": 4001,
-    "duration_str": "2d 18h 41m"
+    "removed_at": "2025-08-03T22:40:31.897Z",
+    "duration_minutes": 4057,
+    "duration_str": "2d 19h 37m"
   },
   {
     "title": "Sécheresse : au pied du barrage de Sidiailles, dans le Berry, un été sous restrictions",
@@ -19097,10 +19103,7 @@
   },
   {
     "title": "L’énorme chèque de bienvenue de Luca de Meo chez Kering",
-    "added_at": "2025-08-01T05:03:37.982Z",
-    "removed_at": "2025-08-03T22:07:08.610Z",
-    "duration_minutes": 3903,
-    "duration_str": "2d 17h 3m"
+    "added_at": "2025-08-01T05:03:37.982Z"
   },
   {
     "title": "Des contraceptifs détruits en silence : « La France accepterait-elle, sans réagir, de devenir l’exécutrice d’une politique insensée venue des Etats-Unis ? »",
@@ -19155,7 +19158,10 @@
   },
   {
     "title": "Quand l’accident de circulation se produit dans un garage privé",
-    "added_at": "2025-08-01T07:45:32.760Z"
+    "added_at": "2025-08-01T07:45:32.760Z",
+    "removed_at": "2025-08-03T22:44:38.979Z",
+    "duration_minutes": 3779,
+    "duration_str": "2d 14h 59m"
   },
   {
     "title": "Afrique du Sud : les fermiers blancs si chers à Donald Trump, premières victimes de ses taxes douanières",
@@ -19191,10 +19197,7 @@
   },
   {
     "title": "Article réservé aux abonnés Pourquoi la guerre commerciale déclarée par Donald Trump est considérée comme « la plus stupide de l’histoire »",
-    "added_at": "2025-08-01T08:12:25.002Z",
-    "removed_at": "2025-08-03T22:07:08.610Z",
-    "duration_minutes": 3714,
-    "duration_str": "2d 13h 54m"
+    "added_at": "2025-08-01T08:12:25.002Z"
   },
   {
     "title": "Au Brésil, Lula résiste à la pression de l’administration Trump",
@@ -19337,9 +19340,9 @@
   {
     "title": "Dans « Chief of War », sur Apple TV+, Jason Momoa règne sur une tragédie hawaïenne",
     "added_at": "2025-08-01T09:56:18.022Z",
-    "removed_at": "2025-08-03T21:44:18.874Z",
-    "duration_minutes": 3588,
-    "duration_str": "2d 11h 48m"
+    "removed_at": "2025-08-03T23:01:15.565Z",
+    "duration_minutes": 3664,
+    "duration_str": "2d 13h 4m"
   },
   {
     "title": "Le khoresht mast (dessert iranien) : la recette de Mojgan Habibi",
@@ -19627,9 +19630,9 @@
   {
     "title": "Au Festival de Salzbourg, l’« Hotel Metamorphosis » de Barrie Kosky met Vivaldi et Ovide dans le même lit",
     "added_at": "2025-08-01T14:38:53.940Z",
-    "removed_at": "2025-08-03T22:07:08.610Z",
-    "duration_minutes": 3328,
-    "duration_str": "2d 7h 28m"
+    "removed_at": "2025-08-03T22:40:31.897Z",
+    "duration_minutes": 3361,
+    "duration_str": "2d 8h 1m"
   },
   {
     "title": "Yohann Ndoye-Brouard se pare de bronze sur 200 m dos aux Mondiaux de natation, une « épreuve qui fait très mal »",
@@ -19747,7 +19750,10 @@
   },
   {
     "title": "L’Inde redouble d’efforts pour développer son industrie de défense",
-    "added_at": "2025-08-01T16:08:19.342Z"
+    "added_at": "2025-08-01T16:08:19.342Z",
+    "removed_at": "2025-08-03T23:01:15.565Z",
+    "duration_minutes": 3292,
+    "duration_str": "2d 6h 52m"
   },
   {
     "title": "Les banques européennes seraient « résilientes » en cas de grave crise économique",
@@ -19944,7 +19950,10 @@
   },
   {
     "title": "Le masque contemporain ou l’agent de l’étrange",
-    "added_at": "2025-08-02T03:09:21.333Z"
+    "added_at": "2025-08-02T03:09:21.333Z",
+    "removed_at": "2025-08-03T23:01:15.565Z",
+    "duration_minutes": 2631,
+    "duration_str": "1d 19h 51m"
   },
   {
     "title": "« La France doit instituer le 2 août comme jour de commémoration nationale du génocide des Roms et des Voyageurs »",
@@ -20173,10 +20182,7 @@
   },
   {
     "title": "L’élan diplomatique pour la reconnaissance de la Palestine, une semaine après l’annonce de la France",
-    "added_at": "2025-08-02T08:46:00.505Z",
-    "removed_at": "2025-08-03T22:07:08.610Z",
-    "duration_minutes": 2241,
-    "duration_str": "1d 13h 21m"
+    "added_at": "2025-08-02T08:46:00.505Z"
   },
   {
     "title": "IA Act : 38 associations mondiales de créateurs dénoncent une « trahison » des objectifs que l’Europe s’était assignés",
@@ -20336,9 +20342,9 @@
   {
     "title": "Au Festival de Salzbourg, une « Maria Stuarda » décapitée par l’ennui et la mise en scène d’Ulrich Rasche",
     "added_at": "2025-08-02T14:02:02.230Z",
-    "removed_at": "2025-08-03T22:07:08.610Z",
-    "duration_minutes": 1925,
-    "duration_str": "1d 8h 5m"
+    "removed_at": "2025-08-03T23:01:15.565Z",
+    "duration_minutes": 1979,
+    "duration_str": "1d 8h 59m"
   },
   {
     "title": "Guerre en Ukraine : Donald Trump annonce déplacer deux sous-marins nucléaires pour mettre la pression sur la Russie",
@@ -20554,10 +20560,7 @@
   },
   {
     "title": "Daniel Auteuil : « Je sais que j’ai 75 ans, mais je ne sais pas qui c’est ce mec de 75 ans »",
-    "added_at": "2025-08-02T18:34:40.286Z",
-    "removed_at": "2025-08-03T21:29:43.963Z",
-    "duration_minutes": 1615,
-    "duration_str": "1d 2h 55m"
+    "added_at": "2025-08-02T18:34:40.286Z"
   },
   {
     "title": "Tour de France Femmes : le classement général complet après la 8e étape",
@@ -20749,7 +20752,10 @@
   },
   {
     "title": "Feux de forêt : les Bouches-du-Rhône en vigilance rouge ce dimanche",
-    "added_at": "2025-08-03T08:26:48.237Z"
+    "added_at": "2025-08-03T08:26:48.237Z",
+    "removed_at": "2025-08-03T22:32:11.927Z",
+    "duration_minutes": 845,
+    "duration_str": "14h 5m"
   },
   {
     "title": "En Russie, le volcan Kracheninnikov entre en éruption pour la première fois depuis 450 ans",
@@ -21013,6 +21019,13 @@
   },
   {
     "title": "Article réservé aux abonnés Hiroshima : comment s’est déroulé le bombardement atomique le plus dévastateur de l’histoire",
-    "added_at": "2025-08-03T20:31:24.570Z"
+    "added_at": "2025-08-03T20:31:24.570Z",
+    "removed_at": "2025-08-03T23:01:15.565Z",
+    "duration_minutes": 149,
+    "duration_str": "2h 29m"
+  },
+  {
+    "title": "Pollution aux plastiques : l’appel de la communauté scientifique à combattre un « danger grave et croissant pour la santé »",
+    "added_at": "2025-08-03T22:34:18.178Z"
   }
 ]
