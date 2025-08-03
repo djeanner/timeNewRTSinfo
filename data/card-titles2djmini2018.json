@@ -21252,7 +21252,10 @@
   },
   {
     "title": "monde:::En direct, Guerre en Ukraine – Des drones ukrainiens provoquent un incendie dans un dépôt pétrolier de Sotchi",
-    "added_at": "2025-08-03T08:04:51.024Z"
+    "added_at": "2025-08-03T08:04:51.024Z",
+    "removed_at": "2025-08-03T19:45:50.298Z",
+    "duration_minutes": 700,
+    "duration_str": "11h 40m"
   },
   {
     "title": "suisse:::Le collectif Jura-Palestine, un petit maillon dans une grande chaîne d’humanité",
@@ -21311,7 +21314,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – La publication de vidéos montrant des otages israéliens à Gaza provoque stupeur et indignation",
-    "added_at": "2025-08-03T14:04:31.585Z"
+    "added_at": "2025-08-03T14:04:31.585Z",
+    "removed_at": "2025-08-03T19:44:00.295Z",
+    "duration_minutes": 339,
+    "duration_str": "5h 39m"
   },
   {
     "title": "sciences:::La drosophile, une bête de la génétique grâce à Thomas Hunt Morgan",
@@ -21336,5 +21342,13 @@
   {
     "title": "monde:::Aux Etats-Unis, Kristi Noem, le visage des raids contre les immigrés",
     "added_at": "2025-08-03T19:28:33.770Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Notre suivi de la semaine du 28 juillet",
+    "added_at": "2025-08-03T19:45:50.298Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Notre suivi de la semain du 28 juillet",
+    "added_at": "2025-08-03T19:45:50.298Z"
   }
 ]
