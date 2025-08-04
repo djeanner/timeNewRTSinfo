@@ -5591,7 +5591,10 @@
   },
   {
     "title": "Les fêtes nationales, un concept assez récent aux origines variées",
-    "added_at": "2025-08-01T07:24:39.494Z"
+    "added_at": "2025-08-01T07:24:39.494Z",
+    "removed_at": "2025-08-04T20:15:06.815Z",
+    "duration_minutes": 5090,
+    "duration_str": "3d 12h 50m"
   },
   {
     "title": "Les Etats-Unis imposent à la Suisse un taux de 39%, le Conseil fédéral veut continuer de négocier",
@@ -5927,7 +5930,10 @@
   },
   {
     "title": "Droits de douane: quels impacts sur les économies suisses et étatsuniennes? Interview de Philippe Rezzonico",
-    "added_at": "2025-08-03T10:23:22.342Z"
+    "added_at": "2025-08-03T10:23:22.342Z",
+    "removed_at": "2025-08-04T20:02:39.291Z",
+    "duration_minutes": 2019,
+    "duration_str": "1d 9h 39m"
   },
   {
     "title": "Comment la Suisse a changé la manière de boire le café dans le monde",
@@ -6058,10 +6064,7 @@
   },
   {
     "title": "Les 39% de taxes infligés à la Suisse inquiètent le milieu économique",
-    "added_at": "2025-08-04T08:21:44.500Z",
-    "removed_at": "2025-08-04T19:18:44.455Z",
-    "duration_minutes": 656,
-    "duration_str": "10h 56m"
+    "added_at": "2025-08-04T08:21:44.500Z"
   },
   {
     "title": "Face aux taxes américaines, la Suisse n’a \"pas grand-chose à offrir\"",
@@ -6191,5 +6194,9 @@
   {
     "title": "Les PME suisses exportatrices entre inquiétude et recherche de solutions",
     "added_at": "2025-08-04T19:39:34.568Z"
+  },
+  {
+    "title": "La pollution plastique au Cap-Vert, un défi écologique sans frontières",
+    "added_at": "2025-08-04T20:15:06.815Z"
   }
 ]
