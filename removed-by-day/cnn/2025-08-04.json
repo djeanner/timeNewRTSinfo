@@ -72,9 +72,8 @@
   {
     "title": "New Zealand woman arrested after 2-year-old girl found alive in suitcase stowed in bus luggage",
     "added_at": "2025-08-04T03:37:47.590Z",
-    "removed_at": "2025-08-04T12:29:58.051Z",
-    "duration_minutes": 532,
-    "duration_str": "8h 52m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "The US president’s interference might bolster his power, but it could erode trust in the economy",
@@ -328,8 +327,9 @@
   {
     "title": "Driver Chris Raschke dies in crash at Speed Week on Bonneville Salt Flats",
     "added_at": "2025-08-04T13:30:47.776Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-04T21:27:57.259Z",
+    "duration_minutes": 477,
+    "duration_str": "7h 57m"
   },
   {
     "title": "Noah Lyles stares down rival as he races past him at US championships final",
@@ -412,8 +412,9 @@
   {
     "title": "Israel’s government votes to fire country’s attorney general",
     "added_at": "2025-08-04T15:57:34.644Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-04T21:17:36.942Z",
+    "duration_minutes": 320,
+    "duration_str": "5h 20m"
   },
   {
     "title": "Texas governor threatens to remove Democrats who fled the state to block controversial redistricting plan",
@@ -491,8 +492,9 @@
   {
     "title": "‘A human skeleton, buried alive’: Brother of emaciated Israeli hostage speaks to CNN",
     "added_at": "2025-08-04T17:13:39.271Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-04T20:52:39.592Z",
+    "duration_minutes": 219,
+    "duration_str": "3h 39m"
   },
   {
     "title": "Several weeks of decisions and realizations have led the US president to perhaps the most consequential decision of the conflict yet",
@@ -504,9 +506,8 @@
   {
     "title": "Information is power, and Trump wants more control over it",
     "added_at": "2025-08-04T17:42:24.091Z",
-    "removed_at": "2025-08-04T20:00:31.862Z",
-    "duration_minutes": 138,
-    "duration_str": "2h 18m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "BP makes its biggest oil and natural gas discovery in 25 years as it refocuses on fossil fuels",
@@ -573,6 +574,49 @@
   {
     "title": "Netanyahu to urge ‘full conquest’ of Gaza as ceasefire talks reach an impasse",
     "added_at": "2025-08-04T20:37:55.529Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Brother of emaciated Israeli hostage speaks to CNN",
+    "added_at": "2025-08-04T20:52:39.592Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Outrage in Israel as hostage ‘horror’ videos emerge at decision time for Netanyahu’s government",
+    "added_at": "2025-08-04T20:52:39.592Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Victim in Epstein case decries ‘political warfare’ in effort to release grand jury transcripts",
+    "added_at": "2025-08-04T21:17:36.942Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "AG Bondi orders prosecutors to start grand jury probe into Obama officials over Russia investigation",
+    "added_at": "2025-08-04T21:17:36.942Z",
+    "removed_at": "2025-08-04T21:19:38.371Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Eagles’ Saquon Barkley says he’s not part of Trump’s sports council: ‘Definitely a little shocked when my name was mentioned’",
+    "added_at": "2025-08-04T21:17:36.942Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Attorney General Bondi orders prosecutors to start grand jury probe into Obama officials over Russia investigation",
+    "added_at": "2025-08-04T21:19:38.371Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Trump’s cynical bait-and-switch on IVF",
+    "added_at": "2025-08-04T21:19:38.371Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
