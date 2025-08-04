@@ -5284,7 +5284,10 @@
   },
   {
     "title": "L'armée russe dit s'être emparée de la ville de Tchassiv Iar, bastion stratégique ukrainien",
-    "added_at": "2025-07-31T07:38:40.253Z"
+    "added_at": "2025-07-31T07:38:40.253Z",
+    "removed_at": "2025-08-04T03:29:42.446Z",
+    "duration_minutes": 5511,
+    "duration_str": "3d 19h 51m"
   },
   {
     "title": "François Nordmann: face à Donald Trump, \"nous devons faire le gros dos\"",
@@ -5902,5 +5905,16 @@
   {
     "title": "Plusieurs manifestations au Brésil en soutien à Jair Bolsonaro et aux sanctions américaines",
     "added_at": "2025-08-04T02:16:57.077Z"
+  },
+  {
+    "title": "L'émissaire américain Steve Witkoff attendu en Russie cette semaine avant la fin de l'ultimatum",
+    "added_at": "2025-08-04T03:29:42.446Z",
+    "removed_at": "2025-08-04T03:35:56.106Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
+  },
+  {
+    "title": "L'émissaire américain Steve Witkoff en Russie cette semaine avant la fin de l'ultimatum sur l'Ukraine",
+    "added_at": "2025-08-04T03:35:56.106Z"
   }
 ]

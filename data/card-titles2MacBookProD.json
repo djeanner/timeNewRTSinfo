@@ -24841,7 +24841,10 @@
   },
   {
     "title": "monde:::Moyen-Orient – Notre suivi de la semaine du 28 juillet",
-    "added_at": "2025-08-03T19:45:37.632Z"
+    "added_at": "2025-08-03T19:45:37.632Z",
+    "removed_at": "2025-08-04T03:21:26.584Z",
+    "duration_minutes": 455,
+    "duration_str": "7h 35m"
   },
   {
     "title": "monde:::Guerre en Ukraine – Notre suivi de la semain du 28 juillet",
@@ -24857,5 +24860,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – La visite de l'émissaire américain Steve Witkoff en Russie confirmée",
     "added_at": "2025-08-04T01:54:01.513Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le Conseil de sécurité de l'ONU se réunira mardi en urgence sur les otages à Gaza",
+    "added_at": "2025-08-04T03:21:26.584Z"
   }
 ]
