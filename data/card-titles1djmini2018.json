@@ -28246,7 +28246,10 @@
   },
   {
     "title": "Plus de 30 morts et 150 blessés à Kiev, alors que les bombardements s'intensifient",
-    "added_at": "2025-08-01T09:30:25.765Z"
+    "added_at": "2025-08-01T09:30:25.765Z",
+    "removed_at": "2025-08-05T04:18:37.472Z",
+    "duration_minutes": 5448,
+    "duration_str": "3d 18h 48m"
   },
   {
     "title": "La Suisse dans l’attente de la décision des Etats-Unis sur les droits de douane: interview de Jan Atteslander",
@@ -28468,7 +28471,10 @@
   },
   {
     "title": "Donald Trump somme les entreprises pharmaceutiques de baisser leurs prix",
-    "added_at": "2025-08-02T16:23:42.077Z"
+    "added_at": "2025-08-02T16:23:42.077Z",
+    "removed_at": "2025-08-05T03:03:18.741Z",
+    "duration_minutes": 3519,
+    "duration_str": "2d 10h 39m"
   },
   {
     "title": "La marche des fiertés au centre-ville de Berne a rassemblé plusieurs milliers de personnes",
@@ -28595,10 +28601,7 @@
   },
   {
     "title": "À 75 ans, Jean-Marie Lovey demande à quitter son poste d'évêque de Sion",
-    "added_at": "2025-08-03T16:25:33.292Z",
-    "removed_at": "2025-08-05T01:19:31.059Z",
-    "duration_minutes": 1973,
-    "duration_str": "1d 8h 53m"
+    "added_at": "2025-08-03T16:25:33.292Z"
   },
   {
     "title": "L'appel infructueux, voire contreproductif, de Karin Keller-Sutter à Donald Trump",
@@ -28801,5 +28804,9 @@
   {
     "title": "A trois jours de l'entrée en vigueur des 39%, les entreprises tentent de réagir",
     "added_at": "2025-08-05T01:19:31.059Z"
+  },
+  {
+    "title": "A Genève, une nouvelle chance de conclure un traité contre la pollution plastique",
+    "added_at": "2025-08-05T04:18:37.472Z"
   }
 ]
