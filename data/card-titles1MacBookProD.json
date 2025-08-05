@@ -5738,7 +5738,10 @@
   },
   {
     "title": "Les ponts emblématiques dans le monde",
-    "added_at": "2025-08-01T19:44:32.707Z"
+    "added_at": "2025-08-01T19:44:32.707Z",
+    "removed_at": "2025-08-05T14:33:46.907Z",
+    "duration_minutes": 5449,
+    "duration_str": "3d 18h 49m"
   },
   {
     "title": "Trump envoie des sous-marins en réponse à des propos \"provocateurs\" russes",
@@ -6367,5 +6370,16 @@
   {
     "title": "Après deux féminicides, un observatoire des violences faites aux femmes pourrait voir le jour à Fribourg",
     "added_at": "2025-08-05T14:00:02.454Z"
+  },
+  {
+    "title": "Dans un entretien, Donald Trump épingle Karin Keller-Sutter et envisage des taxes sur la pharma de 250%",
+    "added_at": "2025-08-05T14:33:46.907Z",
+    "removed_at": "2025-08-05T14:37:58.204Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Dans un entretien, Donald Trump épingle Karin Keller-Sutter et envisage des taxes de 250% sur la pharma",
+    "added_at": "2025-08-05T14:37:58.204Z"
   }
 ]
