@@ -1299,10 +1299,7 @@
   },
   {
     "title": "A Verbier, la musique classique rythme la station durant l'été et attire les mélomanes",
-    "added_at": "2025-07-17T14:42:18.441Z",
-    "removed_at": "2025-07-19T09:59:21.566Z",
-    "duration_minutes": 2597,
-    "duration_str": "1d 19h 17m"
+    "added_at": "2025-07-17T14:42:18.441Z"
   },
   {
     "title": "Donald Trump annonce que Coca-Cola a modifié sa recette à sa demande et s'en félicite",
@@ -5810,7 +5807,10 @@
   },
   {
     "title": "Un deal énergétique \"irréaliste\", un \"roi de Suisse\" irritant et un médicament controversé",
-    "added_at": "2025-08-02T06:30:53.713Z"
+    "added_at": "2025-08-02T06:30:53.713Z",
+    "removed_at": "2025-08-05T13:07:39.715Z",
+    "duration_minutes": 4716,
+    "duration_str": "3d 6h 36m"
   },
   {
     "title": "Une 56e édition du Festival du film alpin pour marier montagne et cinéma aux Diablerets",
@@ -5825,7 +5825,10 @@
   },
   {
     "title": "Nouveau film d'horreur des frères Philippou, \"Bring her Back\" peine à convaincre",
-    "added_at": "2025-08-02T07:54:00.674Z"
+    "added_at": "2025-08-02T07:54:00.674Z",
+    "removed_at": "2025-08-05T13:22:15.188Z",
+    "duration_minutes": 4648,
+    "duration_str": "3d 5h 28m"
   },
   {
     "title": "USA/Taxes: faut-il défier l’administration Trump ou continuer de négocier avec elle? La réaction de nos invités",
@@ -6038,7 +6041,10 @@
   },
   {
     "title": "Droits de douane: l'or comme levier dans les négociations face aux Etats-Unis?",
-    "added_at": "2025-08-03T21:02:33.066Z"
+    "added_at": "2025-08-03T21:02:33.066Z",
+    "removed_at": "2025-08-05T13:22:15.188Z",
+    "duration_minutes": 2419,
+    "duration_str": "1d 16h 19m"
   },
   {
     "title": "Plusieurs manifestations au Brésil en soutien à Jair Bolsonaro et aux sanctions américaines",
@@ -6318,5 +6324,27 @@
   {
     "title": "A Neuchâtel, la Collégiale vandalisée par des slogans politiques et anti-religieux",
     "added_at": "2025-08-05T12:32:04.602Z"
+  },
+  {
+    "title": "La paix fragile vole en éclats entre Druzes et Bédouins en Syrie",
+    "added_at": "2025-08-05T13:07:39.715Z",
+    "removed_at": "2025-08-05T13:28:31.182Z",
+    "duration_minutes": 20,
+    "duration_str": "20m"
+  },
+  {
+    "title": "Football: que se passe-t-il avec les supporters de Servette? Interview de Jérôme Berthoud",
+    "added_at": "2025-08-05T13:22:15.188Z"
+  },
+  {
+    "title": "Tensions ravivées entre Druzes et Bédouins dans la région de Soueida, en Syrie",
+    "added_at": "2025-08-05T13:28:31.182Z",
+    "removed_at": "2025-08-05T13:30:37.263Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "La paix fragile entre Druzes et Bédouins toujours menacée dans la région de Soueida, en Syrie",
+    "added_at": "2025-08-05T13:30:37.263Z"
   }
 ]
