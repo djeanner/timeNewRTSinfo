@@ -71,15 +71,16 @@
   },
   {
     "title": "Japan logs two new highest temperatures on record in a day",
-    "added_at": "2025-08-05T07:52:15.303Z",
+    "added_at": "2025-08-05T07:52:05.865Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "‘Very heavy fire’: Israel escalates deadly ground and air attacks on Gaza",
     "added_at": "2025-08-05T08:21:28.005Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-05T10:22:30.814Z",
+    "duration_minutes": 121,
+    "duration_str": "2h 1m"
   },
   {
     "title": "Bengaluru stops salaries as India’s Super League turmoil deepens",
@@ -96,6 +97,12 @@
   {
     "title": "Tendulkar leads praise for India after Test fightback in England",
     "added_at": "2025-08-05T09:21:59.939Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Israel steps up ground and air attacks as 8 more die of starvation in Gaza",
+    "added_at": "2025-08-05T10:22:30.814Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
