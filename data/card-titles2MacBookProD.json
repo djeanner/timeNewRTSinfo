@@ -24913,7 +24913,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La visite de l'émissaire américain Steve Witkoff en Russie confirmée",
-    "added_at": "2025-08-04T01:54:01.513Z"
+    "added_at": "2025-08-04T01:54:01.513Z",
+    "removed_at": "2025-08-05T02:23:33.905Z",
+    "duration_minutes": 1469,
+    "duration_str": "1d 29m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Conseil de sécurité de l'ONU se réunira mardi en urgence sur les otages à Gaza",
@@ -25100,5 +25103,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Un «projectile houthi» tiré vers Israël du Yémen",
     "added_at": "2025-08-05T02:13:01.362Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Zelensky dénonce la présence de mercenaires chinois et africains en Ukraine",
+    "added_at": "2025-08-05T02:23:33.905Z"
   }
 ]
