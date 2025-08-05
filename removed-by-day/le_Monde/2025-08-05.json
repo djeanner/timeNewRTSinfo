@@ -76,8 +76,9 @@
   {
     "title": "Keiji Nakazawa, l’enfant rescapé de la bombe A",
     "added_at": "2025-08-05T03:36:18.555Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-05T04:24:17.191Z",
+    "duration_minutes": 48,
+    "duration_str": "48m"
   },
   {
     "title": "Aux Etats-Unis, le retour calculé de Kamala Harris",
@@ -264,9 +265,8 @@
   {
     "title": "Au MuCEM, à Marseille, la réjouissante sarabande d’Hervé Di Rosa",
     "added_at": "2025-08-05T06:10:16.385Z",
-    "removed_at": "2025-08-05T06:22:45.257Z",
-    "duration_minutes": 12,
-    "duration_str": "12m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "L’appel d’anciens officiers et diplomates israéliens pour que Trump oblige Israël à négocier un cessez-le-feu à Gaza",
@@ -295,18 +295,75 @@
   {
     "title": "Normal, le magasin discount au succès fulgurant en France",
     "added_at": "2025-08-05T06:35:11.943Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-05T07:18:56.298Z",
+    "duration_minutes": 44,
+    "duration_str": "44m"
   },
   {
     "title": "Les droits de douane vont-ils finir par ébranler les marchés ?",
     "added_at": "2025-08-05T06:55:57.970Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-05T07:02:19.228Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
   },
   {
     "title": "Le retour calculé de Kamala Harris, après une défaite et des mois de silence",
     "added_at": "2025-08-05T07:00:06.760Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Le Japon a enregistré mardi une température de 41,8°C, la plus élevée jamais enregistrée dans le pays",
+    "added_at": "2025-08-05T07:10:40.699Z",
+    "removed_at": "2025-08-05T07:12:41.795Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Les droits de douane vont-ils finir par affecter les marchés ?",
+    "added_at": "2025-08-05T07:10:40.699Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Le Japon a enregistré une température historiquement haute de 41,8°C",
+    "added_at": "2025-08-05T07:12:41.795Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Chine : Pékin lève son alerte aux pluies torrentielles, après l’évacuation de 82 000 personnes ; niveau « noir » à Hongkong",
+    "added_at": "2025-08-05T07:35:39.338Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Le Rwanda a conclu un accord pour accueillir jusqu’à 250 migrants expulsés des Etats-Unis",
+    "added_at": "2025-08-05T07:35:39.338Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "En Italie, Giorgia Meloni mise hors de cause après la libération d’un Libyen soupçonné de crimes de guerre",
+    "added_at": "2025-08-05T07:39:46.047Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Syndrome de Fregoli : la conviction délirante qu’un proche se déguise en d’autres personnes",
+    "added_at": "2025-08-05T07:39:46.047Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Keiji Nakazawa, l’enfant rescapé de la bombe atomique sur Hiroshima",
+    "added_at": "2025-08-05T07:43:54.772Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Louis Roquebert, un communicant à la tête des Jeunes en marche",
+    "added_at": "2025-08-05T07:56:24.281Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
