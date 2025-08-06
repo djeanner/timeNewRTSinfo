@@ -28601,7 +28601,10 @@
   },
   {
     "title": "Malgré ses capacités de défense, le pin sylvestre cède le pas au chêne",
-    "added_at": "2025-08-02T23:10:48.643Z"
+    "added_at": "2025-08-02T23:10:48.643Z",
+    "removed_at": "2025-08-06T05:33:20.316Z",
+    "duration_minutes": 4702,
+    "duration_str": "3d 6h 22m"
   },
   {
     "title": "Le Croissant-Rouge palestinien dénonce la mort d'un employé dans une frappe israélienne",
@@ -28653,7 +28656,10 @@
   },
   {
     "title": "Plus d'un million de personnes rassemblées à Rome pour la messe de clôture du Jubilé des jeunes",
-    "added_at": "2025-08-03T12:15:58.406Z"
+    "added_at": "2025-08-03T12:15:58.406Z",
+    "removed_at": "2025-08-06T06:09:11.008Z",
+    "duration_minutes": 3953,
+    "duration_str": "2d 17h 53m"
   },
   {
     "title": "L'or, possible levier dans les négociations sur les taxes douanières américaines?",
@@ -29022,10 +29028,7 @@
   },
   {
     "title": "USA/Taxes: peut-on parler de victoire pour Donald Trump?",
-    "added_at": "2025-08-05T16:21:53.213Z",
-    "removed_at": "2025-08-06T04:19:43.425Z",
-    "duration_minutes": 717,
-    "duration_str": "11h 57m"
+    "added_at": "2025-08-05T16:21:53.213Z"
   },
   {
     "title": "L'entreprise OceanGate jugée responsable de l'implosion fatale du sous-marin Titan",
@@ -29099,5 +29102,13 @@
   {
     "title": "Un incendie d'une rare intensité entraîne la fermeture de l'autoroute reliant la France et l'Espagne",
     "added_at": "2025-08-06T03:30:46.075Z"
+  },
+  {
+    "title": "La communauté en Cisjordanie où un activiste palestinien a été tué réclame justice",
+    "added_at": "2025-08-06T05:33:20.316Z"
+  },
+  {
+    "title": "Des mini-émetteurs fixés sur le dos des frelons asiatiques pour lutter contre l'invasion",
+    "added_at": "2025-08-06T06:09:11.008Z"
   }
 ]
