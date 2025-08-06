@@ -20165,10 +20165,7 @@
   },
   {
     "title": "monde:::En Russie, on rit avec amertume du «Russe lambda», de la guerre et des obscénités de Vladimir Poutine",
-    "added_at": "2025-07-29T10:36:10.820Z",
-    "removed_at": "2025-08-01T04:29:22.387Z",
-    "duration_minutes": 3953,
-    "duration_str": "2d 17h 53m"
+    "added_at": "2025-07-29T10:36:10.820Z"
   },
   {
     "title": "monde:::«Gaza a franchi le seuil de la famine», constate le Programme alimentaire mondial",
@@ -21700,7 +21697,10 @@
   },
   {
     "title": "suisse:::Le fromage suisse mis à mal par la hausse des taxes douanières de Donald Trump",
-    "added_at": "2025-08-05T05:53:00.083Z"
+    "added_at": "2025-08-05T05:53:00.083Z",
+    "removed_at": "2025-08-06T10:25:59.060Z",
+    "duration_minutes": 1712,
+    "duration_str": "1d 4h 32m"
   },
   {
     "title": "suisse:::«Les taxes douanières vont impacter très durement les entreprises actives dans le milieu de gamme»",
@@ -21848,10 +21848,7 @@
   },
   {
     "title": "monde:::Dans les territoires occupés ou en Russie, le Kremlin prépare les enfants ukrainiens à combattre leur propre pays",
-    "added_at": "2025-08-05T15:42:13.225Z",
-    "removed_at": "2025-08-06T01:56:26.047Z",
-    "duration_minutes": 614,
-    "duration_str": "10h 14m"
+    "added_at": "2025-08-05T15:42:13.225Z"
   },
   {
     "title": "suisse:::Des tags sur la collégiale de Neuchâtel suscitent une vague d’indignation",
@@ -21881,7 +21878,10 @@
   },
   {
     "title": "culture:::A Locarno, où s'ouvre le festival, le cinéma de demain est ancré dans le présent",
-    "added_at": "2025-08-05T18:13:29.031Z"
+    "added_at": "2025-08-05T18:13:29.031Z",
+    "removed_at": "2025-08-06T11:03:40.152Z",
+    "duration_minutes": 1010,
+    "duration_str": "16h 50m"
   },
   {
     "title": "culture:::Avec «Aussi dur que l’eau», Yan Lianke signe un grand roman d’amour sur fond de Révolution culturelle",
@@ -21953,11 +21953,17 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L'émissaire de Donald Trump est à Moscou pour des discussions de la dernière chance",
-    "added_at": "2025-08-06T05:12:37.525Z"
+    "added_at": "2025-08-06T05:12:37.525Z",
+    "removed_at": "2025-08-06T09:40:42.615Z",
+    "duration_minutes": 268,
+    "duration_str": "4h 28m"
   },
   {
     "title": "sciences:::Les Etats-Unis annulent leur financement de plusieurs vaccins à ARN messager",
-    "added_at": "2025-08-06T05:22:02.119Z"
+    "added_at": "2025-08-06T05:22:02.119Z",
+    "removed_at": "2025-08-06T09:55:45.197Z",
+    "duration_minutes": 273,
+    "duration_str": "4h 33m"
   },
   {
     "title": "suisse:::La justice nyonnaise valide une dénonciation pour fraude à l’aide sociale",
@@ -21988,5 +21994,17 @@
   {
     "title": "sport:::Josette Valloton, le désir de montagne, pas de lumière",
     "added_at": "2025-08-06T08:49:40.024Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – L'émissaire de Donald Trump est reçu au Kremlin par Vladimir Poutine",
+    "added_at": "2025-08-06T09:40:42.615Z"
+  },
+  {
+    "title": "monde:::Comment la guerre en Ukraine ravive le débat sur le service militaire en Europe",
+    "added_at": "2025-08-06T10:25:59.060Z"
+  },
+  {
+    "title": "sciences:::Au Chili, le traqueur d’exoplanètes Nirps a livré ses premiers signaux",
+    "added_at": "2025-08-06T11:03:40.152Z"
   }
 ]
