@@ -6448,10 +6448,7 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:00:57.917Z",
-    "removed_at": "2025-08-01T18:15:00.033Z",
-    "duration_minutes": 102254,
-    "duration_str": "71d 14m"
+    "added_at": "2025-05-22T18:00:57.917Z"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -22347,7 +22344,10 @@
   },
   {
     "title": "monde:::Droits de douane: quand le homard américain est brandi comme arme de négociation en plein chaos trumpien",
-    "added_at": "2025-08-07T08:46:37.714Z"
+    "added_at": "2025-08-07T08:46:37.714Z",
+    "removed_at": "2025-08-07T19:27:32.750Z",
+    "duration_minutes": 640,
+    "duration_str": "10h 40m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Une rencontre entre Donald Trump et Vladimir Poutine est prévue «dans les prochains jours», selon le Kremlin",
@@ -22485,7 +22485,10 @@
   },
   {
     "title": "culture:::«L’homme est un mouton pour l’homme.» Au far°, à Nyon, Marion Thomas corrige l’idée reçue de rivalité innée",
-    "added_at": "2025-08-07T15:50:08.277Z"
+    "added_at": "2025-08-07T15:50:08.277Z",
+    "removed_at": "2025-08-07T18:32:49.291Z",
+    "duration_minutes": 162,
+    "duration_str": "2h 42m"
   },
   {
     "title": "economie:::Taxes entre les Etats-Unis et l’UE: ce qu’il reste à négocier et à clarifier entre deux couches de flou",
@@ -22509,5 +22512,13 @@
   {
     "title": "monde:::Loi Duplomb: le Conseil constitutionnel censure l’usage de l’acétamipride",
     "added_at": "2025-08-07T17:47:17.459Z"
+  },
+  {
+    "title": "suisse:::Delphine Bachmann: «Face aux taxes douanières, il faut un soutien beaucoup plus fort aux entreprises»",
+    "added_at": "2025-08-07T18:34:39.131Z"
+  },
+  {
+    "title": "culture:::Locarno: «Sehnsucht in Sangerhausen», ne pas oublier d'où l'on vient",
+    "added_at": "2025-08-07T19:25:38.530Z"
   }
 ]

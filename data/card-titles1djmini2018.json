@@ -26405,7 +26405,10 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T21:30:25.517Z"
+    "added_at": "2025-07-25T21:30:25.517Z",
+    "removed_at": "2025-08-07T19:02:58.317Z",
+    "duration_minutes": 18572,
+    "duration_str": "12d 21h 32m"
   },
   {
     "title": "La légende du catch Hulk Hogan est décédée à l'âge de 71 ans",
@@ -28535,9 +28538,9 @@
   {
     "title": "Donald Trump somme les entreprises pharmaceutiques de baisser leurs prix",
     "added_at": "2025-08-02T16:23:42.077Z",
-    "removed_at": "2025-08-07T18:04:19.746Z",
-    "duration_minutes": 7300,
-    "duration_str": "5d 1h 40m"
+    "removed_at": "2025-08-07T20:05:18.682Z",
+    "duration_minutes": 7421,
+    "duration_str": "5d 3h 41m"
   },
   {
     "title": "La marche des fiertés au centre-ville de Berne a rassemblé plusieurs milliers de personnes",
@@ -28850,7 +28853,10 @@
   },
   {
     "title": "Une nouvelle vidéo d'otage à Gaza suscite l'indignation",
-    "added_at": "2025-08-04T10:50:56.786Z"
+    "added_at": "2025-08-04T10:50:56.786Z",
+    "removed_at": "2025-08-07T19:18:08.712Z",
+    "duration_minutes": 4827,
+    "duration_str": "3d 8h 27m"
   },
   {
     "title": "L’ex-diplomate François Nordmann fait le point sur les négociations avec Trump",
@@ -28882,7 +28888,10 @@
   },
   {
     "title": "\"Arrêtez la guerre à Gaza!\": 550 anciens responsables militaires israéliens exhortent Donald Trump à agir",
-    "added_at": "2025-08-04T11:11:50.795Z"
+    "added_at": "2025-08-04T11:11:50.795Z",
+    "removed_at": "2025-08-07T19:38:53.271Z",
+    "duration_minutes": 4827,
+    "duration_str": "3d 8h 27m"
   },
   {
     "title": "Le procès de l'attentat du Crocus City Hall, qui a fait 149 morts en 2024, s'ouvre à Moscou",
@@ -29449,7 +29458,10 @@
   },
   {
     "title": "Le sud de la France toujours en alerte face au plus gros incendie de l'été",
-    "added_at": "2025-08-07T08:12:30.574Z"
+    "added_at": "2025-08-07T08:12:30.574Z",
+    "removed_at": "2025-08-07T20:03:28.808Z",
+    "duration_minutes": 710,
+    "duration_str": "11h 50m"
   },
   {
     "title": "Une rencontre Trump-Poutine \"dans les prochains jours\", annonce le Kremlin",
@@ -29523,5 +29535,17 @@
   {
     "title": "L'alerte canicule activée à Genève dès vendredi",
     "added_at": "2025-08-07T17:52:57.390Z"
+  },
+  {
+    "title": "Taxes douanières: les inquiétudes et les réactions des milieux économiques",
+    "added_at": "2025-08-07T19:18:08.712Z"
+  },
+  {
+    "title": "La fin des investissements américains dans les vaccins ARNm est \"un coup dur\" pour l'OMS",
+    "added_at": "2025-08-07T19:38:53.271Z"
+  },
+  {
+    "title": "Le plus gros incendie de l'été dans le sud de la France est sous contrôle",
+    "added_at": "2025-08-07T20:03:28.808Z"
   }
 ]
