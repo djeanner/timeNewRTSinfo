@@ -28883,11 +28883,17 @@
   },
   {
     "title": "Le procès de l'attentat du Crocus City Hall, qui a fait 149 morts en 2024, s'ouvre à Moscou",
-    "added_at": "2025-08-04T11:36:32.104Z"
+    "added_at": "2025-08-04T11:36:32.104Z",
+    "removed_at": "2025-08-07T10:56:54.973Z",
+    "duration_minutes": 4280,
+    "duration_str": "2d 23h 20m"
   },
   {
     "title": "Un trafic de drogue d'envergure jugé au Tribunal de Sierre",
-    "added_at": "2025-08-04T12:39:27.438Z"
+    "added_at": "2025-08-04T12:39:27.438Z",
+    "removed_at": "2025-08-07T10:15:22.271Z",
+    "duration_minutes": 4175,
+    "duration_str": "2d 21h 35m"
   },
   {
     "title": "Le Conseil fédéral va soumettre une nouvelle offre à Washington concernant les droits de douane",
@@ -28946,7 +28952,10 @@
   },
   {
     "title": "Plombée par les droits de douane américains, la Bourse suisse perd plus de 2%, avant de rebondir",
-    "added_at": "2025-08-04T16:24:17.517Z"
+    "added_at": "2025-08-04T16:24:17.517Z",
+    "removed_at": "2025-08-07T10:41:51.395Z",
+    "duration_minutes": 3977,
+    "duration_str": "2d 18h 17m"
   },
   {
     "title": "Ouverture du procès de l'affaire de trafic de drogue de la cité Aldrin à Sierre",
@@ -29112,7 +29121,10 @@
   },
   {
     "title": "USA/Taxes: peut-on parler de victoire pour Donald Trump?",
-    "added_at": "2025-08-05T16:21:53.213Z"
+    "added_at": "2025-08-05T16:21:53.213Z",
+    "removed_at": "2025-08-07T10:38:01.422Z",
+    "duration_minutes": 2536,
+    "duration_str": "1d 18h 16m"
   },
   {
     "title": "L'entreprise OceanGate jugée responsable de l'implosion fatale du sous-marin Titan",
@@ -29259,10 +29271,7 @@
   },
   {
     "title": "Quelles propositions faire à Donald Trump au sujet des droits de douane?",
-    "added_at": "2025-08-06T12:00:24.646Z",
-    "removed_at": "2025-08-07T07:23:26.771Z",
-    "duration_minutes": 1163,
-    "duration_str": "19h 23m"
+    "added_at": "2025-08-06T12:00:24.646Z"
   },
   {
     "title": "Pourquoi les médicaments sont-ils aussi chers aux Etats-Unis?",
@@ -29324,9 +29333,9 @@
   {
     "title": "Les pharmas pourraient-elles négocier directement avec Donald Trump? Interview de Georges Ugeux",
     "added_at": "2025-08-06T17:42:17.798Z",
-    "removed_at": "2025-08-07T06:47:33.251Z",
-    "duration_minutes": 785,
-    "duration_str": "13h 5m"
+    "removed_at": "2025-08-07T10:38:01.422Z",
+    "duration_minutes": 1015,
+    "duration_str": "16h 55m"
   },
   {
     "title": "Le chef d'état-major israélien s'oppose au contrôle total de Gaza",
@@ -29418,5 +29427,17 @@
   {
     "title": "Une rencontre Trump-Poutine \"dans les prochains jours\", annonce le Kremlin",
     "added_at": "2025-08-07T08:38:55.851Z"
+  },
+  {
+    "title": "Les vols de moteurs de bateaux se multiplient en Suisse",
+    "added_at": "2025-08-07T10:15:22.271Z"
+  },
+  {
+    "title": "\"KPop Demon Hunters\", le film d'animation qui enflamme Netflix et les charts",
+    "added_at": "2025-08-07T10:41:51.395Z"
+  },
+  {
+    "title": "Le chef du réseau de drogue de la cité Aldrin à Sierre condamné à quatre ans de prison",
+    "added_at": "2025-08-07T10:56:54.973Z"
   }
 ]
