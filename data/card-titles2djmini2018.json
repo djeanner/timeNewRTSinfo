@@ -6448,7 +6448,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:00:57.917Z"
+    "added_at": "2025-05-22T18:00:57.917Z",
+    "removed_at": "2025-08-08T05:42:47.000Z",
+    "duration_minutes": 111581,
+    "duration_str": "77d 11h 41m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -22475,7 +22478,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – A Gaza face au risque d'une nouvelle invasion: «que pourrait-il nous arriver de pire?»",
-    "added_at": "2025-08-07T15:02:50.653Z"
+    "added_at": "2025-08-07T15:02:50.653Z",
+    "removed_at": "2025-08-08T03:36:32.249Z",
+    "duration_minutes": 753,
+    "duration_str": "12h 33m"
   },
   {
     "title": "sciences:::Et si nous allions voir un trou noir de près?",
@@ -22498,7 +22504,10 @@
   },
   {
     "title": "economie:::Taxes entre les Etats-Unis et l’UE: ce qu’il reste à négocier et à clarifier entre deux couches de flou",
-    "added_at": "2025-08-07T16:03:23.720Z"
+    "added_at": "2025-08-07T16:03:23.720Z",
+    "removed_at": "2025-08-08T05:08:51.160Z",
+    "duration_minutes": 785,
+    "duration_str": "13h 5m"
   },
   {
     "title": "suisse:::Droits de douane: après l’échec du Conseil fédéral, c’est à la task force d’agir",
@@ -22555,5 +22564,21 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Donald Trump prêt à voir Vladimir Poutine, même si ce dernier refuse de rencontrer Volodymyr Zelensky",
     "added_at": "2025-08-08T03:00:35.086Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’armée israélienne va «prendre le contrôle» de la ville de Gaza",
+    "added_at": "2025-08-08T03:36:32.249Z"
+  },
+  {
+    "title": "sport:::Retraite d’une légende du beach-soccer: Dejan Stankovic, une empreinte dans le sable",
+    "added_at": "2025-08-08T04:38:43.826Z"
+  },
+  {
+    "title": "economie:::Simon Michel, directeur d’Ypsomed: «Je ne crois pas que ces taxes disparaîtront durant les huit prochaines années»",
+    "added_at": "2025-08-08T05:08:51.160Z"
+  },
+  {
+    "title": "culture:::Avec Golshifteh Farahani et Zar Amir, le 78e Locarno Film Festival s’est ouvert sous le signe de la diaspora iranienne",
+    "added_at": "2025-08-08T05:42:47.000Z"
   }
 ]
