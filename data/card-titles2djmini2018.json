@@ -22452,7 +22452,10 @@
   },
   {
     "title": "suisse:::Genève active son plan canicule pour la seconde fois de l’été, ce vendredi",
-    "added_at": "2025-08-07T13:54:49.929Z"
+    "added_at": "2025-08-07T13:54:49.929Z",
+    "removed_at": "2025-08-08T11:37:45.147Z",
+    "duration_minutes": 1302,
+    "duration_str": "21h 42m"
   },
   {
     "title": "culture:::«L’homme est un mouton pour l’homme». Au far°, à Nyon, Marion Thomas corrige l’idée reçue de rivalité innée",
@@ -22502,7 +22505,10 @@
   },
   {
     "title": "culture:::Quand Friedrich Dürrenmatt regardait Xamax et le football au télescope",
-    "added_at": "2025-08-07T15:46:22.156Z"
+    "added_at": "2025-08-07T15:46:22.156Z",
+    "removed_at": "2025-08-08T12:57:05.338Z",
+    "duration_minutes": 1270,
+    "duration_str": "21h 10m"
   },
   {
     "title": "culture:::«L’homme est un mouton pour l’homme.» Au far°, à Nyon, Marion Thomas corrige l’idée reçue de rivalité innée",
@@ -22623,11 +22629,17 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le plan israélien de conquête de Gaza: des mois voire des années supplémentaires de guerre",
-    "added_at": "2025-08-08T08:47:50.026Z"
+    "added_at": "2025-08-08T08:47:50.026Z",
+    "removed_at": "2025-08-08T10:56:11.683Z",
+    "duration_minutes": 128,
+    "duration_str": "2h 8m"
   },
   {
     "title": "economie:::Les Etats-Unis imposent des droits de douane surprise sur les lingots d’or",
-    "added_at": "2025-08-08T09:10:28.587Z"
+    "added_at": "2025-08-08T09:10:28.587Z",
+    "removed_at": "2025-08-08T12:02:12.929Z",
+    "duration_minutes": 171,
+    "duration_str": "2h 51m"
   },
   {
     "title": "suisse:::A Delémont, le projet de nouvel hôpital se précise",
@@ -22643,5 +22655,21 @@
   {
     "title": "monde:::«Islamophobie», «racisme»: une décision municipale bannissant les musulmans de l’espace public enflamme l’Espagne",
     "added_at": "2025-08-08T10:31:31.160Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Après le plan de conquête de Gaza, l'Allemagne suspend certaines exportations d'armes vers Israël",
+    "added_at": "2025-08-08T10:56:11.683Z"
+  },
+  {
+    "title": "suisse:::Genève et Vaud activent leur plan canicule vendredi",
+    "added_at": "2025-08-08T11:37:45.147Z"
+  },
+  {
+    "title": "economie:::Les Etats-Unis imposent des droits de douane surprises sur les lingots d’or",
+    "added_at": "2025-08-08T12:02:12.929Z"
+  },
+  {
+    "title": "suisse:::On exécute bien les guérisseurs: comment les rebouteux furent accusés d’être des sorciers",
+    "added_at": "2025-08-08T12:57:05.338Z"
   }
 ]

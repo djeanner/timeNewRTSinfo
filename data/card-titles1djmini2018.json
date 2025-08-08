@@ -29123,7 +29123,10 @@
   },
   {
     "title": "Le site de la Grande Dixence sera à nouveau accessible dès samedi",
-    "added_at": "2025-08-05T12:25:52.492Z"
+    "added_at": "2025-08-05T12:25:52.492Z",
+    "removed_at": "2025-08-08T11:07:29.733Z",
+    "duration_minutes": 4241,
+    "duration_str": "2d 22h 41m"
   },
   {
     "title": "A Neuchâtel, la Collégiale vandalisée par des slogans politiques et anti-religieux",
@@ -29218,7 +29221,10 @@
   },
   {
     "title": "Le Verbier Festival a battu son record de fréquentation avec son édition 2025",
-    "added_at": "2025-08-05T19:17:51.295Z"
+    "added_at": "2025-08-05T19:17:51.295Z",
+    "removed_at": "2025-08-08T11:47:08.249Z",
+    "duration_minutes": 3869,
+    "duration_str": "2d 16h 29m"
   },
   {
     "title": "Karin Keller-Sutter et Guy Parmelin s’envolent pour Washington dans l’espoir de poursuivre les négociations",
@@ -29698,5 +29704,13 @@
   {
     "title": "L'intervention policière à l'UBS de Lausanne était liée à une fausse alerte de prise d'otages",
     "added_at": "2025-08-08T10:25:51.352Z"
+  },
+  {
+    "title": "Santé et risque d'incendies: les cantons romands en alerte face à la canicule",
+    "added_at": "2025-08-08T11:07:29.733Z"
+  },
+  {
+    "title": "Plus de 70 artistes programmés à Jazz sur la Plage, un festival désormais payant",
+    "added_at": "2025-08-08T11:47:08.249Z"
   }
 ]
