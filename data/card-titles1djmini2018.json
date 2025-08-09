@@ -29486,7 +29486,10 @@
   },
   {
     "title": "Vaud expérimente une vitesse réduite sur la Petite Corniche en Lavaux",
-    "added_at": "2025-08-06T16:57:00.118Z"
+    "added_at": "2025-08-06T16:57:00.118Z",
+    "removed_at": "2025-08-09T11:32:23.539Z",
+    "duration_minutes": 3995,
+    "duration_str": "2d 18h 35m"
   },
   {
     "title": "La petite statue de David de Pury, œuvre d'art sur le passé colonial, dérobée à Neuchâtel",
@@ -29570,7 +29573,10 @@
   },
   {
     "title": "Karin Keller-Sutter et Guy Parmelin rentrent bredouilles de Washington, les produits suisses taxés à 39%",
-    "added_at": "2025-08-07T04:18:31.029Z"
+    "added_at": "2025-08-07T04:18:31.029Z",
+    "removed_at": "2025-08-09T11:43:43.688Z",
+    "duration_minutes": 3325,
+    "duration_str": "2d 7h 25m"
   },
   {
     "title": "ArmaSuisse décide de fermer le mythique Hôtel du Chasseron, suscitant l'émoi dans le Jura vaudois",
@@ -29766,7 +29772,10 @@
   },
   {
     "title": "L'actrice Golshifteh Farahani: \"Locarno est un festival qui ose\"",
-    "added_at": "2025-08-08T08:32:42.890Z"
+    "added_at": "2025-08-08T08:32:42.890Z",
+    "removed_at": "2025-08-09T10:33:58.134Z",
+    "duration_minutes": 1561,
+    "duration_str": "1d 2h 1m"
   },
   {
     "title": "Lausanne en bonne position, Lugano étrillé",
@@ -29971,5 +29980,24 @@
   {
     "title": "Cinq inventions qui ont métamorphosé notre quotidien",
     "added_at": "2025-08-09T10:09:16.356Z"
+  },
+  {
+    "title": "Le réalisateur Abdellatif Kechiche, \"virtuose de la caméra et du montage\"",
+    "added_at": "2025-08-09T10:33:58.134Z"
+  },
+  {
+    "title": "La canicule frappe la Suisse pour une deuxième fois cette année",
+    "added_at": "2025-08-09T11:32:23.539Z",
+    "removed_at": "2025-08-09T12:32:51.415Z",
+    "duration_minutes": 60,
+    "duration_str": "1h"
+  },
+  {
+    "title": "Donald Trump assure avoir \"définitivement\" réconcilié l'Arménie et l'Azerbaïdjan",
+    "added_at": "2025-08-09T11:43:43.688Z"
+  },
+  {
+    "title": "La canicule frappe la Suisse pour la deuxième fois cette année",
+    "added_at": "2025-08-09T12:32:51.415Z"
   }
 ]
