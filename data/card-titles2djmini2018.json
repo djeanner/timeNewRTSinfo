@@ -22628,7 +22628,10 @@
   },
   {
     "title": "suisse:::Le gel de l’admission de certains médecins dans le canton de Vaud déclenche un nouveau bras de fer",
-    "added_at": "2025-08-08T06:03:42.590Z"
+    "added_at": "2025-08-08T06:03:42.590Z",
+    "removed_at": "2025-08-09T15:17:20.550Z",
+    "duration_minutes": 1993,
+    "duration_str": "1d 9h 13m"
   },
   {
     "title": "economie:::Donald Trump met un pied à la Fed en nommant gouverneur un de ses conseillers",
@@ -22706,7 +22709,10 @@
   },
   {
     "title": "suisse:::On exécute bien les guérisseurs: comment les rebouteux furent accusés d’être des sorciers",
-    "added_at": "2025-08-08T12:57:05.338Z"
+    "added_at": "2025-08-08T12:57:05.338Z",
+    "removed_at": "2025-08-09T15:23:00.813Z",
+    "duration_minutes": 1585,
+    "duration_str": "1d 2h 25m"
   },
   {
     "title": "sport:::Une Canadienne remporte un WTA 1000 à seulement 18 ans: Victoria Mboko, une ascension fulgurante",
@@ -22788,7 +22794,10 @@
   },
   {
     "title": "culture:::Comic Sans, tout le monde déteste la police",
-    "added_at": "2025-08-08T18:10:39.939Z"
+    "added_at": "2025-08-08T18:10:39.939Z",
+    "removed_at": "2025-08-09T15:55:05.276Z",
+    "duration_minutes": 1304,
+    "duration_str": "21h 44m"
   },
   {
     "title": "monde:::Bryan Stevenson: «Rien n’a autant transformé les Etats-Unis que la loi sur le droit de vote de 1965»",
@@ -22803,7 +22812,10 @@
   },
   {
     "title": "monde:::Moyen-Orient: après le plan de conquête de Gaza, l'Allemagne suspend certaines exportations d'armes vers Israël",
-    "added_at": "2025-08-08T19:24:14.769Z"
+    "added_at": "2025-08-08T19:24:14.769Z",
+    "removed_at": "2025-08-09T15:28:41.808Z",
+    "duration_minutes": 1204,
+    "duration_str": "20h 4m"
   },
   {
     "title": "monde:::Guerre en Ukraine: Donald Trump prêt à voir Vladimir Poutine, même si ce dernier refuse de rencontrer Volodymyr Zelensky",
@@ -22868,7 +22880,10 @@
   },
   {
     "title": "culture:::Lausanne va explorer l'Afrique en 59 films",
-    "added_at": "2025-08-09T10:03:36.290Z"
+    "added_at": "2025-08-09T10:03:36.290Z",
+    "removed_at": "2025-08-09T15:47:31.402Z",
+    "duration_minutes": 343,
+    "duration_str": "5h 43m"
   },
   {
     "title": "monde:::L’Arménie et l’Azerbaïdjan ont signé un accord à Washington",
@@ -22887,11 +22902,17 @@
   },
   {
     "title": "economie:::Le fabricant d’avions Pilatus demande une exemption des droits de douane américains",
-    "added_at": "2025-08-09T13:10:41.082Z"
+    "added_at": "2025-08-09T13:10:41.082Z",
+    "removed_at": "2025-08-09T16:10:10.151Z",
+    "duration_minutes": 179,
+    "duration_str": "2h 59m"
   },
   {
     "title": "economie:::Et maintenant, que peuvent faire les entrepreneurs suisses?",
-    "added_at": "2025-08-09T13:10:41.082Z"
+    "added_at": "2025-08-09T13:10:41.082Z",
+    "removed_at": "2025-08-09T16:04:30.376Z",
+    "duration_minutes": 173,
+    "duration_str": "2h 53m"
   },
   {
     "title": "culture:::Une promenade dans les «merveilles cachées» du paysage genevois",
@@ -22900,5 +22921,32 @@
   {
     "title": "suisse:::Avec son million de fans de techno, la Street Parade anime Zurich et la presse alémanique",
     "added_at": "2025-08-09T14:50:44.286Z"
+  },
+  {
+    "title": "culture:::La nouvelle Lex Netflix a permis d’injecter près de 16 millions de francs au cinéma suisse",
+    "added_at": "2025-08-09T15:17:20.550Z",
+    "removed_at": "2025-08-09T15:40:02.109Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient: Une vingtaine de pays arabes condamnent les plans israéliens pour Gaza",
+    "added_at": "2025-08-09T15:28:41.808Z"
+  },
+  {
+    "title": "culture:::La nouvelle Lex Netflix a permis d’injecter près de 16 millions de francs à l’audiovisuel suisse",
+    "added_at": "2025-08-09T15:40:02.109Z"
+  },
+  {
+    "title": "culture:::Mosimann, le DJ de vos rêves",
+    "added_at": "2025-08-09T15:45:41.716Z"
+  },
+  {
+    "title": "economie:::Droits de douane: et maintenant, que peuvent faire les entrepreneurs suisses?",
+    "added_at": "2025-08-09T16:04:30.376Z"
+  },
+  {
+    "title": "economie:::Comme la Suisse, le reste du monde cherche des solutions aux droits de douane de Donald Trump",
+    "added_at": "2025-08-09T16:10:10.151Z"
   }
 ]
