@@ -22940,7 +22940,10 @@
   },
   {
     "title": "culture:::Une promenade dans les «merveilles cachées» du paysage genevois",
-    "added_at": "2025-08-09T14:22:26.319Z"
+    "added_at": "2025-08-09T14:22:26.319Z",
+    "removed_at": "2025-08-10T14:13:23.686Z",
+    "duration_minutes": 1430,
+    "duration_str": "23h 50m"
   },
   {
     "title": "suisse:::Avec son million de fans de techno, la Street Parade anime Zurich et la presse alémanique",
@@ -23044,7 +23047,10 @@
   },
   {
     "title": "monde:::Moyen-Orient: Des milliers de manifestants à Tel-Aviv contre le plan israélien",
-    "added_at": "2025-08-09T19:58:49.372Z"
+    "added_at": "2025-08-09T19:58:49.372Z",
+    "removed_at": "2025-08-10T14:19:03.281Z",
+    "duration_minutes": 1100,
+    "duration_str": "18h 20m"
   },
   {
     "title": "culture:::Kamal Aljafari, un cinéaste palestinien à Locarno: «La destruction de Gaza continue, motivée par la haine et un sentiment d’impunité»",
@@ -23066,7 +23072,10 @@
   },
   {
     "title": "economie:::Face aux menaces de Donald Trump, la pharma veut augmenter fortement sa production aux Etats-Unis",
-    "added_at": "2025-08-10T07:25:31.703Z"
+    "added_at": "2025-08-10T07:25:31.703Z",
+    "removed_at": "2025-08-10T14:09:33.360Z",
+    "duration_minutes": 404,
+    "duration_str": "6h 44m"
   },
   {
     "title": "suisse:::Les Jurassiens de l’extérieur, une ressource précieuse pour leur canton",
@@ -23079,5 +23088,24 @@
   {
     "title": "culture:::A Locarno, des organisations de l’audiovisuel signent un accord sur les atteintes à la personnalité",
     "added_at": "2025-08-10T12:01:06.004Z"
+  },
+  {
+    "title": "culture:::Pour l'écrivaine hongroise Agota Kristof, l’exil neuchâtelois",
+    "added_at": "2025-08-10T13:29:54.303Z"
+  },
+  {
+    "title": "economie:::Face aux menaces de Donald Trump, la pharma entend augmenter fortement sa production aux Etats-Unis",
+    "added_at": "2025-08-10T14:09:33.360Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient: Des milliers de manifestants à Tel-Aviv contre le plan israélien",
+    "added_at": "2025-08-10T14:19:03.281Z",
+    "removed_at": "2025-08-10T14:30:22.479Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient: Benyamin Netanyahou pense à des «candidats» pour gérer Gaza",
+    "added_at": "2025-08-10T14:30:22.479Z"
   }
 ]
