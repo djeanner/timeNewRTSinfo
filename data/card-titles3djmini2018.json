@@ -4691,11 +4691,17 @@
   },
   {
     "title": "Did You Follow the News This Week? Take Our Quiz.",
-    "added_at": "2025-05-10T09:59:40.743Z"
+    "added_at": "2025-05-10T09:59:40.743Z",
+    "removed_at": "2025-08-10T21:03:16.234Z",
+    "duration_minutes": 133143,
+    "duration_str": "92d 11h 3m"
   },
   {
     "title": "Play Flashback, Your Weekly History Quiz",
-    "added_at": "2025-05-10T09:59:40.743Z"
+    "added_at": "2025-05-10T09:59:40.743Z",
+    "removed_at": "2025-08-10T21:03:16.234Z",
+    "duration_minutes": 133143,
+    "duration_str": "92d 11h 3m"
   },
   {
     "title": "Elon Musk, Henry Ford and the Rich Tradition of Rabble-Rousers",
@@ -52840,7 +52846,10 @@
   },
   {
     "title": "As Social Security Turns 90, These 6 Myths Won’t Go Away",
-    "added_at": "2025-08-10T10:00:20.333Z"
+    "added_at": "2025-08-10T10:00:20.333Z",
+    "removed_at": "2025-08-10T19:57:14.557Z",
+    "duration_minutes": 596,
+    "duration_str": "9h 56m"
   },
   {
     "title": "President Trump Nominates Tammy Bruce for U.N. Role",
@@ -52931,5 +52940,20 @@
   {
     "title": "Trump Attacked California’s Congressional Maps. Republicans Want to Save Them.",
     "added_at": "2025-08-10T18:49:09.562Z"
+  },
+  {
+    "title": "His Party Reeling, a Democratic Senator Tries a Message of Hope in Iowa",
+    "added_at": "2025-08-10T19:23:16.264Z"
+  },
+  {
+    "title": "6.1-Magnitude Earthquake Strikes Western Turkey",
+    "added_at": "2025-08-10T19:57:14.557Z",
+    "removed_at": "2025-08-10T21:29:44.496Z",
+    "duration_minutes": 92,
+    "duration_str": "1h 32m"
+  },
+  {
+    "title": "Western Turkey Is Hit by Earthquake but Avoids Major Damage",
+    "added_at": "2025-08-10T21:29:44.496Z"
   }
 ]

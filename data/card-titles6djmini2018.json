@@ -26785,7 +26785,10 @@
   },
   {
     "title": "More than 600 Shia pilgrims hospitalised due to chlorine gas leak in Iraq",
-    "added_at": "2025-08-10T11:04:29.922Z"
+    "added_at": "2025-08-10T11:04:29.922Z",
+    "removed_at": "2025-08-10T21:08:55.783Z",
+    "duration_minutes": 604,
+    "duration_str": "10h 4m"
   },
   {
     "title": "Southern Europe battling worst wildfires in decades amid huge blazes",
@@ -26823,7 +26826,10 @@
   },
   {
     "title": "‘Another calamity’: Global condemnation over Israel plan to seize Gaza City",
-    "added_at": "2025-08-10T16:42:32.850Z"
+    "added_at": "2025-08-10T16:42:32.850Z",
+    "removed_at": "2025-08-10T20:38:49.170Z",
+    "duration_minutes": 236,
+    "duration_str": "3h 56m"
   },
   {
     "title": "Will Lebanon succeed in disarming Hezbollah?",
@@ -26840,5 +26846,27 @@
   {
     "title": "UN warns of ‘calamity’ as Netanyahu pushes for Israel to seize Gaza City",
     "added_at": "2025-08-10T18:24:38.517Z"
+  },
+  {
+    "title": "At least 52 killed in Gaza, UN envoys slam Israeli escalation plans",
+    "added_at": "2025-08-10T20:38:49.170Z",
+    "removed_at": "2025-08-10T21:18:25.827Z",
+    "duration_minutes": 39,
+    "duration_str": "39m"
+  },
+  {
+    "title": "Al Jazeera journalist Anas al-Sharif killed in Israeli attack in Gaza City",
+    "added_at": "2025-08-10T21:08:55.783Z"
+  },
+  {
+    "title": "Israel kills Al Jazeera journalist Anas al-Sharif in Gaza attack",
+    "added_at": "2025-08-10T21:18:25.827Z",
+    "removed_at": "2025-08-10T21:27:48.925Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Israel kills Al Jazeera’s Anas al-Sharif, Mohammed Qreiqeh in Gaza",
+    "added_at": "2025-08-10T21:27:48.925Z"
   }
 ]
