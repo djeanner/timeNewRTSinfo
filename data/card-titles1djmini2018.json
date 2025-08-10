@@ -29743,11 +29743,17 @@
   },
   {
     "title": "Podcast - C'est quoi, la \"fenêtre d'Overton\" ?",
-    "added_at": "2025-08-07T17:49:07.262Z"
+    "added_at": "2025-08-07T17:49:07.262Z",
+    "removed_at": "2025-08-10T07:53:56.160Z",
+    "duration_minutes": 3724,
+    "duration_str": "2d 14h 4m"
   },
   {
     "title": "L'alerte canicule activée à Genève dès vendredi",
-    "added_at": "2025-08-07T17:52:57.390Z"
+    "added_at": "2025-08-07T17:52:57.390Z",
+    "removed_at": "2025-08-10T09:22:29.160Z",
+    "duration_minutes": 3809,
+    "duration_str": "2d 15h 29m"
   },
   {
     "title": "Taxes douanières: les inquiétudes et les réactions des milieux économiques",
@@ -29766,7 +29772,10 @@
   },
   {
     "title": "Une quatrième défaite de rang pour les Grenat",
-    "added_at": "2025-08-07T21:13:27.504Z"
+    "added_at": "2025-08-07T21:13:27.504Z",
+    "removed_at": "2025-08-10T08:31:36.773Z",
+    "duration_minutes": 3558,
+    "duration_str": "2d 11h 18m"
   },
   {
     "title": "Lausanne en bonne position",
@@ -29848,7 +29857,10 @@
   },
   {
     "title": "Lausanne en bonne position, Lugano étrillé",
-    "added_at": "2025-08-08T09:19:51.745Z"
+    "added_at": "2025-08-08T09:19:51.745Z",
+    "removed_at": "2025-08-10T08:57:58.276Z",
+    "duration_minutes": 2858,
+    "duration_str": "1d 23h 38m"
   },
   {
     "title": "Quand l’égalité permet d’améliorer la qualité de vie des hommes",
@@ -30099,7 +30111,10 @@
   },
   {
     "title": "L'invité de La Matinale - Le chercheur Johan Rochel publie un manifeste pour ceux que l’égalité ennuie",
-    "added_at": "2025-08-09T15:04:05.721Z"
+    "added_at": "2025-08-09T15:04:05.721Z",
+    "removed_at": "2025-08-10T09:01:47.783Z",
+    "duration_minutes": 1077,
+    "duration_str": "17h 57m"
   },
   {
     "title": "L'émission TV préférée de votre chien dépend de sa personnalité, selon une étude",
@@ -30188,5 +30203,25 @@
   {
     "title": "Les incendies record de cet été montrent les limites des moyens de lutte en Europe",
     "added_at": "2025-08-10T06:45:57.118Z"
+  },
+  {
+    "title": "La dangereuse tendance des tatouages aux coups de soleil analysée par des spécialistes de la santé",
+    "added_at": "2025-08-10T07:53:56.160Z"
+  },
+  {
+    "title": "Polars et justice: l'intime conviction",
+    "added_at": "2025-08-10T08:31:36.773Z"
+  },
+  {
+    "title": "En Suisse, peut-on donner le prénom qu'on veut à son enfant?",
+    "added_at": "2025-08-10T08:57:58.276Z"
+  },
+  {
+    "title": "Israël s’apprête à prendre le contrôle de Gaza: interview de Guillaume Ancel",
+    "added_at": "2025-08-10T09:01:47.783Z"
+  },
+  {
+    "title": "La chaleur menace de rendre inhabitables de nombreux logements en Suisse",
+    "added_at": "2025-08-10T09:22:29.160Z"
   }
 ]
