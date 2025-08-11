@@ -16958,7 +16958,10 @@
   },
   {
     "title": "Podcast – Qui fait vraiment quoi à la maison?",
-    "added_at": "2025-06-14T09:16:45.158Z"
+    "added_at": "2025-06-14T09:16:45.158Z",
+    "removed_at": "2025-08-11T14:49:35.994Z",
+    "duration_minutes": 83852,
+    "duration_str": "58d 5h 32m"
   },
   {
     "title": "Le Conseil fédéral met en consultation les accords avec l'Union européenne",
@@ -29443,7 +29446,10 @@
   },
   {
     "title": "Pourquoi les médicaments sont-ils aussi chers aux Etats-Unis?",
-    "added_at": "2025-08-06T12:24:58.484Z"
+    "added_at": "2025-08-06T12:24:58.484Z",
+    "removed_at": "2025-08-11T15:19:52.925Z",
+    "duration_minutes": 7374,
+    "duration_str": "5d 2h 54m"
   },
   {
     "title": "Les opposants à la loi sur l'e-ID dénoncent un tremplin vers une économie de surveillance",
@@ -30222,7 +30228,10 @@
   },
   {
     "title": "Donald Trump assure avoir \"définitivement\" réconcilié l'Arménie et l'Azerbaïdjan",
-    "added_at": "2025-08-09T11:43:43.688Z"
+    "added_at": "2025-08-09T11:43:43.688Z",
+    "removed_at": "2025-08-11T15:14:11.297Z",
+    "duration_minutes": 3090,
+    "duration_str": "2d 3h 30m"
   },
   {
     "title": "La canicule frappe la Suisse pour la deuxième fois cette année",
@@ -30230,11 +30239,17 @@
   },
   {
     "title": "Active à Blatten depuis le 27 juin, l’armée quittera le Haut-Valais lundi soir",
-    "added_at": "2025-08-09T13:01:17.321Z"
+    "added_at": "2025-08-09T13:01:17.321Z",
+    "removed_at": "2025-08-11T15:21:42.749Z",
+    "duration_minutes": 3020,
+    "duration_str": "2d 2h 20m"
   },
   {
     "title": "Les négociations à Genève pour un traité sur le plastique toujours dans l'impasse",
-    "added_at": "2025-08-09T13:05:02.082Z"
+    "added_at": "2025-08-09T13:05:02.082Z",
+    "removed_at": "2025-08-11T16:03:15.058Z",
+    "duration_minutes": 3058,
+    "duration_str": "2d 2h 58m"
   },
   {
     "title": "Les détaillants suisses restent prudents face aux prix \"dynamiques\" dans les supermarchés",
@@ -30253,7 +30268,10 @@
   },
   {
     "title": "L'émission TV préférée de votre chien dépend de sa personnalité, selon une étude",
-    "added_at": "2025-08-09T15:51:21.289Z"
+    "added_at": "2025-08-09T15:51:21.289Z",
+    "removed_at": "2025-08-11T14:49:35.994Z",
+    "duration_minutes": 2818,
+    "duration_str": "1d 22h 58m"
   },
   {
     "title": "Près de 16 millions investis dans le cinéma suisse depuis la Lex Netflix",
@@ -30311,7 +30329,10 @@
   },
   {
     "title": "Volodymyr Zelensky rejette tout compromis territorial avant le sommet Trump-Poutine",
-    "added_at": "2025-08-09T20:47:52.659Z"
+    "added_at": "2025-08-09T20:47:52.659Z",
+    "removed_at": "2025-08-11T15:06:36.150Z",
+    "duration_minutes": 2538,
+    "duration_str": "1d 18h 18m"
   },
   {
     "title": "Importante manifestation à Tel Aviv pour protester contre l'intensification de l'offensive israélienne à Gaza",
@@ -30631,5 +30652,58 @@
   {
     "title": "Décès de Miguel Uribe, le candidat colombien à la présidence blessé par balles en juin",
     "added_at": "2025-08-11T14:04:10.323Z"
+  },
+  {
+    "title": "Une invasion de méduses provoque l'arrêt d'une centrale nucléaire française",
+    "added_at": "2025-08-11T14:11:54.095Z"
+  },
+  {
+    "title": "Les Jeunes Vert-e-x-s lancent un référendum contre la réforme du service civil",
+    "added_at": "2025-08-11T14:49:35.994Z",
+    "removed_at": "2025-08-11T15:57:36.280Z",
+    "duration_minutes": 68,
+    "duration_str": "1h 8m"
+  },
+  {
+    "title": "Cinq artistes en devenir dévoilent leur vision de l'art et leurs projets pour l'avenir",
+    "added_at": "2025-08-11T14:49:35.994Z"
+  },
+  {
+    "title": "Un Valaisan \"élu contre son gré\" refuse toujours de siéger à l'exécutif de Collonges",
+    "added_at": "2025-08-11T15:06:36.150Z"
+  },
+  {
+    "title": "Donald Trump place la police de Washington sous contrôle fédéral et déploie la garde nationale",
+    "added_at": "2025-08-11T15:14:11.297Z",
+    "removed_at": "2025-08-11T15:42:33.080Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
+  },
+  {
+    "title": "Recevoir un colis jamais commandé, une arnaque de plus en plus fréquente en Suisse",
+    "added_at": "2025-08-11T15:19:52.925Z"
+  },
+  {
+    "title": "Podcast - Le café est-il vraiment bon pour la santé ?",
+    "added_at": "2025-08-11T15:21:42.749Z",
+    "removed_at": "2025-08-11T15:48:13.327Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "Donald Trump place la police de Washington sous contrôle fédéral et déploie la Garde nationale",
+    "added_at": "2025-08-11T15:42:33.080Z"
+  },
+  {
+    "title": "Podcast - Le café est-il vraiment bon pour la santé?",
+    "added_at": "2025-08-11T15:48:13.327Z"
+  },
+  {
+    "title": "Les Jeunes Vert-e-x-s promettent de lancer un référendum contre la réforme du service civil",
+    "added_at": "2025-08-11T15:57:36.280Z"
+  },
+  {
+    "title": "\"Discussions\" sur l'Ukraine prévues mercredi incluant Washington, l'Europe et Kiev",
+    "added_at": "2025-08-11T16:03:15.058Z"
   }
 ]
