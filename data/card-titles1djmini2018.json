@@ -30290,7 +30290,10 @@
   },
   {
     "title": "Donald Trump et Vladimir Poutine se rencontreront en Alaska",
-    "added_at": "2025-08-09T16:21:29.229Z"
+    "added_at": "2025-08-09T16:21:29.229Z",
+    "removed_at": "2025-08-11T19:02:53.036Z",
+    "duration_minutes": 3041,
+    "duration_str": "2d 2h 41m"
   },
   {
     "title": "Beaucoup plus de chiens que de bébés dans les ménages espagnols",
@@ -30320,11 +30323,17 @@
   },
   {
     "title": "Alerte canicule ce week-end en Suisse romande: interview de Elie Kirchner",
-    "added_at": "2025-08-09T19:17:08.393Z"
+    "added_at": "2025-08-09T19:17:08.393Z",
+    "removed_at": "2025-08-11T21:03:43.713Z",
+    "duration_minutes": 2986,
+    "duration_str": "2d 1h 46m"
   },
   {
     "title": "Le Festival du film alpin des Diablerets récompense un documentaire sur le ski en Afghanistan",
-    "added_at": "2025-08-09T19:49:25.968Z"
+    "added_at": "2025-08-09T19:49:25.968Z",
+    "removed_at": "2025-08-11T20:42:59.680Z",
+    "duration_minutes": 2933,
+    "duration_str": "2d 53m"
   },
   {
     "title": "Droits de douane: rencontre entre des parlementaires suisses et américains à Genève",
@@ -30527,9 +30536,9 @@
   {
     "title": "Importante manifestation à Tel Aviv pour protester contre l'offensive à Gaza",
     "added_at": "2025-08-10T22:16:58.516Z",
-    "removed_at": "2025-08-11T05:32:40.214Z",
-    "duration_minutes": 435,
-    "duration_str": "7h 15m"
+    "removed_at": "2025-08-11T19:19:53.625Z",
+    "duration_minutes": 1262,
+    "duration_str": "21h 2m"
   },
   {
     "title": "Qu’attendre de la rencontre vendredi entre Donald Trump et Vladimir Poutine: interview de Yves Rossier",
@@ -30586,7 +30595,10 @@
   },
   {
     "title": "Une chaleur \"d'un niveau exceptionnel\" attendue dans le sud-ouest de la France",
-    "added_at": "2025-08-11T06:17:54.904Z"
+    "added_at": "2025-08-11T06:17:54.904Z",
+    "removed_at": "2025-08-11T18:57:12.534Z",
+    "duration_minutes": 759,
+    "duration_str": "12h 39m"
   },
   {
     "title": "Le camp d'extermination nazi d'Auschwitz numérisé pour le cinéma",
@@ -30725,6 +30737,36 @@
   },
   {
     "title": "\"Le réchauffement climatique va rendre les périodes caniculaires beaucoup plus fréquentes\"",
-    "added_at": "2025-08-11T18:36:19.569Z"
+    "added_at": "2025-08-11T18:36:19.569Z",
+    "removed_at": "2025-08-11T19:08:33.257Z",
+    "duration_minutes": 32,
+    "duration_str": "32m"
+  },
+  {
+    "title": "Une chaleur \"d'un niveau exceptionnel\" frappe le sud-ouest de la France",
+    "added_at": "2025-08-11T18:53:27.017Z"
+  },
+  {
+    "title": "La vague de chaleur s'intensifie en Suisse romande avec des pics à 37 degrés",
+    "added_at": "2025-08-11T19:08:33.257Z",
+    "removed_at": "2025-08-11T20:41:04.565Z",
+    "duration_minutes": 92,
+    "duration_str": "1h 32m"
+  },
+  {
+    "title": "Cinq journalistes d'Al Jazeera tués à Gaza par l'armée israélienne",
+    "added_at": "2025-08-11T19:19:53.625Z"
+  },
+  {
+    "title": "La vague de chaleur s'intensifie en Suisse romande avec des pics à 37 degrés attendus",
+    "added_at": "2025-08-11T20:41:04.565Z"
+  },
+  {
+    "title": "Explosion mortelle dans une usine de charbon en Pennsylvanie",
+    "added_at": "2025-08-11T20:42:59.680Z"
+  },
+  {
+    "title": "La SUVA met en garde contre les dangers de baignade dans les cours d’eau",
+    "added_at": "2025-08-11T21:03:43.713Z"
   }
 ]
