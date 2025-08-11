@@ -23270,7 +23270,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky pourrait assister au sommet entre Donald Trump et Vladimir Poutine",
-    "added_at": "2025-08-11T02:46:46.645Z"
+    "added_at": "2025-08-11T02:46:46.645Z",
+    "removed_at": "2025-08-11T21:30:16.693Z",
+    "duration_minutes": 1123,
+    "duration_str": "18h 43m"
   },
   {
     "title": "monde:::Plus de 1000 personnes évacuées à cause d'incendies dans le nord-ouest de l'Espagne",
@@ -23374,7 +23377,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient: Cinq journalistes d'Al-Jazira tués dans une frappe israélienne à Gaza",
-    "added_at": "2025-08-11T11:59:37.593Z"
+    "added_at": "2025-08-11T11:59:37.593Z",
+    "removed_at": "2025-08-11T21:43:29.292Z",
+    "duration_minutes": 583,
+    "duration_str": "9h 43m"
   },
   {
     "title": "monde:::Madrid demande à la municipalité de Jumilla d’annuler une mesure «raciste» visant les musulmans",
@@ -23449,5 +23455,13 @@
   {
     "title": "culture:::Quêtes et aventures sur les grands chemins",
     "added_at": "2025-08-11T20:56:09.430Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky et les Européens parleront à Donald Trump mercredi",
+    "added_at": "2025-08-11T21:30:16.693Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’UE condamne le meurtre de journalistes à Gaza",
+    "added_at": "2025-08-11T21:43:29.292Z"
   }
 ]
