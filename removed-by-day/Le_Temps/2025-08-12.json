@@ -72,7 +72,7 @@
   {
     "title": "suisse:::L’initiative pour la baisse de la redevance radio-TV balayée par la commission du Conseil des Etats",
     "added_at": "2025-08-12T11:33:24.389Z",
-    "removed_at": "2025-08-12T17:36:28.213Z",
+    "removed_at": "2025-08-12T17:36:02.687Z",
     "duration_minutes": 363,
     "duration_str": "6h 3m"
   },
@@ -98,8 +98,9 @@
   {
     "title": "economie:::Stephen Miran, le cheval de Troie de Trump à la Fed",
     "added_at": "2025-08-12T03:47:42.086Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-12T18:46:26.171Z",
+    "duration_minutes": 899,
+    "duration_str": "14h 59m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L'OMS dénonce la malnutrition qui «ravage» Gaza. Israël nie",
@@ -124,14 +125,14 @@
   {
     "title": "culture:::«Es-tu prêt à tuer pour tes idées?» Au far°, à Nyon, une artiste tessinoise pose la vraie question de l’engagement",
     "added_at": "2025-08-12T14:32:15.818Z",
-    "removed_at": "2025-08-12T17:32:15.418Z",
+    "removed_at": "2025-08-12T17:32:12.977Z",
     "duration_minutes": 180,
     "duration_str": "3h"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Suisse décrète à son tour de nouvelles sanctions visant le pétrole russe",
     "added_at": "2025-08-12T14:36:32.518Z",
-    "removed_at": "2025-08-12T17:15:24.394Z",
+    "removed_at": "2025-08-12T17:15:12.170Z",
     "duration_minutes": 159,
     "duration_str": "2h 39m"
   },
@@ -156,7 +157,7 @@
   {
     "title": "suisse:::Beat Jans défend l’identité électronique",
     "added_at": "2025-08-12T15:46:21.765Z",
-    "removed_at": "2025-08-12T18:08:14.773Z",
+    "removed_at": "2025-08-12T18:08:05.623Z",
     "duration_minutes": 142,
     "duration_str": "2h 22m"
   },
@@ -168,37 +169,43 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky exclut tout retrait des forces ukrainiennes du Donbass",
-    "added_at": "2025-08-12T17:15:24.394Z",
+    "added_at": "2025-08-12T17:15:12.170Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "suisse:::Sanctions contre la Russie: fâcher Bruxelles ou Pékin, Berne doit choisir",
-    "added_at": "2025-08-12T17:25:54.775Z",
+    "added_at": "2025-08-12T17:24:42.757Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "culture:::Alien, un prédateur invasif",
-    "added_at": "2025-08-12T17:32:15.418Z",
+    "added_at": "2025-08-12T17:32:12.977Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "economie:::Les tarifs douaniers ne provoquent toujours pas d’inflation aux Etats-Unis, grâce au pétrole",
-    "added_at": "2025-08-12T17:36:28.213Z",
+    "added_at": "2025-08-12T17:36:02.687Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "monde:::Les proches des otages israéliens rencontrent la présidente du CICR à Genève",
-    "added_at": "2025-08-12T18:08:14.773Z",
+    "added_at": "2025-08-12T18:08:05.623Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël «autorisera» les Gazaouis fuyant la guerre à émigrer à l’étranger",
     "added_at": "2025-08-12T18:10:22.122Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "culture:::«La Trilogie d’Oslo: Amour», l’hôpital et ses secrets",
+    "added_at": "2025-08-12T18:46:26.171Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
