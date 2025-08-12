@@ -23305,7 +23305,10 @@
   },
   {
     "title": "economie:::Le marché des obligations catastrophes atteint des sommets",
-    "added_at": "2025-08-11T03:28:10.750Z"
+    "added_at": "2025-08-11T03:28:10.750Z",
+    "removed_at": "2025-08-12T01:45:02.373Z",
+    "duration_minutes": 1336,
+    "duration_str": "22h 16m"
   },
   {
     "title": "economie:::Nvidia et AMD verseront à Washington 15% de leurs revenus sur la vente de puces IA à la Chine",
@@ -23463,5 +23466,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – L’UE condamne le meurtre de journalistes à Gaza",
     "added_at": "2025-08-11T21:43:29.292Z"
+  },
+  {
+    "title": "economie:::Droits de douane: Donald Trump prolonge de 90 jours la trêve avec Pékin",
+    "added_at": "2025-08-12T01:45:02.373Z"
   }
 ]
