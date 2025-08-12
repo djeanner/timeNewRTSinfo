@@ -30288,7 +30288,10 @@
   },
   {
     "title": "Donald Trump a accueilli l'Arménie et l'Azerbaïdjan pour signer un accord de paix",
-    "added_at": "2025-08-09T16:21:29.229Z"
+    "added_at": "2025-08-09T16:21:29.229Z",
+    "removed_at": "2025-08-12T12:05:25.675Z",
+    "duration_minutes": 4063,
+    "duration_str": "2d 19h 43m"
   },
   {
     "title": "Les exportations d'or aux Etats-Unis ne seront finalement peut-être pas taxées",
@@ -30479,15 +30482,24 @@
   },
   {
     "title": "La Suva alerte sur les risques accrus de baignade dans les cours d'eau gonflés par les pluies",
-    "added_at": "2025-08-10T11:19:34.380Z"
+    "added_at": "2025-08-10T11:19:34.380Z",
+    "removed_at": "2025-08-12T12:43:09.544Z",
+    "duration_minutes": 2963,
+    "duration_str": "2d 1h 23m"
   },
   {
     "title": "La sculpture de Donald Trump crucifié ne sera pas exposée à la gare de Bâle",
-    "added_at": "2025-08-10T11:44:06.374Z"
+    "added_at": "2025-08-10T11:44:06.374Z",
+    "removed_at": "2025-08-12T12:37:29.793Z",
+    "duration_minutes": 2933,
+    "duration_str": "2d 53m"
   },
   {
     "title": "Des centaines de chevaux défilent au Marché-Concours de Saignelégier",
-    "added_at": "2025-08-10T11:47:52.368Z"
+    "added_at": "2025-08-10T11:47:52.368Z",
+    "removed_at": "2025-08-12T12:50:43.035Z",
+    "duration_minutes": 2942,
+    "duration_str": "2d 1h 2m"
   },
   {
     "title": "Le Centre conserve son troisième siège au gouvernement zougois après la succession à Martin Pfister",
@@ -30502,7 +30514,10 @@
   },
   {
     "title": "L'accès aux flancs du Vésuve interdit aux touristes en raison d'un incendie",
-    "added_at": "2025-08-10T14:09:33.295Z"
+    "added_at": "2025-08-10T14:09:33.295Z",
+    "removed_at": "2025-08-12T13:15:20.199Z",
+    "duration_minutes": 2825,
+    "duration_str": "1d 23h 5m"
   },
   {
     "title": "PIX, le Twint brésilien qui défie les Etats-Unis",
@@ -30510,7 +30525,10 @@
   },
   {
     "title": "Des falaises au lac de Walenstadt, le spectacle aérien vertigineux des base-jumpers",
-    "added_at": "2025-08-10T14:15:13.321Z"
+    "added_at": "2025-08-10T14:15:13.321Z",
+    "removed_at": "2025-08-12T13:30:23.043Z",
+    "duration_minutes": 2835,
+    "duration_str": "1d 23h 15m"
   },
   {
     "title": "Taux \"incommensurables\" de microplastiques dans les eaux Contrex et Hépar, selon Mediapart",
@@ -30559,7 +30577,10 @@
   },
   {
     "title": "Les eaux Contrex et Hepar contiendraient trop de microplastiques selon la justice française",
-    "added_at": "2025-08-10T19:04:14.107Z"
+    "added_at": "2025-08-10T19:04:14.107Z",
+    "removed_at": "2025-08-12T13:22:49.822Z",
+    "duration_minutes": 2538,
+    "duration_str": "1d 18h 18m"
   },
   {
     "title": "Les retraites ont baissé de 16% depuis 2022: interview de Roland Bron",
@@ -30806,10 +30827,7 @@
   },
   {
     "title": "Cinq journalistes d'Al Jazeera tués à Gaza par l'armée israélienne",
-    "added_at": "2025-08-11T19:19:53.625Z",
-    "removed_at": "2025-08-12T10:21:30.006Z",
-    "duration_minutes": 901,
-    "duration_str": "15h 1m"
+    "added_at": "2025-08-11T19:19:53.625Z"
   },
   {
     "title": "La vague de chaleur s'intensifie en Suisse romande avec des pics à 37 degrés attendus",
@@ -30915,5 +30933,36 @@
   {
     "title": "L'initiative SSR \"200 francs, ça suffit\" balayée par une commission des Etats",
     "added_at": "2025-08-12T10:57:21.656Z"
+  },
+  {
+    "title": "Les incendies font rage en Europe, un mort en Espagne",
+    "added_at": "2025-08-12T12:37:29.793Z"
+  },
+  {
+    "title": "La ligne CFF Genève-Lausanne fortement perturbée suite à un incident technique",
+    "added_at": "2025-08-12T12:43:09.544Z"
+  },
+  {
+    "title": "Un fossile découvert au Chili révèle un minuscule mammifère de l'ère des dinosaures",
+    "added_at": "2025-08-12T12:50:43.035Z"
+  },
+  {
+    "title": "Les pompiers vaudois s'équipent pour affronter les incendies de forêt",
+    "added_at": "2025-08-12T13:15:20.199Z"
+  },
+  {
+    "title": "Droits de douane: les accords bilatéraux Suisse-UE, risque ou avantage? Débat entre François Schaller et Chantal Tauxe",
+    "added_at": "2025-08-12T13:22:49.822Z"
+  },
+  {
+    "title": "Les entreprises suisses dans l'incertitude face aux droits de douane",
+    "added_at": "2025-08-12T13:28:29.446Z",
+    "removed_at": "2025-08-12T13:32:18.835Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "Plusieurs bateaux suisses participeront à la nouvelle flottille d'aide humanitaire vers Gaza",
+    "added_at": "2025-08-12T13:30:23.043Z"
   }
 ]
