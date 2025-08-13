@@ -22765,10 +22765,7 @@
   },
   {
     "title": "suisse:::Après le choc des taxes douanières, les parlementaires planchent sur des premières mesures",
-    "added_at": "2025-08-08T15:58:31.294Z",
-    "removed_at": "2025-08-09T05:45:16.767Z",
-    "duration_minutes": 826,
-    "duration_str": "13h 46m"
+    "added_at": "2025-08-08T15:58:31.294Z"
   },
   {
     "title": "suisse:::Zurich, 6 mai 1995: ils rêvaient d’Europe",
@@ -23493,7 +23490,10 @@
   },
   {
     "title": "cyber:::Les débuts catastrophiques de GPT-5 sont un signal d’alerte sérieux pour OpenAI, l’éditeur de ChatGPT, soupçonné de suffisance",
-    "added_at": "2025-08-11T19:04:46.759Z"
+    "added_at": "2025-08-11T19:04:46.759Z",
+    "removed_at": "2025-08-13T05:50:09.690Z",
+    "duration_minutes": 2085,
+    "duration_str": "1d 10h 45m"
   },
   {
     "title": "monde:::Anas al-Sharif, reporter tué délibérément par l’armée israélienne à Gaza: «J’ai vécu la peine dans tous ses détails»",
@@ -23600,11 +23600,17 @@
   },
   {
     "title": "culture:::Le fantôme de l’Opéra: «Phantom of the Paradise», ou l’artiste maudit qui rampe",
-    "added_at": "2025-08-12T07:22:53.513Z"
+    "added_at": "2025-08-12T07:22:53.513Z",
+    "removed_at": "2025-08-13T05:23:50.468Z",
+    "duration_minutes": 1320,
+    "duration_str": "22h"
   },
   {
     "title": "culture:::Installé aux Eaux-Vives, le Mamco joue, entre lumière et ténèbres, une partition genevoise",
-    "added_at": "2025-08-12T08:04:17.805Z"
+    "added_at": "2025-08-12T08:04:17.805Z",
+    "removed_at": "2025-08-13T04:46:07.591Z",
+    "duration_minutes": 1241,
+    "duration_str": "20h 41m"
   },
   {
     "title": "monde:::La vague de chaleur exceptionnelle s’étend en France",
@@ -23622,7 +23628,10 @@
   },
   {
     "title": "sciences:::Mythes ou réalités? Six idées reçues sur le silure, passées au tamis de la science",
-    "added_at": "2025-08-12T09:29:18.872Z"
+    "added_at": "2025-08-12T09:29:18.872Z",
+    "removed_at": "2025-08-13T06:05:13.235Z",
+    "duration_minutes": 1235,
+    "duration_str": "20h 35m"
   },
   {
     "title": "sport:::Des équipages mixtes, des épreuves bisannuelles et des budgets plafonnés: la Coupe de l’America annonce de nouvelles règles",
@@ -23777,7 +23786,10 @@
   },
   {
     "title": "culture:::Locarno Film Festival: «Solomamma», faire le choix d’une absence",
-    "added_at": "2025-08-12T20:24:11.556Z"
+    "added_at": "2025-08-12T20:24:11.556Z",
+    "removed_at": "2025-08-13T04:36:43.079Z",
+    "duration_minutes": 492,
+    "duration_str": "8h 12m"
   },
   {
     "title": "suisse:::En raison d’un pic de pollution, Genève rend ses transports publics gratuits, une première",
@@ -23792,7 +23804,10 @@
   },
   {
     "title": "monde:::En images – Espagne, Portugal, Albanie... Les feux se déchaînent dans une Europe qui suffoque",
-    "added_at": "2025-08-12T23:33:07.264Z"
+    "added_at": "2025-08-12T23:33:07.264Z",
+    "removed_at": "2025-08-13T05:04:57.627Z",
+    "duration_minutes": 331,
+    "duration_str": "5h 31m"
   },
   {
     "title": "monde:::E.J. Antoni, l’homme chargé de donner des chiffres de l’emploi positifs à Donald Trump, qu’ils soient vrais ou non",
@@ -23800,7 +23815,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L'Europe va appeler Trump avant sa rencontre avec Poutine",
-    "added_at": "2025-08-13T03:21:14.101Z"
+    "added_at": "2025-08-13T03:21:14.101Z",
+    "removed_at": "2025-08-13T04:57:26.101Z",
+    "duration_minutes": 96,
+    "duration_str": "1h 36m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Une délégation du Hamas est arrivée au Caire pour «mettre fin à la guerre à Gaza»",
@@ -23809,5 +23827,25 @@
   {
     "title": "economie:::La pharma prise dans l’étau du double objectif de Donald Trump",
     "added_at": "2025-08-13T03:49:28.056Z"
+  },
+  {
+    "title": "suisse:::Selon un sondage, les Suisses diraient oui à la loi sur l’e-ID et les impôts fonciers cantonaux",
+    "added_at": "2025-08-13T04:46:07.591Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – L’Europe va appeler Trump avant sa rencontre avec Poutine",
+    "added_at": "2025-08-13T04:57:26.101Z"
+  },
+  {
+    "title": "suisse:::Suleyman Kerimov, richissime oligarque cerné en Suisse, en France et aux Etats-Unis",
+    "added_at": "2025-08-13T05:04:57.627Z"
+  },
+  {
+    "title": "monde:::Campagne à la mairie de New York: le socialiste, le revenant et l’arbitre",
+    "added_at": "2025-08-13T05:31:19.479Z"
+  },
+  {
+    "title": "cyber:::SFR, Free et maintenant Bouygues Telecom: les opérateurs français se font pirater en masse, affectant des millions de clients",
+    "added_at": "2025-08-13T06:05:13.235Z"
   }
 ]
