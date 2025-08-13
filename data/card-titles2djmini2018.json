@@ -22891,10 +22891,7 @@
   },
   {
     "title": "suisse:::Un scandale d’Etat nommé F-35",
-    "added_at": "2025-08-09T07:57:17.366Z",
-    "removed_at": "2025-08-10T19:13:43.836Z",
-    "duration_minutes": 2116,
-    "duration_str": "1d 11h 16m"
+    "added_at": "2025-08-09T07:57:17.366Z"
   },
   {
     "title": "culture:::«Mercredi», de retour pour d’autres (délicieux) mauvais tours",
@@ -23318,7 +23315,10 @@
   },
   {
     "title": "culture:::«The Deal», de Jean-Stéphane Bron: un passionnant thriller diplomatique",
-    "added_at": "2025-08-11T03:28:10.750Z"
+    "added_at": "2025-08-11T03:28:10.750Z",
+    "removed_at": "2025-08-13T13:32:32.791Z",
+    "duration_minutes": 3484,
+    "duration_str": "2d 10h 4m"
   },
   {
     "title": "culture:::Jean-Stéphane Bron, réalisateur de «The Deal»: «Les négociations sur le nucléaire iranien sont devenues comme une utopie»",
@@ -23875,7 +23875,10 @@
   },
   {
     "title": "monde:::Campagne à la mairie de New York: le socialiste, le revenant et l’arbitre",
-    "added_at": "2025-08-13T05:31:19.479Z"
+    "added_at": "2025-08-13T05:31:19.479Z",
+    "removed_at": "2025-08-13T15:04:58.261Z",
+    "duration_minutes": 573,
+    "duration_str": "9h 33m"
   },
   {
     "title": "cyber:::SFR, Free et maintenant Bouygues Telecom: les opérateurs français se font pirater en masse, affectant des millions de clients",
@@ -23963,7 +23966,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Russie a réalisé en 24 heures sa plus large avancée depuis un an",
-    "added_at": "2025-08-13T11:33:32.914Z"
+    "added_at": "2025-08-13T11:33:32.914Z",
+    "removed_at": "2025-08-13T14:40:25.746Z",
+    "duration_minutes": 186,
+    "duration_str": "3h 6m"
   },
   {
     "title": "culture:::«Together», une dangereuse fusion de couple",
@@ -23974,7 +23980,10 @@
   },
   {
     "title": "culture:::Faut-il dire «Kiev» ou «Kyiv»? Un conflit orthographique capital",
-    "added_at": "2025-08-13T12:13:09.713Z"
+    "added_at": "2025-08-13T12:13:09.713Z",
+    "removed_at": "2025-08-13T14:44:15.175Z",
+    "duration_minutes": 151,
+    "duration_str": "2h 31m"
   },
   {
     "title": "suisse:::Un afflux massif de clients pousse une assurance maladie à la faillite",
@@ -23987,5 +23996,42 @@
   {
     "title": "suisse:::Le Conseil fédéral ne connaît toujours pas le coût final des F-35 mais veut quand même les acheter",
     "added_at": "2025-08-13T13:19:14.221Z"
+  },
+  {
+    "title": "economie:::En bourse, l’IA fait chuter les titres des éditeurs de logiciel",
+    "added_at": "2025-08-13T13:55:10.320Z",
+    "removed_at": "2025-08-13T15:29:32.824Z",
+    "duration_minutes": 94,
+    "duration_str": "1h 34m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Selon Emmanuel Macron, il n'y aura pas de concession territoriale décidée en Alaska sans l'Ukraine",
+    "added_at": "2025-08-13T14:40:25.746Z",
+    "removed_at": "2025-08-13T14:51:44.121Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "economie:::Lufthansa envisage d’importer ses futurs Boeing via la Suisse. De quoi infléchir les droits de douane ?",
+    "added_at": "2025-08-13T14:46:04.778Z",
+    "removed_at": "2025-08-13T15:35:13.134Z",
+    "duration_minutes": 49,
+    "duration_str": "49m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Les Européens rassurés sur les intentions de Donald Trump avant sa rencontre avec Vladimir Poutine",
+    "added_at": "2025-08-13T14:51:44.121Z"
+  },
+  {
+    "title": "economie:::Philipp Reich: «Les problèmes de la Suisse avec les Etats-Unis renforcent l’attrait de l’Inde»",
+    "added_at": "2025-08-13T15:04:58.261Z"
+  },
+  {
+    "title": "economie:::En bourse, l’IA fait chuter les titres des éditeurs de logiciels",
+    "added_at": "2025-08-13T15:29:32.824Z"
+  },
+  {
+    "title": "suisse:::La BNS lance un sondage pour choisir ses nouveaux billets de banque",
+    "added_at": "2025-08-13T15:35:13.134Z"
   }
 ]
