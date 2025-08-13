@@ -20938,7 +20938,10 @@
   },
   {
     "title": "monde:::A Miami, les Cubains retrouvent au café Versailles leur paradis perdu",
-    "added_at": "2025-07-18T09:30:04.239Z"
+    "added_at": "2025-07-18T09:30:04.239Z",
+    "removed_at": "2025-08-13T13:08:34.616Z",
+    "duration_minutes": 37658,
+    "duration_str": "26d 3h 38m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – La Défense civile annonce 14 morts dans de nouveaux bombardements israéliens",
@@ -25684,7 +25687,10 @@
   },
   {
     "title": "economie:::La pharma prise dans l’étau du double objectif de Donald Trump",
-    "added_at": "2025-08-13T03:49:47.482Z"
+    "added_at": "2025-08-13T03:49:47.482Z",
+    "removed_at": "2025-08-13T13:08:34.616Z",
+    "duration_minutes": 558,
+    "duration_str": "9h 18m"
   },
   {
     "title": "suisse:::Selon un sondage, les Suisses diraient oui à la loi sur l’e-ID et les impôts fonciers cantonaux",
@@ -25745,7 +25751,10 @@
   },
   {
     "title": "sciences:::Seringues, emballages et masques: peut-on se passer du matériel jetable en plastique à l’hôpital?",
-    "added_at": "2025-08-13T07:04:25.247Z"
+    "added_at": "2025-08-13T07:04:25.247Z",
+    "removed_at": "2025-08-13T13:19:06.218Z",
+    "duration_minutes": 374,
+    "duration_str": "6h 14m"
   },
   {
     "title": "culture:::OCR-A, écrire pour une machine qui lit à peine",
@@ -25814,5 +25823,24 @@
   {
     "title": "suisse:::Un afflux massif de clients pousse une assurance maladie à la faillite",
     "added_at": "2025-08-13T12:38:47.210Z"
+  },
+  {
+    "title": "culture:::«The Deal», le thriller de Jean-Stéphane Bron, rend hommage à la diplomatie, au risque de fausser l’image des bons offices suisses",
+    "added_at": "2025-08-13T13:08:34.616Z"
+  },
+  {
+    "title": "culture:::«The Deal», de Jean-Stéphane Bron: un passionnant thriller diplomatique",
+    "added_at": "2025-08-13T13:08:34.616Z",
+    "removed_at": "2025-08-13T13:31:46.507Z",
+    "duration_minutes": 23,
+    "duration_str": "23m"
+  },
+  {
+    "title": "suisse:::Le Conseil fédéral ne connaît toujours pas le coût final des F-35 mais veut quand même les acheter",
+    "added_at": "2025-08-13T13:19:06.218Z"
+  },
+  {
+    "title": "suisse:::Un scandale d’Etat nommé F-35",
+    "added_at": "2025-08-13T13:31:46.507Z"
   }
 ]
