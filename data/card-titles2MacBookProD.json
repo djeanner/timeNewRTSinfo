@@ -25376,7 +25376,10 @@
   },
   {
     "title": "suisse:::Le trafic ferroviaire restera perturbé jusqu’à minuit entre Genève et Lausanne",
-    "added_at": "2025-08-12T13:48:35.382Z"
+    "added_at": "2025-08-12T13:48:35.382Z",
+    "removed_at": "2025-08-12T23:51:00.147Z",
+    "duration_minutes": 602,
+    "duration_str": "10h 2m"
   },
   {
     "title": "economie:::Pourquoi l’économie de la Russie commence à flancher",
@@ -25450,7 +25453,10 @@
   },
   {
     "title": "economie:::Ecrit il y a près d’un siècle, «Ravage» de René Barjavel résonne étrangement avec l’actualité de 2025",
-    "added_at": "2025-08-12T13:48:35.382Z"
+    "added_at": "2025-08-12T13:48:35.382Z",
+    "removed_at": "2025-08-12T23:34:08.307Z",
+    "duration_minutes": 585,
+    "duration_str": "9h 45m"
   },
   {
     "title": "economie:::Stephen Miran, le cheval de Troie de Trump à la Fed",
@@ -25601,5 +25607,20 @@
   {
     "title": "suisse:::En raison d’un pic de pollution, Genève rend ses transports publics gratuits, une première",
     "added_at": "2025-08-12T21:08:08.648Z"
+  },
+  {
+    "title": "monde:::En images - Espagne, Portugal, Albanie... Les feux se déchaînent dans une Europe qui suffoque",
+    "added_at": "2025-08-12T23:29:57.569Z",
+    "removed_at": "2025-08-12T23:32:00.745Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::En images – Espagne, Portugal, Albanie... Les feux se déchaînent dans une Europe qui suffoque",
+    "added_at": "2025-08-12T23:32:00.745Z"
+  },
+  {
+    "title": "monde:::E.J. Antoni, l’homme chargé de donner des chiffres de l’emploi positifs à Donald Trump, qu’ils soient vrais ou non",
+    "added_at": "2025-08-12T23:51:00.147Z"
   }
 ]

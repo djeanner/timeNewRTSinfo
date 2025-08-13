@@ -2,8 +2,9 @@
   {
     "title": "suisse:::Le trafic ferroviaire restera perturbé jusqu’à minuit entre Genève et Lausanne",
     "added_at": "2025-08-12T13:41:42.921Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-12T23:51:00.147Z",
+    "duration_minutes": 609,
+    "duration_str": "10h 9m"
   },
   {
     "title": "economie:::Pourquoi l’économie de la Russie commence à flancher",
@@ -92,8 +93,9 @@
   {
     "title": "economie:::Ecrit il y a près d’un siècle, «Ravage» de René Barjavel résonne étrangement avec l’actualité de 2025",
     "added_at": "2025-08-12T06:07:18.503Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-12T23:34:08.307Z",
+    "duration_minutes": 1047,
+    "duration_str": "17h 27m"
   },
   {
     "title": "economie:::Stephen Miran, le cheval de Troie de Trump à la Fed",
@@ -145,9 +147,9 @@
   {
     "title": "suisse:::Une délégation suisse se prépare à «forcer le blocus de Gaza» par la mer",
     "added_at": "2025-08-12T15:27:24.702Z",
-    "removed_at": "2025-08-12T21:08:08.648Z",
-    "duration_minutes": 341,
-    "duration_str": "5h 41m"
+    "removed_at": "2025-08-12T21:07:41.692Z",
+    "duration_minutes": 340,
+    "duration_str": "5h 40m"
   },
   {
     "title": "suisse:::Le PLR Vaud fait sa rentrée sans épargner le Conseil d’Etat",
@@ -226,7 +228,26 @@
   },
   {
     "title": "suisse:::En raison d’un pic de pollution, Genève rend ses transports publics gratuits, une première",
-    "added_at": "2025-08-12T21:08:08.648Z",
+    "added_at": "2025-08-12T21:07:41.692Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En images - Espagne, Portugal, Albanie... Les feux se déchaînent dans une Europe qui suffoque",
+    "added_at": "2025-08-12T23:29:57.569Z",
+    "removed_at": "2025-08-12T23:32:00.745Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::En images – Espagne, Portugal, Albanie... Les feux se déchaînent dans une Europe qui suffoque",
+    "added_at": "2025-08-12T23:32:00.745Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::E.J. Antoni, l’homme chargé de donner des chiffres de l’emploi positifs à Donald Trump, qu’ils soient vrais ou non",
+    "added_at": "2025-08-12T23:51:00.147Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
