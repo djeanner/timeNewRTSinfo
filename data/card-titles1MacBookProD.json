@@ -6775,7 +6775,10 @@
   },
   {
     "title": "La canicule va se poursuivre et s’intensifier ces prochains jours: interview de Didier Ulrich",
-    "added_at": "2025-08-12T13:48:35.340Z"
+    "added_at": "2025-08-12T13:48:35.340Z",
+    "removed_at": "2025-08-13T15:28:22.054Z",
+    "duration_minutes": 1539,
+    "duration_str": "1d 1h 39m"
   },
   {
     "title": "Qu’attendre de la rencontre vendredi entre Donald Trump et Vladimir Poutine: interview de Yves Rossier",
@@ -6866,7 +6869,10 @@
   },
   {
     "title": "Une invasion de méduses provoque l'arrêt d'une centrale nucléaire française",
-    "added_at": "2025-08-12T13:48:35.340Z"
+    "added_at": "2025-08-12T13:48:35.340Z",
+    "removed_at": "2025-08-13T14:43:56.423Z",
+    "duration_minutes": 1495,
+    "duration_str": "1d 55m"
   },
   {
     "title": "Une carte interactive pour favoriser les voyages en transports publics",
@@ -7120,10 +7126,7 @@
   },
   {
     "title": "L’UE tente de s’impliquer dans les négociations entre Donald Trump et Vladimir Poutine",
-    "added_at": "2025-08-12T16:22:23.185Z",
-    "removed_at": "2025-08-13T12:53:45.302Z",
-    "duration_minutes": 1231,
-    "duration_str": "20h 31m"
+    "added_at": "2025-08-12T16:22:23.185Z"
   },
   {
     "title": "Droits de douane sur l’or: retour sur un imbroglio américain",
@@ -7161,7 +7164,10 @@
   },
   {
     "title": "La confusion autour de la taxation de l'or par les Etats-Unis s'est apaisée après un message de Donald Trump",
-    "added_at": "2025-08-12T22:20:04.064Z"
+    "added_at": "2025-08-12T22:20:04.064Z",
+    "removed_at": "2025-08-13T15:28:22.054Z",
+    "duration_minutes": 1028,
+    "duration_str": "17h 8m"
   },
   {
     "title": "Les autorités de Blatten font le point avec la population deux mois et demi après l’effondrement",
@@ -7236,10 +7242,7 @@
   },
   {
     "title": "Une nouvelle flottille de la paix se prépare à partir pour Gaza: interview d’Hicham El Ghaoui",
-    "added_at": "2025-08-13T12:09:11.621Z",
-    "removed_at": "2025-08-13T12:53:45.302Z",
-    "duration_minutes": 44,
-    "duration_str": "44m"
+    "added_at": "2025-08-13T12:09:11.621Z"
   },
   {
     "title": "Le déficit des finances fédérales pour 2025 devrait être bien moindre qu'attendu",
@@ -7282,5 +7285,9 @@
   {
     "title": "Lufthansa envisage d'importer ses futurs Boeing via la Suisse",
     "added_at": "2025-08-13T14:24:46.284Z"
+  },
+  {
+    "title": "SolarStratos signe le record du plus haut vol solaire, à 9521 mètres d'altitude",
+    "added_at": "2025-08-13T14:43:56.423Z"
   }
 ]
