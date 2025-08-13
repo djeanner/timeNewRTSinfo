@@ -111,8 +111,9 @@
   {
     "title": "suisse:::Un corps sans vie a été retrouvé à la Testa del Leone, au-dessus de Zermatt",
     "added_at": "2025-08-13T08:47:37.753Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-13T16:17:07.097Z",
+    "duration_minutes": 449,
+    "duration_str": "7h 29m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Le sommet entre Donald Trump et Vladimir Poutine aura lieu dans une base militaire à Anchorage",
@@ -201,8 +202,9 @@
   {
     "title": "economie:::Lufthansa envisage d’importer ses futurs Boeing via la Suisse. De quoi infléchir les droits de douane ?",
     "added_at": "2025-08-13T14:46:00.840Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-13T15:34:51.093Z",
+    "duration_minutes": 49,
+    "duration_str": "49m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Les Européens rassurés sur les intentions de Donald Trump avant sa rencontre avec Vladimir Poutine",
@@ -213,12 +215,44 @@
   {
     "title": "economie:::Philipp Reich: «Les problèmes de la Suisse avec les Etats-Unis renforcent l’attrait de l’Inde»",
     "added_at": "2025-08-13T15:05:02.191Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-13T15:49:36.789Z",
+    "duration_minutes": 45,
+    "duration_str": "45m"
   },
   {
     "title": "economie:::En bourse, l’IA fait chuter les titres des éditeurs de logiciels",
     "added_at": "2025-08-13T15:30:25.802Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::La BNS lance un sondage pour choisir ses nouveaux billets de banque",
+    "added_at": "2025-08-13T15:34:51.093Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::Philippe Reich: «Les problèmes de la Suisse avec les Etats-Unis renforcent l’attrait de l’Inde»",
+    "added_at": "2025-08-13T15:49:36.789Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Polluants éternels: le parlement veut assouplir les normes sur l’eau potable et indemniser les agriculteurs",
+    "added_at": "2025-08-13T16:17:07.097Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Sur les PFAS, le Parlement fait fausse route en voulant limiter les normes plutôt que les substances nocives",
+    "added_at": "2025-08-13T16:17:07.097Z",
+    "removed_at": "2025-08-13T16:23:27.501Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
+  },
+  {
+    "title": "suisse:::Sur les PFAS, le parlement fait fausse route en voulant limiter les normes plutôt que les substances nocives",
+    "added_at": "2025-08-13T16:23:27.501Z",
     "duration_minutes": 0,
     "duration_str": ""
   }

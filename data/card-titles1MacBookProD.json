@@ -6726,7 +6726,10 @@
   },
   {
     "title": "Une chaleur \"d'un niveau exceptionnel\" frappe le sud-ouest de la France",
-    "added_at": "2025-08-12T13:48:35.340Z"
+    "added_at": "2025-08-12T13:48:35.340Z",
+    "removed_at": "2025-08-13T15:58:03.556Z",
+    "duration_minutes": 1569,
+    "duration_str": "1d 2h 9m"
   },
   {
     "title": "Les retraites en Suisse rongées par la baisse de rendement des caisses de pension",
@@ -6757,14 +6760,14 @@
   },
   {
     "title": "Le Liechtenstein presque épargné par les droits de douanes américaines",
-    "added_at": "2025-08-12T13:48:35.340Z"
+    "added_at": "2025-08-12T13:48:35.340Z",
+    "removed_at": "2025-08-13T16:04:25.454Z",
+    "duration_minutes": 1575,
+    "duration_str": "1d 2h 15m"
   },
   {
     "title": "Le Sud de la France est ravagé par les flammes",
-    "added_at": "2025-08-12T13:48:35.340Z",
-    "removed_at": "2025-08-13T11:07:46.099Z",
-    "duration_minutes": 1279,
-    "duration_str": "21h 19m"
+    "added_at": "2025-08-12T13:48:35.340Z"
   },
   {
     "title": "Cinq journalistes d'Al Jazeera tués à Gaza par l'armée israélienne",
@@ -6775,10 +6778,7 @@
   },
   {
     "title": "La canicule va se poursuivre et s’intensifier ces prochains jours: interview de Didier Ulrich",
-    "added_at": "2025-08-12T13:48:35.340Z",
-    "removed_at": "2025-08-13T15:28:22.054Z",
-    "duration_minutes": 1539,
-    "duration_str": "1d 1h 39m"
+    "added_at": "2025-08-12T13:48:35.340Z"
   },
   {
     "title": "Qu’attendre de la rencontre vendredi entre Donald Trump et Vladimir Poutine: interview de Yves Rossier",
@@ -6814,7 +6814,10 @@
   },
   {
     "title": "Droits de douane: les accords bilatéraux Suisse-UE, risque ou avantage? Débat entre François Schaller et Chantal Tauxe",
-    "added_at": "2025-08-12T13:48:35.340Z"
+    "added_at": "2025-08-12T13:48:35.340Z",
+    "removed_at": "2025-08-13T16:23:27.456Z",
+    "duration_minutes": 1594,
+    "duration_str": "1d 2h 34m"
   },
   {
     "title": "Les retraites ont baissé de 16% depuis 2022: interview de Roland Bron",
@@ -6861,11 +6864,17 @@
   },
   {
     "title": "Explosion mortelle dans une usine de charbon en Pennsylvanie",
-    "added_at": "2025-08-12T13:48:35.340Z"
+    "added_at": "2025-08-12T13:48:35.340Z",
+    "removed_at": "2025-08-13T16:25:37.103Z",
+    "duration_minutes": 1597,
+    "duration_str": "1d 2h 37m"
   },
   {
     "title": "Podcast - Le café est-il vraiment bon pour la santé?",
-    "added_at": "2025-08-12T13:48:35.340Z"
+    "added_at": "2025-08-12T13:48:35.340Z",
+    "removed_at": "2025-08-13T15:41:11.586Z",
+    "duration_minutes": 1552,
+    "duration_str": "1d 1h 52m"
   },
   {
     "title": "Une invasion de méduses provoque l'arrêt d'une centrale nucléaire française",
@@ -7126,7 +7135,10 @@
   },
   {
     "title": "L’UE tente de s’impliquer dans les négociations entre Donald Trump et Vladimir Poutine",
-    "added_at": "2025-08-12T16:22:23.185Z"
+    "added_at": "2025-08-12T16:22:23.185Z",
+    "removed_at": "2025-08-13T15:32:41.586Z",
+    "duration_minutes": 1390,
+    "duration_str": "23h 10m"
   },
   {
     "title": "Droits de douane sur l’or: retour sur un imbroglio américain",
@@ -7164,10 +7176,7 @@
   },
   {
     "title": "La confusion autour de la taxation de l'or par les Etats-Unis s'est apaisée après un message de Donald Trump",
-    "added_at": "2025-08-12T22:20:04.064Z",
-    "removed_at": "2025-08-13T15:28:22.054Z",
-    "duration_minutes": 1028,
-    "duration_str": "17h 8m"
+    "added_at": "2025-08-12T22:20:04.064Z"
   },
   {
     "title": "Les autorités de Blatten font le point avec la population deux mois et demi après l’effondrement",
@@ -7289,5 +7298,17 @@
   {
     "title": "SolarStratos signe le record du plus haut vol solaire, à 9521 mètres d'altitude",
     "added_at": "2025-08-13T14:43:56.423Z"
+  },
+  {
+    "title": "Derrière la \"percée\" dans l'est de l'Ukraine, une offensive russe d'été qui porte peu à peu ses fruits",
+    "added_at": "2025-08-13T15:41:11.586Z"
+  },
+  {
+    "title": "Le Jura bernois se prépare à accueillir la police cantonale bernoise après son départ de Moutier",
+    "added_at": "2025-08-13T15:58:03.556Z"
+  },
+  {
+    "title": "Smartphones et montres connectées sous silence au post-obligatoire vaudois dès la rentrée",
+    "added_at": "2025-08-13T16:25:37.103Z"
   }
 ]
