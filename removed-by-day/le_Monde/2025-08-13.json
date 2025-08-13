@@ -146,9 +146,8 @@
   {
     "title": "« C’était la première fois depuis le début de mon voyage qu’on me traitait avec un peu d’humanité » : les premiers jours en France de Pape Moussa So, venu du Sénégal",
     "added_at": "2025-08-13T04:15:13.041Z",
-    "removed_at": "2025-08-13T19:08:44.681Z",
-    "duration_minutes": 894,
-    "duration_str": "14h 54m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Passé 60 ans, on fait le point sur la famille et ses finances",
@@ -537,8 +536,9 @@
   {
     "title": "VIDEO | L’Europe en proie aux incendies",
     "added_at": "2025-08-13T12:50:57.516Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-13T18:02:28.483Z",
+    "duration_minutes": 312,
+    "duration_str": "5h 12m"
   },
   {
     "title": "Visée par une plainte de SOS Racisme, l’ex-ministre Noëlle Lenoir se justifie mais maintient ses propos sur les Algériens",
@@ -577,9 +577,9 @@
   {
     "title": "« Il faut interdire la vente de smartphones aux moins de 15 ans »",
     "added_at": "2025-08-13T14:06:30.906Z",
-    "removed_at": "2025-08-13T19:12:57.584Z",
-    "duration_minutes": 306,
-    "duration_str": "5h 6m"
+    "removed_at": "2025-08-13T20:12:19.134Z",
+    "duration_minutes": 366,
+    "duration_str": "6h 6m"
   },
   {
     "title": "Sept claviers pour Richard Wright : Pink Floyd à l’heure du synthétiseur",
@@ -721,16 +721,15 @@
   {
     "title": "Hackeurs « vs » diffuseurs de sport : un match serré",
     "added_at": "2025-08-13T16:21:20.407Z",
-    "removed_at": "2025-08-13T19:06:37.127Z",
-    "duration_minutes": 165,
-    "duration_str": "2h 45m"
+    "removed_at": "2025-08-13T20:12:19.134Z",
+    "duration_minutes": 231,
+    "duration_str": "3h 51m"
   },
   {
     "title": "Guerre en Ukraine : « Tout ce qui concerne l’Ukraine doit être discuté avec l’Ukraine »",
     "added_at": "2025-08-13T16:37:38.806Z",
-    "removed_at": "2025-08-13T19:17:14.914Z",
-    "duration_minutes": 160,
-    "duration_str": "2h 40m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "En Espagne, deux personnes sont mortes dans les incendies qui font rage depuis plusieurs jours",
@@ -877,9 +876,9 @@
   {
     "title": "Pollution à l’ozone : des restrictions de circulation à partir de jeudi en Ile-de-France",
     "added_at": "2025-08-13T18:49:42.996Z",
-    "removed_at": "2025-08-13T19:06:37.127Z",
-    "duration_minutes": 17,
-    "duration_str": "17m"
+    "removed_at": "2025-08-13T20:12:19.134Z",
+    "duration_minutes": 83,
+    "duration_str": "1h 23m"
   },
   {
     "title": "« L’Alaska 2025 ne doit pas devenir Munich 1938, ni Yalta 1945 »",
@@ -897,6 +896,34 @@
   {
     "title": "EN DIRECT | PSG-Tottenham : Paris va-t-il lancer sa saison par un nouveau trophée ?",
     "added_at": "2025-08-13T19:15:05.322Z",
+    "removed_at": "2025-08-13T19:30:05.169Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "EN DIRECT | PSG-Tottenham : les Parisiens inquiétés mais Lucas Chevalier décisif une première fois",
+    "added_at": "2025-08-13T19:30:05.169Z",
+    "removed_at": "2025-08-13T19:44:48.572Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "EN DIRECT | PSG-Tottenham : les Parisiens sont menés avant la fin de la première période",
+    "added_at": "2025-08-13T19:44:48.572Z",
+    "removed_at": "2025-08-13T19:53:17.639Z",
+    "duration_minutes": 8,
+    "duration_str": "8m"
+  },
+  {
+    "title": "EN DIRECT | PSG-Tottenham : les Parisiens menés d’un but à la pause",
+    "added_at": "2025-08-13T19:53:17.639Z",
+    "removed_at": "2025-08-13T20:10:11.373Z",
+    "duration_minutes": 17,
+    "duration_str": "17m"
+  },
+  {
+    "title": "EN DIRECT | PSG-Tottenham : les Spurs font le break dès le début de la deuxième période",
+    "added_at": "2025-08-13T20:10:11.373Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
