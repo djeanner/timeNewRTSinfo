@@ -17421,10 +17421,7 @@
   },
   {
     "title": "monde:::A Miami, les Cubains retrouvent au café Versailles leur paradis perdu",
-    "added_at": "2025-07-18T09:28:52.017Z",
-    "removed_at": "2025-07-18T14:40:00.327Z",
-    "duration_minutes": 311,
-    "duration_str": "5h 11m"
+    "added_at": "2025-07-18T09:28:52.017Z"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – La Défense civile annonce 14 morts dans de nouveaux bombardements israéliens",
@@ -22759,7 +22756,10 @@
   },
   {
     "title": "suisse:::Après le choc des taxes douanières, les parlementaires planchent sur des premières mesures",
-    "added_at": "2025-08-08T15:58:31.294Z"
+    "added_at": "2025-08-08T15:58:31.294Z",
+    "removed_at": "2025-08-13T10:10:29.989Z",
+    "duration_minutes": 6851,
+    "duration_str": "4d 18h 11m"
   },
   {
     "title": "suisse:::Zurich, 6 mai 1995: ils rêvaient d’Europe",
@@ -23727,7 +23727,10 @@
   },
   {
     "title": "suisse:::Le PLR Vaud fait sa rentrée sans épargner le Conseil d’Etat",
-    "added_at": "2025-08-12T15:27:29.975Z"
+    "added_at": "2025-08-12T15:27:29.975Z",
+    "removed_at": "2025-08-13T09:51:37.976Z",
+    "duration_minutes": 1104,
+    "duration_str": "18h 24m"
   },
   {
     "title": "suisse:::Beat Jans défend l’identité électronique",
@@ -23831,19 +23834,31 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Une délégation du Hamas est arrivée au Caire pour «mettre fin à la guerre à Gaza»",
-    "added_at": "2025-08-13T03:30:41.521Z"
+    "added_at": "2025-08-13T03:30:41.521Z",
+    "removed_at": "2025-08-13T09:53:31.781Z",
+    "duration_minutes": 382,
+    "duration_str": "6h 22m"
   },
   {
     "title": "economie:::La pharma prise dans l’étau du double objectif de Donald Trump",
-    "added_at": "2025-08-13T03:49:28.056Z"
+    "added_at": "2025-08-13T03:49:28.056Z",
+    "removed_at": "2025-08-13T10:50:03.715Z",
+    "duration_minutes": 420,
+    "duration_str": "7h"
   },
   {
     "title": "suisse:::Selon un sondage, les Suisses diraient oui à la loi sur l’e-ID et les impôts fonciers cantonaux",
-    "added_at": "2025-08-13T04:46:07.591Z"
+    "added_at": "2025-08-13T04:46:07.591Z",
+    "removed_at": "2025-08-13T09:34:40.402Z",
+    "duration_minutes": 288,
+    "duration_str": "4h 48m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L’Europe va appeler Trump avant sa rencontre avec Poutine",
-    "added_at": "2025-08-13T04:57:26.101Z"
+    "added_at": "2025-08-13T04:57:26.101Z",
+    "removed_at": "2025-08-13T09:12:03.348Z",
+    "duration_minutes": 254,
+    "duration_str": "4h 14m"
   },
   {
     "title": "suisse:::Suleyman Kerimov, richissime oligarque cerné en Suisse, en France et aux Etats-Unis",
@@ -23881,11 +23896,17 @@
   },
   {
     "title": "culture:::OCR-A, écrire pour une machine qui lit à peine",
-    "added_at": "2025-08-13T07:32:02.702Z"
+    "added_at": "2025-08-13T07:32:02.702Z",
+    "removed_at": "2025-08-13T09:36:34.388Z",
+    "duration_minutes": 124,
+    "duration_str": "2h 4m"
   },
   {
     "title": "suisse:::La Suisse étouffe sous la canicule, qui devrait durer jusqu’à dimanche",
-    "added_at": "2025-08-13T07:33:58.646Z"
+    "added_at": "2025-08-13T07:33:58.646Z",
+    "removed_at": "2025-08-13T10:10:29.989Z",
+    "duration_minutes": 156,
+    "duration_str": "2h 36m"
   },
   {
     "title": "sport:::Poneys supersoniques et concours de chapeaux: à Dublin, dans la fabrique du saut d’obstacles irlandais",
@@ -23894,5 +23915,29 @@
   {
     "title": "sciences:::Pourquoi nous ne sommes pas égaux face à la chaleur",
     "added_at": "2025-08-13T08:30:32.097Z"
+  },
+  {
+    "title": "suisse:::Un corps sans vie a été retrouvé à la Testa del Leone, au-dessus de Zermatt",
+    "added_at": "2025-08-13T08:47:37.753Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Le sommet entre Donald Trump et Vladimir Poutine aura lieu dans une base militaire à Anchorage",
+    "added_at": "2025-08-13T09:12:03.348Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L'armée israélienne approuve le nouveau plan d'invasion de Gaza",
+    "added_at": "2025-08-13T09:53:31.781Z"
+  },
+  {
+    "title": "monde:::Entre Cuba et les Etats-Unis, dix ans d’une normalisation ratée",
+    "added_at": "2025-08-13T10:10:29.989Z"
+  },
+  {
+    "title": "culture:::«Alien: Earth», les monstres sont parmi nous",
+    "added_at": "2025-08-13T10:19:54.247Z"
+  },
+  {
+    "title": "monde:::Le projet historique pour la Nouvelle-Calédonie coule entre Paris et Nouméa",
+    "added_at": "2025-08-13T10:50:03.715Z"
   }
 ]
