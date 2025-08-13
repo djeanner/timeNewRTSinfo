@@ -54216,7 +54216,10 @@
   },
   {
     "title": "New Video Shows Uvalde School Chief Trying to Negotiate With Gunman",
-    "added_at": "2025-08-13T00:12:48.127Z"
+    "added_at": "2025-08-13T00:12:48.127Z",
+    "removed_at": "2025-08-13T15:59:51.541Z",
+    "duration_minutes": 947,
+    "duration_str": "15h 47m"
   },
   {
     "title": "Trump Deploys Guard for D.C. Crime but Called Jan. 6 Rioters ‘Very Special’",
@@ -54313,7 +54316,10 @@
   },
   {
     "title": "Cecilia Bartoli Knows What Makes Good Opera and Ragù: Time",
-    "added_at": "2025-08-13T10:04:50.857Z"
+    "added_at": "2025-08-13T10:04:50.857Z",
+    "removed_at": "2025-08-13T15:59:51.541Z",
+    "duration_minutes": 355,
+    "duration_str": "5h 55m"
   },
   {
     "title": "Meat Is Back at Eleven Madison Park, After 4 Vegan Years",
@@ -54329,7 +54335,10 @@
   },
   {
     "title": "Inside Trump’s D.C. Takeover, the White House Takes On the Smithsonian, and More",
-    "added_at": "2025-08-13T10:14:15.266Z"
+    "added_at": "2025-08-13T10:14:15.266Z",
+    "removed_at": "2025-08-13T15:59:51.541Z",
+    "duration_minutes": 345,
+    "duration_str": "5h 45m"
   },
   {
     "title": "Trump Has Made Himself the Chip Industry’s Leading Decision Maker",
@@ -54355,11 +54364,17 @@
   },
   {
     "title": "Late Night: The Trump-Putin ‘Listening Exercise’",
-    "added_at": "2025-08-13T11:10:56.331Z"
+    "added_at": "2025-08-13T11:10:56.331Z",
+    "removed_at": "2025-08-13T17:07:43.075Z",
+    "duration_minutes": 356,
+    "duration_str": "5h 56m"
   },
   {
     "title": "What Is Rent Stabilization, and Why Is It an Issue in the Mayor’s Race?",
-    "added_at": "2025-08-13T11:14:45.507Z"
+    "added_at": "2025-08-13T11:14:45.507Z",
+    "removed_at": "2025-08-13T16:30:02.502Z",
+    "duration_minutes": 315,
+    "duration_str": "5h 15m"
   },
   {
     "title": "Show of Force Begins to Take Shape as Guard Troops Deploy in D.C.",
@@ -54371,10 +54386,7 @@
   },
   {
     "title": "How the Trump Administration Deals with Unfavorable Data",
-    "added_at": "2025-08-13T11:44:52.305Z",
-    "removed_at": "2025-08-13T11:58:05.689Z",
-    "duration_minutes": 13,
-    "duration_str": "13m"
+    "added_at": "2025-08-13T11:44:52.305Z"
   },
   {
     "title": "What to Know About the Heat Wave in Southern Europe",
@@ -54455,14 +54467,76 @@
   },
   {
     "title": "With Deep N.I.H. Cuts, Research Into Health Disparities Falters",
-    "added_at": "2025-08-13T15:31:23.312Z"
+    "added_at": "2025-08-13T15:31:23.312Z",
+    "removed_at": "2025-08-13T17:07:43.075Z",
+    "duration_minutes": 96,
+    "duration_str": "1h 36m"
   },
   {
     "title": "Beijing Evacuated Thousands Before Floods, but Not the Most Vulnerable",
-    "added_at": "2025-08-13T15:31:23.312Z"
+    "added_at": "2025-08-13T15:31:23.312Z",
+    "removed_at": "2025-08-13T16:22:29.040Z",
+    "duration_minutes": 51,
+    "duration_str": "51m"
   },
   {
     "title": "Trump Announces Kennedy Center Honorees",
-    "added_at": "2025-08-13T15:38:57.302Z"
+    "added_at": "2025-08-13T15:38:57.302Z",
+    "removed_at": "2025-08-13T15:46:42.046Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Trump Says He Will Host Kennedy Center Honors",
+    "added_at": "2025-08-13T15:46:42.046Z"
+  },
+  {
+    "title": "As Trump Prepares to Talk to Putin, European Allies Bend His Ear",
+    "added_at": "2025-08-13T15:52:21.551Z",
+    "removed_at": "2025-08-13T16:41:21.451Z",
+    "duration_minutes": 48,
+    "duration_str": "48m"
+  },
+  {
+    "title": "The South Korean Collector Who Fell for Posters From Communist Poland",
+    "added_at": "2025-08-13T15:59:51.541Z"
+  },
+  {
+    "title": "They Want You to Get Off Your Couch, and Go Set a World Record",
+    "added_at": "2025-08-13T15:59:51.541Z"
+  },
+  {
+    "title": "The Strange Beauty of New York’s Bodega Ramps",
+    "added_at": "2025-08-13T15:59:51.541Z"
+  },
+  {
+    "title": "Homeless and Burning in America’s Hottest City",
+    "added_at": "2025-08-13T16:22:29.040Z"
+  },
+  {
+    "title": "Ex-Governor Switches Back to Eric Adams in New York City Mayor’s Race",
+    "added_at": "2025-08-13T16:30:02.502Z",
+    "removed_at": "2025-08-13T17:41:39.719Z",
+    "duration_minutes": 71,
+    "duration_str": "1h 11m"
+  },
+  {
+    "title": "European Allies Urge President Not to Make Ukraine Deal Alone",
+    "added_at": "2025-08-13T16:41:21.451Z",
+    "removed_at": "2025-08-13T17:20:56.869Z",
+    "duration_minutes": 39,
+    "duration_str": "39m"
+  },
+  {
+    "title": "Trump Warns of Economic Disaster if Court Strikes Down Tariffs",
+    "added_at": "2025-08-13T17:07:43.075Z"
+  },
+  {
+    "title": "Europe’s Leaders Say They’ve Agreed With Trump on a Strategy for Russia Talks",
+    "added_at": "2025-08-13T17:20:56.869Z"
+  },
+  {
+    "title": "Former Governor of N.Y. Who Had Endorsed Cuomo Now Backs Adams",
+    "added_at": "2025-08-13T17:37:54.229Z"
   }
 ]
