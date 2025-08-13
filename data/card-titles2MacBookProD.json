@@ -25431,7 +25431,10 @@
   },
   {
     "title": "culture:::Installé aux Eaux-Vives, le Mamco joue, entre lumière et ténèbres, une partition genevoise",
-    "added_at": "2025-08-12T13:48:35.382Z"
+    "added_at": "2025-08-12T13:48:35.382Z",
+    "removed_at": "2025-08-13T04:46:50.399Z",
+    "duration_minutes": 898,
+    "duration_str": "14h 58m"
   },
   {
     "title": "suisse:::L’initiative pour la baisse de la redevance radio-TV balayée par la commission du Conseil des Etats",
@@ -25611,11 +25614,17 @@
   },
   {
     "title": "culture:::Locarno Film Festival: «Solomamma», faire le choix d’une absence",
-    "added_at": "2025-08-12T20:25:53.045Z"
+    "added_at": "2025-08-12T20:25:53.045Z",
+    "removed_at": "2025-08-13T04:36:13.450Z",
+    "duration_minutes": 490,
+    "duration_str": "8h 10m"
   },
   {
     "title": "suisse:::En raison d’un pic de pollution, Genève rend ses transports publics gratuits, une première",
-    "added_at": "2025-08-12T21:08:08.648Z"
+    "added_at": "2025-08-12T21:08:08.648Z",
+    "removed_at": "2025-08-13T04:46:50.399Z",
+    "duration_minutes": 458,
+    "duration_str": "7h 38m"
   },
   {
     "title": "monde:::En images - Espagne, Portugal, Albanie... Les feux se déchaînent dans une Europe qui suffoque",
@@ -25634,7 +25643,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L'Europe va appeler Trump avant sa rencontre avec Poutine",
-    "added_at": "2025-08-13T03:22:20.292Z"
+    "added_at": "2025-08-13T03:22:20.292Z",
+    "removed_at": "2025-08-13T04:57:19.664Z",
+    "duration_minutes": 94,
+    "duration_str": "1h 34m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Une délégation du Hamas est arrivée au Caire pour «mettre fin à la guerre à Gaza»",
@@ -25643,5 +25655,13 @@
   {
     "title": "economie:::La pharma prise dans l’étau du double objectif de Donald Trump",
     "added_at": "2025-08-13T03:49:47.482Z"
+  },
+  {
+    "title": "suisse:::Selon un sondage, les Suisses diraient oui à la loi sur l’e-ID et les impôts fonciers cantonaux",
+    "added_at": "2025-08-13T04:46:50.399Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – L’Europe va appeler Trump avant sa rencontre avec Poutine",
+    "added_at": "2025-08-13T04:57:19.664Z"
   }
 ]
