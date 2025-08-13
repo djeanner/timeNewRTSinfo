@@ -6761,7 +6761,10 @@
   },
   {
     "title": "Le Sud de la France est ravagé par les flammes",
-    "added_at": "2025-08-12T13:48:35.340Z"
+    "added_at": "2025-08-12T13:48:35.340Z",
+    "removed_at": "2025-08-13T10:21:07.206Z",
+    "duration_minutes": 1232,
+    "duration_str": "20h 32m"
   },
   {
     "title": "Cinq journalistes d'Al Jazeera tués à Gaza par l'armée israélienne",
@@ -6904,11 +6907,17 @@
   },
   {
     "title": "Le chancelier allemand défend sa décision d'arrêter certaines livraisons d'armes à Israël",
-    "added_at": "2025-08-12T13:48:35.340Z"
+    "added_at": "2025-08-12T13:48:35.340Z",
+    "removed_at": "2025-08-13T10:02:08.349Z",
+    "duration_minutes": 1213,
+    "duration_str": "20h 13m"
   },
   {
     "title": "À mi-parcours, le Festival de Locarno affiche une hausse de fréquentation",
-    "added_at": "2025-08-12T13:48:35.340Z"
+    "added_at": "2025-08-12T13:48:35.340Z",
+    "removed_at": "2025-08-13T09:49:28.492Z",
+    "duration_minutes": 1200,
+    "duration_str": "20h"
   },
   {
     "title": "Plusieurs millions de personnes évacuées au Japon en raison de pluies torrentielles",
@@ -7163,5 +7172,17 @@
   {
     "title": "Plus d'un enfant par jour a été victime d'un accident de la route sur le chemin de l'école en Suisse en 2024",
     "added_at": "2025-08-13T09:04:59.687Z"
+  },
+  {
+    "title": "\"L'œil de Sauron\", un jet de plasma dirigé droit sur la Terre depuis l'espace",
+    "added_at": "2025-08-13T09:49:28.492Z"
+  },
+  {
+    "title": "\"Pour nous, riches Européens, la canicule reste une question de confort\"",
+    "added_at": "2025-08-13T10:02:08.349Z"
+  },
+  {
+    "title": "Les pompiers vaudois se préparent au risque de feux de forêt de grande ampleur",
+    "added_at": "2025-08-13T10:21:07.206Z"
   }
 ]
