@@ -191,8 +191,9 @@
   {
     "title": "Wildfires scorch Greece as heatwave grips parts of Europe",
     "added_at": "2025-08-13T09:30:20.307Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-13T18:26:31.430Z",
+    "duration_minutes": 536,
+    "duration_str": "8h 56m"
   },
   {
     "title": "19 aid seekers among 39 Palestinians killed by Israel in Gaza since dawn",
@@ -237,9 +238,9 @@
   {
     "title": "Bangladesh officials testify against UK lawmaker at anticorruption trial",
     "added_at": "2025-08-13T11:37:21.097Z",
-    "removed_at": "2025-08-13T16:06:36.015Z",
-    "duration_minutes": 269,
-    "duration_str": "4h 29m"
+    "removed_at": "2025-08-13T16:05:30.711Z",
+    "duration_minutes": 268,
+    "duration_str": "4h 28m"
   },
   {
     "title": "Forcing Test could ‘bankrupt’ cricket countries: Australia chief",
@@ -297,13 +298,14 @@
   {
     "title": "Palestinian man killed in West Bank by Israeli soldier backing up settlers",
     "added_at": "2025-08-13T14:39:39.629Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-13T19:00:16.802Z",
+    "duration_minutes": 261,
+    "duration_str": "4h 21m"
   },
   {
     "title": "Zelenskyy says no talks without Ukraine, calls for more sanctions on Russia",
     "added_at": "2025-08-13T14:41:46.949Z",
-    "removed_at": "2025-08-13T18:05:11.773Z",
+    "removed_at": "2025-08-13T18:04:18.257Z",
     "duration_minutes": 203,
     "duration_str": "3h 23m"
   },
@@ -317,8 +319,9 @@
   {
     "title": "Israeli Gaza attacks kill 123 in 24 hours as three children die of hunger",
     "added_at": "2025-08-13T15:17:44.999Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-13T19:10:54.159Z",
+    "duration_minutes": 233,
+    "duration_str": "3h 53m"
   },
   {
     "title": "Dozens injured in Serbia as clashes erupt at antigovernment protests",
@@ -330,9 +333,9 @@
   {
     "title": "Israel intensifies attacks on northern Gaza, kills 81 since dawn",
     "added_at": "2025-08-13T15:30:26.216Z",
-    "removed_at": "2025-08-13T16:51:05.525Z",
-    "duration_minutes": 81,
-    "duration_str": "1h 21m"
+    "removed_at": "2025-08-13T16:50:45.846Z",
+    "duration_minutes": 80,
+    "duration_str": "1h 20m"
   },
   {
     "title": "LIVE: PSG vs Tottenham – UEFA Super Cup",
@@ -342,16 +345,16 @@
   },
   {
     "title": "At least 20 refugees and migrants die in shipwreck off Italy’s Lampedusa",
-    "added_at": "2025-08-13T16:06:36.015Z",
+    "added_at": "2025-08-13T16:05:30.711Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Israel intensifies attacks on northern Gaza, kills 89 since dawn",
-    "added_at": "2025-08-13T16:51:05.525Z",
-    "removed_at": "2025-08-13T17:52:31.352Z",
-    "duration_minutes": 61,
-    "duration_str": "1h 1m"
+    "added_at": "2025-08-13T16:50:45.846Z",
+    "removed_at": "2025-08-13T17:51:10.094Z",
+    "duration_minutes": 60,
+    "duration_str": "1h"
   },
   {
     "title": "Trump nominee to lead labour statistics agency faces wave of criticism",
@@ -367,13 +370,45 @@
   },
   {
     "title": "Israeli attacks on Gaza’s healthcare amount to ‘medicide’, UN experts say",
-    "added_at": "2025-08-13T17:52:31.352Z",
+    "added_at": "2025-08-13T17:51:10.094Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Trump touts second trilateral meeting before Putin summit; Zelenskyy pushes",
-    "added_at": "2025-08-13T18:05:11.773Z",
+    "added_at": "2025-08-13T18:04:18.257Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Automakers brace for profit hits as tariffs trigger price hikes",
+    "added_at": "2025-08-13T19:00:16.802Z",
+    "removed_at": "2025-08-13T19:02:24.147Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Protests, vigils held around globe for Gaza, assassinated journalists",
+    "added_at": "2025-08-13T19:00:16.802Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "US car sales slow after tariff-driven buying surge ends",
+    "added_at": "2025-08-13T19:02:24.147Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Israel kills more than 50 people in Gaza City, at least 89 across enclave",
+    "added_at": "2025-08-13T19:10:54.159Z",
+    "removed_at": "2025-08-13T19:17:14.944Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
+  },
+  {
+    "title": "Israel kills 61 people in Gaza City, at least 98 across enclave",
+    "added_at": "2025-08-13T19:17:14.944Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
