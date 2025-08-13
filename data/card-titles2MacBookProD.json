@@ -25679,11 +25679,17 @@
   },
   {
     "title": "suisse:::Selon un sondage, les Suisses diraient oui à la loi sur l’e-ID et les impôts fonciers cantonaux",
-    "added_at": "2025-08-13T04:46:50.399Z"
+    "added_at": "2025-08-13T04:46:50.399Z",
+    "removed_at": "2025-08-13T09:34:33.227Z",
+    "duration_minutes": 287,
+    "duration_str": "4h 47m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L’Europe va appeler Trump avant sa rencontre avec Poutine",
-    "added_at": "2025-08-13T04:57:19.664Z"
+    "added_at": "2025-08-13T04:57:19.664Z",
+    "removed_at": "2025-08-13T09:13:28.305Z",
+    "duration_minutes": 256,
+    "duration_str": "4h 16m"
   },
   {
     "title": "suisse:::Suleyman Kerimov, richissime oligarque cerné en Suisse, en France et aux Etats-Unis",
@@ -25725,7 +25731,10 @@
   },
   {
     "title": "culture:::OCR-A, écrire pour une machine qui lit à peine",
-    "added_at": "2025-08-13T07:31:54.073Z"
+    "added_at": "2025-08-13T07:31:54.073Z",
+    "removed_at": "2025-08-13T09:36:40.799Z",
+    "duration_minutes": 124,
+    "duration_str": "2h 4m"
   },
   {
     "title": "suisse:::La Suisse étouffe sous la canicule, qui devrait durer jusqu’à dimanche",
@@ -25742,5 +25751,9 @@
   {
     "title": "suisse:::Un corps sans vie a été retrouvé à la Testa del Leone, au-dessus de Zermatt",
     "added_at": "2025-08-13T08:48:02.241Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Le sommet entre Donald Trump et Vladimir Poutine aura lieu dans une base militaire à Anchorage",
+    "added_at": "2025-08-13T09:13:28.305Z"
   }
 ]
