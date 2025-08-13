@@ -11502,7 +11502,10 @@
   },
   {
     "title": "sciences:::Pluies intenses, sécheresses estivales… Les risques climatiques augmentent en Suisse",
-    "added_at": "2025-06-05T13:55:36.427Z"
+    "added_at": "2025-06-05T13:55:36.427Z",
+    "removed_at": "2025-08-13T12:15:31.690Z",
+    "duration_minutes": 99259,
+    "duration_str": "68d 22h 19m"
   },
   {
     "title": "monde:::Xi Jinping s’est entretenu par téléphone avec Donald Trump",
@@ -24355,7 +24358,10 @@
   },
   {
     "title": "suisse:::Au chevet de la ville du futur, dense et perméable",
-    "added_at": "2025-08-01T09:43:50.804Z"
+    "added_at": "2025-08-01T09:43:50.804Z",
+    "removed_at": "2025-08-13T12:15:31.690Z",
+    "duration_minutes": 17431,
+    "duration_str": "12d 2h 31m"
   },
   {
     "title": "economie:::Le prix des montres suisses va (encore) augmenter",
@@ -25600,7 +25606,10 @@
   },
   {
     "title": "economie:::Les tarifs douaniers ne provoquent toujours pas d’inflation aux Etats-Unis, grâce au pétrole",
-    "added_at": "2025-08-12T17:36:28.213Z"
+    "added_at": "2025-08-12T17:36:28.213Z",
+    "removed_at": "2025-08-13T11:45:59.196Z",
+    "duration_minutes": 1089,
+    "duration_str": "18h 9m"
   },
   {
     "title": "monde:::Les proches des otages israéliens rencontrent la présidente du CICR à Genève",
@@ -25675,10 +25684,7 @@
   },
   {
     "title": "economie:::La pharma prise dans l’étau du double objectif de Donald Trump",
-    "added_at": "2025-08-13T03:49:47.482Z",
-    "removed_at": "2025-08-13T10:50:50.014Z",
-    "duration_minutes": 421,
-    "duration_str": "7h 1m"
+    "added_at": "2025-08-13T03:49:47.482Z"
   },
   {
     "title": "suisse:::Selon un sondage, les Suisses diraient oui à la loi sur l’e-ID et les impôts fonciers cantonaux",
@@ -25711,11 +25717,17 @@
   },
   {
     "title": "cyber:::SFR, Free et maintenant Bouygues Telecom: les opérateurs français se font pirater en masse, affectant des millions de clients",
-    "added_at": "2025-08-13T06:05:07.986Z"
+    "added_at": "2025-08-13T06:05:07.986Z",
+    "removed_at": "2025-08-13T12:32:26.811Z",
+    "duration_minutes": 387,
+    "duration_str": "6h 27m"
   },
   {
     "title": "monde:::E. J. Antoni, l’homme chargé de donner des chiffres de l’emploi positifs à Donald Trump, qu’ils soient vrais ou non",
-    "added_at": "2025-08-13T06:26:14.787Z"
+    "added_at": "2025-08-13T06:26:14.787Z",
+    "removed_at": "2025-08-13T11:45:59.196Z",
+    "duration_minutes": 319,
+    "duration_str": "5h 19m"
   },
   {
     "title": "economie:::«Pétales de sang» de Ngugi wa Thiong’o ou les inégalités sociales liées au capitalisme",
@@ -25744,14 +25756,14 @@
   },
   {
     "title": "suisse:::La Suisse étouffe sous la canicule, qui devrait durer jusqu’à dimanche",
-    "added_at": "2025-08-13T07:33:57.907Z",
-    "removed_at": "2025-08-13T10:10:36.527Z",
-    "duration_minutes": 156,
-    "duration_str": "2h 36m"
+    "added_at": "2025-08-13T07:33:57.907Z"
   },
   {
     "title": "sport:::Poneys supersoniques et concours de chapeaux: à Dublin, dans la fabrique du saut d’obstacles irlandais",
-    "added_at": "2025-08-13T08:16:20.981Z"
+    "added_at": "2025-08-13T08:16:20.981Z",
+    "removed_at": "2025-08-13T12:13:23.939Z",
+    "duration_minutes": 237,
+    "duration_str": "3h 57m"
   },
   {
     "title": "sciences:::Pourquoi nous ne sommes pas égaux face à la chaleur",
@@ -25787,5 +25799,20 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – La Russie a réalisé en 24 heures sa plus large avancée depuis un an",
     "added_at": "2025-08-13T11:33:09.473Z"
+  },
+  {
+    "title": "culture:::«Together», une dangereuse fusion de couple",
+    "added_at": "2025-08-13T12:09:11.663Z",
+    "removed_at": "2025-08-13T12:13:23.939Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "culture:::Faut-il dire «Kiev» ou «Kyiv»? Un conflit orthographique capital",
+    "added_at": "2025-08-13T12:13:23.939Z"
+  },
+  {
+    "title": "suisse:::Un afflux massif de clients pousse une assurance maladie à la faillite",
+    "added_at": "2025-08-13T12:38:47.210Z"
   }
 ]
