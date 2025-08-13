@@ -65,9 +65,8 @@
   {
     "title": "François Chaslin, figure phare de la scène architecturale, est mort",
     "added_at": "2025-08-10T10:04:10.485Z",
-    "removed_at": "2025-08-13T05:33:13.989Z",
-    "duration_minutes": 4049,
-    "duration_str": "2d 19h 29m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "A Londres, les images prodigieuses et inoubliables de la peintre Ithell Colquhoun",
@@ -173,8 +172,9 @@
   {
     "title": "La mort d’Eddie Palmieri, pianiste « maestro » de la salsa et du latin jazz",
     "added_at": "2025-08-10T17:56:19.264Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-13T05:57:45.313Z",
+    "duration_minutes": 3601,
+    "duration_str": "2d 12h 1m"
   },
   {
     "title": "Au Festival de Locarno, « Dracula », le film ravageur de Radu Jude sur l’IA",
@@ -182,6 +182,12 @@
     "removed_at": "2025-08-12T16:22:23.622Z",
     "duration_minutes": 2939,
     "duration_str": "2d 59m"
+  },
+  {
+    "title": "« Splash », le lavabo d’India Mahdavi",
+    "added_at": "2025-08-10T09:07:28.261Z",
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Le designer Willy Chavarria reconnaît une appropriation culturelle et présente ses excuses pour ses sandales Adidas",
@@ -378,13 +384,6 @@
     "removed_at": "2025-08-10T09:01:48.483Z",
     "duration_minutes": 26,
     "duration_str": "26m"
-  },
-  {
-    "title": "« Splash », le lavabo d’India Mahdavi",
-    "added_at": "2025-08-10T09:07:28.261Z",
-    "removed_at": "2025-08-11T13:01:53.208Z",
-    "duration_minutes": 1674,
-    "duration_str": "1d 3h 54m"
   },
   {
     "title": "A Marseille, à la table de la Vieille Charité",
