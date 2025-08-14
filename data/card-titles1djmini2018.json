@@ -25295,10 +25295,7 @@
   },
   {
     "title": "Couleurs d'été",
-    "added_at": "2025-07-22T13:38:22.215Z",
-    "removed_at": "2025-08-11T05:32:40.214Z",
-    "duration_minutes": 28314,
-    "duration_str": "19d 15h 54m"
+    "added_at": "2025-07-22T13:38:22.215Z"
   },
   {
     "title": "À Berne, Odessa Blanc raconte l'ambiance au Wankdorf",
@@ -30729,7 +30726,10 @@
   },
   {
     "title": "Contrex et Hépar: des eaux minérales contaminées aux microplastiques",
-    "added_at": "2025-08-11T05:30:50.234Z"
+    "added_at": "2025-08-11T05:30:50.234Z",
+    "removed_at": "2025-08-14T05:01:08.789Z",
+    "duration_minutes": 4290,
+    "duration_str": "2d 23h 30m"
   },
   {
     "title": "Une chaleur \"d'un niveau exceptionnel\" attendue dans le sud-ouest de la France",
@@ -31000,7 +31000,10 @@
   },
   {
     "title": "Une pénurie d'eau qualifiée \"d'importance nationale\" en Angleterre",
-    "added_at": "2025-08-12T00:22:06.039Z"
+    "added_at": "2025-08-12T00:22:06.039Z",
+    "removed_at": "2025-08-14T04:25:21.326Z",
+    "duration_minutes": 3123,
+    "duration_str": "2d 4h 3m"
   },
   {
     "title": "La loi Duplomb, remodelée, promulguée par Emmanuel Macron",
@@ -31338,5 +31341,9 @@
   {
     "title": "Une centaine d'organisations humanitaires demandent un meilleur accès à la bande de Gaza",
     "added_at": "2025-08-14T02:41:31.396Z"
+  },
+  {
+    "title": "L'essor de la climatisation: quelles conséquences pour le climat?",
+    "added_at": "2025-08-14T04:25:21.326Z"
   }
 ]
