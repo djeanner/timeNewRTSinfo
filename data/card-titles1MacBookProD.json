@@ -6796,7 +6796,10 @@
   },
   {
     "title": "Les nitazènes, une drogue jusqu'à 50 fois plus puissante que le fentanyl",
-    "added_at": "2025-08-12T13:48:35.340Z"
+    "added_at": "2025-08-12T13:48:35.340Z",
+    "removed_at": "2025-08-14T06:02:58.214Z",
+    "duration_minutes": 2414,
+    "duration_str": "1d 16h 14m"
   },
   {
     "title": "L'augmentation du chômage partiel est-elle la solution à la crise économique annoncée? Débat entre Yvan Pahud et Cyril Aellen",
@@ -6844,11 +6847,17 @@
   },
   {
     "title": "La découverte du corps d'un homme porté disparu en Valais depuis un mois clôt un week-end meurtrier en montagne",
-    "added_at": "2025-08-12T13:48:35.340Z"
+    "added_at": "2025-08-12T13:48:35.340Z",
+    "removed_at": "2025-08-14T06:45:11.772Z",
+    "duration_minutes": 2456,
+    "duration_str": "1d 16h 56m"
   },
   {
     "title": "Emmanuel Macron promulgue la loi Duplomb sans la disposition sur les pesticides",
-    "added_at": "2025-08-12T13:48:35.340Z"
+    "added_at": "2025-08-12T13:48:35.340Z",
+    "removed_at": "2025-08-14T06:32:31.294Z",
+    "duration_minutes": 2443,
+    "duration_str": "1d 16h 43m"
   },
   {
     "title": "Une pénurie d'eau qualifiée \"d'importance nationale\" en Angleterre",
@@ -7260,10 +7269,7 @@
   },
   {
     "title": "Une nouvelle flottille de la paix se prépare à partir pour Gaza: interview d’Hicham El Ghaoui",
-    "added_at": "2025-08-13T12:09:11.621Z",
-    "removed_at": "2025-08-13T22:17:18.632Z",
-    "duration_minutes": 608,
-    "duration_str": "10h 8m"
+    "added_at": "2025-08-13T12:09:11.621Z"
   },
   {
     "title": "Le déficit des finances fédérales pour 2025 devrait être bien moindre qu'attendu",
@@ -7342,5 +7348,13 @@
   {
     "title": "L'essor de la climatisation: quelles conséquences pour le climat?",
     "added_at": "2025-08-14T04:25:27.974Z"
+  },
+  {
+    "title": "Un ex-prêtre jugé au Tessin pour actes sexuels sur mineurs et personnes incapables de discernement",
+    "added_at": "2025-08-14T06:32:31.294Z"
+  },
+  {
+    "title": "Un filet de vigne paralyse le trafic CFF entre Yverdon et Neuchâtel",
+    "added_at": "2025-08-14T06:45:11.772Z"
   }
 ]
