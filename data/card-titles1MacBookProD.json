@@ -6750,7 +6750,10 @@
   },
   {
     "title": "La Lune en trouble-fête cette année de la pluie d'étoiles filantes des Perséides",
-    "added_at": "2025-08-12T13:48:35.340Z"
+    "added_at": "2025-08-12T13:48:35.340Z",
+    "removed_at": "2025-08-14T21:14:46.990Z",
+    "duration_minutes": 3326,
+    "duration_str": "2d 7h 26m"
   },
   {
     "title": "Donald Trump place la police de Washington sous contrôle fédéral et déploie la Garde nationale",
@@ -7618,12 +7621,30 @@
   {
     "title": "La Suisse ne pourra pas acheter les F-35 à un prix fixe: débat entre Clarence Chollet et Vincent Maitre",
     "added_at": "2025-08-14T19:20:14.117Z",
-    "removed_at": "2025-08-14T19:22:18.026Z",
-    "duration_minutes": 2,
-    "duration_str": "2m"
+    "removed_at": "2025-08-14T21:42:12.793Z",
+    "duration_minutes": 141,
+    "duration_str": "2h 21m"
   },
   {
     "title": "Un prêtre condamné à un an et demi de prison avec sursis au Tessin pour abus sexuels",
     "added_at": "2025-08-14T20:53:27.334Z"
+  },
+  {
+    "title": "Pas d'accord en vue au sommet sur le plastique à Genève à l'approche de l'heure fatidique",
+    "added_at": "2025-08-14T21:14:46.990Z",
+    "removed_at": "2025-08-14T21:57:02.948Z",
+    "duration_minutes": 42,
+    "duration_str": "42m"
+  },
+  {
+    "title": "Le Conseil fédéral veut offrir de la flexibilité à la Poste et garantir le service universel: interview d’Albert Rösti",
+    "added_at": "2025-08-14T21:37:59.380Z",
+    "removed_at": "2025-08-14T21:42:12.793Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Les négociations sur le plastique prolongées jusqu'à vendredi à Genève",
+    "added_at": "2025-08-14T21:57:02.948Z"
   }
 ]
