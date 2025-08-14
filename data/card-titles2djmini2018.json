@@ -24011,7 +24011,10 @@
   },
   {
     "title": "suisse:::Un afflux massif de clients pousse une assurance maladie à la faillite",
-    "added_at": "2025-08-13T12:39:38.435Z"
+    "added_at": "2025-08-13T12:39:38.435Z",
+    "removed_at": "2025-08-14T22:22:53.458Z",
+    "duration_minutes": 2023,
+    "duration_str": "1d 9h 43m"
   },
   {
     "title": "culture:::«The Deal», le thriller de Jean-Stéphane Bron, rend hommage à la diplomatie, au risque de fausser l’image des bons offices suisses",
@@ -24351,5 +24354,9 @@
   {
     "title": "economie:::«Un Garçon convenable», ou l’essor de la classe moyenne en Inde",
     "added_at": "2025-08-14T19:08:37.440Z"
+  },
+  {
+    "title": "sciences:::Pas d’accord à Genève: les négociations pour un traité sur la pollution plastique sont prolongées",
+    "added_at": "2025-08-14T22:22:53.458Z"
   }
 ]
