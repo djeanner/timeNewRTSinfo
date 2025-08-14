@@ -208,8 +208,9 @@
   {
     "title": "La route du Grand-Saint-Bernard temporairement coupée après le débordement de deux torrents",
     "added_at": "2025-08-14T18:37:41.666Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-14T19:20:14.117Z",
+    "duration_minutes": 43,
+    "duration_str": "43m"
   },
   {
     "title": "Très fort risque de feux de forêt dans plusieurs régions du Valais",
@@ -235,5 +236,18 @@
     "added_at": "2025-08-14T19:09:28.174Z",
     "duration_minutes": 0,
     "duration_str": ""
+  },
+  {
+    "title": "La route du Grand-Saint-Bernard coupée quelques heures après le débordement de deux torrents",
+    "added_at": "2025-08-14T19:20:14.117Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "La Suisse ne pourra pas acheter les F-35 à un prix fixe: débat entre Clarence Chollet et Vincent Maitre",
+    "added_at": "2025-08-14T19:20:14.117Z",
+    "removed_at": "2025-08-14T19:22:18.026Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
   }
 ]
