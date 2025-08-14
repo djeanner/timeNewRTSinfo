@@ -6448,7 +6448,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:00:57.917Z"
+    "added_at": "2025-05-22T18:00:57.917Z",
+    "removed_at": "2025-08-14T19:08:37.440Z",
+    "duration_minutes": 121027,
+    "duration_str": "84d 1h 7m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -24276,7 +24279,10 @@
   },
   {
     "title": "sport:::Respect de la santé mentale, veille des troubles alimentaires, pas de pression: Nexetis, l’équipe cycliste suisse qui roule au bien-être",
-    "added_at": "2025-08-14T10:02:59.170Z"
+    "added_at": "2025-08-14T10:02:59.170Z",
+    "removed_at": "2025-08-14T19:08:37.440Z",
+    "duration_minutes": 545,
+    "duration_str": "9h 5m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine –Vladimir Poutine flatte Donald Trump à la veille de leur sommet en Alaska",
@@ -24305,7 +24311,10 @@
   },
   {
     "title": "culture:::«Les Quatre Saisons» de Vivaldi, 300 ans d'un tube classique... qui a failli tomber dans l'oubli",
-    "added_at": "2025-08-14T14:15:51.742Z"
+    "added_at": "2025-08-14T14:15:51.742Z",
+    "removed_at": "2025-08-14T18:04:23.532Z",
+    "duration_minutes": 228,
+    "duration_str": "3h 48m"
   },
   {
     "title": "sciences:::«Les personnes qui ne prennent pas la chaleur au sérieux sont à risque»",
@@ -24334,5 +24343,13 @@
   {
     "title": "monde:::Les fiançailles de Cristiano Ronaldo ravivent les questions sur les relations hors mariage en Arabie saoudite",
     "added_at": "2025-08-14T17:02:00.345Z"
+  },
+  {
+    "title": "sciences:::Les incendies ravagent un sud de l’Europe en proie à la canicule",
+    "added_at": "2025-08-14T18:59:07.305Z"
+  },
+  {
+    "title": "economie:::«Un Garçon convenable», ou l’essor de la classe moyenne en Inde",
+    "added_at": "2025-08-14T19:08:37.440Z"
   }
 ]

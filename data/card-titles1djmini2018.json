@@ -26405,7 +26405,10 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T21:30:25.517Z"
+    "added_at": "2025-07-25T21:30:25.517Z",
+    "removed_at": "2025-08-14T19:02:57.391Z",
+    "duration_minutes": 28652,
+    "duration_str": "19d 21h 32m"
   },
   {
     "title": "La légende du catch Hulk Hogan est décédée à l'âge de 71 ans",
@@ -30288,10 +30291,7 @@
   },
   {
     "title": "Donald Trump a accueilli l'Arménie et l'Azerbaïdjan pour signer un accord de paix",
-    "added_at": "2025-08-09T16:21:29.229Z",
-    "removed_at": "2025-08-12T12:05:25.675Z",
-    "duration_minutes": 4063,
-    "duration_str": "2d 19h 43m"
+    "added_at": "2025-08-09T16:21:29.229Z"
   },
   {
     "title": "Les exportations d'or aux Etats-Unis ne seront finalement peut-être pas taxées",
@@ -30724,9 +30724,9 @@
   {
     "title": "Contrex et Hépar: des eaux minérales contaminées aux microplastiques",
     "added_at": "2025-08-11T05:30:50.234Z",
-    "removed_at": "2025-08-14T11:03:26.602Z",
-    "duration_minutes": 4652,
-    "duration_str": "3d 5h 32m"
+    "removed_at": "2025-08-14T19:02:57.391Z",
+    "duration_minutes": 5132,
+    "duration_str": "3d 13h 32m"
   },
   {
     "title": "Une chaleur \"d'un niveau exceptionnel\" attendue dans le sud-ouest de la France",
@@ -31137,7 +31137,10 @@
   },
   {
     "title": "Les incendies font rage en Europe, un mort en Espagne",
-    "added_at": "2025-08-12T12:37:29.793Z"
+    "added_at": "2025-08-12T12:37:29.793Z",
+    "removed_at": "2025-08-14T18:51:38.087Z",
+    "duration_minutes": 3254,
+    "duration_str": "2d 6h 14m"
   },
   {
     "title": "La ligne CFF Genève-Lausanne fortement perturbée suite à un incident technique",
@@ -31290,7 +31293,10 @@
   },
   {
     "title": "Faut-il introduire une identité électronique? Interviews d'Alexis Roussel et Beat Jans",
-    "added_at": "2025-08-13T07:24:29.843Z"
+    "added_at": "2025-08-13T07:24:29.843Z",
+    "removed_at": "2025-08-14T19:21:46.896Z",
+    "duration_minutes": 2157,
+    "duration_str": "1d 11h 57m"
   },
   {
     "title": "L'Europe mobilisée avec Volodymyr Zelensky pour défendre les intérêts de l'Ukraine auprès de Donald Trump",
@@ -31426,7 +31432,10 @@
   },
   {
     "title": "Un ex-prêtre jugé au Tessin pour actes sexuels sur mineurs et personnes incapables de discernement",
-    "added_at": "2025-08-14T06:33:37.855Z"
+    "added_at": "2025-08-14T06:33:37.855Z",
+    "removed_at": "2025-08-14T19:04:47.473Z",
+    "duration_minutes": 751,
+    "duration_str": "12h 31m"
   },
   {
     "title": "Un filet de vigne paralyse le trafic CFF entre Yverdon et Neuchâtel",
@@ -31488,7 +31497,10 @@
   },
   {
     "title": "Volodymyr Zelensky accueilli à Londres, à la veille du sommet Trump-Poutine",
-    "added_at": "2025-08-14T10:55:57.566Z"
+    "added_at": "2025-08-14T10:55:57.566Z",
+    "removed_at": "2025-08-14T19:08:37.374Z",
+    "duration_minutes": 492,
+    "duration_str": "8h 12m"
   },
   {
     "title": "Une rentrée sous le signe de l'orthographe lundi pour quelque 19'700 élèves neuchâtelois",
@@ -31553,10 +31565,54 @@
   },
   {
     "title": "Circulation interrompue sur l'axe du Grand-Saint-Bernard après le débordement de deux torrents",
-    "added_at": "2025-08-14T16:22:24.993Z"
+    "added_at": "2025-08-14T16:22:24.993Z",
+    "removed_at": "2025-08-14T18:38:21.952Z",
+    "duration_minutes": 135,
+    "duration_str": "2h 15m"
   },
   {
     "title": "Les hôpitaux suisses exigent une reconnaissance plus rapide des diplômes étrangers",
     "added_at": "2025-08-14T16:50:41.822Z"
+  },
+  {
+    "title": "Pic de pollution à Genève, le canton annonce une restriction de circulation",
+    "added_at": "2025-08-14T18:02:29.908Z"
+  },
+  {
+    "title": "La route du Grand-Saint-Bernard temporairement coupée après le débordement de deux torrents",
+    "added_at": "2025-08-14T18:38:21.952Z",
+    "removed_at": "2025-08-14T19:19:56.953Z",
+    "duration_minutes": 41,
+    "duration_str": "41m"
+  },
+  {
+    "title": "Très fort risque de feux de forêt dans plusieurs régions du Valais",
+    "added_at": "2025-08-14T18:47:47.320Z"
+  },
+  {
+    "title": "Annonce d'un sommet Trump-Poutine: réactions en Ukraine",
+    "added_at": "2025-08-14T18:59:07.237Z",
+    "removed_at": "2025-08-14T19:02:57.391Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "Un prêtre jugé au Tessin pour actes sexuels sur mineurs et personnes incapables de discernement",
+    "added_at": "2025-08-14T19:04:47.473Z"
+  },
+  {
+    "title": "Derniers préparatifs à la veille de la rencontre entre Donald Trump et Vladimir Poutine",
+    "added_at": "2025-08-14T19:08:37.374Z"
+  },
+  {
+    "title": "La route du Grand-Saint-Bernard coupée quelques heures après le débordement de deux torrents",
+    "added_at": "2025-08-14T19:19:56.953Z"
+  },
+  {
+    "title": "La Suisse ne pourra pas acheter les F-35 à un prix fixe: débat entre Clarence Chollet et Vincent Maitre",
+    "added_at": "2025-08-14T19:19:56.953Z",
+    "removed_at": "2025-08-14T19:21:46.896Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
   }
 ]
