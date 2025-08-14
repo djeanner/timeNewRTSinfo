@@ -8226,7 +8226,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z"
+    "added_at": "2025-05-22T18:01:52.008Z",
+    "removed_at": "2025-08-14T19:07:24.747Z",
+    "duration_minutes": 121025,
+    "duration_str": "84d 1h 5m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -26131,7 +26134,10 @@
   },
   {
     "title": "sport:::Respect de la santé mentale, veille des troubles alimentaires, pas de pression: Nexetis, l’équipe cycliste suisse qui roule au bien-être",
-    "added_at": "2025-08-14T10:02:16.148Z"
+    "added_at": "2025-08-14T10:02:16.148Z",
+    "removed_at": "2025-08-14T19:07:24.747Z",
+    "duration_minutes": 545,
+    "duration_str": "9h 5m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine –Vladimir Poutine flatte Donald Trump à la veille de leur sommet en Alaska",
@@ -26192,5 +26198,13 @@
   {
     "title": "monde:::Les fiançailles de Cristiano Ronaldo ravivent les questions sur les relations hors mariage en Arabie saoudite",
     "added_at": "2025-08-14T17:02:09.508Z"
+  },
+  {
+    "title": "sciences:::Les incendies ravagent un sud de l’Europe en proie à la canicule",
+    "added_at": "2025-08-14T18:58:54.448Z"
+  },
+  {
+    "title": "economie:::«Un Garçon convenable», ou l’essor de la classe moyenne en Inde",
+    "added_at": "2025-08-14T19:07:24.747Z"
   }
 ]
