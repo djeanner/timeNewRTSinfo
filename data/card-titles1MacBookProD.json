@@ -6785,7 +6785,10 @@
   },
   {
     "title": "Benjamin Netanyahu défend l'occupation de la ville de Gaza",
-    "added_at": "2025-08-12T13:48:35.340Z"
+    "added_at": "2025-08-12T13:48:35.340Z",
+    "removed_at": "2025-08-15T06:02:30.036Z",
+    "duration_minutes": 3853,
+    "duration_str": "2d 16h 13m"
   },
   {
     "title": "Contrex et Hépar: des eaux minérales contaminées aux microplastiques",
@@ -7207,7 +7210,10 @@
   },
   {
     "title": "La ligne CFF Genève-Lausanne perturbée suite à un incident technique",
-    "added_at": "2025-08-12T14:17:32.996Z"
+    "added_at": "2025-08-12T14:17:32.996Z",
+    "removed_at": "2025-08-15T06:04:33.773Z",
+    "duration_minutes": 3827,
+    "duration_str": "2d 15h 47m"
   },
   {
     "title": "L'Union européenne et 24 pays, dont la Suisse, dénoncent une situation de \"famine\" à Gaza",
@@ -7603,10 +7609,7 @@
   },
   {
     "title": "Donald Trump a accueilli l'Arménie et l'Azerbaïdjan pour signer un accord de paix",
-    "added_at": "2025-08-14T18:58:54.404Z",
-    "removed_at": "2025-08-15T01:29:01.329Z",
-    "duration_minutes": 390,
-    "duration_str": "6h 30m"
+    "added_at": "2025-08-14T18:58:54.404Z"
   },
   {
     "title": "Annonce d'un sommet Trump-Poutine: réactions en Ukraine",
@@ -7691,5 +7694,9 @@
   {
     "title": "Les négociations pour forger un traité sur la pollution plastique ont échoué, annoncent plusieurs représentants",
     "added_at": "2025-08-15T05:17:57.103Z"
+  },
+  {
+    "title": "Les bons gestes à adopter pour protéger les animaux domestiques de la canicule",
+    "added_at": "2025-08-15T06:04:33.773Z"
   }
 ]
