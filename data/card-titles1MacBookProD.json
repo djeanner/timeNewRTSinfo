@@ -7224,7 +7224,10 @@
   },
   {
     "title": "La Suisse choisit le film \"En première ligne\" pour la course aux Oscars",
-    "added_at": "2025-08-12T15:37:54.990Z"
+    "added_at": "2025-08-12T15:37:54.990Z",
+    "removed_at": "2025-08-15T01:31:04.996Z",
+    "duration_minutes": 3473,
+    "duration_str": "2d 9h 53m"
   },
   {
     "title": "L’UE tente de s’impliquer dans les négociations entre Donald Trump et Vladimir Poutine",
@@ -7597,7 +7600,10 @@
   },
   {
     "title": "Donald Trump a accueilli l'Arménie et l'Azerbaïdjan pour signer un accord de paix",
-    "added_at": "2025-08-14T18:58:54.404Z"
+    "added_at": "2025-08-14T18:58:54.404Z",
+    "removed_at": "2025-08-15T01:29:01.329Z",
+    "duration_minutes": 390,
+    "duration_str": "6h 30m"
   },
   {
     "title": "Annonce d'un sommet Trump-Poutine: réactions en Ukraine",
@@ -7653,5 +7659,9 @@
   {
     "title": "Volodymyr Zelensky reçu en Grande-Bretagne avant la rencontre entre Donald Trump et Vladimir Poutine",
     "added_at": "2025-08-14T22:28:53.638Z"
+  },
+  {
+    "title": "Deuxième soirée d'affrontements entre manifestants et partisans du pouvoir en Serbie",
+    "added_at": "2025-08-15T01:31:04.996Z"
   }
 ]
