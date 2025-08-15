@@ -7472,7 +7472,10 @@
   },
   {
     "title": "L'EuroAirport de Bâle-Mulhouse ferme ses pistes à l'aviation légère",
-    "added_at": "2025-08-13T13:40:23.716Z"
+    "added_at": "2025-08-13T13:40:23.716Z",
+    "removed_at": "2025-08-15T18:57:21.764Z",
+    "duration_minutes": 3196,
+    "duration_str": "2d 5h 16m"
   },
   {
     "title": "Lufthansa envisage d'importer ses futurs Boeing via la Suisse",
@@ -7488,7 +7491,10 @@
   },
   {
     "title": "Le Jura bernois se prépare à accueillir la police cantonale bernoise après son départ de Moutier",
-    "added_at": "2025-08-13T15:58:03.556Z"
+    "added_at": "2025-08-13T15:58:03.556Z",
+    "removed_at": "2025-08-15T18:38:18.265Z",
+    "duration_minutes": 3040,
+    "duration_str": "2d 2h 40m"
   },
   {
     "title": "Smartphones et montres connectées sous silence au post-obligatoire vaudois dès la rentrée",
@@ -7881,5 +7887,13 @@
   {
     "title": "Les droits de douane américains menacent 100'000 emplois, prévient Economiesuisse",
     "added_at": "2025-08-15T16:39:32.681Z"
+  },
+  {
+    "title": "Réunion secrète entre des organisations humanitaires et la controversée Fondation humanitaire de Gaza",
+    "added_at": "2025-08-15T18:38:18.265Z"
+  },
+  {
+    "title": "L'avion de tourisme tombé dans le Léman a été repêché avec succès",
+    "added_at": "2025-08-15T18:57:21.764Z"
   }
 ]

@@ -27747,7 +27747,10 @@
   },
   {
     "title": "Putin, Trump to meet in Alaska to discuss settling Ukraine conflict",
-    "added_at": "2025-08-15T09:15:27.191Z"
+    "added_at": "2025-08-15T09:15:27.191Z",
+    "removed_at": "2025-08-15T18:42:32.331Z",
+    "duration_minutes": 567,
+    "duration_str": "9h 27m"
   },
   {
     "title": "Japanese minister visits controversial shrine to mark end of World War II",
@@ -27816,17 +27819,14 @@
   },
   {
     "title": "LIVE: Liverpool vs Bournemouth – Premier League",
-    "added_at": "2025-08-15T14:04:28.184Z",
-    "removed_at": "2025-08-15T14:23:39.130Z",
-    "duration_minutes": 19,
-    "duration_str": "19m"
+    "added_at": "2025-08-15T14:04:28.184Z"
   },
   {
     "title": "Trump’s takeover of DC police department faces new lawsuit amid crackdown",
     "added_at": "2025-08-15T14:08:41.536Z",
-    "removed_at": "2025-08-15T18:00:04.517Z",
-    "duration_minutes": 231,
-    "duration_str": "3h 51m"
+    "removed_at": "2025-08-15T18:15:04.803Z",
+    "duration_minutes": 246,
+    "duration_str": "4h 6m"
   },
   {
     "title": "Thirteen aid seekers among 31 Palestinians killed in Gaza since dawn",
@@ -27893,5 +27893,9 @@
   {
     "title": "Russia gains in east before Trump-Putin summit, Ukraine says holding off",
     "added_at": "2025-08-15T17:24:08.928Z"
+  },
+  {
+    "title": "Trump arrives in Alaska for talks with Putin on Ukraine conflict",
+    "added_at": "2025-08-15T18:42:32.331Z"
   }
 ]
