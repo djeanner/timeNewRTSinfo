@@ -467,8 +467,9 @@
   {
     "title": "What polls show ahead of the Trump-Putin meeting",
     "added_at": "2025-08-15T16:23:56.462Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-15T19:58:52.272Z",
+    "duration_minutes": 215,
+    "duration_str": "3h 35m"
   },
   {
     "title": "US retail sales climbed 0.5% in July",
@@ -528,6 +529,20 @@
   {
     "title": "Trump will no longer meet with Putin one-on-one, a White House official says. He will be joined by Marco Rubio and Steve Witkoff.",
     "added_at": "2025-08-15T19:01:35.682Z",
+    "removed_at": "2025-08-15T19:06:00.385Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "The meeting is no longer a one-on-one, a White House official says. Marco Rubio and Steve Witkoff will join Trump.",
+    "added_at": "2025-08-15T19:06:00.385Z",
+    "removed_at": "2025-08-15T19:58:52.272Z",
+    "duration_minutes": 53,
+    "duration_str": "53m"
+  },
+  {
+    "title": "Marco Rubio and special envoy Steve Witkoff are with Trump for the 3-on-3 meeting. Trump and Putin rode together to the meeting site.",
+    "added_at": "2025-08-15T19:58:52.272Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
