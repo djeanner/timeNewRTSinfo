@@ -31297,7 +31297,10 @@
   },
   {
     "title": "Les transports publics seront gratuits mercredi à Genève en raison d'un pic d'ozone",
-    "added_at": "2025-08-12T21:22:50.447Z"
+    "added_at": "2025-08-12T21:22:50.447Z",
+    "removed_at": "2025-08-15T12:50:40.835Z",
+    "duration_minutes": 3807,
+    "duration_str": "2d 15h 27m"
   },
   {
     "title": "Les personnes vulnérables souffrent le plus des fortes chaleurs",
@@ -31340,7 +31343,10 @@
   },
   {
     "title": "Jean-Stéphane Bron: \"'The Deal' rend hommage à la diplomatie comme espace de parole\"",
-    "added_at": "2025-08-13T06:39:16.345Z"
+    "added_at": "2025-08-13T06:39:16.345Z",
+    "removed_at": "2025-08-15T14:02:18.944Z",
+    "duration_minutes": 3323,
+    "duration_str": "2d 7h 23m"
   },
   {
     "title": "Faut-il introduire une identité électronique? Interviews d'Alexis Roussel et Beat Jans",
@@ -31351,11 +31357,17 @@
   },
   {
     "title": "L'Europe mobilisée avec Volodymyr Zelensky pour défendre les intérêts de l'Ukraine auprès de Donald Trump",
-    "added_at": "2025-08-13T08:24:52.312Z"
+    "added_at": "2025-08-13T08:24:52.312Z",
+    "removed_at": "2025-08-15T13:45:20.285Z",
+    "duration_minutes": 3200,
+    "duration_str": "2d 5h 20m"
   },
   {
     "title": "Les Suisses hostiles à des concessions aux Etats-Unis, selon un sondage",
-    "added_at": "2025-08-13T08:24:52.312Z"
+    "added_at": "2025-08-13T08:24:52.312Z",
+    "removed_at": "2025-08-15T13:34:02.130Z",
+    "duration_minutes": 3189,
+    "duration_str": "2d 5h 9m"
   },
   {
     "title": "Dernière ligne droite ardue pour les négociations sur la pollution plastique",
@@ -31366,7 +31378,10 @@
   },
   {
     "title": "Plus d'un enfant par jour a été victime d'un accident de la route sur le chemin de l'école en Suisse en 2024",
-    "added_at": "2025-08-13T09:04:33.605Z"
+    "added_at": "2025-08-13T09:04:33.605Z",
+    "removed_at": "2025-08-15T14:06:08.700Z",
+    "duration_minutes": 3181,
+    "duration_str": "2d 5h 1m"
   },
   {
     "title": "\"L'œil de Sauron\", un jet de plasma dirigé droit sur la Terre depuis l'espace",
@@ -31652,9 +31667,9 @@
   {
     "title": "Annonce d'un sommet Trump-Poutine: réactions en Ukraine",
     "added_at": "2025-08-14T18:59:07.237Z",
-    "removed_at": "2025-08-15T10:44:12.937Z",
-    "duration_minutes": 945,
-    "duration_str": "15h 45m"
+    "removed_at": "2025-08-15T13:24:36.715Z",
+    "duration_minutes": 1105,
+    "duration_str": "18h 25m"
   },
   {
     "title": "Un prêtre jugé au Tessin pour actes sexuels sur mineurs et personnes incapables de discernement",
@@ -31799,5 +31814,40 @@
   {
     "title": "Face au manque d’infrastructures pour les jeunes, Berne mise sur des terrains de foot mobiles",
     "added_at": "2025-08-15T12:29:51.331Z"
+  },
+  {
+    "title": "Le Conseil fédéral ne pourra pas garder la liste de ses vins secrète",
+    "added_at": "2025-08-15T12:46:57.419Z"
+  },
+  {
+    "title": "Pas d'accord sur la pollution plastique à Genève après 10 jours de négociations",
+    "added_at": "2025-08-15T13:24:36.715Z"
+  },
+  {
+    "title": "Face à face entre Donald Trump et Vladimir Poutine en Alaska, l'Ukraine et le contrôle des armes au menu",
+    "added_at": "2025-08-15T13:34:02.130Z",
+    "removed_at": "2025-08-15T13:37:51.114Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "Donald Trump et Vladimir Poutine se rencontrent en Alaska, Kiev et l’Europe retiennent leur souffle",
+    "added_at": "2025-08-15T13:37:51.114Z"
+  },
+  {
+    "title": "Coup d'envoi pour Rock The Lakes, le rendez-vous estival des fans de rock et de metal",
+    "added_at": "2025-08-15T13:45:20.285Z"
+  },
+  {
+    "title": "Un nombre record d'incidents ont été répertoriés dans l'aviation et les transports en 2024",
+    "added_at": "2025-08-15T14:02:18.944Z"
+  },
+  {
+    "title": "Pourquoi 34°C sont-ils agréables dans l'eau, mais pas dans l'air?",
+    "added_at": "2025-08-15T14:06:08.700Z"
+  },
+  {
+    "title": "La canicule devrait se terminer à la fin du week-end en Suisse romande, mais la sécheresse persiste",
+    "added_at": "2025-08-15T14:32:30.394Z"
   }
 ]
