@@ -27851,7 +27851,10 @@
   },
   {
     "title": "More than 160 people killed in Pakistan in heavy rains, flash floods",
-    "added_at": "2025-08-15T14:59:37.341Z"
+    "added_at": "2025-08-15T14:59:37.341Z",
+    "removed_at": "2025-08-15T20:01:08.020Z",
+    "duration_minutes": 301,
+    "duration_str": "5h 1m"
   },
   {
     "title": "Child starves to death in Gaza, hunger-related toll reaches 240",
@@ -27862,7 +27865,10 @@
   },
   {
     "title": "A political shift ahead? What to know about Bolivia’s presidential election",
-    "added_at": "2025-08-15T15:10:17.566Z"
+    "added_at": "2025-08-15T15:10:17.566Z",
+    "removed_at": "2025-08-15T20:07:28.852Z",
+    "duration_minutes": 297,
+    "duration_str": "4h 57m"
   },
   {
     "title": "Child starves to death in Gaza; hunger-related toll reaches 240",
@@ -27918,5 +27924,13 @@
   {
     "title": "Israel pounds Gaza City, shoots at ambulances trying to rescue wounded",
     "added_at": "2025-08-15T19:14:25.060Z"
+  },
+  {
+    "title": "Nearly 200 people killed in Pakistan in heavy rains, flash floods",
+    "added_at": "2025-08-15T20:01:08.020Z"
+  },
+  {
+    "title": "Israel targets emergency workers trying to help people trapped in Gaza City",
+    "added_at": "2025-08-15T20:07:28.852Z"
   }
 ]

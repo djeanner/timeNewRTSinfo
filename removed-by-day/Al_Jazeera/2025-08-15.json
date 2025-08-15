@@ -218,8 +218,9 @@
   {
     "title": "More than 160 people killed in Pakistan in heavy rains, flash floods",
     "added_at": "2025-08-15T14:59:03.971Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-15T20:01:08.020Z",
+    "duration_minutes": 302,
+    "duration_str": "5h 2m"
   },
   {
     "title": "Child starves to death in Gaza, hunger-related toll reaches 240",
@@ -231,13 +232,14 @@
   {
     "title": "A political shift ahead? What to know about Bolivia’s presidential election",
     "added_at": "2025-08-15T15:10:17.566Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-15T20:07:28.852Z",
+    "duration_minutes": 297,
+    "duration_str": "4h 57m"
   },
   {
     "title": "Child starves to death in Gaza; hunger-related toll reaches 240",
     "added_at": "2025-08-15T15:16:01.529Z",
-    "removed_at": "2025-08-15T19:14:25.060Z",
+    "removed_at": "2025-08-15T19:13:47.444Z",
     "duration_minutes": 238,
     "duration_str": "3h 58m"
   },
@@ -264,9 +266,9 @@
   {
     "title": "Wildfires sweep Spain, Portugal and Greece during unremitting heatwave",
     "added_at": "2025-08-15T17:03:31.877Z",
-    "removed_at": "2025-08-15T19:12:21.605Z",
-    "duration_minutes": 129,
-    "duration_str": "2h 9m"
+    "removed_at": "2025-08-15T19:11:57.527Z",
+    "duration_minutes": 128,
+    "duration_str": "2h 8m"
   },
   {
     "title": "Russia gains in east before Trump-Putin summit, Ukraine says holding off",
@@ -277,25 +279,37 @@
   {
     "title": "Trump arrives in Alaska for talks with Putin on Ukraine conflict",
     "added_at": "2025-08-15T18:42:32.331Z",
-    "removed_at": "2025-08-15T19:14:25.060Z",
-    "duration_minutes": 32,
-    "duration_str": "32m"
+    "removed_at": "2025-08-15T19:13:47.444Z",
+    "duration_minutes": 31,
+    "duration_str": "31m"
   },
   {
     "title": "Verdict, sentencing in coup trial for Brazil’s Bolsonaro set for September",
-    "added_at": "2025-08-15T19:12:21.605Z",
+    "added_at": "2025-08-15T19:11:57.527Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Trump, Putin arrive in Alaska for talks on Ukraine conflict",
-    "added_at": "2025-08-15T19:14:25.060Z",
+    "added_at": "2025-08-15T19:13:47.444Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Israel pounds Gaza City, shoots at ambulances trying to rescue wounded",
-    "added_at": "2025-08-15T19:14:25.060Z",
+    "added_at": "2025-08-15T19:13:47.444Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Nearly 200 people killed in Pakistan in heavy rains, flash floods",
+    "added_at": "2025-08-15T20:01:08.020Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Israel targets emergency workers trying to help people trapped in Gaza City",
+    "added_at": "2025-08-15T20:07:28.852Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
