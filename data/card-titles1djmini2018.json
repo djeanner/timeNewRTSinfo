@@ -30379,7 +30379,10 @@
   },
   {
     "title": "Trump rencontrera Poutine le 15 août avec comme ambition la paix en Ukraine",
-    "added_at": "2025-08-09T22:16:42.569Z"
+    "added_at": "2025-08-09T22:16:42.569Z",
+    "removed_at": "2025-08-15T16:22:05.862Z",
+    "duration_minutes": 8285,
+    "duration_str": "5d 18h 5m"
   },
   {
     "title": "Avec ou sans Volodymyr Zelensky, l'Europe maintient sa pression sur Moscou avant le sommet Trump-Poutine",
@@ -31290,10 +31293,7 @@
   },
   {
     "title": "Un baigneur perd la vie après un accident dans une piscine à La Chaux-de-Fonds",
-    "added_at": "2025-08-12T19:33:15.907Z",
-    "removed_at": "2025-08-15T11:01:12.255Z",
-    "duration_minutes": 3807,
-    "duration_str": "2d 15h 27m"
+    "added_at": "2025-08-12T19:33:15.907Z"
   },
   {
     "title": "Les transports publics seront gratuits mercredi à Genève en raison d'un pic d'ozone",
@@ -31389,7 +31389,10 @@
   },
   {
     "title": "\"Pour nous, riches Européens, la canicule reste une question de confort\"",
-    "added_at": "2025-08-13T10:01:07.282Z"
+    "added_at": "2025-08-13T10:01:07.282Z",
+    "removed_at": "2025-08-15T16:39:04.216Z",
+    "duration_minutes": 3277,
+    "duration_str": "2d 6h 37m"
   },
   {
     "title": "Les pompiers vaudois se préparent au risque de feux de forêt de grande ampleur",
@@ -31407,11 +31410,17 @@
   },
   {
     "title": "L’UDC Kevin Grangier prend la tête de l’Alliance vaudoise",
-    "added_at": "2025-08-13T11:09:06.259Z"
+    "added_at": "2025-08-13T11:09:06.259Z",
+    "removed_at": "2025-08-15T16:27:44.936Z",
+    "duration_minutes": 3198,
+    "duration_str": "2d 5h 18m"
   },
   {
     "title": "Hommage à Mix & Remix à la station de métro lausannoise de Bessières",
-    "added_at": "2025-08-13T11:14:45.311Z"
+    "added_at": "2025-08-13T11:14:45.311Z",
+    "removed_at": "2025-08-15T15:46:11.930Z",
+    "duration_minutes": 3151,
+    "duration_str": "2d 4h 31m"
   },
   {
     "title": "La BNS dévoile ses propositions de nouveaux billets de banque",
@@ -31849,5 +31858,21 @@
   {
     "title": "La canicule devrait se terminer à la fin du week-end en Suisse romande, mais la sécheresse persiste",
     "added_at": "2025-08-15T14:32:30.394Z"
+  },
+  {
+    "title": "La mousson fait près de 200 morts en 24 heures au Pakistan",
+    "added_at": "2025-08-15T15:46:11.930Z"
+  },
+  {
+    "title": "Le point avec Olivier Dessibourg sur l’échec des négociations sur la pollution plastique",
+    "added_at": "2025-08-15T16:22:05.862Z"
+  },
+  {
+    "title": "Le Vaudois Noam Yaron abandonne sa traversée à la nage entre la Corse et Monaco, tout près du but",
+    "added_at": "2025-08-15T16:27:44.936Z"
+  },
+  {
+    "title": "Les droits de douane américains menacent 100'000 emplois, prévient Economiesuisse",
+    "added_at": "2025-08-15T16:39:04.216Z"
   }
 ]
