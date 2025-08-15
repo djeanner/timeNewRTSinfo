@@ -27903,10 +27903,7 @@
   },
   {
     "title": "Wildfires sweep Spain, Portugal and Greece during unremitting heatwave",
-    "added_at": "2025-08-15T17:04:59.783Z",
-    "removed_at": "2025-08-15T19:12:21.605Z",
-    "duration_minutes": 127,
-    "duration_str": "2h 7m"
+    "added_at": "2025-08-15T17:04:59.783Z"
   },
   {
     "title": "Russia gains in east before Trump-Putin summit, Ukraine says holding off",
@@ -27935,7 +27932,10 @@
   },
   {
     "title": "Israel pounds Gaza City, shoots at ambulances trying to rescue wounded",
-    "added_at": "2025-08-15T19:14:25.060Z"
+    "added_at": "2025-08-15T19:14:25.060Z",
+    "removed_at": "2025-08-15T22:59:18.241Z",
+    "duration_minutes": 224,
+    "duration_str": "3h 44m"
   },
   {
     "title": "Nearly 200 people killed in Pakistan in heavy rains, flash floods",
@@ -27969,7 +27969,10 @@
   },
   {
     "title": "Trump, Putin negotiate about Ukraine war behind closed doors in Alaska",
-    "added_at": "2025-08-15T21:55:40.967Z"
+    "added_at": "2025-08-15T21:55:40.967Z",
+    "removed_at": "2025-08-15T23:09:52.990Z",
+    "duration_minutes": 74,
+    "duration_str": "1h 14m"
   },
   {
     "title": "LIVE: Liverpool beat Bournemouth 4-2 – Premier League",
@@ -27981,5 +27984,23 @@
   {
     "title": "Liverpool avoid late Bournemouth scare to win Premier League opener",
     "added_at": "2025-08-15T22:14:44.636Z"
+  },
+  {
+    "title": "Trump, Putin speak about Ukraine war negotiations in Alaska",
+    "added_at": "2025-08-15T23:05:39.899Z",
+    "removed_at": "2025-08-15T23:33:13.168Z",
+    "duration_minutes": 27,
+    "duration_str": "27m"
+  },
+  {
+    "title": "Trump, Putin hold joint news conference but reveal no Ukraine ceasefire",
+    "added_at": "2025-08-15T23:33:13.168Z",
+    "removed_at": "2025-08-15T23:45:54.598Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "‘No deal until there’s a deal’: Trump and Putin reveal no Ukraine ceasefire",
+    "added_at": "2025-08-15T23:45:54.598Z"
   }
 ]
