@@ -25883,7 +25883,10 @@
   },
   {
     "title": "suisse:::Un scandale d’Etat nommé F-35",
-    "added_at": "2025-08-13T13:31:46.507Z"
+    "added_at": "2025-08-13T13:31:46.507Z",
+    "removed_at": "2025-08-15T03:48:59.744Z",
+    "duration_minutes": 2297,
+    "duration_str": "1d 14h 17m"
   },
   {
     "title": "economie:::En bourse, l’IA fait chuter les titres des éditeurs de logiciel",
@@ -25957,7 +25960,10 @@
   },
   {
     "title": "suisse:::Sur les PFAS, le parlement fait fausse route en voulant limiter les normes plutôt que les substances nocives",
-    "added_at": "2025-08-13T16:23:27.501Z"
+    "added_at": "2025-08-13T16:23:27.501Z",
+    "removed_at": "2025-08-15T04:01:41.029Z",
+    "duration_minutes": 2138,
+    "duration_str": "1d 11h 38m"
   },
   {
     "title": "suisse:::L’Alliance vaudoise mise sur l’UDC Kevin Grangier pour trouver un second souffle",
@@ -26232,14 +26238,32 @@
   },
   {
     "title": "sciences:::Un nouveau projet de texte à Genève pour un accord sur le plastique, les négociations prolongées",
-    "added_at": "2025-08-15T02:47:21.381Z"
+    "added_at": "2025-08-15T02:47:21.381Z",
+    "removed_at": "2025-08-15T04:41:48.352Z",
+    "duration_minutes": 114,
+    "duration_str": "1h 54m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Trump veut tenir Poutine en respect et impliquer l’Ukraine dans de futures discussions",
-    "added_at": "2025-08-15T03:02:18.534Z"
+    "added_at": "2025-08-15T03:02:18.534Z",
+    "removed_at": "2025-08-15T04:31:13.808Z",
+    "duration_minutes": 88,
+    "duration_str": "1h 28m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Un projet majeur de colonisation en Cisjordanie suscite des condamnations",
     "added_at": "2025-08-15T03:14:58.276Z"
+  },
+  {
+    "title": "monde:::Dans la tête de Vladimir Poutine, avant sa rencontre avec Donald Trump en Alaska",
+    "added_at": "2025-08-15T03:48:59.744Z"
+  },
+  {
+    "title": "monde:::Les sommets de Vladimir Poutine avec les présidents américains: de rares hauts et de fréquents bas",
+    "added_at": "2025-08-15T03:48:59.744Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Donald Trump veut tenir Poutine en respect et impliquer l’Ukraine dans de futures discussions",
+    "added_at": "2025-08-15T04:31:13.808Z"
   }
 ]
