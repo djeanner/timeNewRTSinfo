@@ -22891,7 +22891,10 @@
   },
   {
     "title": "suisse:::Un scandale d’Etat nommé F-35",
-    "added_at": "2025-08-09T07:57:17.366Z"
+    "added_at": "2025-08-09T07:57:17.366Z",
+    "removed_at": "2025-08-15T03:49:19.513Z",
+    "duration_minutes": 8392,
+    "duration_str": "5d 19h 52m"
   },
   {
     "title": "culture:::«Mercredi», de retour pour d’autres (délicieux) mauvais tours",
@@ -23944,7 +23947,10 @@
   },
   {
     "title": "sciences:::Pourquoi nous ne sommes pas égaux face à la chaleur",
-    "added_at": "2025-08-13T08:30:32.097Z"
+    "added_at": "2025-08-13T08:30:32.097Z",
+    "removed_at": "2025-08-15T04:47:39.701Z",
+    "duration_minutes": 2657,
+    "duration_str": "1d 20h 17m"
   },
   {
     "title": "suisse:::Un corps sans vie a été retrouvé à la Testa del Leone, au-dessus de Zermatt",
@@ -24102,7 +24108,10 @@
   },
   {
     "title": "suisse:::Sur les PFAS, le parlement fait fausse route en voulant limiter les normes plutôt que les substances nocives",
-    "added_at": "2025-08-13T16:24:22.549Z"
+    "added_at": "2025-08-13T16:24:22.549Z",
+    "removed_at": "2025-08-15T04:02:27.396Z",
+    "duration_minutes": 2138,
+    "duration_str": "1d 11h 38m"
   },
   {
     "title": "suisse:::L’Alliance vaudoise mise sur l’UDC Kevin Grangier pour trouver un second souffle",
@@ -24337,7 +24346,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Des raids israéliens font au moins 17 morts à Gaza",
-    "added_at": "2025-08-14T16:54:27.378Z"
+    "added_at": "2025-08-14T16:54:27.378Z",
+    "removed_at": "2025-08-15T03:15:26.382Z",
+    "duration_minutes": 620,
+    "duration_str": "10h 20m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Pas d’accord sur l’Ukraine sans Volodymyr Zelensky, annonce Donald Trump",
@@ -24374,10 +24386,36 @@
   },
   {
     "title": "sciences:::Un nouveau projet de texte à Genève pour un accord sur le plastique, les négociations prolongées",
-    "added_at": "2025-08-15T02:47:00.781Z"
+    "added_at": "2025-08-15T02:47:00.781Z",
+    "removed_at": "2025-08-15T04:41:59.876Z",
+    "duration_minutes": 114,
+    "duration_str": "1h 54m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Trump veut tenir Poutine en respect et impliquer l’Ukraine dans de futures discussions",
-    "added_at": "2025-08-15T03:02:03.624Z"
+    "added_at": "2025-08-15T03:02:03.624Z",
+    "removed_at": "2025-08-15T04:30:41.913Z",
+    "duration_minutes": 88,
+    "duration_str": "1h 28m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Un projet majeur de colonisation en Cisjordanie suscite des condamnations",
+    "added_at": "2025-08-15T03:15:26.382Z"
+  },
+  {
+    "title": "monde:::Dans la tête de Vladimir Poutine, avant sa rencontre avec Donald Trump en Alaska",
+    "added_at": "2025-08-15T03:49:19.513Z"
+  },
+  {
+    "title": "monde:::Les sommets de Vladimir Poutine avec les présidents américains: de rares hauts et de fréquents bas",
+    "added_at": "2025-08-15T03:49:19.513Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Donald Trump veut tenir Poutine en respect et impliquer l’Ukraine dans de futures discussions",
+    "added_at": "2025-08-15T04:30:41.913Z"
+  },
+  {
+    "title": "monde:::Echec des négociations pour un accord sur le plastique à Genève",
+    "added_at": "2025-08-15T04:47:39.701Z"
   }
 ]

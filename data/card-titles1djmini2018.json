@@ -31203,7 +31203,10 @@
   },
   {
     "title": "Les maraîchers obtiennent gain de cause face à Coop, qui renonce à exiger une baisse des prix",
-    "added_at": "2025-08-12T14:10:08.095Z"
+    "added_at": "2025-08-12T14:10:08.095Z",
+    "removed_at": "2025-08-15T04:13:44.341Z",
+    "duration_minutes": 3723,
+    "duration_str": "2d 14h 3m"
   },
   {
     "title": "Taylor Swift annonce la sortie prochaine de son douzième album \"The Life of a Showgirl\"",
@@ -31650,7 +31653,10 @@
   },
   {
     "title": "Les négociations sur le plastique prolongées jusqu'à vendredi à Genève",
-    "added_at": "2025-08-14T21:56:30.978Z"
+    "added_at": "2025-08-14T21:56:30.978Z",
+    "removed_at": "2025-08-15T04:58:57.612Z",
+    "duration_minutes": 422,
+    "duration_str": "7h 2m"
   },
   {
     "title": "Volodymyr Zelensky reçu en Grande-Bretagne avant la rencontre entre Donald Trump et Vladimir Poutine",
@@ -31659,5 +31665,27 @@
   {
     "title": "Deuxième soirée d'affrontements entre manifestants et partisans du pouvoir en Serbie",
     "added_at": "2025-08-15T01:31:37.205Z"
+  },
+  {
+    "title": "Produits hyperprotéinés: souvent peu utiles, mais à la mode en Suisse",
+    "added_at": "2025-08-15T04:13:44.341Z"
+  },
+  {
+    "title": "Echec des négociations pour forger un traité sur la pollution plastique",
+    "added_at": "2025-08-15T04:58:57.612Z",
+    "removed_at": "2025-08-15T05:04:37.189Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "Echec des négociations pour forger un traité sur la pollution plastique, selon un représentant",
+    "added_at": "2025-08-15T05:04:37.189Z",
+    "removed_at": "2025-08-15T05:17:49.129Z",
+    "duration_minutes": 13,
+    "duration_str": "13m"
+  },
+  {
+    "title": "Les négociations pour forger un traité sur la pollution plastique ont échoué, annoncent plusieurs représentants",
+    "added_at": "2025-08-15T05:17:49.129Z"
   }
 ]
