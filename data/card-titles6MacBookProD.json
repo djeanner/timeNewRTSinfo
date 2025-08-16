@@ -28110,7 +28110,10 @@
   },
   {
     "title": "Hundreds of flights grounded as Air Canada cabin staff go on strike",
-    "added_at": "2025-08-16T09:46:19.035Z"
+    "added_at": "2025-08-16T09:46:19.035Z",
+    "removed_at": "2025-08-16T15:45:20.417Z",
+    "duration_minutes": 359,
+    "duration_str": "5h 59m"
   },
   {
     "title": "Israeli attacks continue to target aid seekers across Gaza",
@@ -28135,5 +28138,9 @@
   {
     "title": "LIVE: Mallorca vs Barcelona – La Liga",
     "added_at": "2025-08-16T14:35:11.429Z"
+  },
+  {
+    "title": "‘Will I make it back alive?’: Gaza journalists fear targeting by Israel",
+    "added_at": "2025-08-16T15:45:20.417Z"
   }
 ]
