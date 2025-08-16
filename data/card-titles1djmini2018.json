@@ -26405,10 +26405,7 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T21:30:25.517Z",
-    "removed_at": "2025-08-16T16:23:58.322Z",
-    "duration_minutes": 31373,
-    "duration_str": "21d 18h 53m"
+    "added_at": "2025-07-25T21:30:25.517Z"
   },
   {
     "title": "La légende du catch Hulk Hogan est décédée à l'âge de 71 ans",
@@ -31569,7 +31566,10 @@
   },
   {
     "title": "L'essor de la climatisation: quelles conséquences pour le climat?",
-    "added_at": "2025-08-14T04:25:21.326Z"
+    "added_at": "2025-08-14T04:25:21.326Z",
+    "removed_at": "2025-08-16T20:09:03.367Z",
+    "duration_minutes": 3823,
+    "duration_str": "2d 15h 43m"
   },
   {
     "title": "Un ex-prêtre jugé au Tessin pour actes sexuels sur mineurs et personnes incapables de discernement",
@@ -32185,5 +32185,9 @@
   {
     "title": "A Savièse, les jeunesses valaisannes s'affrontent dans de grandes joutes sportives et aquatiques",
     "added_at": "2025-08-16T19:12:16.580Z"
+  },
+  {
+    "title": "Une manifestation pour l'accès à la psychothérapie réunit 5000 personnes à Berne",
+    "added_at": "2025-08-16T20:09:03.367Z"
   }
 ]
