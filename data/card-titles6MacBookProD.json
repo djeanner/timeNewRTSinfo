@@ -28046,7 +28046,10 @@
   },
   {
     "title": "Israeli forces kill at least 1,760 people seeking aid in Gaza since May: UN",
-    "added_at": "2025-08-16T05:12:34.187Z"
+    "added_at": "2025-08-16T05:12:34.187Z",
+    "removed_at": "2025-08-16T10:26:43.585Z",
+    "duration_minutes": 314,
+    "duration_str": "5h 14m"
   },
   {
     "title": "Trump, Putin end short summit without ceasefire deal in Ukraine",
@@ -28096,5 +28099,9 @@
   {
     "title": "Hundreds of flights grounded as Air Canada cabin staff go on strike",
     "added_at": "2025-08-16T09:46:19.035Z"
+  },
+  {
+    "title": "Israeli attacks continue to target aid seekers across Gaza",
+    "added_at": "2025-08-16T10:26:43.585Z"
   }
 ]
