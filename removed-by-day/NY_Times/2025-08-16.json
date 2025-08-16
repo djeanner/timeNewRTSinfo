@@ -89,8 +89,9 @@
   {
     "title": "Air Canada’s Flight Attendants Begin Strike, Crippling the Airline",
     "added_at": "2025-08-16T05:32:02.963Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-16T16:38:25.015Z",
+    "duration_minutes": 666,
+    "duration_str": "11h 6m"
   },
   {
     "title": "Trump Returns to Washington After Putin Talks Yield No Ukraine Deal",
@@ -266,6 +267,12 @@
   {
     "title": "Trump Backs Putin’s Plan for Ukraine to Cede Land to End Fighting",
     "added_at": "2025-08-16T15:38:57.612Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Air Canada Strike Grounds Hundreds of Flights, Stranding Passengers",
+    "added_at": "2025-08-16T16:38:25.015Z",
     "duration_minutes": 0,
     "duration_str": ""
   }

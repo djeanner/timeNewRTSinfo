@@ -3732,7 +3732,10 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T19:02:44.375Z"
+    "added_at": "2025-07-25T19:02:44.375Z",
+    "removed_at": "2025-08-16T16:23:33.333Z",
+    "duration_minutes": 31520,
+    "duration_str": "21d 21h 20m"
   },
   {
     "title": "En Israël, la population sensible au sort des Gazaouis refuse d'en rendre son armée responsable",
@@ -7486,7 +7489,10 @@
   },
   {
     "title": "La Banque nationale suisse propose de choisir parmi 12 modèles de nouveaux billets",
-    "added_at": "2025-08-13T13:23:18.878Z"
+    "added_at": "2025-08-13T13:23:18.878Z",
+    "removed_at": "2025-08-16T16:23:33.333Z",
+    "duration_minutes": 4500,
+    "duration_str": "3d 3h"
   },
   {
     "title": "L'EuroAirport de Bâle-Mulhouse ferme ses pistes à l'aviation légère",
@@ -8133,5 +8139,17 @@
   {
     "title": "L’IA pousse les recruteurs américains à revenir aux entretiens d'embauche en présentiel",
     "added_at": "2025-08-16T14:26:42.411Z"
+  },
+  {
+    "title": "La mousson a tué plus de 320 personnes en 48 heures au Pakistan",
+    "added_at": "2025-08-16T16:23:33.333Z"
+  },
+  {
+    "title": "Le fondateur du World Economic Forum blanchi des accusations portées contre lui",
+    "added_at": "2025-08-16T16:23:33.333Z"
+  },
+  {
+    "title": "Une opération a permis de sortir de l’eau l’avion biplace qui a coulé après un amerrissage forcé dans le Léman",
+    "added_at": "2025-08-16T16:23:33.333Z"
   }
 ]
