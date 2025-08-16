@@ -31250,7 +31250,10 @@
   },
   {
     "title": "Un petit avion s'est écrasé dans le Léman, près de Vevey",
-    "added_at": "2025-08-12T14:53:31.669Z"
+    "added_at": "2025-08-12T14:53:31.669Z",
+    "removed_at": "2025-08-16T07:23:27.456Z",
+    "duration_minutes": 5309,
+    "duration_str": "3d 16h 29m"
   },
   {
     "title": "L'armée russe réalise une percée rapide dans un secteur stratégique de l'est de l'Ukraine",
@@ -31498,7 +31501,10 @@
   },
   {
     "title": "SolarStratos signe le record du plus haut vol solaire, à 9521 mètres d'altitude",
-    "added_at": "2025-08-13T14:44:15.111Z"
+    "added_at": "2025-08-13T14:44:15.111Z",
+    "removed_at": "2025-08-16T06:09:51.026Z",
+    "duration_minutes": 3805,
+    "duration_str": "2d 15h 25m"
   },
   {
     "title": "Derrière la \"percée\" dans l'est de l'Ukraine, une offensive russe d'été qui porte peu à peu ses fruits",
@@ -31897,7 +31903,10 @@
   },
   {
     "title": "La mousson fait près de 200 morts en 24 heures au Pakistan",
-    "added_at": "2025-08-15T15:46:11.930Z"
+    "added_at": "2025-08-15T15:46:11.930Z",
+    "removed_at": "2025-08-16T06:23:00.765Z",
+    "duration_minutes": 876,
+    "duration_str": "14h 36m"
   },
   {
     "title": "Le point avec Olivier Dessibourg sur l’échec des négociations sur la pollution plastique",
@@ -31996,5 +32005,17 @@
   {
     "title": "Habiter au bord du vide ou la menace de voir sa maison engloutie par l'érosion du littoral",
     "added_at": "2025-08-16T04:48:35.207Z"
+  },
+  {
+    "title": "Drogues surpuissantes, loups et menaces de mort et produits hyperprotéinés en pagaille",
+    "added_at": "2025-08-16T06:09:51.026Z"
+  },
+  {
+    "title": "La mousson fait près de 320 morts en deux jours au Pakistan",
+    "added_at": "2025-08-16T06:23:00.765Z"
+  },
+  {
+    "title": "Des représentants du CICR et de l’ONU ont rencontré en secret le directeur de la Fondation humanitaire de Gaza pour calmer le jeu",
+    "added_at": "2025-08-16T07:23:27.456Z"
   }
 ]

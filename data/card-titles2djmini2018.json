@@ -24591,7 +24591,10 @@
   },
   {
     "title": "suisse:::Votations: le Conseil fédéral soutient l’abolition de la valeur locative",
-    "added_at": "2025-08-15T14:17:28.114Z"
+    "added_at": "2025-08-15T14:17:28.114Z",
+    "removed_at": "2025-08-16T06:07:56.493Z",
+    "duration_minutes": 950,
+    "duration_str": "15h 50m"
   },
   {
     "title": "sport:::La paix des braves: Urs Lehmann quitte Swiss-Ski pour rejoindre Johan Eliasch à la FIS",
@@ -24613,7 +24616,10 @@
   },
   {
     "title": "economie:::Echec d’un accord international: ces entreprises suisses qui s’emparent de la question du plastique",
-    "added_at": "2025-08-15T15:16:00.757Z"
+    "added_at": "2025-08-15T15:16:00.757Z",
+    "removed_at": "2025-08-16T05:43:22.872Z",
+    "duration_minutes": 867,
+    "duration_str": "14h 27m"
   },
   {
     "title": "economie:::L’économie suisse freine à cause des tarifs américains au deuxième trimestre",
@@ -24628,7 +24634,10 @@
   },
   {
     "title": "monde:::Le «maire Donald Trump» déclare la guerre à Washington",
-    "added_at": "2025-08-15T16:33:23.954Z"
+    "added_at": "2025-08-15T16:33:23.954Z",
+    "removed_at": "2025-08-16T05:26:23.603Z",
+    "duration_minutes": 772,
+    "duration_str": "12h 52m"
   },
   {
     "title": "monde:::Contre les avancées russes dans le Donbass, l’Ukraine colmate les brèches",
@@ -24761,10 +24770,28 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Après le sommet en Alaska, Donald Trump va «appeler Volodymyr Zelensky»",
-    "added_at": "2025-08-16T03:16:11.750Z"
+    "added_at": "2025-08-16T03:16:11.750Z",
+    "removed_at": "2025-08-16T07:06:28.168Z",
+    "duration_minutes": 230,
+    "duration_str": "3h 50m"
   },
   {
     "title": "monde:::Donald Trump, après sa rencontre avec Vladimir Poutine en Alaska: «Nous n’y sommes pas encore, mais nous y sommes presque»",
-    "added_at": "2025-08-16T03:18:05.274Z"
+    "added_at": "2025-08-16T03:18:05.274Z",
+    "removed_at": "2025-08-16T06:51:19.329Z",
+    "duration_minutes": 213,
+    "duration_str": "3h 33m"
+  },
+  {
+    "title": "suisse:::Le vice-président du Bundestag allemand suggère une adhésion de la Suisse à l’UE",
+    "added_at": "2025-08-16T06:07:56.493Z"
+  },
+  {
+    "title": "monde:::Donald Trump, après sa rencontre avec Vladimir Poutine en Alaska: «Nous n’y sommes pas encore»",
+    "added_at": "2025-08-16T06:51:19.329Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Après le sommet en Alaska, Donald Trump se tourne vers Volodymyr Zelensky et l’Europe",
+    "added_at": "2025-08-16T07:06:28.168Z"
   }
 ]
