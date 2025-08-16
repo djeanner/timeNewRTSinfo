@@ -55757,7 +55757,10 @@
   },
   {
     "title": "No Deal",
-    "added_at": "2025-08-16T10:52:07.866Z"
+    "added_at": "2025-08-16T10:52:07.866Z",
+    "removed_at": "2025-08-16T19:02:48.015Z",
+    "duration_minutes": 490,
+    "duration_str": "8h 10m"
   },
   {
     "title": "Trump Backs Putin’s Route for Talks, Dashing Ukraine’s Hopes for Swift Cease-Fire",
@@ -55775,7 +55778,10 @@
   },
   {
     "title": "After Alaska Summit, Europeans Worry Trump Will Pressure Ukraine",
-    "added_at": "2025-08-16T11:55:50.930Z"
+    "added_at": "2025-08-16T11:55:50.930Z",
+    "removed_at": "2025-08-16T19:40:54.939Z",
+    "duration_minutes": 465,
+    "duration_str": "7h 45m"
   },
   {
     "title": "Trump Administration Retreats From Attempt to Widen Control of D.C. Police",
@@ -55852,5 +55858,9 @@
   {
     "title": "West Virginia Governor Sending Troops to Bolster Guard’s Presence in D.C.",
     "added_at": "2025-08-16T18:41:28.725Z"
+  },
+  {
+    "title": "Trump Bows to Putin’s Approach on Ukraine: No Cease-Fire, Deadlines or Sanctions",
+    "added_at": "2025-08-16T19:40:54.939Z"
   }
 ]
