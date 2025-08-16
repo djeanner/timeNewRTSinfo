@@ -235,8 +235,9 @@
   {
     "title": "Maps show the key regions in Ukraine that Putin wants",
     "added_at": "2025-08-15T10:00:43.842Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-16T00:07:09.556Z",
+    "duration_minutes": 846,
+    "duration_str": "14h 6m"
   },
   {
     "title": "Kremlin negotiator discusses US-Russia relations",
@@ -518,14 +519,16 @@
   {
     "title": "Will Trump and Putin make a deal?",
     "added_at": "2025-08-15T18:34:07.308Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-15T23:52:23.467Z",
+    "duration_minutes": 318,
+    "duration_str": "5h 18m"
   },
   {
     "title": "Trump is open to doing business with Russia. That could be tricky",
     "added_at": "2025-08-15T18:41:44.861Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-16T00:09:17.763Z",
+    "duration_minutes": 328,
+    "duration_str": "5h 28m"
   },
   {
     "title": "Trump will no longer meet with Putin one-on-one, a White House official says. He will be joined by Marco Rubio and Steve Witkoff.",
@@ -611,6 +614,19 @@
   {
     "title": "Putin and Trump addressed reporters after a two-and-a-half hour meeting but left without taking questions",
     "added_at": "2025-08-15T23:16:13.032Z",
+    "removed_at": "2025-08-15T23:52:23.467Z",
+    "duration_minutes": 36,
+    "duration_str": "36m"
+  },
+  {
+    "title": "The two leaders addressed reporters after a two-and-a-half hour meeting but left without taking questions",
+    "added_at": "2025-08-15T23:52:23.467Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Putin makes confused expression as journalists ask about Ukraine",
+    "added_at": "2025-08-15T23:52:23.467Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
