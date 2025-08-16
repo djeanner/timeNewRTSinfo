@@ -7495,7 +7495,10 @@
   },
   {
     "title": "SolarStratos signe le record du plus haut vol solaire, à 9521 mètres d'altitude",
-    "added_at": "2025-08-13T14:43:56.423Z"
+    "added_at": "2025-08-13T14:43:56.423Z",
+    "removed_at": "2025-08-16T06:09:51.024Z",
+    "duration_minutes": 3805,
+    "duration_str": "2d 15h 25m"
   },
   {
     "title": "Derrière la \"percée\" dans l'est de l'Ukraine, une offensive russe d'été qui porte peu à peu ses fruits",
@@ -7901,7 +7904,10 @@
   },
   {
     "title": "La mousson fait près de 200 morts en 24 heures au Pakistan",
-    "added_at": "2025-08-15T15:46:22.483Z"
+    "added_at": "2025-08-15T15:46:22.483Z",
+    "removed_at": "2025-08-16T06:22:34.022Z",
+    "duration_minutes": 876,
+    "duration_str": "14h 36m"
   },
   {
     "title": "Le point avec Olivier Dessibourg sur l’échec des négociations sur la pollution plastique",
@@ -8000,5 +8006,13 @@
   {
     "title": "Habiter au bord du vide ou la menace de voir sa maison engloutie par l'érosion du littoral",
     "added_at": "2025-08-16T04:49:17.432Z"
+  },
+  {
+    "title": "Drogues surpuissantes, loups et menaces de mort et produits hyperprotéinés en pagaille",
+    "added_at": "2025-08-16T06:09:51.024Z"
+  },
+  {
+    "title": "La mousson fait près de 320 morts en deux jours au Pakistan",
+    "added_at": "2025-08-16T06:22:34.022Z"
   }
 ]
