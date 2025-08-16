@@ -3732,10 +3732,7 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T19:02:44.375Z",
-    "removed_at": "2025-08-14T19:03:07.692Z",
-    "duration_minutes": 28800,
-    "duration_str": "20d"
+    "added_at": "2025-07-25T19:02:44.375Z"
   },
   {
     "title": "En Israël, la population sensible au sort des Gazaouis refuse d'en rendre son armée responsable",
@@ -6809,7 +6806,10 @@
   },
   {
     "title": "Trump rencontrera Poutine le 15 août avec comme ambition la paix en Ukraine",
-    "added_at": "2025-08-12T13:48:35.340Z"
+    "added_at": "2025-08-12T13:48:35.340Z",
+    "removed_at": "2025-08-16T15:02:47.017Z",
+    "duration_minutes": 5834,
+    "duration_str": "4d 1h 14m"
   },
   {
     "title": "Droits de douane allégés au Liechtenstein, nos explications",
@@ -7532,7 +7532,10 @@
   },
   {
     "title": "Donald Trump veut réunir \"rapidement\" Vladimir Poutine et Volodymyr Zelensky",
-    "added_at": "2025-08-13T19:00:16.317Z"
+    "added_at": "2025-08-13T19:00:16.317Z",
+    "removed_at": "2025-08-16T14:26:42.411Z",
+    "duration_minutes": 4046,
+    "duration_str": "2d 19h 26m"
   },
   {
     "title": "La circulation différenciée introduite à Genève en raison d'un pic de pollution est levée",
@@ -8126,5 +8129,9 @@
   {
     "title": "Le Léopard d'or décerné au film japonais \"Tabi to Hibi\" du réalisateur Sho Miyake",
     "added_at": "2025-08-16T14:05:27.405Z"
+  },
+  {
+    "title": "L’IA pousse les recruteurs américains à revenir aux entretiens d'embauche en présentiel",
+    "added_at": "2025-08-16T14:26:42.411Z"
   }
 ]
