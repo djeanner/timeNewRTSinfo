@@ -55580,7 +55580,10 @@
   },
   {
     "title": "Three-Hour Talk Ended With No Promises and No Questions",
-    "added_at": "2025-08-16T03:35:00.315Z"
+    "added_at": "2025-08-16T03:35:00.315Z",
+    "removed_at": "2025-08-16T07:05:04.412Z",
+    "duration_minutes": 210,
+    "duration_str": "3h 30m"
   },
   {
     "title": "Trump Administration Backs Off New Attempt to Widen Control of D.C. Police",
@@ -55601,5 +55604,9 @@
   {
     "title": "Air Canada’s Flight Attendants Begin Strike, Crippling the Airline",
     "added_at": "2025-08-16T05:36:02.221Z"
+  },
+  {
+    "title": "Trump Returns to Washington After Putin Talks Yield No Ukraine Deal",
+    "added_at": "2025-08-16T07:05:04.412Z"
   }
 ]

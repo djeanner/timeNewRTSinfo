@@ -7240,7 +7240,10 @@
   },
   {
     "title": "Un petit avion s'est écrasé dans le Léman, près de Vevey",
-    "added_at": "2025-08-12T14:51:23.672Z"
+    "added_at": "2025-08-12T14:51:23.672Z",
+    "removed_at": "2025-08-16T07:24:07.324Z",
+    "duration_minutes": 5312,
+    "duration_str": "3d 16h 32m"
   },
   {
     "title": "L'armée russe réalise une percée rapide dans un secteur stratégique de l'est de l'Ukraine",
@@ -8014,5 +8017,9 @@
   {
     "title": "La mousson fait près de 320 morts en deux jours au Pakistan",
     "added_at": "2025-08-16T06:22:34.022Z"
+  },
+  {
+    "title": "Des représentants du CICR et de l’ONU ont rencontré en secret le directeur de la Fondation humanitaire de Gaza pour calmer le jeu",
+    "added_at": "2025-08-16T07:24:07.324Z"
   }
 ]
