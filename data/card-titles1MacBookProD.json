@@ -3732,10 +3732,7 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T19:02:44.375Z",
-    "removed_at": "2025-08-16T16:23:33.333Z",
-    "duration_minutes": 31520,
-    "duration_str": "21d 21h 20m"
+    "added_at": "2025-07-25T19:02:44.375Z"
   },
   {
     "title": "En Israël, la population sensible au sort des Gazaouis refuse d'en rendre son armée responsable",
@@ -7566,7 +7563,10 @@
   },
   {
     "title": "L'essor de la climatisation: quelles conséquences pour le climat?",
-    "added_at": "2025-08-14T04:25:27.974Z"
+    "added_at": "2025-08-14T04:25:27.974Z",
+    "removed_at": "2025-08-16T20:08:37.816Z",
+    "duration_minutes": 3823,
+    "duration_str": "2d 15h 43m"
   },
   {
     "title": "Un ex-prêtre jugé au Tessin pour actes sexuels sur mineurs et personnes incapables de discernement",
@@ -8182,5 +8182,9 @@
   {
     "title": "A Savièse, les jeunesses valaisannes s'affrontent dans de grandes joutes sportives et aquatiques",
     "added_at": "2025-08-16T19:13:22.868Z"
+  },
+  {
+    "title": "Une manifestation pour l'accès à la psychothérapie réunit 5000 personnes à Berne",
+    "added_at": "2025-08-16T20:08:37.816Z"
   }
 ]
