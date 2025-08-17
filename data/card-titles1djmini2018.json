@@ -26405,7 +26405,10 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T21:30:25.517Z"
+    "added_at": "2025-07-25T21:30:25.517Z",
+    "removed_at": "2025-08-17T04:17:50.733Z",
+    "duration_minutes": 32087,
+    "duration_str": "22d 6h 47m"
   },
   {
     "title": "La légende du catch Hulk Hogan est décédée à l'âge de 71 ans",
@@ -32217,5 +32220,9 @@
   {
     "title": "Cinquième soirée consécutive de violences lors de manifestations en Serbie",
     "added_at": "2025-08-17T01:46:56.582Z"
+  },
+  {
+    "title": "Pas d'annonce de cessez-le-feu après le sommet Trump-Poutine",
+    "added_at": "2025-08-17T04:17:50.733Z"
   }
 ]
