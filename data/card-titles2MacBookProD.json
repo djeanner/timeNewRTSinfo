@@ -26736,7 +26736,10 @@
   },
   {
     "title": "suisse:::L’achat du F-35 ou l’«art of the deal» du Conseil fédéral",
-    "added_at": "2025-08-16T09:14:25.451Z"
+    "added_at": "2025-08-16T09:14:25.451Z",
+    "removed_at": "2025-08-17T06:58:00.474Z",
+    "duration_minutes": 1303,
+    "duration_str": "21h 43m"
   },
   {
     "title": "monde:::A Kharkiv, des Ukrainiens «ni déçus, ni surpris» après les pourparlers en Alaska",
@@ -26788,10 +26791,7 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Les dirigeants français, britannique et allemand veulent réunir dimanche les pays alliés de Kiev",
-    "added_at": "2025-08-16T15:49:33.755Z",
-    "removed_at": "2025-08-17T06:07:00.545Z",
-    "duration_minutes": 857,
-    "duration_str": "14h 17m"
+    "added_at": "2025-08-16T15:49:33.755Z"
   },
   {
     "title": "sport:::Qui remporterait un Ironman entre Léon Marchand, Tadej Pogacar et Eliud Kipchoge? Une question bête posée sérieusement à une experte",
@@ -26819,5 +26819,9 @@
   {
     "title": "suisse:::Importer plus de viande de bœuf pour séduire les Américains? L’idée de l’UDC peine à convaincre",
     "added_at": "2025-08-17T06:07:00.545Z"
+  },
+  {
+    "title": "monde:::​​Comme un air de fin de guerre froide: la Russie se réjouit du «triple exploit» de Vladimir Poutine en Alaska",
+    "added_at": "2025-08-17T06:58:00.474Z"
   }
 ]
