@@ -7820,7 +7820,10 @@
   },
   {
     "title": "La route du Grand-Saint-Bernard coupée quelques heures après le débordement de deux torrents",
-    "added_at": "2025-08-14T19:20:14.117Z"
+    "added_at": "2025-08-14T19:20:14.117Z",
+    "removed_at": "2025-08-17T13:31:23.144Z",
+    "duration_minutes": 3971,
+    "duration_str": "2d 18h 11m"
   },
   {
     "title": "La Suisse ne pourra pas acheter les F-35 à un prix fixe: débat entre Clarence Chollet et Vincent Maitre",
@@ -7866,7 +7869,10 @@
   },
   {
     "title": "Deuxième soirée d'affrontements entre manifestants et partisans du pouvoir en Serbie",
-    "added_at": "2025-08-15T01:31:04.996Z"
+    "added_at": "2025-08-15T01:31:04.996Z",
+    "removed_at": "2025-08-17T13:48:20.755Z",
+    "duration_minutes": 3617,
+    "duration_str": "2d 12h 17m"
   },
   {
     "title": "Produits hyperprotéinés: souvent peu utiles, mais à la mode en Suisse",
@@ -8335,10 +8341,29 @@
   },
   {
     "title": "Élèves et profs romands ne devraient pas trop transpirer pour la rentrée",
-    "added_at": "2025-08-17T12:10:36.609Z"
+    "added_at": "2025-08-17T12:10:36.609Z",
+    "removed_at": "2025-08-17T13:08:05.434Z",
+    "duration_minutes": 57,
+    "duration_str": "57m"
   },
   {
     "title": "Des membres de l'Association vaudoise de tir sportif misent sur le Passeport Vacances pour se renouveler",
     "added_at": "2025-08-17T12:59:25.153Z"
+  },
+  {
+    "title": "L'alerte à la canicule levée juste avant la rentrée des élèves romands",
+    "added_at": "2025-08-17T13:08:05.434Z"
+  },
+  {
+    "title": "Le lac de gravière, populaire en France et en Allemagne, mais interdit de baignade en Suisse",
+    "added_at": "2025-08-17T13:31:23.144Z"
+  },
+  {
+    "title": "Une fréquentation record au Venoge Festival",
+    "added_at": "2025-08-17T13:31:23.144Z"
+  },
+  {
+    "title": "Important incendie dans une entreprise de récupération au Mont-sur-Lausanne",
+    "added_at": "2025-08-17T13:48:20.755Z"
   }
 ]

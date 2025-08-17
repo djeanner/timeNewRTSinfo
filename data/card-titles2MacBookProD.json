@@ -26805,7 +26805,10 @@
   },
   {
     "title": "suisse:::Nouveau décès d’un base-jumper sur les sommets suisses",
-    "added_at": "2025-08-16T15:49:33.755Z"
+    "added_at": "2025-08-16T15:49:33.755Z",
+    "removed_at": "2025-08-17T13:18:39.542Z",
+    "duration_minutes": 1289,
+    "duration_str": "21h 29m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Les dirigeants français, britannique et allemand veulent réunir dimanche les pays alliés de Kiev",
@@ -26923,10 +26926,25 @@
   },
   {
     "title": "sport:::Elise Chabbey, vainqueure du Tour de Romandie féminin, une éloge de la fête",
-    "added_at": "2025-08-17T12:59:25.195Z"
+    "added_at": "2025-08-17T12:59:25.195Z",
+    "removed_at": "2025-08-17T13:16:31.407Z",
+    "duration_minutes": 17,
+    "duration_str": "17m"
   },
   {
     "title": "culture:::Sens Unik et IAM au Venoge Festival: quelles leçons tirer du rap vieille école?",
     "added_at": "2025-08-17T12:59:25.195Z"
+  },
+  {
+    "title": "sport:::Elise Chabbey, vainqueure du Tour de Romandie féminin, un éloge de la fête",
+    "added_at": "2025-08-17T13:16:31.407Z"
+  },
+  {
+    "title": "culture:::Nabokov: Montreux et le rêve de la Russie perdue",
+    "added_at": "2025-08-17T13:18:39.542Z"
+  },
+  {
+    "title": "suisse:::En Haute-Engadine, l’aéroport le plus haut d’Europe sera agrandi",
+    "added_at": "2025-08-17T13:18:39.542Z"
   }
 ]
