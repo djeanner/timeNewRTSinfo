@@ -37,8 +37,9 @@
   {
     "title": "Hurricane Erin Brings Rain to Puerto Rico and Virgin Islands",
     "added_at": "2025-08-17T06:11:12.300Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-17T18:48:03.572Z",
+    "duration_minutes": 757,
+    "duration_str": "12h 37m"
   },
   {
     "title": "Ukrainians Fleeing Russia’s Attacks Say the Alaska Summit Was an Insult",
@@ -213,6 +214,12 @@
   {
     "title": "Gang-Related Attack Kills 3 in Shootout at a Brooklyn Bar",
     "added_at": "2025-08-17T17:27:19.744Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Pence Welcomes Trump’s D.C. Deployment of National Guard",
+    "added_at": "2025-08-17T18:07:48.642Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
