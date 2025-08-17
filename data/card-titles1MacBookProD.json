@@ -7791,7 +7791,10 @@
   },
   {
     "title": "Très fort risque de feux de forêt dans plusieurs régions du Valais",
-    "added_at": "2025-08-14T18:48:20.991Z"
+    "added_at": "2025-08-14T18:48:20.991Z",
+    "removed_at": "2025-08-17T15:21:56.750Z",
+    "duration_minutes": 4113,
+    "duration_str": "2d 20h 33m"
   },
   {
     "title": "Donald Trump a accueilli l'Arménie et l'Azerbaïdjan pour signer un accord de paix",
@@ -8372,5 +8375,9 @@
   {
     "title": "\"Code rouge\" ou quand un vol Londres-Pékin vire au thriller haletant",
     "added_at": "2025-08-17T14:28:45.385Z"
+  },
+  {
+    "title": "En Bolivie, une présidentielle décisive où la droite part grande favorite",
+    "added_at": "2025-08-17T15:21:56.750Z"
   }
 ]
