@@ -8077,7 +8077,10 @@
   },
   {
     "title": "La canicule devrait se terminer à la fin du week-end en Suisse romande, mais la sécheresse persiste",
-    "added_at": "2025-08-15T14:32:09.390Z"
+    "added_at": "2025-08-15T14:32:09.390Z",
+    "removed_at": "2025-08-18T13:33:12.869Z",
+    "duration_minutes": 4261,
+    "duration_str": "2d 23h 1m"
   },
   {
     "title": "La mousson fait près de 200 morts en 24 heures au Pakistan",
@@ -8517,7 +8520,10 @@
   },
   {
     "title": "Volodymyr Zelensky est arrivé à Washington pour sa rencontre avec Donald Trump et des dirigeants européens",
-    "added_at": "2025-08-18T05:02:09.687Z"
+    "added_at": "2025-08-18T05:02:09.687Z",
+    "removed_at": "2025-08-18T13:39:36.126Z",
+    "duration_minutes": 517,
+    "duration_str": "8h 37m"
   },
   {
     "title": "Sommet en Alaska: victoire symbolique pour Vladimir Poutine, échec pour Donald Trump? Interview de Paul Vallet",
@@ -8592,5 +8598,13 @@
   {
     "title": "Un pompier tué dans des incendies en Espagne, un autre au Portugal",
     "added_at": "2025-08-18T12:57:00.663Z"
+  },
+  {
+    "title": "Quand la droite radicale reboulonne la culture",
+    "added_at": "2025-08-18T13:33:12.869Z"
+  },
+  {
+    "title": "Avant sa rencontre avec Donald Trump, Volodymyr Zelensky exige que la Russie ne soit pas \"récompensée\" pour son invasion",
+    "added_at": "2025-08-18T13:39:36.126Z"
   }
 ]
