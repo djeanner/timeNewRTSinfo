@@ -27144,7 +27144,10 @@
   },
   {
     "title": "suisse:::Matthieu Wildhaber, l’affineur de bons mots",
-    "added_at": "2025-08-18T07:54:33.898Z"
+    "added_at": "2025-08-18T07:54:33.898Z",
+    "removed_at": "2025-08-18T16:51:29.302Z",
+    "duration_minutes": 536,
+    "duration_str": "8h 56m"
   },
   {
     "title": "cyber:::A Cologne, un secteur du jeu vidéo à la peine ouvre la Gamescom",
@@ -27207,7 +27210,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Hamas accepte la nouvelle proposition de cessez-le-feu",
-    "added_at": "2025-08-18T14:58:41.383Z"
+    "added_at": "2025-08-18T14:58:41.383Z",
+    "removed_at": "2025-08-18T17:08:33.151Z",
+    "duration_minutes": 129,
+    "duration_str": "2h 9m"
   },
   {
     "title": "suisse:::Dans l’affaire Beny Steinmetz, le Tribunal fédéral refuse l’accès à l’agenda du procureur genevois",
@@ -27242,6 +27248,35 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Les premiers officiels européens arrivent à la Maison-Blanche",
-    "added_at": "2025-08-18T16:32:12.111Z"
+    "added_at": "2025-08-18T16:32:12.111Z",
+    "removed_at": "2025-08-18T16:55:44.216Z",
+    "duration_minutes": 23,
+    "duration_str": "23m"
+  },
+  {
+    "title": "culture:::Série: «Everyone is fucking crazy», jeunesse en détresse",
+    "added_at": "2025-08-18T16:51:29.302Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Tous les officiels européens sont entrés dans la Maison-Blanche",
+    "added_at": "2025-08-18T16:55:44.216Z",
+    "removed_at": "2025-08-18T17:02:07.523Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Tous les officiels européens sont arrivés à la Maison-Blanche",
+    "added_at": "2025-08-18T17:02:07.523Z",
+    "removed_at": "2025-08-18T17:21:20.097Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le Hamas accepte une nouvelle proposition de cessez-le-feu",
+    "added_at": "2025-08-18T17:08:33.151Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Donald Trump a accueilli Volodymyr Zelensky à la Maison-Blanche",
+    "added_at": "2025-08-18T17:21:20.097Z"
   }
 ]
