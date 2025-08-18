@@ -25295,7 +25295,10 @@
   },
   {
     "title": "Couleurs d'été",
-    "added_at": "2025-07-22T13:38:22.215Z"
+    "added_at": "2025-07-22T13:38:22.215Z",
+    "removed_at": "2025-08-18T22:20:49.134Z",
+    "duration_minutes": 39402,
+    "duration_str": "27d 8h 42m"
   },
   {
     "title": "À Berne, Odessa Blanc raconte l'ambiance au Wankdorf",
@@ -31319,7 +31322,10 @@
   },
   {
     "title": "Les personnes vulnérables souffrent le plus des fortes chaleurs",
-    "added_at": "2025-08-12T22:19:24.313Z"
+    "added_at": "2025-08-12T22:19:24.313Z",
+    "removed_at": "2025-08-18T22:20:49.134Z",
+    "duration_minutes": 8641,
+    "duration_str": "6d 1m"
   },
   {
     "title": "La confusion autour de la taxation de l'or par les Etats-Unis s'est apaisée après un message de Donald Trump",
@@ -32344,7 +32350,10 @@
   },
   {
     "title": "Le fondateur du World Economic Forum blanchi des accusations portées contre lui",
-    "added_at": "2025-08-16T16:23:58.322Z"
+    "added_at": "2025-08-16T16:23:58.322Z",
+    "removed_at": "2025-08-18T22:20:49.134Z",
+    "duration_minutes": 3236,
+    "duration_str": "2d 5h 56m"
   },
   {
     "title": "Une opération a permis de sortir de l’eau l’avion biplace qui a coulé après un amerrissage forcé dans le Léman",
@@ -32578,7 +32587,10 @@
   },
   {
     "title": "Réunis en assemblée, les délégués de l’UDC affirment leur opposition aux accords Suisse-UE et à l’identité électronique",
-    "added_at": "2025-08-18T06:54:08.677Z"
+    "added_at": "2025-08-18T06:54:08.677Z",
+    "removed_at": "2025-08-18T21:01:38.423Z",
+    "duration_minutes": 847,
+    "duration_str": "14h 7m"
   },
   {
     "title": "La construction d'un tunnel de délestage pour contrer les inondations prend de passion les Zurichois",
@@ -32704,11 +32716,17 @@
   },
   {
     "title": "Après un tête-à-tête avec Volodymyr Zelensky, Donald Trump reçoit les dirigeants européens",
-    "added_at": "2025-08-18T18:59:59.029Z"
+    "added_at": "2025-08-18T18:59:59.029Z",
+    "removed_at": "2025-08-18T21:48:48.676Z",
+    "duration_minutes": 168,
+    "duration_str": "2h 48m"
   },
   {
     "title": "Exclusion des élèves frontaliers à Genève : deux nouveaux recours déposés",
-    "added_at": "2025-08-18T19:17:28.827Z"
+    "added_at": "2025-08-18T19:17:28.827Z",
+    "removed_at": "2025-08-18T22:20:49.134Z",
+    "duration_minutes": 183,
+    "duration_str": "3h 3m"
   },
   {
     "title": "La générosité méconnue de la Suisse envers le Liechtenstein",
@@ -32717,5 +32735,50 @@
   {
     "title": "A St-Moritz, on fait passer du froid dans la montagne pour stabiliser le terrain",
     "added_at": "2025-08-18T19:51:35.825Z"
+  },
+  {
+    "title": "La revue de presse alémanique",
+    "added_at": "2025-08-18T21:01:38.423Z",
+    "removed_at": "2025-08-18T22:20:49.134Z",
+    "duration_minutes": 79,
+    "duration_str": "1h 19m"
+  },
+  {
+    "title": "Donald Trump a interrompu sa réunion avec les Européens pour s'entretenir avec Vladimir Poutine",
+    "added_at": "2025-08-18T21:35:34.308Z",
+    "removed_at": "2025-08-18T22:35:53.905Z",
+    "duration_minutes": 60,
+    "duration_str": "1h"
+  },
+  {
+    "title": "Rentrée scolaire sans téléphone portable dans plusieurs cantons",
+    "added_at": "2025-08-18T22:20:49.134Z"
+  },
+  {
+    "title": "Rencontre Zelensky-Trump à Washington : les Européens en renfort",
+    "added_at": "2025-08-18T22:20:49.134Z"
+  },
+  {
+    "title": "Une rentrée scolaire vaudoise dans la chaleur et sous la pression syndicale",
+    "added_at": "2025-08-18T22:20:49.134Z"
+  },
+  {
+    "title": "Christophe Darbellay revient sur l’interdiction des portables à l’école",
+    "added_at": "2025-08-18T22:20:49.134Z"
+  },
+  {
+    "title": "Les droits de douane toujours au cœur des discussions au Conseil fédéral",
+    "added_at": "2025-08-18T22:20:49.134Z"
+  },
+  {
+    "title": "Donald Trump annonce \"des préparatifs\" pour une rencontre Poutine-Zelensky et évoque \"des garanties de sécurité\" pour l’Ukraine",
+    "added_at": "2025-08-18T22:35:53.905Z",
+    "removed_at": "2025-08-18T22:41:32.578Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "Donald Trump annonce des préparatifs pour une rencontre Poutine-Zelensky et évoque des garanties de sécurité pour l’Ukraine",
+    "added_at": "2025-08-18T22:37:47.657Z"
   }
 ]
