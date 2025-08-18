@@ -29378,7 +29378,10 @@
   },
   {
     "title": "Israeli military bombs power plant near Yemeni capital Sanaa",
-    "added_at": "2025-08-17T09:17:39.800Z"
+    "added_at": "2025-08-17T09:17:39.800Z",
+    "removed_at": "2025-08-18T06:14:26.041Z",
+    "duration_minutes": 1256,
+    "duration_str": "20h 56m"
   },
   {
     "title": "Israelis hold protest to end Gaza war and ‘bring back the hostages’",
@@ -29425,10 +29428,7 @@
   },
   {
     "title": "Israel intensifies Gaza City attacks, forcing starving Palestinians to flee",
-    "added_at": "2025-08-17T15:14:22.617Z",
-    "removed_at": "2025-08-17T23:04:22.978Z",
-    "duration_minutes": 470,
-    "duration_str": "7h 50m"
+    "added_at": "2025-08-17T15:14:22.617Z"
   },
   {
     "title": "Kuwait arrests 67 over illegal alcohol production after 23 deaths",
@@ -29483,7 +29483,10 @@
   },
   {
     "title": "Polls close in Bolivia as 20 years of leftist rule expected to end",
-    "added_at": "2025-08-17T20:37:18.379Z"
+    "added_at": "2025-08-17T20:37:18.379Z",
+    "removed_at": "2025-08-18T04:23:12.769Z",
+    "duration_minutes": 465,
+    "duration_str": "7h 45m"
   },
   {
     "title": "Iraq starts mass grave excavation from ISIL (ISIS) carnage south of Mosul",
@@ -29510,5 +29513,13 @@
   {
     "title": "Trump says Ukraine’s Zelenskyy could end war ‘almost immediately’",
     "added_at": "2025-08-18T04:15:31.395Z"
+  },
+  {
+    "title": "Bolivia to hold presidential run-off between centrist and right-winger",
+    "added_at": "2025-08-18T04:42:05.834Z"
+  },
+  {
+    "title": "Israel kills nearly 60 Palestinians as attacks on Gaza City intensify",
+    "added_at": "2025-08-18T06:14:26.041Z"
   }
 ]

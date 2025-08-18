@@ -26405,7 +26405,10 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T21:30:25.517Z"
+    "added_at": "2025-07-25T21:30:25.517Z",
+    "removed_at": "2025-08-18T04:17:32.110Z",
+    "duration_minutes": 33527,
+    "duration_str": "23d 6h 47m"
   },
   {
     "title": "La légende du catch Hulk Hogan est décédée à l'âge de 71 ans",
@@ -32022,11 +32025,17 @@
   },
   {
     "title": "Coup d'envoi pour Rock The Lakes, le rendez-vous estival des fans de rock et de metal",
-    "added_at": "2025-08-15T13:45:20.285Z"
+    "added_at": "2025-08-15T13:45:20.285Z",
+    "removed_at": "2025-08-18T06:16:19.075Z",
+    "duration_minutes": 3870,
+    "duration_str": "2d 16h 30m"
   },
   {
     "title": "Un nombre record d'incidents ont été répertoriés dans l'aviation et les transports en 2024",
-    "added_at": "2025-08-15T14:02:18.944Z"
+    "added_at": "2025-08-15T14:02:18.944Z",
+    "removed_at": "2025-08-18T05:02:47.781Z",
+    "duration_minutes": 3780,
+    "duration_str": "2d 15h"
   },
   {
     "title": "Pourquoi 34°C sont-ils agréables dans l'eau, mais pas dans l'air?",
@@ -32147,7 +32156,10 @@
   },
   {
     "title": "Donald Trump s’est envolé vers sa rencontre avec Vladimir Poutine en Alaska",
-    "added_at": "2025-08-16T04:16:34.110Z"
+    "added_at": "2025-08-16T04:16:34.110Z",
+    "removed_at": "2025-08-18T06:03:06.491Z",
+    "duration_minutes": 2986,
+    "duration_str": "2d 1h 46m"
   },
   {
     "title": "Habiter au bord du vide ou la menace de voir sa maison engloutie par l'érosion du littoral",
@@ -32166,7 +32178,10 @@
   },
   {
     "title": "Des représentants du CICR et de l’ONU ont rencontré en secret le directeur de la Fondation humanitaire de Gaza pour calmer le jeu",
-    "added_at": "2025-08-16T07:23:27.456Z"
+    "added_at": "2025-08-16T07:23:27.456Z",
+    "removed_at": "2025-08-18T06:03:06.491Z",
+    "duration_minutes": 2799,
+    "duration_str": "1d 22h 39m"
   },
   {
     "title": "A l'alpage, des drones volent au secours de la faune",
@@ -32462,5 +32477,25 @@
   {
     "title": "Donald Trump exclut que l'Ukraine récupère la Crimée ou entre dans l'Otan",
     "added_at": "2025-08-18T03:26:31.455Z"
+  },
+  {
+    "title": "Victoire d'Elise Chabbey au Tour de Romandie féminin",
+    "added_at": "2025-08-18T04:17:32.110Z"
+  },
+  {
+    "title": "Volodymyr Zelensky est arrivé à Washington pour sa rencontre avec Donald Trump et des dirigeants européens",
+    "added_at": "2025-08-18T05:02:47.781Z"
+  },
+  {
+    "title": "Sommet en Alaska: victoire symbolique pour Vladimir Poutine, échec pour Donald Trump? Interview de Paul Vallet",
+    "added_at": "2025-08-18T05:02:47.781Z"
+  },
+  {
+    "title": "La Suisse est-elle confrontée à une crise de la santé mentale? Interview de Pierre-Alain Fridez",
+    "added_at": "2025-08-18T06:03:06.491Z"
+  },
+  {
+    "title": "La possible baisse de prix d'un antibiotique pédiatrique fâche la pharma",
+    "added_at": "2025-08-18T06:16:19.075Z"
   }
 ]
