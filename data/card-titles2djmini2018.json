@@ -24440,7 +24440,10 @@
   },
   {
     "title": "monde:::Dans la tête de Vladimir Poutine, avant sa rencontre avec Donald Trump en Alaska",
-    "added_at": "2025-08-15T03:49:19.513Z"
+    "added_at": "2025-08-15T03:49:19.513Z",
+    "removed_at": "2025-08-17T23:36:35.789Z",
+    "duration_minutes": 4067,
+    "duration_str": "2d 19h 47m"
   },
   {
     "title": "monde:::Les sommets de Vladimir Poutine avec les présidents américains: de rares hauts et de fréquents bas",
@@ -25041,7 +25044,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Journée de grève et de manifestations en Israël pour demander la fin de l’offensive à Gaza et un accord pour la libération des otages",
-    "added_at": "2025-08-17T09:32:55.890Z"
+    "added_at": "2025-08-17T09:32:55.890Z",
+    "removed_at": "2025-08-18T00:33:10.537Z",
+    "duration_minutes": 900,
+    "duration_str": "15h"
   },
   {
     "title": "economie:::Les Suisses pourraient voir leur salaire augmenter de 1,3% l’an prochain",
@@ -25175,5 +25181,20 @@
   {
     "title": "monde:::Guerre en Ukraine – Notre suivi de la semaine du 11 au 17 août 2025",
     "added_at": "2025-08-17T22:24:48.975Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Des frappes russes font des blessés avant les discussions à la Maison-Blanche",
+    "added_at": "2025-08-17T23:36:35.789Z",
+    "removed_at": "2025-08-18T01:50:19.835Z",
+    "duration_minutes": 133,
+    "duration_str": "2h 13m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Notre suivi de la semaine du 11 août",
+    "added_at": "2025-08-18T00:33:10.537Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Avant les discussions à la Maison-Blanche, Donald Trump exclut que Kiev récupère la Crimée ou entre dans l'Otan",
+    "added_at": "2025-08-18T01:50:19.835Z"
   }
 ]
