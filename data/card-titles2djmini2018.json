@@ -24295,7 +24295,10 @@
   },
   {
     "title": "suisse:::Découvrez «Le Temps» avec tous nos abonnements annuels à –30% et bénéficiez d’une information fiable et indépendante",
-    "added_at": "2025-08-14T09:47:56.820Z"
+    "added_at": "2025-08-14T09:47:56.820Z",
+    "removed_at": "2025-08-18T09:27:04.962Z",
+    "duration_minutes": 5739,
+    "duration_str": "3d 23h 39m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Le Kremlin donne des détails sur le sommet Trump-Poutine en Alaska",
@@ -24870,10 +24873,7 @@
   },
   {
     "title": "suisse:::Une rentrée scolaire sans téléphone portable: recette miracle ou mesure imparfaite?",
-    "added_at": "2025-08-16T08:01:18.556Z",
-    "removed_at": "2025-08-16T19:40:43.683Z",
-    "duration_minutes": 699,
-    "duration_str": "11h 39m"
+    "added_at": "2025-08-16T08:01:18.556Z"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Après le sommet en Alaska, Volodymyr Zelensky doit rencontrer Donald Trump lundi à Washington pour «mettre fin aux tueries»",
@@ -25156,7 +25156,10 @@
   },
   {
     "title": "sport:::Un dimanche de surprises en Coupe de Suisse de football",
-    "added_at": "2025-08-17T16:01:33.835Z"
+    "added_at": "2025-08-17T16:01:33.835Z",
+    "removed_at": "2025-08-18T11:16:30.600Z",
+    "duration_minutes": 1154,
+    "duration_str": "19h 14m"
   },
   {
     "title": "monde:::Tous à Washington: avant de faire face à Donald Trump, les Européens font bloc derrière l'Ukraine",
@@ -25167,7 +25170,10 @@
   },
   {
     "title": "sport:::De gros appétits financiers derrière l’exclusion de cinq équipes au Tour de Romandie",
-    "added_at": "2025-08-17T16:05:19.441Z"
+    "added_at": "2025-08-17T16:05:19.441Z",
+    "removed_at": "2025-08-18T10:23:39.255Z",
+    "duration_minutes": 1098,
+    "duration_str": "18h 18m"
   },
   {
     "title": "monde:::Tous à Washington: avant de faire face à Donald Trump, les Européens font bloc derrière l’Ukraine",
@@ -25225,7 +25231,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Avant les discussions à la Maison-Blanche, Donald Trump exclut que Kiev récupère la Crimée ou entre dans l'Otan",
-    "added_at": "2025-08-18T01:50:19.835Z"
+    "added_at": "2025-08-18T01:50:19.835Z",
+    "removed_at": "2025-08-18T09:25:14.960Z",
+    "duration_minutes": 454,
+    "duration_str": "7h 34m"
   },
   {
     "title": "monde:::Moyen-Orient – Notre suivi de la semaine du 11 août",
@@ -25236,7 +25245,10 @@
   },
   {
     "title": "monde:::Alexander Stubb, nouveau «meilleur ami» de Donald Trump et atout des Européens à Washington",
-    "added_at": "2025-08-18T03:30:16.995Z"
+    "added_at": "2025-08-18T03:30:16.995Z",
+    "removed_at": "2025-08-18T09:21:25.494Z",
+    "duration_minutes": 351,
+    "duration_str": "5h 51m"
   },
   {
     "title": "economie:::Investir dans l’armement, entre performance et éthique",
@@ -25248,11 +25260,17 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Impressionnante manifestation à Tel-Aviv dimanche soir",
-    "added_at": "2025-08-18T06:46:39.702Z"
+    "added_at": "2025-08-18T06:46:39.702Z",
+    "removed_at": "2025-08-18T09:53:33.605Z",
+    "duration_minutes": 186,
+    "duration_str": "3h 6m"
   },
   {
     "title": "monde:::Après la «victoire» de Vladimir Poutine en Alaska, Volodymyr Zelensky et ses alliés contre-attaquent",
-    "added_at": "2025-08-18T06:48:29.399Z"
+    "added_at": "2025-08-18T06:48:29.399Z",
+    "removed_at": "2025-08-18T09:21:25.494Z",
+    "duration_minutes": 152,
+    "duration_str": "2h 32m"
   },
   {
     "title": "suisse:::Matthieu Wildhaber, l’affineur de bons mots",
@@ -25273,5 +25291,25 @@
   {
     "title": "economie:::La Chine succombe aux guerres de l’opium, inaugurant son siècle d’humiliation",
     "added_at": "2025-08-18T08:51:09.501Z"
+  },
+  {
+    "title": "suisse:::Une chute de l’apprentissage, une ascension du gymnase? Ce que racontent vraiment les chiffres de la formation",
+    "added_at": "2025-08-18T09:21:25.494Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – A la Maison-Blanche, Volodymyr Zelensky sera-t-il aussi face au provocateur JD Vance?",
+    "added_at": "2025-08-18T09:25:14.960Z"
+  },
+  {
+    "title": "sport:::Dès sa première édition, et avant même de s’appeler ainsi, Athletissima était déjà Athletissima",
+    "added_at": "2025-08-18T09:27:04.962Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le Hamas a reçu une nouvelle proposition de cessez-le-feu",
+    "added_at": "2025-08-18T09:53:33.605Z"
+  },
+  {
+    "title": "monde:::En Serbie, face aux manifestants, le pouvoir joue la carte de la violence et de la répression",
+    "added_at": "2025-08-18T10:23:39.255Z"
   }
 ]
