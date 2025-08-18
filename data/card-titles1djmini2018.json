@@ -26405,10 +26405,7 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T21:30:25.517Z",
-    "removed_at": "2025-08-17T19:03:00.063Z",
-    "duration_minutes": 32972,
-    "duration_str": "22d 21h 32m"
+    "added_at": "2025-07-25T21:30:25.517Z"
   },
   {
     "title": "La légende du catch Hulk Hogan est décédée à l'âge de 71 ans",
@@ -31986,11 +31983,17 @@
   },
   {
     "title": "L'ATE dépose une pétition contre les restrictions du 30km/h en localité",
-    "added_at": "2025-08-15T12:24:11.429Z"
+    "added_at": "2025-08-15T12:24:11.429Z",
+    "removed_at": "2025-08-18T02:24:21.284Z",
+    "duration_minutes": 3720,
+    "duration_str": "2d 14h"
   },
   {
     "title": "Face au manque d’infrastructures pour les jeunes, Berne mise sur des terrains de foot mobiles",
-    "added_at": "2025-08-15T12:29:51.331Z"
+    "added_at": "2025-08-15T12:29:51.331Z",
+    "removed_at": "2025-08-18T03:26:31.455Z",
+    "duration_minutes": 3776,
+    "duration_str": "2d 14h 56m"
   },
   {
     "title": "Le Conseil fédéral ne pourra pas garder la liste de ses vins secrète",
@@ -32042,7 +32045,10 @@
   },
   {
     "title": "Le point avec Olivier Dessibourg sur l’échec des négociations sur la pollution plastique",
-    "added_at": "2025-08-15T16:22:05.862Z"
+    "added_at": "2025-08-15T16:22:05.862Z",
+    "removed_at": "2025-08-18T04:04:11.788Z",
+    "duration_minutes": 3582,
+    "duration_str": "2d 11h 42m"
   },
   {
     "title": "Le Vaudois Noam Yaron abandonne sa traversée à la nage entre la Corse et Monaco, tout près du but",
@@ -32448,5 +32454,13 @@
   {
     "title": "Immense manifestation à Tel-Aviv pour libérer les otages et \"la fin de la guerre à Gaza\"",
     "added_at": "2025-08-17T21:01:46.965Z"
+  },
+  {
+    "title": "Deux candidats de droite s'affronteront au second tour de la présidentielle en Bolivie",
+    "added_at": "2025-08-18T02:24:21.284Z"
+  },
+  {
+    "title": "Donald Trump exclut que l'Ukraine récupère la Crimée ou entre dans l'Otan",
+    "added_at": "2025-08-18T03:26:31.455Z"
   }
 ]
