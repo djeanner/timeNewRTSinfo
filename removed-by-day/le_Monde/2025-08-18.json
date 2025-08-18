@@ -127,8 +127,9 @@
   {
     "title": "Air Canada annonce suspendre la reprise de ses vols, la grève se poursuit",
     "added_at": "2025-08-18T05:02:10.100Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-18T12:01:41.017Z",
+    "duration_minutes": 420,
+    "duration_str": "7h"
   },
   {
     "title": "De Royan à Annecy et de Biarritz à Bonifacio, ces villes qui disent stop aux nouvelles résidences secondaires",
@@ -334,8 +335,9 @@
   {
     "title": "En Bolivie, la droite met fin à vingt ans de domination de la gauche aux élections",
     "added_at": "2025-08-18T11:02:09.835Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-18T11:48:58.451Z",
+    "duration_minutes": 47,
+    "duration_str": "47m"
   },
   {
     "title": "Guerre en Ukraine : Zelensky dénonce une frappe russe « cynique » sur Kharkiv, à quelques heures de sa rencontre avec Trump",
@@ -346,6 +348,12 @@
   {
     "title": "Taxe de séjour : le combat d’Oléron face aux géants Leboncoin, Airbnb et Booking",
     "added_at": "2025-08-18T11:04:14.664Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "A Verbier, en Suisse, l’interdiction des résidences secondaires a freiné la bétonnisation, « mais les prix ont pris l’ascenseur »",
+    "added_at": "2025-08-18T11:42:36.977Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
