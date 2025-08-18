@@ -50,8 +50,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Journée de grève et de manifestations en Israël pour demander la fin de l’offensive à Gaza et un accord pour la libération des otages",
     "added_at": "2025-08-17T09:32:55.890Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-18T00:32:21.860Z",
+    "duration_minutes": 899,
+    "duration_str": "14h 59m"
   },
   {
     "title": "economie:::Les Suisses pourraient voir leur salaire augmenter de 1,3% l’an prochain",
@@ -84,7 +85,7 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Emmanuel Macron et Ursula von der Leyen se rendront à Washington pour assister à la réunion entre Donald Trump et Volodymyr Zelensky",
     "added_at": "2025-08-17T10:29:27.352Z",
-    "removed_at": "2025-08-17T22:24:54.943Z",
+    "removed_at": "2025-08-17T22:24:48.975Z",
     "duration_minutes": 715,
     "duration_str": "11h 55m"
   },
@@ -210,7 +211,13 @@
   },
   {
     "title": "monde:::Guerre en Ukraine – Notre suivi de la semaine du 11 au 17 août 2025",
-    "added_at": "2025-08-17T22:24:54.943Z",
+    "added_at": "2025-08-17T22:24:48.975Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Des frappes russes font des blessés avant les discussions à la Maison-Blanche",
+    "added_at": "2025-08-17T23:37:14.253Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
