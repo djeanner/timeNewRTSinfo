@@ -25102,7 +25102,10 @@
   },
   {
     "title": "economie:::La nuit durant laquelle l’Etat français a failli déposer le bilan",
-    "added_at": "2025-08-17T11:42:58.099Z"
+    "added_at": "2025-08-17T11:42:58.099Z",
+    "removed_at": "2025-08-18T12:35:55.908Z",
+    "duration_minutes": 1492,
+    "duration_str": "1d 52m"
   },
   {
     "title": "monde:::​​Comme un air de fin de Guerre froide: la Russie se réjouit du «triple exploit» de Vladimir Poutine en Alaska",
@@ -25127,7 +25130,10 @@
   },
   {
     "title": "sport:::Elise Chabbey, vainqueure du Tour de Romandie féminin, un éloge de la fête",
-    "added_at": "2025-08-17T13:15:25.972Z"
+    "added_at": "2025-08-17T13:15:25.972Z",
+    "removed_at": "2025-08-18T11:56:18.939Z",
+    "duration_minutes": 1360,
+    "duration_str": "22h 40m"
   },
   {
     "title": "culture:::Nabokov: Montreux et le rêve de la Russie perdue",
@@ -25278,7 +25284,10 @@
   },
   {
     "title": "cyber:::A Cologne, un secteur du jeu vidéo à la peine ouvre la Gamescom",
-    "added_at": "2025-08-18T08:36:00.073Z"
+    "added_at": "2025-08-18T08:36:00.073Z",
+    "removed_at": "2025-08-18T13:17:30.569Z",
+    "duration_minutes": 281,
+    "duration_str": "4h 41m"
   },
   {
     "title": "economie:::Comment les poulets allemands ont permis aux camionnettes américaines d’accélérer plein pot",
@@ -25298,7 +25307,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – A la Maison-Blanche, Volodymyr Zelensky sera-t-il aussi face au provocateur JD Vance?",
-    "added_at": "2025-08-18T09:25:14.960Z"
+    "added_at": "2025-08-18T09:25:14.960Z",
+    "removed_at": "2025-08-18T12:03:55.326Z",
+    "duration_minutes": 158,
+    "duration_str": "2h 38m"
   },
   {
     "title": "sport:::Dès sa première édition, et avant même de s’appeler ainsi, Athletissima était déjà Athletissima",
@@ -25311,5 +25323,17 @@
   {
     "title": "monde:::En Serbie, face aux manifestants, le pouvoir joue la carte de la violence et de la répression",
     "added_at": "2025-08-18T10:23:39.255Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Avant leur rencontre, Donald Trump et Volodymyr Zelensky affichent leurs divergences sur les réseaux sociaux",
+    "added_at": "2025-08-18T12:03:55.326Z"
+  },
+  {
+    "title": "cyber:::En Californie, l’intelligence artificielle a déjà révolutionné la consommation",
+    "added_at": "2025-08-18T12:35:55.908Z"
+  },
+  {
+    "title": "economie:::Le fournisseur de puces électroniques U-Blox visé par une offre de rachat de plus de 1 milliard de francs",
+    "added_at": "2025-08-18T13:17:30.569Z"
   }
 ]
