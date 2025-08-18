@@ -8033,7 +8033,10 @@
   },
   {
     "title": "Un nombre record d'incidents ont été répertoriés dans l'aviation et les transports en 2024",
-    "added_at": "2025-08-15T14:02:20.081Z"
+    "added_at": "2025-08-15T14:02:20.081Z",
+    "removed_at": "2025-08-18T05:02:09.687Z",
+    "duration_minutes": 3779,
+    "duration_str": "2d 14h 59m"
   },
   {
     "title": "Pourquoi 34°C sont-ils agréables dans l'eau, mais pas dans l'air?",
@@ -8206,7 +8209,10 @@
   },
   {
     "title": "Le Conseil fédéral défend l’abolition de l'impôt sur la valeur locative",
-    "added_at": "2025-08-16T10:22:31.001Z"
+    "added_at": "2025-08-16T10:22:31.001Z",
+    "removed_at": "2025-08-18T05:02:09.687Z",
+    "duration_minutes": 2559,
+    "duration_str": "1d 18h 39m"
   },
   {
     "title": "\"Tout va de travers, en Suisse et à l'étranger\", estime Marcel Dettling",
@@ -8466,5 +8472,13 @@
   {
     "title": "Victoire d'Elise Chabbey au Tour de Romandie féminin",
     "added_at": "2025-08-18T04:17:32.651Z"
+  },
+  {
+    "title": "Volodymyr Zelensky est arrivé à Washington pour sa rencontre avec Donald Trump et des dirigeants européens",
+    "added_at": "2025-08-18T05:02:09.687Z"
+  },
+  {
+    "title": "Sommet en Alaska: victoire symbolique pour Vladimir Poutine, échec pour Donald Trump? Interview de Paul Vallet",
+    "added_at": "2025-08-18T05:02:09.687Z"
   }
 ]
