@@ -8298,7 +8298,10 @@
   },
   {
     "title": "La mousson fait près de 350 morts en deux jours au Pakistan",
-    "added_at": "2025-08-16T11:28:18.263Z"
+    "added_at": "2025-08-16T11:28:18.263Z",
+    "removed_at": "2025-08-18T19:51:29.218Z",
+    "duration_minutes": 3383,
+    "duration_str": "2d 8h 23m"
   },
   {
     "title": "Les plages vaudoises souffrent toujours du littering nocturne",
@@ -8707,5 +8710,9 @@
   {
     "title": "La générosité méconnue de la Suisse envers le Liechtenstein",
     "added_at": "2025-08-18T19:30:06.600Z"
+  },
+  {
+    "title": "A St-Moritz, on fait passer du froid dans la montagne pour stabiliser le terrain",
+    "added_at": "2025-08-18T19:51:29.218Z"
   }
 ]
