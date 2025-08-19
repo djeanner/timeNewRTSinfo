@@ -8571,7 +8571,10 @@
   },
   {
     "title": "L'alerte à la canicule levée juste avant la rentrée des élèves romands",
-    "added_at": "2025-08-17T13:08:05.434Z"
+    "added_at": "2025-08-17T13:08:05.434Z",
+    "removed_at": "2025-08-19T19:23:03.990Z",
+    "duration_minutes": 3254,
+    "duration_str": "2d 6h 14m"
   },
   {
     "title": "Le lac de gravière, populaire en France et en Allemagne, mais interdit de baignade en Suisse",
@@ -8597,11 +8600,17 @@
   },
   {
     "title": "En Bolivie, une présidentielle décisive où la droite part grande favorite",
-    "added_at": "2025-08-17T15:21:56.750Z"
+    "added_at": "2025-08-17T15:21:56.750Z",
+    "removed_at": "2025-08-19T19:29:27.418Z",
+    "duration_minutes": 3127,
+    "duration_str": "2d 4h 7m"
   },
   {
     "title": "Il se donne sept ans pour inventorier toutes les libellules du Valais",
-    "added_at": "2025-08-17T16:08:43.245Z"
+    "added_at": "2025-08-17T16:08:43.245Z",
+    "removed_at": "2025-08-19T19:33:46.006Z",
+    "duration_minutes": 3085,
+    "duration_str": "2d 3h 25m"
   },
   {
     "title": "Tsahal va \"se concentrer\" sur Gaza-ville, le Hamas dénonce un \"crime de guerre majeur\"",
@@ -8919,7 +8928,10 @@
   },
   {
     "title": "Le procès d'un comédien d'improvisation pour abus sexuels débute ce lundi à Vevey (VD)",
-    "added_at": "2025-08-19T06:34:27.793Z"
+    "added_at": "2025-08-19T06:34:27.793Z",
+    "removed_at": "2025-08-19T19:21:00.071Z",
+    "duration_minutes": 766,
+    "duration_str": "12h 46m"
   },
   {
     "title": "Des manifestations demandant la libération des otages et la fin de la guerre ont eu lieu en Israël: interview de Ilan Greilsammer",
@@ -9084,6 +9096,40 @@
   },
   {
     "title": "Les voitures électriques, souvent moins chères à assurer",
-    "added_at": "2025-08-19T17:23:44.979Z"
+    "added_at": "2025-08-19T17:23:44.979Z",
+    "removed_at": "2025-08-19T19:25:12.498Z",
+    "duration_minutes": 121,
+    "duration_str": "2h 1m"
+  },
+  {
+    "title": "Enquête ouverte en France après la mort en direct d'un streamer",
+    "added_at": "2025-08-19T18:53:17.552Z"
+  },
+  {
+    "title": "L’Italie concurrence la Suisse pour accueillir Volodymyr Zelensky et Vladimir Poutine: interview d’Antonio Tajani",
+    "added_at": "2025-08-19T19:21:00.071Z"
+  },
+  {
+    "title": "Le Grand Conseil vaudois demande de faire marche arrière sur les coupes budgétaires dans la santé",
+    "added_at": "2025-08-19T19:23:03.990Z"
+  },
+  {
+    "title": "Les voitures électriques sont souvent moins chères à assurer",
+    "added_at": "2025-08-19T19:25:12.498Z"
+  },
+  {
+    "title": "Swatch accusée de racisme en raison d'une campagne publicitaire",
+    "added_at": "2025-08-19T19:29:27.418Z",
+    "removed_at": "2025-08-19T19:42:12.871Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "La mobilisation anti-corruption s'intensifie en Serbie avec des actes de vandalisme",
+    "added_at": "2025-08-19T19:33:46.006Z"
+  },
+  {
+    "title": "Le groupe Swatch accusé de racisme en raison d'une campagne publicitaire",
+    "added_at": "2025-08-19T19:42:12.871Z"
   }
 ]
