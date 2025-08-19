@@ -32408,7 +32408,10 @@
   },
   {
     "title": "Inquiétudes grandissantes face à l'essor du crack dans un quartier de Zurich",
-    "added_at": "2025-08-16T18:58:58.725Z"
+    "added_at": "2025-08-16T18:58:58.725Z",
+    "removed_at": "2025-08-19T11:22:11.892Z",
+    "duration_minutes": 3863,
+    "duration_str": "2d 16h 23m"
   },
   {
     "title": "A Savièse, les jeunesses valaisannes s'affrontent dans de grandes joutes sportives et aquatiques",
@@ -32419,7 +32422,10 @@
   },
   {
     "title": "Une manifestation pour l'accès à la psychothérapie réunit 5000 personnes à Berne",
-    "added_at": "2025-08-16T20:09:03.367Z"
+    "added_at": "2025-08-16T20:09:03.367Z",
+    "removed_at": "2025-08-19T11:12:49.333Z",
+    "duration_minutes": 3783,
+    "duration_str": "2d 15h 3m"
   },
   {
     "title": "Comment la rencontre Trump-Poutine a été perçue en Russie",
@@ -32477,11 +32483,17 @@
   },
   {
     "title": "La route du col du Grimsel, touchée par une coulée de boue, a rouvert",
-    "added_at": "2025-08-17T07:28:23.126Z"
+    "added_at": "2025-08-17T07:28:23.126Z",
+    "removed_at": "2025-08-19T12:18:47.930Z",
+    "duration_minutes": 3170,
+    "duration_str": "2d 4h 50m"
   },
   {
     "title": "Et si l'absence d'accord entre Trump et Poutine était une chance pour les Européens?",
-    "added_at": "2025-08-17T07:41:31.950Z"
+    "added_at": "2025-08-17T07:41:31.950Z",
+    "removed_at": "2025-08-19T12:30:06.850Z",
+    "duration_minutes": 3168,
+    "duration_str": "2d 4h 48m"
   },
   {
     "title": "Escalade, trail: quand la nature n’est plus seulement un \"terrain de jeu\"",
@@ -32795,7 +32807,10 @@
   },
   {
     "title": "La revue de presse alémanique",
-    "added_at": "2025-08-18T21:01:38.423Z"
+    "added_at": "2025-08-18T21:01:38.423Z",
+    "removed_at": "2025-08-19T12:01:50.239Z",
+    "duration_minutes": 900,
+    "duration_str": "15h"
   },
   {
     "title": "Donald Trump a interrompu sa réunion avec les Européens pour s'entretenir avec Vladimir Poutine",
@@ -32871,10 +32886,7 @@
   },
   {
     "title": "Le procès d'un comédien d'improvisation pour abus sexuels débute ce lundi à Vevey (VD)",
-    "added_at": "2025-08-19T06:33:27.154Z",
-    "removed_at": "2025-08-19T06:37:11.696Z",
-    "duration_minutes": 3,
-    "duration_str": "3m"
+    "added_at": "2025-08-19T06:33:27.154Z"
   },
   {
     "title": "Des manifestations demandant la libération des otages et la fin de la guerre ont eu lieu en Israël: interview de Ilan Greilsammer",
@@ -32885,7 +32897,10 @@
   },
   {
     "title": "Emmanuel Macron plaide pour une rencontre Poutine-Zelensky à Genève",
-    "added_at": "2025-08-19T07:01:42.929Z"
+    "added_at": "2025-08-19T07:01:42.929Z",
+    "removed_at": "2025-08-19T11:14:39.293Z",
+    "duration_minutes": 252,
+    "duration_str": "4h 12m"
   },
   {
     "title": "L'achat de nouveaux drones pour l'armée suisse menace de virer au fiasco",
@@ -32955,5 +32970,39 @@
   {
     "title": "Les huit aéroports régionaux menacés par les économies planifiées par la Confédération",
     "added_at": "2025-08-19T10:55:42.398Z"
+  },
+  {
+    "title": "Faire venir des Papous à Fribourg, un vrai défi pour les Rencontres de folklore internationales",
+    "added_at": "2025-08-19T11:12:49.333Z"
+  },
+  {
+    "title": "La Suisse \"prête\" à accueillir un sommet sur l'Ukraine et garantir \"l'immunité\" à Vladimir Poutine, annonce Ignazio Cassis",
+    "added_at": "2025-08-19T11:14:39.293Z",
+    "removed_at": "2025-08-19T11:18:28.048Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "La Suisse offrira \"l'immunité\" à Vladimir Poutine s'il vient pour un sommet, annonce Ignazio Cassis",
+    "added_at": "2025-08-19T11:18:28.048Z",
+    "removed_at": "2025-08-19T11:22:11.892Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "La Suisse offrira \"l'immunité\" à Vladimir Poutine s'il vient pour une conférence de paix, annonce Ignazio Cassis",
+    "added_at": "2025-08-19T11:22:11.892Z"
+  },
+  {
+    "title": "Travail.Suisse exige une moyenne de 2% de salaire en plus en 2026",
+    "added_at": "2025-08-19T11:22:11.892Z"
+  },
+  {
+    "title": "Un algorithme créé par l'EPFL traque la propagande sur Telegram",
+    "added_at": "2025-08-19T12:18:47.930Z"
+  },
+  {
+    "title": "Le Valais interdit tout feu en plein air à cause du risque d'incendie",
+    "added_at": "2025-08-19T12:30:06.850Z"
   }
 ]
