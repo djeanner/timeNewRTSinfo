@@ -22888,7 +22888,10 @@
   },
   {
     "title": "suisse:::Un scandale d’Etat nommé F-35",
-    "added_at": "2025-08-09T07:57:17.366Z"
+    "added_at": "2025-08-09T07:57:17.366Z",
+    "removed_at": "2025-08-19T18:27:12.525Z",
+    "duration_minutes": 15029,
+    "duration_str": "10d 10h 29m"
   },
   {
     "title": "culture:::«Mercredi», de retour pour d’autres (délicieux) mauvais tours",
@@ -24905,7 +24908,10 @@
   },
   {
     "title": "suisse:::L’achat du F-35 ou l’«art of the deal» du Conseil fédéral",
-    "added_at": "2025-08-16T09:14:58.068Z"
+    "added_at": "2025-08-16T09:14:58.068Z",
+    "removed_at": "2025-08-19T18:27:12.525Z",
+    "duration_minutes": 4872,
+    "duration_str": "3d 9h 12m"
   },
   {
     "title": "monde:::A Kharkiv, des Ukrainiens «ni déçus, ni surpris» après les pourparlers en Alaska",
@@ -25582,11 +25588,17 @@
   },
   {
     "title": "monde:::Donald Trump annonce «commencer à organiser une rencontre» entre Vladimir Poutine et Volodymyr Zelensky",
-    "added_at": "2025-08-19T03:05:47.268Z"
+    "added_at": "2025-08-19T03:05:47.268Z",
+    "removed_at": "2025-08-19T19:10:40.791Z",
+    "duration_minutes": 964,
+    "duration_str": "16h 4m"
   },
   {
     "title": "economie:::Les meilleures actions européennes et américaines depuis un an sont militaires, électriques et financières",
-    "added_at": "2025-08-19T03:58:40.549Z"
+    "added_at": "2025-08-19T03:58:40.549Z",
+    "removed_at": "2025-08-19T19:10:40.791Z",
+    "duration_minutes": 912,
+    "duration_str": "15h 12m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Un sommet Poutine-Zelensky est en vue",
@@ -25761,7 +25773,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Les chefs d’état-major des armées de l’Otan se réuniront demain",
-    "added_at": "2025-08-19T17:03:59.638Z"
+    "added_at": "2025-08-19T17:03:59.638Z",
+    "removed_at": "2025-08-19T19:39:01.542Z",
+    "duration_minutes": 155,
+    "duration_str": "2h 35m"
   },
   {
     "title": "suisse:::A l’unisson, les partis vaudois tirent la sonnette d’alarme concernant les coupes dans la santé",
@@ -25770,5 +25785,25 @@
   {
     "title": "suisse:::Procès du coach d’improvisation à Vevey: «Je n’ai jamais réalisé que je pouvais faire souffrir»",
     "added_at": "2025-08-19T18:00:38.984Z"
+  },
+  {
+    "title": "monde:::Aide à l’armée de Kiev ou force européenne sur le terrain: quelles garanties de sécurité à l’Ukraine?",
+    "added_at": "2025-08-19T18:27:12.525Z"
+  },
+  {
+    "title": "culture:::Golshifteh Farahani à propos d’«Alpha»: «Ce film m’a cassée en miettes…»",
+    "added_at": "2025-08-19T19:10:40.791Z"
+  },
+  {
+    "title": "culture:::Dans «Alpha» de Julia Ducournau, tout un monde contaminé",
+    "added_at": "2025-08-19T19:10:40.791Z"
+  },
+  {
+    "title": "culture:::«Watership Down», de Richard Adams, rebondit en BD: une réussite en demi-teinte",
+    "added_at": "2025-08-19T19:31:31.210Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Les chefs d’état-major des armées de l’OTAN se réuniront demain",
+    "added_at": "2025-08-19T19:39:01.542Z"
   }
 ]
