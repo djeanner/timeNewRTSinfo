@@ -46,9 +46,8 @@
   {
     "title": "Le procès d'un comédien d'improvisation pour abus sexuels débute ce lundi à Vevey (VD)",
     "added_at": "2025-08-19T06:33:27.154Z",
-    "removed_at": "2025-08-19T06:36:32.315Z",
-    "duration_minutes": 3,
-    "duration_str": "3m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Des manifestations demandant la libération des otages et la fin de la guerre ont eu lieu en Israël: interview de Ilan Greilsammer",
@@ -60,8 +59,9 @@
   {
     "title": "Emmanuel Macron plaide pour une rencontre Poutine-Zelensky à Genève",
     "added_at": "2025-08-19T07:01:42.929Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-19T11:15:29.169Z",
+    "duration_minutes": 254,
+    "duration_str": "4h 14m"
   },
   {
     "title": "L'achat de nouveaux drones pour l'armée suisse menace de virer au fiasco",
@@ -89,10 +89,10 @@
   },
   {
     "title": "Record historique, près de 6500 faons ont été sauvés en 2025",
-    "added_at": "2025-08-19T09:24:43.844Z",
+    "added_at": "2025-08-19T09:23:16.609Z",
     "removed_at": "2025-08-19T09:41:40.168Z",
-    "duration_minutes": 17,
-    "duration_str": "17m"
+    "duration_minutes": 18,
+    "duration_str": "18m"
   },
   {
     "title": "Nouvelle fronde des milieux économiques vaudois contre les impôts, l'efficience du canton critiquée",
@@ -102,7 +102,7 @@
   },
   {
     "title": "Les décollages nocturnes en baisse à l’aéroport de Genève, mais peu de vols pénalisés",
-    "added_at": "2025-08-19T09:28:57.455Z",
+    "added_at": "2025-08-19T09:28:56.116Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -115,16 +115,16 @@
   {
     "title": "La Confédération veut étudier la hausse des cas d’autisme chez les enfants",
     "added_at": "2025-08-19T09:41:40.168Z",
-    "removed_at": "2025-08-19T09:54:25.419Z",
-    "duration_minutes": 13,
-    "duration_str": "13m"
+    "removed_at": "2025-08-19T09:53:28.202Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
   },
   {
     "title": "La Confédération veut étudier la hausse des cas d'autisme chez les enfants",
-    "added_at": "2025-08-19T09:54:25.419Z",
+    "added_at": "2025-08-19T09:53:28.202Z",
     "removed_at": "2025-08-19T09:56:33.549Z",
-    "duration_minutes": 2,
-    "duration_str": "2m"
+    "duration_minutes": 3,
+    "duration_str": "3m"
   },
   {
     "title": "La Confédération va étudier la hausse des cas d'autisme chez les enfants",
@@ -134,25 +134,57 @@
   },
   {
     "title": "L'Hôpital fribourgeois fonctionne avec 71 postes en moins par rapport à juillet 2024",
-    "added_at": "2025-08-19T10:02:57.220Z",
+    "added_at": "2025-08-19T10:02:50.930Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Un collectif de parents dépose deux recours contre l’exclusion des élèves frontaliers à Genève: interview d’Arwen Conod",
-    "added_at": "2025-08-19T10:24:20.713Z",
+    "added_at": "2025-08-19T10:23:36.945Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Une large alliance plaide pour une e-ID \"publique, sûre et facultative\"",
-    "added_at": "2025-08-19T10:43:26.702Z",
+    "added_at": "2025-08-19T10:42:28.218Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Les huit aéroports régionaux menacés par les économies planifiées par la Confédération",
     "added_at": "2025-08-19T10:54:02.736Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Faire venir des Papous à Fribourg, un vrai défi pour les Rencontres de folklore internationales",
+    "added_at": "2025-08-19T11:13:19.066Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "La Suisse \"prête\" à accueillir un sommet sur l'Ukraine et garantir \"l'immunité\" à Vladimir Poutine, annonce Ignazio Cassis",
+    "added_at": "2025-08-19T11:15:29.169Z",
+    "removed_at": "2025-08-19T11:19:41.854Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "La Suisse offrira \"l'immunité\" à Vladimir Poutine s'il vient pour un sommet, annonce Ignazio Cassis",
+    "added_at": "2025-08-19T11:19:41.854Z",
+    "removed_at": "2025-08-19T11:21:51.789Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "La Suisse offrira \"l'immunité\" à Vladimir Poutine s'il vient pour une conférence de paix, annonce Ignazio Cassis",
+    "added_at": "2025-08-19T11:21:51.789Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Travail.Suisse exige une moyenne de 2% de salaire en plus en 2026",
+    "added_at": "2025-08-19T11:23:55.792Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
