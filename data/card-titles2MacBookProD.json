@@ -27312,7 +27312,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Hamas accepte une nouvelle proposition de cessez-le-feu",
-    "added_at": "2025-08-18T17:08:33.151Z"
+    "added_at": "2025-08-18T17:08:33.151Z",
+    "removed_at": "2025-08-19T14:03:47.064Z",
+    "duration_minutes": 1255,
+    "duration_str": "20h 55m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Donald Trump a accueilli Volodymyr Zelensky à la Maison-Blanche",
@@ -27473,7 +27476,10 @@
   },
   {
     "title": "suisse:::Les aéroports régionaux contestent les coupes fédérales",
-    "added_at": "2025-08-19T10:26:24.986Z"
+    "added_at": "2025-08-19T10:26:24.986Z",
+    "removed_at": "2025-08-19T14:14:27.540Z",
+    "duration_minutes": 228,
+    "duration_str": "3h 48m"
   },
   {
     "title": "suisse:::L'accès au service civil est restreint par la commission des Etats, après celle du National",
@@ -27488,7 +27494,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Suisse offrirait l’immunité à Vladimir Poutine s’il vient pour une conférence",
-    "added_at": "2025-08-19T11:28:12.885Z"
+    "added_at": "2025-08-19T11:28:12.885Z",
+    "removed_at": "2025-08-19T14:20:49.175Z",
+    "duration_minutes": 172,
+    "duration_str": "2h 52m"
   },
   {
     "title": "monde:::Dilma Rousseff, tortures et résilience",
@@ -27509,5 +27518,13 @@
   {
     "title": "culture:::Hugo Pratt, toujours un peu plus loin dans le souvenir",
     "added_at": "2025-08-19T13:27:34.004Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Israël continue de demander la libération «de tous les otages»",
+    "added_at": "2025-08-19T14:03:47.064Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Vladimir Poutine aurait proposé de rencontrer Volodymyr Zelensky à Moscou",
+    "added_at": "2025-08-19T14:20:49.175Z"
   }
 ]
