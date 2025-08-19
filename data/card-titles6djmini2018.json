@@ -29804,7 +29804,10 @@
   },
   {
     "title": "Right-wing US network Newsmax to pay $67m over false 2020 election claims",
-    "added_at": "2025-08-18T18:12:24.857Z"
+    "added_at": "2025-08-18T18:12:24.857Z",
+    "removed_at": "2025-08-19T03:00:09.019Z",
+    "duration_minutes": 527,
+    "duration_str": "8h 47m"
   },
   {
     "title": "Israeli attacks, forced starvation have killed 62,000 Palestinians in Gaza",
@@ -29857,5 +29860,16 @@
   {
     "title": "Trump says arrangements underway for Putin, Zelenskyy summit",
     "added_at": "2025-08-19T01:25:43.163Z"
+  },
+  {
+    "title": "Trump says arrangements under way for Putin, Zelenskyy summit",
+    "added_at": "2025-08-19T01:46:39.250Z",
+    "removed_at": "2025-08-19T03:09:31.567Z",
+    "duration_minutes": 82,
+    "duration_str": "1h 22m"
+  },
+  {
+    "title": "Trump proposes Putin-Zelenskyy summit in push to end Ukraine war",
+    "added_at": "2025-08-19T03:00:09.019Z"
   }
 ]
