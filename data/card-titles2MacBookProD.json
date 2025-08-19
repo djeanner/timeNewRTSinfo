@@ -26144,10 +26144,7 @@
   },
   {
     "title": "suisse:::Découvrez «Le Temps» avec tous nos abonnements annuels à –30% et bénéficiez d’une information fiable et indépendante",
-    "added_at": "2025-08-14T09:49:35.942Z",
-    "removed_at": "2025-08-18T09:28:24.125Z",
-    "duration_minutes": 5738,
-    "duration_str": "3d 23h 38m"
+    "added_at": "2025-08-14T09:49:35.942Z"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Le Kremlin donne des détails sur le sommet Trump-Poutine en Alaska",
@@ -27226,7 +27223,10 @@
   },
   {
     "title": "suisse:::Dans l’affaire Beny Steinmetz, le Tribunal fédéral refuse l’accès à l’agenda du procureur genevois",
-    "added_at": "2025-08-18T15:17:51.346Z"
+    "added_at": "2025-08-18T15:17:51.346Z",
+    "removed_at": "2025-08-19T03:58:58.764Z",
+    "duration_minutes": 761,
+    "duration_str": "12h 41m"
   },
   {
     "title": "suisse:::Elèves frontaliers exclus de l’école genevoise: des parents saisissent la justice",
@@ -27317,7 +27317,10 @@
   },
   {
     "title": "culture:::Chappell Roan, l’irrésistible revanche",
-    "added_at": "2025-08-18T18:46:36.955Z"
+    "added_at": "2025-08-18T18:46:36.955Z",
+    "removed_at": "2025-08-19T04:18:05.044Z",
+    "duration_minutes": 571,
+    "duration_str": "9h 31m"
   },
   {
     "title": "cyber:::L’intelligence artificielle de Meta, utilisée par un milliard de personnes, devient toxique pour les enfants",
@@ -27371,10 +27374,21 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Un sommet Poutine-Zelensky en vue après la réunion des Européens autour de Donald Trump",
-    "added_at": "2025-08-19T01:27:49.736Z"
+    "added_at": "2025-08-19T01:27:49.736Z",
+    "removed_at": "2025-08-19T04:22:19.269Z",
+    "duration_minutes": 174,
+    "duration_str": "2h 54m"
   },
   {
     "title": "monde:::Donald Trump annonce «commencer à organiser une rencontre» entre Vladimir Poutine et Volodymyr Zelensky",
     "added_at": "2025-08-19T03:05:43.476Z"
+  },
+  {
+    "title": "economie:::Les meilleures actions européennes et américaines depuis un an sont militaires, électriques et financières",
+    "added_at": "2025-08-19T03:58:58.764Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Un sommet Poutine-Zelensky est en vue",
+    "added_at": "2025-08-19T04:22:19.269Z"
   }
 ]
