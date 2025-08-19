@@ -8480,11 +8480,17 @@
   },
   {
     "title": "La route du col du Grimsel, touchée par une coulée de boue, a rouvert",
-    "added_at": "2025-08-17T07:27:46.626Z"
+    "added_at": "2025-08-17T07:27:46.626Z",
+    "removed_at": "2025-08-19T12:19:25.931Z",
+    "duration_minutes": 3171,
+    "duration_str": "2d 4h 51m"
   },
   {
     "title": "Et si l'absence d'accord entre Trump et Poutine était une chance pour les Européens?",
-    "added_at": "2025-08-17T07:42:38.127Z"
+    "added_at": "2025-08-17T07:42:38.127Z",
+    "removed_at": "2025-08-19T12:30:01.357Z",
+    "duration_minutes": 3167,
+    "duration_str": "2d 4h 47m"
   },
   {
     "title": "Escalade, trail: quand la nature n’est plus seulement un \"terrain de jeu\"",
@@ -8987,5 +8993,13 @@
   {
     "title": "Travail.Suisse exige une moyenne de 2% de salaire en plus en 2026",
     "added_at": "2025-08-19T11:23:55.792Z"
+  },
+  {
+    "title": "Un algorithme créé par l'EPFL traque la propagande sur Telegram",
+    "added_at": "2025-08-19T12:19:25.931Z"
+  },
+  {
+    "title": "Le Valais interdit tout feu en plein air à cause du risque d'incendie",
+    "added_at": "2025-08-19T12:30:01.357Z"
   }
 ]
