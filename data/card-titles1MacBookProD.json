@@ -8686,7 +8686,10 @@
   },
   {
     "title": "Donald Trump exclut que l'Ukraine récupère la Crimée ou entre dans l'Otan",
-    "added_at": "2025-08-18T03:26:38.000Z"
+    "added_at": "2025-08-18T03:26:38.000Z",
+    "removed_at": "2025-08-20T10:10:45.472Z",
+    "duration_minutes": 3284,
+    "duration_str": "2d 6h 44m"
   },
   {
     "title": "Victoire d'Elise Chabbey au Tour de Romandie féminin",
@@ -9129,9 +9132,9 @@
   {
     "title": "À Vevey, procès d’un professeur d’improvisation vaudois accusé de viol et d’abus sur mineurs",
     "added_at": "2025-08-19T16:22:08.411Z",
-    "removed_at": "2025-08-20T01:16:09.589Z",
-    "duration_minutes": 534,
-    "duration_str": "8h 54m"
+    "removed_at": "2025-08-20T10:19:17.148Z",
+    "duration_minutes": 1077,
+    "duration_str": "17h 57m"
   },
   {
     "title": "Faut-il plus de transparence sur la durabilité des entreprises suisses? Débat entre Diego Taboada et Vincent Kaufmann",
@@ -9260,5 +9263,16 @@
   {
     "title": "À Vernier, le défi de repartir en campagne sans argent ni motivation",
     "added_at": "2025-08-20T10:02:10.949Z"
+  },
+  {
+    "title": "Au-dessus de Gaza, d'où provient une aide symbolique mais très insuffisante",
+    "added_at": "2025-08-20T10:10:45.472Z",
+    "removed_at": "2025-08-20T10:53:20.119Z",
+    "duration_minutes": 42,
+    "duration_str": "42m"
+  },
+  {
+    "title": "Dans le ciel de Gaza, au cœur d'une opération de largage humanitaire",
+    "added_at": "2025-08-20T10:53:20.119Z"
   }
 ]
