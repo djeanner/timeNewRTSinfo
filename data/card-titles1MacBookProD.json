@@ -8299,7 +8299,10 @@
   },
   {
     "title": "Le Conseil fédéral défend l’abolition de l'impôt sur la valeur locative",
-    "added_at": "2025-08-16T10:22:31.001Z"
+    "added_at": "2025-08-16T10:22:31.001Z",
+    "removed_at": "2025-08-20T06:01:09.319Z",
+    "duration_minutes": 5498,
+    "duration_str": "3d 19h 38m"
   },
   {
     "title": "\"Tout va de travers, en Suisse et à l'étranger\", estime Marcel Dettling",
@@ -8528,7 +8531,10 @@
   },
   {
     "title": "Plusieurs dirigeants européens vont accompagner Volodymyr Zelensky à Washington",
-    "added_at": "2025-08-17T11:11:07.892Z"
+    "added_at": "2025-08-17T11:11:07.892Z",
+    "removed_at": "2025-08-20T05:27:15.615Z",
+    "duration_minutes": 3976,
+    "duration_str": "2d 18h 16m"
   },
   {
     "title": "Elise Chabbey remporte la 4e édition!",
@@ -9194,10 +9200,7 @@
   },
   {
     "title": "Plusieurs adeptes de wingsuit et de base-jump victimes d’accidents mortels: interview de Géraldine Fasnacht",
-    "added_at": "2025-08-20T01:16:09.589Z",
-    "removed_at": "2025-08-20T05:01:39.899Z",
-    "duration_minutes": 225,
-    "duration_str": "3h 45m"
+    "added_at": "2025-08-20T01:16:09.589Z"
   },
   {
     "title": "Trois personnes retrouvées mortes dans le village neuchâtelois de Corcelles, un suspect arrêté",
@@ -9218,5 +9221,9 @@
   {
     "title": "Quelles sont les intentions de la Russie? Interview d’Eric Hoesli",
     "added_at": "2025-08-20T05:01:39.899Z"
+  },
+  {
+    "title": "Face aux droits de douane, Victorinox pourrait délocaliser une partie de sa production aux Etats-Unis",
+    "added_at": "2025-08-20T05:27:15.615Z"
   }
 ]
