@@ -303,8 +303,9 @@
   {
     "title": "Winds complicate wildfire battles in Spain; Portugal suffers third death",
     "added_at": "2025-08-20T17:23:27.898Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-20T22:23:50.980Z",
+    "duration_minutes": 300,
+    "duration_str": "5h"
   },
   {
     "title": "Most Americans support international recognition of Palestine: Poll",
@@ -387,6 +388,12 @@
   {
     "title": "Israel pounds Gaza, killing 81, as it begins assault to seize Gaza City",
     "added_at": "2025-08-20T21:28:26.823Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "US court allows Trump to end temporary protections for 60,000 migrants",
+    "added_at": "2025-08-20T22:23:50.980Z",
     "duration_minutes": 0,
     "duration_str": ""
   }

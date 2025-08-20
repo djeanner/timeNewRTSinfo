@@ -291,8 +291,9 @@
   {
     "title": "Dans « Alpha », la cinéaste Julia Ducournau met en scène un long flirt avec la mort",
     "added_at": "2025-08-20T08:19:35.852Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-20T19:47:15.006Z",
+    "duration_minutes": 688,
+    "duration_str": "11h 28m"
   },
   {
     "title": "Reconnaissance de l’Etat palestinien : Nétanyahou accuse Macron de nourrir l’antisémitisme",
@@ -722,8 +723,9 @@
   {
     "title": "Etats-Unis : Trump accentue la pression sur la Fed en réclamant la démission de la gouverneure Lisa Cook",
     "added_at": "2025-08-20T20:01:59.311Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-20T22:06:52.187Z",
+    "duration_minutes": 125,
+    "duration_str": "2h 5m"
   },
   {
     "title": "L’ouragan Erin se renforce à l’approche des côtes américaines, la Caroline du Nord se prépare à des inondations destructrices",
@@ -734,12 +736,25 @@
   {
     "title": "Haute-Savoie : un bloc de roche tombe sur une voiture près de Chamonix, route coupée",
     "added_at": "2025-08-20T20:37:15.171Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-20T21:56:10.121Z",
+    "duration_minutes": 79,
+    "duration_str": "1h 19m"
   },
   {
     "title": "En direct, guerre en Ukraine : les chefs d’état-major de l’OTAN « confirment leur soutien » à l’Ukraine",
     "added_at": "2025-08-20T20:58:38.378Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Haute-Savoie : deux morts après la chute d’un bloc de roche sur une voiture près de Chamonix",
+    "added_at": "2025-08-20T21:56:10.121Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Donald Trump accentue la pression sur la Fed en réclamant la démission de la gouverneure Lisa Cook",
+    "added_at": "2025-08-20T22:06:52.187Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
