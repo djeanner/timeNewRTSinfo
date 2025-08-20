@@ -8299,10 +8299,7 @@
   },
   {
     "title": "Le Conseil fédéral défend l’abolition de l'impôt sur la valeur locative",
-    "added_at": "2025-08-16T10:22:31.001Z",
-    "removed_at": "2025-08-20T06:01:09.319Z",
-    "duration_minutes": 5498,
-    "duration_str": "3d 19h 38m"
+    "added_at": "2025-08-16T10:22:31.001Z"
   },
   {
     "title": "\"Tout va de travers, en Suisse et à l'étranger\", estime Marcel Dettling",
@@ -8675,7 +8672,10 @@
   },
   {
     "title": "Immense manifestation à Tel-Aviv pour libérer les otages et \"la fin de la guerre à Gaza\"",
-    "added_at": "2025-08-17T21:02:01.308Z"
+    "added_at": "2025-08-17T21:02:01.308Z",
+    "removed_at": "2025-08-20T07:30:33.985Z",
+    "duration_minutes": 3508,
+    "duration_str": "2d 10h 28m"
   },
   {
     "title": "Deux candidats de droite s'affronteront au second tour de la présidentielle en Bolivie",
@@ -8947,7 +8947,10 @@
   },
   {
     "title": "«C’est un moment historique qui dépasse le cas de l’Ukraine»",
-    "added_at": "2025-08-19T06:34:27.793Z"
+    "added_at": "2025-08-19T06:34:27.793Z",
+    "removed_at": "2025-08-20T08:02:34.638Z",
+    "duration_minutes": 1528,
+    "duration_str": "1d 1h 28m"
   },
   {
     "title": "Volodymyr Zelensky se rendra à Washington accompagné du soutien européen",
@@ -9225,5 +9228,9 @@
   {
     "title": "Face aux droits de douane, Victorinox pourrait délocaliser une partie de sa production aux Etats-Unis",
     "added_at": "2025-08-20T05:27:15.615Z"
+  },
+  {
+    "title": "Athletissima: le meeting de Lausanne fête sa 50e édition",
+    "added_at": "2025-08-20T07:30:33.985Z"
   }
 ]
