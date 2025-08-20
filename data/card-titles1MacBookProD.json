@@ -8373,10 +8373,7 @@
   },
   {
     "title": "La mousson a tué plus de 320 personnes en 48 heures au Pakistan",
-    "added_at": "2025-08-16T16:23:33.333Z",
-    "removed_at": "2025-08-20T01:16:09.589Z",
-    "duration_minutes": 4852,
-    "duration_str": "3d 8h 52m"
+    "added_at": "2025-08-16T16:23:33.333Z"
   },
   {
     "title": "Le fondateur du World Economic Forum blanchi des accusations portées contre lui",
@@ -8623,7 +8620,10 @@
   },
   {
     "title": "Tsahal va \"se concentrer\" sur Gaza-ville, le Hamas dénonce un \"crime de guerre majeur\"",
-    "added_at": "2025-08-17T16:17:12.646Z"
+    "added_at": "2025-08-17T16:17:12.646Z",
+    "removed_at": "2025-08-20T03:32:21.247Z",
+    "duration_minutes": 3555,
+    "duration_str": "2d 11h 15m"
   },
   {
     "title": "De plus en plus populaire, le Tour de Romandie Féminin bataille toujours pour se financer",
@@ -8634,7 +8634,10 @@
   },
   {
     "title": "Les Européens se réunissent pour préparer la visite de Volodymyr Zelensky à Washington",
-    "added_at": "2025-08-17T16:21:25.459Z"
+    "added_at": "2025-08-17T16:21:25.459Z",
+    "removed_at": "2025-08-20T04:04:10.555Z",
+    "duration_minutes": 3582,
+    "duration_str": "2d 11h 42m"
   },
   {
     "title": "Connu pour ses rôles dans \"Superman\" et \"Priscilla\", Terence Stamp est décédé",
@@ -9190,5 +9193,9 @@
   {
     "title": "Trois personnes retrouvées mortes dans le village neuchâtelois de Corcelles, un suspect arrêté",
     "added_at": "2025-08-20T01:22:32.259Z"
+  },
+  {
+    "title": "Des crevettes potentiellement radioactives rappelées aux Etats-Unis",
+    "added_at": "2025-08-20T03:32:21.247Z"
   }
 ]
