@@ -24589,7 +24589,10 @@
   },
   {
     "title": "culture:::A Locarno, «Tales of the Wounded Land» témoigne de la destruction du Liban-Sud par l’armée israélienne",
-    "added_at": "2025-08-15T12:41:18.559Z"
+    "added_at": "2025-08-15T12:41:18.559Z",
+    "removed_at": "2025-08-21T03:26:52.168Z",
+    "duration_minutes": 8085,
+    "duration_str": "5d 14h 45m"
   },
   {
     "title": "suisse:::Le rapport très attendu sur le bouclier fiscal vaudois est retardé. Le Conseil d’Etat demande des compléments",
@@ -25876,11 +25879,17 @@
   },
   {
     "title": "monde:::L’obsession de Donald Trump pour le Nobel de la paix façonne désormais sa diplomatie",
-    "added_at": "2025-08-20T04:21:47.649Z"
+    "added_at": "2025-08-20T04:21:47.649Z",
+    "removed_at": "2025-08-21T03:17:24.524Z",
+    "duration_minutes": 1375,
+    "duration_str": "22h 55m"
   },
   {
     "title": "suisse:::A Genève, la cohabitation controversée entre procureurs et juges est entérinée moyennant certaines précautions",
-    "added_at": "2025-08-20T04:57:37.211Z"
+    "added_at": "2025-08-20T04:57:37.211Z",
+    "removed_at": "2025-08-21T03:26:52.168Z",
+    "duration_minutes": 1349,
+    "duration_str": "22h 29m"
   },
   {
     "title": "cyber:::Doit-on craindre que Microsoft transmette trop facilement nos données sensibles aux autorités américaines?",
@@ -25968,7 +25977,10 @@
   },
   {
     "title": "sciences:::Comment se prémunir de la dengue, maladie tropicale qui pourrait bien devenir endémique en Suisse",
-    "added_at": "2025-08-20T10:50:30.295Z"
+    "added_at": "2025-08-20T10:50:30.295Z",
+    "removed_at": "2025-08-21T04:19:33.411Z",
+    "duration_minutes": 1049,
+    "duration_str": "17h 29m"
   },
   {
     "title": "sciences:::Contre le moustique tigre, le Tessin mise sur des mâles stérilisés",
@@ -26033,7 +26045,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Pologne accuse Moscou après l'explosion d'un drone sur son territoire",
-    "added_at": "2025-08-20T15:56:38.595Z"
+    "added_at": "2025-08-20T15:56:38.595Z",
+    "removed_at": "2025-08-21T03:24:57.370Z",
+    "duration_minutes": 688,
+    "duration_str": "11h 28m"
   },
   {
     "title": "suisse:::Le PLR crée la surprise avec une coprésidence",
@@ -26098,5 +26113,38 @@
   {
     "title": "culture:::Avec «A quatre pattes», Miranda July propose un grand bol frais d’humour et d’impertinence",
     "added_at": "2025-08-20T20:58:17.053Z"
+  },
+  {
+    "title": "economie:::«Thank you Mr President»: avec les droits de douane de Trump, le prix de la PS5 augmente aux Etats-Unis et fâche les consommateurs",
+    "added_at": "2025-08-21T03:17:24.524Z",
+    "removed_at": "2025-08-21T04:49:44.191Z",
+    "duration_minutes": 92,
+    "duration_str": "1h 32m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Kim Jong-un salue ses troupes déployées en soutien à la Russie",
+    "added_at": "2025-08-21T03:24:57.370Z"
+  },
+  {
+    "title": "monde:::Sous la pression de Donald Trump, les républicains texans changent la carte électorale en leur faveur",
+    "added_at": "2025-08-21T04:19:33.411Z",
+    "removed_at": "2025-08-21T05:17:59.703Z",
+    "duration_minutes": 58,
+    "duration_str": "58m"
+  },
+  {
+    "title": "economie:::«Thank you M. President»: avec les droits de douane de Trump, le prix de la PS5 augmente aux Etats-Unis et fâche les consommateurs",
+    "added_at": "2025-08-21T04:49:44.191Z",
+    "removed_at": "2025-08-21T05:27:24.567Z",
+    "duration_minutes": 37,
+    "duration_str": "37m"
+  },
+  {
+    "title": "cyber:::L’ultra-dépendance de l’économie suisse et européenne aux solutions technologiques américaines mesurée par une étude",
+    "added_at": "2025-08-21T05:17:59.703Z"
+  },
+  {
+    "title": "economie:::«Thank you Mr. President»: avec les droits de douane de Trump, le prix de la PS5 augmente aux Etats-Unis et fâche les consommateurs",
+    "added_at": "2025-08-21T05:27:24.567Z"
   }
 ]
