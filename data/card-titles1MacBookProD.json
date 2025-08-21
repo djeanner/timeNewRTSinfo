@@ -9225,7 +9225,10 @@
   },
   {
     "title": "Le Valais interdit tout feu en plein air à cause du risque d'incendie",
-    "added_at": "2025-08-19T12:30:01.357Z"
+    "added_at": "2025-08-19T12:30:01.357Z",
+    "removed_at": "2025-08-21T08:22:53.259Z",
+    "duration_minutes": 2632,
+    "duration_str": "1d 19h 52m"
   },
   {
     "title": "Deux comités de droite et de gauche ensemble contre la suppression de la valeur locative",
@@ -9251,7 +9254,10 @@
   },
   {
     "title": "Podcast - Pourquoi Donald Trump taxe-t-il si lourdement la Suisse ?",
-    "added_at": "2025-08-19T15:35:14.255Z"
+    "added_at": "2025-08-19T15:35:14.255Z",
+    "removed_at": "2025-08-21T09:05:32.356Z",
+    "duration_minutes": 2490,
+    "duration_str": "1d 17h 30m"
   },
   {
     "title": "\"Heures difficiles\" en vue dans la lutte contre les incendies, prévient le Premier ministre espagnol",
@@ -9656,5 +9662,13 @@
   {
     "title": "Plus de 600 drones et missiles tirés sur l'Ukraine dans la nuit de mercredi à jeudi",
     "added_at": "2025-08-21T08:07:54.823Z"
+  },
+  {
+    "title": "Pierre-Yves Maillard: \"Si le Parlement accepte le paquet du Conseil fédéral, l'USS soutiendra les accords avec l'UE\"",
+    "added_at": "2025-08-21T08:22:53.259Z"
+  },
+  {
+    "title": "Les cassettes audio redeviennent à la mode, notamment grâce à Taylor Swift",
+    "added_at": "2025-08-21T09:05:32.356Z"
   }
 ]
