@@ -9083,11 +9083,17 @@
   },
   {
     "title": "Emmanuel Macron plaide pour une rencontre Poutine-Zelensky à Genève",
-    "added_at": "2025-08-19T07:02:07.294Z"
+    "added_at": "2025-08-19T07:02:07.294Z",
+    "removed_at": "2025-08-21T11:05:02.725Z",
+    "duration_minutes": 3122,
+    "duration_str": "2d 4h 2m"
   },
   {
     "title": "L'achat de nouveaux drones pour l'armée suisse menace de virer au fiasco",
-    "added_at": "2025-08-19T07:34:06.568Z"
+    "added_at": "2025-08-19T07:34:06.568Z",
+    "removed_at": "2025-08-21T11:05:02.725Z",
+    "duration_minutes": 3090,
+    "duration_str": "2d 3h 30m"
   },
   {
     "title": "Twint revendique plus de six millions d'utilisateurs à la fin du premier semestre",
@@ -9325,7 +9331,10 @@
   },
   {
     "title": "Les voitures électriques sont souvent moins chères à assurer",
-    "added_at": "2025-08-19T19:25:12.498Z"
+    "added_at": "2025-08-19T19:25:12.498Z",
+    "removed_at": "2025-08-21T11:07:12.870Z",
+    "duration_minutes": 2382,
+    "duration_str": "1d 15h 42m"
   },
   {
     "title": "Swatch accusée de racisme en raison d'une campagne publicitaire",
@@ -9374,10 +9383,7 @@
   },
   {
     "title": "Plusieurs adeptes de wingsuit et de base-jump victimes d’accidents mortels: interview de Géraldine Fasnacht",
-    "added_at": "2025-08-20T01:16:09.589Z",
-    "removed_at": "2025-08-21T09:33:14.679Z",
-    "duration_minutes": 1937,
-    "duration_str": "1d 8h 17m"
+    "added_at": "2025-08-20T01:16:09.589Z"
   },
   {
     "title": "Trois personnes retrouvées mortes dans le village neuchâtelois de Corcelles, un suspect arrêté",
@@ -9733,5 +9739,9 @@
   {
     "title": "Dans le ciel de Gaza, à bord d'un avion qui largue une aide symbolique",
     "added_at": "2025-08-21T10:56:22.675Z"
+  },
+  {
+    "title": "La Poste pourrait biffer une centaine d'emplois après des résultats en baisse",
+    "added_at": "2025-08-21T11:07:12.870Z"
   }
 ]
