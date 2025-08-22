@@ -28315,7 +28315,10 @@
   },
   {
     "title": "monde:::En direct – L’ONU déclare la famine à Gaza, la première au Moyen-Orient",
-    "added_at": "2025-08-22T12:07:49.830Z"
+    "added_at": "2025-08-22T12:07:49.830Z",
+    "removed_at": "2025-08-22T14:41:44.815Z",
+    "duration_minutes": 153,
+    "duration_str": "2h 33m"
   },
   {
     "title": "suisse:::A Lausanne, un arbre s’effondre, et tout un quartier est en deuil",
@@ -28327,6 +28330,24 @@
   },
   {
     "title": "sport:::A l’US Open, duel pour le trône entre Sinner et Alcaraz",
-    "added_at": "2025-08-22T13:37:35.540Z"
+    "added_at": "2025-08-22T13:37:35.540Z",
+    "removed_at": "2025-08-22T14:09:46.144Z",
+    "duration_minutes": 32,
+    "duration_str": "32m"
+  },
+  {
+    "title": "monde:::L’Iran annonce de nouvelles négociations avec les Européens. Elles auront lieu mardi",
+    "added_at": "2025-08-22T14:09:46.144Z",
+    "removed_at": "2025-08-22T14:22:33.193Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "monde:::De nouvelles négociations entre l’Iran et les Européens auront lieu mardi",
+    "added_at": "2025-08-22T14:22:33.193Z"
+  },
+  {
+    "title": "monde:::Un nouveau mot pour résumer la réalité de Gaza: «la famine»",
+    "added_at": "2025-08-22T14:41:44.815Z"
   }
 ]
