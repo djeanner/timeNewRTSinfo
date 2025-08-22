@@ -33554,11 +33554,17 @@
   },
   {
     "title": "La ligne CFF Fribourg-Berne rouvrira lundi matin après des travaux cet été",
-    "added_at": "2025-08-20T13:08:35.173Z"
+    "added_at": "2025-08-20T13:08:35.173Z",
+    "removed_at": "2025-08-22T02:36:10.175Z",
+    "duration_minutes": 2247,
+    "duration_str": "1d 13h 27m"
   },
   {
     "title": "Le Conseil fédéral s'oppose à la taxe sur les urgences",
-    "added_at": "2025-08-20T13:16:09.468Z"
+    "added_at": "2025-08-20T13:16:09.468Z",
+    "removed_at": "2025-08-22T01:15:10.674Z",
+    "duration_minutes": 2159,
+    "duration_str": "1d 11h 59m"
   },
   {
     "title": "Israël : le ministre de la Défense approuve le plan de conquête de Gaza-ville",
@@ -33957,5 +33963,13 @@
   {
     "title": "Les détenteurs de visas sous pression aux Etats-Unis",
     "added_at": "2025-08-21T23:25:42.006Z"
+  },
+  {
+    "title": "Le déploiement de militaires à Washington durera un certain temps selon Donald Trump",
+    "added_at": "2025-08-22T01:15:10.674Z"
+  },
+  {
+    "title": "En quête de serveurs, Meta signe un contrat de 10 milliards de dollars avec Google",
+    "added_at": "2025-08-22T02:36:10.175Z"
   }
 ]
