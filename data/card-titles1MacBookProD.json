@@ -3735,7 +3735,10 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T19:02:44.375Z"
+    "added_at": "2025-07-25T19:02:44.375Z",
+    "removed_at": "2025-08-22T22:21:18.633Z",
+    "duration_minutes": 40518,
+    "duration_str": "28d 3h 18m"
   },
   {
     "title": "En Israël, la population sensible au sort des Gazaouis refuse d'en rendre son armée responsable",
@@ -10032,9 +10035,9 @@
   {
     "title": "Sur quoi porte la révision de la loi sur les épidémies que propose le Conseil fédéral?",
     "added_at": "2025-08-21T19:03:39.655Z",
-    "removed_at": "2025-08-22T18:51:53.642Z",
-    "duration_minutes": 1428,
-    "duration_str": "23h 48m"
+    "removed_at": "2025-08-22T21:47:09.657Z",
+    "duration_minutes": 1603,
+    "duration_str": "1d 2h 43m"
   },
   {
     "title": "Servette peut encore rêver d'un automne européen",
@@ -10290,5 +10293,16 @@
   {
     "title": "L'hémodialyse à domicile, une révolution pour les patients souffrant d'insuffisance rénale",
     "added_at": "2025-08-22T20:30:08.316Z"
+  },
+  {
+    "title": "L'invité de La Matinale - Pierre-Yves Maillard, président de l'Union syndicale suisse",
+    "added_at": "2025-08-22T21:45:00.769Z",
+    "removed_at": "2025-08-22T21:47:09.657Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Jura: l'audit sur le ministre Courtet pointe aussi ses collègues du doigt",
+    "added_at": "2025-08-22T22:21:18.633Z"
   }
 ]
