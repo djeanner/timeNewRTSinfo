@@ -33440,7 +33440,10 @@
   },
   {
     "title": "Résidus de pneus dans 85% des échantillons de légumes et fruits",
-    "added_at": "2025-08-20T04:48:08.585Z"
+    "added_at": "2025-08-20T04:48:08.585Z",
+    "removed_at": "2025-08-22T06:04:05.760Z",
+    "duration_minutes": 2955,
+    "duration_str": "2d 1h 15m"
   },
   {
     "title": "Nouvelle arnaque en ligne: de faux bons plans liés aux tarifs douaniers de Trump",
@@ -33588,7 +33591,10 @@
   },
   {
     "title": "L'initiative de protection du lac de Gruyère jugée trop restrictive",
-    "added_at": "2025-08-20T14:48:33.214Z"
+    "added_at": "2025-08-20T14:48:33.214Z",
+    "removed_at": "2025-08-22T06:17:13.488Z",
+    "duration_minutes": 2368,
+    "duration_str": "1d 15h 28m"
   },
   {
     "title": "Les cantons seront obligés de se préparer aux crises sanitaires",
@@ -33596,7 +33602,10 @@
   },
   {
     "title": "Mort en direct du streamer français Jean Pormanove sur la plateforme Kick: interview de Bertrand Saillen",
-    "added_at": "2025-08-20T15:07:26.076Z"
+    "added_at": "2025-08-20T15:07:26.076Z",
+    "removed_at": "2025-08-22T07:02:26.308Z",
+    "duration_minutes": 2395,
+    "duration_str": "1d 15h 55m"
   },
   {
     "title": "Podcast - Pourquoi Benjamin Netanyahou s’acharne-t-il sur Gaza?",
@@ -33923,10 +33932,7 @@
   },
   {
     "title": "Sur quoi porte la révision de la loi sur les épidémies que propose le Conseil fédéral?",
-    "added_at": "2025-08-21T19:03:15.648Z",
-    "removed_at": "2025-08-21T22:23:32.072Z",
-    "duration_minutes": 200,
-    "duration_str": "3h 20m"
+    "added_at": "2025-08-21T19:03:15.648Z"
   },
   {
     "title": "Servette peut encore rêver d'un automne européen",
@@ -33985,5 +33991,13 @@
   {
     "title": "Double oui à l'abolition de la valeur locative et à l'e-ID, selon le premier sondage SSR",
     "added_at": "2025-08-22T04:01:05.274Z"
+  },
+  {
+    "title": "Le train reste plus cher que l'avion pour les trajets européens",
+    "added_at": "2025-08-22T05:39:31.253Z"
+  },
+  {
+    "title": "La Russie refuse catégoriquement la présence de troupes européennes en Ukraine",
+    "added_at": "2025-08-22T06:17:13.488Z"
   }
 ]
