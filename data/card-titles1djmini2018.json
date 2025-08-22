@@ -33553,7 +33553,10 @@
   },
   {
     "title": "La guerre se gagne-t-elle encore au 21e siècle?",
-    "added_at": "2025-08-20T12:43:53.471Z"
+    "added_at": "2025-08-20T12:43:53.471Z",
+    "removed_at": "2025-08-22T07:49:42.339Z",
+    "duration_minutes": 2585,
+    "duration_str": "1d 19h 5m"
   },
   {
     "title": "La ligne CFF Fribourg-Berne rouvrira lundi matin après des travaux cet été",
@@ -33583,11 +33586,17 @@
   },
   {
     "title": "Le glacier d'Aletsch disparaîtra en 2100, selon une étude italienne",
-    "added_at": "2025-08-20T13:44:27.397Z"
+    "added_at": "2025-08-20T13:44:27.397Z",
+    "removed_at": "2025-08-22T07:42:10.108Z",
+    "duration_minutes": 2517,
+    "duration_str": "1d 17h 57m"
   },
   {
     "title": "L'animatrice Emilie Gasc sera la nouvelle voix de la Ligne de Cœur dès janvier 2026",
-    "added_at": "2025-08-20T14:12:45.782Z"
+    "added_at": "2025-08-20T14:12:45.782Z",
+    "removed_at": "2025-08-22T07:40:20.220Z",
+    "duration_minutes": 2487,
+    "duration_str": "1d 17h 27m"
   },
   {
     "title": "L'initiative de protection du lac de Gruyère jugée trop restrictive",
@@ -33616,11 +33625,17 @@
   },
   {
     "title": "Découvrez qui sont les cinq finalistes pour le Prix du livre de Lausanne",
-    "added_at": "2025-08-20T15:18:53.736Z"
+    "added_at": "2025-08-20T15:18:53.736Z",
+    "removed_at": "2025-08-22T08:55:38.821Z",
+    "duration_minutes": 2496,
+    "duration_str": "1d 17h 36m"
   },
   {
     "title": "Podcast - Pourquoi Benjamin Netanyahu s’acharne-t-il sur Gaza?",
-    "added_at": "2025-08-20T15:24:33.478Z"
+    "added_at": "2025-08-20T15:24:33.478Z",
+    "removed_at": "2025-08-22T09:12:37.852Z",
+    "duration_minutes": 2508,
+    "duration_str": "1d 17h 48m"
   },
   {
     "title": "Israël approuve un plan majeur de colonisation en Cisjordanie occupée",
@@ -33628,7 +33643,10 @@
   },
   {
     "title": "Le prix de l'électricité va baisser à Genève, sauf pour les petits consommateurs",
-    "added_at": "2025-08-20T15:37:48.244Z"
+    "added_at": "2025-08-20T15:37:48.244Z",
+    "removed_at": "2025-08-22T09:23:55.632Z",
+    "duration_minutes": 2506,
+    "duration_str": "1d 17h 46m"
   },
   {
     "title": "Susanne Vincenz-Stauffacher (SG) et Benjamin Mühlemann (GL) proposent une coprésidence à la tête du PLR",
@@ -33952,14 +33970,14 @@
   },
   {
     "title": "L'UDC fait sa rentrée politique en pleine crise douanière avec les Etats-Unis",
-    "added_at": "2025-08-21T21:02:19.707Z"
+    "added_at": "2025-08-21T21:02:19.707Z",
+    "removed_at": "2025-08-22T09:05:08.512Z",
+    "duration_minutes": 722,
+    "duration_str": "12h 2m"
   },
   {
     "title": "Un biplan de 1916 dans le ciel de la Gruyère",
-    "added_at": "2025-08-21T22:04:40.713Z",
-    "removed_at": "2025-08-21T22:23:32.072Z",
-    "duration_minutes": 18,
-    "duration_str": "18m"
+    "added_at": "2025-08-21T22:04:40.713Z"
   },
   {
     "title": "Entretien avec Daniel Held, auteur du rapport sur Martial Courtet",
@@ -33999,5 +34017,50 @@
   {
     "title": "La Russie refuse catégoriquement la présence de troupes européennes en Ukraine",
     "added_at": "2025-08-22T06:17:13.488Z"
+  },
+  {
+    "title": "Sonam Dreyer-Cornut, de retour à Gaza: \"Il y a quelques mois, je me disais que ça ne pouvait pas être pire… et en fait, si\"",
+    "added_at": "2025-08-22T07:40:20.220Z",
+    "removed_at": "2025-08-22T07:45:59.007Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "La \"Symphonie n°7\" de Chostakovitch, l'arme sonore qui défia les nazis",
+    "added_at": "2025-08-22T07:42:10.108Z"
+  },
+  {
+    "title": "Sonam Dreyer-Cornut, de retour à Gaza: \"Il y a quelques mois, je me disais que ça ne pouvait pas être pire… en fait, si\"",
+    "added_at": "2025-08-22T07:45:59.007Z"
+  },
+  {
+    "title": "Philippe Lazzarini quittera la tête de l'UNRWA en mars 2026",
+    "added_at": "2025-08-22T07:49:42.339Z"
+  },
+  {
+    "title": "Jean-François Roth: \"La personnalité de Martial Courtet n'était plus en adéquation avec les valeurs du Centre\"",
+    "added_at": "2025-08-22T08:55:38.821Z"
+  },
+  {
+    "title": "L'armement va-t-il remplacer l'automobile dans les bassins industriels allemands?",
+    "added_at": "2025-08-22T09:12:37.852Z"
+  },
+  {
+    "title": "L'ONU déclare la famine à Gaza, la première au Moyen-Orient",
+    "added_at": "2025-08-22T09:23:55.632Z",
+    "removed_at": "2025-08-22T09:25:49.172Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "L'ONU déclare la famine à Gaza, une première au Moyen-Orient",
+    "added_at": "2025-08-22T09:25:49.172Z",
+    "removed_at": "2025-08-22T09:31:28.535Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "L'ONU déclare la famine à Gaza, une première au Proche-Orient",
+    "added_at": "2025-08-22T09:31:28.535Z"
   }
 ]
