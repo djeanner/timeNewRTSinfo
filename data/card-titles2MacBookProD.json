@@ -28175,7 +28175,10 @@
   },
   {
     "title": "monde:::Donald Trump annonce qu’il accompagnera la police dans les rues de Washington ce soir",
-    "added_at": "2025-08-21T19:10:02.020Z"
+    "added_at": "2025-08-21T19:10:02.020Z",
+    "removed_at": "2025-08-22T01:18:59.490Z",
+    "duration_minutes": 368,
+    "duration_str": "6h 8m"
   },
   {
     "title": "sport:::Le Lausanne-Sport et le Servette FC tiennent Besiktas et le Shakhtar Donetsk en échec: tout reste à jouer en barrages de la Conference League",
@@ -28188,5 +28191,9 @@
   {
     "title": "economie:::Entre les Etats-Unis et l’Europe, le cœur de l’économie suisse balance un peu moins",
     "added_at": "2025-08-21T21:16:00.689Z"
+  },
+  {
+    "title": "monde:::Donald Trump se rend auprès de policiers et militaires dans les rues de Washington",
+    "added_at": "2025-08-22T01:18:59.490Z"
   }
 ]
