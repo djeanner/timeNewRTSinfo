@@ -6448,7 +6448,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:00:57.917Z"
+    "added_at": "2025-05-22T18:00:57.917Z",
+    "removed_at": "2025-08-22T13:40:41.415Z",
+    "duration_minutes": 132219,
+    "duration_str": "91d 19h 39m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -24971,10 +24974,7 @@
   },
   {
     "title": "suisse:::Nouveau décès d’un base-jumper sur les sommets suisses",
-    "added_at": "2025-08-16T15:50:00.192Z",
-    "removed_at": "2025-08-17T13:19:15.661Z",
-    "duration_minutes": 1289,
-    "duration_str": "21h 29m"
+    "added_at": "2025-08-16T15:50:00.192Z"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Les dirigeants français, britannique et allemand veulent réunir dimanche les pays alliés de Kiev",
@@ -26111,7 +26111,10 @@
   },
   {
     "title": "monde:::La Fondation humanitaire de Gaza insiste sur le «succès» de ses opérations",
-    "added_at": "2025-08-20T18:01:20.381Z"
+    "added_at": "2025-08-20T18:01:20.381Z",
+    "removed_at": "2025-08-22T13:40:41.415Z",
+    "duration_minutes": 2619,
+    "duration_str": "1d 19h 39m"
   },
   {
     "title": "economie:::En perte de vitesse, Novo Nordisk rebondit dans la bataille des traitements anti-obésité",
@@ -26318,7 +26321,10 @@
   },
   {
     "title": "suisse:::Dans un contexte économique tendu, Genève mise sur les sciences de la vie, l’industrie créative et le numérique",
-    "added_at": "2025-08-21T16:14:56.656Z"
+    "added_at": "2025-08-21T16:14:56.656Z",
+    "removed_at": "2025-08-22T13:40:41.415Z",
+    "duration_minutes": 1285,
+    "duration_str": "21h 25m"
   },
   {
     "title": "monde:::Le désespoir des Palestiniens face à l’arrivée de l’armée israélienne dans la ville de Gaza: «Nous n’avons aucun moyen de survivre à un exil»",
@@ -26412,7 +26418,10 @@
   },
   {
     "title": "culture:::«Charlie et la chocolaterie», ou la belle folie d’une troupe d’enfants au Théâtre Barnabé à Servion",
-    "added_at": "2025-08-22T05:24:27.341Z"
+    "added_at": "2025-08-22T05:24:27.341Z",
+    "removed_at": "2025-08-22T13:40:41.415Z",
+    "duration_minutes": 496,
+    "duration_str": "8h 16m"
   },
   {
     "title": "cyber:::OpenAI gagne désormais un milliard de dollars par mois grâce à 700 millions d’utilisateurs, mais ses pertes demeurent abyssales",
@@ -26454,11 +26463,17 @@
   },
   {
     "title": "economie:::La Confédération condamne J.P. Morgan à payer 3 millions de francs dans l’affaire 1MDB",
-    "added_at": "2025-08-22T10:26:16.498Z"
+    "added_at": "2025-08-22T10:26:16.498Z",
+    "removed_at": "2025-08-22T13:14:18.866Z",
+    "duration_minutes": 168,
+    "duration_str": "2h 48m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L'armée russe continue d'avancer dans la région de Donetsk",
-    "added_at": "2025-08-22T11:09:42.057Z"
+    "added_at": "2025-08-22T11:09:42.057Z",
+    "removed_at": "2025-08-22T13:21:49.059Z",
+    "duration_minutes": 132,
+    "duration_str": "2h 12m"
   },
   {
     "title": "culture:::Pour la chanteuse Fiona Daniel, la vie n’est qu’une transition",
@@ -26467,5 +26482,31 @@
   {
     "title": "monde:::En direct – L’ONU déclare la famine à Gaza, la première au Moyen-Orient",
     "added_at": "2025-08-22T12:06:17.893Z"
+  },
+  {
+    "title": "suisse:::A Lausanne, un arbre s’effondre, et tout un quartier est en deuil",
+    "added_at": "2025-08-22T13:14:18.866Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Moscou fait patienter Donald Trump: «pas de rencontre prévue» avec Volodymyr Zelensky",
+    "added_at": "2025-08-22T13:21:49.059Z"
+  },
+  {
+    "title": "sport:::A l’US Open, duel pour le trône entre Sinner et Alcaraz",
+    "added_at": "2025-08-22T13:36:58.115Z",
+    "removed_at": "2025-08-22T14:09:00.588Z",
+    "duration_minutes": 32,
+    "duration_str": "32m"
+  },
+  {
+    "title": "monde:::L’Iran annonce de nouvelles négociations avec les Européens. Elles auront lieu mardi",
+    "added_at": "2025-08-22T14:09:00.588Z",
+    "removed_at": "2025-08-22T14:22:15.551Z",
+    "duration_minutes": 13,
+    "duration_str": "13m"
+  },
+  {
+    "title": "monde:::De nouvelles négociations entre l’Iran et les Européens auront lieu mardi",
+    "added_at": "2025-08-22T14:22:15.551Z"
   }
 ]
