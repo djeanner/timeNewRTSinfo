@@ -9437,7 +9437,10 @@
   },
   {
     "title": "Résidus de pneus dans 85% des échantillons de légumes et fruits",
-    "added_at": "2025-08-20T04:48:55.688Z"
+    "added_at": "2025-08-20T04:48:55.688Z",
+    "removed_at": "2025-08-22T06:02:31.087Z",
+    "duration_minutes": 2953,
+    "duration_str": "2d 1h 13m"
   },
   {
     "title": "Nouvelle arnaque en ligne: de faux bons plans liés aux tarifs douaniers de Trump",
@@ -9982,5 +9985,9 @@
   {
     "title": "Double oui à l'abolition de la valeur locative et à l'e-ID, selon le premier sondage SSR",
     "added_at": "2025-08-22T04:00:54.987Z"
+  },
+  {
+    "title": "Le train reste plus cher que l'avion pour les trajets européens",
+    "added_at": "2025-08-22T05:39:06.729Z"
   }
 ]
