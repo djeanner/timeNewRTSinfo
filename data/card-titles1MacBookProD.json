@@ -9551,7 +9551,10 @@
   },
   {
     "title": "La ligne CFF Fribourg-Berne rouvrira lundi matin après des travaux cet été",
-    "added_at": "2025-08-20T13:05:45.219Z"
+    "added_at": "2025-08-20T13:05:45.219Z",
+    "removed_at": "2025-08-22T02:35:47.244Z",
+    "duration_minutes": 2250,
+    "duration_str": "1d 13h 30m"
   },
   {
     "title": "Le Conseil fédéral s'oppose à la taxe sur les urgences",
@@ -9961,5 +9964,9 @@
   {
     "title": "Le déploiement de militaires à Washington durera un certain temps selon Donald Trump",
     "added_at": "2025-08-22T01:14:40.896Z"
+  },
+  {
+    "title": "En quête de serveurs, Meta signe un contrat de 10 milliards de dollars avec Google",
+    "added_at": "2025-08-22T02:35:47.244Z"
   }
 ]
