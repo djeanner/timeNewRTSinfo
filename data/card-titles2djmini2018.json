@@ -26635,7 +26635,10 @@
   },
   {
     "title": "culture:::Les merveilles de Rose-Marie Pagnard",
-    "added_at": "2025-08-22T19:07:21.631Z"
+    "added_at": "2025-08-22T19:07:21.631Z",
+    "removed_at": "2025-08-23T11:51:53.473Z",
+    "duration_minutes": 1004,
+    "duration_str": "16h 44m"
   },
   {
     "title": "monde:::Guerre en Ukraine – Moscou fait patienter Donald Trump: «pas de rencontre prévue» avec Volodymyr Zelensky",
@@ -26669,10 +26672,7 @@
   },
   {
     "title": "economie:::L’arrêt prolongé de la centrale nucléaire de Gösgen suscite des questions mais ne menace pas la Suisse de pénurie d’électricité cet hiver",
-    "added_at": "2025-08-23T06:12:06.684Z",
-    "removed_at": "2025-08-23T11:10:12.558Z",
-    "duration_minutes": 298,
-    "duration_str": "4h 58m"
+    "added_at": "2025-08-23T06:12:06.684Z"
   },
   {
     "title": "monde:::Le parlement du Texas adopte un redécoupage électoral très favorable à Donald Trump en vue des «midterms» de 2026",
@@ -26687,7 +26687,10 @@
   },
   {
     "title": "monde:::Le chef du renseignement militaire américain a été démis de ses fonctions",
-    "added_at": "2025-08-23T08:22:19.036Z"
+    "added_at": "2025-08-23T08:22:19.036Z",
+    "removed_at": "2025-08-23T12:16:27.296Z",
+    "duration_minutes": 234,
+    "duration_str": "3h 54m"
   },
   {
     "title": "sciences:::En mer Méditerranée, les précieux herbiers engloutis de posidonie sont en sursis",
@@ -26710,10 +26713,21 @@
   },
   {
     "title": "culture:::Amélie Nothomb s’incline devant la figure maternelle",
-    "added_at": "2025-08-23T10:28:47.211Z"
+    "added_at": "2025-08-23T10:28:47.211Z",
+    "removed_at": "2025-08-23T13:31:51.821Z",
+    "duration_minutes": 183,
+    "duration_str": "3h 3m"
   },
   {
     "title": "culture:::Série: «Butterfly», une cavale en Corée pour des espions en famille",
     "added_at": "2025-08-23T11:10:12.558Z"
+  },
+  {
+    "title": "suisse:::Réunis en assemblée, les Vert·e·s renouvellent leur opposition au nucléaire et apportent leur soutien à l’e-ID",
+    "added_at": "2025-08-23T11:51:53.473Z"
+  },
+  {
+    "title": "culture:::Design: mon sofa est une voiture",
+    "added_at": "2025-08-23T13:31:51.821Z"
   }
 ]
