@@ -34095,7 +34095,10 @@
   },
   {
     "title": "Un comédien vaudois condamné à 4 ans de prison pour viols et abus sur mineurs",
-    "added_at": "2025-08-21T18:44:21.565Z"
+    "added_at": "2025-08-21T18:44:21.565Z",
+    "removed_at": "2025-08-23T20:02:57.280Z",
+    "duration_minutes": 2958,
+    "duration_str": "2d 1h 18m"
   },
   {
     "title": "Les salaires des patrons suisses ont pris l'ascenseur en 2024",
@@ -34278,7 +34281,10 @@
   },
   {
     "title": "Interview de Daniel Held, auteur de l'audit sur Martial Courtet",
-    "added_at": "2025-08-22T13:23:43.068Z"
+    "added_at": "2025-08-22T13:23:43.068Z",
+    "removed_at": "2025-08-23T20:02:57.280Z",
+    "duration_minutes": 1839,
+    "duration_str": "1d 6h 39m"
   },
   {
     "title": "Luca Leone, un jeune artiste aux multiples facettes et un kaléidoscope de passions",
@@ -34419,7 +34425,10 @@
   },
   {
     "title": "Pierre-Yves Maillard réagit au rapport de la CVCI",
-    "added_at": "2025-08-23T06:02:42.503Z"
+    "added_at": "2025-08-23T06:02:42.503Z",
+    "removed_at": "2025-08-23T21:03:22.473Z",
+    "duration_minutes": 900,
+    "duration_str": "15h"
   },
   {
     "title": "Dans un avion de largage sur Gaza, le débat sur les adoptions et la générosité suisse envers le Liechtenstein",
@@ -34491,10 +34500,7 @@
   },
   {
     "title": "L’ONU déclare la famine à Gaza tandis que l’armée israélienne est aux portes de la ville de Gaza",
-    "added_at": "2025-08-23T12:03:12.810Z",
-    "removed_at": "2025-08-23T16:23:46.651Z",
-    "duration_minutes": 260,
-    "duration_str": "4h 20m"
+    "added_at": "2025-08-23T12:03:12.810Z"
   },
   {
     "title": "Comment El Sistema utilise la musique classique pour combattre la pauvreté",
@@ -34535,5 +34541,9 @@
   {
     "title": "Gare à l'abus de chocolat, riche en cadmium, un métal lourd nocif pour la santé",
     "added_at": "2025-08-23T18:17:08.728Z"
+  },
+  {
+    "title": "Le Canton de Vaud doit-il couper dans ses prestations?   Débat entre Hadrien Buclin et Céline Baux",
+    "added_at": "2025-08-23T21:03:22.473Z"
   }
 ]
