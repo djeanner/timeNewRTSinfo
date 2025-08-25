@@ -26935,7 +26935,10 @@
   },
   {
     "title": "monde:::A Richmond, dans le chaudron trumpiste des courses de Nascar",
-    "added_at": "2025-08-24T16:35:52.396Z"
+    "added_at": "2025-08-24T16:35:52.396Z",
+    "removed_at": "2025-08-25T04:48:31.974Z",
+    "duration_minutes": 732,
+    "duration_str": "12h 12m"
   },
   {
     "title": "economie:::Julien Dauchez, de Natixis IM: «Le marché a une plus grande capacité à digérer les chocs»",
@@ -26969,15 +26972,24 @@
   },
   {
     "title": "monde:::Moyen-Orient, en direct – L'ambassadeur américain en France convoqué après des critiques sur la lutte contre l'antisémitisme",
-    "added_at": "2025-08-24T23:54:05.436Z"
+    "added_at": "2025-08-24T23:54:05.436Z",
+    "removed_at": "2025-08-25T05:13:04.275Z",
+    "duration_minutes": 318,
+    "duration_str": "5h 18m"
   },
   {
     "title": "monde:::Guerre en Ukraine, en direct – Volodylmyr Zelensky réclame à nouveau une rencontre avec Vladimir Poutine",
-    "added_at": "2025-08-25T02:40:11.184Z"
+    "added_at": "2025-08-25T02:40:11.184Z",
+    "removed_at": "2025-08-25T05:14:59.911Z",
+    "duration_minutes": 154,
+    "duration_str": "2h 34m"
   },
   {
     "title": "economie:::Trump, l’argument en faveur d’un fonds souverain",
-    "added_at": "2025-08-25T03:27:20.766Z"
+    "added_at": "2025-08-25T03:27:20.766Z",
+    "removed_at": "2025-08-25T06:13:21.837Z",
+    "duration_minutes": 166,
+    "duration_str": "2h 46m"
   },
   {
     "title": "sciences:::Un campeur attrape la peste en Californie: cinq choses à savoir sur ce fléau bien réel en 2025",
@@ -26994,5 +27006,21 @@
   {
     "title": "monde:::Partir ou mourir à Kostiantynivka",
     "added_at": "2025-08-25T03:44:19.193Z"
+  },
+  {
+    "title": "suisse:::Nico Capone: «Les réseaux sociaux peuvent vous détruire. Ils doivent être beaucoup mieux contrôlés et encadrés»",
+    "added_at": "2025-08-25T04:48:31.974Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L'ambassadeur américain en France convoqué après des critiques sur la lutte contre l'antisémitisme",
+    "added_at": "2025-08-25T05:13:04.275Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Volodylmyr Zelensky réclame à nouveau une rencontre avec Vladimir Poutine",
+    "added_at": "2025-08-25T05:14:59.911Z"
+  },
+  {
+    "title": "economie:::Donald Trump, l’argument en faveur d’un fonds souverain",
+    "added_at": "2025-08-25T06:13:21.837Z"
   }
 ]
