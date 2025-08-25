@@ -26409,9 +26409,9 @@
   {
     "title": "19h30 signé",
     "added_at": "2025-07-25T21:30:25.517Z",
-    "removed_at": "2025-08-23T18:02:05.408Z",
-    "duration_minutes": 41551,
-    "duration_str": "28d 20h 31m"
+    "removed_at": "2025-08-25T20:35:00.091Z",
+    "duration_minutes": 44584,
+    "duration_str": "30d 23h 4m"
   },
   {
     "title": "La légende du catch Hulk Hogan est décédée à l'âge de 71 ans",
@@ -33584,9 +33584,9 @@
   {
     "title": "Israël : le ministre de la Défense approuve le plan de conquête de Gaza-ville",
     "added_at": "2025-08-20T13:25:32.662Z",
-    "removed_at": "2025-08-24T18:50:01.678Z",
-    "duration_minutes": 6084,
-    "duration_str": "4d 5h 24m"
+    "removed_at": "2025-08-25T20:35:00.091Z",
+    "duration_minutes": 7629,
+    "duration_str": "5d 7h 9m"
   },
   {
     "title": "Un audit révèle de sévères critiques sur le comportement du ministre jurassien Martial Courtet",
@@ -33686,9 +33686,9 @@
   {
     "title": "Un homme est soupçonné d’avoir tué sa femme et ses deux filles à Corcelles (NE)",
     "added_at": "2025-08-20T16:21:13.540Z",
-    "removed_at": "2025-08-24T18:50:01.678Z",
-    "duration_minutes": 5908,
-    "duration_str": "4d 2h 28m"
+    "removed_at": "2025-08-25T20:35:00.091Z",
+    "duration_minutes": 7453,
+    "duration_str": "5d 4h 13m"
   },
   {
     "title": "Un homme tue sa femme et ses deux filles de 10 et 3 ans à Corcelles (NE)",
@@ -33823,9 +33823,9 @@
   {
     "title": "Drame de Corcelles: Gabriel de Weck analyse les limites de l'action policière",
     "added_at": "2025-08-21T04:15:47.641Z",
-    "removed_at": "2025-08-25T19:24:58.050Z",
-    "duration_minutes": 6669,
-    "duration_str": "4d 15h 9m"
+    "removed_at": "2025-08-25T20:35:00.091Z",
+    "duration_minutes": 6739,
+    "duration_str": "4d 16h 19m"
   },
   {
     "title": "Comment repérer la phobie scolaire chez les enfants et les jeunes?",
@@ -34081,7 +34081,10 @@
   },
   {
     "title": "L'Ukraine a subi une importante vague d'attaques cette nuit",
-    "added_at": "2025-08-21T16:20:36.199Z"
+    "added_at": "2025-08-21T16:20:36.199Z",
+    "removed_at": "2025-08-25T22:20:38.596Z",
+    "duration_minutes": 6120,
+    "duration_str": "4d 6h"
   },
   {
     "title": "Martial Courtet annonce qu'il ne sera pas candidat au gouvernement sur la liste du Centre Jura",
@@ -34177,9 +34180,9 @@
   {
     "title": "Entretien avec Daniel Held, auteur du rapport sur Martial Courtet",
     "added_at": "2025-08-21T22:23:32.072Z",
-    "removed_at": "2025-08-25T12:29:02.281Z",
-    "duration_minutes": 5165,
-    "duration_str": "3d 14h 5m"
+    "removed_at": "2025-08-25T20:35:00.091Z",
+    "duration_minutes": 5651,
+    "duration_str": "3d 22h 11m"
   },
   {
     "title": "120 secondes - L’avenir des relations commerciales entre Suisse et Etats-Unis",
@@ -34728,14 +34731,17 @@
   },
   {
     "title": "La grippe aviaire pourrait menacer les fromages suisses traditionnels",
-    "added_at": "2025-08-23T15:38:29.169Z"
+    "added_at": "2025-08-23T15:38:29.169Z",
+    "removed_at": "2025-08-25T21:01:26.646Z",
+    "duration_minutes": 3202,
+    "duration_str": "2d 5h 22m"
   },
   {
     "title": "Les Lacs et rivières",
     "added_at": "2025-08-23T16:23:46.651Z",
-    "removed_at": "2025-08-25T17:03:08.109Z",
-    "duration_minutes": 2919,
-    "duration_str": "2d 39m"
+    "removed_at": "2025-08-25T20:35:00.091Z",
+    "duration_minutes": 3131,
+    "duration_str": "2d 4h 11m"
   },
   {
     "title": "Vers un double oui pour l’identité électronique et la suppression de la valeur locative, selon un sondage SSR",
@@ -35181,5 +35187,20 @@
   {
     "title": "Le tunnel du Mont-Blanc ferme lundi jusqu'au 12 décembre pour des travaux",
     "added_at": "2025-08-25T19:51:26.233Z"
+  },
+  {
+    "title": "De nouveaux débordements à l'avenue de Morges à Lausanne",
+    "added_at": "2025-08-25T21:01:26.646Z",
+    "removed_at": "2025-08-25T21:24:05.181Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
+  },
+  {
+    "title": "De nouveaux débordements à Lausanne après la mort d'un adolescent pourchassé par la police",
+    "added_at": "2025-08-25T21:24:05.181Z"
+  },
+  {
+    "title": "Racisme systémique dans la police lausannoise: quatre agents suspendus",
+    "added_at": "2025-08-25T22:20:38.596Z"
   }
 ]
