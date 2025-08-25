@@ -34314,7 +34314,10 @@
   },
   {
     "title": "La conseillère d'Etat vaudoise Rebecca Ruiz absente durant un mois pour raisons de santé",
-    "added_at": "2025-08-22T10:37:35.271Z"
+    "added_at": "2025-08-22T10:37:35.271Z",
+    "removed_at": "2025-08-25T01:36:04.931Z",
+    "duration_minutes": 3778,
+    "duration_str": "2d 14h 58m"
   },
   {
     "title": "Grève du personnel au sol prévue à l'aéroport de Zurich vendredi après-midi",
@@ -34828,5 +34831,9 @@
   {
     "title": "Des incidents signalés à Lausanne après la mort d'un jeune scootériste poursuivi par la police",
     "added_at": "2025-08-24T20:43:24.289Z"
+  },
+  {
+    "title": "SpaceX annule un nouveau vol d'essai de sa fusée géante Starship",
+    "added_at": "2025-08-25T01:36:04.931Z"
   }
 ]
