@@ -27286,7 +27286,10 @@
   },
   {
     "title": "suisse:::Racisme: l’honneur perdu de la police lausannoise",
-    "added_at": "2025-08-25T17:44:38.958Z"
+    "added_at": "2025-08-25T17:44:38.958Z",
+    "removed_at": "2025-08-26T18:51:03.890Z",
+    "duration_minutes": 1506,
+    "duration_str": "1d 1h 6m"
   },
   {
     "title": "economie:::Esther Duflo, Prix Nobel d’économie: «Taxer les plus fortunés en faveur des pays du Sud est un projet faisable»",
@@ -27403,7 +27406,10 @@
   },
   {
     "title": "suisse:::Bryan Slade, l’influenceur vaudois à la découverte du terroir et des villages",
-    "added_at": "2025-08-26T07:26:11.117Z"
+    "added_at": "2025-08-26T07:26:11.117Z",
+    "removed_at": "2025-08-26T19:02:22.861Z",
+    "duration_minutes": 696,
+    "duration_str": "11h 36m"
   },
   {
     "title": "culture:::La collection de Thierry Barbier-Mueller, une rencontre silencieuse avec les artistes et leur collectionneur",
@@ -27421,7 +27427,10 @@
   },
   {
     "title": "suisse:::Le Conseil d’Etat vaudois présente le rapport Paychère sur le bouclier fiscal: «Un tel dysfonctionnement n’aurait pas dû se produire»",
-    "added_at": "2025-08-26T08:45:27.543Z"
+    "added_at": "2025-08-26T08:45:27.543Z",
+    "removed_at": "2025-08-26T18:15:18.283Z",
+    "duration_minutes": 569,
+    "duration_str": "9h 29m"
   },
   {
     "title": "sciences:::Diabète de type 1: pourquoi les médecins se prennent à rêver de guérison",
@@ -27436,7 +27445,10 @@
   },
   {
     "title": "culture:::«Caught Stealing», le point de vue du chat",
-    "added_at": "2025-08-26T12:50:38.031Z"
+    "added_at": "2025-08-26T12:50:38.031Z",
+    "removed_at": "2025-08-26T19:09:56.021Z",
+    "duration_minutes": 379,
+    "duration_str": "6h 19m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Royaume-Uni va accueillir une quarantaine d’étudiants gazaouis",
@@ -27451,11 +27463,17 @@
   },
   {
     "title": "economie:::Le blues des fabricants de machines et d’équipements",
-    "added_at": "2025-08-26T14:47:36.913Z"
+    "added_at": "2025-08-26T14:47:36.913Z",
+    "removed_at": "2025-08-26T19:13:42.179Z",
+    "duration_minutes": 266,
+    "duration_str": "4h 26m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’aide qui entre à Gaza reste «une goutte d’eau dans l’océan» selon le Programme alimentaire mondial",
-    "added_at": "2025-08-26T14:47:36.913Z"
+    "added_at": "2025-08-26T14:47:36.913Z",
+    "removed_at": "2025-08-26T18:52:57.626Z",
+    "duration_minutes": 245,
+    "duration_str": "4h 5m"
   },
   {
     "title": "suisse:::Ebahis ou indifférents, les partis vaudois ont une perception variée du rapport sur le bouclier fiscal",
@@ -27498,5 +27516,35 @@
   {
     "title": "monde:::«Bloquons tout le 10 septembre»: quelles différences avec les Gilets jaunes et pour quelles conséquences en France?",
     "added_at": "2025-08-26T17:27:59.671Z"
+  },
+  {
+    "title": "suisse:::Pendant dix ans, le Canton a sciemment maintenu son application illégale du bouclier fiscal",
+    "added_at": "2025-08-26T18:15:18.283Z",
+    "removed_at": "2025-08-26T18:52:57.626Z",
+    "duration_minutes": 37,
+    "duration_str": "37m"
+  },
+  {
+    "title": "suisse:::Pendant dix ans, le canton a sciemment maintenu son application illégale du bouclier fiscal",
+    "added_at": "2025-08-26T18:52:57.626Z",
+    "removed_at": "2025-08-26T19:04:16.846Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les frappes israéliennes sur l’hôpital Nasser visaient une caméra du Hamas",
+    "added_at": "2025-08-26T18:52:57.626Z"
+  },
+  {
+    "title": "suisse:::Pendant dix ans, le canton de Vaud a sciemment maintenu son application illégale du bouclier fiscal",
+    "added_at": "2025-08-26T19:04:16.846Z"
+  },
+  {
+    "title": "culture:::Dans un roman poignant, la Grisonne Leta Semadeni montre comment les êtres aimés et disparus continuent d’habiter notre quotidien et notre mémoire",
+    "added_at": "2025-08-26T19:09:56.021Z"
+  },
+  {
+    "title": "culture:::Nox Orae, quinze ans de rock au jardin",
+    "added_at": "2025-08-26T19:13:42.179Z"
   }
 ]
