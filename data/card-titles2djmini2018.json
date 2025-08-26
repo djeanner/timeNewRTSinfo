@@ -27286,7 +27286,10 @@
   },
   {
     "title": "suisse:::Incendies, mortiers, feux d’artifice: une nouvelle nuit d’émeutes débute à Lausanne",
-    "added_at": "2025-08-25T21:05:10.382Z"
+    "added_at": "2025-08-25T21:05:10.382Z",
+    "removed_at": "2025-08-25T22:50:54.484Z",
+    "duration_minutes": 105,
+    "duration_str": "1h 45m"
   },
   {
     "title": "sport:::Football, cyclisme, rugby: un été mémorable pour un sport féminin à fort potentiel de croissance",
@@ -27295,5 +27298,16 @@
   {
     "title": "monde:::Le rouleau compresseur MAGA écrase la dissidence",
     "added_at": "2025-08-25T22:26:18.205Z"
+  },
+  {
+    "title": "suisse:::Incendies, mortiers, feux d’artifice: Lausanne connaît une nouvelle nuit d’émeutes",
+    "added_at": "2025-08-25T22:50:54.484Z",
+    "removed_at": "2025-08-26T01:01:03.974Z",
+    "duration_minutes": 130,
+    "duration_str": "2h 10m"
+  },
+  {
+    "title": "suisse:::Incendies, mortiers, feux d’artifice: Lausanne a connu une nouvelle soirée d’émeutes",
+    "added_at": "2025-08-26T01:01:03.974Z"
   }
 ]
