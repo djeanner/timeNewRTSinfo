@@ -14,8 +14,9 @@
   {
     "title": "suisse:::Cette fois, la nuit a été calme à Lausanne",
     "added_at": "2025-08-27T04:28:08.150Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-27T10:27:23.775Z",
+    "duration_minutes": 359,
+    "duration_str": "5h 59m"
   },
   {
     "title": "culture:::Mehdi Maïzi, l’école du rap",
@@ -45,12 +46,19 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Mobilisation pour les otages en Israël avant une réunion sur l'après-conflit à la Maison-Blanche",
     "added_at": "2025-08-27T02:25:32.447Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-27T11:16:14.694Z",
+    "duration_minutes": 531,
+    "duration_str": "8h 51m"
   },
   {
     "title": "sciences:::L’automne arrive en Suisse, après un été plus chaud qu’il n’y paraît",
     "added_at": "2025-08-27T10:01:41.350Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L'armée israélienne se prépare à une évacuation de la ville de Gaza, la jugeant «inévitable»",
+    "added_at": "2025-08-27T11:16:14.694Z",
     "duration_minutes": 0,
     "duration_str": ""
   },

@@ -28644,7 +28644,10 @@
   },
   {
     "title": "suisse:::Cette fois, la nuit a été calme à Lausanne",
-    "added_at": "2025-08-27T09:09:37.127Z"
+    "added_at": "2025-08-27T09:09:37.127Z",
+    "removed_at": "2025-08-27T10:27:23.775Z",
+    "duration_minutes": 77,
+    "duration_str": "1h 17m"
   },
   {
     "title": "suisse:::Mort de Marvin: le Ministère public communique des premiers éléments dans le but «d’apaiser la situation»",
@@ -28691,7 +28694,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Mobilisation pour les otages en Israël avant une réunion sur l'après-conflit à la Maison-Blanche",
-    "added_at": "2025-08-27T09:09:37.127Z"
+    "added_at": "2025-08-27T09:09:37.127Z",
+    "removed_at": "2025-08-27T11:16:14.694Z",
+    "duration_minutes": 126,
+    "duration_str": "2h 6m"
   },
   {
     "title": "monde:::Conquérir et occuper Gaza, le fantasme d’Israël devenu une coûteuse réalité, vingt ans après son retrait",
@@ -28712,5 +28718,9 @@
   {
     "title": "sciences:::L’automne arrive en Suisse, après un été plus chaud qu’il n’y paraît",
     "added_at": "2025-08-27T10:01:41.350Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L'armée israélienne se prépare à une évacuation de la ville de Gaza, la jugeant «inévitable»",
+    "added_at": "2025-08-27T11:16:14.694Z"
   }
 ]

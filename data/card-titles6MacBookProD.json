@@ -30599,7 +30599,10 @@
   },
   {
     "title": "US imposes 50 percent tariff on India over Russian oil purchases",
-    "added_at": "2025-08-27T09:09:37.548Z"
+    "added_at": "2025-08-27T09:09:37.548Z",
+    "removed_at": "2025-08-27T10:21:00.657Z",
+    "duration_minutes": 71,
+    "duration_str": "1h 11m"
   },
   {
     "title": "Why investors are on tenterhooks for Nvidia’s latest earnings report",
@@ -30658,5 +30661,9 @@
   {
     "title": "Denmark summons US diplomat over Greenland ‘influence’ attempts",
     "added_at": "2025-08-27T10:03:52.239Z"
+  },
+  {
+    "title": "US hikes India tariffs to 50 percent over Russian oil purchases",
+    "added_at": "2025-08-27T10:21:00.657Z"
   }
 ]
