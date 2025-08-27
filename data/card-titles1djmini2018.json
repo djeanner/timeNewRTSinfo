@@ -34911,7 +34911,10 @@
   },
   {
     "title": "Au fond d'une grotte valaisanne, dans les années 30, Vincent Donovan devint Mlle Kraig",
-    "added_at": "2025-08-24T12:18:52.025Z"
+    "added_at": "2025-08-24T12:18:52.025Z",
+    "removed_at": "2025-08-27T05:02:04.999Z",
+    "duration_minutes": 3883,
+    "duration_str": "2d 16h 43m"
   },
   {
     "title": "Quand la démocratie passe par les idées des jeunes",
@@ -35218,7 +35221,10 @@
   },
   {
     "title": "Le violoncelliste Rostropovitch jouant au pied du Mur de Berlin en ruine, tout un symbole",
-    "added_at": "2025-08-25T14:11:08.548Z"
+    "added_at": "2025-08-25T14:11:08.548Z",
+    "removed_at": "2025-08-27T04:24:22.036Z",
+    "duration_minutes": 2293,
+    "duration_str": "1d 14h 13m"
   },
   {
     "title": "Le Badrutt's Palace, joyau de St-Moritz, élu hôtel de l'année 2026",
@@ -35595,5 +35601,9 @@
   {
     "title": "Un 10ème vol d'essai réussi pour la mégafusée Starship",
     "added_at": "2025-08-27T02:25:32.381Z"
+  },
+  {
+    "title": "Gaza, Yémen, Soudan: quand la famine est un crime de guerre",
+    "added_at": "2025-08-27T04:24:22.036Z"
   }
 ]
