@@ -10431,10 +10431,7 @@
   },
   {
     "title": "La comédienne française Agnès Berthon, muse de Joël Pommerat, est décédée à 66 ans",
-    "added_at": "2025-08-22T14:39:40.377Z",
-    "removed_at": "2025-08-27T18:33:40.546Z",
-    "duration_minutes": 7434,
-    "duration_str": "5d 3h 54m"
+    "added_at": "2025-08-22T14:39:40.377Z"
   },
   {
     "title": "Avis de recherche: où sont les apprentis et apprenties?",
@@ -10818,7 +10815,10 @@
   },
   {
     "title": "Des incidents signalés à Lausanne après la mort d'un jeune scootériste poursuivi par la police",
-    "added_at": "2025-08-27T09:09:37.089Z"
+    "added_at": "2025-08-27T09:09:37.089Z",
+    "removed_at": "2025-08-27T20:01:07.234Z",
+    "duration_minutes": 651,
+    "duration_str": "10h 51m"
   },
   {
     "title": "\"Dès que nous avons été violents, nous avons eu des réponses\" de la police, témoigne un jeune Lausannois",
@@ -10979,11 +10979,17 @@
   },
   {
     "title": "Les \"dupes\", ces vrais-faux parfums qui effraient l'industrie du luxe",
-    "added_at": "2025-08-27T09:09:37.089Z"
+    "added_at": "2025-08-27T09:09:37.089Z",
+    "removed_at": "2025-08-27T20:09:36.537Z",
+    "duration_minutes": 659,
+    "duration_str": "10h 59m"
   },
   {
     "title": "\"Du côté des vivants\" de Violaine Bérot, l'hôpital et ses fantômes",
-    "added_at": "2025-08-27T09:09:37.089Z"
+    "added_at": "2025-08-27T09:09:37.089Z",
+    "removed_at": "2025-08-27T19:48:22.756Z",
+    "duration_minutes": 638,
+    "duration_str": "10h 38m"
   },
   {
     "title": "\"Drôle Zurich\", quand l'humour francophone conquiert la Suisse alémanique",
@@ -11268,5 +11274,20 @@
   {
     "title": "Le Conseil d'Etat genevois donne son feu vert pour deux tours de 170 et 175 mètres de haut",
     "added_at": "2025-08-27T19:14:16.635Z"
+  },
+  {
+    "title": "Le changement climatique provoque plus d'\"orages supercellulaires\"",
+    "added_at": "2025-08-27T19:48:22.756Z",
+    "removed_at": "2025-08-27T20:09:36.537Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
+  },
+  {
+    "title": "Le procureur vaudois \"veut couper court aux rumeurs\" sur le décès du jeune scootériste à Lausanne",
+    "added_at": "2025-08-27T20:09:36.537Z"
+  },
+  {
+    "title": "Le changement climatique provoque davantage d'\"orages supercellulaires\"",
+    "added_at": "2025-08-27T20:09:36.537Z"
   }
 ]
