@@ -28656,7 +28656,10 @@
   },
   {
     "title": "suisse:::2,43 mètres: un silure d’une taille record a été pêché dans le lac de Neuchâtel",
-    "added_at": "2025-08-27T09:09:37.127Z"
+    "added_at": "2025-08-27T09:09:37.127Z",
+    "removed_at": "2025-08-27T10:01:41.350Z",
+    "duration_minutes": 52,
+    "duration_str": "52m"
   },
   {
     "title": "cyber:::La guerre commerciale de Donald Trump, cheval de Troie de l’impérialisme technologique américain",
@@ -28705,5 +28708,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine –  Kiev reconnaît une avancée russe dans la région de Dnipropetrovsk",
     "added_at": "2025-08-27T09:09:37.127Z"
+  },
+  {
+    "title": "sciences:::L’automne arrive en Suisse, après un été plus chaud qu’il n’y paraît",
+    "added_at": "2025-08-27T10:01:41.350Z"
   }
 ]
