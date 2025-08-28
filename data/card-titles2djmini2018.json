@@ -6448,7 +6448,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:00:57.917Z"
+    "added_at": "2025-05-22T18:00:57.917Z",
+    "removed_at": "2025-08-28T19:30:34.962Z",
+    "duration_minutes": 141209,
+    "duration_str": "98d 1h 29m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -27665,7 +27668,10 @@
   },
   {
     "title": "sciences:::L’automne arrive en Suisse, après un été plus chaud qu’il n’y paraît",
-    "added_at": "2025-08-27T10:02:38.449Z"
+    "added_at": "2025-08-27T10:02:38.449Z",
+    "removed_at": "2025-08-28T18:54:52.317Z",
+    "duration_minutes": 1972,
+    "duration_str": "1d 8h 52m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L'armée israélienne se prépare à une évacuation de la ville de Gaza, la jugeant «inévitable»",
@@ -27923,7 +27929,10 @@
   },
   {
     "title": "cyber:::Le choc: 95% des projets d’intelligence artificielle en entreprise échouent, affirme le MIT. La situation est-elle si catastrophique?",
-    "added_at": "2025-08-28T06:10:14.048Z"
+    "added_at": "2025-08-28T06:10:14.048Z",
+    "removed_at": "2025-08-28T19:13:38.073Z",
+    "duration_minutes": 783,
+    "duration_str": "13h 3m"
   },
   {
     "title": "suisse:::Epilogue judiciaire dans la saga des Grands-Prés: ces 25 000 m² à Montreux échapperont à toute construction",
@@ -28009,7 +28018,10 @@
   },
   {
     "title": "economie:::Le groupe Alpiq en repli au premier semestre, lesté par l’atome",
-    "added_at": "2025-08-28T14:04:26.729Z"
+    "added_at": "2025-08-28T14:04:26.729Z",
+    "removed_at": "2025-08-28T19:06:09.829Z",
+    "duration_minutes": 301,
+    "duration_str": "5h 1m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Entre Moscou et Kiev, une guerre des airs inégale",
@@ -28080,5 +28092,35 @@
   {
     "title": "sport:::La météo vient pimenter l’Omega European Masters",
     "added_at": "2025-08-28T18:28:15.043Z"
+  },
+  {
+    "title": "suisse:::Uli Maurer invité à un défilé militaire à Pékin",
+    "added_at": "2025-08-28T18:54:52.317Z",
+    "removed_at": "2025-08-28T19:13:38.073Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
+  },
+  {
+    "title": "sport:::Un solide Lausanne-Sport s’impose chez Besiktas et se qualifie pour la Conférence League",
+    "added_at": "2025-08-28T19:06:09.829Z"
+  },
+  {
+    "title": "suisse:::Ueli Maurer invité à un défilé militaire à Pékin",
+    "added_at": "2025-08-28T19:13:38.073Z",
+    "removed_at": "2025-08-28T19:55:02.677Z",
+    "duration_minutes": 41,
+    "duration_str": "41m"
+  },
+  {
+    "title": "culture:::«Le Ministère des rêves», dernier rempart contre la volonté de toute-puissance",
+    "added_at": "2025-08-28T19:13:38.073Z"
+  },
+  {
+    "title": "culture:::De la Juanita péruvienne au mur de Berlin, les jeunes de la Parfumerie voient loin",
+    "added_at": "2025-08-28T19:30:34.962Z"
+  },
+  {
+    "title": "sport:::La Fribourgeoise Audrey Werro explose, encore, son record de Suisse du 800 mètres",
+    "added_at": "2025-08-28T19:55:02.677Z"
   }
 ]
