@@ -181,7 +181,7 @@
   {
     "title": "economie:::Le groupe Alpiq en repli au premier semestre, lesté par l’atome",
     "added_at": "2025-08-28T14:03:17.178Z",
-    "removed_at": "2025-08-28T19:06:25.065Z",
+    "removed_at": "2025-08-28T19:06:09.829Z",
     "duration_minutes": 303,
     "duration_str": "5h 3m"
   },
@@ -271,23 +271,24 @@
   },
   {
     "title": "suisse:::Uli Maurer invité à un défilé militaire à Pékin",
-    "added_at": "2025-08-28T18:55:44.688Z",
+    "added_at": "2025-08-28T18:54:52.317Z",
     "removed_at": "2025-08-28T19:12:50.688Z",
-    "duration_minutes": 17,
-    "duration_str": "17m"
+    "duration_minutes": 18,
+    "duration_str": "18m"
   },
   {
     "title": "sport:::Un solide Lausanne-Sport s’impose chez Besiktas et se qualifie pour la Conférence League",
-    "added_at": "2025-08-28T19:06:25.065Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-08-28T19:06:09.829Z",
+    "removed_at": "2025-08-28T21:42:19.684Z",
+    "duration_minutes": 156,
+    "duration_str": "2h 36m"
   },
   {
     "title": "suisse:::Ueli Maurer invité à un défilé militaire à Pékin",
     "added_at": "2025-08-28T19:12:50.688Z",
-    "removed_at": "2025-08-28T19:55:39.394Z",
-    "duration_minutes": 43,
-    "duration_str": "43m"
+    "removed_at": "2025-08-28T19:55:02.677Z",
+    "duration_minutes": 42,
+    "duration_str": "42m"
   },
   {
     "title": "culture:::«Le Ministère des rêves», dernier rempart contre la volonté de toute-puissance",
@@ -297,13 +298,19 @@
   },
   {
     "title": "culture:::De la Juanita péruvienne au mur de Berlin, les jeunes de la Parfumerie voient loin",
-    "added_at": "2025-08-28T19:32:12.285Z",
+    "added_at": "2025-08-28T19:30:34.962Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "sport:::La Fribourgeoise Audrey Werro explose, encore, son record de Suisse du 800 mètres",
-    "added_at": "2025-08-28T19:55:39.394Z",
+    "added_at": "2025-08-28T19:55:02.677Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "sport:::Un solide Lausanne-Sport s’impose chez Besiktas et se qualifie pour la Conférence League, Servette est éliminé",
+    "added_at": "2025-08-28T21:42:19.684Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
