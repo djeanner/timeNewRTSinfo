@@ -10833,7 +10833,10 @@
   },
   {
     "title": "Le service Gmail de Google en proie à d'importantes cyberattaques",
-    "added_at": "2025-08-27T09:09:37.089Z"
+    "added_at": "2025-08-27T09:09:37.089Z",
+    "removed_at": "2025-08-28T07:03:22.827Z",
+    "duration_minutes": 1313,
+    "duration_str": "21h 53m"
   },
   {
     "title": "La Poste suisse suspend à son tour la livraison des colis à destination des Etats-Unis",
@@ -10944,11 +10947,17 @@
   },
   {
     "title": "Podcast - Comment décrocher après le travail?",
-    "added_at": "2025-08-27T09:09:37.089Z"
+    "added_at": "2025-08-27T09:09:37.089Z",
+    "removed_at": "2025-08-28T06:48:27.273Z",
+    "duration_minutes": 1298,
+    "duration_str": "21h 38m"
   },
   {
     "title": "A quoi vont ressembler nos forêts, alors que les canicules pourraient s'intensifier?",
-    "added_at": "2025-08-27T09:09:37.089Z"
+    "added_at": "2025-08-27T09:09:37.089Z",
+    "removed_at": "2025-08-28T06:33:35.215Z",
+    "duration_minutes": 1283,
+    "duration_str": "21h 23m"
   },
   {
     "title": "Donald Trump limoge une gouverneure de la Banque centrale américaine",
@@ -11206,9 +11215,9 @@
   {
     "title": "Rencontre avec Charles Roulin, le maestro des couteaux",
     "added_at": "2025-08-27T12:03:09.895Z",
-    "removed_at": "2025-08-27T21:02:54.155Z",
-    "duration_minutes": 539,
-    "duration_str": "8h 59m"
+    "removed_at": "2025-08-28T06:20:49.097Z",
+    "duration_minutes": 1097,
+    "duration_str": "18h 17m"
   },
   {
     "title": "Dans le Jura, \"Terre vivante\" a uni scientifiques et agriculteurs pour mieux protéger leurs sols",
@@ -11339,9 +11348,9 @@
   {
     "title": "Aux Etats-Unis, les opposants au président Donald Trump sont peu à peu écartés: interview de Cécile Coquet-Mokoko",
     "added_at": "2025-08-27T21:02:54.155Z",
-    "removed_at": "2025-08-28T01:22:32.912Z",
-    "duration_minutes": 259,
-    "duration_str": "4h 19m"
+    "removed_at": "2025-08-28T06:39:56.616Z",
+    "duration_minutes": 577,
+    "duration_str": "9h 37m"
   },
   {
     "title": "Deux enfants tués et 14 blessés lors d'une fusillade dans une église à Minneapolis",
@@ -11400,5 +11409,17 @@
   {
     "title": "La Turquie est à son tour traversée par une vague d'accusations #MeToo",
     "added_at": "2025-08-28T06:10:04.181Z"
+  },
+  {
+    "title": "Des parents américains accusent ChatGPT d'encourager au suicide",
+    "added_at": "2025-08-28T06:33:35.215Z"
+  },
+  {
+    "title": "Le Tribunal fédéral confirme la condamnation de Tariq Ramadan pour viol",
+    "added_at": "2025-08-28T06:48:27.273Z"
+  },
+  {
+    "title": "L'Allemagne mise sur le volontariat pour faire faire de son armée la plus grande d'Europe",
+    "added_at": "2025-08-28T06:50:37.860Z"
   }
 ]
