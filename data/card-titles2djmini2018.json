@@ -27690,7 +27690,10 @@
   },
   {
     "title": "suisse:::A Genève, deux tours culminant à 170 mètres domineront le nouveau centre urbain du PAV",
-    "added_at": "2025-08-27T15:33:50.318Z"
+    "added_at": "2025-08-27T15:33:50.318Z",
+    "removed_at": "2025-08-28T07:55:44.894Z",
+    "duration_minutes": 981,
+    "duration_str": "16h 21m"
   },
   {
     "title": "suisse:::A Corcelles, une marche blanche rend hommage aux victimes du triple homicide",
@@ -27887,7 +27890,10 @@
   },
   {
     "title": "suisse:::La conseillère nationale Aline Trede candidate au gouvernement bernois",
-    "added_at": "2025-08-28T05:17:26.328Z"
+    "added_at": "2025-08-28T05:17:26.328Z",
+    "removed_at": "2025-08-28T08:27:43.743Z",
+    "duration_minutes": 190,
+    "duration_str": "3h 10m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Kiev visée par une importante attaque russe, faisant au moins huit morts",
@@ -27898,10 +27904,32 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky: «Les frappes meurtrières sur Kiev montrent le mépris de la Russie pour le processus de paix»",
-    "added_at": "2025-08-28T05:58:57.328Z"
+    "added_at": "2025-08-28T05:58:57.328Z",
+    "removed_at": "2025-08-28T08:48:28.912Z",
+    "duration_minutes": 169,
+    "duration_str": "2h 49m"
   },
   {
     "title": "cyber:::Le choc: 95% des projets d’intelligence artificielle en entreprise échouent, affirme le MIT. La situation est-elle si catastrophique?",
     "added_at": "2025-08-28T06:10:14.048Z"
+  },
+  {
+    "title": "suisse:::Epilogue judiciaire dans la saga des Grands-Prés: ces 25 000 m² à Montreux échapperont à toute construction",
+    "added_at": "2025-08-28T07:38:49.050Z"
+  },
+  {
+    "title": "suisse:::Tariq Ramadan est définitivement condamné en Suisse pour viol et contrainte sexuelle",
+    "added_at": "2025-08-28T07:55:44.894Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky: Le bilan du bombardement russe sur Kiev s'alourdit à 14 morts",
+    "added_at": "2025-08-28T08:48:28.912Z",
+    "removed_at": "2025-08-28T08:50:18.941Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Le bilan du bombardement russe sur Kiev s'alourdit à 14 morts",
+    "added_at": "2025-08-28T08:50:18.941Z"
   }
 ]
