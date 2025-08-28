@@ -768,8 +768,9 @@
   {
     "title": "Les bombardements israéliens ont fait 26 morts dans la bande de Gaza jeudi",
     "added_at": "2025-08-28T16:49:34.455Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-28T20:34:05.093Z",
+    "duration_minutes": 225,
+    "duration_str": "3h 45m"
   },
   {
     "title": "« La Maison vide », de Laurent Mauvignier : le feuilleton littéraire de Tiphaine Samoyault",
@@ -793,9 +794,9 @@
   {
     "title": "Ligue des champions : les adversaires du PSG, de l’Olympique de Marseille et de Monaco pour la première phase",
     "added_at": "2025-08-28T17:18:41.550Z",
-    "removed_at": "2025-08-28T20:23:20.506Z",
-    "duration_minutes": 185,
-    "duration_str": "3h 5m"
+    "removed_at": "2025-08-28T21:23:03.289Z",
+    "duration_minutes": 244,
+    "duration_str": "4h 4m"
   },
   {
     "title": "Euro masculin de basket : l’équipe de France débute par un succès aisé contre la Belgique",
@@ -866,6 +867,47 @@
   {
     "title": "Municipales à Paris : officiellement investie par LR, Rachida Dati ne se présentera pas face à Michel Barnier à la législative partielle",
     "added_at": "2025-08-28T20:02:02.831Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Bezalel Smotrich prône l’annexion de l’enclave si le Hamas refuse de déposer les armes",
+    "added_at": "2025-08-28T20:34:05.093Z",
+    "removed_at": "2025-08-28T20:46:50.866Z",
+    "duration_minutes": 13,
+    "duration_str": "13m"
+  },
+  {
+    "title": "Bezalel Smotrich prône l’annexion de la bande de Gaza si le Hamas refuse de déposer les armes",
+    "added_at": "2025-08-28T20:46:50.866Z",
+    "removed_at": "2025-08-28T21:18:44.289Z",
+    "duration_minutes": 32,
+    "duration_str": "32m"
+  },
+  {
+    "title": "le bilan, pour le moment de 21 morts, pourraient encore s’alourdir à Kiev",
+    "added_at": "2025-08-28T20:46:50.866Z",
+    "removed_at": "2025-08-28T20:48:59.379Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Le bilan, pour le moment de 21 morts, pourrait encore s’alourdir à Kiev",
+    "added_at": "2025-08-28T21:16:40.085Z",
+    "removed_at": "2025-08-28T21:23:03.289Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
+  },
+  {
+    "title": "Corée du Nord : la perspective d’un quatrième sommet Donald Trump-Kim Jong-un",
+    "added_at": "2025-08-28T21:16:40.085Z",
+    "removed_at": "2025-08-28T21:23:03.289Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
+  },
+  {
+    "title": "Gaza : le ministre des finances israélien prône l’annexion de l’enclave si le Hamas refuse de déposer les armes",
+    "added_at": "2025-08-28T21:18:44.289Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
