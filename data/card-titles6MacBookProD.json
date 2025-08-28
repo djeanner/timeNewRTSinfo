@@ -31125,7 +31125,10 @@
   },
   {
     "title": "‘Massive’ Russian attack on Ukraine’s Kyiv kills at least 15, wounds dozens",
-    "added_at": "2025-08-28T11:48:40.752Z"
+    "added_at": "2025-08-28T11:48:40.752Z",
+    "removed_at": "2025-08-28T15:19:51.999Z",
+    "duration_minutes": 211,
+    "duration_str": "3h 31m"
   },
   {
     "title": "Is Trump trying to engineer Greenland’s secession from Denmark?",
@@ -31169,5 +31172,9 @@
   {
     "title": "In post-conflict fallout, Pakistan skips hockey’s Asia Cup in India",
     "added_at": "2025-08-28T14:39:26.457Z"
+  },
+  {
+    "title": "‘Massive’ Russian attack on Ukraine’s Kyiv kills at least 18, wounds dozens",
+    "added_at": "2025-08-28T15:19:51.999Z"
   }
 ]

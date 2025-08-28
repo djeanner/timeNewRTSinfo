@@ -29034,7 +29034,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L'armée israélienne a tiré non pas deux mais trois fois sur l'hôpital Nasser à Gaza",
-    "added_at": "2025-08-28T09:40:31.476Z"
+    "added_at": "2025-08-28T09:40:31.476Z",
+    "removed_at": "2025-08-28T14:58:40.732Z",
+    "duration_minutes": 318,
+    "duration_str": "5h 18m"
   },
   {
     "title": "culture:::De la finance à la BD, la vie hors des cases de Céline Antelme, libraire à Lausanne",
@@ -29078,7 +29081,10 @@
   },
   {
     "title": "sport:::Pourquoi les champions d’autres sports adorent le golf",
-    "added_at": "2025-08-28T13:31:12.643Z"
+    "added_at": "2025-08-28T13:31:12.643Z",
+    "removed_at": "2025-08-28T15:28:22.717Z",
+    "duration_minutes": 117,
+    "duration_str": "1h 57m"
   },
   {
     "title": "economie:::Le groupe Alpiq en repli au premier semestre, lesté par l’atome",
@@ -29086,6 +29092,38 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Entre Moscou et Kiev, une guerre des airs inégale",
-    "added_at": "2025-08-28T14:33:03.746Z"
+    "added_at": "2025-08-28T14:33:03.746Z",
+    "removed_at": "2025-08-28T15:21:59.612Z",
+    "duration_minutes": 48,
+    "duration_str": "48m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les Européens déclenchent le compte à rebours pour réimposer des sanctions contre l'Iran",
+    "added_at": "2025-08-28T14:58:40.732Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Donald Trump silencieux, le service minimum de son administration pour condamner le bombardement russe de Kiev",
+    "added_at": "2025-08-28T15:21:59.612Z",
+    "removed_at": "2025-08-28T15:28:22.717Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Le service minimum de l'administration Trump pour condamner le bombardement russe de Kiev",
+    "added_at": "2025-08-28T15:28:22.717Z",
+    "removed_at": "2025-08-28T15:30:32.859Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Service minimum de l'administration Trump pour condamner le bombardement de Kiev",
+    "added_at": "2025-08-28T15:30:32.859Z",
+    "removed_at": "2025-08-28T15:32:37.278Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Service minimum de Washington pour condamner le bombardement de Kiev",
+    "added_at": "2025-08-28T15:32:37.278Z"
   }
 ]
