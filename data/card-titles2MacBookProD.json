@@ -26150,7 +26150,10 @@
   },
   {
     "title": "suisse:::Découvrez «Le Temps» avec tous nos abonnements annuels à –30% et bénéficiez d’une information fiable et indépendante",
-    "added_at": "2025-08-14T09:49:35.942Z"
+    "added_at": "2025-08-14T09:49:35.942Z",
+    "removed_at": "2025-08-28T09:32:03.579Z",
+    "duration_minutes": 20142,
+    "duration_str": "13d 23h 42m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Le Kremlin donne des détails sur le sommet Trump-Poutine en Alaska",
@@ -28440,7 +28443,10 @@
   },
   {
     "title": "suisse:::Comment la Suisse entend naviguer dans le brouillard commercial",
-    "added_at": "2025-08-22T16:15:55.198Z"
+    "added_at": "2025-08-22T16:15:55.198Z",
+    "removed_at": "2025-08-28T09:29:53.169Z",
+    "duration_minutes": 8233,
+    "duration_str": "5d 17h 13m"
   },
   {
     "title": "monde:::A l'Organisation mondiale du commerce, Washington seul contre tous",
@@ -28828,10 +28834,7 @@
   },
   {
     "title": "suisse:::A Genève, la hausse des emplois du public se fait au détriment du privé, dénonce le patronat",
-    "added_at": "2025-08-27T16:55:44.884Z",
-    "removed_at": "2025-08-28T05:21:13.277Z",
-    "duration_minutes": 745,
-    "duration_str": "12h 25m"
+    "added_at": "2025-08-27T16:55:44.884Z"
   },
   {
     "title": "monde:::Un tireur tue deux enfants et blesse 14 personnes dans une école catholique à Minneapolis",
@@ -28849,10 +28852,7 @@
   },
   {
     "title": "monde:::L’offensive audacieuse du chancelier allemand Friedrich Merz pour l’Ukraine",
-    "added_at": "2025-08-27T17:42:31.402Z",
-    "removed_at": "2025-08-28T04:08:35.721Z",
-    "duration_minutes": 626,
-    "duration_str": "10h 26m"
+    "added_at": "2025-08-27T17:42:31.402Z"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Des responsables ukrainiens rencontreront vendredi l’administration Trump",
@@ -28928,7 +28928,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël intensifie ses opérations autour de Gaza-ville",
-    "added_at": "2025-08-28T00:59:14.320Z"
+    "added_at": "2025-08-28T00:59:14.320Z",
+    "removed_at": "2025-08-28T09:40:31.476Z",
+    "duration_minutes": 521,
+    "duration_str": "8h 41m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – De puissantes explosions entendues à Kiev",
@@ -28975,7 +28978,10 @@
   },
   {
     "title": "suisse:::La conseillère nationale Aline Trede candidate au gouvernement bernois",
-    "added_at": "2025-08-28T05:16:47.262Z"
+    "added_at": "2025-08-28T05:16:47.262Z",
+    "removed_at": "2025-08-28T08:28:55.922Z",
+    "duration_minutes": 192,
+    "duration_str": "3h 12m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Kiev visée par une importante attaque russe, faisant au moins huit morts",
@@ -28986,7 +28992,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky: «Les frappes meurtrières sur Kiev montrent le mépris de la Russie pour le processus de paix»",
-    "added_at": "2025-08-28T05:59:28.442Z"
+    "added_at": "2025-08-28T05:59:28.442Z",
+    "removed_at": "2025-08-28T08:48:07.732Z",
+    "duration_minutes": 168,
+    "duration_str": "2h 48m"
   },
   {
     "title": "cyber:::Le choc: 95% des projets d’intelligence artificielle en entreprise échouent, affirme le MIT. La situation est-elle si catastrophique?",
@@ -28999,5 +29008,20 @@
   {
     "title": "suisse:::Tariq Ramadan est définitivement condamné en Suisse pour viol et contrainte sexuelle",
     "added_at": "2025-08-28T07:54:43.227Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky: Le bilan du bombardement russe sur Kiev s'alourdit à 14 morts",
+    "added_at": "2025-08-28T08:48:07.732Z",
+    "removed_at": "2025-08-28T08:50:16.679Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Le bilan du bombardement russe sur Kiev s'alourdit à 14 morts",
+    "added_at": "2025-08-28T08:50:16.679Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L'armée israélienne a tiré non pas deux mais trois fois sur l'hôpital Nasser à Gaza",
+    "added_at": "2025-08-28T09:40:31.476Z"
   }
 ]
