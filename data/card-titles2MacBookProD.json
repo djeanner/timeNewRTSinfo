@@ -28750,7 +28750,10 @@
   },
   {
     "title": "sciences:::L’automne arrive en Suisse, après un été plus chaud qu’il n’y paraît",
-    "added_at": "2025-08-27T10:01:41.350Z"
+    "added_at": "2025-08-27T10:01:41.350Z",
+    "removed_at": "2025-08-28T18:55:44.688Z",
+    "duration_minutes": 1974,
+    "duration_str": "1d 8h 54m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L'armée israélienne se prépare à une évacuation de la ville de Gaza, la jugeant «inévitable»",
@@ -29008,7 +29011,10 @@
   },
   {
     "title": "cyber:::Le choc: 95% des projets d’intelligence artificielle en entreprise échouent, affirme le MIT. La situation est-elle si catastrophique?",
-    "added_at": "2025-08-28T06:10:04.220Z"
+    "added_at": "2025-08-28T06:10:04.220Z",
+    "removed_at": "2025-08-28T19:12:50.688Z",
+    "duration_minutes": 782,
+    "duration_str": "13h 2m"
   },
   {
     "title": "suisse:::Epilogue judiciaire dans la saga des Grands-Prés: ces 25 000 m² à Montreux échapperont à toute construction",
@@ -29094,7 +29100,10 @@
   },
   {
     "title": "economie:::Le groupe Alpiq en repli au premier semestre, lesté par l’atome",
-    "added_at": "2025-08-28T14:03:17.178Z"
+    "added_at": "2025-08-28T14:03:17.178Z",
+    "removed_at": "2025-08-28T19:06:25.065Z",
+    "duration_minutes": 303,
+    "duration_str": "5h 3m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Entre Moscou et Kiev, une guerre des airs inégale",
@@ -29172,5 +29181,24 @@
   {
     "title": "sport:::La météo vient pimenter l’Omega European Masters",
     "added_at": "2025-08-28T18:27:50.204Z"
+  },
+  {
+    "title": "suisse:::Uli Maurer invité à un défilé militaire à Pékin",
+    "added_at": "2025-08-28T18:55:44.688Z",
+    "removed_at": "2025-08-28T19:12:50.688Z",
+    "duration_minutes": 17,
+    "duration_str": "17m"
+  },
+  {
+    "title": "sport:::Un solide Lausanne-Sport s’impose chez Besiktas et se qualifie pour la Conférence League",
+    "added_at": "2025-08-28T19:06:25.065Z"
+  },
+  {
+    "title": "suisse:::Ueli Maurer invité à un défilé militaire à Pékin",
+    "added_at": "2025-08-28T19:12:50.688Z"
+  },
+  {
+    "title": "culture:::«Le Ministère des rêves», dernier rempart contre la volonté de toute-puissance",
+    "added_at": "2025-08-28T19:12:50.688Z"
   }
 ]
