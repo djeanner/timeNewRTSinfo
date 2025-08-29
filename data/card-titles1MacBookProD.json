@@ -10858,7 +10858,10 @@
   },
   {
     "title": "Deuxième nuit de violences à Lausanne, sept personnes interpellées",
-    "added_at": "2025-08-27T09:09:37.089Z"
+    "added_at": "2025-08-27T09:09:37.089Z",
+    "removed_at": "2025-08-29T15:04:55.236Z",
+    "duration_minutes": 3235,
+    "duration_str": "2d 5h 55m"
   },
   {
     "title": "Quatre policiers lausannois suspendus après des messages racistes, antisémites et sexistes",
@@ -11488,10 +11491,7 @@
   },
   {
     "title": "\"C'est difficile, on n’est pas programmé pour vivre la mort d’un jeune de 17 ans\", témoigne l’oncle de Marvin",
-    "added_at": "2025-08-27T18:29:28.078Z",
-    "removed_at": "2025-08-29T14:39:12.184Z",
-    "duration_minutes": 2649,
-    "duration_str": "1d 20h 9m"
+    "added_at": "2025-08-27T18:29:28.078Z"
   },
   {
     "title": "Le Conseil d'Etat genevois donne son feu vert pour deux tours de 170 et 175 mètres de haut",
@@ -11624,7 +11624,10 @@
   },
   {
     "title": "L'Allemagne mise sur le volontariat pour faire faire de son armée la plus grande d'Europe",
-    "added_at": "2025-08-28T06:50:37.860Z"
+    "added_at": "2025-08-28T06:50:37.860Z",
+    "removed_at": "2025-08-29T15:09:09.431Z",
+    "duration_minutes": 1938,
+    "duration_str": "1d 8h 18m"
   },
   {
     "title": "Insectes, folie et création, le nouveau roman halluciné de Chloé Falcy",
@@ -11966,5 +11969,9 @@
   {
     "title": "L'armée israélienne déclare Gaza-ville \"zone de combat dangereuse\"",
     "added_at": "2025-08-29T14:43:27.529Z"
+  },
+  {
+    "title": "Affaire Vipret: la justice autorise la RTS à publier de nouvelles révélations",
+    "added_at": "2025-08-29T15:09:09.431Z"
   }
 ]
