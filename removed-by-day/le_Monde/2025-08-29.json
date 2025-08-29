@@ -303,7 +303,7 @@
   {
     "title": "Avec la chanteuse Jehnny Beth, l’esprit punk multidisciplinaire",
     "added_at": "2025-08-29T08:05:19.164Z",
-    "removed_at": "2025-08-29T20:03:53.945Z",
+    "removed_at": "2025-08-29T20:03:54.193Z",
     "duration_minutes": 719,
     "duration_str": "11h 59m"
   },
@@ -851,8 +851,9 @@
   {
     "title": "En Allemagne, le nombre de chômeurs dépasse la barre des 3 millions pour la première fois depuis 2015",
     "added_at": "2025-08-29T16:45:16.223Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-29T22:18:28.816Z",
+    "duration_minutes": 333,
+    "duration_str": "5h 33m"
   },
   {
     "title": "Emmanuel Macron estime que Vladimir Poutine va vers une « dérive autocratique » et réfute toute insulte envers lui",
@@ -952,5 +953,25 @@
     "removed_at": "2025-08-29T20:20:49.937Z",
     "duration_minutes": 2,
     "duration_str": "2m"
+  },
+  {
+    "title": "US Open : le Français Arthur Rinderknech va découvrir les huitièmes de finale d’un Grand Chelem",
+    "added_at": "2025-08-29T21:29:26.895Z",
+    "removed_at": "2025-08-29T21:31:37.626Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "US Open : le Français Arthur Rinderknech va découvrir les huitièmes de finale d’un Grand Chelem, Adrien Mannarino le rejoint",
+    "added_at": "2025-08-29T21:57:11.322Z",
+    "removed_at": "2025-08-29T22:18:28.816Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
+  },
+  {
+    "title": "Les droits de douane décidés par Donald Trump jugés en grande partie illégaux par une cour d’appel fédérale",
+    "added_at": "2025-08-29T22:18:28.816Z",
+    "duration_minutes": 0,
+    "duration_str": ""
   }
 ]
