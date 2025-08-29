@@ -11327,7 +11327,10 @@
   },
   {
     "title": "Fribourg et Lucerne gagnent un siège au National, au détriment de Berne et des Grisons",
-    "added_at": "2025-08-27T11:56:46.358Z"
+    "added_at": "2025-08-27T11:56:46.358Z",
+    "removed_at": "2025-08-29T00:36:57.495Z",
+    "duration_minutes": 2200,
+    "duration_str": "1d 12h 40m"
   },
   {
     "title": "Rencontre avec Charles Roulin, le maestro des couteaux",
@@ -11763,5 +11766,9 @@
   {
     "title": "Football: Lausanne affronte Besiktas à Istanbul pour une place en Conférence League",
     "added_at": "2025-08-28T22:22:39.354Z"
+  },
+  {
+    "title": "La Ville de Berne va devoir trouver une solution pour ses classes bilingues",
+    "added_at": "2025-08-29T00:36:57.495Z"
   }
 ]
