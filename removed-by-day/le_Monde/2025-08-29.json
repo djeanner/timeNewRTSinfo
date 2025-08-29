@@ -132,8 +132,9 @@
   {
     "title": "Courtney Dauwalter, la « traileuse à la brosse à dents » invaincue à l’UTMB, en quête de ses limites",
     "added_at": "2025-08-29T04:42:14.996Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-29T18:01:18.916Z",
+    "duration_minutes": 799,
+    "duration_str": "13h 19m"
   },
   {
     "title": "L’internationale de rugby Romane Ménager alerte sur le danger des commotions pour les joueuses",
@@ -351,9 +352,8 @@
   {
     "title": "Le patronat dévoile son plan pour créer un « sursaut de croissance » : moins d’agents publics, moins d’impôts et plus d’heures supplémentaires",
     "added_at": "2025-08-29T09:05:18.778Z",
-    "removed_at": "2025-08-29T14:24:16.474Z",
-    "duration_minutes": 319,
-    "duration_str": "5h 19m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Les organisations syndicales s’entendent sur une journée de mobilisation le 18 septembre, « y compris par la grève »",
@@ -709,9 +709,9 @@
   {
     "title": "Budget : Emmanuel Macron entend « exercer son mandat jusqu’à son terme » et appelle les partis à « trouver des chemins d’accord »",
     "added_at": "2025-08-29T15:00:32.434Z",
-    "removed_at": "2025-08-29T19:29:43.142Z",
-    "duration_minutes": 269,
-    "duration_str": "4h 29m"
+    "removed_at": "2025-08-29T20:27:25.169Z",
+    "duration_minutes": 327,
+    "duration_str": "5h 27m"
   },
   {
     "title": "Quarante-cinq départements en crise sécheresse à fin août, la quasi-totalité du pays touchée",
@@ -928,15 +928,29 @@
   {
     "title": "A Lyon, la veuve de Gérard Collomb s’inquiète de la transmission de son microparti à Jean-Michel Aulas",
     "added_at": "2025-08-29T18:34:03.961Z",
-    "removed_at": "2025-08-29T19:29:43.142Z",
-    "duration_minutes": 56,
-    "duration_str": "56m"
+    "removed_at": "2025-08-29T20:27:25.169Z",
+    "duration_minutes": 113,
+    "duration_str": "1h 53m"
   },
   {
     "title": "Vote de confiance : le PS affirme être « volontaire » pour succéder à François Bayrou",
     "added_at": "2025-08-29T18:34:03.961Z",
-    "removed_at": "2025-08-29T19:29:43.142Z",
-    "duration_minutes": 56,
-    "duration_str": "56m"
+    "removed_at": "2025-08-29T20:27:25.169Z",
+    "duration_minutes": 113,
+    "duration_str": "1h 53m"
+  },
+  {
+    "title": "Gaza : les bombardements et tirs israéliens ont tué 55 personnes dans la bande de Gaza selon la défense civile, vendredi",
+    "added_at": "2025-08-29T20:18:50.807Z",
+    "removed_at": "2025-08-29T20:27:25.169Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Les Etats-Unis refusent l’octroi de visas à des responsables palestiniens avant l’Assemblée générale de l’ONU",
+    "added_at": "2025-08-29T20:18:50.807Z",
+    "removed_at": "2025-08-29T20:27:25.169Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
   }
 ]
