@@ -11683,7 +11683,10 @@
   },
   {
     "title": "Les forêts freinent mieux les avalanches quand elles dépassent nettement le manteau neigeux",
-    "added_at": "2025-08-28T10:53:18.191Z"
+    "added_at": "2025-08-28T10:53:18.191Z",
+    "removed_at": "2025-08-29T20:53:07.186Z",
+    "duration_minutes": 2039,
+    "duration_str": "1d 9h 59m"
   },
   {
     "title": "La croissance suisse ralentit nettement au 2e trimestre",
@@ -11721,7 +11724,10 @@
   },
   {
     "title": "La 15e édition de Nox Orae compte sur le rock des Happy Mondays, de Viagra Boys ou Goat",
-    "added_at": "2025-08-28T13:03:33.890Z"
+    "added_at": "2025-08-28T13:03:33.890Z",
+    "removed_at": "2025-08-29T21:20:46.627Z",
+    "duration_minutes": 1937,
+    "duration_str": "1d 8h 17m"
   },
   {
     "title": "Le Tribunal fédéral donne raison à la SRF concernant un sujet du téléjournal sur l'affaire FIFA",
@@ -12075,5 +12081,20 @@
   {
     "title": "Une majorité de la population favorable à la délocalisation forcée en cas de danger naturel",
     "added_at": "2025-08-29T20:25:13.869Z"
+  },
+  {
+    "title": "Manifestation pacifique à Lausanne après la mort d'un Erythréen dans une bagarre",
+    "added_at": "2025-08-29T20:53:07.186Z",
+    "removed_at": "2025-08-29T21:03:44.390Z",
+    "duration_minutes": 10,
+    "duration_str": "10m"
+  },
+  {
+    "title": "Manifestation pacifique après la mort d'un Erythréen à Lausanne",
+    "added_at": "2025-08-29T21:03:44.390Z"
+  },
+  {
+    "title": "Manifestation au Tessin après l'annonce de la suppression d'emplois chez CFF Cargo",
+    "added_at": "2025-08-29T21:20:46.627Z"
   }
 ]
