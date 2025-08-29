@@ -11440,7 +11440,10 @@
   },
   {
     "title": "Marche blanche en hommage aux victimes du triple homicide à Corcelles",
-    "added_at": "2025-08-27T15:53:55.468Z"
+    "added_at": "2025-08-27T15:53:55.468Z",
+    "removed_at": "2025-08-29T09:37:21.763Z",
+    "duration_minutes": 2503,
+    "duration_str": "1d 17h 43m"
   },
   {
     "title": "Podcast - Qui veut (encore) faire de la politique dans sa commune?",
@@ -11850,5 +11853,9 @@
     "removed_at": "2025-08-29T08:43:45.388Z",
     "duration_minutes": 2,
     "duration_str": "2m"
+  },
+  {
+    "title": "Jon Batiste, artiste aux multiples facettes, dévoile son nouvel album engagé \"Big Money\"",
+    "added_at": "2025-08-29T09:37:21.763Z"
   }
 ]
