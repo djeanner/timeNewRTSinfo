@@ -29645,7 +29645,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L'évacuation de la ville de Gaza est impossible, estime la présidente de la Croix-Rouge",
-    "added_at": "2025-08-30T11:01:23.556Z"
+    "added_at": "2025-08-30T11:01:23.556Z",
+    "removed_at": "2025-08-30T20:17:31.208Z",
+    "duration_minutes": 556,
+    "duration_str": "9h 16m"
   },
   {
     "title": "sport:::Ultra-trail du Mont-Blanc: le Britannique Tom Evans remporte une édition dantesque",
@@ -29656,7 +29659,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Un député ukrainien tué par balle à Lviv",
-    "added_at": "2025-08-30T12:20:23.795Z"
+    "added_at": "2025-08-30T12:20:23.795Z",
+    "removed_at": "2025-08-30T20:17:31.208Z",
+    "duration_minutes": 477,
+    "duration_str": "7h 57m"
   },
   {
     "title": "suisse:::Marche blanche pour Marvin à Lausanne: de l'amour et du rap pour clore une semaine sous haute tension",
@@ -29706,5 +29712,13 @@
   {
     "title": "sport:::A Ouessant, des pur-sang à la retraite coulent des jours paisibles",
     "added_at": "2025-08-30T19:15:13.080Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Israël dit avoir identifié les restes d'un otage retenu à Gaza",
+    "added_at": "2025-08-30T20:17:31.208Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Un député ukrainien tué par balle à Lviv",
+    "added_at": "2025-08-30T20:17:31.208Z"
   }
 ]

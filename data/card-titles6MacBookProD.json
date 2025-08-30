@@ -31914,7 +31914,10 @@
   },
   {
     "title": "Yemen’s Houthis confirm Israeli strike killed group’s prime minister",
-    "added_at": "2025-08-30T15:22:09.187Z"
+    "added_at": "2025-08-30T15:22:09.187Z",
+    "removed_at": "2025-08-30T20:13:11.334Z",
+    "duration_minutes": 291,
+    "duration_str": "4h 51m"
   },
   {
     "title": "Palestinian Authority urges US to reinstate Abbas’s visa before UNGA",
@@ -31946,5 +31949,9 @@
   {
     "title": "At least 71 people killed as Israeli attacks on Gaza City intensify",
     "added_at": "2025-08-30T19:21:38.512Z"
+  },
+  {
+    "title": "Yemen’s Houthis confirm prime minister killed in Israeli strike on Sanaa",
+    "added_at": "2025-08-30T20:13:11.334Z"
   }
 ]

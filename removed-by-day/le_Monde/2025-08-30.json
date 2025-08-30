@@ -107,9 +107,8 @@
   {
     "title": "L’affaire Saint-Aubin, ce mystérieux accident qui hante la nationale 7",
     "added_at": "2025-08-30T04:15:07.544Z",
-    "removed_at": "2025-08-30T19:19:33.503Z",
-    "duration_minutes": 904,
-    "duration_str": "15h 4m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Le GIEC accusé de privilégier des solutions trop technologiques contre le réchauffement climatique",
@@ -209,8 +208,9 @@
   {
     "title": "Après un article sur Steve Witkoff, la Maison Blanche dénonce une « opération d’ingérence étrangère »",
     "added_at": "2025-08-30T07:32:02.790Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-30T20:02:28.741Z",
+    "duration_minutes": 750,
+    "duration_str": "12h 30m"
   },
   {
     "title": "En direct, Gaza : Kaja Kallas « pas très optimiste » sur des sanctions de l’UE contre Israël",
@@ -544,9 +544,9 @@
   {
     "title": "En Namibie, dans le studio nomade du musicien Thylacine",
     "added_at": "2025-08-30T16:02:46.269Z",
-    "removed_at": "2025-08-30T19:02:23.351Z",
-    "duration_minutes": 180,
-    "duration_str": "3h"
+    "removed_at": "2025-08-30T20:04:41.125Z",
+    "duration_minutes": 242,
+    "duration_str": "4h 2m"
   },
   {
     "title": "Le PS présente un budget « de gauche » alternatif à celui de François Bayrou, afin « de trouver une majorité » à l’Assemblée nationale",
@@ -653,9 +653,9 @@
   {
     "title": "L’UE presse les Etats-Unis de « reconsidérer » leur décision, après leur refus d’accorder des visas pour l’AG de l’ONU à 80 Palestiniens, dont Mahmoud Abbas",
     "added_at": "2025-08-30T17:34:38.695Z",
-    "removed_at": "2025-08-30T19:19:33.503Z",
-    "duration_minutes": 105,
-    "duration_str": "1h 45m"
+    "removed_at": "2025-08-30T20:04:41.125Z",
+    "duration_minutes": 150,
+    "duration_str": "2h 30m"
   },
   {
     "title": "En dépit de la situation humanitaire catastrophique à Gaza, les Européens demeurent divisés sur des sanctions contre Israël",
@@ -666,8 +666,9 @@
   {
     "title": "L’équipe de France de basket dompte la Slovénie de Luka Doncic à l’Euro 2025",
     "added_at": "2025-08-30T17:49:46.758Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-30T20:04:41.125Z",
+    "duration_minutes": 135,
+    "duration_str": "2h 15m"
   },
   {
     "title": "Budget 2026 : François Ruffin appelle à « demander de faire les efforts à ceux qui ont les poches pleines »",
@@ -684,15 +685,35 @@
   {
     "title": "En direct : une nouvelle flottille en partance dimanche vers Gaza pour « prévenir le génocide »",
     "added_at": "2025-08-30T18:21:44.753Z",
-    "removed_at": "2025-08-30T19:19:33.503Z",
-    "duration_minutes": 58,
-    "duration_str": "58m"
+    "removed_at": "2025-08-30T20:04:41.125Z",
+    "duration_minutes": 103,
+    "duration_str": "1h 43m"
   },
   {
     "title": "Gaza : une nouvelle flottille d’aide humanitaire va partir de Barcelone",
     "added_at": "2025-08-30T19:00:18.112Z",
-    "removed_at": "2025-08-30T19:19:33.503Z",
-    "duration_minutes": 19,
-    "duration_str": "19m"
+    "removed_at": "2025-08-30T20:04:41.125Z",
+    "duration_minutes": 64,
+    "duration_str": "1h 4m"
+  },
+  {
+    "title": "Le Crédit mutuel touché par une panne qui a empêché ses clients de payer ou de retirer de l’argent",
+    "added_at": "2025-08-30T19:36:46.938Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Comment les réseaux sociaux deviennent les carnets de bord des parcours transgenres",
+    "added_at": "2025-08-30T19:56:04.040Z",
+    "removed_at": "2025-08-30T20:04:41.125Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "A Lyon, un mémorial de la Shoah endommagé par une inscription « Free Gaza »",
+    "added_at": "2025-08-30T20:02:28.741Z",
+    "removed_at": "2025-08-30T20:04:41.125Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
   }
 ]
