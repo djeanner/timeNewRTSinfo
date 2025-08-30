@@ -2122,7 +2122,10 @@
   },
   {
     "title": "LIVE: Real Madrid vs Mallorca – La Liga",
-    "added_at": "2025-05-14T16:35:58.724Z"
+    "added_at": "2025-05-14T16:35:58.724Z",
+    "removed_at": "2025-08-30T22:12:17.399Z",
+    "duration_minutes": 155856,
+    "duration_str": "108d 5h 36m"
   },
   {
     "title": "Maldives parliament removes two Supreme Court judges",
@@ -34100,7 +34103,10 @@
   },
   {
     "title": "A music teacher uses Gaza’s relentless soundtrack of war to resist Israel",
-    "added_at": "2025-08-30T09:59:01.941Z"
+    "added_at": "2025-08-30T09:59:01.941Z",
+    "removed_at": "2025-08-30T21:40:19.635Z",
+    "duration_minutes": 701,
+    "duration_str": "11h 41m"
   },
   {
     "title": "Who can get updated COVID-19 vaccines in the US now?",
@@ -34161,7 +34167,10 @@
   },
   {
     "title": "Yemen’s Houthis confirm Israeli strike killed group’s prime minister",
-    "added_at": "2025-08-30T15:21:28.581Z"
+    "added_at": "2025-08-30T15:21:28.581Z",
+    "removed_at": "2025-08-30T20:13:41.812Z",
+    "duration_minutes": 292,
+    "duration_str": "4h 52m"
   },
   {
     "title": "Palestinian Authority urges US to reinstate Abbas’s visa before UNGA",
@@ -34192,6 +34201,25 @@
   },
   {
     "title": "At least 71 people killed as Israeli attacks on Gaza City intensify",
-    "added_at": "2025-08-30T19:20:51.112Z"
+    "added_at": "2025-08-30T19:20:51.112Z",
+    "removed_at": "2025-08-30T22:12:17.399Z",
+    "duration_minutes": 171,
+    "duration_str": "2h 51m"
+  },
+  {
+    "title": "Yemen’s Houthis confirm prime minister killed in Israeli strike on Sanaa",
+    "added_at": "2025-08-30T20:13:41.812Z"
+  },
+  {
+    "title": "Chicago mayor signs order to resist possible Trump troop deployment",
+    "added_at": "2025-08-30T21:40:19.635Z"
+  },
+  {
+    "title": "At least 77 people killed as Israeli attacks on Gaza City intensify",
+    "added_at": "2025-08-30T22:12:17.399Z"
+  },
+  {
+    "title": "LIVE: Real Madrid vs Mallorca 2-1 – La Liga",
+    "added_at": "2025-08-30T22:12:17.399Z"
   }
 ]
