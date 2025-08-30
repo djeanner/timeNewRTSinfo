@@ -1660,7 +1660,10 @@
   },
   {
     "title": "LIVE: Real Madrid vs Mallorca – La Liga",
-    "added_at": "2025-05-14T16:36:57.702Z"
+    "added_at": "2025-05-14T16:36:57.702Z",
+    "removed_at": "2025-08-30T22:12:58.147Z",
+    "duration_minutes": 155856,
+    "duration_str": "108d 5h 36m"
   },
   {
     "title": "Maldives parliament removes two Supreme Court judges",
@@ -31853,7 +31856,10 @@
   },
   {
     "title": "A music teacher uses Gaza’s relentless soundtrack of war to resist Israel",
-    "added_at": "2025-08-30T09:59:24.767Z"
+    "added_at": "2025-08-30T09:59:24.767Z",
+    "removed_at": "2025-08-30T21:40:57.689Z",
+    "duration_minutes": 701,
+    "duration_str": "11h 41m"
   },
   {
     "title": "Who can get updated COVID-19 vaccines in the US now?",
@@ -31948,10 +31954,32 @@
   },
   {
     "title": "At least 71 people killed as Israeli attacks on Gaza City intensify",
-    "added_at": "2025-08-30T19:21:38.512Z"
+    "added_at": "2025-08-30T19:21:38.512Z",
+    "removed_at": "2025-08-30T22:12:58.147Z",
+    "duration_minutes": 171,
+    "duration_str": "2h 51m"
   },
   {
     "title": "Yemen’s Houthis confirm prime minister killed in Israeli strike on Sanaa",
     "added_at": "2025-08-30T20:13:11.334Z"
+  },
+  {
+    "title": "Chicago mayor signs order to resist possible Trump troop deployment",
+    "added_at": "2025-08-30T21:40:57.689Z"
+  },
+  {
+    "title": "At least 77 people killed as Israeli attacks on Gaza City intensify",
+    "added_at": "2025-08-30T22:12:58.147Z"
+  },
+  {
+    "title": "LIVE: Real Madrid vs Mallorca 2-1 – La Liga",
+    "added_at": "2025-08-30T22:12:58.147Z",
+    "removed_at": "2025-08-30T22:23:35.442Z",
+    "duration_minutes": 10,
+    "duration_str": "10m"
+  },
+  {
+    "title": "Real Madrid beat Mallorca in La Liga, scoring twice in two minutes",
+    "added_at": "2025-08-30T22:23:35.442Z"
   }
 ]
