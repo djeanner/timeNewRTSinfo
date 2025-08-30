@@ -11653,7 +11653,10 @@
   },
   {
     "title": "Le Tribunal fédéral confirme la condamnation de Tariq Ramadan pour viol",
-    "added_at": "2025-08-28T06:48:27.273Z"
+    "added_at": "2025-08-28T06:48:27.273Z",
+    "removed_at": "2025-08-30T19:02:22.902Z",
+    "duration_minutes": 3613,
+    "duration_str": "2d 12h 13m"
   },
   {
     "title": "L'Allemagne mise sur le volontariat pour faire faire de son armée la plus grande d'Europe",
@@ -11904,7 +11907,10 @@
   },
   {
     "title": "Victorieux en Turquie, Lausanne disputera la phase de ligue",
-    "added_at": "2025-08-28T19:08:35.387Z"
+    "added_at": "2025-08-28T19:08:35.387Z",
+    "removed_at": "2025-08-30T19:17:22.091Z",
+    "duration_minutes": 2888,
+    "duration_str": "2d 8m"
   },
   {
     "title": "La Confédération traite à nouveau les demandes d'asile des Syriens",
@@ -11958,7 +11964,10 @@
   },
   {
     "title": "Des prolongations fatales pour le Servette FC",
-    "added_at": "2025-08-28T21:46:32.256Z"
+    "added_at": "2025-08-28T21:46:32.256Z",
+    "removed_at": "2025-08-30T19:15:13.038Z",
+    "duration_minutes": 2728,
+    "duration_str": "1d 21h 28m"
   },
   {
     "title": "Rentrée des classes à Fribourg, dernier canton de Suisse romande",
@@ -11980,7 +11989,10 @@
   },
   {
     "title": "Polémique après l'arrestation de deux pompiers engagés dans un vaste incendie de forêt aux Etats-Unis",
-    "added_at": "2025-08-29T03:19:04.112Z"
+    "added_at": "2025-08-29T03:19:04.112Z",
+    "removed_at": "2025-08-30T18:58:07.533Z",
+    "duration_minutes": 2379,
+    "duration_str": "1d 15h 39m"
   },
   {
     "title": "Le Tribunal fédéral confirme la condamnation pour viol de Tariq Ramadan: interview de Yaël Hayat",
@@ -12002,7 +12014,10 @@
   },
   {
     "title": "Première victoire en Ligue de diamant et record de Suisse pour Audrey Werro sur 800m",
-    "added_at": "2025-08-29T04:42:14.542Z"
+    "added_at": "2025-08-29T04:42:14.542Z",
+    "removed_at": "2025-08-30T18:51:42.476Z",
+    "duration_minutes": 2289,
+    "duration_str": "1d 14h 9m"
   },
   {
     "title": "Le nouveau mandat controversé de l’ex-cheffe de la police fédérale",
@@ -12346,14 +12361,14 @@
   },
   {
     "title": "Police vaudoise: un gendarme impliqué dans l’affaire des messages racistes",
-    "added_at": "2025-08-30T16:13:27.627Z",
-    "removed_at": "2025-08-30T16:15:32.212Z",
-    "duration_minutes": 2,
-    "duration_str": "2m"
+    "added_at": "2025-08-30T16:13:27.627Z"
   },
   {
     "title": "Des marches blanches à la mémoire de Marvin et Nzoy réunissent un millier de personnes à Lausanne",
-    "added_at": "2025-08-30T16:15:32.212Z"
+    "added_at": "2025-08-30T16:15:32.212Z",
+    "removed_at": "2025-08-30T19:19:33.071Z",
+    "duration_minutes": 184,
+    "duration_str": "3h 4m"
   },
   {
     "title": "Après la 1re journée, deux lutteurs comptent 4 victoires en autant de passes et deux Romands sont parmi les meilleurs",
@@ -12369,5 +12384,25 @@
   {
     "title": "La lente disparition des communautés religieuses dans le canton de Fribourg",
     "added_at": "2025-08-30T18:36:36.589Z"
+  },
+  {
+    "title": "Du château au centre-ville de Sion en deux minutes, des vététistes intrépides séduisent la foule",
+    "added_at": "2025-08-30T18:51:42.476Z"
+  },
+  {
+    "title": "La start-up lausannoise qui défie les géants de l'intelligence artificielle",
+    "added_at": "2025-08-30T18:58:07.533Z"
+  },
+  {
+    "title": "La Vallée de Joux se soulève en masse pour sauver son pôle santé",
+    "added_at": "2025-08-30T19:15:13.038Z"
+  },
+  {
+    "title": "Face à la sécheresse, les agriculteurs romands testent les haies fourragères comme alternative au pâturage",
+    "added_at": "2025-08-30T19:17:22.091Z"
+  },
+  {
+    "title": "Des marches blanches à la mémoire de Marvin et Nzoy réunissent plus d'un millier de personnes à Lausanne",
+    "added_at": "2025-08-30T19:19:33.071Z"
   }
 ]

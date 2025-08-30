@@ -98,14 +98,16 @@
   {
     "title": "sport:::Mike Lorenzo-Vera fait ses adieux au golf à Crans-Montana",
     "added_at": "2025-08-30T14:28:34.125Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-30T19:04:32.067Z",
+    "duration_minutes": 276,
+    "duration_str": "4h 36m"
   },
   {
     "title": "suisse:::Alain Berset hospitalisé à titre de précaution",
     "added_at": "2025-08-30T14:28:34.125Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-30T19:10:56.957Z",
+    "duration_minutes": 282,
+    "duration_str": "4h 42m"
   },
   {
     "title": "culture:::Série: «Rien ne t’efface», du Michel Bussi bien alambiqué",
@@ -122,6 +124,31 @@
   {
     "title": "economie:::Essor et chute d’Ava, icône de la scène suisse des start-up des années 2010",
     "added_at": "2025-08-30T17:30:23.558Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "culture:::Vanessa de Senarclens reconstitue une bibliothèque des Lumières perdue dans les remous du XXe siècle",
+    "added_at": "2025-08-30T18:41:03.447Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "sport:::Thriston Wallace prend les commandes de l’Omega Masters",
+    "added_at": "2025-08-30T19:04:32.067Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "sport:::Qui voit Ouessant voit ses pur-sang",
+    "added_at": "2025-08-30T19:10:56.957Z",
+    "removed_at": "2025-08-30T19:15:13.080Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "sport:::A Ouessant, des pur-sang à la retraite coulent des jours paisibles",
+    "added_at": "2025-08-30T19:15:13.080Z",
     "duration_minutes": 0,
     "duration_str": ""
   }

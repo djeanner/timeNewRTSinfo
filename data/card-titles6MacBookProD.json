@@ -1660,10 +1660,7 @@
   },
   {
     "title": "LIVE: Real Madrid vs Mallorca – La Liga",
-    "added_at": "2025-05-14T16:36:57.702Z",
-    "removed_at": "2025-05-14T22:14:32.612Z",
-    "duration_minutes": 337,
-    "duration_str": "5h 37m"
+    "added_at": "2025-05-14T16:36:57.702Z"
   },
   {
     "title": "Maldives parliament removes two Supreme Court judges",
@@ -31899,7 +31896,10 @@
   },
   {
     "title": "At least 50 people killed as Israeli attacks on Gaza City intensify",
-    "added_at": "2025-08-30T13:30:55.192Z"
+    "added_at": "2025-08-30T13:30:55.192Z",
+    "removed_at": "2025-08-30T19:21:38.512Z",
+    "duration_minutes": 350,
+    "duration_str": "5h 50m"
   },
   {
     "title": "Former Ukrainian parliament speaker shot dead in Lviv",
@@ -31938,6 +31938,13 @@
   },
   {
     "title": "LIVE: Real Madrid vs Mallorca – LaLiga",
-    "added_at": "2025-08-30T18:28:08.992Z"
+    "added_at": "2025-08-30T18:28:08.992Z",
+    "removed_at": "2025-08-30T18:38:52.829Z",
+    "duration_minutes": 10,
+    "duration_str": "10m"
+  },
+  {
+    "title": "At least 71 people killed as Israeli attacks on Gaza City intensify",
+    "added_at": "2025-08-30T19:21:38.512Z"
   }
 ]

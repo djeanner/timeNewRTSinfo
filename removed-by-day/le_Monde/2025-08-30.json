@@ -23,9 +23,8 @@
   {
     "title": "Nos choix de BD et comics du mois d’août : « Rouge signal », « La Tête de mort venue de Suède », « Shadi »…",
     "added_at": "2025-08-30T03:07:39.078Z",
-    "removed_at": "2025-08-30T17:20:07.057Z",
-    "duration_minutes": 852,
-    "duration_str": "14h 12m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Mostra de Venise : Julia Roberts dans l’un de ses plus beaux rôles avec « After the Hunt », de Luca Guadagnino",
@@ -108,8 +107,9 @@
   {
     "title": "L’affaire Saint-Aubin, ce mystérieux accident qui hante la nationale 7",
     "added_at": "2025-08-30T04:15:07.544Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-30T19:19:33.503Z",
+    "duration_minutes": 904,
+    "duration_str": "15h 4m"
   },
   {
     "title": "Le GIEC accusé de privilégier des solutions trop technologiques contre le réchauffement climatique",
@@ -544,8 +544,9 @@
   {
     "title": "En Namibie, dans le studio nomade du musicien Thylacine",
     "added_at": "2025-08-30T16:02:46.269Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-30T19:02:23.351Z",
+    "duration_minutes": 180,
+    "duration_str": "3h"
   },
   {
     "title": "Le PS présente un budget « de gauche » alternatif à celui de François Bayrou, afin « de trouver une majorité » à l’Assemblée nationale",
@@ -618,9 +619,8 @@
   {
     "title": "Les filles Wolinski, unies autour d’un seul homme",
     "added_at": "2025-08-30T17:08:49.350Z",
-    "removed_at": "2025-08-30T17:20:07.057Z",
-    "duration_minutes": 11,
-    "duration_str": "11m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Edouard Philippe prend ses distances avec François Bayrou sur les rapports entre générations",
@@ -646,16 +646,16 @@
   {
     "title": "Au Yémen, les rebelles houthistes annoncent la mort de leur premier ministre dans des frappes israéliennes",
     "added_at": "2025-08-30T17:30:23.946Z",
-    "removed_at": "2025-08-30T18:23:49.339Z",
-    "duration_minutes": 53,
-    "duration_str": "53m"
+    "removed_at": "2025-08-30T18:55:58.637Z",
+    "duration_minutes": 86,
+    "duration_str": "1h 26m"
   },
   {
     "title": "L’UE presse les Etats-Unis de « reconsidérer » leur décision, après leur refus d’accorder des visas pour l’AG de l’ONU à 80 Palestiniens, dont Mahmoud Abbas",
     "added_at": "2025-08-30T17:34:38.695Z",
-    "removed_at": "2025-08-30T18:23:49.339Z",
-    "duration_minutes": 49,
-    "duration_str": "49m"
+    "removed_at": "2025-08-30T19:19:33.503Z",
+    "duration_minutes": 105,
+    "duration_str": "1h 45m"
   },
   {
     "title": "En dépit de la situation humanitaire catastrophique à Gaza, les Européens demeurent divisés sur des sanctions contre Israël",
@@ -684,8 +684,15 @@
   {
     "title": "En direct : une nouvelle flottille en partance dimanche vers Gaza pour « prévenir le génocide »",
     "added_at": "2025-08-30T18:21:44.753Z",
-    "removed_at": "2025-08-30T18:23:49.339Z",
-    "duration_minutes": 2,
-    "duration_str": "2m"
+    "removed_at": "2025-08-30T19:19:33.503Z",
+    "duration_minutes": 58,
+    "duration_str": "58m"
+  },
+  {
+    "title": "Gaza : une nouvelle flottille d’aide humanitaire va partir de Barcelone",
+    "added_at": "2025-08-30T19:00:18.112Z",
+    "removed_at": "2025-08-30T19:19:33.503Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
   }
 ]

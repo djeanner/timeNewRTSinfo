@@ -158,8 +158,9 @@
   {
     "title": "At least 50 people killed as Israeli attacks on Gaza City intensify",
     "added_at": "2025-08-30T13:30:15.909Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-30T19:21:38.512Z",
+    "duration_minutes": 351,
+    "duration_str": "5h 51m"
   },
   {
     "title": "Former Ukrainian parliament speaker shot dead in Lviv",
@@ -213,6 +214,13 @@
   {
     "title": "LIVE: Real Madrid vs Mallorca – LaLiga",
     "added_at": "2025-08-30T18:28:08.992Z",
+    "removed_at": "2025-08-30T18:38:52.829Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "At least 71 people killed as Israeli attacks on Gaza City intensify",
+    "added_at": "2025-08-30T19:21:38.512Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
