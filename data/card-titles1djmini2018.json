@@ -36317,7 +36317,10 @@
   },
   {
     "title": "Nouveaux accords entre Berne et le Jura liés au transfert de Moutier",
-    "added_at": "2025-08-28T12:04:37.058Z"
+    "added_at": "2025-08-28T12:04:37.058Z",
+    "removed_at": "2025-08-29T23:29:15.186Z",
+    "duration_minutes": 2124,
+    "duration_str": "1d 11h 24m"
   },
   {
     "title": "Le musée Van Gogh d'Amsterdam se dit menacé de fermeture sans davantage de subventions",
@@ -36657,9 +36660,9 @@
   {
     "title": "Jérome Kym et Leandro Riedi, deux étoiles suisses montantes révélées à l'US Open",
     "added_at": "2025-08-29T16:42:18.850Z",
-    "removed_at": "2025-08-29T16:44:12.665Z",
-    "duration_minutes": 1,
-    "duration_str": "1m"
+    "removed_at": "2025-08-30T00:10:38.560Z",
+    "duration_minutes": 448,
+    "duration_str": "7h 28m"
   },
   {
     "title": "Malgré l'enquête sur sa liste, la candidature de Martial Courtet au Gouvernement jurassien reste valide",
@@ -36729,5 +36732,16 @@
   {
     "title": "Manifestation au Tessin après l'annonce de la suppression d'emplois chez CFF Cargo",
     "added_at": "2025-08-29T21:21:08.919Z"
+  },
+  {
+    "title": "Une partie des droits de douane jugés illégaux selon une cour d'appel américaine",
+    "added_at": "2025-08-29T23:29:15.186Z"
+  },
+  {
+    "title": "Athlétisme: victoire et record de Suisse pour Audrey Werro à Zurich",
+    "added_at": "2025-08-30T00:06:55.499Z",
+    "removed_at": "2025-08-30T00:10:38.560Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
   }
 ]
