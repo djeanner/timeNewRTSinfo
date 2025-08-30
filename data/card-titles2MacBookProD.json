@@ -29586,7 +29586,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Russie a bombardé samedi matin plusieurs régions",
-    "added_at": "2025-08-30T06:51:23.919Z"
+    "added_at": "2025-08-30T06:51:23.919Z",
+    "removed_at": "2025-08-30T12:20:23.795Z",
+    "duration_minutes": 328,
+    "duration_str": "5h 28m"
   },
   {
     "title": "sport:::Dernières passes au Club des lutteurs de la Gruyère, qui envoie cinq représentants à la Fête fédérale de Mollis",
@@ -29606,7 +29609,10 @@
   },
   {
     "title": "culture:::Tunisie: l'Hôtel du Lac, icône de l'architecture mondiale qui aurait inspiré un vaisseau de «Star Wars», est en voie de disparition",
-    "added_at": "2025-08-30T10:12:12.819Z"
+    "added_at": "2025-08-30T10:12:12.819Z",
+    "removed_at": "2025-08-30T11:56:59.999Z",
+    "duration_minutes": 104,
+    "duration_str": "1h 44m"
   },
   {
     "title": "monde:::Le pari fou de la flottille Soumoud vers Gaza: «Si une opération peut briser le blocus israélien, c’est celle-ci»",
@@ -29619,5 +29625,13 @@
   {
     "title": "monde:::En direct, Moyen-Orient – L'évacuation de la ville de Gaza est impossible, estime la présidente de la Croix-Rouge",
     "added_at": "2025-08-30T11:01:23.556Z"
+  },
+  {
+    "title": "sport:::Ultra-trail du Mont-Blanc: le Britannique Tom Evans remporte une édition dantesque",
+    "added_at": "2025-08-30T11:56:59.999Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Un député ukrainien tué par balle à Lviv",
+    "added_at": "2025-08-30T12:20:23.795Z"
   }
 ]
