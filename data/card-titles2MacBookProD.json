@@ -29540,7 +29540,10 @@
   },
   {
     "title": "suisse:::Genève interdit la vente des cigarettes électroniques à usage unique",
-    "added_at": "2025-08-29T19:08:20.061Z"
+    "added_at": "2025-08-29T19:08:20.061Z",
+    "removed_at": "2025-08-30T09:08:07.207Z",
+    "duration_minutes": 839,
+    "duration_str": "13h 59m"
   },
   {
     "title": "culture:::En images: le mois de la photo en Suisse",
@@ -29584,5 +29587,9 @@
   {
     "title": "monde:::Le ministre indien du Commerce affirme ne pas vouloir s'incliner face aux surtaxes américaines",
     "added_at": "2025-08-30T08:36:00.242Z"
+  },
+  {
+    "title": "culture:::Un guide pour partir à la découverte des orgues valaisans",
+    "added_at": "2025-08-30T09:08:07.207Z"
   }
 ]
