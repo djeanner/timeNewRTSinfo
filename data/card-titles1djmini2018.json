@@ -35494,7 +35494,10 @@
   },
   {
     "title": "Deuxième nuit de violences à Lausanne, sept personnes interpellées",
-    "added_at": "2025-08-26T06:46:37.677Z"
+    "added_at": "2025-08-26T06:46:37.677Z",
+    "removed_at": "2025-08-30T16:04:47.146Z",
+    "duration_minutes": 6318,
+    "duration_str": "4d 9h 18m"
   },
   {
     "title": "Adaptation de la valeur locative: interview du chef du service neuchâtelois des contributions, Youssef Wahid",
@@ -35825,9 +35828,9 @@
   {
     "title": "Emeutes à Lausanne: les jeunes en colère après la mort de Marvin",
     "added_at": "2025-08-27T01:23:24.239Z",
-    "removed_at": "2025-08-30T10:02:45.429Z",
-    "duration_minutes": 4839,
-    "duration_str": "3d 8h 39m"
+    "removed_at": "2025-08-30T16:16:06.318Z",
+    "duration_minutes": 5212,
+    "duration_str": "3d 14h 52m"
   },
   {
     "title": "Un 10ème vol d'essai réussi pour la mégafusée Starship",
@@ -36041,7 +36044,10 @@
   },
   {
     "title": "Le plus gros silure jamais capturé en Suisse pêché à Bevaix",
-    "added_at": "2025-08-27T13:50:40.148Z"
+    "added_at": "2025-08-27T13:50:40.148Z",
+    "removed_at": "2025-08-30T16:04:47.146Z",
+    "duration_minutes": 4454,
+    "duration_str": "3d 2h 14m"
   },
   {
     "title": "L'amour des Suisses de l'étranger pour leur patrie n'est pas toujours réciproque",
@@ -36401,7 +36407,10 @@
   },
   {
     "title": "La famille du jeune Marvin, décédé dimanche passé, invite au recueillement",
-    "added_at": "2025-08-28T13:22:50.925Z"
+    "added_at": "2025-08-28T13:22:50.925Z",
+    "removed_at": "2025-08-30T17:03:10.548Z",
+    "duration_minutes": 3100,
+    "duration_str": "2d 3h 40m"
   },
   {
     "title": "La directrice de la principale agence sanitaire américaine limogée par Donald Trump",
@@ -36497,7 +36506,10 @@
   },
   {
     "title": "La Suisse soutient douze projets de reconstruction en Ukraine à hauteur de 93 millions",
-    "added_at": "2025-08-28T18:30:17.316Z"
+    "added_at": "2025-08-28T18:30:17.316Z",
+    "removed_at": "2025-08-30T15:34:40.980Z",
+    "duration_minutes": 2704,
+    "duration_str": "1d 21h 4m"
   },
   {
     "title": "Les Européens réagissent à l’impasse nucléaire en relançant les sanctions contre Téhéran",
@@ -36545,7 +36557,10 @@
   },
   {
     "title": "Les Casques bleus partiront du sud du Liban en 2027",
-    "added_at": "2025-08-28T20:34:32.282Z"
+    "added_at": "2025-08-28T20:34:32.282Z",
+    "removed_at": "2025-08-30T15:45:59.116Z",
+    "duration_minutes": 2591,
+    "duration_str": "1d 19h 11m"
   },
   {
     "title": "120 secondes – Sammy Brunschwig, membre du comité de l’Association suisse des producteurs de volaille",
@@ -36631,10 +36646,7 @@
   },
   {
     "title": "Tariq Ramadan débouté par le Tribunal fédéral. L’analyse de Fabiano Citroni",
-    "added_at": "2025-08-29T08:41:57.538Z",
-    "removed_at": "2025-08-30T14:49:20.362Z",
-    "duration_minutes": 1807,
-    "duration_str": "1d 6h 7m"
+    "added_at": "2025-08-29T08:41:57.538Z"
   },
   {
     "title": "Jon Batiste, artiste aux multiples facettes, dévoile son nouvel album engagé \"Big Money\"",
@@ -36890,7 +36902,10 @@
   },
   {
     "title": "Une marche blanche à la mémoire de Marvin a rassemblé un millier de personnes à Lausanne",
-    "added_at": "2025-08-30T12:20:21.762Z"
+    "added_at": "2025-08-30T12:20:21.762Z",
+    "removed_at": "2025-08-30T15:21:27.799Z",
+    "duration_minutes": 181,
+    "duration_str": "3h 1m"
   },
   {
     "title": "Une vaste attaque russe touche les régions de Dnipropetrovsk et de Zaporijjia",
@@ -36902,7 +36917,10 @@
   },
   {
     "title": "La 47e édition de la Fête fédérale de lutte est lancée!",
-    "added_at": "2025-08-30T14:04:09.000Z"
+    "added_at": "2025-08-30T14:04:09.000Z",
+    "removed_at": "2025-08-30T16:19:54.343Z",
+    "duration_minutes": 135,
+    "duration_str": "2h 15m"
   },
   {
     "title": "Un chien plutôt qu'un enfant, un phénomène de société",
@@ -36930,5 +36948,42 @@
   {
     "title": "En Indonésie, des manifestations contre le gouvernement font au moins trois morts",
     "added_at": "2025-08-30T15:13:46.563Z"
+  },
+  {
+    "title": "Une marche blanche à la mémoire de Marvin a réuni près d'un millier de personnes à Lausanne",
+    "added_at": "2025-08-30T15:21:27.799Z",
+    "removed_at": "2025-08-30T16:16:06.318Z",
+    "duration_minutes": 54,
+    "duration_str": "54m"
+  },
+  {
+    "title": "Plusieurs responsables politiques des Houthis tués dans des raids israéliens au Yémen",
+    "added_at": "2025-08-30T15:34:40.980Z"
+  },
+  {
+    "title": "La bataille contre les incendies \"touche à sa fin\" en Espagne grâce à une météo enfin favorable",
+    "added_at": "2025-08-30T15:45:59.116Z"
+  },
+  {
+    "title": "Police vaudoise: un gendarme impliqué dans l’affaire des messages racistes",
+    "added_at": "2025-08-30T16:14:15.345Z",
+    "removed_at": "2025-08-30T16:16:06.318Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Des marches blanches à la mémoire de Marvin et Nzoy réunissent un millier de personnes à Lausanne",
+    "added_at": "2025-08-30T16:16:06.318Z"
+  },
+  {
+    "title": "Après la 1re journée, deux lutteurs comptent 4 victoires en autant de passes et deux Romands sont parmi les meilleurs",
+    "added_at": "2025-08-30T16:19:54.343Z",
+    "removed_at": "2025-08-30T16:25:32.970Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "Le Saint-Gallois Schlegel en tête, une surprise au deuxième rang et deux Romands aux avant-postes",
+    "added_at": "2025-08-30T16:25:32.970Z"
   }
 ]
