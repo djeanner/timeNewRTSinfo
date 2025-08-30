@@ -27822,14 +27822,14 @@
   },
   {
     "title": "suisse:::Racisme à la police de Lausanne: un gendarme vaudois identifié parmi les membres d’un des groupes WhatsApp",
-    "added_at": "2025-08-27T18:36:38.041Z"
+    "added_at": "2025-08-27T18:36:38.041Z",
+    "removed_at": "2025-08-30T05:42:27.645Z",
+    "duration_minutes": 3545,
+    "duration_str": "2d 11h 5m"
   },
   {
     "title": "sciences:::L’Europe se prépare à subir de plus en plus d’orages violents et très localisés",
-    "added_at": "2025-08-27T18:51:45.662Z",
-    "removed_at": "2025-08-28T11:51:25.583Z",
-    "duration_minutes": 1019,
-    "duration_str": "16h 59m"
+    "added_at": "2025-08-27T18:51:45.662Z"
   },
   {
     "title": "culture:::«KPop Demon Hunters»: un succès planétaire devenu nouvelle arme du soft power coréen",
@@ -28264,10 +28264,7 @@
   },
   {
     "title": "sport:::La plus belle et difficile voie alpiniste du Mont-Blanc accomplie en libre: une chimère libérée aux Drus",
-    "added_at": "2025-08-29T08:09:51.023Z",
-    "removed_at": "2025-08-29T17:57:33.261Z",
-    "duration_minutes": 587,
-    "duration_str": "9h 47m"
+    "added_at": "2025-08-29T08:09:51.023Z"
   },
   {
     "title": "culture:::Une biennale qui mettra le Valais sons dessus dessous",
@@ -28386,7 +28383,10 @@
   },
   {
     "title": "economie:::A Sierre, le géant de l’aluminium Constellium se tourne vers l’aérospatial et l’industrie de la défense",
-    "added_at": "2025-08-29T15:53:23.484Z"
+    "added_at": "2025-08-29T15:53:23.484Z",
+    "removed_at": "2025-08-30T05:40:37.701Z",
+    "duration_minutes": 827,
+    "duration_str": "13h 47m"
   },
   {
     "title": "suisse:::A la suite des émeutes à Lausanne, un jeune homme de 19 ans placé en détention provisoire",
@@ -28394,7 +28394,10 @@
   },
   {
     "title": "suisse:::Le peuple aura le dernier mot sur la double majorité pour les accords avec l’UE",
-    "added_at": "2025-08-29T16:14:03.904Z"
+    "added_at": "2025-08-29T16:14:03.904Z",
+    "removed_at": "2025-08-30T05:36:47.590Z",
+    "duration_minutes": 802,
+    "duration_str": "13h 22m"
   },
   {
     "title": "cyber:::WhatsApp, une zone de non-droit absolue? Contrairement aux apparences, des systèmes de modération sont cachés au cœur de la messagerie",
@@ -28437,5 +28440,9 @@
   {
     "title": "monde:::Pourquoi le nombre de disparus dans le monde augmente de façon vertigineuse?",
     "added_at": "2025-08-29T19:45:02.117Z"
+  },
+  {
+    "title": "economie:::Assurance contre les dégâts naturels, l’exemplarité du modèle suisse confrontée à la question climatique",
+    "added_at": "2025-08-30T05:36:47.590Z"
   }
 ]
