@@ -79,8 +79,9 @@
   {
     "title": "sport:::Ultra-trail du Mont-Blanc: le Britannique Tom Evans remporte une édition dantesque",
     "added_at": "2025-08-30T11:55:52.794Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-08-30T17:30:23.558Z",
+    "duration_minutes": 335,
+    "duration_str": "5h 35m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Un député ukrainien tué par balle à Lviv",
@@ -115,6 +116,12 @@
   {
     "title": "economie:::La justice fédérale américaine estime qu’une grande partie des droits de douane de Donald Trump sont illégaux",
     "added_at": "2025-08-30T16:24:05.771Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::Essor et chute d’Ava, icône de la scène suisse des start-up des années 2010",
+    "added_at": "2025-08-30T17:30:23.558Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
