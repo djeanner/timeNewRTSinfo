@@ -11671,7 +11671,10 @@
   },
   {
     "title": "Emma, Gabriel, Noah, les prénoms à la mode ont raccourci de moitié en 50 ans",
-    "added_at": "2025-08-28T07:37:34.338Z"
+    "added_at": "2025-08-28T07:37:34.338Z",
+    "removed_at": "2025-08-30T18:04:38.115Z",
+    "duration_minutes": 3507,
+    "duration_str": "2d 10h 27m"
   },
   {
     "title": "Les huit espèces connues de pangolin sont toutes en grave danger d'extinction",
@@ -11887,7 +11890,10 @@
   },
   {
     "title": "Les Européens réagissent à l’impasse nucléaire en relançant les sanctions contre Téhéran",
-    "added_at": "2025-08-28T18:42:56.853Z"
+    "added_at": "2025-08-28T18:42:56.853Z",
+    "removed_at": "2025-08-30T18:36:36.589Z",
+    "duration_minutes": 2873,
+    "duration_str": "1d 23h 53m"
   },
   {
     "title": "Qu’est-ce que Ross 308, cette espèce de poulet génétiquement sélectionnée et omniprésente dans nos supermarchés?",
@@ -12234,7 +12240,10 @@
   },
   {
     "title": "Le Conseil fédéral mandate des entreprises suisses pour reconstruire l’Ukraine: interview de Jacques Gerber",
-    "added_at": "2025-08-30T08:06:16.654Z"
+    "added_at": "2025-08-30T08:06:16.654Z",
+    "removed_at": "2025-08-30T18:04:38.115Z",
+    "duration_minutes": 598,
+    "duration_str": "9h 58m"
   },
   {
     "title": "Le Guinness Book célèbre sept décennies de records",
@@ -12310,10 +12319,7 @@
   },
   {
     "title": "Nvidia, l'entreprise la plus chère du monde au coeur des remous géopolitiques",
-    "added_at": "2025-08-30T14:47:58.999Z",
-    "removed_at": "2025-08-30T14:50:09.382Z",
-    "duration_minutes": 2,
-    "duration_str": "2m"
+    "added_at": "2025-08-30T14:47:58.999Z"
   },
   {
     "title": "Dans le Jura, le lancement de campagne du PLR marqué par l'ombre de Martial Courtet",
@@ -12359,5 +12365,9 @@
   {
     "title": "Le Saint-Gallois Schlegel en tête, une surprise au deuxième rang et deux Romands aux avant-postes",
     "added_at": "2025-08-30T16:24:05.732Z"
+  },
+  {
+    "title": "La lente disparition des communautés religieuses dans le canton de Fribourg",
+    "added_at": "2025-08-30T18:36:36.589Z"
   }
 ]
