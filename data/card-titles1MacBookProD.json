@@ -11739,7 +11739,10 @@
   },
   {
     "title": "Au moins 17 morts dans une vague de frappes russes sur Kiev",
-    "added_at": "2025-08-28T12:35:42.314Z"
+    "added_at": "2025-08-28T12:35:42.314Z",
+    "removed_at": "2025-08-30T13:39:29.943Z",
+    "duration_minutes": 2943,
+    "duration_str": "2d 1h 3m"
   },
   {
     "title": "Incendie dans le parking public de la Place Pury à Neuchâtel",
@@ -12169,7 +12172,10 @@
   },
   {
     "title": "Une attaque massive russe touche les régions de Dnipropetrovsk et de Zaporijjia",
-    "added_at": "2025-08-30T02:43:11.062Z"
+    "added_at": "2025-08-30T02:43:11.062Z",
+    "removed_at": "2025-08-30T13:30:54.739Z",
+    "duration_minutes": 647,
+    "duration_str": "10h 47m"
   },
   {
     "title": "Guerre commerciale: \"L'économie américaine va souffrir à long terme\"",
@@ -12241,5 +12247,13 @@
   {
     "title": "Une marche blanche à la mémoire de Marvin a rassemblé un millier de personnes à Lausanne",
     "added_at": "2025-08-30T12:20:23.755Z"
+  },
+  {
+    "title": "Une vaste attaque russe touche les régions de Dnipropetrovsk et de Zaporijjia",
+    "added_at": "2025-08-30T13:30:54.739Z"
+  },
+  {
+    "title": "Alain Berset hospitalisé, mais \"son état n'est pas préoccupant\"",
+    "added_at": "2025-08-30T13:39:29.943Z"
   }
 ]
