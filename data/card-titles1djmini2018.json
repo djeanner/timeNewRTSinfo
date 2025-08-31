@@ -36470,7 +36470,10 @@
   },
   {
     "title": "Incendie maîtrisé dans le parking public de la Place Pury à Neuchâtel",
-    "added_at": "2025-08-28T16:39:06.443Z"
+    "added_at": "2025-08-28T16:39:06.443Z",
+    "removed_at": "2025-08-31T04:02:35.989Z",
+    "duration_minutes": 3563,
+    "duration_str": "2d 11h 23m"
   },
   {
     "title": "La fonction publique coûte-t-elle trop cher au canton de Genève? Débat entre Stéphanie Ruegsegger et Davide De Filippo",
@@ -36779,11 +36782,17 @@
   },
   {
     "title": "La Russie provoque-t-elle les alliés de l’Ukraine en bombardant massivement Kiev? Interview de Dominique Trinquand",
-    "added_at": "2025-08-29T17:04:52.605Z"
+    "added_at": "2025-08-29T17:04:52.605Z",
+    "removed_at": "2025-08-31T04:02:35.989Z",
+    "duration_minutes": 2097,
+    "duration_str": "1d 10h 57m"
   },
   {
     "title": "Faut-il durcir les conditions de la libération conditionnelle? Débat entre Yaël Hayat et Mauro Poggia",
-    "added_at": "2025-08-29T17:04:52.605Z"
+    "added_at": "2025-08-29T17:04:52.605Z",
+    "removed_at": "2025-08-31T05:03:06.929Z",
+    "duration_minutes": 2158,
+    "duration_str": "1d 11h 58m"
   },
   {
     "title": "Le Parti socialiste veut lancer une initiative populaire contre la violence patriarcale",
@@ -37070,5 +37079,13 @@
   {
     "title": "Vladimir Poutine en Chine pour un sommet censé proposer une nouvelle gouvernance face à l'Occident",
     "added_at": "2025-08-31T02:45:20.831Z"
+  },
+  {
+    "title": "Le prénom, un choix ni libre ni neutre",
+    "added_at": "2025-08-31T04:02:35.989Z"
+  },
+  {
+    "title": "La 47ème Fête fédérale de lutte suisse débute vendredi à Mollis (GL)",
+    "added_at": "2025-08-31T05:03:06.929Z"
   }
 ]
