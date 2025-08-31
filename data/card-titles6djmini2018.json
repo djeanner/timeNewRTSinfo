@@ -764,10 +764,7 @@
   },
   {
     "title": "LIVE: Liverpool vs Arsenal – Premier League",
-    "added_at": "2025-05-11T13:26:36.752Z",
-    "removed_at": "2025-05-11T17:51:30.282Z",
-    "duration_minutes": 264,
-    "duration_str": "4h 24m"
+    "added_at": "2025-05-11T13:26:36.752Z"
   },
   {
     "title": "‘No more war’: Pope Leo XIV calls for Gaza ceasefire, peace in Ukraine",
@@ -34035,7 +34032,10 @@
   },
   {
     "title": "‘Our story’: A day in the life of a handwritten newspaper in Bangladesh",
-    "added_at": "2025-08-30T04:55:18.857Z"
+    "added_at": "2025-08-30T04:55:18.857Z",
+    "removed_at": "2025-08-31T11:25:51.738Z",
+    "duration_minutes": 1830,
+    "duration_str": "1d 6h 30m"
   },
   {
     "title": "Kashmir’s top cleric was a fiery freedom advocate. Now he preaches patience",
@@ -34283,11 +34283,17 @@
   },
   {
     "title": "Palestinians flee as Israeli forces intensify attacks on Gaza City",
-    "added_at": "2025-08-31T05:10:38.339Z"
+    "added_at": "2025-08-31T05:10:38.339Z",
+    "removed_at": "2025-08-31T10:21:51.492Z",
+    "duration_minutes": 311,
+    "duration_str": "5h 11m"
   },
   {
     "title": "‘Mayhem, chaos’ in Gaza City as Israel intensifies attacks, killing 47",
-    "added_at": "2025-08-31T05:10:38.339Z"
+    "added_at": "2025-08-31T05:10:38.339Z",
+    "removed_at": "2025-08-31T10:46:21.091Z",
+    "duration_minutes": 335,
+    "duration_str": "5h 35m"
   },
   {
     "title": "Trump to order voter ID for every vote, ‘no exceptions’",
@@ -34295,7 +34301,10 @@
   },
   {
     "title": "‘I’m not a machine’: Sinner and Swiatek fight back to enter US Open last 16",
-    "added_at": "2025-08-31T06:03:40.396Z"
+    "added_at": "2025-08-31T06:03:40.396Z",
+    "removed_at": "2025-08-31T12:07:19.011Z",
+    "duration_minutes": 363,
+    "duration_str": "6h 3m"
   },
   {
     "title": "Ostapenko apologises to Townsend for ‘no education’ comments",
@@ -34312,5 +34321,21 @@
   {
     "title": "War in Sudan: Humanitarian, fighting, control developments, August 2025",
     "added_at": "2025-08-31T08:47:38.573Z"
+  },
+  {
+    "title": "Another Palestinian child shot dead by Israeli forces",
+    "added_at": "2025-08-31T10:21:51.492Z"
+  },
+  {
+    "title": "The Global Sumud Flotilla to Gaza: Everything you need to know",
+    "added_at": "2025-08-31T10:46:21.091Z"
+  },
+  {
+    "title": "Indonesian president says lawmakers’ perks to be cut after deadly protests",
+    "added_at": "2025-08-31T11:25:51.738Z"
+  },
+  {
+    "title": "Sumud, the largest flotilla to sail for Gaza, prepares to set out",
+    "added_at": "2025-08-31T11:40:54.075Z"
   }
 ]
