@@ -11844,7 +11844,10 @@
   },
   {
     "title": "Incendie maîtrisé dans le parking public de la Place Pury à Neuchâtel",
-    "added_at": "2025-08-28T16:38:55.003Z"
+    "added_at": "2025-08-28T16:38:55.003Z",
+    "removed_at": "2025-08-31T04:03:13.543Z",
+    "duration_minutes": 3564,
+    "duration_str": "2d 11h 24m"
   },
   {
     "title": "La fonction publique coûte-t-elle trop cher au canton de Genève? Débat entre Stéphanie Ruegsegger et Davide De Filippo",
@@ -12149,7 +12152,10 @@
   },
   {
     "title": "La Russie provoque-t-elle les alliés de l’Ukraine en bombardant massivement Kiev? Interview de Dominique Trinquand",
-    "added_at": "2025-08-29T17:04:24.996Z"
+    "added_at": "2025-08-29T17:04:24.996Z",
+    "removed_at": "2025-08-31T04:03:13.543Z",
+    "duration_minutes": 2098,
+    "duration_str": "1d 10h 58m"
   },
   {
     "title": "Faut-il durcir les conditions de la libération conditionnelle? Débat entre Yaël Hayat et Mauro Poggia",
@@ -12444,5 +12450,9 @@
   {
     "title": "Vladimir Poutine en Chine pour un sommet censé proposer une nouvelle gouvernance face à l'Occident",
     "added_at": "2025-08-31T02:44:13.752Z"
+  },
+  {
+    "title": "Le prénom, un choix ni libre ni neutre",
+    "added_at": "2025-08-31T04:03:13.543Z"
   }
 ]
