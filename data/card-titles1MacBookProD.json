@@ -10858,7 +10858,10 @@
   },
   {
     "title": "Deuxième nuit de violences à Lausanne, sept personnes interpellées",
-    "added_at": "2025-08-27T09:09:37.089Z"
+    "added_at": "2025-08-27T09:09:37.089Z",
+    "removed_at": "2025-08-31T10:05:08.056Z",
+    "duration_minutes": 5815,
+    "duration_str": "4d 55m"
   },
   {
     "title": "Quatre policiers lausannois suspendus après des messages racistes, antisémites et sexistes",
@@ -10939,10 +10942,7 @@
   },
   {
     "title": "Emeutes à Lausanne: les jeunes en colère après la mort de Marvin",
-    "added_at": "2025-08-27T09:09:37.089Z",
-    "removed_at": "2025-08-31T08:31:00.381Z",
-    "duration_minutes": 5721,
-    "duration_str": "3d 23h 21m"
+    "added_at": "2025-08-27T09:09:37.089Z"
   },
   {
     "title": "Deuxième nuit d'émeutes à Lausanne: 7 interpellations et 54 grenades lacrymogènes tirées",
@@ -12108,7 +12108,10 @@
   },
   {
     "title": "Les chauves-souris suisses en pleine saison des amours",
-    "added_at": "2025-08-29T12:56:42.852Z"
+    "added_at": "2025-08-29T12:56:42.852Z",
+    "removed_at": "2025-08-31T10:09:21.400Z",
+    "duration_minutes": 2712,
+    "duration_str": "1d 21h 12m"
   },
   {
     "title": "L'hôpital de Sion regroupera toutes les opérations chirurgicales du canton dès 2027",
@@ -12128,7 +12131,10 @@
   },
   {
     "title": "A Vevey, le Concours international de piano Clara Haskil vit sa 31e édition",
-    "added_at": "2025-08-29T14:20:01.155Z"
+    "added_at": "2025-08-29T14:20:01.155Z",
+    "removed_at": "2025-08-31T10:24:18.335Z",
+    "duration_minutes": 2644,
+    "duration_str": "1d 20h 4m"
   },
   {
     "title": "Le Valais demande l'autorisation de supprimer deux meutes de loups sur les 9 présentes sur son territoire",
@@ -12409,7 +12415,10 @@
   },
   {
     "title": "Police vaudoise: un gendarme impliqué dans l’affaire des messages racistes",
-    "added_at": "2025-08-30T16:13:27.627Z"
+    "added_at": "2025-08-30T16:13:27.627Z",
+    "removed_at": "2025-08-31T10:05:08.056Z",
+    "duration_minutes": 1071,
+    "duration_str": "17h 51m"
   },
   {
     "title": "Des marches blanches à la mémoire de Marvin et Nzoy réunissent un millier de personnes à Lausanne",
@@ -12531,5 +12540,17 @@
   {
     "title": "Qui sera le roi de la lutte? Vivez en direct la deuxième et dernière journée de la Fête fédérale",
     "added_at": "2025-08-31T08:50:11.745Z"
+  },
+  {
+    "title": "Bananiers et oliviers, le pari audacieux de cultivateurs romands",
+    "added_at": "2025-08-31T10:09:21.400Z"
+  },
+  {
+    "title": "La Sagrada Familia aspergée de peinture par des militantes écologistes",
+    "added_at": "2025-08-31T10:24:18.335Z"
+  },
+  {
+    "title": "Le Hamas confirme la mort de Mohammed Sinouar, un de ses chefs tué par Israël",
+    "added_at": "2025-08-31T10:24:18.335Z"
   }
 ]
