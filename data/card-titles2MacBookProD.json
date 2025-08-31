@@ -29611,7 +29611,10 @@
   },
   {
     "title": "sport:::Dernières passes au Club des lutteurs de la Gruyère, qui envoie cinq représentants à la Fête fédérale de Mollis",
-    "added_at": "2025-08-30T07:34:12.644Z"
+    "added_at": "2025-08-30T07:34:12.644Z",
+    "removed_at": "2025-08-31T17:54:42.974Z",
+    "duration_minutes": 2060,
+    "duration_str": "1d 10h 20m"
   },
   {
     "title": "culture:::Au Mont-Soleil, des photos géantes tutoient la nature",
@@ -29850,10 +29853,7 @@
   },
   {
     "title": "suisse:::L’ancien président du Conseil des Etats Fritz Schiesser aurait passé deux mois en détention provisoire dans le canton de Vaud",
-    "added_at": "2025-08-31T14:30:41.431Z",
-    "removed_at": "2025-08-31T17:16:04.050Z",
-    "duration_minutes": 165,
-    "duration_str": "2h 45m"
+    "added_at": "2025-08-31T14:30:41.431Z"
   },
   {
     "title": "culture:::«Friedas Fall», l’histoire tragique d’une mère infanticide dans le Saint-Gall de 1904",
@@ -29882,5 +29882,9 @@
   {
     "title": "economie:::Sophie Michaud Gigon, de la FRC: «Exiger de la Comco qu’elle prouve l’impact concret d’un cartel, c’est la condamner à l’impuissance»",
     "added_at": "2025-08-31T17:16:04.050Z"
+  },
+  {
+    "title": "suisse:::Faut-il protéger encore davantage le lac de la Gruyère?",
+    "added_at": "2025-08-31T17:54:42.974Z"
   }
 ]
