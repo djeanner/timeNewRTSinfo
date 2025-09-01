@@ -64107,7 +64107,10 @@
   },
   {
     "title": "Can You Still Get the Covid Shot?",
-    "added_at": "2025-08-31T01:13:11.544Z"
+    "added_at": "2025-08-31T01:13:11.544Z",
+    "removed_at": "2025-09-01T18:33:13.195Z",
+    "duration_minutes": 2480,
+    "duration_str": "1d 17h 20m"
   },
   {
     "title": "Gauff and Osaka Will Meet in Blockbuster Matchup as Sinner Advances",
@@ -64188,10 +64191,7 @@
   },
   {
     "title": "Historians See Autocratic Playbook in Trump’s Attacks on Science",
-    "added_at": "2025-08-31T09:55:21.241Z",
-    "removed_at": "2025-09-01T10:00:55.568Z",
-    "duration_minutes": 1445,
-    "duration_str": "1d 5m"
+    "added_at": "2025-08-31T09:55:21.241Z"
   },
   {
     "title": "How Trump Could Overhaul the Fed",
@@ -64559,7 +64559,10 @@
   },
   {
     "title": "Robert Mueller Has Parkinson’s Disease, His Family Says",
-    "added_at": "2025-09-01T01:28:10.435Z"
+    "added_at": "2025-09-01T01:28:10.435Z",
+    "removed_at": "2025-09-01T17:38:36.256Z",
+    "duration_minutes": 970,
+    "duration_str": "16h 10m"
   },
   {
     "title": "Novak Djokovic and Aryna Sabalenka Cruise Into Quarterfinals",
@@ -64663,7 +64666,10 @@
   },
   {
     "title": "Guatemalan Children Are Removed From Plane After Judge Halts Deportations",
-    "added_at": "2025-09-01T10:00:55.568Z"
+    "added_at": "2025-09-01T10:00:55.568Z",
+    "removed_at": "2025-09-01T18:36:56.220Z",
+    "duration_minutes": 516,
+    "duration_str": "8h 36m"
   },
   {
     "title": "A Jamaican Man Served Time in the U.S., Then Was Deported to an African Prison",
@@ -64730,23 +64736,38 @@
   },
   {
     "title": "Earthquake in Afghanistan Leaves More Than 800 Dead",
-    "added_at": "2025-09-01T10:42:18.184Z"
+    "added_at": "2025-09-01T10:42:18.184Z",
+    "removed_at": "2025-09-01T18:50:09.701Z",
+    "duration_minutes": 487,
+    "duration_str": "8h 7m"
   },
   {
     "title": "A Look at Vintage Photography From Our Archives",
-    "added_at": "2025-09-01T11:34:59.099Z"
+    "added_at": "2025-09-01T11:34:59.099Z",
+    "removed_at": "2025-09-01T19:01:27.001Z",
+    "duration_minutes": 446,
+    "duration_str": "7h 26m"
   },
   {
     "title": "What’s in the Suitcase: Extra-Strength Cannabis From California to Britain",
-    "added_at": "2025-09-01T12:23:59.218Z"
+    "added_at": "2025-09-01T12:23:59.218Z",
+    "removed_at": "2025-09-01T17:51:46.706Z",
+    "duration_minutes": 327,
+    "duration_str": "5h 27m"
   },
   {
     "title": "The Tennis Queen and the Wide-Eyed Teen, 6 Years Later in New York",
-    "added_at": "2025-09-01T13:01:37.968Z"
+    "added_at": "2025-09-01T13:01:37.968Z",
+    "removed_at": "2025-09-01T17:46:08.568Z",
+    "duration_minutes": 284,
+    "duration_str": "4h 44m"
   },
   {
     "title": "Coco Gauff, Jannik Sinner and Iga Swiatek Are in Action on Day 9",
-    "added_at": "2025-09-01T13:01:37.968Z"
+    "added_at": "2025-09-01T13:01:37.968Z",
+    "removed_at": "2025-09-01T17:46:08.568Z",
+    "duration_minutes": 284,
+    "duration_str": "4h 44m"
   },
   {
     "title": "Man Who’d Served His Time in U.S. Is Deported to an African Prison",
@@ -64783,5 +64804,32 @@
   {
     "title": "Exxon and California Spar in Dueling Lawsuits Over Plastics",
     "added_at": "2025-09-01T16:15:38.833Z"
+  },
+  {
+    "title": "Naomi Osaka and Coco Gauff to Battle for Spot in U.S. Open Quarterfinals",
+    "added_at": "2025-09-01T17:46:08.568Z",
+    "removed_at": "2025-09-01T18:35:02.720Z",
+    "duration_minutes": 48,
+    "duration_str": "48m"
+  },
+  {
+    "title": "The U.S. Open Is a Tennis Tournament. It’s Also a Fashion Show.",
+    "added_at": "2025-09-01T17:46:08.568Z"
+  },
+  {
+    "title": "Boy Shot During ‘Ding Dong Ditch’ Prank in Texas Has Died",
+    "added_at": "2025-09-01T17:51:46.706Z"
+  },
+  {
+    "title": "Army Football Player Saves Man From Burning Car",
+    "added_at": "2025-09-01T18:33:13.195Z"
+  },
+  {
+    "title": "Naomi Osaka and Coco Gauff Battle for Spot in U.S. Open Quarterfinals",
+    "added_at": "2025-09-01T18:35:02.720Z"
+  },
+  {
+    "title": "Rescue Crews in Afghanistan Struggle to Reach Areas Where Quake Left 800 Dead",
+    "added_at": "2025-09-01T18:50:09.701Z"
   }
 ]
