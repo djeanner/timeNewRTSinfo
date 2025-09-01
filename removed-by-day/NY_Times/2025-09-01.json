@@ -101,8 +101,9 @@
   {
     "title": "Earthquake in Afghanistan Leaves More Than 600 Dead",
     "added_at": "2025-09-01T07:18:18.845Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-01T10:41:52.944Z",
+    "duration_minutes": 204,
+    "duration_str": "3h 24m"
   },
   {
     "title": "What to Know About Giuliani’s Car Crash",
@@ -112,7 +113,7 @@
   },
   {
     "title": "What to Know About the Earthquake",
-    "added_at": "2025-09-01T09:26:54.587Z",
+    "added_at": "2025-09-01T09:25:07.150Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -197,6 +198,12 @@
   {
     "title": "His Muse: Ancient Cambodian Statues. His Medium? Graffiti.",
     "added_at": "2025-09-01T10:01:05.233Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Earthquake in Afghanistan Leaves More Than 800 Dead",
+    "added_at": "2025-09-01T10:41:52.944Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
