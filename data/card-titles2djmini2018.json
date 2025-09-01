@@ -28802,7 +28802,10 @@
   },
   {
     "title": "suisse:::Lionel Dugerdil, la croissance d’un décroissant",
-    "added_at": "2025-08-31T15:59:21.830Z"
+    "added_at": "2025-08-31T15:59:21.830Z",
+    "removed_at": "2025-09-01T15:45:31.255Z",
+    "duration_minutes": 1426,
+    "duration_str": "23h 46m"
   },
   {
     "title": "suisse:::A Genève, un siège, trois favoris et trois enjeux",
@@ -28919,7 +28922,10 @@
   },
   {
     "title": "monde:::Des centaines de personnes tuées dans un séisme dans l’est de l’Afghanistan",
-    "added_at": "2025-09-01T07:03:49.084Z"
+    "added_at": "2025-09-01T07:03:49.084Z",
+    "removed_at": "2025-09-01T14:35:56.574Z",
+    "duration_minutes": 452,
+    "duration_str": "7h 32m"
   },
   {
     "title": "suisse:::Les ambitions d’un «groupe activiste patriote» inquiètent au Tessin",
@@ -28981,7 +28987,10 @@
   },
   {
     "title": "monde:::En Inde, le parti de Narendra Modi veut nettoyer Delhi, «capitale la plus polluée du monde»",
-    "added_at": "2025-09-01T11:36:48.375Z"
+    "added_at": "2025-09-01T11:36:48.375Z",
+    "removed_at": "2025-09-01T14:58:31.383Z",
+    "duration_minutes": 201,
+    "duration_str": "3h 21m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – La flottille pour Gaza est de retour à Barcelone «pour laisser passer la tempête»",
@@ -28993,11 +29002,17 @@
   },
   {
     "title": "sport:::Avec l’essor des murs de grimpe artificiels, l’escalade est devenue un sport familial",
-    "added_at": "2025-09-01T12:57:52.965Z"
+    "added_at": "2025-09-01T12:57:52.965Z",
+    "removed_at": "2025-09-01T15:05:59.895Z",
+    "duration_minutes": 128,
+    "duration_str": "2h 8m"
   },
   {
     "title": "suisse:::Dans le canton de Vaud, Aigle fait face à une suspicion de fraude lors d’une récolte de signatures",
-    "added_at": "2025-09-01T13:12:54.817Z"
+    "added_at": "2025-09-01T13:12:54.817Z",
+    "removed_at": "2025-09-01T14:41:35.101Z",
+    "duration_minutes": 88,
+    "duration_str": "1h 28m"
   },
   {
     "title": "suisse:::Albert Rösti vient célébrer l’avancée des travaux de la gare de Lausanne: «Nous tournons la page du scepticisme»",
@@ -29005,7 +29020,10 @@
   },
   {
     "title": "culture:::Au cirque Knie, Marie-Thérèse persifle, les couples d'artistes planent, le public se pâme",
-    "added_at": "2025-09-01T13:58:05.476Z"
+    "added_at": "2025-09-01T13:58:05.476Z",
+    "removed_at": "2025-09-01T14:39:40.252Z",
+    "duration_minutes": 41,
+    "duration_str": "41m"
   },
   {
     "title": "economie:::Nouvelle baisse du taux hypothécaire de référence: comment en profiter?",
@@ -29014,5 +29032,43 @@
   {
     "title": "economie:::Au Pérou, le défi colossal de la régularisation de la production d’or",
     "added_at": "2025-09-01T14:16:55.342Z"
+  },
+  {
+    "title": "monde:::La solitude de l’Afghanistan frappée par un nouveau séisme meurtrier",
+    "added_at": "2025-09-01T14:35:56.574Z",
+    "removed_at": "2025-09-01T16:28:52.174Z",
+    "duration_minutes": 112,
+    "duration_str": "1h 52m"
+  },
+  {
+    "title": "culture:::Au Cirque Knie, Marie-Thérèse persifle, les couples d’artistes planent, le public se pâme",
+    "added_at": "2025-09-01T14:39:40.252Z"
+  },
+  {
+    "title": "suisse:::Racisme au sein de la police lausannoise: quatre nouvelles suspensions et une structure de signalement annoncées",
+    "added_at": "2025-09-01T14:41:35.101Z"
+  },
+  {
+    "title": "sport:::Alvyn Sanches fera étape à Young Boys avant de quitter la Suisse",
+    "added_at": "2025-09-01T14:58:31.383Z",
+    "removed_at": "2025-09-01T16:34:31.321Z",
+    "duration_minutes": 95,
+    "duration_str": "1h 35m"
+  },
+  {
+    "title": "suisse:::Nicolas Walder, le poids d’un parti",
+    "added_at": "2025-09-01T15:05:59.895Z"
+  },
+  {
+    "title": "monde:::Aux Etats-Unis, neuf ex-chefs de l’agence de santé publique accusent Robert F. Kennedy Jr de «mettre en danger» la population",
+    "added_at": "2025-09-01T15:43:41.649Z"
+  },
+  {
+    "title": "monde:::La solitude de l’Afghanistan, frappée par un nouveau séisme meurtrier",
+    "added_at": "2025-09-01T16:28:52.174Z"
+  },
+  {
+    "title": "economie:::Heures creuses l’après-midi et baisses: les nouveautés des prix de l’électricité de 2026",
+    "added_at": "2025-09-01T16:34:31.321Z"
   }
 ]
