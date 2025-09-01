@@ -12697,7 +12697,10 @@
   },
   {
     "title": "Assurance auto: l'avantage des véhicules électriques s'amenuise",
-    "added_at": "2025-08-31T06:37:35.741Z"
+    "added_at": "2025-08-31T06:37:35.741Z",
+    "removed_at": "2025-09-01T16:59:33.734Z",
+    "duration_minutes": 2061,
+    "duration_str": "1d 10h 21m"
   },
   {
     "title": "Production d'électricité revue à la baisse: interview de Stéphane Genoud",
@@ -12752,7 +12755,10 @@
   },
   {
     "title": "Le Hamas confirme la mort de Mohammed Sinouar, un de ses chefs tué par Israël",
-    "added_at": "2025-08-31T10:24:18.335Z"
+    "added_at": "2025-08-31T10:24:18.335Z",
+    "removed_at": "2025-09-01T17:31:37.755Z",
+    "duration_minutes": 1867,
+    "duration_str": "1d 7h 7m"
   },
   {
     "title": "Loi sur l'électricité: les nouveaux barrages produiront deux fois moins d'énergie qu'attendu",
@@ -13158,5 +13164,27 @@
   {
     "title": "L'épopée de Leandro Riedi prend fin en 8es de finale",
     "added_at": "2025-09-01T16:48:44.617Z"
+  },
+  {
+    "title": "La Biélorussie affirme avoir passé une énorme commande à Stadler Rail, qui nie tout contrat",
+    "added_at": "2025-09-01T16:59:33.734Z",
+    "removed_at": "2025-09-01T17:20:56.365Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
+  },
+  {
+    "title": "La Biélorussie affirme avoir passé une énorme commande à Stadler Rail, qui nie toute signature de contrat",
+    "added_at": "2025-09-01T17:20:56.365Z"
+  },
+  {
+    "title": "Le directeur général de Nestlé Laurent Freixe licencié avec effet immédiat",
+    "added_at": "2025-09-01T17:31:37.755Z",
+    "removed_at": "2025-09-01T17:38:02.903Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
+  },
+  {
+    "title": "Le patron de Nestlé Laurent Freixe licencié après une relation amoureuse avec une collaboratrice",
+    "added_at": "2025-09-01T17:38:02.903Z"
   }
 ]
