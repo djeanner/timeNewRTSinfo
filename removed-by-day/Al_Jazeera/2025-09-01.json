@@ -106,8 +106,9 @@
   {
     "title": "At least 800 people killed, 2,500 injured in Afghanistan earthquake",
     "added_at": "2025-09-01T08:41:50.008Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-01T14:12:17.852Z",
+    "duration_minutes": 330,
+    "duration_str": "5h 30m"
   },
   {
     "title": "UK Muslims report vandalism, attacks amid controversial flag campaign",
@@ -119,6 +120,19 @@
   {
     "title": "Sumud Flotilla for Gaza forced to turn back due to weather conditions",
     "added_at": "2025-09-01T13:18:35.359Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Over 800 people killed, 2,800 injured in Afghanistan earthquake",
+    "added_at": "2025-09-01T14:12:17.852Z",
+    "removed_at": "2025-09-01T14:33:39.395Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
+  },
+  {
+    "title": "More than 800 people killed, 2,800 injured in Afghanistan earthquake",
+    "added_at": "2025-09-01T14:33:39.395Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
