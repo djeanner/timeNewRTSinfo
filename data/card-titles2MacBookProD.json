@@ -29922,7 +29922,10 @@
   },
   {
     "title": "culture:::A Gstaad, le «Requiem» de Verdi pour l’amour de l’opéra",
-    "added_at": "2025-08-31T21:09:53.533Z"
+    "added_at": "2025-08-31T21:09:53.533Z",
+    "removed_at": "2025-09-01T05:45:53.645Z",
+    "duration_minutes": 516,
+    "duration_str": "8h 36m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Un député ukrainien tué par balle à Lviv, un suspect arrêté",
@@ -29953,5 +29956,9 @@
   {
     "title": "suisse:::Les ambitions d'un «groupe activiste patriote» inquiètent au Tessin",
     "added_at": "2025-09-01T05:02:59.412Z"
+  },
+  {
+    "title": "monde:::En signe de bonne volonté, la Corée du Sud cesse ses émissions de radio vers le Nord",
+    "added_at": "2025-09-01T05:43:44.452Z"
   }
 ]
