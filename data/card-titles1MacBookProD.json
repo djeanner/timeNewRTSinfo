@@ -12238,7 +12238,10 @@
   },
   {
     "title": "Le canton de Genève interdit la vente des puffs avec effet immédiat",
-    "added_at": "2025-08-29T17:02:20.526Z"
+    "added_at": "2025-08-29T17:02:20.526Z",
+    "removed_at": "2025-09-02T07:01:51.579Z",
+    "duration_minutes": 5159,
+    "duration_str": "3d 13h 59m"
   },
   {
     "title": "La Russie provoque-t-elle les alliés de l’Ukraine en bombardant massivement Kiev? Interview de Dominique Trinquand",
@@ -12775,10 +12778,7 @@
   },
   {
     "title": "La Sagrada Familia aspergée de peinture par des militantes écologistes",
-    "added_at": "2025-08-31T10:24:18.335Z",
-    "removed_at": "2025-09-01T19:03:46.791Z",
-    "duration_minutes": 1959,
-    "duration_str": "1d 8h 39m"
+    "added_at": "2025-08-31T10:24:18.335Z"
   },
   {
     "title": "Le Hamas confirme la mort de Mohammed Sinouar, un de ses chefs tué par Israël",
@@ -12807,7 +12807,10 @@
   },
   {
     "title": "L'accord sur l'électricité avec l'UE pourrait signer la fin des tarifs minimaux pour le solaire",
-    "added_at": "2025-08-31T12:24:10.067Z"
+    "added_at": "2025-08-31T12:24:10.067Z",
+    "removed_at": "2025-09-02T07:14:42.196Z",
+    "duration_minutes": 2570,
+    "duration_str": "1d 18h 50m"
   },
   {
     "title": "A Davos, des chercheurs modélisent les glissements de terrain pour mieux les anticiper",
@@ -13066,7 +13069,10 @@
   },
   {
     "title": "Une bibliothèque d’objets voit le jour dans le canton de Genève: interview d’Eric Messiaux",
-    "added_at": "2025-09-01T09:39:42.779Z"
+    "added_at": "2025-09-01T09:39:42.779Z",
+    "removed_at": "2025-09-02T07:01:51.579Z",
+    "duration_minutes": 1282,
+    "duration_str": "21h 22m"
   },
   {
     "title": "Les communautés religieuses fribourgeoises disparaissent: interview d’Isabelle Jonveaux",
@@ -13262,10 +13268,7 @@
   },
   {
     "title": "Fête fédérale de lutte à Mollis (GL): trois dernières passes pour les couronnes et la passe finale",
-    "added_at": "2025-09-01T20:03:50.676Z",
-    "removed_at": "2025-09-02T04:05:50.707Z",
-    "duration_minutes": 482,
-    "duration_str": "8h 2m"
+    "added_at": "2025-09-01T20:03:50.676Z"
   },
   {
     "title": "Des milliers de Serbes ont manifesté à Belgrade pour demander des élections",
@@ -13297,5 +13300,9 @@
   {
     "title": "Manuel Akanji rejoint l'Inter Milan de Yann Sommer",
     "added_at": "2025-09-02T06:01:49.252Z"
+  },
+  {
+    "title": "Les restrictions d'accès à la piscine de Porrentruy levées avec la fin de saison",
+    "added_at": "2025-09-02T07:14:42.196Z"
   }
 ]

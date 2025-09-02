@@ -30073,7 +30073,10 @@
   },
   {
     "title": "suisse:::A son tour, Zurich veut repousser l’enseignement du français",
-    "added_at": "2025-09-01T10:14:03.484Z"
+    "added_at": "2025-09-01T10:14:03.484Z",
+    "removed_at": "2025-09-02T06:42:36.785Z",
+    "duration_minutes": 1228,
+    "duration_str": "20h 28m"
   },
   {
     "title": "economie:::Une série de montres en forme de tonneau",
@@ -30109,7 +30112,10 @@
   },
   {
     "title": "suisse:::Pour les juges vaudois, un détenu ne peut pas s’opposer à sa libération conditionnelle",
-    "added_at": "2025-09-01T12:31:15.395Z"
+    "added_at": "2025-09-01T12:31:15.395Z",
+    "removed_at": "2025-09-02T06:42:36.785Z",
+    "duration_minutes": 1091,
+    "duration_str": "18h 11m"
   },
   {
     "title": "sport:::Avec l’essor des murs de grimpe artificiels, l’escalade est devenue un sport familial",
@@ -30166,10 +30172,7 @@
   },
   {
     "title": "suisse:::Racisme au sein de la police lausannoise: quatre nouvelles suspensions et une structure de signalement annoncées",
-    "added_at": "2025-09-01T14:42:16.067Z",
-    "removed_at": "2025-09-02T04:12:17.026Z",
-    "duration_minutes": 810,
-    "duration_str": "13h 30m"
+    "added_at": "2025-09-01T14:42:16.067Z"
   },
   {
     "title": "sport:::Alvyn Sanches fera étape à Young Boys avant de quitter la Suisse",
@@ -30180,7 +30183,10 @@
   },
   {
     "title": "suisse:::Nicolas Walder, le poids d’un parti",
-    "added_at": "2025-09-01T15:05:51.706Z"
+    "added_at": "2025-09-01T15:05:51.706Z",
+    "removed_at": "2025-09-02T06:42:36.785Z",
+    "duration_minutes": 936,
+    "duration_str": "15h 36m"
   },
   {
     "title": "monde:::Aux Etats-Unis, neuf ex-chefs de l’agence de santé publique accusent Robert F. Kennedy Jr de «mettre en danger» la population",
@@ -30205,10 +30211,7 @@
   },
   {
     "title": "suisse:::Avec la visite d’Albert Rösti, Lausanne célèbre l’avancée des travaux de la gare et «tourne la page du scepticisme»",
-    "added_at": "2025-09-01T16:50:55.818Z",
-    "removed_at": "2025-09-02T05:05:56.182Z",
-    "duration_minutes": 735,
-    "duration_str": "12h 15m"
+    "added_at": "2025-09-01T16:50:55.818Z"
   },
   {
     "title": "economie:::Les entreprises familiales montent au créneau contre l’initiative sur les successions",
@@ -30299,5 +30302,16 @@
   {
     "title": "monde:::Dix ans après la mort du petit Alan Kurdi, les enfants n’ont jamais été aussi massivement victimes de la guerre",
     "added_at": "2025-09-02T05:29:42.314Z"
+  },
+  {
+    "title": "monde:::Vote de confiance: les 4 scénarios qu’Emmanuel Macron tordra nécessairement un peu",
+    "added_at": "2025-09-02T06:42:36.785Z",
+    "removed_at": "2025-09-02T07:19:02.679Z",
+    "duration_minutes": 36,
+    "duration_str": "36m"
+  },
+  {
+    "title": "monde:::Vote de confiance: les quatre scénarios qu’Emmanuel Macron tordra nécessairement un peu",
+    "added_at": "2025-09-02T07:19:02.679Z"
   }
 ]
