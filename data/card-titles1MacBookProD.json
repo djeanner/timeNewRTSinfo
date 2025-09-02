@@ -12924,7 +12924,10 @@
   },
   {
     "title": "Un ex-trafiquant de drogue raconte l'enfer pour arracher la jeunesse des griffes du narcotrafic",
-    "added_at": "2025-08-31T18:05:24.443Z"
+    "added_at": "2025-08-31T18:05:24.443Z",
+    "removed_at": "2025-09-02T16:04:32.899Z",
+    "duration_minutes": 2759,
+    "duration_str": "1d 21h 59m"
   },
   {
     "title": "\"Tout nous manque, chaque chose nous ramène chez nous\": la population de Blatten panse toujours ses plaies",
@@ -13147,10 +13150,7 @@
   },
   {
     "title": "Une bibliothèque d’objets voit le jour dans le canton de Genève: interview d’Eric Messiaux",
-    "added_at": "2025-09-01T09:39:42.779Z",
-    "removed_at": "2025-09-02T14:04:26.997Z",
-    "duration_minutes": 1704,
-    "duration_str": "1d 4h 24m"
+    "added_at": "2025-09-01T09:39:42.779Z"
   },
   {
     "title": "Les communautés religieuses fribourgeoises disparaissent: interview d’Isabelle Jonveaux",
@@ -13222,7 +13222,10 @@
   },
   {
     "title": "Pamela Ohene-Nyako: \"Tous les pans de la société\" concernés par le racisme systémique",
-    "added_at": "2025-09-01T13:18:34.900Z"
+    "added_at": "2025-09-01T13:18:34.900Z",
+    "removed_at": "2025-09-02T16:32:23.385Z",
+    "duration_minutes": 1633,
+    "duration_str": "1d 3h 13m"
   },
   {
     "title": "Baisse du taux hypothécaire de référence: impact possible sur les loyers",
@@ -13351,7 +13354,10 @@
   },
   {
     "title": "Une nouvelle flottille humanitaire part dimanche en direction de Gaza pour briser le blocus israélien",
-    "added_at": "2025-09-01T20:03:50.676Z"
+    "added_at": "2025-09-01T20:03:50.676Z",
+    "removed_at": "2025-09-02T16:04:32.899Z",
+    "duration_minutes": 1200,
+    "duration_str": "20h"
   },
   {
     "title": "Fête fédérale de lutte à Mollis (GL): trois dernières passes pour les couronnes et la passe finale",
@@ -13525,5 +13531,23 @@
   {
     "title": "La pollution et le climat mettent toujours plus sous pression les nappes phréatiques",
     "added_at": "2025-09-02T15:53:45.470Z"
+  },
+  {
+    "title": "Super League de football: le Lausanne Sport perd face à St-Gall, Servette fait match nul face à Lucerne",
+    "added_at": "2025-09-02T16:04:32.899Z",
+    "removed_at": "2025-09-02T16:23:48.660Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
+  },
+  {
+    "title": "Implenia a coulé le mauvais béton sur le chantier du pont de la Barboleuse",
+    "added_at": "2025-09-02T16:32:23.385Z",
+    "removed_at": "2025-09-02T17:00:08.167Z",
+    "duration_minutes": 27,
+    "duration_str": "27m"
+  },
+  {
+    "title": "Implenia a coulé le mauvais béton sur le chantier de la Barboleuse",
+    "added_at": "2025-09-02T17:00:08.167Z"
   }
 ]
