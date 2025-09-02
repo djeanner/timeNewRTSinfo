@@ -30087,7 +30087,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Russie soupçonnée après le brouillage de l'avion d'Ursula von der Leyen",
-    "added_at": "2025-09-01T10:46:09.779Z"
+    "added_at": "2025-09-01T10:46:09.779Z",
+    "removed_at": "2025-09-02T07:46:54.580Z",
+    "duration_minutes": 1260,
+    "duration_str": "21h"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – «A Gaza, il n'y aura bientôt plus personne pour vous informer», alerte RSF avec plus de 250 médias",
@@ -30168,7 +30171,10 @@
   },
   {
     "title": "culture:::Au Cirque Knie, Marie-Thérèse persifle, les couples d’artistes planent, le public se pâme",
-    "added_at": "2025-09-01T14:37:56.131Z"
+    "added_at": "2025-09-01T14:37:56.131Z",
+    "removed_at": "2025-09-02T08:12:35.880Z",
+    "duration_minutes": 1054,
+    "duration_str": "17h 34m"
   },
   {
     "title": "suisse:::Racisme au sein de la police lausannoise: quatre nouvelles suspensions et une structure de signalement annoncées",
@@ -30313,5 +30319,13 @@
   {
     "title": "monde:::Vote de confiance: les quatre scénarios qu’Emmanuel Macron tordra nécessairement un peu",
     "added_at": "2025-09-02T07:19:02.679Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – La Corée du Sud pense que 2000 soldats nord-coréens ont été tués par l'armée ukrainienne",
+    "added_at": "2025-09-02T07:46:54.580Z"
+  },
+  {
+    "title": "cyber:::La Suisse lance Apertus, son propre modèle de langage, une avancée majeure dans l’univers de l’intelligence artificielle",
+    "added_at": "2025-09-02T08:10:30.760Z"
   }
 ]
