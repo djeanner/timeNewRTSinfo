@@ -12097,7 +12097,10 @@
   },
   {
     "title": "Un requin orange, unique au monde, observé au Costa Rica",
-    "added_at": "2025-08-29T10:37:24.355Z"
+    "added_at": "2025-08-29T10:37:24.355Z",
+    "removed_at": "2025-09-02T15:02:19.464Z",
+    "duration_minutes": 6024,
+    "duration_str": "4d 4h 24m"
   },
   {
     "title": "Zoug, Bâle-Ville et Zurich devancent Vaud dans le classement de la compétitivité d'UBS",
@@ -13057,11 +13060,17 @@
   },
   {
     "title": "Le recyclage des plastiques et briques à boisson sera bientôt généralisé en Suisse",
-    "added_at": "2025-09-01T08:54:44.761Z"
+    "added_at": "2025-09-01T08:54:44.761Z",
+    "removed_at": "2025-09-02T14:17:26.196Z",
+    "duration_minutes": 1762,
+    "duration_str": "1d 5h 22m"
   },
   {
     "title": "Une goutte dans l’œil pour remplacer les lunettes de lecture",
-    "added_at": "2025-09-01T09:07:33.178Z"
+    "added_at": "2025-09-01T09:07:33.178Z",
+    "removed_at": "2025-09-02T14:45:09.666Z",
+    "duration_minutes": 1777,
+    "duration_str": "1d 5h 37m"
   },
   {
     "title": "Incubo, un festival d’idées et de projets pour les arts de la scène à Bienne",
@@ -13072,7 +13081,10 @@
   },
   {
     "title": "En Suisse, des boîtes aux lettres relevées de plus en plus tôt",
-    "added_at": "2025-09-01T09:31:08.258Z"
+    "added_at": "2025-09-01T09:31:08.258Z",
+    "removed_at": "2025-09-02T14:25:55.846Z",
+    "duration_minutes": 1734,
+    "duration_str": "1d 4h 54m"
   },
   {
     "title": "De nouvelles révélations dans l’affaire Vipret",
@@ -13100,7 +13112,10 @@
   },
   {
     "title": "La nouvelle flottille pour Gaza peut-elle avoir un effet? Débat entre Valérie Gorin et Ilias Panchard",
-    "added_at": "2025-09-01T09:39:42.779Z"
+    "added_at": "2025-09-01T09:39:42.779Z",
+    "removed_at": "2025-09-02T15:02:19.464Z",
+    "duration_minutes": 1762,
+    "duration_str": "1d 5h 22m"
   },
   {
     "title": "Commémoration des 60 ans de la tragédie de Mattmark dans le Haut-Valais: interview de Domenico Mesiano",
@@ -13434,7 +13449,10 @@
   },
   {
     "title": "La Chine réduit ses émissions de CO2 depuis 2024, devenant un modèle de transition écologique",
-    "added_at": "2025-09-02T13:25:55.154Z"
+    "added_at": "2025-09-02T13:25:55.154Z",
+    "removed_at": "2025-09-02T14:34:28.849Z",
+    "duration_minutes": 68,
+    "duration_str": "1h 8m"
   },
   {
     "title": "Nouveau séisme en Afghanistan, le dernier bilan dépasse les 1400 morts",
@@ -13455,5 +13473,25 @@
   {
     "title": "\"L'oreille absolue\" d’Agnès Desarthe, personnages en quête d’harmonie",
     "added_at": "2025-09-02T13:55:49.885Z"
+  },
+  {
+    "title": "Les interférences de Donald Trump sur la Réserve fédérale américaine menacent la stabilité économique",
+    "added_at": "2025-09-02T14:17:26.196Z"
+  },
+  {
+    "title": "Donald Trump menace d'intervenir à Chicago pour \"régler la criminalité\"",
+    "added_at": "2025-09-02T14:25:55.846Z"
+  },
+  {
+    "title": "La Chine réduit ses émissions de CO₂ depuis 2024, devenant un modèle de transition écologique",
+    "added_at": "2025-09-02T14:34:28.849Z"
+  },
+  {
+    "title": "ChatGPT va instaurer un contrôle parental après un suicide",
+    "added_at": "2025-09-02T14:45:09.666Z"
+  },
+  {
+    "title": "Le taux hypothécaire de référence abaissé à 1,25%",
+    "added_at": "2025-09-02T15:02:19.464Z"
   }
 ]
