@@ -41,8 +41,9 @@
   {
     "title": "suisse:::Forum des 100: La Suisse romande se renouvelle sans cesse",
     "added_at": "2025-09-02T05:25:14.358Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-02T13:45:11.325Z",
+    "duration_minutes": 500,
+    "duration_str": "8h 20m"
   },
   {
     "title": "monde:::Dix ans après la mort du petit Alan Kurdi, les enfants n’ont jamais été aussi massivement victimes de la guerre",
@@ -85,14 +86,16 @@
   {
     "title": "culture:::«Ici rien ne va» à La Bâtie, une comédie musicale pour rire ou pour pleurer?",
     "added_at": "2025-09-02T09:14:48.596Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-02T13:10:54.485Z",
+    "duration_minutes": 236,
+    "duration_str": "3h 56m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – A bord de son train blindé, Kim Jong-un est arrivé à Pékin à la veille d'un défilé militaire historique",
     "added_at": "2025-09-02T09:18:32.043Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-02T13:17:19.094Z",
+    "duration_minutes": 239,
+    "duration_str": "3h 59m"
   },
   {
     "title": "sciences:::Le lithium, une nouvelle pièce prometteuse dans le puzzle de la maladie d’Alzheimer",
@@ -129,6 +132,18 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Bombardements meurtriers sur la ville de Gaza, alors que l'armée israélienne prépare son invasion terrestre",
     "added_at": "2025-09-02T12:42:57.338Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::A Genève, l’Office cantonal de la détention se cherche un nouveau patron",
+    "added_at": "2025-09-02T13:15:10.300Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – L'assassin présumé du député ukrainien passe aux aveux et veut être échangé avec la Russie",
+    "added_at": "2025-09-02T13:17:19.094Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
