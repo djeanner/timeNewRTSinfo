@@ -26408,7 +26408,10 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T21:30:25.517Z"
+    "added_at": "2025-07-25T21:30:25.517Z",
+    "removed_at": "2025-09-03T19:03:19.960Z",
+    "duration_minutes": 57452,
+    "duration_str": "39d 21h 32m"
   },
   {
     "title": "La légende du catch Hulk Hogan est décédée à l'âge de 71 ans",
@@ -36685,10 +36688,7 @@
   },
   {
     "title": "Tariq Ramadan débouté par le Tribunal fédéral, qui confirme sa condamnation",
-    "added_at": "2025-08-29T07:22:48.640Z",
-    "removed_at": "2025-09-03T18:02:50.693Z",
-    "duration_minutes": 7840,
-    "duration_str": "5d 10h 40m"
+    "added_at": "2025-08-29T07:22:48.640Z"
   },
   {
     "title": "L'interdiction de la piscine de Porrentruy aux étrangers devrait être prolongée",
@@ -37930,7 +37930,10 @@
   },
   {
     "title": "Quatre nouveaux policiers suspendus à Lausanne dans l'affaire des groupes WhatsApp racistes",
-    "added_at": "2025-09-01T13:56:15.827Z"
+    "added_at": "2025-09-01T13:56:15.827Z",
+    "removed_at": "2025-09-03T19:05:09.399Z",
+    "duration_minutes": 3188,
+    "duration_str": "2d 5h 8m"
   },
   {
     "title": "Le Valais lance un numéro unique pour les urgences non vitales",
@@ -38103,7 +38106,10 @@
   },
   {
     "title": "Stadler Rail envisagerait un énorme contrat avec la Biélorussie malgré les sanctions",
-    "added_at": "2025-09-01T22:22:53.476Z"
+    "added_at": "2025-09-01T22:22:53.476Z",
+    "removed_at": "2025-09-03T19:05:09.399Z",
+    "duration_minutes": 2682,
+    "duration_str": "1d 20h 42m"
   },
   {
     "title": "La Confédération épinglée pour sa gestion de la décharge de Gamsenried",
@@ -38156,7 +38162,10 @@
   },
   {
     "title": "Plus d'un millier de morts dans un glissement de terrain au Soudan",
-    "added_at": "2025-09-02T08:06:54.853Z"
+    "added_at": "2025-09-02T08:06:54.853Z",
+    "removed_at": "2025-09-03T18:52:02.209Z",
+    "duration_minutes": 2085,
+    "duration_str": "1d 10h 45m"
   },
   {
     "title": "La post-réalité ou le refus de se cogner au réel",
@@ -38171,7 +38180,10 @@
   },
   {
     "title": "La ville de Brugg interdit l'alcool sur sa place centrale pour réduire la violence",
-    "added_at": "2025-09-02T09:22:17.006Z"
+    "added_at": "2025-09-02T09:22:17.006Z",
+    "removed_at": "2025-09-03T20:28:00.044Z",
+    "duration_minutes": 2105,
+    "duration_str": "1d 11h 5m"
   },
   {
     "title": "L'OMS veut davantage de moyens et d'actions pour la santé mentale",
@@ -38214,7 +38226,10 @@
   },
   {
     "title": "Neuchâtel impose des conditions spécifiques pour le personnel des hôpitaux",
-    "added_at": "2025-09-02T12:28:43.591Z"
+    "added_at": "2025-09-02T12:28:43.591Z",
+    "removed_at": "2025-09-03T18:57:41.044Z",
+    "duration_minutes": 1828,
+    "duration_str": "1d 6h 28m"
   },
   {
     "title": "Le phénomène Mia Moglie et ses partages non consentis de photos intimes inquiète aussi le Tessin",
@@ -38581,5 +38596,56 @@
   {
     "title": "L’impact des droits de douane à 39% sur l'économie suisse: débat entre Mathieu Grobéty et Patrick Linder",
     "added_at": "2025-09-03T18:02:50.693Z"
+  },
+  {
+    "title": "Avant un entretien avec Donald Trump jeudi, l'Europe et l'Ukraine peaufinent leur stratégie",
+    "added_at": "2025-09-03T18:52:02.209Z"
+  },
+  {
+    "title": "Plusieurs morts et des blessés dans le déraillement  du funiculaire de Gloria au centre de Lisbonne",
+    "added_at": "2025-09-03T18:57:41.044Z",
+    "removed_at": "2025-09-03T19:03:19.960Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "Plusieurs morts et des blessés dans le déraillement du funiculaire de Gloria au centre de Lisbonne",
+    "added_at": "2025-09-03T19:03:19.960Z",
+    "removed_at": "2025-09-03T19:12:41.746Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Plusieurs morts et des blessés dans le déraillement du funiculaire de Gloria, au centre de Lisbonne",
+    "added_at": "2025-09-03T19:12:41.746Z",
+    "removed_at": "2025-09-03T19:44:39.919Z",
+    "duration_minutes": 31,
+    "duration_str": "31m"
+  },
+  {
+    "title": "Des chercheurs suisses lancent Apertus, un modèle IA de langage ouvert: interview de Martin Rajman",
+    "added_at": "2025-09-03T19:23:58.508Z"
+  },
+  {
+    "title": "Quinze morts et des blessés dans le déraillement du funiculaire de Gloria, au centre de Lisbonne",
+    "added_at": "2025-09-03T19:44:39.919Z",
+    "removed_at": "2025-09-03T19:46:33.663Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Au moins 15 morts et des blessés dans le déraillement du funiculaire de Gloria, au centre de Lisbonne",
+    "added_at": "2025-09-03T19:46:33.663Z",
+    "removed_at": "2025-09-03T19:59:45.861Z",
+    "duration_minutes": 13,
+    "duration_str": "13m"
+  },
+  {
+    "title": "Au moins 15 morts et 18 blessés dans le déraillement du funiculaire de Gloria, au centre de Lisbonne",
+    "added_at": "2025-09-03T19:59:45.861Z"
+  },
+  {
+    "title": "L'oreille augmentée, une utilisation de l'IA dans les EMS pour veiller sur les résidents",
+    "added_at": "2025-09-03T20:28:00.044Z"
   }
 ]
