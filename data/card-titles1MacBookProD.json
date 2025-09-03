@@ -13554,7 +13554,10 @@
   },
   {
     "title": "La ville de Brugg interdit l'alcool sur sa place centrale pour réduire la violence",
-    "added_at": "2025-09-02T09:21:27.016Z"
+    "added_at": "2025-09-02T09:21:27.016Z",
+    "removed_at": "2025-09-03T20:28:39.924Z",
+    "duration_minutes": 2107,
+    "duration_str": "1d 11h 7m"
   },
   {
     "title": "L'OMS veut davantage de moyens et d'actions pour la santé mentale",
@@ -14007,5 +14010,9 @@
   {
     "title": "Au moins 15 morts et 18 blessés dans le déraillement du funiculaire de Gloria, au centre de Lisbonne",
     "added_at": "2025-09-03T19:58:34.309Z"
+  },
+  {
+    "title": "L'oreille augmentée, une utilisation de l'IA dans les EMS pour veiller sur les résidents",
+    "added_at": "2025-09-03T20:28:39.924Z"
   }
 ]
