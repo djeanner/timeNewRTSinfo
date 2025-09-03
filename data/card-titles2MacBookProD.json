@@ -30705,7 +30705,10 @@
   },
   {
     "title": "suisse:::Les bains thermaux d’Ovronnaz sont en faillite",
-    "added_at": "2025-09-03T10:44:06.613Z"
+    "added_at": "2025-09-03T10:44:06.613Z",
+    "removed_at": "2025-09-03T16:32:31.139Z",
+    "duration_minutes": 348,
+    "duration_str": "5h 48m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Au moins 21 000 enfants vivent avec un handicap causé par la guerre à Gaza, selon l’ONU",
@@ -30784,5 +30787,9 @@
   {
     "title": "suisse:::Dans le Lötschental sinistré, 100 millions de francs et un plan pour reconstruire Blatten avant la fin 2029",
     "added_at": "2025-09-03T16:02:20.738Z"
+  },
+  {
+    "title": "economie:::La justice zougoise fait durer le suspense: la recevabilité de la plainte climatique contre Holcim sera décidée ultérieurement",
+    "added_at": "2025-09-03T16:32:31.139Z"
   }
 ]
