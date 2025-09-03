@@ -30374,7 +30374,10 @@
   },
   {
     "title": "cyber:::La Suisse lance Apertus, son propre modèle de langage, une avancée majeure dans l’univers de l’intelligence artificielle",
-    "added_at": "2025-09-02T08:10:30.760Z"
+    "added_at": "2025-09-02T08:10:30.760Z",
+    "removed_at": "2025-09-03T14:19:02.505Z",
+    "duration_minutes": 1808,
+    "duration_str": "1d 6h 8m"
   },
   {
     "title": "suisse:::Le français enseigné au secondaire seulement? L’idée divise aussi les Alémaniques",
@@ -30462,7 +30465,10 @@
   },
   {
     "title": "economie:::Après l’affaire Freixe, Nestlé n’a plus droit à l’erreur",
-    "added_at": "2025-09-02T14:25:55.887Z"
+    "added_at": "2025-09-02T14:25:55.887Z",
+    "removed_at": "2025-09-03T14:19:02.505Z",
+    "duration_minutes": 1433,
+    "duration_str": "23h 53m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Toujours pas de réponse israélienne à un plan de cessez-le-feu contre la libération d'otages à Gaza, s'impatiente le Qatar",
@@ -30626,9 +30632,9 @@
   {
     "title": "monde:::Pékin réécrit l’histoire de la Seconde Guerre mondiale pour minimiser le rôle de l’Occident et des Etats-Unis",
     "added_at": "2025-09-03T05:13:25.555Z",
-    "removed_at": "2025-09-03T13:01:29.966Z",
-    "duration_minutes": 468,
-    "duration_str": "7h 48m"
+    "removed_at": "2025-09-03T14:21:08.027Z",
+    "duration_minutes": 547,
+    "duration_str": "9h 7m"
   },
   {
     "title": "economie:::Taxe minimale sur les multinationales, un enjeu de clarté pour les entreprises suisses",
@@ -30678,7 +30684,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La diplomatie est-elle vouée à l'échec? Nos réponses à vos questions",
-    "added_at": "2025-09-03T10:11:51.624Z"
+    "added_at": "2025-09-03T10:11:51.624Z",
+    "removed_at": "2025-09-03T15:12:47.494Z",
+    "duration_minutes": 300,
+    "duration_str": "5h"
   },
   {
     "title": "culture:::«L’Aventura», anti-film de vacances avec Philippe Katerine",
@@ -30704,7 +30713,10 @@
   },
   {
     "title": "economie:::En images – Lombard Odier inaugure son nouveau siège à Bellevue",
-    "added_at": "2025-09-03T12:55:04.591Z"
+    "added_at": "2025-09-03T12:55:04.591Z",
+    "removed_at": "2025-09-03T14:46:51.964Z",
+    "duration_minutes": 111,
+    "duration_str": "1h 51m"
   },
   {
     "title": "culture:::«Exit 8», les couloirs du métro de Tokyo comme un escape game géant",
@@ -30716,6 +30728,39 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Un ministre israélien appelle à annexer la Cisjordanie pour empêcher la reconnaissance d'un Etat palestinien",
-    "added_at": "2025-09-03T14:12:26.176Z"
+    "added_at": "2025-09-03T14:12:26.176Z",
+    "removed_at": "2025-09-03T14:42:35.080Z",
+    "duration_minutes": 30,
+    "duration_str": "30m"
+  },
+  {
+    "title": "monde:::En Afghanistan, l’espoir de trouver des rescapés du séisme se réduit",
+    "added_at": "2025-09-03T14:19:02.505Z",
+    "removed_at": "2025-09-03T15:12:47.494Z",
+    "duration_minutes": 53,
+    "duration_str": "53m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Plus de 70 000 habitants de la ville de Gaza ont fui les bombardements israéliens",
+    "added_at": "2025-09-03T14:42:35.080Z",
+    "removed_at": "2025-09-03T14:49:01.247Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
+  },
+  {
+    "title": "suisse:::Les conducteurs dénoncent la violence qu’ils subissent dans les transports publics",
+    "added_at": "2025-09-03T14:46:51.964Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Plus de 70 000 habitants de la ville de Gaza ont déjà fui les bombardements israéliens",
+    "added_at": "2025-09-03T14:49:01.247Z"
+  },
+  {
+    "title": "monde:::Donald Trump promet une intervention prochaine à Chicago",
+    "added_at": "2025-09-03T15:12:47.494Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky va essayer de convaincre Donald Trump de décréter de nouvelles sanctions contre Moscou",
+    "added_at": "2025-09-03T15:12:47.494Z"
   }
 ]

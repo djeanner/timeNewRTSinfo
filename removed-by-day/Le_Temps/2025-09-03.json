@@ -36,7 +36,7 @@
   {
     "title": "monde:::Pékin réécrit l’histoire de la Seconde Guerre mondiale pour minimiser le rôle de l’Occident et des Etats-Unis",
     "added_at": "2025-09-03T05:13:25.555Z",
-    "removed_at": "2025-09-03T13:01:29.966Z",
+    "removed_at": "2025-09-03T13:01:26.108Z",
     "duration_minutes": 468,
     "duration_str": "7h 48m"
   },
@@ -91,8 +91,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – La diplomatie est-elle vouée à l'échec? Nos réponses à vos questions",
     "added_at": "2025-09-03T10:10:01.841Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-03T15:12:47.494Z",
+    "duration_minutes": 303,
+    "duration_str": "5h 3m"
   },
   {
     "title": "culture:::«L’Aventura», anti-film de vacances avec Philippe Katerine",
@@ -123,12 +124,13 @@
   {
     "title": "economie:::En images – Lombard Odier inaugure son nouveau siège à Bellevue",
     "added_at": "2025-09-03T12:55:04.591Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-03T14:46:51.964Z",
+    "duration_minutes": 112,
+    "duration_str": "1h 52m"
   },
   {
     "title": "culture:::«Exit 8», les couloirs du métro de Tokyo comme un escape game géant",
-    "added_at": "2025-09-03T13:01:29.966Z",
+    "added_at": "2025-09-03T13:01:26.108Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -141,6 +143,45 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Un ministre israélien appelle à annexer la Cisjordanie pour empêcher la reconnaissance d'un Etat palestinien",
     "added_at": "2025-09-03T14:12:26.176Z",
+    "removed_at": "2025-09-03T14:42:35.080Z",
+    "duration_minutes": 30,
+    "duration_str": "30m"
+  },
+  {
+    "title": "monde:::En Afghanistan, l’espoir de trouver des rescapés du séisme se réduit",
+    "added_at": "2025-09-03T14:19:02.505Z",
+    "removed_at": "2025-09-03T15:12:47.494Z",
+    "duration_minutes": 54,
+    "duration_str": "54m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Plus de 70 000 habitants de la ville de Gaza ont fui les bombardements israéliens",
+    "added_at": "2025-09-03T14:42:35.080Z",
+    "removed_at": "2025-09-03T14:49:01.247Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
+  },
+  {
+    "title": "suisse:::Les conducteurs dénoncent la violence qu’ils subissent dans les transports publics",
+    "added_at": "2025-09-03T14:46:51.964Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Plus de 70 000 habitants de la ville de Gaza ont déjà fui les bombardements israéliens",
+    "added_at": "2025-09-03T14:49:01.247Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Donald Trump promet une intervention prochaine à Chicago",
+    "added_at": "2025-09-03T15:12:47.494Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky va essayer de convaincre Donald Trump de décréter de nouvelles sanctions contre Moscou",
+    "added_at": "2025-09-03T15:12:47.494Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
