@@ -30832,7 +30832,10 @@
   },
   {
     "title": "suisse:::Le Conseil fédéral veut mieux encadrer le développement du 30 km/h",
-    "added_at": "2025-09-03T17:28:19.631Z"
+    "added_at": "2025-09-03T17:28:19.631Z",
+    "removed_at": "2025-09-03T21:15:55.545Z",
+    "duration_minutes": 227,
+    "duration_str": "3h 47m"
   },
   {
     "title": "culture:::Blue Cinema inaugure six nouveaux écrans au cœur de Genève, en misant sur les fauteuils de luxe et les entractes",
@@ -30865,5 +30868,9 @@
   {
     "title": "monde:::Le célèbre funiculaire de la Gloria à Lisbonne a déraillé, faisant au moins 15 morts",
     "added_at": "2025-09-03T20:00:45.816Z"
+  },
+  {
+    "title": "cyber:::Véritable arlésienne du jeu vidéo, «Hollow Knight: Silksong» sort ce jeudi 4 septembre",
+    "added_at": "2025-09-03T21:15:55.545Z"
   }
 ]
