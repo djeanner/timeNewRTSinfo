@@ -13833,7 +13833,10 @@
   },
   {
     "title": "\"Je suis très déçu par le président Poutine\", déclare Donald Trump",
-    "added_at": "2025-09-02T19:04:37.247Z"
+    "added_at": "2025-09-02T19:04:37.247Z",
+    "removed_at": "2025-09-04T21:04:04.966Z",
+    "duration_minutes": 2999,
+    "duration_str": "2d 1h 59m"
   },
   {
     "title": "Une commission du Conseil national veut lier la suppression des rentes AVS des veuves et l’augmentation de celles des couples mariés",
@@ -14028,7 +14031,10 @@
   },
   {
     "title": "Le Conseil fédéral propose de nouvelles règles pour le 30 km/h en ville",
-    "added_at": "2025-09-03T13:44:27.544Z"
+    "added_at": "2025-09-03T13:44:27.544Z",
+    "removed_at": "2025-09-04T20:55:25.692Z",
+    "duration_minutes": 1870,
+    "duration_str": "1d 7h 10m"
   },
   {
     "title": "Les relations amoureuses au travail, entre vie privée et intérêts de l'entreprise",
@@ -14096,9 +14102,9 @@
   {
     "title": "L’impact des droits de douane à 39% sur l'économie suisse: débat entre Mathieu Grobéty et Patrick Linder",
     "added_at": "2025-09-03T18:02:37.281Z",
-    "removed_at": "2025-09-04T20:01:36.628Z",
-    "duration_minutes": 1558,
-    "duration_str": "1d 1h 58m"
+    "removed_at": "2025-09-04T20:53:15.887Z",
+    "duration_minutes": 1610,
+    "duration_str": "1d 2h 50m"
   },
   {
     "title": "Avant un entretien avec Donald Trump jeudi, l'Europe et l'Ukraine peaufinent leur stratégie",
@@ -14449,9 +14455,9 @@
   {
     "title": "La Gen Z boude-t-elle vraiment le monde du travail ?",
     "added_at": "2025-09-04T19:33:46.464Z",
-    "removed_at": "2025-09-04T19:35:52.180Z",
-    "duration_minutes": 2,
-    "duration_str": "2m"
+    "removed_at": "2025-09-04T20:53:15.887Z",
+    "duration_minutes": 79,
+    "duration_str": "1h 19m"
   },
   {
     "title": "Football: l’équipe de Suisse se prépare pour les qualifications de la Coupe du Monde 2026",
@@ -14463,5 +14469,16 @@
   {
     "title": "Un des policiers suspendus à Lausanne est impliqué dans deux affaires qui occupent la justice",
     "added_at": "2025-09-04T20:03:46.071Z"
+  },
+  {
+    "title": "L'invité du 12h30 - Ylan Assefy-Waterdrinker, directeur artistique du spectacle musical \"The Greatest Showman\"",
+    "added_at": "2025-09-04T20:51:10.678Z",
+    "removed_at": "2025-09-04T20:53:15.887Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "L'armée israélienne dit avoir pris le contrôle de 40% de Gaza-ville",
+    "added_at": "2025-09-04T20:55:25.692Z"
   }
 ]
