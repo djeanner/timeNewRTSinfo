@@ -3735,7 +3735,10 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T19:02:44.375Z"
+    "added_at": "2025-07-25T19:02:44.375Z",
+    "removed_at": "2025-09-04T19:03:29.609Z",
+    "duration_minutes": 59040,
+    "duration_str": "41d"
   },
   {
     "title": "En Israël, la population sensible au sort des Gazaouis refuse d'en rendre son armée responsable",
@@ -13265,10 +13268,7 @@
   },
   {
     "title": "Baisse du taux hypothécaire de référence: impact possible sur les loyers",
-    "added_at": "2025-09-01T13:25:00.233Z",
-    "removed_at": "2025-09-04T17:05:05.134Z",
-    "duration_minutes": 4540,
-    "duration_str": "3d 3h 40m"
+    "added_at": "2025-09-01T13:25:00.233Z"
   },
   {
     "title": "Albert Rösti se dit satisfait des progrès du chantier de la gare de Lausanne",
@@ -13996,7 +13996,10 @@
   },
   {
     "title": "Patricia Danzi: \"Si on a moins d'argent public pour la coopération, il faut se tourner vers le privé\"",
-    "added_at": "2025-09-03T11:20:28.625Z"
+    "added_at": "2025-09-03T11:20:28.625Z",
+    "removed_at": "2025-09-04T19:05:39.807Z",
+    "duration_minutes": 1905,
+    "duration_str": "1d 7h 45m"
   },
   {
     "title": "Coup de tonnerre en Valais, les bains thermaux d’Ovronnaz sont en faillite.",
@@ -14432,5 +14435,9 @@
   {
     "title": "Les bains thermaux d’Ovronnaz en Valais ont été déclarés en faillite",
     "added_at": "2025-09-04T17:02:52.451Z"
+  },
+  {
+    "title": "Guy Parmelin signe un plan pour réduire les contrôles dans les exploitations agricoles",
+    "added_at": "2025-09-04T19:05:39.807Z"
   }
 ]
