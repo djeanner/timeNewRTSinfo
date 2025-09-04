@@ -13265,7 +13265,10 @@
   },
   {
     "title": "Baisse du taux hypothécaire de référence: impact possible sur les loyers",
-    "added_at": "2025-09-01T13:25:00.233Z"
+    "added_at": "2025-09-01T13:25:00.233Z",
+    "removed_at": "2025-09-04T17:05:05.134Z",
+    "duration_minutes": 4540,
+    "duration_str": "3d 3h 40m"
   },
   {
     "title": "Albert Rösti se dit satisfait des progrès du chantier de la gare de Lausanne",
@@ -13863,7 +13866,10 @@
   },
   {
     "title": "Des fondations coulées dans le mauvais béton entraînent des retards dans les travaux sur la route entre Villars et Gryon",
-    "added_at": "2025-09-02T22:21:56.772Z"
+    "added_at": "2025-09-02T22:21:56.772Z",
+    "removed_at": "2025-09-04T17:02:52.451Z",
+    "duration_minutes": 2560,
+    "duration_str": "1d 18h 40m"
   },
   {
     "title": "En quelques heures, les réseaux ont annoncé la mort de Donald Trump",
@@ -13980,7 +13986,10 @@
   },
   {
     "title": "Nathalie Wappler va quitter la direction de SRF",
-    "added_at": "2025-09-03T11:16:12.853Z"
+    "added_at": "2025-09-03T11:16:12.853Z",
+    "removed_at": "2025-09-04T17:00:42.951Z",
+    "duration_minutes": 1784,
+    "duration_str": "1d 5h 44m"
   },
   {
     "title": "Patricia Danzi: \"Si on a moins d'argent public pour la coopération, il faut se tourner vers le privé\"",
@@ -14319,7 +14328,10 @@
   },
   {
     "title": "Deuil national à Lisbonne au lendemain du déraillement d'un funiculaire, 16 morts selon le dernier bilan",
-    "added_at": "2025-09-04T13:01:45.587Z"
+    "added_at": "2025-09-04T13:01:45.587Z",
+    "removed_at": "2025-09-04T16:56:26.589Z",
+    "duration_minutes": 234,
+    "duration_str": "3h 54m"
   },
   {
     "title": "Voici à quoi devrait ressembler la gare centrale de Zurich à l'avenir",
@@ -14400,9 +14412,25 @@
   },
   {
     "title": "Entretien avec Christian Moeckli, Directeur général de l’HRC",
-    "added_at": "2025-09-04T15:19:30.285Z",
-    "removed_at": "2025-09-04T15:36:49.996Z",
-    "duration_minutes": 17,
-    "duration_str": "17m"
+    "added_at": "2025-09-04T15:19:30.285Z"
+  },
+  {
+    "title": "Un Suisse figure parmi les 16 victimes du déraillement d’un funiculaire à Lisbonne",
+    "added_at": "2025-09-04T16:52:11.647Z",
+    "removed_at": "2025-09-04T17:02:52.451Z",
+    "duration_minutes": 10,
+    "duration_str": "10m"
+  },
+  {
+    "title": "Un Suisse figure parmi les 16 personnes tuées dans l'accident de funiculaire à Lisbonne",
+    "added_at": "2025-09-04T16:56:26.589Z"
+  },
+  {
+    "title": "Vingt-six pays prêts à participer à une \"force de réassurance\" pour l'Ukraine",
+    "added_at": "2025-09-04T17:00:42.951Z"
+  },
+  {
+    "title": "Les bains thermaux d’Ovronnaz en Valais ont été déclarés en faillite",
+    "added_at": "2025-09-04T17:02:52.451Z"
   }
 ]
