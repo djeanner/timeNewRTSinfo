@@ -27602,7 +27602,10 @@
   },
   {
     "title": "suisse:::Le contrat pour les F-35 suisses n’est toujours pas signé",
-    "added_at": "2025-08-19T15:09:44.881Z"
+    "added_at": "2025-08-19T15:09:44.881Z",
+    "removed_at": "2025-09-04T10:15:47.934Z",
+    "duration_minutes": 22746,
+    "duration_str": "15d 19h 6m"
   },
   {
     "title": "suisse:::Niveau en baisse: Genève demande aux enseignants de renforcer le travail sur l’orthographe",
@@ -29318,7 +29321,10 @@
   },
   {
     "title": "suisse:::Comment une présentation biaisée des coûts a poussé au choix du F-35",
-    "added_at": "2025-08-29T04:05:53.523Z"
+    "added_at": "2025-08-29T04:05:53.523Z",
+    "removed_at": "2025-09-04T10:15:47.934Z",
+    "duration_minutes": 9009,
+    "duration_str": "6d 6h 9m"
   },
   {
     "title": "economie:::Face aux droits de douane, les cantons oscillent entre vulnérabilité et capacité de résistance",
@@ -30990,10 +30996,25 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël menace le Yémen du pire après de nouveaux tirs de missiles",
-    "added_at": "2025-09-04T08:45:24.010Z"
+    "added_at": "2025-09-04T08:45:24.010Z",
+    "removed_at": "2025-09-04T09:43:34.096Z",
+    "duration_minutes": 58,
+    "duration_str": "58m"
   },
   {
     "title": "suisse:::Malgré le fiasco, le Conseil fédéral confirme l’acquisition de drones israéliens déficients",
     "added_at": "2025-09-04T09:02:35.185Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – «La voix de Hind Rajab», film choc sur une fillette tuée à Gaza ovationné à Venise",
+    "added_at": "2025-09-04T09:43:34.096Z"
+  },
+  {
+    "title": "suisse:::Après deux ans de négociations, la Suisse et la France signent deux accords sur les eaux du Rhône et du Léman",
+    "added_at": "2025-09-04T10:15:47.934Z"
+  },
+  {
+    "title": "suisse:::Face au réchauffement climatique, Genève modifie sa législation sur l’eau et débloque 50 millions pour le Rhône",
+    "added_at": "2025-09-04T10:15:47.934Z"
   }
 ]
