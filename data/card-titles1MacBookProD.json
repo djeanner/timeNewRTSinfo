@@ -3735,10 +3735,7 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T19:02:44.375Z",
-    "removed_at": "2025-09-04T19:03:29.609Z",
-    "duration_minutes": 59040,
-    "duration_str": "41d"
+    "added_at": "2025-07-25T19:02:44.375Z"
   },
   {
     "title": "En Israël, la population sensible au sort des Gazaouis refuse d'en rendre son armée responsable",
@@ -13268,7 +13265,10 @@
   },
   {
     "title": "Baisse du taux hypothécaire de référence: impact possible sur les loyers",
-    "added_at": "2025-09-01T13:25:00.233Z"
+    "added_at": "2025-09-01T13:25:00.233Z",
+    "removed_at": "2025-09-04T19:23:00.528Z",
+    "duration_minutes": 4678,
+    "duration_str": "3d 5h 58m"
   },
   {
     "title": "Albert Rösti se dit satisfait des progrès du chantier de la gare de Lausanne",
@@ -13865,7 +13865,10 @@
   },
   {
     "title": "Non, Donald Trump n'est pas mort: décryptage d'une folle rumeur virale",
-    "added_at": "2025-09-02T20:24:04.354Z"
+    "added_at": "2025-09-02T20:24:04.354Z",
+    "removed_at": "2025-09-04T20:01:36.628Z",
+    "duration_minutes": 2857,
+    "duration_str": "1d 23h 37m"
   },
   {
     "title": "Des fondations coulées dans le mauvais béton entraînent des retards dans les travaux sur la route entre Villars et Gryon",
@@ -13972,9 +13975,9 @@
   {
     "title": "Bilan en Espagne après les incendies les plus dévastateurs que le pays a connu en trente ans",
     "added_at": "2025-09-03T10:20:28.065Z",
-    "removed_at": "2025-09-04T18:00:56.854Z",
-    "duration_minutes": 1900,
-    "duration_str": "1d 7h 40m"
+    "removed_at": "2025-09-04T19:35:52.180Z",
+    "duration_minutes": 1995,
+    "duration_str": "1d 9h 15m"
   },
   {
     "title": "Un récent rapport climatique du gouvernement Trump étrillé",
@@ -14018,7 +14021,10 @@
   },
   {
     "title": "La Schubertiade ou quand la musique classique sort des salles de concert",
-    "added_at": "2025-09-03T13:18:43.653Z"
+    "added_at": "2025-09-03T13:18:43.653Z",
+    "removed_at": "2025-09-04T20:03:46.071Z",
+    "duration_minutes": 1845,
+    "duration_str": "1d 6h 45m"
   },
   {
     "title": "Le Conseil fédéral propose de nouvelles règles pour le 30 km/h en ville",
@@ -14089,7 +14095,10 @@
   },
   {
     "title": "L’impact des droits de douane à 39% sur l'économie suisse: débat entre Mathieu Grobéty et Patrick Linder",
-    "added_at": "2025-09-03T18:02:37.281Z"
+    "added_at": "2025-09-03T18:02:37.281Z",
+    "removed_at": "2025-09-04T20:01:36.628Z",
+    "duration_minutes": 1558,
+    "duration_str": "1d 1h 58m"
   },
   {
     "title": "Avant un entretien avec Donald Trump jeudi, l'Europe et l'Ukraine peaufinent leur stratégie",
@@ -14218,10 +14227,7 @@
   },
   {
     "title": "Deuil national à Lisbonne au lendemain du déraillement d'un funiculaire, le bilan grimpe à 17 morts",
-    "added_at": "2025-09-04T08:43:14.545Z",
-    "removed_at": "2025-09-04T13:01:45.587Z",
-    "duration_minutes": 258,
-    "duration_str": "4h 18m"
+    "added_at": "2025-09-04T08:43:14.545Z"
   },
   {
     "title": "La Suisse ne renoncera pas aux drones israéliens ADS15 malgré les retards",
@@ -14439,5 +14445,23 @@
   {
     "title": "Guy Parmelin signe un plan pour réduire les contrôles dans les exploitations agricoles",
     "added_at": "2025-09-04T19:05:39.807Z"
+  },
+  {
+    "title": "La Gen Z boude-t-elle vraiment le monde du travail ?",
+    "added_at": "2025-09-04T19:33:46.464Z",
+    "removed_at": "2025-09-04T19:35:52.180Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Football: l’équipe de Suisse se prépare pour les qualifications de la Coupe du Monde 2026",
+    "added_at": "2025-09-04T19:33:46.464Z",
+    "removed_at": "2025-09-04T19:35:52.180Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Un des policiers suspendus à Lausanne est impliqué dans deux affaires qui occupent la justice",
+    "added_at": "2025-09-04T20:03:46.071Z"
   }
 ]
