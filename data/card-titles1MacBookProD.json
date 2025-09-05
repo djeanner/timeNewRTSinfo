@@ -14517,7 +14517,10 @@
   },
   {
     "title": "Le taux de chômage progresse légèrement au mois d'août en Suisse",
-    "added_at": "2025-09-04T13:59:56.039Z"
+    "added_at": "2025-09-04T13:59:56.039Z",
+    "removed_at": "2025-09-05T21:43:39.705Z",
+    "duration_minutes": 1903,
+    "duration_str": "1d 7h 43m"
   },
   {
     "title": "Présenté à Venise, le film choc \"The Voice of Hind Rajab\" reçoit une ovation de 23 minutes",
@@ -14697,7 +14700,10 @@
   },
   {
     "title": "Un loup hybride, croisement entre un loup et un chien, sera abattu au Tessin",
-    "added_at": "2025-09-05T07:23:56.814Z"
+    "added_at": "2025-09-05T07:23:56.814Z",
+    "removed_at": "2025-09-05T22:24:35.215Z",
+    "duration_minutes": 900,
+    "duration_str": "15h"
   },
   {
     "title": "Une Suissesse figure parmi les 16 personnes tuées dans l'accident de funiculaire à Lisbonne",
@@ -14860,7 +14866,10 @@
   },
   {
     "title": "120 secondes – Brice Latour, conseiller d’Emmanuel Macron",
-    "added_at": "2025-09-05T19:02:06.235Z"
+    "added_at": "2025-09-05T19:02:06.235Z",
+    "removed_at": "2025-09-05T22:24:35.215Z",
+    "duration_minutes": 202,
+    "duration_str": "3h 22m"
   },
   {
     "title": "Le Tribunal de Martigny fait volte-face et annule la faillite des bains d'Ovronnaz",
@@ -14904,5 +14913,17 @@
   {
     "title": "A Lisbonne, le câble du funiculaire de Gloria est au centre de l'attention",
     "added_at": "2025-09-05T21:15:36.412Z"
+  },
+  {
+    "title": "Le chef de l'OMS dénonce une \"catastrophe\" alimentaire à Gaza",
+    "added_at": "2025-09-05T21:43:39.705Z"
+  },
+  {
+    "title": "Un Suisse séquestré en France pour lui soutirer ses cryptomonnaies",
+    "added_at": "2025-09-05T22:24:35.215Z"
+  },
+  {
+    "title": "Football: l’équipe de Suisse affronte le Kosovo en match qualificatif pour la Coupe du monde 2026",
+    "added_at": "2025-09-05T22:24:35.215Z"
   }
 ]
