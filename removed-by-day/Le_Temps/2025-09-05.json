@@ -186,14 +186,16 @@
   {
     "title": "monde:::En direct, Moyen-Orient – L'armée israélienne détruit une tour d'immeuble dans la ville de Gaza",
     "added_at": "2025-09-05T13:13:48.591Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-05T19:23:38.136Z",
+    "duration_minutes": 370,
+    "duration_str": "6h 10m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky assure que les pays occidentaux déploieront des «milliers» de soldats. Vladimir Poutine menace",
     "added_at": "2025-09-05T13:27:01.868Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-05T18:44:53.690Z",
+    "duration_minutes": 318,
+    "duration_str": "5h 18m"
   },
   {
     "title": "suisse:::A Genève, la gratuité des transports publics provoque des psychodrames politiques à répétition",
@@ -283,8 +285,9 @@
   {
     "title": "culture:::Design helvétique nouvelle génération: Micasa s’allie aux étudiants de l’ECAL",
     "added_at": "2025-09-05T17:50:39.321Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-05T19:25:43.893Z",
+    "duration_minutes": 95,
+    "duration_str": "1h 35m"
   },
   {
     "title": "suisse:::L’EPFL, test de résistance",
@@ -308,6 +311,30 @@
   {
     "title": "monde:::Donald Trump, aspirant au Nobel de la paix, crée un Département de la guerre",
     "added_at": "2025-09-05T18:18:50.803Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Volodymyr Zelensky assure que les pays occidentaux déploieront des «milliers» de soldats. Vladimir Poutine menace",
+    "added_at": "2025-09-05T18:44:53.690Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Un nombre croissant de soldats israéliens servent à Gaza en traînant des pieds… mais servent tout de même",
+    "added_at": "2025-09-05T19:04:17.609Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Moyen-Orient – L'armée israélienne détruit une tour d'immeuble dans la ville de Gaza",
+    "added_at": "2025-09-05T19:23:38.136Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "culture:::Avec «La Nuit au cœur», Nathacha Appanah signe une plongée saisissante au cœur de la violence conjugale",
+    "added_at": "2025-09-05T19:25:43.893Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
