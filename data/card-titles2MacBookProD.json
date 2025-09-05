@@ -26153,10 +26153,7 @@
   },
   {
     "title": "suisse:::Découvrez «Le Temps» avec tous nos abonnements annuels à –30% et bénéficiez d’une information fiable et indépendante",
-    "added_at": "2025-08-14T09:49:35.942Z",
-    "removed_at": "2025-09-04T14:25:42.010Z",
-    "duration_minutes": 30516,
-    "duration_str": "21d 4h 36m"
+    "added_at": "2025-08-14T09:49:35.942Z"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Le Kremlin donne des détails sur le sommet Trump-Poutine en Alaska",
@@ -31236,7 +31233,10 @@
   },
   {
     "title": "culture:::Opéra cherche fonds désespérément: au Met de New York, les dollars saoudiens entrent en scène",
-    "added_at": "2025-09-05T03:14:10.695Z"
+    "added_at": "2025-09-05T03:14:10.695Z",
+    "removed_at": "2025-09-05T12:02:24.633Z",
+    "duration_minutes": 528,
+    "duration_str": "8h 48m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Le Kremlin dit être «absolument» opposé aux garanties américaine et européennes à l’Ukraine",
@@ -31322,7 +31322,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Hamas diffuse une vidéo de deux otages israéliens détenus à Gaza",
-    "added_at": "2025-09-05T09:37:34.607Z"
+    "added_at": "2025-09-05T09:37:34.607Z",
+    "removed_at": "2025-09-05T11:58:01.081Z",
+    "duration_minutes": 140,
+    "duration_str": "2h 20m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L'accord entre Kiev et Washington sur les minerais ukrainiens va de l'avant",
@@ -31346,5 +31349,9 @@
   {
     "title": "monde:::Des centaines de Sud-Coréens arrêtés lors d'un raid dans une usine aux Etats-Unis",
     "added_at": "2025-09-05T11:36:21.327Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L'armée israélienne cible une tour d'immeuble dans la ville de Gaza",
+    "added_at": "2025-09-05T11:58:01.081Z"
   }
 ]
