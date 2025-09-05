@@ -33878,7 +33878,10 @@
   },
   {
     "title": "France enter World Cup qualifying but scheduling demands take toll",
-    "added_at": "2025-09-04T16:47:51.101Z"
+    "added_at": "2025-09-04T16:47:51.101Z",
+    "removed_at": "2025-09-05T06:38:42.584Z",
+    "duration_minutes": 830,
+    "duration_str": "13h 50m"
   },
   {
     "title": "In besieged Sudan city, civilians face death if they try to escape",
@@ -33993,7 +33996,10 @@
   },
   {
     "title": "South Korea trials 4-day weeks and half-days for its stressed-out workers",
-    "added_at": "2025-09-04T23:15:27.026Z"
+    "added_at": "2025-09-04T23:15:27.026Z",
+    "removed_at": "2025-09-05T06:25:48.695Z",
+    "duration_minutes": 430,
+    "duration_str": "7h 10m"
   },
   {
     "title": "Prosecutors launch probe into Argentina couple over Nazi-looted painting",
@@ -34023,7 +34029,10 @@
   },
   {
     "title": "‘Erasing neighbourhoods’: Israel kills 18 as strikes flatten Gaza City",
-    "added_at": "2025-09-05T04:27:23.448Z"
+    "added_at": "2025-09-05T04:27:23.448Z",
+    "removed_at": "2025-09-05T06:27:54.879Z",
+    "duration_minutes": 120,
+    "duration_str": "2h"
   },
   {
     "title": "Pentagon warns Venezuela as 2 military aircraft fly near US Navy ship",
@@ -34043,5 +34052,17 @@
   {
     "title": "US Open: Sabalenka to play Anisimova in final after Osaka knocked out",
     "added_at": "2025-09-05T05:38:22.065Z"
+  },
+  {
+    "title": "Barely a dry eye in Argentina as Messi signs off with a World Cup double",
+    "added_at": "2025-09-05T06:25:48.695Z"
+  },
+  {
+    "title": "‘Erasing neighbourhoods’: Israel kills 19 as attacks flatten Gaza City",
+    "added_at": "2025-09-05T06:27:54.879Z"
+  },
+  {
+    "title": "US Department of Defense to be renamed ‘Department of War’: Report",
+    "added_at": "2025-09-05T06:38:42.584Z"
   }
 ]
