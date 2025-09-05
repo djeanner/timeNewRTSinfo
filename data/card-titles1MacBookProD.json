@@ -13109,7 +13109,10 @@
   },
   {
     "title": "De nouvelles révélations dans l’affaire Vipret",
-    "added_at": "2025-09-01T09:39:42.779Z"
+    "added_at": "2025-09-01T09:39:42.779Z",
+    "removed_at": "2025-09-05T17:33:18.105Z",
+    "duration_minutes": 6233,
+    "duration_str": "4d 7h 53m"
   },
   {
     "title": "Il y a 60 ans, 88 personnes sont mortes sur le chantier du barrage de Mattmark",
@@ -14401,15 +14404,24 @@
   },
   {
     "title": "Le Conseil fédéral ne veut pas doubler le prix de la vignette autoroutière",
-    "added_at": "2025-09-04T11:26:55.506Z"
+    "added_at": "2025-09-04T11:26:55.506Z",
+    "removed_at": "2025-09-05T17:20:23.352Z",
+    "duration_minutes": 1793,
+    "duration_str": "1d 5h 53m"
   },
   {
     "title": "Le centre antipoison ToxInfo doit subsister, estime le Conseil fédéral",
-    "added_at": "2025-09-04T11:35:42.736Z"
+    "added_at": "2025-09-04T11:35:42.736Z",
+    "removed_at": "2025-09-05T16:45:48.701Z",
+    "duration_minutes": 1750,
+    "duration_str": "1d 5h 10m"
   },
   {
     "title": "Le Grand Prix suisse des arts de la scène récompense le danseur soleurois Thomas Hauert",
-    "added_at": "2025-09-04T11:57:09.347Z"
+    "added_at": "2025-09-04T11:57:09.347Z",
+    "removed_at": "2025-09-05T16:43:38.780Z",
+    "duration_minutes": 1726,
+    "duration_str": "1d 4h 46m"
   },
   {
     "title": "Lia Wälti quitte Arsenal pour la Juventus",
@@ -14631,10 +14643,7 @@
   },
   {
     "title": "Couleurs locales signé",
-    "added_at": "2025-09-05T05:49:05.262Z",
-    "removed_at": "2025-09-05T08:00:36.310Z",
-    "duration_minutes": 131,
-    "duration_str": "2h 11m"
+    "added_at": "2025-09-05T05:49:05.262Z"
   },
   {
     "title": "Lancement d'une prospection géothermique dans le Nord vaudois",
@@ -14795,5 +14804,17 @@
   {
     "title": "L'UE sanctionne Google d'une amende de presque 3 milliards d'euros",
     "added_at": "2025-09-05T16:37:00.669Z"
+  },
+  {
+    "title": "Un policier de l'Ouest lausannois impliqué dans l'affaire des groupes WhatsApp racistes",
+    "added_at": "2025-09-05T16:43:38.780Z"
+  },
+  {
+    "title": "La faillite des bains d'Ovronnaz a été annulée",
+    "added_at": "2025-09-05T16:45:48.701Z"
+  },
+  {
+    "title": "Le jeune Suisse kidnappé en France raconte avoir vécu l'horreur durant sa séquestration",
+    "added_at": "2025-09-05T17:20:23.352Z"
   }
 ]
