@@ -13785,7 +13785,10 @@
   },
   {
     "title": "Implenia a coulé le mauvais béton sur le chantier de la Barboleuse",
-    "added_at": "2025-09-02T17:00:08.167Z"
+    "added_at": "2025-09-02T17:00:08.167Z",
+    "removed_at": "2025-09-06T10:24:10.668Z",
+    "duration_minutes": 5364,
+    "duration_str": "3d 17h 24m"
   },
   {
     "title": "Faut-il séparer les filles et les garçons à l’école pour soutenir les filles? Débat entre Marie Duru-Bellat et Cléolia Sabot",
@@ -14413,7 +14416,10 @@
   },
   {
     "title": "Consternation à Lisbonne après le déraillement du funiculaire \"La Gloria\"",
-    "added_at": "2025-09-04T10:24:27.169Z"
+    "added_at": "2025-09-04T10:24:27.169Z",
+    "removed_at": "2025-09-06T11:02:55.697Z",
+    "duration_minutes": 2918,
+    "duration_str": "2d 38m"
   },
   {
     "title": "Lia Wälti quitte Arsenal",
@@ -14823,10 +14829,7 @@
   },
   {
     "title": "Faut-il supprimer l’impôt sur la valeur locative? Débat entre Pauline Blanc, Manfred Bühler, Jessica Jacoud et Benjamin Roduit",
-    "added_at": "2025-09-05T13:24:39.693Z",
-    "removed_at": "2025-09-06T01:25:35.290Z",
-    "duration_minutes": 720,
-    "duration_str": "12h"
+    "added_at": "2025-09-05T13:24:39.693Z"
   },
   {
     "title": "\"Adieu Jean-Pat\", comédie tendre et décalée sur le deuil et les doutes existentiels",
@@ -14953,7 +14956,10 @@
   },
   {
     "title": "Hommage à Louise Boula, une alpiniste du 20e siècle hors du commun",
-    "added_at": "2025-09-05T21:02:43.785Z"
+    "added_at": "2025-09-05T21:02:43.785Z",
+    "removed_at": "2025-09-06T10:24:10.668Z",
+    "duration_minutes": 801,
+    "duration_str": "13h 21m"
   },
   {
     "title": "A Lisbonne, le câble du funiculaire de Gloria est au centre de l'attention",
@@ -15044,5 +15050,13 @@
   {
     "title": "Le lion de la place Saint-Marc à Venise serait-il \"made in China\"?",
     "added_at": "2025-09-06T09:19:28.365Z"
+  },
+  {
+    "title": "Les paysans",
+    "added_at": "2025-09-06T10:24:10.668Z"
+  },
+  {
+    "title": "La police de l'immigration lance un raid contre une usine de Hyundai et LG aux États-Unis",
+    "added_at": "2025-09-06T10:30:38.472Z"
   }
 ]
