@@ -26408,10 +26408,7 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T21:30:25.517Z",
-    "removed_at": "2025-09-05T21:03:01.451Z",
-    "duration_minutes": 60452,
-    "duration_str": "41d 23h 32m"
+    "added_at": "2025-07-25T21:30:25.517Z"
   },
   {
     "title": "La légende du catch Hulk Hogan est décédée à l'âge de 71 ans",
@@ -37745,7 +37742,10 @@
   },
   {
     "title": "Il y a 60 ans, 88 personnes sont mortes sur le chantier du barrage de Mattmark",
-    "added_at": "2025-09-01T09:36:23.923Z"
+    "added_at": "2025-09-01T09:36:23.923Z",
+    "removed_at": "2025-09-06T17:33:28.310Z",
+    "duration_minutes": 7677,
+    "duration_str": "5d 7h 57m"
   },
   {
     "title": "Un sommet en Chine rassemble plusieurs grandes puissances dont la Russie",
@@ -39098,7 +39098,10 @@
   },
   {
     "title": "Un loup hybride, croisement entre un loup et un chien, identifié au Tessin",
-    "added_at": "2025-09-04T12:30:38.204Z"
+    "added_at": "2025-09-04T12:30:38.204Z",
+    "removed_at": "2025-09-06T19:03:49.040Z",
+    "duration_minutes": 3273,
+    "duration_str": "2d 6h 33m"
   },
   {
     "title": "La Suisse et la France signent un accord sur la gestion des eaux du Rhône et du Léman",
@@ -39341,7 +39344,10 @@
   },
   {
     "title": "La “coalition des volontaires\", 26 pays réunis à Paris pour donner des garanties de sécurité à l’Ukraine, a défini un plan d’action",
-    "added_at": "2025-09-04T22:24:44.404Z"
+    "added_at": "2025-09-04T22:24:44.404Z",
+    "removed_at": "2025-09-06T17:03:24.564Z",
+    "duration_minutes": 2558,
+    "duration_str": "1d 18h 38m"
   },
   {
     "title": "Comment fonctionne Twint ?",
@@ -39363,7 +39369,10 @@
   },
   {
     "title": "De quelle manière l'immigration influence-t-elle le marché immobilier et locatif suisse?",
-    "added_at": "2025-09-05T04:18:44.461Z"
+    "added_at": "2025-09-05T04:18:44.461Z",
+    "removed_at": "2025-09-06T18:43:07.468Z",
+    "duration_minutes": 2304,
+    "duration_str": "1d 14h 24m"
   },
   {
     "title": "La crise dans le renseignement suisse se prolonge",
@@ -39382,7 +39391,10 @@
   },
   {
     "title": "Lancement d'une prospection géothermique dans le Nord vaudois",
-    "added_at": "2025-09-05T06:06:05.175Z"
+    "added_at": "2025-09-05T06:06:05.175Z",
+    "removed_at": "2025-09-06T18:05:30.633Z",
+    "duration_minutes": 2159,
+    "duration_str": "1d 11h 59m"
   },
   {
     "title": "La Suisse entame la route qui doit la conduire à la Coupe du monde",
@@ -39459,7 +39471,10 @@
   },
   {
     "title": "Le PLR rejette la candidature de Nicolas Rimoldi, leader de \"Mass-Voll\"",
-    "added_at": "2025-09-05T10:28:00.927Z"
+    "added_at": "2025-09-05T10:28:00.927Z",
+    "removed_at": "2025-09-06T18:18:38.079Z",
+    "duration_minutes": 1910,
+    "duration_str": "1d 7h 50m"
   },
   {
     "title": "Le canton de Fribourg adopte une nouvelle loi pour renforcer la formation en soins infirmiers",
@@ -39502,10 +39517,7 @@
   },
   {
     "title": "Faut-il supprimer l’impôt sur la valeur locative? Débat entre Pauline Blanc, Manfred Bühler, Jessica Jacoud et Benjamin Roduit",
-    "added_at": "2025-09-05T13:25:06.283Z",
-    "removed_at": "2025-09-06T13:22:49.794Z",
-    "duration_minutes": 1437,
-    "duration_str": "23h 57m"
+    "added_at": "2025-09-05T13:25:06.283Z"
   },
   {
     "title": "La France, nouvelle Italie de la zone euro?",
@@ -39629,9 +39641,9 @@
   {
     "title": "Hommage à Louise Boula, une alpiniste du 20e siècle hors du commun",
     "added_at": "2025-09-05T21:03:01.451Z",
-    "removed_at": "2025-09-06T10:23:47.227Z",
-    "duration_minutes": 800,
-    "duration_str": "13h 20m"
+    "removed_at": "2025-09-06T19:03:49.040Z",
+    "duration_minutes": 1320,
+    "duration_str": "22h"
   },
   {
     "title": "A Lisbonne, le câble du funiculaire de Gloria est au centre de l'attention",
@@ -39782,5 +39794,17 @@
   {
     "title": "Près de 90 services postaux mondiaux suspendent leurs envois vers les États-Unis",
     "added_at": "2025-09-06T15:27:12.986Z"
+  },
+  {
+    "title": "La livraison des F-35A dans les temps, selon Armasuisse",
+    "added_at": "2025-09-06T18:05:30.633Z"
+  },
+  {
+    "title": "La Commission des finances refuse la demande de crédit supplémentaire pour la gratuité des TPG",
+    "added_at": "2025-09-06T18:18:38.079Z"
+  },
+  {
+    "title": "Près de 2000 personnes ont manifesté à Lausanne en soutien à Gaza",
+    "added_at": "2025-09-06T18:43:07.468Z"
   }
 ]
