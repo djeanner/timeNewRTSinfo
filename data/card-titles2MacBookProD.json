@@ -31441,7 +31441,10 @@
   },
   {
     "title": "suisse:::A Genève, la gratuité des transports publics provoque des psychodrames politiques à répétition",
-    "added_at": "2025-09-05T14:10:17.077Z"
+    "added_at": "2025-09-05T14:10:17.077Z",
+    "removed_at": "2025-09-06T18:18:59.707Z",
+    "duration_minutes": 1688,
+    "duration_str": "1d 4h 8m"
   },
   {
     "title": "suisse:::Guy Parmelin se rend à Washington avec une nouvelle offre",
@@ -31529,7 +31532,10 @@
   },
   {
     "title": "suisse:::Les régions de montagne unies contre la suppression de la valeur locative",
-    "added_at": "2025-09-05T17:48:29.276Z"
+    "added_at": "2025-09-05T17:48:29.276Z",
+    "removed_at": "2025-09-06T18:18:59.707Z",
+    "duration_minutes": 1470,
+    "duration_str": "1d 30m"
   },
   {
     "title": "culture:::Design helvétique nouvelle génération: Micasa s’allie aux étudiants de l’ECAL",
@@ -31605,7 +31611,10 @@
   },
   {
     "title": "sport:::Alexandre Balmer: «Le VTT est la meilleure école de la route»",
-    "added_at": "2025-09-06T06:31:20.120Z"
+    "added_at": "2025-09-06T06:31:20.120Z",
+    "removed_at": "2025-09-06T18:18:59.707Z",
+    "duration_minutes": 707,
+    "duration_str": "11h 47m"
   },
   {
     "title": "sport:::Novak Djokovic, une fin de règne par petites touches",
@@ -31653,7 +31662,10 @@
   },
   {
     "title": "suisse:::La livraison des F-35A se fera dans les temps, avance Armasuisse",
-    "added_at": "2025-09-06T14:06:15.016Z"
+    "added_at": "2025-09-06T14:06:15.016Z",
+    "removed_at": "2025-09-06T18:44:46.645Z",
+    "duration_minutes": 278,
+    "duration_str": "4h 38m"
   },
   {
     "title": "culture:::Chez soi un film sur plateforme: «Project Silence», le chien est le pire ami de l’homme",
@@ -31664,10 +31676,7 @@
   },
   {
     "title": "sport:::Pluie diluvienne, boue torrentielle et pente abrupte: à l’assaut de la mythique descente VTT de Champéry",
-    "added_at": "2025-09-06T16:28:22.277Z",
-    "removed_at": "2025-09-06T17:09:32.803Z",
-    "duration_minutes": 41,
-    "duration_str": "41m"
+    "added_at": "2025-09-06T16:28:22.277Z"
   },
   {
     "title": "culture:::Un film sur plateforme: «Project Silence», le chien est le pire ami de l’homme",
@@ -31676,5 +31685,17 @@
   {
     "title": "sciences:::Bientôt des exportations de CO2 suisse? La Confédération signe des accords en ce sens dans le cadre de sa stratégie climatique",
     "added_at": "2025-09-06T17:09:32.803Z"
+  },
+  {
+    "title": "culture:::Au Liban, une danse macabre sans fin",
+    "added_at": "2025-09-06T18:18:59.707Z"
+  },
+  {
+    "title": "culture:::Ça tourne à Marseille, mon gâté!",
+    "added_at": "2025-09-06T18:44:46.645Z"
+  },
+  {
+    "title": "economie:::Le coup de Marteau & Co pour soutenir le marché des horlogers indépendants",
+    "added_at": "2025-09-06T18:44:46.645Z"
   }
 ]
