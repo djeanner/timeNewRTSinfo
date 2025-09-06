@@ -229,8 +229,9 @@
   {
     "title": "L'accident du funiculaire à Lisbonne a suivi \"la déconnexion du câble entre les deux cabines\"",
     "added_at": "2025-09-06T19:55:58.793Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-06T21:06:59.960Z",
+    "duration_minutes": 71,
+    "duration_str": "1h 11m"
   },
   {
     "title": "Les patriotes russes",
@@ -254,6 +255,18 @@
   {
     "title": "Une voiture a traversé une manifestation propalestinienne à Lausanne, sans faire de blessé",
     "added_at": "2025-09-06T20:08:51.956Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Succès surprise de \"Father Mother Sister Brother\", Lion d'or à Venise",
+    "added_at": "2025-09-06T20:58:23.027Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "L'accident du funiculaire à Lisbonne est dû à \"la déconnexion du câble entre les deux cabines\"",
+    "added_at": "2025-09-06T21:06:59.960Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
