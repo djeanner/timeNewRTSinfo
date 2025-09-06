@@ -3735,10 +3735,7 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T19:02:44.375Z",
-    "removed_at": "2025-09-05T21:02:43.785Z",
-    "duration_minutes": 60599,
-    "duration_str": "42d 1h 59m"
+    "added_at": "2025-07-25T19:02:44.375Z"
   },
   {
     "title": "En Israël, la population sensible au sort des Gazaouis refuse d'en rendre son armée responsable",
@@ -14468,7 +14465,10 @@
   },
   {
     "title": "Un loup hybride, croisement entre un loup et un chien, identifié au Tessin",
-    "added_at": "2025-09-04T12:31:42.195Z"
+    "added_at": "2025-09-04T12:31:42.195Z",
+    "removed_at": "2025-09-06T19:04:14.465Z",
+    "duration_minutes": 3272,
+    "duration_str": "2d 6h 32m"
   },
   {
     "title": "La Suisse et la France signent un accord sur la gestion des eaux du Rhône et du Léman",
@@ -15007,7 +15007,10 @@
   },
   {
     "title": "Hommage à Louise Boula, une alpiniste du 20e siècle hors du commun",
-    "added_at": "2025-09-05T21:02:43.785Z"
+    "added_at": "2025-09-05T21:02:43.785Z",
+    "removed_at": "2025-09-06T19:45:08.977Z",
+    "duration_minutes": 1362,
+    "duration_str": "22h 42m"
   },
   {
     "title": "A Lisbonne, le câble du funiculaire de Gloria est au centre de l'attention",
@@ -15169,6 +15172,13 @@
   },
   {
     "title": "Près de 2000 personnes ont manifesté à Lausanne en soutien à Gaza",
-    "added_at": "2025-09-06T18:42:37.324Z"
+    "added_at": "2025-09-06T18:42:37.324Z",
+    "removed_at": "2025-09-06T19:45:08.977Z",
+    "duration_minutes": 62,
+    "duration_str": "1h 2m"
+  },
+  {
+    "title": "Près de 2000 personnes ont manifesté à Lausanne en soutien à Gaza, une voiture a traversé la foule",
+    "added_at": "2025-09-06T19:45:08.977Z"
   }
 ]
