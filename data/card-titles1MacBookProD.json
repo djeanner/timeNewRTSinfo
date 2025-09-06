@@ -14308,7 +14308,10 @@
   },
   {
     "title": "Déraillement du funiculaire \"La Gloria\": une tragédie \"sans précédent\" selon le maire de Lisbonne",
-    "added_at": "2025-09-04T07:21:23.946Z"
+    "added_at": "2025-09-04T07:21:23.946Z",
+    "removed_at": "2025-09-06T06:01:06.835Z",
+    "duration_minutes": 2799,
+    "duration_str": "1d 22h 39m"
   },
   {
     "title": "Le village de Blatten en Valais sera reconstruit dans moins de cinq ans, affirme le Conseil d’Etat",
@@ -14507,7 +14510,10 @@
   },
   {
     "title": "L'Union syndicale suisse veut rattraper une décennie de stagnation dans les salaires",
-    "added_at": "2025-09-04T13:19:00.663Z"
+    "added_at": "2025-09-04T13:19:00.663Z",
+    "removed_at": "2025-09-06T05:35:19.698Z",
+    "duration_minutes": 2416,
+    "duration_str": "1d 16h 16m"
   },
   {
     "title": "Le Texas adopte un projet de loi pour limiter l'accès aux pilules abortives",
@@ -14658,10 +14664,7 @@
   },
   {
     "title": "Comment fonctionne Twint ?",
-    "added_at": "2025-09-04T23:02:25.840Z",
-    "removed_at": "2025-09-06T05:13:41.981Z",
-    "duration_minutes": 1811,
-    "duration_str": "1d 6h 11m"
+    "added_at": "2025-09-04T23:02:25.840Z"
   },
   {
     "title": "Washington baisse les droits de douane à 15% sur les automobiles japonaises",
@@ -14959,5 +14962,9 @@
   {
     "title": "Le litige autour des chaussures \"On\" de Roger Federer est porté devant le Tribunal fédéral",
     "added_at": "2025-09-06T05:13:41.981Z"
+  },
+  {
+    "title": "Les drones transforment les conflits et le secteur de la défense",
+    "added_at": "2025-09-06T05:35:19.698Z"
   }
 ]
