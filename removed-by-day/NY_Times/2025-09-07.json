@@ -113,9 +113,8 @@
   {
     "title": "‘If I Live to 25, I’ve Lived a Good Life’",
     "added_at": "2025-09-07T10:07:57.964Z",
-    "removed_at": "2025-09-07T13:48:14.451Z",
-    "duration_minutes": 220,
-    "duration_str": "3h 40m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "As Syria Tries to Move Away From Dictatorship, Authoritarianism Lingers",
@@ -229,8 +228,9 @@
   {
     "title": "Nepal Bans 26 Social Media Platforms, Including Facebook and YouTube",
     "added_at": "2025-09-07T12:34:52.580Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-07T16:47:21.630Z",
+    "duration_minutes": 252,
+    "duration_str": "4h 12m"
   },
   {
     "title": "Rebranded War Department Sends Mixed Signals",
@@ -248,8 +248,9 @@
   {
     "title": "Russia Unleashes Largest Drone Assault of War, Setting Government Building Ablaze",
     "added_at": "2025-09-07T13:03:05.562Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-07T16:40:54.849Z",
+    "duration_minutes": 218,
+    "duration_str": "3h 38m"
   },
   {
     "title": "How College Football Turned Week 2’s Light Slate Into Upset Mania",
@@ -298,6 +299,26 @@
   {
     "title": "Russia Steps Up Disinformation Efforts as Trump Abandons Resistance",
     "added_at": "2025-09-07T16:08:31.230Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Russia Unleashes Larges Drone Assault Yet; Government Building Ablaze",
+    "added_at": "2025-09-07T16:40:54.849Z",
+    "removed_at": "2025-09-07T16:49:31.562Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Russia Unleashes Largest Drone Assault Yet; Government Building Ablaze",
+    "added_at": "2025-09-07T16:49:31.562Z",
+    "removed_at": "2025-09-07T16:51:43.196Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Russia’s Largest Drone Assault of War Sets Government Building Ablaze",
+    "added_at": "2025-09-07T16:51:43.196Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
