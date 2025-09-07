@@ -73839,7 +73839,10 @@
   },
   {
     "title": "Much of the world will experience a total lunar eclipse this weekend. Here’s how to see it",
-    "added_at": "2025-09-06T12:55:04.825Z"
+    "added_at": "2025-09-06T12:55:04.825Z",
+    "removed_at": "2025-09-07T20:59:36.028Z",
+    "duration_minutes": 1924,
+    "duration_str": "1d 8h 4m"
   },
   {
     "title": "The high-stakes operation ended with 475 arrests, most of them Korean nationals. South Korea is dispatching diplomats.",
@@ -74132,7 +74135,10 @@
   },
   {
     "title": "Carlo Acutis, nicknamed ‘God’s influencer’ becomes the first ‘millennial’ saint",
-    "added_at": "2025-09-07T08:33:52.469Z"
+    "added_at": "2025-09-07T08:33:52.469Z",
+    "removed_at": "2025-09-07T20:42:23.956Z",
+    "duration_minutes": 728,
+    "duration_str": "12h 8m"
   },
   {
     "title": "Inside the raid: How a monthslong federal immigration operation led to 475 arrests at a Hyundai plant in Georgia",
@@ -74307,6 +74313,24 @@
   },
   {
     "title": "Alcaraz takes first set in US Open final against Sinner",
-    "added_at": "2025-09-07T19:35:35.284Z"
+    "added_at": "2025-09-07T19:35:35.284Z",
+    "removed_at": "2025-09-07T20:14:26.347Z",
+    "duration_minutes": 38,
+    "duration_str": "38m"
+  },
+  {
+    "title": "Sinner takes second set in US Open Final and ties the match",
+    "added_at": "2025-09-07T20:14:26.347Z",
+    "removed_at": "2025-09-07T20:46:41.293Z",
+    "duration_minutes": 32,
+    "duration_str": "32m"
+  },
+  {
+    "title": "Carlo Acutis, nicknamed ‘God’s influencer’ becomes first ‘millennial’ saint",
+    "added_at": "2025-09-07T20:42:23.956Z"
+  },
+  {
+    "title": "Alcaraz takes the third set against Sinner in US Open finals",
+    "added_at": "2025-09-07T20:46:41.293Z"
   }
 ]
