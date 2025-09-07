@@ -77437,7 +77437,10 @@
   },
   {
     "title": "Much of the world will experience a total lunar eclipse this weekend. Here’s how to see it",
-    "added_at": "2025-09-06T12:54:36.547Z"
+    "added_at": "2025-09-06T12:54:36.547Z",
+    "removed_at": "2025-09-07T20:59:39.836Z",
+    "duration_minutes": 1925,
+    "duration_str": "1d 8h 5m"
   },
   {
     "title": "The high-stakes operation ended with 475 arrests, most of them Korean nationals. South Korea is dispatching diplomats.",
@@ -77723,7 +77726,10 @@
   },
   {
     "title": "Carlo Acutis, nicknamed ‘God’s influencer’ becomes the first ‘millennial’ saint",
-    "added_at": "2025-09-07T08:33:40.476Z"
+    "added_at": "2025-09-07T08:33:40.476Z",
+    "removed_at": "2025-09-07T20:42:44.695Z",
+    "duration_minutes": 729,
+    "duration_str": "12h 9m"
   },
   {
     "title": "Inside the raid: How a monthslong federal immigration operation led to 475 arrests at a Hyundai plant in Georgia",
@@ -77872,7 +77878,10 @@
   },
   {
     "title": "Jannik Sinner and Carlos Alcaraz set for another massive showdown in US Open men’s final",
-    "added_at": "2025-09-07T16:07:41.965Z"
+    "added_at": "2025-09-07T16:07:41.965Z",
+    "removed_at": "2025-09-07T18:57:28.050Z",
+    "duration_minutes": 169,
+    "duration_str": "2h 49m"
   },
   {
     "title": "Workers detained in Georgia ICE raid to be sent back to South Korea. Trump’s border czar says more such raids are coming",
@@ -77881,5 +77890,38 @@
   {
     "title": "Trump signals he’s ready to move to second phase of sanctions against Russia",
     "added_at": "2025-09-07T17:11:49.796Z"
+  },
+  {
+    "title": "US Open men’s final is underway between Sinner and Alcaraz",
+    "added_at": "2025-09-07T18:57:28.050Z",
+    "removed_at": "2025-09-07T19:35:02.652Z",
+    "duration_minutes": 37,
+    "duration_str": "37m"
+  },
+  {
+    "title": "US puts forward new Mideast ceasefire principles that call for immediate release of all hostages, negotiations",
+    "added_at": "2025-09-07T19:08:44.757Z"
+  },
+  {
+    "title": "Alcaraz takes first set in US Open final against Sinner",
+    "added_at": "2025-09-07T19:35:02.652Z",
+    "removed_at": "2025-09-07T20:14:32.827Z",
+    "duration_minutes": 39,
+    "duration_str": "39m"
+  },
+  {
+    "title": "Sinner takes second set in US Open Final and ties the match",
+    "added_at": "2025-09-07T20:14:32.827Z",
+    "removed_at": "2025-09-07T20:46:29.432Z",
+    "duration_minutes": 31,
+    "duration_str": "31m"
+  },
+  {
+    "title": "Carlo Acutis, nicknamed ‘God’s influencer’ becomes first ‘millennial’ saint",
+    "added_at": "2025-09-07T20:42:44.695Z"
+  },
+  {
+    "title": "Alcaraz takes the third set against Sinner in US Open finals",
+    "added_at": "2025-09-07T20:46:29.432Z"
   }
 ]
