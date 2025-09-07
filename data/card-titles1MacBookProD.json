@@ -14975,7 +14975,10 @@
   },
   {
     "title": "L'OMS lève l'urgence sanitaire internationale pour la mpox",
-    "added_at": "2025-09-05T14:57:47.901Z"
+    "added_at": "2025-09-05T14:57:47.901Z",
+    "removed_at": "2025-09-07T11:15:23.637Z",
+    "duration_minutes": 2657,
+    "duration_str": "1d 20h 17m"
   },
   {
     "title": "Le chômage grimpe aux Etats-Unis, la création d'emplois ralentit",
@@ -15385,5 +15388,9 @@
   {
     "title": "Polars et justice: l'erreur judiciaire",
     "added_at": "2025-09-07T09:19:02.157Z"
+  },
+  {
+    "title": "La population serait opposée à une généralisation du 30 km/h dans les agglomérations",
+    "added_at": "2025-09-07T11:15:23.637Z"
   }
 ]
