@@ -14988,7 +14988,10 @@
   },
   {
     "title": "Le chômage grimpe aux Etats-Unis, la création d'emplois ralentit",
-    "added_at": "2025-09-05T15:12:48.228Z"
+    "added_at": "2025-09-05T15:12:48.228Z",
+    "removed_at": "2025-09-07T12:24:23.343Z",
+    "duration_minutes": 2711,
+    "duration_str": "1d 21h 11m"
   },
   {
     "title": "Podcast – Parents-ados: comment se faire confiance?",
@@ -15014,7 +15017,10 @@
   },
   {
     "title": "Un policier de l'Ouest lausannois impliqué dans l'affaire des groupes WhatsApp racistes",
-    "added_at": "2025-09-05T16:43:38.780Z"
+    "added_at": "2025-09-05T16:43:38.780Z",
+    "removed_at": "2025-09-07T12:45:55.415Z",
+    "duration_minutes": 2642,
+    "duration_str": "1d 20h 2m"
   },
   {
     "title": "La faillite des bains d'Ovronnaz a été annulée",
@@ -15051,7 +15057,10 @@
   },
   {
     "title": "Le ministre de l'Economie Guy Parmelin est en visite aux Etats-Unis",
-    "added_at": "2025-09-05T19:21:26.809Z"
+    "added_at": "2025-09-05T19:21:26.809Z",
+    "removed_at": "2025-09-07T13:05:16.809Z",
+    "duration_minutes": 2503,
+    "duration_str": "1d 17h 43m"
   },
   {
     "title": "La Slovénie ordonne l'abattage de 200 ours pour réguler leur population",
@@ -15333,7 +15342,10 @@
   },
   {
     "title": "Plus de 400 personnes arrêtées à Londres pour leur soutien à la Palestine",
-    "added_at": "2025-09-07T04:00:14.430Z"
+    "added_at": "2025-09-07T04:00:14.430Z",
+    "removed_at": "2025-09-07T12:35:07.989Z",
+    "duration_minutes": 514,
+    "duration_str": "8h 34m"
   },
   {
     "title": "Trop puissante pour Amanda Anisimova, Aryna Sabalenka reste la reine de New York",
@@ -15349,10 +15361,7 @@
   },
   {
     "title": "Le canton de Berne va-t-il repousser de deux ans l’enseignement du français à l’école? Débat entre Michael Ritter et Karim Saïd",
-    "added_at": "2025-09-07T06:02:57.201Z",
-    "removed_at": "2025-09-07T07:22:37.599Z",
-    "duration_minutes": 79,
-    "duration_str": "1h 19m"
+    "added_at": "2025-09-07T06:02:57.201Z"
   },
   {
     "title": "Famine à Gaza: l'ONU a-t-elle \"trafiqué\" les chiffres de la malnutrition?",
@@ -15376,7 +15385,10 @@
   },
   {
     "title": "Le siège du gouvernement ukrainien en feu après une attaque russe massive",
-    "added_at": "2025-09-07T07:46:22.357Z"
+    "added_at": "2025-09-07T07:46:22.357Z",
+    "removed_at": "2025-09-07T12:41:34.097Z",
+    "duration_minutes": 295,
+    "duration_str": "4h 55m"
   },
   {
     "title": "Les cloches se mettent en sourdine à Lucerne",
@@ -15409,5 +15421,21 @@
   {
     "title": "Un avocat nommé Mark Zuckerberg poursuit Meta en justice",
     "added_at": "2025-09-07T11:39:07.178Z"
+  },
+  {
+    "title": "Toujours drôle et décalée, la série \"Poker Face\" fait un retour réussi",
+    "added_at": "2025-09-07T12:24:23.343Z"
+  },
+  {
+    "title": "Près de 900 personnes arrêtées à Londres lors d'une manifestation de soutien à la Palestine",
+    "added_at": "2025-09-07T12:35:07.989Z"
+  },
+  {
+    "title": "Le siège du gouvernement ukrainien endommagé après une attaque russe massive",
+    "added_at": "2025-09-07T12:41:34.097Z"
+  },
+  {
+    "title": "Fausses annonces immobilières: les pièges à éviter pour se loger",
+    "added_at": "2025-09-07T12:45:55.415Z"
   }
 ]
