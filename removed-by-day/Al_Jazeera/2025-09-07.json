@@ -241,15 +241,16 @@
   {
     "title": "LIVE: Carlos Alcaraz vs Jannik Sinner – US Open final 2025",
     "added_at": "2025-09-07T16:32:17.737Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-07T22:47:25.709Z",
+    "duration_minutes": 375,
+    "duration_str": "6h 15m"
   },
   {
     "title": "Israel flattens another Gaza City high-rise, displacing dozens",
     "added_at": "2025-09-07T16:51:07.233Z",
-    "removed_at": "2025-09-07T21:01:52.797Z",
-    "duration_minutes": 251,
-    "duration_str": "4h 11m"
+    "removed_at": "2025-09-07T21:01:35.456Z",
+    "duration_minutes": 250,
+    "duration_str": "4h 10m"
   },
   {
     "title": "Yemen’s Houthis claim responsibility for drone attack on Israeli airport",
@@ -273,7 +274,7 @@
   {
     "title": "LIVE: Turkiye vs Spain – World Cup 2026 qualifier",
     "added_at": "2025-09-07T18:19:35.399Z",
-    "removed_at": "2025-09-07T20:51:02.956Z",
+    "removed_at": "2025-09-07T20:50:18.930Z",
     "duration_minutes": 151,
     "duration_str": "2h 31m"
   },
@@ -297,14 +298,27 @@
   },
   {
     "title": "Merino grabs a hat-trick as Spain thrash Turkiye 6-0 in World Cup qualifier",
-    "added_at": "2025-09-07T20:51:02.956Z",
+    "added_at": "2025-09-07T20:50:18.930Z",
     "removed_at": "2025-09-07T21:25:30.822Z",
-    "duration_minutes": 34,
-    "duration_str": "34m"
+    "duration_minutes": 35,
+    "duration_str": "35m"
   },
   {
     "title": "Hamas ‘welcomes’ latest US ceasefire proposal as Israel pounds Gaza City",
-    "added_at": "2025-09-07T21:01:52.797Z",
+    "added_at": "2025-09-07T21:01:35.456Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Alcaraz dethrones Sinner to win US Open in latest Grand Slam duel",
+    "added_at": "2025-09-07T22:47:25.709Z",
+    "removed_at": "2025-09-07T22:51:40.626Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Alcaraz dethrones Sinner to win US Open in four sets",
+    "added_at": "2025-09-07T22:51:40.626Z",
     "duration_minutes": 0,
     "duration_str": ""
   }

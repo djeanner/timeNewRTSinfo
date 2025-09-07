@@ -240,8 +240,9 @@
   {
     "title": "A day in the life of a grand slam finalist",
     "added_at": "2025-09-07T11:23:15.059Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-07T22:32:20.356Z",
+    "duration_minutes": 669,
+    "duration_str": "11h 9m"
   },
   {
     "title": "Davey Johnson, World Series winning Mets manager, dead at 82",
@@ -320,9 +321,9 @@
   {
     "title": "Jannik Sinner and Carlos Alcaraz set for another massive showdown in US Open men’s final",
     "added_at": "2025-09-07T16:07:41.965Z",
-    "removed_at": "2025-09-07T18:58:52.207Z",
-    "duration_minutes": 171,
-    "duration_str": "2h 51m"
+    "removed_at": "2025-09-07T18:57:28.050Z",
+    "duration_minutes": 170,
+    "duration_str": "2h 50m"
   },
   {
     "title": "Workers detained in Georgia ICE raid to be sent back to South Korea. Trump’s border czar says more such raids are coming",
@@ -338,10 +339,10 @@
   },
   {
     "title": "US Open men’s final is underway between Sinner and Alcaraz",
-    "added_at": "2025-09-07T18:58:52.207Z",
-    "removed_at": "2025-09-07T19:35:35.284Z",
-    "duration_minutes": 37,
-    "duration_str": "37m"
+    "added_at": "2025-09-07T18:57:28.050Z",
+    "removed_at": "2025-09-07T19:35:02.652Z",
+    "duration_minutes": 38,
+    "duration_str": "38m"
   },
   {
     "title": "US puts forward new Mideast ceasefire principles that call for immediate release of all hostages, negotiations",
@@ -351,7 +352,7 @@
   },
   {
     "title": "Alcaraz takes first set in US Open final against Sinner",
-    "added_at": "2025-09-07T19:35:35.284Z",
+    "added_at": "2025-09-07T19:35:02.652Z",
     "removed_at": "2025-09-07T20:14:26.347Z",
     "duration_minutes": 39,
     "duration_str": "39m"
@@ -359,7 +360,7 @@
   {
     "title": "Sinner takes second set in US Open Final and ties the match",
     "added_at": "2025-09-07T20:14:26.347Z",
-    "removed_at": "2025-09-07T20:46:41.293Z",
+    "removed_at": "2025-09-07T20:46:29.432Z",
     "duration_minutes": 32,
     "duration_str": "32m"
   },
@@ -371,7 +372,7 @@
   },
   {
     "title": "Alcaraz takes the third set against Sinner in US Open finals",
-    "added_at": "2025-09-07T20:46:41.293Z",
+    "added_at": "2025-09-07T20:46:29.432Z",
     "removed_at": "2025-09-07T21:36:19.573Z",
     "duration_minutes": 50,
     "duration_str": "50m"
@@ -397,6 +398,19 @@
   {
     "title": "Carlos Alcaraz wins his second US Open",
     "added_at": "2025-09-07T21:36:19.573Z",
+    "removed_at": "2025-09-07T22:00:05.875Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "Alcaraz wins US Open in a thrilling, seesaw match against Sinner",
+    "added_at": "2025-09-07T22:00:05.875Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Aaron Rodgers, with 4 TD passes, looks right at home vs. Jets in Steelers’ debut win",
+    "added_at": "2025-09-07T22:32:20.356Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
