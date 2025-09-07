@@ -26153,10 +26153,7 @@
   },
   {
     "title": "suisse:::Découvrez «Le Temps» avec tous nos abonnements annuels à –30% et bénéficiez d’une information fiable et indépendante",
-    "added_at": "2025-08-14T09:49:35.942Z",
-    "removed_at": "2025-09-06T15:10:52.635Z",
-    "duration_minutes": 33441,
-    "duration_str": "23d 5h 21m"
+    "added_at": "2025-08-14T09:49:35.942Z"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Le Kremlin donne des détails sur le sommet Trump-Poutine en Alaska",
@@ -31692,7 +31689,10 @@
   },
   {
     "title": "culture:::Un film sur plateforme: «Project Silence», le chien est le pire ami de l’homme",
-    "added_at": "2025-09-06T16:34:53.556Z"
+    "added_at": "2025-09-06T16:34:53.556Z",
+    "removed_at": "2025-09-07T07:55:00.429Z",
+    "duration_minutes": 920,
+    "duration_str": "15h 20m"
   },
   {
     "title": "sciences:::Bientôt des exportations de CO2 suisse? La Confédération signe des accords en ce sens dans le cadre de sa stratégie climatique",
@@ -31704,7 +31704,10 @@
   },
   {
     "title": "culture:::Ça tourne à Marseille, mon gâté!",
-    "added_at": "2025-09-06T18:44:46.645Z"
+    "added_at": "2025-09-06T18:44:46.645Z",
+    "removed_at": "2025-09-07T08:10:01.231Z",
+    "duration_minutes": 805,
+    "duration_str": "13h 25m"
   },
   {
     "title": "economie:::Le coup de Marteau & Co pour soutenir le marché des horlogers indépendants",
@@ -31720,7 +31723,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Au moins deux morts dans des bombardements russes",
-    "added_at": "2025-09-07T05:24:11.889Z"
+    "added_at": "2025-09-07T05:24:11.889Z",
+    "removed_at": "2025-09-07T07:29:12.668Z",
+    "duration_minutes": 125,
+    "duration_str": "2h 5m"
   },
   {
     "title": "monde:::En Hongrie, une ville fermée aux «indésirables»",
@@ -31729,5 +31735,9 @@
   {
     "title": "suisse:::Au gymnase vaudois, 40 000 périodes de cours annuelles ne sont pas remplacées. Un député s’indigne",
     "added_at": "2025-09-07T07:16:10.814Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Des bombardements russes sur Kiev touchent le siège du gouvernement",
+    "added_at": "2025-09-07T07:29:12.668Z"
   }
 ]
