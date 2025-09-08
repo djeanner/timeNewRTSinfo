@@ -15303,7 +15303,10 @@
   },
   {
     "title": "Le Kronos Quartet, Estelle Revaz et Nik Bärtsch aux Battements de l'Abbatiale",
-    "added_at": "2025-09-06T13:01:39.997Z"
+    "added_at": "2025-09-06T13:01:39.997Z",
+    "removed_at": "2025-09-08T11:06:27.665Z",
+    "duration_minutes": 2764,
+    "duration_str": "1d 22h 4m"
   },
   {
     "title": "La catastrophe du funiculaire à Lisbonne pourrait-elle être liée au surtourisme? Interview de Sylvain Caillaud",
@@ -15729,7 +15732,10 @@
   },
   {
     "title": "Une fusillade à Jérusalem-Est cause la mort de cinq personnes",
-    "added_at": "2025-09-08T10:16:48.762Z"
+    "added_at": "2025-09-08T10:16:48.762Z",
+    "removed_at": "2025-09-08T10:47:04.305Z",
+    "duration_minutes": 30,
+    "duration_str": "30m"
   },
   {
     "title": "\"Le moment est venu de faire des choix politiques très forts\" sur la guerre en Ukraine",
@@ -15737,6 +15743,28 @@
   },
   {
     "title": "Début du procès hors norme d'un médecin anesthésiste soupçonné d'empoisonnements",
-    "added_at": "2025-09-08T10:34:01.609Z"
+    "added_at": "2025-09-08T10:34:01.609Z",
+    "removed_at": "2025-09-08T10:40:36.918Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
+  },
+  {
+    "title": "Début en France du procès d'un médecin anesthésiste soupçonné de 30 empoisonnements",
+    "added_at": "2025-09-08T10:40:36.918Z",
+    "removed_at": "2025-09-08T10:42:46.475Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Le procès d'un médecin anesthésiste soupçonné de 30 empoisonnements s'est ouvert en France",
+    "added_at": "2025-09-08T10:42:46.475Z"
+  },
+  {
+    "title": "Cinq morts dans une attaque à l'arme à feu à Jérusalem-Est",
+    "added_at": "2025-09-08T10:47:04.305Z"
+  },
+  {
+    "title": "Les demandes d'asile ont chuté en Europe pendant la première moitié de 2025",
+    "added_at": "2025-09-08T11:06:27.665Z"
   }
 ]
