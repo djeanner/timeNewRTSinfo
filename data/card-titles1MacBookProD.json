@@ -10823,7 +10823,10 @@
   },
   {
     "title": "Baromètre des élections fédérales 2027: participez à notre sondage",
-    "added_at": "2025-08-27T09:09:37.089Z"
+    "added_at": "2025-08-27T09:09:37.089Z",
+    "removed_at": "2025-09-08T04:25:31.176Z",
+    "duration_minutes": 16995,
+    "duration_str": "11d 19h 15m"
   },
   {
     "title": "Depuis quarante ans, la troupe de théâtre de la Compagnie du Clédar fait vibrer l'été",
@@ -15120,7 +15123,10 @@
   },
   {
     "title": "La Suisse en démonstration",
-    "added_at": "2025-09-05T20:58:25.865Z"
+    "added_at": "2025-09-05T20:58:25.865Z",
+    "removed_at": "2025-09-08T04:23:25.340Z",
+    "duration_minutes": 3324,
+    "duration_str": "2d 7h 24m"
   },
   {
     "title": "Hommage à Louise Boula, une alpiniste du 20e siècle hors du commun",
@@ -15605,5 +15611,9 @@
   {
     "title": "Avant la fin du procès de Jair Bolsonaro, des milliers de ses partisans ont manifesté au Brésil",
     "added_at": "2025-09-08T02:44:14.081Z"
+  },
+  {
+    "title": "Carlos Alcaraz fait coup double à New York. Il enlève l'US Open et reprend le trône mondial",
+    "added_at": "2025-09-08T04:23:25.340Z"
   }
 ]
