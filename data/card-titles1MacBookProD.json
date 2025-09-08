@@ -15205,7 +15205,10 @@
   },
   {
     "title": "Tesla promet 1000 milliards de dollars à Elon Musk, mais la route est longue pour les toucher",
-    "added_at": "2025-09-06T06:52:47.782Z"
+    "added_at": "2025-09-06T06:52:47.782Z",
+    "removed_at": "2025-09-08T09:48:48.388Z",
+    "duration_minutes": 3056,
+    "duration_str": "2d 2h 56m"
   },
   {
     "title": "Allocution de Elisabeth Baume-Schneider, Conseillère fédérale",
@@ -15241,7 +15244,10 @@
   },
   {
     "title": "Israël ordonne l'évacuation massive de Gaza-ville vers une \"zone humanitaire\"",
-    "added_at": "2025-09-06T08:21:10.347Z"
+    "added_at": "2025-09-06T08:21:10.347Z",
+    "removed_at": "2025-09-08T10:06:05.815Z",
+    "duration_minutes": 2984,
+    "duration_str": "2d 1h 44m"
   },
   {
     "title": "Comment l'industrie alimentaire cible la génération Z avec des produits sucrés",
@@ -15256,7 +15262,10 @@
   },
   {
     "title": "Le lion de la place Saint-Marc à Venise serait-il \"made in China\"?",
-    "added_at": "2025-09-06T09:19:28.365Z"
+    "added_at": "2025-09-06T09:19:28.365Z",
+    "removed_at": "2025-09-08T10:16:48.762Z",
+    "duration_minutes": 2937,
+    "duration_str": "2d 57m"
   },
   {
     "title": "Les paysans",
@@ -15272,11 +15281,17 @@
   },
   {
     "title": "Mobilisation pour relancer le projet ferroviaire de la ligne du Tonkin entre Saint-Gingolph et Evian",
-    "added_at": "2025-09-06T11:31:02.254Z"
+    "added_at": "2025-09-06T11:31:02.254Z",
+    "removed_at": "2025-09-08T10:25:28.207Z",
+    "duration_minutes": 2814,
+    "duration_str": "1d 22h 54m"
   },
   {
     "title": "Milan se recueille devant le cercueil de Giorgio Armani, roi de la mode",
-    "added_at": "2025-09-06T11:43:56.606Z"
+    "added_at": "2025-09-06T11:43:56.606Z",
+    "removed_at": "2025-09-08T10:34:01.609Z",
+    "duration_minutes": 2810,
+    "duration_str": "1d 22h 50m"
   },
   {
     "title": "Les fonds souverains s'affirment comme des outils puissants de stabilité et d'influence",
@@ -15660,9 +15675,9 @@
   {
     "title": "Un livre sur la transformation du stade de la Gurzelen à Bienne: interview de Roman Luterbacher",
     "added_at": "2025-09-08T07:17:57.568Z",
-    "removed_at": "2025-09-08T09:24:59.759Z",
-    "duration_minutes": 127,
-    "duration_str": "2h 7m"
+    "removed_at": "2025-09-08T09:53:10.543Z",
+    "duration_minutes": 155,
+    "duration_str": "2h 35m"
   },
   {
     "title": "Le parc immobilier genevois doit-il comprendre 10% de coopératives? Débat entre Caroline Marti et Adrien Genecand",
@@ -15703,5 +15718,25 @@
     "removed_at": "2025-09-08T09:24:59.759Z",
     "duration_minutes": 4,
     "duration_str": "4m"
+  },
+  {
+    "title": "Il y a 30 ans, la \"Bête du val Ferret\" lançait le débat du retour du loup",
+    "added_at": "2025-09-08T09:48:48.388Z"
+  },
+  {
+    "title": "La chanteuse américaine Ariana Grande récompensée aux MTV Video Music Awards",
+    "added_at": "2025-09-08T10:06:05.815Z"
+  },
+  {
+    "title": "Une fusillade à Jérusalem-Est cause la mort de cinq personnes",
+    "added_at": "2025-09-08T10:16:48.762Z"
+  },
+  {
+    "title": "\"Le moment est venu de faire des choix politiques très forts\" sur la guerre en Ukraine",
+    "added_at": "2025-09-08T10:25:28.207Z"
+  },
+  {
+    "title": "Début du procès hors norme d'un médecin anesthésiste soupçonné d'empoisonnements",
+    "added_at": "2025-09-08T10:34:01.609Z"
   }
 ]
