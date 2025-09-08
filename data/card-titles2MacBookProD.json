@@ -32030,7 +32030,10 @@
   },
   {
     "title": "sport:::Sinner-Alcaraz, tous derrière et eux devant",
-    "added_at": "2025-09-08T07:46:00.155Z"
+    "added_at": "2025-09-08T07:46:00.155Z",
+    "removed_at": "2025-09-08T14:27:11.231Z",
+    "duration_minutes": 401,
+    "duration_str": "6h 41m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Quatre personnes tuées dans l'attaque d'un bus à Jérusalem",
@@ -32060,7 +32063,10 @@
   },
   {
     "title": "suisse:::Marquage sauvage d’une piste cyclable: le Tribunal fédéral se penchera sur la méga-enquête du procureur genevois",
-    "added_at": "2025-09-08T10:36:19.163Z"
+    "added_at": "2025-09-08T10:36:19.163Z",
+    "removed_at": "2025-09-08T13:59:14.571Z",
+    "duration_minutes": 202,
+    "duration_str": "3h 22m"
   },
   {
     "title": "monde:::Volker Türk fustige la «rhétorique génocidaire» d’Israël à Gaza",
@@ -32084,5 +32090,13 @@
   {
     "title": "culture:::«Scénarios», court métrage posthume de Jean-Luc Godard à voir en exclusivité à Lausanne",
     "added_at": "2025-09-08T12:56:28.967Z"
+  },
+  {
+    "title": "suisse:::Marquage sauvage et activistes du climat: le Tribunal fédéral se penchera sur la méga-enquête du procureur genevois",
+    "added_at": "2025-09-08T13:59:14.571Z"
+  },
+  {
+    "title": "suisse:::La grève de la faim, arme ultime des médecins suisses pour dénoncer le massacre à Gaza",
+    "added_at": "2025-09-08T14:27:11.231Z"
   }
 ]
