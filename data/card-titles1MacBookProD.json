@@ -15491,7 +15491,10 @@
   },
   {
     "title": "Podcast Zoom info: \"Musique, l'arme secrète\"",
-    "added_at": "2025-09-07T05:15:35.542Z"
+    "added_at": "2025-09-07T05:15:35.542Z",
+    "removed_at": "2025-09-08T17:29:12.541Z",
+    "duration_minutes": 2173,
+    "duration_str": "1d 12h 13m"
   },
   {
     "title": "Neutralité et sécurité: la Suisse cible de fausses informations à l'international",
@@ -15949,5 +15952,9 @@
   {
     "title": "Le Premier ministre français François Bayrou renversé par l'Assemblée nationale",
     "added_at": "2025-09-08T17:03:10.699Z"
+  },
+  {
+    "title": "Donald Trump condamné en appel à verser 83 millions pour diffamation",
+    "added_at": "2025-09-08T17:29:12.541Z"
   }
 ]
