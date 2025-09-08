@@ -31893,7 +31893,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Une attaque russe record a frappé l’Ukraine, touchant le siège du gouvernement",
-    "added_at": "2025-09-07T21:51:18.819Z"
+    "added_at": "2025-09-07T21:51:18.819Z",
+    "removed_at": "2025-09-08T01:20:19.087Z",
+    "duration_minutes": 209,
+    "duration_str": "3h 29m"
   },
   {
     "title": "sport:::Alcaraz bat Sinner en finale l’US Open et lui reprend le trône mondial",
@@ -31905,5 +31908,16 @@
     "removed_at": "2025-09-08T00:13:36.032Z",
     "duration_minutes": 6,
     "duration_str": "6m"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Notre suivi de la semaine du 1er septembre",
+    "added_at": "2025-09-08T01:20:19.087Z",
+    "removed_at": "2025-09-08T01:33:12.416Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Après une attaque russe record, le mécontentement de Donald Trump",
+    "added_at": "2025-09-08T01:33:12.416Z"
   }
 ]
