@@ -30730,7 +30730,10 @@
   },
   {
     "title": "sport:::Jan Oblak, la star de la Slovénie est un gardien dans l’ombre",
-    "added_at": "2025-09-07T14:10:58.054Z"
+    "added_at": "2025-09-07T14:10:58.054Z",
+    "removed_at": "2025-09-08T00:15:36.874Z",
+    "duration_minutes": 604,
+    "duration_str": "10h 4m"
   },
   {
     "title": "economie:::Aux Geneva Watch Days, les horlogers entre résignation et plan B",
@@ -30780,7 +30783,10 @@
   },
   {
     "title": "culture:::«Histoires de voix», un vibrant hommage",
-    "added_at": "2025-09-07T21:28:01.200Z"
+    "added_at": "2025-09-07T21:28:01.200Z",
+    "removed_at": "2025-09-08T00:15:36.874Z",
+    "duration_minutes": 167,
+    "duration_str": "2h 47m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Hamas disposé à reprendre «immédiatement» les négociations",
@@ -30788,10 +30794,31 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Une attaque russe record a frappé l’Ukraine, touchant le siège du gouvernement",
-    "added_at": "2025-09-07T21:52:33.608Z"
+    "added_at": "2025-09-07T21:52:33.608Z",
+    "removed_at": "2025-09-08T01:21:28.213Z",
+    "duration_minutes": 208,
+    "duration_str": "3h 28m"
   },
   {
     "title": "sport:::Alcaraz bat Sinner en finale l’US Open et lui reprend le trône mondial",
     "added_at": "2025-09-07T22:15:07.971Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Notre suivi de la semaine du 1er septembre",
+    "added_at": "2025-09-08T00:06:12.626Z",
+    "removed_at": "2025-09-08T00:13:46.937Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Notre suivi de la semaine du 1er septembre",
+    "added_at": "2025-09-08T01:21:28.213Z",
+    "removed_at": "2025-09-08T01:32:45.060Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Après une attaque russe record, le mécontentement de Donald Trump",
+    "added_at": "2025-09-08T01:32:45.060Z"
   }
 ]
