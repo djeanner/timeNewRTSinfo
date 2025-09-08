@@ -37284,7 +37284,10 @@
   },
   {
     "title": "Trump floats new sanctions after Russia’s largest air assault on Ukraine",
-    "added_at": "2025-09-08T02:02:56.744Z"
+    "added_at": "2025-09-08T02:02:56.744Z",
+    "removed_at": "2025-09-08T09:34:41.935Z",
+    "duration_minutes": 451,
+    "duration_str": "7h 31m"
   },
   {
     "title": "Russia pounds Ukraine with largest air attack, hits key government building",
@@ -37350,7 +37353,10 @@
   },
   {
     "title": "Huge crowds rally for Brazil’s Bolsonaro ahead of verdict in coup trial",
-    "added_at": "2025-09-08T05:31:49.379Z"
+    "added_at": "2025-09-08T05:31:49.379Z",
+    "removed_at": "2025-09-08T09:34:41.935Z",
+    "duration_minutes": 242,
+    "duration_str": "4h 2m"
   },
   {
     "title": "Israeli attacks continue across Gaza City, at least 15 killed since dawn",
@@ -37451,14 +37457,17 @@
   },
   {
     "title": "Four killed in East Jerusalem attack as Israeli forces kill 21 across Gaza",
-    "added_at": "2025-09-08T08:41:56.142Z"
+    "added_at": "2025-09-08T08:41:56.142Z",
+    "removed_at": "2025-09-08T09:00:51.047Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
   },
   {
     "title": "Shooting in occupied East Jerusalem kills five, Israeli authorities say",
     "added_at": "2025-09-08T08:41:56.142Z",
-    "removed_at": "2025-09-08T08:43:45.924Z",
-    "duration_minutes": 1,
-    "duration_str": "1m"
+    "removed_at": "2025-09-08T10:33:00.770Z",
+    "duration_minutes": 111,
+    "duration_str": "1h 51m"
   },
   {
     "title": "Shooting attack in west Jerusalem kills five, Israeli authorities say",
@@ -37469,6 +37478,32 @@
   },
   {
     "title": "Shooting attack in Jerusalem kills five, injures others, Israel says",
-    "added_at": "2025-09-08T08:47:35.108Z"
+    "added_at": "2025-09-08T08:47:35.108Z",
+    "removed_at": "2025-09-08T09:10:17.209Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
+  },
+  {
+    "title": "Five killed in East Jerusalem attack as Israeli forces kill 21 across Gaza",
+    "added_at": "2025-09-08T09:00:51.047Z",
+    "removed_at": "2025-09-08T10:21:43.456Z",
+    "duration_minutes": 80,
+    "duration_str": "1h 20m"
+  },
+  {
+    "title": "‘Intense’ monsoon rain, flooding continue to engulf Pakistan’s Punjab",
+    "added_at": "2025-09-08T09:34:41.935Z"
+  },
+  {
+    "title": "Typhoon Tapah makes landfall in China, prompting mass evacuations, closures",
+    "added_at": "2025-09-08T09:34:41.935Z"
+  },
+  {
+    "title": "Six killed in East Jerusalem attack as Israeli forces kill 28 across Gaza",
+    "added_at": "2025-09-08T10:21:43.456Z"
+  },
+  {
+    "title": "Shooting in occupied East Jerusalem kills six, Israeli authorities say",
+    "added_at": "2025-09-08T10:33:00.770Z"
   }
 ]
