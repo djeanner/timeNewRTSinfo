@@ -28750,7 +28750,10 @@
   },
   {
     "title": "monde:::Guerre en Ukraine: A Kostiantynivka, des volontaires bravent le danger pour évacuer les habitants apeurés",
-    "added_at": "2025-08-27T09:09:37.127Z"
+    "added_at": "2025-08-27T09:09:37.127Z",
+    "removed_at": "2025-09-09T08:56:41.409Z",
+    "duration_minutes": 18707,
+    "duration_str": "12d 23h 47m"
   },
   {
     "title": "monde:::Décryptage – Pourquoi les efforts diplomatiques pour mettre fin à la guerre contre l’Ukraine sont-ils si laborieux?",
@@ -29930,10 +29933,7 @@
   },
   {
     "title": "monde:::Sur le front ukrainien, le Magicien transforme un garage clandestin en laboratoire du premier drone lance-flammes",
-    "added_at": "2025-08-31T16:13:45.443Z",
-    "removed_at": "2025-09-01T11:35:33.605Z",
-    "duration_minutes": 1161,
-    "duration_str": "19h 21m"
+    "added_at": "2025-08-31T16:13:45.443Z"
   },
   {
     "title": "sport:::Orlik Armon devient roi de la lutte suisse… sans participer à la finale!",
@@ -30917,7 +30917,10 @@
   },
   {
     "title": "culture:::Face au silence des gouvernements, 100 musiciens joueront à Genève pour dénoncer les massacres à Gaza",
-    "added_at": "2025-09-03T18:56:19.666Z"
+    "added_at": "2025-09-03T18:56:19.666Z",
+    "removed_at": "2025-09-09T08:54:34.968Z",
+    "duration_minutes": 8038,
+    "duration_str": "5d 13h 58m"
   },
   {
     "title": "monde:::Le célèbre funiculaire de la Gloria à Lisbonne a déraillé, faisant au moins 15 morts",
@@ -31590,10 +31593,7 @@
   },
   {
     "title": "monde:::Un nombre croissant de soldats israéliens servent à Gaza en traînant des pieds… mais servent tout de même",
-    "added_at": "2025-09-05T19:04:17.609Z",
-    "removed_at": "2025-09-06T10:06:57.860Z",
-    "duration_minutes": 902,
-    "duration_str": "15h 2m"
+    "added_at": "2025-09-05T19:04:17.609Z"
   },
   {
     "title": "monde:::Moyen-Orient – L'armée israélienne détruit une tour d'immeuble dans la ville de Gaza",
@@ -31916,10 +31916,7 @@
   },
   {
     "title": "sciences:::Les petits réacteurs nucléaires SMR portent d’immenses promesses pour décarboner l’industrie, mais il y aura peu d’élus",
-    "added_at": "2025-09-07T17:58:29.682Z",
-    "removed_at": "2025-09-08T12:50:01.458Z",
-    "duration_minutes": 1131,
-    "duration_str": "18h 51m"
+    "added_at": "2025-09-07T17:58:29.682Z"
   },
   {
     "title": "culture:::David Byrne, musicien heureux: «On a tout intérêt à voir ce qui peut nous sauver du déclin plutôt que d’attendre que tout s’écroule»",
@@ -32182,7 +32179,10 @@
   },
   {
     "title": "sciences:::Le Conseil national bataille pour réglementer les PFAS",
-    "added_at": "2025-09-08T16:17:32.188Z"
+    "added_at": "2025-09-08T16:17:32.188Z",
+    "removed_at": "2025-09-09T08:52:22.925Z",
+    "duration_minutes": 994,
+    "duration_str": "16h 34m"
   },
   {
     "title": "suisse:::Susanne Vincenz-Stauffacher: «Sur les PFAS, l’interdiction doit rester l’ultima ratio»",
@@ -32212,7 +32212,10 @@
   },
   {
     "title": "economie:::A reculons, le Conseil national souhaite lier performance et rémunération des patrons de banques",
-    "added_at": "2025-09-08T18:34:13.314Z"
+    "added_at": "2025-09-08T18:34:13.314Z",
+    "removed_at": "2025-09-09T08:52:22.925Z",
+    "duration_minutes": 858,
+    "duration_str": "14h 18m"
   },
   {
     "title": "economie:::La transparence sur les marges de la distribution se heurte à une forte opposition au parlement",
@@ -32241,7 +32244,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – La flottille vers Gaza affirme qu’un de ses bateaux a été «frappé» et soupçonne un drone",
-    "added_at": "2025-09-09T01:11:52.628Z"
+    "added_at": "2025-09-09T01:11:52.628Z",
+    "removed_at": "2025-09-09T08:22:13.053Z",
+    "duration_minutes": 430,
+    "duration_str": "7h 10m"
   },
   {
     "title": "economie:::Fin de la saga ayant inspiré la série «Succession»? Les héritiers de l’empire Murdoch trouvent un accord",
@@ -32276,5 +32282,13 @@
   {
     "title": "suisse:::La Poste déplace 200 emplois informatiques de la Suisse au Portugal",
     "added_at": "2025-09-09T07:15:08.217Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’armée israélienne dit qu’elle va agir avec une «puissance accrue» dans la ville de Gaza",
+    "added_at": "2025-09-09T08:22:13.053Z"
+  },
+  {
+    "title": "suisse:::Robert Cramer: «On peut douter de la réelle volonté populaire de remettre le sujet du nucléaire sur la table»",
+    "added_at": "2025-09-09T08:52:22.925Z"
   }
 ]
