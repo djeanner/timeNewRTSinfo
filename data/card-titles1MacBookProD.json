@@ -14733,7 +14733,10 @@
   },
   {
     "title": "Comment fonctionne Twint ?",
-    "added_at": "2025-09-04T23:02:25.840Z"
+    "added_at": "2025-09-04T23:02:25.840Z",
+    "removed_at": "2025-09-09T05:03:09.340Z",
+    "duration_minutes": 6120,
+    "duration_str": "4d 6h"
   },
   {
     "title": "Washington baisse les droits de douane à 15% sur les automobiles japonaises",
@@ -15457,7 +15460,10 @@
   },
   {
     "title": "L'accident du funiculaire à Lisbonne est dû à \"la déconnexion du câble entre les deux cabines\"",
-    "added_at": "2025-09-06T21:06:59.960Z"
+    "added_at": "2025-09-06T21:06:59.960Z",
+    "removed_at": "2025-09-09T04:17:52.244Z",
+    "duration_minutes": 3310,
+    "duration_str": "2d 7h 10m"
   },
   {
     "title": "Une voiture a traversé une manifestation propalestinienne à Lausanne",
@@ -15530,7 +15536,10 @@
   },
   {
     "title": "A Genève, la Commission des finances refuse 25 millions de plus pour financer les TPG gratuits pour les jeunes et les re",
-    "added_at": "2025-09-07T07:22:37.599Z"
+    "added_at": "2025-09-07T07:22:37.599Z",
+    "removed_at": "2025-09-09T05:03:09.340Z",
+    "duration_minutes": 2740,
+    "duration_str": "1d 21h 40m"
   },
   {
     "title": "L’équipe de cyclisme Israël-Premier Tech enlève la mention d’Israël de ses maillots: interview de Frédéric Métézeau",
@@ -15567,7 +15576,10 @@
   },
   {
     "title": "Polars et justice: l'erreur judiciaire",
-    "added_at": "2025-09-07T09:19:02.157Z"
+    "added_at": "2025-09-07T09:19:02.157Z",
+    "removed_at": "2025-09-09T04:41:37.639Z",
+    "duration_minutes": 2602,
+    "duration_str": "1d 19h 22m"
   },
   {
     "title": "La population serait opposée à une généralisation du 30 km/h dans les agglomérations",
@@ -16025,10 +16037,7 @@
   },
   {
     "title": "Une voiture traverse une manifestation propalestinienne à Lausanne: interview de Christian Pannatier",
-    "added_at": "2025-09-08T21:03:20.902Z",
-    "removed_at": "2025-09-09T01:22:39.009Z",
-    "duration_minutes": 259,
-    "duration_str": "4h 19m"
+    "added_at": "2025-09-08T21:03:20.902Z"
   },
   {
     "title": "Le gouvernement Bayrou au bord du précipice en France: débat entre Marlène Collette et Paul Cébille",
@@ -16041,5 +16050,13 @@
   {
     "title": "La flottille vers Gaza affirme avoir été \"frappée\" par un drone au large de Tunis, la Tunisie dément",
     "added_at": "2025-09-09T02:40:24.497Z"
+  },
+  {
+    "title": "Le marché international attire toujours plus les vignerons suisses",
+    "added_at": "2025-09-09T04:41:37.639Z"
+  },
+  {
+    "title": "La ligne rouge",
+    "added_at": "2025-09-09T05:03:09.340Z"
   }
 ]
