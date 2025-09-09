@@ -85,8 +85,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – «Plus de 20 personnes» tuées dans une frappe russe sur un village de l’Est",
     "added_at": "2025-09-09T09:47:32.450Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-09T21:34:53.026Z",
+    "duration_minutes": 707,
+    "duration_str": "11h 47m"
   },
   {
     "title": "monde:::«Des missiles, on n'en a plus»: dans le fief du Hezbollah désarmé, l’amertume des combattants",
@@ -98,7 +99,7 @@
   {
     "title": "monde:::François Bayrou a démissionné… et la France macroniste découvre les vertus du vrai compromis",
     "added_at": "2025-09-09T12:55:02.114Z",
-    "removed_at": "2025-09-09T17:56:01.523Z",
+    "removed_at": "2025-09-09T17:55:34.921Z",
     "duration_minutes": 301,
     "duration_str": "5h 1m"
   },
@@ -126,8 +127,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Israël affirme avoir frappé «de hauts responsables» du Hamas à Doha, le Qatar dénonce une «attaque lâche»",
     "added_at": "2025-09-09T13:52:27.595Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-09T20:45:08.404Z",
+    "duration_minutes": 413,
+    "duration_str": "6h 53m"
   },
   {
     "title": "culture:::«Far West»: au Cap-Vert, le choc des mondes",
@@ -214,12 +216,13 @@
   {
     "title": "economie:::Mistral s’allie au néerlandais ASML pour doper la compétitivité européenne en intelligence artificielle",
     "added_at": "2025-09-09T17:51:42.378Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-09T20:49:31.172Z",
+    "duration_minutes": 178,
+    "duration_str": "2h 58m"
   },
   {
     "title": "monde:::Sébastien Lecornu nommé premier ministre, et la France macroniste découvre les vertus du vrai compromis",
-    "added_at": "2025-09-09T17:56:01.523Z",
+    "added_at": "2025-09-09T17:55:34.921Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -250,6 +253,25 @@
   {
     "title": "monde:::Les opérations policières de Donald Trump s’étendent à Boston et Chicago",
     "added_at": "2025-09-09T19:31:26.198Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump prend ses distances avec l’attaque israélienne contre Doha",
+    "added_at": "2025-09-09T20:45:08.404Z",
+    "removed_at": "2025-09-09T21:06:46.553Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump prend ses distances avec l’attaque israélienne contre le Hamas à Doha",
+    "added_at": "2025-09-09T21:06:46.553Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Plus de 20 personnes tuées dans une frappe russe sur un village de l’Est",
+    "added_at": "2025-09-09T21:34:53.026Z",
     "duration_minutes": 0,
     "duration_str": ""
   }

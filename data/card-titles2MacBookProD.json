@@ -32232,10 +32232,7 @@
   },
   {
     "title": "monde:::Après l’attaque près d’un arrêt de bus de Jérusalem: «Gaza ou la Cisjordanie, au fond, c’est la même chose»",
-    "added_at": "2025-09-08T17:59:29.858Z",
-    "removed_at": "2025-09-09T13:44:43.196Z",
-    "duration_minutes": 1185,
-    "duration_str": "19h 45m"
+    "added_at": "2025-09-08T17:59:29.858Z"
   },
   {
     "title": "economie:::A reculons, le Conseil national souhaite lier performance et rémunération des patrons de banques",
@@ -32348,7 +32345,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – «Plus de 20 personnes» tuées dans une frappe russe sur un village de l’Est",
-    "added_at": "2025-09-09T09:48:38.929Z"
+    "added_at": "2025-09-09T09:48:38.929Z",
+    "removed_at": "2025-09-09T21:34:53.026Z",
+    "duration_minutes": 706,
+    "duration_str": "11h 46m"
   },
   {
     "title": "monde:::«Des missiles, on n'en a plus»: dans le fief du Hezbollah désarmé, l’amertume des combattants",
@@ -32387,7 +32387,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël affirme avoir frappé «de hauts responsables» du Hamas à Doha, le Qatar dénonce une «attaque lâche»",
-    "added_at": "2025-09-09T13:53:34.695Z"
+    "added_at": "2025-09-09T13:53:34.695Z",
+    "removed_at": "2025-09-09T20:45:08.404Z",
+    "duration_minutes": 411,
+    "duration_str": "6h 51m"
   },
   {
     "title": "culture:::«Far West»: au Cap-Vert, le choc des mondes",
@@ -32455,7 +32458,10 @@
   },
   {
     "title": "economie:::Mistral s’allie au néerlandais ASML pour doper la compétitivité européenne en intelligence artificielle",
-    "added_at": "2025-09-09T17:51:42.378Z"
+    "added_at": "2025-09-09T17:51:42.378Z",
+    "removed_at": "2025-09-09T20:49:31.172Z",
+    "duration_minutes": 177,
+    "duration_str": "2h 57m"
   },
   {
     "title": "monde:::Sébastien Lecornu nommé premier ministre, et la France macroniste découvre les vertus du vrai compromis",
@@ -32480,5 +32486,20 @@
   {
     "title": "monde:::Les opérations policières de Donald Trump s’étendent à Boston et Chicago",
     "added_at": "2025-09-09T19:31:26.198Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump prend ses distances avec l’attaque israélienne contre Doha",
+    "added_at": "2025-09-09T20:45:08.404Z",
+    "removed_at": "2025-09-09T21:06:46.553Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump prend ses distances avec l’attaque israélienne contre le Hamas à Doha",
+    "added_at": "2025-09-09T21:06:46.553Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Plus de 20 personnes tuées dans une frappe russe sur un village de l’Est",
+    "added_at": "2025-09-09T21:34:53.026Z"
   }
 ]
