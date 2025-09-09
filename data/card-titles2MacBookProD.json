@@ -31727,10 +31727,7 @@
   },
   {
     "title": "culture:::Au Liban, une danse macabre sans fin",
-    "added_at": "2025-09-06T18:18:59.707Z",
-    "removed_at": "2025-09-07T08:42:25.648Z",
-    "duration_minutes": 863,
-    "duration_str": "14h 23m"
+    "added_at": "2025-09-06T18:18:59.707Z"
   },
   {
     "title": "culture:::Ça tourne à Marseille, mon gâté!",
@@ -31916,7 +31913,10 @@
   },
   {
     "title": "sciences:::Les petits réacteurs nucléaires SMR portent d’immenses promesses pour décarboner l’industrie, mais il y aura peu d’élus",
-    "added_at": "2025-09-07T17:58:29.682Z"
+    "added_at": "2025-09-07T17:58:29.682Z",
+    "removed_at": "2025-09-09T10:38:27.411Z",
+    "duration_minutes": 2439,
+    "duration_str": "1d 16h 39m"
   },
   {
     "title": "culture:::David Byrne, musicien heureux: «On a tout intérêt à voir ce qui peut nous sauver du déclin plutôt que d’attendre que tout s’écroule»",
@@ -31990,7 +31990,10 @@
   },
   {
     "title": "suisse:::Pourquoi le Conseil fédéral a changé d’avis sur le nucléaire",
-    "added_at": "2025-09-08T04:10:30.948Z"
+    "added_at": "2025-09-08T04:10:30.948Z",
+    "removed_at": "2025-09-09T10:38:27.411Z",
+    "duration_minutes": 1827,
+    "duration_str": "1d 6h 27m"
   },
   {
     "title": "economie:::«Ils traitent nos ouvriers comme des criminels»: le raid anti-immigration dans une usine de Hyundai et LG ébranle les relations entre Séoul et Washington",
@@ -32304,5 +32307,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – «Plus de 20 personnes» tuées dans une frappe russe sur un village de l’Est",
     "added_at": "2025-09-09T09:48:38.929Z"
+  },
+  {
+    "title": "monde:::«Des missiles, on n'en a plus»: dans le fief du Hezbollah désarmé, l’amertume des combattants",
+    "added_at": "2025-09-09T10:38:27.411Z"
   }
 ]
