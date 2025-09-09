@@ -15479,7 +15479,10 @@
   },
   {
     "title": "Une voiture a traversé une manifestation propalestinienne à Lausanne",
-    "added_at": "2025-09-06T22:11:36.470Z"
+    "added_at": "2025-09-06T22:11:36.470Z",
+    "removed_at": "2025-09-09T20:03:58.287Z",
+    "duration_minutes": 4192,
+    "duration_str": "2d 21h 52m"
   },
   {
     "title": "Guy Parmelin à Washington: le monde politique réagit",
@@ -15978,11 +15981,17 @@
   },
   {
     "title": "Les demandes d'asile ont chuté en Europe et en Suisse pendant la première moitié de 2025",
-    "added_at": "2025-09-08T12:09:02.278Z"
+    "added_at": "2025-09-08T12:09:02.278Z",
+    "removed_at": "2025-09-09T20:25:32.842Z",
+    "duration_minutes": 1936,
+    "duration_str": "1d 8h 16m"
   },
   {
     "title": "Jean Mohr, un témoin du monde",
-    "added_at": "2025-09-08T12:09:02.278Z"
+    "added_at": "2025-09-08T12:09:02.278Z",
+    "removed_at": "2025-09-09T20:10:28.030Z",
+    "duration_minutes": 1921,
+    "duration_str": "1d 8h 1m"
   },
   {
     "title": "Le permis d'élève conducteur passe au numérique dans 5 premiers cantons, dont Neuchâtel et le Valais",
@@ -16454,5 +16463,13 @@
   {
     "title": "Un tremblement de terre testé en laboratoire 1000 mètres sous les Alpes",
     "added_at": "2025-09-09T19:35:42.834Z"
+  },
+  {
+    "title": "La gagnante Joyline Chepngeno disqualifiée et suspendue",
+    "added_at": "2025-09-09T20:10:28.030Z"
+  },
+  {
+    "title": "Un camion piscine accueille les élèves vaudois pour des cours de natation",
+    "added_at": "2025-09-09T20:25:32.842Z"
   }
 ]
