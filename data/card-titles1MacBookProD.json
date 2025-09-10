@@ -15296,7 +15296,10 @@
   },
   {
     "title": "Les paysans",
-    "added_at": "2025-09-06T10:24:10.668Z"
+    "added_at": "2025-09-06T10:24:10.668Z",
+    "removed_at": "2025-09-10T07:46:26.092Z",
+    "duration_minutes": 5602,
+    "duration_str": "3d 21h 22m"
   },
   {
     "title": "La police de l'immigration lance un raid contre une usine de Hyundai et LG aux États-Unis",
@@ -15556,7 +15559,10 @@
   },
   {
     "title": "Famine à Gaza : l'ONU a-t-elle \"trafiqué\" les chiffres de la malnutrition ?",
-    "added_at": "2025-09-07T07:22:37.599Z"
+    "added_at": "2025-09-07T07:22:37.599Z",
+    "removed_at": "2025-09-10T07:24:46.521Z",
+    "duration_minutes": 4322,
+    "duration_str": "3d 2m"
   },
   {
     "title": "A Genève, la Commission des finances refuse 25 millions de plus pour financer les TPG gratuits pour les jeunes et les re",
@@ -16023,7 +16029,10 @@
   },
   {
     "title": "Le permis d'élève conducteur passe au numérique dans cinq premiers cantons, dont Neuchâtel et le Valais",
-    "added_at": "2025-09-08T12:21:56.419Z"
+    "added_at": "2025-09-08T12:21:56.419Z",
+    "removed_at": "2025-09-10T08:20:56.961Z",
+    "duration_minutes": 2639,
+    "duration_str": "1d 19h 59m"
   },
   {
     "title": "La suppression de la valeur locative divise les propriétaires",
@@ -16059,7 +16068,10 @@
   },
   {
     "title": "L'ONU dénonce la \"rhétorique génocidaire\" de dirigeants israéliens",
-    "added_at": "2025-09-08T13:05:07.501Z"
+    "added_at": "2025-09-08T13:05:07.501Z",
+    "removed_at": "2025-09-10T08:12:22.213Z",
+    "duration_minutes": 2587,
+    "duration_str": "1d 19h 7m"
   },
   {
     "title": "Le Premier ministre français François Bayrou réclame la confiance d'une Assemblée nationale hostile",
@@ -16074,7 +16086,10 @@
   },
   {
     "title": "\"Dexter: Resurrection\" signe le retour réussi du tueur en série le plus connu du petit écran",
-    "added_at": "2025-09-08T14:22:54.277Z"
+    "added_at": "2025-09-08T14:22:54.277Z",
+    "removed_at": "2025-09-10T07:39:57.579Z",
+    "duration_minutes": 2477,
+    "duration_str": "1d 17h 17m"
   },
   {
     "title": "\"Une catastrophe\": la population des montagnes vaudoises en colère face aux coupes budgétaires dans la santé",
@@ -16345,7 +16360,10 @@
   },
   {
     "title": "La réponse des autorités lausannoises aux tensions actuelles: interview de Grégoire Junod",
-    "added_at": "2025-09-09T13:23:03.985Z"
+    "added_at": "2025-09-09T13:23:03.985Z",
+    "removed_at": "2025-09-10T08:10:09.818Z",
+    "duration_minutes": 1127,
+    "duration_str": "18h 47m"
   },
   {
     "title": "François Bayrou a remis sa démission au président français Emmanuel Macron",
@@ -16475,10 +16493,7 @@
   },
   {
     "title": "Le taux de logements vacants a chuté à 1% en juin, au plus bas depuis 2013",
-    "added_at": "2025-09-09T19:03:15.497Z",
-    "removed_at": "2025-09-09T22:22:40.438Z",
-    "duration_minutes": 199,
-    "duration_str": "3h 19m"
+    "added_at": "2025-09-09T19:03:15.497Z"
   },
   {
     "title": "La pénurie de logements s'aggrave en Suisse avec seulement 1% de logements vacants",
@@ -16589,5 +16604,25 @@
   {
     "title": "Jakuta Alikavazovic dédie son cinquième roman \"Au grand jamais\" à sa mère",
     "added_at": "2025-09-10T06:58:23.588Z"
+  },
+  {
+    "title": "Non, l'ONU n'a pas \"trafiqué\" les chiffres de la famine à Gaza",
+    "added_at": "2025-09-10T07:24:46.521Z"
+  },
+  {
+    "title": "La libération du mafieux sanguinaire Giovanni Brusca passe mal en Italie",
+    "added_at": "2025-09-10T07:24:46.521Z"
+  },
+  {
+    "title": "Dopée par la malbouffe, l'obésité dépasse la sous-nutrition chez les enfants et ados",
+    "added_at": "2025-09-10T07:39:57.579Z"
+  },
+  {
+    "title": "Le Zurichois Jonas Lüscher remporte le prestigieux prix littéraire allemand Wilhelm Raabe",
+    "added_at": "2025-09-10T08:12:22.213Z"
+  },
+  {
+    "title": "Jean-Marc Jancovici: \"Sur le climat, la seule chose utile, c'est s'adresser à la société civile, pas aux politiques\"",
+    "added_at": "2025-09-10T08:20:56.961Z"
   }
 ]
