@@ -16201,7 +16201,10 @@
   },
   {
     "title": "Ouverture de la session d'automne du Parlement",
-    "added_at": "2025-09-08T19:24:14.771Z"
+    "added_at": "2025-09-08T19:24:14.771Z",
+    "removed_at": "2025-09-10T16:25:32.517Z",
+    "duration_minutes": 2701,
+    "duration_str": "1d 21h 1m"
   },
   {
     "title": "Les sénateurs refusent une motion demandant des mesures concrètes contre Israël",
@@ -16213,9 +16216,9 @@
   {
     "title": "Comment les cadeaux à Donald Trump redéfinissent les relations diplomatiques",
     "added_at": "2025-09-08T19:47:52.226Z",
-    "removed_at": "2025-09-10T15:48:35.674Z",
-    "duration_minutes": 2640,
-    "duration_str": "1d 20h"
+    "removed_at": "2025-09-10T16:40:45.059Z",
+    "duration_minutes": 2692,
+    "duration_str": "1d 20h 52m"
   },
   {
     "title": "La Suisse doit-elle reconnaître l’Etat de Palestine? Débat entre Carlo Sommaruga et Vincent Maitre",
@@ -16711,7 +16714,10 @@
   },
   {
     "title": "Le National s'oppose à la fin des adoptions internationales",
-    "added_at": "2025-09-10T11:03:43.866Z"
+    "added_at": "2025-09-10T11:03:43.866Z",
+    "removed_at": "2025-09-10T16:47:15.175Z",
+    "duration_minutes": 343,
+    "duration_str": "5h 43m"
   },
   {
     "title": "L'armée népalaise contrôle Katmandou après deux jours d'émeutes anti-gouvernementales",
@@ -16793,5 +16799,13 @@
   {
     "title": "Des \"drones russes\" abattus en Pologne, une première pour un Etat membre de l'Otan",
     "added_at": "2025-09-10T16:08:05.567Z"
+  },
+  {
+    "title": "Violation de l'espace aérien de l'UE : les précisions d'Isabelle Ory à Bruxelles",
+    "added_at": "2025-09-10T16:25:32.517Z"
+  },
+  {
+    "title": "La 13e rente doit être financée par la TVA, mais temporairement, décide le National",
+    "added_at": "2025-09-10T16:47:15.175Z"
   }
 ]
