@@ -26153,7 +26153,10 @@
   },
   {
     "title": "suisse:::Découvrez «Le Temps» avec tous nos abonnements annuels à –30% et bénéficiez d’une information fiable et indépendante",
-    "added_at": "2025-08-14T09:49:35.942Z"
+    "added_at": "2025-08-14T09:49:35.942Z",
+    "removed_at": "2025-09-10T06:34:39.812Z",
+    "duration_minutes": 38685,
+    "duration_str": "26d 20h 45m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Le Kremlin donne des détails sur le sommet Trump-Poutine en Alaska",
@@ -32553,7 +32556,10 @@
   },
   {
     "title": "culture:::«Connemara»: un nouveau retour en province, adapté d’un roman de Nicolas Mathieu",
-    "added_at": "2025-09-10T04:24:34.716Z"
+    "added_at": "2025-09-10T04:24:34.716Z",
+    "removed_at": "2025-09-10T06:41:08.714Z",
+    "duration_minutes": 136,
+    "duration_str": "2h 16m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Pologne dénonce un «acte d’agression» après des violations répétées de son espace aérien",
@@ -32564,7 +32570,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Pologne dénonce un «acte d’agression» après des violations répétées de son espace aérien. Son aviation fait feu",
-    "added_at": "2025-09-10T04:37:41.247Z"
+    "added_at": "2025-09-10T04:37:41.247Z",
+    "removed_at": "2025-09-10T06:25:57.606Z",
+    "duration_minutes": 108,
+    "duration_str": "1h 48m"
   },
   {
     "title": "suisse:::Comment encourager la marche, «reine sans couronne» de la mobilité à Genève?",
@@ -32577,5 +32586,20 @@
   {
     "title": "economie:::Plus que la fiscalité, le climat social français suscite des envies de départ",
     "added_at": "2025-09-10T06:12:52.015Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – La Pologne dénonce un «acte d’agression» après des violations répétées de son espace aérien. Son aviation a fait feu",
+    "added_at": "2025-09-10T06:25:57.606Z",
+    "removed_at": "2025-09-10T07:18:09.351Z",
+    "duration_minutes": 52,
+    "duration_str": "52m"
+  },
+  {
+    "title": "cyber:::D’Apertus à Llama 3, les modèles de langage open source ont un degré d’ouverture très variable",
+    "added_at": "2025-09-10T06:41:08.714Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – La Russie a lancé 458 drones et missiles contre l’Ukraine, dont certains sont entrés dans l’espace aérien polonais",
+    "added_at": "2025-09-10T07:18:09.351Z"
   }
 ]
