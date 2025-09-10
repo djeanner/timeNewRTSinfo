@@ -26409,9 +26409,9 @@
   {
     "title": "19h30 signé",
     "added_at": "2025-07-25T21:30:25.517Z",
-    "removed_at": "2025-09-09T22:22:58.848Z",
-    "duration_minutes": 66292,
-    "duration_str": "46d 52m"
+    "removed_at": "2025-09-10T19:09:20.120Z",
+    "duration_minutes": 67538,
+    "duration_str": "46d 21h 38m"
   },
   {
     "title": "La légende du catch Hulk Hogan est décédée à l'âge de 71 ans",
@@ -39930,9 +39930,9 @@
   {
     "title": "Les paysans",
     "added_at": "2025-09-06T10:23:47.227Z",
-    "removed_at": "2025-09-10T13:18:11.519Z",
-    "duration_minutes": 5934,
-    "duration_str": "4d 2h 54m"
+    "removed_at": "2025-09-10T19:09:20.120Z",
+    "duration_minutes": 6285,
+    "duration_str": "4d 8h 45m"
   },
   {
     "title": "La police de l'immigration lance un raid contre une usine de Hyundai et LG aux États-Unis",
@@ -40812,7 +40812,10 @@
   },
   {
     "title": "Le Premier ministre français François Bayrou renversé par l'Assemblée nationale",
-    "added_at": "2025-09-08T17:02:47.795Z"
+    "added_at": "2025-09-08T17:02:47.795Z",
+    "removed_at": "2025-09-10T19:31:56.755Z",
+    "duration_minutes": 3029,
+    "duration_str": "2d 2h 29m"
   },
   {
     "title": "Donald Trump condamné en appel à verser 83 millions pour diffamation",
@@ -40849,9 +40852,9 @@
   {
     "title": "Comment les cadeaux à Donald Trump redéfinissent les relations diplomatiques",
     "added_at": "2025-09-08T19:48:36.745Z",
-    "removed_at": "2025-09-10T16:40:10.972Z",
-    "duration_minutes": 2691,
-    "duration_str": "1d 20h 51m"
+    "removed_at": "2025-09-10T18:14:33.507Z",
+    "duration_minutes": 2785,
+    "duration_str": "1d 22h 25m"
   },
   {
     "title": "La Suisse doit-elle reconnaître l’Etat de Palestine? Débat entre Carlo Sommaruga et Vincent Maitre",
@@ -40873,7 +40876,10 @@
   },
   {
     "title": "La Suisse facile contre la Slovénie",
-    "added_at": "2025-09-08T20:45:14.437Z"
+    "added_at": "2025-09-08T20:45:14.437Z",
+    "removed_at": "2025-09-10T19:22:31.695Z",
+    "duration_minutes": 2797,
+    "duration_str": "1d 22h 37m"
   },
   {
     "title": "Une voiture traverse une manifestation propalestinienne à Lausanne: interview de Christian Pannatier",
@@ -40884,11 +40890,17 @@
   },
   {
     "title": "Le gouvernement Bayrou au bord du précipice en France: débat entre Marlène Collette et Paul Cébille",
-    "added_at": "2025-09-09T01:21:57.232Z"
+    "added_at": "2025-09-09T01:21:57.232Z",
+    "removed_at": "2025-09-10T19:03:40.007Z",
+    "duration_minutes": 2501,
+    "duration_str": "1d 17h 41m"
   },
   {
     "title": "En Norvège, la gauche arrive en tête de législatives marquées par une percée des populistes",
-    "added_at": "2025-09-09T01:27:35.626Z"
+    "added_at": "2025-09-09T01:27:35.626Z",
+    "removed_at": "2025-09-10T19:07:30.422Z",
+    "duration_minutes": 2499,
+    "duration_str": "1d 17h 39m"
   },
   {
     "title": "La flottille vers Gaza affirme avoir été \"frappée\" par un drone au large de Tunis, la Tunisie dément",
@@ -41401,14 +41413,14 @@
   },
   {
     "title": "La Russie a lancé contre l’Ukraine la plus grande attaque cordonnée de drones depuis le début de la guerre",
-    "added_at": "2025-09-10T14:26:03.847Z",
-    "removed_at": "2025-09-10T14:29:52.610Z",
-    "duration_minutes": 3,
-    "duration_str": "3m"
+    "added_at": "2025-09-10T14:26:03.847Z"
   },
   {
     "title": "\"Bloquons tout\" en France: pas de pays à l'arrêt, mais nombreuses actions, certaines émaillées d'incidents",
-    "added_at": "2025-09-10T15:03:59.664Z"
+    "added_at": "2025-09-10T15:03:59.664Z",
+    "removed_at": "2025-09-10T19:07:30.422Z",
+    "duration_minutes": 243,
+    "duration_str": "4h 3m"
   },
   {
     "title": "ESH Médias lance \"Le Nord Vaudois\", un nouveau titre pour la région",
@@ -41433,5 +41445,21 @@
   {
     "title": "La 13e rente doit être financée par la TVA, mais temporairement, décide le National",
     "added_at": "2025-09-10T16:47:40.246Z"
+  },
+  {
+    "title": "\"Bloquons tout\" en France: des dizaines de milliers de manifestants, des tensions mais pas de paralysie",
+    "added_at": "2025-09-10T19:03:40.007Z"
+  },
+  {
+    "title": "En Ukraine, le football redonne espoir aux vétérans de guerre amputés",
+    "added_at": "2025-09-10T19:07:30.422Z"
+  },
+  {
+    "title": "L'influenceur conservateur Charlie Kirk, voix de la jeunesse pro-Trump, blessé par balle lors d'un meeting",
+    "added_at": "2025-09-10T19:22:31.695Z"
+  },
+  {
+    "title": "Raids israéliens sur des sites houthis au Yémen, plus de 30 morts selon les rebelles",
+    "added_at": "2025-09-10T19:31:56.755Z"
   }
 ]
