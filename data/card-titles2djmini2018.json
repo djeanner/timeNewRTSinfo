@@ -24298,10 +24298,7 @@
   },
   {
     "title": "suisse:::Découvrez «Le Temps» avec tous nos abonnements annuels à –30% et bénéficiez d’une information fiable et indépendante",
-    "added_at": "2025-08-14T09:47:56.820Z",
-    "removed_at": "2025-09-08T04:59:51.657Z",
-    "duration_minutes": 35711,
-    "duration_str": "24d 19h 11m"
+    "added_at": "2025-08-14T09:47:56.820Z"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Le Kremlin donne des détails sur le sommet Trump-Poutine en Alaska",
@@ -31034,7 +31031,10 @@
   },
   {
     "title": "monde:::A Genève, Volker Türk fustige la «rhétorique génocidaire» d’Israël à Gaza",
-    "added_at": "2025-09-08T12:56:06.310Z"
+    "added_at": "2025-09-08T12:56:06.310Z",
+    "removed_at": "2025-09-10T05:11:36.357Z",
+    "duration_minutes": 2415,
+    "duration_str": "1d 16h 15m"
   },
   {
     "title": "culture:::«Scénarios», court métrage posthume de Jean-Luc Godard à voir en exclusivité à Lausanne",
@@ -31380,15 +31380,24 @@
   },
   {
     "title": "suisse:::Suppression de la valeur locative: oui à une fiscalité équitable!",
-    "added_at": "2025-09-09T19:27:51.549Z"
+    "added_at": "2025-09-09T19:27:51.549Z",
+    "removed_at": "2025-09-10T04:35:55.382Z",
+    "duration_minutes": 548,
+    "duration_str": "9h 8m"
   },
   {
     "title": "culture:::Sergi Lopez: «Sirât» est comme la vie: on avance, les drames restent derrière»",
-    "added_at": "2025-09-09T19:29:40.947Z"
+    "added_at": "2025-09-09T19:29:40.947Z",
+    "removed_at": "2025-09-10T04:41:33.867Z",
+    "duration_minutes": 551,
+    "duration_str": "9h 11m"
   },
   {
     "title": "culture:::«Sirât», de la rave party à l’enfer",
-    "added_at": "2025-09-09T19:29:40.947Z"
+    "added_at": "2025-09-09T19:29:40.947Z",
+    "removed_at": "2025-09-10T04:24:38.694Z",
+    "duration_minutes": 534,
+    "duration_str": "8h 54m"
   },
   {
     "title": "monde:::Les opérations policières de Donald Trump s’étendent à Boston et Chicago",
@@ -31425,6 +31434,35 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Pologne dénonce des violations répétées de son espace aérien",
-    "added_at": "2025-09-10T02:57:54.759Z"
+    "added_at": "2025-09-10T02:57:54.759Z",
+    "removed_at": "2025-09-10T04:26:28.025Z",
+    "duration_minutes": 88,
+    "duration_str": "1h 28m"
+  },
+  {
+    "title": "cyber:::Apple lance ses iPhone 17 et un modèle ultrafin, sans révolution IA",
+    "added_at": "2025-09-10T04:19:00.351Z",
+    "removed_at": "2025-09-10T04:47:12.465Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
+  },
+  {
+    "title": "culture:::«Connemara»: un nouveau retour en province, adapté d’un roman de Nicolas Mathieu",
+    "added_at": "2025-09-10T04:24:38.694Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – La Pologne dénonce un «acte d’agression» après des violations répétées de son espace aérien",
+    "added_at": "2025-09-10T04:26:28.025Z",
+    "removed_at": "2025-09-10T04:37:44.911Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – La Pologne dénonce un «acte d’agression» après des violations répétées de son espace aérien. Son aviation fait feu",
+    "added_at": "2025-09-10T04:37:44.911Z"
+  },
+  {
+    "title": "suisse:::Comment encourager la marche, «reine sans couronne» de la mobilité à Genève?",
+    "added_at": "2025-09-10T04:47:12.465Z"
   }
 ]
