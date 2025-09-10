@@ -39929,7 +39929,10 @@
   },
   {
     "title": "Les paysans",
-    "added_at": "2025-09-06T10:23:47.227Z"
+    "added_at": "2025-09-06T10:23:47.227Z",
+    "removed_at": "2025-09-10T11:02:27.899Z",
+    "duration_minutes": 5798,
+    "duration_str": "4d 38m"
   },
   {
     "title": "La police de l'immigration lance un raid contre une usine de Hyundai et LG aux États-Unis",
@@ -40718,7 +40721,10 @@
   },
   {
     "title": "Marine Le Pen sera rejugée avant la présidentielle de 2027 sur l'affaire des assistants parlementaires",
-    "added_at": "2025-09-08T13:33:49.303Z"
+    "added_at": "2025-09-08T13:33:49.303Z",
+    "removed_at": "2025-09-10T11:26:59.153Z",
+    "duration_minutes": 2753,
+    "duration_str": "1d 21h 53m"
   },
   {
     "title": "\"Dexter: Resurrection\" signe le retour réussi du tueur en série le plus connu du petit écran",
@@ -40751,11 +40757,17 @@
   },
   {
     "title": "Le canton de Fribourg économisera finalement 405 millions en trois ans",
-    "added_at": "2025-09-08T15:15:24.680Z"
+    "added_at": "2025-09-08T15:15:24.680Z",
+    "removed_at": "2025-09-10T12:06:32.654Z",
+    "duration_minutes": 2691,
+    "duration_str": "1d 20h 51m"
   },
   {
     "title": "La formation des futurs policiers vaudois a eu lieu, en pleine période de troubles",
-    "added_at": "2025-09-08T15:19:09.577Z"
+    "added_at": "2025-09-08T15:19:09.577Z",
+    "removed_at": "2025-09-10T11:06:17.821Z",
+    "duration_minutes": 2627,
+    "duration_str": "1d 19h 47m"
   },
   {
     "title": "La fermeture pour rénovation du Centre Pompidou à Paris inquiète le quartier",
@@ -40784,7 +40796,10 @@
   },
   {
     "title": "Manifestations meurtrières au Népal contre la censure des réseaux sociaux et la corruption",
-    "added_at": "2025-09-08T16:53:26.766Z"
+    "added_at": "2025-09-08T16:53:26.766Z",
+    "removed_at": "2025-09-10T11:32:38.868Z",
+    "duration_minutes": 2559,
+    "duration_str": "1d 18h 39m"
   },
   {
     "title": "Le Premier ministre français François Bayrou renversé par l'Assemblée nationale",
@@ -41020,7 +41035,10 @@
   },
   {
     "title": "Radio: le National demande la poursuite de la FM après 2026",
-    "added_at": "2025-09-09T13:43:05.266Z"
+    "added_at": "2025-09-09T13:43:05.266Z",
+    "removed_at": "2025-09-10T11:04:21.681Z",
+    "duration_minutes": 1281,
+    "duration_str": "21h 21m"
   },
   {
     "title": "Des explosions entendues au Qatar, l'armée israélienne dit avoir visé de hauts responsables du Hamas",
@@ -41154,10 +41172,7 @@
   },
   {
     "title": "Allocution de Guy Parmelin, Conseiller fédéral",
-    "added_at": "2025-09-09T19:31:35.399Z",
-    "removed_at": "2025-09-09T19:33:30.908Z",
-    "duration_minutes": 1,
-    "duration_str": "1m"
+    "added_at": "2025-09-09T19:31:35.399Z"
   },
   {
     "title": "Un tremblement de terre testé en laboratoire 1000 mètres sous les Alpes",
@@ -41283,7 +41298,10 @@
   },
   {
     "title": "\"Bloquons tout\" en France: mobilisation et blocages limités en matinée",
-    "added_at": "2025-09-10T09:22:28.864Z"
+    "added_at": "2025-09-10T09:22:28.864Z",
+    "removed_at": "2025-09-10T11:02:27.899Z",
+    "duration_minutes": 99,
+    "duration_str": "1h 39m"
   },
   {
     "title": "Jeu vidéo culte de Nintendo, \"Super Mario Bros.\" fête ses quarante ans",
@@ -41292,5 +41310,29 @@
   {
     "title": "Le peuple fribourgeois appelé à décider de la protection future du lac de la Gruyère",
     "added_at": "2025-09-10T09:58:18.320Z"
+  },
+  {
+    "title": "\"Bloquons tout\" en France: une mobilisation et des blocages limités",
+    "added_at": "2025-09-10T10:58:42.686Z"
+  },
+  {
+    "title": "Le National s'oppose à la fin des adoptions internationales",
+    "added_at": "2025-09-10T11:04:21.681Z"
+  },
+  {
+    "title": "L'armée népalaise contrôle Katmandou après deux jours d'émeutes antigouvernementales",
+    "added_at": "2025-09-10T11:06:17.821Z"
+  },
+  {
+    "title": "Les frappes israéliennes au Qatar, première divergence stratégique avec Washington",
+    "added_at": "2025-09-10T11:26:59.153Z"
+  },
+  {
+    "title": "Le Musée de Chaplin à Corsier-sur-Vevey (VD) va être racheté par un groupe français",
+    "added_at": "2025-09-10T11:32:38.868Z"
+  },
+  {
+    "title": "Sylvie Courvoisier: \"Ce Grand Prix suisse de musique me permet d'aider d'autres artistes\"",
+    "added_at": "2025-09-10T12:06:32.654Z"
   }
 ]
