@@ -15296,7 +15296,10 @@
   },
   {
     "title": "Les paysans",
-    "added_at": "2025-09-06T10:24:10.668Z"
+    "added_at": "2025-09-06T10:24:10.668Z",
+    "removed_at": "2025-09-10T11:01:37.133Z",
+    "duration_minutes": 5797,
+    "duration_str": "4d 37m"
   },
   {
     "title": "La police de l'immigration lance un raid contre une usine de Hyundai et LG aux États-Unis",
@@ -16122,7 +16125,10 @@
   },
   {
     "title": "La formation des futurs policiers vaudois a eu lieu, en pleine période de troubles",
-    "added_at": "2025-09-08T15:19:00.212Z"
+    "added_at": "2025-09-08T15:19:00.212Z",
+    "removed_at": "2025-09-10T11:05:54.166Z",
+    "duration_minutes": 2626,
+    "duration_str": "1d 19h 46m"
   },
   {
     "title": "La fermeture pour rénovation du Centre Pompidou à Paris inquiète le quartier",
@@ -16387,7 +16393,10 @@
   },
   {
     "title": "Radio: le National demande la poursuite de la FM après 2026",
-    "added_at": "2025-09-09T13:42:33.218Z"
+    "added_at": "2025-09-09T13:42:33.218Z",
+    "removed_at": "2025-09-10T11:03:43.866Z",
+    "duration_minutes": 1281,
+    "duration_str": "21h 21m"
   },
   {
     "title": "Des explosions entendues au Qatar, l'armée israélienne dit avoir visé de hauts responsables du Hamas",
@@ -16521,10 +16530,7 @@
   },
   {
     "title": "Allocution de Guy Parmelin, Conseiller fédéral",
-    "added_at": "2025-09-09T19:31:26.154Z",
-    "removed_at": "2025-09-09T19:33:32.466Z",
-    "duration_minutes": 2,
-    "duration_str": "2m"
+    "added_at": "2025-09-09T19:31:26.154Z"
   },
   {
     "title": "Un tremblement de terre testé en laboratoire 1000 mètres sous les Alpes",
@@ -16650,7 +16656,10 @@
   },
   {
     "title": "\"Bloquons tout\" en France: mobilisation et blocages limités en matinée",
-    "added_at": "2025-09-10T09:21:58.035Z"
+    "added_at": "2025-09-10T09:21:58.035Z",
+    "removed_at": "2025-09-10T11:01:37.133Z",
+    "duration_minutes": 99,
+    "duration_str": "1h 39m"
   },
   {
     "title": "Jeu vidéo culte de Nintendo, \"Super Mario Bros.\" fête ses quarante ans",
@@ -16659,5 +16668,24 @@
   {
     "title": "Le peuple fribourgeois appelé à décider de la protection future du lac de la Gruyère",
     "added_at": "2025-09-10T09:58:41.371Z"
+  },
+  {
+    "title": "\"Bloquons tout\" en France: une mobilisation et des blocages limités",
+    "added_at": "2025-09-10T10:59:24.871Z"
+  },
+  {
+    "title": "Le National s'oppose à la fin des adoptions internationales",
+    "added_at": "2025-09-10T11:03:43.866Z"
+  },
+  {
+    "title": "L'armée népalaise contrôle Katmandou après deux jours d'émeutes anti-gouvernementales",
+    "added_at": "2025-09-10T11:05:54.166Z",
+    "removed_at": "2025-09-10T11:08:06.643Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "L'armée népalaise contrôle Katmandou après deux jours d'émeutes antigouvernementales",
+    "added_at": "2025-09-10T11:08:06.643Z"
   }
 ]
