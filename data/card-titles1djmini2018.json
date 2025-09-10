@@ -40908,7 +40908,10 @@
   },
   {
     "title": "Le marché international attire toujours plus les vignerons suisses",
-    "added_at": "2025-09-09T04:41:20.394Z"
+    "added_at": "2025-09-09T04:41:20.394Z",
+    "removed_at": "2025-09-10T19:54:44.504Z",
+    "duration_minutes": 2353,
+    "duration_str": "1d 15h 13m"
   },
   {
     "title": "La ligne rouge",
@@ -41432,7 +41435,10 @@
   },
   {
     "title": "L'auteur syrien de l'attaque au couteau de Solingen condamné à perpétuité",
-    "added_at": "2025-09-10T15:39:44.235Z"
+    "added_at": "2025-09-10T15:39:44.235Z",
+    "removed_at": "2025-09-10T19:54:44.504Z",
+    "duration_minutes": 255,
+    "duration_str": "4h 15m"
   },
   {
     "title": "Des \"drones russes\" abattus en Pologne, une première pour un Etat membre de l'Otan",
@@ -41456,10 +41462,46 @@
   },
   {
     "title": "L'influenceur conservateur Charlie Kirk, voix de la jeunesse pro-Trump, blessé par balle lors d'un meeting",
-    "added_at": "2025-09-10T19:22:31.695Z"
+    "added_at": "2025-09-10T19:22:31.695Z",
+    "removed_at": "2025-09-10T20:55:02.313Z",
+    "duration_minutes": 92,
+    "duration_str": "1h 32m"
   },
   {
     "title": "Raids israéliens sur des sites houthis au Yémen, plus de 30 morts selon les rebelles",
     "added_at": "2025-09-10T19:31:56.755Z"
+  },
+  {
+    "title": "Des super-héros débarquent aux HUG pour redonner le sourire aux enfant hospitalisés",
+    "added_at": "2025-09-10T19:54:44.504Z",
+    "removed_at": "2025-09-10T19:58:33.374Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "L'auteur syrien de l'attaque au couteau de Solingen condamné à la perpétuité",
+    "added_at": "2025-09-10T19:54:44.504Z"
+  },
+  {
+    "title": "Des super-héros débarquent aux HUG pour redonner le sourire aux enfants hospitalisés",
+    "added_at": "2025-09-10T19:58:33.374Z"
+  },
+  {
+    "title": "Blessé par balle lors d'un meeting, l'influenceur conservateur Charlie Kirk est décédé",
+    "added_at": "2025-09-10T20:55:02.313Z",
+    "removed_at": "2025-09-10T20:56:51.906Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Blessé par balle lors d'un meeting aux Etats-Unis, l'influenceur conservateur Charlie Kirk est décédé",
+    "added_at": "2025-09-10T20:56:51.906Z",
+    "removed_at": "2025-09-10T21:04:24.731Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Donald Trump annonce la mort de l'influenceur conservateur Charlie Kirk, touché par balle lors d'un meeting",
+    "added_at": "2025-09-10T21:04:24.731Z"
   }
 ]
