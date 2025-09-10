@@ -31335,7 +31335,10 @@
   },
   {
     "title": "suisse:::Guerre de tranchées au parlement autour des projets de barrages",
-    "added_at": "2025-09-09T16:57:01.466Z"
+    "added_at": "2025-09-09T16:57:01.466Z",
+    "removed_at": "2025-09-10T03:11:07.507Z",
+    "duration_minutes": 614,
+    "duration_str": "10h 14m"
   },
   {
     "title": "monde:::A Doha, Israël bombarde les négociateurs du Hamas et humilie le médiateur qatari",
@@ -31411,10 +31414,17 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Une frappe russe sur une distribution d'allocations de retraite fait 24 morts dans l'est de l'Ukraine",
-    "added_at": "2025-09-09T21:41:33.914Z"
+    "added_at": "2025-09-09T21:41:33.914Z",
+    "removed_at": "2025-09-10T02:57:54.759Z",
+    "duration_minutes": 316,
+    "duration_str": "5h 16m"
   },
   {
     "title": "monde:::Frappe israélienne sur Doha: le grand flou américain",
     "added_at": "2025-09-09T23:02:37.861Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – La Pologne dénonce des violations répétées de son espace aérien",
+    "added_at": "2025-09-10T02:57:54.759Z"
   }
 ]

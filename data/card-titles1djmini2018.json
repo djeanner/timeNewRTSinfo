@@ -40616,7 +40616,10 @@
   },
   {
     "title": "Six morts dans une attaque à l'arme à feu à Jérusalem-Est",
-    "added_at": "2025-09-08T11:57:46.174Z"
+    "added_at": "2025-09-08T11:57:46.174Z",
+    "removed_at": "2025-09-10T02:20:20.590Z",
+    "duration_minutes": 2302,
+    "duration_str": "1d 14h 22m"
   },
   {
     "title": "Les demandes d'asile ont chuté en Europe et en Suisse pendant la première moitié de 2025",
@@ -41146,5 +41149,9 @@
   {
     "title": "La légalité des droits de douane de Donald Trump examinée par la Cour suprême début novembre",
     "added_at": "2025-09-10T00:12:13.441Z"
+  },
+  {
+    "title": "L'Iran et l'Agence internationale de l'énergie atomique vont à nouveau coopérer",
+    "added_at": "2025-09-10T02:20:20.590Z"
   }
 ]
