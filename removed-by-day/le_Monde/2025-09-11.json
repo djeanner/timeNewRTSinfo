@@ -286,8 +286,9 @@
   {
     "title": "« Dans les Etats-Unis de Trump, le loyalisme compte plus que l’expertise »",
     "added_at": "2025-09-11T06:46:45.288Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-11T19:18:29.364Z",
+    "duration_minutes": 752,
+    "duration_str": "12h 32m"
   },
   {
     "title": "Après l’assassinat de Charlie Kirk, célèbre figure de la droite conservatrice, Donald Trump attaque « la gauche radicale »",
@@ -596,9 +597,8 @@
   {
     "title": "« Les entreprises d’IA ne feront pas l’économie des débats sur l’encadrement de leurs outils »",
     "added_at": "2025-09-11T11:06:41.703Z",
-    "removed_at": "2025-09-11T19:14:43.696Z",
-    "duration_minutes": 488,
-    "duration_str": "8h 8m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Une centaine de médias demandent à l’administration Trump de ne pas restreindre les visas des journalistes étrangers aux Etats-Unis",
@@ -891,8 +891,9 @@
   {
     "title": "Gabriel Zucman : « Il va être très difficile de demander aux Français de faire des efforts tant que les milliardaires paieront si peu d’impôts »",
     "added_at": "2025-09-11T14:42:14.391Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-11T21:29:15.441Z",
+    "duration_minutes": 407,
+    "duration_str": "6h 47m"
   },
   {
     "title": "Malaise, colère et « crises d’angoisse » au « Parisien », qui pourrait être vendu au groupe Bolloré",
@@ -1144,7 +1145,7 @@
   {
     "title": "Aux Magasins généraux de Pantin, l’architecture sur les bancs de l’école",
     "added_at": "2025-09-11T17:23:27.223Z",
-    "removed_at": "2025-09-11T19:14:27.896Z",
+    "removed_at": "2025-09-11T19:14:43.696Z",
     "duration_minutes": 111,
     "duration_str": "1h 51m"
   },
@@ -1178,9 +1179,9 @@
   {
     "title": "Benyamin Nétanyahou lors d’un déplacement dans une colonie en Cisjordanie : « Il n’y aura pas d’Etat palestinien, cet endroit nous appartient »",
     "added_at": "2025-09-11T17:40:31.217Z",
-    "removed_at": "2025-09-11T20:15:18.982Z",
-    "duration_minutes": 155,
-    "duration_str": "2h 35m"
+    "removed_at": "2025-09-11T21:20:32.492Z",
+    "duration_minutes": 220,
+    "duration_str": "3h 40m"
   },
   {
     "title": "Au Musée d’art et d’histoire du judaïsme, cinq universitaires boycottent un colloque intitulé « Les histoires juives de Paris »",
@@ -1284,8 +1285,9 @@
   {
     "title": "Brésil : une majorité des juges de la Cour suprême votent en faveur d’une condamnation de l’ancien président Jair Bolsonaro",
     "added_at": "2025-09-11T20:11:00.980Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-11T20:43:41.605Z",
+    "duration_minutes": 33,
+    "duration_str": "33m"
   },
   {
     "title": "Cette drôle de plateforme qui veut favoriser le transfert transfrontalier de cigarettes et d’alcool",
@@ -1293,5 +1295,25 @@
     "removed_at": "2025-09-11T20:15:18.982Z",
     "duration_minutes": 2,
     "duration_str": "2m"
+  },
+  {
+    "title": "Procès contre Jair Bolsonaro : une majorité des juges de la Cour suprême votent en faveur d’une condamnation de l’ancien président brésilien",
+    "added_at": "2025-09-11T20:43:41.605Z",
+    "removed_at": "2025-09-11T21:09:43.413Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "Procès contre Jair Bolsonaro : l’ancien président brésilien condamné pour tentative de coup d’Etat",
+    "added_at": "2025-09-11T21:09:43.413Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Police : le « guide opérationnel des violences urbaines » expurgé de références aux journalistes par le ministère de l’intérieur",
+    "added_at": "2025-09-11T21:11:50.029Z",
+    "removed_at": "2025-09-11T21:20:32.492Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
   }
 ]
