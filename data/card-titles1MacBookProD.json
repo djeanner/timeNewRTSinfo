@@ -15030,7 +15030,10 @@
   },
   {
     "title": "Votations fédérales du 28 septembre 2025: participez à notre deuxième sondage",
-    "added_at": "2025-09-05T16:32:42.904Z"
+    "added_at": "2025-09-05T16:32:42.904Z",
+    "removed_at": "2025-09-11T13:21:29.361Z",
+    "duration_minutes": 8448,
+    "duration_str": "5d 20h 48m"
   },
   {
     "title": "L'UE sanctionne Google d'une amende de presque 3 milliards d'euros",
@@ -15293,10 +15296,7 @@
   },
   {
     "title": "Les paysans",
-    "added_at": "2025-09-06T10:24:10.668Z",
-    "removed_at": "2025-09-10T19:08:36.099Z",
-    "duration_minutes": 6284,
-    "duration_str": "4d 8h 44m"
+    "added_at": "2025-09-06T10:24:10.668Z"
   },
   {
     "title": "La police de l'immigration lance un raid contre une usine de Hyundai et LG aux États-Unis",
@@ -16151,7 +16151,10 @@
   },
   {
     "title": "Un attentat à Jérusalem fait au moins 5 morts près d'un arrêt de bus",
-    "added_at": "2025-09-08T16:24:02.570Z"
+    "added_at": "2025-09-08T16:24:02.570Z",
+    "removed_at": "2025-09-11T13:21:29.361Z",
+    "duration_minutes": 4137,
+    "duration_str": "2d 20h 57m"
   },
   {
     "title": "Le chauffard qui a foncé dans la foule samedi à Lausanne a été libéré",
@@ -16437,7 +16440,10 @@
   },
   {
     "title": "Des messages féministes en lettres blanches géantes s'affichent près de la gare de Zurich",
-    "added_at": "2025-09-09T12:55:02.071Z"
+    "added_at": "2025-09-09T12:55:02.071Z",
+    "removed_at": "2025-09-11T12:55:24.725Z",
+    "duration_minutes": 2880,
+    "duration_str": "2d"
   },
   {
     "title": "Plus de 1700 fœtus subissent chaque année des troubles liés à la consommation d'alcool pendant la grossesse",
@@ -16455,7 +16461,10 @@
   },
   {
     "title": "Les affiches politiques ne suscitent ni \"colère\", \"ni espoir\", ni \"inquiétude\", selon une étude",
-    "added_at": "2025-09-09T13:16:35.178Z"
+    "added_at": "2025-09-09T13:16:35.178Z",
+    "removed_at": "2025-09-11T13:32:31.008Z",
+    "duration_minutes": 2895,
+    "duration_str": "2d 15m"
   },
   {
     "title": "La réponse des autorités lausannoises aux tensions actuelles: interview de Grégoire Junod",
@@ -16833,9 +16842,9 @@
   {
     "title": "La Russie a lancé contre l’Ukraine la plus grande attaque cordonnée de drones depuis le début de la guerre",
     "added_at": "2025-09-10T14:28:01.034Z",
-    "removed_at": "2025-09-10T22:24:03.278Z",
-    "duration_minutes": 476,
-    "duration_str": "7h 56m"
+    "removed_at": "2025-09-11T13:32:31.008Z",
+    "duration_minutes": 1384,
+    "duration_str": "23h 4m"
   },
   {
     "title": "\"Bloquons tout\" en France: pas de pays à l'arrêt, mais nombreuses actions, certaines émaillées d'incidents",
@@ -16970,7 +16979,10 @@
   },
   {
     "title": "Faut-il introduire une carte d’identité électronique? Débat entre Isabelle Chassot, Alexis Roussel, Benoît Gaillard et J",
-    "added_at": "2025-09-11T10:03:37.346Z"
+    "added_at": "2025-09-11T10:03:37.346Z",
+    "removed_at": "2025-09-11T13:32:31.008Z",
+    "duration_minutes": 208,
+    "duration_str": "3h 28m"
   },
   {
     "title": "L'assistance au suicide ne sera pas mieux encadrée en Suisse",
@@ -17006,5 +17018,28 @@
   {
     "title": "Chasse à l'homme et appels à la vengeance après l'assassinat de Charlie Kirk aux Etats-Unis",
     "added_at": "2025-09-11T12:31:25.009Z"
+  },
+  {
+    "title": "Lucerne accueille Ark Nova, salle de concert et œuvre d'art à la fois d'Anish Kapoor",
+    "added_at": "2025-09-11T12:55:24.725Z"
+  },
+  {
+    "title": "Le canton de Neuchâtel a reçu l'autorisation de tirer quatre loups à la Brévine",
+    "added_at": "2025-09-11T12:59:49.070Z",
+    "removed_at": "2025-09-11T13:32:31.008Z",
+    "duration_minutes": 32,
+    "duration_str": "32m"
+  },
+  {
+    "title": "Condamnations et accusations après l'assassinat de l'influenceur conservateur Charlie Kirk aux Etats-Unis",
+    "added_at": "2025-09-11T13:21:29.361Z"
+  },
+  {
+    "title": "En France, la commission d'enquête sur TikTok préconise un \"couvre-feu numérique\" pour les mineurs",
+    "added_at": "2025-09-11T13:32:31.008Z"
+  },
+  {
+    "title": "Le canton de Neuchâtel a reçu l'autorisation de tirer quatre loups à La Brévine",
+    "added_at": "2025-09-11T13:32:31.008Z"
   }
 ]
