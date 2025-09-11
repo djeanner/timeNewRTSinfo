@@ -16362,7 +16362,10 @@
   },
   {
     "title": "Votre facture d'électricité va-t-elle baisser en 2026? Nos cartes",
-    "added_at": "2025-09-09T09:05:28.815Z"
+    "added_at": "2025-09-09T09:05:28.815Z",
+    "removed_at": "2025-09-11T20:24:02.450Z",
+    "duration_minutes": 3558,
+    "duration_str": "2d 11h 18m"
   },
   {
     "title": "Le Premier ministre népalais démissionne, après des manifestations meurtrières",
@@ -17170,5 +17173,13 @@
   {
     "title": "La Cour suprême condamne l'ex-président brésilien Jair Bolsonaro pour tentative de coup d'Etat",
     "added_at": "2025-09-11T19:27:27.674Z"
+  },
+  {
+    "title": "Le sepsis, un danger sous-estimé en Suisse",
+    "added_at": "2025-09-11T20:21:49.289Z"
+  },
+  {
+    "title": "Apple lance une fonction transformant l'iPhone en secrétaire personnel pour filtrer les appels indésirables",
+    "added_at": "2025-09-11T20:24:02.450Z"
   }
 ]
