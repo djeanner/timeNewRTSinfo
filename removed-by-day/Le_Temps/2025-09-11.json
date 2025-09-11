@@ -131,8 +131,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Le Hamas accuse les Etats-Unis d’être «complices» des frappes israéliennes au Qatar",
     "added_at": "2025-09-11T15:34:24.155Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-11T17:14:48.506Z",
+    "duration_minutes": 100,
+    "duration_str": "1h 40m"
   },
   {
     "title": "cyber:::Giga-fortune, contrats record: un vent de folie souffle autour d’Oracle, championne discrète de la course à l’intelligence artificielle",
@@ -149,6 +150,12 @@
   {
     "title": "economie:::Changer pour survivre: la stratégie de la raffinerie de Cressier face à la transition énergétique",
     "added_at": "2025-09-11T16:33:26.335Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – «Il n’y aura pas d’Etat palestinien», affirme Benyamin Netanyahou",
+    "added_at": "2025-09-11T17:14:48.506Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
