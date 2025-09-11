@@ -15296,10 +15296,7 @@
   },
   {
     "title": "Les paysans",
-    "added_at": "2025-09-06T10:24:10.668Z",
-    "removed_at": "2025-09-11T18:04:51.044Z",
-    "duration_minutes": 7660,
-    "duration_str": "5d 7h 40m"
+    "added_at": "2025-09-06T10:24:10.668Z"
   },
   {
     "title": "La police de l'immigration lance un raid contre une usine de Hyundai et LG aux États-Unis",
@@ -16576,7 +16573,10 @@
   },
   {
     "title": "Alessandra Keller championne du monde de short-track!",
-    "added_at": "2025-09-09T15:48:15.061Z"
+    "added_at": "2025-09-09T15:48:15.061Z",
+    "removed_at": "2025-09-11T19:27:27.674Z",
+    "duration_minutes": 3099,
+    "duration_str": "2d 3h 39m"
   },
   {
     "title": "François Bayrou a remis sa démission à Emmanuel Macron, son successeur connu dans les prochains jours",
@@ -16587,7 +16587,10 @@
   },
   {
     "title": "L'UE s'attaque au gaspillage alimentaire et à la fast fashion",
-    "added_at": "2025-09-09T15:56:56.477Z"
+    "added_at": "2025-09-09T15:56:56.477Z",
+    "removed_at": "2025-09-11T18:54:58.149Z",
+    "duration_minutes": 3058,
+    "duration_str": "2d 2h 58m"
   },
   {
     "title": "Le Premier ministre français François Bayrou renversé par l'Assemblée nationale: interview de Virginie Duby-Muller",
@@ -16662,7 +16665,10 @@
   },
   {
     "title": "Allocution de Guy Parmelin, Conseiller fédéral",
-    "added_at": "2025-09-09T19:31:26.154Z"
+    "added_at": "2025-09-09T19:31:26.154Z",
+    "removed_at": "2025-09-11T19:03:38.636Z",
+    "duration_minutes": 2852,
+    "duration_str": "1d 23h 32m"
   },
   {
     "title": "Un tremblement de terre testé en laboratoire 1000 mètres sous les Alpes",
@@ -17156,5 +17162,13 @@
   {
     "title": "Trois candidats, dont un Romand, encore en lice pour succéder à Thomas Süssli à la tête de l’armée",
     "added_at": "2025-09-11T16:57:26.391Z"
+  },
+  {
+    "title": "Par méconnaissance, nombre de Suisses font de mauvais choix concernant la prévoyance vieillesse",
+    "added_at": "2025-09-11T18:54:58.149Z"
+  },
+  {
+    "title": "La Cour suprême condamne l'ex-président brésilien Jair Bolsonaro pour tentative de coup d'Etat",
+    "added_at": "2025-09-11T19:27:27.674Z"
   }
 ]
