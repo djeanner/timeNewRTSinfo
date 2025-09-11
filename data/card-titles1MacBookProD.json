@@ -3735,10 +3735,7 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T19:02:44.375Z",
-    "removed_at": "2025-09-10T19:08:36.099Z",
-    "duration_minutes": 67685,
-    "duration_str": "47d 5m"
+    "added_at": "2025-07-25T19:02:44.375Z"
   },
   {
     "title": "En Israël, la population sensible au sort des Gazaouis refuse d'en rendre son armée responsable",
@@ -16365,7 +16362,10 @@
   },
   {
     "title": "Le centre d'asile spécifique des Cernets fermera fin novembre",
-    "added_at": "2025-09-09T09:55:07.472Z"
+    "added_at": "2025-09-09T09:55:07.472Z",
+    "removed_at": "2025-09-11T08:01:34.530Z",
+    "duration_minutes": 2766,
+    "duration_str": "1d 22h 6m"
   },
   {
     "title": "La chaîne Spar passe en mains suisses pour 46,5 millions de francs",
@@ -16401,7 +16401,10 @@
   },
   {
     "title": "Sursis pour la ferme biologique de Bassenges sur le campus de l'EPFL",
-    "added_at": "2025-09-09T12:24:34.948Z"
+    "added_at": "2025-09-09T12:24:34.948Z",
+    "removed_at": "2025-09-11T08:40:34.293Z",
+    "duration_minutes": 2655,
+    "duration_str": "1d 20h 15m"
   },
   {
     "title": "Procès en appel pour le meurtrier du parking souterrain des Charmilles en 2019",
@@ -16841,7 +16844,10 @@
   },
   {
     "title": "Violation de l'espace aérien de l'UE : les précisions d'Isabelle Ory à Bruxelles",
-    "added_at": "2025-09-10T16:25:32.517Z"
+    "added_at": "2025-09-10T16:25:32.517Z",
+    "removed_at": "2025-09-11T08:44:59.065Z",
+    "duration_minutes": 979,
+    "duration_str": "16h 19m"
   },
   {
     "title": "La 13e rente doit être financée par la TVA, mais temporairement, décide le National",
@@ -16922,5 +16928,13 @@
   {
     "title": "\"Le palmier\" de Valentine Goby, quand le merveilleux et la menace se côtoient",
     "added_at": "2025-09-11T06:06:23.653Z"
+  },
+  {
+    "title": "Condamnations de la violence et appels à la vengeance après l'assassinat de Charlie Kirk aux Etats-Unis",
+    "added_at": "2025-09-11T08:01:34.530Z"
+  },
+  {
+    "title": "L'abolition de la valeur locative fait \"un arbitrage assez malsain\" entre générations, selon Philippe Nantermod",
+    "added_at": "2025-09-11T08:40:34.293Z"
   }
 ]
