@@ -69,8 +69,9 @@
   {
     "title": "Sport matin - Ajoie, les forçats de la glace",
     "added_at": "2025-09-12T08:29:24.973Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-12T08:33:08.683Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
   },
   {
     "title": "La Comco donne son accord pour la fusion Bâloise-Helvetia, agendée au 5 décembre",
@@ -253,6 +254,12 @@
   {
     "title": "L'ONU soutient un futur Etat palestinien, sans le Hamas",
     "added_at": "2025-09-12T16:05:37.537Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Une association porte plainte après le tir d'une louve par erreur au Mont-Tendre",
+    "added_at": "2025-09-12T16:47:19.045Z",
     "duration_minutes": 0,
     "duration_str": ""
   }

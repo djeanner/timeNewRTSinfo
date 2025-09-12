@@ -14296,9 +14296,9 @@
   {
     "title": "Le résumé de l'actualité romande",
     "added_at": "2025-09-04T05:14:35.113Z",
-    "removed_at": "2025-09-12T10:55:43.127Z",
-    "duration_minutes": 11861,
-    "duration_str": "8d 5h 41m"
+    "removed_at": "2025-09-12T17:09:00.223Z",
+    "duration_minutes": 12234,
+    "duration_str": "8d 11h 54m"
   },
   {
     "title": "Deuil national à Lisbonne au lendemain du déraillement meurtrier d'un funiculaire",
@@ -17097,7 +17097,10 @@
   },
   {
     "title": "L'explosion d'un camion-citerne à Mexico fait trois morts et près de septante blessés",
-    "added_at": "2025-09-11T01:37:05.740Z"
+    "added_at": "2025-09-11T01:37:05.740Z",
+    "removed_at": "2025-09-12T16:47:19.045Z",
+    "duration_minutes": 2350,
+    "duration_str": "1d 15h 10m"
   },
   {
     "title": "Laura Loomer, passée experte pour influencer Donald Trump",
@@ -17191,10 +17194,7 @@
   },
   {
     "title": "Condamnations et accusations après l'assassinat de l'influenceur conservateur Charlie Kirk aux Etats-Unis",
-    "added_at": "2025-09-11T13:21:29.361Z",
-    "removed_at": "2025-09-12T16:07:50.368Z",
-    "duration_minutes": 1606,
-    "duration_str": "1d 2h 46m"
+    "added_at": "2025-09-11T13:21:29.361Z"
   },
   {
     "title": "En France, la commission d'enquête sur TikTok préconise un \"couvre-feu numérique\" pour les mineurs",
@@ -17366,7 +17366,10 @@
   },
   {
     "title": "Sport matin - Ajoie, les forçats de la glace",
-    "added_at": "2025-09-12T08:30:29.505Z"
+    "added_at": "2025-09-12T08:30:29.505Z",
+    "removed_at": "2025-09-12T16:12:22.072Z",
+    "duration_minutes": 461,
+    "duration_str": "7h 41m"
   },
   {
     "title": "La Comco donne son accord pour la fusion Bâloise-Helvetia, agendée au 5 décembre",
@@ -17499,5 +17502,9 @@
   {
     "title": "L'ONU soutient un futur Etat palestinien, sans le Hamas",
     "added_at": "2025-09-12T16:05:37.537Z"
+  },
+  {
+    "title": "Une association porte plainte après le tir d'une louve par erreur au Mont-Tendre",
+    "added_at": "2025-09-12T16:47:19.045Z"
   }
 ]
