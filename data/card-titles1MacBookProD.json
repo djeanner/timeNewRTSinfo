@@ -16741,7 +16741,10 @@
   },
   {
     "title": "Journée de paralysie en France avec le mouvement \"Bloquons tout\"",
-    "added_at": "2025-09-10T04:20:11.862Z"
+    "added_at": "2025-09-10T04:20:11.862Z",
+    "removed_at": "2025-09-12T04:26:58.903Z",
+    "duration_minutes": 2886,
+    "duration_str": "2d 6m"
   },
   {
     "title": "La liberté accordée au mafieux repenti Giovanni Brusca suscite la controverse en Italie",
@@ -16895,7 +16898,10 @@
   },
   {
     "title": "La Russie a lancé contre l’Ukraine la plus grande attaque cordonnée de drones depuis le début de la guerre",
-    "added_at": "2025-09-10T14:28:01.034Z"
+    "added_at": "2025-09-10T14:28:01.034Z",
+    "removed_at": "2025-09-12T05:01:37.634Z",
+    "duration_minutes": 2313,
+    "duration_str": "1d 14h 33m"
   },
   {
     "title": "\"Bloquons tout\" en France: pas de pays à l'arrêt, mais nombreuses actions, certaines émaillées d'incidents",
@@ -17191,7 +17197,10 @@
   },
   {
     "title": "Le sepsis, un danger sous-estimé en Suisse",
-    "added_at": "2025-09-11T20:21:49.289Z"
+    "added_at": "2025-09-11T20:21:49.289Z",
+    "removed_at": "2025-09-12T04:29:05.529Z",
+    "duration_minutes": 487,
+    "duration_str": "8h 7m"
   },
   {
     "title": "Apple lance une fonction transformant l'iPhone en secrétaire personnel pour filtrer les appels indésirables",
@@ -17199,10 +17208,7 @@
   },
   {
     "title": "Sébastien Lecornu, un fidèle compagnon de route d'Emmanuel Macron au poste de Premier ministre",
-    "added_at": "2025-09-11T21:05:19.456Z",
-    "removed_at": "2025-09-11T22:23:34.361Z",
-    "duration_minutes": 78,
-    "duration_str": "1h 18m"
+    "added_at": "2025-09-11T21:05:19.456Z"
   },
   {
     "title": "Trois favoris dans le sprint final à la succession de Thomas Süssli à la tête de l’armée suisse",
@@ -17219,5 +17225,13 @@
   {
     "title": "Qui était Charlie Kirk ?",
     "added_at": "2025-09-12T03:02:05.097Z"
+  },
+  {
+    "title": "Salarier les médecins, une idée choc pour diminuer les coûts de la santé?",
+    "added_at": "2025-09-12T04:26:58.903Z"
+  },
+  {
+    "title": "Sepsis en Suisse: 4000 morts par an, un tueur silencieux sous-estimé",
+    "added_at": "2025-09-12T04:29:05.529Z"
   }
 ]
