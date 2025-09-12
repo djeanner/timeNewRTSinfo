@@ -181,22 +181,23 @@
   {
     "title": "La Russie dit avoir abattu 221 drones dans la nuit, l’une des attaques les plus massives de l’armée ukrainienne",
     "added_at": "2025-09-12T05:03:48.904Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-12T07:03:29.916Z",
+    "duration_minutes": 120,
+    "duration_str": "2h"
   },
   {
     "title": "Proche-Orient : « Il n’y aura pas d’Etat palestinien, cet endroit nous appartient », déclare Benyamin Nétanyahou lors d’un déplacement en Cisjordanie. Retrouvez les informations du 5 au 11 septembre",
     "added_at": "2025-09-12T05:03:48.904Z",
-    "removed_at": "2025-09-12T05:53:53.848Z",
-    "duration_minutes": 50,
-    "duration_str": "50m"
+    "removed_at": "2025-09-12T06:59:06.050Z",
+    "duration_minutes": 115,
+    "duration_str": "1h 55m"
   },
   {
     "title": "L’intrusion russe dans l’espace aérien polonais met en lumière la faiblesse des moyens de l’OTAN pour lutter contre les drones",
     "added_at": "2025-09-12T05:03:48.904Z",
-    "removed_at": "2025-09-12T05:53:53.848Z",
-    "duration_minutes": 50,
-    "duration_str": "50m"
+    "removed_at": "2025-09-12T06:59:06.050Z",
+    "duration_minutes": 115,
+    "duration_str": "1h 55m"
   },
   {
     "title": "Dans Katmandou dévastée, les jeunes redoutent le retour au pouvoir des vieux dirigeants qu’ils ont chassés : « Tout le monde se dit de la génération Z »",
@@ -208,9 +209,9 @@
   {
     "title": "La stratégie gagnante de la Biélorussie, qui obtient une levée des sanctions américaines en échange de libérations de prisonniers politiques",
     "added_at": "2025-09-12T05:03:48.904Z",
-    "removed_at": "2025-09-12T05:53:53.848Z",
-    "duration_minutes": 50,
-    "duration_str": "50m"
+    "removed_at": "2025-09-12T06:59:06.050Z",
+    "duration_minutes": 115,
+    "duration_str": "1h 55m"
   },
   {
     "title": "Sur la Côte d’Azur, l’Hôtel California, une passion de famille",
@@ -221,8 +222,28 @@
   {
     "title": "Niger : plus d’une vingtaine de soldats tués lors d’attaques meurtrières dans l’ouest du pays",
     "added_at": "2025-09-12T05:49:33.890Z",
-    "removed_at": "2025-09-12T05:53:53.848Z",
-    "duration_minutes": 4,
-    "duration_str": "4m"
+    "removed_at": "2025-09-12T06:59:06.050Z",
+    "duration_minutes": 70,
+    "duration_str": "1h 10m"
+  },
+  {
+    "title": "Au Népal, dans Katmandou dévastée, les jeunes redoutent le retour au pouvoir des vieux dirigeants qu’ils ont chassés : « Tout le monde se dit de la génération Z »",
+    "added_at": "2025-09-12T06:39:35.549Z",
+    "removed_at": "2025-09-12T06:59:06.050Z",
+    "duration_minutes": 20,
+    "duration_str": "20m"
+  },
+  {
+    "title": "Climat : malgré une montée en puissance budgétaire, la France sous-finance toujours son adaptation au réchauffement",
+    "added_at": "2025-09-12T06:39:35.549Z",
+    "removed_at": "2025-09-12T06:59:06.050Z",
+    "duration_minutes": 20,
+    "duration_str": "20m"
+  },
+  {
+    "title": "En direct : après l’incursion de drones en Pologne, l’ambassadeur de Russie en France convoqué, révèle le chef de la diplomatie française",
+    "added_at": "2025-09-12T07:03:29.916Z",
+    "duration_minutes": 0,
+    "duration_str": ""
   }
 ]
