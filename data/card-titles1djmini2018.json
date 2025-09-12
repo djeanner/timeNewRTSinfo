@@ -41323,7 +41323,10 @@
   },
   {
     "title": "Un tremblement de terre testé en laboratoire 1000 mètres sous les Alpes",
-    "added_at": "2025-09-09T19:35:20.690Z"
+    "added_at": "2025-09-09T19:35:20.690Z",
+    "removed_at": "2025-09-12T19:18:39.241Z",
+    "duration_minutes": 4303,
+    "duration_str": "2d 23h 43m"
   },
   {
     "title": "La gagnante Joyline Chepngeno disqualifiée et suspendue",
@@ -41391,7 +41394,10 @@
   },
   {
     "title": "Faut-il quitter Spotify ?",
-    "added_at": "2025-09-10T04:19:00.297Z"
+    "added_at": "2025-09-10T04:19:00.297Z",
+    "removed_at": "2025-09-12T21:02:25.056Z",
+    "duration_minutes": 3883,
+    "duration_str": "2d 16h 43m"
   },
   {
     "title": "Journée de paralysie en France avec le mouvement \"Bloquons tout\"",
@@ -41679,7 +41685,10 @@
   },
   {
     "title": "Raids israéliens sur des sites houthis au Yémen, plus de 30 morts selon les rebelles",
-    "added_at": "2025-09-10T19:31:56.755Z"
+    "added_at": "2025-09-10T19:31:56.755Z",
+    "removed_at": "2025-09-12T19:05:30.238Z",
+    "duration_minutes": 2853,
+    "duration_str": "1d 23h 33m"
   },
   {
     "title": "Des super-héros débarquent aux HUG pour redonner le sourire aux enfant hospitalisés",
@@ -41998,10 +42007,7 @@
   },
   {
     "title": "Sport matin - Ajoie, les forçats de la glace",
-    "added_at": "2025-09-12T08:29:24.973Z",
-    "removed_at": "2025-09-12T16:11:13.499Z",
-    "duration_minutes": 461,
-    "duration_str": "7h 41m"
+    "added_at": "2025-09-12T08:29:24.973Z"
   },
   {
     "title": "La Comco donne son accord pour la fusion Bâloise-Helvetia, agendée au 5 décembre",
@@ -42146,5 +42152,20 @@
   {
     "title": "La Suisse menée 2-0 par l'Inde",
     "added_at": "2025-09-12T17:45:51.327Z"
+  },
+  {
+    "title": "La police de proximité de Crans-Montana roule dans un van hippie",
+    "added_at": "2025-09-12T19:05:30.238Z"
+  },
+  {
+    "title": "Au Népal, un gouvernement provisoire assure la transition jusqu'aux élections fixées en mars",
+    "added_at": "2025-09-12T20:36:04.580Z"
+  },
+  {
+    "title": "Le Conseil fédéral cherche des moyens d'aider le bureau de lutte contre le blanchiment d'argent",
+    "added_at": "2025-09-12T21:15:39.006Z",
+    "removed_at": "2025-09-12T21:17:28.962Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
   }
 ]
