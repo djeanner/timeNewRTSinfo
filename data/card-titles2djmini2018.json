@@ -30578,7 +30578,10 @@
   },
   {
     "title": "economie:::Au cœur de Gösgen, la centrale nucléaire à l’arrêt",
-    "added_at": "2025-09-06T11:07:11.215Z"
+    "added_at": "2025-09-06T11:07:11.215Z",
+    "removed_at": "2025-09-12T08:57:41.495Z",
+    "duration_minutes": 8510,
+    "duration_str": "5d 21h 50m"
   },
   {
     "title": "economie:::Face aux droits de douane américains, 88 pays suspendent leurs services postaux avec les Etats-Unis",
@@ -30946,7 +30949,10 @@
   },
   {
     "title": "economie:::En graphiques — Après une décennie de doutes, l’atome se repositionne dans l’équation énergétique mondiale",
-    "added_at": "2025-09-08T06:22:33.807Z"
+    "added_at": "2025-09-08T06:22:33.807Z",
+    "removed_at": "2025-09-12T08:57:41.495Z",
+    "duration_minutes": 5915,
+    "duration_str": "4d 2h 35m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Que sait-on de la dernière proposition de Washington pour mettre fin à la guerre à Gaza?",
@@ -31244,7 +31250,10 @@
   },
   {
     "title": "suisse:::Robert Cramer: «On peut douter de la réelle volonté populaire de remettre le sujet du nucléaire sur la table»",
-    "added_at": "2025-09-09T08:53:00.378Z"
+    "added_at": "2025-09-09T08:53:00.378Z",
+    "removed_at": "2025-09-12T08:57:41.495Z",
+    "duration_minutes": 4324,
+    "duration_str": "3d 4m"
   },
   {
     "title": "monde:::Bobi Wine, le musicien des ghettos devenu le dernier espoir de l’Ouganda",
@@ -31795,10 +31804,7 @@
   },
   {
     "title": "monde:::L’assassinat de Charlie Kirk, symptôme d’une violence politique devenue «nouvelle normalité» aux Etats-Unis",
-    "added_at": "2025-09-11T03:10:02.990Z",
-    "removed_at": "2025-09-12T00:09:09.697Z",
-    "duration_minutes": 1259,
-    "duration_str": "20h 59m"
+    "added_at": "2025-09-11T03:10:02.990Z"
   },
   {
     "title": "economie:::La Chine s’enfonce un peu plus dans la déflation",
@@ -31816,10 +31822,7 @@
   },
   {
     "title": "economie:::La faiblesse du dollar déteint sur l’éclat des bourses américaines",
-    "added_at": "2025-09-11T04:51:42.918Z",
-    "removed_at": "2025-09-11T08:53:12.603Z",
-    "duration_minutes": 241,
-    "duration_str": "4h 1m"
+    "added_at": "2025-09-11T04:51:42.918Z"
   },
   {
     "title": "monde:::«Israël semble pouvoir faire ce qu’il veut sans conséquences de la part des Etats-Unis»",
@@ -31924,7 +31927,10 @@
   },
   {
     "title": "cyber:::Giga-fortune, contrats record: un vent de folie souffle autour d’Oracle, championne discrète de la course à l’intelligence artificielle",
-    "added_at": "2025-09-11T15:39:12.511Z"
+    "added_at": "2025-09-11T15:39:12.511Z",
+    "removed_at": "2025-09-12T08:16:09.983Z",
+    "duration_minutes": 996,
+    "duration_str": "16h 36m"
   },
   {
     "title": "culture:::Au Zurich Film Festival, 114 films et Russell Crowe et Benedict Cumberbatch en invités de marque",
@@ -31949,10 +31955,7 @@
   },
   {
     "title": "monde:::Charlie Kirk, le martyr du trumpisme qui pourrait mettre le feu aux poudres",
-    "added_at": "2025-09-11T18:35:08.569Z",
-    "removed_at": "2025-09-12T00:09:09.697Z",
-    "duration_minutes": 334,
-    "duration_str": "5h 34m"
+    "added_at": "2025-09-11T18:35:08.569Z"
   },
   {
     "title": "monde:::La Cour suprême brésilienne condamne l’ex-président Bolsonaro pour avoir participé à une «organisation criminelle»",
@@ -32031,7 +32034,10 @@
   },
   {
     "title": "cyber:::Comment La Poste utilise WhatsApp et l’intelligence artificielle pour recruter",
-    "added_at": "2025-09-12T04:18:26.130Z"
+    "added_at": "2025-09-12T04:18:26.130Z",
+    "removed_at": "2025-09-12T08:50:07.063Z",
+    "duration_minutes": 271,
+    "duration_str": "4h 31m"
   },
   {
     "title": "cyber:::Intelligence artificielle dans les PME: 10 pièges à éviter",
@@ -32072,10 +32078,21 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Suisse ne serait pas capable de repousser un essaim de drones comme celui observé en Pologne, selon Martin Pfister",
-    "added_at": "2025-09-12T06:47:27.815Z"
+    "added_at": "2025-09-12T06:47:27.815Z",
+    "removed_at": "2025-09-12T07:47:53.820Z",
+    "duration_minutes": 60,
+    "duration_str": "1h"
   },
   {
     "title": "economie:::Sur le front des hydrocarbures russes, le basculement du commerce se confirme",
     "added_at": "2025-09-12T07:00:36.170Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – «Ce n'est pas une erreur»: la Pologne répond fermement à Donald Trump concernant l'intrusion de drones russes",
+    "added_at": "2025-09-12T07:47:53.820Z"
+  },
+  {
+    "title": "monde:::Des Etats-Unis à la France, inquiétante recrudescence d’une violence politique toujours plus tolérée",
+    "added_at": "2025-09-12T08:57:41.495Z"
   }
 ]
