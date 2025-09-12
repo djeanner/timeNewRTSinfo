@@ -128,8 +128,9 @@
   {
     "title": "Eyewitnesses describe what they saw",
     "added_at": "2025-09-11T03:23:16.014Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-12T00:18:57.624Z",
+    "duration_minutes": 1256,
+    "duration_str": "20h 56m"
   },
   {
     "title": "Speaker Johnson explains chaotic scene on House floor",
@@ -631,8 +632,9 @@
   {
     "title": "Free speech advocate condemns killing",
     "added_at": "2025-09-11T16:56:57.054Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-11T23:37:43.227Z",
+    "duration_minutes": 401,
+    "duration_str": "6h 41m"
   },
   {
     "title": "Inside Israel’s operation to kill Hamas leaders in Qatar",
@@ -682,8 +684,9 @@
   {
     "title": "‘We need to do better’: A shaken Washington struggles to come together after Kirk’s death",
     "added_at": "2025-09-11T19:50:44.129Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-12T00:18:57.624Z",
+    "duration_minutes": 268,
+    "duration_str": "4h 28m"
   },
   {
     "title": "Trump admin escalates space race with China, banning visa-holding scientists from working at NASA",
@@ -738,6 +741,12 @@
   {
     "title": "GOP changes rules in Senate to speed confirmation of Trump nominees",
     "added_at": "2025-09-11T23:26:46.828Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Trump says he’ll attend Kirk’s funeral: ‘I have an obligation to do it’",
+    "added_at": "2025-09-11T23:37:43.227Z",
     "duration_minutes": 0,
     "duration_str": ""
   }

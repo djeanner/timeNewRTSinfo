@@ -320,8 +320,9 @@
   {
     "title": "FBI releases first images of ‘person of interest’ in Charlie Kirk killing",
     "added_at": "2025-09-11T17:06:06.743Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-12T00:12:27.889Z",
+    "duration_minutes": 426,
+    "duration_str": "7h 6m"
   },
   {
     "title": "Qatar holds funeral for victims of Israeli attack amid regional solidarity",
@@ -386,8 +387,9 @@
   {
     "title": "Ireland won’t participate in Eurovision 2026 if Israel does: Broadcaster",
     "added_at": "2025-09-11T19:05:20.480Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-11T23:33:25.667Z",
+    "duration_minutes": 268,
+    "duration_str": "4h 28m"
   },
   {
     "title": "Majority on Brazil Supreme Court panel convicts Bolsonaro",
@@ -412,9 +414,8 @@
   {
     "title": "Israel’s Netanyahu says ‘there will be no Palestinian state’",
     "added_at": "2025-09-11T21:20:32.527Z",
-    "removed_at": "2025-09-11T23:05:02.504Z",
-    "duration_minutes": 104,
-    "duration_str": "1h 44m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "US DoJ asks court for emergency ruling to remove Cook from Fed board",
@@ -466,6 +467,20 @@
   {
     "title": "Brazil Supreme Court sentences Bolsonaro for 27 years in coup plot",
     "added_at": "2025-09-11T22:45:28.396Z",
+    "removed_at": "2025-09-11T23:33:25.667Z",
+    "duration_minutes": 48,
+    "duration_str": "48m"
+  },
+  {
+    "title": "Brazil Supreme Court sentences Bolsonaro to 27 years in coup plot",
+    "added_at": "2025-09-11T23:33:25.667Z",
+    "removed_at": "2025-09-11T23:55:04.277Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
+  },
+  {
+    "title": "Brazil Supreme Court sentences Bolsonaro to 27 years over coup plot",
+    "added_at": "2025-09-11T23:55:04.277Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
