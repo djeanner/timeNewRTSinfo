@@ -14295,10 +14295,7 @@
   },
   {
     "title": "Le résumé de l'actualité romande",
-    "added_at": "2025-09-04T05:14:35.113Z",
-    "removed_at": "2025-09-12T17:09:00.223Z",
-    "duration_minutes": 12234,
-    "duration_str": "8d 11h 54m"
+    "added_at": "2025-09-04T05:14:35.113Z"
   },
   {
     "title": "Deuil national à Lisbonne au lendemain du déraillement meurtrier d'un funiculaire",
@@ -14778,7 +14775,10 @@
   },
   {
     "title": "Couleurs locales signé",
-    "added_at": "2025-09-05T05:49:05.262Z"
+    "added_at": "2025-09-05T05:49:05.262Z",
+    "removed_at": "2025-09-12T18:03:27.681Z",
+    "duration_minutes": 10814,
+    "duration_str": "7d 12h 14m"
   },
   {
     "title": "Lancement d'une prospection géothermique dans le Nord vaudois",
@@ -17035,7 +17035,10 @@
   },
   {
     "title": "\"Bloquons tout\" en France: des dizaines de milliers de manifestants, des tensions mais pas de paralysie",
-    "added_at": "2025-09-10T19:04:09.812Z"
+    "added_at": "2025-09-10T19:04:09.812Z",
+    "removed_at": "2025-09-12T18:05:42.845Z",
+    "duration_minutes": 2821,
+    "duration_str": "1d 23h 1m"
   },
   {
     "title": "En Ukraine, le football redonne espoir aux vétérans de guerre amputés",
@@ -17116,7 +17119,10 @@
   },
   {
     "title": "\"Le palmier\" de Valentine Goby, quand le merveilleux et la menace se côtoient",
-    "added_at": "2025-09-11T06:06:23.653Z"
+    "added_at": "2025-09-11T06:06:23.653Z",
+    "removed_at": "2025-09-12T17:46:04.962Z",
+    "duration_minutes": 2139,
+    "duration_str": "1d 11h 39m"
   },
   {
     "title": "Condamnations de la violence et appels à la vengeance après l'assassinat de Charlie Kirk aux Etats-Unis",
@@ -17506,5 +17512,13 @@
   {
     "title": "Une association porte plainte après le tir d'une louve par erreur au Mont-Tendre",
     "added_at": "2025-09-12T16:47:19.045Z"
+  },
+  {
+    "title": "L'Otan renforce la défense de son flanc est après l'intrusion de drones russes en Pologne",
+    "added_at": "2025-09-12T17:22:09.661Z"
+  },
+  {
+    "title": "La Suisse menée 2-0 par l'Inde",
+    "added_at": "2025-09-12T17:46:04.962Z"
   }
 ]
