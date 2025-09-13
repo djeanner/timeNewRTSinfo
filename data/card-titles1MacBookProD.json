@@ -15290,7 +15290,10 @@
   },
   {
     "title": "Les paysans",
-    "added_at": "2025-09-06T10:24:10.668Z"
+    "added_at": "2025-09-06T10:24:10.668Z",
+    "removed_at": "2025-09-13T16:47:54.198Z",
+    "duration_minutes": 10463,
+    "duration_str": "7d 6h 23m"
   },
   {
     "title": "La police de l'immigration lance un raid contre une usine de Hyundai et LG aux États-Unis",
@@ -17432,11 +17435,17 @@
   },
   {
     "title": "120 secondes - La diffusion de la bande FM en Suisse pourrait être prolongée",
-    "added_at": "2025-09-12T06:04:48.087Z"
+    "added_at": "2025-09-12T06:04:48.087Z",
+    "removed_at": "2025-09-13T17:11:49.511Z",
+    "duration_minutes": 2107,
+    "duration_str": "1d 11h 7m"
   },
   {
     "title": "Camilla Sparksss, Elie Zoé, Éna Vera, Mel D et Prune Carmen Diaz, cinq voix suisses à suivre",
-    "added_at": "2025-09-12T06:22:14.483Z"
+    "added_at": "2025-09-12T06:22:14.483Z",
+    "removed_at": "2025-09-13T16:43:34.384Z",
+    "duration_minutes": 2061,
+    "duration_str": "1d 10h 21m"
   },
   {
     "title": "La Russie dit avoir déjoué une attaque massive de 221 drones ukrainiens",
@@ -17445,9 +17454,9 @@
   {
     "title": "Comme l'or, le prix de l'argent flambe et bat des records",
     "added_at": "2025-09-12T08:04:19.135Z",
-    "removed_at": "2025-09-12T09:11:40.800Z",
-    "duration_minutes": 67,
-    "duration_str": "1h 7m"
+    "removed_at": "2025-09-13T17:11:49.511Z",
+    "duration_minutes": 1987,
+    "duration_str": "1d 9h 7m"
   },
   {
     "title": "Des oliviers s'invitent de plus en plus sur les parcelles agricoles suisses",
@@ -17678,23 +17687,17 @@
   {
     "title": "Le Conseil fédéral nomme Benedikt Roos à la tête de l’armée: interview d’André Duvillard",
     "added_at": "2025-09-13T10:02:15.888Z",
-    "removed_at": "2025-09-13T13:25:01.917Z",
-    "duration_minutes": 202,
-    "duration_str": "3h 22m"
+    "removed_at": "2025-09-13T17:11:49.511Z",
+    "duration_minutes": 429,
+    "duration_str": "7h 9m"
   },
   {
     "title": "L’UE doit-elle reporter la fin de la vente de voitures thermiques prévue en 2035? Débat entre Roger Nordmann et Nicolas Leuba",
-    "added_at": "2025-09-13T11:05:33.230Z",
-    "removed_at": "2025-09-13T16:21:40.486Z",
-    "duration_minutes": 316,
-    "duration_str": "5h 16m"
+    "added_at": "2025-09-13T11:05:33.230Z"
   },
   {
     "title": "Drones russes : la Pologne dénonce un acte d'agression. Moscou dément",
-    "added_at": "2025-09-13T11:33:47.620Z",
-    "removed_at": "2025-09-13T11:35:59.072Z",
-    "duration_minutes": 2,
-    "duration_str": "2m"
+    "added_at": "2025-09-13T11:33:47.620Z"
   },
   {
     "title": "Être poli avec l'IA, un pur gaspillage d'énergie?",
@@ -17742,7 +17745,10 @@
   },
   {
     "title": "Manifestation massive à Londres sur fond de colère contre l’immigration",
-    "added_at": "2025-09-13T14:52:23.641Z"
+    "added_at": "2025-09-13T14:52:23.641Z",
+    "removed_at": "2025-09-13T17:05:17.360Z",
+    "duration_minutes": 132,
+    "duration_str": "2h 12m"
   },
   {
     "title": "Trump conditionne les sanctions contre Moscou à l’arrêt des achats de pétrole russe par l’Otan",
@@ -17762,5 +17768,34 @@
   {
     "title": "Donald Trump conditionne les sanctions contre Moscou à l’arrêt des achats de pétrole russe par l’Otan",
     "added_at": "2025-09-13T15:51:16.019Z"
+  },
+  {
+    "title": "Et si l'on créait une carte d'identité universelle pour celles et ceux qui n'en ont pas?",
+    "added_at": "2025-09-13T16:43:34.384Z"
+  },
+  {
+    "title": "Enorme manifestation anti-immigration à Londres sur appel de l'extrême droite",
+    "added_at": "2025-09-13T17:05:17.360Z",
+    "removed_at": "2025-09-13T17:22:41.079Z",
+    "duration_minutes": 17,
+    "duration_str": "17m"
+  },
+  {
+    "title": "Les conséquences de la condamnation de Jaïr Bolsonaro pour le Brésil: interview d’Anaïs Fléchet",
+    "added_at": "2025-09-13T17:07:24.593Z",
+    "removed_at": "2025-09-13T17:11:49.511Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "La paroisse de Gland confie un culte à Thomas Wiesel: interview de Thomas Wiesel et Chantal Rapin",
+    "added_at": "2025-09-13T17:07:24.593Z",
+    "removed_at": "2025-09-13T17:11:49.511Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Enorme manifestation anti-immigration sur appel de l'extrême droite à Londres",
+    "added_at": "2025-09-13T17:22:41.079Z"
   }
 ]
