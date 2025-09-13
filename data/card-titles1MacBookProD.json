@@ -16761,10 +16761,7 @@
   },
   {
     "title": "Faut-il quitter Spotify ?",
-    "added_at": "2025-09-10T04:18:05.458Z",
-    "removed_at": "2025-09-13T05:01:43.947Z",
-    "duration_minutes": 4363,
-    "duration_str": "3d 43m"
+    "added_at": "2025-09-10T04:18:05.458Z"
   },
   {
     "title": "Journée de paralysie en France avec le mouvement \"Bloquons tout\"",
@@ -17687,7 +17684,10 @@
   },
   {
     "title": "L’UE doit-elle reporter la fin de la vente de voitures thermiques prévue en 2035? Débat entre Roger Nordmann et Nicolas Leuba",
-    "added_at": "2025-09-13T11:05:33.230Z"
+    "added_at": "2025-09-13T11:05:33.230Z",
+    "removed_at": "2025-09-13T16:21:40.486Z",
+    "duration_minutes": 316,
+    "duration_str": "5h 16m"
   },
   {
     "title": "Drones russes : la Pologne dénonce un acte d'agression. Moscou dément",
@@ -17746,7 +17746,10 @@
   },
   {
     "title": "Trump conditionne les sanctions contre Moscou à l’arrêt des achats de pétrole russe par l’Otan",
-    "added_at": "2025-09-13T14:52:23.641Z"
+    "added_at": "2025-09-13T14:52:23.641Z",
+    "removed_at": "2025-09-13T15:51:16.019Z",
+    "duration_minutes": 58,
+    "duration_str": "58m"
   },
   {
     "title": "La Suisse s'incline 3-1 face à l'Inde",
@@ -17755,5 +17758,9 @@
   {
     "title": "Chardonne fait sauter les bouchons et bat le record du monde du plop collectif",
     "added_at": "2025-09-13T15:38:05.556Z"
+  },
+  {
+    "title": "Donald Trump conditionne les sanctions contre Moscou à l’arrêt des achats de pétrole russe par l’Otan",
+    "added_at": "2025-09-13T15:51:16.019Z"
   }
 ]
