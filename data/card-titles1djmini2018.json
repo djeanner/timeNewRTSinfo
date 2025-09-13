@@ -38928,7 +38928,10 @@
   },
   {
     "title": "Le résumé de l'actualité romande",
-    "added_at": "2025-09-04T05:15:13.030Z"
+    "added_at": "2025-09-04T05:15:13.030Z",
+    "removed_at": "2025-09-13T23:01:48.823Z",
+    "duration_minutes": 14026,
+    "duration_str": "9d 17h 46m"
   },
   {
     "title": "Deuil national à Lisbonne au lendemain du déraillement meurtrier d'un funiculaire",
@@ -42057,7 +42060,10 @@
   },
   {
     "title": "Qui était Charlie Kirk ?",
-    "added_at": "2025-09-12T03:03:03.126Z"
+    "added_at": "2025-09-12T03:03:03.126Z",
+    "removed_at": "2025-09-13T22:03:18.556Z",
+    "duration_minutes": 2580,
+    "duration_str": "1d 19h"
   },
   {
     "title": "Salarier les médecins, une idée choc pour diminuer les coûts de la santé?",
@@ -42139,7 +42145,10 @@
   },
   {
     "title": "Les Suisses ont des lacunes concernant la prévoyance professionnelle: interview de Roxane Ecoffey",
-    "added_at": "2025-09-12T10:23:44.919Z"
+    "added_at": "2025-09-12T10:23:44.919Z",
+    "removed_at": "2025-09-13T22:24:03.280Z",
+    "duration_minutes": 2160,
+    "duration_str": "1d 12h"
   },
   {
     "title": "Le bilan des émeutes au Népal monte à 51 morts, les  tractations politiques se poursuivent",
@@ -42420,17 +42429,11 @@
   },
   {
     "title": "Les conséquences de la condamnation de Jaïr Bolsonaro pour le Brésil: interview d’Anaïs Fléchet",
-    "added_at": "2025-09-13T17:06:49.653Z",
-    "removed_at": "2025-09-13T17:10:39.834Z",
-    "duration_minutes": 3,
-    "duration_str": "3m"
+    "added_at": "2025-09-13T17:06:49.653Z"
   },
   {
     "title": "La paroisse de Gland confie un culte à Thomas Wiesel: interview de Thomas Wiesel et Chantal Rapin",
-    "added_at": "2025-09-13T17:06:49.653Z",
-    "removed_at": "2025-09-13T17:10:39.834Z",
-    "duration_minutes": 3,
-    "duration_str": "3m"
+    "added_at": "2025-09-13T17:06:49.653Z"
   },
   {
     "title": "Enorme manifestation anti-immigration sur appel de l'extrême droite à Londres",
@@ -42446,7 +42449,10 @@
   },
   {
     "title": "Donald Trump contre la science",
-    "added_at": "2025-09-13T19:22:54.416Z"
+    "added_at": "2025-09-13T19:22:54.416Z",
+    "removed_at": "2025-09-13T22:24:03.280Z",
+    "duration_minutes": 181,
+    "duration_str": "3h 1m"
   },
   {
     "title": "Le profil du suspect de l'assassinat de Charlie Kirk contredit le récit MAGA",
@@ -42455,5 +42461,9 @@
   {
     "title": "La Roumanie affirme qu'un drone a violé son espace aérien pendant des frappes russes sur l'Ukraine",
     "added_at": "2025-09-13T20:27:02.654Z"
+  },
+  {
+    "title": "L'influence de Charlie Kirk marque jusqu'en Suisse",
+    "added_at": "2025-09-13T22:24:03.280Z"
   }
 ]
