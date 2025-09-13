@@ -39408,7 +39408,10 @@
   },
   {
     "title": "Couleurs locales signé",
-    "added_at": "2025-09-05T05:49:08.299Z"
+    "added_at": "2025-09-05T05:49:08.299Z",
+    "removed_at": "2025-09-13T19:00:15.707Z",
+    "duration_minutes": 12311,
+    "duration_str": "8d 13h 11m"
   },
   {
     "title": "Lancement d'une prospection géothermique dans le Nord vaudois",
@@ -41919,7 +41922,10 @@
   },
   {
     "title": "L'arme qui a servi à tuer l'influenceur Charlie Kirk a été retrouvée, le tireur toujours en fuite",
-    "added_at": "2025-09-11T14:38:48.207Z"
+    "added_at": "2025-09-11T14:38:48.207Z",
+    "removed_at": "2025-09-13T19:04:06.032Z",
+    "duration_minutes": 3145,
+    "duration_str": "2d 4h 25m"
   },
   {
     "title": "L’un des enquêteurs qui a blanchi les SIG dans l’affaire de népotisme était un prestataire régulier de la régie",
@@ -42044,7 +42050,10 @@
   },
   {
     "title": "Les alliés de la Pologne renforcent sa défense aérienne après l'intrusion de drones",
-    "added_at": "2025-09-12T02:34:46.473Z"
+    "added_at": "2025-09-12T02:34:46.473Z",
+    "removed_at": "2025-09-13T20:08:11.229Z",
+    "duration_minutes": 2493,
+    "duration_str": "1d 17h 33m"
   },
   {
     "title": "Qui était Charlie Kirk ?",
@@ -42060,7 +42069,10 @@
   },
   {
     "title": "En Hongrie, les parents doivent désormais choisir le prénom de leurs enfants sur une liste officielle",
-    "added_at": "2025-09-12T05:49:01.025Z"
+    "added_at": "2025-09-12T05:49:01.025Z",
+    "removed_at": "2025-09-13T19:05:55.896Z",
+    "duration_minutes": 2236,
+    "duration_str": "1d 13h 16m"
   },
   {
     "title": "120 secondes - La diffusion de la bande FM en Suisse pourrait être prolongée",
@@ -42423,5 +42435,25 @@
   {
     "title": "Enorme manifestation anti-immigration sur appel de l'extrême droite à Londres",
     "added_at": "2025-09-13T17:21:58.016Z"
+  },
+  {
+    "title": "Visite exclusive dans la cave à vins du Conseil fédéral",
+    "added_at": "2025-09-13T18:54:35.845Z"
+  },
+  {
+    "title": "Dans les coulisses de la résistance armée des femmes kurdes en Iran",
+    "added_at": "2025-09-13T19:05:55.896Z"
+  },
+  {
+    "title": "Donald Trump contre la science",
+    "added_at": "2025-09-13T19:22:54.416Z"
+  },
+  {
+    "title": "Le profil du suspect de l'assassinat de Charlie Kirk contredit le récit MAGA",
+    "added_at": "2025-09-13T20:04:25.262Z"
+  },
+  {
+    "title": "La Roumanie affirme qu'un drone a violé son espace aérien pendant des frappes russes sur l'Ukraine",
+    "added_at": "2025-09-13T20:27:02.654Z"
   }
 ]
