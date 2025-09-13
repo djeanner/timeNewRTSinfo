@@ -8226,7 +8226,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z"
+    "added_at": "2025-05-22T18:01:52.008Z",
+    "removed_at": "2025-09-13T11:42:30.390Z",
+    "duration_minutes": 163780,
+    "duration_str": "113d 17h 40m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -33399,7 +33402,10 @@
   },
   {
     "title": "monde:::Suites de l’arrestation du meurtrier présumé de Charlie Kirk: «Un tournant pour l’Amérique»",
-    "added_at": "2025-09-12T18:14:32.099Z"
+    "added_at": "2025-09-12T18:14:32.099Z",
+    "removed_at": "2025-09-13T11:42:30.390Z",
+    "duration_minutes": 1047,
+    "duration_str": "17h 27m"
   },
   {
     "title": "economie:::Dubaï, la concurrente qui monte face à la place financière suisse",
@@ -33456,5 +33462,9 @@
   {
     "title": "sport:::La méthode Siegenthaler, ou comment «le meilleur coureur de VTT de tous les temps», Nino Schurter, a été «fabriqué»",
     "added_at": "2025-09-13T10:17:29.851Z"
+  },
+  {
+    "title": "culture:::Le monde de la musique classique au bord de la cacophonie suite à la déprogrammation en Belgique du chef israélien Lahav Shani",
+    "added_at": "2025-09-13T11:42:30.390Z"
   }
 ]
