@@ -37887,7 +37887,10 @@
   },
   {
     "title": "Romania reports drone incursion during Russian attack on Ukraine",
-    "added_at": "2025-09-14T03:56:40.137Z"
+    "added_at": "2025-09-14T03:56:40.137Z",
+    "removed_at": "2025-09-14T10:27:14.531Z",
+    "duration_minutes": 390,
+    "duration_str": "6h 30m"
   },
   {
     "title": "Rubio due in Israel to discuss war on Gaza after Israeli strike on Qatar",
@@ -37967,7 +37970,10 @@
   },
   {
     "title": "At least 31 people killed after ‘another sleepless night’ across Gaza",
-    "added_at": "2025-09-14T08:48:56.554Z"
+    "added_at": "2025-09-14T08:48:56.554Z",
+    "removed_at": "2025-09-14T11:17:21.016Z",
+    "duration_minutes": 148,
+    "duration_str": "2h 28m"
   },
   {
     "title": "China’s military warns Philippines against provocations in South China Sea",
@@ -37988,5 +37994,20 @@
   {
     "title": "Israeli army carries out its latest ground incursion in southern Syria",
     "added_at": "2025-09-14T10:14:02.746Z"
+  },
+  {
+    "title": "Leaders gather for Arab-Islamic Summit in Qatar after Israel’s Doha attack",
+    "added_at": "2025-09-14T10:27:14.531Z",
+    "removed_at": "2025-09-14T10:38:10.435Z",
+    "duration_minutes": 10,
+    "duration_str": "10m"
+  },
+  {
+    "title": "Leaders gather for Arab-Islamic summit in Qatar after Israel’s Doha attack",
+    "added_at": "2025-09-14T10:38:10.435Z"
+  },
+  {
+    "title": "At least 44 people killed after ‘another sleepless night’ across Gaza",
+    "added_at": "2025-09-14T11:17:21.016Z"
   }
 ]
