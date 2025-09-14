@@ -17697,7 +17697,10 @@
   },
   {
     "title": "Une association porte plainte après le tir d'une louve par erreur au Mont-Tendre",
-    "added_at": "2025-09-12T16:47:19.045Z"
+    "added_at": "2025-09-12T16:47:19.045Z",
+    "removed_at": "2025-09-14T17:00:02.930Z",
+    "duration_minutes": 2892,
+    "duration_str": "2d 12m"
   },
   {
     "title": "L'Otan renforce la défense de son flanc est après l'intrusion de drones russes en Pologne",
@@ -17773,7 +17776,10 @@
   },
   {
     "title": "Le Conseil fédéral nomme Benedikt Roos à la tête de l’armée: interview d’André Duvillard",
-    "added_at": "2025-09-13T10:02:15.888Z"
+    "added_at": "2025-09-13T10:02:15.888Z",
+    "removed_at": "2025-09-14T17:04:28.069Z",
+    "duration_minutes": 1862,
+    "duration_str": "1d 7h 2m"
   },
   {
     "title": "L’UE doit-elle reporter la fin de la vente de voitures thermiques prévue en 2035? Débat entre Roger Nordmann et Nicolas Leuba",
@@ -17781,7 +17787,10 @@
   },
   {
     "title": "Drones russes : la Pologne dénonce un acte d'agression. Moscou dément",
-    "added_at": "2025-09-13T11:33:47.620Z"
+    "added_at": "2025-09-13T11:33:47.620Z",
+    "removed_at": "2025-09-14T16:23:04.751Z",
+    "duration_minutes": 1729,
+    "duration_str": "1d 4h 49m"
   },
   {
     "title": "Être poli avec l'IA, un pur gaspillage d'énergie?",
@@ -17892,10 +17901,7 @@
   },
   {
     "title": "Donald Trump contre la science",
-    "added_at": "2025-09-13T19:22:40.556Z",
-    "removed_at": "2025-09-14T16:03:17.087Z",
-    "duration_minutes": 1240,
-    "duration_str": "20h 40m"
+    "added_at": "2025-09-13T19:22:40.556Z"
   },
   {
     "title": "Le profil du suspect de l'assassinat de Charlie Kirk contredit le récit MAGA",
@@ -17976,10 +17982,7 @@
   },
   {
     "title": "Une carte d'identité universelle pour ceux qui n'en ont pas",
-    "added_at": "2025-09-14T12:27:15.284Z",
-    "removed_at": "2025-09-14T12:31:36.038Z",
-    "duration_minutes": 4,
-    "duration_str": "4m"
+    "added_at": "2025-09-14T12:27:15.284Z"
   },
   {
     "title": "Les Etats-Unis prêts à revoir à la baisse le nombre de F-35 commandés par la Suisse pour garder le même prix",
@@ -18020,5 +18023,9 @@
   {
     "title": "Les rails du tunnel de base du Gothard doivent être remplacés plus tôt que prévu",
     "added_at": "2025-09-14T15:30:35.318Z"
+  },
+  {
+    "title": "Dernière étape annulée, Vingegaard sacré",
+    "added_at": "2025-09-14T17:00:02.930Z"
   }
 ]
