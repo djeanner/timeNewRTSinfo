@@ -389,9 +389,8 @@
   {
     "title": "Ces vies englouties par le chantier de l’autoroute A69 : « C’est un spectacle de désolation, je n’arrive pas à m’y faire »",
     "added_at": "2025-09-14T09:16:58.215Z",
-    "removed_at": "2025-09-14T20:29:27.533Z",
-    "duration_minutes": 672,
-    "duration_str": "11h 12m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "La FNSEA appelle à manifester le 25 septembre, notamment contre « le Mercosur et le flot des importations qui ne respectent pas les normes »",
@@ -963,8 +962,9 @@
   {
     "title": "L’ambassadeur russe en Roumanie convoqué après l’intrusion d’un drone",
     "added_at": "2025-09-14T16:44:42.494Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-14T22:16:32.899Z",
+    "duration_minutes": 332,
+    "duration_str": "5h 32m"
   },
   {
     "title": "« Severance » et « The Pitt », favorites pour le titre de meilleure série dramatique aux Emmy Awards",
@@ -975,8 +975,9 @@
   {
     "title": "En direct, guerre en Ukraine : l’ambassadeur russe en Roumanie convoqué après l’intrusion d’un drone",
     "added_at": "2025-09-14T17:01:42.175Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-14T22:31:47.643Z",
+    "duration_minutes": 330,
+    "duration_str": "5h 30m"
   },
   {
     "title": "Le valet de chambre, un porte-vêtement corvéable à merci",
@@ -1053,15 +1054,27 @@
   {
     "title": "Euro de basket masculin : l’Allemagne sacrée pour la deuxième fois après son succès contre la Turquie",
     "added_at": "2025-09-14T20:44:47.552Z",
-    "removed_at": "2025-09-14T22:07:41.035Z",
-    "duration_minutes": 83,
-    "duration_str": "1h 23m"
+    "removed_at": "2025-09-14T23:06:30.978Z",
+    "duration_minutes": 142,
+    "duration_str": "2h 22m"
   },
   {
     "title": "Les brèves critiques de la rentrée littéraire : Marc Graciano, Kathleen Jamie, Audur Ava Olafsdottir…",
     "added_at": "2025-09-14T21:24:06.104Z",
-    "removed_at": "2025-09-14T22:07:41.035Z",
-    "duration_minutes": 44,
-    "duration_str": "44m"
+    "removed_at": "2025-09-14T23:06:30.978Z",
+    "duration_minutes": 102,
+    "duration_str": "1h 42m"
+  },
+  {
+    "title": "La Roumanie fait part à l’ambassadeur russe de « sa vive protestation » face à un « acte inacceptable et irresponsable », après l’intrusion d’un drone dans son espace aérien",
+    "added_at": "2025-09-14T22:16:32.899Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "En direct, guerre en Ukraine : la Roumanie fait part à l’ambassadeur russe de « sa vive protestation » face à un « acte inacceptable et irresponsable », après l’intrusion d’un drone dans son espace aérien",
+    "added_at": "2025-09-14T22:31:47.643Z",
+    "duration_minutes": 0,
+    "duration_str": ""
   }
 ]
