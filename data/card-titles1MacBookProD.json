@@ -17352,7 +17352,10 @@
   },
   {
     "title": "Fedpol pointée du doigt pour une mauvaise gestion du personnel",
-    "added_at": "2025-09-11T16:22:37.920Z"
+    "added_at": "2025-09-11T16:22:37.920Z",
+    "removed_at": "2025-09-15T16:23:30.385Z",
+    "duration_minutes": 5760,
+    "duration_str": "4d"
   },
   {
     "title": "Le bronze pour le relais mixte suisse",
@@ -17783,7 +17786,10 @@
   },
   {
     "title": "\"Donald Trump finit par jouer le jeu de Vladimir Poutine\"",
-    "added_at": "2025-09-13T05:38:44.902Z"
+    "added_at": "2025-09-13T05:38:44.902Z",
+    "removed_at": "2025-09-15T16:03:52.801Z",
+    "duration_minutes": 3505,
+    "duration_str": "2d 10h 25m"
   },
   {
     "title": "La violence du harcèlement scolaire, la carte du prix de l'électricité et une piscine dans un camion",
@@ -17918,7 +17924,10 @@
   },
   {
     "title": "Les emblématiques navires postaux norvégiens sont menacés",
-    "added_at": "2025-09-13T13:38:05.591Z"
+    "added_at": "2025-09-13T13:38:05.591Z",
+    "removed_at": "2025-09-15T16:38:44.651Z",
+    "duration_minutes": 3060,
+    "duration_str": "2d 3h"
   },
   {
     "title": "Inauguration du tunnel de contournement du village des Evouettes à Port-Valais après huit ans de travaux",
@@ -18363,5 +18372,13 @@
   {
     "title": "Début du procès d'un ex-soldat britannique impliqué dans le \"Bloody Sunday\" en Irlande du Nord",
     "added_at": "2025-09-15T15:50:33.532Z"
+  },
+  {
+    "title": "Un fourgon de police “Peace & Love” détonne à Crans-Montana (VS)",
+    "added_at": "2025-09-15T16:23:30.385Z"
+  },
+  {
+    "title": "Mais où sont les poches des habits conçus pour les femmes?",
+    "added_at": "2025-09-15T16:38:44.651Z"
   }
 ]
