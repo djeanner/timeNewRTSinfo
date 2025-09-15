@@ -33732,7 +33732,10 @@
   },
   {
     "title": "sport:::Les manifestants propalestiniens font définitivement dérailler la Vuelta",
-    "added_at": "2025-09-14T19:28:32.856Z"
+    "added_at": "2025-09-14T19:28:32.856Z",
+    "removed_at": "2025-09-15T05:03:54.238Z",
+    "duration_minutes": 575,
+    "duration_str": "9h 35m"
   },
   {
     "title": "monde:::Avant une audience cruciale pour le CHP, des dizaines de milliers de personnes défilent à Ankara",
@@ -33743,7 +33746,10 @@
   },
   {
     "title": "culture:::Aujourd’hui en Suisse, la peinture figurative se décline au féminin pluriel",
-    "added_at": "2025-09-14T19:45:55.124Z"
+    "added_at": "2025-09-14T19:45:55.124Z",
+    "removed_at": "2025-09-15T05:58:11.634Z",
+    "duration_minutes": 612,
+    "duration_str": "10h 12m"
   },
   {
     "title": "monde:::Guerre en Ukraine – Notre suivi de la semaine du 8 septembre",
@@ -33788,5 +33794,13 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump met en garde Israël quelques jours après son attaque contre des responsables du Hamas au Qatar",
     "added_at": "2025-09-15T04:37:37.459Z"
+  },
+  {
+    "title": "suisse:::«L’e-ID permet aux citoyens d’avoir le contrôle sur leurs données personnelles»",
+    "added_at": "2025-09-15T05:03:54.238Z"
+  },
+  {
+    "title": "sciences:::Entre inondations, sécheresses et canicules en Europe, l’été 2025 a coûté 40 milliards de francs",
+    "added_at": "2025-09-15T05:58:11.634Z"
   }
 ]
