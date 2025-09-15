@@ -41978,7 +41978,10 @@
   },
   {
     "title": "Fedpol pointée du doigt pour une mauvaise gestion du personnel",
-    "added_at": "2025-09-11T16:22:57.034Z"
+    "added_at": "2025-09-11T16:22:57.034Z",
+    "removed_at": "2025-09-15T16:23:19.635Z",
+    "duration_minutes": 5760,
+    "duration_str": "4d"
   },
   {
     "title": "Le bronze pour le relais mixte suisse",
@@ -42409,7 +42412,10 @@
   },
   {
     "title": "\"Donald Trump finit par jouer le jeu de Vladimir Poutine\"",
-    "added_at": "2025-09-13T05:37:29.706Z"
+    "added_at": "2025-09-13T05:37:29.706Z",
+    "removed_at": "2025-09-15T16:04:25.828Z",
+    "duration_minutes": 3506,
+    "duration_str": "2d 10h 26m"
   },
   {
     "title": "La violence du harcèlement scolaire, la carte du prix de l'électricité et une piscine dans un camion",
@@ -42505,7 +42511,10 @@
   },
   {
     "title": "Podcast: à Kherson, vivre sous la menace des drones",
-    "added_at": "2025-09-13T12:49:55.092Z"
+    "added_at": "2025-09-13T12:49:55.092Z",
+    "removed_at": "2025-09-15T15:50:59.047Z",
+    "duration_minutes": 3061,
+    "duration_str": "2d 3h 1m"
   },
   {
     "title": "Amélie Nothomb: \"A 11 ans, je me suis prise d'une passion folle pour l'ornithologie\"",
@@ -42548,11 +42557,17 @@
   },
   {
     "title": "Les emblématiques navires postaux norvégiens sont menacés",
-    "added_at": "2025-09-13T13:38:55.558Z"
+    "added_at": "2025-09-13T13:38:55.558Z",
+    "removed_at": "2025-09-15T16:38:23.929Z",
+    "duration_minutes": 3059,
+    "duration_str": "2d 2h 59m"
   },
   {
     "title": "La marque de cosmétique Weleda épinglée pour son passé avec le régime nazi",
-    "added_at": "2025-09-13T13:56:04.318Z"
+    "added_at": "2025-09-13T13:56:04.318Z",
+    "removed_at": "2025-09-15T17:47:57.797Z",
+    "duration_minutes": 3111,
+    "duration_str": "2d 3h 51m"
   },
   {
     "title": "Le retour des taux négatifs menace les retraites en Suisse",
@@ -42811,9 +42826,9 @@
   {
     "title": "L’impact politique de Charlie Kirk avant sa mort: interview de Sébastien Mort",
     "added_at": "2025-09-14T21:03:31.454Z",
-    "removed_at": "2025-09-15T10:19:46.768Z",
-    "duration_minutes": 796,
-    "duration_str": "13h 16m"
+    "removed_at": "2025-09-15T15:41:29.582Z",
+    "duration_minutes": 1117,
+    "duration_str": "18h 37m"
   },
   {
     "title": "Cyclisme: la 21e étape de la Vuelta a été annulée",
@@ -42825,7 +42840,10 @@
   },
   {
     "title": "Vaud: quels droits politiques pour les étrangers au niveau communal?",
-    "added_at": "2025-09-15T01:18:19.170Z"
+    "added_at": "2025-09-15T01:18:19.170Z",
+    "removed_at": "2025-09-15T17:03:56.369Z",
+    "duration_minutes": 945,
+    "duration_str": "15h 45m"
   },
   {
     "title": "\"Hamnet\", un film inspiré de la vie de William Shakespeare, triomphe au festival de Toronto",
@@ -42863,16 +42881,13 @@
   {
     "title": "À bout de souffle",
     "added_at": "2025-09-15T06:10:45.397Z",
-    "removed_at": "2025-09-15T09:42:00.767Z",
-    "duration_minutes": 211,
-    "duration_str": "3h 31m"
+    "removed_at": "2025-09-15T15:41:29.582Z",
+    "duration_minutes": 570,
+    "duration_str": "9h 30m"
   },
   {
     "title": "Le Forum des médias - La France va-t-elle (enfin) apprendre l’art du compromis?",
-    "added_at": "2025-09-15T06:10:45.397Z",
-    "removed_at": "2025-09-15T10:19:46.768Z",
-    "duration_minutes": 249,
-    "duration_str": "4h 9m"
+    "added_at": "2025-09-15T06:10:45.397Z"
   },
   {
     "title": "Le jeu vidéo Super Mario Bros. fête ses 40 ans",
@@ -42982,5 +42997,21 @@
   {
     "title": "L'ADN du suspect retrouvé près du lieu de l'assassinat de Charlie Kirk",
     "added_at": "2025-09-15T15:20:33.697Z"
+  },
+  {
+    "title": "Début du procès d'un ex-soldat britannique impliqué dans le \"Bloody Sunday\" en Irlande du Nord",
+    "added_at": "2025-09-15T15:50:59.047Z"
+  },
+  {
+    "title": "Un fourgon de police “Peace & Love” détonne à Crans-Montana (VS)",
+    "added_at": "2025-09-15T16:23:19.635Z"
+  },
+  {
+    "title": "Mais où sont les poches des habits conçus pour les femmes?",
+    "added_at": "2025-09-15T16:38:23.929Z"
+  },
+  {
+    "title": "Le Conseil des Etats rejette le frein aux mesures pour les banques \"too big to fail\"",
+    "added_at": "2025-09-15T17:47:57.797Z"
   }
 ]
