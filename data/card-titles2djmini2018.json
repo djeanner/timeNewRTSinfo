@@ -32517,7 +32517,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Roumanie affirme qu’un drone a violé son espace aérien pendant des frappes russes",
-    "added_at": "2025-09-14T05:58:30.760Z"
+    "added_at": "2025-09-14T05:58:30.760Z",
+    "removed_at": "2025-09-14T23:02:26.166Z",
+    "duration_minutes": 1023,
+    "duration_str": "17h 3m"
   },
   {
     "title": "monde:::«L’humour contre la rumeur», la recette de Taïwan contre la désinformation chinoise",
@@ -32583,7 +32586,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Qatar exhorte la communauté internationale à sanctionner Israël",
-    "added_at": "2025-09-14T15:40:13.470Z"
+    "added_at": "2025-09-14T15:40:13.470Z",
+    "removed_at": "2025-09-14T23:17:34.678Z",
+    "duration_minutes": 457,
+    "duration_str": "7h 37m"
   },
   {
     "title": "sport:::Terence Crawford, un boxeur qui fait enfin l’unanimité",
@@ -32637,5 +32643,20 @@
   {
     "title": "culture:::Aujourd’hui en Suisse, la peinture figurative se décline au féminin pluriel",
     "added_at": "2025-09-14T19:44:11.606Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Notre suivi de la semaine du 8 septembre",
+    "added_at": "2025-09-14T23:02:26.166Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Notre suivi de la semaine du 8 septembre",
+    "added_at": "2025-09-14T23:17:34.678Z",
+    "removed_at": "2025-09-14T23:36:22.025Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Dirigeants arabes et musulmans à Doha pour condamner l'attaque d'Israël",
+    "added_at": "2025-09-14T23:36:22.025Z"
   }
 ]
