@@ -42297,7 +42297,10 @@
   },
   {
     "title": "Le tueur présumé de Charlie Kirk a été arrêté",
-    "added_at": "2025-09-12T14:14:15.901Z"
+    "added_at": "2025-09-12T14:14:15.901Z",
+    "removed_at": "2025-09-15T09:15:37.380Z",
+    "duration_minutes": 4021,
+    "duration_str": "2d 19h 1m"
   },
   {
     "title": "Le canton de Neuchâtel a dû se résoudre à abattre \"Diego\" le lynx",
@@ -42357,7 +42360,10 @@
   },
   {
     "title": "L'Otan renforce la défense de son flanc est après l'intrusion de drones russes en Pologne",
-    "added_at": "2025-09-12T17:21:16.936Z"
+    "added_at": "2025-09-12T17:21:16.936Z",
+    "removed_at": "2025-09-15T08:47:19.696Z",
+    "duration_minutes": 3806,
+    "duration_str": "2d 15h 26m"
   },
   {
     "title": "La Suisse menée 2-0 par l'Inde",
@@ -42368,7 +42374,10 @@
   },
   {
     "title": "La police de proximité de Crans-Montana roule dans un van hippie",
-    "added_at": "2025-09-12T19:05:30.238Z"
+    "added_at": "2025-09-12T19:05:30.238Z",
+    "removed_at": "2025-09-15T09:32:35.895Z",
+    "duration_minutes": 3747,
+    "duration_str": "2d 14h 27m"
   },
   {
     "title": "Au Népal, un gouvernement provisoire assure la transition jusqu'aux élections fixées en mars",
@@ -42404,7 +42413,10 @@
   },
   {
     "title": "La violence du harcèlement scolaire, la carte du prix de l'électricité et une piscine dans un camion",
-    "added_at": "2025-09-13T06:09:30.764Z"
+    "added_at": "2025-09-13T06:09:30.764Z",
+    "removed_at": "2025-09-15T09:11:53.608Z",
+    "duration_minutes": 3062,
+    "duration_str": "2d 3h 2m"
   },
   {
     "title": "Thomas Wiesel, la carte humour pour faire revenir les fidèles sur les bancs de l'église",
@@ -42412,11 +42424,17 @@
   },
   {
     "title": "Fitch baisse la note de la France à \"A+\" pour ses incertitudes budgétaires",
-    "added_at": "2025-09-13T06:41:35.920Z"
+    "added_at": "2025-09-13T06:41:35.920Z",
+    "removed_at": "2025-09-15T10:04:39.040Z",
+    "duration_minutes": 3083,
+    "duration_str": "2d 3h 23m"
   },
   {
     "title": "Les architectes suisses",
-    "added_at": "2025-09-13T07:17:31.953Z"
+    "added_at": "2025-09-13T07:17:31.953Z",
+    "removed_at": "2025-09-15T09:28:51.956Z",
+    "duration_minutes": 3011,
+    "duration_str": "2d 2h 11m"
   },
   {
     "title": "Pourquoi quinze habitants sur cent suffisent pour gagner une votation?",
@@ -42763,9 +42781,9 @@
   {
     "title": "L’impact politique de Charlie Kirk avant sa mort: interview de Sébastien Mort",
     "added_at": "2025-09-14T21:03:31.454Z",
-    "removed_at": "2025-09-15T06:12:35.252Z",
-    "duration_minutes": 549,
-    "duration_str": "9h 9m"
+    "removed_at": "2025-09-15T10:19:46.768Z",
+    "duration_minutes": 796,
+    "duration_str": "13h 16m"
   },
   {
     "title": "Cyclisme: la 21e étape de la Vuelta a été annulée",
@@ -42815,16 +42833,16 @@
   {
     "title": "À bout de souffle",
     "added_at": "2025-09-15T06:10:45.397Z",
-    "removed_at": "2025-09-15T06:12:35.252Z",
-    "duration_minutes": 1,
-    "duration_str": "1m"
+    "removed_at": "2025-09-15T09:42:00.767Z",
+    "duration_minutes": 211,
+    "duration_str": "3h 31m"
   },
   {
     "title": "Le Forum des médias - La France va-t-elle (enfin) apprendre l’art du compromis?",
     "added_at": "2025-09-15T06:10:45.397Z",
-    "removed_at": "2025-09-15T06:12:35.252Z",
-    "duration_minutes": 1,
-    "duration_str": "1m"
+    "removed_at": "2025-09-15T10:19:46.768Z",
+    "duration_minutes": 249,
+    "duration_str": "4h 9m"
   },
   {
     "title": "Le jeu vidéo Super Mario Bros. fête ses 40 ans",
@@ -42866,5 +42884,29 @@
   {
     "title": "Les patrons des grandes entreprises gagnent 143 fois plus que les employés: \"Indécent\", réagit la présidente d'Unia",
     "added_at": "2025-09-15T07:03:28.068Z"
+  },
+  {
+    "title": "Le premier championnat suisse de chasse-neige s'est tenu en Argovie",
+    "added_at": "2025-09-15T08:47:19.696Z"
+  },
+  {
+    "title": "Un accord historique liant pêche et environnement entre en vigueur à l'OMC",
+    "added_at": "2025-09-15T09:11:53.608Z"
+  },
+  {
+    "title": "La météo extrême de l'été 2025 a coûté 40 milliards à l'Europe et jusqu'à 120 milliards sur le long terme",
+    "added_at": "2025-09-15T09:15:37.380Z"
+  },
+  {
+    "title": "La HE-Arc de Neuchâtel teste la semaine de quatre jours, un projet-pilote inédit",
+    "added_at": "2025-09-15T09:28:51.956Z"
+  },
+  {
+    "title": "La flottille pour Gaza a quitté la Tunisie et fait route vers l'enclave palestinienne assiégée",
+    "added_at": "2025-09-15T09:32:35.895Z"
+  },
+  {
+    "title": "Michel Bussi tisse une intrigue familiale sur fond de tragédie rwandaise",
+    "added_at": "2025-09-15T10:04:39.040Z"
   }
 ]
