@@ -17694,7 +17694,10 @@
   },
   {
     "title": "L'UE va réexaminer l'interdiction prévue en 2035 des véhicules thermiques",
-    "added_at": "2025-09-12T15:59:06.277Z"
+    "added_at": "2025-09-12T15:59:06.277Z",
+    "removed_at": "2025-09-15T04:26:41.829Z",
+    "duration_minutes": 3627,
+    "duration_str": "2d 12h 27m"
   },
   {
     "title": "Le Conseil d'Etat vaudois veut supprimer les rentes à vie de l'exécutif cantonal",
@@ -18132,5 +18135,16 @@
   {
     "title": "\"Hamnet\", un film inspiré de la vie de William Shakespeare, triomphe au festival de Toronto",
     "added_at": "2025-09-15T02:09:30.257Z"
+  },
+  {
+    "title": "Orania, ville-enclave d'Afrique du Sud bâtie sur les valeurs de l'apartheid",
+    "added_at": "2025-09-15T04:26:41.829Z",
+    "removed_at": "2025-09-15T04:31:05.996Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Orania, ville-enclave d'Afrique du Sud bâtie sur l'idéologie de l'apartheid",
+    "added_at": "2025-09-15T04:31:05.996Z"
   }
 ]
