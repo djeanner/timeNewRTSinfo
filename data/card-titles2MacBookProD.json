@@ -33682,7 +33682,10 @@
   },
   {
     "title": "suisse:::Des enfants sont hospitalisés faute de place en foyers",
-    "added_at": "2025-09-14T15:21:51.195Z"
+    "added_at": "2025-09-14T15:21:51.195Z",
+    "removed_at": "2025-09-16T04:58:11.230Z",
+    "duration_minutes": 2256,
+    "duration_str": "1d 13h 36m"
   },
   {
     "title": "monde:::En Ukraine, le dernier été de la jeunesse de Droujkivka: «Ici, le soleil brille comme nulle part ailleurs»",
@@ -33974,11 +33977,17 @@
   },
   {
     "title": "culture:::A La Tour-de-Peilz après Yverdon et Genève, les arTpenteurs nous invitent au bord de leur monde",
-    "added_at": "2025-09-15T18:39:13.316Z"
+    "added_at": "2025-09-15T18:39:13.316Z",
+    "removed_at": "2025-09-16T05:04:44.288Z",
+    "duration_minutes": 625,
+    "duration_str": "10h 25m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les dirigeants arabes et musulmans veulent «revoir» leurs liens avec Israël",
-    "added_at": "2025-09-15T18:39:13.316Z"
+    "added_at": "2025-09-15T18:39:13.316Z",
+    "removed_at": "2025-09-16T04:53:50.314Z",
+    "duration_minutes": 614,
+    "duration_str": "10h 14m"
   },
   {
     "title": "economie:::Le Sénat américain confirme la nomination d'un conseiller de Trump à la Fed",
@@ -33993,10 +34002,21 @@
   },
   {
     "title": "economie:::Le Sénat américain confirme la nomination de Stephen Miran, un conseiller de Donald Trump, à la Fed",
-    "added_at": "2025-09-16T03:35:05.499Z"
+    "added_at": "2025-09-16T03:35:05.499Z",
+    "removed_at": "2025-09-16T05:04:44.288Z",
+    "duration_minutes": 89,
+    "duration_str": "1h 29m"
   },
   {
     "title": "economie:::L’électricité à Yverdon, 277% plus chère que dans le Haut-Valais",
     "added_at": "2025-09-16T04:07:56.327Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – «Gaza brûle», déclare le ministre israélien de la Défense après des frappes nocturnes",
+    "added_at": "2025-09-16T04:53:50.314Z"
+  },
+  {
+    "title": "monde:::Le vice-président des Etats-Unis remplace Charlie Kirk pour présenter son podcast hebdomadaire. Et prévient que sa mort ne restera pas impunie",
+    "added_at": "2025-09-16T05:04:44.288Z"
   }
 ]
