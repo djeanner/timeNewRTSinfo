@@ -70,7 +70,7 @@
   {
     "title": "suisse:::L’encaveur Cédric Flaction voit sa peine aggravée après son procès en appel",
     "added_at": "2025-09-16T08:41:12.613Z",
-    "removed_at": "2025-09-16T10:30:41.205Z",
+    "removed_at": "2025-09-16T10:30:17.712Z",
     "duration_minutes": 109,
     "duration_str": "1h 49m"
   },
@@ -84,8 +84,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Israël lance une offensive terrestre majeure dans la ville de Gaza",
     "added_at": "2025-09-16T09:37:15.976Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-16T14:07:49.157Z",
+    "duration_minutes": 271,
+    "duration_str": "4h 31m"
   },
   {
     "title": "economie:::La Banque nationale suisse investi 42,6 milliards de dollars dans les géants de la tech aux Etats-Unis",
@@ -128,20 +129,20 @@
   },
   {
     "title": "suisse:::En appel, l’encaveur valaisan Cédric Flaction voit sa peine alourdie",
-    "added_at": "2025-09-16T10:30:41.205Z",
+    "added_at": "2025-09-16T10:30:17.712Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "monde:::Israël envahit Gaza-City où sous les bombes, «le ciel est devenu rouge et blanc», témoigne Rami Abou Jamous",
-    "added_at": "2025-09-16T11:29:43.265Z",
+    "added_at": "2025-09-16T11:28:42.658Z",
     "removed_at": "2025-09-16T12:09:09.970Z",
-    "duration_minutes": 39,
-    "duration_str": "39m"
+    "duration_minutes": 40,
+    "duration_str": "40m"
   },
   {
     "title": "sciences:::Les Prix scientifiques suisses couronnent un physicien et une juriste",
-    "added_at": "2025-09-16T12:04:44.599Z",
+    "added_at": "2025-09-16T12:04:34.334Z",
     "removed_at": "2025-09-16T12:30:58.725Z",
     "duration_minutes": 26,
     "duration_str": "26m"
@@ -168,6 +169,25 @@
   {
     "title": "suisse:::Le commandant de la police lausannoise Olivier Botteron quittera ses fonctions l’an prochain",
     "added_at": "2025-09-16T13:32:33.763Z",
+    "removed_at": "2025-09-16T14:07:49.157Z",
+    "duration_minutes": 35,
+    "duration_str": "35m"
+  },
+  {
+    "title": "culture:::Le monde de la musique classique au bord de la cacophonie, à la suite de la déprogrammation en Belgique du chef israélien Lahav Shani",
+    "added_at": "2025-09-16T13:45:53.335Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le Grand Conseil vaudois réclame la protection des Suisses de la flotille pour Gaza",
+    "added_at": "2025-09-16T14:07:49.157Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Le commandant de la police lausannoise, Olivier Botteron, quittera ses fonctions l’an prochain",
+    "added_at": "2025-09-16T14:07:49.157Z",
     "duration_minutes": 0,
     "duration_str": ""
   }

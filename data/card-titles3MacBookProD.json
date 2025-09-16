@@ -71621,7 +71621,10 @@
   },
   {
     "title": "Israel Launches Ground Offensive in Gaza City",
-    "added_at": "2025-09-16T08:45:46.442Z"
+    "added_at": "2025-09-16T08:45:46.442Z",
+    "removed_at": "2025-09-16T14:34:01.458Z",
+    "duration_minutes": 348,
+    "duration_str": "5h 48m"
   },
   {
     "title": "Late Night: Trump’s Fascination With the White House Ballroom",
@@ -71674,14 +71677,17 @@
   },
   {
     "title": "Fed Meeting Is Set to Bring Together Targets of President’s Ire With Trump Ally",
-    "added_at": "2025-09-16T10:00:06.522Z"
+    "added_at": "2025-09-16T10:00:06.522Z",
+    "removed_at": "2025-09-16T13:45:53.441Z",
+    "duration_minutes": 225,
+    "duration_str": "3h 45m"
   },
   {
     "title": "After a Landmark Election, a Disillusioned Malawi Returns to the Polls",
     "added_at": "2025-09-16T10:00:06.522Z",
-    "removed_at": "2025-09-16T13:28:12.254Z",
-    "duration_minutes": 208,
-    "duration_str": "3h 28m"
+    "removed_at": "2025-09-16T13:54:42.527Z",
+    "duration_minutes": 234,
+    "duration_str": "3h 54m"
   },
   {
     "title": "Court Says Cook Can Stay on Fed Board, Trump Vows Crackdown on Liberal Groups, and More",
@@ -71747,5 +71753,13 @@
   {
     "title": "White House to Appeal Decision Keeping Fed Board Governor in Place",
     "added_at": "2025-09-16T13:34:48.281Z"
+  },
+  {
+    "title": "State Terrorism Charges Against Luigi Mangione Are Dismissed",
+    "added_at": "2025-09-16T13:54:42.527Z"
+  },
+  {
+    "title": "Israeli Troops Push Into Gaza City, Forcing Desperate Palestinians to Flee",
+    "added_at": "2025-09-16T14:34:01.458Z"
   }
 ]
