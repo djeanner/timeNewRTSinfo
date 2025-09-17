@@ -42551,7 +42551,10 @@
   },
   {
     "title": "Le cinéma et les stars",
-    "added_at": "2025-09-13T13:23:51.909Z"
+    "added_at": "2025-09-13T13:23:51.909Z",
+    "removed_at": "2025-09-17T21:22:46.505Z",
+    "duration_minutes": 6238,
+    "duration_str": "4d 7h 58m"
   },
   {
     "title": "Ces artistes musicaux suisses qui cartonnent en France: interview de Stéphane",
@@ -43423,7 +43426,10 @@
   },
   {
     "title": "La Suisse reste le pays le plus innovant au monde",
-    "added_at": "2025-09-16T10:28:21.986Z"
+    "added_at": "2025-09-16T10:28:21.986Z",
+    "removed_at": "2025-09-17T20:28:05.000Z",
+    "duration_minutes": 2039,
+    "duration_str": "1d 9h 59m"
   },
   {
     "title": "Une diminution du trafic autoroutier permet au canton de Vaud de revoir sa copie sur l'échangeur de Crissier",
@@ -43434,11 +43440,17 @@
   },
   {
     "title": "Pourquoi l’Espagne affiche-t-elle un tel soutien en faveur de la Palestine?",
-    "added_at": "2025-09-16T12:02:39.872Z"
+    "added_at": "2025-09-16T12:02:39.872Z",
+    "removed_at": "2025-09-17T20:03:36.026Z",
+    "duration_minutes": 1920,
+    "duration_str": "1d 8h"
   },
   {
     "title": "Swisscom n'a pas abusé de sa position dominante, selon la Comco",
-    "added_at": "2025-09-16T12:10:14.082Z"
+    "added_at": "2025-09-16T12:10:14.082Z",
+    "removed_at": "2025-09-17T20:24:19.597Z",
+    "duration_minutes": 1934,
+    "duration_str": "1d 8h 14m"
   },
   {
     "title": "Un étudiant dévoile la couverture réelle des opérateurs de téléphonie mobile",
@@ -43788,5 +43800,17 @@
   {
     "title": "L'ex-président brésilien Jair Bolsonaro est atteint d'un cancer de la peau",
     "added_at": "2025-09-17T19:16:12.022Z"
+  },
+  {
+    "title": "Le journal de 8h - Présenté par Aude Raimondi",
+    "added_at": "2025-09-17T20:03:36.026Z"
+  },
+  {
+    "title": "La Bibliothèque nationale de France veut acquérir les manuscrits de la \"madeleine de Proust\"",
+    "added_at": "2025-09-17T20:24:19.597Z"
+  },
+  {
+    "title": "Hausse des cas traités par les autorités de protection de l'enfant et de l'adulte en 2024",
+    "added_at": "2025-09-17T20:28:05.000Z"
   }
 ]
