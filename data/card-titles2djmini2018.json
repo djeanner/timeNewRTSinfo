@@ -14547,7 +14547,10 @@
   },
   {
     "title": "economie:::La Fondation Sandoz garde la main sur son pôle horloger avec Hermès en premier partenaire",
-    "added_at": "2025-06-25T14:10:37.412Z"
+    "added_at": "2025-06-25T14:10:37.412Z",
+    "removed_at": "2025-09-17T14:39:57.727Z",
+    "duration_minutes": 120989,
+    "duration_str": "84d 29m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Le Conseil fédéral durcit le statut S pour les Ukrainiens",
@@ -28803,7 +28806,10 @@
   },
   {
     "title": "suisse:::L’ancien président du Conseil des Etats Fritz Schiesser aurait passé deux mois en détention provisoire dans le canton de Vaud",
-    "added_at": "2025-08-31T14:30:34.932Z"
+    "added_at": "2025-08-31T14:30:34.932Z",
+    "removed_at": "2025-09-17T14:39:57.727Z",
+    "duration_minutes": 24489,
+    "duration_str": "17d 9m"
   },
   {
     "title": "culture:::«Friedas Fall», l’histoire tragique d’une mère infanticide dans le Saint-Gall de 1904",
@@ -30949,10 +30955,7 @@
   },
   {
     "title": "economie:::En graphiques — Après une décennie de doutes, l’atome se repositionne dans l’équation énergétique mondiale",
-    "added_at": "2025-09-08T06:22:33.807Z",
-    "removed_at": "2025-09-12T08:57:41.495Z",
-    "duration_minutes": 5915,
-    "duration_str": "4d 2h 35m"
+    "added_at": "2025-09-08T06:22:33.807Z"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Que sait-on de la dernière proposition de Washington pour mettre fin à la guerre à Gaza?",
@@ -33259,11 +33262,17 @@
   },
   {
     "title": "sciences:::Des microséismes générés sous le Gothard pour faire avancer la recherche",
-    "added_at": "2025-09-17T08:27:52.915Z"
+    "added_at": "2025-09-17T08:27:52.915Z",
+    "removed_at": "2025-09-17T14:38:01.565Z",
+    "duration_minutes": 370,
+    "duration_str": "6h 10m"
   },
   {
     "title": "suisse:::Votation fédérale sur l’abolition de la valeur locative: le camp du non gagne du terrain",
-    "added_at": "2025-09-17T08:29:46.634Z"
+    "added_at": "2025-09-17T08:29:46.634Z",
+    "removed_at": "2025-09-17T13:18:43.704Z",
+    "duration_minutes": 288,
+    "duration_str": "4h 48m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Une centaine de Palestiniens tués depuis le début de l’offensive terrestre contre la ville de Gaza",
@@ -33289,7 +33298,10 @@
   },
   {
     "title": "suisse:::Sondage – Deux tiers des Suisses ne veulent plus ajouter un centime pour le F-35",
-    "added_at": "2025-09-17T10:06:07.208Z"
+    "added_at": "2025-09-17T10:06:07.208Z",
+    "removed_at": "2025-09-17T13:07:24.149Z",
+    "duration_minutes": 181,
+    "duration_str": "3h 1m"
   },
   {
     "title": "sport:::Le SailGP débarque ce week-end à Genève avec des régates pensées comme des courses de F1",
@@ -33302,5 +33314,24 @@
   {
     "title": "culture:::«Demon Slayer», toujours plus haut, toujours plus fort",
     "added_at": "2025-09-17T11:47:59.574Z"
+  },
+  {
+    "title": "monde:::Bruxelles fait mine de durcir le ton face à l’Etat hébreu, «pas pour punir Israël, mais pour améliorer la situation humanitaire à Gaza»",
+    "added_at": "2025-09-17T13:07:24.149Z"
+  },
+  {
+    "title": "suisse:::La conseillère d’Etat vaudoise Rebecca Ruiz de retour aux affaires",
+    "added_at": "2025-09-17T13:18:43.704Z",
+    "removed_at": "2025-09-17T14:22:57.753Z",
+    "duration_minutes": 64,
+    "duration_str": "1h 4m"
+  },
+  {
+    "title": "suisse:::La conseillère d’Etat vaudoise Rebecca Ruiz de retour aux affaires après ses problèmes de santé",
+    "added_at": "2025-09-17T14:22:57.753Z"
+  },
+  {
+    "title": "economie:::Le démantèlement confirmé de Meyer Burger renvoie l’innovation photovoltaïque suisse à la niche",
+    "added_at": "2025-09-17T14:38:01.565Z"
   }
 ]
