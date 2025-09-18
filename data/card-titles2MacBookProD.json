@@ -8226,10 +8226,7 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z",
-    "removed_at": "2025-09-13T11:42:30.390Z",
-    "duration_minutes": 163780,
-    "duration_str": "113d 17h 40m"
+    "added_at": "2025-05-22T18:01:52.008Z"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -34603,7 +34600,10 @@
   },
   {
     "title": "economie:::La population lémanique reconnaît l'importance des multinationales, qui réclament de nouveaux «coups de pouce» fiscaux",
-    "added_at": "2025-09-17T18:38:53.267Z"
+    "added_at": "2025-09-17T18:38:53.267Z",
+    "removed_at": "2025-09-18T13:48:53.981Z",
+    "duration_minutes": 1150,
+    "duration_str": "19h 10m"
   },
   {
     "title": "sciences:::La COP30 au Brésil face au défi de redynamiser la lutte contre le changement climatique",
@@ -34671,7 +34671,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – À Lausanne, deux manifestations rivales sur la situation à Gaza inquiètent les autorités",
-    "added_at": "2025-09-18T05:59:06.394Z"
+    "added_at": "2025-09-18T05:59:06.394Z",
+    "removed_at": "2025-09-18T13:11:28.735Z",
+    "duration_minutes": 432,
+    "duration_str": "7h 12m"
   },
   {
     "title": "suisse:::Le parlement saint-gallois veut à son tour repousser le français à l'école secondaire",
@@ -34679,7 +34682,10 @@
   },
   {
     "title": "suisse:::Une élue veut faire de la lutte contre l’isolement social une priorité nationale",
-    "added_at": "2025-09-18T08:06:45.469Z"
+    "added_at": "2025-09-18T08:06:45.469Z",
+    "removed_at": "2025-09-18T13:40:03.945Z",
+    "duration_minutes": 333,
+    "duration_str": "5h 33m"
   },
   {
     "title": "sport:::Maud Jayet, seule femme sur le bateau suisse qui participe au championnat SailGP",
@@ -34687,7 +34693,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Un ambassadeur suisse évoque une contribution helvétique à un éventuel cessez-le-feu",
-    "added_at": "2025-09-18T09:19:39.114Z"
+    "added_at": "2025-09-18T09:19:39.114Z",
+    "removed_at": "2025-09-18T13:24:41.606Z",
+    "duration_minutes": 245,
+    "duration_str": "4h 5m"
   },
   {
     "title": "suisse:::L’Etat de Genève plonge dans les chiffres rouges et veut faire payer les communes pour ses propres largesses",
@@ -34723,5 +34732,24 @@
   {
     "title": "culture:::Christophe Honoré, cinéaste et metteur en scène de «Bovary Madame» à Lausanne: «J’ai une immense tendresse pour Jean-Luc Godard»",
     "added_at": "2025-09-18T12:49:19.759Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – A Lausanne, deux manifestations rivales sur la situation à Gaza inquiètent les autorités",
+    "added_at": "2025-09-18T13:11:28.735Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Des drones ukrainiens attaquent une nouvelle raffinerie russe très éloignée du front",
+    "added_at": "2025-09-18T13:24:41.606Z"
+  },
+  {
+    "title": "suisse:::Le Parlement sauve le droit de recours contre les barrages, mais le limite",
+    "added_at": "2025-09-18T13:40:03.945Z",
+    "removed_at": "2025-09-18T13:55:33.391Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "suisse:::Le parlement sauve le droit de recours contre les barrages, mais le limite",
+    "added_at": "2025-09-18T13:55:33.391Z"
   }
 ]
