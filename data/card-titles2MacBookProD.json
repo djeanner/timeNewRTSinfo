@@ -31456,7 +31456,10 @@
   },
   {
     "title": "suisse:::A Genève, la gratuité des transports publics provoque des psychodrames politiques à répétition",
-    "added_at": "2025-09-05T14:10:17.077Z"
+    "added_at": "2025-09-05T14:10:17.077Z",
+    "removed_at": "2025-09-18T14:33:13.944Z",
+    "duration_minutes": 18742,
+    "duration_str": "13d 22m"
   },
   {
     "title": "suisse:::Guy Parmelin se rend à Washington avec une nouvelle offre",
@@ -34283,10 +34286,7 @@
   },
   {
     "title": "economie:::Nouveau coup de théâtre chez Nestlé: Paul Bulcke démissionne",
-    "added_at": "2025-09-16T17:36:16.076Z",
-    "removed_at": "2025-09-17T11:10:30.207Z",
-    "duration_minutes": 1054,
-    "duration_str": "17h 34m"
+    "added_at": "2025-09-16T17:36:16.076Z"
   },
   {
     "title": "monde:::Martin Griffiths: «Ce n’est pas le moment que l’ONU batte en retraite»",
@@ -34498,7 +34498,10 @@
   },
   {
     "title": "suisse:::«La grille horaire sera plus lisible»: à Genève, Anne Hiltpold dévoile la nouvelle formule de la maturité",
-    "added_at": "2025-09-17T16:02:40.673Z"
+    "added_at": "2025-09-17T16:02:40.673Z",
+    "removed_at": "2025-09-18T14:33:13.944Z",
+    "duration_minutes": 1350,
+    "duration_str": "22h 30m"
   },
   {
     "title": "economie:::François-Henry Bennahmias revient pour l’honneur du luxe",
@@ -34727,7 +34730,10 @@
   },
   {
     "title": "sport:::L’Inde rêve des Jeux olympiques mais doit d’abord régler son problème avec le dopage, selon le CIO",
-    "added_at": "2025-09-18T12:25:01.259Z"
+    "added_at": "2025-09-18T12:25:01.259Z",
+    "removed_at": "2025-09-18T14:33:13.944Z",
+    "duration_minutes": 128,
+    "duration_str": "2h 8m"
   },
   {
     "title": "culture:::Christophe Honoré, cinéaste et metteur en scène de «Bovary Madame» à Lausanne: «J’ai une immense tendresse pour Jean-Luc Godard»",
@@ -34739,7 +34745,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Des drones ukrainiens attaquent une nouvelle raffinerie russe très éloignée du front",
-    "added_at": "2025-09-18T13:24:41.606Z"
+    "added_at": "2025-09-18T13:24:41.606Z",
+    "removed_at": "2025-09-18T15:01:53.014Z",
+    "duration_minutes": 97,
+    "duration_str": "1h 37m"
   },
   {
     "title": "suisse:::Le Parlement sauve le droit de recours contre les barrages, mais le limite",
@@ -34751,5 +34760,13 @@
   {
     "title": "suisse:::Le parlement sauve le droit de recours contre les barrages, mais le limite",
     "added_at": "2025-09-18T13:55:33.391Z"
+  },
+  {
+    "title": "economie:::Le duo Isla-Navratil incarne l’espoir d’un nouveau départ chez Nestlé",
+    "added_at": "2025-09-18T14:33:13.944Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Vladimir Poutine affirme que 700 000 soldats russes sont déployés sur le front",
+    "added_at": "2025-09-18T15:01:53.014Z"
   }
 ]
