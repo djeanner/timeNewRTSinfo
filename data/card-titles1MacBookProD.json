@@ -17925,7 +17925,10 @@
   },
   {
     "title": "Le cinéma et les stars",
-    "added_at": "2025-09-13T13:25:01.917Z"
+    "added_at": "2025-09-13T13:25:01.917Z",
+    "removed_at": "2025-09-17T23:22:07.120Z",
+    "duration_minutes": 6357,
+    "duration_str": "4d 9h 57m"
   },
   {
     "title": "Ces artistes musicaux suisses qui cartonnent en France: interview de Stéphane",
@@ -18392,7 +18395,10 @@
   },
   {
     "title": "Le Forum des médias - La France va-t-elle (enfin) apprendre l’art du compromis?",
-    "added_at": "2025-09-15T06:09:15.719Z"
+    "added_at": "2025-09-15T06:09:15.719Z",
+    "removed_at": "2025-09-18T00:01:29.478Z",
+    "duration_minutes": 3952,
+    "duration_str": "2d 17h 52m"
   },
   {
     "title": "Le jeu vidéo Super Mario Bros. fête ses 40 ans",
@@ -19193,5 +19199,9 @@
   {
     "title": "Un accueil royal spectaculaire au Royaume-Uni pour Donald Trump, en visite d'Etat",
     "added_at": "2025-09-17T22:14:02.026Z"
+  },
+  {
+    "title": "Fin des panneaux solaires suisses Meyer Burger",
+    "added_at": "2025-09-17T23:22:07.120Z"
   }
 ]
