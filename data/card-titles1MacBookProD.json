@@ -3735,10 +3735,7 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T19:02:44.375Z",
-    "removed_at": "2025-09-19T08:16:47.372Z",
-    "duration_minutes": 79994,
-    "duration_str": "55d 13h 14m"
+    "added_at": "2025-07-25T19:02:44.375Z"
   },
   {
     "title": "En Israël, la population sensible au sort des Gazaouis refuse d'en rendre son armée responsable",
@@ -18675,7 +18672,10 @@
   },
   {
     "title": "Entretien avec Ana Maria Nogareda, directrice HEIG-VD",
-    "added_at": "2025-09-15T22:22:34.539Z"
+    "added_at": "2025-09-15T22:22:34.539Z",
+    "removed_at": "2025-09-19T11:02:38.380Z",
+    "duration_minutes": 5080,
+    "duration_str": "3d 12h 40m"
   },
   {
     "title": "Incursion de drones russes en Pologne et en Roumanie: interview de Galia Ackerman",
@@ -19199,7 +19199,10 @@
   },
   {
     "title": "Sanctions commerciales contre Israël proposées par la Commission européenne",
-    "added_at": "2025-09-17T12:14:01.459Z"
+    "added_at": "2025-09-17T12:14:01.459Z",
+    "removed_at": "2025-09-19T11:15:51.179Z",
+    "duration_minutes": 2821,
+    "duration_str": "1d 23h 1m"
   },
   {
     "title": "Daniel Favre: \"La police devrait être le dernier recours\" auprès des jeunes",
@@ -19214,7 +19217,10 @@
   },
   {
     "title": "Le fabricant de panneaux solaires Meyer Burger soumis à un plan de redressement",
-    "added_at": "2025-09-17T12:58:02.389Z"
+    "added_at": "2025-09-17T12:58:02.389Z",
+    "removed_at": "2025-09-19T11:29:03.851Z",
+    "duration_minutes": 2791,
+    "duration_str": "1d 22h 31m"
   },
   {
     "title": "La BD peut-elle servir à faciliter l'apprentissage et devenir un outil pédagogique?",
@@ -19750,5 +19756,20 @@
   {
     "title": "La France suspend sa coopération antiterroriste avec le Mali",
     "added_at": "2025-09-19T10:44:56.495Z"
+  },
+  {
+    "title": "Le Conseil fédéral veut économiser 2,4 milliards en 2027",
+    "added_at": "2025-09-19T11:15:51.179Z"
+  },
+  {
+    "title": "Le conseiller national UDC Alfred Heer est décédé à 63 ans",
+    "added_at": "2025-09-19T11:29:03.851Z",
+    "removed_at": "2025-09-19T11:33:27.058Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Le conseiller national UDC zurichois Alfred Heer est décédé à 63 ans",
+    "added_at": "2025-09-19T11:33:27.058Z"
   }
 ]

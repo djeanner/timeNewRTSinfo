@@ -34728,7 +34728,10 @@
   },
   {
     "title": "economie:::La chute des exportations suisses aux Etats-Unis est amorcée",
-    "added_at": "2025-09-18T10:05:56.911Z"
+    "added_at": "2025-09-18T10:05:56.911Z",
+    "removed_at": "2025-09-19T11:40:03.345Z",
+    "duration_minutes": 1534,
+    "duration_str": "1d 1h 34m"
   },
   {
     "title": "suisse:::Le Conseil national prêt à interdire l’importation de fourrure d’animaux maltraités",
@@ -34887,7 +34890,10 @@
   },
   {
     "title": "monde:::La guerre des drones met l’OTAN à rude épreuve",
-    "added_at": "2025-09-19T04:10:08.043Z"
+    "added_at": "2025-09-19T04:10:08.043Z",
+    "removed_at": "2025-09-19T11:53:15.756Z",
+    "duration_minutes": 463,
+    "duration_str": "7h 43m"
   },
   {
     "title": "suisse:::«Il n’y a pas de justice à deux vitesses dans ce canton», assure le procureur général vaudois Eric Kaltenrieder",
@@ -34976,5 +34982,13 @@
   {
     "title": "monde:::Fran Lebowitz, reine du sarcasme",
     "added_at": "2025-09-19T10:33:46.959Z"
+  },
+  {
+    "title": "suisse:::Eboulement à Blatten: la première pierre du futur village a été posée",
+    "added_at": "2025-09-19T11:40:03.345Z"
+  },
+  {
+    "title": "monde:::Russie, Ukraine et flanc est de l'Europe: la guerre des drones met l’OTAN à rude épreuve",
+    "added_at": "2025-09-19T11:53:15.756Z"
   }
 ]
