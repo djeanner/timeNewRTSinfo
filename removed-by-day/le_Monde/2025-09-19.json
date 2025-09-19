@@ -691,8 +691,9 @@
   {
     "title": "Des Français détenus en Syrie, membres présumés de l’EI, ont été transférés en Irak",
     "added_at": "2025-09-19T12:41:23.364Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-19T23:49:27.481Z",
+    "duration_minutes": 668,
+    "duration_str": "11h 8m"
   },
   {
     "title": "Gabriel Attal se prépare pour l’élection présidentielle de 2027 et promet une « rupture majeure »",
@@ -1196,8 +1197,9 @@
   {
     "title": "En direct, Gaza : Israël poursuit son offensive terrestre et aérienne, au moins 33 personnes tuées vendredi, selon les hôpitaux de l’enclave",
     "added_at": "2025-09-19T18:30:53.587Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-19T23:31:53.340Z",
+    "duration_minutes": 301,
+    "duration_str": "5h 1m"
   },
   {
     "title": "Guerre en Ukraine : l’Union européenne veut interdire les importations de gaz russe d’ici à la fin de 2026",
@@ -1243,9 +1245,9 @@
   {
     "title": "Le traité pour protéger la haute mer, ratifié par 60 pays, entrera en vigueur début 2026",
     "added_at": "2025-09-19T20:06:57.878Z",
-    "removed_at": "2025-09-19T22:41:16.903Z",
-    "duration_minutes": 154,
-    "duration_str": "2h 34m"
+    "removed_at": "2025-09-19T23:36:16.461Z",
+    "duration_minutes": 209,
+    "duration_str": "3h 29m"
   },
   {
     "title": "Après l’intrusion d’avions de chasse russes, l’Estonie demande des consultations entre Etats membres de l’OTAN",
@@ -1269,6 +1271,19 @@
   {
     "title": "La Russie nie que trois de ses avions de chasse ont violé l’espace aérien estonien",
     "added_at": "2025-09-19T22:47:52.969Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Quelque 450 000 Palestiniens ont fui la ville de Gaza depuis la fin d’août, selon la défense civile palestinienne",
+    "added_at": "2025-09-19T23:03:21.107Z",
+    "removed_at": "2025-09-19T23:36:16.461Z",
+    "duration_minutes": 33,
+    "duration_str": "33m"
+  },
+  {
+    "title": "En direct, Gaza : quelque 450 000 Palestiniens ont fui la ville de Gaza depuis la fin d’août, selon la défense civile palestinienne",
+    "added_at": "2025-09-19T23:31:53.340Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
