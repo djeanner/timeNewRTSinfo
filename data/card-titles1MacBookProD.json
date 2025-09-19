@@ -14295,10 +14295,7 @@
   },
   {
     "title": "Le résumé de l'actualité romande",
-    "added_at": "2025-09-04T05:14:35.113Z",
-    "removed_at": "2025-09-13T23:46:21.652Z",
-    "duration_minutes": 14071,
-    "duration_str": "9d 18h 31m"
+    "added_at": "2025-09-04T05:14:35.113Z"
   },
   {
     "title": "Deuil national à Lisbonne au lendemain du déraillement meurtrier d'un funiculaire",
@@ -18072,7 +18069,10 @@
   },
   {
     "title": "L'influence de Charlie Kirk marque jusqu'en Suisse",
-    "added_at": "2025-09-13T22:23:29.575Z"
+    "added_at": "2025-09-13T22:23:29.575Z",
+    "removed_at": "2025-09-19T19:00:43.873Z",
+    "duration_minutes": 8437,
+    "duration_str": "5d 20h 37m"
   },
   {
     "title": "La Suisse ramène 11 médailles des Euro Skills, les championnats européens des métiers",
@@ -19349,7 +19349,10 @@
   },
   {
     "title": "La Réserve fédérale américaine abaisse ses taux directeurs d'un quart de point",
-    "added_at": "2025-09-17T18:25:43.085Z"
+    "added_at": "2025-09-17T18:25:43.085Z",
+    "removed_at": "2025-09-19T19:09:34.111Z",
+    "duration_minutes": 2923,
+    "duration_str": "2d 43m"
   },
   {
     "title": "Droits de douane américains: 10% de la population active du Jura au chômage partiel",
@@ -19443,7 +19446,10 @@
   },
   {
     "title": "Dans \"Counani\", Jean-Paul Delfino dévoile l'incroyable imposture d’un roi autoproclamé",
-    "added_at": "2025-09-18T06:36:27.888Z"
+    "added_at": "2025-09-18T06:36:27.888Z",
+    "removed_at": "2025-09-19T19:24:54.270Z",
+    "duration_minutes": 2208,
+    "duration_str": "1d 12h 48m"
   },
   {
     "title": "Août a été le mois le plus sec en Europe et sur le pourtour méditerranéen depuis le début des mesures",
@@ -19915,5 +19921,13 @@
   {
     "title": "Les conditions pour les humanitaires à Gaza ne sont bientôt plus tenables, alerte MSF",
     "added_at": "2025-09-19T18:27:32.414Z"
+  },
+  {
+    "title": "L'e-ID estonienne, ou la première \"nation numérique\"",
+    "added_at": "2025-09-19T19:09:34.111Z"
+  },
+  {
+    "title": "Entre suspensions et licenciements, la liberté d'expression des médias est fragilisée aux Etats-Unis",
+    "added_at": "2025-09-19T19:24:54.270Z"
   }
 ]

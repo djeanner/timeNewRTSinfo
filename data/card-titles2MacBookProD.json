@@ -33014,10 +33014,7 @@
   },
   {
     "title": "cyber:::En France, la commission d’enquête sur TikTok demande l’interdiction des réseaux sociaux aux moins de 15 ans",
-    "added_at": "2025-09-11T13:56:30.371Z",
-    "removed_at": "2025-09-11T15:38:44.758Z",
-    "duration_minutes": 102,
-    "duration_str": "1h 42m"
+    "added_at": "2025-09-11T13:56:30.371Z"
   },
   {
     "title": "suisse:::Dans le procès des bandes rivales, la défense dénonce l’acharnement du Ministère public neuchâtelois",
@@ -35084,7 +35081,10 @@
   },
   {
     "title": "monde:::A Genève, des experts du Centre de politique de sécurité planchent sur des scénarios de paix en Ukraine",
-    "added_at": "2025-09-19T16:03:27.609Z"
+    "added_at": "2025-09-19T16:03:27.609Z",
+    "removed_at": "2025-09-19T19:18:17.912Z",
+    "duration_minutes": 194,
+    "duration_str": "3h 14m"
   },
   {
     "title": "monde:::Genève: une Maison de la paix nécessaire, mais ébranlée",
@@ -35107,7 +35107,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’armée israélienne va frapper Gaza-ville avec «une force sans précédent», appelle la population à évacuer",
-    "added_at": "2025-09-19T18:14:21.383Z"
+    "added_at": "2025-09-19T18:14:21.383Z",
+    "removed_at": "2025-09-19T19:13:55.475Z",
+    "duration_minutes": 59,
+    "duration_str": "59m"
   },
   {
     "title": "sport:::Avec le SailGP, revoilà l’été à Genève",
@@ -35119,10 +35122,36 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L’Estonie dénonce une violation «sans précédent» de son espace aérien par trois avions de combat russes",
-    "added_at": "2025-09-19T18:31:56.234Z"
+    "added_at": "2025-09-19T18:31:56.234Z",
+    "removed_at": "2025-09-19T19:29:22.260Z",
+    "duration_minutes": 57,
+    "duration_str": "57m"
   },
   {
     "title": "sciences:::L’AMOC, courant océanique qui adoucit les hivers européens, est-il en train de décliner?",
     "added_at": "2025-09-19T18:38:32.177Z"
+  },
+  {
+    "title": "economie:::En 2025, la nature inspire plus que jamais les grandes maisons de joaillerie",
+    "added_at": "2025-09-19T19:13:55.475Z",
+    "removed_at": "2025-09-19T19:27:07.319Z",
+    "duration_minutes": 13,
+    "duration_str": "13m"
+  },
+  {
+    "title": "monde:::Moyen-Orient – L’armée israélienne va frapper Gaza-ville avec «une force sans précédent», appelle la population à évacuer",
+    "added_at": "2025-09-19T19:13:55.475Z"
+  },
+  {
+    "title": "culture:::Au Théâtre du Grütli à Genève, sept jeunes comédiens romands dévoilent leurs parts d'ombre et c'est  magistral",
+    "added_at": "2025-09-19T19:27:07.319Z"
+  },
+  {
+    "title": "monde:::Un juge fédéral rejette en l’état la plainte de Trump contre le «New York Times»",
+    "added_at": "2025-09-19T19:27:07.319Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – L’Estonie dénonce une violation «sans précédent» de son espace aérien par trois avions de combat russes",
+    "added_at": "2025-09-19T19:29:22.260Z"
   }
 ]
