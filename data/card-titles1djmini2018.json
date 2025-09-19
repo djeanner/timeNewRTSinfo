@@ -26408,10 +26408,7 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T21:30:25.517Z",
-    "removed_at": "2025-09-19T08:16:43.718Z",
-    "duration_minutes": 79846,
-    "duration_str": "55d 10h 46m"
+    "added_at": "2025-07-25T21:30:25.517Z"
   },
   {
     "title": "La légende du catch Hulk Hogan est décédée à l'âge de 71 ans",
@@ -43301,7 +43298,10 @@
   },
   {
     "title": "Entretien avec Ana Maria Nogareda, directrice HEIG-VD",
-    "added_at": "2025-09-15T22:23:25.420Z"
+    "added_at": "2025-09-15T22:23:25.420Z",
+    "removed_at": "2025-09-19T11:02:58.428Z",
+    "duration_minutes": 5079,
+    "duration_str": "3d 12h 39m"
   },
   {
     "title": "Incursion de drones russes en Pologne et en Roumanie: interview de Galia Ackerman",
@@ -43674,7 +43674,10 @@
   },
   {
     "title": "L'abolition de la valeur locative perd du terrain et le oui à l'e-ID se maintient, selon le 2e sondage SSR",
-    "added_at": "2025-09-17T04:02:39.097Z"
+    "added_at": "2025-09-17T04:02:39.097Z",
+    "removed_at": "2025-09-19T10:45:59.111Z",
+    "duration_minutes": 3283,
+    "duration_str": "2d 6h 43m"
   },
   {
     "title": "L'entreprise Recypac veut recycler les emballages plastiques de la population romande",
@@ -43783,7 +43786,10 @@
   },
   {
     "title": "L'usine de pénicilline de Sandoz en Autriche ou le défi de produire européen",
-    "added_at": "2025-09-17T10:02:23.215Z"
+    "added_at": "2025-09-17T10:02:23.215Z",
+    "removed_at": "2025-09-19T09:39:58.314Z",
+    "duration_minutes": 2857,
+    "duration_str": "1d 23h 37m"
   },
   {
     "title": "A Lausanne, la Fondation de l'Hermitage met en lumière une peinture polonaise patriote",
@@ -43819,7 +43825,10 @@
   },
   {
     "title": "Sanctions commerciales contre Israël proposées par la Commission européenne",
-    "added_at": "2025-09-17T12:14:24.094Z"
+    "added_at": "2025-09-17T12:14:24.094Z",
+    "removed_at": "2025-09-19T11:16:12.963Z",
+    "duration_minutes": 2821,
+    "duration_str": "1d 23h 1m"
   },
   {
     "title": "Daniel Favre: \"La police devrait être le dernier recours\" auprès des jeunes",
@@ -43834,11 +43843,17 @@
   },
   {
     "title": "Le fabricant de panneaux solaires Meyer Burger soumis à un plan de redressement",
-    "added_at": "2025-09-17T12:58:00.762Z"
+    "added_at": "2025-09-17T12:58:00.762Z",
+    "removed_at": "2025-09-19T11:29:21.876Z",
+    "duration_minutes": 2791,
+    "duration_str": "1d 22h 31m"
   },
   {
     "title": "La BD peut-elle servir à faciliter l'apprentissage et devenir un outil pédagogique?",
-    "added_at": "2025-09-17T13:01:44.586Z"
+    "added_at": "2025-09-17T13:01:44.586Z",
+    "removed_at": "2025-09-19T09:28:39.348Z",
+    "duration_minutes": 2666,
+    "duration_str": "1d 20h 26m"
   },
   {
     "title": "L'UDC lance trois candidats pour la Municipalité de Lausanne",
@@ -43867,7 +43882,10 @@
   },
   {
     "title": "\"La bonne mère\" de Mathilda di Matteo, un premier roman qui a de la tchatche",
-    "added_at": "2025-09-17T14:43:50.959Z"
+    "added_at": "2025-09-17T14:43:50.959Z",
+    "removed_at": "2025-09-19T09:32:23.489Z",
+    "duration_minutes": 2568,
+    "duration_str": "1d 18h 48m"
   },
   {
     "title": "La conseillère d'Etat vaudoise Rebecca Ruiz bientôt de retour aux affaires",
@@ -44334,5 +44352,50 @@
   {
     "title": "Les boissons pour jeunes toujours aussi sucrées malgré les engagements des fabricants",
     "added_at": "2025-09-19T08:16:43.718Z"
+  },
+  {
+    "title": "L'association de soutien à Pierre Maudet sanctionnée pour avoir bénéficié de donateurs fictifs",
+    "added_at": "2025-09-19T09:28:39.348Z"
+  },
+  {
+    "title": "\"Bovary Madame\", héroïne de notre époque dans une reconstitution entre rires et violence",
+    "added_at": "2025-09-19T09:32:23.489Z"
+  },
+  {
+    "title": "Le Conseil fédéral veut encadrer l'enseignement des langues nationales",
+    "added_at": "2025-09-19T09:39:58.314Z",
+    "removed_at": "2025-09-19T09:41:48.010Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Inquiet, le Conseil fédéral veut conserver l'enseignement d'une deuxième langue nationale au primaire",
+    "added_at": "2025-09-19T09:41:48.010Z",
+    "removed_at": "2025-09-19T09:55:01.628Z",
+    "duration_minutes": 13,
+    "duration_str": "13m"
+  },
+  {
+    "title": "Le Conseil fédéral envisage d'obliger les cantons à enseigner une seconde langue nationale en primaire",
+    "added_at": "2025-09-19T09:55:01.628Z"
+  },
+  {
+    "title": "La France suspend sa coopération antiterroriste avec le Mali",
+    "added_at": "2025-09-19T10:45:59.111Z"
+  },
+  {
+    "title": "Le Conseil fédéral veut économiser 2,4 milliards en 2027",
+    "added_at": "2025-09-19T11:08:37.336Z"
+  },
+  {
+    "title": "Le conseiller national UDC Alfred Heer est décédé à 63 ans",
+    "added_at": "2025-09-19T11:29:21.876Z",
+    "removed_at": "2025-09-19T11:35:02.341Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "Le conseiller national UDC zurichois Alfred Heer est décédé à 63 ans",
+    "added_at": "2025-09-19T11:35:02.341Z"
   }
 ]
