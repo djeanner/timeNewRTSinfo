@@ -8226,7 +8226,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z"
+    "added_at": "2025-05-22T18:01:52.008Z",
+    "removed_at": "2025-09-19T06:57:26.579Z",
+    "duration_minutes": 172135,
+    "duration_str": "119d 12h 55m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -34914,5 +34917,9 @@
   {
     "title": "cyber:::Avec ChatGPT, OpenAI en sait déjà beaucoup sur ses utilisateurs. Très vite, il voudra les connaître davantage encore",
     "added_at": "2025-09-19T06:35:17.252Z"
+  },
+  {
+    "title": "monde:::Léon XIV, un pape d’équilibre entre ouverture et orthodoxie",
+    "added_at": "2025-09-19T06:57:26.579Z"
   }
 ]
