@@ -32709,10 +32709,7 @@
   },
   {
     "title": "monde:::Chahutée, Ursula von der Leyen est une «hyperprésidente» aux pieds d’argile",
-    "added_at": "2025-09-10T10:20:30.108Z",
-    "removed_at": "2025-09-12T12:33:55.189Z",
-    "duration_minutes": 3013,
-    "duration_str": "2d 2h 13m"
+    "added_at": "2025-09-10T10:20:30.108Z"
   },
   {
     "title": "culture:::«Where The Wind Comes From», road movie émancipateur entre Tunis et Djerba",
@@ -34724,7 +34721,10 @@
   },
   {
     "title": "suisse:::L’Etat de Genève plonge dans les chiffres rouges et veut faire payer les communes pour ses propres largesses",
-    "added_at": "2025-09-18T10:01:29.264Z"
+    "added_at": "2025-09-18T10:01:29.264Z",
+    "removed_at": "2025-09-19T14:32:37.719Z",
+    "duration_minutes": 1711,
+    "duration_str": "1d 4h 31m"
   },
   {
     "title": "economie:::La chute des exportations suisses aux Etats-Unis est amorcée",
@@ -34929,7 +34929,10 @@
   },
   {
     "title": "suisse:::Moutier, pas encore jurassienne mais déjà très courtisée à un mois des élections",
-    "added_at": "2025-09-19T06:11:11.154Z"
+    "added_at": "2025-09-19T06:11:11.154Z",
+    "removed_at": "2025-09-19T14:32:37.719Z",
+    "duration_minutes": 501,
+    "duration_str": "8h 21m"
   },
   {
     "title": "monde:::Callista Gingrich, nouvelle ambassadrice des Etats-Unis en Suisse et femme du «Grand» Newt, héros de Trump",
@@ -35011,5 +35014,20 @@
   {
     "title": "economie:::BNP Paribas est jugée à New York pour avoir financé le régime d’Omar el-Béchir au Soudan",
     "added_at": "2025-09-19T13:15:13.011Z"
+  },
+  {
+    "title": "monde:::Guerre ouverte dans l'audiovisuel français entre le service public et le milliardaire ultraconservateur Vincent Bolloré",
+    "added_at": "2025-09-19T14:23:49.741Z"
+  },
+  {
+    "title": "suisse:::Elèves frontaliers: le Conseil d'Etat genevois reconnaît qu'il aurait dû avertir les autorités françaises",
+    "added_at": "2025-09-19T14:32:37.719Z",
+    "removed_at": "2025-09-19T14:50:18.551Z",
+    "duration_minutes": 17,
+    "duration_str": "17m"
+  },
+  {
+    "title": "suisse:::Elèves frontaliers: le Conseil d’Etat genevois reconnaît qu’il aurait dû avertir les autorités françaises",
+    "added_at": "2025-09-19T14:50:18.551Z"
   }
 ]
