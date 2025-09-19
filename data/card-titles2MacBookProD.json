@@ -34788,7 +34788,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Vladimir Poutine affirme que 700 000 soldats russes sont déployés sur le front",
-    "added_at": "2025-09-18T15:01:53.014Z"
+    "added_at": "2025-09-18T15:01:53.014Z",
+    "removed_at": "2025-09-19T02:37:48.190Z",
+    "duration_minutes": 695,
+    "duration_str": "11h 35m"
   },
   {
     "title": "sciences:::Le Conseil de l’Europe approuve la politique climatique de la Suisse, au grand dam des Aînées pour le climat",
@@ -34828,5 +34831,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Appel à un cessez-le-feu à Gaza: nouveau véto américain au Conseil de sécurité de l'ONU",
     "added_at": "2025-09-18T21:12:22.769Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky revendique une contre-offensive réussie dans l'est",
+    "added_at": "2025-09-19T02:37:48.190Z"
   }
 ]
