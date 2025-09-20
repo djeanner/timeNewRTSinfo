@@ -1471,7 +1471,10 @@
   },
   {
     "title": "Les meilleurs réveils simulateurs d’aube",
-    "added_at": "2025-07-16T01:01:07.300Z"
+    "added_at": "2025-07-16T01:01:07.300Z",
+    "removed_at": "2025-09-20T21:32:53.450Z",
+    "duration_minutes": 96271,
+    "duration_str": "66d 20h 31m"
   },
   {
     "title": "Le meilleur antivol pour vélo",
@@ -1480,13 +1483,16 @@
   {
     "title": "Les meilleurs mixeurs plongeants",
     "added_at": "2025-07-16T01:01:07.300Z",
-    "removed_at": "2025-09-20T20:31:06.069Z",
-    "duration_minutes": 96209,
-    "duration_str": "66d 19h 29m"
+    "removed_at": "2025-09-20T21:32:53.450Z",
+    "duration_minutes": 96271,
+    "duration_str": "66d 20h 31m"
   },
   {
     "title": "Les meilleurs aspirateurs balais sans fil",
-    "added_at": "2025-07-16T01:01:07.300Z"
+    "added_at": "2025-07-16T01:01:07.300Z",
+    "removed_at": "2025-09-20T21:28:32.345Z",
+    "duration_minutes": 96267,
+    "duration_str": "66d 20h 27m"
   },
   {
     "title": "Les meilleurs chargeurs de piles AA et AAA",
@@ -1502,9 +1508,9 @@
   {
     "title": "Les meilleurs coussins de voyage",
     "added_at": "2025-07-16T01:01:07.300Z",
-    "removed_at": "2025-09-20T20:09:09.609Z",
-    "duration_minutes": 96188,
-    "duration_str": "66d 19h 8m"
+    "removed_at": "2025-09-20T21:28:32.345Z",
+    "duration_minutes": 96267,
+    "duration_str": "66d 20h 27m"
   },
   {
     "title": "Israël-Iran : quelle est l’ampleur du coup porté au programme nucléaire iranien ?",
@@ -1592,31 +1598,28 @@
   },
   {
     "title": "Les meilleures visseuses entre 50 et 100 euros",
-    "added_at": "2025-07-16T01:36:13.367Z",
-    "removed_at": "2025-09-20T20:00:19.300Z",
-    "duration_minutes": 96144,
-    "duration_str": "66d 18h 24m"
+    "added_at": "2025-07-16T01:36:13.367Z"
   },
   {
     "title": "Les meilleures gourdes pour remplacer les bouteilles jetables",
     "added_at": "2025-07-16T01:36:13.367Z",
-    "removed_at": "2025-09-20T20:09:09.609Z",
-    "duration_minutes": 96152,
-    "duration_str": "66d 18h 32m"
+    "removed_at": "2025-09-20T21:28:32.345Z",
+    "duration_minutes": 96232,
+    "duration_str": "66d 19h 52m"
   },
   {
     "title": "Les meilleurs sextoys pour le clitoris : comparatif",
     "added_at": "2025-07-16T01:36:13.367Z",
-    "removed_at": "2025-09-20T18:56:24.930Z",
-    "duration_minutes": 96080,
-    "duration_str": "66d 17h 20m"
+    "removed_at": "2025-09-20T21:02:06.791Z",
+    "duration_minutes": 96205,
+    "duration_str": "66d 19h 25m"
   },
   {
     "title": "Les meilleurs fours micro-ondes grill",
     "added_at": "2025-07-16T01:36:13.367Z",
-    "removed_at": "2025-09-20T18:14:25.217Z",
-    "duration_minutes": 96038,
-    "duration_str": "66d 16h 38m"
+    "removed_at": "2025-09-20T21:21:55.958Z",
+    "duration_minutes": 96225,
+    "duration_str": "66d 19h 45m"
   },
   {
     "title": "Les meilleurs jeux de société pour adultes",
@@ -1624,10 +1627,7 @@
   },
   {
     "title": "Les meilleures machines à café à grains à moins de 500 euros",
-    "added_at": "2025-07-16T01:36:13.367Z",
-    "removed_at": "2025-09-20T20:31:06.069Z",
-    "duration_minutes": 96174,
-    "duration_str": "66d 18h 54m"
+    "added_at": "2025-07-16T01:36:13.367Z"
   },
   {
     "title": "Article réservé aux abonnés Israël-Iran : quelle est l’ampleur du coup porté au programme nucléaire iranien ?",
@@ -1659,18 +1659,24 @@
   },
   {
     "title": "Les meilleures machines à café à grains de 500 à 1 000 euros",
-    "added_at": "2025-07-16T01:44:22.772Z"
+    "added_at": "2025-07-16T01:44:22.772Z",
+    "removed_at": "2025-09-20T21:28:32.345Z",
+    "duration_minutes": 96224,
+    "duration_str": "66d 19h 44m"
   },
   {
     "title": "Les meilleurs robots aspirateurs laveurs",
     "added_at": "2025-07-16T01:44:22.772Z",
-    "removed_at": "2025-09-20T20:09:09.609Z",
-    "duration_minutes": 96144,
-    "duration_str": "66d 18h 24m"
+    "removed_at": "2025-09-20T21:28:32.345Z",
+    "duration_minutes": 96224,
+    "duration_str": "66d 19h 44m"
   },
   {
     "title": "Les meilleurs grille-pains",
-    "added_at": "2025-07-16T01:44:22.772Z"
+    "added_at": "2025-07-16T01:44:22.772Z",
+    "removed_at": "2025-09-20T21:32:53.450Z",
+    "duration_minutes": 96228,
+    "duration_str": "66d 19h 48m"
   },
   {
     "title": "Ukraine : ce que l’on sait de l’attaque de drones inédite lancée contre des bases russes",
@@ -2011,9 +2017,9 @@
   {
     "title": "125 destinations pour faire le tour du monde sans quitter la France (ou l’Europe)",
     "added_at": "2025-07-16T10:45:27.394Z",
-    "removed_at": "2025-09-20T20:31:06.069Z",
-    "duration_minutes": 95625,
-    "duration_str": "66d 9h 45m"
+    "removed_at": "2025-09-20T21:32:53.450Z",
+    "duration_minutes": 95687,
+    "duration_str": "66d 10h 47m"
   },
   {
     "title": "L’horreur gothique à l’italienne à l’honneur dans trois films réédités en Blu-ray",
@@ -2095,23 +2101,20 @@
   {
     "title": "Les meilleurs pianos numériques pas chers pour débutants",
     "added_at": "2025-07-16T10:45:27.394Z",
-    "removed_at": "2025-09-20T20:09:09.609Z",
-    "duration_minutes": 95603,
-    "duration_str": "66d 9h 23m"
+    "removed_at": "2025-09-20T21:02:06.791Z",
+    "duration_minutes": 95656,
+    "duration_str": "66d 10h 16m"
   },
   {
     "title": "Voici notre guide d’achat des meilleurs robots pâtissiers",
     "added_at": "2025-07-16T10:45:27.394Z",
-    "removed_at": "2025-09-20T20:31:06.069Z",
-    "duration_minutes": 95625,
-    "duration_str": "66d 9h 45m"
+    "removed_at": "2025-09-20T21:28:32.345Z",
+    "duration_minutes": 95683,
+    "duration_str": "66d 10h 43m"
   },
   {
     "title": "Les meilleures friteuses sans huile",
-    "added_at": "2025-07-16T10:47:35.358Z",
-    "removed_at": "2025-09-20T20:31:06.069Z",
-    "duration_minutes": 95623,
-    "duration_str": "66d 9h 43m"
+    "added_at": "2025-07-16T10:47:35.358Z"
   },
   {
     "title": "Club Med : Henri Giscard d’Estaing débarqué par le propriétaire chinois du groupe, Fosun",
@@ -2228,9 +2231,9 @@
   {
     "title": "Les meilleurs balais vapeur",
     "added_at": "2025-07-16T14:50:18.348Z",
-    "removed_at": "2025-09-20T20:31:06.069Z",
-    "duration_minutes": 95380,
-    "duration_str": "66d 5h 40m"
+    "removed_at": "2025-09-20T21:02:06.791Z",
+    "duration_minutes": 95411,
+    "duration_str": "66d 6h 11m"
   },
   {
     "title": "Au Festival d’Avignon, le théâtre, bousculé par l’actualité immédiate, livre toujours ses leçons",
@@ -2242,9 +2245,9 @@
   {
     "title": "Instax ou Polaroid : les meilleurs appareils photo instantanés",
     "added_at": "2025-07-16T14:52:23.207Z",
-    "removed_at": "2025-09-20T20:31:06.069Z",
-    "duration_minutes": 95378,
-    "duration_str": "66d 5h 38m"
+    "removed_at": "2025-09-20T21:32:53.450Z",
+    "duration_minutes": 95440,
+    "duration_str": "66d 6h 40m"
   },
   {
     "title": "Budget 2026 : « On ne peut plus vivre sur le train de vie sur lequel nous avons vécu », réagit Bruno Retailleau",
@@ -2297,10 +2300,7 @@
   },
   {
     "title": "Les meilleures lunch box pour la pause déjeuner",
-    "added_at": "2025-07-16T15:06:36.690Z",
-    "removed_at": "2025-09-20T20:09:09.609Z",
-    "duration_minutes": 95342,
-    "duration_str": "66d 5h 2m"
+    "added_at": "2025-07-16T15:06:36.690Z"
   },
   {
     "title": "Budget 2026 : « La droite ne sera pas du côté de ceux qui dénoncent sans faire de propositions », affirme Laurent Wauquiez",
@@ -35428,10 +35428,7 @@
   },
   {
     "title": "Pourquoi les pick-up Toyota sont-ils utilisés dans tous les conflits ?",
-    "added_at": "2025-08-27T18:48:45.840Z",
-    "removed_at": "2025-09-20T20:26:41.977Z",
-    "duration_minutes": 34657,
-    "duration_str": "24d 1h 37m"
+    "added_at": "2025-08-27T18:48:45.840Z"
   },
   {
     "title": "Municipales 2026 : à l’heure d’annoncer sa candidature, Martine Vassal ébranlée par une enquête judiciaire",
@@ -37676,10 +37673,7 @@
   },
   {
     "title": "Quand l’usager s’invite dans les grands travaux urbains",
-    "added_at": "2025-08-30T05:21:29.474Z",
-    "removed_at": "2025-09-20T20:31:06.069Z",
-    "duration_minutes": 31149,
-    "duration_str": "21d 15h 9m"
+    "added_at": "2025-08-30T05:21:29.474Z"
   },
   {
     "title": "De l’addiction au trafic de drogue, histoire d’un réseau « entre amis » sur le bassin d’Arcachon",
@@ -37691,9 +37685,9 @@
   {
     "title": "Mathieu Nicaise, expert en mobilités : « Assumer les coupures franches du trafic renforce la sécurité et rend le chantier tangible »",
     "added_at": "2025-08-30T06:04:17.678Z",
-    "removed_at": "2025-09-20T20:09:09.609Z",
-    "duration_minutes": 31084,
-    "duration_str": "21d 14h 4m"
+    "removed_at": "2025-09-20T21:28:32.345Z",
+    "duration_minutes": 31164,
+    "duration_str": "21d 15h 24m"
   },
   {
     "title": "Avec la chute annoncée de François Bayrou, Emmanuel Macron face au risque d’un mandat déstabilisé",
@@ -43392,7 +43386,10 @@
   },
   {
     "title": "Un « hémicycle citoyen » constitué de 577 chaises : l’installation monumentale de Claire Renard et Jean-Sébastien Blanc aux Archives nationales",
-    "added_at": "2025-09-04T16:19:51.447Z"
+    "added_at": "2025-09-04T16:19:51.447Z",
+    "removed_at": "2025-09-20T20:40:03.612Z",
+    "duration_minutes": 23300,
+    "duration_str": "16d 4h 20m"
   },
   {
     "title": "Besançon annule la venue de Raphaël Enthoven à un festival littéraire pour ses propos sur Gaza",
@@ -45126,10 +45123,7 @@
   },
   {
     "title": "Etudiants : où se loger près de Paris en cette rentrée ? Cinq idées de villes moins chères",
-    "added_at": "2025-09-06T04:11:17.488Z",
-    "removed_at": "2025-09-20T19:47:07.335Z",
-    "duration_minutes": 21095,
-    "duration_str": "14d 15h 35m"
+    "added_at": "2025-09-06T04:11:17.488Z"
   },
   {
     "title": "Dans la ville de Gaza, l’offensive israélienne s’intensifie : « J’ai déjà vécu l’humiliation du déplacement. Avec ma famille, nous préférons mourir chez nous »",
@@ -46801,9 +46795,9 @@
   {
     "title": "Quand un héritier fait annuler une donation-partage cinquante ans après l’avoir acceptée",
     "added_at": "2025-09-08T04:08:20.965Z",
-    "removed_at": "2025-09-20T20:09:09.609Z",
-    "duration_minutes": 18240,
-    "duration_str": "12d 16h"
+    "removed_at": "2025-09-20T20:57:40.041Z",
+    "duration_minutes": 18289,
+    "duration_str": "12d 16h 49m"
   },
   {
     "title": "« La Hideuse », de Reine Bellivier : entre les pages des livres, un peu de la mère enfuie",
@@ -48323,7 +48317,10 @@
   },
   {
     "title": "Quand le logement social fait office de « résidence secondaire »",
-    "added_at": "2025-09-09T04:07:06.516Z"
+    "added_at": "2025-09-09T04:07:06.516Z",
+    "removed_at": "2025-09-20T21:32:53.450Z",
+    "duration_minutes": 16885,
+    "duration_str": "11d 17h 25m"
   },
   {
     "title": "Vote de confiance : « Nous sommes définitivement sortis de la Vᵉ République heureuse »",
@@ -50663,9 +50660,9 @@
   {
     "title": "« Beaucoup d’hommes vont tomber de leur chaise » : l’individualisation par défaut du taux de prélèvement à la source provoquera des surprises dans les salaires de septembre",
     "added_at": "2025-09-10T13:29:20.085Z",
-    "removed_at": "2025-09-20T19:47:07.335Z",
-    "duration_minutes": 14777,
-    "duration_str": "10d 6h 17m"
+    "removed_at": "2025-09-20T21:32:53.450Z",
+    "duration_minutes": 14883,
+    "duration_str": "10d 8h 3m"
   },
   {
     "title": "« Tant que nos élus n’auront pas compris que le véritable problème, c’est leur façon de gouverner, aucun pas vers une solution ne sera possible »",
@@ -52697,7 +52694,10 @@
   },
   {
     "title": "Epargne salariale : de nouveaux motifs de déblocage peu utilisés",
-    "added_at": "2025-09-12T04:20:21.566Z"
+    "added_at": "2025-09-12T04:20:21.566Z",
+    "removed_at": "2025-09-20T21:32:53.450Z",
+    "duration_minutes": 12552,
+    "duration_str": "8d 17h 12m"
   },
   {
     "title": "« Le “chaos” gouvernemental n’est pas lié à l’absence de majorité à l’Assemblée, mais aux pratiques des responsables politiques »",
@@ -52960,7 +52960,10 @@
   },
   {
     "title": "577 chaises uniques proposées aux enchères à l’occasion du Festival du Monde",
-    "added_at": "2025-09-12T10:01:23.128Z"
+    "added_at": "2025-09-12T10:01:23.128Z",
+    "removed_at": "2025-09-20T20:57:40.041Z",
+    "duration_minutes": 12176,
+    "duration_str": "8d 10h 56m"
   },
   {
     "title": "Patrick Drahi cherche à se dégager d’Intelcia, géant marocain des centres d’appels",
@@ -54820,9 +54823,9 @@
   {
     "title": "Quelle complémentaire santé pour les alternants et apprentis ?",
     "added_at": "2025-09-14T04:07:32.048Z",
-    "removed_at": "2025-09-20T17:32:30.137Z",
-    "duration_minutes": 9444,
-    "duration_str": "6d 13h 24m"
+    "removed_at": "2025-09-20T21:28:32.345Z",
+    "duration_minutes": 9681,
+    "duration_str": "6d 17h 21m"
   },
   {
     "title": "Avec Nora Hamzawi, le roman-photo reprend des couleurs",
@@ -56905,10 +56908,7 @@
   },
   {
     "title": "Assurance : quand le client est de mauvaise foi avec l’expert",
-    "added_at": "2025-09-16T04:07:56.791Z",
-    "removed_at": "2025-09-20T20:31:06.069Z",
-    "duration_minutes": 6743,
-    "duration_str": "4d 16h 23m"
+    "added_at": "2025-09-16T04:07:56.791Z"
   },
   {
     "title": "L’acteur Théodore Pellerin, roi du silence",
@@ -58412,9 +58412,9 @@
   {
     "title": "Quels sont les meilleurs livrets pour votre épargne de précaution ?",
     "added_at": "2025-09-17T05:53:23.795Z",
-    "removed_at": "2025-09-20T18:14:25.217Z",
-    "duration_minutes": 5061,
-    "duration_str": "3d 12h 21m"
+    "removed_at": "2025-09-20T21:21:55.958Z",
+    "duration_minutes": 5248,
+    "duration_str": "3d 15h 28m"
   },
   {
     "title": "Sébastien Lecornu reçoit le PS et le RN, à la veille d’une grande journée d’action",
@@ -60306,9 +60306,9 @@
   {
     "title": "« Plus les Européens céderont au chantage de Trump, plus ils passeront aux yeux de la Chine pour les vassaux des Etats-Unis »",
     "added_at": "2025-09-18T16:56:48.632Z",
-    "removed_at": "2025-09-20T20:37:42.663Z",
-    "duration_minutes": 3100,
-    "duration_str": "2d 3h 40m"
+    "removed_at": "2025-09-20T21:35:08.226Z",
+    "duration_minutes": 3158,
+    "duration_str": "2d 4h 38m"
   },
   {
     "title": "En direct, grève du 18 septembre : entre 506 000 et un million de manifestants pour la journée de mobilisation en France",
@@ -60372,10 +60372,7 @@
   },
   {
     "title": "Avec « Merlin ou la terre dévastée », mis en scène par Ambre Kahan, la quête du graal des élèves du Théâtre de l’Union",
-    "added_at": "2025-09-18T17:43:02.339Z",
-    "removed_at": "2025-09-20T19:33:46.627Z",
-    "duration_minutes": 2990,
-    "duration_str": "2d 1h 50m"
+    "added_at": "2025-09-18T17:43:02.339Z"
   },
   {
     "title": "Giorgio Poi, au cœur des liaisons Paris-Rome",
@@ -60415,9 +60412,9 @@
   {
     "title": "La nécessité du consentement dans les écoles de théâtre pour les scènes de sexe, la nudité, les baisers",
     "added_at": "2025-09-18T18:13:59.783Z",
-    "removed_at": "2025-09-20T20:31:06.069Z",
-    "duration_minutes": 3017,
-    "duration_str": "2d 2h 17m"
+    "removed_at": "2025-09-20T21:32:53.450Z",
+    "duration_minutes": 3078,
+    "duration_str": "2d 3h 18m"
   },
   {
     "title": "Grenoble, Strasbourg et Rennes, les villes les plus favorables au vélo, selon le « Baromètre vélo »",
@@ -60577,10 +60574,7 @@
   },
   {
     "title": "« Le patrimoine est au cœur d’une féroce guerre culturelle et, pour l’instant, c’est la droite qui gagne »",
-    "added_at": "2025-09-19T02:40:00.746Z",
-    "removed_at": "2025-09-20T20:33:19.094Z",
-    "duration_minutes": 2513,
-    "duration_str": "1d 17h 53m"
+    "added_at": "2025-09-19T02:40:00.746Z"
   },
   {
     "title": "Une balade à Chatou, de l’île des Impressionnistes à un musée du soufisme",
@@ -60816,10 +60810,7 @@
   },
   {
     "title": "A Paris, la Maison-atelier Lurçat, archétype du modernisme des années 1920",
-    "added_at": "2025-09-19T07:08:25.359Z",
-    "removed_at": "2025-09-20T20:31:06.069Z",
-    "duration_minutes": 2242,
-    "duration_str": "1d 13h 22m"
+    "added_at": "2025-09-19T07:08:25.359Z"
   },
   {
     "title": "Biocoop veut ouvrir 160 nouveaux magasins dans les quatre années à venir",
@@ -60988,7 +60979,10 @@
   },
   {
     "title": "« Sur écrans, à l’écoute ou en peluche, l’attraction des démons asiatiques sur la jeunesse mondiale interpelle »",
-    "added_at": "2025-09-19T09:42:49.673Z"
+    "added_at": "2025-09-19T09:42:49.673Z",
+    "removed_at": "2025-09-20T21:32:53.450Z",
+    "duration_minutes": 2150,
+    "duration_str": "1d 11h 50m"
   },
   {
     "title": "L’intersyndicale donne jusqu’à mercredi à Sébastien Lecornu pour répondre à leurs revendications",
@@ -61428,7 +61422,10 @@
   },
   {
     "title": "Le Musée des arts décoratifs, entité atypique en quête de sérénité et d’identité",
-    "added_at": "2025-09-19T15:45:34.773Z"
+    "added_at": "2025-09-19T15:45:34.773Z",
+    "removed_at": "2025-09-20T21:28:32.345Z",
+    "duration_minutes": 1782,
+    "duration_str": "1d 5h 42m"
   },
   {
     "title": "La sélection musique du « Monde » : Astor Piazzolla, Joy Crookes, Wednesday, Nation of Language, Ala.ni",
@@ -61612,9 +61609,9 @@
   {
     "title": "Les Cévennes, terre de refuge pour le festival ImageSingulières",
     "added_at": "2025-09-19T18:07:45.766Z",
-    "removed_at": "2025-09-20T19:47:07.335Z",
-    "duration_minutes": 1539,
-    "duration_str": "1d 1h 39m"
+    "removed_at": "2025-09-20T21:32:53.450Z",
+    "duration_minutes": 1645,
+    "duration_str": "1d 3h 25m"
   },
   {
     "title": "« Israël fait tout pour exclure la France du Proche-Orient, tant sur le plan diplomatique que sur le terrain »",
@@ -61800,7 +61797,10 @@
   },
   {
     "title": "Les archives de la Légion d’honneur s’ouvrent au grand public, sur Internet",
-    "added_at": "2025-09-20T03:38:23.693Z"
+    "added_at": "2025-09-20T03:38:23.693Z",
+    "removed_at": "2025-09-20T21:32:53.450Z",
+    "duration_minutes": 1074,
+    "duration_str": "17h 54m"
   },
   {
     "title": "Des dizaines de tonnes de pesticides présentes dans les nuages au-dessus de la France",
@@ -61828,9 +61828,9 @@
   {
     "title": "Théodore Tallent, politiste : « Sur l’écologie, il n’y a pas de “backlash” citoyen, mais bien un “backlash” politique »",
     "added_at": "2025-09-20T04:02:39.559Z",
-    "removed_at": "2025-09-20T20:31:06.069Z",
-    "duration_minutes": 988,
-    "duration_str": "16h 28m"
+    "removed_at": "2025-09-20T21:26:17.938Z",
+    "duration_minutes": 1043,
+    "duration_str": "17h 23m"
   },
   {
     "title": "Coupe du monde féminine de rugby : avec Gaëlle Mignot et David Ortiz, un XV de France bicéphale au défi des Red Roses",
@@ -61984,7 +61984,10 @@
   },
   {
     "title": "Pour les musées français, la pêche aux mécènes américains ne faiblit pas",
-    "added_at": "2025-09-20T07:12:17.692Z"
+    "added_at": "2025-09-20T07:12:17.692Z",
+    "removed_at": "2025-09-20T21:32:53.450Z",
+    "duration_minutes": 860,
+    "duration_str": "14h 20m"
   },
   {
     "title": "Luca Zidane, fils de Zinedine, autorisé à porter les couleurs de l’Algérie",
@@ -62022,7 +62025,10 @@
   },
   {
     "title": "Donald Trump fixe des frais annuels de 100 000 dollars pour les visas technologiques H-1B, et lance la « carte dorée »",
-    "added_at": "2025-09-20T08:27:15.856Z"
+    "added_at": "2025-09-20T08:27:15.856Z",
+    "removed_at": "2025-09-20T21:02:06.791Z",
+    "duration_minutes": 754,
+    "duration_str": "12h 34m"
   },
   {
     "title": "Le féminicide d’Inès Mecellem, que les autorités de Poitiers n’ont pas empêché malgré cinq plaintes en un mois",
@@ -62049,10 +62055,7 @@
   },
   {
     "title": "L’échappée belle de la cinéaste Lucile Hadzihalilovic sur les rivages du conte",
-    "added_at": "2025-09-20T12:16:51.115Z",
-    "removed_at": "2025-09-20T20:09:09.609Z",
-    "duration_minutes": 472,
-    "duration_str": "7h 52m"
+    "added_at": "2025-09-20T12:16:51.115Z"
   },
   {
     "title": "Guerre en Ukraine : Volodymyr Zelensky affirme qu’il rencontrera Donald Trump en marge de l’Assemblée générale de l’ONU",
@@ -62124,14 +62127,17 @@
   },
   {
     "title": "Philippe Hurel, fil rouge vif du Festival Ensemble(s)",
-    "added_at": "2025-09-20T12:36:43.646Z"
+    "added_at": "2025-09-20T12:36:43.646Z",
+    "removed_at": "2025-09-20T21:32:53.450Z",
+    "duration_minutes": 536,
+    "duration_str": "8h 56m"
   },
   {
     "title": "Le salon FAB Paris, une foisonnante édition 2025",
     "added_at": "2025-09-20T12:36:43.646Z",
-    "removed_at": "2025-09-20T20:31:06.069Z",
-    "duration_minutes": 474,
-    "duration_str": "7h 54m"
+    "removed_at": "2025-09-20T21:28:32.345Z",
+    "duration_minutes": 531,
+    "duration_str": "8h 51m"
   },
   {
     "title": "Soirée lynchienne à l’Opéra du Rhin avec « In Dreams. David Lynch Revisited »",
@@ -62380,5 +62386,13 @@
   {
     "title": "Marine Le Pen demande le départ de la présidente de France Télévisions",
     "added_at": "2025-09-20T20:28:56.968Z"
+  },
+  {
+    "title": "Au Festival du Monde, filmer les corps avec Julia Ducournau",
+    "added_at": "2025-09-20T20:57:40.041Z"
+  },
+  {
+    "title": "Donald Trump fixe des frais de 100 000 dollars pour les visas technologiques H-1B, et lance la « carte dorée »",
+    "added_at": "2025-09-20T21:19:40.950Z"
   }
 ]

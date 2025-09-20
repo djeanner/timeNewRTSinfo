@@ -75,9 +75,8 @@
   {
     "title": "suisse:::2000 manifestants contre l’avortement à Zurich",
     "added_at": "2025-09-20T16:15:23.579Z",
-    "removed_at": "2025-09-20T20:26:41.510Z",
-    "duration_minutes": 251,
-    "duration_str": "4h 11m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "sport:::Devant une foule immense, le SailGP tient ses promesses à Genève",
@@ -118,6 +117,26 @@
   {
     "title": "monde:::Aux Etats-Unis, une «cancel culture» à géométrie variable",
     "added_at": "2025-09-20T20:26:41.510Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "culture:::Les menaces de boycott se multiplient en vue de l’Eurovision 2026, en cas de participation d’Israël",
+    "added_at": "2025-09-20T21:06:28.112Z",
+    "removed_at": "2025-09-20T21:19:40.494Z",
+    "duration_minutes": 13,
+    "duration_str": "13m"
+  },
+  {
+    "title": "culture:::Les menaces de boycott se multiplient pour l’Eurovision 2026, en cas de participation d’Israël",
+    "added_at": "2025-09-20T21:19:40.494Z",
+    "removed_at": "2025-09-20T21:21:55.490Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "culture:::Eurovision 2026: les menaces de boycott se multiplient en cas de participation d’Israël",
+    "added_at": "2025-09-20T21:21:55.490Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
