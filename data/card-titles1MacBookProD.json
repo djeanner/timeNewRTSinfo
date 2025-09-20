@@ -19763,7 +19763,10 @@
   },
   {
     "title": "Des centaines de milliers de personnes ont fait grève en France",
-    "added_at": "2025-09-18T17:47:28.367Z"
+    "added_at": "2025-09-18T17:47:28.367Z",
+    "removed_at": "2025-09-20T17:01:44.569Z",
+    "duration_minutes": 2834,
+    "duration_str": "1d 23h 14m"
   },
   {
     "title": "La police bloque une manifestation pro-palestinienne à Lausanne",
@@ -20163,5 +20166,9 @@
   {
     "title": "Environ 65'000 bénévoles ont ramassé des déchets en Suisse pour le Clean-Up-Day",
     "added_at": "2025-09-20T14:27:19.795Z"
+  },
+  {
+    "title": "A Neuchâtel ou Zurich, il fait désormais aussi chaud qu'en Italie il y a 50 ans",
+    "added_at": "2025-09-20T17:01:44.569Z"
   }
 ]
