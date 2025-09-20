@@ -35141,11 +35141,17 @@
   },
   {
     "title": "sport:::Avec le SailGP, revoilà l’été à Genève",
-    "added_at": "2025-09-19T18:18:43.682Z"
+    "added_at": "2025-09-19T18:18:43.682Z",
+    "removed_at": "2025-09-20T17:45:49.165Z",
+    "duration_minutes": 1407,
+    "duration_str": "23h 27m"
   },
   {
     "title": "cyber:::Un incroyable montage se dessine autour de TikTok aux Etats-Unis",
-    "added_at": "2025-09-19T18:27:32.469Z"
+    "added_at": "2025-09-19T18:27:32.469Z",
+    "removed_at": "2025-09-20T18:38:36.188Z",
+    "duration_minutes": 1451,
+    "duration_str": "1d 11m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L’Estonie dénonce une violation «sans précédent» de son espace aérien par trois avions de combat russes",
@@ -35204,7 +35210,10 @@
   },
   {
     "title": "cyber:::La collusion entre la Silicon Valley et Washington relance le débat sur le retour d’une forme de fascisme",
-    "added_at": "2025-09-20T08:38:14.954Z"
+    "added_at": "2025-09-20T08:38:14.954Z",
+    "removed_at": "2025-09-20T17:43:40.655Z",
+    "duration_minutes": 545,
+    "duration_str": "9h 5m"
   },
   {
     "title": "culture:::La 8e édition du festival de photographie Alt+1000 transforme La Vue-des-Alpes en un majestueux espace d’exposition",
@@ -35233,7 +35242,10 @@
   },
   {
     "title": "cyber:::L’administration Trump fait exploser le coût d’un visa très utilisé dans la tech, le H-1B",
-    "added_at": "2025-09-20T13:38:52.702Z"
+    "added_at": "2025-09-20T13:38:52.702Z",
+    "removed_at": "2025-09-20T17:43:40.655Z",
+    "duration_minutes": 244,
+    "duration_str": "4h 4m"
   },
   {
     "title": "cyber:::Plusieurs grands aéroports européens, dont Heathrow, sont perturbés par une cyberattaque",
@@ -35260,5 +35272,17 @@
   {
     "title": "culture:::L'artiste Anna Stüdeli révèle les fragments d’un discours publicitaire",
     "added_at": "2025-09-20T17:32:29.680Z"
+  },
+  {
+    "title": "sport:::Lamine Yamal, sur les traces de Messi… ou de Neymar?",
+    "added_at": "2025-09-20T17:43:40.655Z"
+  },
+  {
+    "title": "suisse:::65 000 bénévoles ont traqué les déchets en Suisse",
+    "added_at": "2025-09-20T17:45:49.165Z"
+  },
+  {
+    "title": "culture:::Marina Foïs, actrice aux mille visages, dont celui de Simone Signoret",
+    "added_at": "2025-09-20T18:38:36.188Z"
   }
 ]
