@@ -33014,7 +33014,10 @@
   },
   {
     "title": "cyber:::En France, la commission d’enquête sur TikTok demande l’interdiction des réseaux sociaux aux moins de 15 ans",
-    "added_at": "2025-09-11T13:56:30.371Z"
+    "added_at": "2025-09-11T13:56:30.371Z",
+    "removed_at": "2025-09-20T06:34:46.592Z",
+    "duration_minutes": 12518,
+    "duration_str": "8d 16h 38m"
   },
   {
     "title": "suisse:::Dans le procès des bandes rivales, la défense dénonce l’acharnement du Ministère public neuchâtelois",
@@ -33988,10 +33991,7 @@
   },
   {
     "title": "monde:::Face à la guerre à Gaza, l’Egypte sur une ligne de crête",
-    "added_at": "2025-09-15T17:31:19.758Z",
-    "removed_at": "2025-09-18T04:02:41.805Z",
-    "duration_minutes": 3511,
-    "duration_str": "2d 10h 31m"
+    "added_at": "2025-09-15T17:31:19.758Z"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Les Européens perplexes après les nouvelles conditions de Donald Trump pour imposer des sanctions à la Russie",
@@ -35070,7 +35070,10 @@
   },
   {
     "title": "suisse:::La Confédération confirme son retrait du financement de TV5 Monde",
-    "added_at": "2025-09-19T15:16:54.696Z"
+    "added_at": "2025-09-19T15:16:54.696Z",
+    "removed_at": "2025-09-20T06:32:33.757Z",
+    "duration_minutes": 915,
+    "duration_str": "15h 15m"
   },
   {
     "title": "monde:::Guerre ouverte dans l’audiovisuel français entre le service public et le milliardaire ultraconservateur Vincent Bolloré",
@@ -35156,5 +35159,9 @@
   {
     "title": "monde:::Guerre en Ukraine – L’Estonie dénonce une violation «sans précédent» de son espace aérien par trois avions de combat russes",
     "added_at": "2025-09-19T19:29:22.260Z"
+  },
+  {
+    "title": "monde:::A New York, la reconnaissance de la Palestine doit poser les nouvelles bases d’un plan de paix",
+    "added_at": "2025-09-20T06:34:46.592Z"
   }
 ]
