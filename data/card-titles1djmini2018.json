@@ -44088,7 +44088,10 @@
   },
   {
     "title": "Août a été le mois le plus sec en Europe et sur le pourtour méditerranéen depuis le début des mesures",
-    "added_at": "2025-09-18T07:09:33.807Z"
+    "added_at": "2025-09-18T07:09:33.807Z",
+    "removed_at": "2025-09-20T01:39:24.993Z",
+    "duration_minutes": 2549,
+    "duration_str": "1d 18h 29m"
   },
   {
     "title": "Les indemnisation en cas de RHT seront prolongées jusqu'à deux ans",
@@ -44549,7 +44552,10 @@
   },
   {
     "title": "Les avions de l'Otan interceptent trois MIG russes dans le ciel estonien, une \"provocation\" pour l'UE",
-    "added_at": "2025-09-19T17:05:53.871Z"
+    "added_at": "2025-09-19T17:05:53.871Z",
+    "removed_at": "2025-09-20T00:08:56.944Z",
+    "duration_minutes": 423,
+    "duration_str": "7h 3m"
   },
   {
     "title": "Cinq villes suisses appellent le Conseil fédéral à agir pour Gaza",
@@ -44586,5 +44592,13 @@
   {
     "title": "Au moins 450'000 Palestiniens ont fui la ville de Gaza en trois semaines",
     "added_at": "2025-09-19T21:30:27.523Z"
+  },
+  {
+    "title": "Les avions de l'Otan interceptent trois MIG russes dans le ciel estonien, la Russie nie toute violation",
+    "added_at": "2025-09-20T00:08:56.944Z"
+  },
+  {
+    "title": "L'objectif de 1,5°C \"sur le point de s'effondrer\" selon le secrétaire général de l'ONU",
+    "added_at": "2025-09-20T01:39:24.993Z"
   }
 ]
