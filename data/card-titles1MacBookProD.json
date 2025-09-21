@@ -14295,7 +14295,10 @@
   },
   {
     "title": "Le résumé de l'actualité romande",
-    "added_at": "2025-09-04T05:14:35.113Z"
+    "added_at": "2025-09-04T05:14:35.113Z",
+    "removed_at": "2025-09-21T08:05:10.994Z",
+    "duration_minutes": 24650,
+    "duration_str": "17d 2h 50m"
   },
   {
     "title": "Deuil national à Lisbonne au lendemain du déraillement meurtrier d'un funiculaire",
@@ -19660,7 +19663,10 @@
   },
   {
     "title": "La police vaudoise appelle à la vigilance les détenteurs d'armes à feu",
-    "added_at": "2025-09-18T14:06:46.460Z"
+    "added_at": "2025-09-18T14:06:46.460Z",
+    "removed_at": "2025-09-21T08:05:10.994Z",
+    "duration_minutes": 3958,
+    "duration_str": "2d 17h 58m"
   },
   {
     "title": "Les boissons pour jeunes restent sucrées malgré les engagements",
@@ -19894,7 +19900,10 @@
   },
   {
     "title": "Le pavillon pirate du manga \"One Piece\", un symbole bien réel de la résistance à l'oppression",
-    "added_at": "2025-09-19T07:45:49.773Z"
+    "added_at": "2025-09-19T07:45:49.773Z",
+    "removed_at": "2025-09-21T08:22:49.884Z",
+    "duration_minutes": 2917,
+    "duration_str": "2d 37m"
   },
   {
     "title": "Les élections, une motivation: à peine remise d'un cancer, une élue repart en campagne",
@@ -19960,7 +19969,10 @@
   },
   {
     "title": "Feu! Chatterton se réinvente et trouve un souffle neuf dans les dédales de son \"Labyrinthe\"",
-    "added_at": "2025-09-19T12:30:53.141Z"
+    "added_at": "2025-09-19T12:30:53.141Z",
+    "removed_at": "2025-09-21T08:22:49.884Z",
+    "duration_minutes": 2631,
+    "duration_str": "1d 19h 51m"
   },
   {
     "title": "En Lituanie, les enfants apprennent à piloter des drones à l'école",
@@ -20243,10 +20255,7 @@
   },
   {
     "title": "L’eau minérale en eaux troubles",
-    "added_at": "2025-09-20T21:19:40.446Z",
-    "removed_at": "2025-09-20T21:24:04.298Z",
-    "duration_minutes": 4,
-    "duration_str": "4m"
+    "added_at": "2025-09-20T21:19:40.446Z"
   },
   {
     "title": "Sport matin - Le Sail GP, compétition de voiliers ultra-rapides, débarque à Genève",
@@ -20275,5 +20284,13 @@
   {
     "title": "Le siège des Verts attaqué par la droite lors de l'élection complémentaire au Conseil d'Etat genevois",
     "added_at": "2025-09-21T07:05:25.878Z"
+  },
+  {
+    "title": "Hormones: quand la chimie du corps bouscule la santé mentale",
+    "added_at": "2025-09-21T08:22:49.884Z"
+  },
+  {
+    "title": "\"Ecrire sur soi en détention\", six mois d'immersion dans des ateliers d'écriture pour détenus",
+    "added_at": "2025-09-21T08:22:49.884Z"
   }
 ]
