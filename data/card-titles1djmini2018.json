@@ -38928,7 +38928,10 @@
   },
   {
     "title": "Le résumé de l'actualité romande",
-    "added_at": "2025-09-04T05:15:13.030Z"
+    "added_at": "2025-09-04T05:15:13.030Z",
+    "removed_at": "2025-09-21T08:04:55.938Z",
+    "duration_minutes": 24649,
+    "duration_str": "17d 2h 49m"
   },
   {
     "title": "Deuil national à Lisbonne au lendemain du déraillement meurtrier d'un funiculaire",
@@ -44286,7 +44289,10 @@
   },
   {
     "title": "La police vaudoise appelle à la vigilance les détenteurs d'armes à feu",
-    "added_at": "2025-09-18T14:06:31.448Z"
+    "added_at": "2025-09-18T14:06:31.448Z",
+    "removed_at": "2025-09-21T08:04:55.938Z",
+    "duration_minutes": 3958,
+    "duration_str": "2d 17h 58m"
   },
   {
     "title": "Les boissons pour jeunes restent sucrées malgré les engagements",
@@ -44491,7 +44497,10 @@
   },
   {
     "title": "Une étude met en lumière la consommation quotidienne d'alcool chez nos cousins chimpanzés",
-    "added_at": "2025-09-19T06:36:36.571Z"
+    "added_at": "2025-09-19T06:36:36.571Z",
+    "removed_at": "2025-09-21T07:00:54.562Z",
+    "duration_minutes": 2904,
+    "duration_str": "2d 24m"
   },
   {
     "title": "L'énergie joyeuse et contestataire de Gnawa Diffusion s'invite à l'Alhambra de Genève",
@@ -44517,7 +44526,10 @@
   },
   {
     "title": "Le pavillon pirate du manga \"One Piece\", un symbole bien réel de la résistance à l'oppression",
-    "added_at": "2025-09-19T07:44:39.522Z"
+    "added_at": "2025-09-19T07:44:39.522Z",
+    "removed_at": "2025-09-21T08:21:55.503Z",
+    "duration_minutes": 2917,
+    "duration_str": "2d 37m"
   },
   {
     "title": "Les élections, une motivation: à peine remise d'un cancer, une élue repart en campagne",
@@ -44536,7 +44548,10 @@
   },
   {
     "title": "\"Bovary Madame\", héroïne de notre époque dans une reconstitution entre rires et violence",
-    "added_at": "2025-09-19T09:32:23.489Z"
+    "added_at": "2025-09-19T09:32:23.489Z",
+    "removed_at": "2025-09-21T06:19:24.020Z",
+    "duration_minutes": 2687,
+    "duration_str": "1d 20h 47m"
   },
   {
     "title": "Le Conseil fédéral veut encadrer l'enseignement des langues nationales",
@@ -44580,7 +44595,10 @@
   },
   {
     "title": "Feu! Chatterton se réinvente et trouve un souffle neuf dans les dédales de son \"Labyrinthe\"",
-    "added_at": "2025-09-19T12:30:02.378Z"
+    "added_at": "2025-09-19T12:30:02.378Z",
+    "removed_at": "2025-09-21T08:23:49.431Z",
+    "duration_minutes": 2633,
+    "duration_str": "1d 19h 53m"
   },
   {
     "title": "En Lituanie, les enfants apprennent à piloter des drones à l'école",
@@ -44779,10 +44797,7 @@
   },
   {
     "title": "L’eau minérale en eaux troubles",
-    "added_at": "2025-09-20T09:36:45.813Z",
-    "removed_at": "2025-09-20T21:25:16.775Z",
-    "duration_minutes": 708,
-    "duration_str": "11h 48m"
+    "added_at": "2025-09-20T09:36:45.813Z"
   },
   {
     "title": "Les intérêts commerciaux des médias fragilisent la liberté d'expression aux Etats-Unis",
@@ -44887,5 +44902,21 @@
   {
     "title": "Vaccination: le massage de la peau, futur remplaçant des aiguilles ?",
     "added_at": "2025-09-21T06:00:23.855Z"
+  },
+  {
+    "title": "Le Royaume-Uni et le Portugal vont reconnaître officiellement l'Etat palestinien dimanche",
+    "added_at": "2025-09-21T06:19:24.020Z"
+  },
+  {
+    "title": "Le siège des Verts attaqué par la droite lors de l'élection complémentaire au Conseil d'Etat genevois",
+    "added_at": "2025-09-21T07:04:39.533Z"
+  },
+  {
+    "title": "Hormones: quand la chimie du corps bouscule la santé mentale",
+    "added_at": "2025-09-21T08:21:55.503Z"
+  },
+  {
+    "title": "\"Ecrire sur soi en détention\", six mois d'immersion dans des ateliers d'écriture pour détenus",
+    "added_at": "2025-09-21T08:23:49.431Z"
   }
 ]
