@@ -118,8 +118,9 @@
   {
     "title": "sport:::Le bateau allemand remporte l’étape genevoise du SailGP, les Suisses troisièmes",
     "added_at": "2025-09-21T14:40:09.393Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-21T16:28:07.313Z",
+    "duration_minutes": 108,
+    "duration_str": "1h 48m"
   },
   {
     "title": "economie:::La Chine mise sur les robots pour réinventer les services",
@@ -130,6 +131,12 @@
   {
     "title": "monde:::Juifs yéménites: l’histoire d’une disparition",
     "added_at": "2025-09-21T15:28:31.008Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Mille dollars pour une tente: à Gaza-City, partir coûte trop cher, rester coûte la vie",
+    "added_at": "2025-09-21T15:59:31.907Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
