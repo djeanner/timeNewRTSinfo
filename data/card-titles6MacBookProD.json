@@ -40875,7 +40875,10 @@
   },
   {
     "title": "Israeli attacks on Gaza City, shelters kill at least 55 Palestinians",
-    "added_at": "2025-09-21T15:44:06.041Z"
+    "added_at": "2025-09-21T15:44:06.041Z",
+    "removed_at": "2025-09-21T19:24:59.530Z",
+    "duration_minutes": 220,
+    "duration_str": "3h 40m"
   },
   {
     "title": "Germany scrambles jets after Russia military aircraft flies over Baltic Sea",
@@ -40883,7 +40886,10 @@
   },
   {
     "title": "LIVE: India vs Pakistan in Asia Cup 2025 – India chase 172",
-    "added_at": "2025-09-21T16:54:43.116Z"
+    "added_at": "2025-09-21T16:54:43.116Z",
+    "removed_at": "2025-09-21T18:54:06.389Z",
+    "duration_minutes": 119,
+    "duration_str": "1h 59m"
   },
   {
     "title": "Martinelli comes off bench to grab late draw for Arsenal against Man City",
@@ -40899,5 +40905,20 @@
   {
     "title": "Is recognising Palestine a way to ‘save face’ for Western leaders?",
     "added_at": "2025-09-21T18:27:23.791Z"
+  },
+  {
+    "title": "India trounce Pakistan again to remain unbeaten in Asia Cup",
+    "added_at": "2025-09-21T18:54:06.389Z",
+    "removed_at": "2025-09-21T19:05:10.855Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "LIVE: India trounce Pakistan again to remain unbeaten in Asia Cup",
+    "added_at": "2025-09-21T19:05:10.855Z"
+  },
+  {
+    "title": "Three children killed in Israeli attack on southern Lebanon",
+    "added_at": "2025-09-21T19:24:59.530Z"
   }
 ]
