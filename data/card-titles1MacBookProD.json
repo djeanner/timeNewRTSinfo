@@ -14296,9 +14296,9 @@
   {
     "title": "Le résumé de l'actualité romande",
     "added_at": "2025-09-04T05:14:35.113Z",
-    "removed_at": "2025-09-21T08:05:10.994Z",
-    "duration_minutes": 24650,
-    "duration_str": "17d 2h 50m"
+    "removed_at": "2025-09-21T09:02:33.001Z",
+    "duration_minutes": 24707,
+    "duration_str": "17d 3h 47m"
   },
   {
     "title": "Deuil national à Lisbonne au lendemain du déraillement meurtrier d'un funiculaire",
@@ -19663,10 +19663,7 @@
   },
   {
     "title": "La police vaudoise appelle à la vigilance les détenteurs d'armes à feu",
-    "added_at": "2025-09-18T14:06:46.460Z",
-    "removed_at": "2025-09-21T08:05:10.994Z",
-    "duration_minutes": 3958,
-    "duration_str": "2d 17h 58m"
+    "added_at": "2025-09-18T14:06:46.460Z"
   },
   {
     "title": "Les boissons pour jeunes restent sucrées malgré les engagements",
@@ -19947,7 +19944,10 @@
   },
   {
     "title": "La France suspend sa coopération antiterroriste avec le Mali",
-    "added_at": "2025-09-19T10:44:56.495Z"
+    "added_at": "2025-09-19T10:44:56.495Z",
+    "removed_at": "2025-09-21T08:38:18.367Z",
+    "duration_minutes": 2753,
+    "duration_str": "1d 21h 53m"
   },
   {
     "title": "Le Conseil fédéral veut économiser 2,4 milliards en 2027",
@@ -20207,7 +20207,10 @@
   },
   {
     "title": "Et si l'amour de l'humanité pour l'alcool descendait lui aussi du singe?",
-    "added_at": "2025-09-20T13:03:29.800Z"
+    "added_at": "2025-09-20T13:03:29.800Z",
+    "removed_at": "2025-09-21T09:02:33.001Z",
+    "duration_minutes": 1199,
+    "duration_str": "19h 59m"
   },
   {
     "title": "Les tours de Notre-Dame de Paris rouvertes au public après restauration",
@@ -20292,5 +20295,13 @@
   {
     "title": "\"Ecrire sur soi en détention\", six mois d'immersion dans des ateliers d'écriture pour détenus",
     "added_at": "2025-09-21T08:22:49.884Z"
+  },
+  {
+    "title": "Donald Trump et ses partisans réunis dimanche soir pour un hommage à Charlie Kirk",
+    "added_at": "2025-09-21T08:38:18.367Z"
+  },
+  {
+    "title": "Pourquoi l’or fascine?",
+    "added_at": "2025-09-21T09:02:33.001Z"
   }
 ]
