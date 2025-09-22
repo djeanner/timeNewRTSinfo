@@ -270,8 +270,9 @@
   {
     "title": "Egypt grants presidential pardon to activist Alaa Abd el-Fattah",
     "added_at": "2025-09-22T18:46:20.673Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-22T21:22:30.199Z",
+    "duration_minutes": 156,
+    "duration_str": "2h 36m"
   },
   {
     "title": "Moldova detains 74 people over alleged Russia-backed plot before elections",
@@ -302,8 +303,9 @@
   {
     "title": "Israel kills 37 in Gaza as France recognises State of Palestine",
     "added_at": "2025-09-22T19:44:35.786Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-22T21:26:50.573Z",
+    "duration_minutes": 102,
+    "duration_str": "1h 42m"
   },
   {
     "title": "France recognises Palestinian state ahead of UNGA meeting",
@@ -346,6 +348,25 @@
   {
     "title": "‘Time has come’: France recognises state of Palestine at the UN summit",
     "added_at": "2025-09-22T21:15:46.896Z",
+    "removed_at": "2025-09-22T21:46:53.021Z",
+    "duration_minutes": 31,
+    "duration_str": "31m"
+  },
+  {
+    "title": "Brazil’s Eduardo Bolsonaro charged in case linked to father’s coup attempt",
+    "added_at": "2025-09-22T21:22:30.199Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Israel kills 37 in Gaza as world leaders discuss two-state solution at UN",
+    "added_at": "2025-09-22T21:26:50.573Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "‘Time has come’: France recognises state of Palestine at UN summit",
+    "added_at": "2025-09-22T21:46:53.021Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
