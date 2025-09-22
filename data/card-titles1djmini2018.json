@@ -26408,7 +26408,10 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T21:30:25.517Z"
+    "added_at": "2025-07-25T21:30:25.517Z",
+    "removed_at": "2025-09-22T18:19:40.127Z",
+    "duration_minutes": 84769,
+    "duration_str": "58d 20h 49m"
   },
   {
     "title": "La légende du catch Hulk Hogan est décédée à l'âge de 71 ans",
@@ -44273,7 +44276,10 @@
   },
   {
     "title": "Les PFAS sont-ils la pollution du siècle ?",
-    "added_at": "2025-09-18T12:22:01.292Z"
+    "added_at": "2025-09-18T12:22:01.292Z",
+    "removed_at": "2025-09-22T19:21:54.844Z",
+    "duration_minutes": 6179,
+    "duration_str": "4d 6h 59m"
   },
   {
     "title": "Nidwald veut favoriser le français par rapport à l'anglais",
@@ -44958,7 +44964,10 @@
   },
   {
     "title": "D'Ascona à Lauterbrunnen, les plus beaux villages suisses en images",
-    "added_at": "2025-09-20T12:49:20.964Z"
+    "added_at": "2025-09-20T12:49:20.964Z",
+    "removed_at": "2025-09-22T17:36:09.090Z",
+    "duration_minutes": 3166,
+    "duration_str": "2d 4h 46m"
   },
   {
     "title": "Un ex-employé dénonce les faiblesses de sécurité de WhatsApp, mais qu'en est-il réellement?",
@@ -44997,7 +45006,10 @@
   },
   {
     "title": "Les tours de Notre-Dame de Paris rouvertes au public après restauration",
-    "added_at": "2025-09-20T13:53:42.425Z"
+    "added_at": "2025-09-20T13:53:42.425Z",
+    "removed_at": "2025-09-22T19:35:05.477Z",
+    "duration_minutes": 3221,
+    "duration_str": "2d 5h 41m"
   },
   {
     "title": "En Hongrie, les jeunes crient leur colère contre le parti de Viktor Orban",
@@ -45005,7 +45017,10 @@
   },
   {
     "title": "Environ 65'000 bénévoles ont ramassé des déchets en Suisse pour le Clean-Up-Day",
-    "added_at": "2025-09-20T14:27:41.984Z"
+    "added_at": "2025-09-20T14:27:41.984Z",
+    "removed_at": "2025-09-22T19:52:04.318Z",
+    "duration_minutes": 3204,
+    "duration_str": "2d 5h 24m"
   },
   {
     "title": "A Neuchâtel ou Zurich, il fait désormais aussi chaud qu'en Italie il y a 50 ans",
@@ -45408,5 +45423,50 @@
   {
     "title": "La plus grande simulation 3D de l'Univers à ce jour publiée par l'ESA",
     "added_at": "2025-09-22T17:15:14.198Z"
+  },
+  {
+    "title": "Une enquête de l'ONU accuse la Russie de crimes contre l'humanité avec ses drones",
+    "added_at": "2025-09-22T17:36:09.090Z"
+  },
+  {
+    "title": "L'ONU réunie à New-York pour reconnaître l'Etat palestinien",
+    "added_at": "2025-09-22T18:19:40.127Z"
+  },
+  {
+    "title": "Dubai, le \"Las Vegas du divorce\"",
+    "added_at": "2025-09-22T18:47:57.640Z",
+    "removed_at": "2025-09-22T18:51:42.238Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "Football: la remise du Ballon d'or 2025",
+    "added_at": "2025-09-22T19:21:54.844Z"
+  },
+  {
+    "title": "L'Inde face au fléau des chiens errants, un enjeu de santé publique",
+    "added_at": "2025-09-22T19:23:44.529Z",
+    "removed_at": "2025-09-22T19:25:38.272Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "L'Inde face au fléau des chiens errants, entre tradition et enjeu de santé publique",
+    "added_at": "2025-09-22T19:25:38.272Z"
+  },
+  {
+    "title": "La France reconnaît l'Etat de Palestine",
+    "added_at": "2025-09-22T19:35:05.477Z",
+    "removed_at": "2025-09-22T19:40:45.087Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "La France reconnaît l'Etat de Palestine, via la voix d'Emmanuel Macron à l'ONU",
+    "added_at": "2025-09-22T19:40:45.087Z"
+  },
+  {
+    "title": "Les discussions entre la pharma et le Conseil fédéral sur les droits de douane patinent",
+    "added_at": "2025-09-22T19:52:04.318Z"
   }
 ]
