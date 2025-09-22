@@ -35397,7 +35397,10 @@
   },
   {
     "title": "sport:::Scènes de violence à Aarau pendant et après un match de foot, samedi soir",
-    "added_at": "2025-09-21T09:13:29.719Z"
+    "added_at": "2025-09-21T09:13:29.719Z",
+    "removed_at": "2025-09-22T09:16:33.929Z",
+    "duration_minutes": 1443,
+    "duration_str": "1d 3m"
   },
   {
     "title": "monde:::Dans une Bosnie-Herzégovine qui se vide, le bras de fer du «défenseur» du peuple serbe Milorad Dodik",
@@ -35464,7 +35467,10 @@
   },
   {
     "title": "suisse:::Le président controversé du Cameroun Paul Biya est de retour à Genève",
-    "added_at": "2025-09-21T13:49:18.887Z"
+    "added_at": "2025-09-21T13:49:18.887Z",
+    "removed_at": "2025-09-22T08:50:00.797Z",
+    "duration_minutes": 1140,
+    "duration_str": "19h"
   },
   {
     "title": "culture:::Série: «Breslau», une plongée locale dans les débuts du Troisième Reich pour Disney+",
@@ -35537,5 +35543,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Une attaque de drones ukrainienne fait trois morts et 16 blessés en Crimée",
     "added_at": "2025-09-22T06:21:46.234Z"
+  },
+  {
+    "title": "suisse:::Le président controversé du Cameroun, Paul Biya, est de retour à Genève",
+    "added_at": "2025-09-22T08:50:00.797Z"
   }
 ]
