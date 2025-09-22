@@ -44536,7 +44536,10 @@
   },
   {
     "title": "Pourquoi on aime (ou pas) le gras ?",
-    "added_at": "2025-09-19T07:23:57.151Z"
+    "added_at": "2025-09-19T07:23:57.151Z",
+    "removed_at": "2025-09-22T16:01:38.387Z",
+    "duration_minutes": 4837,
+    "duration_str": "3d 8h 37m"
   },
   {
     "title": "La population genevoise vote sur une initiative visant à accorder une forme d'immunité aux policiers",
@@ -44944,7 +44947,10 @@
   },
   {
     "title": "\"L'amour et le plaisir sexuel? Je les ai découverts après mes 50 ans!\"",
-    "added_at": "2025-09-20T11:16:55.935Z"
+    "added_at": "2025-09-20T11:16:55.935Z",
+    "removed_at": "2025-09-22T17:02:01.313Z",
+    "duration_minutes": 3225,
+    "duration_str": "2d 5h 45m"
   },
   {
     "title": "Implants médicaux, entre progrès et vigilance sur les effets à long terme",
@@ -44956,7 +44962,10 @@
   },
   {
     "title": "Un ex-employé dénonce les faiblesses de sécurité de WhatsApp, mais qu'en est-il réellement?",
-    "added_at": "2025-09-20T12:55:00.500Z"
+    "added_at": "2025-09-20T12:55:00.500Z",
+    "removed_at": "2025-09-22T17:15:14.198Z",
+    "duration_minutes": 3140,
+    "duration_str": "2d 4h 20m"
   },
   {
     "title": "Les deux relais dames éliminés",
@@ -45334,10 +45343,7 @@
   },
   {
     "title": "Pas de Suisse à 10 millions, l'initiative UDC pour limiter l’immigration: débat entre Johanna Gapany et Céline Amaudruz",
-    "added_at": "2025-09-22T09:19:21.649Z",
-    "removed_at": "2025-09-22T09:23:07.290Z",
-    "duration_minutes": 3,
-    "duration_str": "3m"
+    "added_at": "2025-09-22T09:19:21.649Z"
   },
   {
     "title": "Deux hommes victimes d'une agression à la machette devant l'Usine à Genève",
@@ -45394,5 +45400,13 @@
   {
     "title": "Vladimir Poutine propose de prolonger d'un an le traité de désarmement nucléaire New Start",
     "added_at": "2025-09-22T14:57:17.904Z"
+  },
+  {
+    "title": "Rejet net du Parlement de l'initiative pour une redevance à 200 francs",
+    "added_at": "2025-09-22T17:02:01.313Z"
+  },
+  {
+    "title": "La plus grande simulation 3D de l'Univers à ce jour publiée par l'ESA",
+    "added_at": "2025-09-22T17:15:14.198Z"
   }
 ]
