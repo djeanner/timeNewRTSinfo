@@ -3735,7 +3735,10 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T19:02:44.375Z"
+    "added_at": "2025-07-25T19:02:44.375Z",
+    "removed_at": "2025-09-22T18:19:53.082Z",
+    "duration_minutes": 84917,
+    "duration_str": "58d 23h 17m"
   },
   {
     "title": "En Israël, la population sensible au sort des Gazaouis refuse d'en rendre son armée responsable",
@@ -20325,7 +20328,10 @@
   },
   {
     "title": "D'Ascona à Lauterbrunnen, les plus beaux villages suisses en images",
-    "added_at": "2025-09-20T12:50:09.481Z"
+    "added_at": "2025-09-20T12:50:09.481Z",
+    "removed_at": "2025-09-22T17:36:01.258Z",
+    "duration_minutes": 3165,
+    "duration_str": "2d 4h 45m"
   },
   {
     "title": "Un ex-employé dénonce les faiblesses de sécurité de WhatsApp, mais qu'en est-il réellement?",
@@ -20782,5 +20788,13 @@
   {
     "title": "La plus grande simulation 3D de l'Univers à ce jour publiée par l'ESA",
     "added_at": "2025-09-22T17:16:09.072Z"
+  },
+  {
+    "title": "Une enquête de l'ONU accuse la Russie de crimes contre l'humanité avec ses drones",
+    "added_at": "2025-09-22T17:36:01.258Z"
+  },
+  {
+    "title": "L'ONU réunie à New-York pour reconnaître l'Etat palestinien",
+    "added_at": "2025-09-22T18:19:53.082Z"
   }
 ]
