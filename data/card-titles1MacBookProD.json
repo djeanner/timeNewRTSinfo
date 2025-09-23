@@ -20751,7 +20751,10 @@
   },
   {
     "title": "A Genève, fermeture temporaire de l'Usine après deux agressions à la machette",
-    "added_at": "2025-09-21T17:23:21.901Z"
+    "added_at": "2025-09-21T17:23:21.901Z",
+    "removed_at": "2025-09-23T22:15:56.699Z",
+    "duration_minutes": 3172,
+    "duration_str": "2d 4h 52m"
   },
   {
     "title": "Daniel Cohn-Bendit: \"Les forces politiques françaises rêvent d'une situation qui n'existe plus\"",
@@ -20861,7 +20864,10 @@
   },
   {
     "title": "Pas de Suisse à 10 millions, l'initiative UDC pour limiter l’immigration: débat entre Johanna Gapany et Céline Amaudruz",
-    "added_at": "2025-09-22T09:18:48.948Z"
+    "added_at": "2025-09-22T09:18:48.948Z",
+    "removed_at": "2025-09-23T22:04:47.041Z",
+    "duration_minutes": 2205,
+    "duration_str": "1d 12h 45m"
   },
   {
     "title": "Deux hommes victimes d'une agression à la machette devant l'Usine à Genève",
@@ -21242,5 +21248,13 @@
   {
     "title": "L'actrice franco-italienne Claudia Cardinale est décédée à l'âge de 87 ans",
     "added_at": "2025-09-23T20:51:32.940Z"
+  },
+  {
+    "title": "A quel point doit-on manger des protéines ?",
+    "added_at": "2025-09-23T22:04:47.041Z"
+  },
+  {
+    "title": "Volodymyr Zelensky salue le \"grand tournant\" de Donald Trump sur le conflit en Ukraine",
+    "added_at": "2025-09-23T22:15:56.699Z"
   }
 ]
