@@ -20625,7 +20625,10 @@
   },
   {
     "title": "Les frites, un plaisir gourmand mais une addition salée pour la santé",
-    "added_at": "2025-09-21T13:07:15.218Z"
+    "added_at": "2025-09-21T13:07:15.218Z",
+    "removed_at": "2025-09-23T18:07:19.105Z",
+    "duration_minutes": 3180,
+    "duration_str": "2d 5h"
   },
   {
     "title": "Le Royaume-Uni et le Canada reconnaissent l'Etat de Palestine",
@@ -21158,7 +21161,10 @@
   },
   {
     "title": "Fait rarissime, le référendum cantonal contre l'imposition individuelle a abouti",
-    "added_at": "2025-09-23T16:23:24.941Z"
+    "added_at": "2025-09-23T16:23:24.941Z",
+    "removed_at": "2025-09-23T18:23:14.848Z",
+    "duration_minutes": 119,
+    "duration_str": "1h 59m"
   },
   {
     "title": "Jean-Marc Heuberger analyse les hausses attendues des primes maladies",
@@ -21182,5 +21188,9 @@
   {
     "title": "La réforme de la loi sur l'énergie divise le Parlement vaudois",
     "added_at": "2025-09-23T17:03:22.255Z"
+  },
+  {
+    "title": "Fait rarissime, le référendum des cantons contre l'imposition individuelle a abouti",
+    "added_at": "2025-09-23T18:23:14.848Z"
   }
 ]

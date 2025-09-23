@@ -41645,7 +41645,10 @@
   },
   {
     "title": "NATO warns Russia of airspace violations, will defend self, deter threats",
-    "added_at": "2025-09-23T13:32:25.988Z"
+    "added_at": "2025-09-23T13:32:25.988Z",
+    "removed_at": "2025-09-23T17:45:52.423Z",
+    "duration_minutes": 253,
+    "duration_str": "4h 13m"
   },
   {
     "title": "Military-run Niger, Mali and Burkina Faso announce joint ICC withdrawal",
@@ -41678,10 +41681,21 @@
   },
   {
     "title": "As world leaders seek ceasefire at UN, Israeli attacks kill 34 in Gaza",
-    "added_at": "2025-09-23T16:36:48.493Z"
+    "added_at": "2025-09-23T16:36:48.493Z",
+    "removed_at": "2025-09-23T17:37:38.972Z",
+    "duration_minutes": 60,
+    "duration_str": "1h"
   },
   {
     "title": "Israel shuts crossing that connects occupied West Bank to Jordan",
     "added_at": "2025-09-23T16:58:59.599Z"
+  },
+  {
+    "title": "As world leaders seek ceasefire, Israeli attacks kill 34 people in Gaza",
+    "added_at": "2025-09-23T17:37:38.972Z"
+  },
+  {
+    "title": "Trump calls for Gaza war to stop ‘immediately’ in UNGA speech",
+    "added_at": "2025-09-23T17:45:52.423Z"
   }
 ]
