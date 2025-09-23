@@ -75515,7 +75515,10 @@
   },
   {
     "title": "These Patients Got the Cure. Then It Went Away.",
-    "added_at": "2025-09-22T19:45:37.710Z"
+    "added_at": "2025-09-22T19:45:37.710Z",
+    "removed_at": "2025-09-23T05:49:47.195Z",
+    "duration_minutes": 604,
+    "duration_str": "10h 4m"
   },
   {
     "title": "Jimmy Kimmel’s Show to Return to ABC on Tuesday Night",
@@ -75631,14 +75634,14 @@
   },
   {
     "title": "Flights Are Temporarily Diverted From Copenhagen Airport After Drone Sightings",
-    "added_at": "2025-09-22T23:03:37.799Z"
+    "added_at": "2025-09-22T23:03:37.799Z",
+    "removed_at": "2025-09-23T05:25:37.649Z",
+    "duration_minutes": 381,
+    "duration_str": "6h 21m"
   },
   {
     "title": "Trump’s Efforts to Punish His Enemies Are Ramping Up",
-    "added_at": "2025-09-22T23:34:27.158Z",
-    "removed_at": "2025-09-23T00:13:49.857Z",
-    "duration_minutes": 39,
-    "duration_str": "39m"
+    "added_at": "2025-09-22T23:34:27.158Z"
   },
   {
     "title": "World Leaders Recognize Palestinian State, in a Challenge to U.S. and Israel",
@@ -75694,5 +75697,17 @@
   {
     "title": "Trump Issues Warning Based on Unproven Link Between Tylenol and Autism",
     "added_at": "2025-09-23T04:52:36.576Z"
+  },
+  {
+    "title": "Trump’s Handpicked Prosecutor Takes Over Comey and James Cases",
+    "added_at": "2025-09-23T05:21:14.222Z"
+  },
+  {
+    "title": "As a New Year Begins, a Rabbi Reflects on High Tension Among Jews",
+    "added_at": "2025-09-23T05:25:37.649Z"
+  },
+  {
+    "title": "Sean Combs’s Lawyers Urge Judge to Free Him Before the End of 2025",
+    "added_at": "2025-09-23T05:49:47.195Z"
   }
 ]
