@@ -262,8 +262,9 @@
   {
     "title": "Trump policy derails Gazan students’ plans",
     "added_at": "2025-09-22T11:08:39.677Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-23T00:05:01.898Z",
+    "duration_minutes": 776,
+    "duration_str": "12h 56m"
   },
   {
     "title": "American makes history by winning one of France’s top cheese competitions",
@@ -461,9 +462,8 @@
   {
     "title": "Dr. Gupta on potential association between Tylenol use during pregnancy and autism: ‘Not a cause and effect’",
     "added_at": "2025-09-22T16:18:36.212Z",
-    "removed_at": "2025-09-22T20:18:31.149Z",
-    "duration_minutes": 240,
-    "duration_str": "4h"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Trump’s peace deal means nothing, African rebel leader says: ‘We need to liberate our country’",
@@ -532,7 +532,7 @@
   {
     "title": "Jimmy Kimmel’s show set to return on Tuesday",
     "added_at": "2025-09-22T19:47:49.887Z",
-    "removed_at": "2025-09-22T20:18:31.149Z",
+    "removed_at": "2025-09-22T20:18:43.315Z",
     "duration_minutes": 31,
     "duration_str": "31m"
   },
@@ -552,8 +552,9 @@
   {
     "title": "‘Jimmy Kimmel Live!’ was abruptly and indefinitely taken off the air last week, sparking a national debate about freedom of speech",
     "added_at": "2025-09-22T20:18:31.149Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-22T23:23:28.169Z",
+    "duration_minutes": 185,
+    "duration_str": "3h 5m"
   },
   {
     "title": "Kimmel’s ABC colleagues at ‘The View’ finally speak out: ‘No one silences us’",
@@ -604,8 +605,9 @@
   {
     "title": "Copenhagen Airport closed after drones sighted in the area",
     "added_at": "2025-09-22T21:20:15.795Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-22T23:23:28.169Z",
+    "duration_minutes": 123,
+    "duration_str": "2h 3m"
   },
   {
     "title": "Tucker Carlson, Megyn Kelly and Glenn Beck among conservatives who will help complete Charlie Kirk’s US college tour",
@@ -616,8 +618,9 @@
   {
     "title": "Trump links autism to acetaminophen use during pregnancy, despite decades of evidence it’s safe",
     "added_at": "2025-09-22T21:40:19.284Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-22T23:23:28.169Z",
+    "duration_minutes": 103,
+    "duration_str": "1h 43m"
   },
   {
     "title": "US is blocking Iranian diplomats in US from shopping at Costco",
@@ -630,5 +633,30 @@
     "added_at": "2025-09-22T22:59:16.025Z",
     "duration_minutes": 0,
     "duration_str": ""
+  },
+  {
+    "title": "The FDA says it is advising doctors on the drug’s use during pregnancy, but the science is not settled",
+    "added_at": "2025-09-22T23:23:28.169Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Ob/gyn group advises against cannabis use during pregnancy, recommends universal screening",
+    "added_at": "2025-09-22T23:23:28.169Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "CDC advisers vote that patients must consult a health care provider for Covid-19 vaccination, but no prescription required",
+    "added_at": "2025-09-22T23:23:28.169Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Copenhagen Airport closed for hours after drones sighted in the area",
+    "added_at": "2025-09-22T23:23:28.169Z",
+    "removed_at": "2025-09-23T00:07:15.686Z",
+    "duration_minutes": 44,
+    "duration_str": "44m"
   }
 ]
