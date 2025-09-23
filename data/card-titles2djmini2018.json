@@ -34635,7 +34635,10 @@
   },
   {
     "title": "suisse:::A Vernier, de nouvelles élections sans le parti de Pierre Maudet mais avec ses candidats",
-    "added_at": "2025-09-22T20:11:08.214Z"
+    "added_at": "2025-09-22T20:11:08.214Z",
+    "removed_at": "2025-09-23T10:29:46.441Z",
+    "duration_minutes": 858,
+    "duration_str": "14h 18m"
   },
   {
     "title": "monde:::Après sa suspension, l’émission de l’humoriste américain Jimmy Kimmel sera de retour à l'antenne ce mardi",
@@ -34679,10 +34682,7 @@
   },
   {
     "title": "monde:::Discours enflammés, conciliabules en coulisses et unilatéralisme américain: bienvenue à l’Assemblée générale de l’ONU",
-    "added_at": "2025-09-23T04:08:34.458Z",
-    "removed_at": "2025-09-23T08:49:39.978Z",
-    "duration_minutes": 281,
-    "duration_str": "4h 41m"
+    "added_at": "2025-09-23T04:08:34.458Z"
   },
   {
     "title": "economie:::Investir pour la prochaine décennie, entre une Amérique renfermée et une Europe ambitieuse",
@@ -34720,7 +34720,10 @@
   },
   {
     "title": "cyber:::«Puissance de calcul» et afflux de «cash»: Nvidia investit 100 milliards dans OpenAI",
-    "added_at": "2025-09-23T09:04:44.859Z"
+    "added_at": "2025-09-23T09:04:44.859Z",
+    "removed_at": "2025-09-23T12:00:31.870Z",
+    "duration_minutes": 175,
+    "duration_str": "2h 55m"
   },
   {
     "title": "culture:::Artiste de musique actuelle, un métier qui reste sans filet en Suisse",
@@ -34728,6 +34731,24 @@
   },
   {
     "title": "culture:::Franziska Burkhardt, cheffe du Service de la culture de la ville de Berne: «Nous n’acceptons plus aucun projet sans rémunération adéquate»",
-    "added_at": "2025-09-23T09:57:35.473Z"
+    "added_at": "2025-09-23T09:57:35.473Z",
+    "removed_at": "2025-09-23T12:00:31.870Z",
+    "duration_minutes": 122,
+    "duration_str": "2h 2m"
+  },
+  {
+    "title": "economie:::Droits de douane: l’Europe impuissante face à la déferlante des exportations industrielles chinoises",
+    "added_at": "2025-09-23T10:29:46.441Z"
+  },
+  {
+    "title": "monde:::En direct, Assemblée générale de l'ONU – Donald Trump face au reste du monde",
+    "added_at": "2025-09-23T12:00:31.870Z",
+    "removed_at": "2025-09-23T12:19:25.003Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
+  },
+  {
+    "title": "monde:::En direct, Assemblée générale de l’ONU – Avant le discours de Donald Trump, une attaque contre les télécommunications déjouée à New York",
+    "added_at": "2025-09-23T12:19:25.003Z"
   }
 ]
