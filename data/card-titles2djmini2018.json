@@ -34577,11 +34577,17 @@
   },
   {
     "title": "suisse:::Quels sont les «pires endroits» pour les piétons à Genève? Une association donne la liste",
-    "added_at": "2025-09-22T16:41:15.471Z"
+    "added_at": "2025-09-22T16:41:15.471Z",
+    "removed_at": "2025-09-23T15:35:58.491Z",
+    "duration_minutes": 1374,
+    "duration_str": "22h 54m"
   },
   {
     "title": "economie:::Est-ce qu’UBS pourrait (vraiment) délocaliser son siège aux Etats-Unis?",
-    "added_at": "2025-09-22T16:45:01.149Z"
+    "added_at": "2025-09-22T16:45:01.149Z",
+    "removed_at": "2025-09-23T15:02:01.684Z",
+    "duration_minutes": 1337,
+    "duration_str": "22h 17m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël veut empêcher la flottille pour Gaza de briser le blocus de l'enclave",
@@ -34747,7 +34753,10 @@
   },
   {
     "title": "economie:::Droits de douane: l’Europe impuissante face à la déferlante des exportations industrielles chinoises",
-    "added_at": "2025-09-23T10:29:46.441Z"
+    "added_at": "2025-09-23T10:29:46.441Z",
+    "removed_at": "2025-09-23T16:29:27.093Z",
+    "duration_minutes": 359,
+    "duration_str": "5h 59m"
   },
   {
     "title": "monde:::En direct, Assemblée générale de l'ONU – Donald Trump face au reste du monde",
@@ -34765,15 +34774,24 @@
   },
   {
     "title": "culture:::Antony Cordier, réalisateur de «Classe moyenne»: «La méchanceté est dans les codes de la satire»",
-    "added_at": "2025-09-23T12:45:57.128Z"
+    "added_at": "2025-09-23T12:45:57.128Z",
+    "removed_at": "2025-09-23T15:58:42.728Z",
+    "duration_minutes": 192,
+    "duration_str": "3h 12m"
   },
   {
     "title": "suisse:::En graphiques – Les primes maladie vont augmenter de 4,4% en moyenne en 2026",
-    "added_at": "2025-09-23T13:02:56.904Z"
+    "added_at": "2025-09-23T13:02:56.904Z",
+    "removed_at": "2025-09-23T16:40:47.193Z",
+    "duration_minutes": 217,
+    "duration_str": "3h 37m"
   },
   {
     "title": "suisse:::Primes maladie 2026: au Tessin, plus forte hausse du pays, les socialistes et la Lega proposent des solutions",
-    "added_at": "2025-09-23T13:08:35.993Z"
+    "added_at": "2025-09-23T13:08:35.993Z",
+    "removed_at": "2025-09-23T17:01:34.266Z",
+    "duration_minutes": 232,
+    "duration_str": "3h 52m"
   },
   {
     "title": "monde:::L’historien Johann Chapoutot: «L’utilisation de la mort de Charlie Kirk me fait penser à l’incendie du Reichstag»",
@@ -34781,10 +34799,62 @@
   },
   {
     "title": "monde:::En direct, Assemblée générale de l’ONU – Suivez le discours de Donald Trump face au reste du monde",
-    "added_at": "2025-09-23T13:40:43.960Z"
+    "added_at": "2025-09-23T13:40:43.960Z",
+    "removed_at": "2025-09-23T14:46:54.994Z",
+    "duration_minutes": 66,
+    "duration_str": "1h 6m"
   },
   {
     "title": "suisse:::Cinq hôpitaux romands et un assureur s’allient contre la hausse des coûts de la santé",
     "added_at": "2025-09-23T14:22:11.230Z"
+  },
+  {
+    "title": "monde:::En direct, Assemblée générale de l’ONU – «Vos pays sont ruinés à cause de l'immigration», lance Donald Trump, qui cite la Suisse",
+    "added_at": "2025-09-23T14:46:54.994Z",
+    "removed_at": "2025-09-23T16:02:32.213Z",
+    "duration_minutes": 75,
+    "duration_str": "1h 15m"
+  },
+  {
+    "title": "monde:::L’OTAN prête à utiliser «tous les moyens militaires et non militaires nécessaires» pour mettre fin aux menaces russes",
+    "added_at": "2025-09-23T15:02:01.684Z"
+  },
+  {
+    "title": "suisse:::A une voix près, la Confédération n’accordera pas de soutien fixe à l’Institut du fédéralisme",
+    "added_at": "2025-09-23T15:35:58.491Z"
+  },
+  {
+    "title": "sport:::Ousmane Dembélé, le Ballon d’or s’est réveillé",
+    "added_at": "2025-09-23T15:58:42.728Z"
+  },
+  {
+    "title": "monde:::En direct, Assemblée générale de l’ONU – Que retenir du discours décousu de Donald Trump?",
+    "added_at": "2025-09-23T16:02:32.213Z"
+  },
+  {
+    "title": "suisse:::Session spéciale sur l'asile: Beat Jans défend un système suisse «qui fonctionne bien»",
+    "added_at": "2025-09-23T16:29:27.093Z"
+  },
+  {
+    "title": "suisse:::Primes maladie: après la hausse de 4,4%, les élus cherchent des solutions, ou un truc du genre?",
+    "added_at": "2025-09-23T16:40:47.193Z",
+    "removed_at": "2025-09-23T16:46:27.803Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "suisse:::Primes maladie: après la hausse de 4,4%, les élus cherchent des solutions",
+    "added_at": "2025-09-23T16:46:27.803Z"
+  },
+  {
+    "title": "suisse:::Chaque année, les primes rongent un peu plus le pouvoir d’achat des Suisses",
+    "added_at": "2025-09-23T17:01:34.266Z",
+    "removed_at": "2025-09-23T17:03:28.541Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "suisse:::Comment, année après année, les primes maladie ont rongé un peu plus le pouvoir d’achat des Suisses",
+    "added_at": "2025-09-23T17:03:28.541Z"
   }
 ]
