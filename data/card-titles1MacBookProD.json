@@ -20877,10 +20877,7 @@
   },
   {
     "title": "Täsch, une enclave portugaise au cœur de la Suisse",
-    "added_at": "2025-09-22T09:16:33.882Z",
-    "removed_at": "2025-09-24T17:47:22.746Z",
-    "duration_minutes": 3390,
-    "duration_str": "2d 8h 30m"
+    "added_at": "2025-09-22T09:16:33.882Z"
   },
   {
     "title": "SailGP à Genève: le spectacle a été au rendez-vous sur le lac Léman",
@@ -21161,7 +21158,10 @@
   },
   {
     "title": "En Suède, huit glaciers ont entièrement disparu en 2024",
-    "added_at": "2025-09-23T09:32:06.273Z"
+    "added_at": "2025-09-23T09:32:06.273Z",
+    "removed_at": "2025-09-24T18:16:26.224Z",
+    "duration_minutes": 1964,
+    "duration_str": "1d 8h 44m"
   },
   {
     "title": "Micheline Calmy-Rey: \"En se taisant, la Suisse se fait complice de ce qui se passe à Gaza\"",
@@ -21521,5 +21521,9 @@
   {
     "title": "Ignazio Cassis: La reconnaissance de la Palestine est \"un levier qu'il vaut mieux utiliser plus tard\"",
     "added_at": "2025-09-24T17:38:34.893Z"
+  },
+  {
+    "title": "Une manifestation contre le plan d'économies du canton a réuni 3000 personnes à Fribourg",
+    "added_at": "2025-09-24T18:16:26.224Z"
   }
 ]
