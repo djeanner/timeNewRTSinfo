@@ -311,8 +311,9 @@
   {
     "title": "Au procès Jubillar, le premier jour de solitude de l’accusé",
     "added_at": "2025-09-23T06:58:21.323Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-24T07:01:45.851Z",
+    "duration_minutes": 1443,
+    "duration_str": "1d 3m"
   },
   {
     "title": "Le racialisme biologique revient aux Etats-Unis, mais aussi en France",
@@ -690,9 +691,8 @@
   {
     "title": "Le rebond de San Francisco grâce aux géants de l’IA",
     "added_at": "2025-09-23T13:02:57.634Z",
-    "removed_at": "2025-09-24T05:24:20.060Z",
-    "duration_minutes": 981,
-    "duration_str": "16h 21m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "A l’Assemblée nationale, le renouvellement du bureau pourrait acter le retour du RN",
@@ -1134,7 +1134,7 @@
   {
     "title": "Neuf millions de Parisiens de l’entre-deux-guerres dans une base de données grâce à l’intelligence artificielle",
     "added_at": "2025-09-23T22:15:57.242Z",
-    "removed_at": "2025-09-24T04:59:35.558Z",
+    "removed_at": "2025-09-24T04:59:47.596Z",
     "duration_minutes": 404,
     "duration_str": "6h 44m"
   },
