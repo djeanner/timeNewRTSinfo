@@ -20722,7 +20722,10 @@
   },
   {
     "title": "Le pouvoir d'achat",
-    "added_at": "2025-09-21T16:03:54.515Z"
+    "added_at": "2025-09-21T16:03:54.515Z",
+    "removed_at": "2025-09-24T20:18:54.965Z",
+    "duration_minutes": 4575,
+    "duration_str": "3d 4h 15m"
   },
   {
     "title": "Mondiaux d’athlétisme de Tokyo: Audrey Werro qualifiée pour la finale du 800 mètres",
@@ -20880,7 +20883,10 @@
   },
   {
     "title": "Täsch, une enclave portugaise au cœur de la Suisse",
-    "added_at": "2025-09-22T09:16:33.882Z"
+    "added_at": "2025-09-22T09:16:33.882Z",
+    "removed_at": "2025-09-24T20:18:54.965Z",
+    "duration_minutes": 3542,
+    "duration_str": "2d 11h 2m"
   },
   {
     "title": "SailGP à Genève: le spectacle a été au rendez-vous sur le lac Léman",
@@ -21022,7 +21028,10 @@
   },
   {
     "title": "Football: la remise du Ballon d'or 2025",
-    "added_at": "2025-09-22T19:21:33.223Z"
+    "added_at": "2025-09-22T19:21:33.223Z",
+    "removed_at": "2025-09-24T20:03:19.090Z",
+    "duration_minutes": 2921,
+    "duration_str": "2d 41m"
   },
   {
     "title": "L'Inde face au fléau des chiens errants, un enjeu de santé publique",
@@ -21541,13 +21550,28 @@
   },
   {
     "title": "Réunion du Conseil de l'Atlantique Nord à la suite de la multiplication des incursions dans son espace aérien",
-    "added_at": "2025-09-24T19:00:56.787Z",
-    "removed_at": "2025-09-24T19:18:44.359Z",
-    "duration_minutes": 17,
-    "duration_str": "17m"
+    "added_at": "2025-09-24T19:00:56.787Z"
   },
   {
     "title": "Le président camerounais Paul Biya est en Suisse après une polémique autour de sa fille",
     "added_at": "2025-09-24T19:18:44.359Z"
+  },
+  {
+    "title": "La hausse des primes maladie touche particulièrement le Valais et les enfants",
+    "added_at": "2025-09-24T20:12:15.244Z"
+  },
+  {
+    "title": "Couleurs locales - Signé",
+    "added_at": "2025-09-24T20:12:15.244Z",
+    "removed_at": "2025-09-24T20:16:39.295Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Que change la reconnaissance de la Palestine?",
+    "added_at": "2025-09-24T20:18:54.965Z",
+    "removed_at": "2025-09-24T20:23:18.110Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
   }
 ]
