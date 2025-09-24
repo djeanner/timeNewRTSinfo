@@ -31039,7 +31039,10 @@
   },
   {
     "title": "cyber:::A trois semaines du vote, Beat Jans fait du permis d’élève conducteur un modèle réduit de l’e-ID",
-    "added_at": "2025-09-08T12:50:27.888Z"
+    "added_at": "2025-09-08T12:50:27.888Z",
+    "removed_at": "2025-09-24T04:14:34.701Z",
+    "duration_minutes": 22524,
+    "duration_str": "15d 15h 24m"
   },
   {
     "title": "monde:::A Genève, Volker Türk fustige la «rhétorique génocidaire» d’Israël à Gaza",
@@ -32391,7 +32394,10 @@
   },
   {
     "title": "suisse:::Karin Keller-Sutter: «Ma préoccupation principale est de sauvegarder les intérêts de notre pays»",
-    "added_at": "2025-09-13T06:24:38.043Z"
+    "added_at": "2025-09-13T06:24:38.043Z",
+    "removed_at": "2025-09-24T04:14:34.701Z",
+    "duration_minutes": 15709,
+    "duration_str": "10d 21h 49m"
   },
   {
     "title": "monde:::Tensions entre le Venezuela et les Etats-Unis: le président Maduro ouvre les casernes pour que ses concitoyens viennent «apprendre à tirer»",
@@ -34310,7 +34316,10 @@
   },
   {
     "title": "suisse:::Les Vaudois voteront sur un droit de vote facilité pour les étrangers",
-    "added_at": "2025-09-21T08:40:57.965Z"
+    "added_at": "2025-09-21T08:40:57.965Z",
+    "removed_at": "2025-09-24T04:14:34.701Z",
+    "duration_minutes": 4053,
+    "duration_str": "2d 19h 33m"
   },
   {
     "title": "sport:::Scènes de violence à Aarau pendant et après un match de foot, samedi soir",
@@ -34897,10 +34906,7 @@
   },
   {
     "title": "monde:::Assemblée générale de l’ONU – Que retenir du discours décousu de Donald Trump?",
-    "added_at": "2025-09-23T17:29:20.345Z",
-    "removed_at": "2025-09-23T17:51:54.453Z",
-    "duration_minutes": 22,
-    "duration_str": "22m"
+    "added_at": "2025-09-23T17:29:20.345Z"
   },
   {
     "title": "monde:::A la tribune de l’ONU, Donald Trump déverse son fiel contre l’organisation multilatérale",
@@ -34954,5 +34960,24 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky salue le «tournant» de Donald Trump",
     "added_at": "2025-09-24T02:40:10.589Z"
+  },
+  {
+    "title": "monde:::Donald Trump déclare que l’Ukraine peut gagner la guerre: véritable volte-face ou poudre aux yeux?",
+    "added_at": "2025-09-24T03:29:20.977Z"
+  },
+  {
+    "title": "suisse:::Se disant débordée, l’agence suisse anti-blanchiment prend le risque de se couper d’informations cruciales",
+    "added_at": "2025-09-24T04:14:34.701Z"
+  },
+  {
+    "title": "monde:::Le Chili propose Michelle Bachelet pour succéder à Antonio Guterres à la tête de l'ONU",
+    "added_at": "2025-09-24T04:14:34.701Z",
+    "removed_at": "2025-09-24T04:23:59.312Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "monde:::Le passage du typhon Ragasa provoque la rupture d'une digue à Taïwan, plusieurs morts recensés",
+    "added_at": "2025-09-24T04:14:34.701Z"
   }
 ]
