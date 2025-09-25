@@ -26408,7 +26408,10 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T21:30:25.517Z"
+    "added_at": "2025-07-25T21:30:25.517Z",
+    "removed_at": "2025-09-24T22:19:40.990Z",
+    "duration_minutes": 87889,
+    "duration_str": "61d 49m"
   },
   {
     "title": "La légende du catch Hulk Hogan est décédée à l'âge de 71 ans",
@@ -46195,16 +46198,16 @@
   {
     "title": "Couleurs locales - Signé",
     "added_at": "2025-09-24T20:12:58.807Z",
-    "removed_at": "2025-09-24T20:16:44.320Z",
-    "duration_minutes": 3,
-    "duration_str": "3m"
+    "removed_at": "2025-09-25T00:18:34.272Z",
+    "duration_minutes": 245,
+    "duration_str": "4h 5m"
   },
   {
     "title": "Que change la reconnaissance de la Palestine?",
     "added_at": "2025-09-24T20:18:38.157Z",
-    "removed_at": "2025-09-24T20:22:24.265Z",
-    "duration_minutes": 3,
-    "duration_str": "3m"
+    "removed_at": "2025-09-25T00:01:34.589Z",
+    "duration_minutes": 222,
+    "duration_str": "3h 42m"
   },
   {
     "title": "Israël ferme indéfiniment le seul point de passage entre la Cisjordanie et la Jordanie",
@@ -46213,5 +46216,16 @@
   {
     "title": "La Chine s'engage à réduire ses émissions de gaz à effet de serre de 7 à 10% d'ici 2035",
     "added_at": "2025-09-24T21:00:12.674Z"
+  },
+  {
+    "title": "Quelles sont les réactions des Israéliens suite à la reconnaissance de l'Etat de Palestine par Emmanuel Macron?: interview de Stéphane Juffa",
+    "added_at": "2025-09-24T23:59:38.144Z",
+    "removed_at": "2025-09-25T00:01:34.589Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "19h30 - Signé",
+    "added_at": "2025-09-25T00:18:34.272Z"
   }
 ]
