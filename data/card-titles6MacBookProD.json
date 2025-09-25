@@ -42320,7 +42320,10 @@
   },
   {
     "title": "Earthquake measuring at least magnitude 6.1 rocks Venezuela",
-    "added_at": "2025-09-25T05:16:52.221Z"
+    "added_at": "2025-09-25T05:16:52.221Z",
+    "removed_at": "2025-09-25T09:03:48.877Z",
+    "duration_minutes": 226,
+    "duration_str": "3h 46m"
   },
   {
     "title": "China’s new climate target branded ‘disappointing’, ‘underwhelming’",
@@ -42370,5 +42373,9 @@
   {
     "title": "Supermassive black holes not so massive say scientists",
     "added_at": "2025-09-25T08:45:57.307Z"
+  },
+  {
+    "title": "French ex-President Sarkozy guilty of conspiracy in Libya campaign case",
+    "added_at": "2025-09-25T09:03:48.877Z"
   }
 ]
