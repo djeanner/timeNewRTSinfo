@@ -35102,7 +35102,10 @@
   },
   {
     "title": "suisse:::Philippe Bigler, un homme au cœur des violences familiales",
-    "added_at": "2025-09-24T08:32:58.138Z"
+    "added_at": "2025-09-24T08:32:58.138Z",
+    "removed_at": "2025-09-25T08:14:55.643Z",
+    "duration_minutes": 1421,
+    "duration_str": "23h 41m"
   },
   {
     "title": "suisse:::Pour le géologue Raphaël Mayoraz, «la saison des catastrophes, c’est tout le temps»",
@@ -35215,7 +35218,10 @@
   },
   {
     "title": "economie:::«What if… Swatch venait à Watches and Wonders?»",
-    "added_at": "2025-09-24T15:25:23.926Z"
+    "added_at": "2025-09-24T15:25:23.926Z",
+    "removed_at": "2025-09-25T07:55:59.844Z",
+    "duration_minutes": 990,
+    "duration_str": "16h 30m"
   },
   {
     "title": "economie:::Montres: des nouvelles venues automnales",
@@ -35272,7 +35278,10 @@
   },
   {
     "title": "cyber:::Swisscom lance son assistant d’IA «100% suisse»… ou presque",
-    "added_at": "2025-09-24T18:21:14.841Z"
+    "added_at": "2025-09-24T18:21:14.841Z",
+    "removed_at": "2025-09-25T09:43:36.300Z",
+    "duration_minutes": 922,
+    "duration_str": "15h 22m"
   },
   {
     "title": "suisse:::Karin Keller-Sutter à la tribune de l’ONU: «Que valent tous les acquis de la civilisation s’ils ne contribuent pas concrètement à la liberté?»",
@@ -35331,11 +35340,17 @@
   },
   {
     "title": "cyber:::Giga-fortune, contrats record: une tempête souffle autour d’Oracle, championne discrète de la course à l’intelligence artificielle",
-    "added_at": "2025-09-25T04:07:05.050Z"
+    "added_at": "2025-09-25T04:07:05.050Z",
+    "removed_at": "2025-09-25T09:43:36.300Z",
+    "duration_minutes": 336,
+    "duration_str": "5h 36m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Conseil fédéral attend l'accord d'Israël pour accueillir des enfants blessés de Gaza",
-    "added_at": "2025-09-25T04:47:02.151Z"
+    "added_at": "2025-09-25T04:47:02.151Z",
+    "removed_at": "2025-09-25T08:43:13.201Z",
+    "duration_minutes": 236,
+    "duration_str": "3h 56m"
   },
   {
     "title": "monde:::Des drones non identifiés repérés au niveau de quatre aéroports au Danemark",
@@ -35361,10 +35376,65 @@
   },
   {
     "title": "monde:::Au Burkina Faso, sous la junte militaire: silence, répression et propagande",
-    "added_at": "2025-09-25T06:57:19.094Z"
+    "added_at": "2025-09-25T06:57:19.094Z",
+    "removed_at": "2025-09-25T09:39:52.116Z",
+    "duration_minutes": 162,
+    "duration_str": "2h 42m"
   },
   {
     "title": "culture:::«Les gros patinent bien»? Un cabaret de carton qui cartonne!",
     "added_at": "2025-09-25T07:14:19.227Z"
+  },
+  {
+    "title": "economie:::La BNS maintient son taux directeur à 0,00%",
+    "added_at": "2025-09-25T07:55:59.844Z",
+    "removed_at": "2025-09-25T08:12:59.539Z",
+    "duration_minutes": 16,
+    "duration_str": "16m"
+  },
+  {
+    "title": "economie:::La BNS maintient son taux directeur à 0%",
+    "added_at": "2025-09-25T08:12:59.539Z"
+  },
+  {
+    "title": "monde:::Nicolas Sarkozy déclaré coupable d'assossiation de malfaiteurs pour une corruption publique avec Mouammar Kadhafi",
+    "added_at": "2025-09-25T08:41:17.132Z",
+    "removed_at": "2025-09-25T08:43:13.201Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "monde:::Nicolas Sarkozy déclaré coupable d'association de malfaiteurs en vue d'une corruption publique avec Mouammar Kadhafi",
+    "added_at": "2025-09-25T08:43:13.201Z",
+    "removed_at": "2025-09-25T08:46:57.159Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Privé de visa par les Américains, Mahmoud Abbas attendu en vidéo à l’ONU",
+    "added_at": "2025-09-25T08:43:13.201Z"
+  },
+  {
+    "title": "monde:::Nicolas Sarkozy déclaré coupable d’association de malfaiteurs en vue d’une corruption publique avec Mouammar Kadhafi",
+    "added_at": "2025-09-25T08:46:57.159Z",
+    "removed_at": "2025-09-25T09:03:56.412Z",
+    "duration_minutes": 16,
+    "duration_str": "16m"
+  },
+  {
+    "title": "monde:::Nicolas Sarkozy déclaré coupable d’association de malfaiteurs en vue d’une corruption avec Mouammar Kadhafi",
+    "added_at": "2025-09-25T09:03:56.412Z"
+  },
+  {
+    "title": "monde:::Le Burkina Faso n’est plus que l’ombre du pays si longtemps cité en exemple",
+    "added_at": "2025-09-25T09:39:52.116Z"
+  },
+  {
+    "title": "monde:::Financement libyen: l'intermédiaire franco-libanais Ziad Takieddine est mort",
+    "added_at": "2025-09-25T09:43:36.300Z"
+  },
+  {
+    "title": "monde:::«Réquisitoire politique et violent»: l’énorme procès libyen de Sarkozy se clôt sur un tir croisé",
+    "added_at": "2025-09-25T09:43:36.300Z"
   }
 ]
