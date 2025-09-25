@@ -35193,7 +35193,10 @@
   },
   {
     "title": "sciences:::La «peluchologie», une science pour comprendre comment se forge notre rapport à la nature",
-    "added_at": "2025-09-24T14:00:13.610Z"
+    "added_at": "2025-09-24T14:00:13.610Z",
+    "removed_at": "2025-09-25T10:34:43.957Z",
+    "duration_minutes": 1234,
+    "duration_str": "20h 34m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Dans un discours très sombre à New York, Volodymyr Zelensky dénonce l’impuissance de l’ONU",
@@ -35412,7 +35415,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Privé de visa par les Américains, Mahmoud Abbas attendu en vidéo à l’ONU",
-    "added_at": "2025-09-25T08:43:13.201Z"
+    "added_at": "2025-09-25T08:43:13.201Z",
+    "removed_at": "2025-09-25T10:42:19.479Z",
+    "duration_minutes": 119,
+    "duration_str": "1h 59m"
   },
   {
     "title": "monde:::Nicolas Sarkozy déclaré coupable d’association de malfaiteurs en vue d’une corruption publique avec Mouammar Kadhafi",
@@ -35423,11 +35429,17 @@
   },
   {
     "title": "monde:::Nicolas Sarkozy déclaré coupable d’association de malfaiteurs en vue d’une corruption avec Mouammar Kadhafi",
-    "added_at": "2025-09-25T09:03:56.412Z"
+    "added_at": "2025-09-25T09:03:56.412Z",
+    "removed_at": "2025-09-25T11:06:47.230Z",
+    "duration_minutes": 122,
+    "duration_str": "2h 2m"
   },
   {
     "title": "monde:::Le Burkina Faso n’est plus que l’ombre du pays si longtemps cité en exemple",
-    "added_at": "2025-09-25T09:39:52.116Z"
+    "added_at": "2025-09-25T09:39:52.116Z",
+    "removed_at": "2025-09-25T10:21:29.956Z",
+    "duration_minutes": 41,
+    "duration_str": "41m"
   },
   {
     "title": "monde:::Financement libyen: l'intermédiaire franco-libanais Ziad Takieddine est mort",
@@ -35436,5 +35448,35 @@
   {
     "title": "monde:::«Réquisitoire politique et violent»: l’énorme procès libyen de Sarkozy se clôt sur un tir croisé",
     "added_at": "2025-09-25T09:43:36.300Z"
+  },
+  {
+    "title": "suisse:::Exclusion des élèves frontaliers à Genève: les élus français haussent le ton",
+    "added_at": "2025-09-25T10:21:29.956Z",
+    "removed_at": "2025-09-25T11:16:16.362Z",
+    "duration_minutes": 54,
+    "duration_str": "54m"
+  },
+  {
+    "title": "monde:::Suicides de soldats israéliens après Gaza: «L’armée a tenté de nier»",
+    "added_at": "2025-09-25T10:34:43.957Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L'Italie envoie un second navire militaire auprès de la flottille pour Gaza",
+    "added_at": "2025-09-25T10:42:19.479Z",
+    "removed_at": "2025-09-25T12:01:34.087Z",
+    "duration_minutes": 79,
+    "duration_str": "1h 19m"
+  },
+  {
+    "title": "monde:::Cinq ans de prison pour Nicolas Sarkozy suite à l’association de malfaiteurs en vue d’un «pacte de corruption» avec Mouammar Kadhafi",
+    "added_at": "2025-09-25T11:08:40.973Z"
+  },
+  {
+    "title": "suisse:::Genève «sous-estime l’Histoire de notre pays», s’insurgent des élus français après l’exclusion des élèves frontaliers",
+    "added_at": "2025-09-25T11:16:16.362Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Par crainte de la CPI, Benyamin Netanyahou coutourne l'espace aérien de la France et de l'Espagne",
+    "added_at": "2025-09-25T12:01:34.087Z"
   }
 ]
