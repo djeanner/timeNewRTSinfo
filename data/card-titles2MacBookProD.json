@@ -8226,7 +8226,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z"
+    "added_at": "2025-05-22T18:01:52.008Z",
+    "removed_at": "2025-09-26T12:07:39.534Z",
+    "duration_minutes": 182525,
+    "duration_str": "126d 18h 5m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -36820,7 +36823,10 @@
   },
   {
     "title": "suisse:::Bâle-Ville va-t-il inscrire l’UE dans sa Constitution?",
-    "added_at": "2025-09-26T05:48:56.051Z"
+    "added_at": "2025-09-26T05:48:56.051Z",
+    "removed_at": "2025-09-26T12:36:58.081Z",
+    "duration_minutes": 408,
+    "duration_str": "6h 48m"
   },
   {
     "title": "monde:::Rubicon, ces unités russes qui sèment l’effroi dans les rangs ukrainiens",
@@ -36835,11 +36841,17 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – La participation d'Israël à l'Eurovision 2026 sera tranchée en novembre",
-    "added_at": "2025-09-26T09:42:00.392Z"
+    "added_at": "2025-09-26T09:42:00.392Z",
+    "removed_at": "2025-09-26T12:50:34.301Z",
+    "duration_minutes": 188,
+    "duration_str": "3h 8m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Selon Kiev, la Russie a perdu plus d’un million de soldats",
-    "added_at": "2025-09-26T10:16:13.756Z"
+    "added_at": "2025-09-26T10:16:13.756Z",
+    "removed_at": "2025-09-26T12:12:08.153Z",
+    "duration_minutes": 115,
+    "duration_str": "1h 55m"
   },
   {
     "title": "economie:::Donald Trump donne un coup de pied dans l’écosystème pharmaceutique",
@@ -36852,5 +36864,25 @@
   {
     "title": "sport:::Pourquoi Victor Wembanyama, Charles Leclerc, Carlos Alcaraz ou Dani Carvajal se passionnent-ils pour le jeu d’échecs?",
     "added_at": "2025-09-26T11:06:21.321Z"
+  },
+  {
+    "title": "suisse:::Le Conseil fédéral veut taxer les voitures électriques dès 2030",
+    "added_at": "2025-09-26T12:07:39.534Z"
+  },
+  {
+    "title": "culture:::Histoire d’un éclair: comment le flash a éclairé le réel",
+    "added_at": "2025-09-26T12:07:39.534Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – La Russie juge «irresponsable» les «menaces» de Volodymyr Zelensky de frapper le Kremlin",
+    "added_at": "2025-09-26T12:12:08.153Z"
+  },
+  {
+    "title": "economie:::La sous-traitance horlogère a un nouvel opérateur de poids: le groupe Horatec à La Chaux-de-Fonds",
+    "added_at": "2025-09-26T12:36:58.081Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Frappes meutrières à Gaza alors que Benyamin Netanyahou s'exprime à l'ONU",
+    "added_at": "2025-09-26T12:50:34.301Z"
   }
 ]
