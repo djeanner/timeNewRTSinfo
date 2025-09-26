@@ -42,8 +42,9 @@
   {
     "title": "suisse:::Après des années de tension à Prilly, le lieu d’accueil des démunis La Demeure se cherche une nouvelle adresse",
     "added_at": "2025-09-26T05:07:48.780Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-26T15:22:49.927Z",
+    "duration_minutes": 615,
+    "duration_str": "10h 15m"
   },
   {
     "title": "suisse:::Bâle-Ville va-t-il inscrire l’UE dans sa Constitution?",
@@ -75,9 +76,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Selon Kiev, la Russie a perdu plus d’un million de soldats",
     "added_at": "2025-09-26T10:15:40.943Z",
-    "removed_at": "2025-09-26T12:12:08.153Z",
-    "duration_minutes": 116,
-    "duration_str": "1h 56m"
+    "removed_at": "2025-09-26T12:11:02.072Z",
+    "duration_minutes": 115,
+    "duration_str": "1h 55m"
   },
   {
     "title": "economie:::Donald Trump donne un coup de pied dans l’écosystème pharmaceutique",
@@ -100,21 +101,21 @@
   },
   {
     "title": "suisse:::Le Conseil fédéral veut taxer les voitures électriques dès 2030",
-    "added_at": "2025-09-26T12:07:39.534Z",
+    "added_at": "2025-09-26T12:07:17.359Z",
     "removed_at": "2025-09-26T14:49:08.922Z",
-    "duration_minutes": 161,
-    "duration_str": "2h 41m"
+    "duration_minutes": 162,
+    "duration_str": "2h 42m"
   },
   {
     "title": "culture:::Histoire d’un éclair: comment le flash a éclairé le réel",
     "added_at": "2025-09-26T12:07:39.534Z",
-    "removed_at": "2025-09-26T13:08:40.388Z",
-    "duration_minutes": 61,
-    "duration_str": "1h 1m"
+    "removed_at": "2025-09-26T13:07:48.739Z",
+    "duration_minutes": 60,
+    "duration_str": "1h"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Russie juge «irresponsable» les «menaces» de Volodymyr Zelensky de frapper le Kremlin",
-    "added_at": "2025-09-26T12:12:08.153Z",
+    "added_at": "2025-09-26T12:11:02.072Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -133,7 +134,7 @@
   },
   {
     "title": "culture:::Au Musée de l'appareil photo à Vevey, l'histoire d’un éclair: comment le flash a éclairé le réel",
-    "added_at": "2025-09-26T13:08:40.388Z",
+    "added_at": "2025-09-26T13:07:48.739Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -165,6 +166,12 @@
   {
     "title": "suisse:::Taxer les voitures électriques? Le projet du Conseil fédéral divise les milieux de la mobilité",
     "added_at": "2025-09-26T14:49:08.922Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Le Conseil fédéral assouplit la protection du bâti pour construire plus de logements",
+    "added_at": "2025-09-26T15:22:49.927Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
