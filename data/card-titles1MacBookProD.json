@@ -3735,7 +3735,10 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T19:02:44.375Z"
+    "added_at": "2025-07-25T19:02:44.375Z",
+    "removed_at": "2025-09-27T20:02:34.383Z",
+    "duration_minutes": 92219,
+    "duration_str": "64d 59m"
   },
   {
     "title": "En Israël, la population sensible au sort des Gazaouis refuse d'en rendre son armée responsable",
@@ -21819,10 +21822,7 @@
   },
   {
     "title": "19h30 - Signé",
-    "added_at": "2025-09-25T00:19:01.472Z",
-    "removed_at": "2025-09-27T19:03:32.175Z",
-    "duration_minutes": 4004,
-    "duration_str": "2d 18h 44m"
+    "added_at": "2025-09-25T00:19:01.472Z"
   },
   {
     "title": "Le changement climatique est \"une réalité que nous vivons\", répond à Trump un dirigeant des Caraïbes",
@@ -21980,7 +21980,10 @@
   },
   {
     "title": "Financement libyen: Nicolas Sarkozy condamné à cinq ans de prison ferme pour association de malfaiteurs",
-    "added_at": "2025-09-25T11:28:17.939Z"
+    "added_at": "2025-09-25T11:28:17.939Z",
+    "removed_at": "2025-09-27T20:02:34.383Z",
+    "duration_minutes": 3394,
+    "duration_str": "2d 8h 34m"
   },
   {
     "title": "Face à la hausse des primes maladie, les modèles alternatifs permettent des économies",
@@ -22286,7 +22289,10 @@
   },
   {
     "title": "La gauche lausannoise repart unie dans la course à la Municipalité",
-    "added_at": "2025-09-26T10:45:48.613Z"
+    "added_at": "2025-09-26T10:45:48.613Z",
+    "removed_at": "2025-09-27T20:04:50.409Z",
+    "duration_minutes": 1999,
+    "duration_str": "1d 9h 19m"
   },
   {
     "title": "Le Conseil fédéral ouvre la consultation sur la \"Lex UBS\"",
@@ -22631,5 +22637,9 @@
   {
     "title": "Pourquoi on ne pourra pas échapper à Windows 11",
     "added_at": "2025-09-27T19:34:32.503Z"
+  },
+  {
+    "title": "Un observatoire dédié va assurer la transparence du marché agroalimentaire",
+    "added_at": "2025-09-27T20:04:50.409Z"
   }
 ]
