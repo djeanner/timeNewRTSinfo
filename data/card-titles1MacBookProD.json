@@ -3735,10 +3735,7 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T19:02:44.375Z",
-    "removed_at": "2025-09-26T08:07:09.518Z",
-    "duration_minutes": 90064,
-    "duration_str": "62d 13h 4m"
+    "added_at": "2025-07-25T19:02:44.375Z"
   },
   {
     "title": "En Israël, la population sensible au sort des Gazaouis refuse d'en rendre son armée responsable",
@@ -20942,7 +20939,10 @@
   },
   {
     "title": "Le patron de Novartis souhaite une hausse des prix des médicaments en Suisse",
-    "added_at": "2025-09-22T11:24:36.282Z"
+    "added_at": "2025-09-22T11:24:36.282Z",
+    "removed_at": "2025-09-27T17:32:09.633Z",
+    "duration_minutes": 7567,
+    "duration_str": "5d 6h 7m"
   },
   {
     "title": "Après la chute de deux cèdres bicentenaires, Lausanne va réexaminer une soixantaine d'arbres",
@@ -22584,10 +22584,24 @@
   },
   {
     "title": "Des milliers de personnes ont défilé à Genève en solidarité avec Gaza",
-    "added_at": "2025-09-27T15:34:06.983Z"
+    "added_at": "2025-09-27T15:34:06.983Z",
+    "removed_at": "2025-09-27T16:47:43.899Z",
+    "duration_minutes": 73,
+    "duration_str": "1h 13m"
   },
   {
     "title": "Voici les plus beaux clichés primés par le Mangrove Photography Awards",
     "added_at": "2025-09-27T16:45:20.407Z"
+  },
+  {
+    "title": "Des milliers de personnes ont défilé à Genève en solidarité avec la Palestine",
+    "added_at": "2025-09-27T16:47:43.899Z"
+  },
+  {
+    "title": "Faut-il toujours garder du cash à la maison? Interview de Virgile Perret",
+    "added_at": "2025-09-27T17:29:59.423Z",
+    "removed_at": "2025-09-27T17:32:09.633Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
   }
 ]
