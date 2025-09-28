@@ -36210,11 +36210,17 @@
   },
   {
     "title": "monde:::Guerre en Ukraine – En direct, L’OTAN renforce sa présence dans la région Baltique",
-    "added_at": "2025-09-28T08:20:06.661Z"
+    "added_at": "2025-09-28T08:20:06.661Z",
+    "removed_at": "2025-09-28T20:56:41.213Z",
+    "duration_minutes": 756,
+    "duration_str": "12h 36m"
   },
   {
     "title": "monde:::Moyen-Orient – En direct, Relance des sanctions onusiennes contre l’Iran, une décennie après leur levée",
-    "added_at": "2025-09-28T08:27:36.815Z"
+    "added_at": "2025-09-28T08:27:36.815Z",
+    "removed_at": "2025-09-28T20:41:37.698Z",
+    "duration_minutes": 734,
+    "duration_str": "12h 14m"
   },
   {
     "title": "suisse:::Les votations du 28 septembre en graphiques – les projections et résultats sur l’abolition de la valeur locative et l’e-ID",
@@ -36418,7 +36424,10 @@
   },
   {
     "title": "suisse:::Les Tessinois veulent faire baisser les primes d’assurance maladie",
-    "added_at": "2025-09-28T18:21:44.589Z"
+    "added_at": "2025-09-28T18:21:44.589Z",
+    "removed_at": "2025-09-28T20:51:01.941Z",
+    "duration_minutes": 149,
+    "duration_str": "2h 29m"
   },
   {
     "title": "economie:::Où est passé le statut de refuge du franc?",
@@ -36431,5 +36440,17 @@
   {
     "title": "sport:::En maîtrise en 2024, en colère cette année, Tadej Pogacar conserve son titre mondial",
     "added_at": "2025-09-28T19:25:55.685Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump annonce «quelque chose de spécial» dans les négociations sur Gaza",
+    "added_at": "2025-09-28T20:43:33.581Z"
+  },
+  {
+    "title": "monde:::Le parti pro-européen PAS arrive en tête des législatives en Moldavie, selon un décompte partiel",
+    "added_at": "2025-09-28T20:49:12.019Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Le Danemark interdit tous les vols de drones civils la semaine prochaine sur son territoire",
+    "added_at": "2025-09-28T20:56:41.213Z"
   }
 ]
