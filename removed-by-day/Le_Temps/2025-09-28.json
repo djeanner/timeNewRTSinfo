@@ -22,8 +22,9 @@
   {
     "title": "suisse:::Les aéroports suisses sont mal préparés face aux attaques de drones",
     "added_at": "2025-09-28T07:26:09.975Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-09-28T15:27:02.305Z",
+    "duration_minutes": 481,
+    "duration_str": "8h 1m"
   },
   {
     "title": "culture:::Quand le luxe s’invite dans nos salles de cinéma",
@@ -59,30 +60,31 @@
   },
   {
     "title": "suisse:::Les votations du 28 septembre en graphiques – les projections et résultats sur l’abolition de la valeur locative et l’e-ID",
-    "added_at": "2025-09-28T10:14:24.783Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-09-28T10:13:31.392Z",
+    "removed_at": "2025-09-28T16:24:44.498Z",
+    "duration_minutes": 371,
+    "duration_str": "6h 11m"
   },
   {
     "title": "suisse:::En direct – Surprise, la valeur locative est supprimée par 58% des votants, suspense concernant l'eID",
     "added_at": "2025-09-28T10:43:19.422Z",
-    "removed_at": "2025-09-28T11:23:29.555Z",
+    "removed_at": "2025-09-28T11:23:25.257Z",
     "duration_minutes": 40,
     "duration_str": "40m"
   },
   {
     "title": "suisse:::En direct – Surprise, la valeur locative est supprimée par 58% des votants, suspense concernant l'e-ID",
-    "added_at": "2025-09-28T11:23:29.555Z",
-    "removed_at": "2025-09-28T11:30:09.809Z",
-    "duration_minutes": 7,
-    "duration_str": "7m"
+    "added_at": "2025-09-28T11:23:25.257Z",
+    "removed_at": "2025-09-28T11:29:05.175Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
   },
   {
     "title": "suisse:::En direct – Surprise, la valeur locative est supprimée par 59% des votants, suspense concernant l'e-ID",
-    "added_at": "2025-09-28T11:30:09.809Z",
+    "added_at": "2025-09-28T11:29:05.175Z",
     "removed_at": "2025-09-28T11:51:53.414Z",
-    "duration_minutes": 22,
-    "duration_str": "22m"
+    "duration_minutes": 23,
+    "duration_str": "23m"
   },
   {
     "title": "suisse:::En direct – Une incertitude «historique» concernant l'e-ID, la valeur locative est supprimée à 59%",
@@ -93,20 +95,20 @@
   },
   {
     "title": "suisse:::A Genève, un dimanche presque triomphal pour la gauche",
-    "added_at": "2025-09-28T12:07:29.521Z",
+    "added_at": "2025-09-28T12:06:53.712Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "suisse:::Suspens total pour l’identité électronique: les grandes villes feront la différence",
     "added_at": "2025-09-28T12:27:29.181Z",
-    "removed_at": "2025-09-28T12:29:39.011Z",
+    "removed_at": "2025-09-28T12:29:33.796Z",
     "duration_minutes": 2,
     "duration_str": "2m"
   },
   {
     "title": "suisse:::Suspens total pour l'e-ID: les grandes villes feront la différence",
-    "added_at": "2025-09-28T12:29:39.011Z",
+    "added_at": "2025-09-28T12:29:33.796Z",
     "removed_at": "2025-09-28T14:00:21.161Z",
     "duration_minutes": 91,
     "duration_str": "1h 31m"
@@ -145,6 +147,80 @@
   {
     "title": "suisse:::La protection du lac de la Gruyère ne figurera pas dans la Constitution fribourgeoise, le canton respire",
     "added_at": "2025-09-28T14:09:17.508Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Vaud modifie sa constitution pour une meilleure représentation dans ses organes législatifs",
+    "added_at": "2025-09-28T14:29:24.350Z",
+    "removed_at": "2025-09-28T15:51:24.177Z",
+    "duration_minutes": 82,
+    "duration_str": "1h 22m"
+  },
+  {
+    "title": "suisse:::Dans la course au Conseil d'Etat genevois, le Vert Nicolas Walder affrontera l’UDC Lionel Dugerdil en duel",
+    "added_at": "2025-09-28T14:40:27.617Z",
+    "removed_at": "2025-09-28T16:18:04.652Z",
+    "duration_minutes": 98,
+    "duration_str": "1h 38m"
+  },
+  {
+    "title": "suisse:::Les Vaudois refusent d’assouplir les droits politiques des étrangers",
+    "added_at": "2025-09-28T14:47:05.746Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::L’e-ID passe la rampe d’un cheveu grâce aux grandes villes",
+    "added_at": "2025-09-28T14:51:31.216Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Le Mormont n’entrera pas dans la Constitution, mais les Vaudois soutiennent une économie durable",
+    "added_at": "2025-09-28T15:27:02.305Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Vaud modifie sa Constitution pour une meilleure représentation dans ses organes législatifs",
+    "added_at": "2025-09-28T15:51:24.177Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Genève veut favoriser la mobilité piétonne, mais préfère les petits pas aux grandes enjambées",
+    "added_at": "2025-09-28T15:53:40.124Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "cyber:::Microsoft face à Israël, une histoire plus compliquée qu’il n’y paraît",
+    "added_at": "2025-09-28T16:13:34.225Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Dans la course au Conseil d’Etat genevois, le Vert Nicolas Walder affrontera en duel l’UDC Lionel Dugerdil",
+    "added_at": "2025-09-28T16:18:04.652Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Les votations du 28 septembre en graphiques – les résultats sur l’abolition de la valeur locative et l’e-ID",
+    "added_at": "2025-09-28T16:24:44.498Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Après des décennies de débat, la Suisse abolit la valeur locative",
+    "added_at": "2025-09-28T16:40:13.858Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Malgré l’horizon financier qui s’assombrit, Genève refuse de se soumettre à un frein automatique des dépenses",
+    "added_at": "2025-09-28T16:40:13.858Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
