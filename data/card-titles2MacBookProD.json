@@ -37460,7 +37460,10 @@
   },
   {
     "title": "suisse:::Dans la course au Conseil d’Etat genevois, le Vert Nicolas Walder affrontera en duel l’UDC Lionel Dugerdil",
-    "added_at": "2025-09-28T16:18:04.652Z"
+    "added_at": "2025-09-28T16:18:04.652Z",
+    "removed_at": "2025-09-29T16:24:21.852Z",
+    "duration_minutes": 1446,
+    "duration_str": "1d 6m"
   },
   {
     "title": "suisse:::Les votations du 28 septembre en graphiques – les résultats sur l’abolition de la valeur locative et l’e-ID",
@@ -37626,7 +37629,10 @@
   },
   {
     "title": "cyber:::Le malaise numérique de la Suisse est un signal fort pour les autres pays aussi",
-    "added_at": "2025-09-29T04:21:30.595Z"
+    "added_at": "2025-09-29T04:21:30.595Z",
+    "removed_at": "2025-09-29T16:39:56.763Z",
+    "duration_minutes": 738,
+    "duration_str": "12h 18m"
   },
   {
     "title": "suisse:::Le faible engouement pour le projet d'identité numérique, révélateur des craintes des citoyens",
@@ -37662,7 +37668,10 @@
   },
   {
     "title": "monde:::La Moldavie affirme dans les urnes son attachement pro-européen",
-    "added_at": "2025-09-29T07:18:58.924Z"
+    "added_at": "2025-09-29T07:18:58.924Z",
+    "removed_at": "2025-09-29T15:37:30.737Z",
+    "duration_minutes": 498,
+    "duration_str": "8h 18m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Le Danemark interdit les vols de drones civils cette semaine",
@@ -37680,14 +37689,14 @@
   },
   {
     "title": "suisse:::Votation sur le Mormont: «C’est une étape, mais certainement pas la fin d’un combat»",
-    "added_at": "2025-09-29T09:10:08.052Z"
+    "added_at": "2025-09-29T09:10:08.052Z",
+    "removed_at": "2025-09-29T17:13:21.982Z",
+    "duration_minutes": 483,
+    "duration_str": "8h 3m"
   },
   {
     "title": "sciences:::Michel Mayor: «La science forme une grande toile d’araignée d’amitié»",
-    "added_at": "2025-09-29T09:12:21.765Z",
-    "removed_at": "2025-09-29T15:06:09.586Z",
-    "duration_minutes": 353,
-    "duration_str": "5h 53m"
+    "added_at": "2025-09-29T09:12:21.765Z"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky affirme que la Russie a échoué à déstabiliser la Moldavie",
@@ -37695,11 +37704,17 @@
   },
   {
     "title": "culture:::Fabien Gaffez, la cinéphilie en partage d’Amiens au Plaza à Genève, en passant par Cannes et Paris",
-    "added_at": "2025-09-29T09:52:19.760Z"
+    "added_at": "2025-09-29T09:52:19.760Z",
+    "removed_at": "2025-09-29T15:37:30.737Z",
+    "duration_minutes": 345,
+    "duration_str": "5h 45m"
   },
   {
     "title": "suisse:::Dans le Jura, la construction de murs en pierres sèches se transmet dans la bonne humeur",
-    "added_at": "2025-09-29T09:58:58.827Z"
+    "added_at": "2025-09-29T09:58:58.827Z",
+    "removed_at": "2025-09-29T16:46:37.850Z",
+    "duration_minutes": 407,
+    "duration_str": "6h 47m"
   },
   {
     "title": "monde:::A Gaza, des humanitaires bloqués par la bureaucratie israélienne",
@@ -37718,7 +37733,10 @@
   },
   {
     "title": "sport:::Les fans américains de la Ryder Cup sont-ils allés trop loin?",
-    "added_at": "2025-09-29T12:34:48.047Z"
+    "added_at": "2025-09-29T12:34:48.047Z",
+    "removed_at": "2025-09-29T17:04:23.353Z",
+    "duration_minutes": 269,
+    "duration_str": "4h 29m"
   },
   {
     "title": "culture:::A Venise, la nomination orchestrée par Giorgia Meloni de Beatrice Venezi à la tête de la Fenice déclenche une vive polémique",
@@ -37726,7 +37744,10 @@
   },
   {
     "title": "economie:::Rachats dans le pilier 3a: rattraper les cotisations perdues",
-    "added_at": "2025-09-29T14:10:36.137Z"
+    "added_at": "2025-09-29T14:10:36.137Z",
+    "removed_at": "2025-09-29T15:37:30.737Z",
+    "duration_minutes": 86,
+    "duration_str": "1h 26m"
   },
   {
     "title": "suisse:::Venus de toute l’Europe, des syndicats dénoncent à Vevey le possible rachat de Nestlés Waters",
@@ -37745,6 +37766,59 @@
   },
   {
     "title": "culture:::Bad Bunny au Super Bowl, une unique date américaine en forme de tribune politique?",
-    "added_at": "2025-09-29T15:06:09.586Z"
+    "added_at": "2025-09-29T15:06:09.586Z",
+    "removed_at": "2025-09-29T15:24:10.889Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
+  },
+  {
+    "title": "suisse:::Alexis Roussel: «La mise en œuvre de l’e-ID est dans une mauvaise passe»",
+    "added_at": "2025-09-29T15:24:10.889Z"
+  },
+  {
+    "title": "suisse:::À Genève, le match Walder-Dugerdil, plus subtil qu’un duel entre le candidat des villes et celui des champs",
+    "added_at": "2025-09-29T15:37:30.737Z",
+    "removed_at": "2025-09-29T16:39:56.763Z",
+    "duration_minutes": 62,
+    "duration_str": "1h 2m"
+  },
+  {
+    "title": "economie:::Novartis répond à Donald Trump avec un traitement en vente directe aux Etats-Unis",
+    "added_at": "2025-09-29T15:37:30.737Z"
+  },
+  {
+    "title": "suisse:::Soupçons d’abus d’autorité: le procureur général vaudois demande l’ouverture d’une enquête sur Valérie Dittli",
+    "added_at": "2025-09-29T16:24:21.852Z",
+    "removed_at": "2025-09-29T16:26:35.628Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "suisse:::Soupçons d’abus d’autorité: le procureur général vaudois demande l’ouverture d’une enquête contre Valérie Dittli",
+    "added_at": "2025-09-29T16:26:35.628Z"
+  },
+  {
+    "title": "suisse:::A Genève, le match Walder-Dugerdil, plus subtil qu’un duel entre le candidat des villes et celui des champs",
+    "added_at": "2025-09-29T16:39:56.763Z"
+  },
+  {
+    "title": "sciences:::Emanuele Cozzi, immunologiste: «Les résultats encourageant des premières xénotransplantations justifient le lancement d’un essai clinique»",
+    "added_at": "2025-09-29T16:46:37.850Z"
+  },
+  {
+    "title": "culture:::Ludivine Sagnier, superbement libérée au nom d’Emma Bovary au Théâtre de Vidy à Lausanne",
+    "added_at": "2025-09-29T17:04:23.353Z"
+  },
+  {
+    "title": "suisse:::Jean-François de Saussure, prochain directeur de l’aéroport de Genève",
+    "added_at": "2025-09-29T17:13:21.982Z"
+  },
+  {
+    "title": "suisse:::Valeur locative: le casse-tête des cantons",
+    "added_at": "2025-09-29T17:33:22.839Z"
+  },
+  {
+    "title": "suisse:::Avec ses 4500 résidences secondaires, Anniviers, en Valais, s’inquiète de l’abolition de la valeur locative",
+    "added_at": "2025-09-29T17:33:22.839Z"
   }
 ]
