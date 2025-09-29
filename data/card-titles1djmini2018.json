@@ -45134,7 +45134,10 @@
   },
   {
     "title": "Le siège des Verts attaqué par la droite lors de l'élection complémentaire au Conseil d'Etat genevois",
-    "added_at": "2025-09-21T07:04:39.533Z"
+    "added_at": "2025-09-21T07:04:39.533Z",
+    "removed_at": "2025-09-29T20:32:08.443Z",
+    "duration_minutes": 12327,
+    "duration_str": "8d 13h 27m"
   },
   {
     "title": "Hormones: quand la chimie du corps bouscule la santé mentale",
@@ -47381,7 +47384,10 @@
   },
   {
     "title": "Vingt centimètres de neige dans les Alpes, plusieurs cols sont fermés",
-    "added_at": "2025-09-27T14:32:17.029Z"
+    "added_at": "2025-09-27T14:32:17.029Z",
+    "removed_at": "2025-09-29T22:02:43.894Z",
+    "duration_minutes": 3330,
+    "duration_str": "2d 7h 30m"
   },
   {
     "title": "Plus de 6000 personnes ont défilé samedi à Genève en solidarité avec Gaza",
@@ -47420,7 +47426,10 @@
   },
   {
     "title": "Des milliers de personnes ont défilé à Genève en solidarité avec Gaza",
-    "added_at": "2025-09-27T15:32:45.251Z"
+    "added_at": "2025-09-27T15:32:45.251Z",
+    "removed_at": "2025-09-29T22:23:26.496Z",
+    "duration_minutes": 3290,
+    "duration_str": "2d 6h 50m"
   },
   {
     "title": "Voici les plus beaux clichés primés par le Mangrove Photography Awards",
@@ -47815,7 +47824,10 @@
   },
   {
     "title": "Les ados",
-    "added_at": "2025-09-28T17:32:15.494Z"
+    "added_at": "2025-09-28T17:32:15.494Z",
+    "removed_at": "2025-09-29T20:16:59.937Z",
+    "duration_minutes": 1604,
+    "duration_str": "1d 2h 44m"
   },
   {
     "title": "Bilan positif pour la Fête des Vendanges, qui renoue avec ses traditions viticoles",
@@ -47971,10 +47983,7 @@
   },
   {
     "title": "L’identité électronique acceptée: débat entre Vincent Maitre, Martine Docourt, Nicolas Kolly et Pauline Blanc",
-    "added_at": "2025-09-29T09:24:10.616Z",
-    "removed_at": "2025-09-29T11:23:16.857Z",
-    "duration_minutes": 119,
-    "duration_str": "1h 59m"
+    "added_at": "2025-09-29T09:24:10.616Z"
   },
   {
     "title": "Le PIB de la Suisse en hausse de 1,4% en 2024",
@@ -48135,5 +48144,13 @@
   {
     "title": "Entre craintes et fantasmes, le secteur du robot humanoïde est en pleine effervescence",
     "added_at": "2025-09-29T19:39:03.803Z"
+  },
+  {
+    "title": "Journée Votations : Résultats et commentaires",
+    "added_at": "2025-09-29T20:16:59.937Z"
+  },
+  {
+    "title": "Élection au Conseil d'Etat genevois: Le Centre laisse la liberté de vote au second tour",
+    "added_at": "2025-09-29T20:32:08.443Z"
   }
 ]
