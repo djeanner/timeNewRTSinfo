@@ -22610,7 +22610,10 @@
   },
   {
     "title": "\"Les cartels s'occupent aussi de pédopornographie, de trafic sexuel de femmes et de trafic d'organes\"",
-    "added_at": "2025-09-27T07:46:09.270Z"
+    "added_at": "2025-09-27T07:46:09.270Z",
+    "removed_at": "2025-09-29T12:19:07.178Z",
+    "duration_minutes": 3152,
+    "duration_str": "2d 4h 32m"
   },
   {
     "title": "Quand la piste de danse devient un acte de rébellion",
@@ -22671,7 +22674,10 @@
   },
   {
     "title": "\"Philomène et la phylogénétique\", un dessin animé pour enseigner la classification du vivant",
-    "added_at": "2025-09-27T09:10:55.840Z"
+    "added_at": "2025-09-27T09:10:55.840Z",
+    "removed_at": "2025-09-29T10:32:29.087Z",
+    "duration_minutes": 2961,
+    "duration_str": "2d 1h 21m"
   },
   {
     "title": "Une progression du français dans les communes germanophones du Seeland",
@@ -22682,23 +22688,38 @@
   },
   {
     "title": "Le difficile retour des légumineuses dans les champs helvétiques",
-    "added_at": "2025-09-27T10:04:31.856Z"
+    "added_at": "2025-09-27T10:04:31.856Z",
+    "removed_at": "2025-09-29T11:03:32.518Z",
+    "duration_minutes": 2939,
+    "duration_str": "2d 59m"
   },
   {
     "title": "Genève veut renforcer la protection des jeunes requérants d'asile vulnérables",
-    "added_at": "2025-09-27T11:20:10.997Z"
+    "added_at": "2025-09-27T11:20:10.997Z",
+    "removed_at": "2025-09-29T10:12:28.971Z",
+    "duration_minutes": 2812,
+    "duration_str": "1d 22h 52m"
   },
   {
     "title": "Travaux de haute voltige à la cabane de l'A Neuve, dans le Val Ferret",
-    "added_at": "2025-09-27T11:58:11.546Z"
+    "added_at": "2025-09-27T11:58:11.546Z",
+    "removed_at": "2025-09-29T12:32:29.420Z",
+    "duration_minutes": 2914,
+    "duration_str": "2d 34m"
   },
   {
     "title": "La célèbre comédie musicale \"The Phantom of the Opera\" fait escale à Lausanne",
-    "added_at": "2025-09-27T12:22:42.984Z"
+    "added_at": "2025-09-27T12:22:42.984Z",
+    "removed_at": "2025-09-29T11:03:32.518Z",
+    "duration_minutes": 2800,
+    "duration_str": "1d 22h 40m"
   },
   {
     "title": "Plus de 300'000 personnes attendues et un direct à la TV pour la Fête des Vendanges",
-    "added_at": "2025-09-27T12:40:29.514Z"
+    "added_at": "2025-09-27T12:40:29.514Z",
+    "removed_at": "2025-09-29T11:05:42.459Z",
+    "duration_minutes": 2785,
+    "duration_str": "1d 22h 25m"
   },
   {
     "title": "La Suisse libéralise discrètement sa politique sur l'avortement",
@@ -23210,10 +23231,7 @@
   },
   {
     "title": "Cʹest lʹintention qui compte",
-    "added_at": "2025-09-29T02:55:02.928Z",
-    "removed_at": "2025-09-29T02:59:32.210Z",
-    "duration_minutes": 4,
-    "duration_str": "4m"
+    "added_at": "2025-09-29T02:55:02.928Z"
   },
   {
     "title": "L'Oregon intente un procès contre le projet de Donald Trump de déployer l'armée à Portland",
@@ -23270,10 +23288,62 @@
   },
   {
     "title": "Crystel Graf: la suppression de la valeur locative, \"cataclysme pour la perspective économique à Neuchâtel\"",
-    "added_at": "2025-09-29T09:19:01.016Z"
+    "added_at": "2025-09-29T09:19:01.016Z",
+    "removed_at": "2025-09-29T10:54:38.468Z",
+    "duration_minutes": 95,
+    "duration_str": "1h 35m"
   },
   {
     "title": "L’identité électronique acceptée: débat entre Vincent Maitre, Martine Docourt, Nicolas Kolly et Pauline Blanc",
-    "added_at": "2025-09-29T09:23:24.871Z"
+    "added_at": "2025-09-29T09:23:24.871Z",
+    "removed_at": "2025-09-29T11:23:31.971Z",
+    "duration_minutes": 120,
+    "duration_str": "2h"
+  },
+  {
+    "title": "Le PIB de la Suisse en hausse de 1,4% en 2024",
+    "added_at": "2025-09-29T10:12:28.971Z",
+    "removed_at": "2025-09-29T10:43:33.265Z",
+    "duration_minutes": 31,
+    "duration_str": "31m"
+  },
+  {
+    "title": "Retour de la maigreur dénoncé sur les podiums de la Fashion Week",
+    "added_at": "2025-09-29T10:32:29.087Z",
+    "removed_at": "2025-09-29T12:21:23.141Z",
+    "duration_minutes": 108,
+    "duration_str": "1h 48m"
+  },
+  {
+    "title": "Le PIB de la Suisse en progression de 1,4% en 2024",
+    "added_at": "2025-09-29T10:43:33.265Z"
+  },
+  {
+    "title": "Crystel Graf: \"C'est un peu le cataclysme pour la perspective économique à Neuchâtel\"",
+    "added_at": "2025-09-29T10:54:38.468Z"
+  },
+  {
+    "title": "Les Etats-Unis à la veille d'une paralysie budgétaire",
+    "added_at": "2025-09-29T11:03:32.518Z"
+  },
+  {
+    "title": "Lufthansa veut supprimer 4000 postes, essentiellement en Allemagne",
+    "added_at": "2025-09-29T11:03:32.518Z"
+  },
+  {
+    "title": "Le comité référendaire veut faire annuler le vote sur l'e-ID pour cause d'ingérence de Swisscom",
+    "added_at": "2025-09-29T11:05:42.459Z"
+  },
+  {
+    "title": "Canal+ revisite la Grande Guerre avec \"Les sentinelles\", des super-héros dans les tranchées",
+    "added_at": "2025-09-29T12:19:07.178Z"
+  },
+  {
+    "title": "Le retour de la maigreur dénoncé sur les podiums de la Fashion Week",
+    "added_at": "2025-09-29T12:21:23.141Z"
+  },
+  {
+    "title": "A Blatten, le système de prévention des dangers naturels a très bien fonctionné",
+    "added_at": "2025-09-29T12:32:29.420Z"
   }
 ]

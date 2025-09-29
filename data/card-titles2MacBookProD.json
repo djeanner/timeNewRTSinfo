@@ -37428,7 +37428,10 @@
   },
   {
     "title": "suisse:::L’e-ID passe la rampe d’un cheveu grâce aux grandes villes",
-    "added_at": "2025-09-28T14:51:31.216Z"
+    "added_at": "2025-09-28T14:51:31.216Z",
+    "removed_at": "2025-09-29T10:25:49.842Z",
+    "duration_minutes": 1174,
+    "duration_str": "19h 34m"
   },
   {
     "title": "suisse:::Le Mormont n’entrera pas dans la Constitution, mais les Vaudois soutiennent une économie durable",
@@ -37453,10 +37456,7 @@
   },
   {
     "title": "cyber:::Microsoft face à Israël, une histoire plus compliquée qu’il n’y paraît",
-    "added_at": "2025-09-28T16:13:34.225Z",
-    "removed_at": "2025-09-28T18:55:49.310Z",
-    "duration_minutes": 162,
-    "duration_str": "2h 42m"
+    "added_at": "2025-09-28T16:13:34.225Z"
   },
   {
     "title": "suisse:::Dans la course au Conseil d’Etat genevois, le Vert Nicolas Walder affrontera en duel l’UDC Lionel Dugerdil",
@@ -37594,7 +37594,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Benyamin Netanyahou va rencontrer Donald Trump",
-    "added_at": "2025-09-29T00:35:17.887Z"
+    "added_at": "2025-09-29T00:35:17.887Z",
+    "removed_at": "2025-09-29T12:05:46.037Z",
+    "duration_minutes": 690,
+    "duration_str": "11h 30m"
   },
   {
     "title": "monde:::«Fuite de carburant», «risque d’explosion», équipage impuissant: les énigmatiques difficultés d’un sous-marin russe au large de Gibraltar",
@@ -37646,7 +37649,10 @@
   },
   {
     "title": "suisse:::Res Schmid, conseiller d’Etat de Nidwald, veut faire primer le français sur l’anglais",
-    "added_at": "2025-09-29T07:05:40.016Z"
+    "added_at": "2025-09-29T07:05:40.016Z",
+    "removed_at": "2025-09-29T12:30:13.781Z",
+    "duration_minutes": 324,
+    "duration_str": "5h 24m"
   },
   {
     "title": "monde:::La Moldavie affirme dans les urnes son attachement pro-européen",
@@ -37664,7 +37670,10 @@
   },
   {
     "title": "sport:::«Le vélo africain est en déclin»: des coureurs s’inquiètent de l’héritage des Mondiaux 2025 au Rwanda",
-    "added_at": "2025-09-29T08:16:55.100Z"
+    "added_at": "2025-09-29T08:16:55.100Z",
+    "removed_at": "2025-09-29T12:34:48.047Z",
+    "duration_minutes": 257,
+    "duration_str": "4h 17m"
   },
   {
     "title": "suisse:::Votation sur le Mormont: «C’est une étape, mais certainement pas la fin d’un combat»",
@@ -37685,5 +37694,21 @@
   {
     "title": "suisse:::Dans le Jura, la construction de murs en pierres sèches se transmet dans la bonne humeur",
     "added_at": "2025-09-29T09:58:58.827Z"
+  },
+  {
+    "title": "monde:::A Gaza, des humanitaires bloqués par la bureaucratie israélienne",
+    "added_at": "2025-09-29T10:25:49.842Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Benyamin Netanyahou rencontre aujourd’hui Donald Trump",
+    "added_at": "2025-09-29T12:05:46.037Z"
+  },
+  {
+    "title": "monde:::En Moldavie, les pro-européens en joie: «La Russie a tenté un coup d’Etat électoral mais elle a échoué»",
+    "added_at": "2025-09-29T12:30:13.781Z"
+  },
+  {
+    "title": "sport:::Les fans américains de la Ryder Cup sont-ils allés trop loin?",
+    "added_at": "2025-09-29T12:34:48.047Z"
   }
 ]
