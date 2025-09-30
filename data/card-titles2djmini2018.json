@@ -35561,7 +35561,10 @@
   },
   {
     "title": "monde:::Des drones sèment la pagaille au-dessus d’aéroports danois et les regards se tournent vers Moscou",
-    "added_at": "2025-09-25T12:43:13.587Z"
+    "added_at": "2025-09-25T12:43:13.587Z",
+    "removed_at": "2025-09-30T04:14:50.697Z",
+    "duration_minutes": 6691,
+    "duration_str": "4d 15h 31m"
   },
   {
     "title": "economie:::Malgré un refroidissement de l’économie, la BNS maintient son taux directeur inchangé",
@@ -36392,7 +36395,10 @@
   },
   {
     "title": "suisse:::Après des décennies de débat, la Suisse abolit la valeur locative",
-    "added_at": "2025-09-28T16:41:05.200Z"
+    "added_at": "2025-09-28T16:41:05.200Z",
+    "removed_at": "2025-09-30T05:02:03.326Z",
+    "duration_minutes": 2180,
+    "duration_str": "1d 12h 20m"
   },
   {
     "title": "suisse:::Malgré l’horizon financier qui s’assombrit, Genève refuse de se soumettre à un frein automatique des dépenses",
@@ -36550,7 +36556,10 @@
   },
   {
     "title": "economie:::La retraite à 40 ans: un rêve (très) ambitieux mais pas impossible",
-    "added_at": "2025-09-29T04:18:25.008Z"
+    "added_at": "2025-09-29T04:18:25.008Z",
+    "removed_at": "2025-09-30T04:52:35.508Z",
+    "duration_minutes": 1474,
+    "duration_str": "1d 34m"
   },
   {
     "title": "cyber:::Le malaise numérique de la Suisse est un signal fort pour les autres pays aussi",
@@ -36804,10 +36813,39 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump décroche un soutien sous conditions de Benyamin Netanyahou à son plan pour Gaza",
-    "added_at": "2025-09-30T02:21:26.137Z"
+    "added_at": "2025-09-30T02:21:26.137Z",
+    "removed_at": "2025-09-30T05:20:51.375Z",
+    "duration_minutes": 179,
+    "duration_str": "2h 59m"
   },
   {
     "title": "monde:::L’éternel retour de Tony Blair, adoubé par Donald Trump dans son plan pour Gaza malgré les controverses",
     "added_at": "2025-09-30T02:30:52.535Z"
+  },
+  {
+    "title": "suisse:::Soupçons d’abus d’autorité contre Valérie Dittli: «Je vais coopérer pleinement»",
+    "added_at": "2025-09-30T04:14:50.697Z",
+    "removed_at": "2025-09-30T04:16:45.586Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "suisse:::Valérie Dittli répond aux accusation d’abus d’autorité: «Je vais coopérer pleinement»",
+    "added_at": "2025-09-30T04:16:45.586Z",
+    "removed_at": "2025-09-30T04:50:45.544Z",
+    "duration_minutes": 33,
+    "duration_str": "33m"
+  },
+  {
+    "title": "suisse:::Valérie Dittli répond aux accusations d’abus d’autorité: «Je vais coopérer pleinement»",
+    "added_at": "2025-09-30T04:50:45.544Z"
+  },
+  {
+    "title": "economie:::La finance durable au défi de la lassitude",
+    "added_at": "2025-09-30T05:02:03.326Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – La presse israélienne réagit au plan de paix dévoilé par Donald Trump",
+    "added_at": "2025-09-30T05:20:51.375Z"
   }
 ]
