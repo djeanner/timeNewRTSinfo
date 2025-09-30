@@ -22764,10 +22764,7 @@
   },
   {
     "title": "Vingt centimètres de neige dans les Alpes, plusieurs cols sont fermés",
-    "added_at": "2025-09-27T14:31:46.406Z",
-    "removed_at": "2025-09-30T00:07:25.441Z",
-    "duration_minutes": 3455,
-    "duration_str": "2d 9h 35m"
+    "added_at": "2025-09-27T14:31:46.406Z"
   },
   {
     "title": "Plus de 6000 personnes ont défilé samedi à Genève en solidarité avec Gaza",
@@ -22820,7 +22817,10 @@
   },
   {
     "title": "Des milliers de personnes ont défilé à Genève en solidarité avec la Palestine",
-    "added_at": "2025-09-27T16:47:43.899Z"
+    "added_at": "2025-09-27T16:47:43.899Z",
+    "removed_at": "2025-09-30T02:32:03.208Z",
+    "duration_minutes": 3464,
+    "duration_str": "2d 9h 44m"
   },
   {
     "title": "Faut-il toujours garder du cash à la maison? Interview de Virgile Perret",
@@ -23519,5 +23519,9 @@
   {
     "title": "Élection au Conseil d'Etat genevois: Le Centre laisse la liberté de vote au second tour",
     "added_at": "2025-09-29T20:31:36.640Z"
+  },
+  {
+    "title": "Une vingtaine d'Etats américains mobilisés pour défendre l'accès à la pilule abortive",
+    "added_at": "2025-09-30T02:32:03.208Z"
   }
 ]
