@@ -22764,7 +22764,10 @@
   },
   {
     "title": "Vingt centimètres de neige dans les Alpes, plusieurs cols sont fermés",
-    "added_at": "2025-09-27T14:31:46.406Z"
+    "added_at": "2025-09-27T14:31:46.406Z",
+    "removed_at": "2025-09-30T03:34:24.960Z",
+    "duration_minutes": 3662,
+    "duration_str": "2d 13h 2m"
   },
   {
     "title": "Plus de 6000 personnes ont défilé samedi à Genève en solidarité avec Gaza",
@@ -22804,9 +22807,9 @@
   {
     "title": "Des milliers de personnes ont défilé à Genève en solidarité avec Gaza",
     "added_at": "2025-09-27T15:34:06.983Z",
-    "removed_at": "2025-09-29T22:22:44.535Z",
-    "duration_minutes": 3288,
-    "duration_str": "2d 6h 48m"
+    "removed_at": "2025-09-30T05:47:45.444Z",
+    "duration_minutes": 3733,
+    "duration_str": "2d 14h 13m"
   },
   {
     "title": "Voici les plus beaux clichés primés par le Mangrove Photography Awards",
@@ -22831,7 +22834,10 @@
   },
   {
     "title": "Donald Trump ordonne le déploiement de l'armée à Portland face aux manifestations",
-    "added_at": "2025-09-27T19:01:16.687Z"
+    "added_at": "2025-09-27T19:01:16.687Z",
+    "removed_at": "2025-09-30T04:25:32.002Z",
+    "duration_minutes": 3444,
+    "duration_str": "2d 9h 24m"
   },
   {
     "title": "A Charmey ou Planfayon, des désalpes dans le froid et malgré la dermatose",
@@ -22892,7 +22898,10 @@
   },
   {
     "title": "En 1525, un Uranais protégea les reliques sacrées de Felix et Regula, saints patrons de Zurich",
-    "added_at": "2025-09-28T07:03:52.862Z"
+    "added_at": "2025-09-28T07:03:52.862Z",
+    "removed_at": "2025-09-30T05:56:40.022Z",
+    "duration_minutes": 2812,
+    "duration_str": "1d 22h 52m"
   },
   {
     "title": "Sur TikTok, pilotes et personnel de bord dévoilent les coulisses des vols",
@@ -22900,7 +22909,10 @@
   },
   {
     "title": "\"L'intérêt d'Adam\", drame social et humain porté par l'interprétation de Léa Drucker",
-    "added_at": "2025-09-28T07:57:19.518Z"
+    "added_at": "2025-09-28T07:57:19.518Z",
+    "removed_at": "2025-09-30T05:27:43.585Z",
+    "duration_minutes": 2730,
+    "duration_str": "1d 21h 30m"
   },
   {
     "title": "La monnaie nationale iranienne en chute libre après le retour des sanctions de l'ONU",
@@ -23523,5 +23535,24 @@
   {
     "title": "Une vingtaine d'Etats américains mobilisés pour défendre l'accès à la pilule abortive",
     "added_at": "2025-09-30T02:32:03.208Z"
+  },
+  {
+    "title": "Les entreprises suisses contraintes d'augmenter leurs prix face à la nouvelle taxe américaine",
+    "added_at": "2025-09-30T04:25:32.002Z"
+  },
+  {
+    "title": "En raison de la guerre, la Russie souffre d'une pénurie de policiers et de gardiens de prison",
+    "added_at": "2025-09-30T05:27:43.585Z"
+  },
+  {
+    "title": "La population suisse dit oui à l’abolition de la valeur locative et à l’identité électronique",
+    "added_at": "2025-09-30T05:45:35.306Z",
+    "removed_at": "2025-09-30T05:47:45.444Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Entre foi et survie, les agriculteurs de l'Arkansas face à Donald Trump",
+    "added_at": "2025-09-30T05:56:40.022Z"
   }
 ]

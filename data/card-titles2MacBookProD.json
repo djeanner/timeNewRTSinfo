@@ -36646,7 +36646,10 @@
   },
   {
     "title": "monde:::Des drones sèment la pagaille au-dessus d’aéroports danois et les regards se tournent vers Moscou",
-    "added_at": "2025-09-25T12:43:55.185Z"
+    "added_at": "2025-09-25T12:43:55.185Z",
+    "removed_at": "2025-09-30T04:14:26.303Z",
+    "duration_minutes": 6690,
+    "duration_str": "4d 15h 30m"
   },
   {
     "title": "economie:::Malgré un refroidissement de l’économie, la BNS maintient son taux directeur inchangé",
@@ -37477,7 +37480,10 @@
   },
   {
     "title": "suisse:::Après des décennies de débat, la Suisse abolit la valeur locative",
-    "added_at": "2025-09-28T16:40:13.858Z"
+    "added_at": "2025-09-28T16:40:13.858Z",
+    "removed_at": "2025-09-30T05:03:17.873Z",
+    "duration_minutes": 2183,
+    "duration_str": "1d 12h 23m"
   },
   {
     "title": "suisse:::Malgré l’horizon financier qui s’assombrit, Genève refuse de se soumettre à un frein automatique des dépenses",
@@ -37628,7 +37634,10 @@
   },
   {
     "title": "economie:::La retraite à 40 ans: un rêve (très) ambitieux mais pas impossible",
-    "added_at": "2025-09-29T04:17:06.547Z"
+    "added_at": "2025-09-29T04:17:06.547Z",
+    "removed_at": "2025-09-30T04:52:10.483Z",
+    "duration_minutes": 1475,
+    "duration_str": "1d 35m"
   },
   {
     "title": "cyber:::Le malaise numérique de la Suisse est un signal fort pour les autres pays aussi",
@@ -37735,7 +37744,10 @@
   },
   {
     "title": "monde:::En Moldavie, les pro-européens en joie: «La Russie a tenté un coup d’Etat électoral mais elle a échoué»",
-    "added_at": "2025-09-29T12:30:13.781Z"
+    "added_at": "2025-09-29T12:30:13.781Z",
+    "removed_at": "2025-09-30T05:54:25.852Z",
+    "duration_minutes": 1044,
+    "duration_str": "17h 24m"
   },
   {
     "title": "sport:::Les fans américains de la Ryder Cup sont-ils allés trop loin?",
@@ -37808,7 +37820,10 @@
   },
   {
     "title": "suisse:::A Genève, le match Walder-Dugerdil, plus subtil qu’un duel entre le candidat des villes et celui des champs",
-    "added_at": "2025-09-29T16:39:56.763Z"
+    "added_at": "2025-09-29T16:39:56.763Z",
+    "removed_at": "2025-09-30T05:58:55.983Z",
+    "duration_minutes": 798,
+    "duration_str": "13h 18m"
   },
   {
     "title": "sciences:::Emanuele Cozzi, immunologiste: «Les résultats encourageant des premières xénotransplantations justifient le lancement d’un essai clinique»",
@@ -37889,10 +37904,50 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump décroche un soutien sous conditions de Benyamin Netanyahou à son plan pour Gaza",
-    "added_at": "2025-09-30T02:23:07.133Z"
+    "added_at": "2025-09-30T02:23:07.133Z",
+    "removed_at": "2025-09-30T05:21:03.763Z",
+    "duration_minutes": 177,
+    "duration_str": "2h 57m"
   },
   {
     "title": "monde:::L’éternel retour de Tony Blair, adoubé par Donald Trump dans son plan pour Gaza malgré les controverses",
     "added_at": "2025-09-30T02:29:46.847Z"
+  },
+  {
+    "title": "suisse:::Soupçons d’abus d’autorité contre Valérie Dittli: «Je vais coopérer pleinement»",
+    "added_at": "2025-09-30T04:14:26.303Z",
+    "removed_at": "2025-09-30T04:16:42.407Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "suisse:::Valérie Dittli répond aux accusation d’abus d’autorité: «Je vais coopérer pleinement»",
+    "added_at": "2025-09-30T04:16:42.407Z",
+    "removed_at": "2025-09-30T04:49:56.206Z",
+    "duration_minutes": 33,
+    "duration_str": "33m"
+  },
+  {
+    "title": "suisse:::Valérie Dittli répond aux accusations d’abus d’autorité: «Je vais coopérer pleinement»",
+    "added_at": "2025-09-30T04:49:56.206Z"
+  },
+  {
+    "title": "economie:::La finance durable au défi de la lassitude",
+    "added_at": "2025-09-30T05:03:17.873Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – La presse israélienne réagit au plan de paix dévoilé par Donald Trump",
+    "added_at": "2025-09-30T05:21:03.763Z",
+    "removed_at": "2025-09-30T05:34:24.552Z",
+    "duration_minutes": 13,
+    "duration_str": "13m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Entre optimisme et attente, la presse israélienne réagit au plan de paix dévoilé par Donald Trump",
+    "added_at": "2025-09-30T05:34:24.552Z"
+  },
+  {
+    "title": "economie:::Après les taxes Trump, la capitale du textile indien revoit ses priorités et mise sur l’Europe",
+    "added_at": "2025-09-30T05:54:25.852Z"
   }
 ]
