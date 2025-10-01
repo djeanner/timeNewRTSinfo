@@ -47074,7 +47074,10 @@
   },
   {
     "title": "The US government has shut down – what happens now?",
-    "added_at": "2025-10-01T12:07:51.020Z"
+    "added_at": "2025-10-01T12:07:51.020Z",
+    "removed_at": "2025-10-01T20:10:18.513Z",
+    "duration_minutes": 482,
+    "duration_str": "8h 2m"
   },
   {
     "title": "New Trump executive order guarantees Qatar security after Israeli attack",
@@ -47135,7 +47138,10 @@
   },
   {
     "title": "LIVE: Barcelona vs PSG – UEFA Champions League",
-    "added_at": "2025-10-01T15:06:17.627Z"
+    "added_at": "2025-10-01T15:06:17.627Z",
+    "removed_at": "2025-10-01T21:39:30.579Z",
+    "duration_minutes": 393,
+    "duration_str": "6h 33m"
   },
   {
     "title": "A history of US government shutdowns: Every closure and how long it lasted",
@@ -47197,11 +47203,17 @@
   },
   {
     "title": "US takes a stake in another firm, this time a large lithium mine",
-    "added_at": "2025-10-01T18:27:43.945Z"
+    "added_at": "2025-10-01T18:27:43.945Z",
+    "removed_at": "2025-10-01T20:17:53.987Z",
+    "duration_minutes": 110,
+    "duration_str": "1h 50m"
   },
   {
     "title": "Gaza Sumud flotilla live tracker: Israel begins to intercept ships",
-    "added_at": "2025-10-01T18:48:42.061Z"
+    "added_at": "2025-10-01T18:48:42.061Z",
+    "removed_at": "2025-10-01T20:48:17.717Z",
+    "duration_minutes": 119,
+    "duration_str": "1h 59m"
   },
   {
     "title": "Israeli navy begins to intercept aid flotilla; 65 killed in Gaza",
@@ -47217,5 +47229,28 @@
   {
     "title": "Danish PM warns that Russia is waging hybrid war on Europe",
     "added_at": "2025-10-01T19:24:42.508Z"
+  },
+  {
+    "title": "Jane Goodall, conservationist and chimpanzee expert, dies aged 91",
+    "added_at": "2025-10-01T20:10:18.513Z"
+  },
+  {
+    "title": "Morocco arrests hundreds of protesters as rallies turn violent",
+    "added_at": "2025-10-01T20:17:53.987Z"
+  },
+  {
+    "title": "Israel detains Thunberg, other activists after intercepting Gaza flotilla",
+    "added_at": "2025-10-01T20:48:17.717Z",
+    "removed_at": "2025-10-01T20:59:40.116Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "‘Kidnapping’: Israel intercepts Gaza flotilla; detains activists, Thunberg",
+    "added_at": "2025-10-01T20:59:40.116Z"
+  },
+  {
+    "title": "PSG beat Barcelona for winning start to Champions League defence",
+    "added_at": "2025-10-01T21:39:30.579Z"
   }
 ]
