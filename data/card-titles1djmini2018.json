@@ -47606,7 +47606,10 @@
   },
   {
     "title": "Valeur locative, e-ID: les résultats des votations sur nos cartes par commune",
-    "added_at": "2025-09-28T10:07:51.757Z"
+    "added_at": "2025-09-28T10:07:51.757Z",
+    "removed_at": "2025-10-01T10:23:45.332Z",
+    "duration_minutes": 4335,
+    "duration_str": "3d 15m"
   },
   {
     "title": "Des dizaines de morts dans un mouvement de foule au sud de l'Inde",
@@ -48033,7 +48036,10 @@
   },
   {
     "title": "Cʹest lʹintention qui compte",
-    "added_at": "2025-09-29T02:55:19.039Z"
+    "added_at": "2025-09-29T02:55:19.039Z",
+    "removed_at": "2025-10-01T10:02:58.457Z",
+    "duration_minutes": 3307,
+    "duration_str": "2d 7h 7m"
   },
   {
     "title": "L'Oregon intente un procès contre le projet de Donald Trump de déployer l'armée à Portland",
@@ -48167,7 +48173,10 @@
   },
   {
     "title": "Le comité référendaire veut faire annuler le vote sur l'e-ID pour cause d'ingérence de Swisscom",
-    "added_at": "2025-09-29T11:06:17.225Z"
+    "added_at": "2025-09-29T11:06:17.225Z",
+    "removed_at": "2025-10-01T11:01:37.941Z",
+    "duration_minutes": 2875,
+    "duration_str": "1d 23h 55m"
   },
   {
     "title": "Canal+ revisite la Grande Guerre avec \"Les sentinelles\", des super-héros dans les tranchées",
@@ -48185,7 +48194,10 @@
   },
   {
     "title": "A Blatten, le système de prévention des dangers naturels a très bien fonctionné",
-    "added_at": "2025-09-29T12:33:11.828Z"
+    "added_at": "2025-09-29T12:33:11.828Z",
+    "removed_at": "2025-10-01T09:57:17.994Z",
+    "duration_minutes": 2724,
+    "duration_str": "1d 21h 24m"
   },
   {
     "title": "Inquiet du possible rachat de Nestlé Waters, le personnel du géant veveysan descend dans la rue",
@@ -48253,7 +48265,10 @@
   },
   {
     "title": "Quatre ans après la votation, où en est la réduction des pesticides dans l'agriculture?",
-    "added_at": "2025-09-29T15:25:34.376Z"
+    "added_at": "2025-09-29T15:25:34.376Z",
+    "removed_at": "2025-10-01T10:37:01.510Z",
+    "duration_minutes": 2591,
+    "duration_str": "1d 19h 11m"
   },
   {
     "title": "Le diplôme du Premier ministre français Sébastien Lecornu au cœur d'une controverse",
@@ -48300,7 +48315,10 @@
   },
   {
     "title": "Répression et violences font au moins 22 morts à Madagascar, le gouvernement dissous",
-    "added_at": "2025-09-29T18:19:38.697Z"
+    "added_at": "2025-09-29T18:19:38.697Z",
+    "removed_at": "2025-10-01T11:48:53.485Z",
+    "duration_minutes": 2489,
+    "duration_str": "1d 17h 29m"
   },
   {
     "title": "Pourquoi les sondages se sont-ils à ce point trompés sur les votations de dimanche?",
@@ -48585,9 +48603,9 @@
   {
     "title": "L’impact de la fin de la valeur locative en Suisse romande: débat entre Delphine Klopfenstein Broggini et Sidney Kamerzin",
     "added_at": "2025-09-30T20:20:13.454Z",
-    "removed_at": "2025-10-01T09:23:06.105Z",
-    "duration_minutes": 782,
-    "duration_str": "13h 2m"
+    "removed_at": "2025-10-01T10:23:45.332Z",
+    "duration_minutes": 843,
+    "duration_str": "14h 3m"
   },
   {
     "title": "Paracétamol et grossesse: démystifier les inquiétudes sur l'autisme",
@@ -48674,7 +48692,10 @@
   },
   {
     "title": "L'Oktoberfest à Munich fermée après une explosion mortelle",
-    "added_at": "2025-10-01T08:43:24.423Z"
+    "added_at": "2025-10-01T08:43:24.423Z",
+    "removed_at": "2025-10-01T11:41:24.128Z",
+    "duration_minutes": 177,
+    "duration_str": "2h 57m"
   },
   {
     "title": "Journée d'action de la fonction publique fribourgeoise contre l'assainissement des finances",
@@ -48691,5 +48712,29 @@
   {
     "title": "Jean-Stéphane Bron: \"Avec l'IA, on est dans la défiance, la suspicion face au réel\"",
     "added_at": "2025-10-01T09:38:12.731Z"
+  },
+  {
+    "title": "Ivan Jablonka: \"Les féminicides ont été racontés, illustrés et justifiés dans toutes les formes de culture\"",
+    "added_at": "2025-10-01T09:57:17.994Z"
+  },
+  {
+    "title": "Soundcheck - Intelligence artificielle, une musique d’avenir?",
+    "added_at": "2025-10-01T10:23:45.332Z"
+  },
+  {
+    "title": "La création d'ovules en laboratoire pourrait révolutionner le traitement de l'infertilité féminine",
+    "added_at": "2025-10-01T10:37:01.510Z"
+  },
+  {
+    "title": "L'Oktoberfest fermée après une explosion mortelle à Munich et des menaces",
+    "added_at": "2025-10-01T11:39:27.635Z"
+  },
+  {
+    "title": "Le batteur et producteur vaudois Ace Ross remporte à Zurich le prix ZKB Jazz 2025",
+    "added_at": "2025-10-01T11:45:08.252Z"
+  },
+  {
+    "title": "Genève débloque plus de 3 millions de francs pour indemniser les commerçants de la rue de Carouge",
+    "added_at": "2025-10-01T11:48:53.485Z"
   }
 ]
