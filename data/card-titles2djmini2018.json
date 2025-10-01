@@ -37135,7 +37135,10 @@
   },
   {
     "title": "monde:::Donald Trump annonce à ses généraux que l’armée «s’occupera des ennemis de l’intérieur»",
-    "added_at": "2025-09-30T17:52:26.130Z"
+    "added_at": "2025-09-30T17:52:26.130Z",
+    "removed_at": "2025-10-01T19:00:03.383Z",
+    "duration_minutes": 1507,
+    "duration_str": "1d 1h 7m"
   },
   {
     "title": "economie:::Building Bridges à Genève: solutions plutôt qu'idéalisme, la finance se cherche un nouveau discours",
@@ -37249,7 +37252,10 @@
   },
   {
     "title": "cyber:::Comment OpenAI transforme méthodiquement ChatGPT en un écosystème dont il sera de plus en plus difficile de sortir",
-    "added_at": "2025-10-01T06:10:08.899Z"
+    "added_at": "2025-10-01T06:10:08.899Z",
+    "removed_at": "2025-10-01T17:30:46.160Z",
+    "duration_minutes": 680,
+    "duration_str": "11h 20m"
   },
   {
     "title": "sport:::Un choc Barça-PSG décimé par les blessures, symbole de la surcharge du calendrier",
@@ -37267,7 +37273,10 @@
   },
   {
     "title": "sciences:::Reports, blocages, reculs… L’UE détricote ses normes environnementales et tergiverse sur son objectif climatique à quelques semaines de la COP30",
-    "added_at": "2025-10-01T08:58:30.468Z"
+    "added_at": "2025-10-01T08:58:30.468Z",
+    "removed_at": "2025-10-01T17:40:18.937Z",
+    "duration_minutes": 521,
+    "duration_str": "8h 41m"
   },
   {
     "title": "sciences:::L'écart se renforce encore entre les ambitions climatiques et la production d'énergie fossile, selon un nouveau rapport",
@@ -37349,7 +37358,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Dernière sommation israélienne: les habitants qui restent dans la ville de Gaza «seront considérés comme des terroristes»",
-    "added_at": "2025-10-01T13:08:35.027Z"
+    "added_at": "2025-10-01T13:08:35.027Z",
+    "removed_at": "2025-10-01T19:03:48.805Z",
+    "duration_minutes": 355,
+    "duration_str": "5h 55m"
   },
   {
     "title": "economie:::Vers un pic temporaire des rénovations avant la fin des déductions? L’abolition de la valeur locative met le second œuvre sous pression",
@@ -37361,15 +37373,24 @@
   },
   {
     "title": "suisse:::La première caisse alimentaire solidaire de Suisse naît à Genève",
-    "added_at": "2025-10-01T15:21:23.959Z"
+    "added_at": "2025-10-01T15:21:23.959Z",
+    "removed_at": "2025-10-01T19:00:03.383Z",
+    "duration_minutes": 218,
+    "duration_str": "3h 38m"
   },
   {
     "title": "sport:::La (dernière) rentrée de Lara Gut-Behrami, sous le signe de l’instant présent",
-    "added_at": "2025-10-01T15:40:25.003Z"
+    "added_at": "2025-10-01T15:40:25.003Z",
+    "removed_at": "2025-10-01T17:57:23.092Z",
+    "duration_minutes": 136,
+    "duration_str": "2h 16m"
   },
   {
     "title": "monde:::La Cour suprême empêche Donald Trump de licencier immédiatement Lisa Cook, membre de la Fed",
-    "added_at": "2025-10-01T15:46:05.699Z"
+    "added_at": "2025-10-01T15:46:05.699Z",
+    "removed_at": "2025-10-01T17:04:15.394Z",
+    "duration_minutes": 78,
+    "duration_str": "1h 18m"
   },
   {
     "title": "economie:::A la conférence Building Bridges à Genève sur la finance durable: face au risque d’un monde qui ne serait plus assurable",
@@ -37389,5 +37410,54 @@
   {
     "title": "economie:::Entre UBS et le Conseil fédéral, le bras de fer se durcit",
     "added_at": "2025-10-01T16:48:53.728Z"
+  },
+  {
+    "title": "sport:::Les Jeux olympiques pour les skieurs alpins? Presque des courses comme les autres",
+    "added_at": "2025-10-01T17:13:43.322Z"
+  },
+  {
+    "title": "cyber:::Très rare étoile européenne de la tech, l’ovni Spotify continue de dominer le marché mondial de la musique en ligne",
+    "added_at": "2025-10-01T17:30:46.160Z"
+  },
+  {
+    "title": "monde:::Aux Etats-Unis, le shutdown compromet l’ouverture des parcs nationaux, déjà en péril",
+    "added_at": "2025-10-01T17:57:23.092Z",
+    "removed_at": "2025-10-01T18:16:18.906Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
+  },
+  {
+    "title": "suisse:::Importante mobilisation à Fribourg contre la rigueur budgétaire",
+    "added_at": "2025-10-01T17:57:23.092Z"
+  },
+  {
+    "title": "monde:::Aux Etats-Unis, le «shutdown» compromet l’ouverture des parcs nationaux, déjà en péril",
+    "added_at": "2025-10-01T18:16:18.906Z"
+  },
+  {
+    "title": "monde:::A Copenhague, les 27 en quête d’une «réponse forte» pour contrer la guerre hybride de Moscou",
+    "added_at": "2025-10-01T18:16:18.906Z",
+    "removed_at": "2025-10-01T18:33:25.774Z",
+    "duration_minutes": 17,
+    "duration_str": "17m"
+  },
+  {
+    "title": "monde:::A Copenhague, les Vingt-Sept en quête d’une «réponse forte» pour contrer la guerre hybride de Moscou",
+    "added_at": "2025-10-01T18:33:25.774Z"
+  },
+  {
+    "title": "sciences:::Deux essais cliniques pour des reins de cochons à l’hôpital sont lancés aux Etats-Unis, talonnés par la Chine",
+    "added_at": "2025-10-01T19:00:03.383Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – La flotille pour Gaza est arraisonnée par la marine israélienne, qui lui demande de changer de cap",
+    "added_at": "2025-10-01T19:03:48.805Z",
+    "removed_at": "2025-10-01T19:07:36.066Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – La flottille pour Gaza est arraisonnée par la marine israélienne, qui lui demande de changer de cap",
+    "added_at": "2025-10-01T19:07:36.066Z"
   }
 ]
