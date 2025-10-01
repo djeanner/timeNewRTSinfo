@@ -37248,7 +37248,10 @@
   },
   {
     "title": "monde:::La Fête de la bière de Munich est fermée après une explosion",
-    "added_at": "2025-10-01T08:34:00.783Z"
+    "added_at": "2025-10-01T08:34:00.783Z",
+    "removed_at": "2025-10-01T12:40:11.449Z",
+    "duration_minutes": 246,
+    "duration_str": "4h 6m"
   },
   {
     "title": "sciences:::Reports, blocages, reculs… L’UE détricote ses normes environnementales et tergiverse sur son objectif climatique à quelques semaines de la COP30",
@@ -37260,7 +37263,10 @@
   },
   {
     "title": "sciences:::Encelade, sa glace, son océan… Et sa chimie proche de celle de la vie?",
-    "added_at": "2025-10-01T09:09:52.637Z"
+    "added_at": "2025-10-01T09:09:52.637Z",
+    "removed_at": "2025-10-01T12:32:41.384Z",
+    "duration_minutes": 202,
+    "duration_str": "3h 22m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – La flottille s’approche de Gaza malgré des «manœuvres d’intimidation»",
@@ -37300,14 +37306,32 @@
   },
   {
     "title": "culture:::Oxmo Puccino: «Je suis un pont entre la culture malienne et la culture parisienne»",
-    "added_at": "2025-10-01T11:26:11.614Z"
+    "added_at": "2025-10-01T11:26:11.614Z",
+    "removed_at": "2025-10-01T14:03:33.203Z",
+    "duration_minutes": 157,
+    "duration_str": "2h 37m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le CICR ferme son bureau dans la ville de Gaza à cause de l'intensification de l'offensive israélienne",
-    "added_at": "2025-10-01T12:00:14.558Z"
+    "added_at": "2025-10-01T12:00:14.558Z",
+    "removed_at": "2025-10-01T13:08:35.027Z",
+    "duration_minutes": 68,
+    "duration_str": "1h 8m"
   },
   {
     "title": "monde:::L’amour fou des Mexicains pour leur présidente Claudia Sheinbaum: «C’est le temps des femmes maintenant!»",
     "added_at": "2025-10-01T12:09:46.698Z"
+  },
+  {
+    "title": "suisse:::Sébastien Colson, écrits à la frontière",
+    "added_at": "2025-10-01T12:40:11.449Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Dernière sommation israélienne: les habitants qui restent dans la ville de Gaza «seront considérés comme des terroristes»",
+    "added_at": "2025-10-01T13:08:35.027Z"
+  },
+  {
+    "title": "economie:::Vers un pic temporaire des rénovations avant la fin des déductions? L’abolition de la valeur locative met le second œuvre sous pression",
+    "added_at": "2025-10-01T14:03:33.203Z"
   }
 ]
