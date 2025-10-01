@@ -36844,7 +36844,10 @@
   },
   {
     "title": "monde:::Les Etats-Unis s’acheminent vers un shutdown",
-    "added_at": "2025-09-29T22:23:26.561Z"
+    "added_at": "2025-09-29T22:23:26.561Z",
+    "removed_at": "2025-10-01T04:09:02.816Z",
+    "duration_minutes": 1785,
+    "duration_str": "1d 5h 45m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’Autorité palestinienne salue les «efforts déterminés» de Donald Trump",
@@ -37007,7 +37010,10 @@
   },
   {
     "title": "monde:::L’initiative de Donald Trump au Proche-Orient, un plan de paix en forme de parcours d’obstacles",
-    "added_at": "2025-09-30T12:58:41.071Z"
+    "added_at": "2025-09-30T12:58:41.071Z",
+    "removed_at": "2025-10-01T04:52:32.958Z",
+    "duration_minutes": 953,
+    "duration_str": "15h 53m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L’Ukraine envoie une mission militaire anti-drones au Danemark",
@@ -37067,7 +37073,10 @@
   },
   {
     "title": "suisse:::Procédures accélérées, marchés publics exemptés des procédures habituelles: le Conseil d'Etat valaisan publie le décret Blatten",
-    "added_at": "2025-09-30T15:15:11.918Z"
+    "added_at": "2025-09-30T15:15:11.918Z",
+    "removed_at": "2025-10-01T04:43:03.222Z",
+    "duration_minutes": 807,
+    "duration_str": "13h 27m"
   },
   {
     "title": "sport:::En tennis aussi, les joueuses demandent des saisons plus courtes",
@@ -37078,7 +37087,10 @@
   },
   {
     "title": "suisse:::Pour réussir leur transition climatique, les villes suisses veulent plus de moyens et moins de freins légaux",
-    "added_at": "2025-09-30T15:54:56.911Z"
+    "added_at": "2025-09-30T15:54:56.911Z",
+    "removed_at": "2025-10-01T04:43:03.222Z",
+    "duration_minutes": 768,
+    "duration_str": "12h 48m"
   },
   {
     "title": "monde:::La France, d’apôtre à mauvais élève du réarmement à cause de sa crise politique?",
@@ -37109,11 +37121,17 @@
   },
   {
     "title": "economie:::Building Bridges à Genève: solutions plutôt qu'idéalisme, la finance se cherche un nouveau discours",
-    "added_at": "2025-09-30T18:17:06.097Z"
+    "added_at": "2025-09-30T18:17:06.097Z",
+    "removed_at": "2025-10-01T04:52:32.958Z",
+    "duration_minutes": 635,
+    "duration_str": "10h 35m"
   },
   {
     "title": "culture:::Un nouveau centre national pour combattre la précarité des artistes",
-    "added_at": "2025-09-30T18:22:46.847Z"
+    "added_at": "2025-09-30T18:22:46.847Z",
+    "removed_at": "2025-10-01T03:18:05.988Z",
+    "duration_minutes": 535,
+    "duration_str": "8h 55m"
   },
   {
     "title": "suisse:::Comment le Conseil d'Etat vaudois peut-il fonctionner avec une ministre sous enquête?",
@@ -37136,10 +37154,51 @@
   },
   {
     "title": "culture:::Jafar Panahi, Palme d’or pour «Un Simple Accident»: «C’est un film pour l’Iran de l’après-République islamique»",
-    "added_at": "2025-09-30T20:05:09.005Z"
+    "added_at": "2025-09-30T20:05:09.005Z",
+    "removed_at": "2025-10-01T04:41:12.950Z",
+    "duration_minutes": 516,
+    "duration_str": "8h 36m"
   },
   {
     "title": "culture:::«Le Sergent dans la neige», de Mario Rigoni Stern: une étincelle d’humanité au cœur de la guerre",
-    "added_at": "2025-09-30T21:20:40.714Z"
+    "added_at": "2025-09-30T21:20:40.714Z",
+    "removed_at": "2025-10-01T04:43:03.222Z",
+    "duration_minutes": 442,
+    "duration_str": "7h 22m"
+  },
+  {
+    "title": "culture:::«Kontinental ’25», rire jaune en Transylvanie avec Radu Jude",
+    "added_at": "2025-10-01T03:18:05.988Z",
+    "removed_at": "2025-10-01T04:43:03.222Z",
+    "duration_minutes": 84,
+    "duration_str": "1h 24m"
+  },
+  {
+    "title": "monde:::Sans accord budgétaire, les Etats-Unis se résignent au «shutdown»",
+    "added_at": "2025-10-01T04:03:23.186Z"
+  },
+  {
+    "title": "monde:::Contrôles plus lents, retards, annulations: comment le «shutdown» va affecter les vols et les aéroports américains",
+    "added_at": "2025-10-01T04:03:23.186Z"
+  },
+  {
+    "title": "economie:::De l’informatique aux cornichons, les timides liens tissés entre l’Inde et la Suisse",
+    "added_at": "2025-10-01T04:43:03.222Z"
+  },
+  {
+    "title": "economie:::Naufragé depuis 227 jours, la fin épique du MSC Baltic III",
+    "added_at": "2025-10-01T04:43:03.222Z"
+  },
+  {
+    "title": "economie:::MSC s’engage à ne pas utiliser la route maritime du nord",
+    "added_at": "2025-10-01T04:43:03.222Z"
+  },
+  {
+    "title": "suisse:::Dernier entré, Martin Pfister est le conseiller fédéral le plus populaire",
+    "added_at": "2025-10-01T04:52:32.958Z"
+  },
+  {
+    "title": "economie:::Un appel français pour encadrer la consommation d’énergie de l’IA",
+    "added_at": "2025-10-01T04:52:32.958Z"
   }
 ]
