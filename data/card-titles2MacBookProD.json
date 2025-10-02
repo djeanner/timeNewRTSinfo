@@ -8226,10 +8226,7 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z",
-    "removed_at": "2025-09-26T12:07:39.534Z",
-    "duration_minutes": 182525,
-    "duration_str": "126d 18h 5m"
+    "added_at": "2025-05-22T18:01:52.008Z"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -38402,7 +38399,10 @@
   },
   {
     "title": "suisse:::Dans son chantier naval, la CGN s’est activée tout l’été au chevet de ses «petits musées sur l’eau»",
-    "added_at": "2025-10-01T10:05:47.999Z"
+    "added_at": "2025-10-01T10:05:47.999Z",
+    "removed_at": "2025-10-02T13:55:41.627Z",
+    "duration_minutes": 1669,
+    "duration_str": "1d 3h 49m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La première ministre danoise demande une «réponse très forte» contre la Russie",
@@ -38529,7 +38529,10 @@
   },
   {
     "title": "cyber:::Très rare étoile européenne de la tech, l’ovni Spotify continue de dominer le marché mondial de la musique en ligne",
-    "added_at": "2025-10-01T17:32:39.012Z"
+    "added_at": "2025-10-01T17:32:39.012Z",
+    "removed_at": "2025-10-02T14:51:45.484Z",
+    "duration_minutes": 1279,
+    "duration_str": "21h 19m"
   },
   {
     "title": "monde:::Aux Etats-Unis, le shutdown compromet l’ouverture des parcs nationaux, déjà en péril",
@@ -38607,10 +38610,7 @@
   },
   {
     "title": "monde:::«Le monde devrait avoir honte»: la flottille Soumoud interceptée au large de Gaza",
-    "added_at": "2025-10-01T23:36:44.022Z",
-    "removed_at": "2025-10-02T10:06:43.172Z",
-    "duration_minutes": 629,
-    "duration_str": "10h 29m"
+    "added_at": "2025-10-01T23:36:44.022Z"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Un millier de personnes manifestent à Lausanne après l’interception de la flottille pour Gaza",
@@ -38646,7 +38646,10 @@
   },
   {
     "title": "economie:::En graphiques – La résistance industrielle de la Suisse doit beaucoup à la pharma",
-    "added_at": "2025-10-02T04:13:34.604Z"
+    "added_at": "2025-10-02T04:13:34.604Z",
+    "removed_at": "2025-10-02T14:58:30.005Z",
+    "duration_minutes": 644,
+    "duration_str": "10h 44m"
   },
   {
     "title": "suisse:::A Genève, la quête très catholique de La Nuit du Bien Commun fondée par le milliardaire réactionnaire Pierre-Edouard Stérin",
@@ -38700,7 +38703,10 @@
   },
   {
     "title": "culture:::Mel D, sortilèges folk-pop à la sauce grisonne",
-    "added_at": "2025-10-02T08:43:55.355Z"
+    "added_at": "2025-10-02T08:43:55.355Z",
+    "removed_at": "2025-10-02T15:09:43.631Z",
+    "duration_minutes": 385,
+    "duration_str": "6h 25m"
   },
   {
     "title": "sport:::Le Lausanne-Sport commence son périple européen contre le club formateur islandais de Breidablik",
@@ -38743,5 +38749,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Israël affirme qu'aucun navire de la flottille n'a réussi à briser le blocus de Gaza",
     "added_at": "2025-10-02T12:30:18.278Z"
+  },
+  {
+    "title": "monde:::Les syndicats français ratent leur nouvelle journée de mobilisation contre l’austérité",
+    "added_at": "2025-10-02T15:09:43.631Z"
   }
 ]
