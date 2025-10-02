@@ -48788,7 +48788,10 @@
   },
   {
     "title": "L'invité de La Matinale - Giuliano da Empoli, écrivain et conseiller politique italo-suisse",
-    "added_at": "2025-10-01T09:02:21.046Z"
+    "added_at": "2025-10-01T09:02:21.046Z",
+    "removed_at": "2025-10-02T06:03:00.092Z",
+    "duration_minutes": 1260,
+    "duration_str": "21h"
   },
   {
     "title": "Jean-Stéphane Bron: \"Avec l'IA, on est dans la défiance, la suspicion face au réel\"",
@@ -48800,7 +48803,10 @@
   },
   {
     "title": "Soundcheck - Intelligence artificielle, une musique d’avenir?",
-    "added_at": "2025-10-01T10:23:45.332Z"
+    "added_at": "2025-10-01T10:23:45.332Z",
+    "removed_at": "2025-10-02T05:17:17.077Z",
+    "duration_minutes": 1133,
+    "duration_str": "18h 53m"
   },
   {
     "title": "La création d'ovules en laboratoire pourrait révolutionner le traitement de l'infertilité féminine",
@@ -48997,10 +49003,7 @@
   },
   {
     "title": "Les ambitions hollywoodiennes des créateurs d'une actrice IA suscitent la polémique: interview de Jules Lasbleiz",
-    "added_at": "2025-10-02T04:29:42.677Z",
-    "removed_at": "2025-10-02T04:33:28.016Z",
-    "duration_minutes": 3,
-    "duration_str": "3m"
+    "added_at": "2025-10-02T04:29:42.677Z"
   },
   {
     "title": "Une alerte à la bombe sur la Fête de la Bière à Munich contraint sa fermeture jusqu’à 17h",
@@ -49011,6 +49014,31 @@
   },
   {
     "title": "La flottille pour Gaza poursuit sa route malgré l'interception de navires",
-    "added_at": "2025-10-02T04:52:32.558Z"
+    "added_at": "2025-10-02T04:52:32.558Z",
+    "removed_at": "2025-10-02T04:56:24.293Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "La flottille pour Gaza poursuit sa route malgré l'interception de plusieurs de ses navires",
+    "added_at": "2025-10-02T04:56:24.293Z",
+    "removed_at": "2025-10-02T05:04:03.251Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "La flottille pour Gaza dit poursuivre sa route malgré l'interception de plusieurs de ses navires",
+    "added_at": "2025-10-02T05:04:03.251Z",
+    "removed_at": "2025-10-02T07:13:29.282Z",
+    "duration_minutes": 129,
+    "duration_str": "2h 9m"
+  },
+  {
+    "title": "Faut-il interdire les barbelés pour protéger les animaux? Débat entre François Monin et Kate Amiguet",
+    "added_at": "2025-10-02T05:17:17.077Z"
+  },
+  {
+    "title": "Les passagers des navires interceptés expulsés vers l'Europe, le reste de la flottille pour Gaza poursuit sa route",
+    "added_at": "2025-10-02T07:13:29.282Z"
   }
 ]

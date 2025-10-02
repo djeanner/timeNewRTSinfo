@@ -36853,7 +36853,10 @@
   },
   {
     "title": "monde:::Les Etats-Unis s’acheminent vers un shutdown",
-    "added_at": "2025-09-29T22:23:26.561Z"
+    "added_at": "2025-09-29T22:23:26.561Z",
+    "removed_at": "2025-10-02T05:47:47.126Z",
+    "duration_minutes": 3324,
+    "duration_str": "2d 7h 24m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’Autorité palestinienne salue les «efforts déterminés» de Donald Trump",
@@ -36927,7 +36930,10 @@
   },
   {
     "title": "monde:::Dans le ciel européen, Moscou teste l’OTAN avec des incursions aériennes record",
-    "added_at": "2025-09-30T06:44:05.459Z"
+    "added_at": "2025-09-30T06:44:05.459Z",
+    "removed_at": "2025-10-02T05:44:00.673Z",
+    "duration_minutes": 2819,
+    "duration_str": "1d 22h 59m"
   },
   {
     "title": "cyber:::Face aux géants de l’intelligence artificielle qui pillent leurs œuvres, les créateurs multiplient les contre-attaques en justice",
@@ -37414,7 +37420,10 @@
   },
   {
     "title": "economie:::A Genève, à la conférence Building Bridges sur la finance durable: face au risque d’un monde qui ne serait plus assurable",
-    "added_at": "2025-10-01T16:31:42.944Z"
+    "added_at": "2025-10-01T16:31:42.944Z",
+    "removed_at": "2025-10-02T05:21:08.168Z",
+    "duration_minutes": 769,
+    "duration_str": "12h 49m"
   },
   {
     "title": "economie:::Entre UBS et le Conseil fédéral, le bras de fer se durcit",
@@ -37459,7 +37468,10 @@
   },
   {
     "title": "sciences:::Deux essais cliniques pour des reins de cochons à l’hôpital sont lancés aux Etats-Unis, talonnés par la Chine",
-    "added_at": "2025-10-01T19:00:03.383Z"
+    "added_at": "2025-10-01T19:00:03.383Z",
+    "removed_at": "2025-10-02T06:54:24.140Z",
+    "duration_minutes": 714,
+    "duration_str": "11h 54m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – La flotille pour Gaza est arraisonnée par la marine israélienne, qui lui demande de changer de cap",
@@ -37491,7 +37503,10 @@
   },
   {
     "title": "culture:::«Marche ou crève», d’après Stephen King: on achève bien la jeunesse",
-    "added_at": "2025-10-01T22:00:25.987Z"
+    "added_at": "2025-10-01T22:00:25.987Z",
+    "removed_at": "2025-10-02T05:21:08.168Z",
+    "duration_minutes": 440,
+    "duration_str": "7h 20m"
   },
   {
     "title": "monde:::«Le monde devrait avoir honte»: la flottille Soumoud interceptée au large de Gaza",
@@ -37524,7 +37539,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Trente bateaux de la flottille Soumoud continuent leur route vers Gaza",
-    "added_at": "2025-10-02T04:08:44.547Z"
+    "added_at": "2025-10-02T04:08:44.547Z",
+    "removed_at": "2025-10-02T06:44:52.777Z",
+    "duration_minutes": 156,
+    "duration_str": "2h 36m"
   },
   {
     "title": "economie:::En graphiques – La résistance industrielle de la Suisse doit beaucoup à la pharma",
@@ -37533,5 +37551,32 @@
   {
     "title": "suisse:::A Genève, la quête très catholique de La Nuit du Bien Commun fondée par le milliardaire réactionnaire Pierre-Edouard Stérin",
     "added_at": "2025-10-02T04:42:57.964Z"
+  },
+  {
+    "title": "suisse:::Les primes d’assurance maladie augmentent plus qu’annoncé selon une étude",
+    "added_at": "2025-10-02T05:21:08.168Z",
+    "removed_at": "2025-10-02T06:29:42.539Z",
+    "duration_minutes": 68,
+    "duration_str": "1h 8m"
+  },
+  {
+    "title": "suisse:::Pierre-Alain Fridez, le médecin qui diagnostiquait les maux du F-35",
+    "added_at": "2025-10-02T05:44:00.673Z"
+  },
+  {
+    "title": "monde:::A quoi servent les Tomahawk, ces missiles longue portée que les Etats-Unis pourraient livrer à l’Ukraine?",
+    "added_at": "2025-10-02T05:47:47.126Z"
+  },
+  {
+    "title": "monde:::Ecole effondrée en Indonésie: plus aucun signe de vie, 59 personnes présumées disparues",
+    "added_at": "2025-10-02T06:29:42.539Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les passagers des navires interceptés seront expulsés vers l’Europe, selon Israël",
+    "added_at": "2025-10-02T06:44:52.777Z"
+  },
+  {
+    "title": "economie:::Les trois décennies qui ont mis l’industrie horlogère suisse à l’heure du luxe",
+    "added_at": "2025-10-02T06:54:24.140Z"
   }
 ]
