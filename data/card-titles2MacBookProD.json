@@ -38311,7 +38311,10 @@
   },
   {
     "title": "economie:::Naufragé depuis 227 jours, la fin épique du MSC Baltic III",
-    "added_at": "2025-10-01T04:43:53.289Z"
+    "added_at": "2025-10-01T04:43:53.289Z",
+    "removed_at": "2025-10-02T11:43:12.478Z",
+    "duration_minutes": 1859,
+    "duration_str": "1d 6h 59m"
   },
   {
     "title": "economie:::MSC s’engage à ne pas utiliser la route maritime du nord",
@@ -38512,7 +38515,10 @@
   },
   {
     "title": "economie:::Entre UBS et le Conseil fédéral, le bras de fer se durcit",
-    "added_at": "2025-10-01T16:47:43.342Z"
+    "added_at": "2025-10-01T16:47:43.342Z",
+    "removed_at": "2025-10-02T11:40:57.285Z",
+    "duration_minutes": 1133,
+    "duration_str": "18h 53m"
   },
   {
     "title": "sport:::Les Jeux olympiques pour les skieurs alpins? Presque des courses comme les autres",
@@ -38534,7 +38540,10 @@
   },
   {
     "title": "suisse:::Importante mobilisation à Fribourg contre la rigueur budgétaire",
-    "added_at": "2025-10-01T17:57:12.808Z"
+    "added_at": "2025-10-01T17:57:12.808Z",
+    "removed_at": "2025-10-02T12:12:19.106Z",
+    "duration_minutes": 1095,
+    "duration_str": "18h 15m"
   },
   {
     "title": "monde:::A Copenhague, les 27 en quête d’une «réponse forte» pour contrer la guerre hybride de Moscou",
@@ -38549,7 +38558,10 @@
   },
   {
     "title": "monde:::A Copenhague, les Vingt-Sept en quête d’une «réponse forte» pour contrer la guerre hybride de Moscou",
-    "added_at": "2025-10-01T18:32:55.853Z"
+    "added_at": "2025-10-01T18:32:55.853Z",
+    "removed_at": "2025-10-02T11:09:39.949Z",
+    "duration_minutes": 996,
+    "duration_str": "16h 36m"
   },
   {
     "title": "sciences:::Deux essais cliniques pour des reins de cochons à l’hôpital sont lancés aux Etats-Unis, talonnés par la Chine",
@@ -38674,11 +38686,17 @@
   },
   {
     "title": "economie:::Les trois décennies qui ont mis l’industrie horlogère suisse à l’heure du luxe",
-    "added_at": "2025-10-02T06:54:21.130Z"
+    "added_at": "2025-10-02T06:54:21.130Z",
+    "removed_at": "2025-10-02T11:09:39.949Z",
+    "duration_minutes": 255,
+    "duration_str": "4h 15m"
   },
   {
     "title": "culture:::A Genève, un festival pour inscrire la musique des compositrices en mode majeur",
-    "added_at": "2025-10-02T07:36:44.294Z"
+    "added_at": "2025-10-02T07:36:44.294Z",
+    "removed_at": "2025-10-02T10:31:29.918Z",
+    "duration_minutes": 174,
+    "duration_str": "2h 54m"
   },
   {
     "title": "culture:::Mel D, sortilèges folk-pop à la sauce grisonne",
@@ -38690,6 +38708,40 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les bateaux de la flottille pour Gaza transportant des suisses ont tous été interceptés par Israël",
-    "added_at": "2025-10-02T10:11:09.596Z"
+    "added_at": "2025-10-02T10:11:09.596Z",
+    "removed_at": "2025-10-02T10:47:14.044Z",
+    "duration_minutes": 36,
+    "duration_str": "36m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les bateaux de la flottille pour Gaza transportant des Suisses ont tous été interceptés par Israël",
+    "added_at": "2025-10-02T10:47:14.044Z",
+    "removed_at": "2025-10-02T12:30:18.278Z",
+    "duration_minutes": 103,
+    "duration_str": "1h 43m"
+  },
+  {
+    "title": "suisse:::Au Laténium, les naufragés de l’île de Sable racontent la résilience face à la cruauté de l’esclavage",
+    "added_at": "2025-10-02T11:09:39.949Z"
+  },
+  {
+    "title": "sciences:::Erica van de Waal, primatologue: «Par ses messages et son parcours, Jane Goodall était porteuse d’espoir»",
+    "added_at": "2025-10-02T11:09:39.949Z"
+  },
+  {
+    "title": "monde:::Deux personnes sont mortes dans une attaque devant une synagogue à Manchester",
+    "added_at": "2025-10-02T11:40:57.285Z"
+  },
+  {
+    "title": "suisse:::Ueli Maurer est de retour à Pékin",
+    "added_at": "2025-10-02T11:40:57.285Z"
+  },
+  {
+    "title": "culture:::Au 1066 Festival, Salif Keïta chante toujours sa différence",
+    "added_at": "2025-10-02T12:12:19.106Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Israël affirme qu'aucun navire de la flottille n'a réussi à briser le blocus de Gaza",
+    "added_at": "2025-10-02T12:30:18.278Z"
   }
 ]
