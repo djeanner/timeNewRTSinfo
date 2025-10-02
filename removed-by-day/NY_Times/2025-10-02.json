@@ -86,12 +86,26 @@
   {
     "title": "2 Planes Collide on LaGuardia Airport Taxiway",
     "added_at": "2025-10-02T04:40:20.767Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-02T07:23:20.665Z",
+    "duration_minutes": 163,
+    "duration_str": "2h 43m"
   },
   {
     "title": "Trump Administration Asks Colleges to Sign ‘Compact’ to Get Funding Preference",
     "added_at": "2025-10-02T04:42:31.404Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Two Planes Collide on La Guardia Airport Taxiway",
+    "added_at": "2025-10-02T07:23:20.665Z",
+    "removed_at": "2025-10-02T07:34:27.574Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "Two Planes Collide on LaGuardia Airport Taxiway",
+    "added_at": "2025-10-02T07:34:27.574Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
