@@ -37713,7 +37713,10 @@
   },
   {
     "title": "suisse:::Pour le canton du Jura, la planification budgétaire reste un travail d’équilibriste",
-    "added_at": "2025-10-02T15:44:48.220Z"
+    "added_at": "2025-10-02T15:44:48.220Z",
+    "removed_at": "2025-10-03T14:35:08.531Z",
+    "duration_minutes": 1370,
+    "duration_str": "22h 50m"
   },
   {
     "title": "monde:::Clap de fin pour la flottille Soumoud, mais un navire a réussi à entrer dans les eaux de Gaza",
@@ -37781,7 +37784,10 @@
   },
   {
     "title": "suisse:::Des cantons unis comme rarement pour défendre le rail romand",
-    "added_at": "2025-10-02T17:52:57.607Z"
+    "added_at": "2025-10-02T17:52:57.607Z",
+    "removed_at": "2025-10-03T13:16:59.395Z",
+    "duration_minutes": 1164,
+    "duration_str": "19h 24m"
   },
   {
     "title": "monde:::A Copenhague, Karin Keller-Sutter, au milieu de dirigeants préoccupés par le réarmement et la défense de l’Europe",
@@ -37949,11 +37955,17 @@
   },
   {
     "title": "monde:::En France, le premier ministre Sébastien Lecornu renonce à l’outil du 49.3 et propose une taxe sur le patrimoine financier",
-    "added_at": "2025-10-03T10:23:09.790Z"
+    "added_at": "2025-10-03T10:23:09.790Z",
+    "removed_at": "2025-10-03T13:30:20.677Z",
+    "duration_minutes": 187,
+    "duration_str": "3h 7m"
   },
   {
     "title": "sport:::La F1 Academy: en piste pour l’égalité, mais à quelle vitesse?",
-    "added_at": "2025-10-03T10:44:07.382Z"
+    "added_at": "2025-10-03T10:44:07.382Z",
+    "removed_at": "2025-10-03T14:18:00.204Z",
+    "duration_minutes": 213,
+    "duration_str": "3h 33m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – «D’accord, d’accord, je ne le ferai plus»: Vladimir Poutine se moque des Européens après plusieurs incursions de drones",
@@ -37961,11 +37973,17 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Dix-neuf militants suisses de la flottille emprisonnés en Israël. Certains ont entamé une grève de la faim",
-    "added_at": "2025-10-03T10:57:31.487Z"
+    "added_at": "2025-10-03T10:57:31.487Z",
+    "removed_at": "2025-10-03T14:25:33.958Z",
+    "duration_minutes": 208,
+    "duration_str": "3h 28m"
   },
   {
     "title": "sciences:::Olivier May se lance dans une histoire de la vache en Suisse",
-    "added_at": "2025-10-03T11:49:01.502Z"
+    "added_at": "2025-10-03T11:49:01.502Z",
+    "removed_at": "2025-10-03T15:03:40.635Z",
+    "duration_minutes": 194,
+    "duration_str": "3h 14m"
   },
   {
     "title": "monde:::L’Allemagne en alerte face aux survols de drones inconnus dans le ciel de Munich",
@@ -37974,5 +37992,36 @@
   {
     "title": "monde:::Le trafic aérien suspendu à l'aéroport de Munich après un survol de drones",
     "added_at": "2025-10-03T12:48:09.458Z"
+  },
+  {
+    "title": "economie:::UBS avait injecté 500 millions de dollars dans l’américain First Brands en faillite",
+    "added_at": "2025-10-03T13:16:59.395Z"
+  },
+  {
+    "title": "monde:::En France, le premier ministre, Sébastien Lecornu, renonce à l’outil du 49.3 et propose une taxe sur le patrimoine financier",
+    "added_at": "2025-10-03T13:30:20.677Z"
+  },
+  {
+    "title": "culture:::A Genève, dans l’ombre et la lumière du jardin de Derek Jarman",
+    "added_at": "2025-10-03T14:18:00.204Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump donne jusqu’à dimanche soir au Hamas pour prendre position sur son plan",
+    "added_at": "2025-10-03T14:25:33.958Z",
+    "removed_at": "2025-10-03T14:29:25.882Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump donne jusqu’à dimanche soir au Hamas pour prendre position sur son plan de paix",
+    "added_at": "2025-10-03T14:29:25.882Z"
+  },
+  {
+    "title": "suisse:::A La Chaux-de-Fonds, l’acier se recycle dans un bain de soleil",
+    "added_at": "2025-10-03T14:35:08.531Z"
+  },
+  {
+    "title": "sciences:::Et vous, mangeriez-vous des yaourts fermentés par des fourmis?",
+    "added_at": "2025-10-03T15:03:40.635Z"
   }
 ]
