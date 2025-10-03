@@ -14784,7 +14784,10 @@
   },
   {
     "title": "Couleurs locales signé",
-    "added_at": "2025-09-05T05:49:05.262Z"
+    "added_at": "2025-09-05T05:49:05.262Z",
+    "removed_at": "2025-10-02T23:17:21.127Z",
+    "duration_minutes": 39928,
+    "duration_str": "27d 17h 28m"
   },
   {
     "title": "Lancement d'une prospection géothermique dans le Nord vaudois",
@@ -24054,7 +24057,10 @@
   },
   {
     "title": "Le plan de paix américain pour Gaza favorablement accueilli à l'international",
-    "added_at": "2025-09-30T17:59:14.259Z"
+    "added_at": "2025-09-30T17:59:14.259Z",
+    "removed_at": "2025-10-02T23:17:21.127Z",
+    "duration_minutes": 3198,
+    "duration_str": "2d 5h 18m"
   },
   {
     "title": "Faut-il abattre les drones russes qui survolent l’Europe? Débat entre Nicolas Tenzer et Jean-Luc Addor",
@@ -24722,5 +24728,13 @@
   {
     "title": "Le Grand Conseil genevois vote le déclassement de zones villas",
     "added_at": "2025-10-02T21:31:48.063Z"
+  },
+  {
+    "title": "Une initiative populaire pour demander la reconnaissance de la Palestine",
+    "added_at": "2025-10-02T23:17:21.127Z"
+  },
+  {
+    "title": "Flottille humanitaire interceptée à une centaine de kilomètres des côtes de Gaza",
+    "added_at": "2025-10-02T23:17:21.127Z"
   }
 ]
