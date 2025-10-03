@@ -38299,7 +38299,10 @@
   },
   {
     "title": "monde:::Sans accord budgétaire, les Etats-Unis se résignent au «shutdown»",
-    "added_at": "2025-10-01T04:03:36.700Z"
+    "added_at": "2025-10-01T04:03:36.700Z",
+    "removed_at": "2025-10-03T10:54:45.699Z",
+    "duration_minutes": 3291,
+    "duration_str": "2d 6h 51m"
   },
   {
     "title": "monde:::Contrôles plus lents, retards, annulations: comment le «shutdown» va affecter les vols et les aéroports américains",
@@ -38923,7 +38926,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Kiev appelle l’Europe à se mobiliser contre l'«escalade»",
-    "added_at": "2025-10-02T22:27:50.141Z"
+    "added_at": "2025-10-02T22:27:50.141Z",
+    "removed_at": "2025-10-03T10:54:45.699Z",
+    "duration_minutes": 746,
+    "duration_str": "12h 26m"
   },
   {
     "title": "monde:::Donald Trump propose un juteux «pacte» aux universités: si elles embrassent son agenda politique, elles auront plus de financements",
@@ -38981,7 +38987,10 @@
   },
   {
     "title": "suisse:::Entre la Suisse et la Chine, il n’y a «plus grand-chose à fêter»",
-    "added_at": "2025-10-03T06:16:18.593Z"
+    "added_at": "2025-10-03T06:16:18.593Z",
+    "removed_at": "2025-10-03T11:48:41.393Z",
+    "duration_minutes": 332,
+    "duration_str": "5h 32m"
   },
   {
     "title": "monde:::Au cœur du shutdown américain, un bras de fer autour de l’Obamacare",
@@ -38996,11 +39005,17 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Hamas dit avoir besoin d'«encore un peu de temps» pour étudier le plan de Donald Trump pour Gaza",
-    "added_at": "2025-10-03T08:32:59.119Z"
+    "added_at": "2025-10-03T08:32:59.119Z",
+    "removed_at": "2025-10-03T10:56:58.202Z",
+    "duration_minutes": 143,
+    "duration_str": "2h 23m"
   },
   {
     "title": "sciences:::L’ESA inaugure une nouvelle antenne «capable de détecter un signal de téléphone émis sur Mars»",
-    "added_at": "2025-10-03T08:44:07.451Z"
+    "added_at": "2025-10-03T08:44:07.451Z",
+    "removed_at": "2025-10-03T10:45:40.970Z",
+    "duration_minutes": 121,
+    "duration_str": "2h 1m"
   },
   {
     "title": "suisse:::A Genève, troisième procès pour la folle affaire de la plume, avec son notable, son mensonge pieux et son histoire d’asphyxie érotique",
@@ -39013,5 +39028,29 @@
   {
     "title": "monde:::En France, le premier ministre Sébastien Lecornu renonce à l’outil du 49.3 et propose une taxe sur le patrimoine financier",
     "added_at": "2025-10-03T10:22:43.286Z"
+  },
+  {
+    "title": "sport:::La F1 Academy: en piste pour l’égalité, mais à quelle vitesse?",
+    "added_at": "2025-10-03T10:45:40.970Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – «D’accord, d’accord, je ne le ferai plus»: Vladimir Poutine se moque des Européens après plusieurs incursions de drones",
+    "added_at": "2025-10-03T10:54:45.699Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Dix-neuf militants suisses de la flottille emprisonnés en Israël. Certains ont entamé une grève de la faim",
+    "added_at": "2025-10-03T10:56:58.202Z"
+  },
+  {
+    "title": "sciences:::Olivier May se lance dans une histoire de la vache en Suisse",
+    "added_at": "2025-10-03T11:48:41.393Z"
+  },
+  {
+    "title": "monde:::L’Allemagne en alerte face aux survols de drones inconnus dans le ciel de Munich",
+    "added_at": "2025-10-03T12:49:28.233Z"
+  },
+  {
+    "title": "monde:::Le trafic aérien suspendu à l'aéroport de Munich après un survol de drones",
+    "added_at": "2025-10-03T12:49:28.233Z"
   }
 ]
