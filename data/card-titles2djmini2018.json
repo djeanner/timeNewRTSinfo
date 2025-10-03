@@ -6448,7 +6448,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:00:57.917Z"
+    "added_at": "2025-05-22T18:00:57.917Z",
+    "removed_at": "2025-10-03T03:40:57.562Z",
+    "duration_minutes": 192099,
+    "duration_str": "133d 9h 39m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -37730,7 +37733,10 @@
   },
   {
     "title": "cyber:::Une valorisation de 500 milliards: plus que jamais, les investisseurs croient à l’immense potentiel d’OpenAI et de ChatGPT",
-    "added_at": "2025-10-02T16:34:28.271Z"
+    "added_at": "2025-10-02T16:34:28.271Z",
+    "removed_at": "2025-10-03T04:13:22.069Z",
+    "duration_minutes": 698,
+    "duration_str": "11h 38m"
   },
   {
     "title": "monde:::Alain Berset: «Investir massivement dans la sécurité militaire est légitime, mais nous devons aussi investir massivement dans la sécurité démocratique»",
@@ -37738,7 +37744,10 @@
   },
   {
     "title": "monde:::Au Royaume-Uni, une attaque contre une synagogue ravive les tensions religieuses",
-    "added_at": "2025-10-02T16:53:45.618Z"
+    "added_at": "2025-10-02T16:53:45.618Z",
+    "removed_at": "2025-10-03T04:40:01.441Z",
+    "duration_minutes": 706,
+    "duration_str": "11h 46m"
   },
   {
     "title": "suisse:::La fonction publique vaudoise manifeste contre les coupes, dans un canton «assis sur un tas de blé»",
@@ -37814,10 +37823,40 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Trois mille personnes ont manifesté à Genève en soutien à la flottille pour Gaza, des rassemblements dans toute l’Europe",
-    "added_at": "2025-10-02T22:14:33.116Z"
+    "added_at": "2025-10-02T22:14:33.116Z",
+    "removed_at": "2025-10-03T04:11:27.028Z",
+    "duration_minutes": 356,
+    "duration_str": "5h 56m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Kiev appelle l’Europe à se mobiliser contre l'«escalade»",
     "added_at": "2025-10-02T22:27:55.488Z"
+  },
+  {
+    "title": "monde:::Donald Trump propose un juteux «pacte» aux universités: si elles embrassent son agenda politique, elles auront plus de financements",
+    "added_at": "2025-10-03T03:40:57.562Z",
+    "removed_at": "2025-10-03T03:58:07.564Z",
+    "duration_minutes": 17,
+    "duration_str": "17m"
+  },
+  {
+    "title": "monde:::Allégeance politique contre financements: Donald Trump propose un juteux «pacte» aux universités",
+    "added_at": "2025-10-03T03:58:07.564Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – A Genève, la manifestation en soutien à la flottille pour Gaza a viré à l'affrontement avec la police",
+    "added_at": "2025-10-03T04:11:27.028Z"
+  },
+  {
+    "title": "economie:::Avec la fin programmée de la valeur locative, est-il temps d’amortir son hypothèque?",
+    "added_at": "2025-10-03T04:13:22.069Z"
+  },
+  {
+    "title": "monde:::A Casablanca: «Le Maroc se préoccupe davantage de son image que de la vie de ses citoyens!»",
+    "added_at": "2025-10-03T04:40:01.441Z"
+  },
+  {
+    "title": "suisse:::L’UDC pourrait atteindre un record lors des prochaines élections fédérales, le PLR et Le Centre continuent leur chute",
+    "added_at": "2025-10-03T04:43:53.197Z"
   }
 ]
