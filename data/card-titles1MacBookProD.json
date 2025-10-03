@@ -24491,7 +24491,10 @@
   },
   {
     "title": "Une alerte à la bombe sur la Fête de la Bière à Munich contraint sa fermeture jusqu’à 17h",
-    "added_at": "2025-10-02T04:29:13.537Z"
+    "added_at": "2025-10-02T04:29:13.537Z",
+    "removed_at": "2025-10-03T03:17:10.917Z",
+    "duration_minutes": 1367,
+    "duration_str": "22h 47m"
   },
   {
     "title": "La flottille pour Gaza poursuit sa route malgré l'interception de navires",
@@ -24736,5 +24739,13 @@
   {
     "title": "Flottille humanitaire interceptée à une centaine de kilomètres des côtes de Gaza",
     "added_at": "2025-10-02T23:17:21.127Z"
+  },
+  {
+    "title": "120 secondes - À qui profite l’abolition de la valeur locative?",
+    "added_at": "2025-10-03T03:17:10.917Z"
+  },
+  {
+    "title": "Trafic aérien suspendu à l'aéroport de Munich après un vol de drone",
+    "added_at": "2025-10-03T03:55:17.947Z"
   }
 ]

@@ -8226,7 +8226,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z"
+    "added_at": "2025-05-22T18:01:52.008Z",
+    "removed_at": "2025-10-03T03:41:50.036Z",
+    "duration_minutes": 192099,
+    "duration_str": "133d 9h 39m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -38897,5 +38900,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Kiev appelle l’Europe à se mobiliser contre l'«escalade»",
     "added_at": "2025-10-02T22:27:50.141Z"
+  },
+  {
+    "title": "monde:::Donald Trump propose un juteux «pacte» aux universités: si elles embrassent son agenda politique, elles auront plus de financements",
+    "added_at": "2025-10-03T03:41:50.036Z"
   }
 ]
