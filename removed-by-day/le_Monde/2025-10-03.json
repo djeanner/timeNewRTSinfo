@@ -89,20 +89,23 @@
   {
     "title": "A l’aéroport de Munich, le trafic aérien a été suspendu plusieurs heures en raison du survol de drones",
     "added_at": "2025-10-03T04:40:12.789Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-03T09:02:10.226Z",
+    "duration_minutes": 262,
+    "duration_str": "4h 22m"
   },
   {
     "title": "Aux Etats-Unis, Donald Trump compte faire du shutdown une arme politique",
     "added_at": "2025-10-03T04:44:38.350Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-03T09:58:09.806Z",
+    "duration_minutes": 314,
+    "duration_str": "5h 14m"
   },
   {
     "title": "Emmanuel Macron sonne la charge contre la flotte fantôme russe, à Copenhague",
     "added_at": "2025-10-03T05:02:29.701Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-03T10:31:44.462Z",
+    "duration_minutes": 329,
+    "duration_str": "5h 29m"
   },
   {
     "title": "Les relations entre l’Ukraine et la Hongrie s’enveniment après des survols de drones",
@@ -140,8 +143,9 @@
   {
     "title": "Taylor Swift dévoile « The Life of a Showgirl », son douzième album",
     "added_at": "2025-10-03T06:20:44.851Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-03T09:24:32.075Z",
+    "duration_minutes": 184,
+    "duration_str": "3h 4m"
   },
   {
     "title": "Au procès de Cédric Jubillar, un instantané de cruauté",
@@ -166,8 +170,9 @@
   {
     "title": "L’absence d’investissement des entreprises, principale source du décrochage économique de l’Europe",
     "added_at": "2025-10-03T07:14:36.626Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-03T09:11:07.817Z",
+    "duration_minutes": 117,
+    "duration_str": "1h 57m"
   },
   {
     "title": "Le Maroc secoué par la fronde de la génération Z : « Nous sommes la jeunesse, nous ne sommes pas des parasites »",
@@ -203,14 +208,16 @@
   {
     "title": "Comment Taylor Swift a construit un empire",
     "added_at": "2025-10-03T08:08:20.247Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-03T10:36:11.206Z",
+    "duration_minutes": 148,
+    "duration_str": "2h 28m"
   },
   {
     "title": "Robert Malley, diplomate américain : « Le plan de Trump pour Gaza contient moins de réponses claires que d’ambiguïtés et de pièges potentiels »",
     "added_at": "2025-10-03T08:12:52.210Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-03T10:42:54.606Z",
+    "duration_minutes": 150,
+    "duration_str": "2h 30m"
   },
   {
     "title": "Budget 2026 : Sébastien Lecornu annonce qu’il renonce au 49.3, avant de recevoir les formations politiques",
@@ -240,6 +247,68 @@
   {
     "title": "Sébastien Lecornu annonce qu’il renonce au 49.3 : « Je ne vois pas la rupture avec le macronisme », déplore Marine Le Pen",
     "added_at": "2025-10-03T08:48:35.958Z",
+    "removed_at": "2025-10-03T09:11:07.817Z",
+    "duration_minutes": 23,
+    "duration_str": "23m"
+  },
+  {
+    "title": "Après l’aéroport de Munich, la Belgique a été survolée par des drones",
+    "added_at": "2025-10-03T09:02:10.226Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "« Avec le rachat d’OxyChem, Berkshire Hathaway fait un  “deal” dans le pur style Buffett »",
+    "added_at": "2025-10-03T09:11:07.817Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Budget, abandon du 49.3 : les dessous de la méthode Lecornu",
+    "added_at": "2025-10-03T09:11:07.817Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "En direct : la flottille pour Gaza annonce l’arraisonnement de son dernier bateau",
+    "added_at": "2025-10-03T09:11:07.817Z",
+    "removed_at": "2025-10-03T10:42:54.606Z",
+    "duration_minutes": 92,
+    "duration_str": "1h 32m"
+  },
+  {
+    "title": "Le vélo, outil précieux pour réduire les symptômes de la maladie de Parkinson",
+    "added_at": "2025-10-03T09:22:17.006Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Sarah Mullally devient la première femme cheffe de l’Eglise anglicane d’Angleterre",
+    "added_at": "2025-10-03T09:24:32.075Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Au Maroc, le cri d’alarme de la génération Z",
+    "added_at": "2025-10-03T09:35:44.340Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "En République tchèque, des élections législatives dominées par la question du soutien à l’Ukraine",
+    "added_at": "2025-10-03T09:55:52.421Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Donald Trump s’engage à défendre la sécurité du Qatar, en lui offrant une garantie de solidarité",
+    "added_at": "2025-10-03T10:00:20.670Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Nouvel élan de solidarité internationale avec Gaza après l’interception de la flottille",
+    "added_at": "2025-10-03T10:42:54.606Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
