@@ -37221,7 +37221,10 @@
   },
   {
     "title": "monde:::Contrôles plus lents, retards, annulations: comment le «shutdown» va affecter les vols et les aéroports américains",
-    "added_at": "2025-10-01T04:03:23.186Z"
+    "added_at": "2025-10-01T04:03:23.186Z",
+    "removed_at": "2025-10-04T05:23:57.629Z",
+    "duration_minutes": 4400,
+    "duration_str": "3d 1h 20m"
   },
   {
     "title": "economie:::De l’informatique aux cornichons, les timides liens tissés entre l’Inde et la Suisse",
@@ -38143,5 +38146,9 @@
   {
     "title": "monde:::Moyen-Orient – Le Hamas prêt à libérer les otages dans le cadre du plan de Donald Trump - sous certaines conditions",
     "added_at": "2025-10-03T21:12:18.744Z"
+  },
+  {
+    "title": "monde:::Le Hamas accepte (en partie) la proposition de Donald Trump, qui appelle Israël à cesser de bombarder Gaza",
+    "added_at": "2025-10-04T05:23:57.629Z"
   }
 ]
