@@ -48163,7 +48163,10 @@
   },
   {
     "title": "‘Will they change course?’: US Senate in deadlock over government shutdown",
-    "added_at": "2025-10-04T00:05:52.601Z"
+    "added_at": "2025-10-04T00:05:52.601Z",
+    "removed_at": "2025-10-04T15:25:01.552Z",
+    "duration_minutes": 919,
+    "duration_str": "15h 19m"
   },
   {
     "title": "Trumps tells Israel ‘stop bombing’ Gaza after Hamas ceasefire response",
@@ -48257,7 +48260,10 @@
   },
   {
     "title": "Israel kills 20 Palestinians after Trump tells it to ‘stop bombing’ Gaza",
-    "added_at": "2025-10-04T10:40:30.271Z"
+    "added_at": "2025-10-04T10:40:30.271Z",
+    "removed_at": "2025-10-04T15:40:18.462Z",
+    "duration_minutes": 299,
+    "duration_str": "4h 59m"
   },
   {
     "title": "Russian attack hits passenger train in Ukraine’s Sumy, causing casualties",
@@ -48275,7 +48281,10 @@
   },
   {
     "title": "Russian ‘savage’ attack on passenger train in Ukraine’s Sumy injures 30",
-    "added_at": "2025-10-04T12:02:31.697Z"
+    "added_at": "2025-10-04T12:02:31.697Z",
+    "removed_at": "2025-10-04T16:31:47.036Z",
+    "duration_minutes": 269,
+    "duration_str": "4h 29m"
   },
   {
     "title": "Munich airport resumes operations after more drone sightings halted flights",
@@ -48288,5 +48297,45 @@
   {
     "title": "Will India-Pakistan hostility and rain mar Women’s Cricket World Cup match?",
     "added_at": "2025-10-04T13:41:53.003Z"
+  },
+  {
+    "title": "Israel kills 41 Palestinians after Trump tells it to ‘stop bombing’ Gaza",
+    "added_at": "2025-10-04T15:40:18.462Z",
+    "removed_at": "2025-10-04T15:51:44.116Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "Israeli attacks kill 41 despite Trump saying it has ‘stopped bombing’ Gaza",
+    "added_at": "2025-10-04T15:51:44.116Z",
+    "removed_at": "2025-10-04T16:20:19.396Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
+  },
+  {
+    "title": "Gaza protests under way in Europe as arrests made in London",
+    "added_at": "2025-10-04T16:12:38.639Z"
+  },
+  {
+    "title": "Israeli attacks kill 46 despite Trump saying it has ‘stopped bombing’ Gaza",
+    "added_at": "2025-10-04T16:20:19.396Z",
+    "removed_at": "2025-10-04T16:42:32.405Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
+  },
+  {
+    "title": "Russian attack on passenger train in Ukraine’s Sumy kills one",
+    "added_at": "2025-10-04T16:31:47.036Z",
+    "removed_at": "2025-10-04T17:02:23.525Z",
+    "duration_minutes": 30,
+    "duration_str": "30m"
+  },
+  {
+    "title": "Israel kills 46 despite Trump saying it has ‘stopped bombing’ Gaza",
+    "added_at": "2025-10-04T16:42:32.405Z"
+  },
+  {
+    "title": "Russian attack on passenger train in Ukraine’s Sumy kills one, injures 30",
+    "added_at": "2025-10-04T17:02:23.525Z"
   }
 ]
