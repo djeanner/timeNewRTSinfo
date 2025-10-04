@@ -190,8 +190,9 @@
   {
     "title": "Last boat in Gaza humanitarian flotilla intercepted by Israel",
     "added_at": "2025-10-03T09:31:15.876Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-04T00:53:14.692Z",
+    "duration_minutes": 922,
+    "duration_str": "15h 22m"
   },
   {
     "title": "Are internet rumours of a comet hurtling towards Earth true?",
@@ -266,9 +267,9 @@
   {
     "title": "Russia escalates strikes on Ukraine’s power grid, gas sites as winter looms",
     "added_at": "2025-10-03T13:57:02.035Z",
-    "removed_at": "2025-10-03T22:13:54.554Z",
-    "duration_minutes": 497,
-    "duration_str": "8h 17m"
+    "removed_at": "2025-10-03T22:13:18.898Z",
+    "duration_minutes": 496,
+    "duration_str": "8h 16m"
   },
   {
     "title": "Children among 49 people killed in Gaza as Israel ramps up bombardment",
@@ -293,7 +294,7 @@
   {
     "title": "Trump issues Sunday ultimatum for Hamas to accept Gaza plan",
     "added_at": "2025-10-03T14:56:03.075Z",
-    "removed_at": "2025-10-03T20:17:11.522Z",
+    "removed_at": "2025-10-03T20:17:09.315Z",
     "duration_minutes": 321,
     "duration_str": "5h 21m"
   },
@@ -340,8 +341,9 @@
   {
     "title": "Chelsea wary of wounded Liverpool threat – all to know",
     "added_at": "2025-10-03T17:48:04.777Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-04T00:21:49.304Z",
+    "duration_minutes": 394,
+    "duration_str": "6h 34m"
   },
   {
     "title": "Church of England names first female archbishop of Canterbury",
@@ -360,8 +362,9 @@
   {
     "title": "Lack of data on government shutdown blurs US economy insights",
     "added_at": "2025-10-03T18:26:21.286Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-04T00:17:21.307Z",
+    "duration_minutes": 351,
+    "duration_str": "5h 51m"
   },
   {
     "title": "At least 72 Palestinians killed in Gaza as Israel ramps up attacks",
@@ -373,9 +376,9 @@
   {
     "title": "Apple pulls ICEBlock from App Store following US government pressure",
     "added_at": "2025-10-03T18:53:09.016Z",
-    "removed_at": "2025-10-03T22:02:44.110Z",
-    "duration_minutes": 190,
-    "duration_str": "3h 10m"
+    "removed_at": "2025-10-03T22:01:54.591Z",
+    "duration_minutes": 189,
+    "duration_str": "3h 9m"
   },
   {
     "title": "Pressure mounts on Meloni’s gov’t as Gaza protests paralyse Italy",
@@ -392,10 +395,9 @@
   },
   {
     "title": "Hamas says it agrees to parts of Trump’s Gaza plan but seeks more talks",
-    "added_at": "2025-10-03T20:17:11.522Z",
-    "removed_at": "2025-10-03T22:56:27.037Z",
-    "duration_minutes": 159,
-    "duration_str": "2h 39m"
+    "added_at": "2025-10-03T20:17:09.315Z",
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Police say one victim possibly shot by officer during Manchester attack",
@@ -411,20 +413,20 @@
   },
   {
     "title": "FBI cuts ties with civil rights watchdog SPLC after conservative pressure",
-    "added_at": "2025-10-03T22:02:44.110Z",
-    "removed_at": "2025-10-03T22:36:17.424Z",
+    "added_at": "2025-10-03T22:01:54.591Z",
+    "removed_at": "2025-10-03T22:36:11.114Z",
     "duration_minutes": 34,
     "duration_str": "34m"
   },
   {
     "title": "First lawsuit filed challenging Trump’s $100,000 H-1B visa fee",
-    "added_at": "2025-10-03T22:13:54.554Z",
+    "added_at": "2025-10-03T22:13:18.898Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Musician Sean ‘Diddy’ Combs sentenced to four years in prison after apology",
-    "added_at": "2025-10-03T22:36:17.424Z",
+    "added_at": "2025-10-03T22:36:11.114Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -439,5 +441,12 @@
     "added_at": "2025-10-03T23:00:59.765Z",
     "duration_minutes": 0,
     "duration_str": ""
+  },
+  {
+    "title": "‘Will they change course?’: US Senate in stalemate over government shutdown",
+    "added_at": "2025-10-03T23:59:24.611Z",
+    "removed_at": "2025-10-04T00:06:09.267Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
   }
 ]
