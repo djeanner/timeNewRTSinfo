@@ -57,16 +57,16 @@
   {
     "title": "culture:::Bâle invite à rencontrer des fantômes en toute convivialité",
     "added_at": "2025-10-05T09:49:54.033Z",
-    "removed_at": "2025-10-05T13:34:35.879Z",
-    "duration_minutes": 225,
-    "duration_str": "3h 45m"
+    "removed_at": "2025-10-05T13:32:53.450Z",
+    "duration_minutes": 223,
+    "duration_str": "3h 43m"
   },
   {
     "title": "monde:::Moyen-Orient – Environ 900 000 habitants ont évacué la ville de Gaza, selon Israël",
     "added_at": "2025-10-05T09:55:35.610Z",
-    "removed_at": "2025-10-05T13:03:08.242Z",
-    "duration_minutes": 188,
-    "duration_str": "3h 8m"
+    "removed_at": "2025-10-05T13:02:31.434Z",
+    "duration_minutes": 187,
+    "duration_str": "3h 7m"
   },
   {
     "title": "monde:::Guerre en Ukraine – Les frappes russe ont tué cinq personnes en Ukraine dans la nuit",
@@ -108,14 +108,14 @@
   },
   {
     "title": "monde:::Moyen-Orient – Le Hamas dit vouloir un accord et commencer «immédiatement» l’échange d'otages et de prisonniers",
-    "added_at": "2025-10-05T13:03:08.242Z",
-    "removed_at": "2025-10-05T13:25:34.728Z",
-    "duration_minutes": 22,
-    "duration_str": "22m"
+    "added_at": "2025-10-05T13:02:31.434Z",
+    "removed_at": "2025-10-05T13:25:20.034Z",
+    "duration_minutes": 23,
+    "duration_str": "23m"
   },
   {
     "title": "monde:::Moyen-Orient – Les premiers Suisses de la flottille pour Gaza expulsés par Israël sont arrivés à Genève",
-    "added_at": "2025-10-05T13:25:34.728Z",
+    "added_at": "2025-10-05T13:25:20.034Z",
     "removed_at": "2025-10-05T14:37:35.905Z",
     "duration_minutes": 72,
     "duration_str": "1h 12m"
@@ -128,10 +128,10 @@
   },
   {
     "title": "culture:::Série: «Le Palace», identités doubles entre deux Allemagnes",
-    "added_at": "2025-10-05T13:34:35.879Z",
+    "added_at": "2025-10-05T13:32:53.450Z",
     "removed_at": "2025-10-05T15:11:18.464Z",
-    "duration_minutes": 97,
-    "duration_str": "1h 37m"
+    "duration_minutes": 98,
+    "duration_str": "1h 38m"
   },
   {
     "title": "monde:::Riccardo Bocco sur le oui du Hamas au plan Trump: «On leur a dit soit vous acceptez, soit rien»",
@@ -147,9 +147,10 @@
   },
   {
     "title": "culture:::Au cinéma avec Taylor Swift: quand la «showgirl» s’offre l’écran géant",
-    "added_at": "2025-10-05T14:03:48.657Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-10-05T14:03:21.701Z",
+    "removed_at": "2025-10-05T17:58:08.285Z",
+    "duration_minutes": 235,
+    "duration_str": "3h 55m"
   },
   {
     "title": "cyber:::Infomaniak mise sur le chiffrement des e-mails et suscite le débat: nos explications",
@@ -165,7 +166,7 @@
   },
   {
     "title": "monde:::Aux Etats-Unis, les nations amérindiennes redoutent l’effacement définitif",
-    "added_at": "2025-10-05T15:11:18.464Z",
+    "added_at": "2025-10-05T15:10:00.477Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -185,6 +186,38 @@
   {
     "title": "suisse:::La Foire du Valais a attiré 250 000 visiteurs, un record",
     "added_at": "2025-10-05T15:20:21.114Z",
+    "removed_at": "2025-10-05T16:21:24.684Z",
+    "duration_minutes": 61,
+    "duration_str": "1h 1m"
+  },
+  {
+    "title": "sciences:::Comment obtient-on un Prix Nobel? Plongée dans les mystères de la nomination des scientifiques",
+    "added_at": "2025-10-05T16:21:24.684Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::Malgré les coups de boutoir de Trump, la Fed reste crédible et indépendante",
+    "added_at": "2025-10-05T16:59:41.009Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "sport:::Dans la ferveur de la montée de La Sonnaz, «l’Alpe d’Huez» de Morat-Fribourg",
+    "added_at": "2025-10-05T17:37:51.682Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En France, Bruno Le Maire aux Armées et Roland Lescure à l’Economie, seules nouveautés des premières nominations du gouvernement Lecornu",
+    "added_at": "2025-10-05T17:58:08.285Z",
+    "removed_at": "2025-10-05T18:00:21.145Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::En France, Bruno Le Maire aux Armées et Roland Lescure à l’Economie, seules nouveautés du gouvernement Lecornu",
+    "added_at": "2025-10-05T18:00:21.145Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
