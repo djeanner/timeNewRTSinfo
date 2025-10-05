@@ -37946,7 +37946,10 @@
   },
   {
     "title": "monde:::Au cœur du shutdown américain, un bras de fer autour de l’Obamacare",
-    "added_at": "2025-10-03T07:04:58.301Z"
+    "added_at": "2025-10-03T07:04:58.301Z",
+    "removed_at": "2025-10-05T13:10:03.999Z",
+    "duration_minutes": 3245,
+    "duration_str": "2d 6h 5m"
   },
   {
     "title": "monde:::En France, le premier ministre Sébastien Lecornu renonce à l’outil du 49.3",
@@ -38217,7 +38220,10 @@
   },
   {
     "title": "culture:::Au cinéma avec Taylor Swift: quand la «Showgirl» s’offre l’écran géant",
-    "added_at": "2025-10-04T06:21:12.837Z"
+    "added_at": "2025-10-04T06:21:12.837Z",
+    "removed_at": "2025-10-05T14:03:21.701Z",
+    "duration_minutes": 1902,
+    "duration_str": "1d 7h 42m"
   },
   {
     "title": "culture:::Le Fantôme de l’Opéra: un mythe qui inspire les bédéistes comme les mangakas",
@@ -38274,7 +38280,10 @@
   },
   {
     "title": "sport:::La lutte permanente du HC Ajoie pour éviter la dernière place",
-    "added_at": "2025-10-04T10:55:42.236Z"
+    "added_at": "2025-10-04T10:55:42.236Z",
+    "removed_at": "2025-10-05T15:10:00.477Z",
+    "duration_minutes": 1694,
+    "duration_str": "1d 4h 14m"
   },
   {
     "title": "culture:::Cannupa Hanska Luger, artiste amérindien: «Le processus était très physique, comme les combats quotidiens des vaches d’Hérens autour de moi»",
@@ -38313,11 +38322,17 @@
   },
   {
     "title": "monde:::Riccardo Bocco sur le «oui» du Hamas au plan Trump: «On leur a dit soit vous acceptez, soit rien»",
-    "added_at": "2025-10-04T15:49:45.650Z"
+    "added_at": "2025-10-04T15:49:45.650Z",
+    "removed_at": "2025-10-05T13:48:11.305Z",
+    "duration_minutes": 1318,
+    "duration_str": "21h 58m"
   },
   {
     "title": "culture:::«Ce que peut un cœur», de Julien Burri: des mots pour envelopper un jeune écorché",
-    "added_at": "2025-10-04T16:31:45.966Z"
+    "added_at": "2025-10-04T16:31:45.966Z",
+    "removed_at": "2025-10-05T13:55:43.343Z",
+    "duration_minutes": 1283,
+    "duration_str": "21h 23m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Des pourparlers indirects entre Israël et le Hamas auront lieu demain et lundi au Caire",
@@ -38335,7 +38350,10 @@
   },
   {
     "title": "monde:::En Israël, un accueil tiède à la réponse du Hamas au plan Trump",
-    "added_at": "2025-10-04T17:27:02.365Z"
+    "added_at": "2025-10-04T17:27:02.365Z",
+    "removed_at": "2025-10-05T13:29:05.966Z",
+    "duration_minutes": 1202,
+    "duration_str": "20h 2m"
   },
   {
     "title": "monde:::Black-out en Afghanistan: «La reprise d’internet n’est qu’une goutte d’eau jetée à une société assoiffée»",
@@ -38424,11 +38442,17 @@
   },
   {
     "title": "culture:::Bâle invite à rencontrer des fantômes en toute convivialité",
-    "added_at": "2025-10-05T09:49:54.033Z"
+    "added_at": "2025-10-05T09:49:54.033Z",
+    "removed_at": "2025-10-05T13:32:53.450Z",
+    "duration_minutes": 222,
+    "duration_str": "3h 42m"
   },
   {
     "title": "monde:::Moyen-Orient – Environ 900 000 habitants ont évacué la ville de Gaza, selon Israël",
-    "added_at": "2025-10-05T09:55:35.610Z"
+    "added_at": "2025-10-05T09:55:35.610Z",
+    "removed_at": "2025-10-05T13:02:31.434Z",
+    "duration_minutes": 186,
+    "duration_str": "3h 6m"
   },
   {
     "title": "monde:::Guerre en Ukraine – Les frappes russe ont tué cinq personnes en Ukraine dans la nuit",
@@ -38436,7 +38460,10 @@
   },
   {
     "title": "economie:::En graphiques – Le splendide été  de l’hôtellerie suisse",
-    "added_at": "2025-10-05T10:24:09.429Z"
+    "added_at": "2025-10-05T10:24:09.429Z",
+    "removed_at": "2025-10-05T14:12:53.036Z",
+    "duration_minutes": 228,
+    "duration_str": "3h 48m"
   },
   {
     "title": "suisse:::Trois questions pour comprendre la tempête «Amy» qui touche la Suisse ce week-end",
@@ -38453,5 +38480,51 @@
   {
     "title": "economie:::A Geneva Watch Days, mon duel horloger contre mon propre fils",
     "added_at": "2025-10-05T12:31:50.016Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Le Hamas dit vouloir un accord et commencer «immédiatement» l’échange d'otages et de prisonniers",
+    "added_at": "2025-10-05T13:02:31.434Z",
+    "removed_at": "2025-10-05T13:25:20.034Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Les premiers Suisses de la flottille pour Gaza expulsés par Israël sont arrivés à Genève",
+    "added_at": "2025-10-05T13:25:20.034Z",
+    "removed_at": "2025-10-05T14:37:38.040Z",
+    "duration_minutes": 72,
+    "duration_str": "1h 12m"
+  },
+  {
+    "title": "monde:::En Israël, la réponse du Hamas au plan Trump reçoit un accueil tiède",
+    "added_at": "2025-10-05T13:29:05.966Z"
+  },
+  {
+    "title": "culture:::Série: «Le Palace», identités doubles entre deux Allemagnes",
+    "added_at": "2025-10-05T13:32:53.450Z"
+  },
+  {
+    "title": "monde:::Riccardo Bocco sur le oui du Hamas au plan Trump: «On leur a dit soit vous acceptez, soit rien»",
+    "added_at": "2025-10-05T13:48:11.305Z"
+  },
+  {
+    "title": "culture:::Pour tout savoir sur «Le Fantôme de l’Opéra»",
+    "added_at": "2025-10-05T13:57:38.221Z"
+  },
+  {
+    "title": "culture:::Au cinéma avec Taylor Swift: quand la «showgirl» s’offre l’écran géant",
+    "added_at": "2025-10-05T14:03:21.701Z"
+  },
+  {
+    "title": "cyber:::Infomaniak mise sur le chiffrement des e-mails et suscite le débat: nos explications",
+    "added_at": "2025-10-05T14:12:53.036Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Le Hamas risque «une destruction totale» s’il refuse de céder le pouvoir à Gaza, déclare Donald Trump",
+    "added_at": "2025-10-05T14:37:38.040Z"
+  },
+  {
+    "title": "monde:::Aux Etats-Unis, les nations amérindiennes redoutent l’effacement définitif",
+    "added_at": "2025-10-05T15:10:00.477Z"
   }
 ]
