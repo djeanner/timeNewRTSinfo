@@ -37729,7 +37729,10 @@
   },
   {
     "title": "monde:::Clap de fin pour la flottille Soumoud, mais un navire a réussi à entrer dans les eaux de Gaza",
-    "added_at": "2025-10-02T16:03:53.861Z"
+    "added_at": "2025-10-02T16:03:53.861Z",
+    "removed_at": "2025-10-05T08:31:52.960Z",
+    "duration_minutes": 3867,
+    "duration_str": "2d 16h 27m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les navires pour Gaza interceptés par Israël sont arrivés dans le port d'Ashdod",
@@ -38151,7 +38154,10 @@
   },
   {
     "title": "suisse:::Manifestation pour la flottille à Genève: entre sécurité publique et droit de manifester, un exercice de haute voltige",
-    "added_at": "2025-10-03T18:32:04.459Z"
+    "added_at": "2025-10-03T18:32:04.459Z",
+    "removed_at": "2025-10-05T10:07:00.627Z",
+    "duration_minutes": 2374,
+    "duration_str": "1d 15h 34m"
   },
   {
     "title": "culture:::Caroline Guiela Nguyen, metteuse en scène à Genève du bouleversant «Lacrima»: «J’écris en pleurant, mais ça peut être drôle»",
@@ -38330,7 +38336,10 @@
   },
   {
     "title": "monde:::Black-out en Afghanistan: «La reprise d’internet n’est qu’une goutte d’eau jetée à une société assoiffée»",
-    "added_at": "2025-10-04T17:28:57.217Z"
+    "added_at": "2025-10-04T17:28:57.217Z",
+    "removed_at": "2025-10-05T09:51:48.763Z",
+    "duration_minutes": 982,
+    "duration_str": "16h 22m"
   },
   {
     "title": "culture:::Adèle Yon: «Dès la sortie du livre, les gens ont commencé à me raconter leurs propres secrets de famille»",
@@ -38338,7 +38347,10 @@
   },
   {
     "title": "monde:::En République tchèque, le retour réussi du milliardaire trumpiste Andrej Babis aux législatives",
-    "added_at": "2025-10-04T19:25:10.291Z"
+    "added_at": "2025-10-04T19:25:10.291Z",
+    "removed_at": "2025-10-05T08:28:07.765Z",
+    "duration_minutes": 782,
+    "duration_str": "13h 2m"
   },
   {
     "title": "culture:::Dans «Mon vrai nom est Elisabeth», Adèle Yon brise un secret familial dévastateur: l’internement forcé de son arrière-grand-mère",
@@ -38360,11 +38372,17 @@
   },
   {
     "title": "monde:::Donald Trump annonce l’envoi de 300 membres de la Garde nationale à Chicago",
-    "added_at": "2025-10-05T05:57:41.925Z"
+    "added_at": "2025-10-05T05:57:41.925Z",
+    "removed_at": "2025-10-05T10:08:56.418Z",
+    "duration_minutes": 251,
+    "duration_str": "4h 11m"
   },
   {
     "title": "monde:::Guerre en Ukraine – Un bombardement russe à Zaporijjia fait un mort",
-    "added_at": "2025-10-05T06:33:51.312Z"
+    "added_at": "2025-10-05T06:33:51.312Z",
+    "removed_at": "2025-10-05T10:03:12.395Z",
+    "duration_minutes": 209,
+    "duration_str": "3h 29m"
   },
   {
     "title": "monde:::«Nous voulons que les bureaucrates soient traumatisés»: Russel Vought, l’architecte du démantèlement étatique américain",
@@ -38372,6 +38390,43 @@
   },
   {
     "title": "cyber:::Le bitcoin atteint encore un niveau record, à plus de 125 000 dollars",
-    "added_at": "2025-10-05T07:40:22.156Z"
+    "added_at": "2025-10-05T07:40:22.156Z",
+    "removed_at": "2025-10-05T09:04:12.827Z",
+    "duration_minutes": 83,
+    "duration_str": "1h 23m"
+  },
+  {
+    "title": "economie:::En graphiques – Le splendide été record de l’hôtellerie suisse",
+    "added_at": "2025-10-05T08:28:07.765Z",
+    "removed_at": "2025-10-05T10:24:09.429Z",
+    "duration_minutes": 116,
+    "duration_str": "1h 56m"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Des négociateurs israéliens et du Hamas sont attendus au Caire pour des discussions indirectes",
+    "added_at": "2025-10-05T08:31:52.960Z",
+    "removed_at": "2025-10-05T09:55:35.610Z",
+    "duration_minutes": 83,
+    "duration_str": "1h 23m"
+  },
+  {
+    "title": "economie:::Quand les taux dictent le tempo dans la gestion de fortune",
+    "added_at": "2025-10-05T09:04:12.827Z"
+  },
+  {
+    "title": "culture:::Bâle invite à rencontrer des fantômes en toute convivialité",
+    "added_at": "2025-10-05T09:49:54.033Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Environ 900 000 habitants ont évacué la ville de Gaza, selon Israël",
+    "added_at": "2025-10-05T09:55:35.610Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Les frappes russe ont tué cinq personnes en Ukraine dans la nuit",
+    "added_at": "2025-10-05T10:03:12.395Z"
+  },
+  {
+    "title": "economie:::En graphiques – Le splendide été  de l’hôtellerie suisse",
+    "added_at": "2025-10-05T10:24:09.429Z"
   }
 ]
