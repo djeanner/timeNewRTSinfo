@@ -48309,7 +48309,10 @@
   },
   {
     "title": "Munich airport resumes operations after more drone sightings halted flights",
-    "added_at": "2025-10-04T12:12:00.844Z"
+    "added_at": "2025-10-04T12:12:00.844Z",
+    "removed_at": "2025-10-05T03:59:39.729Z",
+    "duration_minutes": 947,
+    "duration_str": "15h 47m"
   },
   {
     "title": "LIVE: Chelsea vs Liverpool – English Premier League",
@@ -48424,10 +48427,7 @@
   },
   {
     "title": "Israel pounds Gaza, killing 70, despite Trump’s call for it to halt bombing",
-    "added_at": "2025-10-04T22:24:19.454Z",
-    "removed_at": "2025-10-04T22:58:40.392Z",
-    "duration_minutes": 34,
-    "duration_str": "34m"
+    "added_at": "2025-10-04T22:24:19.454Z"
   },
   {
     "title": "Is an end to war in sight in Gaza?",
@@ -48487,5 +48487,13 @@
   {
     "title": "Lionel Messi assists Inter Miami back into win column against Revolution",
     "added_at": "2025-10-05T03:15:38.961Z"
+  },
+  {
+    "title": "Poland deploys air defences as Russia launches new strikes on Ukraine",
+    "added_at": "2025-10-05T03:59:39.729Z"
+  },
+  {
+    "title": "Negotiators head to Cairo for talks on ending war on Gaza",
+    "added_at": "2025-10-05T05:25:18.021Z"
   }
 ]

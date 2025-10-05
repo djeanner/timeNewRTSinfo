@@ -49614,15 +49614,24 @@
   },
   {
     "title": "Le trafic aérien reprend à l'aéroport de Munich après le survol de drones",
-    "added_at": "2025-10-03T05:27:48.082Z"
+    "added_at": "2025-10-03T05:27:48.082Z",
+    "removed_at": "2025-10-05T05:02:26.804Z",
+    "duration_minutes": 2854,
+    "duration_str": "1d 23h 34m"
   },
   {
     "title": "La France veut accroître la pression sur la flotte fantôme russe",
-    "added_at": "2025-10-03T06:04:01.040Z"
+    "added_at": "2025-10-03T06:04:01.040Z",
+    "removed_at": "2025-10-05T05:36:40.852Z",
+    "duration_minutes": 2852,
+    "duration_str": "1d 23h 32m"
   },
   {
     "title": "Le journal de 8h - Présenté par Agathe Birden",
-    "added_at": "2025-10-03T06:23:01.057Z"
+    "added_at": "2025-10-03T06:23:01.057Z",
+    "removed_at": "2025-10-05T05:02:26.804Z",
+    "duration_minutes": 2799,
+    "duration_str": "1d 22h 39m"
   },
   {
     "title": "Manifestations en Suisse: rassemblement à Genève pour Gaza et interdictions à Sion",
@@ -50034,5 +50043,13 @@
   {
     "title": "La Maison Blanche annonce l'envoi de 300 gardes nationaux dans la ville de Chicago",
     "added_at": "2025-10-05T02:52:44.033Z"
+  },
+  {
+    "title": "Manifestations à Genève pour la flottille pour Gaza: interview de la soeur d'un militant suisse à bord",
+    "added_at": "2025-10-05T05:02:26.804Z"
+  },
+  {
+    "title": "Histoire, conséquences, chiffres: mieux comprendre le shutdown américain",
+    "added_at": "2025-10-05T05:36:40.852Z"
   }
 ]
