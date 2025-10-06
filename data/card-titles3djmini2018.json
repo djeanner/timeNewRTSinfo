@@ -85622,7 +85622,10 @@
   },
   {
     "title": "Pritzker Says Federal Agents Are Trying to Make Chicago a ‘War Zone’",
-    "added_at": "2025-10-05T18:13:21.365Z"
+    "added_at": "2025-10-05T18:13:21.365Z",
+    "removed_at": "2025-10-06T14:34:35.338Z",
+    "duration_minutes": 1221,
+    "duration_str": "20h 21m"
   },
   {
     "title": "Trump Sends California Guard Troops to Oregon, Newsom Says",
@@ -85775,7 +85778,10 @@
   },
   {
     "title": "Cyberattacks Upset British Life, Disrupting Car Production and Grocery Access",
-    "added_at": "2025-10-06T04:03:33.815Z"
+    "added_at": "2025-10-06T04:03:33.815Z",
+    "removed_at": "2025-10-06T13:22:09.428Z",
+    "duration_minutes": 558,
+    "duration_str": "9h 18m"
   },
   {
     "title": "Macron Appoints French Cabinet, but Doubts Over Government’s Stability Persist",
@@ -85812,7 +85818,10 @@
   },
   {
     "title": "Gaza Peace Talks Are Set to Take Place in Egypt",
-    "added_at": "2025-10-06T09:10:11.983Z"
+    "added_at": "2025-10-06T09:10:11.983Z",
+    "removed_at": "2025-10-06T12:55:31.884Z",
+    "duration_minutes": 225,
+    "duration_str": "3h 45m"
   },
   {
     "title": "Nobel Prize in Physiology or Medicine Is Awarded for Work in Peripheral Immune Tolerance",
@@ -85850,10 +85859,7 @@
   },
   {
     "title": "Nearly 20 Percent Fewer International Students Traveled to the U.S. in August",
-    "added_at": "2025-10-06T10:11:09.988Z",
-    "removed_at": "2025-10-06T10:34:10.947Z",
-    "duration_minutes": 23,
-    "duration_str": "23m"
+    "added_at": "2025-10-06T10:11:09.988Z"
   },
   {
     "title": "Supreme Court Returns to Face Trump Tests of Presidential Power",
@@ -85869,7 +85875,10 @@
   },
   {
     "title": "Japan’s New Leader Gets a Volatile Greeting From Markets",
-    "added_at": "2025-10-06T10:15:07.510Z"
+    "added_at": "2025-10-06T10:15:07.510Z",
+    "removed_at": "2025-10-06T13:03:10.130Z",
+    "duration_minutes": 168,
+    "duration_str": "2h 48m"
   },
   {
     "title": "Supreme Court Starts Term, Illinois Governor Warns of ‘Trump’s Invasion,’ and More",
@@ -85892,11 +85901,17 @@
   },
   {
     "title": "Internal Audits Shed Light on Ukraine’s Secret Weapons Spending",
-    "added_at": "2025-10-06T11:00:43.834Z"
+    "added_at": "2025-10-06T11:00:43.834Z",
+    "removed_at": "2025-10-06T14:34:35.338Z",
+    "duration_minutes": 213,
+    "duration_str": "3h 33m"
   },
   {
     "title": "Looking Ahead to the Supreme Court Term",
-    "added_at": "2025-10-06T11:04:31.224Z"
+    "added_at": "2025-10-06T11:04:31.224Z",
+    "removed_at": "2025-10-06T13:10:44.612Z",
+    "duration_minutes": 126,
+    "duration_str": "2h 6m"
   },
   {
     "title": "Fears of Economic Turmoil Deepen in France as Another Prime Minister Quits",
@@ -85904,14 +85919,77 @@
   },
   {
     "title": "OpenAI Agrees to Use Computer Chips from AMD",
-    "added_at": "2025-10-06T11:36:52.113Z"
+    "added_at": "2025-10-06T11:36:52.113Z",
+    "removed_at": "2025-10-06T12:51:45.853Z",
+    "duration_minutes": 74,
+    "duration_str": "1h 14m"
   },
   {
     "title": "Gisèle Pelicot to Return to Court as One Man’s Appeal Begins in Rape Case",
-    "added_at": "2025-10-06T12:13:29.388Z"
+    "added_at": "2025-10-06T12:13:29.388Z",
+    "removed_at": "2025-10-06T13:33:37.005Z",
+    "duration_minutes": 80,
+    "duration_str": "1h 20m"
   },
   {
     "title": "Trump Renews Layoff Threats as Parties Trade Accusations Over Government Shutdown",
     "added_at": "2025-10-06T12:36:18.552Z"
+  },
+  {
+    "title": "Paramount Buys The Free Press, Ushering in New Era at CBS News",
+    "added_at": "2025-10-06T12:46:03.760Z"
+  },
+  {
+    "title": "OpenAI Agrees to Use Computer Chips From AMD",
+    "added_at": "2025-10-06T12:51:45.853Z",
+    "removed_at": "2025-10-06T14:34:35.338Z",
+    "duration_minutes": 102,
+    "duration_str": "1h 42m"
+  },
+  {
+    "title": "With Trump’s Gaza Plan on the Line, Leaders Gather in Egypt for Talks",
+    "added_at": "2025-10-06T12:55:31.884Z",
+    "removed_at": "2025-10-06T14:25:00.316Z",
+    "duration_minutes": 89,
+    "duration_str": "1h 29m"
+  },
+  {
+    "title": "Anxiety and Uncertainty Pushes Gold Near $4,000 an Ounce",
+    "added_at": "2025-10-06T13:22:09.428Z",
+    "removed_at": "2025-10-06T14:25:00.316Z",
+    "duration_minutes": 62,
+    "duration_str": "1h 2m"
+  },
+  {
+    "title": "Gisèle Pelicot Returns to Court as One Man’s Appeal Begins in Rape Case",
+    "added_at": "2025-10-06T13:33:37.005Z"
+  },
+  {
+    "title": "What to Know About the 2025 Nobel Prizes",
+    "added_at": "2025-10-06T13:35:31.622Z"
+  },
+  {
+    "title": "Supreme Court Rejects Appeal From Ghislaine Maxwell",
+    "added_at": "2025-10-06T13:46:55.927Z"
+  },
+  {
+    "title": "With Trump’s Gaza Plan on the Line, Negotiators Gather in Egypt for Talks",
+    "added_at": "2025-10-06T14:25:00.316Z"
+  },
+  {
+    "title": "Anxiety and Uncertainty Push Gold Near $4,000 an Ounce",
+    "added_at": "2025-10-06T14:25:00.316Z"
+  },
+  {
+    "title": "How Bari Weiss Won",
+    "added_at": "2025-10-06T14:26:55.059Z"
+  },
+  {
+    "title": "Groups Sue E.P.A. Over Canceled $7 Billion for Solar Energy",
+    "added_at": "2025-10-06T14:34:35.338Z"
+  },
+  {
+    "title": "Ukraine’s Secret Weapons Spending Faces Questions After Internal Review",
+    "added_at": "2025-10-06T14:34:35.338Z"
   }
 ]
