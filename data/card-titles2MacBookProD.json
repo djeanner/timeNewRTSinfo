@@ -39645,7 +39645,10 @@
   },
   {
     "title": "monde:::Aux Etats-Unis, les nations amérindiennes redoutent l’effacement définitif",
-    "added_at": "2025-10-05T15:11:18.464Z"
+    "added_at": "2025-10-05T15:11:18.464Z",
+    "removed_at": "2025-10-06T16:21:34.136Z",
+    "duration_minutes": 1510,
+    "duration_str": "1d 1h 10m"
   },
   {
     "title": "suisse:::Les maçons vaudois, genevois et fribourgeois annoncent deux jours de grève en novembre",
@@ -39786,7 +39789,10 @@
   },
   {
     "title": "suisse:::Le Valais s’insurge contre l’abandon de l’étude sur les PFAS et les pesticides, une décision «insensée»",
-    "added_at": "2025-10-06T04:55:37.374Z"
+    "added_at": "2025-10-06T04:55:37.374Z",
+    "removed_at": "2025-10-06T15:47:55.803Z",
+    "duration_minutes": 652,
+    "duration_str": "10h 52m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – «Ils ont lâché les chiens dans les cellules»: un Suisse de la flottille pour Gaza fait état de «torture» après sa détention en Israël",
@@ -39797,7 +39803,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − «La grande majorité des cibles russes sont civiles», fustige Volodymyr Zelensky",
-    "added_at": "2025-10-06T05:47:02.585Z"
+    "added_at": "2025-10-06T05:47:02.585Z",
+    "removed_at": "2025-10-06T14:20:29.564Z",
+    "duration_minutes": 513,
+    "duration_str": "8h 33m"
   },
   {
     "title": "monde:::Des paramilitaires sur des terrains de golf: comment la Russie pourrait aider Pékin à envahir Taïwan",
@@ -39830,11 +39839,17 @@
   },
   {
     "title": "monde:::En direct, crise politique en France – Pour Sébastien Lecornu, «les appétits partisans» ont conduit à sa démission",
-    "added_at": "2025-10-06T09:02:06.841Z"
+    "added_at": "2025-10-06T09:02:06.841Z",
+    "removed_at": "2025-10-06T15:14:15.353Z",
+    "duration_minutes": 372,
+    "duration_str": "6h 12m"
   },
   {
     "title": "economie:::Démission de Sébastien Lecornu, l’instabilité politique en France renchérit le coût de la dette",
-    "added_at": "2025-10-06T09:11:06.441Z"
+    "added_at": "2025-10-06T09:11:06.441Z",
+    "removed_at": "2025-10-06T15:47:55.803Z",
+    "duration_minutes": 396,
+    "duration_str": "6h 36m"
   },
   {
     "title": "sciences:::Le Prix Nobel de médecine 2025 récompense des découvertes sur la régulation du système immunitaire",
@@ -39842,7 +39857,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump demande à «tout le monde d'agir rapidement», en amont des pourparlers indirects qui s’ouvrent ce lundi en Egypte",
-    "added_at": "2025-10-06T10:00:15.631Z"
+    "added_at": "2025-10-06T10:00:15.631Z",
+    "removed_at": "2025-10-06T14:16:00.287Z",
+    "duration_minutes": 255,
+    "duration_str": "4h 15m"
   },
   {
     "title": "monde:::Au Caire où débutent les négociations, les familles palestiniennes de «Little Gaza» ne pensent qu’à rentrer",
@@ -39853,7 +39871,10 @@
   },
   {
     "title": "monde:::Au Caire où débutent les négociations, les familles palestiniennes de «Little Gaza» ne pensent qu’à rentrer",
-    "added_at": "2025-10-06T12:05:54.880Z"
+    "added_at": "2025-10-06T12:05:54.880Z",
+    "removed_at": "2025-10-06T15:56:50.171Z",
+    "duration_minutes": 230,
+    "duration_str": "3h 50m"
   },
   {
     "title": "economie:::Malgré le contexte morose, le taux de chômage en Suisse reste stable",
@@ -39870,5 +39891,40 @@
   {
     "title": "monde:::Démission de Sébastien Lecornu: la journée qui a plongé la France encore plus profondément dans la crise",
     "added_at": "2025-10-06T13:42:09.874Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – 171 militants de la Flottille pour Gaza vont être expulsés, dont deux Suisses",
+    "added_at": "2025-10-06T14:16:00.287Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − «La grande majorité des cibles des Russes sont civiles», fustige Volodymyr Zelensky",
+    "added_at": "2025-10-06T14:20:29.564Z"
+  },
+  {
+    "title": "monde:::En direct, crise politique en France – La gauche appelle Emmanuel Macron à prendre l’un des siens comme premier ministre",
+    "added_at": "2025-10-06T15:14:15.353Z",
+    "removed_at": "2025-10-06T16:03:33.384Z",
+    "duration_minutes": 49,
+    "duration_str": "49m"
+  },
+  {
+    "title": "economie:::Démission de Sébastien Lecornu, quel effet pour la dette française?",
+    "added_at": "2025-10-06T15:47:55.803Z"
+  },
+  {
+    "title": "monde:::En Egypte où débutent les négociations, les familles palestiniennes de «Little Gaza» ne pensent qu’à rentrer",
+    "added_at": "2025-10-06T15:56:50.171Z"
+  },
+  {
+    "title": "monde:::En direct, crise politique en France – Une «ultime négociation» pour le premier ministre démissionnaire Sébastien Lecornu",
+    "added_at": "2025-10-06T16:03:33.384Z"
+  },
+  {
+    "title": "suisse:::Dans l’affaire de la plume, le notable dit de l’asphyxie érotique: «Ce n’est pas le risque qui me stimulait, c’était le plaisir»",
+    "added_at": "2025-10-06T16:14:49.547Z"
+  },
+  {
+    "title": "suisse:::En vidéo – Elections jurassiennes: l’équilibre financier et la collégialité gouvernementale au cœur des débats",
+    "added_at": "2025-10-06T16:21:34.136Z"
   }
 ]
