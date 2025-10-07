@@ -50194,7 +50194,10 @@
   },
   {
     "title": "Une station italienne impose des quotas de skieurs pour lutter contre le surtourisme",
-    "added_at": "2025-10-04T18:22:24.068Z"
+    "added_at": "2025-10-04T18:22:24.068Z",
+    "removed_at": "2025-10-07T02:48:07.834Z",
+    "duration_minutes": 3385,
+    "duration_str": "2d 8h 25m"
   },
   {
     "title": "\"Infidèles\", une série qu'aurait adorée le cinéaste suédois Ingmar Bergman",
@@ -50748,14 +50751,14 @@
   },
   {
     "title": "Le Premier ministre français Sébastien Lecornu a donné sa démission à Emmanuel Macron",
-    "added_at": "2025-10-06T19:11:00.919Z"
+    "added_at": "2025-10-06T19:11:00.919Z",
+    "removed_at": "2025-10-07T01:16:53.791Z",
+    "duration_minutes": 365,
+    "duration_str": "6h 5m"
   },
   {
     "title": "Pourquoi l'Occident tourne le dos à ce qui a fait son succès ?",
-    "added_at": "2025-10-06T19:22:25.524Z",
-    "removed_at": "2025-10-06T19:24:20.816Z",
-    "duration_minutes": 1,
-    "duration_str": "1m"
+    "added_at": "2025-10-06T19:22:25.524Z"
   },
   {
     "title": "L'intelligence artificielle relance la course mondiale aux navigateurs internet",
@@ -50776,5 +50779,9 @@
   {
     "title": "L'ex-ministre égyptien Khaled el-Enany désigné à la tête de l'Unesco",
     "added_at": "2025-10-06T20:54:00.545Z"
+  },
+  {
+    "title": "Le Venezuela assure que des \"extrémistes\" voulaient faire exploser l'ambassade américaine à Caracas",
+    "added_at": "2025-10-07T02:48:07.834Z"
   }
 ]
