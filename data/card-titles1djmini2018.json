@@ -26417,10 +26417,7 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T21:30:25.517Z",
-    "removed_at": "2025-10-05T20:03:59.678Z",
-    "duration_minutes": 103593,
-    "duration_str": "71d 22h 33m"
+    "added_at": "2025-07-25T21:30:25.517Z"
   },
   {
     "title": "La légende du catch Hulk Hogan est décédée à l'âge de 71 ans",
@@ -50536,7 +50533,10 @@
   },
   {
     "title": "Estelle Braconnier fait le point sur la situation en Israël",
-    "added_at": "2025-10-05T22:28:43.172Z"
+    "added_at": "2025-10-05T22:28:43.172Z",
+    "removed_at": "2025-10-07T20:03:13.601Z",
+    "duration_minutes": 2734,
+    "duration_str": "1d 21h 34m"
   },
   {
     "title": "\"Chat Control\" : l'Europe va-t-elle scanner nos messages ? Vrai ou faux",
@@ -50703,9 +50703,9 @@
   {
     "title": "Le documentaire suisse \"I Love You, I Leave You\" sacré  au Zurich Film Festival",
     "added_at": "2025-10-06T09:36:52.907Z",
-    "removed_at": "2025-10-07T19:22:59.380Z",
-    "duration_minutes": 2026,
-    "duration_str": "1d 9h 46m"
+    "removed_at": "2025-10-07T20:10:50.809Z",
+    "duration_minutes": 2073,
+    "duration_str": "1d 10h 33m"
   },
   {
     "title": "Le Prix Nobel de Médecine décerné à des découvertes concernant la tolérance immunitaire périphérique",
@@ -50724,9 +50724,9 @@
   {
     "title": "Les locataires sont excédés par les hausses de loyer, qui ont bondi de 32% en 20 ans",
     "added_at": "2025-10-06T09:53:58.405Z",
-    "removed_at": "2025-10-07T19:26:51.778Z",
-    "duration_minutes": 2012,
-    "duration_str": "1d 9h 32m"
+    "removed_at": "2025-10-07T20:24:13.477Z",
+    "duration_minutes": 2070,
+    "duration_str": "1d 10h 30m"
   },
   {
     "title": "Le Nobel de Médecine décerné à un trio pour des découvertes sur la tolérance immunitaire périphérique",
@@ -51011,7 +51011,10 @@
   },
   {
     "title": "Quatre disparus et une dizaine de blessés après l'effondrement d'un immeuble en travaux à Madrid",
-    "added_at": "2025-10-07T13:24:38.076Z"
+    "added_at": "2025-10-07T13:24:38.076Z",
+    "removed_at": "2025-10-07T21:04:10.210Z",
+    "duration_minutes": 459,
+    "duration_str": "7h 39m"
   },
   {
     "title": "Les commentaires sans pitié sur une France en crise politique",
@@ -51088,10 +51091,44 @@
   },
   {
     "title": "\"A la fin les peuples se libèrent d'une manière ou d'une autre\", affirme Varsen Aghabekian Shahin",
-    "added_at": "2025-10-07T19:22:59.380Z"
+    "added_at": "2025-10-07T19:22:59.380Z",
+    "removed_at": "2025-10-07T20:39:24.147Z",
+    "duration_minutes": 76,
+    "duration_str": "1h 16m"
   },
   {
     "title": "Fin de la valeur locative: ce qui change pour les propriétaires",
     "added_at": "2025-10-07T19:26:51.778Z"
+  },
+  {
+    "title": "Le souvenir du 7-Octobre est encore vif dans les mémoires des Juifs: interviews de Daniel Halpérin et Peggy Cidor",
+    "added_at": "2025-10-07T19:36:32.588Z"
+  },
+  {
+    "title": "Que représente le 7-Octobre pour les Palestiniens?: interview de Ataa Dabour",
+    "added_at": "2025-10-07T19:36:32.588Z"
+  },
+  {
+    "title": "Le nombre d'accidents de randonnée en Suisse a doublé en 15 ans",
+    "added_at": "2025-10-07T20:10:50.809Z"
+  },
+  {
+    "title": "Défilé, sit-in et fumigènes: une manifestation propalestinienne s'est tenue à Genève",
+    "added_at": "2025-10-07T20:24:13.477Z"
+  },
+  {
+    "title": "\"A la fin, les peuples se libèrent d'une manière ou d'une autre\", affirme Varsen Aghabekian Shahin",
+    "added_at": "2025-10-07T20:39:24.147Z",
+    "removed_at": "2025-10-07T20:41:20.088Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "\"A la fin, les peuples se libèrent d'une manière ou d'une autre\", affirme la cheffe de la diplomatie palestinienne",
+    "added_at": "2025-10-07T20:41:20.088Z"
+  },
+  {
+    "title": "Deux corps retrouvés après l'effondrement d'un immeuble en travaux à Madrid",
+    "added_at": "2025-10-07T21:04:10.210Z"
   }
 ]
