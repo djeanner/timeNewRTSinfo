@@ -125,9 +125,9 @@
   {
     "title": "Donald Trump menace d’instaurer l’état d’urgence aux Etats-Unis pour pouvoir envoyer l’armée dans certaines villes",
     "added_at": "2025-10-07T05:58:45.000Z",
-    "removed_at": "2025-10-07T17:01:55.713Z",
-    "duration_minutes": 663,
-    "duration_str": "11h 3m"
+    "removed_at": "2025-10-07T19:32:37.132Z",
+    "duration_minutes": 814,
+    "duration_str": "13h 34m"
   },
   {
     "title": "« Retour au bureau, pression, zéro flexibilité… Depuis six mois, l’atmosphère a radicalement changé »",
@@ -271,9 +271,9 @@
   {
     "title": "De Valentino à Azzedine Alaïa, les ressorts de l’inspiration à la Paris Fashion Week",
     "added_at": "2025-10-07T08:17:45.663Z",
-    "removed_at": "2025-10-07T17:22:31.933Z",
-    "duration_minutes": 545,
-    "duration_str": "9h 5m"
+    "removed_at": "2025-10-07T17:21:10.947Z",
+    "duration_minutes": 543,
+    "duration_str": "9h 3m"
   },
   {
     "title": "Deux ans après l’attaque terroriste du 7-Octobre, les kibboutz de Beeri, Kfar Aza et Nir Oz reviennent « à la vie »",
@@ -320,8 +320,9 @@
   {
     "title": "Un amant et du brouillard : le jour où la défense de Cédric Jubillar a semé le trouble à son procès",
     "added_at": "2025-10-07T09:03:32.249Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-07T19:32:37.132Z",
+    "duration_minutes": 629,
+    "duration_str": "10h 29m"
   },
   {
     "title": "SEB dévisse en Bourse : « Le petit électroménager reste en croissance, à condition d’innover en permanence »",
@@ -480,9 +481,8 @@
   {
     "title": "Avec les intrusions de drones, le conflit entre la Russie et les pays européens change de nature",
     "added_at": "2025-10-07T11:19:34.811Z",
-    "removed_at": "2025-10-07T19:46:48.932Z",
-    "duration_minutes": 507,
-    "duration_str": "8h 27m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Qui est désormais à la tête du pays ? Emmanuel Macron peut-il être destitué ? 7 questions sur la crise politique en France",
@@ -600,9 +600,9 @@
   {
     "title": "Emmanuel Macron a reçu les présidents des deux Chambres, Yaël Braun-Pivet et Gérard Larcher",
     "added_at": "2025-10-07T16:23:53.031Z",
-    "removed_at": "2025-10-07T19:06:51.031Z",
-    "duration_minutes": 163,
-    "duration_str": "2h 43m"
+    "removed_at": "2025-10-07T19:05:50.573Z",
+    "duration_minutes": 162,
+    "duration_str": "2h 42m"
   },
   {
     "title": "« Quatre jours sans ma mère », de Ramsès Kefi : la cité fabuleuse",
@@ -625,13 +625,13 @@
   {
     "title": "Voyage extraordinaire chez les animaux médecins",
     "added_at": "2025-10-07T17:11:11.288Z",
-    "removed_at": "2025-10-07T19:00:10.605Z",
+    "removed_at": "2025-10-07T19:00:08.523Z",
     "duration_minutes": 109,
     "duration_str": "1h 49m"
   },
   {
     "title": "Matthieu Blazy, le nouveau visage de Chanel : « Ce n’est pas parce que Karl était un monument que la personne qui dessine les collections doit forcément en être un »",
-    "added_at": "2025-10-07T17:22:31.933Z",
+    "added_at": "2025-10-07T17:21:10.947Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -643,19 +643,34 @@
   },
   {
     "title": "Les séries de la semaine : « The Last Frontier », « Les Disparues de la gare », « Monster. L’histoire d’Ed Gein »…",
-    "added_at": "2025-10-07T19:02:24.468Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-10-07T19:02:03.418Z",
+    "removed_at": "2025-10-07T22:06:47.798Z",
+    "duration_minutes": 185,
+    "duration_str": "3h 5m"
   },
   {
     "title": "Elisabeth Borne favorable à une « suspension » de la réforme des retraites",
-    "added_at": "2025-10-07T19:06:51.031Z",
+    "added_at": "2025-10-07T19:05:50.573Z",
+    "removed_at": "2025-10-07T20:22:29.978Z",
+    "duration_minutes": 77,
+    "duration_str": "1h 17m"
+  },
+  {
+    "title": "Bruno Retailleau refuse d’endosser la responsabilité de la démission de Sébastien Lecornu",
+    "added_at": "2025-10-07T19:32:37.132Z",
+    "removed_at": "2025-10-07T20:33:35.899Z",
+    "duration_minutes": 61,
+    "duration_str": "1h 1m"
+  },
+  {
+    "title": "La suspension de la réforme des retraites « devient possible », affirme Raphaël Glucksmann après avoir rencontré Sébastien Lecornu",
+    "added_at": "2025-10-07T20:22:29.978Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
-    "title": "Bruno Retailleau refuse d’endosser la responsabilité de la démission de Sébastien Lecornu",
-    "added_at": "2025-10-07T19:33:28.850Z",
+    "title": "Google et Apple accusent la régulation européenne du numérique d’empêcher le lancement de services d’IA en France",
+    "added_at": "2025-10-07T22:06:47.798Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
