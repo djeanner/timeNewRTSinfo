@@ -9,7 +9,7 @@
   {
     "title": "Au procès Jubillar, le naufrage d’un gendarme",
     "added_at": "2025-10-08T03:05:50.685Z",
-    "removed_at": "2025-10-08T07:32:48.936Z",
+    "removed_at": "2025-10-08T07:32:33.624Z",
     "duration_minutes": 267,
     "duration_str": "4h 27m"
   },
@@ -29,9 +29,8 @@
   {
     "title": "Olivier Burtin, historien : « Donald Trump se présente en chef de guerre d’un conflit domestique et envisage de mobiliser l’armée sur le territoire national »",
     "added_at": "2025-10-08T03:41:59.373Z",
-    "removed_at": "2025-10-08T07:12:51.951Z",
-    "duration_minutes": 211,
-    "duration_str": "3h 31m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Edouard Philippe brise un tabou au sein du bloc central, en appelant à une élection présidentielle anticipée",
@@ -50,8 +49,9 @@
   {
     "title": "Crise politique : la démission de Sébastien Lecornu, un « coup de grâce » pour Emmanuel Macron, juge la presse internationale",
     "added_at": "2025-10-08T04:01:59.551Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-08T13:01:41.983Z",
+    "duration_minutes": 540,
+    "duration_str": "9h"
   },
   {
     "title": "Prix Nobel de physique : l’un des lauréats, John Clarke, prévient que Donald Trump « paralyse » la science aux Etats-Unis",
@@ -137,7 +137,7 @@
   {
     "title": "« Nouvelle Vague » : la flamme ravivée d’un film emblème",
     "added_at": "2025-10-08T06:37:07.717Z",
-    "removed_at": "2025-10-08T09:06:10.575Z",
+    "removed_at": "2025-10-08T09:05:39.195Z",
     "duration_minutes": 149,
     "duration_str": "2h 29m"
   },
@@ -158,9 +158,9 @@
   {
     "title": "Au procès Jubillar, le naufrage d’un gendarme qui reconnait avoir « fait une erreur dans les copiés-collés »",
     "added_at": "2025-10-08T06:59:58.654Z",
-    "removed_at": "2025-10-08T08:03:51.439Z",
-    "duration_minutes": 64,
-    "duration_str": "1h 4m"
+    "removed_at": "2025-10-08T08:02:54.688Z",
+    "duration_minutes": 63,
+    "duration_str": "1h 3m"
   },
   {
     "title": "En direct : Sébastien Lecornu doit s’exprimer à 9 h 30, avant de rencontrer les socialistes",
@@ -192,86 +192,88 @@
   },
   {
     "title": "Fin de l’alerte enlèvement à Alençon, dans l’Orne, l’enfant de 3 ans n’a pas été retrouvée",
-    "added_at": "2025-10-08T07:32:48.936Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-10-08T07:32:33.624Z",
+    "removed_at": "2025-10-08T12:03:56.956Z",
+    "duration_minutes": 271,
+    "duration_str": "4h 31m"
   },
   {
     "title": "Au procès Jubillar, le naufrage d’un gendarme qui reconnaît avoir « fait une erreur dans les copiés-collés »",
-    "added_at": "2025-10-08T07:35:03.454Z",
+    "added_at": "2025-10-08T07:34:24.549Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "« L’Invasion » : fragments de la vie quotidienne en Ukraine, non loin du front",
-    "added_at": "2025-10-08T07:37:13.066Z",
+    "added_at": "2025-10-08T07:36:19.033Z",
     "removed_at": "2025-10-08T08:06:05.378Z",
-    "duration_minutes": 29,
-    "duration_str": "29m"
+    "duration_minutes": 30,
+    "duration_str": "30m"
   },
   {
     "title": "En direct : Sébastien Lecornu assure qu’« il y a une volonté » des forces politiques « d’avoir un budget avant le 31 décembre »",
     "added_at": "2025-10-08T07:46:06.201Z",
-    "removed_at": "2025-10-08T09:50:31.547Z",
-    "duration_minutes": 124,
-    "duration_str": "2h 4m"
+    "removed_at": "2025-10-08T09:49:23.554Z",
+    "duration_minutes": 123,
+    "duration_str": "2h 3m"
   },
   {
     "title": "La crise de l’immobilier est-elle derrière nous ?",
-    "added_at": "2025-10-08T07:59:26.258Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-10-08T07:59:05.756Z",
+    "removed_at": "2025-10-08T11:26:12.108Z",
+    "duration_minutes": 207,
+    "duration_str": "3h 27m"
   },
   {
     "title": "Au Maroc, l’hôpital d’Agadir, symbole de la défaillance des services de santé publics dénoncée par la génération Z",
-    "added_at": "2025-10-08T08:01:42.035Z",
-    "removed_at": "2025-10-08T10:37:10.369Z",
-    "duration_minutes": 155,
-    "duration_str": "2h 35m"
+    "added_at": "2025-10-08T08:01:03.149Z",
+    "removed_at": "2025-10-08T12:48:21.657Z",
+    "duration_minutes": 287,
+    "duration_str": "4h 47m"
   },
   {
     "title": "Google et Apple accusent la régulation du numérique d’empêcher le lancement de services d’IA en France",
-    "added_at": "2025-10-08T08:03:51.439Z",
-    "removed_at": "2025-10-08T08:17:20.422Z",
+    "added_at": "2025-10-08T08:02:54.688Z",
+    "removed_at": "2025-10-08T08:16:13.281Z",
     "duration_minutes": 13,
     "duration_str": "13m"
   },
   {
     "title": "« Berlinguer. La grande ambition » : retour sur un « compromis historique » qui ne survint pas",
     "added_at": "2025-10-08T08:06:05.378Z",
-    "removed_at": "2025-10-08T08:37:18.148Z",
+    "removed_at": "2025-10-08T08:37:06.289Z",
     "duration_minutes": 31,
     "duration_str": "31m"
   },
   {
     "title": "IA : Google et Apple accusent la régulation du numérique d’empêcher le lancement de services en France et dans l’Union européenne",
-    "added_at": "2025-10-08T08:17:20.422Z",
+    "added_at": "2025-10-08T08:16:13.281Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Dans « Nos jours sauvages », Vasilis Kekatos filme l’énergie irradiante d’enfants de la crise",
-    "added_at": "2025-10-08T08:37:18.148Z",
-    "removed_at": "2025-10-08T09:08:20.345Z",
-    "duration_minutes": 31,
-    "duration_str": "31m"
+    "added_at": "2025-10-08T08:37:06.289Z",
+    "removed_at": "2025-10-08T09:07:33.635Z",
+    "duration_minutes": 30,
+    "duration_str": "30m"
   },
   {
     "title": "« Le désarmement idéologique du sionisme religieux, arc-bouté sur le projet du Grand Israël, est impératif »",
-    "added_at": "2025-10-08T09:06:10.575Z",
+    "added_at": "2025-10-08T09:05:39.195Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Dans le documentaire « Hors service », une plongée au cœur du service public avec six agents de l’Etat démissionnaires",
-    "added_at": "2025-10-08T09:08:20.345Z",
+    "added_at": "2025-10-08T09:07:33.635Z",
     "removed_at": "2025-10-08T09:37:12.203Z",
-    "duration_minutes": 29,
-    "duration_str": "29m"
+    "duration_minutes": 30,
+    "duration_str": "30m"
   },
   {
     "title": "A Paris, Birkenstock dévoile sa recette du succès",
-    "added_at": "2025-10-08T09:08:20.345Z",
+    "added_at": "2025-10-08T09:07:33.635Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -289,16 +291,17 @@
   },
   {
     "title": "En direct : « Nous n’avons aucune assurance sur la suspension » de la réforme des retraites, regrette Olivier Faure à l’issue de sa rencontre avec Sébastien Lecornu",
-    "added_at": "2025-10-08T09:50:31.547Z",
+    "added_at": "2025-10-08T09:49:23.554Z",
     "removed_at": "2025-10-08T09:52:41.646Z",
-    "duration_minutes": 2,
-    "duration_str": "2m"
+    "duration_minutes": 3,
+    "duration_str": "3m"
   },
   {
     "title": "En direct : « Nous n’avons aucune assurance sur la suspension » de la réforme des retraites, regrette Olivier Faure après sa rencontre avec Sébastien Lecornu",
     "added_at": "2025-10-08T09:52:41.646Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-08T10:59:31.390Z",
+    "duration_minutes": 67,
+    "duration_str": "1h 7m"
   },
   {
     "title": "Pierre Serna, historien : « Emmanuel Macron est dans un déni total de sa responsabilité »",
@@ -327,14 +330,16 @@
   {
     "title": "« Garder les yeux fixés sur la IVᵉ République n’est à peu près d’aucune utilité pour comprendre la France d’aujourd’hui »",
     "added_at": "2025-10-08T10:08:13.994Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-08T12:37:15.084Z",
+    "duration_minutes": 149,
+    "duration_str": "2h 29m"
   },
   {
     "title": "Le Nobel de chimie décerné à Susumu Kitagawa, Richard Robson et Omar M. Yaghi pour leurs travaux sur de nouvelles formes moléculaires",
     "added_at": "2025-10-08T10:10:30.032Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-08T11:17:22.888Z",
+    "duration_minutes": 67,
+    "duration_str": "1h 7m"
   },
   {
     "title": "« Aujourd’hui, on se bat pour entrer au Quai d’Orsay » : chez les jeunes, la diplomatie fait toujours rêver",
@@ -345,6 +350,56 @@
   {
     "title": "L’« hétérofatalisme », ou la fin de l’optimisme amoureux des femmes hétérosexuelles",
     "added_at": "2025-10-08T10:19:21.430Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "En direct : « Nous n’avons aucune assurance sur la suspension » de la réforme des retraites, regrette Olivier Faure après sa rencontre avec Sébastien Lecornu",
+    "added_at": "2025-10-08T10:59:31.390Z",
+    "removed_at": "2025-10-08T11:30:42.000Z",
+    "duration_minutes": 31,
+    "duration_str": "31m"
+  },
+  {
+    "title": "Respecter l’héritage de Robert Badinter",
+    "added_at": "2025-10-08T11:08:25.486Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Le Nobel de chimie décerné à Susumu Kitagawa, Richard Robson et Omar M. Yaghi pour leurs travaux sur de nouvelles formes moléculaires",
+    "added_at": "2025-10-08T11:17:22.888Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Claire Magone, directrice de MSF : « A Gaza, la mort est partout. Elle est palpable, elle plane, elle frappe n’importe où, n’importe qui »",
+    "added_at": "2025-10-08T11:26:12.108Z",
+    "removed_at": "2025-10-08T13:01:41.983Z",
+    "duration_minutes": 95,
+    "duration_str": "1h 35m"
+  },
+  {
+    "title": "Sébastien Lecornu prêt à lâcher sur le déficit pour faire passer un budget",
+    "added_at": "2025-10-08T11:30:42.000Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Fin de l’alerte enlèvement à Alençon, dans l’Orne, l’enfant de 3 ans retrouvée",
+    "added_at": "2025-10-08T12:03:56.956Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Démocratiser la politique du médicament, un objectif de santé publique",
+    "added_at": "2025-10-08T12:37:15.084Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Dans le Kentucky, la peur des personnes transgenres, après l’assassinat de Charlie Kirk",
+    "added_at": "2025-10-08T13:01:41.983Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
