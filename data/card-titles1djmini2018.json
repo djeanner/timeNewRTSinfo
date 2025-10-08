@@ -50578,7 +50578,10 @@
   },
   {
     "title": "Crier au loup",
-    "added_at": "2025-10-05T22:28:43.172Z"
+    "added_at": "2025-10-05T22:28:43.172Z",
+    "removed_at": "2025-10-08T05:03:44.774Z",
+    "duration_minutes": 3275,
+    "duration_str": "2d 6h 35m"
   },
   {
     "title": "\"The Life of a Showgirl\", le film promouvant le nouvel album de Taylor Swift projeté dans deux salles suisses",
@@ -50589,7 +50592,10 @@
   },
   {
     "title": "Donald Trump annonce les premiers licenciements liés au blocage budgétaire",
-    "added_at": "2025-10-06T01:48:25.688Z"
+    "added_at": "2025-10-06T01:48:25.688Z",
+    "removed_at": "2025-10-08T05:03:44.774Z",
+    "duration_minutes": 3075,
+    "duration_str": "2d 3h 15m"
   },
   {
     "title": "Un homme tire dans une rue très fréquentée de Sidney et fait une vingtaine de blessés",
@@ -51092,10 +51098,7 @@
   },
   {
     "title": "Le point sur la situation politique en France après la démission du Premier ministre: interview d’Alexandra Schwartzbrod",
-    "added_at": "2025-10-07T19:07:44.360Z",
-    "removed_at": "2025-10-08T01:19:13.595Z",
-    "duration_minutes": 371,
-    "duration_str": "6h 11m"
+    "added_at": "2025-10-07T19:07:44.360Z"
   },
   {
     "title": "Ehud Barak: \"Nous devons laisser une place pour un Etat palestinien viable et démilitarisé\"",
@@ -51114,11 +51117,17 @@
   },
   {
     "title": "Le souvenir du 7-Octobre est encore vif dans les mémoires des Juifs: interviews de Daniel Halpérin et Peggy Cidor",
-    "added_at": "2025-10-07T19:36:32.588Z"
+    "added_at": "2025-10-07T19:36:32.588Z",
+    "removed_at": "2025-10-08T04:31:21.695Z",
+    "duration_minutes": 534,
+    "duration_str": "8h 54m"
   },
   {
     "title": "Que représente le 7-Octobre pour les Palestiniens?: interview de Ataa Dabour",
-    "added_at": "2025-10-07T19:36:32.588Z"
+    "added_at": "2025-10-07T19:36:32.588Z",
+    "removed_at": "2025-10-08T04:31:21.695Z",
+    "duration_minutes": 534,
+    "duration_str": "8h 54m"
   },
   {
     "title": "Le nombre d'accidents de randonnée en Suisse a doublé en 15 ans",
@@ -51126,7 +51135,10 @@
   },
   {
     "title": "Défilé, sit-in et fumigènes: une manifestation propalestinienne s'est tenue à Genève",
-    "added_at": "2025-10-07T20:24:13.477Z"
+    "added_at": "2025-10-07T20:24:13.477Z",
+    "removed_at": "2025-10-08T04:18:06.379Z",
+    "duration_minutes": 473,
+    "duration_str": "7h 53m"
   },
   {
     "title": "\"A la fin, les peuples se libèrent d'une manière ou d'une autre\", affirme Varsen Aghabekian Shahin",
@@ -51154,5 +51166,31 @@
   {
     "title": "Le président équatorien Daniel Noboa sort indemne d'une attaque contre son convoi",
     "added_at": "2025-10-08T01:30:37.765Z"
+  },
+  {
+    "title": "Le cours de l'or dépasse pour la première fois le seuil des 4000 dollars l'once",
+    "added_at": "2025-10-08T03:28:40.063Z"
+  },
+  {
+    "title": "Défilé, sit-in et lacrymogènes: une manifestation propalestinienne s'est tenue à Genève",
+    "added_at": "2025-10-08T04:18:06.379Z",
+    "removed_at": "2025-10-08T04:25:39.361Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "La quête de la pomme parfaite exige de nombreux traitements",
+    "added_at": "2025-10-08T04:25:39.361Z"
+  },
+  {
+    "title": "Défilé, sit-in et lacrymogènes: une manifestation propalestinienne dans les rues de Genève mercredi soir",
+    "added_at": "2025-10-08T04:25:39.361Z",
+    "removed_at": "2025-10-08T04:46:38.092Z",
+    "duration_minutes": 20,
+    "duration_str": "20m"
+  },
+  {
+    "title": "Défilé, sit-in et lacrymogènes: une manifestation propalestinienne dans les rues de Genève mardi soir",
+    "added_at": "2025-10-08T04:46:38.092Z"
   }
 ]
