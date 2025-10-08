@@ -40122,7 +40122,10 @@
   },
   {
     "title": "economie:::Cette année, pour la première fois dans le monde, le solaire et l’éolien ont produit plus d’électricité que le charbon",
-    "added_at": "2025-10-07T08:26:33.363Z"
+    "added_at": "2025-10-07T08:26:33.363Z",
+    "removed_at": "2025-10-08T03:44:14.702Z",
+    "duration_minutes": 1157,
+    "duration_str": "19h 17m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les dix derniers ressortissants suisses ont été expulsés d’Israël ce mardi et doivent arriver à Genève demain",
@@ -40140,11 +40143,17 @@
   },
   {
     "title": "sciences:::Le Nobel de physique récompense la découverte des effets quantiques à l’échelle macroscopique",
-    "added_at": "2025-10-07T09:59:45.177Z"
+    "added_at": "2025-10-07T09:59:45.177Z",
+    "removed_at": "2025-10-08T04:46:18.682Z",
+    "duration_minutes": 1126,
+    "duration_str": "18h 46m"
   },
   {
     "title": "monde:::Démission, dissolution ou cohabitation… le paysage politique français fourmille après l’ultimatum d’Emmanuel Macron",
-    "added_at": "2025-10-07T10:24:08.790Z"
+    "added_at": "2025-10-07T10:24:08.790Z",
+    "removed_at": "2025-10-08T05:37:16.185Z",
+    "duration_minutes": 1153,
+    "duration_str": "19h 13m"
   },
   {
     "title": "sport:::L’UEFA avoue son impuissance actuelle face aux projets de matchs délocalisés",
@@ -40176,7 +40185,10 @@
   },
   {
     "title": "sport:::L’équipe de Suisse doit-elle séduire les joueurs binationaux?",
-    "added_at": "2025-10-07T13:06:46.475Z"
+    "added_at": "2025-10-07T13:06:46.475Z",
+    "removed_at": "2025-10-08T04:48:34.524Z",
+    "duration_minutes": 941,
+    "duration_str": "15h 41m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Quatre civils ont été tués dans une frappe dans la région de Kherson",
@@ -40198,7 +40210,10 @@
   },
   {
     "title": "suisse:::Avec un déficit prévu de 77 millions de francs l'année prochaine, Lausanne pointe vers le canton",
-    "added_at": "2025-10-07T15:33:33.072Z"
+    "added_at": "2025-10-07T15:33:33.072Z",
+    "removed_at": "2025-10-08T03:44:14.702Z",
+    "duration_minutes": 730,
+    "duration_str": "12h 10m"
   },
   {
     "title": "suisse:::Au procès du notable, les médecins légistes doutent toujours plus de l’asphyxie érotique",
@@ -40210,10 +40225,7 @@
   },
   {
     "title": "cyber:::Dans l’univers de l’intelligence artificielle se tissent des liens incestueux à coups de dizaines de milliards de dollars",
-    "added_at": "2025-10-07T16:33:24.893Z",
-    "removed_at": "2025-10-07T21:57:51.047Z",
-    "duration_minutes": 324,
-    "duration_str": "5h 24m"
+    "added_at": "2025-10-07T16:33:24.893Z"
   },
   {
     "title": "suisse:::Bon gré mal gré, Genève est la capitale de la manifestation pro-palestinienne",
@@ -40258,6 +40270,33 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Des renforts diplomatiques envoyés en Egypte pour pousser à un accord sur Gaza",
-    "added_at": "2025-10-08T02:26:23.465Z"
+    "added_at": "2025-10-08T02:26:23.465Z",
+    "removed_at": "2025-10-08T04:28:36.196Z",
+    "duration_minutes": 122,
+    "duration_str": "2h 2m"
+  },
+  {
+    "title": "monde:::Qu’est-ce que l’Insurrection Act, menace brandie par Donald Trump pour envoyer l’armée dans les villes qui lui résistent?",
+    "added_at": "2025-10-08T03:44:14.702Z"
+  },
+  {
+    "title": "monde:::Sur un porte-avions, Donald Trump galvanise à nouveau les troupes contre les démocrates",
+    "added_at": "2025-10-08T03:44:14.702Z"
+  },
+  {
+    "title": "cyber:::Infomaniak fait recours contre la prolongation des contrats pour les services cloud de la Confédération",
+    "added_at": "2025-10-08T04:28:36.196Z"
+  },
+  {
+    "title": "monde:::Au Canada, la Poste va arrêter de livrer le courrier à domicile, et cela ne choque pas vraiment",
+    "added_at": "2025-10-08T04:46:18.682Z"
+  },
+  {
+    "title": "culture:::Autrice admirée d’«Hiver à Sokcho», Elisa Shua Dusapin passe avec succès l’épreuve du théâtre à Genève",
+    "added_at": "2025-10-08T04:48:34.524Z"
+  },
+  {
+    "title": "monde:::En Syrie, une démocratie en suspens derrière les premiers résultats des élections",
+    "added_at": "2025-10-08T05:37:16.185Z"
   }
 ]

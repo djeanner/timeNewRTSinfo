@@ -3747,7 +3747,10 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T19:02:44.375Z"
+    "added_at": "2025-07-25T19:02:44.375Z",
+    "removed_at": "2025-10-08T05:23:57.762Z",
+    "duration_minutes": 107181,
+    "duration_str": "74d 10h 21m"
   },
   {
     "title": "En Israël, la population sensible au sort des Gazaouis refuse d'en rendre son armée responsable",
@@ -25952,7 +25955,10 @@
   },
   {
     "title": "Crier au loup",
-    "added_at": "2025-10-05T22:28:40.803Z"
+    "added_at": "2025-10-05T22:28:40.803Z",
+    "removed_at": "2025-10-08T05:04:00.332Z",
+    "duration_minutes": 3275,
+    "duration_str": "2d 6h 35m"
   },
   {
     "title": "\"The Life of a Showgirl\", le film promouvant le nouvel album de Taylor Swift projeté dans deux salles suisses",
@@ -25963,7 +25969,10 @@
   },
   {
     "title": "Donald Trump annonce les premiers licenciements liés au blocage budgétaire",
-    "added_at": "2025-10-06T01:47:45.321Z"
+    "added_at": "2025-10-06T01:47:45.321Z",
+    "removed_at": "2025-10-08T05:04:00.332Z",
+    "duration_minutes": 3076,
+    "duration_str": "2d 3h 16m"
   },
   {
     "title": "Un homme tire dans une rue très fréquentée de Sidney et fait une vingtaine de blessés",
@@ -26135,7 +26144,10 @@
   },
   {
     "title": "\"Moi qui t'aimais\", les amours tendres et cruelles de Simone Signoret et Yves Montand",
-    "added_at": "2025-10-06T11:36:34.810Z"
+    "added_at": "2025-10-06T11:36:34.810Z",
+    "removed_at": "2025-10-08T05:08:25.222Z",
+    "duration_minutes": 2491,
+    "duration_str": "1d 17h 31m"
   },
   {
     "title": "Appels à la dissolution, voire au départ d'Emmanuel Macron: la crise politique s'aggrave en France",
@@ -26459,10 +26471,7 @@
   },
   {
     "title": "Le point sur la situation politique en France après la démission du Premier ministre: interview d’Alexandra Schwartzbrod",
-    "added_at": "2025-10-07T19:06:50.499Z",
-    "removed_at": "2025-10-08T01:19:58.292Z",
-    "duration_minutes": 373,
-    "duration_str": "6h 13m"
+    "added_at": "2025-10-07T19:06:50.499Z"
   },
   {
     "title": "Ehud Barak: \"Nous devons laisser une place pour un Etat palestinien viable et démilitarisé\"",
@@ -26481,11 +26490,17 @@
   },
   {
     "title": "Le souvenir du 7-Octobre est encore vif dans les mémoires des Juifs: interviews de Daniel Halpérin et Peggy Cidor",
-    "added_at": "2025-10-07T19:37:58.455Z"
+    "added_at": "2025-10-07T19:37:58.455Z",
+    "removed_at": "2025-10-08T04:30:46.253Z",
+    "duration_minutes": 532,
+    "duration_str": "8h 52m"
   },
   {
     "title": "Que représente le 7-Octobre pour les Palestiniens?: interview de Ataa Dabour",
-    "added_at": "2025-10-07T19:37:58.455Z"
+    "added_at": "2025-10-07T19:37:58.455Z",
+    "removed_at": "2025-10-08T04:30:46.253Z",
+    "duration_minutes": 532,
+    "duration_str": "8h 52m"
   },
   {
     "title": "Le nombre d'accidents de randonnée en Suisse a doublé en 15 ans",
@@ -26493,7 +26508,10 @@
   },
   {
     "title": "Défilé, sit-in et fumigènes: une manifestation propalestinienne s'est tenue à Genève",
-    "added_at": "2025-10-07T20:24:45.839Z"
+    "added_at": "2025-10-07T20:24:45.839Z",
+    "removed_at": "2025-10-08T04:17:27.286Z",
+    "duration_minutes": 472,
+    "duration_str": "7h 52m"
   },
   {
     "title": "\"A la fin, les peuples se libèrent d'une manière ou d'une autre\", affirme Varsen Aghabekian Shahin",
@@ -26521,5 +26539,39 @@
   {
     "title": "Le président équatorien Daniel Noboa sort indemne d'une attaque contre son convoi",
     "added_at": "2025-10-08T01:31:03.016Z"
+  },
+  {
+    "title": "Le cours de l'or dépasse pour la première fois le seuil des 4000 dollars l'once",
+    "added_at": "2025-10-08T03:28:41.496Z"
+  },
+  {
+    "title": "Défilé, sit-in et lacrymogènes: une manifestation propalestinienne s'est tenue à Genève",
+    "added_at": "2025-10-08T04:17:27.286Z",
+    "removed_at": "2025-10-08T04:26:20.207Z",
+    "duration_minutes": 8,
+    "duration_str": "8m"
+  },
+  {
+    "title": "La quête de la pomme parfaite exige de nombreux traitements",
+    "added_at": "2025-10-08T04:26:20.207Z"
+  },
+  {
+    "title": "Défilé, sit-in et lacrymogènes: une manifestation propalestinienne dans les rues de Genève mercredi soir",
+    "added_at": "2025-10-08T04:26:20.207Z",
+    "removed_at": "2025-10-08T04:48:34.476Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
+  },
+  {
+    "title": "Défilé, sit-in et lacrymogènes: une manifestation propalestinienne dans les rues de Genève mardi soir",
+    "added_at": "2025-10-08T04:48:34.476Z"
+  },
+  {
+    "title": "Des bateaux de la nouvelle flottille pour Gaza interceptés par l'armée israélienne",
+    "added_at": "2025-10-08T05:08:25.222Z"
+  },
+  {
+    "title": "Deux ans après, Israël face au traumatisme du 7 octobre",
+    "added_at": "2025-10-08T05:23:57.762Z"
   }
 ]
