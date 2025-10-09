@@ -37910,7 +37910,10 @@
   },
   {
     "title": "monde:::A Casablanca: «Le Maroc se préoccupe davantage de son image que de la vie de ses citoyens!»",
-    "added_at": "2025-10-03T04:40:01.441Z"
+    "added_at": "2025-10-03T04:40:01.441Z",
+    "removed_at": "2025-10-08T23:28:43.545Z",
+    "duration_minutes": 8328,
+    "duration_str": "5d 18h 48m"
   },
   {
     "title": "suisse:::L’UDC pourrait atteindre un record lors des prochaines élections fédérales, le PLR et Le Centre continuent leur chute",
@@ -39324,7 +39327,10 @@
   },
   {
     "title": "suisse:::Valérie Dittli ne sera pas poursuivie pour violation du secret de fonction, mais une enquête pour abus d’autorité est bien ouverte",
-    "added_at": "2025-10-08T09:43:40.824Z"
+    "added_at": "2025-10-08T09:43:40.824Z",
+    "removed_at": "2025-10-08T23:28:43.545Z",
+    "duration_minutes": 825,
+    "duration_str": "13h 45m"
   },
   {
     "title": "culture:::Richard Linklater et «Nouvelle Vague»: «Godard est un personnage fascinant qui a inventé ses propres mythes»",
@@ -39470,10 +39476,17 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Washington se félicite des progrès des négociations entre Israël et le Hamas",
-    "added_at": "2025-10-08T19:47:54.505Z"
+    "added_at": "2025-10-08T19:47:54.505Z",
+    "removed_at": "2025-10-08T23:19:13.441Z",
+    "duration_minutes": 211,
+    "duration_str": "3h 31m"
   },
   {
     "title": "monde:::Emmanuel Macron nommera un premier ministre dans les 48 heures",
     "added_at": "2025-10-08T20:08:55.518Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Israël et le Hamas ont accepté la première phase du plan de paix pour Gaza",
+    "added_at": "2025-10-08T23:19:13.441Z"
   }
 ]
