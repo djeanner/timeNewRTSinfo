@@ -6448,7 +6448,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:00:57.917Z"
+    "added_at": "2025-05-22T18:00:57.917Z",
+    "removed_at": "2025-10-10T10:51:12.546Z",
+    "duration_minutes": 202610,
+    "duration_str": "140d 16h 50m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -39736,7 +39739,10 @@
   },
   {
     "title": "monde:::Face à la trêve à Gaza imposée par Donald Trump, un soulagement à la mesure du désespoir",
-    "added_at": "2025-10-09T15:49:38.089Z"
+    "added_at": "2025-10-09T15:49:38.089Z",
+    "removed_at": "2025-10-10T11:14:00.796Z",
+    "duration_minutes": 1164,
+    "duration_str": "19h 24m"
   },
   {
     "title": "culture:::Prix Nobel de littérature, Laszlo Krasznahorkai est l’écrivain d’un monde qui bascule dans la folie",
@@ -39831,11 +39837,17 @@
   },
   {
     "title": "suisse:::Une fuite dans «Le Temps» est bien à l’origine de la convocation des députés vaudois par le Ministère public",
-    "added_at": "2025-10-10T05:01:17.042Z"
+    "added_at": "2025-10-10T05:01:17.042Z",
+    "removed_at": "2025-10-10T09:40:58.186Z",
+    "duration_minutes": 279,
+    "duration_str": "4h 39m"
   },
   {
     "title": "monde:::Gaza: une victoire pour Trump qui ne change rien à la crise politique en cours aux Etats-Unis",
-    "added_at": "2025-10-10T05:03:07.619Z"
+    "added_at": "2025-10-10T05:03:07.619Z",
+    "removed_at": "2025-10-10T11:14:00.796Z",
+    "duration_minutes": 370,
+    "duration_str": "6h 10m"
   },
   {
     "title": "monde:::L’invisible comme refuge: face à l’incertitude économique, le mystique fait son retour dans les métropoles chinoises",
@@ -39843,10 +39855,7 @@
   },
   {
     "title": "suisse:::Educateurs sous pression: Vaud écarte l’option d’un meilleur encadrement malgré des recommandations",
-    "added_at": "2025-10-10T05:46:51.758Z",
-    "removed_at": "2025-10-10T09:17:59.594Z",
-    "duration_minutes": 211,
-    "duration_str": "3h 31m"
+    "added_at": "2025-10-10T05:46:51.758Z"
   },
   {
     "title": "monde:::Au Pérou, la présidente Dina Boluarte est destituée par le parlement",
@@ -39883,10 +39892,43 @@
   },
   {
     "title": "suisse:::Accord trouvé entre le canton de Vaud et la France pour garantir les liaisons transfrontalières de la CGN",
-    "added_at": "2025-10-10T09:17:59.594Z"
+    "added_at": "2025-10-10T09:17:59.594Z",
+    "removed_at": "2025-10-10T11:08:18.504Z",
+    "duration_minutes": 110,
+    "duration_str": "1h 50m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Amnesty International charge la police genevoise pour ses interventions contre une manifestation pro-palestinienne",
-    "added_at": "2025-10-10T09:27:27.054Z"
+    "added_at": "2025-10-10T09:27:27.054Z",
+    "removed_at": "2025-10-10T09:46:39.803Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
+  },
+  {
+    "title": "sport:::Comment succéder à une coach qui a tout gagné? Le défi de Laura Girolami à la tête des volleyeuses du NUC",
+    "added_at": "2025-10-10T09:42:48.675Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le cessez-le-feu a commencé à Gaza, selon l’armée israélienne",
+    "added_at": "2025-10-10T09:46:39.803Z",
+    "removed_at": "2025-10-10T10:13:12.918Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Après l'entrée en vigueur du cessez-le-feu à Gaza, des milliers de déplacés rentrent chez eux",
+    "added_at": "2025-10-10T10:13:12.918Z"
+  },
+  {
+    "title": "sciences:::Une couleur bronze qui ne doit rien à l’automne: la pollution à l’ozone décolore aussi les feuilles des arbres",
+    "added_at": "2025-10-10T10:51:12.546Z"
+  },
+  {
+    "title": "suisse:::Accord trouvé entre le canton de Vaud et la France pour garantir les liaisons transfrontalières de la CGN malgré une réduction de l’offre",
+    "added_at": "2025-10-10T11:08:18.504Z"
+  },
+  {
+    "title": "monde:::En chiffres: Près de 48 000 manifestations pro-palestiniennes dans le monde depuis le début de la guerre à Gaza",
+    "added_at": "2025-10-10T11:14:00.796Z"
   }
 ]
