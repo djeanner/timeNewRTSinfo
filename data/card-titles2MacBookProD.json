@@ -39923,7 +39923,10 @@
   },
   {
     "title": "monde:::Démission de Sébastien Lecornu: la journée qui a plongé la France encore plus profondément dans la crise",
-    "added_at": "2025-10-06T13:42:09.874Z"
+    "added_at": "2025-10-06T13:42:09.874Z",
+    "removed_at": "2025-10-10T13:45:20.467Z",
+    "duration_minutes": 5763,
+    "duration_str": "4d 3m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – 171 militants de la Flottille pour Gaza vont être expulsés, dont deux Suisses",
@@ -40162,7 +40165,10 @@
   },
   {
     "title": "monde:::Démission, dissolution ou cohabitation… le paysage politique français fourmille après l’ultimatum d’Emmanuel Macron",
-    "added_at": "2025-10-07T10:24:08.790Z"
+    "added_at": "2025-10-07T10:24:08.790Z",
+    "removed_at": "2025-10-10T13:45:20.467Z",
+    "duration_minutes": 4521,
+    "duration_str": "3d 3h 21m"
   },
   {
     "title": "sport:::L’UEFA avoue son impuissance actuelle face aux projets de matchs délocalisés",
@@ -40593,10 +40599,7 @@
   },
   {
     "title": "monde:::Emmanuel Macron nommera un premier ministre dans les 48 heures",
-    "added_at": "2025-10-08T20:09:11.468Z",
-    "removed_at": "2025-10-09T10:23:00.675Z",
-    "duration_minutes": 853,
-    "duration_str": "14h 13m"
+    "added_at": "2025-10-08T20:09:11.468Z"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël et le Hamas ont accepté la première phase du plan de paix pour Gaza",
@@ -40828,7 +40831,10 @@
   },
   {
     "title": "suisse:::Les familles d’otages israéliens à Lausanne: «C’est une étape énorme»",
-    "added_at": "2025-10-09T16:52:11.468Z"
+    "added_at": "2025-10-09T16:52:11.468Z",
+    "removed_at": "2025-10-10T13:09:09.568Z",
+    "duration_minutes": 1216,
+    "duration_str": "20h 16m"
   },
   {
     "title": "monde:::La future gouvernance de la Palestine se décide aussi maintenant",
@@ -40900,7 +40906,10 @@
   },
   {
     "title": "economie:::La fin de la valeur locative va-t-elle pénaliser les banques?",
-    "added_at": "2025-10-10T04:53:04.219Z"
+    "added_at": "2025-10-10T04:53:04.219Z",
+    "removed_at": "2025-10-10T14:03:07.435Z",
+    "duration_minutes": 550,
+    "duration_str": "9h 10m"
   },
   {
     "title": "monde:::Gaza: une victoire pour Trump qui ne change rien à la crise politique en cours aux Etats-Unis",
@@ -40973,7 +40982,10 @@
   },
   {
     "title": "sport:::Comment succéder à une coach qui a tout gagné? Le défi de Laura Girolami à la tête des volleyeuses du NUC",
-    "added_at": "2025-10-10T09:42:02.743Z"
+    "added_at": "2025-10-10T09:42:02.743Z",
+    "removed_at": "2025-10-10T13:40:49.859Z",
+    "duration_minutes": 238,
+    "duration_str": "3h 58m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le cessez-le-feu a commencé à Gaza, selon l’armée israélienne",
@@ -40984,7 +40996,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Après l'entrée en vigueur du cessez-le-feu à Gaza, des milliers de déplacés rentrent chez eux",
-    "added_at": "2025-10-10T10:13:19.098Z"
+    "added_at": "2025-10-10T10:13:19.098Z",
+    "removed_at": "2025-10-10T12:49:05.947Z",
+    "duration_minutes": 155,
+    "duration_str": "2h 35m"
   },
   {
     "title": "sciences:::Une couleur bronze qui ne doit rien à l’automne: la pollution à l’ozone décolore aussi les feuilles des arbres",
@@ -41001,5 +41016,32 @@
   {
     "title": "suisse:::Prix Nobel d'économie, le couple Esther Duflo-Abhijit Banerjee va travailler à l'Université de Zurich",
     "added_at": "2025-10-10T12:11:07.310Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis confirment que l'armée israélienne s'est retirée d'une partie de Gaza",
+    "added_at": "2025-10-10T12:49:05.947Z",
+    "removed_at": "2025-10-10T13:58:42.865Z",
+    "duration_minutes": 69,
+    "duration_str": "1h 9m"
+  },
+  {
+    "title": "culture:::Le fabuleux Tugan Sokhiev fait vibrer Tchaïkovski et Prokofiev avec l’Orchestre de la Suisse romande",
+    "added_at": "2025-10-10T13:09:09.568Z"
+  },
+  {
+    "title": "sport:::De la Suisse à l’Algérie, les succès mal-aimés de Vladimir Petkovic",
+    "added_at": "2025-10-10T13:40:49.859Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump a garanti au Hamas qu'Israël ne reprendrait pas la guerre à Gaza",
+    "added_at": "2025-10-10T13:58:42.865Z"
+  },
+  {
+    "title": "culture:::Série: «Néro», une grande aventure française en mode jeu de rôle",
+    "added_at": "2025-10-10T14:03:07.435Z"
+  },
+  {
+    "title": "culture:::«Jouer sans chef, c’est comme se passer le ballon dans un match de foot»: voyage dans les coulisses de l’ensemble I Gemelli",
+    "added_at": "2025-10-10T14:40:53.144Z"
   }
 ]
