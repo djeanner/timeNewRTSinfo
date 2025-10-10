@@ -76,8 +76,9 @@
   {
     "title": "suisse:::Educateurs sous pression: Vaud écarte l’option d’un meilleur encadrement malgré des recommandations",
     "added_at": "2025-10-10T05:46:32.157Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-10T15:41:13.554Z",
+    "duration_minutes": 595,
+    "duration_str": "9h 55m"
   },
   {
     "title": "monde:::Au Pérou, la présidente Dina Boluarte est destituée par le parlement",
@@ -95,8 +96,9 @@
   {
     "title": "sport:::Le Suédois Alexander Isak, transfert fracassant et star discrète du football",
     "added_at": "2025-10-10T06:58:59.486Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-10T16:56:51.472Z",
+    "duration_minutes": 598,
+    "duration_str": "9h 58m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’armée israélienne a commencé à se retirer d'une partie de la bande de Gaza",
@@ -115,8 +117,9 @@
   {
     "title": "monde:::L’opposante vénézuélienne Maria Corina Machado lauréate du Prix Nobel de la paix 2025",
     "added_at": "2025-10-10T09:17:37.727Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-10T17:21:21.319Z",
+    "duration_minutes": 484,
+    "duration_str": "8h 4m"
   },
   {
     "title": "suisse:::Accord trouvé entre le canton de Vaud et la France pour garantir les liaisons transfrontalières de la CGN",
@@ -168,14 +171,16 @@
   {
     "title": "monde:::En chiffres: Près de 48 000 manifestations pro-palestiniennes dans le monde depuis le début de la guerre à Gaza",
     "added_at": "2025-10-10T11:13:17.811Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-10T17:21:21.319Z",
+    "duration_minutes": 368,
+    "duration_str": "6h 8m"
   },
   {
     "title": "suisse:::Prix Nobel d'économie, le couple Esther Duflo-Abhijit Banerjee va travailler à l'Université de Zurich",
-    "added_at": "2025-10-10T12:11:07.310Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-10-10T12:09:22.303Z",
+    "removed_at": "2025-10-10T15:14:29.540Z",
+    "duration_minutes": 185,
+    "duration_str": "3h 5m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis confirment que l'armée israélienne s'est retirée d'une partie de Gaza",
@@ -186,9 +191,10 @@
   },
   {
     "title": "culture:::Le fabuleux Tugan Sokhiev fait vibrer Tchaïkovski et Prokofiev avec l’Orchestre de la Suisse romande",
-    "added_at": "2025-10-10T13:09:09.568Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-10-10T13:08:15.325Z",
+    "removed_at": "2025-10-10T16:39:06.735Z",
+    "duration_minutes": 211,
+    "duration_str": "3h 31m"
   },
   {
     "title": "sport:::De la Suisse à l’Algérie, les succès mal-aimés de Vladimir Petkovic",
@@ -199,8 +205,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump a garanti au Hamas qu'Israël ne reprendrait pas la guerre à Gaza",
     "added_at": "2025-10-10T13:58:42.865Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-10T15:41:13.554Z",
+    "duration_minutes": 103,
+    "duration_str": "1h 43m"
   },
   {
     "title": "culture:::Série: «Néro», une grande aventure française en mode jeu de rôle",
@@ -211,6 +218,49 @@
   {
     "title": "culture:::«Jouer sans chef, c’est comme se passer le ballon dans un match de foot»: voyage dans les coulisses de l’ensemble I Gemelli",
     "added_at": "2025-10-10T14:40:53.144Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Le retour doux-amer des déplacés dans une ville de Gaza détruite",
+    "added_at": "2025-10-10T15:05:34.550Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "cyber:::Google révolutionne son moteur de recherche avec AI Mode, un service d’intelligence artificielle qui bousculera le web",
+    "added_at": "2025-10-10T15:41:13.554Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Benyamin Netanyahou espère tirer un profit politique du retour des otages",
+    "added_at": "2025-10-10T15:41:13.554Z",
+    "removed_at": "2025-10-10T17:21:21.319Z",
+    "duration_minutes": 100,
+    "duration_str": "1h 40m"
+  },
+  {
+    "title": "cyber:::Prudence face aux géants de l’IA qui nous enferment dans leurs systèmes",
+    "added_at": "2025-10-10T15:41:13.554Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Olivier Français: «Il faut aller beaucoup plus loin. Gagner 3 minutes entre Lausanne et Berne, c’est «peanuts»",
+    "added_at": "2025-10-10T16:39:06.735Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::Pourquoi le taux d’intérêt neutre fait débat",
+    "added_at": "2025-10-10T16:56:51.472Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Albert Rösti: «Sans nucléaire, les Suisses risquent de manquer d’électricité en hiver»",
+    "added_at": "2025-10-10T17:21:21.319Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
