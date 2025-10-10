@@ -40873,7 +40873,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Attaque de missiles et drones sur Kiev, partiellement privée d'électricité",
-    "added_at": "2025-10-10T01:37:30.332Z"
+    "added_at": "2025-10-10T01:37:30.332Z",
+    "removed_at": "2025-10-10T19:49:04.887Z",
+    "duration_minutes": 1091,
+    "duration_str": "18h 11m"
   },
   {
     "title": "monde:::Une juge suspend le déploiement de la Garde nationale à Chicago",
@@ -40973,10 +40976,7 @@
   },
   {
     "title": "monde:::L’opposante vénézuélienne Maria Corina Machado lauréate du Prix Nobel de la paix 2025",
-    "added_at": "2025-10-10T09:17:37.727Z",
-    "removed_at": "2025-10-10T17:21:21.319Z",
-    "duration_minutes": 483,
-    "duration_str": "8h 3m"
+    "added_at": "2025-10-10T09:17:37.727Z"
   },
   {
     "title": "suisse:::Accord trouvé entre le canton de Vaud et la France pour garantir les liaisons transfrontalières de la CGN",
@@ -41015,7 +41015,10 @@
   },
   {
     "title": "sciences:::Une couleur bronze qui ne doit rien à l’automne: la pollution à l’ozone décolore aussi les feuilles des arbres",
-    "added_at": "2025-10-10T10:51:02.883Z"
+    "added_at": "2025-10-10T10:51:02.883Z",
+    "removed_at": "2025-10-10T18:54:58.510Z",
+    "duration_minutes": 483,
+    "duration_str": "8h 3m"
   },
   {
     "title": "suisse:::Accord trouvé entre le canton de Vaud et la France pour garantir les liaisons transfrontalières de la CGN malgré une réduction de l’offre",
@@ -41051,7 +41054,10 @@
   },
   {
     "title": "sport:::De la Suisse à l’Algérie, les succès mal-aimés de Vladimir Petkovic",
-    "added_at": "2025-10-10T13:40:49.859Z"
+    "added_at": "2025-10-10T13:40:49.859Z",
+    "removed_at": "2025-10-10T19:26:45.940Z",
+    "duration_minutes": 345,
+    "duration_str": "5h 45m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump a garanti au Hamas qu'Israël ne reprendrait pas la guerre à Gaza",
@@ -41062,7 +41068,10 @@
   },
   {
     "title": "culture:::Série: «Néro», une grande aventure française en mode jeu de rôle",
-    "added_at": "2025-10-10T14:03:07.435Z"
+    "added_at": "2025-10-10T14:03:07.435Z",
+    "removed_at": "2025-10-10T18:08:16.127Z",
+    "duration_minutes": 245,
+    "duration_str": "4h 5m"
   },
   {
     "title": "culture:::«Jouer sans chef, c’est comme se passer le ballon dans un match de foot»: voyage dans les coulisses de l’ensemble I Gemelli",
@@ -41098,5 +41107,17 @@
   {
     "title": "suisse:::Albert Rösti: «Sans nucléaire, les Suisses risquent de manquer d’électricité en hiver»",
     "added_at": "2025-10-10T17:21:21.319Z"
+  },
+  {
+    "title": "monde:::Le Prix Nobel de la paix échappe à Donald Trump, mais Maria Corina Machado lui dédie son titre",
+    "added_at": "2025-10-10T18:08:16.127Z"
+  },
+  {
+    "title": "culture:::L’amour furieux des «Sonnets» de l’Arioste",
+    "added_at": "2025-10-10T19:26:45.940Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine − Attaque de missiles et drones sur Kiev, partiellement privée d'électricité",
+    "added_at": "2025-10-10T19:49:04.887Z"
   }
 ]
