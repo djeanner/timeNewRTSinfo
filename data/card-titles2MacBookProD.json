@@ -40901,7 +40901,10 @@
   },
   {
     "title": "suisse:::A Genève, home-jackings et cambriolages donnent des sueurs froides aux milieux économiques",
-    "added_at": "2025-10-10T04:08:36.037Z"
+    "added_at": "2025-10-10T04:08:36.037Z",
+    "removed_at": "2025-10-10T20:04:46.769Z",
+    "duration_minutes": 956,
+    "duration_str": "15h 56m"
   },
   {
     "title": "economie:::Taxes européennes sur l’acier: l’industrie suisse espère une exception",
@@ -40976,7 +40979,10 @@
   },
   {
     "title": "monde:::L’opposante vénézuélienne Maria Corina Machado lauréate du Prix Nobel de la paix 2025",
-    "added_at": "2025-10-10T09:17:37.727Z"
+    "added_at": "2025-10-10T09:17:37.727Z",
+    "removed_at": "2025-10-10T20:55:54.374Z",
+    "duration_minutes": 698,
+    "duration_str": "11h 38m"
   },
   {
     "title": "suisse:::Accord trouvé entre le canton de Vaud et la France pour garantir les liaisons transfrontalières de la CGN",
@@ -41119,5 +41125,13 @@
   {
     "title": "monde:::Guerre en Ukraine − Attaque de missiles et drones sur Kiev, partiellement privée d'électricité",
     "added_at": "2025-10-10T19:49:04.887Z"
+  },
+  {
+    "title": "monde:::Emmanuel Macron s’entête et prend le risque de braquer en renommant Sébastien Lecornu premier ministre",
+    "added_at": "2025-10-10T20:04:46.769Z"
+  },
+  {
+    "title": "sport:::A Stockholm, l’équipe de Suisse poursuit son sans-faute et se rapproche de la Coupe du monde",
+    "added_at": "2025-10-10T20:55:54.374Z"
   }
 ]
