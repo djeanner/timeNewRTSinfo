@@ -6448,7 +6448,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:00:57.917Z"
+    "added_at": "2025-05-22T18:00:57.917Z",
+    "removed_at": "2025-10-11T15:08:43.755Z",
+    "duration_minutes": 204307,
+    "duration_str": "141d 21h 7m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -40076,7 +40079,10 @@
   },
   {
     "title": "monde:::Le Prix Nobel de la paix échappe à Donald Trump, mais Maria Corina Machado lui dédie son titre",
-    "added_at": "2025-10-10T18:09:22.257Z"
+    "added_at": "2025-10-10T18:09:22.257Z",
+    "removed_at": "2025-10-11T16:00:06.340Z",
+    "duration_minutes": 1310,
+    "duration_str": "21h 50m"
   },
   {
     "title": "culture:::L’amour furieux des «Sonnets» de l’Arioste",
@@ -40094,7 +40100,10 @@
   },
   {
     "title": "monde:::Emmanuel Macron s’entête et prend le risque de braquer en renommant Sébastien Lecornu premier ministre",
-    "added_at": "2025-10-10T20:05:27.841Z"
+    "added_at": "2025-10-10T20:05:27.841Z",
+    "removed_at": "2025-10-11T15:08:43.755Z",
+    "duration_minutes": 1143,
+    "duration_str": "19h 3m"
   },
   {
     "title": "sport:::A Stockholm, l’équipe de Suisse poursuit son sans-faute et se rapproche de la Coupe du monde",
@@ -40170,5 +40179,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine − Saluant son plan pour Gaza, Volodymyr Zelensky exhorte Donald Trump à négocier la paix",
     "added_at": "2025-10-11T13:37:21.482Z"
+  },
+  {
+    "title": "culture:::«The Last Frontier», un «Prison Break» en Alaska",
+    "added_at": "2025-10-11T16:00:06.340Z"
   }
 ]
