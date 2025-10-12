@@ -52160,7 +52160,10 @@
   },
   {
     "title": "Netflix augmente ses prix en Suisse avec effet immédiat",
-    "added_at": "2025-10-10T10:56:54.260Z"
+    "added_at": "2025-10-10T10:56:54.260Z",
+    "removed_at": "2025-10-12T17:02:29.887Z",
+    "duration_minutes": 3245,
+    "duration_str": "2d 6h 5m"
   },
   {
     "title": "Gabriel Galice: \"La paix ne se décrète pas dans un accord, elle se constate\"",
@@ -52295,7 +52298,10 @@
   },
   {
     "title": "A Gaza, il était temps. Cinq récits racontent l'horrible quotidien",
-    "added_at": "2025-10-10T16:47:27.440Z"
+    "added_at": "2025-10-10T16:47:27.440Z",
+    "removed_at": "2025-10-12T17:15:52.223Z",
+    "duration_minutes": 2908,
+    "duration_str": "2d 28m"
   },
   {
     "title": "La grippe retrouve ses niveaux d'avant la pandémie de Covid-19",
@@ -52339,10 +52345,7 @@
   },
   {
     "title": "Emmanuel Macron reconduit Sébastien Lecornu comme Premier ministre",
-    "added_at": "2025-10-10T20:05:27.772Z",
-    "removed_at": "2025-10-11T11:12:29.991Z",
-    "duration_minutes": 907,
-    "duration_str": "15h 7m"
+    "added_at": "2025-10-10T20:05:27.772Z"
   },
   {
     "title": "Accord Israël – Hamas: le cessez-le-feu est entré en vigueur",
@@ -52444,7 +52447,10 @@
   },
   {
     "title": "Sébastien Lecornu veut nommer un gouvernement \"libre\", \"pas emprisonné par les partis\"",
-    "added_at": "2025-10-11T11:12:29.991Z"
+    "added_at": "2025-10-11T11:12:29.991Z",
+    "removed_at": "2025-10-12T18:07:16.001Z",
+    "duration_minutes": 1854,
+    "duration_str": "1d 6h 54m"
   },
   {
     "title": "La colocation, une réponse à la solitude des aînés?",
@@ -52691,7 +52697,10 @@
   },
   {
     "title": "Le président français Emmanuel Macron doit annoncer le nom de son quatrième Premier ministre",
-    "added_at": "2025-10-12T13:59:35.505Z"
+    "added_at": "2025-10-12T13:59:35.505Z",
+    "removed_at": "2025-10-12T17:02:29.887Z",
+    "duration_minutes": 182,
+    "duration_str": "3h 2m"
   },
   {
     "title": "Sport matin - L’équipe suisse de football affronte vendredi soir le trident suédois",
@@ -52710,7 +52719,10 @@
   },
   {
     "title": "Un plan d'assainissement qui divise à Fribourg: débat entre Marie Levrat et Antoinette de Weck",
-    "added_at": "2025-10-12T15:02:22.949Z"
+    "added_at": "2025-10-12T15:02:22.949Z",
+    "removed_at": "2025-10-12T17:02:29.887Z",
+    "duration_minutes": 120,
+    "duration_str": "2h"
   },
   {
     "title": "Un \"sommet pour la paix\" sur Gaza réunira lundi une vingtaine de dirigeants, en l'absence d'Israël et du Hamas",
@@ -52730,5 +52742,32 @@
   {
     "title": "Une initiative propose un service citoyen en Suisse: interview de Noémie Roten",
     "added_at": "2025-10-12T16:03:20.248Z"
+  },
+  {
+    "title": "Pourquoi la santé mentale intéresse-t-elle tant? Interview d’Adrien Zerbini",
+    "added_at": "2025-10-12T16:39:40.979Z"
+  },
+  {
+    "title": "La peine de mort pourrait-elle revenir?",
+    "added_at": "2025-10-12T17:02:29.887Z"
+  },
+  {
+    "title": "La votation sur l'initiative service citoyen fait déjà l'objet d'un recours",
+    "added_at": "2025-10-12T17:15:52.223Z"
+  },
+  {
+    "title": "Sébastien Lecornu est à l'Elysée pour s'entretenir avec Emmanuel Macron",
+    "added_at": "2025-10-12T17:29:07.281Z"
+  },
+  {
+    "title": "Sébastien Lecornu rencontre Emmanuel Macron à l'Elysée",
+    "added_at": "2025-10-12T17:51:59.832Z",
+    "removed_at": "2025-10-12T17:53:54.852Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Dans les coulisses du Haras national d'Avenches",
+    "added_at": "2025-10-12T18:03:25.527Z"
   }
 ]
