@@ -37,8 +37,9 @@
   {
     "title": "At least 6 killed in Mississippi shootings near high school football games, authorities say",
     "added_at": "2025-10-12T00:28:44.234Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-12T21:02:18.755Z",
+    "duration_minutes": 1234,
+    "duration_str": "20h 34m"
   },
   {
     "title": "Luigi Mangione’s lawyers seek dismissal of federal charges in UnitedHealthcare CEO assassination",
@@ -372,9 +373,9 @@
   {
     "title": "National Guard troops in Illinois can remain federalized but can’t be deployed, appeals court rules",
     "added_at": "2025-10-12T15:11:45.234Z",
-    "removed_at": "2025-10-12T16:25:22.527Z",
-    "duration_minutes": 74,
-    "duration_str": "1h 14m"
+    "removed_at": "2025-10-12T16:24:32.072Z",
+    "duration_minutes": 73,
+    "duration_str": "1h 13m"
   },
   {
     "title": "Protesters clash with police outside ICE facility",
@@ -397,24 +398,89 @@
   {
     "title": "Serious flooding is underway from a strong nor’easter unleashing damaging winds as it moves up the East Coast",
     "added_at": "2025-10-12T17:10:05.758Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-12T19:51:04.413Z",
+    "duration_minutes": 161,
+    "duration_str": "2h 41m"
   },
   {
     "title": "There have been multiple reports of clashes between the militant group and clans opposing it recently",
     "added_at": "2025-10-12T18:39:09.316Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-12T20:42:16.482Z",
+    "duration_minutes": 123,
+    "duration_str": "2h 3m"
   },
   {
     "title": "Israel says 20 living hostages will be released tomorrow as Trump set to depart for the region",
     "added_at": "2025-10-12T18:39:09.316Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-12T20:42:16.482Z",
+    "duration_minutes": 123,
+    "duration_str": "2h 3m"
   },
   {
     "title": "Bash presses Jordan on indictments: ‘So this is retribution then’",
     "added_at": "2025-10-12T18:59:12.220Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Strong nor’easter forces water rescues and inundates roads as it moves up the East Coast",
+    "added_at": "2025-10-12T19:51:04.413Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "CNN visits hospital where Israeli hostages will be released",
+    "added_at": "2025-10-12T19:57:44.983Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Netanyahu hails ‘new era,’ saying ‘sons will return to their homeland’",
+    "added_at": "2025-10-12T20:11:05.691Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Netanyahu speaks of ‘emotional evening’ ahead of planned hostage release",
+    "added_at": "2025-10-12T20:17:46.977Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Israel says 20 living hostages will be released tomorrow. Trump is traveling to the region.",
+    "added_at": "2025-10-12T20:42:16.482Z",
+    "removed_at": "2025-10-12T20:44:30.741Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Hamas asserts control in Gaza as ceasefire takes hold",
+    "added_at": "2025-10-12T20:42:16.482Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Israel says 20 living hostages will be released Monday. Trump is traveling to the region.",
+    "added_at": "2025-10-12T20:44:30.741Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Mark Sanchez booked and released from custody, breaks silence following Indianapolis fight",
+    "added_at": "2025-10-12T21:02:18.755Z",
+    "removed_at": "2025-10-12T21:04:33.711Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Mark Sanchez released from custody, breaks silence following Indianapolis fight",
+    "added_at": "2025-10-12T21:04:33.711Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Analysis: Beijing shrugs at Trump’s latest tariff threat",
+    "added_at": "2025-10-12T21:24:36.940Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
