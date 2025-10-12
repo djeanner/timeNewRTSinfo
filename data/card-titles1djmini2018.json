@@ -52123,7 +52123,10 @@
   },
   {
     "title": "120 secondes - L'armée suisse veut investir dans l’espace",
-    "added_at": "2025-10-10T10:01:48.713Z"
+    "added_at": "2025-10-10T10:01:48.713Z",
+    "removed_at": "2025-10-12T03:01:04.113Z",
+    "duration_minutes": 2459,
+    "duration_str": "1d 16h 59m"
   },
   {
     "title": "Netflix augmente ses prix en Suisse avec effet immédiat",
@@ -52477,5 +52480,9 @@
   {
     "title": "La justice américaine freine le déploiement des gardes nationaux à Chicago",
     "added_at": "2025-10-12T01:44:44.998Z"
+  },
+  {
+    "title": "L'invité de La Matinale - Gabriel Galice, président de l'Institut international de recherches pour la paix à Genève",
+    "added_at": "2025-10-12T03:01:04.113Z"
   }
 ]
