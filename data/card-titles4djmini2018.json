@@ -102669,11 +102669,17 @@
   },
   {
     "title": "Science fair explosion injures 17 in Argentina",
-    "added_at": "2025-10-11T01:40:07.641Z"
+    "added_at": "2025-10-11T01:40:07.641Z",
+    "removed_at": "2025-10-12T18:58:50.333Z",
+    "duration_minutes": 2478,
+    "duration_str": "1d 17h 18m"
   },
   {
     "title": "Trump announces new 100% tariff on China, escalating trade war",
-    "added_at": "2025-10-11T01:43:52.672Z"
+    "added_at": "2025-10-11T01:43:52.672Z",
+    "removed_at": "2025-10-12T19:57:42.369Z",
+    "duration_minutes": 2533,
+    "duration_str": "1d 18h 13m"
   },
   {
     "title": "An emboldened Kim Jong Un shows off North Korea’s new hypersonic weapon, ICBM",
@@ -102684,7 +102690,10 @@
   },
   {
     "title": "Hegseth announces Qatar to build Air Force facility in Idaho",
-    "added_at": "2025-10-11T01:55:16.094Z"
+    "added_at": "2025-10-11T01:55:16.094Z",
+    "removed_at": "2025-10-12T20:18:40.389Z",
+    "duration_minutes": 2543,
+    "duration_str": "1d 18h 23m"
   },
   {
     "title": "Death toll rises in Philippines after twin quake triggering 2 tsunami warnings",
@@ -103120,7 +103129,10 @@
   },
   {
     "title": "Between grief and joy, Israel awaits the return of its hostages",
-    "added_at": "2025-10-11T20:49:35.935Z"
+    "added_at": "2025-10-11T20:49:35.935Z",
+    "removed_at": "2025-10-12T20:16:43.940Z",
+    "duration_minutes": 1407,
+    "duration_str": "23h 27m"
   },
   {
     "title": "Diane Keaton, ‘La-Dee-Da’ dame of Hollywood, dead at 79",
@@ -103409,7 +103421,10 @@
   },
   {
     "title": "Troops aren’t Trump’s only weapon against big blue cities",
-    "added_at": "2025-10-12T10:22:34.584Z"
+    "added_at": "2025-10-12T10:22:34.584Z",
+    "removed_at": "2025-10-12T18:39:47.314Z",
+    "duration_minutes": 497,
+    "duration_str": "8h 17m"
   },
   {
     "title": "Investigators tread carefully at charred Tennessee explosives plant as families of 16 blast victims learn of their loss",
@@ -103496,7 +103511,10 @@
   },
   {
     "title": "Hostages are set to be released Monday with hundreds of Palestinian prisoners also due to be freed as Trump departs for the Middle East",
-    "added_at": "2025-10-12T14:39:32.158Z"
+    "added_at": "2025-10-12T14:39:32.158Z",
+    "removed_at": "2025-10-12T18:39:47.314Z",
+    "duration_minutes": 240,
+    "duration_str": "4h"
   },
   {
     "title": "Diane Keaton was a pioneer for modern women, both on and off the screen",
@@ -103512,7 +103530,10 @@
   },
   {
     "title": "Hamas asserts control in Gaza and targets alleged collaborators as ceasefire takes hold",
-    "added_at": "2025-10-12T15:06:12.746Z"
+    "added_at": "2025-10-12T15:06:12.746Z",
+    "removed_at": "2025-10-12T18:39:47.314Z",
+    "duration_minutes": 213,
+    "duration_str": "3h 33m"
   },
   {
     "title": "More than half of CDC staffers recently fired by Trump administration have been reinstated",
@@ -103543,6 +103564,58 @@
   },
   {
     "title": "Serious flooding is underway from a strong nor’easter unleashing damaging winds as it moves up the East Coast",
-    "added_at": "2025-10-12T17:10:10.201Z"
+    "added_at": "2025-10-12T17:10:10.201Z",
+    "removed_at": "2025-10-12T19:50:09.316Z",
+    "duration_minutes": 159,
+    "duration_str": "2h 39m"
+  },
+  {
+    "title": "There have been multiple reports of clashes between the militant group and clans opposing it recently",
+    "added_at": "2025-10-12T18:39:47.314Z",
+    "removed_at": "2025-10-12T20:43:17.392Z",
+    "duration_minutes": 123,
+    "duration_str": "2h 3m"
+  },
+  {
+    "title": "Israel says 20 living hostages will be released tomorrow as Trump set to depart for the region",
+    "added_at": "2025-10-12T18:39:47.314Z",
+    "removed_at": "2025-10-12T20:43:17.392Z",
+    "duration_minutes": 123,
+    "duration_str": "2h 3m"
+  },
+  {
+    "title": "Bash presses Jordan on indictments: ‘So this is retribution then’",
+    "added_at": "2025-10-12T18:58:50.333Z"
+  },
+  {
+    "title": "Strong nor’easter forces water rescues and inundates roads as it moves up the East Coast",
+    "added_at": "2025-10-12T19:50:09.316Z"
+  },
+  {
+    "title": "CNN visits hospital where Israeli hostages will be released",
+    "added_at": "2025-10-12T19:57:42.369Z"
+  },
+  {
+    "title": "Netanyahu hails ‘new era,’ saying ‘sons will return to their homeland’",
+    "added_at": "2025-10-12T20:11:02.328Z"
+  },
+  {
+    "title": "Netanyahu speaks of ‘emotional evening’ ahead of planned hostage release",
+    "added_at": "2025-10-12T20:18:40.389Z"
+  },
+  {
+    "title": "Israel says 20 living hostages will be released tomorrow. Trump is traveling to the region.",
+    "added_at": "2025-10-12T20:43:17.392Z",
+    "removed_at": "2025-10-12T20:45:12.577Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Hamas asserts control in Gaza as ceasefire takes hold",
+    "added_at": "2025-10-12T20:43:17.392Z"
+  },
+  {
+    "title": "Israel says 20 living hostages will be released Monday. Trump is traveling to the region.",
+    "added_at": "2025-10-12T20:45:12.577Z"
   }
 ]
