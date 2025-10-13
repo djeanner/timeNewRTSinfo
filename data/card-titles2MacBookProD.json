@@ -40969,7 +40969,10 @@
   },
   {
     "title": "monde:::La mission très délicate qui attend le CICR à Gaza",
-    "added_at": "2025-10-10T06:06:24.231Z"
+    "added_at": "2025-10-10T06:06:24.231Z",
+    "removed_at": "2025-10-13T03:04:05.624Z",
+    "duration_minutes": 4137,
+    "duration_str": "2d 20h 57m"
   },
   {
     "title": "sport:::Le Suédois Alexander Isak, transfert fracassant et star discrète du football",
@@ -41548,7 +41551,10 @@
   },
   {
     "title": "monde:::A Madagascar, des militaires mutinés désignent un nouveau chef d’état-major",
-    "added_at": "2025-10-12T19:57:44.584Z"
+    "added_at": "2025-10-12T19:57:44.584Z",
+    "removed_at": "2025-10-13T04:17:27.716Z",
+    "duration_minutes": 499,
+    "duration_str": "8h 19m"
   },
   {
     "title": "monde:::En France, Sébastien Lecornu livre une liste de ministres aux profils souvent techniques",
@@ -41563,10 +41569,35 @@
   },
   {
     "title": "monde:::Moyen-Orient – Notre suivi de la semaine du 6 octobre",
-    "added_at": "2025-10-12T22:35:58.126Z"
+    "added_at": "2025-10-12T22:35:58.126Z",
+    "removed_at": "2025-10-13T04:13:00.943Z",
+    "duration_minutes": 337,
+    "duration_str": "5h 37m"
   },
   {
     "title": "monde:::Guerre en Ukraine − Notre suivi de la semaine du 6 octobre",
-    "added_at": "2025-10-13T00:05:08.242Z"
+    "added_at": "2025-10-13T00:05:08.242Z",
+    "removed_at": "2025-10-13T03:04:05.624Z",
+    "duration_minutes": 178,
+    "duration_str": "2h 58m"
+  },
+  {
+    "title": "monde:::Moyen-Orient, en direct – Le Hamas s'apprête à libérer les otages détenus à Gaza",
+    "added_at": "2025-10-13T03:04:05.624Z",
+    "removed_at": "2025-10-13T04:33:02.634Z",
+    "duration_minutes": 88,
+    "duration_str": "1h 28m"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine, en direct − La menace de fournir des missiles Tomahawk à Kiev brandie par Donald Trump",
+    "added_at": "2025-10-13T03:04:05.624Z"
+  },
+  {
+    "title": "monde:::«Ici, même les djihadistes se taillent la barbe»: Mashta el-Helou, le village syrien où tout est possible",
+    "added_at": "2025-10-13T04:17:27.716Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient, en direct – Le Hamas publie la liste des vingt otages qui s'apprêtent à être libérés",
+    "added_at": "2025-10-13T04:33:02.634Z"
   }
 ]
