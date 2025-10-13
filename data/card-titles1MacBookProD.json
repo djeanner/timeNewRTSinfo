@@ -27440,7 +27440,10 @@
   },
   {
     "title": "Fin de Windows 10: ça change quoi pour nous ?",
-    "added_at": "2025-10-10T05:17:37.842Z"
+    "added_at": "2025-10-10T05:17:37.842Z",
+    "removed_at": "2025-10-13T10:03:38.599Z",
+    "duration_minutes": 4606,
+    "duration_str": "3d 4h 46m"
   },
   {
     "title": "La présidente du Pérou Dina Boluarte destituée par le Parlement",
@@ -27707,7 +27710,10 @@
   },
   {
     "title": "Marco Sieber s'entraîne à vivre comme sur la Lune dans les grottes des Apennins",
-    "added_at": "2025-10-10T18:52:44.267Z"
+    "added_at": "2025-10-10T18:52:44.267Z",
+    "removed_at": "2025-10-13T08:05:36.844Z",
+    "duration_minutes": 3672,
+    "duration_str": "2d 13h 12m"
   },
   {
     "title": "L'annonce d'un plan de paix suscite un immense espoir à Gaza comme en Israël",
@@ -27761,7 +27767,10 @@
   },
   {
     "title": "Une équipe de RSI parvient à entrer au cœur d'une distribution d'aide à Rafah",
-    "added_at": "2025-10-10T20:55:54.328Z"
+    "added_at": "2025-10-10T20:55:54.328Z",
+    "removed_at": "2025-10-13T09:27:58.284Z",
+    "duration_minutes": 3632,
+    "duration_str": "2d 12h 32m"
   },
   {
     "title": "Une explosion dans une usine fait dix-neuf disparus aux Etats-Unis",
@@ -27798,11 +27807,17 @@
   },
   {
     "title": "Des menaces sur la démocratie, la quête de la pomme parfaite et la Coupe du monde de Trump",
-    "added_at": "2025-10-11T06:17:24.706Z"
+    "added_at": "2025-10-11T06:17:24.706Z",
+    "removed_at": "2025-10-13T09:21:16.939Z",
+    "duration_minutes": 3063,
+    "duration_str": "2d 3h 3m"
   },
   {
     "title": "\"Nahed, une voix de Gaza\": deux ans de survie sous les bombes",
-    "added_at": "2025-10-11T07:01:52.286Z"
+    "added_at": "2025-10-11T07:01:52.286Z",
+    "removed_at": "2025-10-13T09:36:52.417Z",
+    "duration_minutes": 3035,
+    "duration_str": "2d 2h 35m"
   },
   {
     "title": "Qui sont les \"antifa\" que Donald Trump et des Européens veulent éradiquer?",
@@ -27813,7 +27828,10 @@
   },
   {
     "title": "L'IA s'humanise dans \"Tron: Ares\", troisième volet peu convaincant de la saga",
-    "added_at": "2025-10-11T08:20:06.933Z"
+    "added_at": "2025-10-11T08:20:06.933Z",
+    "removed_at": "2025-10-13T09:34:37.915Z",
+    "duration_minutes": 2954,
+    "duration_str": "2d 1h 14m"
   },
   {
     "title": "Le groupe marseillais Landmvrks sacré meilleur artiste de metal de l'année",
@@ -27824,7 +27842,10 @@
   },
   {
     "title": "Les courses de cochons, stars incontestées de l'OLMA à Saint-Gall",
-    "added_at": "2025-10-11T08:46:47.857Z"
+    "added_at": "2025-10-11T08:46:47.857Z",
+    "removed_at": "2025-10-13T09:59:12.937Z",
+    "duration_minutes": 2952,
+    "duration_str": "2d 1h 12m"
   },
   {
     "title": "Le président libanais dénonce des frappes nocturnes israéliennes",
@@ -28339,14 +28360,14 @@
   },
   {
     "title": "Les premiers otages israéliens remis à la Croix-Rouge par le Hamas",
-    "added_at": "2025-10-13T05:17:42.851Z"
+    "added_at": "2025-10-13T05:17:42.851Z",
+    "removed_at": "2025-10-13T07:58:55.823Z",
+    "duration_minutes": 161,
+    "duration_str": "2h 41m"
   },
   {
     "title": "Quel avenir pour l’UNRWA à Gaza? Interview de Philippe Lazzarini",
-    "added_at": "2025-10-13T06:22:16.452Z",
-    "removed_at": "2025-10-13T07:22:25.658Z",
-    "duration_minutes": 60,
-    "duration_str": "1h"
+    "added_at": "2025-10-13T06:22:16.452Z"
   },
   {
     "title": "Au carrefour de l'art sonore et des arts visuels, KorSonoR résonne à Genève",
@@ -28355,5 +28376,54 @@
   {
     "title": "Forum des médias - La France ne sort pas de la crise politique",
     "added_at": "2025-10-13T07:22:25.658Z"
+  },
+  {
+    "title": "Les derniers otages israéliens vivants ont été remis à la Croix-Rouge par le Hamas",
+    "added_at": "2025-10-13T07:58:55.823Z",
+    "removed_at": "2025-10-13T08:05:36.844Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
+  },
+  {
+    "title": "Tous les otages israéliens vivants ont été remis à la Croix-Rouge par le Hamas",
+    "added_at": "2025-10-13T08:05:36.844Z",
+    "removed_at": "2025-10-13T08:07:51.386Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Cyberattaques, désinformation, drones: le continent européen mal préparé face aux menaces hybrides",
+    "added_at": "2025-10-13T08:05:36.844Z"
+  },
+  {
+    "title": "Tous les otages israéliens vivants ont désormais été remis à la Croix-Rouge par le Hamas",
+    "added_at": "2025-10-13T08:07:51.386Z"
+  },
+  {
+    "title": "Une innovation prometteuse pourrait permettre de mieux détecter les cancers du sein",
+    "added_at": "2025-10-13T09:21:16.939Z"
+  },
+  {
+    "title": "Le verre sous toutes ses facettes dans une exposition au Château de Nyon",
+    "added_at": "2025-10-13T09:27:58.284Z"
+  },
+  {
+    "title": "L'Espagne utilise l'IA pour évaluer le risque de récidive des détenus",
+    "added_at": "2025-10-13T09:34:37.915Z"
+  },
+  {
+    "title": "Des frappes russes causent des coupures d'électricité dans au moins sept régions d'Ukraine",
+    "added_at": "2025-10-13T09:36:52.417Z"
+  },
+  {
+    "title": "Le prix Nobel d'économie attribué à un trio de chercheurs pour avoir expliqué la croissance économique tirée par l'innovation",
+    "added_at": "2025-10-13T09:59:12.937Z",
+    "removed_at": "2025-10-13T10:08:05.050Z",
+    "duration_minutes": 8,
+    "duration_str": "8m"
+  },
+  {
+    "title": "Le Nobel d'économie 2025 décerné à un trio pour leurs travaux sur la croissance et l'innovation",
+    "added_at": "2025-10-13T10:08:05.050Z"
   }
 ]
