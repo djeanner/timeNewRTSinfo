@@ -40857,7 +40857,10 @@
   },
   {
     "title": "monde:::A Madagascar, un président en fuite et des militaires faisant irruption à la télévision publique",
-    "added_at": "2025-10-13T16:58:02.273Z"
+    "added_at": "2025-10-13T16:58:02.273Z",
+    "removed_at": "2025-10-13T22:55:12.895Z",
+    "duration_minutes": 357,
+    "duration_str": "5h 57m"
   },
   {
     "title": "sciences:::Obésité: en cas de diabète associé, la chirurgie reste plus efficace que les médicaments",
@@ -40865,10 +40868,7 @@
   },
   {
     "title": "suisse:::«Les dégâts causés samedi à Berne sont inacceptables»",
-    "added_at": "2025-10-13T17:26:20.225Z",
-    "removed_at": "2025-10-13T19:42:31.959Z",
-    "duration_minutes": 136,
-    "duration_str": "2h 16m"
+    "added_at": "2025-10-13T17:26:20.225Z"
   },
   {
     "title": "suisse:::Après la libération des otages, un soulagement mêlé de prudence au sein des communautés juive et musulmane de Suisse",
@@ -40903,5 +40903,9 @@
   {
     "title": "sport:::La Suisse devra patienter pour valider son ticket pour la Coupe du monde 2026 après un nul en Slovénie",
     "added_at": "2025-10-13T20:42:58.632Z"
+  },
+  {
+    "title": "monde:::A Madagascar, le président contesté écarte toute démission",
+    "added_at": "2025-10-13T22:55:12.895Z"
   }
 ]
