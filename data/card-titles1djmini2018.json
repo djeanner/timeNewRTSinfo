@@ -26417,7 +26417,10 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T21:30:25.517Z"
+    "added_at": "2025-07-25T21:30:25.517Z",
+    "removed_at": "2025-10-13T02:20:10.284Z",
+    "duration_minutes": 114049,
+    "duration_str": "79d 4h 49m"
   },
   {
     "title": "La légende du catch Hulk Hogan est décédée à l'âge de 71 ans",
@@ -52323,7 +52326,10 @@
   },
   {
     "title": "La grippe retrouve ses niveaux d'avant la pandémie de Covid-19",
-    "added_at": "2025-10-10T17:21:41.031Z"
+    "added_at": "2025-10-10T17:21:41.031Z",
+    "removed_at": "2025-10-13T03:22:49.503Z",
+    "duration_minutes": 3481,
+    "duration_str": "2d 10h 1m"
   },
   {
     "title": "L’exposition \"Vieillir en Suisse en tant qu’étranger·ère \" a ouvert ses portes mardi: interview de Maria Folleco et Jean-François Bickel",
@@ -52637,7 +52643,10 @@
   },
   {
     "title": "Au Mexique, des pluies torrentielles causent la mort d'au moins 41 personnes",
-    "added_at": "2025-10-12T06:28:21.169Z"
+    "added_at": "2025-10-12T06:28:21.169Z",
+    "removed_at": "2025-10-13T03:15:17.263Z",
+    "duration_minutes": 1246,
+    "duration_str": "20h 46m"
   },
   {
     "title": "Une explosion dans une usine fait seize disparus aux Etats-Unis",
@@ -52769,7 +52778,10 @@
   },
   {
     "title": "Un \"sommet pour la paix\" sur Gaza réunira lundi une vingtaine de dirigeants, sans Israël et le Hamas",
-    "added_at": "2025-10-12T15:19:32.239Z"
+    "added_at": "2025-10-12T15:19:32.239Z",
+    "removed_at": "2025-10-13T03:41:49.570Z",
+    "duration_minutes": 742,
+    "duration_str": "12h 22m"
   },
   {
     "title": "Un Vaudois réalise un \"saut de la mort\" au-dessus du Léman depuis une montgolfière",
@@ -52928,5 +52940,21 @@
   {
     "title": "L'extrême droite portugaise franchit un nouveau palier après les élections municipales",
     "added_at": "2025-10-12T23:32:47.288Z"
+  },
+  {
+    "title": "Une partie de l’armée malgache rejoint les manifestations de la jeunesse",
+    "added_at": "2025-10-13T02:20:10.284Z"
+  },
+  {
+    "title": "Au Mexique, des pluies torrentielles causent la mort d'au moins 47 personnes",
+    "added_at": "2025-10-13T03:15:17.263Z"
+  },
+  {
+    "title": "Nicolas Sarkozy convoqué en vue de son incarcération imminente dans le dossier libyen",
+    "added_at": "2025-10-13T03:22:49.503Z"
+  },
+  {
+    "title": "La libération des otages israéliens attendue à partir de 7h00 (heure suisse)",
+    "added_at": "2025-10-13T03:41:49.570Z"
   }
 ]
