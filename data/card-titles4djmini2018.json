@@ -103840,7 +103840,10 @@
   },
   {
     "title": "First seven hostages released to the Red Cross, Israeli sources say. Twenty living hostages are expected to be released to the Israeli military after two years in Hamas captivity.",
-    "added_at": "2025-10-13T05:36:03.896Z"
+    "added_at": "2025-10-13T05:36:03.896Z",
+    "removed_at": "2025-10-13T06:50:26.790Z",
+    "duration_minutes": 74,
+    "duration_str": "1h 14m"
   },
   {
     "title": "Cheers in Hostages Square as hostage release process begins",
@@ -103859,7 +103862,10 @@
   },
   {
     "title": "Helicopters arrive in Israel in preparation for hostage arrival",
-    "added_at": "2025-10-13T05:58:52.952Z"
+    "added_at": "2025-10-13T05:58:52.952Z",
+    "removed_at": "2025-10-13T08:45:48.204Z",
+    "duration_minutes": 166,
+    "duration_str": "2h 46m"
   },
   {
     "title": "Ukraine and Russia’s intensifying energy war brings gas shortages, economic pain",
@@ -103868,5 +103874,59 @@
   {
     "title": "Two years after October 7, Trump heads to Israel having done what Biden could not",
     "added_at": "2025-10-13T06:27:25.290Z"
+  },
+  {
+    "title": "The first seven hostages arrive in Israel after two years in Hamas captivity as US President Trump touches down near Tel Aviv",
+    "added_at": "2025-10-13T06:50:26.790Z",
+    "removed_at": "2025-10-13T06:52:22.600Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "US President Trump touches down near Tel Aviv as first seven hostages arrive in Israel after two years in Hamas captivity",
+    "added_at": "2025-10-13T06:52:22.600Z",
+    "removed_at": "2025-10-13T06:58:04.579Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "US President Trump touches down in Israel as first seven hostages are freed after two years in Hamas captivity",
+    "added_at": "2025-10-13T06:58:04.579Z",
+    "removed_at": "2025-10-13T07:47:14.316Z",
+    "duration_minutes": 49,
+    "duration_str": "49m"
+  },
+  {
+    "title": "Mother of released hostage speaks to him on video call",
+    "added_at": "2025-10-13T07:17:03.372Z"
+  },
+  {
+    "title": "A first group of seven hostages from Gaza are among 20 expected to return today. Trump is due to address the country’s parliament.",
+    "added_at": "2025-10-13T07:47:14.316Z",
+    "removed_at": "2025-10-13T08:08:01.143Z",
+    "duration_minutes": 20,
+    "duration_str": "20m"
+  },
+  {
+    "title": "Final group of hostages handed to the Red Cross in Gaza. Trump is due to address the Israeli parliament.",
+    "added_at": "2025-10-13T08:08:01.143Z",
+    "removed_at": "2025-10-13T08:45:48.204Z",
+    "duration_minutes": 37,
+    "duration_str": "37m"
+  },
+  {
+    "title": "Final group of hostages handed to the Red Cross in Gaza. Trump addresses the Israeli parliament.",
+    "added_at": "2025-10-13T08:11:51.194Z",
+    "removed_at": "2025-10-13T08:13:40.906Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Hamas holds no living hostages for the first time in two years. Trump is about to address the Knesset.",
+    "added_at": "2025-10-13T08:45:48.204Z"
+  },
+  {
+    "title": "Helicopters arrive in Israel in preparation for hostage return",
+    "added_at": "2025-10-13T08:45:48.204Z"
   }
 ]

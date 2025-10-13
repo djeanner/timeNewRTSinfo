@@ -40485,7 +40485,10 @@
   },
   {
     "title": "suisse:::Des millions de dégâts et au moins 20 blessés: le lourd bilan de la manifestation pour la Palestine à Berne",
-    "added_at": "2025-10-12T19:51:58.862Z"
+    "added_at": "2025-10-12T19:51:58.862Z",
+    "removed_at": "2025-10-13T08:06:10.696Z",
+    "duration_minutes": 734,
+    "duration_str": "12h 14m"
   },
   {
     "title": "economie:::2025, l’année de tous les records étranges",
@@ -40575,10 +40578,63 @@
   },
   {
     "title": "monde:::Guerre en Ukraine, en direct − Donald Trump brandit la menace de fournir des missiles Tomahawk à l'Ukraine",
-    "added_at": "2025-10-13T05:43:43.059Z"
+    "added_at": "2025-10-13T05:43:43.059Z",
+    "removed_at": "2025-10-13T08:17:29.759Z",
+    "duration_minutes": 153,
+    "duration_str": "2h 33m"
   },
   {
     "title": "monde:::Moyen-Orient, en direct – Le Hamas a libéré sept premiers otages israéliens, le CICR confirme que l'échange avec les prisonniers palestiniens a commencé",
-    "added_at": "2025-10-13T05:56:57.608Z"
+    "added_at": "2025-10-13T05:56:57.608Z",
+    "removed_at": "2025-10-13T06:46:40.339Z",
+    "duration_minutes": 49,
+    "duration_str": "49m"
+  },
+  {
+    "title": "monde:::Israël, en direct – Le Hamas a libéré sept premiers otages israéliens, le CICR confirme que l'échange avec les prisonniers palestiniens a commencé",
+    "added_at": "2025-10-13T06:46:40.339Z",
+    "removed_at": "2025-10-13T07:15:11.316Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
+  },
+  {
+    "title": "monde:::Israël, en direct – Le Hamas a libéré sept premiers otages israéliens de Gaza, le CICR en route pour d’autres évacuations",
+    "added_at": "2025-10-13T07:15:11.316Z",
+    "removed_at": "2025-10-13T07:54:49.736Z",
+    "duration_minutes": 39,
+    "duration_str": "39m"
+  },
+  {
+    "title": "monde:::En direct, Israël – Le Hamas a libéré sept premiers otages israéliens de Gaza, le CICR en route pour d’autres évacuations",
+    "added_at": "2025-10-13T07:54:49.736Z",
+    "removed_at": "2025-10-13T07:56:40.223Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "monde:::En direct, Gaza – Le Hamas a libéré sept premiers otages israéliens, le CICR en route pour d’autres évacuations",
+    "added_at": "2025-10-13T07:56:40.223Z",
+    "removed_at": "2025-10-13T08:06:10.696Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "suisse:::Grèves et divergences: syndicats et employeurs sont encore loin d’un accord sur la CCT de la construction",
+    "added_at": "2025-10-13T08:06:10.696Z"
+  },
+  {
+    "title": "monde:::En direct, Gaza – Le Hamas a libéré tous les otages encore vivants qu'il détenait, selon les médias israéliens",
+    "added_at": "2025-10-13T08:06:10.696Z",
+    "removed_at": "2025-10-13T08:49:31.383Z",
+    "duration_minutes": 43,
+    "duration_str": "43m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Donald Trump brandit la menace de fournir des missiles Tomahawk à l'Ukraine",
+    "added_at": "2025-10-13T08:17:29.759Z"
+  },
+  {
+    "title": "monde:::En direct, Gaza – Le Hamas a relâché tous les otages encore vivants qu'il détenait, la libération des prisonniers palestiniens commence",
+    "added_at": "2025-10-13T08:49:31.383Z"
   }
 ]
