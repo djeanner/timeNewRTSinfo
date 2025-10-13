@@ -52543,7 +52543,10 @@
   },
   {
     "title": "Clés perdues: attention, des escrocs profitent de situations d'urgence",
-    "added_at": "2025-10-11T12:13:45.077Z"
+    "added_at": "2025-10-11T12:13:45.077Z",
+    "removed_at": "2025-10-13T19:04:46.562Z",
+    "duration_minutes": 3291,
+    "duration_str": "2d 6h 51m"
   },
   {
     "title": "Alors que la sécheresse s’aggrave, l’Iran envisage de déplacer sa capitale",
@@ -52708,9 +52711,9 @@
   {
     "title": "Une explosion dans une usine fait seize disparus aux Etats-Unis",
     "added_at": "2025-10-12T06:57:05.455Z",
-    "removed_at": "2025-10-13T17:15:00.898Z",
-    "duration_minutes": 2057,
-    "duration_str": "1d 10h 17m"
+    "removed_at": "2025-10-13T18:49:36.512Z",
+    "duration_minutes": 2152,
+    "duration_str": "1d 11h 52m"
   },
   {
     "title": "L'opposant Patrick Herminie reprend les rênes des Seychelles",
@@ -52964,7 +52967,10 @@
   },
   {
     "title": "France: Sébastien Lecornu reconduit au poste de Premier ministre",
-    "added_at": "2025-10-12T22:26:03.554Z"
+    "added_at": "2025-10-12T22:26:03.554Z",
+    "removed_at": "2025-10-13T20:22:11.835Z",
+    "duration_minutes": 1316,
+    "duration_str": "21h 56m"
   },
   {
     "title": "La tenue vestimentaire d'un élu lausannois d'Ensemble à gauche crée la controverse: interview de Musa Kamenica",
@@ -53133,10 +53139,7 @@
   },
   {
     "title": "L’aide humanitaire entre en plus grande quantité dans la bande de Gaza",
-    "added_at": "2025-10-13T12:15:43.520Z",
-    "removed_at": "2025-10-13T12:17:33.596Z",
-    "duration_minutes": 1,
-    "duration_str": "1m"
+    "added_at": "2025-10-13T12:15:43.520Z"
   },
   {
     "title": "Premier bilan préoccupant sur la traite des êtres humains en Valais",
@@ -53229,5 +53232,16 @@
   {
     "title": "Les commerçants font face à une multiplication des grands chantiers urbains en Suisse romande",
     "added_at": "2025-10-13T16:59:58.072Z"
+  },
+  {
+    "title": "Le Conseil fédéral redoute des pertes liées à l'initiative du \"Pour l'avenir\" des jeunes socialistes",
+    "added_at": "2025-10-13T19:04:46.562Z",
+    "removed_at": "2025-10-13T19:53:51.341Z",
+    "duration_minutes": 49,
+    "duration_str": "49m"
+  },
+  {
+    "title": "Le Conseil fédéral redoute des pertes liées à l'initiative \"Pour l'avenir\" des jeunes socialistes",
+    "added_at": "2025-10-13T19:53:51.341Z"
   }
 ]
