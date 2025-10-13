@@ -3747,7 +3747,10 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T19:02:44.375Z"
+    "added_at": "2025-07-25T19:02:44.375Z",
+    "removed_at": "2025-10-13T02:19:23.679Z",
+    "duration_minutes": 114196,
+    "duration_str": "79d 7h 16m"
   },
   {
     "title": "En Israël, la population sensible au sort des Gazaouis refuse d'en rendre son armée responsable",
@@ -28288,5 +28291,9 @@
   {
     "title": "L'extrême droite portugaise franchit un nouveau palier après les élections municipales",
     "added_at": "2025-10-12T23:31:32.507Z"
+  },
+  {
+    "title": "Une partie de l’armée malgache rejoint les manifestations de la jeunesse",
+    "added_at": "2025-10-13T02:19:23.679Z"
   }
 ]
