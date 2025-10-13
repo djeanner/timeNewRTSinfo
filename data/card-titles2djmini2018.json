@@ -40694,7 +40694,10 @@
   },
   {
     "title": "monde:::En images – A Gaza et à Tel-Aviv, le jour des libérations",
-    "added_at": "2025-10-13T10:07:09.334Z"
+    "added_at": "2025-10-13T10:07:09.334Z",
+    "removed_at": "2025-10-13T15:09:32.950Z",
+    "duration_minutes": 302,
+    "duration_str": "5h 2m"
   },
   {
     "title": "monde:::Marjorie Taylor Greene, la fan de Trump qui doute",
@@ -40741,11 +40744,17 @@
   },
   {
     "title": "culture:::Faraj Suleiman, invité de la Montreux Jazz Residency: «Je suis toujours connecté à mes racines»",
-    "added_at": "2025-10-13T12:13:47.736Z"
+    "added_at": "2025-10-13T12:13:47.736Z",
+    "removed_at": "2025-10-13T14:22:19.302Z",
+    "duration_minutes": 128,
+    "duration_str": "2h 8m"
   },
   {
     "title": "monde:::En direct – Donald Trump salue «l’aube d’un nouveau Moyen-Orient» après la libération des otages encore vivants",
-    "added_at": "2025-10-13T12:15:43.581Z"
+    "added_at": "2025-10-13T12:15:43.581Z",
+    "removed_at": "2025-10-13T15:51:43.686Z",
+    "duration_minutes": 216,
+    "duration_str": "3h 36m"
   },
   {
     "title": "suisse:::En Valais, 28 victimes de traite d’êtres humains ont été identifiées ces 18 derniers mois",
@@ -40766,5 +40775,35 @@
   {
     "title": "economie:::L’étude du rôle de l’innovation dans la croissance récompensé par le Nobel d’économie",
     "added_at": "2025-10-13T13:33:05.494Z"
+  },
+  {
+    "title": "sciences:::Les bisons de Yellowstone sont les anges gardiens de leur territoire",
+    "added_at": "2025-10-13T14:41:13.550Z"
+  },
+  {
+    "title": "monde:::Les Etats-Unis commencent à ressentir de manière croissante les effets du «shutdown»",
+    "added_at": "2025-10-13T14:41:13.550Z",
+    "removed_at": "2025-10-13T15:42:13.145Z",
+    "duration_minutes": 60,
+    "duration_str": "1h"
+  },
+  {
+    "title": "monde:::Libération des otages israéliens: «On célèbre tout en devant faire le deuil»",
+    "added_at": "2025-10-13T15:09:32.950Z",
+    "removed_at": "2025-10-13T15:55:27.899Z",
+    "duration_minutes": 45,
+    "duration_str": "45m"
+  },
+  {
+    "title": "monde:::Condamné, Nicolas Sarkozy garde le silence sur les modalités de son incarcération, tout comme le parquet",
+    "added_at": "2025-10-13T15:42:13.145Z"
+  },
+  {
+    "title": "monde:::En direct, Gaza – Israël a libéré 1968 détenus palestiniens",
+    "added_at": "2025-10-13T15:51:43.686Z"
+  },
+  {
+    "title": "monde:::Libération des otages israéliens: «On célèbre, tout en devant faire le deuil»",
+    "added_at": "2025-10-13T15:55:27.899Z"
   }
 ]
