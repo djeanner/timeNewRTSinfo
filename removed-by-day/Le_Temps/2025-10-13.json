@@ -50,8 +50,9 @@
   {
     "title": "monde:::Au Portugal, l'extrême droite franchit un palier lors des municipales",
     "added_at": "2025-10-13T05:26:36.344Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-13T11:30:43.585Z",
+    "duration_minutes": 364,
+    "duration_str": "6h 4m"
   },
   {
     "title": "monde:::Moyen-Orient, en direct – Les médias israéliens annoncent la libération des sept premiers otages",
@@ -70,13 +71,13 @@
   {
     "title": "monde:::Moyen-Orient, en direct – Le Hamas a libéré sept premiers otages israéliens, le CICR confirme que l'échange avec les prisonniers palestiniens a commencé",
     "added_at": "2025-10-13T05:56:57.608Z",
-    "removed_at": "2025-10-13T06:46:45.388Z",
+    "removed_at": "2025-10-13T06:46:40.339Z",
     "duration_minutes": 50,
     "duration_str": "50m"
   },
   {
     "title": "monde:::Israël, en direct – Le Hamas a libéré sept premiers otages israéliens, le CICR confirme que l'échange avec les prisonniers palestiniens a commencé",
-    "added_at": "2025-10-13T06:46:45.388Z",
+    "added_at": "2025-10-13T06:46:40.339Z",
     "removed_at": "2025-10-13T07:13:28.308Z",
     "duration_minutes": 27,
     "duration_str": "27m"
@@ -91,29 +92,29 @@
   {
     "title": "monde:::En direct, Israël – Le Hamas a libéré sept premiers otages israéliens de Gaza, le CICR en route pour d’autres évacuations",
     "added_at": "2025-10-13T07:54:28.673Z",
-    "removed_at": "2025-10-13T07:56:44.996Z",
+    "removed_at": "2025-10-13T07:56:40.223Z",
     "duration_minutes": 2,
     "duration_str": "2m"
   },
   {
     "title": "monde:::En direct, Gaza – Le Hamas a libéré sept premiers otages israéliens, le CICR en route pour d’autres évacuations",
-    "added_at": "2025-10-13T07:56:44.996Z",
-    "removed_at": "2025-10-13T08:07:51.430Z",
-    "duration_minutes": 11,
-    "duration_str": "11m"
+    "added_at": "2025-10-13T07:56:40.223Z",
+    "removed_at": "2025-10-13T08:06:10.696Z",
+    "duration_minutes": 10,
+    "duration_str": "10m"
   },
   {
     "title": "suisse:::Grèves et divergences: syndicats et employeurs sont encore loin d’un accord sur la CCT de la construction",
-    "added_at": "2025-10-13T08:07:51.430Z",
+    "added_at": "2025-10-13T08:06:10.696Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "monde:::En direct, Gaza – Le Hamas a libéré tous les otages encore vivants qu'il détenait, selon les médias israéliens",
-    "added_at": "2025-10-13T08:07:51.430Z",
-    "removed_at": "2025-10-13T08:50:06.948Z",
-    "duration_minutes": 42,
-    "duration_str": "42m"
+    "added_at": "2025-10-13T08:06:10.696Z",
+    "removed_at": "2025-10-13T08:49:31.383Z",
+    "duration_minutes": 43,
+    "duration_str": "43m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Donald Trump brandit la menace de fournir des missiles Tomahawk à l'Ukraine",
@@ -124,7 +125,7 @@
   },
   {
     "title": "monde:::En direct, Gaza – Le Hamas a relâché tous les otages encore vivants qu'il détenait, la libération des prisonniers palestiniens commence",
-    "added_at": "2025-10-13T08:50:06.948Z",
+    "added_at": "2025-10-13T08:49:31.383Z",
     "removed_at": "2025-10-13T09:56:56.305Z",
     "duration_minutes": 67,
     "duration_str": "1h 7m"
@@ -150,12 +151,76 @@
   {
     "title": "monde:::En direct, Gaza – Le Hamas a relâché tous les otages encore vivants qu'il détenait, Donald Trump s'adresse à la Knesset",
     "added_at": "2025-10-13T09:56:56.305Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-13T12:15:17.707Z",
+    "duration_minutes": 138,
+    "duration_str": "2h 18m"
   },
   {
     "title": "monde:::En images – A Gaza et à Tel-Aviv, le jour des libérations",
     "added_at": "2025-10-13T10:05:54.868Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Marjorie Taylor Greene, la fan de Trump qui doute",
+    "added_at": "2025-10-13T10:28:17.375Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, Gaza – Le Hamas a relâché tous les otages encore vivants qu'il détenait, Donald Trump accueilli en héros en Israël",
+    "added_at": "2025-10-13T10:55:01.217Z",
+    "removed_at": "2025-10-13T11:12:50.531Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
+  },
+  {
+    "title": "suisse:::A Lausanne, des commerçants proches du local d’injection de la Riponne dénoncent une situation «intenable»",
+    "added_at": "2025-10-13T11:21:45.434Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::Le Prix Nobel d’économie revient à Joel Mokyr, Philippe Aghion et Peter Howitt",
+    "added_at": "2025-10-13T11:30:43.585Z",
+    "removed_at": "2025-10-13T11:57:24.003Z",
+    "duration_minutes": 27,
+    "duration_str": "27m"
+  },
+  {
+    "title": "economie:::«Nous n’avons pas besoin de jouer les bons élèves du libéralisme»: l’industrie du Jura bernois en résistance face à la guerre commerciale de Donald Trump",
+    "added_at": "2025-10-13T11:41:49.190Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::L'étude du rôle de l’innovation dans la croissance récompensé par le Nobel d’économie",
+    "added_at": "2025-10-13T11:57:24.003Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::En Valais, 28 victimes de traite des êtres humains ont été identifiées ces 18 derniers mois",
+    "added_at": "2025-10-13T12:10:46.410Z",
+    "removed_at": "2025-10-13T12:37:33.274Z",
+    "duration_minutes": 27,
+    "duration_str": "27m"
+  },
+  {
+    "title": "culture:::Faraj Suleiman, invité de la Montreux Jazz Residency: «Je suis toujours connecté à mes racines»",
+    "added_at": "2025-10-13T12:13:01.260Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct – Donald Trump salue «l’aube d’un nouveau Moyen-Orient» après la libération des otages encore vivants",
+    "added_at": "2025-10-13T12:15:17.707Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::En Valais, 28 victimes de traite d’êtres humains ont été identifiées ces 18 derniers mois",
+    "added_at": "2025-10-13T12:37:33.274Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
