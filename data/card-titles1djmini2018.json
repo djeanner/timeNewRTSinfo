@@ -52073,7 +52073,10 @@
   },
   {
     "title": "Fin de Windows 10: ça change quoi pour nous ?",
-    "added_at": "2025-10-10T05:18:23.009Z"
+    "added_at": "2025-10-10T05:18:23.009Z",
+    "removed_at": "2025-10-13T10:03:23.440Z",
+    "duration_minutes": 4605,
+    "duration_str": "3d 4h 45m"
   },
   {
     "title": "La présidente du Pérou Dina Boluarte destituée par le Parlement",
@@ -52397,7 +52400,10 @@
   },
   {
     "title": "Une équipe de RSI parvient à entrer au cœur d'une distribution d'aide à Rafah",
-    "added_at": "2025-10-10T20:54:53.668Z"
+    "added_at": "2025-10-10T20:54:53.668Z",
+    "removed_at": "2025-10-13T09:27:32.222Z",
+    "duration_minutes": 3632,
+    "duration_str": "2d 12h 32m"
   },
   {
     "title": "Une explosion dans une usine fait dix-neuf disparus aux Etats-Unis",
@@ -52434,11 +52440,17 @@
   },
   {
     "title": "Des menaces sur la démocratie, la quête de la pomme parfaite et la Coupe du monde de Trump",
-    "added_at": "2025-10-11T06:17:44.046Z"
+    "added_at": "2025-10-11T06:17:44.046Z",
+    "removed_at": "2025-10-13T09:20:03.227Z",
+    "duration_minutes": 3062,
+    "duration_str": "2d 3h 2m"
   },
   {
     "title": "\"Nahed, une voix de Gaza\": deux ans de survie sous les bombes",
-    "added_at": "2025-10-11T07:01:34.844Z"
+    "added_at": "2025-10-11T07:01:34.844Z",
+    "removed_at": "2025-10-13T09:37:01.537Z",
+    "duration_minutes": 3035,
+    "duration_str": "2d 2h 35m"
   },
   {
     "title": "Qui sont les \"antifa\" que Donald Trump et des Européens veulent éradiquer?",
@@ -52449,7 +52461,10 @@
   },
   {
     "title": "L'IA s'humanise dans \"Tron: Ares\", troisième volet peu convaincant de la saga",
-    "added_at": "2025-10-11T08:19:30.796Z"
+    "added_at": "2025-10-11T08:19:30.796Z",
+    "removed_at": "2025-10-13T09:35:05.777Z",
+    "duration_minutes": 2955,
+    "duration_str": "2d 1h 15m"
   },
   {
     "title": "Le groupe marseillais Landmvrks sacré meilleur artiste de metal de l'année",
@@ -52460,7 +52475,10 @@
   },
   {
     "title": "Les courses de cochons, stars incontestées de l'OLMA à Saint-Gall",
-    "added_at": "2025-10-11T08:46:05.269Z"
+    "added_at": "2025-10-11T08:46:05.269Z",
+    "removed_at": "2025-10-13T09:59:39.600Z",
+    "duration_minutes": 2953,
+    "duration_str": "2d 1h 13m"
   },
   {
     "title": "Le président libanais dénonce des frappes nocturnes israéliennes",
@@ -52948,7 +52966,10 @@
   },
   {
     "title": "L'extrême droite portugaise franchit un nouveau palier après les élections municipales",
-    "added_at": "2025-10-12T23:32:47.288Z"
+    "added_at": "2025-10-12T23:32:47.288Z",
+    "removed_at": "2025-10-13T10:31:42.154Z",
+    "duration_minutes": 658,
+    "duration_str": "10h 58m"
   },
   {
     "title": "Une partie de l’armée malgache rejoint les manifestations de la jeunesse",
@@ -52997,10 +53018,7 @@
   },
   {
     "title": "Forum des médias - La France ne sort pas de la crise politique",
-    "added_at": "2025-10-13T07:22:42.629Z",
-    "removed_at": "2025-10-13T08:21:13.347Z",
-    "duration_minutes": 58,
-    "duration_str": "58m"
+    "added_at": "2025-10-13T07:22:42.629Z"
   },
   {
     "title": "Les derniers otages israéliens vivants ont été remis à la Croix-Rouge par le Hamas",
@@ -53023,5 +53041,36 @@
   {
     "title": "Tous les otages israéliens vivants ont désormais été remis à la Croix-Rouge par le Hamas",
     "added_at": "2025-10-13T08:08:00.403Z"
+  },
+  {
+    "title": "Une innovation prometteuse pourrait permettre de mieux détecter les cancers du sein",
+    "added_at": "2025-10-13T09:20:03.227Z"
+  },
+  {
+    "title": "Le verre sous toutes ses facettes dans une exposition au Château de Nyon",
+    "added_at": "2025-10-13T09:27:32.222Z"
+  },
+  {
+    "title": "L'Espagne utilise l'IA pour évaluer le risque de récidive des détenus",
+    "added_at": "2025-10-13T09:35:05.777Z"
+  },
+  {
+    "title": "Des frappes russes causent des coupures d'électricité dans au moins sept régions d'Ukraine",
+    "added_at": "2025-10-13T09:37:01.537Z"
+  },
+  {
+    "title": "Le prix Nobel d'économie attribué à un trio de chercheurs pour avoir expliqué la croissance économique tirée par l'innovation",
+    "added_at": "2025-10-13T09:59:39.600Z",
+    "removed_at": "2025-10-13T10:07:09.275Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Le Nobel d'économie 2025 décerné à un trio pour leurs travaux sur la croissance et l'innovation",
+    "added_at": "2025-10-13T10:07:09.275Z"
+  },
+  {
+    "title": "La droite au pouvoir remporte les élections municipales au Portugal",
+    "added_at": "2025-10-13T10:31:42.154Z"
   }
 ]
