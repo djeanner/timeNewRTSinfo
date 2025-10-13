@@ -27910,7 +27910,10 @@
   },
   {
     "title": "Clés perdues: attention, des escrocs profitent de situations d'urgence",
-    "added_at": "2025-10-11T12:13:54.629Z"
+    "added_at": "2025-10-11T12:13:54.629Z",
+    "removed_at": "2025-10-13T19:04:08.465Z",
+    "duration_minutes": 3290,
+    "duration_str": "2d 6h 50m"
   },
   {
     "title": "Alors que la sécheresse s’aggrave, l’Iran envisage de déplacer sa capitale",
@@ -28075,9 +28078,9 @@
   {
     "title": "Une explosion dans une usine fait seize disparus aux Etats-Unis",
     "added_at": "2025-10-12T06:57:42.811Z",
-    "removed_at": "2025-10-13T14:02:24.905Z",
-    "duration_minutes": 1864,
-    "duration_str": "1d 7h 4m"
+    "removed_at": "2025-10-13T18:50:41.843Z",
+    "duration_minutes": 2152,
+    "duration_str": "1d 11h 52m"
   },
   {
     "title": "L'opposant Patrick Herminie reprend les rênes des Seychelles",
@@ -28589,5 +28592,16 @@
   {
     "title": "Les commerçants font face à une multiplication des grands chantiers urbains en Suisse romande",
     "added_at": "2025-10-13T17:01:05.375Z"
+  },
+  {
+    "title": "Le Conseil fédéral redoute des pertes liées à l'initiative du \"Pour l'avenir\" des jeunes socialistes",
+    "added_at": "2025-10-13T19:04:08.465Z",
+    "removed_at": "2025-10-13T19:53:14.027Z",
+    "duration_minutes": 49,
+    "duration_str": "49m"
+  },
+  {
+    "title": "Le Conseil fédéral redoute des pertes liées à l'initiative \"Pour l'avenir\" des jeunes socialistes",
+    "added_at": "2025-10-13T19:53:14.027Z"
   }
 ]
