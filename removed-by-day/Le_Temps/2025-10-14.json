@@ -55,8 +55,9 @@
   {
     "title": "economie:::L’uniforme scolaire est plus moderne que ses détracteurs",
     "added_at": "2025-10-14T05:02:09.888Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-14T11:26:39.463Z",
+    "duration_minutes": 384,
+    "duration_str": "6h 24m"
   },
   {
     "title": "economie:::A Zurich, les banquiers doivent redoubler d’efforts pour trouver du travail",
@@ -67,9 +68,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine − Volodymyr Zelensky sera reçu vendredi à Washington",
     "added_at": "2025-10-14T05:53:24.845Z",
-    "removed_at": "2025-10-14T10:23:42.479Z",
-    "duration_minutes": 270,
-    "duration_str": "4h 30m"
+    "removed_at": "2025-10-14T10:22:25.801Z",
+    "duration_minutes": 269,
+    "duration_str": "4h 29m"
   },
   {
     "title": "suisse:::«Méconnaissance crasse» de la réalité transfrontalière: Genève ne décolère pas contre le rapport Weidmann",
@@ -94,8 +95,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Les partisans d’une reconnaissance de la Palestine par la Suisse présentent leur initiative",
     "added_at": "2025-10-14T08:36:36.756Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-14T12:49:10.560Z",
+    "duration_minutes": 253,
+    "duration_str": "4h 13m"
   },
   {
     "title": "monde:::Boris Vallaud, l’éléphanteau raffiné du PS français",
@@ -113,14 +115,16 @@
   {
     "title": "suisse:::La SSR va fusionner ses plateformes numériques Play Suisse, Play RTS et les autres",
     "added_at": "2025-10-14T10:12:35.559Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-14T13:24:54.736Z",
+    "duration_minutes": 192,
+    "duration_str": "3h 12m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − L’Ukraine accuse la Russie d’avoir attaqué un convoi humanitaire",
-    "added_at": "2025-10-14T10:23:42.479Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-10-14T10:22:25.801Z",
+    "removed_at": "2025-10-14T13:29:19.825Z",
+    "duration_minutes": 187,
+    "duration_str": "3h 7m"
   },
   {
     "title": "sciences:::Le premier réseau pérenne de télécommunications quantiques de Suisse entre en fonction à Genève",
@@ -137,13 +141,58 @@
   },
   {
     "title": "economie:::L’action d’Easyjet enfle suite à une rumeur de reprise par MSC",
-    "added_at": "2025-10-14T10:48:37.664Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-10-14T10:48:02.279Z",
+    "removed_at": "2025-10-14T11:42:19.203Z",
+    "duration_minutes": 54,
+    "duration_str": "54m"
   },
   {
     "title": "economie:::Le procès de l’ex-milliardaire René Benko, ancien propriétaire des magasins Globus, démarre en Autriche",
     "added_at": "2025-10-14T11:02:00.365Z",
+    "removed_at": "2025-10-14T12:11:18.035Z",
+    "duration_minutes": 69,
+    "duration_str": "1h 9m"
+  },
+  {
+    "title": "economie:::L’action d’EasyJet enfle à la suite d’une rumeur de reprise par MSC",
+    "added_at": "2025-10-14T11:42:19.203Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::La dépréciation des AT1 de Credit Suisse n'avait aucune base légale",
+    "added_at": "2025-10-14T12:11:18.035Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le CICR prévient que la remise des dépouilles d'otages prendra du temps",
+    "added_at": "2025-10-14T12:49:10.560Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "cyber:::L’industrie du jeu vidéo s’enfonce dans une crise multifactorielle inédite",
+    "added_at": "2025-10-14T13:11:30.856Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Chicago, nouveau champ de bataille – très médiatique – entre Donald Trump et ses opposants",
+    "added_at": "2025-10-14T13:24:54.736Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Frappe sur un convoi humanitaire: l'ONU condamne une «violation flagrante du droit international»",
+    "added_at": "2025-10-14T13:29:19.825Z",
+    "removed_at": "2025-10-14T13:31:36.003Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Attaque sur un convoi humanitaire: l'ONU condamne une «violation flagrante du droit international»",
+    "added_at": "2025-10-14T13:31:36.003Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
