@@ -249,7 +249,7 @@
   {
     "title": "culture:::Quelles lectures jeunesse pour les vacances? Dix livres pour s’instruire en s’amusant",
     "added_at": "2025-10-13T13:29:01.430Z",
-    "removed_at": "2025-10-13T18:35:02.618Z",
+    "removed_at": "2025-10-13T18:34:31.746Z",
     "duration_minutes": 306,
     "duration_str": "5h 6m"
   },
@@ -320,15 +320,16 @@
   {
     "title": "monde:::Nicolas Sarkozy sera incarcéré le 21 octobre à la Santé à Paris",
     "added_at": "2025-10-13T16:39:06.669Z",
-    "removed_at": "2025-10-13T18:28:26.684Z",
-    "duration_minutes": 109,
-    "duration_str": "1h 49m"
+    "removed_at": "2025-10-13T18:26:57.102Z",
+    "duration_minutes": 108,
+    "duration_str": "1h 48m"
   },
   {
     "title": "monde:::A Madagascar, un président en fuite et des militaires faisant irruption à la télévision publique",
     "added_at": "2025-10-13T16:58:02.273Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-13T22:54:13.688Z",
+    "duration_minutes": 356,
+    "duration_str": "5h 56m"
   },
   {
     "title": "sciences:::Obésité: en cas de diabète associé, la chirurgie reste plus efficace que les médicaments",
@@ -356,7 +357,7 @@
   },
   {
     "title": "culture:::Avec «L’Opéra de quat’sous» et Bertolt Brecht, les élèves du Conservatoire de Genève forgent leur révolution",
-    "added_at": "2025-10-13T18:35:02.618Z",
+    "added_at": "2025-10-13T18:34:31.746Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -368,15 +369,28 @@
   },
   {
     "title": "sport:::Tenue en échec après 45 minutes en Slovénie, la Suisse ne se rapproche pas de la Coupe du monde",
-    "added_at": "2025-10-13T19:44:22.407Z",
+    "added_at": "2025-10-13T19:42:31.959Z",
     "removed_at": "2025-10-13T20:42:28.822Z",
-    "duration_minutes": 58,
-    "duration_str": "58m"
+    "duration_minutes": 60,
+    "duration_str": "1h"
   },
   {
     "title": "sport:::La Suisse devra patienter pour valider son ticket pour la Coupe du monde 2026 après un nul en Slovénie",
     "added_at": "2025-10-13T20:42:28.822Z",
     "duration_minutes": 0,
     "duration_str": ""
+  },
+  {
+    "title": "monde:::A Madagascar, le président contesté écarte toute démission",
+    "added_at": "2025-10-13T22:54:13.688Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Kaja Kallas, depuis Kiev: «La Russie joue avec la guerre.» Les services secrets allemands, depuis Berlin: «Moscou est prêt à un conflit direct avec l’OTAN»",
+    "added_at": "2025-10-13T18:26:57.102Z",
+    "removed_at": "2025-10-13T18:28:50.922Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
   }
 ]
