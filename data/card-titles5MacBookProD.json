@@ -52172,7 +52172,10 @@
   },
   {
     "title": "Comment la dette s’est creusée depuis l’arrivée d’Emmanuel Macron au pouvoir",
-    "added_at": "2025-09-11T14:07:20.079Z"
+    "added_at": "2025-09-11T14:07:20.079Z",
+    "removed_at": "2025-10-14T23:12:49.016Z",
+    "duration_minutes": 48065,
+    "duration_str": "33d 9h 5m"
   },
   {
     "title": "Mouvement du 10 septembre : « L’instabilité politique laisse entrevoir une crise plus profonde qu’un ras-le-bol classique »",
@@ -70860,9 +70863,9 @@
   {
     "title": "Escalade : pourquoi les femmes sont en train de rattraper le niveau des hommes (avec Janja Garnbret)",
     "added_at": "2025-09-27T09:02:09.100Z",
-    "removed_at": "2025-10-14T20:56:32.989Z",
-    "duration_minutes": 25194,
-    "duration_str": "17d 11h 54m"
+    "removed_at": "2025-10-14T23:08:17.806Z",
+    "duration_minutes": 25326,
+    "duration_str": "17d 14h 6m"
   },
   {
     "title": "Chez Jip, à Paris, un coup de théâtre à la carte",
@@ -75840,10 +75843,7 @@
   },
   {
     "title": "L’assassinat de Charlie Kirk ébranle la démocratie américaine",
-    "added_at": "2025-10-02T07:52:21.019Z",
-    "removed_at": "2025-10-14T20:56:32.989Z",
-    "duration_minutes": 18064,
-    "duration_str": "12d 13h 4m"
+    "added_at": "2025-10-02T07:52:21.019Z"
   },
   {
     "title": "Gaza, en direct : 67 personnes ont été tuées depuis l’aube par des tirs et des bombardements israéliens, selon WAFa",
@@ -84493,9 +84493,9 @@
   {
     "title": "« On ne pourra engager aucune réforme dans l’éducation sans réinstaller les enseignants dans leur dignité »",
     "added_at": "2025-10-14T04:10:56.473Z",
-    "removed_at": "2025-10-14T21:05:26.886Z",
-    "duration_minutes": 1014,
-    "duration_str": "16h 54m"
+    "removed_at": "2025-10-14T23:35:06.321Z",
+    "duration_minutes": 1164,
+    "duration_str": "19h 24m"
   },
   {
     "title": "De Londres à Hongkong, le très lucratif business des smartphones volés",
@@ -85152,10 +85152,31 @@
   },
   {
     "title": "Quatre dépouilles d’otages ont été remises à la Croix-Rouge, selon l’armée israélienne",
-    "added_at": "2025-10-14T19:58:30.125Z"
+    "added_at": "2025-10-14T19:58:30.125Z",
+    "removed_at": "2025-10-14T22:57:10.479Z",
+    "duration_minutes": 178,
+    "duration_str": "2h 58m"
   },
   {
     "title": "Ce qu’il faut retenir du discours de politique générale de Sébastien Lecornu",
-    "added_at": "2025-10-14T21:00:58.956Z"
+    "added_at": "2025-10-14T21:00:58.956Z",
+    "removed_at": "2025-10-14T22:03:37.508Z",
+    "duration_minutes": 62,
+    "duration_str": "1h 2m"
+  },
+  {
+    "title": "Madagascar : des militaires annoncent « prendre le pouvoir » après la destitution du président Andry Rajoelina",
+    "added_at": "2025-10-14T22:03:37.508Z",
+    "removed_at": "2025-10-14T22:32:39.710Z",
+    "duration_minutes": 29,
+    "duration_str": "29m"
+  },
+  {
+    "title": "A Madagascar, ces heures qui ont mené les militaires à renverser Andry Rajoelina",
+    "added_at": "2025-10-14T22:28:14.326Z"
+  },
+  {
+    "title": "Les quatre dépouilles d’otages sont de retour en Israël, a annoncé l’armée israélienne",
+    "added_at": "2025-10-14T22:57:10.479Z"
   }
 ]
