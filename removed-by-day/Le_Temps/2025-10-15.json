@@ -23,8 +23,9 @@
   {
     "title": "economie:::De Mumbai à Hyderabad, plongée avec des PME suisses dans une Inde où tout est à construire",
     "added_at": "2025-10-15T04:32:08.343Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-15T20:03:38.071Z",
+    "duration_minutes": 931,
+    "duration_str": "15h 31m"
   },
   {
     "title": "suisse:::Election au Conseil d'Etat de Genève: une campagne «très dure» pour un second tour indécis",
@@ -42,8 +43,9 @@
   {
     "title": "cyber:::Marcel Salathé: «Avec l’IA, nous vivons la plus grande révolution technologique de notre vie»",
     "added_at": "2025-10-15T06:46:12.047Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-15T21:37:36.321Z",
+    "duration_minutes": 891,
+    "duration_str": "14h 51m"
   },
   {
     "title": "economie:::De Bombay à Hyderabad, plongée avec des PME suisses dans une Inde où tout est à construire",
@@ -62,7 +64,7 @@
   {
     "title": "economie:::La Finma va faire recours contre la décision du TAF d’annuler la dépréciation des AT1 de Credit Suisse",
     "added_at": "2025-10-15T09:15:27.067Z",
-    "removed_at": "2025-10-15T15:48:30.518Z",
+    "removed_at": "2025-10-15T15:48:28.344Z",
     "duration_minutes": 393,
     "duration_str": "6h 33m"
   },
@@ -83,7 +85,7 @@
   {
     "title": "cyber:::Discord, une plateforme de discussion destinée aux jeux vidéo qui séduit des mouvements contestataires",
     "added_at": "2025-10-15T09:43:45.298Z",
-    "removed_at": "2025-10-15T17:15:51.661Z",
+    "removed_at": "2025-10-15T17:15:24.572Z",
     "duration_minutes": 452,
     "duration_str": "7h 32m"
   },
@@ -145,9 +147,9 @@
   {
     "title": "culture:::«Deux pianos», d’Arnaud Desplechin: les sentiments qui déchirent, l’art qui console",
     "added_at": "2025-10-15T14:36:57.922Z",
-    "removed_at": "2025-10-15T15:55:13.675Z",
-    "duration_minutes": 78,
-    "duration_str": "1h 18m"
+    "removed_at": "2025-10-15T15:54:08.188Z",
+    "duration_minutes": 77,
+    "duration_str": "1h 17m"
   },
   {
     "title": "suisse:::Sur fond d’enquête embarrassante, l’Eglise protestante vaudoise congédie les deux uniques journalistes de son agence de presse",
@@ -172,7 +174,7 @@
   {
     "title": "monde:::En direct, guerre en Ukraine − L'OTAN se réunit pour renforcer sa riposte après des intrusions russes",
     "added_at": "2025-10-15T15:10:30.177Z",
-    "removed_at": "2025-10-15T16:30:55.250Z",
+    "removed_at": "2025-10-15T16:30:02.934Z",
     "duration_minutes": 80,
     "duration_str": "1h 20m"
   },
@@ -184,20 +186,20 @@
   },
   {
     "title": "suisse:::Credit Suisse: la justice pourrait relancer les hostilités entre UBS et la Confédération",
-    "added_at": "2025-10-15T15:48:30.518Z",
+    "added_at": "2025-10-15T15:48:28.344Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "culture:::France, la musique insoumise s'invite au LUFF",
-    "added_at": "2025-10-15T15:55:13.675Z",
+    "added_at": "2025-10-15T15:54:08.188Z",
     "removed_at": "2025-10-15T17:42:42.370Z",
-    "duration_minutes": 107,
-    "duration_str": "1h 47m"
+    "duration_minutes": 109,
+    "duration_str": "1h 49m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Les Ukrainiens sans électricité à cause des frappes russes",
-    "added_at": "2025-10-15T16:30:55.250Z",
+    "added_at": "2025-10-15T16:30:02.934Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -209,7 +211,7 @@
   },
   {
     "title": "monde:::Le Hamas retourne au nord de Gaza et lance la chasse aux «traîtres»",
-    "added_at": "2025-10-15T17:15:51.661Z",
+    "added_at": "2025-10-15T17:15:24.572Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -241,12 +243,19 @@
   {
     "title": "monde:::En direct, Moyen-Orient – La Croix-Rouge est en route pour récupérer «plusieurs» dépouilles d'otages à Gaza",
     "added_at": "2025-10-15T19:03:05.431Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-15T20:01:22.748Z",
+    "duration_minutes": 58,
+    "duration_str": "58m"
   },
   {
     "title": "suisse:::A Genève, la dérive infernale d’un père privé du droit de voir ses jeunes enfants",
     "added_at": "2025-10-15T19:07:33.549Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Deux nouvelles dépouilles d'otages à Gaza ont été remises à la Croix-Rouge",
+    "added_at": "2025-10-15T20:01:22.748Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
