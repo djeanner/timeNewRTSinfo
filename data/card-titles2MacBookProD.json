@@ -42398,7 +42398,10 @@
   },
   {
     "title": "cyber:::Discord, une plateforme de discussion destinée aux jeux vidéo qui séduit des mouvements contestataires",
-    "added_at": "2025-10-15T09:45:25.635Z"
+    "added_at": "2025-10-15T09:45:25.635Z",
+    "removed_at": "2025-10-15T17:15:51.661Z",
+    "duration_minutes": 450,
+    "duration_str": "7h 30m"
   },
   {
     "title": "culture:::Nemo vous invite dans sa maison pop",
@@ -42406,11 +42409,17 @@
   },
   {
     "title": "suisse:::Le Tribunal fédéral confirme la condamnation d’une activiste du climat pour le blocage d’un pont genevois",
-    "added_at": "2025-10-15T10:55:09.541Z"
+    "added_at": "2025-10-15T10:55:09.541Z",
+    "removed_at": "2025-10-15T18:36:17.679Z",
+    "duration_minutes": 461,
+    "duration_str": "7h 41m"
   },
   {
     "title": "culture:::Anne Cuneo mise en lumière: devenue invisible depuis 2015, l’œuvre de l’écrivaine romande la plus populaire est enfin rééditée",
-    "added_at": "2025-10-15T12:31:19.360Z"
+    "added_at": "2025-10-15T12:31:19.360Z",
+    "removed_at": "2025-10-15T17:51:35.553Z",
+    "duration_minutes": 320,
+    "duration_str": "5h 20m"
   },
   {
     "title": "monde:::En plein «shutdown», Donald Trump promet 20 milliards de dollars à l’Argentine de Javier Milei",
@@ -42421,7 +42430,10 @@
   },
   {
     "title": "suisse:::Surprise à Genève: après un arrêt du Tribunal fédéral, le canton annule la votation du 30 novembre sur les ouvertures du dimanche",
-    "added_at": "2025-10-15T12:58:07.723Z"
+    "added_at": "2025-10-15T12:58:07.723Z",
+    "removed_at": "2025-10-15T18:40:49.353Z",
+    "duration_minutes": 342,
+    "duration_str": "5h 42m"
   },
   {
     "title": "monde:::Le Conseil d'Etat français rejette le recours de Marine Le Pen contre son inéligibilité immédiate",
@@ -42432,7 +42444,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les négociations sur la deuxième phase du plan Trump ont commencé en Egypte",
-    "added_at": "2025-10-15T13:33:54.611Z"
+    "added_at": "2025-10-15T13:33:54.611Z",
+    "removed_at": "2025-10-15T19:03:05.431Z",
+    "duration_minutes": 329,
+    "duration_str": "5h 29m"
   },
   {
     "title": "monde:::Le Conseil d'Etat français rejette le recours de Marine Le Pen contre son inéligibilité immédiate",
@@ -42483,7 +42498,10 @@
   },
   {
     "title": "culture:::France, la musique insoumise s'invite au LUFF",
-    "added_at": "2025-10-15T15:55:13.675Z"
+    "added_at": "2025-10-15T15:55:13.675Z",
+    "removed_at": "2025-10-15T17:42:42.370Z",
+    "duration_minutes": 107,
+    "duration_str": "1h 47m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Les Ukrainiens sans électricité à cause des frappes russes",
@@ -42492,5 +42510,36 @@
   {
     "title": "economie:::La politique économique de Javier Milei face à l’épreuve du feu",
     "added_at": "2025-10-15T16:46:35.016Z"
+  },
+  {
+    "title": "monde:::Le Hamas retourne au nord de Gaza et lance la chasse aux «traîtres»",
+    "added_at": "2025-10-15T17:15:51.661Z"
+  },
+  {
+    "title": "economie:::Credit Suisse: la décision du TAF dévoile une «grave faille» dans la réglementation des grandes banques",
+    "added_at": "2025-10-15T17:33:42.667Z"
+  },
+  {
+    "title": "suisse:::A Genève, la dérive infernale d’un père privé de tout contact avec ses jeunes enfants",
+    "added_at": "2025-10-15T17:42:42.370Z",
+    "removed_at": "2025-10-15T19:07:33.549Z",
+    "duration_minutes": 84,
+    "duration_str": "1h 24m"
+  },
+  {
+    "title": "suisse:::Le rapport de la Confédération sur les certificats médicaux frauduleux est «honteux»",
+    "added_at": "2025-10-15T17:51:35.553Z"
+  },
+  {
+    "title": "suisse:::Face à une situation juridique «illisible», Genève annule la votation sur l’ouverture des commerces le dimanche",
+    "added_at": "2025-10-15T18:40:49.353Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – La Croix-Rouge est en route pour récupérer «plusieurs» dépouilles d'otages à Gaza",
+    "added_at": "2025-10-15T19:03:05.431Z"
+  },
+  {
+    "title": "suisse:::A Genève, la dérive infernale d’un père privé du droit de voir ses jeunes enfants",
+    "added_at": "2025-10-15T19:07:33.549Z"
   }
 ]
