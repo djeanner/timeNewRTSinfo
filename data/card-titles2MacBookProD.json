@@ -42323,7 +42323,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − L'Otan se réunit pour renforcer sa riposte après des intrusions russes",
-    "added_at": "2025-10-15T01:55:48.804Z"
+    "added_at": "2025-10-15T01:55:48.804Z",
+    "removed_at": "2025-10-15T15:10:30.973Z",
+    "duration_minutes": 794,
+    "duration_str": "13h 14m"
   },
   {
     "title": "monde:::Gianni Infantino et Donald Trump, une «bromance» aussi scrutée que critiquée",
@@ -42334,7 +42337,10 @@
   },
   {
     "title": "culture:::«On Falling», la sombre face cachée de nos achats en ligne",
-    "added_at": "2025-10-15T04:29:55.126Z"
+    "added_at": "2025-10-15T04:29:55.126Z",
+    "removed_at": "2025-10-15T14:41:26.056Z",
+    "duration_minutes": 611,
+    "duration_str": "10h 11m"
   },
   {
     "title": "economie:::De Mumbai à Hyderabad, plongée avec des PME suisses dans une Inde où tout est à construire",
@@ -42371,11 +42377,17 @@
   },
   {
     "title": "economie:::La Finma va faire recours contre la décision du TAF d’annuler la dépréciation des AT1 de Credit Suisse",
-    "added_at": "2025-10-15T09:16:11.256Z"
+    "added_at": "2025-10-15T09:16:11.256Z",
+    "removed_at": "2025-10-15T15:48:30.518Z",
+    "duration_minutes": 392,
+    "duration_str": "6h 32m"
   },
   {
     "title": "suisse:::Margrit Relandeau, la bonne fée de l’Amicale des Suisses d’Annemasse",
-    "added_at": "2025-10-15T09:29:35.392Z"
+    "added_at": "2025-10-15T09:29:35.392Z",
+    "removed_at": "2025-10-15T15:32:50.826Z",
+    "duration_minutes": 363,
+    "duration_str": "6h 3m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Ramallah appelle à une «avancée» suisse sur la reconnaissance d’un Etat palestinien",
@@ -42402,7 +42414,10 @@
   },
   {
     "title": "monde:::En plein «shutdown», Donald Trump promet 20 milliards de dollars à l’Argentine de Javier Milei",
-    "added_at": "2025-10-15T12:44:43.022Z"
+    "added_at": "2025-10-15T12:44:43.022Z",
+    "removed_at": "2025-10-15T14:36:57.922Z",
+    "duration_minutes": 112,
+    "duration_str": "1h 52m"
   },
   {
     "title": "suisse:::Surprise à Genève: après un arrêt du Tribunal fédéral, le canton annule la votation du 30 novembre sur les ouvertures du dimanche",
@@ -42421,6 +42436,61 @@
   },
   {
     "title": "monde:::Le Conseil d'Etat français rejette le recours de Marine Le Pen contre son inéligibilité immédiate",
-    "added_at": "2025-10-15T14:21:08.390Z"
+    "added_at": "2025-10-15T14:21:08.390Z",
+    "removed_at": "2025-10-15T16:46:35.016Z",
+    "duration_minutes": 145,
+    "duration_str": "2h 25m"
+  },
+  {
+    "title": "culture:::«Deux pianos», d’Arnaud Desplechin: les sentiments qui déchirent, l’art qui console",
+    "added_at": "2025-10-15T14:36:57.922Z",
+    "removed_at": "2025-10-15T15:55:13.675Z",
+    "duration_minutes": 78,
+    "duration_str": "1h 18m"
+  },
+  {
+    "title": "suisse:::Sur fond d’enquête embarrassante, l’Eglise protestante vaudoise congédie les deux uniques journalistes de son agence de presse",
+    "added_at": "2025-10-15T14:41:26.056Z",
+    "removed_at": "2025-10-15T14:59:23.760Z",
+    "duration_minutes": 17,
+    "duration_str": "17m"
+  },
+  {
+    "title": "suisse:::Sur fond d’enquête embarrassante, l’Eglise protestante romande congédie les deux uniques journalistes de son agence de presse",
+    "added_at": "2025-10-15T14:59:23.760Z",
+    "removed_at": "2025-10-15T15:01:34.555Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "suisse:::Sur fond d’enquête embarrassante, les Eglises protestantes romandes congédient les deux uniques journalistes de leur agence de presse",
+    "added_at": "2025-10-15T15:01:34.555Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − L'OTAN se réunit pour renforcer sa riposte après des intrusions russes",
+    "added_at": "2025-10-15T15:10:30.973Z",
+    "removed_at": "2025-10-15T16:30:55.250Z",
+    "duration_minutes": 80,
+    "duration_str": "1h 20m"
+  },
+  {
+    "title": "monde:::Pete Hegseth, «ministre de la guerre» américain, aux Européens: «Achetez-nous davantage d’armements pour Kiev!»",
+    "added_at": "2025-10-15T15:32:50.826Z"
+  },
+  {
+    "title": "suisse:::Credit Suisse: la justice pourrait relancer les hostilités entre UBS et la Confédération",
+    "added_at": "2025-10-15T15:48:30.518Z"
+  },
+  {
+    "title": "culture:::France, la musique insoumise s'invite au LUFF",
+    "added_at": "2025-10-15T15:55:13.675Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Les Ukrainiens sans électricité à cause des frappes russes",
+    "added_at": "2025-10-15T16:30:55.250Z"
+  },
+  {
+    "title": "economie:::La politique économique de Javier Milei face à l’épreuve du feu",
+    "added_at": "2025-10-15T16:46:35.016Z"
   }
 ]
