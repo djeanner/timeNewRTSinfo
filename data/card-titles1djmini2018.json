@@ -26417,7 +26417,10 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T21:30:25.517Z"
+    "added_at": "2025-07-25T21:30:25.517Z",
+    "removed_at": "2025-10-15T18:02:51.199Z",
+    "duration_minutes": 117872,
+    "duration_str": "81d 20h 32m"
   },
   {
     "title": "La légende du catch Hulk Hogan est décédée à l'âge de 71 ans",
@@ -39411,10 +39414,7 @@
   },
   {
     "title": "Couleurs locales signé",
-    "added_at": "2025-09-05T05:49:08.299Z",
-    "removed_at": "2025-10-08T13:03:47.266Z",
-    "duration_minutes": 47954,
-    "duration_str": "33d 7h 14m"
+    "added_at": "2025-09-05T05:49:08.299Z"
   },
   {
     "title": "Lancement d'une prospection géothermique dans le Nord vaudois",
@@ -53055,7 +53055,10 @@
   },
   {
     "title": "Des ministres techniques et politiques: le nouveau gouvernement de Sébastien Lecornu dévoilé",
-    "added_at": "2025-10-12T20:58:32.745Z"
+    "added_at": "2025-10-12T20:58:32.745Z",
+    "removed_at": "2025-10-15T17:38:16.002Z",
+    "duration_minutes": 4119,
+    "duration_str": "2d 20h 39m"
   },
   {
     "title": "Plus de 500 arrestations et des millions de dégâts après la manif pour Gaza à Berne",
@@ -53292,7 +53295,10 @@
   },
   {
     "title": "L’aide humanitaire entre en plus grande quantité dans la bande de Gaza",
-    "added_at": "2025-10-13T12:15:43.520Z"
+    "added_at": "2025-10-13T12:15:43.520Z",
+    "removed_at": "2025-10-15T19:05:08.703Z",
+    "duration_minutes": 3289,
+    "duration_str": "2d 6h 49m"
   },
   {
     "title": "Premier bilan préoccupant sur la traite des êtres humains en Valais",
@@ -53423,7 +53429,10 @@
   },
   {
     "title": "Les commerçants font face à une multiplication des grands chantiers urbains en Suisse romande",
-    "added_at": "2025-10-13T16:59:58.072Z"
+    "added_at": "2025-10-13T16:59:58.072Z",
+    "removed_at": "2025-10-15T17:40:11.759Z",
+    "duration_minutes": 2920,
+    "duration_str": "2d 40m"
   },
   {
     "title": "Le Conseil fédéral redoute des pertes liées à l'initiative du \"Pour l'avenir\" des jeunes socialistes",
@@ -53851,10 +53860,7 @@
   },
   {
     "title": "Entretien avec Vincent Pellissier, directeur général de la CGN",
-    "added_at": "2025-10-15T16:03:38.448Z",
-    "removed_at": "2025-10-15T17:24:51.272Z",
-    "duration_minutes": 81,
-    "duration_str": "1h 21m"
+    "added_at": "2025-10-15T16:03:38.448Z"
   },
   {
     "title": "Le Conseil fédéral revoit à la hausse la quantité des constructions hors zone à bâtir",
@@ -53867,5 +53873,20 @@
   {
     "title": "Le recours de Marine Le Pen sur son inéligibilité rejeté par le Conseil d'Etat français",
     "added_at": "2025-10-15T17:13:30.072Z"
+  },
+  {
+    "title": "A Lausanne, la 24e édition du LUFF replonge dans les cultures souterraines",
+    "added_at": "2025-10-15T17:38:16.002Z"
+  },
+  {
+    "title": "Une partie de la gauche dénonce le retour des projets autoroutiers malgré le non dans les urnes",
+    "added_at": "2025-10-15T17:40:11.759Z"
+  },
+  {
+    "title": "L’histoire du tourisme du Léman, avec l'exemple de l’Hôtel des Trois Couronnes",
+    "added_at": "2025-10-15T19:05:08.703Z",
+    "removed_at": "2025-10-15T19:16:28.790Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
   }
 ]
