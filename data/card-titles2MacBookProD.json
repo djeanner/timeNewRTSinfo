@@ -42182,7 +42182,10 @@
   },
   {
     "title": "economie:::L’action d’EasyJet enfle à la suite d’une rumeur de reprise par MSC",
-    "added_at": "2025-10-14T11:42:19.203Z"
+    "added_at": "2025-10-14T11:42:19.203Z",
+    "removed_at": "2025-10-15T10:26:12.762Z",
+    "duration_minutes": 1363,
+    "duration_str": "22h 43m"
   },
   {
     "title": "economie:::La dépréciation des AT1 de Credit Suisse n'avait aucune base légale",
@@ -42282,7 +42285,10 @@
   },
   {
     "title": "suisse:::En graphiques – Dans les cantons, les causes du déclin relatif mais continu du PLR",
-    "added_at": "2025-10-14T17:59:15.663Z"
+    "added_at": "2025-10-14T17:59:15.663Z",
+    "removed_at": "2025-10-15T09:45:25.635Z",
+    "duration_minutes": 946,
+    "duration_str": "15h 46m"
   },
   {
     "title": "suisse:::Le Centre-PLR, la proximité qui attise la rivalité",
@@ -42323,10 +42329,7 @@
   },
   {
     "title": "economie:::De Mumbai à Hyderabad, plongée avec des PME suisses dans une Inde où tout est à construire",
-    "added_at": "2025-10-15T04:32:11.559Z",
-    "removed_at": "2025-10-15T06:50:40.982Z",
-    "duration_minutes": 138,
-    "duration_str": "2h 18m"
+    "added_at": "2025-10-15T04:32:11.559Z"
   },
   {
     "title": "suisse:::Election au Conseil d'Etat de Genève: une campagne «très dure» pour un second tour indécis",
@@ -42334,7 +42337,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le passage de Rafah devrait être rouvert à l'aide humanitaire, selon un média public israélien",
-    "added_at": "2025-10-15T06:19:25.605Z"
+    "added_at": "2025-10-15T06:19:25.605Z",
+    "removed_at": "2025-10-15T09:38:43.640Z",
+    "duration_minutes": 199,
+    "duration_str": "3h 19m"
   },
   {
     "title": "cyber:::Marcel Salathé: «Avec l’IA, nous vivons la plus grande révolution technologique de notre vie»",
@@ -42342,7 +42348,10 @@
   },
   {
     "title": "economie:::De Bombay à Hyderabad, plongée avec des PME suisses dans une Inde où tout est à construire",
-    "added_at": "2025-10-15T06:50:40.982Z"
+    "added_at": "2025-10-15T06:50:40.982Z",
+    "removed_at": "2025-10-15T09:47:36.328Z",
+    "duration_minutes": 176,
+    "duration_str": "2h 56m"
   },
   {
     "title": "culture:::«Marcel et Monsieur Pagnol», l’animation pour redonner vie à l’œuvre d’un écrivain et cinéaste injustement oublié",
@@ -42355,5 +42364,21 @@
   {
     "title": "suisse:::Margrit Relandeau, la bonne fée de l’Amicale des Suisses d’Annemasse",
     "added_at": "2025-10-15T09:29:35.392Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Ramallah appelle à une «avancée» suisse sur la reconnaissance d’un Etat palestinien",
+    "added_at": "2025-10-15T09:38:43.640Z"
+  },
+  {
+    "title": "cyber:::Discord, une plateforme de discussion destinée aux jeux vidéo qui séduit des mouvements contestataires",
+    "added_at": "2025-10-15T09:45:25.635Z"
+  },
+  {
+    "title": "culture:::Nemo vous invite dans sa maison pop",
+    "added_at": "2025-10-15T10:26:12.762Z"
+  },
+  {
+    "title": "suisse:::Le Tribunal fédéral confirme la condamnation d’une activiste du climat pour le blocage d’un pont genevois",
+    "added_at": "2025-10-15T10:55:09.541Z"
   }
 ]
