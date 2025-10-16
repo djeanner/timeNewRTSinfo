@@ -42590,7 +42590,10 @@
   },
   {
     "title": "monde:::A Tunis, le long calvaire du citoyen suisse Mustapha Djemali",
-    "added_at": "2025-10-15T22:09:04.305Z"
+    "added_at": "2025-10-15T22:09:04.305Z",
+    "removed_at": "2025-10-16T16:34:36.793Z",
+    "duration_minutes": 1105,
+    "duration_str": "18h 25m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël menace de reprendre les combats si le Hamas ne respecte pas l’accord",
@@ -42735,7 +42738,10 @@
   },
   {
     "title": "suisse:::Genève fait des réserves d’antidote aux opioïdes",
-    "added_at": "2025-10-16T09:44:35.590Z"
+    "added_at": "2025-10-16T09:44:35.590Z",
+    "removed_at": "2025-10-16T16:01:04.420Z",
+    "duration_minutes": 376,
+    "duration_str": "6h 16m"
   },
   {
     "title": "monde:::Le premier ministre français Sébastien Lecornu survit à sa première motion de censure",
@@ -42764,7 +42770,10 @@
   },
   {
     "title": "suisse:::L’un des policiers lausannois mis en cause dans les messages WhatsApp a été réintégré",
-    "added_at": "2025-10-16T12:12:15.763Z"
+    "added_at": "2025-10-16T12:12:15.763Z",
+    "removed_at": "2025-10-16T16:34:36.793Z",
+    "duration_minutes": 262,
+    "duration_str": "4h 22m"
   },
   {
     "title": "culture:::L'étrangeté est au cœur de ces lectures jeunesse",
@@ -42786,19 +42795,31 @@
   },
   {
     "title": "sciences:::La Chine se lance dans la course à la transplantation d’organes de cochon chez l’humain",
-    "added_at": "2025-10-16T13:57:31.342Z"
+    "added_at": "2025-10-16T13:57:31.342Z",
+    "removed_at": "2025-10-16T16:01:04.420Z",
+    "duration_minutes": 123,
+    "duration_str": "2h 3m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Vladimir Poutine assure que la Russie continue de vendre son pétrole malgré les sanctions et pressions occidentales",
-    "added_at": "2025-10-16T13:57:31.342Z"
+    "added_at": "2025-10-16T13:57:31.342Z",
+    "removed_at": "2025-10-16T15:40:56.279Z",
+    "duration_minutes": 103,
+    "duration_str": "1h 43m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Au Yémen, les Houthis annoncent la mort de leur chef militaire tué par Israël",
-    "added_at": "2025-10-16T14:24:39.731Z"
+    "added_at": "2025-10-16T14:24:39.731Z",
+    "removed_at": "2025-10-16T15:58:53.104Z",
+    "duration_minutes": 94,
+    "duration_str": "1h 34m"
   },
   {
     "title": "economie:::Les droits de douane assombrissent l’avenir de l’économie suisse, annonce le Seco",
-    "added_at": "2025-10-16T14:26:56.677Z"
+    "added_at": "2025-10-16T14:26:56.677Z",
+    "removed_at": "2025-10-16T16:14:30.601Z",
+    "duration_minutes": 107,
+    "duration_str": "1h 47m"
   },
   {
     "title": "economie:::Nestlé change de ton pour sortir de la crise",
@@ -42806,6 +42827,58 @@
   },
   {
     "title": "monde:::Comment l’Europe compte se réarmer et augmenter sa riposte antidrones",
-    "added_at": "2025-10-16T15:25:09.669Z"
+    "added_at": "2025-10-16T15:25:09.669Z",
+    "removed_at": "2025-10-16T16:52:30.315Z",
+    "duration_minutes": 87,
+    "duration_str": "1h 27m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Donald Trump va à nouveau téléphoner à Vladimir Poutine",
+    "added_at": "2025-10-16T15:40:56.279Z",
+    "removed_at": "2025-10-16T16:36:53.935Z",
+    "duration_minutes": 55,
+    "duration_str": "55m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – La Turquie va participer à la recherche des corps dans les ruines de Gaza",
+    "added_at": "2025-10-16T15:58:53.104Z"
+  },
+  {
+    "title": "economie:::Les travailleurs de la construction feront grève, voici pourquoi",
+    "added_at": "2025-10-16T16:01:04.420Z"
+  },
+  {
+    "title": "economie:::L’annulation des AT1 de Credit Suisse «prouve que la justice est indépendante»",
+    "added_at": "2025-10-16T16:23:27.954Z"
+  },
+  {
+    "title": "suisse:::Le Tribunal fédéral devra se prononcer sur les recours concernant l’e-ID",
+    "added_at": "2025-10-16T16:34:36.793Z",
+    "removed_at": "2025-10-16T16:54:45.056Z",
+    "duration_minutes": 20,
+    "duration_str": "20m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Donald Trump téléphone encore à Vladimir Poutine",
+    "added_at": "2025-10-16T16:36:53.935Z",
+    "removed_at": "2025-10-16T18:04:11.420Z",
+    "duration_minutes": 87,
+    "duration_str": "1h 27m"
+  },
+  {
+    "title": "monde:::Comment l’Europe compte se réarmer et augmenter sa riposte anti-drones",
+    "added_at": "2025-10-16T16:52:30.315Z"
+  },
+  {
+    "title": "suisse:::Christophe Darbellay de retour à Berne? Le Centre valaisan prépare déjà sa campagne au Conseil des Etats",
+    "added_at": "2025-10-16T16:54:45.056Z"
+  },
+  {
+    "title": "suisse:::Au procès de Genève, deux récits s’affrontent pour expliquer la croisade sans issue d’un père révolté",
+    "added_at": "2025-10-16T17:17:06.290Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Donald Trump annonce rencontrer Vladimir Poutine, sans précision de date",
+    "added_at": "2025-10-16T18:04:11.420Z"
   }
 ]
