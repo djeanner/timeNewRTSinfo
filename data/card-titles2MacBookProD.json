@@ -8226,10 +8226,7 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z",
-    "removed_at": "2025-10-11T15:07:57.049Z",
-    "duration_minutes": 204306,
-    "duration_str": "141d 21h 6m"
+    "added_at": "2025-05-22T18:01:52.008Z"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -42561,7 +42558,10 @@
   },
   {
     "title": "suisse:::Le rapport de la Confédération sur les certificats médicaux frauduleux est «honteux»",
-    "added_at": "2025-10-15T17:51:35.553Z"
+    "added_at": "2025-10-15T17:51:35.553Z",
+    "removed_at": "2025-10-16T13:15:04.942Z",
+    "duration_minutes": 1163,
+    "duration_str": "19h 23m"
   },
   {
     "title": "suisse:::Face à une situation juridique «illisible», Genève annule la votation sur l’ouverture des commerces le dimanche",
@@ -42622,7 +42622,10 @@
   },
   {
     "title": "monde:::Priorité aux Blancs, tests ADN pour les enfants: comment Donald Trump veut transformer le système américain d’accueil des réfugiés",
-    "added_at": "2025-10-16T03:33:26.874Z"
+    "added_at": "2025-10-16T03:33:26.874Z",
+    "removed_at": "2025-10-16T13:55:20.517Z",
+    "duration_minutes": 621,
+    "duration_str": "10h 21m"
   },
   {
     "title": "economie:::Panthère dentelée de Cartier, le savoir-faire joaillier apprivoisé",
@@ -42665,7 +42668,10 @@
   },
   {
     "title": "economie:::Un mois après le départ de Laurent Freixe, Nestlé va supprimer 16 000 postes en deux ans",
-    "added_at": "2025-10-16T06:21:06.843Z"
+    "added_at": "2025-10-16T06:21:06.843Z",
+    "removed_at": "2025-10-16T15:25:09.669Z",
+    "duration_minutes": 544,
+    "duration_str": "9h 4m"
   },
   {
     "title": "culture:::Eugène signe un roman d’aventures sur «L’Ombre de la belle» au bois dormant",
@@ -42676,11 +42682,17 @@
   },
   {
     "title": "cyber:::Serveurs étrangers, enjeux locaux: la bataille pour la souveraineté numérique s'intensifie en Suisse",
-    "added_at": "2025-10-16T06:45:39.221Z"
+    "added_at": "2025-10-16T06:45:39.221Z",
+    "removed_at": "2025-10-16T15:25:09.669Z",
+    "duration_minutes": 519,
+    "duration_str": "8h 39m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Vendredi, Volodymyr Zelensky parlera de Tomahawk avec Donald Trump",
-    "added_at": "2025-10-16T09:11:03.778Z"
+    "added_at": "2025-10-16T09:11:03.778Z",
+    "removed_at": "2025-10-16T13:57:31.342Z",
+    "duration_minutes": 286,
+    "duration_str": "4h 46m"
   },
   {
     "title": "economie:::Haute horlogerie: Richemont à l’avant-garde de la complication",
@@ -42741,7 +42753,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis envisagent de payer toute information pour localiser les dépouilles d’otages à Gaza",
-    "added_at": "2025-10-16T10:20:18.183Z"
+    "added_at": "2025-10-16T10:20:18.183Z",
+    "removed_at": "2025-10-16T14:24:39.731Z",
+    "duration_minutes": 244,
+    "duration_str": "4h 4m"
   },
   {
     "title": "sciences:::Le poisson séché, un cocktail de nutriments pour lutter contre l’insécurité alimentaire",
@@ -42753,10 +42768,44 @@
   },
   {
     "title": "culture:::L'étrangeté est au cœur de ces lectures jeunesse",
-    "added_at": "2025-10-16T12:43:30.577Z"
+    "added_at": "2025-10-16T12:43:30.577Z",
+    "removed_at": "2025-10-16T13:17:16.115Z",
+    "duration_minutes": 33,
+    "duration_str": "33m"
   },
   {
     "title": "monde:::Le premier ministre français, Sébastien Lecornu, survit à ses premières motions de censure",
-    "added_at": "2025-10-16T12:52:28.032Z"
+    "added_at": "2025-10-16T12:52:28.032Z",
+    "removed_at": "2025-10-16T14:01:57.492Z",
+    "duration_minutes": 69,
+    "duration_str": "1h 9m"
+  },
+  {
+    "title": "sciences:::Les HUG annoncent une transplantation cardiaque partielle réussie chez un enfant, une première en Europe",
+    "added_at": "2025-10-16T13:17:16.115Z"
+  },
+  {
+    "title": "sciences:::La Chine se lance dans la course à la transplantation d’organes de cochon chez l’humain",
+    "added_at": "2025-10-16T13:57:31.342Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Vladimir Poutine assure que la Russie continue de vendre son pétrole malgré les sanctions et pressions occidentales",
+    "added_at": "2025-10-16T13:57:31.342Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Au Yémen, les Houthis annoncent la mort de leur chef militaire tué par Israël",
+    "added_at": "2025-10-16T14:24:39.731Z"
+  },
+  {
+    "title": "economie:::Les droits de douane assombrissent l’avenir de l’économie suisse, annonce le Seco",
+    "added_at": "2025-10-16T14:26:56.677Z"
+  },
+  {
+    "title": "economie:::Nestlé change de ton pour sortir de la crise",
+    "added_at": "2025-10-16T15:25:09.669Z"
+  },
+  {
+    "title": "monde:::Comment l’Europe compte se réarmer et augmenter sa riposte antidrones",
+    "added_at": "2025-10-16T15:25:09.669Z"
   }
 ]
