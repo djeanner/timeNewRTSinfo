@@ -39414,7 +39414,10 @@
   },
   {
     "title": "Couleurs locales signé",
-    "added_at": "2025-09-05T05:49:08.299Z"
+    "added_at": "2025-09-05T05:49:08.299Z",
+    "removed_at": "2025-10-16T04:31:42.531Z",
+    "duration_minutes": 58962,
+    "duration_str": "40d 22h 42m"
   },
   {
     "title": "Lancement d'une prospection géothermique dans le Nord vaudois",
@@ -52693,7 +52696,10 @@
   },
   {
     "title": "La fluidité de genre",
-    "added_at": "2025-10-11T22:17:12.052Z"
+    "added_at": "2025-10-11T22:17:12.052Z",
+    "removed_at": "2025-10-16T04:31:42.531Z",
+    "duration_minutes": 6134,
+    "duration_str": "4d 6h 14m"
   },
   {
     "title": "Un projet présumé d'attentat terroriste a été déjoué au printemps en Suisse",
@@ -53073,7 +53079,10 @@
   },
   {
     "title": "Le cessez-le-feu à Gaza fait réagir les Israéliens et les Palestiniens de Suisse",
-    "added_at": "2025-10-12T22:26:03.554Z"
+    "added_at": "2025-10-12T22:26:03.554Z",
+    "removed_at": "2025-10-16T04:31:42.531Z",
+    "duration_minutes": 4685,
+    "duration_str": "3d 6h 5m"
   },
   {
     "title": "Accord Israël - Hamas: le cessez-le-feu est entré en vigueur",
@@ -53431,7 +53440,10 @@
   },
   {
     "title": "Nicolas Sarkozy incarcéré dès la semaine prochaine à la prison de la Santé à Paris",
-    "added_at": "2025-10-13T16:33:25.490Z"
+    "added_at": "2025-10-13T16:33:25.490Z",
+    "removed_at": "2025-10-16T04:35:26.062Z",
+    "duration_minutes": 3602,
+    "duration_str": "2d 12h 2m"
   },
   {
     "title": "Les commerçants font face à une multiplication des grands chantiers urbains en Suisse romande",
@@ -53470,10 +53482,7 @@
   },
   {
     "title": "Beaucoup de bruit",
-    "added_at": "2025-10-13T22:04:17.420Z",
-    "removed_at": "2025-10-14T19:03:25.029Z",
-    "duration_minutes": 1259,
-    "duration_str": "20h 59m"
+    "added_at": "2025-10-13T22:04:17.420Z"
   },
   {
     "title": "Le président malgache écarte toute démission",
@@ -53745,7 +53754,10 @@
   },
   {
     "title": "\"Eldorado\" de Priscilla Bonvin Mayor",
-    "added_at": "2025-10-15T06:21:40.069Z"
+    "added_at": "2025-10-15T06:21:40.069Z",
+    "removed_at": "2025-10-16T05:16:59.111Z",
+    "duration_minutes": 1375,
+    "duration_str": "22h 55m"
   },
   {
     "title": "Retard de deux ans au moins pour la modernisation de la ligne ferroviaire AOMC dans le Chablais",
@@ -53779,7 +53791,10 @@
   },
   {
     "title": "20 otages israéliens échangés contre des centaines de prisonniers palestiniens",
-    "added_at": "2025-10-15T09:02:12.300Z"
+    "added_at": "2025-10-15T09:02:12.300Z",
+    "removed_at": "2025-10-16T04:31:42.531Z",
+    "duration_minutes": 1169,
+    "duration_str": "19h 29m"
   },
   {
     "title": "La viande de requin, vendue sous des noms trompeurs, contient des taux alarmants de méthylmercure",
@@ -53787,7 +53802,10 @@
   },
   {
     "title": "\"Aussi bien que je peux\" de Géraldine Besse",
-    "added_at": "2025-10-15T10:19:31.671Z"
+    "added_at": "2025-10-15T10:19:31.671Z",
+    "removed_at": "2025-10-16T03:18:08.914Z",
+    "duration_minutes": 1018,
+    "duration_str": "16h 58m"
   },
   {
     "title": "L'émotion des familles israéliennes après le retour des 20 derniers otages vivants",
@@ -53933,5 +53951,40 @@
   {
     "title": "La cave suisse de l'année est à nouveau valaisanne",
     "added_at": "2025-10-16T02:30:46.207Z"
+  },
+  {
+    "title": "Le comté de Los Angeles déclare l'état d'urgence pour aider les migrants",
+    "added_at": "2025-10-16T03:08:39.740Z"
+  },
+  {
+    "title": "Comment survivre au travail ?",
+    "added_at": "2025-10-16T03:18:08.914Z"
+  },
+  {
+    "title": "L'invité de La Matinale (vidéo) - Gabriel Galice, président de l'Institut international de recherches pour la paix à Genève",
+    "added_at": "2025-10-16T04:31:42.531Z"
+  },
+  {
+    "title": "L'invitée de La Matinale (vidéo) - Morgane Rousseau, directrice de Médecins du Monde",
+    "added_at": "2025-10-16T04:31:42.531Z"
+  },
+  {
+    "title": "L'invité de La Matinale (vidéo) - Bruno Le Maire, ancien ministre français de l'Economie, des Finances et de la Souveraineté industrielle",
+    "added_at": "2025-10-16T04:31:42.531Z"
+  },
+  {
+    "title": "L'invité de La Matinale (vidéo) - Marc Ferracci, ministre français de l'Industrie et de l'Énergie dans le précédent gouvernement",
+    "added_at": "2025-10-16T04:31:42.531Z",
+    "removed_at": "2025-10-16T05:16:59.111Z",
+    "duration_minutes": 45,
+    "duration_str": "45m"
+  },
+  {
+    "title": "L'Inde, un marché immense mais délicat à conquérir pour les entreprises suisses",
+    "added_at": "2025-10-16T04:35:26.062Z"
+  },
+  {
+    "title": "Le rapport Weidmann néglige-t-il le rejet populaire de l’élargissement des autoroutes? Débat entre Angela Zimmermann et Olivier Fantino",
+    "added_at": "2025-10-16T05:16:59.111Z"
   }
 ]
