@@ -42411,7 +42411,10 @@
   },
   {
     "title": "culture:::Nemo vous invite dans sa maison pop",
-    "added_at": "2025-10-15T10:26:12.762Z"
+    "added_at": "2025-10-15T10:26:12.762Z",
+    "removed_at": "2025-10-15T22:09:04.305Z",
+    "duration_minutes": 702,
+    "duration_str": "11h 42m"
   },
   {
     "title": "suisse:::Le Tribunal fédéral confirme la condamnation d’une activiste du climat pour le blocage d’un pont genevois",
@@ -42553,6 +42556,17 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Deux nouvelles dépouilles d'otages à Gaza ont été remises à la Croix-Rouge",
-    "added_at": "2025-10-15T20:01:22.748Z"
+    "added_at": "2025-10-15T20:01:22.748Z",
+    "removed_at": "2025-10-15T22:20:11.939Z",
+    "duration_minutes": 138,
+    "duration_str": "2h 18m"
+  },
+  {
+    "title": "monde:::A Tunis, le long calvaire du citoyen suisse Mustapha Djemali",
+    "added_at": "2025-10-15T22:09:04.305Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Israël menace de reprendre les combats si le Hamas ne respecte pas l’accord",
+    "added_at": "2025-10-15T22:20:11.939Z"
   }
 ]
