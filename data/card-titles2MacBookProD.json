@@ -42129,10 +42129,7 @@
   },
   {
     "title": "monde:::Boris Vallaud, l’éléphanteau raffiné du PS français",
-    "added_at": "2025-10-14T09:23:30.374Z",
-    "removed_at": "2025-10-14T11:02:00.365Z",
-    "duration_minutes": 98,
-    "duration_str": "1h 38m"
+    "added_at": "2025-10-14T09:23:30.374Z"
   },
   {
     "title": "culture:::A Palerme, on célèbre le compositeur Alessandro Scarlatti, cet illustre méconnu",
@@ -42515,7 +42512,10 @@
   },
   {
     "title": "suisse:::Credit Suisse: la justice pourrait relancer les hostilités entre UBS et la Confédération",
-    "added_at": "2025-10-15T15:48:30.518Z"
+    "added_at": "2025-10-15T15:48:30.518Z",
+    "removed_at": "2025-10-16T09:51:18.273Z",
+    "duration_minutes": 1082,
+    "duration_str": "18h 2m"
   },
   {
     "title": "culture:::France, la musique insoumise s'invite au LUFF",
@@ -42540,7 +42540,10 @@
   },
   {
     "title": "monde:::Le Hamas retourne au nord de Gaza et lance la chasse aux «traîtres»",
-    "added_at": "2025-10-15T17:15:51.661Z"
+    "added_at": "2025-10-15T17:15:51.661Z",
+    "removed_at": "2025-10-16T09:17:45.071Z",
+    "duration_minutes": 961,
+    "duration_str": "16h 1m"
   },
   {
     "title": "economie:::Credit Suisse: la décision du TAF dévoile une «grave faille» dans la réglementation des grandes banques",
@@ -42562,7 +42565,10 @@
   },
   {
     "title": "suisse:::Face à une situation juridique «illisible», Genève annule la votation sur l’ouverture des commerces le dimanche",
-    "added_at": "2025-10-15T18:40:49.353Z"
+    "added_at": "2025-10-15T18:40:49.353Z",
+    "removed_at": "2025-10-16T08:15:16.468Z",
+    "duration_minutes": 814,
+    "duration_str": "13h 34m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – La Croix-Rouge est en route pour récupérer «plusieurs» dépouilles d'otages à Gaza",
@@ -42595,11 +42601,17 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − «Bientôt» des réparations à Zaporijjia, espère l’AIEA",
-    "added_at": "2025-10-16T02:12:52.074Z"
+    "added_at": "2025-10-16T02:12:52.074Z",
+    "removed_at": "2025-10-16T09:11:03.778Z",
+    "duration_minutes": 418,
+    "duration_str": "6h 58m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël menace de reprendre les combats si le Hamas ne respecte pas l’accord de paix",
-    "added_at": "2025-10-16T03:31:11.986Z"
+    "added_at": "2025-10-16T03:31:11.986Z",
+    "removed_at": "2025-10-16T10:20:18.183Z",
+    "duration_minutes": 409,
+    "duration_str": "6h 49m"
   },
   {
     "title": "monde:::Priorité aux Blancs, tests ADN pour les enfants: Donald Trump veut transformer le système américain d’accueil des réfugiés",
@@ -42654,10 +42666,76 @@
   },
   {
     "title": "culture:::Eugène signe un roman d’aventures sur «L’Ombre de la belle» au bois dormant",
-    "added_at": "2025-10-16T06:32:14.697Z"
+    "added_at": "2025-10-16T06:32:14.697Z",
+    "removed_at": "2025-10-16T10:22:32.755Z",
+    "duration_minutes": 230,
+    "duration_str": "3h 50m"
   },
   {
     "title": "cyber:::Serveurs étrangers, enjeux locaux: la bataille pour la souveraineté numérique s'intensifie en Suisse",
     "added_at": "2025-10-16T06:45:39.221Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Vendredi, Volodymyr Zelensky parlera de Tomahawk avec Donald Trump",
+    "added_at": "2025-10-16T09:11:03.778Z"
+  },
+  {
+    "title": "economie:::Haute horlogerie: Richemont à l’avant-garde de la complication",
+    "added_at": "2025-10-16T09:15:30.289Z",
+    "removed_at": "2025-10-16T09:28:55.231Z",
+    "duration_minutes": 13,
+    "duration_str": "13m"
+  },
+  {
+    "title": "suisse:::La souplesse de la neutralité suisse est plus que jamais remise en question",
+    "added_at": "2025-10-16T09:15:30.289Z",
+    "removed_at": "2025-10-16T09:51:18.273Z",
+    "duration_minutes": 35,
+    "duration_str": "35m"
+  },
+  {
+    "title": "monde:::Jens-Frederik Nielsen, l’homme à l’anorak bleu qui résiste à Donald Trump",
+    "added_at": "2025-10-16T09:17:45.071Z"
+  },
+  {
+    "title": "culture:::Avec «Finistère», Anne Berest signe le roman du père",
+    "added_at": "2025-10-16T09:28:55.231Z",
+    "removed_at": "2025-10-16T09:35:37.653Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
+  },
+  {
+    "title": "culture:::Avec «Finistère», Anne Berest explore la mémoire des pères",
+    "added_at": "2025-10-16T09:35:37.653Z",
+    "removed_at": "2025-10-16T09:37:52.505Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "culture:::Avec «Finistère», Anne Berest explore la mémoire transgénérationnelle des pères",
+    "added_at": "2025-10-16T09:37:52.505Z"
+  },
+  {
+    "title": "suisse:::Genève fait des réserves d’antidote aux opioïdes",
+    "added_at": "2025-10-16T09:44:35.590Z"
+  },
+  {
+    "title": "monde:::Le premier ministre français Sébastien Lecornu survit à sa première motion de censure",
+    "added_at": "2025-10-16T09:51:18.273Z",
+    "removed_at": "2025-10-16T10:15:50.749Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "monde:::Le premier ministre français Sébastien Lecornu survit à ses premières motions de censure",
+    "added_at": "2025-10-16T10:15:50.749Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis envisagent de payer toute information pour localiser les dépouilles d’otages à Gaza",
+    "added_at": "2025-10-16T10:20:18.183Z"
+  },
+  {
+    "title": "sciences:::Le poisson séché, un cocktail de nutriments pour lutter contre l’insécurité alimentaire",
+    "added_at": "2025-10-16T10:22:32.755Z"
   }
 ]
