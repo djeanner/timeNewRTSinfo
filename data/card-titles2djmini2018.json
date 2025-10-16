@@ -6448,10 +6448,7 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:00:57.917Z",
-    "removed_at": "2025-10-11T15:08:43.755Z",
-    "duration_minutes": 204307,
-    "duration_str": "141d 21h 7m"
+    "added_at": "2025-05-22T18:00:57.917Z"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -41504,7 +41501,10 @@
   },
   {
     "title": "suisse:::Le rapport de la Confédération sur les certificats médicaux frauduleux est «honteux»",
-    "added_at": "2025-10-15T17:51:32.510Z"
+    "added_at": "2025-10-15T17:51:32.510Z",
+    "removed_at": "2025-10-16T13:15:04.122Z",
+    "duration_minutes": 1163,
+    "duration_str": "19h 23m"
   },
   {
     "title": "suisse:::Face à une situation juridique «illisible», Genève annule la votation sur l’ouverture des commerces le dimanche",
@@ -41565,7 +41565,10 @@
   },
   {
     "title": "monde:::Priorité aux Blancs, tests ADN pour les enfants: comment Donald Trump veut transformer le système américain d’accueil des réfugiés",
-    "added_at": "2025-10-16T03:33:11.186Z"
+    "added_at": "2025-10-16T03:33:11.186Z",
+    "removed_at": "2025-10-16T13:56:36.390Z",
+    "duration_minutes": 623,
+    "duration_str": "10h 23m"
   },
   {
     "title": "economie:::Panthère dentelée de Cartier, le savoir-faire joaillier apprivoisé",
@@ -41623,7 +41626,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Vendredi, Volodymyr Zelensky parlera de Tomahawk avec Donald Trump",
-    "added_at": "2025-10-16T09:11:14.087Z"
+    "added_at": "2025-10-16T09:11:14.087Z",
+    "removed_at": "2025-10-16T13:56:36.390Z",
+    "duration_minutes": 285,
+    "duration_str": "4h 45m"
   },
   {
     "title": "economie:::Haute horlogerie: Richemont à l’avant-garde de la complication",
@@ -41659,7 +41665,10 @@
   },
   {
     "title": "culture:::Avec «Finistère», Anne Berest explore la mémoire transgénérationnelle des pères",
-    "added_at": "2025-10-16T09:37:42.314Z"
+    "added_at": "2025-10-16T09:37:42.314Z",
+    "removed_at": "2025-10-16T12:42:59.173Z",
+    "duration_minutes": 185,
+    "duration_str": "3h 5m"
   },
   {
     "title": "suisse:::Genève fait des réserves d’antidote aux opioïdes",
@@ -41674,11 +41683,17 @@
   },
   {
     "title": "monde:::Le premier ministre français Sébastien Lecornu survit à ses premières motions de censure",
-    "added_at": "2025-10-16T10:17:30.384Z"
+    "added_at": "2025-10-16T10:17:30.384Z",
+    "removed_at": "2025-10-16T12:52:23.601Z",
+    "duration_minutes": 154,
+    "duration_str": "2h 34m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis envisagent de payer toute information pour localiser les dépouilles d’otages à Gaza",
-    "added_at": "2025-10-16T10:21:13.996Z"
+    "added_at": "2025-10-16T10:21:13.996Z",
+    "removed_at": "2025-10-16T14:23:02.322Z",
+    "duration_minutes": 241,
+    "duration_str": "4h 1m"
   },
   {
     "title": "sciences:::Le poisson séché, un cocktail de nutriments pour lutter contre l’insécurité alimentaire",
@@ -41687,5 +41702,39 @@
   {
     "title": "suisse:::L’un des policiers lausannois mis en cause dans les messages WhatsApp a été réintégré",
     "added_at": "2025-10-16T12:12:34.097Z"
+  },
+  {
+    "title": "culture:::L'étrangeté est au cœur de ces lectures jeunesse",
+    "added_at": "2025-10-16T12:42:59.173Z",
+    "removed_at": "2025-10-16T13:16:58.286Z",
+    "duration_minutes": 33,
+    "duration_str": "33m"
+  },
+  {
+    "title": "monde:::Le premier ministre français, Sébastien Lecornu, survit à ses premières motions de censure",
+    "added_at": "2025-10-16T12:52:23.601Z",
+    "removed_at": "2025-10-16T14:02:16.588Z",
+    "duration_minutes": 69,
+    "duration_str": "1h 9m"
+  },
+  {
+    "title": "sciences:::Les HUG annoncent une transplantation cardiaque partielle réussie chez un enfant, une première en Europe",
+    "added_at": "2025-10-16T13:16:58.286Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Vladimir Poutine assure que la Russie continue de vendre son pétrole malgré les sanctions et pressions occidentales",
+    "added_at": "2025-10-16T13:56:36.390Z"
+  },
+  {
+    "title": "sciences:::La Chine se lance dans la course à la transplantation d’organes de cochon chez l’humain",
+    "added_at": "2025-10-16T13:58:32.573Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Au Yémen, les Houthis annoncent la mort de leur chef militaire tué par Israël",
+    "added_at": "2025-10-16T14:23:02.322Z"
+  },
+  {
+    "title": "economie:::Les droits de douane assombrissent l’avenir de l’économie suisse, annonce le Seco",
+    "added_at": "2025-10-16T14:26:52.216Z"
   }
 ]
