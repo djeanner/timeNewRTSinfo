@@ -28372,7 +28372,10 @@
   },
   {
     "title": "suisse:::Gabi Dubuis et Danny Baker, la cuisine végétale en addiction",
-    "added_at": "2025-08-29T13:09:18.385Z"
+    "added_at": "2025-08-29T13:09:18.385Z",
+    "removed_at": "2025-10-17T14:44:20.692Z",
+    "duration_minutes": 70655,
+    "duration_str": "49d 1h 35m"
   },
   {
     "title": "economie:::La milliardaire bâloise Esther Grether, propriétaire du groupe Doetsch Grether, est décédée à l’âge de 89 ans",
@@ -35901,10 +35904,7 @@
   },
   {
     "title": "suisse:::Taxer les voitures électriques? Le projet du Conseil fédéral divise les milieux de la mobilité",
-    "added_at": "2025-09-26T14:49:55.792Z",
-    "removed_at": "2025-09-27T08:34:56.068Z",
-    "duration_minutes": 1065,
-    "duration_str": "17h 45m"
+    "added_at": "2025-09-26T14:49:55.792Z"
   },
   {
     "title": "suisse:::Le Conseil fédéral assouplit la protection du bâti pour construire plus de logements",
@@ -35958,9 +35958,9 @@
   {
     "title": "suisse:::En graphiques – Quand les données sur les féminicides manquent, les femmes subissent",
     "added_at": "2025-09-26T17:58:52.373Z",
-    "removed_at": "2025-09-28T16:41:05.200Z",
-    "duration_minutes": 2802,
-    "duration_str": "1d 22h 42m"
+    "removed_at": "2025-10-17T15:46:46.970Z",
+    "duration_minutes": 30107,
+    "duration_str": "20d 21h 47m"
   },
   {
     "title": "monde:::Inculpation de l’ex-patron du FBI: Donald Trump fait de la justice son jouet",
@@ -41961,7 +41961,10 @@
   },
   {
     "title": "suisse:::La Torche, le satirique qui allume les candidats aux élections jurassiennes",
-    "added_at": "2025-10-17T06:25:05.452Z"
+    "added_at": "2025-10-17T06:25:05.452Z",
+    "removed_at": "2025-10-17T16:50:59.840Z",
+    "duration_minutes": 625,
+    "duration_str": "10h 25m"
   },
   {
     "title": "monde:::Une bombe explose sous la voiture du journaliste d’investigation italien Sigfrido Ranucci, sans faire de victime",
@@ -41998,7 +42001,10 @@
   },
   {
     "title": "culture:::Sur Netflix, la série «The Resurrected» évoque l’enfer des centres de cyberarnaques asiatiques",
-    "added_at": "2025-10-17T11:46:18.266Z"
+    "added_at": "2025-10-17T11:46:18.266Z",
+    "removed_at": "2025-10-17T14:44:20.692Z",
+    "duration_minutes": 178,
+    "duration_str": "2h 58m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Donald Trump reçoit Volodymyr Zelensky à Washington après avoir relancé son dialogue avec Poutine",
@@ -42021,10 +42027,32 @@
   },
   {
     "title": "monde:::La Genève internationale donne du poids à la diplomatie suisse sur la scène multilatérale",
-    "added_at": "2025-10-17T13:39:48.315Z"
+    "added_at": "2025-10-17T13:39:48.315Z",
+    "removed_at": "2025-10-17T16:09:28.190Z",
+    "duration_minutes": 149,
+    "duration_str": "2h 29m"
   },
   {
     "title": "economie:::Les banques américaines ne seront plus tenues de jauger le risque climatique",
-    "added_at": "2025-10-17T14:17:40.281Z"
+    "added_at": "2025-10-17T14:17:40.281Z",
+    "removed_at": "2025-10-17T15:46:46.970Z",
+    "duration_minutes": 89,
+    "duration_str": "1h 29m"
+  },
+  {
+    "title": "economie:::Airbus dépasse Boeing, qui peut néanmoins compter sur le soutien de Donald Trump",
+    "added_at": "2025-10-17T14:44:20.692Z"
+  },
+  {
+    "title": "economie:::Les ventes de véhicules électriques décollent en Chine et même aux Etats-Unis, mais pas en Suisse",
+    "added_at": "2025-10-17T15:46:46.970Z"
+  },
+  {
+    "title": "monde:::Tentative d’assassinat de Sigfrido Ranucci: le journalisme d’investigation italien visé par un attentat",
+    "added_at": "2025-10-17T16:09:28.190Z"
+  },
+  {
+    "title": "economie:::Les négociations sur le différend douanier se poursuivent entre la Suisse et les Etats-Unis",
+    "added_at": "2025-10-17T16:50:59.840Z"
   }
 ]
