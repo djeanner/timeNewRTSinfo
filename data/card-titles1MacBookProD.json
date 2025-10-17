@@ -28851,7 +28851,10 @@
   },
   {
     "title": "Beaucoup de bruit",
-    "added_at": "2025-10-13T22:04:57.142Z"
+    "added_at": "2025-10-13T22:04:57.142Z",
+    "removed_at": "2025-10-17T09:22:22.958Z",
+    "duration_minutes": 4997,
+    "duration_str": "3d 11h 17m"
   },
   {
     "title": "Le président malgache écarte toute démission",
@@ -29290,7 +29293,10 @@
   },
   {
     "title": "La viande de requin, vendue sous des noms trompeurs, contient des taux alarmants de méthylmercure",
-    "added_at": "2025-10-15T09:47:36.282Z"
+    "added_at": "2025-10-15T09:47:36.282Z",
+    "removed_at": "2025-10-17T10:42:49.335Z",
+    "duration_minutes": 2935,
+    "duration_str": "2d 55m"
   },
   {
     "title": "\"Aussi bien que je peux\" de Géraldine Besse",
@@ -29315,7 +29321,10 @@
   },
   {
     "title": "Le TF confirme la condamnation d'une activiste pour le blocage du pont du Mont-Blanc",
-    "added_at": "2025-10-15T11:06:19.317Z"
+    "added_at": "2025-10-15T11:06:19.317Z",
+    "removed_at": "2025-10-17T10:09:16.422Z",
+    "duration_minutes": 2822,
+    "duration_str": "1d 23h 2m"
   },
   {
     "title": "\"Les vaches, une passion helvétique\" d'Olivier May met à l'honneur la reine de nos pâturages",
@@ -29337,7 +29346,10 @@
   },
   {
     "title": "Hausse record de concentration de CO2 dans l'atmosphère en 2024, alerte l'ONU",
-    "added_at": "2025-10-15T13:31:37.814Z"
+    "added_at": "2025-10-15T13:31:37.814Z",
+    "removed_at": "2025-10-17T10:38:21.722Z",
+    "duration_minutes": 2706,
+    "duration_str": "1d 21h 6m"
   },
   {
     "title": "\"La France, on dirait l'Italie d'il y a 20 à 30 ans\", observe Paolo Levi",
@@ -29345,11 +29357,17 @@
   },
   {
     "title": "Un robot développé par une start-up lausannoise pourrait débarrasser le Léman des moules quagga",
-    "added_at": "2025-10-15T13:58:26.443Z"
+    "added_at": "2025-10-15T13:58:26.443Z",
+    "removed_at": "2025-10-17T11:14:05.977Z",
+    "duration_minutes": 2715,
+    "duration_str": "1d 21h 15m"
   },
   {
     "title": "Les drones russes et le soutien à l'Ukraine au menu de la réunion des membres de l'Otan",
-    "added_at": "2025-10-15T14:16:39.175Z"
+    "added_at": "2025-10-15T14:16:39.175Z",
+    "removed_at": "2025-10-17T11:07:22.471Z",
+    "duration_minutes": 2690,
+    "duration_str": "1d 20h 50m"
   },
   {
     "title": "Drew Struzan, le créateur des affiches de Star Wars, E.T. et Indiana Jones s'est éteint à 78 ans",
@@ -29360,7 +29378,10 @@
   },
   {
     "title": "Pascale Baeriswyl quitte la mission suisse à New York pour le Conseil de l'Europe",
-    "added_at": "2025-10-15T15:10:30.929Z"
+    "added_at": "2025-10-15T15:10:30.929Z",
+    "removed_at": "2025-10-17T11:14:05.977Z",
+    "duration_minutes": 2643,
+    "duration_str": "1d 20h 3m"
   },
   {
     "title": "Podcast - Comment survivre au travail?",
@@ -29775,5 +29796,40 @@
   {
     "title": "Quelle place dans la société pour les gens du voyage?",
     "added_at": "2025-10-17T08:44:07.008Z"
+  },
+  {
+    "title": "L'invité de La Matinale (vidéo) - Marcel Salathé, auteur de \"IA: comment ne pas perdre le nord?\"",
+    "added_at": "2025-10-17T09:22:22.958Z"
+  },
+  {
+    "title": "Le colonel de l'armée malgache Michaël Randrianirin a été investi président de Madagascar",
+    "added_at": "2025-10-17T10:09:16.422Z",
+    "removed_at": "2025-10-17T10:29:23.975Z",
+    "duration_minutes": 20,
+    "duration_str": "20m"
+  },
+  {
+    "title": "Le colonel de l'armée malgache Michaël Randrianirina a été investi président de Madagascar",
+    "added_at": "2025-10-17T10:29:23.975Z"
+  },
+  {
+    "title": "Pauvre et exposé aux chocs climatiques: la double peine pour près de 900 millions de personnes",
+    "added_at": "2025-10-17T10:38:21.722Z"
+  },
+  {
+    "title": "La commission des dons pour Blatten approuve 25 demandes de soutien",
+    "added_at": "2025-10-17T10:42:49.335Z"
+  },
+  {
+    "title": "Une bombe explose sous la voiture d'un journaliste italien renommé, qui s'en sort indemne",
+    "added_at": "2025-10-17T11:07:22.471Z"
+  },
+  {
+    "title": "Le triazole dans le Léman ne présente pas de risque pour la santé, confirme une étude",
+    "added_at": "2025-10-17T11:14:05.977Z"
+  },
+  {
+    "title": "Magali Le Huche signe \"Punk à sein\", une BD sur le cancer pleine de résilience et d'espoir",
+    "added_at": "2025-10-17T11:14:05.977Z"
   }
 ]
