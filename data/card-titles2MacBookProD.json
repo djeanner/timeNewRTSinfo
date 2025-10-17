@@ -8226,7 +8226,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z"
+    "added_at": "2025-05-22T18:01:52.008Z",
+    "removed_at": "2025-10-17T08:30:42.114Z",
+    "duration_minutes": 212548,
+    "duration_str": "147d 14h 28m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -42803,7 +42806,10 @@
   },
   {
     "title": "sciences:::Les HUG annoncent une transplantation cardiaque partielle réussie chez un enfant, une première en Europe",
-    "added_at": "2025-10-16T13:17:16.115Z"
+    "added_at": "2025-10-16T13:17:16.115Z",
+    "removed_at": "2025-10-17T06:56:24.624Z",
+    "duration_minutes": 1059,
+    "duration_str": "17h 39m"
   },
   {
     "title": "sciences:::La Chine se lance dans la course à la transplantation d’organes de cochon chez l’humain",
@@ -42980,5 +42986,13 @@
   {
     "title": "suisse:::La Torche, le satirique qui allume les candidats aux élections jurassiennes",
     "added_at": "2025-10-17T06:24:59.939Z"
+  },
+  {
+    "title": "monde:::Une bombe explose sous la voiture du journaliste d’investigation italien Sigfrido Ranucci, sans faire de victime",
+    "added_at": "2025-10-17T06:56:24.624Z"
+  },
+  {
+    "title": "economie:::Vacheron Constantin expose au Louvre une pièce monumentale, entre automate et horloge astronomique",
+    "added_at": "2025-10-17T08:30:42.114Z"
   }
 ]
