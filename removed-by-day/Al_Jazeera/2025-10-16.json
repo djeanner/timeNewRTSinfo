@@ -79,7 +79,7 @@
   {
     "title": "Gaza’s ailing children ‘desperately waiting for help’ despite ceasefire",
     "added_at": "2025-10-16T08:20:18.047Z",
-    "removed_at": "2025-10-16T21:21:35.082Z",
+    "removed_at": "2025-10-16T21:21:05.075Z",
     "duration_minutes": 781,
     "duration_str": "13h 1m"
   },
@@ -128,9 +128,8 @@
   {
     "title": "Trump approves CIA operations in Venezuela: What we know, and what’s next",
     "added_at": "2025-10-16T11:25:21.370Z",
-    "removed_at": "2025-10-16T17:52:59.543Z",
-    "duration_minutes": 388,
-    "duration_str": "6h 28m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Which countries owe the IMF the most money in 2025?",
@@ -142,8 +141,9 @@
   {
     "title": "Several killed, injured in bus explosion near Syria’s Deir Az Zor: State TV",
     "added_at": "2025-10-16T12:03:09.013Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-17T01:32:02.309Z",
+    "duration_minutes": 809,
+    "duration_str": "13h 29m"
   },
   {
     "title": "EU discusses ‘drone wall’ to protect airspace from Russian violations",
@@ -176,21 +176,22 @@
   {
     "title": "UN urges ‘lasting’ ceasefire after Pakistan-Afghanistan clashes kill dozens",
     "added_at": "2025-10-16T13:39:38.088Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-16T23:26:55.944Z",
+    "duration_minutes": 587,
+    "duration_str": "9h 47m"
   },
   {
     "title": "Ukraine’s Zelenskyy to meet Trump as Russia focuses on Donetsk offensive",
     "added_at": "2025-10-16T13:47:13.610Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-16T23:47:02.203Z",
+    "duration_minutes": 600,
+    "duration_str": "10h"
   },
   {
     "title": "Israel’s exploding robots still terrorise Gaza neighbourhoods",
     "added_at": "2025-10-16T14:22:25.525Z",
-    "removed_at": "2025-10-16T22:59:54.727Z",
-    "duration_minutes": 517,
-    "duration_str": "8h 37m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "What to know about Trump’s threat to take World Cup games from Boston",
@@ -202,8 +203,9 @@
   {
     "title": "Yemen’s Houthis say military chief killed as Israel claims responsibility",
     "added_at": "2025-10-16T15:53:54.494Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-16T23:38:05.101Z",
+    "duration_minutes": 464,
+    "duration_str": "7h 44m"
   },
   {
     "title": "What to know about the New York City mayoral debates",
@@ -236,22 +238,22 @@
   {
     "title": "Organisers dismiss Trump’s threat to move World Cup venues",
     "added_at": "2025-10-16T17:05:43.679Z",
-    "removed_at": "2025-10-16T20:32:17.850Z",
-    "duration_minutes": 207,
-    "duration_str": "3h 27m"
-  },
-  {
-    "title": "At least 2 killed as police in Kenya fire shots to disperse Odinga mourners",
-    "added_at": "2025-10-16T17:20:58.284Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
+    "title": "At least 2 killed as police in Kenya fire shots to disperse Odinga mourners",
+    "added_at": "2025-10-16T17:20:58.284Z",
+    "removed_at": "2025-10-17T01:07:22.651Z",
+    "duration_minutes": 466,
+    "duration_str": "7h 46m"
+  },
+  {
     "title": "Trump threatens ‘to go in and kill’ Hamas in Gaza over internal clashes",
     "added_at": "2025-10-16T17:52:59.543Z",
-    "removed_at": "2025-10-16T21:34:58.777Z",
-    "duration_minutes": 222,
-    "duration_str": "3h 42m"
+    "removed_at": "2025-10-16T21:34:13.758Z",
+    "duration_minutes": 221,
+    "duration_str": "3h 41m"
   },
   {
     "title": "Israel kills three in Gaza, Trump threatens ‘to go in and kill’ Hamas",
@@ -275,19 +277,19 @@
   },
   {
     "title": "Panama’s president alleges US threatening to revoke visas over China ties",
-    "added_at": "2025-10-16T20:32:17.850Z",
+    "added_at": "2025-10-16T20:31:57.367Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Israel delays Rafah crossing reopening as Gaza awaits much-needed aid surge",
-    "added_at": "2025-10-16T21:21:35.082Z",
+    "added_at": "2025-10-16T21:21:05.075Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Marwan Barghouti’s son says family fears for his life in Israeli prison",
-    "added_at": "2025-10-16T21:34:58.777Z",
+    "added_at": "2025-10-16T21:34:13.758Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -306,6 +308,18 @@
   {
     "title": "New York mayoral debate: What to know as Mamdani, Cuomo and Sliwa face off",
     "added_at": "2025-10-16T22:42:04.188Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "‘Party of parents’: Trump touts government guidance to increase IVF access",
+    "added_at": "2025-10-16T23:17:57.425Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Centrist US Democrat says he returned AIPAC donations, cites Netanyahu ties",
+    "added_at": "2025-10-16T23:38:05.101Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
