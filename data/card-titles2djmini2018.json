@@ -6448,7 +6448,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:00:57.917Z"
+    "added_at": "2025-05-22T18:00:57.917Z",
+    "removed_at": "2025-10-17T08:29:45.294Z",
+    "duration_minutes": 212548,
+    "duration_str": "147d 14h 28m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -41072,7 +41075,10 @@
   },
   {
     "title": "monde:::Boris Vallaud, l’éléphanteau raffiné du PS français",
-    "added_at": "2025-10-14T09:23:57.244Z"
+    "added_at": "2025-10-14T09:23:57.244Z",
+    "removed_at": "2025-10-17T09:41:26.187Z",
+    "duration_minutes": 4337,
+    "duration_str": "3d 17m"
   },
   {
     "title": "culture:::A Palerme, on célèbre le compositeur Alessandro Scarlatti, cet illustre méconnu",
@@ -41930,5 +41936,13 @@
   {
     "title": "monde:::Une bombe explose sous la voiture du journaliste d’investigation italien Sigfrido Ranucci, sans faire de victime",
     "added_at": "2025-10-17T06:55:12.539Z"
+  },
+  {
+    "title": "economie:::Vacheron Constantin expose au Louvre une pièce monumentale, entre automate et horloge astronomique",
+    "added_at": "2025-10-17T08:29:45.294Z"
+  },
+  {
+    "title": "monde:::Alors que la pression s’accentue sur la Russie, Vladimir Poutine décroche une nouvelle rencontre avec Donald Trump à Budapest",
+    "added_at": "2025-10-17T09:41:26.187Z"
   }
 ]
