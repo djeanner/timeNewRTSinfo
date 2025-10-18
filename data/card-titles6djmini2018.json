@@ -53389,7 +53389,10 @@
   },
   {
     "title": "Afghanistan accuses Pakistan of breaking truce as 10 killed in air attacks",
-    "added_at": "2025-10-18T06:35:07.525Z"
+    "added_at": "2025-10-18T06:35:07.525Z",
+    "removed_at": "2025-10-18T21:50:47.872Z",
+    "duration_minutes": 915,
+    "duration_str": "15h 15m"
   },
   {
     "title": "US court bars Israeli spyware firm from targeting WhatsApp users",
@@ -53397,7 +53400,10 @@
   },
   {
     "title": "Israel kills 11 Palestinian family members in Gaza’s deadliest truce breach",
-    "added_at": "2025-10-18T07:17:00.929Z"
+    "added_at": "2025-10-18T07:17:00.929Z",
+    "removed_at": "2025-10-18T23:00:45.446Z",
+    "duration_minutes": 943,
+    "duration_str": "15h 43m"
   },
   {
     "title": "China Eastern Airlines to resume flights to India after five-year freeze",
@@ -53436,7 +53442,10 @@
   },
   {
     "title": "Dozens injured, heavy security in Kenya as Odinga mourned before burial",
-    "added_at": "2025-10-18T11:33:48.559Z"
+    "added_at": "2025-10-18T11:33:48.559Z",
+    "removed_at": "2025-10-18T22:34:55.051Z",
+    "duration_minutes": 661,
+    "duration_str": "11h 1m"
   },
   {
     "title": "Zaporizhzhia nuclear plant repairs begin in Ukraine as ceasefire zones set",
@@ -53491,10 +53500,28 @@
   },
   {
     "title": "Hamas hands over two more Israeli captives’ bodies to Red Cross",
-    "added_at": "2025-10-18T20:53:57.988Z"
+    "added_at": "2025-10-18T20:53:57.988Z",
+    "removed_at": "2025-10-18T21:45:07.683Z",
+    "duration_minutes": 51,
+    "duration_str": "51m"
   },
   {
     "title": "Crowds gather for anti-Trump ‘No Kings’ protests across US",
     "added_at": "2025-10-18T20:53:57.988Z"
+  },
+  {
+    "title": "Hamas hands over two more captives’ bodies to Israel",
+    "added_at": "2025-10-18T21:45:07.683Z",
+    "removed_at": "2025-10-18T23:00:45.446Z",
+    "duration_minutes": 75,
+    "duration_str": "1h 15m"
+  },
+  {
+    "title": "Trump says US will repatriate survivors of ‘submarine’ attack",
+    "added_at": "2025-10-18T21:50:47.872Z"
+  },
+  {
+    "title": "Bosnia’s Republika Srpska installs temporary president as Dodik steps aside",
+    "added_at": "2025-10-18T22:34:55.051Z"
   }
 ]
