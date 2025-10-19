@@ -39417,10 +39417,7 @@
   },
   {
     "title": "Couleurs locales signé",
-    "added_at": "2025-09-05T05:49:08.299Z",
-    "removed_at": "2025-10-18T22:40:34.547Z",
-    "duration_minutes": 62931,
-    "duration_str": "43d 16h 51m"
+    "added_at": "2025-09-05T05:49:08.299Z"
   },
   {
     "title": "Lancement d'une prospection géothermique dans le Nord vaudois",
@@ -54507,7 +54504,10 @@
   },
   {
     "title": "A Fribourg, le PS lance un référendum contre le projet de budget cantonal",
-    "added_at": "2025-10-17T04:18:29.650Z"
+    "added_at": "2025-10-17T04:18:29.650Z",
+    "removed_at": "2025-10-19T03:02:15.640Z",
+    "duration_minutes": 2803,
+    "duration_str": "1d 22h 43m"
   },
   {
     "title": "Les lacs alpins deviennent moins acides, mais les coupes fédérales menacent leur surveillance",
@@ -54578,7 +54578,10 @@
   },
   {
     "title": "L'Europe s'accorde sur un plan pour renforcer sa capacité d'armement commune",
-    "added_at": "2025-10-17T08:18:26.306Z"
+    "added_at": "2025-10-17T08:18:26.306Z",
+    "removed_at": "2025-10-19T02:09:24.247Z",
+    "duration_minutes": 2510,
+    "duration_str": "1d 17h 50m"
   },
   {
     "title": "Quelle place dans la société pour les gens du voyage?",
@@ -54953,5 +54956,9 @@
   {
     "title": "\"Wokepedia\", l'encyclopédie en ligne dans le viseur de la droite américaine",
     "added_at": "2025-10-18T22:00:40.251Z"
+  },
+  {
+    "title": "Accord de cessez-le feu immédiat entre l'Afghanistan et le Pakistan",
+    "added_at": "2025-10-19T02:09:24.247Z"
   }
 ]
