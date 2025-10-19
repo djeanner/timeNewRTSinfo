@@ -54266,7 +54266,10 @@
   },
   {
     "title": "Nestlé va supprimer 16'000 postes, dont trois quarts d'emplois de bureau",
-    "added_at": "2025-10-16T08:07:07.215Z"
+    "added_at": "2025-10-16T08:07:07.215Z",
+    "removed_at": "2025-10-19T10:13:10.889Z",
+    "duration_minutes": 4446,
+    "duration_str": "3d 2h 6m"
   },
   {
     "title": "Le marché de la voiture électrique connaît des signes d'essoufflement en Suisse",
@@ -54545,7 +54548,10 @@
   },
   {
     "title": "Que s’est-il vraiment passé lors des manifestations pro-Gaza à Berne?",
-    "added_at": "2025-10-17T05:22:50.634Z"
+    "added_at": "2025-10-17T05:22:50.634Z",
+    "removed_at": "2025-10-19T10:03:46.142Z",
+    "duration_minutes": 3160,
+    "duration_str": "2d 4h 40m"
   },
   {
     "title": "Campagne de répression \"fructueuse\" contre les  trottinettes électriques en ville de Genève",
@@ -54627,11 +54633,17 @@
   },
   {
     "title": "Le colonel de l'armée malgache Michaël Randrianirina a été investi président de Madagascar",
-    "added_at": "2025-10-17T10:28:58.976Z"
+    "added_at": "2025-10-17T10:28:58.976Z",
+    "removed_at": "2025-10-19T09:24:07.347Z",
+    "duration_minutes": 2815,
+    "duration_str": "1d 22h 55m"
   },
   {
     "title": "Pauvre et exposé aux chocs climatiques: la double peine pour près de 900 millions de personnes",
-    "added_at": "2025-10-17T10:38:22.324Z"
+    "added_at": "2025-10-17T10:38:22.324Z",
+    "removed_at": "2025-10-19T09:14:37.349Z",
+    "duration_minutes": 2796,
+    "duration_str": "1d 22h 36m"
   },
   {
     "title": "La commission des dons pour Blatten approuve 25 demandes de soutien",
@@ -54668,7 +54680,10 @@
   },
   {
     "title": "L'absentéisme au travail en Espagne atteint des sommets",
-    "added_at": "2025-10-17T13:24:44.485Z"
+    "added_at": "2025-10-17T13:24:44.485Z",
+    "removed_at": "2025-10-19T09:54:16.671Z",
+    "duration_minutes": 2669,
+    "duration_str": "1d 20h 29m"
   },
   {
     "title": "Céline Bardet: Le viol de guerre est \"un outil mené par les politiques\"",
@@ -54941,7 +54956,10 @@
   },
   {
     "title": "Le Jura aux urnes pour élire son Gouvernement et son Parlement",
-    "added_at": "2025-10-18T15:00:05.363Z"
+    "added_at": "2025-10-18T15:00:05.363Z",
+    "removed_at": "2025-10-19T11:23:05.857Z",
+    "duration_minutes": 1223,
+    "duration_str": "20h 23m"
   },
   {
     "title": "A Genève, le Vert Nicolas Walder face à l'UDC Lionel Dugerdil pour une complémentaire indécise",
@@ -55053,5 +55071,68 @@
   {
     "title": "Nemo dévoile \"Arthouse\", un premier album entre pop et expérimentations",
     "added_at": "2025-10-19T08:25:24.288Z"
+  },
+  {
+    "title": "La guerre du pain est déclarée entre les grands magasins de distribution et les boulangeries",
+    "added_at": "2025-10-19T09:14:37.349Z"
+  },
+  {
+    "title": "Braquage à l'ouverture du Louvre, le musée fermé pour la journée",
+    "added_at": "2025-10-19T09:24:07.347Z",
+    "removed_at": "2025-10-19T09:25:57.194Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Le musée du Louvre a été braqué à son ouverture dimanche, il restera fermé pour la journée",
+    "added_at": "2025-10-19T09:25:57.194Z",
+    "removed_at": "2025-10-19T10:49:07.063Z",
+    "duration_minutes": 83,
+    "duration_str": "1h 23m"
+  },
+  {
+    "title": "Israël frappe Gaza malgré le cessez-le-feu, accusant le Hamas de violations",
+    "added_at": "2025-10-19T09:54:16.671Z"
+  },
+  {
+    "title": "Twist – L’engagement politique a-t-il sa place à l’école ?",
+    "added_at": "2025-10-19T10:03:46.142Z"
+  },
+  {
+    "title": "Braquage spectaculaire au Louvre, des pièces d’une valeur inestimable ont été dérobées",
+    "added_at": "2025-10-19T10:49:07.063Z",
+    "removed_at": "2025-10-19T10:50:56.799Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Braquage spectaculaire au Louvre, des pièces d’une \"valeur inestimable\" ont été dérobées",
+    "added_at": "2025-10-19T10:50:56.799Z"
+  },
+  {
+    "title": "Le Vert Nicolas Walder arrive en tête du deuxième tour de l'élection complémentaire au Conseil d'Etat genevois",
+    "added_at": "2025-10-19T10:52:50.960Z",
+    "removed_at": "2025-10-19T10:54:46.896Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Le Vert Nicolas Walder arrive en tête du 2e tour de l'élection complémentaire au Conseil d'Etat genevois",
+    "added_at": "2025-10-19T10:54:46.896Z",
+    "removed_at": "2025-10-19T11:04:10.102Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Le Vert Nicolas Walder accédera au Conseil d'Etat genevois, il devance l'UDC Lionel Dugerdil de 4500 voix",
+    "added_at": "2025-10-19T11:04:10.102Z"
+  },
+  {
+    "title": "Elections jurassiennes: les résultats des premières communes sont tombés",
+    "added_at": "2025-10-19T11:23:05.857Z"
+  },
+  {
+    "title": "Sam Rivers, le bassiste et cofondateur de Limp Bizkit, est mort à l'âge de 48 ans",
+    "added_at": "2025-10-19T11:23:05.857Z"
   }
 ]
