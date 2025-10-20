@@ -42503,7 +42503,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Volodymyr Zelensky exhorte ses alliés à renoncer à l’apaisement face à Moscou",
-    "added_at": "2025-10-19T12:59:35.527Z"
+    "added_at": "2025-10-19T12:59:35.527Z",
+    "removed_at": "2025-10-19T23:57:40.762Z",
+    "duration_minutes": 658,
+    "duration_str": "10h 58m"
   },
   {
     "title": "cyber:::«Les mystères de l’IA», un livre pour comprendre toutes les facettes de l’intelligence artificielle dès l’âge de 10 ans",
@@ -42586,7 +42589,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël annonce suspendre l’entrée de l’aide humanitaire dans la bande de Gaza",
-    "added_at": "2025-10-19T16:14:20.677Z"
+    "added_at": "2025-10-19T16:14:20.677Z",
+    "removed_at": "2025-10-20T00:25:58.972Z",
+    "duration_minutes": 491,
+    "duration_str": "8h 11m"
   },
   {
     "title": "suisse:::Jura: un score canon du PS et beaucoup d’incertitudes",
@@ -42615,5 +42621,24 @@
   {
     "title": "monde:::Un commando de malfaiteurs vole des joyaux d’une valeur «inestimable» au musée du Louvre",
     "added_at": "2025-10-19T21:54:42.573Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine − Notre suivi de la semaine du 13 octobre",
+    "added_at": "2025-10-19T23:57:40.762Z",
+    "removed_at": "2025-10-20T01:05:37.132Z",
+    "duration_minutes": 67,
+    "duration_str": "1h 7m"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Notre suivi de la semaine du 13 octobre",
+    "added_at": "2025-10-20T00:25:58.972Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le cessez-le-feu entre Israël et le Hamas toujours en application, affirme Donald Trump",
+    "added_at": "2025-10-20T01:05:37.132Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Une attaque de drone fait au moins deux morts dans la région russe de Belgorod",
+    "added_at": "2025-10-20T01:05:37.132Z"
   }
 ]
