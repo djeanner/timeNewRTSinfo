@@ -54153,7 +54153,10 @@
   },
   {
     "title": "Les militaires ont pris le pouvoir à Madagascar",
-    "added_at": "2025-10-15T23:18:14.045Z"
+    "added_at": "2025-10-15T23:18:14.045Z",
+    "removed_at": "2025-10-20T20:16:58.203Z",
+    "duration_minutes": 7018,
+    "duration_str": "4d 20h 58m"
   },
   {
     "title": "La cave suisse de l'année est à nouveau valaisanne",
@@ -54945,7 +54948,10 @@
   },
   {
     "title": "\"On est dans une sorte de zone grise, ni en guerre totalement mais pas en paix non plus\"",
-    "added_at": "2025-10-18T05:30:57.788Z"
+    "added_at": "2025-10-18T05:30:57.788Z",
+    "removed_at": "2025-10-20T20:26:22.119Z",
+    "duration_minutes": 3775,
+    "duration_str": "2d 14h 55m"
   },
   {
     "title": "Une destruction \"jamais vue\" à Gaza, le tabou de la dépression post-partum et un plongeon depuis une montgolfière",
@@ -55012,7 +55018,10 @@
   },
   {
     "title": "Les prisons privées aux USA, un \"business inhumain\" entretenu par la police de l'immigration",
-    "added_at": "2025-10-18T09:59:22.635Z"
+    "added_at": "2025-10-18T09:59:22.635Z",
+    "removed_at": "2025-10-20T20:30:07.928Z",
+    "duration_minutes": 3510,
+    "duration_str": "2d 10h 30m"
   },
   {
     "title": "Podcast - Le crime des falaises de St-Jean",
@@ -55037,7 +55046,10 @@
   },
   {
     "title": "L'Iran dit ne plus être tenu par les \"restrictions\" liées à son programme nucléaire",
-    "added_at": "2025-10-18T11:33:47.570Z"
+    "added_at": "2025-10-18T11:33:47.570Z",
+    "removed_at": "2025-10-20T18:51:55.723Z",
+    "duration_minutes": 3318,
+    "duration_str": "2d 7h 18m"
   },
   {
     "title": "Le PLR dit nettement oui aux accords avec l'Union européenne",
@@ -55070,11 +55082,17 @@
   },
   {
     "title": "Ergothérapie et santé mentale: quand l'activité éclaire le rétablissement",
-    "added_at": "2025-10-18T12:53:19.005Z"
+    "added_at": "2025-10-18T12:53:19.005Z",
+    "removed_at": "2025-10-20T18:21:39.021Z",
+    "duration_minutes": 3208,
+    "duration_str": "2d 5h 28m"
   },
   {
     "title": "Un carac rose géant dévoilé et dévoré à Yverdon-les-Bains pour sensibiliser au cancer du sein",
-    "added_at": "2025-10-18T13:57:34.059Z"
+    "added_at": "2025-10-18T13:57:34.059Z",
+    "removed_at": "2025-10-20T18:48:05.488Z",
+    "duration_minutes": 3170,
+    "duration_str": "2d 4h 50m"
   },
   {
     "title": "Sextorsion et deepfake: une nouvelle ligne de front dans la lutte contre la cybercriminalité",
@@ -55472,9 +55490,9 @@
   {
     "title": "Le PLR soutient à 75% les nouveaux accords avec l'Union européenne: interview de Florence Bettschart-Narbel",
     "added_at": "2025-10-19T22:28:42.948Z",
-    "removed_at": "2025-10-20T18:04:27.309Z",
-    "duration_minutes": 1175,
-    "duration_str": "19h 35m"
+    "removed_at": "2025-10-20T19:03:16.084Z",
+    "duration_minutes": 1234,
+    "duration_str": "20h 34m"
   },
   {
     "title": "À lʹœuvre on connaît lʹartisan",
@@ -55634,5 +55652,36 @@
   {
     "title": "Des bombardements israéliens et des groupes dissidents sèment la confusion à Gaza malgré le cessez-le-feu",
     "added_at": "2025-10-20T18:06:23.488Z"
+  },
+  {
+    "title": "Fin de l'aventure pour le Tessinois Remy Bertola",
+    "added_at": "2025-10-20T18:21:39.021Z"
+  },
+  {
+    "title": "La Tour Malley relance son chantier extérieur quinze mois après l'accident mortel",
+    "added_at": "2025-10-20T18:48:05.488Z",
+    "removed_at": "2025-10-20T19:10:46.437Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
+  },
+  {
+    "title": "Lausanne fête les 750 ans de sa cathédrale, un joyau gothique fragile",
+    "added_at": "2025-10-20T18:51:55.723Z"
+  },
+  {
+    "title": "Le chantier extérieur de la Tour Malley relancé quinze mois après l'accident mortel",
+    "added_at": "2025-10-20T19:10:46.437Z"
+  },
+  {
+    "title": "Une panne informatique chez Amazon impacte des millions de personnes dans le monde: interview de Steven Meyer",
+    "added_at": "2025-10-20T20:16:58.203Z"
+  },
+  {
+    "title": "Uli Forte viré par Winterthour",
+    "added_at": "2025-10-20T20:26:22.119Z"
+  },
+  {
+    "title": "L'enquête sur l'accident de funiculaire à Lisbonne révèle que le câble n'était pas aux normes",
+    "added_at": "2025-10-20T20:30:07.928Z"
   }
 ]

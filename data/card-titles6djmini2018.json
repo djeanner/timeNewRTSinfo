@@ -54093,7 +54093,10 @@
   },
   {
     "title": "Amazon’s AWS struggles to recover after outage disrupts apps, services",
-    "added_at": "2025-10-20T15:18:01.692Z"
+    "added_at": "2025-10-20T15:18:01.692Z",
+    "removed_at": "2025-10-20T20:05:39.213Z",
+    "duration_minutes": 287,
+    "duration_str": "4h 47m"
   },
   {
     "title": "South Korea police seek warrants for 58 repatriated scam centre suspects",
@@ -54126,5 +54129,9 @@
   {
     "title": "US, Australia sign rare earth, mineral agreement as China tightens supply",
     "added_at": "2025-10-20T17:45:33.068Z"
+  },
+  {
+    "title": "Amazon Web Services struggling to recover from global web outages",
+    "added_at": "2025-10-20T20:05:39.213Z"
   }
 ]
