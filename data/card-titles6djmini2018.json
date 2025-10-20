@@ -53827,7 +53827,10 @@
   },
   {
     "title": "What we know about Pakistan-Afghanistan ceasefire, will it hold?",
-    "added_at": "2025-10-19T18:47:35.195Z"
+    "added_at": "2025-10-19T18:47:35.195Z",
+    "removed_at": "2025-10-20T09:39:45.313Z",
+    "duration_minutes": 892,
+    "duration_str": "14h 52m"
   },
   {
     "title": "Israel says Gaza ceasefire back on after day of attacks kills dozens",
@@ -53880,7 +53883,10 @@
   },
   {
     "title": "Last Ebola patient discharged in DR Congo, WHO says",
-    "added_at": "2025-10-19T21:47:13.784Z"
+    "added_at": "2025-10-19T21:47:13.784Z",
+    "removed_at": "2025-10-20T09:34:05.186Z",
+    "duration_minutes": 706,
+    "duration_str": "11h 46m"
   },
   {
     "title": "Israel hits 20 strikes Gaza as both sides claim the other breached truce",
@@ -53940,5 +53946,31 @@
   {
     "title": "Coalition deal set to make Takaichi Japan’s first female PM",
     "added_at": "2025-10-20T07:36:52.610Z"
+  },
+  {
+    "title": "Two killed as cargo plane skids off Hong Kong runway",
+    "added_at": "2025-10-20T09:28:25.271Z"
+  },
+  {
+    "title": "Snapchat, many other apps, sites down as outage hits Amazon Web Services",
+    "added_at": "2025-10-20T09:34:05.186Z",
+    "removed_at": "2025-10-20T09:56:44.613Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
+  },
+  {
+    "title": "Amazon cloud problems spur outage of global websites and apps",
+    "added_at": "2025-10-20T09:39:45.313Z"
+  },
+  {
+    "title": "Snapchat, other major apps, sites down as outage hits Amazon Web Services",
+    "added_at": "2025-10-20T09:56:44.613Z"
+  },
+  {
+    "title": "Amazon Web Services issue spurs outage of global websites and apps",
+    "added_at": "2025-10-20T09:56:44.613Z",
+    "removed_at": "2025-10-20T09:58:40.744Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
   }
 ]
