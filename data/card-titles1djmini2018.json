@@ -55533,14 +55533,14 @@
   },
   {
     "title": "Des millions d’Américains protestent contre la politique de Donald Trump",
-    "added_at": "2025-10-19T22:28:42.948Z"
+    "added_at": "2025-10-19T22:28:42.948Z",
+    "removed_at": "2025-10-22T00:02:45.701Z",
+    "duration_minutes": 2974,
+    "duration_str": "2d 1h 34m"
   },
   {
     "title": "Nestlé va supprimer 16’000 emplois dans les deux prochaines années",
-    "added_at": "2025-10-19T22:28:42.948Z",
-    "removed_at": "2025-10-21T17:23:17.020Z",
-    "duration_minutes": 2574,
-    "duration_str": "1d 18h 54m"
+    "added_at": "2025-10-19T22:28:42.948Z"
   },
   {
     "title": "Le journaliste Rouven Gueissaz revient sur l'état du PLR après ces débats",
@@ -55619,7 +55619,10 @@
   },
   {
     "title": "Une collision lors de l'atterrissage d'un avion-cargo à Hong Kong fait deux morts",
-    "added_at": "2025-10-20T02:32:32.689Z"
+    "added_at": "2025-10-20T02:32:32.689Z",
+    "removed_at": "2025-10-22T00:40:35.873Z",
+    "duration_minutes": 2768,
+    "duration_str": "1d 22h 8m"
   },
   {
     "title": "L'association Pegasos ravive la controverse sur les procédures de l'assistance au suicide en Suisse",
@@ -56075,5 +56078,9 @@
   {
     "title": "Mobilisation des réformés romands après la mise à l'écart de deux journalistes de ProtestInfo",
     "added_at": "2025-10-21T20:40:17.773Z"
+  },
+  {
+    "title": "Un assaillant du Capitole arrêté pour menace menace terroriste",
+    "added_at": "2025-10-22T00:40:35.873Z"
   }
 ]
