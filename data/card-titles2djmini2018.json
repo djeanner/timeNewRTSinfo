@@ -43345,7 +43345,10 @@
   },
   {
     "title": "sport:::A Bâle, Stan Wawrinka réussit son meilleur match de l’année et renoue avec la victoire",
-    "added_at": "2025-10-22T03:09:52.367Z"
+    "added_at": "2025-10-22T03:09:52.367Z",
+    "removed_at": "2025-10-22T21:23:21.252Z",
+    "duration_minutes": 1093,
+    "duration_str": "18h 13m"
   },
   {
     "title": "monde:::Dans une vidéo IA publié sur son réseau social, Donald Trump jette des excréments sur ses opposants: signe de «folie» ou «astuce politique»?",
@@ -43533,5 +43536,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – La Cour internationale de justice demande à Israël de laisser l'aide entrer à Gaza",
     "added_at": "2025-10-22T18:42:29.486Z"
+  },
+  {
+    "title": "suisse:::Le dossier électronique du patient, un malade qui peine à se soigner",
+    "added_at": "2025-10-22T21:25:11.007Z"
   }
 ]
