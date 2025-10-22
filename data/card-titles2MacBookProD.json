@@ -39908,7 +39908,10 @@
   },
   {
     "title": "economie:::Malgré le contexte morose, le taux de chômage en Suisse reste stable",
-    "added_at": "2025-10-06T12:52:56.737Z"
+    "added_at": "2025-10-06T12:52:56.737Z",
+    "removed_at": "2025-10-22T14:39:18.397Z",
+    "duration_minutes": 23146,
+    "duration_str": "16d 1h 46m"
   },
   {
     "title": "culture:::Sur son premier album, la Neuchâteloise Prune Carmen Diaz chante les vertus de la désobéissance",
@@ -43529,7 +43532,10 @@
   },
   {
     "title": "monde:::Cinq regards d’ambassadeurs sur la Suisse, ce petit pays parfois surprenant qui doit relever beaucoup de défis",
-    "added_at": "2025-10-21T09:11:55.740Z"
+    "added_at": "2025-10-21T09:11:55.740Z",
+    "removed_at": "2025-10-22T15:18:30.396Z",
+    "duration_minutes": 1806,
+    "duration_str": "1d 6h 6m"
   },
   {
     "title": "suisse:::Paul Widmer: «En politique étrangère, la Suisse doit avoir le courage d’être parfois à contre-courant!»",
@@ -43625,7 +43631,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Volodymyr Zelensky se rend aujourd’hui en Suède, qui produit le Gripen, pour un accord sur des exportations d’armes",
-    "added_at": "2025-10-22T10:24:59.215Z"
+    "added_at": "2025-10-22T10:24:59.215Z",
+    "removed_at": "2025-10-22T13:26:14.618Z",
+    "duration_minutes": 181,
+    "duration_str": "3h 1m"
   },
   {
     "title": "monde:::Salle de bal, dorures et drapeaux géants: comment Donald Trump transforme la Maison-Blanche à son image",
@@ -43746,5 +43755,28 @@
   {
     "title": "suisse:::Les principaux syndicats suisses soutiennent le paquet d’accords avec l’UE",
     "added_at": "2025-10-22T12:45:27.892Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Volodymyr Zelensky est en Suède, qui produit le Gripen, pour un accord sur des exportations d’armes",
+    "added_at": "2025-10-22T13:26:14.618Z",
+    "removed_at": "2025-10-22T15:02:04.883Z",
+    "duration_minutes": 95,
+    "duration_str": "1h 35m"
+  },
+  {
+    "title": "economie:::L’économie romande vacille face à la tempête protectionniste",
+    "added_at": "2025-10-22T14:39:18.397Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − L’Ukraine et la Suède signent un accord pour l’achat de jusqu’à 150 avions de chasse Gripen",
+    "added_at": "2025-10-22T15:02:04.883Z"
+  },
+  {
+    "title": "culture:::«Miroirs No. 3», un jour, une femme sur la route",
+    "added_at": "2025-10-22T15:11:38.130Z"
+  },
+  {
+    "title": "economie:::Innovation et infrastructures, les petits dénominateurs communs de la politique économique suisse",
+    "added_at": "2025-10-22T15:18:30.396Z"
   }
 ]
