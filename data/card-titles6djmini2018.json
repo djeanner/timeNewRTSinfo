@@ -54441,14 +54441,14 @@
   },
   {
     "title": "WFP says food supplies to Gaza below targets, urges more crossings to open",
-    "added_at": "2025-10-21T14:36:43.424Z"
+    "added_at": "2025-10-21T14:36:43.424Z",
+    "removed_at": "2025-10-22T02:43:27.642Z",
+    "duration_minutes": 726,
+    "duration_str": "12h 6m"
   },
   {
     "title": "Trump claims Middle East countries offered to fight Hamas in Gaza",
-    "added_at": "2025-10-21T15:12:40.792Z",
-    "removed_at": "2025-10-21T22:13:00.872Z",
-    "duration_minutes": 420,
-    "duration_str": "7h"
+    "added_at": "2025-10-21T15:12:40.792Z"
   },
   {
     "title": "How Russia’s new tactics pose fresh winter threat to Ukraine",
@@ -54536,7 +54536,10 @@
   },
   {
     "title": "WHO warns $1.7bn funding shortfall threatens polio eradication efforts",
-    "added_at": "2025-10-21T22:13:00.872Z"
+    "added_at": "2025-10-21T22:13:00.872Z",
+    "removed_at": "2025-10-22T01:16:36.306Z",
+    "duration_minutes": 183,
+    "duration_str": "3h 3m"
   },
   {
     "title": "Hundreds of anti-immigrant protesters burn vehicle, attack police in Dublin",
@@ -54549,5 +54552,23 @@
   {
     "title": "Russia-Ukraine war: List of key events, day 1,336",
     "added_at": "2025-10-22T00:27:21.330Z"
+  },
+  {
+    "title": "North Korea fires ‘unidentified’ ballistic missiles towards East Sea: Seoul",
+    "added_at": "2025-10-22T01:16:36.306Z",
+    "removed_at": "2025-10-22T01:58:09.942Z",
+    "duration_minutes": 41,
+    "duration_str": "41m"
+  },
+  {
+    "title": "North Korea fires multiple ballistic missiles towards East Sea",
+    "added_at": "2025-10-22T01:58:09.942Z"
+  },
+  {
+    "title": "Israel, Hamas return more bodies of captives under Gaza ceasefire deal",
+    "added_at": "2025-10-22T02:43:27.642Z",
+    "removed_at": "2025-10-22T02:58:32.341Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
   }
 ]
