@@ -38837,7 +38837,10 @@
   },
   {
     "title": "economie:::Malgré le contexte morose, le taux de chômage en Suisse reste stable",
-    "added_at": "2025-10-06T12:53:36.299Z"
+    "added_at": "2025-10-06T12:53:36.299Z",
+    "removed_at": "2025-10-22T14:40:21.716Z",
+    "duration_minutes": 23146,
+    "duration_str": "16d 1h 46m"
   },
   {
     "title": "culture:::Sur son premier album, la Neuchâteloise Prune Carmen Diaz chante les vertus de la désobéissance",
@@ -43408,7 +43411,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Volodymyr Zelensky se rend aujourd’hui en Suède, qui produit le Gripen, pour un accord sur des exportations d’armes",
-    "added_at": "2025-10-22T08:10:36.731Z"
+    "added_at": "2025-10-22T08:10:36.731Z",
+    "removed_at": "2025-10-22T13:26:37.410Z",
+    "duration_minutes": 316,
+    "duration_str": "5h 16m"
   },
   {
     "title": "suisse:::Noémie Roten: «Le service citoyen renforce la sécurité en mobilisant deux fois plus de citoyennes et de citoyens»",
@@ -43473,5 +43479,20 @@
   {
     "title": "suisse:::Les principaux syndicats suisses soutiennent le paquet d’accords avec l’UE",
     "added_at": "2025-10-22T12:44:47.548Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Volodymyr Zelensky est en Suède, qui produit le Gripen, pour un accord sur des exportations d’armes",
+    "added_at": "2025-10-22T13:26:37.410Z",
+    "removed_at": "2025-10-22T15:01:07.323Z",
+    "duration_minutes": 94,
+    "duration_str": "1h 34m"
+  },
+  {
+    "title": "economie:::L’économie romande vacille face à la tempête protectionniste",
+    "added_at": "2025-10-22T14:40:21.716Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − L’Ukraine et la Suède signent un accord pour l’achat de jusqu’à 150 avions de chasse Gripen",
+    "added_at": "2025-10-22T15:01:07.323Z"
   }
 ]
