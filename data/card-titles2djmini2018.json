@@ -43187,7 +43187,10 @@
   },
   {
     "title": "suisse:::Deux armureries vaudoises ciblées par des cambrioleurs au volant de voitures de luxe volées",
-    "added_at": "2025-10-21T14:06:27.363Z"
+    "added_at": "2025-10-21T14:06:27.363Z",
+    "removed_at": "2025-10-22T06:15:17.401Z",
+    "duration_minutes": 968,
+    "duration_str": "16h 8m"
   },
   {
     "title": "culture:::«Gaucho Gaucho» et «El eco», le retour du documentaire lyrique",
@@ -43202,7 +43205,10 @@
   },
   {
     "title": "sport:::Stan Wawrinka, par les chemins noirs",
-    "added_at": "2025-10-21T15:10:43.582Z"
+    "added_at": "2025-10-21T15:10:43.582Z",
+    "removed_at": "2025-10-22T05:45:02.159Z",
+    "duration_minutes": 874,
+    "duration_str": "14h 34m"
   },
   {
     "title": "monde:::En Italie, Giorgia Meloni s’impose dans la durée",
@@ -43225,7 +43231,10 @@
   },
   {
     "title": "cyber:::Les pannes numériques planétaires se succèdent, dévoilant notre dépendance à des géants de la tech tout- puissants",
-    "added_at": "2025-10-21T17:17:37.614Z"
+    "added_at": "2025-10-21T17:17:37.614Z",
+    "removed_at": "2025-10-22T06:45:27.168Z",
+    "duration_minutes": 807,
+    "duration_str": "13h 27m"
   },
   {
     "title": "economie:::Alors que l’euro atteint un plus bas face au franc, les exportations suisses sont en recul",
@@ -43331,7 +43340,10 @@
   },
   {
     "title": "monde:::Salle de bal, dorures et drapeaux géants: Comment Donald Trump transforme la Maison-Blanche à son image",
-    "added_at": "2025-10-22T04:44:30.387Z"
+    "added_at": "2025-10-22T04:44:30.387Z",
+    "removed_at": "2025-10-22T07:06:16.388Z",
+    "duration_minutes": 141,
+    "duration_str": "2h 21m"
   },
   {
     "title": "suisse:::En graphiques – Une société suisse fractionnée dans un monde instable",
@@ -43343,5 +43355,28 @@
   {
     "title": "suisse:::Sondage exclusif – Une société suisse fractionnée dans un monde instable",
     "added_at": "2025-10-22T05:41:08.518Z"
+  },
+  {
+    "title": "monde:::Au Pérou, la Gen Z à l’assaut d’une classe politique corrompue et incapable de gouverner",
+    "added_at": "2025-10-22T05:45:02.159Z",
+    "removed_at": "2025-10-22T05:54:28.328Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "monde:::Etat d'urgence au Pérou: la Gen Z à l’assaut d’une classe politique corrompue et incapable de gouverner",
+    "added_at": "2025-10-22T05:54:28.328Z"
+  },
+  {
+    "title": "suisse:::Vincent Pellissier, directeur de la CGN: «Il existe des potentiels de transport public dans la région du Haut-Lac»",
+    "added_at": "2025-10-22T06:26:37.907Z"
+  },
+  {
+    "title": "cyber:::OpenAI lance Atlas, un navigateur web dopé à ChatGPT aux capacités révolutionnaires: notre test",
+    "added_at": "2025-10-22T06:45:27.168Z"
+  },
+  {
+    "title": "monde:::Salle de bal, dorures et drapeaux géants: comment Donald Trump transforme la Maison-Blanche à son image",
+    "added_at": "2025-10-22T07:06:16.388Z"
   }
 ]
