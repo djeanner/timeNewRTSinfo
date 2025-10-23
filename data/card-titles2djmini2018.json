@@ -43250,7 +43250,10 @@
   },
   {
     "title": "economie:::Alors que l’euro atteint un plus bas face au franc, les exportations suisses sont en recul",
-    "added_at": "2025-10-21T17:25:07.560Z"
+    "added_at": "2025-10-21T17:25:07.560Z",
+    "removed_at": "2025-10-22T23:11:16.433Z",
+    "duration_minutes": 1786,
+    "duration_str": "1d 5h 46m"
   },
   {
     "title": "culture:::«Springsteen: Deliver Me from Nowhere», retour vers le futur du rock’n’roll",
@@ -43405,7 +43408,10 @@
   },
   {
     "title": "suisse:::Vincent Pellissier, directeur de la CGN: «Il existe des potentiels de transport public dans la région du Haut-Lac»",
-    "added_at": "2025-10-22T06:26:37.907Z"
+    "added_at": "2025-10-22T06:26:37.907Z",
+    "removed_at": "2025-10-22T22:29:40.553Z",
+    "duration_minutes": 963,
+    "duration_str": "16h 3m"
   },
   {
     "title": "cyber:::OpenAI lance Atlas, un navigateur web dopé à ChatGPT aux capacités révolutionnaires: notre test",
@@ -43508,7 +43514,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − L’Ukraine et la Suède signent un accord pour l’achat de jusqu’à 150 avions de chasse Gripen",
-    "added_at": "2025-10-22T15:01:07.323Z"
+    "added_at": "2025-10-22T15:01:07.323Z",
+    "removed_at": "2025-10-22T22:27:46.435Z",
+    "duration_minutes": 446,
+    "duration_str": "7h 26m"
   },
   {
     "title": "culture:::«Miroirs No. 3», un jour, une femme sur la route",
@@ -43540,5 +43549,20 @@
   {
     "title": "suisse:::Le dossier électronique du patient, un malade qui peine à se soigner",
     "added_at": "2025-10-22T21:25:11.007Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Les Etats-Unis imposent des sanctions aux groupes pétroliers russes Rosneft et Lukoil",
+    "added_at": "2025-10-22T22:27:46.435Z",
+    "removed_at": "2025-10-23T00:21:02.804Z",
+    "duration_minutes": 113,
+    "duration_str": "1h 53m"
+  },
+  {
+    "title": "monde:::La pression augmente sur les avoirs russes gelés dans l’UE. Et si l’Ukraine obtenait un «prêt» de 140 milliards d’euros?",
+    "added_at": "2025-10-22T23:11:16.433Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Excédés par Vladimir Poutine, les Etats-Unis et l’UE sanctionnent le pétrole russe",
+    "added_at": "2025-10-23T00:21:02.804Z"
   }
 ]
