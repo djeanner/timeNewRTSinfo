@@ -1,9 +1,305 @@
 [
   {
     "title": "monde:::En direct, guerre en Ukraine − Excédés par Vladimir Poutine, les Etats-Unis et l’UE sanctionnent le pétrole russe",
-    "added_at": "2025-10-23T00:28:24.449Z",
-    "removed_at": "2025-10-24T08:07:34.775Z",
-    "duration_minutes": 1899,
-    "duration_str": "1d 7h 39m"
+    "added_at": "2025-10-23T00:21:02.804Z",
+    "removed_at": "2025-10-23T07:47:16.300Z",
+    "duration_minutes": 446,
+    "duration_str": "7h 26m"
+  },
+  {
+    "title": "monde:::Les frappes ukrainiennes sur les installations énergétiques russes priveront-elles bientôt Moscou d’essence?",
+    "added_at": "2025-10-23T06:05:09.163Z",
+    "removed_at": "2025-10-24T14:39:00.309Z",
+    "duration_minutes": 1954,
+    "duration_str": "1d 8h 34m"
+  },
+  {
+    "title": "suisse:::Des consommateurs «exploités»: une étude dénonce des marges exagérées sur les produits biologiques",
+    "added_at": "2025-10-23T17:58:24.537Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "culture:::Directrice de la Comédie de Genève, Séverine Chavrier répond aux critiques: «Je suis victime d’une cabale, on veut ma tête»",
+    "added_at": "2025-10-23T16:19:44.702Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "culture:::A Genève, des artistes unissent leurs voix pour Gaza",
+    "added_at": "2025-10-23T19:27:16.332Z",
+    "removed_at": "2025-10-24T14:39:00.309Z",
+    "duration_minutes": 1152,
+    "duration_str": "19h 12m"
+  },
+  {
+    "title": "culture:::A Genève, Dominique Ziegler raconte 12 000 ans d’histoire (capitaliste) au pas de course",
+    "added_at": "2025-10-23T13:50:17.715Z",
+    "removed_at": "2025-10-24T14:39:00.309Z",
+    "duration_minutes": 1489,
+    "duration_str": "1d 49m"
+  },
+  {
+    "title": "monde:::Le scandale de trop pour le prince Andrew, à qui la classe politique veut désormais retirer tous ses titres",
+    "added_at": "2025-10-23T15:09:48.656Z",
+    "removed_at": "2025-10-24T14:39:00.309Z",
+    "duration_minutes": 1409,
+    "duration_str": "23h 29m"
+  },
+  {
+    "title": "monde:::Friedrich Merz provoque une vive polémique en décrivant l’immigration comme «un problème dans le paysage urbain»",
+    "added_at": "2025-10-23T15:55:11.903Z",
+    "removed_at": "2025-10-24T14:39:00.309Z",
+    "duration_minutes": 1364,
+    "duration_str": "22h 44m"
+  },
+  {
+    "title": "sport:::Un début de campagne en fanfare pour le Lausanne-Sport, encore vainqueur à Malte",
+    "added_at": "2025-10-23T22:23:23.544Z",
+    "removed_at": "2025-10-24T14:39:00.309Z",
+    "duration_minutes": 976,
+    "duration_str": "16h 16m"
+  },
+  {
+    "title": "sport:::Nicolas Hale-Woods au Forum des 100: «Les sports d’hiver représentent une part énorme du PIB»",
+    "added_at": "2025-10-23T22:21:33.428Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Pierre Krähenbühl au Forum des 100: «On tolère que la guerre redevienne une norme acceptable»",
+    "added_at": "2025-10-23T14:03:28.089Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::Mix et intégration européenne: des débats électriques sur l’énergie au Forum des 100",
+    "added_at": "2025-10-23T14:52:48.016Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::En Chine, la technologie ne sera plus un but mais un combat: le 15e plan quinquennal se précise",
+    "added_at": "2025-10-23T17:10:48.518Z",
+    "removed_at": "2025-10-24T03:27:47.619Z",
+    "duration_minutes": 617,
+    "duration_str": "10h 17m"
+  },
+  {
+    "title": "suisse:::Martin Pfister: «En Europe, il est crucial de faire front commun»",
+    "added_at": "2025-10-23T04:11:43.911Z",
+    "removed_at": "2025-10-23T16:59:27.686Z",
+    "duration_minutes": 768,
+    "duration_str": "12h 48m"
+  },
+  {
+    "title": "sport:::Adversaire de Lausanne-Sport, Hamrun Spartans a réveillé le football maltais",
+    "added_at": "2025-10-23T04:40:03.155Z",
+    "removed_at": "2025-10-23T10:03:14.799Z",
+    "duration_minutes": 323,
+    "duration_str": "5h 23m"
+  },
+  {
+    "title": "monde:::Donald Trump demande 230 millions de dommages et intérêts à son propre gouvernement",
+    "added_at": "2025-10-23T05:00:45.800Z",
+    "removed_at": "2025-10-23T16:59:27.686Z",
+    "duration_minutes": 719,
+    "duration_str": "11h 59m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Volodymyr Zelensky salue les sanctions européennes et américaines contre Moscou, un pas «très important»",
+    "added_at": "2025-10-23T07:47:16.300Z",
+    "removed_at": "2025-10-23T08:34:25.338Z",
+    "duration_minutes": 47,
+    "duration_str": "47m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – La Suisse débloque deux millions de francs pour l'aide humanitaire à Gaza",
+    "added_at": "2025-10-23T08:02:20.455Z",
+    "removed_at": "2025-10-23T10:27:54.636Z",
+    "duration_minutes": 146,
+    "duration_str": "2h 26m"
+  },
+  {
+    "title": "suisse:::Des rafales jusqu’à 130 km/h en Suisse avec la tempête Benjamin",
+    "added_at": "2025-10-23T08:26:54.790Z",
+    "removed_at": "2025-10-23T12:46:02.331Z",
+    "duration_minutes": 259,
+    "duration_str": "4h 19m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − La Russie assure être immunisée contre les sanctions américaines sur son pétrole",
+    "added_at": "2025-10-23T08:34:25.338Z",
+    "removed_at": "2025-10-23T10:10:55.326Z",
+    "duration_minutes": 96,
+    "duration_str": "1h 36m"
+  },
+  {
+    "title": "culture:::Au Vevey International Fil Festival, des comédies où rire rime avec désir",
+    "added_at": "2025-10-23T08:41:59.358Z",
+    "removed_at": "2025-10-23T08:53:18.966Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "culture:::Au Vevey International Film Festival, des comédies où rire rime avec désir",
+    "added_at": "2025-10-23T08:53:18.966Z",
+    "removed_at": "2025-10-23T10:26:04.556Z",
+    "duration_minutes": 93,
+    "duration_str": "1h 33m"
+  },
+  {
+    "title": "suisse:::Joseph Deiss au Forum des 100: «La Suisse n’est pas un petit pays», mais elle peut faire mieux aujourd'hui",
+    "added_at": "2025-10-23T09:34:54.713Z",
+    "removed_at": "2025-10-23T10:01:18.539Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "suisse:::Joseph Deiss au Forum des 100: «La Suisse n’est pas un petit pays», mais elle peut faire mieux aujourd’hui",
+    "added_at": "2025-10-23T10:01:18.539Z",
+    "removed_at": "2025-10-23T16:59:27.686Z",
+    "duration_minutes": 418,
+    "duration_str": "6h 58m"
+  },
+  {
+    "title": "sciences:::Entre urgence climatique et protection de la biodiversité: en France, le casse-tête de l’éolien en mer",
+    "added_at": "2025-10-23T10:03:14.799Z",
+    "removed_at": "2025-10-23T18:47:34.808Z",
+    "duration_minutes": 524,
+    "duration_str": "8h 44m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − La centrale nucléaire de Zaporijjia sur le point d'être à nouveau raccordée au réseau électrique ukrainien",
+    "added_at": "2025-10-23T10:10:55.326Z",
+    "removed_at": "2025-10-23T13:55:58.367Z",
+    "duration_minutes": 225,
+    "duration_str": "3h 45m"
+  },
+  {
+    "title": "suisse:::Lynn Bertholet sur la fin d’Epicène: «Etre transgenre n’est pas un slogan politique»",
+    "added_at": "2025-10-23T10:26:04.556Z",
+    "removed_at": "2025-10-23T22:23:23.544Z",
+    "duration_minutes": 717,
+    "duration_str": "11h 57m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Pierre Krähenbühl, directeur du CICR: «Il faut que le cessez-le-feu tienne à Gaza»",
+    "added_at": "2025-10-23T10:27:54.636Z",
+    "removed_at": "2025-10-23T10:39:15.362Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "suisse:::Défendre la prospérité de la Suisse, oui, mais comment? Gros débat politique au Forum des 100",
+    "added_at": "2025-10-23T10:35:29.531Z",
+    "removed_at": "2025-10-23T17:58:24.537Z",
+    "duration_minutes": 443,
+    "duration_str": "7h 23m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Pierre Krähenbühl, directeur du CICR, au Forum des 100: «Il faut que le cessez-le-feu tienne à Gaza»",
+    "added_at": "2025-10-23T10:39:15.362Z",
+    "removed_at": "2025-10-24T04:03:37.030Z",
+    "duration_minutes": 1044,
+    "duration_str": "17h 24m"
+  },
+  {
+    "title": "sport:::Le Tour de France féminin 2026 partira de Suisse romande, le Tour masculin y passera",
+    "added_at": "2025-10-23T11:09:31.288Z",
+    "removed_at": "2025-10-23T12:00:31.437Z",
+    "duration_minutes": 51,
+    "duration_str": "51m"
+  },
+  {
+    "title": "economie:::Pour l’économie suisse, le salut passe par l’innovation",
+    "added_at": "2025-10-23T11:17:06.234Z",
+    "removed_at": "2025-10-23T18:38:07.446Z",
+    "duration_minutes": 441,
+    "duration_str": "7h 21m"
+  },
+  {
+    "title": "sport:::Le Tour de France féminin 2026 partira de Suisse romande, le Tour masculin grimpera le Salève",
+    "added_at": "2025-10-23T12:00:31.437Z",
+    "removed_at": "2025-10-23T15:09:48.656Z",
+    "duration_minutes": 189,
+    "duration_str": "3h 9m"
+  },
+  {
+    "title": "suisse:::Jusqu’à 130 km/h: la tempête Benjamin a balayé la Suisse avec un pic vers 12h30",
+    "added_at": "2025-10-23T12:46:02.331Z",
+    "removed_at": "2025-10-23T19:27:16.332Z",
+    "duration_minutes": 401,
+    "duration_str": "6h 41m"
+  },
+  {
+    "title": "suisse:::Le Conseil d'Etat neuchâtelois se dote d’un plan d’action pour réagir aux droits de douane américains",
+    "added_at": "2025-10-23T13:31:22.276Z",
+    "removed_at": "2025-10-23T19:06:29.401Z",
+    "duration_minutes": 335,
+    "duration_str": "5h 35m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Les sanctions de Washington contre le pétrole russe auront un impact global",
+    "added_at": "2025-10-23T13:55:58.367Z",
+    "removed_at": "2025-10-23T16:15:58.220Z",
+    "duration_minutes": 140,
+    "duration_str": "2h 20m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Vladimir Poutine minimise l'impact des sanctions américaines contre le pétrole russe",
+    "added_at": "2025-10-23T16:15:58.220Z",
+    "removed_at": "2025-10-23T21:28:24.292Z",
+    "duration_minutes": 312,
+    "duration_str": "5h 12m"
+  },
+  {
+    "title": "economie:::En Chine, la technologie ne sera plus un but mais un combat: le 15ᵉ plan quinquennal se précise",
+    "added_at": "2025-10-23T16:59:27.686Z",
+    "removed_at": "2025-10-23T17:10:48.518Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "economie:::Comment Kuehne+Nagel illustre les hésitations du commerce mondial",
+    "added_at": "2025-10-23T17:18:33.549Z",
+    "removed_at": "2025-10-23T21:32:10.581Z",
+    "duration_minutes": 254,
+    "duration_str": "4h 14m"
+  },
+  {
+    "title": "sport:::Avec le Tour de France féminin, la Suisse veut «donner un coup de pédalier vers l’égalité entre les femmes et les hommes»",
+    "added_at": "2025-10-23T18:15:26.770Z",
+    "removed_at": "2025-10-24T04:56:28.315Z",
+    "duration_minutes": 641,
+    "duration_str": "10h 41m"
+  },
+  {
+    "title": "sport:::Nicolas Hale-Woods au Forum des 100: «Le sport d’hiver représente une part énorme du PIB»",
+    "added_at": "2025-10-23T18:38:07.446Z",
+    "removed_at": "2025-10-23T22:21:33.428Z",
+    "duration_minutes": 223,
+    "duration_str": "3h 43m"
+  },
+  {
+    "title": "culture:::Le tour du monde, une invention récente mise en roman par Jules Verne",
+    "added_at": "2025-10-23T18:47:34.808Z",
+    "removed_at": "2025-10-24T04:13:06.206Z",
+    "duration_minutes": 566,
+    "duration_str": "9h 26m"
+  },
+  {
+    "title": "sport:::Battu par Casper Ruud, Stan Wawrinka quitte Bâle avec les honneurs",
+    "added_at": "2025-10-23T19:06:29.401Z",
+    "removed_at": "2025-10-24T04:13:06.206Z",
+    "duration_minutes": 547,
+    "duration_str": "9h 7m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − L'UE fait un premier pas timide vers l'utilisation des avoirs russes au profit de l'Ukraine",
+    "added_at": "2025-10-23T21:28:24.292Z",
+    "removed_at": "2025-10-24T06:48:04.692Z",
+    "duration_minutes": 560,
+    "duration_str": "9h 20m"
   }
 ]
