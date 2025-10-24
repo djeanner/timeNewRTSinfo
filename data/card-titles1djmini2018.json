@@ -52652,10 +52652,7 @@
   },
   {
     "title": "Le journal de 8h - Présenté par Léandre Berret",
-    "added_at": "2025-10-11T17:01:18.175Z",
-    "removed_at": "2025-10-23T22:34:43.269Z",
-    "duration_minutes": 17613,
-    "duration_str": "12d 5h 33m"
+    "added_at": "2025-10-11T17:01:18.175Z"
   },
   {
     "title": "Maurine Mercier, correspondante de la RTS en Ukraine, reçoit le prix Bayeux pour la troisième fois",
@@ -56480,7 +56477,10 @@
   },
   {
     "title": "La Suisse en alerte modérée face à la tempête qui touchera jeudi le nord-ouest de l’Europe",
-    "added_at": "2025-10-22T13:24:41.124Z"
+    "added_at": "2025-10-22T13:24:41.124Z",
+    "removed_at": "2025-10-24T19:02:13.959Z",
+    "duration_minutes": 3217,
+    "duration_str": "2d 5h 37m"
   },
   {
     "title": "\"Robot\" et \"Boum Tschak\", du théâtre court-circuité par les objets zinzins",
@@ -56530,7 +56530,10 @@
   },
   {
     "title": "Le port du voile doit rester autorisé pour les enfants à l'école, estime le Conseil fédéral",
-    "added_at": "2025-10-22T14:44:05.925Z"
+    "added_at": "2025-10-22T14:44:05.925Z",
+    "removed_at": "2025-10-24T18:31:58.383Z",
+    "duration_minutes": 3107,
+    "duration_str": "2d 3h 47m"
   },
   {
     "title": "Plus de 25'000 animaux abandonnés en 2024, alerte la Protection suisse des animaux",
@@ -56573,7 +56576,10 @@
   },
   {
     "title": "Une demande de référendum pousse le canton de Fribourg à commencer l'année 2026 sans budget",
-    "added_at": "2025-10-22T15:31:33.285Z"
+    "added_at": "2025-10-22T15:31:33.285Z",
+    "removed_at": "2025-10-24T18:05:29.832Z",
+    "duration_minutes": 3033,
+    "duration_str": "2d 2h 33m"
   },
   {
     "title": "Une vague de démissions questionne le management à la Comédie de Genève",
@@ -56585,7 +56591,10 @@
   },
   {
     "title": "Israël sommé de faciliter l'accès de l'aide humanitaire à Gaza",
-    "added_at": "2025-10-22T16:37:39.674Z"
+    "added_at": "2025-10-22T16:37:39.674Z",
+    "removed_at": "2025-10-24T17:14:27.750Z",
+    "duration_minutes": 2916,
+    "duration_str": "2d 36m"
   },
   {
     "title": "La patronne du Louvre confirme avoir présenté sa démission, qui a été refusée",
@@ -56600,7 +56609,10 @@
   },
   {
     "title": "L'Union suisse des paysans temporise sur les accords avec l'UE et appelle à un vote populaire",
-    "added_at": "2025-10-22T18:40:35.419Z"
+    "added_at": "2025-10-22T18:40:35.419Z",
+    "removed_at": "2025-10-24T19:07:55.497Z",
+    "duration_minutes": 2907,
+    "duration_str": "2d 27m"
   },
   {
     "title": "Les Suisses Noe Seifert et Florian Langenegger en finale des Mondiaux de gymnastique artistique à Jakarta",
@@ -56623,9 +56635,9 @@
   {
     "title": "Le vice-président américain est en Israël pour consolider le plan de paix",
     "added_at": "2025-10-22T21:29:01.040Z",
-    "removed_at": "2025-10-24T06:06:33.102Z",
-    "duration_minutes": 1957,
-    "duration_str": "1d 8h 37m"
+    "removed_at": "2025-10-24T18:54:40.028Z",
+    "duration_minutes": 2725,
+    "duration_str": "1d 21h 25m"
   },
   {
     "title": "Washington va sanctionner deux groupes pétroliers russes",
@@ -56995,5 +57007,21 @@
   {
     "title": "Sept premiers enfants blessés de Gaza sont arrivés en Suisse pour y être soignés",
     "added_at": "2025-10-24T16:38:20.489Z"
+  },
+  {
+    "title": "La crise à la Comédie de Genève fait réagir le monde politique genevois",
+    "added_at": "2025-10-24T17:14:27.750Z"
+  },
+  {
+    "title": "Quand des marques surfent sur le cambriolage du Louvre pour faire leur publicité",
+    "added_at": "2025-10-24T18:05:29.832Z"
+  },
+  {
+    "title": "Ententes sur les prix, mandats \"à charge de revanche\" et réunions secrètes: le milieu de la construction dans la tourmente à Neuchâtel",
+    "added_at": "2025-10-24T18:31:58.383Z"
+  },
+  {
+    "title": "La salmonelle, bactérie insoupçonnée, a participé à décimer la Grande Armée de Napoléon en 1812",
+    "added_at": "2025-10-24T19:07:55.497Z"
   }
 ]
