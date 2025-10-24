@@ -43885,7 +43885,10 @@
   },
   {
     "title": "sport:::Un début de campagne en fanfare pour le Lausanne-Sport, encore vainqueur à Malte",
-    "added_at": "2025-10-23T22:23:23.544Z"
+    "added_at": "2025-10-23T22:23:23.544Z",
+    "removed_at": "2025-10-24T08:17:04.203Z",
+    "duration_minutes": 593,
+    "duration_str": "9h 53m"
   },
   {
     "title": "sport:::Entre mafia new-yorkaise et paris truqués, un stupéfiant coup de filet du FBI ébranle la NBA",
@@ -43942,5 +43945,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine − Une attaque de drone ukrainien en banlieue de Moscou fait cinq blessés",
     "added_at": "2025-10-24T06:49:58.397Z"
+  },
+  {
+    "title": "sciences:::Non loin des côtes allemandes, la faune survit aux fortes émanations toxiques des fusées V1 immergées après-guerre",
+    "added_at": "2025-10-24T08:17:04.203Z"
   }
 ]
