@@ -86,8 +86,9 @@
   {
     "title": "Au procès du meurtre de Lola, le tribunal condamne l’accusée, à la « dangerosité très élevée », à la perpétuité réelle",
     "added_at": "2025-10-25T07:08:44.869Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-25T22:00:14.912Z",
+    "duration_minutes": 892,
+    "duration_str": "14h 52m"
   },
   {
     "title": "Michaël Zemmour, économiste : « Les fondements de la réforme des retraites ne sont en rien remis en cause »",
@@ -140,7 +141,7 @@
   {
     "title": "Les mille et une vies de Colette exposées à la BNF",
     "added_at": "2025-10-25T08:07:20.309Z",
-    "removed_at": "2025-10-25T17:08:31.314Z",
+    "removed_at": "2025-10-25T17:08:00.529Z",
     "duration_minutes": 541,
     "duration_str": "9h 1m"
   },
@@ -240,9 +241,9 @@
   {
     "title": "Les Etats-Unis envoient le porte-avions « Gerald-R.-Ford », l’un des plus grands au monde, vers l’Amérique latine pour « lutter contre le narcoterrorisme »",
     "added_at": "2025-10-25T09:33:49.625Z",
-    "removed_at": "2025-10-25T18:04:50.352Z",
-    "duration_minutes": 511,
-    "duration_str": "8h 31m"
+    "removed_at": "2025-10-25T18:02:51.648Z",
+    "duration_minutes": 509,
+    "duration_str": "8h 29m"
   },
   {
     "title": "Un apéro avec Alexandre Astier : « « Quand je vois le culte de la performance se développer, ça me plaît de montrer des personnages qui n’ont pas envie »",
@@ -275,8 +276,9 @@
   {
     "title": "Des aveux, trois mois de prison avec sursis et du « flou » : la biathlète Julia Simon condamnée pour avoir volé une partenaire en équipe de France",
     "added_at": "2025-10-25T10:02:36.329Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-25T21:03:20.278Z",
+    "duration_minutes": 661,
+    "duration_str": "11h 1m"
   },
   {
     "title": "L’acteur Jeremy Allen White, du chef de « The Bear » au « boss » Springsteen",
@@ -314,9 +316,8 @@
   {
     "title": "« Penser qu’un musée pourrait se défendre à coups de pistolet, c’est symptomatique d’une bêtise démagogique galopante »",
     "added_at": "2025-10-25T10:43:39.057Z",
-    "removed_at": "2025-10-25T20:51:56.825Z",
-    "duration_minutes": 608,
-    "duration_str": "10h 8m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "« Qui peut accepter le génocide qui se poursuit depuis si longtemps dans la bande de Gaza ? » : le président brésilien Lula dénonce l’impuissance des institutions internationales",
@@ -368,7 +369,7 @@
   {
     "title": "Les colis mystères pour adultes, une promesse de l’inconnu devenue la seule chose à avoir de la valeur : « On n’achète pas, on tente sa chance »",
     "added_at": "2025-10-25T13:34:18.006Z",
-    "removed_at": "2025-10-25T18:20:40.876Z",
+    "removed_at": "2025-10-25T18:19:52.123Z",
     "duration_minutes": 286,
     "duration_str": "4h 46m"
   },
@@ -453,9 +454,8 @@
   {
     "title": "« La règle d’or de l’équilibre des finances sociales, mise en place en 1945, a été oubliée »",
     "added_at": "2025-10-25T15:56:07.481Z",
-    "removed_at": "2025-10-25T20:47:22.644Z",
-    "duration_minutes": 291,
-    "duration_str": "4h 51m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "« Né en 1949 sur un continent ravagé, le Conseil de l’Europe a un rôle particulièrement fort à jouer en ce moment »",
@@ -477,65 +477,91 @@
   },
   {
     "title": "Le prix Albert-Londres de la presse écrite récompense Julie Brafman, journaliste de « Libération »",
-    "added_at": "2025-10-25T17:06:13.577Z",
-    "removed_at": "2025-10-25T17:08:31.314Z",
+    "added_at": "2025-10-25T17:06:10.325Z",
+    "removed_at": "2025-10-25T17:08:00.529Z",
     "duration_minutes": 2,
     "duration_str": "2m"
   },
   {
     "title": "Roger Nimier, Gilles Antonowicz et Joseph Kessel : la chronique « poches » de François Angelier",
-    "added_at": "2025-10-25T17:08:31.314Z",
+    "added_at": "2025-10-25T17:08:00.529Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Pourquoi le changement d’heure, qui a lieu ce soir, est si critiqué",
-    "added_at": "2025-10-25T17:08:31.314Z",
-    "removed_at": "2025-10-25T18:00:22.667Z",
-    "duration_minutes": 52,
-    "duration_str": "52m"
+    "added_at": "2025-10-25T17:08:00.529Z",
+    "removed_at": "2025-10-25T17:59:02.250Z",
+    "duration_minutes": 51,
+    "duration_str": "51m"
   },
   {
     "title": "Budget : les députés rejettent le gel du barème de l’impôt sur le revenu ; l’examen du volet recettes se poursuit dans l’Hémicycle",
     "added_at": "2025-10-25T17:46:50.230Z",
-    "removed_at": "2025-10-25T18:18:22.588Z",
-    "duration_minutes": 32,
-    "duration_str": "32m"
+    "removed_at": "2025-10-25T18:17:57.178Z",
+    "duration_minutes": 31,
+    "duration_str": "31m"
   },
   {
     "title": "Présidentielle en Côte d’Ivoire : « De toute façon, tout est joué d’avance »",
-    "added_at": "2025-10-25T18:00:22.667Z",
+    "added_at": "2025-10-25T17:59:02.250Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "L’ancienne reine Sirikit Kitiyakorn, figure de la monarchie de Thaïlande, est morte",
-    "added_at": "2025-10-25T18:04:50.352Z",
+    "added_at": "2025-10-25T18:02:51.648Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Budget : le gouvernement encaisse de premières défaites dans l’Hémicycle ; l’examen du volet recettes se poursuit",
-    "added_at": "2025-10-25T18:18:22.588Z",
-    "removed_at": "2025-10-25T18:32:04.868Z",
-    "duration_minutes": 14,
-    "duration_str": "14m"
+    "added_at": "2025-10-25T18:17:57.178Z",
+    "removed_at": "2025-10-25T18:31:12.989Z",
+    "duration_minutes": 13,
+    "duration_str": "13m"
   },
   {
     "title": "Chantal Henry, la psychiatre qui déchiffre les émotions des personnes dépressives",
-    "added_at": "2025-10-25T18:20:40.876Z",
+    "added_at": "2025-10-25T18:19:52.123Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Budget : le gouvernement encaisse des premières défaites dans l’Hémicycle ; l’examen du volet recettes se poursuit",
-    "added_at": "2025-10-25T18:32:04.868Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-10-25T18:31:12.989Z",
+    "removed_at": "2025-10-25T22:43:09.879Z",
+    "duration_minutes": 252,
+    "duration_str": "4h 12m"
   },
   {
     "title": "« L’emploi est la condition de l’autonomie financière, plus cruciale encore pour les femmes »",
     "added_at": "2025-10-25T19:12:41.391Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Thomas Schlesser, historien de l’art : « Penser qu’un musée pourrait se défendre à coups de pistolet, c’est symptomatique d’une bêtise démagogique galopante »",
+    "added_at": "2025-10-25T21:03:20.278Z",
+    "removed_at": "2025-10-25T22:31:55.370Z",
+    "duration_minutes": 89,
+    "duration_str": "1h 29m"
+  },
+  {
+    "title": "Au Brésil, malgré les mesures de Lula, la survie du peuple autochtone Yanomami toujours menacée par les orpailleurs",
+    "added_at": "2025-10-25T22:00:14.912Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Sur les réseaux sociaux, des femmes racontent leur avortement pour briser le silence",
+    "added_at": "2025-10-25T22:00:14.912Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Donald Trump annonce une hausse de 10 % des droits de douane sur le Canada après la diffusion d’une publicité",
+    "added_at": "2025-10-25T22:43:09.879Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
