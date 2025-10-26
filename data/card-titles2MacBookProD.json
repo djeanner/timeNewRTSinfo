@@ -44187,7 +44187,10 @@
   },
   {
     "title": "culture:::A Lausanne, Félix Vallotton droit dans les yeux, jubilatoire et déroutant",
-    "added_at": "2025-10-25T08:07:31.820Z"
+    "added_at": "2025-10-25T08:07:31.820Z",
+    "removed_at": "2025-10-26T14:19:25.523Z",
+    "duration_minutes": 1811,
+    "duration_str": "1d 6h 11m"
   },
   {
     "title": "culture:::Daniel Maggetti: «Il y a une pulsion d’écriture très marquée chez Félix Vallotton»",
@@ -44353,7 +44356,10 @@
   },
   {
     "title": "monde:::La Roumanie consacre la cathédrale nationale du Salut du peuple, un projet aussi gigantesque que controversé",
-    "added_at": "2025-10-26T08:03:59.898Z"
+    "added_at": "2025-10-26T08:03:59.898Z",
+    "removed_at": "2025-10-26T14:19:25.523Z",
+    "duration_minutes": 375,
+    "duration_str": "6h 15m"
   },
   {
     "title": "monde:::Guerre en Ukraine − La Russie affirme avoir testé un missile de croisière à propulsion nucléaire",
@@ -44372,11 +44378,17 @@
   },
   {
     "title": "culture:::Laure Gremion, le design en verre et contre tout",
-    "added_at": "2025-10-26T09:32:16.117Z"
+    "added_at": "2025-10-26T09:32:16.117Z",
+    "removed_at": "2025-10-26T13:47:44.519Z",
+    "duration_minutes": 255,
+    "duration_str": "4h 15m"
   },
   {
     "title": "culture:::Salomé Chatriot, artisane du futur",
-    "added_at": "2025-10-26T10:33:21.380Z"
+    "added_at": "2025-10-26T10:33:21.380Z",
+    "removed_at": "2025-10-26T13:47:44.519Z",
+    "duration_minutes": 194,
+    "duration_str": "3h 14m"
   },
   {
     "title": "economie:::Guerre commerciale: «consensus préliminaire» entre la Chine et les Etats-Unis à quatre jours d’un sommet crucial",
@@ -44384,7 +44396,10 @@
   },
   {
     "title": "culture:::Henri Michaux aux confins de la conscience",
-    "added_at": "2025-10-26T11:00:28.134Z"
+    "added_at": "2025-10-26T11:00:28.134Z",
+    "removed_at": "2025-10-26T12:40:00.826Z",
+    "duration_minutes": 99,
+    "duration_str": "1h 39m"
   },
   {
     "title": "monde:::Moyen-Orient – Benyamin Netanyahou assure qu’Israël aura un droit de veto sur la force de sécurité",
@@ -44393,5 +44408,17 @@
   {
     "title": "monde:::Au Burkina Faso, l’armée purge la justice, dernier garde-fou face à la répression",
     "added_at": "2025-10-26T11:50:07.872Z"
+  },
+  {
+    "title": "economie:::Vianney Halter, horloger-roi des «collabs»",
+    "added_at": "2025-10-26T12:40:00.826Z"
+  },
+  {
+    "title": "suisse:::A Bâle-Campagne, les Vert’libéraux arrivent en tête d’une élection complémentaire au gouvernement",
+    "added_at": "2025-10-26T13:47:44.519Z"
+  },
+  {
+    "title": "monde:::La Roumanie consacre la cathédrale nationale, un projet aussi gigantesque que controversé",
+    "added_at": "2025-10-26T14:19:25.523Z"
   }
 ]

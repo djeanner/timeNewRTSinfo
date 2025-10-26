@@ -99,8 +99,9 @@
   {
     "title": "Russian overnight attack on Ukraine’s Kyiv kills at least 3, wounds dozens",
     "added_at": "2025-10-26T07:52:43.950Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-26T12:42:19.515Z",
+    "duration_minutes": 290,
+    "duration_str": "4h 50m"
   },
   {
     "title": "Kurdish PKK announces it’s withdrawing fighters from Turkiye to Iraq",
@@ -131,14 +132,14 @@
   {
     "title": "Two suspects from Louvre jewellery heist arrested by French police: Reports",
     "added_at": "2025-10-26T09:39:11.540Z",
-    "removed_at": "2025-10-26T09:59:29.071Z",
+    "removed_at": "2025-10-26T09:59:21.638Z",
     "duration_minutes": 20,
     "duration_str": "20m"
   },
   {
     "title": "Several suspects in Louvre jewellery heist case arrested by French police",
-    "added_at": "2025-10-26T09:59:29.071Z",
-    "removed_at": "2025-10-26T10:33:21.934Z",
+    "added_at": "2025-10-26T09:59:21.638Z",
+    "removed_at": "2025-10-26T10:33:20.773Z",
     "duration_minutes": 34,
     "duration_str": "34m"
   },
@@ -157,9 +158,9 @@
   {
     "title": "Hurricane Melissa, now Category 4, threatens heavy floods in Jamaica, Haiti",
     "added_at": "2025-10-26T10:24:25.613Z",
-    "removed_at": "2025-10-26T11:02:47.267Z",
-    "duration_minutes": 38,
-    "duration_str": "38m"
+    "removed_at": "2025-10-26T11:01:42.004Z",
+    "duration_minutes": 37,
+    "duration_str": "37m"
   },
   {
     "title": "Trump’s visit to Malaysia met with protests over war in Gaza",
@@ -169,14 +170,14 @@
   },
   {
     "title": "Several suspects in Louvre jewellery heist arrested by French police",
-    "added_at": "2025-10-26T10:33:21.934Z",
+    "added_at": "2025-10-26T10:33:20.773Z",
     "removed_at": "2025-10-26T11:02:47.267Z",
     "duration_minutes": 29,
     "duration_str": "29m"
   },
   {
     "title": "Battle for Sudan’s el-Fasher intensifies as RSF claims seizing army HQ",
-    "added_at": "2025-10-26T11:02:47.267Z",
+    "added_at": "2025-10-26T11:01:42.004Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -196,12 +197,37 @@
   {
     "title": "Palestinians returning to north Gaza struggling to rebuild destroyed homes",
     "added_at": "2025-10-26T11:32:03.252Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-26T12:24:11.976Z",
+    "duration_minutes": 52,
+    "duration_str": "52m"
   },
   {
     "title": "Arrests made in Louvre jewellery heist by French police: Paris prosecutor",
     "added_at": "2025-10-26T11:32:03.252Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "LIVE: Real Madrid vs Barcelona – La Liga",
+    "added_at": "2025-10-26T12:21:59.682Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Hamas expands search for Gaza captives’ bodies as Israeli attacks continue",
+    "added_at": "2025-10-26T12:24:11.976Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Overnight Russian attack on Ukraine’s Kyiv kills at least 3, wounds dozens",
+    "added_at": "2025-10-26T12:42:19.515Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Embattled Milei faces critical midterm elections in Argentina",
+    "added_at": "2025-10-26T13:56:47.305Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
