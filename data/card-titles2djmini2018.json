@@ -44300,7 +44300,10 @@
   },
   {
     "title": "culture:::«Le Monstre de Florence», sous le soleil noir de Toscane",
-    "added_at": "2025-10-25T17:30:40.233Z"
+    "added_at": "2025-10-25T17:30:40.233Z",
+    "removed_at": "2025-10-26T20:08:17.438Z",
+    "duration_minutes": 1597,
+    "duration_str": "1d 2h 37m"
   },
   {
     "title": "sciences:::Les matières pauvres, sources de richesse des jeunes créateurs suisses",
@@ -44410,10 +44413,7 @@
   },
   {
     "title": "monde:::Au Burkina Faso, l’armée purge la justice, dernier garde-fou face à la répression",
-    "added_at": "2025-10-26T11:49:05.968Z",
-    "removed_at": "2025-10-26T16:00:28.064Z",
-    "duration_minutes": 251,
-    "duration_str": "4h 11m"
+    "added_at": "2025-10-26T11:49:05.968Z"
   },
   {
     "title": "economie:::Vianney Halter, horloger-roi des «collabs»",
@@ -44431,7 +44431,10 @@
   },
   {
     "title": "monde:::La Roumanie consacre la cathédrale nationale, un projet aussi gigantesque que controversé",
-    "added_at": "2025-10-26T14:20:19.445Z"
+    "added_at": "2025-10-26T14:20:19.445Z",
+    "removed_at": "2025-10-26T20:32:47.121Z",
+    "duration_minutes": 372,
+    "duration_str": "6h 12m"
   },
   {
     "title": "culture:::Le Louvre, musée martyr dans la culture populaire depuis un siècle",
@@ -44439,11 +44442,17 @@
   },
   {
     "title": "economie:::Globus mène une course contre la montre pour retrouver les chiffres noirs",
-    "added_at": "2025-10-26T15:05:42.493Z"
+    "added_at": "2025-10-26T15:05:42.493Z",
+    "removed_at": "2025-10-26T18:43:18.705Z",
+    "duration_minutes": 217,
+    "duration_str": "3h 37m"
   },
   {
     "title": "sport:::A Sölden, Marco Odermatt lance sa saison par une victoire",
-    "added_at": "2025-10-26T15:24:39.378Z"
+    "added_at": "2025-10-26T15:24:39.378Z",
+    "removed_at": "2025-10-26T19:11:36.797Z",
+    "duration_minutes": 226,
+    "duration_str": "3h 46m"
   },
   {
     "title": "culture:::«La Diplomate», grande série politique qui se rapproche toujours plus d’«A la Maison-Blanche»",
@@ -44464,5 +44473,17 @@
   {
     "title": "economie:::Nexperia, la menace chinoise que l’industrie automobile européenne n’a pas vue venir",
     "added_at": "2025-10-26T18:18:31.580Z"
+  },
+  {
+    "title": "monde:::La région des Caraïbes face à «Melissa», un ouragan de grande ampleur",
+    "added_at": "2025-10-26T18:43:18.705Z"
+  },
+  {
+    "title": "economie:::Bertrand Ducrey, directeur de Debiopharm: «L’Europe, Suisse incluse, occupe une place mineure dans l’innovation pharmaceutique»",
+    "added_at": "2025-10-26T19:11:36.797Z"
+  },
+  {
+    "title": "sport:::Justine Mettraux, paysage avant la dernière bataille",
+    "added_at": "2025-10-26T20:32:47.121Z"
   }
 ]
