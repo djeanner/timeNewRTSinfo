@@ -31741,11 +31741,17 @@
   },
   {
     "title": "Une deuxième victoire en deux journées pour Lausanne",
-    "added_at": "2025-10-24T08:07:34.725Z"
+    "added_at": "2025-10-24T08:07:34.725Z",
+    "removed_at": "2025-10-26T04:24:38.928Z",
+    "duration_minutes": 2657,
+    "duration_str": "1d 20h 17m"
   },
   {
     "title": "Les colons israéliens sèment la terreur chez les cultivateurs d'oliviers palestiniens en Cisjordanie",
-    "added_at": "2025-10-24T08:07:34.725Z"
+    "added_at": "2025-10-24T08:07:34.725Z",
+    "removed_at": "2025-10-26T03:39:31.964Z",
+    "duration_minutes": 2611,
+    "duration_str": "1d 19h 31m"
   },
   {
     "title": "Young Boys s'impose face à Ludogorets",
@@ -32273,7 +32279,10 @@
   },
   {
     "title": "Israël mène une frappe aérienne ciblée à Gaza, malgré le cessez-le- feu",
-    "added_at": "2025-10-25T19:08:12.547Z"
+    "added_at": "2025-10-25T19:08:12.547Z",
+    "removed_at": "2025-10-26T04:22:22.702Z",
+    "duration_minutes": 554,
+    "duration_str": "9h 14m"
   },
   {
     "title": "Des dizaines de milliers de manifestants à Valence un an après les inondations",
@@ -32299,5 +32308,17 @@
     "removed_at": "2025-10-25T23:12:26.185Z",
     "duration_minutes": 2,
     "duration_str": "2m"
+  },
+  {
+    "title": "Donald Trump annonce une hausse de 10% des droits de douane pour le Canada",
+    "added_at": "2025-10-26T03:39:31.964Z"
+  },
+  {
+    "title": "Israël mène une frappe aérienne ciblée à Gaza, malgré le cessez-le-feu",
+    "added_at": "2025-10-26T04:22:22.702Z"
+  },
+  {
+    "title": "Ignazio Cassis se réjouit d'une \"position commune\" sur Gaza après sa tournée au Moyen-Orient",
+    "added_at": "2025-10-26T04:24:38.928Z"
   }
 ]
