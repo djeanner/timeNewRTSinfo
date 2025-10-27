@@ -52696,7 +52696,10 @@
   },
   {
     "title": "Overnight Russian attack on Ukraine’s Kyiv kills at least 3, wounds dozens",
-    "added_at": "2025-10-26T12:42:19.515Z"
+    "added_at": "2025-10-26T12:42:19.515Z",
+    "removed_at": "2025-10-26T23:24:29.382Z",
+    "duration_minutes": 642,
+    "duration_str": "10h 42m"
   },
   {
     "title": "Embattled Milei faces critical midterm elections in Argentina",
@@ -52737,10 +52740,7 @@
   },
   {
     "title": "Mbappe, Bellingham score as Real Madrid edge Barcelona in fiery El Clasico",
-    "added_at": "2025-10-26T18:23:48.128Z",
-    "removed_at": "2025-10-26T20:57:27.769Z",
-    "duration_minutes": 153,
-    "duration_str": "2h 33m"
+    "added_at": "2025-10-26T18:23:48.128Z"
   },
   {
     "title": "Djibouti lifts presidential age limit, paving way for sixth Guelleh term",
@@ -52770,7 +52770,10 @@
   },
   {
     "title": "Unexploded bombs killing Gaza’s people with 60,000 tons buried in the ruins",
-    "added_at": "2025-10-26T21:35:54.147Z"
+    "added_at": "2025-10-26T21:35:54.147Z",
+    "removed_at": "2025-10-26T23:04:11.626Z",
+    "duration_minutes": 88,
+    "duration_str": "1h 28m"
   },
   {
     "title": "Israeli strikes kill three in Lebanon before army targets UN patrol",
@@ -52778,6 +52781,20 @@
   },
   {
     "title": "Unexploded Israeli bombs threaten lives as Gaza clears debris, finds bodies",
-    "added_at": "2025-10-26T21:47:15.302Z"
+    "added_at": "2025-10-26T21:47:15.302Z",
+    "removed_at": "2025-10-26T23:04:11.626Z",
+    "duration_minutes": 76,
+    "duration_str": "1h 16m"
+  },
+  {
+    "title": "Bellingham fires Real Madrid to 2-1 El Clasico win over Barcelona – updates",
+    "added_at": "2025-10-26T23:04:11.626Z",
+    "removed_at": "2025-10-26T23:58:23.864Z",
+    "duration_minutes": 54,
+    "duration_str": "54m"
+  },
+  {
+    "title": "UK journalist Sami Hamdi detained in US amid pro-Israel lobby pressure",
+    "added_at": "2025-10-26T23:24:29.382Z"
   }
 ]
