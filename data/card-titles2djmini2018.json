@@ -44299,7 +44299,10 @@
   },
   {
     "title": "suisse:::Signé «The Bancsies»: à Meyrin, de mystérieux bancs violets agitent la commune",
-    "added_at": "2025-10-25T16:43:31.387Z"
+    "added_at": "2025-10-25T16:43:31.387Z",
+    "removed_at": "2025-10-27T16:59:31.054Z",
+    "duration_minutes": 2895,
+    "duration_str": "2d 15m"
   },
   {
     "title": "culture:::«Le Monstre de Florence», sous le soleil noir de Toscane",
@@ -44489,7 +44492,10 @@
   },
   {
     "title": "economie:::Guerre commerciale: Pékin et Washington sur le sentier de la désescalade, la Chine garde l’avantage",
-    "added_at": "2025-10-26T18:18:31.580Z"
+    "added_at": "2025-10-26T18:18:31.580Z",
+    "removed_at": "2025-10-27T17:07:06.655Z",
+    "duration_minutes": 1368,
+    "duration_str": "22h 48m"
   },
   {
     "title": "economie:::Nexperia, la menace chinoise que l’industrie automobile européenne n’a pas vue venir",
@@ -44543,7 +44549,10 @@
   },
   {
     "title": "monde:::Surprise en Argentine: le parti du président Milei gagne largement les élections législatives de mi-mandat",
-    "added_at": "2025-10-27T04:38:24.116Z"
+    "added_at": "2025-10-27T04:38:24.116Z",
+    "removed_at": "2025-10-27T15:47:43.068Z",
+    "duration_minutes": 669,
+    "duration_str": "11h 9m"
   },
   {
     "title": "economie:::Malgré la pression américaine, les titres de la pharma suisse progressent",
@@ -44572,7 +44581,10 @@
   },
   {
     "title": "monde:::A Taïwan, la société civile joue à la guerre contre la Chine pour mieux s’y préparer",
-    "added_at": "2025-10-27T06:39:17.136Z"
+    "added_at": "2025-10-27T06:39:17.136Z",
+    "removed_at": "2025-10-27T17:18:27.120Z",
+    "duration_minutes": 639,
+    "duration_str": "10h 39m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − La Russie affirme avoir testé un missile de croisière à propulsion nucléaire",
@@ -44583,7 +44595,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Moscou dit avoir intercepté 193 drones ukrainiens dans la nuit",
-    "added_at": "2025-10-27T07:00:06.330Z"
+    "added_at": "2025-10-27T07:00:06.330Z",
+    "removed_at": "2025-10-27T16:36:50.958Z",
+    "duration_minutes": 576,
+    "duration_str": "9h 36m"
   },
   {
     "title": "suisse:::Critiqués pour leur esthétique mais appréciés des habitants: à Genève, le paradoxe des nouveaux quartiers",
@@ -44595,7 +44610,10 @@
   },
   {
     "title": "suisse:::Panne technique en direct à la RTS: une défaillance de la régie son a interrompu «Mise au point»",
-    "added_at": "2025-10-27T10:24:05.697Z"
+    "added_at": "2025-10-27T10:24:05.697Z",
+    "removed_at": "2025-10-27T17:31:37.581Z",
+    "duration_minutes": 427,
+    "duration_str": "7h 7m"
   },
   {
     "title": "monde:::Moyen-Orient, en direct –«Le Hamas sait exactement où se trouve chacune des dépouilles à Gaza», accuse les proches d'otages",
@@ -44606,7 +44624,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – «Le Hamas sait exactement où se trouve chacune des dépouilles à Gaza», accusent les proches d'otages",
-    "added_at": "2025-10-27T10:52:24.825Z"
+    "added_at": "2025-10-27T10:52:24.825Z",
+    "removed_at": "2025-10-27T15:53:23.178Z",
+    "duration_minutes": 300,
+    "duration_str": "5h"
   },
   {
     "title": "culture:::Patrick Watson, ou l'art de prêter son micro à des voix féminines",
@@ -44632,5 +44653,61 @@
   {
     "title": "economie:::Pneus Claude à Genève, le temple européen du pneu sur 40 000 m²",
     "added_at": "2025-10-27T13:56:04.643Z"
+  },
+  {
+    "title": "monde:::Droits de douane: Donald Trump refuse la main tendue du Canada",
+    "added_at": "2025-10-27T15:47:43.068Z",
+    "removed_at": "2025-10-27T16:06:32.481Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Israël ne veut que des pays «impartiaux» dans la force internationale à Gaza",
+    "added_at": "2025-10-27T15:53:23.178Z",
+    "removed_at": "2025-10-27T16:17:54.588Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "sport:::Noah Dettwiler lutte pour une vie toute entière dédiée à la moto",
+    "added_at": "2025-10-27T16:06:32.481Z",
+    "removed_at": "2025-10-27T16:16:03.688Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "sport:::Noah Dettwiler lutte pour une vie tout entière dédiée à la moto",
+    "added_at": "2025-10-27T16:16:03.688Z",
+    "removed_at": "2025-10-27T16:36:50.958Z",
+    "duration_minutes": 20,
+    "duration_str": "20m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – A Genève, une marche en soutien d'Israël est reportée par les autorités par crainte des réactions hostiles",
+    "added_at": "2025-10-27T16:17:54.588Z"
+  },
+  {
+    "title": "sport:::Noah Dettwiler lutte pour sa vie, tout entière dédiée à la moto",
+    "added_at": "2025-10-27T16:36:50.958Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − La Hongrie, qui veut continuer à acheter des hydrocarbures russes, plaidera sa cause auprès de Donald Trump",
+    "added_at": "2025-10-27T16:36:50.958Z"
+  },
+  {
+    "title": "suisse:::Le spectaculaire incendie de Glacier 3000, au-dessus des Diablerets, aurait été causé par un réchaud à fondue",
+    "added_at": "2025-10-27T16:59:31.054Z"
+  },
+  {
+    "title": "economie:::Le franc s’affaiblit vis-à-vis de l’euro, la BNS est-elle intervenue?",
+    "added_at": "2025-10-27T17:07:06.655Z"
+  },
+  {
+    "title": "suisse:::Christoph Blocher et Ueli Maurer en campagne «pour la démocratie» et contre l’Union européenne",
+    "added_at": "2025-10-27T17:31:37.581Z"
+  },
+  {
+    "title": "economie:::En déboursant 12 milliards de dollars pour Avidity, Novartis réalise une acquisition majeure",
+    "added_at": "2025-10-27T18:03:49.197Z"
   }
 ]
