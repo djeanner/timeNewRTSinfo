@@ -48739,10 +48739,7 @@
   },
   {
     "title": "Le dossier des élections cantonales jurassiennes",
-    "added_at": "2025-09-30T19:21:24.449Z",
-    "removed_at": "2025-10-23T10:12:49.134Z",
-    "duration_minutes": 32571,
-    "duration_str": "22d 14h 51m"
+    "added_at": "2025-09-30T19:21:24.449Z"
   },
   {
     "title": "Soupçonné de viols, Gérard Miller est placé en garde à vue",
@@ -57608,11 +57605,17 @@
   },
   {
     "title": "Ignazio Cassis se réjouit d'une \"position commune\" sur Gaza après sa tournée au Moyen-Orient",
-    "added_at": "2025-10-26T04:24:48.514Z"
+    "added_at": "2025-10-26T04:24:48.514Z",
+    "removed_at": "2025-10-28T06:28:22.526Z",
+    "duration_minutes": 3003,
+    "duration_str": "2d 2h 3m"
   },
   {
     "title": "Donald Trump sanctionne le Canada avec une hausse de 10% des droits de douane",
-    "added_at": "2025-10-26T04:39:52.625Z"
+    "added_at": "2025-10-26T04:39:52.625Z",
+    "removed_at": "2025-10-28T08:08:27.442Z",
+    "duration_minutes": 3088,
+    "duration_str": "2d 3h 28m"
   },
   {
     "title": "Voilà ce qui attend les \"Héros de l'Opération Spéciale\" de retour en Russie",
@@ -57627,7 +57630,10 @@
   },
   {
     "title": "On est passé à l'heure d'hiver cette nuit! Mais pourquoi est-elle toujours en vigueur malgré les critiques?",
-    "added_at": "2025-10-26T06:48:34.907Z"
+    "added_at": "2025-10-26T06:48:34.907Z",
+    "removed_at": "2025-10-28T06:45:21.382Z",
+    "duration_minutes": 2876,
+    "duration_str": "1d 23h 56m"
   },
   {
     "title": "Le Conseil municipal réagit après la vague de démissions à la Comédie de Genève suite aux accusations de management toxique",
@@ -57659,7 +57665,10 @@
   },
   {
     "title": "Belinda Bencic s'impose et fête son 10e titre",
-    "added_at": "2025-10-26T07:45:12.723Z"
+    "added_at": "2025-10-26T07:45:12.723Z",
+    "removed_at": "2025-10-28T07:45:47.474Z",
+    "duration_minutes": 2880,
+    "duration_str": "2d"
   },
   {
     "title": "L'OFCOM alerte sur les dangers liés au numérique et à l'IA avec une BD",
@@ -57699,7 +57708,10 @@
   },
   {
     "title": "Le PKK affirme retirer ses combattants de la Turquie vers le nord de l'Irak",
-    "added_at": "2025-10-26T09:31:01.615Z"
+    "added_at": "2025-10-26T09:31:01.615Z",
+    "removed_at": "2025-10-28T07:02:19.708Z",
+    "duration_minutes": 2731,
+    "duration_str": "1d 21h 31m"
   },
   {
     "title": "Où vivent les 2500 super-riches visés par l'initiative sur les successions?",
@@ -58103,9 +58115,9 @@
   {
     "title": "Tempête Benjamin: forts vents, mais pas d'accident majeur",
     "added_at": "2025-10-27T18:24:45.170Z",
-    "removed_at": "2025-10-28T04:19:57.643Z",
-    "duration_minutes": 595,
-    "duration_str": "9h 55m"
+    "removed_at": "2025-10-28T06:22:43.207Z",
+    "duration_minutes": 717,
+    "duration_str": "11h 57m"
   },
   {
     "title": "Alassane Ouattara réélu président de la Côte d'Ivoire avec un score fleuve",
@@ -58161,5 +58173,25 @@
   {
     "title": "La Russie a commis un \"crime contre l'humanité\", confirment une nouvelle fois des experts mandatés par l'ONU",
     "added_at": "2025-10-28T05:41:06.376Z"
+  },
+  {
+    "title": "Ouverture du procès pour la noyade d'un enfant à Bienne lors d'une sortie scolaire",
+    "added_at": "2025-10-28T06:45:21.382Z"
+  },
+  {
+    "title": "L’irrigation traditionnelle des bisses valaisans, une réponse durable au réchauffement climatique",
+    "added_at": "2025-10-28T07:02:19.708Z"
+  },
+  {
+    "title": "\"Henry Halfhead\", un jeu vidéo ludique qui valorise l'expérimentation",
+    "added_at": "2025-10-28T07:45:47.474Z"
+  },
+  {
+    "title": "Un sondage IKEA confirme certains stéréotypes sur les Suisses et Suissesses",
+    "added_at": "2025-10-28T07:51:27.378Z"
+  },
+  {
+    "title": "Elon Musk lance Grokipedia, un concurrent de Wikipédia généré par IA",
+    "added_at": "2025-10-28T08:08:27.442Z"
   }
 ]
