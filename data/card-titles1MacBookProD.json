@@ -32485,7 +32485,10 @@
   },
   {
     "title": "Changement d’heure: pourquoi on n’arrive toujours pas à trancher?",
-    "added_at": "2025-10-25T19:01:26.786Z"
+    "added_at": "2025-10-25T19:01:26.786Z",
+    "removed_at": "2025-10-28T09:03:23.996Z",
+    "duration_minutes": 3721,
+    "duration_str": "2d 14h 1m"
   },
   {
     "title": "Israël mène une frappe aérienne ciblée à Gaza, malgré le cessez-le- feu",
@@ -32545,7 +32548,10 @@
   },
   {
     "title": "Donald Trump sanctionne le Canada avec une hausse de 10% des droits de douane",
-    "added_at": "2025-10-26T04:40:38.300Z"
+    "added_at": "2025-10-26T04:40:38.300Z",
+    "removed_at": "2025-10-28T08:09:07.790Z",
+    "duration_minutes": 3088,
+    "duration_str": "2d 3h 28m"
   },
   {
     "title": "Voilà ce qui attend les \"Héros de l'Opération Spéciale\" de retour en Russie",
@@ -32595,7 +32601,10 @@
   },
   {
     "title": "Belinda Bencic s'impose et fête son 10e titre",
-    "added_at": "2025-10-26T07:45:57.209Z"
+    "added_at": "2025-10-26T07:45:57.209Z",
+    "removed_at": "2025-10-28T07:46:35.993Z",
+    "duration_minutes": 2880,
+    "duration_str": "2d"
   },
   {
     "title": "L'OFCOM alerte sur les dangers liés au numérique et à l'IA avec une BD",
@@ -32628,7 +32637,10 @@
   },
   {
     "title": "Le PKK affirme retirer ses combattants de la Turquie vers le nord de l'Irak",
-    "added_at": "2025-10-26T09:30:04.271Z"
+    "added_at": "2025-10-26T09:30:04.271Z",
+    "removed_at": "2025-10-28T07:03:34.560Z",
+    "duration_minutes": 2733,
+    "duration_str": "1d 21h 33m"
   },
   {
     "title": "Où vivent les 2500 super-riches visés par l'initiative sur les successions?",
@@ -32640,11 +32652,17 @@
   },
   {
     "title": "Très lourde chute pour Noah Dettwiler",
-    "added_at": "2025-10-26T12:06:06.830Z"
+    "added_at": "2025-10-26T12:06:06.830Z",
+    "removed_at": "2025-10-28T09:21:28.745Z",
+    "duration_minutes": 2715,
+    "duration_str": "1d 21h 15m"
   },
   {
     "title": "Le boom mondial du matcha met à l'épreuve la tradition japonaise du thé",
-    "added_at": "2025-10-26T12:19:40.840Z"
+    "added_at": "2025-10-26T12:19:40.840Z",
+    "removed_at": "2025-10-28T09:16:58.308Z",
+    "duration_minutes": 2697,
+    "duration_str": "1d 20h 57m"
   },
   {
     "title": "Le président ultralibéral Javier Milei face à un test électoral crucial en Argentine",
@@ -32693,7 +32711,10 @@
   },
   {
     "title": "L'utilisation de l'IA par les étudiants, un phénomène de plus en plus fréquent",
-    "added_at": "2025-10-26T14:53:27.709Z"
+    "added_at": "2025-10-26T14:53:27.709Z",
+    "removed_at": "2025-10-28T09:19:11.846Z",
+    "duration_minutes": 2545,
+    "duration_str": "1d 18h 25m"
   },
   {
     "title": "Immersion dans le quotidien du plus vieux journal vaudois : la Feuille",
@@ -33081,7 +33102,10 @@
   },
   {
     "title": "Comment de faux sites d’information locale servent les intérêts pro-russes",
-    "added_at": "2025-10-28T05:26:15.678Z"
+    "added_at": "2025-10-28T05:26:15.678Z",
+    "removed_at": "2025-10-28T08:31:46.780Z",
+    "duration_minutes": 185,
+    "duration_str": "3h 5m"
   },
   {
     "title": "L'art contemporain, du rêve de l'artiste à la réalité du marché",
@@ -33094,5 +33118,48 @@
   {
     "title": "Ouverture du procès pour la noyade d'un enfant à Bienne lors d'une sortie scolaire",
     "added_at": "2025-10-28T06:45:22.002Z"
+  },
+  {
+    "title": "L’irrigation traditionnelle des bisses valaisans, une réponse durable au réchauffement climatique",
+    "added_at": "2025-10-28T07:03:34.560Z",
+    "removed_at": "2025-10-28T08:47:32.382Z",
+    "duration_minutes": 103,
+    "duration_str": "1h 43m"
+  },
+  {
+    "title": "\"Henry Halfhead\", un jeu vidéo ludique qui valorise l'expérimentation",
+    "added_at": "2025-10-28T07:46:35.993Z"
+  },
+  {
+    "title": "Un sondage IKEA confirme certains stéréotypes sur les Suisses et Suissesses",
+    "added_at": "2025-10-28T07:51:05.038Z"
+  },
+  {
+    "title": "Elon Musk lance Grokipedia, un concurrent de Wikipédia généré par IA",
+    "added_at": "2025-10-28T08:09:07.790Z"
+  },
+  {
+    "title": "Comment de faux sites d'information locale servent les intérêts pro-russes",
+    "added_at": "2025-10-28T08:31:46.780Z"
+  },
+  {
+    "title": "L'irrigation traditionnelle des bisses valaisans, une réponse durable au réchauffement climatique",
+    "added_at": "2025-10-28T08:47:32.382Z"
+  },
+  {
+    "title": "Transformation des Etats-Unis et 3e mandat: où en est Donald Trump dans ses objectifs?",
+    "added_at": "2025-10-28T09:03:23.996Z"
+  },
+  {
+    "title": "Un réchaud à fondue à l'origine de l'incendie au restaurant de Glacier 3000",
+    "added_at": "2025-10-28T09:16:58.308Z"
+  },
+  {
+    "title": "Le batteur américain Jack DeJohnette, figure majeure du jazz, est décédé à 83 ans",
+    "added_at": "2025-10-28T09:19:11.846Z"
+  },
+  {
+    "title": "La torture, une infraction bientôt nommément interdite dans le code pénal suisse?",
+    "added_at": "2025-10-28T09:21:28.745Z"
   }
 ]
