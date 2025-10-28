@@ -701,8 +701,9 @@
   {
     "title": "See weather conditions in Jamaica as hurricane approaches",
     "added_at": "2025-10-27T14:31:15.259Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-28T20:30:45.588Z",
+    "duration_minutes": 1800,
+    "duration_str": "1d 6h"
   },
   {
     "title": "Louvre heist suspects arrested",
@@ -735,8 +736,9 @@
   {
     "title": "The magical white stone wonderland with effervescent bathing pools",
     "added_at": "2025-10-27T15:04:03.832Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-28T20:05:48.535Z",
+    "duration_minutes": 1742,
+    "duration_str": "1d 5h 2m"
   },
   {
     "title": "British commentator Sami Hamdi detained by ICE",
@@ -909,29 +911,26 @@
   {
     "title": "Melissa forecast to be strongest to ever hit Jamaica",
     "added_at": "2025-10-27T20:42:34.814Z",
-    "removed_at": "2025-10-28T16:46:58.862Z",
+    "removed_at": "2025-10-28T16:46:58.486Z",
     "duration_minutes": 1204,
     "duration_str": "20h 4m"
   },
   {
     "title": "What a 2000s meme has to do with a us senate race",
     "added_at": "2025-10-27T21:09:13.055Z",
-    "removed_at": "2025-10-28T17:31:36.649Z",
-    "duration_minutes": 1222,
-    "duration_str": "20h 22m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Border Patrol agents arrest undocumented immigrant and two US citizens",
     "added_at": "2025-10-27T23:21:35.749Z",
-    "removed_at": "2025-10-28T18:39:35.448Z",
-    "duration_minutes": 1158,
-    "duration_str": "19h 18m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Senate chaplain urges senators to reopen government in prayer",
     "added_at": "2025-10-27T23:27:15.480Z",
-    "removed_at": "2025-10-28T18:50:54.408Z",
-    "duration_minutes": 1164,
-    "duration_str": "19h 24m"
+    "duration_minutes": 0,
+    "duration_str": ""
   }
 ]
