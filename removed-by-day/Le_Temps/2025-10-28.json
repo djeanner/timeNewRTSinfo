@@ -16,7 +16,7 @@
   {
     "title": "monde:::Le très puissant ouragan Melissa s'apprête à frapper la Jamaïque avec des pluies et vents violents",
     "added_at": "2025-10-28T04:52:00.764Z",
-    "removed_at": "2025-10-28T06:11:26.537Z",
+    "removed_at": "2025-10-28T06:11:25.052Z",
     "duration_minutes": 79,
     "duration_str": "1h 19m"
   },
@@ -29,8 +29,9 @@
   {
     "title": "cyber:::La centrale nucléaire Duane Arnold, aux Etats-Unis, va redémarrer afin d'alimenter l'IA de Google",
     "added_at": "2025-10-28T05:05:14.160Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-28T10:22:50.400Z",
+    "duration_minutes": 318,
+    "duration_str": "5h 18m"
   },
   {
     "title": "monde:::En Israël, des otages lèvent le voile sur leurs conditions de détention",
@@ -40,13 +41,14 @@
   },
   {
     "title": "monde:::Le très puissant ouragan Melissa s’apprête à frapper la Jamaïque et fait déjà trois morts",
-    "added_at": "2025-10-28T06:11:26.537Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-10-28T06:11:25.052Z",
+    "removed_at": "2025-10-28T10:40:57.730Z",
+    "duration_minutes": 270,
+    "duration_str": "4h 30m"
   },
   {
     "title": "economie:::A 87 ans, le fondateur du WEF, Klaus Schwab, signe son retour avec une nouvelle entreprise et un nouveau livre",
-    "added_at": "2025-10-28T06:25:00.499Z",
+    "added_at": "2025-10-28T06:24:36.890Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -77,6 +79,37 @@
   {
     "title": "culture:::Shems Bendali, le trompettiste qui souffle sur ses racines",
     "added_at": "2025-10-28T09:16:58.354Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Gaza: les prémices d’un cadre humanitaire sous contrôle des Etats-Unis",
+    "added_at": "2025-10-28T10:22:50.400Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::La Cour européenne des droits de l’homme rejette le recours contre les permis pétroliers délivrés par la Norvège",
+    "added_at": "2025-10-28T10:40:57.730Z",
+    "removed_at": "2025-10-28T11:12:39.557Z",
+    "duration_minutes": 32,
+    "duration_str": "32m"
+  },
+  {
+    "title": "sciences:::La Jamaïque s’apprête à affronter le pire cyclone de son histoire",
+    "added_at": "2025-10-28T11:12:39.557Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::11 morts, dont 8 Hongrois et 2 Allemands, dans le crash d’un petit avion au Kenya",
+    "added_at": "2025-10-28T11:12:39.557Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "culture:::Au Musée du Quai Branly, inventer d’autres récits avec les peuples autochtones d’Amazonie",
+    "added_at": "2025-10-28T12:00:12.504Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
