@@ -98,7 +98,7 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Après ses raids meurtriers à Gaza, Israël dit reprendre le cessez-le-feu",
     "added_at": "2025-10-29T08:50:14.757Z",
-    "removed_at": "2025-10-29T15:07:20.407Z",
+    "removed_at": "2025-10-29T15:07:15.376Z",
     "duration_minutes": 377,
     "duration_str": "6h 17m"
   },
@@ -131,8 +131,9 @@
   {
     "title": "sport:::En équipe de Suisse féminine, éclaircies sur le terrain et flou en coulisses",
     "added_at": "2025-10-29T11:04:28.774Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-29T19:26:28.426Z",
+    "duration_minutes": 502,
+    "duration_str": "8h 22m"
   },
   {
     "title": "sport:::«J’ai dû prendre un prénom de garçon»: les improbables débuts de Pia Sundhage, footballeuse de légende et coach de la Nati",
@@ -158,8 +159,9 @@
   {
     "title": "culture:::Arthur Teboul et Sébastien Wolf: «Il n’y aurait pas de Feu! Chatterton sans l’amitié»",
     "added_at": "2025-10-29T12:01:22.755Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-29T18:59:15.064Z",
+    "duration_minutes": 418,
+    "duration_str": "6h 58m"
   },
   {
     "title": "economie:::Chez Boucledor, un fermoir de montre commence par la gestion des métaux précieux",
@@ -183,8 +185,9 @@
   {
     "title": "culture:::«La Tour de glace»: le retour de «La Reine des neiges» en version adultes, avec une glaciale Marion Cotillard",
     "added_at": "2025-10-29T14:31:07.186Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-29T20:02:49.061Z",
+    "duration_minutes": 332,
+    "duration_str": "5h 32m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Kiev accuse la Russie d'avoir délibérément bombardé un hôpital pédiatrique à Kherson",
@@ -194,7 +197,7 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L'ONU juge «épouvantable» le bilan des bombardements israéliens à Gaza",
-    "added_at": "2025-10-29T15:07:20.407Z",
+    "added_at": "2025-10-29T15:07:15.376Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -220,15 +223,16 @@
   },
   {
     "title": "monde:::Xi Jinping, le seul dirigeant qui résiste vraiment à Donald Trump",
-    "added_at": "2025-10-29T16:15:42.215Z",
+    "added_at": "2025-10-29T16:15:14.024Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "economie:::100 milliards par an sur 10 ans: chez Tesla, le bras de fer sur la rémunération d’Elon Musk se poursuit",
     "added_at": "2025-10-29T17:07:54.384Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-29T19:28:44.702Z",
+    "duration_minutes": 141,
+    "duration_str": "2h 21m"
   },
   {
     "title": "monde:::Dans la riche Amérique, 42 millions de citoyens sont menacés par la faim",
@@ -239,6 +243,30 @@
   {
     "title": "suisse:::A Genève, Joëlle Bertossa tente d’éteindre l’incendie qui embrase la Comédie",
     "added_at": "2025-10-29T18:31:50.592Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Au Soudan, les paramilitaires des FSR tuent 460 civils dans un hôpital",
+    "added_at": "2025-10-29T18:59:15.064Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::Malgré de solides résultats trimestriels, UBS doit faire face à des défis de taille",
+    "added_at": "2025-10-29T19:26:28.426Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::Chez Tesla, le bras de fer sur la rémunération d’Elon Musk se poursuit",
+    "added_at": "2025-10-29T19:28:44.702Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "culture:::A Lausanne, Vincent Bonillo raconte les rapports de force (parfois inversés) entre «bonnes et bourges»",
+    "added_at": "2025-10-29T20:02:49.061Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
