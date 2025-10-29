@@ -45033,7 +45033,10 @@
   },
   {
     "title": "suisse:::A Genève, le soir d’épouvante où la vie d’une adolescente a basculé",
-    "added_at": "2025-10-28T18:16:59.638Z"
+    "added_at": "2025-10-28T18:16:59.638Z",
+    "removed_at": "2025-10-29T21:20:01.385Z",
+    "duration_minutes": 1623,
+    "duration_str": "1d 3h 3m"
   },
   {
     "title": "economie:::La Suisse manque toujours plus de médecins, mais dans les faits ceux-ci ne reçoivent plus leurs titres",
@@ -45268,7 +45271,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L'ONU juge «épouvantable» le bilan des bombardements israéliens à Gaza",
-    "added_at": "2025-10-29T15:07:20.407Z"
+    "added_at": "2025-10-29T15:07:20.407Z",
+    "removed_at": "2025-10-29T23:40:37.769Z",
+    "duration_minutes": 513,
+    "duration_str": "8h 33m"
   },
   {
     "title": "monde:::L’ouragan Melissa a tué au moins 20 personnes sur son passage, et causé des «dégâts considérables» à Cuba",
@@ -45322,5 +45328,13 @@
   {
     "title": "culture:::A Lausanne, Vincent Bonillo raconte les rapports de force (parfois inversés) entre «bonnes et bourges»",
     "added_at": "2025-10-29T20:02:49.061Z"
+  },
+  {
+    "title": "monde:::Revers pour l’extrême droite aux Pays-Bas: un parti centriste en tête des sondages de sortie des urnes aux législatives",
+    "added_at": "2025-10-29T21:20:01.385Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’ONU juge «épouvantable» le bilan des bombardements israéliens à Gaza",
+    "added_at": "2025-10-29T23:40:37.769Z"
   }
 ]
