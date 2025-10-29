@@ -58042,7 +58042,10 @@
   },
   {
     "title": "La liberté des uns",
-    "added_at": "2025-10-26T23:28:37.473Z"
+    "added_at": "2025-10-26T23:28:37.473Z",
+    "removed_at": "2025-10-29T10:02:45.416Z",
+    "duration_minutes": 3514,
+    "duration_str": "2d 10h 34m"
   },
   {
     "title": "Le mariage",
@@ -58135,7 +58138,10 @@
   },
   {
     "title": "Nouveau procès pour dix personnes accusées de cyberharcèlement contre Brigitte Macron",
-    "added_at": "2025-10-27T12:12:05.266Z"
+    "added_at": "2025-10-27T12:12:05.266Z",
+    "removed_at": "2025-10-29T08:03:46.036Z",
+    "duration_minutes": 2631,
+    "duration_str": "1d 19h 51m"
   },
   {
     "title": "Le Forum des médias - Le musée du Louvre a-t-il été victime du casse du siècle?",
@@ -58235,7 +58241,10 @@
   },
   {
     "title": "La mortalité due aux AVC a chuté de moitié en Suisse en 20 ans",
-    "added_at": "2025-10-27T16:27:25.673Z"
+    "added_at": "2025-10-27T16:27:25.673Z",
+    "removed_at": "2025-10-29T08:11:22.041Z",
+    "duration_minutes": 2383,
+    "duration_str": "1d 15h 43m"
   },
   {
     "title": "Le nouveau directeur de la LNM accusé de mobbing et de négligence dans l'entretien des bateaux",
@@ -58247,7 +58256,10 @@
   },
   {
     "title": "L'A9 pourra désormais être empruntée de Gampel/Steg à Brigue sans interruption",
-    "added_at": "2025-10-27T17:42:56.437Z"
+    "added_at": "2025-10-27T17:42:56.437Z",
+    "removed_at": "2025-10-29T09:15:31.406Z",
+    "duration_minutes": 2372,
+    "duration_str": "1d 15h 32m"
   },
   {
     "title": "Transformation des Etats-Unis et 3e mandat: où en est Donald Trump dans ses objectifs? Interview de Corentin Sellin",
@@ -58281,11 +58293,17 @@
   },
   {
     "title": "Les indépendantistes catalans \"rompent\" avec Pedro Sánchez, qui perd sa majorité au Parlement espagnol",
-    "added_at": "2025-10-27T20:38:59.663Z"
+    "added_at": "2025-10-27T20:38:59.663Z",
+    "removed_at": "2025-10-29T08:56:42.600Z",
+    "duration_minutes": 2177,
+    "duration_str": "1d 12h 17m"
   },
   {
     "title": "L'ouest de la Turquie secoué par un séisme de magnitude 6,1",
-    "added_at": "2025-10-27T22:51:21.219Z"
+    "added_at": "2025-10-27T22:51:21.219Z",
+    "removed_at": "2025-10-29T09:53:21.605Z",
+    "duration_minutes": 2102,
+    "duration_str": "1d 11h 2m"
   },
   {
     "title": "Faut-il interdire aux réfugiés de voyager? Débat entre Michaël Buffat et Delphine Klopfenstein Broggini.",
@@ -58628,5 +58646,29 @@
   {
     "title": "Au moins 50 morts dans les frappes israéliennes de la nuit sur Gaza, annonce le Hamas",
     "added_at": "2025-10-29T07:12:37.922Z"
+  },
+  {
+    "title": "A Lausanne, le MCBA rend hommage à Félix Vallotton avec une vaste rétrospective",
+    "added_at": "2025-10-29T08:03:46.036Z"
+  },
+  {
+    "title": "L'ouragan Melissa touche Cuba avec des vents de 195 km/h",
+    "added_at": "2025-10-29T08:11:22.041Z"
+  },
+  {
+    "title": "La Chine confirme que Xi Jinping rencontrera Donald Trump en Corée du Sud",
+    "added_at": "2025-10-29T08:56:42.600Z"
+  },
+  {
+    "title": "Ueli Maurer présente devant la presse le cercle Leonhard, un lobby pour plus de liberté d'expression",
+    "added_at": "2025-10-29T09:04:11.753Z"
+  },
+  {
+    "title": "L'essor du VTT en Valais ralenti par des démarches administratives",
+    "added_at": "2025-10-29T09:15:31.406Z"
+  },
+  {
+    "title": "Joëlle Bertossa: \"La plupart des allégations concernant Séverine Chavrier sont fausses\"",
+    "added_at": "2025-10-29T09:53:21.605Z"
   }
 ]
