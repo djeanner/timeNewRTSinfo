@@ -45311,7 +45311,10 @@
   },
   {
     "title": "monde:::Dans la riche Amérique, 42 millions de citoyens sont menacés par la faim",
-    "added_at": "2025-10-29T17:46:05.625Z"
+    "added_at": "2025-10-29T17:46:05.625Z",
+    "removed_at": "2025-10-30T12:19:44.106Z",
+    "duration_minutes": 1113,
+    "duration_str": "18h 33m"
   },
   {
     "title": "suisse:::A Genève, Joëlle Bertossa tente d’éteindre l’incendie qui embrase la Comédie",
@@ -45448,7 +45451,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les cantons de Fribourg et Zurich ne veulent pas accueillir des enfants blessés de Gaza",
-    "added_at": "2025-10-30T08:57:22.453Z"
+    "added_at": "2025-10-30T08:57:22.453Z",
+    "removed_at": "2025-10-30T13:31:29.214Z",
+    "duration_minutes": 274,
+    "duration_str": "4h 34m"
   },
   {
     "title": "economie:::La croissance française a accéléré cet été malgré la crise politique",
@@ -45459,7 +45465,10 @@
   },
   {
     "title": "culture:::Julie Gilbert, codirectrice du Théâtre du Loup à Genève: «Nous voulons révéler des auteurs jamais joués sous nos latitudes»",
-    "added_at": "2025-10-30T10:05:28.412Z"
+    "added_at": "2025-10-30T10:05:28.412Z",
+    "removed_at": "2025-10-30T13:37:09.661Z",
+    "duration_minutes": 211,
+    "duration_str": "3h 31m"
   },
   {
     "title": "monde:::Les accords franco-algériens offrent une nouvelle occasion de constater la possible union des droites en France",
@@ -45472,5 +45481,28 @@
   {
     "title": "monde:::Iryna Venediktova: «Au début, ce sont les livres, la musique ou le théâtre russes. Puis ce sont les chars et les drones qui arrivent»",
     "added_at": "2025-10-30T11:05:54.117Z"
+  },
+  {
+    "title": "economie:::Gérald Charles ou le destin d’une marque née pendant le voyage en Italie d’Audemars Piguet",
+    "added_at": "2025-10-30T12:19:44.106Z"
+  },
+  {
+    "title": "sport:::«Quand je cours, je pense aux dromadaires»: Elhousine Elazzaoui, le roi du trail venu du désert",
+    "added_at": "2025-10-30T13:08:50.523Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le Hamas va rendre à Israël deux corps d'otages",
+    "added_at": "2025-10-30T13:31:29.214Z",
+    "removed_at": "2025-10-30T14:03:40.032Z",
+    "duration_minutes": 32,
+    "duration_str": "32m"
+  },
+  {
+    "title": "monde:::Décryptage – Six questions sur le duel très serré entre l'extrême droite et le centre aux Pays-Bas",
+    "added_at": "2025-10-30T13:37:09.661Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Des centaines de milliers de juifs ultra-orthodoxes manifestent à Jérusalem contre le service militaire",
+    "added_at": "2025-10-30T14:03:40.032Z"
   }
 ]
