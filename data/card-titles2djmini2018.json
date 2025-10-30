@@ -45244,7 +45244,10 @@
   },
   {
     "title": "suisse:::A Genève, le déficit budgétaire s’alourdit massivement, avec la baisse prévue du bénéfice des entreprises",
-    "added_at": "2025-10-29T12:56:49.542Z"
+    "added_at": "2025-10-29T12:56:49.542Z",
+    "removed_at": "2025-10-30T19:17:40.167Z",
+    "duration_minutes": 1820,
+    "duration_str": "1d 6h 20m"
   },
   {
     "title": "cyber:::Le Conseil fédéral va finalement de l’avant dans sa volonté de réglementer les réseaux sociaux",
@@ -45367,7 +45370,10 @@
   },
   {
     "title": "suisse:::Le grand flou du revenu des pharmacies",
-    "added_at": "2025-10-30T00:06:21.781Z"
+    "added_at": "2025-10-30T00:06:21.781Z",
+    "removed_at": "2025-10-30T18:13:28.547Z",
+    "duration_minutes": 1087,
+    "duration_str": "18h 7m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Kiev accuse la Russie d’avoir délibérément bombardé un hôpital pédiatrique à Kherson",
@@ -45431,11 +45437,17 @@
   },
   {
     "title": "economie:::Droits de douane et technologies: Donald Trump et Xi Jinping trouvent un terrain d’entente",
-    "added_at": "2025-10-30T06:26:07.137Z"
+    "added_at": "2025-10-30T06:26:07.137Z",
+    "removed_at": "2025-10-30T18:17:12.578Z",
+    "duration_minutes": 711,
+    "duration_str": "11h 51m"
   },
   {
     "title": "cyber:::Avec Grokipedia, Elon Musk poursuit patiemment sa stratégie pour étendre son influence mondiale",
-    "added_at": "2025-10-30T06:50:40.955Z"
+    "added_at": "2025-10-30T06:50:40.955Z",
+    "removed_at": "2025-10-30T18:13:28.547Z",
+    "duration_minutes": 682,
+    "duration_str": "11h 22m"
   },
   {
     "title": "monde:::Vol au Louvre: les enquêteurs procèdent à de nouvelles interpellations",
@@ -45486,15 +45498,24 @@
   },
   {
     "title": "monde:::Iryna Venediktova: «Au début, ce sont les livres, la musique ou le théâtre russes. Puis ce sont les chars et les drones qui arrivent»",
-    "added_at": "2025-10-30T11:05:54.117Z"
+    "added_at": "2025-10-30T11:05:54.117Z",
+    "removed_at": "2025-10-30T18:24:49.266Z",
+    "duration_minutes": 438,
+    "duration_str": "7h 18m"
   },
   {
     "title": "economie:::Gérald Charles ou le destin d’une marque née pendant le voyage en Italie d’Audemars Piguet",
-    "added_at": "2025-10-30T12:19:44.106Z"
+    "added_at": "2025-10-30T12:19:44.106Z",
+    "removed_at": "2025-10-30T18:13:28.547Z",
+    "duration_minutes": 353,
+    "duration_str": "5h 53m"
   },
   {
     "title": "sport:::«Quand je cours, je pense aux dromadaires»: Elhousine Elazzaoui, le roi du trail venu du désert",
-    "added_at": "2025-10-30T13:08:50.523Z"
+    "added_at": "2025-10-30T13:08:50.523Z",
+    "removed_at": "2025-10-30T18:26:39.317Z",
+    "duration_minutes": 317,
+    "duration_str": "5h 17m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Hamas va rendre à Israël deux corps d'otages",
@@ -45538,6 +45559,52 @@
   },
   {
     "title": "sport:::Grandeur de «La civilisation du ski»… et décadence?",
-    "added_at": "2025-10-30T16:57:38.877Z"
+    "added_at": "2025-10-30T16:57:38.877Z",
+    "removed_at": "2025-10-30T17:50:46.763Z",
+    "duration_minutes": 53,
+    "duration_str": "53m"
+  },
+  {
+    "title": "sport:::Grandeur de «la civilisation du ski»… et décadence?",
+    "added_at": "2025-10-30T17:50:46.763Z"
+  },
+  {
+    "title": "suisse:::Un oui avec 50 nuances de «mais» au paquet d’accords avec l’UE",
+    "added_at": "2025-10-30T18:09:38.592Z"
+  },
+  {
+    "title": "suisse:::Accords Suisse-UE: Le rythme du parlement sera aussi politique",
+    "added_at": "2025-10-30T18:09:38.592Z",
+    "removed_at": "2025-10-30T18:34:13.330Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "suisse:::La double majorité, un avant-gout de la bataille politique sur les accords avec l'Union européenne",
+    "added_at": "2025-10-30T18:09:38.592Z"
+  },
+  {
+    "title": "suisse:::Lourde peine pour le bourreau d’une adolescente, violée et laissée pour morte dans son jardin de Chêne-Bougeries",
+    "added_at": "2025-10-30T18:13:28.547Z"
+  },
+  {
+    "title": "cyber:::5000 milliards pour Nvidia, 4000 pour Apple, bientôt 1000 pour OpenAI: l’effervescence autour de l’intelligence artificielle atteint des sommets",
+    "added_at": "2025-10-30T18:17:12.578Z"
+  },
+  {
+    "title": "suisse:::Accords Suisse-UE: le tout petit oui des partisans",
+    "added_at": "2025-10-30T18:22:52.217Z"
+  },
+  {
+    "title": "economie:::Les salaires effectifs ont augmenté en Suisse, mais de façon moins importante que l’an dernier",
+    "added_at": "2025-10-30T18:24:49.266Z"
+  },
+  {
+    "title": "suisse:::Accords Suisse-UE: le rythme du parlement sera aussi politique",
+    "added_at": "2025-10-30T18:34:13.330Z"
+  },
+  {
+    "title": "suisse:::Elections Jurassiennes: Martial Courtet invite Pierre Maudet dans sa campagne",
+    "added_at": "2025-10-30T19:17:40.167Z"
   }
 ]
