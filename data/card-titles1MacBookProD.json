@@ -32974,7 +32974,10 @@
   },
   {
     "title": "La liberté des uns",
-    "added_at": "2025-10-26T23:29:00.403Z"
+    "added_at": "2025-10-26T23:29:00.403Z",
+    "removed_at": "2025-10-30T18:03:53.680Z",
+    "duration_minutes": 5434,
+    "duration_str": "3d 18h 34m"
   },
   {
     "title": "Le mariage",
@@ -33615,7 +33618,10 @@
   },
   {
     "title": "Benjamin Netanyahu ordonne des frappes \"immédiates\" sur la bande de Gaza",
-    "added_at": "2025-10-28T16:31:04.525Z"
+    "added_at": "2025-10-28T16:31:04.525Z",
+    "removed_at": "2025-10-30T18:03:53.680Z",
+    "duration_minutes": 2972,
+    "duration_str": "2d 1h 32m"
   },
   {
     "title": "Podcast - L'intelligence artificielle menace-t-elle Wikipédia ?",
@@ -33711,7 +33717,10 @@
   },
   {
     "title": "L'ouragan Melissa a frappé de plein fouet la Jamaïque avec des vents de 280 km/h",
-    "added_at": "2025-10-28T22:11:00.928Z"
+    "added_at": "2025-10-28T22:11:00.928Z",
+    "removed_at": "2025-10-30T20:04:17.202Z",
+    "duration_minutes": 2753,
+    "duration_str": "1d 21h 53m"
   },
   {
     "title": "Le secteur de la construction continue à se heurter à des désaccords",
@@ -33789,7 +33798,10 @@
   },
   {
     "title": "L'essor du VTT en Valais ralenti par des démarches administratives",
-    "added_at": "2025-10-29T09:15:12.500Z"
+    "added_at": "2025-10-29T09:15:12.500Z",
+    "removed_at": "2025-10-30T17:59:19.025Z",
+    "duration_minutes": 1964,
+    "duration_str": "1d 8h 44m"
   },
   {
     "title": "Joëlle Bertossa: \"La plupart des allégations concernant Séverine Chavrier sont fausses\"",
@@ -33823,7 +33835,10 @@
   },
   {
     "title": "Un cas de braconnage sur un lynx recensé à La Roche, en Gruyère",
-    "added_at": "2025-10-29T11:59:04.216Z"
+    "added_at": "2025-10-29T11:59:04.216Z",
+    "removed_at": "2025-10-30T20:11:05.371Z",
+    "duration_minutes": 1932,
+    "duration_str": "1d 8h 12m"
   },
   {
     "title": "La Suisse est mauvaise élève en matière de protection de la biodiversité",
@@ -33962,7 +33977,10 @@
   },
   {
     "title": "Quel avenir pour Wikipédia face à l'IA? Interview de Natacha Rault",
-    "added_at": "2025-10-29T19:03:50.778Z"
+    "added_at": "2025-10-29T19:03:50.778Z",
+    "removed_at": "2025-10-30T20:04:17.202Z",
+    "duration_minutes": 1500,
+    "duration_str": "1d 1h"
   },
   {
     "title": "La Suisse a renforcé ses liens avec l'Afrique du Sud lors d'une visite d'Etat à Berne",
@@ -34066,10 +34084,7 @@
   },
   {
     "title": "Un chemin historique entre la plaine et le petit village d’Isérables en Valais",
-    "added_at": "2025-10-30T06:47:21.681Z",
-    "removed_at": "2025-10-30T16:23:45.511Z",
-    "duration_minutes": 576,
-    "duration_str": "9h 36m"
+    "added_at": "2025-10-30T06:47:21.681Z"
   },
   {
     "title": "De graves inondations font 10 morts au Vietnam, la ville historique de Hoi An sous les eaux",
@@ -34244,5 +34259,21 @@
   {
     "title": "Le personnel de vente s'oppose à l'extension du travail dominical dans une pétition",
     "added_at": "2025-10-30T17:20:30.268Z"
+  },
+  {
+    "title": "Le casque de ski devient obligatoire en Italie, la Suisse doit-elle suivre?",
+    "added_at": "2025-10-30T17:59:19.025Z"
+  },
+  {
+    "title": "Que sont les handicaps invisibles? Interview de Vincent Martinez",
+    "added_at": "2025-10-30T18:03:53.680Z"
+  },
+  {
+    "title": "Pierre Maudet, invité surprise de la campagne de Martial Courtet dans le Jura",
+    "added_at": "2025-10-30T19:05:11.581Z"
+  },
+  {
+    "title": "La paralysie budgétaire prive les Etats-Unis de données économiques clés",
+    "added_at": "2025-10-30T20:11:05.371Z"
   }
 ]
