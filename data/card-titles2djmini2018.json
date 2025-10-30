@@ -6448,7 +6448,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:00:57.917Z"
+    "added_at": "2025-05-22T18:00:57.917Z",
+    "removed_at": "2025-10-30T20:03:11.359Z",
+    "duration_minutes": 231962,
+    "duration_str": "161d 2h 2m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -45566,7 +45569,10 @@
   },
   {
     "title": "sport:::Grandeur de «la civilisation du ski»… et décadence?",
-    "added_at": "2025-10-30T17:50:46.763Z"
+    "added_at": "2025-10-30T17:50:46.763Z",
+    "removed_at": "2025-10-30T20:29:39.902Z",
+    "duration_minutes": 158,
+    "duration_str": "2h 38m"
   },
   {
     "title": "suisse:::Un oui avec 50 nuances de «mais» au paquet d’accords avec l’UE",
@@ -45581,7 +45587,10 @@
   },
   {
     "title": "suisse:::La double majorité, un avant-gout de la bataille politique sur les accords avec l'Union européenne",
-    "added_at": "2025-10-30T18:09:38.592Z"
+    "added_at": "2025-10-30T18:09:38.592Z",
+    "removed_at": "2025-10-30T19:34:50.988Z",
+    "duration_minutes": 85,
+    "duration_str": "1h 25m"
   },
   {
     "title": "suisse:::Lourde peine pour le bourreau d’une adolescente, violée et laissée pour morte dans son jardin de Chêne-Bougeries",
@@ -45606,5 +45615,17 @@
   {
     "title": "suisse:::Elections Jurassiennes: Martial Courtet invite Pierre Maudet dans sa campagne",
     "added_at": "2025-10-30T19:17:40.167Z"
+  },
+  {
+    "title": "suisse:::La double majorité, un avant-goût de la bataille politique sur les accords avec l’Union européenne",
+    "added_at": "2025-10-30T19:34:50.988Z"
+  },
+  {
+    "title": "monde:::Rencontre Trump-Xi: le fentanyl, prétexte de la discorde",
+    "added_at": "2025-10-30T20:03:11.359Z"
+  },
+  {
+    "title": "culture:::Jeff Buckley, la grâce d’une étoile filante",
+    "added_at": "2025-10-30T20:29:39.902Z"
   }
 ]
