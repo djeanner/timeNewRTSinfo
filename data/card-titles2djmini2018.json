@@ -6448,10 +6448,7 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:00:57.917Z",
-    "removed_at": "2025-10-24T14:14:35.854Z",
-    "duration_minutes": 222973,
-    "duration_str": "154d 20h 13m"
+    "added_at": "2025-05-22T18:00:57.917Z"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -45293,7 +45290,10 @@
   },
   {
     "title": "monde:::Jeudi soir, découvrez «Ceux qui résistent», un nouveau reportage dessiné de Chappatte aux Etats-Unis",
-    "added_at": "2025-10-29T16:13:23.335Z"
+    "added_at": "2025-10-29T16:13:23.335Z",
+    "removed_at": "2025-10-30T15:15:34.535Z",
+    "duration_minutes": 1382,
+    "duration_str": "23h 2m"
   },
   {
     "title": "monde:::Xi Jinping, le seul dirigeant qui résiste vraiment à Donald Trump",
@@ -45325,7 +45325,10 @@
   },
   {
     "title": "monde:::Au Soudan, les paramilitaires des FSR tuent 460 civils dans un hôpital",
-    "added_at": "2025-10-29T18:59:46.031Z"
+    "added_at": "2025-10-29T18:59:46.031Z",
+    "removed_at": "2025-10-30T16:57:38.877Z",
+    "duration_minutes": 1317,
+    "duration_str": "21h 57m"
   },
   {
     "title": "economie:::Chez Tesla, le bras de fer sur la rémunération d’Elon Musk se poursuit",
@@ -45443,7 +45446,10 @@
   },
   {
     "title": "culture:::Pour son ultime saison à la tête de l’Octogone de Pully, l’autrice Yasmine Char affronte les feux de la rampe",
-    "added_at": "2025-10-30T07:53:10.888Z"
+    "added_at": "2025-10-30T07:53:10.888Z",
+    "removed_at": "2025-10-30T15:21:14.820Z",
+    "duration_minutes": 448,
+    "duration_str": "7h 28m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Des frappes russes massives sur l’Ukraine provoquent des coupures d’électricité",
@@ -45499,10 +45505,39 @@
   },
   {
     "title": "monde:::Décryptage – Six questions sur le duel très serré entre l'extrême droite et le centre aux Pays-Bas",
-    "added_at": "2025-10-30T13:37:09.661Z"
+    "added_at": "2025-10-30T13:37:09.661Z",
+    "removed_at": "2025-10-30T16:44:23.167Z",
+    "duration_minutes": 187,
+    "duration_str": "3h 7m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Des centaines de milliers de juifs ultra-orthodoxes manifestent à Jérusalem contre le service militaire",
-    "added_at": "2025-10-30T14:03:40.032Z"
+    "added_at": "2025-10-30T14:03:40.032Z",
+    "removed_at": "2025-10-30T15:00:28.710Z",
+    "duration_minutes": 56,
+    "duration_str": "56m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Deux corps d'otages israéliens ont été remis au CICR à Gaza",
+    "added_at": "2025-10-30T15:00:28.710Z",
+    "removed_at": "2025-10-30T16:23:36.504Z",
+    "duration_minutes": 83,
+    "duration_str": "1h 23m"
+  },
+  {
+    "title": "monde:::De quoi parle Donald Trump en ordonnant la reprise des essais nucléaires aux Etats-Unis?",
+    "added_at": "2025-10-30T16:08:30.880Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Israël a reçu deux nouveaux corps d'otages restitués par le Hamas",
+    "added_at": "2025-10-30T16:23:36.504Z"
+  },
+  {
+    "title": "economie:::Les terres rares, principal levier de la détente entre les Etats-Unis et la Chine",
+    "added_at": "2025-10-30T16:44:23.167Z"
+  },
+  {
+    "title": "sport:::Grandeur de «La civilisation du ski»… et décadence?",
+    "added_at": "2025-10-30T16:57:38.877Z"
   }
 ]
