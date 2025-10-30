@@ -45231,7 +45231,10 @@
   },
   {
     "title": "economie:::Chez Boucledor, un fermoir de montre commence par la gestion des métaux précieux",
-    "added_at": "2025-10-29T12:05:39.898Z"
+    "added_at": "2025-10-29T12:05:39.898Z",
+    "removed_at": "2025-10-30T00:06:21.781Z",
+    "duration_minutes": 720,
+    "duration_str": "12h"
   },
   {
     "title": "suisse:::A Genève, le déficit budgétaire s’alourdit massivement, avec la baisse prévue du bénéfice des entreprises",
@@ -45253,11 +45256,17 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Kiev accuse la Russie d'avoir délibérément bombardé un hôpital pédiatrique à Kherson",
-    "added_at": "2025-10-29T14:34:59.231Z"
+    "added_at": "2025-10-29T14:34:59.231Z",
+    "removed_at": "2025-10-30T00:19:35.492Z",
+    "duration_minutes": 584,
+    "duration_str": "9h 44m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L'ONU juge «épouvantable» le bilan des bombardements israéliens à Gaza",
-    "added_at": "2025-10-29T15:07:15.376Z"
+    "added_at": "2025-10-29T15:07:15.376Z",
+    "removed_at": "2025-10-29T23:41:54.397Z",
+    "duration_minutes": 514,
+    "duration_str": "8h 34m"
   },
   {
     "title": "monde:::L’ouragan Melissa a tué au moins 20 personnes sur son passage, et causé des «dégâts considérables» à Cuba",
@@ -45315,5 +45324,17 @@
   {
     "title": "monde:::Revers pour l’extrême droite aux Pays-Bas: un parti centriste en tête des sondages de sortie des urnes aux législatives",
     "added_at": "2025-10-29T21:20:08.412Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’ONU juge «épouvantable» le bilan des bombardements israéliens à Gaza",
+    "added_at": "2025-10-29T23:41:54.397Z"
+  },
+  {
+    "title": "suisse:::Le grand flou du revenu des pharmacies",
+    "added_at": "2025-10-30T00:06:21.781Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Kiev accuse la Russie d’avoir délibérément bombardé un hôpital pédiatrique à Kherson",
+    "added_at": "2025-10-30T00:19:35.492Z"
   }
 ]
