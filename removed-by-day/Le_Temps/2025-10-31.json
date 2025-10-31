@@ -16,9 +16,8 @@
   {
     "title": "suisse:::Plus fragile que jamais, le budget du canton de Vaud promet des débats explosifs",
     "added_at": "2025-10-31T05:14:18.517Z",
-    "removed_at": "2025-10-31T13:57:50.958Z",
-    "duration_minutes": 524,
-    "duration_str": "8h 44m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "culture:::Isaline Prévost Radeff, la joie d’oser",
@@ -57,8 +56,9 @@
   {
     "title": "suisse:::Autour du futur Bioparc genevois, un mystère à 200 millions de francs et des critiques sur un projet aux dimensions pharaoniques",
     "added_at": "2025-10-31T07:08:04.545Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-31T15:33:24.602Z",
+    "duration_minutes": 505,
+    "duration_str": "8h 25m"
   },
   {
     "title": "sport:::Dans le hockey suisse, l’équilibre des forces crée le déséquilibre des scores",
@@ -70,31 +70,34 @@
   {
     "title": "economie:::Face au changement climatique, la Suisse doit élargir la mission de ses barrages",
     "added_at": "2025-10-31T10:01:23.742Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-31T16:23:23.916Z",
+    "duration_minutes": 382,
+    "duration_str": "6h 22m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Malgré le fragile cessez-le-feu, Israël et le Hamas se sont échangés des dépouilles",
-    "added_at": "2025-10-31T10:10:30.362Z",
-    "removed_at": "2025-10-31T10:12:43.667Z",
+    "added_at": "2025-10-31T10:09:26.220Z",
+    "removed_at": "2025-10-31T10:11:20.297Z",
     "duration_minutes": 2,
     "duration_str": "2m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Malgré le fragile cessez-le-feu, les échanges de corps entre Israël et le Hamas se poursuivent",
-    "added_at": "2025-10-31T10:12:43.667Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-10-31T10:11:20.297Z",
+    "removed_at": "2025-10-31T14:00:18.832Z",
+    "duration_minutes": 229,
+    "duration_str": "3h 49m"
   },
   {
     "title": "culture:::Quatre films à découvrir en avant-première au GIFF",
     "added_at": "2025-10-31T10:37:43.651Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-31T15:17:28.647Z",
+    "duration_minutes": 280,
+    "duration_str": "4h 40m"
   },
   {
     "title": "sciences:::La première centrale solaire de Suisse a commencé à produire de l’énergie dans les Grisons",
-    "added_at": "2025-10-31T11:32:28.782Z",
+    "added_at": "2025-10-31T11:30:45.541Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -113,8 +116,9 @@
   {
     "title": "culture:::Spectacle phénomène du Théâtre Am Stram Gram, «Actapalabra» tourne en Europe et s’en va au Canada",
     "added_at": "2025-10-31T13:03:24.958Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-10-31T16:21:10.541Z",
+    "duration_minutes": 198,
+    "duration_str": "3h 18m"
   },
   {
     "title": "monde:::Ce que la réduction de la présence militaire américaine en Europe signifie",
@@ -125,6 +129,49 @@
   {
     "title": "monde:::Elections aux Pays-Bas: le leader centriste Rob Jetten annoncé vainqueur, que va-t-il se passer maintenant?",
     "added_at": "2025-10-31T13:57:50.958Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – En Israël, le débat fait rage sur le traitement des prisonniers palestiniens",
+    "added_at": "2025-10-31T14:00:18.832Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Lausanne débloque des millions pour ses commerçants, mais les fâche en ignorant l'insécurité",
+    "added_at": "2025-10-31T15:17:28.647Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "sciences:::Christophe Salomon, physicien: «Les atomes sont universels, cela nous garantit des horloges atomiques qui fonctionnent toutes à l’identique»",
+    "added_at": "2025-10-31T15:33:24.602Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Suspendu, le municipal de Prilly Ihsan Kurt ne se représentera pas en 2026",
+    "added_at": "2025-10-31T15:33:24.602Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "culture:::Le Jukebox d’octobre 2025 (Silance)",
+    "added_at": "2025-10-31T16:21:10.541Z",
+    "removed_at": "2025-10-31T16:25:40.826Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "suisse:::Mesures d’économie: les fonctions publiques vaudoise et genevoise annoncent des grèves en novembre",
+    "added_at": "2025-10-31T16:23:23.916Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "culture:::Le Jukebox d’octobre 2025",
+    "added_at": "2025-10-31T16:25:40.826Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
