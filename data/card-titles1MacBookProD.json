@@ -33833,7 +33833,10 @@
   },
   {
     "title": "Donald Trump annonce qu'un accord commercial a été conclu avec la Corée du Sud",
-    "added_at": "2025-10-29T11:04:28.727Z"
+    "added_at": "2025-10-29T11:04:28.727Z",
+    "removed_at": "2025-10-31T03:43:23.327Z",
+    "duration_minutes": 2438,
+    "duration_str": "1d 16h 38m"
   },
   {
     "title": "UBS fera recours dans l'affaire de la dépréciation des obligations de Credit Suisse",
@@ -34272,9 +34275,9 @@
   {
     "title": "Xi Jinping et Donald Trump se rencontrent pour la première fois depuis six ans en Corée du Sud",
     "added_at": "2025-10-30T17:02:22.470Z",
-    "removed_at": "2025-10-30T23:15:21.311Z",
-    "duration_minutes": 372,
-    "duration_str": "6h 12m"
+    "removed_at": "2025-10-31T02:46:38.429Z",
+    "duration_minutes": 584,
+    "duration_str": "9h 44m"
   },
   {
     "title": "Comédie de Genève: les chiffres de la conseillère administrative Joëlle Bertossa sont-ils exacts?",
@@ -34348,5 +34351,9 @@
   {
     "title": "Les syndicats vaudois appellent à la grève le 18 novembre contre les coupes budgétaires",
     "added_at": "2025-10-30T22:25:10.827Z"
+  },
+  {
+    "title": "Donald Trump défend sa décision de relancer les essais d'armes nucléaires aux Etats-Unis",
+    "added_at": "2025-10-31T03:43:23.327Z"
   }
 ]
