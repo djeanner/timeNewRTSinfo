@@ -59367,7 +59367,10 @@
   },
   {
     "title": "Trois morts et des coupures d'électricité en Ukraine à la suite de frappes russes",
-    "added_at": "2025-10-30T12:02:33.350Z"
+    "added_at": "2025-10-30T12:02:33.350Z",
+    "removed_at": "2025-10-31T21:30:31.457Z",
+    "duration_minutes": 2007,
+    "duration_str": "1d 9h 27m"
   },
   {
     "title": "Comment marchent les tests ADN ?",
@@ -59753,5 +59756,9 @@
   {
     "title": "La venue de la cantatrice russe Anna Netrebko à Zurich suscite la colère de l’Ukraine",
     "added_at": "2025-10-31T19:59:39.487Z"
+  },
+  {
+    "title": "Le GIFF s'est ouvert à Genève en présence d'Elisabeth Baume-Schneider",
+    "added_at": "2025-10-31T21:30:31.457Z"
   }
 ]
