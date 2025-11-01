@@ -43247,7 +43247,10 @@
   },
   {
     "title": "economie:::Des agriculteurs aux boulangers, la baisse du prix du pain fait monter la pression",
-    "added_at": "2025-10-21T16:56:46.471Z"
+    "added_at": "2025-10-21T16:56:46.471Z",
+    "removed_at": "2025-11-01T07:12:55.418Z",
+    "duration_minutes": 15256,
+    "duration_str": "10d 14h 16m"
   },
   {
     "title": "economie:::Charles-Albert Dubois, directeur général d’Aimé Pouly: «Un pain à 99 centimes, c’est un symbole de crise, pas de progrès»",
@@ -43871,7 +43874,10 @@
   },
   {
     "title": "suisse:::Des consommateurs «exploités»: une étude dénonce des marges exagérées sur les produits biologiques",
-    "added_at": "2025-10-23T17:58:24.537Z"
+    "added_at": "2025-10-23T17:58:24.537Z",
+    "removed_at": "2025-11-01T07:12:55.418Z",
+    "duration_minutes": 12314,
+    "duration_str": "8d 13h 14m"
   },
   {
     "title": "sport:::Avec le Tour de France féminin, la Suisse veut «donner un coup de pédalier vers l’égalité entre les femmes et les hommes»",
@@ -45817,7 +45823,10 @@
   },
   {
     "title": "sciences:::Christophe Salomon, physicien: «Les atomes sont universels, cela nous garantit des horloges atomiques qui fonctionnent toutes à l’identique»",
-    "added_at": "2025-10-31T15:33:02.620Z"
+    "added_at": "2025-10-31T15:33:02.620Z",
+    "removed_at": "2025-11-01T08:43:34.629Z",
+    "duration_minutes": 1030,
+    "duration_str": "17h 10m"
   },
   {
     "title": "suisse:::Suspendu, le municipal de Prilly Ihsan Kurt ne se représentera pas en 2026",
@@ -45882,11 +45891,17 @@
   },
   {
     "title": "economie:::L’infection «très dynamique» de grippe aviaire en Allemagne tourne parfois au «cauchemar»",
-    "added_at": "2025-10-31T18:11:50.824Z"
+    "added_at": "2025-10-31T18:11:50.824Z",
+    "removed_at": "2025-11-01T08:58:39.402Z",
+    "duration_minutes": 886,
+    "duration_str": "14h 46m"
   },
   {
     "title": "economie:::Philipp Wyss, patron de Coop: «Nous avons profité de la restructuration de notre principal concurrent»",
-    "added_at": "2025-10-31T19:12:30.140Z"
+    "added_at": "2025-10-31T19:12:30.140Z",
+    "removed_at": "2025-11-01T07:12:55.418Z",
+    "duration_minutes": 720,
+    "duration_str": "12h"
   },
   {
     "title": "monde:::Guerre en Ukraine − Un mémo intransigeant de Moscou a précipité l'annulation du sommet entre Donald Trump et Vladimir Poutine à Budapest",
@@ -45905,7 +45920,10 @@
   },
   {
     "title": "culture:::Quand Jérusalem était une ville où régnait la douceur de vivre",
-    "added_at": "2025-10-31T20:14:49.911Z"
+    "added_at": "2025-10-31T20:14:49.911Z",
+    "removed_at": "2025-11-01T07:50:40.551Z",
+    "duration_minutes": 695,
+    "duration_str": "11h 35m"
   },
   {
     "title": "monde:::Moyen-Orient – En Israël, le débat fait rage sur le traitement des prisonniers palestiniens",
@@ -45923,7 +45941,10 @@
   },
   {
     "title": "monde:::EN DIRECT Moyen-Orient – En Israël, le débat fait rage sur le traitement des prisonniers palestiniens",
-    "added_at": "2025-11-01T05:51:34.505Z"
+    "added_at": "2025-11-01T05:51:34.505Z",
+    "removed_at": "2025-11-01T08:30:19.387Z",
+    "duration_minutes": 158,
+    "duration_str": "2h 38m"
   },
   {
     "title": "monde:::EN DIRECT Guerre en Ukraine − Un mémo intransigeant de Moscou a précipité l'annulation du sommet entre Donald Trump et Vladimir Poutine à Budapest",
@@ -45932,5 +45953,28 @@
   {
     "title": "sport:::Le sourire de Pia",
     "added_at": "2025-11-01T06:10:29.512Z"
+  },
+  {
+    "title": "culture:::Yanick Lahens: «Je cherche à rendre audible la voix des femmes»",
+    "added_at": "2025-11-01T07:12:55.418Z"
+  },
+  {
+    "title": "monde:::En Tanzanie, la présidente sortante est élue après trois jours de violence",
+    "added_at": "2025-11-01T07:39:20.378Z"
+  },
+  {
+    "title": "culture:::Quand la douceur de vivre régnait à Jérusalem",
+    "added_at": "2025-11-01T07:50:40.551Z",
+    "removed_at": "2025-11-01T08:11:25.100Z",
+    "duration_minutes": 20,
+    "duration_str": "20m"
+  },
+  {
+    "title": "monde:::EN DIRECT Moyen-Orient – L'armée israélienne affirme que trois corps reçus vendredi de Gaza ne sont pas ceux d'otages",
+    "added_at": "2025-11-01T08:30:19.387Z"
+  },
+  {
+    "title": "culture:::«Culte – 2Be3», un boys band pour «rassembler tout le monde»",
+    "added_at": "2025-11-01T08:58:39.402Z"
   }
 ]
