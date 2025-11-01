@@ -58151,7 +58151,10 @@
   },
   {
     "title": "L'invitée de La Matinale (vidéo) - Lucie Leguay, nouvelle chef d’orchestre au Sinfonietta de Lausanne",
-    "added_at": "2025-10-27T11:22:57.085Z"
+    "added_at": "2025-10-27T11:22:57.085Z",
+    "removed_at": "2025-11-01T05:04:22.874Z",
+    "duration_minutes": 6821,
+    "duration_str": "4d 17h 41m"
   },
   {
     "title": "De moins en moins de personnes en Suisse utilisent les médias journalistiques pour s'informer",
@@ -59304,7 +59307,10 @@
   },
   {
     "title": "Le président américain ordonne le démarrage de tests d'armes nucléaires aux Etas-Unis",
-    "added_at": "2025-10-30T08:25:14.032Z"
+    "added_at": "2025-10-30T08:25:14.032Z",
+    "removed_at": "2025-11-01T06:02:53.985Z",
+    "duration_minutes": 2737,
+    "duration_str": "1d 21h 37m"
   },
   {
     "title": "L'extrême droite en tête des législatives néerlandaises, mais en perte de vitesse",
@@ -59395,7 +59401,10 @@
   },
   {
     "title": "Les cantons de Fribourg et Zurich refusent d'accueillir des enfants de Gaza",
-    "added_at": "2025-10-30T13:35:19.548Z"
+    "added_at": "2025-10-30T13:35:19.548Z",
+    "removed_at": "2025-11-01T06:34:57.782Z",
+    "duration_minutes": 2459,
+    "duration_str": "1d 16h 59m"
   },
   {
     "title": "Avec \"La secte\", Nicolas Feuz met le Temple Solaire à l'ordre du jour",
@@ -59757,10 +59766,7 @@
   },
   {
     "title": "Entretien avec Anaïs Grosset, chasseuse et fromagère",
-    "added_at": "2025-10-31T19:33:13.705Z",
-    "removed_at": "2025-10-31T19:36:59.520Z",
-    "duration_minutes": 3,
-    "duration_str": "3m"
+    "added_at": "2025-10-31T19:33:13.705Z"
   },
   {
     "title": "La venue de la cantatrice russe Anna Netrebko à Zurich suscite la colère de l’Ukraine",
@@ -59776,10 +59782,25 @@
   },
   {
     "title": "Trinité-et-Tobago en \"alerte générale\" suite à la crise avec le Venezuela",
-    "added_at": "2025-11-01T02:44:29.043Z"
+    "added_at": "2025-11-01T02:44:29.043Z",
+    "removed_at": "2025-11-01T06:31:11.698Z",
+    "duration_minutes": 226,
+    "duration_str": "3h 46m"
   },
   {
     "title": "Les vols suspendus pendant deux heures à l'aéroport de Berlin suite à une alerte aux drones",
     "added_at": "2025-11-01T04:24:34.946Z"
+  },
+  {
+    "title": "Le canton de Fribourg refuse d’accueillir des enfants gazaouis: débat entre Alizée Rey et Antoinette de Weck",
+    "added_at": "2025-11-01T06:02:53.985Z"
+  },
+  {
+    "title": "Crise USA-Venezuela: Trinité-et-Tobago place son armée \"en alerte générale\"",
+    "added_at": "2025-11-01T06:31:11.698Z"
+  },
+  {
+    "title": "Quelle race de vache sauvera les pâturages alpins en déclin?",
+    "added_at": "2025-11-01T06:34:57.782Z"
   }
 ]
