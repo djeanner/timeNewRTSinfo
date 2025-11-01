@@ -65,9 +65,9 @@
   {
     "title": "suisse:::«Développer l’e-voting fait partie du métier historique de La Poste»",
     "added_at": "2025-11-01T09:15:44.996Z",
-    "removed_at": "2025-11-01T14:43:32.397Z",
-    "duration_minutes": 328,
-    "duration_str": "5h 28m"
+    "removed_at": "2025-11-01T14:43:04.851Z",
+    "duration_minutes": 327,
+    "duration_str": "5h 27m"
   },
   {
     "title": "sport:::Quelle place pour l’e-sport dans l’écosystème sportif?",
@@ -85,8 +85,9 @@
   {
     "title": "culture:::A Genève, le symbolisme futuriste de «Pelléas et Mélisande» sublimé par la musique",
     "added_at": "2025-11-01T11:02:49.269Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-01T18:22:44.021Z",
+    "duration_minutes": 440,
+    "duration_str": "7h 20m"
   },
   {
     "title": "economie:::Qui sont les 5 candidats pressentis pour diriger la Réserve fédérale après Jerome Powell?",
@@ -97,20 +98,23 @@
   {
     "title": "monde:::En direct, Moyen-Orient – L'armée israélienne affirme que trois corps reçus vendredi de Gaza ne sont pas ceux d'otages",
     "added_at": "2025-11-01T12:34:20.196Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-01T20:00:31.877Z",
+    "duration_minutes": 446,
+    "duration_str": "7h 26m"
   },
   {
     "title": "monde:::En direct, Guerre en Ukraine − Un mémo intransigeant de Moscou a précipité l'annulation du sommet entre Donald Trump et Vladimir Poutine à Budapest",
     "added_at": "2025-11-01T12:35:56.017Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-01T20:11:52.350Z",
+    "duration_minutes": 456,
+    "duration_str": "7h 36m"
   },
   {
     "title": "suisse:::Un employé d’une crèche bernoise inculpé pour 50 agressions",
     "added_at": "2025-11-01T12:47:36.523Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-01T18:20:25.755Z",
+    "duration_minutes": 333,
+    "duration_str": "5h 33m"
   },
   {
     "title": "monde:::Le Grand musée égyptien est inauguré avec faste ce soir à côté des pyramides de Guizeh",
@@ -122,22 +126,23 @@
   {
     "title": "sport:::Pour son «roi» Marc Lüthi, le CP Berne «ressemble un peu au Titanic en ce moment»",
     "added_at": "2025-11-01T13:53:31.517Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-01T19:28:42.767Z",
+    "duration_minutes": 335,
+    "duration_str": "5h 35m"
   },
   {
     "title": "culture:::«Le Chapeau maudit»de Lewis Trondheim ou quand Lapinot sort du bois",
     "added_at": "2025-11-01T14:36:42.705Z",
-    "removed_at": "2025-11-01T15:10:49.242Z",
-    "duration_minutes": 34,
-    "duration_str": "34m"
+    "removed_at": "2025-11-01T15:09:35.678Z",
+    "duration_minutes": 33,
+    "duration_str": "33m"
   },
   {
     "title": "culture:::Yves Debraine, donner une image à des gens de mots",
-    "added_at": "2025-11-01T15:10:49.242Z",
+    "added_at": "2025-11-01T15:09:35.678Z",
     "removed_at": "2025-11-01T16:40:13.911Z",
-    "duration_minutes": 89,
-    "duration_str": "1h 29m"
+    "duration_minutes": 91,
+    "duration_str": "1h 31m"
   },
   {
     "title": "economie:::À Genève, les défis de Litasco, un négociant sous sanction",
@@ -156,6 +161,49 @@
   {
     "title": "economie:::A Genève, les défis de Litasco, un négociant sous sanctions",
     "added_at": "2025-11-01T17:34:40.317Z",
+    "removed_at": "2025-11-01T19:49:06.986Z",
+    "duration_minutes": 134,
+    "duration_str": "2h 14m"
+  },
+  {
+    "title": "cyber:::Une intimité artificielle en plein essor: quand les agents conversationnels deviennent des psys et des confidents",
+    "added_at": "2025-11-01T18:09:05.154Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "culture:::Rokia Traoré, le retour d’une mère Courage",
+    "added_at": "2025-11-01T18:20:25.755Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "culture:::Patrick Norguet, designer industriel: «Mon métier ne se résume pas à envoyer un dessin à une marque»",
+    "added_at": "2025-11-01T18:22:44.021Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::La désalpe, une tradition qui atteint des sommets populaires",
+    "added_at": "2025-11-01T19:28:42.767Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::A Genève, le crépuscule de Litasco, un négociant sous sanctions",
+    "added_at": "2025-11-01T19:49:06.986Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "culture:::En 2025, doit-on s’appeler Rosalia pour rendre un orchestre symphonique sexy?",
+    "added_at": "2025-11-01T19:53:42.657Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Moyen-Orient – L'armée israélienne affirme que trois corps reçus vendredi de Gaza ne sont pas ceux d'otages",
+    "added_at": "2025-11-01T20:00:31.877Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
