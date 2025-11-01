@@ -33077,7 +33077,10 @@
   },
   {
     "title": "L'invitée de La Matinale (vidéo) - Lucie Leguay, nouvelle chef d’orchestre au Sinfonietta de Lausanne",
-    "added_at": "2025-10-27T11:23:35.523Z"
+    "added_at": "2025-10-27T11:23:35.523Z",
+    "removed_at": "2025-11-01T05:03:23.200Z",
+    "duration_minutes": 6819,
+    "duration_str": "4d 17h 39m"
   },
   {
     "title": "De moins en moins de personnes en Suisse utilisent les médias journalistiques pour s'informer",
@@ -34307,11 +34310,17 @@
   },
   {
     "title": "Les salaires ont augmenté en moyenne de 1,2% pour l'année 2025",
-    "added_at": "2025-10-30T13:29:25.235Z"
+    "added_at": "2025-10-30T13:29:25.235Z",
+    "removed_at": "2025-11-01T02:44:51.397Z",
+    "duration_minutes": 2235,
+    "duration_str": "1d 13h 15m"
   },
   {
     "title": "Avec \"La secte\", Nicolas Feuz met le Temple Solaire à l'ordre du jour",
-    "added_at": "2025-10-30T13:41:59.438Z"
+    "added_at": "2025-10-30T13:41:59.438Z",
+    "removed_at": "2025-11-01T04:24:43.444Z",
+    "duration_minutes": 2322,
+    "duration_str": "1d 14h 42m"
   },
   {
     "title": "Les cantons de Fribourg et Zurich refusent d'accueillir des enfants de Gaza",
@@ -34670,10 +34679,7 @@
   },
   {
     "title": "Entretien avec Anaïs Grosset, chasseuse et fromagère",
-    "added_at": "2025-10-31T19:34:38.900Z",
-    "removed_at": "2025-10-31T19:36:52.018Z",
-    "duration_minutes": 2,
-    "duration_str": "2m"
+    "added_at": "2025-10-31T19:34:38.900Z"
   },
   {
     "title": "La venue de la cantatrice russe Anna Netrebko à Zurich suscite la colère de l’Ukraine",
@@ -34686,5 +34692,13 @@
   {
     "title": "Pressé par la justice, Donald Trump se dit prêt à financer l'aide alimentaire américaine",
     "added_at": "2025-11-01T01:29:40.995Z"
+  },
+  {
+    "title": "Trinité-et-Tobago en \"alerte générale\" suite à la crise avec le Venezuela",
+    "added_at": "2025-11-01T02:44:51.397Z"
+  },
+  {
+    "title": "Les vols suspendus pendant deux heures à l'aéroport de Berlin suite à une alerte aux drones",
+    "added_at": "2025-11-01T04:24:43.444Z"
   }
 ]
