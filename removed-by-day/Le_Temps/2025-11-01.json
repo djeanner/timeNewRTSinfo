@@ -9,15 +9,16 @@
   {
     "title": "monde:::EN DIRECT Moyen-Orient – En Israël, le débat fait rage sur le traitement des prisonniers palestiniens",
     "added_at": "2025-11-01T05:51:16.855Z",
-    "removed_at": "2025-11-01T08:30:22.062Z",
+    "removed_at": "2025-11-01T08:30:19.387Z",
     "duration_minutes": 159,
     "duration_str": "2h 39m"
   },
   {
     "title": "monde:::EN DIRECT Guerre en Ukraine − Un mémo intransigeant de Moscou a précipité l'annulation du sommet entre Donald Trump et Vladimir Poutine à Budapest",
     "added_at": "2025-11-01T05:59:10.282Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-01T12:35:56.017Z",
+    "duration_minutes": 397,
+    "duration_str": "6h 37m"
   },
   {
     "title": "sport:::Le sourire de Pia",
@@ -40,23 +41,24 @@
   },
   {
     "title": "culture:::Quand la douceur de vivre régnait à Jérusalem",
-    "added_at": "2025-11-01T07:51:40.955Z",
-    "removed_at": "2025-11-01T08:12:07.126Z",
-    "duration_minutes": 20,
-    "duration_str": "20m"
+    "added_at": "2025-11-01T07:50:40.551Z",
+    "removed_at": "2025-11-01T08:11:25.100Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
   },
   {
     "title": "monde:::EN DIRECT Moyen-Orient – L'armée israélienne affirme que trois corps reçus vendredi de Gaza ne sont pas ceux d'otages",
-    "added_at": "2025-11-01T08:30:22.062Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-11-01T08:30:19.387Z",
+    "removed_at": "2025-11-01T12:35:56.017Z",
+    "duration_minutes": 246,
+    "duration_str": "4h 6m"
   },
   {
     "title": "culture:::«Culte – 2Be3», un boys band pour «rassembler tout le monde»",
-    "added_at": "2025-11-01T08:59:47.842Z",
+    "added_at": "2025-11-01T08:58:39.402Z",
     "removed_at": "2025-11-01T10:03:31.637Z",
-    "duration_minutes": 64,
-    "duration_str": "1h 4m"
+    "duration_minutes": 65,
+    "duration_str": "1h 5m"
   },
   {
     "title": "suisse:::«Développer l’e-voting fait partie du métier historique de La Poste»",
@@ -68,12 +70,45 @@
   {
     "title": "sport:::Quelle place pour l’e-sport dans l’écosystème sportif?",
     "added_at": "2025-11-01T10:03:31.637Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-01T11:00:30.236Z",
+    "duration_minutes": 57,
+    "duration_str": "57m"
   },
   {
     "title": "culture:::A Genève, Debussy et le symbolisme futuriste de «Pelléas et Mélisande» sublimé par la musique",
     "added_at": "2025-11-01T10:10:21.258Z",
+    "removed_at": "2025-11-01T11:02:49.269Z",
+    "duration_minutes": 52,
+    "duration_str": "52m"
+  },
+  {
+    "title": "culture:::A Genève, le symbolisme futuriste de «Pelléas et Mélisande» sublimé par la musique",
+    "added_at": "2025-11-01T11:02:49.269Z",
+    "removed_at": "2025-11-01T11:34:38.977Z",
+    "duration_minutes": 32,
+    "duration_str": "32m"
+  },
+  {
+    "title": "economie:::Qui sont les 5 candidats pressentis pour diriger la Réserve fédérale après Jerome Powell?",
+    "added_at": "2025-11-01T11:34:38.977Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L'armée israélienne affirme que trois corps reçus vendredi de Gaza ne sont pas ceux d'otages",
+    "added_at": "2025-11-01T12:35:56.017Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, Guerre en Ukraine − Un mémo intransigeant de Moscou a précipité l'annulation du sommet entre Donald Trump et Vladimir Poutine à Budapest",
+    "added_at": "2025-11-01T12:35:56.017Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Un employé d’une crèche bernoise inculpé pour 50 agressions",
+    "added_at": "2025-11-01T12:49:34.225Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
