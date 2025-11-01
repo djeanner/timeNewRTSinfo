@@ -59388,7 +59388,10 @@
   },
   {
     "title": "Les salaires ont augmenté en moyenne de 1,2% pour l'année 2025",
-    "added_at": "2025-10-30T13:29:39.013Z"
+    "added_at": "2025-10-30T13:29:39.013Z",
+    "removed_at": "2025-11-01T02:44:29.043Z",
+    "duration_minutes": 2234,
+    "duration_str": "1d 13h 14m"
   },
   {
     "title": "Les cantons de Fribourg et Zurich refusent d'accueillir des enfants de Gaza",
@@ -59396,7 +59399,10 @@
   },
   {
     "title": "Avec \"La secte\", Nicolas Feuz met le Temple Solaire à l'ordre du jour",
-    "added_at": "2025-10-30T13:39:03.707Z"
+    "added_at": "2025-10-30T13:39:03.707Z",
+    "removed_at": "2025-11-01T04:24:34.946Z",
+    "duration_minutes": 2325,
+    "duration_str": "1d 14h 45m"
   },
   {
     "title": "Avec des finances stabilisées, les Transports publics neuchâtelois évitent la recapitalisation",
@@ -59767,5 +59773,13 @@
   {
     "title": "Pressé par la justice, Donald Trump se dit prêt à financer l'aide alimentaire américaine",
     "added_at": "2025-11-01T01:28:44.010Z"
+  },
+  {
+    "title": "Trinité-et-Tobago en \"alerte générale\" suite à la crise avec le Venezuela",
+    "added_at": "2025-11-01T02:44:29.043Z"
+  },
+  {
+    "title": "Les vols suspendus pendant deux heures à l'aéroport de Berlin suite à une alerte aux drones",
+    "added_at": "2025-11-01T04:24:34.946Z"
   }
 ]
