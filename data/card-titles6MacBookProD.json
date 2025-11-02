@@ -55237,7 +55237,10 @@
   },
   {
     "title": "At least 23 killed in supermarket blast in Mexico’s Sonora state",
-    "added_at": "2025-11-02T08:02:09.064Z"
+    "added_at": "2025-11-02T08:02:09.064Z",
+    "removed_at": "2025-11-02T21:56:38.308Z",
+    "duration_minutes": 834,
+    "duration_str": "13h 54m"
   },
   {
     "title": "Ukraine says 9 people, including children, killed in Russian attacks",
@@ -55253,9 +55256,9 @@
   {
     "title": "Trump to host Syria’s al-Sharaa for talks at White House in November",
     "added_at": "2025-11-02T12:01:29.623Z",
-    "removed_at": "2025-11-02T19:19:23.119Z",
-    "duration_minutes": 437,
-    "duration_str": "7h 17m"
+    "removed_at": "2025-11-02T21:04:19.916Z",
+    "duration_minutes": 542,
+    "duration_str": "9h 2m"
   },
   {
     "title": "People return to concrete wasteland as Israel blocks Gaza rebuilding effort",
@@ -55280,7 +55283,10 @@
   },
   {
     "title": "LIVE: Barcelona vs Elche – La Liga",
-    "added_at": "2025-11-02T14:34:37.467Z"
+    "added_at": "2025-11-02T14:34:37.467Z",
+    "removed_at": "2025-11-02T19:42:23.646Z",
+    "duration_minutes": 307,
+    "duration_str": "5h 7m"
   },
   {
     "title": "UK police say train stabbing attack not ‘terrorism’, two suspects arrested",
@@ -55329,10 +55335,32 @@
   },
   {
     "title": "LIVE: India beat South Africa to win Women’s World Cup final – reaction",
-    "added_at": "2025-11-02T19:03:25.219Z"
+    "added_at": "2025-11-02T19:03:25.219Z",
+    "removed_at": "2025-11-02T19:56:04.119Z",
+    "duration_minutes": 52,
+    "duration_str": "52m"
   },
   {
     "title": "Drinking water in Tehran could run dry in two weeks, Iranian official says",
     "added_at": "2025-11-02T19:19:23.119Z"
+  },
+  {
+    "title": "Barcelona get back to winning ways with 3-1 victory over Elche",
+    "added_at": "2025-11-02T19:42:23.646Z",
+    "removed_at": "2025-11-02T20:09:43.528Z",
+    "duration_minutes": 27,
+    "duration_str": "27m"
+  },
+  {
+    "title": "Barcelona beat Elche 3-1 to stay in touch with La Liga leaders Real Madrid",
+    "added_at": "2025-11-02T20:09:43.528Z"
+  },
+  {
+    "title": "Trump says Xi assured him China won’t take action on Taiwan",
+    "added_at": "2025-11-02T21:04:19.916Z"
+  },
+  {
+    "title": "Palestinians face hunger, cold and loss amid ongoing Israeli siege on Gaza",
+    "added_at": "2025-11-02T21:56:38.308Z"
   }
 ]

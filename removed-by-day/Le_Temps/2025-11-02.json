@@ -71,7 +71,7 @@
   {
     "title": "economie:::Faste et failles chez Globus: «Combien de fois l’entreprise a réalisé des bénéfices au cours des 25 dernières années? Zéro»",
     "added_at": "2025-11-02T10:38:38.494Z",
-    "removed_at": "2025-11-02T17:52:50.760Z",
+    "removed_at": "2025-11-02T17:52:43.915Z",
     "duration_minutes": 434,
     "duration_str": "7h 14m"
   },
@@ -97,9 +97,9 @@
   {
     "title": "culture:::Angélica Liddell, artiste phénoménale à Lausanne et à Genève: «J’ai passé un pacte avec le diable pour écrire»",
     "added_at": "2025-11-02T12:44:42.866Z",
-    "removed_at": "2025-11-02T16:58:13.050Z",
-    "duration_minutes": 254,
-    "duration_str": "4h 14m"
+    "removed_at": "2025-11-02T16:57:51.806Z",
+    "duration_minutes": 253,
+    "duration_str": "4h 13m"
   },
   {
     "title": "suisse:::Face à la réglementation sur l’exportation d’armes, une entreprise de munitions suisse délocalise une partie de sa production en Hongrie",
@@ -117,15 +117,16 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Israël menace d’intensifier les attaques contre le Hezbollah dans le sud du Liban",
     "added_at": "2025-11-02T14:20:43.418Z",
-    "removed_at": "2025-11-02T16:53:39.883Z",
-    "duration_minutes": 153,
-    "duration_str": "2h 33m"
+    "removed_at": "2025-11-02T16:52:11.578Z",
+    "duration_minutes": 151,
+    "duration_str": "2h 31m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Six personnes ont été tuées dans des tirs de missiles et de drones russes",
     "added_at": "2025-11-02T14:20:43.418Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-02T20:18:45.448Z",
+    "duration_minutes": 358,
+    "duration_str": "5h 58m"
   },
   {
     "title": "culture:::Le comédien genevois Antoine Maulini est décédé",
@@ -136,7 +137,7 @@
   {
     "title": "sport:::Etonnant et détonnant, le FC Thoune continue de dominer le championnat de Suisse de football",
     "added_at": "2025-11-02T14:39:40.683Z",
-    "removed_at": "2025-11-02T16:26:08.268Z",
+    "removed_at": "2025-11-02T16:25:41.395Z",
     "duration_minutes": 106,
     "duration_str": "1h 46m"
   },
@@ -154,19 +155,20 @@
   },
   {
     "title": "sport:::Etonnant et détonnant, le FC Thoune continue de dominer le Championnat de Suisse de football",
-    "added_at": "2025-11-02T16:26:08.268Z",
+    "added_at": "2025-11-02T16:25:41.395Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Hamas annonce qu'il va rendre les corps de trois otages israéliens ce dimanche soir",
-    "added_at": "2025-11-02T16:53:39.883Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-11-02T16:52:11.578Z",
+    "removed_at": "2025-11-02T20:02:53.719Z",
+    "duration_minutes": 191,
+    "duration_str": "3h 11m"
   },
   {
     "title": "cyber:::David Colon, historien: «La Suisse montre la voie avec Proton et le modèle de langage Apertus»",
-    "added_at": "2025-11-02T17:52:50.760Z",
+    "added_at": "2025-11-02T17:52:43.915Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -175,5 +177,31 @@
     "added_at": "2025-11-02T18:45:12.793Z",
     "duration_minutes": 0,
     "duration_str": ""
+  },
+  {
+    "title": "monde:::Moyen-Orient – Israël dit avoir reçu les dépouilles de trois otages de Gaza",
+    "added_at": "2025-11-02T20:02:53.719Z",
+    "removed_at": "2025-11-02T20:11:55.931Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Notre suivi de la semaine du 27 octobre",
+    "added_at": "2025-11-02T20:11:55.931Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Guerre en Ukraine − Notre suivi de la semaine du 27 octobre",
+    "added_at": "2025-11-02T20:18:45.448Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::Genève reste la ville la plus chère du monde pour les expatriés. Oui mais…",
+    "added_at": "2025-11-02T20:59:46.518Z",
+    "removed_at": "2025-11-02T21:08:49.514Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
   }
 ]

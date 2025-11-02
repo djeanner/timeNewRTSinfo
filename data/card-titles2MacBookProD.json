@@ -46295,7 +46295,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Six personnes ont été tuées dans des tirs de missiles et de drones russes",
-    "added_at": "2025-11-02T14:20:56.844Z"
+    "added_at": "2025-11-02T14:20:56.844Z",
+    "removed_at": "2025-11-02T20:18:45.448Z",
+    "duration_minutes": 357,
+    "duration_str": "5h 57m"
   },
   {
     "title": "culture:::Le comédien genevois Antoine Maulini est décédé",
@@ -46322,7 +46325,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Hamas annonce qu'il va rendre les corps de trois otages israéliens ce dimanche soir",
-    "added_at": "2025-11-02T16:53:39.883Z"
+    "added_at": "2025-11-02T16:53:39.883Z",
+    "removed_at": "2025-11-02T20:02:53.719Z",
+    "duration_minutes": 189,
+    "duration_str": "3h 9m"
   },
   {
     "title": "cyber:::David Colon, historien: «La Suisse montre la voie avec Proton et le modèle de langage Apertus»",
@@ -46331,5 +46337,27 @@
   {
     "title": "economie:::S’incliner sans se soumettre",
     "added_at": "2025-11-02T18:45:12.793Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Israël dit avoir reçu les dépouilles de trois otages de Gaza",
+    "added_at": "2025-11-02T20:02:53.719Z",
+    "removed_at": "2025-11-02T20:11:55.931Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Notre suivi de la semaine du 27 octobre",
+    "added_at": "2025-11-02T20:11:55.931Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine − Notre suivi de la semaine du 27 octobre",
+    "added_at": "2025-11-02T20:18:45.448Z"
+  },
+  {
+    "title": "economie:::Genève reste la ville la plus chère du monde pour les expatriés. Oui mais…",
+    "added_at": "2025-11-02T20:59:46.518Z",
+    "removed_at": "2025-11-02T21:08:49.514Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
   }
 ]
