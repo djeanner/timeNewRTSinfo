@@ -59708,7 +59708,10 @@
   },
   {
     "title": "\"Halloween\", généalogie d'une saga immortelle",
-    "added_at": "2025-10-31T08:34:44.193Z"
+    "added_at": "2025-10-31T08:34:44.193Z",
+    "removed_at": "2025-11-02T04:37:40.024Z",
+    "duration_minutes": 2642,
+    "duration_str": "1d 20h 2m"
   },
   {
     "title": "Le Grand Conseil genevois vote pour l'exemption des jobs d'été du salaire minimum",
@@ -60059,9 +60062,9 @@
   {
     "title": "L’invitée du 12h30 - Anaïs Emery présente la 31ème édition du Geneva International Film Festival (GIFF)",
     "added_at": "2025-11-01T17:04:14.417Z",
-    "removed_at": "2025-11-01T23:18:11.546Z",
-    "duration_minutes": 373,
-    "duration_str": "6h 13m"
+    "removed_at": "2025-11-02T06:19:35.879Z",
+    "duration_minutes": 795,
+    "duration_str": "13h 15m"
   },
   {
     "title": "Progrès médical: peut-être la fin de l'épidémie d'Ebola",
@@ -60123,10 +60126,28 @@
   },
   {
     "title": "Attaque à l'arme blanche dans un train en Angleterre: un \"incident majeur\" selon la police",
-    "added_at": "2025-11-02T01:28:33.976Z"
+    "added_at": "2025-11-02T01:28:33.976Z",
+    "removed_at": "2025-11-02T06:27:06.401Z",
+    "duration_minutes": 298,
+    "duration_str": "4h 58m"
   },
   {
     "title": "La Jamaïque installe des hôpitaux de campagne après le passage de l'oragan Melissa",
-    "added_at": "2025-11-02T02:44:16.534Z"
+    "added_at": "2025-11-02T02:44:16.534Z",
+    "removed_at": "2025-11-02T06:32:46.295Z",
+    "duration_minutes": 228,
+    "duration_str": "3h 48m"
+  },
+  {
+    "title": "Barack Obama met en garde contre les dangers qui menaceraient la démocratie américaine",
+    "added_at": "2025-11-02T04:37:40.024Z"
+  },
+  {
+    "title": "Dix blessés dont neuf graves dans une attaque à l'arme blanche dans un train en Angleterre",
+    "added_at": "2025-11-02T06:27:06.401Z"
+  },
+  {
+    "title": "La Jamaïque installe des hôpitaux de campagne après le passage de l'ouragan Melissa",
+    "added_at": "2025-11-02T06:32:46.295Z"
   }
 ]
