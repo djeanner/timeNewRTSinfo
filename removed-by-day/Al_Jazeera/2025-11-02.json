@@ -14,8 +14,9 @@
   {
     "title": "Landslides in Kenya’s Rift Valley leave 21 dead, 30 others missing",
     "added_at": "2025-11-02T02:40:27.555Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-02T11:36:17.119Z",
+    "duration_minutes": 536,
+    "duration_str": "8h 56m"
   },
   {
     "title": "Nashville top Messi’s Miami 2-1 to level MLS Cup playoff series",
@@ -53,8 +54,9 @@
   {
     "title": "Dodgers become first team to win back-to-back MLB World Series in 25 years",
     "added_at": "2025-11-02T04:47:04.993Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-02T11:22:37.123Z",
+    "duration_minutes": 396,
+    "duration_str": "6h 36m"
   },
   {
     "title": "Israeli air strike kills four in Lebanon, straining fragile ceasefire",
@@ -64,16 +66,17 @@
   },
   {
     "title": "Gaza ceasefire holds despite Israeli attacks and severe aid restrictions",
-    "added_at": "2025-11-02T06:37:51.821Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-11-02T06:36:45.938Z",
+    "removed_at": "2025-11-02T11:22:37.123Z",
+    "duration_minutes": 286,
+    "duration_str": "4h 46m"
   },
   {
     "title": "LIVE: India vs Australia – ICC Women’s World Cup final 2025",
     "added_at": "2025-11-02T06:51:41.908Z",
-    "removed_at": "2025-11-02T09:12:36.842Z",
-    "duration_minutes": 141,
-    "duration_str": "2h 21m"
+    "removed_at": "2025-11-02T07:12:33.735Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
   },
   {
     "title": "LIVE: India vs South Africa – ICC Women’s World Cup final 2025",
@@ -83,13 +86,25 @@
   },
   {
     "title": "Russia-Ukraine war: List of key events, day 1,347",
-    "added_at": "2025-11-02T07:30:19.976Z",
+    "added_at": "2025-11-02T07:29:33.383Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "At least 23 killed in supermarket blast in Mexico’s Sonora state",
     "added_at": "2025-11-02T08:02:09.064Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Ukraine says 9 people, including children, killed in Russian attacks",
+    "added_at": "2025-11-02T11:18:00.315Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Gaza people return to concrete wasteland as Israel blocks rebuilding effort",
+    "added_at": "2025-11-02T11:22:37.123Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
