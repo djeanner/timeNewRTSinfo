@@ -46220,7 +46220,10 @@
   },
   {
     "title": "economie:::Dans le cadre du fameux appel avec Donald Trump, une plainte contre Karin Keller-Sutter",
-    "added_at": "2025-11-02T10:34:54.502Z"
+    "added_at": "2025-11-02T10:34:54.502Z",
+    "removed_at": "2025-11-02T18:57:06.797Z",
+    "duration_minutes": 502,
+    "duration_str": "8h 22m"
   },
   {
     "title": "economie:::Faste et failles chez Globus: «Combien de fois l’entreprise a réalisé des bénéfices au cours des 25 dernières années? Zéro»",
@@ -46231,14 +46234,14 @@
   },
   {
     "title": "monde:::Une attaque à l’arme blanche dans un train en Angleterre fait dix blessés, dont neuf graves: un motif «terroriste» écarté",
-    "added_at": "2025-11-02T11:10:44.108Z",
-    "removed_at": "2025-11-02T13:42:33.704Z",
-    "duration_minutes": 151,
-    "duration_str": "2h 31m"
+    "added_at": "2025-11-02T11:10:44.108Z"
   },
   {
     "title": "culture:::Série: «Down Cemetery Road», Emma Thompson régale en détective coriace",
-    "added_at": "2025-11-02T12:13:21.872Z"
+    "added_at": "2025-11-02T12:13:21.872Z",
+    "removed_at": "2025-11-02T19:02:47.617Z",
+    "duration_minutes": 409,
+    "duration_str": "6h 49m"
   },
   {
     "title": "culture:::Au festival JazzOnze+ de Lausanne, Shai Maestro ou le piano des profondeurs",
@@ -46271,7 +46274,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Six personnes ont été tuées dans des tirs de missiles et de drones russes",
-    "added_at": "2025-11-02T14:20:43.418Z"
+    "added_at": "2025-11-02T14:20:43.418Z",
+    "removed_at": "2025-11-02T20:18:20.853Z",
+    "duration_minutes": 357,
+    "duration_str": "5h 57m"
   },
   {
     "title": "culture:::Le comédien genevois Antoine Maulini est décédé",
@@ -46298,10 +46304,32 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Hamas annonce qu'il va rendre les corps de trois otages israéliens ce dimanche soir",
-    "added_at": "2025-11-02T16:52:11.578Z"
+    "added_at": "2025-11-02T16:52:11.578Z",
+    "removed_at": "2025-11-02T20:03:18.153Z",
+    "duration_minutes": 191,
+    "duration_str": "3h 11m"
   },
   {
     "title": "cyber:::David Colon, historien: «La Suisse montre la voie avec Proton et le modèle de langage Apertus»",
     "added_at": "2025-11-02T17:52:43.915Z"
+  },
+  {
+    "title": "economie:::S’incliner sans se soumettre",
+    "added_at": "2025-11-02T18:45:46.299Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Israël dit avoir reçu les dépouilles de trois otages de Gaza",
+    "added_at": "2025-11-02T20:03:18.153Z",
+    "removed_at": "2025-11-02T20:12:42.274Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Notre suivi de la semaine du 27 octobre",
+    "added_at": "2025-11-02T20:12:42.274Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine − Notre suivi de la semaine du 27 octobre",
+    "added_at": "2025-11-02T20:18:20.853Z"
   }
 ]
