@@ -26417,7 +26417,10 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T21:30:25.517Z"
+    "added_at": "2025-07-25T21:30:25.517Z",
+    "removed_at": "2025-11-03T19:01:53.551Z",
+    "duration_minutes": 145291,
+    "duration_str": "100d 21h 31m"
   },
   {
     "title": "La légende du catch Hulk Hogan est décédée à l'âge de 71 ans",
@@ -58640,9 +58643,9 @@
   {
     "title": "Coûts de la santé: des mesures d'économies ont été proposées",
     "added_at": "2025-10-28T13:35:52.573Z",
-    "removed_at": "2025-11-03T00:01:42.759Z",
-    "duration_minutes": 7825,
-    "duration_str": "5d 10h 25m"
+    "removed_at": "2025-11-03T18:10:51.559Z",
+    "duration_minutes": 8914,
+    "duration_str": "6d 4h 34m"
   },
   {
     "title": "Onze chiots Saint-Bernard sont nés à la Fondation Barry à Martigny (VS)",
@@ -59599,7 +59602,10 @@
   },
   {
     "title": "Salomé Saqué : Comment se donner du courage ?",
-    "added_at": "2025-10-30T20:12:40.935Z"
+    "added_at": "2025-10-30T20:12:40.935Z",
+    "removed_at": "2025-11-03T19:01:53.551Z",
+    "duration_minutes": 5689,
+    "duration_str": "3d 22h 49m"
   },
   {
     "title": "Le conseiller d'Etat genevois Pierre Maudet participera à l’ultime rassemblement électoral de Martial Courtet  dans le Jura",
@@ -59950,10 +59956,7 @@
   },
   {
     "title": "Le grand frisson : la maison hantée de Corcelles-près-Payerne",
-    "added_at": "2025-10-31T19:02:50.498Z",
-    "removed_at": "2025-11-03T17:02:36.911Z",
-    "duration_minutes": 4199,
-    "duration_str": "2d 21h 59m"
+    "added_at": "2025-10-31T19:02:50.498Z"
   },
   {
     "title": "Une nouvelle génération de fromagères relance les laiteries villageoises",
@@ -60063,7 +60066,10 @@
   },
   {
     "title": "L'IA qui \"ressuscite\" les morts: entre réconfort et dérives éthiques",
-    "added_at": "2025-11-01T08:51:05.152Z"
+    "added_at": "2025-11-01T08:51:05.152Z",
+    "removed_at": "2025-11-03T19:43:24.056Z",
+    "duration_minutes": 3532,
+    "duration_str": "2d 10h 52m"
   },
   {
     "title": "L'humoriste Jérôme Commandeur réunit des quinquas déjantés dans \"T'as pas changé\"",
@@ -60169,7 +60175,10 @@
   },
   {
     "title": "Au Tessin, les crématoires attirent les défunts italiens avec des prix cassés",
-    "added_at": "2025-11-01T13:32:58.630Z"
+    "added_at": "2025-11-01T13:32:58.630Z",
+    "removed_at": "2025-11-03T18:27:52.077Z",
+    "duration_minutes": 3174,
+    "duration_str": "2d 4h 54m"
   },
   {
     "title": "Trump crucifié dans une exposition du centre-ville de Bâle",
@@ -60611,5 +60620,24 @@
   {
     "title": "Feu vert de l'Eglise réformée à une étude sur les abus sexuels",
     "added_at": "2025-11-03T17:02:36.911Z"
+  },
+  {
+    "title": "L'ASF et Pia Sundhage mettent fin à leur collaboration",
+    "added_at": "2025-11-03T18:27:52.077Z",
+    "removed_at": "2025-11-03T19:03:43.445Z",
+    "duration_minutes": 35,
+    "duration_str": "35m"
+  },
+  {
+    "title": "Un policier suspecté d’avoir détruit un radar routier par arme à feu au Tessin",
+    "added_at": "2025-11-03T19:01:53.551Z"
+  },
+  {
+    "title": "L'ASF ne poursuit pas l'aventure avec Pia Sundhage",
+    "added_at": "2025-11-03T19:03:43.445Z"
+  },
+  {
+    "title": "L'écho de la guerre de Sécession résonne comme un avertissement aux Etats-Unis",
+    "added_at": "2025-11-03T19:43:24.056Z"
   }
 ]
