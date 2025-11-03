@@ -46141,7 +46141,10 @@
   },
   {
     "title": "cyber:::Une intimité artificielle en plein essor: quand les agents conversationnels deviennent des psys et des confidents",
-    "added_at": "2025-11-01T18:09:05.154Z"
+    "added_at": "2025-11-01T18:09:05.154Z",
+    "removed_at": "2025-11-03T05:22:40.263Z",
+    "duration_minutes": 2113,
+    "duration_str": "1d 11h 13m"
   },
   {
     "title": "culture:::Rokia Traoré, le retour d’une mère Courage",
@@ -46255,7 +46258,10 @@
   },
   {
     "title": "monde:::Une attaque à l’arme blanche dans un train en Angleterre fait dix blessés, dont neuf graves: un motif «terroriste» écarté",
-    "added_at": "2025-11-02T11:11:08.859Z"
+    "added_at": "2025-11-02T11:11:08.859Z",
+    "removed_at": "2025-11-03T04:09:55.645Z",
+    "duration_minutes": 1018,
+    "duration_str": "16h 58m"
   },
   {
     "title": "culture:::Série: «Down Cemetery Road», Emma Thompson régale en détective coriace",
@@ -46321,7 +46327,10 @@
   },
   {
     "title": "sport:::Etonnant et détonnant, le FC Thoune continue de dominer le Championnat de Suisse de football",
-    "added_at": "2025-11-02T16:26:08.268Z"
+    "added_at": "2025-11-02T16:26:08.268Z",
+    "removed_at": "2025-11-03T04:37:12.967Z",
+    "duration_minutes": 731,
+    "duration_str": "12h 11m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Hamas annonce qu'il va rendre les corps de trois otages israéliens ce dimanche soir",
@@ -46347,11 +46356,17 @@
   },
   {
     "title": "monde:::Moyen-Orient – Notre suivi de la semaine du 27 octobre",
-    "added_at": "2025-11-02T20:11:55.931Z"
+    "added_at": "2025-11-02T20:11:55.931Z",
+    "removed_at": "2025-11-03T03:10:49.628Z",
+    "duration_minutes": 418,
+    "duration_str": "6h 58m"
   },
   {
     "title": "monde:::Guerre en Ukraine − Notre suivi de la semaine du 27 octobre",
-    "added_at": "2025-11-02T20:18:45.448Z"
+    "added_at": "2025-11-02T20:18:45.448Z",
+    "removed_at": "2025-11-03T03:10:49.628Z",
+    "duration_minutes": 412,
+    "duration_str": "6h 52m"
   },
   {
     "title": "economie:::Genève reste la ville la plus chère du monde pour les expatriés. Oui mais…",
@@ -46359,5 +46374,49 @@
     "removed_at": "2025-11-02T21:08:49.514Z",
     "duration_minutes": 9,
     "duration_str": "9m"
+  },
+  {
+    "title": "monde:::Moyen-Orient en direct – Israël dit avoir reçu les dépouilles de trois otages de Gaza",
+    "added_at": "2025-11-03T03:10:49.628Z",
+    "removed_at": "2025-11-03T04:37:12.967Z",
+    "duration_minutes": 86,
+    "duration_str": "1h 26m"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine en direct − Six morts dans des frappes russes, Kiev cible un port pétrolier",
+    "added_at": "2025-11-03T03:10:49.628Z",
+    "removed_at": "2025-11-03T04:34:55.719Z",
+    "duration_minutes": 84,
+    "duration_str": "1h 24m"
+  },
+  {
+    "title": "monde:::Pourquoi Donald Trump flirte avec l’idée d’un très inconstitutionnel troisième mandat",
+    "added_at": "2025-11-03T04:09:55.645Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine, en direct − Six morts dans des frappes russes, Kiev cible un port pétrolier",
+    "added_at": "2025-11-03T04:34:55.719Z",
+    "removed_at": "2025-11-03T05:06:44.248Z",
+    "duration_minutes": 31,
+    "duration_str": "31m"
+  },
+  {
+    "title": "monde:::Moyen-Orient, en direct – Israël a reçu les dépouilles de trois otages de Gaza",
+    "added_at": "2025-11-03T04:37:12.967Z",
+    "removed_at": "2025-11-03T05:06:44.248Z",
+    "duration_minutes": 29,
+    "duration_str": "29m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Israël a reçu les dépouilles de trois otages de Gaza",
+    "added_at": "2025-11-03T05:06:44.248Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Six morts dans des frappes russes, Kiev cible un port pétrolier",
+    "added_at": "2025-11-03T05:06:44.248Z"
+  },
+  {
+    "title": "economie:::L’effet Trump sur le déclin de l’empire américain",
+    "added_at": "2025-11-03T05:22:40.263Z"
   }
 ]
