@@ -46326,11 +46326,17 @@
   },
   {
     "title": "monde:::Moyen-Orient – Notre suivi de la semaine du 27 octobre",
-    "added_at": "2025-11-02T20:12:42.274Z"
+    "added_at": "2025-11-02T20:12:42.274Z",
+    "removed_at": "2025-11-03T03:08:50.045Z",
+    "duration_minutes": 416,
+    "duration_str": "6h 56m"
   },
   {
     "title": "monde:::Guerre en Ukraine − Notre suivi de la semaine du 27 octobre",
-    "added_at": "2025-11-02T20:18:20.853Z"
+    "added_at": "2025-11-02T20:18:20.853Z",
+    "removed_at": "2025-11-03T03:08:50.045Z",
+    "duration_minutes": 410,
+    "duration_str": "6h 50m"
   },
   {
     "title": "economie:::Genève reste la ville la plus chère du monde pour les expatriés. Oui mais…",
@@ -46338,5 +46344,13 @@
     "removed_at": "2025-11-02T21:07:37.333Z",
     "duration_minutes": 7,
     "duration_str": "7m"
+  },
+  {
+    "title": "monde:::Moyen-Orient en direct – Israël dit avoir reçu les dépouilles de trois otages de Gaza",
+    "added_at": "2025-11-03T03:08:50.045Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine en direct − Six morts dans des frappes russes, Kiev cible un port pétrolier",
+    "added_at": "2025-11-03T03:08:50.045Z"
   }
 ]

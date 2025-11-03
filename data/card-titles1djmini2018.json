@@ -59871,7 +59871,10 @@
   },
   {
     "title": "L'argent liquide est de moins en moins accepté dans les établissements suisses, selon la BNS",
-    "added_at": "2025-10-31T15:16:02.872Z"
+    "added_at": "2025-10-31T15:16:02.872Z",
+    "removed_at": "2025-11-03T03:35:12.640Z",
+    "duration_minutes": 3619,
+    "duration_str": "2d 12h 19m"
   },
   {
     "title": "D'où vient Halloween? La vraie histoire d'une fête aux origines celtiques",
@@ -59900,7 +59903,10 @@
   },
   {
     "title": "Aux yeux d'une commission du National, les salaires des patrons des caisses maladie sont trop élevés",
-    "added_at": "2025-10-31T16:45:02.420Z"
+    "added_at": "2025-10-31T16:45:02.420Z",
+    "removed_at": "2025-11-03T01:41:59.127Z",
+    "duration_minutes": 3416,
+    "duration_str": "2d 8h 56m"
   },
   {
     "title": "Des dispositifs antivol vont être installés en urgence au Louvre",
@@ -60317,9 +60323,9 @@
   {
     "title": "La sculpture de Donald Trump crucifié de l’artiste Mason Storm finalement exposée dans une galerie à Bâle",
     "added_at": "2025-11-02T15:06:06.043Z",
-    "removed_at": "2025-11-02T23:16:24.744Z",
-    "duration_minutes": 490,
-    "duration_str": "8h 10m"
+    "removed_at": "2025-11-03T03:18:14.026Z",
+    "duration_minutes": 732,
+    "duration_str": "12h 12m"
   },
   {
     "title": "Hausse des demandes de statut S de la part de jeunes Ukrainiens",
@@ -60355,5 +60361,13 @@
   {
     "title": "Chuchichästli – La bataille des caddies au Telli à Aarau",
     "added_at": "2025-11-02T22:02:28.182Z"
+  },
+  {
+    "title": "Donald Trump répète ses menaces d'intervention militaire au Nigeria",
+    "added_at": "2025-11-03T01:41:59.127Z"
+  },
+  {
+    "title": "Un nouveau séisme secoue l'Afghanistan, faisant plusieurs morts et des dizaines de blessés",
+    "added_at": "2025-11-03T03:35:12.640Z"
   }
 ]
