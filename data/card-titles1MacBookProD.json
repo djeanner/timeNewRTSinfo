@@ -3747,7 +3747,10 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T19:02:44.375Z"
+    "added_at": "2025-07-25T19:02:44.375Z",
+    "removed_at": "2025-11-03T19:01:20.579Z",
+    "duration_minutes": 145438,
+    "duration_str": "100d 23h 58m"
   },
   {
     "title": "En Israël, la population sensible au sort des Gazaouis refuse d'en rendre son armée responsable",
@@ -34518,7 +34521,10 @@
   },
   {
     "title": "Salomé Saqué : Comment se donner du courage ?",
-    "added_at": "2025-10-30T20:13:31.934Z"
+    "added_at": "2025-10-30T20:13:31.934Z",
+    "removed_at": "2025-11-03T19:01:20.579Z",
+    "duration_minutes": 5687,
+    "duration_str": "3d 22h 47m"
   },
   {
     "title": "Le conseiller d'Etat genevois Pierre Maudet participera à l’ultime rassemblement électoral de Martial Courtet  dans le Jura",
@@ -34869,10 +34875,7 @@
   },
   {
     "title": "Le grand frisson : la maison hantée de Corcelles-près-Payerne",
-    "added_at": "2025-10-31T19:02:34.136Z",
-    "removed_at": "2025-11-03T18:11:04.109Z",
-    "duration_minutes": 4268,
-    "duration_str": "2d 23h 8m"
+    "added_at": "2025-10-31T19:02:34.136Z"
   },
   {
     "title": "Une nouvelle génération de fromagères relance les laiteries villageoises",
@@ -34978,7 +34981,10 @@
   },
   {
     "title": "Ces pratiques alternatives qui promettent de soigner votre maison",
-    "added_at": "2025-11-01T08:07:36.656Z"
+    "added_at": "2025-11-01T08:07:36.656Z",
+    "removed_at": "2025-11-03T20:41:35.736Z",
+    "duration_minutes": 3633,
+    "duration_str": "2d 12h 33m"
   },
   {
     "title": "La Municipalité de Lausanne envisage de déplacer le local d'injection de la Riponne",
@@ -34989,7 +34995,10 @@
   },
   {
     "title": "L'IA qui \"ressuscite\" les morts: entre réconfort et dérives éthiques",
-    "added_at": "2025-11-01T08:50:43.451Z"
+    "added_at": "2025-11-01T08:50:43.451Z",
+    "removed_at": "2025-11-03T19:42:23.432Z",
+    "duration_minutes": 3531,
+    "duration_str": "2d 10h 51m"
   },
   {
     "title": "L'humoriste Jérôme Commandeur réunit des quinquas déjantés dans \"T'as pas changé\"",
@@ -35095,7 +35104,10 @@
   },
   {
     "title": "Au Tessin, les crématoires attirent les défunts italiens avec des prix cassés",
-    "added_at": "2025-11-01T13:33:03.482Z"
+    "added_at": "2025-11-01T13:33:03.482Z",
+    "removed_at": "2025-11-03T18:27:11.861Z",
+    "duration_minutes": 3174,
+    "duration_str": "2d 4h 54m"
   },
   {
     "title": "Trump crucifié dans une exposition du centre-ville de Bâle",
@@ -35530,5 +35542,28 @@
   {
     "title": "Feu vert de l'Eglise réformée à une étude sur les abus sexuels",
     "added_at": "2025-11-03T17:02:37.946Z"
+  },
+  {
+    "title": "L'ASF et Pia Sundhage mettent fin à leur collaboration",
+    "added_at": "2025-11-03T18:27:11.861Z",
+    "removed_at": "2025-11-03T19:03:40.363Z",
+    "duration_minutes": 36,
+    "duration_str": "36m"
+  },
+  {
+    "title": "Un policier suspecté d’avoir détruit un radar routier par arme à feu au Tessin",
+    "added_at": "2025-11-03T19:01:20.579Z"
+  },
+  {
+    "title": "L'ASF ne poursuit pas l'aventure avec Pia Sundhage",
+    "added_at": "2025-11-03T19:03:40.363Z"
+  },
+  {
+    "title": "L'écho de la guerre de Sécession résonne comme un avertissement aux Etats-Unis",
+    "added_at": "2025-11-03T19:42:23.432Z"
+  },
+  {
+    "title": "Aide alimentaire réduite pour des dizaines de millions d'Américains suite à la paralysie budgétaire",
+    "added_at": "2025-11-03T20:41:35.736Z"
   }
 ]

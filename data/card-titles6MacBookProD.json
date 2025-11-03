@@ -55533,7 +55533,10 @@
   },
   {
     "title": "UK police charge man with attempted murder after train stabbings",
-    "added_at": "2025-11-03T10:34:49.381Z"
+    "added_at": "2025-11-03T10:34:49.381Z",
+    "removed_at": "2025-11-03T19:21:53.352Z",
+    "duration_minutes": 527,
+    "duration_str": "8h 47m"
   },
   {
     "title": "The mothers searching for their missing children in Mexico",
@@ -55548,7 +55551,10 @@
   },
   {
     "title": "President Hassan sworn in following deadly Tanzania election",
-    "added_at": "2025-11-03T12:12:53.619Z"
+    "added_at": "2025-11-03T12:12:53.619Z",
+    "removed_at": "2025-11-03T19:49:15.939Z",
+    "duration_minutes": 456,
+    "duration_str": "7h 36m"
   },
   {
     "title": "Liverpool and Real Madrid renew rivalry as Xabi Alonso returns to Anfield",
@@ -55573,7 +55579,10 @@
   },
   {
     "title": "All to know as Liverpool and Real Madrid clash in Champions League showdown",
-    "added_at": "2025-11-03T13:26:00.398Z"
+    "added_at": "2025-11-03T13:26:00.398Z",
+    "removed_at": "2025-11-03T19:42:24.146Z",
+    "duration_minutes": 376,
+    "duration_str": "6h 16m"
   },
   {
     "title": "Thousands more flee as Sudan conflict grinds eastwards",
@@ -55600,11 +55609,17 @@
   },
   {
     "title": "Earthquake kills at least 20 people in northern Afghanistan",
-    "added_at": "2025-11-03T15:56:36.394Z"
+    "added_at": "2025-11-03T15:56:36.394Z",
+    "removed_at": "2025-11-03T19:21:53.352Z",
+    "duration_minutes": 205,
+    "duration_str": "3h 25m"
   },
   {
     "title": "Ukraine receives Patriot systems to bolster air defences against Russia",
-    "added_at": "2025-11-03T16:30:45.962Z"
+    "added_at": "2025-11-03T16:30:45.962Z",
+    "removed_at": "2025-11-03T20:21:06.660Z",
+    "duration_minutes": 230,
+    "duration_str": "3h 50m"
   },
   {
     "title": "Palestinians say food access worse despite ceasfire as Israel attacks Gaza",
@@ -55628,5 +55643,25 @@
   {
     "title": "OpenAI, Amazon sign $38bn AI deal",
     "added_at": "2025-11-03T18:17:55.289Z"
+  },
+  {
+    "title": "Turkiye hosts summit on Gaza, says Israel must stop ceasefire violations",
+    "added_at": "2025-11-03T19:21:53.352Z"
+  },
+  {
+    "title": "Are we closer to a Gaza international peace force after Istanbul meeting?",
+    "added_at": "2025-11-03T19:21:53.352Z"
+  },
+  {
+    "title": "Kimberly-Clark to buy Tylenol maker Kenvue for $40bn",
+    "added_at": "2025-11-03T19:42:24.146Z"
+  },
+  {
+    "title": "Trump administration to partially fund SNAP food benefits amid US shutdown",
+    "added_at": "2025-11-03T19:49:15.939Z"
+  },
+  {
+    "title": "Israel releases five Palestinian prisoners as killings continue in Gaza",
+    "added_at": "2025-11-03T20:21:06.660Z"
   }
 ]
