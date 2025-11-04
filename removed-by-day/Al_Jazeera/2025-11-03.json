@@ -86,8 +86,9 @@
   {
     "title": "Trump says ‘days numbered’ for Venezuela’s Maduro",
     "added_at": "2025-11-03T07:50:42.789Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-03T22:43:13.078Z",
+    "duration_minutes": 893,
+    "duration_str": "14h 53m"
   },
   {
     "title": "Israeli air raids hit southern Gaza; two Palestinians killed in West Bank",
@@ -106,8 +107,9 @@
   {
     "title": "Iran ‘not in hurry’ to resume nuclear talks with US",
     "added_at": "2025-11-03T09:31:03.163Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-04T00:45:23.451Z",
+    "duration_minutes": 914,
+    "duration_str": "15h 14m"
   },
   {
     "title": "UK police charge man with attempted murder after train stabbings",
@@ -239,8 +241,9 @@
   {
     "title": "OpenAI, Amazon sign $38bn AI deal",
     "added_at": "2025-11-03T18:16:33.044Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-04T01:39:59.366Z",
+    "duration_minutes": 443,
+    "duration_str": "7h 23m"
   },
   {
     "title": "Turkiye hosts summit on Gaza, says Israel must stop ceasefire violations",
@@ -288,8 +291,15 @@
   },
   {
     "title": "US family sues Tesla, alleging wrongful death due to faulty doors",
-    "added_at": "2025-11-03T22:44:37.865Z",
+    "added_at": "2025-11-03T22:43:13.078Z",
     "duration_minutes": 0,
     "duration_str": ""
+  },
+  {
+    "title": "Trump says he will restrict federal funds for New York City if Mamdani wins",
+    "added_at": "2025-11-03T23:30:19.184Z",
+    "removed_at": "2025-11-04T01:39:59.366Z",
+    "duration_minutes": 130,
+    "duration_str": "2h 10m"
   }
 ]
