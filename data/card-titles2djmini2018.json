@@ -41042,7 +41042,10 @@
   },
   {
     "title": "economie:::A Zurich, les banquiers doivent redoubler d’efforts pour trouver du travail",
-    "added_at": "2025-10-14T05:05:18.907Z"
+    "added_at": "2025-10-14T05:05:18.907Z",
+    "removed_at": "2025-11-04T06:50:53.432Z",
+    "duration_minutes": 30345,
+    "duration_str": "21d 1h 45m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Volodymyr Zelensky sera reçu vendredi à Washington",
@@ -45348,7 +45351,10 @@
   },
   {
     "title": "economie:::Malgré de solides résultats trimestriels, UBS doit faire face à des défis de taille",
-    "added_at": "2025-10-29T19:28:05.632Z"
+    "added_at": "2025-10-29T19:28:05.632Z",
+    "removed_at": "2025-11-04T06:50:53.432Z",
+    "duration_minutes": 7882,
+    "duration_str": "5d 11h 22m"
   },
   {
     "title": "culture:::A Lausanne, Vincent Bonillo raconte les rapports de force (parfois inversés) entre «bonnes et bourges»",
@@ -45625,10 +45631,7 @@
   },
   {
     "title": "cyber:::5000 milliards pour Nvidia, 4000 pour Apple, bientôt 1000 pour OpenAI: l’effervescence autour de l’intelligence artificielle atteint des sommets",
-    "added_at": "2025-10-30T18:17:12.578Z",
-    "removed_at": "2025-10-31T09:58:05.793Z",
-    "duration_minutes": 940,
-    "duration_str": "15h 40m"
+    "added_at": "2025-10-30T18:17:12.578Z"
   },
   {
     "title": "suisse:::Accords Suisse-UE: le tout petit oui des partisans",
@@ -46022,9 +46025,9 @@
   {
     "title": "suisse:::«Développer l’e-voting fait partie du métier historique de La Poste»",
     "added_at": "2025-11-01T09:15:49.394Z",
-    "removed_at": "2025-11-01T14:43:04.851Z",
-    "duration_minutes": 327,
-    "duration_str": "5h 27m"
+    "removed_at": "2025-11-04T07:41:50.235Z",
+    "duration_minutes": 4226,
+    "duration_str": "2d 22h 26m"
   },
   {
     "title": "sport:::Quelle place pour l’e-sport dans l’écosystème sportif?",
@@ -46456,7 +46459,10 @@
   },
   {
     "title": "monde:::Un an après l’élection de Trump, les républicains face à leur choix",
-    "added_at": "2025-11-03T07:18:17.218Z"
+    "added_at": "2025-11-03T07:18:17.218Z",
+    "removed_at": "2025-11-04T06:13:03.461Z",
+    "duration_minutes": 1374,
+    "duration_str": "22h 54m"
   },
   {
     "title": "monde:::Plus que les scrutins dans le New Jersey et la Virginie, l’élection à la mairie de New York pourrait déterminer l’avenir des démocrates",
@@ -46554,7 +46560,10 @@
   },
   {
     "title": "economie:::Départ brutal d’un haut responsable: l’agence américaine de régulation du médicament prise dans une nouvelle polémique",
-    "added_at": "2025-11-03T17:02:36.992Z"
+    "added_at": "2025-11-03T17:02:36.992Z",
+    "removed_at": "2025-11-04T07:32:21.352Z",
+    "duration_minutes": 869,
+    "duration_str": "14h 29m"
   },
   {
     "title": "suisse:::Inquiète pour sa fille, une mère avait alerté la police. Un policier veveysan est condamné pour n’avoir pas réagi",
@@ -46569,7 +46578,10 @@
   },
   {
     "title": "suisse:::La résistance aux antibiotiques progresse plus vite que les mesures pour l’endiguer, et la Suisse ne fait pas exception",
-    "added_at": "2025-11-03T18:22:11.103Z"
+    "added_at": "2025-11-03T18:22:11.103Z",
+    "removed_at": "2025-11-04T07:53:11.150Z",
+    "duration_minutes": 811,
+    "duration_str": "13h 31m"
   },
   {
     "title": "suisse:::Le parlement presse le Conseil fédéral de s’éveiller à la géopolitique",
@@ -46622,5 +46634,25 @@
   {
     "title": "cyber:::Plus d’un million de robots s’activent dans les usines d’Amazon, et déjà de nouvelles générations dopées à l’IA arrivent",
     "added_at": "2025-11-04T05:10:36.278Z"
+  },
+  {
+    "title": "economie:::Les balançoires se vident, les EMS se remplissent",
+    "added_at": "2025-11-04T05:59:54.259Z"
+  },
+  {
+    "title": "monde:::Aux Pays-Bas, le pari du centriste Rob Jetten, qui a infligé une défaite au leader d’extrême droite Geert Wilders",
+    "added_at": "2025-11-04T06:13:03.461Z"
+  },
+  {
+    "title": "cyber:::Face au résultat serré sur l’e-ID, les parlementaires fédéraux veulent suivre de près sa mise en œuvre",
+    "added_at": "2025-11-04T06:50:53.432Z"
+  },
+  {
+    "title": "economie:::Départ brutal d’un haut responsable: l’agence américaine de régulation des médicaments prise dans une nouvelle polémique",
+    "added_at": "2025-11-04T07:32:21.352Z"
+  },
+  {
+    "title": "culture:::Tisser le temps, tisser la joie et la souffrance: l’art éclatant d’Angélica Serech exposé à Genève",
+    "added_at": "2025-11-04T07:53:11.150Z"
   }
 ]
