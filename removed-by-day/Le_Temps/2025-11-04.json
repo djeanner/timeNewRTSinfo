@@ -20,8 +20,9 @@
   {
     "title": "economie:::Les balançoires se vident, les EMS se remplissent",
     "added_at": "2025-11-04T05:59:40.901Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-04T13:05:52.804Z",
+    "duration_minutes": 426,
+    "duration_str": "7h 6m"
   },
   {
     "title": "monde:::Aux Pays-Bas, le pari du centriste Rob Jetten, qui a infligé une défaite au leader d’extrême droite Geert Wilders",
@@ -38,31 +39,33 @@
   {
     "title": "economie:::Départ brutal d’un haut responsable: l’agence américaine de régulation des médicaments prise dans une nouvelle polémique",
     "added_at": "2025-11-04T07:32:21.352Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-04T14:07:19.597Z",
+    "duration_minutes": 395,
+    "duration_str": "6h 35m"
   },
   {
     "title": "culture:::Tisser le temps, tisser la joie et la souffrance: l’art éclatant d’Angélica Serech exposé à Genève",
     "added_at": "2025-11-04T07:53:11.150Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-04T12:29:28.352Z",
+    "duration_minutes": 276,
+    "duration_str": "4h 36m"
   },
   {
     "title": "monde:::L’armée soudanaise étudie une proposition de trêve américaine",
-    "added_at": "2025-11-04T10:05:44.575Z",
-    "removed_at": "2025-11-04T10:28:26.899Z",
-    "duration_minutes": 23,
-    "duration_str": "23m"
+    "added_at": "2025-11-04T10:05:33.435Z",
+    "removed_at": "2025-11-04T10:26:23.689Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
   },
   {
     "title": "sport:::«Cette fin est injuste»: la séparation entre la Nati et Pia Sundhage laisse la presse helvétique perplexe",
-    "added_at": "2025-11-04T10:05:44.575Z",
+    "added_at": "2025-11-04T10:05:33.435Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "sport:::En dilettante - Le sourire de Pia",
-    "added_at": "2025-11-04T10:05:44.575Z",
+    "added_at": "2025-11-04T10:05:33.435Z",
     "removed_at": "2025-11-04T11:02:35.442Z",
     "duration_minutes": 57,
     "duration_str": "57m"
@@ -88,6 +91,37 @@
   {
     "title": "culture:::Le Prix Goncourt récompense «La Maison vide» de Laurent Mauvignier",
     "added_at": "2025-11-04T12:06:32.053Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::Patrick Getreide, l'homme qui valait 600 montres",
+    "added_at": "2025-11-04T12:29:28.352Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "culture:::Dans «L’Age de frémir», Guillaume Béguin dépeint l’extrême vieillesse sans la juger",
+    "added_at": "2025-11-04T13:51:22.878Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Une bataille pour un contre-projet à l’initiative UDC «Pas de Suisse à dix millions» se prépare au Conseil des Etats",
+    "added_at": "2025-11-04T14:07:19.597Z",
+    "removed_at": "2025-11-04T14:11:51.703Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "suisse:::Une bataille pour un contre-projet à l’initiative UDC «Pas de Suisse à 10 millions» se prépare au Conseil des Etats",
+    "added_at": "2025-11-04T14:11:51.703Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Kiev est prêt pour avancer vers une adhésion à l'UE, juge la Commission européenne",
+    "added_at": "2025-11-04T14:11:51.703Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
