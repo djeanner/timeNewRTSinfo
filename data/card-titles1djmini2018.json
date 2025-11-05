@@ -60288,9 +60288,9 @@
   {
     "title": "La mort",
     "added_at": "2025-11-01T18:19:14.155Z",
-    "removed_at": "2025-11-04T20:16:59.711Z",
-    "duration_minutes": 4437,
-    "duration_str": "3d 1h 57m"
+    "removed_at": "2025-11-05T06:37:21.364Z",
+    "duration_minutes": 5058,
+    "duration_str": "3d 12h 18m"
   },
   {
     "title": "L'invité de La Matinale (vidéo) - Pascal Pichonnaz, ancien président de l’European Law Institute",
@@ -60555,9 +60555,9 @@
   {
     "title": "Entretien avec Elodie Maradan, secrétaire générale du Salon Goûts et Terroirs",
     "added_at": "2025-11-02T19:17:58.799Z",
-    "removed_at": "2025-11-05T04:19:22.339Z",
-    "duration_minutes": 3421,
-    "duration_str": "2d 9h 1m"
+    "removed_at": "2025-11-05T06:37:21.364Z",
+    "duration_minutes": 3559,
+    "duration_str": "2d 11h 19m"
   },
   {
     "title": "Attaque dans un train en Angleterre: \"Rien ne suggère qu'il s'agit d'un incident terroriste\"",
@@ -60767,7 +60767,10 @@
   },
   {
     "title": "Des dizaines de milliers de personnes fuient le conflit au Darfour",
-    "added_at": "2025-11-03T15:27:49.846Z"
+    "added_at": "2025-11-03T15:27:49.846Z",
+    "removed_at": "2025-11-05T07:51:01.886Z",
+    "duration_minutes": 2423,
+    "duration_str": "1d 16h 23m"
   },
   {
     "title": "Le Procureur général de l'Etat espagnol jugé dans un procès inédit",
@@ -60778,7 +60781,10 @@
   },
   {
     "title": "Des chips à l'Aromat, un guide anti-gaspi et des compléments alimentaires naturels",
-    "added_at": "2025-11-03T15:31:39.861Z"
+    "added_at": "2025-11-03T15:31:39.861Z",
+    "removed_at": "2025-11-05T06:16:35.319Z",
+    "duration_minutes": 2324,
+    "duration_str": "1d 14h 44m"
   },
   {
     "title": "Des milliers de maçons romands en grève pour défendre leurs conditions de travail",
@@ -60813,10 +60819,7 @@
   },
   {
     "title": "Un policier suspecté d’avoir détruit un radar routier par arme à feu au Tessin",
-    "added_at": "2025-11-03T19:01:53.551Z",
-    "removed_at": "2025-11-05T05:17:51.478Z",
-    "duration_minutes": 2055,
-    "duration_str": "1d 10h 15m"
+    "added_at": "2025-11-03T19:01:53.551Z"
   },
   {
     "title": "L'ASF ne poursuit pas l'aventure avec Pia Sundhage",
@@ -60832,7 +60835,10 @@
   },
   {
     "title": "L'archive du jour - 30 ans après l’assassinat du Premier ministre israélien Yitzhak Rabin",
-    "added_at": "2025-11-03T21:01:08.494Z"
+    "added_at": "2025-11-03T21:01:08.494Z",
+    "removed_at": "2025-11-05T07:03:52.184Z",
+    "duration_minutes": 2042,
+    "duration_str": "1d 10h 2m"
   },
   {
     "title": "Lourdes peines requises pour deux hommes accusés de soutenir l’EI et qui admettent une partie les faits",
@@ -61037,7 +61043,10 @@
   },
   {
     "title": "Le typhon Kalmaegi inonde le centre des Philippines et fait des dizaines de morts",
-    "added_at": "2025-11-04T14:49:11.862Z"
+    "added_at": "2025-11-04T14:49:11.862Z",
+    "removed_at": "2025-11-05T07:00:02.289Z",
+    "duration_minutes": 970,
+    "duration_str": "16h 10m"
   },
   {
     "title": "Des élections locales aux États-Unis à valeur de baromètre tant pour les démocrates que pour Donald Trump",
@@ -61184,5 +61193,24 @@
   {
     "title": "Le crash d'un avion-cargo dans la ville américaine de Louisville fait au moins sept morts",
     "added_at": "2025-11-05T04:40:06.694Z"
+  },
+  {
+    "title": "Plus de 700 anciens graffitis découverts à l'orphelinat de Pinchat à Carouge",
+    "added_at": "2025-11-05T06:16:35.319Z"
+  },
+  {
+    "title": "Portrait de Dima: le fleuriste ukrainien devenu art maquettiste à Cully",
+    "added_at": "2025-11-05T06:33:36.238Z",
+    "removed_at": "2025-11-05T06:37:21.364Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "Le typhon Kalmaegi inonde le centre des Philippines et fait près de 100 morts",
+    "added_at": "2025-11-05T07:00:02.289Z"
+  },
+  {
+    "title": "La Ville de Lausanne s'attaque à Syngenta pour la pollution du lac au triazole",
+    "added_at": "2025-11-05T07:51:01.886Z"
   }
 ]
