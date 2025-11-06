@@ -47155,7 +47155,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Vladimir Poutine dit envisager une reprise des essais nucléaires russes",
-    "added_at": "2025-11-05T16:01:02.045Z"
+    "added_at": "2025-11-05T16:01:02.045Z",
+    "removed_at": "2025-11-06T16:51:33.508Z",
+    "duration_minutes": 1490,
+    "duration_str": "1d 50m"
   },
   {
     "title": "monde:::La plateforme en ligne Shein bientôt suspendue en France après avoir ouvert son premier magasin à Paris",
@@ -47272,7 +47275,10 @@
   },
   {
     "title": "cyber:::Payer 10 francs par mois pour son abonnement mobile, une tendance qui séduit de plus en plus de Suisses",
-    "added_at": "2025-11-06T07:01:30.261Z"
+    "added_at": "2025-11-06T07:01:30.261Z",
+    "removed_at": "2025-11-06T16:45:52.499Z",
+    "duration_minutes": 584,
+    "duration_str": "9h 44m"
   },
   {
     "title": "culture:::Au Théâtre de Vidy à Lausanne, le loup fait sensation grâce à Judith Zagury et à la ShanjuLab",
@@ -47295,7 +47301,10 @@
   },
   {
     "title": "cyber:::Sur la COP30, une désinformation climatosceptique boostée à l’IA",
-    "added_at": "2025-11-06T09:04:24.842Z"
+    "added_at": "2025-11-06T09:04:24.842Z",
+    "removed_at": "2025-11-06T15:49:09.498Z",
+    "duration_minutes": 404,
+    "duration_str": "6h 44m"
   },
   {
     "title": "suisse:::Autour de la villa de Zep, il existe bien un déficit de parcs",
@@ -47306,15 +47315,24 @@
   },
   {
     "title": "sport:::Gaoussou Diakité, perle du Mali de passage au Lausanne-Sport, qui «danse le football»",
-    "added_at": "2025-11-06T09:08:08.631Z"
+    "added_at": "2025-11-06T09:08:08.631Z",
+    "removed_at": "2025-11-06T15:32:08.788Z",
+    "duration_minutes": 384,
+    "duration_str": "6h 24m"
   },
   {
     "title": "culture:::Au Théâtre de Vidy à Lausanne, le loup fait sensation grâce à Judith Zagury et au ShanjuLab",
-    "added_at": "2025-11-06T10:27:39.665Z"
+    "added_at": "2025-11-06T10:27:39.665Z",
+    "removed_at": "2025-11-06T15:49:09.498Z",
+    "duration_minutes": 321,
+    "duration_str": "5h 21m"
   },
   {
     "title": "sciences:::Un cas de grippe aviaire confirmé près de Bienne sur un oiseau sauvage",
-    "added_at": "2025-11-06T11:52:39.807Z"
+    "added_at": "2025-11-06T11:52:39.807Z",
+    "removed_at": "2025-11-06T15:00:01.586Z",
+    "duration_minutes": 187,
+    "duration_str": "3h 7m"
   },
   {
     "title": "sciences:::Avant la COP30, une question brûlante: la coopération mondiale tiendra-t-elle ?",
@@ -47325,7 +47343,10 @@
   },
   {
     "title": "sciences:::À une semaine de la COP30, l’UE arrache un accord sur ses objectifs climatiques",
-    "added_at": "2025-11-06T12:19:16.183Z"
+    "added_at": "2025-11-06T12:19:16.183Z",
+    "removed_at": "2025-11-06T15:49:09.498Z",
+    "duration_minutes": 209,
+    "duration_str": "3h 29m"
   },
   {
     "title": "culture:::Le vol du Louvre, un «signal d’alarme assourdissant» sur les problèmes de sécurité du musée",
@@ -47352,5 +47373,29 @@
   {
     "title": "cyber:::Le Tribunal fédéral rejette les recours contre l’appel d’offres pour le dossier patient informatisé du CHUV",
     "added_at": "2025-11-06T14:29:36.741Z"
+  },
+  {
+    "title": "monde:::Nancy Pelosi, figure emblématique du parti démocrate au Congrès américain, annonce sa retraite",
+    "added_at": "2025-11-06T15:00:01.586Z"
+  },
+  {
+    "title": "suisse:::Face à l’initiative pour une redevance à 200 francs, des employés de la RTS se lancent dans la bataille pour leur «survie»",
+    "added_at": "2025-11-06T15:32:08.788Z"
+  },
+  {
+    "title": "suisse:::Carole-Anne Kast, la grande déception de ce gouvernement genevois? Bilan à mi-mandat",
+    "added_at": "2025-11-06T15:49:09.498Z"
+  },
+  {
+    "title": "economie:::Le taux de chômage poursuit sa hausse progressive en Suisse",
+    "added_at": "2025-11-06T15:56:43.950Z"
+  },
+  {
+    "title": "economie:::La guerre du pain à prix cassé est portée devant la Commission de la concurrence",
+    "added_at": "2025-11-06T16:45:52.499Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Un soldat russe condamné à perpétuité en Ukraine",
+    "added_at": "2025-11-06T16:51:33.508Z"
   }
 ]
