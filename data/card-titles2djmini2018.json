@@ -46844,7 +46844,10 @@
   },
   {
     "title": "suisse:::Elections jurassiennes: la drôle de soirée de Martial Courtet et Pierre Maudet",
-    "added_at": "2025-11-04T17:09:16.083Z"
+    "added_at": "2025-11-04T17:09:16.083Z",
+    "removed_at": "2025-11-06T11:52:39.807Z",
+    "duration_minutes": 2563,
+    "duration_str": "1d 18h 43m"
   },
   {
     "title": "culture:::En Suisse romande, une bataille d’ego au sommet entre les acteurs Thierry Romanens et Nicolas Rossier",
@@ -47258,7 +47261,10 @@
   },
   {
     "title": "culture:::Au Théâtre de Vidy à Lausanne, le loup fait sensation grâce à Judith Zagury et à la ShanjuLab",
-    "added_at": "2025-11-06T07:14:43.648Z"
+    "added_at": "2025-11-06T07:14:43.648Z",
+    "removed_at": "2025-11-06T10:27:39.665Z",
+    "duration_minutes": 192,
+    "duration_str": "3h 12m"
   },
   {
     "title": "suisse:::A Genève, la saga de «la villa de Zep» déchire la ville",
@@ -47278,10 +47284,21 @@
   },
   {
     "title": "suisse:::Autour de la villa de Zep, il existe bien un déficit de parcs",
-    "added_at": "2025-11-06T09:06:14.761Z"
+    "added_at": "2025-11-06T09:06:14.761Z",
+    "removed_at": "2025-11-06T11:52:39.807Z",
+    "duration_minutes": 166,
+    "duration_str": "2h 46m"
   },
   {
     "title": "sport:::Gaoussou Diakité, perle du Mali de passage au Lausanne-Sport, qui «danse le football»",
     "added_at": "2025-11-06T09:08:08.631Z"
+  },
+  {
+    "title": "culture:::Au Théâtre de Vidy à Lausanne, le loup fait sensation grâce à Judith Zagury et au ShanjuLab",
+    "added_at": "2025-11-06T10:27:39.665Z"
+  },
+  {
+    "title": "sciences:::Un cas de grippe aviaire confirmé près de Bienne sur un oiseau sauvage",
+    "added_at": "2025-11-06T11:52:39.807Z"
   }
 ]
