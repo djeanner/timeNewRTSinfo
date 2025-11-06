@@ -6448,10 +6448,7 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:00:57.917Z",
-    "removed_at": "2025-10-30T20:03:11.359Z",
-    "duration_minutes": 231962,
-    "duration_str": "161d 2h 2m"
+    "added_at": "2025-05-22T18:00:57.917Z"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -46882,10 +46879,7 @@
   },
   {
     "title": "suisse:::Les scénarios climatiques prédisent une hausse plus marquée des températures en Suisse qu’ailleurs",
-    "added_at": "2025-11-04T17:50:58.706Z",
-    "removed_at": "2025-11-05T15:21:19.313Z",
-    "duration_minutes": 1290,
-    "duration_str": "21h 30m"
+    "added_at": "2025-11-04T17:50:58.706Z"
   },
   {
     "title": "economie:::Chanel étend son périmètre horloger en devenant actionnaire de Kross Manufacture à Gland",
@@ -47289,7 +47283,10 @@
   },
   {
     "title": "suisse:::A Genève, la saga de «la villa de Zep» déchire la ville",
-    "added_at": "2025-11-06T07:31:53.234Z"
+    "added_at": "2025-11-06T07:31:53.234Z",
+    "removed_at": "2025-11-06T19:02:13.078Z",
+    "duration_minutes": 690,
+    "duration_str": "11h 30m"
   },
   {
     "title": "economie:::De l’Arménie soviétique à la Suisse, des tours de Roche au chantier de la gare de Lausanne: l’incroyable trajectoire de l’entrepreneur Arman Gukasyan",
@@ -47297,14 +47294,14 @@
   },
   {
     "title": "suisse:::L’entretien entre Donald Trump et des grands patrons suisses ravive un espoir mesuré",
-    "added_at": "2025-11-06T08:07:46.835Z"
+    "added_at": "2025-11-06T08:07:46.835Z",
+    "removed_at": "2025-11-06T19:02:13.078Z",
+    "duration_minutes": 654,
+    "duration_str": "10h 54m"
   },
   {
     "title": "cyber:::Sur la COP30, une désinformation climatosceptique boostée à l’IA",
-    "added_at": "2025-11-06T09:04:24.842Z",
-    "removed_at": "2025-11-06T15:49:09.498Z",
-    "duration_minutes": 404,
-    "duration_str": "6h 44m"
+    "added_at": "2025-11-06T09:04:24.842Z"
   },
   {
     "title": "suisse:::Autour de la villa de Zep, il existe bien un déficit de parcs",
@@ -47368,7 +47365,10 @@
   },
   {
     "title": "culture:::A Lausanne, une «Petite Flûte enchantée» mise en scène par Julie Depardieu fait sensation",
-    "added_at": "2025-11-06T13:32:55.607Z"
+    "added_at": "2025-11-06T13:32:55.607Z",
+    "removed_at": "2025-11-06T18:43:21.901Z",
+    "duration_minutes": 310,
+    "duration_str": "5h 10m"
   },
   {
     "title": "cyber:::Le Tribunal fédéral rejette les recours contre l’appel d’offres pour le dossier patient informatisé du CHUV",
@@ -47376,7 +47376,10 @@
   },
   {
     "title": "monde:::Nancy Pelosi, figure emblématique du parti démocrate au Congrès américain, annonce sa retraite",
-    "added_at": "2025-11-06T15:00:01.586Z"
+    "added_at": "2025-11-06T15:00:01.586Z",
+    "removed_at": "2025-11-06T18:54:42.494Z",
+    "duration_minutes": 234,
+    "duration_str": "3h 54m"
   },
   {
     "title": "suisse:::Face à l’initiative pour une redevance à 200 francs, des employés de la RTS se lancent dans la bataille pour leur «survie»",
@@ -47397,5 +47400,42 @@
   {
     "title": "monde:::En direct, guerre en Ukraine − Un soldat russe condamné à perpétuité en Ukraine",
     "added_at": "2025-11-06T16:51:33.508Z"
+  },
+  {
+    "title": "monde:::En direct – Posez vos questions à l’avocate ukrainienne Oleksandra Matviichouk, Nobel de la paix 2022",
+    "added_at": "2025-11-06T17:10:37.970Z"
+  },
+  {
+    "title": "economie:::Ces Genevois qui parlent à l'oreille de Donald Trump",
+    "added_at": "2025-11-06T17:46:36.191Z",
+    "removed_at": "2025-11-06T17:48:26.141Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "suisse:::La gauche critique «la démission» du Conseil fédéral après la rencontre entre les patrons suisses et Donald Trump",
+    "added_at": "2025-11-06T17:46:36.191Z",
+    "removed_at": "2025-11-06T19:02:13.078Z",
+    "duration_minutes": 75,
+    "duration_str": "1h 15m"
+  },
+  {
+    "title": "economie:::Ces patrons genevois qui parlent à l'oreille de Donald Trump",
+    "added_at": "2025-11-06T17:48:26.141Z",
+    "removed_at": "2025-11-06T17:54:06.524Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "economie:::Ces patrons genevois qui parlent à l’oreille de Donald Trump",
+    "added_at": "2025-11-06T17:54:06.524Z"
+  },
+  {
+    "title": "monde:::Nancy Pelosi, le crépuscule d’une icône démocrate",
+    "added_at": "2025-11-06T18:54:42.494Z"
+  },
+  {
+    "title": "culture:::Au Poche, à Genève, deux archéologues creusent en eux-mêmes et découvrent une concordance insoupçonnée",
+    "added_at": "2025-11-06T18:56:33.004Z"
   }
 ]
