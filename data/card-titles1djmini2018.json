@@ -61448,7 +61448,10 @@
   },
   {
     "title": "BMW autorisé à déployer la conduite sans les mains en permanence jusqu'à 130 km/h",
-    "added_at": "2025-11-05T10:58:21.694Z"
+    "added_at": "2025-11-05T10:58:21.694Z",
+    "removed_at": "2025-11-06T22:21:18.491Z",
+    "duration_minutes": 2122,
+    "duration_str": "1d 11h 22m"
   },
   {
     "title": "Twitch, un nouveau terrain de jeu pour le débat politique en France",
@@ -61456,7 +61459,10 @@
   },
   {
     "title": "\"Là où j'ai peur, j'irai\", un spectacle en hommage à la figure de la chanson Anne Sylvestre",
-    "added_at": "2025-11-05T11:17:15.992Z"
+    "added_at": "2025-11-05T11:17:15.992Z",
+    "removed_at": "2025-11-06T22:09:57.329Z",
+    "duration_minutes": 2092,
+    "duration_str": "1d 10h 52m"
   },
   {
     "title": "Des entreprises suisses mènent des négociations commerciales avec Donald Trump",
@@ -61744,9 +61750,9 @@
   {
     "title": "Le journal de 7h - Présenté par Frédéric Mamaïs",
     "added_at": "2025-11-06T13:02:46.343Z",
-    "removed_at": "2025-11-06T20:21:59.854Z",
-    "duration_minutes": 439,
-    "duration_str": "7h 19m"
+    "removed_at": "2025-11-06T23:25:33.931Z",
+    "duration_minutes": 622,
+    "duration_str": "10h 22m"
   },
   {
     "title": "La Confédération a baissé le prix de près de 300 médicaments en 2025",
@@ -61867,5 +61873,20 @@
   {
     "title": "Derrière la discrétion, les stratégies des élites suisses pour conserver leur influence",
     "added_at": "2025-11-06T21:28:12.545Z"
+  },
+  {
+    "title": "Lausanne tenu en échec par les Chypriotes d'Omonia",
+    "added_at": "2025-11-06T22:09:57.329Z"
+  },
+  {
+    "title": "Les actionnaires de Tesla acceptent à 75% un plan de rémunération colossal pour Elon Musk",
+    "added_at": "2025-11-06T22:21:18.491Z"
+  },
+  {
+    "title": "Soundcheck - Et si le futur maire de New-York était un ancien rappeur?",
+    "added_at": "2025-11-06T23:23:39.901Z",
+    "removed_at": "2025-11-06T23:25:33.931Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
   }
 ]
