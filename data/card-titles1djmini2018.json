@@ -61867,7 +61867,10 @@
   },
   {
     "title": "La Confédération a baissé le prix de près de 300 médicaments en 2025",
-    "added_at": "2025-11-06T13:06:30.408Z"
+    "added_at": "2025-11-06T13:06:30.408Z",
+    "removed_at": "2025-11-08T01:43:11.980Z",
+    "duration_minutes": 2196,
+    "duration_str": "1d 12h 36m"
   },
   {
     "title": "Un institut fédéral dépense plus de 50'000 francs en noix pour \"doper\" les performances de ses employés",
@@ -62190,5 +62193,9 @@
     "removed_at": "2025-11-07T20:36:45.345Z",
     "duration_minutes": 1,
     "duration_str": "1m"
+  },
+  {
+    "title": "Les Etats-Unis n'enverront aucun responsable au G20 en Afrique du sud",
+    "added_at": "2025-11-08T01:43:11.980Z"
   }
 ]
