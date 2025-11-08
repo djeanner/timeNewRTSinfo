@@ -61303,10 +61303,7 @@
   },
   {
     "title": "Qui est Zohran Mamdani?",
-    "added_at": "2025-11-04T18:23:09.032Z",
-    "removed_at": "2025-11-08T13:18:51.421Z",
-    "duration_minutes": 5455,
-    "duration_str": "3d 18h 55m"
+    "added_at": "2025-11-04T18:23:09.032Z"
   },
   {
     "title": "En Suisse romande, les maçons manifestent pour leurs conditions de travail",
@@ -61349,7 +61346,10 @@
   },
   {
     "title": "Vous saurez pourquoi le café coûte plus cher et pourrait disparaître",
-    "added_at": "2025-11-04T21:19:23.154Z"
+    "added_at": "2025-11-04T21:19:23.154Z",
+    "removed_at": "2025-11-08T14:19:34.585Z",
+    "duration_minutes": 5340,
+    "duration_str": "3d 17h"
   },
   {
     "title": "Sortie de prison des deux derniers Français détenus en Iran",
@@ -62049,11 +62049,17 @@
   },
   {
     "title": "Derrière la discrétion, les stratégies des élites suisses pour conserver leur influence",
-    "added_at": "2025-11-06T21:28:12.545Z"
+    "added_at": "2025-11-06T21:28:12.545Z",
+    "removed_at": "2025-11-08T14:38:26.242Z",
+    "duration_minutes": 2470,
+    "duration_str": "1d 17h 10m"
   },
   {
     "title": "Lausanne tenu en échec par les Chypriotes d'Omonia",
-    "added_at": "2025-11-06T22:09:57.329Z"
+    "added_at": "2025-11-06T22:09:57.329Z",
+    "removed_at": "2025-11-08T14:51:42.391Z",
+    "duration_minutes": 2441,
+    "duration_str": "1d 16h 41m"
   },
   {
     "title": "Les actionnaires de Tesla acceptent à 75% un plan de rémunération colossal pour Elon Musk",
@@ -62087,7 +62093,10 @@
   },
   {
     "title": "Avec \"Bel Horizon\", Florian Sägesser raconte une région à travers une maison centenaire",
-    "added_at": "2025-11-07T08:01:42.826Z"
+    "added_at": "2025-11-07T08:01:42.826Z",
+    "removed_at": "2025-11-08T15:14:24.201Z",
+    "duration_minutes": 1872,
+    "duration_str": "1d 7h 12m"
   },
   {
     "title": "La reprise de bombardements israéliens massifs sur le Liban fait craindre une nouvelle escalade",
@@ -62365,5 +62374,35 @@
   {
     "title": "Spectaculaires travaux de réfection des paravalanches au-dessus de Montreux",
     "added_at": "2025-11-08T13:39:43.859Z"
+  },
+  {
+    "title": "L'Ajoie célèbre le cochon avec la fête de la Saint-Martin",
+    "added_at": "2025-11-08T14:38:26.242Z"
+  },
+  {
+    "title": "Certains voyageurs paient leur billets de train trop chers en Suisse",
+    "added_at": "2025-11-08T14:42:16.635Z",
+    "removed_at": "2025-11-08T14:57:22.920Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "Travail et vie privée: le choc des générations",
+    "added_at": "2025-11-08T14:51:42.391Z"
+  },
+  {
+    "title": "Certains voyageurs paient leur billets de train trop cher en Suisse",
+    "added_at": "2025-11-08T14:57:22.920Z",
+    "removed_at": "2025-11-08T15:31:24.826Z",
+    "duration_minutes": 34,
+    "duration_str": "34m"
+  },
+  {
+    "title": "Quelle majorité pour le Gouvernement jurassien? La population appelée aux urnes dimanche",
+    "added_at": "2025-11-08T15:14:24.201Z"
+  },
+  {
+    "title": "Certains voyageurs paient leurs billets de train trop cher en Suisse",
+    "added_at": "2025-11-08T15:31:24.826Z"
   }
 ]
