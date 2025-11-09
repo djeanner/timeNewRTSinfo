@@ -46688,7 +46688,10 @@
   },
   {
     "title": "economie:::Les balançoires se vident, les EMS se remplissent",
-    "added_at": "2025-11-04T05:59:54.259Z"
+    "added_at": "2025-11-04T05:59:54.259Z",
+    "removed_at": "2025-11-09T12:02:56.603Z",
+    "duration_minutes": 7563,
+    "duration_str": "5d 6h 3m"
   },
   {
     "title": "monde:::Aux Pays-Bas, le pari du centriste Rob Jetten, qui a infligé une défaite au leader d’extrême droite Geert Wilders",
@@ -48010,11 +48013,17 @@
   },
   {
     "title": "monde:::Moyen-Orient – La dépouille rendue vendredi à Israël a été identifiée",
-    "added_at": "2025-11-09T07:43:46.838Z"
+    "added_at": "2025-11-09T07:43:46.838Z",
+    "removed_at": "2025-11-09T11:59:12.655Z",
+    "duration_minutes": 255,
+    "duration_str": "4h 15m"
   },
   {
     "title": "monde:::En Birmanie, la junte affirme démolir une usine à arnaques en ligne",
-    "added_at": "2025-11-09T08:29:06.259Z"
+    "added_at": "2025-11-09T08:29:06.259Z",
+    "removed_at": "2025-11-09T12:02:56.603Z",
+    "duration_minutes": 213,
+    "duration_str": "3h 33m"
   },
   {
     "title": "culture:::Dans «Allô la Place», Nassera Tamer se demande comment communiquer avec les siens au loin",
@@ -48029,7 +48038,10 @@
   },
   {
     "title": "economie:::En Suisse romande, les salariés sexagénaires se font rares",
-    "added_at": "2025-11-09T09:59:57.418Z"
+    "added_at": "2025-11-09T09:59:57.418Z",
+    "removed_at": "2025-11-09T12:10:33.228Z",
+    "duration_minutes": 130,
+    "duration_str": "2h 10m"
   },
   {
     "title": "suisse:::Les opposants au méga abattoir de Migros à St-Aubin ont été déboutés",
@@ -48046,5 +48058,42 @@
   {
     "title": "suisse:::«Déçu et surpris», le PDG de Stadler Rail envisage un recours sur l’attribution des rames CFF à l’Allemand Siemens",
     "added_at": "2025-11-09T10:33:58.401Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Les restes du soldat israélien Hadar Goldin remis 11 ans après sa mort",
+    "added_at": "2025-11-09T11:59:12.655Z"
+  },
+  {
+    "title": "monde:::50 ans d'indépendance en Angola: quand la protestation passait par la chanson",
+    "added_at": "2025-11-09T12:02:56.603Z"
+  },
+  {
+    "title": "monde:::L’Angola panse ses plaies après quatre siècles de colonisation et quatre décennies de guerre civile",
+    "added_at": "2025-11-09T12:02:56.603Z"
+  },
+  {
+    "title": "suisse:::En direct – Le second tour de l’élection au Gouvernement jurassien: le candidat UDC Fred-Henri Schnegg est bien placé",
+    "added_at": "2025-11-09T12:10:33.228Z",
+    "removed_at": "2025-11-09T12:21:52.788Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "suisse:::En direct – Le second tour de l’élection au Gouvernement jurassien: les sortants Stéphane Theurillat et Rosalie Beuret Siess bien placés",
+    "added_at": "2025-11-09T12:21:52.788Z",
+    "removed_at": "2025-11-09T12:40:44.000Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
+  },
+  {
+    "title": "suisse:::En direct – Le second tour de l’élection au Gouvernement jurassien: le Parti chrétien-social indépendant va sortir de l’exécutif",
+    "added_at": "2025-11-09T12:40:44.000Z",
+    "removed_at": "2025-11-09T12:55:55.360Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "suisse:::En direct – Le second tour de l’élection au Gouvernement jurassien: à cette heure, le Jura vire à droite",
+    "added_at": "2025-11-09T12:55:55.360Z"
   }
 ]
