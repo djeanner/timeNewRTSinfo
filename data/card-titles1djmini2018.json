@@ -61656,7 +61656,10 @@
   },
   {
     "title": "L'invité de La Matinale (vidéo) - Richard Werly, journaliste suisse et auteur du livre \"Cette Amérique qui nous déteste\"",
-    "added_at": "2025-11-05T16:21:48.830Z"
+    "added_at": "2025-11-05T16:21:48.830Z",
+    "removed_at": "2025-11-10T18:22:49.368Z",
+    "duration_minutes": 7321,
+    "duration_str": "5d 2h 1m"
   },
   {
     "title": "Derrière les prouesses de l'IA, l'exploitation de travailleurs invisibles",
@@ -62035,10 +62038,7 @@
   },
   {
     "title": "120 secondes – Lieutenant Kévin Ducet, enseignant à la nouvelle école de police en Valais",
-    "added_at": "2025-11-06T17:23:53.891Z",
-    "removed_at": "2025-11-10T07:14:49.448Z",
-    "duration_minutes": 5150,
-    "duration_str": "3d 13h 50m"
+    "added_at": "2025-11-06T17:23:53.891Z"
   },
   {
     "title": "Sommet des chefs d'Etat à Belém (Brésil) avant le coup d'envoi de la COP30 lundi",
@@ -62077,10 +62077,7 @@
   },
   {
     "title": "Si l'initiative solaire des Vert-e-s passe, le réseau tiendra-t-il? Interview d’Alain Sapin",
-    "added_at": "2025-11-06T20:21:59.854Z",
-    "removed_at": "2025-11-10T17:05:01.378Z",
-    "duration_minutes": 5563,
-    "duration_str": "3d 20h 43m"
+    "added_at": "2025-11-06T20:21:59.854Z"
   },
   {
     "title": "Fribourg votera sur l'instauration d'un salaire minimum de 4000 francs",
@@ -62571,11 +62568,17 @@
   },
   {
     "title": "Spectaculaires travaux de réfection des paravalanches au-dessus de Montreux",
-    "added_at": "2025-11-08T13:39:43.859Z"
+    "added_at": "2025-11-08T13:39:43.859Z",
+    "removed_at": "2025-11-10T19:54:00.501Z",
+    "duration_minutes": 3254,
+    "duration_str": "2d 6h 14m"
   },
   {
     "title": "L'Ajoie célèbre le cochon avec la fête de la Saint-Martin",
-    "added_at": "2025-11-08T14:38:26.242Z"
+    "added_at": "2025-11-08T14:38:26.242Z",
+    "removed_at": "2025-11-10T18:00:08.325Z",
+    "duration_minutes": 3081,
+    "duration_str": "2d 3h 21m"
   },
   {
     "title": "Certains voyageurs paient leur billets de train trop chers en Suisse",
@@ -62608,7 +62611,10 @@
   },
   {
     "title": "Les montres",
-    "added_at": "2025-11-08T17:19:19.151Z"
+    "added_at": "2025-11-08T17:19:19.151Z",
+    "removed_at": "2025-11-10T18:22:49.368Z",
+    "duration_minutes": 2943,
+    "duration_str": "2d 1h 3m"
   },
   {
     "title": "Le Canton de Vaud critiqué pour ses économies dans l'accueil des migrants",
@@ -62627,7 +62633,10 @@
   },
   {
     "title": "Le fabricant Logitech touché par une cyberattaque visant une dizaine d’entreprises internationales",
-    "added_at": "2025-11-08T20:02:08.486Z"
+    "added_at": "2025-11-08T20:02:08.486Z",
+    "removed_at": "2025-11-10T20:01:31.976Z",
+    "duration_minutes": 2879,
+    "duration_str": "1d 23h 59m"
   },
   {
     "title": "Un faux Pierre-Yves Maillard sur les réseaux sociaux révèle les lacunes juridiques autour des \"deepfakes\"",
@@ -62853,7 +62862,10 @@
   },
   {
     "title": "Une manifestation à Lausanne dénonce les conditions d’accueil des migrants du canton de Vaud",
-    "added_at": "2025-11-10T04:09:32.229Z"
+    "added_at": "2025-11-10T04:09:32.229Z",
+    "removed_at": "2025-11-10T18:01:58.306Z",
+    "duration_minutes": 832,
+    "duration_str": "13h 52m"
   },
   {
     "title": "Le procès de l'incendie du restaurant Botta au Glacier 3000 s'ouvre à Vevey",
@@ -63049,5 +63061,42 @@
   {
     "title": "\"Il est temps d'infliger une nouvelle défaite aux négationnistes\" du climat, défend Lula",
     "added_at": "2025-11-10T17:31:33.317Z"
+  },
+  {
+    "title": "La Suisse se rapprocherait d'un accord amélioré sur les droits de douane américains à 15%",
+    "added_at": "2025-11-10T18:00:08.325Z",
+    "removed_at": "2025-11-10T18:01:58.306Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "La Suisse serait proche d'un accord amélioré sur les droits de douane américains à 15%",
+    "added_at": "2025-11-10T18:01:58.306Z",
+    "removed_at": "2025-11-10T18:05:48.929Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "La Suisse serait proche d'un accord amélioré sur les droits de douane américains à 15%, selon Bloomberg",
+    "added_at": "2025-11-10T18:05:48.929Z",
+    "removed_at": "2025-11-10T18:13:19.621Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "La Suisse serait proche d'un accord sur les droits de douane américains à 15%, selon Bloomberg",
+    "added_at": "2025-11-10T18:13:19.621Z"
+  },
+  {
+    "title": "Ouverture du procès d'une restauratrice après l'incendie Glacier 3000 en 2022",
+    "added_at": "2025-11-10T18:22:49.368Z"
+  },
+  {
+    "title": "Démissions à la tête de la BBC, après un montage contesté d'un discours de Trump",
+    "added_at": "2025-11-10T18:22:49.368Z"
+  },
+  {
+    "title": "Oleksandra Matviichuk: \"Si nous arrêtons notre résistance à l'agression russe, nous cesserons d'exister\"",
+    "added_at": "2025-11-10T19:54:00.501Z"
   }
 ]
