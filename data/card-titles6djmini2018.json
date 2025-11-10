@@ -61373,7 +61373,10 @@
   },
   {
     "title": "Super Typhoon Fung-wong makes landfall in Philippines, two killed",
-    "added_at": "2025-11-09T14:09:49.524Z"
+    "added_at": "2025-11-09T14:09:49.524Z",
+    "removed_at": "2025-11-10T00:43:21.443Z",
+    "duration_minutes": 633,
+    "duration_str": "10h 33m"
   },
   {
     "title": "US government shutdown enters 40th day: How is it affecting Americans?",
@@ -61425,10 +61428,7 @@
   },
   {
     "title": "Ukraine drone strikes throw power supplies into disarray in Russian cities",
-    "added_at": "2025-11-09T19:31:02.466Z",
-    "removed_at": "2025-11-09T23:01:11.751Z",
-    "duration_minutes": 210,
-    "duration_str": "3h 30m"
+    "added_at": "2025-11-09T19:31:02.466Z"
   },
   {
     "title": "BBC boss Tim Davie resigns after criticism over Trump speech edit",
@@ -61436,10 +61436,17 @@
   },
   {
     "title": "Sudan medics accuse RSF of burning, burying bodies to conceal ‘genocide’",
-    "added_at": "2025-11-09T22:48:02.148Z"
+    "added_at": "2025-11-09T22:48:02.148Z",
+    "removed_at": "2025-11-10T00:43:21.443Z",
+    "duration_minutes": 115,
+    "duration_str": "1h 55m"
   },
   {
     "title": "Hungarian leader Orban says he secured ‘financial shield’ from Trump",
     "added_at": "2025-11-09T23:01:11.751Z"
+  },
+  {
+    "title": "Russia-Ukraine war: List of key events, day 1,355",
+    "added_at": "2025-11-10T00:43:21.443Z"
   }
 ]

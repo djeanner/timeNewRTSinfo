@@ -48046,7 +48046,10 @@
   },
   {
     "title": "monde:::En direct, Guerre en Ukraine − 20 000 personnes sans électricité en Russie",
-    "added_at": "2025-11-09T09:33:27.694Z"
+    "added_at": "2025-11-09T09:33:27.694Z",
+    "removed_at": "2025-11-09T23:16:30.632Z",
+    "duration_minutes": 823,
+    "duration_str": "13h 43m"
   },
   {
     "title": "economie:::En Suisse romande, les salariés sexagénaires se font rares",
@@ -48261,7 +48264,10 @@
   },
   {
     "title": "monde:::Tim Davie, le directeur de la BBC, démissionne après la diffusion d’un documentaire au montage controversé sur Donald Trump",
-    "added_at": "2025-11-09T19:08:19.880Z"
+    "added_at": "2025-11-09T19:08:19.880Z",
+    "removed_at": "2025-11-10T00:35:50.294Z",
+    "duration_minutes": 327,
+    "duration_str": "5h 27m"
   },
   {
     "title": "monde:::Un an après l’attaque du marché de Noël, Magdebourg traumatisée juge un assaillant au profil «inhabituel»",
@@ -48274,5 +48280,24 @@
   {
     "title": "monde:::Moyen-Orient – Notre suivi de la semaine du 3 novembre",
     "added_at": "2025-11-09T22:59:20.825Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine − Notre suivi de la semaine du 3 novembre",
+    "added_at": "2025-11-09T23:16:30.632Z"
+  },
+  {
+    "title": "monde:::Le directeur de la BBC démissionne après la diffusion d’un documentaire au montage controversé sur Donald Trump",
+    "added_at": "2025-11-10T00:35:50.294Z"
+  },
+  {
+    "title": "monde:::Aux Etats-Unis, le Sénat trouve un accord en vue de mettre fin au shutdown",
+    "added_at": "2025-11-10T01:11:40.528Z",
+    "removed_at": "2025-11-10T01:13:34.398Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "monde:::Aux Etats-Unis, le Sénat trouve un accord pour mettre fin au shutdown",
+    "added_at": "2025-11-10T01:13:34.398Z"
   }
 ]
