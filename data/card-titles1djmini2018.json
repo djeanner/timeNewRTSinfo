@@ -62035,7 +62035,10 @@
   },
   {
     "title": "120 secondes – Lieutenant Kévin Ducet, enseignant à la nouvelle école de police en Valais",
-    "added_at": "2025-11-06T17:23:53.891Z"
+    "added_at": "2025-11-06T17:23:53.891Z",
+    "removed_at": "2025-11-10T07:14:49.448Z",
+    "duration_minutes": 5150,
+    "duration_str": "3d 13h 50m"
   },
   {
     "title": "Sommet des chefs d'Etat à Belém (Brésil) avant le coup d'envoi de la COP30 lundi",
@@ -62250,7 +62253,10 @@
   },
   {
     "title": "L'allemand Siemens Mobility décroche un contrat de deux milliards des CFF au détriment de Stadler",
-    "added_at": "2025-11-07T12:39:46.506Z"
+    "added_at": "2025-11-07T12:39:46.506Z",
+    "removed_at": "2025-11-10T06:59:44.411Z",
+    "duration_minutes": 3979,
+    "duration_str": "2d 18h 19m"
   },
   {
     "title": "Le Nord Vaudois publie son premier numéro avec un ancrage résolument régional",
@@ -62739,9 +62745,9 @@
   {
     "title": "Une dizaine de personnes interpellées en France après le braquage de l’entreprise Werthanor au Locle en février",
     "added_at": "2025-11-09T18:03:49.054Z",
-    "removed_at": "2025-11-10T04:11:28.510Z",
-    "duration_minutes": 607,
-    "duration_str": "10h 7m"
+    "removed_at": "2025-11-10T08:22:48.519Z",
+    "duration_minutes": 858,
+    "duration_str": "14h 18m"
   },
   {
     "title": "La Session fédérale des Jeunes adopte 11 revendications à Berne",
@@ -62776,5 +62782,9 @@
     "removed_at": "2025-11-10T04:11:28.510Z",
     "duration_minutes": 1,
     "duration_str": "1m"
+  },
+  {
+    "title": "Le procès de l'incendie du restaurant Botta au Glacier 3000 s'ouvre à Vevey",
+    "added_at": "2025-11-10T06:59:44.411Z"
   }
 ]
