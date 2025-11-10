@@ -61351,7 +61351,10 @@
   },
   {
     "title": "Special vote under way for forces and displaced in Iraq parliamentary polls",
-    "added_at": "2025-11-09T13:03:25.929Z"
+    "added_at": "2025-11-09T13:03:25.929Z",
+    "removed_at": "2025-11-10T02:23:40.728Z",
+    "duration_minutes": 800,
+    "duration_str": "13h 20m"
   },
   {
     "title": "Super Typhoon Fung-wong kills two as it nears Philippines",
@@ -61409,7 +61412,10 @@
   },
   {
     "title": "Seven dead, hundreds missing after migrant boat sinks off Malaysian coast",
-    "added_at": "2025-11-09T17:22:11.160Z"
+    "added_at": "2025-11-09T17:22:11.160Z",
+    "removed_at": "2025-11-10T03:22:10.885Z",
+    "duration_minutes": 599,
+    "duration_str": "9h 59m"
   },
   {
     "title": "Manchester City up to second after easing to 3-0 win over Liverpool",
@@ -61436,10 +61442,7 @@
   },
   {
     "title": "Sudan medics accuse RSF of burning, burying bodies to conceal ‘genocide’",
-    "added_at": "2025-11-09T22:48:02.148Z",
-    "removed_at": "2025-11-10T00:43:21.443Z",
-    "duration_minutes": 115,
-    "duration_str": "1h 55m"
+    "added_at": "2025-11-09T22:48:02.148Z"
   },
   {
     "title": "Hungarian leader Orban says he secured ‘financial shield’ from Trump",
@@ -61448,5 +61451,16 @@
   {
     "title": "Russia-Ukraine war: List of key events, day 1,355",
     "added_at": "2025-11-10T00:43:21.443Z"
+  },
+  {
+    "title": "Airlines cancel 3,200 US flights amid fears travel could ‘slow to trickle’",
+    "added_at": "2025-11-10T03:22:10.885Z",
+    "removed_at": "2025-11-10T03:43:00.849Z",
+    "duration_minutes": 20,
+    "duration_str": "20m"
+  },
+  {
+    "title": "Airlines cancel 3,300 US flights amid fears travel could ‘slow to trickle’",
+    "added_at": "2025-11-10T03:43:00.849Z"
   }
 ]
