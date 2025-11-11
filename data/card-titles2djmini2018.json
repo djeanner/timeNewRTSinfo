@@ -48383,7 +48383,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Des coupures de courant persistent après des frappes en Ukraine",
-    "added_at": "2025-11-10T05:04:18.526Z"
+    "added_at": "2025-11-10T05:04:18.526Z",
+    "removed_at": "2025-11-11T04:45:36.468Z",
+    "duration_minutes": 1421,
+    "duration_str": "23h 41m"
   },
   {
     "title": "sciences:::Le démarrage de la COP30, une «formidable vitrine» pour Belém, qui espère tirer profit de la lutte pour le climat",
@@ -48501,7 +48504,10 @@
   },
   {
     "title": "economie:::Samuel Vuadens à propos du choix des CFF pour des nouvelles rames: «Nous demandons la reconnaissance de l’excellence technologique suisse»",
-    "added_at": "2025-11-10T16:38:32.619Z"
+    "added_at": "2025-11-10T16:38:32.619Z",
+    "removed_at": "2025-11-11T05:17:41.083Z",
+    "duration_minutes": 759,
+    "duration_str": "12h 39m"
   },
   {
     "title": "monde:::La remise en liberté de Nicolas Sarkozy validée par la cour d’appell",
@@ -48531,7 +48537,10 @@
   },
   {
     "title": "monde:::Au procès du marché de Noël de Magdebourg, l’accusé se lance dans une diatribe complotiste",
-    "added_at": "2025-11-10T18:07:39.151Z"
+    "added_at": "2025-11-10T18:07:39.151Z",
+    "removed_at": "2025-11-11T04:17:16.881Z",
+    "duration_minutes": 609,
+    "duration_str": "10h 9m"
   },
   {
     "title": "suisse:::A contrecœur, le procureur requiert 30 jours-amendes avec sursis dans l’affaire de l’incendie de Glacier 3000",
@@ -48539,19 +48548,31 @@
   },
   {
     "title": "sport:::A Crissier, une heure avec Manuel Akanji avant la Nati",
-    "added_at": "2025-11-10T18:57:11.581Z"
+    "added_at": "2025-11-10T18:57:11.581Z",
+    "removed_at": "2025-11-11T04:15:22.922Z",
+    "duration_minutes": 558,
+    "duration_str": "9h 18m"
   },
   {
     "title": "suisse:::La Confédération obtient un rabais pour les drones dysfonctionnels et externalise le contrôle des risques de ses grands projets de défense",
-    "added_at": "2025-11-10T19:00:56.054Z"
+    "added_at": "2025-11-10T19:00:56.054Z",
+    "removed_at": "2025-11-11T04:15:22.922Z",
+    "duration_minutes": 554,
+    "duration_str": "9h 14m"
   },
   {
     "title": "culture:::Antoine Wauters: «L’écriture est un lieu de contact avec ce qui n’est plus»",
-    "added_at": "2025-11-10T19:27:25.491Z"
+    "added_at": "2025-11-10T19:27:25.491Z",
+    "removed_at": "2025-11-11T04:13:33.039Z",
+    "duration_minutes": 526,
+    "duration_str": "8h 46m"
   },
   {
     "title": "suisse:::L’attribution du mandat des CFF à Siemens ne passe pas",
-    "added_at": "2025-11-10T19:38:47.922Z"
+    "added_at": "2025-11-10T19:38:47.922Z",
+    "removed_at": "2025-11-11T05:17:41.083Z",
+    "duration_minutes": 578,
+    "duration_str": "9h 38m"
   },
   {
     "title": "economie:::Il y a 100 ans naissait Migros: une révolution en marche?",
@@ -48579,5 +48600,40 @@
   {
     "title": "monde:::En direct, Moyen-Orient – La Syrie rejoint la coalition antidjihadiste après une visite historique à Washington",
     "added_at": "2025-11-11T03:20:28.124Z"
+  },
+  {
+    "title": "culture:::Patrick Modiano, un cours de spéléologie artistique dans le vieux Montparnasse",
+    "added_at": "2025-11-11T04:13:33.039Z"
+  },
+  {
+    "title": "culture:::A Genève, des marionnettes racontent avec brio comment redevenir une créature de la forêt",
+    "added_at": "2025-11-11T04:13:33.039Z"
+  },
+  {
+    "title": "sciences:::Aux prises avec une épidémie qu’il n’arrive pas à stopper, le Canada perd son statut de pays ayant éradiqué la rougeole",
+    "added_at": "2025-11-11T04:15:22.922Z"
+  },
+  {
+    "title": "monde:::Fin possible du «shutdown: les démocrates américains face à leurs contradictions",
+    "added_at": "2025-11-11T04:15:22.922Z",
+    "removed_at": "2025-11-11T04:39:56.053Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "monde:::Le Sénat américain approuve un texte pour mettre fin à la paralysie budgétaire",
+    "added_at": "2025-11-11T04:39:56.053Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Une opération anticorruption lancée dans le secteur énergétique",
+    "added_at": "2025-11-11T04:45:36.468Z"
+  },
+  {
+    "title": "monde:::L’Union européenne complique l’entrée des Russes sur son territoire",
+    "added_at": "2025-11-11T05:17:41.083Z"
+  },
+  {
+    "title": "monde:::«Comme s’ils sortaient d’une secte»: le désendoctrinement des enfants rapatriés en Ukraine depuis la Russie",
+    "added_at": "2025-11-11T05:38:31.139Z"
   }
 ]
