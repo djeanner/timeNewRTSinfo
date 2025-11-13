@@ -63583,11 +63583,17 @@
   },
   {
     "title": "Un espion au buffet? L'attaché militaire chinois présent à une rencontre sur l'armement à Berne",
-    "added_at": "2025-11-11T15:25:37.857Z"
+    "added_at": "2025-11-11T15:25:37.857Z",
+    "removed_at": "2025-11-13T17:47:44.641Z",
+    "duration_minutes": 3022,
+    "duration_str": "2d 2h 22m"
   },
   {
     "title": "Dans l'est de l'Ukraine, vers une chute imminente de la ville de Pokrovsk?",
-    "added_at": "2025-11-11T15:36:56.851Z"
+    "added_at": "2025-11-11T15:36:56.851Z",
+    "removed_at": "2025-11-13T18:25:33.280Z",
+    "duration_minutes": 3048,
+    "duration_str": "2d 2h 48m"
   },
   {
     "title": "La restauratrice accusée d'incendie par négligence au restaurant de Glacier 3000 acquittée",
@@ -63644,7 +63650,10 @@
   },
   {
     "title": "Un foyer exclusivement destiné aux femmes migrantes ouvrira à l'été 2026 à Lausanne",
-    "added_at": "2025-11-11T19:18:31.900Z"
+    "added_at": "2025-11-11T19:18:31.900Z",
+    "removed_at": "2025-11-13T18:38:48.902Z",
+    "duration_minutes": 2840,
+    "duration_str": "1d 23h 20m"
   },
   {
     "title": "Le secrétaire exécutif de l’ONU pour le climat met en avant le coût économique de l’inaction",
@@ -63676,7 +63685,10 @@
   },
   {
     "title": "L'invité de La Matinale - David Castello-Lopes, journaliste, humoriste et vidéaste franco-portugais",
-    "added_at": "2025-11-11T21:23:35.282Z"
+    "added_at": "2025-11-11T21:23:35.282Z",
+    "removed_at": "2025-11-13T18:44:29.633Z",
+    "duration_minutes": 2720,
+    "duration_str": "1d 21h 20m"
   },
   {
     "title": "Les cadeaux et les négociations de grands patrons suisses avec Donald Trump interrogent",
@@ -64143,5 +64155,31 @@
   {
     "title": "La Ville de Zurich défie le canton et vote pour l'accueil d'enfants gazaouis blessés",
     "added_at": "2025-11-13T16:48:55.592Z"
+  },
+  {
+    "title": "L'Etat de Vaud va réinjecter 17 millions pour aider les vignerons",
+    "added_at": "2025-11-13T17:47:44.641Z"
+  },
+  {
+    "title": "Cadeaux offerts à Donald Trump: l'interview de Deborah Hondius, avocate spécialisée en criminalité économique",
+    "added_at": "2025-11-13T18:02:51.521Z",
+    "removed_at": "2025-11-13T19:16:38.974Z",
+    "duration_minutes": 73,
+    "duration_str": "1h 13m"
+  },
+  {
+    "title": "Le PS a-t-il poussé Emmanuel Amoos à lâcher le service citoyen?",
+    "added_at": "2025-11-13T18:38:48.902Z"
+  },
+  {
+    "title": "Le groupe Etat Islamique existe-t-il toujours ?",
+    "added_at": "2025-11-13T18:42:35.135Z",
+    "removed_at": "2025-11-13T18:44:29.633Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "120 secondes - Les conséquences des coupes budgétaires pour les EMS vaudois",
+    "added_at": "2025-11-13T18:42:35.135Z"
   }
 ]
