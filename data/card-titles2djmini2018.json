@@ -6448,7 +6448,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:00:57.917Z"
+    "added_at": "2025-05-22T18:00:57.917Z",
+    "removed_at": "2025-11-14T07:08:10.686Z",
+    "duration_minutes": 252787,
+    "duration_str": "175d 13h 7m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -49383,10 +49386,7 @@
   },
   {
     "title": "monde:::Ils payaient pour tuer des enfants: les touristes des «safaris» du siège de Sarajevo devant la justice italienne",
-    "added_at": "2025-11-13T17:32:39.283Z",
-    "removed_at": "2025-11-14T06:03:46.232Z",
-    "duration_minutes": 751,
-    "duration_str": "12h 31m"
+    "added_at": "2025-11-13T17:32:39.283Z"
   },
   {
     "title": "suisse:::A Genève, quand la ville coupe ses aides, le milieu culturel grince et fait le dos rond",
@@ -49456,7 +49456,10 @@
   },
   {
     "title": "cyber:::Ce n’est plus un fantasme: avec ses robots-taxis Waymo, Google accélère pour conquérir la planète",
-    "added_at": "2025-11-14T05:16:35.610Z"
+    "added_at": "2025-11-14T05:16:35.610Z",
+    "removed_at": "2025-11-14T08:16:09.190Z",
+    "duration_minutes": 179,
+    "duration_str": "2h 59m"
   },
   {
     "title": "suisse:::Des bons pour aller chez le dentiste? La gauche y croit, la droite montre les dents, les Genevois trancheront",
@@ -49486,6 +49489,21 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − A Kiev, une vaste attaque russe fait au moins un mort et une vingtaine de blessés",
-    "added_at": "2025-11-14T06:28:20.320Z"
+    "added_at": "2025-11-14T06:28:20.320Z",
+    "removed_at": "2025-11-14T07:34:35.049Z",
+    "duration_minutes": 66,
+    "duration_str": "1h 6m"
+  },
+  {
+    "title": "monde:::​Bureaux «clonés», images bidonnées et train spécial: la vie secrète de Vladimir Poutine",
+    "added_at": "2025-11-14T07:08:10.686Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Volodymyr Zelensky annonce quatre morts après une vaste attaque russe à Kiev",
+    "added_at": "2025-11-14T07:34:35.049Z"
+  },
+  {
+    "title": "suisse:::Daniel Ducrey, propriétaire du Flon, à Lausanne: «Les villes ont un problème d’attractivité. Trop de gens souhaitent y vivre!»",
+    "added_at": "2025-11-14T09:03:25.965Z"
   }
 ]
