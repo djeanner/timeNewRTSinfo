@@ -47212,7 +47212,10 @@
   },
   {
     "title": "suisse:::Coup de pression sur Migros pour le retour du «lait équitable» dans ses rayons",
-    "added_at": "2025-11-17T16:44:23.402Z"
+    "added_at": "2025-11-17T16:44:23.402Z",
+    "removed_at": "2025-11-17T22:27:24.457Z",
+    "duration_minutes": 343,
+    "duration_str": "5h 43m"
   },
   {
     "title": "suisse:::La méfiance envahissante d’une femme, accusée d’avoir froidement abattu son mari à Vernier",
@@ -47254,10 +47257,17 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Après de nouvelles violences des colons, Benyamin Netanyahou dénonce «une poignée d'extrémistes»",
-    "added_at": "2025-11-17T19:53:11.380Z"
+    "added_at": "2025-11-17T19:53:11.380Z",
+    "removed_at": "2025-11-17T22:27:24.457Z",
+    "duration_minutes": 154,
+    "duration_str": "2h 34m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − La Pologne dénonce le sabotage d'une voie ferrée approvisionnant l'Ukraine",
     "added_at": "2025-11-17T20:32:15.751Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le Conseil de sécurité de l’ONU vote pour une force internationale à Gaza",
+    "added_at": "2025-11-17T22:27:24.457Z"
   }
 ]
