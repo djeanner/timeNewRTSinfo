@@ -48,8 +48,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Israël et l'Autorité palestinienne saluent le feu vert onusien au plan Trump, pas le Hamas",
     "added_at": "2025-11-18T08:52:09.713Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-18T14:57:21.376Z",
+    "duration_minutes": 365,
+    "duration_str": "6h 5m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Volodymyr Zelensky se rendra mercredi en Turquie pour relancer les négociations avec la Russie",
@@ -86,16 +87,17 @@
   },
   {
     "title": "sciences:::Les dépenses de santé en Suisse devraient frôler les 110 milliards en 2027",
-    "added_at": "2025-11-18T10:46:05.465Z",
-    "removed_at": "2025-11-18T12:20:40.453Z",
+    "added_at": "2025-11-18T10:45:47.179Z",
+    "removed_at": "2025-11-18T12:20:24.559Z",
     "duration_minutes": 95,
     "duration_str": "1h 35m"
   },
   {
     "title": "monde:::Benedikt Wechsler, un ambassadeur en Microlino pour représenter l’Unesco et la francophonie à Paris",
-    "added_at": "2025-11-18T10:52:59.286Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-11-18T10:51:27.036Z",
+    "removed_at": "2025-11-18T16:01:54.576Z",
+    "duration_minutes": 310,
+    "duration_str": "5h 10m"
   },
   {
     "title": "economie:::En Suisse, 58% du négoce de matières premières s’effectue dans le canton de Genève",
@@ -112,10 +114,10 @@
   },
   {
     "title": "monde:::Rome accueille la première conférence internationale de l’italophonie au monde, en présence de la Suisse",
-    "added_at": "2025-11-18T12:20:40.453Z",
+    "added_at": "2025-11-18T12:20:24.559Z",
     "removed_at": "2025-11-18T12:39:01.927Z",
-    "duration_minutes": 18,
-    "duration_str": "18m"
+    "duration_minutes": 19,
+    "duration_str": "19m"
   },
   {
     "title": "monde:::Rome accueille la première Conférence internationale de l’italophonie au monde, en présence de la Suisse",
@@ -144,8 +146,9 @@
   {
     "title": "cyber:::De nombreux sites internet paralysés par une panne chez le fournisseur Cloudflare",
     "added_at": "2025-11-18T14:38:45.357Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-18T16:59:22.710Z",
+    "duration_minutes": 141,
+    "duration_str": "2h 21m"
   },
   {
     "title": "economie:::Webinaire: Partir à la conquête du marché indien: mode d’emploi pour PME",
@@ -157,12 +160,64 @@
   {
     "title": "culture:::«The Running Man», la société du spectacle en miroir",
     "added_at": "2025-11-18T14:48:02.566Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-18T15:29:44.216Z",
+    "duration_minutes": 42,
+    "duration_str": "42m"
   },
   {
     "title": "economie:::Webinaire en direct – Partir à la conquête du marché indien: mode d’emploi pour PME",
     "added_at": "2025-11-18T14:50:17.430Z",
+    "removed_at": "2025-11-18T16:06:27.996Z",
+    "duration_minutes": 76,
+    "duration_str": "1h 16m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Au lendemain du vote à l'ONU, une attaque fait un mort et plusieurs blessés en Cisjordanie",
+    "added_at": "2025-11-18T14:57:21.376Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::La très bonne année 2025 de l’agriculture suisse",
+    "added_at": "2025-11-18T15:20:25.278Z",
+    "removed_at": "2025-11-18T16:36:21.263Z",
+    "duration_minutes": 76,
+    "duration_str": "1h 16m"
+  },
+  {
+    "title": "monde:::Quatre-vingts ans plus tard, les leçons de Nuremberg",
+    "added_at": "2025-11-18T16:01:54.576Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Justice pénale internationale: tenir la promesse de Nuremberg",
+    "added_at": "2025-11-18T16:01:54.576Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::Webinaire - Partir à la conquête du marché indien: mode d’emploi pour PME",
+    "added_at": "2025-11-18T16:06:27.996Z",
+    "removed_at": "2025-11-18T16:41:01.340Z",
+    "duration_minutes": 35,
+    "duration_str": "35m"
+  },
+  {
+    "title": "suisse:::Au Palais de justice de Sion, les mots croisés très politiques des avocats Pierre Chiffelle et Jean-Luc Addor",
+    "added_at": "2025-11-18T16:36:21.263Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "culture:::A Genève, Valentin Rossier et Mauro Bellucci excellent dans un duel comique entre un psy et un président de la République",
+    "added_at": "2025-11-18T16:41:01.340Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::«Il n’était pas cette victime parfaite et elle n’était pas ce bourreau intégral». A Genève, deux scénarios pour un crime commis au sein du couple",
+    "added_at": "2025-11-18T16:59:22.710Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
