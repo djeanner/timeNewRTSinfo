@@ -225,8 +225,9 @@
   {
     "title": "NovAsco, l’histoire d’un fiasco industriel français",
     "added_at": "2025-11-18T10:27:43.209Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-18T20:17:49.172Z",
+    "duration_minutes": 590,
+    "duration_str": "9h 50m"
   },
   {
     "title": "Affaire Mbappé contre le PSG : aux prud’hommes, le club réclame 440 millions d’euros au joueur, qui lui demande 263 millions",
@@ -290,9 +291,9 @@
   {
     "title": "Shein se lance dans le livre d’occasion aux Etats-Unis",
     "added_at": "2025-11-18T12:22:15.829Z",
-    "removed_at": "2025-11-18T18:08:38.770Z",
-    "duration_minutes": 346,
-    "duration_str": "5h 46m"
+    "removed_at": "2025-11-18T18:07:11.542Z",
+    "duration_minutes": 345,
+    "duration_str": "5h 45m"
   },
   {
     "title": "Budget 2026 : « L’incapacité des députés à exercer de façon responsable le pouvoir qui leur était offert est lourde de conséquences »",
@@ -366,16 +367,15 @@
   {
     "title": "« Le développement de la recherche en médecine générale est une chance pour la France »",
     "added_at": "2025-11-18T14:11:08.071Z",
-    "removed_at": "2025-11-18T16:08:49.116Z",
-    "duration_minutes": 118,
-    "duration_str": "1h 58m"
+    "removed_at": "2025-11-18T16:07:48.729Z",
+    "duration_minutes": 117,
+    "duration_str": "1h 57m"
   },
   {
     "title": "Altice SFR : la justice française accélère dans l’affaire de corruption, une trentaine de perquisitions menées",
     "added_at": "2025-11-18T14:20:22.605Z",
-    "removed_at": "2025-11-18T16:11:03.972Z",
-    "duration_minutes": 111,
-    "duration_str": "1h 51m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Une panne chez Cloudflare met à l’arrêt une partie du web mondial",
@@ -387,7 +387,7 @@
   {
     "title": "Une panne chez Cloudflare met à l’arrêt une partie du Web mondial",
     "added_at": "2025-11-18T14:43:21.942Z",
-    "removed_at": "2025-11-18T17:50:15.452Z",
+    "removed_at": "2025-11-18T17:50:10.178Z",
     "duration_minutes": 187,
     "duration_str": "3h 7m"
   },
@@ -401,32 +401,34 @@
   {
     "title": "Vivre avec une « ombre qui rôde » : quand le cancer frappe les jeunes adultes",
     "added_at": "2025-11-18T15:05:11.310Z",
-    "removed_at": "2025-11-18T19:59:08.771Z",
-    "duration_minutes": 294,
-    "duration_str": "4h 54m"
+    "removed_at": "2025-11-18T22:33:41.079Z",
+    "duration_minutes": 448,
+    "duration_str": "7h 28m"
   },
   {
     "title": "Contre le RN, LR mène l’offensive sur le seul terrain de  l’économie",
-    "added_at": "2025-11-18T15:43:33.223Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-11-18T15:43:08.276Z",
+    "removed_at": "2025-11-18T17:08:18.092Z",
+    "duration_minutes": 85,
+    "duration_str": "1h 25m"
   },
   {
     "title": "Lutte contre le trafic de drogue : Laurent Nuñez dénonce un « crime d’intimidation » concernant l’assassinat de Mehdi Kessaci",
     "added_at": "2025-11-18T16:01:55.078Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-18T22:03:45.150Z",
+    "duration_minutes": 362,
+    "duration_str": "6h 2m"
   },
   {
     "title": "Budget 2026 : « Pour faire face au déficit de l’assurance-maladie, une des pistes serait de favoriser la prévention »",
-    "added_at": "2025-11-18T16:08:49.116Z",
+    "added_at": "2025-11-18T16:07:48.729Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Narcotrafic : le gouvernement dénonce « un point de bascule » dans la violence des « mafias marseillaises »",
     "added_at": "2025-11-18T16:11:03.972Z",
-    "removed_at": "2025-11-18T16:36:21.764Z",
+    "removed_at": "2025-11-18T16:36:10.568Z",
     "duration_minutes": 25,
     "duration_str": "25m"
   },
@@ -451,35 +453,34 @@
   },
   {
     "title": "Narcotrafic : le gouvernement dénonce un « point de bascule » dans la violence des « mafias marseillaises »",
-    "added_at": "2025-11-18T16:36:21.764Z",
-    "removed_at": "2025-11-18T19:01:37.285Z",
-    "duration_minutes": 145,
-    "duration_str": "2h 25m"
+    "added_at": "2025-11-18T16:36:10.568Z",
+    "removed_at": "2025-11-18T19:00:07.525Z",
+    "duration_minutes": 144,
+    "duration_str": "2h 24m"
   },
   {
     "title": "La maison Hine, le flegme britannique d’un cognac charentais",
-    "added_at": "2025-11-18T16:38:40.612Z",
+    "added_at": "2025-11-18T16:38:00.677Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Fraude aux eaux en bouteille : la justice autorise Perrier à rester en rayons, au grand dam des minéraliers « respectueux des règles »",
-    "added_at": "2025-11-18T17:08:38.741Z",
-    "removed_at": "2025-11-18T19:31:30.377Z",
-    "duration_minutes": 143,
-    "duration_str": "2h 23m"
+    "added_at": "2025-11-18T17:08:18.092Z",
+    "removed_at": "2025-11-18T19:30:23.557Z",
+    "duration_minutes": 142,
+    "duration_str": "2h 22m"
   },
   {
     "title": "La COP30, enjeu existentiel pour les peuples autochtones",
     "added_at": "2025-11-18T17:27:10.914Z",
-    "removed_at": "2025-11-18T19:49:59.407Z",
-    "duration_minutes": 143,
-    "duration_str": "2h 23m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Lady Gaga en héroïne shakespearienne XXL pour sa tournée",
     "added_at": "2025-11-18T17:34:05.444Z",
-    "removed_at": "2025-11-18T18:36:18.160Z",
+    "removed_at": "2025-11-18T18:35:36.087Z",
     "duration_minutes": 62,
     "duration_str": "1h 2m"
   },
@@ -491,17 +492,17 @@
   },
   {
     "title": "« Retour à la nomale » en cours chez Cloudflare, après une importante panne qui a mis à l’arrêt une partie du Web mondial",
-    "added_at": "2025-11-18T17:50:15.452Z",
+    "added_at": "2025-11-18T17:50:10.178Z",
     "removed_at": "2025-11-18T18:31:39.424Z",
     "duration_minutes": 41,
     "duration_str": "41m"
   },
   {
     "title": "« Retour à la normale » en cours chez Cloudflare, après une importante panne qui a mis à l’arrêt une partie du Web mondial",
-    "added_at": "2025-11-18T17:54:48.864Z",
+    "added_at": "2025-11-18T17:53:54.844Z",
     "removed_at": "2025-11-18T17:57:09.865Z",
-    "duration_minutes": 2,
-    "duration_str": "2m"
+    "duration_minutes": 3,
+    "duration_str": "3m"
   },
   {
     "title": "Retour à la normale chez Cloudflare, après une importante panne qui a mis à l’arrêt une partie du Web mondial",
@@ -518,29 +519,29 @@
   },
   {
     "title": "Margaret Atwood : « Les romanciers n’en savent pas plus que les autres sur la nature humaine. Souvent, ils en savent même moins »",
-    "added_at": "2025-11-18T18:08:38.770Z",
+    "added_at": "2025-11-18T18:07:11.542Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Le show gothique grandiose de Lady Gaga, dans une tournée XXL",
-    "added_at": "2025-11-18T18:36:18.160Z",
-    "removed_at": "2025-11-18T19:08:31.513Z",
+    "added_at": "2025-11-18T18:35:36.087Z",
+    "removed_at": "2025-11-18T19:07:41.923Z",
     "duration_minutes": 32,
     "duration_str": "32m"
   },
   {
     "title": "En Russie, l’ancienne élite libérale se rapproche du discours anti-européen du Kremlin",
-    "added_at": "2025-11-18T19:01:37.285Z",
+    "added_at": "2025-11-18T19:00:07.525Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Meta remporte une victoire majeure et ne devra pas vendre WhatsApp ou Instagram",
-    "added_at": "2025-11-18T19:08:31.513Z",
+    "added_at": "2025-11-18T19:07:41.923Z",
     "removed_at": "2025-11-18T19:15:26.910Z",
-    "duration_minutes": 7,
-    "duration_str": "7m"
+    "duration_minutes": 8,
+    "duration_str": "8m"
   },
   {
     "title": "Meta remporte une victoire majeure et ne devra pas vendre WhatsApp ni Instagram",
@@ -550,13 +551,44 @@
   },
   {
     "title": "« Ma mère m’a portée sur son dos, sous les tirs des bandits » : à Haïti, les alentours de Port-au-Prince assaillis par les gangs",
-    "added_at": "2025-11-18T19:31:30.377Z",
+    "added_at": "2025-11-18T19:30:23.557Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Affaire Epstein : la Chambre des représentants vote pour la publication des documents d’enquête",
     "added_at": "2025-11-18T19:59:08.771Z",
+    "removed_at": "2025-11-18T20:01:37.635Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Affaire Epstein : la Chambre des représentants américaine vote pour la publication des documents d’enquête",
+    "added_at": "2025-11-18T20:01:37.635Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "L’accord de 1968, au cœur du contentieux franco-algérien sur l’immigration",
+    "added_at": "2025-11-18T20:06:13.523Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Doit-on vraiment réguler Vinted, Temu ou Amazon comme des plateformes pornographiques ?",
+    "added_at": "2025-11-18T20:06:13.523Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Les limites des « cellules de déontologie », juges et partie des manquements au sein de la police",
+    "added_at": "2025-11-18T20:20:04.584Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "En direct : au moins treize morts dans une frappe israélienne sur un camp de réfugiés palestiniens au Liban",
+    "added_at": "2025-11-18T22:05:59.742Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
