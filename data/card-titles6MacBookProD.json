@@ -56427,7 +56427,10 @@
   },
   {
     "title": "UN Security Council passes US resolution backing Gaza international force",
-    "added_at": "2025-11-17T22:48:07.167Z"
+    "added_at": "2025-11-17T22:48:07.167Z",
+    "removed_at": "2025-11-17T23:38:47.757Z",
+    "duration_minutes": 50,
+    "duration_str": "50m"
   },
   {
     "title": "Calls for answers grow over Canada’s interrogation of Israel critic",
@@ -56440,5 +56443,9 @@
   {
     "title": "US Fed Governor Cook offers detailed defence in mortgage fraud case",
     "added_at": "2025-11-17T23:11:02.767Z"
+  },
+  {
+    "title": "UN Security Council passes US resolution backing international Gaza force",
+    "added_at": "2025-11-17T23:38:47.757Z"
   }
 ]
