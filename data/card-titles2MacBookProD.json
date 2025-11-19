@@ -47731,7 +47731,10 @@
   },
   {
     "title": "sciences:::Comment une reine fourmi peut pousser une colonie au matricide pour parasiter son nid",
-    "added_at": "2025-11-19T06:35:13.197Z"
+    "added_at": "2025-11-19T06:35:13.197Z",
+    "removed_at": "2025-11-19T16:39:27.091Z",
+    "duration_minutes": 604,
+    "duration_str": "10h 4m"
   },
   {
     "title": "economie:::Quel avenir pour le ski en Suisse? Une nouvelle plateforme permet d’orienter les destinations",
@@ -47753,7 +47756,10 @@
   },
   {
     "title": "suisse:::A Genève, le casse-tête de la Course de l’Escalade face aux règles de protection des arbres",
-    "added_at": "2025-11-19T08:18:59.008Z"
+    "added_at": "2025-11-19T08:18:59.008Z",
+    "removed_at": "2025-11-19T17:23:29.647Z",
+    "duration_minutes": 544,
+    "duration_str": "9h 4m"
   },
   {
     "title": "culture:::Ella Rumpf, d’autres vies que la sienne",
@@ -47764,7 +47770,10 @@
   },
   {
     "title": "sport:::Le second âge d’or de la Nati",
-    "added_at": "2025-11-19T09:28:31.448Z"
+    "added_at": "2025-11-19T09:28:31.448Z",
+    "removed_at": "2025-11-19T16:39:27.091Z",
+    "duration_minutes": 430,
+    "duration_str": "7h 10m"
   },
   {
     "title": "monde:::De paria à allié chéri, la normalisation des relations américaines avec le prince héritier saoudien MBS est achevée",
@@ -47801,7 +47810,10 @@
   },
   {
     "title": "sport:::C’est parti pour la «revolucion española» de la Nati féminine de football",
-    "added_at": "2025-11-19T11:20:09.805Z"
+    "added_at": "2025-11-19T11:20:09.805Z",
+    "removed_at": "2025-11-19T16:39:27.091Z",
+    "duration_minutes": 319,
+    "duration_str": "5h 19m"
   },
   {
     "title": "sciences:::En Suisse, les paiements en espèce non déclarés pour être opéré plus rapidement se multiplient",
@@ -47834,11 +47846,17 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël bombarde à nouveau le Liban au lendemain de frappes meutrières",
-    "added_at": "2025-11-19T14:20:26.703Z"
+    "added_at": "2025-11-19T14:20:26.703Z",
+    "removed_at": "2025-11-19T17:09:33.390Z",
+    "duration_minutes": 169,
+    "duration_str": "2h 49m"
   },
   {
     "title": "economie:::Jean-Frédéric Dufour, dirigeant de Rolex, a défendu à Dubaï les couleurs d’une horlogerie attractive pour les talents",
-    "added_at": "2025-11-19T14:25:01.427Z"
+    "added_at": "2025-11-19T14:25:01.427Z",
+    "removed_at": "2025-11-19T19:04:59.002Z",
+    "duration_minutes": 279,
+    "duration_str": "4h 39m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − 25 morts dans des frappes russes avant des efforts diplomatiques de Volodymyr Zelensky",
@@ -47861,6 +47879,62 @@
   },
   {
     "title": "suisse:::Malgré les réticences de Berne, Genève veut construire son métro, avec une cadence à 3 minutes",
-    "added_at": "2025-11-19T16:27:48.178Z"
+    "added_at": "2025-11-19T16:27:48.178Z",
+    "removed_at": "2025-11-19T16:44:03.323Z",
+    "duration_minutes": 16,
+    "duration_str": "16m"
+  },
+  {
+    "title": "monde:::Un «Schengen militaire»? Bruxelles vise une meilleure mobilité des troupes et équipements au sein de l’Europe",
+    "added_at": "2025-11-19T16:39:27.091Z"
+  },
+  {
+    "title": "suisse:::Alexandre Vautravers: «Le manque d’investissement dans la défense peut être interprété comme un manque de fiabilité et de solidarité de la Suisse»",
+    "added_at": "2025-11-19T16:39:27.091Z",
+    "removed_at": "2025-11-19T16:48:44.942Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "suisse:::Nicolas Rimoldi coupable d’atteinte à l’honneur pour avoir traité des policiers des CFF de «nazis» et de «fascistes»",
+    "added_at": "2025-11-19T16:39:27.091Z",
+    "removed_at": "2025-11-19T17:23:29.647Z",
+    "duration_minutes": 44,
+    "duration_str": "44m"
+  },
+  {
+    "title": "suisse:::Malgré les réticences de Berne, Genève veut construire son métro, avec une cadence à trois minutes",
+    "added_at": "2025-11-19T16:44:03.323Z"
+  },
+  {
+    "title": "suisse:::Budget de la Confédération: plus d’armes et de patates, moins de coopération internationale",
+    "added_at": "2025-11-19T16:48:44.942Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L'armée israélienne bombarde la bande de Gaza en réprésailles, selon elle, à des tirs contre ses soldats",
+    "added_at": "2025-11-19T17:09:33.390Z",
+    "removed_at": "2025-11-19T18:53:26.810Z",
+    "duration_minutes": 103,
+    "duration_str": "1h 43m"
+  },
+  {
+    "title": "economie:::Face aux incertitudes, la volatilité des marchés financiers mondiaux augmente",
+    "added_at": "2025-11-19T17:23:29.647Z"
+  },
+  {
+    "title": "suisse:::Transfert des marchandises de la route au rail: la Suisse n’y arrive toujours pas",
+    "added_at": "2025-11-19T17:23:29.647Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L'armée israélienne bombarde Gaza en réprésailles, selon elle, à des tirs contre ses soldats",
+    "added_at": "2025-11-19T18:53:26.810Z"
+  },
+  {
+    "title": "cyber:::Symbole de la folie autour de l’intelligence artificielle, le nouveau géant Anthropic brasse des dizaines de milliards de dollars",
+    "added_at": "2025-11-19T19:04:59.002Z"
+  },
+  {
+    "title": "cyber:::L’IA, un monde truffé d’investissements de plus en plus circulaires",
+    "added_at": "2025-11-19T19:04:59.002Z"
   }
 ]
