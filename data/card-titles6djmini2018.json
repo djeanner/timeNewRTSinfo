@@ -64597,7 +64597,10 @@
   },
   {
     "title": "Charlotte’s Web: What’s happening with North Carolina immigration raids?",
-    "added_at": "2025-11-18T10:15:26.460Z"
+    "added_at": "2025-11-18T10:15:26.460Z",
+    "removed_at": "2025-11-19T07:45:04.320Z",
+    "duration_minutes": 1289,
+    "duration_str": "21h 29m"
   },
   {
     "title": "‘Dire situation’: Russia gains ground in Ukraine’s Zaporizhia region",
@@ -64717,7 +64720,10 @@
   },
   {
     "title": "‘Not going to happen’: Sheinbaum dismisses Trump threat of Mexico strikes",
-    "added_at": "2025-11-18T18:29:55.067Z"
+    "added_at": "2025-11-18T18:29:55.067Z",
+    "removed_at": "2025-11-19T06:46:26.633Z",
+    "duration_minutes": 736,
+    "duration_str": "12h 16m"
   },
   {
     "title": "Conservationists want to protect brazilwood. So why are musicians alarmed?",
@@ -64761,14 +64767,17 @@
   },
   {
     "title": "US court blocks new Texas congressional map while state officials appeal",
-    "added_at": "2025-11-18T21:12:48.849Z"
+    "added_at": "2025-11-18T21:12:48.849Z",
+    "removed_at": "2025-11-19T06:59:43.385Z",
+    "duration_minutes": 586,
+    "duration_str": "9h 46m"
   },
   {
     "title": "Palestine Action activists on trial in UK over attack on Israeli arms maker",
     "added_at": "2025-11-18T21:35:39.786Z",
-    "removed_at": "2025-11-19T05:04:10.384Z",
-    "duration_minutes": 448,
-    "duration_str": "7h 28m"
+    "removed_at": "2025-11-19T05:47:49.792Z",
+    "duration_minutes": 492,
+    "duration_str": "8h 12m"
   },
   {
     "title": "Britain’s MI5 warns lawmakers over Chinese spies posing as ‘headhunters’",
@@ -64811,7 +64820,10 @@
   },
   {
     "title": "Unbeaten Spain qualify for 2026 World Cup after 2-2 draw with Turkiye",
-    "added_at": "2025-11-18T22:25:03.330Z"
+    "added_at": "2025-11-18T22:25:03.330Z",
+    "removed_at": "2025-11-19T07:39:23.701Z",
+    "duration_minutes": 554,
+    "duration_str": "9h 14m"
   },
   {
     "title": "Senate approves Epstein files release bill, sending it to Trump",
@@ -64822,7 +64834,10 @@
   },
   {
     "title": "Israeli attack on Palestinian refugee camp in Lebanon kills at least 13",
-    "added_at": "2025-11-18T22:55:19.455Z"
+    "added_at": "2025-11-18T22:55:19.455Z",
+    "removed_at": "2025-11-19T06:04:52.118Z",
+    "duration_minutes": 429,
+    "duration_str": "7h 9m"
   },
   {
     "title": "Epstein files release approved by Senate, sending bill to Trump",
@@ -64854,7 +64869,10 @@
   },
   {
     "title": "‘Justice, not closure’: 2024 crackdown victims’ families on Hasina verdict",
-    "added_at": "2025-11-19T01:47:25.865Z"
+    "added_at": "2025-11-19T01:47:25.865Z",
+    "removed_at": "2025-11-19T05:44:04.746Z",
+    "duration_minutes": 236,
+    "duration_str": "3h 56m"
   },
   {
     "title": "Russia-Ukraine war: List of key events, day 1,364",
@@ -64881,9 +64899,9 @@
   {
     "title": "Congress approves release of Epstein files, set to send bill to Trump",
     "added_at": "2025-11-19T04:30:09.661Z",
-    "removed_at": "2025-11-19T05:04:10.384Z",
-    "duration_minutes": 34,
-    "duration_str": "34m"
+    "removed_at": "2025-11-19T06:40:46.497Z",
+    "duration_minutes": 130,
+    "duration_str": "2h 10m"
   },
   {
     "title": "Scotland beat Denmark 4-2 to book first World Cup spot since 1998",
@@ -64895,5 +64913,51 @@
     "removed_at": "2025-11-19T05:15:31.717Z",
     "duration_minutes": 3,
     "duration_str": "3m"
+  },
+  {
+    "title": "‘Justice only when Hasina is hanged’: Bangladesh victim families on verdict",
+    "added_at": "2025-11-19T05:44:04.746Z"
+  },
+  {
+    "title": "Israeli air attack on refugee camp in Lebanon kills 13 people",
+    "added_at": "2025-11-19T05:47:49.792Z",
+    "removed_at": "2025-11-19T07:41:14.034Z",
+    "duration_minutes": 113,
+    "duration_str": "1h 53m"
+  },
+  {
+    "title": "A dangerous tipping point? AI hacking claims prompt cybersecurity debate",
+    "added_at": "2025-11-19T06:04:52.118Z",
+    "removed_at": "2025-11-19T06:10:32.707Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "A dangerous tipping point? AI hacking claims divide cybersecurity experts",
+    "added_at": "2025-11-19T06:10:32.707Z"
+  },
+  {
+    "title": "US Congress approves release of Epstein files, set to send bill to Trump",
+    "added_at": "2025-11-19T06:40:46.497Z"
+  },
+  {
+    "title": "Philippines ministers resign as flood scandal reaches presidential palace",
+    "added_at": "2025-11-19T06:46:26.633Z"
+  },
+  {
+    "title": "Trust in AI far higher in China than West, poll shows",
+    "added_at": "2025-11-19T06:59:43.385Z"
+  },
+  {
+    "title": "Myanmar military raids online scam hub, arrests nearly 350 on Thai border",
+    "added_at": "2025-11-19T07:39:23.701Z"
+  },
+  {
+    "title": "Multiple Israeli attacks on southern Lebanon kill at least 14 people",
+    "added_at": "2025-11-19T07:41:14.034Z"
+  },
+  {
+    "title": "Saudi Arabia designated major non-NATO ally of US, gets F-35 warplanes deal",
+    "added_at": "2025-11-19T07:45:04.320Z"
   }
 ]
