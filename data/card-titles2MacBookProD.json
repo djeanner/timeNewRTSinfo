@@ -8226,10 +8226,7 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z",
-    "removed_at": "2025-10-30T20:02:04.112Z",
-    "duration_minutes": 231960,
-    "duration_str": "161d 2h"
+    "added_at": "2025-05-22T18:01:52.008Z"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -48022,7 +48019,10 @@
   },
   {
     "title": "monde:::Les Etats-Unis peignent le président du Venezuela Nicolas Maduro en baron de la drogue à la tête d’un cartel… qui n’existe pas",
-    "added_at": "2025-11-20T02:23:39.463Z"
+    "added_at": "2025-11-20T02:23:39.463Z",
+    "removed_at": "2025-11-20T15:15:07.004Z",
+    "duration_minutes": 771,
+    "duration_str": "12h 51m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Des frappes israéliennes à Gaza font 27 morts, Israël et le Hamas s'accusent de violer la trêve",
@@ -48051,7 +48051,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − La presse ukrainienne s’alarme du très flou «plan de paix» américain",
-    "added_at": "2025-11-20T05:40:02.809Z"
+    "added_at": "2025-11-20T05:40:02.809Z",
+    "removed_at": "2025-11-20T14:17:27.698Z",
+    "duration_minutes": 517,
+    "duration_str": "8h 37m"
   },
   {
     "title": "suisse:::Quelles sont les chances du canton de Vaud de récupérer le presque demi-milliard envolé des boucliers fiscaux?",
@@ -48059,7 +48062,10 @@
   },
   {
     "title": "suisse:::Les communes lésées réfléchissent à attaquer l’Etat de Vaud dans l’affaire du bouclier fiscal",
-    "added_at": "2025-11-20T06:03:08.981Z"
+    "added_at": "2025-11-20T06:03:08.981Z",
+    "removed_at": "2025-11-20T14:24:23.808Z",
+    "duration_minutes": 501,
+    "duration_str": "8h 21m"
   },
   {
     "title": "suisse:::Le Conseil d’Etat vaudois a trouvé la successeure de Marinette Kellenberger pour remettre de l’ordre au sein de la direction générale de la fiscalité",
@@ -48096,7 +48102,10 @@
   },
   {
     "title": "economie:::La chute des exportations horlogères se poursuit aux Etats-Unis",
-    "added_at": "2025-11-20T11:28:46.750Z"
+    "added_at": "2025-11-20T11:28:46.750Z",
+    "removed_at": "2025-11-20T15:08:11.897Z",
+    "duration_minutes": 219,
+    "duration_str": "3h 39m"
   },
   {
     "title": "sport:::Retraité, Roger Federer s'est détaché de ses résultats sportifs et rapproché de la carrière naissante de son fils",
@@ -48112,5 +48121,28 @@
   {
     "title": "culture:::De Genève à Bamako, écrire pour résister",
     "added_at": "2025-11-20T13:03:24.930Z"
+  },
+  {
+    "title": "culture:::«Qu’avez-vous fait de vos 20 ans?» Au Loup, Diane Muller porte avec fraîcheur le bilan de ses amies d’enfance",
+    "added_at": "2025-11-20T13:42:49.386Z",
+    "removed_at": "2025-11-20T15:15:07.004Z",
+    "duration_minutes": 92,
+    "duration_str": "1h 32m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine −  A nouveau écartés par Washington, les Européens tentent de minimiser la portée du plan Trump",
+    "added_at": "2025-11-20T14:17:27.698Z"
+  },
+  {
+    "title": "suisse:::Des pièces d’or ont été dérobées au Musée romain de Lausanne-Vidy",
+    "added_at": "2025-11-20T14:24:23.808Z"
+  },
+  {
+    "title": "economie:::La chute des exportations horlogères aux Etats-Unis se poursuit",
+    "added_at": "2025-11-20T15:08:11.897Z"
+  },
+  {
+    "title": "monde:::En plein «plan de paix» pour l’Ukraine, la rumeur d’un abandon américain du plus haut commandement de l’OTAN en Europe",
+    "added_at": "2025-11-20T15:12:51.315Z"
   }
 ]
