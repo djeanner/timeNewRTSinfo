@@ -217,8 +217,9 @@
   {
     "title": "Poland to close last Russian consulate over ‘unprecedented act of sabotage’",
     "added_at": "2025-11-19T11:08:39.888Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-19T22:02:58.891Z",
+    "duration_minutes": 654,
+    "duration_str": "10h 54m"
   },
   {
     "title": "At least 19 killed in Russian attacks across Ukraine",
@@ -244,8 +245,9 @@
   {
     "title": "‘Restricted’: Did US troops try to cordon off a Mexican beach?",
     "added_at": "2025-11-19T13:01:24.622Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-19T23:02:56.083Z",
+    "duration_minutes": 602,
+    "duration_str": "10h 2m"
   },
   {
     "title": "Deadly Israeli attack on Gaza brings death toll since ceasefire to 280",
@@ -277,9 +279,9 @@
   {
     "title": "At least 25 killed in Russian attacks across Ukraine",
     "added_at": "2025-11-19T14:01:46.139Z",
-    "removed_at": "2025-11-19T18:32:40.923Z",
-    "duration_minutes": 271,
-    "duration_str": "4h 31m"
+    "removed_at": "2025-11-19T18:31:17.443Z",
+    "duration_minutes": 270,
+    "duration_str": "4h 30m"
   },
   {
     "title": "Israel bombs southern Lebanon again after earlier air strikes killed 14",
@@ -291,9 +293,9 @@
   {
     "title": "Ronaldo attends Trump’s White House dinner with MBS – all to know",
     "added_at": "2025-11-19T14:34:13.723Z",
-    "removed_at": "2025-11-19T19:25:55.766Z",
-    "duration_minutes": 292,
-    "duration_str": "4h 52m"
+    "removed_at": "2025-11-19T19:24:22.300Z",
+    "duration_minutes": 290,
+    "duration_str": "4h 50m"
   },
   {
     "title": "Despite ceasefires in Gaza and Lebanon, the war isn’t over for Netanyahu",
@@ -316,8 +318,9 @@
   {
     "title": "Ex Treasury boss Summers resigns from OpenAI after named in Epstein files",
     "added_at": "2025-11-19T17:04:53.909Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-19T23:12:12.544Z",
+    "duration_minutes": 367,
+    "duration_str": "6h 7m"
   },
   {
     "title": "In Colombia, Petro fends off criticism over killing of child rebel recruits",
@@ -327,10 +330,10 @@
   },
   {
     "title": "At least 25 killed in Russian attacks on war-torn Ukraine",
-    "added_at": "2025-11-19T18:32:40.923Z",
+    "added_at": "2025-11-19T18:31:17.443Z",
     "removed_at": "2025-11-19T21:35:07.845Z",
-    "duration_minutes": 182,
-    "duration_str": "3h 2m"
+    "duration_minutes": 184,
+    "duration_str": "3h 4m"
   },
   {
     "title": "‘Panic and fear’ in Gaza as flurry of Israeli attacks kill at least 25",
@@ -347,15 +350,17 @@
   },
   {
     "title": "Justice Department admits grand jury did not review final Comey indictment",
-    "added_at": "2025-11-19T19:25:55.766Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-11-19T19:24:22.300Z",
+    "removed_at": "2025-11-19T22:44:31.472Z",
+    "duration_minutes": 200,
+    "duration_str": "3h 20m"
   },
   {
     "title": "‘Panic and fear’ in Gaza as flurry of Israeli attacks kill at least 28",
     "added_at": "2025-11-19T19:42:04.038Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-19T23:00:37.142Z",
+    "duration_minutes": 199,
+    "duration_str": "3h 19m"
   },
   {
     "title": "New US peace plan for Ukraine involves Kyiv ceding land, weapons: Reports",
@@ -366,6 +371,30 @@
   {
     "title": "Nearly one-third of women worldwide faced partner or sexual violence: WHO",
     "added_at": "2025-11-19T21:35:07.845Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Trump pledges ‘cooperation and coordination’ to end Sudan’s civil war",
+    "added_at": "2025-11-19T22:02:58.891Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Family demands independent medical care for US teen detained by Israel",
+    "added_at": "2025-11-19T22:44:31.472Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Nvidia forecasts Q4 revenue above estimates despite AI bubble concerns",
+    "added_at": "2025-11-19T23:02:56.083Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Syria condemns Israeli PM Netanyahu’s ‘illegal visit’ to seized territory",
+    "added_at": "2025-11-19T23:12:12.544Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
