@@ -48221,7 +48221,10 @@
   },
   {
     "title": "suisse:::A Genève, les HUG se transforment pour prendre un «virage ambulatoire»",
-    "added_at": "2025-11-20T18:08:30.007Z"
+    "added_at": "2025-11-20T18:08:30.007Z",
+    "removed_at": "2025-11-21T04:30:21.131Z",
+    "duration_minutes": 621,
+    "duration_str": "10h 21m"
   },
   {
     "title": "sciences:::A la COP30, Albert Rösti en VRP de la compensation carbone",
@@ -48256,7 +48259,10 @@
   },
   {
     "title": "monde:::Au Brésil, un incendie met les négociations à la COP30 à l'arrêt pour plusieurs heures",
-    "added_at": "2025-11-20T20:31:54.606Z"
+    "added_at": "2025-11-20T20:31:54.606Z",
+    "removed_at": "2025-11-21T04:30:21.131Z",
+    "duration_minutes": 478,
+    "duration_str": "7h 58m"
   },
   {
     "title": "suisse:::Voitures abandonnées, automobilistes bloqués et poids lourds détournés… La neige a semé le chaos sur les routes vaudoises",
@@ -48264,6 +48270,17 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − La Russie revendique la prise de la ville de Koupiansk, dans l’est de l’Ukraine",
-    "added_at": "2025-11-20T21:41:24.748Z"
+    "added_at": "2025-11-20T21:41:24.748Z",
+    "removed_at": "2025-11-21T03:11:52.480Z",
+    "duration_minutes": 330,
+    "duration_str": "5h 30m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Le plan américain prévoit de fortes concessions à la Russie",
+    "added_at": "2025-11-21T03:11:52.480Z"
+  },
+  {
+    "title": "monde:::A la COP30, plus de 30 pays font pression pour que le projet d'accord inclue la sortie des énergies fossiles",
+    "added_at": "2025-11-21T04:30:21.131Z"
   }
 ]
