@@ -51788,7 +51788,10 @@
   },
   {
     "title": "sciences:::Vantara, l’immense zoo privé d’un milliardaire indien qui aspire des animaux du monde entier par milliers",
-    "added_at": "2025-11-22T08:21:35.506Z"
+    "added_at": "2025-11-22T08:21:35.506Z",
+    "removed_at": "2025-11-22T19:22:23.264Z",
+    "duration_minutes": 660,
+    "duration_str": "11h"
   },
   {
     "title": "monde:::À la COP30, l’enjeu explosif de la sortie des énergies fossiles met les discussions en péril",
@@ -51849,7 +51852,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Américains et Ukrainiens discuteront du plan Trump à Genève dès dimanche",
-    "added_at": "2025-11-22T14:33:54.757Z"
+    "added_at": "2025-11-22T14:33:54.757Z",
+    "removed_at": "2025-11-22T21:07:23.875Z",
+    "duration_minutes": 393,
+    "duration_str": "6h 33m"
   },
   {
     "title": "sport:::Coupe du monde de ski: Paco Rassat remporte le slalom de Gurgl, le Genevois Tanguy Nef finit cinquième",
@@ -51871,11 +51877,17 @@
   },
   {
     "title": "culture:::Dans son nouveau roman, Antoine Rubin interroge notre manière d’habiter le monde",
-    "added_at": "2025-11-22T15:52:12.703Z"
+    "added_at": "2025-11-22T15:52:12.703Z",
+    "removed_at": "2025-11-22T19:01:27.576Z",
+    "duration_minutes": 189,
+    "duration_str": "3h 9m"
   },
   {
     "title": "culture:::L’incroyable succès des «blind tests», ces irrésistibles joutes musicales",
-    "added_at": "2025-11-22T16:32:16.422Z"
+    "added_at": "2025-11-22T16:32:16.422Z",
+    "removed_at": "2025-11-22T19:56:43.471Z",
+    "duration_minutes": 204,
+    "duration_str": "3h 24m"
   },
   {
     "title": "sciences:::La COP30 débouche sur un accord modeste, sans plan de sortie des énergies fossiles",
@@ -51890,7 +51902,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Cinq membres «haut placés du Hamas» tués à Gaza",
-    "added_at": "2025-11-22T17:37:15.120Z"
+    "added_at": "2025-11-22T17:37:15.120Z",
+    "removed_at": "2025-11-22T21:05:27.408Z",
+    "duration_minutes": 208,
+    "duration_str": "3h 28m"
   },
   {
     "title": "cyber:::Attention, des changements importants sur la protection de nos données se préparent",
@@ -51903,5 +51918,25 @@
   {
     "title": "suisse:::La commune de Chêne-Bougeries a été le théâtre d’une fuite d’eau spectaculaire",
     "added_at": "2025-11-22T18:03:59.203Z"
+  },
+  {
+    "title": "culture:::Une satire des milieux culturels alternatifs alémaniques dans les bacs des libraires romands",
+    "added_at": "2025-11-22T19:22:23.264Z"
+  },
+  {
+    "title": "sport:::Lando Norris, le pitre méticuleux qui fonce vers le titre mondial en formule 1",
+    "added_at": "2025-11-22T19:56:43.471Z"
+  },
+  {
+    "title": "culture:::Davide Ambrogio, voix de braise et harmonies calcaires",
+    "added_at": "2025-11-22T20:44:32.338Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Cinq membres «haut placés du Hamas» tués à Gaza",
+    "added_at": "2025-11-22T21:05:27.408Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine − Américains et Ukrainiens discuteront du plan Trump à Genève dès dimanche",
+    "added_at": "2025-11-22T21:07:23.875Z"
   }
 ]
