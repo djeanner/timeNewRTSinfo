@@ -37976,7 +37976,10 @@
   },
   {
     "title": "Plus de la moitié des ménages suisses disposent de compteurs électriques intelligents",
-    "added_at": "2025-11-20T14:49:45.454Z"
+    "added_at": "2025-11-20T14:49:45.454Z",
+    "removed_at": "2025-11-22T03:38:37.746Z",
+    "duration_minutes": 2208,
+    "duration_str": "1d 12h 48m"
   },
   {
     "title": "Près d'un mineur sur trois exposé à la haine et aux contenus dangereux en ligne",
@@ -38406,5 +38409,9 @@
   {
     "title": "Plus de 200 élèves et enseignants enlevés dans une école au Nigeria",
     "added_at": "2025-11-21T22:05:27.564Z"
+  },
+  {
+    "title": "Un rejet historique du budget de l'Etat en France par l'Assemblée nationale",
+    "added_at": "2025-11-22T03:38:37.746Z"
   }
 ]
