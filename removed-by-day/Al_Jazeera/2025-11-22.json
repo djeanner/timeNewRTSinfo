@@ -123,9 +123,8 @@
   {
     "title": "China spat with Japan on Taiwan deepens, reaches UN: What’s it all about?",
     "added_at": "2025-11-22T09:18:43.496Z",
-    "removed_at": "2025-11-22T19:46:25.851Z",
-    "duration_minutes": 628,
-    "duration_str": "10h 28m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Over 300 students were abducted by Nigerian gunmen from Catholic school",
@@ -271,8 +270,9 @@
   {
     "title": "Indian trade unions oppose new labour codes, call for demonstrations",
     "added_at": "2025-11-22T19:46:25.851Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-22T22:10:02.540Z",
+    "duration_minutes": 144,
+    "duration_str": "2h 24m"
   },
   {
     "title": "‘Violence never ended’: Israeli attacks kill 22 Palestinians in Gaza",
@@ -283,20 +283,35 @@
   },
   {
     "title": "Hamas accuses Israel of ‘fabricated pretexts’ after 22 killed in Gaza",
-    "added_at": "2025-11-22T20:35:01.931Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-11-22T20:34:58.286Z",
+    "removed_at": "2025-11-22T23:10:13.999Z",
+    "duration_minutes": 155,
+    "duration_str": "2h 35m"
   },
   {
     "title": "‘Violence never ended’: Israeli attacks kill 24 Palestinians in Gaza",
     "added_at": "2025-11-22T21:05:02.550Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-22T23:28:42.151Z",
+    "duration_minutes": 144,
+    "duration_str": "2h 24m"
   },
   {
     "title": "World leaders, rights groups react to COP30 climate deal",
     "added_at": "2025-11-22T22:02:56.483Z",
     "duration_minutes": 0,
     "duration_str": ""
+  },
+  {
+    "title": "Air traffic suspended at Netherlands airport after drone sightings",
+    "added_at": "2025-11-22T22:10:02.540Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Hamas accuses Israel of ‘fabricated pretexts’ after 24 killed in Gaza",
+    "added_at": "2025-11-22T23:05:31.118Z",
+    "removed_at": "2025-11-22T23:14:48.998Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
   }
 ]
