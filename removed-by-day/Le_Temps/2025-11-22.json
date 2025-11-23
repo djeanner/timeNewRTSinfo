@@ -55,9 +55,8 @@
   {
     "title": "culture:::Hergé au théâtre ou le bonheur de faire durer le plaisir",
     "added_at": "2025-11-22T10:16:11.618Z",
-    "removed_at": "2025-11-22T11:32:54.147Z",
-    "duration_minutes": 77,
-    "duration_str": "1h 17m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "monde:::Au Brésil, l’ancien président Jair Bolsonaro a été placé en détention provisoire",
@@ -96,7 +95,7 @@
   {
     "title": "monde:::En direct, guerre en Ukraine − Américains et Ukrainiens discuteront du plan Trump à Genève dès dimanche",
     "added_at": "2025-11-22T14:33:38.228Z",
-    "removed_at": "2025-11-22T21:07:21.909Z",
+    "removed_at": "2025-11-22T21:07:23.875Z",
     "duration_minutes": 394,
     "duration_str": "6h 34m"
   },
@@ -137,8 +136,9 @@
   {
     "title": "sciences:::La COP30 débouche sur un accord modeste, sans plan de sortie des énergies fossiles",
     "added_at": "2025-11-22T17:04:15.450Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-23T06:34:50.553Z",
+    "duration_minutes": 811,
+    "duration_str": "13h 31m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Cinq membres «haut placés du Hamas» tés à Gaza",
@@ -150,9 +150,8 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Cinq membres «haut placés du Hamas» tués à Gaza",
     "added_at": "2025-11-22T17:36:39.972Z",
-    "removed_at": "2025-11-22T21:05:01.982Z",
-    "duration_minutes": 208,
-    "duration_str": "3h 28m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "cyber:::Attention, des changements importants sur la protection de nos données se préparent",
@@ -175,8 +174,9 @@
   {
     "title": "culture:::Une satire des milieux culturels alternatifs alémaniques dans les bacs des libraires romands",
     "added_at": "2025-11-22T19:22:23.264Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-23T08:14:14.866Z",
+    "duration_minutes": 772,
+    "duration_str": "12h 52m"
   },
   {
     "title": "sport:::Lando Norris, le pitre méticuleux qui fonce vers le titre mondial en formule 1",
@@ -193,13 +193,15 @@
   {
     "title": "monde:::Moyen-Orient – Cinq membres «haut placés du Hamas» tués à Gaza",
     "added_at": "2025-11-22T21:05:01.982Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-23T06:44:08.618Z",
+    "duration_minutes": 579,
+    "duration_str": "9h 39m"
   },
   {
     "title": "monde:::Guerre en Ukraine − Américains et Ukrainiens discuteront du plan Trump à Genève dès dimanche",
     "added_at": "2025-11-22T21:07:21.909Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-23T06:39:27.820Z",
+    "duration_minutes": 572,
+    "duration_str": "9h 32m"
   }
 ]
