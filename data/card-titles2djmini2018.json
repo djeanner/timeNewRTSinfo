@@ -51921,7 +51921,10 @@
   },
   {
     "title": "cyber:::Attention, des changements importants sur la protection de nos données se préparent",
-    "added_at": "2025-11-22T18:03:59.203Z"
+    "added_at": "2025-11-22T18:03:59.203Z",
+    "removed_at": "2025-11-23T20:06:13.513Z",
+    "duration_minutes": 1562,
+    "duration_str": "1d 2h 2m"
   },
   {
     "title": "monde:::A Marseille, des milliers de personnes rendent hommage à Mehdi Kessaci face au narcobanditisme",
@@ -52109,7 +52112,10 @@
   },
   {
     "title": "culture:::La série «Empathie» ouvre un moment québécois sous nos latitudes",
-    "added_at": "2025-11-23T15:42:34.278Z"
+    "added_at": "2025-11-23T15:42:34.278Z",
+    "removed_at": "2025-11-23T20:42:23.946Z",
+    "duration_minutes": 299,
+    "duration_str": "4h 59m"
   },
   {
     "title": "cyber:::Après la découverte d’une faille de sécurité géante, voici comment protéger votre compte WhatsApp",
@@ -52135,15 +52141,24 @@
   },
   {
     "title": "monde:::A Moscou, le sacre discret de Kirill Dmitriev, très actif dans les coulisses du plan de 28 points",
-    "added_at": "2025-11-23T17:14:19.246Z"
+    "added_at": "2025-11-23T17:14:19.246Z",
+    "removed_at": "2025-11-23T19:37:37.541Z",
+    "duration_minutes": 143,
+    "duration_str": "2h 23m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − La rencontre de Genève est «productive» selon les responsables américain et ukrainien",
-    "added_at": "2025-11-23T17:18:06.653Z"
+    "added_at": "2025-11-23T17:18:06.653Z",
+    "removed_at": "2025-11-23T20:06:13.513Z",
+    "duration_minutes": 168,
+    "duration_str": "2h 48m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – La frappe israélienne à Beyrouth a fait 5 morts et 28 blessés, selon les autorités libanaises",
-    "added_at": "2025-11-23T17:21:55.739Z"
+    "added_at": "2025-11-23T17:21:55.739Z",
+    "removed_at": "2025-11-23T20:52:00.003Z",
+    "duration_minutes": 210,
+    "duration_str": "3h 30m"
   },
   {
     "title": "cyber:::Yann LeCun, un homme à suivre de très près en 2026",
@@ -52159,5 +52174,39 @@
   {
     "title": "economie:::L’horlogerie suisse a mal à ses volumes, quand ses grandes marques montent en puissance",
     "added_at": "2025-11-23T18:42:01.125Z"
+  },
+  {
+    "title": "monde:::A Genève, bataille feutrée contre une paix en Ukraine à l’ombre de Moscou",
+    "added_at": "2025-11-23T19:37:37.541Z"
+  },
+  {
+    "title": "monde:::Le cœur de Beyrouth bombardé par l’armée israélienne",
+    "added_at": "2025-11-23T20:06:13.513Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − La rencontre de Genève a permis des «progrès substantiels», selon Marco Rubio",
+    "added_at": "2025-11-23T20:06:13.513Z",
+    "removed_at": "2025-11-23T20:36:40.561Z",
+    "duration_minutes": 30,
+    "duration_str": "30m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − La rencontre de Genève a permis des «avancées substantielles», selon Marco Rubio",
+    "added_at": "2025-11-23T20:36:40.561Z",
+    "removed_at": "2025-11-23T20:59:34.498Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
+  },
+  {
+    "title": "culture:::A M’hamid El Ghizlane, au Festival Zamane, le blues du désert souffle au-delà des dunes",
+    "added_at": "2025-11-23T20:42:23.946Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – La frappe israélienne à Beyrouth a fait 5 morts et 28 blessés, selon les autorités libanaises",
+    "added_at": "2025-11-23T20:52:00.003Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine − La rencontre de Genève a permis des «avancées substantielles», selon Marco Rubio",
+    "added_at": "2025-11-23T20:59:34.498Z"
   }
 ]
