@@ -48862,7 +48862,10 @@
   },
   {
     "title": "culture:::Dans sa nouvelle fiction, Peter Handke, Nobel de littérature, tue enfin le grand-père et son héritage nazi",
-    "added_at": "2025-11-23T09:39:57.335Z"
+    "added_at": "2025-11-23T09:39:57.335Z",
+    "removed_at": "2025-11-24T09:02:23.068Z",
+    "duration_minutes": 1402,
+    "duration_str": "23h 22m"
   },
   {
     "title": "culture:::À la Revue de Lausanne, la vie est belle, ou presque",
@@ -49025,7 +49028,10 @@
   },
   {
     "title": "economie:::L’horlogerie suisse a mal à ses volumes, quand ses grandes marques montent en puissance",
-    "added_at": "2025-11-23T18:42:19.989Z"
+    "added_at": "2025-11-23T18:42:19.989Z",
+    "removed_at": "2025-11-24T09:43:59.964Z",
+    "duration_minutes": 901,
+    "duration_str": "15h 1m"
   },
   {
     "title": "monde:::A Genève, bataille feutrée contre une paix en Ukraine à l’ombre de Moscou",
@@ -49051,10 +49057,7 @@
   },
   {
     "title": "culture:::A M’hamid El Ghizlane, au Festival Zamane, le blues du désert souffle au-delà des dunes",
-    "added_at": "2025-11-23T20:42:58.066Z",
-    "removed_at": "2025-11-24T06:34:02.976Z",
-    "duration_minutes": 591,
-    "duration_str": "9h 51m"
+    "added_at": "2025-11-23T20:42:58.066Z"
   },
   {
     "title": "monde:::Moyen-Orient – La frappe israélienne à Beyrouth a fait 5 morts et 28 blessés, selon les autorités libanaises",
@@ -49114,7 +49117,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Etats-Unis et Ukraine assurent que l'accord de paix «devra respecter la souveraineté» de Kiev",
-    "added_at": "2025-11-24T05:33:52.103Z"
+    "added_at": "2025-11-24T05:33:52.103Z",
+    "removed_at": "2025-11-24T09:09:20.183Z",
+    "duration_minutes": 215,
+    "duration_str": "3h 35m"
   },
   {
     "title": "economie:::Sondage exclusif – Classe moyenne en Suisse: 72% craignent une détérioration de leur situation économique",
@@ -49131,5 +49137,24 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Israël tue un chef militaire du Hezbollah dans une frappe à Beyrouth",
     "added_at": "2025-11-24T07:31:51.755Z"
+  },
+  {
+    "title": "culture:::Cédric Sapin-Defour, auteur de «Son odeur après la pluie»: «Le poète Christian Bobin met des mots sur la texture de mes jours»",
+    "added_at": "2025-11-24T09:02:23.068Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − A Genève, les Etats-Unis et l'Ukraine ont amendé le plan Trump qui était très favorable à la Russie",
+    "added_at": "2025-11-24T09:09:20.183Z",
+    "removed_at": "2025-11-24T10:04:52.277Z",
+    "duration_minutes": 55,
+    "duration_str": "55m"
+  },
+  {
+    "title": "monde:::Relation transatlantique: comment l’administration Trump a blessé l’Allemagne",
+    "added_at": "2025-11-24T09:43:59.964Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Kiev dit avoir réussi à inclure des «points extrêmement sensibles» dans le plan de Donald Trump",
+    "added_at": "2025-11-24T10:04:52.277Z"
   }
 ]
