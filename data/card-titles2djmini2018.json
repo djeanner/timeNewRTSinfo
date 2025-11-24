@@ -52019,7 +52019,10 @@
   },
   {
     "title": "culture:::Dans sa nouvelle fiction, Peter Handke, Nobel de littérature, tue enfin le grand-père et son héritage nazi",
-    "added_at": "2025-11-23T09:39:42.091Z"
+    "added_at": "2025-11-23T09:39:42.091Z",
+    "removed_at": "2025-11-24T09:02:53.905Z",
+    "duration_minutes": 1403,
+    "duration_str": "23h 23m"
   },
   {
     "title": "culture:::À la Revue de Lausanne, la vie est belle, ou presque",
@@ -52264,11 +52267,17 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël tue Haitham Ali Tabatabai, un chef militaire du Hezbollah dans une frappe",
-    "added_at": "2025-11-24T05:25:30.335Z"
+    "added_at": "2025-11-24T05:25:30.335Z",
+    "removed_at": "2025-11-24T07:31:27.678Z",
+    "duration_minutes": 125,
+    "duration_str": "2h 5m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Etats-Unis et Ukraine assurent que l'accord de paix «devra respecter la souveraineté» de Kiev",
-    "added_at": "2025-11-24T05:35:02.886Z"
+    "added_at": "2025-11-24T05:35:02.886Z",
+    "removed_at": "2025-11-24T09:10:34.184Z",
+    "duration_minutes": 215,
+    "duration_str": "3h 35m"
   },
   {
     "title": "suisse:::Elisabeth Baume-Schneider: «Repenser le financement du système de santé devient un enjeu important»",
@@ -52281,5 +52290,17 @@
   {
     "title": "suisse:::Après la fraude électorale, une campagne empreinte de suspicion à Vernier",
     "added_at": "2025-11-24T07:02:40.778Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Israël tue un chef militaire du Hezbollah dans une frappe à Beyrouth",
+    "added_at": "2025-11-24T07:31:27.678Z"
+  },
+  {
+    "title": "culture:::Cédric Sapin-Defour, auteur de «Son odeur après la pluie»: «Le poète Christian Bobin met des mots sur la texture de mes jours»",
+    "added_at": "2025-11-24T09:02:53.905Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − A Genève, les Etats-Unis et l'Ukraine ont amendé le plan Trump qui était très favorable à la Russie",
+    "added_at": "2025-11-24T09:10:34.184Z"
   }
 ]
