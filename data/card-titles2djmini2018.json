@@ -52137,7 +52137,10 @@
   },
   {
     "title": "suisse:::Météo: la Suisse passe de la chaleur au choc polaire",
-    "added_at": "2025-11-23T16:49:28.560Z"
+    "added_at": "2025-11-23T16:49:28.560Z",
+    "removed_at": "2025-11-24T04:33:49.812Z",
+    "duration_minutes": 704,
+    "duration_str": "11h 44m"
   },
   {
     "title": "monde:::A Moscou, le sacre discret de Kirill Dmitriev, très actif dans les coulisses du plan de 28 points",
@@ -52217,10 +52220,21 @@
   },
   {
     "title": "monde:::Moyen-Orient – Notre suivi de la semaine du 17 novembre",
-    "added_at": "2025-11-23T22:40:55.936Z"
+    "added_at": "2025-11-23T22:40:55.936Z",
+    "removed_at": "2025-11-24T04:33:49.812Z",
+    "duration_minutes": 352,
+    "duration_str": "5h 52m"
   },
   {
     "title": "monde:::Guerre en Ukraine − Etats-Unis et Ukraine assurent que l'accord de paix «devra respecter la souveraineté» de Kiev",
     "added_at": "2025-11-24T01:09:50.449Z"
+  },
+  {
+    "title": "monde:::Victoire nationaliste avec Sinisa Karan, le candidat de Dodik, à la présidence de la Republika Srpska",
+    "added_at": "2025-11-24T04:33:49.812Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient, en direct – Israël tue Haitham Ali Tabatabai, un chef militaire du Hezbollah dans une frappe",
+    "added_at": "2025-11-24T04:33:49.812Z"
   }
 ]
