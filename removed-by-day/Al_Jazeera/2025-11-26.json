@@ -64,7 +64,7 @@
   {
     "title": "At least 10 people killed in Indonesia floods, landslides",
     "added_at": "2025-11-26T07:50:14.813Z",
-    "removed_at": "2025-11-26T13:31:48.660Z",
+    "removed_at": "2025-11-26T13:31:44.976Z",
     "duration_minutes": 342,
     "duration_str": "5h 42m"
   },
@@ -154,21 +154,23 @@
   {
     "title": "Powerful storms, floods bring new challenges to Palestinians in Gaza",
     "added_at": "2025-11-26T10:30:37.728Z",
-    "removed_at": "2025-11-26T13:59:41.053Z",
-    "duration_minutes": 209,
-    "duration_str": "3h 29m"
+    "removed_at": "2025-11-26T13:58:26.335Z",
+    "duration_minutes": 208,
+    "duration_str": "3h 28m"
   },
   {
     "title": "Arsenal host Bayern Munich in a top of the table Champions League showdown",
     "added_at": "2025-11-26T10:51:26.640Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-26T17:15:07.501Z",
+    "duration_minutes": 384,
+    "duration_str": "6h 24m"
   },
   {
     "title": "Does adolescence last until 32? Scientists unlock brain’s five eras",
     "added_at": "2025-11-26T11:39:03.520Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-26T16:47:17.240Z",
+    "duration_minutes": 308,
+    "duration_str": "5h 8m"
   },
   {
     "title": "Israel lays siege to occupied West Bank’s Tubas, displaces tens of families",
@@ -178,13 +180,14 @@
   },
   {
     "title": "Palestine Action’s legal challenge against UK government ban begins",
-    "added_at": "2025-11-26T13:22:29.480Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-11-26T13:22:14.106Z",
+    "removed_at": "2025-11-26T17:31:25.870Z",
+    "duration_minutes": 249,
+    "duration_str": "4h 9m"
   },
   {
     "title": "At least 17 people killed in Indonesia floods, landslides",
-    "added_at": "2025-11-26T13:31:48.660Z",
+    "added_at": "2025-11-26T13:31:44.976Z",
     "removed_at": "2025-11-26T16:07:39.607Z",
     "duration_minutes": 156,
     "duration_str": "2h 36m"
@@ -209,15 +212,17 @@
   },
   {
     "title": "At least 13 dead as fire engulfs Hong Kong high-rise residential buildings",
-    "added_at": "2025-11-26T13:59:41.053Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-11-26T13:58:26.335Z",
+    "removed_at": "2025-11-26T17:59:13.006Z",
+    "duration_minutes": 241,
+    "duration_str": "4h 1m"
   },
   {
     "title": "Russia-Ukraine ‘peace plan’: What’s the latest version after US-Kyiv talks?",
     "added_at": "2025-11-26T14:20:52.885Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-26T17:56:57.020Z",
+    "duration_minutes": 216,
+    "duration_str": "3h 36m"
   },
   {
     "title": "Guinea-Bissau army claims ‘total control’ after gunshots heard in capital",
@@ -236,8 +241,9 @@
   {
     "title": "UK unveils significant tax rises in budget after ‘shambolic’ forecast leak",
     "added_at": "2025-11-26T15:37:26.566Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-11-26T19:01:57.729Z",
+    "duration_minutes": 205,
+    "duration_str": "3h 25m"
   },
   {
     "title": "Berlin shutdown of pro-Palestine conference was unlawful, court rules",
@@ -260,6 +266,63 @@
   {
     "title": "Guinea-Bissau army officers say they have seized power, president arrested",
     "added_at": "2025-11-26T16:42:30.969Z",
+    "removed_at": "2025-11-26T17:01:12.899Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
+  },
+  {
+    "title": "Guinea-Bissau army officers say they have seized power; president arrested",
+    "added_at": "2025-11-26T17:01:12.899Z",
+    "removed_at": "2025-11-26T17:31:25.870Z",
+    "duration_minutes": 30,
+    "duration_str": "30m"
+  },
+  {
+    "title": "LIVE: Arsenal vs Bayern Munich – UEFA Champions League",
+    "added_at": "2025-11-26T17:03:34.793Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Five key takeaways from the UK’s tax-and-spending budget",
+    "added_at": "2025-11-26T17:15:07.501Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Guinea-Bissau army officers say they have seized power; president deposed",
+    "added_at": "2025-11-26T17:31:25.870Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "China blocks Bytedance from Nvidia chip use: Report",
+    "added_at": "2025-11-26T17:31:25.870Z",
+    "removed_at": "2025-11-26T17:56:57.020Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "US group sues Apple over DR Congo conflict minerals",
+    "added_at": "2025-11-26T17:56:57.020Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "China blocks ByteDance from Nvidia chip use: Report",
+    "added_at": "2025-11-26T17:56:57.020Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Death toll in fire at Hong Kong high-rise residential buildings rises to 36",
+    "added_at": "2025-11-26T17:59:13.006Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Aftermath of Homs killings may mark turning point for Syria’s government",
+    "added_at": "2025-11-26T19:01:57.729Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
