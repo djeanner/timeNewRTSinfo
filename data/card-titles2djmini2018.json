@@ -53472,7 +53472,10 @@
   },
   {
     "title": "economie:::En mauvaise posture, Cremo se sépare de son directeur avec effet immédiat",
-    "added_at": "2025-11-27T18:34:50.162Z"
+    "added_at": "2025-11-27T18:34:50.162Z",
+    "removed_at": "2025-11-28T10:01:15.456Z",
+    "duration_minutes": 926,
+    "duration_str": "15h 26m"
   },
   {
     "title": "economie:::L’entreprise de construction Maulini SA remporte le Prix SVC Genève 2025",
@@ -53502,7 +53505,10 @@
   },
   {
     "title": "culture:::Sur son nouvel album, «Poussière d’or», Stephan Eicher chante les désillusions et l’espérance",
-    "added_at": "2025-11-27T20:35:14.375Z"
+    "added_at": "2025-11-27T20:35:14.375Z",
+    "removed_at": "2025-11-28T10:01:15.456Z",
+    "duration_minutes": 806,
+    "duration_str": "13h 26m"
   },
   {
     "title": "suisse:::Conseil d'Etat vaudois: l'UDC entre en campagne avec Jean-François Thuillard",
@@ -53575,11 +53581,17 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Viktor Orban se rend ce vendredi à Moscou",
-    "added_at": "2025-11-28T06:57:43.160Z"
+    "added_at": "2025-11-28T06:57:43.160Z",
+    "removed_at": "2025-11-28T08:02:47.585Z",
+    "duration_minutes": 65,
+    "duration_str": "1h 5m"
   },
   {
     "title": "monde:::Avec 128 morts, l’incendie de Hong Kong est désormais le pire depuis des décennies",
-    "added_at": "2025-11-28T07:39:38.376Z"
+    "added_at": "2025-11-28T07:39:38.376Z",
+    "removed_at": "2025-11-28T10:01:15.456Z",
+    "duration_minutes": 141,
+    "duration_str": "2h 21m"
   },
   {
     "title": "economie:::Au procès de Lafarge, plongée dans l’engrenage qui a conduit le cimentier à signer un pacte avec les djihadistes",
@@ -53587,6 +53599,43 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Au moins dix morts après une incursion israélienne en Syrie",
-    "added_at": "2025-11-28T07:51:07.060Z"
+    "added_at": "2025-11-28T07:51:07.060Z",
+    "removed_at": "2025-11-28T09:45:57.619Z",
+    "duration_minutes": 114,
+    "duration_str": "1h 54m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Andriy Yermak, le bras droit de Volodymyr Zelensky, visé par des perquisitions de la justice ukrainienne",
+    "added_at": "2025-11-28T08:02:47.585Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Après une incursion israélienne qui aurait fait dix morts, la Syrie dénonce un «crime de guerre»",
+    "added_at": "2025-11-28T09:45:57.619Z",
+    "removed_at": "2025-11-28T09:53:35.296Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Après une incursion israélienne qui aurait fait dix morts, la Syrie dénonce un «crime de guerre»",
+    "added_at": "2025-11-28T09:53:35.296Z",
+    "removed_at": "2025-11-28T10:12:43.092Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
+  },
+  {
+    "title": "culture:::A Sévelin 36, les danses urbaines dominent l’émergence chorégraphique. Naissance d’une nouvelle tendance?",
+    "added_at": "2025-11-28T10:01:15.456Z"
+  },
+  {
+    "title": "suisse:::Martin Pfister propose une augmentation de la TVA pour moderniser l’armée suisse",
+    "added_at": "2025-11-28T10:01:15.456Z"
+  },
+  {
+    "title": "economie:::Stadler conteste en justice le choix de Siemens par les CFF",
+    "added_at": "2025-11-28T10:12:43.092Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Après une incursion israélienne, la Syrie dénonce un «crime de guerre»",
+    "added_at": "2025-11-28T10:12:43.092Z"
   }
 ]
