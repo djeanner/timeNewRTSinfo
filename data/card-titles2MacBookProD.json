@@ -8226,7 +8226,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z"
+    "added_at": "2025-05-22T18:01:52.008Z",
+    "removed_at": "2025-11-28T17:00:48.488Z",
+    "duration_minutes": 273538,
+    "duration_str": "189d 22h 58m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -49523,7 +49526,10 @@
   },
   {
     "title": "suisse:::Comment Genève s’est replacée dans les négociations sur l’Ukraine",
-    "added_at": "2025-11-25T05:34:15.451Z"
+    "added_at": "2025-11-25T05:34:15.451Z",
+    "removed_at": "2025-11-28T16:00:21.050Z",
+    "duration_minutes": 4946,
+    "duration_str": "3d 10h 26m"
   },
   {
     "title": "economie:::Vous avez de la chance d’être né en Suisse",
@@ -50557,7 +50563,10 @@
   },
   {
     "title": "monde:::Perquisition dans les bureaux du bras droit de Zelensky: «Andriy Yermak est l’architecte de ce système de népotisme»",
-    "added_at": "2025-11-28T10:39:03.887Z"
+    "added_at": "2025-11-28T10:39:03.887Z",
+    "removed_at": "2025-11-28T16:44:28.530Z",
+    "duration_minutes": 365,
+    "duration_str": "6h 5m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − La Belgique, qui héberge la plupart des fonds russes gelés, se cabre sur leur utilisation pour aider l'Ukraine",
@@ -50580,7 +50589,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Auprès de Vladimir Poutine, Viktor Orban promet de continuer à acheter du pétrole russe",
-    "added_at": "2025-11-28T13:47:39.987Z"
+    "added_at": "2025-11-28T13:47:39.987Z",
+    "removed_at": "2025-11-28T15:39:26.064Z",
+    "duration_minutes": 111,
+    "duration_str": "1h 51m"
   },
   {
     "title": "sport:::«Ce qui est sûr, c'est que je veux skier toute ma vie»: Lara Gut-Behrami s'exprime",
@@ -50598,7 +50610,10 @@
   },
   {
     "title": "suisse:::Vetropack abandonne le recyclage à Saint-Prex, avant la fermeture",
-    "added_at": "2025-11-28T14:17:53.447Z"
+    "added_at": "2025-11-28T14:17:53.447Z",
+    "removed_at": "2025-11-28T16:56:05.847Z",
+    "duration_minutes": 158,
+    "duration_str": "2h 38m"
   },
   {
     "title": "sport:::«Ce qui est sûr, c’est que je veux skier toute ma vie»: Lara Gut-Behrami s’exprime",
@@ -50611,5 +50626,47 @@
   {
     "title": "suisse:::Beat Jans veut durcir l’asile tout en saluant la restructuration introduite il y a six ans",
     "added_at": "2025-11-28T15:32:17.759Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Soupçonné de corruption, Andriy Yermak, le bras droit de Volodymyr Zelensky, a présenté sa démission",
+    "added_at": "2025-11-28T15:39:26.064Z",
+    "removed_at": "2025-11-28T16:30:31.970Z",
+    "duration_minutes": 51,
+    "duration_str": "51m"
+  },
+  {
+    "title": "sciences:::Le pigeon télécommandé est-il l’avenir du drone?",
+    "added_at": "2025-11-28T16:00:21.050Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine −  Avec le départ d’Andriy Yermak, qui mènera les négociations pour l’Ukraine?",
+    "added_at": "2025-11-28T16:30:31.970Z"
+  },
+  {
+    "title": "monde:::Séisme en Ukraine: démission d'Andriy Yermak, le chef de cabinet de Zelensky soupçonné de corruption",
+    "added_at": "2025-11-28T16:44:28.530Z",
+    "removed_at": "2025-11-28T17:26:23.241Z",
+    "duration_minutes": 41,
+    "duration_str": "41m"
+  },
+  {
+    "title": "culture:::«Stranger Things», cinquième saison: la bataille mais plus le charme",
+    "added_at": "2025-11-28T16:49:06.052Z"
+  },
+  {
+    "title": "economie:::Valtronic a commencé à licencier à la vallée de Joux après la vente de ses sites aux Etats-Unis et au Maroc",
+    "added_at": "2025-11-28T16:56:05.847Z"
+  },
+  {
+    "title": "economie:::Nestlé, Richemont et VAT: des titres qui pourraient bien performer en 2026?",
+    "added_at": "2025-11-28T17:00:48.488Z"
+  },
+  {
+    "title": "economie:::La Suisse se trompe de guerre",
+    "added_at": "2025-11-28T17:07:48.250Z"
+  },
+  {
+    "title": "monde:::Séisme en Ukraine: démission d’Andriy Yermak, le chef de cabinet de Zelensky, soupçonné de corruption",
+    "added_at": "2025-11-28T17:26:23.241Z"
   }
 ]
