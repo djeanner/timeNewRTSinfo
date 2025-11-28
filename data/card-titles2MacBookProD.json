@@ -50343,7 +50343,10 @@
   },
   {
     "title": "economie:::En mauvaise posture, Cremo se sépare de son directeur avec effet immédiat",
-    "added_at": "2025-11-27T18:34:52.518Z"
+    "added_at": "2025-11-27T18:34:52.518Z",
+    "removed_at": "2025-11-28T10:01:41.115Z",
+    "duration_minutes": 926,
+    "duration_str": "15h 26m"
   },
   {
     "title": "economie:::L’entreprise de construction Maulini SA remporte le Prix SVC Genève 2025",
@@ -50373,7 +50376,10 @@
   },
   {
     "title": "culture:::Sur son nouvel album, «Poussière d’or», Stephan Eicher chante les désillusions et l’espérance",
-    "added_at": "2025-11-27T20:36:00.582Z"
+    "added_at": "2025-11-27T20:36:00.582Z",
+    "removed_at": "2025-11-28T09:59:25.173Z",
+    "duration_minutes": 803,
+    "duration_str": "13h 23m"
   },
   {
     "title": "monde:::Le bilan de l'incendie à Hong Kong monte à 94 morts, devenant le pire feu depuis des décennies",
@@ -50442,7 +50448,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Neuf morts après une incursion israélienne en Syrie",
-    "added_at": "2025-11-28T06:37:00.099Z"
+    "added_at": "2025-11-28T06:37:00.099Z",
+    "removed_at": "2025-11-28T07:51:30.734Z",
+    "duration_minutes": 74,
+    "duration_str": "1h 14m"
   },
   {
     "title": "suisse:::«C’était comme dans un film» : Alfred Gantner raconte la rencontre avec Trump des patrons suisses",
@@ -50450,14 +50459,61 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Viktor Orban se rend ce vendredi à Moscou",
-    "added_at": "2025-11-28T06:57:49.490Z"
+    "added_at": "2025-11-28T06:57:49.490Z",
+    "removed_at": "2025-11-28T08:03:05.597Z",
+    "duration_minutes": 65,
+    "duration_str": "1h 5m"
   },
   {
     "title": "monde:::Avec 128 morts, l’incendie de Hong Kong est désormais le pire depuis des décennies",
-    "added_at": "2025-11-28T07:39:41.101Z"
+    "added_at": "2025-11-28T07:39:41.101Z",
+    "removed_at": "2025-11-28T10:01:41.115Z",
+    "duration_minutes": 142,
+    "duration_str": "2h 22m"
   },
   {
     "title": "economie:::Au procès de Lafarge, plongée dans l’engrenage qui a conduit le cimentier à signer un pacte avec les djihadistes",
     "added_at": "2025-11-28T07:46:39.114Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Au moins dix morts après une incursion israélienne en Syrie",
+    "added_at": "2025-11-28T07:51:30.734Z",
+    "removed_at": "2025-11-28T09:45:24.820Z",
+    "duration_minutes": 113,
+    "duration_str": "1h 53m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Andriy Yermak, le bras droit de Volodymyr Zelensky, visé par des perquisitions de la justice ukrainienne",
+    "added_at": "2025-11-28T08:03:05.597Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Après une incursion israélienne qui aurait fait dix morts, la Syrie dénonce un «crime de guerre»",
+    "added_at": "2025-11-28T09:45:24.820Z",
+    "removed_at": "2025-11-28T09:54:42.585Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Après une incursion israélienne qui aurait fait dix morts, la Syrie dénonce un «crime de guerre»",
+    "added_at": "2025-11-28T09:54:42.585Z",
+    "removed_at": "2025-11-28T10:13:21.940Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
+  },
+  {
+    "title": "culture:::A Sévelin 36, les danses urbaines dominent l’émergence chorégraphique. Naissance d’une nouvelle tendance?",
+    "added_at": "2025-11-28T09:59:25.173Z"
+  },
+  {
+    "title": "suisse:::Martin Pfister propose une augmentation de la TVA pour moderniser l’armée suisse",
+    "added_at": "2025-11-28T10:01:41.115Z"
+  },
+  {
+    "title": "economie:::Stadler conteste en justice le choix de Siemens par les CFF",
+    "added_at": "2025-11-28T10:13:21.940Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Après une incursion israélienne, la Syrie dénonce un «crime de guerre»",
+    "added_at": "2025-11-28T10:13:21.940Z"
   }
 ]
