@@ -40807,7 +40807,10 @@
   },
   {
     "title": "Podcast – Comment mieux habiter?",
-    "added_at": "2025-11-27T16:15:27.656Z"
+    "added_at": "2025-11-27T16:15:27.656Z",
+    "removed_at": "2025-11-29T03:29:41.649Z",
+    "duration_minutes": 2114,
+    "duration_str": "1d 11h 14m"
   },
   {
     "title": "Le FBI ouvre une enquête pour terrorisme après l'attaque contre la Garde nationale à Washington",
@@ -41149,5 +41152,9 @@
   {
     "title": "La conseillère d’Etat vaudoise Isabelle Moret sur le système d’asile suisse",
     "added_at": "2025-11-29T00:23:30.401Z"
+  },
+  {
+    "title": "Une attaque de drones russes fait un mort et plusieurs blessés à Kiev",
+    "added_at": "2025-11-29T03:29:41.649Z"
   }
 ]
