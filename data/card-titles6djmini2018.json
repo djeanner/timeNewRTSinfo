@@ -68917,7 +68917,10 @@
   },
   {
     "title": "Israeli attack kills two children in southern Gaza despite ceasefire",
-    "added_at": "2025-11-29T10:19:47.119Z"
+    "added_at": "2025-11-29T10:19:47.119Z",
+    "removed_at": "2025-11-29T16:05:45.157Z",
+    "duration_minutes": 345,
+    "duration_str": "5h 45m"
   },
   {
     "title": "Sri Lanka seeks foreign help as Cyclone Ditwah death toll reaches 132",
@@ -68940,7 +68943,10 @@
   },
   {
     "title": "Kyiv sends delegation to US as Russian attacks on Ukraine kill 5",
-    "added_at": "2025-11-29T13:04:14.252Z"
+    "added_at": "2025-11-29T13:04:14.252Z",
+    "removed_at": "2025-11-29T16:19:06.642Z",
+    "duration_minutes": 194,
+    "duration_str": "3h 14m"
   },
   {
     "title": "Trump says Venezuela airspace to be shut ‘in its entirety’ as tensions rise",
@@ -68963,5 +68969,13 @@
   {
     "title": "US says Venezuela’s airspace ‘closed’ as fears of armed conflict rise",
     "added_at": "2025-11-29T14:01:32.275Z"
+  },
+  {
+    "title": "Gaza death toll surpasses 70,000 as Israel keeps up attacks despite truce",
+    "added_at": "2025-11-29T16:05:45.157Z"
+  },
+  {
+    "title": "Russian strikes on Kyiv kill three as Ukraine envoys travel to US for talks",
+    "added_at": "2025-11-29T16:19:06.642Z"
   }
 ]
