@@ -68464,7 +68464,10 @@
   },
   {
     "title": "Le virus de la grippe est arrivé en Suisse",
-    "added_at": "2025-11-24T20:23:11.003Z"
+    "added_at": "2025-11-24T20:23:11.003Z",
+    "removed_at": "2025-11-29T00:23:05.549Z",
+    "duration_minutes": 5999,
+    "duration_str": "4d 3h 59m"
   },
   {
     "title": "Les paramilitaires annoncent une trêve unilatérale de trois mois au Soudan",
@@ -69933,5 +69936,9 @@
   {
     "title": "En Turquie, le pape Léon XIV appelle à l'unité dans la chrétienté",
     "added_at": "2025-11-28T21:41:53.826Z"
+  },
+  {
+    "title": "La conseillère d’Etat vaudoise Isabelle Moret sur le système d’asile suisse",
+    "added_at": "2025-11-29T00:23:05.549Z"
   }
 ]
