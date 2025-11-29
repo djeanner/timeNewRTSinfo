@@ -69257,7 +69257,10 @@
   },
   {
     "title": "Le zoo de Bâle fête l'arrivée de son nouveau gorille, quelques mois après la mort de son prédécesseur",
-    "added_at": "2025-11-26T19:21:37.562Z"
+    "added_at": "2025-11-26T19:21:37.562Z",
+    "removed_at": "2025-11-29T05:17:26.950Z",
+    "duration_minutes": 3475,
+    "duration_str": "2d 9h 55m"
   },
   {
     "title": "Aucun lien démontré entre les ondes des smartphones et le cancer",
@@ -69605,7 +69608,10 @@
   },
   {
     "title": "Podcast – Comment mieux habiter?",
-    "added_at": "2025-11-27T16:15:27.585Z"
+    "added_at": "2025-11-27T16:15:27.585Z",
+    "removed_at": "2025-11-29T03:30:34.594Z",
+    "duration_minutes": 2115,
+    "duration_str": "1d 11h 15m"
   },
   {
     "title": "Le FBI ouvre une enquête pour terrorisme après l'attaque contre la Garde nationale à Washington",
@@ -69940,5 +69946,13 @@
   {
     "title": "La conseillère d’Etat vaudoise Isabelle Moret sur le système d’asile suisse",
     "added_at": "2025-11-29T00:23:05.549Z"
+  },
+  {
+    "title": "Une attaque de drones russes fait un mort et plusieurs blessés à Kiev",
+    "added_at": "2025-11-29T03:30:34.594Z"
+  },
+  {
+    "title": "Magic Pass sanctionne des stations qui trichaient sur leur nombre d’entrées: interview de Sébastien Travelletti",
+    "added_at": "2025-11-29T05:17:26.950Z"
   }
 ]
