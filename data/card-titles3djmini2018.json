@@ -116775,7 +116775,10 @@
   },
   {
     "title": "Shoppers, Drawn by Steep Discounts, Power Through Black Friday",
-    "added_at": "2025-11-29T17:50:51.599Z"
+    "added_at": "2025-11-29T17:50:51.599Z",
+    "removed_at": "2025-11-30T05:51:01.184Z",
+    "duration_minutes": 720,
+    "duration_str": "12h"
   },
   {
     "title": "Mourners Line Up to Honor Victims of Hong Kong’s Deadliest Fire in Decades",
@@ -116857,7 +116860,10 @@
   },
   {
     "title": "Syria Tiptoes Toward Transitional Justice",
-    "added_at": "2025-11-30T00:03:38.692Z"
+    "added_at": "2025-11-30T00:03:38.692Z",
+    "removed_at": "2025-11-30T06:17:47.125Z",
+    "duration_minutes": 374,
+    "duration_str": "6h 14m"
   },
   {
     "title": "The Ex-President Whom Trump Plans to Pardon Flooded America With Cocaine",
@@ -116886,5 +116892,20 @@
   {
     "title": "Alabama Defeats Auburn in Iron Bowl to Reach SEC Championship",
     "added_at": "2025-11-30T05:14:39.648Z"
+  },
+  {
+    "title": "4 Dead After Shooting at Banquet Hall in California",
+    "added_at": "2025-11-30T05:47:10.158Z",
+    "removed_at": "2025-11-30T06:04:21.890Z",
+    "duration_minutes": 17,
+    "duration_str": "17m"
+  },
+  {
+    "title": "4 Dead After Shooting at Banquet Hall in Northern California",
+    "added_at": "2025-11-30T06:04:21.890Z"
+  },
+  {
+    "title": "Cory Booker Weds Alexis Lewis in a Private Ceremony",
+    "added_at": "2025-11-30T06:17:47.125Z"
   }
 ]

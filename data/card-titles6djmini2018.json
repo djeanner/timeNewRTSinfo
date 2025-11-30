@@ -68949,7 +68949,10 @@
   },
   {
     "title": "Indonesia death toll rises to 303 after catastrophic flooding in Sumatra",
-    "added_at": "2025-11-29T11:11:23.768Z"
+    "added_at": "2025-11-29T11:11:23.768Z",
+    "removed_at": "2025-11-30T06:59:40.086Z",
+    "duration_minutes": 1188,
+    "duration_str": "19h 48m"
   },
   {
     "title": "Minorities hail renewed space as Pope Leo visits Turkiye",
@@ -68999,7 +69002,10 @@
   },
   {
     "title": "Gaza death toll surpasses 70,000 as Israel keeps up attacks despite truce",
-    "added_at": "2025-11-29T16:05:45.157Z"
+    "added_at": "2025-11-29T16:05:45.157Z",
+    "removed_at": "2025-11-30T06:04:22.927Z",
+    "duration_minutes": 838,
+    "duration_str": "13h 58m"
   },
   {
     "title": "Russian strikes on Kyiv kill three as Ukraine envoys travel to US for talks",
@@ -69031,10 +69037,7 @@
   },
   {
     "title": "Venezuela denounces Trump’s airspace remarks as ‘colonialist threat’",
-    "added_at": "2025-11-29T20:02:50.426Z",
-    "removed_at": "2025-11-29T22:58:50.934Z",
-    "duration_minutes": 176,
-    "duration_str": "2h 56m"
+    "added_at": "2025-11-29T20:02:50.426Z"
   },
   {
     "title": "Pope Leo visits Blue Mosque in Turkiye’s Istanbul",
@@ -69042,11 +69045,17 @@
   },
   {
     "title": "Corbyn’s new party faces crisis as cofounder skips first day of conference",
-    "added_at": "2025-11-29T21:03:58.393Z"
+    "added_at": "2025-11-29T21:03:58.393Z",
+    "removed_at": "2025-11-30T07:35:53.346Z",
+    "duration_minutes": 631,
+    "duration_str": "10h 31m"
   },
   {
     "title": "Guinea-Bissau’s deposed president travels to Congo’s Brazzaville: Reports",
-    "added_at": "2025-11-29T21:59:28.125Z"
+    "added_at": "2025-11-29T21:59:28.125Z",
+    "removed_at": "2025-11-30T06:55:51.900Z",
+    "duration_minutes": 536,
+    "duration_str": "8h 56m"
   },
   {
     "title": "Russian attack on Ukraine kills six as Kyiv envoys travel to US for talks",
@@ -69082,7 +69091,10 @@
   },
   {
     "title": "Flamengo beat Palmeiras to win Copa Libertadores title",
-    "added_at": "2025-11-30T00:43:51.668Z"
+    "added_at": "2025-11-30T00:43:51.668Z",
+    "removed_at": "2025-11-30T06:06:20.161Z",
+    "duration_minutes": 322,
+    "duration_str": "5h 22m"
   },
   {
     "title": "Bangladesh’s Khaleda Zia hospitalised in ‘very critical’ condition",
@@ -69099,5 +69111,53 @@
   {
     "title": "Tens of thousands rally in Europe, demanding justice over Israel’s Gaza war",
     "added_at": "2025-11-30T04:23:14.572Z"
+  },
+  {
+    "title": "Israel carries out attacks in southern Gaza; raids and arrests in West Bank",
+    "added_at": "2025-11-30T06:04:22.927Z",
+    "removed_at": "2025-11-30T07:33:58.429Z",
+    "duration_minutes": 89,
+    "duration_str": "1h 29m"
+  },
+  {
+    "title": "Thousands rally in Philippines, demanding Marcos resign over graft scandal",
+    "added_at": "2025-11-30T06:06:20.161Z",
+    "removed_at": "2025-11-30T06:23:31.323Z",
+    "duration_minutes": 17,
+    "duration_str": "17m"
+  },
+  {
+    "title": "Thousands rally in Philippines, demanding Marcos resign over fraud scandal",
+    "added_at": "2025-11-30T06:23:31.323Z",
+    "removed_at": "2025-11-30T07:33:58.429Z",
+    "duration_minutes": 70,
+    "duration_str": "1h 10m"
+  },
+  {
+    "title": "Four dead after 14 people shot at child’s birthday party in California",
+    "added_at": "2025-11-30T06:55:51.900Z"
+  },
+  {
+    "title": "Messi, Inter Miami into first MLS Cup final after New York rout",
+    "added_at": "2025-11-30T06:59:40.086Z"
+  },
+  {
+    "title": "Gaza’s ‘social fabric destroyed’ by Israel’s killing of 70,000 Palestinians",
+    "added_at": "2025-11-30T07:33:58.429Z"
+  },
+  {
+    "title": "Thousands rally in Philippines, demanding Marcos resign over corruption",
+    "added_at": "2025-11-30T07:33:58.429Z",
+    "removed_at": "2025-11-30T07:43:36.406Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "‘Neighbourhoods buried under mud’: Sri Lanka floods death toll rises to 159",
+    "added_at": "2025-11-30T07:35:53.346Z"
+  },
+  {
+    "title": "Thousands march in Philippines, demanding Marcos resign over fraud scandal",
+    "added_at": "2025-11-30T07:43:36.406Z"
   }
 ]
