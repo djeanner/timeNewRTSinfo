@@ -53830,7 +53830,10 @@
   },
   {
     "title": "economie:::La Suisse se trompe de guerre",
-    "added_at": "2025-11-28T17:06:12.022Z"
+    "added_at": "2025-11-28T17:06:12.022Z",
+    "removed_at": "2025-11-30T12:49:15.416Z",
+    "duration_minutes": 2623,
+    "duration_str": "1d 19h 43m"
   },
   {
     "title": "monde:::Séisme en Ukraine: démission d’Andriy Yermak, le chef de cabinet de Zelensky, soupçonné de corruption",
@@ -54027,7 +54030,10 @@
   },
   {
     "title": "monde:::En Californie, au moins quatre morts et dix blessés dans des tirs en pleine rue",
-    "added_at": "2025-11-30T06:40:36.727Z"
+    "added_at": "2025-11-30T06:40:36.727Z",
+    "removed_at": "2025-11-30T13:08:23.545Z",
+    "duration_minutes": 387,
+    "duration_str": "6h 27m"
   },
   {
     "title": "economie:::Le pionnier suisse de l’hyperloop Swisspod continue son développement aux Etats-Unis, avec ou sans Musk",
@@ -54035,7 +54041,10 @@
   },
   {
     "title": "culture:::Erri De Luca, écrivain: «La faim a toujours été la force motrice des grandes migrations»",
-    "added_at": "2025-11-30T08:25:41.824Z"
+    "added_at": "2025-11-30T08:25:41.824Z",
+    "removed_at": "2025-11-30T14:11:22.881Z",
+    "duration_minutes": 345,
+    "duration_str": "5h 45m"
   },
   {
     "title": "suisse:::Une commission des Eglises romandes analysera le «cas Protestinfo»",
@@ -54065,14 +54074,54 @@
   },
   {
     "title": "suisse:::En direct – Les votations de ce dimanche 30 novembre: refus catégorique du service citoyen et de la taxation des héritages",
-    "added_at": "2025-11-30T11:34:39.501Z"
+    "added_at": "2025-11-30T11:34:39.501Z",
+    "removed_at": "2025-11-30T12:51:10.828Z",
+    "duration_minutes": 76,
+    "duration_str": "1h 16m"
   },
   {
     "title": "economie:::Aujourd'hui pressée d’obtenir un accord formel, la Suisse est-elle passée à côté d’un deal douanier de 10% ce printemps avec les Etats-Unis?",
-    "added_at": "2025-11-30T11:57:32.491Z"
+    "added_at": "2025-11-30T11:57:32.491Z",
+    "removed_at": "2025-11-30T13:37:01.490Z",
+    "duration_minutes": 99,
+    "duration_str": "1h 39m"
   },
   {
     "title": "suisse:::Le Service citoyen se prend une claque dans les urnes",
     "added_at": "2025-11-30T12:14:41.554Z"
+  },
+  {
+    "title": "suisse:::En direct – Les votations de ce dimanche: soupçons de fraude à Vernier, refus catégorique du service citoyen et de la taxation des héritages",
+    "added_at": "2025-11-30T12:51:10.828Z",
+    "removed_at": "2025-11-30T12:54:59.700Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "suisse:::En direct – Les votations de ce dimanche: soupçons de fraude à Vernier, refus catégorique du service citoyen et d'impôt sur les successions",
+    "added_at": "2025-11-30T12:54:59.700Z"
+  },
+  {
+    "title": "monde:::Face à ses démêlés judiciaires, Benyamin Netanyahou demande une grâce présidentielle",
+    "added_at": "2025-11-30T13:08:23.545Z"
+  },
+  {
+    "title": "economie:::Aujourd’hui pressée d’obtenir un accord formel, la Suisse est-elle passée à côté d’un deal douanier de 10% ce printemps avec les Etats-Unis?",
+    "added_at": "2025-11-30T13:37:01.490Z",
+    "removed_at": "2025-11-30T14:22:51.907Z",
+    "duration_minutes": 45,
+    "duration_str": "45m"
+  },
+  {
+    "title": "suisse:::Imposer le 30 km/h sur les axes principaux? C’est fini pour Zurich et Winterthour",
+    "added_at": "2025-11-30T14:11:22.881Z"
+  },
+  {
+    "title": "economie:::La Suisse est-elle passée à côté d’un deal douanier de 10% avec les Etats-Unis?",
+    "added_at": "2025-11-30T14:22:51.907Z"
+  },
+  {
+    "title": "culture:::Au Théâtre des Osses à Fribourg, «Le Misanthrope» jubilatoire et féministe d’Anne Schwaller",
+    "added_at": "2025-11-30T14:30:32.606Z"
   }
 ]
