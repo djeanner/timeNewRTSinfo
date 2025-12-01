@@ -25,15 +25,16 @@
   },
   {
     "title": "suisse:::Après la déroute de l’initiative des Jeunes socialistes, le milliardaire Alfred Gantner réclame un impôt progressif sur les grosses fortunes",
-    "added_at": "2025-12-01T10:23:09.229Z",
+    "added_at": "2025-12-01T10:22:03.162Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "monde:::«Des femmes sont enterrées ni vu ni connu»: au Sénégal, où règne le silence sur les violences masculines",
     "added_at": "2025-12-01T07:45:17.382Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-01T15:39:15.890Z",
+    "duration_minutes": 474,
+    "duration_str": "7h 54m"
   },
   {
     "title": "suisse:::Philomena Colatrella et Jean-Jacques Roth rejoignent le conseil d’administration du Temps SA",
@@ -45,35 +46,37 @@
   {
     "title": "economie:::Finance durable: le défi d’agir au niveau local",
     "added_at": "2025-12-01T06:00:11.309Z",
-    "removed_at": "2025-12-01T10:57:03.349Z",
-    "duration_minutes": 297,
-    "duration_str": "4h 57m"
+    "removed_at": "2025-12-01T10:56:25.562Z",
+    "duration_minutes": 296,
+    "duration_str": "4h 56m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Confiant, Donald Trump estime qu'il y a «de bonnes chances» pour un accord",
     "added_at": "2025-12-01T06:40:11.648Z",
-    "removed_at": "2025-12-01T10:54:44.834Z",
-    "duration_minutes": 255,
-    "duration_str": "4h 15m"
+    "removed_at": "2025-12-01T10:54:30.665Z",
+    "duration_minutes": 254,
+    "duration_str": "4h 14m"
   },
   {
     "title": "suisse:::Refus net de l’impôt sur les successions et du service citoyen, votes cantonaux: l'essentiel de ce dimanche 30 novembre 2025",
     "added_at": "2025-12-01T06:36:20.308Z",
-    "removed_at": "2025-12-01T10:54:44.834Z",
+    "removed_at": "2025-12-01T10:54:30.665Z",
     "duration_minutes": 258,
     "duration_str": "4h 18m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Des combattants palestiniens tués dans des tunnels à Rafah",
     "added_at": "2025-12-01T06:42:02.492Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-01T13:16:17.497Z",
+    "duration_minutes": 394,
+    "duration_str": "6h 34m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Malgré les efforts diplomatiques, les bombardements russes se poursuivent",
-    "added_at": "2025-12-01T10:54:44.834Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-12-01T10:54:30.665Z",
+    "removed_at": "2025-12-01T13:56:30.304Z",
+    "duration_minutes": 182,
+    "duration_str": "3h 2m"
   },
   {
     "title": "suisse:::La justice valaisanne acquitte l’auteur et le responsable de la publication d’un mots-croisés affirmant que l’UDC est un parti «raciste» et «homophobe»",
@@ -84,6 +87,62 @@
   {
     "title": "suisse:::L’homme qui gère les déchets et la pollution à Genève, Jacques Martelain, prend sa retraite de géologue cantonal",
     "added_at": "2025-12-01T12:43:09.272Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le président Isaac Herzog ne considérera «que le bien d'Israël» pour gracier ou non Benyamin Netanyahou",
+    "added_at": "2025-12-01T13:16:17.497Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Steve Witkoff et Jared Kushner dans le guêpier du Kremlin, entre oligarques et défenestrations suspectes",
+    "added_at": "2025-12-01T13:40:00.333Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − En novembre, l’armée russe a réalisé son avancée la plus importante depuis un an",
+    "added_at": "2025-12-01T13:56:30.304Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::Le grand patron de Gunvor Torbjörn Törnqvist démissionne",
+    "added_at": "2025-12-01T14:03:34.099Z",
+    "removed_at": "2025-12-01T14:17:47.426Z",
+    "duration_minutes": 14,
+    "duration_str": "14m"
+  },
+  {
+    "title": "suisse:::Douze jeunes renvoyés en justice après des explosions d’engins pyrotechniques à Lausanne",
+    "added_at": "2025-12-01T14:10:42.835Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::Le grand patron de Gunvor, Torbjörn Törnqvist, démissionne",
+    "added_at": "2025-12-01T14:17:47.426Z",
+    "removed_at": "2025-12-01T15:15:25.355Z",
+    "duration_minutes": 58,
+    "duration_str": "58m"
+  },
+  {
+    "title": "sport:::Nicola Pietrangeli, la mort du printemps du tennis italien",
+    "added_at": "2025-12-01T14:32:00.811Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::Le grand patron de Gunvor, Torbjörn Törnqvist, cède ses parts dans l'entreprise",
+    "added_at": "2025-12-01T15:15:25.355Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "culture:::L’édition 2026 du festival d’Angoulême est annulée, l’organisation blâme les financeurs publics",
+    "added_at": "2025-12-01T15:32:04.393Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -132,7 +191,8 @@
   {
     "title": "suisse:::Après la déroute de l’initiative des Jeunes socialistes, le milliardaire Alfred Gantner réclame un impôt progressif sur les grosses fortunes",
     "added_at": "2025-12-01T10:00:54.341Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-01T10:22:03.162Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
   }
 ]
