@@ -69268,7 +69268,10 @@
   },
   {
     "title": "Polls open in Honduras presidential election marked by fraud accusations",
-    "added_at": "2025-11-30T14:40:02.843Z"
+    "added_at": "2025-11-30T14:40:02.843Z",
+    "removed_at": "2025-12-01T01:41:58.961Z",
+    "duration_minutes": 661,
+    "duration_str": "11h 1m"
   },
   {
     "title": "Israel attacks on Syria: What happened, who did Israel claim it was after?",
@@ -69280,10 +69283,7 @@
   },
   {
     "title": "Is US President Donald Trump preparing to strike Venezuela?",
-    "added_at": "2025-11-30T16:09:55.332Z",
-    "removed_at": "2025-11-30T22:59:24.378Z",
-    "duration_minutes": 409,
-    "duration_str": "6h 49m"
+    "added_at": "2025-11-30T16:09:55.332Z"
   },
   {
     "title": "Pope Leo insists on 2-state solution to resolve Israel-Palestine conflict",
@@ -69298,7 +69298,10 @@
   },
   {
     "title": "Isak’s first Premier League goal helps Liverpool to vital win at West Ham",
-    "added_at": "2025-11-30T17:24:39.372Z"
+    "added_at": "2025-11-30T17:24:39.372Z",
+    "removed_at": "2025-12-01T01:40:01.306Z",
+    "duration_minutes": 495,
+    "duration_str": "8h 15m"
   },
   {
     "title": "US and Ukraine talks begin as Trump pushes to bring war to an end",
@@ -69344,5 +69347,23 @@
   {
     "title": "Top global arms producers’ revenues surge as major wars rage: SIPRI report",
     "added_at": "2025-12-01T00:02:26.180Z"
+  },
+  {
+    "title": "Honduras presidential vote overshadowed by Trump’s surprise intervention",
+    "added_at": "2025-12-01T01:41:58.961Z",
+    "removed_at": "2025-12-01T01:57:16.534Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "Honduras elects new president in poll overshadowed by Trump’s threats",
+    "added_at": "2025-12-01T01:57:16.534Z",
+    "removed_at": "2025-12-01T01:59:13.576Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Honduras votes for new president in poll overshadowed by Trump’s threats",
+    "added_at": "2025-12-01T01:59:13.576Z"
   }
 ]

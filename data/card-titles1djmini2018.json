@@ -70091,7 +70091,10 @@
   },
   {
     "title": "Après trois jours d’occupation illégale du campus de l'UNIL, les étudiants ont levé le camp",
-    "added_at": "2025-11-28T18:01:39.977Z"
+    "added_at": "2025-11-28T18:01:39.977Z",
+    "removed_at": "2025-12-01T01:43:48.592Z",
+    "duration_minutes": 3342,
+    "duration_str": "2d 7h 42m"
   },
   {
     "title": "La Suisse veut continuer à accélérer ses procédures d'asile pour plus d'efficacité",
@@ -70331,7 +70334,10 @@
   },
   {
     "title": "Une fusillade en Californie fait au moins quatre morts et plusieurs blessés",
-    "added_at": "2025-11-30T07:32:05.625Z"
+    "added_at": "2025-11-30T07:32:05.625Z",
+    "removed_at": "2025-12-01T00:50:23.574Z",
+    "duration_minutes": 1038,
+    "duration_str": "17h 18m"
   },
   {
     "title": "L'ours en Slovénie: une coexistence exemplaire qui vacille",
@@ -70540,5 +70546,13 @@
   {
     "title": "Initiative sur l'avenir: les premières réactions de Clarence Chollet et Johanna Gapany",
     "added_at": "2025-12-01T00:02:24.748Z"
+  },
+  {
+    "title": "Une fusillade lors d'un anniversaire en Californie fait au moins quatre morts dont trois enfants",
+    "added_at": "2025-12-01T00:50:23.574Z"
+  },
+  {
+    "title": "Donald Trump confirme s'être entretenu au téléphone avec Nicolás Maduro",
+    "added_at": "2025-12-01T01:43:48.592Z"
   }
 ]
