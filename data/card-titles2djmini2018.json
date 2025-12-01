@@ -54248,7 +54248,10 @@
   },
   {
     "title": "suisse:::Le service citoyen se prend une claque dans les urnes",
-    "added_at": "2025-11-30T17:05:22.091Z"
+    "added_at": "2025-11-30T17:05:22.091Z",
+    "removed_at": "2025-12-01T04:43:34.167Z",
+    "duration_minutes": 698,
+    "duration_str": "11h 38m"
   },
   {
     "title": "suisse:::Vaud prend le contre-pied de Genève en refusant catégoriquement le droit de vote aux personnes sous curatelle",
@@ -54323,6 +54326,17 @@
   },
   {
     "title": "monde:::Guerre en Ukraine, en direct − Donald Trump estime qu'il y a «de bonnes chances» pour un accord",
-    "added_at": "2025-12-01T02:46:54.243Z"
+    "added_at": "2025-12-01T02:46:54.243Z",
+    "removed_at": "2025-12-01T04:30:10.904Z",
+    "duration_minutes": 103,
+    "duration_str": "1h 43m"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine, en direct − Confiant, Donald Trump estime qu'il y a «de bonnes chances» pour un accord",
+    "added_at": "2025-12-01T04:30:10.904Z"
+  },
+  {
+    "title": "monde:::Les ventes d'armes en hausse de 5,9% en 2024, un record pour les 100 plus grands fabricants mondiaux",
+    "added_at": "2025-12-01T04:43:34.167Z"
   }
 ]
