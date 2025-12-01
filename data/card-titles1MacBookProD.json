@@ -41270,7 +41270,10 @@
   },
   {
     "title": "Magic Pass remet à l'ordre les stations qui \"trichent\" avec leurs tourniquets",
-    "added_at": "2025-11-28T15:32:17.710Z"
+    "added_at": "2025-11-28T15:32:17.710Z",
+    "removed_at": "2025-12-01T11:04:08.508Z",
+    "duration_minutes": 4051,
+    "duration_str": "2d 19h 31m"
   },
   {
     "title": "Impliqué dans un scandale de corruption, le chef de cabinet de Zelensky démissionne",
@@ -41338,7 +41341,10 @@
   },
   {
     "title": "Martin Pfister veut augmenter la TVA de 0,5% pour financer l'armée",
-    "added_at": "2025-11-28T20:39:48.952Z"
+    "added_at": "2025-11-28T20:39:48.952Z",
+    "removed_at": "2025-12-01T11:20:39.287Z",
+    "duration_minutes": 3760,
+    "duration_str": "2d 14h 40m"
   },
   {
     "title": "Les Suissesses s'inclinent pour la première de Rafel Navarro",
@@ -41374,7 +41380,10 @@
   },
   {
     "title": "Une attaque de drones russes fait un mort et plusieurs blessés à Kiev",
-    "added_at": "2025-11-29T03:29:41.649Z"
+    "added_at": "2025-11-29T03:29:41.649Z",
+    "removed_at": "2025-12-01T10:57:03.297Z",
+    "duration_minutes": 3327,
+    "duration_str": "2d 7h 27m"
   },
   {
     "title": "Le VIH, un virus mieux contrôlé mais encore mal connu des plus jeunes",
@@ -41490,7 +41499,10 @@
   },
   {
     "title": "Sport matin - Sébastien Ogier, la preuve par 9?",
-    "added_at": "2025-12-01T10:23:09.177Z"
+    "added_at": "2025-12-01T10:23:09.177Z",
+    "removed_at": "2025-12-01T12:03:06.046Z",
+    "duration_minutes": 99,
+    "duration_str": "1h 39m"
   },
   {
     "title": "Le rover Perseverance de la Nasa a détecté pour la première fois des orages sur Mars",
@@ -41642,14 +41654,79 @@
   },
   {
     "title": "Les contrôles additionnels sur les cèdres lausannois sont rassurants",
-    "added_at": "2025-12-01T10:23:09.177Z"
+    "added_at": "2025-12-01T10:23:09.177Z",
+    "removed_at": "2025-12-01T12:12:26.413Z",
+    "duration_minutes": 109,
+    "duration_str": "1h 49m"
   },
   {
     "title": "Raisins secs ou jus à la place du vin: les viticulteurs suisses devraient-ils se recycler?",
-    "added_at": "2025-12-01T10:23:09.177Z"
+    "added_at": "2025-12-01T10:23:09.177Z",
+    "removed_at": "2025-12-01T11:48:57.073Z",
+    "duration_minutes": 85,
+    "duration_str": "1h 25m"
   },
   {
     "title": "Podcast – Marco Müller, braqueur jurassien insaisissable",
-    "added_at": "2025-12-01T10:23:09.177Z"
+    "added_at": "2025-12-01T10:23:09.177Z",
+    "removed_at": "2025-12-01T11:48:57.073Z",
+    "duration_minutes": 85,
+    "duration_str": "1h 25m"
+  },
+  {
+    "title": "Le taux hypothécaire de référence pour les loyers reste inchangé à 1,25% en décembre",
+    "added_at": "2025-12-01T10:57:03.297Z"
+  },
+  {
+    "title": "Le vol au Musée de Vidy, un braquage à la disqueuse en moins de trois minutes",
+    "added_at": "2025-12-01T11:04:08.508Z",
+    "removed_at": "2025-12-01T11:20:39.287Z",
+    "duration_minutes": 16,
+    "duration_str": "16m"
+  },
+  {
+    "title": "Le vol au Musée romain de Vidy, un braquage à la disqueuse en moins de trois minutes",
+    "added_at": "2025-12-01T11:20:39.287Z"
+  },
+  {
+    "title": "Les cantons vont renforcer la coordination de la planification hospitalière",
+    "added_at": "2025-12-01T11:20:39.287Z"
+  },
+  {
+    "title": "Intervention en cours au Jardin anglais à Genève après la découverte d'un objet assimilé à une grenade",
+    "added_at": "2025-12-01T11:48:57.073Z",
+    "removed_at": "2025-12-01T11:56:01.830Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Plus de 1100 morts et de nombreux disparus à la suite des inondations en Asie",
+    "added_at": "2025-12-01T11:48:57.073Z"
+  },
+  {
+    "title": "Une intervention a eu lieu au Jardin anglais à Genève après la découverte d'un objet assimilé à une grenade",
+    "added_at": "2025-12-01T11:56:01.830Z",
+    "removed_at": "2025-12-01T12:05:24.054Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "En voyage à Istanbul, le pape Léon XIV visite la Mosquée bleue mais fait l’impasse sur la basilique Sainte-Sophie",
+    "added_at": "2025-12-01T12:03:06.046Z",
+    "removed_at": "2025-12-01T12:21:54.427Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
+  },
+  {
+    "title": "Un objet assimilé à une grenade a provoqué un gros déploiement policier au Jardin anglais à Genève",
+    "added_at": "2025-12-01T12:05:24.054Z"
+  },
+  {
+    "title": "Acquittement général dans l'affaire du mots croisés du Nouvelliste",
+    "added_at": "2025-12-01T12:12:26.413Z"
+  },
+  {
+    "title": "Lʹunion fait la force",
+    "added_at": "2025-12-01T12:21:54.427Z"
   }
 ]
