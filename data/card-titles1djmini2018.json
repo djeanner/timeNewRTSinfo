@@ -63785,7 +63785,10 @@
   },
   {
     "title": "Le dossier des votations fédérales du 30 novembre",
-    "added_at": "2025-11-12T08:37:02.277Z"
+    "added_at": "2025-11-12T08:37:02.277Z",
+    "removed_at": "2025-12-02T15:37:13.506Z",
+    "duration_minutes": 29220,
+    "duration_str": "20d 7h"
   },
   {
     "title": "Une nouvelle affaire de corruption touchant le secteur énergétique secoue l'Ukraine",
@@ -70583,7 +70586,10 @@
   },
   {
     "title": "Vaud refuse le droit de vote cantonal aux étrangers",
-    "added_at": "2025-11-30T12:34:00.255Z"
+    "added_at": "2025-11-30T12:34:00.255Z",
+    "removed_at": "2025-12-02T16:03:54.851Z",
+    "duration_minutes": 3089,
+    "duration_str": "2d 3h 29m"
   },
   {
     "title": "Les initiatives sur le service citoyen et les successions balayées à respectivement 84% et 79%, selon les projections de la SSR",
@@ -70739,7 +70745,10 @@
   },
   {
     "title": "La coprésidente du PS Mattea Meyer fait une pause dans sa carrière, évoquant une \"grande fatigue\"",
-    "added_at": "2025-11-30T22:07:45.231Z"
+    "added_at": "2025-11-30T22:07:45.231Z",
+    "removed_at": "2025-12-02T15:52:31.772Z",
+    "duration_minutes": 2504,
+    "duration_str": "1d 17h 44m"
   },
   {
     "title": "Initiative sur l'avenir: les premières réactions de Clarence Chollet et Johanna Gapany",
@@ -70785,11 +70794,17 @@
   },
   {
     "title": "Les questions de fond persistent après l'échec des deux initiatives, souligne la presse",
-    "added_at": "2025-12-01T07:12:39.534Z"
+    "added_at": "2025-12-01T07:12:39.534Z",
+    "removed_at": "2025-12-02T16:09:35.379Z",
+    "duration_minutes": 1976,
+    "duration_str": "1d 8h 56m"
   },
   {
     "title": "La Castafiore est toujours aussi belle en son miroir au Théâtre de Carouge",
-    "added_at": "2025-12-01T07:29:48.886Z"
+    "added_at": "2025-12-01T07:29:48.886Z",
+    "removed_at": "2025-12-02T14:40:32.266Z",
+    "duration_minutes": 1870,
+    "duration_str": "1d 7h 10m"
   },
   {
     "title": "Un conte drôle et joyeux pour vous accompagner jusqu’à Noël",
@@ -70852,7 +70867,10 @@
   },
   {
     "title": "Plus de 1100 morts et de nombreux disparus à la suite des inondations en Asie",
-    "added_at": "2025-12-01T11:49:59.464Z"
+    "added_at": "2025-12-01T11:49:59.464Z",
+    "removed_at": "2025-12-02T16:22:49.642Z",
+    "duration_minutes": 1712,
+    "duration_str": "1d 4h 32m"
   },
   {
     "title": "Une intervention a eu lieu au Jardin anglais à Genève après la découverte d'un objet assimilé à une grenade",
@@ -70963,7 +70981,10 @@
   },
   {
     "title": "L'UDC fribourgeois Pierre-André Page devient le \"premier citoyen du pays\"",
-    "added_at": "2025-12-01T16:34:32.289Z"
+    "added_at": "2025-12-01T16:34:32.289Z",
+    "removed_at": "2025-12-02T14:34:52.152Z",
+    "duration_minutes": 1320,
+    "duration_str": "22h"
   },
   {
     "title": "Un plan de paix ne peut être \"finalisé\" qu'avec Kiev et l'Europe, selon l'Elysée",
@@ -71194,10 +71215,84 @@
   },
   {
     "title": "\"La Suisse s'est rendormie\", selon le chef de l'Armée Thomas Süssli",
-    "added_at": "2025-12-02T14:21:26.924Z"
+    "added_at": "2025-12-02T14:21:26.924Z",
+    "removed_at": "2025-12-02T14:31:08.001Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
   },
   {
     "title": "L'option d'un seul hôpital pour le domaine stationnaire est à l'étude à Neuchâtel",
     "added_at": "2025-12-02T14:25:17.425Z"
+  },
+  {
+    "title": "La Suisse s'est \"rendormie\" sur les questions de défense, selon le chef de l'Armée Thomas Süssli",
+    "added_at": "2025-12-02T14:31:08.001Z"
+  },
+  {
+    "title": "Le Conseil des Etats s'empare du budget 2026 dans un contexte de rigueur budgétaire",
+    "added_at": "2025-12-02T14:34:52.152Z"
+  },
+  {
+    "title": "SwissPass lance une carte prépayée pour acheter des billets sans smartphone",
+    "added_at": "2025-12-02T14:40:32.266Z"
+  },
+  {
+    "title": "Trafic ferroviaire interrompu sur la ligne Lausanne - Fribourg",
+    "added_at": "2025-12-02T15:03:10.970Z",
+    "removed_at": "2025-12-02T15:08:50.767Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "Trafic ferroviaire perturbé sur la ligne Lausanne - Fribourg",
+    "added_at": "2025-12-02T15:08:50.767Z",
+    "removed_at": "2025-12-02T15:22:07.396Z",
+    "duration_minutes": 13,
+    "duration_str": "13m"
+  },
+  {
+    "title": "Le trafic ferroviaire perturbé sur la ligne Lausanne-Fribourg",
+    "added_at": "2025-12-02T15:22:07.396Z",
+    "removed_at": "2025-12-02T15:27:47.888Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "Le trafic ferroviaire interrompu sur la ligne Lausanne-Fribourg",
+    "added_at": "2025-12-02T15:27:47.888Z",
+    "removed_at": "2025-12-02T16:28:29.990Z",
+    "duration_minutes": 60,
+    "duration_str": "1h"
+  },
+  {
+    "title": "Le cinéma suisse obtient trois nominations aux \"Oscars européens\"",
+    "added_at": "2025-12-02T15:27:47.888Z"
+  },
+  {
+    "title": "Dertour Suisse se réorganise et prévoit de biffer 250 postes",
+    "added_at": "2025-12-02T15:29:38.397Z"
+  },
+  {
+    "title": "Le budget neuchâtelois a été accepté grâce à un compromis",
+    "added_at": "2025-12-02T15:52:31.772Z"
+  },
+  {
+    "title": "Déjà présent chez nos ancêtres, le tartre nous agace, mais fascine les chercheurs",
+    "added_at": "2025-12-02T16:09:35.379Z"
+  },
+  {
+    "title": "Ecologique, du terroir ou chocolaté, l'étonnant succès du calendrier de l'Avent",
+    "added_at": "2025-12-02T16:22:49.642Z"
+  },
+  {
+    "title": "Le trafic ferroviaire reprend partiellement sur la ligne Lausanne-Fribourg",
+    "added_at": "2025-12-02T16:28:29.990Z",
+    "removed_at": "2025-12-02T16:34:10.786Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "Le trafic ferroviaire a partiellement repris sur la ligne Lausanne-Fribourg",
+    "added_at": "2025-12-02T16:34:10.786Z"
   }
 ]
