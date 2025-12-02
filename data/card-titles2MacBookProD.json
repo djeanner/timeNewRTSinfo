@@ -50062,7 +50062,10 @@
   },
   {
     "title": "monde:::Moscou se prépare à recevoir de nouveau «l’ami» Steve Witkoff",
-    "added_at": "2025-11-26T18:22:27.978Z"
+    "added_at": "2025-11-26T18:22:27.978Z",
+    "removed_at": "2025-12-02T05:05:35.464Z",
+    "duration_minutes": 7843,
+    "duration_str": "5d 10h 43m"
   },
   {
     "title": "economie:::Marianne Bourgoz, de la Finma: «Les cyberattaques visent beaucoup les sous-traitants des banques»",
@@ -50780,7 +50783,10 @@
   },
   {
     "title": "monde:::A bord de l’Airbus qui surveille la Baltique pour l’OTAN: «Le jour où survient une confrontation, on doit être prêts»",
-    "added_at": "2025-12-01T10:23:09.229Z"
+    "added_at": "2025-12-01T10:23:09.229Z",
+    "removed_at": "2025-12-02T06:02:02.190Z",
+    "duration_minutes": 1178,
+    "duration_str": "19h 38m"
   },
   {
     "title": "suisse:::Impôt sur les successions: «La classe moyenne aurait payé la facture de l'initiative. Les gens ont fait leurs calculs»",
@@ -50795,7 +50801,10 @@
   },
   {
     "title": "suisse:::Le service citoyen est balayé, mais le débat sur l’engagement commence",
-    "added_at": "2025-12-01T10:23:09.229Z"
+    "added_at": "2025-12-01T10:23:09.229Z",
+    "removed_at": "2025-12-02T06:13:44.940Z",
+    "duration_minutes": 1190,
+    "duration_str": "19h 50m"
   },
   {
     "title": "cyber:::Tout savoir sur «Steal a Brainrot», le jeu consternant qui fascine pourtant des millions d’enfants",
@@ -50894,10 +50903,7 @@
   },
   {
     "title": "suisse:::Cauchemar démocratique à Vernier",
-    "added_at": "2025-12-01T10:23:09.229Z",
-    "removed_at": "2025-12-01T11:53:37.691Z",
-    "duration_minutes": 90,
-    "duration_str": "1h 30m"
+    "added_at": "2025-12-01T10:23:09.229Z"
   },
   {
     "title": "suisse:::Refus net de l’impôt sur les successions et du service citoyen, votes cantonaux: l'essentiel de ce dimanche 30 novembre 2025",
@@ -51035,7 +51041,10 @@
   },
   {
     "title": "suisse:::Pierre-André Page, président du Conseil national sur un air de «Lyoba»",
-    "added_at": "2025-12-01T18:13:20.302Z"
+    "added_at": "2025-12-01T18:13:20.302Z",
+    "removed_at": "2025-12-02T06:25:34.025Z",
+    "duration_minutes": 732,
+    "duration_str": "12h 12m"
   },
   {
     "title": "suisse:::Un premier rapport décortique la pauvreté en Suisse, alors que le taux stagne à 8%",
@@ -51065,11 +51074,17 @@
   },
   {
     "title": "monde:::Un avion qui rentrait des Etats-Unis «truffé de micros»",
-    "added_at": "2025-12-01T19:38:16.772Z"
+    "added_at": "2025-12-01T19:38:16.772Z",
+    "removed_at": "2025-12-02T05:59:38.313Z",
+    "duration_minutes": 621,
+    "duration_str": "10h 21m"
   },
   {
     "title": "suisse:::La qualité de l’eau, source de remous à Berne",
-    "added_at": "2025-12-01T20:01:48.578Z"
+    "added_at": "2025-12-01T20:01:48.578Z",
+    "removed_at": "2025-12-02T06:58:26.468Z",
+    "duration_minutes": 656,
+    "duration_str": "10h 56m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − La Russie revendique la capture de la ville clé de Pokrovsk",
@@ -51084,6 +51099,44 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − L'émissaire américain en route pour rencontrer Poutine",
-    "added_at": "2025-12-02T03:17:18.258Z"
+    "added_at": "2025-12-02T03:17:18.258Z",
+    "removed_at": "2025-12-02T06:25:34.025Z",
+    "duration_minutes": 188,
+    "duration_str": "3h 8m"
+  },
+  {
+    "title": "monde:::Le bilan des inondations en Indonésie, en Thaïlande et au Sri Lanka dépasse les 1250 morts",
+    "added_at": "2025-12-02T04:58:31.511Z",
+    "removed_at": "2025-12-02T06:04:20.012Z",
+    "duration_minutes": 65,
+    "duration_str": "1h 5m"
+  },
+  {
+    "title": "suisse:::Vanessa Rüegger: «Il n’y a pas de vague d’affaiblissement de notre système de votation ou d’élection»",
+    "added_at": "2025-12-02T05:05:35.464Z"
+  },
+  {
+    "title": "monde:::Une entreprise de Saint-Imier découvre un avion qui rentrait des Etats-Unis «truffé de micros»",
+    "added_at": "2025-12-02T05:59:38.313Z"
+  },
+  {
+    "title": "suisse:::Le trafic CFF est perturbé entre Lausanne et Genève",
+    "added_at": "2025-12-02T06:02:02.190Z"
+  },
+  {
+    "title": "suisse:::«Génocide» est le mot romand de l’année 2025",
+    "added_at": "2025-12-02T06:04:20.012Z"
+  },
+  {
+    "title": "sciences:::La grippe débarque en Suisse, et elle pourrait réserver de mauvaises surprises",
+    "added_at": "2025-12-02T06:06:42.006Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − L'émissaire américain est en route pour rencontrer Vladimir Poutine",
+    "added_at": "2025-12-02T06:25:34.025Z"
+  },
+  {
+    "title": "suisse:::Après la confiscation des voitures de luxe appartenant au fils du président, l’épineuse restitution de 22,8 millions de francs à la Guinée équatoriale",
+    "added_at": "2025-12-02T06:58:26.468Z"
   }
 ]
