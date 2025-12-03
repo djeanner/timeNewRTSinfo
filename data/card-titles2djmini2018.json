@@ -55155,7 +55155,10 @@
   },
   {
     "title": "suisse:::Les soldats suisses ne reprendront pas leurs munitions à la maison",
-    "added_at": "2025-12-03T15:03:08.089Z"
+    "added_at": "2025-12-03T15:03:08.089Z",
+    "removed_at": "2025-12-03T22:25:49.559Z",
+    "duration_minutes": 442,
+    "duration_str": "7h 22m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − La Commission européenne présente son plan pour financer l’Ukraine mais se heurte à l’opposition de la Belgique",
@@ -55246,5 +55249,9 @@
   {
     "title": "culture:::A l’Odéon avant Vidy, Sylvain Creuzevault plonge dans le chaudron politique, donc sexuel, de Pasolini",
     "added_at": "2025-12-03T20:34:12.924Z"
+  },
+  {
+    "title": "suisse:::Malgré les manifestations, les députés vaudois maintiennent la contribution de crise de 0,7% sur les salaires des fonctionnaires",
+    "added_at": "2025-12-03T22:25:49.559Z"
   }
 ]
