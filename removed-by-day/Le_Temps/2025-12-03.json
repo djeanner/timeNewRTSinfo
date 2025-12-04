@@ -113,7 +113,7 @@
   {
     "title": "monde:::Deike Potzel, ambassadrice de l’UE à l’ONU: «Ce qui se passe au sein de la Genève internationale est capital pour nous»",
     "added_at": "2025-12-03T11:08:21.702Z",
-    "removed_at": "2025-12-03T20:34:28.330Z",
+    "removed_at": "2025-12-03T20:34:12.924Z",
     "duration_minutes": 566,
     "duration_str": "9h 26m"
   },
@@ -160,8 +160,9 @@
   {
     "title": "suisse:::Les soldats suisses ne reprendront pas leurs munitions à la maison",
     "added_at": "2025-12-03T15:02:57.590Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-03T22:25:47.392Z",
+    "duration_minutes": 443,
+    "duration_str": "7h 23m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − La Commission européenne présente son plan pour financer l’Ukraine mais se heurte à l’opposition de la Belgique",
@@ -217,9 +218,9 @@
   {
     "title": "sport:::Laura Villars ne participera pas à l’élection à la présidence de la FIA, qu’elle contestera sur le fond",
     "added_at": "2025-12-03T17:09:54.275Z",
-    "removed_at": "2025-12-03T19:59:01.081Z",
-    "duration_minutes": 169,
-    "duration_str": "2h 49m"
+    "removed_at": "2025-12-03T19:58:15.930Z",
+    "duration_minutes": 168,
+    "duration_str": "2h 48m"
   },
   {
     "title": "culture:::Coup de tonnerre dans le streaming: HBO Max arrive en Suisse en janvier",
@@ -267,13 +268,19 @@
   },
   {
     "title": "sciences:::«Jardiner»: une exposition à Paris révèle la science cachée au fond du jardin",
-    "added_at": "2025-12-03T19:59:01.081Z",
+    "added_at": "2025-12-03T19:58:15.930Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "culture:::A l’Odéon avant Vidy, Sylvain Creuzevault plonge dans le chaudron politique, donc sexuel, de Pasolini",
-    "added_at": "2025-12-03T20:34:28.330Z",
+    "added_at": "2025-12-03T20:34:12.924Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Malgré les manifestations, les députés vaudois maintiennent la contribution de crise de 0,7% sur les salaires des fonctionnaires",
+    "added_at": "2025-12-03T22:25:47.392Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
