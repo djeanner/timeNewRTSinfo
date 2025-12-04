@@ -70108,7 +70108,10 @@
   },
   {
     "title": "Dans le rouge, Cremo se sépare de son directeur, le troisième en 5 ans",
-    "added_at": "2025-11-28T17:23:22.900Z"
+    "added_at": "2025-11-28T17:23:22.900Z",
+    "removed_at": "2025-12-04T07:03:53.275Z",
+    "duration_minutes": 8020,
+    "duration_str": "5d 13h 40m"
   },
   {
     "title": "Après trois jours d’occupation illégale du campus de l'UNIL, les étudiants ont levé le camp",
@@ -70686,10 +70689,7 @@
   },
   {
     "title": "L'union fait la force",
-    "added_at": "2025-11-30T15:01:14.623Z",
-    "removed_at": "2025-12-03T22:03:10.085Z",
-    "duration_minutes": 4741,
-    "duration_str": "3d 7h 1m"
+    "added_at": "2025-11-30T15:01:14.623Z"
   },
   {
     "title": "L'initiative sur le service citoyen a été balayée dans toutes les régions",
@@ -71262,7 +71262,10 @@
   },
   {
     "title": "\"Cambrioler un musée est facile en Suisse\", témoigne un braqueur marseillais repenti",
-    "added_at": "2025-12-02T08:05:14.631Z"
+    "added_at": "2025-12-02T08:05:14.631Z",
+    "removed_at": "2025-12-04T07:22:48.514Z",
+    "duration_minutes": 2837,
+    "duration_str": "1d 23h 17m"
   },
   {
     "title": "La vie secrète des étoiles de tout type expliquée simplement",
@@ -71348,7 +71351,10 @@
   },
   {
     "title": "Asile: cantons et Confédération présentent des mesures pour décharger le système",
-    "added_at": "2025-12-02T13:22:54.522Z"
+    "added_at": "2025-12-02T13:22:54.522Z",
+    "removed_at": "2025-12-04T08:23:13.585Z",
+    "duration_minutes": 2580,
+    "duration_str": "1d 19h"
   },
   {
     "title": "Le pape Léon XIV appelle à la paix devant 150'000 fidèles à Beyrouth",
@@ -71380,11 +71386,17 @@
   },
   {
     "title": "Nicolas Feuz quitte son poste de procureur pour devenir écrivain à plein temps",
-    "added_at": "2025-12-02T14:10:06.542Z"
+    "added_at": "2025-12-02T14:10:06.542Z",
+    "removed_at": "2025-12-04T07:22:48.514Z",
+    "duration_minutes": 2472,
+    "duration_str": "1d 17h 12m"
   },
   {
     "title": "Le PS genevois veut un recomptage des voix après l'échec de son initiative sur l'accès aux soins dentaires",
-    "added_at": "2025-12-02T14:13:56.560Z"
+    "added_at": "2025-12-02T14:13:56.560Z",
+    "removed_at": "2025-12-04T08:36:28.179Z",
+    "duration_minutes": 2542,
+    "duration_str": "1d 18h 22m"
   },
   {
     "title": "Les joueuses de Navarro finissent 2025 par un nouveau revers",
@@ -71417,7 +71429,10 @@
   },
   {
     "title": "SwissPass lance une carte prépayée pour acheter des billets sans smartphone",
-    "added_at": "2025-12-02T14:40:32.266Z"
+    "added_at": "2025-12-02T14:40:32.266Z",
+    "removed_at": "2025-12-04T06:46:54.625Z",
+    "duration_minutes": 2406,
+    "duration_str": "1d 16h 6m"
   },
   {
     "title": "Trafic ferroviaire interrompu sur la ligne Lausanne - Fribourg",
@@ -71453,7 +71468,10 @@
   },
   {
     "title": "Dertour Suisse se réorganise et prévoit de biffer 250 postes",
-    "added_at": "2025-12-02T15:29:38.397Z"
+    "added_at": "2025-12-02T15:29:38.397Z",
+    "removed_at": "2025-12-04T08:49:38.351Z",
+    "duration_minutes": 2479,
+    "duration_str": "1d 17h 19m"
   },
   {
     "title": "Le budget neuchâtelois a été accepté grâce à un compromis",
@@ -71674,7 +71692,10 @@
   },
   {
     "title": "Le président du Conseil national Pierre-André Page fêté dans le canton de Fribourg",
-    "added_at": "2025-12-03T15:01:17.988Z"
+    "added_at": "2025-12-03T15:01:17.988Z",
+    "removed_at": "2025-12-04T08:42:08.265Z",
+    "duration_minutes": 1060,
+    "duration_str": "17h 40m"
   },
   {
     "title": "Laurence Perez reprend la direction artistique de La Chaux-de-Fonds Capitale culturelle suisse 2027",
@@ -71782,6 +71803,41 @@
   },
   {
     "title": "Le salaire des fonctionnaires vaudois pourrait baisser en 2026, après un premier vote au Grand Conseil",
-    "added_at": "2025-12-04T06:16:30.535Z"
+    "added_at": "2025-12-04T06:16:30.535Z",
+    "removed_at": "2025-12-04T07:00:09.513Z",
+    "duration_minutes": 43,
+    "duration_str": "43m"
+  },
+  {
+    "title": "Sucre Suisse déplore une panne irrémédiable dans sa raffinerie de Frauenfeld",
+    "added_at": "2025-12-04T06:46:54.625Z"
+  },
+  {
+    "title": "Le salaire des fonctionnaires vaudois pourrait être raboté dès 2026, après un premier vote au Grand Conseil",
+    "added_at": "2025-12-04T07:00:09.513Z"
+  },
+  {
+    "title": "Entretien avec Léo Vouilloz, boucher à Martigny",
+    "added_at": "2025-12-04T07:03:53.275Z"
+  },
+  {
+    "title": "Un raton laveur ivre sème la pagaille dans un magasin d'alcool en Virginie",
+    "added_at": "2025-12-04T07:22:48.514Z"
+  },
+  {
+    "title": "Le médecin coupable de la mort de l'acteur Matthew Perry condamné à 30 mois de prison",
+    "added_at": "2025-12-04T07:22:48.514Z"
+  },
+  {
+    "title": "\"Au cinéma Central\", un beau texte autobiographique de Fabrice Gabriel",
+    "added_at": "2025-12-04T08:36:28.179Z"
+  },
+  {
+    "title": "Le Parlement assouplit la loi sur l'exportation du matériel de guerre",
+    "added_at": "2025-12-04T08:42:08.265Z"
+  },
+  {
+    "title": "Blatten et Charlie Kirk en tête des recherches Google de l'année 2025",
+    "added_at": "2025-12-04T08:49:38.351Z"
   }
 ]
