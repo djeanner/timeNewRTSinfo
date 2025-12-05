@@ -51036,7 +51036,10 @@
   },
   {
     "title": "suisse:::Découvrez «Le Temps» pour 1 franc et soutenez une information fiable et indépendante",
-    "added_at": "2025-12-01T16:58:00.717Z"
+    "added_at": "2025-12-01T16:58:00.717Z",
+    "removed_at": "2025-12-05T19:44:32.480Z",
+    "duration_minutes": 5926,
+    "duration_str": "4d 2h 46m"
   },
   {
     "title": "suisse:::A Genève, duel confirmé entre Olivier Jornot et Pierre Bayenet pour le poste de procureur général",
@@ -51754,7 +51757,10 @@
   },
   {
     "title": "suisse:::A Genève, fin de partie dans l’affaire où le critère de la religion avait entraîné la récusation d’un procureur",
-    "added_at": "2025-12-04T05:19:21.747Z"
+    "added_at": "2025-12-04T05:19:21.747Z",
+    "removed_at": "2025-12-05T19:25:34.977Z",
+    "duration_minutes": 2286,
+    "duration_str": "1d 14h 6m"
   },
   {
     "title": "suisse:::Le financement participatif, nouvel eldorado des communes romandes pour développer le solaire",
@@ -52083,11 +52089,17 @@
   },
   {
     "title": "culture:::Amine et Hamza Mraihi en concert à Martigny: au nom du père, opposant politique tunisien emprisonné",
-    "added_at": "2025-12-05T12:44:08.456Z"
+    "added_at": "2025-12-05T12:44:08.456Z",
+    "removed_at": "2025-12-05T19:06:33.542Z",
+    "duration_minutes": 382,
+    "duration_str": "6h 22m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L'administration Trump prévoit d’annoncer les prochaines phases à Gaza avant Noël",
-    "added_at": "2025-12-05T13:31:34.351Z"
+    "added_at": "2025-12-05T13:31:34.351Z",
+    "removed_at": "2025-12-05T20:32:00.635Z",
+    "duration_minutes": 420,
+    "duration_str": "7h"
   },
   {
     "title": "culture:::Séisme dans l'audiovisuel mondial: c'est Netflix va qui met la main sur Warner Bros. Discovery",
@@ -52123,11 +52135,17 @@
   },
   {
     "title": "economie:::Les tarifs douaniers n’ont (presque) pas modifié l’accès mondial au marché américain",
-    "added_at": "2025-12-05T16:25:11.107Z"
+    "added_at": "2025-12-05T16:25:11.107Z",
+    "removed_at": "2025-12-05T20:05:55.142Z",
+    "duration_minutes": 220,
+    "duration_str": "3h 40m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Des drones détectés lors de l'atterissage de l'avion de Volodymyr Zelensky en Irlande",
-    "added_at": "2025-12-05T16:29:52.304Z"
+    "added_at": "2025-12-05T16:29:52.304Z",
+    "removed_at": "2025-12-05T20:32:00.635Z",
+    "duration_minutes": 242,
+    "duration_str": "4h 2m"
   },
   {
     "title": "suisse:::Duel entre Roger Nordmann et Sébastien Cala pour le Conseil d'Etat vaudois: qui a les faveurs de la cote?",
@@ -52138,7 +52156,10 @@
   },
   {
     "title": "suisse:::Les parlementaires seront consultés avant les négociations avec les Etats-Unis",
-    "added_at": "2025-12-05T17:05:27.062Z"
+    "added_at": "2025-12-05T17:05:27.062Z",
+    "removed_at": "2025-12-05T19:54:00.268Z",
+    "duration_minutes": 168,
+    "duration_str": "2h 48m"
   },
   {
     "title": "monde:::Pour regarnir ses troupes face à la menace russe, l’Allemagne réinstaure le service militaire sur base volontaire",
@@ -52146,7 +52167,10 @@
   },
   {
     "title": "monde:::Sans rire, Donald Trump reçoit le prix FIFA de la paix",
-    "added_at": "2025-12-05T17:48:07.886Z"
+    "added_at": "2025-12-05T17:48:07.886Z",
+    "removed_at": "2025-12-05T20:24:52.630Z",
+    "duration_minutes": 156,
+    "duration_str": "2h 36m"
   },
   {
     "title": "suisse:::Duel entre Roger Nordmann et Sébastien Cala pour le Conseil d’Etat vaudois: qui a les faveurs de la cote?",
@@ -52159,5 +52183,37 @@
   {
     "title": "culture:::Vent d’apocalypse à Genève, sur les pas du mathématicien britannique Alan Turing et de l’artiste polonais Lukasz Twarkowski",
     "added_at": "2025-12-05T18:30:45.674Z"
+  },
+  {
+    "title": "suisse:::Dysfonctionnements, pressions, isolement: le destin tragique de la procureure qui instruisait les deux dossiers valaisans les plus sensibles",
+    "added_at": "2025-12-05T19:06:33.542Z"
+  },
+  {
+    "title": "monde:::Avoirs russes gelés, l’épine belge dans le pied de l’UE",
+    "added_at": "2025-12-05T19:25:34.977Z"
+  },
+  {
+    "title": "sport:::A la Coupe du monde 2026, la Suisse affrontera le Canada, le Qatar et peut-être l’Italie",
+    "added_at": "2025-12-05T19:44:32.480Z"
+  },
+  {
+    "title": "culture:::Frank Gehry, architecte star de bâtiments monumentaux, est mort à 96 ans",
+    "added_at": "2025-12-05T19:54:00.268Z"
+  },
+  {
+    "title": "monde:::Stratégie de sécurité nationale de Donald Trump: l’isolationnisme interventionniste",
+    "added_at": "2025-12-05T20:05:55.142Z"
+  },
+  {
+    "title": "monde:::Sans rire, Donald Trump reçoit le Prix FIFA de la paix",
+    "added_at": "2025-12-05T20:24:52.630Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine − Des drones détectés lors de l'atterissage de l'avion de Volodymyr Zelensky en Irlande",
+    "added_at": "2025-12-05T20:32:00.635Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – L'administration Trump prévoit d’annoncer les prochaines phases à Gaza avant Noël",
+    "added_at": "2025-12-05T20:32:00.635Z"
   }
 ]
