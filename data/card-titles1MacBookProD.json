@@ -19420,7 +19420,10 @@
   },
   {
     "title": "Le journal de 8h - Présenté par Aude Raimondi",
-    "added_at": "2025-09-17T20:02:20.611Z"
+    "added_at": "2025-09-17T20:02:20.611Z",
+    "removed_at": "2025-12-06T07:02:53.284Z",
+    "duration_minutes": 114420,
+    "duration_str": "79d 11h"
   },
   {
     "title": "La Bibliothèque nationale de France veut acquérir les manuscrits de la \"madeleine de Proust\"",
@@ -42883,7 +42886,10 @@
   },
   {
     "title": "Vortex polaire: Est-ce qu'on va geler cet hiver?",
-    "added_at": "2025-12-03T16:54:22.684Z"
+    "added_at": "2025-12-03T16:54:22.684Z",
+    "removed_at": "2025-12-06T07:02:53.284Z",
+    "duration_minutes": 3728,
+    "duration_str": "2d 14h 8m"
   },
   {
     "title": "Une cinquième plainte déposée par la Chancellerie fédérale pour possibles fausses signatures",
@@ -42999,7 +43005,10 @@
   },
   {
     "title": "Vortex polaire: Est-ce qu’on va geler cet hiver ?",
-    "added_at": "2025-12-04T00:02:39.118Z"
+    "added_at": "2025-12-04T00:02:39.118Z",
+    "removed_at": "2025-12-06T08:04:24.983Z",
+    "duration_minutes": 3361,
+    "duration_str": "2d 8h 1m"
   },
   {
     "title": "Pas assez de surveillance du recouvrement de l'impôt fédéral direct, selon le Contrôle des finances",
@@ -43203,7 +43212,10 @@
   },
   {
     "title": "Le Conseil national veut baisser le taux de compensation du renchérissement pour les fonctionnaires",
-    "added_at": "2025-12-04T13:41:04.558Z"
+    "added_at": "2025-12-04T13:41:04.558Z",
+    "removed_at": "2025-12-06T07:02:53.284Z",
+    "duration_minutes": 2481,
+    "duration_str": "1d 17h 21m"
   },
   {
     "title": "L'OFSP alerte sur l'arrivée imminente de la grippe",
@@ -43260,10 +43272,7 @@
   },
   {
     "title": "A Genève, la Cour des comptes pointe du doigt l'aide aux jeunes adultes à l'aide sociale",
-    "added_at": "2025-12-04T15:03:57.620Z",
-    "removed_at": "2025-12-05T20:50:57.083Z",
-    "duration_minutes": 1786,
-    "duration_str": "1d 5h 46m"
+    "added_at": "2025-12-04T15:03:57.620Z"
   },
   {
     "title": "De faux moniteurs de conduite opèrent en Suisse, à prix cassés et en toute illégalité",
@@ -43278,7 +43287,10 @@
   },
   {
     "title": "En grève, le personnel de la Ville de Genève se mobilise contre les coupes budgétaires",
-    "added_at": "2025-12-04T15:34:40.544Z"
+    "added_at": "2025-12-04T15:34:40.544Z",
+    "removed_at": "2025-12-06T08:06:43.890Z",
+    "duration_minutes": 2432,
+    "duration_str": "1d 16h 32m"
   },
   {
     "title": "Décès du guitariste Steve Cropper, artisan du \"Memphis Soul\" et membre des Blues Brothers",
@@ -43303,7 +43315,10 @@
   },
   {
     "title": "Près de 1000 manifestants à nouveau devant le Grand Conseil vaudois, mais sans débordements",
-    "added_at": "2025-12-04T16:03:06.310Z"
+    "added_at": "2025-12-04T16:03:06.310Z",
+    "removed_at": "2025-12-06T06:03:39.671Z",
+    "duration_minutes": 2280,
+    "duration_str": "1d 14h"
   },
   {
     "title": "Podcast - On en est où de cet accord sur les droits de douane américains?",
@@ -43318,7 +43333,10 @@
   },
   {
     "title": "L'affiche de la 49e édition du Paléo au cœur d'une polémique sur l'utilisation de l'IA",
-    "added_at": "2025-12-04T16:17:18.719Z"
+    "added_at": "2025-12-04T16:17:18.719Z",
+    "removed_at": "2025-12-06T07:52:31.286Z",
+    "duration_minutes": 2375,
+    "duration_str": "1d 15h 35m"
   },
   {
     "title": "Des élus menacés devant le parlement vaudois",
@@ -43341,7 +43359,10 @@
   },
   {
     "title": "L'ATE s'oppose au durcissement des règles pour les zones 30 km/h",
-    "added_at": "2025-12-04T17:11:56.515Z"
+    "added_at": "2025-12-04T17:11:56.515Z",
+    "removed_at": "2025-12-06T07:14:41.625Z",
+    "duration_minutes": 2282,
+    "duration_str": "1d 14h 2m"
   },
   {
     "title": "A Genève, l’UDC lance une initiative contre le droit de vote communal des résidents étrangers: interview de Lionel Dugerdil",
@@ -43356,7 +43377,10 @@
   },
   {
     "title": "Corinne Suter sur le flanc pour quelques semaines",
-    "added_at": "2025-12-04T17:30:50.976Z"
+    "added_at": "2025-12-04T17:30:50.976Z",
+    "removed_at": "2025-12-06T06:46:16.186Z",
+    "duration_minutes": 2235,
+    "duration_str": "1d 13h 15m"
   },
   {
     "title": "Israël pourra participer à l'Eurovision 2026 en Autriche, décide l'UER",
@@ -43734,6 +43758,52 @@
   },
   {
     "title": "Séisme de magnitude 3,0 près de Herisau",
-    "added_at": "2025-12-06T02:20:50.146Z"
+    "added_at": "2025-12-06T02:20:50.146Z",
+    "removed_at": "2025-12-06T06:27:21.617Z",
+    "duration_minutes": 246,
+    "duration_str": "4h 6m"
+  },
+  {
+    "title": "Hausse du nombre de milliardaires et de leur fortune: interview de Marius Brülhart et Fabrice d’Almeida",
+    "added_at": "2025-12-06T06:03:39.671Z"
+  },
+  {
+    "title": "Les parcs solaires ne sauveront pas la Suisse d’un black-out: interview de Stéphane Maret",
+    "added_at": "2025-12-06T06:17:52.535Z"
+  },
+  {
+    "title": "Séisme de magnitude 2,9 près de Herisau",
+    "added_at": "2025-12-06T06:27:21.617Z",
+    "removed_at": "2025-12-06T06:55:46.840Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
+  },
+  {
+    "title": "\"Quand on s'attaque aux droits des personnes queers, on s'attaque à l'ensemble des personnes minorisées\"",
+    "added_at": "2025-12-06T06:46:16.186Z"
+  },
+  {
+    "title": "Un séisme de magnitude 2,9 secoue la région de Herisau",
+    "added_at": "2025-12-06T06:55:46.840Z"
+  },
+  {
+    "title": "Cambrioler un musée c'est facile, des casques de ski inefficaces et le narcotrafic devenu poison de l'Europe",
+    "added_at": "2025-12-06T07:02:53.284Z"
+  },
+  {
+    "title": "En attendant le DES, l’utilisation du dossier électronique du patient est toujours possible",
+    "added_at": "2025-12-06T07:14:41.625Z"
+  },
+  {
+    "title": "\"Tout progrès réel vers un accord de paix en Ukraine dépend de la Russie\", affirme la diplomatie américaine",
+    "added_at": "2025-12-06T07:52:31.286Z"
+  },
+  {
+    "title": "Le tirage au sort des groupes de la Coupe du monde football 2026 a lieu Washington",
+    "added_at": "2025-12-06T08:04:24.983Z"
+  },
+  {
+    "title": "Ghosting, love-bombing... le nouveau lexique amoureux révèle des maltraitances relationnelles",
+    "added_at": "2025-12-06T08:06:43.890Z"
   }
 ]
