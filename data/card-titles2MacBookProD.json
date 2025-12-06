@@ -52270,7 +52270,10 @@
   },
   {
     "title": "sport:::Dans le football suisse, croix blanche et Cap-Vert",
-    "added_at": "2025-12-06T10:05:16.336Z"
+    "added_at": "2025-12-06T10:05:16.336Z",
+    "removed_at": "2025-12-06T20:36:35.720Z",
+    "duration_minutes": 631,
+    "duration_str": "10h 31m"
   },
   {
     "title": "culture:::Clément Janinet, Yom, Dafné Kritharas, Florian Pellissier… dans notre playlist des nouveautés jazz de l’hiver",
@@ -52299,7 +52302,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Le bouclier protecteur de Tchernobyl aurait perdu sa capacité de confinement, selon l’AIEA",
-    "added_at": "2025-12-06T13:31:51.702Z"
+    "added_at": "2025-12-06T13:31:51.702Z",
+    "removed_at": "2025-12-06T19:04:06.285Z",
+    "duration_minutes": 332,
+    "duration_str": "5h 32m"
   },
   {
     "title": "culture:::Avec le temps, la prairie de «La Petite Maison» est devenue moins verte",
@@ -52380,5 +52386,38 @@
   {
     "title": "economie:::L’industrie chinoise de l’auto électrique ébranlée par ses surcapacités",
     "added_at": "2025-12-06T18:42:34.968Z"
+  },
+  {
+    "title": "sciences:::Dix ans après son film phénomène «Demain», Cyril Dion poursuit sa lutte contre «le capitalisme meurtrier»",
+    "added_at": "2025-12-06T19:04:06.285Z",
+    "removed_at": "2025-12-06T19:06:29.705Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "sciences:::Dix ans après «Demain», Cyril Dion poursuit sa lutte contre «le capitalisme meurtrier»",
+    "added_at": "2025-12-06T19:06:29.705Z"
+  },
+  {
+    "title": "suisse:::En images: près de 60 000 personnes dans les rues de Genève pour la Course de l'Escalade",
+    "added_at": "2025-12-06T20:36:35.720Z",
+    "removed_at": "2025-12-06T20:41:17.806Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "suisse:::En images: près de 60 000 personnes dans les rues de Genève pour la Course de l’Escalade",
+    "added_at": "2025-12-06T20:43:41.706Z",
+    "removed_at": "2025-12-06T21:12:09.023Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
+  },
+  {
+    "title": "monde:::Dix-sept morts dans le naufrage d’une embarcation de migrants au sud de l’île de Crête",
+    "added_at": "2025-12-06T21:07:21.061Z"
+  },
+  {
+    "title": "suisse:::En images: près de 60 000 personnes pour la Course de l’Escalade",
+    "added_at": "2025-12-06T21:12:09.023Z"
   }
 ]
