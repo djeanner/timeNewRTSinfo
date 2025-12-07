@@ -72655,7 +72655,10 @@
   },
   {
     "title": "La publicité pour le tabac sera interdite dès le début de l'année 2027",
-    "added_at": "2025-12-05T13:29:18.342Z"
+    "added_at": "2025-12-05T13:29:18.342Z",
+    "removed_at": "2025-12-06T22:55:46.225Z",
+    "duration_minutes": 2006,
+    "duration_str": "1d 9h 26m"
   },
   {
     "title": "La Suisse sera fixée sur ses adversaires dès 18h00",
@@ -73012,5 +73015,16 @@
   {
     "title": "Du bois sous toutes ses formes",
     "added_at": "2025-12-06T22:02:40.897Z"
+  },
+  {
+    "title": "Bataille politique en Suisse autour de nouvelles normes de l'OMS sur l'alcool",
+    "added_at": "2025-12-06T22:55:46.225Z",
+    "removed_at": "2025-12-06T23:03:22.014Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Bataille politique en Suisse autour des nouvelles normes de l'OMS sur l'alcool",
+    "added_at": "2025-12-06T23:03:22.014Z"
   }
 ]
