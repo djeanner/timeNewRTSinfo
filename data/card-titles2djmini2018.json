@@ -55863,7 +55863,10 @@
   },
   {
     "title": "sport:::Dans le football suisse, croix blanche et Cap-Vert",
-    "added_at": "2025-12-06T10:05:34.502Z"
+    "added_at": "2025-12-06T10:05:34.502Z",
+    "removed_at": "2025-12-07T09:02:20.220Z",
+    "duration_minutes": 1376,
+    "duration_str": "22h 56m"
   },
   {
     "title": "economie:::Le Conseil fédéral serait prêt à assouplir certaines exigences relatives au capital d’UBS",
@@ -55991,7 +55994,10 @@
   },
   {
     "title": "sciences:::Dix ans après «Demain», Cyril Dion poursuit sa lutte contre «le capitalisme meurtrier»",
-    "added_at": "2025-12-06T19:06:44.125Z"
+    "added_at": "2025-12-06T19:06:44.125Z",
+    "removed_at": "2025-12-07T09:21:15.106Z",
+    "duration_minutes": 854,
+    "duration_str": "14h 14m"
   },
   {
     "title": "suisse:::En images: près de 60 000 personnes dans les rues de Genève pour la Course de l'Escalade",
@@ -56039,7 +56045,10 @@
   },
   {
     "title": "monde:::Une frappe des paramilitaires a fait des dizaines de morts dans le sud du Soudan",
-    "added_at": "2025-12-07T07:24:00.601Z"
+    "added_at": "2025-12-07T07:24:00.601Z",
+    "removed_at": "2025-12-07T08:24:38.321Z",
+    "duration_minutes": 60,
+    "duration_str": "1h"
   },
   {
     "title": "economie:::Le casse-tête de la gestion des pompes à chaleur à nouveau pointé dans une étude",
@@ -56048,5 +56057,35 @@
   {
     "title": "monde:::En direct, guerre en Ukraine − Selon Ignazio Cassis, l’OSCE doit se préparer à éventuel cessez-le-feu en Ukraine",
     "added_at": "2025-12-07T07:50:29.955Z"
+  },
+  {
+    "title": "suisse:::Ce qui coince pour que la pilule contraceptive soit remboursée comme un médicament par l’assurance maladie",
+    "added_at": "2025-12-07T08:24:38.321Z"
+  },
+  {
+    "title": "sport:::Lionel Messi sacré champion des Etats-Unis avec l’Inter Miami de David Beckham",
+    "added_at": "2025-12-07T08:49:06.637Z"
+  },
+  {
+    "title": "monde:::Au Bénin, des militaires annoncent «démettre de ses fonctions» le président Patrice Talon",
+    "added_at": "2025-12-07T09:02:20.220Z",
+    "removed_at": "2025-12-07T09:24:58.724Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
+  },
+  {
+    "title": "economie:::UBS préparerait une nouvelle suppression massive d’emplois",
+    "added_at": "2025-12-07T09:21:15.106Z"
+  },
+  {
+    "title": "monde:::Confusion au Bénin, où des militaires annoncent «démettre de ses fonctions» le président Patrice Talon",
+    "added_at": "2025-12-07T09:24:58.724Z",
+    "removed_at": "2025-12-07T09:53:17.402Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
+  },
+  {
+    "title": "monde:::Confusion au Bénin, où l’armée aurait repris la main après une tentative de coup d’Etat contre le président Patrice Talon",
+    "added_at": "2025-12-07T09:53:17.402Z"
   }
 ]
