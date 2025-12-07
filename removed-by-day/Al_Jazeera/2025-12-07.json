@@ -79,7 +79,7 @@
   {
     "title": "Hope, flags, fireworks as Syria starts to celebrate a year without al-Assad",
     "added_at": "2025-12-07T05:47:46.567Z",
-    "removed_at": "2025-12-07T18:57:01.483Z",
+    "removed_at": "2025-12-07T18:56:28.899Z",
     "duration_minutes": 789,
     "duration_str": "13h 9m"
   },
@@ -194,7 +194,7 @@
   {
     "title": "No essential supplies in truce: Gaza’s healthcare system broken by Israel",
     "added_at": "2025-12-07T09:57:04.234Z",
-    "removed_at": "2025-12-07T18:45:12.711Z",
+    "removed_at": "2025-12-07T18:45:08.136Z",
     "duration_minutes": 528,
     "duration_str": "8h 48m"
   },
@@ -256,15 +256,16 @@
   {
     "title": "Qatar’s PM calls for inclusive engagement to achieve elusive regional peace",
     "added_at": "2025-12-07T12:05:44.438Z",
-    "removed_at": "2025-12-07T18:45:12.711Z",
+    "removed_at": "2025-12-07T18:45:08.136Z",
     "duration_minutes": 399,
     "duration_str": "6h 39m"
   },
   {
     "title": "IndiGo chaos: Why is India’s largest airline canceling hundreds of flights?",
     "added_at": "2025-12-07T13:22:16.753Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-07T22:23:21.629Z",
+    "duration_minutes": 541,
+    "duration_str": "9h 1m"
   },
   {
     "title": "Germany’s Merz meets Netanyahu under shadow of Israel’s war on Gaza",
@@ -288,30 +289,33 @@
   {
     "title": "‘War or anarchy’: Warnings grow as next phase of Gaza truce still elusive",
     "added_at": "2025-12-07T15:16:05.360Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-07T23:03:36.989Z",
+    "duration_minutes": 468,
+    "duration_str": "7h 48m"
   },
   {
     "title": "LIVE: Real Madrid vs Celta Vigo – La Liga",
     "added_at": "2025-12-07T17:07:44.532Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-07T22:16:14.844Z",
+    "duration_minutes": 309,
+    "duration_str": "5h 9m"
   },
   {
     "title": "‘We need to make it work’: Can international law deliver justice?",
-    "added_at": "2025-12-07T18:45:12.711Z",
+    "added_at": "2025-12-07T18:45:08.136Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Acclaimed British photographer Martin Parr dies aged 73",
-    "added_at": "2025-12-07T18:45:12.711Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-12-07T18:45:08.136Z",
+    "removed_at": "2025-12-07T22:23:21.629Z",
+    "duration_minutes": 218,
+    "duration_str": "3h 38m"
   },
   {
     "title": "Russia welcomes Trump’s revised US security strategy",
-    "added_at": "2025-12-07T18:57:01.483Z",
+    "added_at": "2025-12-07T18:56:28.899Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -324,6 +328,52 @@
   {
     "title": "Benin’s President Patrice Talon says coup attempt thwarted",
     "added_at": "2025-12-07T20:55:33.230Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Hamas and Israel move towards phase two of US-backed Gaza plan",
+    "added_at": "2025-12-07T22:13:51.388Z",
+    "removed_at": "2025-12-07T23:03:36.989Z",
+    "duration_minutes": 50,
+    "duration_str": "50m"
+  },
+  {
+    "title": "Real Madrid vs Celta Vigo 0-2: La Liga",
+    "added_at": "2025-12-07T22:16:14.844Z",
+    "removed_at": "2025-12-07T22:28:04.407Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "Low turnout in Hong Kong election as anger grows over deadly fire",
+    "added_at": "2025-12-07T22:23:21.629Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Syria: One year after al-Assad",
+    "added_at": "2025-12-07T22:23:21.629Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Celta Vigo win 2-0 at Bernabeu as Real Madrid end game with nine men",
+    "added_at": "2025-12-07T22:28:04.407Z",
+    "removed_at": "2025-12-07T22:47:05.998Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
+  },
+  {
+    "title": "Real Madrid end game with nine men in 2-0 defeat to Celta Vigo – updates",
+    "added_at": "2025-12-07T22:47:05.998Z",
+    "removed_at": "2025-12-07T23:10:44.233Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "Celta Vigo earn shock 2-0 win at the Bernabeu as Real Madrid implode",
+    "added_at": "2025-12-07T23:10:44.233Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
