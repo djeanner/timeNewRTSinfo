@@ -43005,10 +43005,7 @@
   },
   {
     "title": "Vortex polaire: Est-ce qu’on va geler cet hiver ?",
-    "added_at": "2025-12-04T00:02:39.118Z",
-    "removed_at": "2025-12-06T09:03:44.409Z",
-    "duration_minutes": 3421,
-    "duration_str": "2d 9h 1m"
+    "added_at": "2025-12-04T00:02:39.118Z"
   },
   {
     "title": "Pas assez de surveillance du recouvrement de l'impôt fédéral direct, selon le Contrôle des finances",
@@ -43349,7 +43346,10 @@
   },
   {
     "title": "Des élus menacés devant le parlement vaudois",
-    "added_at": "2025-12-04T16:22:05.084Z"
+    "added_at": "2025-12-04T16:22:05.084Z",
+    "removed_at": "2025-12-06T22:02:05.077Z",
+    "duration_minutes": 3219,
+    "duration_str": "2d 5h 39m"
   },
   {
     "title": "Le SSP genevois exclu des séances de discussion avec le Conseil d'Etat à cause d'une vidéo jugée sexiste",
@@ -43542,9 +43542,9 @@
   {
     "title": "Un gendarme vaudois éclaboussé par l'affaire des groupes WhatsApp racistes a été licencié",
     "added_at": "2025-12-05T05:18:52.120Z",
-    "removed_at": "2025-12-06T20:34:10.728Z",
-    "duration_minutes": 2355,
-    "duration_str": "1d 15h 15m"
+    "removed_at": "2025-12-06T21:43:03.690Z",
+    "duration_minutes": 2424,
+    "duration_str": "1d 16h 24m"
   },
   {
     "title": "En Espagne, les producteurs de porc \"très préoccupés\" par la peste porcine africaine",
@@ -43676,9 +43676,9 @@
   {
     "title": "La publicité pour le tabac sera interdite dès le début de l'année 2027",
     "added_at": "2025-12-05T13:29:09.764Z",
-    "removed_at": "2025-12-06T20:55:30.387Z",
-    "duration_minutes": 1886,
-    "duration_str": "1d 7h 26m"
+    "removed_at": "2025-12-06T22:56:35.849Z",
+    "duration_minutes": 2007,
+    "duration_str": "1d 9h 27m"
   },
   {
     "title": "La Suisse sera fixée sur ses adversaires dès 18h00",
@@ -43724,7 +43724,10 @@
   },
   {
     "title": "Faut-il freiner l’extension de la limitation à 30 km/h? Débat entre Marjorie de Chastonay et Moreno Volpi",
-    "added_at": "2025-12-05T15:01:47.327Z"
+    "added_at": "2025-12-05T15:01:47.327Z",
+    "removed_at": "2025-12-06T22:02:05.077Z",
+    "duration_minutes": 1860,
+    "duration_str": "1d 7h"
   },
   {
     "title": "\"La voix de Hind Rajab\", un film en forme d'uppercut sur la mort d'une fillette à Gaza",
@@ -44013,10 +44016,35 @@
   },
   {
     "title": "Servette cueille trois précieux points chez les Sauterelles, Thoune déroule",
-    "added_at": "2025-12-06T20:34:10.728Z"
+    "added_at": "2025-12-06T20:34:10.728Z",
+    "removed_at": "2025-12-06T21:40:44.665Z",
+    "duration_minutes": 66,
+    "duration_str": "1h 6m"
   },
   {
     "title": "Camille Rast au pied du podium, succès d'Alice Robinson",
-    "added_at": "2025-12-06T20:55:30.387Z"
+    "added_at": "2025-12-06T20:55:30.387Z",
+    "removed_at": "2025-12-06T21:40:44.665Z",
+    "duration_minutes": 45,
+    "duration_str": "45m"
+  },
+  {
+    "title": "La Course de l'Escalade 2025 pulvérise son record de participation",
+    "added_at": "2025-12-06T21:43:03.690Z"
+  },
+  {
+    "title": "Du bois sous toutes ses formes",
+    "added_at": "2025-12-06T22:02:05.077Z"
+  },
+  {
+    "title": "Bataille politique en Suisse autour de nouvelles normes de l'OMS sur l'alcool",
+    "added_at": "2025-12-06T22:56:35.849Z",
+    "removed_at": "2025-12-06T23:03:42.408Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Bataille politique en Suisse autour des nouvelles normes de l'OMS sur l'alcool",
+    "added_at": "2025-12-06T23:03:42.408Z"
   }
 ]
