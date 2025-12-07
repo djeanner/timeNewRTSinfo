@@ -52282,7 +52282,10 @@
   },
   {
     "title": "sport:::Dans le football suisse, croix blanche et Cap-Vert",
-    "added_at": "2025-12-06T10:05:16.336Z"
+    "added_at": "2025-12-06T10:05:16.336Z",
+    "removed_at": "2025-12-07T09:01:11.986Z",
+    "duration_minutes": 1375,
+    "duration_str": "22h 55m"
   },
   {
     "title": "culture:::Clément Janinet, Yom, Dafné Kritharas, Florian Pellissier… dans notre playlist des nouveautés jazz de l’hiver",
@@ -52414,7 +52417,10 @@
   },
   {
     "title": "sciences:::Dix ans après «Demain», Cyril Dion poursuit sa lutte contre «le capitalisme meurtrier»",
-    "added_at": "2025-12-06T19:06:29.705Z"
+    "added_at": "2025-12-06T19:06:29.705Z",
+    "removed_at": "2025-12-07T09:22:32.486Z",
+    "duration_minutes": 856,
+    "duration_str": "14h 16m"
   },
   {
     "title": "suisse:::En images: près de 60 000 personnes dans les rues de Genève pour la Course de l'Escalade",
@@ -52458,11 +52464,17 @@
   },
   {
     "title": "culture:::Anvers réveille les rêves et les révolutions de Magritte",
-    "added_at": "2025-12-07T07:23:50.070Z"
+    "added_at": "2025-12-07T07:23:50.070Z",
+    "removed_at": "2025-12-07T10:21:47.849Z",
+    "duration_minutes": 177,
+    "duration_str": "2h 57m"
   },
   {
     "title": "monde:::Une frappe des paramilitaires a fait des dizaines de morts dans le sud du Soudan",
-    "added_at": "2025-12-07T07:23:50.070Z"
+    "added_at": "2025-12-07T07:23:50.070Z",
+    "removed_at": "2025-12-07T08:25:41.054Z",
+    "duration_minutes": 61,
+    "duration_str": "1h 1m"
   },
   {
     "title": "economie:::Le casse-tête de la gestion des pompes à chaleur à nouveau pointé dans une étude",
@@ -52471,5 +52483,35 @@
   {
     "title": "monde:::En direct, guerre en Ukraine − Selon Ignazio Cassis, l’OSCE doit se préparer à éventuel cessez-le-feu en Ukraine",
     "added_at": "2025-12-07T07:49:54.838Z"
+  },
+  {
+    "title": "suisse:::Ce qui coince pour que la pilule contraceptive soit remboursée comme un médicament par l’assurance maladie",
+    "added_at": "2025-12-07T08:25:41.054Z"
+  },
+  {
+    "title": "sport:::Lionel Messi sacré champion des Etats-Unis avec l’Inter Miami de David Beckham",
+    "added_at": "2025-12-07T08:49:23.438Z"
+  },
+  {
+    "title": "monde:::Au Bénin, des militaires annoncent «démettre de ses fonctions» le président Patrice Talon",
+    "added_at": "2025-12-07T09:01:11.986Z",
+    "removed_at": "2025-12-07T09:24:57.629Z",
+    "duration_minutes": 23,
+    "duration_str": "23m"
+  },
+  {
+    "title": "economie:::UBS préparerait une nouvelle suppression massive d’emplois",
+    "added_at": "2025-12-07T09:22:32.486Z"
+  },
+  {
+    "title": "monde:::Confusion au Bénin, où des militaires annoncent «démettre de ses fonctions» le président Patrice Talon",
+    "added_at": "2025-12-07T09:24:57.629Z",
+    "removed_at": "2025-12-07T09:53:20.357Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
+  },
+  {
+    "title": "monde:::Confusion au Bénin, où l’armée aurait repris la main après une tentative de coup d’Etat contre le président Patrice Talon",
+    "added_at": "2025-12-07T09:53:20.357Z"
   }
 ]
