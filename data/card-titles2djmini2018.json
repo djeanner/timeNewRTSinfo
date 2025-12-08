@@ -54613,7 +54613,10 @@
   },
   {
     "title": "suisse:::Découvrez «Le Temps» pour 1 franc et soutenez une information fiable et indépendante",
-    "added_at": "2025-12-01T16:57:14.461Z"
+    "added_at": "2025-12-01T16:57:14.461Z",
+    "removed_at": "2025-12-08T13:17:02.331Z",
+    "duration_minutes": 9859,
+    "duration_str": "6d 20h 19m"
   },
   {
     "title": "suisse:::A Genève, duel confirmé entre Olivier Jornot et Pierre Bayenet pour le poste de procureur général",
@@ -56238,7 +56241,10 @@
   },
   {
     "title": "cyber:::Il serait dangereux de donner un téléphone à un enfant avant ses 12 ans",
-    "added_at": "2025-12-07T18:26:17.579Z"
+    "added_at": "2025-12-07T18:26:17.579Z",
+    "removed_at": "2025-12-08T14:06:13.229Z",
+    "duration_minutes": 1179,
+    "duration_str": "19h 39m"
   },
   {
     "title": "monde:::Au Bénin, l’échec d’une tentative de coup d’Etat contre le président Patrice Talon",
@@ -56309,7 +56315,10 @@
   },
   {
     "title": "monde:::Moyen-Orient − Notre suivi de la semaine du 1er décembre",
-    "added_at": "2025-12-08T04:23:46.783Z"
+    "added_at": "2025-12-08T04:23:46.783Z",
+    "removed_at": "2025-12-08T14:42:05.122Z",
+    "duration_minutes": 618,
+    "duration_str": "10h 18m"
   },
   {
     "title": "monde:::Ukraine en direct − Donald Trump reproche à Volodymyr Zelensky de n’avoir «pas lu la proposition» de paix",
@@ -56331,10 +56340,7 @@
   },
   {
     "title": "economie:::Ce qui pourrait perturber la fin de l’année boursière",
-    "added_at": "2025-12-08T06:11:35.301Z",
-    "removed_at": "2025-12-08T12:08:51.786Z",
-    "duration_minutes": 357,
-    "duration_str": "5h 57m"
+    "added_at": "2025-12-08T06:11:35.301Z"
   },
   {
     "title": "suisse:::Les CFF mettent une roue de plus en Europe, mais cela génère des critiques",
@@ -56368,10 +56374,32 @@
   },
   {
     "title": "monde:::Après un incendie dévastateur, les élections à Hong Kong assombries par la colère et la douleur",
-    "added_at": "2025-12-08T12:07:01.916Z"
+    "added_at": "2025-12-08T12:07:01.916Z",
+    "removed_at": "2025-12-08T12:26:01.108Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
   },
   {
     "title": "suisse:::A Genève, une arrestation dans l’incroyable feuilleton des colis piégés",
-    "added_at": "2025-12-08T12:08:51.786Z"
+    "added_at": "2025-12-08T12:08:51.786Z",
+    "removed_at": "2025-12-08T14:32:36.822Z",
+    "duration_minutes": 143,
+    "duration_str": "2h 23m"
+  },
+  {
+    "title": "monde:::Après un incendie dévastateur, les élections à Hongkong assombries par la colère et la douleur",
+    "added_at": "2025-12-08T12:26:01.108Z"
+  },
+  {
+    "title": "cyber:::Infomaniak retire son recours contre la prolongation par la Confédération des contrats avec les géants du cloud",
+    "added_at": "2025-12-08T14:06:13.229Z"
+  },
+  {
+    "title": "monde:::Du Mali au Burkina Faso, le djihad «s’enracine» au Sahel et déstabilise l’Afrique de l’Ouest jusqu’au Bénin ou au Togo",
+    "added_at": "2025-12-08T14:32:36.822Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis ont accueilli de discrètes discussions entre Israéliens et Qataris à New York",
+    "added_at": "2025-12-08T14:42:05.122Z"
   }
 ]
