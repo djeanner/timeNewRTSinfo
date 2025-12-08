@@ -57,7 +57,7 @@
   {
     "title": "suisse:::Les CFF mettent une roue de plus en Europe, mais cela génère des critiques",
     "added_at": "2025-12-08T06:28:33.842Z",
-    "removed_at": "2025-12-08T17:34:34.436Z",
+    "removed_at": "2025-12-08T17:34:24.720Z",
     "duration_minutes": 666,
     "duration_str": "11h 6m"
   },
@@ -137,7 +137,7 @@
   {
     "title": "monde:::Le Japon est en alerte tsunami, après un séisme de magnitude 7,6",
     "added_at": "2025-12-08T15:37:06.307Z",
-    "removed_at": "2025-12-08T18:03:07.299Z",
+    "removed_at": "2025-12-08T18:02:48.137Z",
     "duration_minutes": 146,
     "duration_str": "2h 26m"
   },
@@ -172,8 +172,9 @@
   {
     "title": "suisse:::Une première stratégie nationale de lutte contre le racisme et l’antisémitisme perfectible",
     "added_at": "2025-12-08T16:39:26.335Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-08T21:46:58.464Z",
+    "duration_minutes": 308,
+    "duration_str": "5h 8m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Les Européns se disent sceptiques sur les dernières propositions de paix des Etats-Unis",
@@ -183,19 +184,19 @@
   },
   {
     "title": "suisse:::Redevance SSR à 200 francs: la bataille est lancée",
-    "added_at": "2025-12-08T17:34:34.436Z",
+    "added_at": "2025-12-08T17:34:24.720Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "suisse:::La Suisse reprend la présidence d’une OSCE moribonde",
-    "added_at": "2025-12-08T17:48:50.087Z",
+    "added_at": "2025-12-08T17:47:41.879Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "suisse:::A Genève, chaude ambiance pour le procès de douze militants qui avaient occupé l’immeuble maudit des Pâquis",
-    "added_at": "2025-12-08T18:03:07.299Z",
+    "added_at": "2025-12-08T18:02:48.137Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -207,7 +208,7 @@
   },
   {
     "title": "suisse:::Le Conseil national veut de nouvelles coupes dans la coopération internationale",
-    "added_at": "2025-12-08T19:05:11.841Z",
+    "added_at": "2025-12-08T19:03:18.464Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -220,6 +221,12 @@
   {
     "title": "culture:::«Inconditionnelles», au Théâtre du Loup: les raisons d’une (nouvelle) annulation d’un spectacle",
     "added_at": "2025-12-08T19:38:27.362Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::La ville de Genève a adopté son budget 2026",
+    "added_at": "2025-12-08T21:46:58.464Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
