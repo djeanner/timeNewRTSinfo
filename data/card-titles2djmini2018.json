@@ -55790,7 +55790,10 @@
   },
   {
     "title": "suisse:::Dysfonctionnements, pressions, isolement: le destin tragique de la procureure qui instruisait les deux dossiers valaisans les plus sensibles",
-    "added_at": "2025-12-05T19:04:38.479Z"
+    "added_at": "2025-12-05T19:04:38.479Z",
+    "removed_at": "2025-12-08T15:57:49.535Z",
+    "duration_minutes": 4133,
+    "duration_str": "2d 20h 53m"
   },
   {
     "title": "monde:::Avoirs russes gelés, l’épine belge dans le pied de l’UE",
@@ -56230,7 +56233,10 @@
   },
   {
     "title": "sport:::Jimmy Gressier et Winnie Jeptarus remportent la Course de l’Escalade",
-    "added_at": "2025-12-07T17:29:31.784Z"
+    "added_at": "2025-12-07T17:29:31.784Z",
+    "removed_at": "2025-12-08T16:39:26.335Z",
+    "duration_minutes": 1389,
+    "duration_str": "23h 9m"
   },
   {
     "title": "suisse:::En immersion au contact intime de la mort, dans les soins palliatifs aigus",
@@ -56255,7 +56261,10 @@
   },
   {
     "title": "suisse:::En immersion au contact intime de la mort, dans les soins palliatifs aigus",
-    "added_at": "2025-12-07T18:30:01.620Z"
+    "added_at": "2025-12-07T18:30:01.620Z",
+    "removed_at": "2025-12-08T15:37:06.307Z",
+    "duration_minutes": 1267,
+    "duration_str": "21h 7m"
   },
   {
     "title": "monde:::Au Bénin, échec d’une tentative de coup d’Etat contre le président Patrice Talon",
@@ -56362,11 +56371,17 @@
   },
   {
     "title": "monde:::Emmanuel Grégoire, l’éternel adjoint qui veut devenir maire de Paris",
-    "added_at": "2025-12-08T09:26:13.796Z"
+    "added_at": "2025-12-08T09:26:13.796Z",
+    "removed_at": "2025-12-08T16:03:29.464Z",
+    "duration_minutes": 397,
+    "duration_str": "6h 37m"
   },
   {
     "title": "monde:::Ukraine en direct − Volodymyr Zelensky recevra aujourd'hui les nouvelles propositions de Washington pour mettre fin à la guerre en Ukraine",
-    "added_at": "2025-12-08T10:13:40.011Z"
+    "added_at": "2025-12-08T10:13:40.011Z",
+    "removed_at": "2025-12-08T15:37:06.307Z",
+    "duration_minutes": 323,
+    "duration_str": "5h 23m"
   },
   {
     "title": "suisse:::Dans l’affaire des colis piégés à Genève, Patek Philippe doit batailler pour récupérer les cryptomonnaies versées en guise de rançon",
@@ -56401,5 +56416,39 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis ont accueilli de discrètes discussions entre Israéliens et Qataris à New York",
     "added_at": "2025-12-08T14:42:05.122Z"
+  },
+  {
+    "title": "monde:::Le Japon est en alerte tsunami, après un séisme de magnitude 7,6",
+    "added_at": "2025-12-08T15:37:06.307Z"
+  },
+  {
+    "title": "monde:::La guerre contre l'Ukraine en direct − Les Européns se disent sceptiques sur les dernières propositions de paix des Etats-Unis",
+    "added_at": "2025-12-08T15:37:06.307Z",
+    "removed_at": "2025-12-08T16:43:10.547Z",
+    "duration_minutes": 66,
+    "duration_str": "1h 6m"
+  },
+  {
+    "title": "culture:::A Genève puis Lausanne, deux visages du piano",
+    "added_at": "2025-12-08T15:57:49.535Z",
+    "removed_at": "2025-12-08T16:31:51.312Z",
+    "duration_minutes": 34,
+    "duration_str": "34m"
+  },
+  {
+    "title": "economie:::La Chine passe la barre du millier de milliards de dollars d’excédent commercial",
+    "added_at": "2025-12-08T16:03:29.464Z"
+  },
+  {
+    "title": "culture:::A Genève puis à Lausanne, deux visages du piano",
+    "added_at": "2025-12-08T16:31:51.312Z"
+  },
+  {
+    "title": "suisse:::Une première stratégie nationale de lutte contre le racisme et l’antisémitisme perfectible",
+    "added_at": "2025-12-08T16:39:26.335Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Les Européns se disent sceptiques sur les dernières propositions de paix des Etats-Unis",
+    "added_at": "2025-12-08T16:43:10.547Z"
   }
 ]
