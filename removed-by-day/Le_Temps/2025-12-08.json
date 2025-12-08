@@ -9,7 +9,7 @@
   {
     "title": "economie:::Un remboursement après la décision de la Cour suprême sur les droits de douane? Le pari des entreprises américaines",
     "added_at": "2025-12-08T04:18:06.532Z",
-    "removed_at": "2025-12-08T12:09:03.716Z",
+    "removed_at": "2025-12-08T12:08:51.786Z",
     "duration_minutes": 471,
     "duration_str": "7h 51m"
   },
@@ -23,8 +23,9 @@
   {
     "title": "monde:::Moyen-Orient − Notre suivi de la semaine du 1er décembre",
     "added_at": "2025-12-08T04:23:46.783Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-08T14:41:11.036Z",
+    "duration_minutes": 617,
+    "duration_str": "10h 17m"
   },
   {
     "title": "monde:::Ukraine en direct − Donald Trump reproche à Volodymyr Zelensky de n’avoir «pas lu la proposition» de paix",
@@ -49,9 +50,8 @@
   {
     "title": "economie:::Ce qui pourrait perturber la fin de l’année boursière",
     "added_at": "2025-12-08T06:10:31.368Z",
-    "removed_at": "2025-12-08T12:09:03.716Z",
-    "duration_minutes": 359,
-    "duration_str": "5h 59m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "suisse:::Les CFF mettent une roue de plus en Europe, mais cela génère des critiques",
@@ -62,16 +62,16 @@
   {
     "title": "economie:::Flemming Ornskov, directeur de Galderma: «Le marché américain devrait bientôt représenter la moitié de nos ventes»",
     "added_at": "2025-12-08T07:42:21.677Z",
-    "removed_at": "2025-12-08T12:09:03.716Z",
+    "removed_at": "2025-12-08T12:08:51.786Z",
     "duration_minutes": 267,
     "duration_str": "4h 27m"
   },
   {
     "title": "monde:::Ukraine en direct − Les Européens serrent les rangs derrière Volodymyr Zelensky, critiqué par Donald Trump",
     "added_at": "2025-12-08T08:51:53.632Z",
-    "removed_at": "2025-12-08T10:14:51.349Z",
-    "duration_minutes": 83,
-    "duration_str": "1h 23m"
+    "removed_at": "2025-12-08T10:13:40.011Z",
+    "duration_minutes": 82,
+    "duration_str": "1h 22m"
   },
   {
     "title": "monde:::Emmanuel Grégoire, l’éternel adjoint qui veut devenir maire de Paris",
@@ -81,9 +81,10 @@
   },
   {
     "title": "monde:::Ukraine en direct − Volodymyr Zelensky recevra aujourd'hui les nouvelles propositions de Washington pour mettre fin à la guerre en Ukraine",
-    "added_at": "2025-12-08T10:14:51.349Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-12-08T10:13:40.011Z",
+    "removed_at": "2025-12-08T15:38:04.620Z",
+    "duration_minutes": 324,
+    "duration_str": "5h 24m"
   },
   {
     "title": "suisse:::Dans l’affaire des colis piégés à Genève, Patek Philippe doit batailler pour récupérer les cryptomonnaies versées en guise de rançon",
@@ -100,13 +101,44 @@
   },
   {
     "title": "suisse:::A Genève, une arrestation dans l’incroyable feuilleton des colis piégés",
-    "added_at": "2025-12-08T12:09:03.716Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-12-08T12:08:51.786Z",
+    "removed_at": "2025-12-08T14:31:38.890Z",
+    "duration_minutes": 143,
+    "duration_str": "2h 23m"
   },
   {
     "title": "monde:::Après un incendie dévastateur, les élections à Hongkong assombries par la colère et la douleur",
     "added_at": "2025-12-08T12:25:42.111Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "cyber:::Infomaniak retire son recours contre la prolongation par la Confédération des contrats avec les géants du cloud",
+    "added_at": "2025-12-08T14:05:36.753Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Du Mali au Burkina Faso, le djihad «s’enracine» au Sahel et déstabilise l’Afrique de l’Ouest jusqu’au Bénin ou au Togo",
+    "added_at": "2025-12-08T14:31:38.890Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis ont accueilli de discrètes discussions entre Israéliens et Qataris à New York",
+    "added_at": "2025-12-08T14:41:11.036Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::Le Japon est en alerte tsunami, après un séisme de magnitude 7,6",
+    "added_at": "2025-12-08T15:38:04.620Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::La guerre contre l'Ukraine en direct − Les Européns se disent sceptiques sur les dernières propositions de paix des Etats-Unis",
+    "added_at": "2025-12-08T15:38:04.620Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
