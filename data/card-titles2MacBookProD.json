@@ -51036,10 +51036,7 @@
   },
   {
     "title": "suisse:::Découvrez «Le Temps» pour 1 franc et soutenez une information fiable et indépendante",
-    "added_at": "2025-12-01T16:58:00.717Z",
-    "removed_at": "2025-12-05T19:44:32.480Z",
-    "duration_minutes": 5926,
-    "duration_str": "4d 2h 46m"
+    "added_at": "2025-12-01T16:58:00.717Z"
   },
   {
     "title": "suisse:::A Genève, duel confirmé entre Olivier Jornot et Pierre Bayenet pour le poste de procureur général",
@@ -52618,7 +52615,10 @@
   },
   {
     "title": "culture:::Le photographe britannique Martin Parr est décédé",
-    "added_at": "2025-12-07T15:32:38.139Z"
+    "added_at": "2025-12-07T15:32:38.139Z",
+    "removed_at": "2025-12-08T09:25:04.864Z",
+    "duration_minutes": 1072,
+    "duration_str": "17h 52m"
   },
   {
     "title": "culture:::Marthe Donas, une étoile filante parmi les avant-gardes",
@@ -52737,7 +52737,10 @@
   },
   {
     "title": "monde:::Ukraine en direct − Donald Trump reproche à Volodymyr Zelensky de n’avoir «pas lu la proposition» de paix",
-    "added_at": "2025-12-08T04:26:06.477Z"
+    "added_at": "2025-12-08T04:26:06.477Z",
+    "removed_at": "2025-12-08T08:51:53.632Z",
+    "duration_minutes": 265,
+    "duration_str": "4h 25m"
   },
   {
     "title": "monde:::L’an premier de la liberté: les Syriens entre liesse et désillusion",
@@ -52761,5 +52764,20 @@
   {
     "title": "economie:::Flemming Ornskov, directeur de Galderma: «Le marché américain devrait bientôt représenter la moitié de nos ventes»",
     "added_at": "2025-12-08T07:43:00.167Z"
+  },
+  {
+    "title": "monde:::Ukraine en direct − Les Européens serrent les rangs derrière Volodymyr Zelensky, critiqué par Donald Trump",
+    "added_at": "2025-12-08T08:51:53.632Z",
+    "removed_at": "2025-12-08T10:14:51.349Z",
+    "duration_minutes": 82,
+    "duration_str": "1h 22m"
+  },
+  {
+    "title": "monde:::Emmanuel Grégoire, l’éternel adjoint qui veut devenir maire de Paris",
+    "added_at": "2025-12-08T09:25:04.864Z"
+  },
+  {
+    "title": "monde:::Ukraine en direct − Volodymyr Zelensky recevra aujourd'hui les nouvelles propositions de Washington pour mettre fin à la guerre en Ukraine",
+    "added_at": "2025-12-08T10:14:51.349Z"
   }
 ]
