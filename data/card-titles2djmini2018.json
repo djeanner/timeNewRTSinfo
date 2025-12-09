@@ -53867,10 +53867,7 @@
   },
   {
     "title": "suisse:::Beat Jans veut durcir l’asile tout en saluant la restructuration introduite il y a 6 ans",
-    "added_at": "2025-11-28T19:21:54.083Z",
-    "removed_at": "2025-11-29T07:23:29.908Z",
-    "duration_minutes": 721,
-    "duration_str": "12h 1m"
+    "added_at": "2025-11-28T19:21:54.083Z"
   },
   {
     "title": "monde:::Moyen-Orient – L’armée israélienne tue treize personnes lors d’une incursion en Syrie",
@@ -54613,10 +54610,7 @@
   },
   {
     "title": "suisse:::Découvrez «Le Temps» pour 1 franc et soutenez une information fiable et indépendante",
-    "added_at": "2025-12-01T16:57:14.461Z",
-    "removed_at": "2025-12-08T13:17:02.331Z",
-    "duration_minutes": 9859,
-    "duration_str": "6d 20h 19m"
+    "added_at": "2025-12-01T16:57:14.461Z"
   },
   {
     "title": "suisse:::A Genève, duel confirmé entre Olivier Jornot et Pierre Bayenet pour le poste de procureur général",
@@ -55797,7 +55791,10 @@
   },
   {
     "title": "monde:::Avoirs russes gelés, l’épine belge dans le pied de l’UE",
-    "added_at": "2025-12-05T19:25:32.064Z"
+    "added_at": "2025-12-05T19:25:32.064Z",
+    "removed_at": "2025-12-09T07:00:40.420Z",
+    "duration_minutes": 5015,
+    "duration_str": "3d 11h 35m"
   },
   {
     "title": "sport:::A la Coupe du monde 2026, la Suisse affrontera le Canada, le Qatar et peut-être l’Italie",
@@ -56085,7 +56082,10 @@
   },
   {
     "title": "economie:::Le casse-tête de la gestion des pompes à chaleur à nouveau pointé dans une étude",
-    "added_at": "2025-12-07T07:33:29.480Z"
+    "added_at": "2025-12-07T07:33:29.480Z",
+    "removed_at": "2025-12-09T06:16:42.032Z",
+    "duration_minutes": 2803,
+    "duration_str": "1d 22h 43m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Selon Ignazio Cassis, l’OSCE doit se préparer à éventuel cessez-le-feu en Ukraine",
@@ -56355,7 +56355,10 @@
   },
   {
     "title": "economie:::Ce qui pourrait perturber la fin de l’année boursière",
-    "added_at": "2025-12-08T06:11:35.301Z"
+    "added_at": "2025-12-08T06:11:35.301Z",
+    "removed_at": "2025-12-09T06:16:42.032Z",
+    "duration_minutes": 1445,
+    "duration_str": "1d 5m"
   },
   {
     "title": "suisse:::Les CFF mettent une roue de plus en Europe, mais cela génère des critiques",
@@ -56394,7 +56397,10 @@
   },
   {
     "title": "suisse:::Dans l’affaire des colis piégés à Genève, Patek Philippe doit batailler pour récupérer les cryptomonnaies versées en guise de rançon",
-    "added_at": "2025-12-08T11:02:44.685Z"
+    "added_at": "2025-12-08T11:02:44.685Z",
+    "removed_at": "2025-12-09T05:12:29.170Z",
+    "duration_minutes": 1089,
+    "duration_str": "18h 9m"
   },
   {
     "title": "monde:::Après un incendie dévastateur, les élections à Hong Kong assombries par la colère et la douleur",
@@ -56427,7 +56433,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis ont accueilli de discrètes discussions entre Israéliens et Qataris à New York",
-    "added_at": "2025-12-08T14:42:05.122Z"
+    "added_at": "2025-12-08T14:42:05.122Z",
+    "removed_at": "2025-12-09T05:01:09.350Z",
+    "duration_minutes": 859,
+    "duration_str": "14h 19m"
   },
   {
     "title": "monde:::Le Japon est en alerte tsunami, après un séisme de magnitude 7,6",
@@ -56517,5 +56526,32 @@
   {
     "title": "economie:::Dans l’OPA hostile pour mettre la main sur Warner Bros., Jared Kushner, des milliards venus du Golfe et l’ombre de Donald Trump",
     "added_at": "2025-12-09T04:36:25.888Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L'armée israélienne annonce avoir frappé des infrastructures du Hezbollah au Liban",
+    "added_at": "2025-12-09T05:01:09.350Z"
+  },
+  {
+    "title": "cyber:::En plein débat sur la souveraineté numérique, Infomaniak lance Euria, une IA respectueuse de la vie privée",
+    "added_at": "2025-12-09T05:04:55.122Z"
+  },
+  {
+    "title": "suisse:::«Lamentable» ou «compréhensible»: la grève des enseignants vaudois est-elle justifiée?",
+    "added_at": "2025-12-09T05:14:23.982Z"
+  },
+  {
+    "title": "economie:::Donald Trump donne son feu vert à l'exportation de puces Nvidia vers la Chine",
+    "added_at": "2025-12-09T06:09:05.638Z",
+    "removed_at": "2025-12-09T06:58:46.558Z",
+    "duration_minutes": 49,
+    "duration_str": "49m"
+  },
+  {
+    "title": "economie:::CRRC: quatre lettres qui font trembler les fabricants de trains européens",
+    "added_at": "2025-12-09T06:18:31.830Z"
+  },
+  {
+    "title": "monde:::Dix ans après la «crise des réfugiés», l’Autriche encore marquée",
+    "added_at": "2025-12-09T06:58:46.558Z"
   }
 ]
