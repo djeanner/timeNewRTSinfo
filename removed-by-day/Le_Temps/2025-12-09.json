@@ -56,8 +56,9 @@
   {
     "title": "monde:::Pour Noël, Donald Trump veut une salle de bal plus grande",
     "added_at": "2025-12-09T07:48:05.599Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-09T19:58:32.279Z",
+    "duration_minutes": 730,
+    "duration_str": "12h 10m"
   },
   {
     "title": "suisse:::Le parlement ne veut pas financer le train de nuit Bâle-Malmö",
@@ -89,9 +90,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine − Plusieurs régions de l'est de l'Ukaine privées d'électricité après les frappes russes de la nuit",
     "added_at": "2025-12-09T10:43:55.874Z",
-    "removed_at": "2025-12-09T14:46:45.107Z",
-    "duration_minutes": 243,
-    "duration_str": "4h 3m"
+    "removed_at": "2025-12-09T14:46:00.551Z",
+    "duration_minutes": 242,
+    "duration_str": "4h 2m"
   },
   {
     "title": "economie:::Pragma, la start-up horlogère qui construit ses montres sur une éthique plus suisse que le «Swiss made»",
@@ -134,18 +135,20 @@
   {
     "title": "culture:::Profession chasseur d’orages: dans la vie de Christophe Suarez",
     "added_at": "2025-12-09T13:41:36.692Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-09T18:28:07.968Z",
+    "duration_minutes": 287,
+    "duration_str": "4h 47m"
   },
   {
     "title": "economie:::Le nouveau géant des assurances Helvetia Baloise va supprimer jusqu’à 1800 postes en Suisse",
     "added_at": "2025-12-09T14:08:05.337Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-09T18:44:51.657Z",
+    "duration_minutes": 277,
+    "duration_str": "4h 37m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Donald Trump poursuit son offensive verbale contre Volodymyr Zelensky et les alliés européens de l'Ukraine",
-    "added_at": "2025-12-09T14:46:45.107Z",
+    "added_at": "2025-12-09T14:46:00.551Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -170,6 +173,30 @@
   {
     "title": "suisse:::La FM ne sera finalement pas débranchée en 2026",
     "added_at": "2025-12-09T18:04:09.048Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "culture:::Avec le funambule star Nathan Paulin, le festival Antigel à Genève promet de tutoyer les cieux",
+    "added_at": "2025-12-09T18:28:07.968Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::Swatch dans le viseur de l’Italie pour pratiques anti-concurrentielles",
+    "added_at": "2025-12-09T18:44:51.657Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Le canton de Vaud va-t-il priver les résidents d’EMS de dessert? Au-delà des phrases chocs, l’enjeu bien réel de l’alimentation des aînés",
+    "added_at": "2025-12-09T19:18:07.549Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "culture:::«L’amour qu’il nous reste», petite chronique d’après-séparation",
+    "added_at": "2025-12-09T19:58:32.279Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
