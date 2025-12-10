@@ -44764,7 +44764,10 @@
   },
   {
     "title": "Syrie: appel à l'unité nationale une année après la chute de la dictature",
-    "added_at": "2025-12-08T13:27:38.921Z"
+    "added_at": "2025-12-08T13:27:38.921Z",
+    "removed_at": "2025-12-10T19:03:19.473Z",
+    "duration_minutes": 3215,
+    "duration_str": "2d 5h 35m"
   },
   {
     "title": "Appel à l'unité dans une Syrie meurtrie, un an après la chute de Bachar al-Assad",
@@ -44985,7 +44988,10 @@
   },
   {
     "title": "Elias nous raconte l'enfer des prisons syriennes",
-    "added_at": "2025-12-08T20:25:57.257Z"
+    "added_at": "2025-12-08T20:25:57.257Z",
+    "removed_at": "2025-12-10T18:22:49.614Z",
+    "duration_minutes": 2756,
+    "duration_str": "1d 21h 56m"
   },
   {
     "title": "La censure qui menace la presse aux Etats-Unis: interviews de Patrick Chappatte et Ann Telnaes",
@@ -45036,7 +45042,10 @@
   },
   {
     "title": "Au moins 30 personnes blessées après un fort séisme et un tsunami dans le nord du Japon",
-    "added_at": "2025-12-09T06:10:44.231Z"
+    "added_at": "2025-12-09T06:10:44.231Z",
+    "removed_at": "2025-12-10T19:17:34.757Z",
+    "duration_minutes": 2226,
+    "duration_str": "1d 13h 6m"
   },
   {
     "title": "Les affrontements frontaliers se poursuivent entre la Thaïlande et le Cambodge",
@@ -45110,7 +45119,10 @@
   },
   {
     "title": "Douze militants jugés en appel pour l'occupation d'un immeuble à Genève",
-    "added_at": "2025-12-09T09:23:19.215Z"
+    "added_at": "2025-12-09T09:23:19.215Z",
+    "removed_at": "2025-12-10T20:33:43.835Z",
+    "duration_minutes": 2110,
+    "duration_str": "1d 11h 10m"
   },
   {
     "title": "C'est quoi la gentrification ?",
@@ -45165,11 +45177,17 @@
   },
   {
     "title": "Neuchâtel réduit les heures d'ouverture du parascolaire",
-    "added_at": "2025-12-09T12:19:16.212Z"
+    "added_at": "2025-12-09T12:19:16.212Z",
+    "removed_at": "2025-12-10T18:41:52.932Z",
+    "duration_minutes": 1822,
+    "duration_str": "1d 6h 22m"
   },
   {
     "title": "Le village de Blatten dévoile son budget 2026 marqué par la catastrophe du 28 mai",
-    "added_at": "2025-12-09T12:23:59.410Z"
+    "added_at": "2025-12-09T12:23:59.410Z",
+    "removed_at": "2025-12-10T20:38:28.681Z",
+    "duration_minutes": 1934,
+    "duration_str": "1d 8h 14m"
   },
   {
     "title": "Le Parlement refuse de financer le train de nuit Bâle-Malmö",
@@ -45554,5 +45572,32 @@
   {
     "title": "Entre la Thaïlande et le Cambodge, un conflit frontalier de longue date",
     "added_at": "2025-12-10T17:08:55.781Z"
+  },
+  {
+    "title": "La Comco refuse l’accord entre les éditeurs privés et la SSR sur la réduction des articles à 2400 signes",
+    "added_at": "2025-12-10T18:22:49.614Z",
+    "removed_at": "2025-12-10T20:24:11.751Z",
+    "duration_minutes": 121,
+    "duration_str": "2h 1m"
+  },
+  {
+    "title": "Thierry Cerutti visé par une enquête en lien avec la fraude électorale de Vernier",
+    "added_at": "2025-12-10T18:41:52.932Z"
+  },
+  {
+    "title": "Les réactions de Laurent Wehrli (PLR/VD) et Delphine Klopfenstein (Verte/GE)",
+    "added_at": "2025-12-10T19:03:19.473Z"
+  },
+  {
+    "title": "La remontée des températures à l'approche des fêtes inquiète les stations de ski",
+    "added_at": "2025-12-10T20:24:11.751Z"
+  },
+  {
+    "title": "\"Je mesure la confiance [du Parlement], mais aussi la responsabilité\", affirme Guy Parmelin",
+    "added_at": "2025-12-10T20:33:43.835Z"
+  },
+  {
+    "title": "Une importante fuite de pétrole dans le nord de l'Allemagne après un \"incident\" sur un oléoduc",
+    "added_at": "2025-12-10T20:38:28.681Z"
   }
 ]
