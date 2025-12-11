@@ -44854,7 +44854,10 @@
   },
   {
     "title": "monde:::En Israël, des otages lèvent le voile sur leurs conditions de détention",
-    "added_at": "2025-10-28T05:08:59.777Z"
+    "added_at": "2025-10-28T05:08:59.777Z",
+    "removed_at": "2025-12-11T16:53:56.821Z",
+    "duration_minutes": 64064,
+    "duration_str": "44d 11h 44m"
   },
   {
     "title": "monde:::Le très puissant ouragan Melissa s’apprête à frapper la Jamaïque et fait déjà trois morts",
@@ -56918,7 +56921,10 @@
   },
   {
     "title": "monde:::A Gaza, la recherche du dernier otage et le casse-tête de la deuxième phase de la trêve",
-    "added_at": "2025-12-10T11:50:59.771Z"
+    "added_at": "2025-12-10T11:50:59.771Z",
+    "removed_at": "2025-12-11T18:01:59.568Z",
+    "duration_minutes": 1810,
+    "duration_str": "1d 6h 10m"
   },
   {
     "title": "sport:::«Sans compétition ni jugement»: à Genève, le joyeux rituel de la nage en eau froide",
@@ -57129,7 +57135,10 @@
   },
   {
     "title": "suisse:::Quand Olivier Jornot et Pierre Bayenet croisent le fer dans un club VIP, en présence de Pierre Maudet",
-    "added_at": "2025-12-10T20:03:05.620Z"
+    "added_at": "2025-12-10T20:03:05.620Z",
+    "removed_at": "2025-12-11T18:01:59.568Z",
+    "duration_minutes": 1318,
+    "duration_str": "21h 58m"
   },
   {
     "title": "suisse:::L’élection au conseil administratif de Vernier désormais aussi soupçonnée de fraude: Thierry Cerutti visé par une enquête",
@@ -57256,7 +57265,10 @@
   },
   {
     "title": "cyber:::Cofondée par le milliardaire controversé Peter Thiel, Palantir a tenté de séduire les autorités suisses",
-    "added_at": "2025-12-11T08:43:29.166Z"
+    "added_at": "2025-12-11T08:43:29.166Z",
+    "removed_at": "2025-12-11T16:19:53.775Z",
+    "duration_minutes": 456,
+    "duration_str": "7h 36m"
   },
   {
     "title": "economie:::La BNS maintient son taux directeur à 0,0%",
@@ -57331,7 +57343,10 @@
   },
   {
     "title": "sport:::Nouveau coup dur pour le ski suisse, Michelle Gisin chute lourdement à l’entraînement à Saint-Moritz",
-    "added_at": "2025-12-11T12:28:51.114Z"
+    "added_at": "2025-12-11T12:28:51.114Z",
+    "removed_at": "2025-12-11T18:17:11.707Z",
+    "duration_minutes": 348,
+    "duration_str": "5h 48m"
   },
   {
     "title": "monde:::7-Octobre: Amnesty International accuse pour la première fois le Hamas de crimes contre l’humanité",
@@ -57355,14 +57370,58 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – La bande de Gaza en ruines et parsemée d'abris de fortune est frappée par les intempéries",
-    "added_at": "2025-12-11T14:31:54.179Z"
+    "added_at": "2025-12-11T14:31:54.179Z",
+    "removed_at": "2025-12-11T16:48:15.661Z",
+    "duration_minutes": 136,
+    "duration_str": "2h 16m"
   },
   {
     "title": "suisse:::Vers une interdiction des pétards en Suisse",
-    "added_at": "2025-12-11T14:45:09.911Z"
+    "added_at": "2025-12-11T14:45:09.911Z",
+    "removed_at": "2025-12-11T16:08:32.870Z",
+    "duration_minutes": 83,
+    "duration_str": "1h 23m"
   },
   {
     "title": "sport:::«Mesdames, Messieurs, faites-vous plaisir!» Aux portes de Genève, des jeunes chevaux partent aux enchères pour un demi-million d’euros",
     "added_at": "2025-12-11T15:24:52.749Z"
+  },
+  {
+    "title": "suisse:::Vers une interdiction des pétards et des fusées stridentes en Suisse",
+    "added_at": "2025-12-11T16:08:32.870Z"
+  },
+  {
+    "title": "monde:::A Genève, des discussions vont avoir lieu sur le Soudan entre des représentants de l’ONU et les belligérants",
+    "added_at": "2025-12-11T16:19:53.775Z",
+    "removed_at": "2025-12-11T16:53:56.821Z",
+    "duration_minutes": 34,
+    "duration_str": "34m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le chanteur suisse Nemo renonce à son trophée de l’Eurovision pour protester contre la participation d'Israël",
+    "added_at": "2025-12-11T16:48:15.661Z",
+    "removed_at": "2025-12-11T17:35:33.492Z",
+    "duration_minutes": 47,
+    "duration_str": "47m"
+  },
+  {
+    "title": "economie:::Les soirées d’entreprise, si propices aux dérapages",
+    "added_at": "2025-12-11T16:53:56.821Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L'artiste suisse Nemo renonce à son trophée de l’Eurovision pour protester contre la participation d'Israël",
+    "added_at": "2025-12-11T17:35:33.492Z"
+  },
+  {
+    "title": "economie:::Protection des sources journalistiques: 1 – Banque Reyl: 0",
+    "added_at": "2025-12-11T17:37:29.422Z"
+  },
+  {
+    "title": "sciences:::Kirsten Schuijt, directrice générale du WWF International: «La déception est énorme par rapport à l’Accord de Paris, mais le monde bouge, et il y a des lumières au bout du tunnel»",
+    "added_at": "2025-12-11T18:01:59.568Z"
+  },
+  {
+    "title": "sport:::La cruauté du ski alpin s'acharne sur Michelle Gisin et le ski suisse",
+    "added_at": "2025-12-11T18:17:11.707Z"
   }
 ]
