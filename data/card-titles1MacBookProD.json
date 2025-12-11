@@ -44999,7 +44999,10 @@
   },
   {
     "title": "Les trains circulent à nouveau entre Montreux et Aigle",
-    "added_at": "2025-12-08T22:34:31.420Z"
+    "added_at": "2025-12-08T22:34:31.420Z",
+    "removed_at": "2025-12-11T10:03:12.336Z",
+    "duration_minutes": 3568,
+    "duration_str": "2d 11h 28m"
   },
   {
     "title": "Donald Trump donne son feu vert à l'exportation stratégiques de puces Nvidia vers la Chine",
@@ -45240,11 +45243,17 @@
   },
   {
     "title": "Helvetia Baloise va supprimer jusqu'à 1800 postes en Suisse d'ici 2028",
-    "added_at": "2025-12-09T14:08:42.236Z"
+    "added_at": "2025-12-09T14:08:42.236Z",
+    "removed_at": "2025-12-11T10:05:35.918Z",
+    "duration_minutes": 2636,
+    "duration_str": "1d 19h 56m"
   },
   {
     "title": "L'Europe débat de l'utilisation des avoirs russes gelés pour financer l'Ukraine",
-    "added_at": "2025-12-09T14:11:05.644Z"
+    "added_at": "2025-12-09T14:11:05.644Z",
+    "removed_at": "2025-12-11T08:28:01.640Z",
+    "duration_minutes": 2536,
+    "duration_str": "1d 18h 16m"
   },
   {
     "title": "La COMCO émet des réserves sur certains points de l'accord passé entre la SSR et les éditeurs privés",
@@ -45280,7 +45289,10 @@
   },
   {
     "title": "En Australie, les moins de 16 ans n'ont plus accès à certains réseaux sociaux",
-    "added_at": "2025-12-09T15:24:43.819Z"
+    "added_at": "2025-12-09T15:24:43.819Z",
+    "removed_at": "2025-12-11T09:15:39.102Z",
+    "duration_minutes": 2510,
+    "duration_str": "1d 17h 50m"
   },
   {
     "title": "L'aéroport de Genève sera directement relié à Annemasse (F) dès le 14 décembre",
@@ -45313,7 +45325,10 @@
   },
   {
     "title": "Trop coûteux, le téléski de La Chia, près de Bulle, va cesser d'être exploité",
-    "added_at": "2025-12-09T16:21:58.862Z"
+    "added_at": "2025-12-09T16:21:58.862Z",
+    "removed_at": "2025-12-11T08:35:07.926Z",
+    "duration_minutes": 2413,
+    "duration_str": "1d 16h 13m"
   },
   {
     "title": "Le Festival Antigel redéploie un riche programme artistique dans le canton de Genève",
@@ -45324,7 +45339,10 @@
   },
   {
     "title": "Podcast - C'est quoi, le jass?",
-    "added_at": "2025-12-09T16:43:21.045Z"
+    "added_at": "2025-12-09T16:43:21.045Z",
+    "removed_at": "2025-12-11T07:50:02.604Z",
+    "duration_minutes": 2346,
+    "duration_str": "1d 15h 6m"
   },
   {
     "title": "En novembre, seules 10% des actions des supermarchés concernaient des fruits et légumes",
@@ -45332,7 +45350,10 @@
   },
   {
     "title": "Le Parlement grison débloque 50 millions pour relocaliser le village de Brienz",
-    "added_at": "2025-12-09T17:02:21.094Z"
+    "added_at": "2025-12-09T17:02:21.094Z",
+    "removed_at": "2025-12-11T07:54:44.911Z",
+    "duration_minutes": 2332,
+    "duration_str": "1d 14h 52m"
   },
   {
     "title": "Les fonctionnaires vaudois à nouveau dans la rue, une voiture perturbe le défilé",
@@ -45697,5 +45718,33 @@
   {
     "title": "Le Portugal paralysé par une grève générale contre une réforme du travail",
     "added_at": "2025-12-11T06:57:29.678Z"
+  },
+  {
+    "title": "Zurich conteste la perte de son autonomie sur les zones 30 km/h",
+    "added_at": "2025-12-11T07:50:02.604Z"
+  },
+  {
+    "title": "Le Haut-Commissariat aux droits de l'homme de l'ONU en \"mode survie\" après des coupes budgétaires",
+    "added_at": "2025-12-11T07:54:44.911Z"
+  },
+  {
+    "title": "La bataille pour racheter Warner: qui décidera ce que nous regardons?",
+    "added_at": "2025-12-11T08:23:16.446Z"
+  },
+  {
+    "title": "Les départements au sein du Gouvernement jurassien ont été répartis",
+    "added_at": "2025-12-11T08:28:01.640Z"
+  },
+  {
+    "title": "\"La tentation artificielle\" de Clément Camar-Mercier, entre les algorithmes et Dieu",
+    "added_at": "2025-12-11T08:35:07.926Z"
+  },
+  {
+    "title": "Le PLR genevois réclame des moyens de lutte supplémentaires contre le home-jacking",
+    "added_at": "2025-12-11T09:15:39.102Z"
+  },
+  {
+    "title": "Christian Mukuna se dévoile avec humour et nostalgie dans un nouveau one-man-show",
+    "added_at": "2025-12-11T10:05:35.918Z"
   }
 ]
