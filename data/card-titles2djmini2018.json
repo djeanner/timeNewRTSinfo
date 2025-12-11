@@ -44854,10 +44854,7 @@
   },
   {
     "title": "monde:::En Israël, des otages lèvent le voile sur leurs conditions de détention",
-    "added_at": "2025-10-28T05:08:59.777Z",
-    "removed_at": "2025-10-29T11:05:16.303Z",
-    "duration_minutes": 1796,
-    "duration_str": "1d 5h 56m"
+    "added_at": "2025-10-28T05:08:59.777Z"
   },
   {
     "title": "monde:::Le très puissant ouragan Melissa s’apprête à frapper la Jamaïque et fait déjà trois morts",
@@ -56921,10 +56918,7 @@
   },
   {
     "title": "monde:::A Gaza, la recherche du dernier otage et le casse-tête de la deuxième phase de la trêve",
-    "added_at": "2025-12-10T11:50:59.771Z",
-    "removed_at": "2025-12-11T07:16:32.278Z",
-    "duration_minutes": 1165,
-    "duration_str": "19h 25m"
+    "added_at": "2025-12-10T11:50:59.771Z"
   },
   {
     "title": "sport:::«Sans compétition ni jugement»: à Genève, le joyeux rituel de la nage en eau froide",
@@ -57121,7 +57115,10 @@
   },
   {
     "title": "monde:::En Ukraine, «la sécurité des électeurs est cruciale, une fois qu’elle sera garantie, les élections pourront avoir lieu»",
-    "added_at": "2025-12-10T19:59:15.667Z"
+    "added_at": "2025-12-10T19:59:15.667Z",
+    "removed_at": "2025-12-11T12:25:07.280Z",
+    "duration_minutes": 985,
+    "duration_str": "16h 25m"
   },
   {
     "title": "suisse:::Quand Olivier Jornot et Pierre Bayenet s’affrontent dans un club VIP, en présence de Pierre Maudet",
@@ -57203,7 +57200,10 @@
   },
   {
     "title": "monde:::Deux heures de show pour reconquérir sa base: Donald Trump en pleine campagne électorale en Pennsylvanie",
-    "added_at": "2025-12-11T05:32:25.993Z"
+    "added_at": "2025-12-11T05:32:25.993Z",
+    "removed_at": "2025-12-11T13:27:27.888Z",
+    "duration_minutes": 475,
+    "duration_str": "7h 55m"
   },
   {
     "title": "economie:::Berkshire Hathaway survivra-t-il au départ de Warren Buffett?",
@@ -57243,7 +57243,10 @@
   },
   {
     "title": "suisse:::Le parlement demande un meilleur soutien à la Genève internationale",
-    "added_at": "2025-12-11T07:56:11.605Z"
+    "added_at": "2025-12-11T07:56:11.605Z",
+    "removed_at": "2025-12-11T12:42:08.136Z",
+    "duration_minutes": 285,
+    "duration_str": "4h 45m"
   },
   {
     "title": "cyber:::Cofondée par le milliardaire controversé Peter Thiel, Palantir a tenté de séduire les autorités suisses",
@@ -57285,5 +57288,42 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Amnesty accuse le Hamas d’avoir commis des crimes contre l’humanité le 7-Octobre",
     "added_at": "2025-12-11T10:40:59.186Z"
+  },
+  {
+    "title": "culture:::Des chansons pour soigner les âmes: bienvenue dans la pharmacie enchantée de Louis Jucker",
+    "added_at": "2025-12-11T11:41:36.560Z"
+  },
+  {
+    "title": "sport:::Nouveau coup dur pour l’équipe suisse de vitesse, Michelle Gisin chute lourdement à l’entraînement",
+    "added_at": "2025-12-11T11:45:26.717Z",
+    "removed_at": "2025-12-11T11:49:11.022Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "sport:::Nouveau coup dur pour le ski suisse, Michelle Gisin chute lourdement à l’entraînement",
+    "added_at": "2025-12-11T11:49:11.022Z",
+    "removed_at": "2025-12-11T12:28:51.114Z",
+    "duration_minutes": 39,
+    "duration_str": "39m"
+  },
+  {
+    "title": "monde:::7 octobre: Amnesty International accuse pour la première fois le Hamas de crimes contre l’humanité",
+    "added_at": "2025-12-11T12:25:07.280Z",
+    "removed_at": "2025-12-11T12:30:47.343Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "sport:::Nouveau coup dur pour le ski suisse, Michelle Gisin chute lourdement à l’entraînement à Saint-Moritz",
+    "added_at": "2025-12-11T12:28:51.114Z"
+  },
+  {
+    "title": "monde:::7-Octobre: Amnesty International accuse pour la première fois le Hamas de crimes contre l’humanité",
+    "added_at": "2025-12-11T12:30:47.343Z"
+  },
+  {
+    "title": "monde:::Deux heures de show pour reconquérir sa base: Donald Trump reprend son éternelle campagne en Pennsylvanie",
+    "added_at": "2025-12-11T13:27:27.888Z"
   }
 ]
