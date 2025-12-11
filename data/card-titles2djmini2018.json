@@ -57072,7 +57072,10 @@
   },
   {
     "title": "suisse:::La droite du Grand Conseil vaudois maintient les coupes dans la santé mais les réduit de moitié pour les EMS",
-    "added_at": "2025-12-10T17:35:25.071Z"
+    "added_at": "2025-12-10T17:35:25.071Z",
+    "removed_at": "2025-12-11T10:25:55.115Z",
+    "duration_minutes": 1010,
+    "duration_str": "16h 50m"
   },
   {
     "title": "economie:::Pour l’industrie suisse, l’entrée en vigueur des droits de douane américains à 15% met fin à une lourde attente",
@@ -57097,7 +57100,10 @@
   },
   {
     "title": "suisse:::Taxé à 15%, Berne espère maintenant négocier à son rythme un accord avec Washington",
-    "added_at": "2025-12-10T19:10:05.697Z"
+    "added_at": "2025-12-10T19:10:05.697Z",
+    "removed_at": "2025-12-11T10:23:58.729Z",
+    "duration_minutes": 913,
+    "duration_str": "15h 13m"
   },
   {
     "title": "suisse:::Quand Olivier Jornot et Pierre Bayenet s’affrontent dans un night club, en présence de Pierre Maudet",
@@ -57115,10 +57121,7 @@
   },
   {
     "title": "monde:::En Ukraine, «la sécurité des électeurs est cruciale, une fois qu’elle sera garantie, les élections pourront avoir lieu»",
-    "added_at": "2025-12-10T19:59:15.667Z",
-    "removed_at": "2025-12-11T05:02:15.176Z",
-    "duration_minutes": 542,
-    "duration_str": "9h 2m"
+    "added_at": "2025-12-10T19:59:15.667Z"
   },
   {
     "title": "suisse:::Quand Olivier Jornot et Pierre Bayenet s’affrontent dans un club VIP, en présence de Pierre Maudet",
@@ -57140,7 +57143,10 @@
   },
   {
     "title": "culture:::Avec Antonia Pozzi, sur les sentiers de la montagne et de la passion",
-    "added_at": "2025-12-10T22:25:09.539Z"
+    "added_at": "2025-12-10T22:25:09.539Z",
+    "removed_at": "2025-12-11T10:14:34.671Z",
+    "duration_minutes": 709,
+    "duration_str": "11h 49m"
   },
   {
     "title": "economie:::Droits de douane: la Suisse paie désormais un montant «correct», selon Donald Trump",
@@ -57176,11 +57182,17 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Hamas propose de «geler» son armement en échange d’une trêve à Gaza",
-    "added_at": "2025-12-11T04:32:00.653Z"
+    "added_at": "2025-12-11T04:32:00.653Z",
+    "removed_at": "2025-12-11T10:40:59.186Z",
+    "duration_minutes": 368,
+    "duration_str": "6h 8m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Kiev a remis à Washington sa version du plan de paix",
-    "added_at": "2025-12-11T04:39:35.895Z"
+    "added_at": "2025-12-11T04:39:35.895Z",
+    "removed_at": "2025-12-11T10:23:58.729Z",
+    "duration_minutes": 344,
+    "duration_str": "5h 44m"
   },
   {
     "title": "monde:::En Pennsylvanie, l’éternel retour en campagne de Donald Trump",
@@ -57239,6 +57251,39 @@
   },
   {
     "title": "economie:::La BNS maintient son taux directeur à 0,0%",
-    "added_at": "2025-12-11T08:49:08.993Z"
+    "added_at": "2025-12-11T08:49:08.993Z",
+    "removed_at": "2025-12-11T09:04:38.740Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "economie:::Comme attendu, la BNS maintient son taux directeur à 0%",
+    "added_at": "2025-12-11T09:04:38.740Z"
+  },
+  {
+    "title": "sport:::L’opération nettoyage du football turc, empêtré dans un scandale de paris interdits",
+    "added_at": "2025-12-11T10:14:34.671Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − L'Ukraine a proposé des concessions territoriales à Donald Trump",
+    "added_at": "2025-12-11T10:23:58.729Z",
+    "removed_at": "2025-12-11T10:29:38.986Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Volodymyr Zelensky a proposé des concessions territoriales à Donald Trump",
+    "added_at": "2025-12-11T10:29:38.986Z",
+    "removed_at": "2025-12-11T10:31:35.300Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "monde:::En direct − Volodymyr Zelensky a proposé des concessions territoriales à Donald Trump",
+    "added_at": "2025-12-11T10:31:35.300Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Amnesty accuse le Hamas d’avoir commis des crimes contre l’humanité le 7-Octobre",
+    "added_at": "2025-12-11T10:40:59.186Z"
   }
 ]

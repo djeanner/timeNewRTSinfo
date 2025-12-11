@@ -73972,7 +73972,10 @@
   },
   {
     "title": "Les trains circulent à nouveau entre Montreux et Aigle",
-    "added_at": "2025-12-08T22:33:35.056Z"
+    "added_at": "2025-12-08T22:33:35.056Z",
+    "removed_at": "2025-12-11T10:03:14.188Z",
+    "duration_minutes": 3569,
+    "duration_str": "2d 11h 29m"
   },
   {
     "title": "Donald Trump donne son feu vert à l'exportation de puces stratégiques Nvidia vers la Chine",
@@ -74177,7 +74180,10 @@
   },
   {
     "title": "Le Parlement refuse de financer le train de nuit Bâle-Malmö",
-    "added_at": "2025-12-09T12:27:55.281Z"
+    "added_at": "2025-12-09T12:27:55.281Z",
+    "removed_at": "2025-12-11T11:16:54.894Z",
+    "duration_minutes": 2808,
+    "duration_str": "1d 22h 48m"
   },
   {
     "title": "Le milliardaire trumpiste Andrej Babis de retour au pouvoir en République tchèque",
@@ -74220,7 +74226,10 @@
   },
   {
     "title": "Helvetia Baloise va supprimer jusqu'à 1800 postes en Suisse d'ici 2028",
-    "added_at": "2025-12-09T14:09:55.432Z"
+    "added_at": "2025-12-09T14:09:55.432Z",
+    "removed_at": "2025-12-11T10:05:04.785Z",
+    "duration_minutes": 2635,
+    "duration_str": "1d 19h 55m"
   },
   {
     "title": "L'Europe débat de l'utilisation des avoirs russes gelés pour financer l'Ukraine",
@@ -74252,7 +74261,10 @@
   },
   {
     "title": "La Comco émet des réserves sur certains points de l'accord passé entre la SSR et les éditeurs privés",
-    "added_at": "2025-12-09T14:46:00.481Z"
+    "added_at": "2025-12-09T14:46:00.481Z",
+    "removed_at": "2025-12-11T10:54:14.838Z",
+    "duration_minutes": 2648,
+    "duration_str": "1d 20h 8m"
   },
   {
     "title": "L'année 2025 sous le crayon des dessinateurs de presse à Morges",
@@ -74263,7 +74275,10 @@
   },
   {
     "title": "En Australie, les moins de 16 ans n'ont plus accès à certains réseaux sociaux",
-    "added_at": "2025-12-09T15:23:47.416Z"
+    "added_at": "2025-12-09T15:23:47.416Z",
+    "removed_at": "2025-12-11T09:15:58.300Z",
+    "duration_minutes": 2512,
+    "duration_str": "1d 17h 52m"
   },
   {
     "title": "L'aéroport de Genève sera directement relié à Annemasse (F) dès le 14 décembre",
@@ -74625,10 +74640,7 @@
   },
   {
     "title": "La remontée des températures à l'approche des fêtes inquiète les stations de ski",
-    "added_at": "2025-12-10T20:23:52.193Z",
-    "removed_at": "2025-12-11T08:22:38.983Z",
-    "duration_minutes": 718,
-    "duration_str": "11h 58m"
+    "added_at": "2025-12-10T20:23:52.193Z"
   },
   {
     "title": "\"Je mesure la confiance [du Parlement], mais aussi la responsabilité\", affirme Guy Parmelin",
@@ -74719,5 +74731,25 @@
   {
     "title": "\"La tentation artificielle\" de Clément Camar-Mercier, entre les algorithmes et Dieu",
     "added_at": "2025-12-11T08:35:52.148Z"
+  },
+  {
+    "title": "Le PLR genevois réclame des moyens de lutte supplémentaires contre le home-jacking",
+    "added_at": "2025-12-11T09:15:58.300Z"
+  },
+  {
+    "title": "Christian Mukuna se dévoile avec humour et nostalgie dans un nouveau one-man-show",
+    "added_at": "2025-12-11T10:05:04.785Z"
+  },
+  {
+    "title": "La Banque nationale suisse maintient son taux directeur à 0,0% et ajuste sa prévision de croissance",
+    "added_at": "2025-12-11T10:48:34.729Z"
+  },
+  {
+    "title": "Lourde chute de Michelle Gisin à l'entraînement",
+    "added_at": "2025-12-11T10:54:14.838Z"
+  },
+  {
+    "title": "Les travaux d'agrandissement de la gare de Berne accusent deux ans de retard",
+    "added_at": "2025-12-11T11:16:54.894Z"
   }
 ]
