@@ -57068,10 +57068,7 @@
   },
   {
     "title": "suisse:::A Genève, le chauffard qui avait semé la terreur au marché de Rive n’est pas punissable",
-    "added_at": "2025-12-10T17:24:05.327Z",
-    "removed_at": "2025-12-11T19:36:59.886Z",
-    "duration_minutes": 1572,
-    "duration_str": "1d 2h 12m"
+    "added_at": "2025-12-10T17:24:05.327Z"
   },
   {
     "title": "suisse:::La droite du Grand Conseil vaudois maintient les coupes dans la santé mais les réduit de moitié pour les EMS",
@@ -57356,11 +57353,17 @@
   },
   {
     "title": "monde:::7-Octobre: Amnesty International accuse pour la première fois le Hamas de crimes contre l’humanité",
-    "added_at": "2025-12-11T12:30:47.343Z"
+    "added_at": "2025-12-11T12:30:47.343Z",
+    "removed_at": "2025-12-12T05:17:34.637Z",
+    "duration_minutes": 1006,
+    "duration_str": "16h 46m"
   },
   {
     "title": "monde:::Deux heures de show pour reconquérir sa base: Donald Trump reprend son éternelle campagne en Pennsylvanie",
-    "added_at": "2025-12-11T13:27:27.888Z"
+    "added_at": "2025-12-11T13:27:27.888Z",
+    "removed_at": "2025-12-12T05:06:15.696Z",
+    "duration_minutes": 938,
+    "duration_str": "15h 38m"
   },
   {
     "title": "culture:::Ino Casablanca, le groove porte la révolte",
@@ -57399,14 +57402,17 @@
   },
   {
     "title": "sport:::«Mesdames, Messieurs, faites-vous plaisir!» Aux portes de Genève, des jeunes chevaux partent aux enchères pour un demi-million d’euros",
-    "added_at": "2025-12-11T15:24:52.749Z"
+    "added_at": "2025-12-11T15:24:52.749Z",
+    "removed_at": "2025-12-12T05:36:28.236Z",
+    "duration_minutes": 851,
+    "duration_str": "14h 11m"
   },
   {
     "title": "suisse:::Vers une interdiction des pétards et des fusées stridentes en Suisse",
     "added_at": "2025-12-11T16:08:32.870Z",
-    "removed_at": "2025-12-11T23:46:53.164Z",
-    "duration_minutes": 458,
-    "duration_str": "7h 38m"
+    "removed_at": "2025-12-12T05:32:44.511Z",
+    "duration_minutes": 804,
+    "duration_str": "13h 24m"
   },
   {
     "title": "monde:::A Genève, des discussions vont avoir lieu sur le Soudan entre des représentants de l’ONU et les belligérants",
@@ -57436,7 +57442,10 @@
   },
   {
     "title": "sciences:::Kirsten Schuijt, directrice générale du WWF International: «La déception est énorme par rapport à l’Accord de Paris, mais le monde bouge, et il y a des lumières au bout du tunnel»",
-    "added_at": "2025-12-11T18:01:59.568Z"
+    "added_at": "2025-12-11T18:01:59.568Z",
+    "removed_at": "2025-12-12T05:36:28.236Z",
+    "duration_minutes": 694,
+    "duration_str": "11h 34m"
   },
   {
     "title": "sport:::La cruauté du ski alpin s'acharne sur Michelle Gisin et le ski suisse",
@@ -57447,7 +57456,10 @@
   },
   {
     "title": "sport:::La cruauté du ski alpin s’acharne sur Michelle Gisin et le ski suisse",
-    "added_at": "2025-12-11T19:14:18.370Z"
+    "added_at": "2025-12-11T19:14:18.370Z",
+    "removed_at": "2025-12-12T05:51:33.149Z",
+    "duration_minutes": 637,
+    "duration_str": "10h 37m"
   },
   {
     "title": "culture:::Noël se profile déjà pour les jeunes lecteurs",
@@ -57468,5 +57480,40 @@
   {
     "title": "culture:::L’écrivain David Vann quitte les Etats-Unis pour l’Asie du Sud-Est et c’est plutôt décevant",
     "added_at": "2025-12-11T23:46:53.164Z"
+  },
+  {
+    "title": "monde:::En plein tour de vis migratoire, Donald Trump lance la Gold Card, son visa à 1 million de dollars",
+    "added_at": "2025-12-12T03:56:30.047Z"
+  },
+  {
+    "title": "suisse:::Trublion de la République, inventeur du tourisme électoral et de la préférence cantonale: la saga genevoise du MCG",
+    "added_at": "2025-12-12T05:04:25.909Z"
+  },
+  {
+    "title": "suisse:::En graphiques – Vingt ans après sa création, le MCG a trouvé sa place au centre droit de l’échiquier",
+    "added_at": "2025-12-12T05:04:25.909Z"
+  },
+  {
+    "title": "suisse:::Le MCG veut bannir les frontaliers des «postes clés» de l’Etat de Genève",
+    "added_at": "2025-12-12T05:04:25.909Z"
+  },
+  {
+    "title": "monde:::Nicolas Maduro accuse les Etats-Unis de «piraterie» contre le Venezuela",
+    "added_at": "2025-12-12T05:17:34.637Z",
+    "removed_at": "2025-12-12T06:14:13.271Z",
+    "duration_minutes": 56,
+    "duration_str": "56m"
+  },
+  {
+    "title": "cyber:::Reddit tente d'échapper à l’interdiction des réseaux sociaux pour les moins de 16 ans en Australie",
+    "added_at": "2025-12-12T05:32:44.511Z"
+  },
+  {
+    "title": "cyber:::Quinze ans de prison pour Do Kwon, paria des cryptomonnaies à l’origine d’une faillite monumentale",
+    "added_at": "2025-12-12T05:51:33.149Z"
+  },
+  {
+    "title": "monde:::Le destin glaçant de Ryan Wedding, des Jeux olympiques à la liste des barons de la drogue les plus recherchés par le FBI",
+    "added_at": "2025-12-12T06:14:13.271Z"
   }
 ]
