@@ -116,8 +116,9 @@
   {
     "title": "Thai PM says no ceasefire with Cambodia, more attacks, despite Trump claim",
     "added_at": "2025-12-13T11:54:50.236Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-13T19:29:40.286Z",
+    "duration_minutes": 455,
+    "duration_str": "7h 35m"
   },
   {
     "title": "LIVE: Liverpool vs Brighton – Premier League",
@@ -162,9 +163,9 @@
   {
     "title": "Israel launches air attack on Gaza City, threatens southern Lebanon strike",
     "added_at": "2025-12-13T13:44:36.152Z",
-    "removed_at": "2025-12-13T15:45:07.977Z",
-    "duration_minutes": 121,
-    "duration_str": "2h 1m"
+    "removed_at": "2025-12-13T15:44:08.826Z",
+    "duration_minutes": 120,
+    "duration_str": "2h"
   },
   {
     "title": "Joint Syrian-US patrol comes under attack near Palmyra; State media",
@@ -176,9 +177,9 @@
   {
     "title": "Joint Syrian-US patrol comes under attack near Palmyra: State media",
     "added_at": "2025-12-13T14:01:36.338Z",
-    "removed_at": "2025-12-13T17:25:18.958Z",
-    "duration_minutes": 204,
-    "duration_str": "3h 24m"
+    "removed_at": "2025-12-13T17:24:31.826Z",
+    "duration_minutes": 203,
+    "duration_str": "3h 23m"
   },
   {
     "title": "Messi’s tour of India begins with fans throwing bottles, stadium vandalised",
@@ -189,14 +190,16 @@
   {
     "title": "RSF drone strike kills at least three in central Sudan, injures several",
     "added_at": "2025-12-13T14:57:06.697Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-13T18:51:28.357Z",
+    "duration_minutes": 234,
+    "duration_str": "3h 54m"
   },
   {
     "title": "Could Brighton’s visit in the Premier League be Salah’s Liverpool farewell?",
     "added_at": "2025-12-13T15:01:53.526Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-13T20:03:03.643Z",
+    "duration_minutes": 301,
+    "duration_str": "5h 1m"
   },
   {
     "title": "Belarus frees 123 prisoners including Ales Bialiatski as US lifts sanctions",
@@ -213,10 +216,10 @@
   },
   {
     "title": "Israeli attack on Gaza City attempt to ‘sabotage ceasefire’, says Hamas",
-    "added_at": "2025-12-13T15:45:07.977Z",
+    "added_at": "2025-12-13T15:44:08.826Z",
     "removed_at": "2025-12-13T16:13:50.327Z",
-    "duration_minutes": 29,
-    "duration_str": "29m"
+    "duration_minutes": 30,
+    "duration_str": "30m"
   },
   {
     "title": "Israel targets top Hamas leader in Gaza attack; group condemns strike",
@@ -228,59 +231,77 @@
   {
     "title": "Israel kills senior Hamas commander, Raed Saed, in Gaza strike: Reports",
     "added_at": "2025-12-13T16:16:16.037Z",
-    "removed_at": "2025-12-13T16:23:25.670Z",
-    "duration_minutes": 7,
-    "duration_str": "7m"
+    "removed_at": "2025-12-13T16:22:10.088Z",
+    "duration_minutes": 6,
+    "duration_str": "6m"
   },
   {
     "title": "Israel kills senior Hamas commander, Raed Saad, in Gaza strike: Reports",
-    "added_at": "2025-12-13T16:23:25.670Z",
+    "added_at": "2025-12-13T16:22:10.088Z",
     "removed_at": "2025-12-13T16:35:18.700Z",
-    "duration_minutes": 12,
-    "duration_str": "12m"
+    "duration_minutes": 13,
+    "duration_str": "13m"
   },
   {
     "title": "Israel says it killed top Hamas leader in Gaza; group condemns attack",
     "added_at": "2025-12-13T16:25:45.184Z",
-    "removed_at": "2025-12-13T17:15:49.467Z",
-    "duration_minutes": 50,
-    "duration_str": "50m"
+    "removed_at": "2025-12-13T17:15:01.489Z",
+    "duration_minutes": 49,
+    "duration_str": "49m"
   },
   {
     "title": "Israel kills senior Hamas commander, Raed Saad, in Gaza strike",
     "added_at": "2025-12-13T16:35:18.700Z",
-    "removed_at": "2025-12-13T16:47:10.718Z",
-    "duration_minutes": 12,
-    "duration_str": "12m"
+    "removed_at": "2025-12-13T16:46:41.202Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
   },
   {
     "title": "Israeli claims to have killed senior Hamas commander, Raed Saad, in Gaza",
-    "added_at": "2025-12-13T16:47:10.718Z",
-    "removed_at": "2025-12-13T16:56:46.193Z",
+    "added_at": "2025-12-13T16:46:41.202Z",
+    "removed_at": "2025-12-13T16:56:12.151Z",
     "duration_minutes": 10,
     "duration_str": "10m"
   },
   {
     "title": "Israel claims to have killed senior Hamas commander, Raed Saad, in Gaza",
-    "added_at": "2025-12-13T16:56:46.193Z",
+    "added_at": "2025-12-13T16:56:12.151Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Hamas slams Israeli ‘escalation’ in Gaza city attack that killed 5",
-    "added_at": "2025-12-13T17:15:49.467Z",
+    "added_at": "2025-12-13T17:15:01.489Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "ISIL kills two US soldiers, interpreter in Syria’s Palmyra, Pentagon says",
-    "added_at": "2025-12-13T17:25:18.958Z",
+    "added_at": "2025-12-13T17:24:31.826Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "Salah assists Ekitike’s second as Liverpool beat Brighton in EPL",
     "added_at": "2025-12-13T18:08:16.509Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Bangladesh says six peacekeepers killed in attack on UN base in Abyei",
+    "added_at": "2025-12-13T18:51:28.357Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Hungarian protesters demand PM Viktor Orban quits over child abuse scandals",
+    "added_at": "2025-12-13T19:29:40.286Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Real Madrid’s trip to Alaves the latest crunch game for beleaguered coach",
+    "added_at": "2025-12-13T20:03:03.643Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
