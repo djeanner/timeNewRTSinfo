@@ -46165,7 +46165,10 @@
   },
   {
     "title": "Corruption à tous les étages en Ukraine, un scandale qui mène jusqu'à Genève",
-    "added_at": "2025-12-11T18:07:11.385Z"
+    "added_at": "2025-12-11T18:07:11.385Z",
+    "removed_at": "2025-12-14T21:02:54.835Z",
+    "duration_minutes": 4495,
+    "duration_str": "3d 2h 55m"
   },
   {
     "title": "Le gouvernement bulgare démissionne sous la pression de la rue",
@@ -46218,10 +46221,7 @@
   },
   {
     "title": "La SSR diffusera à nouveau ses programmes radio en FM",
-    "added_at": "2025-12-11T21:20:33.759Z",
-    "removed_at": "2025-12-14T19:03:23.224Z",
-    "duration_minutes": 4182,
-    "duration_str": "2d 21h 42m"
+    "added_at": "2025-12-11T21:20:33.759Z"
   },
   {
     "title": "L'administration fédérale a annoncé par erreur l'entrée en vigueur de la baisse des droits de douane avec les Etats-Unis",
@@ -46535,7 +46535,10 @@
   },
   {
     "title": "Un accord pour une nouvelle convention collective nationale dans le bâtiment",
-    "added_at": "2025-12-12T17:05:33.972Z"
+    "added_at": "2025-12-12T17:05:33.972Z",
+    "removed_at": "2025-12-14T20:58:08.694Z",
+    "duration_minutes": 3112,
+    "duration_str": "2d 3h 52m"
   },
   {
     "title": "Le producteur de cinéma bâlois multi-oscarisé Arthur Cohn est décédé",
@@ -46589,15 +46592,24 @@
   },
   {
     "title": "Quand orques et dauphins chassent ensemble: une coopération inattendue au large du Canada",
-    "added_at": "2025-12-12T20:07:29.796Z"
+    "added_at": "2025-12-12T20:07:29.796Z",
+    "removed_at": "2025-12-14T22:00:10.023Z",
+    "duration_minutes": 2992,
+    "duration_str": "2d 1h 52m"
   },
   {
     "title": "La Suisse rétablit des sanctions contre l'Iran",
-    "added_at": "2025-12-12T20:53:01.265Z"
+    "added_at": "2025-12-12T20:53:01.265Z",
+    "removed_at": "2025-12-14T21:24:23.077Z",
+    "duration_minutes": 2911,
+    "duration_str": "2d 31m"
   },
   {
     "title": "Concession du gouvernement vaudois sur le budget, la réaction des syndicats: interview de David Gygax",
-    "added_at": "2025-12-12T21:23:57.845Z"
+    "added_at": "2025-12-12T21:23:57.845Z",
+    "removed_at": "2025-12-14T21:02:54.835Z",
+    "duration_minutes": 2858,
+    "duration_str": "1d 23h 38m"
   },
   {
     "title": "Publication de nouvelles photos provenant des archives d’Epstein avec Donald Trump et Bill Clinton",
@@ -46859,7 +46871,10 @@
   },
   {
     "title": "Rétropédalage du Conseil d'Etat vaudois: l'analyse de Yoan Rithner",
-    "added_at": "2025-12-14T07:04:09.004Z"
+    "added_at": "2025-12-14T07:04:09.004Z",
+    "removed_at": "2025-12-14T23:02:10.734Z",
+    "duration_minutes": 958,
+    "duration_str": "15h 58m"
   },
   {
     "title": "Nathan Ambrosioni signe \"Les enfants vont bien\", un drame familial empli de tendresse",
@@ -47057,9 +47072,9 @@
   {
     "title": "Roger Nordmann désigné candidat au Conseil d’Etat par le Parti socialiste vaudois",
     "added_at": "2025-12-14T18:00:59.451Z",
-    "removed_at": "2025-12-14T20:22:08.580Z",
-    "duration_minutes": 141,
-    "duration_str": "2h 21m"
+    "removed_at": "2025-12-14T23:21:15.529Z",
+    "duration_minutes": 320,
+    "duration_str": "5h 20m"
   },
   {
     "title": "Le ver marin à la rescousse des grands brûlés",
@@ -47071,10 +47086,40 @@
   },
   {
     "title": "Au moins seize personnes tuées et une quarantaine blessées à Sydney dans une attaque visant la communauté juive",
-    "added_at": "2025-12-14T20:41:15.372Z"
+    "added_at": "2025-12-14T20:41:15.372Z",
+    "removed_at": "2025-12-14T21:00:34.606Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
   },
   {
     "title": "Marche blanche à Bulle en hommage aux quatre jeunes morts dans un accident de la route en France",
     "added_at": "2025-12-14T20:48:25.404Z"
+  },
+  {
+    "title": "Bosnie-Herzégovine: 30 ans après la guerre, une paix fragile",
+    "added_at": "2025-12-14T20:58:08.694Z"
+  },
+  {
+    "title": "Au moins seize personnes tuées et une quarantaine blessées dans une attaque Sydney, un père et son fils impliqué",
+    "added_at": "2025-12-14T20:58:08.694Z",
+    "removed_at": "2025-12-14T21:07:45.104Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Au moins seize personnes tuées dans une attaque visant la communauté juive à Sydney, un père et son fils impliqués",
+    "added_at": "2025-12-14T21:05:19.081Z"
+  },
+  {
+    "title": "Jean-Marc Richard: \"Les gens disaient que j'étais un singe hurleur qui devait aller dans un asile\"",
+    "added_at": "2025-12-14T21:24:23.077Z"
+  },
+  {
+    "title": "L'Eglise et les soutiens des victimes s'unissent pour une marche à Fully contre les abus sexuels",
+    "added_at": "2025-12-14T22:00:10.023Z"
+  },
+  {
+    "title": "La ville de Zurich présente son projet d’une gigantesque couronne de l’Avent qui remplacera le Village de Noël",
+    "added_at": "2025-12-14T23:21:15.529Z"
   }
 ]
