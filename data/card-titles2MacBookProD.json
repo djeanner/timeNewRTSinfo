@@ -54398,11 +54398,17 @@
   },
   {
     "title": "sport:::Emma Aicher, force tranquille et polyvalente du Cirque blanc",
-    "added_at": "2025-12-13T16:49:35.997Z"
+    "added_at": "2025-12-13T16:49:35.997Z",
+    "removed_at": "2025-12-14T06:26:00.148Z",
+    "duration_minutes": 816,
+    "duration_str": "13h 36m"
   },
   {
     "title": "culture:::«Mal de fer», de Silvia Ricci Lempen: corps-à-corps avec la douleur",
-    "added_at": "2025-12-13T16:56:45.596Z"
+    "added_at": "2025-12-13T16:56:45.596Z",
+    "removed_at": "2025-12-14T06:18:51.328Z",
+    "duration_minutes": 802,
+    "duration_str": "13h 22m"
   },
   {
     "title": "sciences:::Le retour de la rougeole aux Etats-Unis ne peut être pris à la légère",
@@ -54425,17 +54431,25 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Kiev accuse Moscou d’avoir frappé un nouveau cargo turc en mer Noire",
-    "added_at": "2025-12-13T20:55:39.856Z",
-    "removed_at": "2025-12-13T21:07:40.238Z",
-    "duration_minutes": 12,
-    "duration_str": "12m"
+    "added_at": "2025-12-13T20:55:39.856Z"
   },
   {
     "title": "monde:::Guerre en Ukraine − Kiev accuse Moscou d’avoir frappé un nouveau cargo turc en mer Noire",
-    "added_at": "2025-12-13T21:07:40.238Z"
+    "added_at": "2025-12-13T21:07:40.238Z",
+    "removed_at": "2025-12-14T06:57:00.328Z",
+    "duration_minutes": 589,
+    "duration_str": "9h 49m"
   },
   {
     "title": "monde:::Moyen-Orient – Trois Américains, dont un civil, tués dans une attaque de l’Etat islamique en Syrie",
     "added_at": "2025-12-13T21:07:40.238Z"
+  },
+  {
+    "title": "monde:::Aux Etats-Unis, une fusillade fait deux morts et neuf blessés sur le campus de l’université Brown",
+    "added_at": "2025-12-14T06:18:51.328Z"
+  },
+  {
+    "title": "monde:::A Santiago, les Chiliens entre peur et espoir face au retour de l’extrême droite héritière de la dictature",
+    "added_at": "2025-12-14T06:26:00.148Z"
   }
 ]
