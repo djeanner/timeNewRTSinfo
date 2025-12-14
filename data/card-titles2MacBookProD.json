@@ -53517,7 +53517,10 @@
   },
   {
     "title": "suisse:::A Genève, le chauffard qui avait semé la terreur au marché de Rive n’est pas punissable",
-    "added_at": "2025-12-10T17:25:30.857Z"
+    "added_at": "2025-12-10T17:25:30.857Z",
+    "removed_at": "2025-12-14T09:17:43.262Z",
+    "duration_minutes": 5272,
+    "duration_str": "3d 15h 52m"
   },
   {
     "title": "suisse:::La droite du Grand Conseil vaudois maintient les coupes dans la santé mais les réduit de moitié pour les EMS",
@@ -54361,7 +54364,10 @@
   },
   {
     "title": "monde:::Spaghetti, mozzarella et pizza, ces plats «made in Italy» qui nourrissent le nationalisme de Giorgia Meloni",
-    "added_at": "2025-12-13T12:40:52.765Z"
+    "added_at": "2025-12-13T12:40:52.765Z",
+    "removed_at": "2025-12-14T09:41:34.750Z",
+    "duration_minutes": 1260,
+    "duration_str": "21h"
   },
   {
     "title": "monde:::La Biélorussie a libéré le Nobel de la paix Ales Bialiatski et l’opposante Maria Kolesnikova",
@@ -54380,7 +54386,10 @@
   },
   {
     "title": "culture:::Laurent Mauvignier: «Je suis devenu écrivain pour pouvoir écrire un jour «La Maison vide»",
-    "added_at": "2025-12-13T14:52:16.395Z"
+    "added_at": "2025-12-13T14:52:16.395Z",
+    "removed_at": "2025-12-14T10:00:39.877Z",
+    "duration_minutes": 1148,
+    "duration_str": "19h 8m"
   },
   {
     "title": "sport:::Emma Aicher, force tranquille et polyvalente du cirque blanc",
@@ -54416,7 +54425,10 @@
   },
   {
     "title": "cyber:::Six questions pour comprendre la décision du Conseil fédéral de renoncer à taxer les services numériques",
-    "added_at": "2025-12-13T18:56:17.902Z"
+    "added_at": "2025-12-13T18:56:17.902Z",
+    "removed_at": "2025-12-14T09:48:43.578Z",
+    "duration_minutes": 892,
+    "duration_str": "14h 52m"
   },
   {
     "title": "sciences:::Funérailles de fourmis et chant du cygne: la troublante réalité des animaux qui comprennent la mort",
@@ -54425,9 +54437,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Trois Américains, dont un civil, tués dans une attaque de l’Etat islamique en Syrie",
     "added_at": "2025-12-13T20:33:59.123Z",
-    "removed_at": "2025-12-13T21:07:40.238Z",
-    "duration_minutes": 33,
-    "duration_str": "33m"
+    "removed_at": "2025-12-14T09:44:00.555Z",
+    "duration_minutes": 790,
+    "duration_str": "13h 10m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Kiev accuse Moscou d’avoir frappé un nouveau cargo turc en mer Noire",
@@ -54442,14 +54454,36 @@
   },
   {
     "title": "monde:::Moyen-Orient – Trois Américains, dont un civil, tués dans une attaque de l’Etat islamique en Syrie",
-    "added_at": "2025-12-13T21:07:40.238Z"
+    "added_at": "2025-12-13T21:07:40.238Z",
+    "removed_at": "2025-12-14T08:11:02.661Z",
+    "duration_minutes": 663,
+    "duration_str": "11h 3m"
   },
   {
     "title": "monde:::Aux Etats-Unis, une fusillade fait deux morts et neuf blessés sur le campus de l’université Brown",
-    "added_at": "2025-12-14T06:18:51.328Z"
+    "added_at": "2025-12-14T06:18:51.328Z",
+    "removed_at": "2025-12-14T09:58:19.708Z",
+    "duration_minutes": 219,
+    "duration_str": "3h 39m"
   },
   {
     "title": "monde:::A Santiago, les Chiliens entre peur et espoir face au retour de l’extrême droite héritière de la dictature",
     "added_at": "2025-12-14T06:26:00.148Z"
+  },
+  {
+    "title": "suisse:::Payer l’essence 4 centimes plus chère pour désengorger les autoroutes, l’idée fait son chemin au parlement",
+    "added_at": "2025-12-14T09:41:34.750Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le Hamas confirme la mort d’un haut responsable à Gaza, présenté comme l'un des «architectes» du 7-Octobre par Israël",
+    "added_at": "2025-12-14T09:44:00.555Z"
+  },
+  {
+    "title": "monde:::En Australie, deux «tireurs vêtus de noir» sèment la mort sur la célèbre plage de Bondi à Sydney",
+    "added_at": "2025-12-14T09:58:19.708Z"
+  },
+  {
+    "title": "culture:::Au Jeu de Paume avant Photo Elysée: Luc Delahaye, une question de distance",
+    "added_at": "2025-12-14T10:00:39.877Z"
   }
 ]
