@@ -54229,7 +54229,10 @@
   },
   {
     "title": "suisse:::Le Conseil d’Etat vaudois fait marche arrière sur la contribution de crise de 0,7% et crispe la droite",
-    "added_at": "2025-12-12T19:14:36.332Z"
+    "added_at": "2025-12-12T19:14:36.332Z",
+    "removed_at": "2025-12-14T19:31:59.231Z",
+    "duration_minutes": 2897,
+    "duration_str": "2d 17m"
   },
   {
     "title": "monde:::Décryptage – L’Ukraine est-elle prête à renoncer à sa «forteresse du Donbass» en échange de la paix avec Moscou?",
@@ -54593,11 +54596,17 @@
   },
   {
     "title": "economie:::Une année record se dessine en Suisse pour les fusions et acquisitions, malgré tout",
-    "added_at": "2025-12-14T13:59:43.475Z"
+    "added_at": "2025-12-14T13:59:43.475Z",
+    "removed_at": "2025-12-14T20:05:25.577Z",
+    "duration_minutes": 365,
+    "duration_str": "6h 5m"
   },
   {
     "title": "monde:::En direct, attentat en Australie – «Le mal s’est déchaîné»: une attaque antisémite a fait au moins 12 morts sur la plage de Bondi",
-    "added_at": "2025-12-14T14:04:29.373Z"
+    "added_at": "2025-12-14T14:04:29.373Z",
+    "removed_at": "2025-12-14T20:05:25.577Z",
+    "duration_minutes": 360,
+    "duration_str": "6h"
   },
   {
     "title": "culture:::Marc Donnet-Monay, la tête et le cœur",
@@ -54634,7 +54643,10 @@
   },
   {
     "title": "sport:::A Saint-Moritz, une équipe de Suisse décimée, en perte de vitesse",
-    "added_at": "2025-12-14T17:03:44.938Z"
+    "added_at": "2025-12-14T17:03:44.938Z",
+    "removed_at": "2025-12-14T18:10:44.117Z",
+    "duration_minutes": 66,
+    "duration_str": "1h 6m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Volodymyr Zelensky a démarré les pourparlers avec les émissaires américains à Berlin",
@@ -54643,5 +54655,21 @@
   {
     "title": "monde:::Hongkong: le verdict de Jimmy Lai scelle la fin du mouvement pro-démocratie",
     "added_at": "2025-12-14T17:56:13.176Z"
+  },
+  {
+    "title": "sport:::Les Suissesses sont championnes du monde d’unihockey",
+    "added_at": "2025-12-14T18:10:44.117Z"
+  },
+  {
+    "title": "monde:::L’attentat sur la plage de Bondi, à Sydney, est le sommet d’une vague d’antisémitisme en Australie",
+    "added_at": "2025-12-14T20:05:25.577Z"
+  },
+  {
+    "title": "monde:::En direct, attentat en Australie – Le bilan de l'attaque antisémite à Sydney s'alourdit à 16 morts",
+    "added_at": "2025-12-14T20:05:25.577Z"
+  },
+  {
+    "title": "sport:::Au Grand Prix de Genève, une fusée nommée Greya et une surprise avec le cavalier suisse Jason Smith",
+    "added_at": "2025-12-14T20:19:44.431Z"
   }
 ]
