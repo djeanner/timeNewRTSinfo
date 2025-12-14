@@ -136,8 +136,9 @@
   {
     "title": "Russian attacks cut power for thousands in Ukraine as peace talks press on",
     "added_at": "2025-12-13T12:43:17.448Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-14T01:22:55.301Z",
+    "duration_minutes": 760,
+    "duration_str": "12h 40m"
   },
   {
     "title": "Israeli army threatens southern Lebanon residents with imminent attack",
@@ -293,9 +294,9 @@
   {
     "title": "Bangladesh says six peacekeepers killed in attack on UN base in Abyei",
     "added_at": "2025-12-13T18:51:28.357Z",
-    "removed_at": "2025-12-13T21:41:00.535Z",
-    "duration_minutes": 170,
-    "duration_str": "2h 50m"
+    "removed_at": "2025-12-13T21:40:08.455Z",
+    "duration_minutes": 169,
+    "duration_str": "2h 49m"
   },
   {
     "title": "Hungarian protesters demand PM Viktor Orban quits over child abuse scandals",
@@ -311,7 +312,7 @@
   },
   {
     "title": "UN chief condemns ‘horrific’ drone attack in Sudan as 6 peacekeepers killed",
-    "added_at": "2025-12-13T21:41:00.535Z",
+    "added_at": "2025-12-13T21:40:08.455Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
@@ -324,6 +325,13 @@
   {
     "title": "Brown University in US reports ‘active shooter’ situation on campus",
     "added_at": "2025-12-13T23:09:11.637Z",
+    "removed_at": "2025-12-13T23:45:12.680Z",
+    "duration_minutes": 36,
+    "duration_str": "36m"
+  },
+  {
+    "title": "Brown University reports two dead, eight injured in US school shooting",
+    "added_at": "2025-12-13T23:45:12.680Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
