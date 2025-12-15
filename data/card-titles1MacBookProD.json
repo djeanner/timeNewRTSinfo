@@ -46221,7 +46221,10 @@
   },
   {
     "title": "La SSR diffusera à nouveau ses programmes radio en FM",
-    "added_at": "2025-12-11T21:20:33.759Z"
+    "added_at": "2025-12-11T21:20:33.759Z",
+    "removed_at": "2025-12-15T10:20:56.495Z",
+    "duration_minutes": 5100,
+    "duration_str": "3d 13h"
   },
   {
     "title": "L'administration fédérale a annoncé par erreur l'entrée en vigueur de la baisse des droits de douane avec les Etats-Unis",
@@ -46650,7 +46653,10 @@
   },
   {
     "title": "\"Lingots d'or et montres de luxe, ce n'est pas l'aspect qu'on veut projeter sur la scène internationale\"",
-    "added_at": "2025-12-13T06:40:24.683Z"
+    "added_at": "2025-12-13T06:40:24.683Z",
+    "removed_at": "2025-12-15T11:32:54.843Z",
+    "duration_minutes": 3172,
+    "duration_str": "2d 4h 52m"
   },
   {
     "title": "Le Cambodge accuse la Thaïlande de nouveaux bombardements",
@@ -46701,7 +46707,10 @@
   },
   {
     "title": "Saumon d'élevage, l'envers du décor d'une industrie florissante",
-    "added_at": "2025-12-13T09:05:59.755Z"
+    "added_at": "2025-12-13T09:05:59.755Z",
+    "removed_at": "2025-12-15T12:04:02.466Z",
+    "duration_minutes": 3058,
+    "duration_str": "2d 2h 58m"
   },
   {
     "title": "Podcast - Détournement d'avion meurtrier à Cointrin",
@@ -46748,11 +46757,17 @@
   },
   {
     "title": "Aicher s'impose devant Vonn, les Suissesses hors du top-10",
-    "added_at": "2025-12-13T11:07:50.286Z"
+    "added_at": "2025-12-13T11:07:50.286Z",
+    "removed_at": "2025-12-15T11:04:06.593Z",
+    "duration_minutes": 2876,
+    "duration_str": "1d 23h 56m"
   },
   {
     "title": "L'envolée du prix de vente d'objets préhistoriques aux enchères inquiète les scientifiques",
-    "added_at": "2025-12-13T11:36:30.702Z"
+    "added_at": "2025-12-13T11:36:30.702Z",
+    "removed_at": "2025-12-15T11:35:19.157Z",
+    "duration_minutes": 2878,
+    "duration_str": "1d 23h 58m"
   },
   {
     "title": "Les hostilités entre la Thaïlande et le Cambodge se poursuivent",
@@ -46786,7 +46801,10 @@
   },
   {
     "title": "Les inondations en Indonésie ont fait plus d'un millier de morts",
-    "added_at": "2025-12-13T13:47:51.977Z"
+    "added_at": "2025-12-13T13:47:51.977Z",
+    "removed_at": "2025-12-15T10:56:46.871Z",
+    "duration_minutes": 2708,
+    "duration_str": "1d 21h 8m"
   },
   {
     "title": "Une pluie d'étoiles filantes attendue la nuit prochaine",
@@ -47226,5 +47244,50 @@
   {
     "title": "Est-il vraiment plus profitable de s'endormir avant minuit?",
     "added_at": "2025-12-15T10:06:26.296Z"
+  },
+  {
+    "title": "Attaque à Sydney: duplex de notre correspondant sur place",
+    "added_at": "2025-12-15T10:20:56.495Z",
+    "removed_at": "2025-12-15T11:23:24.405Z",
+    "duration_minutes": 62,
+    "duration_str": "1h 2m"
+  },
+  {
+    "title": "Avec \"Lady Nazca\", Damien Dorsaz retrace les lignes de vie de l'archéologue Maria Reiche",
+    "added_at": "2025-12-15T10:56:46.871Z"
+  },
+  {
+    "title": "Guy Parmelin: \"On parle toujours du paysan de Bursins. Parfois j’ai l’impression qu’il y a un peu de mépris\"",
+    "added_at": "2025-12-15T11:04:06.593Z",
+    "removed_at": "2025-12-15T12:15:54.777Z",
+    "duration_minutes": 71,
+    "duration_str": "1h 11m"
+  },
+  {
+    "title": "Les heures de sommeil avant minuit sont-elles plus réparatrices. Réponse",
+    "added_at": "2025-12-15T11:23:24.405Z"
+  },
+  {
+    "title": "Poursuite ou fin de la grève dans la fonction publique, le flou règne dans le canton de Vaud",
+    "added_at": "2025-12-15T11:32:54.843Z"
+  },
+  {
+    "title": "Le Louvre fermé en raison d'une grève reconductible de son personnel",
+    "added_at": "2025-12-15T11:35:19.157Z"
+  },
+  {
+    "title": "\"Si la SSR est réduite de moitié, le sport y perdra\": les milieux sportifs vent debout contre l'initiative SSR",
+    "added_at": "2025-12-15T12:04:02.466Z",
+    "removed_at": "2025-12-15T12:08:46.470Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "\"Si la SSR est réduite, le sport y perdra\": les milieux sportifs vent debout contre l'initiative SSR",
+    "added_at": "2025-12-15T12:08:46.470Z"
+  },
+  {
+    "title": "Guy Parmelin: \"On parle toujours du paysan de Bursins. J'ai parfois l'impression qu'il y a un peu de mépris\"",
+    "added_at": "2025-12-15T12:15:54.777Z"
   }
 ]
