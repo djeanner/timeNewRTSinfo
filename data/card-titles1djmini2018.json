@@ -75660,7 +75660,10 @@
   },
   {
     "title": "300 personnes ont manifesté jeudi soir devant l’Hôtel de police de Lausanne",
-    "added_at": "2025-12-13T07:03:25.952Z"
+    "added_at": "2025-12-13T07:03:25.952Z",
+    "removed_at": "2025-12-15T22:04:08.948Z",
+    "duration_minutes": 3780,
+    "duration_str": "2d 15h"
   },
   {
     "title": "La prostitution de mineures en hausse, le score historique de Guy Parmelin et Zurich à la pointe de l'IA",
@@ -75894,7 +75897,10 @@
   },
   {
     "title": "Dernier coup de sifflet pour la ligne de train historique Orbe - Chavornay",
-    "added_at": "2025-12-13T20:32:01.887Z"
+    "added_at": "2025-12-13T20:32:01.887Z",
+    "removed_at": "2025-12-15T22:45:44.896Z",
+    "duration_minutes": 3013,
+    "duration_str": "2d 2h 13m"
   },
   {
     "title": "Donald Trump signe un décret pour centraliser la régulation de l'IA",
@@ -75916,7 +75922,10 @@
   },
   {
     "title": "En difficulté financière, la société de stockage américaine Oracle inquiète l’industrie de l’IA",
-    "added_at": "2025-12-13T22:23:32.145Z"
+    "added_at": "2025-12-13T22:23:32.145Z",
+    "removed_at": "2025-12-15T23:04:34.555Z",
+    "duration_minutes": 2921,
+    "duration_str": "2d 41m"
   },
   {
     "title": "Plusieurs blessés dans une fusillade sur le campus de l'université de Brown aux Etats-Unis",
@@ -76215,10 +76224,7 @@
   },
   {
     "title": "La ville de Zurich présente son projet d’une gigantesque couronne de l’Avent qui remplacera le Village de Noël",
-    "added_at": "2025-12-14T23:21:39.840Z",
-    "removed_at": "2025-12-15T21:24:15.007Z",
-    "duration_minutes": 1322,
-    "duration_str": "22h 2m"
+    "added_at": "2025-12-14T23:21:39.840Z"
   },
   {
     "title": "L'extrême droite revient à la présidence du Chili, 35 ans après la fin de la dictature Pinochet",
@@ -76294,10 +76300,7 @@
   },
   {
     "title": "Attaque à Sydney: duplex de notre correspondant sur place",
-    "added_at": "2025-12-15T10:21:40.935Z",
-    "removed_at": "2025-12-15T14:22:08.556Z",
-    "duration_minutes": 240,
-    "duration_str": "4h"
+    "added_at": "2025-12-15T10:21:40.935Z"
   },
   {
     "title": "Avec \"Lady Nazca\", Damien Dorsaz retrace les lignes de vie de l'archéologue Maria Reiche",
@@ -76500,5 +76503,9 @@
   {
     "title": "Nouvelle manifestation de la fonction publique vaudoise malgré la confusion sur la grève",
     "added_at": "2025-12-15T21:29:54.648Z"
+  },
+  {
+    "title": "Deux enfants tués dans une forte explosion domestique dans le département français de l'Ain",
+    "added_at": "2025-12-15T22:45:44.896Z"
   }
 ]
