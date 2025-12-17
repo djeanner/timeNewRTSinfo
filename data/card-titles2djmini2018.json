@@ -58665,7 +58665,10 @@
   },
   {
     "title": "economie:::L’horlogerie montre ses deux visages: pertes de jobs dans la production et montée des cols blancs",
-    "added_at": "2025-12-16T15:39:21.739Z"
+    "added_at": "2025-12-16T15:39:21.739Z",
+    "removed_at": "2025-12-17T11:19:50.897Z",
+    "duration_minutes": 1180,
+    "duration_str": "19h 40m"
   },
   {
     "title": "suisse:::Le National offre une deuxième chance, très encadrée, aux personnes surendettées",
@@ -58691,9 +58694,9 @@
   {
     "title": "suisse:::Après la mort du Salon de l’auto, Genève investit 12 millions de francs à Palexpo pour attirer des congrès",
     "added_at": "2025-12-16T16:58:57.330Z",
-    "removed_at": "2025-12-17T09:09:20.790Z",
-    "duration_minutes": 970,
-    "duration_str": "16h 10m"
+    "removed_at": "2025-12-17T10:55:17.743Z",
+    "duration_minutes": 1076,
+    "duration_str": "17h 56m"
   },
   {
     "title": "suisse:::Le National offre une seconde chance, très encadrée, aux personnes surendettées",
@@ -58718,7 +58721,10 @@
   },
   {
     "title": "cyber:::Face à la voracité énergétique des centres de données, l’EPFL dessine une solution. Mais absolument personne n’a encore de baguette magique",
-    "added_at": "2025-12-16T18:06:59.090Z"
+    "added_at": "2025-12-16T18:06:59.090Z",
+    "removed_at": "2025-12-17T09:35:57.149Z",
+    "duration_minutes": 928,
+    "duration_str": "15h 28m"
   },
   {
     "title": "suisse:::Une solution à 65 millions pour régler le transfert de Moutier",
@@ -58759,10 +58765,7 @@
   },
   {
     "title": "monde:::Donald Trump interdit l’entrée aux Etats-Unis aux ressortissants de sept nouveaux pays et aux Palestiniens",
-    "added_at": "2025-12-16T22:22:43.872Z",
-    "removed_at": "2025-12-17T04:39:08.744Z",
-    "duration_minutes": 376,
-    "duration_str": "6h 16m"
+    "added_at": "2025-12-16T22:22:43.872Z"
   },
   {
     "title": "monde:::Un «consommateur de kétamine», un «complotiste», un «fanatique de droite»: quand l’influente cheffe de cabinet de Donald Trump dépeint son entourage",
@@ -58815,10 +58818,29 @@
   },
   {
     "title": "sciences:::A quelques semaines des JO, de nombreuses empreintes de dinosaures ont été découvertes dans les Alpes",
-    "added_at": "2025-12-17T08:27:46.813Z"
+    "added_at": "2025-12-17T08:27:46.813Z",
+    "removed_at": "2025-12-17T09:18:57.712Z",
+    "duration_minutes": 51,
+    "duration_str": "51m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Les jours à venir seront «cruciaux» pour le financement de l’Ukraine en guerre, selon Ursula von der Leyen",
     "added_at": "2025-12-17T09:09:20.790Z"
+  },
+  {
+    "title": "culture:::«L’Ame idéale», brève rencontre entre deux mondes",
+    "added_at": "2025-12-17T09:15:11.683Z"
+  },
+  {
+    "title": "monde:::Donald Trump impose un blocus maritime contre les pétroliers du Venezuela, semblant viser la chute de Nicolas Maduro",
+    "added_at": "2025-12-17T09:18:57.712Z"
+  },
+  {
+    "title": "suisse:::Le Centre Vaud soutien la candidature de l’UDC Jean-François Thuillard au Conseil d'Etat",
+    "added_at": "2025-12-17T10:55:17.743Z"
+  },
+  {
+    "title": "sport:::Avant Lausanne-Sport-Fiorentina, Giancarlo Antognoni se souvient: «Un club de supporters du LS a même été fondé à Florence!»",
+    "added_at": "2025-12-17T11:21:46.784Z"
   }
 ]
