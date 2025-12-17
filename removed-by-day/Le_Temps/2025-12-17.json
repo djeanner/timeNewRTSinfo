@@ -62,8 +62,9 @@
   {
     "title": "sport:::Pour Felix Oberle, tous les chemins mènent au grand large",
     "added_at": "2025-12-17T08:18:20.940Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-17T16:26:13.735Z",
+    "duration_minutes": 488,
+    "duration_str": "8h 8m"
   },
   {
     "title": "sciences:::A quelques semaines des JO, de nombreuses empreintes de dinosaures ont été découvertes dans les Alpes",
@@ -81,46 +82,49 @@
   {
     "title": "culture:::«L’Ame idéale», brève rencontre entre deux mondes",
     "added_at": "2025-12-17T09:15:11.683Z",
-    "removed_at": "2025-12-17T11:40:45.468Z",
-    "duration_minutes": 146,
-    "duration_str": "2h 26m"
+    "removed_at": "2025-12-17T11:38:57.894Z",
+    "duration_minutes": 144,
+    "duration_str": "2h 24m"
   },
   {
     "title": "monde:::Donald Trump impose un blocus maritime contre les pétroliers du Venezuela, semblant viser la chute de Nicolas Maduro",
     "added_at": "2025-12-17T09:18:57.712Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-17T17:18:55.976Z",
+    "duration_minutes": 480,
+    "duration_str": "8h"
   },
   {
     "title": "suisse:::Le Centre Vaud soutien la candidature de l’UDC Jean-François Thuillard au Conseil d'Etat",
     "added_at": "2025-12-17T10:55:11.623Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-17T15:52:41.873Z",
+    "duration_minutes": 298,
+    "duration_str": "4h 58m"
   },
   {
     "title": "sport:::Avant Lausanne-Sport-Fiorentina, Giancarlo Antognoni se souvient: «Un club de supporters du LS a même été fondé à Florence!»",
     "added_at": "2025-12-17T11:21:31.813Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-17T16:47:48.984Z",
+    "duration_minutes": 326,
+    "duration_str": "5h 26m"
   },
   {
     "title": "culture:::«L’Intermédiaire», quand la technologie tue la poésie dans une vaine tentative de thriller paranoïaque",
-    "added_at": "2025-12-17T11:40:45.468Z",
+    "added_at": "2025-12-17T11:38:57.894Z",
     "removed_at": "2025-12-17T14:11:48.494Z",
-    "duration_minutes": 151,
-    "duration_str": "2h 31m"
+    "duration_minutes": 153,
+    "duration_str": "2h 33m"
   },
   {
     "title": "cyber:::A la fin du film, Warner pourrait bien tomber dans les bras de Netflix",
-    "added_at": "2025-12-17T12:28:39.109Z",
-    "removed_at": "2025-12-17T13:47:53.533Z",
+    "added_at": "2025-12-17T12:28:01.992Z",
+    "removed_at": "2025-12-17T13:47:23.770Z",
     "duration_minutes": 79,
     "duration_str": "1h 19m"
   },
   {
     "title": "suisse:::Le gouvernement genevois décide de publier les résultats du scrutin de Vernier après «une pesée d’intérêts»",
     "added_at": "2025-12-17T13:35:51.581Z",
-    "removed_at": "2025-12-17T13:55:05.293Z",
+    "removed_at": "2025-12-17T13:55:00.651Z",
     "duration_minutes": 19,
     "duration_str": "19m"
   },
@@ -138,19 +142,57 @@
   },
   {
     "title": "sport:::Après 7 ans, Carlos Alcaraz se sépare de son entraîneur et mentor Juan Carlos Ferrero",
-    "added_at": "2025-12-17T13:52:38.741Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "added_at": "2025-12-17T13:51:10.376Z",
+    "removed_at": "2025-12-17T15:47:50.654Z",
+    "duration_minutes": 117,
+    "duration_str": "1h 57m"
   },
   {
     "title": "suisse:::Election à Vernier: malgré de nouvelles fraudes, Genève  choisit de publier les résultats du scrutin",
-    "added_at": "2025-12-17T13:55:05.293Z",
+    "added_at": "2025-12-17T13:55:00.651Z",
     "duration_minutes": 0,
     "duration_str": ""
   },
   {
     "title": "sciences:::«C’est très dur d’avoir des choses à dire et de ne pas arriver à les partager»: l’aphasie, un trouble de la communication souvent incompris",
     "added_at": "2025-12-17T14:11:48.494Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "economie:::Le National s’inquiète pour l’économie suisse après l’accord concernant les droits de douane avec les Etats-Unis",
+    "added_at": "2025-12-17T15:47:50.654Z",
+    "removed_at": "2025-12-17T16:52:33.969Z",
+    "duration_minutes": 65,
+    "duration_str": "1h 5m"
+  },
+  {
+    "title": "monde:::Massacre antisémite en Australie: le rôle des Philippines, «académie du terrorisme» de l’Etat islamique en Asie",
+    "added_at": "2025-12-17T16:26:13.735Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "monde:::L'Australie commence à enterrer les victimes du massacre de la plage de Sydney",
+    "added_at": "2025-12-17T16:26:13.735Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "culture:::«En première ligne» de Petra Volpe sélectionné pour les Oscars",
+    "added_at": "2025-12-17T16:47:48.984Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::Au parlement, Genève et les cantons frontaliers contestent la vision du rapport Weidmann",
+    "added_at": "2025-12-17T16:52:33.969Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "suisse:::A Genève, une soirée arrosée vire au cauchemar absolu pour une touriste américaine",
+    "added_at": "2025-12-17T17:18:55.976Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
