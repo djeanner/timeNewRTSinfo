@@ -55723,7 +55723,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Pour la première fois, la justice militaire helvétique condamne un Suisse accusé d'avoir combattu contre la Russie",
-    "added_at": "2025-12-18T17:04:25.701Z"
+    "added_at": "2025-12-18T17:04:25.701Z",
+    "removed_at": "2025-12-19T01:28:49.817Z",
+    "duration_minutes": 504,
+    "duration_str": "8h 24m"
   },
   {
     "title": "suisse:::Lourde peine pour le viol d’une touriste américaine de passage à Genève",
@@ -55750,7 +55753,10 @@
   },
   {
     "title": "cyber:::Swisscom et La Poste sont autorisées à délocaliser librement des emplois en Lettonie et au Portugal",
-    "added_at": "2025-12-18T18:21:15.285Z"
+    "added_at": "2025-12-18T18:21:15.285Z",
+    "removed_at": "2025-12-19T01:26:23.124Z",
+    "duration_minutes": 425,
+    "duration_str": "7h 5m"
   },
   {
     "title": "suisse:::«Mister Nice Guy» Parmelin, un président fêté en toute simplicité et avec une bonne dose d’autodérision",
@@ -55762,7 +55768,10 @@
   },
   {
     "title": "economie:::Entre la Suisse et les Etats-Unis, un accord douanier négocié au 31 mars 2026, mais…",
-    "added_at": "2025-12-18T19:33:24.799Z"
+    "added_at": "2025-12-18T19:33:24.799Z",
+    "removed_at": "2025-12-19T01:31:10.323Z",
+    "duration_minutes": 357,
+    "duration_str": "5h 57m"
   },
   {
     "title": "suisse:::Coupes dans la coopération internationale: «La Suisse a une marge de manœuvre. Mais elle ne veut pas l’utiliser»",
@@ -55803,5 +55812,16 @@
   {
     "title": "sport:::Lausanne-Sport toujours européen après avoir battu la Fiorentina",
     "added_at": "2025-12-18T23:19:06.543Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Les Européens échouent à trouver un accord sur les avoirs russes",
+    "added_at": "2025-12-19T01:28:49.817Z",
+    "removed_at": "2025-12-19T01:31:10.323Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Les Européens échouent à trouver un accord sur les avoirs russes gelés",
+    "added_at": "2025-12-19T01:31:10.323Z"
   }
 ]
