@@ -59284,7 +59284,10 @@
   },
   {
     "title": "economie:::En graphiques – Après deux ans de baisse, léger rebond des ventes de voitures électriques",
-    "added_at": "2025-12-18T17:59:46.399Z"
+    "added_at": "2025-12-18T17:59:46.399Z",
+    "removed_at": "2025-12-19T03:21:26.208Z",
+    "duration_minutes": 561,
+    "duration_str": "9h 21m"
   },
   {
     "title": "suisse:::«Mister Nice Guy» Parmelin, un président fêté en toute simplicité et avec une bonne dose d’auto-dérision",
@@ -59310,10 +59313,7 @@
   },
   {
     "title": "economie:::Entre la Suisse et les Etats-Unis, un accord douanier négocié au 31 mars 2026, mais…",
-    "added_at": "2025-12-18T19:34:25.254Z",
-    "removed_at": "2025-12-19T01:29:53.799Z",
-    "duration_minutes": 355,
-    "duration_str": "5h 55m"
+    "added_at": "2025-12-18T19:34:25.254Z"
   },
   {
     "title": "suisse:::Coupes dans la coopération internationale: «La Suisse a une marge de manœuvre. Mais elle ne veut pas l’utiliser»",
@@ -59364,6 +59364,20 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Les Européens échouent à trouver un accord sur les avoirs russes gelés",
-    "added_at": "2025-12-19T01:29:53.799Z"
+    "added_at": "2025-12-19T01:29:53.799Z",
+    "removed_at": "2025-12-19T02:37:57.310Z",
+    "duration_minutes": 68,
+    "duration_str": "1h 8m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − L'Union européenne trouve 90 milliards d'euros pour l'Ukraine",
+    "added_at": "2025-12-19T02:37:57.310Z",
+    "removed_at": "2025-12-19T02:49:16.095Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Les Européens s’accordent sur un prêt de 90 milliards d’euros à l’Ukraine",
+    "added_at": "2025-12-19T02:49:16.095Z"
   }
 ]
