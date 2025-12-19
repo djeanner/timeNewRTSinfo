@@ -59261,7 +59261,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Pour la première fois, la justice militaire helvétique condamne un Suisse accusé d'avoir combattu contre la Russie",
-    "added_at": "2025-12-18T17:03:02.567Z"
+    "added_at": "2025-12-18T17:03:02.567Z",
+    "removed_at": "2025-12-19T01:28:03.749Z",
+    "duration_minutes": 505,
+    "duration_str": "8h 25m"
   },
   {
     "title": "economie:::Helene Budliger Artieda, secrétaire d’Etat à l’Economie: «Les droits de douane sont là pour rester»",
@@ -59292,7 +59295,10 @@
   },
   {
     "title": "cyber:::Swisscom et La Poste sont autorisées à délocaliser librement des emplois en Lettonie et au Portugal",
-    "added_at": "2025-12-18T18:22:28.111Z"
+    "added_at": "2025-12-18T18:22:28.111Z",
+    "removed_at": "2025-12-19T01:26:07.795Z",
+    "duration_minutes": 423,
+    "duration_str": "7h 3m"
   },
   {
     "title": "suisse:::«Mister Nice Guy» Parmelin, un président fêté en toute simplicité et avec une bonne dose d’autodérision",
@@ -59304,7 +59310,10 @@
   },
   {
     "title": "economie:::Entre la Suisse et les Etats-Unis, un accord douanier négocié au 31 mars 2026, mais…",
-    "added_at": "2025-12-18T19:34:25.254Z"
+    "added_at": "2025-12-18T19:34:25.254Z",
+    "removed_at": "2025-12-19T01:29:53.799Z",
+    "duration_minutes": 355,
+    "duration_str": "5h 55m"
   },
   {
     "title": "suisse:::Coupes dans la coopération internationale: «La Suisse a une marge de manœuvre. Mais elle ne veut pas l’utiliser»",
@@ -59345,5 +59354,16 @@
   {
     "title": "sport:::Lausanne-Sport toujours européen après avoir battu la Fiorentina",
     "added_at": "2025-12-18T23:17:40.187Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Les Européens échouent à trouver un accord sur les avoirs russes",
+    "added_at": "2025-12-19T01:28:03.749Z",
+    "removed_at": "2025-12-19T01:29:53.799Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Les Européens échouent à trouver un accord sur les avoirs russes gelés",
+    "added_at": "2025-12-19T01:29:53.799Z"
   }
 ]
