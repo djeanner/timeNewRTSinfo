@@ -48221,7 +48221,10 @@
   },
   {
     "title": "À Genève, la deuxième élection municipale à Vernier n'est finalement pas annulée",
-    "added_at": "2025-12-17T13:38:15.681Z"
+    "added_at": "2025-12-17T13:38:15.681Z",
+    "removed_at": "2025-12-19T13:41:13.729Z",
+    "duration_minutes": 2882,
+    "duration_str": "2d 2m"
   },
   {
     "title": "Une pétition remise à Berne pour sauver Swissinfo et le mandat international de la SSR",
@@ -48268,7 +48271,10 @@
   },
   {
     "title": "Après l'attentat terroriste à Sydney, l'enquête s'oriente vers les camps de djihadistes aux Philippines",
-    "added_at": "2025-12-17T14:40:33.572Z"
+    "added_at": "2025-12-17T14:40:33.572Z",
+    "removed_at": "2025-12-19T15:10:05.115Z",
+    "duration_minutes": 2909,
+    "duration_str": "2d 29m"
   },
   {
     "title": "Martine Bideau: Face au risque de pénurie, \"il faut une meilleure valorisation des pédiatres\"",
@@ -48336,15 +48342,24 @@
   },
   {
     "title": "Le restaurant 3023 à Verbier, ravagé par un incendie, restera fermé pour la saison",
-    "added_at": "2025-12-17T15:40:28.355Z"
+    "added_at": "2025-12-17T15:40:28.355Z",
+    "removed_at": "2025-12-19T13:24:23.568Z",
+    "duration_minutes": 2743,
+    "duration_str": "1d 21h 43m"
   },
   {
     "title": "Le recul européen en matière de voitures électriques, une décision plus politique que pragmatique?",
-    "added_at": "2025-12-17T15:43:02.762Z"
+    "added_at": "2025-12-17T15:43:02.762Z",
+    "removed_at": "2025-12-19T15:24:29.716Z",
+    "duration_minutes": 2861,
+    "duration_str": "1d 23h 41m"
   },
   {
     "title": "Après les bombes, la pluie et le froid plongent un peu plus Gaza dans le chaos",
-    "added_at": "2025-12-17T15:50:15.061Z"
+    "added_at": "2025-12-17T15:50:15.061Z",
+    "removed_at": "2025-12-19T14:02:51.054Z",
+    "duration_minutes": 2772,
+    "duration_str": "1d 22h 12m"
   },
   {
     "title": "Podcast - Que sait-on du dossier Epstein ?",
@@ -48355,7 +48370,10 @@
   },
   {
     "title": "Avec \"Un Américain à Paris\", le Grand Théâtre offre un antidote magnifique à la morosité",
-    "added_at": "2025-12-17T16:14:16.271Z"
+    "added_at": "2025-12-17T16:14:16.271Z",
+    "removed_at": "2025-12-19T14:46:07.666Z",
+    "duration_minutes": 2791,
+    "duration_str": "1d 22h 31m"
   },
   {
     "title": "Le canton de Genève doit-il favoriser l’achat par les locataires de leur appartement? Débat entre Christophe Aumeunier et Caroline Renold",
@@ -48366,11 +48384,17 @@
   },
   {
     "title": "Podcast - Que sait-on du dossier Epstein?",
-    "added_at": "2025-12-17T16:35:51.918Z"
+    "added_at": "2025-12-17T16:35:51.918Z",
+    "removed_at": "2025-12-19T14:07:40.303Z",
+    "duration_minutes": 2731,
+    "duration_str": "1d 21h 31m"
   },
   {
     "title": "Cinq ans après le Brexit, le Royaume-Uni se prépare à réintégrer Erasmus",
-    "added_at": "2025-12-17T16:42:57.781Z"
+    "added_at": "2025-12-17T16:42:57.781Z",
+    "removed_at": "2025-12-19T14:10:05.074Z",
+    "duration_minutes": 2727,
+    "duration_str": "1d 21h 27m"
   },
   {
     "title": "L'Alliance vaudoise unie derrière le candidat UDC  pour succéder à Rebecca Ruiz",
@@ -48792,5 +48816,45 @@
   {
     "title": "L'invité de La Matinale (vidéo) - Jean-Marie Paugam, directeur adjoint de l’Organisation mondiale du commerce (OMC)",
     "added_at": "2025-12-19T12:21:49.020Z"
+  },
+  {
+    "title": "Le 50 km/h reste la norme sur les routes cantonales fribourgeoises",
+    "added_at": "2025-12-19T13:24:23.568Z"
+  },
+  {
+    "title": "Symbole de la résilience de la vallée, un nouvel hôtel a été inauguré près de Blatten",
+    "added_at": "2025-12-19T13:41:13.729Z"
+  },
+  {
+    "title": "Le Louvre rouvre \"normalement\" à Paris, après un vote de fin de grève des agents",
+    "added_at": "2025-12-19T14:02:51.054Z"
+  },
+  {
+    "title": "Nikos Aliagas: la Star Academy, \"c'est le voyage du héros\"",
+    "added_at": "2025-12-19T14:07:40.303Z"
+  },
+  {
+    "title": "La Poste devra continuer à livrer lettres et colis aux habitations isolées",
+    "added_at": "2025-12-19T14:10:05.074Z"
+  },
+  {
+    "title": "Marco Odermatt devancé par la surprise Jan Zabystran",
+    "added_at": "2025-12-19T14:46:07.666Z"
+  },
+  {
+    "title": "La famine à Gaza déclarée terminée, mais l'insécurité alimentaire reste élevée",
+    "added_at": "2025-12-19T15:10:05.115Z"
+  },
+  {
+    "title": "La plateforme Shein ne sera pas suspendue en France, tranche la justice",
+    "added_at": "2025-12-19T15:24:29.716Z"
+  },
+  {
+    "title": "Le Grand Conseil valaisan approuve le budget 2026, mais biffe le plein renchérissement",
+    "added_at": "2025-12-19T15:46:10.327Z"
+  },
+  {
+    "title": "Découvrez cinq films insolites inspirés des romans de Jane Austen",
+    "added_at": "2025-12-19T15:53:28.214Z"
   }
 ]
