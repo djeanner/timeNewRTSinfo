@@ -8226,10 +8226,7 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z",
-    "removed_at": "2025-12-19T10:33:43.856Z",
-    "duration_minutes": 303391,
-    "duration_str": "210d 16h 31m"
+    "added_at": "2025-05-22T18:01:52.008Z"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -50891,10 +50888,7 @@
   },
   {
     "title": "culture:::L'art d'offrir des livres, notre sélection d'ouvrages pour Noël",
-    "added_at": "2025-12-01T10:23:09.229Z",
-    "removed_at": "2025-12-12T12:45:24.310Z",
-    "duration_minutes": 15982,
-    "duration_str": "11d 2h 22m"
+    "added_at": "2025-12-01T10:23:09.229Z"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Confiant, Donald Trump estime qu'il y a «de bonnes chances» pour un accord",
@@ -54552,11 +54546,17 @@
   },
   {
     "title": "suisse:::En politique suisse, l’influence des évangéliques grandit",
-    "added_at": "2025-12-14T11:12:28.241Z"
+    "added_at": "2025-12-14T11:12:28.241Z",
+    "removed_at": "2025-12-19T17:00:49.806Z",
+    "duration_minutes": 7548,
+    "duration_str": "5d 5h 48m"
   },
   {
     "title": "monde:::«Pour les évangéliques américains, Trump est un instrument de Dieu»",
-    "added_at": "2025-12-14T11:12:28.241Z"
+    "added_at": "2025-12-14T11:12:28.241Z",
+    "removed_at": "2025-12-19T17:00:49.806Z",
+    "duration_minutes": 7548,
+    "duration_str": "5d 5h 48m"
   },
   {
     "title": "monde:::En Australie, un attentat terroriste contre un festival juif fait au moins 12 morts sur la célèbre plage de Bondi",
@@ -54672,7 +54672,10 @@
   },
   {
     "title": "culture:::«The Righteous Gemstones», la série qui passe les évangéliques au vitriol",
-    "added_at": "2025-12-14T16:25:32.998Z"
+    "added_at": "2025-12-14T16:25:32.998Z",
+    "removed_at": "2025-12-19T17:00:49.806Z",
+    "duration_minutes": 7235,
+    "duration_str": "5d 35m"
   },
   {
     "title": "sport:::A Saint-Moritz, une équipe de Suisse décimée, en perte de vitesse",
@@ -55887,7 +55890,10 @@
   },
   {
     "title": "economie:::Le projet de limiter les retraites anticipées suscite les critiques des acteurs de la prévoyance",
-    "added_at": "2025-12-19T07:50:19.551Z"
+    "added_at": "2025-12-19T07:50:19.551Z",
+    "removed_at": "2025-12-19T17:05:41.512Z",
+    "duration_minutes": 555,
+    "duration_str": "9h 15m"
   },
   {
     "title": "sport:::En organisant sa CAN, le Maroc veut imposer sa domination sur le football africain",
@@ -55950,7 +55956,10 @@
   },
   {
     "title": "sport:::Surprise à Val Gardena, où Marco Odermatt ne gagne pas",
-    "added_at": "2025-12-19T13:31:36.400Z"
+    "added_at": "2025-12-19T13:31:36.400Z",
+    "removed_at": "2025-12-19T16:29:39.799Z",
+    "duration_minutes": 178,
+    "duration_str": "2h 58m"
   },
   {
     "title": "culture:::Dans «Wake Up Dead Man», l’arme du crime, c’est la foi",
@@ -55962,7 +55971,10 @@
   },
   {
     "title": "culture:::«Même les poissons volent», de François Suchel: une folle enquête à plein gaz dans les soutes de la mondialisation",
-    "added_at": "2025-12-19T15:17:18.051Z"
+    "added_at": "2025-12-19T15:17:18.051Z",
+    "removed_at": "2025-12-19T18:25:01.243Z",
+    "duration_minutes": 187,
+    "duration_str": "3h 7m"
   },
   {
     "title": "monde:::Derrière le «coup d’Etat militaire en France», les ravages de la désinformation russe depuis le Burkina Faso",
@@ -55971,5 +55983,25 @@
   {
     "title": "sport:::Lausanne-Sport ne cache pas son amour pour l’Europe",
     "added_at": "2025-12-19T15:58:15.568Z"
+  },
+  {
+    "title": "culture:::Séverine Chavrier ne sera pas reconduite à la tête de la Comédie au-delà de son premier mandat",
+    "added_at": "2025-12-19T16:29:39.799Z"
+  },
+  {
+    "title": "cyber:::Un montant record: la start-up lausannoise Neural Concept, spécialisée dans l’IA pour l’industrie, lève 100 millions de dollars",
+    "added_at": "2025-12-19T16:41:38.522Z"
+  },
+  {
+    "title": "suisse:::EXCLUSIF Une large majorité de Suisses favorables au Traité d’interdiction des armes nucléaires",
+    "added_at": "2025-12-19T17:05:41.512Z"
+  },
+  {
+    "title": "sport:::Stan Wawrinka mettra un terme à sa carrière à la fin de la saison 2026",
+    "added_at": "2025-12-19T18:25:01.243Z"
+  },
+  {
+    "title": "suisse:::Rempart des citoyens face aux refus de communiquer de l’Etat de Vaud, Eric Golaz est remplacé par un intérim",
+    "added_at": "2025-12-19T18:25:01.243Z"
   }
 ]
