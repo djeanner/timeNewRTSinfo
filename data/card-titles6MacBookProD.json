@@ -68320,7 +68320,10 @@
   },
   {
     "title": "Al Jazeera launches new integrative AI model, ‘The Core’",
-    "added_at": "2025-12-21T05:35:48.625Z"
+    "added_at": "2025-12-21T05:35:48.625Z",
+    "removed_at": "2025-12-21T12:35:11.453Z",
+    "duration_minutes": 419,
+    "duration_str": "6h 59m"
   },
   {
     "title": "At least nine people killed in South Africa mass shooting",
@@ -68364,7 +68367,10 @@
   },
   {
     "title": "‘Victims randomly shot’: Manhunt under way after 9 killed in South Africa",
-    "added_at": "2025-12-21T07:53:09.306Z"
+    "added_at": "2025-12-21T07:53:09.306Z",
+    "removed_at": "2025-12-21T11:06:01.537Z",
+    "duration_minutes": 192,
+    "duration_str": "3h 12m"
   },
   {
     "title": "Israeli death penalty bill violates international law: Palestinian analysts",
@@ -68372,11 +68378,17 @@
   },
   {
     "title": "Australia honours Bondi Beach victims, launches probe of security services",
-    "added_at": "2025-12-21T08:12:22.969Z"
+    "added_at": "2025-12-21T08:12:22.969Z",
+    "removed_at": "2025-12-21T11:08:26.673Z",
+    "duration_minutes": 176,
+    "duration_str": "2h 56m"
   },
   {
     "title": "La Liga: Mbappe equals Ronaldo record in Real Madrid’s 2-0 win over Sevilla",
-    "added_at": "2025-12-21T08:31:45.959Z"
+    "added_at": "2025-12-21T08:31:45.959Z",
+    "removed_at": "2025-12-21T13:23:19.763Z",
+    "duration_minutes": 291,
+    "duration_str": "4h 51m"
   },
   {
     "title": "Israeli truce violations making Gaza peace efforts ‘incredibly difficult’",
@@ -68389,5 +68401,35 @@
   {
     "title": "Israel continues ceasefire violations; more Palestinians killed in Gaza, WB",
     "added_at": "2025-12-21T10:05:43.503Z"
+  },
+  {
+    "title": "Manhunt under way after nine killed in South Africa shooting",
+    "added_at": "2025-12-21T11:06:01.537Z",
+    "removed_at": "2025-12-21T11:18:06.829Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "Algeria bill seeks to criminalise French colonial rule: What to know",
+    "added_at": "2025-12-21T11:08:26.673Z"
+  },
+  {
+    "title": "Manhunt under way after nine people killed in South Africa shooting",
+    "added_at": "2025-12-21T11:18:06.829Z"
+  },
+  {
+    "title": "LIVE: Villarreal vs Barcelona – La Liga",
+    "added_at": "2025-12-21T12:35:11.453Z"
+  },
+  {
+    "title": "Israel kills 16-year-old Palestinian at ‘point blank’ range in West Bank",
+    "added_at": "2025-12-21T13:23:19.763Z",
+    "removed_at": "2025-12-21T13:25:40.691Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Israel kills 16-year-old Palestinian at ‘point-blank’ range in West Bank",
+    "added_at": "2025-12-21T13:25:40.691Z"
   }
 ]
