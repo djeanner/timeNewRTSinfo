@@ -16,9 +16,8 @@
   {
     "title": "Trump says US has launched large-scale attacks on ISIL in Syria",
     "added_at": "2025-12-20T00:21:09.263Z",
-    "removed_at": "2025-12-20T00:28:20.939Z",
-    "duration_minutes": 7,
-    "duration_str": "7m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Trump government suspends visa lottery linked to Brown University suspect",
@@ -139,8 +138,9 @@
   {
     "title": "MSF urges Israel to let critical aid into Gaza as children freeze to death",
     "added_at": "2025-12-20T10:24:19.111Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-20T22:29:58.617Z",
+    "duration_minutes": 726,
+    "duration_str": "12h 6m"
   },
   {
     "title": "Russian attack on Ukraine’s Odesa kills at least 8 as peace talks lumber on",
@@ -194,6 +194,20 @@
   {
     "title": "US seizes second oil vessel off Venezuela coast, officials say",
     "added_at": "2025-12-20T20:29:30.475Z",
+    "removed_at": "2025-12-20T22:25:10.475Z",
+    "duration_minutes": 116,
+    "duration_str": "1h 56m"
+  },
+  {
+    "title": "US confirms seizure of second oil vessel off Venezuela coast",
+    "added_at": "2025-12-20T22:25:10.475Z",
+    "removed_at": "2025-12-20T23:20:27.104Z",
+    "duration_minutes": 55,
+    "duration_str": "55m"
+  },
+  {
+    "title": "US, Egypt, Qatar, Turkiye urge restraint in Gaza as Israeli attacks continue",
+    "added_at": "2025-12-20T22:29:58.617Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
