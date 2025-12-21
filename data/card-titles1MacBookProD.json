@@ -48423,7 +48423,10 @@
   },
   {
     "title": "Que sait-on du dossier Epstein ?",
-    "added_at": "2025-12-17T17:23:47.010Z"
+    "added_at": "2025-12-17T17:23:47.010Z",
+    "removed_at": "2025-12-21T10:20:08.221Z",
+    "duration_minutes": 5336,
+    "duration_str": "3d 16h 56m"
   },
   {
     "title": "Le député Quentin di Meo renonce à la présidence du groupe PLR-Le Centre au Grand Conseil Neuchâtelois",
@@ -48909,10 +48912,7 @@
   },
   {
     "title": "\"Le chant des forêts\", une ode à la nature et à la transmission signée Vincent Munier",
-    "added_at": "2025-12-19T08:48:05.557Z",
-    "removed_at": "2025-12-20T22:56:22.289Z",
-    "duration_minutes": 2288,
-    "duration_str": "1d 14h 8m"
+    "added_at": "2025-12-19T08:48:05.557Z"
   },
   {
     "title": "Le Parlement valide un budget 2026 dans les chiffres noirs",
@@ -48999,7 +48999,10 @@
   },
   {
     "title": "Le 50 km/h reste la norme sur les routes cantonales fribourgeoises",
-    "added_at": "2025-12-19T13:24:23.568Z"
+    "added_at": "2025-12-19T13:24:23.568Z",
+    "removed_at": "2025-12-21T10:10:29.422Z",
+    "duration_minutes": 2686,
+    "duration_str": "1d 20h 46m"
   },
   {
     "title": "Symbole de la résilience de la vallée, un nouvel hôtel a été inauguré près de Blatten",
@@ -49312,5 +49315,13 @@
   {
     "title": "Roche exige une augmentation du prix des médicaments en Suisse",
     "added_at": "2025-12-21T08:17:10.349Z"
+  },
+  {
+    "title": "Des cybercriminels font chanter des PME suisses avec de faux avis négatifs",
+    "added_at": "2025-12-21T10:10:29.422Z"
+  },
+  {
+    "title": "Que sait-on du dossier Epstein?",
+    "added_at": "2025-12-21T10:20:08.221Z"
   }
 ]
