@@ -6448,7 +6448,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:00:57.917Z"
+    "added_at": "2025-05-22T18:00:57.917Z",
+    "removed_at": "2025-12-22T19:58:38.996Z",
+    "duration_minutes": 308277,
+    "duration_str": "214d 1h 57m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -59947,7 +59950,10 @@
   },
   {
     "title": "cyber:::Google et Apple franchissent un nouveau cap dans la traduction en temps réel",
-    "added_at": "2025-12-22T07:20:01.960Z"
+    "added_at": "2025-12-22T07:20:01.960Z",
+    "removed_at": "2025-12-22T20:00:35.136Z",
+    "duration_minutes": 760,
+    "duration_str": "12h 40m"
   },
   {
     "title": "cyber:::«Age of Empires II», le rendez-vous familial hebdomadaire",
@@ -59990,11 +59996,17 @@
   },
   {
     "title": "economie:::Après l’accord entre Roche, Novartis et la Maison-Blanche, la crainte d’une hausse des prix des médicaments en Suisse",
-    "added_at": "2025-12-22T15:33:49.628Z"
+    "added_at": "2025-12-22T15:33:49.628Z",
+    "removed_at": "2025-12-22T20:55:22.294Z",
+    "duration_minutes": 321,
+    "duration_str": "5h 21m"
   },
   {
     "title": "culture:::Mort de Chris Rea, notamment chanteur de «Driving Home For Christmas»",
-    "added_at": "2025-12-22T15:48:54.084Z"
+    "added_at": "2025-12-22T15:48:54.084Z",
+    "removed_at": "2025-12-22T19:52:58.631Z",
+    "duration_minutes": 244,
+    "duration_str": "4h 4m"
   },
   {
     "title": "monde:::«Béquille», «pansement», «rustine»… les défauts d’une «loi spéciale» qui coûte cher aux Français",
@@ -60019,5 +60031,21 @@
   {
     "title": "culture:::L’hymne à la beauté de Séphora Pondi, actrice à la Comédie-Française et autrice d’un premier roman galvanique",
     "added_at": "2025-12-22T19:22:36.191Z"
+  },
+  {
+    "title": "monde:::En Espagne, la traditionnelle loterie de Noël redonne le sourire à une région ravagée par les flammes cet été",
+    "added_at": "2025-12-22T19:52:58.631Z"
+  },
+  {
+    "title": "economie:::«Pétrole!», un roman pour dénoncer les excès des débuts de l’or noir en Californie",
+    "added_at": "2025-12-22T20:00:35.136Z"
+  },
+  {
+    "title": "suisse:::La Sablière du Cannelet: l’histoire sans fin d’une exploitation illégale en terrain agricole à Genève",
+    "added_at": "2025-12-22T20:25:05.198Z"
+  },
+  {
+    "title": "cyber:::L’ascension fulgurante de Lovable, nouvelle star européenne de l’IA grâce au «vibe coding» et qui vaut déjà des milliards",
+    "added_at": "2025-12-22T20:55:22.294Z"
   }
 ]
