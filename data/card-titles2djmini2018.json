@@ -20858,7 +20858,10 @@
   },
   {
     "title": "suisse:::Au chevet de la ville du futur, dense et perméable",
-    "added_at": "2025-08-01T09:43:46.092Z"
+    "added_at": "2025-08-01T09:43:46.092Z",
+    "removed_at": "2025-12-22T05:18:07.285Z",
+    "duration_minutes": 205654,
+    "duration_str": "142d 19h 34m"
   },
   {
     "title": "economie:::Le prix des montres suisses va (encore) augmenter",
@@ -59852,7 +59855,10 @@
   },
   {
     "title": "culture:::Obsédé par la mort et la souffrance, le peintre autrichien Arnulf Rainer s’en est allé",
-    "added_at": "2025-12-21T17:28:46.005Z"
+    "added_at": "2025-12-21T17:28:46.005Z",
+    "removed_at": "2025-12-22T04:17:27.209Z",
+    "duration_minutes": 648,
+    "duration_str": "10h 48m"
   },
   {
     "title": "sport:::Le FC Thoune emmène une Super League qui récompense (jusqu’ici) la stabilité",
@@ -59864,11 +59870,17 @@
   },
   {
     "title": "economie:::Le multibanking devient une réalité en Suisse",
-    "added_at": "2025-12-21T19:54:35.285Z"
+    "added_at": "2025-12-21T19:54:35.285Z",
+    "removed_at": "2025-12-22T05:18:07.285Z",
+    "duration_minutes": 563,
+    "duration_str": "9h 23m"
   },
   {
     "title": "economie:::Sur les traces d’une Swatch d’hiver aussi attendue que l’or blanc dans les stations de ski",
-    "added_at": "2025-12-21T20:11:37.430Z"
+    "added_at": "2025-12-21T20:11:37.430Z",
+    "removed_at": "2025-12-22T05:12:26.834Z",
+    "duration_minutes": 540,
+    "duration_str": "9h"
   },
   {
     "title": "culture:::Les «brèves de couloir», des leçons du tennis au jour le jour",
@@ -59876,6 +59888,21 @@
   },
   {
     "title": "monde:::Guerre en Ukraine − Notre suivi de la semaine du 15 décembre 2025",
-    "added_at": "2025-12-21T20:32:23.569Z"
+    "added_at": "2025-12-21T20:32:23.569Z",
+    "removed_at": "2025-12-22T04:19:21.306Z",
+    "duration_minutes": 466,
+    "duration_str": "7h 46m"
+  },
+  {
+    "title": "monde:::Blocus: les Etats-Unis poursuivent un pétrolier vers le Venezuela",
+    "added_at": "2025-12-22T04:17:27.209Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Les pourparlers américano-ukrainienne et américano-russe se poursuivent à Miami",
+    "added_at": "2025-12-22T04:19:21.306Z"
+  },
+  {
+    "title": "suisse:::A Genève, une famille ukrainienne originaire de Kharkiv priée de faire ses bagages",
+    "added_at": "2025-12-22T05:18:07.285Z"
   }
 ]
