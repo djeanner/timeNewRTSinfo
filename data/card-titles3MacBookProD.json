@@ -117418,7 +117418,10 @@
   },
   {
     "title": "‘Avatar’ Sequel Is Neither Fire Nor Ash at North American Box Office",
-    "added_at": "2025-12-21T19:00:50.834Z"
+    "added_at": "2025-12-21T19:00:50.834Z",
+    "removed_at": "2025-12-22T00:45:54.433Z",
+    "duration_minutes": 345,
+    "duration_str": "5h 45m"
   },
   {
     "title": "U.S. Coast Guard Is Pursuing an Oil Tanker Linked to Venezuela",
@@ -117508,11 +117511,17 @@
   },
   {
     "title": "Jaguars Lead Broncos in Clash of A.F.C. Heavyweights",
-    "added_at": "2025-12-21T23:55:07.673Z"
+    "added_at": "2025-12-21T23:55:07.673Z",
+    "removed_at": "2025-12-22T00:43:27.176Z",
+    "duration_minutes": 48,
+    "duration_str": "48m"
   },
   {
     "title": "Examining N.F.L. Playoff Contenders as the Bracket Begins to Take Shape",
-    "added_at": "2025-12-22T00:02:21.089Z"
+    "added_at": "2025-12-22T00:02:21.089Z",
+    "removed_at": "2025-12-22T02:12:38.210Z",
+    "duration_minutes": 130,
+    "duration_str": "2h 10m"
   },
   {
     "title": "Jimmy Kimmel Will Deliver Britain’s ‘Alternative Christmas Message’",
@@ -117521,5 +117530,43 @@
   {
     "title": "U.S. Coast Guard Pursues Oil Tanker Linked to Venezuela",
     "added_at": "2025-12-22T00:14:22.634Z"
+  },
+  {
+    "title": "Jaguars Beat Broncos in Clash of A.F.C. Heavyweights",
+    "added_at": "2025-12-22T00:43:27.176Z",
+    "removed_at": "2025-12-22T01:36:32.167Z",
+    "duration_minutes": 53,
+    "duration_str": "53m"
+  },
+  {
+    "title": "Waymo Suspended Service in San Francisco After Problems During Power Outage",
+    "added_at": "2025-12-22T00:45:54.433Z",
+    "removed_at": "2025-12-22T00:57:54.062Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "James Ransone, Actor Known for ‘The Wire,’ Dies at 46",
+    "added_at": "2025-12-22T00:45:54.433Z"
+  },
+  {
+    "title": "Waymo Suspended Service in San Francisco After Its Cars Stalled During Power Outage",
+    "added_at": "2025-12-22T00:57:54.062Z"
+  },
+  {
+    "title": "Russia Dismisses Reports of Progress in Ukraine Peace Talks",
+    "added_at": "2025-12-22T01:36:32.167Z"
+  },
+  {
+    "title": "Patriots Face Ravens in Showdown of A.F.C. Contenders",
+    "added_at": "2025-12-22T01:36:32.167Z"
+  },
+  {
+    "title": "Bears and 49ers Clinch Playoff Spots With Lions’ Loss to Steelers",
+    "added_at": "2025-12-22T01:36:32.167Z"
+  },
+  {
+    "title": "Week 16 Brings Joy for Some, Agony for Others as Playoff Bracket Takes Shape",
+    "added_at": "2025-12-22T02:12:38.210Z"
   }
 ]
