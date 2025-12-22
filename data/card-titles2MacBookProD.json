@@ -8226,7 +8226,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z"
+    "added_at": "2025-05-22T18:01:52.008Z",
+    "removed_at": "2025-12-22T19:59:18.229Z",
+    "duration_minutes": 308277,
+    "duration_str": "214d 1h 57m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -55743,7 +55746,10 @@
   },
   {
     "title": "economie:::Helene Budliger Artieda, secrétaire d’Etat à l’Economie: «Les droits de douane sont là pour rester»",
-    "added_at": "2025-12-18T17:04:25.701Z"
+    "added_at": "2025-12-18T17:04:25.701Z",
+    "removed_at": "2025-12-22T19:20:41.257Z",
+    "duration_minutes": 5896,
+    "duration_str": "4d 2h 16m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Pour la première fois, la justice militaire helvétique condamne un Suisse accusé d'avoir combattu contre la Russie",
@@ -56193,7 +56199,10 @@
   },
   {
     "title": "suisse:::«La vie ne m’a pas épargnée»: dans le canton de Vaud, l’accompagnement spirituel à domicile aide à vieillir en paix",
-    "added_at": "2025-12-20T17:57:45.749Z"
+    "added_at": "2025-12-20T17:57:45.749Z",
+    "removed_at": "2025-12-22T19:13:28.131Z",
+    "duration_minutes": 2955,
+    "duration_str": "2d 1h 15m"
   },
   {
     "title": "culture:::«La Soupe des pauvres», de Jean-François Haas, ou la pauvreté choisie, jusqu’à la folie",
@@ -56407,9 +56416,9 @@
   {
     "title": "cyber:::Google et Apple franchissent un nouveau cap dans la traduction en temps réel",
     "added_at": "2025-12-22T07:18:43.963Z",
-    "removed_at": "2025-12-22T16:29:40.318Z",
-    "duration_minutes": 550,
-    "duration_str": "9h 10m"
+    "removed_at": "2025-12-22T20:01:39.564Z",
+    "duration_minutes": 762,
+    "duration_str": "12h 42m"
   },
   {
     "title": "cyber:::«Age of Empires II», le rendez-vous familial hebdomadaire",
@@ -56427,7 +56436,10 @@
   },
   {
     "title": "monde:::«Le bougé», expression qui en dit tant de la politique française",
-    "added_at": "2025-12-22T10:24:36.366Z"
+    "added_at": "2025-12-22T10:24:36.366Z",
+    "removed_at": "2025-12-22T19:23:07.317Z",
+    "duration_minutes": 538,
+    "duration_str": "8h 58m"
   },
   {
     "title": "economie:::Josep Castellet, directeur du fabricant de peaux de phoque Pomoca: «Le marché américain reste incontournable»",
@@ -56453,7 +56465,10 @@
   },
   {
     "title": "culture:::Mort de Chris Rea, notamment chanteur de «Driving Home For Christmas»",
-    "added_at": "2025-12-22T15:51:13.001Z"
+    "added_at": "2025-12-22T15:51:13.001Z",
+    "removed_at": "2025-12-22T19:52:04.429Z",
+    "duration_minutes": 240,
+    "duration_str": "4h"
   },
   {
     "title": "monde:::«Béquille», «pansement», «rustine»… les défauts d’une «loi spéciale» qui coûte cher aux Français",
@@ -56466,5 +56481,25 @@
   {
     "title": "economie:::Une entreprise genevoise se fait bombarder à Odessa",
     "added_at": "2025-12-22T17:13:02.065Z"
+  },
+  {
+    "title": "suisse:::A Fribourg, Jean-François Steiert est prêt à se représenter en 2026",
+    "added_at": "2025-12-22T19:13:28.131Z"
+  },
+  {
+    "title": "monde:::Le Venezuela garde son calme face à la menace américaine",
+    "added_at": "2025-12-22T19:20:41.257Z"
+  },
+  {
+    "title": "culture:::L’hymne à la beauté de Séphora Pondi, actrice à la Comédie-Française et autrice d’un premier roman galvanique",
+    "added_at": "2025-12-22T19:23:07.317Z"
+  },
+  {
+    "title": "monde:::En Espagne, la traditionnelle loterie de Noël redonne le sourire à une région ravagée par les flammes cet été",
+    "added_at": "2025-12-22T19:52:04.429Z"
+  },
+  {
+    "title": "economie:::«Pétrole!», un roman pour dénoncer les excès des débuts de l’or noir en Californie",
+    "added_at": "2025-12-22T20:01:39.564Z"
   }
 ]
