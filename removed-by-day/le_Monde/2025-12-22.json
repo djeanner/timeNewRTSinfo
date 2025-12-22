@@ -285,9 +285,8 @@
   {
     "title": "A Rennes, « le développement du trafic de drogue s’accompagne d’un “no limit” en termes de violence »",
     "added_at": "2025-12-22T12:50:40.548Z",
-    "removed_at": "2025-12-22T16:56:13.981Z",
-    "duration_minutes": 246,
-    "duration_str": "4h 6m"
+    "duration_minutes": 0,
+    "duration_str": ""
   },
   {
     "title": "Notre sélection de films et séries à regarder en famille, au coin du feu (ou ailleurs)",
@@ -631,8 +630,9 @@
   {
     "title": "EN DIRECT, budget 2026 : fin des consultations de Sébastien Lecornu ; le projet de loi spéciale présenté en conseil des ministres dans la soirée",
     "added_at": "2025-12-22T19:03:56.234Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-22T20:04:14.329Z",
+    "duration_minutes": 60,
+    "duration_str": "1h"
   },
   {
     "title": "« Petit guide de survie aux discussions des repas de famille » : comment clouer le bec à votre oncle réac",
@@ -650,6 +650,19 @@
   {
     "title": "Budget : le projet de loi spéciale a été présenté en conseil des ministres, avant son examen prévu demain à l’Assemblée et au Sénat",
     "added_at": "2025-12-22T19:52:04.994Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "EN DIRECT, budget 2026 : le projet de loi spéciale a été présenté en conseil des ministres, avant son examen prévu demain à l’Assemblée et au Sénat",
+    "added_at": "2025-12-22T20:04:14.329Z",
+    "removed_at": "2025-12-22T20:33:07.521Z",
+    "duration_minutes": 29,
+    "duration_str": "29m"
+  },
+  {
+    "title": "EN DIRECT, budget 2026 : le projet de loi spéciale a été présenté en conseil des ministres, avant son examen prévu pour demain à l’Assemblée et au Sénat",
+    "added_at": "2025-12-22T20:33:07.521Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
