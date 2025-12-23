@@ -56354,7 +56354,10 @@
   },
   {
     "title": "sport:::Le FC Thoune emmène une Super League qui récompense (jusqu’ici) la stabilité",
-    "added_at": "2025-12-21T18:10:13.197Z"
+    "added_at": "2025-12-21T18:10:13.197Z",
+    "removed_at": "2025-12-23T07:30:10.239Z",
+    "duration_minutes": 2239,
+    "duration_str": "1d 13h 19m"
   },
   {
     "title": "economie:::2025, une année boursière plus compliquée qu’il n’y paraît",
@@ -56518,7 +56521,10 @@
   },
   {
     "title": "economie:::«Pétrole!», un roman pour dénoncer les excès des débuts de l’or noir en Californie",
-    "added_at": "2025-12-22T20:01:39.564Z"
+    "added_at": "2025-12-22T20:01:39.564Z",
+    "removed_at": "2025-12-23T08:08:37.582Z",
+    "duration_minutes": 726,
+    "duration_str": "12h 6m"
   },
   {
     "title": "suisse:::La Sablière du Cannelet: l’histoire sans fin d’une exploitation illégale en terrain agricole à Genève",
@@ -56550,5 +56556,13 @@
   {
     "title": "suisse:::Dernière édition papier pour «20 minutes»: la fin d’une ère pour le canard des pendulaires",
     "added_at": "2025-12-23T06:32:20.198Z"
+  },
+  {
+    "title": "sciences:::Contrairement aux humains, l’union décuple la force individuelle des fourmis tisserandes",
+    "added_at": "2025-12-23T07:30:10.239Z"
+  },
+  {
+    "title": "cyber:::«Street Fighter II», ou le souvenir de tournois endiablés entre jeunes du quartier",
+    "added_at": "2025-12-23T08:08:37.582Z"
   }
 ]
