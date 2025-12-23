@@ -47727,7 +47727,10 @@
   },
   {
     "title": "cyber:::Encore beaucoup trop naïfs, les Suisses sont victimes de cyberarnaques perfides combinant faux sites web, SMS et appels téléphoniques",
-    "added_at": "2025-11-19T05:16:48.931Z"
+    "added_at": "2025-11-19T05:16:48.931Z",
+    "removed_at": "2025-12-23T19:20:22.752Z",
+    "duration_minutes": 49803,
+    "duration_str": "34d 14h 3m"
   },
   {
     "title": "cyber:::Comment déceler en un éclair les messages suspects",
@@ -56413,10 +56416,7 @@
   },
   {
     "title": "suisse:::A Genève, une famille ukrainienne originaire de Kharkiv priée de faire ses bagages",
-    "added_at": "2025-12-22T05:17:40.518Z",
-    "removed_at": "2025-12-23T03:19:53.880Z",
-    "duration_minutes": 1322,
-    "duration_str": "22h 2m"
+    "added_at": "2025-12-22T05:17:40.518Z"
   },
   {
     "title": "monde:::Eléonore Caroit, ministre de la francophonie: «J’espère que la Suisse continuera à soutenir TV5 Monde»",
@@ -56594,7 +56594,10 @@
   },
   {
     "title": "suisse:::La soumission ou la girouette politique de l’année",
-    "added_at": "2025-12-23T10:33:04.192Z"
+    "added_at": "2025-12-23T10:33:04.192Z",
+    "removed_at": "2025-12-23T20:10:58.290Z",
+    "duration_minutes": 577,
+    "duration_str": "9h 37m"
   },
   {
     "title": "suisse:::Affaire Riad Salamé: la banque HSBC à Genève visée par le parquet fédéral pour blanchiment d’argent aggravé",
@@ -56639,11 +56642,17 @@
   },
   {
     "title": "economie:::«Au Bonheur des dames», ou la naissance du shopping",
-    "added_at": "2025-12-23T14:48:09.393Z"
+    "added_at": "2025-12-23T14:48:09.393Z",
+    "removed_at": "2025-12-23T18:34:36.833Z",
+    "duration_minutes": 226,
+    "duration_str": "3h 46m"
   },
   {
     "title": "economie:::Le milliardaire anglais Alan Howard déménage en Suisse pour des questions fiscales",
-    "added_at": "2025-12-23T15:14:44.732Z"
+    "added_at": "2025-12-23T15:14:44.732Z",
+    "removed_at": "2025-12-23T17:56:07.752Z",
+    "duration_minutes": 161,
+    "duration_str": "2h 41m"
   },
   {
     "title": "suisse:::Les Suisses voteront sur l’interdiction des armes nucléaires",
@@ -56669,6 +56678,32 @@
   },
   {
     "title": "cyber:::Le piratage de PornHub est une bombe à retardement: les données ultrasensibles de 100 millions d’utilisateurs sont en danger",
-    "added_at": "2025-12-23T17:05:25.014Z"
+    "added_at": "2025-12-23T17:05:25.014Z",
+    "removed_at": "2025-12-23T18:46:41.549Z",
+    "duration_minutes": 101,
+    "duration_str": "1h 41m"
+  },
+  {
+    "title": "monde:::En Espagne, l’agonie du premier ministre socialiste Pedro Sanchez",
+    "added_at": "2025-12-23T17:56:07.752Z"
+  },
+  {
+    "title": "culture:::«Stiller», d’après Max Frisch, ou quand «je» est un autre",
+    "added_at": "2025-12-23T18:34:36.833Z",
+    "removed_at": "2025-12-23T19:37:10.451Z",
+    "duration_minutes": 62,
+    "duration_str": "1h 2m"
+  },
+  {
+    "title": "monde:::«Nous n’avons pas perdu autant de camarades pour rien!»: en Ukraine, les Loups de Da Vinci se battront jusqu’au bout",
+    "added_at": "2025-12-23T18:41:50.203Z"
+  },
+  {
+    "title": "cyber:::Le piratage de Pornhub est une bombe à retardement: les données ultrasensibles de 100 millions d’utilisateurs sont en danger",
+    "added_at": "2025-12-23T18:46:41.549Z"
+  },
+  {
+    "title": "culture:::Le best-seller «La Femme de ménage» adapté au cinéma, ou comment saper le féminisme",
+    "added_at": "2025-12-23T19:37:10.451Z"
   }
 ]
