@@ -50898,7 +50898,10 @@
   },
   {
     "title": "cyber:::Encore beaucoup trop naïfs, les Suisses sont victimes de cyberarnaques perfides combinant faux sites web, SMS et appels téléphoniques",
-    "added_at": "2025-11-19T05:17:26.621Z"
+    "added_at": "2025-11-19T05:17:26.621Z",
+    "removed_at": "2025-12-23T19:21:27.587Z",
+    "duration_minutes": 49804,
+    "duration_str": "34d 14h 4m"
   },
   {
     "title": "cyber:::Comment déceler en un éclair les messages suspects",
@@ -59948,10 +59951,7 @@
   },
   {
     "title": "suisse:::A Genève, une famille ukrainienne originaire de Kharkiv priée de faire ses bagages",
-    "added_at": "2025-12-22T05:18:07.285Z",
-    "removed_at": "2025-12-23T03:19:16.194Z",
-    "duration_minutes": 1321,
-    "duration_str": "22h 1m"
+    "added_at": "2025-12-22T05:18:07.285Z"
   },
   {
     "title": "monde:::Eléonore Caroit, ministre de la francophonie: «J’espère que la Suisse continuera à soutenir TV5 Monde»",
@@ -60174,11 +60174,17 @@
   },
   {
     "title": "economie:::«Au Bonheur des dames», ou la naissance du shopping",
-    "added_at": "2025-12-23T14:47:19.016Z"
+    "added_at": "2025-12-23T14:47:19.016Z",
+    "removed_at": "2025-12-23T18:34:09.697Z",
+    "duration_minutes": 226,
+    "duration_str": "3h 46m"
   },
   {
     "title": "economie:::Le milliardaire anglais Alan Howard déménage en Suisse pour des questions fiscales",
-    "added_at": "2025-12-23T15:15:38.903Z"
+    "added_at": "2025-12-23T15:15:38.903Z",
+    "removed_at": "2025-12-23T17:54:28.053Z",
+    "duration_minutes": 158,
+    "duration_str": "2h 38m"
   },
   {
     "title": "suisse:::Les Suisses voteront sur l’interdiction des armes nucléaires",
@@ -60197,6 +60203,25 @@
   },
   {
     "title": "cyber:::Le piratage de PornHub est une bombe à retardement: les données ultrasensibles de 100 millions d’utilisateurs sont en danger",
-    "added_at": "2025-12-23T17:03:20.282Z"
+    "added_at": "2025-12-23T17:03:20.282Z",
+    "removed_at": "2025-12-23T18:47:26.917Z",
+    "duration_minutes": 104,
+    "duration_str": "1h 44m"
+  },
+  {
+    "title": "monde:::En Espagne, l’agonie du premier ministre socialiste Pedro Sanchez",
+    "added_at": "2025-12-23T17:54:28.053Z"
+  },
+  {
+    "title": "culture:::«Stiller», d’après Max Frisch, ou quand «je» est un autre",
+    "added_at": "2025-12-23T18:34:09.697Z"
+  },
+  {
+    "title": "monde:::«Nous n’avons pas perdu autant de camarades pour rien!»: en Ukraine, les Loups de Da Vinci se battront jusqu’au bout",
+    "added_at": "2025-12-23T18:41:46.387Z"
+  },
+  {
+    "title": "cyber:::Le piratage de Pornhub est une bombe à retardement: les données ultrasensibles de 100 millions d’utilisateurs sont en danger",
+    "added_at": "2025-12-23T18:47:26.917Z"
   }
 ]
