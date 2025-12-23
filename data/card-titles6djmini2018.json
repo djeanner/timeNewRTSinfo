@@ -77259,7 +77259,10 @@
   },
   {
     "title": "Israel kills 3 in Lebanon, displaces dozens after Jerusalem demolition",
-    "added_at": "2025-12-22T14:10:33.171Z"
+    "added_at": "2025-12-22T14:10:33.171Z",
+    "removed_at": "2025-12-22T22:56:39.511Z",
+    "duration_minutes": 526,
+    "duration_str": "8h 46m"
   },
   {
     "title": "After World Cup heartbreak, Nigeria begin AFCON in search of redemption",
@@ -77301,10 +77304,7 @@
   },
   {
     "title": "Trump pauses more offshore wind projects citing national security concerns",
-    "added_at": "2025-12-22T18:01:22.772Z",
-    "removed_at": "2025-12-22T21:33:11.399Z",
-    "duration_minutes": 211,
-    "duration_str": "3h 31m"
+    "added_at": "2025-12-22T18:01:22.772Z"
   },
   {
     "title": "At least 1 killed in Aleppo clashes between Syrian army, Kurdish-led SDF",
@@ -77315,7 +77315,10 @@
   },
   {
     "title": "At least 2 killed in Aleppo clashes between Syrian army, Kurdish-led SDF",
-    "added_at": "2025-12-22T18:46:44.935Z"
+    "added_at": "2025-12-22T18:46:44.935Z",
+    "removed_at": "2025-12-22T22:16:57.134Z",
+    "duration_minutes": 210,
+    "duration_str": "3h 30m"
   },
   {
     "title": "Can diplomacy end the conflict between Thailand and Cambodia?",
@@ -77335,5 +77338,12 @@
   {
     "title": "Israel kills two Palestinians in Gaza City as ceasefire violations mount",
     "added_at": "2025-12-22T22:03:28.567Z"
+  },
+  {
+    "title": "At least two killed in Aleppo clashes between Syrian army, Kurdish-led SDF",
+    "added_at": "2025-12-22T22:16:57.134Z",
+    "removed_at": "2025-12-22T22:56:39.511Z",
+    "duration_minutes": 39,
+    "duration_str": "39m"
   }
 ]
