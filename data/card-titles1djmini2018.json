@@ -65912,7 +65912,10 @@
   },
   {
     "title": "Quel est le niveau de formation dans votre quartier? Nos cartes",
-    "added_at": "2025-11-17T20:02:02.840Z"
+    "added_at": "2025-11-17T20:02:02.840Z",
+    "removed_at": "2025-12-24T06:45:43.889Z",
+    "duration_minutes": 52483,
+    "duration_str": "36d 10h 43m"
   },
   {
     "title": "Edward McMullen: \"Dire que Trump a parlé de Chine ou de Russie dans cet accord, c'est de la foutaise\"",
@@ -78350,10 +78353,7 @@
   },
   {
     "title": "\"Lucens, mémoires atomiques\": le secret nucléaire suisse enfoui sous la molasse",
-    "added_at": "2025-12-20T10:36:49.582Z",
-    "removed_at": "2025-12-22T19:32:07.194Z",
-    "duration_minutes": 3415,
-    "duration_str": "2d 8h 55m"
+    "added_at": "2025-12-20T10:36:49.582Z"
   },
   {
     "title": "L'Ariana, cinéma historique de Kaboul, a été détruit pour un centre commercial",
@@ -78406,7 +78406,10 @@
   },
   {
     "title": "Revitaliser les tourbières, un travail qui prend des décennies",
-    "added_at": "2025-12-20T14:46:30.065Z"
+    "added_at": "2025-12-20T14:46:30.065Z",
+    "removed_at": "2025-12-24T07:02:42.452Z",
+    "duration_minutes": 5296,
+    "duration_str": "3d 16h 16m"
   },
   {
     "title": "Twist - Noël : faut-il mettre le paquet ?",
@@ -78689,7 +78692,10 @@
   },
   {
     "title": "Quelles seront les économies et dépenses supplémentaires des ménages en 2026?",
-    "added_at": "2025-12-22T05:57:40.693Z"
+    "added_at": "2025-12-22T05:57:40.693Z",
+    "removed_at": "2025-12-24T06:40:03.983Z",
+    "duration_minutes": 2922,
+    "duration_str": "2d 42m"
   },
   {
     "title": "La plainte inédite contre le cimentier Holcim pour \"atteinte au climat\" admise à Zoug",
@@ -78725,7 +78731,10 @@
   },
   {
     "title": "Le ministère américain de la Justice nie vouloir censurer le dossier Epstein",
-    "added_at": "2025-12-22T08:34:34.617Z"
+    "added_at": "2025-12-22T08:34:34.617Z",
+    "removed_at": "2025-12-24T05:39:42.530Z",
+    "duration_minutes": 2705,
+    "duration_str": "1d 21h 5m"
   },
   {
     "title": "Le Muséum d'histoire naturelle, un classique de l'enfance qui se réinvente",
@@ -78743,7 +78752,10 @@
   },
   {
     "title": "La \"cuisine durable\", un défi résolument tourné vers l'avenir mais aussi le plaisir des papilles",
-    "added_at": "2025-12-22T09:53:55.659Z"
+    "added_at": "2025-12-22T09:53:55.659Z",
+    "removed_at": "2025-12-24T06:58:58.652Z",
+    "duration_minutes": 2705,
+    "duration_str": "1d 21h 5m"
   },
   {
     "title": "Pierre Vial, mage des \"Visiteurs\" et sociétaire honoraire de la Comédie-Française, est décédé",
@@ -78816,7 +78828,10 @@
   },
   {
     "title": "La France se dotera d'un nouveau porte-avions géant face aux tensions internationales accrues",
-    "added_at": "2025-12-22T13:55:25.029Z"
+    "added_at": "2025-12-22T13:55:25.029Z",
+    "removed_at": "2025-12-24T07:04:38.421Z",
+    "duration_minutes": 2469,
+    "duration_str": "1d 17h 9m"
   },
   {
     "title": "Grosse opération policière à Lausanne pour une femme retranchée avec un pistolet d'alarme au services des tutelles",
@@ -78827,7 +78842,10 @@
   },
   {
     "title": "Team Alinghi participera à la Coupe Louis Vuitton",
-    "added_at": "2025-12-22T14:23:46.716Z"
+    "added_at": "2025-12-22T14:23:46.716Z",
+    "removed_at": "2025-12-24T06:08:00.789Z",
+    "duration_minutes": 2384,
+    "duration_str": "1d 15h 44m"
   },
   {
     "title": "Un général russe tué dans un attentat à Moscou, la piste ukrainienne \"étudiée\"",
@@ -79147,5 +79165,29 @@
   {
     "title": "Washington sanctionne des Européens, dont l'ancien commissaire de l'UE Thierry Breton",
     "added_at": "2025-12-24T03:38:40.280Z"
+  },
+  {
+    "title": "A Bethléem, Noël fait son retour malgré l’absence des touristes",
+    "added_at": "2025-12-24T05:39:42.530Z"
+  },
+  {
+    "title": "Swisscom abandonne ses webcams panoramiques sur les sommets suisses, non sans résistance",
+    "added_at": "2025-12-24T06:08:00.789Z"
+  },
+  {
+    "title": "Un recours s'oppose à la validation de l'élection municipale de Vernier (vidéo)",
+    "added_at": "2025-12-24T06:19:19.974Z"
+  },
+  {
+    "title": "Le TF protège les ressortissants érythréens des abus de leurs autorités consulaires",
+    "added_at": "2025-12-24T06:40:03.983Z"
+  },
+  {
+    "title": "Le Jura étudie le projet d'une assurance maladie publique",
+    "added_at": "2025-12-24T06:58:58.652Z"
+  },
+  {
+    "title": "Los Angeles ordonne des évacuations face à une violente \"tempête de Noël\"",
+    "added_at": "2025-12-24T07:04:38.421Z"
   }
 ]
