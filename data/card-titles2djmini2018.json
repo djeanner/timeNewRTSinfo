@@ -60089,7 +60089,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Poursuite des frappes alors que Moscou fait état de lents progrès dans les pourparlers",
-    "added_at": "2025-12-23T02:32:01.395Z"
+    "added_at": "2025-12-23T02:32:01.395Z",
+    "removed_at": "2025-12-24T01:54:42.495Z",
+    "duration_minutes": 1402,
+    "duration_str": "23h 22m"
   },
   {
     "title": "monde:::Donald Trump lance une nouvelle classe de navires de guerre portant son nom",
@@ -60233,5 +60236,16 @@
   {
     "title": "culture:::Le best-seller «La Femme de ménage» adapté au cinéma, ou comment saper le féminisme",
     "added_at": "2025-12-23T19:36:38.249Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − L'Ukraine se retire d'une ville de l'est",
+    "added_at": "2025-12-24T01:54:42.495Z",
+    "removed_at": "2025-12-24T01:56:36.696Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Les forces ukrainiennes se retirent d'une ville de l'est",
+    "added_at": "2025-12-24T01:56:36.696Z"
   }
 ]
