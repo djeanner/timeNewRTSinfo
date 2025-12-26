@@ -79157,7 +79157,10 @@
   },
   {
     "title": "Un ultime \"20 Minutes\" dans les caissettes mardi avant la bascule du tout-numérique",
-    "added_at": "2025-12-23T09:40:57.566Z"
+    "added_at": "2025-12-23T09:40:57.566Z",
+    "removed_at": "2025-12-26T02:40:16.622Z",
+    "duration_minutes": 3899,
+    "duration_str": "2d 16h 59m"
   },
   {
     "title": "Face à la grippe, les hôpitaux romands sont sous pression et prêts à faire face",
@@ -79172,7 +79175,10 @@
   },
   {
     "title": "Face à la grippe, les hôpitaux romands sont sous pression mais prêts à faire face",
-    "added_at": "2025-12-23T11:17:23.930Z"
+    "added_at": "2025-12-23T11:17:23.930Z",
+    "removed_at": "2025-12-26T03:34:59.776Z",
+    "duration_minutes": 3857,
+    "duration_str": "2d 16h 17m"
   },
   {
     "title": "Le Jura développe une stratégie pour attirer de nouvelles personnes en résidence permanente",
@@ -79569,5 +79575,13 @@
   {
     "title": "L'Ukraine frappe une importante raffinerie russe avec des missiles britanniques",
     "added_at": "2025-12-26T01:24:35.252Z"
+  },
+  {
+    "title": "\"Nombreuses\" frappes meurtrières des Etats-Unis contre l'EI au Nigeria, annonce Donald Trump",
+    "added_at": "2025-12-26T02:40:16.622Z"
+  },
+  {
+    "title": "Le gouvernement japonais approuve un budget record pour renforcer la défense du pays",
+    "added_at": "2025-12-26T03:34:59.776Z"
   }
 ]
