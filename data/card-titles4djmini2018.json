@@ -162093,7 +162093,10 @@
   },
   {
     "title": "Free groceries offered to customers after register glitch",
-    "added_at": "2025-12-24T06:02:22.259Z"
+    "added_at": "2025-12-24T06:02:22.259Z",
+    "removed_at": "2025-12-27T17:50:22.327Z",
+    "duration_minutes": 5028,
+    "duration_str": "3d 11h 48m"
   },
   {
     "title": "Gang patches have vanished from New Zealand’s streets. But the gangs have not",
@@ -163592,5 +163595,9 @@
   {
     "title": "At least 15 dead, 19 injured in Guatemala bus accident",
     "added_at": "2025-12-27T14:18:28.021Z"
+  },
+  {
+    "title": "New York airports face flurry of flights delays and cancellations",
+    "added_at": "2025-12-27T17:50:22.327Z"
   }
 ]
