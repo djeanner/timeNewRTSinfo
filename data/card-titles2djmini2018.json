@@ -60138,7 +60138,10 @@
   },
   {
     "title": "suisse:::Dernière édition papier pour «20 minutes»: la fin d’une ère pour le canard des pendulaires",
-    "added_at": "2025-12-23T06:31:59.110Z"
+    "added_at": "2025-12-23T06:31:59.110Z",
+    "removed_at": "2025-12-27T11:11:12.086Z",
+    "duration_minutes": 6039,
+    "duration_str": "4d 4h 39m"
   },
   {
     "title": "sciences:::Contrairement aux humains, l’union décuple la force individuelle des fourmis tisserandes",
@@ -60780,7 +60783,10 @@
   },
   {
     "title": "monde:::De Washington à Pékin, en passant par Kiev, dix correspondants du «Temps» racontent les coulisses de leur travail",
-    "added_at": "2025-12-26T18:18:02.645Z"
+    "added_at": "2025-12-26T18:18:02.645Z",
+    "removed_at": "2025-12-27T10:10:47.569Z",
+    "duration_minutes": 952,
+    "duration_str": "15h 52m"
   },
   {
     "title": "suisse:::Lausanne active son plan «Grand froid»",
@@ -60827,15 +60833,24 @@
   },
   {
     "title": "monde:::La Thaïlande et le Cambodge conviennent d'un cessez-le-feu immédiat",
-    "added_at": "2025-12-27T07:24:25.722Z"
+    "added_at": "2025-12-27T07:24:25.722Z",
+    "removed_at": "2025-12-27T11:11:12.086Z",
+    "duration_minutes": 226,
+    "duration_str": "3h 46m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Kim Jong-un loue le sang versé au côté des Russes en Ukraine",
-    "added_at": "2025-12-27T08:04:05.696Z"
+    "added_at": "2025-12-27T08:04:05.696Z",
+    "removed_at": "2025-12-27T10:10:47.569Z",
+    "duration_minutes": 126,
+    "duration_str": "2h 6m"
   },
   {
     "title": "cyber:::«L’Amerzone» et «Syberia», lenteur et contemplation au service de la narration",
-    "added_at": "2025-12-27T08:07:51.778Z"
+    "added_at": "2025-12-27T08:07:51.778Z",
+    "removed_at": "2025-12-27T10:06:56.836Z",
+    "duration_minutes": 119,
+    "duration_str": "1h 59m"
   },
   {
     "title": "monde:::Frappes au Nigeria et religiosité agressive: l'esprit de Noël selon Donald Trump, qui se demande s'il ira au paradis",
@@ -60844,5 +60859,21 @@
   {
     "title": "sport:::La Der de «Sport-Première», et des matchs du samedi soir commentés à la radio",
     "added_at": "2025-12-27T09:00:44.534Z"
+  },
+  {
+    "title": "monde:::Selon Volodymyr Zelensky, la Russie «ne veut pas mettre fin à la guerre»",
+    "added_at": "2025-12-27T10:10:47.569Z"
+  },
+  {
+    "title": "monde:::Des ours et des humains, entre douceur, sacré et menaces: en Roumanie, une drôle de cohabitation qui interroge notre rapport au sauvage",
+    "added_at": "2025-12-27T11:11:12.086Z"
+  },
+  {
+    "title": "monde:::En images – En Roumanie, vivre avec les ours bruns, entre peur, fascination et choix politiques",
+    "added_at": "2025-12-27T11:11:12.086Z"
+  },
+  {
+    "title": "monde:::Présidentielle en Centrafrique: des jeunes déplacés rêvent de paix et d'un avenir meilleur",
+    "added_at": "2025-12-27T11:11:12.086Z"
   }
 ]
