@@ -162142,7 +162142,10 @@
   },
   {
     "title": "Trump targets TV networks in late night Truth Social posts",
-    "added_at": "2025-12-24T09:33:53.065Z"
+    "added_at": "2025-12-24T09:33:53.065Z",
+    "removed_at": "2025-12-27T19:47:37.510Z",
+    "duration_minutes": 4933,
+    "duration_str": "3d 10h 13m"
   },
   {
     "title": "Why so many Americans dislike this fast-growing economy",
@@ -162976,10 +162979,7 @@
   },
   {
     "title": "Video shows aftermath of severe storm in California",
-    "added_at": "2025-12-25T23:50:13.835Z",
-    "removed_at": "2025-12-27T13:06:34.322Z",
-    "duration_minutes": 2236,
-    "duration_str": "1d 13h 16m"
+    "added_at": "2025-12-25T23:50:13.835Z"
   },
   {
     "title": "Russia forces Europe to face the truth: Risk of war is real again",
@@ -163001,10 +163001,7 @@
   },
   {
     "title": "Israeli soldier rams Palestinian man while he’s praying",
-    "added_at": "2025-12-26T02:30:47.318Z",
-    "removed_at": "2025-12-27T06:25:46.429Z",
-    "duration_minutes": 1674,
-    "duration_str": "1d 3h 54m"
+    "added_at": "2025-12-26T02:30:47.318Z"
   },
   {
     "title": "Soon you may be able to type a new Chinese character: the gender-neutral pronoun",
@@ -163292,7 +163289,10 @@
   },
   {
     "title": "At least 15 injured in knife and bleach attack at Japan factory",
-    "added_at": "2025-12-26T18:02:56.204Z"
+    "added_at": "2025-12-26T18:02:56.204Z",
+    "removed_at": "2025-12-27T20:38:41.110Z",
+    "duration_minutes": 1595,
+    "duration_str": "1d 2h 35m"
   },
   {
     "title": "Turkey detains 115 ISIS suspects in raids over alleged attacks linked to the holiday season",
@@ -163328,11 +163328,17 @@
   },
   {
     "title": "Israeli soldier rams Palestinian man",
-    "added_at": "2025-12-26T18:10:32.987Z"
+    "added_at": "2025-12-26T18:10:32.987Z",
+    "removed_at": "2025-12-27T19:51:23.221Z",
+    "duration_minutes": 1540,
+    "duration_str": "1d 1h 40m"
   },
   {
     "title": "Video shows aftermath of California storm",
-    "added_at": "2025-12-26T18:10:32.987Z"
+    "added_at": "2025-12-26T18:10:32.987Z",
+    "removed_at": "2025-12-27T20:00:53.738Z",
+    "duration_minutes": 1550,
+    "duration_str": "1d 1h 50m"
   },
   {
     "title": "Israel becomes first country to formally recognize Somaliland as independent state",
@@ -163599,5 +163605,13 @@
   {
     "title": "New York airports face flurry of flights delays and cancellations",
     "added_at": "2025-12-27T17:50:22.327Z"
+  },
+  {
+    "title": "Russia launches massive attack on Kyiv",
+    "added_at": "2025-12-27T19:47:37.510Z"
+  },
+  {
+    "title": "Taiwan rattled by 7.0 magnitude quake, no major damage reported",
+    "added_at": "2025-12-27T20:38:41.110Z"
   }
 ]
