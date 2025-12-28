@@ -57345,7 +57345,10 @@
   },
   {
     "title": "sport:::La Der de «Sport-Première», et des matchs du samedi soir commentés à la radio",
-    "added_at": "2025-12-27T09:02:23.662Z"
+    "added_at": "2025-12-27T09:02:23.662Z",
+    "removed_at": "2025-12-28T06:07:32.504Z",
+    "duration_minutes": 1265,
+    "duration_str": "21h 5m"
   },
   {
     "title": "monde:::Selon Volodymyr Zelensky, la Russie «ne veut pas mettre fin à la guerre»",
@@ -57381,15 +57384,24 @@
   },
   {
     "title": "monde:::Reconnaissance du Somaliland: les shebab affirment qu'ils combattront l'utilisation du territoire par Israël",
-    "added_at": "2025-12-27T13:18:04.597Z"
+    "added_at": "2025-12-27T13:18:04.597Z",
+    "removed_at": "2025-12-28T06:58:11.060Z",
+    "duration_minutes": 1060,
+    "duration_str": "17h 40m"
   },
   {
     "title": "culture:::Les dix meilleurs films de 2025: nos coups de cœur",
-    "added_at": "2025-12-27T14:18:36.132Z"
+    "added_at": "2025-12-27T14:18:36.132Z",
+    "removed_at": "2025-12-28T07:36:43.036Z",
+    "duration_minutes": 1038,
+    "duration_str": "17h 18m"
   },
   {
     "title": "economie:::Tensions autour de l’avion de combat du futur, l’illustration des difficultés de concrétiser l’Europe de la défense",
-    "added_at": "2025-12-27T16:24:05.072Z"
+    "added_at": "2025-12-27T16:24:05.072Z",
+    "removed_at": "2025-12-28T06:53:24.086Z",
+    "duration_minutes": 869,
+    "duration_str": "14h 29m"
   },
   {
     "title": "economie:::Heidi, entre hymne à la montagne et rejet du progrès",
@@ -57397,7 +57409,10 @@
   },
   {
     "title": "culture:::Etre moderne: une série documentaire d’Arte propose une exploration artistique d’Istanbul au Caire",
-    "added_at": "2025-12-27T17:43:54.542Z"
+    "added_at": "2025-12-27T17:43:54.542Z",
+    "removed_at": "2025-12-28T08:03:12.282Z",
+    "duration_minutes": 859,
+    "duration_str": "14h 19m"
   },
   {
     "title": "culture:::Dans «Vertu et Rosalinde», Anne Serre enchâsse trente petites histoires merveilleuses pour conjurer la mélancolie",
@@ -57410,5 +57425,53 @@
   {
     "title": "monde:::Guerre en Ukraine – Les dirigeants européens et canadien assurent Volodymyr Zelensky de «leur plein soutien»",
     "added_at": "2025-12-27T21:35:46.791Z"
+  },
+  {
+    "title": "monde:::Volodymyr Zelensky doit s'entretenir avec Donald Trump dimanche en Floride",
+    "added_at": "2025-12-28T06:07:32.504Z",
+    "removed_at": "2025-12-28T06:12:20.858Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "monde:::Volodymyr Zelensky doit s'entretenir avec Donald Trump ce dimanche en Floride",
+    "added_at": "2025-12-28T06:12:20.858Z",
+    "removed_at": "2025-12-28T06:14:46.076Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::Volodymyr Zelensky en Floride pour rencontrer Donald Trump",
+    "added_at": "2025-12-28T06:14:46.076Z"
+  },
+  {
+    "title": "suisse:::Jour de vote pour la diaspora kosovare de Suisse",
+    "added_at": "2025-12-28T06:31:40.914Z",
+    "removed_at": "2025-12-28T06:41:17.152Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "suisse:::Jour de vote pour la diaspora kosovare de Suisse",
+    "added_at": "2025-12-28T06:41:17.152Z"
+  },
+  {
+    "title": "economie:::L’avion de combat du futur, illustration des difficultés à concrétiser l’Europe de la défense",
+    "added_at": "2025-12-28T06:53:24.086Z"
+  },
+  {
+    "title": "monde:::Les shebab affirment qu’ils combattront toute utilisation du territoire du Somaliland par Israël",
+    "added_at": "2025-12-28T06:58:11.060Z",
+    "removed_at": "2025-12-28T07:00:32.570Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "suisse:::Pour Annalena Baerbock, «la Genève internationale n’est pas en danger»",
+    "added_at": "2025-12-28T07:36:43.036Z"
+  },
+  {
+    "title": "cyber:::«Monument Valley», un casse-tête tridimensionnel",
+    "added_at": "2025-12-28T08:03:12.282Z"
   }
 ]
