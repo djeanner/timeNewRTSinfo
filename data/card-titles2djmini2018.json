@@ -60873,7 +60873,10 @@
   },
   {
     "title": "sport:::La Der de «Sport-Première», et des matchs du samedi soir commentés à la radio",
-    "added_at": "2025-12-27T09:00:44.534Z"
+    "added_at": "2025-12-27T09:00:44.534Z",
+    "removed_at": "2025-12-28T06:07:38.800Z",
+    "duration_minutes": 1266,
+    "duration_str": "21h 6m"
   },
   {
     "title": "monde:::Selon Volodymyr Zelensky, la Russie «ne veut pas mettre fin à la guerre»",
@@ -60913,7 +60916,10 @@
   },
   {
     "title": "culture:::Les dix meilleurs films de 2025: nos coups de cœur",
-    "added_at": "2025-12-27T14:18:27.219Z"
+    "added_at": "2025-12-27T14:18:27.219Z",
+    "removed_at": "2025-12-28T06:32:09.921Z",
+    "duration_minutes": 973,
+    "duration_str": "16h 13m"
   },
   {
     "title": "economie:::Tensions autour de l’avion de combat du futur, l’illustration des difficultés de concrétiser l’Europe de la défense",
@@ -60938,5 +60944,27 @@
   {
     "title": "monde:::Guerre en Ukraine – Les dirigeants européens et canadien assurent Volodymyr Zelensky de «leur plein soutien»",
     "added_at": "2025-12-27T21:35:28.660Z"
+  },
+  {
+    "title": "monde:::Volodymyr Zelensky doit s'entretenir avec Donald Trump dimanche en Floride",
+    "added_at": "2025-12-28T06:07:38.800Z",
+    "removed_at": "2025-12-28T06:11:23.189Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "monde:::Volodymyr Zelensky doit s'entretenir avec Donald Trump ce dimanche en Floride",
+    "added_at": "2025-12-28T06:11:23.189Z",
+    "removed_at": "2025-12-28T06:13:19.583Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "monde:::Volodymyr Zelensky en Floride pour rencontrer Donald Trump",
+    "added_at": "2025-12-28T06:13:19.583Z"
+  },
+  {
+    "title": "suisse:::Jour de vote pour la diaspora kosovare de Suisse",
+    "added_at": "2025-12-28T06:32:09.921Z"
   }
 ]
