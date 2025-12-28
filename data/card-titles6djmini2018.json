@@ -78874,7 +78874,10 @@
   },
   {
     "title": "Russia-Ukraine war: List of key events, day 1,403",
-    "added_at": "2025-12-28T00:57:45.168Z"
+    "added_at": "2025-12-28T00:57:45.168Z",
+    "removed_at": "2025-12-28T21:11:37.533Z",
+    "duration_minutes": 1213,
+    "duration_str": "20h 13m"
   },
   {
     "title": "Two killed as Russia hammers Ukraine before Trump-Zelenskyy meeting",
@@ -78918,11 +78921,17 @@
   },
   {
     "title": "Kosovo votes in snap election in bid to end a year of political deadlock",
-    "added_at": "2025-12-28T07:28:57.886Z"
+    "added_at": "2025-12-28T07:28:57.886Z",
+    "removed_at": "2025-12-28T22:02:40.166Z",
+    "duration_minutes": 873,
+    "duration_str": "14h 33m"
   },
   {
     "title": "Central African Republic votes as Touadera seeks third presidential term",
-    "added_at": "2025-12-28T08:35:05.266Z"
+    "added_at": "2025-12-28T08:35:05.266Z",
+    "removed_at": "2025-12-28T22:31:01.778Z",
+    "duration_minutes": 835,
+    "duration_str": "13h 55m"
   },
   {
     "title": "Guinea votes in first polls since 2021 coup, military leader likely to win",
@@ -78985,10 +78994,7 @@
   },
   {
     "title": "Somalia condemns Israel’s recognition of Somaliland as ‘naked invasion’",
-    "added_at": "2025-12-28T14:13:31.188Z",
-    "removed_at": "2025-12-28T19:08:38.142Z",
-    "duration_minutes": 295,
-    "duration_str": "4h 55m"
+    "added_at": "2025-12-28T14:13:31.188Z"
   },
   {
     "title": "Niger’s military rulers order ‘general mobilisation’ against armed groups",
@@ -79018,5 +79024,27 @@
   {
     "title": "Kyrgios beats Sabalenka 6-3, 6-3 in ‘Battle of the Sexes’ tennis showdown",
     "added_at": "2025-12-28T18:40:16.536Z"
+  },
+  {
+    "title": "Kosovo’s ruling party wins vote but government formation still unclear",
+    "added_at": "2025-12-28T21:56:59.894Z",
+    "removed_at": "2025-12-28T22:55:34.091Z",
+    "duration_minutes": 58,
+    "duration_str": "58m"
+  },
+  {
+    "title": "Mozambique win first ever AFCON game while Algeria reach last 16",
+    "added_at": "2025-12-28T22:31:01.778Z",
+    "removed_at": "2025-12-28T22:42:20.923Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "Mozambique win first ever AFCON game, while Algeria reach last 16",
+    "added_at": "2025-12-28T22:42:20.923Z"
+  },
+  {
+    "title": "Kosovo’s leading party wins vote but government formation still unclear",
+    "added_at": "2025-12-28T22:55:34.091Z"
   }
 ]
