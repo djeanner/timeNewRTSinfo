@@ -57010,10 +57010,7 @@
   },
   {
     "title": "monde:::Aux Etats-Unis, le mouvement trumpiste se perd en querelles internes",
-    "added_at": "2025-12-25T07:02:51.697Z",
-    "removed_at": "2025-12-26T08:01:37.189Z",
-    "duration_minutes": 1498,
-    "duration_str": "1d 58m"
+    "added_at": "2025-12-25T07:02:51.697Z"
   },
   {
     "title": "economie:::Toutes ces touches bien helvétiques qui font tourner notre économie comme une horloge",
@@ -57269,14 +57266,14 @@
   },
   {
     "title": "suisse:::Dans les villes suisses, les feux d’artifice de la Saint-Sylvestre n’ont plus la cote",
-    "added_at": "2025-12-26T16:59:51.940Z"
+    "added_at": "2025-12-26T16:59:51.940Z",
+    "removed_at": "2025-12-29T11:19:03.283Z",
+    "duration_minutes": 3979,
+    "duration_str": "2d 18h 19m"
   },
   {
     "title": "monde:::De Washington à Pékin, en passant par Kiev, dix correspondants du «Temps» racontent les coulisses de leur travail",
-    "added_at": "2025-12-26T18:17:13.036Z",
-    "removed_at": "2025-12-27T10:12:16.979Z",
-    "duration_minutes": 955,
-    "duration_str": "15h 55m"
+    "added_at": "2025-12-26T18:17:13.036Z"
   },
   {
     "title": "suisse:::Lausanne active son plan «Grand froid»",
@@ -57368,7 +57365,10 @@
   },
   {
     "title": "monde:::Des ours et des humains, entre douceur, sacré et menaces: en Roumanie, une drôle de cohabitation qui interroge notre rapport au sauvage",
-    "added_at": "2025-12-27T11:12:45.251Z"
+    "added_at": "2025-12-27T11:12:45.251Z",
+    "removed_at": "2025-12-29T10:23:33.152Z",
+    "duration_minutes": 2830,
+    "duration_str": "1d 23h 10m"
   },
   {
     "title": "monde:::En images – En Roumanie, vivre avec les ours bruns, entre peur, fascination et choix politiques",
@@ -57414,7 +57414,10 @@
   },
   {
     "title": "economie:::Heidi, entre hymne à la montagne et rejet du progrès",
-    "added_at": "2025-12-27T16:48:25.662Z"
+    "added_at": "2025-12-27T16:48:25.662Z",
+    "removed_at": "2025-12-29T10:42:51.575Z",
+    "duration_minutes": 2514,
+    "duration_str": "1d 17h 54m"
   },
   {
     "title": "culture:::Etre moderne: une série documentaire d’Arte propose une exploration artistique d’Istanbul au Caire",
@@ -57585,7 +57588,10 @@
   },
   {
     "title": "culture:::Alpenzu, la vie à 1778 mètres – épisode 2: «Faire sans»",
-    "added_at": "2025-12-28T19:14:53.974Z"
+    "added_at": "2025-12-28T19:14:53.974Z",
+    "removed_at": "2025-12-29T10:40:30.002Z",
+    "duration_minutes": 925,
+    "duration_str": "15h 25m"
   },
   {
     "title": "sport:::A Semmering, Mikaela Shiffrin remporte son cinquième slalom de la saison devant une brillante Camille Rast",
@@ -57617,7 +57623,10 @@
   },
   {
     "title": "monde:::En direct, Guerre en Ukraine – Donald Trump évoque «de nombreux progrès» après sa rencontre avec Volodymyr Zelensky",
-    "added_at": "2025-12-29T03:23:05.783Z"
+    "added_at": "2025-12-29T03:23:05.783Z",
+    "removed_at": "2025-12-29T10:40:30.002Z",
+    "duration_minutes": 437,
+    "duration_str": "7h 17m"
   },
   {
     "title": "monde:::Ire de Taiwan après l'annonce d'exercices militaires chinois prochains autour de l'île",
@@ -57635,7 +57644,10 @@
   },
   {
     "title": "monde:::La Chine annonce le début d'exercices de tirs à munitions réelles autour de Taïwan",
-    "added_at": "2025-12-29T05:11:48.130Z"
+    "added_at": "2025-12-29T05:11:48.130Z",
+    "removed_at": "2025-12-29T10:26:00.761Z",
+    "duration_minutes": 314,
+    "duration_str": "5h 14m"
   },
   {
     "title": "economie:::En 2025, un client de la gestion de fortune suisse a gagné en moyenne 6%",
@@ -57648,5 +57660,32 @@
   {
     "title": "cyber:::Comment votre navigateur web siphonne en secret vos conversations avec des IA",
     "added_at": "2025-12-29T06:24:23.443Z"
+  },
+  {
+    "title": "economie:::AT1 de Credit Suisse: ce qui se passera si l’arrêt du TAF est confirmé, ou annulé",
+    "added_at": "2025-12-29T09:32:48.667Z"
+  },
+  {
+    "title": "sport:::Pour les fêtes, pas de vraie coupure, mais de très beaux biscuits pour Ditaji Kambundji",
+    "added_at": "2025-12-29T10:40:30.002Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Washington et Moscou optimistes, Volodymyr Zelensky réclame plus de garanties de sécurité",
+    "added_at": "2025-12-29T10:40:30.002Z",
+    "removed_at": "2025-12-29T11:16:37.674Z",
+    "duration_minutes": 36,
+    "duration_str": "36m"
+  },
+  {
+    "title": "monde:::Israël, nouvelle obsession du monde MAGA",
+    "added_at": "2025-12-29T10:52:31.873Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Donald Trump convaincu que Vladimir Poutine veut le bien de l'Ukraine, Volodymyr Zelensky réclame plus de garanties de sécurité",
+    "added_at": "2025-12-29T11:16:37.674Z"
+  },
+  {
+    "title": "suisse:::En raison du froid, la Ville de Genève ouvre 80 places d’hébergement d’urgence en plus",
+    "added_at": "2025-12-29T11:19:03.283Z"
   }
 ]
