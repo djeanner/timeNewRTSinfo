@@ -60957,7 +60957,10 @@
   },
   {
     "title": "culture:::«Alpenzu – La vie à 1778 mètres», un feuilleton d’Isabelle Mayault. Premier épisode: «Une très vieille maison»",
-    "added_at": "2025-12-27T19:26:51.080Z"
+    "added_at": "2025-12-27T19:26:51.080Z",
+    "removed_at": "2025-12-29T06:25:34.973Z",
+    "duration_minutes": 2098,
+    "duration_str": "1d 10h 58m"
   },
   {
     "title": "monde:::Guerre en Ukraine – Les dirigeants européens et canadien assurent Volodymyr Zelensky de «leur plein soutien»",
@@ -61166,5 +61169,9 @@
   {
     "title": "economie:::En 2025, un client de la gestion de fortune suisse a gagné en moyenne 6%",
     "added_at": "2025-12-29T05:17:26.984Z"
+  },
+  {
+    "title": "cyber:::Comment votre navigateur web siphonne en secret vos conversations avec des IA",
+    "added_at": "2025-12-29T06:23:39.035Z"
   }
 ]
