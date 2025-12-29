@@ -180055,7 +180055,10 @@
   },
   {
     "title": "Comment les contenus haineux se sont installés parmi les podcasts les plus écoutés de France",
-    "added_at": "2025-11-27T16:26:54.013Z"
+    "added_at": "2025-11-27T16:26:54.013Z",
+    "removed_at": "2025-12-29T01:07:56.548Z",
+    "duration_minutes": 45161,
+    "duration_str": "31d 8h 41m"
   },
   {
     "title": "« Trump a du mal à imaginer un Poutine mû par l’idéologie. Il prête au Russe un empirisme terre à terre de promoteur immobilier »",
@@ -188620,7 +188623,10 @@
   },
   {
     "title": "Les fausses promesses du biogaz et des méthaniseurs géants des grandes entreprises pétrolières",
-    "added_at": "2025-12-10T18:28:18.411Z"
+    "added_at": "2025-12-10T18:28:18.411Z",
+    "removed_at": "2025-12-29T01:21:05.834Z",
+    "duration_minutes": 26332,
+    "duration_str": "18d 6h 52m"
   },
   {
     "title": "Simplification : la Commission européenne s’attaque aux règles de protection de l’environnement",
@@ -195974,10 +195980,7 @@
   },
   {
     "title": "Amis malgré soixante ans d’écart : « Je pouvais lui confier des choses que je n’aurais jamais dites à d’autres »",
-    "added_at": "2025-12-21T20:13:33.342Z",
-    "removed_at": "2025-12-28T23:01:14.196Z",
-    "duration_minutes": 10247,
-    "duration_str": "7d 2h 47m"
+    "added_at": "2025-12-21T20:13:33.342Z"
   },
   {
     "title": "Maroc-Comores : un penalty manqué et leur capitaine blessé, les Lions de l’Atlas en difficulté lors du match d’ouverture de la CAN 2025",
@@ -199212,9 +199215,9 @@
   {
     "title": "Pourquoi les inégalités de patrimoine augmentent-elles ? Comprendre en trois minutes",
     "added_at": "2025-12-27T12:02:17.828Z",
-    "removed_at": "2025-12-28T22:57:29.756Z",
-    "duration_minutes": 2095,
-    "duration_str": "1d 10h 55m"
+    "removed_at": "2025-12-29T01:21:05.834Z",
+    "duration_minutes": 2238,
+    "duration_str": "1d 13h 18m"
   },
   {
     "title": "Comment l’extrême droite est-elle arrivée au pouvoir au Chili ? Comprendre en trois minutes",
@@ -199237,9 +199240,9 @@
   {
     "title": "Didier Breton, démographe : « Dans les générations futures, la fécondité sera en baisse »",
     "added_at": "2025-12-27T13:08:24.752Z",
-    "removed_at": "2025-12-28T23:05:00.056Z",
-    "duration_minutes": 2036,
-    "duration_str": "1d 9h 56m"
+    "removed_at": "2025-12-29T01:22:59.758Z",
+    "duration_minutes": 2174,
+    "duration_str": "1d 12h 14m"
   },
   {
     "title": "« Je suis passé par la Tunisie », « Je suis passé par Marseille » : les détours des supporteurs pour avoir un visa et assister à la Coupe d’Afrique des nations au Maroc",
@@ -199258,9 +199261,9 @@
   {
     "title": "Les films préférés du « Monde » en 2025",
     "added_at": "2025-12-27T14:26:03.293Z",
-    "removed_at": "2025-12-28T23:03:10.301Z",
-    "duration_minutes": 1957,
-    "duration_str": "1d 8h 37m"
+    "removed_at": "2025-12-29T01:21:05.834Z",
+    "duration_minutes": 2095,
+    "duration_str": "1d 10h 55m"
   },
   {
     "title": "Dans le Donbass sous contrôle ukrainien, une terre de ruines et de chagrin",
@@ -199783,10 +199786,7 @@
   },
   {
     "title": "Brigitte Bardot est morte : l’histoire d’une icône",
-    "added_at": "2025-12-28T13:12:58.430Z",
-    "removed_at": "2025-12-28T23:01:14.196Z",
-    "duration_minutes": 588,
-    "duration_str": "9h 48m"
+    "added_at": "2025-12-28T13:12:58.430Z"
   },
   {
     "title": "Joseph Perrier, le « roi » de Châlons-en-Champagne, fête son bicentenaire",
@@ -200169,10 +200169,21 @@
   },
   {
     "title": "CAN 2025 : l’Algérie se qualifie, le Cameroun tient tête à la Côte d’Ivoire, le Mozambique remporte le premier match de son histoire dans la compétition",
-    "added_at": "2025-12-28T22:38:34.692Z"
+    "added_at": "2025-12-28T22:38:34.692Z",
+    "removed_at": "2025-12-28T23:10:45.865Z",
+    "duration_minutes": 32,
+    "duration_str": "32m"
   },
   {
     "title": "EN DIRECT, guerre en Ukraine : Donald Trump et Volodymyr Zelensky assurent avoir fait de « nombreux progrès » pour « mettre fin à la guerre »",
     "added_at": "2025-12-28T23:03:10.301Z"
+  },
+  {
+    "title": "CAN 2025 : l’Algérie se qualifie, le Cameroun tient tête à la Côte d’Ivoire, le Mozambique remporte le premier match de son histoire dans la compétition",
+    "added_at": "2025-12-28T23:10:45.865Z"
+  },
+  {
+    "title": "« De sex-symbol à figure de l’extrême droite » : la mort de Brigitte Bardot vue par la presse étrangère",
+    "added_at": "2025-12-29T01:21:05.834Z"
   }
 ]
