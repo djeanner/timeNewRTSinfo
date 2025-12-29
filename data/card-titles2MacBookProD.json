@@ -51045,10 +51045,7 @@
   },
   {
     "title": "suisse:::Découvrez «Le Temps» pour 1 franc et soutenez une information fiable et indépendante",
-    "added_at": "2025-12-01T16:58:00.717Z",
-    "removed_at": "2025-12-15T10:32:50.775Z",
-    "duration_minutes": 19774,
-    "duration_str": "13d 17h 34m"
+    "added_at": "2025-12-01T16:58:00.717Z"
   },
   {
     "title": "suisse:::A Genève, duel confirmé entre Olivier Jornot et Pierre Bayenet pour le poste de procureur général",
@@ -57546,7 +57543,10 @@
   },
   {
     "title": "culture:::Brigitte Bardot, actrice française de légende, est morte à l’âge de 91 ans",
-    "added_at": "2025-12-28T10:16:05.589Z"
+    "added_at": "2025-12-28T10:16:05.589Z",
+    "removed_at": "2025-12-29T19:10:38.478Z",
+    "duration_minutes": 1974,
+    "duration_str": "1d 8h 54m"
   },
   {
     "title": "economie:::Quand les vignerons du bordeaux et du cognac en viennent à arracher leurs propres vignes",
@@ -57671,7 +57671,10 @@
   },
   {
     "title": "cyber:::Comment votre navigateur web siphonne en secret vos conversations avec des IA",
-    "added_at": "2025-12-29T06:24:23.443Z"
+    "added_at": "2025-12-29T06:24:23.443Z",
+    "removed_at": "2025-12-29T17:26:41.541Z",
+    "duration_minutes": 662,
+    "duration_str": "11h 2m"
   },
   {
     "title": "economie:::AT1 de Credit Suisse: ce qui se passera si l’arrêt du TAF est confirmé, ou annulé",
@@ -57732,7 +57735,10 @@
   },
   {
     "title": "culture:::Tristesse, mélancolie, ennui: un Gerhard Richter sans vie à la Fondation Vuitton à Paris",
-    "added_at": "2025-12-29T14:44:41.206Z"
+    "added_at": "2025-12-29T14:44:41.206Z",
+    "removed_at": "2025-12-29T18:12:36.741Z",
+    "duration_minutes": 207,
+    "duration_str": "3h 27m"
   },
   {
     "title": "economie:::Pourquoi l’or, l’argent et le cuivre ont atteint des records cette année",
@@ -57756,5 +57762,38 @@
   {
     "title": "suisse:::Trois quarts des parlementaires fédéraux ne divulguent pas tous leurs revenus, affirme Lobbywatch",
     "added_at": "2025-12-29T16:43:02.043Z"
+  },
+  {
+    "title": "sciences:::Avec le réchauffement, les espèces alpines se retrouvent au sommet sans disparaître… pour l’instant",
+    "added_at": "2025-12-29T17:26:41.541Z",
+    "removed_at": "2025-12-29T17:31:29.559Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "sciences:::Avec le réchauffement, les espèces alpines se concentrent sur les cimes sans disparaître… pour l’instant",
+    "added_at": "2025-12-29T17:31:29.559Z",
+    "removed_at": "2025-12-29T17:38:46.249Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "sciences:::Avec le réchauffement, les espèces alpines s'entremêlent sans disparaître… pour l’instant",
+    "added_at": "2025-12-29T17:38:46.249Z"
+  },
+  {
+    "title": "monde:::Les Etats-Unis promettent 2 milliards de dollars à l’ONU pour l’humanitaire en 2026, bien moins qu’en 2024",
+    "added_at": "2025-12-29T18:15:03.935Z",
+    "removed_at": "2025-12-29T18:56:07.582Z",
+    "duration_minutes": 41,
+    "duration_str": "41m"
+  },
+  {
+    "title": "monde:::Le Kosovo sort de la crise grâce au vote de la diaspora pour Albin Kurti, «devenu son propre mythe»",
+    "added_at": "2025-12-29T18:56:07.582Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient − Recevant Benyamin Netanyahou, Donald Trump répète que le Hamas doit être désarmé",
+    "added_at": "2025-12-29T18:56:07.582Z"
   }
 ]
