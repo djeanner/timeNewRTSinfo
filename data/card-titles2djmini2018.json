@@ -32572,7 +32572,10 @@
   },
   {
     "title": "monde:::«L’humour contre la rumeur»: comment la recette de Taïwan contre la désinformation chinoise pourrait inspirer l’Europe",
-    "added_at": "2025-09-14T08:52:21.359Z"
+    "added_at": "2025-09-14T08:52:21.359Z",
+    "removed_at": "2025-12-29T16:43:37.339Z",
+    "duration_minutes": 153111,
+    "duration_str": "106d 7h 51m"
   },
   {
     "title": "economie:::Valérie Lemaigre, cheffe économiste de la BCGE: «La volonté de Donald Trump de prendre le contrôle de la Fed est très inquiétante»",
@@ -54619,10 +54622,7 @@
   },
   {
     "title": "suisse:::Découvrez «Le Temps» pour 1 franc et soutenez une information fiable et indépendante",
-    "added_at": "2025-12-01T16:57:14.461Z",
-    "removed_at": "2025-12-15T10:31:05.819Z",
-    "duration_minutes": 19773,
-    "duration_str": "13d 17h 33m"
+    "added_at": "2025-12-01T16:57:14.461Z"
   },
   {
     "title": "suisse:::A Genève, duel confirmé entre Olivier Jornot et Pierre Bayenet pour le poste de procureur général",
@@ -61189,11 +61189,17 @@
   },
   {
     "title": "economie:::En 2025, un client de la gestion de fortune suisse a gagné en moyenne 6%",
-    "added_at": "2025-12-29T05:17:26.984Z"
+    "added_at": "2025-12-29T05:17:26.984Z",
+    "removed_at": "2025-12-29T16:41:42.556Z",
+    "duration_minutes": 684,
+    "duration_str": "11h 24m"
   },
   {
     "title": "cyber:::Comment votre navigateur web siphonne en secret vos conversations avec des IA",
-    "added_at": "2025-12-29T06:23:39.035Z"
+    "added_at": "2025-12-29T06:23:39.035Z",
+    "removed_at": "2025-12-29T17:27:02.989Z",
+    "duration_minutes": 663,
+    "duration_str": "11h 3m"
   },
   {
     "title": "economie:::AT1 de Credit Suisse: ce qui se passera si l’arrêt du TAF est confirmé, ou annulé",
@@ -61240,7 +61246,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Alors qu’il discute avec Donald Trump, Vladimir Poutine affirme que «les troupes avancent»",
-    "added_at": "2025-12-29T14:18:01.642Z"
+    "added_at": "2025-12-29T14:18:01.642Z",
+    "removed_at": "2025-12-29T15:56:22.282Z",
+    "duration_minutes": 98,
+    "duration_str": "1h 38m"
   },
   {
     "title": "culture:::«Sur un air de blues», la fausse vraie histoire d’un vrai faux Neil Diamond",
@@ -61260,5 +61269,38 @@
   {
     "title": "monde:::Simulation de blocus des ports, tirs à munitions réelles: la Chine lance un exercice militaire majeur autour de Taïwan",
     "added_at": "2025-12-29T15:35:31.466Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – La Russie accuse l'Ukraine d'avoir visé une résidence de Vladimir Poutine",
+    "added_at": "2025-12-29T15:56:22.282Z",
+    "removed_at": "2025-12-29T16:03:57.315Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – La Russie accuse l’Ukraine d’avoir visé une résidence de Vladimir Poutine",
+    "added_at": "2025-12-29T16:03:57.315Z"
+  },
+  {
+    "title": "suisse:::Trois quarts des parlementaires fédéraux ne divulguent pas tous leurs revenus, affirme Lobbywatch",
+    "added_at": "2025-12-29T16:41:42.556Z"
+  },
+  {
+    "title": "sciences:::Avec le réchauffement, les espèces alpines se retrouvent au sommet sans disparaître… pour l’instant",
+    "added_at": "2025-12-29T17:27:02.989Z",
+    "removed_at": "2025-12-29T17:30:48.560Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "sciences:::Avec le réchauffement, les espèces alpines se concentrent sur les cimes sans disparaître… pour l’instant",
+    "added_at": "2025-12-29T17:30:48.560Z",
+    "removed_at": "2025-12-29T17:38:21.745Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "sciences:::Avec le réchauffement, les espèces alpines s'entremêlent sans disparaître… pour l’instant",
+    "added_at": "2025-12-29T17:38:21.745Z"
   }
 ]
