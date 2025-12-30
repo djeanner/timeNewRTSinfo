@@ -80017,7 +80017,10 @@
   },
   {
     "title": "La Ville de Lausanne augmente temporairement son accueil d'urgence destiné aux personnes sans-abri",
-    "added_at": "2025-12-26T16:58:40.832Z"
+    "added_at": "2025-12-26T16:58:40.832Z",
+    "removed_at": "2025-12-30T05:33:10.561Z",
+    "duration_minutes": 5074,
+    "duration_str": "3d 12h 34m"
   },
   {
     "title": "Tibits célèbre 25 ans de créativité dans la gastronomie végétarienne",
@@ -80550,5 +80553,9 @@
   {
     "title": "Réunis en Floride, Donald Trump et Benjamin Netanyahu ont parlé de l'Iran et de Gaza",
     "added_at": "2025-12-29T22:12:42.104Z"
+  },
+  {
+    "title": "Politique, sport ou culture, ces personnalités suisses qui sont décédées en 2025",
+    "added_at": "2025-12-30T05:33:10.561Z"
   }
 ]
