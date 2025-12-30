@@ -51279,11 +51279,17 @@
   },
   {
     "title": "La station des Bugnenets-Savagnières a pu ouvrir grâce à son nouveau système d'enneigement",
-    "added_at": "2025-12-27T20:01:38.246Z"
+    "added_at": "2025-12-27T20:01:38.246Z",
+    "removed_at": "2025-12-30T20:54:37.334Z",
+    "duration_minutes": 4372,
+    "duration_str": "3d 52m"
   },
   {
     "title": "Les traceurs GPS, outils de sécurité pour les véhicules à double tranchant",
-    "added_at": "2025-12-27T20:04:03.709Z"
+    "added_at": "2025-12-27T20:04:03.709Z",
+    "removed_at": "2025-12-30T21:47:53.366Z",
+    "duration_minutes": 4423,
+    "duration_str": "3d 1h 43m"
   },
   {
     "title": "Lausanne a activé son plan grand froid. Ce n'est pas le cas à Genève",
@@ -51353,7 +51359,10 @@
   },
   {
     "title": "L'actrice française Brigitte Bardot est morte à l'âge de 91 ans",
-    "added_at": "2025-12-28T09:54:21.572Z"
+    "added_at": "2025-12-28T09:54:21.572Z",
+    "removed_at": "2025-12-30T21:04:19.103Z",
+    "duration_minutes": 3549,
+    "duration_str": "2d 11h 9m"
   },
   {
     "title": "Le mythe Brigitte Bardot",
@@ -51398,7 +51407,10 @@
   },
   {
     "title": "L’ancien syndic de Lausanne Daniel Brélaz est décédé des suites d'un arrêt cardiaque",
-    "added_at": "2025-12-28T14:20:08.933Z"
+    "added_at": "2025-12-28T14:20:08.933Z",
+    "removed_at": "2025-12-30T21:04:19.103Z",
+    "duration_minutes": 3284,
+    "duration_str": "2d 6h 44m"
   },
   {
     "title": "Emotion dans le canton de Vaud après le décès de Daniel Brélaz",
@@ -51791,5 +51803,28 @@
   {
     "title": "Le tourisme d'achat résiste aux mesures douanières",
     "added_at": "2025-12-30T19:58:45.882Z"
+  },
+  {
+    "title": "Etendre les horaires des généralistes pour désengorger les hôpitaux, idée mal reçue par les concernés",
+    "added_at": "2025-12-30T20:54:37.334Z",
+    "removed_at": "2025-12-30T21:06:41.385Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "Pourquoi Donald Trump \"purge\" le corps diplomatique",
+    "added_at": "2025-12-30T21:04:19.103Z"
+  },
+  {
+    "title": "Etendre les horaires des généralistes pour désengorger les hôpitaux, une idée mal reçue par les concernés",
+    "added_at": "2025-12-30T21:06:41.385Z"
+  },
+  {
+    "title": "Fribourg-Gottéron affronte Davos en demi-finale de la Coupe Spengler: interview de John Gobbi",
+    "added_at": "2025-12-30T21:23:37.321Z"
+  },
+  {
+    "title": "Davos se \"venge\" de Fribourg et défiera les US Selects en finale",
+    "added_at": "2025-12-30T21:47:53.366Z"
   }
 ]
