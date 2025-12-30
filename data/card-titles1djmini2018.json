@@ -80273,11 +80273,17 @@
   },
   {
     "title": "La station des Bugnenets-Savagnières a pu ouvrir grâce à son nouveau système d'enneigement",
-    "added_at": "2025-12-27T20:00:52.856Z"
+    "added_at": "2025-12-27T20:00:52.856Z",
+    "removed_at": "2025-12-30T20:54:16.220Z",
+    "duration_minutes": 4373,
+    "duration_str": "3d 53m"
   },
   {
     "title": "Les traceurs GPS, outils de sécurité pour les véhicules à double tranchant",
-    "added_at": "2025-12-27T20:02:42.920Z"
+    "added_at": "2025-12-27T20:02:42.920Z",
+    "removed_at": "2025-12-30T21:49:04.265Z",
+    "duration_minutes": 4426,
+    "duration_str": "3d 1h 46m"
   },
   {
     "title": "Lausanne a activé son plan grand froid. Ce n'est pas le cas à Genève",
@@ -80347,7 +80353,10 @@
   },
   {
     "title": "L'actrice française Brigitte Bardot est morte à l'âge de 91 ans",
-    "added_at": "2025-12-28T09:54:31.145Z"
+    "added_at": "2025-12-28T09:54:31.145Z",
+    "removed_at": "2025-12-30T21:05:35.528Z",
+    "duration_minutes": 3551,
+    "duration_str": "2d 11h 11m"
   },
   {
     "title": "Le mythe Brigitte Bardot",
@@ -80392,7 +80401,10 @@
   },
   {
     "title": "L’ancien syndic de Lausanne Daniel Brélaz est décédé des suites d'un arrêt cardiaque",
-    "added_at": "2025-12-28T14:19:09.885Z"
+    "added_at": "2025-12-28T14:19:09.885Z",
+    "removed_at": "2025-12-30T21:16:55.325Z",
+    "duration_minutes": 3297,
+    "duration_str": "2d 6h 57m"
   },
   {
     "title": "Emotion dans le canton de Vaud après le décès de Daniel Brélaz",
@@ -80440,7 +80452,10 @@
   },
   {
     "title": "Décès du politicien lausannois Daniel Brélaz",
-    "added_at": "2025-12-28T18:19:23.685Z"
+    "added_at": "2025-12-28T18:19:23.685Z",
+    "removed_at": "2025-12-30T20:03:12.813Z",
+    "duration_minutes": 2983,
+    "duration_str": "2d 1h 43m"
   },
   {
     "title": "Un appel \"très productif\" entre Trump et Poutine, avant un tête à tête avec Zelensky en Floride",
@@ -80496,10 +80511,7 @@
   },
   {
     "title": "Lisa Mazzone, présidente des Vert-e-s, revient sur la carrière de Daniel Brélaz",
-    "added_at": "2025-12-29T06:19:55.112Z",
-    "removed_at": "2025-12-30T19:23:23.097Z",
-    "duration_minutes": 2223,
-    "duration_str": "1d 13h 3m"
+    "added_at": "2025-12-29T06:19:55.112Z"
   },
   {
     "title": "La France durcit les peines pour les grands excès de vitesse",
@@ -80785,5 +80797,28 @@
   {
     "title": "Le tourisme d'achat résiste aux mesures douanières",
     "added_at": "2025-12-30T19:57:26.401Z"
+  },
+  {
+    "title": "Etendre les horaires des généralistes pour désengorger les hôpitaux, idée mal reçue par les concernés",
+    "added_at": "2025-12-30T20:54:16.220Z",
+    "removed_at": "2025-12-30T21:07:25.437Z",
+    "duration_minutes": 13,
+    "duration_str": "13m"
+  },
+  {
+    "title": "Pourquoi Donald Trump \"purge\" le corps diplomatique",
+    "added_at": "2025-12-30T21:05:35.528Z"
+  },
+  {
+    "title": "Etendre les horaires des généralistes pour désengorger les hôpitaux, une idée mal reçue par les concernés",
+    "added_at": "2025-12-30T21:07:25.437Z"
+  },
+  {
+    "title": "Fribourg-Gottéron affronte Davos en demi-finale de la Coupe Spengler: interview de John Gobbi",
+    "added_at": "2025-12-30T21:24:25.828Z"
+  },
+  {
+    "title": "Davos se \"venge\" de Fribourg et défiera les US Selects en finale",
+    "added_at": "2025-12-30T21:49:04.265Z"
   }
 ]
