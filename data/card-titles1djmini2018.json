@@ -79939,7 +79939,10 @@
   },
   {
     "title": "Des pluies diluviennes s'abattent sur le sud de la Californie",
-    "added_at": "2025-12-26T14:23:34.813Z"
+    "added_at": "2025-12-26T14:23:34.813Z",
+    "removed_at": "2025-12-31T12:22:39.199Z",
+    "duration_minutes": 7079,
+    "duration_str": "4d 21h 59m"
   },
   {
     "title": "L'abaissement des taxes douanières est rétroactif, à quelques conditions près",
@@ -80318,7 +80321,10 @@
   },
   {
     "title": "La vie secrète, luxueuse et tumultueuse des dictateurs en exil",
-    "added_at": "2025-12-28T06:37:55.828Z"
+    "added_at": "2025-12-28T06:37:55.828Z",
+    "removed_at": "2025-12-31T10:38:43.068Z",
+    "duration_minutes": 4560,
+    "duration_str": "3d 4h"
   },
   {
     "title": "Bienvenue en Suisse, votre Altesse",
@@ -80389,7 +80395,10 @@
   },
   {
     "title": "La science suisse renoue avec ses succès passés en Europe",
-    "added_at": "2025-12-28T11:25:17.494Z"
+    "added_at": "2025-12-28T11:25:17.494Z",
+    "removed_at": "2025-12-31T10:33:03.874Z",
+    "duration_minutes": 4267,
+    "duration_str": "2d 23h 7m"
   },
   {
     "title": "Pourquoi les activités manuelles me font du bien ? (1/5)",
@@ -80440,11 +80449,17 @@
   },
   {
     "title": "Adopter un Saint-Bernard, entre rêve et réalité",
-    "added_at": "2025-12-28T16:50:29.904Z"
+    "added_at": "2025-12-28T16:50:29.904Z",
+    "removed_at": "2025-12-31T12:01:50.815Z",
+    "duration_minutes": 4031,
+    "duration_str": "2d 19h 11m"
   },
   {
     "title": "Fribourg-Gottéron se qualifie pour les demi-finales",
-    "added_at": "2025-12-28T16:54:20.035Z"
+    "added_at": "2025-12-28T16:54:20.035Z",
+    "removed_at": "2025-12-31T11:03:19.716Z",
+    "duration_minutes": 3968,
+    "duration_str": "2d 18h 8m"
   },
   {
     "title": "Le canton de Vaud organise des concerts d’orgues pour clôturer le 750e anniversaire de la cathédrale de Lausanne",
@@ -80914,5 +80929,29 @@
   {
     "title": "Après des manœuvres militaires, les navires chinois se retirent des alentours de Taïwan",
     "added_at": "2025-12-31T09:41:59.531Z"
+  },
+  {
+    "title": "Des drones sous-marins relancent les recherches du vol MH370",
+    "added_at": "2025-12-31T10:33:03.874Z"
+  },
+  {
+    "title": "Le brouillard se fait de plus en plus rare en Suisse",
+    "added_at": "2025-12-31T10:38:43.068Z"
+  },
+  {
+    "title": "Le Conseil fédéral publie sa photo officielle 2026",
+    "added_at": "2025-12-31T11:03:19.716Z"
+  },
+  {
+    "title": "\"L'information de qualité est un élément essentiel de notre capacité de vivre ensemble\", affirme Yves Daccord",
+    "added_at": "2025-12-31T11:20:19.420Z"
+  },
+  {
+    "title": "Les caissettes du 20 minutes seront recyclées, mises en vente ou feront leur entrée au musée",
+    "added_at": "2025-12-31T12:01:50.815Z"
+  },
+  {
+    "title": "L'invité de La Matinale (vidéo) - Yves Daccord, président de la future fondation pour des médias de qualité",
+    "added_at": "2025-12-31T12:22:39.199Z"
   }
 ]
