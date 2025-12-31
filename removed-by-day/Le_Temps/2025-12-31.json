@@ -49,8 +49,9 @@
   {
     "title": "sport:::Cette année, le Noël de Johan Djourou a eu lieu en plein été",
     "added_at": "2025-12-31T08:41:21.719Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-31T20:29:59.511Z",
+    "duration_minutes": 709,
+    "duration_str": "11h 49m"
   },
   {
     "title": "monde:::L’année 2025 sous le crayon de Chappatte",
@@ -159,8 +160,9 @@
   {
     "title": "culture:::Il y a 40 ans, la collection Gore de Fleuve noir éclaboussait le monde",
     "added_at": "2025-12-31T16:05:59.932Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-31T20:34:47.608Z",
+    "duration_minutes": 269,
+    "duration_str": "4h 29m"
   },
   {
     "title": "culture:::L’année culturelle 2025 en huit souvenirs personnels",
@@ -190,6 +192,12 @@
   {
     "title": "monde:::Pour ses vœux aux Français, Emmanuel Macron esquisse un premier au-revoir",
     "added_at": "2025-12-31T20:22:35.056Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "cyber:::Les navigateurs dopés à l’IA? Derrière les promesses, des résultats mitigés et des risques",
+    "added_at": "2025-12-31T20:29:59.511Z",
     "duration_minutes": 0,
     "duration_str": ""
   }

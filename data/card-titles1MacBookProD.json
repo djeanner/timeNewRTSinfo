@@ -50903,10 +50903,7 @@
   },
   {
     "title": "Les feux d'artifice de Nouvel An se font rares en Suisse",
-    "added_at": "2025-12-26T11:19:26.910Z",
-    "removed_at": "2025-12-29T10:57:19.403Z",
-    "duration_minutes": 4297,
-    "duration_str": "2d 23h 37m"
+    "added_at": "2025-12-26T11:19:26.910Z"
   },
   {
     "title": "L'ex-Premier ministre malaisien reconnu coupable d'abus de pouvoir dans l'affaire 1MDB",
@@ -51648,7 +51645,10 @@
   },
   {
     "title": "Dispositif d'urgence renforcé à Genève en prévision du froid qui arrive",
-    "added_at": "2025-12-29T12:34:09.790Z"
+    "added_at": "2025-12-29T12:34:09.790Z",
+    "removed_at": "2025-12-31T21:44:57.391Z",
+    "duration_minutes": 3430,
+    "duration_str": "2d 9h 10m"
   },
   {
     "title": "La vente des journaux phares italiens La Stampa et La Repubblica suscite l'inquiétude",
@@ -52053,7 +52053,10 @@
   },
   {
     "title": "Les pays du Pacifique ouvrent le bal du passage à la nouvelle année",
-    "added_at": "2025-12-31T15:51:29.670Z"
+    "added_at": "2025-12-31T15:51:29.670Z",
+    "removed_at": "2025-12-31T20:29:59.460Z",
+    "duration_minutes": 278,
+    "duration_str": "4h 38m"
   },
   {
     "title": "Podcast : Comment se désencombrer?",
@@ -52074,5 +52077,13 @@
   {
     "title": "La station de Crans-Montana attire les Américains depuis son rachat par Vail Resorts",
     "added_at": "2025-12-31T19:41:21.320Z"
+  },
+  {
+    "title": "Après l'Océanie et l'Asie de l'Est, l'Europe s'apprête à entrer en 2026",
+    "added_at": "2025-12-31T20:29:59.460Z"
+  },
+  {
+    "title": "Donald Trump annonce retirer la Garde nationale de Chicago, Portland et Los Angeles",
+    "added_at": "2025-12-31T21:44:57.391Z"
   }
 ]
