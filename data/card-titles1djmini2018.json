@@ -80642,7 +80642,10 @@
   },
   {
     "title": "Dispositif d'urgence renforcé à Genève en prévision du froid qui arrive",
-    "added_at": "2025-12-29T12:34:02.580Z"
+    "added_at": "2025-12-29T12:34:02.580Z",
+    "removed_at": "2025-12-31T21:45:55.090Z",
+    "duration_minutes": 3431,
+    "duration_str": "2d 9h 11m"
   },
   {
     "title": "La vente des journaux phares italiens La Stampa et La Repubblica suscite l'inquiétude",
@@ -81047,7 +81050,10 @@
   },
   {
     "title": "Les pays du Pacifique ouvrent le bal du passage à la nouvelle année",
-    "added_at": "2025-12-31T15:50:35.668Z"
+    "added_at": "2025-12-31T15:50:35.668Z",
+    "removed_at": "2025-12-31T20:28:29.058Z",
+    "duration_minutes": 277,
+    "duration_str": "4h 37m"
   },
   {
     "title": "Podcast : Comment se désencombrer?",
@@ -81068,5 +81074,13 @@
   {
     "title": "La station de Crans-Montana attire les Américains depuis son rachat par Vail Resorts",
     "added_at": "2025-12-31T19:41:09.492Z"
+  },
+  {
+    "title": "Après l'Océanie et l'Asie de l'Est, l'Europe s'apprête à entrer en 2026",
+    "added_at": "2025-12-31T20:28:29.058Z"
+  },
+  {
+    "title": "Donald Trump annonce retirer la Garde nationale de Chicago, Portland et Los Angeles",
+    "added_at": "2025-12-31T21:45:55.090Z"
   }
 ]

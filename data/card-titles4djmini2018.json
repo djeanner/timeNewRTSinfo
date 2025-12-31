@@ -165714,7 +165714,10 @@
   },
   {
     "title": "US stocks are set for a third-straight year of stellar gains",
-    "added_at": "2025-12-31T09:11:46.965Z"
+    "added_at": "2025-12-31T09:11:46.965Z",
+    "removed_at": "2025-12-31T21:49:46.274Z",
+    "duration_minutes": 757,
+    "duration_str": "12h 37m"
   },
   {
     "title": "Seagulls fight on a pond. Trudeau makes silly face. 2025 in photos",
@@ -165981,5 +165984,23 @@
   {
     "title": "New Yorkers prepare to say goodbye to the MetroCard",
     "added_at": "2025-12-31T17:49:43.722Z"
+  },
+  {
+    "title": "Watch CNN’s coverage of New Year’s Eve around the world",
+    "added_at": "2025-12-31T20:53:05.270Z",
+    "removed_at": "2025-12-31T21:23:15.434Z",
+    "duration_minutes": 30,
+    "duration_str": "30m"
+  },
+  {
+    "title": "Vance drops trophy. Dodgers win epic World Series. 2025 in photos",
+    "added_at": "2025-12-31T21:23:15.434Z",
+    "removed_at": "2025-12-31T21:25:09.734Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Trump says he’s withdrawing National Guard from Chicago, Los Angeles and Portland",
+    "added_at": "2025-12-31T21:49:46.274Z"
   }
 ]
