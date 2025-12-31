@@ -79939,10 +79939,7 @@
   },
   {
     "title": "Des pluies diluviennes s'abattent sur le sud de la Californie",
-    "added_at": "2025-12-26T14:23:34.813Z",
-    "removed_at": "2025-12-29T23:03:48.962Z",
-    "duration_minutes": 4840,
-    "duration_str": "3d 8h 40m"
+    "added_at": "2025-12-26T14:23:34.813Z"
   },
   {
     "title": "L'abaissement des taxes douanières est rétroactif, à quelques conditions près",
@@ -80269,7 +80266,10 @@
   },
   {
     "title": "Se promener au-dessus de la mer de brouillard pour lutter contre le blues hivernal",
-    "added_at": "2025-12-27T19:57:02.608Z"
+    "added_at": "2025-12-27T19:57:02.608Z",
+    "removed_at": "2025-12-31T05:20:37.168Z",
+    "duration_minutes": 4883,
+    "duration_str": "3d 9h 23m"
   },
   {
     "title": "La station des Bugnenets-Savagnières a pu ouvrir grâce à son nouveau système d'enneigement",
@@ -80484,7 +80484,10 @@
   },
   {
     "title": "À 75 ans, le politicien vaudois Daniel Brélaz décède d'une crise cardiaque",
-    "added_at": "2025-12-28T23:22:05.143Z"
+    "added_at": "2025-12-28T23:22:05.143Z",
+    "removed_at": "2025-12-31T05:16:51.602Z",
+    "duration_minutes": 3234,
+    "duration_str": "2d 5h 54m"
   },
   {
     "title": "Optimiste mais évasif, Donald Trump annonce des \"progrès\" et des points épineux après sa rencontre avec Zelensky",
@@ -80834,5 +80837,16 @@
   {
     "title": "Le Groupe E traverse une zone de fortes turbulences",
     "added_at": "2025-12-31T02:17:28.144Z"
+  },
+  {
+    "title": "Sport matin - Kevin Pasche, gardien du Lausanne Hockey Club",
+    "added_at": "2025-12-31T03:16:01.708Z",
+    "removed_at": "2025-12-31T05:16:51.602Z",
+    "duration_minutes": 120,
+    "duration_str": "2h"
+  },
+  {
+    "title": "Trump, Blatten, Léon XIV: retour sur les événements marquants de l'année 2025",
+    "added_at": "2025-12-31T05:20:37.168Z"
   }
 ]

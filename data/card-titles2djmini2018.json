@@ -61492,7 +61492,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Attaque de drones sur une résidence de Poutine: Kiev pointe l’absence de preuve",
-    "added_at": "2025-12-30T11:43:46.473Z"
+    "added_at": "2025-12-30T11:43:46.473Z",
+    "removed_at": "2025-12-31T03:14:11.775Z",
+    "duration_minutes": 930,
+    "duration_str": "15h 30m"
   },
   {
     "title": "suisse:::Après la condamnation historique de Trafigura pour corruption en Angola, un procès en appel se prépare",
@@ -61532,7 +61535,10 @@
   },
   {
     "title": "economie:::Entre la rupture avec Peter Brabeck et le souffle de renouveau apporté par Philipp Navratil, Nestlé dessine sa nouvelle trajectoire",
-    "added_at": "2025-12-30T14:52:48.969Z"
+    "added_at": "2025-12-30T14:52:48.969Z",
+    "removed_at": "2025-12-31T04:05:08.724Z",
+    "duration_minutes": 792,
+    "duration_str": "13h 12m"
   },
   {
     "title": "monde:::En Italie, à la frontière avec la Suisse, un accident de téléphérique fait quatre blessés",
@@ -61610,6 +61616,21 @@
   },
   {
     "title": "monde:::En Guinée, sacre sans surprise du putschiste Mamadi Doumbouya",
-    "added_at": "2025-12-31T02:21:12.222Z"
+    "added_at": "2025-12-31T02:21:12.222Z",
+    "removed_at": "2025-12-31T05:09:17.754Z",
+    "duration_minutes": 168,
+    "duration_str": "2h 48m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Quatre blessés, dont trois enfants, dans des frappes russes à Odessa",
+    "added_at": "2025-12-31T03:14:11.775Z"
+  },
+  {
+    "title": "monde:::Les Etats-Unis ont bombardé une fabrique de cocaïne au Venezuela, selon Bogota",
+    "added_at": "2025-12-31T04:05:08.724Z"
+  },
+  {
+    "title": "suisse:::Alors que des Etats se désengagent, les Suisses ont fait de nombreux dons aux ONG",
+    "added_at": "2025-12-31T05:09:17.754Z"
   }
 ]
