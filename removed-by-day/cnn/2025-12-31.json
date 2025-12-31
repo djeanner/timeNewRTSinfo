@@ -505,8 +505,9 @@
   {
     "title": "Flood threat returns to Southern California for New Year’s",
     "added_at": "2025-12-31T16:59:09.861Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-31T17:45:16.499Z",
+    "duration_minutes": 46,
+    "duration_str": "46m"
   },
   {
     "title": "New Year’s celebrations around the world",
@@ -517,12 +518,19 @@
   {
     "title": "New Yorkers prepare to say goodbye the MetroCard",
     "added_at": "2025-12-31T17:23:22.020Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-31T17:50:05.882Z",
+    "duration_minutes": 27,
+    "duration_str": "27m"
   },
   {
     "title": "Flood threat returns to California for New Year’s",
     "added_at": "2025-12-31T17:23:22.020Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "New Yorkers prepare to say goodbye to the MetroCard",
+    "added_at": "2025-12-31T17:50:05.882Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
