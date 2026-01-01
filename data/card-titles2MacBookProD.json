@@ -58168,7 +58168,10 @@
   },
   {
     "title": "monde:::L’année 2025 sous le crayon de Chappatte",
-    "added_at": "2025-12-31T10:10:16.245Z"
+    "added_at": "2025-12-31T10:10:16.245Z",
+    "removed_at": "2026-01-01T16:09:59.747Z",
+    "duration_minutes": 1799,
+    "duration_str": "1d 5h 59m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Six blessés, dont trois enfants, dans des frappes russes à Odessa",
@@ -58243,7 +58246,10 @@
   },
   {
     "title": "monde:::Israël va priver Gaza de l’aide de 37 ONG au nom de la lutte contre le terrorisme et le négationnisme",
-    "added_at": "2025-12-31T14:19:24.852Z"
+    "added_at": "2025-12-31T14:19:24.852Z",
+    "removed_at": "2026-01-01T16:53:35.475Z",
+    "duration_minutes": 1594,
+    "duration_str": "1d 2h 34m"
   },
   {
     "title": "suisse:::Elégance, transparence et Diego Velázquez: le regard d’un photographe sur le portrait officiel du Conseil fédéral",
@@ -58425,15 +58431,24 @@
   },
   {
     "title": "monde:::Violences contre la police aux Pays-Bas et incendie d'une église à Amsterdam",
-    "added_at": "2026-01-01T13:42:08.969Z"
+    "added_at": "2026-01-01T13:42:08.969Z",
+    "removed_at": "2026-01-01T18:01:20.690Z",
+    "duration_minutes": 259,
+    "duration_str": "4h 19m"
   },
   {
     "title": "suisse:::A l’étranger, la tragédie de Crans-Montana est suivie de près",
-    "added_at": "2026-01-01T14:01:27.209Z"
+    "added_at": "2026-01-01T14:01:27.209Z",
+    "removed_at": "2026-01-01T17:56:32.639Z",
+    "duration_minutes": 235,
+    "duration_str": "3h 55m"
   },
   {
     "title": "suisse:::En direct – Drame à Crans-Montana: «En quelques dizaines de secondes, tout le plafond était en feu»",
-    "added_at": "2026-01-01T14:08:43.168Z"
+    "added_at": "2026-01-01T14:08:43.168Z",
+    "removed_at": "2026-01-01T16:14:49.413Z",
+    "duration_minutes": 126,
+    "duration_str": "2h 6m"
   },
   {
     "title": "monde:::L’interdiction des PFAS, «polluants éternels», eradans certains produits entre en vigueur en France",
@@ -58445,5 +58460,32 @@
   {
     "title": "monde:::L’interdiction des PFAS, «polluants éternels», dans certains produits entre en vigueur en France",
     "added_at": "2026-01-01T14:49:51.658Z"
+  },
+  {
+    "title": "suisse:::«J’ai vu des choses qu’on ne devrait jamais voir»: à Crans-Montana, une station sous le choc",
+    "added_at": "2026-01-01T16:09:59.747Z"
+  },
+  {
+    "title": "suisse:::En direct – Drame à Crans-Montana: suivez la conférence de presse de Guy Parmelin et des autorités valaisannes",
+    "added_at": "2026-01-01T16:14:49.413Z",
+    "removed_at": "2026-01-01T16:51:07.584Z",
+    "duration_minutes": 36,
+    "duration_str": "36m"
+  },
+  {
+    "title": "suisse:::En direct – Drame à Crans-Montana: «Une quarantaine» de personnes décédées",
+    "added_at": "2026-01-01T16:51:07.584Z"
+  },
+  {
+    "title": "monde:::Israël interdit l'entrée dans Gaza à 37 ONG dont Caritas, Médecins Sans Frontières ou Terre des Hommes",
+    "added_at": "2026-01-01T16:53:35.475Z"
+  },
+  {
+    "title": "suisse:::Les Italiens durement touchés par l'incendie dévastateur du bar «Le Constellation» à Crans-Montana",
+    "added_at": "2026-01-01T17:56:32.639Z"
+  },
+  {
+    "title": "monde:::Les Iraniens continuent de manifester malgré les peines de mort qui battent un record absolu en 35 ans",
+    "added_at": "2026-01-01T18:01:20.690Z"
   }
 ]
