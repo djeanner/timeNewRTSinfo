@@ -80627,7 +80627,10 @@
   },
   {
     "title": "La Poste a distribué 23 millions de colis cette fin d'année, avec un record le 2 décembre",
-    "added_at": "2025-12-29T11:12:49.020Z"
+    "added_at": "2025-12-29T11:12:49.020Z",
+    "removed_at": "2026-01-01T05:31:12.684Z",
+    "duration_minutes": 3978,
+    "duration_str": "2d 18h 18m"
   },
   {
     "title": "A Martigny, la Fondation Gianadda met les estampes de la collection Doucet à l'honneur",
@@ -80668,7 +80671,10 @@
   },
   {
     "title": "Près de la moitié des parlementaires suisses ne déclarent pas tous leurs revenus",
-    "added_at": "2025-12-29T14:18:01.566Z"
+    "added_at": "2025-12-29T14:18:01.566Z",
+    "removed_at": "2026-01-01T07:11:25.397Z",
+    "duration_minutes": 3893,
+    "duration_str": "2d 16h 53m"
   },
   {
     "title": "Au Kosovo, le parti du Premier ministre sortant Albin Kurti l'emporte",
@@ -81113,6 +81119,28 @@
   },
   {
     "title": "La Suisse est entrée en 2026 au son des cloches et sous les feux d'artifices",
-    "added_at": "2026-01-01T02:45:11.765Z"
+    "added_at": "2026-01-01T02:45:11.765Z",
+    "removed_at": "2026-01-01T06:08:58.397Z",
+    "duration_minutes": 203,
+    "duration_str": "3h 23m"
+  },
+  {
+    "title": "Un violent incendie a ravagé un bar de Crans-Montana, faisant plusieurs morts",
+    "added_at": "2026-01-01T05:31:12.684Z",
+    "removed_at": "2026-01-01T07:25:35.645Z",
+    "duration_minutes": 114,
+    "duration_str": "1h 54m"
+  },
+  {
+    "title": "La Suisse est entrée en 2026 au son des cloches et sous les feux d'artifice",
+    "added_at": "2026-01-01T06:08:58.397Z"
+  },
+  {
+    "title": "Tour d'horizon des changements de lois qui entreront en vigueur en Suisse en 2026",
+    "added_at": "2026-01-01T07:11:25.397Z"
+  },
+  {
+    "title": "Un violent incendie a ravagé un bar de Crans-Montana, faisant de nombreuses victimes",
+    "added_at": "2026-01-01T07:21:49.795Z"
   }
 ]

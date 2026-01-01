@@ -61682,10 +61682,7 @@
   },
   {
     "title": "monde:::«Dans ces conditions, travailler n’a plus aucun sens»: en Iran, la chute du rial met le Bazar de Téhéran en grève",
-    "added_at": "2025-12-31T07:59:25.987Z",
-    "removed_at": "2025-12-31T20:20:55.110Z",
-    "duration_minutes": 741,
-    "duration_str": "12h 21m"
+    "added_at": "2025-12-31T07:59:25.987Z"
   },
   {
     "title": "sport:::Cette année, le Noël de Johan Djourou a eu lieu en plein été",
@@ -61714,7 +61711,10 @@
   },
   {
     "title": "suisse:::Roulez jeunesse! Avec sa photo 2026, le Conseil fédéral fait plancher la jeune génération",
-    "added_at": "2025-12-31T11:03:19.791Z"
+    "added_at": "2025-12-31T11:03:19.791Z",
+    "removed_at": "2026-01-01T05:29:18.881Z",
+    "duration_minutes": 1105,
+    "duration_str": "18h 25m"
   },
   {
     "title": "sciences:::La grippe profite des fêtes pour se propager en Suisse",
@@ -61776,7 +61776,10 @@
   },
   {
     "title": "suisse:::Elégance, transparence et Diego Velázquez: le regard d’un photographe sur le portrait officiel du Conseil fédéral",
-    "added_at": "2025-12-31T14:48:08.889Z"
+    "added_at": "2025-12-31T14:48:08.889Z",
+    "removed_at": "2026-01-01T06:39:12.689Z",
+    "duration_minutes": 951,
+    "duration_str": "15h 51m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient − L’ONU dénonce l’interdiction «scandaleuse» d’accès à Gaza pour des ONG imposée par Israël",
@@ -61802,7 +61805,10 @@
   },
   {
     "title": "monde:::George Clooney naturalisé français: une décision qui divise l’exécutif français",
-    "added_at": "2025-12-31T18:35:03.245Z"
+    "added_at": "2025-12-31T18:35:03.245Z",
+    "removed_at": "2026-01-01T06:39:12.689Z",
+    "duration_minutes": 724,
+    "duration_str": "12h 4m"
   },
   {
     "title": "culture:::Alpenzu, la vie à 1778 mètres – épisode 5: «Les bouquetins domestiques»",
@@ -61829,5 +61835,23 @@
   {
     "title": "suisse:::Répression du stalking, Moutier dans le Jura, factures médicales et crédits à la consommation: ce qui change en Suisse dès le 1er janvier",
     "added_at": "2026-01-01T05:06:32.343Z"
+  },
+  {
+    "title": "suisse:::Une explosion dans un bar a fait plusieurs morts et blessés à Crans-Montana",
+    "added_at": "2026-01-01T06:39:12.689Z",
+    "removed_at": "2026-01-01T06:48:39.007Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "suisse:::Un incendie dans un bar a fait plusieurs morts et blessés à Crans-Montana",
+    "added_at": "2026-01-01T06:48:39.007Z",
+    "removed_at": "2026-01-01T07:18:06.107Z",
+    "duration_minutes": 29,
+    "duration_str": "29m"
+  },
+  {
+    "title": "suisse:::Un grave incendie dans un bar a fait plusieurs morts et blessés à Crans-Montana",
+    "added_at": "2026-01-01T07:18:06.107Z"
   }
 ]
