@@ -80647,7 +80647,10 @@
   },
   {
     "title": "Le canton de Vaud augmente fortement les taxes auto  pour les véhicules les plus polluants",
-    "added_at": "2025-12-29T12:09:26.254Z"
+    "added_at": "2025-12-29T12:09:26.254Z",
+    "removed_at": "2026-01-01T15:22:52.830Z",
+    "duration_minutes": 4513,
+    "duration_str": "3d 3h 13m"
   },
   {
     "title": "Dispositif d'urgence renforcé à Genève en prévision du froid qui arrive",
@@ -80741,7 +80744,10 @@
   },
   {
     "title": "Ecrasante victoire du parti au pouvoir en Côte d'Ivoire dans des législatives sans réelle opposition",
-    "added_at": "2025-12-29T20:45:41.119Z"
+    "added_at": "2025-12-29T20:45:41.119Z",
+    "removed_at": "2026-01-01T14:58:17.127Z",
+    "duration_minutes": 3972,
+    "duration_str": "2d 18h 12m"
   },
   {
     "title": "Investissements immobiliers records en Suisse, mais peu de nouvelles constructions",
@@ -81192,11 +81198,17 @@
   },
   {
     "title": "Plusieurs dizaines de personnes ont été tuées dans l’incendie qui a ravagé un bar à Crans-Montana",
-    "added_at": "2026-01-01T09:28:43.278Z"
+    "added_at": "2026-01-01T09:28:43.278Z",
+    "removed_at": "2026-01-01T15:26:36.969Z",
+    "duration_minutes": 357,
+    "duration_str": "5h 57m"
   },
   {
     "title": "Une \"halle gourmande\" pour revitaliser la place de la Riponne à Lausanne: interview de Jean-Marc Corset",
-    "added_at": "2026-01-01T10:02:51.422Z"
+    "added_at": "2026-01-01T10:02:51.422Z",
+    "removed_at": "2026-01-01T16:27:06.790Z",
+    "duration_minutes": 384,
+    "duration_str": "6h 24m"
   },
   {
     "title": "Claude Thébert, l'homme qui avait fait du théâtre un art de la rencontre",
@@ -81247,5 +81259,70 @@
   {
     "title": "Le dispositif du CHUV pour accueillir les blessés de l’incendie de Crans-Montana: interview de Claire Charmet",
     "added_at": "2026-01-01T13:27:29.010Z"
+  },
+  {
+    "title": "Des dizaines de victimes brûlées de Crans-Montana hospitalisées à Lausanne, Genève et Zurich",
+    "added_at": "2026-01-01T14:58:17.127Z",
+    "removed_at": "2026-01-01T16:27:06.790Z",
+    "duration_minutes": 88,
+    "duration_str": "1h 28m"
+  },
+  {
+    "title": "Moscou et Kiev s'accusent mutuellement d'attaques de drones pendant le Nouvel An",
+    "added_at": "2026-01-01T15:22:52.830Z"
+  },
+  {
+    "title": "Guy Parmelin s’est rendu sur les lieux de l'incendie à Crans-Montana. Les victimes se comptent par dizaines",
+    "added_at": "2026-01-01T15:26:36.969Z",
+    "removed_at": "2026-01-01T15:56:54.640Z",
+    "duration_minutes": 30,
+    "duration_str": "30m"
+  },
+  {
+    "title": "Guy Parmelin s'est rendu sur les lieux de l'incendie à Crans-Montana. Les victimes se comptent par dizaines",
+    "added_at": "2026-01-01T15:53:04.269Z",
+    "removed_at": "2026-01-01T16:17:39.675Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "Guy Parmelin s'est rendu sur les lieux de l'incendie à Crans-Montana. Conférence de presse vers 17h15",
+    "added_at": "2026-01-01T16:17:39.675Z",
+    "removed_at": "2026-01-01T16:21:26.308Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "Guy Parmelin s'est rendu sur les lieux de l'incendie à Crans-Montana. Conférence de presse en direct",
+    "added_at": "2026-01-01T16:19:36.082Z",
+    "removed_at": "2026-01-01T16:27:06.790Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Conférence de presse de Guy Parmelin et des autorités valaisannes, le suivi en direct",
+    "added_at": "2026-01-01T16:27:06.790Z",
+    "removed_at": "2026-01-01T16:42:17.302Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "Des dizaines de victimes brûlées de Crans-Montana hospitalisées à Lausanne et Zurich",
+    "added_at": "2026-01-01T16:27:06.790Z"
+  },
+  {
+    "title": "Informations du Conseil d’Etat valaisan sur l’incendie de Crans-Montana: interview de Christophe Darbellay",
+    "added_at": "2026-01-01T16:27:06.790Z"
+  },
+  {
+    "title": "Une quarantaine de personnes ont péri dans l’incendie de Crans-Montana, annoncent les autorités. Conférence de presse en direct",
+    "added_at": "2026-01-01T16:42:17.302Z",
+    "removed_at": "2026-01-01T17:04:59.031Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
+  },
+  {
+    "title": "Une quarantaine de personnes ont péri dans l’incendie de Crans-Montana, annoncent les autorités",
+    "added_at": "2026-01-01T17:04:59.031Z"
   }
 ]
