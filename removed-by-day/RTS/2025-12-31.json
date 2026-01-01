@@ -9,8 +9,9 @@
   {
     "title": "Le Groupe E traverse une zone de fortes turbulences",
     "added_at": "2025-12-31T02:16:44.092Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2026-01-01T01:18:07.035Z",
+    "duration_minutes": 1381,
+    "duration_str": "23h 1m"
   },
   {
     "title": "Sport matin - Kevin Pasche, gardien du Lausanne Hockey Club",
@@ -65,8 +66,9 @@
   {
     "title": "Moutier rejoint le canton du Jura ce soir à minuit, entre festivités et changements pratiques",
     "added_at": "2025-12-31T09:24:00.823Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-31T23:43:45.859Z",
+    "duration_minutes": 860,
+    "duration_str": "14h 20m"
   },
   {
     "title": "Pourquoi l’eau froide me fait du bien ? (5/5)",
@@ -224,6 +226,12 @@
   {
     "title": "Donald Trump annonce retirer la Garde nationale de Chicago, Portland et Los Angeles",
     "added_at": "2025-12-31T21:44:57.391Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "Moutier a rejoint le canton du Jura à minuit, entre festivités et changements pratiques",
+    "added_at": "2025-12-31T23:43:45.859Z",
     "duration_minutes": 0,
     "duration_str": ""
   }

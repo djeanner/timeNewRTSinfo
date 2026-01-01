@@ -157,8 +157,9 @@
   {
     "title": "New Year’s brings new rainfall and flood threat to California",
     "added_at": "2025-12-31T07:26:29.028Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2026-01-01T00:10:21.741Z",
+    "duration_minutes": 1004,
+    "duration_str": "16h 44m"
   },
   {
     "title": "Body found during search for Texas teen who went missing on Christmas Eve",
@@ -377,8 +378,9 @@
   {
     "title": "Why ‘Auld Lang Syne’ still unites the world at midnight",
     "added_at": "2025-12-31T13:16:39.570Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2026-01-01T01:44:41.685Z",
+    "duration_minutes": 748,
+    "duration_str": "12h 28m"
   },
   {
     "title": "CNN tries out the world’s fastest roller coaster",
@@ -422,14 +424,16 @@
   {
     "title": "Unique New Year’s Eve superstitions explained",
     "added_at": "2025-12-31T14:26:39.761Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2025-12-31T23:26:54.356Z",
+    "duration_minutes": 540,
+    "duration_str": "9h"
   },
   {
     "title": "Trains crash while carrying tourists to Peru’s Machu Picchu, killing 1 person",
     "added_at": "2025-12-31T14:26:39.761Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2026-01-01T01:22:55.117Z",
+    "duration_minutes": 656,
+    "duration_str": "10h 56m"
   },
   {
     "title": "The Russian leader drives his country into another year of fighting in Ukraine, unaffected by his war’s grim superlative",
@@ -559,12 +563,19 @@
   {
     "title": "US military says at least three killed in new strikes on alleged ‘convoy’ of drug boats, with survivors abandoning ship",
     "added_at": "2025-12-31T22:35:51.477Z",
-    "duration_minutes": 0,
-    "duration_str": ""
+    "removed_at": "2026-01-01T01:49:31.979Z",
+    "duration_minutes": 194,
+    "duration_str": "3h 14m"
   },
   {
     "title": "Body identified as missing Texas 19-year-old who vanished on Christmas Eve, officials say",
     "added_at": "2025-12-31T22:43:07.465Z",
+    "duration_minutes": 0,
+    "duration_str": ""
+  },
+  {
+    "title": "From learning the can-can to roller coaster rides, see how CNN celebrated around the world",
+    "added_at": "2025-12-31T23:26:54.356Z",
     "duration_minutes": 0,
     "duration_str": ""
   }
