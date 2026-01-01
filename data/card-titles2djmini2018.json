@@ -61674,7 +61674,10 @@
   },
   {
     "title": "culture:::De Bâle à Lugano, des expositions de l’année qui durent encore un peu",
-    "added_at": "2025-12-31T06:04:11.493Z"
+    "added_at": "2025-12-31T06:04:11.493Z",
+    "removed_at": "2026-01-01T18:52:51.708Z",
+    "duration_minutes": 2208,
+    "duration_str": "1d 12h 48m"
   },
   {
     "title": "suisse:::Moutier rejoindra le Jura à Nouvel An, entre sourires et larmes",
@@ -61959,11 +61962,17 @@
   },
   {
     "title": "monde:::Violences contre la police aux Pays-Bas et incendie d'une église à Amsterdam",
-    "added_at": "2026-01-01T13:42:35.238Z"
+    "added_at": "2026-01-01T13:42:35.238Z",
+    "removed_at": "2026-01-01T17:59:52.809Z",
+    "duration_minutes": 257,
+    "duration_str": "4h 17m"
   },
   {
     "title": "suisse:::A l’étranger, la tragédie de Crans-Montana est suivie de près",
-    "added_at": "2026-01-01T14:01:30.367Z"
+    "added_at": "2026-01-01T14:01:30.367Z",
+    "removed_at": "2026-01-01T17:56:08.356Z",
+    "duration_minutes": 234,
+    "duration_str": "3h 54m"
   },
   {
     "title": "suisse:::En direct – Drame à Crans-Montana: «En quelques dizaines de secondes, tout le plafond était en feu»",
@@ -62001,5 +62010,24 @@
   {
     "title": "monde:::Israël interdit l'entrée dans Gaza à 37 ONG dont Caritas, Médecins Sans Frontières ou Terre des Hommes",
     "added_at": "2026-01-01T16:51:41.929Z"
+  },
+  {
+    "title": "suisse:::Les Italiens durement touchés par l'incendie dévastateur du bar «Le Constellation» à Crans-Montana",
+    "added_at": "2026-01-01T17:56:08.356Z",
+    "removed_at": "2026-01-01T18:28:14.303Z",
+    "duration_minutes": 32,
+    "duration_str": "32m"
+  },
+  {
+    "title": "monde:::Les Iraniens continuent de manifester malgré les peines de mort qui battent un record absolu en 35 ans",
+    "added_at": "2026-01-01T17:59:52.809Z"
+  },
+  {
+    "title": "suisse:::Les Italiens durement touchés par l’incendie dévastateur du bar «Le Constellation» à Crans-Montana",
+    "added_at": "2026-01-01T18:28:14.303Z"
+  },
+  {
+    "title": "suisse:::Guy Parmelin à propos de la tragédie de Crans-Montana: «Nous devons faire toute la lumière sans tabou»",
+    "added_at": "2026-01-01T18:52:51.708Z"
   }
 ]
