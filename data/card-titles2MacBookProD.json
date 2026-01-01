@@ -58204,7 +58204,10 @@
   },
   {
     "title": "economie:::La bourse suisse a résisté à la tempête douanière en 2025",
-    "added_at": "2025-12-31T12:35:34.016Z"
+    "added_at": "2025-12-31T12:35:34.016Z",
+    "removed_at": "2026-01-01T10:52:40.621Z",
+    "duration_minutes": 1337,
+    "duration_str": "22h 17m"
   },
   {
     "title": "culture:::À Vienne, le mythe inégalé du Concert du Nouvel An, entre passé sombre et tradition",
@@ -58277,10 +58280,7 @@
   },
   {
     "title": "culture:::Alpenzu, la vie à 1778 mètres – épisode 5: «Les bouquetins domestiques»",
-    "added_at": "2025-12-31T19:14:45.417Z",
-    "removed_at": "2026-01-01T05:04:41.177Z",
-    "duration_minutes": 589,
-    "duration_str": "9h 49m"
+    "added_at": "2025-12-31T19:14:45.417Z"
   },
   {
     "title": "monde:::Pour ses vœux aux Français, Emmanuel Macron esquisse un premier adieu",
@@ -58366,6 +58366,38 @@
   },
   {
     "title": "suisse:::En direct – Drame à Crans-Montana: «Des dizaines» de morts présumés, selon les autorités",
-    "added_at": "2026-01-01T09:44:45.117Z"
+    "added_at": "2026-01-01T09:44:45.117Z",
+    "removed_at": "2026-01-01T10:18:50.333Z",
+    "duration_minutes": 34,
+    "duration_str": "34m"
+  },
+  {
+    "title": "suisse:::En direct – Drame à Crans-Montana: «Des dizaines» de morts présumés après un incendie dans un bar, selon les autorités",
+    "added_at": "2026-01-01T10:18:50.333Z",
+    "removed_at": "2026-01-01T11:43:29.766Z",
+    "duration_minutes": 84,
+    "duration_str": "1h 24m"
+  },
+  {
+    "title": "suisse:::Mathias Reynard: «On est en train de revivre une très grave catastrophe»",
+    "added_at": "2026-01-01T10:50:14.956Z",
+    "removed_at": "2026-01-01T11:19:15.085Z",
+    "duration_minutes": 29,
+    "duration_str": "29m"
+  },
+  {
+    "title": "suisse:::Après le drame de Crans-Montana, Mathias Reynard, président du Conseil d’État valaisan, évoque «une très grave catastrophe»",
+    "added_at": "2026-01-01T11:19:15.085Z",
+    "removed_at": "2026-01-01T11:21:43.122Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "suisse:::Mathias Reynard, président du Conseil d’État valaisan, à propos du drame de Crans-Montana: «Nous revivons une très grave catastrophe»",
+    "added_at": "2026-01-01T11:21:43.122Z"
+  },
+  {
+    "title": "suisse:::En direct – Drame à Crans-Montana: «Des dizaines» de morts après un incendie dans un bar, selon les autorités",
+    "added_at": "2026-01-01T11:43:29.766Z"
   }
 ]
