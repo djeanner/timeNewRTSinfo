@@ -61767,7 +61767,10 @@
   },
   {
     "title": "culture:::A Vienne, le mythe inégalé du Concert du Nouvel An, entre passé sombre et tradition",
-    "added_at": "2025-12-31T12:47:16.501Z"
+    "added_at": "2025-12-31T12:47:16.501Z",
+    "removed_at": "2026-01-02T10:30:28.724Z",
+    "duration_minutes": 2743,
+    "duration_str": "1d 21h 43m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient − 37 ONG risquent de ne plus pouvoir entrer dans Gaza dès demain",
@@ -61976,7 +61979,10 @@
   },
   {
     "title": "suisse:::Une centaine de blessés à Crans-Montana, certains grièvement brûlés: les hôpitaux sont mobilisés jusqu’à Zurich",
-    "added_at": "2026-01-01T13:14:14.695Z"
+    "added_at": "2026-01-01T13:14:14.695Z",
+    "removed_at": "2026-01-02T09:58:23.543Z",
+    "duration_minutes": 1244,
+    "duration_str": "20h 44m"
   },
   {
     "title": "monde:::Violences contre la police aux Pays-Bas et incendie d'une église à Amsterdam",
@@ -62033,7 +62039,10 @@
   },
   {
     "title": "monde:::Israël interdit l'entrée dans Gaza à 37 ONG dont Caritas, Médecins Sans Frontières ou Terre des Hommes",
-    "added_at": "2026-01-01T16:51:41.929Z"
+    "added_at": "2026-01-01T16:51:41.929Z",
+    "removed_at": "2026-01-02T11:27:08.794Z",
+    "duration_minutes": 1115,
+    "duration_str": "18h 35m"
   },
   {
     "title": "suisse:::Les Italiens durement touchés par l'incendie dévastateur du bar «Le Constellation» à Crans-Montana",
@@ -62066,7 +62075,10 @@
   },
   {
     "title": "culture:::Le Beau Danube rouge: quand la valse viennoise était une arme révolutionnaire",
-    "added_at": "2026-01-01T19:47:45.007Z"
+    "added_at": "2026-01-01T19:47:45.007Z",
+    "removed_at": "2026-01-02T11:15:48.738Z",
+    "duration_minutes": 928,
+    "duration_str": "15h 28m"
   },
   {
     "title": "suisse:::«Aujourd’hui, la Suisse est triste»: une quarantaine de personnes ont perdu la vie dans l’incendie de Crans-Montana",
@@ -62149,5 +62161,28 @@
   {
     "title": "monde:::Au Brésil, l’extrême droite privée de Jair Bolsonaro n’a pas dit son dernier mot",
     "added_at": "2026-01-02T09:14:53.842Z"
+  },
+  {
+    "title": "suisse:::Une centaine de blessés graves à Crans-Montana: des hôpitaux de France, de Belgique et d'Italie en renfort",
+    "added_at": "2026-01-02T09:58:23.543Z",
+    "removed_at": "2026-01-02T10:22:58.906Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "suisse:::Une centaine de blessés graves à Crans-Montana: des hôpitaux de France, de Belgique d'Italie et de Pologne en renfort",
+    "added_at": "2026-01-02T10:22:58.906Z"
+  },
+  {
+    "title": "culture:::A Vienne, le mythe inégalé du concert du Nouvel An, entre passé sombre et tradition",
+    "added_at": "2026-01-02T10:30:28.724Z"
+  },
+  {
+    "title": "culture:::Le «Beau Danube rouge»: quand la valse viennoise était une arme révolutionnaire",
+    "added_at": "2026-01-02T11:15:48.738Z"
+  },
+  {
+    "title": "cyber:::2025, l’année où les vidéos générées par l’intelligence artificielle ont basculé dans l’hyperréalisme",
+    "added_at": "2026-01-02T11:27:08.794Z"
   }
 ]
