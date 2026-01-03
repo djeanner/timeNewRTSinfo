@@ -122614,7 +122614,10 @@
   },
   {
     "title": "Meet the Man Lugging Shelter Dogs Around New York",
-    "added_at": "2026-01-02T15:46:59.331Z"
+    "added_at": "2026-01-02T15:46:59.331Z",
+    "removed_at": "2026-01-03T06:50:40.244Z",
+    "duration_minutes": 903,
+    "duration_str": "15h 3m"
   },
   {
     "title": "Yemen Sends Military to Push Out Separatist Faction",
@@ -122657,7 +122660,10 @@
   },
   {
     "title": "Oil Tanker Fleeing U.S. Coast Guard Broadcasts Location in North Atlantic",
-    "added_at": "2026-01-02T18:31:44.019Z"
+    "added_at": "2026-01-02T18:31:44.019Z",
+    "removed_at": "2026-01-03T08:05:36.461Z",
+    "duration_minutes": 813,
+    "duration_str": "13h 33m"
   },
   {
     "title": "They Want to Influence You to Do … Nothing",
@@ -122813,10 +122819,31 @@
   },
   {
     "title": "Coast Guard Suspends Search for Survivors of Latest Boat Strikes",
-    "added_at": "2026-01-03T05:33:07.777Z"
+    "added_at": "2026-01-03T05:33:07.777Z",
+    "removed_at": "2026-01-03T08:05:36.461Z",
+    "duration_minutes": 152,
+    "duration_str": "2h 32m"
   },
   {
     "title": "Lenny Dykstra Faces Charges After Police Find Drugs During Traffic Stop",
     "added_at": "2026-01-03T05:33:07.777Z"
+  },
+  {
+    "title": "Explosions Reported in Venezuela’s Capital",
+    "added_at": "2026-01-03T06:45:48.106Z",
+    "removed_at": "2026-01-03T07:19:42.333Z",
+    "duration_minutes": 33,
+    "duration_str": "33m"
+  },
+  {
+    "title": "Explosions Are Reported in Venezuela’s Capital",
+    "added_at": "2026-01-03T07:19:42.333Z",
+    "removed_at": "2026-01-03T08:05:36.461Z",
+    "duration_minutes": 45,
+    "duration_str": "45m"
+  },
+  {
+    "title": "Explosions Are Reported in Caracas",
+    "added_at": "2026-01-03T08:05:36.461Z"
   }
 ]
