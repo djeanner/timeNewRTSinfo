@@ -58344,7 +58344,10 @@
   },
   {
     "title": "suisse:::Documents déclassifiés: 1995, l’année des impasses pour le Conseil fédéral",
-    "added_at": "2026-01-01T05:02:15.307Z"
+    "added_at": "2026-01-01T05:02:15.307Z",
+    "removed_at": "2026-01-03T13:01:04.492Z",
+    "duration_minutes": 3358,
+    "duration_str": "2d 7h 58m"
   },
   {
     "title": "suisse:::Répression du stalking, Moutier dans le Jura, factures médicales et crédits à la consommation: ce qui change en Suisse dès le 1er janvier",
@@ -58828,7 +58831,10 @@
   },
   {
     "title": "monde:::Donald Trump affirme avoir «capturé» le président du Venezuela Nicolas Maduro",
-    "added_at": "2026-01-03T09:44:54.987Z"
+    "added_at": "2026-01-03T09:44:54.987Z",
+    "removed_at": "2026-01-03T11:29:09.154Z",
+    "duration_minutes": 104,
+    "duration_str": "1h 44m"
   },
   {
     "title": "suisse:::En direct, Crans-Montana – «Tout s’est fait dans les normes», assure le propriétaire du bar «Le Constellation»",
@@ -58846,10 +58852,25 @@
   },
   {
     "title": "suisse:::En direct, Crans-Montana – Quatre victimes du Constellation ont été identifiées",
-    "added_at": "2026-01-03T10:21:15.640Z"
+    "added_at": "2026-01-03T10:21:15.640Z",
+    "removed_at": "2026-01-03T12:51:22.576Z",
+    "duration_minutes": 150,
+    "duration_str": "2h 30m"
   },
   {
     "title": "economie:::L’IA devrait continuer à tirer les dépenses d’investissement aux Etats-Unis",
     "added_at": "2026-01-03T10:30:53.693Z"
+  },
+  {
+    "title": "monde:::Le président du Venezuela Nicolas Maduro a été capturé par les forces américaines",
+    "added_at": "2026-01-03T11:29:09.154Z"
+  },
+  {
+    "title": "suisse:::En direct, Crans-Montana – Quatre victimes du Constellation identifiées, la commune inondée de mails de haine ou de compassion",
+    "added_at": "2026-01-03T12:51:22.576Z"
+  },
+  {
+    "title": "suisse:::Prévention des incendies dans les établissements publics: quels réglements, quelles responsabilités?",
+    "added_at": "2026-01-03T13:01:04.492Z"
   }
 ]
