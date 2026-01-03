@@ -62125,7 +62125,10 @@
   },
   {
     "title": "culture:::Alpenzu, la vie à 1778 mètres – épisode 6: «Sur les traces de Wanda»",
-    "added_at": "2026-01-01T21:52:37.271Z"
+    "added_at": "2026-01-01T21:52:37.271Z",
+    "removed_at": "2026-01-03T10:30:20.768Z",
+    "duration_minutes": 2197,
+    "duration_str": "1d 12h 37m"
   },
   {
     "title": "suisse:::Pour Nicolas Walder, quelques «coupures» dans une campagne permanente",
@@ -62172,7 +62175,10 @@
   },
   {
     "title": "economie:::L’année 2025 sous la loupe des horlogers: entre heurs, malheurs et prime aux vainqueurs",
-    "added_at": "2026-01-02T08:35:13.895Z"
+    "added_at": "2026-01-02T08:35:13.895Z",
+    "removed_at": "2026-01-03T10:30:20.768Z",
+    "duration_minutes": 1555,
+    "duration_str": "1d 1h 55m"
   },
   {
     "title": "suisse:::En direct, drame à Crans-Montana – Entre 80 et 100 blessés sont «en urgence absolue», selon les autorités valaisannes",
@@ -62276,7 +62282,10 @@
   },
   {
     "title": "suisse:::Drame de Crans-Montana: la Suisse a activé le mécanisme de protection civile de l’UE auquel elle n’a pas adhéré. De quoi parle-t-on exactement?",
-    "added_at": "2026-01-02T16:22:13.481Z"
+    "added_at": "2026-01-02T16:22:13.481Z",
+    "removed_at": "2026-01-03T10:30:20.768Z",
+    "duration_minutes": 1088,
+    "duration_str": "18h 8m"
   },
   {
     "title": "monde:::Yémen: les séparatistes annoncent le début d’un processus de deux ans vers l’indépendance du Sud",
@@ -62347,10 +62356,35 @@
   },
   {
     "title": "monde:::Donald Trump affirme avoir «capturé» le président du Venezuela Nicolas Maduro",
-    "added_at": "2026-01-03T09:44:53.805Z"
+    "added_at": "2026-01-03T09:44:53.805Z",
+    "removed_at": "2026-01-03T11:30:50.092Z",
+    "duration_minutes": 105,
+    "duration_str": "1h 45m"
   },
   {
     "title": "suisse:::En direct, Crans-Montana – «Tout s’est fait dans les normes», assure le propriétaire du bar «Le Constellation»",
-    "added_at": "2026-01-03T09:46:47.983Z"
+    "added_at": "2026-01-03T09:46:47.983Z",
+    "removed_at": "2026-01-03T10:17:10.765Z",
+    "duration_minutes": 30,
+    "duration_str": "30m"
+  },
+  {
+    "title": "suisse:::En direct, Crans-Montana – Quatre victimes du Constellation ont été identifées",
+    "added_at": "2026-01-03T10:17:10.765Z",
+    "removed_at": "2026-01-03T10:19:00.802Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "suisse:::En direct, Crans-Montana – Quatre victimes du Constellation ont été identifiées",
+    "added_at": "2026-01-03T10:19:00.802Z"
+  },
+  {
+    "title": "economie:::L’IA devrait continuer à tirer les dépenses d’investissement aux Etats-Unis",
+    "added_at": "2026-01-03T10:30:20.768Z"
+  },
+  {
+    "title": "monde:::Le président du Venezuela Nicolas Maduro a été capturé par les forces américaines",
+    "added_at": "2026-01-03T11:30:50.092Z"
   }
 ]
