@@ -61651,7 +61651,10 @@
   },
   {
     "title": "suisse:::L’improbable correspondance entre Brigitte Bardot et une Vaudoise: «Je ne garde que le beau: son cœur, sa simplicité»",
-    "added_at": "2025-12-30T20:05:02.970Z"
+    "added_at": "2025-12-30T20:05:02.970Z",
+    "removed_at": "2026-01-03T19:36:48.623Z",
+    "duration_minutes": 5731,
+    "duration_str": "3d 23h 31m"
   },
   {
     "title": "monde:::En Guinée, sacre sans surprise du putschiste Mamadi Doumbouya",
@@ -62033,7 +62036,10 @@
   },
   {
     "title": "suisse:::«J’ai vu des choses qu’on ne devrait jamais voir»: à Crans-Montana, une station sous le choc",
-    "added_at": "2026-01-01T16:10:05.434Z"
+    "added_at": "2026-01-01T16:10:05.434Z",
+    "removed_at": "2026-01-03T19:36:48.623Z",
+    "duration_minutes": 3086,
+    "duration_str": "2d 3h 26m"
   },
   {
     "title": "suisse:::En direct – Drame à Crans-Montana: suivez la conférence de presse de Guy Parmelin et des autorités valaisannes",
@@ -62302,7 +62308,10 @@
   },
   {
     "title": "suisse:::«Mon fils a été touché par les flammes pendant qu’il sortait du bar»: l’Italie mobilisée pour porter secours aux victimes de l’incendie de Crans-Montana",
-    "added_at": "2026-01-02T18:36:33.834Z"
+    "added_at": "2026-01-02T18:36:33.834Z",
+    "removed_at": "2026-01-03T17:52:48.575Z",
+    "duration_minutes": 1396,
+    "duration_str": "23h 16m"
   },
   {
     "title": "suisse:::En direct, drame à Crans-Montana – «Tout s’est fait dans les normes», assure le gérant du bar «Le Constellation»",
@@ -62421,7 +62430,10 @@
   },
   {
     "title": "monde:::L’enlèvement de Nicolas Maduro, trophée américain, mais pas forcément un cadeau selon les Vénézuéliens",
-    "added_at": "2026-01-03T13:56:24.782Z"
+    "added_at": "2026-01-03T13:56:24.782Z",
+    "removed_at": "2026-01-03T17:33:59.052Z",
+    "duration_minutes": 217,
+    "duration_str": "3h 37m"
   },
   {
     "title": "suisse:::Prévention des incendies dans les établissements publics: quels règlements, quelles responsabilités?",
@@ -62433,14 +62445,14 @@
   },
   {
     "title": "suisse:::Comment se ressourcer après une année intense: Helene Budliger Artieda",
-    "added_at": "2026-01-03T14:51:10.217Z"
+    "added_at": "2026-01-03T14:51:10.217Z",
+    "removed_at": "2026-01-03T18:06:03.528Z",
+    "duration_minutes": 194,
+    "duration_str": "3h 14m"
   },
   {
     "title": "monde:::«Après Nicolàs Maduro, Trump s’occupera de nous»: les Cubains fébriles après le rapt du président du Vénézuela",
-    "added_at": "2026-01-03T15:30:56.977Z",
-    "removed_at": "2026-01-03T17:16:51.694Z",
-    "duration_minutes": 105,
-    "duration_str": "1h 45m"
+    "added_at": "2026-01-03T15:30:56.977Z"
   },
   {
     "title": "sport:::En tennis, gare à la Suisse! L’Italie vise un Grand Chelem collectif inédit lors de la United Cup",
@@ -62455,6 +62467,53 @@
   },
   {
     "title": "monde:::Donald Trump veut que les Etats-Unis dirigent le Venezuela jusqu’à une «transition convenable»",
-    "added_at": "2026-01-03T17:18:41.721Z"
+    "added_at": "2026-01-03T17:18:41.721Z",
+    "removed_at": "2026-01-03T17:56:39.077Z",
+    "duration_minutes": 37,
+    "duration_str": "37m"
+  },
+  {
+    "title": "suisse:::Après l’incendie tragique de Crans-Montana, tout accuse les gérants du Constellation",
+    "added_at": "2026-01-03T17:50:58.492Z"
+  },
+  {
+    "title": "monde:::En direct, Crise au Venezuela: Nicolas Maduro renversé par les Américains, les Etats-Unis disent contrôler le pays",
+    "added_at": "2026-01-03T17:56:39.077Z",
+    "removed_at": "2026-01-03T18:11:45.037Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "suisse:::Après l’incendie tragique de Crans-Montana, tout semble accuser les gérants du Constellation",
+    "added_at": "2026-01-03T17:58:29.282Z",
+    "removed_at": "2026-01-03T18:06:03.528Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "monde:::En direct, Crise au Venezuela – Nicolas Maduro renversé par les Américains, les Etats-Unis disent contrôler le pays",
+    "added_at": "2026-01-03T18:11:45.037Z",
+    "removed_at": "2026-01-03T18:28:45.109Z",
+    "duration_minutes": 17,
+    "duration_str": "17m"
+  },
+  {
+    "title": "monde:::En direct, Crise au Venezuela – Nicolas Maduro renversé par les Américains, les Etats-Unis disent vouloir contrôler le pays",
+    "added_at": "2026-01-03T18:28:45.109Z",
+    "removed_at": "2026-01-03T18:42:02.121Z",
+    "duration_minutes": 13,
+    "duration_str": "13m"
+  },
+  {
+    "title": "monde:::En direct, Crise au Venezuela: Nicolas Maduro renversé par les Américains, les Etats-Unis disent vouloir contrôler le pays",
+    "added_at": "2026-01-03T18:42:02.121Z"
+  },
+  {
+    "title": "suisse:::«En santé mentale, plus vite la vie reprend son cours, mieux c’est»: vers une rentrée endeuillée pour une vingtaine d’écoles vaudoises",
+    "added_at": "2026-01-03T19:10:23.074Z"
+  },
+  {
+    "title": "culture:::Alpenzu, la vie à 1778 mètres – épisode 8: «Courir la montagne»",
+    "added_at": "2026-01-03T19:36:48.623Z"
   }
 ]
