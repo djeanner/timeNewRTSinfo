@@ -52164,7 +52164,10 @@
   },
   {
     "title": "Le brouillard se fait de plus en plus rare en Suisse",
-    "added_at": "2025-12-31T10:39:19.747Z"
+    "added_at": "2025-12-31T10:39:19.747Z",
+    "removed_at": "2026-01-04T07:14:22.025Z",
+    "duration_minutes": 5555,
+    "duration_str": "3d 20h 35m"
   },
   {
     "title": "Le Conseil fédéral publie sa photo officielle 2026",
@@ -52172,11 +52175,17 @@
   },
   {
     "title": "\"L'information de qualité est un élément essentiel de notre capacité de vivre ensemble\", affirme Yves Daccord",
-    "added_at": "2025-12-31T11:20:29.621Z"
+    "added_at": "2025-12-31T11:20:29.621Z",
+    "removed_at": "2026-01-04T07:04:45.232Z",
+    "duration_minutes": 5504,
+    "duration_str": "3d 19h 44m"
   },
   {
     "title": "Les caissettes du 20 minutes seront recyclées, mises en vente ou feront leur entrée au musée",
-    "added_at": "2025-12-31T12:01:33.021Z"
+    "added_at": "2025-12-31T12:01:33.021Z",
+    "removed_at": "2026-01-04T06:30:47.576Z",
+    "duration_minutes": 5429,
+    "duration_str": "3d 18h 29m"
   },
   {
     "title": "L'invité de La Matinale (vidéo) - Yves Daccord, président de la future fondation pour des médias de qualité",
@@ -52194,7 +52203,10 @@
   },
   {
     "title": "Risque d’incendie en altitude à cause de la sécheresse, feux interdits par endroits en Valais",
-    "added_at": "2025-12-31T12:47:37.060Z"
+    "added_at": "2025-12-31T12:47:37.060Z",
+    "removed_at": "2026-01-04T06:40:24.575Z",
+    "duration_minutes": 5392,
+    "duration_str": "3d 17h 52m"
   },
   {
     "title": "Evelyne Leclercq ancienne speakerine de TF1 et animatrice de \"Tournez Manège\" est décédée",
@@ -52216,7 +52228,10 @@
   },
   {
     "title": "Evelyne Leclercq, ancienne speakerine de TF1 et animatrice de \"Tournez Manège\", est décédée",
-    "added_at": "2025-12-31T13:38:21.108Z"
+    "added_at": "2025-12-31T13:38:21.108Z",
+    "removed_at": "2026-01-04T07:28:55.892Z",
+    "duration_minutes": 5390,
+    "duration_str": "3d 17h 50m"
   },
   {
     "title": "La bourse suisse clôt une de ses meilleures années, malgré les turbulences",
@@ -52235,7 +52250,10 @@
   },
   {
     "title": "La France veut interdire les réseaux sociaux aux moins de 15 ans",
-    "added_at": "2025-12-31T15:07:56.935Z"
+    "added_at": "2025-12-31T15:07:56.935Z",
+    "removed_at": "2026-01-04T08:36:43.281Z",
+    "duration_minutes": 5368,
+    "duration_str": "3d 17h 28m"
   },
   {
     "title": "Les pays du Pacifique ouvrent le bal du passage à la nouvelle année",
@@ -52944,10 +52962,7 @@
   },
   {
     "title": "Les Etats-Unis \"dirigeront\" le Venezuela en attendant une transition \"sûre\", affirme Donald Trump",
-    "added_at": "2026-01-03T17:10:43.680Z",
-    "removed_at": "2026-01-04T01:39:56.996Z",
-    "duration_minutes": 509,
-    "duration_str": "8h 29m"
+    "added_at": "2026-01-03T17:10:43.680Z"
   },
   {
     "title": "La revue de presse - Par Charlotte Frossard",
@@ -52962,10 +52977,7 @@
   },
   {
     "title": "Huit victimes décédées ont été identifiées, dont deux mineurs",
-    "added_at": "2026-01-03T18:23:17.625Z",
-    "removed_at": "2026-01-04T01:42:19.036Z",
-    "duration_minutes": 439,
-    "duration_str": "7h 19m"
+    "added_at": "2026-01-03T18:23:17.625Z"
   },
   {
     "title": "Berlin plongée dans le noir après un incendie, 35'000 foyers sans électricité jusqu'à jeudi",
@@ -53027,10 +53039,33 @@
   },
   {
     "title": "Une journée de deuil national prévue le 9 janvier pour les victimes de Crans-Montana",
-    "added_at": "2026-01-04T03:11:56.056Z"
+    "added_at": "2026-01-04T03:11:56.056Z",
+    "removed_at": "2026-01-04T06:45:17.807Z",
+    "duration_minutes": 213,
+    "duration_str": "3h 33m"
   },
   {
     "title": "Nicolas Maduro est arrivé sur le sol américain et incarcéré à Brooklyn",
     "added_at": "2026-01-04T04:27:04.072Z"
+  },
+  {
+    "title": "Les phares de voitures éblouissent une personne sur trois en Suisse",
+    "added_at": "2026-01-04T06:30:47.576Z"
+  },
+  {
+    "title": "Une journée de deuil national prévue le 9 janvier en hommage aux victimes de Crans-Montana",
+    "added_at": "2026-01-04T06:42:50.092Z"
+  },
+  {
+    "title": "L'économie suisse, cet exemple de résilience face aux crises",
+    "added_at": "2026-01-04T07:04:45.232Z"
+  },
+  {
+    "title": "Un jeune violoncelliste vaudois remporte la finale de \"Prodiges\" sur France 2",
+    "added_at": "2026-01-04T07:28:55.892Z"
+  },
+  {
+    "title": "Le Royaume-Uni et la France ont attaqué ensemble le groupe Etat islamique en Syrie",
+    "added_at": "2026-01-04T08:36:43.281Z"
   }
 ]

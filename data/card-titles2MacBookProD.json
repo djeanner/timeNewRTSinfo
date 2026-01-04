@@ -58704,7 +58704,10 @@
   },
   {
     "title": "culture:::A Vienne, le mythe inégalé du concert du Nouvel An, entre passé sombre et tradition",
-    "added_at": "2026-01-02T10:32:04.209Z"
+    "added_at": "2026-01-02T10:32:04.209Z",
+    "removed_at": "2026-01-04T07:12:00.243Z",
+    "duration_minutes": 2679,
+    "duration_str": "1d 20h 39m"
   },
   {
     "title": "culture:::Le «Beau Danube rouge»: quand la valse viennoise était une arme révolutionnaire",
@@ -58715,7 +58718,10 @@
   },
   {
     "title": "cyber:::2025, l’année où les vidéos générées par l’intelligence artificielle ont basculé dans l’hyperréalisme",
-    "added_at": "2026-01-02T11:27:42.221Z"
+    "added_at": "2026-01-02T11:27:42.221Z",
+    "removed_at": "2026-01-04T08:24:34.533Z",
+    "duration_minutes": 2696,
+    "duration_str": "1d 20h 56m"
   },
   {
     "title": "suisse:::Répression du «stalking», Moutier dans le Jura, factures médicales et crédits à la consommation: ce qui change en Suisse dès le 1er janvier",
@@ -58808,7 +58814,10 @@
   },
   {
     "title": "suisse:::Crans-Montana: Mathias Reynard, un président de gouvernement coutumier des crises, mais qui ne cache pas son émotion",
-    "added_at": "2026-01-02T19:56:29.807Z"
+    "added_at": "2026-01-02T19:56:29.807Z",
+    "removed_at": "2026-01-04T07:19:18.663Z",
+    "duration_minutes": 2122,
+    "duration_str": "1d 11h 22m"
   },
   {
     "title": "suisse:::Crans-Montana: ces grands brûlés qui nécessitent des soins d’une grande complexité",
@@ -58824,10 +58833,7 @@
   },
   {
     "title": "culture:::Alpenzu, la vie à 1778 mètres – épisode 7: «Les nouveaux touristes»",
-    "added_at": "2026-01-03T06:43:26.247Z",
-    "removed_at": "2026-01-03T14:52:33.191Z",
-    "duration_minutes": 489,
-    "duration_str": "8h 9m"
+    "added_at": "2026-01-03T06:43:26.247Z"
   },
   {
     "title": "monde:::Au Venezuela, des explosions sont entendues à Caracas",
@@ -58845,7 +58851,10 @@
   },
   {
     "title": "suisse:::«Pour les familles, chaque heure compte»: après le drame de Crans-Montana, le labeur des enquêteurs pour mettre des noms sur les corps",
-    "added_at": "2026-01-03T09:03:48.646Z"
+    "added_at": "2026-01-03T09:03:48.646Z",
+    "removed_at": "2026-01-04T06:30:47.627Z",
+    "duration_minutes": 1286,
+    "duration_str": "21h 26m"
   },
   {
     "title": "monde:::Donald Trump affirme avoir «capturé» le président du Venezuela Nicolas Maduro",
@@ -58988,11 +58997,17 @@
   },
   {
     "title": "suisse:::«En santé mentale, plus vite la vie reprend son cours, mieux c’est»: vers une rentrée endeuillée pour une vingtaine d’écoles vaudoises",
-    "added_at": "2026-01-03T19:09:30.366Z"
+    "added_at": "2026-01-03T19:09:30.366Z",
+    "removed_at": "2026-01-04T08:39:05.467Z",
+    "duration_minutes": 809,
+    "duration_str": "13h 29m"
   },
   {
     "title": "culture:::Alpenzu, la vie à 1778 mètres – épisode 8: «Courir la montagne»",
-    "added_at": "2026-01-03T19:36:08.849Z"
+    "added_at": "2026-01-03T19:36:08.849Z",
+    "removed_at": "2026-01-04T08:24:34.533Z",
+    "duration_minutes": 768,
+    "duration_str": "12h 48m"
   },
   {
     "title": "monde:::Donald Trump capture Nicolas Maduro: «Nous sommes passés du rôle de gendarme à celui de tyran du monde»",
@@ -59000,6 +59015,40 @@
   },
   {
     "title": "monde:::En direct, Crise au Venezuela: Nicolas Maduro renversé par les Américains, les Etats-Unis disent vouloir diriger le pays pour «assurer la transition»",
-    "added_at": "2026-01-03T21:49:25.860Z"
+    "added_at": "2026-01-03T21:49:25.860Z",
+    "removed_at": "2026-01-04T06:18:37.984Z",
+    "duration_minutes": 509,
+    "duration_str": "8h 29m"
+  },
+  {
+    "title": "monde:::En direct, Crise au Venezuela: Nicolás Maduro est arrivé à New York où il sera incarcéré",
+    "added_at": "2026-01-04T06:18:37.984Z",
+    "removed_at": "2026-01-04T08:27:00.468Z",
+    "duration_minutes": 128,
+    "duration_str": "2h 8m"
+  },
+  {
+    "title": "suisse:::Drame de Crans-Montana: «Notre Arthur est maintenant parti faire la fête au paradis»",
+    "added_at": "2026-01-04T06:30:47.627Z"
+  },
+  {
+    "title": "monde:::Au moins quatre morts dans des manifestations en Iran",
+    "added_at": "2026-01-04T07:12:00.243Z"
+  },
+  {
+    "title": "suisse:::Des coupeurs de feu pour «soulager» les brûlés de Crans-Montana, entre charlatanisme et effet placebo",
+    "added_at": "2026-01-04T07:16:48.277Z"
+  },
+  {
+    "title": "sport:::Luke Littler reste champion du monde: le prodige de 18 ans règne sur un jeu de fléchettes en plein essor",
+    "added_at": "2026-01-04T08:24:34.533Z"
+  },
+  {
+    "title": "monde:::En direct, Crise au Venezuela: Nicolás Maduro est arrivé à New York où il a été incarcéré",
+    "added_at": "2026-01-04T08:27:00.468Z"
+  },
+  {
+    "title": "suisse:::«La pire chose imaginable est d’avoir une responsabilité dans un tel événement»: après le drame de Crans-Montana, bars et boîtes vont se remettre en question",
+    "added_at": "2026-01-04T08:39:05.467Z"
   }
 ]
