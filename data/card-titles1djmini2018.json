@@ -81102,7 +81102,10 @@
   },
   {
     "title": "Israël pourrait suspendre l'accès de plus de trente ONG internationales à Gaza, la Suisse réagit",
-    "added_at": "2025-12-31T08:05:05.948Z"
+    "added_at": "2025-12-31T08:05:05.948Z",
+    "removed_at": "2026-01-03T22:23:31.154Z",
+    "duration_minutes": 5178,
+    "duration_str": "3d 14h 18m"
   },
   {
     "title": "Les pharmacies valaisannes sous pression pendant les fêtes",
@@ -81519,7 +81522,10 @@
   },
   {
     "title": "Témoignage d’un jeune homme qui a vu l’incendie depuis la rue: interview d’Alexis Lagger",
-    "added_at": "2026-01-01T20:27:26.284Z"
+    "added_at": "2026-01-01T20:27:26.284Z",
+    "removed_at": "2026-01-03T22:04:33.589Z",
+    "duration_minutes": 2977,
+    "duration_str": "2d 1h 37m"
   },
   {
     "title": "Les méthodes d’intervention des secours lors d’un incendie dans un lieu clos: interview de Daniel Barouch et Wassim Raf",
@@ -81940,10 +81946,7 @@
   },
   {
     "title": "La revue de presse - Par Charlotte Frossard",
-    "added_at": "2026-01-03T18:02:19.235Z",
-    "removed_at": "2026-01-03T21:24:43.495Z",
-    "duration_minutes": 202,
-    "duration_str": "3h 22m"
+    "added_at": "2026-01-03T18:02:19.235Z"
   },
   {
     "title": "Huit victimes ont été identifiées, dont deux mineurs",
@@ -81991,5 +81994,9 @@
   {
     "title": "Une cérémonie est organisée à Lutry en hommage aux disparus du drame de Crans-Montana",
     "added_at": "2026-01-03T21:24:43.495Z"
+  },
+  {
+    "title": "L'Ukraine et ses alliés européens discutent de la suite des pourparlers de paix à Kiev",
+    "added_at": "2026-01-03T22:23:31.154Z"
   }
 ]
