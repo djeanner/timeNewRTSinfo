@@ -81244,7 +81244,10 @@
   },
   {
     "title": "La France veut interdire les réseaux sociaux aux moins de 15 ans",
-    "added_at": "2025-12-31T15:09:01.029Z"
+    "added_at": "2025-12-31T15:09:01.029Z",
+    "removed_at": "2026-01-04T08:36:00.749Z",
+    "duration_minutes": 5366,
+    "duration_str": "3d 17h 26m"
   },
   {
     "title": "Les pays du Pacifique ouvrent le bal du passage à la nouvelle année",
@@ -81547,7 +81550,10 @@
   },
   {
     "title": "Les méthodes d’intervention des secours lors d’un incendie dans un lieu clos: interview de Daniel Barouch et Wassim Raf",
-    "added_at": "2026-01-01T20:27:26.284Z"
+    "added_at": "2026-01-01T20:27:26.284Z",
+    "removed_at": "2026-01-04T09:04:21.459Z",
+    "duration_minutes": 3636,
+    "duration_str": "2d 12h 36m"
   },
   {
     "title": "Témoignage d'un jeune homme qui a vu l'incendie depuis la rue: interview d'Alexis Lagger",
@@ -81931,10 +81937,7 @@
   },
   {
     "title": "Ouverture d'une instruction pénale contre les gérants français du bar",
-    "added_at": "2026-01-03T14:38:00.027Z",
-    "removed_at": "2026-01-03T15:55:32.870Z",
-    "duration_minutes": 77,
-    "duration_str": "1h 17m"
+    "added_at": "2026-01-03T14:38:00.027Z"
   },
   {
     "title": "En Iran, Ali Khamenei juge \"justes\" les revendications économiques des manifestants et avertit les \"émeutiers\"",
@@ -81964,7 +81967,10 @@
   },
   {
     "title": "La revue de presse - Par Charlotte Frossard",
-    "added_at": "2026-01-03T18:02:19.235Z"
+    "added_at": "2026-01-03T18:02:19.235Z",
+    "removed_at": "2026-01-04T09:02:25.347Z",
+    "duration_minutes": 900,
+    "duration_str": "15h"
   },
   {
     "title": "Huit victimes ont été identifiées, dont deux mineurs",
@@ -82052,7 +82058,10 @@
   },
   {
     "title": "Une journée de deuil national prévue le 9 janvier en hommage aux victimes de Crans-Montana",
-    "added_at": "2026-01-04T06:44:23.981Z"
+    "added_at": "2026-01-04T06:44:23.981Z",
+    "removed_at": "2026-01-04T08:49:10.596Z",
+    "duration_minutes": 124,
+    "duration_str": "2h 4m"
   },
   {
     "title": "L'économie suisse, cet exemple de résilience face aux crises",
@@ -82061,5 +82070,45 @@
   {
     "title": "Un jeune violoncelliste vaudois remporte la finale de \"Prodiges\" sur France 2",
     "added_at": "2026-01-04T07:27:54.679Z"
+  },
+  {
+    "title": "Le Royaume-Uni et la France ont attaqué ensemble le groupe Etat islamique en Syrie",
+    "added_at": "2026-01-04T08:36:00.749Z"
+  },
+  {
+    "title": "Seize nouvelles victimes ont été identifiées, 24 personnes identifiées au total",
+    "added_at": "2026-01-04T08:49:10.596Z",
+    "removed_at": "2026-01-04T08:51:04.724Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Seize nouvelles victimes ont été identifiées, 24 défunts identifiés à ce jour",
+    "added_at": "2026-01-04T08:51:04.724Z",
+    "removed_at": "2026-01-04T08:53:01.150Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Seize nouvelles victimes ont été identifiées, dont plusieurs mineurs de 14 à 17 ans",
+    "added_at": "2026-01-04T08:53:01.150Z",
+    "removed_at": "2026-01-04T09:08:05.522Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "Bilan provisoire de 40 morts et 119 blessés dans l’incendie de Crans-Montana",
+    "added_at": "2026-01-04T09:04:21.459Z"
+  },
+  {
+    "title": "Seize nouvelles victimes identifiées, dont plusieurs mineurs: suivez la messe d'hommage en direct",
+    "added_at": "2026-01-04T09:08:05.522Z",
+    "removed_at": "2026-01-04T09:10:01.484Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Seize nouvelles victimes identifiées, dont plusieurs mineures: suivez la messe d'hommage en direct",
+    "added_at": "2026-01-04T09:10:01.484Z"
   }
 ]

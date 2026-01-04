@@ -62246,7 +62246,10 @@
   },
   {
     "title": "cyber:::2025, l’année où les vidéos générées par l’intelligence artificielle ont basculé dans l’hyperréalisme",
-    "added_at": "2026-01-02T11:27:08.794Z"
+    "added_at": "2026-01-02T11:27:08.794Z",
+    "removed_at": "2026-01-04T08:22:44.967Z",
+    "duration_minutes": 2695,
+    "duration_str": "1d 20h 55m"
   },
   {
     "title": "suisse:::Répression du «stalking», Moutier dans le Jura, factures médicales et crédits à la consommation: ce qui change en Suisse dès le 1er janvier",
@@ -62354,14 +62357,14 @@
   },
   {
     "title": "suisse:::«Nous voulons connaître la vérité»: après le drame, ces questions qui hantent Crans-Montana",
-    "added_at": "2026-01-02T20:41:37.732Z"
+    "added_at": "2026-01-02T20:41:37.732Z",
+    "removed_at": "2026-01-04T09:19:25.356Z",
+    "duration_minutes": 2197,
+    "duration_str": "1d 12h 37m"
   },
   {
     "title": "culture:::Alpenzu, la vie à 1778 mètres – épisode 7: «Les nouveaux touristes»",
-    "added_at": "2026-01-03T06:42:16.769Z",
-    "removed_at": "2026-01-03T14:51:10.217Z",
-    "duration_minutes": 488,
-    "duration_str": "8h 8m"
+    "added_at": "2026-01-03T06:42:16.769Z"
   },
   {
     "title": "monde:::Au Venezuela, des explosions sont entendues à Caracas",
@@ -62453,7 +62456,10 @@
   },
   {
     "title": "suisse:::En direct, Crans-Montana – Une instruction est ouverte contre les gérants du Constellation",
-    "added_at": "2026-01-03T14:30:24.325Z"
+    "added_at": "2026-01-03T14:30:24.325Z",
+    "removed_at": "2026-01-04T08:56:45.568Z",
+    "duration_minutes": 1106,
+    "duration_str": "18h 26m"
   },
   {
     "title": "suisse:::Comment se ressourcer après une année intense: Helene Budliger Artieda",
@@ -62525,11 +62531,17 @@
   },
   {
     "title": "suisse:::«En santé mentale, plus vite la vie reprend son cours, mieux c’est»: vers une rentrée endeuillée pour une vingtaine d’écoles vaudoises",
-    "added_at": "2026-01-03T19:10:23.074Z"
+    "added_at": "2026-01-03T19:10:23.074Z",
+    "removed_at": "2026-01-04T08:39:44.576Z",
+    "duration_minutes": 809,
+    "duration_str": "13h 29m"
   },
   {
     "title": "culture:::Alpenzu, la vie à 1778 mètres – épisode 8: «Courir la montagne»",
-    "added_at": "2026-01-03T19:36:48.623Z"
+    "added_at": "2026-01-03T19:36:48.623Z",
+    "removed_at": "2026-01-04T08:22:44.967Z",
+    "duration_minutes": 765,
+    "duration_str": "12h 45m"
   },
   {
     "title": "monde:::Donald Trump capture Nicolas Maduro: «Nous sommes passés du rôle de gendarme à celui de tyran du monde»",
@@ -62544,7 +62556,10 @@
   },
   {
     "title": "monde:::En direct, Crise au Venezuela: Nicolás Maduro est arrivé à New York où il sera incarcéré",
-    "added_at": "2026-01-04T06:17:56.998Z"
+    "added_at": "2026-01-04T06:17:56.998Z",
+    "removed_at": "2026-01-04T08:26:31.218Z",
+    "duration_minutes": 128,
+    "duration_str": "2h 8m"
   },
   {
     "title": "suisse:::Drame de Crans-Montana: «Notre Arthur est maintenant parti faire la fête au paradis»",
@@ -62557,5 +62572,46 @@
   {
     "title": "suisse:::Des coupeurs de feu pour «soulager» les brûlés de Crans-Montana, entre charlatanisme et effet placebo",
     "added_at": "2026-01-04T07:18:24.484Z"
+  },
+  {
+    "title": "sport:::Luke Littler reste champion du monde: le prodige de 18 ans règne sur un jeu de fléchettes en plein essor",
+    "added_at": "2026-01-04T08:22:44.967Z"
+  },
+  {
+    "title": "monde:::En direct, Crise au Venezuela: Nicolás Maduro est arrivé à New York où il a été incarcéré",
+    "added_at": "2026-01-04T08:26:31.218Z",
+    "removed_at": "2026-01-04T09:10:01.556Z",
+    "duration_minutes": 43,
+    "duration_str": "43m"
+  },
+  {
+    "title": "suisse:::«La pire chose imaginable est d’avoir une responsabilité dans un tel événement»: après le drame de Crans-Montana, bars et boîtes vont se remettre en question",
+    "added_at": "2026-01-04T08:39:44.576Z"
+  },
+  {
+    "title": "monde:::Donald Trump capture Nicolás Maduro: «Nous sommes passés du rôle de gendarme à celui de tyran du monde»",
+    "added_at": "2026-01-04T08:54:51.544Z",
+    "removed_at": "2026-01-04T09:10:01.556Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "suisse:::En direct, Crans-Montana – 24 corps du drame du Constellation ont été identifiés",
+    "added_at": "2026-01-04T08:56:45.568Z",
+    "removed_at": "2026-01-04T09:11:51.520Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "monde:::En direct, Crise au Venezuela: Nicolas Maduro est arrivé à New York où il a été incarcéré",
+    "added_at": "2026-01-04T09:10:01.556Z"
+  },
+  {
+    "title": "suisse:::En direct – La messe d'hommage se déroule à Crans-Montana, 24 corps du drame ont été identifiés",
+    "added_at": "2026-01-04T09:11:51.520Z"
+  },
+  {
+    "title": "suisse:::«En Valais, notre jeunesse va être durablement affectée»: à Crans-Montana, les Eglises ouvrent des lieux de recueillement",
+    "added_at": "2026-01-04T09:19:25.356Z"
   }
 ]
