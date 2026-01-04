@@ -58725,7 +58725,10 @@
   },
   {
     "title": "suisse:::Répression du «stalking», Moutier dans le Jura, factures médicales et crédits à la consommation: ce qui change en Suisse dès le 1er janvier",
-    "added_at": "2026-01-02T12:13:36.869Z"
+    "added_at": "2026-01-02T12:13:36.869Z",
+    "removed_at": "2026-01-04T15:11:31.847Z",
+    "duration_minutes": 3057,
+    "duration_str": "2d 2h 57m"
   },
   {
     "title": "suisse:::En direct, drame à Crans-Montana – Les 22 brûlés graves hospitalisés au CHUV ont été identifiés",
@@ -59085,7 +59088,10 @@
   },
   {
     "title": "monde:::En direct, Crise au Venezuela: Nicolas Maduro est arrivé à New York où il a été incarcéré",
-    "added_at": "2026-01-04T09:10:42.547Z"
+    "added_at": "2026-01-04T09:10:42.547Z",
+    "removed_at": "2026-01-04T14:18:14.226Z",
+    "duration_minutes": 307,
+    "duration_str": "5h 7m"
   },
   {
     "title": "suisse:::En direct – La messe d'hommage se déroule à Crans-Montana, 24 corps du drame ont été identifiés",
@@ -59120,5 +59126,20 @@
   {
     "title": "monde:::«Après Nicolas Maduro, Trump s’occupera de nous»: les Cubains fébriles après le rapt du président du Venezuela",
     "added_at": "2026-01-04T13:53:54.309Z"
+  },
+  {
+    "title": "monde:::En direct, Crise au Venezuela: Nicolas Maduro a été incarcéré dans une prison fédérale de New York",
+    "added_at": "2026-01-04T14:18:14.226Z",
+    "removed_at": "2026-01-04T14:32:45.377Z",
+    "duration_minutes": 14,
+    "duration_str": "14m"
+  },
+  {
+    "title": "monde:::En direct, crise au Venezuela – Nicolas Maduro a été incarcéré dans une prison fédérale de New York",
+    "added_at": "2026-01-04T14:32:45.377Z"
+  },
+  {
+    "title": "suisse:::«Dégage. Dégage d’ici»: à Genève, une altercation devant la synagogue rebondit au Grand Conseil",
+    "added_at": "2026-01-04T15:11:31.847Z"
   }
 ]

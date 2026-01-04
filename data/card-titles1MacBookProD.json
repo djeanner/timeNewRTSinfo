@@ -52171,7 +52171,10 @@
   },
   {
     "title": "Le Conseil fédéral publie sa photo officielle 2026",
-    "added_at": "2025-12-31T11:03:31.883Z"
+    "added_at": "2025-12-31T11:03:31.883Z",
+    "removed_at": "2026-01-04T15:11:31.794Z",
+    "duration_minutes": 6007,
+    "duration_str": "4d 4h 7m"
   },
   {
     "title": "\"L'information de qualité est un élément essentiel de notre capacité de vivre ensemble\", affirme Yves Daccord",
@@ -52238,7 +52241,10 @@
   },
   {
     "title": "La bourse suisse clôt une de ses meilleures années, malgré les turbulences",
-    "added_at": "2025-12-31T13:55:19.505Z"
+    "added_at": "2025-12-31T13:55:19.505Z",
+    "removed_at": "2026-01-04T14:35:11.512Z",
+    "duration_minutes": 5799,
+    "duration_str": "4d 39m"
   },
   {
     "title": "Après 400 ans de service, le Danemark met le facteur à la retraite",
@@ -52392,7 +52398,10 @@
   },
   {
     "title": "Claude Thébert, l'homme qui avait fait du théâtre un art de la rencontre",
-    "added_at": "2026-01-01T10:57:30.606Z"
+    "added_at": "2026-01-01T10:57:30.606Z",
+    "removed_at": "2026-01-04T16:02:18.377Z",
+    "duration_minutes": 4624,
+    "duration_str": "3d 5h 4m"
   },
   {
     "title": "L'EPFL dresse un bilan positif de son programme d'adoption d'animaux de laboratoire",
@@ -52645,7 +52654,10 @@
   },
   {
     "title": "L'invité de La Matinale - Mathias Reynard, président du Conseil d’Etat valaisan",
-    "added_at": "2026-01-02T08:21:12.622Z"
+    "added_at": "2026-01-02T08:21:12.622Z",
+    "removed_at": "2026-01-04T15:04:15.804Z",
+    "duration_minutes": 3283,
+    "duration_str": "2d 6h 43m"
   },
   {
     "title": "\"Qui brille au combat\", autofiction poignante de Joséphine Japy sur le handicap de sa sœur",
@@ -52743,11 +52755,17 @@
   },
   {
     "title": "Conférence de presse sur l'incendie à Crans-Montana: La procureure générale valaisanne Beatrice Pilloud donne des informations sur l'enquête",
-    "added_at": "2026-01-02T16:28:08.770Z"
+    "added_at": "2026-01-02T16:28:08.770Z",
+    "removed_at": "2026-01-04T16:04:44.422Z",
+    "duration_minutes": 2856,
+    "duration_str": "1d 23h 36m"
   },
   {
     "title": "Conférence de presse sur l'incendie à Crans-Montana: Le commandant de la police cantonale Frédéric Gisler annonce un un bilan de 40 morts et 119 blessés",
-    "added_at": "2026-01-02T17:26:14.058Z"
+    "added_at": "2026-01-02T17:26:14.058Z",
+    "removed_at": "2026-01-04T16:04:44.422Z",
+    "duration_minutes": 2798,
+    "duration_str": "1d 22h 38m"
   },
   {
     "title": "Incendie de Crans-Montana: quatrième émission spéciale",
@@ -53118,10 +53136,7 @@
   },
   {
     "title": "Bilan provisoire de 40 morts et 119 blessés dans l’incendie de Crans-Montana",
-    "added_at": "2026-01-04T09:05:55.078Z",
-    "removed_at": "2026-01-04T10:23:16.959Z",
-    "duration_minutes": 77,
-    "duration_str": "1h 17m"
+    "added_at": "2026-01-04T09:05:55.078Z"
   },
   {
     "title": "Seize nouvelles victimes identifiées, dont plusieurs mineurs: suivez la messe d'hommage en direct",
@@ -53172,5 +53187,39 @@
   {
     "title": "Une instruction pénale ouverte contre les gérants français du bar à Crans-Montana: interview de Nicolas Rivard",
     "added_at": "2026-01-04T14:03:32.222Z"
+  },
+  {
+    "title": "La ligne CFF Genève-Lausanne paralysée entre Coppet et Nyon",
+    "added_at": "2026-01-04T14:35:11.512Z",
+    "removed_at": "2026-01-04T15:21:09.194Z",
+    "duration_minutes": 45,
+    "duration_str": "45m"
+  },
+  {
+    "title": "Le rôle des mousses acoustiques dans l’incendie de Crans-Montana: interview de Christophe Anet",
+    "added_at": "2026-01-04T15:04:15.804Z"
+  },
+  {
+    "title": "Une foule immense a rendu hommage aux victimes à Crans-Montana",
+    "added_at": "2026-01-04T15:11:31.794Z",
+    "removed_at": "2026-01-04T16:45:54.889Z",
+    "duration_minutes": 94,
+    "duration_str": "1h 34m"
+  },
+  {
+    "title": "Le trafic ferroviaire sur la ligne Genève-Lausanne restreint entre Coppet et Nyon",
+    "added_at": "2026-01-04T15:21:09.194Z"
+  },
+  {
+    "title": "Un groupe d'extrême gauche soupçonné après la coupure d'électricité à Berlin",
+    "added_at": "2026-01-04T16:02:18.377Z"
+  },
+  {
+    "title": "Camille Lanci revient sur la messe et la marche blanche à Crans (VS)",
+    "added_at": "2026-01-04T16:04:44.422Z"
+  },
+  {
+    "title": "Une foule imposante a rendu hommage aux victimes à Crans-Montana",
+    "added_at": "2026-01-04T16:45:54.889Z"
   }
 ]
