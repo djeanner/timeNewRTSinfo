@@ -62750,7 +62750,10 @@
   },
   {
     "title": "culture:::Dix films attendus pour le premier semestre 2026",
-    "added_at": "2026-01-04T18:58:03.585Z"
+    "added_at": "2026-01-04T18:58:03.585Z",
+    "removed_at": "2026-01-05T10:56:26.375Z",
+    "duration_minutes": 958,
+    "duration_str": "15h 58m"
   },
   {
     "title": "culture:::A l'occasion des 80 ans de la Série noire, un essai met en lumière les femmes qui l'ont portée",
@@ -62822,7 +62825,10 @@
   },
   {
     "title": "suisse:::En direct, le drame de Crans-Montana – Les 40 victimes du Constellation sont identifiées, notre triste bilan par nationalités",
-    "added_at": "2026-01-04T21:33:12.546Z"
+    "added_at": "2026-01-04T21:33:12.546Z",
+    "removed_at": "2026-01-05T10:35:41.913Z",
+    "duration_minutes": 782,
+    "duration_str": "13h 2m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Une réunion des alliés de l'Ukraine pour avancer sur le plan de paix",
@@ -62847,7 +62853,10 @@
   },
   {
     "title": "monde:::En direct, Guerre en Ukraine – Deux morts à Kiev dans des attaques russes",
-    "added_at": "2026-01-05T03:09:40.987Z"
+    "added_at": "2026-01-05T03:09:40.987Z",
+    "removed_at": "2026-01-05T10:13:02.393Z",
+    "duration_minutes": 423,
+    "duration_str": "7h 3m"
   },
   {
     "title": "monde:::En direct, crise au Venezuela – Les Etats-Unis «sont aux commandes» du Venezuela, déclare Donald Trump",
@@ -62866,7 +62875,10 @@
   },
   {
     "title": "monde:::En Images – Le monde réagit à l’enlèvement de Nicolas Maduro",
-    "added_at": "2026-01-05T05:39:00.495Z"
+    "added_at": "2026-01-05T05:39:00.495Z",
+    "removed_at": "2026-01-05T11:13:26.166Z",
+    "duration_minutes": 334,
+    "duration_str": "5h 34m"
   },
   {
     "title": "monde:::Donald Trump réaffirme son souhait d’un Groenland américain, après l’objection du Danemark",
@@ -62881,11 +62893,17 @@
   },
   {
     "title": "economie:::Place financière genevoise: l’innovation passe par une formation de pointe",
-    "added_at": "2026-01-05T07:24:48.423Z"
+    "added_at": "2026-01-05T07:24:48.423Z",
+    "removed_at": "2026-01-05T10:37:31.943Z",
+    "duration_minutes": 192,
+    "duration_str": "3h 12m"
   },
   {
     "title": "monde:::En direct, crise au Venezuela – Les Etats-Unis «sont aux commandes» du pays, déclare Donald Trump",
-    "added_at": "2026-01-05T08:02:38.634Z"
+    "added_at": "2026-01-05T08:02:38.634Z",
+    "removed_at": "2026-01-05T11:41:45.222Z",
+    "duration_minutes": 219,
+    "duration_str": "3h 39m"
   },
   {
     "title": "sciences:::Serge Zaka prend la clé des champs",
@@ -62894,5 +62912,25 @@
   {
     "title": "culture:::En 2026, le destin immédiat de Séverine Chavrier et de la Comédie de Genève pourrait se jouer au tribunal",
     "added_at": "2026-01-05T09:06:47.481Z"
+  },
+  {
+    "title": "monde:::En direct, Guerre en Ukraine – Moscou revendique la capture d’une localité dans la région de Soumy",
+    "added_at": "2026-01-05T10:13:02.393Z"
+  },
+  {
+    "title": "suisse:::En direct, le drame de Crans-Montana – Emmanuel Macron viendra en Valais ce vendredi pour l’hommage aux victimes",
+    "added_at": "2026-01-05T10:35:41.913Z"
+  },
+  {
+    "title": "sciences:::La résine de pin, cet indice inattendu qui éclaire l’attaque maritime du «Hjortspring», au Danemark à l’âge du fer",
+    "added_at": "2026-01-05T10:56:26.375Z"
+  },
+  {
+    "title": "monde:::Les dix accusés de cyberharcèlement visant Brigitte Macron sont jugés coupables",
+    "added_at": "2026-01-05T11:13:26.166Z"
+  },
+  {
+    "title": "monde:::En direct, crise au Venezuela – Le Conseil fédéral bloque les éventuels avoirs de Nicolas Maduro",
+    "added_at": "2026-01-05T11:41:45.222Z"
   }
 ]
