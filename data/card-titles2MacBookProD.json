@@ -59574,7 +59574,10 @@
   },
   {
     "title": "monde:::En direct, crise au Venezuela – Devant un juge à New York, Nicolas Maduro plaide non coupable et dit avoir été «kidnappé»",
-    "added_at": "2026-01-05T17:37:30.806Z"
+    "added_at": "2026-01-05T17:37:30.806Z",
+    "removed_at": "2026-01-05T20:00:46.452Z",
+    "duration_minutes": 143,
+    "duration_str": "2h 23m"
   },
   {
     "title": "suisse:::Exclusif – A Crans-Montana, le couple de gérants français était propriétaire du «Constellation» depuis 2022",
@@ -59603,5 +59606,9 @@
   {
     "title": "suisse:::En direct, Crans-Montana – Les parents d’une victime demandent l’interdiction de la conférence de presse de la commune",
     "added_at": "2026-01-05T19:43:35.972Z"
+  },
+  {
+    "title": "monde:::En direct, crise au Venezuela – A Caracas, Delcy Rodriguez prête serment comme présidente par intérim",
+    "added_at": "2026-01-05T20:00:46.452Z"
   }
 ]
