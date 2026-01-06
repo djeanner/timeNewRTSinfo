@@ -81192,7 +81192,10 @@
   },
   {
     "title": "L'invité de La Matinale (vidéo) - Yves Daccord, président de la future fondation pour des médias de qualité",
-    "added_at": "2025-12-31T12:22:39.199Z"
+    "added_at": "2025-12-31T12:22:39.199Z",
+    "removed_at": "2026-01-06T08:02:09.250Z",
+    "duration_minutes": 8379,
+    "duration_str": "5d 19h 39m"
   },
   {
     "title": "La grippe continue de progresser en Suisse",
@@ -81936,7 +81939,10 @@
   },
   {
     "title": "L'UDC ne visera pas un troisième siège au Conseil fédéral en 2027",
-    "added_at": "2026-01-03T04:29:34.041Z"
+    "added_at": "2026-01-03T04:29:34.041Z",
+    "removed_at": "2026-01-06T08:36:13.591Z",
+    "duration_minutes": 4566,
+    "duration_str": "3d 4h 6m"
   },
   {
     "title": "Hausse massive des investissements pour la recherche militaire dans les universités suisses",
@@ -81997,7 +82003,10 @@
   },
   {
     "title": "La Suisse bat la France grâce à Bencic et Wawrinka",
-    "added_at": "2026-01-03T08:33:09.382Z"
+    "added_at": "2026-01-03T08:33:09.382Z",
+    "removed_at": "2026-01-06T08:19:12.701Z",
+    "duration_minutes": 4306,
+    "duration_str": "2d 23h 46m"
   },
   {
     "title": "Explosions à Caracas, le Venezuela dénonce une \"très grave agression\" américaine",
@@ -82376,10 +82385,7 @@
   },
   {
     "title": "Emission spéciale sur l'incendie à Crans-Montana",
-    "added_at": "2026-01-04T18:03:16.181Z",
-    "removed_at": "2026-01-05T20:03:18.082Z",
-    "duration_minutes": 1560,
-    "duration_str": "1d 2h"
+    "added_at": "2026-01-04T18:03:16.181Z"
   },
   {
     "title": "Aucun laxisme de la part de la commune de Crans-Montana dans le système de contrôle des bars, affirme son président Nicolas Féraud",
@@ -82785,10 +82791,32 @@
   },
   {
     "title": "Le président italien devrait assister vendredi à la cérémonie en hommage aux victimes de l'incendie",
-    "added_at": "2026-01-06T06:01:02.889Z"
+    "added_at": "2026-01-06T06:01:02.889Z",
+    "removed_at": "2026-01-06T09:00:50.063Z",
+    "duration_minutes": 179,
+    "duration_str": "2h 59m"
   },
   {
     "title": "Les contrôles incendie dans les établissements sont souvent trop espacés en Suisse romande",
     "added_at": "2026-01-06T06:14:17.135Z"
+  },
+  {
+    "title": "Près de la moitié des communes fribourgeoises ont mal à leurs finances",
+    "added_at": "2026-01-06T08:19:12.701Z"
+  },
+  {
+    "title": "Le prix de l'essence au plus bas depuis près de cinq ans",
+    "added_at": "2026-01-06T08:36:13.591Z"
+  },
+  {
+    "title": "Dès 10h00, suivez en direct la conférence de presse du Conseil communal de Crans-Montana",
+    "added_at": "2026-01-06T09:00:50.063Z",
+    "removed_at": "2026-01-06T09:04:34.327Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "La commune reconnaît que le bar Le Constellation n’a pas été contrôlé sur la période 2020-2025 - conférence de presse en direct",
+    "added_at": "2026-01-06T09:04:34.327Z"
   }
 ]
