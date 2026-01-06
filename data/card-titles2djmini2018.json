@@ -62951,7 +62951,10 @@
   },
   {
     "title": "monde:::En direct, Guerre en Ukraine – Moscou revendique la capture d’une localité dans la région de Soumy",
-    "added_at": "2026-01-05T10:13:02.393Z"
+    "added_at": "2026-01-05T10:13:02.393Z",
+    "removed_at": "2026-01-06T00:09:16.630Z",
+    "duration_minutes": 836,
+    "duration_str": "13h 56m"
   },
   {
     "title": "suisse:::En direct, le drame de Crans-Montana – Emmanuel Macron viendra en Valais ce vendredi pour l’hommage aux victimes",
@@ -63131,5 +63134,9 @@
   {
     "title": "monde:::En direct, crise au Venezuela – A Caracas, Delcy Rodriguez prête serment comme présidente par intérim",
     "added_at": "2026-01-05T20:01:23.053Z"
+  },
+  {
+    "title": "monde:::En direct, Guerre en Ukraine – Moscou revendique la prise d’une localité dans la région de Soumy",
+    "added_at": "2026-01-06T00:09:16.630Z"
   }
 ]
