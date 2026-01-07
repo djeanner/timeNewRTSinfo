@@ -63457,7 +63457,10 @@
   },
   {
     "title": "monde:::En direct – Les Etats-Unis «aux commandes»? «Aucun agent extérieur ne gouverne le Venezuela», affirme Delcy Rodriguez",
-    "added_at": "2026-01-07T05:48:30.003Z"
+    "added_at": "2026-01-07T05:48:30.003Z",
+    "removed_at": "2026-01-07T13:42:06.903Z",
+    "duration_minutes": 473,
+    "duration_str": "7h 53m"
   },
   {
     "title": "monde:::Face au rapt de Nicolas Maduro, la Russie oscille entre silence embarrassé et calculs stratégiques",
@@ -63483,7 +63486,10 @@
   },
   {
     "title": "sport:::Sous les panneaux de basket, la lutte de l’inclusivité et de l’équité",
-    "added_at": "2026-01-07T08:14:15.493Z"
+    "added_at": "2026-01-07T08:14:15.493Z",
+    "removed_at": "2026-01-07T12:49:03.924Z",
+    "duration_minutes": 274,
+    "duration_str": "4h 34m"
   },
   {
     "title": "suisse:::En direct, Crans-Montana – Toutes les églises nationales participeront au deuil national",
@@ -63507,5 +63513,20 @@
   {
     "title": "monde:::Venezuela: Marco Rubio au cœur du remodelage de l’«hémisphère occidental»",
     "added_at": "2026-01-07T11:08:36.873Z"
+  },
+  {
+    "title": "culture:::«Le Centenaire du New Yorker», plongée dans une aventure éditoriale hors norme",
+    "added_at": "2026-01-07T12:49:03.924Z"
+  },
+  {
+    "title": "monde:::En direct, crise au Venezuela – La marine américaine à l’assaut d’un pétrolier russe qui lui a échappé au large du Venezuela",
+    "added_at": "2026-01-07T13:42:06.903Z",
+    "removed_at": "2026-01-07T14:14:14.560Z",
+    "duration_minutes": 32,
+    "duration_str": "32m"
+  },
+  {
+    "title": "monde:::En direct, crise au Venezuela – Les Etats-Unis ont saisi un pétrolier russe qui leur avait échappé au large du Venezuela",
+    "added_at": "2026-01-07T14:14:14.560Z"
   }
 ]
