@@ -59629,7 +59629,10 @@
   },
   {
     "title": "suisse:::Berne gèle les avoirs de Nicolas Maduro et 36 de ses proches",
-    "added_at": "2026-01-05T18:40:35.359Z"
+    "added_at": "2026-01-05T18:40:35.359Z",
+    "removed_at": "2026-01-07T07:07:43.097Z",
+    "duration_minutes": 2187,
+    "duration_str": "1d 12h 27m"
   },
   {
     "title": "monde:::A New York, Nicolas Maduro plaide «non coupable»",
@@ -59693,7 +59696,10 @@
   },
   {
     "title": "suisse:::Crans-Montana: le temps du deuil, le monde politique s’est mis en pause",
-    "added_at": "2026-01-06T06:04:24.985Z"
+    "added_at": "2026-01-06T06:04:24.985Z",
+    "removed_at": "2026-01-07T05:08:52.276Z",
+    "duration_minutes": 1384,
+    "duration_str": "23h 4m"
   },
   {
     "title": "suisse:::A Zurich, choisissez votre plaque d’immatriculation «dans la limite des stocks disponibles»",
@@ -59722,7 +59728,10 @@
   },
   {
     "title": "culture:::«Todo dia a mesma noite», la série sur Netflix qui raconte l’incendie d’un club par le plafond, comme pour le Constellation",
-    "added_at": "2026-01-06T08:56:35.935Z"
+    "added_at": "2026-01-06T08:56:35.935Z",
+    "removed_at": "2026-01-07T05:23:25.966Z",
+    "duration_minutes": 1226,
+    "duration_str": "20h 26m"
   },
   {
     "title": "suisse:::En direct, Crans-Montana – La commune regrette «amèrement» les défaillances de ses contrôles sur le Constellation",
@@ -59869,7 +59878,10 @@
   },
   {
     "title": "sport:::A Strasbourg, filiale de Chelsea, le football moderne rejoue la fable du loup et du chien",
-    "added_at": "2026-01-06T18:32:35.564Z"
+    "added_at": "2026-01-06T18:32:35.564Z",
+    "removed_at": "2026-01-07T05:25:48.422Z",
+    "duration_minutes": 653,
+    "duration_str": "10h 53m"
   },
   {
     "title": "monde:::Pourquoi Donald Trump humilie-t-il la Nobel de la paix vénézuélienne Maria Corina Machado?",
@@ -59899,10 +59911,47 @@
   },
   {
     "title": "monde:::En direct, crise au Venezuela – Les Etats-Unis «aux commandes»? «Aucun agent extérieur ne gouverne le Venezuela», affirme Delcy Rodriguez",
-    "added_at": "2026-01-06T22:42:48.951Z"
+    "added_at": "2026-01-06T22:42:48.951Z",
+    "removed_at": "2026-01-07T05:50:02.347Z",
+    "duration_minutes": 427,
+    "duration_str": "7h 7m"
   },
   {
     "title": "monde:::Donald Trump étudie plusieurs options pour «acquérir» le Groenland, y compris «utiliser l’armée»",
-    "added_at": "2026-01-07T01:15:41.484Z"
+    "added_at": "2026-01-07T01:15:41.484Z",
+    "removed_at": "2026-01-07T06:06:57.083Z",
+    "duration_minutes": 291,
+    "duration_str": "4h 51m"
+  },
+  {
+    "title": "suisse:::Quelles indemnisations peuvent espérer les victimes de Crans-Montana?",
+    "added_at": "2026-01-07T05:08:52.276Z"
+  },
+  {
+    "title": "suisse:::30 ans de la loi sur l’assurance maladie: pour Ruth Dreifuss, «les défauts de la LAMal ont tendance à s’accroître»",
+    "added_at": "2026-01-07T05:23:25.966Z"
+  },
+  {
+    "title": "cyber:::L’intelligence artificielle hallucine toujours énormément, mais il y a des pistes pour limiter les dégâts",
+    "added_at": "2026-01-07T05:25:48.422Z"
+  },
+  {
+    "title": "monde:::En direct – Les Etats-Unis «aux commandes»? «Aucun agent extérieur ne gouverne le Venezuela», affirme Delcy Rodriguez",
+    "added_at": "2026-01-07T05:50:02.347Z"
+  },
+  {
+    "title": "monde:::Face au rapt de Nicolas Maduro, la Russie oscille entre silence embarrassé et calculs stratégiques",
+    "added_at": "2026-01-07T06:06:57.083Z"
+  },
+  {
+    "title": "monde:::Venezuela, Groenland, Colombie, Iran… Il n’y a actuellement personne pour arrêter Trump",
+    "added_at": "2026-01-07T07:07:43.097Z",
+    "removed_at": "2026-01-07T07:10:05.131Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::Venezuela, Groenland, Colombie, Iran… Il n’y a actuellement personne pour arrêter Donald Trump",
+    "added_at": "2026-01-07T07:10:05.131Z"
   }
 ]
