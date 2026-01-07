@@ -82434,7 +82434,10 @@
   },
   {
     "title": "Le trafic ferroviaire sur la ligne Genève-Lausanne restreint entre Coppet et Nyon",
-    "added_at": "2026-01-04T15:22:29.105Z"
+    "added_at": "2026-01-04T15:22:29.105Z",
+    "removed_at": "2026-01-07T03:35:58.513Z",
+    "duration_minutes": 3613,
+    "duration_str": "2d 12h 13m"
   },
   {
     "title": "Un groupe d'extrême gauche soupçonné après la coupure d'électricité à Berlin",
@@ -83154,5 +83157,9 @@
   {
     "title": "Le raid américain au Venezuela \"a sapé un principe fondamental du droit international\", rappelle l'ONU",
     "added_at": "2026-01-07T02:31:32.100Z"
+  },
+  {
+    "title": "L'interdiction de la pilule abortive jugée illégale dans l'Etat américain du Wyoming",
+    "added_at": "2026-01-07T03:35:58.513Z"
   }
 ]
