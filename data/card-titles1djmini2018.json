@@ -82438,11 +82438,17 @@
   },
   {
     "title": "Un groupe d'extrême gauche soupçonné après la coupure d'électricité à Berlin",
-    "added_at": "2026-01-04T16:02:10.405Z"
+    "added_at": "2026-01-04T16:02:10.405Z",
+    "removed_at": "2026-01-07T02:14:32.056Z",
+    "duration_minutes": 3492,
+    "duration_str": "2d 10h 12m"
   },
   {
     "title": "Camille Lanci revient sur la messe et la marche blanche à Crans (VS)",
-    "added_at": "2026-01-04T16:04:06.675Z"
+    "added_at": "2026-01-04T16:04:06.675Z",
+    "removed_at": "2026-01-07T02:01:16.504Z",
+    "duration_minutes": 3477,
+    "duration_str": "2d 9h 57m"
   },
   {
     "title": "Une foule imposante a rendu hommage aux victimes à Crans-Montana",
@@ -82457,10 +82463,7 @@
   },
   {
     "title": "Emission spéciale sur l'incendie à Crans-Montana",
-    "added_at": "2026-01-04T18:03:16.181Z",
-    "removed_at": "2026-01-06T22:23:47.680Z",
-    "duration_minutes": 3140,
-    "duration_str": "2d 4h 20m"
+    "added_at": "2026-01-04T18:03:16.181Z"
   },
   {
     "title": "Aucun laxisme de la part de la commune de Crans-Montana dans le système de contrôle des bars, affirme son président Nicolas Féraud",
@@ -83042,7 +83045,10 @@
   },
   {
     "title": "L'intervention américaine à Caracas \"a sapé un principe fondamental du droit international\", selon l'ONU",
-    "added_at": "2026-01-06T14:22:47.345Z"
+    "added_at": "2026-01-06T14:22:47.345Z",
+    "removed_at": "2026-01-07T01:19:42.690Z",
+    "duration_minutes": 656,
+    "duration_str": "10h 56m"
   },
   {
     "title": "La conférence de presse du Conseil communal de Crans-Montana",
@@ -83140,5 +83146,13 @@
   {
     "title": "Aucun contrôle incendie périodique au Constellation depuis 2019: interview de Stéphane Ganzer",
     "added_at": "2026-01-06T22:23:47.680Z"
+  },
+  {
+    "title": "Sept jours de deuil décrétés au Venezuela en hommage aux victimes de l'assaut américain",
+    "added_at": "2026-01-07T01:19:42.690Z"
+  },
+  {
+    "title": "Le raid américain au Venezuela \"a sapé un principe fondamental du droit international\", rappelle l'ONU",
+    "added_at": "2026-01-07T02:31:32.100Z"
   }
 ]
