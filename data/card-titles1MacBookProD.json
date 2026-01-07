@@ -53433,15 +53433,24 @@
   },
   {
     "title": "Le trafic ferroviaire sur la ligne Genève-Lausanne restreint entre Coppet et Nyon",
-    "added_at": "2026-01-04T15:21:09.194Z"
+    "added_at": "2026-01-04T15:21:09.194Z",
+    "removed_at": "2026-01-07T03:36:31.871Z",
+    "duration_minutes": 3615,
+    "duration_str": "2d 12h 15m"
   },
   {
     "title": "Un groupe d'extrême gauche soupçonné après la coupure d'électricité à Berlin",
-    "added_at": "2026-01-04T16:02:18.377Z"
+    "added_at": "2026-01-04T16:02:18.377Z",
+    "removed_at": "2026-01-07T02:14:04.855Z",
+    "duration_minutes": 3491,
+    "duration_str": "2d 10h 11m"
   },
   {
     "title": "Camille Lanci revient sur la messe et la marche blanche à Crans (VS)",
-    "added_at": "2026-01-04T16:04:44.422Z"
+    "added_at": "2026-01-04T16:04:44.422Z",
+    "removed_at": "2026-01-07T02:01:57.592Z",
+    "duration_minutes": 3477,
+    "duration_str": "2d 9h 57m"
   },
   {
     "title": "Une foule imposante a rendu hommage aux victimes à Crans-Montana",
@@ -53456,10 +53465,7 @@
   },
   {
     "title": "Emission spéciale sur l'incendie à Crans-Montana",
-    "added_at": "2026-01-04T18:03:32.484Z",
-    "removed_at": "2026-01-06T22:23:27.559Z",
-    "duration_minutes": 3139,
-    "duration_str": "2d 4h 19m"
+    "added_at": "2026-01-04T18:03:32.484Z"
   },
   {
     "title": "Aucun laxisme de la part de la commune de Crans-Montana dans le système de contrôle des bars, affirme son président Nicolas Féraud",
@@ -54146,5 +54152,13 @@
   {
     "title": "Sept jours de deuil décrétés au Venezuela en hommage aux victimes de l'assaut américain",
     "added_at": "2026-01-07T01:20:35.187Z"
+  },
+  {
+    "title": "Le raid américain au Venezuela \"a sapé un principe fondamental du droit international\", rappelle l'ONU",
+    "added_at": "2026-01-07T02:31:02.310Z"
+  },
+  {
+    "title": "L'interdiction de la pilule abortive jugée illégale dans l'Etat américain du Wyoming",
+    "added_at": "2026-01-07T03:36:31.871Z"
   }
 ]
