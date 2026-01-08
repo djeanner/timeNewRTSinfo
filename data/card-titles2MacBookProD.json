@@ -60274,7 +60274,10 @@
   },
   {
     "title": "suisse:::La tragédie de Crans-Montana viendra hanter un procès genevois qui parle de feu, de victimes piégées et de normes dépassées",
-    "added_at": "2026-01-08T05:13:52.018Z"
+    "added_at": "2026-01-08T05:13:52.018Z",
+    "removed_at": "2026-01-08T20:16:54.941Z",
+    "duration_minutes": 903,
+    "duration_str": "15h 3m"
   },
   {
     "title": "suisse:::Au cœur de Crans-Montana, ville endeuillée et silencieuse qui cherche ses mots",
@@ -60303,7 +60306,10 @@
   },
   {
     "title": "suisse:::En Suisse, la santé a coûté environ 100 milliards de francs en 2025. «Avec une telle somme, on doit pouvoir améliorer la situation», estime le futur directeur suppléant de l’OFSP",
-    "added_at": "2026-01-08T08:01:31.643Z"
+    "added_at": "2026-01-08T08:01:31.643Z",
+    "removed_at": "2026-01-08T18:37:25.705Z",
+    "duration_minutes": 635,
+    "duration_str": "10h 35m"
   },
   {
     "title": "monde:::En direct – Donald Trump n'exclut pas de se rendre à Caracas: «Je pense qu’à un moment donné, ce sera sûr»",
@@ -60363,7 +60369,10 @@
   },
   {
     "title": "economie:::Une succession suisse qui ne passe pas à la tête du groupe Castel, géant français du vin et de la bière",
-    "added_at": "2026-01-08T11:37:20.526Z"
+    "added_at": "2026-01-08T11:37:20.526Z",
+    "removed_at": "2026-01-08T20:31:25.093Z",
+    "duration_minutes": 534,
+    "duration_str": "8h 54m"
   },
   {
     "title": "suisse:::Minute de silence, cérémonie à Martigny… Ce qu’il faut savoir sur la journée d’hommage aux victimes de Crans-Montana prévue vendredi",
@@ -60381,7 +60390,10 @@
   },
   {
     "title": "sciences:::De Mars à Mercure, en passant par la Lune, tour d’horizon des missions spatiales à suivre en 2026",
-    "added_at": "2026-01-08T12:30:36.951Z"
+    "added_at": "2026-01-08T12:30:36.951Z",
+    "removed_at": "2026-01-08T19:04:04.692Z",
+    "duration_minutes": 393,
+    "duration_str": "6h 33m"
   },
   {
     "title": "monde:::Les agriculteurs français manifestent dans Paris, la présidente de l’Assemblée nationale chahutée et exfiltrée",
@@ -60406,7 +60418,10 @@
   },
   {
     "title": "monde:::Face à l’appétit de Donald Trump pour le Groenland, le timide scénario des sanctions contre les Etats-Unis",
-    "added_at": "2026-01-08T14:24:44.574Z"
+    "added_at": "2026-01-08T14:24:44.574Z",
+    "removed_at": "2026-01-08T20:04:44.421Z",
+    "duration_minutes": 339,
+    "duration_str": "5h 39m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Russie annonce la libération du chercheur français Laurent Vinatier qui était en mission à Moscou pour une ONG genevoise",
@@ -60432,11 +60447,17 @@
   },
   {
     "title": "economie:::La montre de collection maintient sa croissance de croisière",
-    "added_at": "2026-01-08T15:52:13.408Z"
+    "added_at": "2026-01-08T15:52:13.408Z",
+    "removed_at": "2026-01-08T19:33:12.182Z",
+    "duration_minutes": 220,
+    "duration_str": "3h 40m"
   },
   {
     "title": "monde:::Les nouvelles consignes alimentaires de Robert F. Kennedy Jr valorisent la viande rouge et le lait entier",
-    "added_at": "2026-01-08T16:16:30.258Z"
+    "added_at": "2026-01-08T16:16:30.258Z",
+    "removed_at": "2026-01-08T18:37:25.705Z",
+    "duration_minutes": 140,
+    "duration_str": "2h 20m"
   },
   {
     "title": "sciences:::Dis-moi comment tu ronronnes et je te dirai qui tu es",
@@ -60476,5 +60497,61 @@
   {
     "title": "monde:::Les cinq leviers de la France pour calmer ses agriculteurs malgré l’adoption humiliante du Mercosur par l’UE",
     "added_at": "2026-01-08T18:03:15.939Z"
+  },
+  {
+    "title": "monde:::Le retrait de Donald Trump de dizaines d’organisations isole encore davantage la Genève internationale",
+    "added_at": "2026-01-08T18:37:25.705Z",
+    "removed_at": "2026-01-08T18:42:13.215Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "economie:::Sunrise va supprimer 190 postes",
+    "added_at": "2026-01-08T18:37:25.705Z",
+    "removed_at": "2026-01-08T19:04:04.692Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "monde:::Le retrait des Etats-Unis de dizaines d’organisations isole encore davantage la Genève internationale",
+    "added_at": "2026-01-08T18:42:13.215Z",
+    "removed_at": "2026-01-08T20:04:44.421Z",
+    "duration_minutes": 82,
+    "duration_str": "1h 22m"
+  },
+  {
+    "title": "suisse:::Pour l’hommage aux victimes de Crans-Montana, Martigny a monté un Forum de Davos en quelques jours",
+    "added_at": "2026-01-08T19:04:04.692Z"
+  },
+  {
+    "title": "sport:::Donald Trump veut annexer trois golfs publics de Washington",
+    "added_at": "2026-01-08T19:33:12.182Z"
+  },
+  {
+    "title": "monde:::Les batailles navales de Donald Trump n’épargnent pas la Russie",
+    "added_at": "2026-01-08T19:40:28.231Z"
+  },
+  {
+    "title": "monde:::La Genève internationale encore plus isolée après le retrait des Etats-Unis de dizaines d’organisations",
+    "added_at": "2026-01-08T20:04:44.421Z"
+  },
+  {
+    "title": "monde:::A Minneapolis, la fracture américaine devient un gouffre après un tir mortel de la police de l’immigration",
+    "added_at": "2026-01-08T20:16:54.941Z",
+    "removed_at": "2026-01-08T20:29:02.032Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "sport:::«Le boulanger doit faire son pain, nous devons skier»: à Adelboden, des courses de ski dédiées à Crans-Montana",
+    "added_at": "2026-01-08T20:16:54.941Z"
+  },
+  {
+    "title": "monde:::A Minneapolis, un tir mortel de la police de l’immigration transforme la fracture américaine en gouffre",
+    "added_at": "2026-01-08T20:29:02.032Z"
+  },
+  {
+    "title": "culture:::A Photo Elysée, un nécessaire questionnement autour des archives coloniales du studio allemand Lehnert & Landrock, fleuron de l’iconographie orientaliste",
+    "added_at": "2026-01-08T20:31:25.093Z"
   }
 ]
