@@ -54034,7 +54034,10 @@
   },
   {
     "title": "Les contrôles incendie dans les établissements sont souvent trop espacés en Suisse romande",
-    "added_at": "2026-01-06T06:14:07.310Z"
+    "added_at": "2026-01-06T06:14:07.310Z",
+    "removed_at": "2026-01-08T14:10:12.536Z",
+    "duration_minutes": 3356,
+    "duration_str": "2d 7h 56m"
   },
   {
     "title": "Près de la moitié des communes fribourgeoises ont mal à leurs finances",
@@ -54112,7 +54115,10 @@
   },
   {
     "title": "Polémique autour de Grok, l’IA de X, accusée de générer des images pornographiques de mineures",
-    "added_at": "2026-01-06T11:14:53.650Z"
+    "added_at": "2026-01-06T11:14:53.650Z",
+    "removed_at": "2026-01-08T13:50:50.258Z",
+    "duration_minutes": 3035,
+    "duration_str": "2d 2h 35m"
   },
   {
     "title": "Après le drame de Crans-Montana, la restitution des corps aux familles débute",
@@ -54187,11 +54193,17 @@
   },
   {
     "title": "Le pape Léon XIV ferme la \"Porte Sainte\", marquant la fin de l'année de jubilé",
-    "added_at": "2026-01-06T13:30:50.576Z"
+    "added_at": "2026-01-06T13:30:50.576Z",
+    "removed_at": "2026-01-08T13:21:42.270Z",
+    "duration_minutes": 2870,
+    "duration_str": "1d 23h 50m"
   },
   {
     "title": "Béla Tarr, le maître du cinéma hongrois, est décédé à l'âge de 70 ans",
-    "added_at": "2026-01-06T13:52:47.007Z"
+    "added_at": "2026-01-06T13:52:47.007Z",
+    "removed_at": "2026-01-08T14:07:50.365Z",
+    "duration_minutes": 2895,
+    "duration_str": "2d 15m"
   },
   {
     "title": "Insatisfaits du contre-projet, les partisans de l'initiative sur l'argent liquide lancent leur campagne",
@@ -54225,11 +54237,17 @@
   },
   {
     "title": "Pour Google et Apple, la ville de Moutier est toujours bernoise",
-    "added_at": "2026-01-06T15:37:36.976Z"
+    "added_at": "2026-01-06T15:37:36.976Z",
+    "removed_at": "2026-01-08T14:32:00.889Z",
+    "duration_minutes": 2814,
+    "duration_str": "1d 22h 54m"
   },
   {
     "title": "Plus d'achats en ligne signifie plus de carton collecté chaque semaine à Zurich",
-    "added_at": "2026-01-06T16:13:59.860Z"
+    "added_at": "2026-01-06T16:13:59.860Z",
+    "removed_at": "2026-01-08T14:15:06.966Z",
+    "duration_minutes": 2761,
+    "duration_str": "1d 22h 1m"
   },
   {
     "title": "La comédienne Claude-Inga Barbey est décédée à l'âge de 64 ans",
@@ -54237,11 +54255,17 @@
   },
   {
     "title": "La nuit de lundi à mardi a été la plus froide de l'hiver en Suisse",
-    "added_at": "2026-01-06T16:18:50.484Z"
+    "added_at": "2026-01-06T16:18:50.484Z",
+    "removed_at": "2026-01-08T15:37:29.814Z",
+    "duration_minutes": 2838,
+    "duration_str": "1d 23h 18m"
   },
   {
     "title": "Crans-Montana: Comment faire face au choc ?",
-    "added_at": "2026-01-06T17:05:00.290Z"
+    "added_at": "2026-01-06T17:05:00.290Z",
+    "removed_at": "2026-01-08T14:03:01.800Z",
+    "duration_minutes": 2698,
+    "duration_str": "1d 20h 58m"
   },
   {
     "title": "Domen Prevc enlève la mythique Tournée",
@@ -54252,7 +54276,10 @@
   },
   {
     "title": "Podcast - Que fait Trump au Venezuela?",
-    "added_at": "2026-01-06T17:56:09.475Z"
+    "added_at": "2026-01-06T17:56:09.475Z",
+    "removed_at": "2026-01-08T15:37:29.814Z",
+    "duration_minutes": 2741,
+    "duration_str": "1d 21h 41m"
   },
   {
     "title": "Domen Prevc s'adjuge l'Aigle d'or",
@@ -54323,7 +54350,10 @@
   },
   {
     "title": "Le raid américain au Venezuela \"a sapé un principe fondamental du droit international\", rappelle l'ONU",
-    "added_at": "2026-01-07T02:31:02.310Z"
+    "added_at": "2026-01-07T02:31:02.310Z",
+    "removed_at": "2026-01-08T13:43:34.062Z",
+    "duration_minutes": 2112,
+    "duration_str": "1d 11h 12m"
   },
   {
     "title": "L'interdiction de la pilule abortive jugée illégale dans l'Etat américain du Wyoming",
@@ -54554,10 +54584,7 @@
   },
   {
     "title": "Que fait Trump au Venezuela ?",
-    "added_at": "2026-01-08T04:03:27.122Z",
-    "removed_at": "2026-01-08T06:24:10.769Z",
-    "duration_minutes": 140,
-    "duration_str": "2h 20m"
+    "added_at": "2026-01-08T04:03:27.122Z"
   },
   {
     "title": "Drame de Crans-Montana : revue de presse suisse et internationale",
@@ -54639,6 +54666,56 @@
   },
   {
     "title": "La glace noire en Suisse, entre fascination  et danger",
-    "added_at": "2026-01-08T12:01:38.859Z"
+    "added_at": "2026-01-08T12:01:38.859Z",
+    "removed_at": "2026-01-08T13:12:03.812Z",
+    "duration_minutes": 70,
+    "duration_str": "1h 10m"
+  },
+  {
+    "title": "La glace noire en Suisse, entre fascination et danger",
+    "added_at": "2026-01-08T13:12:03.812Z"
+  },
+  {
+    "title": "Une semaine après, Crans-Montana souhaite aller de l’avant",
+    "added_at": "2026-01-08T13:21:42.270Z"
+  },
+  {
+    "title": "L'année 2026 sera une année difficile pour les plus pauvres, avertit Caritas",
+    "added_at": "2026-01-08T13:43:34.062Z",
+    "removed_at": "2026-01-08T13:55:44.302Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "L'art brut cauchemardesque d'Adelheid Duvanel à l'open art museum de Saint-Gall",
+    "added_at": "2026-01-08T13:50:50.258Z"
+  },
+  {
+    "title": "L'année 2026 sera difficile pour les plus pauvres, avertit Caritas",
+    "added_at": "2026-01-08T13:55:44.302Z"
+  },
+  {
+    "title": "La tempête Goretti touchera le nord de la Suisse, fortes chutes de neige prévues en montagne",
+    "added_at": "2026-01-08T14:07:50.365Z"
+  },
+  {
+    "title": "La Russie libère le chercheur français Laurent Vinatier, emprisonné depuis juin 2024",
+    "added_at": "2026-01-08T14:10:12.536Z"
+  },
+  {
+    "title": "Les caisses de pension suisses ont réalisé de bonnes performances en 2025",
+    "added_at": "2026-01-08T14:15:06.966Z"
+  },
+  {
+    "title": "L'armée syrienne bombarde les quartiers kurdes d'Alep après la fuite de milliers d'habitants",
+    "added_at": "2026-01-08T14:32:00.889Z"
+  },
+  {
+    "title": "L'administration genevoise croule sous les milliers de questions des députés",
+    "added_at": "2026-01-08T15:37:29.814Z"
+  },
+  {
+    "title": "\"Une forêt\" de Jean-Yves Jouannais, le procès absurde d'oiseaux nazis",
+    "added_at": "2026-01-08T15:37:29.814Z"
   }
 ]
