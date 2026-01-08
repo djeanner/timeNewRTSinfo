@@ -63807,11 +63807,17 @@
   },
   {
     "title": "culture:::Retrouvailles et découvertes, itinéraires d’art en 2026",
-    "added_at": "2026-01-08T08:52:28.992Z"
+    "added_at": "2026-01-08T08:52:28.992Z",
+    "removed_at": "2026-01-08T14:01:23.129Z",
+    "duration_minutes": 308,
+    "duration_str": "5h 8m"
   },
   {
     "title": "economie:::L’inflation suisse a ralenti en 2025 pour revenir à 0,2% en moyenne",
-    "added_at": "2026-01-08T09:24:42.672Z"
+    "added_at": "2026-01-08T09:24:42.672Z",
+    "removed_at": "2026-01-08T12:30:29.317Z",
+    "duration_minutes": 185,
+    "duration_str": "3h 5m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Plus d’un million de foyers sont privés d’eau et d’électricité après des frappes russes",
@@ -63837,7 +63843,10 @@
   },
   {
     "title": "suisse:::En direct – Les propriétaires du bar Constellation seront auditionnés vendredi par la justice",
-    "added_at": "2026-01-08T11:29:47.218Z"
+    "added_at": "2026-01-08T11:29:47.218Z",
+    "removed_at": "2026-01-08T13:32:57.484Z",
+    "duration_minutes": 123,
+    "duration_str": "2h 3m"
   },
   {
     "title": "economie:::Une succession suisse qui ne passe pas à la tête du groupe Castel, géant français du vin et de la bière",
@@ -63853,5 +63862,21 @@
   {
     "title": "suisse:::Minute de silence, cérémonie à Martigny… Ce qu’il faut savoir sur la journée d’hommage aux victimes de Crans-Montana de vendredi",
     "added_at": "2026-01-08T12:00:01.430Z"
+  },
+  {
+    "title": "sciences:::De Mars à Mercure, en passant par la Lune, tour d’horizon des missions spatiales à suivre en 2026",
+    "added_at": "2026-01-08T12:30:29.317Z"
+  },
+  {
+    "title": "monde:::Les agriculteurs français manifestent dans Paris, la présidente de l’Assemblée nationale chahutée et exfiltrée",
+    "added_at": "2026-01-08T12:30:29.317Z"
+  },
+  {
+    "title": "suisse:::En direct, Crans-Montana – Les propriétaires du bar Constellation seront auditionnés vendredi par la justice",
+    "added_at": "2026-01-08T13:32:57.484Z"
+  },
+  {
+    "title": "suisse:::Après Rebecca Ruiz, le directeur général de la santé vaudoise démissionne",
+    "added_at": "2026-01-08T14:01:23.129Z"
   }
 ]
