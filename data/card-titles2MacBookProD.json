@@ -60461,7 +60461,10 @@
   },
   {
     "title": "sciences:::Dis-moi comment tu ronronnes et je te dirai qui tu es",
-    "added_at": "2026-01-08T16:31:05.059Z"
+    "added_at": "2026-01-08T16:31:05.059Z",
+    "removed_at": "2026-01-09T06:27:13.269Z",
+    "duration_minutes": 836,
+    "duration_str": "13h 56m"
   },
   {
     "title": "monde:::Le retrait des Etats-Unis de la Convention de l’ONU sur le climat, encore un coup dur pour la planète",
@@ -60472,11 +60475,17 @@
   },
   {
     "title": "monde:::Le retrait des Etats-Unis de la convention de l’ONU sur le climat, encore un coup dur pour la planète",
-    "added_at": "2026-01-08T17:17:06.636Z"
+    "added_at": "2026-01-08T17:17:06.636Z",
+    "removed_at": "2026-01-09T05:43:34.579Z",
+    "duration_minutes": 746,
+    "duration_str": "12h 26m"
   },
   {
     "title": "sciences:::Des feuillets de cellules cutanées à la peau de poisson, plusieurs techniques pour soigner les grands brûlés",
-    "added_at": "2026-01-08T17:19:35.253Z"
+    "added_at": "2026-01-08T17:19:35.253Z",
+    "removed_at": "2026-01-09T05:43:34.579Z",
+    "duration_minutes": 743,
+    "duration_str": "12h 23m"
   },
   {
     "title": "monde:::En direct, crise au Venezuela – Donald Trump n'exclut pas de se rendre à Caracas: «Je pense qu’à un moment donné, ce sera sûr»",
@@ -60502,7 +60511,10 @@
   },
   {
     "title": "monde:::Les cinq leviers de la France pour calmer ses agriculteurs malgré l’adoption humiliante du Mercosur par l’UE",
-    "added_at": "2026-01-08T18:03:15.939Z"
+    "added_at": "2026-01-08T18:03:15.939Z",
+    "removed_at": "2026-01-09T07:44:57.176Z",
+    "duration_minutes": 821,
+    "duration_str": "13h 41m"
   },
   {
     "title": "monde:::Le retrait de Donald Trump de dizaines d’organisations isole encore davantage la Genève internationale",
@@ -60538,7 +60550,10 @@
   },
   {
     "title": "monde:::Les batailles navales de Donald Trump n’épargnent pas la Russie",
-    "added_at": "2026-01-08T19:40:28.231Z"
+    "added_at": "2026-01-08T19:40:28.231Z",
+    "removed_at": "2026-01-09T07:59:34.774Z",
+    "duration_minutes": 739,
+    "duration_str": "12h 19m"
   },
   {
     "title": "monde:::La Genève internationale encore plus isolée après le retrait des Etats-Unis de dizaines d’organisations",
@@ -60597,7 +60612,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L’ensemble du territoire ukrainien en alerte, quatre morts à Kiev",
-    "added_at": "2026-01-09T03:07:54.622Z"
+    "added_at": "2026-01-09T03:07:54.622Z",
+    "removed_at": "2026-01-09T06:32:08.384Z",
+    "duration_minutes": 204,
+    "duration_str": "3h 24m"
   },
   {
     "title": "suisse:::Crans-Montana – Notre suivi du 1er au 8 janvier",
@@ -60612,6 +60630,54 @@
   },
   {
     "title": "monde:::Après la neige, les vents violents: la tempête Goretti s’abat sur la France",
-    "added_at": "2026-01-09T05:23:55.746Z"
+    "added_at": "2026-01-09T05:23:55.746Z",
+    "removed_at": "2026-01-09T06:02:57.321Z",
+    "duration_minutes": 39,
+    "duration_str": "39m"
+  },
+  {
+    "title": "suisse:::«Si ça se passe mal, c’est nous qui sommes engagés»: après le drame de Crans-Montana, des communes s’interrogent sur leur capacité à assurer les contrôles",
+    "added_at": "2026-01-09T05:43:34.579Z"
+  },
+  {
+    "title": "monde:::Après la neige, les vents violents: la tempête Goretti s’abat sur la France, 380 000 foyers privés d’électricité vendredi matin",
+    "added_at": "2026-01-09T06:02:57.321Z",
+    "removed_at": "2026-01-09T06:24:50.619Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
+  },
+  {
+    "title": "monde:::Après la neige, les vents violents: la tempête Goretti s’abat sur la France, 380 000 foyers privés d’électricité",
+    "added_at": "2026-01-09T06:24:50.619Z",
+    "removed_at": "2026-01-09T07:44:57.176Z",
+    "duration_minutes": 80,
+    "duration_str": "1h 20m"
+  },
+  {
+    "title": "economie:::2025, une année de chien pour les memecoins",
+    "added_at": "2026-01-09T06:27:13.269Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – La Russie dit avoir frappé l'Ukraine au moyen du missile hypersonique Orechnik",
+    "added_at": "2026-01-09T06:32:08.384Z",
+    "removed_at": "2026-01-09T06:46:43.207Z",
+    "duration_minutes": 14,
+    "duration_str": "14m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – La Russie dit avoir frappé l’Ukraine au moyen du missile hypersonique Orechnik",
+    "added_at": "2026-01-09T06:46:43.207Z"
+  },
+  {
+    "title": "suisse:::«L’exploitant est le premier responsable, il n’y a pas de discussion»: après le drame de Crans-Montana, l’analyse du spécialiste des crises Denis Froidevaux",
+    "added_at": "2026-01-09T07:44:57.176Z"
+  },
+  {
+    "title": "monde:::«Ali Khamenei prévoit de fuir Téhéran»: pour Moscou, la «perfide Albion» se cache forcément derrière cette rumeur explosive",
+    "added_at": "2026-01-09T07:44:57.176Z"
+  },
+  {
+    "title": "cyber:::Déjà ciblée de manière intensive par les cyberattaques, la Suisse doit s’attendre à pire encore en 2026",
+    "added_at": "2026-01-09T07:59:34.774Z"
   }
 ]
