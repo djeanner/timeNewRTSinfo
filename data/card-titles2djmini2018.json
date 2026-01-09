@@ -63820,10 +63820,7 @@
   },
   {
     "title": "suisse:::En Suisse, la santé a coûté environ 100 milliards de francs en 2025. «Avec une telle somme, on doit pouvoir améliorer la situation», estime le futur directeur suppléant de l’OFSP",
-    "added_at": "2026-01-08T07:59:35.620Z",
-    "removed_at": "2026-01-08T18:38:28.806Z",
-    "duration_minutes": 638,
-    "duration_str": "10h 38m"
+    "added_at": "2026-01-08T07:59:35.620Z"
   },
   {
     "title": "monde:::En direct – Donald Trump n'exclut pas de se rendre à Caracas: «Je pense qu’à un moment donné, ce sera sûr»",
@@ -63978,7 +63975,10 @@
   },
   {
     "title": "sciences:::Dis-moi comment tu ronronnes et je te dirai qui tu es",
-    "added_at": "2026-01-08T16:29:21.575Z"
+    "added_at": "2026-01-08T16:29:21.575Z",
+    "removed_at": "2026-01-09T06:26:41.330Z",
+    "duration_minutes": 837,
+    "duration_str": "13h 57m"
   },
   {
     "title": "monde:::Le retrait des Etats-Unis de la Convention de l’ONU sur le climat, encore un coup dur pour la planète",
@@ -63989,11 +63989,17 @@
   },
   {
     "title": "monde:::Le retrait des Etats-Unis de la convention de l’ONU sur le climat, encore un coup dur pour la planète",
-    "added_at": "2026-01-08T17:16:59.644Z"
+    "added_at": "2026-01-08T17:16:59.644Z",
+    "removed_at": "2026-01-09T05:43:03.378Z",
+    "duration_minutes": 746,
+    "duration_str": "12h 26m"
   },
   {
     "title": "sciences:::Des feuillets de cellules cutanées à la peau de poisson, plusieurs techniques pour soigner les grands brûlés",
-    "added_at": "2026-01-08T17:18:49.947Z"
+    "added_at": "2026-01-08T17:18:49.947Z",
+    "removed_at": "2026-01-09T05:43:03.378Z",
+    "duration_minutes": 744,
+    "duration_str": "12h 24m"
   },
   {
     "title": "monde:::En direct, crise au Venezuela – Donald Trump n'exclut pas de se rendre à Caracas: «Je pense qu’à un moment donné, ce sera sûr»",
@@ -64114,7 +64120,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L’ensemble du territoire ukrainien en alerte, quatre morts à Kiev",
-    "added_at": "2026-01-09T03:07:21.770Z"
+    "added_at": "2026-01-09T03:07:21.770Z",
+    "removed_at": "2026-01-09T06:32:21.932Z",
+    "duration_minutes": 205,
+    "duration_str": "3h 25m"
   },
   {
     "title": "suisse:::Crans-Montana – Notre suivi du 1er au 8 janvier",
@@ -64126,5 +64135,42 @@
   {
     "title": "suisse:::En direct, Crans-Montana – Une journée de deuil national inédite pour le pays",
     "added_at": "2026-01-09T04:21:18.747Z"
+  },
+  {
+    "title": "monde:::Après la neige, les vents violents: la tempête Goretti s’abat sur la France",
+    "added_at": "2026-01-09T05:24:03.223Z",
+    "removed_at": "2026-01-09T06:03:53.508Z",
+    "duration_minutes": 39,
+    "duration_str": "39m"
+  },
+  {
+    "title": "suisse:::«Si ça se passe mal, c’est nous qui sommes engagés»: après le drame de Crans-Montana, des communes s’interrogent sur leur capacité à assurer les contrôles",
+    "added_at": "2026-01-09T05:43:03.378Z"
+  },
+  {
+    "title": "monde:::Après la neige, les vents violents: la tempête Goretti s’abat sur la France, 380 000 foyers privés d’électricité vendredi matin",
+    "added_at": "2026-01-09T06:03:53.508Z",
+    "removed_at": "2026-01-09T06:24:46.505Z",
+    "duration_minutes": 20,
+    "duration_str": "20m"
+  },
+  {
+    "title": "monde:::Après la neige, les vents violents: la tempête Goretti s’abat sur la France, 380 000 foyers privés d’électricité",
+    "added_at": "2026-01-09T06:24:46.505Z"
+  },
+  {
+    "title": "economie:::2025, une année de chien pour les memecoins",
+    "added_at": "2026-01-09T06:26:41.330Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – La Russie dit avoir frappé l'Ukraine au moyen du missile hypersonique Orechnik",
+    "added_at": "2026-01-09T06:32:21.932Z",
+    "removed_at": "2026-01-09T06:45:42.617Z",
+    "duration_minutes": 13,
+    "duration_str": "13m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – La Russie dit avoir frappé l’Ukraine au moyen du missile hypersonique Orechnik",
+    "added_at": "2026-01-09T06:45:42.617Z"
   }
 ]
