@@ -60306,10 +60306,7 @@
   },
   {
     "title": "suisse:::En Suisse, la santé a coûté environ 100 milliards de francs en 2025. «Avec une telle somme, on doit pouvoir améliorer la situation», estime le futur directeur suppléant de l’OFSP",
-    "added_at": "2026-01-08T08:01:31.643Z",
-    "removed_at": "2026-01-08T18:37:25.705Z",
-    "duration_minutes": 635,
-    "duration_str": "10h 35m"
+    "added_at": "2026-01-08T08:01:31.643Z"
   },
   {
     "title": "monde:::En direct – Donald Trump n'exclut pas de se rendre à Caracas: «Je pense qu’à un moment donné, ce sera sûr»",
@@ -60498,7 +60495,10 @@
   },
   {
     "title": "suisse:::En direct, Crans-Montana – La présidente du Parlement européen sera présente à la cérémonie d'hommage",
-    "added_at": "2026-01-08T17:53:36.468Z"
+    "added_at": "2026-01-08T17:53:36.468Z",
+    "removed_at": "2026-01-09T04:18:22.251Z",
+    "duration_minutes": 624,
+    "duration_str": "10h 24m"
   },
   {
     "title": "monde:::Les cinq leviers de la France pour calmer ses agriculteurs malgré l’adoption humiliante du Mercosur par l’UE",
@@ -60586,10 +60586,32 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L’ensemble du territoire ukrainien en alerte, deux morts à Kiev",
-    "added_at": "2026-01-09T01:11:08.592Z"
+    "added_at": "2026-01-09T01:11:08.592Z",
+    "removed_at": "2026-01-09T03:07:54.622Z",
+    "duration_minutes": 116,
+    "duration_str": "1h 56m"
   },
   {
     "title": "monde:::En direct, crise au Venezuela – Caracas annonce la libération d’un «nombre important» de prisonniers politiques",
     "added_at": "2026-01-09T01:47:32.940Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – L’ensemble du territoire ukrainien en alerte, quatre morts à Kiev",
+    "added_at": "2026-01-09T03:07:54.622Z"
+  },
+  {
+    "title": "suisse:::Crans-Montana – Notre suivi du 1er au 8 janvier",
+    "added_at": "2026-01-09T04:18:22.251Z",
+    "removed_at": "2026-01-09T04:23:11.677Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "suisse:::En direct, Crans-Montana – Une journée de deuil national inédite pour le pays",
+    "added_at": "2026-01-09T04:23:11.677Z"
+  },
+  {
+    "title": "monde:::Après la neige, les vents violents: la tempête Goretti s’abat sur la France",
+    "added_at": "2026-01-09T05:23:55.746Z"
   }
 ]

@@ -54178,7 +54178,10 @@
   },
   {
     "title": "La commune de Crans-Montana reconnaît que Le Constellation n'a plus été contrôlé depuis 2019",
-    "added_at": "2026-01-06T12:30:17.467Z"
+    "added_at": "2026-01-06T12:30:17.467Z",
+    "removed_at": "2026-01-09T03:39:27.699Z",
+    "duration_minutes": 3789,
+    "duration_str": "2d 15h 9m"
   },
   {
     "title": "Crans-Montana: Lausanne lance un appel à vérifier les protocoles de sécurité",
@@ -54351,7 +54354,10 @@
   },
   {
     "title": "Les alliés de Kiev en faveur du déploiement d'une force multinationale après un cessez-le-feu en Ukraine",
-    "added_at": "2026-01-06T21:13:02.263Z"
+    "added_at": "2026-01-06T21:13:02.263Z",
+    "removed_at": "2026-01-09T03:15:10.497Z",
+    "duration_minutes": 3242,
+    "duration_str": "2d 6h 2m"
   },
   {
     "title": "Les Européens défendent le Groenland face à Donald Trump, qui étudie la possibilité d'\"utiliser l'armée\"",
@@ -54780,14 +54786,17 @@
   },
   {
     "title": "Un millier d'invités, dont des chefs d'Etat, attendus à Martigny vendredi pour la commémoration officielle",
-    "added_at": "2026-01-08T17:53:36.412Z"
+    "added_at": "2026-01-08T17:53:36.412Z",
+    "removed_at": "2026-01-09T05:23:55.692Z",
+    "duration_minutes": 690,
+    "duration_str": "11h 30m"
   },
   {
     "title": "Drame du Crans-Montana: les familles réclament des excuses et des réponses",
     "added_at": "2026-01-08T18:03:15.883Z",
-    "removed_at": "2026-01-08T22:23:26.067Z",
-    "duration_minutes": 260,
-    "duration_str": "4h 20m"
+    "removed_at": "2026-01-09T04:13:25.649Z",
+    "duration_minutes": 610,
+    "duration_str": "10h 10m"
   },
   {
     "title": "Grands brûlés: traitements de pointe",
@@ -54839,5 +54848,25 @@
   {
     "title": "Deux personnes blessées par des policiers fédéraux lors d'une fusillade à Portland",
     "added_at": "2026-01-09T02:09:27.950Z"
+  },
+  {
+    "title": "La Syrie annonce un cessez-le-feu à Alep après plusieurs jours d'affrontements contre les combattants kurdes",
+    "added_at": "2026-01-09T03:15:10.497Z"
+  },
+  {
+    "title": "Au moins quatre morts à Kiev après un bombardement d'ampleur mené par la Russie",
+    "added_at": "2026-01-09T03:39:27.699Z"
+  },
+  {
+    "title": "Les Etats-Unis vont \"commencer des frappes au sol\" contre les cartels de la drogue, annonce Donald Trump",
+    "added_at": "2026-01-09T04:23:11.622Z"
+  },
+  {
+    "title": "La Suisse rend hommage aux victimes de la tragédie de Crans-Montana lors d'une journée de deuil national",
+    "added_at": "2026-01-09T04:47:24.988Z"
+  },
+  {
+    "title": "A Martigny, un \"mini-Davos\" a dû être planifié en quatre jours",
+    "added_at": "2026-01-09T05:16:36.046Z"
   }
 ]
