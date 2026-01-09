@@ -8226,7 +8226,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z"
+    "added_at": "2025-05-22T18:01:52.008Z",
+    "removed_at": "2026-01-09T11:02:12.196Z",
+    "duration_minutes": 333660,
+    "duration_str": "231d 17h"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -60646,7 +60649,10 @@
   },
   {
     "title": "suisse:::«Si ça se passe mal, c’est nous qui sommes engagés»: après le drame de Crans-Montana, des communes s’interrogent sur leur capacité à assurer les contrôles",
-    "added_at": "2026-01-09T05:43:34.579Z"
+    "added_at": "2026-01-09T05:43:34.579Z",
+    "removed_at": "2026-01-09T11:31:21.363Z",
+    "duration_minutes": 347,
+    "duration_str": "5h 47m"
   },
   {
     "title": "monde:::Après la neige, les vents violents: la tempête Goretti s’abat sur la France, 380 000 foyers privés d’électricité vendredi matin",
@@ -60679,7 +60685,10 @@
   },
   {
     "title": "suisse:::«L’exploitant est le premier responsable, il n’y a pas de discussion»: après le drame de Crans-Montana, l’analyse du spécialiste des crises Denis Froidevaux",
-    "added_at": "2026-01-09T07:44:57.176Z"
+    "added_at": "2026-01-09T07:44:57.176Z",
+    "removed_at": "2026-01-09T11:31:21.363Z",
+    "duration_minutes": 226,
+    "duration_str": "3h 46m"
   },
   {
     "title": "monde:::«Ali Khamenei prévoit de fuir Téhéran»: pour Moscou, la «perfide Albion» se cache forcément derrière cette rumeur explosive",
@@ -60687,10 +60696,7 @@
   },
   {
     "title": "cyber:::Déjà ciblée de manière intensive par les cyberattaques, la Suisse doit s’attendre à pire encore en 2026",
-    "added_at": "2026-01-09T07:59:34.774Z",
-    "removed_at": "2026-01-09T10:06:04.125Z",
-    "duration_minutes": 126,
-    "duration_str": "2h 6m"
+    "added_at": "2026-01-09T07:59:34.774Z"
   },
   {
     "title": "sport:::Génération Foot, fabrique à champions du Sénégal",
@@ -60709,7 +60715,10 @@
   },
   {
     "title": "suisse:::En direct, Crans-Montana – Le jour du deuil national, Guy Parmelin promet des mesures: «Nous le devons aux victimes et à leurs proches»",
-    "added_at": "2026-01-09T09:44:16.446Z"
+    "added_at": "2026-01-09T09:44:16.446Z",
+    "removed_at": "2026-01-09T10:52:25.781Z",
+    "duration_minutes": 68,
+    "duration_str": "1h 8m"
   },
   {
     "title": "monde:::En direct, crise au Venezuela – Donald Trump maintient une pression extrême sur le Venezuela et affirme avoir annulé une seconde attaque",
@@ -60721,5 +60730,77 @@
   {
     "title": "monde:::En direct, crise au Venezuela – Donald Trump maintient une pression extrême sur Caracas en affirmant avoir annulé une seconde attaque",
     "added_at": "2026-01-09T09:53:57.519Z"
+  },
+  {
+    "title": "suisse:::En direct, Crans-Montana – Emmanuel Macron vient d'atterrir à Genève, Guy Parmelin promet des mesures après le drame",
+    "added_at": "2026-01-09T10:52:25.781Z",
+    "removed_at": "2026-01-09T11:16:45.104Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "economie:::Les droits de douane américains suspendus à la décision de la Cour suprême, qui devrait trancher ce vendredi après-midi",
+    "added_at": "2026-01-09T11:04:34.518Z"
+  },
+  {
+    "title": "suisse:::En direct, Crans-Montana – Emmanuel Macron vient d’atterrir à Genève, Guy Parmelin promet des mesures après le drame",
+    "added_at": "2026-01-09T11:16:45.104Z",
+    "removed_at": "2026-01-09T11:58:06.123Z",
+    "duration_minutes": 41,
+    "duration_str": "41m"
+  },
+  {
+    "title": "suisse:::«L’exploitant est le premier responsable, il n’y a pas de discussion»: l’analyse du spécialiste des crises Denis Froidevaux",
+    "added_at": "2026-01-09T11:31:21.363Z"
+  },
+  {
+    "title": "suisse:::«Si ça se passe mal, c’est nous qui sommes engagés»: des communes s’interrogent sur leur capacité à assurer les contrôles",
+    "added_at": "2026-01-09T11:31:21.363Z"
+  },
+  {
+    "title": "suisse:::En direct, Crans-Montana – «C’est irréel, un moment hors du temps»: l'émotion est grande avant la cérémonie d'hommage aux victimes",
+    "added_at": "2026-01-09T11:58:06.123Z",
+    "removed_at": "2026-01-09T12:51:31.746Z",
+    "duration_minutes": 53,
+    "duration_str": "53m"
+  },
+  {
+    "title": "suisse:::En direct, Crans-Montana – «C’est irréel, un moment hors du temps»: la cérémonie d’hommage aux victimes commence",
+    "added_at": "2026-01-09T12:51:31.746Z",
+    "removed_at": "2026-01-09T12:53:59.081Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "suisse:::En direct, Crans-Montana – «Comment trouver les mots justes pour dire l'indicible?»: la cérémonie d’hommage aux victimes commence",
+    "added_at": "2026-01-09T12:53:59.081Z",
+    "removed_at": "2026-01-09T13:08:33.991Z",
+    "duration_minutes": 14,
+    "duration_str": "14m"
+  },
+  {
+    "title": "suisse:::En direct, Crans-Montana – La Suisse observe une minute de silence en hommage aux victimes, les cloches sonnent partout dans le pays",
+    "added_at": "2026-01-09T13:08:33.991Z",
+    "removed_at": "2026-01-09T13:23:09.411Z",
+    "duration_minutes": 14,
+    "duration_str": "14m"
+  },
+  {
+    "title": "suisse:::En direct, Crans-Montana – «Nous sommes ici brisés»: la cérémonie d’hommage aux victimes se poursuit après la minute de silence",
+    "added_at": "2026-01-09T13:23:09.411Z",
+    "removed_at": "2026-01-09T13:27:57.856Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "suisse:::En direct, Crans-Montana – «Ce jour, nous ne l'oublierons jamais»: Mathias Reynard rend hommage aux victimes à la cérémonie de Martigny",
+    "added_at": "2026-01-09T13:27:57.856Z",
+    "removed_at": "2026-01-09T13:32:49.079Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "suisse:::En direct, Crans-Montana – Pour Mathias Reynard, «la moindre des choses que l’on puisse faire est de présenter des excuses de toute la communauté»",
+    "added_at": "2026-01-09T13:32:49.079Z"
   }
 ]
