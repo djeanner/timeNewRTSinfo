@@ -6448,7 +6448,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:00:57.917Z"
+    "added_at": "2025-05-22T18:00:57.917Z",
+    "removed_at": "2026-01-09T11:02:27.408Z",
+    "duration_minutes": 333661,
+    "duration_str": "231d 17h 1m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -64064,10 +64067,7 @@
   },
   {
     "title": "monde:::Les batailles navales de Donald Trump n’épargnent pas la Russie",
-    "added_at": "2026-01-08T19:39:27.887Z",
-    "removed_at": "2026-01-09T07:59:55.369Z",
-    "duration_minutes": 740,
-    "duration_str": "12h 20m"
+    "added_at": "2026-01-08T19:39:27.887Z"
   },
   {
     "title": "monde:::La Genève internationale encore plus isolée après le retrait des Etats-Unis de dizaines d’organisations",
@@ -64149,7 +64149,10 @@
   },
   {
     "title": "suisse:::En direct, Crans-Montana – Une journée de deuil national inédite pour le pays",
-    "added_at": "2026-01-09T04:21:18.747Z"
+    "added_at": "2026-01-09T04:21:18.747Z",
+    "removed_at": "2026-01-09T09:44:29.138Z",
+    "duration_minutes": 323,
+    "duration_str": "5h 23m"
   },
   {
     "title": "monde:::Après la neige, les vents violents: la tempête Goretti s’abat sur la France",
@@ -64160,7 +64163,10 @@
   },
   {
     "title": "suisse:::«Si ça se passe mal, c’est nous qui sommes engagés»: après le drame de Crans-Montana, des communes s’interrogent sur leur capacité à assurer les contrôles",
-    "added_at": "2026-01-09T05:43:03.378Z"
+    "added_at": "2026-01-09T05:43:03.378Z",
+    "removed_at": "2026-01-09T11:30:58.769Z",
+    "duration_minutes": 347,
+    "duration_str": "5h 47m"
   },
   {
     "title": "monde:::Après la neige, les vents violents: la tempête Goretti s’abat sur la France, 380 000 foyers privés d’électricité vendredi matin",
@@ -64193,7 +64199,10 @@
   },
   {
     "title": "suisse:::«L’exploitant est le premier responsable, il n’y a pas de discussion»: après le drame de Crans-Montana, l’analyse du spécialiste des crises Denis Froidevaux",
-    "added_at": "2026-01-09T07:44:40.266Z"
+    "added_at": "2026-01-09T07:44:40.266Z",
+    "removed_at": "2026-01-09T11:30:58.769Z",
+    "duration_minutes": 226,
+    "duration_str": "3h 46m"
   },
   {
     "title": "monde:::«Ali Khamenei prévoit de fuir Téhéran»: pour Moscou, la «perfide Albion» se cache forcément derrière cette rumeur explosive",
@@ -64213,6 +64222,50 @@
   },
   {
     "title": "monde:::En direct, crise au Venezuela – Maria Corina Machado est prête à «donner» ou «partager» son prix Nobel de la paix avec Donald Trump pour attirer ses faveur",
-    "added_at": "2026-01-09T09:21:29.793Z"
+    "added_at": "2026-01-09T09:21:29.793Z",
+    "removed_at": "2026-01-09T09:50:11.369Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
+  },
+  {
+    "title": "suisse:::En direct, Crans-Montana – Le jour du deuil national, Guy Parmelin promet des mesures: «Nous le devons aux victimes et à leurs proches»",
+    "added_at": "2026-01-09T09:44:29.138Z",
+    "removed_at": "2026-01-09T10:51:03.949Z",
+    "duration_minutes": 66,
+    "duration_str": "1h 6m"
+  },
+  {
+    "title": "monde:::En direct, crise au Venezuela – Donald Trump maintient une pression extrême sur le Venezuela et affirme avoir annulé une seconde attaque",
+    "added_at": "2026-01-09T09:50:11.369Z",
+    "removed_at": "2026-01-09T09:54:02.863Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "monde:::En direct, crise au Venezuela – Donald Trump maintient une pression extrême sur Caracas en affirmant avoir annulé une seconde attaque",
+    "added_at": "2026-01-09T09:54:02.863Z"
+  },
+  {
+    "title": "suisse:::En direct, Crans-Montana – Emmanuel Macron vient d'atterrir à Genève, Guy Parmelin promet des mesures après le drame",
+    "added_at": "2026-01-09T10:51:03.949Z",
+    "removed_at": "2026-01-09T11:15:42.924Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "economie:::Les droits de douane américains suspendus à la décision de la Cour suprême, qui devrait trancher ce vendredi après-midi",
+    "added_at": "2026-01-09T11:04:18.238Z"
+  },
+  {
+    "title": "suisse:::En direct, Crans-Montana – Emmanuel Macron vient d’atterrir à Genève, Guy Parmelin promet des mesures après le drame",
+    "added_at": "2026-01-09T11:15:42.924Z"
+  },
+  {
+    "title": "suisse:::«L’exploitant est le premier responsable, il n’y a pas de discussion»: l’analyse du spécialiste des crises Denis Froidevaux",
+    "added_at": "2026-01-09T11:30:58.769Z"
+  },
+  {
+    "title": "suisse:::«Si ça se passe mal, c’est nous qui sommes engagés»: des communes s’interrogent sur leur capacité à assurer les contrôles",
+    "added_at": "2026-01-09T11:30:58.769Z"
   }
 ]
