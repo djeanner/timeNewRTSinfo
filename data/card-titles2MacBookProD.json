@@ -60425,7 +60425,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Russie annonce la libération du chercheur français Laurent Vinatier qui était en mission à Moscou pour une ONG genevoise",
-    "added_at": "2026-01-08T14:24:44.574Z"
+    "added_at": "2026-01-08T14:24:44.574Z",
+    "removed_at": "2026-01-08T23:07:03.685Z",
+    "duration_minutes": 522,
+    "duration_str": "8h 42m"
   },
   {
     "title": "suisse:::Minute de silence, cérémonie à Martigny… Ce qu’il faut savoir sur la journée d’hommage aux victimes de Crans-Montana",
@@ -60480,7 +60483,10 @@
   },
   {
     "title": "monde:::En direct, crise au Venezuela – Donald Trump n'exclut pas de se rendre à Caracas: «Je pense qu’à un moment donné, ce sera sûr»",
-    "added_at": "2026-01-08T17:21:57.495Z"
+    "added_at": "2026-01-08T17:21:57.495Z",
+    "removed_at": "2026-01-08T22:04:04.701Z",
+    "duration_minutes": 282,
+    "duration_str": "4h 42m"
   },
   {
     "title": "suisse:::La nouvelle peau des grands brûlés de Crans-Montana est cultivée à Lausanne",
@@ -60553,5 +60559,20 @@
   {
     "title": "culture:::A Photo Elysée, un nécessaire questionnement autour des archives coloniales du studio allemand Lehnert & Landrock, fleuron de l’iconographie orientaliste",
     "added_at": "2026-01-08T20:31:25.093Z"
+  },
+  {
+    "title": "monde:::En direct, crise au Venezuela – Caracas libère «un nombre important» de prisonniers politiques",
+    "added_at": "2026-01-08T22:04:04.701Z",
+    "removed_at": "2026-01-08T22:06:27.510Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::En direct, crise au Venezuela – Caracas annonce la libération d'un «nombre important» de prisonniers politiques",
+    "added_at": "2026-01-08T22:06:27.510Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Le chercheur français emprisonné en Russie Laurent Vinatier a été libéré",
+    "added_at": "2026-01-08T23:07:03.685Z"
   }
 ]
