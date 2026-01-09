@@ -64045,7 +64045,10 @@
   },
   {
     "title": "sport:::Donald Trump veut annexer trois golfs publics de Washington",
-    "added_at": "2026-01-08T19:31:49.597Z"
+    "added_at": "2026-01-08T19:31:49.597Z",
+    "removed_at": "2026-01-09T01:13:24.679Z",
+    "duration_minutes": 341,
+    "duration_str": "5h 41m"
   },
   {
     "title": "monde:::Les batailles navales de Donald Trump n’épargnent pas la Russie",
@@ -64083,10 +64086,24 @@
   },
   {
     "title": "monde:::En direct, crise au Venezuela – Caracas annonce la libération d'un «nombre important» de prisonniers politiques",
-    "added_at": "2026-01-08T22:05:37.992Z"
+    "added_at": "2026-01-08T22:05:37.992Z",
+    "removed_at": "2026-01-09T01:45:36.535Z",
+    "duration_minutes": 219,
+    "duration_str": "3h 39m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Le chercheur français emprisonné en Russie Laurent Vinatier a été libéré",
-    "added_at": "2026-01-08T23:06:14.295Z"
+    "added_at": "2026-01-08T23:06:14.295Z",
+    "removed_at": "2026-01-09T01:11:30.570Z",
+    "duration_minutes": 125,
+    "duration_str": "2h 5m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – L’ensemble du territoire ukrainien en alerte, deux morts à Kiev",
+    "added_at": "2026-01-09T01:11:30.570Z"
+  },
+  {
+    "title": "monde:::En direct, crise au Venezuela – Caracas annonce la libération d’un «nombre important» de prisonniers politiques",
+    "added_at": "2026-01-09T01:45:36.535Z"
   }
 ]
