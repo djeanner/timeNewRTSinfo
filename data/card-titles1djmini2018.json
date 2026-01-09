@@ -83179,7 +83179,10 @@
   },
   {
     "title": "La commune de Crans-Montana reconnaît que Le Constellation n'a plus été contrôlé depuis 2019",
-    "added_at": "2026-01-06T12:29:10.004Z"
+    "added_at": "2026-01-06T12:29:10.004Z",
+    "removed_at": "2026-01-09T03:39:34.293Z",
+    "duration_minutes": 3790,
+    "duration_str": "2d 15h 10m"
   },
   {
     "title": "Crans-Montana: Lausanne lance un appel à vérifier les protocoles de sécurité",
@@ -83352,7 +83355,10 @@
   },
   {
     "title": "Les alliés de Kiev en faveur du déploiement d'une force multinationale après un cessez-le-feu en Ukraine",
-    "added_at": "2026-01-06T21:13:40.704Z"
+    "added_at": "2026-01-06T21:13:40.704Z",
+    "removed_at": "2026-01-09T03:14:59.187Z",
+    "duration_minutes": 3241,
+    "duration_str": "2d 6h 1m"
   },
   {
     "title": "Les Européens défendent le Groenland face à Donald Trump, qui étudie la possibilité d'\"utiliser l'armée\"",
@@ -83793,9 +83799,9 @@
   {
     "title": "Drame du Crans-Montana: les familles réclament des excuses et des réponses",
     "added_at": "2026-01-08T18:02:29.631Z",
-    "removed_at": "2026-01-08T22:22:40.871Z",
-    "duration_minutes": 260,
-    "duration_str": "4h 20m"
+    "removed_at": "2026-01-09T04:13:43.109Z",
+    "duration_minutes": 611,
+    "duration_str": "10h 11m"
   },
   {
     "title": "Grands brûlés: traitements de pointe",
@@ -83847,5 +83853,17 @@
   {
     "title": "Deux personnes blessées par des policiers fédéraux lors d'une fusillade à Portland",
     "added_at": "2026-01-09T02:08:21.608Z"
+  },
+  {
+    "title": "La Syrie annonce un cessez-le-feu à Alep après plusieurs jours d'affrontements contre les combattants kurdes",
+    "added_at": "2026-01-09T03:14:59.187Z"
+  },
+  {
+    "title": "Au moins quatre morts à Kiev après un bombardement d'ampleur mené par la Russie",
+    "added_at": "2026-01-09T03:39:34.293Z"
+  },
+  {
+    "title": "Les Etats-Unis vont \"commencer des frappes au sol\" contre les cartels de la drogue, annonce Donald Trump",
+    "added_at": "2026-01-09T04:23:15.299Z"
   }
 ]
