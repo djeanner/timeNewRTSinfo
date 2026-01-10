@@ -83801,7 +83801,10 @@
   },
   {
     "title": "Aux Etats-Unis, un policier de l'immigration tue une femme lors d'une opération",
-    "added_at": "2026-01-08T07:10:08.467Z"
+    "added_at": "2026-01-08T07:10:08.467Z",
+    "removed_at": "2026-01-10T13:34:16.095Z",
+    "duration_minutes": 3264,
+    "duration_str": "2d 6h 24m"
   },
   {
     "title": "Une centaine de tracteurs envahissent Paris pour protester contre Mercosur",
@@ -83847,7 +83850,10 @@
   },
   {
     "title": "\"Plus d'un million\" de foyers ukrainiens sans chauffage ni eau après des frappes russes",
-    "added_at": "2026-01-08T09:24:42.600Z"
+    "added_at": "2026-01-08T09:24:42.600Z",
+    "removed_at": "2026-01-10T12:58:06.218Z",
+    "duration_minutes": 3093,
+    "duration_str": "2d 3h 33m"
   },
   {
     "title": "Les différents lieux de commémoration en Suisse romande lors du deuil national de vendredi",
@@ -83937,11 +83943,17 @@
   },
   {
     "title": "Les caisses de pension suisses ont réalisé de bonnes performances en 2025",
-    "added_at": "2026-01-08T14:14:40.810Z"
+    "added_at": "2026-01-08T14:14:40.810Z",
+    "removed_at": "2026-01-10T12:59:57.185Z",
+    "duration_minutes": 2805,
+    "duration_str": "1d 22h 45m"
   },
   {
     "title": "L'armée syrienne bombarde les quartiers kurdes d'Alep après la fuite de milliers d'habitants",
-    "added_at": "2026-01-08T14:31:57.100Z"
+    "added_at": "2026-01-08T14:31:57.100Z",
+    "removed_at": "2026-01-10T13:28:31.702Z",
+    "duration_minutes": 2816,
+    "duration_str": "1d 22h 56m"
   },
   {
     "title": "L'administration genevoise croule sous les milliers de questions des députés",
@@ -83949,7 +83961,10 @@
   },
   {
     "title": "\"Une forêt\" de Jean-Yves Jouannais, le procès absurde d'oiseaux nazis",
-    "added_at": "2026-01-08T15:36:17.078Z"
+    "added_at": "2026-01-08T15:36:17.078Z",
+    "removed_at": "2026-01-10T13:19:02.408Z",
+    "duration_minutes": 2742,
+    "duration_str": "1d 21h 42m"
   },
   {
     "title": "La demande d'équipements anti-incendie explose en Suisse",
@@ -84522,5 +84537,25 @@
   {
     "title": "La mobilisation en Iran ne faiblit pas, le pays toujours sans internet",
     "added_at": "2026-01-10T11:33:53.873Z"
+  },
+  {
+    "title": "\"Nous ne voulons pas être Américains\", disent les partis groenlandais",
+    "added_at": "2026-01-10T12:58:06.218Z"
+  },
+  {
+    "title": "Le réseau électrique suisse pourra-t-il supporter le poids de nos centres de données?",
+    "added_at": "2026-01-10T12:59:57.185Z"
+  },
+  {
+    "title": "Le patron du Constellation a confirmé que l'issue de secours était verrouillée",
+    "added_at": "2026-01-10T13:19:02.408Z"
+  },
+  {
+    "title": "Odermatt en tête après la première manche",
+    "added_at": "2026-01-10T13:28:31.702Z"
+  },
+  {
+    "title": "Donald Trump sera présent au Forum économique mondial de Davos",
+    "added_at": "2026-01-10T13:34:16.095Z"
   }
 ]
