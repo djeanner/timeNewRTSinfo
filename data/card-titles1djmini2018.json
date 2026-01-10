@@ -83800,7 +83800,10 @@
   },
   {
     "title": "De nombreuses lacunes détectées dans la transformation numérique du 1er pilier",
-    "added_at": "2026-01-08T07:31:11.795Z"
+    "added_at": "2026-01-08T07:31:11.795Z",
+    "removed_at": "2026-01-10T05:20:03.350Z",
+    "duration_minutes": 2748,
+    "duration_str": "1d 21h 48m"
   },
   {
     "title": "La Colombie redoute une \"catastrophe\" régionale après l'attaque américaine au Venezuela",
@@ -84423,5 +84426,9 @@
   {
     "title": "La Nasa organise le retour anticipé d'un équipage de l'ISS pour problème médical",
     "added_at": "2026-01-10T04:24:37.527Z"
+  },
+  {
+    "title": "Le Conseil de sécurité de l'ONU va se réunir après les nouvelles frappes russes sur l'Ukraine",
+    "added_at": "2026-01-10T05:20:03.350Z"
   }
 ]
