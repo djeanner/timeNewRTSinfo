@@ -206767,7 +206767,10 @@
   },
   {
     "title": "« Sous Donald Trump, les prouesses de l’armée américaine butent régulièrement sur le grand vide du “jour d’après” »",
-    "added_at": "2026-01-07T14:16:12.393Z"
+    "added_at": "2026-01-07T14:16:12.393Z",
+    "removed_at": "2026-01-10T04:24:39.025Z",
+    "duration_minutes": 3728,
+    "duration_str": "2d 14h 8m"
   },
   {
     "title": "Les cinq mois de déploiements militaires qui ont permis aux Etats-Unis d’intervenir au Venezuela",
@@ -207324,10 +207327,7 @@
   },
   {
     "title": "Les créanciers, « rois du pétrole au Venezuela après l’enlèvement de Nicolas Maduro »",
-    "added_at": "2026-01-08T10:50:02.935Z",
-    "removed_at": "2026-01-10T01:52:15.148Z",
-    "duration_minutes": 2342,
-    "duration_str": "1d 15h 2m"
+    "added_at": "2026-01-08T10:50:02.935Z"
   },
   {
     "title": "Syrie : de nouveaux affrontements entre forces gouvernementales et kurdes à Alep",
@@ -207472,9 +207472,9 @@
   {
     "title": "« La domination de la Chine dans l’IA open source est un défi pour les Etats-Unis »",
     "added_at": "2026-01-08T13:27:17.881Z",
-    "removed_at": "2026-01-10T01:57:58.051Z",
-    "duration_minutes": 2190,
-    "duration_str": "1d 12h 30m"
+    "removed_at": "2026-01-10T04:20:51.388Z",
+    "duration_minutes": 2333,
+    "duration_str": "1d 14h 53m"
   },
   {
     "title": "Des agriculteurs venus manifester à Paris reçus par la présidente de l’Assemblée nationale, Yaël Braun-Pivet",
@@ -207809,9 +207809,9 @@
   {
     "title": "Les stablecoins, des cryptoactifs au service de la domination du dollar",
     "added_at": "2026-01-08T18:25:16.891Z",
-    "removed_at": "2026-01-10T02:01:45.683Z",
-    "duration_minutes": 1896,
-    "duration_str": "1d 7h 36m"
+    "removed_at": "2026-01-10T04:18:56.908Z",
+    "duration_minutes": 2033,
+    "duration_str": "1d 9h 53m"
   },
   {
     "title": "EN DIRECT, colère des agriculteurs : la France votera contre le traité de libre-échange UE-Mercosur, « un accord d’un autre âge », annonce Emmanuel Macron",
@@ -208188,16 +208188,16 @@
   {
     "title": "Crans-Montana, ou la singulière histoire d’une station suisse huppée traumatisée",
     "added_at": "2026-01-09T11:06:14.420Z",
-    "removed_at": "2026-01-10T01:59:55.104Z",
-    "duration_minutes": 893,
-    "duration_str": "14h 53m"
+    "removed_at": "2026-01-10T04:24:39.025Z",
+    "duration_minutes": 1038,
+    "duration_str": "17h 18m"
   },
   {
     "title": "« Vers une fusion Glencore - Rio Tinto : les enjeux géopolitiques feraient presque oublier les impératifs industriels »",
     "added_at": "2026-01-09T11:06:14.420Z",
-    "removed_at": "2026-01-10T02:01:45.683Z",
-    "duration_minutes": 895,
-    "duration_str": "14h 55m"
+    "removed_at": "2026-01-10T04:24:39.025Z",
+    "duration_minutes": 1038,
+    "duration_str": "17h 18m"
   },
   {
     "title": "En direct : une majorité d’Etats membres de l’UE approuvent l’accord avec le Mercosur, malgré le « non » de la France",
@@ -208427,6 +208427,13 @@
   },
   {
     "title": "En direct : Donald Trump annonce que les Etats-Unis décideront quelles entreprises pourront exploiter le pétrole au Venezuela",
-    "added_at": "2026-01-09T21:23:40.644Z"
+    "added_at": "2026-01-09T21:23:40.644Z",
+    "removed_at": "2026-01-10T02:38:01.856Z",
+    "duration_minutes": 314,
+    "duration_str": "5h 14m"
+  },
+  {
+    "title": "Face à Donald Trump, les majors américaines montrent un intérêt plus que mesuré pour le pétrole du Venezuela",
+    "added_at": "2026-01-10T02:38:01.856Z"
   }
 ]
