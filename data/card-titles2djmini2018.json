@@ -64707,7 +64707,10 @@
   },
   {
     "title": "culture:::Au Venezuela, splendeurs et décadences de l’orchestre El Sistema",
-    "added_at": "2026-01-10T18:07:47.034Z"
+    "added_at": "2026-01-10T18:07:47.034Z",
+    "removed_at": "2026-01-11T06:31:13.680Z",
+    "duration_minutes": 743,
+    "duration_str": "12h 23m"
   },
   {
     "title": "suisse:::En direct – En Macédoine du Nord, les familles des victimes de l’incendie du «Pulse» expriment leur solidarité avec Crans-Montana",
@@ -64741,5 +64744,16 @@
   {
     "title": "monde:::En Iran, les mobilisations se poursuivent malgré la crainte de répression et le blocage d’Internet",
     "added_at": "2026-01-10T20:56:01.816Z"
+  },
+  {
+    "title": "monde:::En direct, crise au Venezuela – Washington demandent aux Américains de quitter «immédiatement» le pays",
+    "added_at": "2026-01-11T06:31:13.680Z",
+    "removed_at": "2026-01-11T06:35:02.949Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "monde:::En direct, crise au Venezuela – Washington demande aux Américains de quitter «immédiatement» le pays",
+    "added_at": "2026-01-11T06:35:02.949Z"
   }
 ]

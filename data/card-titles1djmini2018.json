@@ -84056,7 +84056,10 @@
   },
   {
     "title": "Le groupe de télécommunications Sunrise va supprimer près de 200 postes",
-    "added_at": "2026-01-08T19:11:00.773Z"
+    "added_at": "2026-01-08T19:11:00.773Z",
+    "removed_at": "2026-01-11T06:27:26.143Z",
+    "duration_minutes": 3556,
+    "duration_str": "2d 11h 16m"
   },
   {
     "title": "Une entreprise étrangère doit enlever le mot \"Swiss\" de son nom",
@@ -84081,11 +84084,17 @@
   },
   {
     "title": "La tempête Goretti devrait passer au nord de la Suisse",
-    "added_at": "2026-01-08T22:22:40.871Z"
+    "added_at": "2026-01-08T22:22:40.871Z",
+    "removed_at": "2026-01-11T05:01:36.390Z",
+    "duration_minutes": 3278,
+    "duration_str": "2d 6h 38m"
   },
   {
     "title": "Le géant suisse Glencore discute à nouveau fusion avec l'anglo-australien Rio Tinto",
-    "added_at": "2026-01-09T01:36:08.711Z"
+    "added_at": "2026-01-09T01:36:08.711Z",
+    "removed_at": "2026-01-11T06:14:01.276Z",
+    "duration_minutes": 3157,
+    "duration_str": "2d 4h 37m"
   },
   {
     "title": "Deux personnes blessées par des policiers fédéraux lors d'une fusillade à Portland",
@@ -84692,10 +84701,7 @@
   },
   {
     "title": "Meurtrie par le drame, la France va également suivre cette journée de commémorations",
-    "added_at": "2026-01-10T19:03:15.702Z",
-    "removed_at": "2026-01-10T20:23:33.762Z",
-    "duration_minutes": 80,
-    "duration_str": "1h 20m"
+    "added_at": "2026-01-10T19:03:15.702Z"
   },
   {
     "title": "Un millier de personnes saluent la mémoire de Daniel Brélaz à Lausanne",
@@ -84724,5 +84730,13 @@
   {
     "title": "Les forces kurdes acceptent de quitter Alep après des jours de combats meurtriers",
     "added_at": "2026-01-11T04:15:37.609Z"
+  },
+  {
+    "title": "Catastrophes climatiques, qui va payer la facture?",
+    "added_at": "2026-01-11T06:14:01.276Z"
+  },
+  {
+    "title": "Il y a cinquante ans, la Suisse tentait pour la première fois de rendre la ceinture obligatoire",
+    "added_at": "2026-01-11T06:27:26.143Z"
   }
 ]
