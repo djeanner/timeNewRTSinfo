@@ -84060,7 +84060,10 @@
   },
   {
     "title": "Une entreprise étrangère doit enlever le mot \"Swiss\" de son nom",
-    "added_at": "2026-01-08T19:20:26.459Z"
+    "added_at": "2026-01-08T19:20:26.459Z",
+    "removed_at": "2026-01-11T04:15:37.609Z",
+    "duration_minutes": 3415,
+    "duration_str": "2d 8h 55m"
   },
   {
     "title": "Comment travaillent les journalistes à Crans-Montana ?",
@@ -84090,7 +84093,10 @@
   },
   {
     "title": "La Syrie annonce un cessez-le-feu à Alep après plusieurs jours d'affrontements contre les combattants kurdes",
-    "added_at": "2026-01-09T03:14:59.187Z"
+    "added_at": "2026-01-09T03:14:59.187Z",
+    "removed_at": "2026-01-11T03:10:40.448Z",
+    "duration_minutes": 2875,
+    "duration_str": "1d 23h 55m"
   },
   {
     "title": "Au moins quatre morts à Kiev après un bombardement d'ampleur mené par la Russie",
@@ -84710,5 +84716,13 @@
   {
     "title": "Les Etats-Unis annoncent avoir mené des frappes \"à grande échelle\" contre l'EI en Syrie",
     "added_at": "2026-01-10T21:34:30.507Z"
+  },
+  {
+    "title": "\"Nous allons bien, nous sommes des combattants\", clame Nicolas Maduro en prison",
+    "added_at": "2026-01-11T03:10:40.448Z"
+  },
+  {
+    "title": "Les forces kurdes acceptent de quitter Alep après des jours de combats meurtriers",
+    "added_at": "2026-01-11T04:15:37.609Z"
   }
 ]
