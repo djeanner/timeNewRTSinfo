@@ -84603,7 +84603,10 @@
   },
   {
     "title": "Arthur, Cyane, Caroline... derrière les hommages, les visages de la tragédie de Crans-Montana",
-    "added_at": "2026-01-09T19:57:45.945Z"
+    "added_at": "2026-01-09T19:57:45.945Z",
+    "removed_at": "2026-01-12T17:18:00.846Z",
+    "duration_minutes": 4160,
+    "duration_str": "2d 21h 20m"
   },
   {
     "title": "La commémoration du drame de Crans-Montana vécue par la population",
@@ -84759,7 +84762,10 @@
   },
   {
     "title": "\"Nous ne voulons pas être Américains\", disent les partis groenlandais",
-    "added_at": "2026-01-10T12:58:06.218Z"
+    "added_at": "2026-01-10T12:58:06.218Z",
+    "removed_at": "2026-01-12T17:29:28.275Z",
+    "duration_minutes": 3151,
+    "duration_str": "2d 4h 31m"
   },
   {
     "title": "Le réseau électrique suisse pourra-t-il supporter le poids de nos centres de données?",
@@ -84792,7 +84798,10 @@
   },
   {
     "title": "Une 84e victoire pour Vonn, Schmitt magnifique 5e",
-    "added_at": "2026-01-10T14:04:59.665Z"
+    "added_at": "2026-01-10T14:04:59.665Z",
+    "removed_at": "2026-01-12T16:58:56.440Z",
+    "duration_minutes": 3053,
+    "duration_str": "2d 2h 53m"
   },
   {
     "title": "Le patron du Constellation a confirmé que la porte de service du rez-de-chaussée était verrouillée",
@@ -84804,7 +84813,10 @@
   },
   {
     "title": "Avec \"Father Mother Sister Brother\", Jim Jarmusch offre une réflexion tendre sur la famille",
-    "added_at": "2026-01-10T15:25:10.882Z"
+    "added_at": "2026-01-10T15:25:10.882Z",
+    "removed_at": "2026-01-12T18:15:19.910Z",
+    "duration_minutes": 3050,
+    "duration_str": "2d 2h 50m"
   },
   {
     "title": "Au lendemain du deuil national, le Valais commence à envisager l'après",
@@ -84837,7 +84849,10 @@
   },
   {
     "title": "Une vidéo montre que le danger des mousses était connu depuis longtemps",
-    "added_at": "2026-01-10T17:21:56.606Z"
+    "added_at": "2026-01-10T17:21:56.606Z",
+    "removed_at": "2026-01-12T18:32:32.436Z",
+    "duration_minutes": 2950,
+    "duration_str": "2d 1h 10m"
   },
   {
     "title": "Lausanne a dit adieu à son ancien syndic Daniel Brélaz",
@@ -85223,11 +85238,17 @@
   },
   {
     "title": "La détention provisoire du patron du Constellation confirmée, des mesures de substitution possibles",
-    "added_at": "2026-01-12T13:53:16.744Z"
+    "added_at": "2026-01-12T13:53:16.744Z",
+    "removed_at": "2026-01-12T17:52:24.825Z",
+    "duration_minutes": 239,
+    "duration_str": "3h 59m"
   },
   {
     "title": "La justice face aux récits des témoins du drame de Crans-Montana: interview d’Alain Macaluso",
-    "added_at": "2026-01-12T14:02:49.979Z"
+    "added_at": "2026-01-12T14:02:49.979Z",
+    "removed_at": "2026-01-12T17:23:44.767Z",
+    "duration_minutes": 200,
+    "duration_str": "3h 20m"
   },
   {
     "title": "Les entreprises de l'électricité redoutent des problèmes d'approvisionnement dès 2050",
@@ -85263,6 +85284,48 @@
   },
   {
     "title": "Des milliers de manifestants à Téhéran en soutien au pouvoir, le bilan humain de la répression alourdi",
-    "added_at": "2026-01-12T15:34:34.944Z"
+    "added_at": "2026-01-12T15:34:34.944Z",
+    "removed_at": "2026-01-12T16:37:50.443Z",
+    "duration_minutes": 63,
+    "duration_str": "1h 3m"
+  },
+  {
+    "title": "Au moins 648 manifestants ont été tués depuis le début de la contestation en Iran, selon une ONG",
+    "added_at": "2026-01-12T16:37:50.443Z"
+  },
+  {
+    "title": "Un total de 22 candidats et candidates visent la Municipalité de Lausanne",
+    "added_at": "2026-01-12T16:58:56.440Z"
+  },
+  {
+    "title": "Un antidote contre la ricine, un poison à haut risque bioterroriste, vient d'être autorisé",
+    "added_at": "2026-01-12T17:18:00.846Z"
+  },
+  {
+    "title": "La justice américaine ouvre une enquête criminelle à l’encontre du président de la Fed",
+    "added_at": "2026-01-12T17:23:44.767Z"
+  },
+  {
+    "title": "L'ex-gérant du Constellation s'exprime pour la première fois et s'interroge sur les travaux effectués en 2015",
+    "added_at": "2026-01-12T17:29:28.275Z"
+  },
+  {
+    "title": "La détention provisoire du patron du Constellation est confirmée, mais il pourrait sortir rapidement",
+    "added_at": "2026-01-12T17:52:24.825Z",
+    "removed_at": "2026-01-12T17:54:20.469Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "La détention provisoire du patron du Constellation est confirmée, mais il pourrait sortir rapidement de prison",
+    "added_at": "2026-01-12T17:54:20.469Z"
+  },
+  {
+    "title": "Affaire Dittli: l'analyse de Gaspard Kühn, en direct du Grand Conseil vaudois",
+    "added_at": "2026-01-12T18:03:52.234Z"
+  },
+  {
+    "title": "Un couple de Sédunois dépose une dénonciation pénale contre Charlie Hebdo",
+    "added_at": "2026-01-12T18:15:19.910Z"
   }
 ]
