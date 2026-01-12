@@ -84733,7 +84733,10 @@
   },
   {
     "title": "Swiss annule plusieurs vols au départ de Zurich en raison des intempéries",
-    "added_at": "2026-01-10T10:21:28.209Z"
+    "added_at": "2026-01-10T10:21:28.209Z",
+    "removed_at": "2026-01-12T21:15:45.966Z",
+    "duration_minutes": 3534,
+    "duration_str": "2d 10h 54m"
   },
   {
     "title": "Du TARMED au TARDOC: les changements pour les patients et patientes encore flous",
@@ -85345,5 +85348,16 @@
   {
     "title": "Podcast - Qui sont les personnes sans-abri?",
     "added_at": "2026-01-12T20:44:57.275Z"
+  },
+  {
+    "title": "L'année 2025 a été l'année la plus meurtrière pour les civils ukrainiens depuis 2022",
+    "added_at": "2026-01-12T21:15:45.966Z",
+    "removed_at": "2026-01-12T21:17:42.457Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "L'année 2025 a été la plus meurtrière pour les civils ukrainiens depuis 2022",
+    "added_at": "2026-01-12T21:17:42.457Z"
   }
 ]
