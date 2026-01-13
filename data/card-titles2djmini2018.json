@@ -65140,7 +65140,10 @@
   },
   {
     "title": "economie:::UBS continue de s’opposer à l’augmentation des capitaux",
-    "added_at": "2026-01-12T19:09:04.990Z"
+    "added_at": "2026-01-12T19:09:04.990Z",
+    "removed_at": "2026-01-12T23:52:38.742Z",
+    "duration_minutes": 283,
+    "duration_str": "4h 43m"
   },
   {
     "title": "suisse:::A Genève, lourde peine requise pour l’incendie doublement mortel du Lignon",
@@ -65169,5 +65172,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Les Etats-Unis dénoncent une «escalade» russe «dangereuse et inexplicable» en Ukraine",
     "added_at": "2026-01-12T22:32:12.459Z"
+  },
+  {
+    "title": "monde:::En direct, Iran – Des frappes en Iran sont toujours une option pour Donald Trump, déclare la Maison-Blanche",
+    "added_at": "2026-01-12T23:52:38.742Z"
   }
 ]
