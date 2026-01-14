@@ -65281,7 +65281,10 @@
   },
   {
     "title": "monde:::Au sud de Téhéran, la morgue de Kahrizak débordée par l’afflux de cadavres",
-    "added_at": "2026-01-13T07:25:54.089Z"
+    "added_at": "2026-01-13T07:25:54.089Z",
+    "removed_at": "2026-01-14T09:32:48.745Z",
+    "duration_minutes": 1566,
+    "duration_str": "1d 2h 6m"
   },
   {
     "title": "suisse:::Le Ministère public vaudois ouvre une instruction pénale sur le bouclier fiscal",
@@ -65306,10 +65309,7 @@
   },
   {
     "title": "monde:::Alors que Donald Trump menace l’Iran, le Congrès américain est relégué à un rôle de spectateur",
-    "added_at": "2026-01-13T10:21:40.880Z",
-    "removed_at": "2026-01-14T08:25:39.654Z",
-    "duration_minutes": 1323,
-    "duration_str": "22h 3m"
+    "added_at": "2026-01-13T10:21:40.880Z"
   },
   {
     "title": "monde:::Reza Pahlavi, fils en exil du dernier shah d’Iran et nouveau visage incontournable de la contestation",
@@ -65490,11 +65490,17 @@
   },
   {
     "title": "suisse:::L’application illégale du bouclier fiscal vaudois dans le viseur de la justice",
-    "added_at": "2026-01-13T17:51:20.242Z"
+    "added_at": "2026-01-13T17:51:20.242Z",
+    "removed_at": "2026-01-14T09:55:44.127Z",
+    "duration_minutes": 964,
+    "duration_str": "16h 4m"
   },
   {
     "title": "sport:::Un an après sa victoire à l’Open d’Australie juniors, le patient apprentissage d’Henry Bernet",
-    "added_at": "2026-01-13T18:00:48.611Z"
+    "added_at": "2026-01-13T18:00:48.611Z",
+    "removed_at": "2026-01-14T10:01:28.453Z",
+    "duration_minutes": 960,
+    "duration_str": "16h"
   },
   {
     "title": "economie:::Prêts covid, l’épineuse question des procédures judiciaires",
@@ -65519,7 +65525,10 @@
   },
   {
     "title": "suisse:::Le chirurgien Jean-Jacques Brugger est intervenu à Crans-Montana: «Les grands brûlés ne criaient pas malgré la douleur»",
-    "added_at": "2026-01-13T19:21:20.049Z"
+    "added_at": "2026-01-13T19:21:20.049Z",
+    "removed_at": "2026-01-14T10:01:28.453Z",
+    "duration_minutes": 880,
+    "duration_str": "14h 40m"
   },
   {
     "title": "suisse:::Drame de Crans-Montana: ce que disent les premières auditions des témoins et des époux Moretti",
@@ -65542,14 +65551,14 @@
   },
   {
     "title": "cyber:::L’alliance entre Google et Apple en IA, symbole d’une concentration extraordinaire des pouvoirs dans le numérique",
-    "added_at": "2026-01-13T21:31:31.755Z"
+    "added_at": "2026-01-13T21:31:31.755Z",
+    "removed_at": "2026-01-14T09:21:20.362Z",
+    "duration_minutes": 709,
+    "duration_str": "11h 49m"
   },
   {
     "title": "monde:::Ladan Boroumand, historienne et militante des droits humains: «En Iran, les images de cadavres ne font plus peur»",
-    "added_at": "2026-01-13T22:42:21.531Z",
-    "removed_at": "2026-01-14T07:26:30.056Z",
-    "duration_minutes": 524,
-    "duration_str": "8h 44m"
+    "added_at": "2026-01-13T22:42:21.531Z"
   },
   {
     "title": "monde:::En direct – Donald Trump appelle les manifestants iraniens à renverser le régime en leur promettant de l'«aide»",
@@ -65607,5 +65616,28 @@
   {
     "title": "suisse:::En direct, Crans-Montana – Le ministre français de l’Intérieur demande un renforcement des contrôles dans les bars",
     "added_at": "2026-01-14T07:32:11.780Z"
+  },
+  {
+    "title": "culture:::«Mon ami Barry»: là-haut sur la montagne, l’était un mignon petit saint-bernard",
+    "added_at": "2026-01-14T09:21:20.362Z"
+  },
+  {
+    "title": "monde:::En Iran, le régime s’en prend au service de connexion par satellite Starlink pour empêcher les habitants de communiquer",
+    "added_at": "2026-01-14T09:32:48.745Z"
+  },
+  {
+    "title": "suisse:::Les élections bernoises seront très scrutées en vue des fédérales de 2027",
+    "added_at": "2026-01-14T09:55:44.127Z"
+  },
+  {
+    "title": "sciences:::Environ 3000 espèces sont à protéger en priorité en Suisse",
+    "added_at": "2026-01-14T10:01:28.453Z",
+    "removed_at": "2026-01-14T10:41:38.121Z",
+    "duration_minutes": 40,
+    "duration_str": "40m"
+  },
+  {
+    "title": "culture:::Le monde «flottant» et fabuleux des estampes japonaises au Musée Jenisch",
+    "added_at": "2026-01-14T10:41:38.121Z"
   }
 ]
