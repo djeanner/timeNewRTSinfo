@@ -85356,7 +85356,10 @@
   },
   {
     "title": "Claire Charmet, directrice du CHUV: \"La durée du séjour des brûlés est beaucoup plus longue que pour la plupart des patients\"",
-    "added_at": "2026-01-12T10:51:21.035Z"
+    "added_at": "2026-01-12T10:51:21.035Z",
+    "removed_at": "2026-01-15T03:19:52.101Z",
+    "duration_minutes": 3868,
+    "duration_str": "2d 16h 28m"
   },
   {
     "title": "Lausanne, Genève et Crans-Montana parmi les sites du projet de JO d'hiver 2038",
@@ -85714,7 +85717,10 @@
   },
   {
     "title": "\"Société écrans\" de Thomas Wiesel, un spectacle pour rire de nos addictions",
-    "added_at": "2026-01-13T10:54:06.999Z"
+    "added_at": "2026-01-13T10:54:06.999Z",
+    "removed_at": "2026-01-15T03:31:17.431Z",
+    "duration_minutes": 2437,
+    "duration_str": "1d 16h 37m"
   },
   {
     "title": "La magie du givre, ou quand l'humidité de l'air se cristallise en glace",
@@ -86186,5 +86192,9 @@
   {
     "title": "Plus d’un tiers de la population suisse ressent le creux de janvier, selon une enquête",
     "added_at": "2026-01-15T01:27:07.762Z"
+  },
+  {
+    "title": "X annonce des mesures pour empêcher son IA Grok de générer des images de personnes dénudées",
+    "added_at": "2026-01-15T03:31:17.431Z"
   }
 ]
