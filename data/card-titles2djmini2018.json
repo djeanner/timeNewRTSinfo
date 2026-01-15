@@ -65722,7 +65722,10 @@
   },
   {
     "title": "suisse:::En direct, Crans-Montana – L’Etat valaisan mettra à disposition 10 000 francs d’aide pour chaque victime",
-    "added_at": "2026-01-14T13:39:57.442Z"
+    "added_at": "2026-01-14T13:39:57.442Z",
+    "removed_at": "2026-01-14T23:21:12.375Z",
+    "duration_minutes": 581,
+    "duration_str": "9h 41m"
   },
   {
     "title": "culture:::«A l’ombre des rêves», des chansons pour oublier dans l’Allemagne de l’après-guerre",
@@ -65852,5 +65855,12 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Le nouveau ministre de la Défense ukrainien reconnaît que 200 000 soldats ont quitté leur position sans permission",
     "added_at": "2026-01-14T22:12:17.051Z"
+  },
+  {
+    "title": "suisse:::Crans-Montana – Notre suivi du 9 au 14 janvier",
+    "added_at": "2026-01-14T23:21:12.375Z",
+    "removed_at": "2026-01-14T23:23:03.492Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
   }
 ]
