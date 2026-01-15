@@ -61445,7 +61445,10 @@
   },
   {
     "title": "suisse:::Le PLR lâche Valérie Dittli, l’Alliance vaudoise prend un peu plus l’eau",
-    "added_at": "2026-01-13T16:57:30.805Z"
+    "added_at": "2026-01-13T16:57:30.805Z",
+    "removed_at": "2026-01-15T07:03:14.047Z",
+    "duration_minutes": 2285,
+    "duration_str": "1d 14h 5m"
   },
   {
     "title": "economie:::Sergio Ermotti, patron d’UBS, pourrait démissionner en avril 2027",
@@ -61584,11 +61587,17 @@
   },
   {
     "title": "suisse:::A Genève, la police du feu n’est pas consultée quand un bar demande à se muer en discothèque",
-    "added_at": "2026-01-14T05:20:18.694Z"
+    "added_at": "2026-01-14T05:20:18.694Z",
+    "removed_at": "2026-01-15T07:05:40.430Z",
+    "duration_minutes": 1545,
+    "duration_str": "1d 1h 45m"
   },
   {
     "title": "suisse:::Lea Blattner, coprésidente des Jeunes du Parti évangélique suisse, démissionne à la suite de menaces homophobes venant de sa propre base",
-    "added_at": "2026-01-14T05:44:20.386Z"
+    "added_at": "2026-01-14T05:44:20.386Z",
+    "removed_at": "2026-01-15T06:58:28.882Z",
+    "duration_minutes": 1514,
+    "duration_str": "1d 1h 14m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Frappes russes massives, deux pétroliers grecs touchés en mer Noire",
@@ -61726,10 +61735,7 @@
   },
   {
     "title": "suisse:::Redevance à 200 francs: les initiants promettent «plus d’argent pour vivre»",
-    "added_at": "2026-01-14T15:03:57.537Z",
-    "removed_at": "2026-01-14T21:50:05.539Z",
-    "duration_minutes": 406,
-    "duration_str": "6h 46m"
+    "added_at": "2026-01-14T15:03:57.537Z"
   },
   {
     "title": "monde:::En direct, Iran – Sur fond de menaces de bombardement contre l’Iran, les Etats-Unis vont évacuer une partie de leur base au Qatar",
@@ -61747,7 +61753,10 @@
   },
   {
     "title": "suisse:::Sous pression après Crans-Montana, le Valais et Genève interdisent également les engins pyrotechniques",
-    "added_at": "2026-01-14T15:35:18.782Z"
+    "added_at": "2026-01-14T15:35:18.782Z",
+    "removed_at": "2026-01-15T07:36:50.254Z",
+    "duration_minutes": 961,
+    "duration_str": "16h 1m"
   },
   {
     "title": "suisse:::Drame de Crans-Montana: une aide financière d’urgence pour les familles",
@@ -61887,5 +61896,9 @@
   {
     "title": "sport:::Exclusif – «Dans mon système de valeurs actuelles, je ne peux pas justifier de me taire»: la patineuse Gabriella Papadakis se confie avant la sortie de son livre",
     "added_at": "2026-01-15T06:05:25.185Z"
+  },
+  {
+    "title": "economie:::Jerome Powell, le banquier central qui tient tête à Donald Trump",
+    "added_at": "2026-01-15T06:58:28.882Z"
   }
 ]
