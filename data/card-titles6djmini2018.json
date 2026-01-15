@@ -85652,7 +85652,10 @@
   },
   {
     "title": "Israeli military attacks village in Lebanon’s Bekaa Valley",
-    "added_at": "2026-01-15T14:50:37.320Z"
+    "added_at": "2026-01-15T14:50:37.320Z",
+    "removed_at": "2026-01-15T19:18:57.556Z",
+    "duration_minutes": 268,
+    "duration_str": "4h 28m"
   },
   {
     "title": "Feuds, boycotts, sacking: What’s the Bangladesh cricket crisis all about?",
@@ -85721,5 +85724,16 @@
   {
     "title": "Trump meets with Venezuelan opposition leader after praising its government",
     "added_at": "2026-01-15T17:52:34.656Z"
+  },
+  {
+    "title": "Israeli military attacks villages in Lebanon’s Bekaa Valley",
+    "added_at": "2026-01-15T19:18:57.556Z",
+    "removed_at": "2026-01-15T19:26:40.335Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Cuba pays tribute to 32 soldiers killed in US attack on Venezuela",
+    "added_at": "2026-01-15T19:26:40.335Z"
   }
 ]
