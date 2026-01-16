@@ -6448,7 +6448,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:00:57.917Z"
+    "added_at": "2025-05-22T18:00:57.917Z",
+    "removed_at": "2026-01-16T20:26:05.625Z",
+    "duration_minutes": 344305,
+    "duration_str": "239d 2h 25m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -66079,7 +66082,10 @@
   },
   {
     "title": "suisse:::Effondrement meurtrier d’un échafaudage à Prilly: un rapport dénonce des défaillances importantes",
-    "added_at": "2026-01-15T15:42:13.479Z"
+    "added_at": "2026-01-15T15:42:13.479Z",
+    "removed_at": "2026-01-16T19:59:17.359Z",
+    "duration_minutes": 1697,
+    "duration_str": "1d 4h 17m"
   },
   {
     "title": "suisse:::Accusé d’«engendrer des perturbations importantes», le municipal de Prilly Ihsan Kurt voit sa suspension prolongée",
@@ -66237,11 +66243,17 @@
   },
   {
     "title": "monde:::Face aux manifestations en Iran, la grande prudence d’Israël",
-    "added_at": "2026-01-16T04:55:14.793Z"
+    "added_at": "2026-01-16T04:55:14.793Z",
+    "removed_at": "2026-01-16T19:51:40.597Z",
+    "duration_minutes": 896,
+    "duration_str": "14h 56m"
   },
   {
     "title": "monde:::En graphiques – Comment l’économie iranienne a sombré: plongée dans les racines de la colère",
-    "added_at": "2026-01-16T05:06:42.368Z"
+    "added_at": "2026-01-16T05:06:42.368Z",
+    "removed_at": "2026-01-16T18:21:39.225Z",
+    "duration_minutes": 794,
+    "duration_str": "13h 14m"
   },
   {
     "title": "monde:::La révolte des paysans français vue des pays du Mercosur",
@@ -66292,7 +66304,10 @@
   },
   {
     "title": "cyber:::Le fonds d’investissement allemand Comitis Capital acquiert la messagerie Threema utilisée par l’armée suisse",
-    "added_at": "2026-01-16T10:16:54.514Z"
+    "added_at": "2026-01-16T10:16:54.514Z",
+    "removed_at": "2026-01-16T19:49:42.196Z",
+    "duration_minutes": 572,
+    "duration_str": "9h 32m"
   },
   {
     "title": "monde:::En images – Lampe de poche et cabane de draps: Kiev plongée dans un noir glacial après des frappes russes",
@@ -66339,7 +66354,10 @@
   },
   {
     "title": "culture:::Chez soi «His & Hers», quand le thriller tourne à vide",
-    "added_at": "2026-01-16T12:17:31.587Z"
+    "added_at": "2026-01-16T12:17:31.587Z",
+    "removed_at": "2026-01-16T19:11:31.510Z",
+    "duration_minutes": 413,
+    "duration_str": "6h 53m"
   },
   {
     "title": "sport:::Le super-G de Wengen offre à Giovanni Franzoni sa première victoire en Coupe du monde, et une revanche",
@@ -66408,5 +66426,33 @@
   {
     "title": "economie:::LVMH confirme le départ du directeur de TAG Heuer",
     "added_at": "2026-01-16T17:56:30.206Z"
+  },
+  {
+    "title": "suisse:::Crans-Montana: Les Moretti, ou l’itinéraire d’un couple passé en une nuit du succès discret à l’opprobre généralisé",
+    "added_at": "2026-01-16T18:21:39.225Z"
+  },
+  {
+    "title": "monde:::Donald Trump menace de droits de douane les pays qui ne soutiennent pas son plan pour acquérir le Groenland",
+    "added_at": "2026-01-16T18:27:24.019Z"
+  },
+  {
+    "title": "culture:::À Geneva Lux, la Cathédrale Saint-Pierre danse entre ombres et lumière",
+    "added_at": "2026-01-16T19:11:31.510Z"
+  },
+  {
+    "title": "suisse:::Les manquements découverts après l’effondrement d’un échafaudage à Malley interrogent sur le contrôle des structures",
+    "added_at": "2026-01-16T19:49:42.196Z"
+  },
+  {
+    "title": "economie:::Frayeur boursière sur Haute Capital, société d'investissement biennoise",
+    "added_at": "2026-01-16T19:57:25.493Z"
+  },
+  {
+    "title": "cyber:::Chez Tesla, Elon Musk invente un abonnement pour une conduite autonome qui n’existe pourtant toujours pas",
+    "added_at": "2026-01-16T20:26:05.625Z"
+  },
+  {
+    "title": "culture:::Au Victoria Hall, un «Requiem» vibrant et consolateur pour rendre hommage aux victimes de Crans-Montana",
+    "added_at": "2026-01-16T20:39:25.291Z"
   }
 ]
