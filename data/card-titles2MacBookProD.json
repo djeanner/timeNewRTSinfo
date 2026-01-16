@@ -8226,7 +8226,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z"
+    "added_at": "2025-05-22T18:01:52.008Z",
+    "removed_at": "2026-01-16T20:27:33.648Z",
+    "duration_minutes": 344305,
+    "duration_str": "239d 2h 25m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -62425,5 +62428,13 @@
   {
     "title": "economie:::Frayeur boursière sur Haute Capital, société d'investissement biennoise",
     "added_at": "2026-01-16T19:58:16.468Z"
+  },
+  {
+    "title": "cyber:::Chez Tesla, Elon Musk invente un abonnement pour une conduite autonome qui n’existe pourtant toujours pas",
+    "added_at": "2026-01-16T20:27:33.648Z"
+  },
+  {
+    "title": "culture:::Au Victoria Hall, un «Requiem» vibrant et consolateur pour rendre hommage aux victimes de Crans-Montana",
+    "added_at": "2026-01-16T20:39:41.801Z"
   }
 ]
