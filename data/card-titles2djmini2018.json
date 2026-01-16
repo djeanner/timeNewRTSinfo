@@ -65813,7 +65813,10 @@
   },
   {
     "title": "suisse:::«N’avoir perdu aucun patient me rend fier»: la nuit où les urgences de Sion ont tenu bon face au drame de Crans-Montana",
-    "added_at": "2026-01-14T16:43:37.138Z"
+    "added_at": "2026-01-14T16:43:37.138Z",
+    "removed_at": "2026-01-16T13:51:26.451Z",
+    "duration_minutes": 2707,
+    "duration_str": "1d 21h 7m"
   },
   {
     "title": "sciences:::En Antarctique, un coffre-fort conserve la mémoire des glaciers, avant qu’ils ne disparaissent",
@@ -66161,7 +66164,10 @@
   },
   {
     "title": "suisse:::A Genève, les juges écartent le meurtre par dol éventuel dans l’incendie volontaire du Lignon",
-    "added_at": "2026-01-15T18:31:01.673Z"
+    "added_at": "2026-01-15T18:31:01.673Z",
+    "removed_at": "2026-01-16T14:04:50.959Z",
+    "duration_minutes": 1173,
+    "duration_str": "19h 33m"
   },
   {
     "title": "cyber:::Ultra-dépendante aux solutions de Microsoft, la Suisse ouvre une enquête sur les hausses de prix massives du géant américain",
@@ -66254,7 +66260,10 @@
   },
   {
     "title": "monde:::En direct, Iran – «Toutes les options restent sur la table» pour Donald Trump, une haute responsable de l’ONU s’en inquiète",
-    "added_at": "2026-01-16T07:26:22.213Z"
+    "added_at": "2026-01-16T07:26:22.213Z",
+    "removed_at": "2026-01-16T15:28:58.202Z",
+    "duration_minutes": 482,
+    "duration_str": "8h 2m"
   },
   {
     "title": "cyber:::La lutte entre les Pays-Bas et la Chine autour du fabricant de semi-conducteurs Nexperia passe devant la justice néerlandaise",
@@ -66272,11 +66281,17 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Kiev ordonne aux entreprises publiques d’augmenter leurs importations d’électricité après des frappes russes",
-    "added_at": "2026-01-16T09:40:24.012Z"
+    "added_at": "2026-01-16T09:40:24.012Z",
+    "removed_at": "2026-01-16T14:39:19.022Z",
+    "duration_minutes": 298,
+    "duration_str": "4h 58m"
   },
   {
     "title": "monde:::En France, Sébastien Lecornu passe en force sur le budget mais bénéficie de sa persévérance dans la négociation",
-    "added_at": "2026-01-16T09:51:58.114Z"
+    "added_at": "2026-01-16T09:51:58.114Z",
+    "removed_at": "2026-01-16T15:13:44.190Z",
+    "duration_minutes": 321,
+    "duration_str": "5h 21m"
   },
   {
     "title": "cyber:::Le fonds d’investissement allemand Comitis Capital acquiert la messagerie Threema utilisée par l’armée suisse",
@@ -66284,7 +66299,10 @@
   },
   {
     "title": "monde:::En images – Lampe de poche et cabane de draps: Kiev plongée dans un noir glacial après des frappes russes",
-    "added_at": "2026-01-16T10:45:35.982Z"
+    "added_at": "2026-01-16T10:45:35.982Z",
+    "removed_at": "2026-01-16T15:19:27.927Z",
+    "duration_minutes": 273,
+    "duration_str": "4h 33m"
   },
   {
     "title": "monde:::En Amérique du Sud, un trafic de drogue appelé à se poursuivre malgré l’intervention américaine",
@@ -66320,5 +66338,39 @@
   {
     "title": "sport:::Le super-G de Wengen offre à Giovanni Franzoni sa première victoire en Coupe du monde, et une revanche",
     "added_at": "2026-01-16T13:09:09.917Z"
+  },
+  {
+    "title": "suisse:::Louis Derungs, l'histoire d'une renaissance après un choc de 15 000 volts",
+    "added_at": "2026-01-16T13:47:37.469Z"
+  },
+  {
+    "title": "suisse:::Grèves multiples et drame de Crans-Montana: le canton Vaud valide le semestre de tous les gymnasiens",
+    "added_at": "2026-01-16T14:06:48.066Z",
+    "removed_at": "2026-01-16T14:58:28.758Z",
+    "duration_minutes": 51,
+    "duration_str": "51m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – De nouveaux pourparlers en vue entre Ukrainiens et Américains",
+    "added_at": "2026-01-16T14:39:19.022Z"
+  },
+  {
+    "title": "suisse:::Grèves multiples et drame de Crans-Montana: le canton de Vaud valide le semestre de tous les gymnasiens",
+    "added_at": "2026-01-16T14:58:28.758Z"
+  },
+  {
+    "title": "culture:::Tout un monde à embrasser des yeux, au fil de ses lectures jeunesse",
+    "added_at": "2026-01-16T15:19:27.927Z"
+  },
+  {
+    "title": "monde:::En direct, Iran – «Le povoir iranien finira par tomber», estime Reza Pahlavi, fils de l’ancien chah d’Iran",
+    "added_at": "2026-01-16T15:28:58.202Z",
+    "removed_at": "2026-01-16T15:30:53.667Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "monde:::En direct, Iran – «Le pouvoir iranien finira par tomber», estime Reza Pahlavi, fils de l’ancien shah d’Iran",
+    "added_at": "2026-01-16T15:30:53.667Z"
   }
 ]
