@@ -62392,7 +62392,10 @@
   },
   {
     "title": "monde:::En direct, Iran – «Le pouvoir iranien finira par tomber», estime Reza Pahlavi, fils de l’ancien shah d’Iran",
-    "added_at": "2026-01-16T15:31:08.198Z"
+    "added_at": "2026-01-16T15:31:08.198Z",
+    "removed_at": "2026-01-17T12:53:17.060Z",
+    "duration_minutes": 1282,
+    "duration_str": "21h 22m"
   },
   {
     "title": "suisse:::Grèves multiples et drame de Crans-Montana: le canton de Vaud valide le semestre de certains gymnasiens",
@@ -62400,7 +62403,10 @@
   },
   {
     "title": "suisse:::Toni Ricciardi, député italo-suisse: «Un tel bar n’aurait pas obtenu de licence en Italie»",
-    "added_at": "2026-01-16T16:04:56.983Z"
+    "added_at": "2026-01-16T16:04:56.983Z",
+    "removed_at": "2026-01-17T12:58:09.880Z",
+    "duration_minutes": 1253,
+    "duration_str": "20h 53m"
   },
   {
     "title": "monde:::Drones, reconnaissance faciale, brouillage: comment le régime iranien utilise la technologie pour massacrer",
@@ -62416,7 +62422,10 @@
   },
   {
     "title": "economie:::LVMH confirme le départ du directeur de TAG Heuer",
-    "added_at": "2026-01-16T17:56:38.928Z"
+    "added_at": "2026-01-16T17:56:38.928Z",
+    "removed_at": "2026-01-17T12:48:19.346Z",
+    "duration_minutes": 1131,
+    "duration_str": "18h 51m"
   },
   {
     "title": "suisse:::Crans-Montana: Les Moretti, ou l’itinéraire d’un couple passé en une nuit du succès discret à l’opprobre généralisé",
@@ -62431,7 +62440,10 @@
   },
   {
     "title": "culture:::À Geneva Lux, la Cathédrale Saint-Pierre danse entre ombres et lumière",
-    "added_at": "2026-01-16T19:12:05.163Z"
+    "added_at": "2026-01-16T19:12:05.163Z",
+    "removed_at": "2026-01-17T13:00:38.886Z",
+    "duration_minutes": 1068,
+    "duration_str": "17h 48m"
   },
   {
     "title": "suisse:::Les manquements découverts après l’effondrement d’un échafaudage à Malley interrogent sur le contrôle des structures",
@@ -62479,7 +62491,10 @@
   },
   {
     "title": "monde:::Découvrez «Ceux qui résistent», un nouveau reportage dessiné de Chappatte aux Etats-Unis",
-    "added_at": "2026-01-17T09:28:20.665Z"
+    "added_at": "2026-01-17T09:28:20.665Z",
+    "removed_at": "2026-01-17T13:44:58.263Z",
+    "duration_minutes": 256,
+    "duration_str": "4h 16m"
   },
   {
     "title": "suisse:::A Genève, une centaine de locataires sont expulsés d’une traite",
@@ -62487,7 +62502,10 @@
   },
   {
     "title": "culture:::Olivier Assayas, réalisateur du «Mage du Kremlin»: «Je trouve passionnante l’alliance entre la brutalité du pouvoir à l’ancienne et la perversité des stratégies numériques actuelles»",
-    "added_at": "2026-01-17T10:10:24.018Z"
+    "added_at": "2026-01-17T10:10:24.018Z",
+    "removed_at": "2026-01-17T14:23:35.026Z",
+    "duration_minutes": 253,
+    "duration_str": "4h 13m"
   },
   {
     "title": "culture:::Forgeron génial d’une langue unique, mystique et facétieuse, le franco-suisse Valère Novarina s’est éteint",
@@ -62499,5 +62517,53 @@
   {
     "title": "culture:::Forgeron génial d’une langue unique, mystique et facétieuse, le franco-suisse Valère Novarina s'est éteint",
     "added_at": "2026-01-17T10:49:43.386Z"
+  },
+  {
+    "title": "sport:::Nouveau triomphe de Marco Odermatt à Wengen",
+    "added_at": "2026-01-17T12:48:19.346Z",
+    "removed_at": "2026-01-17T14:26:02.785Z",
+    "duration_minutes": 97,
+    "duration_str": "1h 37m"
+  },
+  {
+    "title": "monde:::En direct, Iran – L’ayatollah Khamenei veut «briser le dos des séditieux»",
+    "added_at": "2026-01-17T12:53:17.060Z"
+  },
+  {
+    "title": "economie:::La marche anti-WEF s’est mise en route",
+    "added_at": "2026-01-17T13:00:38.886Z"
+  },
+  {
+    "title": "economie:::WEF 2026: Quand Larry Fink rencontre André Hoffmann",
+    "added_at": "2026-01-17T13:44:58.263Z"
+  },
+  {
+    "title": "monde:::Réunir la Moldavie et la Roumanie? La petite phrase de Maia Sandu qui fait mouche",
+    "added_at": "2026-01-17T14:21:10.398Z",
+    "removed_at": "2026-01-17T14:28:26.528Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "culture:::Olivier Assayas, réalisateur du «Mage du Kremlin»: «Je trouve passionnante l’alliance entre la brutalité du pouvoir et la perversité des stratégies numériques»",
+    "added_at": "2026-01-17T14:23:35.026Z",
+    "removed_at": "2026-01-17T14:26:02.785Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "sport:::Nouveau triomphe de Marco Odermatt à Wengen",
+    "added_at": "2026-01-17T14:26:02.785Z"
+  },
+  {
+    "title": "culture:::Olivier Assayas: «Je trouve passionnante l’alliance entre la brutalité du pouvoir et la perversité des stratégies numériques»",
+    "added_at": "2026-01-17T14:26:02.785Z",
+    "removed_at": "2026-01-17T14:31:55.000Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "monde:::Réunir la Moldavie et la Roumanie? La petite phrase de Maia Sandu qui fait mouche",
+    "added_at": "2026-01-17T14:28:26.528Z"
   }
 ]
