@@ -86500,7 +86500,10 @@
   },
   {
     "title": "La France et l'Allemagne déploient du personnel militaire en observation au Groenland, la Russie s'en inquiète",
-    "added_at": "2026-01-15T09:27:01.201Z"
+    "added_at": "2026-01-15T09:27:01.201Z",
+    "removed_at": "2026-01-17T07:56:40.507Z",
+    "duration_minutes": 2789,
+    "duration_str": "1d 22h 29m"
   },
   {
     "title": "Michel Houellebecq revient en musique avec un album intitulé \"Souvenez-vous de l'homme\"",
@@ -86515,7 +86518,10 @@
   },
   {
     "title": "Eau minérale, pizzas et lait pour bébés, les scandales s'accumulent chez Nestlé",
-    "added_at": "2026-01-15T10:54:57.159Z"
+    "added_at": "2026-01-15T10:54:57.159Z",
+    "removed_at": "2026-01-17T08:27:17.181Z",
+    "duration_minutes": 2732,
+    "duration_str": "1d 21h 32m"
   },
   {
     "title": "La commune haut-valaisanne de Brigue-Glis remporte le Prix Wakker 2026",
@@ -86530,7 +86536,10 @@
   },
   {
     "title": "Anne Applebaum: \"Donald Trump défend une théorie des sphères d’influence, une idée qui plaît à la Russie et à la Chine\"",
-    "added_at": "2026-01-15T11:41:02.590Z"
+    "added_at": "2026-01-15T11:41:02.590Z",
+    "removed_at": "2026-01-17T08:34:58.318Z",
+    "duration_minutes": 2693,
+    "duration_str": "1d 20h 53m"
   },
   {
     "title": "\"Vous croyez qu'il respire encore?\", l'odyssée théâtrale du célibat de Garance La Fata",
@@ -86552,7 +86561,10 @@
   },
   {
     "title": "Paléo élu meilleur grand festival européen pour son accueil, sa programmation et ses valeurs",
-    "added_at": "2026-01-15T12:46:00.314Z"
+    "added_at": "2026-01-15T12:46:00.314Z",
+    "removed_at": "2026-01-17T06:53:38.536Z",
+    "duration_minutes": 2527,
+    "duration_str": "1d 18h 7m"
   },
   {
     "title": "Quel sera l’avenir de l’Alliance vaudoise après l’affaire Dittli? Interview de Kevin Grangier",
@@ -86563,11 +86575,17 @@
   },
   {
     "title": "Genève Aéroport a gagné en trafic l'an dernier, trois compagnies amendées pour décollages tardifs",
-    "added_at": "2026-01-15T14:04:42.108Z"
+    "added_at": "2026-01-15T14:04:42.108Z",
+    "removed_at": "2026-01-17T07:47:06.033Z",
+    "duration_minutes": 2502,
+    "duration_str": "1d 17h 42m"
   },
   {
     "title": "Trois pays du Golfe ont convaincu Donald Trump de \"donner une chance\" à l'Iran",
-    "added_at": "2026-01-15T14:16:09.521Z"
+    "added_at": "2026-01-15T14:16:09.521Z",
+    "removed_at": "2026-01-17T06:44:04.187Z",
+    "duration_minutes": 2427,
+    "duration_str": "1d 16h 27m"
   },
   {
     "title": "Effondrement de l'échafaudage à Malley: un rapport accablant pointe des défaillances majeures",
@@ -86575,7 +86593,10 @@
   },
   {
     "title": "Melody Gardot, Richard Galliano, Fatoumata Diawara et Emily Loizeau au Cully Jazz Festival",
-    "added_at": "2026-01-15T14:21:53.542Z"
+    "added_at": "2026-01-15T14:21:53.542Z",
+    "removed_at": "2026-01-17T07:07:01.035Z",
+    "duration_minutes": 2445,
+    "duration_str": "1d 16h 45m"
   },
   {
     "title": "Les partisans de l'imposition individuelle vantent un système plus simple et équitable",
@@ -86927,5 +86948,40 @@
   {
     "title": "Interview de Fabien Sauthier, président de la commune de Val de Bagnes (VS)",
     "added_at": "2026-01-17T06:01:55.421Z"
+  },
+  {
+    "title": "Après la chute de Maduro, les Etats-Unis reconfigurent le marché pétrolier",
+    "added_at": "2026-01-17T06:44:04.187Z"
+  },
+  {
+    "title": "Oubliés par la pharma, des parents deviennent moteur de la recherche médicale contre les maladies rares",
+    "added_at": "2026-01-17T06:53:38.536Z",
+    "removed_at": "2026-01-17T07:03:13.873Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Oubliés par la pharma, des parents deviennent moteur de la recherche médicale contre les maladies ultrarares",
+    "added_at": "2026-01-17T07:03:13.873Z"
+  },
+  {
+    "title": "Attention aux faux policiers, une génération Z dorée et des millions pour des bains",
+    "added_at": "2026-01-17T07:07:01.035Z"
+  },
+  {
+    "title": "L'Office fédéral du logement prévoit une aggravation de la pénurie de logements en 2026",
+    "added_at": "2026-01-17T07:47:06.033Z"
+  },
+  {
+    "title": "Une serveuse du Constellation: \"Le panneau de l'issue de secours n'est pas très visible\"",
+    "added_at": "2026-01-17T07:56:40.507Z"
+  },
+  {
+    "title": "Crans-Montana: ce que l'on sait deux semaines après le drame",
+    "added_at": "2026-01-17T08:27:17.181Z"
+  },
+  {
+    "title": "\"28 ans plus tard: le temple des morts\", quand l'humanité danse avec le diable",
+    "added_at": "2026-01-17T08:34:58.318Z"
   }
 ]
