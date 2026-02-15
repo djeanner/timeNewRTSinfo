@@ -63165,7 +63165,10 @@
   },
   {
     "title": "suisse:::A Genève, le Grand Conseil fait le premier pas pour bannir les peines de substitution de Champ-Dollon",
-    "added_at": "2026-02-14T09:57:57.381Z"
+    "added_at": "2026-02-14T09:57:57.381Z",
+    "removed_at": "2026-02-15T22:42:00.841Z",
+    "duration_minutes": 2204,
+    "duration_str": "1d 12h 44m"
   },
   {
     "title": "sport:::Combinaison, skis, position: comment Gregor Deschwanden a tout changé juste avant les JO 2026",
@@ -63528,5 +63531,23 @@
   {
     "title": "monde:::Pour les Européens, le temps de la négociation avec Moscou n’est pas venu",
     "added_at": "2026-02-15T17:53:02.699Z"
+  },
+  {
+    "title": "suisse:::Le trafic ferroviaire est interrompu entre Genève et Lausanne après un incendie en gare de Lausanne",
+    "added_at": "2026-02-15T22:39:36.743Z",
+    "removed_at": "2026-02-15T23:16:34.608Z",
+    "duration_minutes": 36,
+    "duration_str": "36m"
+  },
+  {
+    "title": "suisse:::Le trafic ferroviaire est interrompu pour une durée indéterminée entre Genève et Lausanne après un incendie lourd de conséquences en gare de Lausanne",
+    "added_at": "2026-02-15T23:16:34.608Z",
+    "removed_at": "2026-02-15T23:28:53.055Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "suisse:::Le trafic ferroviaire est interrompu pour une durée indéterminée entre Genève et Lausanne après un incendie en gare de Lausanne",
+    "added_at": "2026-02-15T23:28:53.055Z"
   }
 ]
