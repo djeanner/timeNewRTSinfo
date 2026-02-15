@@ -58106,7 +58106,10 @@
   },
   {
     "title": "Un véhicule électrique en charge provoque un incendie sur le parking du centre commercial Signy Centre",
-    "added_at": "2026-02-13T08:16:34.047Z"
+    "added_at": "2026-02-13T08:16:34.047Z",
+    "removed_at": "2026-02-15T16:01:59.788Z",
+    "duration_minutes": 3345,
+    "duration_str": "2d 7h 45m"
   },
   {
     "title": "Le dossier des votations fédérales du 8 mars",
@@ -58709,7 +58712,10 @@
   },
   {
     "title": "Pain, whippin, azé... Quelques clés pour comprendre les mots des ados",
-    "added_at": "2026-02-13T11:55:22.190Z"
+    "added_at": "2026-02-13T11:55:22.190Z",
+    "removed_at": "2026-02-15T16:46:22.724Z",
+    "duration_minutes": 3171,
+    "duration_str": "2d 4h 51m"
   },
   {
     "title": "Le fabricant yverdonnois de batteries Leclanché dans l'incapacité de payer ses employés",
@@ -58756,7 +58762,10 @@
   },
   {
     "title": "Podcast: Groenland, ce que les provocations de Donald Trump ne racontent pas",
-    "added_at": "2026-02-13T14:30:36.056Z"
+    "added_at": "2026-02-13T14:30:36.056Z",
+    "removed_at": "2026-02-15T15:30:01.933Z",
+    "duration_minutes": 2939,
+    "duration_str": "2d 59m"
   },
   {
     "title": "Fribourg veut rattraper son retard en matière de classes bilingues au primaire",
@@ -58796,7 +58805,10 @@
   },
   {
     "title": "Noemie Wiedmer termine au pied du podium",
-    "added_at": "2026-02-13T16:19:04.333Z"
+    "added_at": "2026-02-13T16:19:04.333Z",
+    "removed_at": "2026-02-15T16:43:54.146Z",
+    "duration_minutes": 2904,
+    "duration_str": "2d 24m"
   },
   {
     "title": "Une avalanche est survenue sur le domaine skiable de Verbier avant son ouverture",
@@ -59139,5 +59151,17 @@
   {
     "title": "A Genève, la rivière de l'Arve est la gardienne des secrets de l'histoire et de la nature",
     "added_at": "2026-02-15T15:12:35.497Z"
+  },
+  {
+    "title": "La classe politique française divisée après la mort d'un jeune militant nationaliste à Lyon",
+    "added_at": "2026-02-15T15:30:01.933Z"
+  },
+  {
+    "title": "De fortes chutes de neige vont ramener l'hiver en Suisse",
+    "added_at": "2026-02-15T16:43:54.146Z"
+  },
+  {
+    "title": "De plus en plus de femmes choisissent de congeler leurs ovules",
+    "added_at": "2026-02-15T16:46:22.724Z"
   }
 ]
