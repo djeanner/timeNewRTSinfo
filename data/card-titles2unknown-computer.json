@@ -467,7 +467,10 @@
   },
   {
     "title": "suisse:::Bouleversé par la tragédie de Crans-Montana, le Collège Champittet se mobilise pour les familles d’enfants brûlés",
-    "added_at": "2026-02-14T22:02:25.214Z"
+    "added_at": "2026-02-14T22:02:25.214Z",
+    "removed_at": "2026-02-16T16:08:22.498Z",
+    "duration_minutes": 2525,
+    "duration_str": "1d 18h 5m"
   },
   {
     "title": "suisse:::Elections communales: cinq candidats à la Municipalité de Lausanne croisent le fer sur la mobilité",
@@ -572,7 +575,10 @@
   },
   {
     "title": "suisse:::Un train a déraillé en Valais, faisant cinq blessés",
-    "added_at": "2026-02-16T13:01:19.092Z"
+    "added_at": "2026-02-16T13:01:19.092Z",
+    "removed_at": "2026-02-16T16:08:22.498Z",
+    "duration_minutes": 187,
+    "duration_str": "3h 7m"
   },
   {
     "title": "culture:::Charlotte Casiraghi: «Sex and the City» garde sur moi un pouvoir réconfortant»",
@@ -592,11 +598,17 @@
   },
   {
     "title": "economie:::Miljan Gutovic, directeur général d’Holcim: «La durabilité nous amène de la croissance et de la rentabilité»",
-    "added_at": "2026-02-16T13:01:19.092Z"
+    "added_at": "2026-02-16T13:01:19.092Z",
+    "removed_at": "2026-02-16T15:26:50.373Z",
+    "duration_minutes": 145,
+    "duration_str": "2h 25m"
   },
   {
     "title": "suisse:::Un snowboarder meurt dans une avalanche près de Davos, les autorités multiplient les alertes pour cette semaine",
-    "added_at": "2026-02-16T13:01:19.092Z"
+    "added_at": "2026-02-16T13:01:19.092Z",
+    "removed_at": "2026-02-16T16:08:22.498Z",
+    "duration_minutes": 187,
+    "duration_str": "3h 7m"
   },
   {
     "title": "suisse:::Ordre d’évacuation promulgué pour des zones de la commune d’Orsières",
@@ -645,10 +657,25 @@
   },
   {
     "title": "suisse:::Le média d’Etat russe RT s’immisce dans la campagne sur la redevance à 200 francs",
-    "added_at": "2026-02-16T13:12:37.986Z"
+    "added_at": "2026-02-16T13:12:37.986Z",
+    "removed_at": "2026-02-16T17:12:41.122Z",
+    "duration_minutes": 240,
+    "duration_str": "4h"
   },
   {
     "title": "sport:::En direct, JO 2026 – Loïc Meillard devient champion olympique en slalom à Bormio",
     "added_at": "2026-02-16T13:37:14.014Z"
+  },
+  {
+    "title": "monde:::Derrière l'empoisonnement d'Alexeï Navalny, une «toxine létale» sur laquelle travaillaient des militaires russes",
+    "added_at": "2026-02-16T15:26:50.373Z"
+  },
+  {
+    "title": "monde:::«Du jamais-vu depuis les années 1930»: la mort de Quentin Deranque à Lyon met en lumière le rôle de groupuscules de plus en plus violents à gauche",
+    "added_at": "2026-02-16T16:08:22.498Z"
+  },
+  {
+    "title": "economie:::Le déploiement plus lent que prévu des voitures électriques incite Vitol à repousser sa date du pic pétrolier",
+    "added_at": "2026-02-16T17:12:41.122Z"
   }
 ]
