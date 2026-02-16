@@ -1066,10 +1066,7 @@
   },
   {
     "title": "Le couple Moretti pris à partie par des familles de victimes",
-    "added_at": "2026-02-14T22:02:25.170Z",
-    "removed_at": "2026-02-16T16:02:42.704Z",
-    "duration_minutes": 2520,
-    "duration_str": "1d 18h"
+    "added_at": "2026-02-14T22:02:25.170Z"
   },
   {
     "title": "Les risques d'avalanches sont réels ce week-end. Patience pour les randonneurs",
@@ -1077,7 +1074,10 @@
   },
   {
     "title": "À Munich, Marco Rubio prône une restauration de l'ordre mondial, avec une Europe forte",
-    "added_at": "2026-02-14T22:02:25.170Z"
+    "added_at": "2026-02-14T22:02:25.170Z",
+    "removed_at": "2026-02-16T18:01:55.631Z",
+    "duration_minutes": 2639,
+    "duration_str": "1d 19h 59m"
   },
   {
     "title": "Des avalanches ont coupé des routes en Valais, danger élevé",
@@ -1106,7 +1106,10 @@
   },
   {
     "title": "Le pédocriminel Jacques Leveugle aurait sévi en Suisse: interview de Giulia Cinaglia",
-    "added_at": "2026-02-14T22:02:25.170Z"
+    "added_at": "2026-02-14T22:02:25.170Z",
+    "removed_at": "2026-02-16T20:02:55.354Z",
+    "duration_minutes": 2760,
+    "duration_str": "1d 22h"
   },
   {
     "title": "USA: le plan de Donald Trump pour gagner les midterms",
@@ -1117,7 +1120,10 @@
   },
   {
     "title": "Drame de Crans-Montana: les familles en colère font face à la gérante du Constellation",
-    "added_at": "2026-02-14T22:02:25.170Z"
+    "added_at": "2026-02-14T22:02:25.170Z",
+    "removed_at": "2026-02-16T19:02:20.900Z",
+    "duration_minutes": 2699,
+    "duration_str": "1d 20h 59m"
   },
   {
     "title": "Une explosion accidentelle fait huit blessés au carnaval de Bagnes",
@@ -1684,11 +1690,17 @@
   },
   {
     "title": "Les Suissesses passent en demi-finales!",
-    "added_at": "2026-02-16T13:01:19.048Z"
+    "added_at": "2026-02-16T13:01:19.048Z",
+    "removed_at": "2026-02-16T18:37:51.401Z",
+    "duration_minutes": 336,
+    "duration_str": "5h 36m"
   },
   {
     "title": "Quatre astronautes ont rejoint la Station spatiale internationale pour environ huit mois",
-    "added_at": "2026-02-16T13:01:19.048Z"
+    "added_at": "2026-02-16T13:01:19.048Z",
+    "removed_at": "2026-02-16T17:58:11.863Z",
+    "duration_minutes": 296,
+    "duration_str": "4h 56m"
   },
   {
     "title": "Un millier de fils endommagés sur la ligne Lausanne-Renens, des perturbations attendues jusqu'à mardi",
@@ -1806,7 +1818,10 @@
   },
   {
     "title": "Un millier de fils endommagés sur la ligne Lausanne-Renens, des perturbations attendues jusqu'à mercredi",
-    "added_at": "2026-02-16T16:59:24.935Z"
+    "added_at": "2026-02-16T16:59:24.935Z",
+    "removed_at": "2026-02-16T17:54:21.868Z",
+    "duration_minutes": 54,
+    "duration_str": "54m"
   },
   {
     "title": "La campagne \"QuitGPT\" exhorte les utilisateurs à quitter ChatGPT",
@@ -1815,5 +1830,47 @@
   {
     "title": "Les différents visages de la pauvreté en Suisse",
     "added_at": "2026-02-16T17:27:46.434Z"
+  },
+  {
+    "title": "Un millier de fils électriques endommagés sur la ligne Lausanne-Renens, perturbée jusqu'à mercredi",
+    "added_at": "2026-02-16T17:50:36.545Z"
+  },
+  {
+    "title": "\"C'est extraordinaire de pouvoir atteindre mes rêves\", s'exclame Loïc Meillard",
+    "added_at": "2026-02-16T17:56:15.841Z"
+  },
+  {
+    "title": "Mathilde Gremaud forfait pour la finale du Big Air après une chute",
+    "added_at": "2026-02-16T17:58:11.863Z",
+    "removed_at": "2026-02-16T18:20:51.215Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
+  },
+  {
+    "title": "Mathilde Gremaud forfait pour la finale après une chute",
+    "added_at": "2026-02-16T18:20:51.215Z"
+  },
+  {
+    "title": "Des \"actes de vandalisme\" perturbent fortement le trafic ferroviaire entre Lausanne et Renens: interview de David Fattebert",
+    "added_at": "2026-02-16T18:28:20.411Z"
+  },
+  {
+    "title": "L'acteur Robert Duvall, avocat dans \"Le Parrain\" et général dans \"Apocalypse Now\", est décédé",
+    "added_at": "2026-02-16T18:37:51.401Z"
+  },
+  {
+    "title": "Les agresseurs du militant nationaliste tué à Lyon toujours recherchés, enquête pour homicide volontaire",
+    "added_at": "2026-02-16T19:45:53.856Z"
+  },
+  {
+    "title": "Un millier de fils électriques endommagés sur la ligne Lausanne-Renens, des perturbations jusqu'à mercredi",
+    "added_at": "2026-02-16T19:53:24.633Z",
+    "removed_at": "2026-02-16T19:55:18.950Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Jeux olympiques: l'ambiance est-elle au rendez-vous à la Maison Suisse à Milan?",
+    "added_at": "2026-02-16T20:02:55.354Z"
   }
 ]
