@@ -63327,7 +63327,10 @@
   },
   {
     "title": "sport:::Comment une médaille d’or olympique a fait du ski de fond l’âme du Val di Fiemme",
-    "added_at": "2026-02-14T16:05:37.485Z"
+    "added_at": "2026-02-14T16:05:37.485Z",
+    "removed_at": "2026-02-16T00:18:25.321Z",
+    "duration_minutes": 1932,
+    "duration_str": "1d 8h 12m"
   },
   {
     "title": "monde:::En direct - Moyen-Orient – 200 000 manifestants contre le régime iranien à Munich",
@@ -63548,6 +63551,17 @@
   },
   {
     "title": "suisse:::Le trafic ferroviaire est interrompu pour une durée indéterminée entre Genève et Lausanne après un incendie en gare de Lausanne",
-    "added_at": "2026-02-15T23:28:53.055Z"
+    "added_at": "2026-02-15T23:28:53.055Z",
+    "removed_at": "2026-02-15T23:41:20.598Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "suisse:::Le trafic ferroviaire est interrompu jusqu'à lundi midi entre Genève et Lausanne après un incendie en gare de Lausanne",
+    "added_at": "2026-02-15T23:41:20.598Z"
+  },
+  {
+    "title": "suisse:::Elections communales vaudoises: Vevey lutte toujours contre le deal alors que Montreux doit relancer ses affaires dans son centre de congrès rénové",
+    "added_at": "2026-02-16T00:18:25.321Z"
   }
 ]
