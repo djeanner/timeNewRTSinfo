@@ -58216,7 +58216,10 @@
   },
   {
     "title": "Des avalanches ont coupé des routes en Valais, danger élevé",
-    "added_at": "2026-02-13T08:16:34.047Z"
+    "added_at": "2026-02-13T08:16:34.047Z",
+    "removed_at": "2026-02-16T07:03:07.616Z",
+    "duration_minutes": 4246,
+    "duration_str": "2d 22h 46m"
   },
   {
     "title": "Le Conseil fédéral veut une loi pour venir en aide aux victimes de Crans-Montana",
@@ -58678,9 +58681,9 @@
   {
     "title": "Qui succèdera à la conseillère d'Etat Rebecca Ruiz? Débat entre Jean-François Thuilllard, Roger Nordmann et Agathe Raboud Sidorenko",
     "added_at": "2026-02-13T11:03:46.926Z",
-    "removed_at": "2026-02-15T08:03:04.779Z",
-    "duration_minutes": 2699,
-    "duration_str": "1d 20h 59m"
+    "removed_at": "2026-02-16T07:22:49.459Z",
+    "duration_minutes": 4099,
+    "duration_str": "2d 20h 19m"
   },
   {
     "title": "Les prochaines négociations sur l'Ukraine se tiendront à Genève le 17 et 18 février, annonce le Kremlin",
@@ -58833,7 +58836,10 @@
   },
   {
     "title": "Le Conseil d'Etat genevois bloque un projet de loi sur l'interdiction du burkini",
-    "added_at": "2026-02-13T17:38:17.967Z"
+    "added_at": "2026-02-13T17:38:17.967Z",
+    "removed_at": "2026-02-16T07:12:55.854Z",
+    "duration_minutes": 3694,
+    "duration_str": "2d 13h 34m"
   },
   {
     "title": "D'autres opérations attendent encore Lindsey Vonn",
@@ -58870,7 +58876,10 @@
   },
   {
     "title": "Quatre astronautes sont en route vers la Station spatiale internationale (ISS)",
-    "added_at": "2026-02-13T20:18:41.112Z"
+    "added_at": "2026-02-13T20:18:41.112Z",
+    "removed_at": "2026-02-16T05:19:33.201Z",
+    "duration_minutes": 3420,
+    "duration_str": "2d 9h"
   },
   {
     "title": "Les risques d'avalanches sont réels ce week-end. Patience pour les randonneurs",
@@ -58878,11 +58887,17 @@
   },
   {
     "title": "USA: le plan de Donald Trump pour gagner les midterms",
-    "added_at": "2026-02-13T21:22:43.660Z"
+    "added_at": "2026-02-13T21:22:43.660Z",
+    "removed_at": "2026-02-16T06:01:31.448Z",
+    "duration_minutes": 3398,
+    "duration_str": "2d 8h 38m"
   },
   {
     "title": "Britschgi 14e, Shaidorov crée la surprise",
-    "added_at": "2026-02-13T22:12:17.351Z"
+    "added_at": "2026-02-13T22:12:17.351Z",
+    "removed_at": "2026-02-16T07:25:20.249Z",
+    "duration_minutes": 3433,
+    "duration_str": "2d 9h 13m"
   },
   {
     "title": "Genève va accueillir la prochaine réunion pour la paix en Ukraine",
@@ -59039,7 +59054,10 @@
   },
   {
     "title": "Soundcheck - Theodora, le phénomène BBL qui va marquer les victoires de la musique",
-    "added_at": "2026-02-14T18:03:47.502Z"
+    "added_at": "2026-02-14T18:03:47.502Z",
+    "removed_at": "2026-02-16T06:01:31.448Z",
+    "duration_minutes": 2157,
+    "duration_str": "1d 11h 57m"
   },
   {
     "title": "Une explosion accidentelle fait huit blessés au carnaval de Bagnes",
@@ -59207,10 +59225,51 @@
   },
   {
     "title": "Aucun train entre Lausanne et Renens avant mardi matin en raison \"d'actes de vandalisme\"",
-    "added_at": "2026-02-16T02:46:20.463Z"
+    "added_at": "2026-02-16T02:46:20.463Z",
+    "removed_at": "2026-02-16T06:38:26.330Z",
+    "duration_minutes": 232,
+    "duration_str": "3h 52m"
   },
   {
     "title": "L'un des auteurs présumés de l'attentat antisémite de Sydney devant la justice",
     "added_at": "2026-02-16T03:35:40.147Z"
+  },
+  {
+    "title": "Des Banksy dans le parking de l'ambassade de Suisse à Londres: récit d'une collection hors norme",
+    "added_at": "2026-02-16T05:19:33.201Z",
+    "removed_at": "2026-02-16T06:01:31.448Z",
+    "duration_minutes": 41,
+    "duration_str": "41m"
+  },
+  {
+    "title": "Pourquoi l'ambassade suisse à Londres détient la plus grande collection de Banksy... dans son parking",
+    "added_at": "2026-02-16T06:01:31.448Z"
+  },
+  {
+    "title": "Le trafic ferroviaire fortement perturbé entre Lausanne et Renens jusqu'à mardi en raison \"d'actes de vandalisme\"",
+    "added_at": "2026-02-16T06:36:01.838Z"
+  },
+  {
+    "title": "JO 2026: David Berger sur les chances de médaille pour Marco Odermatt lors du géant",
+    "added_at": "2026-02-16T07:03:07.616Z"
+  },
+  {
+    "title": "La Suisse envisage une alternative européenne aux missiles Patriot",
+    "added_at": "2026-02-16T07:12:55.854Z"
+  },
+  {
+    "title": "11 personnes ont été blessées pendant le cortège de carnaval à cause d'un canon à confettis en Valais",
+    "added_at": "2026-02-16T07:22:49.459Z"
+  },
+  {
+    "title": "Un train déraille à Goppenstein, plusieurs blessés probables",
+    "added_at": "2026-02-16T07:25:20.249Z",
+    "removed_at": "2026-02-16T07:30:13.199Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Un train déraille entre Goppenstein et Brigue, plusieurs blessés probables",
+    "added_at": "2026-02-16T07:30:13.199Z"
   }
 ]
