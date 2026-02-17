@@ -621,7 +621,10 @@
   },
   {
     "title": "suisse:::Ordre d’évacuation promulgué pour des zones de la commune d’Orsières",
-    "added_at": "2026-02-16T13:01:19.092Z"
+    "added_at": "2026-02-16T13:01:19.092Z",
+    "removed_at": "2026-02-17T08:21:11.741Z",
+    "duration_minutes": 1159,
+    "duration_str": "19h 19m"
   },
   {
     "title": "suisse:::«Eux intubaient, moi, je parlais de Nicorette»: Idris Guessous, l’épopée haute en couleurs d’un médecin franc-tireur",
@@ -710,7 +713,10 @@
   },
   {
     "title": "sport:::En direct, JO 2026 – Mathilde Gremaud et Anouk Andraska doivent renoncer à la finale du Big Air",
-    "added_at": "2026-02-16T18:13:14.371Z"
+    "added_at": "2026-02-16T18:13:14.371Z",
+    "removed_at": "2026-02-17T08:15:30.574Z",
+    "duration_minutes": 842,
+    "duration_str": "14h 2m"
   },
   {
     "title": "sport:::Champion olympique! Loïc Meillard le réservé, devenu l’homme des grands rendez-vous",
@@ -729,7 +735,10 @@
   },
   {
     "title": "monde:::Iran, Ukraine: l’administration Trump envoie deux promoteurs immobiliers pour faire la paix à Genève",
-    "added_at": "2026-02-16T19:59:05.277Z"
+    "added_at": "2026-02-16T19:59:05.277Z",
+    "removed_at": "2026-02-17T09:44:31.207Z",
+    "duration_minutes": 825,
+    "duration_str": "13h 45m"
   },
   {
     "title": "sciences:::Les spécialistes en sciences sociales s’inquiètent de leur mise à l’écart d’un important programme de soutien à la recherche",
@@ -744,7 +753,10 @@
   },
   {
     "title": "monde:::Dans le bras de fer entre Donald Trump et Harvard, une nouvelle salve de la Maison-Blanche fait monter la pression",
-    "added_at": "2026-02-17T04:13:04.368Z"
+    "added_at": "2026-02-17T04:13:04.368Z",
+    "removed_at": "2026-02-17T09:46:26.493Z",
+    "duration_minutes": 333,
+    "duration_str": "5h 33m"
   },
   {
     "title": "culture:::A Genève, le côté comique de Tchekhov révélé par le Collectif BPM, virtuose de l’âme humaine",
@@ -756,18 +768,54 @@
   },
   {
     "title": "economie:::La Chine est devenue prisonnière de son trop-plein industriel et de la prudence des ménages",
-    "added_at": "2026-02-17T05:23:05.037Z"
+    "added_at": "2026-02-17T05:23:05.037Z",
+    "removed_at": "2026-02-17T10:03:28.867Z",
+    "duration_minutes": 280,
+    "duration_str": "4h 40m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La délégation russe est arrivée à Genève pour un nouveau round de négociations. Donald Trump avertit Kiev",
-    "added_at": "2026-02-17T07:27:58.589Z"
+    "added_at": "2026-02-17T07:27:58.589Z",
+    "removed_at": "2026-02-17T08:38:15.476Z",
+    "duration_minutes": 70,
+    "duration_str": "1h 10m"
   },
   {
     "title": "monde:::Négociations sur l’Iran mardi matin, puis sur l’Ukraine l’après-midi: Genève fait son retour sur la carte diplomatique",
-    "added_at": "2026-02-17T07:27:58.589Z"
+    "added_at": "2026-02-17T07:27:58.589Z",
+    "removed_at": "2026-02-17T09:44:31.207Z",
+    "duration_minutes": 136,
+    "duration_str": "2h 16m"
   },
   {
     "title": "suisse:::«200 francs suffisent pour un service public complet»: figure de l’UDC zurichoise, Gregor Rutz défend la baisse de la redevance SSR",
     "added_at": "2026-02-17T07:37:27.095Z"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 – Après sa terrible chute, la descendeuse Lindsey Vonn est rentrée aux Etats-Unis",
+    "added_at": "2026-02-17T08:15:30.574Z"
+  },
+  {
+    "title": "suisse:::En Valais, le danger d’avalanche reste élevé",
+    "added_at": "2026-02-17T08:21:11.741Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Avant la reprise des pourparlers à Genève, la Russie et l'Ukraine ont multiplié les attaques de drones",
+    "added_at": "2026-02-17T08:38:15.476Z",
+    "removed_at": "2026-02-17T09:44:31.207Z",
+    "duration_minutes": 66,
+    "duration_str": "1h 6m"
+  },
+  {
+    "title": "cyber:::La pénurie est mondiale: pourquoi les prix des puces mémoire explosent à cause de l’intelligence artificielle",
+    "added_at": "2026-02-17T09:44:31.207Z"
+  },
+  {
+    "title": "monde:::En direct, Iran – Les pourparlers entre Téhéran et Washington ont débuté à Genève",
+    "added_at": "2026-02-17T09:46:26.493Z"
+  },
+  {
+    "title": "monde:::Décès de Jesse Jackson, pasteur et militant",
+    "added_at": "2026-02-17T10:03:28.867Z"
   }
 ]
