@@ -542,7 +542,10 @@
   },
   {
     "title": "suisse:::L’incendie de Crans-Montana, révélateur de l’immense charge que portent les parents d’enfants brûlés",
-    "added_at": "2026-02-14T22:02:25.214Z"
+    "added_at": "2026-02-14T22:02:25.214Z",
+    "removed_at": "2026-02-17T18:48:26.208Z",
+    "duration_minutes": 4126,
+    "duration_str": "2d 20h 46m"
   },
   {
     "title": "suisse:::Après le chaos de l'audition des Moretti, les bâtonniers appellent au calme et la presse fait son autocritique",
@@ -595,7 +598,10 @@
   },
   {
     "title": "sport:::«Nous avons consacré des années à bâtir cette équipe»: une brève histoire de la suprématie des hockeyeuses canadiennes",
-    "added_at": "2026-02-16T13:01:19.092Z"
+    "added_at": "2026-02-16T13:01:19.092Z",
+    "removed_at": "2026-02-17T18:54:09.224Z",
+    "duration_minutes": 1792,
+    "duration_str": "1d 5h 52m"
   },
   {
     "title": "suisse:::Tragédie de Crans-Montana: une rencontre entre procureurs placée sous haute vigilance politique",
@@ -617,7 +623,10 @@
   },
   {
     "title": "suisse:::Un snowboarder meurt dans une avalanche près de Davos, les autorités multiplient les alertes pour cette semaine",
-    "added_at": "2026-02-16T13:01:19.092Z"
+    "added_at": "2026-02-16T13:01:19.092Z",
+    "removed_at": "2026-02-17T18:29:21.615Z",
+    "duration_minutes": 1768,
+    "duration_str": "1d 5h 28m"
   },
   {
     "title": "suisse:::Ordre d’évacuation promulgué pour des zones de la commune d’Orsières",
@@ -875,7 +884,10 @@
   },
   {
     "title": "suisse:::Le trafic ferroviaire entre Lausanne et Genève reviendra à la normale mercredi avant l'aube",
-    "added_at": "2026-02-17T11:17:36.461Z"
+    "added_at": "2026-02-17T11:17:36.461Z",
+    "removed_at": "2026-02-17T19:39:53.949Z",
+    "duration_minutes": 502,
+    "duration_str": "8h 22m"
   },
   {
     "title": "culture:::Après Le Roi Angus, l’exil merveilleux de Casimir M, en concert à Genève",
@@ -914,10 +926,7 @@
   },
   {
     "title": "monde:::Infatigable défenseur des droits civiques aux Etats-Unis, le pasteur Jesse Jackson est décédé",
-    "added_at": "2026-02-17T12:52:27.870Z",
-    "removed_at": "2026-02-17T16:02:34.163Z",
-    "duration_minutes": 190,
-    "duration_str": "3h 10m"
+    "added_at": "2026-02-17T12:52:27.870Z"
   },
   {
     "title": "monde:::En direct, Iran – Les pourparlers entre Téhéran et Washington à Genève sont terminés",
@@ -947,7 +956,10 @@
   },
   {
     "title": "monde:::En direct, Iran – Téhéran et Washington ont convenu de «principes directeurs» en vue d’un accord",
-    "added_at": "2026-02-17T14:31:10.152Z"
+    "added_at": "2026-02-17T14:31:10.152Z",
+    "removed_at": "2026-02-17T17:43:33.144Z",
+    "duration_minutes": 192,
+    "duration_str": "3h 12m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Les pourparlers ont démarré à l’hôtel Intercontinental",
@@ -987,7 +999,10 @@
   },
   {
     "title": "economie:::Coop poursuit sa croissance malgré la forte concurrence",
-    "added_at": "2026-02-17T16:02:34.163Z"
+    "added_at": "2026-02-17T16:02:34.163Z",
+    "removed_at": "2026-02-17T18:38:50.693Z",
+    "duration_minutes": 156,
+    "duration_str": "2h 36m"
   },
   {
     "title": "suisse:::Des victimes suisses de Crans-Montana soignées à l’étranger seront bientôt rapatriées",
@@ -1000,5 +1015,64 @@
   {
     "title": "suisse:::Avec des chutes de neige exceptionnelles, le Valais et les Alpes affrontent des avalanches spontanées un peu partout",
     "added_at": "2026-02-17T17:05:22.058Z"
+  },
+  {
+    "title": "monde:::Entre Téhéran et Washington, on s’accorde sur des «principes directeurs» pour conclure un accord sur le nucléaire",
+    "added_at": "2026-02-17T17:43:33.144Z",
+    "removed_at": "2026-02-17T18:38:50.693Z",
+    "duration_minutes": 55,
+    "duration_str": "55m"
+  },
+  {
+    "title": "suisse:::Redevance: La RTS sous pression après les commentaires sur un bobeur israélien",
+    "added_at": "2026-02-17T18:14:07.971Z",
+    "removed_at": "2026-02-17T18:29:21.615Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "monde:::Iran et Ukraine: les Etats-Unis veulent décréter la paix à Genève",
+    "added_at": "2026-02-17T18:29:21.615Z"
+  },
+  {
+    "title": "monde:::Après la mort d’un militant nationaliste français, quatre suspects identifiés",
+    "added_at": "2026-02-17T18:29:21.615Z",
+    "removed_at": "2026-02-17T18:35:02.974Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "suisse:::Redevance: la RTS sous pression après les commentaires sur un bobeur israélien",
+    "added_at": "2026-02-17T18:29:21.615Z"
+  },
+  {
+    "title": "monde:::Après la mort d’un militant nationaliste français, quatre suspects interpellés",
+    "added_at": "2026-02-17T18:35:02.974Z",
+    "removed_at": "2026-02-17T19:47:27.784Z",
+    "duration_minutes": 72,
+    "duration_str": "1h 12m"
+  },
+  {
+    "title": "suisse:::«L’impunité qui règne dans le domaine des fans de football est insupportable»: Vaud et Genève en colère contre la Swiss Football League",
+    "added_at": "2026-02-17T18:38:50.693Z",
+    "removed_at": "2026-02-17T18:44:34.358Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "sport:::«Les pays qui gèrent le mieux leurs supporters sont ceux qui ont une doctrine claire et structurée»",
+    "added_at": "2026-02-17T18:38:50.693Z"
+  },
+  {
+    "title": "suisse:::«L’impunité qui règne au sein des fans de football est insupportable»: Vaud et Genève en colère contre la Swiss Football League",
+    "added_at": "2026-02-17T18:44:34.358Z"
+  },
+  {
+    "title": "culture:::«J’essaie de trouver les angles humoristiques dans chaque événement de ma vie»: Rosa Bursztein, chroniqueuse du chaos sentimental",
+    "added_at": "2026-02-17T18:48:26.208Z"
+  },
+  {
+    "title": "monde:::Après la mort d’un militant nationaliste français, cinq suspects interpellés",
+    "added_at": "2026-02-17T19:47:27.784Z"
   }
 ]
