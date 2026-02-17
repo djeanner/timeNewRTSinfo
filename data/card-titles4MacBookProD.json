@@ -164180,7 +164180,10 @@
   },
   {
     "title": "Crew-12 docks at the International Space Station",
-    "added_at": "2026-02-15T19:54:18.567Z"
+    "added_at": "2026-02-15T19:54:18.567Z",
+    "removed_at": "2026-02-17T05:40:16.218Z",
+    "duration_minutes": 2025,
+    "duration_str": "1d 9h 45m"
   },
   {
     "title": "Teen girl whose Chicago father was detained in an immigration case dies from a rare cancer",
@@ -164198,7 +164201,10 @@
   },
   {
     "title": "6-year-old sells over 75K boxes of Girl Scout cookies",
-    "added_at": "2026-02-15T21:01:03.315Z"
+    "added_at": "2026-02-15T21:01:03.315Z",
+    "removed_at": "2026-02-17T06:19:48.693Z",
+    "duration_minutes": 1998,
+    "duration_str": "1d 9h 18m"
   },
   {
     "title": "Jeffries on redistricting map wars: ‘When they go low, we strike back’",
@@ -164585,7 +164591,10 @@
   },
   {
     "title": "He worked on Wall Street for nearly 50 years. Here’s what he learned about your finances",
-    "added_at": "2026-02-16T11:47:33.276Z"
+    "added_at": "2026-02-16T11:47:33.276Z",
+    "removed_at": "2026-02-17T08:23:20.368Z",
+    "duration_minutes": 1235,
+    "duration_str": "20h 35m"
   },
   {
     "title": "After quitting at age 16, Alysa Liu returns to figure skating with a new voice — and a world title",
@@ -164741,10 +164750,7 @@
   },
   {
     "title": "Ex-FBI negotiator breaks down Guthrie’s plea to captor",
-    "added_at": "2026-02-16T15:47:14.840Z",
-    "removed_at": "2026-02-16T16:59:43.555Z",
-    "duration_minutes": 72,
-    "duration_str": "1h 12m"
+    "added_at": "2026-02-16T15:47:14.840Z"
   },
   {
     "title": "Team USA takes 1-0 lead against Sweden with ticket to women’s ice hockey final on the line",
@@ -164812,7 +164818,10 @@
   },
   {
     "title": "Ex-FBI negotiator breaks down Guthrie’s plea",
-    "added_at": "2026-02-16T16:59:43.555Z"
+    "added_at": "2026-02-16T16:59:43.555Z",
+    "removed_at": "2026-02-17T06:32:06.343Z",
+    "duration_minutes": 812,
+    "duration_str": "13h 32m"
   },
   {
     "title": "Celebrations as Team USA storms closer to women’s hockey gold medal game",
@@ -164849,14 +164858,14 @@
   },
   {
     "title": "Will Trump get his pick in race to replace Marjorie Taylor Greene?",
-    "added_at": "2026-02-16T18:39:21.244Z",
-    "removed_at": "2026-02-16T18:44:16.162Z",
-    "duration_minutes": 4,
-    "duration_str": "4m"
+    "added_at": "2026-02-16T18:39:21.244Z"
   },
   {
     "title": "Will Trump get his pick in race to replace MTG?",
-    "added_at": "2026-02-16T18:44:16.162Z"
+    "added_at": "2026-02-16T18:44:16.162Z",
+    "removed_at": "2026-02-17T06:32:06.343Z",
+    "duration_minutes": 707,
+    "duration_str": "11h 47m"
   },
   {
     "title": "How did an Amazon van get stuck here?",
@@ -164958,7 +164967,10 @@
   },
   {
     "title": "Chinese zodiac predictions: What’s in store for 2026 as we enter the Year of the Fire Horse",
-    "added_at": "2026-02-17T00:56:45.960Z"
+    "added_at": "2026-02-17T00:56:45.960Z",
+    "removed_at": "2026-02-17T06:51:51.241Z",
+    "duration_minutes": 355,
+    "duration_str": "5h 55m"
   },
   {
     "title": "Why the Adidas ‘Chinese New Year’ jacket has gone viral",
@@ -165038,10 +165050,58 @@
   },
   {
     "title": "While MAGA faces challenges at home, Rubio seeks to export it abroad",
-    "added_at": "2026-02-17T05:15:25.604Z"
+    "added_at": "2026-02-17T05:15:25.604Z",
+    "removed_at": "2026-02-17T06:59:13.537Z",
+    "duration_minutes": 103,
+    "duration_str": "1h 43m"
   },
   {
     "title": "Palmerston, one of the UK’s top ‘diplocats,’ dies in Bermuda",
     "added_at": "2026-02-17T05:32:43.152Z"
+  },
+  {
+    "title": "Timothée Chalamet’s Year of the Horse predictions",
+    "added_at": "2026-02-17T05:40:16.218Z",
+    "removed_at": "2026-02-17T05:52:38.381Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "Year of the Horse predictions for Timothée Chalamet",
+    "added_at": "2026-02-17T05:52:38.381Z"
+  },
+  {
+    "title": "Rules to follow for a prosperous Lunar New Year",
+    "added_at": "2026-02-17T06:19:48.693Z"
+  },
+  {
+    "title": "Feng shui master predicts Year of the Horse fortune for Timothée Chalamet",
+    "added_at": "2026-02-17T06:51:51.241Z",
+    "removed_at": "2026-02-17T07:46:11.552Z",
+    "duration_minutes": 54,
+    "duration_str": "54m"
+  },
+  {
+    "title": "Rubio tries to export MAGA ideology",
+    "added_at": "2026-02-17T06:59:13.537Z"
+  },
+  {
+    "title": "US and Iran prepare for Geneva talks – here’s what happened last time",
+    "added_at": "2026-02-17T07:38:46.711Z",
+    "removed_at": "2026-02-17T07:56:08.014Z",
+    "duration_minutes": 17,
+    "duration_str": "17m"
+  },
+  {
+    "title": "Feng shui master predicts Trump and Mamdani’s fortune in the Year of the Horse",
+    "added_at": "2026-02-17T07:46:11.552Z"
+  },
+  {
+    "title": "Crunch US-Iran nuclear talks set to begin shortly",
+    "added_at": "2026-02-17T07:56:08.014Z"
+  },
+  {
+    "title": "This doctor is training AI to do her job. And it’s a booming business",
+    "added_at": "2026-02-17T08:23:20.368Z"
   }
 ]
