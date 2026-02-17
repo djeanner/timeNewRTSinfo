@@ -778,7 +778,10 @@
   },
   {
     "title": "In Argentina, locals are taking loans to buy food",
-    "added_at": "2026-02-16T19:42:04.252Z"
+    "added_at": "2026-02-16T19:42:04.252Z",
+    "removed_at": "2026-02-17T15:07:22.698Z",
+    "duration_minutes": 1165,
+    "duration_str": "19h 25m"
   },
   {
     "title": "Robert Duvall, Oscar-winning actor and star of The Godfather, dies aged 95",
@@ -958,7 +961,10 @@
   },
   {
     "title": "Hamas rejects Netanyahu aide’s 60-day ultimatum for group to disarm",
-    "added_at": "2026-02-17T08:24:58.754Z"
+    "added_at": "2026-02-17T08:24:58.754Z",
+    "removed_at": "2026-02-17T15:32:03.701Z",
+    "duration_minutes": 427,
+    "duration_str": "7h 7m"
   },
   {
     "title": "Russia, Ukraine ramp up attacks as new round of US-brokered talks to begin",
@@ -974,9 +980,9 @@
   {
     "title": "More than a dozen killed in bomb blasts, gunfire in Pakistan’s northwest",
     "added_at": "2026-02-17T08:43:57.805Z",
-    "removed_at": "2026-02-17T11:55:26.908Z",
-    "duration_minutes": 191,
-    "duration_str": "3h 11m"
+    "removed_at": "2026-02-17T15:32:03.701Z",
+    "duration_minutes": 408,
+    "duration_str": "6h 48m"
   },
   {
     "title": "‘No tomorrow’: Fury says Joshua car crash motivated his boxing return",
@@ -1044,7 +1050,10 @@
   },
   {
     "title": "Tarique Rahman sworn in as new Bangladesh prime minister",
-    "added_at": "2026-02-17T10:54:50.826Z"
+    "added_at": "2026-02-17T10:54:50.826Z",
+    "removed_at": "2026-02-17T15:20:40.639Z",
+    "duration_minutes": 265,
+    "duration_str": "4h 25m"
   },
   {
     "title": "‘Jordan is next’: West Bank annexation signals ‘silent transfer’",
@@ -1059,11 +1068,17 @@
   },
   {
     "title": "Russia, Ukraine ramp up attacks ahead of new US-brokered negotiations",
-    "added_at": "2026-02-17T11:34:39.692Z"
+    "added_at": "2026-02-17T11:34:39.692Z",
+    "removed_at": "2026-02-17T15:20:40.639Z",
+    "duration_minutes": 226,
+    "duration_str": "3h 46m"
   },
   {
     "title": "Cricket legends ‘deeply concerned’ over Imran Khan’s deteriorating health",
-    "added_at": "2026-02-17T11:55:26.908Z"
+    "added_at": "2026-02-17T11:55:26.908Z",
+    "removed_at": "2026-02-17T15:58:43.902Z",
+    "duration_minutes": 243,
+    "duration_str": "4h 3m"
   },
   {
     "title": "Israeli settlers displace 15 Palestinian families in West Bank: Official",
@@ -1101,5 +1116,36 @@
   {
     "title": "‘Path for a deal has started’, says Iran after nuclear talks with US",
     "added_at": "2026-02-17T14:46:20.574Z"
+  },
+  {
+    "title": "Who are Bangladesh’s new cabinet members?",
+    "added_at": "2026-02-17T15:07:22.698Z"
+  },
+  {
+    "title": "Ramadan Mubarak 2026: Hear greetings in different languages",
+    "added_at": "2026-02-17T15:09:17.058Z",
+    "removed_at": "2026-02-17T16:53:58.774Z",
+    "duration_minutes": 104,
+    "duration_str": "1h 44m"
+  },
+  {
+    "title": "Missiles fly as 3rd round of Russia-Ukraine peace talks kick off in Geneva",
+    "added_at": "2026-02-17T15:32:03.701Z"
+  },
+  {
+    "title": "Trump urges Iran to make nuclear deal saying he’ll be ‘indirectly’ involved",
+    "added_at": "2026-02-17T15:32:03.701Z"
+  },
+  {
+    "title": "Glacier grafting: How an Indigenous art is countering water scarcity",
+    "added_at": "2026-02-17T15:58:43.902Z"
+  },
+  {
+    "title": "Iran’s Khamenei maintains tough rhetoric with US despite nuclear talks",
+    "added_at": "2026-02-17T16:53:58.774Z"
+  },
+  {
+    "title": "LIVE: Benfica vs Real Madrid – Champions League playoff",
+    "added_at": "2026-02-17T17:05:22.953Z"
   }
 ]
