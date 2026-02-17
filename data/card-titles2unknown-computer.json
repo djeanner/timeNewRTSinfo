@@ -603,7 +603,10 @@
   },
   {
     "title": "sciences:::Pendant les matchs de foot, les cœurs s’agitent et le stress s’envole, révèlent les montres connectées des supporters",
-    "added_at": "2026-02-16T13:01:19.092Z"
+    "added_at": "2026-02-16T13:01:19.092Z",
+    "removed_at": "2026-02-17T11:55:25.945Z",
+    "duration_minutes": 1374,
+    "duration_str": "22h 54m"
   },
   {
     "title": "economie:::Miljan Gutovic, directeur général d’Holcim: «La durabilité nous amène de la croissance et de la rentabilité»",
@@ -635,7 +638,10 @@
   },
   {
     "title": "monde:::«L’incendie aurait pu être maîtrisé»: le régime iranien a-t-il mis le feu au bazar de Rasht?",
-    "added_at": "2026-02-16T13:01:19.092Z"
+    "added_at": "2026-02-16T13:01:19.092Z",
+    "removed_at": "2026-02-17T11:53:32.300Z",
+    "duration_minutes": 1372,
+    "duration_str": "22h 52m"
   },
   {
     "title": "economie:::Quel président de la Fed sera Kevin Warsh?",
@@ -731,7 +737,10 @@
   },
   {
     "title": "suisse:::Deniz Gyger Gaspoz, rectrice de l’UniNE: «Notre petite taille nous donne l’avantage de l’agilité»",
-    "added_at": "2026-02-16T19:23:12.306Z"
+    "added_at": "2026-02-16T19:23:12.306Z",
+    "removed_at": "2026-02-17T10:49:09.054Z",
+    "duration_minutes": 925,
+    "duration_str": "15h 25m"
   },
   {
     "title": "monde:::Iran, Ukraine: l’administration Trump envoie deux promoteurs immobiliers pour faire la paix à Genève",
@@ -760,11 +769,17 @@
   },
   {
     "title": "culture:::A Genève, le côté comique de Tchekhov révélé par le Collectif BPM, virtuose de l’âme humaine",
-    "added_at": "2026-02-17T04:20:37.567Z"
+    "added_at": "2026-02-17T04:20:37.567Z",
+    "removed_at": "2026-02-17T10:20:45.820Z",
+    "duration_minutes": 360,
+    "duration_str": "6h"
   },
   {
     "title": "suisse:::Le trafic ferroviaire reste «fortement perturbé» entre Lausanne et Genève",
-    "added_at": "2026-02-17T05:17:24.838Z"
+    "added_at": "2026-02-17T05:17:24.838Z",
+    "removed_at": "2026-02-17T11:17:36.461Z",
+    "duration_minutes": 360,
+    "duration_str": "6h"
   },
   {
     "title": "economie:::La Chine est devenue prisonnière de son trop-plein industriel et de la prudence des ménages",
@@ -808,7 +823,10 @@
   },
   {
     "title": "cyber:::La pénurie est mondiale: pourquoi les prix des puces mémoire explosent à cause de l’intelligence artificielle",
-    "added_at": "2026-02-17T09:44:31.207Z"
+    "added_at": "2026-02-17T09:44:31.207Z",
+    "removed_at": "2026-02-17T10:56:40.277Z",
+    "duration_minutes": 72,
+    "duration_str": "1h 12m"
   },
   {
     "title": "monde:::En direct, Iran – Les pourparlers entre Téhéran et Washington ont débuté à Genève",
@@ -817,5 +835,47 @@
   {
     "title": "monde:::Décès de Jesse Jackson, pasteur et militant",
     "added_at": "2026-02-17T10:03:28.867Z"
+  },
+  {
+    "title": "suisse:::Thierry Dana, l'ancien banquier qui raconte Alzheimer par l'image et les objets",
+    "added_at": "2026-02-17T10:20:45.820Z"
+  },
+  {
+    "title": "sport:::Cortina d’Ampezzo, la reine des Dolomites où le bobsleigh veut régner en majesté",
+    "added_at": "2026-02-17T10:49:09.054Z"
+  },
+  {
+    "title": "cyber:::Scandale Epstein: est-il possible de rendre lisibles des documents caviardés par les autorités américaines?",
+    "added_at": "2026-02-17T10:56:40.277Z"
+  },
+  {
+    "title": "economie:::Affaire Epstein: la directrice juridique de Goldman Sachs s’en va",
+    "added_at": "2026-02-17T10:56:40.277Z"
+  },
+  {
+    "title": "suisse:::Le trafic ferroviaire entre Lausanne et Genève reviendra à la normale mercredi avant l'aube",
+    "added_at": "2026-02-17T11:17:36.461Z"
+  },
+  {
+    "title": "culture:::Après Le Roi Angus, l’exil merveilleux de Casimir M, en concert à Genève",
+    "added_at": "2026-02-17T11:53:32.300Z"
+  },
+  {
+    "title": "economie:::L’AVS et l’AI sont dans les chiffres noirs, mais la 13e rente inquiète les gestionnaires",
+    "added_at": "2026-02-17T11:55:25.945Z",
+    "removed_at": "2026-02-17T12:21:55.704Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "economie:::Les besoins en financement supplémentaires de l'AVS l’AVS et de l'AI l’AI donnent du fil à retordre à Compenswiss",
+    "added_at": "2026-02-17T12:21:55.704Z",
+    "removed_at": "2026-02-17T12:23:50.500Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "economie:::Les besoins en financement supplémentaires de l'AVS et de l'AI donnent du fil à retordre à Compenswiss",
+    "added_at": "2026-02-17T12:23:50.500Z"
   }
 ]

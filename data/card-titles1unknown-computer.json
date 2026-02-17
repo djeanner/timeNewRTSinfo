@@ -1076,7 +1076,10 @@
   },
   {
     "title": "Les risques d'avalanches sont réels ce week-end. Patience pour les randonneurs",
-    "added_at": "2026-02-14T22:02:25.170Z"
+    "added_at": "2026-02-14T22:02:25.170Z",
+    "removed_at": "2026-02-17T10:22:36.083Z",
+    "duration_minutes": 3620,
+    "duration_str": "2d 12h 20m"
   },
   {
     "title": "À Munich, Marco Rubio prône une restauration de l'ordre mondial, avec une Europe forte",
@@ -1133,7 +1136,10 @@
   },
   {
     "title": "Une explosion accidentelle fait huit blessés au carnaval de Bagnes",
-    "added_at": "2026-02-14T22:02:25.170Z"
+    "added_at": "2026-02-14T22:02:25.170Z",
+    "removed_at": "2026-02-17T11:02:23.640Z",
+    "duration_minutes": 3659,
+    "duration_str": "2d 12h 59m"
   },
   {
     "title": "Qui succèdera à la conseillère d'Etat Rebecca Ruiz? Débat entre Jean-François Thuilllard, Roger Nordmann et Agathe Raboud Sidorenko",
@@ -1607,9 +1613,9 @@
   {
     "title": "Le meilleur des beaux parleurs",
     "added_at": "2026-02-16T13:01:19.048Z",
-    "removed_at": "2026-02-16T16:27:17.923Z",
-    "duration_minutes": 205,
-    "duration_str": "3h 25m"
+    "removed_at": "2026-02-17T11:23:14.987Z",
+    "duration_minutes": 1341,
+    "duration_str": "22h 21m"
   },
   {
     "title": "La Suisse envisage une alternative européenne aux missiles Patriot",
@@ -1633,19 +1639,31 @@
   },
   {
     "title": "Suzette Sandoz: Dans l'affaire du bouclier fiscal, \"le vrai problème est un dysfonctionnement de l'administration\"",
-    "added_at": "2026-02-16T13:01:19.048Z"
+    "added_at": "2026-02-16T13:01:19.048Z",
+    "removed_at": "2026-02-17T12:20:05.085Z",
+    "duration_minutes": 1398,
+    "duration_str": "23h 18m"
   },
   {
     "title": "De plus en plus de femmes choisissent de congeler leurs ovocytes",
-    "added_at": "2026-02-16T13:01:19.048Z"
+    "added_at": "2026-02-16T13:01:19.048Z",
+    "removed_at": "2026-02-17T12:14:23.856Z",
+    "duration_minutes": 1393,
+    "duration_str": "23h 13m"
   },
   {
     "title": "Section du frein de langue des nourrissons: une intervention en hausse, mais controversée",
-    "added_at": "2026-02-16T13:01:19.048Z"
+    "added_at": "2026-02-16T13:01:19.048Z",
+    "removed_at": "2026-02-17T11:17:36.422Z",
+    "duration_minutes": 1336,
+    "duration_str": "22h 16m"
   },
   {
     "title": "Elections communales vaudoises: quels enjeux dans les grandes villes?",
-    "added_at": "2026-02-16T13:01:19.048Z"
+    "added_at": "2026-02-16T13:01:19.048Z",
+    "removed_at": "2026-02-17T11:02:23.640Z",
+    "duration_minutes": 1321,
+    "duration_str": "22h 1m"
   },
   {
     "title": "Michel Portal, figure du jazz contemporain, est mort à l'âge de 90 ans",
@@ -2007,7 +2025,10 @@
   },
   {
     "title": "La ligne Lausanne-Renens toujours perturbée, des bus de remplacement assurés",
-    "added_at": "2026-02-17T07:22:19.651Z"
+    "added_at": "2026-02-17T07:22:19.651Z",
+    "removed_at": "2026-02-17T11:23:14.987Z",
+    "duration_minutes": 240,
+    "duration_str": "4h"
   },
   {
     "title": "Le rappeur genevois Makala de retour avec \"Yamoto\", album sans compromis",
@@ -2059,7 +2080,10 @@
   },
   {
     "title": "Plusieurs vallées coupées du monde en raison du risque d'avalanche, le Valais en alerte maximale",
-    "added_at": "2026-02-17T09:25:33.181Z"
+    "added_at": "2026-02-17T09:25:33.181Z",
+    "removed_at": "2026-02-17T11:32:41.280Z",
+    "duration_minutes": 127,
+    "duration_str": "2h 7m"
   },
   {
     "title": "Pascal de Crousaz: \"Si les négociations avec l'Iran échouent, on risque de déboucher sur une nouvelle guerre\"",
@@ -2072,5 +2096,48 @@
   {
     "title": "Les \"pièces japonaises\", une bien curieuse tradition du carnaval schwytzois",
     "added_at": "2026-02-17T10:14:55.952Z"
+  },
+  {
+    "title": "L'invité de La Matinale  (vidéo) - Pascal de Crousaz, expert en relations internationales",
+    "added_at": "2026-02-17T10:22:36.083Z"
+  },
+  {
+    "title": "Au Liban, la crise financière de l’UNRWA fragilise l’accès aux soins des réfugiés palestiniens",
+    "added_at": "2026-02-17T11:02:23.640Z",
+    "removed_at": "2026-02-17T11:19:26.036Z",
+    "duration_minutes": 17,
+    "duration_str": "17m"
+  },
+  {
+    "title": "Une sixième victoire en six matches pour les Suisses",
+    "added_at": "2026-02-17T11:17:36.422Z"
+  },
+  {
+    "title": "Au Liban, la crise financière de l'UNRWA fragilise l'accès aux soins des réfugiés palestiniens",
+    "added_at": "2026-02-17T11:19:26.036Z"
+  },
+  {
+    "title": "La ligne Lausanne-Renens pourrait reprendre mercredi sans perturbation",
+    "added_at": "2026-02-17T11:23:14.987Z"
+  },
+  {
+    "title": "Des vacanciers ont été évacués à la Fouly (VS) en raison du risque d'avalanche",
+    "added_at": "2026-02-17T11:23:14.987Z"
+  },
+  {
+    "title": "Plusieurs domaines skiables valaisans fermés et des vallées coupées du monde en raison du risque d'avalanche",
+    "added_at": "2026-02-17T11:32:41.280Z"
+  },
+  {
+    "title": "Paul Cézanne à la Fondation Beyeler, une plongée fascinante dans les débuts de l'art moderne",
+    "added_at": "2026-02-17T12:10:32.898Z"
+  },
+  {
+    "title": "Le chef des pompiers de Crans-Montana: \"Je suis dans un cauchemar\"",
+    "added_at": "2026-02-17T12:14:23.856Z"
+  },
+  {
+    "title": "Sommes-nous face à des événements météorologiques hors norme?",
+    "added_at": "2026-02-17T12:20:05.085Z"
   }
 ]
