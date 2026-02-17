@@ -744,10 +744,7 @@
   },
   {
     "title": "monde:::Iran, Ukraine: l’administration Trump envoie deux promoteurs immobiliers pour faire la paix à Genève",
-    "added_at": "2026-02-16T19:59:05.277Z",
-    "removed_at": "2026-02-17T09:44:31.207Z",
-    "duration_minutes": 825,
-    "duration_str": "13h 45m"
+    "added_at": "2026-02-16T19:59:05.277Z"
   },
   {
     "title": "sciences:::Les spécialistes en sciences sociales s’inquiètent de leur mise à l’écart d’un important programme de soutien à la recherche",
@@ -808,7 +805,10 @@
   },
   {
     "title": "sport:::En direct, JO 2026 – Après sa terrible chute, la descendeuse Lindsey Vonn est rentrée aux Etats-Unis",
-    "added_at": "2026-02-17T08:15:30.574Z"
+    "added_at": "2026-02-17T08:15:30.574Z",
+    "removed_at": "2026-02-17T13:28:33.409Z",
+    "duration_minutes": 313,
+    "duration_str": "5h 13m"
   },
   {
     "title": "suisse:::En Valais, le danger d’avalanche reste élevé",
@@ -830,11 +830,17 @@
   },
   {
     "title": "monde:::En direct, Iran – Les pourparlers entre Téhéran et Washington ont débuté à Genève",
-    "added_at": "2026-02-17T09:46:26.493Z"
+    "added_at": "2026-02-17T09:46:26.493Z",
+    "removed_at": "2026-02-17T13:09:32.252Z",
+    "duration_minutes": 203,
+    "duration_str": "3h 23m"
   },
   {
     "title": "monde:::Décès de Jesse Jackson, pasteur et militant",
-    "added_at": "2026-02-17T10:03:28.867Z"
+    "added_at": "2026-02-17T10:03:28.867Z",
+    "removed_at": "2026-02-17T12:52:27.870Z",
+    "duration_minutes": 168,
+    "duration_str": "2h 48m"
   },
   {
     "title": "suisse:::Thierry Dana, l'ancien banquier qui raconte Alzheimer par l'image et les objets",
@@ -846,11 +852,17 @@
   },
   {
     "title": "cyber:::Scandale Epstein: est-il possible de rendre lisibles des documents caviardés par les autorités américaines?",
-    "added_at": "2026-02-17T10:56:40.277Z"
+    "added_at": "2026-02-17T10:56:40.277Z",
+    "removed_at": "2026-02-17T14:42:33.411Z",
+    "duration_minutes": 225,
+    "duration_str": "3h 45m"
   },
   {
     "title": "economie:::Affaire Epstein: la directrice juridique de Goldman Sachs s’en va",
-    "added_at": "2026-02-17T10:56:40.277Z"
+    "added_at": "2026-02-17T10:56:40.277Z",
+    "removed_at": "2026-02-17T14:42:33.411Z",
+    "duration_minutes": 225,
+    "duration_str": "3h 45m"
   },
   {
     "title": "suisse:::Le trafic ferroviaire entre Lausanne et Genève reviendra à la normale mercredi avant l'aube",
@@ -858,7 +870,10 @@
   },
   {
     "title": "culture:::Après Le Roi Angus, l’exil merveilleux de Casimir M, en concert à Genève",
-    "added_at": "2026-02-17T11:53:32.300Z"
+    "added_at": "2026-02-17T11:53:32.300Z",
+    "removed_at": "2026-02-17T14:59:38.766Z",
+    "duration_minutes": 186,
+    "duration_str": "3h 6m"
   },
   {
     "title": "economie:::L’AVS et l’AI sont dans les chiffres noirs, mais la 13e rente inquiète les gestionnaires",
@@ -876,6 +891,51 @@
   },
   {
     "title": "economie:::Les besoins en financement supplémentaires de l'AVS et de l'AI donnent du fil à retordre à Compenswiss",
-    "added_at": "2026-02-17T12:23:50.500Z"
+    "added_at": "2026-02-17T12:23:50.500Z",
+    "removed_at": "2026-02-17T12:43:00.427Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
+  },
+  {
+    "title": "economie:::Les besoins en financement supplémentaires de l’AVS et de l’AI donnent du fil à retordre à Compenswiss",
+    "added_at": "2026-02-17T12:43:00.427Z"
+  },
+  {
+    "title": "monde:::Infatigable défenseur des droits civiques aux Etats-Unis, le pasteur Jesse Jackson est décédé",
+    "added_at": "2026-02-17T12:52:27.870Z"
+  },
+  {
+    "title": "monde:::En direct, Iran – Les pourparlers entre Téhéran et Washington à Genève sont terminés",
+    "added_at": "2026-02-17T13:09:32.252Z",
+    "removed_at": "2026-02-17T14:31:10.152Z",
+    "duration_minutes": 81,
+    "duration_str": "1h 21m"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 – Les épreuves de ski acrobatiques sont reportées en raison de la neige",
+    "added_at": "2026-02-17T13:28:33.409Z",
+    "removed_at": "2026-02-17T13:55:06.153Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "sport:::L’avenir est à des JO de sports qui se pratiquent l’hiver, et plus seulement aux disciplines «de neige et de glace»",
+    "added_at": "2026-02-17T13:30:27.476Z"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 – L’équipe suisse de hockey part en quarts de finale",
+    "added_at": "2026-02-17T13:55:06.153Z"
+  },
+  {
+    "title": "monde:::«Aux Etats-Unis, j’ai ressenti un vrai mépris pour l’Europe»: le journaliste Richard Werly plonge dans «cette Amérique qui nous déteste»",
+    "added_at": "2026-02-17T14:00:47.350Z"
+  },
+  {
+    "title": "monde:::En direct, Iran – Téhéran et Washington ont convenu de «principes directeurs» en vue d’un accord",
+    "added_at": "2026-02-17T14:31:10.152Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Les pourparlers ont démarré à l’hôtel Intercontinental",
+    "added_at": "2026-02-17T14:44:24.695Z"
   }
 ]

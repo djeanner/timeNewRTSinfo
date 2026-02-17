@@ -898,7 +898,10 @@
   },
   {
     "title": "Un audit accablant ciblait la commune de Crans-Montana dès 2023",
-    "added_at": "2026-02-14T22:02:25.170Z"
+    "added_at": "2026-02-14T22:02:25.170Z",
+    "removed_at": "2026-02-17T15:01:29.003Z",
+    "duration_minutes": 3899,
+    "duration_str": "2d 16h 59m"
   },
   {
     "title": "Une explosion accidentelle a fait onze blessés, dont un grave, au carnaval de Bagnes",
@@ -1562,7 +1565,10 @@
   },
   {
     "title": "Le salon du livre de Damas se veut le symbole d'une liberté d'expression renaissante",
-    "added_at": "2026-02-16T13:01:19.048Z"
+    "added_at": "2026-02-16T13:01:19.048Z",
+    "removed_at": "2026-02-17T15:01:29.003Z",
+    "duration_minutes": 1560,
+    "duration_str": "1d 2h"
   },
   {
     "title": "Une figure romande de la prostitution a soutenu les patrons du Constellation",
@@ -1570,7 +1576,10 @@
   },
   {
     "title": "De \"Fargo\" à \"Star Trek\", Jeff Russo est devenu le compositeur star des séries cultes",
-    "added_at": "2026-02-16T13:01:19.048Z"
+    "added_at": "2026-02-16T13:01:19.048Z",
+    "removed_at": "2026-02-17T14:12:09.448Z",
+    "duration_minutes": 1510,
+    "duration_str": "1d 1h 10m"
   },
   {
     "title": "D'importantes chutes de neige jusqu'à mardi et un fort risque d'avalanche en Suisse",
@@ -1608,7 +1617,10 @@
   },
   {
     "title": "11 personnes ont été blessées pendant le cortège de carnaval à cause d'un canon à confettis en Valais",
-    "added_at": "2026-02-16T13:01:19.048Z"
+    "added_at": "2026-02-16T13:01:19.048Z",
+    "removed_at": "2026-02-17T13:03:51.787Z",
+    "duration_minutes": 1442,
+    "duration_str": "1d 2m"
   },
   {
     "title": "Le meilleur des beaux parleurs",
@@ -1619,23 +1631,38 @@
   },
   {
     "title": "La Suisse envisage une alternative européenne aux missiles Patriot",
-    "added_at": "2026-02-16T13:01:19.048Z"
+    "added_at": "2026-02-16T13:01:19.048Z",
+    "removed_at": "2026-02-17T14:06:28.235Z",
+    "duration_minutes": 1505,
+    "duration_str": "1d 1h 5m"
   },
   {
     "title": "\"Les Etats-Unis sont un allié fiable\", assure le général américain Ben Hodges",
-    "added_at": "2026-02-16T13:01:19.048Z"
+    "added_at": "2026-02-16T13:01:19.048Z",
+    "removed_at": "2026-02-17T14:00:47.241Z",
+    "duration_minutes": 1499,
+    "duration_str": "1d 59m"
   },
   {
     "title": "L'un des auteurs présumés de l'attentat antisémite de Sydney devant la justice",
-    "added_at": "2026-02-16T13:01:19.048Z"
+    "added_at": "2026-02-16T13:01:19.048Z",
+    "removed_at": "2026-02-17T13:58:52.904Z",
+    "duration_minutes": 1497,
+    "duration_str": "1d 57m"
   },
   {
     "title": "Le jackpot inattendu d'Anguilla grâce à son domaine \".ai\"",
-    "added_at": "2026-02-16T13:01:19.048Z"
+    "added_at": "2026-02-16T13:01:19.048Z",
+    "removed_at": "2026-02-17T13:39:59.610Z",
+    "duration_minutes": 1478,
+    "duration_str": "1d 38m"
   },
   {
     "title": "La commune de Val de Bagnes réfute toute responsabilité après l'accident de son carnaval",
-    "added_at": "2026-02-16T13:01:19.048Z"
+    "added_at": "2026-02-16T13:01:19.048Z",
+    "removed_at": "2026-02-17T13:38:03.007Z",
+    "duration_minutes": 1476,
+    "duration_str": "1d 36m"
   },
   {
     "title": "Suzette Sandoz: Dans l'affaire du bouclier fiscal, \"le vrai problème est un dysfonctionnement de l'administration\"",
@@ -2021,7 +2048,10 @@
   },
   {
     "title": "Genève accueille des pourparlers cruciaux sur la guerre en Ukraine et sur l'Iran",
-    "added_at": "2026-02-17T07:12:53.641Z"
+    "added_at": "2026-02-17T07:12:53.641Z",
+    "removed_at": "2026-02-17T14:50:06.138Z",
+    "duration_minutes": 457,
+    "duration_str": "7h 37m"
   },
   {
     "title": "La ligne Lausanne-Renens toujours perturbée, des bus de remplacement assurés",
@@ -2139,5 +2169,63 @@
   {
     "title": "Sommes-nous face à des événements météorologiques hors norme?",
     "added_at": "2026-02-17T12:20:05.085Z"
+  },
+  {
+    "title": "Sport matin - L'histoire du snowboard aux JO, entre ombre et lumière",
+    "added_at": "2026-02-17T13:03:51.787Z"
+  },
+  {
+    "title": "La Suisse se défait de l'Italie et affrontera la Finlande en quarts",
+    "added_at": "2026-02-17T13:38:03.007Z"
+  },
+  {
+    "title": "Le mécanisme de sanction activé contre les supporters du Servette FC et du LS pour acte de vandalisme",
+    "added_at": "2026-02-17T13:39:59.610Z"
+  },
+  {
+    "title": "L'opposition russe en exil, un interlocuteur pour construire la paix?",
+    "added_at": "2026-02-17T13:58:52.904Z"
+  },
+  {
+    "title": "Coop a attiré plus de clients dans plus de magasins en 2025",
+    "added_at": "2026-02-17T14:00:47.241Z",
+    "removed_at": "2026-02-17T14:12:09.448Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "Une vaste enquête de la Comco sur des soupçons de cartels élargie à 20 entreprises dans le Jura",
+    "added_at": "2026-02-17T14:06:28.235Z"
+  },
+  {
+    "title": "L'hiver meurtrier de 1951, un électrochoc politique et scientifique pour la lutte contre les avalanches",
+    "added_at": "2026-02-17T14:12:09.448Z",
+    "removed_at": "2026-02-17T14:17:52.276Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "L'AVS et l'AI bouclent 2025 dans les chiffres noirs",
+    "added_at": "2026-02-17T14:12:09.448Z"
+  },
+  {
+    "title": "Coop a attiré davantage de clients dans ses magasins en 2025",
+    "added_at": "2026-02-17T14:12:09.448Z"
+  },
+  {
+    "title": "L'hiver meurtrier de 1951, un électrochoc pour la lutte contre les avalanches en Suisse",
+    "added_at": "2026-02-17T14:17:52.276Z"
+  },
+  {
+    "title": "Barbara célébrée dans une exposition à la Bibliothèque nationale de France",
+    "added_at": "2026-02-17T14:33:00.538Z"
+  },
+  {
+    "title": "Russes, Ukrainiens et Américains se retrouvent à Genève pour discuter d'une fin de la guerre",
+    "added_at": "2026-02-17T14:50:06.138Z"
+  },
+  {
+    "title": "Des premières victimes de Crans-Montana soignées à l'étranger vont être rapatriées",
+    "added_at": "2026-02-17T15:01:29.003Z"
   }
 ]
