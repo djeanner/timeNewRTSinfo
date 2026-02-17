@@ -63709,7 +63709,10 @@
   },
   {
     "title": "sciences:::Pendant les matchs de foot, les cœurs s’agitent et le stress s’envole, révèlent les montres connectées des supporters",
-    "added_at": "2026-02-16T10:08:32.517Z"
+    "added_at": "2026-02-16T10:08:32.517Z",
+    "removed_at": "2026-02-17T11:57:40.156Z",
+    "duration_minutes": 1549,
+    "duration_str": "1d 1h 49m"
   },
   {
     "title": "sport:::En direct, JO 2026 – Au slalom messieurs de Bormio, Atle Lie McGrath et Loïc Meillard arrivent en tête de la première manche",
@@ -63773,7 +63776,10 @@
   },
   {
     "title": "monde:::«L’incendie aurait pu être maîtrisé»: le régime iranien a-t-il mis le feu au bazar de Rasht?",
-    "added_at": "2026-02-16T12:04:49.861Z"
+    "added_at": "2026-02-16T12:04:49.861Z",
+    "removed_at": "2026-02-17T11:55:11.218Z",
+    "duration_minutes": 1430,
+    "duration_str": "23h 50m"
   },
   {
     "title": "sport:::En direct, JO 2026 – Suivez la seconde manche du slalom messieurs de Bormio",
@@ -63904,7 +63910,10 @@
   },
   {
     "title": "suisse:::Le trafic ferroviaire reste «fortement perturbé» entre Lausanne et Genève",
-    "added_at": "2026-02-17T05:17:54.143Z"
+    "added_at": "2026-02-17T05:17:54.143Z",
+    "removed_at": "2026-02-17T11:18:15.289Z",
+    "duration_minutes": 360,
+    "duration_str": "6h"
   },
   {
     "title": "economie:::La Chine est devenue prisonnière de son trop-plein industriel et de la prudence des ménages",
@@ -63926,7 +63935,10 @@
   },
   {
     "title": "sport:::En direct, JO 2026 – Après sa terrible chute, la descendeuse Lindsey Vonn est rentrée aux Etats-Unis",
-    "added_at": "2026-02-17T08:15:53.695Z"
+    "added_at": "2026-02-17T08:15:53.695Z",
+    "removed_at": "2026-02-17T13:27:06.792Z",
+    "duration_minutes": 311,
+    "duration_str": "5h 11m"
   },
   {
     "title": "suisse:::En Valais, le danger d’avalanche reste élevé",
@@ -63948,11 +63960,17 @@
   },
   {
     "title": "monde:::En direct, Iran – Les pourparlers entre Téhéran et Washington ont débuté à Genève",
-    "added_at": "2026-02-17T09:47:38.373Z"
+    "added_at": "2026-02-17T09:47:38.373Z",
+    "removed_at": "2026-02-17T13:09:42.784Z",
+    "duration_minutes": 202,
+    "duration_str": "3h 22m"
   },
   {
     "title": "monde:::Décès de Jesse Jackson, pasteur et militant",
-    "added_at": "2026-02-17T10:05:01.081Z"
+    "added_at": "2026-02-17T10:05:01.081Z",
+    "removed_at": "2026-02-17T12:54:35.381Z",
+    "duration_minutes": 169,
+    "duration_str": "2h 49m"
   },
   {
     "title": "suisse:::Thierry Dana, l'ancien banquier qui raconte Alzheimer par l'image et les objets",
@@ -63961,5 +63979,61 @@
   {
     "title": "sport:::Cortina d’Ampezzo, la reine des Dolomites où le bobsleigh veut régner en majesté",
     "added_at": "2026-02-17T10:47:28.428Z"
+  },
+  {
+    "title": "suisse:::Le trafic ferroviaire entre Lausanne et Genève reviendra à la normale mercredi avant l'aube",
+    "added_at": "2026-02-17T11:18:15.289Z"
+  },
+  {
+    "title": "economie:::L’AVS et l’AI sont dans les chiffres noirs, mais la 13e rente inquiète les gestionnaires",
+    "added_at": "2026-02-17T11:55:11.218Z",
+    "removed_at": "2026-02-17T12:22:22.669Z",
+    "duration_minutes": 27,
+    "duration_str": "27m"
+  },
+  {
+    "title": "culture:::Après Le Roi Angus, l’exil merveilleux de Casimir M, en concert à Genève",
+    "added_at": "2026-02-17T11:55:11.218Z"
+  },
+  {
+    "title": "economie:::Les besoins en financement supplémentaires de l'AVS l’AVS et de l'AI l’AI donnent du fil à retordre à Compenswiss",
+    "added_at": "2026-02-17T12:22:22.669Z",
+    "removed_at": "2026-02-17T12:24:51.602Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "economie:::Les besoins en financement supplémentaires de l'AVS et de l'AI donnent du fil à retordre à Compenswiss",
+    "added_at": "2026-02-17T12:24:51.602Z",
+    "removed_at": "2026-02-17T12:42:14.583Z",
+    "duration_minutes": 17,
+    "duration_str": "17m"
+  },
+  {
+    "title": "economie:::Les besoins en financement supplémentaires de l’AVS et de l’AI donnent du fil à retordre à Compenswiss",
+    "added_at": "2026-02-17T12:42:14.583Z"
+  },
+  {
+    "title": "monde:::Infatigable défenseur des droits civiques aux Etats-Unis, le pasteur Jesse Jackson est décédé",
+    "added_at": "2026-02-17T12:54:35.381Z"
+  },
+  {
+    "title": "monde:::En direct, Iran – Les pourparlers entre Téhéran et Washington à Genève sont terminés",
+    "added_at": "2026-02-17T13:09:42.784Z"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 – Les épreuves de ski acrobatiques sont reportées en raison de la neige",
+    "added_at": "2026-02-17T13:27:06.792Z",
+    "removed_at": "2026-02-17T13:54:25.721Z",
+    "duration_minutes": 27,
+    "duration_str": "27m"
+  },
+  {
+    "title": "sport:::L’avenir est à des JO de sports qui se pratiquent l’hiver, et plus seulement aux disciplines «de neige et de glace»",
+    "added_at": "2026-02-17T13:29:35.975Z"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 – L’équipe suisse de hockey part en quarts de finale",
+    "added_at": "2026-02-17T13:54:25.721Z"
   }
 ]
