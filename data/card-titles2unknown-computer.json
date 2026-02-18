@@ -742,7 +742,10 @@
   },
   {
     "title": "suisse:::Comment le tir d’un engin pyrotechnique a paralysé le trafic ferroviaire de toute la Suisse romande",
-    "added_at": "2026-02-16T19:11:51.712Z"
+    "added_at": "2026-02-16T19:11:51.712Z",
+    "removed_at": "2026-02-18T06:58:15.450Z",
+    "duration_minutes": 2146,
+    "duration_str": "1d 11h 46m"
   },
   {
     "title": "suisse:::Deniz Gyger Gaspoz, rectrice de l’UniNE: «Notre petite taille nous donne l’avantage de l’agilité»",
@@ -1029,7 +1032,10 @@
   },
   {
     "title": "suisse:::Avec des chutes de neige exceptionnelles, le Valais et les Alpes affrontent des avalanches spontanées un peu partout",
-    "added_at": "2026-02-17T17:05:22.058Z"
+    "added_at": "2026-02-17T17:05:22.058Z",
+    "removed_at": "2026-02-18T06:46:48.190Z",
+    "duration_minutes": 821,
+    "duration_str": "13h 41m"
   },
   {
     "title": "monde:::Entre Téhéran et Washington, on s’accorde sur des «principes directeurs» pour conclure un accord sur le nucléaire",
@@ -1047,7 +1053,10 @@
   },
   {
     "title": "monde:::Iran et Ukraine: les Etats-Unis veulent décréter la paix à Genève",
-    "added_at": "2026-02-17T18:29:21.615Z"
+    "added_at": "2026-02-17T18:29:21.615Z",
+    "removed_at": "2026-02-18T05:30:37.496Z",
+    "duration_minutes": 661,
+    "duration_str": "11h 1m"
   },
   {
     "title": "monde:::Après la mort d’un militant nationaliste français, quatre suspects identifiés",
@@ -1090,7 +1099,10 @@
   },
   {
     "title": "culture:::«J’essaie de trouver les angles humoristiques dans chaque événement de ma vie»: Rosa Bursztein, chroniqueuse du chaos sentimental",
-    "added_at": "2026-02-17T18:48:26.208Z"
+    "added_at": "2026-02-17T18:48:26.208Z",
+    "removed_at": "2026-02-18T07:15:24.922Z",
+    "duration_minutes": 746,
+    "duration_str": "12h 26m"
   },
   {
     "title": "monde:::Après la mort d’un militant nationaliste français, cinq suspects interpellés",
@@ -1159,14 +1171,51 @@
   },
   {
     "title": "economie:::Controverses au sujet de l’état de l’économie russe, à l’heure de négociations à Genève",
-    "added_at": "2026-02-18T05:15:07.296Z"
+    "added_at": "2026-02-18T05:15:07.296Z",
+    "removed_at": "2026-02-18T05:24:51.450Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Les discussions doivent reprendre à Genève après un premier jour de négociations «très tendues»",
-    "added_at": "2026-02-18T05:15:07.296Z"
+    "added_at": "2026-02-18T05:15:07.296Z",
+    "removed_at": "2026-02-18T07:19:17.844Z",
+    "duration_minutes": 124,
+    "duration_str": "2h 4m"
   },
   {
     "title": "monde:::Russie et Ukraine: l’épineuse question des concessions territoriales",
     "added_at": "2026-02-18T05:15:07.296Z"
+  },
+  {
+    "title": "economie:::La Russie est-elle en «zone de mort» économique ou en pleine réinvention? Les analyses se contredisent",
+    "added_at": "2026-02-18T05:24:51.450Z"
+  },
+  {
+    "title": "culture:::Javier Bardem, Tilda Swinton, Adèle Haenel… Plus de 80 acteurs et réalisateurs dénoncent le «silence» de la Berlinale sur Gaza",
+    "added_at": "2026-02-18T05:30:37.496Z",
+    "removed_at": "2026-02-18T05:42:05.678Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "monde:::Philadelphie: une juge ordonne à l’administration Trump de rétablir des informations sur l’esclavage mais la guerre culturelle se poursuit",
+    "added_at": "2026-02-18T05:42:05.678Z"
+  },
+  {
+    "title": "economie:::Quand des drones artisanaux changent la donne en matière de défense... et mettent en péril des équipements valant des millions",
+    "added_at": "2026-02-18T06:46:48.190Z"
+  },
+  {
+    "title": "monde:::«Cela, je ne l’ai pas dit à ma grand-mère. Elle ne s’en remettrait pas»: Haneen Harara raconte la guerre à Gaza",
+    "added_at": "2026-02-18T06:58:15.450Z"
+  },
+  {
+    "title": "suisse:::Richard Koller, le militant qui veut graver le cash dans la Constitution",
+    "added_at": "2026-02-18T07:15:24.922Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky propose une rencontre avec Vladimir Poutine à Genève",
+    "added_at": "2026-02-18T07:19:17.844Z"
   }
 ]

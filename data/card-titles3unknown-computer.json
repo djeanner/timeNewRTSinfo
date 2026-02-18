@@ -2193,7 +2193,10 @@
   },
   {
     "title": "Rescuers Race to Find 10 Missing Skiers After Avalanche Near Lake Tahoe",
-    "added_at": "2026-02-18T03:05:12.769Z"
+    "added_at": "2026-02-18T03:05:12.769Z",
+    "removed_at": "2026-02-18T05:59:14.389Z",
+    "duration_minutes": 174,
+    "duration_str": "2h 54m"
   },
   {
     "title": "Boneless Wings Are Still Wings, Judge Rules",
@@ -2221,10 +2224,35 @@
   },
   {
     "title": "Alberto Tomba Was an ’80s Icon. The Olympics Have Brought Him Back.",
-    "added_at": "2026-02-18T05:03:40.173Z"
+    "added_at": "2026-02-18T05:03:40.173Z",
+    "removed_at": "2026-02-18T07:36:32.467Z",
+    "duration_minutes": 152,
+    "duration_str": "2h 32m"
   },
   {
     "title": "Peeking Behind the Scenes of ‘Wallace and Gromit’",
     "added_at": "2026-02-18T05:03:40.173Z"
+  },
+  {
+    "title": "Crews Rescue 6 of 16 Skiers Caught in Avalanche Near Lake Tahoe",
+    "added_at": "2026-02-18T05:59:14.389Z",
+    "removed_at": "2026-02-18T06:16:21.285Z",
+    "duration_minutes": 17,
+    "duration_str": "17m"
+  },
+  {
+    "title": "6 Skiers Rescued After Lake Tahoe Avalanche as Search for 10 Others Continues",
+    "added_at": "2026-02-18T06:16:21.285Z",
+    "removed_at": "2026-02-18T07:13:34.184Z",
+    "duration_minutes": 57,
+    "duration_str": "57m"
+  },
+  {
+    "title": "6 Skiers Rescued After Lake Tahoe Avalanche as Search for 9 Others Continues",
+    "added_at": "2026-02-18T07:13:34.184Z"
+  },
+  {
+    "title": "Alberto Tomba Was an Icon. The Olympics Have Brought Him Back.",
+    "added_at": "2026-02-18T07:36:32.467Z"
   }
 ]
