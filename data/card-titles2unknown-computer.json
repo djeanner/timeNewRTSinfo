@@ -1141,11 +1141,17 @@
   },
   {
     "title": "suisse:::«L’impunité qui règne parmi les fans de football est insupportable»: Vaud et Genève en colère contre la Swiss Football League",
-    "added_at": "2026-02-17T21:57:35.549Z"
+    "added_at": "2026-02-17T21:57:35.549Z",
+    "removed_at": "2026-02-18T10:40:20.903Z",
+    "duration_minutes": 762,
+    "duration_str": "12h 42m"
   },
   {
     "title": "economie:::Rachat disputé dans l’audiovisuel: Warner se donne sept jours pour analyser l’offre de Paramount",
-    "added_at": "2026-02-18T00:11:21.269Z"
+    "added_at": "2026-02-18T00:11:21.269Z",
+    "removed_at": "2026-02-18T11:26:16.566Z",
+    "duration_minutes": 674,
+    "duration_str": "11h 14m"
   },
   {
     "title": "sciences:::«Le virus s’est complètement propagé»: la grippe aviaire menace la faune de l’Antarctique",
@@ -1170,7 +1176,10 @@
   },
   {
     "title": "suisse:::Le trafic ferroviaire de retour à la normale entre Lausanne et Genève",
-    "added_at": "2026-02-18T05:15:07.296Z"
+    "added_at": "2026-02-18T05:15:07.296Z",
+    "removed_at": "2026-02-18T11:22:22.939Z",
+    "duration_minutes": 367,
+    "duration_str": "6h 7m"
   },
   {
     "title": "economie:::Controverses au sujet de l’état de l’économie russe, à l’heure de négociations à Genève",
@@ -1206,10 +1215,7 @@
   },
   {
     "title": "monde:::Philadelphie: une juge ordonne à l’administration Trump de rétablir des informations sur l’esclavage mais la guerre culturelle se poursuit",
-    "added_at": "2026-02-18T05:42:05.678Z",
-    "removed_at": "2026-02-18T09:46:43.284Z",
-    "duration_minutes": 244,
-    "duration_str": "4h 4m"
+    "added_at": "2026-02-18T05:42:05.678Z"
   },
   {
     "title": "economie:::Quand des drones artisanaux changent la donne en matière de défense... et mettent en péril des équipements valant des millions",
@@ -1257,7 +1263,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Les pourparlers ont repris à l'hôtel Intercontinental à Genève",
-    "added_at": "2026-02-18T09:14:11.606Z"
+    "added_at": "2026-02-18T09:14:11.606Z",
+    "removed_at": "2026-02-18T10:19:18.490Z",
+    "duration_minutes": 65,
+    "duration_str": "1h 5m"
   },
   {
     "title": "sport:::En direct, JO 2026 – Suivez avec nous le slalom féminin à Cortina: l'Américaine Mikaela Shiffrin en tête de la première manche, Camille Rast et Wendy Holdener placées",
@@ -1268,11 +1277,17 @@
   },
   {
     "title": "sport:::En direct, JO 2026 – Suivez le slalom féminin à Cortina: l'Américaine Mikaela Shiffrin en tête, Camille Rast et Wendy Holdener placées",
-    "added_at": "2026-02-18T09:44:46.556Z"
+    "added_at": "2026-02-18T09:44:46.556Z",
+    "removed_at": "2026-02-18T11:26:16.566Z",
+    "duration_minutes": 101,
+    "duration_str": "1h 41m"
   },
   {
     "title": "culture:::Dans «Les Habitantes», Pauline Peyrade questionne notre façon d’être au monde",
-    "added_at": "2026-02-18T09:46:43.284Z"
+    "added_at": "2026-02-18T09:46:43.284Z",
+    "removed_at": "2026-02-18T11:05:10.844Z",
+    "duration_minutes": 78,
+    "duration_str": "1h 18m"
   },
   {
     "title": "sport:::La «jeu-vidéo-isation» du sport à la télévision",
@@ -1284,5 +1299,35 @@
   {
     "title": "sport:::Quand les jeux vidéo influencent les retransmissions sportives à la télévision",
     "added_at": "2026-02-18T10:01:58.869Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – La seconde journée de pourparlers à Genève entre Russes et Ukrainiens tourne court",
+    "added_at": "2026-02-18T10:19:18.490Z",
+    "removed_at": "2026-02-18T12:29:18.502Z",
+    "duration_minutes": 130,
+    "duration_str": "2h 10m"
+  },
+  {
+    "title": "suisse:::A Genève, la justice confirme l’élection du Conseil municipal de Vernier",
+    "added_at": "2026-02-18T10:40:20.903Z"
+  },
+  {
+    "title": "monde:::La France Insoumise (et toute la gauche française) percutée par la mort de l’identitaire Quentin Deranque",
+    "added_at": "2026-02-18T11:05:10.844Z",
+    "removed_at": "2026-02-18T12:08:13.685Z",
+    "duration_minutes": 63,
+    "duration_str": "1h 3m"
+  },
+  {
+    "title": "economie:::Nestlé sous haute tension: entre scandales et restructurations, le nouveau directeur général Philipp Navratil est attendu au tournant",
+    "added_at": "2026-02-18T11:22:22.939Z"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 – Une onzième médaille pour la Suisse avec le relais du ski de fond féminin, en attendant la seconde manche du slalom dames",
+    "added_at": "2026-02-18T11:26:16.566Z"
+  },
+  {
+    "title": "monde:::La France insoumise (et toute la gauche française) percutée par la mort de l’identitaire Quentin Deranque",
+    "added_at": "2026-02-18T12:08:13.685Z"
   }
 ]
