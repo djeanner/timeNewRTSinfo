@@ -432,7 +432,10 @@
   },
   {
     "title": "sport:::Pourquoi il est naturel de se demander si Marco Odermatt, triple médaillé, a réussi ses Jeux olympiques",
-    "added_at": "2026-02-14T22:02:25.214Z"
+    "added_at": "2026-02-14T22:02:25.214Z",
+    "removed_at": "2026-02-18T14:22:25.346Z",
+    "duration_minutes": 5300,
+    "duration_str": "3d 16h 20m"
   },
   {
     "title": "monde:::Guerre en Ukraine – L’opposant russe Alexeï Navalny, mort en 2024, aurait été empoisonné par Moscou",
@@ -669,7 +672,10 @@
   },
   {
     "title": "sport:::A Tesero, Johannes Høsflot Klæbo entre dans la légende en toute décontraction",
-    "added_at": "2026-02-16T13:01:19.092Z"
+    "added_at": "2026-02-16T13:01:19.092Z",
+    "removed_at": "2026-02-18T14:22:25.346Z",
+    "duration_minutes": 2961,
+    "duration_str": "2d 1h 21m"
   },
   {
     "title": "sport:::En direct, JO 2026 – Le Zougois Matthias Iten prend les commandes de la seconde manche du slalom messieurs à Bormio",
@@ -1102,7 +1108,10 @@
   },
   {
     "title": "culture:::«J’essaie de trouver les angles humoristiques dans chaque événement de ma vie»: Rosa Bursztein, chroniqueuse du chaos sentimental",
-    "added_at": "2026-02-17T18:48:26.208Z"
+    "added_at": "2026-02-17T18:48:26.208Z",
+    "removed_at": "2026-02-18T12:52:24.604Z",
+    "duration_minutes": 1083,
+    "duration_str": "18h 3m"
   },
   {
     "title": "monde:::Après la mort d’un militant nationaliste français, cinq suspects interpellés",
@@ -1219,15 +1228,24 @@
   },
   {
     "title": "economie:::Quand des drones artisanaux changent la donne en matière de défense... et mettent en péril des équipements valant des millions",
-    "added_at": "2026-02-18T06:46:48.190Z"
+    "added_at": "2026-02-18T06:46:48.190Z",
+    "removed_at": "2026-02-18T14:07:10.018Z",
+    "duration_minutes": 440,
+    "duration_str": "7h 20m"
   },
   {
     "title": "monde:::«Cela, je ne l’ai pas dit à ma grand-mère. Elle ne s’en remettrait pas»: Haneen Harara raconte la guerre à Gaza",
-    "added_at": "2026-02-18T06:58:15.450Z"
+    "added_at": "2026-02-18T06:58:15.450Z",
+    "removed_at": "2026-02-18T13:32:45.546Z",
+    "duration_minutes": 394,
+    "duration_str": "6h 34m"
   },
   {
     "title": "suisse:::Richard Koller, le militant qui veut graver le cash dans la Constitution",
-    "added_at": "2026-02-18T07:15:24.922Z"
+    "added_at": "2026-02-18T07:15:24.922Z",
+    "removed_at": "2026-02-18T14:24:22.133Z",
+    "duration_minutes": 428,
+    "duration_str": "7h 8m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky propose une rencontre avec Vladimir Poutine à Genève",
@@ -1324,10 +1342,37 @@
   },
   {
     "title": "sport:::En direct, JO 2026 – Une onzième médaille pour la Suisse avec le relais du ski de fond féminin, en attendant la seconde manche du slalom dames",
-    "added_at": "2026-02-18T11:26:16.566Z"
+    "added_at": "2026-02-18T11:26:16.566Z",
+    "removed_at": "2026-02-18T13:36:33.314Z",
+    "duration_minutes": 130,
+    "duration_str": "2h 10m"
   },
   {
     "title": "monde:::La France insoumise (et toute la gauche française) percutée par la mort de l’identitaire Quentin Deranque",
     "added_at": "2026-02-18T12:08:13.685Z"
+  },
+  {
+    "title": "culture:::Jean-Pascal Zadi et Raphaël Quenard en agents de basket dans «Le Rêve américain»: quand une vraie amitié sert la fiction",
+    "added_at": "2026-02-18T12:52:24.604Z"
+  },
+  {
+    "title": "economie:::Le livreur de repas Smood met la clé sous la porte, plus de 400 collaborateurs seront licenciés",
+    "added_at": "2026-02-18T13:32:45.546Z"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 – En argent en slalom, Camille Rast apporte une douzième médaille à la Suisse",
+    "added_at": "2026-02-18T13:36:33.314Z"
+  },
+  {
+    "title": "suisse:::Des cas de racisme confirmés au sein du département de gériatrie des Hôpitaux universitaires de Genève",
+    "added_at": "2026-02-18T14:07:10.018Z"
+  },
+  {
+    "title": "suisse:::Encore une fois, les comptes de la Confédération se portent mieux que prévu",
+    "added_at": "2026-02-18T14:24:22.133Z"
+  },
+  {
+    "title": "suisse:::Comment vont les finances de la Confédération? Au parlement, deux visions irréconciliables s’affrontent",
+    "added_at": "2026-02-18T14:24:22.133Z"
   }
 ]
