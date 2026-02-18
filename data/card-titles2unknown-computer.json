@@ -665,7 +665,10 @@
   },
   {
     "title": "sport:::A Cortina, une Camille Rast résignée face à une «piste sans vrai rythme de géant»",
-    "added_at": "2026-02-16T13:01:19.092Z"
+    "added_at": "2026-02-16T13:01:19.092Z",
+    "removed_at": "2026-02-18T02:05:51.300Z",
+    "duration_minutes": 2224,
+    "duration_str": "1d 13h 4m"
   },
   {
     "title": "sport:::A Tesero, Johannes Høsflot Klæbo entre dans la légende en toute décontraction",
@@ -1122,5 +1125,13 @@
   {
     "title": "economie:::Rachat disputé dans l’audiovisuel: Warner se donne sept jours pour analyser l’offre de Paramount",
     "added_at": "2026-02-18T00:11:21.269Z"
+  },
+  {
+    "title": "sciences:::«Le virus s’est complètement propagé»: la grippe aviaire menace la faune de l’Antarctique",
+    "added_at": "2026-02-18T02:00:07.730Z"
+  },
+  {
+    "title": "monde:::Dix skieurs portés disparus en Californie dans une avalanche",
+    "added_at": "2026-02-18T02:11:34.859Z"
   }
 ]
