@@ -1537,7 +1537,10 @@
   },
   {
     "title": "Un fonctionnaire du dossier Constellation déjà mis en cause dans une autre affaire de négligence",
-    "added_at": "2026-02-16T13:01:19.048Z"
+    "added_at": "2026-02-16T13:01:19.048Z",
+    "removed_at": "2026-02-18T18:02:26.949Z",
+    "duration_minutes": 3181,
+    "duration_str": "2d 5h 1m"
   },
   {
     "title": "En Hongrie, Viktor Orban fragilisé face à la poussée de son rival conservateur Péter Magyar",
@@ -2068,7 +2071,10 @@
   },
   {
     "title": "Des \"actes de vandalisme\" perturbent fortement le trafic ferroviaire entre Lausanne et Renens: interview de David Fattebert",
-    "added_at": "2026-02-16T18:28:20.411Z"
+    "added_at": "2026-02-16T18:28:20.411Z",
+    "removed_at": "2026-02-18T19:03:30.720Z",
+    "duration_minutes": 2915,
+    "duration_str": "2d 35m"
   },
   {
     "title": "L'acteur Robert Duvall, avocat dans \"Le Parrain\" et général dans \"Apocalypse Now\", est décédé",
@@ -2101,9 +2107,9 @@
   {
     "title": "L'Ukraine a repris 200 km2 à la Russie dans une contre-offensive d'ampleur inédite depuis 2023",
     "added_at": "2026-02-16T20:16:18.210Z",
-    "removed_at": "2026-02-18T15:23:33.742Z",
-    "duration_minutes": 2587,
-    "duration_str": "1d 19h 7m"
+    "removed_at": "2026-02-18T19:22:40.695Z",
+    "duration_minutes": 2826,
+    "duration_str": "1d 23h 6m"
   },
   {
     "title": "Haut Val Ferret : des évacuations ordonnées en raison d’un risque accru d’avalanche",
@@ -2270,7 +2276,10 @@
   },
   {
     "title": "Pascal de Crousaz: \"Si les négociations avec l'Iran échouent, on risque de déboucher sur une nouvelle guerre\"",
-    "added_at": "2026-02-17T09:27:27.747Z"
+    "added_at": "2026-02-17T09:27:27.747Z",
+    "removed_at": "2026-02-18T18:15:48.633Z",
+    "duration_minutes": 1968,
+    "duration_str": "1d 8h 48m"
   },
   {
     "title": "Le pasteur noir et militant américain Jesse Jackson est décédé à 84 ans",
@@ -2722,7 +2731,10 @@
   },
   {
     "title": "La patronne du Constellation a ordonné la fermeture des portes d'accès au bar, assure un auxiliaire de sécurité",
-    "added_at": "2026-02-18T16:26:38.934Z"
+    "added_at": "2026-02-18T16:26:38.934Z",
+    "removed_at": "2026-02-18T17:49:01.851Z",
+    "duration_minutes": 82,
+    "duration_str": "1h 22m"
   },
   {
     "title": "En Syrie, Soueïda affirme son autonomie tandis qu’Israël renforce son rôle dans la région",
@@ -2731,5 +2743,17 @@
   {
     "title": "Onze personnes condamnées après les tags polémiques des Brandons de Payerne",
     "added_at": "2026-02-18T16:59:17.622Z"
+  },
+  {
+    "title": "La patronne du Constellation a ordonné la fermeture des accès au bar, assure un auxiliaire de sécurité",
+    "added_at": "2026-02-18T17:49:01.851Z"
+  },
+  {
+    "title": "Le bâtiment vétuste du centre éducatif de Pramont sera probablement reconstruit",
+    "added_at": "2026-02-18T18:15:48.633Z"
+  },
+  {
+    "title": "Les CFF devraient-ils supprimer les trains de supporters? Interviews de Hanny Weissmüller et Vincent Steinmann",
+    "added_at": "2026-02-18T18:27:15.574Z"
   }
 ]
