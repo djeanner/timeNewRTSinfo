@@ -1950,7 +1950,10 @@
   },
   {
     "title": "Des vêtements pour prématurés, du soda artisanal et les nouvelles stars du zoo",
-    "added_at": "2026-02-16T15:34:23.882Z"
+    "added_at": "2026-02-16T15:34:23.882Z",
+    "removed_at": "2026-02-18T04:21:39.261Z",
+    "duration_minutes": 2207,
+    "duration_str": "1d 12h 47m"
   },
   {
     "title": "Une commissaire de l'UE se rendra à la réunion inaugurale du \"Conseil de la paix\" de Donald Trump",
@@ -2374,7 +2377,10 @@
   },
   {
     "title": "Face au danger d’avalanche, plusieurs stations valaisannes ferment leur domaine",
-    "added_at": "2026-02-17T20:22:01.674Z"
+    "added_at": "2026-02-17T20:22:01.674Z",
+    "removed_at": "2026-02-18T05:17:01.621Z",
+    "duration_minutes": 534,
+    "duration_str": "8h 54m"
   },
   {
     "title": "Les négociations à Genève \"sont un beau succès pour la diplomatie suisse\", affirme Micheline Calmy Rey",
@@ -2405,5 +2411,13 @@
   {
     "title": "Fin des perturbations ferroviaires entre Lausanne et Renens",
     "added_at": "2026-02-18T02:19:14.557Z"
+  },
+  {
+    "title": "Quatre-vingt-cinq Etats dénoncent à l'ONU la volonté d'Israël de s'étendre en Cisjordanie",
+    "added_at": "2026-02-18T04:21:39.261Z"
+  },
+  {
+    "title": "Les bovins suisses ne pourront pas paître dans les alpages français à cause du risque de dermatose nodulaire: interview d'Heloïse Candolfi",
+    "added_at": "2026-02-18T05:17:01.621Z"
   }
 ]

@@ -1022,7 +1022,10 @@
   },
   {
     "title": "suisse:::Normes incendie: pas de risque majeur à Neuchâtel, mais des améliorations sont nécessaires",
-    "added_at": "2026-02-17T16:57:43.259Z"
+    "added_at": "2026-02-17T16:57:43.259Z",
+    "removed_at": "2026-02-18T05:15:07.296Z",
+    "duration_minutes": 737,
+    "duration_str": "12h 17m"
   },
   {
     "title": "suisse:::Avec des chutes de neige exceptionnelles, le Valais et les Alpes affrontent des avalanches spontanées un peu partout",
@@ -1055,7 +1058,10 @@
   },
   {
     "title": "suisse:::Redevance: la RTS sous pression après les commentaires sur un bobeur israélien",
-    "added_at": "2026-02-17T18:29:21.615Z"
+    "added_at": "2026-02-17T18:29:21.615Z",
+    "removed_at": "2026-02-18T05:15:07.296Z",
+    "duration_minutes": 645,
+    "duration_str": "10h 45m"
   },
   {
     "title": "monde:::Après la mort d’un militant nationaliste français, quatre suspects interpellés",
@@ -1128,10 +1134,39 @@
   },
   {
     "title": "sciences:::«Le virus s’est complètement propagé»: la grippe aviaire menace la faune de l’Antarctique",
-    "added_at": "2026-02-18T02:00:07.730Z"
+    "added_at": "2026-02-18T02:00:07.730Z",
+    "removed_at": "2026-02-18T05:15:07.296Z",
+    "duration_minutes": 194,
+    "duration_str": "3h 14m"
   },
   {
     "title": "monde:::Dix skieurs portés disparus en Californie dans une avalanche",
-    "added_at": "2026-02-18T02:11:34.859Z"
+    "added_at": "2026-02-18T02:11:34.859Z",
+    "removed_at": "2026-02-18T05:15:07.296Z",
+    "duration_minutes": 183,
+    "duration_str": "3h 3m"
+  },
+  {
+    "title": "monde:::Dix skieurs portés disparus en Californie dans une avalanche, six autres piégés dans la montagne dans l'attente des secours",
+    "added_at": "2026-02-18T04:10:09.678Z",
+    "removed_at": "2026-02-18T04:27:23.673Z",
+    "duration_minutes": 17,
+    "duration_str": "17m"
+  },
+  {
+    "title": "suisse:::Le trafic ferroviaire de retour à la normale entre Lausanne et Genève",
+    "added_at": "2026-02-18T05:15:07.296Z"
+  },
+  {
+    "title": "economie:::Controverses au sujet de l’état de l’économie russe, à l’heure de négociations à Genève",
+    "added_at": "2026-02-18T05:15:07.296Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Les discussions doivent reprendre à Genève après un premier jour de négociations «très tendues»",
+    "added_at": "2026-02-18T05:15:07.296Z"
+  },
+  {
+    "title": "monde:::Russie et Ukraine: l’épineuse question des concessions territoriales",
+    "added_at": "2026-02-18T05:15:07.296Z"
   }
 ]
