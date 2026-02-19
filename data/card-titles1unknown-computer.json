@@ -986,7 +986,10 @@
   },
   {
     "title": "Votations fédérales du 8 mars: participez à notre deuxième sondage",
-    "added_at": "2026-02-14T22:02:25.170Z"
+    "added_at": "2026-02-14T22:02:25.170Z",
+    "removed_at": "2026-02-19T09:29:59.502Z",
+    "duration_minutes": 6447,
+    "duration_str": "4d 11h 27m"
   },
   {
     "title": "Le dossier des votations fédérales du 8 mars",
@@ -1117,10 +1120,7 @@
   },
   {
     "title": "La colère des familles des victimes de l'incendie de Crans-Montana: interview de Laetitia Brodard et Anne-Catherine Salberg",
-    "added_at": "2026-02-14T22:02:25.170Z",
-    "removed_at": "2026-02-18T06:04:57.023Z",
-    "duration_minutes": 4802,
-    "duration_str": "3d 8h 2m"
+    "added_at": "2026-02-14T22:02:25.170Z"
   },
   {
     "title": "Le pédocriminel Jacques Leveugle aurait sévi en Suisse: interview de Giulia Cinaglia",
@@ -2460,11 +2460,17 @@
   },
   {
     "title": "Décès de Frederick Wiseman, le documentariste qui filmait le réel américain sans fard",
-    "added_at": "2026-02-17T15:56:51.198Z"
+    "added_at": "2026-02-17T15:56:51.198Z",
+    "removed_at": "2026-02-19T08:32:50.601Z",
+    "duration_minutes": 2435,
+    "duration_str": "1d 16h 35m"
   },
   {
     "title": "Le Zurich Openair n'aura pas lieu cette année après le report d'autres festivals internationaux",
-    "added_at": "2026-02-17T16:13:57.648Z"
+    "added_at": "2026-02-17T16:13:57.648Z",
+    "removed_at": "2026-02-19T08:40:23.940Z",
+    "duration_minutes": 2426,
+    "duration_str": "1d 16h 26m"
   },
   {
     "title": "Une 6e victoire en 6 matches pour les Suisses, succès important des Suissesses",
@@ -2479,7 +2485,10 @@
   },
   {
     "title": "Warner Bros Discovery accorde sept jours de négociations à Paramount pour contrer l'offre de rachat de Netflix",
-    "added_at": "2026-02-17T16:59:39.992Z"
+    "added_at": "2026-02-17T16:59:39.992Z",
+    "removed_at": "2026-02-19T09:56:38.774Z",
+    "duration_minutes": 2456,
+    "duration_str": "1d 16h 56m"
   },
   {
     "title": "Podcast - C’est quoi le Ramadan ?",
@@ -2490,11 +2499,17 @@
   },
   {
     "title": "Podcast - C'est quoi le Ramadan?",
-    "added_at": "2026-02-17T18:42:42.268Z"
+    "added_at": "2026-02-17T18:42:42.268Z",
+    "removed_at": "2026-02-19T09:14:43.145Z",
+    "duration_minutes": 2312,
+    "duration_str": "1d 14h 32m"
   },
   {
     "title": "La population neuchâteloise votera sur l'inscription du droit des aînés dans la Constitution",
-    "added_at": "2026-02-17T18:59:51.594Z"
+    "added_at": "2026-02-17T18:59:51.594Z",
+    "removed_at": "2026-02-19T08:59:29.956Z",
+    "duration_minutes": 2279,
+    "duration_str": "1d 13h 59m"
   },
   {
     "title": "Des ultras sont responsables de la paralysie en gare de Lausanne",
@@ -2516,11 +2531,17 @@
   },
   {
     "title": "Une diplomate proche de Macron va succéder à Jack Lang à la tête de l'Institut du monde arabe",
-    "added_at": "2026-02-17T19:51:29.976Z"
+    "added_at": "2026-02-17T19:51:29.976Z",
+    "removed_at": "2026-02-19T08:44:16.489Z",
+    "duration_minutes": 2212,
+    "duration_str": "1d 12h 52m"
   },
   {
     "title": "La ligne Lausanne-Renens doit reprendre mercredi sans perturbation",
-    "added_at": "2026-02-17T19:53:21.207Z"
+    "added_at": "2026-02-17T19:53:21.207Z",
+    "removed_at": "2026-02-19T08:30:54.116Z",
+    "duration_minutes": 2197,
+    "duration_str": "1d 12h 37m"
   },
   {
     "title": "Les bovins suisses interdits de paître en France pour éviter la dermatose nodulaire",
@@ -2872,10 +2893,52 @@
   },
   {
     "title": "Gisèle Pelicot co-écrit un livre pour se réapproprier son histoire",
-    "added_at": "2026-02-19T06:03:59.917Z"
+    "added_at": "2026-02-19T06:03:59.917Z",
+    "removed_at": "2026-02-19T09:24:17.430Z",
+    "duration_minutes": 200,
+    "duration_str": "3h 20m"
   },
   {
     "title": "L'Argentine paralysée par une grève générale contre son président Javier Milei",
     "added_at": "2026-02-19T07:14:28.649Z"
+  },
+  {
+    "title": "A New Dehli, Narendra Modi et Emmanuel Macron appellent à un accès universel à l'IA",
+    "added_at": "2026-02-19T08:30:54.116Z",
+    "removed_at": "2026-02-19T09:12:52.397Z",
+    "duration_minutes": 41,
+    "duration_str": "41m"
+  },
+  {
+    "title": "Les soins intensifs pédiatriques du CHUV se réorganisent pour accueillir les grands brûlés de Crans-Montana",
+    "added_at": "2026-02-19T08:32:50.601Z"
+  },
+  {
+    "title": "A Bâle, Herbert Fritsch met en scène un exceptionnel \"Macbeth\" de Verdi",
+    "added_at": "2026-02-19T08:40:23.940Z"
+  },
+  {
+    "title": "La Suisse participera comme observatrice à la réunion inaugurale du \"Conseil de paix\" de Donald Trump",
+    "added_at": "2026-02-19T08:44:16.489Z"
+  },
+  {
+    "title": "Nestlé enregistre un recul de ses recettes et de sa rentabilité en 2025",
+    "added_at": "2026-02-19T08:59:29.956Z"
+  },
+  {
+    "title": "A New Delhi, Narendra Modi et Emmanuel Macron appellent à un accès universel à l'IA",
+    "added_at": "2026-02-19T09:12:52.397Z"
+  },
+  {
+    "title": "Selon des experts indépendants, une campagne génocidaire a été menée à El Facher au Soudan",
+    "added_at": "2026-02-19T09:14:43.145Z"
+  },
+  {
+    "title": "Prison à perpétuité pour l'ex-président sud-coréen Yoon Suk Yeol après son coup de force raté de 2024",
+    "added_at": "2026-02-19T09:20:24.871Z"
+  },
+  {
+    "title": "U2 fait son grand retour avec \"Days of Ash\", cinq chansons évoquant l'Ukraine ou l'ICE",
+    "added_at": "2026-02-19T09:56:38.774Z"
   }
 ]

@@ -2887,7 +2887,10 @@
   },
   {
     "title": "8 Skiers Are Dead in Avalanche Near Lake Tahoe",
-    "added_at": "2026-02-19T00:22:04.777Z"
+    "added_at": "2026-02-19T00:22:04.777Z",
+    "removed_at": "2026-02-19T07:48:59.817Z",
+    "duration_minutes": 446,
+    "duration_str": "7h 26m"
   },
   {
     "title": "Satellite Feature on iPhone Allowed Skiers to Seek Help After Avalanche",
@@ -2980,5 +2983,9 @@
   {
     "title": "Late Night: Stephen Colbert Sizes Up Kennedy’s Workout With Kid Rock",
     "added_at": "2026-02-19T07:27:50.787Z"
+  },
+  {
+    "title": "After Avalanche Warnings, a Sierra Nevada Tragedy",
+    "added_at": "2026-02-19T07:48:59.817Z"
   }
 ]
