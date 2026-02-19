@@ -4301,7 +4301,10 @@
   },
   {
     "title": "Dog joins a race during Olympics",
-    "added_at": "2026-02-18T17:05:02.252Z"
+    "added_at": "2026-02-18T17:05:02.252Z",
+    "removed_at": "2026-02-19T17:56:01.882Z",
+    "duration_minutes": 1490,
+    "duration_str": "1d 50m"
   },
   {
     "title": "YouTube’s first ever video upload acquired by London museum",
@@ -4309,11 +4312,17 @@
   },
   {
     "title": "Plains megafire burns a Chicago-sized area",
-    "added_at": "2026-02-18T17:39:31.848Z"
+    "added_at": "2026-02-18T17:39:31.848Z",
+    "removed_at": "2026-02-19T18:32:21.094Z",
+    "duration_minutes": 1492,
+    "duration_str": "1d 52m"
   },
   {
     "title": "The science behind the ‘potato bed’",
-    "added_at": "2026-02-18T17:43:18.425Z"
+    "added_at": "2026-02-18T17:43:18.425Z",
+    "removed_at": "2026-02-19T19:06:39.825Z",
+    "duration_minutes": 1523,
+    "duration_str": "1d 1h 23m"
   },
   {
     "title": "Sidney Crosby ruled out for rest of game as Canada and Czech Republic level at 2 in third period",
@@ -4394,7 +4403,10 @@
   },
   {
     "title": "Avalanche slams into train in Switzerland",
-    "added_at": "2026-02-18T19:20:44.633Z"
+    "added_at": "2026-02-18T19:20:44.633Z",
+    "removed_at": "2026-02-19T19:14:30.290Z",
+    "duration_minutes": 1433,
+    "duration_str": "23h 53m"
   },
   {
     "title": "8 backcountry skiers killed after California avalanche; 6 survivors have been rescued",
@@ -4667,7 +4679,10 @@
   },
   {
     "title": "Bill Gates cancels AI summit keynote address amid fresh scrutiny over Epstein links",
-    "added_at": "2026-02-19T06:02:03.805Z"
+    "added_at": "2026-02-19T06:02:03.805Z",
+    "removed_at": "2026-02-19T19:12:32.728Z",
+    "duration_minutes": 790,
+    "duration_str": "13h 10m"
   },
   {
     "title": "North Korea shows Kim Jong Un at the wheel of a mobile rocket launcher",
@@ -4708,7 +4723,10 @@
   },
   {
     "title": "Why Trump might or might not order a US strike on Iran",
-    "added_at": "2026-02-19T06:49:46.596Z"
+    "added_at": "2026-02-19T06:49:46.596Z",
+    "removed_at": "2026-02-19T19:12:32.728Z",
+    "duration_minutes": 742,
+    "duration_str": "12h 22m"
   },
   {
     "title": "Former South Korean President Yoon Suk Yeol found guilty of leading an insurrection",
@@ -5031,7 +5049,10 @@
   },
   {
     "title": "Bolton: No decision is final",
-    "added_at": "2026-02-19T13:01:49.789Z"
+    "added_at": "2026-02-19T13:01:49.789Z",
+    "removed_at": "2026-02-19T19:12:32.728Z",
+    "duration_minutes": 370,
+    "duration_str": "6h 10m"
   },
   {
     "title": "CNN reads statement from King Charles III",
@@ -5208,10 +5229,45 @@
   },
   {
     "title": "Jordan Stolz gets silver in 1500m, China’s Ning Zhongyan wins gold in big upset",
-    "added_at": "2026-02-19T16:56:47.621Z"
+    "added_at": "2026-02-19T16:56:47.621Z",
+    "removed_at": "2026-02-19T18:13:13.796Z",
+    "duration_minutes": 76,
+    "duration_str": "1h 16m"
   },
   {
     "title": "Matthew McConaughey’s advice on how to compete with AI",
     "added_at": "2026-02-19T17:02:31.212Z"
+  },
+  {
+    "title": "Is the US close to war with Iran?",
+    "added_at": "2026-02-19T17:56:01.882Z"
+  },
+  {
+    "title": "American women go for gold in figure skating and against Canada in hockey final",
+    "added_at": "2026-02-19T18:13:13.796Z"
+  },
+  {
+    "title": "Awkward moment between AI CEOs",
+    "added_at": "2026-02-19T18:32:21.094Z"
+  },
+  {
+    "title": "Timeline of former prince Andrew’s arrest",
+    "added_at": "2026-02-19T19:06:39.825Z"
+  },
+  {
+    "title": "Trump warns Iran ‘bad things will happen’ if it doesn’t make a deal with U.S.",
+    "added_at": "2026-02-19T19:12:32.728Z"
+  },
+  {
+    "title": "Trump’s dilemma on Iran",
+    "added_at": "2026-02-19T19:12:32.728Z"
+  },
+  {
+    "title": "Trump’s team said the Epstein files didn’t warrant new investigations. Andrew’s arrest further disproves that.",
+    "added_at": "2026-02-19T19:12:32.728Z"
+  },
+  {
+    "title": "King Charles statement on his brother’s arrest",
+    "added_at": "2026-02-19T19:14:30.290Z"
   }
 ]
