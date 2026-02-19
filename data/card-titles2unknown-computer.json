@@ -1419,7 +1419,10 @@
   },
   {
     "title": "monde:::A Genève, la brusque rupture des négociations entre l’Ukraine et la Russie prend tout le monde de court",
-    "added_at": "2026-02-18T15:00:42.125Z"
+    "added_at": "2026-02-18T15:00:42.125Z",
+    "removed_at": "2026-02-19T11:37:47.593Z",
+    "duration_minutes": 1237,
+    "duration_str": "20h 37m"
   },
   {
     "title": "economie:::Christine Lagarde n’a pas besoin du WEF. Mais le WEF a terriblement besoin d’elle",
@@ -1473,13 +1476,16 @@
   {
     "title": "sport:::A Cortina, Camille Rast décroche l’argent en slalom et l’unique médaille du ski alpin féminin",
     "added_at": "2026-02-18T18:10:03.027Z",
-    "removed_at": "2026-02-18T18:57:48.327Z",
-    "duration_minutes": 47,
-    "duration_str": "47m"
+    "removed_at": "2026-02-19T11:56:51.582Z",
+    "duration_minutes": 1066,
+    "duration_str": "17h 46m"
   },
   {
     "title": "suisse:::Onze personnes condamnées dans l’affaire des tags aux Brandons de Payerne",
-    "added_at": "2026-02-18T18:38:43.336Z"
+    "added_at": "2026-02-18T18:38:43.336Z",
+    "removed_at": "2026-02-19T11:47:23.213Z",
+    "duration_minutes": 1028,
+    "duration_str": "17h 8m"
   },
   {
     "title": "culture:::Série: «Love Story», la malédiction Kennedy au plus fort de l’amour",
@@ -1504,7 +1510,10 @@
   },
   {
     "title": "sciences:::Dans l’atmosphère, l’hydrogène s’installe lui aussi, et ce n’est pas une bonne nouvelle pour le climat",
-    "added_at": "2026-02-18T19:13:01.803Z"
+    "added_at": "2026-02-18T19:13:01.803Z",
+    "removed_at": "2026-02-19T10:46:20.395Z",
+    "duration_minutes": 933,
+    "duration_str": "15h 33m"
   },
   {
     "title": "sport:::En direct, JO 2026 – La Suisse est éliminée du tournoi masculin de hockey sur glace",
@@ -1568,7 +1577,10 @@
   },
   {
     "title": "cyber:::L’intelligence artificielle doit-elle servir à «mener des guerres»? La tension monte entre les géants de l’IA et l’administration Trump sur la sécurité",
-    "added_at": "2026-02-19T05:20:06.619Z"
+    "added_at": "2026-02-19T05:20:06.619Z",
+    "removed_at": "2026-02-19T11:56:51.582Z",
+    "duration_minutes": 396,
+    "duration_str": "6h 36m"
   },
   {
     "title": "monde:::«Il connaissait tous les gens puissants»: comment Jeffrey Epstein fait tanguer des têtes couronnées",
@@ -1606,11 +1618,17 @@
   },
   {
     "title": "monde:::Norman Baker, ancien ministre britannique: «Si l’ex-prince Andrew a divulgué des informations financières sensibles à Jeffrey Epstein, c’est de la trahison!»",
-    "added_at": "2026-02-19T08:42:19.389Z"
+    "added_at": "2026-02-19T08:42:19.389Z",
+    "removed_at": "2026-02-19T10:13:56.138Z",
+    "duration_minutes": 91,
+    "duration_str": "1h 31m"
   },
   {
     "title": "economie:::«Si tu te blesses au football, ton employeur n’est pas responsable»: l’Argentine en grève générale contre la réforme du travail de Javier Milei",
-    "added_at": "2026-02-19T09:12:52.491Z"
+    "added_at": "2026-02-19T09:12:52.491Z",
+    "removed_at": "2026-02-19T11:13:03.019Z",
+    "duration_minutes": 120,
+    "duration_str": "2h"
   },
   {
     "title": "sport:::En direct, JO 2026 – Ski-alpinisme: Marianne Fatton et Caroline Ulrich assurent leur place en demi-finales",
@@ -1630,5 +1648,29 @@
   {
     "title": "sport:::En direct, JO 2026 – Ski-alpinisme: les Suisses assurent leurs places en demi-finales",
     "added_at": "2026-02-19T09:58:35.320Z"
+  },
+  {
+    "title": "monde:::Affaire Epstein: suspecté de «faute dans l’exercice de fonctions officielles», l’ex-prince Andrew a été arrêté",
+    "added_at": "2026-02-19T10:13:56.138Z"
+  },
+  {
+    "title": "sport:::A Bormio, le ski-alpinisme en héritage des contrebandiers",
+    "added_at": "2026-02-19T10:46:20.395Z"
+  },
+  {
+    "title": "economie:::L’Argentine en grève générale contre la réforme du travail de Javier Milei",
+    "added_at": "2026-02-19T11:13:03.019Z"
+  },
+  {
+    "title": "sciences:::Devenu médecin «par intuition», l'étudiant genevois Simon Golay défend le rôle essentiel des généralistes",
+    "added_at": "2026-02-19T11:47:23.213Z"
+  },
+  {
+    "title": "culture:::Le Grand Prix suisse de littérature 2026 revient à Corinne Desarzens",
+    "added_at": "2026-02-19T11:56:51.582Z"
+  },
+  {
+    "title": "culture:::Corinne Desarzens: «J’aime la voix solaire de Sonia Zoran»",
+    "added_at": "2026-02-19T11:56:51.582Z"
   }
 ]
