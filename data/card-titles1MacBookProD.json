@@ -58910,7 +58910,10 @@
   },
   {
     "title": "Les risques d'avalanches sont réels ce week-end. Patience pour les randonneurs",
-    "added_at": "2026-02-13T21:22:43.660Z"
+    "added_at": "2026-02-13T21:22:43.660Z",
+    "removed_at": "2026-02-19T05:03:16.815Z",
+    "duration_minutes": 7660,
+    "duration_str": "5d 7h 40m"
   },
   {
     "title": "USA: le plan de Donald Trump pour gagner les midterms",
@@ -59516,10 +59519,7 @@
   },
   {
     "title": "Le Constellation, cofinancé par une figure romande de la prostitution",
-    "added_at": "2026-02-16T08:22:20.497Z",
-    "removed_at": "2026-02-18T09:02:45.751Z",
-    "duration_minutes": 2920,
-    "duration_str": "2d 40m"
+    "added_at": "2026-02-16T08:22:20.497Z"
   },
   {
     "title": "De \"Fargo\" à \"Star Trek\", Jeff Russo est devenu le compositeur star des séries cultes",
@@ -59912,7 +59912,10 @@
   },
   {
     "title": "Haut Val Ferret : des évacuations ordonnées en raison d’un risque accru d’avalanche",
-    "added_at": "2026-02-16T20:23:31.215Z"
+    "added_at": "2026-02-16T20:23:31.215Z",
+    "removed_at": "2026-02-19T07:04:05.959Z",
+    "duration_minutes": 3520,
+    "duration_str": "2d 10h 40m"
   },
   {
     "title": "Vivre à la montagne, un atout pour devenir skieur professionnel",
@@ -59930,7 +59933,10 @@
   },
   {
     "title": "Près de 5% des enfants sont en état de privation matérielle dans au moins trois domaines, selon une étude de l’OFS",
-    "added_at": "2026-02-16T21:23:15.925Z"
+    "added_at": "2026-02-16T21:23:15.925Z",
+    "removed_at": "2026-02-19T06:04:53.477Z",
+    "duration_minutes": 3401,
+    "duration_str": "2d 8h 41m"
   },
   {
     "title": "Battues par le Canada, les Suissesses joueront pour le bronze",
@@ -59991,9 +59997,9 @@
   {
     "title": "Un millier de fils électriques endommagés sur la ligne Lausanne-Renens",
     "added_at": "2026-02-17T06:44:24.896Z",
-    "removed_at": "2026-02-18T22:01:39.791Z",
-    "duration_minutes": 2357,
-    "duration_str": "1d 15h 17m"
+    "removed_at": "2026-02-19T06:04:53.477Z",
+    "duration_minutes": 2840,
+    "duration_str": "1d 23h 20m"
   },
   {
     "title": "Genève accueille des pourparlers cruciaux sur la guerre en Ukraine et sur l'Iran",
@@ -60082,7 +60088,10 @@
   },
   {
     "title": "Le pasteur noir et militant américain Jesse Jackson est décédé à 84 ans",
-    "added_at": "2026-02-17T10:05:01.001Z"
+    "added_at": "2026-02-17T10:05:01.001Z",
+    "removed_at": "2026-02-19T07:16:25.141Z",
+    "duration_minutes": 2711,
+    "duration_str": "1d 21h 11m"
   },
   {
     "title": "Les \"pièces japonaises\", une bien curieuse tradition du carnaval schwytzois",
@@ -60154,11 +60163,17 @@
   },
   {
     "title": "Sport matin - L'histoire du snowboard aux JO, entre ombre et lumière",
-    "added_at": "2026-02-17T13:04:38.546Z"
+    "added_at": "2026-02-17T13:04:38.546Z",
+    "removed_at": "2026-02-19T06:04:53.477Z",
+    "duration_minutes": 2460,
+    "duration_str": "1d 17h"
   },
   {
     "title": "Le mécanisme de sanction activé contre les supporters du Servette FC et du LS pour acte de vandalisme",
-    "added_at": "2026-02-17T13:39:32.068Z"
+    "added_at": "2026-02-17T13:39:32.068Z",
+    "removed_at": "2026-02-19T05:45:15.601Z",
+    "duration_minutes": 2405,
+    "duration_str": "1d 16h 5m"
   },
   {
     "title": "La Suisse se défait de l'Italie et affrontera la Finlande en quarts",
@@ -60222,7 +60237,10 @@
   },
   {
     "title": "Des premières victimes de Crans-Montana soignées à l'étranger vont être rapatriées",
-    "added_at": "2026-02-17T15:01:20.330Z"
+    "added_at": "2026-02-17T15:01:20.330Z",
+    "removed_at": "2026-02-19T05:45:15.601Z",
+    "duration_minutes": 2323,
+    "duration_str": "1d 14h 43m"
   },
   {
     "title": "A Genève, l'Iran fait des concessions aux Etats-Unis, Khamenei menace le porte-avions américain",
@@ -60627,5 +60645,29 @@
   {
     "title": "Donald Trump veut soutenir la production de glyphosate aux Etats-Unis",
     "added_at": "2026-02-19T03:39:30.925Z"
+  },
+  {
+    "title": "Trains Lausanne-Genève : fin des perturbations annoncée pour demain",
+    "added_at": "2026-02-19T05:03:16.815Z"
+  },
+  {
+    "title": "Des failles critiques découvertes dans trois gestionnaires de mots de passe très populaires",
+    "added_at": "2026-02-19T05:45:15.601Z"
+  },
+  {
+    "title": "\"La pression internationale sur la Chine est essentielle pour la démocratie à Hong Kong\", affirme Chloe Cheung",
+    "added_at": "2026-02-19T05:45:15.601Z"
+  },
+  {
+    "title": "Pour lutter contre le gaspillage alimentaire, Migros se met à la vente de \"légumes moches\"",
+    "added_at": "2026-02-19T06:04:53.477Z"
+  },
+  {
+    "title": "Gisèle Pelicot co-écrit un livre pour se réapproprier son histoire",
+    "added_at": "2026-02-19T06:04:53.477Z"
+  },
+  {
+    "title": "L'Argentine paralysée par une grève générale contre son président Javier Milei",
+    "added_at": "2026-02-19T07:16:25.141Z"
   }
 ]
