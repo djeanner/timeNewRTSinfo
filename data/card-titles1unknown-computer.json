@@ -1078,10 +1078,7 @@
   },
   {
     "title": "Le couple Moretti pris à partie par des familles de victimes",
-    "added_at": "2026-02-14T22:02:25.170Z",
-    "removed_at": "2026-02-16T20:23:53.361Z",
-    "duration_minutes": 2781,
-    "duration_str": "1d 22h 21m"
+    "added_at": "2026-02-14T22:02:25.170Z"
   },
   {
     "title": "Les risques d'avalanches sont réels ce week-end. Patience pour les randonneurs",
@@ -1650,7 +1647,10 @@
   },
   {
     "title": "Début cette semaine des pourparlers entre les Etats-Unis et l’Iran à Genève",
-    "added_at": "2026-02-16T13:01:19.048Z"
+    "added_at": "2026-02-16T13:01:19.048Z",
+    "removed_at": "2026-02-18T23:02:01.439Z",
+    "duration_minutes": 3480,
+    "duration_str": "2d 10h"
   },
   {
     "title": "Comment les espions s'adaptent au chaos mondial - invité: Yvonnick Denoël",
@@ -2413,7 +2413,10 @@
   },
   {
     "title": "Barbara célébrée dans une exposition à la Bibliothèque nationale de France",
-    "added_at": "2026-02-17T14:33:00.538Z"
+    "added_at": "2026-02-17T14:33:00.538Z",
+    "removed_at": "2026-02-18T22:20:09.343Z",
+    "duration_minutes": 1907,
+    "duration_str": "1d 7h 47m"
   },
   {
     "title": "Russes, Ukrainiens et Américains se retrouvent à Genève pour discuter d'une fin de la guerre",
@@ -2821,5 +2824,9 @@
   {
     "title": "L'Iran mise sous pression par les Etats-Unis pour conclure un accord",
     "added_at": "2026-02-18T22:02:51.405Z"
+  },
+  {
+    "title": "Mark Zuckerberg regrette les failles d'Instagram face aux mineurs",
+    "added_at": "2026-02-18T22:20:09.343Z"
   }
 ]
