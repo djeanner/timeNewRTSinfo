@@ -1082,7 +1082,10 @@
   },
   {
     "title": "Les risques d'avalanches sont réels ce week-end. Patience pour les randonneurs",
-    "added_at": "2026-02-14T22:02:25.170Z"
+    "added_at": "2026-02-14T22:02:25.170Z",
+    "removed_at": "2026-02-19T05:02:49.749Z",
+    "duration_minutes": 6180,
+    "duration_str": "4d 7h"
   },
   {
     "title": "À Munich, Marco Rubio prône une restauration de l'ordre mondial, avec une Europe forte",
@@ -2409,7 +2412,10 @@
   },
   {
     "title": "L'hiver meurtrier de 1951, un électrochoc pour la lutte contre les avalanches en Suisse",
-    "added_at": "2026-02-17T14:17:52.276Z"
+    "added_at": "2026-02-17T14:17:52.276Z",
+    "removed_at": "2026-02-19T03:39:00.204Z",
+    "duration_minutes": 2241,
+    "duration_str": "1d 13h 21m"
   },
   {
     "title": "Barbara célébrée dans une exposition à la Bibliothèque nationale de France",
@@ -2828,5 +2834,13 @@
   {
     "title": "Mark Zuckerberg regrette les failles d'Instagram face aux mineurs",
     "added_at": "2026-02-18T22:20:09.343Z"
+  },
+  {
+    "title": "Donald Trump veut soutenir la production de glyphosate aux Etats-Unis",
+    "added_at": "2026-02-19T03:39:00.204Z"
+  },
+  {
+    "title": "Trains Lausanne-Genève : fin des perturbations annoncée pour demain",
+    "added_at": "2026-02-19T05:02:49.749Z"
   }
 ]
