@@ -1614,7 +1614,10 @@
   },
   {
     "title": "cyber:::«Je me soucie du bien-être des adolescents et des enfants», plaide Mark Zuckerberg. Des documents secrets disent tout le contraire",
-    "added_at": "2026-02-19T08:21:25.619Z"
+    "added_at": "2026-02-19T08:21:25.619Z",
+    "removed_at": "2026-02-19T13:45:34.086Z",
+    "duration_minutes": 324,
+    "duration_str": "5h 24m"
   },
   {
     "title": "monde:::Norman Baker, ancien ministre britannique: «Si l’ex-prince Andrew a divulgué des informations financières sensibles à Jeffrey Epstein, c’est de la trahison!»",
@@ -1639,7 +1642,10 @@
   },
   {
     "title": "economie:::Nestlé veut donner la priorité à quatre domaines d’activité pour dynamiser sa croissance",
-    "added_at": "2026-02-19T09:26:08.119Z"
+    "added_at": "2026-02-19T09:26:08.119Z",
+    "removed_at": "2026-02-19T14:46:38.108Z",
+    "duration_minutes": 320,
+    "duration_str": "5h 20m"
   },
   {
     "title": "suisse:::La redevance SSR à 200 francs permettrait-elle de maintenir l’accès aux médias des personnes avec handicap sensoriel?",
@@ -1647,7 +1653,10 @@
   },
   {
     "title": "sport:::En direct, JO 2026 – Ski-alpinisme: les Suisses assurent leurs places en demi-finales",
-    "added_at": "2026-02-19T09:58:35.320Z"
+    "added_at": "2026-02-19T09:58:35.320Z",
+    "removed_at": "2026-02-19T12:48:25.241Z",
+    "duration_minutes": 169,
+    "duration_str": "2h 49m"
   },
   {
     "title": "monde:::Affaire Epstein: suspecté de «faute dans l’exercice de fonctions officielles», l’ex-prince Andrew a été arrêté",
@@ -1659,7 +1668,10 @@
   },
   {
     "title": "economie:::L’Argentine en grève générale contre la réforme du travail de Javier Milei",
-    "added_at": "2026-02-19T11:13:03.019Z"
+    "added_at": "2026-02-19T11:13:03.019Z",
+    "removed_at": "2026-02-19T14:31:19.152Z",
+    "duration_minutes": 198,
+    "duration_str": "3h 18m"
   },
   {
     "title": "sciences:::Devenu médecin «par intuition», l'étudiant genevois Simon Golay défend le rôle essentiel des généralistes",
@@ -1667,10 +1679,68 @@
   },
   {
     "title": "culture:::Le Grand Prix suisse de littérature 2026 revient à Corinne Desarzens",
-    "added_at": "2026-02-19T11:56:51.582Z"
+    "added_at": "2026-02-19T11:56:51.582Z",
+    "removed_at": "2026-02-19T13:30:22.573Z",
+    "duration_minutes": 93,
+    "duration_str": "1h 33m"
   },
   {
     "title": "culture:::Corinne Desarzens: «J’aime la voix solaire de Sonia Zoran»",
-    "added_at": "2026-02-19T11:56:51.582Z"
+    "added_at": "2026-02-19T11:56:51.582Z",
+    "removed_at": "2026-02-19T13:39:50.947Z",
+    "duration_minutes": 102,
+    "duration_str": "1h 42m"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 – Ski-alpinisme: Marianne Fatton, Jon Kistler et Arno Lietha en finale",
+    "added_at": "2026-02-19T12:48:25.241Z",
+    "removed_at": "2026-02-19T13:01:48.608Z",
+    "duration_minutes": 13,
+    "duration_str": "13m"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 – Ski-alpinisme: médaille d'or pour Marianne Fatton en sprint féminin!",
+    "added_at": "2026-02-19T13:01:48.608Z",
+    "removed_at": "2026-02-19T13:20:47.744Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 – Ski-alpinisme: l'or en sprint pour Marianne Fatton, mais pas de médaille suisse chez les hommes",
+    "added_at": "2026-02-19T13:20:47.744Z"
+  },
+  {
+    "title": "culture:::A la Comédie de Genève, le public s’est levé pour saluer les stupéfiants récits des combattantes russes de la Seconde Guerre mondiale",
+    "added_at": "2026-02-19T13:30:22.573Z",
+    "removed_at": "2026-02-19T13:45:34.086Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "culture:::Corinne Desarzens, Grand Prix suisse de littérature 2026: «J’aime la voix solaire de Sonia Zoran»",
+    "added_at": "2026-02-19T13:39:50.947Z"
+  },
+  {
+    "title": "culture:::A la Comédie de Genève, le public s’est levé pour les stupéfiants récits des combattantes russes de la Seconde Guerre mondiale",
+    "added_at": "2026-02-19T13:45:34.086Z"
+  },
+  {
+    "title": "monde:::En direct, Iran – Le cours du pétrole augmente sur fond de menaces grandissantes d'intervention militaire des Etats-Unis",
+    "added_at": "2026-02-19T13:45:34.086Z",
+    "removed_at": "2026-02-19T14:14:09.712Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le cours du pétrole augmente sur fond de menaces d'intervention des Etats-Unis contre l'Iran",
+    "added_at": "2026-02-19T14:14:09.712Z"
+  },
+  {
+    "title": "economie:::Le déficit commercial américain a atteint un record en 2025",
+    "added_at": "2026-02-19T14:31:19.152Z"
+  },
+  {
+    "title": "economie:::Nestlé passe à la vitesse supérieure pour stimuler sa croissance",
+    "added_at": "2026-02-19T14:46:38.108Z"
   }
 ]
