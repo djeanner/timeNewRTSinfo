@@ -64710,7 +64710,10 @@
   },
   {
     "title": "suisse:::Restitution de sept squelettes: des traces du colonialisme dans les sous-sols de l’Université de Genève",
-    "added_at": "2026-02-19T06:31:59.612Z"
+    "added_at": "2026-02-19T06:31:59.612Z",
+    "removed_at": "2026-02-19T18:16:32.912Z",
+    "duration_minutes": 704,
+    "duration_str": "11h 44m"
   },
   {
     "title": "economie:::Bénéfice net en recul de 17%, chiffre d’affaires en repli de 2%… Sans surprise, Nestlé livre une mauvaise copie pour 2025",
@@ -64721,10 +64724,7 @@
   },
   {
     "title": "monde:::Royaume-Uni, Norvège, Suède... Comment le scandale Jeffrey Epstein fait tanguer les familles royales",
-    "added_at": "2026-02-19T07:56:16.853Z",
-    "removed_at": "2026-02-19T14:51:48.398Z",
-    "duration_minutes": 415,
-    "duration_str": "6h 55m"
+    "added_at": "2026-02-19T07:56:16.853Z"
   },
   {
     "title": "economie:::Lombard Odier augmente ses avoirs gérés et son bénéfice net, qui atteint 200 millions de francs",
@@ -64793,10 +64793,7 @@
   },
   {
     "title": "sciences:::Devenu médecin «par intuition», l'étudiant genevois Simon Golay défend le rôle essentiel des généralistes",
-    "added_at": "2026-02-19T11:48:07.342Z",
-    "removed_at": "2026-02-19T15:41:39.518Z",
-    "duration_minutes": 233,
-    "duration_str": "3h 53m"
+    "added_at": "2026-02-19T11:48:07.342Z"
   },
   {
     "title": "culture:::Le Grand Prix suisse de littérature 2026 revient à Corinne Desarzens",
@@ -64828,7 +64825,10 @@
   },
   {
     "title": "sport:::En direct, JO 2026 – Ski-alpinisme: l'or en sprint pour Marianne Fatton, mais pas de médaille suisse chez les hommes",
-    "added_at": "2026-02-19T13:21:19.737Z"
+    "added_at": "2026-02-19T13:21:19.737Z",
+    "removed_at": "2026-02-19T15:46:48.408Z",
+    "duration_minutes": 145,
+    "duration_str": "2h 25m"
   },
   {
     "title": "culture:::A la Comédie de Genève, le public s’est levé pour saluer les stupéfiants récits des combattantes russes de la Seconde Guerre mondiale",
@@ -64854,22 +64854,107 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le cours du pétrole augmente sur fond de menaces d'intervention des Etats-Unis contre l'Iran",
-    "added_at": "2026-02-19T14:14:11.339Z"
+    "added_at": "2026-02-19T14:14:11.339Z",
+    "removed_at": "2026-02-19T15:51:50.170Z",
+    "duration_minutes": 97,
+    "duration_str": "1h 37m"
   },
   {
     "title": "economie:::Le déficit commercial américain a atteint un record en 2025",
-    "added_at": "2026-02-19T14:31:47.248Z"
+    "added_at": "2026-02-19T14:31:47.248Z",
+    "removed_at": "2026-02-19T15:56:51.164Z",
+    "duration_minutes": 85,
+    "duration_str": "1h 25m"
   },
   {
     "title": "economie:::Nestlé passe à la vitesse supérieure pour stimuler sa croissance",
-    "added_at": "2026-02-19T14:46:51.281Z"
+    "added_at": "2026-02-19T14:46:51.281Z",
+    "removed_at": "2026-02-19T15:49:21.950Z",
+    "duration_minutes": 62,
+    "duration_str": "1h 2m"
   },
   {
     "title": "sport:::Emotions fortes pour Marianne Fatton, toute première championne olympique du ski-alpinisme",
-    "added_at": "2026-02-19T14:51:48.398Z"
+    "added_at": "2026-02-19T14:51:48.398Z",
+    "removed_at": "2026-02-19T18:21:35.541Z",
+    "duration_minutes": 209,
+    "duration_str": "3h 29m"
   },
   {
     "title": "culture:::A6el A l’assaut de soi",
     "added_at": "2026-02-19T15:41:39.518Z"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 – Suspense pour le bronze en hockey sur glace féminin",
+    "added_at": "2026-02-19T15:46:48.408Z",
+    "removed_at": "2026-02-19T16:14:17.684Z",
+    "duration_minutes": 27,
+    "duration_str": "27m"
+  },
+  {
+    "title": "economie:::Nestlé veut passer à la vitesse supérieure pour stimuler sa croissance",
+    "added_at": "2026-02-19T15:49:21.950Z",
+    "removed_at": "2026-02-19T16:26:51.783Z",
+    "duration_minutes": 37,
+    "duration_str": "37m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Un accord possible avec l'Iran? Donald Trump dit se donner «dix jours»",
+    "added_at": "2026-02-19T15:51:50.170Z",
+    "removed_at": "2026-02-19T16:54:02.880Z",
+    "duration_minutes": 62,
+    "duration_str": "1h 2m"
+  },
+  {
+    "title": "economie:::En 2025, les droits de douane n’ont pas empêché un bond du déficit commercial américain",
+    "added_at": "2026-02-19T15:56:51.164Z",
+    "removed_at": "2026-02-19T16:44:07.359Z",
+    "duration_minutes": 47,
+    "duration_str": "47m"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 – Les Suissesses décrochent le bronze en hockey sur glace",
+    "added_at": "2026-02-19T16:14:17.684Z",
+    "removed_at": "2026-02-19T18:21:35.541Z",
+    "duration_minutes": 127,
+    "duration_str": "2h 7m"
+  },
+  {
+    "title": "culture:::Jose van Dam, la voix indiscutable, n’est plus",
+    "added_at": "2026-02-19T16:26:51.783Z",
+    "removed_at": "2026-02-19T17:16:27.147Z",
+    "duration_minutes": 49,
+    "duration_str": "49m"
+  },
+  {
+    "title": "economie:::Fin de la production de Rocéphine chez Roche, un énième signal d’alarme sur la question antibiotique",
+    "added_at": "2026-02-19T16:44:07.359Z"
+  },
+  {
+    "title": "suisse:::Drame de Crans-Montana: les procureurs du Valais et de Rome s’entendent sur une «coopération renforcée»",
+    "added_at": "2026-02-19T16:51:31.480Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – A la tribune de son «Conseil pour la paix», Donald Trump lance un ultimatum à l'Iran",
+    "added_at": "2026-02-19T16:54:02.880Z"
+  },
+  {
+    "title": "suisse:::Crime organisé: l'immense besoin de base de données communes pour les polices suisses",
+    "added_at": "2026-02-19T17:16:27.147Z",
+    "removed_at": "2026-02-19T17:59:05.419Z",
+    "duration_minutes": 42,
+    "duration_str": "42m"
+  },
+  {
+    "title": "suisse:::Crime organisé: l’immense besoin d’une base de données commune pour les polices suisses",
+    "added_at": "2026-02-19T17:59:05.419Z"
+  },
+  {
+    "title": "culture:::Au CERN, Antigel s’offre une tranche de Big Bang",
+    "added_at": "2026-02-19T18:16:32.912Z"
+  },
+  {
+    "title": "monde:::L’arrestation du prince déchu Andrew, une véritable onde de choc pour la famille royale",
+    "added_at": "2026-02-19T18:21:35.541Z"
   }
 ]
