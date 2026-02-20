@@ -60799,7 +60799,10 @@
   },
   {
     "title": "Drame de Crans-Montana: le témoignage accablant d'un auxiliaire de sécurité",
-    "added_at": "2026-02-18T20:22:57.597Z"
+    "added_at": "2026-02-18T20:22:57.597Z",
+    "removed_at": "2026-02-20T19:04:29.286Z",
+    "duration_minutes": 2801,
+    "duration_str": "1d 22h 41m"
   },
   {
     "title": "L’invention de la dameuse par un mécanicien italien en 1962 a révolutionné la pratique du ski",
@@ -60922,7 +60925,10 @@
   },
   {
     "title": "Prison à perpétuité pour l'ex-président sud-coréen Yoon Suk Yeol après son coup de force raté de 2024",
-    "added_at": "2026-02-19T09:20:40.904Z"
+    "added_at": "2026-02-19T09:20:40.904Z",
+    "removed_at": "2026-02-20T16:55:33.928Z",
+    "duration_minutes": 1894,
+    "duration_str": "1d 7h 34m"
   },
   {
     "title": "U2 fait son grand retour avec \"Days of Ash\", cinq chansons évoquant l'Ukraine ou l'ICE",
@@ -60987,7 +60993,10 @@
   },
   {
     "title": "Les HUG seraient affectés par du racisme systémique, selon 31% des employés sondés",
-    "added_at": "2026-02-19T12:05:34.255Z"
+    "added_at": "2026-02-19T12:05:34.255Z",
+    "removed_at": "2026-02-20T17:27:45.078Z",
+    "duration_minutes": 1762,
+    "duration_str": "1d 5h 22m"
   },
   {
     "title": "De l'Afghanistan à La Sallaz: l'intégration réussie de Zabihola Karimi, nouveau commerçant lausannois",
@@ -60995,7 +61004,10 @@
   },
   {
     "title": "Corinne Desarzens reçoit le Grand Prix suisse de littérature 2026",
-    "added_at": "2026-02-19T12:48:31.724Z"
+    "added_at": "2026-02-19T12:48:31.724Z",
+    "removed_at": "2026-02-20T18:02:32.140Z",
+    "duration_minutes": 1754,
+    "duration_str": "1d 5h 14m"
   },
   {
     "title": "Marianne Fatton décroche l'or olympique en sprint!",
@@ -61003,7 +61015,10 @@
   },
   {
     "title": "50 ans d’art brut à Lausanne",
-    "added_at": "2026-02-19T13:08:48.592Z"
+    "added_at": "2026-02-19T13:08:48.592Z",
+    "removed_at": "2026-02-20T17:20:21.345Z",
+    "duration_minutes": 1691,
+    "duration_str": "1d 4h 11m"
   },
   {
     "title": "Une nouvelle série de négociations sur l'Ukraine est prévue en Suisse",
@@ -61325,7 +61340,10 @@
   },
   {
     "title": "Un employé communal de St-Cergue blessé lors d'une altercation avec un habitant est décédé",
-    "added_at": "2026-02-20T15:50:57.788Z"
+    "added_at": "2026-02-20T15:50:57.788Z",
+    "removed_at": "2026-02-20T16:50:33.868Z",
+    "duration_minutes": 59,
+    "duration_str": "59m"
   },
   {
     "title": "Les Suissesses de Silvana Tirinzoni en finale dimanche",
@@ -61336,7 +61354,10 @@
   },
   {
     "title": "La Cour suprême américaine juge illégale une grande partie des droits de douane, un revers pour Donald Trump",
-    "added_at": "2026-02-20T15:55:56.697Z"
+    "added_at": "2026-02-20T15:55:56.697Z",
+    "removed_at": "2026-02-20T19:14:18.915Z",
+    "duration_minutes": 198,
+    "duration_str": "3h 18m"
   },
   {
     "title": "L'or ou l'argent pour les Suissesses de Silvana Tirinzoni dimanche!",
@@ -61349,5 +61370,47 @@
   {
     "title": "La commission des finances du National veut intensifier la cure d'austérité de la Confédération",
     "added_at": "2026-02-20T16:20:38.770Z"
+  },
+  {
+    "title": "Blessé lors d'une altercation, un employé communal de St-Cergue est décédé",
+    "added_at": "2026-02-20T16:50:33.868Z"
+  },
+  {
+    "title": "L'école genevoise testera bientôt un tronc commun en 9e année",
+    "added_at": "2026-02-20T16:55:33.928Z"
+  },
+  {
+    "title": "Le \"Conseil de la paix\", une \"diplomatie du milliard\" pour remplacer l'ONU",
+    "added_at": "2026-02-20T17:20:21.345Z"
+  },
+  {
+    "title": "La Confédération doit-elle alléger son programme d'économies? Débat entre Baptiste Hurni et Yvan Pahud",
+    "added_at": "2026-02-20T17:27:45.078Z",
+    "removed_at": "2026-02-20T18:02:32.140Z",
+    "duration_minutes": 34,
+    "duration_str": "34m"
+  },
+  {
+    "title": "La Suisse prend acte du revirement américain sur les droits de douane, mais les partis restent prudents",
+    "added_at": "2026-02-20T18:02:32.140Z"
+  },
+  {
+    "title": "Donald Trump donne dix jours à l’Iran pour trouver un accord sur le nucléaire",
+    "added_at": "2026-02-20T18:02:32.140Z"
+  },
+  {
+    "title": "Au Royaume-Uni, l’ex-prince Andrew arrêté dans le cadre de l’affaire Jeffrey Epstein",
+    "added_at": "2026-02-20T19:04:29.286Z"
+  },
+  {
+    "title": "La Cour suprême juge les droits de douane illégaux, Donald Trump riposte par un droit de douane \"mondial\" de 10%",
+    "added_at": "2026-02-20T19:14:18.915Z"
+  },
+  {
+    "title": "Donald Trump riposte par un droit de douane \"mondial\" de 10%, après la décision de la Cour suprême de juger ses droits de douane illégaux",
+    "added_at": "2026-02-20T19:21:41.418Z",
+    "removed_at": "2026-02-20T19:24:08.558Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
   }
 ]
