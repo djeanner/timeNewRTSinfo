@@ -64159,10 +64159,7 @@
   },
   {
     "title": "suisse:::Normes incendie: pas de risque majeur à Neuchâtel, mais des améliorations sont nécessaires",
-    "added_at": "2026-02-17T16:57:30.461Z",
-    "removed_at": "2026-02-18T05:16:02.944Z",
-    "duration_minutes": 738,
-    "duration_str": "12h 18m"
+    "added_at": "2026-02-17T16:57:30.461Z"
   },
   {
     "title": "suisse:::Avec des chutes de neige exceptionnelles, le Valais et les Alpes affrontent des avalanches spontanées un peu partout",
@@ -64896,7 +64893,10 @@
   },
   {
     "title": "sport:::Emotions fortes pour Marianne Fatton, toute première championne olympique du ski-alpinisme",
-    "added_at": "2026-02-19T14:51:48.398Z"
+    "added_at": "2026-02-19T14:51:48.398Z",
+    "removed_at": "2026-02-20T05:32:16.751Z",
+    "duration_minutes": 880,
+    "duration_str": "14h 40m"
   },
   {
     "title": "culture:::A6el A l’assaut de soi",
@@ -64935,11 +64935,17 @@
   },
   {
     "title": "sport:::En direct, JO 2026 – Les Suissesses décrochent le bronze en hockey sur glace",
-    "added_at": "2026-02-19T16:14:17.684Z"
+    "added_at": "2026-02-19T16:14:17.684Z",
+    "removed_at": "2026-02-20T05:32:16.751Z",
+    "duration_minutes": 797,
+    "duration_str": "13h 17m"
   },
   {
     "title": "culture:::Jose van Dam, la voix indiscutable, n’est plus",
-    "added_at": "2026-02-19T16:26:51.783Z"
+    "added_at": "2026-02-19T16:26:51.783Z",
+    "removed_at": "2026-02-20T04:40:39.134Z",
+    "duration_minutes": 733,
+    "duration_str": "12h 13m"
   },
   {
     "title": "economie:::Fin de la production de Rocéphine chez Roche, un énième signal d’alarme sur la question antibiotique",
@@ -64994,11 +65000,17 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – A la tribune de son «Conseil pour la paix», Donald Trump lance un ultimatum à l’Iran",
-    "added_at": "2026-02-19T20:22:31.872Z"
+    "added_at": "2026-02-19T20:22:31.872Z",
+    "removed_at": "2026-02-20T04:33:18.142Z",
+    "duration_minutes": 490,
+    "duration_str": "8h 10m"
   },
   {
     "title": "sport:::Dernier club suisse en Coupe d'Europe, Lausanne-Sport peut rêver de prolonger l'aventure",
-    "added_at": "2026-02-19T20:27:27.882Z"
+    "added_at": "2026-02-19T20:27:27.882Z",
+    "removed_at": "2026-02-20T04:38:11.445Z",
+    "duration_minutes": 490,
+    "duration_str": "8h 10m"
   },
   {
     "title": "sport:::Marianne Fatton, au nom de la mère",
@@ -65006,10 +65018,36 @@
   },
   {
     "title": "sciences:::Stanislas Dehaene, neuroscientifique: «La géométrie est apparue chez l’humain bien avant la naissance de l’art figuratif»",
-    "added_at": "2026-02-19T21:10:07.619Z"
+    "added_at": "2026-02-19T21:10:07.619Z",
+    "removed_at": "2026-02-20T05:32:16.751Z",
+    "duration_minutes": 502,
+    "duration_str": "8h 22m"
   },
   {
     "title": "culture:::De Minneapolis à l’Iran, U2 rompt un long silence discographique avec six titres engagés",
     "added_at": "2026-02-19T21:12:39.788Z"
+  },
+  {
+    "title": "monde:::En Autriche, la condamnation d’un homme pour la mort de sa compagne interroge la responsabilité individuelle en montagne",
+    "added_at": "2026-02-20T04:33:18.142Z",
+    "removed_at": "2026-02-20T04:40:39.134Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "monde:::«Savoir demander pardon»: une loi d’amnistie historique approuvée au Venezuela",
+    "added_at": "2026-02-20T04:38:11.445Z"
+  },
+  {
+    "title": "monde:::En Autriche, la condamnation retentissante d’un homme pour la mort de sa compagne interroge la responsabilité individuelle en montagne",
+    "added_at": "2026-02-20T04:40:39.134Z"
+  },
+  {
+    "title": "suisse:::Contrôles incendie dans les bars et discothèques: Genève ne dispose que d’un seul poste pour les inspections dans tout le canton",
+    "added_at": "2026-02-20T05:32:16.751Z"
+  },
+  {
+    "title": "monde:::Donald Trump va ordonner la publication de documents sur les ovnis",
+    "added_at": "2026-02-20T05:32:16.751Z"
   }
 ]
