@@ -1337,7 +1337,10 @@
   },
   {
     "title": "sport:::Quand les jeux vidéo influencent les retransmissions sportives à la télévision",
-    "added_at": "2026-02-18T10:01:58.869Z"
+    "added_at": "2026-02-18T10:01:58.869Z",
+    "removed_at": "2026-02-20T10:41:52.839Z",
+    "duration_minutes": 2919,
+    "duration_str": "2d 39m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La seconde journée de pourparlers à Genève entre Russes et Ukrainiens tourne court",
@@ -1830,9 +1833,9 @@
   {
     "title": "sport:::En direct, JO 2026 – Les Suissesses décrochent le bronze en hockey sur glace",
     "added_at": "2026-02-19T16:14:38.697Z",
-    "removed_at": "2026-02-20T05:31:00.847Z",
-    "duration_minutes": 796,
-    "duration_str": "13h 16m"
+    "removed_at": "2026-02-20T11:02:49.046Z",
+    "duration_minutes": 1128,
+    "duration_str": "18h 48m"
   },
   {
     "title": "culture:::Jose van Dam, la voix indiscutable, n’est plus",
@@ -2008,5 +2011,24 @@
   {
     "title": "monde:::En Espagne, l’exécutif socialiste éclaboussé par un scandale sexuel retentissant",
     "added_at": "2026-02-20T09:33:07.746Z"
+  },
+  {
+    "title": "suisse:::Ambitions énergétiques contre baisse d’impôts, Aline Trede et Raphaël Lanz confrontent leurs visions pour le gouvernement bernois",
+    "added_at": "2026-02-20T10:41:52.839Z",
+    "removed_at": "2026-02-20T11:00:53.854Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
+  },
+  {
+    "title": "suisse:::Ambitions énergétiques contre baisse d’impôts, les Vert·e·s et l’UDC s’affrontent pour le gouvernement bernois",
+    "added_at": "2026-02-20T11:00:53.854Z"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 – Pirmin Werner et Noé Roth en finales du saut acrobatique",
+    "added_at": "2026-02-20T11:02:49.046Z"
+  },
+  {
+    "title": "suisse:::Un «cadre éthique» manquant: la Cour des comptes genevoise pointe des défaillances au sein de l’exécutif de Satigny",
+    "added_at": "2026-02-20T11:31:42.734Z"
   }
 ]
