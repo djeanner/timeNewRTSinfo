@@ -1971,7 +1971,10 @@
   },
   {
     "title": "suisse:::Contrôles incendie dans les bars et discothèques: Genève ne dispose que d’un seul poste pour les inspections dans tout le canton",
-    "added_at": "2026-02-20T05:31:00.847Z"
+    "added_at": "2026-02-20T05:31:00.847Z",
+    "removed_at": "2026-02-20T20:03:40.594Z",
+    "duration_minutes": 872,
+    "duration_str": "14h 32m"
   },
   {
     "title": "monde:::Donald Trump va ordonner la publication de documents sur les ovnis",
@@ -2159,7 +2162,10 @@
   },
   {
     "title": "sport:::En direct, JO 2026 – Les curleuses suisses en finale, Noé Roth et Fanny Smith remportent l'argent",
-    "added_at": "2026-02-20T15:45:50.236Z"
+    "added_at": "2026-02-20T15:45:50.236Z",
+    "removed_at": "2026-02-20T20:26:37.559Z",
+    "duration_minutes": 280,
+    "duration_str": "4h 40m"
   },
   {
     "title": "economie:::Licenciements à la banque Reyl à Genève",
@@ -2234,5 +2240,28 @@
   {
     "title": "monde:::La Cour suprême juge illégaux une partie des droits de douane de Donald Trump",
     "added_at": "2026-02-20T19:25:22.157Z"
+  },
+  {
+    "title": "economie:::«Depuis l’arrivée de ChatGPT, la croissance se dissocie des effectifs dans les entreprises»",
+    "added_at": "2026-02-20T19:59:49.596Z",
+    "removed_at": "2026-02-20T20:32:20.023Z",
+    "duration_minutes": 32,
+    "duration_str": "32m"
+  },
+  {
+    "title": "suisse:::«Il y a un risque que les Etats-Unis tendent vers une forme de théocratie»: à 100 ans, l'ancien banquier Yves Oltramare partage son regard affûté sur le monde",
+    "added_at": "2026-02-20T20:03:40.594Z"
+  },
+  {
+    "title": "culture:::Comment le festival Antigel chasse les démons tristes de l’actualité dans le canton de Genève",
+    "added_at": "2026-02-20T20:17:00.962Z"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 – Deux médailles pour la Suisse en curling, Noé Roth et Fanny Smith remportent l'argent",
+    "added_at": "2026-02-20T20:26:37.559Z"
+  },
+  {
+    "title": "sport:::A Cortina, les curleurs suisses se consolent avec le bronze",
+    "added_at": "2026-02-20T20:30:24.272Z"
   }
 ]
