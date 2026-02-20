@@ -8226,10 +8226,7 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z",
-    "removed_at": "2026-01-16T20:27:33.648Z",
-    "duration_minutes": 344305,
-    "duration_str": "239d 2h 25m"
+    "added_at": "2025-05-22T18:01:52.008Z"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -64081,7 +64078,10 @@
   },
   {
     "title": "sport:::L’avenir est à des JO de sports qui se pratiquent l’hiver, et plus seulement aux disciplines «de neige et de glace»",
-    "added_at": "2026-02-17T13:29:35.975Z"
+    "added_at": "2026-02-17T13:29:35.975Z",
+    "removed_at": "2026-02-20T09:32:49.942Z",
+    "duration_minutes": 4083,
+    "duration_str": "2d 20h 3m"
   },
   {
     "title": "sport:::En direct, JO 2026 – L’équipe suisse de hockey part en quarts de finale",
@@ -64453,7 +64453,10 @@
   },
   {
     "title": "sport:::Quand les jeux vidéo influencent les retransmissions sportives à la télévision",
-    "added_at": "2026-02-18T10:02:02.485Z"
+    "added_at": "2026-02-18T10:02:02.485Z",
+    "removed_at": "2026-02-20T10:41:40.009Z",
+    "duration_minutes": 2919,
+    "duration_str": "2d 39m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La seconde journée de pourparlers à Genève entre Russes et Ukrainiens tourne court",
@@ -64868,7 +64871,10 @@
   },
   {
     "title": "culture:::A la Comédie de Genève, le public s’est levé pour les stupéfiants récits des combattantes russes de la Seconde Guerre mondiale",
-    "added_at": "2026-02-19T13:46:33.432Z"
+    "added_at": "2026-02-19T13:46:33.432Z",
+    "removed_at": "2026-02-20T09:15:41.330Z",
+    "duration_minutes": 1169,
+    "duration_str": "19h 29m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le cours du pétrole augmente sur fond de menaces d'intervention des Etats-Unis contre l'Iran",
@@ -64936,9 +64942,9 @@
   {
     "title": "sport:::En direct, JO 2026 – Les Suissesses décrochent le bronze en hockey sur glace",
     "added_at": "2026-02-19T16:14:17.684Z",
-    "removed_at": "2026-02-20T05:32:16.751Z",
-    "duration_minutes": 797,
-    "duration_str": "13h 17m"
+    "removed_at": "2026-02-20T11:01:28.349Z",
+    "duration_minutes": 1127,
+    "duration_str": "18h 47m"
   },
   {
     "title": "culture:::Jose van Dam, la voix indiscutable, n’est plus",
@@ -64981,7 +64987,10 @@
   },
   {
     "title": "culture:::Au CERN, Antigel s’offre une tranche de Big Bang",
-    "added_at": "2026-02-19T18:16:32.912Z"
+    "added_at": "2026-02-19T18:16:32.912Z",
+    "removed_at": "2026-02-20T09:13:11.573Z",
+    "duration_minutes": 896,
+    "duration_str": "14h 56m"
   },
   {
     "title": "monde:::L’arrestation du prince déchu Andrew, une véritable onde de choc pour la famille royale",
@@ -64990,9 +64999,9 @@
   {
     "title": "economie:::Philipp Navratil a réussi son grand oral, mais le plus dur reste à faire pour Nestlé",
     "added_at": "2026-02-19T18:49:09.198Z",
-    "removed_at": "2026-02-20T02:26:28.473Z",
-    "duration_minutes": 457,
-    "duration_str": "7h 37m"
+    "removed_at": "2026-02-20T09:35:19.916Z",
+    "duration_minutes": 886,
+    "duration_str": "14h 46m"
   },
   {
     "title": "monde:::Affaire Epstein: suspecté de «faute dans l’exercice de fonctions officielles», l’ex-prince Andrew a été arrêté puis relâché",
@@ -65075,7 +65084,10 @@
   },
   {
     "title": "culture:::Eric Dane, acteur de «Grey’s Anatomy» et «Euphoria», est décédé à 53 ans",
-    "added_at": "2026-02-20T07:02:56.533Z"
+    "added_at": "2026-02-20T07:02:56.533Z",
+    "removed_at": "2026-02-20T09:03:21.755Z",
+    "duration_minutes": 120,
+    "duration_str": "2h"
   },
   {
     "title": "monde:::Sans les Etats-Unis, «l’Ukraine serait myope»: comment les Européens s’accrochent au tout-puissant renseignement américain",
@@ -65088,5 +65100,36 @@
   {
     "title": "economie:::«Beaucoup ne veulent former les jeunes qu’à la tech»: malgré un contexte tendu, les études en sciences humaines et sociales restent prisées en Suisse",
     "added_at": "2026-02-20T07:51:40.173Z"
+  },
+  {
+    "title": "economie:::Les investisseurs sont à la recherche d’amortisseurs boursiers, au cas où la croissance décevait à l’avenir",
+    "added_at": "2026-02-20T09:00:58.582Z"
+  },
+  {
+    "title": "sciences:::Aires marines protégées, éolien offshore, quotas de pêche: comment identifier les gagnants et les perdants?",
+    "added_at": "2026-02-20T09:03:21.755Z"
+  },
+  {
+    "title": "culture:::Nathan Paulin, funambule phénoménal à Genève: «Sur ma sangle, je suis dans un état d’hypersensibilité, je capte tout»",
+    "added_at": "2026-02-20T09:13:11.573Z"
+  },
+  {
+    "title": "monde:::En Espagne, l’exécutif socialiste éclaboussé par un scandale sexuel retentissant",
+    "added_at": "2026-02-20T09:35:19.916Z"
+  },
+  {
+    "title": "suisse:::Ambitions énergétiques contre baisse d’impôts, Aline Trede et Raphaël Lanz confrontent leurs visions pour le gouvernement bernois",
+    "added_at": "2026-02-20T10:41:40.009Z",
+    "removed_at": "2026-02-20T11:01:28.349Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
+  },
+  {
+    "title": "suisse:::Ambitions énergétiques contre baisse d’impôts, les Vert·e·s et l’UDC s’affrontent pour le gouvernement bernois",
+    "added_at": "2026-02-20T11:01:28.349Z"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 – Pirmin Werner et Noé Roth en finales du saut acrobatique",
+    "added_at": "2026-02-20T11:01:28.349Z"
   }
 ]
