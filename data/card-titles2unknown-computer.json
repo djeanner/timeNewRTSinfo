@@ -962,7 +962,10 @@
   },
   {
     "title": "sport:::L’avenir est à des JO de sports qui se pratiquent l’hiver, et plus seulement aux disciplines «de neige et de glace»",
-    "added_at": "2026-02-17T13:30:27.476Z"
+    "added_at": "2026-02-17T13:30:27.476Z",
+    "removed_at": "2026-02-20T09:33:07.746Z",
+    "duration_minutes": 4082,
+    "duration_str": "2d 20h 2m"
   },
   {
     "title": "sport:::En direct, JO 2026 – L’équipe suisse de hockey part en quarts de finale",
@@ -1749,7 +1752,10 @@
   },
   {
     "title": "culture:::A la Comédie de Genève, le public s’est levé pour les stupéfiants récits des combattantes russes de la Seconde Guerre mondiale",
-    "added_at": "2026-02-19T13:45:34.086Z"
+    "added_at": "2026-02-19T13:45:34.086Z",
+    "removed_at": "2026-02-20T09:14:02.196Z",
+    "duration_minutes": 1168,
+    "duration_str": "19h 28m"
   },
   {
     "title": "monde:::En direct, Iran – Le cours du pétrole augmente sur fond de menaces grandissantes d'intervention militaire des Etats-Unis",
@@ -1869,7 +1875,10 @@
   },
   {
     "title": "culture:::Au CERN, Antigel s’offre une tranche de Big Bang",
-    "added_at": "2026-02-19T18:15:08.682Z"
+    "added_at": "2026-02-19T18:15:08.682Z",
+    "removed_at": "2026-02-20T09:12:06.987Z",
+    "duration_minutes": 896,
+    "duration_str": "14h 56m"
   },
   {
     "title": "monde:::L’arrestation du prince déchu Andrew, une véritable onde de choc pour la famille royale",
@@ -1878,9 +1887,9 @@
   {
     "title": "economie:::Philipp Navratil a réussi son grand oral, mais le plus dur reste à faire pour Nestlé",
     "added_at": "2026-02-19T18:47:33.516Z",
-    "removed_at": "2026-02-20T02:25:42.940Z",
-    "duration_minutes": 458,
-    "duration_str": "7h 38m"
+    "removed_at": "2026-02-20T09:34:59.061Z",
+    "duration_minutes": 887,
+    "duration_str": "14h 47m"
   },
   {
     "title": "monde:::Affaire Epstein: suspecté de «faute dans l’exercice de fonctions officielles», l’ex-prince Andrew a été arrêté puis relâché",
@@ -1916,7 +1925,10 @@
   },
   {
     "title": "culture:::De Minneapolis à l’Iran, U2 rompt un long silence discographique avec six titres engagés",
-    "added_at": "2026-02-19T21:10:49.686Z"
+    "added_at": "2026-02-19T21:10:49.686Z",
+    "removed_at": "2026-02-20T07:51:58.666Z",
+    "duration_minutes": 641,
+    "duration_str": "10h 41m"
   },
   {
     "title": "monde:::En Autriche, la condamnation d’un homme pour la mort de sa compagne interroge la responsabilité individuelle en montagne",
@@ -1960,7 +1972,10 @@
   },
   {
     "title": "culture:::Eric Dane, acteur de «Grey’s Anatomy» et «Euphoria», est décédé à 53 ans",
-    "added_at": "2026-02-20T07:02:20.143Z"
+    "added_at": "2026-02-20T07:02:20.143Z",
+    "removed_at": "2026-02-20T09:02:33.132Z",
+    "duration_minutes": 120,
+    "duration_str": "2h"
   },
   {
     "title": "monde:::Sans les Etats-Unis, «l’Ukraine serait myope»: comment les Européens s’accrochent au tout-puissant renseignement américain",
@@ -1969,5 +1984,29 @@
   {
     "title": "monde:::Quatre ans après le début de la guerre en Ukraine, l’ex-diplomate russe Boris Bondarev déplore que «l’Europe ne veuille pas gagner»",
     "added_at": "2026-02-20T07:08:03.302Z"
+  },
+  {
+    "title": "economie:::«Beaucoup ne veulent former les jeunes qu’à la tech»: malgré un contexte tendu, les études en sciences humaines et sociales restent prisées en Suisse",
+    "added_at": "2026-02-20T07:51:58.666Z"
+  },
+  {
+    "title": "economie:::Les investisseurs sont à la recherche d’amortisseurs boursiers, au cas où la croissance décevait à l’avenir",
+    "added_at": "2026-02-20T09:00:37.820Z"
+  },
+  {
+    "title": "sciences:::Aires marines protégées, éolien offshore, quotas de pêche: comment identifier les gagnants et les perdants?",
+    "added_at": "2026-02-20T09:02:33.132Z"
+  },
+  {
+    "title": "culture:::Nathan Paulin, funambule phénoménal à Genève: «Sur ma sangle, je suis dans un état d’hypersensibilité, je capte tout»",
+    "added_at": "2026-02-20T09:12:06.987Z"
+  },
+  {
+    "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
+    "added_at": "2026-02-20T09:14:02.196Z"
+  },
+  {
+    "title": "monde:::En Espagne, l’exécutif socialiste éclaboussé par un scandale sexuel retentissant",
+    "added_at": "2026-02-20T09:33:07.746Z"
   }
 ]
