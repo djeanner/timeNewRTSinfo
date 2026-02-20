@@ -541,7 +541,10 @@
   },
   {
     "title": "monde:::Chronologie – De 2005 à 2026, les grandes dates de l’affaire Epstein",
-    "added_at": "2026-02-14T22:02:25.214Z"
+    "added_at": "2026-02-14T22:02:25.214Z",
+    "removed_at": "2026-02-20T12:44:21.522Z",
+    "duration_minutes": 8081,
+    "duration_str": "5d 14h 41m"
   },
   {
     "title": "suisse:::L’incendie de Crans-Montana, révélateur de l’immense charge que portent les parents d’enfants brûlés",
@@ -1046,7 +1049,10 @@
   },
   {
     "title": "suisse:::Normes incendie: pas de risque majeur à Neuchâtel, mais des améliorations sont nécessaires",
-    "added_at": "2026-02-17T16:57:43.259Z"
+    "added_at": "2026-02-17T16:57:43.259Z",
+    "removed_at": "2026-02-20T13:33:59.142Z",
+    "duration_minutes": 4116,
+    "duration_str": "2d 20h 36m"
   },
   {
     "title": "suisse:::Avec des chutes de neige exceptionnelles, le Valais et les Alpes affrontent des avalanches spontanées un peu partout",
@@ -1702,7 +1708,10 @@
   },
   {
     "title": "sciences:::Devenu médecin «par intuition», l'étudiant genevois Simon Golay défend le rôle essentiel des généralistes",
-    "added_at": "2026-02-19T11:47:23.213Z"
+    "added_at": "2026-02-19T11:47:23.213Z",
+    "removed_at": "2026-02-20T12:19:39.131Z",
+    "duration_minutes": 1472,
+    "duration_str": "1d 32m"
   },
   {
     "title": "culture:::Le Grand Prix suisse de littérature 2026 revient à Corinne Desarzens",
@@ -1990,7 +1999,10 @@
   },
   {
     "title": "economie:::«Beaucoup ne veulent former les jeunes qu’à la tech»: malgré un contexte tendu, les études en sciences humaines et sociales restent prisées en Suisse",
-    "added_at": "2026-02-20T07:51:58.666Z"
+    "added_at": "2026-02-20T07:51:58.666Z",
+    "removed_at": "2026-02-20T12:44:21.522Z",
+    "duration_minutes": 292,
+    "duration_str": "4h 52m"
   },
   {
     "title": "economie:::Les investisseurs sont à la recherche d’amortisseurs boursiers, au cas où la croissance décevait à l’avenir",
@@ -2006,7 +2018,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2026-02-20T09:14:02.196Z"
+    "added_at": "2026-02-20T09:14:02.196Z",
+    "removed_at": "2026-02-20T12:40:32.650Z",
+    "duration_minutes": 206,
+    "duration_str": "3h 26m"
   },
   {
     "title": "monde:::En Espagne, l’exécutif socialiste éclaboussé par un scandale sexuel retentissant",
@@ -2025,10 +2040,50 @@
   },
   {
     "title": "sport:::En direct, JO 2026 – Pirmin Werner et Noé Roth en finales du saut acrobatique",
-    "added_at": "2026-02-20T11:02:49.046Z"
+    "added_at": "2026-02-20T11:02:49.046Z",
+    "removed_at": "2026-02-20T12:21:29.892Z",
+    "duration_minutes": 78,
+    "duration_str": "1h 18m"
   },
   {
     "title": "suisse:::Un «cadre éthique» manquant: la Cour des comptes genevoise pointe des défaillances au sein de l’exécutif de Satigny",
     "added_at": "2026-02-20T11:31:42.734Z"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 – Fanny Smith remporte l'argent en skicross",
+    "added_at": "2026-02-20T12:21:29.892Z",
+    "removed_at": "2026-02-20T13:49:13.346Z",
+    "duration_minutes": 87,
+    "duration_str": "1h 27m"
+  },
+  {
+    "title": "monde:::A Gaza, la démilitarisation du Hamas dans l’impasse",
+    "added_at": "2026-02-20T12:40:32.650Z"
+  },
+  {
+    "title": "sport:::Fanny Smith, porte-drapeau de la Suisse à la cérémonie d’ouverture de Milan-Cortina: «J’ai littéralement tout vécu aux Jeux olympiques»",
+    "added_at": "2026-02-20T12:42:30.510Z"
+  },
+  {
+    "title": "monde:::Paris, Berlin, Rome, Varsovie et Londres plaident pour une «OTAN plus européenne»",
+    "added_at": "2026-02-20T13:33:59.142Z"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 – Noé Smith en argent au ski acrobatique, Fanny Smith en skicross",
+    "added_at": "2026-02-20T13:49:13.346Z",
+    "removed_at": "2026-02-20T13:51:10.380Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 – Noé Roth en argent au saut acrobatique, Fanny Smith en skicross",
+    "added_at": "2026-02-20T13:51:10.380Z",
+    "removed_at": "2026-02-20T13:56:52.531Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 – L'argent pour Noé Roth au saut acrobatique et pour Fanny Smith en skicross",
+    "added_at": "2026-02-20T13:56:52.531Z"
   }
 ]
