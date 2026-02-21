@@ -530,7 +530,10 @@
   },
   {
     "title": "economie:::Affaire Epstein: qui savait quoi à la banque Edmond de Rothschild et qui a validé quoi?",
-    "added_at": "2026-02-14T22:02:25.214Z"
+    "added_at": "2026-02-14T22:02:25.214Z",
+    "removed_at": "2026-02-21T11:47:41.167Z",
+    "duration_minutes": 9465,
+    "duration_str": "6d 13h 45m"
   },
   {
     "title": "monde:::Sexe, trafic d’influence et espionnage: les liens tentaculaires de Jeffrey Epstein avec la Russie",
@@ -1900,7 +1903,10 @@
   },
   {
     "title": "monde:::L’arrestation du prince déchu Andrew, une véritable onde de choc pour la famille royale",
-    "added_at": "2026-02-19T18:22:48.937Z"
+    "added_at": "2026-02-19T18:22:48.937Z",
+    "removed_at": "2026-02-21T11:47:41.167Z",
+    "duration_minutes": 2484,
+    "duration_str": "1d 17h 24m"
   },
   {
     "title": "economie:::Philipp Navratil a réussi son grand oral, mais le plus dur reste à faire pour Nestlé",
@@ -2009,17 +2015,11 @@
   },
   {
     "title": "monde:::Sans les Etats-Unis, «l’Ukraine serait myope»: comment les Européens s’accrochent au tout-puissant renseignement américain",
-    "added_at": "2026-02-20T07:08:03.302Z",
-    "removed_at": "2026-02-21T08:35:12.043Z",
-    "duration_minutes": 1527,
-    "duration_str": "1d 1h 27m"
+    "added_at": "2026-02-20T07:08:03.302Z"
   },
   {
     "title": "monde:::Quatre ans après le début de la guerre en Ukraine, l’ex-diplomate russe Boris Bondarev déplore que «l’Europe ne veuille pas gagner»",
-    "added_at": "2026-02-20T07:08:03.302Z",
-    "removed_at": "2026-02-21T09:36:13.265Z",
-    "duration_minutes": 1588,
-    "duration_str": "1d 2h 28m"
+    "added_at": "2026-02-20T07:08:03.302Z"
   },
   {
     "title": "economie:::«Beaucoup ne veulent former les jeunes qu’à la tech»: malgré un contexte tendu, les études en sciences humaines et sociales restent prisées en Suisse",
@@ -2206,7 +2206,10 @@
   },
   {
     "title": "monde:::Au Groenland, le roi du Danemark défend, par -25 °C, un message d’unité face aux menaces de Donald Trump",
-    "added_at": "2026-02-20T17:42:22.731Z"
+    "added_at": "2026-02-20T17:42:22.731Z",
+    "removed_at": "2026-02-21T10:04:55.226Z",
+    "duration_minutes": 982,
+    "duration_str": "16h 22m"
   },
   {
     "title": "economie:::Donald Trump n’a certainement pas dit son dernier mot. Quelles options s’offrent à lui après la décision de la Cour suprême?",
@@ -2217,10 +2220,7 @@
   },
   {
     "title": "suisse:::La Cour suprême freine Donald Trump, Berne hésite",
-    "added_at": "2026-02-20T17:55:45.741Z",
-    "removed_at": "2026-02-21T06:25:45.695Z",
-    "duration_minutes": 749,
-    "duration_str": "12h 29m"
+    "added_at": "2026-02-20T17:55:45.741Z"
   },
   {
     "title": "economie:::Après la décision de la Cours suprême, les milieux économiques demandent la poursuite des négociations",
@@ -2269,11 +2269,17 @@
   },
   {
     "title": "culture:::Comment le festival Antigel chasse les démons tristes de l’actualité dans le canton de Genève",
-    "added_at": "2026-02-20T20:17:00.962Z"
+    "added_at": "2026-02-20T20:17:00.962Z",
+    "removed_at": "2026-02-21T11:11:27.301Z",
+    "duration_minutes": 894,
+    "duration_str": "14h 54m"
   },
   {
     "title": "sport:::En direct, JO 2026 – Deux médailles pour la Suisse en curling, Noé Roth et Fanny Smith remportent l'argent",
-    "added_at": "2026-02-20T20:26:37.559Z"
+    "added_at": "2026-02-20T20:26:37.559Z",
+    "removed_at": "2026-02-21T11:09:32.300Z",
+    "duration_minutes": 882,
+    "duration_str": "14h 42m"
   },
   {
     "title": "sport:::A Cortina, les curleurs suisses se consolent avec le bronze",
@@ -2301,10 +2307,39 @@
   },
   {
     "title": "economie:::La peur de l’IA contamine les crédits privés",
-    "added_at": "2026-02-21T08:42:48.441Z"
+    "added_at": "2026-02-21T08:42:48.441Z",
+    "removed_at": "2026-02-21T10:04:55.226Z",
+    "duration_minutes": 82,
+    "duration_str": "1h 22m"
   },
   {
     "title": "culture:::Leonardo Padura, écrivain: «La Havane s’est déconstruite au cours des cinquante dernières années»",
     "added_at": "2026-02-21T09:36:13.265Z"
+  },
+  {
+    "title": "monde:::En Cisjordanie occupée, une décision du gouvernement israélien légalise une annexion déjà à l’œuvre",
+    "added_at": "2026-02-21T10:04:55.226Z"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 – Les Suisses en finale en saut acrobatique par équipe",
+    "added_at": "2026-02-21T11:09:32.300Z",
+    "removed_at": "2026-02-21T11:20:58.930Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "culture:::Au Brassus, le squelette de tricératops du sculpteur argentin Adrian Villar Rojas fait voyager dans le temps",
+    "added_at": "2026-02-21T11:11:27.301Z"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 –  La Suisse remporte l'argent en saut acrobatique par équipe",
+    "added_at": "2026-02-21T11:20:58.930Z",
+    "removed_at": "2026-02-21T11:22:53.559Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 – La Suisse remporte l’argent en saut acrobatique par équipe",
+    "added_at": "2026-02-21T11:22:53.559Z"
   }
 ]
