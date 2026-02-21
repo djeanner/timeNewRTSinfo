@@ -3215,7 +3215,10 @@
   },
   {
     "title": "La volonté de l’aéroport de Zurich d’ouvrir une route de décollage vers le sud provoque une vague de recours",
-    "added_at": "2026-02-19T11:37:47.503Z"
+    "added_at": "2026-02-19T11:37:47.503Z",
+    "removed_at": "2026-02-20T22:47:48.847Z",
+    "duration_minutes": 2110,
+    "duration_str": "1d 11h 10m"
   },
   {
     "title": "Les HUG seraient affectés par du racisme systémique, selon 31% des employés sondés",
@@ -3354,11 +3357,17 @@
   },
   {
     "title": "Risque d'avalanche :  plusieurs domaines skiables à l'arrêt en Valais",
-    "added_at": "2026-02-19T18:03:37.997Z"
+    "added_at": "2026-02-19T18:03:37.997Z",
+    "removed_at": "2026-02-20T22:04:00.291Z",
+    "duration_minutes": 1680,
+    "duration_str": "1d 4h"
   },
   {
     "title": "Pourquoi les athlètes malmènent à ce point leur corps ?",
-    "added_at": "2026-02-19T19:02:51.590Z"
+    "added_at": "2026-02-19T19:02:51.590Z",
+    "removed_at": "2026-02-20T22:04:00.291Z",
+    "duration_minutes": 1621,
+    "duration_str": "1d 3h 1m"
   },
   {
     "title": "La réunion inaugurale du \"Conseil de la paix\" de Donald Trump a réuni une cinquantaine de pays",
@@ -3672,5 +3681,17 @@
   {
     "title": "Droits de douane: l’analyse de Tristan Dessert, correspondant à Washington",
     "added_at": "2026-02-20T21:21:51.125Z"
+  },
+  {
+    "title": "Matthias In-Albon, Directeur de Bergbahnen Destination Gstaad",
+    "added_at": "2026-02-20T22:04:00.291Z"
+  },
+  {
+    "title": "Ici la Suisse - Le parcours réussi de Zabihola, réfugié afghan",
+    "added_at": "2026-02-20T22:04:00.291Z"
+  },
+  {
+    "title": "Plus de dix ans après leur abandon, les trolleybus font leur retour à La Chaux-de-Fonds",
+    "added_at": "2026-02-20T22:47:48.847Z"
   }
 ]
