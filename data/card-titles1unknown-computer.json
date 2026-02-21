@@ -2942,7 +2942,10 @@
   },
   {
     "title": "Migros lance une gamme de fruits et légumes non calibrés",
-    "added_at": "2026-02-18T16:15:08.679Z"
+    "added_at": "2026-02-18T16:15:08.679Z",
+    "removed_at": "2026-02-21T07:03:46.675Z",
+    "duration_minutes": 3768,
+    "duration_str": "2d 14h 48m"
   },
   {
     "title": "La compagnie ferroviaire allemande paralysée par une cyberattaque d'ampleur",
@@ -3269,7 +3272,10 @@
   },
   {
     "title": "Le peuple votera sur l'interdiction des armes nucléaires",
-    "added_at": "2026-02-19T14:25:37.394Z"
+    "added_at": "2026-02-19T14:25:37.394Z",
+    "removed_at": "2026-02-21T06:20:01.828Z",
+    "duration_minutes": 2394,
+    "duration_str": "1d 15h 54m"
   },
   {
     "title": "L'AVS et l'AI bouclent 2025 dans les chiffres noirs: interview d'Eric Breval",
@@ -3295,7 +3301,10 @@
   },
   {
     "title": "\"A bras-le-corps\", la difficile quête de liberté d'une jeune femme dans la Suisse de 1943",
-    "added_at": "2026-02-19T14:56:23.802Z"
+    "added_at": "2026-02-19T14:56:23.802Z",
+    "removed_at": "2026-02-21T07:07:38.710Z",
+    "duration_minutes": 2411,
+    "duration_str": "1d 16h 11m"
   },
   {
     "title": "Nouveau record de déficit commercial pour les Etats-Unis",
@@ -3700,5 +3709,13 @@
   {
     "title": "Donald Trump signe un nouveau droit de douane de 10% pour le monde entier dès mardi",
     "added_at": "2026-02-21T02:48:21.107Z"
+  },
+  {
+    "title": "La chute de la République islamique d'Iran \"semble difficile, sans intervention étrangère\"",
+    "added_at": "2026-02-21T06:20:01.828Z"
+  },
+  {
+    "title": "Les différents visages de la pauvreté en Suisse, ces sports qui ont disparu des JO et l’invention de la dameuse",
+    "added_at": "2026-02-21T07:07:38.710Z"
   }
 ]
