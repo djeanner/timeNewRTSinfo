@@ -1932,7 +1932,10 @@
   },
   {
     "title": "sport:::Marianne Fatton, au nom de la mère",
-    "added_at": "2026-02-19T20:36:29.897Z"
+    "added_at": "2026-02-19T20:36:29.897Z",
+    "removed_at": "2026-02-21T07:36:20.361Z",
+    "duration_minutes": 2099,
+    "duration_str": "1d 10h 59m"
   },
   {
     "title": "sciences:::Stanislas Dehaene, neuroscientifique: «La géométrie est apparue chez l’humain bien avant la naissance de l’art figuratif»",
@@ -2006,11 +2009,17 @@
   },
   {
     "title": "monde:::Sans les Etats-Unis, «l’Ukraine serait myope»: comment les Européens s’accrochent au tout-puissant renseignement américain",
-    "added_at": "2026-02-20T07:08:03.302Z"
+    "added_at": "2026-02-20T07:08:03.302Z",
+    "removed_at": "2026-02-21T08:35:12.043Z",
+    "duration_minutes": 1527,
+    "duration_str": "1d 1h 27m"
   },
   {
     "title": "monde:::Quatre ans après le début de la guerre en Ukraine, l’ex-diplomate russe Boris Bondarev déplore que «l’Europe ne veuille pas gagner»",
-    "added_at": "2026-02-20T07:08:03.302Z"
+    "added_at": "2026-02-20T07:08:03.302Z",
+    "removed_at": "2026-02-21T09:36:13.265Z",
+    "duration_minutes": 1588,
+    "duration_str": "1d 2h 28m"
   },
   {
     "title": "economie:::«Beaucoup ne veulent former les jeunes qu’à la tech»: malgré un contexte tendu, les études en sciences humaines et sociales restent prisées en Suisse",
@@ -2091,7 +2100,10 @@
   },
   {
     "title": "monde:::A Gaza, la démilitarisation du Hamas dans l’impasse",
-    "added_at": "2026-02-20T12:40:32.650Z"
+    "added_at": "2026-02-20T12:40:32.650Z",
+    "removed_at": "2026-02-21T08:42:48.441Z",
+    "duration_minutes": 1202,
+    "duration_str": "20h 2m"
   },
   {
     "title": "sport:::Fanny Smith, porte-drapeau de la Suisse à la cérémonie d’ouverture de Milan-Cortina: «J’ai littéralement tout vécu aux Jeux olympiques»",
@@ -2278,5 +2290,21 @@
   {
     "title": "economie:::Les milieux économiques demandent la poursuite des négociations",
     "added_at": "2026-02-21T07:01:55.416Z"
+  },
+  {
+    "title": "monde:::Fabriquer des armes plutôt que des voitures? «Je veux bien! Tout se délocalise hors de France sauf la défense»",
+    "added_at": "2026-02-21T07:36:20.361Z"
+  },
+  {
+    "title": "sport:::Anterselva, la terre promise du biathlon qui veut accueillir le monde sans trahir son âme",
+    "added_at": "2026-02-21T08:35:12.043Z"
+  },
+  {
+    "title": "economie:::La peur de l’IA contamine les crédits privés",
+    "added_at": "2026-02-21T08:42:48.441Z"
+  },
+  {
+    "title": "culture:::Leonardo Padura, écrivain: «La Havane s’est déconstruite au cours des cinquante dernières années»",
+    "added_at": "2026-02-21T09:36:13.265Z"
   }
 ]
