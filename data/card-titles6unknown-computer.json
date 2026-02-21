@@ -2441,7 +2441,10 @@
   },
   {
     "title": "Man City ‘on the hunt’ for league title as they host Newcastle United",
-    "added_at": "2026-02-20T10:39:57.192Z"
+    "added_at": "2026-02-20T10:39:57.192Z",
+    "removed_at": "2026-02-21T19:08:27.075Z",
+    "duration_minutes": 1948,
+    "duration_str": "1d 8h 28m"
   },
   {
     "title": "Tucker Carlson says passport seized, staff interrogated at Israeli airport",
@@ -2641,7 +2644,10 @@
   },
   {
     "title": "Israeli attacks kill at least 12 people, injure dozens across Lebanon",
-    "added_at": "2026-02-21T00:15:44.402Z"
+    "added_at": "2026-02-21T00:15:44.402Z",
+    "removed_at": "2026-02-21T17:30:59.900Z",
+    "duration_minutes": 1035,
+    "duration_str": "17h 15m"
   },
   {
     "title": "US military says it attacked vessel in Pacific Ocean, killing three people",
@@ -2752,6 +2758,21 @@
   },
   {
     "title": "LIVE: Pakistan vs New Zealand abandoned – T20 World Cup Super Eights",
-    "added_at": "2026-02-21T16:33:37.565Z"
+    "added_at": "2026-02-21T16:33:37.565Z",
+    "removed_at": "2026-02-21T17:04:14.087Z",
+    "duration_minutes": 30,
+    "duration_str": "30m"
+  },
+  {
+    "title": "Pakistan-New Zealand Super Eights opener abandoned at T20 World Cup",
+    "added_at": "2026-02-21T17:04:14.087Z"
+  },
+  {
+    "title": "Israeli army kills 2 Palestinians in strikes on Gaza during Ramadan",
+    "added_at": "2026-02-21T17:30:59.900Z"
+  },
+  {
+    "title": "LIVE: Manchester City vs Newcastle United – Premier League",
+    "added_at": "2026-02-21T19:08:27.075Z"
   }
 ]
