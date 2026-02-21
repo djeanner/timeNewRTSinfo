@@ -65044,7 +65044,10 @@
   },
   {
     "title": "sport:::Marianne Fatton, au nom de la mère",
-    "added_at": "2026-02-19T20:37:30.612Z"
+    "added_at": "2026-02-19T20:37:30.612Z",
+    "removed_at": "2026-02-21T07:36:44.922Z",
+    "duration_minutes": 2099,
+    "duration_str": "1d 10h 59m"
   },
   {
     "title": "sciences:::Stanislas Dehaene, neuroscientifique: «La géométrie est apparue chez l’humain bien avant la naissance de l’art figuratif»",
@@ -65118,7 +65121,10 @@
   },
   {
     "title": "monde:::Sans les Etats-Unis, «l’Ukraine serait myope»: comment les Européens s’accrochent au tout-puissant renseignement américain",
-    "added_at": "2026-02-20T07:07:48.269Z"
+    "added_at": "2026-02-20T07:07:48.269Z",
+    "removed_at": "2026-02-21T08:35:36.931Z",
+    "duration_minutes": 1527,
+    "duration_str": "1d 1h 27m"
   },
   {
     "title": "monde:::Quatre ans après le début de la guerre en Ukraine, l’ex-diplomate russe Boris Bondarev déplore que «l’Europe ne veuille pas gagner»",
@@ -65196,7 +65202,10 @@
   },
   {
     "title": "monde:::A Gaza, la démilitarisation du Hamas dans l’impasse",
-    "added_at": "2026-02-20T12:40:49.635Z"
+    "added_at": "2026-02-20T12:40:49.635Z",
+    "removed_at": "2026-02-21T08:43:01.528Z",
+    "duration_minutes": 1202,
+    "duration_str": "20h 2m"
   },
   {
     "title": "sport:::Fanny Smith, porte-drapeau de la Suisse à la cérémonie d’ouverture de Milan-Cortina: «J’ai littéralement tout vécu aux Jeux olympiques»",
@@ -65310,7 +65319,10 @@
   },
   {
     "title": "economie:::Donald Trump n’a certainement pas dit son dernier mot. Quelles options s’offrent à lui après la décision de la Cour suprême?",
-    "added_at": "2026-02-20T17:52:48.079Z"
+    "added_at": "2026-02-20T17:52:48.079Z",
+    "removed_at": "2026-02-21T07:02:33.677Z",
+    "duration_minutes": 789,
+    "duration_str": "13h 9m"
   },
   {
     "title": "suisse:::La Cour suprême freine Donald Trump, Berne hésite",
@@ -65328,7 +65340,10 @@
   },
   {
     "title": "economie:::Après la décision de la Cour suprême, les milieux économiques demandent la poursuite des négociations",
-    "added_at": "2026-02-20T18:32:16.050Z"
+    "added_at": "2026-02-20T18:32:16.050Z",
+    "removed_at": "2026-02-21T07:02:33.677Z",
+    "duration_minutes": 750,
+    "duration_str": "12h 30m"
   },
   {
     "title": "economie:::Leclanché renfloue sa trésorerie et sécurise le versement des salaires",
@@ -65355,10 +65370,7 @@
   },
   {
     "title": "economie:::«Depuis l’arrivée de ChatGPT, la croissance se dissocie des effectifs dans les entreprises»",
-    "added_at": "2026-02-20T20:01:07.533Z",
-    "removed_at": "2026-02-20T20:33:05.880Z",
-    "duration_minutes": 31,
-    "duration_str": "31m"
+    "added_at": "2026-02-20T20:01:07.533Z"
   },
   {
     "title": "suisse:::«Il y a un risque que les Etats-Unis tendent vers une forme de théocratie»: à 100 ans, l'ancien banquier Yves Oltramare partage son regard affûté sur le monde",
@@ -65379,5 +65391,25 @@
   {
     "title": "sport:::En dilettante – Le rugby, histoire d’un rendez-vous manqué",
     "added_at": "2026-02-21T06:25:41.071Z"
+  },
+  {
+    "title": "economie:::Après le désaveu de la Cour suprême, Donald Trump signe un nouveau décret imposant un droit de douane mondial de 10%",
+    "added_at": "2026-02-21T07:02:33.677Z"
+  },
+  {
+    "title": "economie:::Les milieux économiques demandent la poursuite des négociations",
+    "added_at": "2026-02-21T07:02:33.677Z"
+  },
+  {
+    "title": "monde:::Fabriquer des armes plutôt que des voitures? «Je veux bien! Tout se délocalise hors de France sauf la défense»",
+    "added_at": "2026-02-21T07:36:44.922Z"
+  },
+  {
+    "title": "sport:::Anterselva, la terre promise du biathlon qui veut accueillir le monde sans trahir son âme",
+    "added_at": "2026-02-21T08:35:36.931Z"
+  },
+  {
+    "title": "economie:::La peur de l’IA contamine les crédits privés",
+    "added_at": "2026-02-21T08:43:01.528Z"
   }
 ]
