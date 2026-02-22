@@ -60870,7 +60870,10 @@
   },
   {
     "title": "Trains Lausanne-Genève : fin des perturbations annoncée pour demain",
-    "added_at": "2026-02-19T05:03:16.815Z"
+    "added_at": "2026-02-19T05:03:16.815Z",
+    "removed_at": "2026-02-22T17:21:28.370Z",
+    "duration_minutes": 5058,
+    "duration_str": "3d 12h 18m"
   },
   {
     "title": "Des failles critiques découvertes dans trois gestionnaires de mots de passe très populaires",
@@ -61429,7 +61432,10 @@
   },
   {
     "title": "Passe d'armes entre Macron et Meloni autour de la mort de Quentin Deranque",
-    "added_at": "2026-02-20T12:21:15.194Z"
+    "added_at": "2026-02-20T12:21:15.194Z",
+    "removed_at": "2026-02-22T16:21:50.515Z",
+    "duration_minutes": 3120,
+    "duration_str": "2d 4h"
   },
   {
     "title": "Fanny Smith décroche l'argent en skicross!",
@@ -61555,7 +61561,10 @@
   },
   {
     "title": "La commission des finances du National veut intensifier la cure d'austérité de la Confédération",
-    "added_at": "2026-02-20T16:20:38.770Z"
+    "added_at": "2026-02-20T16:20:38.770Z",
+    "removed_at": "2026-02-22T15:39:52.518Z",
+    "duration_minutes": 2839,
+    "duration_str": "1d 23h 19m"
   },
   {
     "title": "Blessé lors d'une altercation, un employé communal de St-Cergue est décédé",
@@ -61563,7 +61572,10 @@
   },
   {
     "title": "L'école genevoise testera bientôt un tronc commun en 9e année",
-    "added_at": "2026-02-20T16:55:33.928Z"
+    "added_at": "2026-02-20T16:55:33.928Z",
+    "removed_at": "2026-02-22T16:21:50.515Z",
+    "duration_minutes": 2846,
+    "duration_str": "1d 23h 26m"
   },
   {
     "title": "Le \"Conseil de la paix\", une \"diplomatie du milliard\" pour remplacer l'ONU",
@@ -61905,7 +61917,10 @@
   },
   {
     "title": "Le Pakistan mène des frappes meurtrières en Afghanistan",
-    "added_at": "2026-02-22T08:34:36.165Z"
+    "added_at": "2026-02-22T08:34:36.165Z",
+    "removed_at": "2026-02-22T16:34:11.300Z",
+    "duration_minutes": 479,
+    "duration_str": "7h 59m"
   },
   {
     "title": "\"Droit biblique\" d'Israël sur tout le Proche-Orient: l'ambassadeur américain suscite de vives réactions",
@@ -61981,5 +61996,36 @@
   {
     "title": "Le renouvellement du Demi-tarif Plus peut créer un double abonnement",
     "added_at": "2026-02-22T15:17:29.585Z"
+  },
+  {
+    "title": "Une cérémonie hommage aux arts italiens en clôture des JO d'hiver 2026",
+    "added_at": "2026-02-22T15:39:52.518Z",
+    "removed_at": "2026-02-22T15:42:24.319Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Une cérémonie hommage aux arts italiens clôturera les JO d'hiver 2026",
+    "added_at": "2026-02-22T15:42:24.319Z"
+  },
+  {
+    "title": "Les USA terrassent le Canada en prolongation!",
+    "added_at": "2026-02-22T16:14:26.928Z"
+  },
+  {
+    "title": "Martin Suter dissèque jeux de pouvoir et dynamiques de couple dans \"L'amour et la fureur\"",
+    "added_at": "2026-02-22T16:21:50.515Z"
+  },
+  {
+    "title": "Mort de Navalny, le poison, l’arme des faibles… vraiment?",
+    "added_at": "2026-02-22T16:21:50.515Z"
+  },
+  {
+    "title": "Des frappes pakistanaises font plusieurs dizaines de morts en Afghanistan",
+    "added_at": "2026-02-22T16:34:11.300Z"
+  },
+  {
+    "title": "Chassez le naturel, il revient au galop",
+    "added_at": "2026-02-22T17:21:28.370Z"
   }
 ]
