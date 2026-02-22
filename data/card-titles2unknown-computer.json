@@ -2190,7 +2190,10 @@
   },
   {
     "title": "economie:::Licenciements à la banque Reyl à Genève",
-    "added_at": "2026-02-20T17:32:49.286Z"
+    "added_at": "2026-02-20T17:32:49.286Z",
+    "removed_at": "2026-02-22T12:23:56.525Z",
+    "duration_minutes": 2571,
+    "duration_str": "1d 18h 51m"
   },
   {
     "title": "monde:::Au Groenland, le roi du Danemark défend, par -25 degrés, un message d’unité face aux menaces de Donald Trump",
@@ -2516,6 +2519,42 @@
   },
   {
     "title": "sport:::En direct, JO 2026 – En ski de fond, Nadja Kälin remporte le bronze sur 50 kilomètres classique",
-    "added_at": "2026-02-22T11:30:20.199Z"
+    "added_at": "2026-02-22T11:30:20.199Z",
+    "removed_at": "2026-02-22T12:04:49.973Z",
+    "duration_minutes": 34,
+    "duration_str": "34m"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 – Médailles de bronze pour Nadja Kälin en ski de fond sur 50 kilomètres et en bob à quatre pour l’équipage de Michael Vogt",
+    "added_at": "2026-02-22T12:04:49.973Z",
+    "removed_at": "2026-02-22T12:52:32.368Z",
+    "duration_minutes": 47,
+    "duration_str": "47m"
+  },
+  {
+    "title": "sciences:::A l’ère de l’IA, les scientifiques qui étudient la planète ont-ils encore besoin de chausser leurs bottes?",
+    "added_at": "2026-02-22T12:23:56.525Z"
+  },
+  {
+    "title": "sport:::En argent, les curleuses offrent à la Suisse sa 23e médaille",
+    "added_at": "2026-02-22T12:52:32.368Z",
+    "removed_at": "2026-02-22T13:00:09.088Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 – Les curleuses suisse remportent l'argent, des médailles de bronze en ski de fond et en bob à quatre",
+    "added_at": "2026-02-22T12:52:32.368Z",
+    "removed_at": "2026-02-22T12:56:19.912Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 – Les curleuses suisses remportent l’argent, des médailles de bronze en ski de fond et en bob à quatre",
+    "added_at": "2026-02-22T12:56:19.912Z"
+  },
+  {
+    "title": "sport:::En argent, les curleuses offrent à la Suisse sa 23e et dernière médaille des Jeux",
+    "added_at": "2026-02-22T13:00:09.088Z"
   }
 ]
