@@ -139679,7 +139679,10 @@
   },
   {
     "title": "« Les violences politiques connaissent une augmentation significative en France depuis dix ans »",
-    "added_at": "2026-02-19T13:18:50.650Z"
+    "added_at": "2026-02-19T13:18:50.650Z",
+    "removed_at": "2026-02-22T01:38:12.600Z",
+    "duration_minutes": 3619,
+    "duration_str": "2d 12h 19m"
   },
   {
     "title": "La Française Emily Harrop décroche l’argent en ski-alpinisme, Thibault Anselmet sur la plus petite marche du podium chez les hommes",
@@ -139957,9 +139960,9 @@
   {
     "title": "Nucléaire militaire : « Pour la première fois depuis 1972, plus aucun accord ne réglemente, ne contrôle ni ne limite sa progression »",
     "added_at": "2026-02-19T17:59:06.104Z",
-    "removed_at": "2026-02-21T22:58:23.514Z",
-    "duration_minutes": 3179,
-    "duration_str": "2d 4h 59m"
+    "removed_at": "2026-02-22T01:43:07.812Z",
+    "duration_minutes": 3344,
+    "duration_str": "2d 7h 44m"
   },
   {
     "title": "EN DIRECT, tempête Pedro : la France connaît sa plus longue période de pluie depuis les années 1950, cinq départements en vigilance rouge",
@@ -141137,10 +141140,7 @@
   },
   {
     "title": "Jean Pisani-Ferry, économiste : « L’engagement allemand dans le réarmement est une bonne nouvelle et un défi pour l’Europe »",
-    "added_at": "2026-02-21T09:12:48.796Z",
-    "removed_at": "2026-02-21T22:53:29.448Z",
-    "duration_minutes": 820,
-    "duration_str": "13h 40m"
+    "added_at": "2026-02-21T09:12:48.796Z"
   },
   {
     "title": "Quatre Français engagés en skicross, une avant-dernière journée porteuse d’espoirs pour les Bleus",
@@ -141179,7 +141179,10 @@
   },
   {
     "title": "Les limites du pouvoir de Donald Trump après la censure de ses droits de douane par la Cour suprême",
-    "added_at": "2026-02-21T09:49:53.521Z"
+    "added_at": "2026-02-21T09:49:53.521Z",
+    "removed_at": "2026-02-22T01:43:07.812Z",
+    "duration_minutes": 953,
+    "duration_str": "15h 53m"
   },
   {
     "title": "Jeffrey Epstein possédait un compte bancaire chez BNP Paribas entre 2008 et 2018",
@@ -141356,7 +141359,10 @@
   },
   {
     "title": "La « méthode » du RN pour gouverner la ville de Rognac, qui se voulait exemplaire, est en accusation",
-    "added_at": "2026-02-21T12:18:10.300Z"
+    "added_at": "2026-02-21T12:18:10.300Z",
+    "removed_at": "2026-02-22T01:43:07.812Z",
+    "duration_minutes": 804,
+    "duration_str": "13h 24m"
   },
   {
     "title": "Klaebo roi des Jeux, doublé italien au skicross, les Bleus bientôt en lice en ski-alpinisme",
@@ -141543,10 +141549,7 @@
   },
   {
     "title": "Les scandales alimentaires  donnent la boule au ventre : « Savoir que le cadmium peut se trouver dans n’importe quel aliment m’angoisse »",
-    "added_at": "2026-02-21T15:12:08.209Z",
-    "removed_at": "2026-02-21T22:55:59.080Z",
-    "duration_minutes": 463,
-    "duration_str": "7h 43m"
+    "added_at": "2026-02-21T15:12:08.209Z"
   },
   {
     "title": "Le général Oleksandr Syrsky, commandant de l’armée ukrainienne : en 2025, « les pertes de l’armée russe ont dépassé son niveau de recrutement »",
@@ -141645,10 +141648,7 @@
   },
   {
     "title": "Des familles face à leur fils à tendance masculiniste : « Il s’est transformé de façon très insidieuse, sans que je le voie »",
-    "added_at": "2026-02-21T16:38:33.310Z",
-    "removed_at": "2026-02-21T22:48:38.237Z",
-    "duration_minutes": 370,
-    "duration_str": "6h 10m"
+    "added_at": "2026-02-21T16:38:33.310Z"
   },
   {
     "title": "Avec 23 médailles, la délégation française a rempli son objectif aux Jeux de Milan-Cortina",
@@ -141740,6 +141740,13 @@
   },
   {
     "title": "A Lyon, l’ultradroite rend hommage à Quentin Deranque : « Il aimait cette ville, il aimait cette civilisation »",
-    "added_at": "2026-02-21T21:52:14.867Z"
+    "added_at": "2026-02-21T21:52:14.867Z",
+    "removed_at": "2026-02-21T23:55:04.951Z",
+    "duration_minutes": 122,
+    "duration_str": "2h 2m"
+  },
+  {
+    "title": "A Lyon, l’ultradroite rend hommage à Quentin Deranque et tente d’éviter les dérapages",
+    "added_at": "2026-02-21T23:55:04.951Z"
   }
 ]
