@@ -3508,7 +3508,10 @@
   },
   {
     "title": "Battue par la Grande-Bretagne, la Suisse jouera pour le bronze",
-    "added_at": "2026-02-19T21:33:38.193Z"
+    "added_at": "2026-02-19T21:33:38.193Z",
+    "removed_at": "2026-02-21T21:50:36.619Z",
+    "duration_minutes": 2896,
+    "duration_str": "2d 16m"
   },
   {
     "title": "Sept personnes en détention provisoire après la mort du jeune néofasciste Quentin Deranque à Lyon",
@@ -3727,7 +3730,10 @@
   },
   {
     "title": "Donald Trump donne dix jours à l’Iran pour trouver un accord sur le nucléaire",
-    "added_at": "2026-02-20T18:03:24.855Z"
+    "added_at": "2026-02-20T18:03:24.855Z",
+    "removed_at": "2026-02-22T00:01:58.344Z",
+    "duration_minutes": 1798,
+    "duration_str": "1d 5h 58m"
   },
   {
     "title": "Au Royaume-Uni, l’ex-prince Andrew arrêté dans le cadre de l’affaire Jeffrey Epstein",
@@ -3969,10 +3975,7 @@
   },
   {
     "title": "Contrairement aux idées reçues, les traitements hormonaux pour la ménopause n'augmentent pas la mortalité: interview de Noémie Sachs-Guedj",
-    "added_at": "2026-02-21T19:02:41.751Z",
-    "removed_at": "2026-02-21T19:23:47.313Z",
-    "duration_minutes": 21,
-    "duration_str": "21m"
+    "added_at": "2026-02-21T19:02:41.751Z"
   },
   {
     "title": "Le Conseil de la paix, une nouvelle \"diplomatie du milliard\"",
@@ -3996,5 +3999,9 @@
   {
     "title": "A la Berlinale, l'Ours d'or du meilleur film pour \"Yellow Letters\"",
     "added_at": "2026-02-21T20:28:39.010Z"
+  },
+  {
+    "title": "Un an après les tags racistes, les Brandons de Payerne renoncent cette année aux textes satiriques",
+    "added_at": "2026-02-21T21:50:36.619Z"
   }
 ]

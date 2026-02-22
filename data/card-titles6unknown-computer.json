@@ -2755,7 +2755,10 @@
   },
   {
     "title": "Two soldiers killed during military operation in Pakistan’s northwest: Army",
-    "added_at": "2026-02-21T12:44:55.751Z"
+    "added_at": "2026-02-21T12:44:55.751Z",
+    "removed_at": "2026-02-21T22:21:03.863Z",
+    "duration_minutes": 576,
+    "duration_str": "9h 36m"
   },
   {
     "title": "Russian attack on Kharkiv kills two, Ukraine hits missile plant",
@@ -2785,7 +2788,10 @@
   },
   {
     "title": "LIVE: Manchester City vs Newcastle United – Premier League",
-    "added_at": "2026-02-21T19:08:27.075Z"
+    "added_at": "2026-02-21T19:08:27.075Z",
+    "removed_at": "2026-02-21T22:15:21.648Z",
+    "duration_minutes": 186,
+    "duration_str": "3h 6m"
   },
   {
     "title": "Far-right anti-Islam march sparks counterprotests in Manchester",
@@ -2802,5 +2808,27 @@
   {
     "title": "‘Absurd and provocative’: Huckabee faces firestorm for Israel border stance",
     "added_at": "2026-02-21T21:35:15.649Z"
+  },
+  {
+    "title": "Manchester City beat Newcastle United 2-1: Premier League",
+    "added_at": "2026-02-21T22:15:21.648Z",
+    "removed_at": "2026-02-21T22:23:00.951Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Venezuela receives more than 1,500 amnesty requests under new law",
+    "added_at": "2026-02-21T22:21:03.863Z"
+  },
+  {
+    "title": "Man City beat Newcastle 2-1 to cut gap to Arsenal to two points – updates",
+    "added_at": "2026-02-21T22:23:00.951Z",
+    "removed_at": "2026-02-21T22:49:39.957Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "Nico O’Reilly double seals key 2-1 win for Man City over Newcastle United",
+    "added_at": "2026-02-21T22:43:57.356Z"
   }
 ]
