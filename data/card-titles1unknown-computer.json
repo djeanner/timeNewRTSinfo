@@ -2366,10 +2366,7 @@
   },
   {
     "title": "Plusieurs domaines skiables valaisans fermés et des vallées coupées du monde en raison du risque d'avalanche",
-    "added_at": "2026-02-17T11:32:41.280Z",
-    "removed_at": "2026-02-22T20:23:08.618Z",
-    "duration_minutes": 7730,
-    "duration_str": "5d 8h 50m"
+    "added_at": "2026-02-17T11:32:41.280Z"
   },
   {
     "title": "Paul Cézanne à la Fondation Beyeler, une plongée fascinante dans les débuts de l'art moderne",
@@ -3518,7 +3515,10 @@
   },
   {
     "title": "Jeux Olympiques: Marianne Fatton décroche l'or en ski-alpinisme",
-    "added_at": "2026-02-19T21:22:15.152Z"
+    "added_at": "2026-02-19T21:22:15.152Z",
+    "removed_at": "2026-02-22T23:24:20.220Z",
+    "duration_minutes": 4442,
+    "duration_str": "3d 2h 2m"
   },
   {
     "title": "Jusqu'à un an de prison pour les 18 supporters sénégalais détenus depuis la finale de la CAN",
@@ -4083,7 +4083,10 @@
   },
   {
     "title": "Contrairement aux idées reçues, les traitements hormonaux pour la ménopause n'augmentent pas la mortalité: interview de Noémie Sachs-Guedj",
-    "added_at": "2026-02-21T19:02:41.751Z"
+    "added_at": "2026-02-21T19:02:41.751Z",
+    "removed_at": "2026-02-22T22:04:16.848Z",
+    "duration_minutes": 1621,
+    "duration_str": "1d 3h 1m"
   },
   {
     "title": "Le Conseil de la paix, une nouvelle \"diplomatie du milliard\"",
@@ -4296,7 +4299,10 @@
   },
   {
     "title": "Après l'incident de Lausanne, les Servettiens divisés sur les sanctions et la responsabilité des ultras",
-    "added_at": "2026-02-22T19:29:48.773Z"
+    "added_at": "2026-02-22T19:29:48.773Z",
+    "removed_at": "2026-02-22T22:31:04.042Z",
+    "duration_minutes": 181,
+    "duration_str": "3h 1m"
   },
   {
     "title": "La cérémonie de clôture des JO d'hiver 2026 a débuté à Vérone, le suivi en direct",
@@ -4315,7 +4321,10 @@
   },
   {
     "title": "La cérémonie de clôture des JO d'hiver 2026 bat son plein à Vérone, le suivi en direct",
-    "added_at": "2026-02-22T20:19:21.881Z"
+    "added_at": "2026-02-22T20:19:21.881Z",
+    "removed_at": "2026-02-22T22:09:59.241Z",
+    "duration_minutes": 110,
+    "duration_str": "1h 50m"
   },
   {
     "title": "La Suisse brille aux Jeux olympiques: retour sur les meilleurs moments",
@@ -4336,5 +4345,17 @@
   {
     "title": "Podcast - Comment s'engager politiquement?",
     "added_at": "2026-02-22T21:25:59.997Z"
+  },
+  {
+    "title": "Les JO d'hiver 2026 se sont achevés \"en beauté\" dans les Arènes de Vérone",
+    "added_at": "2026-02-22T22:09:59.241Z"
+  },
+  {
+    "title": "La Grisonne Nadja Kälin décroche le bronze dans le 50km en style classique",
+    "added_at": "2026-02-22T22:23:21.984Z"
+  },
+  {
+    "title": "Après l'incident en gare de Lausanne, les Servettiens divisés sur les sanctions et la responsabilité des ultras",
+    "added_at": "2026-02-22T22:31:04.042Z"
   }
 ]

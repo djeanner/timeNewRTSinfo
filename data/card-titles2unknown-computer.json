@@ -2615,7 +2615,10 @@
   },
   {
     "title": "sport:::En direct, JO 2026 – A Vérone, la cérémonie de clôture célèbre «la beauté en action»",
-    "added_at": "2026-02-22T19:35:31.812Z"
+    "added_at": "2026-02-22T19:35:31.812Z",
+    "removed_at": "2026-02-22T21:58:33.327Z",
+    "duration_minutes": 143,
+    "duration_str": "2h 23m"
   },
   {
     "title": "sport:::Le bilan des envoyés spéciaux du «Temps» aux JO: «La transhumance n’a pas altéré l’expérience»",
@@ -2624,5 +2627,9 @@
   {
     "title": "economie:::Droits de douane: vers un imbroglio juridique en vue de remboursements?",
     "added_at": "2026-02-22T19:48:51.936Z"
+  },
+  {
+    "title": "sport:::Notre suivi des Jeux olympiques d'hiver 2026 de Milan-Cortina, du 6 au 22 février",
+    "added_at": "2026-02-22T21:58:33.327Z"
   }
 ]
