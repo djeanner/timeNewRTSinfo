@@ -3538,7 +3538,10 @@
   },
   {
     "title": "Blatten renaît lentement, même si 70% du village est en zone rouge",
-    "added_at": "2026-02-20T05:29:05.646Z"
+    "added_at": "2026-02-20T05:29:05.646Z",
+    "removed_at": "2026-02-22T08:46:11.713Z",
+    "duration_minutes": 3077,
+    "duration_str": "2d 3h 17m"
   },
   {
     "title": "L'iconique \"Dr Glamour\" dans Grey's Anatomy, Eric Dane, est décédé à 53 ans",
@@ -3549,7 +3552,10 @@
   },
   {
     "title": "Malgré la douceur, certains téléskis neuchâtelois seront ouverts pour les relâches",
-    "added_at": "2026-02-20T07:51:58.587Z"
+    "added_at": "2026-02-20T07:51:58.587Z",
+    "removed_at": "2026-02-22T07:33:47.349Z",
+    "duration_minutes": 2861,
+    "duration_str": "1d 23h 41m"
   },
   {
     "title": "L'ONU lance une commission sur le \"contrôle humain\" de l'intelligence artificielle",
@@ -3560,7 +3566,10 @@
   },
   {
     "title": "L'ONU lance une commission pour un \"contrôle humain\" de l'intelligence artificielle",
-    "added_at": "2026-02-20T08:22:29.070Z"
+    "added_at": "2026-02-20T08:22:29.070Z",
+    "removed_at": "2026-02-22T08:46:11.713Z",
+    "duration_minutes": 2903,
+    "duration_str": "2d 23m"
   },
   {
     "title": "Comment rendre les Jeux olympiques plus viables économiquement? Interview de Michel Desbordes",
@@ -3597,7 +3606,10 @@
   },
   {
     "title": "Plurilingue et chatoyant, le nouvel album de Heidi Happy célèbre ses vingt ans de carrière",
-    "added_at": "2026-02-20T10:32:18.764Z"
+    "added_at": "2026-02-20T10:32:18.764Z",
+    "removed_at": "2026-02-22T07:18:36.315Z",
+    "duration_minutes": 2686,
+    "duration_str": "1d 20h 46m"
   },
   {
     "title": "La Suisse a fourni pour 6 milliards d'aide à l'Ukraine depuis 2022",
@@ -3621,7 +3633,10 @@
   },
   {
     "title": "\"Vertiges\", quand l'ascension de l'Eiger se fait à travers le regard de quatre touristes",
-    "added_at": "2026-02-20T12:44:21.469Z"
+    "added_at": "2026-02-20T12:44:21.469Z",
+    "removed_at": "2026-02-22T08:46:11.713Z",
+    "duration_minutes": 2641,
+    "duration_str": "1d 20h 1m"
   },
   {
     "title": "BioNTech poursuit Moderna pour violation de brevet sur son vaccin Covid",
@@ -3983,21 +3998,21 @@
   },
   {
     "title": "Hors jeu - Un pays plat roi de la glace",
-    "added_at": "2026-02-21T19:02:41.751Z"
+    "added_at": "2026-02-21T19:02:41.751Z",
+    "removed_at": "2026-02-22T08:02:20.118Z",
+    "duration_minutes": 779,
+    "duration_str": "12h 59m"
   },
   {
     "title": "Contrairement aux idées reçues, les traitements hormonaux pour la ménopause n'augmentent pas la mortalité: interview de Noémie Sachs-Guedj",
     "added_at": "2026-02-21T19:02:41.751Z",
-    "removed_at": "2026-02-22T05:18:34.984Z",
-    "duration_minutes": 615,
-    "duration_str": "10h 15m"
+    "removed_at": "2026-02-22T09:16:36.110Z",
+    "duration_minutes": 853,
+    "duration_str": "14h 13m"
   },
   {
     "title": "Le Conseil de la paix, une nouvelle \"diplomatie du milliard\"",
-    "added_at": "2026-02-21T19:02:41.751Z",
-    "removed_at": "2026-02-21T19:23:47.313Z",
-    "duration_minutes": 21,
-    "duration_str": "21m"
+    "added_at": "2026-02-21T19:02:41.751Z"
   },
   {
     "title": "La leçon du procès des viols de Mazan à l'épreuve de l'affaire Epstein, invitée Valérie Rey-Robert",
@@ -4038,5 +4053,50 @@
   {
     "title": "Fribourg pourrait officialiser le bilinguisme de douze communes",
     "added_at": "2026-02-22T07:03:17.729Z"
+  },
+  {
+    "title": "Le Conseil fédéral envisage une aide de dizaine de milliers de francs pour les victimes du Constellation",
+    "added_at": "2026-02-22T07:18:36.315Z",
+    "removed_at": "2026-02-22T08:27:05.277Z",
+    "duration_minutes": 68,
+    "duration_str": "1h 8m"
+  },
+  {
+    "title": "Kiev bombardée par des missiles avant le quatrième anniversaire de l'invasion russe à grande échelle",
+    "added_at": "2026-02-22T07:33:47.349Z"
+  },
+  {
+    "title": "Les billets et les pièces suisses ont-ils des secrets pour vous? Notre quiz",
+    "added_at": "2026-02-22T08:02:20.118Z",
+    "removed_at": "2026-02-22T08:40:27.003Z",
+    "duration_minutes": 38,
+    "duration_str": "38m"
+  },
+  {
+    "title": "Le Conseil fédéral envisage une aide de pluiseurs dizaines de milliers de francs pour les victimes du Constellation",
+    "added_at": "2026-02-22T08:27:05.277Z",
+    "removed_at": "2026-02-22T08:46:11.713Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
+  },
+  {
+    "title": "Le Pakistan mène des frappes meurtrières en Afghanistan",
+    "added_at": "2026-02-22T08:34:44.024Z"
+  },
+  {
+    "title": "\"Droit biblique\" d'Israël sur tout le Proche-Orient: l'ambassadeur américain suscite de vives réactions",
+    "added_at": "2026-02-22T08:46:11.713Z"
+  },
+  {
+    "title": "Timothée Chalamet en anti-héros détestable et fascinant dans \"Marty Supreme\"",
+    "added_at": "2026-02-22T08:46:11.713Z"
+  },
+  {
+    "title": "Le Conseil fédéral envisage une aide de plusieurs dizaines de milliers de francs pour les victimes du Constellation",
+    "added_at": "2026-02-22T08:46:11.713Z"
+  },
+  {
+    "title": "Alina Müller désignée porte-drapeau pour la clôture",
+    "added_at": "2026-02-22T08:46:11.713Z"
   }
 ]

@@ -2169,7 +2169,10 @@
   },
   {
     "title": "sport:::Le ski-cross change, mais Fanny Smith reste: la Vaudoise en argent à Livigno",
-    "added_at": "2026-02-20T15:07:35.265Z"
+    "added_at": "2026-02-20T15:07:35.265Z",
+    "removed_at": "2026-02-22T08:08:02.891Z",
+    "duration_minutes": 2460,
+    "duration_str": "1d 17h"
   },
   {
     "title": "monde:::La Cour suprême américaine juge illégale une grande partie des droits de douane imposés par Donald Trump",
@@ -2437,11 +2440,17 @@
   },
   {
     "title": "economie:::Donald Trump ordonne des nouveaux droits de douane de 10, puis de 15%, la Suisse demeure dans le flou",
-    "added_at": "2026-02-21T18:03:19.784Z"
+    "added_at": "2026-02-21T18:03:19.784Z",
+    "removed_at": "2026-02-22T09:26:13.101Z",
+    "duration_minutes": 922,
+    "duration_str": "15h 22m"
   },
   {
     "title": "culture:::Cees Nooteboom, l’homme qui écrivait avec les yeux",
-    "added_at": "2026-02-21T18:33:59.498Z"
+    "added_at": "2026-02-21T18:33:59.498Z",
+    "removed_at": "2026-02-22T08:38:30.418Z",
+    "duration_minutes": 844,
+    "duration_str": "14h 4m"
   },
   {
     "title": "monde:::A Lyon, un hommage à Quentin Deranque très politique et sous haute sécurité",
@@ -2472,5 +2481,13 @@
   {
     "title": "economie:::«Nous devons nous accommoder des droits de douane», avertit la directrice du Seco",
     "added_at": "2026-02-22T07:10:50.659Z"
+  },
+  {
+    "title": "suisse:::L’ex-conseiller d’Etat vaudois Pascal Broulis dit ne pas craindre l’enquête du ministère public sur le bouclier fiscal",
+    "added_at": "2026-02-22T08:08:02.891Z"
+  },
+  {
+    "title": "culture:::A Paris, une exposition rend hommage au grand photographe britannique Martin Parr, pourfendeur du tourisme de masse",
+    "added_at": "2026-02-22T08:38:30.418Z"
   }
 ]
