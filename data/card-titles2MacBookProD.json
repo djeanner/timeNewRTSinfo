@@ -65302,7 +65302,10 @@
   },
   {
     "title": "economie:::Licenciements à la banque Reyl à Genève",
-    "added_at": "2026-02-20T17:32:47.959Z"
+    "added_at": "2026-02-20T17:32:47.959Z",
+    "removed_at": "2026-02-22T12:24:26.357Z",
+    "duration_minutes": 2571,
+    "duration_str": "1d 18h 51m"
   },
   {
     "title": "monde:::Au Groenland, le roi du Danemark défend, par -25 degrés, un message d’unité face aux menaces de Donald Trump",
@@ -65359,7 +65362,10 @@
   },
   {
     "title": "economie:::Leclanché renfloue sa trésorerie et sécurise le versement des salaires",
-    "added_at": "2026-02-20T18:54:32.423Z"
+    "added_at": "2026-02-20T18:54:32.423Z",
+    "removed_at": "2026-02-22T11:32:43.571Z",
+    "duration_minutes": 2438,
+    "duration_str": "1d 16h 38m"
   },
   {
     "title": "monde:::La Cour suprême juge illégale une partie des droits de douane de Donald Trump",
@@ -65516,7 +65522,10 @@
   },
   {
     "title": "sport:::En direct, JO 2026 – En ski-alpinisme, la Suisse remporte la médaille d’argent lors du relais mixte",
-    "added_at": "2026-02-21T13:22:43.769Z"
+    "added_at": "2026-02-21T13:22:43.769Z",
+    "removed_at": "2026-02-22T11:27:48.856Z",
+    "duration_minutes": 1325,
+    "duration_str": "22h 5m"
   },
   {
     "title": "economie:::Face à des droits de douane américains jugés illégaux mais aussitôt remplacés, la Suisse demeure dans le flou",
@@ -65581,7 +65590,10 @@
   },
   {
     "title": "monde:::Moyen-Orient – «Ce serait bien s’ils prenaient tout», les déclarations de l’ambassadeur américain en Israël provoquent un tollé",
-    "added_at": "2026-02-22T06:48:48.066Z"
+    "added_at": "2026-02-22T06:48:48.066Z",
+    "removed_at": "2026-02-22T11:15:25.549Z",
+    "duration_minutes": 266,
+    "duration_str": "4h 26m"
   },
   {
     "title": "economie:::«Nous devons nous accommoder des droits de douane», avertit la directrice du Seco",
@@ -65598,5 +65610,31 @@
   {
     "title": "culture:::Avec le photographe Gabriel Monnet, il va y avoir du sport",
     "added_at": "2026-02-22T09:53:07.132Z"
+  },
+  {
+    "title": "suisse:::Après les sanctions pénales pour des tags discriminants, les Barbouilleurs des Brandons se sont tus, au grand regret des Payernois",
+    "added_at": "2026-02-22T11:15:25.549Z"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 – En ski de fond, Nadja Kälin médaillée de bronze sur 50 kilomètres classique",
+    "added_at": "2026-02-22T11:27:48.856Z",
+    "removed_at": "2026-02-22T11:30:19.163Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 – En ski de fond, Nadja Kälin remporte le bronze sur 50 kilomètres classique",
+    "added_at": "2026-02-22T11:30:19.163Z",
+    "removed_at": "2026-02-22T12:04:51.541Z",
+    "duration_minutes": 34,
+    "duration_str": "34m"
+  },
+  {
+    "title": "sport:::En direct, JO 2026 – Médailles de bronze pour Nadja Kälin en ski de fond sur 50 kilomètres et en bob à quatre pour l’équipage de Michael Vogt",
+    "added_at": "2026-02-22T12:04:51.541Z"
+  },
+  {
+    "title": "sciences:::A l’ère de l’IA, les scientifiques qui étudient la planète ont-ils encore besoin de chausser leurs bottes?",
+    "added_at": "2026-02-22T12:24:26.357Z"
   }
 ]
