@@ -2594,7 +2594,10 @@
   },
   {
     "title": "sport:::En argent, les curleuses offrent à la Suisse sa 23e et dernière médaille des Jeux",
-    "added_at": "2026-02-22T13:00:09.088Z"
+    "added_at": "2026-02-22T13:00:09.088Z",
+    "removed_at": "2026-02-23T16:19:48.420Z",
+    "duration_minutes": 1639,
+    "duration_str": "1d 3h 19m"
   },
   {
     "title": "culture:::Série: Dans «Code of Silence», la surdité est une arme secrète",
@@ -2644,7 +2647,10 @@
   },
   {
     "title": "sport:::Comment la Suisse a battu son record de médailles aux Jeux olympiques d’hiver",
-    "added_at": "2026-02-22T19:16:29.713Z"
+    "added_at": "2026-02-22T19:16:29.713Z",
+    "removed_at": "2026-02-23T15:52:52.995Z",
+    "duration_minutes": 1236,
+    "duration_str": "20h 36m"
   },
   {
     "title": "sport:::En direct, JO 2026 – A Vérone, la cérémonie de clôture célèbre «la beauté en action»",
@@ -2773,7 +2779,10 @@
   },
   {
     "title": "economie:::Droits de douane: le Parlement européen va suspendre l’accord de l’UE avec les Etats-Unis",
-    "added_at": "2026-02-23T12:15:53.946Z"
+    "added_at": "2026-02-23T12:15:53.946Z",
+    "removed_at": "2026-02-23T15:50:57.200Z",
+    "duration_minutes": 215,
+    "duration_str": "3h 35m"
   },
   {
     "title": "suisse:::Migration: le Tessin ne veut pas d’un projet pilote pour les requérants «récalcitrants»",
@@ -2785,6 +2794,24 @@
   },
   {
     "title": "monde:::Le nord-est des États-Unis frappé par une tempête de neige historique, New York paralysée",
-    "added_at": "2026-02-23T12:46:31.508Z"
+    "added_at": "2026-02-23T12:46:31.508Z",
+    "removed_at": "2026-02-23T16:25:35.131Z",
+    "duration_minutes": 219,
+    "duration_str": "3h 39m"
+  },
+  {
+    "title": "monde:::Le Parlement européen suspend l’accord commercial avec les Etats-Unis",
+    "added_at": "2026-02-23T15:50:57.200Z",
+    "removed_at": "2026-02-23T16:23:43.358Z",
+    "duration_minutes": 32,
+    "duration_str": "32m"
+  },
+  {
+    "title": "culture:::Cédric Pescia, un inconditionnel amoureux de Bach aux Musicales d’Epalinges",
+    "added_at": "2026-02-23T15:52:52.995Z"
+  },
+  {
+    "title": "monde:::De l’apocalypse nucléaire au prix du concombre, la société russe prise dans la guerre sans fin de Vladimir Poutine",
+    "added_at": "2026-02-23T16:23:43.358Z"
   }
 ]
