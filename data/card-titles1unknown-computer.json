@@ -4356,7 +4356,10 @@
   },
   {
     "title": "La détection de signaux extraterrestres est toujours en cours",
-    "added_at": "2026-02-22T10:36:54.665Z"
+    "added_at": "2026-02-22T10:36:54.665Z",
+    "removed_at": "2026-02-24T21:03:30.601Z",
+    "duration_minutes": 3506,
+    "duration_str": "2d 10h 26m"
   },
   {
     "title": "L’accent des autres",
@@ -4437,7 +4440,10 @@
   },
   {
     "title": "La Suissesse Nadja Kälin remporte le bronze dans le 50 km en style classique",
-    "added_at": "2026-02-22T14:20:14.819Z"
+    "added_at": "2026-02-22T14:20:14.819Z",
+    "removed_at": "2026-02-24T21:03:30.601Z",
+    "duration_minutes": 3283,
+    "duration_str": "2d 6h 43m"
   },
   {
     "title": "Un \"homme armé\" abattu dans le périmètre de la résidence de Donald Trump en Floride",
@@ -4533,7 +4539,10 @@
   },
   {
     "title": "Un jeune skieur décède dans une avalanche à Verbier",
-    "added_at": "2026-02-22T20:07:57.551Z"
+    "added_at": "2026-02-22T20:07:57.551Z",
+    "removed_at": "2026-02-24T21:03:30.601Z",
+    "duration_minutes": 2935,
+    "duration_str": "2d 55m"
   },
   {
     "title": "La cérémonie de clôture des JO d'hiver 2026 bat son plein à Vérone, le suivi en direct",
@@ -4578,11 +4587,17 @@
   },
   {
     "title": "Après l'incident en gare de Lausanne, les Servettiens divisés sur les sanctions et la responsabilité des ultras",
-    "added_at": "2026-02-22T22:31:04.042Z"
+    "added_at": "2026-02-22T22:31:04.042Z",
+    "removed_at": "2026-02-24T20:34:45.170Z",
+    "duration_minutes": 2763,
+    "duration_str": "1d 22h 3m"
   },
   {
     "title": "Une hausse de la TVA serait nécessaire et supportable selon Martin Pfister, pour financer notre défense",
-    "added_at": "2026-02-23T01:53:00.684Z"
+    "added_at": "2026-02-23T01:53:00.684Z",
+    "removed_at": "2026-02-24T19:08:33.839Z",
+    "duration_minutes": 2475,
+    "duration_str": "1d 17h 15m"
   },
   {
     "title": "New York paralysée par une violente tempête de neige",
@@ -4989,5 +5004,24 @@
   {
     "title": "La présidente mexicaine promet un Mondial de foot sans risque, malgré les récentes violences",
     "added_at": "2026-02-24T18:01:22.463Z"
+  },
+  {
+    "title": "\"Volodymyr Zelensky n'est pas le bon président pour  mettre fin à la guerre\", critique un humanitaire ukrainien",
+    "added_at": "2026-02-24T19:08:33.839Z"
+  },
+  {
+    "title": "Podcast - Armée suisse: pourquoi dépenser plus?",
+    "added_at": "2026-02-24T20:34:45.170Z"
+  },
+  {
+    "title": "Pékin presse Washington de lever les mesures commerciales \"unilatérales\"",
+    "added_at": "2026-02-24T21:03:30.601Z",
+    "removed_at": "2026-02-24T21:22:45.218Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
+  },
+  {
+    "title": "Entretien avec Sophie Jeannenot, chargée de projets d’expositions MEN",
+    "added_at": "2026-02-24T21:22:45.218Z"
   }
 ]
