@@ -3187,9 +3187,9 @@
   {
     "title": "culture:::D’Agnès Jaoui à Stephan Eicher, le bonheur est dans le pré au Théâtre du Jorat, à Mézières",
     "added_at": "2026-02-24T17:51:43.780Z",
-    "removed_at": "2026-02-25T06:04:04.972Z",
-    "duration_minutes": 732,
-    "duration_str": "12h 12m"
+    "removed_at": "2026-02-25T16:18:06.934Z",
+    "duration_minutes": 1346,
+    "duration_str": "22h 26m"
   },
   {
     "title": "monde:::Affaire Mandelson: au Royaume-Uni, l’ancien bras droit de Tony Blair catalyse la crise la plus profonde du Labour",
@@ -3263,7 +3263,10 @@
   },
   {
     "title": "cyber:::Vidéos, robots humanoïdes, modèles perfectionnés: la Chine progresse de manière fulgurante en intelligence artificielle",
-    "added_at": "2026-02-25T05:20:03.471Z"
+    "added_at": "2026-02-25T05:20:03.471Z",
+    "removed_at": "2026-02-25T16:02:49.665Z",
+    "duration_minutes": 642,
+    "duration_str": "10h 42m"
   },
   {
     "title": "monde:::Discours sur l'Etat de l'union: Donald Trump répète inlassablement le même texte",
@@ -3325,7 +3328,10 @@
   },
   {
     "title": "culture:::«Is This Thing On?» de Bradley Cooper, thérapie de couple avec micro",
-    "added_at": "2026-02-25T09:08:10.188Z"
+    "added_at": "2026-02-25T09:08:10.188Z",
+    "removed_at": "2026-02-25T14:34:44.682Z",
+    "duration_minutes": 326,
+    "duration_str": "5h 26m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Une rencontre entre Ukraine et Etats-Unis est prévue ce jeudi à Genève",
@@ -3333,7 +3339,10 @@
   },
   {
     "title": "economie:::Les résultats positifs de Sandoz ont été soutenus par la croissance des biosimilaires",
-    "added_at": "2026-02-25T10:19:26.534Z"
+    "added_at": "2026-02-25T10:19:26.534Z",
+    "removed_at": "2026-02-25T14:19:26.146Z",
+    "duration_minutes": 239,
+    "duration_str": "3h 59m"
   },
   {
     "title": "culture:::«Scream 7», recyclage bas de gamme et gore d’une franchise qui célèbre ses 30 ans",
@@ -3349,11 +3358,17 @@
   },
   {
     "title": "suisse:::Katja Gentinetta: «Que voulons-nous défendre: notre démocratie ou notre neutralité?»",
-    "added_at": "2026-02-25T12:05:06.386Z"
+    "added_at": "2026-02-25T12:05:06.386Z",
+    "removed_at": "2026-02-25T15:34:08.264Z",
+    "duration_minutes": 209,
+    "duration_str": "3h 29m"
   },
   {
     "title": "suisse:::Les militaires suisses dénoncent «l’immobilisme» de la Confédération en matière de politique de sécurité",
-    "added_at": "2026-02-25T12:05:06.386Z"
+    "added_at": "2026-02-25T12:05:06.386Z",
+    "removed_at": "2026-02-25T15:34:08.264Z",
+    "duration_minutes": 209,
+    "duration_str": "3h 29m"
   },
   {
     "title": "suisse:::Drame de Crans-Montana: le Conseil fédéral accorde 50 000 francs à chaque victime",
@@ -3361,10 +3376,47 @@
   },
   {
     "title": "suisse:::Une forte explosion a été entendue à Ilnau-Effretikon, dans le canton de Zurich",
-    "added_at": "2026-02-25T13:33:18.025Z"
+    "added_at": "2026-02-25T13:33:18.025Z",
+    "removed_at": "2026-02-25T16:23:51.246Z",
+    "duration_minutes": 170,
+    "duration_str": "2h 50m"
   },
   {
     "title": "suisse:::Guy Parmelin se rendra le 2 mars à Bruxelles pour signer le paquet des Bilatérales III avec Ursula von der Leyen",
-    "added_at": "2026-02-25T13:58:16.676Z"
+    "added_at": "2026-02-25T13:58:16.676Z",
+    "removed_at": "2026-02-25T14:15:39.559Z",
+    "duration_minutes": 17,
+    "duration_str": "17m"
+  },
+  {
+    "title": "suisse:::Guy Parmelin se rendra le 2 mars à Bruxelles pour signer le paquet des bilatérales III avec Ursula von der Leyen",
+    "added_at": "2026-02-25T14:15:39.559Z"
+  },
+  {
+    "title": "economie:::Sandoz mise toujours plus sur l’Europe et les biosimilaires",
+    "added_at": "2026-02-25T14:19:26.146Z",
+    "removed_at": "2026-02-25T16:02:49.665Z",
+    "duration_minutes": 103,
+    "duration_str": "1h 43m"
+  },
+  {
+    "title": "culture:::André Dussollier et Miou-Miou en «Chers parents» ingrats dans une comédie féroce",
+    "added_at": "2026-02-25T14:34:44.682Z"
+  },
+  {
+    "title": "economie:::L’hôtellerie suisse signe une année record, mais tempère l’enthousiasme",
+    "added_at": "2026-02-25T15:34:08.264Z"
+  },
+  {
+    "title": "suisse:::Olivier Jornot ou Pierre Bayenet comme procureur général? Ce qu’en disent les partis politiques genevois",
+    "added_at": "2026-02-25T16:02:49.665Z"
+  },
+  {
+    "title": "suisse:::Bouclier fiscal: qu’est venu faire Pascal Broulis au Grand Conseil vaudois ce mardi?",
+    "added_at": "2026-02-25T16:18:06.934Z"
+  },
+  {
+    "title": "suisse:::Une forte explosion fait deux blessés à Ilnau-Effretikon, dans le canton de Zurich",
+    "added_at": "2026-02-25T16:23:51.246Z"
   }
 ]
