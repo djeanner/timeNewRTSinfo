@@ -4654,7 +4654,10 @@
   },
   {
     "title": "Le carnaval de Bâle a démarré au petit matin avec son \"Morgenstreich\"",
-    "added_at": "2026-02-23T08:14:45.482Z"
+    "added_at": "2026-02-23T08:14:45.482Z",
+    "removed_at": "2026-02-25T03:46:01.225Z",
+    "duration_minutes": 2611,
+    "duration_str": "1d 19h 31m"
   },
   {
     "title": "Des parlementaires plaident la cause de la Suisse à Washington",
@@ -5044,5 +5047,9 @@
   {
     "title": "Démission de la présidente du Louvre, sur la sellette depuis \"le casse du siècle\"",
     "added_at": "2026-02-24T22:08:56.558Z"
+  },
+  {
+    "title": "Donald Trump vante un \"redressement historique\" de l'Amérique devant le Congrès",
+    "added_at": "2026-02-25T03:46:01.225Z"
   }
 ]
