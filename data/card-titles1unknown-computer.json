@@ -4781,7 +4781,10 @@
   },
   {
     "title": "La France fait face à une forte hausse de la consommation d'ecstasy",
-    "added_at": "2026-02-23T13:46:00.621Z"
+    "added_at": "2026-02-23T13:46:00.621Z",
+    "removed_at": "2026-02-25T20:04:20.241Z",
+    "duration_minutes": 3258,
+    "duration_str": "2d 6h 18m"
   },
   {
     "title": "La Suisse se focalise sur les salaires alors que les inégalités progressent surtout dans la fortune",
@@ -4831,7 +4834,10 @@
   },
   {
     "title": "Le Parlement européen suspend l'accord avec les Etats-Unis sur les droits de douane",
-    "added_at": "2026-02-23T16:52:43.531Z"
+    "added_at": "2026-02-23T16:52:43.531Z",
+    "removed_at": "2026-02-25T20:00:33.361Z",
+    "duration_minutes": 3067,
+    "duration_str": "2d 3h 7m"
   },
   {
     "title": "Après quatre ans de guerre, \"au fond, les Russes adorent encore l’Union européenne\", affirme Paul Gogo",
@@ -4922,7 +4928,10 @@
   },
   {
     "title": "Le chantier de l'A9 est sur la bonne voie en Valais, mais la vigilance reste de mise, prévient un audit",
-    "added_at": "2026-02-24T03:37:44.471Z"
+    "added_at": "2026-02-24T03:37:44.471Z",
+    "removed_at": "2026-02-25T19:43:20.398Z",
+    "duration_minutes": 2405,
+    "duration_str": "1d 16h 5m"
   },
   {
     "title": "Ukraine, quatre ans après: une guerre qui se transforme sans s'arrêter",
@@ -4948,11 +4957,17 @@
   },
   {
     "title": "Le Charivari, 50 ans à rythmer l'attente du Carnaval de Bâle",
-    "added_at": "2026-02-24T06:39:54.722Z"
+    "added_at": "2026-02-24T06:39:54.722Z",
+    "removed_at": "2026-02-25T20:12:02.676Z",
+    "duration_minutes": 2252,
+    "duration_str": "1d 13h 32m"
   },
   {
     "title": "Peter Mandelson arrêté, puis libéré sous caution, dans le cadre de l'affaire Epstein",
-    "added_at": "2026-02-24T06:41:53.308Z"
+    "added_at": "2026-02-24T06:41:53.308Z",
+    "removed_at": "2026-02-25T20:40:47.001Z",
+    "duration_minutes": 2278,
+    "duration_str": "1d 13h 58m"
   },
   {
     "title": "Les nouveaux droits de douane mondiaux à 10% voulus par Donald Trump entrent en vigueur",
@@ -4971,7 +4986,10 @@
   },
   {
     "title": "Martina Chyba continue d'explorer la vie d'une quinqua dans \"Un rendez-vous particulier\"",
-    "added_at": "2026-02-24T07:50:58.636Z"
+    "added_at": "2026-02-24T07:50:58.636Z",
+    "removed_at": "2026-02-25T20:25:26.153Z",
+    "duration_minutes": 2194,
+    "duration_str": "1d 12h 34m"
   },
   {
     "title": "Des dirigeants européens à Kiev pour les quatre ans de l'invasion russe",
@@ -5330,5 +5348,29 @@
   {
     "title": "Le gouvernement allemand convoque la directrice de la Berlinale après un discours anti-israélien",
     "added_at": "2026-02-25T18:09:14.875Z"
+  },
+  {
+    "title": "Des parlementaires suisses aux Etats-Unis pour mener des discussions économiques",
+    "added_at": "2026-02-25T19:43:20.398Z"
+  },
+  {
+    "title": "Des députés vaudois demandent la suspension des renvois de Palestiniens",
+    "added_at": "2026-02-25T20:00:33.361Z"
+  },
+  {
+    "title": "Les vaines promesses de l'armée russe pour enrôler des Africains et les envoyer au front",
+    "added_at": "2026-02-25T20:12:02.676Z"
+  },
+  {
+    "title": "A la suite d’un accident sur l’A9, les trafics routier et ferroviaire sont impactés dans le Chablais",
+    "added_at": "2026-02-25T20:21:36.445Z"
+  },
+  {
+    "title": "L'ensoleillement record de 2025 a boosté la production solaire en Suisse",
+    "added_at": "2026-02-25T20:25:26.153Z"
+  },
+  {
+    "title": "Un fabricant ukrainien: \"Nous menons chaque jour des améliorations sur nos drones et les diffusons aux Européens\"",
+    "added_at": "2026-02-25T20:40:47.001Z"
   }
 ]

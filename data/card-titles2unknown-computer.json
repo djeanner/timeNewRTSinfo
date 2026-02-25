@@ -1682,7 +1682,10 @@
   },
   {
     "title": "suisse:::La redevance SSR à 200 francs permettrait-elle de maintenir l’accès aux médias des personnes avec handicap sensoriel?",
-    "added_at": "2026-02-19T09:56:38.888Z"
+    "added_at": "2026-02-19T09:56:38.888Z",
+    "removed_at": "2026-02-25T20:33:06.988Z",
+    "duration_minutes": 9276,
+    "duration_str": "6d 10h 36m"
   },
   {
     "title": "sport:::En direct, JO 2026 – Ski-alpinisme: les Suisses assurent leurs places en demi-finales",
@@ -3212,9 +3215,9 @@
   {
     "title": "monde:::Droits de douane: l’administration Trump prend des risques avant les élections de mi-mandat",
     "added_at": "2026-02-24T19:44:59.120Z",
-    "removed_at": "2026-02-25T12:05:06.386Z",
-    "duration_minutes": 980,
-    "duration_str": "16h 20m"
+    "removed_at": "2026-02-25T20:54:09.702Z",
+    "duration_minutes": 1509,
+    "duration_str": "1d 1h 9m"
   },
   {
     "title": "monde:::Royaume-Uni: rattrapé par les fichiers Epstein, Peter Mandelson, ancien bras droit de Tony Blair, plonge le Labour en pleine tourmente",
@@ -3247,9 +3250,9 @@
   {
     "title": "suisse:::«L’accord douanier doit reposer sur la confiance»: des parlementaires suisses font passer le message de Berne à Washington",
     "added_at": "2026-02-25T04:08:58.491Z",
-    "removed_at": "2026-02-25T12:05:06.386Z",
-    "duration_minutes": 476,
-    "duration_str": "7h 56m"
+    "removed_at": "2026-02-25T20:54:09.702Z",
+    "duration_minutes": 1005,
+    "duration_str": "16h 45m"
   },
   {
     "title": "economie:::Aux Etats-Unis, derrière le boom du gaz et du pétrole, l’essor des énergies renouvelables",
@@ -3281,10 +3284,7 @@
   },
   {
     "title": "suisse:::Votations du 8 mars: le non à la redevance radio-TV à 200 francs progresse, suspense sur l’imposition individuelle",
-    "added_at": "2026-02-25T05:52:35.183Z",
-    "removed_at": "2026-02-25T12:05:06.386Z",
-    "duration_minutes": 372,
-    "duration_str": "6h 12m"
+    "added_at": "2026-02-25T05:52:35.183Z"
   },
   {
     "title": "suisse:::Stefan Holenstein: «La Suisse est désormais une faille dans la sécurité de l’Europe»",
@@ -3320,7 +3320,10 @@
   },
   {
     "title": "monde:::Discours sur l’état de l’Union: Donald Trump répète inlassablement le même texte",
-    "added_at": "2026-02-25T08:22:04.111Z"
+    "added_at": "2026-02-25T08:22:04.111Z",
+    "removed_at": "2026-02-25T21:05:39.956Z",
+    "duration_minutes": 763,
+    "duration_str": "12h 43m"
   },
   {
     "title": "culture:::«Woman and Child»: des femmes à l’assaut du patriarcat iranien, mais voilées",
@@ -3420,7 +3423,10 @@
   },
   {
     "title": "economie:::L’hôtellerie suisse signe une année record, mais tempère l’enthousiasme",
-    "added_at": "2026-02-25T15:34:08.264Z"
+    "added_at": "2026-02-25T15:34:08.264Z",
+    "removed_at": "2026-02-25T19:01:04.753Z",
+    "duration_minutes": 206,
+    "duration_str": "3h 26m"
   },
   {
     "title": "suisse:::Olivier Jornot ou Pierre Bayenet comme procureur général? Ce qu’en disent les partis politiques genevois",
@@ -3449,5 +3455,13 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Le Conseil fédéral interdit l'achat et l'importation de gaz naturel liquéfié russe",
     "added_at": "2026-02-25T18:20:46.274Z"
+  },
+  {
+    "title": "sport:::Les miracles n’ont lieu qu’une fois. Or, Bodø/Glimt enchaîne les victoires, comme le FC Thoune ou Mjállby",
+    "added_at": "2026-02-25T19:01:04.753Z"
+  },
+  {
+    "title": "culture:::Avec «En beaux caractères», Dóra Kiss fait le choix du roman pour combler les silences d’une famille arrivée de Hongrie en Suisse en 1956",
+    "added_at": "2026-02-25T21:03:48.349Z"
   }
 ]
