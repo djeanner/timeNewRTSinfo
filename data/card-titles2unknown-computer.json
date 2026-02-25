@@ -3150,10 +3150,7 @@
   },
   {
     "title": "monde:::Emmanuel Macron sur l’Ukraine: «A ceux qui croient pouvoir compter sur notre fatigue: ils se trompent»",
-    "added_at": "2026-02-24T16:17:44.684Z",
-    "removed_at": "2026-02-25T09:08:10.188Z",
-    "duration_minutes": 1010,
-    "duration_str": "16h 50m"
+    "added_at": "2026-02-24T16:17:44.684Z"
   },
   {
     "title": "suisse:::Faut-il individualiser l’impôt? Les enjeux d’un vote sensible",
@@ -3302,11 +3299,17 @@
   },
   {
     "title": "suisse:::En privant les vaches suisses des pâturages français à cause de la dermatose nodulaire, Berne fauche une tradition séculaire",
-    "added_at": "2026-02-25T07:11:11.114Z"
+    "added_at": "2026-02-25T07:11:11.114Z",
+    "removed_at": "2026-02-25T17:55:51.441Z",
+    "duration_minutes": 644,
+    "duration_str": "10h 44m"
   },
   {
     "title": "suisse:::Festival de la Pride, Züri Fäscht et Zürich Open Air annulés: Zurich a-t-elle perdu le sens de la fête?",
-    "added_at": "2026-02-25T07:30:20.867Z"
+    "added_at": "2026-02-25T07:30:20.867Z",
+    "removed_at": "2026-02-25T17:55:51.441Z",
+    "duration_minutes": 625,
+    "duration_str": "10h 25m"
   },
   {
     "title": "monde:::Discours sur l’Etat de l’Union: Donald Trump répète inlassablement le même texte",
@@ -3335,7 +3338,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Une rencontre entre Ukraine et Etats-Unis est prévue ce jeudi à Genève",
-    "added_at": "2026-02-25T09:48:40.687Z"
+    "added_at": "2026-02-25T09:48:40.687Z",
+    "removed_at": "2026-02-25T18:20:46.274Z",
+    "duration_minutes": 512,
+    "duration_str": "8h 32m"
   },
   {
     "title": "economie:::Les résultats positifs de Sandoz ont été soutenus par la croissance des biosimilaires",
@@ -3350,7 +3356,10 @@
   },
   {
     "title": "culture:::Trente ans de «Scream», ou trois décennies de jeunesse américaine",
-    "added_at": "2026-02-25T11:20:49.382Z"
+    "added_at": "2026-02-25T11:20:49.382Z",
+    "removed_at": "2026-02-25T18:07:19.586Z",
+    "duration_minutes": 406,
+    "duration_str": "6h 46m"
   },
   {
     "title": "monde:::Attaques contre la magistrature: Giorgia Meloni sur la voie de «la dérive autoritaire»",
@@ -3390,7 +3399,10 @@
   },
   {
     "title": "suisse:::Guy Parmelin se rendra le 2 mars à Bruxelles pour signer le paquet des bilatérales III avec Ursula von der Leyen",
-    "added_at": "2026-02-25T14:15:39.559Z"
+    "added_at": "2026-02-25T14:15:39.559Z",
+    "removed_at": "2026-02-25T17:17:34.416Z",
+    "duration_minutes": 181,
+    "duration_str": "3h 1m"
   },
   {
     "title": "economie:::Sandoz mise toujours plus sur l’Europe et les biosimilaires",
@@ -3401,7 +3413,10 @@
   },
   {
     "title": "culture:::André Dussollier et Miou-Miou en «Chers parents» ingrats dans une comédie féroce",
-    "added_at": "2026-02-25T14:34:44.682Z"
+    "added_at": "2026-02-25T14:34:44.682Z",
+    "removed_at": "2026-02-25T18:18:49.878Z",
+    "duration_minutes": 224,
+    "duration_str": "3h 44m"
   },
   {
     "title": "economie:::L’hôtellerie suisse signe une année record, mais tempère l’enthousiasme",
@@ -3418,5 +3433,21 @@
   {
     "title": "suisse:::Une forte explosion fait deux blessés à Ilnau-Effretikon, dans le canton de Zurich",
     "added_at": "2026-02-25T16:23:51.246Z"
+  },
+  {
+    "title": "suisse:::Guy Parmelin est attendu le 2 mars à Bruxelles pour signer le paquet des bilatérales III avec Ursula von der Leyen",
+    "added_at": "2026-02-25T17:17:34.416Z"
+  },
+  {
+    "title": "monde:::Blocage de Telegram et poursuite de la guerre: Vladimir Poutine resserre ses liens avec les services spéciaux",
+    "added_at": "2026-02-25T17:55:51.441Z"
+  },
+  {
+    "title": "economie:::Les producteurs d’Afrique de l’Ouest paient le prix fort de la chute du cacao",
+    "added_at": "2026-02-25T18:07:19.586Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Le Conseil fédéral interdit l'achat et l'importation de gaz naturel liquéfié russe",
+    "added_at": "2026-02-25T18:20:46.274Z"
   }
 ]
