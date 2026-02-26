@@ -5343,7 +5343,10 @@
   },
   {
     "title": "L'A9 fermée entre Bex et St-Maurice après un accident de poids lourd, la ligne CFF également interrompue",
-    "added_at": "2026-02-25T15:30:21.485Z"
+    "added_at": "2026-02-25T15:30:21.485Z",
+    "removed_at": "2026-02-26T02:33:15.553Z",
+    "duration_minutes": 662,
+    "duration_str": "11h 2m"
   },
   {
     "title": "Des résidents à l'année du camping de Vidy priés de libérer les lieux",
@@ -5403,5 +5406,16 @@
   {
     "title": "L'Iran refuse de parler de son programme balistique, un problème pour Marco Rubio",
     "added_at": "2026-02-26T01:41:33.297Z"
+  },
+  {
+    "title": "L'A9 partiellement rétablie entre Bex et St-Maurice après un accident de poids lourd, la ligne CFF rouverte",
+    "added_at": "2026-02-26T02:29:28.092Z",
+    "removed_at": "2026-02-26T03:59:16.786Z",
+    "duration_minutes": 89,
+    "duration_str": "1h 29m"
+  },
+  {
+    "title": "L'A9 rétablie entre Bex et St-Maurice après un accident de poids lourd, la ligne CFF rouverte également",
+    "added_at": "2026-02-26T03:55:28.602Z"
   }
 ]
