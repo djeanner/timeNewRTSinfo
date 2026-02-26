@@ -4932,7 +4932,10 @@
   },
   {
     "title": "Un policier tué dans une explosion déclenchée par \"un criminel\" près d'une gare de Moscou",
-    "added_at": "2026-02-24T02:34:26.791Z"
+    "added_at": "2026-02-24T02:34:26.791Z",
+    "removed_at": "2026-02-26T23:01:07.135Z",
+    "duration_minutes": 4106,
+    "duration_str": "2d 20h 26m"
   },
   {
     "title": "Des lacunes relevées dans le contrôle de la sécurité au travail en Suisse",
@@ -5640,11 +5643,17 @@
   },
   {
     "title": "Hillary et Bill Clinton auditionnés sur leurs liens avec Jeffrey Esptein",
-    "added_at": "2026-02-26T18:03:57.821Z"
+    "added_at": "2026-02-26T18:03:57.821Z",
+    "removed_at": "2026-02-26T21:44:27.870Z",
+    "duration_minutes": 220,
+    "duration_str": "3h 40m"
   },
   {
     "title": "L’hôtellerie suisse a vécu une année record: interview de Jean-Claude Raemy",
-    "added_at": "2026-02-26T19:03:23.640Z"
+    "added_at": "2026-02-26T19:03:23.640Z",
+    "removed_at": "2026-02-26T23:18:20.617Z",
+    "duration_minutes": 254,
+    "duration_str": "4h 14m"
   },
   {
     "title": "Les nouveaux pourparlers entre l'Iran et les Etats-Unis s'achèvent sur des \"avancées significatives\"",
@@ -5679,5 +5688,13 @@
   {
     "title": "L'Iran salue de \"bons progrès\" à Genève, nouveaux pourparlers avec Washington \"dans moins d'une semaine\"",
     "added_at": "2026-02-26T20:31:29.937Z"
+  },
+  {
+    "title": "Hillary et Bill Clinton auditionnés sur leurs liens avec Jeffrey Epstein",
+    "added_at": "2026-02-26T21:44:27.870Z"
+  },
+  {
+    "title": "Le pari de la présidente du Mexique face aux narcotrafiquants",
+    "added_at": "2026-02-26T23:18:20.617Z"
   }
 ]
