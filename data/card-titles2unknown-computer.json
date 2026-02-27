@@ -477,10 +477,7 @@
   },
   {
     "title": "suisse:::Elections communales: cinq candidats à la Municipalité de Lausanne croisent le fer sur la mobilité",
-    "added_at": "2026-02-14T22:02:25.214Z",
-    "removed_at": "2026-02-16T13:01:19.092Z",
-    "duration_minutes": 2338,
-    "duration_str": "1d 14h 58m"
+    "added_at": "2026-02-14T22:02:25.214Z"
   },
   {
     "title": "monde:::A la Conférence de Munich, Marco Rubio prône la restauration de la «civilisation occidentale»",
@@ -3561,7 +3558,10 @@
   },
   {
     "title": "suisse:::Des avocats critiquent les auditions des 150 députées et députés du Grand Conseil vaudois par le Ministère public",
-    "added_at": "2026-02-26T06:03:45.507Z"
+    "added_at": "2026-02-26T06:03:45.507Z",
+    "removed_at": "2026-02-27T08:01:33.295Z",
+    "duration_minutes": 1557,
+    "duration_str": "1d 1h 57m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Taxés par Trump de «sinistres ambitions nucléaires», les Iraniens à Genève pour les pourparlers",
@@ -3808,7 +3808,10 @@
   },
   {
     "title": "monde:::Des «avancées» à Genève entre Washington et Téhéran, suite des discussions à Vienne la semaine prochaine",
-    "added_at": "2026-02-26T18:59:35.145Z"
+    "added_at": "2026-02-26T18:59:35.145Z",
+    "removed_at": "2026-02-27T07:59:37.681Z",
+    "duration_minutes": 780,
+    "duration_str": "13h"
   },
   {
     "title": "sciences:::Les dessous de la reproduction sexuelle entre Neandertal et «Homo sapiens» dévoilés grâce à la génétique",
@@ -3853,7 +3856,10 @@
   },
   {
     "title": "monde:::Le Pakistan déclare la «guerre» aux autorités talibanes d’Afghanistan",
-    "added_at": "2026-02-27T03:52:25.434Z"
+    "added_at": "2026-02-27T03:52:25.434Z",
+    "removed_at": "2026-02-27T08:28:29.909Z",
+    "duration_minutes": 276,
+    "duration_str": "4h 36m"
   },
   {
     "title": "suisse:::Le Jurassien Pierre-Alain Fridez démissionne du Conseil national",
@@ -3875,7 +3881,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’Iran salue de «bons progrès», nouveaux pourparlers avec Washington «dans moins d’une semaine»",
-    "added_at": "2026-02-27T05:30:09.437Z"
+    "added_at": "2026-02-27T05:30:09.437Z",
+    "removed_at": "2026-02-27T07:59:37.681Z",
+    "duration_minutes": 149,
+    "duration_str": "2h 29m"
   },
   {
     "title": "economie:::Roman Trushev, ou comment se faire voler son entreprise florissante en Russie",
@@ -3887,10 +3896,33 @@
   },
   {
     "title": "economie:::Surprise, Netflix renonce à racheter Warner, qui va se vendre à Paramount la mort dans l'âme",
-    "added_at": "2026-02-27T06:25:41.666Z"
+    "added_at": "2026-02-27T06:25:41.666Z",
+    "removed_at": "2026-02-27T07:30:42.555Z",
+    "duration_minutes": 65,
+    "duration_str": "1h 5m"
   },
   {
     "title": "suisse:::La fin de dix-sept ans de règne à la mairie, le PLR face à son destin, une majorité de gauche fragile: des élections zurichoises sous haute tension",
     "added_at": "2026-02-27T06:25:41.666Z"
+  },
+  {
+    "title": "economie:::Surprise, Netflix renonce à acheter Warner, qui va se vendre à Paramount la mort dans l'âme",
+    "added_at": "2026-02-27T07:30:42.555Z"
+  },
+  {
+    "title": "suisse:::Elections communales vaudoises: à Syens, 151 habitants, personne ne veut diriger le village",
+    "added_at": "2026-02-27T07:59:37.681Z"
+  },
+  {
+    "title": "suisse:::Elections communales vaudoises: Vevey lutte toujours contre le deal alors que Montreux doit relancer ses affaires dans son centre de congrès rénové",
+    "added_at": "2026-02-27T07:59:37.681Z"
+  },
+  {
+    "title": "cyber:::En Suisse, l’e-ID pourrait devenir l’un des moyens pour accéder à du contenu pornographique en ligne",
+    "added_at": "2026-02-27T08:01:33.295Z"
+  },
+  {
+    "title": "monde:::Le Pakistan bombarde Kaboul dans la «guerre ouverte» déclarée aux autorités talibanes",
+    "added_at": "2026-02-27T08:28:29.909Z"
   }
 ]
