@@ -5321,10 +5321,7 @@
   },
   {
     "title": "Les résultats du 2e sondage SSR sur les votations du 8 mars 2026",
-    "added_at": "2026-02-25T08:22:04.054Z",
-    "removed_at": "2026-02-27T18:00:53.624Z",
-    "duration_minutes": 3458,
-    "duration_str": "2d 9h 38m"
+    "added_at": "2026-02-25T08:22:04.054Z"
   },
   {
     "title": "Le canton de Fribourg aura de nouveau un hôtel cinq étoiles, une première depuis 2013",
@@ -5360,7 +5357,10 @@
   },
   {
     "title": "Le discours de Donald Trump sur l’état de la (dés)union, invité Jérôme Viala-Gaudefroy",
-    "added_at": "2026-02-25T10:23:14.373Z"
+    "added_at": "2026-02-25T10:23:14.373Z",
+    "removed_at": "2026-02-27T19:02:18.755Z",
+    "duration_minutes": 3399,
+    "duration_str": "2d 8h 39m"
   },
   {
     "title": "Une audience record pour les Jeux olympiques d’hiver sur la RTS",
@@ -5512,11 +5512,17 @@
   },
   {
     "title": "La ligne Fribourg-Lausanne perturbée jusqu'à ce soir à cause d'un dégât à la voie",
-    "added_at": "2026-02-25T14:59:39.590Z"
+    "added_at": "2026-02-25T14:59:39.590Z",
+    "removed_at": "2026-02-27T20:39:55.218Z",
+    "duration_minutes": 3220,
+    "duration_str": "2d 5h 40m"
   },
   {
     "title": "Un vaccin ARN messager contre le cancer du sein triple négatif montre des résultats encourageants",
-    "added_at": "2026-02-25T15:18:52.308Z"
+    "added_at": "2026-02-25T15:18:52.308Z",
+    "removed_at": "2026-02-27T20:45:39.516Z",
+    "duration_minutes": 3206,
+    "duration_str": "2d 5h 26m"
   },
   {
     "title": "L'A9 fermée entre Bex et St-Maurice après un accident de poids lourd, la ligne CFF également interrompue",
@@ -5556,7 +5562,10 @@
   },
   {
     "title": "Des députés vaudois demandent la suspension des renvois de Palestiniens",
-    "added_at": "2026-02-25T20:00:33.361Z"
+    "added_at": "2026-02-25T20:00:33.361Z",
+    "removed_at": "2026-02-27T19:52:04.952Z",
+    "duration_minutes": 2871,
+    "duration_str": "1d 23h 51m"
   },
   {
     "title": "Les vaines promesses de l'armée russe pour enrôler des Africains et les envoyer au front",
@@ -5568,7 +5577,10 @@
   },
   {
     "title": "L'ensoleillement record de 2025 a boosté la production solaire en Suisse",
-    "added_at": "2026-02-25T20:25:26.153Z"
+    "added_at": "2026-02-25T20:25:26.153Z",
+    "removed_at": "2026-02-27T21:10:34.251Z",
+    "duration_minutes": 2925,
+    "duration_str": "2d 45m"
   },
   {
     "title": "Un fabricant ukrainien: \"Nous menons chaque jour des améliorations sur nos drones et les diffusons aux Européens\"",
@@ -5594,7 +5606,10 @@
   },
   {
     "title": "L'Iran refuse de parler de son programme balistique, un problème pour Marco Rubio",
-    "added_at": "2026-02-26T01:41:33.297Z"
+    "added_at": "2026-02-26T01:41:33.297Z",
+    "removed_at": "2026-02-27T20:41:51.168Z",
+    "duration_minutes": 2580,
+    "duration_str": "1d 19h"
   },
   {
     "title": "L'A9 partiellement rétablie entre Bex et St-Maurice après un accident de poids lourd, la ligne CFF rouverte",
@@ -5650,7 +5665,10 @@
   },
   {
     "title": "Il se passe quoi avec le budget de la Confédération ?",
-    "added_at": "2026-02-26T09:23:10.664Z"
+    "added_at": "2026-02-26T09:23:10.664Z",
+    "removed_at": "2026-02-27T19:02:18.755Z",
+    "duration_minutes": 2019,
+    "duration_str": "1d 9h 39m"
   },
   {
     "title": "Qui était Peter Stämpfli, le peintre suisse obsédé par les pneus?",
@@ -5991,5 +6009,36 @@
   {
     "title": "\"À mort les traîtres\": le local d'une élue écologiste vandalisé à Strasbourg",
     "added_at": "2026-02-27T18:44:52.711Z"
+  },
+  {
+    "title": "Sport matin - Malgré sa domination, le HC Sierre pourrait ne pas monter en National League",
+    "added_at": "2026-02-27T19:02:18.755Z"
+  },
+  {
+    "title": "La faille des Fios dans le val d'Anniviers continue de s'agrandir, la région prépare des mesures",
+    "added_at": "2026-02-27T19:52:04.952Z"
+  },
+  {
+    "title": "La durée des mandats des dirigeants d’entreprise divisés par deux en un siècle",
+    "added_at": "2026-02-27T20:39:55.218Z",
+    "removed_at": "2026-02-27T21:04:49.371Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "Au CERN, le LHC vient de redémarrer pour la dernière fois, avant de subir un important lifting",
+    "added_at": "2026-02-27T20:41:51.168Z"
+  },
+  {
+    "title": "Des agents de sécurité déployés à l'entrée de caisses cantonales de chômage, signe d'une tension persistante",
+    "added_at": "2026-02-27T20:45:39.516Z"
+  },
+  {
+    "title": "La durée des mandats des dirigeants d’entreprise divisée par deux en un siècle",
+    "added_at": "2026-02-27T21:04:49.371Z"
+  },
+  {
+    "title": "La franchise Pokémon fête ses 30 ans et annonce deux nouveaux jeux",
+    "added_at": "2026-02-27T21:10:34.251Z"
   }
 ]
