@@ -5275,7 +5275,10 @@
   },
   {
     "title": "La plateforme vidéo \"Flexi\" rend les spectacles accessibles à ceux qui ne peuvent sortir",
-    "added_at": "2026-02-25T07:13:06.621Z"
+    "added_at": "2026-02-25T07:13:06.621Z",
+    "removed_at": "2026-02-27T01:34:29.921Z",
+    "duration_minutes": 2541,
+    "duration_str": "1d 18h 21m"
   },
   {
     "title": "Huit semaines après l'incendie de Crans-Montana, 58 victimes sont toujours hospitalisées",
@@ -5696,5 +5699,9 @@
   {
     "title": "Le pari de la présidente du Mexique face aux narcotrafiquants",
     "added_at": "2026-02-26T23:18:20.617Z"
+  },
+  {
+    "title": "Le Pakistan déclare la \"guerre ouverte\" aux autorités talibanes après avoir bombardé Kaboul et Kandahar",
+    "added_at": "2026-02-27T01:34:29.921Z"
   }
 ]

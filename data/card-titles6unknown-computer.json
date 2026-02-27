@@ -4830,7 +4830,10 @@
   },
   {
     "title": "Hillary Clinton calls for Trump to testify at US House Epstein hearing",
-    "added_at": "2026-02-26T19:18:45.685Z"
+    "added_at": "2026-02-26T19:18:45.685Z",
+    "removed_at": "2026-02-27T01:47:58.309Z",
+    "duration_minutes": 389,
+    "duration_str": "6h 29m"
   },
   {
     "title": "After State of the Union, Trump’s agenda faces new political reality",
@@ -4856,14 +4859,14 @@
   },
   {
     "title": "Afghanistan launches attacks against Pakistan, draws ‘immediate response’",
-    "added_at": "2026-02-26T20:31:30.998Z",
-    "removed_at": "2026-02-26T23:41:24.324Z",
-    "duration_minutes": 189,
-    "duration_str": "3h 9m"
+    "added_at": "2026-02-26T20:31:30.998Z"
   },
   {
     "title": "US government asks Supreme Court to allow deportation of Syrian migrants",
-    "added_at": "2026-02-26T20:44:58.489Z"
+    "added_at": "2026-02-26T20:44:58.489Z",
+    "removed_at": "2026-02-27T01:15:22.662Z",
+    "duration_minutes": 270,
+    "duration_str": "4h 30m"
   },
   {
     "title": "Columbia University says US immigration agents lied to detain student",
@@ -4891,5 +4894,23 @@
   {
     "title": "Cuba says speedboat attackers from Florida planned to destabilise country",
     "added_at": "2026-02-26T23:01:08.185Z"
+  },
+  {
+    "title": "US tax agency broke privacy law ‘approximately 42,695 times’, judge says",
+    "added_at": "2026-02-27T01:15:22.662Z"
+  },
+  {
+    "title": "Pakistan warplanes bomb Kabul as clashes with Afghanistan intensify",
+    "added_at": "2026-02-27T01:47:58.309Z",
+    "removed_at": "2026-02-27T01:55:40.191Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Pakistan warplanes bomb Kabul; Islamabad declares ‘open war’ on Afghanistan",
+    "added_at": "2026-02-27T01:55:40.191Z",
+    "removed_at": "2026-02-27T02:03:15.955Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
   }
 ]
