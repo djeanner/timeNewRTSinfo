@@ -5409,7 +5409,10 @@
   },
   {
     "title": "La Confédération versera 50'000 francs aux blessés et proches des victimes de Crans-Montana",
-    "added_at": "2026-02-25T12:20:26.536Z"
+    "added_at": "2026-02-25T12:20:26.536Z",
+    "removed_at": "2026-02-28T03:30:21.225Z",
+    "duration_minutes": 3789,
+    "duration_str": "2d 15h 9m"
   },
   {
     "title": "Le résumé de l'actualité romande",
@@ -5561,7 +5564,10 @@
   },
   {
     "title": "Des parlementaires suisses aux Etats-Unis pour mener des discussions économiques",
-    "added_at": "2026-02-25T19:43:20.398Z"
+    "added_at": "2026-02-25T19:43:20.398Z",
+    "removed_at": "2026-02-28T04:22:04.782Z",
+    "duration_minutes": 3398,
+    "duration_str": "2d 8h 38m"
   },
   {
     "title": "Des députés vaudois demandent la suspension des renvois de Palestiniens",
@@ -6054,5 +6060,13 @@
   {
     "title": "Les Mexicains ont peur des cartels de la drogue mais envie d'en finir",
     "added_at": "2026-02-28T00:03:15.402Z"
+  },
+  {
+    "title": "Au moins 15 morts dans le crash d'un avion militaire rempli de billets de banque en Bolivie",
+    "added_at": "2026-02-28T03:30:21.225Z"
+  },
+  {
+    "title": "Le Sénat argentin adopte définitivement la réforme du travail contestée du président Javier Milei",
+    "added_at": "2026-02-28T04:22:04.782Z"
   }
 ]
