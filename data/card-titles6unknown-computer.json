@@ -5940,7 +5940,10 @@
   },
   {
     "title": "LIVE: India vs West Indies – T20 World Cup Super Eights",
-    "added_at": "2026-03-01T10:41:13.410Z"
+    "added_at": "2026-03-01T10:41:13.410Z",
+    "removed_at": "2026-03-01T18:06:48.429Z",
+    "duration_minutes": 445,
+    "duration_str": "7h 25m"
   },
   {
     "title": "Analysis: Khamenei killing risks ‘scorched earth’ war, not collapse",
@@ -5995,10 +5998,7 @@
   },
   {
     "title": "At least nine killed after Iranian strike on Israel’s Beit Shemesh",
-    "added_at": "2026-03-01T14:23:04.777Z",
-    "removed_at": "2026-03-01T15:42:39.173Z",
-    "duration_minutes": 79,
-    "duration_str": "1h 19m"
+    "added_at": "2026-03-01T14:23:04.777Z"
   },
   {
     "title": "3 US soldiers killed, 5 wounded in Iran retaliation after deadly attacks",
@@ -6014,6 +6014,20 @@
   },
   {
     "title": "Photos: Iranian missile strike on Israel’s Beit Shemesh kills nine people",
-    "added_at": "2026-03-01T15:42:39.173Z"
+    "added_at": "2026-03-01T15:42:39.173Z",
+    "removed_at": "2026-03-01T18:06:48.429Z",
+    "duration_minutes": 144,
+    "duration_str": "2h 24m"
+  },
+  {
+    "title": "LIVE: India beat West Indies by five wickets – T20 World Cup Super Eights",
+    "added_at": "2026-03-01T18:06:48.429Z",
+    "removed_at": "2026-03-01T18:14:25.467Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Cool Samson crushes West Indies, leads India into T20 World Cup semis",
+    "added_at": "2026-03-01T18:14:25.467Z"
   }
 ]
