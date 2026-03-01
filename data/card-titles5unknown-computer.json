@@ -10638,7 +10638,10 @@
   },
   {
     "title": "« Le destin de Laurence des Cars à la tête du Louvre remet une question sur la table : pourquoi les grands patrons culturels deviennent-ils fous ? »",
-    "added_at": "2026-02-27T06:12:18.542Z"
+    "added_at": "2026-02-27T06:12:18.542Z",
+    "removed_at": "2026-03-01T04:24:18.864Z",
+    "duration_minutes": 2772,
+    "duration_str": "1d 22h 12m"
   },
   {
     "title": "« L’Attachement », « Nouvelle Vague », Léa Drucker et Laurent Lafitte, grands vainqueurs d’une cérémonie des Césars sans effusion",
@@ -10768,10 +10771,7 @@
   },
   {
     "title": "Les injustices du système scolaire, machine à faire voter pour l’extrême droite",
-    "added_at": "2026-02-27T08:15:03.108Z",
-    "removed_at": "2026-03-01T02:04:30.510Z",
-    "duration_minutes": 2509,
-    "duration_str": "1d 17h 49m"
+    "added_at": "2026-02-27T08:15:03.108Z"
   },
   {
     "title": "Le gouvernement Lecornu III récompense les proches d’Emmanuel Macron et du premier ministre",
@@ -10930,9 +10930,9 @@
   {
     "title": "Football : « Les champions jonglent désormais avec leurs holdings aussi facilement que s’il s’agissait d’un ballon rond »",
     "added_at": "2026-02-27T10:41:10.013Z",
-    "removed_at": "2026-03-01T02:02:39.314Z",
-    "duration_minutes": 2361,
-    "duration_str": "1d 15h 21m"
+    "removed_at": "2026-03-01T04:28:07.194Z",
+    "duration_minutes": 2506,
+    "duration_str": "1d 17h 46m"
   },
   {
     "title": "Block secoue le secteur de la tech en annonçant le licenciement de 40 % de ses effectifs, remplacés par de l’IA",
@@ -11426,7 +11426,10 @@
   },
   {
     "title": "Derrière les dissensions entre Donald Trump et Anthropic, les débats politiques, éthiques et philosophiques sur l’usage militaire de l’IA",
-    "added_at": "2026-02-28T07:45:55.318Z"
+    "added_at": "2026-02-28T07:45:55.318Z",
+    "removed_at": "2026-03-01T04:28:07.194Z",
+    "duration_minutes": 1242,
+    "duration_str": "20h 42m"
   },
   {
     "title": "Iran :  Donald Trump annonce avoir lancé une opération militaire ; des explosions ⁠retentissent à ‌Téhéran, Ispahan et dans plusieurs autres villes",
@@ -11590,10 +11593,7 @@
   },
   {
     "title": "Le discours de Donald Trump annonçant les frappes américaines : « Nous veillerons à ce que l’Iran n’obtienne pas d’arme nucléaire »",
-    "added_at": "2026-02-28T14:06:41.649Z",
-    "removed_at": "2026-03-01T01:56:55.218Z",
-    "duration_minutes": 710,
-    "duration_str": "11h 50m"
+    "added_at": "2026-02-28T14:06:41.649Z"
   },
   {
     "title": "Des PMU dans leur jus à la vogue du bleu de travail : la ruée vers l’authentique, un nouveau « tourisme social »",
@@ -11881,10 +11881,17 @@
   },
   {
     "title": "EN DIRECT, Iran : la mort du Guide suprême, Ali Khamenei, est confirmée par les médias d’Etat iraniens",
-    "added_at": "2026-03-01T02:02:39.314Z"
+    "added_at": "2026-03-01T02:02:39.314Z",
+    "removed_at": "2026-03-01T02:31:25.809Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
   },
   {
     "title": "Iran : la mort du Guide suprême, Ali Khamenei, est confirmée, les gardiens de la révolution promettent « un châtiment sévère » à ses « meurtriers »",
     "added_at": "2026-03-01T02:04:30.510Z"
+  },
+  {
+    "title": "EN DIRECT, Iran : la mort du Guide suprême, Ali Khamenei, est confirmée, les gardiens de la révolution promettent « un châtiment sévère » à ses « meurtriers »",
+    "added_at": "2026-03-01T02:31:25.809Z"
   }
 ]
