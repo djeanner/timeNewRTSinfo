@@ -81502,7 +81502,10 @@
   },
   {
     "title": "Israeli strikes hit southern Lebanon’s al-Tuffah region, Markaba: Reports",
-    "added_at": "2026-02-28T06:42:00.462Z"
+    "added_at": "2026-02-28T06:42:00.462Z",
+    "removed_at": "2026-02-28T23:59:47.792Z",
+    "duration_minutes": 1037,
+    "duration_str": "17h 17m"
   },
   {
     "title": "Israel launches attack on Iran, explosions in downtown Tehran",
@@ -81513,7 +81516,10 @@
   },
   {
     "title": "Pakistan says ‘no dialogue’ with Afghanistan as attacks persist",
-    "added_at": "2026-02-28T06:52:23.595Z"
+    "added_at": "2026-02-28T06:52:23.595Z",
+    "removed_at": "2026-02-28T22:28:59.264Z",
+    "duration_minutes": 936,
+    "duration_str": "15h 36m"
   },
   {
     "title": "ISRAEL ATTACKS IRAN",
@@ -81608,7 +81614,10 @@
   },
   {
     "title": "Who is Iran’s Supreme Leader Khamenei and why is he a possible target?",
-    "added_at": "2026-02-28T09:08:11.503Z"
+    "added_at": "2026-02-28T09:08:11.503Z",
+    "removed_at": "2026-02-28T22:26:30.989Z",
+    "duration_minutes": 798,
+    "duration_str": "13h 18m"
   },
   {
     "title": "OpenAI strikes deal with Pentagon to use tech in ‘classified network’",
@@ -81723,11 +81732,17 @@
   },
   {
     "title": "Israel strikes two schools in Iran, killing more than 80 people",
-    "added_at": "2026-02-28T16:20:05.390Z"
+    "added_at": "2026-02-28T16:20:05.390Z",
+    "removed_at": "2026-02-28T23:03:20.074Z",
+    "duration_minutes": 403,
+    "duration_str": "6h 43m"
   },
   {
     "title": "Mapping US and Israeli attacks on Iran and Tehran’s retaliatory strikes",
-    "added_at": "2026-02-28T16:24:59.195Z"
+    "added_at": "2026-02-28T16:24:59.195Z",
+    "removed_at": "2026-02-28T23:27:55.328Z",
+    "duration_minutes": 422,
+    "duration_str": "7h 2m"
   },
   {
     "title": "LIVE: Barcelona thrash Villarreal 4-1: La Liga",
@@ -81749,14 +81764,17 @@
   },
   {
     "title": "Pakistan edge last-ball thriller against Sri Lanka but exit T20 World Cup",
-    "added_at": "2026-02-28T17:45:54.793Z"
+    "added_at": "2026-02-28T17:45:54.793Z",
+    "removed_at": "2026-02-28T23:13:10.003Z",
+    "duration_minutes": 327,
+    "duration_str": "5h 27m"
   },
   {
     "title": "US-ISRAELI ATTACKS ON IRAN KILL 201; IRAN FIRES BACK, BLASTS ACROSS REGION",
     "added_at": "2026-02-28T17:50:51.894Z",
-    "removed_at": "2026-02-28T20:30:39.654Z",
-    "duration_minutes": 159,
-    "duration_str": "2h 39m"
+    "removed_at": "2026-02-28T21:52:00.993Z",
+    "duration_minutes": 241,
+    "duration_str": "4h 1m"
   },
   {
     "title": "Nine months after 12-day war, US, Israel seek to topple Iran’s leaders",
@@ -81775,10 +81793,62 @@
   },
   {
     "title": "Iran’s Supreme Leader Ali Khamenei killed in US-Israeli attacks: Reports",
-    "added_at": "2026-02-28T20:42:56.455Z"
+    "added_at": "2026-02-28T20:42:56.455Z",
+    "removed_at": "2026-02-28T22:11:50.838Z",
+    "duration_minutes": 88,
+    "duration_str": "1h 28m"
   },
   {
     "title": "ISRAEL CLAIMS IRAN’S KHAMENEI KILLED, IRAN DENIES, ATTACKS CONTINUE",
-    "added_at": "2026-02-28T20:52:39.763Z"
+    "added_at": "2026-02-28T20:52:39.763Z",
+    "removed_at": "2026-02-28T22:04:26.532Z",
+    "duration_minutes": 71,
+    "duration_str": "1h 11m"
+  },
+  {
+    "title": "ISRAEL, TRUMP CLAIM IRAN’S KHAMENEI KILLED, IRAN DENIES, ATTACKS CONTINUE",
+    "added_at": "2026-02-28T22:04:26.532Z",
+    "removed_at": "2026-02-28T23:13:10.003Z",
+    "duration_minutes": 68,
+    "duration_str": "1h 8m"
+  },
+  {
+    "title": "Trump says Iran’s Supreme Leader Ali Khamenei dead after US-Israeli attacks",
+    "added_at": "2026-02-28T22:11:50.838Z"
+  },
+  {
+    "title": "Ayatollah Ali Khamenei: The leader who shaped Iran’s defiance",
+    "added_at": "2026-02-28T22:26:30.989Z"
+  },
+  {
+    "title": "What US military actions has Trump taken since returning to office?",
+    "added_at": "2026-02-28T22:28:59.264Z"
+  },
+  {
+    "title": "Israel strikes two schools in Iran, killing more than 100 people",
+    "added_at": "2026-02-28T23:03:20.074Z"
+  },
+  {
+    "title": "ISRAEL, TRUMP CLAIM KHAMENEI KILLED, IRAN DENIES, ATTACKS CONTINUE",
+    "added_at": "2026-02-28T23:13:10.003Z",
+    "removed_at": "2026-02-28T23:40:08.191Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "Who is Ali Shamkhani, Iran official reportedly killed in US-Israel attacks?",
+    "added_at": "2026-02-28T23:13:10.003Z"
+  },
+  {
+    "title": "Missile debris injures eight in Qatar after Iran launches barrage",
+    "added_at": "2026-02-28T23:27:55.328Z"
+  },
+  {
+    "title": "TRUMP, ISRAEL SAY KHAMENEI KILLED, IRAN DENIES CLAIM, ATTACKS CONTINUE",
+    "added_at": "2026-02-28T23:40:08.191Z"
+  },
+  {
+    "title": "How have US politicians reacted to the attack on Iran?",
+    "added_at": "2026-02-28T23:59:47.792Z"
   }
 ]

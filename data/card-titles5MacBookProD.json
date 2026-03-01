@@ -143088,7 +143088,10 @@
   },
   {
     "title": "« Le destin de Laurence des Cars à la tête du Louvre remet une question sur la table : pourquoi les grands patrons culturels deviennent-ils fous ? »",
-    "added_at": "2026-02-27T17:49:46.029Z"
+    "added_at": "2026-02-27T17:49:46.029Z",
+    "removed_at": "2026-02-28T23:47:30.561Z",
+    "duration_minutes": 1797,
+    "duration_str": "1d 5h 57m"
   },
   {
     "title": "L’utilisation de poison par la Russie, une réalité que les Européens ont tardé à affronter",
@@ -143162,14 +143165,14 @@
   },
   {
     "title": "Football : « Les champions jonglent désormais avec leurs holdings aussi facilement que s’il s’agissait d’un ballon rond »",
-    "added_at": "2026-02-27T17:52:17.052Z",
-    "removed_at": "2026-02-28T21:14:46.757Z",
-    "duration_minutes": 1642,
-    "duration_str": "1d 3h 22m"
+    "added_at": "2026-02-27T17:52:17.052Z"
   },
   {
     "title": "Les injustices du système scolaire, machine à faire voter pour l’extrême droite",
-    "added_at": "2026-02-27T17:52:17.052Z"
+    "added_at": "2026-02-27T17:52:17.052Z",
+    "removed_at": "2026-02-28T23:59:47.729Z",
+    "duration_minutes": 1807,
+    "duration_str": "1d 6h 7m"
   },
   {
     "title": "« Pourquoi ne discute-t-on jamais du confort autorisé par 1 151 euros mensuels ? »",
@@ -143180,10 +143183,7 @@
   },
   {
     "title": "David W. Bates, spécialiste de cybernétique : « Le cerveau n’est pas un ordinateur »",
-    "added_at": "2026-02-27T18:04:33.072Z",
-    "removed_at": "2026-02-28T21:09:52.227Z",
-    "duration_minutes": 1625,
-    "duration_str": "1d 3h 5m"
+    "added_at": "2026-02-27T18:04:33.072Z"
   },
   {
     "title": "LFI sera bien classée à l’« extrême gauche » par le ministère de l’intérieur, juge le Conseil d’Etat",
@@ -143376,10 +143376,7 @@
   },
   {
     "title": "Derrière les dissensions entre Donald Trump et Anthropic, les débats politiques, éthiques et philosophiques sur l’usage militaire de l’IA",
-    "added_at": "2026-02-28T07:47:28.714Z",
-    "removed_at": "2026-02-28T21:14:46.757Z",
-    "duration_minutes": 807,
-    "duration_str": "13h 27m"
+    "added_at": "2026-02-28T07:47:28.714Z"
   },
   {
     "title": "Iran :  Donald Trump annonce avoir lancé une opération militaire ; des explosions ⁠retentissent à ‌Téhéran, Ispahan et dans plusieurs autres villes",
@@ -143721,18 +143718,53 @@
   },
   {
     "title": "Iran : plus de 100 morts dans une frappe contre une école, mais une grande opacité sur les pertes infligées aux dirigeants du régime de Téhéran",
-    "added_at": "2026-02-28T20:03:43.470Z"
+    "added_at": "2026-02-28T20:03:43.470Z",
+    "removed_at": "2026-02-28T21:24:57.579Z",
+    "duration_minutes": 81,
+    "duration_str": "1h 21m"
   },
   {
     "title": "Iran : Benyamin Nétanyahou affirme qu’il y « a des signes » que le Guide suprême, Ali Khamenei, est mort ; des acclamations entendues à Téhéran",
-    "added_at": "2026-02-28T20:18:27.914Z"
+    "added_at": "2026-02-28T20:18:27.914Z",
+    "removed_at": "2026-02-28T21:54:29.629Z",
+    "duration_minutes": 96,
+    "duration_str": "1h 36m"
   },
   {
     "title": "EN DIRECT, Iran : Benyamin Nétanyahou affirme qu’il y « a des signes » que le Guide suprême, Ali Khamenei, est mort ; des acclamations entendues à Téhéran",
-    "added_at": "2026-02-28T20:33:06.286Z"
+    "added_at": "2026-02-28T20:33:06.286Z",
+    "removed_at": "2026-02-28T22:31:27.730Z",
+    "duration_minutes": 118,
+    "duration_str": "1h 58m"
   },
   {
     "title": "Le suicide d’Olivier Marleix passionne encore et toujours la complosphère",
     "added_at": "2026-02-28T21:02:29.062Z"
+  },
+  {
+    "title": "Iran : plus de 100 morts dans une frappe contre une école, selon les médias d’Etat, mais une grande opacité sur les pertes infligées aux dirigeants du régime de Téhéran",
+    "added_at": "2026-02-28T21:24:57.579Z"
+  },
+  {
+    "title": "Donald Trump affirme que le Guide suprême iranien, Ali Khamenei, est mort",
+    "added_at": "2026-02-28T21:54:29.629Z",
+    "removed_at": "2026-02-28T21:57:00.695Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Iran : Donald Trump affirme que le Guide suprême, Ali Khamenei, est mort ; pas de confirmation iranienne pour l’instant",
+    "added_at": "2026-02-28T21:57:00.695Z",
+    "removed_at": "2026-02-28T23:42:38.201Z",
+    "duration_minutes": 105,
+    "duration_str": "1h 45m"
+  },
+  {
+    "title": "EN DIRECT, Iran : Donald Trump affirme que le Guide suprême, Ali Khamenei, est mort, sans confirmation iranienne",
+    "added_at": "2026-02-28T22:31:27.730Z"
+  },
+  {
+    "title": "Iran : Donald Trump affirme qu’Ali Khamenei est mort, Téhéran ne confirme pas ; des frappes iraniennes touchent Dubaï et Abou Dhabi",
+    "added_at": "2026-02-28T23:42:38.201Z"
   }
 ]
