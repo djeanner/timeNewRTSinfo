@@ -13545,7 +13545,10 @@
   },
   {
     "title": "The week when AI changed everything",
-    "added_at": "2026-03-01T01:09:03.443Z"
+    "added_at": "2026-03-01T01:09:03.443Z",
+    "removed_at": "2026-03-02T07:17:54.371Z",
+    "duration_minutes": 1808,
+    "duration_str": "1d 6h 8m"
   },
   {
     "title": "Visualizing the attacks in maps and charts",
@@ -13707,7 +13710,10 @@
   },
   {
     "title": "Berkshire Hathaway reports drop in quarterly profit on insurance operations weakness",
-    "added_at": "2026-03-01T05:14:11.423Z"
+    "added_at": "2026-03-01T05:14:11.423Z",
+    "removed_at": "2026-03-02T07:17:54.371Z",
+    "duration_minutes": 1563,
+    "duration_str": "1d 2h 3m"
   },
   {
     "title": "What my uncle Neil Sedaka taught me about the evolution of hit making",
@@ -13957,7 +13963,10 @@
   },
   {
     "title": "Israel targets ‘heart of Tehran’ in new wave of strikes",
-    "added_at": "2026-03-01T13:07:15.913Z"
+    "added_at": "2026-03-01T13:07:15.913Z",
+    "removed_at": "2026-03-02T08:26:01.245Z",
+    "duration_minutes": 1158,
+    "duration_str": "19h 18m"
   },
   {
     "title": "Mass shooting in Austin leaves 14 injured, 3 killed, police say",
@@ -14063,10 +14072,7 @@
   },
   {
     "title": "CIA closely watched Khamenei for months before fatal strikes in Iran",
-    "added_at": "2026-03-01T16:18:41.017Z",
-    "removed_at": "2026-03-01T19:53:04.886Z",
-    "duration_minutes": 214,
-    "duration_str": "3h 34m"
+    "added_at": "2026-03-01T16:18:41.017Z"
   },
   {
     "title": "Deadly Iranian strike hits residential area near Jerusalem",
@@ -14341,7 +14347,10 @@
   },
   {
     "title": "New explosions in multiple Gulf cities. Hezbollah and Israel trade strikes. Emergency sirens sound in Bahrain.",
-    "added_at": "2026-03-02T05:24:06.075Z"
+    "added_at": "2026-03-02T05:24:06.075Z",
+    "removed_at": "2026-03-02T06:45:43.865Z",
+    "duration_minutes": 81,
+    "duration_str": "1h 21m"
   },
   {
     "title": "Tanker ‘Skylight’ struck as Strait of Hormuz shipping threat intensifies amid fresh regional strikes",
@@ -14356,14 +14365,76 @@
   },
   {
     "title": "CIA closely watched Khamenei for months before strikes",
-    "added_at": "2026-03-02T06:17:10.446Z"
+    "added_at": "2026-03-02T06:17:10.446Z",
+    "removed_at": "2026-03-02T07:44:21.514Z",
+    "duration_minutes": 87,
+    "duration_str": "1h 27m"
   },
   {
     "title": "What we know about the death toll in the Middle East",
-    "added_at": "2026-03-02T06:30:23.726Z"
+    "added_at": "2026-03-02T06:30:23.726Z",
+    "removed_at": "2026-03-02T06:40:03.104Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
   },
   {
     "title": "A new front opens up in expanding Middle East conflict",
     "added_at": "2026-03-02T06:34:14.639Z"
+  },
+  {
+    "title": "Fighter jet crashes in Kuwait, video geolocated by CNN shows",
+    "added_at": "2026-03-02T06:40:03.104Z",
+    "removed_at": "2026-03-02T06:45:43.865Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "Conflict spreads as fresh explosions rock multiple Gulf states, new front opens in Lebanon and top official says Iran won’t negotiate with US",
+    "added_at": "2026-03-02T06:45:43.865Z",
+    "removed_at": "2026-03-02T08:10:55.420Z",
+    "duration_minutes": 85,
+    "duration_str": "1h 25m"
+  },
+  {
+    "title": "The winners of the smartphone boom think they know what the next big tech gadget is",
+    "added_at": "2026-03-02T07:17:54.371Z"
+  },
+  {
+    "title": "The best passenger airplanes of all time – ranked by CNN’s top aviation expert",
+    "added_at": "2026-03-02T07:17:54.371Z"
+  },
+  {
+    "title": "The high-tech weapons and hardware the US is using to attack Iran",
+    "added_at": "2026-03-02T07:44:21.514Z",
+    "removed_at": "2026-03-02T07:53:52.885Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "What travelers impacted by Middle East air disruptions need to know",
+    "added_at": "2026-03-02T07:44:21.514Z"
+  },
+  {
+    "title": "Explosions heard over Doha",
+    "added_at": "2026-03-02T07:44:21.514Z"
+  },
+  {
+    "title": "These are the high-tech weapons and hardware the US is using to attack Iran",
+    "added_at": "2026-03-02T07:53:52.885Z"
+  },
+  {
+    "title": "Statement came after videos geolocated by CNN showed a fighter jet crashing in Kuwait. Authorities in Kuwait said all crew are safe.",
+    "added_at": "2026-03-02T08:10:55.420Z",
+    "removed_at": "2026-03-02T08:33:37.682Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
+  },
+  {
+    "title": "How likely is a month-long war with Iran?",
+    "added_at": "2026-03-02T08:26:01.245Z"
+  },
+  {
+    "title": "Authorities say all crews are safe. The statement comes after videos geolocated by CNN showed a fighter jet crashing in Kuwait.",
+    "added_at": "2026-03-02T08:33:37.682Z"
   }
 ]
