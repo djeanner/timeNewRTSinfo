@@ -3299,7 +3299,10 @@
   },
   {
     "title": "suisse:::Votations du 8 mars: le non à la redevance radio-TV à 200 francs progresse, suspense sur l’imposition individuelle",
-    "added_at": "2026-02-25T05:52:35.183Z"
+    "added_at": "2026-02-25T05:52:35.183Z",
+    "removed_at": "2026-03-02T21:19:54.973Z",
+    "duration_minutes": 8127,
+    "duration_str": "5d 15h 27m"
   },
   {
     "title": "suisse:::Stefan Holenstein: «La Suisse est désormais une faille dans la sécurité de l’Europe»",
@@ -4783,10 +4786,7 @@
   },
   {
     "title": "sciences:::Facture climatique, objectifs 2030, milliards publics: le débat sur le fonds climat en trois points",
-    "added_at": "2026-03-02T09:36:14.954Z",
-    "removed_at": "2026-03-02T15:29:00.681Z",
-    "duration_minutes": 352,
-    "duration_str": "5h 52m"
+    "added_at": "2026-03-02T09:36:14.954Z"
   },
   {
     "title": "suisse:::Wolfgang Amadeus Brülhart, art diplomatique",
@@ -4811,7 +4811,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël bombarde à nouveau le Liban et l’Iran, le Koweït a abattu des chasseurs américains «par erreur»",
-    "added_at": "2026-03-02T11:47:10.823Z"
+    "added_at": "2026-03-02T11:47:10.823Z",
+    "removed_at": "2026-03-02T22:26:14.837Z",
+    "duration_minutes": 639,
+    "duration_str": "10h 39m"
   },
   {
     "title": "suisse:::Tous fachos! Tous wokes! Les journalistes de la SSR, éternels objets de critiques",
@@ -4896,5 +4899,9 @@
   {
     "title": "suisse:::Plus de 4000 Suisses bloqués au Moyen-Orient sans solution",
     "added_at": "2026-03-02T20:49:28.703Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’armée israélienne affirme avoir «frappé et démantelé» le siège de la radio-télévision publique à Téhéran",
+    "added_at": "2026-03-02T22:26:14.837Z"
   }
 ]
