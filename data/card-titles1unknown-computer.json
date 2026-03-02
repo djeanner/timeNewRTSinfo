@@ -6042,7 +6042,10 @@
   },
   {
     "title": "\"Aux USA, je n'aurais pas pu étudier dans un milieu académique libre\": pourquoi la Suisse attire les étudiants américains",
-    "added_at": "2026-02-27T10:37:18.735Z"
+    "added_at": "2026-02-27T10:37:18.735Z",
+    "removed_at": "2026-03-02T11:01:32.159Z",
+    "duration_minutes": 4344,
+    "duration_str": "3d 24m"
   },
   {
     "title": "Un homme de 54 ans aurait escroqué les CFF de cinq millions de francs sur plus de quinze ans",
@@ -6067,7 +6070,10 @@
   },
   {
     "title": "Corinne Suter s'impose et met fin à une disette de 1182 jours",
-    "added_at": "2026-02-27T11:09:57.677Z"
+    "added_at": "2026-02-27T11:09:57.677Z",
+    "removed_at": "2026-03-02T10:17:54.093Z",
+    "duration_minutes": 4267,
+    "duration_str": "2d 23h 7m"
   },
   {
     "title": "L'art brut, un courant artistique hors normes célébré cette année à Lausanne",
@@ -6117,7 +6123,10 @@
   },
   {
     "title": "Le canton de Fribourg intègre la refonte de la maturité gymnasiale",
-    "added_at": "2026-02-27T12:15:24.999Z"
+    "added_at": "2026-02-27T12:15:24.999Z",
+    "removed_at": "2026-03-02T10:12:12.807Z",
+    "duration_minutes": 4196,
+    "duration_str": "2d 21h 56m"
   },
   {
     "title": "Tensions Iran-Etats-Unis: l'ambassade américaine à Jérusalem évacue son personnel non essentiel",
@@ -6125,11 +6134,17 @@
   },
   {
     "title": "Primée à Séries Mania, la réjouissante série espagnole \"Celeste\" débarque sur la RTS ★★★★☆",
-    "added_at": "2026-02-27T13:45:29.599Z"
+    "added_at": "2026-02-27T13:45:29.599Z",
+    "removed_at": "2026-03-02T10:52:01.010Z",
+    "duration_minutes": 4146,
+    "duration_str": "2d 21h 6m"
   },
   {
     "title": "Un ex-employé aurait escroqué les CFF de près de 9 millions de francs sur plus de quinze ans",
-    "added_at": "2026-02-27T14:58:37.740Z"
+    "added_at": "2026-02-27T14:58:37.740Z",
+    "removed_at": "2026-03-02T10:57:41.811Z",
+    "duration_minutes": 4079,
+    "duration_str": "2d 19h 59m"
   },
   {
     "title": "Le Labour de Keir Starmer s'enfonce dans le marasme, après sa défaite contre les écologistes à Manchester",
@@ -6649,10 +6664,7 @@
   },
   {
     "title": "Le Pentagone affirme avoir détruit le quartier général des Gardiens de la Révolution iraniens",
-    "added_at": "2026-03-01T20:12:02.147Z",
-    "removed_at": "2026-03-02T00:41:32.475Z",
-    "duration_minutes": 269,
-    "duration_str": "4h 29m"
+    "added_at": "2026-03-01T20:12:02.147Z"
   },
   {
     "title": "Le guide suprême iranien laisse derrière lui un héritage sanglant",
@@ -6692,7 +6704,10 @@
   },
   {
     "title": "Le conflit s'étend au Liban suite à des tirs du Hezbollah sur Israël",
-    "added_at": "2026-03-02T05:09:00.014Z"
+    "added_at": "2026-03-02T05:09:00.014Z",
+    "removed_at": "2026-03-02T10:55:51.245Z",
+    "duration_minutes": 346,
+    "duration_str": "5h 46m"
   },
   {
     "title": "Les petites communes suisses peinent à trouver des candidatures pour les élections",
@@ -6704,7 +6719,10 @@
   },
   {
     "title": "Le procès de Tariq Ramadan pour viols s'ouvre en France",
-    "added_at": "2026-03-02T07:25:30.480Z"
+    "added_at": "2026-03-02T07:25:30.480Z",
+    "removed_at": "2026-03-02T09:30:34.153Z",
+    "duration_minutes": 125,
+    "duration_str": "2h 5m"
   },
   {
     "title": "The Divine Comedy au Festival Antigel, mélancolies et légèretés pop ★★★★☆",
@@ -6717,5 +6735,50 @@
   {
     "title": "Dans \"Rue Málaga\", la sensualité et la débrouillardise de Carmen Maura donnent envie de vieillir",
     "added_at": "2026-03-02T08:54:23.904Z"
+  },
+  {
+    "title": "Le procès de Tariq Ramadan pour viols s'ouvre en France, en l'absence de l'accusé",
+    "added_at": "2026-03-02T09:30:34.153Z",
+    "removed_at": "2026-03-02T09:55:09.426Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "Le procès de Tariq Ramadan pour viols s'est ouvert en France, en l'absence de l'accusé",
+    "added_at": "2026-03-02T09:55:09.426Z"
+  },
+  {
+    "title": "Les crèches, un lieu de développement du microbiote intestinal des bébés",
+    "added_at": "2026-03-02T10:12:12.807Z"
+  },
+  {
+    "title": "Un gérant de fortune devant la justice valaisanne pour une affaire tentaculaire",
+    "added_at": "2026-03-02T10:17:54.093Z"
+  },
+  {
+    "title": "De nouvelles frappes israéliennes en Iran et au Liban, des explosions à Jérusalem",
+    "added_at": "2026-03-02T10:52:01.010Z"
+  },
+  {
+    "title": "\"Man on the Run\", le film qui raconte comment Paul McCartney est passé des Beatles aux Wings",
+    "added_at": "2026-03-02T10:57:41.811Z"
+  },
+  {
+    "title": "Guy Parmelin et Ursula von der Leyen signent les accords bilatéraux Suisse-UE",
+    "added_at": "2026-03-02T11:01:32.159Z",
+    "removed_at": "2026-03-02T11:12:55.313Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "Guy Parmelin et Ursula von der Leyen ont signé les accords bilatéraux Suisse-UE",
+    "added_at": "2026-03-02T11:12:55.313Z",
+    "removed_at": "2026-03-02T11:16:40.482Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "Guy Parmelin et Ursula von der Leyen ont signé le paquet d'accords bilatéraux Suisse-UE",
+    "added_at": "2026-03-02T11:16:40.482Z"
   }
 ]
