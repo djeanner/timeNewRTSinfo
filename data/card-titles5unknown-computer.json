@@ -10641,7 +10641,10 @@
   },
   {
     "title": "« Le destin de Laurence des Cars à la tête du Louvre remet une question sur la table : pourquoi les grands patrons culturels deviennent-ils fous ? »",
-    "added_at": "2026-02-27T06:12:18.542Z"
+    "added_at": "2026-02-27T06:12:18.542Z",
+    "removed_at": "2026-03-02T01:47:49.886Z",
+    "duration_minutes": 4055,
+    "duration_str": "2d 19h 35m"
   },
   {
     "title": "« L’Attachement », « Nouvelle Vague », Léa Drucker et Laurent Lafitte, grands vainqueurs d’une cérémonie des Césars sans effusion",
@@ -10772,9 +10775,9 @@
   {
     "title": "Les injustices du système scolaire, machine à faire voter pour l’extrême droite",
     "added_at": "2026-02-27T08:15:03.108Z",
-    "removed_at": "2026-03-01T23:27:29.230Z",
-    "duration_minutes": 3792,
-    "duration_str": "2d 15h 12m"
+    "removed_at": "2026-03-02T01:47:49.886Z",
+    "duration_minutes": 3932,
+    "duration_str": "2d 17h 32m"
   },
   {
     "title": "Le gouvernement Lecornu III récompense les proches d’Emmanuel Macron et du premier ministre",
@@ -11429,7 +11432,10 @@
   },
   {
     "title": "Derrière les dissensions entre Donald Trump et Anthropic, les débats politiques, éthiques et philosophiques sur l’usage militaire de l’IA",
-    "added_at": "2026-02-28T07:45:55.318Z"
+    "added_at": "2026-02-28T07:45:55.318Z",
+    "removed_at": "2026-03-02T01:47:49.886Z",
+    "duration_minutes": 2521,
+    "duration_str": "1d 18h 1m"
   },
   {
     "title": "Iran :  Donald Trump annonce avoir lancé une opération militaire ; des explosions ⁠retentissent à ‌Téhéran, Ispahan et dans plusieurs autres villes",
@@ -11992,9 +11998,9 @@
   {
     "title": "Morgane Tocco, anthropologue : « Beaucoup de femmes ont du mal à parler de la beauté corporelle des hommes »",
     "added_at": "2026-03-01T07:37:53.276Z",
-    "removed_at": "2026-03-01T23:29:19.740Z",
-    "duration_minutes": 951,
-    "duration_str": "15h 51m"
+    "removed_at": "2026-03-02T01:51:36.393Z",
+    "duration_minutes": 1093,
+    "duration_str": "18h 13m"
   },
   {
     "title": "L’Iran confirme la mort du chef d’état-major des armées et celle du ministre de la défense, après celle d’Ali Khamenei ; les prorégimes se réunissent à Téhéran",
@@ -12062,10 +12068,7 @@
   },
   {
     "title": "Axelle Arquié, économiste : « Une catastrophe sociale causée par l’IA fait partie des scénarios possibles »",
-    "added_at": "2026-03-01T11:22:52.773Z",
-    "removed_at": "2026-03-01T23:19:51.557Z",
-    "duration_minutes": 716,
-    "duration_str": "11h 56m"
+    "added_at": "2026-03-01T11:22:52.773Z"
   },
   {
     "title": "L’armée israélienne poursuit ses bombardements sur Téhéran et affirme que 40 responsables de l’appareil militaire iranien ont été tués",
@@ -12076,10 +12079,7 @@
   },
   {
     "title": "Comment les Etats-Unis et Israël espèrent provoquer l’écroulement du régime iranien",
-    "added_at": "2026-03-01T11:32:20.438Z",
-    "removed_at": "2026-03-01T23:25:32.807Z",
-    "duration_minutes": 713,
-    "duration_str": "11h 53m"
+    "added_at": "2026-03-01T11:32:20.438Z"
   },
   {
     "title": "Iran : le récit en photos de la journée, au rythme des frappes aériennes américaines et israéliennes",
@@ -12316,6 +12316,27 @@
   },
   {
     "title": "Donald Trump promet de « venger » la mort des militaires américains et appelle les gardiens de la révolution à « déposer les armes »",
-    "added_at": "2026-03-01T21:39:25.195Z"
+    "added_at": "2026-03-01T21:39:25.195Z",
+    "removed_at": "2026-03-02T00:39:36.970Z",
+    "duration_minutes": 180,
+    "duration_str": "3h"
+  },
+  {
+    "title": "Israël annonce mener « des frappes à grande échelle » sur Téhéran",
+    "added_at": "2026-03-02T00:39:36.970Z",
+    "removed_at": "2026-03-02T01:02:20.415Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
+  },
+  {
+    "title": "Iran : Trump promet de « venger » la mort des militaires américains, Israël annonce un nouveau bombardement de Téhéran",
+    "added_at": "2026-03-02T01:02:20.415Z",
+    "removed_at": "2026-03-02T01:42:08.623Z",
+    "duration_minutes": 39,
+    "duration_str": "39m"
+  },
+  {
+    "title": "Iran : le Hezbollah libanais vise Israël avec des missiles et des drones, l’Etat hébreu réplique en ciblant l’allié de Téhéran « à travers le Liban »",
+    "added_at": "2026-03-02T01:42:08.623Z"
   }
 ]

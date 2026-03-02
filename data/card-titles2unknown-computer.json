@@ -4187,7 +4187,10 @@
   },
   {
     "title": "monde:::Guerre en Ukraine – Le FMI accorde un prêt de 8 milliards de dollars à Kiev",
-    "added_at": "2026-02-27T20:13:06.887Z"
+    "added_at": "2026-02-27T20:13:06.887Z",
+    "removed_at": "2026-03-02T01:49:45.209Z",
+    "duration_minutes": 3216,
+    "duration_str": "2d 5h 36m"
   },
   {
     "title": "monde:::Moyen-Orient – Donald Trump dit ne pas avoir pris de «décision finale» sur l’Iran",
@@ -4610,7 +4613,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Trois soldats américains sont morts dans l'offensive contre l'Iran, le Pentagone affirme avoir détruit le quartier-général des Gardiens de la Révolution",
-    "added_at": "2026-03-01T19:54:58.457Z"
+    "added_at": "2026-03-01T19:54:58.457Z",
+    "removed_at": "2026-03-02T01:28:48.896Z",
+    "duration_minutes": 333,
+    "duration_str": "5h 33m"
   },
   {
     "title": "economie:::Ilaria Resta, dirigeante d’Audemars Piguet: «Dans ce secteur, nous gagnons tous ou nous perdons tous»",
@@ -4623,5 +4629,13 @@
   {
     "title": "culture:::Perte précoce d’un parent, vertige amoureux: Mathilde Forget écrit pour répondre à l’irrésolu",
     "added_at": "2026-03-01T20:32:52.341Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Notre suivi de la semaine du 23 février",
+    "added_at": "2026-03-02T01:28:48.896Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Notre suivi de la semaine du 23 février",
+    "added_at": "2026-03-02T01:49:45.209Z"
   }
 ]
