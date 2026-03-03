@@ -3837,7 +3837,10 @@
   },
   {
     "title": "monde:::Avant un prochain round avec la Russie, les Etats-Unis et l’Ukraine tiennent de nouvelles discussions à Genève",
-    "added_at": "2026-02-26T18:40:15.220Z"
+    "added_at": "2026-02-26T18:40:15.220Z",
+    "removed_at": "2026-03-03T13:28:48.772Z",
+    "duration_minutes": 6888,
+    "duration_str": "4d 18h 48m"
   },
   {
     "title": "monde:::Des «avancées» à Genève entre Washington et Téhéran, suite des discussions à Vienne la semaine prochaine",
@@ -5015,11 +5018,17 @@
   },
   {
     "title": "monde:::L’aide russe à l’Iran n’est pas toujours celle que l’on croit",
-    "added_at": "2026-03-03T06:10:41.468Z"
+    "added_at": "2026-03-03T06:10:41.468Z",
+    "removed_at": "2026-03-03T13:32:33.998Z",
+    "duration_minutes": 441,
+    "duration_str": "7h 21m"
   },
   {
     "title": "economie:::La géothermie, pièce de la transition énergétique menacée de coupes budgétaires",
-    "added_at": "2026-03-03T06:46:45.099Z"
+    "added_at": "2026-03-03T06:46:45.099Z",
+    "removed_at": "2026-03-03T14:17:59.944Z",
+    "duration_minutes": 451,
+    "duration_str": "7h 31m"
   },
   {
     "title": "suisse:::«Tu m’as trouvé une petite amie?»: comment Jeffrey Epstein finançait les études de jeunes femmes en Suisse",
@@ -5044,7 +5053,10 @@
   },
   {
     "title": "suisse:::En Valais, l’absence de l’avocate Yaël Hayat provoque la suspension du procès de Sébastien B.",
-    "added_at": "2026-03-03T08:15:47.689Z"
+    "added_at": "2026-03-03T08:15:47.689Z",
+    "removed_at": "2026-03-03T14:54:01.093Z",
+    "duration_minutes": 398,
+    "duration_str": "6h 38m"
   },
   {
     "title": "sport:::Rafel Navarro, la passion froide sur le banc de l'équipe suisse féminine",
@@ -5098,5 +5110,24 @@
   {
     "title": "suisse:::Exclusif – «Tu m’as trouvé une petite amie?»: comment Jeffrey Epstein finançait les études de jeunes femmes en Suisse",
     "added_at": "2026-03-03T12:54:27.547Z"
+  },
+  {
+    "title": "suisse:::Le soutien aux victimes de Crans-Montana validé en commission",
+    "added_at": "2026-03-03T13:32:33.998Z"
+  },
+  {
+    "title": "suisse:::Nouvelle interruption sur la ligne CFF Genève-Lausanne",
+    "added_at": "2026-03-03T14:17:59.944Z",
+    "removed_at": "2026-03-03T14:38:47.864Z",
+    "duration_minutes": 20,
+    "duration_str": "20m"
+  },
+  {
+    "title": "suisse:::Nouveaux ralentissements sur la ligne CFF Genève-Lausanne",
+    "added_at": "2026-03-03T14:38:47.864Z"
+  },
+  {
+    "title": "economie:::En s’emparant du britannique Beazley, Zurich consolide son expansion dans l’assurance spécialisée",
+    "added_at": "2026-03-03T14:54:01.093Z"
   }
 ]
