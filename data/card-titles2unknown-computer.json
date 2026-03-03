@@ -5252,7 +5252,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les attaques israéliennes se poursuivent en Iran et au Liban",
-    "added_at": "2026-03-03T19:10:05.728Z"
+    "added_at": "2026-03-03T19:10:05.728Z",
+    "removed_at": "2026-03-03T22:16:01.448Z",
+    "duration_minutes": 185,
+    "duration_str": "3h 5m"
   },
   {
     "title": "suisse:::Bouclier fiscal vaudois: la gauche et le centre demandent à la Commission de gestion d’enquêter",
@@ -5273,5 +5276,9 @@
   {
     "title": "monde:::Pour la première fois, le Hezbollah est lâché par ses soutiens historiques au Liban",
     "added_at": "2026-03-03T20:14:31.736Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les attaques israéliennes se poursuivent en Iran et au Liban, la France envoie des renforts militaires dans la région",
+    "added_at": "2026-03-03T22:16:01.448Z"
   }
 ]
