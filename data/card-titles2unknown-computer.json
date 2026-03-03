@@ -2423,7 +2423,10 @@
   },
   {
     "title": "suisse:::La Suisse alémanique, plus que jamais arbitre de l’initiative SSR",
-    "added_at": "2026-02-21T12:31:33.462Z"
+    "added_at": "2026-02-21T12:31:33.462Z",
+    "removed_at": "2026-03-03T06:46:45.099Z",
+    "duration_minutes": 14055,
+    "duration_str": "9d 18h 15m"
   },
   {
     "title": "monde:::L’audiovisuel public attaqué en France aussi. Les raisons sont-elles les mêmes qu’en Suisse?",
@@ -3176,7 +3179,10 @@
   },
   {
     "title": "suisse:::Imposition individuelle: les enjeux d’un vote sensible",
-    "added_at": "2026-02-24T16:33:02.928Z"
+    "added_at": "2026-02-24T16:33:02.928Z",
+    "removed_at": "2026-03-03T07:15:08.973Z",
+    "duration_minutes": 9522,
+    "duration_str": "6d 14h 42m"
   },
   {
     "title": "economie:::Le salaire du patron de Novartis, qui atteint 25 millions en 2025, fait de nouveau polémique",
@@ -4609,7 +4615,10 @@
   },
   {
     "title": "suisse:::«Je ne veux pas de l’aide sociale»: à Genève, la fin annoncée du mythe cabossé des self-made-men d’Uber",
-    "added_at": "2026-03-01T16:28:16.245Z"
+    "added_at": "2026-03-01T16:28:16.245Z",
+    "removed_at": "2026-03-03T07:07:38.028Z",
+    "duration_minutes": 2319,
+    "duration_str": "1d 14h 39m"
   },
   {
     "title": "suisse:::Dans la diaspora iranienne de Suisse, la mort d’un «dictateur sanguinaire» est célébrée mais on redoute un scénario à l’irakienne",
@@ -4860,11 +4869,17 @@
   },
   {
     "title": "economie:::Industrie suisse des machines: plus de 6000 postes ont disparu en 2025",
-    "added_at": "2026-03-02T17:09:30.717Z"
+    "added_at": "2026-03-02T17:09:30.717Z",
+    "removed_at": "2026-03-03T07:07:38.028Z",
+    "duration_minutes": 838,
+    "duration_str": "13h 58m"
   },
   {
     "title": "suisse:::En Valais, l’absence de l’avocate Yaël Hayat provoque la suspension du procès de Sébatien B.",
-    "added_at": "2026-03-02T17:45:31.770Z"
+    "added_at": "2026-03-02T17:45:31.770Z",
+    "removed_at": "2026-03-03T08:15:47.689Z",
+    "duration_minutes": 870,
+    "duration_str": "14h 30m"
   },
   {
     "title": "suisse:::A Genève, un médecin, beaucoup de crack, des armes et un crime conjugal sur fond de délire mystique",
@@ -4967,7 +4982,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’ambassade américaine à Ryad touchée par des drones",
-    "added_at": "2026-03-03T03:18:12.529Z"
+    "added_at": "2026-03-03T03:18:12.529Z",
+    "removed_at": "2026-03-03T08:02:30.510Z",
+    "duration_minutes": 284,
+    "duration_str": "4h 44m"
   },
   {
     "title": "suisse:::Mesure d’économies fédérales: la gauche prépare la bataille des urnes, la droite persiste",
@@ -4980,5 +4998,25 @@
   {
     "title": "monde:::L’aide russe à l’Iran n’est pas toujours celle que l’on croit",
     "added_at": "2026-03-03T06:10:41.468Z"
+  },
+  {
+    "title": "economie:::La géothermie, pièce de la transition énergétique menacée de coupes budgétaires",
+    "added_at": "2026-03-03T06:46:45.099Z"
+  },
+  {
+    "title": "suisse:::«Tu m’as trouvé une petite amie?»: comment Jeffrey Epstein finançait les études de jeunes femmes en Suisse",
+    "added_at": "2026-03-03T07:07:38.028Z"
+  },
+  {
+    "title": "culture:::A Ljubljana, une nouvelle scène folk vibrante et sans frontières, loin des musiques nationalistes",
+    "added_at": "2026-03-03T07:15:08.973Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Israël déploie ses soldats dans le sud du Liban tout en frappant Téhéran et Beyrouth",
+    "added_at": "2026-03-03T08:02:30.510Z"
+  },
+  {
+    "title": "suisse:::En Valais, l’absence de l’avocate Yaël Hayat provoque la suspension du procès de Sébastien B.",
+    "added_at": "2026-03-03T08:15:47.689Z"
   }
 ]
