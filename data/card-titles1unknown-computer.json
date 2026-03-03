@@ -6231,10 +6231,7 @@
   },
   {
     "title": "Sport matin - Malgré sa domination, le HC Sierre pourrait ne pas monter en National League",
-    "added_at": "2026-02-27T19:02:18.755Z",
-    "removed_at": "2026-03-01T09:02:13.264Z",
-    "duration_minutes": 2279,
-    "duration_str": "1d 13h 59m"
+    "added_at": "2026-02-27T19:02:18.755Z"
   },
   {
     "title": "La faille des Fios dans le val d'Anniviers continue de s'agrandir, la région prépare des mesures",
@@ -6373,7 +6370,10 @@
   },
   {
     "title": "Poursuite des combats entre Pakistan et Afghanistan",
-    "added_at": "2026-02-28T08:50:50.042Z"
+    "added_at": "2026-02-28T08:50:50.042Z",
+    "removed_at": "2026-03-03T05:46:03.456Z",
+    "duration_minutes": 4135,
+    "duration_str": "2d 20h 55m"
   },
   {
     "title": "600 millions d’Africains sans électricité et le pari du solaire",
@@ -6505,7 +6505,10 @@
   },
   {
     "title": "La réaction de la Suisse aux frappes israélo-américaines en Iran: interview de Monika Schmutz Kirgöz",
-    "added_at": "2026-02-28T19:22:44.169Z"
+    "added_at": "2026-02-28T19:22:44.169Z",
+    "removed_at": "2026-03-03T06:03:04.450Z",
+    "duration_minutes": 3520,
+    "duration_str": "2d 10h 40m"
   },
   {
     "title": "Quel est le risque d'embrasement dans la région, après les frappes en Iran?",
@@ -7049,6 +7052,20 @@
   },
   {
     "title": "L'ambassade des Etats-Unis visée par des drones à Ryad, Washington appelle ses ressortissants, à partir du Moyen-Orient",
-    "added_at": "2026-03-03T02:38:26.340Z"
+    "added_at": "2026-03-03T02:38:26.340Z",
+    "removed_at": "2026-03-03T04:53:00.286Z",
+    "duration_minutes": 134,
+    "duration_str": "2h 14m"
+  },
+  {
+    "title": "L'ambassade des Etats-Unis visée par des drones à Ryad, Washington appelle ses ressortissants à partir du Moyen-Orient",
+    "added_at": "2026-03-03T04:51:09.840Z",
+    "removed_at": "2026-03-03T04:56:50.735Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "L'ambassade des Etats-Unis visée par des drones à Ryad, Washington appelle ses ressortissants \"à partir maintenant\" du Moyen-Orient",
+    "added_at": "2026-03-03T04:53:00.286Z"
   }
 ]
