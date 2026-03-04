@@ -5001,7 +5001,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Au moins huit morts dans des frappes russes, dont l'une sur un train",
-    "added_at": "2026-03-03T02:21:24.461Z"
+    "added_at": "2026-03-03T02:21:24.461Z",
+    "removed_at": "2026-03-04T00:26:48.073Z",
+    "duration_minutes": 1325,
+    "duration_str": "22h 5m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’ambassade américaine à Ryad ciblée par des drones",
@@ -5279,6 +5282,17 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les attaques israéliennes se poursuivent en Iran et au Liban, la France envoie des renforts militaires dans la région",
-    "added_at": "2026-03-03T22:16:01.448Z"
+    "added_at": "2026-03-03T22:16:01.448Z",
+    "removed_at": "2026-03-04T00:04:04.660Z",
+    "duration_minutes": 108,
+    "duration_str": "1h 48m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Israël lance une «large vague» de nouvelles frappes sur l’Iran, la France envoie des renforts militaires dans la région",
+    "added_at": "2026-03-04T00:04:04.660Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – La Banque centrale russe lance un recours en justice contre l’UE",
+    "added_at": "2026-03-04T00:26:48.073Z"
   }
 ]

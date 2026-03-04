@@ -6761,7 +6761,10 @@
   },
   {
     "title": "Aide-toi, le ciel t'aidera",
-    "added_at": "2026-03-01T14:23:03.934Z"
+    "added_at": "2026-03-01T14:23:03.934Z",
+    "removed_at": "2026-03-04T00:02:10.119Z",
+    "duration_minutes": 3459,
+    "duration_str": "2d 9h 39m"
   },
   {
     "title": "Echanges de tirs entre Israël et l'Iran, les Gardiens de la révolution disent avoir ciblé le porte-avions américain USS Abraham Lincoln",
@@ -7400,5 +7403,9 @@
   {
     "title": "La France ouvre son parapluie nucléaire sur l’Europe",
     "added_at": "2026-03-03T22:00:53.984Z"
+  },
+  {
+    "title": "En direct : Chloé Domat à Beyrouth et Stéphane Amar à Jérusalem couvrent l’actualité",
+    "added_at": "2026-03-03T23:24:18.602Z"
   }
 ]
