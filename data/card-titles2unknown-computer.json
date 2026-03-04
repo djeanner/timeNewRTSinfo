@@ -5099,7 +5099,10 @@
   },
   {
     "title": "sport:::Rafel Navarro, la passion froide sur le banc de l'équipe de Suisse féminine",
-    "added_at": "2026-03-03T11:13:59.765Z"
+    "added_at": "2026-03-03T11:13:59.765Z",
+    "removed_at": "2026-03-04T07:56:48.935Z",
+    "duration_minutes": 1242,
+    "duration_str": "20h 42m"
   },
   {
     "title": "economie:::Anne-Sophie Corbeau, spécialiste de l’énergie: «Si la guerre au Moyen-Orient dure, l’offre en pétrole et en gaz sera pire qu’il y a quatre ans»",
@@ -5149,10 +5152,7 @@
   },
   {
     "title": "suisse:::Le soutien aux victimes de Crans-Montana validé en commission",
-    "added_at": "2026-03-03T13:32:33.998Z",
-    "removed_at": "2026-03-03T19:25:12.242Z",
-    "duration_minutes": 352,
-    "duration_str": "5h 52m"
+    "added_at": "2026-03-03T13:32:33.998Z"
   },
   {
     "title": "suisse:::Nouvelle interruption sur la ligne CFF Genève-Lausanne",
@@ -5195,7 +5195,10 @@
   },
   {
     "title": "suisse:::Salaire minimum vaudois: un duel entre vision sociale et réalisme économique",
-    "added_at": "2026-03-03T16:15:37.949Z"
+    "added_at": "2026-03-03T16:15:37.949Z",
+    "removed_at": "2026-03-04T06:14:22.705Z",
+    "duration_minutes": 838,
+    "duration_str": "13h 58m"
   },
   {
     "title": "monde:::Guerre en Iran: face au fardeau de la «relation spéciale» avec les Etats-Unis, la difficile position des Britanniques",
@@ -5253,7 +5256,10 @@
   },
   {
     "title": "suisse:::Le monde paysan monte à Berne confronter les élus face aux mesures budgétaires",
-    "added_at": "2026-03-03T18:20:45.870Z"
+    "added_at": "2026-03-03T18:20:45.870Z",
+    "removed_at": "2026-03-04T06:04:56.269Z",
+    "duration_minutes": 704,
+    "duration_str": "11h 44m"
   },
   {
     "title": "culture:::«Toute ma vie»: Noah, 14 ans, un ado lausannois en rupture au cœur d’un documentaire salué au festival Visions du Réel",
@@ -5272,19 +5278,31 @@
   },
   {
     "title": "monde:::L’ambassadeur iranien appelle le Conseil des droits de l’homme de l’ONU à répondre à l’assaut américano-israélien",
-    "added_at": "2026-03-03T19:25:12.242Z"
+    "added_at": "2026-03-03T19:25:12.242Z",
+    "removed_at": "2026-03-04T07:41:38.733Z",
+    "duration_minutes": 736,
+    "duration_str": "12h 16m"
   },
   {
     "title": "sciences:::Après de nombreux retards, la NASA réécrit son programme de retour humain sur le sol lunaire, sans convaincre",
-    "added_at": "2026-03-03T19:36:35.080Z"
+    "added_at": "2026-03-03T19:36:35.080Z",
+    "removed_at": "2026-03-04T07:45:24.004Z",
+    "duration_minutes": 728,
+    "duration_str": "12h 8m"
   },
   {
     "title": "sport:::Une première victoire pour l'équipe de Suisse mais il faudra mieux faire",
-    "added_at": "2026-03-03T20:08:50.569Z"
+    "added_at": "2026-03-03T20:08:50.569Z",
+    "removed_at": "2026-03-04T07:11:14.633Z",
+    "duration_minutes": 662,
+    "duration_str": "11h 2m"
   },
   {
     "title": "monde:::Pour la première fois, le Hezbollah est lâché par ses soutiens historiques au Liban",
-    "added_at": "2026-03-03T20:14:31.736Z"
+    "added_at": "2026-03-03T20:14:31.736Z",
+    "removed_at": "2026-03-04T06:14:22.705Z",
+    "duration_minutes": 599,
+    "duration_str": "9h 59m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les attaques israéliennes se poursuivent en Iran et au Liban, la France envoie des renforts militaires dans la région",
@@ -5313,7 +5331,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël lance une «large vague» de nouvelles frappes sur l’Iran",
-    "added_at": "2026-03-04T04:24:16.133Z"
+    "added_at": "2026-03-04T04:24:16.133Z",
+    "removed_at": "2026-03-04T07:20:42.782Z",
+    "duration_minutes": 176,
+    "duration_str": "2h 56m"
   },
   {
     "title": "monde:::Sanam Vakil, spécialiste du Moyen-Orient: «La guerre contre l’Iran va se révéler une erreur stratégique de l’administration Trump»",
@@ -5329,5 +5350,43 @@
   {
     "title": "cyber:::Le «clash d’ego» entre les deux géants de l’intelligence artificielle OpenAI et Anthropic au sujet de la guerre aura des conséquences sur nous tous",
     "added_at": "2026-03-04T05:51:29.528Z"
+  },
+  {
+    "title": "suisse:::Crans-Montana: au Constellation, la conformité des sorties de secours soulève de nombreuses questions",
+    "added_at": "2026-03-04T06:04:56.269Z"
+  },
+  {
+    "title": "suisse:::«Quota de logements abordables» ou «construire plus vite»: à Lausanne, la bataille du logement est au cœur des élections municipales",
+    "added_at": "2026-03-04T07:11:14.633Z",
+    "removed_at": "2026-03-04T07:24:33.979Z",
+    "duration_minutes": 13,
+    "duration_str": "13m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Tout successeur à Ali Khamenei sera assassiné, menace Israël, qui a lancé de nouvelles frappes sur l'Iran",
+    "added_at": "2026-03-04T07:20:42.782Z",
+    "removed_at": "2026-03-04T07:22:37.395Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Tout successeur à Ali Khamenei sera assassiné, menace Israël, qui a lancé de nouvelles frappes sur l’Iran",
+    "added_at": "2026-03-04T07:22:37.395Z"
+  },
+  {
+    "title": "suisse:::«Quotas» décidés par la ville ou «construire plus vite»: à Lausanne, la bataille du logement est au cœur des élections municipales",
+    "added_at": "2026-03-04T07:24:33.979Z"
+  },
+  {
+    "title": "monde:::Iran: le grand doute sur la stratégie de Donald Trump",
+    "added_at": "2026-03-04T07:41:38.733Z"
+  },
+  {
+    "title": "economie:::En graphiques – La Suisse aura de nouveaux visuels pour ses francs. Comment sont illustrés le reste des billets du monde?",
+    "added_at": "2026-03-04T07:45:24.004Z"
+  },
+  {
+    "title": "economie:::«L’approvisionnement devrait être assuré»: les réserves de gaz en Suisse sont basses, mais pas au point de risquer une pénurie",
+    "added_at": "2026-03-04T07:56:48.935Z"
   }
 ]
