@@ -5155,7 +5155,10 @@
   },
   {
     "title": "suisse:::Le soutien aux victimes de Crans-Montana validé en commission",
-    "added_at": "2026-03-03T13:32:33.998Z"
+    "added_at": "2026-03-03T13:32:33.998Z",
+    "removed_at": "2026-03-04T11:10:42.783Z",
+    "duration_minutes": 1298,
+    "duration_str": "21h 38m"
   },
   {
     "title": "suisse:::Nouvelle interruption sur la ligne CFF Genève-Lausanne",
@@ -5263,9 +5266,9 @@
   {
     "title": "suisse:::Le monde paysan monte à Berne confronter les élus face aux mesures budgétaires",
     "added_at": "2026-03-03T18:20:45.870Z",
-    "removed_at": "2026-03-04T06:04:56.269Z",
-    "duration_minutes": 704,
-    "duration_str": "11h 44m"
+    "removed_at": "2026-03-04T12:37:59.240Z",
+    "duration_minutes": 1097,
+    "duration_str": "18h 17m"
   },
   {
     "title": "culture:::«Toute ma vie»: Noah, 14 ans, un ado lausannois en rupture au cœur d’un documentaire salué au festival Visions du Réel",
@@ -5347,7 +5350,10 @@
   },
   {
     "title": "monde:::Sanam Vakil, spécialiste du Moyen-Orient: «La guerre contre l’Iran va se révéler une erreur stratégique de l’administration Trump»",
-    "added_at": "2026-03-04T05:11:41.532Z"
+    "added_at": "2026-03-04T05:11:41.532Z",
+    "removed_at": "2026-03-04T11:10:42.783Z",
+    "duration_minutes": 359,
+    "duration_str": "5h 59m"
   },
   {
     "title": "cyber:::Le clash entre les deux géants de l’intelligence artificielle OpenAI et Anthropic au sujet de l’éthique et de la guerre aura des conséquences sur nous tous",
@@ -5380,7 +5386,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Tout successeur à Ali Khamenei sera assassiné, menace Israël, qui a lancé de nouvelles frappes sur l’Iran",
-    "added_at": "2026-03-04T07:22:37.395Z"
+    "added_at": "2026-03-04T07:22:37.395Z",
+    "removed_at": "2026-03-04T11:25:52.108Z",
+    "duration_minutes": 243,
+    "duration_str": "4h 3m"
   },
   {
     "title": "suisse:::«Quotas» décidés par la ville ou «construire plus vite»: à Lausanne, la bataille du logement est au cœur des élections municipales",
@@ -5399,7 +5408,10 @@
   },
   {
     "title": "economie:::«L’approvisionnement devrait être assuré»: les réserves de gaz en Suisse sont basses, mais pas au point de risquer une pénurie",
-    "added_at": "2026-03-04T07:56:48.935Z"
+    "added_at": "2026-03-04T07:56:48.935Z",
+    "removed_at": "2026-03-04T12:22:46.883Z",
+    "duration_minutes": 265,
+    "duration_str": "4h 25m"
   },
   {
     "title": "economie:::Un atelier lausannois choisi pour dessiner les prochains billets de banque",
@@ -5411,10 +5423,36 @@
   },
   {
     "title": "economie:::L’importance des Etats-Unis dans le commerce mondial décline depuis le début du XXIe siècle",
-    "added_at": "2026-03-04T09:56:26.217Z"
+    "added_at": "2026-03-04T09:56:26.217Z",
+    "removed_at": "2026-03-04T11:37:14.702Z",
+    "duration_minutes": 100,
+    "duration_str": "1h 40m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Russie accuse Kiev d'avoir attaqué l'un de ses navires au large de la Libye",
     "added_at": "2026-03-04T10:34:30.371Z"
+  },
+  {
+    "title": "suisse:::«C’était un carnage»: Olivier Jornot réclame une lourde peine contre le dermatologue qui a tiré trois fois dans le dos de sa femme",
+    "added_at": "2026-03-04T11:10:42.783Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les obsèques de l’ayatollah Khamenei repoussées",
+    "added_at": "2026-03-04T11:25:52.108Z"
+  },
+  {
+    "title": "monde:::Le Texas donne le ton des élections de mi-mandat avec des primaires sous tension",
+    "added_at": "2026-03-04T12:22:46.883Z",
+    "removed_at": "2026-03-04T12:37:59.240Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "sport:::Comment les corners sont devenus les cauchemars des gardiens… et des arbitres",
+    "added_at": "2026-03-04T12:34:09.462Z"
+  },
+  {
+    "title": "culture:::«The Bride!», le retour de la fiancée de Frankenstein dans un explosif film rétro-punk et féministe",
+    "added_at": "2026-03-04T12:37:59.240Z"
   }
 ]
