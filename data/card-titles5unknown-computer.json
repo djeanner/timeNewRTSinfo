@@ -13510,10 +13510,7 @@
   },
   {
     "title": "De Dubaï à Bangkok, des voyageurs bloqués et une période d’incertitude pour le tourisme mondial",
-    "added_at": "2026-03-04T08:38:47.324Z",
-    "removed_at": "2026-03-04T13:02:35.785Z",
-    "duration_minutes": 263,
-    "duration_str": "4h 23m"
+    "added_at": "2026-03-04T08:38:47.324Z"
   },
   {
     "title": "L’effet de la guerre contre l’Iran est déjà visible pour le consommateur américain",
@@ -13631,7 +13628,10 @@
   },
   {
     "title": "Le Royaume-Uni suspend les visas étudiants pour quatre nationalités et les visas de travail pour les Afghans",
-    "added_at": "2026-03-04T15:00:24.745Z"
+    "added_at": "2026-03-04T15:00:24.745Z",
+    "removed_at": "2026-03-05T03:01:16.094Z",
+    "duration_minutes": 720,
+    "duration_str": "12h"
   },
   {
     "title": "Liban : pour les déplacés, un goût amer de déjà-vu",
@@ -13730,5 +13730,9 @@
   {
     "title": "Israël continue de frapper le Liban, disant viser des cibles liées au Hezbollah ; Emmanuel Macron demande à éviter une « opération terrestre »",
     "added_at": "2026-03-04T23:49:49.674Z"
+  },
+  {
+    "title": "« Si Curtis est coupable, piquez-le », dit Christophe Ellul, au premier jour de son procès pour l’homicide involontaire de sa compagne, Elisa Pilarski",
+    "added_at": "2026-03-05T03:01:16.094Z"
   }
 ]
