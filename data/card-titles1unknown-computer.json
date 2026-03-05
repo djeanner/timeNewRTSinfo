@@ -7365,7 +7365,10 @@
   },
   {
     "title": "Pressions, pratiques controversées et messages racistes: une crise secoue la police jurassienne",
-    "added_at": "2026-03-03T08:42:24.112Z"
+    "added_at": "2026-03-03T08:42:24.112Z",
+    "removed_at": "2026-03-05T09:42:59.502Z",
+    "duration_minutes": 2940,
+    "duration_str": "2d 1h"
   },
   {
     "title": "En Valais, le procès d'un gérant de fortune est suspendu à cause de l'absence de son avocate",
@@ -7408,11 +7411,17 @@
   },
   {
     "title": "Le millésime 2025 s'annonce \"remarquable\", grâce à une météo favorable",
-    "added_at": "2026-03-03T10:53:02.582Z"
+    "added_at": "2026-03-03T10:53:02.582Z",
+    "removed_at": "2026-03-05T08:42:24.454Z",
+    "duration_minutes": 2749,
+    "duration_str": "1d 21h 49m"
   },
   {
     "title": "\"Le fantôme des Rocheuses\": Neil Villard et le Grand JD sur les traces du puma",
-    "added_at": "2026-03-03T11:40:33.665Z"
+    "added_at": "2026-03-03T11:40:33.665Z",
+    "removed_at": "2026-03-05T09:03:14.287Z",
+    "duration_minutes": 2722,
+    "duration_str": "1d 21h 22m"
   },
   {
     "title": "La gauche échoue à faire capoter le plan d'économies 2027-2029",
@@ -7423,11 +7432,17 @@
   },
   {
     "title": "Dans \"L'attrape-mots\", Gilles Paris imagine une ado amoureuse d'un héros de roman",
-    "added_at": "2026-03-03T12:48:47.561Z"
+    "added_at": "2026-03-03T12:48:47.561Z",
+    "removed_at": "2026-03-05T08:44:20.768Z",
+    "duration_minutes": 2635,
+    "duration_str": "1d 19h 55m"
   },
   {
     "title": "Lancement d'une initiative contre les dérives des plateformes numériques",
-    "added_at": "2026-03-03T13:17:17.443Z"
+    "added_at": "2026-03-03T13:17:17.443Z",
+    "removed_at": "2026-03-05T10:03:51.420Z",
+    "duration_minutes": 2686,
+    "duration_str": "1d 20h 46m"
   },
   {
     "title": "La ligne CFF perturbée entre Lausanne et Genève au moins jusque dans la soirée, des trains supprimés",
@@ -7456,7 +7471,10 @@
   },
   {
     "title": "\"Pendant qu'il neige\" de Gérard Lefort, l'enfance vue comme un lieu incertain",
-    "added_at": "2026-03-03T14:10:24.891Z"
+    "added_at": "2026-03-03T14:10:24.891Z",
+    "removed_at": "2026-03-05T10:17:03.089Z",
+    "duration_minutes": 2646,
+    "duration_str": "1d 20h 6m"
   },
   {
     "title": "Espace aérien fermé: plus de 4000 Suisses sont bloqués au Moyen-Orient",
@@ -7480,7 +7498,10 @@
   },
   {
     "title": "Terni par la transpiration des touristes, \"Le Jugement dernier\" de Michel-Ange est en cours de restauration",
-    "added_at": "2026-03-03T15:26:13.901Z"
+    "added_at": "2026-03-03T15:26:13.901Z",
+    "removed_at": "2026-03-05T08:23:26.070Z",
+    "duration_minutes": 2457,
+    "duration_str": "1d 16h 57m"
   },
   {
     "title": "Mort à 83 ans de John Hammond, figure emblématique du blues depuis six décennies",
@@ -7769,7 +7790,10 @@
   },
   {
     "title": "Les sénateurs valident un soutien aux victimes de Crans-Montana",
-    "added_at": "2026-03-04T12:11:24.061Z"
+    "added_at": "2026-03-04T12:11:24.061Z",
+    "removed_at": "2026-03-05T09:18:25.465Z",
+    "duration_minutes": 1267,
+    "duration_str": "21h 7m"
   },
   {
     "title": "Cinq morts après l'effondrement d'une passerelle à Santander, dans le nord de l'Espagne",
@@ -7965,5 +7989,37 @@
   {
     "title": "De nouveaux bombardements israéliens sur Téhéran et sa périphérie",
     "added_at": "2026-03-05T07:41:43.227Z"
+  },
+  {
+    "title": "Le Festival international du film de Fribourg (FIFF) promet une 40e édition engagée et festive",
+    "added_at": "2026-03-05T08:23:26.070Z"
+  },
+  {
+    "title": "Des scientifiques ressuscitent les odeurs du passé pour des expositions",
+    "added_at": "2026-03-05T08:42:24.454Z"
+  },
+  {
+    "title": "Argentée à Milan-Cortina, Nadine Fähndrich dira stop à la fin du mois aux Diablerets",
+    "added_at": "2026-03-05T08:44:20.768Z"
+  },
+  {
+    "title": "Le mouvement MAGA de Donald Trump partagé face à la guerre contre l'Iran",
+    "added_at": "2026-03-05T09:03:14.287Z"
+  },
+  {
+    "title": "Le Parlement valide une autorisation facilitée des pesticides",
+    "added_at": "2026-03-05T09:16:29.193Z"
+  },
+  {
+    "title": "Les cerfs sont-ils en train de dévorer les forêts du Plateau?",
+    "added_at": "2026-03-05T09:42:59.502Z"
+  },
+  {
+    "title": "La survie des Jeux paralympiques d'hiver menacée par le réchauffement climatique",
+    "added_at": "2026-03-05T10:03:51.420Z"
+  },
+  {
+    "title": "\"Le corps de Claudine\", belle déclaration d'amour d’un fils à sa mère parkinsonienne",
+    "added_at": "2026-03-05T10:17:03.089Z"
   }
 ]

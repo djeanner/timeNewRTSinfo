@@ -4229,10 +4229,7 @@
   },
   {
     "title": "suisse:::Elections communales vaudoises: voyage au cœur d’une démocratie de proximité sous tension",
-    "added_at": "2026-02-28T06:34:22.387Z",
-    "removed_at": "2026-03-01T13:29:58.177Z",
-    "duration_minutes": 1855,
-    "duration_str": "1d 6h 55m"
+    "added_at": "2026-02-28T06:34:22.387Z"
   },
   {
     "title": "suisse:::Les élections communales vaudoises, des «midterms» pour le canton",
@@ -5386,7 +5383,10 @@
   },
   {
     "title": "suisse:::Crans-Montana: au Constellation, la conformité des sorties de secours soulève de nombreuses questions",
-    "added_at": "2026-03-04T06:04:56.269Z"
+    "added_at": "2026-03-04T06:04:56.269Z",
+    "removed_at": "2026-03-05T09:10:49.849Z",
+    "duration_minutes": 1625,
+    "duration_str": "1d 3h 5m"
   },
   {
     "title": "suisse:::«Quota de logements abordables» ou «construire plus vite»: à Lausanne, la bataille du logement est au cœur des élections municipales",
@@ -5524,10 +5524,7 @@
   },
   {
     "title": "monde:::«La mort et la destruction viendront du ciel toute la journée»: au quatrième jour de la guerre en Iran, le Pentagone prononce un discours guerrier",
-    "added_at": "2026-03-04T14:45:10.399Z",
-    "removed_at": "2026-03-05T05:32:49.886Z",
-    "duration_minutes": 887,
-    "duration_str": "14h 47m"
+    "added_at": "2026-03-04T14:45:10.399Z"
   },
   {
     "title": "economie:::Implenia affine son approche sélective en ciblant les centres de données et de santé",
@@ -5574,9 +5571,9 @@
   {
     "title": "economie:::Embrasement au Moyen-Orient: «Les consommateurs doivent s’attendre à une hausse des prix à la pompe, mais probablement pas à un choc des prix»",
     "added_at": "2026-03-04T16:54:23.676Z",
-    "removed_at": "2026-03-05T07:09:29.219Z",
-    "duration_minutes": 855,
-    "duration_str": "14h 15m"
+    "removed_at": "2026-03-05T10:15:12.901Z",
+    "duration_minutes": 1040,
+    "duration_str": "17h 20m"
   },
   {
     "title": "suisse:::«C’était un carnage», «c’était un acte surgi de nulle part»: Olivier Jornot et la défense s’affrontent au procès du médecin accusé d’avoir abattu sa femme",
@@ -5584,7 +5581,10 @@
   },
   {
     "title": "economie:::Avions cloués au sol et navires immobilisés dans les ports: la guerre en Iran provoque un chaos logistique qui rappelle la crise du coronavirus",
-    "added_at": "2026-03-04T17:34:13.765Z"
+    "added_at": "2026-03-04T17:34:13.765Z",
+    "removed_at": "2026-03-05T10:15:12.901Z",
+    "duration_minutes": 1000,
+    "duration_str": "16h 40m"
   },
   {
     "title": "economie:::Bloqués à l’étranger: le casse-tête juridique et humain des employeurs suisses",
@@ -5656,11 +5656,17 @@
   },
   {
     "title": "culture:::Zaho fait son retour et ça n’a rien de «chelou»",
-    "added_at": "2026-03-04T22:56:46.803Z"
+    "added_at": "2026-03-04T22:56:46.803Z",
+    "removed_at": "2026-03-05T10:00:01.050Z",
+    "duration_minutes": 663,
+    "duration_str": "11h 3m"
   },
   {
     "title": "monde:::En images – Les réactions après la mort du guide suprême iranien Ali Khamenei",
-    "added_at": "2026-03-04T22:58:42.223Z"
+    "added_at": "2026-03-04T22:58:42.223Z",
+    "removed_at": "2026-03-05T09:08:55.873Z",
+    "duration_minutes": 610,
+    "duration_str": "10h 10m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Sénat américain refuse de limiter les pouvoirs de Donald Trump contre l’Iran",
@@ -5697,7 +5703,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël lance une nouvelle vague d’attaques «à grande échelle» contre Téhéran",
-    "added_at": "2026-03-05T06:44:56.237Z"
+    "added_at": "2026-03-05T06:44:56.237Z",
+    "removed_at": "2026-03-05T09:24:06.270Z",
+    "duration_minutes": 159,
+    "duration_str": "2h 39m"
   },
   {
     "title": "cyber:::«C’est incompréhensible pour la souveraineté numérique»: les députés vaudois vont examiner l’achat par le CHUV d’un logiciel américain",
@@ -5705,7 +5714,10 @@
   },
   {
     "title": "cyber:::Le CHUV et les hôpitaux vaudois choisissent l’américain Epic pour leur nouveau dossier patient informatisé",
-    "added_at": "2026-03-05T07:09:29.219Z"
+    "added_at": "2026-03-05T07:09:29.219Z",
+    "removed_at": "2026-03-05T09:08:55.873Z",
+    "duration_minutes": 119,
+    "duration_str": "1h 59m"
   },
   {
     "title": "suisse:::A Lausanne, la future municipalité aura cinq ans pour se défaire de l’étiquette de ville la plus dangereuse de Suisse",
@@ -5714,5 +5726,28 @@
   {
     "title": "cyber:::La Suisse est «le pire pays du monde pour créer une start-up en informatique quantique». Mais elle veut progresser",
     "added_at": "2026-03-05T07:54:55.026Z"
+  },
+  {
+    "title": "sport:::La saison régulière de hockey touche à sa fin: Davos veut renouer avec son histoire",
+    "added_at": "2026-03-05T08:51:52.493Z"
+  },
+  {
+    "title": "economie:::Le taux de chômage est resté stable à 3,2% en février",
+    "added_at": "2026-03-05T09:10:49.849Z",
+    "removed_at": "2026-03-05T09:48:40.337Z",
+    "duration_minutes": 37,
+    "duration_str": "37m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Israël lance une nouvelle vague d’attaques contre Téhéran, des frappes iraniennes touchent Doha et l’Azerbaïdjan",
+    "added_at": "2026-03-05T09:24:06.270Z"
+  },
+  {
+    "title": "suisse:::«Soit on est de gauche, soit on se tait»: itinéraire de la radicalisation de Joung Gustav, influenceur zurichois",
+    "added_at": "2026-03-05T09:48:40.337Z"
+  },
+  {
+    "title": "suisse:::«Je n’ai pas l’impression de voler de l’argent»: combien gagne un syndic ou un municipal dans le canton de Vaud?",
+    "added_at": "2026-03-05T10:15:12.901Z"
   }
 ]
