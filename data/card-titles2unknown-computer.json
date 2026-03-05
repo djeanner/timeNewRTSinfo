@@ -2066,10 +2066,7 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2026-02-20T09:14:02.196Z",
-    "removed_at": "2026-02-27T14:20:11.828Z",
-    "duration_minutes": 10386,
-    "duration_str": "7d 5h 6m"
+    "added_at": "2026-02-20T09:14:02.196Z"
   },
   {
     "title": "monde:::En Espagne, l’exécutif socialiste éclaboussé par un scandale sexuel retentissant",
@@ -5714,7 +5711,10 @@
   },
   {
     "title": "suisse:::A Zurich, 80 ans après le discours historique de Winston Churchill, la Suisse et l’Union européenne renforcent leur coopération en matière de sécurité",
-    "added_at": "2026-03-05T06:10:51.557Z"
+    "added_at": "2026-03-05T06:10:51.557Z",
+    "removed_at": "2026-03-05T16:13:39.282Z",
+    "duration_minutes": 602,
+    "duration_str": "10h 2m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël lance une nouvelle vague d’attaques «à grande échelle» contre Téhéran",
@@ -5740,7 +5740,10 @@
   },
   {
     "title": "cyber:::La Suisse est «le pire pays du monde pour créer une start-up en informatique quantique». Mais elle veut progresser",
-    "added_at": "2026-03-05T07:54:55.026Z"
+    "added_at": "2026-03-05T07:54:55.026Z",
+    "removed_at": "2026-03-05T17:35:30.480Z",
+    "duration_minutes": 580,
+    "duration_str": "9h 40m"
   },
   {
     "title": "sport:::La saison régulière de hockey touche à sa fin: Davos veut renouer avec son histoire",
@@ -5773,11 +5776,17 @@
   },
   {
     "title": "culture:::«Les mouches empêchent notre âme d’agir»: l’historien de l’art Peter Geimer célèbre l’insecte honni de la culture occidentale",
-    "added_at": "2026-03-05T10:41:48.593Z"
+    "added_at": "2026-03-05T10:41:48.593Z",
+    "removed_at": "2026-03-05T15:48:58.255Z",
+    "duration_minutes": 307,
+    "duration_str": "5h 7m"
   },
   {
     "title": "sport:::En 2026, la formule 1 veut être plus raisonnable sous le capot et plus folle sur la piste",
-    "added_at": "2026-03-05T10:55:05.200Z"
+    "added_at": "2026-03-05T10:55:05.200Z",
+    "removed_at": "2026-03-05T17:10:32.305Z",
+    "duration_minutes": 375,
+    "duration_str": "6h 15m"
   },
   {
     "title": "cyber:::Après une rupture fracassante, Anthropic est à nouveau en négociations avec l’administration américaine",
@@ -5788,7 +5797,10 @@
   },
   {
     "title": "culture:::Elia Coppens, cet ex-danseur du Ballet du Grand Théâtre de Genève devenu médecin des stades et de la scène",
-    "added_at": "2026-03-05T12:56:27.792Z"
+    "added_at": "2026-03-05T12:56:27.792Z",
+    "removed_at": "2026-03-05T16:32:32.560Z",
+    "duration_minutes": 216,
+    "duration_str": "3h 36m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’agence officielle iranienne fait état de 1230 morts, des frappes de rerpésailles touchent Doha et l’Azerbaïdjan",
@@ -5806,7 +5818,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’armée israélienne appelle à évacuer toute la banlieue sud de Beyrouth, en Iran l’agence officielle fait état de 1230 morts",
-    "added_at": "2026-03-05T13:36:13.347Z"
+    "added_at": "2026-03-05T13:36:13.347Z",
+    "removed_at": "2026-03-05T17:31:43.966Z",
+    "duration_minutes": 235,
+    "duration_str": "3h 55m"
   },
   {
     "title": "suisse:::Thomas Bläsi s’attaque à l’opacité de la distribution de médicaments pour faire baisser les primes maladie",
@@ -5823,5 +5838,17 @@
   {
     "title": "economie:::Face aux bugs des indemnités chômage, une perte de confiance des chercheurs d’emploi?",
     "added_at": "2026-03-05T15:12:47.443Z"
+  },
+  {
+    "title": "suisse:::Le parlement ne veut pas sanctuariser la neutralité",
+    "added_at": "2026-03-05T16:13:39.282Z"
+  },
+  {
+    "title": "suisse:::Suisses bloqués à l’étranger: jusqu’où doit aller l’aide de la Confédération?",
+    "added_at": "2026-03-05T17:10:32.305Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump exige d'être «impliqué dans le choix» du successeur d’Ali Khamenei",
+    "added_at": "2026-03-05T17:31:43.966Z"
   }
 ]
