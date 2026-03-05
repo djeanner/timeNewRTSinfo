@@ -7291,7 +7291,10 @@
   },
   {
     "title": "Téhéran de nouveau touchée par une série d'explosions, le siège de la radio-TV publique visé",
-    "added_at": "2026-03-02T23:06:02.179Z"
+    "added_at": "2026-03-02T23:06:02.179Z",
+    "removed_at": "2026-03-05T06:01:21.637Z",
+    "duration_minutes": 3295,
+    "duration_str": "2d 6h 55m"
   },
   {
     "title": "L'ambassade des Etats-Unis visée par des drones à Ryad, Washington appelle ses ressortissants, à partir du Moyen-Orient",
@@ -7398,7 +7401,10 @@
   },
   {
     "title": "L'éditeur Bernard Campiche passe la main après 40 ans de mise en valeur des auteurs romands",
-    "added_at": "2026-03-03T10:51:08.206Z"
+    "added_at": "2026-03-03T10:51:08.206Z",
+    "removed_at": "2026-03-05T07:39:46.814Z",
+    "duration_minutes": 2688,
+    "duration_str": "1d 20h 48m"
   },
   {
     "title": "Le millésime 2025 s'annonce \"remarquable\", grâce à une météo favorable",
@@ -7948,5 +7954,16 @@
   {
     "title": "Des entreprises suisses ont maintenu le soutien à l’effort de guerre israélien à Gaza malgré les critiques",
     "added_at": "2026-03-05T05:25:18.484Z"
+  },
+  {
+    "title": "De nouveaux bombardements israéliens sur Téhéran et sa périphérie ouest",
+    "added_at": "2026-03-05T07:39:46.814Z",
+    "removed_at": "2026-03-05T07:41:43.227Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "De nouveaux bombardements israéliens sur Téhéran et sa périphérie",
+    "added_at": "2026-03-05T07:41:43.227Z"
   }
 ]
