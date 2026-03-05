@@ -5428,10 +5428,7 @@
   },
   {
     "title": "Le résumé de l'actualité romande",
-    "added_at": "2026-02-25T12:24:15.178Z",
-    "removed_at": "2026-02-26T20:04:43.990Z",
-    "duration_minutes": 1900,
-    "duration_str": "1d 7h 40m"
+    "added_at": "2026-02-25T12:24:15.178Z"
   },
   {
     "title": "Afficher son opinion politique en accrochant un drapeau palestinien à son balcon est-il autorisé?",
@@ -7649,7 +7646,10 @@
   },
   {
     "title": "En direct : Chloé Domat à Beyrouth et Stéphane Amar à Jérusalem couvrent l’actualité",
-    "added_at": "2026-03-03T23:24:18.602Z"
+    "added_at": "2026-03-03T23:24:18.602Z",
+    "removed_at": "2026-03-05T21:15:31.120Z",
+    "duration_minutes": 2751,
+    "duration_str": "1d 21h 51m"
   },
   {
     "title": "Les Etats-Unis revendiquent près de 2000 cibles frappées en l'espace de quatre jours en Iran",
@@ -7831,7 +7831,10 @@
   },
   {
     "title": "Le combat de Diego Del Rio contre les discriminations liées à l'obésité",
-    "added_at": "2026-03-04T11:03:06.997Z"
+    "added_at": "2026-03-04T11:03:06.997Z",
+    "removed_at": "2026-03-05T21:02:12.784Z",
+    "duration_minutes": 2039,
+    "duration_str": "1d 9h 59m"
   },
   {
     "title": "Suisses bloqués au Moyen-Orient: \"Chacun a la responsabilité de s'informer avant de voyager\", dixit le DFAE",
@@ -7993,7 +7996,10 @@
   },
   {
     "title": "Que sait-on du coma aujourd'hui ?",
-    "added_at": "2026-03-04T18:04:40.566Z"
+    "added_at": "2026-03-04T18:04:40.566Z",
+    "removed_at": "2026-03-05T21:04:08.330Z",
+    "duration_minutes": 1619,
+    "duration_str": "1d 2h 59m"
   },
   {
     "title": "La guerre au Moyen-Orient entre dans son 5ème jour",
@@ -8198,7 +8204,10 @@
   },
   {
     "title": "Israël sème la panique dans la banlieue sud de Beyrouth, appelée à être évacuée en entier",
-    "added_at": "2026-03-05T15:47:03.693Z"
+    "added_at": "2026-03-05T15:47:03.693Z",
+    "removed_at": "2026-03-05T22:10:24.424Z",
+    "duration_minutes": 383,
+    "duration_str": "6h 23m"
   },
   {
     "title": "Davantage de blessés de Crans-Montana ont quitté leur lit d'hôpital",
@@ -8239,5 +8248,38 @@
   {
     "title": "Donald Trump renvoie sa ministre de la Sécurité intérieure Kristi Noem",
     "added_at": "2026-03-05T19:12:15.344Z"
+  },
+  {
+    "title": "La facture dépasse les 100'000 francs pour la manifestation propalestinienne de Sion",
+    "added_at": "2026-03-05T21:02:12.784Z",
+    "removed_at": "2026-03-05T22:06:39.519Z",
+    "duration_minutes": 64,
+    "duration_str": "1h 4m"
+  },
+  {
+    "title": "120 secondes - Plus de 5'000 ressortissants suisses sont encore bloqués au Moyen Orient",
+    "added_at": "2026-03-05T21:04:08.330Z"
+  },
+  {
+    "title": "Une première frappe sur la banlieue sud de Beyrouth après un ordre d'évacuation total",
+    "added_at": "2026-03-05T22:06:39.519Z",
+    "removed_at": "2026-03-05T22:08:29.988Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "La facture dépasse les 100'000 francs pour la manifestation pro-palestinienne de Sion",
+    "added_at": "2026-03-05T22:06:39.519Z"
+  },
+  {
+    "title": "Un premier bombardement sur la banlieue sud de Beyrouth après un ordre d'évacuation total",
+    "added_at": "2026-03-05T22:08:29.988Z",
+    "removed_at": "2026-03-05T22:14:11.160Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "Des bombardements sur la banlieue sud de Beyrouth après un ordre d'évacuation total",
+    "added_at": "2026-03-05T22:12:20.571Z"
   }
 ]
