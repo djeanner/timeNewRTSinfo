@@ -7487,7 +7487,10 @@
   },
   {
     "title": "Espace aérien fermé: plus de 4000 Suisses sont bloqués au Moyen-Orient",
-    "added_at": "2026-03-03T14:23:40.696Z"
+    "added_at": "2026-03-03T14:23:40.696Z",
+    "removed_at": "2026-03-06T11:20:48.968Z",
+    "duration_minutes": 4137,
+    "duration_str": "2d 20h 57m"
   },
   {
     "title": "Manifestations universitaires à Lausanne et Neuchâtel pour dénoncer les mesures fédérales d'austérité",
@@ -7764,7 +7767,10 @@
   },
   {
     "title": "Vol spécial de Swiss pour rapatrier des voyageurs bloqués à Oman",
-    "added_at": "2026-03-04T09:18:34.127Z"
+    "added_at": "2026-03-04T09:18:34.127Z",
+    "removed_at": "2026-03-06T10:31:34.940Z",
+    "duration_minutes": 2953,
+    "duration_str": "2d 1h 13m"
   },
   {
     "title": "Pourquoi la Suisse n'évacue-t-elle pas ses ressortissants bloqués au Moyen-Orient?",
@@ -7910,7 +7916,10 @@
   },
   {
     "title": "L'Arcade, le nouvel espace d'exposition du Centre d'art contemporain Genève",
-    "added_at": "2026-03-04T12:58:47.921Z"
+    "added_at": "2026-03-04T12:58:47.921Z",
+    "removed_at": "2026-03-06T10:39:06.097Z",
+    "duration_minutes": 2740,
+    "duration_str": "1d 21h 40m"
   },
   {
     "title": "Touristes bloqués au Moyen-Orient: un premier vol est arrivé hier soir à Zurich",
@@ -7932,7 +7941,10 @@
   },
   {
     "title": "Les droits de douane américains à 15% attendus \"à un moment cette semaine\"",
-    "added_at": "2026-03-04T14:11:02.546Z"
+    "added_at": "2026-03-04T14:11:02.546Z",
+    "removed_at": "2026-03-06T10:52:23.835Z",
+    "duration_minutes": 2681,
+    "duration_str": "1d 20h 41m"
   },
   {
     "title": "Un navire de guerre iranien coulé par un sous-marin américain dans l'océan Indien",
@@ -7965,11 +7977,17 @@
   },
   {
     "title": "\"Morvan\" de Bénédicte Belpois, la belle errance d’un tendre anti-héros",
-    "added_at": "2026-03-04T15:09:50.923Z"
+    "added_at": "2026-03-04T15:09:50.923Z",
+    "removed_at": "2026-03-06T10:54:20.654Z",
+    "duration_minutes": 2624,
+    "duration_str": "1d 19h 44m"
   },
   {
     "title": "L'infectiologue Delphine Berthod nommée au poste de médecin cantonale du Valais",
-    "added_at": "2026-03-04T15:11:47.246Z"
+    "added_at": "2026-03-04T15:11:47.246Z",
+    "removed_at": "2026-03-06T11:00:02.218Z",
+    "duration_minutes": 2628,
+    "duration_str": "1d 19h 48m"
   },
   {
     "title": "Le Point J vous propose \"ENFERMÉE\" : ressentir ce que vivent les patient·e·s dans le coma",
@@ -8014,7 +8032,10 @@
   },
   {
     "title": "Fribourg développe son réseau cyclable TransAgglo",
-    "added_at": "2026-03-04T17:00:05.512Z"
+    "added_at": "2026-03-04T17:00:05.512Z",
+    "removed_at": "2026-03-06T11:37:50.730Z",
+    "duration_minutes": 2557,
+    "duration_str": "1d 18h 37m"
   },
   {
     "title": "Pourquoi une invasion terrestre de l'Iran serait un défi colossal",
@@ -8364,7 +8385,10 @@
   },
   {
     "title": "Israël bombarde Téhéran et annonce une \"nouvelle phase\" dans sa guerre contre l'Iran",
-    "added_at": "2026-03-06T07:12:27.772Z"
+    "added_at": "2026-03-06T07:12:27.772Z",
+    "removed_at": "2026-03-06T11:34:06.334Z",
+    "duration_minutes": 261,
+    "duration_str": "4h 21m"
   },
   {
     "title": "Une crèche privée de Pully ferme brutalement et laisse une trentaine de familles sans solution",
@@ -8389,5 +8413,45 @@
   {
     "title": "Comment un simple jeu peut transformer vos (mauvaises) habitudes alimentaires",
     "added_at": "2026-03-06T09:34:33.914Z"
+  },
+  {
+    "title": "\"Le monde se brutalise et ses acteurs se désinhibent\", explique Muriel Domenach",
+    "added_at": "2026-03-06T10:31:34.940Z"
+  },
+  {
+    "title": "Bruno Mars déroule en solo ses inspirations rock, soul et funk sur \"The Romantic\"",
+    "added_at": "2026-03-06T10:31:34.940Z"
+  },
+  {
+    "title": "La fermeture du bureau valaisan contre le racisme depuis plusieurs mois suscite la critique",
+    "added_at": "2026-03-06T10:39:06.097Z"
+  },
+  {
+    "title": "Ouverture d'un pôle dédié la santé cardiovasculaire de la femme aux HUG",
+    "added_at": "2026-03-06T10:52:23.835Z"
+  },
+  {
+    "title": "La présidente du Kosovo dissout le Parlement et convoque des élections",
+    "added_at": "2026-03-06T10:54:20.654Z"
+  },
+  {
+    "title": "Le policier qui a tué Nahel sera finalement jugé pour violences et non pour meurtre",
+    "added_at": "2026-03-06T11:00:02.218Z"
+  },
+  {
+    "title": "L'invitée de La Matinale (vidéo) - Muriel Domenach, ancienne ambassadrice de la France auprès de l’OTAN",
+    "added_at": "2026-03-06T11:20:48.968Z"
+  },
+  {
+    "title": "Israël pilonne la banlieue sud de Beyrouth et bombarde à nouveau Téhéran",
+    "added_at": "2026-03-06T11:34:06.334Z"
+  },
+  {
+    "title": "Des passionnés et des mécènes redonnent vie à des hôtels historiques dans les Grisons",
+    "added_at": "2026-03-06T11:37:50.730Z"
+  },
+  {
+    "title": "La cathédrale de Fribourg au défi de l'application des normes anti-incendie",
+    "added_at": "2026-03-06T11:49:12.511Z"
   }
 ]
