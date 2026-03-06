@@ -7859,7 +7859,10 @@
   },
   {
     "title": "Suisses bloqués au Moyen-Orient: \"Chacun a la responsabilité de s'informer avant de voyager\", dixit le DFAE",
-    "added_at": "2026-03-04T11:06:57.755Z"
+    "added_at": "2026-03-04T11:06:57.755Z",
+    "removed_at": "2026-03-06T18:04:44.094Z",
+    "duration_minutes": 3297,
+    "duration_str": "2d 6h 57m"
   },
   {
     "title": "La tension s'accroît entre Israël et le Liban, l'Iran toujours ciblé par des frappes d'ampleur",
@@ -8033,9 +8036,9 @@
   {
     "title": "Fermeture du détroit d'Ormuz: réorganisation des chaines d'approvisionnement",
     "added_at": "2026-03-04T16:22:05.956Z",
-    "removed_at": "2026-03-06T16:03:15.169Z",
-    "duration_minutes": 2861,
-    "duration_str": "1d 23h 41m"
+    "removed_at": "2026-03-06T19:18:38.986Z",
+    "duration_minutes": 3056,
+    "duration_str": "2d 2h 56m"
   },
   {
     "title": "Les pouches interdits en France dès avril, mais toujours en vente en Suisse",
@@ -8103,7 +8106,10 @@
   },
   {
     "title": "La rue Marcello à Fribourg, pseudonyme de l'artiste Adèle d'Affry.",
-    "added_at": "2026-03-04T21:21:57.010Z"
+    "added_at": "2026-03-04T21:21:57.010Z",
+    "removed_at": "2026-03-06T19:01:35.743Z",
+    "duration_minutes": 2739,
+    "duration_str": "1d 21h 39m"
   },
   {
     "title": "Les Etats-Unis s'estiment en \"position de force\" contre l'Iran",
@@ -8150,7 +8156,10 @@
   },
   {
     "title": "La surproduction de porc fait chuter les prix et met les agriculteurs à rude épreuve",
-    "added_at": "2026-03-05T05:19:37.139Z"
+    "added_at": "2026-03-05T05:19:37.139Z",
+    "removed_at": "2026-03-06T18:54:00.401Z",
+    "duration_minutes": 2254,
+    "duration_str": "1d 13h 34m"
   },
   {
     "title": "Des entreprises suisses ont maintenu le soutien à l’effort de guerre israélien à Gaza malgré les critiques",
@@ -8212,7 +8221,10 @@
   },
   {
     "title": "\"Le corps de Claudine\", belle déclaration d'amour d’un fils à sa mère parkinsonienne",
-    "added_at": "2026-03-05T10:17:03.089Z"
+    "added_at": "2026-03-05T10:17:03.089Z",
+    "removed_at": "2026-03-06T19:37:42.448Z",
+    "duration_minutes": 2000,
+    "duration_str": "1d 9h 20m"
   },
   {
     "title": "Deux véhicules et une entreprise endommagés lors d'un brigandage à Courchavon",
@@ -8541,7 +8553,10 @@
   },
   {
     "title": "Le Conseil fédéral persiste à relever la TVA de 0,8 point pour financer l'armée, malgré les critiques",
-    "added_at": "2026-03-06T13:56:18.156Z"
+    "added_at": "2026-03-06T13:56:18.156Z",
+    "removed_at": "2026-03-06T18:02:49.822Z",
+    "duration_minutes": 246,
+    "duration_str": "4h 6m"
   },
   {
     "title": "La justice française valide le lien entre travail de nuit répété et cancer du sein",
@@ -8553,7 +8568,10 @@
   },
   {
     "title": "Les Jeux paralympiques de Milan-Cortina débutent avec la Russie et dans un contexte tendu",
-    "added_at": "2026-03-06T14:41:45.336Z"
+    "added_at": "2026-03-06T14:41:45.336Z",
+    "removed_at": "2026-03-06T19:39:32.528Z",
+    "duration_minutes": 297,
+    "duration_str": "4h 57m"
   },
   {
     "title": "Dès le 1er avril, il sera interdit d'allumer des engins pyrotechniques dans les locaux accueillant du public",
@@ -8589,10 +8607,37 @@
   },
   {
     "title": "Podcast – Joséphine: se reconstruire après l’inceste",
-    "added_at": "2026-03-06T17:02:05.945Z"
+    "added_at": "2026-03-06T17:02:05.945Z",
+    "removed_at": "2026-03-06T18:14:11.441Z",
+    "duration_minutes": 72,
+    "duration_str": "1h 12m"
   },
   {
     "title": "Pourquoi fouiller dans son passé familial ?",
     "added_at": "2026-03-06T17:04:02.110Z"
+  },
+  {
+    "title": "Le Conseil fédéral veut toujours relever la TVA de 0,8 point pour financer l'armée, malgré les critiques",
+    "added_at": "2026-03-06T18:02:49.822Z"
+  },
+  {
+    "title": "Podcast – Joséphine: se reconstruire après l'inceste",
+    "added_at": "2026-03-06T18:14:11.441Z"
+  },
+  {
+    "title": "Loin du glamour du Salon de l'automobile, autoXpérience met l'accent sur la vente",
+    "added_at": "2026-03-06T18:54:00.401Z"
+  },
+  {
+    "title": "Après le glamour de feu le Salon de l'auto, le pragmatisme d’autoXpérience",
+    "added_at": "2026-03-06T19:18:38.986Z"
+  },
+  {
+    "title": "Les votes électroniques du 8 mars seront probablement invalidés à Bâle-Ville à cause d'un bug",
+    "added_at": "2026-03-06T19:37:42.448Z"
+  },
+  {
+    "title": "Les Jeux paralympiques de Milan-Cortina débutent: suivre la cérémonie d'ouverture",
+    "added_at": "2026-03-06T19:39:32.528Z"
   }
 ]
