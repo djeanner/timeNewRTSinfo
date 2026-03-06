@@ -13891,10 +13891,7 @@
   },
   {
     "title": "A Téhéran, Israël pilonne l’appareil de sécurité intérieure iranien pour faciliter un soulèvement après-guerre",
-    "added_at": "2026-03-05T08:10:14.737Z",
-    "removed_at": "2026-03-06T02:48:57.038Z",
-    "duration_minutes": 1118,
-    "duration_str": "18h 38m"
+    "added_at": "2026-03-05T08:10:14.737Z"
   },
   {
     "title": "Téhéran visé par de nouvelles frappes israéliennes ; des explosions entendues à Doha et à Manama",
@@ -13966,7 +13963,10 @@
   },
   {
     "title": "Kim Jong-un affirme que la marine nord-coréenne s’équipe d’armes nucléaires",
-    "added_at": "2026-03-05T11:02:36.621Z"
+    "added_at": "2026-03-05T11:02:36.621Z",
+    "removed_at": "2026-03-06T04:01:01.593Z",
+    "duration_minutes": 1018,
+    "duration_str": "16h 58m"
   },
   {
     "title": "L’armée israélienne lance une offensive terrestre dans le sud du Liban",
@@ -14059,7 +14059,10 @@
   },
   {
     "title": "Dario Amodei, l’ambivalent patron d’Anthropic qui se dresse contre Donald Trump",
-    "added_at": "2026-03-05T16:47:46.864Z"
+    "added_at": "2026-03-05T16:47:46.864Z",
+    "removed_at": "2026-03-06T04:10:31.862Z",
+    "duration_minutes": 682,
+    "duration_str": "11h 22m"
   },
   {
     "title": "Emmanuel Macron veut « établir un plan » au Liban pour « mettre un terme aux opérations militaires » du Hezbollah et d’Israël",
@@ -14070,11 +14073,17 @@
   },
   {
     "title": "Sur le plateau de Gergovie, la Cité des Gaulois rêvée de Laurent Wauquiez dans le brouillard",
-    "added_at": "2026-03-05T18:34:22.504Z"
+    "added_at": "2026-03-05T18:34:22.504Z",
+    "removed_at": "2026-03-06T04:59:44.763Z",
+    "duration_minutes": 625,
+    "duration_str": "10h 25m"
   },
   {
     "title": "Nicolas Lebourg et Baptiste Roger-Lacan, spécialistes de l’extrême droite : « L’union des droites existe déjà chez les électeurs »",
-    "added_at": "2026-03-05T18:34:22.504Z"
+    "added_at": "2026-03-05T18:34:22.504Z",
+    "removed_at": "2026-03-06T04:10:31.862Z",
+    "duration_minutes": 576,
+    "duration_str": "9h 36m"
   },
   {
     "title": "Emmanuel Macron veut « établir un plan » pour « mettre un terme aux opérations » du Hezbollah et d’Israël ; un avion de rapatriement d’Air France fait demi-tour « en raison de tirs de missiles »",
@@ -14107,10 +14116,50 @@
   },
   {
     "title": "Guerre au Moyen-Orient : l’armée américaine dit avoir coulé « plus de trente navires » iraniens, Macron assure que la France « ne va pas s’engager dans cette guerre »",
-    "added_at": "2026-03-06T02:01:38.136Z"
+    "added_at": "2026-03-06T02:01:38.136Z",
+    "removed_at": "2026-03-06T03:09:53.855Z",
+    "duration_minutes": 68,
+    "duration_str": "1h 8m"
   },
   {
     "title": "Le Collectif Némésis annonce qu’il ne participera pas au cortège parisien de la manifestation féministe du 8 mars",
     "added_at": "2026-03-06T02:01:38.136Z"
+  },
+  {
+    "title": "Israël dit lancer une vague d’attaque contre « l’infrastructure du régime » iranien à Téhéran ; l’Iran annonce des tirs de missiles sur Tel-Aviv",
+    "added_at": "2026-03-06T03:09:53.855Z",
+    "removed_at": "2026-03-06T03:11:48.093Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Israël dit mener une vague d’attaques contre « l’infrastructure du régime » à Téhéran ; l’Iran annonce lancer des missiles et des drones sur Tel-Aviv",
+    "added_at": "2026-03-06T03:11:48.093Z",
+    "removed_at": "2026-03-06T05:05:25.301Z",
+    "duration_minutes": 113,
+    "duration_str": "1h 53m"
+  },
+  {
+    "title": "Dans la bande de Gaza, l’enfer de la « ligne jaune »",
+    "added_at": "2026-03-06T04:10:31.862Z"
+  },
+  {
+    "title": "La guerre en Iran, une épreuve politique aussi bien pour l’isolationniste J. D. Vance que pour l’interventionniste Marco Rubio",
+    "added_at": "2026-03-06T04:10:31.862Z"
+  },
+  {
+    "title": "Le sénateur LR Stéphane Le Rudulier accusé de violences volontaires par l’ex-maire de Rognac",
+    "added_at": "2026-03-06T04:59:44.763Z"
+  },
+  {
+    "title": "Israël dit mener une vague d’attaques contre « l’infrastructure du régime » à Téhéran ; des missiles et des drones lancés sur Tel-Aviv",
+    "added_at": "2026-03-06T05:05:25.301Z",
+    "removed_at": "2026-03-06T05:20:34.101Z",
+    "duration_minutes": 15,
+    "duration_str": "15m"
+  },
+  {
+    "title": "Pour Donald Trump, l’envoi de troupes au sol en Iran serait une « perte de temps »",
+    "added_at": "2026-03-06T05:20:34.101Z"
   }
 ]
