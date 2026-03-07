@@ -6034,10 +6034,7 @@
   },
   {
     "title": "economie:::Soutenez une information indépendante et engagez-vous pour deux ans avec «Le Temps» à -50%",
-    "added_at": "2026-03-06T05:22:27.829Z",
-    "removed_at": "2026-03-06T20:30:55.404Z",
-    "duration_minutes": 908,
-    "duration_str": "15h 8m"
+    "added_at": "2026-03-06T05:22:27.829Z"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Des troupes au sol en Iran? «Une perte de temps», déclare Donald Trump",
@@ -6255,7 +6252,10 @@
   },
   {
     "title": "monde:::Le détroit d'Ormuz, arme stratégique (et vulnérable) de l’Iran, qui ravive le souvenir de la «guerre des pétroliers»",
-    "added_at": "2026-03-06T16:46:58.004Z"
+    "added_at": "2026-03-06T16:46:58.004Z",
+    "removed_at": "2026-03-07T18:17:32.530Z",
+    "duration_minutes": 1530,
+    "duration_str": "1d 1h 30m"
   },
   {
     "title": "monde:::Affaire Epstein: Donald Trump mis en cause dans de nouveaux documents",
@@ -6398,7 +6398,10 @@
   },
   {
     "title": "culture:::Le grand écrivain portugais António Lobo Antunes a fait résonner une langue nouvelle, à fleur de rêve",
-    "added_at": "2026-03-07T10:10:09.656Z"
+    "added_at": "2026-03-07T10:10:09.656Z",
+    "removed_at": "2026-03-07T18:42:06.718Z",
+    "duration_minutes": 511,
+    "duration_str": "8h 31m"
   },
   {
     "title": "monde:::Au Népal, l’ancien rappeur Balendra Shah, héros de la jeunesse locale, remporte les législatives",
@@ -6459,11 +6462,17 @@
   },
   {
     "title": "sport:::Elise Chabbey et Tadej Pogacar triomphent aux Strade Bianche",
-    "added_at": "2026-03-07T15:55:22.974Z"
+    "added_at": "2026-03-07T15:55:22.974Z",
+    "removed_at": "2026-03-07T17:37:44.736Z",
+    "duration_minutes": 102,
+    "duration_str": "1h 42m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les Emirats arabes unis se disent «en situation de guerre» après de nouveaux missiles depuis l’Iran",
-    "added_at": "2026-03-07T16:21:51.160Z"
+    "added_at": "2026-03-07T16:21:51.160Z",
+    "removed_at": "2026-03-07T18:55:23.929Z",
+    "duration_minutes": 153,
+    "duration_str": "2h 33m"
   },
   {
     "title": "suisse:::Saucisse de veau, avalanches et communauté soudée: bienvenue à Riemenstalden, chez les irréductibles «Neinsager»",
@@ -6472,5 +6481,20 @@
   {
     "title": "suisse:::A Lausanne et Zurich, plusieurs milliers de personnes défilent pour le 8 mars",
     "added_at": "2026-03-07T16:46:28.624Z"
+  },
+  {
+    "title": "monde:::«Des femmes sont enterrées ni vu ni connu»: au Sénégal, où règne le silence sur les violences masculines",
+    "added_at": "2026-03-07T18:28:54.343Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – De puissantes explosions retentissent à Téhéran",
+    "added_at": "2026-03-07T18:55:23.929Z",
+    "removed_at": "2026-03-07T18:59:10.312Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – De puissantes explosions retentissent à Téhéran et Jérusalem",
+    "added_at": "2026-03-07T18:59:10.312Z"
   }
 ]
