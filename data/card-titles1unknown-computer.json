@@ -8328,7 +8328,10 @@
   },
   {
     "title": "Trop de biodéchets et de plastiques dans les poubelles vaudoises",
-    "added_at": "2026-03-05T13:40:03.888Z"
+    "added_at": "2026-03-05T13:40:03.888Z",
+    "removed_at": "2026-03-07T10:34:48.034Z",
+    "duration_minutes": 2694,
+    "duration_str": "1d 20h 54m"
   },
   {
     "title": "L'ours bernois continuera d'afficher son membre rouge sur le blason cantonal",
@@ -8339,7 +8342,10 @@
   },
   {
     "title": "Léger recul des retraits de permis en Suisse, à part chez les jeunes",
-    "added_at": "2026-03-05T14:38:41.862Z"
+    "added_at": "2026-03-05T14:38:41.862Z",
+    "removed_at": "2026-03-07T10:19:40.927Z",
+    "duration_minutes": 2620,
+    "duration_str": "1d 19h 40m"
   },
   {
     "title": "Le sable du Sahara arrive en Suisse et brouille les paysages",
@@ -8347,7 +8353,10 @@
   },
   {
     "title": "Voix majeure de la littérature portugaise, le romancier António Lobo Antunes est décédé",
-    "added_at": "2026-03-05T14:50:02.685Z"
+    "added_at": "2026-03-05T14:50:02.685Z",
+    "removed_at": "2026-03-07T12:07:41.842Z",
+    "duration_minutes": 2717,
+    "duration_str": "1d 21h 17m"
   },
   {
     "title": "Forte baisse du nombre de blessés de Crans-Montana soignés en Suisse",
@@ -8358,11 +8367,17 @@
   },
   {
     "title": "Kiev et Moscou échangeront d'ici vendredi 500 prisonniers de guerre",
-    "added_at": "2026-03-05T15:10:56.641Z"
+    "added_at": "2026-03-05T15:10:56.641Z",
+    "removed_at": "2026-03-07T11:22:12.430Z",
+    "duration_minutes": 2651,
+    "duration_str": "1d 20h 11m"
   },
   {
     "title": "Marianne Fatton et Thomas Bussard se parent d'or en relais mixte",
-    "added_at": "2026-03-05T15:43:16.861Z"
+    "added_at": "2026-03-05T15:43:16.861Z",
+    "removed_at": "2026-03-07T10:48:09.096Z",
+    "duration_minutes": 2584,
+    "duration_str": "1d 19h 4m"
   },
   {
     "title": "Israël sème la panique dans la banlieue sud de Beyrouth, appelée à être évacuée en entier",
@@ -8377,7 +8392,10 @@
   },
   {
     "title": "\"Le corset\" de Vanessa Caffin, généalogie d’un étouffement",
-    "added_at": "2026-03-05T16:04:07.458Z"
+    "added_at": "2026-03-05T16:04:07.458Z",
+    "removed_at": "2026-03-07T10:57:34.460Z",
+    "duration_minutes": 2573,
+    "duration_str": "1d 18h 53m"
   },
   {
     "title": "Faut-il museler les fonctionnaires du DFAE sur les réseaux sociaux? Débat entre Mathias Lüfkens et Olivier Kennedy",
@@ -8396,7 +8414,10 @@
   },
   {
     "title": "Podcast - Pourquoi fouiller dans son passé familial?",
-    "added_at": "2026-03-05T17:58:21.060Z"
+    "added_at": "2026-03-05T17:58:21.060Z",
+    "removed_at": "2026-03-07T11:08:54.817Z",
+    "duration_minutes": 2470,
+    "duration_str": "1d 17h 10m"
   },
   {
     "title": "Les premiers Suisses bloqués au Moyen-Orient sont arrivés à Zurich sur un vol spécial de Swiss",
@@ -8775,5 +8796,33 @@
   {
     "title": "Podcast - \"Schnouffe au chalet\": la French Connection s'invite aux Paccots",
     "added_at": "2026-03-07T09:47:17.355Z"
+  },
+  {
+    "title": "Le \"château perdu d'Azuchi\": le jeu vidéo au service du documentaire historique",
+    "added_at": "2026-03-07T10:19:40.927Z"
+  },
+  {
+    "title": "\"Alter ego\", comédie grinçante sur l'identité et la comparaison signée Nicolas & Bruno",
+    "added_at": "2026-03-07T10:34:48.034Z"
+  },
+  {
+    "title": "Un dépistage encore insuffisant face à la hausse du nombre de malades du cancer colorectal",
+    "added_at": "2026-03-07T10:48:09.096Z"
+  },
+  {
+    "title": "Corinne Suter sur le podium, Laura Pirovano encore victorieuse",
+    "added_at": "2026-03-07T10:57:34.460Z"
+  },
+  {
+    "title": "Le rappeur devenu maire de Katmandou en passe de remporter les élections législative au Népal",
+    "added_at": "2026-03-07T11:08:54.817Z"
+  },
+  {
+    "title": "Robin Cuche remporte l'or en descente!",
+    "added_at": "2026-03-07T11:22:12.430Z"
+  },
+  {
+    "title": "Le quishing, ou arnaque aux codes QR, menace les conducteurs de voitures électriques",
+    "added_at": "2026-03-07T12:07:41.842Z"
   }
 ]
