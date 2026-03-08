@@ -6354,10 +6354,7 @@
   },
   {
     "title": "economie:::De Dubaï à Doha, un premier test de résistance pour des monarchies pétrolières qui se voyaient en Suisse du Golfe",
-    "added_at": "2026-03-07T06:07:25.858Z",
-    "removed_at": "2026-03-08T09:36:26.253Z",
-    "duration_minutes": 1649,
-    "duration_str": "1d 3h 29m"
+    "added_at": "2026-03-07T06:07:25.858Z"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Des attaques russes nocturnes ont fait au moins six morts à travers l'Ukraine",
@@ -6765,7 +6762,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient - Les habitants de Téhéran priés de ne pas sortir à cause des fumées toxiques causées par les bombardements",
-    "added_at": "2026-03-08T14:43:23.921Z"
+    "added_at": "2026-03-08T14:43:23.921Z",
+    "removed_at": "2026-03-08T21:38:13.558Z",
+    "duration_minutes": 414,
+    "duration_str": "6h 54m"
   },
   {
     "title": "suisse:::En direct, élections vaudoises – Jean-François Thuillard devance Roger Nordmann avant les résultats des grandes villes, à Vevey lourde défaite pour le syndic",
@@ -6791,7 +6791,10 @@
   },
   {
     "title": "suisse:::Radars, primes maladie et dumping salarial: le point sur les objets cantonaux au Tessin et outre-Sarine",
-    "added_at": "2026-03-08T15:45:52.237Z"
+    "added_at": "2026-03-08T15:45:52.237Z",
+    "removed_at": "2026-03-08T21:40:08.055Z",
+    "duration_minutes": 354,
+    "duration_str": "5h 54m"
   },
   {
     "title": "suisse:::En direct, élections vaudoises – Jean-François Thuillard devance Roger Nordmann avant les résultats de Lausanne; à Vevey, une lourde défaite pour le syndic",
@@ -6894,10 +6897,42 @@
   },
   {
     "title": "suisse:::En direct, élections vaudoises – Les Vert-e-s grands perdants au Conseil communal de Lausanne",
-    "added_at": "2026-03-08T21:07:52.422Z"
+    "added_at": "2026-03-08T21:07:52.422Z",
+    "removed_at": "2026-03-08T23:01:33.038Z",
+    "duration_minutes": 113,
+    "duration_str": "1h 53m"
   },
   {
     "title": "suisse:::À Lausanne, la gauche reste maître de son bastion, mais frissonne",
-    "added_at": "2026-03-08T21:21:04.272Z"
+    "added_at": "2026-03-08T21:21:04.272Z",
+    "removed_at": "2026-03-08T21:53:24.091Z",
+    "duration_minutes": 32,
+    "duration_str": "32m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient - Mojtaba Khamenei, fils d'Ali Khamenei, devient le nouveau guide suprême iranien",
+    "added_at": "2026-03-08T21:38:13.558Z"
+  },
+  {
+    "title": "suisse:::A Lausanne, la gauche reste maître de son bastion, mais frissonne",
+    "added_at": "2026-03-08T21:53:24.091Z"
+  },
+  {
+    "title": "suisse:::Les Vert-e-s grands perdants au Conseil communal de Lausanne, ballottages généraux dans plusieurs villes: notre suivi des élections vaudoises du 8 mars",
+    "added_at": "2026-03-08T23:01:33.038Z",
+    "removed_at": "2026-03-08T23:05:17.085Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "suisse:::Vers des seconds tours très ouverts dans les communes vaudoises",
+    "added_at": "2026-03-08T23:05:17.085Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient - Notre suivi de la semaine du 2 mars",
+    "added_at": "2026-03-08T23:35:34.069Z",
+    "removed_at": "2026-03-08T23:37:23.922Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
   }
 ]
