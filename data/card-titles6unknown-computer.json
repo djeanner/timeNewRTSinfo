@@ -7930,7 +7930,10 @@
   },
   {
     "title": "LIVE: Athletic Bilbao vs Barcelona – La Liga",
-    "added_at": "2026-03-07T19:54:16.715Z"
+    "added_at": "2026-03-07T19:54:16.715Z",
+    "removed_at": "2026-03-07T22:02:38.384Z",
+    "duration_minutes": 128,
+    "duration_str": "2h 8m"
   },
   {
     "title": "Florida Bar denies investigation into Trump lawyer Lindsey Halligan",
@@ -7939,5 +7942,23 @@
   {
     "title": "At least 41 killed in Israeli air attacks on Lebanon’s Bekaa",
     "added_at": "2026-03-07T21:45:27.757Z"
+  },
+  {
+    "title": "LIVE: Athletic Bilbao vs Barcelona 0-1: La Liga",
+    "added_at": "2026-03-07T22:02:38.384Z",
+    "removed_at": "2026-03-07T22:27:14.629Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "Barca beat Athletic Bilbao to restore four-point lead over Madrid – updates",
+    "added_at": "2026-03-07T22:27:14.629Z",
+    "removed_at": "2026-03-07T22:32:55.716Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "Lamine Yamal gives Barcelona hard-fought 1-0 win at Athletic Bilbao",
+    "added_at": "2026-03-07T22:32:55.716Z"
   }
 ]
