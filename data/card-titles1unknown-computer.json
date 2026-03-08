@@ -4377,7 +4377,10 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2026-02-22T11:49:27.999Z"
+    "added_at": "2026-02-22T11:49:27.999Z",
+    "removed_at": "2026-03-08T20:03:32.107Z",
+    "duration_minutes": 20654,
+    "duration_str": "14d 8h 14m"
   },
   {
     "title": "Le casse-tête juridique après la décision de la Cour suprême américaine: interview d’Anne Deysine",
@@ -8163,7 +8166,10 @@
   },
   {
     "title": "Pourquoi la Russie et la Chine ne volent pas au secours de l’Iran?",
-    "added_at": "2026-03-05T03:18:17.951Z"
+    "added_at": "2026-03-05T03:18:17.951Z",
+    "removed_at": "2026-03-08T21:24:54.604Z",
+    "duration_minutes": 5406,
+    "duration_str": "3d 18h 6m"
   },
   {
     "title": "Nouvelle hausse du budget militaire de la Chine pour 2026, malgré un ralentissement de la croissance",
@@ -8914,7 +8920,10 @@
   },
   {
     "title": "Au Moyen-Orient, pourquoi ce n’est pas une guerre mondiale?",
-    "added_at": "2026-03-07T07:02:17.354Z"
+    "added_at": "2026-03-07T07:02:17.354Z",
+    "removed_at": "2026-03-08T21:02:11.967Z",
+    "duration_minutes": 2279,
+    "duration_str": "1d 13h 59m"
   },
   {
     "title": "De l'armement suisse en Israël, de la présure exotique dans nos fromages et l'amer adieu aux vignes arrachées",
@@ -9076,9 +9085,9 @@
   {
     "title": "L'aéroport de Dubaï un instant à l'arrêt suite à des frappes iraniennes",
     "added_at": "2026-03-07T19:20:04.530Z",
-    "removed_at": "2026-03-07T20:16:59.802Z",
-    "duration_minutes": 56,
-    "duration_str": "56m"
+    "removed_at": "2026-03-08T21:24:54.604Z",
+    "duration_minutes": 1564,
+    "duration_str": "1d 2h 4m"
   },
   {
     "title": "Soundcheck - Mars, le mois des romantiques et du retour de Bruno",
@@ -9353,7 +9362,10 @@
   },
   {
     "title": "Argovie freine les radars, Zurich choisit son maire: les principaux résultats des autres cantons",
-    "added_at": "2026-03-08T17:03:37.430Z"
+    "added_at": "2026-03-08T17:03:37.430Z",
+    "removed_at": "2026-03-08T20:05:28.700Z",
+    "duration_minutes": 181,
+    "duration_str": "3h 1m"
   },
   {
     "title": "L'UDC Jean-François Thuillard en tête d'un cheveu, le PS Roger Nordmann pâtit de la concurrence de la gauche radicale",
@@ -9394,7 +9406,10 @@
   },
   {
     "title": "Le syndic de Vevey Yvan Lucarini désavoué, ballottage général à Yverdon et Nyon, retard à Lausanne",
-    "added_at": "2026-03-08T18:32:28.447Z"
+    "added_at": "2026-03-08T18:32:28.447Z",
+    "removed_at": "2026-03-08T20:52:41.751Z",
+    "duration_minutes": 140,
+    "duration_str": "2h 20m"
   },
   {
     "title": "Les Suisses soutiennent la SSR en rejetant l'initiative \"200 francs ça suffit\" par 61,9% des voix",
@@ -9411,5 +9426,32 @@
   {
     "title": "L'initiative pour un fonds climat est rejetée à 70,7% par la population suisse",
     "added_at": "2026-03-08T18:45:44.983Z"
+  },
+  {
+    "title": "L'enfer est pavé de bonnes intentions",
+    "added_at": "2026-03-08T19:23:45.388Z"
+  },
+  {
+    "title": "Argovie freine les radars, la majorité de gauche se renforce à Zurich: les principaux résultats des autres cantons",
+    "added_at": "2026-03-08T20:05:28.700Z"
+  },
+  {
+    "title": "Ballotage général à Lausanne, Yverdon et Nyon, le syndic de Vevey désavoué et celui de Montreux réélu",
+    "added_at": "2026-03-08T20:52:41.751Z",
+    "removed_at": "2026-03-08T20:54:35.967Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Ballottage général à Lausanne, Yverdon et Nyon, le syndic de Vevey désavoué et celui de Montreux réélu",
+    "added_at": "2026-03-08T20:54:35.967Z"
+  },
+  {
+    "title": "Samuel Bendahan sur le maintien de l'initiative du Centre sur la taxation commune: \"c'est incompréhensible\"",
+    "added_at": "2026-03-08T21:24:54.604Z"
+  },
+  {
+    "title": "Tour d’horizon des principaux résultats des élections communales vaudoises",
+    "added_at": "2026-03-08T21:24:54.604Z"
   }
 ]
