@@ -14310,10 +14310,7 @@
   },
   {
     "title": "Le résumé de l'actualité romande",
-    "added_at": "2025-09-04T05:14:35.113Z",
-    "removed_at": "2026-03-09T16:03:40.983Z",
-    "duration_minutes": 268489,
-    "duration_str": "186d 10h 49m"
+    "added_at": "2025-09-04T05:14:35.113Z"
   },
   {
     "title": "Deuil national à Lisbonne au lendemain du déraillement meurtrier d'un funiculaire",
@@ -63836,7 +63833,10 @@
   },
   {
     "title": "La gravité sur Terre pourrait disparaître : vrai ou faux ?",
-    "added_at": "2026-03-08T20:25:16.101Z"
+    "added_at": "2026-03-08T20:25:16.101Z",
+    "removed_at": "2026-03-09T20:03:16.869Z",
+    "duration_minutes": 1418,
+    "duration_str": "23h 38m"
   },
   {
     "title": "Une semaine après le début de la guerre en Iran, les frappes se poursuivent",
@@ -63855,7 +63855,10 @@
   },
   {
     "title": "Pourquoi la voix du Pape ne porte pas sur la guerre contre l'Iran?",
-    "added_at": "2026-03-08T20:25:16.101Z"
+    "added_at": "2026-03-08T20:25:16.101Z",
+    "removed_at": "2026-03-09T18:04:45.748Z",
+    "duration_minutes": 1299,
+    "duration_str": "21h 39m"
   },
   {
     "title": "Pourquoi la Suisse n'évacue-t-elle pas ses ressortissants bloqués au Moyen-Orient?",
@@ -63966,19 +63969,31 @@
   },
   {
     "title": "Pourquoi certaines sauces à salade sont moins bonnes pour la santé",
-    "added_at": "2026-03-08T20:25:16.101Z"
+    "added_at": "2026-03-08T20:25:16.101Z",
+    "removed_at": "2026-03-09T20:32:23.079Z",
+    "duration_minutes": 1447,
+    "duration_str": "1d 7m"
   },
   {
     "title": "Le pape dénonce les méthodes de Washington face à la guerre en Iran et dans d'autres crises",
-    "added_at": "2026-03-08T20:25:16.101Z"
+    "added_at": "2026-03-08T20:25:16.101Z",
+    "removed_at": "2026-03-09T20:25:06.486Z",
+    "duration_minutes": 1439,
+    "duration_str": "23h 59m"
   },
   {
     "title": "Le quishing, ou arnaque aux codes QR, menace les conducteurs de voitures électriques",
-    "added_at": "2026-03-08T20:25:16.101Z"
+    "added_at": "2026-03-08T20:25:16.101Z",
+    "removed_at": "2026-03-09T18:36:11.538Z",
+    "duration_minutes": 1330,
+    "duration_str": "22h 10m"
   },
   {
     "title": "Un dépistage encore insuffisant face à la hausse du nombre de malades du cancer colorectal",
-    "added_at": "2026-03-08T20:25:16.101Z"
+    "added_at": "2026-03-08T20:25:16.101Z",
+    "removed_at": "2026-03-09T18:24:04.664Z",
+    "duration_minutes": 1318,
+    "duration_str": "21h 58m"
   },
   {
     "title": "Corinne Suter sur le podium, Laura Pirovano encore victorieuse",
@@ -64231,9 +64246,9 @@
   {
     "title": "Vers un second tour pour la complémentaire au Conseil d’Etat vaudois",
     "added_at": "2026-03-09T06:22:48.457Z",
-    "removed_at": "2026-03-09T17:23:23.829Z",
-    "duration_minutes": 660,
-    "duration_str": "11h"
+    "removed_at": "2026-03-09T19:24:32.139Z",
+    "duration_minutes": 781,
+    "duration_str": "13h 1m"
   },
   {
     "title": "Nicolas Féraud, président de la commune de Crans-Montana, a été inculpé",
@@ -64349,7 +64364,10 @@
   },
   {
     "title": "\"Nos bases ne sont pas utilisées pour attaquer l'Iran\", répètent les Emirats arabes unis, visés par Téhéran",
-    "added_at": "2026-03-09T16:59:16.297Z"
+    "added_at": "2026-03-09T16:59:16.297Z",
+    "removed_at": "2026-03-09T20:12:56.549Z",
+    "duration_minutes": 193,
+    "duration_str": "3h 13m"
   },
   {
     "title": "Escalade au Moyen-Orient : ce qu’il faut comprendre de la semaine écoulée – invité: Jean-Paul Chagnollaud",
@@ -64381,5 +64399,36 @@
   {
     "title": "Podcast - C’est quoi ce bug de l’assurance-chômage ?",
     "added_at": "2026-03-09T17:57:20.690Z"
+  },
+  {
+    "title": "Le couple Moretti et les affaires: fedpol n'exclut pas un blanchiment d'argent d'origine criminelle",
+    "added_at": "2026-03-09T18:24:04.664Z",
+    "removed_at": "2026-03-09T18:28:55.522Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Le couple Moretti et les affaires: Fedpol n'exclut pas un blanchiment d'argent d'origine criminelle",
+    "added_at": "2026-03-09T18:28:55.522Z"
+  },
+  {
+    "title": "\"La nouvelle concession de la SSR est maintenant à définir, nous commençons le travail\", affirme Albert Rösti",
+    "added_at": "2026-03-09T18:36:11.538Z"
+  },
+  {
+    "title": "Escalade au Moyen-Orient: ce qu’il faut comprendre de la semaine écoulée",
+    "added_at": "2026-03-09T19:24:32.139Z"
+  },
+  {
+    "title": "Donald Trump affirme que la guerre en Iran est \"quasiment\" finie",
+    "added_at": "2026-03-09T20:12:56.549Z"
+  },
+  {
+    "title": "L'entreprise d'IA Anthropic attaque le gouvernement Trump en justice pour sanctions excessives",
+    "added_at": "2026-03-09T20:25:06.486Z"
+  },
+  {
+    "title": "La prison pour femmes de Lonay s'adapte pour mieux répondre aux besoins spécifiques des détenues",
+    "added_at": "2026-03-09T20:32:23.079Z"
   }
 ]
