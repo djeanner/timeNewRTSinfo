@@ -6727,7 +6727,10 @@
   },
   {
     "title": "economie:::Imposition individuelle: le casse-tête commence pour les cantons",
-    "added_at": "2026-03-08T12:10:04.026Z"
+    "added_at": "2026-03-08T12:10:04.026Z",
+    "removed_at": "2026-03-09T06:33:47.235Z",
+    "duration_minutes": 1103,
+    "duration_str": "18h 23m"
   },
   {
     "title": "culture:::Entre documentaire et photographie de mode, Ana Margarita Flores sublime les femmes péruviennes",
@@ -6830,7 +6833,10 @@
   },
   {
     "title": "suisse:::Dans le canton de Vaud, l’UDC Jean-François Thuillard crée la surprise et devance le favori Roger Nordmann",
-    "added_at": "2026-03-08T17:07:21.661Z"
+    "added_at": "2026-03-08T17:07:21.661Z",
+    "removed_at": "2026-03-09T05:56:02.420Z",
+    "duration_minutes": 768,
+    "duration_str": "12h 48m"
   },
   {
     "title": "suisse:::En direct, élections vaudoises – Jean-François Thuillard devance Roger Nordmann dans la course au Conseil d'Etat; lourde défaite pour le syndic de Vevey",
@@ -6848,14 +6854,14 @@
   },
   {
     "title": "suisse:::A Fribourg, l’alliance de droite offre un doublé au Centre",
-    "added_at": "2026-03-08T17:28:09.566Z",
-    "removed_at": "2026-03-09T03:20:50.256Z",
-    "duration_minutes": 592,
-    "duration_str": "9h 52m"
+    "added_at": "2026-03-08T17:28:09.566Z"
   },
   {
     "title": "suisse:::En refusant le projet des Cherpines, Confignon met un coup de frein à la construction de logements à Genève",
-    "added_at": "2026-03-08T17:30:04.270Z"
+    "added_at": "2026-03-08T17:30:04.270Z",
+    "removed_at": "2026-03-09T05:56:02.420Z",
+    "duration_minutes": 745,
+    "duration_str": "12h 25m"
   },
   {
     "title": "suisse:::Pascal Crittin, directeur de la RTS: «Les Suisses se sont prononcés clairement, à plusieurs reprises. Il faut maintenant respecter la volonté populaire»",
@@ -6960,7 +6966,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Premiers échanges de frappes depuis l'élection du nouveau guide iranien, Mojtaba Khamenei",
-    "added_at": "2026-03-09T03:18:56.088Z"
+    "added_at": "2026-03-09T03:18:56.088Z",
+    "removed_at": "2026-03-09T04:40:22.350Z",
+    "duration_minutes": 81,
+    "duration_str": "1h 21m"
   },
   {
     "title": "economie:::Le pétrole dépasse 110 dollars, une première depuis juillet 2022",
@@ -6976,5 +6985,25 @@
   {
     "title": "monde:::En direct - guerre en Ukraine – Volodymyr Zelensky dit que des experts en drones ukrainiens seront au Moyen-Orient «la semaine prochaine»",
     "added_at": "2026-03-09T03:35:57.376Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Mojtaba Khamenei, fils d'Ali Khamenei, devient le nouveau guide suprême iranien",
+    "added_at": "2026-03-09T04:40:22.350Z"
+  },
+  {
+    "title": "suisse:::Susanne Vincenz-Stauffacher, coprésidente du PLR: «J’ai versé quelques larmes lorsque j’ai su que nous avions gagné»",
+    "added_at": "2026-03-09T05:06:48.331Z"
+  },
+  {
+    "title": "monde:::En Turquie, un procès qui pourrait durer douze ans et demi s’ouvre à l’encontre du principal opposant à Erdogan",
+    "added_at": "2026-03-09T05:56:02.420Z"
+  },
+  {
+    "title": "economie:::Conflit en Iran: faut-il «acheter au son du canon»?",
+    "added_at": "2026-03-09T06:03:32.828Z"
+  },
+  {
+    "title": "suisse:::La redevance épargnée, le débat sur le service public radio-TV ne s’apaisera pas",
+    "added_at": "2026-03-09T06:33:47.235Z"
   }
 ]
