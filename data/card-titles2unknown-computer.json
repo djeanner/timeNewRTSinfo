@@ -6787,7 +6787,10 @@
   },
   {
     "title": "monde:::En direct - guerre en Ukraine – La Suède arraisonne un navire présumé de la flotte fantôme russe et arrête un membre d'équipage",
-    "added_at": "2026-03-08T15:27:01.134Z"
+    "added_at": "2026-03-08T15:27:01.134Z",
+    "removed_at": "2026-03-09T01:40:31.118Z",
+    "duration_minutes": 613,
+    "duration_str": "10h 13m"
   },
   {
     "title": "suisse:::Radars, primes maladie et dumping salarial: le point sur les objets cantonaux au Tessin et outre-Sarine",
@@ -6911,7 +6914,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient - Mojtaba Khamenei, fils d'Ali Khamenei, devient le nouveau guide suprême iranien",
-    "added_at": "2026-03-08T21:38:13.558Z"
+    "added_at": "2026-03-08T21:38:13.558Z",
+    "removed_at": "2026-03-09T00:22:58.124Z",
+    "duration_minutes": 164,
+    "duration_str": "2h 44m"
   },
   {
     "title": "suisse:::A Lausanne, la gauche reste maître de son bastion, mais frissonne",
@@ -6934,5 +6940,13 @@
     "removed_at": "2026-03-08T23:37:23.922Z",
     "duration_minutes": 1,
     "duration_str": "1m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Mojtaba Khamenei, fils d’Ali Khamenei, devient le nouveau guide suprême iranien",
+    "added_at": "2026-03-09T00:22:58.124Z"
+  },
+  {
+    "title": "monde:::En direct - guerre en Ukraine – Notre suivi de la semaine du 2 mars",
+    "added_at": "2026-03-09T01:40:31.118Z"
   }
 ]
