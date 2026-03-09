@@ -137361,7 +137361,10 @@
   },
   {
     "title": "Cycling’s Superstar Tadej Pogacar Dominates in Tuscany",
-    "added_at": "2026-03-08T20:25:17.716Z"
+    "added_at": "2026-03-08T20:25:17.716Z",
+    "removed_at": "2026-03-09T04:31:40.600Z",
+    "duration_minutes": 486,
+    "duration_str": "8h 6m"
   },
   {
     "title": "Thaddeus Mosley, Sculptor Who Found Fame in His Last Decade, Dies at 99",
@@ -137379,7 +137382,10 @@
   },
   {
     "title": "Son of Slain Ayatollah Is Expected to Continue Hard-Line Theocratic Rule",
-    "added_at": "2026-03-08T21:24:09.162Z"
+    "added_at": "2026-03-08T21:24:09.162Z",
+    "removed_at": "2026-03-09T05:49:00.712Z",
+    "duration_minutes": 504,
+    "duration_str": "8h 24m"
   },
   {
     "title": "Iran’s New Leader Is a Mysterious Figure",
@@ -137429,10 +137435,7 @@
   },
   {
     "title": "Large Fire in Glasgow Forces Closure of Major Train Station",
-    "added_at": "2026-03-09T03:40:46.289Z",
-    "removed_at": "2026-03-09T04:04:59.797Z",
-    "duration_minutes": 24,
-    "duration_str": "24m"
+    "added_at": "2026-03-09T03:40:46.289Z"
   },
   {
     "title": "Pentagon Announces 7th U.S. Death in War With Iran",
@@ -137461,5 +137464,9 @@
   {
     "title": "U.S. Teacher Is Killed After Teenagers’ Prank Goes Wrong",
     "added_at": "2026-03-09T04:04:59.797Z"
+  },
+  {
+    "title": "Iran Says It Fired Missiles Toward Israel as U.S.-Israeli Attacks Expand",
+    "added_at": "2026-03-09T05:49:00.712Z"
   }
 ]
