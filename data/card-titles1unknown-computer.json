@@ -5428,7 +5428,10 @@
   },
   {
     "title": "Le résumé de l'actualité romande",
-    "added_at": "2026-02-25T12:24:15.178Z"
+    "added_at": "2026-02-25T12:24:15.178Z",
+    "removed_at": "2026-03-09T16:03:44.803Z",
+    "duration_minutes": 17499,
+    "duration_str": "12d 3h 39m"
   },
   {
     "title": "Afficher son opinion politique en accrochant un drapeau palestinien à son balcon est-il autorisé?",
@@ -8617,7 +8620,10 @@
   },
   {
     "title": "Les Etats-Unis manquent-ils de missiles d'interception pour tenir sur la durée?",
-    "added_at": "2026-03-06T09:21:14.696Z"
+    "added_at": "2026-03-06T09:21:14.696Z",
+    "removed_at": "2026-03-09T16:03:44.803Z",
+    "duration_minutes": 4722,
+    "duration_str": "3d 6h 42m"
   },
   {
     "title": "Pourquoi les industriels contrôlent eux-mêmes leurs produits en Suisse",
@@ -8906,11 +8912,17 @@
   },
   {
     "title": "L'usage du taser se généralise dans plusieurs cantons romands",
-    "added_at": "2026-03-06T21:42:59.101Z"
+    "added_at": "2026-03-06T21:42:59.101Z",
+    "removed_at": "2026-03-09T15:58:04.429Z",
+    "duration_minutes": 3975,
+    "duration_str": "2d 18h 15m"
   },
   {
     "title": "Quand le patient-type est un homme, c'est un vrai problème pour les femmes",
-    "added_at": "2026-03-06T21:46:43.858Z"
+    "added_at": "2026-03-06T21:46:43.858Z",
+    "removed_at": "2026-03-09T14:44:17.741Z",
+    "duration_minutes": 3897,
+    "duration_str": "2d 16h 57m"
   },
   {
     "title": "Les réactions des partis aux intentions du Conseil fédéral en matière d'armement",
@@ -8935,11 +8947,17 @@
   },
   {
     "title": "L'administration américaine n'est pas pour l'heure en mesure de rembourser les droits de douane",
-    "added_at": "2026-03-06T23:02:45.500Z"
+    "added_at": "2026-03-06T23:02:45.500Z",
+    "removed_at": "2026-03-09T14:08:19.450Z",
+    "duration_minutes": 3785,
+    "duration_str": "2d 15h 5m"
   },
   {
     "title": "La Russie fournirait des cibles américaines à l'Iran, Washington minimise",
-    "added_at": "2026-03-07T02:19:53.572Z"
+    "added_at": "2026-03-07T02:19:53.572Z",
+    "removed_at": "2026-03-09T14:15:55.631Z",
+    "duration_minutes": 3596,
+    "duration_str": "2d 11h 56m"
   },
   {
     "title": "Le patron de Google pourrait gagner 692 millions de dollars sur trois ans",
@@ -8975,7 +8993,10 @@
   },
   {
     "title": "De l'armement suisse en Israël, de la présure exotique dans nos fromages et l'amer adieu aux vignes arrachées",
-    "added_at": "2026-03-07T07:04:11.734Z"
+    "added_at": "2026-03-07T07:04:11.734Z",
+    "removed_at": "2026-03-09T14:27:15.508Z",
+    "duration_minutes": 3323,
+    "duration_str": "2d 7h 23m"
   },
   {
     "title": "En Argentine, un gigantesque monument rend hommage à une Suissesse et à l'amour",
@@ -8990,11 +9011,17 @@
   },
   {
     "title": "Podcast - \"Schnouffe au chalet\": la French Connection s'invite aux Paccots",
-    "added_at": "2026-03-07T09:47:17.355Z"
+    "added_at": "2026-03-07T09:47:17.355Z",
+    "removed_at": "2026-03-09T16:20:47.339Z",
+    "duration_minutes": 3273,
+    "duration_str": "2d 6h 33m"
   },
   {
     "title": "Le \"château perdu d'Azuchi\": le jeu vidéo au service du documentaire historique",
-    "added_at": "2026-03-07T10:19:40.927Z"
+    "added_at": "2026-03-07T10:19:40.927Z",
+    "removed_at": "2026-03-09T15:29:42.952Z",
+    "duration_minutes": 3190,
+    "duration_str": "2d 5h 10m"
   },
   {
     "title": "\"Alter ego\", comédie grinçante sur l'identité et la comparaison signée Nicolas & Bruno",
@@ -9505,10 +9532,7 @@
   },
   {
     "title": "Samuel Bendahan sur le maintien de l'initiative du Centre sur la taxation commune: \"c'est incompréhensible\"",
-    "added_at": "2026-03-08T21:24:54.604Z",
-    "removed_at": "2026-03-09T11:23:28.921Z",
-    "duration_minutes": 838,
-    "duration_str": "13h 58m"
+    "added_at": "2026-03-08T21:24:54.604Z"
   },
   {
     "title": "Tour d’horizon des principaux résultats des élections communales vaudoises",
@@ -9542,7 +9566,10 @@
   },
   {
     "title": "Les CFF, ce géant de l'immobilier controversé",
-    "added_at": "2026-03-09T05:33:21.554Z"
+    "added_at": "2026-03-09T05:33:21.554Z",
+    "removed_at": "2026-03-09T16:16:56.769Z",
+    "duration_minutes": 643,
+    "duration_str": "10h 43m"
   },
   {
     "title": "Les exportations d'armes s'envolent selon un nouveau rapport",
@@ -9624,5 +9651,58 @@
   {
     "title": "Les opposants de l'initiative UDC \"Pas de Suisse à 10 millions!\" ont lancé leur campagne",
     "added_at": "2026-03-09T13:45:27.211Z"
+  },
+  {
+    "title": "Sonia Zoran plonge dans la mer et la mémoire de son père dans \"La fille de sel\"",
+    "added_at": "2026-03-09T14:04:35.072Z"
+  },
+  {
+    "title": "Le maire d'Istanbul Ekrem Imamoglu devant le tribunal pour une affaire de corruption",
+    "added_at": "2026-03-09T14:15:55.631Z"
+  },
+  {
+    "title": "\"Clefs d'Or\": ils réalisent les désirs les plus fous des ultra-riches",
+    "added_at": "2026-03-09T14:27:15.508Z",
+    "removed_at": "2026-03-09T14:32:56.117Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "Les \"Clefs d'Or\", ces concierges qui réalisent les désirs les plus fous des ultra-riches",
+    "added_at": "2026-03-09T14:32:56.117Z",
+    "removed_at": "2026-03-09T15:07:00.066Z",
+    "duration_minutes": 34,
+    "duration_str": "34m"
+  },
+  {
+    "title": "La guerre au Moyen-Orient, une escalade sans issue face à des objectifs inatteignables",
+    "added_at": "2026-03-09T14:44:17.741Z"
+  },
+  {
+    "title": "Emballer une ferrari ou dégoter 120 kilos de saumon: les demandes folles aux concierges de palace",
+    "added_at": "2026-03-09T15:07:00.066Z",
+    "removed_at": "2026-03-09T16:01:48.756Z",
+    "duration_minutes": 54,
+    "duration_str": "54m"
+  },
+  {
+    "title": "Un EMS Montessori, un calendrier féministe et une garderie pour chiens",
+    "added_at": "2026-03-09T15:27:46.524Z"
+  },
+  {
+    "title": "\"L'enfant de l'ogre\" de Delphine Saubaber, le féminicide raconté à hauteur d'enfant",
+    "added_at": "2026-03-09T15:58:04.429Z"
+  },
+  {
+    "title": "Emballer une Ferrari ou dégoter 120 kilos de saumon: les demandes folles aux concierges de palace",
+    "added_at": "2026-03-09T16:01:48.756Z"
+  },
+  {
+    "title": "A Lausanne, le projet de la Rasude ravive le débat sur l’immobilier des CFF",
+    "added_at": "2026-03-09T16:16:56.769Z"
+  },
+  {
+    "title": "L'Iran, nouveau terrain de mensonges de guerre facilités désormais par l'intelligence artificielle",
+    "added_at": "2026-03-09T16:20:47.339Z"
   }
 ]
