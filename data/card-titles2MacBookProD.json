@@ -66850,7 +66850,10 @@
   },
   {
     "title": "suisse:::Andrea Pilotti sur les élections vaudoises et fribourgeoises: «Le premier tour est un vote de conviction, le deuxième est stratégique»",
-    "added_at": "2026-03-09T07:30:39.170Z"
+    "added_at": "2026-03-09T07:30:39.170Z",
+    "removed_at": "2026-03-09T17:42:48.889Z",
+    "duration_minutes": 612,
+    "duration_str": "10h 12m"
   },
   {
     "title": "suisse:::Le président de Crans-Montana Nicolas Féraud est désormais prévenu, ainsi que quatre autres personnes",
@@ -66872,7 +66875,10 @@
   },
   {
     "title": "suisse:::Le président de Crans-Montana, Nicolas Féraud, est désormais prévenu, ainsi que quatre nouvelles personnes de la commune",
-    "added_at": "2026-03-09T08:21:22.232Z"
+    "added_at": "2026-03-09T08:21:22.232Z",
+    "removed_at": "2026-03-09T16:13:24.147Z",
+    "duration_minutes": 472,
+    "duration_str": "7h 52m"
   },
   {
     "title": "culture:::Marin Karmitz, producteur: «Avec Godard, j’ai désappris pour réapprendre»",
@@ -66908,11 +66914,17 @@
   },
   {
     "title": "economie:::L’explosion des cours du pétrole déclenche une onde de choc sur les marchés",
-    "added_at": "2026-03-09T10:27:20.360Z"
+    "added_at": "2026-03-09T10:27:20.360Z",
+    "removed_at": "2026-03-09T17:06:30.981Z",
+    "duration_minutes": 399,
+    "duration_str": "6h 39m"
   },
   {
     "title": "culture:::A Paris, le Musée du quai Branly restitue le tambour parleur «Djidji Ayôkwé» à la Côte d’Ivoire",
-    "added_at": "2026-03-09T10:44:12.294Z"
+    "added_at": "2026-03-09T10:44:12.294Z",
+    "removed_at": "2026-03-09T17:21:01.999Z",
+    "duration_minutes": 396,
+    "duration_str": "6h 36m"
   },
   {
     "title": "suisse:::A Lausanne, le réveil de la droite face à une gauche hégémonique essoufflée",
@@ -66927,7 +66939,10 @@
   },
   {
     "title": "sport:::Robin Cuche s’offre un deuxième titre paralympique en super-G à Milan-Cortina",
-    "added_at": "2026-03-09T11:01:07.531Z"
+    "added_at": "2026-03-09T11:01:07.531Z",
+    "removed_at": "2026-03-09T15:37:07.818Z",
+    "duration_minutes": 276,
+    "duration_str": "4h 36m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Vladimir Poutine assure le nouveau Guide suprême de son «soutien indéfectible»",
@@ -66964,15 +66979,24 @@
   },
   {
     "title": "economie:::A Wall Street, des remous et inquiétudes sur l’immense marché du crédit privé",
-    "added_at": "2026-03-09T13:21:33.714Z"
+    "added_at": "2026-03-09T13:21:33.714Z",
+    "removed_at": "2026-03-09T17:06:30.981Z",
+    "duration_minutes": 224,
+    "duration_str": "3h 44m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Emmanuel Macron annonce une future mission «purement défensive» pour rouvrir le détroit d'Ormuz",
-    "added_at": "2026-03-09T13:21:33.714Z"
+    "added_at": "2026-03-09T13:21:33.714Z",
+    "removed_at": "2026-03-09T16:06:08.989Z",
+    "duration_minutes": 164,
+    "duration_str": "2h 44m"
   },
   {
     "title": "culture:::Prix du Roman des Romands, Marlène Mauris raconte l'appel et les silences de la montagne",
-    "added_at": "2026-03-09T13:45:41.209Z"
+    "added_at": "2026-03-09T13:45:41.209Z",
+    "removed_at": "2026-03-09T16:59:16.357Z",
+    "duration_minutes": 193,
+    "duration_str": "3h 13m"
   },
   {
     "title": "culture:::Dans «Young Sherlock», les premières enquêtes du célèbre détective ont les défauts de la jeunesse",
@@ -66981,5 +67005,55 @@
   {
     "title": "monde:::Mojtaba Khamenei, le guide suprême qui renforce encore le régime iranien face à Israël et aux Etats-Unis",
     "added_at": "2026-03-09T15:03:00.962Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump n'est «pas content» du choix Mojtaba Khamenei en Iran",
+    "added_at": "2026-03-09T16:06:08.989Z"
+  },
+  {
+    "title": "economie:::Les banques suisses vont devoir faire évoluer leurs activités transfrontalières",
+    "added_at": "2026-03-09T16:08:30.844Z"
+  },
+  {
+    "title": "monde:::En Allemagne, les électeurs reconduisent les Verts dans le Bade-Wurtemberg, un coup dur pour la CDU de Friedrich Merz",
+    "added_at": "2026-03-09T16:13:24.147Z"
+  },
+  {
+    "title": "sport:::«Sauvez nos filles!» L'appel à l'aide diplomatique pour protéger les footballeuses de l'équipe d'Iran",
+    "added_at": "2026-03-09T16:35:04.398Z",
+    "removed_at": "2026-03-09T16:56:50.815Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
+  },
+  {
+    "title": "sport:::«Sauvez nos filles!» L’appel à l’aide diplomatique pour protéger les footballeuses de l’équipe d’Iran",
+    "added_at": "2026-03-09T16:56:50.815Z"
+  },
+  {
+    "title": "culture:::A Lausanne, le premier week-end des 28es Printemps de Sévelin 36 a été sauvage, sensuel et hypnotique",
+    "added_at": "2026-03-09T16:59:16.357Z"
+  },
+  {
+    "title": "suisse:::Nicolas Féraud, président de Crans-Montana «par hasard», et désormais accusé dans l'affaire de l’incendie du Constellation",
+    "added_at": "2026-03-09T17:06:30.981Z",
+    "removed_at": "2026-03-09T17:33:05.451Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "economie:::La justice a perquisitionné la banque zurichoise EFG au Luxembourg",
+    "added_at": "2026-03-09T17:21:01.999Z"
+  },
+  {
+    "title": "suisse:::Nicolas Féraud, président de Crans-Montana «par hasard», et désormais prévenu dans l’affaire de l’incendie du Constellation",
+    "added_at": "2026-03-09T17:33:05.451Z"
+  },
+  {
+    "title": "economie:::Les pays importateurs de pétrole au défi de la stagflation",
+    "added_at": "2026-03-09T17:42:48.889Z"
+  },
+  {
+    "title": "sport:::A Milan-Cortina, l’hymne russe retentit pour la première fois depuis 2014, sans faire grand bruit",
+    "added_at": "2026-03-09T17:42:48.889Z"
   }
 ]
