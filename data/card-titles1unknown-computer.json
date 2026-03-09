@@ -5428,10 +5428,7 @@
   },
   {
     "title": "Le résumé de l'actualité romande",
-    "added_at": "2026-02-25T12:24:15.178Z",
-    "removed_at": "2026-03-09T16:03:44.803Z",
-    "duration_minutes": 17499,
-    "duration_str": "12d 3h 39m"
+    "added_at": "2026-02-25T12:24:15.178Z"
   },
   {
     "title": "Afficher son opinion politique en accrochant un drapeau palestinien à son balcon est-il autorisé?",
@@ -9088,7 +9085,10 @@
   },
   {
     "title": "Pourquoi certaines sauces à salade sont moins bonnes pour la santé",
-    "added_at": "2026-03-07T13:10:21.033Z"
+    "added_at": "2026-03-07T13:10:21.033Z",
+    "removed_at": "2026-03-09T20:32:51.850Z",
+    "duration_minutes": 3322,
+    "duration_str": "2d 7h 22m"
   },
   {
     "title": "Plus de 400 passagers sont en vol pour Zurich depuis Oman",
@@ -9099,7 +9099,10 @@
   },
   {
     "title": "Le pape dénonce les méthodes de Washington face à la guerre en Iran et dans d'autres crises",
-    "added_at": "2026-03-07T13:29:13.704Z"
+    "added_at": "2026-03-07T13:29:13.704Z",
+    "removed_at": "2026-03-09T20:25:20.513Z",
+    "duration_minutes": 3296,
+    "duration_str": "2d 6h 56m"
   },
   {
     "title": "Le rappeur devenu maire de Katmandou remporte les élections législatives du Népal",
@@ -9121,11 +9124,17 @@
   },
   {
     "title": "Craintes autour de Moltbook, le réseau social où les agents IA discutent entre eux",
-    "added_at": "2026-03-07T14:33:42.336Z"
+    "added_at": "2026-03-07T14:33:42.336Z",
+    "removed_at": "2026-03-09T21:06:56.626Z",
+    "duration_minutes": 3273,
+    "duration_str": "2d 6h 33m"
   },
   {
     "title": "Le Groove'N'Move fait vibrer les musées et théâtre de Genève avec ses danses urbaines",
-    "added_at": "2026-03-07T14:35:38.684Z"
+    "added_at": "2026-03-07T14:35:38.684Z",
+    "removed_at": "2026-03-09T20:48:04.134Z",
+    "duration_minutes": 3252,
+    "duration_str": "2d 6h 12m"
   },
   {
     "title": "Des attaques iraniennes contre le Golfe, malgré les excuses du président Masoud Pezeshkian",
@@ -9194,7 +9203,10 @@
   },
   {
     "title": "La gravité sur Terre pourrait disparaître : vrai ou faux ?",
-    "added_at": "2026-03-07T20:16:59.802Z"
+    "added_at": "2026-03-07T20:16:59.802Z",
+    "removed_at": "2026-03-09T20:02:36.493Z",
+    "duration_minutes": 2865,
+    "duration_str": "1d 23h 45m"
   },
   {
     "title": "Le Premier ministre israélien Benjamin Netanyahu jure d'éradiquer le régime iranien",
@@ -9618,7 +9630,10 @@
   },
   {
     "title": "Vers un second tour pour la complémentaire au Conseil d’Etat vaudois",
-    "added_at": "2026-03-09T06:22:28.093Z"
+    "added_at": "2026-03-09T06:22:28.093Z",
+    "removed_at": "2026-03-09T19:22:51.389Z",
+    "duration_minutes": 780,
+    "duration_str": "13h"
   },
   {
     "title": "Nicolas Féraud, président de la commune de Crans-Montana, a été inculpé",
@@ -9734,7 +9749,10 @@
   },
   {
     "title": "\"Nos bases ne sont pas utilisées pour attaquer l'Iran\", répètent les Emirats arabes unis, visés par Téhéran",
-    "added_at": "2026-03-09T16:58:44.601Z"
+    "added_at": "2026-03-09T16:58:44.601Z",
+    "removed_at": "2026-03-09T20:12:01.389Z",
+    "duration_minutes": 193,
+    "duration_str": "3h 13m"
   },
   {
     "title": "Escalade au Moyen-Orient : ce qu’il faut comprendre de la semaine écoulée – invité: Jean-Paul Chagnollaud",
@@ -9774,5 +9792,29 @@
   {
     "title": "\"La nouvelle concession de la SSR est maintenant à définir, nous commençons le travail\", affirme Albert Rösti",
     "added_at": "2026-03-09T18:35:15.432Z"
+  },
+  {
+    "title": "Escalade au Moyen-Orient: ce qu’il faut comprendre de la semaine écoulée",
+    "added_at": "2026-03-09T19:22:51.389Z"
+  },
+  {
+    "title": "Donald Trump affirme que la guerre en Iran est \"quasiment\" finie",
+    "added_at": "2026-03-09T20:12:01.389Z"
+  },
+  {
+    "title": "L'entreprise d'IA Anthropic attaque le gouvernement Trump en justice pour sanctions excessives",
+    "added_at": "2026-03-09T20:25:20.513Z"
+  },
+  {
+    "title": "La prison pour femmes de Lonay s'adapte pour mieux répondre aux besoins spécifiques des détenues",
+    "added_at": "2026-03-09T20:32:51.850Z"
+  },
+  {
+    "title": "Chute des Vert‑e‑s, flambée de l’UDC ainsi que de la gauche radicale lors des élections communales vaudoises",
+    "added_at": "2026-03-09T20:48:04.134Z"
+  },
+  {
+    "title": "Les HUG ouvrent une consultation spécialisée pour le chemsex",
+    "added_at": "2026-03-09T21:06:56.626Z"
   }
 ]
