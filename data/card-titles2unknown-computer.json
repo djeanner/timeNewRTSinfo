@@ -6270,10 +6270,7 @@
   },
   {
     "title": "monde:::Le détroit d'Ormuz, arme stratégique (et vulnérable) de l’Iran, qui ravive le souvenir de la «guerre des pétroliers»",
-    "added_at": "2026-03-06T16:46:58.004Z",
-    "removed_at": "2026-03-07T18:17:32.530Z",
-    "duration_minutes": 1530,
-    "duration_str": "1d 1h 30m"
+    "added_at": "2026-03-06T16:46:58.004Z"
   },
   {
     "title": "monde:::Affaire Epstein: Donald Trump mis en cause dans de nouveaux documents",
@@ -6776,7 +6773,10 @@
   },
   {
     "title": "suisse:::«Le salaire minimum sort fragilisé de cette votation»: Genève accepte que les étudiants soient moins payés pendant les vacances",
-    "added_at": "2026-03-08T15:17:30.457Z"
+    "added_at": "2026-03-08T15:17:30.457Z",
+    "removed_at": "2026-03-09T03:49:12.371Z",
+    "duration_minutes": 751,
+    "duration_str": "12h 31m"
   },
   {
     "title": "suisse:::En direct, élections vaudoises – Jean-François Thuillard devance Roger Nordmann avant les résultats des grandes villes; à Vevey, une lourde défaite pour le syndic",
@@ -6848,7 +6848,10 @@
   },
   {
     "title": "suisse:::A Fribourg, l’alliance de droite offre un doublé au Centre",
-    "added_at": "2026-03-08T17:28:09.566Z"
+    "added_at": "2026-03-08T17:28:09.566Z",
+    "removed_at": "2026-03-09T03:20:50.256Z",
+    "duration_minutes": 592,
+    "duration_str": "9h 52m"
   },
   {
     "title": "suisse:::En refusant le projet des Cherpines, Confignon met un coup de frein à la construction de logements à Genève",
@@ -6943,10 +6946,35 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Mojtaba Khamenei, fils d’Ali Khamenei, devient le nouveau guide suprême iranien",
-    "added_at": "2026-03-09T00:22:58.124Z"
+    "added_at": "2026-03-09T00:22:58.124Z",
+    "removed_at": "2026-03-09T03:18:56.088Z",
+    "duration_minutes": 175,
+    "duration_str": "2h 55m"
   },
   {
     "title": "monde:::En direct - guerre en Ukraine – Notre suivi de la semaine du 2 mars",
-    "added_at": "2026-03-09T01:40:31.118Z"
+    "added_at": "2026-03-09T01:40:31.118Z",
+    "removed_at": "2026-03-09T03:35:57.376Z",
+    "duration_minutes": 115,
+    "duration_str": "1h 55m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Premiers échanges de frappes depuis l'élection du nouveau guide iranien, Mojtaba Khamenei",
+    "added_at": "2026-03-09T03:18:56.088Z"
+  },
+  {
+    "title": "economie:::Le pétrole dépasse 110 dollars, une première depuis juillet 2022",
+    "added_at": "2026-03-09T03:20:50.256Z",
+    "removed_at": "2026-03-09T03:34:07.037Z",
+    "duration_minutes": 13,
+    "duration_str": "13m"
+  },
+  {
+    "title": "economie:::Le pétrole flambe et dépasse 110 dollars, une première depuis juillet 2022",
+    "added_at": "2026-03-09T03:34:07.037Z"
+  },
+  {
+    "title": "monde:::En direct - guerre en Ukraine – Volodymyr Zelensky dit que des experts en drones ukrainiens seront au Moyen-Orient «la semaine prochaine»",
+    "added_at": "2026-03-09T03:35:57.376Z"
   }
 ]
