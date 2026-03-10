@@ -58119,7 +58119,10 @@
   },
   {
     "title": "Le dossier des votations fédérales du 8 mars",
-    "added_at": "2026-02-13T08:16:34.047Z"
+    "added_at": "2026-02-13T08:16:34.047Z",
+    "removed_at": "2026-03-10T10:20:44.181Z",
+    "duration_minutes": 36124,
+    "duration_str": "25d 2h 4m"
   },
   {
     "title": "Votations fédérales du 8 mars: participez à notre deuxième sondage",
@@ -63929,18 +63932,24 @@
   },
   {
     "title": "De plus en plus de rapaces protégés pris en charge à Genève",
-    "added_at": "2026-03-08T20:25:16.101Z"
+    "added_at": "2026-03-08T20:25:16.101Z",
+    "removed_at": "2026-03-10T12:19:18.662Z",
+    "duration_minutes": 2394,
+    "duration_str": "1d 15h 54m"
   },
   {
     "title": "\"The Bride!\", cri de révolte féministe dans une relecture du mythe de Frankenstein ★★★★☆",
-    "added_at": "2026-03-08T20:25:16.101Z"
+    "added_at": "2026-03-08T20:25:16.101Z",
+    "removed_at": "2026-03-10T11:18:48.446Z",
+    "duration_minutes": 2333,
+    "duration_str": "1d 14h 53m"
   },
   {
     "title": "\"On a encore des pas significatifs à faire\" en matière d'inclusion, exhorte Elisabeth Baume-Schneider",
     "added_at": "2026-03-08T20:25:16.101Z",
-    "removed_at": "2026-03-10T10:08:24.949Z",
-    "duration_minutes": 2263,
-    "duration_str": "1d 13h 43m"
+    "removed_at": "2026-03-10T10:25:37.884Z",
+    "duration_minutes": 2280,
+    "duration_str": "1d 14h"
   },
   {
     "title": "La Suisse s'impose aisément à Malte",
@@ -64434,7 +64443,10 @@
   },
   {
     "title": "Oui à un soutien fédéral aux victimes de Crans-Montana",
-    "added_at": "2026-03-09T17:45:11.090Z"
+    "added_at": "2026-03-09T17:45:11.090Z",
+    "removed_at": "2026-03-10T10:18:22.490Z",
+    "duration_minutes": 993,
+    "duration_str": "16h 33m"
   },
   {
     "title": "Le zoo de Zurich euthanasie dix singes Géladas en surnombre",
@@ -64512,7 +64524,10 @@
   },
   {
     "title": "L'Iran affirme être prêt à se battre \"aussi longtemps que nécessaire\"",
-    "added_at": "2026-03-10T06:25:42.772Z"
+    "added_at": "2026-03-10T06:25:42.772Z",
+    "removed_at": "2026-03-10T12:02:25.586Z",
+    "duration_minutes": 336,
+    "duration_str": "5h 36m"
   },
   {
     "title": "L'autoroute A20 fermée à cause d'un problème technique dans le tunnel de La Vue-des-Alpes",
@@ -64552,5 +64567,43 @@
   {
     "title": "Le Parlement s'accorde sur la contribution de 50'000 francs pour les victimes de Crans-Montana",
     "added_at": "2026-03-10T10:08:24.949Z"
+  },
+  {
+    "title": "Les Etats se prononcent en faveur de la création d'une loi-cadre pour mieux lutter contre la violence domestique",
+    "added_at": "2026-03-10T10:18:22.490Z",
+    "removed_at": "2026-03-10T10:30:25.238Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "Les élections municipales françaises et ses jeux d'alliances, ultime baromètre des dynamiques avant la présidentielle",
+    "added_at": "2026-03-10T10:25:37.884Z"
+  },
+  {
+    "title": "Les Etats pour la création d'une loi-cadre visant à mieux lutter contre la violence domestique",
+    "added_at": "2026-03-10T10:27:59.691Z"
+  },
+  {
+    "title": "Les prix du pétrole en net recul après les déclarations de Donald Trump sur la fin de la guerre",
+    "added_at": "2026-03-10T11:18:48.446Z"
+  },
+  {
+    "title": "Economie mondiale en dents de scie en raison de la guerre en Iran",
+    "added_at": "2026-03-10T12:02:25.586Z",
+    "removed_at": "2026-03-10T12:55:44.036Z",
+    "duration_minutes": 53,
+    "duration_str": "53m"
+  },
+  {
+    "title": "Les actes antisémites en forte hausse en Suisse romande, notamment sur internet",
+    "added_at": "2026-03-10T12:14:29.071Z"
+  },
+  {
+    "title": "\"Contrairement à la crise de 2022, l'Europe va cette fois être en concurrence avec l'Asie pour le gaz\"",
+    "added_at": "2026-03-10T12:19:18.662Z"
+  },
+  {
+    "title": "Washington assure que mardi sera \"le jour le plus intense de frappes\" à ce stade sur l'Iran",
+    "added_at": "2026-03-10T12:55:44.036Z"
   }
 ]
