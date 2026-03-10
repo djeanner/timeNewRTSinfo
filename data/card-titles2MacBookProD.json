@@ -67102,7 +67102,10 @@
   },
   {
     "title": "sport:::A Milan-Cortina, l’hymne russe retentit pour la première fois depuis 2014, sans faire grand bruit",
-    "added_at": "2026-03-09T17:42:48.889Z"
+    "added_at": "2026-03-09T17:42:48.889Z",
+    "removed_at": "2026-03-10T15:18:45.940Z",
+    "duration_minutes": 1295,
+    "duration_str": "21h 35m"
   },
   {
     "title": "suisse:::Valentine Pillet: «Si Genève veut répondre aux besoins en logements de la population, il faut modifier nos lois»",
@@ -67113,7 +67116,10 @@
   },
   {
     "title": "suisse:::«Pas de Suisse à 10 millions!»: le PLR et Le Centre entrent en lutte contre «l’initiative du chaos» de l’UDC",
-    "added_at": "2026-03-09T18:43:27.877Z"
+    "added_at": "2026-03-09T18:43:27.877Z",
+    "removed_at": "2026-03-10T13:34:44.049Z",
+    "duration_minutes": 1131,
+    "duration_str": "18h 51m"
   },
   {
     "title": "culture:::Joëlle Bertossa, ministre de la Culture et de la Transition numérique à Genève: «Je veux soutenir les artistes dans la durée, quitte à faire des choix»",
@@ -67211,7 +67217,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’Iran affirme qu’il continuera à se battre «aussi longtemps que nécessaire»",
-    "added_at": "2026-03-10T05:32:26.122Z"
+    "added_at": "2026-03-10T05:32:26.122Z",
+    "removed_at": "2026-03-10T13:12:54.792Z",
+    "duration_minutes": 460,
+    "duration_str": "7h 40m"
   },
   {
     "title": "monde:::Du Vietnam à l’Iran et de l’Afghanistan à l’Irak, les guerres sans fin d’une Amérique surpuissante",
@@ -67249,7 +67258,10 @@
   },
   {
     "title": "suisse:::En 2025, les actes antisémites ont atteint un niveau record en Suisse",
-    "added_at": "2026-03-10T09:27:15.710Z"
+    "added_at": "2026-03-10T09:27:15.710Z",
+    "removed_at": "2026-03-10T13:54:07.925Z",
+    "duration_minutes": 266,
+    "duration_str": "4h 26m"
   },
   {
     "title": "suisse:::Le syndic de Vevey, Yvan Luccarini, capitule",
@@ -67269,5 +67281,52 @@
   {
     "title": "monde:::Selon le Tribunal fédéral, la société russe Gazprom doit bien payer 1,3 milliard de dollars à l’ukrainienne Naftogaz",
     "added_at": "2026-03-10T11:04:18.221Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Washington annonce «la plus intense journée de frappes» sur l’Iran",
+    "added_at": "2026-03-10T13:12:54.792Z",
+    "removed_at": "2026-03-10T13:15:23.220Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Washington annonce «la plus intense journée de frappes» sur l’Iran",
+    "added_at": "2026-03-10T13:15:23.220Z",
+    "removed_at": "2026-03-10T15:13:57.160Z",
+    "duration_minutes": 118,
+    "duration_str": "1h 58m"
+  },
+  {
+    "title": "suisse:::Les Chambres s’entendent sur les 50 000 francs pour les victimes de Crans-Montana",
+    "added_at": "2026-03-10T13:54:07.925Z",
+    "removed_at": "2026-03-10T15:26:01.871Z",
+    "duration_minutes": 91,
+    "duration_str": "1h 31m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les marchés se rassurent après les propos de Donald Trump que la guerre contre l'Iran serait «quasiment» finie",
+    "added_at": "2026-03-10T15:13:57.160Z",
+    "removed_at": "2026-03-10T15:28:30.806Z",
+    "duration_minutes": 14,
+    "duration_str": "14m"
+  },
+  {
+    "title": "culture:::Moins sérieuse, plus pop, la bande dessinée tessinoise sort enfin de l’ombre",
+    "added_at": "2026-03-10T15:18:45.940Z"
+  },
+  {
+    "title": "suisse:::Mis en prévention, le président de Crans-Montana Nicolas Féraud se récuse mais ne démissionne pas",
+    "added_at": "2026-03-10T15:26:01.871Z",
+    "removed_at": "2026-03-10T15:28:30.806Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "suisse:::Désormais prévenu, le président de Crans-Montana Nicolas Féraud se récuse mais ne démissionne pas",
+    "added_at": "2026-03-10T15:28:30.806Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les marchés se rassurent après les propos de Donald Trump",
+    "added_at": "2026-03-10T15:28:30.806Z"
   }
 ]
