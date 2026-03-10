@@ -63746,7 +63746,10 @@
   },
   {
     "title": "L'initiative sur l'argent liquide infortunée en votation, à l'inverse du contre-projet",
-    "added_at": "2026-03-08T20:25:16.101Z"
+    "added_at": "2026-03-08T20:25:16.101Z",
+    "removed_at": "2026-03-10T22:13:44.078Z",
+    "duration_minutes": 2988,
+    "duration_str": "2d 1h 48m"
   },
   {
     "title": "L'initiative pour un fonds climat est rejetée à 70,7% par la population suisse",
@@ -64312,7 +64315,10 @@
   },
   {
     "title": "Mojtaba Khamenei, le fils de l'ayatollah défunt, est le nouveau guide suprême iranien",
-    "added_at": "2026-03-08T21:38:35.331Z"
+    "added_at": "2026-03-08T21:38:35.331Z",
+    "removed_at": "2026-03-10T23:02:12.068Z",
+    "duration_minutes": 2963,
+    "duration_str": "2d 1h 23m"
   },
   {
     "title": "Communales fribourgeoises: Pierre-Olivier Nobs éjecté du Conseil communal en Ville de Fribourg",
@@ -64846,5 +64852,52 @@
   {
     "title": "Le syndic de Vevey Yvan Luccarini se retire de la course à sa propre réélection",
     "added_at": "2026-03-10T21:03:16.553Z"
+  },
+  {
+    "title": "Un car postal s'embrase au centre de Chiètres, faisant six morts et quatre blessés",
+    "added_at": "2026-03-10T21:15:37.385Z",
+    "removed_at": "2026-03-10T21:20:26.070Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Un car postal s'embrase au centre de Chiètres, faisant six morts et cinq blessés",
+    "added_at": "2026-03-10T21:20:26.070Z",
+    "removed_at": "2026-03-10T21:25:17.021Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Un car postal s'embrase au centre de Chiètres, faisant six morts. Acte volontaire privilégié par la police",
+    "added_at": "2026-03-10T21:25:17.021Z",
+    "removed_at": "2026-03-10T21:34:58.772Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Un car postal s'embrase au centre de Chiètres, faisant six morts. Un acte volontaire privilégié par la police",
+    "added_at": "2026-03-10T21:34:58.772Z",
+    "removed_at": "2026-03-10T21:37:26.995Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Un car postal s'embrase au centre de Chiètres, faisant six morts. Un acte volontaire évoqué par la police",
+    "added_at": "2026-03-10T21:37:26.995Z"
+  },
+  {
+    "title": "Les fake news et la propagande se multiplient autour de la guerre au Moyen-Orient",
+    "added_at": "2026-03-10T22:01:38.526Z",
+    "removed_at": "2026-03-10T22:23:26.700Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
+  },
+  {
+    "title": "Washington propose un nouveau cycle de négociations entre Kiev et Moscou en Suisse ou en Turquie",
+    "added_at": "2026-03-10T22:13:44.078Z"
+  },
+  {
+    "title": "À Genève, une pétition déposée contre un méga-projet de construction de tours",
+    "added_at": "2026-03-10T22:23:26.700Z"
   }
 ]
