@@ -5431,7 +5431,10 @@
   },
   {
     "title": "Le résumé de l'actualité romande",
-    "added_at": "2026-02-25T12:24:15.178Z"
+    "added_at": "2026-02-25T12:24:15.178Z",
+    "removed_at": "2026-03-10T13:23:17.316Z",
+    "duration_minutes": 18779,
+    "duration_str": "13d 59m"
   },
   {
     "title": "Afficher son opinion politique en accrochant un drapeau palestinien à son balcon est-il autorisé?",
@@ -9266,7 +9269,10 @@
   },
   {
     "title": "Mobilisation féministe \"contre les guerres impérialistes\" à Lausanne",
-    "added_at": "2026-03-07T22:36:41.816Z"
+    "added_at": "2026-03-07T22:36:41.816Z",
+    "removed_at": "2026-03-10T13:02:24.740Z",
+    "duration_minutes": 3745,
+    "duration_str": "2d 14h 25m"
   },
   {
     "title": "Benjamin Netanyahu veut éradiquer le régime iranien, Donald Trump évoque une possible future présence au sol",
@@ -9298,15 +9304,24 @@
   },
   {
     "title": "\"Il existe un risque d'attentats terroristes en Suisse\", estime Martin Pfister",
-    "added_at": "2026-03-08T06:11:53.075Z"
+    "added_at": "2026-03-08T06:11:53.075Z",
+    "removed_at": "2026-03-10T13:11:55.542Z",
+    "duration_minutes": 3300,
+    "duration_str": "2d 7h"
   },
   {
     "title": "Les quatre raisons qui expliquent le faible nombre de \"cold cases\" résolus en Suisse",
-    "added_at": "2026-03-08T06:28:55.465Z"
+    "added_at": "2026-03-08T06:28:55.465Z",
+    "removed_at": "2026-03-10T13:27:01.699Z",
+    "duration_minutes": 3298,
+    "duration_str": "2d 6h 58m"
   },
   {
     "title": "Quand la procréation médicalement assistée devient catalyseur de souffrance psychique",
-    "added_at": "2026-03-08T06:30:49.463Z"
+    "added_at": "2026-03-08T06:30:49.463Z",
+    "removed_at": "2026-03-10T13:25:07.283Z",
+    "duration_minutes": 3294,
+    "duration_str": "2d 6h 54m"
   },
   {
     "title": "La Suisse s'impose aisément à Malte",
@@ -9331,7 +9346,10 @@
   },
   {
     "title": "De plus en plus de rapaces protégés pris en charge à Genève",
-    "added_at": "2026-03-08T08:18:50.647Z"
+    "added_at": "2026-03-08T08:18:50.647Z",
+    "removed_at": "2026-03-10T12:20:50.066Z",
+    "duration_minutes": 3121,
+    "duration_str": "2d 4h 1m"
   },
   {
     "title": "Donald Trump lance une coalition militaire contre les cartels en Amérique latine",
@@ -9886,7 +9904,10 @@
   },
   {
     "title": "L'Iran affirme être prêt à se battre \"aussi longtemps que nécessaire\"",
-    "added_at": "2026-03-10T06:24:13.211Z"
+    "added_at": "2026-03-10T06:24:13.211Z",
+    "removed_at": "2026-03-10T12:01:52.208Z",
+    "duration_minutes": 337,
+    "duration_str": "5h 37m"
   },
   {
     "title": "L'autoroute A20 fermée à cause d'un problème technique dans le tunnel de La Vue-des-Alpes",
@@ -9945,5 +9966,47 @@
   {
     "title": "Les prix du pétrole en net recul après les déclarations de Donald Trump sur la fin de la guerre",
     "added_at": "2026-03-10T11:18:15.089Z"
+  },
+  {
+    "title": "Economie mondiale en dents de scie en raison de la guerre en Iran",
+    "added_at": "2026-03-10T12:01:52.208Z",
+    "removed_at": "2026-03-10T12:56:43.542Z",
+    "duration_minutes": 54,
+    "duration_str": "54m"
+  },
+  {
+    "title": "Les actes antisémites en forte hausse en Suisse romande, notamment sur internet",
+    "added_at": "2026-03-10T12:13:13.337Z"
+  },
+  {
+    "title": "\"Contrairement à la crise de 2022, l'Europe va cette fois être en concurrence avec l'Asie pour le gaz\"",
+    "added_at": "2026-03-10T12:20:50.066Z",
+    "removed_at": "2026-03-10T13:42:10.121Z",
+    "duration_minutes": 81,
+    "duration_str": "1h 21m"
+  },
+  {
+    "title": "Washington assure que mardi sera \"le jour le plus intense de frappes\" à ce stade sur l'Iran",
+    "added_at": "2026-03-10T12:56:43.542Z"
+  },
+  {
+    "title": "\"The Mountain\" de Gorillaz explore le thème de la mort avec une pop mystique et kaléidoscopique",
+    "added_at": "2026-03-10T13:02:24.740Z"
+  },
+  {
+    "title": "Chypre, au cœur des tensions entre l'Union européenne et l'Iran",
+    "added_at": "2026-03-10T13:11:55.542Z"
+  },
+  {
+    "title": "L'invitée de La Matinale (vidéo) - Anne-Sophie Corbeau, spécialiste du gaz et de l’énergie",
+    "added_at": "2026-03-10T13:23:17.316Z"
+  },
+  {
+    "title": "Le Grand Conseil vaudois veut soutenir les éleveurs privés de pacage en France",
+    "added_at": "2026-03-10T13:27:01.699Z"
+  },
+  {
+    "title": "\"Les signaux ne sont absolument pas bons\" pour l'approvisionnement en gaz, s'inquiète la chercheuse Anne-Sophie Corbeau",
+    "added_at": "2026-03-10T13:42:10.121Z"
   }
 ]
