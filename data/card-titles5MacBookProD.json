@@ -145105,7 +145105,10 @@
   },
   {
     "title": "6h50 par nuit en moyenne : le temps de sommeil ne cesse de reculer en France",
-    "added_at": "2026-03-10T09:22:22.548Z"
+    "added_at": "2026-03-10T09:22:22.548Z",
+    "removed_at": "2026-03-11T10:38:57.257Z",
+    "duration_minutes": 1516,
+    "duration_str": "1d 1h 16m"
   },
   {
     "title": "Les élections municipales, un scrutin à préserver",
@@ -145144,7 +145147,10 @@
   },
   {
     "title": "En Italie, Giorgia Meloni poursuit sa bataille contre les juges avant un référendum décisif",
-    "added_at": "2026-03-10T10:13:15.305Z"
+    "added_at": "2026-03-10T10:13:15.305Z",
+    "removed_at": "2026-03-11T11:00:47.075Z",
+    "duration_minutes": 1487,
+    "duration_str": "1d 47m"
   },
   {
     "title": "Municipales à Lille : Louis Delemer mise sur sa jeunesse et « l’ultra-proximité » pour faire exister la droite",
@@ -145303,7 +145309,10 @@
   },
   {
     "title": "Ursula von der Leyen considère que l’UE a fait une « erreur stratégique » en réduisant les investissements dans le nucléaire civil",
-    "added_at": "2026-03-10T14:30:22.883Z"
+    "added_at": "2026-03-10T14:30:22.883Z",
+    "removed_at": "2026-03-11T13:02:08.901Z",
+    "duration_minutes": 1351,
+    "duration_str": "22h 31m"
   },
   {
     "title": "La résurgence d’un terrorisme juif en Cisjordanie, sous couvert de la guerre contre l’Iran",
@@ -145314,7 +145323,10 @@
   },
   {
     "title": "Les élections municipales, un scrutin à préserver",
-    "added_at": "2026-03-10T14:44:53.812Z"
+    "added_at": "2026-03-10T14:44:53.812Z",
+    "removed_at": "2026-03-11T10:51:03.890Z",
+    "duration_minutes": 1206,
+    "duration_str": "20h 6m"
   },
   {
     "title": "Comment Donald Trump et Big Pharma veulent faire plier l’Europe sur le prix des médicaments",
@@ -145459,10 +145471,7 @@
   },
   {
     "title": "Très attendu sur le prix des carburants, Sébastien Lecornu reçoit les forces politiques",
-    "added_at": "2026-03-11T04:10:24.527Z",
-    "removed_at": "2026-03-11T07:14:50.593Z",
-    "duration_minutes": 184,
-    "duration_str": "3h 4m"
+    "added_at": "2026-03-11T04:10:24.527Z"
   },
   {
     "title": "Guide Michelin : L’Ambroisie, à Paris, perd sa troisième étoile ; le chef Sébastien Bras rétrogradé",
@@ -145492,7 +145501,10 @@
   },
   {
     "title": "Quinze ans après Fukushima, les retours au compte-gouttes dans la zone touchée par la catastrophe nucléaire",
-    "added_at": "2026-03-11T07:14:50.593Z"
+    "added_at": "2026-03-11T07:14:50.593Z",
+    "removed_at": "2026-03-11T10:55:57.875Z",
+    "duration_minutes": 221,
+    "duration_str": "3h 41m"
   },
   {
     "title": "La piste des anticorps comme moyen de contraception",
@@ -145517,7 +145529,10 @@
   },
   {
     "title": "« L’Iran est devenu un trou noir » : à Dubaï, les entrepreneurs iraniens pris entre deux feux",
-    "added_at": "2026-03-11T09:01:43.996Z"
+    "added_at": "2026-03-11T09:01:43.996Z",
+    "removed_at": "2026-03-11T13:02:08.901Z",
+    "duration_minutes": 240,
+    "duration_str": "4h"
   },
   {
     "title": "Jean-Michel Aulas à Lyon, Pierre-Yves Bournazel à Paris, Catherine Trautmann à Strasbourg ... ce qu’il faut retenir des meetings politiques de mardi soir",
@@ -145553,14 +145568,76 @@
   },
   {
     "title": "Vincent Clerc, directeur général de Maersk : « En Asie et au Moyen-Orient, nos points d’approvisionnement en fioul risquent d’être à sec »",
-    "added_at": "2026-03-11T09:42:57.965Z"
+    "added_at": "2026-03-11T09:42:57.965Z",
+    "removed_at": "2026-03-11T10:53:29.853Z",
+    "duration_minutes": 70,
+    "duration_str": "1h 10m"
   },
   {
     "title": "Les bombardements israéliens sur le Liban ont tué 570 personnes, selon le ministère de la santé du pays",
-    "added_at": "2026-03-11T10:24:12.012Z"
+    "added_at": "2026-03-11T10:24:12.012Z",
+    "removed_at": "2026-03-11T12:45:06.587Z",
+    "duration_minutes": 140,
+    "duration_str": "2h 20m"
   },
   {
     "title": "« Victor comme tout le monde », Fabrice Luchini tel qu’en lui-même",
-    "added_at": "2026-03-11T10:33:57.336Z"
+    "added_at": "2026-03-11T10:33:57.336Z",
+    "removed_at": "2026-03-11T12:57:14.414Z",
+    "duration_minutes": 143,
+    "duration_str": "2h 23m"
+  },
+  {
+    "title": "Pete Hegseth, incarnation de la guerre de Donald Trump en Iran",
+    "added_at": "2026-03-11T10:38:57.257Z"
+  },
+  {
+    "title": "La guerre de Trump dans le piège pétrolier",
+    "added_at": "2026-03-11T10:51:03.890Z"
+  },
+  {
+    "title": "Vincent Clerc, patron de l’armateur Maersk : « En Asie et au Moyen-Orient, nos points d’approvisionnement en fioul risquent d’être à sec »",
+    "added_at": "2026-03-11T10:53:29.853Z",
+    "removed_at": "2026-03-11T11:03:14.237Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Emmanuel Macron annonce qu’« une humanitaire française de l’Unicef a été tuée » en République démocratique du Congo",
+    "added_at": "2026-03-11T10:55:57.875Z"
+  },
+  {
+    "title": "CNews et Europe 1 : le Conseil d’Etat rejette le référé en urgence des universitaires souhaitant pousser l’Arcom à agir durant la période des municipales",
+    "added_at": "2026-03-11T11:00:47.075Z"
+  },
+  {
+    "title": "La difficile campagne municipale des écologistes, pris en étau entre quête de respectabilité et adversité",
+    "added_at": "2026-03-11T11:03:14.237Z",
+    "removed_at": "2026-03-11T12:57:14.414Z",
+    "duration_minutes": 114,
+    "duration_str": "1h 54m"
+  },
+  {
+    "title": "Les footballeuses iraniennes qui ont demandé l’asile en Australie évacuées de leur résidence sécurisée après la révélation de leur localisation",
+    "added_at": "2026-03-11T12:30:32.996Z"
+  },
+  {
+    "title": "Israël assure qu’il n’y a pas de « limite de temps » à la guerre menée contre l’Iran",
+    "added_at": "2026-03-11T12:45:06.587Z"
+  },
+  {
+    "title": "Municipales : le PS dénonce des « fusions cachées » entre LR et l’extrême droite et y voit « les prémices annoncées d’une fusion réelle »",
+    "added_at": "2026-03-11T12:57:14.414Z",
+    "removed_at": "2026-03-11T13:19:06.284Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
+  },
+  {
+    "title": "« L’Iran est devenu un trou noir » : à Dubaï, les entrepreneurs iraniens pris en étau",
+    "added_at": "2026-03-11T13:02:08.901Z"
+  },
+  {
+    "title": "Municipales : Posez vos questions à nos journalistes spécialistes de la sécurité Antoine Albertini et Artgur Carpentier",
+    "added_at": "2026-03-11T13:19:06.284Z"
   }
 ]
