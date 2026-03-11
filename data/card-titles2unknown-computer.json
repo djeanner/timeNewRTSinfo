@@ -7673,7 +7673,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Nouvelles explosions à Téhéran, après les menaces iraniennes contre le commerce du pétrole",
-    "added_at": "2026-03-10T20:16:43.773Z"
+    "added_at": "2026-03-10T20:16:43.773Z",
+    "removed_at": "2026-03-10T23:39:40.847Z",
+    "duration_minutes": 202,
+    "duration_str": "3h 22m"
   },
   {
     "title": "suisse:::L'incendie d'un car postal dans le canton de Fribourg fait six morts et quatre blessés",
@@ -7699,5 +7702,16 @@
   {
     "title": "suisse:::L’incendie d’un car postal dans le canton de Fribourg fait six morts et cinq blessés, la police évoque un «acte volontaire»",
     "added_at": "2026-03-10T21:44:06.285Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis annoncent avoir détruit 16 bateaux iraniens près du détroit d'Ormuz",
+    "added_at": "2026-03-10T23:39:40.847Z",
+    "removed_at": "2026-03-10T23:43:30.801Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis ont détruit «16 navires poseurs de mines» iraniens près du détroit d'Ormuz",
+    "added_at": "2026-03-10T23:43:30.801Z"
   }
 ]
