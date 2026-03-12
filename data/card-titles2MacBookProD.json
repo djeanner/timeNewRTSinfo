@@ -8226,10 +8226,7 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z",
-    "removed_at": "2026-02-20T12:40:49.635Z",
-    "duration_minutes": 394238,
-    "duration_str": "273d 18h 38m"
+    "added_at": "2025-05-22T18:01:52.008Z"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -67861,7 +67858,10 @@
   },
   {
     "title": "monde:::En direct - guerre en Ukraine – Emmanuel Macron affirme que les pays du G7 ne veulent pas lever les sanctions sur le pétrole russe",
-    "added_at": "2026-03-11T16:30:52.009Z"
+    "added_at": "2026-03-11T16:30:52.009Z",
+    "removed_at": "2026-03-12T14:32:11.633Z",
+    "duration_minutes": 1321,
+    "duration_str": "22h 1m"
   },
   {
     "title": "economie:::Après avoir étoffé sa clientèle commerciale, Raiffeisen s’interroge sur sa stratégie risques",
@@ -67983,11 +67983,17 @@
   },
   {
     "title": "sport:::Le HC Bienne a sauvé sa saison grâce à l’effet Dubé",
-    "added_at": "2026-03-12T06:18:38.169Z"
+    "added_at": "2026-03-12T06:18:38.169Z",
+    "removed_at": "2026-03-12T15:55:00.745Z",
+    "duration_minutes": 576,
+    "duration_str": "9h 36m"
   },
   {
     "title": "cyber:::Aucun revenu et aucun service, mais un milliard de dollars levé: la nouvelle start-up de Yann LeCun sera-t-elle le fer de lance de la souveraineté européenne?",
-    "added_at": "2026-03-12T07:04:47.082Z"
+    "added_at": "2026-03-12T07:04:47.082Z",
+    "removed_at": "2026-03-12T15:37:58.025Z",
+    "duration_minutes": 513,
+    "duration_str": "8h 33m"
   },
   {
     "title": "monde:::Au Liban-Sud, la mort d’un prêtre tué par un obus israélien ravive la colère",
@@ -68017,7 +68023,10 @@
   },
   {
     "title": "culture:::Arthur Honegger, ce compositeur suisse dont notre époque a tant besoin",
-    "added_at": "2026-03-12T10:23:57.267Z"
+    "added_at": "2026-03-12T10:23:57.267Z",
+    "removed_at": "2026-03-12T13:50:49.239Z",
+    "duration_minutes": 206,
+    "duration_str": "3h 26m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les bombardements en Iran ont fait plus de 3 millions de déplacés, selon le HCR",
@@ -68032,10 +68041,62 @@
   },
   {
     "title": "monde:::En Chine, une loi sur «l’unité nationale» parachève l’assimilation des minorités",
-    "added_at": "2026-03-12T12:42:38.199Z"
+    "added_at": "2026-03-12T12:42:38.199Z",
+    "removed_at": "2026-03-12T16:04:42.276Z",
+    "duration_minutes": 202,
+    "duration_str": "3h 22m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’armée américaine «pas prête» à escorter des pétroliers dans le détroit d'Ormuz",
-    "added_at": "2026-03-12T12:42:38.199Z"
+    "added_at": "2026-03-12T12:42:38.199Z",
+    "removed_at": "2026-03-12T13:48:27.076Z",
+    "duration_minutes": 65,
+    "duration_str": "1h 5m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le nouveau guide suprême iranien appelle les pays voisins à fermer les bases militaires américaines sur leur sol",
+    "added_at": "2026-03-12T13:48:27.076Z",
+    "removed_at": "2026-03-12T14:19:58.318Z",
+    "duration_minutes": 31,
+    "duration_str": "31m"
+  },
+  {
+    "title": "culture:::Arthur Honegger, ce compositeur dont notre époque a tant besoin",
+    "added_at": "2026-03-12T13:50:49.239Z",
+    "removed_at": "2026-03-12T14:00:32.961Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "sciences:::«Notre projet scientifique de compostage humain naturel est une première mondiale»: le CHUV étudie la décomposition des corps en plein air",
+    "added_at": "2026-03-12T13:53:15.732Z"
+  },
+  {
+    "title": "culture:::Joëlle Bertossa, la conseillère administrative genevoise qui ne craint pas de déplaire et de dire non",
+    "added_at": "2026-03-12T14:00:32.961Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Avec un premier message lu à la télévision, le guide suprême iranien ne lève pas les doutes sur son état de santé",
+    "added_at": "2026-03-12T14:19:58.318Z"
+  },
+  {
+    "title": "monde:::En direct - guerre en Ukraine – Des experts ukrainiens en drones ont commencé leur travail dans les pays du Golfe",
+    "added_at": "2026-03-12T14:32:11.633Z"
+  },
+  {
+    "title": "economie:::L'oléoduc Petroline, l’espoir d’une alternative au détroit d’Ormuz",
+    "added_at": "2026-03-12T15:37:58.025Z"
+  },
+  {
+    "title": "suisse:::Vers la généralisation des ordonnances numériques",
+    "added_at": "2026-03-12T15:52:31.942Z"
+  },
+  {
+    "title": "economie:::Dans l’ombre du drame de Chiètres, La Poste présente un bilan sous tension",
+    "added_at": "2026-03-12T16:04:42.276Z"
+  },
+  {
+    "title": "suisse:::Dans l’affaire du bouclier fiscal, c’est la Commission de gestion du Grand Conseil vaudois qui rendra un rapport",
+    "added_at": "2026-03-12T16:04:42.276Z"
   }
 ]
