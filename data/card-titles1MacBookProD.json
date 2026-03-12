@@ -64971,7 +64971,10 @@
   },
   {
     "title": "Des trajets en transports publics compris dans l'offre: Magic Pass innove pour sa 10e édition",
-    "added_at": "2026-03-10T15:48:00.499Z"
+    "added_at": "2026-03-10T15:48:00.499Z",
+    "removed_at": "2026-03-12T19:19:14.851Z",
+    "duration_minutes": 3091,
+    "duration_str": "2d 3h 31m"
   },
   {
     "title": "Le syndic de Vevey jette l'éponge, élection tacite à Montreux: le point sur le 2e tour des municipales vaudoises",
@@ -65039,11 +65042,17 @@
   },
   {
     "title": "Quarante pays, dont la Suisse, réunis à Paris pour concrétiser la relance du nucléaire",
-    "added_at": "2026-03-10T19:55:24.035Z"
+    "added_at": "2026-03-10T19:55:24.035Z",
+    "removed_at": "2026-03-12T20:34:22.730Z",
+    "duration_minutes": 2918,
+    "duration_str": "2d 38m"
   },
   {
     "title": "Un car postal s'embrase au centre de Chiètres, faisant plusieurs morts et blessés",
-    "added_at": "2026-03-10T20:00:14.393Z"
+    "added_at": "2026-03-10T20:00:14.393Z",
+    "removed_at": "2026-03-12T21:03:32.039Z",
+    "duration_minutes": 2943,
+    "duration_str": "2d 1h 3m"
   },
   {
     "title": "Le président de Crans-Montana Nicolas Féraud se récuse pour la gestion des dossiers liés à l'incendie du 1er janvier",
@@ -65104,7 +65113,10 @@
   },
   {
     "title": "Washington propose un nouveau cycle de négociations entre Kiev et Moscou en Suisse ou en Turquie",
-    "added_at": "2026-03-10T22:13:44.078Z"
+    "added_at": "2026-03-10T22:13:44.078Z",
+    "removed_at": "2026-03-12T20:22:15.945Z",
+    "duration_minutes": 2768,
+    "duration_str": "1d 22h 8m"
   },
   {
     "title": "À Genève, une pétition déposée contre un méga-projet de construction de tours",
@@ -65152,7 +65164,10 @@
   },
   {
     "title": "Passerelle en bois à Bulle : quand la tradition croise la modernité",
-    "added_at": "2026-03-11T07:02:39.499Z"
+    "added_at": "2026-03-11T07:02:39.499Z",
+    "removed_at": "2026-03-12T19:16:48.634Z",
+    "duration_minutes": 2174,
+    "duration_str": "1d 12h 14m"
   },
   {
     "title": "Le nouveau guide suprême iranien Mojtaba Khamenei est \"sain et sauf\" malgré ses blessures",
@@ -65574,7 +65589,10 @@
   },
   {
     "title": "Dans son premier message, le nouveau guide suprême iranien appelle à maintenir fermé le détroit d'Ormuz",
-    "added_at": "2026-03-12T13:43:22.196Z"
+    "added_at": "2026-03-12T13:43:22.196Z",
+    "removed_at": "2026-03-12T19:33:47.511Z",
+    "duration_minutes": 350,
+    "duration_str": "5h 50m"
   },
   {
     "title": "Le tunnel ferroviaire de la Furka fermé jusqu'à vendredi après un incident impliquant un camion",
@@ -65637,7 +65655,10 @@
   },
   {
     "title": "Pas d'aide fédérale pour les victimes de Chiètres alors que le politique débat d'un élargissement du dispositif",
-    "added_at": "2026-03-12T18:37:56.206Z"
+    "added_at": "2026-03-12T18:37:56.206Z",
+    "removed_at": "2026-03-12T21:44:47.808Z",
+    "duration_minutes": 186,
+    "duration_str": "3h 6m"
   },
   {
     "title": "Fusillade dans une synagogue de l'Etat américain du Michigan",
@@ -65653,5 +65674,36 @@
   {
     "title": "La cellule \"anti-harcèlement\" du CHUV croule sous les signalements de comportements problématiques",
     "added_at": "2026-03-12T19:07:01.124Z"
+  },
+  {
+    "title": "Les chats retombent toujours sur leurs pattes, mais à quel prix ?",
+    "added_at": "2026-03-12T19:16:48.634Z",
+    "removed_at": "2026-03-12T20:22:15.945Z",
+    "duration_minutes": 65,
+    "duration_str": "1h 5m"
+  },
+  {
+    "title": "Podcast - Pétrole: pourquoi les prix s'envolent ?",
+    "added_at": "2026-03-12T19:19:14.851Z"
+  },
+  {
+    "title": "Israël menace de \"prendre des territoires\" au Liban",
+    "added_at": "2026-03-12T19:31:21.302Z"
+  },
+  {
+    "title": "Quand aimer c'est aussi donner un organe: un couple partage son expérience de la greffe rénale",
+    "added_at": "2026-03-12T20:22:15.945Z"
+  },
+  {
+    "title": "Une cérémonie œcuménique a eu lieu hier soir dans le village de Chiètres",
+    "added_at": "2026-03-12T20:22:15.945Z"
+  },
+  {
+    "title": "Duplantis toujours plus haut! Nouveau record à 6m31",
+    "added_at": "2026-03-12T20:34:22.730Z"
+  },
+  {
+    "title": "Pas d'aide fédérale pour les victimes de Chiètres",
+    "added_at": "2026-03-12T21:44:47.808Z"
   }
 ]
