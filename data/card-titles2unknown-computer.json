@@ -2066,7 +2066,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2026-02-20T09:14:02.196Z"
+    "added_at": "2026-02-20T09:14:02.196Z",
+    "removed_at": "2026-03-12T19:40:41.113Z",
+    "duration_minutes": 29426,
+    "duration_str": "20d 10h 26m"
   },
   {
     "title": "monde:::En Espagne, l’exécutif socialiste éclaboussé par un scandale sexuel retentissant",
@@ -8196,7 +8199,10 @@
   },
   {
     "title": "culture:::A Am Stram Gram, à Genève, Dan Jemmett met parfaitement Cléopâtre en boîtes",
-    "added_at": "2026-03-12T09:50:44.829Z"
+    "added_at": "2026-03-12T09:50:44.829Z",
+    "removed_at": "2026-03-12T19:36:56.222Z",
+    "duration_minutes": 586,
+    "duration_str": "9h 46m"
   },
   {
     "title": "sport:::Jeux paralympiques: avec la curleuse Ina Forrest, la pierre n’a pas d’âge",
@@ -8218,7 +8224,10 @@
   },
   {
     "title": "monde:::Keir Giles, expert de la Russie: «Face à la Russie, les pays à l’ouest de Varsovie vivent dans l’illusion que la distance les protège»",
-    "added_at": "2026-03-12T11:08:29.135Z"
+    "added_at": "2026-03-12T11:08:29.135Z",
+    "removed_at": "2026-03-12T18:51:25.874Z",
+    "duration_minutes": 462,
+    "duration_str": "7h 42m"
   },
   {
     "title": "monde:::En Chine, une loi sur «l’unité nationale» parachève l’assimilation des minorités",
@@ -8258,11 +8267,17 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Avec un premier message lu à la télévision, le guide suprême iranien ne lève pas les doutes sur son état de santé",
-    "added_at": "2026-03-12T14:19:57.380Z"
+    "added_at": "2026-03-12T14:19:57.380Z",
+    "removed_at": "2026-03-12T19:21:42.893Z",
+    "duration_minutes": 301,
+    "duration_str": "5h 1m"
   },
   {
     "title": "monde:::En direct - guerre en Ukraine – Des experts ukrainiens en drones ont commencé leur travail dans les pays du Golfe",
-    "added_at": "2026-03-12T14:33:13.749Z"
+    "added_at": "2026-03-12T14:33:13.749Z",
+    "removed_at": "2026-03-12T20:11:01.462Z",
+    "duration_minutes": 337,
+    "duration_str": "5h 37m"
   },
   {
     "title": "economie:::L'oléoduc Petroline, l’espoir d’une alternative au détroit d’Ormuz",
@@ -8274,7 +8289,10 @@
   },
   {
     "title": "economie:::Dans l’ombre du drame de Chiètres, La Poste présente un bilan sous tension",
-    "added_at": "2026-03-12T16:04:21.737Z"
+    "added_at": "2026-03-12T16:04:21.737Z",
+    "removed_at": "2026-03-12T18:55:10.225Z",
+    "duration_minutes": 170,
+    "duration_str": "2h 50m"
   },
   {
     "title": "suisse:::Dans l’affaire du bouclier fiscal, c’est la Commission de gestion du Grand Conseil vaudois qui rendra un rapport",
@@ -8294,5 +8312,29 @@
   {
     "title": "cyber:::«Avec le développement du SDSC, Lausanne devient un centre majeur en intelligence artificielle»",
     "added_at": "2026-03-12T17:44:54.302Z"
+  },
+  {
+    "title": "suisse:::Après le drame du Constellation à Crans-Montana, les élus valaisans veulent repenser la fréquence des contrôles incendie",
+    "added_at": "2026-03-12T18:51:25.874Z"
+  },
+  {
+    "title": "suisse:::«Il est important de ne pas remettre en question la sécurité des transports publics», estime la branche après le drame de Chiètres",
+    "added_at": "2026-03-12T18:55:10.225Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Israël annonce mener une nouvelle série de frappes «de grande ampleur» sur Téhéran",
+    "added_at": "2026-03-12T19:21:42.893Z"
+  },
+  {
+    "title": "economie:::Malgré les négociations sur les droits de douane, la Suisse est visée par une enquête américaine pour pratique commerciale déloyale",
+    "added_at": "2026-03-12T19:33:05.674Z"
+  },
+  {
+    "title": "monde:::Dans la peau d’une Hongkongaise traquée par Pékin jusqu’à Londres",
+    "added_at": "2026-03-12T19:38:46.374Z"
+  },
+  {
+    "title": "monde:::En direct - guerre en Ukraine – L’Otan appelle le secteur industriel de la défense à «travailler plus vite»",
+    "added_at": "2026-03-12T20:11:01.462Z"
   }
 ]

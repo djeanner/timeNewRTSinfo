@@ -10235,7 +10235,10 @@
   },
   {
     "title": "\"Les signaux ne sont absolument pas bons\" pour l'approvisionnement en gaz, s'inquiète la chercheuse Anne-Sophie Corbeau",
-    "added_at": "2026-03-10T13:42:10.121Z"
+    "added_at": "2026-03-10T13:42:10.121Z",
+    "removed_at": "2026-03-12T18:15:24.303Z",
+    "duration_minutes": 3153,
+    "duration_str": "2d 4h 33m"
   },
   {
     "title": "Fermé à cause d'un problème technique, le tunnel de La Vue-des-Alpes doit rouvrir dans l'après-midi",
@@ -10330,11 +10333,17 @@
   },
   {
     "title": "Des trajets en transports publics compris dans l'offre: Magic Pass innove pour sa 10e édition",
-    "added_at": "2026-03-10T15:49:14.183Z"
+    "added_at": "2026-03-10T15:49:14.183Z",
+    "removed_at": "2026-03-12T19:17:56.414Z",
+    "duration_minutes": 3088,
+    "duration_str": "2d 3h 28m"
   },
   {
     "title": "Le syndic de Vevey jette l'éponge, élection tacite à Montreux: le point sur le 2e tour des municipales vaudoises",
-    "added_at": "2026-03-10T15:49:14.183Z"
+    "added_at": "2026-03-10T15:49:14.183Z",
+    "removed_at": "2026-03-12T19:06:31.160Z",
+    "duration_minutes": 3077,
+    "duration_str": "2d 3h 17m"
   },
   {
     "title": "Podcast - C’est quoi le secret du Mossad?",
@@ -10352,7 +10361,10 @@
   },
   {
     "title": "Une pétition de 1400 signatures déposée contre le méga-projet du PAV (Praille-Acacias-Vernet) à Genève",
-    "added_at": "2026-03-10T16:32:56.565Z"
+    "added_at": "2026-03-10T16:32:56.565Z",
+    "removed_at": "2026-03-12T18:38:07.368Z",
+    "duration_minutes": 3005,
+    "duration_str": "2d 2h 5m"
   },
   {
     "title": "Les Etats veulent faciliter l'écoute téléphonique en Suisse pour mieux surveiller les groupes extrémistes",
@@ -10505,7 +10517,10 @@
   },
   {
     "title": "Passerelle en bois à Bulle : quand la tradition croise la modernité",
-    "added_at": "2026-03-11T07:03:14.480Z"
+    "added_at": "2026-03-11T07:03:14.480Z",
+    "removed_at": "2026-03-12T19:17:56.414Z",
+    "duration_minutes": 2174,
+    "duration_str": "1d 12h 14m"
   },
   {
     "title": "Le nouveau guide suprême iranien Mojtaba Khamenei est \"sain et sauf\" malgré ses blessures",
@@ -10779,7 +10794,10 @@
   },
   {
     "title": "Donald Trump affirme que la guerre en Iran est \"quasiment\" finie, mais comment l'arrêter? Interview d'Adrien Fontanellaz",
-    "added_at": "2026-03-11T21:03:12.473Z"
+    "added_at": "2026-03-11T21:03:12.473Z",
+    "removed_at": "2026-03-12T18:23:01.550Z",
+    "duration_minutes": 1279,
+    "duration_str": "21h 19m"
   },
   {
     "title": "Le PLR Vaud confirme son soutien à l'UDC Jean-François Thuillard au 2e tour de l'élection au Conseil d'Etat",
@@ -10934,7 +10952,10 @@
   },
   {
     "title": "Dans son premier message, le nouveau guide suprême iranien appelle à maintenir fermé le détroit d'Ormuz",
-    "added_at": "2026-03-12T13:42:06.577Z"
+    "added_at": "2026-03-12T13:42:06.577Z",
+    "removed_at": "2026-03-12T19:33:05.620Z",
+    "duration_minutes": 350,
+    "duration_str": "5h 50m"
   },
   {
     "title": "Le tunnel ferroviaire de la Furka fermé jusqu'à vendredi après un incident impliquant un camion",
@@ -10983,5 +11004,47 @@
   {
     "title": "Il est \"impossible\" de quantifier le nombre d'enfants ukrainiens déportés en Russie",
     "added_at": "2026-03-12T17:14:36.454Z"
+  },
+  {
+    "title": "Des coups de feu éclatent dans une synagogue de l'Etat américain du Michigan",
+    "added_at": "2026-03-12T18:15:24.303Z",
+    "removed_at": "2026-03-12T18:40:04.105Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "Nicolas Guillou: le quotidien bouleversé d’un magistrat français sous sanctions américaines",
+    "added_at": "2026-03-12T18:23:01.550Z"
+  },
+  {
+    "title": "Pas d'aide fédérale pour les victimes de Chiètres alors que le politique débat d'un élargissement du dispositif",
+    "added_at": "2026-03-12T18:38:07.368Z"
+  },
+  {
+    "title": "Fusillade dans une synagogue de l'Etat américain du Michigan",
+    "added_at": "2026-03-12T18:40:04.105Z",
+    "removed_at": "2026-03-12T18:51:25.823Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "Fusillade dans une synagogue de l'Etat américain du Michigan, l'assaillant tué",
+    "added_at": "2026-03-12T18:51:25.823Z"
+  },
+  {
+    "title": "La cellule \"anti-harcèlement\" du CHUV croule sous les signalements de comportements problématiques",
+    "added_at": "2026-03-12T19:06:31.160Z"
+  },
+  {
+    "title": "Podcast - Pétrole: pourquoi les prix s'envolent ?",
+    "added_at": "2026-03-12T19:17:56.414Z"
+  },
+  {
+    "title": "Les chats retombent toujours sur leurs pattes, mais à quel prix ?",
+    "added_at": "2026-03-12T19:17:56.414Z"
+  },
+  {
+    "title": "Israël menace de \"prendre des territoires\" au Liban",
+    "added_at": "2026-03-12T19:31:15.214Z"
   }
 ]
