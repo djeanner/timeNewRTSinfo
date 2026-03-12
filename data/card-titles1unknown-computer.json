@@ -10604,7 +10604,10 @@
   },
   {
     "title": "Une rupture de conduite perturbe l'approvisionnement en eau dans l'Ouest lausannois",
-    "added_at": "2026-03-11T15:56:04.671Z"
+    "added_at": "2026-03-11T15:56:04.671Z",
+    "removed_at": "2026-03-12T00:22:09.619Z",
+    "duration_minutes": 506,
+    "duration_str": "8h 26m"
   },
   {
     "title": "Deux mineurs qui tentaient de fuir un contrôle de police ont provoqué un accident mortel dans le canton de Vaud",
@@ -10682,5 +10685,9 @@
   {
     "title": "Le PLR Vaud confirme son soutien à l'UDC Jean-François Thuillard au 2e tour de l'élection au Conseil d'Etat",
     "added_at": "2026-03-11T21:58:05.679Z"
+  },
+  {
+    "title": "L'approvisionnement en eau a pu être rétabli dans l'Ouest lausannois après une rupture de conduite",
+    "added_at": "2026-03-12T00:22:09.619Z"
   }
 ]
