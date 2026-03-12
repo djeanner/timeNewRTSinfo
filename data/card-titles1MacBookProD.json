@@ -65224,7 +65224,10 @@
   },
   {
     "title": "L'ambassade suisse à Téhéran ferme temporairement à cause de la guerre, le personnel évacué",
-    "added_at": "2026-03-11T15:32:32.106Z"
+    "added_at": "2026-03-11T15:32:32.106Z",
+    "removed_at": "2026-03-12T01:34:26.621Z",
+    "duration_minutes": 601,
+    "duration_str": "10h 1m"
   },
   {
     "title": "Drame à Chiètres (FR)",
@@ -65232,7 +65235,10 @@
   },
   {
     "title": "Une rupture de conduite perturbe l'approvisionnement en eau dans l'Ouest lausannois",
-    "added_at": "2026-03-11T15:54:21.348Z"
+    "added_at": "2026-03-11T15:54:21.348Z",
+    "removed_at": "2026-03-12T00:21:47.555Z",
+    "duration_minutes": 507,
+    "duration_str": "8h 27m"
   },
   {
     "title": "Deux mineurs qui tentaient de fuir un contrôle de police ont provoqué un accident mortel dans le canton de Vaud",
@@ -65303,5 +65309,13 @@
   {
     "title": "Le PLR Vaud confirme son soutien à l'UDC Jean-François Thuillard au 2e tour de l'élection au Conseil d'Etat",
     "added_at": "2026-03-11T21:58:32.316Z"
+  },
+  {
+    "title": "L'approvisionnement en eau a pu être rétabli dans l'Ouest lausannois après une rupture de conduite",
+    "added_at": "2026-03-12T00:21:47.555Z"
+  },
+  {
+    "title": "Donald Trump affirme que l'Iran est \"proche de la défaite\"",
+    "added_at": "2026-03-12T01:27:10.028Z"
   }
 ]
