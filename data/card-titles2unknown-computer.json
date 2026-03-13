@@ -8322,7 +8322,10 @@
   },
   {
     "title": "sport:::Battre un record ou respecter le sport? Les 83 points de Bam Adebayo divisent la NBA",
-    "added_at": "2026-03-12T17:01:13.355Z"
+    "added_at": "2026-03-12T17:01:13.355Z",
+    "removed_at": "2026-03-13T06:08:21.024Z",
+    "duration_minutes": 787,
+    "duration_str": "13h 7m"
   },
   {
     "title": "cyber:::«Avec le développement du SDSC, Lausanne devient un centre majeur en intelligence artificielle»",
@@ -8345,7 +8348,10 @@
   },
   {
     "title": "economie:::Malgré les négociations sur les droits de douane, la Suisse est visée par une enquête américaine pour pratique commerciale déloyale",
-    "added_at": "2026-03-12T19:33:05.674Z"
+    "added_at": "2026-03-12T19:33:05.674Z",
+    "removed_at": "2026-03-13T06:08:21.024Z",
+    "duration_minutes": 635,
+    "duration_str": "10h 35m"
   },
   {
     "title": "monde:::Dans la peau d’une Hongkongaise traquée par Pékin jusqu’à Londres",
@@ -8360,11 +8366,17 @@
   },
   {
     "title": "culture:::Le Musée Barbier-Mueller fait danser les esprits de la cave au grenier",
-    "added_at": "2026-03-12T20:43:21.560Z"
+    "added_at": "2026-03-12T20:43:21.560Z",
+    "removed_at": "2026-03-13T06:48:06.332Z",
+    "duration_minutes": 604,
+    "duration_str": "10h 4m"
   },
   {
     "title": "culture:::Après Vidy, Vevey et Sierre, Muriel Imbach questionne la famille à travers 100 enfants à Genève",
-    "added_at": "2026-03-12T20:43:21.560Z"
+    "added_at": "2026-03-12T20:43:21.560Z",
+    "removed_at": "2026-03-13T07:39:12.146Z",
+    "duration_minutes": 655,
+    "duration_str": "10h 55m"
   },
   {
     "title": "monde:::Visite d’un centre d’arnaques en ligne à la frontière entre le Cambodge et la Thaïlande",
@@ -8393,7 +8405,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Un militaire français est mort lors d’une attaque au Kurdistan irakien",
-    "added_at": "2026-03-13T04:35:22.941Z"
+    "added_at": "2026-03-13T04:35:22.941Z",
+    "removed_at": "2026-03-13T06:36:45.707Z",
+    "duration_minutes": 121,
+    "duration_str": "2h 1m"
   },
   {
     "title": "suisse:::Délinquance de rue, sévérité des peines, victimes sans-papiers, priorités du parquet: les sujets qui opposent Olivier Jornot et Pierre Bayenet",
@@ -8406,5 +8421,35 @@
   {
     "title": "economie:::Le propriétaire de PrimeEnergy soupçonné d’avoir tenté de mettre des actifs à l’abri",
     "added_at": "2026-03-13T05:30:19.734Z"
+  },
+  {
+    "title": "monde:::En Israël, les «enfants de la frontière» avec le Liban divisés sur la fin prochaine du Hezbollah",
+    "added_at": "2026-03-13T06:08:21.024Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L'Iran promet une réponse «plus cinglante» qu'en janvier en cas de nouvelles manifestations",
+    "added_at": "2026-03-13T06:36:45.707Z",
+    "removed_at": "2026-03-13T07:27:51.779Z",
+    "duration_minutes": 51,
+    "duration_str": "51m"
+  },
+  {
+    "title": "cyber:::Des comptes pour les moins de 13 ans sur WhatsApp: le cynisme de la tech vis-à-vis des enfants atteint son paroxysme",
+    "added_at": "2026-03-13T06:48:06.332Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Israël bombarde des infrastructures du régime iranien à Téhéran",
+    "added_at": "2026-03-13T07:27:51.779Z",
+    "removed_at": "2026-03-13T07:54:19.160Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "sport:::Ralf Etienne, le banquier qui offre à Haïti son premier billet pour les Paralympiques d’hiver",
+    "added_at": "2026-03-13T07:39:12.146Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Israël bombarde des infrastructures du régime à Téhéran, un avion ravitailleur américain s’écrase en Irak",
+    "added_at": "2026-03-13T07:54:19.160Z"
   }
 ]
