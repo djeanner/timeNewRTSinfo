@@ -177407,7 +177407,10 @@
   },
   {
     "title": "Israeli home damaged by Hezbollah rocket",
-    "added_at": "2026-03-12T18:11:19.615Z"
+    "added_at": "2026-03-12T18:11:19.615Z",
+    "removed_at": "2026-03-13T17:53:59.633Z",
+    "duration_minutes": 1422,
+    "duration_str": "23h 42m"
   },
   {
     "title": "Major weather pattern shift coming",
@@ -177475,7 +177478,10 @@
   },
   {
     "title": "Suspect dead after car drives into Detroit-area synagogue",
-    "added_at": "2026-03-12T19:04:33.860Z"
+    "added_at": "2026-03-12T19:04:33.860Z",
+    "removed_at": "2026-03-13T17:51:32.935Z",
+    "duration_minutes": 1366,
+    "duration_str": "22h 46m"
   },
   {
     "title": "Sen. Gillibrand grills commander over strike on Iran school",
@@ -177704,10 +177710,7 @@
   },
   {
     "title": "Suspect in fatal ODU shooting served prison time for trying to help ISIS",
-    "added_at": "2026-03-13T04:59:50.427Z",
-    "removed_at": "2026-03-13T16:40:41.574Z",
-    "duration_minutes": 700,
-    "duration_str": "11h 40m"
+    "added_at": "2026-03-13T04:59:50.427Z"
   },
   {
     "title": "US Air Force refueling plane crashes over Iraq, at least five crew on board",
@@ -177779,7 +177782,10 @@
   },
   {
     "title": "Shooting suspect served in prison for trying to aid ISIS",
-    "added_at": "2026-03-13T09:17:43.201Z"
+    "added_at": "2026-03-13T09:17:43.201Z",
+    "removed_at": "2026-03-13T19:28:52.043Z",
+    "duration_minutes": 611,
+    "duration_str": "10h 11m"
   },
   {
     "title": "Michelin star chef resigns after abuse allegations",
@@ -177910,7 +177916,10 @@
   },
   {
     "title": "Israel sees ‘window of opportunity’ to end Hezbollah threat on northern border",
-    "added_at": "2026-03-13T12:12:56.771Z"
+    "added_at": "2026-03-13T12:12:56.771Z",
+    "removed_at": "2026-03-13T17:36:55.118Z",
+    "duration_minutes": 323,
+    "duration_str": "5h 23m"
   },
   {
     "title": "4 US crew killed in KC-135 crash in Iraq",
@@ -178039,7 +178048,10 @@
   },
   {
     "title": "UAE charges 21 people with cybercrimes for filming and sharing missile strike footage",
-    "added_at": "2026-03-13T16:40:41.574Z"
+    "added_at": "2026-03-13T16:40:41.574Z",
+    "removed_at": "2026-03-13T16:55:28.412Z",
+    "duration_minutes": 14,
+    "duration_str": "14m"
   },
   {
     "title": "Cuban president says talks held with US amid intense pressure from Trump",
@@ -178048,5 +178060,28 @@
   {
     "title": "Harry Styles proves that ‘It-bags’ are for the boys, too",
     "added_at": "2026-03-13T16:40:41.574Z"
+  },
+  {
+    "title": "UAE charges 21 people with cybercrimes for filming and sharing missile strike footage: advocacy group",
+    "added_at": "2026-03-13T16:55:28.412Z",
+    "removed_at": "2026-03-13T18:57:17.949Z",
+    "duration_minutes": 121,
+    "duration_str": "2h 1m"
+  },
+  {
+    "title": "Israel sees ‘window of opportunity’ to end Hezbollah threat",
+    "added_at": "2026-03-13T17:36:55.118Z"
+  },
+  {
+    "title": "Strike in Southern Lebanon kills five children",
+    "added_at": "2026-03-13T17:51:32.935Z"
+  },
+  {
+    "title": "US temporarily lifts sanctions on Russian oil stranded at sea",
+    "added_at": "2026-03-13T17:53:59.633Z"
+  },
+  {
+    "title": "British man charged with cybercrimes for allegedly filming missile strikes in Dubai, UK authorities confirm",
+    "added_at": "2026-03-13T18:57:17.949Z"
   }
 ]
