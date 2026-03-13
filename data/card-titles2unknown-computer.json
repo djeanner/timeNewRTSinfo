@@ -8443,7 +8443,10 @@
   },
   {
     "title": "suisse:::Portraits croisés des deux candidats au poste de procureur général à Genève",
-    "added_at": "2026-03-13T05:09:27.927Z"
+    "added_at": "2026-03-13T05:09:27.927Z",
+    "removed_at": "2026-03-13T20:27:25.143Z",
+    "duration_minutes": 917,
+    "duration_str": "15h 17m"
   },
   {
     "title": "economie:::Le propriétaire de PrimeEnergy soupçonné d’avoir tenté de mettre des actifs à l’abri",
@@ -8561,7 +8564,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Russie «se trompe» si elle espère «un répit» lié à la guerre en Iran, affirme Emmanuel Macron",
-    "added_at": "2026-03-13T13:12:58.380Z"
+    "added_at": "2026-03-13T13:12:58.380Z",
+    "removed_at": "2026-03-13T20:31:10.434Z",
+    "duration_minutes": 438,
+    "duration_str": "7h 18m"
   },
   {
     "title": "sport:::A Courchevel, Marco Odermatt engrange deux globes de cristal de plus et Niels Hintermann range ses skis",
@@ -8631,7 +8637,10 @@
   },
   {
     "title": "monde:::En direct – Washington offre 10 millions de dollars contre des informations sur les dirigeants iraniens",
-    "added_at": "2026-03-13T18:16:25.470Z"
+    "added_at": "2026-03-13T18:16:25.470Z",
+    "removed_at": "2026-03-13T20:44:29.118Z",
+    "duration_minutes": 148,
+    "duration_str": "2h 28m"
   },
   {
     "title": "economie:::«C’est un marché construit sur le relationnel»: la guerre au Moyen-Orient, un test de résistance à ciel ouvert pour toute l’industrie horlogère suisse",
@@ -8650,5 +8659,17 @@
   {
     "title": "sciences:::Mark Thomson, nouveau patron du CERN: «Toutes les particules de l’Univers ressentent la présence du boson de Higgs, c’est ce qui leur confère leur masse»",
     "added_at": "2026-03-13T19:24:40.069Z"
+  },
+  {
+    "title": "cyber:::L’interdiction des réseaux sociaux pour les jeunes est très loin d’avoir les effets espérés, et c’est un avertissement pour la Suisse",
+    "added_at": "2026-03-13T20:27:25.143Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – La Russie «se trompe» si elle espère «un répit» lié à la guerre en Iran, affirme Emmanuel Macron",
+    "added_at": "2026-03-13T20:31:10.434Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Washington offre 10 millions de dollars contre des informations sur les dirigeants iraniens",
+    "added_at": "2026-03-13T20:44:29.118Z"
   }
 ]

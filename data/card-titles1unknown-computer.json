@@ -10795,7 +10795,10 @@
   },
   {
     "title": "Drame à Chiètres (FR)",
-    "added_at": "2026-03-11T15:38:53.090Z"
+    "added_at": "2026-03-11T15:38:53.090Z",
+    "removed_at": "2026-03-13T22:04:04.980Z",
+    "duration_minutes": 3265,
+    "duration_str": "2d 6h 25m"
   },
   {
     "title": "Une rupture de conduite perturbe l'approvisionnement en eau dans l'Ouest lausannois",
@@ -10859,7 +10862,10 @@
   },
   {
     "title": "Après le drame, les habitants de Chiètres (FR) sont sous le choc",
-    "added_at": "2026-03-11T17:23:06.872Z"
+    "added_at": "2026-03-11T17:23:06.872Z",
+    "removed_at": "2026-03-13T20:02:43.442Z",
+    "duration_minutes": 3039,
+    "duration_str": "2d 2h 39m"
   },
   {
     "title": "Plus de 75% des espèces animales affectées par les vagues de chaleur",
@@ -10923,7 +10929,10 @@
   },
   {
     "title": "Donald Trump affirme que l'Iran est \"proche de la défaite\"",
-    "added_at": "2026-03-12T01:26:37.851Z"
+    "added_at": "2026-03-12T01:26:37.851Z",
+    "removed_at": "2026-03-13T20:14:06.677Z",
+    "duration_minutes": 2567,
+    "duration_str": "1d 18h 47m"
   },
   {
     "title": "Le Sénégal vote une loi pour doubler les peines de prison contre l'homosexualité",
@@ -10968,10 +10977,7 @@
   },
   {
     "title": "L’abonnement Magic Pass inclura des trajets en transports publics: interview de Sébastien Travelletti",
-    "added_at": "2026-03-12T09:03:23.224Z",
-    "removed_at": "2026-03-13T16:22:31.028Z",
-    "duration_minutes": 1879,
-    "duration_str": "1d 7h 19m"
+    "added_at": "2026-03-12T09:03:23.224Z"
   },
   {
     "title": "L'ascension fulgurante de Marguerite, chanteuse pop engagée issue de la Star Academy",
@@ -11099,7 +11105,10 @@
   },
   {
     "title": "Biens juifs spoliés par les nazis: UBS cherche à éviter de nouvelles poursuites",
-    "added_at": "2026-03-12T15:03:35.727Z"
+    "added_at": "2026-03-12T15:03:35.727Z",
+    "removed_at": "2026-03-13T20:02:43.442Z",
+    "duration_minutes": 1739,
+    "duration_str": "1d 4h 59m"
   },
   {
     "title": "Christian Levrat: \"C'est une journée noire pour La Poste et pour moi aussi\"",
@@ -11375,7 +11384,10 @@
   },
   {
     "title": "Six soldats américains sont morts dans le crash de leur avion ravitailleur en Irak",
-    "added_at": "2026-03-13T14:58:56.814Z"
+    "added_at": "2026-03-13T14:58:56.814Z",
+    "removed_at": "2026-03-13T20:44:29.054Z",
+    "duration_minutes": 345,
+    "duration_str": "5h 45m"
   },
   {
     "title": "5h30 à Téhéran: un message crypté venu d'Europe",
@@ -11423,5 +11435,28 @@
   {
     "title": "Casques de ski: des normes à moderniser mais pas de protection miracle",
     "added_at": "2026-03-13T18:50:34.077Z"
+  },
+  {
+    "title": "L'approvisionnement en pétrole est très perturbé",
+    "added_at": "2026-03-13T20:02:43.442Z"
+  },
+  {
+    "title": "La guerre en Iran fait aussi grimper les prix des engrais et trembler les paysans suisses",
+    "added_at": "2026-03-13T20:14:06.677Z"
+  },
+  {
+    "title": "L'armée américaine va déployer des navires et des trouples supplémentaires au Moyen-Orient",
+    "added_at": "2026-03-13T20:44:29.054Z",
+    "removed_at": "2026-03-13T21:16:40.716Z",
+    "duration_minutes": 32,
+    "duration_str": "32m"
+  },
+  {
+    "title": "L'armée américaine va déployer des navires et des troupes supplémentaires au Moyen-Orient",
+    "added_at": "2026-03-13T21:16:40.716Z"
+  },
+  {
+    "title": "Augmenter la franchise pour réduire les primes-maladie. Idée du Conseil fédéral",
+    "added_at": "2026-03-13T21:22:22.219Z"
   }
 ]
