@@ -10508,7 +10508,10 @@
   },
   {
     "title": "Compression du son: quand la musique nous casse les oreilles",
-    "added_at": "2026-03-11T05:32:11.342Z"
+    "added_at": "2026-03-11T05:32:11.342Z",
+    "removed_at": "2026-03-13T11:13:27.597Z",
+    "duration_minutes": 3221,
+    "duration_str": "2d 5h 41m"
   },
   {
     "title": "Un car postal s'embrase au centre de Chiètres, faisant six morts. La police privilégie l'acte volontaire",
@@ -10604,7 +10607,10 @@
   },
   {
     "title": "La DGEJ victime d’un faux courrier destiné à manipuler les avocats",
-    "added_at": "2026-03-11T10:05:08.033Z"
+    "added_at": "2026-03-11T10:05:08.033Z",
+    "removed_at": "2026-03-13T12:36:47.905Z",
+    "duration_minutes": 3031,
+    "duration_str": "2d 2h 31m"
   },
   {
     "title": "Le Conseil des Etats prêt à relancer le nucléaire en Suisse",
@@ -10622,7 +10628,10 @@
   },
   {
     "title": "Plus ponctuels, les CFF ont enregistré un record d'affluence en 2025",
-    "added_at": "2026-03-11T11:07:51.382Z"
+    "added_at": "2026-03-11T11:07:51.382Z",
+    "removed_at": "2026-03-13T11:53:12.645Z",
+    "duration_minutes": 2925,
+    "duration_str": "2d 45m"
   },
   {
     "title": "L'auteur présumé de l'incendie du car serait \"connu des autorités pour des problèmes d'instabilité psychique\"",
@@ -10637,7 +10646,10 @@
   },
   {
     "title": "Roger Elsener prend la tête de la radio-télévision publique alémanique SRF",
-    "added_at": "2026-03-11T11:24:53.282Z"
+    "added_at": "2026-03-11T11:24:53.282Z",
+    "removed_at": "2026-03-13T10:47:00.580Z",
+    "duration_minutes": 2842,
+    "duration_str": "1d 23h 22m"
   },
   {
     "title": "Le président de la commune de Crans-Montana Nicolas Féraud inculpé: interview de Sébastien Fanti",
@@ -10655,7 +10667,10 @@
   },
   {
     "title": "Dans \"Petit fruit\", Marion Fayolle évoque le désir d'enfant avec poésie et délicatesse",
-    "added_at": "2026-03-11T12:34:56.321Z"
+    "added_at": "2026-03-11T12:34:56.321Z",
+    "removed_at": "2026-03-13T11:22:54.752Z",
+    "duration_minutes": 2807,
+    "duration_str": "1d 22h 47m"
   },
   {
     "title": "Le \"sadique de Romont\" se voit refuser par le Tribunal fédéral une sortie accompagnée",
@@ -10716,7 +10731,10 @@
   },
   {
     "title": "Hommage à Eliane Radigue, pionnière française des musiques électroniques",
-    "added_at": "2026-03-11T14:04:09.898Z"
+    "added_at": "2026-03-11T14:04:09.898Z",
+    "removed_at": "2026-03-13T11:56:59.579Z",
+    "duration_minutes": 2752,
+    "duration_str": "1d 21h 52m"
   },
   {
     "title": "Emission spéciale - En direct, avec rattrapage",
@@ -10997,10 +11015,7 @@
   },
   {
     "title": "Dans son premier message, le nouveau guide suprême iranien appelle à maintenir fermé le détroit d'Ormuz",
-    "added_at": "2026-03-12T13:42:06.577Z",
-    "removed_at": "2026-03-12T19:33:05.620Z",
-    "duration_minutes": 350,
-    "duration_str": "5h 50m"
+    "added_at": "2026-03-12T13:42:06.577Z"
   },
   {
     "title": "Le tunnel ferroviaire de la Furka fermé jusqu'à vendredi après un incident impliquant un camion",
@@ -11152,7 +11167,10 @@
   },
   {
     "title": "Greffé du cœur, Bertrand Dumoulin témoigne de son parcours du combattant",
-    "added_at": "2026-03-13T06:04:30.491Z"
+    "added_at": "2026-03-13T06:04:30.491Z",
+    "removed_at": "2026-03-13T11:21:04.563Z",
+    "duration_minutes": 316,
+    "duration_str": "5h 16m"
   },
   {
     "title": "Un homme s'est immolé dans un car postal à Chiètres, faisant six morts, dont lui-même",
@@ -11185,5 +11203,43 @@
   {
     "title": "A 26 ans, Julie Böhning fonce à la conquête de l'industrie spatiale suisse",
     "added_at": "2026-03-13T10:20:18.850Z"
+  },
+  {
+    "title": "400 francs au lieu de 300, le Conseil fédéral veut augmenter la franchise minimale de l'assurance maladie",
+    "added_at": "2026-03-13T10:47:00.580Z"
+  },
+  {
+    "title": "L'invitée de La Matinale (vidéo) - Julie Böhning, CEO et cofondatrice de Pave Space",
+    "added_at": "2026-03-13T11:21:04.563Z"
+  },
+  {
+    "title": "Marco Odermatt s'assure le Globe du général et celui de la descente",
+    "added_at": "2026-03-13T11:22:54.752Z"
+  },
+  {
+    "title": "Le Conseil fédéral demande une rallonge de 98 millions pour son budget 2026",
+    "added_at": "2026-03-13T11:53:12.645Z"
+  },
+  {
+    "title": "Niels Hinterman met un terme à sa carrière",
+    "added_at": "2026-03-13T11:56:59.579Z",
+    "removed_at": "2026-03-13T12:00:49.740Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "Niels Hintermann met un terme à sa carrière",
+    "added_at": "2026-03-13T12:00:49.740Z",
+    "removed_at": "2026-03-13T12:08:21.574Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Niels Hintermann met un terme à sa carrière. \"Je ne veux plus risquer ma vie\"",
+    "added_at": "2026-03-13T12:08:21.574Z"
+  },
+  {
+    "title": "\"La Maison des femmes\" de Mélisa Godet, un film lumineux et nécessaire",
+    "added_at": "2026-03-13T12:36:47.905Z"
   }
 ]
