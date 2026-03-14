@@ -65622,11 +65622,17 @@
   },
   {
     "title": "L’abonnement Magic Pass inclura des trajets en transports publics: interview de Sébastien Travelletti",
-    "added_at": "2026-03-12T09:03:52.222Z"
+    "added_at": "2026-03-12T09:03:52.222Z",
+    "removed_at": "2026-03-14T19:02:04.468Z",
+    "duration_minutes": 3478,
+    "duration_str": "2d 9h 58m"
   },
   {
     "title": "L'ascension fulgurante de Marguerite, chanteuse pop engagée issue de la Star Academy",
-    "added_at": "2026-03-12T09:06:20.796Z"
+    "added_at": "2026-03-12T09:06:20.796Z",
+    "removed_at": "2026-03-14T20:03:03.097Z",
+    "duration_minutes": 3536,
+    "duration_str": "2d 10h 56m"
   },
   {
     "title": "L'arrachage de vignes en Valais privé d'un soutien supplémentaire en Valais",
@@ -65768,11 +65774,17 @@
   },
   {
     "title": "A 3000 mètres d'altitude, le Titlis accueille l'un des chantiers les plus hauts d'Europe",
-    "added_at": "2026-03-12T14:46:41.957Z"
+    "added_at": "2026-03-12T14:46:41.957Z",
+    "removed_at": "2026-03-14T18:57:13.048Z",
+    "duration_minutes": 3130,
+    "duration_str": "2d 4h 10m"
   },
   {
     "title": "Les camps de vacances des enfants peuvent être déduits des impôts, décide le Tribunal fédéral",
-    "added_at": "2026-03-12T14:46:41.957Z"
+    "added_at": "2026-03-12T14:46:41.957Z",
+    "removed_at": "2026-03-14T17:29:33.468Z",
+    "duration_minutes": 3042,
+    "duration_str": "2d 2h 42m"
   },
   {
     "title": "Avec \"Orwell 2+2=5\", le réalisateur Raoul Peck livre un documentaire qui pousse à l'action",
@@ -66227,7 +66239,10 @@
   },
   {
     "title": "A la troisième semaine de guerre au Moyen-Orient, Donald Trump menace les sites pétroliers sur l'île de Kharg",
-    "added_at": "2026-03-14T12:07:47.832Z"
+    "added_at": "2026-03-14T12:07:47.832Z",
+    "removed_at": "2026-03-14T17:27:11.035Z",
+    "duration_minutes": 319,
+    "duration_str": "5h 19m"
   },
   {
     "title": "Le canton de Berne va installer des containers pour désengorger ses prisons",
@@ -66285,10 +66300,7 @@
   },
   {
     "title": "L'homme qui s'est immolé par le feu dans un bus à Chiètres était désespéré, mais pas agressif, selon le Tages-Anzeiger",
-    "added_at": "2026-03-14T16:01:54.605Z",
-    "removed_at": "2026-03-14T16:18:50.658Z",
-    "duration_minutes": 16,
-    "duration_str": "16m"
+    "added_at": "2026-03-14T16:01:54.605Z"
   },
   {
     "title": "Les infrastructures militaires de l'île stratégique de Kharg frappées",
@@ -66301,5 +66313,35 @@
   {
     "title": "Vaste coup de filet contre la DZ Mafia en France: 26 mises en examen, dont un avocat",
     "added_at": "2026-03-14T16:35:53.245Z"
+  },
+  {
+    "title": "Donald Trump exhrte d'autres pays à envoyer des navires de guerre pour sécuriser le détroit d'Ormuz",
+    "added_at": "2026-03-14T17:27:11.035Z",
+    "removed_at": "2026-03-14T17:39:19.598Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "Et si une femme se cachait derrière le génie de Shakespeare?",
+    "added_at": "2026-03-14T17:29:33.468Z"
+  },
+  {
+    "title": "Donald Trump exhorte d'autres pays à envoyer des navires de guerre pour sécuriser le détroit d'Ormuz",
+    "added_at": "2026-03-14T17:39:19.598Z"
+  },
+  {
+    "title": "Plusieurs centaines de personnes dans les rues de Genève contre plusieurs \"guerres impérialistes\"",
+    "added_at": "2026-03-14T18:57:13.048Z",
+    "removed_at": "2026-03-14T19:55:44.898Z",
+    "duration_minutes": 58,
+    "duration_str": "58m"
+  },
+  {
+    "title": "Plusieurs centaines de personnes battent le pavé à Genève contre plusieurs guerres impérialistes",
+    "added_at": "2026-03-14T19:55:44.898Z"
+  },
+  {
+    "title": "Le Conseil fédéral rejette deux demandes de survol américaines en raison de la neutralité",
+    "added_at": "2026-03-14T20:03:03.097Z"
   }
 ]
