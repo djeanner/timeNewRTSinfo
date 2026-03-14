@@ -9246,7 +9246,10 @@
   },
   {
     "title": "North Korea fires ballistic missiles as US-South Korea hold military drills",
-    "added_at": "2026-03-14T09:16:50.889Z"
+    "added_at": "2026-03-14T09:16:50.889Z",
+    "removed_at": "2026-03-14T10:10:02.485Z",
+    "duration_minutes": 53,
+    "duration_str": "53m"
   },
   {
     "title": "Analysts say US threat of ‘no quarter’ for Iran violates international law",
@@ -9255,5 +9258,23 @@
   {
     "title": "Yemeni ports face shipping fee hike amid Iran conflict",
     "added_at": "2026-03-14T09:58:30.104Z"
+  },
+  {
+    "title": "China edge Taiwan 2-0 in extra-time to reach Women’s Asian Cup semifinals",
+    "added_at": "2026-03-14T10:10:02.485Z",
+    "removed_at": "2026-03-14T10:13:49.707Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "China edge Taiwan 2-0 in extra time to reach Women’s Asian Cup semifinals",
+    "added_at": "2026-03-14T10:13:49.707Z",
+    "removed_at": "2026-03-14T10:40:23.577Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "China beat Taiwan 2-0 in extra time to reach Women’s Asian Cup semifinals",
+    "added_at": "2026-03-14T10:40:23.577Z"
   }
 ]

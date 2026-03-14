@@ -8569,7 +8569,10 @@
   },
   {
     "title": "suisse:::Primes maladie: la franchise minimale à l’heure du pilotage automatique",
-    "added_at": "2026-03-13T12:34:57.350Z"
+    "added_at": "2026-03-13T12:34:57.350Z",
+    "removed_at": "2026-03-14T10:17:39.878Z",
+    "duration_minutes": 1302,
+    "duration_str": "21h 42m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Russie «se trompe» si elle espère «un répit» lié à la guerre en Iran, affirme Emmanuel Macron",
@@ -8715,5 +8718,9 @@
   {
     "title": "culture:::Avec «La Fille de sel», Sonia Zoran signe un roman sensible en forme d’hommage à un père mutique sur son passé",
     "added_at": "2026-03-14T09:33:51.800Z"
+  },
+  {
+    "title": "sport:::James Gibson, entraîneur de natation: «Il y a un chaos productif dans toutes les équipes qui gagnent»",
+    "added_at": "2026-03-14T10:17:39.878Z"
   }
 ]
