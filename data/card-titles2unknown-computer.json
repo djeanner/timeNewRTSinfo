@@ -8731,10 +8731,7 @@
   },
   {
     "title": "suisse:::A Crans-Montana, dans cette ville qui a voulu rester un village",
-    "added_at": "2026-03-14T07:23:02.349Z",
-    "removed_at": "2026-03-14T17:22:27.272Z",
-    "duration_minutes": 599,
-    "duration_str": "9h 59m"
+    "added_at": "2026-03-14T07:23:02.349Z"
   },
   {
     "title": "culture:::Avec «La Fille de sel», Sonia Zoran signe un roman sensible en forme d’hommage à un père mutique sur son passé",
@@ -8742,14 +8739,14 @@
   },
   {
     "title": "sport:::James Gibson, entraîneur de natation: «Il y a un chaos productif dans toutes les équipes qui gagnent»",
-    "added_at": "2026-03-14T10:17:39.878Z"
+    "added_at": "2026-03-14T10:17:39.878Z",
+    "removed_at": "2026-03-14T20:39:37.715Z",
+    "duration_minutes": 621,
+    "duration_str": "10h 21m"
   },
   {
     "title": "monde:::«Je ne voterai jamais pour la gauche»: un maire RN à Marseille avant un président à l’Elysée?",
-    "added_at": "2026-03-14T12:35:59.836Z",
-    "removed_at": "2026-03-14T18:17:26.661Z",
-    "duration_minutes": 341,
-    "duration_str": "5h 41m"
+    "added_at": "2026-03-14T12:35:59.836Z"
   },
   {
     "title": "culture:::Décès de Jürgen Habermas, grand penseur de deux siècles",
@@ -8794,7 +8791,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L'Iran annonce de nouveaux tirs de missiles sur Israël",
-    "added_at": "2026-03-14T18:17:26.661Z"
+    "added_at": "2026-03-14T18:17:26.661Z",
+    "removed_at": "2026-03-14T19:48:30.664Z",
+    "duration_minutes": 91,
+    "duration_str": "1h 31m"
   },
   {
     "title": "culture:::Au Japon, Johan Leutwiler fabrique des sabres traditionnels à l'âme valaisanne",
@@ -8803,5 +8803,16 @@
   {
     "title": "sciences:::«Les somnifères anesthésient au lieu de faire dormir: les bénéfices du sommeil ne sont pas au rendez-vous»",
     "added_at": "2026-03-14T19:18:05.899Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – La Suisse a refusé deux demandes de survol américaines en lien avec la guerre en Iran",
+    "added_at": "2026-03-14T19:48:30.664Z",
+    "removed_at": "2026-03-14T19:58:00.923Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – La Suisse a refusé deux demandes américaines de survol du territoire en lien avec la guerre en Iran",
+    "added_at": "2026-03-14T19:58:00.923Z"
   }
 ]
