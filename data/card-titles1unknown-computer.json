@@ -10833,7 +10833,10 @@
   },
   {
     "title": "Avant l'incendie du car, la police bernoise a recherché en vain l'auteur présumé, porté disparu d'un hôpital",
-    "added_at": "2026-03-11T16:16:52.314Z"
+    "added_at": "2026-03-11T16:16:52.314Z",
+    "removed_at": "2026-03-14T07:36:17.325Z",
+    "duration_minutes": 3799,
+    "duration_str": "2d 15h 19m"
   },
   {
     "title": "Des pluies acides à Téhéran après les frappes américano-israéliennes sur des dépôts pétroliers",
@@ -10928,7 +10931,10 @@
   },
   {
     "title": "L'approvisionnement en eau a pu être rétabli dans l'Ouest lausannois après une rupture de conduite",
-    "added_at": "2026-03-12T00:22:09.619Z"
+    "added_at": "2026-03-12T00:22:09.619Z",
+    "removed_at": "2026-03-14T07:15:31.158Z",
+    "duration_minutes": 3293,
+    "duration_str": "2d 6h 53m"
   },
   {
     "title": "Donald Trump affirme que l'Iran est \"proche de la défaite\"",
@@ -10964,7 +10970,10 @@
   },
   {
     "title": "\"Un prophète\", le prolongement sériel en demi-teinte du chef-d'œuvre d'Audiard ★★☆☆☆",
-    "added_at": "2026-03-12T07:09:39.399Z"
+    "added_at": "2026-03-12T07:09:39.399Z",
+    "removed_at": "2026-03-14T06:35:42.800Z",
+    "duration_minutes": 2846,
+    "duration_str": "1d 23h 26m"
   },
   {
     "title": "Epstein et la Suisse: Quels liens ?",
@@ -11475,5 +11484,35 @@
   {
     "title": "Hommage rendu aux victimes de Chiètres dans les bus fribourgeois",
     "added_at": "2026-03-13T23:18:02.453Z"
+  },
+  {
+    "title": "\"Les pays du Golfe ne s'étaient pas préparés à un tel scénario\"",
+    "added_at": "2026-03-14T06:35:42.800Z"
+  },
+  {
+    "title": "La prédation d'Epstein en Suisse, le don d'organes par amour et l'entraide entre paysans",
+    "added_at": "2026-03-14T07:15:31.158Z"
+  },
+  {
+    "title": "Au moins quatre morts dans une attaque massive russe près de Kiev",
+    "added_at": "2026-03-14T07:28:43.059Z",
+    "removed_at": "2026-03-14T07:32:33.050Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "Au moins quatre morts dans une attaque russe massive près de Kiev",
+    "added_at": "2026-03-14T07:32:33.050Z"
+  },
+  {
+    "title": "Retour de l'hiver samedi, avec de la neige attendue jusqu'à 500m par endroits",
+    "added_at": "2026-03-14T07:36:17.325Z",
+    "removed_at": "2026-03-14T07:38:13.558Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "L'hiver fait son retour avec de la neige jusqu'à 500 mètres par endroits",
+    "added_at": "2026-03-14T07:38:13.558Z"
   }
 ]
