@@ -4369,10 +4369,7 @@
   },
   {
     "title": "L’accent des autres",
-    "added_at": "2026-02-22T11:01:40.938Z",
-    "removed_at": "2026-02-24T06:01:42.428Z",
-    "duration_minutes": 2580,
-    "duration_str": "1d 19h"
+    "added_at": "2026-02-22T11:01:40.938Z"
   },
   {
     "title": "Nadja Kälin prend le bronze du 50 km!",
@@ -11409,7 +11406,10 @@
   },
   {
     "title": "A 26 ans, Julie Böhning fonce à la conquête de l'industrie spatiale suisse",
-    "added_at": "2026-03-13T10:20:18.850Z"
+    "added_at": "2026-03-13T10:20:18.850Z",
+    "removed_at": "2026-03-15T18:11:15.890Z",
+    "duration_minutes": 3350,
+    "duration_str": "2d 7h 50m"
   },
   {
     "title": "400 francs au lieu de 300, le Conseil fédéral veut augmenter la franchise minimale de l'assurance maladie",
@@ -11496,7 +11496,10 @@
   },
   {
     "title": "Entre tensions géopolitiques et mécontentement des employés, le SRC est une cible pour l'espionnage",
-    "added_at": "2026-03-13T13:33:47.532Z"
+    "added_at": "2026-03-13T13:33:47.532Z",
+    "removed_at": "2026-03-15T19:04:21.653Z",
+    "duration_minutes": 3210,
+    "duration_str": "2d 5h 30m"
   },
   {
     "title": "Le Conseil fédéral transmet le paquet des \"bilatérales III\" au Parlement",
@@ -11710,7 +11713,10 @@
   },
   {
     "title": "L'invitée de La Matinale - Julie Böhning, CEO et cofondatrice de Pave Space",
-    "added_at": "2026-03-14T14:05:06.029Z"
+    "added_at": "2026-03-14T14:05:06.029Z",
+    "removed_at": "2026-03-15T17:02:57.959Z",
+    "duration_minutes": 1617,
+    "duration_str": "1d 2h 57m"
   },
   {
     "title": "Afghanistan: une opération secrète d’exfiltration pour sauver des femmes cyclistes du régime taliban",
@@ -11892,16 +11898,38 @@
   {
     "title": "Marco Odermatt appelle la FIS à améliorer les casques de protection des skieurs: interview de Dominique Pioletti",
     "added_at": "2026-03-15T16:02:12.425Z",
-    "removed_at": "2026-03-15T16:17:20.584Z",
-    "duration_minutes": 15,
-    "duration_str": "15m"
+    "removed_at": "2026-03-15T19:04:21.653Z",
+    "duration_minutes": 182,
+    "duration_str": "3h 2m"
   },
   {
     "title": "Manifestation pro-Gaza à Genève: des vidéos accablent la police",
-    "added_at": "2026-03-15T16:34:22.897Z"
+    "added_at": "2026-03-15T16:34:22.897Z",
+    "removed_at": "2026-03-15T17:44:40.054Z",
+    "duration_minutes": 70,
+    "duration_str": "1h 10m"
   },
   {
     "title": "Battu par Young Boys, Lausanne aura besoin d'un miracle pour accrocher le top-6",
     "added_at": "2026-03-15T16:34:22.897Z"
+  },
+  {
+    "title": "Manifestation pour Gaza à Genève: des vidéos accablent la police",
+    "added_at": "2026-03-15T17:44:40.054Z"
+  },
+  {
+    "title": "Défait à Bâle, Servette ne peut plus accrocher le top-6",
+    "added_at": "2026-03-15T18:11:15.890Z",
+    "removed_at": "2026-03-15T18:51:04.418Z",
+    "duration_minutes": 39,
+    "duration_str": "39m"
+  },
+  {
+    "title": "Défait à Bâle, Servette dit au revoir au top-6",
+    "added_at": "2026-03-15T18:51:04.418Z"
+  },
+  {
+    "title": "Une participation décevante au premier tour des élections municipales en France",
+    "added_at": "2026-03-15T19:04:21.653Z"
   }
 ]

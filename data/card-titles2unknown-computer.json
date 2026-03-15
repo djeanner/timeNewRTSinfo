@@ -8707,7 +8707,10 @@
   },
   {
     "title": "cyber:::L’interdiction des réseaux sociaux pour les jeunes est très loin d’avoir les effets espérés, et c’est un avertissement pour la Suisse",
-    "added_at": "2026-03-13T20:27:25.143Z"
+    "added_at": "2026-03-13T20:27:25.143Z",
+    "removed_at": "2026-03-15T17:29:31.743Z",
+    "duration_minutes": 2702,
+    "duration_str": "1d 21h 2m"
   },
   {
     "title": "monde:::Guerre en Ukraine – La Russie «se trompe» si elle espère «un répit» lié à la guerre en Iran, affirme Emmanuel Macron",
@@ -8945,7 +8948,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les Gardiens de la Révolution menacent Benyamin Netanyahou",
-    "added_at": "2026-03-15T11:19:25.825Z"
+    "added_at": "2026-03-15T11:19:25.825Z",
+    "removed_at": "2026-03-15T18:26:29.836Z",
+    "duration_minutes": 427,
+    "duration_str": "7h 7m"
   },
   {
     "title": "culture:::A Bussigny, loin des bombes, le Festival Arkhé a ouvert une route inédite vers le Moyen-Orient",
@@ -9004,11 +9010,17 @@
   },
   {
     "title": "sport:::Paralympiques: les cinq leçons à tirer des Jeux de Milan-Cortina pour Switzerland 2038",
-    "added_at": "2026-03-15T15:03:30.391Z"
+    "added_at": "2026-03-15T15:03:30.391Z",
+    "removed_at": "2026-03-15T18:11:15.940Z",
+    "duration_minutes": 187,
+    "duration_str": "3h 7m"
   },
   {
     "title": "monde:::A la mi-journée, les élections municipales en France suscitent une mobilisation timide",
-    "added_at": "2026-03-15T15:03:30.391Z"
+    "added_at": "2026-03-15T15:03:30.391Z",
+    "removed_at": "2026-03-15T17:01:07.894Z",
+    "duration_minutes": 117,
+    "duration_str": "1h 57m"
   },
   {
     "title": "suisse:::Guerre en Iran: la Suisse fait valoir sa neutralité et restreint les survols militaires de son espace aérien",
@@ -9029,5 +9041,32 @@
   {
     "title": "sport:::Plus de 3000 membres: comment Lausanne Aquatique est devenu le plus grand club de Suisse",
     "added_at": "2026-03-15T16:41:58.006Z"
+  },
+  {
+    "title": "monde:::En France, les élections municipales suscitent une faible mobilisation",
+    "added_at": "2026-03-15T17:01:07.894Z"
+  },
+  {
+    "title": "sport:::Après une quatrième médaille pour Cuche, la Suisse boucle les Paralympiques de Milan-Cortina avec six podiums, sa meilleure moisson depuis 2002",
+    "added_at": "2026-03-15T17:29:31.743Z"
+  },
+  {
+    "title": "monde:::A Tyr, refuser de partir de peur de ne jamais revenir",
+    "added_at": "2026-03-15T18:13:10.492Z"
+  },
+  {
+    "title": "monde:::Le guide suprême de l’Iran Mojtaba Khamenei serait lié à un vaste empire immobilier",
+    "added_at": "2026-03-15T18:13:10.492Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L'aéroport de Bagdad touché par des tirs de drones et de roquettes",
+    "added_at": "2026-03-15T18:26:29.836Z",
+    "removed_at": "2026-03-15T18:28:20.046Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L'aéroport de Bagdad touché par des attaques de drones et de roquettes",
+    "added_at": "2026-03-15T18:28:20.046Z"
   }
 ]
