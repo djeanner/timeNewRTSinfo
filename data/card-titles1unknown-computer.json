@@ -11184,11 +11184,17 @@
   },
   {
     "title": "Christian Levrat: \"C'est une journée noire pour La Poste et pour moi aussi\"",
-    "added_at": "2026-03-12T15:30:14.780Z"
+    "added_at": "2026-03-12T15:30:14.780Z",
+    "removed_at": "2026-03-15T09:42:30.156Z",
+    "duration_minutes": 3972,
+    "duration_str": "2d 18h 12m"
   },
   {
     "title": "Plusieurs vols annulés à Genève Aéroport en raison de la grève des pilotes de Lufthansa",
-    "added_at": "2026-03-12T15:45:23.830Z"
+    "added_at": "2026-03-12T15:45:23.830Z",
+    "removed_at": "2026-03-15T07:33:39.800Z",
+    "duration_minutes": 3828,
+    "duration_str": "2d 15h 48m"
   },
   {
     "title": "Le bouclier fiscal vaudois fera l’objet d’un rapport spécifique de la Commission de gestion",
@@ -11227,10 +11233,7 @@
   },
   {
     "title": "Nicolas Guillou: le quotidien bouleversé d’un magistrat français sous sanctions américaines",
-    "added_at": "2026-03-12T18:23:01.550Z",
-    "removed_at": "2026-03-13T10:01:23.572Z",
-    "duration_minutes": 938,
-    "duration_str": "15h 38m"
+    "added_at": "2026-03-12T18:23:01.550Z"
   },
   {
     "title": "Pas d'aide fédérale pour les victimes de Chiètres alors que le politique débat d'un élargissement du dispositif",
@@ -11291,11 +11294,17 @@
   },
   {
     "title": "Duplantis toujours plus haut! Nouveau record à 6m31",
-    "added_at": "2026-03-12T20:33:55.683Z"
+    "added_at": "2026-03-12T20:33:55.683Z",
+    "removed_at": "2026-03-15T09:38:39.961Z",
+    "duration_minutes": 3664,
+    "duration_str": "2d 13h 4m"
   },
   {
     "title": "Pas d'aide fédérale pour les victimes de Chiètres",
-    "added_at": "2026-03-12T21:43:58.093Z"
+    "added_at": "2026-03-12T21:43:58.093Z",
+    "removed_at": "2026-03-15T08:02:07.798Z",
+    "duration_minutes": 3498,
+    "duration_str": "2d 10h 18m"
   },
   {
     "title": "Un postulat relance l'idée d'un établissement cantonal d'assurances en Valais",
@@ -11303,7 +11312,10 @@
   },
   {
     "title": "120 secondes – Pascal Zitzmann, chef de train aux CFF",
-    "added_at": "2026-03-12T22:18:02.966Z"
+    "added_at": "2026-03-12T22:18:02.966Z",
+    "removed_at": "2026-03-15T08:19:09.241Z",
+    "duration_minutes": 3481,
+    "duration_str": "2d 10h 1m"
   },
   {
     "title": "Préavis de grève de la fonction publique genevoise pour le 23 avril",
@@ -11311,7 +11323,10 @@
   },
   {
     "title": "Attaque contre une synagogue de l'Etat américain du Michigan, l'assaillant tué",
-    "added_at": "2026-03-13T05:17:04.247Z"
+    "added_at": "2026-03-13T05:17:04.247Z",
+    "removed_at": "2026-03-15T08:15:23.240Z",
+    "duration_minutes": 3058,
+    "duration_str": "2d 2h 58m"
   },
   {
     "title": "Un militaire français est mort \"lors d'une attaque\" en Irak, annonce Emmanuel Macron",
@@ -11760,5 +11775,25 @@
   {
     "title": "De la grenouille congelée au hérisson qui tousse, le rude hiver des animaux en Suisse",
     "added_at": "2026-03-15T07:05:06.189Z"
+  },
+  {
+    "title": "Un documentaire iranien et une fiction soudanaise triomphent au FIFDH",
+    "added_at": "2026-03-15T07:33:39.800Z"
+  },
+  {
+    "title": "Des formations supplémentaires seront mises en place pour les chauffeurs de CarPostal",
+    "added_at": "2026-03-15T08:02:07.798Z"
+  },
+  {
+    "title": "Une version de la Bible adaptée aux dyslexiques en projet pour 2027",
+    "added_at": "2026-03-15T08:15:23.240Z"
+  },
+  {
+    "title": "La radio genevoise One FM a fêté ses trente ans avec trente heures de direct",
+    "added_at": "2026-03-15T09:38:39.961Z"
+  },
+  {
+    "title": "La France a commencé à voter pour des municipales tendues à moins d'un an de la présidentielle",
+    "added_at": "2026-03-15T09:42:30.156Z"
   }
 ]
