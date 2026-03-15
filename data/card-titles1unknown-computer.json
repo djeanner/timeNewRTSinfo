@@ -4369,7 +4369,10 @@
   },
   {
     "title": "L’accent des autres",
-    "added_at": "2026-02-22T11:01:40.938Z"
+    "added_at": "2026-02-22T11:01:40.938Z",
+    "removed_at": "2026-03-15T19:23:31.247Z",
+    "duration_minutes": 30741,
+    "duration_str": "21d 8h 21m"
   },
   {
     "title": "Nadja Kälin prend le bronze du 50 km!",
@@ -11467,7 +11470,10 @@
   },
   {
     "title": "Une 3e médaille pour Robin Cuche en géant",
-    "added_at": "2026-03-13T13:18:38.956Z"
+    "added_at": "2026-03-13T13:18:38.956Z",
+    "removed_at": "2026-03-15T19:46:16.578Z",
+    "duration_minutes": 3267,
+    "duration_str": "2d 6h 27m"
   },
   {
     "title": "Qui se cache derrière \"V32\", cette mystérieuse radio qui diffuse des messages codés en persan?",
@@ -11662,7 +11668,10 @@
   },
   {
     "title": "Le parlement va pouvoir commencer à débattre du paquet d'accords avec l'UE",
-    "added_at": "2026-03-14T08:18:09.248Z"
+    "added_at": "2026-03-14T08:18:09.248Z",
+    "removed_at": "2026-03-15T20:03:20.149Z",
+    "duration_minutes": 2145,
+    "duration_str": "1d 11h 45m"
   },
   {
     "title": "Podcast - Philippe, tenir debout après Crans-Montana",
@@ -11930,6 +11939,39 @@
   },
   {
     "title": "Une participation décevante au premier tour des élections municipales en France",
-    "added_at": "2026-03-15T19:04:21.653Z"
+    "added_at": "2026-03-15T19:04:21.653Z",
+    "removed_at": "2026-03-15T20:27:57.975Z",
+    "duration_minutes": 83,
+    "duration_str": "1h 23m"
+  },
+  {
+    "title": "On n'a pas de pétrole mais...",
+    "added_at": "2026-03-15T19:23:31.247Z"
+  },
+  {
+    "title": "Les Jeux paralympiques 2026 se referment sur un excellent bilan suisse et des remous géopolitiques",
+    "added_at": "2026-03-15T19:46:16.578Z"
+  },
+  {
+    "title": "Le HC Bienne ne disputera pas les play-offs de National League",
+    "added_at": "2026-03-15T20:03:20.149Z"
+  },
+  {
+    "title": "Des premiers résultats aux élections municipales en France, la participation décevante",
+    "added_at": "2026-03-15T20:27:57.975Z",
+    "removed_at": "2026-03-15T20:31:48.769Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "Des premiers résultats aux élections municipales en France, le PS en tête à Paris, la participation décevante",
+    "added_at": "2026-03-15T20:31:48.769Z",
+    "removed_at": "2026-03-15T20:33:39.416Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "Des premiers résultats aux élections municipales en France, le PS en tête à Paris, participation décevante",
+    "added_at": "2026-03-15T20:33:39.416Z"
   }
 ]
