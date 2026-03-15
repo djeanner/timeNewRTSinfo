@@ -39232,10 +39232,7 @@
   },
   {
     "title": "L’accent des autres",
-    "added_at": "2025-11-23T17:05:06.125Z",
-    "removed_at": "2026-03-15T19:22:12.106Z",
-    "duration_minutes": 161417,
-    "duration_str": "112d 2h 17m"
+    "added_at": "2025-11-23T17:05:06.125Z"
   },
   {
     "title": "Une attaque israélienne visant un chef du Hezbollah à Beyrouth fait 5 morts et une trentaine de blessés",
@@ -66181,7 +66178,10 @@
   },
   {
     "title": "5h30 à Téhéran: un message crypté venu d'Europe",
-    "added_at": "2026-03-13T15:05:51.169Z"
+    "added_at": "2026-03-13T15:05:51.169Z",
+    "removed_at": "2026-03-15T22:01:07.656Z",
+    "duration_minutes": 3295,
+    "duration_str": "2d 6h 55m"
   },
   {
     "title": "Transformer son jardin en refuge pour hérissons ou insectes afin de favoriser la biodiversité",
@@ -66254,7 +66254,10 @@
   },
   {
     "title": "Drame de Chiètres: les précisions de Célia Bertholet",
-    "added_at": "2026-03-13T23:17:55.702Z"
+    "added_at": "2026-03-13T23:17:55.702Z",
+    "removed_at": "2026-03-15T22:01:07.656Z",
+    "duration_minutes": 2803,
+    "duration_str": "1d 22h 43m"
   },
   {
     "title": "Hommage rendu aux victimes de Chiètres dans les bus fribourgeois",
@@ -66607,6 +66610,17 @@
   },
   {
     "title": "Des premiers résultats aux élections municipales en France, le PS en tête à Paris, participation décevante",
-    "added_at": "2026-03-15T20:34:22.776Z"
+    "added_at": "2026-03-15T20:34:22.776Z",
+    "removed_at": "2026-03-15T21:44:16.295Z",
+    "duration_minutes": 69,
+    "duration_str": "1h 9m"
+  },
+  {
+    "title": "Le PS largement en tête à Paris, le RN confirme, LFI gagne du terrain",
+    "added_at": "2026-03-15T21:44:16.295Z"
+  },
+  {
+    "title": "Ski alpin: Camille Rast occupe la place de leader du slalom géant d’Are",
+    "added_at": "2026-03-15T22:01:07.656Z"
   }
 ]
