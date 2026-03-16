@@ -9076,7 +9076,10 @@
   },
   {
     "title": "sport:::Plus de 3000 membres: comment Lausanne Aquatique est devenu le plus grand club de Suisse",
-    "added_at": "2026-03-15T16:41:58.006Z"
+    "added_at": "2026-03-15T16:41:58.006Z",
+    "removed_at": "2026-03-16T20:08:49.033Z",
+    "duration_minutes": 1646,
+    "duration_str": "1d 3h 26m"
   },
   {
     "title": "monde:::En France, les élections municipales suscitent une faible mobilisation",
@@ -9231,10 +9234,7 @@
   },
   {
     "title": "economie:::Grosse colère des actionnaires de Haute Capital",
-    "added_at": "2026-03-16T05:41:44.614Z",
-    "removed_at": "2026-03-16T17:38:58.621Z",
-    "duration_minutes": 717,
-    "duration_str": "11h 57m"
+    "added_at": "2026-03-16T05:41:44.614Z"
   },
   {
     "title": "economie:::Décryptage – Le crédit privé expliqué en quatre questions",
@@ -9346,7 +9346,10 @@
   },
   {
     "title": "sciences:::Qui, du verre ou de l’ADN, sera le graal de l’archivage quasi infini de nos données essentielles?",
-    "added_at": "2026-03-16T18:05:29.000Z"
+    "added_at": "2026-03-16T18:05:29.000Z",
+    "removed_at": "2026-03-16T20:10:39.283Z",
+    "duration_minutes": 125,
+    "duration_str": "2h 5m"
   },
   {
     "title": "suisse:::Triazole dans le Léman: bras de fer juridique entre Lausanne et les industriels de Monthey",
@@ -9371,5 +9374,9 @@
   {
     "title": "culture:::Frédéric Lo sort un disque avec Houellebecq: «Avec Michel, il n’y avait pas de lutte d’ego»",
     "added_at": "2026-03-16T19:00:27.335Z"
+  },
+  {
+    "title": "monde:::Des Européens le martèlent: le plan pour rouvrir le détroit d'Ormuz ne sera pas une mission de l’OTAN",
+    "added_at": "2026-03-16T19:42:15.231Z"
   }
 ]
