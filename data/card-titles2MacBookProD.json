@@ -68501,7 +68501,10 @@
   },
   {
     "title": "suisse:::Bilatérales III: le Conseil fédéral adopte le paquet d’accords avec l’UE et lance la bataille politique",
-    "added_at": "2026-03-13T17:14:57.945Z"
+    "added_at": "2026-03-13T17:14:57.945Z",
+    "removed_at": "2026-03-16T11:24:45.051Z",
+    "duration_minutes": 3969,
+    "duration_str": "2d 18h 9m"
   },
   {
     "title": "economie:::La guerre au Moyen-Orient, un test de résistance à ciel ouvert pour toute l’industrie horlogère suisse",
@@ -68740,11 +68743,17 @@
   },
   {
     "title": "economie:::Face au conflit en Iran, les pays qui ont misé sur les énergies propres s’en sortent mieux",
-    "added_at": "2026-03-15T08:38:40.549Z"
+    "added_at": "2026-03-15T08:38:40.549Z",
+    "removed_at": "2026-03-16T12:22:27.190Z",
+    "duration_minutes": 1663,
+    "duration_str": "1d 3h 43m"
   },
   {
     "title": "suisse:::Après la tragédie de Chiètres, CarPostal veut renforcer la formation de ses chauffeurs",
-    "added_at": "2026-03-15T09:00:39.061Z"
+    "added_at": "2026-03-15T09:00:39.061Z",
+    "removed_at": "2026-03-16T10:36:38.972Z",
+    "duration_minutes": 1535,
+    "duration_str": "1d 1h 35m"
   },
   {
     "title": "culture:::De Porto à Lausanne, l’épopée lyrique de la soprano Ana Vieira Leite",
@@ -68797,7 +68806,10 @@
   },
   {
     "title": "culture:::Hommage à Jürgen Habermas, le plus grand esprit de notre temps",
-    "added_at": "2026-03-15T12:33:14.402Z"
+    "added_at": "2026-03-15T12:33:14.402Z",
+    "removed_at": "2026-03-16T11:24:45.051Z",
+    "duration_minutes": 1371,
+    "duration_str": "22h 51m"
   },
   {
     "title": "culture:::«Une bataille après l’autre» ou «Sinners»? Verdict durant la nuit aux Oscars",
@@ -69033,11 +69045,17 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’armée israélienne dit avoir lancé des «opérations terrestres limitées et ciblées» dans le sud du Liban",
-    "added_at": "2026-03-16T06:45:35.246Z"
+    "added_at": "2026-03-16T06:45:35.246Z",
+    "removed_at": "2026-03-16T11:48:49.851Z",
+    "duration_minutes": 303,
+    "duration_str": "5h 3m"
   },
   {
     "title": "culture:::La chanteuse folk japonaise Ichiko Aoba en concert à Lausanne, une lumière supérieure",
-    "added_at": "2026-03-16T07:50:38.149Z"
+    "added_at": "2026-03-16T07:50:38.149Z",
+    "removed_at": "2026-03-16T10:29:25.661Z",
+    "duration_minutes": 158,
+    "duration_str": "2h 38m"
   },
   {
     "title": "suisse:::Le Conseil fédéral met en garde contre les conséquences de l’initiative «Pas de Suisse à 10 millions!»",
@@ -69046,5 +69064,31 @@
   {
     "title": "economie:::L’appréciation du franc suisse: une tendance séculaire",
     "added_at": "2026-03-16T09:12:20.792Z"
+  },
+  {
+    "title": "culture:::Loris Mittaz, la clarté au bout des doigts",
+    "added_at": "2026-03-16T10:29:25.661Z"
+  },
+  {
+    "title": "culture:::Salon du livre de Genève: 25 rencontres et ateliers à ne pas manquer",
+    "added_at": "2026-03-16T11:24:45.051Z"
+  },
+  {
+    "title": "culture:::Laure Adler: «Simone de Beauvoir m’a donné la force de faire le mur»",
+    "added_at": "2026-03-16T11:27:09.857Z",
+    "removed_at": "2026-03-16T12:29:40.614Z",
+    "duration_minutes": 62,
+    "duration_str": "1h 2m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – La guerre au Moyen-Orient «n’a rien à voir avec l’OTAN», affirme l’Allemagne",
+    "added_at": "2026-03-16T11:48:49.851Z",
+    "removed_at": "2026-03-16T12:29:40.614Z",
+    "duration_minutes": 40,
+    "duration_str": "40m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – La guerre contre l’Iran «n’a rien à voir avec l’OTAN», affirme l’Allemagne",
+    "added_at": "2026-03-16T12:29:40.614Z"
   }
 ]
