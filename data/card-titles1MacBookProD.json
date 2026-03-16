@@ -66039,7 +66039,10 @@
   },
   {
     "title": "A la Ferme des Tilleuls de Renens, \"Maisons-mères\" dévoile l'architecture sans architectes",
-    "added_at": "2026-03-13T10:16:00.387Z"
+    "added_at": "2026-03-13T10:16:00.387Z",
+    "removed_at": "2026-03-16T18:02:07.720Z",
+    "duration_minutes": 4786,
+    "duration_str": "3d 7h 46m"
   },
   {
     "title": "A 26 ans, Julie Böhning fonce à la conquête de l'industrie spatiale suisse",
@@ -66360,11 +66363,17 @@
   },
   {
     "title": "L'hiver fait son retour avec de la neige jusqu'à 500 mètres par endroits",
-    "added_at": "2026-03-14T07:37:07.086Z"
+    "added_at": "2026-03-14T07:37:07.086Z",
+    "removed_at": "2026-03-16T16:25:40.728Z",
+    "duration_minutes": 3408,
+    "duration_str": "2d 8h 48m"
   },
   {
     "title": "Les premiers skis électriques au monde: révolution ou simple gadget?",
-    "added_at": "2026-03-14T07:49:13.627Z"
+    "added_at": "2026-03-14T07:49:13.627Z",
+    "removed_at": "2026-03-16T15:28:01.146Z",
+    "duration_minutes": 3338,
+    "duration_str": "2d 7h 38m"
   },
   {
     "title": "Le parlement va pouvoir commencer à débattre du paquet d'accords avec l'UE",
@@ -66411,15 +66420,24 @@
   },
   {
     "title": "Le canton de Berne va installer des containers pour désengorger ses prisons",
-    "added_at": "2026-03-14T12:24:45.258Z"
+    "added_at": "2026-03-14T12:24:45.258Z",
+    "removed_at": "2026-03-16T16:13:40.521Z",
+    "duration_minutes": 3108,
+    "duration_str": "2d 3h 48m"
   },
   {
     "title": "Un bateau historique de la CGN a endommagé des embarcations dans la rade de Genève",
-    "added_at": "2026-03-14T12:39:20.255Z"
+    "added_at": "2026-03-14T12:39:20.255Z",
+    "removed_at": "2026-03-16T16:49:46.002Z",
+    "duration_minutes": 3130,
+    "duration_str": "2d 4h 10m"
   },
   {
     "title": "Pour sa 9e édition, le Prémices festival mise sur la solidarité en proposant des billets suspendus",
-    "added_at": "2026-03-14T12:56:24.500Z"
+    "added_at": "2026-03-14T12:56:24.500Z",
+    "removed_at": "2026-03-16T15:30:22.152Z",
+    "duration_minutes": 3033,
+    "duration_str": "2d 2h 33m"
   },
   {
     "title": "De \"One Piece\" à \"Young Sherlock\", cinq séries à voir en ce moment ★★★★☆",
@@ -66895,5 +66913,32 @@
   {
     "title": "Les couples mariés pourront à nouveau porter le double nom de famille",
     "added_at": "2026-03-16T15:18:09.897Z"
+  },
+  {
+    "title": "Les Vert-e-s renoncent au référendum contre le plan d'économies",
+    "added_at": "2026-03-16T15:25:34.200Z",
+    "removed_at": "2026-03-16T16:04:06.751Z",
+    "duration_minutes": 38,
+    "duration_str": "38m"
+  },
+  {
+    "title": "Des billets de concert solidaires, des \"dog-teurs\" à l'hôpital et l'art de la lutherie",
+    "added_at": "2026-03-16T15:28:01.146Z"
+  },
+  {
+    "title": "Les Vert-e-s renoncent au référendum contre le plan d'économies du Conseil fédéral",
+    "added_at": "2026-03-16T16:04:06.751Z"
+  },
+  {
+    "title": "Podcast - Où en est le conflit au Moyen-Orient?",
+    "added_at": "2026-03-16T16:13:40.521Z"
+  },
+  {
+    "title": "Une chercheuse suisse développe un appareil pour prédire les naissances prématurées",
+    "added_at": "2026-03-16T16:25:40.728Z"
+  },
+  {
+    "title": "Les alliances commencent à se dessiner en vue du 2e tour des municipales françaises",
+    "added_at": "2026-03-16T16:49:46.002Z"
   }
 ]
