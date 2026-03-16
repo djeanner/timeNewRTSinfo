@@ -4369,7 +4369,10 @@
   },
   {
     "title": "L’accent des autres",
-    "added_at": "2026-02-22T11:01:40.938Z"
+    "added_at": "2026-02-22T11:01:40.938Z",
+    "removed_at": "2026-03-16T18:18:45.274Z",
+    "duration_minutes": 32117,
+    "duration_str": "22d 7h 17m"
   },
   {
     "title": "Nadja Kälin prend le bronze du 50 km!",
@@ -11411,7 +11414,10 @@
   },
   {
     "title": "A la Ferme des Tilleuls de Renens, \"Maisons-mères\" dévoile l'architecture sans architectes",
-    "added_at": "2026-03-13T10:14:37.279Z"
+    "added_at": "2026-03-13T10:14:37.279Z",
+    "removed_at": "2026-03-16T18:01:42.168Z",
+    "duration_minutes": 4787,
+    "duration_str": "3d 7h 47m"
   },
   {
     "title": "A 26 ans, Julie Böhning fonce à la conquête de l'industrie spatiale suisse",
@@ -11796,7 +11802,10 @@
   },
   {
     "title": "Un bateau historique de la CGN a endommagé des embarcations dans la rade de Genève",
-    "added_at": "2026-03-14T12:37:53.986Z"
+    "added_at": "2026-03-14T12:37:53.986Z",
+    "removed_at": "2026-03-16T16:49:47.250Z",
+    "duration_minutes": 3131,
+    "duration_str": "2d 4h 11m"
   },
   {
     "title": "Pour sa 9e édition, le Prémices festival mise sur la solidarité en proposant des billets suspendus",
@@ -12295,5 +12304,13 @@
   {
     "title": "Une chercheuse suisse développe un appareil pour prédire les naissances prématurées",
     "added_at": "2026-03-16T16:24:56.405Z"
+  },
+  {
+    "title": "Les alliances commencent à se dessiner en vue du 2e tour des municipales françaises",
+    "added_at": "2026-03-16T16:49:47.250Z"
+  },
+  {
+    "title": "Guerre au Moyen-Orient: Où en est-on ?",
+    "added_at": "2026-03-16T18:18:45.274Z"
   }
 ]
