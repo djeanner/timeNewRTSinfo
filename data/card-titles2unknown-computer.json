@@ -9097,7 +9097,10 @@
   },
   {
     "title": "monde:::A Tyr, refuser de partir de peur de ne jamais revenir",
-    "added_at": "2026-03-15T18:13:10.492Z"
+    "added_at": "2026-03-15T18:13:10.492Z",
+    "removed_at": "2026-03-17T08:05:25.441Z",
+    "duration_minutes": 2272,
+    "duration_str": "1d 13h 52m"
   },
   {
     "title": "monde:::Le guide suprême de l’Iran Mojtaba Khamenei serait lié à un vaste empire immobilier",
@@ -9380,10 +9383,7 @@
   },
   {
     "title": "monde:::Ambassadeur suisse à Téhéran: «Nous avons détruit les documents et le matériel au marteau et à la perceuse»",
-    "added_at": "2026-03-16T18:41:28.139Z",
-    "removed_at": "2026-03-17T05:16:42.473Z",
-    "duration_minutes": 635,
-    "duration_str": "10h 35m"
+    "added_at": "2026-03-16T18:41:28.139Z"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Le Kenya assure que la Russie a promis de ne plus recruter ses ressortissants",
@@ -9401,7 +9401,10 @@
   },
   {
     "title": "monde:::Des Européens le martèlent: le plan pour rouvrir le détroit d'Ormuz ne sera pas une mission de l’OTAN",
-    "added_at": "2026-03-16T19:42:15.231Z"
+    "added_at": "2026-03-16T19:42:15.231Z",
+    "removed_at": "2026-03-17T07:44:33.105Z",
+    "duration_minutes": 722,
+    "duration_str": "12h 2m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky se rendra au Royaume-Uni ce mardi, avant un déplacement à Madrid",
@@ -9412,7 +9415,10 @@
   },
   {
     "title": "sciences:::Estimant qu’elle «fait fi» de la science, un juge bloque la refonte de la politique vaccinale de l’administration Trump",
-    "added_at": "2026-03-16T22:53:44.518Z"
+    "added_at": "2026-03-16T22:53:44.518Z",
+    "removed_at": "2026-03-17T07:25:37.787Z",
+    "duration_minutes": 511,
+    "duration_str": "8h 31m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’armée israélienne bombarde Téhéran et Beyrouth, quatre morts dans une frappe sur une maison de Bagdad",
@@ -9452,5 +9458,13 @@
   {
     "title": "economie:::Trois ans après la disparition du Credit Suisse, la réglementation bancaire va être en partie ajustée",
     "added_at": "2026-03-17T06:21:06.720Z"
+  },
+  {
+    "title": "cyber:::Malgré un comité transpartisan, l’initiative «Internet» ne fait pas l’unanimité",
+    "added_at": "2026-03-17T07:25:37.787Z"
+  },
+  {
+    "title": "suisse:::Le parlement valide le plan d’économies avec des coupes de 5,2 milliards de francs",
+    "added_at": "2026-03-17T07:44:33.105Z"
   }
 ]
