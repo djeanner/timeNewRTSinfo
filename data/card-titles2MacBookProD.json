@@ -69178,7 +69178,10 @@
   },
   {
     "title": "monde:::Sur le banc des accusés à Genève, l'Iran se défend et contre-attaque",
-    "added_at": "2026-03-16T17:57:14.837Z"
+    "added_at": "2026-03-16T17:57:14.837Z",
+    "removed_at": "2026-03-17T12:05:20.779Z",
+    "duration_minutes": 1088,
+    "duration_str": "18h 8m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump dit compter sur la France et le Royaume-Uni pour l’aider à rouvrir le détroit d'Ormuz",
@@ -69189,7 +69192,10 @@
   },
   {
     "title": "suisse:::Triazole dans le Léman: bras de fer juridique entre Lausanne et les industriels de Monthey",
-    "added_at": "2026-03-16T18:07:04.788Z"
+    "added_at": "2026-03-16T18:07:04.788Z",
+    "removed_at": "2026-03-17T11:07:43.245Z",
+    "duration_minutes": 1020,
+    "duration_str": "17h"
   },
   {
     "title": "sciences:::Qui, du verre ou de l’ADN, sera le graal de l’archivage quasi infini de nos données essentielles?",
@@ -69200,11 +69206,17 @@
   },
   {
     "title": "culture:::A l’Opéra de Lausanne, «Orlando» schizophrène triomphe de ses démons",
-    "added_at": "2026-03-16T18:11:53.991Z"
+    "added_at": "2026-03-16T18:11:53.991Z",
+    "removed_at": "2026-03-17T12:12:34.085Z",
+    "duration_minutes": 1080,
+    "duration_str": "18h"
   },
   {
     "title": "suisse:::A Genève, une pétition a été déposée contre la baisse de l’aide sociale",
-    "added_at": "2026-03-16T18:16:46.897Z"
+    "added_at": "2026-03-16T18:16:46.897Z",
+    "removed_at": "2026-03-17T10:26:47.542Z",
+    "duration_minutes": 970,
+    "duration_str": "16h 10m"
   },
   {
     "title": "monde:::Ambassadeur suisse à Téhéran: «Nous avons détruit les documents et le matériel au marteau et à la perceuse»",
@@ -69281,7 +69293,10 @@
   },
   {
     "title": "economie:::L’herbe est plus verte dans la commune à côté",
-    "added_at": "2026-03-17T06:14:00.357Z"
+    "added_at": "2026-03-17T06:14:00.357Z",
+    "removed_at": "2026-03-17T11:00:30.353Z",
+    "duration_minutes": 286,
+    "duration_str": "4h 46m"
   },
   {
     "title": "economie:::Trois ans après la disparition du Credit Suisse, la réglementation bancaire va être en partie ajustée",
@@ -69310,7 +69325,10 @@
   },
   {
     "title": "sport:::La gauche et l’UDC demandent que la candidature de la Suisse aux Jeux olympiques 2038 soit soumise au référendum",
-    "added_at": "2026-03-17T09:21:39.736Z"
+    "added_at": "2026-03-17T09:21:39.736Z",
+    "removed_at": "2026-03-17T10:26:47.542Z",
+    "duration_minutes": 65,
+    "duration_str": "1h 5m"
   },
   {
     "title": "culture:::Marguerite: «J’ai eu envie de rendre hommage à Frida Kahlo»",
@@ -69329,7 +69347,10 @@
   },
   {
     "title": "monde:::En direct – L’armée israélienne dit avoir éliminé Ali Larijani, l’un des principaux dirigeants iraniens, et un général de Bassidj",
-    "added_at": "2026-03-17T09:57:45.070Z"
+    "added_at": "2026-03-17T09:57:45.070Z",
+    "removed_at": "2026-03-17T10:19:33.898Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
   },
   {
     "title": "culture:::De The Cure à Gorillaz et The Young Gods, de Katy Perry à Lorde et Theodora, le Paléo Festival dévoile une cuvée 2026 solidement charpentée",
@@ -69338,5 +69359,39 @@
   {
     "title": "suisse:::La commune de Crans-Montana ne pourra pas se porter partie civile",
     "added_at": "2026-03-17T10:07:23.921Z"
+  },
+  {
+    "title": "monde:::En direct – L’armée israélienne dit avoir éliminé Ali Larijani, l’un des principaux dirigeants iraniens, et un général du Bassidj",
+    "added_at": "2026-03-17T10:19:33.898Z"
+  },
+  {
+    "title": "sport:::Pep Guardiola se réinvente sans cesse. Son Manchester City le devra encore pour éliminer le Real Madrid",
+    "added_at": "2026-03-17T10:26:47.542Z",
+    "removed_at": "2026-03-17T11:05:16.418Z",
+    "duration_minutes": 38,
+    "duration_str": "38m"
+  },
+  {
+    "title": "sciences:::Le virus de la dengue a été détecté à Bâle, une première au nord des Alpes",
+    "added_at": "2026-03-17T11:05:16.418Z",
+    "removed_at": "2026-03-17T12:29:26.782Z",
+    "duration_minutes": 84,
+    "duration_str": "1h 24m"
+  },
+  {
+    "title": "culture:::«Un chien arrive», de Camille Ruiz: un regard neuf sur la vie",
+    "added_at": "2026-03-17T11:07:43.245Z"
+  },
+  {
+    "title": "monde:::Tué par Israël, le pilier du régime iranien Ali Larijani dénonçait en 2006 auprès du «Temps» l’attitude des Américains",
+    "added_at": "2026-03-17T12:05:20.779Z"
+  },
+  {
+    "title": "culture:::Lou Colombani, cette révélatrice de talents qui dirige le Pavillon de la danse à Genève et chérit les gestes antimissiles",
+    "added_at": "2026-03-17T12:12:34.085Z"
+  },
+  {
+    "title": "suisse:::Le Conseil des Etats taille dans les salaires minimaux cantonaux",
+    "added_at": "2026-03-17T12:29:26.782Z"
   }
 ]
