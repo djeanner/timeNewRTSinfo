@@ -9342,7 +9342,10 @@
   },
   {
     "title": "suisse:::C’est décidé: les doubles noms font leur retour pour les couples mariés",
-    "added_at": "2026-03-16T17:38:58.621Z"
+    "added_at": "2026-03-16T17:38:58.621Z",
+    "removed_at": "2026-03-17T10:06:49.281Z",
+    "duration_minutes": 987,
+    "duration_str": "16h 27m"
   },
   {
     "title": "monde:::Sur le banc des accusés à Genève pour la répression de janvier, Téhéran pointe les bombardements israélo-américains",
@@ -9371,7 +9374,10 @@
   },
   {
     "title": "suisse:::Triazole dans le Léman: bras de fer juridique entre Lausanne et les industriels de Monthey",
-    "added_at": "2026-03-16T18:07:23.273Z"
+    "added_at": "2026-03-16T18:07:23.273Z",
+    "removed_at": "2026-03-17T11:07:27.649Z",
+    "duration_minutes": 1020,
+    "duration_str": "17h"
   },
   {
     "title": "culture:::A l’Opéra de Lausanne, «Orlando» schizophrène triomphe de ses démons",
@@ -9379,7 +9385,10 @@
   },
   {
     "title": "suisse:::A Genève, une pétition a été déposée contre la baisse de l’aide sociale",
-    "added_at": "2026-03-16T18:16:51.122Z"
+    "added_at": "2026-03-16T18:16:51.122Z",
+    "removed_at": "2026-03-17T10:25:45.581Z",
+    "duration_minutes": 968,
+    "duration_str": "16h 8m"
   },
   {
     "title": "monde:::Ambassadeur suisse à Téhéran: «Nous avons détruit les documents et le matériel au marteau et à la perceuse»",
@@ -9449,22 +9458,97 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Fortes explosions à Doha et Dubaï, tandis que l’armée israélienne bombarde Téhéran et Beyrouth",
-    "added_at": "2026-03-17T06:00:20.316Z"
+    "added_at": "2026-03-17T06:00:20.316Z",
+    "removed_at": "2026-03-17T09:51:40.311Z",
+    "duration_minutes": 231,
+    "duration_str": "3h 51m"
   },
   {
     "title": "economie:::L’herbe est plus verte dans la commune à côté",
-    "added_at": "2026-03-17T06:13:32.189Z"
+    "added_at": "2026-03-17T06:13:32.189Z",
+    "removed_at": "2026-03-17T10:59:51.826Z",
+    "duration_minutes": 286,
+    "duration_str": "4h 46m"
   },
   {
     "title": "economie:::Trois ans après la disparition du Credit Suisse, la réglementation bancaire va être en partie ajustée",
-    "added_at": "2026-03-17T06:21:06.720Z"
+    "added_at": "2026-03-17T06:21:06.720Z",
+    "removed_at": "2026-03-17T09:21:16.840Z",
+    "duration_minutes": 180,
+    "duration_str": "3h"
   },
   {
     "title": "cyber:::Malgré un comité transpartisan, l’initiative «Internet» ne fait pas l’unanimité",
-    "added_at": "2026-03-17T07:25:37.787Z"
+    "added_at": "2026-03-17T07:25:37.787Z",
+    "removed_at": "2026-03-17T09:47:54.951Z",
+    "duration_minutes": 142,
+    "duration_str": "2h 22m"
   },
   {
     "title": "suisse:::Le parlement valide le plan d’économies avec des coupes de 5,2 milliards de francs",
-    "added_at": "2026-03-17T07:44:33.105Z"
+    "added_at": "2026-03-17T07:44:33.105Z",
+    "removed_at": "2026-03-17T10:03:02.521Z",
+    "duration_minutes": 138,
+    "duration_str": "2h 18m"
+  },
+  {
+    "title": "economie:::Les banques centrales au défi de l’inflation pétrolière",
+    "added_at": "2026-03-17T09:21:16.840Z"
+  },
+  {
+    "title": "sport:::La gauche et l’UDC demandent que la candidature de la Suisse aux Jeux olympiques 2038 soit soumise au référendum",
+    "added_at": "2026-03-17T09:21:16.840Z",
+    "removed_at": "2026-03-17T10:27:41.729Z",
+    "duration_minutes": 66,
+    "duration_str": "1h 6m"
+  },
+  {
+    "title": "culture:::Marguerite: «J’ai eu envie de rendre hommage à Frida Kahlo»",
+    "added_at": "2026-03-17T09:38:22.789Z"
+  },
+  {
+    "title": "suisse:::Fraude électorale à Vernier: les élus prêtent enfin serment «en espérant que ce ne soit pas pour rien»",
+    "added_at": "2026-03-17T09:47:54.951Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’armée israélienne dit avoir éliminé l'un des principaux dirigeants iraniens et un général de Bassidj",
+    "added_at": "2026-03-17T09:51:40.311Z",
+    "removed_at": "2026-03-17T09:57:21.812Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "monde:::En direct – L’armée israélienne dit avoir éliminé Ali Larijani, l’un des principaux dirigeants iraniens, et un général de Bassidj",
+    "added_at": "2026-03-17T09:57:21.812Z",
+    "removed_at": "2026-03-17T10:18:10.789Z",
+    "duration_minutes": 20,
+    "duration_str": "20m"
+  },
+  {
+    "title": "culture:::De The Cure à Gorillaz et The Young Gods, de Katy Perry à Lorde et Theodora, le Paléo Festival dévoile une cuvée 2026 solidement charpentée",
+    "added_at": "2026-03-17T10:03:02.521Z"
+  },
+  {
+    "title": "suisse:::La commune de Crans-Montana ne pourra pas se porter partie civile",
+    "added_at": "2026-03-17T10:06:49.281Z"
+  },
+  {
+    "title": "monde:::En direct – L’armée israélienne dit avoir éliminé Ali Larijani, l’un des principaux dirigeants iraniens, et un général du Bassidj",
+    "added_at": "2026-03-17T10:18:10.789Z"
+  },
+  {
+    "title": "sport:::Pep Guardiola se réinvente sans cesse. Son Manchester City le devra encore pour éliminer le Real Madrid",
+    "added_at": "2026-03-17T10:25:45.581Z",
+    "removed_at": "2026-03-17T11:03:38.529Z",
+    "duration_minutes": 37,
+    "duration_str": "37m"
+  },
+  {
+    "title": "sciences:::Le virus de la dengue a été détecté à Bâle, une première au nord des Alpes",
+    "added_at": "2026-03-17T11:03:38.529Z"
+  },
+  {
+    "title": "culture:::«Un chien arrive», de Camille Ruiz: un regard neuf sur la vie",
+    "added_at": "2026-03-17T11:07:27.649Z"
   }
 ]
