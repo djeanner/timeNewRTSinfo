@@ -66069,7 +66069,10 @@
   },
   {
     "title": "L'invitée de La Matinale (vidéo) - Julie Böhning, CEO et cofondatrice de Pave Space",
-    "added_at": "2026-03-13T11:21:38.356Z"
+    "added_at": "2026-03-13T11:21:38.356Z",
+    "removed_at": "2026-03-17T18:01:48.363Z",
+    "duration_minutes": 6160,
+    "duration_str": "4d 6h 40m"
   },
   {
     "title": "Marco Odermatt s'assure le Globe du général et celui de la descente",
@@ -66610,7 +66613,10 @@
   },
   {
     "title": "La nouvelle vie compliquée de Nicolas Guillou, le juge français effacé du monde numérique par Washington",
-    "added_at": "2026-03-15T06:34:17.049Z"
+    "added_at": "2026-03-15T06:34:17.049Z",
+    "removed_at": "2026-03-17T16:23:19.091Z",
+    "duration_minutes": 3469,
+    "duration_str": "2d 9h 49m"
   },
   {
     "title": "Un couple publie un livre sur leur expérience de la greffe de rein: interview d’Éric et Isabelle Tschopp",
@@ -66681,11 +66687,17 @@
   },
   {
     "title": "Fort danger d'avalanche, surtout au sud des Alpes, après d'importantes chutes de neige",
-    "added_at": "2026-03-15T10:28:42.938Z"
+    "added_at": "2026-03-15T10:28:42.938Z",
+    "removed_at": "2026-03-17T16:35:18.136Z",
+    "duration_minutes": 3246,
+    "duration_str": "2d 6h 6m"
   },
   {
     "title": "Donald Trump \"ne veut pas\" d'un accord avec l'Iran, Israël ne prévoit pas de négocier avec le Liban",
-    "added_at": "2026-03-15T11:58:53.138Z"
+    "added_at": "2026-03-15T11:58:53.138Z",
+    "removed_at": "2026-03-17T16:03:59.246Z",
+    "duration_minutes": 3125,
+    "duration_str": "2d 4h 5m"
   },
   {
     "title": "Olivier Jornot ou Pierre Bayenet: qui pense quoi dans ce duel pour l'élection du procureur général à Genève?",
@@ -66693,7 +66705,10 @@
   },
   {
     "title": "Le gouvernement jurassien suit une formation en management inédite",
-    "added_at": "2026-03-15T12:06:12.207Z"
+    "added_at": "2026-03-15T12:06:12.207Z",
+    "removed_at": "2026-03-17T16:18:26.815Z",
+    "duration_minutes": 3132,
+    "duration_str": "2d 4h 12m"
   },
   {
     "title": "L'acteur français Bruno Salomone est décédé à l'âge de 55 ans",
@@ -66712,7 +66727,10 @@
   },
   {
     "title": "Robin Cuche remporte une 4e médaille, le bronze en slalom",
-    "added_at": "2026-03-15T13:49:57.544Z"
+    "added_at": "2026-03-15T13:49:57.544Z",
+    "removed_at": "2026-03-17T16:47:15.813Z",
+    "duration_minutes": 3057,
+    "duration_str": "2d 2h 57m"
   },
   {
     "title": "\"Swimming with Sharks\", un thriller psychologique chez les requins d'Hollywood",
@@ -66753,7 +66771,10 @@
   },
   {
     "title": "Défait à Bâle, Servette dit au revoir au top-6",
-    "added_at": "2026-03-15T18:50:54.295Z"
+    "added_at": "2026-03-15T18:50:54.295Z",
+    "removed_at": "2026-03-17T16:32:53.144Z",
+    "duration_minutes": 2741,
+    "duration_str": "1d 21h 41m"
   },
   {
     "title": "Une participation décevante au premier tour des élections municipales en France",
@@ -66986,10 +67007,7 @@
   },
   {
     "title": "La question d'une indemnisation des victimes de Chiètres se pose à Fribourg",
-    "added_at": "2026-03-16T15:10:55.841Z",
-    "removed_at": "2026-03-17T06:18:52.333Z",
-    "duration_minutes": 907,
-    "duration_str": "15h 7m"
+    "added_at": "2026-03-16T15:10:55.841Z"
   },
   {
     "title": "Les couples mariés pourront à nouveau porter le double nom de famille",
@@ -67227,5 +67245,32 @@
   {
     "title": "La gauche fribourgeoise lance sa campagne contre le plan d'assainissement des finances de l'Etat",
     "added_at": "2026-03-17T15:27:45.695Z"
+  },
+  {
+    "title": "Jean Tschumi, un architecte visionnaire à l'honneur au mudac à Lausanne",
+    "added_at": "2026-03-17T16:18:26.815Z"
+  },
+  {
+    "title": "Pourquoi les alliés des Etats-Unis refusent d'accompagner Trump dans le Golfe",
+    "added_at": "2026-03-17T16:23:19.091Z",
+    "removed_at": "2026-03-17T17:16:08.776Z",
+    "duration_minutes": 52,
+    "duration_str": "52m"
+  },
+  {
+    "title": "Podcast - C'est quoi le syndrome du survivant?",
+    "added_at": "2026-03-17T16:32:53.144Z"
+  },
+  {
+    "title": "Partis pour un vol d'une heure, des centaines de passagers sont restés enfermés toute la nuit dans leurs avions",
+    "added_at": "2026-03-17T16:35:18.136Z"
+  },
+  {
+    "title": "Une 80e particule découverte au CERN grâce au grand collisionneur de hadrons",
+    "added_at": "2026-03-17T16:47:15.813Z"
+  },
+  {
+    "title": "Pourquoi les alliés des Etats-Unis refusent d'accompagner Donald Trump dans le Golfe",
+    "added_at": "2026-03-17T17:16:08.776Z"
   }
 ]
