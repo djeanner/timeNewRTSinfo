@@ -180440,7 +180440,10 @@
   },
   {
     "title": "Trump reveals lawmaker’s ‘terminal’ health condition",
-    "added_at": "2026-03-16T21:58:27.783Z"
+    "added_at": "2026-03-16T21:58:27.783Z",
+    "removed_at": "2026-03-17T18:33:17.762Z",
+    "duration_minutes": 1234,
+    "duration_str": "20h 34m"
   },
   {
     "title": "These films won big last night",
@@ -180458,11 +180461,17 @@
   },
   {
     "title": "Iranian strikes on UAE oil hub threaten key Strait of Hormuz bypass route",
-    "added_at": "2026-03-16T22:48:57.842Z"
+    "added_at": "2026-03-16T22:48:57.842Z",
+    "removed_at": "2026-03-17T18:42:57.047Z",
+    "duration_minutes": 1193,
+    "duration_str": "19h 53m"
   },
   {
     "title": "Bad mix of weather and TSA staffing woes add to airport delays",
-    "added_at": "2026-03-16T23:12:59.214Z"
+    "added_at": "2026-03-16T23:12:59.214Z",
+    "removed_at": "2026-03-17T19:11:51.265Z",
+    "duration_minutes": 1198,
+    "duration_str": "19h 58m"
   },
   {
     "title": "More than 200 people killed in Pakistan strike on Afghanistan hospital treating drug users",
@@ -180473,7 +180482,10 @@
   },
   {
     "title": "Trump says Newsom shouldn’t be president because he has dyslexia",
-    "added_at": "2026-03-17T00:20:28.752Z"
+    "added_at": "2026-03-17T00:20:28.752Z",
+    "removed_at": "2026-03-17T19:55:08.158Z",
+    "duration_minutes": 1174,
+    "duration_str": "19h 34m"
   },
   {
     "title": "Afghanistan says 400 people killed in Pakistan strike on Kabul hospital treating drug users",
@@ -180491,7 +180503,10 @@
   },
   {
     "title": "Total collapse of Cuba’s power system",
-    "added_at": "2026-03-17T01:01:19.137Z"
+    "added_at": "2026-03-17T01:01:19.137Z",
+    "removed_at": "2026-03-17T20:09:36.106Z",
+    "duration_minutes": 1148,
+    "duration_str": "19h 8m"
   },
   {
     "title": "A deep dive on Kharg Island following US strikes",
@@ -180990,5 +181005,29 @@
   {
     "title": "Crockett confirms man on security team killed by police",
     "added_at": "2026-03-17T17:59:27.958Z"
+  },
+  {
+    "title": "Can AI accurately pick your March Madness bracket?",
+    "added_at": "2026-03-17T18:33:17.762Z"
+  },
+  {
+    "title": "Massive delays at ATL airport as TSA agents go without pay",
+    "added_at": "2026-03-17T18:42:57.047Z"
+  },
+  {
+    "title": "Rare fireball spotted in the sky",
+    "added_at": "2026-03-17T19:11:51.265Z"
+  },
+  {
+    "title": "Trump lashes out at European allies that rejected his calls to help in Iran",
+    "added_at": "2026-03-17T19:52:46.396Z"
+  },
+  {
+    "title": "USA and Venezuela face off in world baseball classic final",
+    "added_at": "2026-03-17T19:55:08.158Z"
+  },
+  {
+    "title": "Chief Justice Roberts says hostility toward judges is dangerous",
+    "added_at": "2026-03-17T20:09:36.106Z"
   }
 ]

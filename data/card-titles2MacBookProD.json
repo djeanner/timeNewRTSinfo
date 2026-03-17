@@ -69326,7 +69326,10 @@
   },
   {
     "title": "suisse:::Le parlement valide le plan d’économies avec des coupes de 5,2 milliards de francs",
-    "added_at": "2026-03-17T07:45:30.889Z"
+    "added_at": "2026-03-17T07:45:30.889Z",
+    "removed_at": "2026-03-17T18:18:49.980Z",
+    "duration_minutes": 633,
+    "duration_str": "10h 33m"
   },
   {
     "title": "economie:::Les banques centrales au défi de l’inflation pétrolière",
@@ -69474,5 +69477,9 @@
   {
     "title": "monde:::En Iran, la guerre renforce la cohésion de la base populaire de la République islamique",
     "added_at": "2026-03-17T18:13:54.196Z"
+  },
+  {
+    "title": "suisse:::Avec ses gagnants et ses perdants, le parlement a balayé plus d’un tiers des mesures budgétaires de Karin Keller-Sutter",
+    "added_at": "2026-03-17T18:18:49.980Z"
   }
 ]
