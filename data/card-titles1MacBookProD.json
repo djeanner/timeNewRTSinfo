@@ -66411,7 +66411,10 @@
   },
   {
     "title": "Nos voitures collectent des milliers de données sur nous, qui en profite?",
-    "added_at": "2026-03-14T10:32:25.559Z"
+    "added_at": "2026-03-14T10:32:25.559Z",
+    "removed_at": "2026-03-17T01:32:31.510Z",
+    "duration_minutes": 3780,
+    "duration_str": "2d 15h"
   },
   {
     "title": "Le mimosa, une espèce invasive bien charmante qui gagne du terrain en Suisse",
@@ -66982,5 +66985,9 @@
   {
     "title": "Pourquoi le Royaume-Uni ose interdire le tabac aux nouvelles générations",
     "added_at": "2026-03-16T23:00:57.053Z"
+  },
+  {
+    "title": "Une nouvelle étude montre que les polluants éternels sont largement répandus dans les sols suisses",
+    "added_at": "2026-03-17T01:32:31.510Z"
   }
 ]
