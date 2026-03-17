@@ -11441,7 +11441,10 @@
   },
   {
     "title": "L'invitée de La Matinale (vidéo) - Julie Böhning, CEO et cofondatrice de Pave Space",
-    "added_at": "2026-03-13T11:21:04.563Z"
+    "added_at": "2026-03-13T11:21:04.563Z",
+    "removed_at": "2026-03-17T18:02:53.006Z",
+    "duration_minutes": 6161,
+    "duration_str": "4d 6h 41m"
   },
   {
     "title": "Marco Odermatt s'assure le Globe du général et celui de la descente",
@@ -11975,7 +11978,10 @@
   },
   {
     "title": "La nouvelle vie compliquée de Nicolas Guillou, le juge français effacé du monde numérique par Washington",
-    "added_at": "2026-03-15T06:32:56.719Z"
+    "added_at": "2026-03-15T06:32:56.719Z",
+    "removed_at": "2026-03-17T16:24:17.544Z",
+    "duration_minutes": 3471,
+    "duration_str": "2d 9h 51m"
   },
   {
     "title": "Un couple publie un livre sur leur expérience de la greffe de rein: interview d’Éric et Isabelle Tschopp",
@@ -12046,7 +12052,10 @@
   },
   {
     "title": "Fort danger d'avalanche, surtout au sud des Alpes, après d'importantes chutes de neige",
-    "added_at": "2026-03-15T10:28:09.370Z"
+    "added_at": "2026-03-15T10:28:09.370Z",
+    "removed_at": "2026-03-17T16:33:45.697Z",
+    "duration_minutes": 3245,
+    "duration_str": "2d 6h 5m"
   },
   {
     "title": "Donald Trump \"ne veut pas\" d'un accord avec l'Iran, Israël ne prévoit pas de négocier avec le Liban",
@@ -12083,7 +12092,10 @@
   },
   {
     "title": "Robin Cuche remporte une 4e médaille, le bronze en slalom",
-    "added_at": "2026-03-15T13:49:23.679Z"
+    "added_at": "2026-03-15T13:49:23.679Z",
+    "removed_at": "2026-03-17T16:45:06.394Z",
+    "duration_minutes": 3055,
+    "duration_str": "2d 2h 55m"
   },
   {
     "title": "\"Swimming with Sharks\", un thriller psychologique chez les requins d'Hollywood",
@@ -12124,7 +12136,10 @@
   },
   {
     "title": "Défait à Bâle, Servette dit au revoir au top-6",
-    "added_at": "2026-03-15T18:51:04.418Z"
+    "added_at": "2026-03-15T18:51:04.418Z",
+    "removed_at": "2026-03-17T16:31:55.262Z",
+    "duration_minutes": 2740,
+    "duration_str": "1d 21h 40m"
   },
   {
     "title": "Une participation décevante au premier tour des élections municipales en France",
@@ -12357,10 +12372,7 @@
   },
   {
     "title": "La question d'une indemnisation des victimes de Chiètres se pose à Fribourg",
-    "added_at": "2026-03-16T15:10:59.292Z",
-    "removed_at": "2026-03-17T06:19:12.682Z",
-    "duration_minutes": 908,
-    "duration_str": "15h 8m"
+    "added_at": "2026-03-16T15:10:59.292Z"
   },
   {
     "title": "Les couples mariés pourront à nouveau porter le double nom de famille",
@@ -12602,5 +12614,28 @@
   {
     "title": "Jean Tschumi, un architecte visionnaire à l'honneur au mudac à Lausanne",
     "added_at": "2026-03-17T16:18:26.251Z"
+  },
+  {
+    "title": "Pourquoi les alliés des Etats-Unis refusent d'accompagner Trump dans le Golfe",
+    "added_at": "2026-03-17T16:24:17.544Z",
+    "removed_at": "2026-03-17T17:17:22.695Z",
+    "duration_minutes": 53,
+    "duration_str": "53m"
+  },
+  {
+    "title": "Podcast - C'est quoi le syndrome du survivant?",
+    "added_at": "2026-03-17T16:31:55.262Z"
+  },
+  {
+    "title": "Partis pour un vol d'une heure, des centaines de passagers sont restés enfermés toute la nuit dans leurs avions",
+    "added_at": "2026-03-17T16:33:45.697Z"
+  },
+  {
+    "title": "Une 80e particule découverte au CERN grâce au grand collisionneur de hadrons",
+    "added_at": "2026-03-17T16:45:06.394Z"
+  },
+  {
+    "title": "Pourquoi les alliés des Etats-Unis refusent d'accompagner Donald Trump dans le Golfe",
+    "added_at": "2026-03-17T17:17:22.695Z"
   }
 ]
