@@ -8671,11 +8671,17 @@
   },
   {
     "title": "economie:::La guerre au Moyen-Orient, un test de résistance à ciel ouvert pour toute l’industrie horlogère suisse",
-    "added_at": "2026-03-13T18:16:25.470Z"
+    "added_at": "2026-03-13T18:16:25.470Z",
+    "removed_at": "2026-03-18T17:17:25.963Z",
+    "duration_minutes": 7141,
+    "duration_str": "4d 23h 1m"
   },
   {
     "title": "economie:::Le Moyen-Orient s’est imposé comme un nœud stratégique dans le trafic aérien mondial",
-    "added_at": "2026-03-13T18:16:25.470Z"
+    "added_at": "2026-03-13T18:16:25.470Z",
+    "removed_at": "2026-03-18T18:25:37.094Z",
+    "duration_minutes": 7209,
+    "duration_str": "5d 9m"
   },
   {
     "title": "monde:::En direct – Washington offre 10 millions de dollars contre des informations sur les dirigeants iraniens",
@@ -9722,7 +9728,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Un drone fait un mort dans le sud de la Russie, Volodymyr Zelensky se rend à Madrid",
-    "added_at": "2026-03-18T02:10:31.761Z"
+    "added_at": "2026-03-18T02:10:31.761Z",
+    "removed_at": "2026-03-18T16:30:05.072Z",
+    "duration_minutes": 859,
+    "duration_str": "14h 19m"
   },
   {
     "title": "sport:::La Coupe d’Afrique des nations retirée au Sénégal, le Maroc déclaré vainqueur",
@@ -9740,7 +9749,10 @@
   },
   {
     "title": "monde:::Joe Kent, haut responsable de l’administration Trump, démissionne à cause de la guerre en Iran: jusqu’où le camp MAGA va-t-il se fissurer?",
-    "added_at": "2026-03-18T04:28:57.844Z"
+    "added_at": "2026-03-18T04:28:57.844Z",
+    "removed_at": "2026-03-18T17:11:45.364Z",
+    "duration_minutes": 762,
+    "duration_str": "12h 42m"
   },
   {
     "title": "suisse:::Permis, inflation réglementaire et «recourite aiguë»: à Genève, champion de la pénurie de logements, construire relève du défi",
@@ -9794,7 +9806,10 @@
   },
   {
     "title": "monde:::«Ras-le-bol des travaux et des barbiers»: comment la gauche a perdu Annemasse après un demi-siècle de règne",
-    "added_at": "2026-03-18T06:37:55.033Z"
+    "added_at": "2026-03-18T06:37:55.033Z",
+    "removed_at": "2026-03-18T17:21:10.312Z",
+    "duration_minutes": 643,
+    "duration_str": "10h 43m"
   },
   {
     "title": "suisse:::Le financement de la 13e rente AVS: une partie de billard à trois bandes",
@@ -9873,7 +9888,10 @@
   },
   {
     "title": "culture:::«Palestine 36», une fiction qui remonte aux sources du conflit israélo-palestinien",
-    "added_at": "2026-03-18T13:08:51.711Z"
+    "added_at": "2026-03-18T13:08:51.711Z",
+    "removed_at": "2026-03-18T16:37:41.936Z",
+    "duration_minutes": 208,
+    "duration_str": "3h 28m"
   },
   {
     "title": "suisse:::Un mort après la chute d'une télécabine dans le domaine skiable d’Engelberg",
@@ -9907,10 +9925,55 @@
   },
   {
     "title": "sport:::«Une dépossession injustifiée!» Au Sénégal, la riposte s’organise après le retrait du titre de champion d’Afrique",
-    "added_at": "2026-03-18T15:36:53.603Z"
+    "added_at": "2026-03-18T15:36:53.603Z",
+    "removed_at": "2026-03-18T17:21:10.312Z",
+    "duration_minutes": 104,
+    "duration_str": "1h 44m"
   },
   {
     "title": "suisse:::G7 à Evian: Genève demande à la France de «s’engager» à accueillir le contre-sommet sur son sol",
     "added_at": "2026-03-18T16:01:31.217Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Moscou s'en prend au documentaire oscarisé «Mr. Nobody contre Poutine»",
+    "added_at": "2026-03-18T16:30:05.072Z"
+  },
+  {
+    "title": "culture:::«L’Homme de glace»: sur les traces de Konrad Steffen, scientifique suisse englouti par les glaces du Groenland",
+    "added_at": "2026-03-18T16:37:41.936Z"
+  },
+  {
+    "title": "economie:::Nick Hayek appelle la BNS à «être imprévisible»",
+    "added_at": "2026-03-18T17:13:35.446Z",
+    "removed_at": "2026-03-18T18:06:37.933Z",
+    "duration_minutes": 53,
+    "duration_str": "53m"
+  },
+  {
+    "title": "suisse:::Entre Berne et Moscou, un 80e anniversaire et des cachotteries",
+    "added_at": "2026-03-18T17:17:25.963Z"
+  },
+  {
+    "title": "cyber:::De Pokemon Go à Meta AI, nous sommes tous victimes de l’industrie de l’extraction de données personnelles",
+    "added_at": "2026-03-18T17:21:10.312Z",
+    "removed_at": "2026-03-18T17:59:02.744Z",
+    "duration_minutes": 37,
+    "duration_str": "37m"
+  },
+  {
+    "title": "suisse:::A Neuchâtel, «Grand Conseil», un spectacle ludique et interactif qui démystifie la politique",
+    "added_at": "2026-03-18T17:21:10.312Z"
+  },
+  {
+    "title": "cyber:::De Pokémon Go à Meta AI, nous sommes tous victimes de l’industrie de l’extraction de données personnelles",
+    "added_at": "2026-03-18T17:59:02.744Z"
+  },
+  {
+    "title": "suisse:::Le National évite l’interdiction du foie gras, mais le fossé culturel se creuse entre Romands et Alémaniques",
+    "added_at": "2026-03-18T18:06:37.933Z"
+  },
+  {
+    "title": "monde:::«Ma mère a hurlé et elle est morte»: Tamoun pleure une famille palestinienne décimée par des tirs israéliens",
+    "added_at": "2026-03-18T18:25:37.094Z"
   }
 ]
