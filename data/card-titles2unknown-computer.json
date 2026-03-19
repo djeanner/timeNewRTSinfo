@@ -9304,10 +9304,7 @@
   },
   {
     "title": "culture:::Salon du livre de Genève: 25 rencontres et ateliers à ne pas manquer",
-    "added_at": "2026-03-16T11:25:25.191Z",
-    "removed_at": "2026-03-16T16:38:14.896Z",
-    "duration_minutes": 312,
-    "duration_str": "5h 12m"
+    "added_at": "2026-03-16T11:25:25.191Z"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – La guerre au Moyen-Orient «n’a rien à voir avec l’OTAN», affirme l’Allemagne",
@@ -10268,11 +10265,17 @@
   },
   {
     "title": "suisse:::Guy Parmelin sommé de s’expliquer sur les retards de versement des indemnités chômage",
-    "added_at": "2026-03-19T15:26:40.745Z"
+    "added_at": "2026-03-19T15:26:40.745Z",
+    "removed_at": "2026-03-19T21:33:11.400Z",
+    "duration_minutes": 366,
+    "duration_str": "6h 6m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Après l'attaque iranienne, le Qatar reconnaît avoir perdu 17% de sa capacité d'exportation de gaz naturel liquéfié",
-    "added_at": "2026-03-19T15:39:59.241Z"
+    "added_at": "2026-03-19T15:39:59.241Z",
+    "removed_at": "2026-03-19T21:44:34.142Z",
+    "duration_minutes": 364,
+    "duration_str": "6h 4m"
   },
   {
     "title": "economie:::Face au renforcement du franc, la Banque nationale suisse souligne sa volonté accrue d’intervenir sur les marchés",
@@ -10309,7 +10312,10 @@
   },
   {
     "title": "culture:::«Le Temps» au Salon du livre: rencontres, débats et exposition",
-    "added_at": "2026-03-19T18:15:48.394Z"
+    "added_at": "2026-03-19T18:15:48.394Z",
+    "removed_at": "2026-03-19T22:03:28.618Z",
+    "duration_minutes": 227,
+    "duration_str": "3h 47m"
   },
   {
     "title": "culture:::Née presque entièrement en captivité, l’œuvre de Vasyl Stus, poète national ukrainien mort au Goulag, est traduite pour la première fois en français",
@@ -10345,5 +10351,24 @@
   {
     "title": "monde:::Viktor Orbán et Téhéran, les deux principaux perturbateurs du sommet européen",
     "added_at": "2026-03-19T19:48:43.255Z"
+  },
+  {
+    "title": "culture:::«Tokyo Flash», un petit livre punk du Genevois Pascal Greco né d’une envie de photographier à l’instinct, sans cadrer",
+    "added_at": "2026-03-19T21:33:11.400Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Pendant les bombardements, les Etats-Unis vendent des armes au Koweït et aux Emirats",
+    "added_at": "2026-03-19T21:44:34.142Z"
+  },
+  {
+    "title": "monde:::Umberto Bossi, le fondateur de la Ligue du Nord, est mort à 84 ans",
+    "added_at": "2026-03-19T22:14:50.152Z",
+    "removed_at": "2026-03-19T22:50:48.820Z",
+    "duration_minutes": 35,
+    "duration_str": "35m"
+  },
+  {
+    "title": "monde:::Umberto Bossi, mort du dernier survivant de la Première République italienne",
+    "added_at": "2026-03-19T22:50:48.820Z"
   }
 ]
