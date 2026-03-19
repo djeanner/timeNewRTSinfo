@@ -9928,7 +9928,10 @@
   },
   {
     "title": "suisse:::Sur les élèves frontaliers, le Conseil d’Etat genevois fait – à moitié – machine arrière",
-    "added_at": "2026-03-18T15:02:47.181Z"
+    "added_at": "2026-03-18T15:02:47.181Z",
+    "removed_at": "2026-03-19T13:11:54.956Z",
+    "duration_minutes": 1329,
+    "duration_str": "22h 9m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L'Iran confirme la mort de son ministre du Renseignement tué par l'armée israélienne",
@@ -9957,7 +9960,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Moscou s'en prend au documentaire oscarisé «Mr. Nobody contre Poutine»",
-    "added_at": "2026-03-18T16:30:05.072Z"
+    "added_at": "2026-03-18T16:30:05.072Z",
+    "removed_at": "2026-03-19T12:51:02.985Z",
+    "duration_minutes": 1220,
+    "duration_str": "20h 20m"
   },
   {
     "title": "culture:::«L’Homme de glace»: sur les traces de Konrad Steffen, scientifique suisse englouti par les glaces du Groenland",
@@ -9993,7 +9999,10 @@
   },
   {
     "title": "cyber:::De Pokémon Go à Meta AI, nous sommes tous victimes de l’industrie de l’extraction de données personnelles",
-    "added_at": "2026-03-18T17:59:02.744Z"
+    "added_at": "2026-03-18T17:59:02.744Z",
+    "removed_at": "2026-03-19T11:10:30.830Z",
+    "duration_minutes": 1031,
+    "duration_str": "17h 11m"
   },
   {
     "title": "suisse:::Le National évite l’interdiction du foie gras, mais le fossé culturel se creuse entre Romands et Alémaniques",
@@ -10004,7 +10013,10 @@
   },
   {
     "title": "monde:::«Ma mère a hurlé et elle est morte»: Tamoun pleure une famille palestinienne décimée par des tirs israéliens",
-    "added_at": "2026-03-18T18:25:37.094Z"
+    "added_at": "2026-03-18T18:25:37.094Z",
+    "removed_at": "2026-03-19T11:57:59.341Z",
+    "duration_minutes": 1052,
+    "duration_str": "17h 32m"
   },
   {
     "title": "culture:::Maya Bösch, metteuse en scène: «La politique nous dépasse? Il nous reste nos déplacements personnels, nos Mai 68 intimes pour résister sur les traces d’Ovide»",
@@ -10115,5 +10127,28 @@
   {
     "title": "sport:::«Je ne suis pas la sprinteuse typique»: Ajla Del Ponte de retour en forme après les blessures et une dépression",
     "added_at": "2026-03-19T10:36:11.225Z"
+  },
+  {
+    "title": "monde:::Au Sénégal, vivre caché après le durcissement de la loi anti-homosexuels",
+    "added_at": "2026-03-19T11:10:30.830Z",
+    "removed_at": "2026-03-19T11:16:13.191Z",
+    "duration_minutes": 5,
+    "duration_str": "5m"
+  },
+  {
+    "title": "monde:::«Ils sont en train de nous traquer un à un»: au Sénégal, vivre caché après le durcissement de la loi anti-homosexuels",
+    "added_at": "2026-03-19T11:16:13.191Z"
+  },
+  {
+    "title": "culture:::Leonardo García Alarcón, à la baguette dans «Castor & Pollux»: «Il y a chez Rameau une pulsion rythmique d’une force inédite»",
+    "added_at": "2026-03-19T11:57:59.341Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – La Hongrie aidera l’Ukraine «quand nous aurons notre pétrole», martèle Viktor Orbán",
+    "added_at": "2026-03-19T12:51:02.985Z"
+  },
+  {
+    "title": "suisse:::Léonore Porchet, l’écologie au prisme de l’égalité",
+    "added_at": "2026-03-19T13:11:54.956Z"
   }
 ]
