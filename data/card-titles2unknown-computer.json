@@ -9682,17 +9682,11 @@
   },
   {
     "title": "monde:::Les mines marines, armes invisibles et aveugles, redeviendront-elles une menace dans le détroit d’Ormuz?",
-    "added_at": "2026-03-17T16:37:36.449Z",
-    "removed_at": "2026-03-18T19:11:12.284Z",
-    "duration_minutes": 1593,
-    "duration_str": "1d 2h 33m"
+    "added_at": "2026-03-17T16:37:36.449Z"
   },
   {
     "title": "economie:::La guerre en Iran secoue les marchés des matières premières bien au-delà du pétrole",
-    "added_at": "2026-03-17T16:58:23.068Z",
-    "removed_at": "2026-03-18T06:35:50.664Z",
-    "duration_minutes": 817,
-    "duration_str": "13h 37m"
+    "added_at": "2026-03-17T16:58:23.068Z"
   },
   {
     "title": "monde:::En Iran, la guerre renforce la cohésion de la base populaire de la République islamique",
@@ -9822,7 +9816,10 @@
   },
   {
     "title": "suisse:::Le financement de la 13e rente AVS: une partie de billard à trois bandes",
-    "added_at": "2026-03-18T07:15:45.773Z"
+    "added_at": "2026-03-18T07:15:45.773Z",
+    "removed_at": "2026-03-19T09:14:48.822Z",
+    "duration_minutes": 1559,
+    "duration_str": "1d 1h 59m"
   },
   {
     "title": "suisse:::Energie: Lausanne face au spectre d’une crise durable",
@@ -9868,7 +9865,10 @@
   },
   {
     "title": "economie:::Partir ou rester, le dilemme des entreprises suisses face à la crise au Moyen-Orient",
-    "added_at": "2026-03-18T11:05:24.480Z"
+    "added_at": "2026-03-18T11:05:24.480Z",
+    "removed_at": "2026-03-19T09:20:29.402Z",
+    "duration_minutes": 1335,
+    "duration_str": "22h 15m"
   },
   {
     "title": "culture:::«Les Rayons et les Ombres», Jean Dujardin en collabo plongé dans le tourbillon de l’Occupation",
@@ -9975,7 +9975,10 @@
   },
   {
     "title": "suisse:::Entre Berne et Moscou, un 80e anniversaire et des cachotteries",
-    "added_at": "2026-03-18T17:17:25.963Z"
+    "added_at": "2026-03-18T17:17:25.963Z",
+    "removed_at": "2026-03-19T10:15:25.136Z",
+    "duration_minutes": 1017,
+    "duration_str": "16h 57m"
   },
   {
     "title": "cyber:::De Pokemon Go à Meta AI, nous sommes tous victimes de l’industrie de l’extraction de données personnelles",
@@ -9994,7 +9997,10 @@
   },
   {
     "title": "suisse:::Le National évite l’interdiction du foie gras, mais le fossé culturel se creuse entre Romands et Alémaniques",
-    "added_at": "2026-03-18T18:06:37.933Z"
+    "added_at": "2026-03-18T18:06:37.933Z",
+    "removed_at": "2026-03-19T10:36:11.225Z",
+    "duration_minutes": 989,
+    "duration_str": "16h 29m"
   },
   {
     "title": "monde:::«Ma mère a hurlé et elle est morte»: Tamoun pleure une famille palestinienne décimée par des tirs israéliens",
@@ -10060,7 +10066,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le gaz européen s’envole après des attaques iraniennes contre des infrastructures énergétiques au Qatar",
-    "added_at": "2026-03-19T07:45:39.628Z"
+    "added_at": "2026-03-19T07:45:39.628Z",
+    "removed_at": "2026-03-19T10:28:37.177Z",
+    "duration_minutes": 162,
+    "duration_str": "2h 42m"
   },
   {
     "title": "culture:::Au Poche, à Genève, «La grande ourse» d’Evelyne Castellino hésite entre plusieurs esthétiques et peine à s’affirmer",
@@ -10071,10 +10080,40 @@
   },
   {
     "title": "culture:::Au Poche, à Genève, «La Grande Ourse» d’Evelyne Castellino hésite entre plusieurs esthétiques et peine à s’affirmer",
-    "added_at": "2026-03-19T08:10:18.072Z"
+    "added_at": "2026-03-19T08:10:18.072Z",
+    "removed_at": "2026-03-19T09:22:23.809Z",
+    "duration_minutes": 72,
+    "duration_str": "1h 12m"
   },
   {
     "title": "culture:::Veronica Fusaro, un atout rock à l’Eurovision",
     "added_at": "2026-03-19T08:21:39.017Z"
+  },
+  {
+    "title": "economie:::La Banque nationale garde son taux directeur inchangé",
+    "added_at": "2026-03-19T09:14:48.822Z"
+  },
+  {
+    "title": "economie:::Après une entame d'année contrastée, le commerce extérieur de la Suisse a fléchi en février",
+    "added_at": "2026-03-19T09:20:29.402Z",
+    "removed_at": "2026-03-19T09:52:42.655Z",
+    "duration_minutes": 32,
+    "duration_str": "32m"
+  },
+  {
+    "title": "sciences:::Michele Maggiore, astrophysicien: «Aujourd’hui, nous observons la dernière seconde d’une fusion de trous noirs. Demain, ce seront les dernières vingt-quatre heures»",
+    "added_at": "2026-03-19T09:22:23.809Z"
+  },
+  {
+    "title": "economie:::Ces 24 dernières heures, la guerre en Iran est devenue encore plus énergétique",
+    "added_at": "2026-03-19T09:52:42.655Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Malgré la tentative de désescalade de Donald Trump, les attaques contre les infrastructures énergétiques continuent",
+    "added_at": "2026-03-19T10:28:37.177Z"
+  },
+  {
+    "title": "sport:::«Je ne suis pas la sprinteuse typique»: Ajla Del Ponte de retour en forme après les blessures et une dépression",
+    "added_at": "2026-03-19T10:36:11.225Z"
   }
 ]
