@@ -8226,7 +8226,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z"
+    "added_at": "2025-05-22T18:01:52.008Z",
+    "removed_at": "2026-03-19T18:44:09.855Z",
+    "duration_minutes": 433482,
+    "duration_str": "301d 42m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -70005,11 +70008,17 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Hongrie aidera l’Ukraine «quand nous aurons notre pétrole», martèle Viktor Orbán",
-    "added_at": "2026-03-19T12:52:09.836Z"
+    "added_at": "2026-03-19T12:52:09.836Z",
+    "removed_at": "2026-03-19T19:17:54.183Z",
+    "duration_minutes": 385,
+    "duration_str": "6h 25m"
   },
   {
     "title": "suisse:::Léonore Porchet, l’écologie au prisme de l’égalité",
-    "added_at": "2026-03-19T13:11:25.318Z"
+    "added_at": "2026-03-19T13:11:25.318Z",
+    "removed_at": "2026-03-19T18:56:12.458Z",
+    "duration_minutes": 344,
+    "duration_str": "5h 44m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Pentagone n'a aucun calendrier pour mettre fin à la guerre contre l'Iran",
@@ -70055,7 +70064,10 @@
   },
   {
     "title": "economie:::Ces vingt-quatre dernières heures, la guerre en Iran est devenue encore plus énergétique",
-    "added_at": "2026-03-19T14:47:54.357Z"
+    "added_at": "2026-03-19T14:47:54.357Z",
+    "removed_at": "2026-03-19T19:49:15.364Z",
+    "duration_minutes": 301,
+    "duration_str": "5h 1m"
   },
   {
     "title": "economie:::Audemars Piguet investit massivement pour un long terme qui commence tout de suite",
@@ -70097,7 +70109,10 @@
   },
   {
     "title": "culture:::Aux Marionnettes de Genève, la compagnie Snafu compose de petits shows pornos avec doigté",
-    "added_at": "2026-03-19T16:19:28.095Z"
+    "added_at": "2026-03-19T16:19:28.095Z",
+    "removed_at": "2026-03-19T19:13:05.470Z",
+    "duration_minutes": 173,
+    "duration_str": "2h 53m"
   },
   {
     "title": "monde:::Au cœur de l’offensive israélienne, les frappes sur les ponts du Litani isolent encore un peu plus le Liban-Sud",
@@ -70118,5 +70133,32 @@
   {
     "title": "suisse:::Remontées mécaniques vaudoises: «J’aime mon travail, je n’ai jamais la boule au ventre. A part au moment de payer mes factures»",
     "added_at": "2026-03-19T18:22:19.269Z"
+  },
+  {
+    "title": "suisse:::Un croissant de lune exceptionnel attendu ce jeudi soir dans le ciel suisse",
+    "added_at": "2026-03-19T18:44:09.855Z",
+    "removed_at": "2026-03-19T19:03:26.984Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
+  },
+  {
+    "title": "culture:::Le mauvais œil, une menace silencieuse racontée au Festival Histoire et Cité",
+    "added_at": "2026-03-19T18:56:12.458Z"
+  },
+  {
+    "title": "suisse:::A Genève, le Grand Conseil exclut tout enfermement à Champ-Dollon pour ceux qui n’ont pas pu payer leurs amendes",
+    "added_at": "2026-03-19T19:03:26.984Z"
+  },
+  {
+    "title": "suisse:::Genève interdit le port du burkini dans les piscines sans le nommer",
+    "added_at": "2026-03-19T19:13:05.470Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Les leaders européens ne parviennent pas à convaincre Viktor Orban à propos du prêt pour l’Ukraine",
+    "added_at": "2026-03-19T19:17:54.183Z"
+  },
+  {
+    "title": "monde:::Viktor Orbán et Téhéran, les deux principaux perturbateurs du sommet européen",
+    "added_at": "2026-03-19T19:49:15.364Z"
   }
 ]
