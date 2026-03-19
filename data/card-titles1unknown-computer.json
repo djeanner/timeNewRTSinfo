@@ -12569,7 +12569,10 @@
   },
   {
     "title": "Disques durs détruits à la perceuse, longues heures de route: comment la Suisse a évacué son ambassade à Téhéran en pleine guerre",
-    "added_at": "2026-03-16T20:20:10.660Z"
+    "added_at": "2026-03-16T20:20:10.660Z",
+    "removed_at": "2026-03-19T06:22:21.651Z",
+    "duration_minutes": 3482,
+    "duration_str": "2d 10h 2m"
   },
   {
     "title": "Neuf mois après la fraude, Vernier retrouve son Conseil municipal",
@@ -12608,7 +12611,10 @@
   },
   {
     "title": "Les coûts des obsèques en Suisse peuvent vite atteindre plusieurs milliers de francs",
-    "added_at": "2026-03-17T05:28:07.504Z"
+    "added_at": "2026-03-17T05:28:07.504Z",
+    "removed_at": "2026-03-19T07:47:35.712Z",
+    "duration_minutes": 3019,
+    "duration_str": "2d 2h 19m"
   },
   {
     "title": "La France insoumise a principalement bénéficié d'une surmobilisation des jeunes",
@@ -12637,7 +12643,10 @@
   },
   {
     "title": "Donald Trump évoque un report d'un mois de sa visite en Chine",
-    "added_at": "2026-03-17T07:31:21.365Z"
+    "added_at": "2026-03-17T07:31:21.365Z",
+    "removed_at": "2026-03-19T06:35:34.224Z",
+    "duration_minutes": 2824,
+    "duration_str": "1d 23h 4m"
   },
   {
     "title": "Mariame Clément explore les mille facettes d'\"Orlando\" de Haendel à l'Opéra de Lausanne",
@@ -12683,7 +12692,10 @@
   },
   {
     "title": "La police neuchâteloise met les bouchées doubles auprès des seniors face aux arnaques aux faux policiers",
-    "added_at": "2026-03-17T09:26:57.661Z"
+    "added_at": "2026-03-17T09:26:57.661Z",
+    "removed_at": "2026-03-19T08:29:10.138Z",
+    "duration_minutes": 2822,
+    "duration_str": "1d 23h 2m"
   },
   {
     "title": "Israël annonce avoir éliminé Ali Larijani, secrétaire du Conseil suprême de sécurité nationale",
@@ -12734,7 +12746,10 @@
   },
   {
     "title": "Plus de 36'000 déplacements forcés de Palestiniens en Cisjordanie en un an, alerte l’ONU",
-    "added_at": "2026-03-17T11:47:23.296Z"
+    "added_at": "2026-03-17T11:47:23.296Z",
+    "removed_at": "2026-03-19T06:56:26.276Z",
+    "duration_minutes": 2589,
+    "duration_str": "1d 19h 9m"
   },
   {
     "title": "Plus de 400 morts à Kaboul après des frappes du Pakistan",
@@ -12973,7 +12988,10 @@
   },
   {
     "title": "A l’hôpital, la poésie s’invite au chevet des patients",
-    "added_at": "2026-03-18T14:09:45.884Z"
+    "added_at": "2026-03-18T14:09:45.884Z",
+    "removed_at": "2026-03-19T06:58:16.563Z",
+    "duration_minutes": 1008,
+    "duration_str": "16h 48m"
   },
   {
     "title": "Une télécabine s'écrase à Engelberg sur le domaine skiable du Titlis, tuant une personne",
@@ -13096,5 +13114,64 @@
   {
     "title": "La \"diplomatie de la provocation\" des ambassadeurs américains exaspère l'Europe",
     "added_at": "2026-03-19T05:42:28.316Z"
+  },
+  {
+    "title": "Couchée et avec une taille de guêpe, la Lune promet un joli spectacle jeudi soir",
+    "added_at": "2026-03-19T06:22:21.651Z",
+    "removed_at": "2026-03-19T08:31:04.659Z",
+    "duration_minutes": 128,
+    "duration_str": "2h 8m"
+  },
+  {
+    "title": "L'Unesco s'inquiète pour le patrimoine menacé par la guerre au Moyen-Orient",
+    "added_at": "2026-03-19T06:35:34.224Z"
+  },
+  {
+    "title": "En Iran, les gardiens de la révolution plus influents que jamais",
+    "added_at": "2026-03-19T06:56:26.276Z",
+    "removed_at": "2026-03-19T07:15:20.677Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
+  },
+  {
+    "title": "A l'hôpital, la poésie s’invite au chevet des patients",
+    "added_at": "2026-03-19T06:58:16.563Z"
+  },
+  {
+    "title": "Le plus grand pôle de liquéfaction de gaz au monde, au Qatar, \"considérablement\" endommagé",
+    "added_at": "2026-03-19T07:15:20.677Z"
+  },
+  {
+    "title": "Les jeunes proches d'une personne atteinte d'une maladie mentale sont souvent délaissés",
+    "added_at": "2026-03-19T07:45:39.573Z",
+    "removed_at": "2026-03-19T07:49:26.238Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "Les jeunes proches de malades mentaux manquent cruellement de soutien",
+    "added_at": "2026-03-19T07:49:26.238Z",
+    "removed_at": "2026-03-19T08:02:41.577Z",
+    "duration_minutes": 13,
+    "duration_str": "13m"
+  },
+  {
+    "title": "Les jeunes proches de personne atteinte d'une maladie mentale manquent cruellement de soutien",
+    "added_at": "2026-03-19T08:00:47.372Z",
+    "removed_at": "2026-03-19T08:08:22.788Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Les jeunes proches de personnes atteintes de troubles psychiques manquent cruellement de soutien",
+    "added_at": "2026-03-19T08:08:22.788Z"
+  },
+  {
+    "title": "Dans \"Le livre de Sève\", Charlotte Monsarrat conte une nature toute-puissante",
+    "added_at": "2026-03-19T08:29:10.138Z"
+  },
+  {
+    "title": "Un croissant de Lune exceptionnel, visible qu'une fois tous les 18 ans, illuminera le ciel suisse jeudi soir",
+    "added_at": "2026-03-19T08:31:04.659Z"
   }
 ]
