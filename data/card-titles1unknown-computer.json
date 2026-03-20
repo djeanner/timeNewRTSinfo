@@ -12628,10 +12628,7 @@
   },
   {
     "title": "Les Etats-Unis pressent plusieurs pays d’intervenir dans le détroit d’Ormuz",
-    "added_at": "2026-03-17T06:19:12.682Z",
-    "removed_at": "2026-03-19T20:02:01.887Z",
-    "duration_minutes": 3702,
-    "duration_str": "2d 13h 42m"
+    "added_at": "2026-03-17T06:19:12.682Z"
   },
   {
     "title": "Des dizaines de morts à Kaboul après des frappes du Pakistan",
@@ -12947,7 +12944,10 @@
   },
   {
     "title": "Le Parlement réduit de 40% le plan d'allègement fiscal du Conseil fédéral",
-    "added_at": "2026-03-17T23:21:40.645Z"
+    "added_at": "2026-03-17T23:21:40.645Z",
+    "removed_at": "2026-03-20T05:02:29.492Z",
+    "duration_minutes": 3220,
+    "duration_str": "2d 5h 40m"
   },
   {
     "title": "Le Salvador instaure la prison à vie pour les \"meurtriers, violeurs et terroristes\"",
@@ -12991,7 +12991,10 @@
   },
   {
     "title": "\"Plomb\" de Timothée Zourabichvili, le roman choc d’une jeunesse déshumanisée",
-    "added_at": "2026-03-18T07:55:35.282Z"
+    "added_at": "2026-03-18T07:55:35.282Z",
+    "removed_at": "2026-03-20T05:27:06.525Z",
+    "duration_minutes": 2731,
+    "duration_str": "1d 21h 31m"
   },
   {
     "title": "Comment l'attaque de l'Iran est-elle perçue aux Etats-Unis?",
@@ -13003,7 +13006,10 @@
   },
   {
     "title": "A Neuchâtel, la Tour du Fantastique attire déjà loin à la ronde",
-    "added_at": "2026-03-18T09:28:37.209Z"
+    "added_at": "2026-03-18T09:28:37.209Z",
+    "removed_at": "2026-03-20T05:29:00.995Z",
+    "duration_minutes": 2640,
+    "duration_str": "1d 20h"
   },
   {
     "title": "Le plus grand chantier ferroviaire de Suisse démarre entre Zurich et Winterthour",
@@ -13457,5 +13463,13 @@
   {
     "title": "Meilleure performance scénique romande pour Baby Volcano aux Swiss Music Awards",
     "added_at": "2026-03-20T02:30:52.264Z"
+  },
+  {
+    "title": "A Zurich, des centaines de locataires expulsés pour densifier la ville",
+    "added_at": "2026-03-20T05:27:06.525Z"
+  },
+  {
+    "title": "Le politicien italien Umberto Bossi, fondateur de la Ligue du Nord, est mort",
+    "added_at": "2026-03-20T05:27:06.525Z"
   }
 ]
