@@ -12859,7 +12859,10 @@
   },
   {
     "title": "Partis pour un vol d'une heure, des centaines de passagers sont restés enfermés toute la nuit dans leurs avions",
-    "added_at": "2026-03-17T16:33:45.697Z"
+    "added_at": "2026-03-17T16:33:45.697Z",
+    "removed_at": "2026-03-20T16:04:16.181Z",
+    "duration_minutes": 4290,
+    "duration_str": "2d 23h 30m"
   },
   {
     "title": "Une 80e particule découverte au CERN grâce au grand collisionneur de hadrons",
@@ -13205,7 +13208,10 @@
   },
   {
     "title": "Plus de deux mille doses d’antibiotiques administrées dans le Kent pour faire face à une épidémie de méningite",
-    "added_at": "2026-03-18T16:52:47.674Z"
+    "added_at": "2026-03-18T16:52:47.674Z",
+    "removed_at": "2026-03-20T15:41:33.914Z",
+    "duration_minutes": 2808,
+    "duration_str": "1d 22h 48m"
   },
   {
     "title": "Podcast - Pourquoi tant de personnes quittent ChatGPT?",
@@ -13253,7 +13259,10 @@
   },
   {
     "title": "Les douanes enregistrent une hausse des saisies de stupéfiants et cigarettes de contrebande",
-    "added_at": "2026-03-18T20:02:21.722Z"
+    "added_at": "2026-03-18T20:02:21.722Z",
+    "removed_at": "2026-03-20T16:02:25.895Z",
+    "duration_minutes": 2640,
+    "duration_str": "1d 20h"
   },
   {
     "title": "Le virus de la dengue détecté pour la première fois sur un moustique au nord des Alpes",
@@ -13264,7 +13273,10 @@
   },
   {
     "title": "Huit femmes accusent Patrick Bruel de violences sexuelles",
-    "added_at": "2026-03-18T21:25:50.413Z"
+    "added_at": "2026-03-18T21:25:50.413Z",
+    "removed_at": "2026-03-20T16:40:16.331Z",
+    "duration_minutes": 2594,
+    "duration_str": "1d 19h 14m"
   },
   {
     "title": "Le Conseil national veut introduire une taxe de 50.- sur les urgences",
@@ -13709,5 +13721,29 @@
   {
     "title": "Le référendum contre l'assouplissement de la loi sur le matériel de guerre récolte 62'000 signatures",
     "added_at": "2026-03-20T15:01:33.137Z"
+  },
+  {
+    "title": "Que faire ce week-end? Notre sélection de sorties culturelles du 20 au 22 mars",
+    "added_at": "2026-03-20T15:41:33.914Z"
+  },
+  {
+    "title": "Le Conseil fédéral propose de nouvelles mesures contre les pénuries de médicaments",
+    "added_at": "2026-03-20T15:47:15.132Z"
+  },
+  {
+    "title": "L'eau comme arme de guerre, nouveau front au Moyen-Orient",
+    "added_at": "2026-03-20T15:51:04.725Z"
+  },
+  {
+    "title": "La prison de Champ-Dollon ne servira plus à la détention pour le non-paiement des amendes",
+    "added_at": "2026-03-20T16:02:25.895Z"
+  },
+  {
+    "title": "La Suisse veut (enfin) réhabiliter ses résistants de la Seconde Guerre mondiale",
+    "added_at": "2026-03-20T16:25:10.762Z"
+  },
+  {
+    "title": "La justice vaudoise condamne à nouveau Alain Soral  à 5 mois de prison ferme pour incitation à la haine",
+    "added_at": "2026-03-20T16:40:16.331Z"
   }
 ]
