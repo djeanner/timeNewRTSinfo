@@ -68552,7 +68552,10 @@
   },
   {
     "title": "cyber:::L’interdiction des réseaux sociaux pour les jeunes est très loin d’avoir les effets espérés, et c’est un avertissement pour la Suisse",
-    "added_at": "2026-03-13T20:27:30.740Z"
+    "added_at": "2026-03-13T20:27:30.740Z",
+    "removed_at": "2026-03-20T08:35:21.078Z",
+    "duration_minutes": 9367,
+    "duration_str": "6d 12h 7m"
   },
   {
     "title": "monde:::Guerre en Ukraine – La Russie «se trompe» si elle espère «un répit» lié à la guerre en Iran, affirme Emmanuel Macron",
@@ -70153,7 +70156,10 @@
   },
   {
     "title": "suisse:::Remontées mécaniques vaudoises: «J’aime mon travail, je n’ai jamais la boule au ventre. A part au moment de payer mes factures»",
-    "added_at": "2026-03-19T18:22:19.269Z"
+    "added_at": "2026-03-19T18:22:19.269Z",
+    "removed_at": "2026-03-20T10:42:43.326Z",
+    "duration_minutes": 980,
+    "duration_str": "16h 20m"
   },
   {
     "title": "suisse:::Un croissant de lune exceptionnel attendu ce jeudi soir dans le ciel suisse",
@@ -70164,7 +70170,10 @@
   },
   {
     "title": "culture:::Le mauvais œil, une menace silencieuse racontée au Festival Histoire et Cité",
-    "added_at": "2026-03-19T18:56:12.458Z"
+    "added_at": "2026-03-19T18:56:12.458Z",
+    "removed_at": "2026-03-20T08:54:33.571Z",
+    "duration_minutes": 838,
+    "duration_str": "13h 58m"
   },
   {
     "title": "suisse:::A Genève, le Grand Conseil exclut tout enfermement à Champ-Dollon pour ceux qui n’ont pas pu payer leurs amendes",
@@ -70187,7 +70196,10 @@
   },
   {
     "title": "culture:::«Tokyo Flash», un petit livre punk du Genevois Pascal Greco né d’une envie de photographier à l’instinct, sans cadrer",
-    "added_at": "2026-03-19T21:33:01.193Z"
+    "added_at": "2026-03-19T21:33:01.193Z",
+    "removed_at": "2026-03-20T09:01:46.893Z",
+    "duration_minutes": 688,
+    "duration_str": "11h 28m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Pendant les bombardements, les Etats-Unis vendent des armes au Koweït et aux Emirats",
@@ -70266,19 +70278,31 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Bombardements sans relâche d’Israël sur l’Iran",
-    "added_at": "2026-03-20T06:22:54.420Z"
+    "added_at": "2026-03-20T06:22:54.420Z",
+    "removed_at": "2026-03-20T10:42:43.326Z",
+    "duration_minutes": 259,
+    "duration_str": "4h 19m"
   },
   {
     "title": "economie:::PrimeEnergy: le cannabis était un «rail de sécurité»",
-    "added_at": "2026-03-20T06:42:05.998Z"
+    "added_at": "2026-03-20T06:42:05.998Z",
+    "removed_at": "2026-03-20T10:04:19.103Z",
+    "duration_minutes": 202,
+    "duration_str": "3h 22m"
   },
   {
     "title": "monde:::Il traitait Rome de «voleuse»: le fondateur de la Ligue du Nord Umberto Bossi est mort",
-    "added_at": "2026-03-20T07:10:58.887Z"
+    "added_at": "2026-03-20T07:10:58.887Z",
+    "removed_at": "2026-03-20T08:13:42.220Z",
+    "duration_minutes": 62,
+    "duration_str": "1h 2m"
   },
   {
     "title": "suisse:::Après la polémique sur l’interdiction d’entrée des étrangers, Porrentruy pourra encore restreindre l’accès à sa piscine",
-    "added_at": "2026-03-20T07:27:43.977Z"
+    "added_at": "2026-03-20T07:27:43.977Z",
+    "removed_at": "2026-03-20T10:04:19.103Z",
+    "duration_minutes": 156,
+    "duration_str": "2h 36m"
   },
   {
     "title": "cyber:::La Californie, berceau de la Silicon Valley, pourrait à son tour interdire les réseaux sociaux aux moins de 16 ans. Mais le lobby de la tech est prêt à se battre",
@@ -70290,5 +70314,39 @@
   {
     "title": "cyber:::«Nous avons une génération qui n’a jamais été aussi anxieuse»: la Californie, berceau de la Silicon Valley, pourrait à son tour interdire les réseaux sociaux aux moins de 16 ans",
     "added_at": "2026-03-20T07:49:22.696Z"
+  },
+  {
+    "title": "monde:::L’Irak a une solution pour éviter le détroit d’Ormuz, bloqué par la guerre en Iran",
+    "added_at": "2026-03-20T08:11:15.081Z"
+  },
+  {
+    "title": "suisse:::Mathilde Maillard contre Xavier Roth: deux visions, un seul siège pour faire basculer Lausanne",
+    "added_at": "2026-03-20T08:35:21.078Z"
+  },
+  {
+    "title": "monde:::Il traitait Rome de «voleuse»: le fondateur de la Ligue du Nord, Umberto Bossi, est mort",
+    "added_at": "2026-03-20T08:35:21.078Z",
+    "removed_at": "2026-03-20T10:04:19.103Z",
+    "duration_minutes": 88,
+    "duration_str": "1h 28m"
+  },
+  {
+    "title": "sport:::Florian Clivaz aime résoudre des problèmes: cela a fait son succès auprès des sœurs Kambundji",
+    "added_at": "2026-03-20T09:01:46.893Z",
+    "removed_at": "2026-03-20T10:30:42.218Z",
+    "duration_minutes": 88,
+    "duration_str": "1h 28m"
+  },
+  {
+    "title": "economie:::«Ce ne sont plus forcément les très jeunes qui travaillent en intérim»: le travail temporaire, une variable d’ajustement toujours plus sollicitée en Suisse",
+    "added_at": "2026-03-20T10:04:19.103Z"
+  },
+  {
+    "title": "culture:::Dibby, le rappeur genevois qui bouscule les codes du hip-hop",
+    "added_at": "2026-03-20T10:30:42.218Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – La Maison-Blanche examinerait des plans d'invasion ou de blocus de l'île iranienne de Kharg",
+    "added_at": "2026-03-20T10:42:43.326Z"
   }
 ]
