@@ -70078,7 +70078,10 @@
   },
   {
     "title": "culture:::Dans «Qui a tué Mary Rogers?», Etienne Barilier refait l’enquête d’un «cold case» qui avait bouleversé Edgar Allan Poe",
-    "added_at": "2026-03-19T15:02:20.467Z"
+    "added_at": "2026-03-19T15:02:20.467Z",
+    "removed_at": "2026-03-20T15:12:39.375Z",
+    "duration_minutes": 1450,
+    "duration_str": "1d 10m"
   },
   {
     "title": "suisse:::13e rente AVS: les sénateurs confirment le financement mixte et renvoient le dossier au National",
@@ -70195,7 +70198,10 @@
   },
   {
     "title": "monde:::Viktor Orbán et Téhéran, les deux principaux perturbateurs du sommet européen",
-    "added_at": "2026-03-19T19:49:15.364Z"
+    "added_at": "2026-03-19T19:49:15.364Z",
+    "removed_at": "2026-03-20T14:07:37.467Z",
+    "duration_minutes": 1098,
+    "duration_str": "18h 18m"
   },
   {
     "title": "culture:::«Tokyo Flash», un petit livre punk du Genevois Pascal Greco né d’une envie de photographier à l’instinct, sans cadrer",
@@ -70316,7 +70322,10 @@
   },
   {
     "title": "cyber:::«Nous avons une génération qui n’a jamais été aussi anxieuse»: la Californie, berceau de la Silicon Valley, pourrait à son tour interdire les réseaux sociaux aux moins de 16 ans",
-    "added_at": "2026-03-20T07:49:22.696Z"
+    "added_at": "2026-03-20T07:49:22.696Z",
+    "removed_at": "2026-03-20T13:53:11.379Z",
+    "duration_minutes": 363,
+    "duration_str": "6h 3m"
   },
   {
     "title": "monde:::L’Irak a une solution pour éviter le détroit d’Ormuz, bloqué par la guerre en Iran",
@@ -70349,7 +70358,10 @@
   },
   {
     "title": "culture:::Dibby, le rappeur genevois qui bouscule les codes du hip-hop",
-    "added_at": "2026-03-20T10:30:42.218Z"
+    "added_at": "2026-03-20T10:30:42.218Z",
+    "removed_at": "2026-03-20T16:03:13.991Z",
+    "duration_minutes": 332,
+    "duration_str": "5h 32m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – La Maison-Blanche examinerait des plans d'invasion ou de blocus de l'île iranienne de Kharg",
@@ -70368,11 +70380,17 @@
   },
   {
     "title": "monde:::Après la mort d’El Mencho, le Mexique est en proie aux narco-blocages",
-    "added_at": "2026-03-20T11:45:34.022Z"
+    "added_at": "2026-03-20T11:45:34.022Z",
+    "removed_at": "2026-03-20T15:22:14.025Z",
+    "duration_minutes": 216,
+    "duration_str": "3h 36m"
   },
   {
     "title": "monde:::Remerciée par Donald Trump, la secrétaire à la Sécurité intérieure Kristi Noem s’en va «enfin», salue la presse américaine",
-    "added_at": "2026-03-20T11:45:34.022Z"
+    "added_at": "2026-03-20T11:45:34.022Z",
+    "removed_at": "2026-03-20T15:22:14.025Z",
+    "duration_minutes": 216,
+    "duration_str": "3h 36m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Conseil fédéral interdit les nouvelles exportations de matériel de guerre vers les USA",
@@ -70383,7 +70401,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Conseil fédéral interdit les nouvelles exportations de matériel de guerre vers les Etats-Unis",
-    "added_at": "2026-03-20T12:09:33.317Z"
+    "added_at": "2026-03-20T12:09:33.317Z",
+    "removed_at": "2026-03-20T14:29:18.374Z",
+    "duration_minutes": 139,
+    "duration_str": "2h 19m"
   },
   {
     "title": "monde:::La lumière de Nowrouz: un guide pour sortir l’Iran de la guerre et le réconcilier avec lui-même et le monde",
@@ -70392,5 +70413,36 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Un pétrolier cargo en provenance de Russie intercepté par la marine française en Méditerranée",
     "added_at": "2026-03-20T12:57:40.121Z"
+  },
+  {
+    "title": "suisse:::Alain Soral condamné par la justice vaudoise à cinq mois de prison ferme",
+    "added_at": "2026-03-20T13:53:11.379Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Même si certains sont prêts à contribuer à rouvrir le détroit d'Ormuz, Donald Trump accuse les pays de l'OTAN de «lâches»",
+    "added_at": "2026-03-20T14:29:18.374Z",
+    "removed_at": "2026-03-20T15:43:53.105Z",
+    "duration_minutes": 74,
+    "duration_str": "1h 14m"
+  },
+  {
+    "title": "culture:::L’acteur américain Chuck Norris est mort à l’âge de 86 ans",
+    "added_at": "2026-03-20T14:31:43.978Z"
+  },
+  {
+    "title": "culture:::Dans «J’aurais voulu être douze serpents», Louis Achille explore une enfance des années 2000 dans la campagne vaudoise",
+    "added_at": "2026-03-20T15:15:06.360Z"
+  },
+  {
+    "title": "monde:::«Je lui ai dit de ne pas le faire»: le tandem Trump-Netanyahou fragilisé par la coûteuse guerre en Iran",
+    "added_at": "2026-03-20T15:22:14.025Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis vont déployer des milliers de soldats supplémentaires contre l'Iran",
+    "added_at": "2026-03-20T15:43:53.105Z"
+  },
+  {
+    "title": "suisse:::Sous pression, le Conseil fédéral lance sa stratégie contre les pénuries de médicaments",
+    "added_at": "2026-03-20T16:03:13.991Z"
   }
 ]
