@@ -10938,7 +10938,10 @@
   },
   {
     "title": "culture:::Série: «Celeste» fait d’une inspectrice des impôts sa palpitante héroïne",
-    "added_at": "2026-03-21T17:34:30.467Z"
+    "added_at": "2026-03-21T17:34:30.467Z",
+    "removed_at": "2026-03-21T20:04:35.262Z",
+    "duration_minutes": 150,
+    "duration_str": "2h 30m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Bruxelles appelle les Etats européens à moins remplir leurs stocks de gaz pour l'hiver prochain",
@@ -10949,18 +10952,21 @@
   },
   {
     "title": "culture:::«Le jour où je décide de parler de boxe, c’est moi qui choisis» Rakajoo, peintre, boxeur et bédéiste hors cases",
-    "added_at": "2026-03-21T18:06:55.250Z"
+    "added_at": "2026-03-21T18:06:55.250Z",
+    "removed_at": "2026-03-21T20:02:40.616Z",
+    "duration_minutes": 115,
+    "duration_str": "1h 55m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Des missiles iraniens frappent le Sud d'Israël",
-    "added_at": "2026-03-21T18:33:24.885Z",
-    "removed_at": "2026-03-21T18:35:21.235Z",
-    "duration_minutes": 1,
-    "duration_str": "1m"
+    "added_at": "2026-03-21T18:33:24.885Z"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Des missiles iraniens ont frappé le Sud d'Israël",
-    "added_at": "2026-03-21T18:35:21.235Z"
+    "added_at": "2026-03-21T18:35:21.235Z",
+    "removed_at": "2026-03-21T20:48:12.935Z",
+    "duration_minutes": 132,
+    "duration_str": "2h 12m"
   },
   {
     "title": "monde:::Etats-Unis: Robert Mueller, le procureur de l’enquête russe, est mort",
@@ -10969,5 +10975,9 @@
   {
     "title": "sport:::Sur Milan-San Remo, Tadej Pogacar, le massacre du printemps",
     "added_at": "2026-03-21T19:53:03.632Z"
+  },
+  {
+    "title": "culture:::«Le jour où je décide de parler de boxe, je le fais selon mes termes» Rakajoo, peintre, boxeur et bédéiste hors cases",
+    "added_at": "2026-03-21T20:02:40.616Z"
   }
 ]
