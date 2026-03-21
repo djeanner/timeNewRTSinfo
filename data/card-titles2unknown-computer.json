@@ -10622,7 +10622,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Un pétrolier cargo en provenance de Russie intercepté par la marine française en Méditerranée",
-    "added_at": "2026-03-20T12:58:18.871Z"
+    "added_at": "2026-03-20T12:58:18.871Z",
+    "removed_at": "2026-03-21T13:24:10.677Z",
+    "duration_minutes": 1465,
+    "duration_str": "1d 25m"
   },
   {
     "title": "suisse:::Alain Soral condamné par la justice vaudoise à cinq mois de prison ferme",
@@ -10693,7 +10696,10 @@
   },
   {
     "title": "suisse:::Martin Pfister, cet inconnu devenu le visage de la défense suisse",
-    "added_at": "2026-03-20T18:00:03.797Z"
+    "added_at": "2026-03-20T18:00:03.797Z",
+    "removed_at": "2026-03-21T14:43:48.064Z",
+    "duration_minutes": 1243,
+    "duration_str": "20h 43m"
   },
   {
     "title": "suisse:::Prix Transparence: La journaliste du «Temps» Stéphanie Arboit récompensée pour ses révélations sur le bouclier fiscal vaudois",
@@ -10814,7 +10820,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis et Israël ont bombardé le site nucléaire iranien de Natanz",
-    "added_at": "2026-03-21T09:59:12.988Z"
+    "added_at": "2026-03-21T09:59:12.988Z",
+    "removed_at": "2026-03-21T13:14:42.227Z",
+    "duration_minutes": 195,
+    "duration_str": "3h 15m"
   },
   {
     "title": "monde:::Un F-35 américain touché au-dessus de l’Iran, un précédent qui galvanise les faucons russes",
@@ -10830,10 +10839,54 @@
   },
   {
     "title": "sport:::Ski alpin: l’Italien Dominik Paris s’offre l’ultime descente, le Bernois Franjo von Allmen prend la deuxième place",
-    "added_at": "2026-03-21T12:15:50.704Z"
+    "added_at": "2026-03-21T12:15:50.704Z",
+    "removed_at": "2026-03-21T14:07:50.226Z",
+    "duration_minutes": 111,
+    "duration_str": "1h 51m"
   },
   {
     "title": "culture:::Sam Sauvage, poésie pop en costard-cravate",
     "added_at": "2026-03-21T12:31:02.743Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Moscou condamne les frappes sur le site nucléaire de Natanz",
+    "added_at": "2026-03-21T13:14:42.227Z",
+    "removed_at": "2026-03-21T13:37:28.799Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – L'Ukraine aurait lancé près de 300 drones sur la Russie, selon le Ministère de la défense russe",
+    "added_at": "2026-03-21T13:24:10.677Z",
+    "removed_at": "2026-03-21T13:33:43.885Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "economie:::D’anonyme à sauveur, l’ARN messager continue de porter ses promesses six ans après la pandémie",
+    "added_at": "2026-03-21T13:33:43.885Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – L'Ukraine aurait lancé près de 300 drones sur la Russie",
+    "added_at": "2026-03-21T13:33:43.885Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Moscou condamne les frappes sur le site nucléaire iranien de Natanz",
+    "added_at": "2026-03-21T13:37:28.799Z",
+    "removed_at": "2026-03-21T15:10:24.968Z",
+    "duration_minutes": 92,
+    "duration_str": "1h 32m"
+  },
+  {
+    "title": "culture:::Thierry Jobin: «J’aime l’ambiguïté de Bowie et Eastwood»",
+    "added_at": "2026-03-21T14:05:53.739Z"
+  },
+  {
+    "title": "culture:::Luc Delahaye exposé à Photo Elysée: «L’appareil photo symbolise toujours l’œil du pouvoir»",
+    "added_at": "2026-03-21T14:36:16.614Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’armée américaine affirme avoir détruit une importante installation iranienne dans le détroit d'Ormuz",
+    "added_at": "2026-03-21T15:10:24.968Z"
   }
 ]
