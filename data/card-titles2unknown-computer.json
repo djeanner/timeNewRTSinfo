@@ -10795,7 +10795,10 @@
   },
   {
     "title": "culture:::Jean-Marc Diébold, directeur du Centre culturel suisse à Paris: «La nouvelle génération d’artistes suisses est festive et politique»",
-    "added_at": "2026-03-21T09:11:55.567Z"
+    "added_at": "2026-03-21T09:11:55.567Z",
+    "removed_at": "2026-03-21T15:35:06.563Z",
+    "duration_minutes": 383,
+    "duration_str": "6h 23m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis et Israël frappent le site nucléaire iranien de Natanz",
@@ -10831,11 +10834,17 @@
   },
   {
     "title": "cyber:::Twitter, devenu X, a 20 ans: malgré les scandales et les horreurs diffusées, la plateforme d’Elon Musk a nettement gagné en puissance",
-    "added_at": "2026-03-21T11:07:38.664Z"
+    "added_at": "2026-03-21T11:07:38.664Z",
+    "removed_at": "2026-03-21T16:16:49.926Z",
+    "duration_minutes": 309,
+    "duration_str": "5h 9m"
   },
   {
     "title": "cyber:::Des employés d’un fabricant américain de serveurs accusés de contrebande de puces Nvidia vers la Chine",
-    "added_at": "2026-03-21T12:00:41.547Z"
+    "added_at": "2026-03-21T12:00:41.547Z",
+    "removed_at": "2026-03-21T17:15:37.547Z",
+    "duration_minutes": 314,
+    "duration_str": "5h 14m"
   },
   {
     "title": "sport:::Ski alpin: l’Italien Dominik Paris s’offre l’ultime descente, le Bernois Franjo von Allmen prend la deuxième place",
@@ -10846,7 +10855,10 @@
   },
   {
     "title": "culture:::Sam Sauvage, poésie pop en costard-cravate",
-    "added_at": "2026-03-21T12:31:02.743Z"
+    "added_at": "2026-03-21T12:31:02.743Z",
+    "removed_at": "2026-03-21T17:30:43.800Z",
+    "duration_minutes": 299,
+    "duration_str": "4h 59m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Moscou condamne les frappes sur le site nucléaire de Natanz",
@@ -10879,7 +10891,10 @@
   },
   {
     "title": "culture:::Thierry Jobin: «J’aime l’ambiguïté de Bowie et Eastwood»",
-    "added_at": "2026-03-21T14:05:53.739Z"
+    "added_at": "2026-03-21T14:05:53.739Z",
+    "removed_at": "2026-03-21T16:03:33.125Z",
+    "duration_minutes": 117,
+    "duration_str": "1h 57m"
   },
   {
     "title": "culture:::Luc Delahaye exposé à Photo Elysée: «L’appareil photo symbolise toujours l’œil du pouvoir»",
@@ -10888,5 +10903,35 @@
   {
     "title": "monde:::En direct, Moyen-Orient – L’armée américaine affirme avoir détruit une importante installation iranienne dans le détroit d'Ormuz",
     "added_at": "2026-03-21T15:10:24.968Z"
+  },
+  {
+    "title": "monde:::En Hongrie, Orbán rassemble les nationalistes pour se booster avant les élections",
+    "added_at": "2026-03-21T15:35:06.563Z",
+    "removed_at": "2026-03-21T15:37:00.970Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "monde:::En Hongrie, Viktor Orbán rassemble les nationalistes pour se booster avant les élections",
+    "added_at": "2026-03-21T15:37:00.970Z"
+  },
+  {
+    "title": "cyber:::Marc Oehler, directeur d’Infomaniak: «Notre croissance crée des défis à tous les niveaux de l’entreprise»",
+    "added_at": "2026-03-21T16:03:33.125Z"
+  },
+  {
+    "title": "monde:::Municipales en France: jour de trêve avant un second tour à suspense",
+    "added_at": "2026-03-21T17:15:37.547Z"
+  },
+  {
+    "title": "culture:::ET_21/03_Chez soi Série: «Celeste» fait d’une inspectrice des impôts sa palpitante héroïne",
+    "added_at": "2026-03-21T17:30:43.800Z",
+    "removed_at": "2026-03-21T17:34:30.467Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "culture:::Série: «Celeste» fait d’une inspectrice des impôts sa palpitante héroïne",
+    "added_at": "2026-03-21T17:34:30.467Z"
   }
 ]
