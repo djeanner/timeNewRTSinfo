@@ -10380,7 +10380,10 @@
   },
   {
     "title": "suisse:::A Genève, le Grand Conseil exclut tout enfermement à Champ-Dollon pour ceux qui n’ont pas pu payer leurs amendes",
-    "added_at": "2026-03-19T19:03:12.212Z"
+    "added_at": "2026-03-19T19:03:12.212Z",
+    "removed_at": "2026-03-21T11:11:29.011Z",
+    "duration_minutes": 2408,
+    "duration_str": "1d 16h 8m"
   },
   {
     "title": "suisse:::Genève interdit le port du burkini dans les piscines sans le nommer",
@@ -10683,7 +10686,10 @@
   },
   {
     "title": "culture:::«La Prière du cochon», une farce pleine de verve de Libar M. Fofana, remporte le Prix Kourouma, remis au Salon du livre de Genève",
-    "added_at": "2026-03-20T17:06:48.279Z"
+    "added_at": "2026-03-20T17:06:48.279Z",
+    "removed_at": "2026-03-21T11:07:38.664Z",
+    "duration_minutes": 1080,
+    "duration_str": "18h"
   },
   {
     "title": "suisse:::Martin Pfister, cet inconnu devenu le visage de la défense suisse",
@@ -10709,7 +10715,10 @@
   },
   {
     "title": "economie:::Salaires des patrons d’UBS, Julius Baer et EFG: une question de performance ou de déconnexion?",
-    "added_at": "2026-03-20T19:06:21.686Z"
+    "added_at": "2026-03-20T19:06:21.686Z",
+    "removed_at": "2026-03-21T12:31:02.743Z",
+    "duration_minutes": 1044,
+    "duration_str": "17h 24m"
   },
   {
     "title": "suisse:::Une hausse de 0,8% de la TVA pour davantage d’armes, la proposition à 31 milliards de Martin Pfister",
@@ -10798,7 +10807,10 @@
   },
   {
     "title": "suisse:::Le Conseil fédéral veut renforcer la prévention contre les violences envers les aînés",
-    "added_at": "2026-03-21T09:40:20.443Z"
+    "added_at": "2026-03-21T09:40:20.443Z",
+    "removed_at": "2026-03-21T12:15:50.704Z",
+    "duration_minutes": 155,
+    "duration_str": "2h 35m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis et Israël ont bombardé le site nucléaire iranien de Natanz",
@@ -10807,5 +10819,21 @@
   {
     "title": "monde:::Un F-35 américain touché au-dessus de l’Iran, un précédent qui galvanise les faucons russes",
     "added_at": "2026-03-21T09:59:12.988Z"
+  },
+  {
+    "title": "cyber:::Twitter, devenu X, a 20 ans: malgré les scandales et les horreurs diffusées, la plateforme d’Elon Musk a nettement gagné en puissance",
+    "added_at": "2026-03-21T11:07:38.664Z"
+  },
+  {
+    "title": "cyber:::Des employés d’un fabricant américain de serveurs accusés de contrebande de puces Nvidia vers la Chine",
+    "added_at": "2026-03-21T12:00:41.547Z"
+  },
+  {
+    "title": "sport:::Ski alpin: l’Italien Dominik Paris s’offre l’ultime descente, le Bernois Franjo von Allmen prend la deuxième place",
+    "added_at": "2026-03-21T12:15:50.704Z"
+  },
+  {
+    "title": "culture:::Sam Sauvage, poésie pop en costard-cravate",
+    "added_at": "2026-03-21T12:31:02.743Z"
   }
 ]
