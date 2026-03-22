@@ -10782,7 +10782,10 @@
   },
   {
     "title": "UFC Fight Night 270: Evloev edges Murphy, sets up featherweight title shot",
-    "added_at": "2026-03-22T05:25:48.163Z"
+    "added_at": "2026-03-22T05:25:48.163Z",
+    "removed_at": "2026-03-22T16:04:52.574Z",
+    "duration_minutes": 639,
+    "duration_str": "10h 39m"
   },
   {
     "title": "ICC Chief Prosecutor Khan cleared of sexual misconduct by judges: Report",
@@ -10822,13 +10825,17 @@
   },
   {
     "title": "‘Very difficult evening’: Israel says at least 180 wounded in Iran attacks",
-    "added_at": "2026-03-22T13:48:22.163Z",
-    "removed_at": "2026-03-22T13:50:18.592Z",
-    "duration_minutes": 1,
-    "duration_str": "1m"
+    "added_at": "2026-03-22T13:48:22.163Z"
   },
   {
     "title": "Trump issues 48-hour Hormuz Strait ultimatum, threatens Iran’s power plants",
-    "added_at": "2026-03-22T13:50:18.592Z"
+    "added_at": "2026-03-22T13:50:18.592Z",
+    "removed_at": "2026-03-22T15:30:44.613Z",
+    "duration_minutes": 100,
+    "duration_str": "1h 40m"
+  },
+  {
+    "title": "All seven on board Qatar military helicopter killed in crash",
+    "added_at": "2026-03-22T16:04:52.574Z"
   }
 ]
