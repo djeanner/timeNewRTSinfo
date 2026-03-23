@@ -70696,7 +70696,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L'Ukraine aurait lancé près de 300 drones sur la Russie",
-    "added_at": "2026-03-22T19:40:21.039Z"
+    "added_at": "2026-03-22T19:40:21.039Z",
+    "removed_at": "2026-03-22T22:40:54.737Z",
+    "duration_minutes": 180,
+    "duration_str": "3h"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L'Iran menace de fermer entièrement le détroit d'Ormuz si Washington vise ses centrales électriques",
@@ -70711,7 +70714,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L'armée israélienne va intensifier ses opérations terrestres au Liban",
-    "added_at": "2026-03-22T20:04:32.464Z"
+    "added_at": "2026-03-22T20:04:32.464Z",
+    "removed_at": "2026-03-23T00:50:25.707Z",
+    "duration_minutes": 285,
+    "duration_str": "4h 45m"
   },
   {
     "title": "monde:::Paris, Marseille, RN, Bayrou… les enseignements du second tour des élections municipales en France",
@@ -70723,5 +70729,13 @@
   {
     "title": "monde:::Paris, Marseille, RN, Bayrou… Les enseignements du second tour des élections municipales en France",
     "added_at": "2026-03-22T20:28:31.858Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Après un week-end de discussions en Floride, Volodymyr Zelensky regrette que les Américains soient focalisés sur l'Iran",
+    "added_at": "2026-03-22T22:40:54.737Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Notre suivi de la semaine du 16 mars",
+    "added_at": "2026-03-23T00:50:25.707Z"
   }
 ]
