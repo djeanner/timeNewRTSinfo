@@ -70812,7 +70812,10 @@
   },
   {
     "title": "economie:::Comment (essayer de) faire baisser le prix du pétrole",
-    "added_at": "2026-03-23T12:54:20.183Z"
+    "added_at": "2026-03-23T12:54:20.183Z",
+    "removed_at": "2026-03-25T10:25:28.392Z",
+    "duration_minutes": 2731,
+    "duration_str": "1d 21h 31m"
   },
   {
     "title": "culture:::Rosalía en concert à Zurich, une bombe dans le musée des représentations",
@@ -70851,7 +70854,10 @@
   },
   {
     "title": "suisse:::Après Rebecca Ruiz, le défi vertigineux d’un Département de la santé vaudois au bord de l’embolie",
-    "added_at": "2026-03-23T12:54:20.183Z"
+    "added_at": "2026-03-23T12:54:20.183Z",
+    "removed_at": "2026-03-25T09:08:29.564Z",
+    "duration_minutes": 2654,
+    "duration_str": "1d 20h 14m"
   },
   {
     "title": "suisse:::L’élection du ministre du Jura bernois sera surtout un baromètre pour les socialistes",
@@ -71236,7 +71242,10 @@
   },
   {
     "title": "culture:::«Le Lac», un premier long métrage impressionniste de Fabrice Aragno, ancien assistant de Godard",
-    "added_at": "2026-03-24T18:45:10.678Z"
+    "added_at": "2026-03-24T18:45:10.678Z",
+    "removed_at": "2026-03-25T10:27:49.603Z",
+    "duration_minutes": 942,
+    "duration_str": "15h 42m"
   },
   {
     "title": "cyber:::Discret, OnlyFans, empire du sexe virtuel et ubérisé, brasse des milliards au niveau mondial",
@@ -71290,11 +71299,17 @@
   },
   {
     "title": "monde:::En direct – L'Iran attaque Israël et les pays du Golfe, Donald Trump évoque des négociations de paix",
-    "added_at": "2026-03-25T06:03:28.379Z"
+    "added_at": "2026-03-25T06:03:28.379Z",
+    "removed_at": "2026-03-25T08:46:52.530Z",
+    "duration_minutes": 163,
+    "duration_str": "2h 43m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Russie dit avoir abattu près de 400 drones ukrainiens",
-    "added_at": "2026-03-25T06:05:53.115Z"
+    "added_at": "2026-03-25T06:05:53.115Z",
+    "removed_at": "2026-03-25T08:10:49.825Z",
+    "duration_minutes": 124,
+    "duration_str": "2h 4m"
   },
   {
     "title": "monde:::Aux Etats-Unis, l’accès au vote est violemment remis en question par Donald Trump",
@@ -71322,5 +71337,53 @@
   {
     "title": "economie:::Forte de 68 millions d’utilisateurs, la fintech Revolut entre dans la course aux licences bancaires",
     "added_at": "2026-03-25T07:34:41.475Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Un drone venu de Russie heurte la cheminée d’une centrale électrique en Estonie",
+    "added_at": "2026-03-25T08:10:49.825Z",
+    "removed_at": "2026-03-25T09:49:23.618Z",
+    "duration_minutes": 98,
+    "duration_str": "1h 38m"
+  },
+  {
+    "title": "monde:::En direct – A Genève, le haut-commissaire de l’ONU aux droits de l’homme dit craindre une «catastrophe totale»",
+    "added_at": "2026-03-25T08:46:52.530Z",
+    "removed_at": "2026-03-25T08:54:05.151Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "monde:::En direct – A Genève, le haut-commissaire de l’ONU aux droits de l’homme dit craindre une «catastrophe totale» au Moyen-Orient",
+    "added_at": "2026-03-25T08:54:05.151Z",
+    "removed_at": "2026-03-25T09:58:56.763Z",
+    "duration_minutes": 64,
+    "duration_str": "1h 4m"
+  },
+  {
+    "title": "sport:::«Les gens me connaissent parce que j’ai fait 80 tonneaux»: le pilote Michaël Burri est enfin de retour après avoir frôlé la mort",
+    "added_at": "2026-03-25T09:01:17.340Z"
+  },
+  {
+    "title": "monde:::Les démocrates remportent «la circonscription de Donald Trump» à Mar-a-Lago",
+    "added_at": "2026-03-25T09:08:29.564Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Des frappes ukrainiennes endommagent un port et des infrastructures énergétiques en Russie",
+    "added_at": "2026-03-25T09:49:23.618Z",
+    "removed_at": "2026-03-25T10:20:36.423Z",
+    "duration_minutes": 31,
+    "duration_str": "31m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – A Genève, une diplomate de Téhéran fait la leçon aux pays qui dénoncent le régime iranien",
+    "added_at": "2026-03-25T09:58:56.763Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Viktor Orbán annonce que la Hongrie va arrêter «progressivement les livraisons de gaz» à Kiev",
+    "added_at": "2026-03-25T10:20:36.423Z"
+  },
+  {
+    "title": "culture:::«I Love You I Leave You»: Dino Brandão, un chanteur à la voix d’ange face à ses démons",
+    "added_at": "2026-03-25T10:27:49.603Z"
   }
 ]
