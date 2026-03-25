@@ -185866,7 +185866,10 @@
   },
   {
     "title": "Israeli strikes empty southern Lebanon",
-    "added_at": "2026-03-24T19:23:44.178Z"
+    "added_at": "2026-03-24T19:23:44.178Z",
+    "removed_at": "2026-03-25T19:05:07.181Z",
+    "duration_minutes": 1421,
+    "duration_str": "23h 41m"
   },
   {
     "title": "Skiers beat record temps in swimsuits",
@@ -186252,7 +186255,10 @@
   },
   {
     "title": "Not paying TSA workers could pose a security risk, experts say",
-    "added_at": "2026-03-25T09:37:25.177Z"
+    "added_at": "2026-03-25T09:37:25.177Z",
+    "removed_at": "2026-03-25T18:45:54.233Z",
+    "duration_minutes": 548,
+    "duration_str": "9h 8m"
   },
   {
     "title": "How private credit could quickly become a public problem",
@@ -186326,7 +186332,10 @@
   },
   {
     "title": "London police arrest 2 men in connection with antisemitic arson attack",
-    "added_at": "2026-03-25T10:44:51.529Z"
+    "added_at": "2026-03-25T10:44:51.529Z",
+    "removed_at": "2026-03-25T18:57:57.238Z",
+    "duration_minutes": 493,
+    "duration_str": "8h 13m"
   },
   {
     "title": "What’s next in the investigation into the deadly collision at LaGuardia",
@@ -186370,11 +186379,17 @@
   },
   {
     "title": "The other part of history demolished with the East Wing: a Jackie Kennedy legacy",
-    "added_at": "2026-03-25T11:13:43.187Z"
+    "added_at": "2026-03-25T11:13:43.187Z",
+    "removed_at": "2026-03-25T19:12:20.131Z",
+    "duration_minutes": 478,
+    "duration_str": "7h 58m"
   },
   {
     "title": "Fuel vs food: These Americans are cutting back to afford higher gas prices",
-    "added_at": "2026-03-25T11:13:43.187Z"
+    "added_at": "2026-03-25T11:13:43.187Z",
+    "removed_at": "2026-03-25T19:12:20.131Z",
+    "duration_minutes": 478,
+    "duration_str": "7h 58m"
   },
   {
     "title": "Baseball in Japan is more than just a game. The Japanese stars in MLB carry that pressure everywhere they go",
@@ -186413,7 +186428,10 @@
   },
   {
     "title": "Savannah Guthrie gives first interview since her mother’s disappearance",
-    "added_at": "2026-03-25T13:16:15.824Z"
+    "added_at": "2026-03-25T13:16:15.824Z",
+    "removed_at": "2026-03-25T20:17:06.393Z",
+    "duration_minutes": 420,
+    "duration_str": "7h"
   },
   {
     "title": "Why Britain’s miserable weather is one of its greatest tourist attractions",
@@ -186521,7 +186539,10 @@
   },
   {
     "title": "Sources say timing is fluid, as Iranian state media reports an official outlined five conditions for ending the war in response to a proposal from the US",
-    "added_at": "2026-03-25T16:28:47.814Z"
+    "added_at": "2026-03-25T16:28:47.814Z",
+    "removed_at": "2026-03-25T20:17:06.393Z",
+    "duration_minutes": 228,
+    "duration_str": "3h 48m"
   },
   {
     "title": "The economy was already a big problem for Trump. The Iran war is making it worse",
@@ -186567,7 +186588,10 @@
   },
   {
     "title": "Melania Trump’s very robotic White House guest",
-    "added_at": "2026-03-25T17:50:29.162Z"
+    "added_at": "2026-03-25T17:50:29.162Z",
+    "removed_at": "2026-03-25T20:17:06.393Z",
+    "duration_minutes": 146,
+    "duration_str": "2h 26m"
   },
   {
     "title": "Woman recounts husband’s alleged cliffside attack",
@@ -186588,5 +186612,55 @@
   {
     "title": "Trump is increasingly getting blamed for a flagging economy due to the Iran war",
     "added_at": "2026-03-25T18:38:31.961Z"
+  },
+  {
+    "title": "TSA wait times fuel more misery, especially at Houston’s Bush Intercontinental",
+    "added_at": "2026-03-25T18:45:54.233Z",
+    "removed_at": "2026-03-25T20:43:33.873Z",
+    "duration_minutes": 117,
+    "duration_str": "1h 57m"
+  },
+  {
+    "title": "Arrests after Jewish volunteer ambulances set ablaze in antisemitic attack in London",
+    "added_at": "2026-03-25T18:57:57.238Z"
+  },
+  {
+    "title": "Iran building up defenses of Kharg Island to protect against potential US ground attack, sources say",
+    "added_at": "2026-03-25T19:05:07.181Z",
+    "removed_at": "2026-03-25T20:17:06.393Z",
+    "duration_minutes": 71,
+    "duration_str": "1h 11m"
+  },
+  {
+    "title": "Trump’s ballroom project demolishes not only the East Wing but also the legacy of a first lady",
+    "added_at": "2026-03-25T19:12:20.131Z"
+  },
+  {
+    "title": "Less food, tighter belts: High gas prices forcing some Americans to cut back on essentials",
+    "added_at": "2026-03-25T19:12:20.131Z"
+  },
+  {
+    "title": "Sources say the country is laying anti-personnel and anti-armor mines, including on the shoreline where US troops could possibly stage an amphibious landing",
+    "added_at": "2026-03-25T20:17:06.393Z"
+  },
+  {
+    "title": "Iran’s foreign minister acknowledges ‘exchange of messages’ with US but denies negotiations",
+    "added_at": "2026-03-25T20:17:06.393Z"
+  },
+  {
+    "title": "‘In agony’: Savannah Guthrie breaks down in first interview after mother’s disappearance",
+    "added_at": "2026-03-25T20:17:06.393Z"
+  },
+  {
+    "title": "Melania Trump brings an AI-powered robot to the White House — and says there could be more of them soon",
+    "added_at": "2026-03-25T20:17:06.393Z"
+  },
+  {
+    "title": "Venezuela’s Maduro has been in a notorious Brooklyn jail for over 80 days. This is what life is like in there",
+    "added_at": "2026-03-25T20:41:12.382Z"
+  },
+  {
+    "title": "Houston’s Bush Airport has had some of the worst TSA wait times. Here’s why",
+    "added_at": "2026-03-25T20:43:33.873Z"
   }
 ]

@@ -69457,7 +69457,10 @@
   },
   {
     "title": "Donald Trump fait état de négociations en cours avec l'Iran, mais Téhéran dément toute discussion",
-    "added_at": "2026-03-23T16:38:17.375Z"
+    "added_at": "2026-03-23T16:38:17.375Z",
+    "removed_at": "2026-03-25T20:02:41.073Z",
+    "duration_minutes": 3084,
+    "duration_str": "2d 3h 24m"
   },
   {
     "title": "Echec de la réforme judiciaire en Italie, mais Giorgia Meloni reste en fonction",
@@ -69496,7 +69499,10 @@
   },
   {
     "title": "Swiss annonce la suspension de ses vols vers Dubaï et Tel-Aviv jusqu'à fin mai",
-    "added_at": "2026-03-23T17:49:57.306Z"
+    "added_at": "2026-03-23T17:49:57.306Z",
+    "removed_at": "2026-03-25T19:24:16.081Z",
+    "duration_minutes": 2974,
+    "duration_str": "2d 1h 34m"
   },
   {
     "title": "Face à la flambée des prix des hydrocarbures, l’AIE propose des mesures d’économie énergétique",
@@ -69567,11 +69573,17 @@
   },
   {
     "title": "Après de longues négociations, l'Australie et l'UE signent un vaste accord de libre-échange",
-    "added_at": "2026-03-24T03:31:51.816Z"
+    "added_at": "2026-03-24T03:31:51.816Z",
+    "removed_at": "2026-03-25T19:41:03.678Z",
+    "duration_minutes": 2409,
+    "duration_str": "1d 16h 9m"
   },
   {
     "title": "La Suisse championne des demandes de brevets avec près de 10'000 dépôts en 2025",
-    "added_at": "2026-03-24T03:36:41.661Z"
+    "added_at": "2026-03-24T03:36:41.661Z",
+    "removed_at": "2026-03-25T19:21:51.631Z",
+    "duration_minutes": 2385,
+    "duration_str": "1d 15h 45m"
   },
   {
     "title": "Les vitrines vides, une menace pour l'attractivité des villes suisses",
@@ -69597,11 +69609,17 @@
   },
   {
     "title": "Lausanne égalise face à Genève",
-    "added_at": "2026-03-24T07:39:08.295Z"
+    "added_at": "2026-03-24T07:39:08.295Z",
+    "removed_at": "2026-03-25T18:55:30.298Z",
+    "duration_minutes": 2116,
+    "duration_str": "1d 11h 16m"
   },
   {
     "title": "\"Giulio Cesare\" de Haendel avec Cecilia Bartoli enflamme le nouveau festival Zürich Barock",
-    "added_at": "2026-03-24T07:41:35.192Z"
+    "added_at": "2026-03-24T07:41:35.192Z",
+    "removed_at": "2026-03-25T20:43:33.368Z",
+    "duration_minutes": 2221,
+    "duration_str": "1d 13h 1m"
   },
   {
     "title": "Pour Charles Dantzig, \"un tyran, c'est un tyran\" et il faut cesser de se cacher derrière la nuance",
@@ -69620,7 +69638,10 @@
   },
   {
     "title": "Le canton de Fribourg doit-il économiser 320 millions de francs ces trois prochaines années?",
-    "added_at": "2026-03-24T08:39:22.315Z"
+    "added_at": "2026-03-24T08:39:22.315Z",
+    "removed_at": "2026-03-25T21:17:18.712Z",
+    "duration_minutes": 2197,
+    "duration_str": "1d 12h 37m"
   },
   {
     "title": "Plafonner la population suisse à 10 millions: un objectif simple, une mise en œuvre complexe",
@@ -70003,7 +70024,10 @@
   },
   {
     "title": "Pourquoi la fonction publique européenne fait rêver 175'000 candidats?",
-    "added_at": "2026-03-25T15:04:33.436Z"
+    "added_at": "2026-03-25T15:04:33.436Z",
+    "removed_at": "2026-03-25T20:21:59.518Z",
+    "duration_minutes": 317,
+    "duration_str": "5h 17m"
   },
   {
     "title": "Des électeurs vaudois n'ont pas encore reçu leur enveloppe de vote",
@@ -70073,5 +70097,44 @@
   {
     "title": "Donald Trump prêt à \"déchaîner l'enfer\" en cas de \"mauvais calcul\" iranien",
     "added_at": "2026-03-25T18:19:18.282Z"
+  },
+  {
+    "title": "L'ex-star de téléréalité Loana a été retrouvée morte à son domicile à l'âge de 48 ans",
+    "added_at": "2026-03-25T18:55:30.298Z"
+  },
+  {
+    "title": "Meta et YouTube condamnés pour \"négligence\" envers leurs utilisateurs mineurs",
+    "added_at": "2026-03-25T19:00:16.868Z"
+  },
+  {
+    "title": "Evaluation désastreuse pour le futur pistolet de l’armée suisse",
+    "added_at": "2026-03-25T19:21:51.631Z"
+  },
+  {
+    "title": "Tariq Ramadan est condamné en France à 18 ans de prison pour viols",
+    "added_at": "2026-03-25T19:41:03.678Z"
+  },
+  {
+    "title": "Pas encore de verdict de la cour criminelle de Paris pour Tariq Ramadan",
+    "added_at": "2026-03-25T20:21:59.518Z"
+  },
+  {
+    "title": "Suisse Tourisme mise sur les mariages de luxe pour attirer des touristes étrangers",
+    "added_at": "2026-03-25T20:24:20.293Z"
+  },
+  {
+    "title": "Rachats d'immeubles à Genève, expulsions en série et loyers qui flambent",
+    "added_at": "2026-03-25T20:43:33.368Z",
+    "removed_at": "2026-03-25T20:58:00.979Z",
+    "duration_minutes": 14,
+    "duration_str": "14m"
+  },
+  {
+    "title": "De plus en plus de locataires virés après des rachats d'immeubles à prix d'or",
+    "added_at": "2026-03-25T20:58:00.979Z"
+  },
+  {
+    "title": "Le rappeur francophone Gims a été placé en garde à vue pour une affaire de blanchiment",
+    "added_at": "2026-03-25T21:17:18.712Z"
   }
 ]
