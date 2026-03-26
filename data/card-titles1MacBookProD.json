@@ -68413,7 +68413,10 @@
   },
   {
     "title": "L'invité de La Matinale  (vidéo)- Patrick Ogheard, membre du comité de Direction de l'EHL, l'Ecole hôtelière de Lausanne",
-    "added_at": "2026-03-20T10:18:42.823Z"
+    "added_at": "2026-03-20T10:18:42.823Z",
+    "removed_at": "2026-03-26T16:18:03.019Z",
+    "duration_minutes": 8999,
+    "duration_str": "6d 5h 59m"
   },
   {
     "title": "Le nouveau chef du renseignement fait une priorité de la satisfaction de son personnel, en état de \"fatigue mentale\"",
@@ -69728,11 +69731,17 @@
   },
   {
     "title": "Quatre milliards de francs de frais médicaux facturés en trop par année",
-    "added_at": "2026-03-24T11:10:55.638Z"
+    "added_at": "2026-03-24T11:10:55.638Z",
+    "removed_at": "2026-03-26T16:06:05.460Z",
+    "duration_minutes": 3175,
+    "duration_str": "2d 4h 55m"
   },
   {
     "title": "L'UDC entre dans son grand combat de l'année avec l'initiative \"Pas de Suisse à 10 millions!\"",
-    "added_at": "2026-03-24T11:18:09.230Z"
+    "added_at": "2026-03-24T11:18:09.230Z",
+    "removed_at": "2026-03-26T14:34:49.013Z",
+    "duration_minutes": 3076,
+    "duration_str": "2d 3h 16m"
   },
   {
     "title": "Le Liban expulse l'ambassadeur d'Iran, considéré comme \"persona non grata\"",
@@ -69778,7 +69787,10 @@
   },
   {
     "title": "Une peine de 18 ans de prison requise contre Tariq Ramadan en France",
-    "added_at": "2026-03-24T12:42:18.489Z"
+    "added_at": "2026-03-24T12:42:18.489Z",
+    "removed_at": "2026-03-26T14:56:29.980Z",
+    "duration_minutes": 3014,
+    "duration_str": "2d 2h 14m"
   },
   {
     "title": "Les recettes de Genève Aéroport progressent, avec un afflux de passagers stable",
@@ -69892,7 +69904,10 @@
   },
   {
     "title": "L'instruction de l'affaire des promoteurs immobiliers genevois en partie annulée",
-    "added_at": "2026-03-24T20:02:09.294Z"
+    "added_at": "2026-03-24T20:02:09.294Z",
+    "removed_at": "2026-03-26T16:54:00.755Z",
+    "duration_minutes": 2691,
+    "duration_str": "1d 20h 51m"
   },
   {
     "title": "L'aéroport new-yorkais de LaGuardia fermé après une collision mortelle entre un avion et un véhicule",
@@ -69922,11 +69937,17 @@
   },
   {
     "title": "Fribourg corrige Rapperswil et se relance",
-    "added_at": "2026-03-24T22:00:10.669Z"
+    "added_at": "2026-03-24T22:00:10.669Z",
+    "removed_at": "2026-03-26T15:18:05.908Z",
+    "duration_minutes": 2477,
+    "duration_str": "1d 17h 17m"
   },
   {
     "title": "Le premier bateau d'une flottille humanitaire arrive à Cuba",
-    "added_at": "2026-03-25T01:45:37.752Z"
+    "added_at": "2026-03-25T01:45:37.752Z",
+    "removed_at": "2026-03-26T17:03:39.150Z",
+    "duration_minutes": 2358,
+    "duration_str": "1d 15h 18m"
   },
   {
     "title": "L'Iran affirme que les \"navires non hostiles\" peuvent passer le détroit d'Ormuz",
@@ -70123,7 +70144,10 @@
   },
   {
     "title": "En Suisse, un senior sur cinq renonce à des soins pour des raisons financières",
-    "added_at": "2026-03-25T15:28:32.619Z"
+    "added_at": "2026-03-25T15:28:32.619Z",
+    "removed_at": "2026-03-26T15:03:42.068Z",
+    "duration_minutes": 1415,
+    "duration_str": "23h 35m"
   },
   {
     "title": "\"Love Supreme\" d'Olivier Cadiot, le paradis est sur le toit",
@@ -70352,5 +70376,37 @@
   {
     "title": "Le CIO rétablit les tests génétiques de féminité pour les JO 2028",
     "added_at": "2026-03-26T14:18:43.288Z"
+  },
+  {
+    "title": "Le Conseil fédéral veut un service civil à caractère exceptionnel",
+    "added_at": "2026-03-26T14:32:23.992Z"
+  },
+  {
+    "title": "A Prilly, la candidate PLR élue sans le vouloir accepte finalement son mandat",
+    "added_at": "2026-03-26T14:56:29.980Z"
+  },
+  {
+    "title": "La justice refuse la libération conditionnelle de Claude D.",
+    "added_at": "2026-03-26T15:03:42.068Z"
+  },
+  {
+    "title": "\"Allegra\", le deuil d'un été sous la plume d'Emmanuelle Fournier-Lorentz",
+    "added_at": "2026-03-26T15:10:54.164Z"
+  },
+  {
+    "title": "Battue dans les urnes, Giorgia Meloni va-t-elle voir son apparente stabilité s'effondrer?",
+    "added_at": "2026-03-26T15:18:05.908Z"
+  },
+  {
+    "title": "Des résiliations de baux massives à Genève",
+    "added_at": "2026-03-26T16:18:03.019Z"
+  },
+  {
+    "title": "\"Ce qui met l'Europe en danger, nous met en danger\", estime le nouveau chef de l'armée",
+    "added_at": "2026-03-26T16:54:00.755Z"
+  },
+  {
+    "title": "Tariq Ramadan: \"Je veux un nouveau procès\"",
+    "added_at": "2026-03-26T17:03:39.150Z"
   }
 ]

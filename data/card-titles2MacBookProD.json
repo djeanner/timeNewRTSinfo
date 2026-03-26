@@ -69298,7 +69298,10 @@
   },
   {
     "title": "monde:::Donald Trump ne s’intéresse plus à l’Ukraine, et cela enchante les Russes",
-    "added_at": "2026-03-17T05:16:23.032Z"
+    "added_at": "2026-03-17T05:16:23.032Z",
+    "removed_at": "2026-03-26T15:44:23.056Z",
+    "duration_minutes": 13588,
+    "duration_str": "9d 10h 28m"
   },
   {
     "title": "sciences:::«A partir de -2 °C, il peut déjà y avoir des dégâts»: le gel menace les cultures fruitières en Valais",
@@ -71235,7 +71238,10 @@
   },
   {
     "title": "economie:::Jean-François de Saussure, directeur général de Genève Aéroport: «La guerre nous coûte chaque semaine entre 600 000 et 700 000 francs»",
-    "added_at": "2026-03-24T16:49:55.121Z"
+    "added_at": "2026-03-24T16:49:55.121Z",
+    "removed_at": "2026-03-26T15:32:27.694Z",
+    "duration_minutes": 2802,
+    "duration_str": "1d 22h 42m"
   },
   {
     "title": "sport:::Marco Odermatt sort de la piste et laisse la Coupe du monde de géant à Lucas Pinheiro Braathen",
@@ -71555,7 +71561,10 @@
   },
   {
     "title": "suisse:::A Yverdon, la cosyndique écologiste Carmen Tanner cristallise les critiques et se retrouve sur un siège éjectable",
-    "added_at": "2026-03-25T17:09:38.819Z"
+    "added_at": "2026-03-25T17:09:38.819Z",
+    "removed_at": "2026-03-26T15:32:27.694Z",
+    "duration_minutes": 1342,
+    "duration_str": "22h 22m"
   },
   {
     "title": "suisse:::L’ouverture de Divinum à Morges marque un regain d’espoir pour la viticulture en crise",
@@ -71651,7 +71660,10 @@
   },
   {
     "title": "monde:::A Paris, en son absence, Tariq Ramadan est condamné à 18 ans de réclusion pour plusieurs viols particulièrement violents",
-    "added_at": "2026-03-25T20:33:58.497Z"
+    "added_at": "2026-03-25T20:33:58.497Z",
+    "removed_at": "2026-03-26T14:58:56.756Z",
+    "duration_minutes": 1104,
+    "duration_str": "18h 24m"
   },
   {
     "title": "culture:::Je t’aime, moi non plus: le romancier Panaït Istrati vu par son ami Georges Ionesco",
@@ -71753,11 +71765,17 @@
   },
   {
     "title": "culture:::Au Théâtre du Jura, la bâche en plastique sera reine grâce à Philippe Saire et trois danseurs fous",
-    "added_at": "2026-03-26T10:34:46.286Z"
+    "added_at": "2026-03-26T10:34:46.286Z",
+    "removed_at": "2026-03-26T16:54:00.813Z",
+    "duration_minutes": 379,
+    "duration_str": "6h 19m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Kiev a mené de nouvelles attaques contre des infrastructures pétrolières russes",
-    "added_at": "2026-03-26T10:34:46.286Z"
+    "added_at": "2026-03-26T10:34:46.286Z",
+    "removed_at": "2026-03-26T15:56:21.580Z",
+    "duration_minutes": 321,
+    "duration_str": "5h 21m"
   },
   {
     "title": "suisse:::Genève enregistre un excédent de 50 millions et ses comptes devraient rester bons «grâce» à la crise au Moyen-Orient",
@@ -71778,5 +71796,47 @@
   {
     "title": "culture:::Avec «Empty Home», la photographe Stéphanie Barbetta sonde notre relation au foyer",
     "added_at": "2026-03-26T13:37:34.876Z"
+  },
+  {
+    "title": "culture:::Rebecca Balestra et François Gremaud à l’affiche des 13e Journées du Théâtre Suisse",
+    "added_at": "2026-03-26T14:58:56.756Z",
+    "removed_at": "2026-03-26T15:30:01.496Z",
+    "duration_minutes": 31,
+    "duration_str": "31m"
+  },
+  {
+    "title": "culture:::Rébecca Balestra et François Gremaud à l’affiche des 13es Journées du théâtre Suisse",
+    "added_at": "2026-03-26T15:30:01.496Z",
+    "removed_at": "2026-03-26T16:08:32.028Z",
+    "duration_minutes": 38,
+    "duration_str": "38m"
+  },
+  {
+    "title": "economie:::Aucune détente en vue sur le marché immobilier: les prix grimpent et les logements abordables se font rares",
+    "added_at": "2026-03-26T15:32:27.694Z"
+  },
+  {
+    "title": "suisse:::C’était une caserne presque déserte, ce sera l’un des quartiers les plus denses de Genève: la mutation «hors norme» des Vernets",
+    "added_at": "2026-03-26T15:32:27.694Z"
+  },
+  {
+    "title": "suisse:::Le canton de Vaud livre sa recette pour accélérer la construction de logements",
+    "added_at": "2026-03-26T15:32:27.694Z"
+  },
+  {
+    "title": "suisse:::Pas de liberté pour Claude D., un condamné décrit comme toujours très dangereux",
+    "added_at": "2026-03-26T15:37:12.262Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Kiev continue de recevoir des armes malgré le conflit au Moyen-Orient, affirme l’Otan",
+    "added_at": "2026-03-26T15:56:21.580Z"
+  },
+  {
+    "title": "culture:::François Jost, sociologue: «Loana, on l’aimait bien comme victime»",
+    "added_at": "2026-03-26T16:08:32.028Z"
+  },
+  {
+    "title": "culture:::Alain Berset: «L’Europe doit soutenir ses séries TV, sinon d’autres imposeront le cadre»",
+    "added_at": "2026-03-26T16:54:00.813Z"
   }
 ]
