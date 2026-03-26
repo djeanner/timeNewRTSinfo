@@ -71541,7 +71541,10 @@
   },
   {
     "title": "suisse:::A Leysin, hausse de salaires dans les remontées mécaniques, en attendant une décision du canton",
-    "added_at": "2026-03-25T16:48:00.531Z"
+    "added_at": "2026-03-25T16:48:00.531Z",
+    "removed_at": "2026-03-26T13:30:21.890Z",
+    "duration_minutes": 1242,
+    "duration_str": "20h 42m"
   },
   {
     "title": "suisse:::Mais pourquoi autant d’élus quittent Berne en cours de législature?",
@@ -71606,7 +71609,10 @@
   },
   {
     "title": "economie:::Pourquoi l’or et l’argent baissent, alors que la guerre fait rage?",
-    "added_at": "2026-03-25T19:26:42.640Z"
+    "added_at": "2026-03-25T19:26:42.640Z",
+    "removed_at": "2026-03-26T13:37:34.876Z",
+    "duration_minutes": 1090,
+    "duration_str": "18h 10m"
   },
   {
     "title": "monde:::A Paris, en son absence, Tariq Ramadan est condamné à 18 ans de réclusion pour plusieurs viols",
@@ -71681,7 +71687,10 @@
   },
   {
     "title": "cyber:::Des circuits pour l’IA aux robots futuristes, la Suisse peut se vanter de plusieurs succès technologiques",
-    "added_at": "2026-03-26T05:58:43.728Z"
+    "added_at": "2026-03-26T05:58:43.728Z",
+    "removed_at": "2026-03-26T13:30:21.890Z",
+    "duration_minutes": 451,
+    "duration_str": "7h 31m"
   },
   {
     "title": "economie:::Le succès de la Suisse dans l’innovation est beaucoup trop fragile",
@@ -71733,7 +71742,10 @@
   },
   {
     "title": "monde:::Il sera difficile de rouvrir le détroit d'Ormuz, au littoral surarmé par l’Iran: voici pourquoi",
-    "added_at": "2026-03-26T09:27:34.387Z"
+    "added_at": "2026-03-26T09:27:34.387Z",
+    "removed_at": "2026-03-26T14:25:56.740Z",
+    "duration_minutes": 298,
+    "duration_str": "4h 58m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël dit avoir «éliminé» le chef de la marine des Gardiens de la Révolution iraniens",
@@ -71741,10 +71753,7 @@
   },
   {
     "title": "culture:::Au Théâtre du Jura, la bâche en plastique sera reine grâce à Philippe Saire et trois danseurs fous",
-    "added_at": "2026-03-26T10:34:46.286Z",
-    "removed_at": "2026-03-26T11:18:06.025Z",
-    "duration_minutes": 43,
-    "duration_str": "43m"
+    "added_at": "2026-03-26T10:34:46.286Z"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Kiev a mené de nouvelles attaques contre des infrastructures pétrolières russes",
@@ -71761,5 +71770,13 @@
   {
     "title": "economie:::Omega met l’industrie à l’heure de la certification chronométrique scientifique",
     "added_at": "2026-03-26T13:03:39.405Z"
+  },
+  {
+    "title": "monde:::En Hongrie, Péter Magyar martèle son dégagisme anti-Orbán",
+    "added_at": "2026-03-26T13:30:21.890Z"
+  },
+  {
+    "title": "culture:::Avec «Empty Home», la photographe Stéphanie Barbetta sonde notre relation au foyer",
+    "added_at": "2026-03-26T13:37:34.876Z"
   }
 ]
