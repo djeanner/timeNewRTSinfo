@@ -13406,7 +13406,10 @@
   },
   {
     "title": "Un croissant de Lune exceptionnel, visible qu'une fois tous les 18 ans, illuminera le ciel suisse jeudi soir",
-    "added_at": "2026-03-19T08:31:04.659Z"
+    "added_at": "2026-03-19T08:31:04.659Z",
+    "removed_at": "2026-03-22T18:19:27.546Z",
+    "duration_minutes": 4908,
+    "duration_str": "3d 9h 48m"
   },
   {
     "title": "Laurent Vaucher de TéléVerbier: \"Il faut avoir confiance dans les sociétés de remontées mécaniques\"",
@@ -13547,7 +13550,10 @@
   },
   {
     "title": "\"Tu n'es rien, personne ne te croira\": l'enquête fleuve sur Patrick Bruel racontée par la journaliste Marine Turchi",
-    "added_at": "2026-03-19T15:51:29.677Z"
+    "added_at": "2026-03-19T15:51:29.677Z",
+    "removed_at": "2026-03-22T19:20:11.696Z",
+    "duration_minutes": 4528,
+    "duration_str": "3d 3h 28m"
   },
   {
     "title": "Dans \"Underdog\", Bruno Marsan livre le combat d'une vie à la Rocky Balboa",
@@ -14507,6 +14513,24 @@
   },
   {
     "title": "La participation au second tour des municipales françaises s'annonce basse",
-    "added_at": "2026-03-22T17:13:01.700Z"
+    "added_at": "2026-03-22T17:13:01.700Z",
+    "removed_at": "2026-03-22T19:03:08.131Z",
+    "duration_minutes": 110,
+    "duration_str": "1h 50m"
+  },
+  {
+    "title": "Les premiers résultats des élections municipales françaises sont tombés, Edouard Philippe élu au Havre",
+    "added_at": "2026-03-22T19:03:08.131Z",
+    "removed_at": "2026-03-22T19:06:52.974Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "Les premiers résultats des élections municipales françaises sont tombés, Edouard Philippe réélu au Havre",
+    "added_at": "2026-03-22T19:06:52.974Z"
+  },
+  {
+    "title": "Edouard Philippe réélu au Havre, plusieurs villes basculent à droite, LFI gagne à Roubaix",
+    "added_at": "2026-03-22T19:39:05.090Z"
   }
 ]
