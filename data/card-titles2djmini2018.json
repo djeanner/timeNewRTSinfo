@@ -6448,7 +6448,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:00:57.917Z"
+    "added_at": "2025-05-22T18:00:57.917Z",
+    "removed_at": "2026-03-27T18:38:16.123Z",
+    "duration_minutes": 444997,
+    "duration_str": "309d 37m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -66649,7 +66652,10 @@
   },
   {
     "title": "monde:::«La tambouille ne fonctionne pas»: en France, la semaine des grandes manœuvres présidentielles",
-    "added_at": "2026-03-27T15:08:45.964Z"
+    "added_at": "2026-03-27T15:08:45.964Z",
+    "removed_at": "2026-03-27T18:40:10.874Z",
+    "duration_minutes": 211,
+    "duration_str": "3h 31m"
   },
   {
     "title": "monde:::Paris, Marseille, RN, Bayrou… Les enseignements du second tour des élections municipales en France",
@@ -66678,7 +66684,10 @@
   },
   {
     "title": "monde:::«Shutdown» du Département de la sécurité intérieure: les «plus longs temps d’attente de l’histoire» dans les aéroports américains",
-    "added_at": "2026-03-27T15:08:45.964Z"
+    "added_at": "2026-03-27T15:08:45.964Z",
+    "removed_at": "2026-03-27T18:09:43.634Z",
+    "duration_minutes": 180,
+    "duration_str": "3h"
   },
   {
     "title": "suisse:::La Suisse alémanique s’active pour surveiller les PFAS dans le lait avant que l’UE ne légifère",
@@ -66779,11 +66788,17 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L'Iran accuse les Etats-Unis et Israël d'avoir ciblé deux installations nucléaires",
-    "added_at": "2026-03-27T16:22:56.690Z"
+    "added_at": "2026-03-27T16:22:56.690Z",
+    "removed_at": "2026-03-27T19:08:42.973Z",
+    "duration_minutes": 165,
+    "duration_str": "2h 45m"
   },
   {
     "title": "sport:::Xtreme, comme la domination française en freeride",
-    "added_at": "2026-03-27T16:42:01.489Z"
+    "added_at": "2026-03-27T16:42:01.489Z",
+    "removed_at": "2026-03-27T17:37:25.289Z",
+    "duration_minutes": 55,
+    "duration_str": "55m"
   },
   {
     "title": "suisse:::Menace sur les travailleurs: la gauche sonne l’alerte face à l’initiative de l’UDC «Pas de Suisse à 10 millions!»",
@@ -66795,10 +66810,51 @@
   },
   {
     "title": "monde:::Contre toute attente, le Hezbollah résiste âprement",
-    "added_at": "2026-03-27T17:02:54.364Z"
+    "added_at": "2026-03-27T17:02:54.364Z",
+    "removed_at": "2026-03-27T19:39:10.633Z",
+    "duration_minutes": 156,
+    "duration_str": "2h 36m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Pour Moscou, le réalisateur russe de «Mr Nobody contre Poutine» est un «agent de l'étranger»",
     "added_at": "2026-03-27T17:08:36.713Z"
+  },
+  {
+    "title": "culture:::Le Jukebox de mars 2026: Harry Styles, Ganesh Geymeier, Fiona Fiasco...",
+    "added_at": "2026-03-27T17:37:25.289Z"
+  },
+  {
+    "title": "suisse:::Mathias Reynard sur le drame de Crans-Montana: «Les victimes et leurs proches ont besoin de soutien maintenant et pas dans dix ans»",
+    "added_at": "2026-03-27T18:09:43.634Z"
+  },
+  {
+    "title": "culture:::L'écrivain Edouard Louis fait sa révolution à la Comédie de Genève, ou comment il botte les fesses de Chirac, Macron & Cie",
+    "added_at": "2026-03-27T18:38:16.123Z",
+    "removed_at": "2026-03-27T19:25:49.404Z",
+    "duration_minutes": 47,
+    "duration_str": "47m"
+  },
+  {
+    "title": "cyber:::Fini de perdre inutilement des milliards de dollars: avant de lancer sa «super-application» pour ChatGPT, OpenAI sabre dans ses services",
+    "added_at": "2026-03-27T18:40:10.874Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’armée israélienne confirme avoir visé deux sites nucléaires en Iran",
+    "added_at": "2026-03-27T19:08:42.973Z"
+  },
+  {
+    "title": "culture:::L’écrivain Edouard Louis fait sa révolution à la Comédie de Genève, ou comment il botte les fesses de Chirac, Macron & Cie",
+    "added_at": "2026-03-27T19:25:49.404Z"
+  },
+  {
+    "title": "monde:::Alexis Deswaef, président de la FIDH: «Face à un monde qui se délite, les Européens doivent s’unir et ne pas abandonner le combat essentiel en faveur des droits humains»",
+    "added_at": "2026-03-27T19:39:10.633Z"
+  },
+  {
+    "title": "culture:::Petra Volpe domine les Prix du cinéma suisse avec «En première ligne», formidable thriller médical pointant la pénurie de personnel soignant",
+    "added_at": "2026-03-27T19:42:57.284Z",
+    "removed_at": "2026-03-27T19:46:44.900Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
   }
 ]
