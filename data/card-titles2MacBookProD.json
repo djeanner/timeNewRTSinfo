@@ -71873,7 +71873,10 @@
   },
   {
     "title": "culture:::Alain Berset: «L’Europe doit soutenir ses séries TV, sinon d’autres imposeront le cadre»",
-    "added_at": "2026-03-26T16:54:00.813Z"
+    "added_at": "2026-03-26T16:54:00.813Z",
+    "removed_at": "2026-03-27T07:33:50.951Z",
+    "duration_minutes": 879,
+    "duration_str": "14h 39m"
   },
   {
     "title": "monde:::La flagornerie sans limite du secrétaire général de l’OTAN face à Donald Trump provoque des crispations",
@@ -71881,7 +71884,10 @@
   },
   {
     "title": "suisse:::Pour le G7 à Evian, la Suisse déploiera son premier système anti-drones",
-    "added_at": "2026-03-26T18:01:22.395Z"
+    "added_at": "2026-03-26T18:01:22.395Z",
+    "removed_at": "2026-03-27T07:50:43.115Z",
+    "duration_minutes": 829,
+    "duration_str": "13h 49m"
   },
   {
     "title": "sciences:::Chez le cachalot, la survie du nouveau-né est une affaire d’entraide collective",
@@ -71906,14 +71912,14 @@
   },
   {
     "title": "culture:::«Je ne voulais pas être mère, c’est-à-dire un monstre»: à Lausanne, Anne Berest expose la «matraissance», naissance difficile à la maternité",
-    "added_at": "2026-03-26T18:30:04.514Z",
-    "removed_at": "2026-03-26T20:11:26.812Z",
-    "duration_minutes": 101,
-    "duration_str": "1h 41m"
+    "added_at": "2026-03-26T18:30:04.514Z"
   },
   {
     "title": "economie:::Formex et Dexel ou les vertus d’une micromarque adossée à un sous-traitant horloger de premier plan",
-    "added_at": "2026-03-26T19:15:41.451Z"
+    "added_at": "2026-03-26T19:15:41.451Z",
+    "removed_at": "2026-03-27T08:29:08.404Z",
+    "duration_minutes": 793,
+    "duration_str": "13h 13m"
   },
   {
     "title": "suisse:::A Neuchâtel, les Toilettes accueillantes redonnent de l’autonomie aux aînés",
@@ -71928,11 +71934,17 @@
   },
   {
     "title": "culture:::Huis clos montagnard sous tension, «Comme des bêtes», de l'écrivaine Violaine Bérot, ensorcelle à Genève",
-    "added_at": "2026-03-26T20:11:26.812Z"
+    "added_at": "2026-03-26T20:11:26.812Z",
+    "removed_at": "2026-03-27T07:31:30.153Z",
+    "duration_minutes": 680,
+    "duration_str": "11h 20m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump affirme qu'il ne détruira pas les centrales électriques iraniennes avant le 6 avril",
-    "added_at": "2026-03-26T20:33:03.991Z"
+    "added_at": "2026-03-26T20:33:03.991Z",
+    "removed_at": "2026-03-27T07:48:18.526Z",
+    "duration_minutes": 675,
+    "duration_str": "11h 15m"
   },
   {
     "title": "economie:::Cathie Wood, d’ARK Invest: «D’ici à cinq ans, la croissance mondiale passera de 3 à 7-8% par an grâce aux technologies»",
@@ -71940,7 +71952,10 @@
   },
   {
     "title": "economie:::Premier succès judiciaire d'Anthropic dans sa bataille contre l'administration Trump",
-    "added_at": "2026-03-27T04:57:59.262Z"
+    "added_at": "2026-03-27T04:57:59.262Z",
+    "removed_at": "2026-03-27T06:36:20.028Z",
+    "duration_minutes": 98,
+    "duration_str": "1h 38m"
   },
   {
     "title": "monde:::A Gaza, le Hamas profite de la guerre entre Israël et l’Iran pour réaffirmer son autorité par la force",
@@ -71953,5 +71968,42 @@
   {
     "title": "economie:::La stratégie d’investissement qui consiste à «Ignorer Trump»",
     "added_at": "2026-03-27T06:09:45.103Z"
+  },
+  {
+    "title": "suisse:::Karin Keller-Sutter:  Face aux risques économiques, «nous devons mettre de l’ordre dans nos finances»",
+    "added_at": "2026-03-27T06:36:20.028Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’armée israélienne a mené «une série de frappes à grande échelle» sur Téhéran",
+    "added_at": "2026-03-27T07:48:18.526Z",
+    "removed_at": "2026-03-27T09:02:54.566Z",
+    "duration_minutes": 74,
+    "duration_str": "1h 14m"
+  },
+  {
+    "title": "suisse:::Laits infantiles contaminés: une enquête pointe la négligence des autorités suisses",
+    "added_at": "2026-03-27T07:50:43.115Z",
+    "removed_at": "2026-03-27T08:31:32.999Z",
+    "duration_minutes": 40,
+    "duration_str": "40m"
+  },
+  {
+    "title": "sport:::Que faire de Denis Zakaria en équipe de Suisse?",
+    "added_at": "2026-03-27T08:31:32.999Z"
+  },
+  {
+    "title": "monde:::«Shutdown» du Département de la sécurité intérieure: les «plus longs temps d’attente de l’histoire» dans les aéroports américains",
+    "added_at": "2026-03-27T08:58:03.549Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – A Genève, le haut-commissaire aux droits de l'homme de l'ONU réclame «justice» pour le bombardement américain de l'école iranienne de Minab",
+    "added_at": "2026-03-27T09:02:54.566Z",
+    "removed_at": "2026-03-27T09:12:27.383Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le haut-commissaire aux droits de l'homme réclame «justice» pour le bombardement de l'école iranienne de Minab",
+    "added_at": "2026-03-27T09:12:27.383Z"
   }
 ]
