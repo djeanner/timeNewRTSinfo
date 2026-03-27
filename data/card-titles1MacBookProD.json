@@ -69878,7 +69878,10 @@
   },
   {
     "title": "Ces stations que le Magic Pass ne veut pas laisser entrer",
-    "added_at": "2026-03-24T17:42:38.826Z"
+    "added_at": "2026-03-24T17:42:38.826Z",
+    "removed_at": "2026-03-27T05:57:45.859Z",
+    "duration_minutes": 3615,
+    "duration_str": "2d 12h 15m"
   },
   {
     "title": "Israël va occuper une \"zone de sécurité\" dans le sud du Liban jusqu'au fleuve Litani",
@@ -70042,7 +70045,10 @@
   },
   {
     "title": "Première condamnation majeure de Meta aux Etats-Unis pour mise en danger d'enfants",
-    "added_at": "2026-03-25T10:15:47.905Z"
+    "added_at": "2026-03-25T10:15:47.905Z",
+    "removed_at": "2026-03-27T06:07:24.058Z",
+    "duration_minutes": 2631,
+    "duration_str": "1d 19h 51m"
   },
   {
     "title": "L'invité de La Matinale (vidéo) - Alexandre Ineichen, nouvel abbé de l’abbaye de Saint-Maurice",
@@ -70487,10 +70493,25 @@
   },
   {
     "title": "La vedette de téléréalité Loana est décédée à 48 ans",
-    "added_at": "2026-03-26T23:04:34.821Z"
+    "added_at": "2026-03-26T23:04:34.821Z",
+    "removed_at": "2026-03-27T06:16:56.506Z",
+    "duration_minutes": 432,
+    "duration_str": "7h 12m"
   },
   {
     "title": "Donald Trump aura sa signature sur les billets de banque américains",
     "added_at": "2026-03-27T03:41:01.336Z"
+  },
+  {
+    "title": "La Suisse dans le viseur de la guerre hybride menée par la Russie",
+    "added_at": "2026-03-27T05:57:45.859Z"
+  },
+  {
+    "title": "La guerre au Moyen-Orient compromet la modernisation de l'Arabie saoudite",
+    "added_at": "2026-03-27T06:07:24.058Z"
+  },
+  {
+    "title": "Le rappeur Gims en garde à vue dans une affaire de blanchiment en bande organisée",
+    "added_at": "2026-03-27T06:16:56.506Z"
   }
 ]
