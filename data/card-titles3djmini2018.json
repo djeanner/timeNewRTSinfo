@@ -143613,7 +143613,10 @@
   },
   {
     "title": "12 U.S. Troops Injured in Attack on Saudi Base, Officials Say",
-    "added_at": "2026-03-28T01:29:55.546Z"
+    "added_at": "2026-03-28T01:29:55.546Z",
+    "removed_at": "2026-03-28T07:01:09.470Z",
+    "duration_minutes": 331,
+    "duration_str": "5h 31m"
   },
   {
     "title": "U.S. Antitank Mines Are Discovered in Neighborhood in Iran",
@@ -143648,5 +143651,9 @@
   {
     "title": "House Vote Sets Up Clash With the Senate on D.H.S. Funding, Prolonging Shutdown",
     "added_at": "2026-03-28T04:51:38.542Z"
+  },
+  {
+    "title": "Iranian Strike on Saudi Base Injures 12 U.S. Troops, Officials Say",
+    "added_at": "2026-03-28T07:01:09.470Z"
   }
 ]
