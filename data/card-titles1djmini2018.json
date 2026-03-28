@@ -87979,7 +87979,10 @@
   },
   {
     "title": "Les Houthis attaquent Israël pour la première fois depuis le début de la guerre",
-    "added_at": "2026-03-28T08:00:18.725Z"
+    "added_at": "2026-03-28T08:00:18.725Z",
+    "removed_at": "2026-03-28T18:02:06.460Z",
+    "duration_minutes": 601,
+    "duration_str": "10h 1m"
   },
   {
     "title": "La méningite fait plus de 250'000 morts par an dans le monde",
@@ -88003,10 +88006,7 @@
   },
   {
     "title": "Annyssa Bellal - Comment construire la paix ?",
-    "added_at": "2026-03-28T10:19:25.758Z",
-    "removed_at": "2026-03-28T17:04:51.445Z",
-    "duration_minutes": 405,
-    "duration_str": "6h 45m"
+    "added_at": "2026-03-28T10:19:25.758Z"
   },
   {
     "title": "Des archives américaines montrent l'appartenance de 8,5 millions d'Allemands au parti nazi",
@@ -88068,11 +88068,17 @@
   },
   {
     "title": "Depuis Monaco, le pape Léon XIV dénonce les \"abîmes entre pauvres et riches\"",
-    "added_at": "2026-03-28T16:02:02.870Z"
+    "added_at": "2026-03-28T16:02:02.870Z",
+    "removed_at": "2026-03-28T17:54:27.934Z",
+    "duration_minutes": 112,
+    "duration_str": "1h 52m"
   },
   {
     "title": "Claude D., l'assassin de Marie, restera derrière les barreaux",
-    "added_at": "2026-03-28T16:03:53.609Z"
+    "added_at": "2026-03-28T16:03:53.609Z",
+    "removed_at": "2026-03-28T18:03:57.128Z",
+    "duration_minutes": 120,
+    "duration_str": "2h"
   },
   {
     "title": "Agnès Jaoui: \"Chanter m'a permis de respirer, dans tous les sens du terme\"",
@@ -88081,5 +88087,17 @@
   {
     "title": "Nouvelle vague de manifestations contre Donald Trump, la troisième en moins d'un an",
     "added_at": "2026-03-28T16:59:07.848Z"
+  },
+  {
+    "title": "En visite à Monaco, le pape Léon XIV dénonce les \"abîmes entre pauvres et riches\"",
+    "added_at": "2026-03-28T17:54:27.934Z"
+  },
+  {
+    "title": "A Genève, environ 400 personnes ont manifesté contre la spéculation immobilière",
+    "added_at": "2026-03-28T17:58:15.093Z"
+  },
+  {
+    "title": "De puissantes explosions ont été entendues à Téhéran",
+    "added_at": "2026-03-28T18:02:06.460Z"
   }
 ]
