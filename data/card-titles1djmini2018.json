@@ -87590,7 +87590,10 @@
   },
   {
     "title": "La justice refuse la libération conditionnelle de Claude D.",
-    "added_at": "2026-03-27T15:08:45.862Z"
+    "added_at": "2026-03-27T15:08:45.862Z",
+    "removed_at": "2026-03-29T03:37:02.703Z",
+    "duration_minutes": 2188,
+    "duration_str": "1d 12h 28m"
   },
   {
     "title": "Donald Trump aura sa signature sur les billets de banque américains",
@@ -87948,10 +87951,7 @@
   },
   {
     "title": "Selon le Tribunal fédéral, l’appellation \"lait\" pour le lait d’origine végétale induirait le consommateur en erreur",
-    "added_at": "2026-03-27T20:19:24.385Z",
-    "removed_at": "2026-03-29T02:18:56.677Z",
-    "duration_minutes": 1799,
-    "duration_str": "1d 5h 59m"
+    "added_at": "2026-03-27T20:19:24.385Z"
   },
   {
     "title": "La police bernoise va publier les visages de casseurs présumés de la manifestation pour Gaza",
@@ -88017,7 +88017,10 @@
   },
   {
     "title": "A Londres, des journalistes d'opposition iraniens informent malgré les menaces",
-    "added_at": "2026-03-28T08:19:21.401Z"
+    "added_at": "2026-03-28T08:19:21.401Z",
+    "removed_at": "2026-03-29T04:20:43.570Z",
+    "duration_minutes": 1201,
+    "duration_str": "20h 1m"
   },
   {
     "title": "\"They Will Kill You\", une comédie gore diabolique signée Kirill Sokolov ★★★★☆",
@@ -88189,5 +88192,9 @@
   {
     "title": "Le Pentagone se prépare à des opérations sur le terrain en Iran",
     "added_at": "2026-03-29T02:34:07.357Z"
+  },
+  {
+    "title": "Les deux voiliers humanitaires \"perdus\" durant leur périple vers Cuba sont arrivés sains et saufs",
+    "added_at": "2026-03-29T03:37:02.703Z"
   }
 ]
