@@ -66949,7 +66949,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Des frappes russes sur la ville d’Odessa ont tué une personne et fait 11 blessés",
-    "added_at": "2026-03-28T07:20:10.133Z"
+    "added_at": "2026-03-28T07:20:10.133Z",
+    "removed_at": "2026-03-29T13:17:52.004Z",
+    "duration_minutes": 1797,
+    "duration_str": "1d 5h 57m"
   },
   {
     "title": "monde:::En Israël, la chute du tourisme et le poids de l’effort de guerre pèsent fortement sur l’économie",
@@ -67053,7 +67056,10 @@
   },
   {
     "title": "monde:::«Je veux savoir si ma famille a commis des crimes sous Hitler»",
-    "added_at": "2026-03-28T18:07:48.681Z"
+    "added_at": "2026-03-28T18:07:48.681Z",
+    "removed_at": "2026-03-29T12:49:19.673Z",
+    "duration_minutes": 1121,
+    "duration_str": "18h 41m"
   },
   {
     "title": "suisse:::A Lausanne, le carnaval antifasciste a rempli les rues et évité les affrontements",
@@ -67112,11 +67118,17 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le président du parlement iranien affirme que Washington prépare une attaque terrestre",
-    "added_at": "2026-03-29T09:38:45.788Z"
+    "added_at": "2026-03-29T09:38:45.788Z",
+    "removed_at": "2026-03-29T14:11:13.689Z",
+    "duration_minutes": 272,
+    "duration_str": "4h 32m"
   },
   {
     "title": "culture:::Maurice Chappaz entre dans la collection «Poésie» de Gallimard",
-    "added_at": "2026-03-29T09:50:10.632Z"
+    "added_at": "2026-03-29T09:50:10.632Z",
+    "removed_at": "2026-03-29T12:56:57.154Z",
+    "duration_minutes": 186,
+    "duration_str": "3h 6m"
   },
   {
     "title": "suisse:::En direct – Pour l’heure, Jean-François Thuillard devance Roger Nordmann pour le Conseil d'Etat vaudois",
@@ -67162,10 +67174,72 @@
   },
   {
     "title": "suisse:::En direct – Olivier Jornot en passe d’être réélu à Genève; Roger Nordmann devrait entrer au gouvernement vaudois",
-    "added_at": "2026-03-29T11:55:52.733Z"
+    "added_at": "2026-03-29T11:55:52.733Z",
+    "removed_at": "2026-03-29T12:22:40.478Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
   },
   {
     "title": "suisse:::Le socialiste Roger Nordmann est élu au Conseil d’Etat vaudois au bout du suspense",
-    "added_at": "2026-03-29T12:01:35.039Z"
+    "added_at": "2026-03-29T12:01:35.039Z",
+    "removed_at": "2026-03-29T14:41:44.197Z",
+    "duration_minutes": 160,
+    "duration_str": "2h 40m"
+  },
+  {
+    "title": "suisse:::En direct – Olivier Jornot est réélu à Genève; Roger Nordmann entre au gouvernement vaudois",
+    "added_at": "2026-03-29T12:22:40.478Z",
+    "removed_at": "2026-03-29T14:36:00.934Z",
+    "duration_minutes": 133,
+    "duration_str": "2h 13m"
+  },
+  {
+    "title": "suisse:::En direct – Olivier Jornot en passe d'être réélu à Genève; Roger Nordmann entre au gouvernement vaudois",
+    "added_at": "2026-03-29T12:30:20.191Z",
+    "removed_at": "2026-03-29T12:32:11.555Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "suisse:::En direct – Roger Nordmann entre au gouvernement vaudois; Olivier Jornot en passe d'être réélu à Genève",
+    "added_at": "2026-03-29T12:32:11.555Z",
+    "removed_at": "2026-03-29T13:04:36.226Z",
+    "duration_minutes": 32,
+    "duration_str": "32m"
+  },
+  {
+    "title": "cyber:::Voici le «thermomètre de l’IA»: à Genève, le Bureau culturel propose de mesurer la part d’intelligence artificielle dans l’industrie créative",
+    "added_at": "2026-03-29T12:49:19.673Z"
+  },
+  {
+    "title": "monde:::Attentat déjoué contre Bank of America à Paris: trois personnes sont en garde à vue",
+    "added_at": "2026-03-29T12:56:57.154Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky en visit en Jordanie pour des discussions concernant la «sécurité»",
+    "added_at": "2026-03-29T13:17:52.004Z",
+    "removed_at": "2026-03-29T13:36:53.715Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky en visite en Jordanie pour des discussions concernant la «sécurité»",
+    "added_at": "2026-03-29T13:36:53.715Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le Pentagone se prépare à mener des opérations terrestres pendant plusieurs semaines en Iran",
+    "added_at": "2026-03-29T14:11:13.689Z"
+  },
+  {
+    "title": "suisse:::Elections communales vaudoises: la composition de votre municipalité après le second tour",
+    "added_at": "2026-03-29T14:28:21.661Z"
+  },
+  {
+    "title": "suisse:::En direct – Roger Nordmann entre au gouvernement vaudois, Olivier Jornot est réélu à Genève, l’UDC pourrait triompher à Berne",
+    "added_at": "2026-03-29T14:36:00.934Z"
+  },
+  {
+    "title": "suisse:::Lausanne reste une forteresse de gauche inexpugnable",
+    "added_at": "2026-03-29T14:41:44.197Z"
   }
 ]
