@@ -65353,9 +65353,9 @@
   {
     "title": "Les beaux parleurs - En direct, avec rattrapage",
     "added_at": "2025-11-16T12:57:07.203Z",
-    "removed_at": "2025-11-16T12:59:01.546Z",
-    "duration_minutes": 1,
-    "duration_str": "1m"
+    "removed_at": "2026-03-29T11:57:43.670Z",
+    "duration_minutes": 191460,
+    "duration_str": "132d 23h"
   },
   {
     "title": "Gouverner, cest choisir",
@@ -87426,11 +87426,17 @@
   },
   {
     "title": "Porté par le streaming, le marché suisse de la musique poursuit sa croissance en 2025",
-    "added_at": "2026-03-27T15:08:45.862Z"
+    "added_at": "2026-03-27T15:08:45.862Z",
+    "removed_at": "2026-03-29T10:56:54.271Z",
+    "duration_minutes": 2628,
+    "duration_str": "1d 19h 48m"
   },
   {
     "title": "Yaël Hayat: \"Le rôle de l'avocat est de pouvoir dire ce qui ne peut pas l'être\"",
-    "added_at": "2026-03-27T15:08:45.862Z"
+    "added_at": "2026-03-27T15:08:45.862Z",
+    "removed_at": "2026-03-29T09:59:52.245Z",
+    "duration_minutes": 2571,
+    "duration_str": "1d 18h 51m"
   },
   {
     "title": "En refusant un contrat militaire, Anthropic met en avant la menace des armes autonomes",
@@ -87972,7 +87978,10 @@
   },
   {
     "title": "Selon le Tribunal fédéral, l’appellation \"lait\" pour le lait d’origine végétale induirait le consommateur en erreur",
-    "added_at": "2026-03-27T20:19:24.385Z"
+    "added_at": "2026-03-27T20:19:24.385Z",
+    "removed_at": "2026-03-29T11:55:52.645Z",
+    "duration_minutes": 2376,
+    "duration_str": "1d 15h 36m"
   },
   {
     "title": "La police bernoise va publier les visages de casseurs présumés de la manifestation pour Gaza",
@@ -88118,7 +88127,10 @@
   },
   {
     "title": "Duel entre Jean-François Thuillard et Roger Nordmann pour une place au Conseil d'Etat vaudois",
-    "added_at": "2026-03-28T15:46:47.845Z"
+    "added_at": "2026-03-28T15:46:47.845Z",
+    "removed_at": "2026-03-29T10:20:44.688Z",
+    "duration_minutes": 1113,
+    "duration_str": "18h 33m"
   },
   {
     "title": "Depuis Monaco, le pape Léon XIV dénonce les \"abîmes entre pauvres et riches\"",
@@ -88258,6 +88270,71 @@
   },
   {
     "title": "Le canton de Berne renouvelle ses autorités politiques ce dimanche",
-    "added_at": "2026-03-29T09:25:25.778Z"
+    "added_at": "2026-03-29T09:25:25.778Z",
+    "removed_at": "2026-03-29T12:11:03.264Z",
+    "duration_minutes": 165,
+    "duration_str": "2h 45m"
+  },
+  {
+    "title": "Les nouveaux visages des Municipalités seront connus dimanche dans les villes vaudoises",
+    "added_at": "2026-03-29T09:59:52.245Z",
+    "removed_at": "2026-03-29T11:50:10.402Z",
+    "duration_minutes": 110,
+    "duration_str": "1h 50m"
+  },
+  {
+    "title": "Jean-François Thuillard fait la course en tête après le dépouillement des petites communes",
+    "added_at": "2026-03-29T10:20:44.688Z",
+    "removed_at": "2026-03-29T10:24:36.349Z",
+    "duration_minutes": 3,
+    "duration_str": "3m"
+  },
+  {
+    "title": "L'UDC Jean-François Thuillard fait la course en tête après le dépouillement des petites communes",
+    "added_at": "2026-03-29T10:24:36.349Z",
+    "removed_at": "2026-03-29T10:45:28.804Z",
+    "duration_minutes": 20,
+    "duration_str": "20m"
+  },
+  {
+    "title": "L'UDC Jean-François Thuillard fait toujours la course en tête après plus de la moitié du dépouillement",
+    "added_at": "2026-03-29T10:45:28.804Z",
+    "removed_at": "2026-03-29T11:08:18.875Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
+  },
+  {
+    "title": "Le PLR Olivier Jornot est réélu procureur général à Genève face à Pierre Bayenet",
+    "added_at": "2026-03-29T10:56:54.271Z"
+  },
+  {
+    "title": "Roger Nordmann bascule en tête après dépouillement de Lausanne et Yverdon",
+    "added_at": "2026-03-29T11:08:18.875Z",
+    "removed_at": "2026-03-29T11:19:43.207Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "Roger Nordmann bascule en tête après le dépouillement de Lausanne et Yverdon",
+    "added_at": "2026-03-29T11:19:43.207Z",
+    "removed_at": "2026-03-29T12:07:17.396Z",
+    "duration_minutes": 47,
+    "duration_str": "47m"
+  },
+  {
+    "title": "La gauche conserve six sièges à la Municipalité de Lausanne, le PLR fait son entrée à Vevey",
+    "added_at": "2026-03-29T11:50:10.402Z"
+  },
+  {
+    "title": "Selon que vous serez puissant ou misérable",
+    "added_at": "2026-03-29T11:57:43.670Z"
+  },
+  {
+    "title": "Le socialiste Roger Nordmann s’impose face à l’UDC Jean-François Thuillard grâce aux grandes communes",
+    "added_at": "2026-03-29T12:07:17.396Z"
+  },
+  {
+    "title": "Les résultats des élections cantonales bernoises tombent au compte-gouttes",
+    "added_at": "2026-03-29T12:11:03.264Z"
   }
 ]
