@@ -70594,7 +70594,10 @@
   },
   {
     "title": "La justice refuse la libération conditionnelle de Claude D.",
-    "added_at": "2026-03-26T15:03:42.068Z"
+    "added_at": "2026-03-26T15:03:42.068Z",
+    "removed_at": "2026-03-29T03:37:09.273Z",
+    "duration_minutes": 3633,
+    "duration_str": "2d 12h 33m"
   },
   {
     "title": "\"Allegra\", le deuil d'un été sous la plume d'Emmanuelle Fournier-Lorentz",
@@ -70701,7 +70704,10 @@
   },
   {
     "title": "Donald Trump aura sa signature sur les billets de banque américains",
-    "added_at": "2026-03-27T03:41:01.336Z"
+    "added_at": "2026-03-27T03:41:01.336Z",
+    "removed_at": "2026-03-29T02:34:40.300Z",
+    "duration_minutes": 2813,
+    "duration_str": "1d 22h 53m"
   },
   {
     "title": "La Suisse dans le viseur de la guerre hybride menée par la Russie",
@@ -70974,9 +70980,9 @@
   {
     "title": "A Londres, des journalistes d'opposition iraniens informent malgré les menaces",
     "added_at": "2026-03-28T08:18:54.011Z",
-    "removed_at": "2026-03-28T22:19:20.453Z",
-    "duration_minutes": 840,
-    "duration_str": "14h"
+    "removed_at": "2026-03-29T04:20:18.480Z",
+    "duration_minutes": 1201,
+    "duration_str": "20h 1m"
   },
   {
     "title": "\"They Will Kill You\", une comédie gore diabolique signée Kirill Sokolov ★★★★☆",
@@ -71117,7 +71123,10 @@
   },
   {
     "title": "Les Houthis revendiquent une deuxième attaque contre Israël",
-    "added_at": "2026-03-28T21:12:05.129Z"
+    "added_at": "2026-03-28T21:12:05.129Z",
+    "removed_at": "2026-03-29T02:05:49.079Z",
+    "duration_minutes": 293,
+    "duration_str": "4h 53m"
   },
   {
     "title": "Une satire iranienne décroche le Grand Prix 2026 du FIFF",
@@ -71137,5 +71146,17 @@
   {
     "title": "Le carnaval antifa se déroule sous tension à Lausanne",
     "added_at": "2026-03-29T00:19:50.646Z"
+  },
+  {
+    "title": "Les Houthis revendiquent deux attaques contre Israël",
+    "added_at": "2026-03-29T01:58:36.416Z"
+  },
+  {
+    "title": "Le Pentagone se prépare à des opérations sur le terrain en Iran",
+    "added_at": "2026-03-29T02:34:40.300Z"
+  },
+  {
+    "title": "Les deux voiliers humanitaires \"perdus\" durant leur périple vers Cuba sont arrivés sains et saufs",
+    "added_at": "2026-03-29T03:37:09.273Z"
   }
 ]
