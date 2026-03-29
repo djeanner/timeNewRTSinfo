@@ -143858,7 +143858,10 @@
   },
   {
     "title": "The Bar Is Open Again on the Staten Island Ferry",
-    "added_at": "2026-03-28T16:45:48.050Z"
+    "added_at": "2026-03-28T16:45:48.050Z",
+    "removed_at": "2026-03-28T23:01:02.793Z",
+    "duration_minutes": 375,
+    "duration_str": "6h 15m"
   },
   {
     "title": "Man in Paris Accused of Attempted Attack on Bank of America",
@@ -143907,5 +143910,9 @@
   {
     "title": "G.O.P. Rift Leaves Congress With No Clear Path to End the Shutdown",
     "added_at": "2026-03-28T21:39:05.040Z"
+  },
+  {
+    "title": "Astronaut’s Condition That Led to Space Station Evacuation Remains a Mystery",
+    "added_at": "2026-03-28T23:01:02.793Z"
   }
 ]
