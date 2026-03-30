@@ -66757,7 +66757,10 @@
   },
   {
     "title": "suisse:::Après Rebecca Ruiz, le défi vertigineux d’un Département de la santé vaudois au bord de l’embolie",
-    "added_at": "2026-03-27T15:08:45.964Z"
+    "added_at": "2026-03-27T15:08:45.964Z",
+    "removed_at": "2026-03-30T05:12:23.777Z",
+    "duration_minutes": 3723,
+    "duration_str": "2d 14h 3m"
   },
   {
     "title": "suisse:::Dans la course au Conseil d’Etat vaudois, Jean-François Thuillard peut-il récupérer les 16 000 voix qui le séparent de la gauche?",
@@ -67271,7 +67274,10 @@
   },
   {
     "title": "suisse:::Elections communales vaudoises: la composition de votre municipalité après le second tour",
-    "added_at": "2026-03-29T14:28:21.661Z"
+    "added_at": "2026-03-29T14:28:21.661Z",
+    "removed_at": "2026-03-30T05:12:23.777Z",
+    "duration_minutes": 884,
+    "duration_str": "14h 44m"
   },
   {
     "title": "suisse:::En direct – Roger Nordmann entre au gouvernement vaudois, Olivier Jornot est réélu à Genève, l’UDC pourrait triompher à Berne",
@@ -67289,10 +67295,7 @@
   },
   {
     "title": "monde:::Les Etats-Unis préparent une opération terrestre en Iran malgré les efforts de médiation déployés par le Pakistan",
-    "added_at": "2026-03-29T15:25:38.900Z",
-    "removed_at": "2026-03-30T04:01:54.524Z",
-    "duration_minutes": 756,
-    "duration_str": "12h 36m"
+    "added_at": "2026-03-29T15:25:38.900Z"
   },
   {
     "title": "sport:::Un seul but a suffi à Servette FC Chênois Féminin pour gagner à nouveau la Coupe de Suisse",
@@ -67317,7 +67320,10 @@
   },
   {
     "title": "suisse:::Au bout du suspense, le socialiste Roger Nordmann est élu au Conseil d’Etat vaudois",
-    "added_at": "2026-03-29T15:52:15.334Z"
+    "added_at": "2026-03-29T15:52:15.334Z",
+    "removed_at": "2026-03-30T05:12:23.777Z",
+    "duration_minutes": 800,
+    "duration_str": "13h 20m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Benyamin Netanyahou ordonne à l’armée israélienne d'«étendre la zone de sécurité» dans le sud du Liban",
@@ -67360,7 +67366,10 @@
   },
   {
     "title": "monde:::Le patriarche latin de Jérusalem interdit d’entrée au Saint-Sépulcre par la police israélienne",
-    "added_at": "2026-03-29T17:56:13.484Z"
+    "added_at": "2026-03-29T17:56:13.484Z",
+    "removed_at": "2026-03-30T05:59:58.566Z",
+    "duration_minutes": 723,
+    "duration_str": "12h 3m"
   },
   {
     "title": "suisse:::Roger Nordmann entre au gouvernement vaudois, Olivier Jornot est réélu à Genève, l’UDC triomphe à Berne: notre suivi du dimanche 29 mars 2026",
@@ -67419,7 +67428,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Alors qu'une intervention terrestre américaine en Iran est évoquée, Donald Trump dit entrevoir un accord",
-    "added_at": "2026-03-30T03:29:31.608Z"
+    "added_at": "2026-03-30T03:29:31.608Z",
+    "removed_at": "2026-03-30T05:02:53.931Z",
+    "duration_minutes": 93,
+    "duration_str": "1h 33m"
   },
   {
     "title": "monde:::Le président Vucic proclame la victoire aux municipales partielles en Serbie",
@@ -67430,7 +67442,10 @@
   },
   {
     "title": "monde:::Le président Vucic proclame la victoire de son parti aux municipales partielles en Serbie",
-    "added_at": "2026-03-30T04:07:37.053Z"
+    "added_at": "2026-03-30T04:07:37.053Z",
+    "removed_at": "2026-03-30T06:45:40.385Z",
+    "duration_minutes": 158,
+    "duration_str": "2h 38m"
   },
   {
     "title": "suisse:::Le canton de Berne conserve sa «formule magique» après un suspense haletant",
@@ -67442,5 +67457,58 @@
   {
     "title": "suisse:::Coup de sac à la Municipalité de Morges: la droite perd des plumes et le PLR s’emmêle les pinceaux",
     "added_at": "2026-03-30T04:11:23.243Z"
+  },
+  {
+    "title": "economie:::Bénéfice et actifs en hausse pour la banque J. Safra Sarasin",
+    "added_at": "2026-03-30T05:02:53.931Z"
+  },
+  {
+    "title": "monde:::Katherine Stewart: «Sans la droite religieuse américaine, le mouvement MAGA n’existerait pas»",
+    "added_at": "2026-03-30T05:12:23.777Z",
+    "removed_at": "2026-03-30T07:12:15.053Z",
+    "duration_minutes": 119,
+    "duration_str": "1h 59m"
+  },
+  {
+    "title": "monde:::Donald Trump interdit à son administration de collaborer avec des entreprises menant des politiques antidiscriminations",
+    "added_at": "2026-03-30T05:12:23.777Z",
+    "removed_at": "2026-03-30T06:45:40.385Z",
+    "duration_minutes": 93,
+    "duration_str": "1h 33m"
+  },
+  {
+    "title": "monde:::«Les Américains veulent que ça se termine vite» – A Washington, l’aventure iranienne commence à fatiguer tout le monde",
+    "added_at": "2026-03-30T05:12:23.777Z",
+    "removed_at": "2026-03-30T07:10:24.301Z",
+    "duration_minutes": 118,
+    "duration_str": "1h 58m"
+  },
+  {
+    "title": "culture:::Jean Liermier, metteur en scène et directeur du Théâtre de Carouge: «J’étais le sparring-partner de Michel Piccoli»",
+    "added_at": "2026-03-30T05:29:30.892Z"
+  },
+  {
+    "title": "economie:::Les gérants de fortune se plaignent d’une explosion des coûts",
+    "added_at": "2026-03-30T05:29:30.892Z"
+  },
+  {
+    "title": "economie:::A Yaoundé, les négociations ministérielles de l'OMC ne percent pas",
+    "added_at": "2026-03-30T05:59:58.566Z"
+  },
+  {
+    "title": "monde:::Le patriarche latin de Jérusalem pourra bien rejoindre le Saint-Sépulcre",
+    "added_at": "2026-03-30T06:26:35.184Z"
+  },
+  {
+    "title": "culture:::Naïssam Jalal, le voyage en Inde d’une flûtiste franco-syrienne en quête d’un nouveau souffle",
+    "added_at": "2026-03-30T06:34:14.691Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump dit entrevoir un accord aves les nouvelles autorités iraniennes",
+    "added_at": "2026-03-30T06:45:40.385Z"
+  },
+  {
+    "title": "monde:::«Nous avions affaire à des personnes souvent très radicalisées»: les évadés de camps syriens, une aubaine pour l’Etat islamique",
+    "added_at": "2026-03-30T06:45:40.385Z"
   }
 ]
