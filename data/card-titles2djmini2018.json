@@ -67743,10 +67743,7 @@
   },
   {
     "title": "economie:::«Au début, j’étais énervée mais ce n’est pas la fin du monde»: les vacances des Suisses remodelées par la guerre au Moyen-Orient",
-    "added_at": "2026-03-30T14:26:36.277Z",
-    "removed_at": "2026-03-31T08:10:28.522Z",
-    "duration_minutes": 1063,
-    "duration_str": "17h 43m"
+    "added_at": "2026-03-30T14:26:36.277Z"
   },
   {
     "title": "suisse:::Un gaz tout sauf hilarant: à Genève, la police alerte sur la prise de protoxyde d’azote au volant",
@@ -67757,7 +67754,10 @@
   },
   {
     "title": "cyber:::Cinq cybermenaces majeures mettent les citoyens et l’économie suisse sous pression maximale",
-    "added_at": "2026-03-30T15:31:28.448Z"
+    "added_at": "2026-03-30T15:31:28.448Z",
+    "removed_at": "2026-03-31T10:54:36.685Z",
+    "duration_minutes": 1163,
+    "duration_str": "19h 23m"
   },
   {
     "title": "suisse:::Les grandes villes, derniers remparts contre l’UDC",
@@ -67798,7 +67798,10 @@
   },
   {
     "title": "sciences:::«C’est un travail de précision»: des experts suisses aident l’Europe à concevoir des vaisseaux spatiaux qui se réparent seuls",
-    "added_at": "2026-03-30T19:14:26.732Z"
+    "added_at": "2026-03-30T19:14:26.732Z",
+    "removed_at": "2026-03-31T10:33:36.150Z",
+    "duration_minutes": 919,
+    "duration_str": "15h 19m"
   },
   {
     "title": "culture:::Céline Dion officialise son grand retour avec dix concerts à Paris",
@@ -67844,7 +67847,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Un pétrolier visé dans les eaux de Dubaï, l'incendie à bord a été éteint",
-    "added_at": "2026-03-31T06:27:23.587Z"
+    "added_at": "2026-03-31T06:27:23.587Z",
+    "removed_at": "2026-03-31T10:08:52.390Z",
+    "duration_minutes": 221,
+    "duration_str": "3h 41m"
   },
   {
     "title": "monde:::En pleine guerre au Moyen-Orient, Aliko Dangote est le nouvel homme fort de l’énergie africaine",
@@ -67852,14 +67858,46 @@
   },
   {
     "title": "cyber:::«Zelda», «Castlevania», «Metroid»… il y a 40 ans, le jeu vidéo moderne sortait de l’œuf",
-    "added_at": "2026-03-31T08:10:28.522Z"
+    "added_at": "2026-03-31T08:10:28.522Z",
+    "removed_at": "2026-03-31T10:56:27.245Z",
+    "duration_minutes": 165,
+    "duration_str": "2h 45m"
   },
   {
     "title": "culture:::De Raye à Zara Larsson, de Nick Cave à Lewis Capaldi, de Charles Llyod à Van Morrison, le Montreux Jazz Festival célèbre six décennies d’irrationalité",
-    "added_at": "2026-03-31T09:05:44.752Z"
+    "added_at": "2026-03-31T09:05:44.752Z",
+    "removed_at": "2026-03-31T10:20:19.039Z",
+    "duration_minutes": 74,
+    "duration_str": "1h 14m"
   },
   {
     "title": "suisse:::Les tarifs des transports publics augmenteront en moyenne de 3,9% à partir de décembre",
-    "added_at": "2026-03-31T09:07:35.732Z"
+    "added_at": "2026-03-31T09:07:35.732Z",
+    "removed_at": "2026-03-31T10:08:52.390Z",
+    "duration_minutes": 61,
+    "duration_str": "1h 1m"
+  },
+  {
+    "title": "economie:::Chiffre d’affaires en recul, bénéfice net en hausse: des résultats contrastés pour Romande Energie",
+    "added_at": "2026-03-31T09:51:42.816Z"
+  },
+  {
+    "title": "suisse:::Débats politiques dans les écoles vaudoises avant les élections: un apprenti gagne son recours, l’Etat revoit sa copie",
+    "added_at": "2026-03-31T10:08:52.390Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Une usine de désalinisation endommagée dans un bombardement sur l'île iranienne de Qeshm",
+    "added_at": "2026-03-31T10:08:52.390Z",
+    "removed_at": "2026-03-31T10:56:27.245Z",
+    "duration_minutes": 47,
+    "duration_str": "47m"
+  },
+  {
+    "title": "culture:::De Raye à Zara Larsson, de Nick Cave à Lewis Capaldi, de Charles Lloyd à Van Morrison, le Montreux Jazz Festival célèbre six décennies d’irrationalité",
+    "added_at": "2026-03-31T10:20:19.039Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le prix de l'essence franchit un cap symbolique aux Etats-Unis",
+    "added_at": "2026-03-31T10:56:27.245Z"
   }
 ]
