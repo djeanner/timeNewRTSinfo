@@ -56162,7 +56162,10 @@
   },
   {
     "title": "monde:::En Israël, un projet de loi pour infliger la peine de mort aux «terroristes»: «Même Eichmann avait pu faire appel!»",
-    "added_at": "2025-12-07T11:03:21.688Z"
+    "added_at": "2025-12-07T11:03:21.688Z",
+    "removed_at": "2026-04-01T01:43:30.815Z",
+    "duration_minutes": 165040,
+    "duration_str": "114d 14h 40m"
   },
   {
     "title": "culture:::«The Abandons»: le nouveau western de Netflix a lâché l’affaire",
@@ -66771,7 +66774,10 @@
   },
   {
     "title": "monde:::Volodymyr Zelensky: «La pression sur la Russie est insuffisante. Pas seulement de la part des Etats-Unis, mais aussi de l’Europe»",
-    "added_at": "2026-03-27T15:08:45.964Z"
+    "added_at": "2026-03-27T15:08:45.964Z",
+    "removed_at": "2026-04-01T04:20:40.148Z",
+    "duration_minutes": 6551,
+    "duration_str": "4d 13h 11m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Kiev court le risque de ne plus pouvoir financer sa défense à très court terme",
@@ -67984,7 +67990,10 @@
   },
   {
     "title": "monde:::Une imposante tour en verre, une statue en or… Donald Trump publie une vidéo de la bibliothèque présidentielle qu’il espère ériger à sa gloire à Miami",
-    "added_at": "2026-03-31T15:42:57.421Z"
+    "added_at": "2026-03-31T15:42:57.421Z",
+    "removed_at": "2026-04-01T04:22:37.959Z",
+    "duration_minutes": 759,
+    "duration_str": "12h 39m"
   },
   {
     "title": "economie:::Faute d’accord à l’OMC, un moratoire vieux de 28 ans expire et ouvre la voie à des taxes douanières sur les téléchargements",
@@ -67995,7 +68004,10 @@
   },
   {
     "title": "economie:::La sœur de l’actionnaire principal de PrimeEnergy a été arrêtée à son tour",
-    "added_at": "2026-03-31T16:28:43.763Z"
+    "added_at": "2026-03-31T16:28:43.763Z",
+    "removed_at": "2026-03-31T22:22:46.291Z",
+    "duration_minutes": 354,
+    "duration_str": "5h 54m"
   },
   {
     "title": "suisse:::Elections vaudoises: les grandes villes continuent de pencher à gauche, mais les alliances de droite ont gagné du terrain",
@@ -68013,11 +68025,17 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’ONU s’inquiète de la possible création d’un nouveau «territoire occupé» au Liban",
-    "added_at": "2026-03-31T16:57:36.888Z"
+    "added_at": "2026-03-31T16:57:36.888Z",
+    "removed_at": "2026-03-31T22:43:49.767Z",
+    "duration_minutes": 346,
+    "duration_str": "5h 46m"
   },
   {
     "title": "suisse:::Olivier Jornot, superstar en sursis du grand show judiciaire genevois",
-    "added_at": "2026-03-31T17:03:21.233Z"
+    "added_at": "2026-03-31T17:03:21.233Z",
+    "removed_at": "2026-03-31T22:49:33.341Z",
+    "duration_minutes": 346,
+    "duration_str": "5h 46m"
   },
   {
     "title": "economie:::Pour rentabiliser son installation solaire, il faudra de plus en plus miser sur sa propre consommation",
@@ -68084,6 +68102,54 @@
   },
   {
     "title": "sport:::Genève-Servette arrache la victoire en prolongation, et un septième match jeudi aux Vernets",
-    "added_at": "2026-03-31T21:44:19.246Z"
+    "added_at": "2026-03-31T21:44:19.246Z",
+    "removed_at": "2026-03-31T21:57:57.910Z",
+    "duration_minutes": 13,
+    "duration_str": "13m"
+  },
+  {
+    "title": "sport:::Genève-Servette arrache la victoire en prolongation, et pousse le LHC à un septième match jeudi aux Vernets",
+    "added_at": "2026-03-31T21:57:57.910Z"
+  },
+  {
+    "title": "sport:::C’est la Bosnie qui affrontera la Suisse. L’Italie manque la Coupe du monde pour la troisième fois de suite!",
+    "added_at": "2026-03-31T22:22:46.291Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump déclare que les Etats-Unis vont quitter l’Iran «très prochainement», dans «deux, peut-être trois semaines»",
+    "added_at": "2026-03-31T22:43:49.767Z",
+    "removed_at": "2026-04-01T01:18:43.773Z",
+    "duration_minutes": 154,
+    "duration_str": "2h 34m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump déclare que les Etats-Unis vont quitter l’Iran «très bientôt», dans «deux ou trois semaines»",
+    "added_at": "2026-04-01T01:18:43.773Z",
+    "removed_at": "2026-04-01T01:20:34.550Z",
+    "duration_minutes": 1,
+    "duration_str": "1m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump déclare que la guerre sera finie d’ici deux ou trois semaines",
+    "added_at": "2026-04-01T01:20:34.550Z",
+    "removed_at": "2026-04-01T01:28:14.202Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump déclare que la guerre avec l'Iran sera finie d’ici deux ou trois semaines",
+    "added_at": "2026-04-01T01:28:14.202Z"
+  },
+  {
+    "title": "monde:::Le prototype de missile américain PrSM fait ses débuts en Iran",
+    "added_at": "2026-04-01T03:11:42.252Z"
+  },
+  {
+    "title": "cyber:::Après cinquante ans de succès planétaire et d’une influence majeure sur le numérique, Apple fait face à un défi existentiel: l’intelligence artificielle",
+    "added_at": "2026-04-01T04:18:44.582Z"
+  },
+  {
+    "title": "cyber:::Imitant Infomaniak, le genevois Proton lance une suite bureautique et un service de visioconférence",
+    "added_at": "2026-04-01T04:22:37.959Z"
   }
 ]
