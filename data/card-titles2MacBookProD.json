@@ -72805,7 +72805,10 @@
   },
   {
     "title": "sport:::A Barcelone, le Tudor Team Alinghi présente son équipe et met les voiles vers l’Italie",
-    "added_at": "2026-04-23T16:18:07.827Z"
+    "added_at": "2026-04-23T16:18:07.827Z",
+    "removed_at": "2026-04-23T19:03:20.236Z",
+    "duration_minutes": 165,
+    "duration_str": "2h 45m"
   },
   {
     "title": "economie:::Les actionnaires de Warner Bros. Discovery valident le rachat par Paramount",
@@ -72929,10 +72932,36 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Des explosions ont retenti à Téhéran, Israël affirme ne pas «attaquer actuellement» l'Iran",
-    "added_at": "2026-04-23T18:24:35.411Z"
+    "added_at": "2026-04-23T18:24:35.411Z",
+    "removed_at": "2026-04-23T20:54:00.818Z",
+    "duration_minutes": 149,
+    "duration_str": "2h 29m"
   },
   {
     "title": "cyber:::Meta annonce le licenciement de 8000 personnes, correspondant à environ 10% de ses effectifs",
     "added_at": "2026-04-23T18:55:56.182Z"
+  },
+  {
+    "title": "cyber:::En remodelant nos expressions, l’intelligence artificielle pourrait bouleverser notre rapport aux émotions",
+    "added_at": "2026-04-23T19:00:52.764Z"
+  },
+  {
+    "title": "cyber:::«Les interdits peuvent aussi jouer un rôle protecteur»: face aux écrans, des conseils pour une vie familiale plus apaisée",
+    "added_at": "2026-04-23T19:00:52.764Z"
+  },
+  {
+    "title": "monde:::Traversée de la Manche: le Royaume-Uni et la France signent un accord sous condition de résultat",
+    "added_at": "2026-04-23T19:03:20.236Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Des explosions ont retenti à Téhéran, Israël affirme ne pas «attaquer actuellement» l’Iran",
+    "added_at": "2026-04-23T20:54:00.818Z",
+    "removed_at": "2026-04-23T21:39:41.063Z",
+    "duration_minutes": 45,
+    "duration_str": "45m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump annonce une prolongation de trois semaines du cessez-le-feu au Liban",
+    "added_at": "2026-04-23T21:39:41.063Z"
   }
 ]
