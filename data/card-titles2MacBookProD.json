@@ -72829,7 +72829,10 @@
   },
   {
     "title": "suisse:::Crans-Montana a contrôlé 50 établissements publics depuis janvier et ordonné plusieurs mises en conformité",
-    "added_at": "2026-04-23T16:18:07.827Z"
+    "added_at": "2026-04-23T16:18:07.827Z",
+    "removed_at": "2026-04-24T11:26:13.144Z",
+    "duration_minutes": 1148,
+    "duration_str": "19h 8m"
   },
   {
     "title": "suisse:::Pas de dérogation pour les diplômes de fin d’études des jeunes Vaudois victimes de Crans-Montana",
@@ -72955,7 +72958,10 @@
   },
   {
     "title": "suisse:::Manifestation et village militant à Genève: ce qu’on sait (et qu’on ne sait pas) des coulisses du G7 à cinquante jours de l’événement",
-    "added_at": "2026-04-23T18:17:23.159Z"
+    "added_at": "2026-04-23T18:17:23.159Z",
+    "removed_at": "2026-04-24T12:40:42.853Z",
+    "duration_minutes": 1103,
+    "duration_str": "18h 23m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Des explosions ont retenti à Téhéran, Israël affirme ne pas «attaquer actuellement» l'Iran",
@@ -73001,7 +73007,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump annonce une prolongation de trois semaines du cessez-le-feu au Liban",
-    "added_at": "2026-04-23T21:39:41.063Z"
+    "added_at": "2026-04-23T21:39:41.063Z",
+    "removed_at": "2026-04-24T11:18:59.723Z",
+    "duration_minutes": 819,
+    "duration_str": "13h 39m"
   },
   {
     "title": "culture:::A La Comédie de Genève, Carolina Bianchi dénonce la fraternité masculine qui broie les femmes dans la création artistique",
@@ -73079,11 +73088,17 @@
   },
   {
     "title": "suisse:::En Suisse, les coûts de la santé ont augmenté de 4% en 2024",
-    "added_at": "2026-04-24T08:23:09.565Z"
+    "added_at": "2026-04-24T08:23:09.565Z",
+    "removed_at": "2026-04-24T12:07:04.056Z",
+    "duration_minutes": 223,
+    "duration_str": "3h 43m"
   },
   {
     "title": "culture:::«Femmes sous algorithmes», une websérie piquante sur ce que YouTube fait aux femmes",
-    "added_at": "2026-04-24T08:52:11.426Z"
+    "added_at": "2026-04-24T08:52:11.426Z",
+    "removed_at": "2026-04-24T11:28:33.865Z",
+    "duration_minutes": 156,
+    "duration_str": "2h 36m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Des frappes russes sur Odessa font cinq morts et une quinzaine blessés",
@@ -73095,5 +73110,68 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Des frappes russes sur l'Ukraine font cinq morts et plus d'une quinzaine de blessés",
     "added_at": "2026-04-24T09:04:09.703Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Après la prolongation du cessez-le-feu au Liban, le Hezbollah se réserve le droit de riposter aux «agressions» d’Israël",
+    "added_at": "2026-04-24T11:18:59.723Z",
+    "removed_at": "2026-04-24T12:02:18.230Z",
+    "duration_minutes": 43,
+    "duration_str": "43m"
+  },
+  {
+    "title": "suisse:::A Fribourg, Jean-Pierre Siggen et Olivier Curty ne se représenteront pas au Conseil d’Etat",
+    "added_at": "2026-04-24T11:26:13.144Z"
+  },
+  {
+    "title": "suisse:::En direct, affaire Dittli – Suivez la conférence de presse du Conseil d’Etat vaudois sur le rapport Meylan",
+    "added_at": "2026-04-24T11:28:33.865Z",
+    "removed_at": "2026-04-24T11:52:36.546Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "suisse:::En direct, rapport Meylan – Le Conseil d'Etat vaudois estime que «la confiance avec Valérie Dittli est entamée»",
+    "added_at": "2026-04-24T11:52:36.546Z",
+    "removed_at": "2026-04-24T11:57:24.872Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "suisse:::En direct, rapport Meylan – Le Conseil d'Etat vaudois estime que le rapport de confiance avec Valérie Dittli «est entamé et sera difficile à rétablir»",
+    "added_at": "2026-04-24T11:57:24.872Z",
+    "removed_at": "2026-04-24T12:07:04.056Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – La Suisse rouvre son ambassade en Iran avec une «petite équipe», le cessez-le-feu est prolongé au Liban",
+    "added_at": "2026-04-24T12:02:18.230Z",
+    "removed_at": "2026-04-24T13:45:40.938Z",
+    "duration_minutes": 103,
+    "duration_str": "1h 43m"
+  },
+  {
+    "title": "suisse:::«Il ne s’agit pas d’un programme d’économies»: la répartition des tâches fédérales et cantonales fait l’objet d’une remise à plat",
+    "added_at": "2026-04-24T12:07:04.056Z"
+  },
+  {
+    "title": "suisse:::En direct – Le rapport de confiance avec Valérie Dittli «est entamé et sera difficile à rétablir», selon le Conseil d’Etat vaudois",
+    "added_at": "2026-04-24T12:07:04.056Z"
+  },
+  {
+    "title": "suisse:::Le curé d'une paroisse valaisanne condamné pour avoir détourné les dons de soupes de Carême",
+    "added_at": "2026-04-24T12:40:42.853Z"
+  },
+  {
+    "title": "suisse:::«Dieu a beaucoup d’humour!»: les journalistes évincés de Protestinfo adoubés par le Prix catholique des médias",
+    "added_at": "2026-04-24T12:50:23.421Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le chef de la diplomatie d'Iran est attendu au Pakistan, la Suisse rouvre son ambassade avec une «petite équipe» à Téhéran",
+    "added_at": "2026-04-24T13:45:40.938Z"
+  },
+  {
+    "title": "culture:::Bigarrés, multiformes, les objets de Marie Ducaté s’installent au Musée Ariana à Genève",
+    "added_at": "2026-04-24T13:48:02.091Z"
   }
 ]
