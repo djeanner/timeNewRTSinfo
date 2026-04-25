@@ -17480,10 +17480,7 @@
   },
   {
     "title": "suisse:::Sévère regard d’experts sur le traitement judiciaire infligé à Gulnara Karimova",
-    "added_at": "2025-07-02T16:03:21.773Z",
-    "removed_at": "2025-07-03T06:12:11.585Z",
-    "duration_minutes": 848,
-    "duration_str": "14h 8m"
+    "added_at": "2025-07-02T16:03:21.773Z"
   },
   {
     "title": "sport:::En direct, Euro 2025 – La Finlande et l’Islande entrent en jeu à Thoune",
@@ -73236,7 +73233,10 @@
   },
   {
     "title": "suisse:::En direct – Valérie Dittli reconnaît un accord secret, mais exclut de démissionner",
-    "added_at": "2026-04-24T15:34:03.196Z"
+    "added_at": "2026-04-24T15:34:03.196Z",
+    "removed_at": "2026-04-25T06:37:09.924Z",
+    "duration_minutes": 903,
+    "duration_str": "15h 3m"
   },
   {
     "title": "culture:::«The Oligarch and the Art Dealer», ou comment Yves Bouvier s’est fait un milliard sur le dos de Dmitri Rybolovlev",
@@ -73280,11 +73280,17 @@
   },
   {
     "title": "monde:::Le pape Léon XIV se révèle au monde",
-    "added_at": "2026-04-24T17:32:11.445Z"
+    "added_at": "2026-04-24T17:32:11.445Z",
+    "removed_at": "2026-04-25T05:58:39.471Z",
+    "duration_minutes": 746,
+    "duration_str": "12h 26m"
   },
   {
     "title": "economie:::Les lauréats du Prix Piaget Jeunes Talents frappent les esprits avec des montres façon «cocktail»",
-    "added_at": "2026-04-24T18:17:58.499Z"
+    "added_at": "2026-04-24T18:17:58.499Z",
+    "removed_at": "2026-04-25T06:27:29.640Z",
+    "duration_minutes": 729,
+    "duration_str": "12h 9m"
   },
   {
     "title": "suisse:::Journalistes et médias pris à partie: une exposition sur le rôle de la Suisse en Israël fermée après six jours",
@@ -73292,7 +73298,10 @@
   },
   {
     "title": "monde:::Frédéric Martel: «L’Occident est une invention sur laquelle les dictateurs plaquent leurs fantasmes pour se créer un ennemi»",
-    "added_at": "2026-04-24T18:44:25.049Z"
+    "added_at": "2026-04-24T18:44:25.049Z",
+    "removed_at": "2026-04-25T07:58:51.636Z",
+    "duration_minutes": 794,
+    "duration_str": "13h 14m"
   },
   {
     "title": "monde:::Le monde «est en récession démocratique» depuis 1985, avertit le directeur exécutif de Human Rights Watch, Philippe Bolopion",
@@ -73310,15 +73319,24 @@
   },
   {
     "title": "monde:::Guerre en Ukraine – Des frappes russes sur l'Ukraine font cinq morts et plus d'une quinzaine de blessés",
-    "added_at": "2026-04-24T19:08:31.502Z"
+    "added_at": "2026-04-24T19:08:31.502Z",
+    "removed_at": "2026-04-25T08:30:05.617Z",
+    "duration_minutes": 801,
+    "duration_str": "13h 21m"
   },
   {
     "title": "culture:::Tony Leung Chiu-wai, une star de Hongkong dans le cinéma d’auteur européen: «J’ai l’impression que les plantes m’observent»",
-    "added_at": "2026-04-24T19:35:09.034Z"
+    "added_at": "2026-04-24T19:35:09.034Z",
+    "removed_at": "2026-04-25T08:20:31.006Z",
+    "duration_minutes": 765,
+    "duration_str": "12h 45m"
   },
   {
     "title": "sport:::Muet à domicile, Fribourg-Gottéron laisse Davos revenir à 2-2 en finale des play-off",
-    "added_at": "2026-04-24T20:37:44.602Z"
+    "added_at": "2026-04-24T20:37:44.602Z",
+    "removed_at": "2026-04-25T07:58:51.636Z",
+    "duration_minutes": 681,
+    "duration_str": "11h 21m"
   },
   {
     "title": "economie:::Aux racines de la prospérité: quand Calvin et Zwingli ont fait de la Suisse la «Silicon Valley» du capitalisme",
@@ -73331,5 +73349,43 @@
   {
     "title": "monde:::La plainte de Donald Trump contre le fisc américain remise en question par la justice",
     "added_at": "2026-04-25T05:29:37.890Z"
+  },
+  {
+    "title": "monde:::Les Palestiniens aux urnes, premier scrutin depuis le depuis de la guerre à Gaza",
+    "added_at": "2026-04-25T05:58:39.471Z",
+    "removed_at": "2026-04-25T08:18:03.991Z",
+    "duration_minutes": 139,
+    "duration_str": "2h 19m"
+  },
+  {
+    "title": "monde:::«Je vis un cauchemar éveillé»: la confession de Jake Reiner, fils aîné du cinéaste Rob Reiner, suite au double meurtre de ses parents par son frère",
+    "added_at": "2026-04-25T06:27:29.640Z"
+  },
+  {
+    "title": "sport:::En dilettante – Un jeu, trois âges et deux possibilités: le foot à l’école",
+    "added_at": "2026-04-25T07:05:56.309Z",
+    "removed_at": "2026-04-25T07:34:47.156Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
+  },
+  {
+    "title": "sport:::Un jeu, trois âges et deux possibilités: le foot à l’école",
+    "added_at": "2026-04-25T07:34:47.156Z"
+  },
+  {
+    "title": "culture:::L'Eurovision, une vénérable institution éprouvée par la géopolitique et la polarisation",
+    "added_at": "2026-04-25T07:58:51.636Z"
+  },
+  {
+    "title": "monde:::Frédéric Martel: «Nos valeurs ne sont pas occidentales mais universelles et réclamées par tous les peuples»",
+    "added_at": "2026-04-25T07:58:51.636Z"
+  },
+  {
+    "title": "culture:::Les pulsions mortifères d’une jeunesse dorée au cœur d'«Allegra», roman d’Emmanuelle Fournier-Lorentz",
+    "added_at": "2026-04-25T08:18:03.991Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Au moins deux morts et 21 blessés dans une frappe à Dnipro",
+    "added_at": "2026-04-25T08:30:05.617Z"
   }
 ]
