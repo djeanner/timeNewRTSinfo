@@ -72221,15 +72221,24 @@
   },
   {
     "title": "Ces médecins qui profitent des failles du système suisse d'autorisation de pratique",
-    "added_at": "2026-04-23T16:18:07.767Z"
+    "added_at": "2026-04-23T16:18:07.767Z",
+    "removed_at": "2026-04-25T19:17:31.412Z",
+    "duration_minutes": 3059,
+    "duration_str": "2d 2h 59m"
   },
   {
     "title": "L'Union européenne débloque définitivement 90 milliards d'euros pour soutenir l'Ukraine",
-    "added_at": "2026-04-23T16:18:07.767Z"
+    "added_at": "2026-04-23T16:18:07.767Z",
+    "removed_at": "2026-04-25T18:41:26.753Z",
+    "duration_minutes": 3023,
+    "duration_str": "2d 2h 23m"
   },
   {
     "title": "La génétique comme facteur du cancer du poumon des non-fumeurs",
-    "added_at": "2026-04-23T16:18:07.767Z"
+    "added_at": "2026-04-23T16:18:07.767Z",
+    "removed_at": "2026-04-25T18:36:40.418Z",
+    "duration_minutes": 3018,
+    "duration_str": "2d 2h 18m"
   },
   {
     "title": "Des renvois forcés de requérants vers le Burundi font réagir en Suisse romande",
@@ -72342,7 +72351,10 @@
   },
   {
     "title": "Plus d'un millier d'artistes appellent à leur tour au boycott de l'Eurovision",
-    "added_at": "2026-04-23T16:18:07.767Z"
+    "added_at": "2026-04-23T16:18:07.767Z",
+    "removed_at": "2026-04-25T18:03:01.900Z",
+    "duration_minutes": 2984,
+    "duration_str": "2d 1h 44m"
   },
   {
     "title": "Les Etats-Unis découvrent leur vulnérabilité face aux mines iraniennes",
@@ -72392,7 +72404,10 @@
   },
   {
     "title": "4 candidats pour succéder à Antonio Guterres à la tête de l'ONU",
-    "added_at": "2026-04-23T16:18:07.767Z"
+    "added_at": "2026-04-23T16:18:07.767Z",
+    "removed_at": "2026-04-25T17:02:51.451Z",
+    "duration_minutes": 2924,
+    "duration_str": "2d 44m"
   },
   {
     "title": "Le Conseil fédéral en séance extra-muros à Estavayer-le-Lac",
@@ -72787,7 +72802,10 @@
   },
   {
     "title": "La commune de Crans-Montana a ordonné des mises en conformité, mais pas de fermetures depuis le 1er janvier",
-    "added_at": "2026-04-23T16:29:10.414Z"
+    "added_at": "2026-04-23T16:29:10.414Z",
+    "removed_at": "2026-04-25T16:58:03.552Z",
+    "duration_minutes": 2908,
+    "duration_str": "2d 28m"
   },
   {
     "title": "Ruth Dreifuss reçoit le premier prix de la Commission fédérale pour les questions féminines",
@@ -73017,7 +73035,10 @@
   },
   {
     "title": "Hockey sur glace: Fribourg mène 2 à 1 dans la finale de National League après sa victoire à Davos",
-    "added_at": "2026-04-24T19:18:17.537Z"
+    "added_at": "2026-04-24T19:18:17.537Z",
+    "removed_at": "2026-04-25T18:03:01.900Z",
+    "duration_minutes": 1364,
+    "duration_str": "22h 44m"
   },
   {
     "title": "Le documentaire sur un gangster chinois \"From Dawn to Dawn\" sacré à Visions du Réel",
@@ -73117,7 +73138,10 @@
   },
   {
     "title": "Cinq morts et 34 blessés dans des frappes russes à Dnipro",
-    "added_at": "2026-04-25T10:06:28.452Z"
+    "added_at": "2026-04-25T10:06:28.452Z",
+    "removed_at": "2026-04-25T16:46:03.645Z",
+    "duration_minutes": 399,
+    "duration_str": "6h 39m"
   },
   {
     "title": "Soundcheck - Pourquoi le vinyle redevient tendance?",
@@ -73194,10 +73218,45 @@
   },
   {
     "title": "La délégation iranienne quitte le Pakistan avant même l'arrivée des émissaires de Washington",
-    "added_at": "2026-04-25T16:07:21.323Z"
+    "added_at": "2026-04-25T16:07:21.323Z",
+    "removed_at": "2026-04-25T17:07:43.954Z",
+    "duration_minutes": 60,
+    "duration_str": "1h"
   },
   {
     "title": "L'alexithymie ou le fait de vivre déconnecté de ses émotions",
     "added_at": "2026-04-25T16:38:40.349Z"
+  },
+  {
+    "title": "Six morts et 47 blessés dans des frappes russes massives à Dnipro, en Ukraine",
+    "added_at": "2026-04-25T16:46:03.645Z"
+  },
+  {
+    "title": "Des stigmates toujours visibles en Valais un an après les fortes chutes de neige d'avril 2025",
+    "added_at": "2026-04-25T16:58:03.552Z"
+  },
+  {
+    "title": "Inauguration de la plus puissante centrale solaire de Suisse à Monthey",
+    "added_at": "2026-04-25T17:02:51.451Z"
+  },
+  {
+    "title": "La délégation iranienne a quitté le Pakistan, Donald Trump annule le déplacement de ses émissaires",
+    "added_at": "2026-04-25T17:07:43.954Z"
+  },
+  {
+    "title": "Mise en cause par un rapport, Valérie Dittli refuse de démissionner: débat entre Michele Mossi, Florence Bettschart-Narb",
+    "added_at": "2026-04-25T18:03:01.900Z"
+  },
+  {
+    "title": "Le Parti socialiste conserve la syndicature de Fribourg avec la désignation d'Elias Moussa",
+    "added_at": "2026-04-25T18:36:40.418Z"
+  },
+  {
+    "title": "Lausanne se joue de Zurich et se maintient",
+    "added_at": "2026-04-25T18:41:26.753Z"
+  },
+  {
+    "title": "Colorés et pétaradant, les tracassets ont défilé au milieu des vignes de Lavaux",
+    "added_at": "2026-04-25T19:17:31.412Z"
   }
 ]
