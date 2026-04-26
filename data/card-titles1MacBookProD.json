@@ -72827,7 +72827,10 @@
   },
   {
     "title": "Des débordements en marge de l'œuvre de Thomas Hirschhorn au Pavillon Sicli à Genève",
-    "added_at": "2026-04-23T19:15:20.085Z"
+    "added_at": "2026-04-23T19:15:20.085Z",
+    "removed_at": "2026-04-26T01:16:17.020Z",
+    "duration_minutes": 3240,
+    "duration_str": "2d 6h"
   },
   {
     "title": "Emmanuel Macron ne fera \"plus de politique\" après avoir quitté l'Elysée en 2027",
@@ -72984,7 +72987,10 @@
   },
   {
     "title": "L'épidémie de rougeole s'intensifie dans les Amériques à moins de deux mois de la Coupe du monde",
-    "added_at": "2026-04-24T13:38:28.078Z"
+    "added_at": "2026-04-24T13:38:28.078Z",
+    "removed_at": "2026-04-26T00:49:52.470Z",
+    "duration_minutes": 2111,
+    "duration_str": "1d 11h 11m"
   },
   {
     "title": "L'ambassade de Suisse en Iran rouvre ses portes progressivement",
@@ -73293,5 +73299,13 @@
   {
     "title": "Les frais d'hôpitaux des victimes italiennes du Constellation ravivent la tension entre Berne et Rome",
     "added_at": "2026-04-25T21:08:21.409Z"
+  },
+  {
+    "title": "Un vol Swiss évacué d'urgence à Dehli suite à un incident moteur au décollage",
+    "added_at": "2026-04-26T00:49:52.470Z"
+  },
+  {
+    "title": "Donald Trump évacué après des tirs au dîner des correspondants de la Maison Blanche",
+    "added_at": "2026-04-26T01:16:17.020Z"
   }
 ]
