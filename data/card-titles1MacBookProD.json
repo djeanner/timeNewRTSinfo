@@ -73129,7 +73129,10 @@
   },
   {
     "title": "Une bande de braqueurs de bancomats ayant sévi en Suisse a été démantelée",
-    "added_at": "2026-04-24T18:56:26.386Z"
+    "added_at": "2026-04-24T18:56:26.386Z",
+    "removed_at": "2026-04-27T01:37:30.096Z",
+    "duration_minutes": 3281,
+    "duration_str": "2d 6h 41m"
   },
   {
     "title": "Attaques de Bancomat: 9 suspects arrêtés au Pays-Bas",
@@ -73174,7 +73177,10 @@
   },
   {
     "title": "La justice confirme la saisie des biens de l'ex-présidente de l'Argentine",
-    "added_at": "2026-04-25T03:12:33.908Z"
+    "added_at": "2026-04-25T03:12:33.908Z",
+    "removed_at": "2026-04-27T02:44:46.053Z",
+    "duration_minutes": 2852,
+    "duration_str": "1d 23h 32m"
   },
   {
     "title": "Premier scrutin palestinien depuis le début de la guerre à Gaza",
@@ -73682,5 +73688,13 @@
   {
     "title": "Hockey sur glace: acte cinq de la finale entre Davos et Fribourg-Gottéron",
     "added_at": "2026-04-26T21:24:43.858Z"
+  },
+  {
+    "title": "Ouverture du procès de Bachar al-Assad et ses proches en Syrie",
+    "added_at": "2026-04-27T01:37:30.096Z"
+  },
+  {
+    "title": "Les dépenses militaires mondiales ont pris l'ascenseur en 2025 pour la onzième année consécutive",
+    "added_at": "2026-04-27T02:44:46.053Z"
   }
 ]
