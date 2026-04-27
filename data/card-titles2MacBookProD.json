@@ -73265,10 +73265,7 @@
   },
   {
     "title": "monde:::La procureure fédérale de Washington abandonne les poursuites contre le président de la Fed",
-    "added_at": "2026-04-24T16:02:54.232Z",
-    "removed_at": "2026-04-24T17:32:11.445Z",
-    "duration_minutes": 89,
-    "duration_str": "1h 29m"
+    "added_at": "2026-04-24T16:02:54.232Z"
   },
   {
     "title": "suisse:::À Genève, commerçants et hôteliers «dans un flou total» vis-à-vis des mesures à prendre lors du G7",
@@ -73377,7 +73374,10 @@
   },
   {
     "title": "economie:::A Bellinzone, l’ex-«princesse de Tachkent», Gulnara Karimova, et la banque Lombard Odier seront dès lundi sur le banc des accusés",
-    "added_at": "2026-04-25T05:15:13.064Z"
+    "added_at": "2026-04-25T05:15:13.064Z",
+    "removed_at": "2026-04-27T10:31:24.838Z",
+    "duration_minutes": 3196,
+    "duration_str": "2d 5h 16m"
   },
   {
     "title": "monde:::La plainte de Donald Trump contre le fisc américain remise en question par la justice",
@@ -73820,11 +73820,17 @@
   },
   {
     "title": "economie:::Robert Curzon Price, directeur général de Barnes Commercial Realty: «La Suisse a probablement davantage à perdre qu’à gagner en restreignant l’accès aux investisseurs étrangers»",
-    "added_at": "2026-04-26T19:58:12.774Z"
+    "added_at": "2026-04-26T19:58:12.774Z",
+    "removed_at": "2026-04-27T09:31:17.417Z",
+    "duration_minutes": 813,
+    "duration_str": "13h 33m"
   },
   {
     "title": "sport:::Battu à Davos, Fribourg-Gottéron n’a désormais plus le droit à l’erreur",
-    "added_at": "2026-04-26T21:29:36.187Z"
+    "added_at": "2026-04-26T21:29:36.187Z",
+    "removed_at": "2026-04-27T11:07:28.982Z",
+    "duration_minutes": 817,
+    "duration_str": "13h 37m"
   },
   {
     "title": "monde:::En direct – Moyen-Orient – L’Iran multiplie les consultations diplomatiques mais aucune négociation directe avec Washington n’est prévue",
@@ -73886,11 +73892,17 @@
   },
   {
     "title": "culture:::A La Chaux-de-Fonds, «La Misère du monde» de Pierre Bourdieu et son équipe célèbre la lucidité des laissés-pour-compte",
-    "added_at": "2026-04-27T05:30:40.485Z"
+    "added_at": "2026-04-27T05:30:40.485Z",
+    "removed_at": "2026-04-27T10:04:59.813Z",
+    "duration_minutes": 274,
+    "duration_str": "4h 34m"
   },
   {
     "title": "cyber:::«Skibidi Tentafruit», la téléréalité IA douteuse qui cartonne en recyclant les pires clichés",
-    "added_at": "2026-04-27T05:42:39.835Z"
+    "added_at": "2026-04-27T05:42:39.835Z",
+    "removed_at": "2026-04-27T10:04:59.813Z",
+    "duration_minutes": 262,
+    "duration_str": "4h 22m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’Iran multiplie les consultations diplomatiques, Abbas Araghchi à Saint-Pétersbourg",
@@ -73901,7 +73913,10 @@
   },
   {
     "title": "monde:::Les dépenses militaires mondiales propulsées par la multiplication des tensions en 2025, rapporte le Sipri",
-    "added_at": "2026-04-27T05:57:05.024Z"
+    "added_at": "2026-04-27T05:57:05.024Z",
+    "removed_at": "2026-04-27T10:04:59.813Z",
+    "duration_minutes": 247,
+    "duration_str": "4h 7m"
   },
   {
     "title": "economie:::A la veille de sa réunion, la Fed voit se débloquer la succession de Jerome Powell",
@@ -73938,6 +73953,33 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le chef de la diplomatie iranienne accuse les Etats-Unis d’être responsables de l’échec des pourparlers au Pakistan",
-    "added_at": "2026-04-27T08:35:53.365Z"
+    "added_at": "2026-04-27T08:35:53.365Z",
+    "removed_at": "2026-04-27T11:29:07.960Z",
+    "duration_minutes": 173,
+    "duration_str": "2h 53m"
+  },
+  {
+    "title": "monde:::De Richard Nixon à Donald Trump, la longue histoire de Charles III avec les Etats-Unis",
+    "added_at": "2026-04-27T09:31:17.417Z"
+  },
+  {
+    "title": "suisse:::La justice suisse met un terme posthume aux poursuites visant l’ancien dignitaire syrien Rifaat al-Assad, surnommé «le boucher de Hama»",
+    "added_at": "2026-04-27T10:04:59.813Z"
+  },
+  {
+    "title": "culture:::La bédéaste féministe et queer Mirion Malle, invitée d’honneur de BDFIL: «Plus une histoire est ancrée dans un contexte, plus elle devient universelle»",
+    "added_at": "2026-04-27T10:31:24.838Z"
+  },
+  {
+    "title": "suisse:::Salaire minimum dans le canton de Vaud: la gauche lance une bataille pour la «dignité» et la «liberté»",
+    "added_at": "2026-04-27T11:07:28.982Z"
+  },
+  {
+    "title": "economie:::Aux Etats-Unis, les derniers chiffres du marché de l’emploi sont meilleurs que prévu mais la guerre pourrait bientôt les affecter",
+    "added_at": "2026-04-27T11:19:29.870Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump tiendra une réunion de crise sur «l’impasse» dans les négociations avec l'Iran",
+    "added_at": "2026-04-27T11:29:07.960Z"
   }
 ]
