@@ -73157,10 +73157,7 @@
   },
   {
     "title": "Attaques de Bancomat: 9 suspects arrêtés au Pays-Bas",
-    "added_at": "2026-04-24T19:18:17.537Z",
-    "removed_at": "2026-04-28T18:02:19.020Z",
-    "duration_minutes": 5684,
-    "duration_str": "3d 22h 44m"
+    "added_at": "2026-04-24T19:18:17.537Z"
   },
   {
     "title": "Hockey sur glace: Fribourg mène 2 à 1 dans la finale de National League après sa victoire à Davos",
@@ -73912,7 +73909,10 @@
   },
   {
     "title": "Hockey sur glace: acte cinq de la finale entre Davos et Fribourg-Gottéron",
-    "added_at": "2026-04-26T21:24:43.858Z"
+    "added_at": "2026-04-26T21:24:43.858Z",
+    "removed_at": "2026-04-28T22:05:40.662Z",
+    "duration_minutes": 2920,
+    "duration_str": "2d 40m"
   },
   {
     "title": "Ouverture du procès de Bachar al-Assad et ses proches en Syrie",
@@ -73971,11 +73971,17 @@
   },
   {
     "title": "Theodora brille à la cérémonie des Flammes et repart avec cinq trophées",
-    "added_at": "2026-04-27T09:16:52.847Z"
+    "added_at": "2026-04-27T09:16:52.847Z",
+    "removed_at": "2026-04-28T20:05:21.593Z",
+    "duration_minutes": 2088,
+    "duration_str": "1d 10h 48m"
   },
   {
     "title": "Charles III attendu à Washington, au surlendemain de la fusillade au gala de la presse",
-    "added_at": "2026-04-27T09:28:52.257Z"
+    "added_at": "2026-04-27T09:28:52.257Z",
+    "removed_at": "2026-04-28T20:46:23.364Z",
+    "duration_minutes": 2117,
+    "duration_str": "1d 11h 17m"
   },
   {
     "title": "Le chef de la diplomatie iranienne reçu lundi par Vladimir Poutine",
@@ -74000,7 +74006,10 @@
   },
   {
     "title": "La forêt comme salle de classe: quand l'école explore une autre voie éducative",
-    "added_at": "2026-04-27T10:33:49.621Z"
+    "added_at": "2026-04-27T10:33:49.621Z",
+    "removed_at": "2026-04-28T21:27:16.616Z",
+    "duration_minutes": 2093,
+    "duration_str": "1d 10h 53m"
   },
   {
     "title": "Le géant chinois de l'IA DeepSeek lance un nouveau modèle",
@@ -74187,7 +74196,10 @@
   },
   {
     "title": "Après la catastrophe de Tchernobyl, l'inquiétude s'est vite propagée en Suisse",
-    "added_at": "2026-04-27T20:02:17.150Z"
+    "added_at": "2026-04-27T20:02:17.150Z",
+    "removed_at": "2026-04-28T20:02:59.916Z",
+    "duration_minutes": 1440,
+    "duration_str": "1d"
   },
   {
     "title": "En France, les députés adoptent le rapport sur l’audiovisuel public de Charles Alloncle",
@@ -74373,7 +74385,10 @@
   },
   {
     "title": "Les protestataires anti-G7 manifesteront à Genève avec ou sans autorisation",
-    "added_at": "2026-04-28T14:13:23.315Z"
+    "added_at": "2026-04-28T14:13:23.315Z",
+    "removed_at": "2026-04-28T20:14:59.958Z",
+    "duration_minutes": 361,
+    "duration_str": "6h 1m"
   },
   {
     "title": "Le National durcit la réforme des soins infirmiers",
@@ -74480,5 +74495,39 @@
   {
     "title": "Pourquoi les candidats à l'Elysée se livrent sur leur vie intime",
     "added_at": "2026-04-28T19:09:42.764Z"
+  },
+  {
+    "title": "Privé de sponsor principal, le Tour de Romandie s'inquiète pour son avenir",
+    "added_at": "2026-04-28T20:05:21.593Z"
+  },
+  {
+    "title": "Les anti-G7 manifesteront à Genève le 14 juin avec ou sans autorisation",
+    "added_at": "2026-04-28T20:14:59.958Z"
+  },
+  {
+    "title": "Fribourg bat Davos en prolongation et s'offre un match 7",
+    "added_at": "2026-04-28T20:46:23.364Z",
+    "removed_at": "2026-04-28T20:55:58.546Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Jeremi Gerber offre un match 7 à Fribourg contre Davos",
+    "added_at": "2026-04-28T20:55:58.546Z",
+    "removed_at": "2026-04-28T22:34:33.834Z",
+    "duration_minutes": 98,
+    "duration_str": "1h 38m"
+  },
+  {
+    "title": "La situation au Mali \"est maîtrisée\", assure le chef de la junte",
+    "added_at": "2026-04-28T21:27:16.616Z"
+  },
+  {
+    "title": "Le Locle lance une campagne pour attirer de nouveaux habitants: interview de Michaël Berly",
+    "added_at": "2026-04-28T22:05:40.662Z"
+  },
+  {
+    "title": "Jeremi Gerber offre la victoire et un match 7 à Fribourg contre Davos",
+    "added_at": "2026-04-28T22:34:33.834Z"
   }
 ]
