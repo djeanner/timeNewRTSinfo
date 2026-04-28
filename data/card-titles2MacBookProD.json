@@ -74070,7 +74070,10 @@
   },
   {
     "title": "sport:::Le marathon en moins de deux heures, porté par des chaussures de sept lieues et de 97 grammes",
-    "added_at": "2026-04-27T15:37:15.378Z"
+    "added_at": "2026-04-27T15:37:15.378Z",
+    "removed_at": "2026-04-28T08:26:27.388Z",
+    "duration_minutes": 1009,
+    "duration_str": "16h 49m"
   },
   {
     "title": "suisse:::A Meyrin, les cantons de Suisse occidentale défendent l’économie ouverte face à l’initiative de l’UDC",
@@ -74248,5 +74251,9 @@
   {
     "title": "economie:::Comment Nestlé capitalise sur le buzz KitKat pour accélérer sa stratégie de marques globales",
     "added_at": "2026-04-28T06:28:21.435Z"
+  },
+  {
+    "title": "sport:::Tadej Pogacar impose déjà sa «marque» sur le Tour de Romandie",
+    "added_at": "2026-04-28T08:48:08.585Z"
   }
 ]
