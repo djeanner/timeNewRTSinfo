@@ -73157,7 +73157,10 @@
   },
   {
     "title": "Attaques de Bancomat: 9 suspects arrêtés au Pays-Bas",
-    "added_at": "2026-04-24T19:18:17.537Z"
+    "added_at": "2026-04-24T19:18:17.537Z",
+    "removed_at": "2026-04-29T06:04:37.682Z",
+    "duration_minutes": 6406,
+    "duration_str": "4d 10h 46m"
   },
   {
     "title": "Hockey sur glace: Fribourg mène 2 à 1 dans la finale de National League après sa victoire à Davos",
@@ -73263,10 +73266,7 @@
   },
   {
     "title": "Affaire Dittli: appels à la démission après la publication du rapport Meylan",
-    "added_at": "2026-04-25T07:03:35.473Z",
-    "removed_at": "2026-04-26T22:03:13.366Z",
-    "duration_minutes": 2339,
-    "duration_str": "1d 14h 59m"
+    "added_at": "2026-04-25T07:03:35.473Z"
   },
   {
     "title": "Reprise des négociations en vue entre l'Iran et Washington",
@@ -73948,7 +73948,10 @@
   },
   {
     "title": "Tristan Dessert revient sur l’attaque perpétrée au gala de la presse",
-    "added_at": "2026-04-27T06:16:21.958Z"
+    "added_at": "2026-04-27T06:16:21.958Z",
+    "removed_at": "2026-04-29T05:04:29.009Z",
+    "duration_minutes": 2808,
+    "duration_str": "1d 22h 48m"
   },
   {
     "title": "Forum des médias - La Lex UBS, un garde-fou suffisant?",
@@ -74034,11 +74037,17 @@
   },
   {
     "title": "Deux anciens Premiers ministres reconduisent leur alliance pour contrer Benjamin Netanyahu",
-    "added_at": "2026-04-27T12:27:01.711Z"
+    "added_at": "2026-04-27T12:27:01.711Z",
+    "removed_at": "2026-04-29T05:02:08.171Z",
+    "duration_minutes": 2435,
+    "duration_str": "1d 16h 35m"
   },
   {
     "title": "Une 79e édition promise à Tadej Pogacar?",
-    "added_at": "2026-04-27T12:29:28.686Z"
+    "added_at": "2026-04-27T12:29:28.686Z",
+    "removed_at": "2026-04-29T06:33:31.561Z",
+    "duration_minutes": 2524,
+    "duration_str": "1d 18h 4m"
   },
   {
     "title": "La Suisse progresse dans la lutte contre les violences domestiques, mais le chemin est encore long",
@@ -74543,5 +74552,24 @@
   {
     "title": "L'ancien directeur du FBI James Comey fait l'objet d'une nouvelle inculpation",
     "added_at": "2026-04-29T02:30:28.026Z"
+  },
+  {
+    "title": "Qui finance la politique suisse? Economiesuisse en tête des donateurs",
+    "added_at": "2026-04-29T04:59:42.987Z"
+  },
+  {
+    "title": "Sans les Britanniques, \"vous parleriez français\", plaisante le roi face à Trump",
+    "added_at": "2026-04-29T05:52:32.490Z",
+    "removed_at": "2026-04-29T05:59:46.756Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Sans les Britanniques, \"vous parleriez français\", plaisante le roi face à Donald Trump",
+    "added_at": "2026-04-29T05:59:46.756Z"
+  },
+  {
+    "title": "Dernier délai jeudi à Moutier pour échanger gratuitement ses plaques d'immatriculation",
+    "added_at": "2026-04-29T06:33:31.561Z"
   }
 ]
