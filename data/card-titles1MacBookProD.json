@@ -74140,7 +74140,10 @@
   },
   {
     "title": "Surchauffe en cabine: un vol de Swiss fait demi-tour à Genève",
-    "added_at": "2026-04-27T14:22:25.040Z"
+    "added_at": "2026-04-27T14:22:25.040Z",
+    "removed_at": "2026-05-01T04:24:29.753Z",
+    "duration_minutes": 5162,
+    "duration_str": "3d 14h 2m"
   },
   {
     "title": "Bombardements, pénurie de médicaments et montagnes de déchets: les conditions de vie s'aggravent à Gaza",
@@ -74829,11 +74832,17 @@
   },
   {
     "title": "En Ukraine, le délégué fédéral suisse Jacques Gerber contrôle l'aide sur le terrain",
-    "added_at": "2026-04-29T07:48:13.977Z"
+    "added_at": "2026-04-29T07:48:13.977Z",
+    "removed_at": "2026-05-01T03:38:51.606Z",
+    "duration_minutes": 2630,
+    "duration_str": "1d 19h 50m"
   },
   {
     "title": "Appel à la démission de Valérie Dittli : analyse de Juliette Jeannet",
-    "added_at": "2026-04-29T08:02:40.154Z"
+    "added_at": "2026-04-29T08:02:40.154Z",
+    "removed_at": "2026-05-01T04:05:14.467Z",
+    "duration_minutes": 2642,
+    "duration_str": "1d 20h 2m"
   },
   {
     "title": "Bouleversante et flamboyante, Corinne Winters éblouit dans 'Madame Butterfly' ★★★★★",
@@ -74867,7 +74876,10 @@
   },
   {
     "title": "La comédie britannique 'Alice and Steve' triomphe au Festival international des séries de Cannes",
-    "added_at": "2026-04-29T10:24:49.110Z"
+    "added_at": "2026-04-29T10:24:49.110Z",
+    "removed_at": "2026-05-01T03:34:06.082Z",
+    "duration_minutes": 2469,
+    "duration_str": "1d 17h 9m"
   },
   {
     "title": "Statu quo dans la répartition des départements après l'élection complémentaire vaudoise",
@@ -75109,7 +75121,10 @@
   },
   {
     "title": "Pourquoi la Suisse est-elle devenue un pays riche? Interview de Jérémie Bongiovanni",
-    "added_at": "2026-04-30T06:03:07.855Z"
+    "added_at": "2026-04-30T06:03:07.855Z",
+    "removed_at": "2026-05-01T02:05:23.789Z",
+    "duration_minutes": 1202,
+    "duration_str": "20h 2m"
   },
   {
     "title": "Des employés de la HEP vaudoise dénoncent des problèmes de gouvernance récurrents",
@@ -75188,7 +75203,10 @@
   },
   {
     "title": "Hockey sur glace: Davos n’est plus qu’à une victoire du titre en finale des play-offs",
-    "added_at": "2026-04-30T11:04:23.533Z"
+    "added_at": "2026-04-30T11:04:23.533Z",
+    "removed_at": "2026-05-01T04:24:29.753Z",
+    "duration_minutes": 1040,
+    "duration_str": "17h 20m"
   },
   {
     "title": "Le Grand Conseil vaudois appelle formellement Valérie Dittli à mettre fin à son mandat",
@@ -75377,7 +75395,10 @@
   },
   {
     "title": "Des milliers de supporters en liesse à Fribourg pour la victoire historique de Gottéron",
-    "added_at": "2026-04-30T21:05:11.667Z"
+    "added_at": "2026-04-30T21:05:11.667Z",
+    "removed_at": "2026-05-01T04:05:14.467Z",
+    "duration_minutes": 420,
+    "duration_str": "7h"
   },
   {
     "title": "Fribourg remporte l'acte VII et décroche son 1er titre de champion de Suisse!",
@@ -75393,5 +75414,47 @@
   {
     "title": "Ambiance à Fribourg et Davos à quelques minutes de la finale de hockey sur glace",
     "added_at": "2026-05-01T00:17:18.374Z"
+  },
+  {
+    "title": "Iran-USA, qui peut gagner la guerre gelée?",
+    "added_at": "2026-05-01T02:05:23.789Z",
+    "removed_at": "2026-05-01T03:17:17.181Z",
+    "duration_minutes": 71,
+    "duration_str": "1h 11m"
+  },
+  {
+    "title": "Finale de hockey sur glace Gottéron-Davos : Patrick Andrey en direct de Davos",
+    "added_at": "2026-05-01T03:17:17.181Z"
+  },
+  {
+    "title": "Fribourg-Gottéron joue un match pour l’histoire: interview d’Adrien Perritaz",
+    "added_at": "2026-05-01T03:17:17.181Z"
+  },
+  {
+    "title": "Maradona était \"bipolaire\", selon un psychologue jugé pour de potentielles négligences",
+    "added_at": "2026-05-01T03:34:06.082Z"
+  },
+  {
+    "title": "\"C'est ma grotte, ma protection\": le cri du cœur de locataires expulsés de leur logement",
+    "added_at": "2026-05-01T03:38:51.606Z"
+  },
+  {
+    "title": "Des milliers de fans accueillent les joueurs de Gottéron après une nuit de folie à Fribourg",
+    "added_at": "2026-05-01T04:00:27.101Z",
+    "removed_at": "2026-05-01T04:19:38.044Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
+  },
+  {
+    "title": "Des milliers de fans acclament les joueurs de Gottéron après une nuit de folie à Fribourg",
+    "added_at": "2026-05-01T04:17:17.602Z"
+  },
+  {
+    "title": "Régulation des grandes banques : Pression excessive d'UBS sur les partis ?",
+    "added_at": "2026-05-01T04:24:29.753Z"
+  },
+  {
+    "title": "Hockey sur glace: Davos reçoit Fribourg-Gottéron pour le match décisif de la finale des playoffs",
+    "added_at": "2026-05-01T04:24:29.753Z"
   }
 ]
