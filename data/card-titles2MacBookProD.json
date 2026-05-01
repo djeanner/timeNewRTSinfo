@@ -75148,7 +75148,10 @@
   },
   {
     "title": "sport:::En direct, hockey sur glace – Le HC Fribourg-Gottéron est champion de Suisse pour la première fois de son histoire",
-    "added_at": "2026-04-30T20:50:46.648Z"
+    "added_at": "2026-04-30T20:50:46.648Z",
+    "removed_at": "2026-04-30T23:07:41.438Z",
+    "duration_minutes": 136,
+    "duration_str": "2h 16m"
   },
   {
     "title": "sport:::Les gagnants magnifiques! Fribourg-Gottéron est champion de Suisse pour la première fois",
@@ -75157,5 +75160,30 @@
   {
     "title": "sport:::Les perdants magnifiques: Fribourg-Gottéron face au vertige d’un premier titre qui changerait tout",
     "added_at": "2026-04-30T23:00:20.042Z"
+  },
+  {
+    "title": "sport:::Pour revivre notre direct: hockey sur glace – Le HC Fribourg-Gottéron est champion de Suisse pour la première fois de son histoire",
+    "added_at": "2026-04-30T23:07:41.438Z",
+    "removed_at": "2026-04-30T23:10:08.212Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "sport:::Revivez notre suivi en direct – Le HC Fribourg-Gottéron est champion de Suisse pour la première fois de son histoire",
+    "added_at": "2026-04-30T23:10:08.212Z",
+    "removed_at": "2026-04-30T23:19:41.541Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "sport:::Revivez notre direct – Le HC Fribourg-Gottéron est champion de Suisse pour la première fois de son histoire",
+    "added_at": "2026-04-30T23:19:41.541Z",
+    "removed_at": "2026-04-30T23:55:44.232Z",
+    "duration_minutes": 36,
+    "duration_str": "36m"
+  },
+  {
+    "title": "sport:::Revivez notre direct – Le HC Fribourg-Gottéron a réalisé son rêve: gagner enfin le titre",
+    "added_at": "2026-04-30T23:55:44.232Z"
   }
 ]
