@@ -75253,7 +75253,10 @@
   },
   {
     "title": "C’est quoi le cadmium ?",
-    "added_at": "2026-04-30T07:03:25.357Z"
+    "added_at": "2026-04-30T07:03:25.357Z",
+    "removed_at": "2026-05-02T17:22:58.171Z",
+    "duration_minutes": 3499,
+    "duration_str": "2d 10h 19m"
   },
   {
     "title": "Des employés de la HEP vaudoise dénoncent un climat de peur et une gouvernance incompétente",
@@ -75398,7 +75401,10 @@
   },
   {
     "title": "Le guide suprême iranien affirme que Washington a subi une \"défaite honteuse\" face à son pays",
-    "added_at": "2026-04-30T13:41:14.318Z"
+    "added_at": "2026-04-30T13:41:14.318Z",
+    "removed_at": "2026-05-02T15:51:20.556Z",
+    "duration_minutes": 3010,
+    "duration_str": "2d 2h 10m"
   },
   {
     "title": "Philippe Saire célèbre les 40 ans de sa compagnie de danse contemporaine",
@@ -75437,7 +75443,10 @@
   },
   {
     "title": "Le Conseil national rejette l'initiative qui veut simplifier la naturalisation",
-    "added_at": "2026-04-30T15:08:13.839Z"
+    "added_at": "2026-04-30T15:08:13.839Z",
+    "removed_at": "2026-05-02T15:29:39.288Z",
+    "duration_minutes": 2901,
+    "duration_str": "2d 21m"
   },
   {
     "title": "Le Presstival revient à Bienne et voit les choses en grand pour sa 2e édition",
@@ -75469,7 +75478,10 @@
   },
   {
     "title": "Tadej Pogacar remporte la 2e étape au sprint",
-    "added_at": "2026-04-30T16:22:59.202Z"
+    "added_at": "2026-04-30T16:22:59.202Z",
+    "removed_at": "2026-05-02T17:51:46.500Z",
+    "duration_minutes": 2968,
+    "duration_str": "2d 1h 28m"
   },
   {
     "title": "Les jeunes fument autant d'e-cigarettes que de cigarettes",
@@ -75507,7 +75519,10 @@
   },
   {
     "title": "La Suisse lourdement battue en Suède",
-    "added_at": "2026-04-30T19:35:52.438Z"
+    "added_at": "2026-04-30T19:35:52.438Z",
+    "removed_at": "2026-05-02T15:53:48.117Z",
+    "duration_minutes": 2657,
+    "duration_str": "1d 20h 17m"
   },
   {
     "title": "De violentes bagarres entre jeunes font neuf blessés à Echallens et Moudon (VD)",
@@ -75921,10 +75936,7 @@
   },
   {
     "title": "Vivre de sa musique au-delà des écueils, le choix de Tess Giordano, une jeune artiste genevoise de 17 ans",
-    "added_at": "2026-05-02T07:43:28.746Z",
-    "removed_at": "2026-05-02T09:55:31.083Z",
-    "duration_minutes": 132,
-    "duration_str": "2h 12m"
+    "added_at": "2026-05-02T07:43:28.746Z"
   },
   {
     "title": "Comment le Genevois Yves Bouvier aurait empoché un milliard sur le dos de l'oligarque Dmitri Rybolovlev",
@@ -76042,6 +76054,43 @@
   },
   {
     "title": "Bières, cigares et dédicaces, les joueurs de Gottéron fendent une foule immense à Fribourg",
-    "added_at": "2026-05-02T14:46:13.141Z"
+    "added_at": "2026-05-02T14:46:13.141Z",
+    "removed_at": "2026-05-02T15:41:40.808Z",
+    "duration_minutes": 55,
+    "duration_str": "55m"
+  },
+  {
+    "title": "La Maison d'Ailleurs, un écrin pour la science-fiction",
+    "added_at": "2026-05-02T15:29:39.288Z"
+  },
+  {
+    "title": "En passant devant la cathédrale de Fribourg, les joueurs de Gottéron mettent l'ambiance en faisant danser la foule",
+    "added_at": "2026-05-02T15:41:40.808Z",
+    "removed_at": "2026-05-02T17:42:08.626Z",
+    "duration_minutes": 120,
+    "duration_str": "2h"
+  },
+  {
+    "title": "La Suisse n'est pas obligée de partager ses réserves de carburants avec ses voisins européens",
+    "added_at": "2026-05-02T15:53:48.117Z"
+  },
+  {
+    "title": "Fribourg fête ses champions de hockey avec une grande parade à travers la ville",
+    "added_at": "2026-05-02T17:22:58.171Z"
+  },
+  {
+    "title": "Les joueurs de Gottéron ovationnés devant la BCF Arena après avoir défilé devant 80'000 personnes dans Fribourg",
+    "added_at": "2026-05-02T17:42:08.626Z"
+  },
+  {
+    "title": "\"Ça va nous hanter si on les traite ainsi\": de retour d'Iran, la présidente du CICR lance un appel pour la population",
+    "added_at": "2026-05-02T17:51:46.500Z",
+    "removed_at": "2026-05-02T17:54:07.152Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "\"Ça va nous hanter\": de retour d'Iran, la présidente du CICR lance un appel pour la population iranienne",
+    "added_at": "2026-05-02T17:54:07.152Z"
   }
 ]
