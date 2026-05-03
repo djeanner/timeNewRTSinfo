@@ -63204,10 +63204,7 @@
   },
   {
     "title": "monde:::Découvrez «Ceux qui résistent», le reportage dessiné de Chappatte aux Etats-Unis",
-    "added_at": "2026-02-14T10:12:43.914Z",
-    "removed_at": "2026-02-14T10:22:33.294Z",
-    "duration_minutes": 9,
-    "duration_str": "9m"
+    "added_at": "2026-02-14T10:12:43.914Z"
   },
   {
     "title": "monde:::Patrick Chappatte: «le discours de Trump, c’était comme le radotage du vieil oncle gaga»",
@@ -75729,7 +75726,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump va étudier un plan iranien mais doute qu’il soit «acceptable»",
-    "added_at": "2026-05-03T05:11:15.565Z"
+    "added_at": "2026-05-03T05:11:15.565Z",
+    "removed_at": "2026-05-03T10:20:54.962Z",
+    "duration_minutes": 309,
+    "duration_str": "5h 9m"
   },
   {
     "title": "monde:::Bruno Le Maire: «Contrairement à la France, la Suisse n’a pas la religion du diplôme. Elle a la religion de l’emploi»",
@@ -75767,5 +75767,27 @@
     "removed_at": "2026-05-03T10:06:21.276Z",
     "duration_minutes": 28,
     "duration_str": "28m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Pour les Gardiens de la Révolution, les Etats-Unis n’ont le choix qu’entre une opération «impossible» ou un «mauvais accord»",
+    "added_at": "2026-05-03T10:20:54.962Z",
+    "removed_at": "2026-05-03T10:59:18.485Z",
+    "duration_minutes": 38,
+    "duration_str": "38m"
+  },
+  {
+    "title": "culture:::Série: «Widow’s Bay», une cité côtière hantée pour rigoler",
+    "added_at": "2026-05-03T10:44:55.000Z",
+    "removed_at": "2026-05-03T12:40:04.683Z",
+    "duration_minutes": 115,
+    "duration_str": "1h 55m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’Iran met les Etats-Unis au défi de choisir entre un «mauvais accord» ou une opération militaire «impossible»",
+    "added_at": "2026-05-03T10:59:18.485Z"
+  },
+  {
+    "title": "cyber:::Sur le quai Wilson à Genève, le dessin de presse fait rempart à la prolifération de l’intelligence artificielle",
+    "added_at": "2026-05-03T11:52:04.197Z"
   }
 ]
