@@ -75317,7 +75317,10 @@
   },
   {
     "title": "sport:::Il est cinq heures, mais personne n'a dormi. Fribourg sacré, c’est tout un canton qui est champion",
-    "added_at": "2026-05-01T08:12:37.030Z"
+    "added_at": "2026-05-01T08:12:37.030Z",
+    "removed_at": "2026-05-03T06:51:51.537Z",
+    "duration_minutes": 2799,
+    "duration_str": "1d 22h 39m"
   },
   {
     "title": "culture:::Comédienne bouleversante, Valérie Dréville affronte les Minotaures du XXe siècle au Théâtre de Vidy à Lausanne",
@@ -75412,7 +75415,10 @@
   },
   {
     "title": "sciences:::Les tétras-lyres voient mal les câbles des remontées mécaniques et se tuent, mais on peut les aider",
-    "added_at": "2026-05-01T15:37:21.094Z"
+    "added_at": "2026-05-01T15:37:21.094Z",
+    "removed_at": "2026-05-03T05:18:27.153Z",
+    "duration_minutes": 2261,
+    "duration_str": "1d 13h 41m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky lance une réforme de l'armée pour attirer davantage de nouvelles recrues",
@@ -75635,7 +75641,10 @@
   },
   {
     "title": "culture:::De l’intime et le politique, ou comment l'art est profondément connecté au monde, par Jean-Stéphane Bron",
-    "added_at": "2026-05-02T11:12:29.559Z"
+    "added_at": "2026-05-02T11:12:29.559Z",
+    "removed_at": "2026-05-03T05:18:27.153Z",
+    "duration_minutes": 1085,
+    "duration_str": "18h 5m"
   },
   {
     "title": "culture:::«The Deal», «Quai d’Orsay», «Diplomatie clandestine»: le diplomate, nouveau héros de fiction",
@@ -75646,7 +75655,10 @@
   },
   {
     "title": "culture:::Emilie Bujès, directrice sur le départ du festival Visions du Réel: «Le spectre des propositions du cinéma documentaire est infini»",
-    "added_at": "2026-05-02T13:05:29.788Z"
+    "added_at": "2026-05-02T13:05:29.788Z",
+    "removed_at": "2026-05-03T05:18:27.153Z",
+    "duration_minutes": 972,
+    "duration_str": "16h 12m"
   },
   {
     "title": "culture:::Un documentaire romand primé à Visions du Réel: «Nicole Nicole», pour donner un visage et à une invisible",
@@ -75694,10 +75706,32 @@
   },
   {
     "title": "sport:::Yannis Voisard se révèle au Tour de Romandie et aiguise ses chances de participation au Tour de France",
-    "added_at": "2026-05-02T19:03:50.656Z"
+    "added_at": "2026-05-02T19:03:50.656Z",
+    "removed_at": "2026-05-03T06:27:57.946Z",
+    "duration_minutes": 684,
+    "duration_str": "11h 24m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël et le Hezbollah revendiquent de nouvelles frappes, malgré un accord de cessez-le-feu",
-    "added_at": "2026-05-02T19:32:38.426Z"
+    "added_at": "2026-05-02T19:32:38.426Z",
+    "removed_at": "2026-05-03T05:11:15.565Z",
+    "duration_minutes": 578,
+    "duration_str": "9h 38m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump va étudier un plan iranien mais doute qu’il soit «acceptable»",
+    "added_at": "2026-05-03T05:11:15.565Z"
+  },
+  {
+    "title": "monde:::Bruno Le Maire: «Contrairement à la France, la Suisse n’a pas la religion du diplôme. Elle a la religion de l’emploi»",
+    "added_at": "2026-05-03T05:18:27.153Z"
+  },
+  {
+    "title": "culture:::Le Jukebox d’avril 2026: Raye, Colin Jean, Foo Fighters…",
+    "added_at": "2026-05-03T06:27:57.946Z"
+  },
+  {
+    "title": "culture:::Pour la photographe Clara Watt, la route de Dakar à Tambacounda s’est muée en chemin mémoriel et identitaire",
+    "added_at": "2026-05-03T06:51:51.537Z"
   }
 ]
