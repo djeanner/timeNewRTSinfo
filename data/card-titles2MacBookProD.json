@@ -75082,7 +75082,10 @@
   },
   {
     "title": "suisse:::Le sommet du G7 à Evian, un cauchemar qui revient hanter le Conseil d’Etat genevois",
-    "added_at": "2026-04-30T16:27:45.873Z"
+    "added_at": "2026-04-30T16:27:45.873Z",
+    "removed_at": "2026-05-03T07:54:25.511Z",
+    "duration_minutes": 3806,
+    "duration_str": "2d 15h 26m"
   },
   {
     "title": "sport:::Sur le Tour de Romandie, les métamorphoses de Tadej Pogačar",
@@ -75422,7 +75425,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky lance une réforme de l'armée pour attirer davantage de nouvelles recrues",
-    "added_at": "2026-05-01T15:39:41.796Z"
+    "added_at": "2026-05-01T15:39:41.796Z",
+    "removed_at": "2026-05-03T08:32:51.190Z",
+    "duration_minutes": 2453,
+    "duration_str": "1d 16h 53m"
   },
   {
     "title": "economie:::En Suisse et en Europe, les cours du gaz ne flambent pas, et ce n’est pas forcément bon signe",
@@ -75595,10 +75601,7 @@
   },
   {
     "title": "sport:::Star du Tour de Romandie, trésor des agriculteurs mais redouté des cyclistes… le colza, cet autre maillot jaune",
-    "added_at": "2026-05-02T08:36:12.654Z",
-    "removed_at": "2026-05-02T19:37:29.939Z",
-    "duration_minutes": 661,
-    "duration_str": "11h 1m"
+    "added_at": "2026-05-02T08:36:12.654Z"
   },
   {
     "title": "suisse:::Avec 20 sujets de votations le 14 juin prochain, Zurich vit-elle une overdose de démocratie directe?",
@@ -75687,7 +75690,10 @@
   },
   {
     "title": "economie:::Si l’horlogerie suisse adore réveiller les marques endormies, c’est un peu à cause de Bernard Arnault",
-    "added_at": "2026-05-02T17:56:31.698Z"
+    "added_at": "2026-05-02T17:56:31.698Z",
+    "removed_at": "2026-05-03T07:37:41.278Z",
+    "duration_minutes": 821,
+    "duration_str": "13h 41m"
   },
   {
     "title": "sport:::Quelque 80 000 personnes se sont massées dans les rues de Fribourg pour célébrer les nouveaux champions de Suisse",
@@ -75702,7 +75708,10 @@
   },
   {
     "title": "monde:::En Egypte, des Suisses mènent des fouilles archéologiques à la recherche de divinités perdues",
-    "added_at": "2026-05-02T18:44:40.333Z"
+    "added_at": "2026-05-02T18:44:40.333Z",
+    "removed_at": "2026-05-03T09:11:10.792Z",
+    "duration_minutes": 866,
+    "duration_str": "14h 26m"
   },
   {
     "title": "sport:::Yannis Voisard se révèle au Tour de Romandie et aiguise ses chances de participation au Tour de France",
@@ -75728,10 +75737,35 @@
   },
   {
     "title": "culture:::Le Jukebox d’avril 2026: Raye, Colin Jean, Foo Fighters…",
-    "added_at": "2026-05-03T06:27:57.946Z"
+    "added_at": "2026-05-03T06:27:57.946Z",
+    "removed_at": "2026-05-03T09:37:31.825Z",
+    "duration_minutes": 189,
+    "duration_str": "3h 9m"
   },
   {
     "title": "culture:::Pour la photographe Clara Watt, la route de Dakar à Tambacounda s’est muée en chemin mémoriel et identitaire",
-    "added_at": "2026-05-03T06:51:51.537Z"
+    "added_at": "2026-05-03T06:51:51.537Z",
+    "removed_at": "2026-05-03T08:47:13.331Z",
+    "duration_minutes": 115,
+    "duration_str": "1h 55m"
+  },
+  {
+    "title": "culture:::Patrick Boucheron, historien: «Nous sommes tous des survivants de la peste noire»",
+    "added_at": "2026-05-03T07:37:41.278Z"
+  },
+  {
+    "title": "economie:::Les sites de prédiction, un outil stupéfiant pour les investisseurs",
+    "added_at": "2026-05-03T07:54:25.511Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Des attaques russes font trois morts en Ukraine, une frappe ukrainienne tue une personne près de Moscou",
+    "added_at": "2026-05-03T08:32:51.190Z"
+  },
+  {
+    "title": "culture:::L’esthétique hypnotisante des lieux suspendus entre deux mondes, de «Twin Peaks» à l'art contemporain",
+    "added_at": "2026-05-03T09:37:31.825Z",
+    "removed_at": "2026-05-03T10:06:21.276Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
   }
 ]
