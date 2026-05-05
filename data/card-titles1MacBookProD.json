@@ -76598,7 +76598,10 @@
   },
   {
     "title": "Malgré un hiver pluvieux, la sécheresse s'installe dans certains cantons romands",
-    "added_at": "2026-05-03T15:21:02.137Z"
+    "added_at": "2026-05-03T15:21:02.137Z",
+    "removed_at": "2026-05-05T21:21:13.736Z",
+    "duration_minutes": 3240,
+    "duration_str": "2d 6h"
   },
   {
     "title": "Cap Kayak: tout quitter pour aller d'Yverdon au Cap Nord en kayak de mer",
@@ -76791,7 +76794,10 @@
   },
   {
     "title": "Dans le Val d'Anniviers, Swisscom détourne ses câbles face à la menace d'éboulement",
-    "added_at": "2026-05-04T04:31:04.631Z"
+    "added_at": "2026-05-04T04:31:04.631Z",
+    "removed_at": "2026-05-05T23:37:49.626Z",
+    "duration_minutes": 2586,
+    "duration_str": "1d 19h 6m"
   },
   {
     "title": "\"Quand le président décide d'aller vers quelqu'un, c'est l'angoisse totale!\": le témoignage d'un garde du corps",
@@ -76806,7 +76812,10 @@
   },
   {
     "title": "Kiev et Moscou s'attaquent mutuellement avec des nuées de drones",
-    "added_at": "2026-05-04T04:33:29.147Z"
+    "added_at": "2026-05-04T04:33:29.147Z",
+    "removed_at": "2026-05-05T21:45:10.281Z",
+    "duration_minutes": 2471,
+    "duration_str": "1d 17h 11m"
   },
   {
     "title": "Guerre ou diplomatie, Téhéran se dit prêt aux deux options",
@@ -77355,6 +77364,32 @@
   },
   {
     "title": "Deux malades bientôt évacués d'un paquebot touché par l'hantavirus",
-    "added_at": "2026-05-05T21:01:48.761Z"
+    "added_at": "2026-05-05T21:01:48.761Z",
+    "removed_at": "2026-05-05T21:14:01.818Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "Deux malades bientôt évacués du paquebot touché par l'hantavirus",
+    "added_at": "2026-05-05T21:14:01.818Z"
+  },
+  {
+    "title": "Une expertise médicale qui accable un service de chirurgie cardiaque",
+    "added_at": "2026-05-05T21:21:13.736Z"
+  },
+  {
+    "title": "Un UDC rêve de rouler à nouveau à 130 km/h sur les autoroutes suisses",
+    "added_at": "2026-05-05T21:45:10.281Z",
+    "removed_at": "2026-05-05T21:47:35.133Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Un UDC rêve de rouler de nouveau à 130 km/h sur les autoroutes suisses",
+    "added_at": "2026-05-05T21:47:35.133Z"
+  },
+  {
+    "title": "Donald Trump suspend l'opération américaine d'escorte de navires dans le détroit d'Ormuz",
+    "added_at": "2026-05-05T23:37:49.626Z"
   }
 ]
