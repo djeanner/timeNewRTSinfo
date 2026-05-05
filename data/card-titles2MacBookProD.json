@@ -76427,7 +76427,10 @@
   },
   {
     "title": "culture:::Comment Charlotte Cardin est devenue la nouvelle princesse de la pop",
-    "added_at": "2026-05-05T10:29:36.878Z"
+    "added_at": "2026-05-05T10:29:36.878Z",
+    "removed_at": "2026-05-05T18:40:01.423Z",
+    "duration_minutes": 490,
+    "duration_str": "8h 10m"
   },
   {
     "title": "suisse:::Surmortalité et défaillances graves et nombreuses: l’hôpital universitaire de Zurich publie un rapport d’enquête accablant sur son service de chirurgie cardiaque",
@@ -76474,7 +76477,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – La prix Nobel de la paix iranienne Narges Mohammadi est «entre la vie et la mort», selon ses soutiens",
-    "added_at": "2026-05-05T13:44:06.487Z"
+    "added_at": "2026-05-05T13:44:06.487Z",
+    "removed_at": "2026-05-05T20:18:29.431Z",
+    "duration_minutes": 394,
+    "duration_str": "6h 34m"
   },
   {
     "title": "sciences:::Ce qu’il faut savoir sur l’hantavirus qui a fait plusieurs victimes parmi les passagers d’un bateau de croisière",
@@ -76493,7 +76499,10 @@
   },
   {
     "title": "culture:::A la vie, à la mort avec Alain Gomis dans son nouveau film «Dao»",
-    "added_at": "2026-05-05T14:34:33.058Z"
+    "added_at": "2026-05-05T14:34:33.058Z",
+    "removed_at": "2026-05-05T19:37:35.062Z",
+    "duration_minutes": 303,
+    "duration_str": "5h 3m"
   },
   {
     "title": "sport:::Le Tour de Romandie, un levier fondamental pour faire émerger les champions suisses de demain",
@@ -76501,7 +76510,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L'UE lance une alliance avec Kiev pour produire des drones, une initiative ouverte à la Suisse",
-    "added_at": "2026-05-05T15:24:51.953Z"
+    "added_at": "2026-05-05T15:24:51.953Z",
+    "removed_at": "2026-05-05T18:56:46.306Z",
+    "duration_minutes": 211,
+    "duration_str": "3h 31m"
   },
   {
     "title": "suisse:::«Manipulateur» ou «victime», le procès de Pascal Jaussi s’ouvre sur un choc des récits",
@@ -76513,7 +76525,10 @@
   },
   {
     "title": "sciences:::«Make Pluto Great Again»: le débat sur la requalification de Pluton est relancé par l’administrateur de la NASA",
-    "added_at": "2026-05-05T16:53:54.747Z"
+    "added_at": "2026-05-05T16:53:54.747Z",
+    "removed_at": "2026-05-05T18:30:21.683Z",
+    "duration_minutes": 96,
+    "duration_str": "1h 36m"
   },
   {
     "title": "suisse:::Aux HUG, les sages-femmes réclament une meilleure rémunération. Prière de rester en salle d’attente, répond le canton",
@@ -76526,5 +76541,32 @@
   {
     "title": "suisse:::Au Conseil fédéral de trancher le «nœud gordien» des coûts du drame de Crans-Montana",
     "added_at": "2026-05-05T17:58:37.707Z"
+  },
+  {
+    "title": "sciences:::«Make Pluto Great Again!»: le débat sur Pluton est relancé par l’administrateur de la NASA",
+    "added_at": "2026-05-05T18:30:21.683Z"
+  },
+  {
+    "title": "economie:::Procès Karimova: l’ex-gérant de Lombard Odier n’avait pas beaucoup d’imagination",
+    "added_at": "2026-05-05T18:40:01.423Z"
+  },
+  {
+    "title": "monde:::Que sait-on du «Project Freedom» de Donald Trump dans le détroit d’Ormuz?",
+    "added_at": "2026-05-05T18:42:22.097Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Des frappes russes en plein jour font au moins 22 morts, à quelques heures d’une trêve ukrainienne",
+    "added_at": "2026-05-05T18:56:46.306Z",
+    "removed_at": "2026-05-05T19:49:41.725Z",
+    "duration_minutes": 52,
+    "duration_str": "52m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Des frappes russes en plein jour font au moins 22 morts",
+    "added_at": "2026-05-05T19:49:41.725Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’Iran dément «catégoriquement» avoir attaqué les Emirats arabes unis",
+    "added_at": "2026-05-05T20:18:29.431Z"
   }
 ]
