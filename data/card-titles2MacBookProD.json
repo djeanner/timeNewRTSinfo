@@ -76698,7 +76698,10 @@
   },
   {
     "title": "monde:::«Nous pensons pouvoir virer les travaillistes»: à Londres, les Verts abordent les élections locales en position de force",
-    "added_at": "2026-05-06T06:28:11.294Z"
+    "added_at": "2026-05-06T06:28:11.294Z",
+    "removed_at": "2026-05-07T12:48:13.851Z",
+    "duration_minutes": 1820,
+    "duration_str": "1d 6h 20m"
   },
   {
     "title": "sport:::Bayern-PSG: la foudre peut-elle frapper deux fois au même endroit?",
@@ -76857,7 +76860,10 @@
   },
   {
     "title": "suisse:::«Une occasion manquée pour la dignité des travailleurs»: les députés valaisans s’opposent à l’initiative cantonale sur un salaire minimum",
-    "added_at": "2026-05-06T16:35:52.560Z"
+    "added_at": "2026-05-06T16:35:52.560Z",
+    "removed_at": "2026-05-07T11:41:01.597Z",
+    "duration_minutes": 1145,
+    "duration_str": "19h 5m"
   },
   {
     "title": "monde:::Avec ses drones à fibre optique, le Hezbollah défie la supériorité israélienne",
@@ -76932,11 +76938,17 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump juge un accord avec l'Iran «très possible» mais agite la menace",
-    "added_at": "2026-05-06T22:46:06.293Z"
+    "added_at": "2026-05-06T22:46:06.293Z",
+    "removed_at": "2026-05-07T13:00:13.015Z",
+    "duration_minutes": 854,
+    "duration_str": "14h 14m"
   },
   {
     "title": "sciences:::Trois cas suspects du navire touché par l’hantavirus ont été évacués vers l’Europe, l’OMS reste rassurante sur le risque de pandémie",
-    "added_at": "2026-05-07T03:05:23.277Z"
+    "added_at": "2026-05-07T03:05:23.277Z",
+    "removed_at": "2026-05-07T10:50:41.431Z",
+    "duration_minutes": 465,
+    "duration_str": "7h 45m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Russie appelle les ambassades à évacuer Kiev «en temps voulu»",
@@ -76959,7 +76971,10 @@
   },
   {
     "title": "cyber:::Quatre ans après le lancement de son Plan B, Lugano continue de miser sur le bitcoin",
-    "added_at": "2026-05-07T05:17:06.137Z"
+    "added_at": "2026-05-07T05:17:06.137Z",
+    "removed_at": "2026-05-07T12:57:52.303Z",
+    "duration_minutes": 460,
+    "duration_str": "7h 40m"
   },
   {
     "title": "cyber:::«L’Allemagne est un paradis pour les agresseurs»: après l’affaire des deepfakes pornographiques de Collien Fernandes, une loi en discussion",
@@ -76967,7 +76982,10 @@
   },
   {
     "title": "monde:::Le coprésident libyen Moussa Al-Kouni: «Tout le monde dit que nous sommes assis sur une mer de pétrole»",
-    "added_at": "2026-05-07T06:33:57.036Z"
+    "added_at": "2026-05-07T06:33:57.036Z",
+    "removed_at": "2026-05-07T11:36:16.632Z",
+    "duration_minutes": 302,
+    "duration_str": "5h 2m"
   },
   {
     "title": "monde:::Zack Polanski, l’«éco-populiste» qui va secouer le Labour",
@@ -77000,10 +77018,48 @@
   },
   {
     "title": "monde:::«Baisser le coût du compromis»: l’éternel débat de la proportionnelle revient en France mais cette fois pour faire face aux majorités devenues impossibles",
-    "added_at": "2026-05-07T10:19:20.162Z"
+    "added_at": "2026-05-07T10:19:20.162Z",
+    "removed_at": "2026-05-07T11:45:46.493Z",
+    "duration_minutes": 86,
+    "duration_str": "1h 26m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Après avoir subi une attaque massive de drones, la Russie va unilatéralement instaurer une trêve de deux jours",
     "added_at": "2026-05-07T10:24:11.180Z"
+  },
+  {
+    "title": "suisse:::À Genève, un rapport identifie pour 533 millions de francs d’économies possibles, mais «forcément impopulaires»",
+    "added_at": "2026-05-07T10:50:41.431Z"
+  },
+  {
+    "title": "monde:::Le coprésident libyen Moussa al-Kouni: «Tout le monde dit que nous sommes assis sur une mer de pétrole»",
+    "added_at": "2026-05-07T11:36:16.632Z"
+  },
+  {
+    "title": "suisse:::Droits fondamentaux: la Suisse est condamnée pour avoir sanctionné l’organisatrice d’une manifestation féministe non-violente",
+    "added_at": "2026-05-07T11:41:01.597Z",
+    "removed_at": "2026-05-07T13:02:37.569Z",
+    "duration_minutes": 81,
+    "duration_str": "1h 21m"
+  },
+  {
+    "title": "monde:::L’éternel débat de la proportionnelle revient en France mais cette fois pour faire face aux majorités devenues impossibles",
+    "added_at": "2026-05-07T11:45:46.493Z"
+  },
+  {
+    "title": "sciences:::Trois cas suspects du navire touché par l’hantavirus ont été rapatriés en l’Europe, l’OMS reste rassurante sur le risque de pandémie",
+    "added_at": "2026-05-07T12:45:49.244Z"
+  },
+  {
+    "title": "economie:::A défaut d’une CCT, les journalistes alémaniques auront des conditions de travail minimales",
+    "added_at": "2026-05-07T12:57:52.303Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Dans l'attente de la réponse iranienne, les Etats-Unis se montrent optimistes quant à la finalisation d'un accord",
+    "added_at": "2026-05-07T13:00:13.015Z"
+  },
+  {
+    "title": "suisse:::Droits fondamentaux: la Suisse est condamnée pour avoir sanctionné l’organisatrice d’une manifestation féministe non violente",
+    "added_at": "2026-05-07T13:02:37.569Z"
   }
 ]
