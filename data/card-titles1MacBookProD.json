@@ -76628,7 +76628,10 @@
   },
   {
     "title": "Tous des nuls",
-    "added_at": "2026-05-03T16:23:43.738Z"
+    "added_at": "2026-05-03T16:23:43.738Z",
+    "removed_at": "2026-05-06T22:22:02.937Z",
+    "duration_minutes": 4678,
+    "duration_str": "3d 5h 58m"
   },
   {
     "title": "Qu'est-ce qui fait émigrer les Néo-Zélandais en masse?",
@@ -77144,7 +77147,10 @@
   },
   {
     "title": "L'invitée de La Matinale (vidéo) - Virginie Gaspoz, présidente de la Chambre valaisanne de tourisme",
-    "added_at": "2026-05-04T17:22:06.596Z"
+    "added_at": "2026-05-04T17:22:06.596Z",
+    "removed_at": "2026-05-06T21:21:56.392Z",
+    "duration_minutes": 3119,
+    "duration_str": "2d 3h 59m"
   },
   {
     "title": "Pour réguler leur crise viticole, la Suisse et la France décident d’arracher une partie de leurs vignes",
@@ -77748,5 +77754,13 @@
   {
     "title": "Une nouvelle manifestation à Genève pour dénoncer les expulsions de locataires",
     "added_at": "2026-05-06T21:09:43.840Z"
+  },
+  {
+    "title": "Un voyageur suisse atteint par le hantavirus hospitalisé à Zurich",
+    "added_at": "2026-05-06T21:21:56.392Z"
+  },
+  {
+    "title": "Hantavirus : 3 cas suspects débarqués vers la capitale des îles du Cap Vert",
+    "added_at": "2026-05-06T22:22:02.937Z"
   }
 ]
