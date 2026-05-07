@@ -74373,7 +74373,10 @@
   },
   {
     "title": "monde:::Affaire des céréales ukrainiennes «volées» acheminées vers Haïfa: Zelensky et l’UE haussent le ton contre Israël et Moscou",
-    "added_at": "2026-04-28T12:10:47.957Z"
+    "added_at": "2026-04-28T12:10:47.957Z",
+    "removed_at": "2026-05-07T03:58:03.732Z",
+    "duration_minutes": 12467,
+    "duration_str": "8d 15h 47m"
   },
   {
     "title": "monde:::«Nous risquons des cicatrices comparables à la zone rouge de Verdun»: déjà massivement contaminée par les mines russes, l'Ukraine défend sa suspension de la Convention d’Ottawa",
@@ -76281,7 +76284,10 @@
   },
   {
     "title": "monde:::Donald Trump annonce que la marine américaine a coulé sept vedettes iraniennes, Téhéran nie, la guerre s’enlise",
-    "added_at": "2026-05-04T18:36:54.897Z"
+    "added_at": "2026-05-04T18:36:54.897Z",
+    "removed_at": "2026-05-07T04:12:26.590Z",
+    "duration_minutes": 3455,
+    "duration_str": "2d 9h 35m"
   },
   {
     "title": "economie:::Procès Karimova/Lombard Odier: un nouveau coup dur pour l’accusation",
@@ -76415,7 +76421,10 @@
   },
   {
     "title": "economie:::Dans le sillage de la guerre au Moyen-Orient, l’inflation reprend de la vigueur en Suisse",
-    "added_at": "2026-05-05T10:06:44.025Z"
+    "added_at": "2026-05-05T10:06:44.025Z",
+    "removed_at": "2026-05-07T04:12:26.590Z",
+    "duration_minutes": 2525,
+    "duration_str": "1d 18h 5m"
   },
   {
     "title": "suisse:::Les opposants à la réforme du service civil fustigent un projet «néfaste pour la Suisse»",
@@ -76686,10 +76695,7 @@
   },
   {
     "title": "monde:::«Nous pensons pouvoir virer les travaillistes»: à Londres, les Verts abordent les élections locales en position de force",
-    "added_at": "2026-05-06T06:28:11.294Z",
-    "removed_at": "2026-05-06T12:04:16.440Z",
-    "duration_minutes": 336,
-    "duration_str": "5h 36m"
+    "added_at": "2026-05-06T06:28:11.294Z"
   },
   {
     "title": "sport:::Bayern-PSG: la foudre peut-elle frapper deux fois au même endroit?",
@@ -76721,7 +76727,10 @@
   },
   {
     "title": "sciences:::Un homme testé positif au hantavirus est soigné à Zurich",
-    "added_at": "2026-05-06T08:49:53.566Z"
+    "added_at": "2026-05-06T08:49:53.566Z",
+    "removed_at": "2026-05-07T05:05:04.382Z",
+    "duration_minutes": 1215,
+    "duration_str": "20h 15m"
   },
   {
     "title": "monde:::Cette semaine qui illustre si bien l’impasse de la gauche française à un an de la présidentielle",
@@ -76760,10 +76769,7 @@
   },
   {
     "title": "suisse:::Fribourg-Gottéron offre un magnifique cadeau de bienvenue au nouveau syndic de la ville, Elias Moussa",
-    "added_at": "2026-05-06T10:06:33.356Z",
-    "removed_at": "2026-05-06T15:23:40.471Z",
-    "duration_minutes": 317,
-    "duration_str": "5h 17m"
+    "added_at": "2026-05-06T10:06:33.356Z"
   },
   {
     "title": "suisse:::A la demande de Genève, le contrôle des frontières sera réintroduit durant le G7",
@@ -76803,7 +76809,10 @@
   },
   {
     "title": "economie:::Comment l’onde de choc de l’inflation se propage à tous les secteurs économiques européens",
-    "added_at": "2026-05-06T13:42:47.140Z"
+    "added_at": "2026-05-06T13:42:47.140Z",
+    "removed_at": "2026-05-07T04:34:00.686Z",
+    "duration_minutes": 891,
+    "duration_str": "14h 51m"
   },
   {
     "title": "culture:::«Nuestra Tierra», l’Argentine contre ses populations indigènes",
@@ -76855,7 +76864,10 @@
   },
   {
     "title": "suisse:::La société de navigation sur les lacs de Neuchâtel et Morat reporte le début de la haute saison et annonce un nouveau départ après un audit",
-    "added_at": "2026-05-06T18:31:04.640Z"
+    "added_at": "2026-05-06T18:31:04.640Z",
+    "removed_at": "2026-05-07T05:17:06.137Z",
+    "duration_minutes": 646,
+    "duration_str": "10h 46m"
   },
   {
     "title": "sciences:::Des cas suspects d’hantavirus sont évacués vers l’Europe, l’OMS reste rassurante",
@@ -76895,10 +76907,37 @@
   },
   {
     "title": "sciences:::Trois cas suspects du navire touché par un foyer d’hantavirus ont été évacués vers l’Europe, l’OMS reste rassurante sur le risque de pandémie",
-    "added_at": "2026-05-06T22:05:18.800Z"
+    "added_at": "2026-05-06T22:05:18.800Z",
+    "removed_at": "2026-05-07T03:05:23.277Z",
+    "duration_minutes": 300,
+    "duration_str": "5h"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump juge un accord avec l'Iran «très possible» mais agite la menace",
     "added_at": "2026-05-06T22:46:06.293Z"
+  },
+  {
+    "title": "sciences:::Trois cas suspects du navire touché par l’hantavirus ont été évacués vers l’Europe, l’OMS reste rassurante sur le risque de pandémie",
+    "added_at": "2026-05-07T03:05:23.277Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – La Russie appelle les ambassades à évacuer Kiev «en temps voulu»",
+    "added_at": "2026-05-07T03:58:03.732Z"
+  },
+  {
+    "title": "monde:::A Peterborough, emblème de l’Angleterre qui souffre: «Les travaillistes sont des bâtards»",
+    "added_at": "2026-05-07T04:12:26.590Z"
+  },
+  {
+    "title": "monde:::Un putsch se prépare-t-il contre le premier ministre britannique Keir Starmer?",
+    "added_at": "2026-05-07T04:12:26.590Z"
+  },
+  {
+    "title": "culture:::Alain Perroux, nouveau directeur du Grand Théâtre de Genève: «Je n’ai pas un tempérament de révolutionnaire»",
+    "added_at": "2026-05-07T04:31:34.537Z"
+  },
+  {
+    "title": "cyber:::Quatre ans après le lancement de son Plan B, Lugano continue de miser sur le bitcoin",
+    "added_at": "2026-05-07T05:17:06.137Z"
   }
 ]
