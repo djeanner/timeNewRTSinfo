@@ -77640,7 +77640,10 @@
   },
   {
     "title": "Le Grand Conseil vaudois favorable à la création d'une \"zone d'attente carcérale\" à Orbe",
-    "added_at": "2026-05-06T05:13:52.209Z"
+    "added_at": "2026-05-06T05:13:52.209Z",
+    "removed_at": "2026-05-08T04:14:31.603Z",
+    "duration_minutes": 2820,
+    "duration_str": "1d 23h"
   },
   {
     "title": "Arsenal élimine l'Atlético à Londres et se qualifie pour la finale",
@@ -77726,7 +77729,10 @@
   },
   {
     "title": "\"Dernière opportunité\" de sauvetage pour le 'Roi du Doubs', ce poisson menacé d'extinction",
-    "added_at": "2026-05-06T10:13:44.899Z"
+    "added_at": "2026-05-06T10:13:44.899Z",
+    "removed_at": "2026-05-08T04:02:29.343Z",
+    "duration_minutes": 2508,
+    "duration_str": "1d 17h 48m"
   },
   {
     "title": "Le Conseil fédéral durcit les contrôles aux frontières à Genève pendant le G7 à Evian",
@@ -78146,7 +78152,10 @@
   },
   {
     "title": "Les Etats-Unis et l'Iran s'accusent mutuellement d'attaques contre des navires",
-    "added_at": "2026-05-07T22:31:45.748Z"
+    "added_at": "2026-05-07T22:31:45.748Z",
+    "removed_at": "2026-05-08T03:33:50.674Z",
+    "duration_minutes": 302,
+    "duration_str": "5h 2m"
   },
   {
     "title": "Nouveau camouflet pour Donald Trump, ses droits de douane généralisés sont illégaux",
@@ -78155,5 +78164,45 @@
   {
     "title": "La Fifa met un terme à son partenariat historique avec les figurines Panini",
     "added_at": "2026-05-08T02:24:10.195Z"
+  },
+  {
+    "title": "Tensions ravivées au Moyen-Orient après des échanges de tirs entre Etats-Unis et Iran, dans le détroit d'Ormuz",
+    "added_at": "2026-05-08T03:29:00.194Z",
+    "removed_at": "2026-05-08T03:55:19.050Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "Tensions ravivées au Moyen-Orient après des échanges de tirs entre Etats-Unis et Iran",
+    "added_at": "2026-05-08T03:50:32.018Z",
+    "removed_at": "2026-05-08T04:02:29.343Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "Tensions ravivées au Moyen-Orient après des échanges de tirs entre les Etats-Unis et l'Iran",
+    "added_at": "2026-05-08T03:57:43.510Z"
+  },
+  {
+    "title": "Égalité parfaite entre partisans et opposants à l'initiative \"Pas de Suisse à 10 millions\", selon le 1er sondage SSR",
+    "added_at": "2026-05-08T04:02:29.343Z",
+    "removed_at": "2026-05-08T04:16:53.035Z",
+    "duration_minutes": 14,
+    "duration_str": "14m"
+  },
+  {
+    "title": "Les océans se dirigent vers un record de chaleur en mai alerte Copernicus",
+    "added_at": "2026-05-08T04:14:31.603Z"
+  },
+  {
+    "title": "Égalité parfaite entre partisans et opposants à l'initiative \"Pas de Suisse à 10 millions\", selon le sondage SSR",
+    "added_at": "2026-05-08T04:16:53.035Z",
+    "removed_at": "2026-05-08T04:19:17.232Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Sondage SSR: égalité parfaite entre partisans et opposants à l'initiative \"Pas de Suisse à 10 millions\"",
+    "added_at": "2026-05-08T04:19:17.232Z"
   }
 ]
