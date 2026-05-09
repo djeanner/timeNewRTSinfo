@@ -202552,7 +202552,10 @@
   },
   {
     "title": "Sir David Attenborough turns 100, here’s what you didn’t know",
-    "added_at": "2026-05-08T08:16:56.998Z"
+    "added_at": "2026-05-08T08:16:56.998Z",
+    "removed_at": "2026-05-09T17:42:36.478Z",
+    "duration_minutes": 2005,
+    "duration_str": "1d 9h 25m"
   },
   {
     "title": "What we know about the Canvas hack impacting thousands of schools",
@@ -202619,7 +202622,10 @@
   },
   {
     "title": "Trump warns Iran of ‘a lot of pain’ if deal fails",
-    "added_at": "2026-05-08T10:12:18.961Z"
+    "added_at": "2026-05-08T10:12:18.961Z",
+    "removed_at": "2026-05-09T17:57:05.176Z",
+    "duration_minutes": 1904,
+    "duration_str": "1d 7h 44m"
   },
   {
     "title": "Police duo helps rescue 6 people from sinking boat",
@@ -202644,11 +202650,17 @@
   },
   {
     "title": "Trump motorcade drives through reflecting pool",
-    "added_at": "2026-05-08T11:05:26.161Z"
+    "added_at": "2026-05-08T11:05:26.161Z",
+    "removed_at": "2026-05-09T19:04:40.554Z",
+    "duration_minutes": 1919,
+    "duration_str": "1d 7h 59m"
   },
   {
     "title": "Trump calls reporter’s question ‘stupid’",
-    "added_at": "2026-05-08T11:05:26.161Z"
+    "added_at": "2026-05-08T11:05:26.161Z",
+    "removed_at": "2026-05-09T18:21:13.230Z",
+    "duration_minutes": 1875,
+    "duration_str": "1d 7h 15m"
   },
   {
     "title": "Kamala Harris calls war in Iran: ‘Bullshit’",
@@ -203126,7 +203138,10 @@
   },
   {
     "title": "Hantavirus cases nearly doubled in Argentina in past year. Experts say climate change is to blame",
-    "added_at": "2026-05-09T04:24:32.901Z"
+    "added_at": "2026-05-09T04:24:32.901Z",
+    "removed_at": "2026-05-09T18:11:32.917Z",
+    "duration_minutes": 827,
+    "duration_str": "13h 47m"
   },
   {
     "title": "CDC team to meet Americans on ship as bad weather threatens landing",
@@ -203232,7 +203247,10 @@
   },
   {
     "title": "Pentagon files have UFO watchers buzzing",
-    "added_at": "2026-05-09T09:35:25.019Z"
+    "added_at": "2026-05-09T09:35:25.019Z",
+    "removed_at": "2026-05-09T18:09:11.205Z",
+    "duration_minutes": 513,
+    "duration_str": "8h 33m"
   },
   {
     "title": "Russia holds scaled-down Victory Day parade as temporary ceasefire in Ukraine war takes effect",
@@ -203247,7 +203265,10 @@
   },
   {
     "title": "American doctor aboard ship with hantavirus outbreak on what’s next",
-    "added_at": "2026-05-09T10:38:01.321Z"
+    "added_at": "2026-05-09T10:38:01.321Z",
+    "removed_at": "2026-05-09T16:32:44.567Z",
+    "duration_minutes": 354,
+    "duration_str": "5h 54m"
   },
   {
     "title": "That Mother’s Day bouquet could be getting pricier this year",
@@ -203328,5 +203349,50 @@
   {
     "title": "Students across the country react to the Canvas hack",
     "added_at": "2026-05-09T16:18:06.986Z"
+  },
+  {
+    "title": "Doctor aboard ship with hantavirus outbreak on what’s next",
+    "added_at": "2026-05-09T16:32:44.567Z",
+    "removed_at": "2026-05-09T16:47:11.745Z",
+    "duration_minutes": 14,
+    "duration_str": "14m"
+  },
+  {
+    "title": "Doctor aboard ship with hantavirus on what’s next",
+    "added_at": "2026-05-09T16:47:11.745Z"
+  },
+  {
+    "title": "Putin hosts sober Victory Day parade in Moscow amid security concerns",
+    "added_at": "2026-05-09T17:42:36.478Z",
+    "removed_at": "2026-05-09T17:52:16.490Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Putin hosts Victory Day parade in Moscow amid security concerns",
+    "added_at": "2026-05-09T17:52:16.490Z"
+  },
+  {
+    "title": "Bumpy the orphaned hippo",
+    "added_at": "2026-05-09T17:57:05.176Z",
+    "removed_at": "2026-05-09T18:06:44.176Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Bumpy the orphaned hippo rescued by wildlife team",
+    "added_at": "2026-05-09T18:06:44.176Z"
+  },
+  {
+    "title": "The country where lethal hantavirus cases are on the rise. Experts blame climate change",
+    "added_at": "2026-05-09T18:11:32.917Z"
+  },
+  {
+    "title": "US Soccer opens new training center",
+    "added_at": "2026-05-09T18:21:13.230Z"
+  },
+  {
+    "title": "Plane strikes person walking on airport runway",
+    "added_at": "2026-05-09T19:04:40.554Z"
   }
 ]
