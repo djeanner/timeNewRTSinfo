@@ -89741,7 +89741,10 @@
   },
   {
     "title": "Libya’s Zawiya refinery resumes full operations",
-    "added_at": "2026-05-10T09:58:25.377Z"
+    "added_at": "2026-05-10T09:58:25.377Z",
+    "removed_at": "2026-05-10T21:45:12.114Z",
+    "duration_minutes": 706,
+    "duration_str": "11h 46m"
   },
   {
     "title": "Iran war day 72: Tehran yet to reply to US plan; Israel bombs Lebanon",
@@ -89811,5 +89814,9 @@
   {
     "title": "Premier League: Trossard secures vital win for Arsenal at West Ham",
     "added_at": "2026-05-10T19:13:17.836Z"
+  },
+  {
+    "title": "Barcelona clinch back-to-back La Liga titles with 2-0 win over Real Madrid",
+    "added_at": "2026-05-10T21:45:12.114Z"
   }
 ]
