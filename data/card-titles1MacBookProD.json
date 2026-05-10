@@ -76628,7 +76628,10 @@
   },
   {
     "title": "Tous des nuls",
-    "added_at": "2026-05-03T16:23:43.738Z"
+    "added_at": "2026-05-03T16:23:43.738Z",
+    "removed_at": "2026-05-10T09:05:22.678Z",
+    "duration_minutes": 9641,
+    "duration_str": "6d 16h 41m"
   },
   {
     "title": "Qu'est-ce qui fait émigrer les Néo-Zélandais en masse?",
@@ -78441,7 +78444,10 @@
   },
   {
     "title": "Entre crainte écologique et opportunité économique, l'expansion des data centers en Suisse interroge",
-    "added_at": "2026-05-08T06:07:17.767Z"
+    "added_at": "2026-05-08T06:07:17.767Z",
+    "removed_at": "2026-05-10T09:55:57.157Z",
+    "duration_minutes": 3108,
+    "duration_str": "2d 3h 48m"
   },
   {
     "title": "Des tensions ravivées au Moyen-Orient après des échanges de tirs entre les Etats-Unis et l'Iran",
@@ -78572,9 +78578,9 @@
   {
     "title": "L'invité de La Matinale (vidéo) - Douglas Kennedy, écrivain américain à succès",
     "added_at": "2026-05-08T13:03:15.116Z",
-    "removed_at": "2026-05-09T11:02:03.676Z",
-    "duration_minutes": 1318,
-    "duration_str": "21h 58m"
+    "removed_at": "2026-05-10T11:15:33.689Z",
+    "duration_minutes": 2772,
+    "duration_str": "1d 22h 12m"
   },
   {
     "title": "Léon XIV célèbre le premier anniversaire de son pontificat dans le sud de l'Italie",
@@ -78816,7 +78822,10 @@
   },
   {
     "title": "L'âme brisée de la gauche britannique",
-    "added_at": "2026-05-09T19:02:12.328Z"
+    "added_at": "2026-05-09T19:02:12.328Z",
+    "removed_at": "2026-05-10T10:03:11.361Z",
+    "duration_minutes": 900,
+    "duration_str": "15h"
   },
   {
     "title": "En matière de responsabilité, \"la médecine n’est pas une science exacte\", rappelle Philippe Ducor",
@@ -78875,7 +78884,10 @@
   },
   {
     "title": "Le navire touché par l'hantavirus est arrivé aux Canaries sous haute surveillance",
-    "added_at": "2026-05-10T05:45:03.698Z"
+    "added_at": "2026-05-10T05:45:03.698Z",
+    "removed_at": "2026-05-10T08:43:41.710Z",
+    "duration_minutes": 178,
+    "duration_str": "2h 58m"
   },
   {
     "title": "Swiss veut réduire ses coûts au sol d'environ 10%",
@@ -78900,5 +78912,21 @@
   {
     "title": "Se mettre dans la peau d'une personne âgée pour mieux la comprendre",
     "added_at": "2026-05-10T08:21:50.713Z"
+  },
+  {
+    "title": "L'évacuation des passagers du navire touché par l'hantavirus a commencé à Tenerife",
+    "added_at": "2026-05-10T08:43:41.710Z"
+  },
+  {
+    "title": "Dans le canton de Vaud, 300 vaches sont-elles vraiment mortes à cause de panneaux solaires?",
+    "added_at": "2026-05-10T09:55:57.157Z"
+  },
+  {
+    "title": "Un prix décerné au bisse de Ricard en Valais pour favoriser sa pérennité",
+    "added_at": "2026-05-10T10:03:11.361Z"
+  },
+  {
+    "title": "Panneaux solaires: un danger pour les vaches, vrai ou faux?",
+    "added_at": "2026-05-10T11:15:33.689Z"
   }
 ]
