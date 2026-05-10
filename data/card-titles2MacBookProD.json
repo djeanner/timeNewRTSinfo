@@ -77629,7 +77629,10 @@
   },
   {
     "title": "economie:::La classe moyenne n’existe vraiment plus",
-    "added_at": "2026-05-09T14:32:07.172Z"
+    "added_at": "2026-05-09T14:32:07.172Z",
+    "removed_at": "2026-05-10T06:30:58.064Z",
+    "duration_minutes": 958,
+    "duration_str": "15h 58m"
   },
   {
     "title": "suisse:::Beat Jans, l’homme que l’UDC attaque pour mieux détourner le débat sur l’initiative «Pas de Suisse à 10 millions!»",
@@ -77662,7 +77665,10 @@
   },
   {
     "title": "sport:::Une plume qui rêvait des montagnes: la Suissesse Petra Stiasny se révèle en gagnant la dernière étape du Tour d’Espagne",
-    "added_at": "2026-05-09T16:15:45.016Z"
+    "added_at": "2026-05-09T16:15:45.016Z",
+    "removed_at": "2026-05-10T08:14:36.411Z",
+    "duration_minutes": 958,
+    "duration_str": "15h 58m"
   },
   {
     "title": "cyber:::«C’est comme un drone qui ne s’arrête jamais»: dans le Loudoun County, capitale mondiale des centres de données, le coût de l’IA",
@@ -77684,14 +77690,14 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Kiev et Moscou s’accusent mutuellement de violer le cessez-le-feu",
-    "added_at": "2026-05-09T17:37:47.820Z",
-    "removed_at": "2026-05-09T19:38:35.576Z",
-    "duration_minutes": 120,
-    "duration_str": "2h"
+    "added_at": "2026-05-09T17:37:47.820Z"
   },
   {
     "title": "culture:::La solitude au sein de la multitude, un sujet artistique par excellence",
-    "added_at": "2026-05-09T17:47:29.172Z"
+    "added_at": "2026-05-09T17:47:29.172Z",
+    "removed_at": "2026-05-10T07:28:47.787Z",
+    "duration_minutes": 821,
+    "duration_str": "13h 41m"
   },
   {
     "title": "monde:::Le bateau MV Hondius arrivera aux Canaries ce dimanche à l’aube",
@@ -77702,15 +77708,24 @@
   },
   {
     "title": "sport:::«Pour certains, retourner sur le terrain est une manière de tenir»: Quand un vestiaire de football perd l’un des siens",
-    "added_at": "2026-05-09T18:59:47.199Z"
+    "added_at": "2026-05-09T18:59:47.199Z",
+    "removed_at": "2026-05-10T08:12:15.266Z",
+    "duration_minutes": 792,
+    "duration_str": "13h 12m"
   },
   {
     "title": "monde:::Guerre en Ukraine – Kiev et Moscou s’accusent mutuellement de violer le cessez-le-feu",
-    "added_at": "2026-05-09T19:38:35.576Z"
+    "added_at": "2026-05-09T19:38:35.576Z",
+    "removed_at": "2026-05-10T07:21:33.505Z",
+    "duration_minutes": 702,
+    "duration_str": "11h 42m"
   },
   {
     "title": "monde:::Moyen-Orient – Le Liban fait état de huit morts dans des frappes israéliennes sur le sud",
-    "added_at": "2026-05-09T19:41:02.619Z"
+    "added_at": "2026-05-09T19:41:02.619Z",
+    "removed_at": "2026-05-10T06:26:09.529Z",
+    "duration_minutes": 645,
+    "duration_str": "10h 45m"
   },
   {
     "title": "suisse:::«J’ai vécu une deuxième violence»: la difficile épreuve des victimes lors du dépôt de plainte",
@@ -77719,5 +77734,28 @@
   {
     "title": "monde:::Le MV Hondius, à bord duquel a été détecté le foyer d’hantavirus, est arrivé aux Canaries",
     "added_at": "2026-05-10T05:47:24.991Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Un navire a été frappé par un projectile au large des côtes du Qatar",
+    "added_at": "2026-05-10T06:26:09.529Z",
+    "removed_at": "2026-05-10T07:21:33.505Z",
+    "duration_minutes": 55,
+    "duration_str": "55m"
+  },
+  {
+    "title": "monde:::Le couteau suisse, star des «kits de survie» des Européens. Mais pas en Suisse",
+    "added_at": "2026-05-10T06:30:58.064Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Un navire a été frappé par un projectile au large des côtes du Qatar",
+    "added_at": "2026-05-10T07:21:33.505Z"
+  },
+  {
+    "title": "culture:::A Turin, une exposition entre archéologie et art contemporain pour rendre son identité à la terre meurtrie de Gaza",
+    "added_at": "2026-05-10T07:28:47.787Z"
+  },
+  {
+    "title": "culture:::Au Salon du meuble de Milan, l’art du tressé redessine les lignes",
+    "added_at": "2026-05-10T08:12:15.266Z"
   }
 ]
