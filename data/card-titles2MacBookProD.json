@@ -77682,7 +77682,10 @@
   },
   {
     "title": "sport:::Mondial de hockey sur glace: la petite ville de Fribourg veut profiter à fond de son grand événement",
-    "added_at": "2026-05-09T15:27:34.043Z"
+    "added_at": "2026-05-09T15:27:34.043Z",
+    "removed_at": "2026-05-11T12:58:50.313Z",
+    "duration_minutes": 2731,
+    "duration_str": "1d 21h 31m"
   },
   {
     "title": "sport:::Une plume qui rêvait des montagnes: la Suissesse Petra Stiasny se révèle en gagnant la dernière étape du Tour d’Espagne",
@@ -77945,7 +77948,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Nouvelle impasse dans les négociations entre Etats-Unis et Iran, les cours du pétrole repartent à la hausse",
-    "added_at": "2026-05-11T04:47:10.031Z"
+    "added_at": "2026-05-11T04:47:10.031Z",
+    "removed_at": "2026-05-11T13:15:45.960Z",
+    "duration_minutes": 508,
+    "duration_str": "8h 28m"
   },
   {
     "title": "economie:::Mis sous pression par le commerce en ligne, le commerce de détail suisse n’a pas dit son dernier mot",
@@ -77968,7 +77974,10 @@
   },
   {
     "title": "monde:::Hantavirus: deux passagers du Hondius testés positifs, les ultimes évacuations prévues ce lundi aux Canaries",
-    "added_at": "2026-05-11T08:16:49.151Z"
+    "added_at": "2026-05-11T08:16:49.151Z",
+    "removed_at": "2026-05-11T14:01:26.976Z",
+    "duration_minutes": 344,
+    "duration_str": "5h 44m"
   },
   {
     "title": "suisse:::Avec plus de 7000 détenus à fin janvier, les prisons suisses sont historiquement remplies",
@@ -77987,6 +77996,32 @@
   },
   {
     "title": "culture:::Avec The Ones We Love, le cinéma se fait à la carte",
-    "added_at": "2026-05-11T11:12:47.429Z"
+    "added_at": "2026-05-11T11:12:47.429Z",
+    "removed_at": "2026-05-11T13:06:04.400Z",
+    "duration_minutes": 113,
+    "duration_str": "1h 53m"
+  },
+  {
+    "title": "suisse:::Dans le Jura, une autoroute fermée pour sauver neuf canetons",
+    "added_at": "2026-05-11T12:58:50.313Z"
+  },
+  {
+    "title": "culture:::Une séance sur mesure: avec The Ones We Love, le cinéma se fait à la carte",
+    "added_at": "2026-05-11T13:06:04.400Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Si le détroit d'Ormuz reste fermé, 45 millions de personnes supplémentaires seront plongées dans la faim , alerte l'ONU",
+    "added_at": "2026-05-11T13:15:45.960Z",
+    "removed_at": "2026-05-11T13:20:32.174Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Si le détroit d'Ormuz reste fermé, 45 millions de personnes supplémentaires seront plongées dans la faim, alerte l'ONU",
+    "added_at": "2026-05-11T13:20:32.174Z"
+  },
+  {
+    "title": "culture:::L’Espagne, l’Irlande et la Slovénie poussent leur boycott de l’Eurovision jusqu’au bout: elles ne la montreront pas",
+    "added_at": "2026-05-11T14:01:26.976Z"
   }
 ]
