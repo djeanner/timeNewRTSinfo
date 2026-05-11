@@ -78547,7 +78547,10 @@
   },
   {
     "title": "Les commerçants genevois multiplient les commandes de barricades à l'approche du G7",
-    "added_at": "2026-05-08T10:09:56.817Z"
+    "added_at": "2026-05-08T10:09:56.817Z",
+    "removed_at": "2026-05-11T04:30:15.088Z",
+    "duration_minutes": 3980,
+    "duration_str": "2d 18h 20m"
   },
   {
     "title": "L'invité de La Matinale - Douglas Kennedy, écrivain américain à succès",
@@ -78611,7 +78614,10 @@
   },
   {
     "title": "Le dernier blessé suisse de Crans-Montana hospitalisé à l'étranger sera rapatrié la semaine prochaine",
-    "added_at": "2026-05-08T12:34:25.209Z"
+    "added_at": "2026-05-08T12:34:25.209Z",
+    "removed_at": "2026-05-11T06:09:03.004Z",
+    "duration_minutes": 3934,
+    "duration_str": "2d 17h 34m"
   },
   {
     "title": "Mort à 84 ans de l'écrivain et journaliste américain Philip Caputo, auteur de 'Rumeur de guerre'",
@@ -78629,11 +78635,17 @@
   },
   {
     "title": "Léon XIV célèbre le premier anniversaire de son pontificat dans le sud de l'Italie",
-    "added_at": "2026-05-08T13:05:42.567Z"
+    "added_at": "2026-05-08T13:05:42.567Z",
+    "removed_at": "2026-05-11T05:28:09.736Z",
+    "duration_minutes": 3862,
+    "duration_str": "2d 16h 22m"
   },
   {
     "title": "Le naturaliste britannique David Attenborough fête ses 100 ans, une vie au service de la nature",
-    "added_at": "2026-05-08T13:20:09.774Z"
+    "added_at": "2026-05-08T13:20:09.774Z",
+    "removed_at": "2026-05-11T05:52:17.119Z",
+    "duration_minutes": 3872,
+    "duration_str": "2d 16h 32m"
   },
   {
     "title": "Un quart de la classe moyenne inférieure suisse ne peut pas faire face à une dépense imprévue",
@@ -78656,7 +78668,10 @@
   },
   {
     "title": "Que faire ce week-end? Notre sélection de sorties culturelles du 8 au 10 mai",
-    "added_at": "2026-05-08T14:39:43.298Z"
+    "added_at": "2026-05-08T14:39:43.298Z",
+    "removed_at": "2026-05-11T05:32:57.424Z",
+    "duration_minutes": 3773,
+    "duration_str": "2d 14h 53m"
   },
   {
     "title": "La Fondation d'art dramatique se sépare de Séverine Chavrier",
@@ -78975,7 +78990,10 @@
   },
   {
     "title": "L'évacuation des passagers du navire touché par l'hantavirus a commencé à Tenerife",
-    "added_at": "2026-05-10T08:43:41.710Z"
+    "added_at": "2026-05-10T08:43:41.710Z",
+    "removed_at": "2026-05-11T06:04:14.651Z",
+    "duration_minutes": 1280,
+    "duration_str": "21h 20m"
   },
   {
     "title": "Dans le canton de Vaud, 300 vaches sont-elles vraiment mortes à cause de panneaux solaires?",
@@ -79058,14 +79076,84 @@
   },
   {
     "title": "Donald Trump juge la réponse iranienne au plan américain de paix \"totalement inacceptable\"",
-    "added_at": "2026-05-10T20:52:16.101Z"
+    "added_at": "2026-05-10T20:52:16.101Z",
+    "removed_at": "2026-05-11T04:20:39.121Z",
+    "duration_minutes": 448,
+    "duration_str": "7h 28m"
   },
   {
     "title": "La lauréate iranienne du prix Nobel est libérée sous caution pour être soignée à Téhéran",
-    "added_at": "2026-05-10T20:52:16.101Z"
+    "added_at": "2026-05-10T20:52:16.101Z",
+    "removed_at": "2026-05-11T05:11:20.237Z",
+    "duration_minutes": 499,
+    "duration_str": "8h 19m"
   },
   {
     "title": "L'ancien Premier ministre thaïlandais Thaksin Shinawatra libéré de prison",
     "added_at": "2026-05-11T02:34:20.001Z"
+  },
+  {
+    "title": "Donald Trump juge la réponse iranienne au plan de paix \"totalement inacceptable\"",
+    "added_at": "2026-05-11T04:15:51.730Z",
+    "removed_at": "2026-05-11T05:11:20.237Z",
+    "duration_minutes": 55,
+    "duration_str": "55m"
+  },
+  {
+    "title": "Victorieuse de la Tchéquie, la Suisse réussit son dernier test avant le Championnat du monde",
+    "added_at": "2026-05-11T04:30:15.088Z"
+  },
+  {
+    "title": "Donald Trump juge la réponse iranienne au plan américain \"totalement inacceptable\"",
+    "added_at": "2026-05-11T04:47:09.968Z",
+    "removed_at": "2026-05-11T04:49:37.458Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Donald Trump juge \"totalement inacceptable\" la réponse iranienne au plan américain",
+    "added_at": "2026-05-11T05:11:20.237Z",
+    "removed_at": "2026-05-11T05:28:09.736Z",
+    "duration_minutes": 16,
+    "duration_str": "16m"
+  },
+  {
+    "title": "La prix Nobel Narges Mohammadi est libérée sous caution pour être soignée à Téhéran",
+    "added_at": "2026-05-11T05:11:20.237Z",
+    "removed_at": "2026-05-11T05:13:41.831Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "La prix Nobel Narges Mohammadi libérée sous caution pour être soignée à Téhéran",
+    "added_at": "2026-05-11T05:13:41.831Z"
+  },
+  {
+    "title": "Précarité en Suisse: interview d'Alain Bolle, directeur du CSP Genève",
+    "added_at": "2026-05-11T05:18:27.993Z"
+  },
+  {
+    "title": "Donald Trump juge \"inacceptable\" la réponse iranienne au plan américain",
+    "added_at": "2026-05-11T05:23:22.244Z"
+  },
+  {
+    "title": "Après Zurich, l'Hôpital de l'Île à Berne enquête sur des implants cardiaques controversés",
+    "added_at": "2026-05-11T05:28:09.736Z"
+  },
+  {
+    "title": "Président du Centre Vaud par intérim, Michele Mossi part pour prendre la tête d'Innovaud",
+    "added_at": "2026-05-11T05:32:57.424Z"
+  },
+  {
+    "title": "Le site de vente en ligne suisse Farmy a fait faillite",
+    "added_at": "2026-05-11T05:52:17.119Z"
+  },
+  {
+    "title": "Les passagers du navire touché par l'hantavirus évacués peu à peu à Tenerife",
+    "added_at": "2026-05-11T06:04:14.651Z"
+  },
+  {
+    "title": "Quel est le profil des 13 personnes inculpées dans le drame de Crans-Montana?",
+    "added_at": "2026-05-11T06:09:03.004Z"
   }
 ]
