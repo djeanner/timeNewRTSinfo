@@ -78858,10 +78858,7 @@
   },
   {
     "title": "L’invitée du 12h30 - Virginia Sirolli, chanteuse genevoise, participante à l’émission The Voice",
-    "added_at": "2026-05-09T08:01:18.498Z",
-    "removed_at": "2026-05-09T10:18:41.310Z",
-    "duration_minutes": 137,
-    "duration_str": "2h 17m"
+    "added_at": "2026-05-09T08:01:18.498Z"
   },
   {
     "title": "Pourquoi devient-on une autre personne à l'aéroport?",
@@ -79759,11 +79756,17 @@
   },
   {
     "title": "Comment l'idéologie incel a mené à une attaque violente en Suisse",
-    "added_at": "2026-05-12T04:30:07.728Z"
+    "added_at": "2026-05-12T04:30:07.728Z",
+    "removed_at": "2026-05-14T07:04:54.356Z",
+    "duration_minutes": 3034,
+    "duration_str": "2d 2h 34m"
   },
   {
     "title": "En semaine, le week-end… Pourquoi tout le monde s’habille comme s’il allait au bureau?",
-    "added_at": "2026-05-12T04:32:28.935Z"
+    "added_at": "2026-05-12T04:32:28.935Z",
+    "removed_at": "2026-05-14T05:04:29.297Z",
+    "duration_minutes": 2912,
+    "duration_str": "2d 32m"
   },
   {
     "title": "Il faut s'attendre à une hausse moyenne de 3,7% en 2027, estime Comparis",
@@ -80171,7 +80174,10 @@
   },
   {
     "title": "Des frappes israéliennes font 12 morts au Liban avant des pourparlers sous l'égide des Etats-Unis",
-    "added_at": "2026-05-13T14:39:23.905Z"
+    "added_at": "2026-05-13T14:39:23.905Z",
+    "removed_at": "2026-05-14T05:50:13.881Z",
+    "duration_minutes": 910,
+    "duration_str": "15h 10m"
   },
   {
     "title": "La saga \"Fast and Furious\" fête ses 25 ans à Cannes",
@@ -80235,7 +80241,10 @@
   },
   {
     "title": "La pilule du lendemain, comment ça marche ?",
-    "added_at": "2026-05-13T19:03:00.146Z"
+    "added_at": "2026-05-13T19:03:00.146Z",
+    "removed_at": "2026-05-14T06:16:44.175Z",
+    "duration_minutes": 673,
+    "duration_str": "11h 13m"
   },
   {
     "title": "\"Nous n'autoriserons pas une manifestation anti-G7 si on ne peut pas en garantir la sécurité à 100%\"",
@@ -80251,7 +80260,10 @@
   },
   {
     "title": "Trois personnes blessées lors d'une agression familiale à Faoug",
-    "added_at": "2026-05-13T19:41:43.574Z"
+    "added_at": "2026-05-13T19:41:43.574Z",
+    "removed_at": "2026-05-14T06:16:44.175Z",
+    "duration_minutes": 635,
+    "duration_str": "10h 35m"
   },
   {
     "title": "Genève suit un cas contact à l'hantavirus sans quarantaine obligatoire",
@@ -80308,6 +80320,35 @@
   },
   {
     "title": "Xi Jinping reçoit Donald Trump en grande pompe à Pékin",
-    "added_at": "2026-05-14T03:44:45.503Z"
+    "added_at": "2026-05-14T03:44:45.503Z",
+    "removed_at": "2026-05-14T06:26:23.261Z",
+    "duration_minutes": 161,
+    "duration_str": "2h 41m"
+  },
+  {
+    "title": "Des frappes israéliennes font 22 morts au Liban avant des pourparlers sous l'égide des Etats-Unis",
+    "added_at": "2026-05-14T05:50:13.881Z"
+  },
+  {
+    "title": "Un homme blesse trois personnes de sa famille lors d'une agression à Faoug",
+    "added_at": "2026-05-14T06:16:44.175Z",
+    "removed_at": "2026-05-14T06:21:36.799Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Un homme blesse à l'arme blanche trois personnes de sa famille à Faoug",
+    "added_at": "2026-05-14T06:21:36.799Z"
+  },
+  {
+    "title": "Xi Jinping prévient Donald Trump du risque de \"conflit\" sur Taïwan",
+    "added_at": "2026-05-14T06:26:23.261Z",
+    "removed_at": "2026-05-14T06:33:37.261Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Xi Jinping prévient Donald Trump d'un risque de \"conflit\" sur Taïwan",
+    "added_at": "2026-05-14T06:33:37.261Z"
   }
 ]
