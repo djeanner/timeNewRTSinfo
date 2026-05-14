@@ -8226,10 +8226,7 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z",
-    "removed_at": "2026-05-08T10:12:18.466Z",
-    "duration_minutes": 504970,
-    "duration_str": "350d 16h 10m"
+    "added_at": "2025-05-22T18:01:52.008Z"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -78111,7 +78108,10 @@
   },
   {
     "title": "monde:::Des «scénarios pour mettre fin à la guerre en Ukraine» à l’étude au Kremlin?",
-    "added_at": "2026-05-11T15:40:22.723Z"
+    "added_at": "2026-05-11T15:40:22.723Z",
+    "removed_at": "2026-05-14T14:10:13.517Z",
+    "duration_minutes": 4229,
+    "duration_str": "2d 22h 29m"
   },
   {
     "title": "suisse:::Avant le départ de Rebecca Ruiz, le Conseil d’Etat vaudois passe à l’offensive contre les violences domestiques",
@@ -78674,7 +78674,10 @@
   },
   {
     "title": "monde:::«Des partenaires, pas des rivaux»: Xi Jinping accueille Donald Trump en grande pompe",
-    "added_at": "2026-05-14T03:20:36.428Z"
+    "added_at": "2026-05-14T03:20:36.428Z",
+    "removed_at": "2026-05-14T15:01:02.123Z",
+    "duration_minutes": 700,
+    "duration_str": "11h 40m"
   },
   {
     "title": "monde:::Pour attirer les étudiants étrangers qui les désertent, les MBA sont «en solde» aux Etats-Unis",
@@ -78718,7 +78721,10 @@
   },
   {
     "title": "cyber:::La Pologne mise toujours plus sur sa jeunesse pour assurer sa cyberdéfense",
-    "added_at": "2026-05-14T06:57:39.851Z"
+    "added_at": "2026-05-14T06:57:39.851Z",
+    "removed_at": "2026-05-14T15:20:19.361Z",
+    "duration_minutes": 502,
+    "duration_str": "8h 22m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les négociateurs israéliens et libanais se retrouvent ce jeudi à Washington",
@@ -78760,10 +78766,25 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Cinq morts et une quarantaine de blessés dans une vaste attaque sur Kiev",
-    "added_at": "2026-05-14T10:54:30.802Z"
+    "added_at": "2026-05-14T10:54:30.802Z",
+    "removed_at": "2026-05-14T14:46:30.298Z",
+    "duration_minutes": 231,
+    "duration_str": "3h 51m"
   },
   {
     "title": "culture:::Cannes: «La Vie d’une femme» chirurgienne en 11 chapitres hétéroclites en forme de catalogue",
     "added_at": "2026-05-14T11:49:59.733Z"
+  },
+  {
+    "title": "economie:::Lucia Silvestri: «Les diamants de synthèse ne m’intéressent pas»",
+    "added_at": "2026-05-14T13:12:15.719Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Au moins huit morts et plus de quarante blessés dans une vaste attaque sur Kiev",
+    "added_at": "2026-05-14T14:46:30.298Z"
+  },
+  {
+    "title": "economie:::Antoine Sansonnens, professeur en travail social: «Pour les jeunes en souffrance psychique, il faut rompre avec une logique de standardisation»",
+    "added_at": "2026-05-14T15:01:02.123Z"
   }
 ]
