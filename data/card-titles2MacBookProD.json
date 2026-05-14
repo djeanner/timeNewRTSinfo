@@ -78533,7 +78533,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les stocks mondiaux de pétrole s'amenuisent «à un rythme record»",
-    "added_at": "2026-05-13T08:53:40.382Z"
+    "added_at": "2026-05-13T08:53:40.382Z",
+    "removed_at": "2026-05-14T01:22:17.510Z",
+    "duration_minutes": 988,
+    "duration_str": "16h 28m"
   },
   {
     "title": "monde:::L’Allemagne cherche des alternatives aux Tomahawk américains qui pourraient ne plus êtres stationnés sur son sol",
@@ -78572,7 +78575,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Russie lance une vague d’attaques et conditionne des négociations à un retrait ukrainien du Donbass",
-    "added_at": "2026-05-13T13:29:24.170Z"
+    "added_at": "2026-05-13T13:29:24.170Z",
+    "removed_at": "2026-05-14T01:12:38.644Z",
+    "duration_minutes": 703,
+    "duration_str": "11h 43m"
   },
   {
     "title": "monde:::A Taïwan, les inquiétudes montent avant la rencontre entre Xi Jinping et un Donald Trump qui «change d’avis et se contredit souvent»",
@@ -78607,10 +78613,21 @@
   },
   {
     "title": "economie:::Le Sénat américain valide la nomination de Kevin Warsh à la tête de la Fed",
-    "added_at": "2026-05-13T19:05:21.538Z"
+    "added_at": "2026-05-13T19:05:21.538Z",
+    "removed_at": "2026-05-14T01:41:34.910Z",
+    "duration_minutes": 396,
+    "duration_str": "6h 36m"
   },
   {
     "title": "sciences:::Construire des bâtiments écologiques en bois, une tradition retrouvée dans les montagnes autrichiennes",
     "added_at": "2026-05-13T19:41:43.635Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Une importante attaque aérienne est en cours sur Kiev",
+    "added_at": "2026-05-14T01:12:38.644Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Au moins 22 morts dans des frappes israéliennes au Liban",
+    "added_at": "2026-05-14T01:22:17.510Z"
   }
 ]

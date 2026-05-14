@@ -79724,7 +79724,10 @@
   },
   {
     "title": "Le réseau romand est dimensionné pour \"la Suisse d’hier\", dénonce Pierre Maudet",
-    "added_at": "2026-05-11T20:25:54.058Z"
+    "added_at": "2026-05-11T20:25:54.058Z",
+    "removed_at": "2026-05-13T23:28:59.396Z",
+    "duration_minutes": 3063,
+    "duration_str": "2d 3h 3m"
   },
   {
     "title": "Bâle-Ville tranchera la question de la gestion des pigeons",
@@ -79832,7 +79835,10 @@
   },
   {
     "title": "Le premier musée londonien consacré aux Beatles ouvrira en 2027",
-    "added_at": "2026-05-12T09:16:52.299Z"
+    "added_at": "2026-05-12T09:16:52.299Z",
+    "removed_at": "2026-05-13T23:28:59.396Z",
+    "duration_minutes": 2292,
+    "duration_str": "1d 14h 12m"
   },
   {
     "title": "Quelques centimètres de neige sur les crêtes jurassiennes avant un week-end morose",
@@ -80270,5 +80276,27 @@
   {
     "title": "Kevin Warsh prend la tête d'une Réserve fédérale américaine sous pression politique",
     "added_at": "2026-05-13T22:55:03.253Z"
+  },
+  {
+    "title": "Présidentielle au Pérou: Roberto Sanchez qualifié pour le second tour face à Keiko Fujimori",
+    "added_at": "2026-05-13T23:28:59.396Z",
+    "removed_at": "2026-05-13T23:31:24.771Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Des coups de feu éclatent au Parlement où se retranche un sénateur recherché par la CPI",
+    "added_at": "2026-05-13T23:28:59.396Z"
+  },
+  {
+    "title": "Le candidat de la gauche radicale Roberto Sanchez se qualifie pour le second tour de la présidentielle au Pérou",
+    "added_at": "2026-05-13T23:31:24.771Z",
+    "removed_at": "2026-05-13T23:36:14.150Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Le candidat de gauche Roberto Sanchez se qualifie pour le second tour de la présidentielle au Pérou",
+    "added_at": "2026-05-13T23:36:14.150Z"
   }
 ]
