@@ -79884,7 +79884,10 @@
   },
   {
     "title": "L'élu Patrick Clivaz a été auditionné pendant douze heures sur l'incendie de Crans-Montana",
-    "added_at": "2026-05-12T11:22:05.972Z"
+    "added_at": "2026-05-12T11:22:05.972Z",
+    "removed_at": "2026-05-14T22:02:01.927Z",
+    "duration_minutes": 3519,
+    "duration_str": "2d 10h 39m"
   },
   {
     "title": "Lise-Marie Graden désignée candidate du PS au Conseil d'Etat fribourgeois au terme d'un débat nourri",
@@ -80623,11 +80626,17 @@
   },
   {
     "title": "Une attaque massive de drones russes frappe Kiev et fait dix morts",
-    "added_at": "2026-05-14T19:00:38.929Z"
+    "added_at": "2026-05-14T19:00:38.929Z",
+    "removed_at": "2026-05-14T20:59:15.028Z",
+    "duration_minutes": 118,
+    "duration_str": "1h 58m"
   },
   {
     "title": "Jordan Davis revient sur la rencontre entre Trump et Xi Jinping",
-    "added_at": "2026-05-14T19:20:02.161Z"
+    "added_at": "2026-05-14T19:20:02.161Z",
+    "removed_at": "2026-05-14T21:16:11.168Z",
+    "duration_minutes": 116,
+    "duration_str": "1h 56m"
   },
   {
     "title": "Vacances: où partir pour être tranquille ?",
@@ -80642,7 +80651,10 @@
   },
   {
     "title": "La Suisse joue sa place en finale de l'Eurovision avec Veronica Fusaro. Suivez la 2e demi-finale",
-    "added_at": "2026-05-14T19:34:32.263Z"
+    "added_at": "2026-05-14T19:34:32.263Z",
+    "removed_at": "2026-05-14T21:18:32.789Z",
+    "duration_minutes": 104,
+    "duration_str": "1h 44m"
   },
   {
     "title": "Depuis l'arrêt de l'aide américaine, les conflits ont augmenté en Afrique",
@@ -80655,5 +80667,35 @@
   {
     "title": "Malgré une offre ferroviaire renforcée, de gros bouchons se sont formés au Gothard",
     "added_at": "2026-05-14T20:49:24.358Z"
+  },
+  {
+    "title": "Une attaque massive de drones russes frappe Kiev et fait des dizaine de morts",
+    "added_at": "2026-05-14T20:59:15.028Z"
+  },
+  {
+    "title": "Trump et Xi Jinping se sont rencontrés aujourd'hui à Pékin",
+    "added_at": "2026-05-14T21:16:11.168Z"
+  },
+  {
+    "title": "La Suisse s’arrête aux portes de la finale de l’Eurovision",
+    "added_at": "2026-05-14T21:18:32.789Z",
+    "removed_at": "2026-05-14T21:28:13.524Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "La Suisse s'arrête aux portes de la finale de l'Eurovision",
+    "added_at": "2026-05-14T21:28:13.524Z",
+    "removed_at": "2026-05-14T21:49:58.722Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
+  },
+  {
+    "title": "La Suissesse Veronica Fusaro échoue aux portes de la finale de l'Eurovision",
+    "added_at": "2026-05-14T21:49:58.722Z"
+  },
+  {
+    "title": "Soundcheck - Les cinq favoris de l’Eurovision 2026",
+    "added_at": "2026-05-14T22:02:01.927Z"
   }
 ]
