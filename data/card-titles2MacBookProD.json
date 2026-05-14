@@ -78642,7 +78642,10 @@
   },
   {
     "title": "culture:::Festival de Cannes, jour 2: Vincent Bolloré, un épouvantail de droite sur la Croisette",
-    "added_at": "2026-05-13T17:57:44.928Z"
+    "added_at": "2026-05-13T17:57:44.928Z",
+    "removed_at": "2026-05-14T19:32:06.084Z",
+    "duration_minutes": 1534,
+    "duration_str": "1d 1h 34m"
   },
   {
     "title": "economie:::Le Sénat américain valide la nomination de Kevin Warsh à la tête de la Fed",
@@ -78681,7 +78684,10 @@
   },
   {
     "title": "monde:::Pour attirer les étudiants étrangers qui les désertent, les MBA sont «en solde» aux Etats-Unis",
-    "added_at": "2026-05-14T03:20:36.428Z"
+    "added_at": "2026-05-14T03:20:36.428Z",
+    "removed_at": "2026-05-14T18:38:52.073Z",
+    "duration_minutes": 918,
+    "duration_str": "15h 18m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Un mort et 16 blessés dans une attaque russe sur Kiev",
@@ -78710,7 +78716,10 @@
   },
   {
     "title": "economie:::Le patron de l’entreprise Shire: «Les guerres contre l’Iran et Ukraine ainsi que le Brexit nous portent préjudice»",
-    "added_at": "2026-05-14T06:09:30.551Z"
+    "added_at": "2026-05-14T06:09:30.551Z",
+    "removed_at": "2026-05-14T18:48:35.452Z",
+    "duration_minutes": 759,
+    "duration_str": "12h 39m"
   },
   {
     "title": "economie:::Honda annonce une perte d’exploitation de 2 milliards d’euros, une première depuis 1957",
@@ -78785,7 +78794,10 @@
   },
   {
     "title": "culture:::Cannes: «La Vie d’une femme» chirurgienne en 11 chapitres hétéroclites en forme de catalogue",
-    "added_at": "2026-05-14T11:49:59.733Z"
+    "added_at": "2026-05-14T11:49:59.733Z",
+    "removed_at": "2026-05-14T19:17:34.981Z",
+    "duration_minutes": 447,
+    "duration_str": "7h 27m"
   },
   {
     "title": "economie:::Lucia Silvestri: «Les diamants de synthèse ne m’intéressent pas»",
@@ -78796,7 +78808,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Au moins huit morts et plus de quarante blessés dans une vaste attaque sur Kiev",
-    "added_at": "2026-05-14T14:46:30.298Z"
+    "added_at": "2026-05-14T14:46:30.298Z",
+    "removed_at": "2026-05-14T19:29:44.241Z",
+    "duration_minutes": 283,
+    "duration_str": "4h 43m"
   },
   {
     "title": "economie:::Antoine Sansonnens, professeur en travail social: «Pour les jeunes en souffrance psychique, il faut rompre avec une logique de standardisation»",
@@ -78831,10 +78846,51 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Xi Jinping serait prêt à aider à rouvrir le détroit d'Ormuz, selon Donald Trump",
-    "added_at": "2026-05-14T17:18:55.758Z"
+    "added_at": "2026-05-14T17:18:55.758Z",
+    "removed_at": "2026-05-14T19:46:37.339Z",
+    "duration_minutes": 147,
+    "duration_str": "2h 27m"
   },
   {
     "title": "sport:::Pour Sion, un jeudi de l’Ascension comme ascenseur émotionnel",
     "added_at": "2026-05-14T17:43:07.839Z"
+  },
+  {
+    "title": "economie:::Pourquoi les jeunes horlogers indépendants ont talonné Rolex, Patek Philippe et Cartier aux enchères de Genève",
+    "added_at": "2026-05-14T18:38:52.073Z"
+  },
+  {
+    "title": "economie:::Le patron de l’entreprise Shire: «Les guerres contre l’Iran et l’Ukraine ainsi que le Brexit nous portent préjudice»",
+    "added_at": "2026-05-14T18:48:35.452Z"
+  },
+  {
+    "title": "culture:::Festival Cannes: dans «Fatherland», Paweł Pawlikowski raconte avec une implacable rigueur le retour de Thomas Mann dans l’Allemagne meurtrie de l’après-guerre",
+    "added_at": "2026-05-14T19:17:34.981Z",
+    "removed_at": "2026-05-14T19:39:22.089Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Au moins dix morts et plus d'une quarantaine de blessés dans une vaste attaque sur Kiev",
+    "added_at": "2026-05-14T19:29:44.241Z",
+    "removed_at": "2026-05-14T19:44:15.138Z",
+    "duration_minutes": 14,
+    "duration_str": "14m"
+  },
+  {
+    "title": "culture:::Festival de Cannes, jour 3: quand la légende du foot et celle de Maradona se racontent sur grand écran",
+    "added_at": "2026-05-14T19:32:06.084Z"
+  },
+  {
+    "title": "culture:::Festival de Cannes: dans «Fatherland», Paweł Pawlikowski raconte avec une implacable rigueur le retour de Thomas Mann dans l’Allemagne meurtrie de l’après-guerre",
+    "added_at": "2026-05-14T19:39:22.089Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Au moins dix morts et plus d'une quarantaine de blessés dans une vaste attaque sur Kiev",
+    "added_at": "2026-05-14T19:44:15.138Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Xi Jinping serait prêt à aider à rouvrir le détroit d'Ormuz, selon Donald Trump",
+    "added_at": "2026-05-14T19:46:37.339Z"
   }
 ]
