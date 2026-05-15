@@ -80670,7 +80670,10 @@
   },
   {
     "title": "Une attaque massive de drones russes frappe Kiev et fait des dizaine de morts",
-    "added_at": "2026-05-14T20:59:15.028Z"
+    "added_at": "2026-05-14T20:59:15.028Z",
+    "removed_at": "2026-05-15T00:48:39.144Z",
+    "duration_minutes": 229,
+    "duration_str": "3h 49m"
   },
   {
     "title": "Trump et Xi Jinping se sont rencontrés aujourd'hui à Pékin",
@@ -80697,5 +80700,9 @@
   {
     "title": "Soundcheck - Les cinq favoris de l’Eurovision 2026",
     "added_at": "2026-05-14T22:02:01.927Z"
+  },
+  {
+    "title": "Une attaque massive de drones russes frappe Kiev et fait 21 morts",
+    "added_at": "2026-05-15T00:48:39.144Z"
   }
 ]
