@@ -78912,7 +78912,10 @@
   },
   {
     "title": "culture:::Festival de Cannes, jour 3: quand la légende du foot et celle de Maradona se racontent sur grand écran",
-    "added_at": "2026-05-14T19:32:06.084Z"
+    "added_at": "2026-05-14T19:32:06.084Z",
+    "removed_at": "2026-05-15T19:33:10.134Z",
+    "duration_minutes": 1441,
+    "duration_str": "1d 1m"
   },
   {
     "title": "culture:::Festival de Cannes: dans «Fatherland», Paweł Pawlikowski raconte avec une implacable rigueur le retour de Thomas Mann dans l’Allemagne meurtrie de l’après-guerre",
@@ -79089,7 +79092,10 @@
   },
   {
     "title": "sport:::La Suisse devra battre les Etats-Unis, tenants du titre, pour lancer parfaitement son Mondial",
-    "added_at": "2026-05-15T12:22:00.994Z"
+    "added_at": "2026-05-15T12:22:00.994Z",
+    "removed_at": "2026-05-15T20:38:12.458Z",
+    "duration_minutes": 496,
+    "duration_str": "8h 16m"
   },
   {
     "title": "monde:::Un adolescent de 15 ans tué à Nantes dans un règlement de comptes liés au narcotrafic",
@@ -79122,11 +79128,17 @@
   },
   {
     "title": "monde:::L’animatrice Flavie Flament annonce porter plainte pour viol contre Patrick Bruel",
-    "added_at": "2026-05-15T16:35:53.605Z"
+    "added_at": "2026-05-15T16:35:53.605Z",
+    "removed_at": "2026-05-15T19:30:42.439Z",
+    "duration_minutes": 174,
+    "duration_str": "2h 54m"
   },
   {
     "title": "suisse:::Une idylle entre deux juges contrevient aux usages du Tribunal fédéral",
-    "added_at": "2026-05-15T16:38:21.218Z"
+    "added_at": "2026-05-15T16:38:21.218Z",
+    "removed_at": "2026-05-15T20:14:07.007Z",
+    "duration_minutes": 215,
+    "duration_str": "3h 35m"
   },
   {
     "title": "economie:::Un an de «mascarade» avant la chute de Credit Suisse",
@@ -79146,7 +79158,10 @@
   },
   {
     "title": "monde:::En direct – Moyen-Orient – Les Emirats arabes unis nient participer à la guerre contre l'Iran",
-    "added_at": "2026-05-15T18:01:21.235Z"
+    "added_at": "2026-05-15T18:01:21.235Z",
+    "removed_at": "2026-05-15T20:02:06.271Z",
+    "duration_minutes": 120,
+    "duration_str": "2h"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky promet des représailles après les bombardements massifs sur Kiev",
@@ -79170,5 +79185,32 @@
   {
     "title": "sciences:::’Ndrangheta, la mafia calabraise, tire cohésion et puissance des multiples mariages entre membres de ses clans",
     "added_at": "2026-05-15T19:08:50.310Z"
+  },
+  {
+    "title": "monde:::Beyrouth réclame en vain la fin définitive des attaques israéliennes",
+    "added_at": "2026-05-15T19:30:42.439Z"
+  },
+  {
+    "title": "culture:::Festival de Cannes, jour 4: les trois vies de John Travolta",
+    "added_at": "2026-05-15T19:33:10.134Z"
+  },
+  {
+    "title": "monde:::En direct – Moyen-Orient – Israël et le Liban prolongent leur cessez-le-feu maintes fois violé",
+    "added_at": "2026-05-15T20:02:06.271Z"
+  },
+  {
+    "title": "suisse:::Une idylle entre deux juges contrevient en principe aux usages du Tribunal fédéral",
+    "added_at": "2026-05-15T20:14:07.007Z"
+  },
+  {
+    "title": "sport:::L'équipe suisse de hockey réussit ses débuts: elle bat les Etats-Unis",
+    "added_at": "2026-05-15T20:38:12.458Z",
+    "removed_at": "2026-05-15T21:45:40.091Z",
+    "duration_minutes": 67,
+    "duration_str": "1h 7m"
+  },
+  {
+    "title": "sport:::L'équipe suisse de hockey réussit parfaitement ses débuts: elle bat les Etats-Unis",
+    "added_at": "2026-05-15T21:45:40.091Z"
   }
 ]
