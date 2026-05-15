@@ -78781,7 +78781,10 @@
   },
   {
     "title": "sciences:::De la neige est prévue pour l’Ascension, dans le Jura et les Préalpes, et pourrait perturber la circulation",
-    "added_at": "2026-05-14T09:44:20.958Z"
+    "added_at": "2026-05-14T09:44:20.958Z",
+    "removed_at": "2026-05-15T10:59:45.183Z",
+    "duration_minutes": 1515,
+    "duration_str": "1d 1h 15m"
   },
   {
     "title": "cyber:::Pour ses courriers numériques, La Poste suisse utilise les infrastructures de Google. Est-ce vraiment responsable?",
@@ -78842,10 +78845,7 @@
   },
   {
     "title": "sport:::Avant le Mondial, l’équipe de Suisse de hockey sur glace a rétabli l’union sacrée",
-    "added_at": "2026-05-14T16:01:34.979Z",
-    "removed_at": "2026-05-15T02:44:37.786Z",
-    "duration_minutes": 643,
-    "duration_str": "10h 43m"
+    "added_at": "2026-05-14T16:01:34.979Z"
   },
   {
     "title": "culture:::Crise de la Comédie de Genève: alors qu’une partie de l’Europe théâtrale apporte son soutien à Séverine Chavrier, le Conseil municipal jouera les arbitres",
@@ -78910,7 +78910,10 @@
   },
   {
     "title": "culture:::Festival de Cannes: dans «Fatherland», Paweł Pawlikowski raconte avec une implacable rigueur le retour de Thomas Mann dans l’Allemagne meurtrie de l’après-guerre",
-    "added_at": "2026-05-14T19:39:22.089Z"
+    "added_at": "2026-05-14T19:39:22.089Z",
+    "removed_at": "2026-05-15T12:34:04.029Z",
+    "duration_minutes": 1014,
+    "duration_str": "16h 54m"
   },
   {
     "title": "monde:::Guerre en Ukraine – Au moins dix morts et plus d'une quarantaine de blessés dans une vaste attaque sur Kiev",
@@ -78928,7 +78931,10 @@
   },
   {
     "title": "culture:::Eurovision: au bout du suspense, la Suissesse Veronica Fusaro est éliminée en demi-finale",
-    "added_at": "2026-05-14T21:25:47.732Z"
+    "added_at": "2026-05-14T21:25:47.732Z",
+    "removed_at": "2026-05-15T12:34:04.029Z",
+    "duration_minutes": 908,
+    "duration_str": "15h 8m"
   },
   {
     "title": "monde:::Moyen-Orient – La première journée de négociations entre Israël et le Liban a été «positive»",
@@ -79005,7 +79011,10 @@
   },
   {
     "title": "sciences:::Hantavirus: tout savoir sur le rat pygmée de rizière à longue queue, réservoir principal du virus des Andes",
-    "added_at": "2026-05-15T08:03:25.689Z"
+    "added_at": "2026-05-15T08:03:25.689Z",
+    "removed_at": "2026-05-15T11:23:48.420Z",
+    "duration_minutes": 200,
+    "duration_str": "3h 20m"
   },
   {
     "title": "sciences:::L’OMS met en garde contre l’explosion du marché des sachets de nicotine qui cible les plus jeunes",
@@ -79027,7 +79036,10 @@
   },
   {
     "title": "suisse:::L'initiative «Pas de Suisse à 10 millions» fait flamber les dépenses de campagne",
-    "added_at": "2026-05-15T08:56:27.121Z"
+    "added_at": "2026-05-15T08:56:27.121Z",
+    "removed_at": "2026-05-15T10:42:49.168Z",
+    "duration_minutes": 106,
+    "duration_str": "1h 46m"
   },
   {
     "title": "culture:::Netflix, «addictive»? L’idée la plus idiote de la semaine",
@@ -79036,5 +79048,21 @@
   {
     "title": "monde:::«Plus une seule goutte» de carburant: Cuba désormais complètement à sec",
     "added_at": "2026-05-15T09:56:45.371Z"
+  },
+  {
+    "title": "sciences:::«Le fleuve, c’est la vie, pas un dépotoir»: Yuvelis Morales, jeune lauréate du «Nobel de l’environnement»",
+    "added_at": "2026-05-15T10:42:49.168Z"
+  },
+  {
+    "title": "economie:::Les PME échouent rarement en raison du marché ou d’un mauvais business plan",
+    "added_at": "2026-05-15T10:59:45.183Z"
+  },
+  {
+    "title": "sport:::La Suisse devra battre les Etats-Unis, tenants du titre, pour lancer parfaitement son Mondial",
+    "added_at": "2026-05-15T12:22:00.994Z"
+  },
+  {
+    "title": "monde:::Un adolescent de 15 ans tué à Nantes dans un règlement de comptes liés au narcotrafic",
+    "added_at": "2026-05-15T12:34:04.029Z"
   }
 ]
