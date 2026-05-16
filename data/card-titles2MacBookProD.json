@@ -78989,7 +78989,10 @@
   },
   {
     "title": "monde:::A Kramatorsk, en pleine «kill zone», où les civils vivent la peur au ventre et les yeux rivés au ciel",
-    "added_at": "2026-05-15T04:25:52.253Z"
+    "added_at": "2026-05-15T04:25:52.253Z",
+    "removed_at": "2026-05-16T07:28:52.882Z",
+    "duration_minutes": 1623,
+    "duration_str": "1d 3h 3m"
   },
   {
     "title": "suisse:::Numérisation de la santé: Pierre Maudet plaide pour un «data lake» lémanique",
@@ -79053,14 +79056,14 @@
   },
   {
     "title": "sciences:::L’OMS met en garde contre l’explosion du marché des sachets de nicotine qui ciblent les plus jeunes",
-    "added_at": "2026-05-15T08:27:31.938Z"
+    "added_at": "2026-05-15T08:27:31.938Z",
+    "removed_at": "2026-05-16T07:48:08.446Z",
+    "duration_minutes": 1400,
+    "duration_str": "23h 20m"
   },
   {
     "title": "suisse:::L'initiative «Pas de Suisse à 10 millions» fait flamber les dépenses de campagne",
-    "added_at": "2026-05-15T08:56:27.121Z",
-    "removed_at": "2026-05-15T10:42:49.168Z",
-    "duration_minutes": 106,
-    "duration_str": "1h 46m"
+    "added_at": "2026-05-15T08:56:27.121Z"
   },
   {
     "title": "culture:::Netflix, «addictive»? L’idée la plus idiote de la semaine",
@@ -79153,7 +79156,10 @@
   },
   {
     "title": "cyber:::Le vent de folie autour de Cerebras et ses puces géantes, conçues par un Suisse, montre que la frénésie autour de l’IA s’intensifie",
-    "added_at": "2026-05-15T18:01:21.235Z"
+    "added_at": "2026-05-15T18:01:21.235Z",
+    "removed_at": "2026-05-16T06:16:36.924Z",
+    "duration_minutes": 735,
+    "duration_str": "12h 15m"
   },
   {
     "title": "economie:::En perte de vitesse sur le continent, la France veut séduire l’Afrique anglophone",
@@ -79172,7 +79178,10 @@
   },
   {
     "title": "culture:::La Finlande domine les pronostics de l’Eurovision",
-    "added_at": "2026-05-15T18:03:42.898Z"
+    "added_at": "2026-05-15T18:03:42.898Z",
+    "removed_at": "2026-05-16T08:36:19.061Z",
+    "duration_minutes": 872,
+    "duration_str": "14h 32m"
   },
   {
     "title": "monde:::Beyrouth réclame en vain la fin des attaques israéliennes",
@@ -79183,7 +79192,10 @@
   },
   {
     "title": "sport:::David Aebischer, premier Suisse champion de NHL: «Plus on me disait que je n’y arriverais pas, plus cela me motivait»",
-    "added_at": "2026-05-15T18:27:49.792Z"
+    "added_at": "2026-05-15T18:27:49.792Z",
+    "removed_at": "2026-05-16T06:52:44.343Z",
+    "duration_minutes": 744,
+    "duration_str": "12h 24m"
   },
   {
     "title": "sciences:::’Ndrangheta, la mafia calabraise, tire cohésion et puissance des multiples mariages entre membres de ses clans",
@@ -79191,7 +79203,10 @@
   },
   {
     "title": "monde:::Beyrouth réclame en vain la fin définitive des attaques israéliennes",
-    "added_at": "2026-05-15T19:30:42.439Z"
+    "added_at": "2026-05-15T19:30:42.439Z",
+    "removed_at": "2026-05-16T08:04:58.145Z",
+    "duration_minutes": 754,
+    "duration_str": "12h 34m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 4: les trois vies de John Travolta",
@@ -79219,5 +79234,17 @@
   {
     "title": "suisse:::Nyon, 7h53: la ville au bord de l’asphyxie",
     "added_at": "2026-05-16T05:21:04.731Z"
+  },
+  {
+    "title": "monde:::Des vacances à la plage sinon rien: cette année aussi, les touristes russes comptent se rendre à la mer Noire, en dépit des marées noires et des attaques ukrainiennes",
+    "added_at": "2026-05-16T06:16:36.924Z"
+  },
+  {
+    "title": "monde:::Taïwan affirme être une nation «indépendante», après la mise en garde de Trump",
+    "added_at": "2026-05-16T06:52:44.343Z"
+  },
+  {
+    "title": "culture:::L’Eurovision fête ses 70 ans: «C’est comme un repas de Noël avec une famille dysfonctionnelle»",
+    "added_at": "2026-05-16T08:36:19.061Z"
   }
 ]
