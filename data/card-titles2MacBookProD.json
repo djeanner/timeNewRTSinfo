@@ -79131,7 +79131,10 @@
   },
   {
     "title": "culture:::Festival de Cannes: et «Soudain», Virginie Efira dans un film d’une humanité incandescente qui a le poids d’une Palme d’or",
-    "added_at": "2026-05-15T15:42:34.576Z"
+    "added_at": "2026-05-15T15:42:34.576Z",
+    "removed_at": "2026-05-16T20:01:42.208Z",
+    "duration_minutes": 1699,
+    "duration_str": "1d 4h 19m"
   },
   {
     "title": "suisse:::Une idylle entre deux juges contrevient aux usages en vigueur au sein du Tribunal fédéral",
@@ -79198,7 +79201,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky promet des représailles après les bombardements massifs sur Kiev",
-    "added_at": "2026-05-15T18:01:21.235Z"
+    "added_at": "2026-05-15T18:01:21.235Z",
+    "removed_at": "2026-05-16T20:04:03.524Z",
+    "duration_minutes": 1562,
+    "duration_str": "1d 2h 2m"
   },
   {
     "title": "culture:::La Finlande domine les pronostics de l’Eurovision",
@@ -79310,7 +79316,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël mène de nouvelles frappes, des Libanais ne croient pas en la trêve",
-    "added_at": "2026-05-16T12:13:24.763Z"
+    "added_at": "2026-05-16T12:13:24.763Z",
+    "removed_at": "2026-05-16T20:11:16.196Z",
+    "duration_minutes": 477,
+    "duration_str": "7h 57m"
   },
   {
     "title": "culture:::Anne Bisang, directrice du Théâtre populaire romand à La Chaux-de-Fonds: «Laurence Bisang, ma sœur, a toujours été mon éclaireuse»",
@@ -79356,5 +79365,28 @@
   {
     "title": "economie:::L’ouverture des ventes de la Royal Pop, la montre d’Audemars Piguet et Swatch, fait un triomphe voire vire au chaos",
     "added_at": "2026-05-16T19:27:40.591Z"
+  },
+  {
+    "title": "culture:::Festival de Cannes: dans «Sheep in the Box», un humanoïde remplaçant un enfant mort rêve du Petit Prince",
+    "added_at": "2026-05-16T20:01:42.208Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Les Etats-Unis annulent le déploiement de 4000 militaires en Pologne",
+    "added_at": "2026-05-16T20:04:03.524Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Israël mène de nouvelles frappes, des Libanais ne croient pas en la trêve",
+    "added_at": "2026-05-16T20:11:16.196Z"
+  },
+  {
+    "title": "sport:::La Suisse a été très maladroite devant les buts lettons, mais elle a logiquement gagné",
+    "added_at": "2026-05-16T21:33:11.226Z",
+    "removed_at": "2026-05-16T21:38:04.232Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "sport:::La Suisse a été trop maladroite devant les buts lettons, mais elle a logiquement gagné",
+    "added_at": "2026-05-16T21:38:04.232Z"
   }
 ]
