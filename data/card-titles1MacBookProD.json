@@ -80453,7 +80453,10 @@
   },
   {
     "title": "Genève suit un cas contact à l'hantavirus sans quarantaine obligatoire",
-    "added_at": "2026-05-13T19:58:56.571Z"
+    "added_at": "2026-05-13T19:58:56.571Z",
+    "removed_at": "2026-05-16T05:35:31.664Z",
+    "duration_minutes": 3456,
+    "duration_str": "2d 9h 36m"
   },
   {
     "title": "Après une alerte sanitaire à Bordeaux, le confinement est partiellement levé sur un paquebot",
@@ -80487,7 +80490,10 @@
   },
   {
     "title": "Des coups de feu éclatent au Parlement où se retranche un sénateur recherché par la CPI",
-    "added_at": "2026-05-13T23:28:59.396Z"
+    "added_at": "2026-05-13T23:28:59.396Z",
+    "removed_at": "2026-05-16T05:59:34.992Z",
+    "duration_minutes": 3270,
+    "duration_str": "2d 6h 30m"
   },
   {
     "title": "Le candidat de la gauche radicale Roberto Sanchez se qualifie pour le second tour de la présidentielle au Pérou",
@@ -81051,5 +81057,13 @@
   {
     "title": "Mondial de hockey: Zurich et Fribourg s’opposent dans l’organisation contrasté",
     "added_at": "2026-05-16T01:15:25.504Z"
+  },
+  {
+    "title": "\"En Italie, on ne touche pas au président et au pape\"",
+    "added_at": "2026-05-16T05:35:31.664Z"
+  },
+  {
+    "title": "Le droite bourgeoise peine à faire bloc contre l'initiative contre une Suisse à 10 millions d'habitants",
+    "added_at": "2026-05-16T05:59:34.992Z"
   }
 ]
