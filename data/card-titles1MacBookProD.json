@@ -79673,7 +79673,10 @@
   },
   {
     "title": "Quatre Suisses concernés par l'infection au hantavirus",
-    "added_at": "2026-05-11T16:02:06.625Z"
+    "added_at": "2026-05-11T16:02:06.625Z",
+    "removed_at": "2026-05-16T23:02:33.025Z",
+    "duration_minutes": 7620,
+    "duration_str": "5d 7h"
   },
   {
     "title": "Le canton de Vaud renforce son dispositif contre les violences domestiques",
@@ -81354,17 +81357,56 @@
   },
   {
     "title": "Les divergences restent fortes entre Donald Trump et Xi Jinping",
-    "added_at": "2026-05-16T22:02:08.353Z",
-    "removed_at": "2026-05-16T22:19:01.022Z",
-    "duration_minutes": 16,
-    "duration_str": "16m"
+    "added_at": "2026-05-16T22:02:08.353Z"
   },
   {
     "title": "La 70e finale de l'Eurovision bat son plein, début de l'annonce des résultats. Suivez la finale",
-    "added_at": "2026-05-16T22:09:21.778Z"
+    "added_at": "2026-05-16T22:09:21.778Z",
+    "removed_at": "2026-05-16T22:31:12.594Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
   },
   {
     "title": "Félicien Kabuga, accusé de génocide au Rwanda, est décédé à La Haye",
     "added_at": "2026-05-16T22:14:14.044Z"
+  },
+  {
+    "title": "La 70e finale de l'Eurovision bat son plein, annonce des résultats en cours. Suivez la finale",
+    "added_at": "2026-05-16T22:31:12.594Z",
+    "removed_at": "2026-05-16T22:36:05.114Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "L'annonce des résultats de la 70e édition de l'Eurovision en cours. Suivez la finale",
+    "added_at": "2026-05-16T22:36:05.114Z",
+    "removed_at": "2026-05-16T23:02:33.025Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "La Bulgarie remporte la 70e édition de l'Eurovision, Israël deuxième",
+    "added_at": "2026-05-16T23:02:33.025Z",
+    "removed_at": "2026-05-16T23:05:00.136Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "La Bulgarie remporte la 70e édition de l'Eurovision, Israël en deuxième position",
+    "added_at": "2026-05-16T23:05:00.136Z",
+    "removed_at": "2026-05-16T23:07:21.381Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "La Bulgarie remporte la 70e édition de l'Eurovision de la chanson sous les ovations, Israël deuxième",
+    "added_at": "2026-05-16T23:07:21.381Z",
+    "removed_at": "2026-05-16T23:12:13.750Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "La Bulgarie remporte la 70e édition de l'Eurovision de la chanson sous les ovations",
+    "added_at": "2026-05-16T23:12:13.750Z"
   }
 ]
