@@ -79281,7 +79281,10 @@
   },
   {
     "title": "suisse:::Nyon, 7h53: la ville au bord de l’asphyxie",
-    "added_at": "2026-05-16T05:21:04.731Z"
+    "added_at": "2026-05-16T05:21:04.731Z",
+    "removed_at": "2026-05-17T18:16:12.156Z",
+    "duration_minutes": 2215,
+    "duration_str": "1d 12h 55m"
   },
   {
     "title": "monde:::Des vacances à la plage sinon rien: cette année aussi, les touristes russes comptent se rendre à la mer Noire, en dépit des marées noires et des attaques ukrainiennes",
@@ -79529,7 +79532,10 @@
   },
   {
     "title": "culture:::Série: Dans «Etty», Hagai Levi porte une voix précieuse de l’Occupation",
-    "added_at": "2026-05-17T13:35:40.650Z"
+    "added_at": "2026-05-17T13:35:40.650Z",
+    "removed_at": "2026-05-17T17:44:49.693Z",
+    "duration_minutes": 249,
+    "duration_str": "4h 9m"
   },
   {
     "title": "cyber:::Ce n’était pas un problème technique, mais une cyberattaque: l’agression contre Salt, symbole d’une Suisse vulnérable face à des hackers ciblant ses infrastructures critiques",
@@ -79537,7 +79543,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – «Aucune concession concrète» dans la réponse de Washington à Téhéran, selon les médias iraniens",
-    "added_at": "2026-05-17T14:33:31.664Z"
+    "added_at": "2026-05-17T14:33:31.664Z",
+    "removed_at": "2026-05-17T17:42:27.734Z",
+    "duration_minutes": 188,
+    "duration_str": "3h 8m"
   },
   {
     "title": "culture:::«Des Métamorphoses», de Julie Guinand: une plongée aigre-douce dans nos vies (dé) connectées",
@@ -79572,10 +79581,33 @@
   },
   {
     "title": "culture:::Felicity Lott, grande dame du chant, s’en est allée",
-    "added_at": "2026-05-17T17:08:25.580Z"
+    "added_at": "2026-05-17T17:08:25.580Z",
+    "removed_at": "2026-05-17T18:47:31.549Z",
+    "duration_minutes": 99,
+    "duration_str": "1h 39m"
   },
   {
     "title": "culture:::Franc succès pour la Fête fédérale de musique à Bienne",
     "added_at": "2026-05-17T17:08:25.580Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump affirme qu'il «ne restera plus rien» de l'Iran sans accord",
+    "added_at": "2026-05-17T17:42:27.734Z"
+  },
+  {
+    "title": "sport:::La saison 2025-2026 de Super League s’est achevée. Il était temps!",
+    "added_at": "2026-05-17T17:44:49.693Z"
+  },
+  {
+    "title": "suisse:::Cible régulière de critiques à Genève, l'«ovni procédural» que serait la Cour des comptes défend la qualité de ses audits",
+    "added_at": "2026-05-17T18:16:12.156Z"
+  },
+  {
+    "title": "economie:::Risque d’autogoal avec le premier ETF européen à «autocall»",
+    "added_at": "2026-05-17T18:47:31.549Z"
+  },
+  {
+    "title": "suisse:::«Certaines éprouvent une forme de déshumanisation. On leur rappelle qu’elles sont femmes»: Sonia El Rhazi, au soin des démunies",
+    "added_at": "2026-05-17T19:06:49.461Z"
   }
 ]
