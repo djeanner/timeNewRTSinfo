@@ -79842,7 +79842,10 @@
   },
   {
     "title": "suisse:::David Fattebert, le Monsieur CFF des Romands, veut devenir conseiller d’Etat dans le canton de Fribourg",
-    "added_at": "2026-05-18T13:57:42.158Z"
+    "added_at": "2026-05-18T13:57:42.158Z",
+    "removed_at": "2026-05-18T20:32:31.489Z",
+    "duration_minutes": 394,
+    "duration_str": "6h 34m"
   },
   {
     "title": "culture:::A Vienne, l’ironie de Daumier fait toujours mouche contre les élites contemporaines",
@@ -79895,7 +79898,10 @@
   },
   {
     "title": "culture:::Festival de Cannes: dans «Paper Tiger», James Gray plonge un honnête citoyen dans les griffes de la mafia russe",
-    "added_at": "2026-05-18T16:58:05.167Z"
+    "added_at": "2026-05-18T16:58:05.167Z",
+    "removed_at": "2026-05-18T20:59:00.154Z",
+    "duration_minutes": 240,
+    "duration_str": "4h"
   },
   {
     "title": "suisse:::A Genève, un accord se dessine sur l’affaire des locataires expulsés de Carl-Vogt",
@@ -79903,7 +79909,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L'Iran desserre son étreinte sur le détroit d'Ormuz mais menace ses câbles sous-marins",
-    "added_at": "2026-05-18T17:07:39.414Z"
+    "added_at": "2026-05-18T17:07:39.414Z",
+    "removed_at": "2026-05-18T20:30:10.566Z",
+    "duration_minutes": 202,
+    "duration_str": "3h 22m"
   },
   {
     "title": "monde:::Entre affichage de fermeté et passé colonial, le dégel forcé des relations entre la France et l’Algérie",
@@ -79936,5 +79945,27 @@
   {
     "title": "cyber:::Elon Musk a perdu son retentissant procès contre OpenAI dirigé par son ennemi juré Sam Altman",
     "added_at": "2026-05-18T19:08:04.137Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump dit avoir suspendu une attaque prévue mardi contre l'Iran",
+    "added_at": "2026-05-18T20:30:10.566Z",
+    "removed_at": "2026-05-18T22:32:34.352Z",
+    "duration_minutes": 122,
+    "duration_str": "2h 2m"
+  },
+  {
+    "title": "sport:::L’équipe suisse de hockey impressionne, le public rêve déjà d’or",
+    "added_at": "2026-05-18T20:59:00.154Z",
+    "removed_at": "2026-05-18T21:08:32.831Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "sport:::L’équipe suisse de hockey impressionne en battant l’Allemagne 6 à 1, le public rêve déjà d’or",
+    "added_at": "2026-05-18T21:08:32.831Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump voit de «très bonnes chances» de parvenir à un accord avec l’Iran",
+    "added_at": "2026-05-18T22:32:34.352Z"
   }
 ]
