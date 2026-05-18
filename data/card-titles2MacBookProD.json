@@ -79496,7 +79496,10 @@
   },
   {
     "title": "suisse:::Zurich, engluée dans sa crise du logement, vote trois fois à ce sujet le 14 juin prochain",
-    "added_at": "2026-05-17T09:41:26.430Z"
+    "added_at": "2026-05-17T09:41:26.430Z",
+    "removed_at": "2026-05-18T09:15:43.361Z",
+    "duration_minutes": 1414,
+    "duration_str": "23h 34m"
   },
   {
     "title": "sciences:::Décès suspects à l’hôpital universitaire de Zurich: l’ex-chirurgien se défend",
@@ -79560,7 +79563,10 @@
   },
   {
     "title": "culture:::Dans son premier album «SALAAM», le rappeur genevois Rounhaa cherche la paix intérieure",
-    "added_at": "2026-05-17T15:38:53.702Z"
+    "added_at": "2026-05-17T15:38:53.702Z",
+    "removed_at": "2026-05-18T08:29:56.357Z",
+    "duration_minutes": 1011,
+    "duration_str": "16h 51m"
   },
   {
     "title": "cyber:::L’accord extraordinaire entre OpenAI et Malte pose de nombreuses questions",
@@ -79614,7 +79620,10 @@
   },
   {
     "title": "sport:::La saison 2025-2026 de Super League s’est achevée. Il était temps!",
-    "added_at": "2026-05-17T17:44:49.693Z"
+    "added_at": "2026-05-17T17:44:49.693Z",
+    "removed_at": "2026-05-18T07:00:47.953Z",
+    "duration_minutes": 795,
+    "duration_str": "13h 15m"
   },
   {
     "title": "suisse:::Cible régulière de critiques à Genève, l'«ovni procédural» que serait la Cour des comptes défend la qualité de ses audits",
@@ -79647,11 +79656,17 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Un chef du Jihad islamique tué dans des frappes israéliennes au Liban",
-    "added_at": "2026-05-18T03:28:28.491Z"
+    "added_at": "2026-05-18T03:28:28.491Z",
+    "removed_at": "2026-05-18T09:18:04.592Z",
+    "duration_minutes": 349,
+    "duration_str": "5h 49m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Un drone, «probablement ukrainien», s’écrase en Lituanie",
-    "added_at": "2026-05-18T03:28:28.491Z"
+    "added_at": "2026-05-18T03:28:28.491Z",
+    "removed_at": "2026-05-18T09:25:19.022Z",
+    "duration_minutes": 356,
+    "duration_str": "5h 56m"
   },
   {
     "title": "monde:::Donald Trump a offert les savants chinois d’Amérique à Pékin",
@@ -79679,5 +79694,32 @@
   {
     "title": "economie:::Donald Trump passe du TACO au NACHO",
     "added_at": "2026-05-18T06:38:55.462Z"
+  },
+  {
+    "title": "culture:::Canal+ évoque un boycott des artistes qui critiquent Vincent Bolloré",
+    "added_at": "2026-05-18T07:00:47.953Z"
+  },
+  {
+    "title": "economie:::Philipp Schlegel, responsable de VanEck Suisse: «Des montants importants sont investis dans les ETF liés à l’espace»",
+    "added_at": "2026-05-18T07:15:15.260Z",
+    "removed_at": "2026-05-18T09:18:04.592Z",
+    "duration_minutes": 122,
+    "duration_str": "2h 2m"
+  },
+  {
+    "title": "culture:::Festival de Cannes: dans «L’Etre aimé», un tournage toxique avec Javier Bardem en réalisateur tyrannique",
+    "added_at": "2026-05-18T08:29:56.357Z"
+  },
+  {
+    "title": "monde:::En Andalousie, le Parti socialiste du premier ministre Pedro Sánchez concède une nouvelle défaite éléctorale face à la droite",
+    "added_at": "2026-05-18T09:18:04.592Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’Iran affirme avoir répondu à une nouvelle proposition américaine",
+    "added_at": "2026-05-18T09:18:04.592Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Un cargo chinois touché par une frappe de drone russe en mer Noire",
+    "added_at": "2026-05-18T09:25:19.022Z"
   }
 ]
