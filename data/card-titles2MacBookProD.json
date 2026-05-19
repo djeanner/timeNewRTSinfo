@@ -79863,7 +79863,10 @@
   },
   {
     "title": "culture:::Festival de Cannes: Adèle Exarchopoulos est «Garance» dans un petit traité d’alcoolisme pour les nuls",
-    "added_at": "2026-05-18T14:48:07.452Z"
+    "added_at": "2026-05-18T14:48:07.452Z",
+    "removed_at": "2026-05-19T05:32:58.395Z",
+    "duration_minutes": 884,
+    "duration_str": "14h 44m"
   },
   {
     "title": "sciences:::«Déclarer le changement climatique comme une urgence de santé publique internationale serait un tournant décisif»",
@@ -79901,10 +79904,7 @@
   },
   {
     "title": "culture:::Festival de Cannes: dans «Paper Tiger», James Gray plonge un honnête citoyen dans les griffes de la mafia russe",
-    "added_at": "2026-05-18T16:58:05.167Z",
-    "removed_at": "2026-05-18T20:59:00.154Z",
-    "duration_minutes": 240,
-    "duration_str": "4h"
+    "added_at": "2026-05-18T16:58:05.167Z"
   },
   {
     "title": "suisse:::A Genève, un accord se dessine sur l’affaire des locataires expulsés de Carl-Vogt",
@@ -79919,11 +79919,17 @@
   },
   {
     "title": "monde:::Entre affichage de fermeté et passé colonial, le dégel forcé des relations entre la France et l’Algérie",
-    "added_at": "2026-05-18T17:17:17.396Z"
+    "added_at": "2026-05-18T17:17:17.396Z",
+    "removed_at": "2026-05-19T04:57:01.073Z",
+    "duration_minutes": 699,
+    "duration_str": "11h 39m"
   },
   {
     "title": "economie:::Avec la crainte de l’inflation, les rendements obligataires retrouvent des sommets historiques",
-    "added_at": "2026-05-18T18:00:44.838Z"
+    "added_at": "2026-05-18T18:00:44.838Z",
+    "removed_at": "2026-05-19T06:23:24.888Z",
+    "duration_minutes": 742,
+    "duration_str": "12h 22m"
   },
   {
     "title": "culture:::Crise de la Comédie de Genève: le Conseil municipal sous la pression des professionnels de la scène indépendante",
@@ -79936,9 +79942,9 @@
   {
     "title": "sciences:::La mission Smile de l’ESA veut filmer le bouclier magnétique de la Terre",
     "added_at": "2026-05-18T18:48:50.703Z",
-    "removed_at": "2026-05-19T04:13:37.406Z",
-    "duration_minutes": 564,
-    "duration_str": "9h 24m"
+    "removed_at": "2026-05-19T06:32:58.249Z",
+    "duration_minutes": 704,
+    "duration_str": "11h 44m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 7: le métier de regarder",
@@ -79990,6 +79996,28 @@
   },
   {
     "title": "monde:::L’Ukraine a interrompu l’avancée russe, mais personne à Kiev ne crie victoire",
-    "added_at": "2026-05-19T04:13:37.406Z"
+    "added_at": "2026-05-19T04:13:37.406Z",
+    "removed_at": "2026-05-19T04:28:12.160Z",
+    "duration_minutes": 14,
+    "duration_str": "14m"
+  },
+  {
+    "title": "monde:::Grâce aux drones et à Starlink, Kiev a enrayé l’avancée russe… sans pour autant crier victoire",
+    "added_at": "2026-05-19T04:28:12.160Z",
+    "removed_at": "2026-05-19T04:33:03.851Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "monde:::Grâce aux drones et à Starlink, Kiev a enrayé l’avancée russe... mais se garde bien de crier victoire",
+    "added_at": "2026-05-19T04:33:03.851Z"
+  },
+  {
+    "title": "cyber:::Giotto.ai, le décollage d’un acteur suisse de l’intelligence artificielle extrêmement ambitieux",
+    "added_at": "2026-05-19T04:57:01.073Z"
+  },
+  {
+    "title": "suisse:::Sur les pas de Nicolas Kolly à Bulle, où les grues remplacent les prés",
+    "added_at": "2026-05-19T06:18:33.936Z"
   }
 ]
