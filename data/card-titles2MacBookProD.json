@@ -79856,7 +79856,10 @@
   },
   {
     "title": "culture:::A Sierre avant Genève, un nouveau spectacle est annulé. Une épidémie en Suisse romande?",
-    "added_at": "2026-05-18T14:45:46.848Z"
+    "added_at": "2026-05-18T14:45:46.848Z",
+    "removed_at": "2026-05-19T03:16:05.707Z",
+    "duration_minutes": 750,
+    "duration_str": "12h 30m"
   },
   {
     "title": "culture:::Festival de Cannes: Adèle Exarchopoulos est «Garance» dans un petit traité d’alcoolisme pour les nuls",
@@ -79932,7 +79935,10 @@
   },
   {
     "title": "sciences:::La mission Smile de l’ESA veut filmer le bouclier magnétique de la Terre",
-    "added_at": "2026-05-18T18:48:50.703Z"
+    "added_at": "2026-05-18T18:48:50.703Z",
+    "removed_at": "2026-05-19T04:13:37.406Z",
+    "duration_minutes": 564,
+    "duration_str": "9h 24m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 7: le métier de regarder",
@@ -79944,7 +79950,10 @@
   },
   {
     "title": "cyber:::Elon Musk a perdu son retentissant procès contre OpenAI dirigé par son ennemi juré Sam Altman",
-    "added_at": "2026-05-18T19:08:04.137Z"
+    "added_at": "2026-05-18T19:08:04.137Z",
+    "removed_at": "2026-05-19T03:16:05.707Z",
+    "duration_minutes": 488,
+    "duration_str": "8h 8m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump dit avoir suspendu une attaque prévue mardi contre l'Iran",
@@ -79967,5 +79976,20 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump voit de «très bonnes chances» de parvenir à un accord avec l’Iran",
     "added_at": "2026-05-18T22:32:34.352Z"
+  },
+  {
+    "title": "sciences:::Face à la recrudescence des cas d'Ebola, les Etats-Unis instaurent des contrôles sanitaires aux frontières",
+    "added_at": "2026-05-19T03:16:05.707Z",
+    "removed_at": "2026-05-19T04:13:37.406Z",
+    "duration_minutes": 57,
+    "duration_str": "57m"
+  },
+  {
+    "title": "economie:::Le volume «dément» des transactions boursières de Donald Trump ravive les accusations de conflits d’intérêts",
+    "added_at": "2026-05-19T03:16:05.707Z"
+  },
+  {
+    "title": "monde:::L’Ukraine a interrompu l’avancée russe, mais personne à Kiev ne crie victoire",
+    "added_at": "2026-05-19T04:13:37.406Z"
   }
 ]

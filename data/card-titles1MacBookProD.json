@@ -81647,7 +81647,10 @@
   },
   {
     "title": "L'OMS déclare une urgence internationale pour l'épidémie d'Ebola qui frappe la RDC",
-    "added_at": "2026-05-17T03:56:36.027Z"
+    "added_at": "2026-05-17T03:56:36.027Z",
+    "removed_at": "2026-05-19T02:49:38.037Z",
+    "duration_minutes": 2813,
+    "duration_str": "1d 22h 53m"
   },
   {
     "title": "La Bulgarie enlève la 70e édition de l'Eurovision avec \"Bangaranga\", Israël termine 2e",
@@ -81708,7 +81711,10 @@
   },
   {
     "title": "Manifestations massives à Londres anti-immigration face à des antiracistes",
-    "added_at": "2026-05-17T08:02:26.226Z"
+    "added_at": "2026-05-17T08:02:26.226Z",
+    "removed_at": "2026-05-19T02:04:05.665Z",
+    "duration_minutes": 2521,
+    "duration_str": "1d 18h 1m"
   },
   {
     "title": "Comment des employeurs profitent du travail à temps partiel involontaire",
@@ -82195,5 +82201,13 @@
   {
     "title": "Elisabeth Baume-Schneider en ouverture de l'Assemblée annuelle de l'OMS",
     "added_at": "2026-05-18T22:22:57.275Z"
+  },
+  {
+    "title": "OMS: une assemblée générale pour revoir les fondations de l'agence onusienne",
+    "added_at": "2026-05-19T02:04:05.665Z"
+  },
+  {
+    "title": "Les Etats-Unis vont soumettre certains voyageurs à un dépistage d'Ebola",
+    "added_at": "2026-05-19T02:49:38.037Z"
   }
 ]
