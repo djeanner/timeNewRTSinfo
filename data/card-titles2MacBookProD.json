@@ -79007,7 +79007,10 @@
   },
   {
     "title": "monde:::A Kramatorsk, en pleine «kill zone», où les civils vivent la peur au ventre et les yeux rivés au ciel",
-    "added_at": "2026-05-15T04:25:52.253Z"
+    "added_at": "2026-05-15T04:25:52.253Z",
+    "removed_at": "2026-05-19T15:56:30.900Z",
+    "duration_minutes": 6450,
+    "duration_str": "4d 11h 30m"
   },
   {
     "title": "suisse:::Numérisation de la santé: Pierre Maudet plaide pour un «data lake» lémanique",
@@ -79288,7 +79291,10 @@
   },
   {
     "title": "monde:::Des vacances à la plage sinon rien: cette année aussi, les touristes russes comptent se rendre à la mer Noire, en dépit des marées noires et des attaques ukrainiennes",
-    "added_at": "2026-05-16T06:16:36.924Z"
+    "added_at": "2026-05-16T06:16:36.924Z",
+    "removed_at": "2026-05-19T15:56:30.900Z",
+    "duration_minutes": 4899,
+    "duration_str": "3d 9h 39m"
   },
   {
     "title": "monde:::Taïwan affirme être une nation «indépendante», après la mise en garde de Trump",
@@ -79977,9 +79983,9 @@
   {
     "title": "sciences:::Face aux menaces sanitaires, l’OMS réaffirme sa mission",
     "added_at": "2026-05-18T19:08:04.137Z",
-    "removed_at": "2026-05-19T11:45:33.864Z",
-    "duration_minutes": 997,
-    "duration_str": "16h 37m"
+    "removed_at": "2026-05-19T16:15:46.298Z",
+    "duration_minutes": 1267,
+    "duration_str": "21h 7m"
   },
   {
     "title": "cyber:::Elon Musk a perdu son retentissant procès contre OpenAI dirigé par son ennemi juré Sam Altman",
@@ -80004,7 +80010,10 @@
   },
   {
     "title": "sport:::L’équipe suisse de hockey impressionne en battant l’Allemagne 6 à 1, le public rêve déjà d’or",
-    "added_at": "2026-05-18T21:08:32.831Z"
+    "added_at": "2026-05-18T21:08:32.831Z",
+    "removed_at": "2026-05-19T16:51:55.411Z",
+    "duration_minutes": 1183,
+    "duration_str": "19h 43m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump voit de «très bonnes chances» de parvenir à un accord avec l’Iran",
@@ -80048,7 +80057,10 @@
   },
   {
     "title": "suisse:::Sur les pas de Nicolas Kolly à Bulle, où les grues remplacent les prés",
-    "added_at": "2026-05-19T06:18:33.936Z"
+    "added_at": "2026-05-19T06:18:33.936Z",
+    "removed_at": "2026-05-19T16:23:00.466Z",
+    "duration_minutes": 604,
+    "duration_str": "10h 4m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Russie annonce trois jours d'entraînement à l'arme nucléaire",
@@ -80077,11 +80089,17 @@
   },
   {
     "title": "suisse:::«On m’a donné les moyens de me battre, de retrouver goût à la vie»: à Lausanne, la Maison de la Femme célèbre 50 ans de dignité",
-    "added_at": "2026-05-19T09:47:52.818Z"
+    "added_at": "2026-05-19T09:47:52.818Z",
+    "removed_at": "2026-05-19T17:37:50.852Z",
+    "duration_minutes": 469,
+    "duration_str": "7h 49m"
   },
   {
     "title": "suisse:::La construction de l’A9 entre Sierre et Brigue aurait été surfacturée avec l’indulgence du Valais",
-    "added_at": "2026-05-19T09:50:13.398Z"
+    "added_at": "2026-05-19T09:50:13.398Z",
+    "removed_at": "2026-05-19T15:27:33.100Z",
+    "duration_minutes": 337,
+    "duration_str": "5h 37m"
   },
   {
     "title": "economie:::Martin Schmalz, professeur de finance à l’Université d’Oxford: «Le contrôle des auditeurs est défaillant»",
@@ -80093,7 +80111,10 @@
   },
   {
     "title": "sciences:::Antonio Delfino, l’Italo-Suisse qui envoie ses roues sur la Lune",
-    "added_at": "2026-05-19T11:45:33.864Z"
+    "added_at": "2026-05-19T11:45:33.864Z",
+    "removed_at": "2026-05-19T17:30:35.073Z",
+    "duration_minutes": 345,
+    "duration_str": "5h 45m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Des frappes russes font au moins quatre morts et une vingtaine de blessés",
@@ -80120,6 +80141,59 @@
   },
   {
     "title": "monde:::Le bras de fer continue entre les signataires de la tribune anti-Bolloré et Canal+, et la croisette ne s’amuse plus",
-    "added_at": "2026-05-19T14:31:57.185Z"
+    "added_at": "2026-05-19T14:31:57.185Z",
+    "removed_at": "2026-05-19T16:27:53.408Z",
+    "duration_minutes": 115,
+    "duration_str": "1h 55m"
+  },
+  {
+    "title": "monde:::Les députés français examinent (encore) une loi d'urgence sur l’agriculture, signe d'une crise sans fin",
+    "added_at": "2026-05-19T15:27:33.100Z",
+    "removed_at": "2026-05-19T16:13:25.285Z",
+    "duration_minutes": 45,
+    "duration_str": "45m"
+  },
+  {
+    "title": "monde:::«Ebola? Je n’en ai plus peur»: à Kinshasa, Jean-Jacques Muyembe, qui a identifié le virus, mène sa 17e bataille",
+    "added_at": "2026-05-19T15:56:30.900Z"
+  },
+  {
+    "title": "suisse:::«L’agriculture vaudoise ne peut plus avancer sans vision globale»: un rare consensus politique initié par le PS pousse le Conseil d’Etat à agir",
+    "added_at": "2026-05-19T16:01:18.058Z"
+  },
+  {
+    "title": "monde:::Les députés français examinent (encore) une loi d’urgence sur l’agriculture, signe d’une crise sans fin",
+    "added_at": "2026-05-19T16:13:25.285Z"
+  },
+  {
+    "title": "monde:::L’épidémie d’Ebola en RDC inquiète par son ampleur et sa rapidité",
+    "added_at": "2026-05-19T16:15:46.298Z"
+  },
+  {
+    "title": "suisse:::A Blatten, en Valais, un autre glacier est sous étroite surveillance",
+    "added_at": "2026-05-19T16:23:00.466Z"
+  },
+  {
+    "title": "monde:::Le bras de fer continue entre les signataires de la tribune anti-Bolloré et Canal+, et la Croisette ne s’amuse plus",
+    "added_at": "2026-05-19T16:27:53.408Z"
+  },
+  {
+    "title": "suisse:::«On veut la photo!»: les tensions autour de No-G7 à Genève se cristallisent autour du pont du Mont-Blanc",
+    "added_at": "2026-05-19T16:51:55.411Z",
+    "removed_at": "2026-05-19T17:28:07.660Z",
+    "duration_minutes": 36,
+    "duration_str": "36m"
+  },
+  {
+    "title": "suisse:::«On veut la photo sur le pont!»: les tensions autour de No-G7 à Genève se cristallisent autour du trajet de la manifestation",
+    "added_at": "2026-05-19T17:28:07.660Z"
+  },
+  {
+    "title": "suisse:::Le CERN ouvre la concertation publique autour de son projet d’accélérateur géant, sans grand espoir de convaincre les opposants",
+    "added_at": "2026-05-19T17:30:35.073Z"
+  },
+  {
+    "title": "monde:::Malgré la guerre impitoyable de Trump contre la Cour pénale internationale, un Suisse est candidat à un poste de juge",
+    "added_at": "2026-05-19T17:37:50.852Z"
   }
 ]
