@@ -79084,7 +79084,10 @@
   },
   {
     "title": "suisse:::L'initiative «Pas de Suisse à 10 millions» fait flamber les dépenses de campagne",
-    "added_at": "2026-05-15T08:56:27.121Z"
+    "added_at": "2026-05-15T08:56:27.121Z",
+    "removed_at": "2026-05-20T12:48:15.488Z",
+    "duration_minutes": 7431,
+    "duration_str": "5d 3h 51m"
   },
   {
     "title": "culture:::Netflix, «addictive»? L’idée la plus idiote de la semaine",
@@ -80157,7 +80160,10 @@
   },
   {
     "title": "culture:::La franchise Star Wars revient avec «Le Mandalorien et Grogu», une réussite inattendue",
-    "added_at": "2026-05-19T13:21:59.974Z"
+    "added_at": "2026-05-19T13:21:59.974Z",
+    "removed_at": "2026-05-20T12:48:15.488Z",
+    "duration_minutes": 1406,
+    "duration_str": "23h 26m"
   },
   {
     "title": "suisse:::Guy Parmelin en Allemagne: «Il est dans l’intérêt de nos deux pays d’avoir des droits de douane aussi bas que possible»",
@@ -80203,7 +80209,10 @@
   },
   {
     "title": "monde:::L’épidémie d’Ebola en RDC inquiète par son ampleur et sa rapidité",
-    "added_at": "2026-05-19T16:15:46.298Z"
+    "added_at": "2026-05-19T16:15:46.298Z",
+    "removed_at": "2026-05-20T12:48:15.488Z",
+    "duration_minutes": 1232,
+    "duration_str": "20h 32m"
   },
   {
     "title": "suisse:::A Blatten, en Valais, un autre glacier est sous étroite surveillance",
@@ -80228,10 +80237,7 @@
   },
   {
     "title": "suisse:::«On veut la photo sur le pont!»: les tensions autour de No-G7 à Genève se cristallisent autour du trajet de la manifestation",
-    "added_at": "2026-05-19T17:28:07.660Z",
-    "removed_at": "2026-05-20T05:07:44.587Z",
-    "duration_minutes": 699,
-    "duration_str": "11h 39m"
+    "added_at": "2026-05-19T17:28:07.660Z"
   },
   {
     "title": "suisse:::Le CERN ouvre la concertation publique autour de son projet d’accélérateur géant, sans grand espoir de convaincre les opposants",
@@ -80274,7 +80280,10 @@
   },
   {
     "title": "economie:::A Stahl Gerlafingen, cette aciérie qui refuse de plier face à l’adversité",
-    "added_at": "2026-05-19T20:07:51.490Z"
+    "added_at": "2026-05-19T20:07:51.490Z",
+    "removed_at": "2026-05-20T13:05:09.801Z",
+    "duration_minutes": 1017,
+    "duration_str": "16h 57m"
   },
   {
     "title": "culture:::En grande partie inédite en français, la correspondance entre la romancière Virginia Woolf et sa sœur, la peintre Vanessa Bell, paraît à La Table Ronde",
@@ -80367,7 +80376,10 @@
   },
   {
     "title": "suisse:::Médias exclus, tensions, nouveau président, soutien à Valérie Dittli: l’assemblée générale du Centre Vaud a tenu toutes ses promesses",
-    "added_at": "2026-05-20T07:34:47.025Z"
+    "added_at": "2026-05-20T07:34:47.025Z",
+    "removed_at": "2026-05-20T14:53:32.741Z",
+    "duration_minutes": 438,
+    "duration_str": "7h 18m"
   },
   {
     "title": "culture:::Festival de Cannes: «Hope», une épopée de science-fiction épique et virtuose venue de Corée",
@@ -80382,15 +80394,24 @@
   },
   {
     "title": "suisse:::La Suisse reste l’un des pires élèves d’Europe en matière de lutte contre le tabagisme, selon le Tobacco Control Scale",
-    "added_at": "2026-05-20T08:39:45.432Z"
+    "added_at": "2026-05-20T08:39:45.432Z",
+    "removed_at": "2026-05-20T12:36:14.932Z",
+    "duration_minutes": 236,
+    "duration_str": "3h 56m"
   },
   {
     "title": "sport:::De la finale de la Ligue Europa à la Coupe du monde, Johan Manzambi ne veut plus s’arrêter",
-    "added_at": "2026-05-20T09:01:25.643Z"
+    "added_at": "2026-05-20T09:01:25.643Z",
+    "removed_at": "2026-05-20T13:14:44.035Z",
+    "duration_minutes": 253,
+    "duration_str": "4h 13m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L'Iran promet une guerre bien «au-delà de la région» en cas d'attaque américaine",
-    "added_at": "2026-05-20T09:23:07.334Z"
+    "added_at": "2026-05-20T09:23:07.334Z",
+    "removed_at": "2026-05-20T14:31:50.081Z",
+    "duration_minutes": 308,
+    "duration_str": "5h 8m"
   },
   {
     "title": "cyber:::Google, Microsoft, Meta, Amazon: sous la mer d’Ormuz, l’Iran contrôle l’économie mondiale",
@@ -80424,10 +80445,55 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Chine est accusée de former secrètement des soldats russes",
-    "added_at": "2026-05-20T11:18:59.857Z"
+    "added_at": "2026-05-20T11:18:59.857Z",
+    "removed_at": "2026-05-20T14:55:59.904Z",
+    "duration_minutes": 217,
+    "duration_str": "3h 37m"
   },
   {
     "title": "sport:::Murat Yakin défend sa liste des 26 pour la Coupe du monde, qui a sa propre cohérence",
     "added_at": "2026-05-20T11:23:46.226Z"
+  },
+  {
+    "title": "monde:::«L’épidémie continue de se propager»: selon l’OMS, il devient urgent briser les chaînes de transmission d’Ebola en Afrique",
+    "added_at": "2026-05-20T12:36:14.932Z",
+    "removed_at": "2026-05-20T12:48:15.488Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "suisse:::Pris entre deux feux, le Conseil d’Etat genevois autorise (avec un gros bémol) la manifestation de No-G7",
+    "added_at": "2026-05-20T12:48:15.488Z"
+  },
+  {
+    "title": "monde:::«L’épidémie continue de se propager»: selon l’OMS, il devient urgent de briser les chaînes de transmission d’Ebola en Afrique",
+    "added_at": "2026-05-20T12:48:15.488Z"
+  },
+  {
+    "title": "monde:::Karl Blanchet: «Pour sortir du rationnement de l’aide humanitaire, il faut que les populations aient leur mot à dire»",
+    "added_at": "2026-05-20T13:05:09.801Z"
+  },
+  {
+    "title": "culture:::Festival de Cannes: «L’Inconnue», un pensum auteuriste avec Léa Seydoux au cœur d’un échange de corps",
+    "added_at": "2026-05-20T13:14:44.035Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Tollé après la publication par le ministre israélien Itamar Ben-Gvir d'une vidéo des activistes de la flotille pour Gaza maltraités",
+    "added_at": "2026-05-20T14:31:50.081Z"
+  },
+  {
+    "title": "economie:::En se cotant à la Bourse de Zurich, la multinationale DSM-Firmenich retrouve son éternel rival Givaudan",
+    "added_at": "2026-05-20T14:53:32.741Z",
+    "removed_at": "2026-05-20T15:10:29.504Z",
+    "duration_minutes": 16,
+    "duration_str": "16m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Le premier ministre britannique est très critiqué pour avoir assoupli les sanctions contre la Russie",
+    "added_at": "2026-05-20T14:55:59.904Z"
+  },
+  {
+    "title": "economie:::En se cotant à la bourse de Zurich, la multinationale DSM-Firmenich retrouve son éternel rival Givaudan",
+    "added_at": "2026-05-20T15:10:29.504Z"
   }
 ]
