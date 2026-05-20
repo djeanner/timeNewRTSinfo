@@ -81771,7 +81771,10 @@
   },
   {
     "title": "Critiques de tous les films en compétition à Cannes",
-    "added_at": "2026-05-17T08:38:34.816Z"
+    "added_at": "2026-05-17T08:38:34.816Z",
+    "removed_at": "2026-05-20T21:09:48.778Z",
+    "duration_minutes": 5071,
+    "duration_str": "3d 12h 31m"
   },
   {
     "title": "La grande parade de la Fête fédérale de musique de Bienne à suivre en direct",
@@ -82366,7 +82369,10 @@
   },
   {
     "title": "Nick Hayek: \"C'était quand la dernière fois que les gens se sont battus pour un produit suisse? Soyons heureux\"",
-    "added_at": "2026-05-18T20:10:42.943Z"
+    "added_at": "2026-05-18T20:10:42.943Z",
+    "removed_at": "2026-05-20T21:04:56.844Z",
+    "duration_minutes": 2934,
+    "duration_str": "2d 54m"
   },
   {
     "title": "L'armée suisse présente ses drones de reconnaissance et d'attaque",
@@ -82526,14 +82532,17 @@
   },
   {
     "title": "Des éléments du plan catastrophe du CHUV épinglés par des députés vaudois",
-    "added_at": "2026-05-19T09:45:26.085Z"
+    "added_at": "2026-05-19T09:45:26.085Z",
+    "removed_at": "2026-05-20T20:55:24.589Z",
+    "duration_minutes": 2109,
+    "duration_str": "1d 11h 9m"
   },
   {
     "title": "Barbara Hendricks: \"J'ai eu un parcours extraordinaire, grâce à Claude Nobs\"",
     "added_at": "2026-05-19T10:04:38.307Z",
-    "removed_at": "2026-05-20T16:30:13.276Z",
-    "duration_minutes": 1825,
-    "duration_str": "1d 6h 25m"
+    "removed_at": "2026-05-20T22:16:56.908Z",
+    "duration_minutes": 2172,
+    "duration_str": "1d 12h 12m"
   },
   {
     "title": "Neuf blessés et deux disparus dans l'effondrement d'un immeuble en flammes à Saint-Gall",
@@ -83042,5 +83051,13 @@
   {
     "title": "Les Etats-Unis inculpent Raul Castro, augmentant leur pression sur Cuba",
     "added_at": "2026-05-20T20:09:32.305Z"
+  },
+  {
+    "title": "Le tourisme valaisan signe une forte année 2025 malgré des défis persistants",
+    "added_at": "2026-05-20T20:55:24.589Z"
+  },
+  {
+    "title": "\"Les Etats-Unis doivent remettre leur empreinte sur le Groenland\", affirme l’émissaire américain Jeff Landry",
+    "added_at": "2026-05-20T21:09:48.778Z"
   }
 ]

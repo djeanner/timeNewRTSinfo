@@ -80386,10 +80386,7 @@
   },
   {
     "title": "culture:::Festival de Cannes: «Hope», une épopée de science-fiction épique et virtuose venue de Corée",
-    "added_at": "2026-05-20T08:01:15.192Z",
-    "removed_at": "2026-05-20T18:28:40.006Z",
-    "duration_minutes": 627,
-    "duration_str": "10h 27m"
+    "added_at": "2026-05-20T08:01:15.192Z"
   },
   {
     "title": "economie:::PME: les bonnes pratiques pour une fixation des prix juste et cohérente",
@@ -80542,7 +80539,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Militants de la flottille pour Gaza maltraités: les pays européens condamnent, Berne rappelle qu'ils devront avancer les frais de leur protection consulaire",
-    "added_at": "2026-05-20T15:56:28.815Z"
+    "added_at": "2026-05-20T15:56:28.815Z",
+    "removed_at": "2026-05-20T22:09:45.740Z",
+    "duration_minutes": 373,
+    "duration_str": "6h 13m"
   },
   {
     "title": "monde:::Entre Pékin et Moscou, l’amitié indéfectible passe après les intérêts chinois",
@@ -80604,5 +80604,9 @@
   {
     "title": "sciences:::Un essai clinique a été soumis par l’OMS à la RDC et à l’Ouganda pour tester deux traitements contre Ebola",
     "added_at": "2026-05-20T19:57:34.026Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’Iran examine une nouvelle proposition de paix américaine",
+    "added_at": "2026-05-20T22:09:45.740Z"
   }
 ]
