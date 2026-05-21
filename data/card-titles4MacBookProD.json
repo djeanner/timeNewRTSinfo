@@ -210595,7 +210595,10 @@
   },
   {
     "title": "This extraordinary monkey was thought to be extinct. In one forest, it’s bouncing back",
-    "added_at": "2026-05-19T05:01:52.688Z"
+    "added_at": "2026-05-19T05:01:52.688Z",
+    "removed_at": "2026-05-21T21:04:32.197Z",
+    "duration_minutes": 3842,
+    "duration_str": "2d 16h 2m"
   },
   {
     "title": "New report finds only 20% of tested sunscreens are safe and effective",
@@ -212094,7 +212097,10 @@
   },
   {
     "title": "SpaceX files for long-awaited public stock offering that could make Elon Musk a trillionaire",
-    "added_at": "2026-05-20T21:50:35.110Z"
+    "added_at": "2026-05-20T21:50:35.110Z",
+    "removed_at": "2026-05-21T20:52:29.237Z",
+    "duration_minutes": 1381,
+    "duration_str": "23h 1m"
   },
   {
     "title": "Vance and Rubio laid out competing visions for America’s future. The striking part is what they didn’t do",
@@ -212130,7 +212136,10 @@
   },
   {
     "title": "Meta lays off or reassigns almost 15,000 employees",
-    "added_at": "2026-05-20T22:45:46.401Z"
+    "added_at": "2026-05-20T22:45:46.401Z",
+    "removed_at": "2026-05-21T23:11:44.551Z",
+    "duration_minutes": 1465,
+    "duration_str": "1d 25m"
   },
   {
     "title": "Food preservatives thought of as ‘natural’ linked to high blood pressure and heart disease",
@@ -212298,7 +212307,10 @@
   },
   {
     "title": "US doctor who narrowly survived Ebola talks new deadly outbreak",
-    "added_at": "2026-05-21T04:45:44.586Z"
+    "added_at": "2026-05-21T04:45:44.586Z",
+    "removed_at": "2026-05-21T21:18:55.746Z",
+    "duration_minutes": 993,
+    "duration_str": "16h 33m"
   },
   {
     "title": "The Trump ‘Anti-Weaponization Fund’ documents, annotated",
@@ -212323,7 +212335,10 @@
   },
   {
     "title": "House Republican vows to fight Trump’s $1.8B fund",
-    "added_at": "2026-05-21T08:00:15.992Z"
+    "added_at": "2026-05-21T08:00:15.992Z",
+    "removed_at": "2026-05-21T21:23:41.073Z",
+    "duration_minutes": 803,
+    "duration_str": "13h 23m"
   },
   {
     "title": "Drone production has restarted and Iran remains a threat to US allies in the region, according to US intelligence",
@@ -212338,7 +212353,10 @@
   },
   {
     "title": "Modi and Meloni go viral with toffee video",
-    "added_at": "2026-05-21T08:28:57.535Z"
+    "added_at": "2026-05-21T08:28:57.535Z",
+    "removed_at": "2026-05-21T23:06:56.062Z",
+    "duration_minutes": 877,
+    "duration_str": "14h 37m"
   },
   {
     "title": "Trump says he’s willing to talk to Taiwan’s leader, a major departure from diplomatic norms",
@@ -212414,7 +212432,10 @@
   },
   {
     "title": "US citizen who had contact with Ebola admitted to hospital",
-    "added_at": "2026-05-21T10:17:03.900Z"
+    "added_at": "2026-05-21T10:17:03.900Z",
+    "removed_at": "2026-05-21T23:06:56.062Z",
+    "duration_minutes": 769,
+    "duration_str": "12h 49m"
   },
   {
     "title": "The irony of Bella Hadid’s Jane Birkin tribute",
@@ -212447,7 +212468,10 @@
   },
   {
     "title": "The most powerful rocket ever built is now even bigger and more powerful. But will it work?",
-    "added_at": "2026-05-21T11:12:13.661Z"
+    "added_at": "2026-05-21T11:12:13.661Z",
+    "removed_at": "2026-05-21T20:52:29.237Z",
+    "duration_minutes": 580,
+    "duration_str": "9h 40m"
   },
   {
     "title": "Extreme weather is a menace to homes. Here’s how you can protect your investment",
@@ -212667,5 +212691,52 @@
   {
     "title": "Locals set fire to DRC hospital treating Ebola patients",
     "added_at": "2026-05-21T20:45:06.888Z"
+  },
+  {
+    "title": "SpaceX set to launch amped-up Starship V3 on inaugural test flight",
+    "added_at": "2026-05-21T20:52:29.237Z"
+  },
+  {
+    "title": "Thank El Niño for NOAA’s latest forecast for Atlantic hurricane season",
+    "added_at": "2026-05-21T20:52:29.237Z"
+  },
+  {
+    "title": "Noah Wyle from ‘The Pitt’ visits Capitol Hill with healthcare workers",
+    "added_at": "2026-05-21T21:18:55.746Z"
+  },
+  {
+    "title": "Is the US headed for a quagmire with Iran?",
+    "added_at": "2026-05-21T21:23:41.073Z"
+  },
+  {
+    "title": "US Republican leaders abruptly cancel House vote on Iran war powers, shielding Trump from rebuke",
+    "added_at": "2026-05-21T22:54:56.889Z"
+  },
+  {
+    "title": "Watch the SpaceX rocket launch",
+    "added_at": "2026-05-21T22:57:17.593Z",
+    "removed_at": "2026-05-21T23:09:23.060Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "Nearly 1.2 billion people worldwide are living with mental disorders. The number has been growing",
+    "added_at": "2026-05-21T22:57:17.593Z"
+  },
+  {
+    "title": "Epstein’s longtime assistant accused three previously unknown abusers connected to him, Oversight chair says",
+    "added_at": "2026-05-21T22:57:17.593Z"
+  },
+  {
+    "title": "Jeffrey Epstein’s assistant describes abuse in graphic detail",
+    "added_at": "2026-05-21T23:06:56.062Z"
+  },
+  {
+    "title": "AOC presses EPA official on water contamination near data center",
+    "added_at": "2026-05-21T23:06:56.062Z"
+  },
+  {
+    "title": "Watch the SpaceX launch",
+    "added_at": "2026-05-21T23:09:23.060Z"
   }
 ]
