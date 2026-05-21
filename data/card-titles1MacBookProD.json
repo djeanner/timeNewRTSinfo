@@ -81578,10 +81578,7 @@
   },
   {
     "title": "Hôpital universitaire de Zurich: l'ex-chef de la chirurgie cardiaque se défend",
-    "added_at": "2026-05-16T20:16:09.216Z",
-    "removed_at": "2026-05-20T07:03:14.326Z",
-    "duration_minutes": 4967,
-    "duration_str": "3d 10h 47m"
+    "added_at": "2026-05-16T20:16:09.216Z"
   },
   {
     "title": "La Suisse domine la Lettonie et signe une 2e victoire en 2 matches",
@@ -82441,7 +82438,10 @@
   },
   {
     "title": "OMS: une assemblée générale pour revoir les fondations de l'agence onusienne",
-    "added_at": "2026-05-19T02:04:05.665Z"
+    "added_at": "2026-05-19T02:04:05.665Z",
+    "removed_at": "2026-05-21T17:03:52.524Z",
+    "duration_minutes": 3779,
+    "duration_str": "2d 14h 59m"
   },
   {
     "title": "Les Etats-Unis vont soumettre certains voyageurs à un dépistage d'Ebola",
@@ -82942,7 +82942,10 @@
   },
   {
     "title": "Xi Jinping et Vladimir Poutine affichent leur entente \"inébranlable\" à Pékin",
-    "added_at": "2026-05-20T07:00:49.253Z"
+    "added_at": "2026-05-20T07:00:49.253Z",
+    "removed_at": "2026-05-21T15:42:14.724Z",
+    "duration_minutes": 1961,
+    "duration_str": "1d 8h 41m"
   },
   {
     "title": "Initiative pour inscrire la pollinisation dans la Constitution lancée à Berne",
@@ -82989,7 +82992,10 @@
   },
   {
     "title": "Combien coûte le Mondial de hockey sur glace en Suisse – et que rapporte-t-il?",
-    "added_at": "2026-05-20T08:34:56.846Z"
+    "added_at": "2026-05-20T08:34:56.846Z",
+    "removed_at": "2026-05-21T17:54:21.169Z",
+    "duration_minutes": 1999,
+    "duration_str": "1d 9h 19m"
   },
   {
     "title": "Mauro Poggia sur le service civil: \"Il faut remettre le curseur là où il doit être\"",
@@ -83000,7 +83006,10 @@
   },
   {
     "title": "Les corps des deux derniers plongeurs italiens ont été remontés aux Maldives",
-    "added_at": "2026-05-20T08:54:13.313Z"
+    "added_at": "2026-05-20T08:54:13.313Z",
+    "removed_at": "2026-05-21T15:35:01.677Z",
+    "duration_minutes": 1840,
+    "duration_str": "1d 6h 40m"
   },
   {
     "title": "Le sexe des arbres aggrave-t-il vraiment nos allergies au pollen?",
@@ -83031,7 +83040,10 @@
   },
   {
     "title": "Les secours valaisans honorés par un prix international pour leur intervention à Crans-Montana",
-    "added_at": "2026-05-20T11:02:07.311Z"
+    "added_at": "2026-05-20T11:02:07.311Z",
+    "removed_at": "2026-05-21T16:08:38.068Z",
+    "duration_minutes": 1746,
+    "duration_str": "1d 5h 6m"
   },
   {
     "title": "Charlotte Onfroy-Barrier: en Suisse, les pots de lait infantile aussi bloqués",
@@ -83354,7 +83366,10 @@
   },
   {
     "title": "Le trafic est interrompu sur la ligne Genève-Lausanne après un accident de personne",
-    "added_at": "2026-05-21T14:44:13.474Z"
+    "added_at": "2026-05-21T14:44:13.474Z",
+    "removed_at": "2026-05-21T16:11:05.059Z",
+    "duration_minutes": 86,
+    "duration_str": "1h 26m"
   },
   {
     "title": "Air France et Airbus reconnus coupables dans le crash du Rio-Paris de 2009",
@@ -83382,5 +83397,67 @@
   {
     "title": "Podcast - D'où viennent nos fantasmes et à quoi servent-ils vraiment?",
     "added_at": "2026-05-21T15:08:11.942Z"
+  },
+  {
+    "title": "L’AVS finit 2025 dans le vert alors que l’AI reste déficitaire",
+    "added_at": "2026-05-21T15:35:01.677Z",
+    "removed_at": "2026-05-21T15:56:39.373Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
+  },
+  {
+    "title": "Des premiers militants de la flottille pour Gaza libérés après l'indignation suscitée par leur traitement",
+    "added_at": "2026-05-21T15:42:14.724Z",
+    "removed_at": "2026-05-21T15:54:12.438Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "Tous les militants de la flottille pour Gaza ont été libérés après l'indignation suscitée par leur traitement",
+    "added_at": "2026-05-21T15:54:12.438Z"
+  },
+  {
+    "title": "L'AVS finit 2025 dans le vert alors que l'AI reste déficitaire",
+    "added_at": "2026-05-21T15:56:39.373Z"
+  },
+  {
+    "title": "Un octogénaire vaudois reconnu coupable d'homicide par négligence lors d'une chasse aux sangliers",
+    "added_at": "2026-05-21T16:08:38.068Z",
+    "removed_at": "2026-05-21T16:13:26.199Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Reprise partiel du trafic sur la ligne Genève-Lausanne après un accident de personne",
+    "added_at": "2026-05-21T16:11:05.059Z",
+    "removed_at": "2026-05-21T16:15:51.373Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Un octogénaire vaudois coupable d'homicide par négligence lors d'une chasse aux sangliers",
+    "added_at": "2026-05-21T16:13:26.199Z",
+    "removed_at": "2026-05-21T16:23:04.082Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Reprise partielle du trafic sur la ligne Genève-Lausanne après un accident de personne",
+    "added_at": "2026-05-21T16:15:51.373Z"
+  },
+  {
+    "title": "Un octogénaire vaudois reconnu coupable d'homicide par négligence après un accident de chasse",
+    "added_at": "2026-05-21T16:23:04.082Z"
+  },
+  {
+    "title": "La coalition NoG7 rejette la proposition de manifestation encadrée du Conseil d'Etat",
+    "added_at": "2026-05-21T16:39:51.212Z",
+    "removed_at": "2026-05-21T16:47:03.309Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Il a fait rire des millions d'Américains, mais pas Trump: The Late Show de Stephen Colbert s'arrête",
+    "added_at": "2026-05-21T17:54:21.169Z"
   }
 ]
