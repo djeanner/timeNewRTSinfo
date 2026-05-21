@@ -82083,7 +82083,10 @@
   },
   {
     "title": "Lieutenant-colonel Cédric Aufranc: \"On est bien dans le timing\" pour les F-35",
-    "added_at": "2026-05-18T10:37:47.534Z"
+    "added_at": "2026-05-18T10:37:47.534Z",
+    "removed_at": "2026-05-21T06:04:50.112Z",
+    "duration_minutes": 4047,
+    "duration_str": "2d 19h 27m"
   },
   {
     "title": "A Moudon, deux musées s'intéressent à l'histoire de la flemme",
@@ -82351,7 +82354,10 @@
   },
   {
     "title": "Comme un lundi - Les assessments, vraiment pertinents?",
-    "added_at": "2026-05-18T19:24:58.214Z"
+    "added_at": "2026-05-18T19:24:58.214Z",
+    "removed_at": "2026-05-21T07:16:47.669Z",
+    "duration_minutes": 3591,
+    "duration_str": "2d 11h 51m"
   },
   {
     "title": "Nick Hayek: \"Quelle était la dernière fois que les gens se battaient pour un produit suisse? Soyons heureux\"",
@@ -82422,7 +82428,10 @@
   },
   {
     "title": "Elisabeth Baume-Schneider en ouverture de l'Assemblée annuelle de l'OMS",
-    "added_at": "2026-05-18T22:22:57.275Z"
+    "added_at": "2026-05-18T22:22:57.275Z",
+    "removed_at": "2026-05-21T06:04:50.112Z",
+    "duration_minutes": 3341,
+    "duration_str": "2d 7h 41m"
   },
   {
     "title": "OMS: une assemblée générale pour revoir les fondations de l'agence onusienne",
@@ -82458,7 +82467,10 @@
   },
   {
     "title": "Nestlé et Danone ont retiré discrètement des laits pour bébé contaminés à la céréulide",
-    "added_at": "2026-05-19T05:49:49.982Z"
+    "added_at": "2026-05-19T05:49:49.982Z",
+    "removed_at": "2026-05-21T05:09:42.022Z",
+    "duration_minutes": 2839,
+    "duration_str": "1d 23h 19m"
   },
   {
     "title": "\"Tout ce que je veux, c'est partir\", témoigne un jeune homosexuel sénégalais vivant dans la peur",
@@ -82635,7 +82647,10 @@
   },
   {
     "title": "Skyguide veut supprimer jusqu'à 220 postes d'ici à la fin 2027",
-    "added_at": "2026-05-19T13:14:47.819Z"
+    "added_at": "2026-05-19T13:14:47.819Z",
+    "removed_at": "2026-05-21T07:07:08.855Z",
+    "duration_minutes": 2512,
+    "duration_str": "1d 17h 52m"
   },
   {
     "title": "Dans 'Hapax', Samuel Poisson-Quinton relève le défi de n'employer chaque mot qu'une seule fois",
@@ -82942,10 +82957,7 @@
   },
   {
     "title": "Charlotte Onfroy-Barrier: en Suisse, les pots de lait infantile aussi bloqués",
-    "added_at": "2026-05-20T11:16:32.777Z",
-    "removed_at": "2026-05-20T12:02:15.200Z",
-    "duration_minutes": 45,
-    "duration_str": "45m"
+    "added_at": "2026-05-20T11:16:32.777Z"
   },
   {
     "title": "Le Conseil d'Etat genevois autorise une manifestation dans le cadre du G7 à Evian",
@@ -83070,7 +83082,10 @@
   },
   {
     "title": "\"Les Etats-Unis doivent remettre leur empreinte sur le Groenland\", affirme l’émissaire américain Jeff Landry",
-    "added_at": "2026-05-20T21:09:48.778Z"
+    "added_at": "2026-05-20T21:09:48.778Z",
+    "removed_at": "2026-05-21T05:48:03.499Z",
+    "duration_minutes": 518,
+    "duration_str": "8h 38m"
   },
   {
     "title": "SpaceX annonce officiellement son entrée en bourse et pourrait pulvériser un record",
@@ -83081,7 +83096,10 @@
   },
   {
     "title": "Le fonds d'indemnisation voulu par Donald Trump, d'ores et déjà attaqué en justice",
-    "added_at": "2026-05-21T02:45:48.393Z"
+    "added_at": "2026-05-21T02:45:48.393Z",
+    "removed_at": "2026-05-21T05:48:03.499Z",
+    "duration_minutes": 182,
+    "duration_str": "3h 2m"
   },
   {
     "title": "Meta se sépare de 10% de ses effectifs et s'apprête à investir massivement dans l'IA",
@@ -83098,5 +83116,25 @@
   {
     "title": "SpaceX annonce officiellement son entrée en Bourse et pourrait pulvériser un record",
     "added_at": "2026-05-21T04:31:10.926Z"
+  },
+  {
+    "title": "Aston Villa étrille Freiburg et remporte l'Europa League pour la première fois de son histoire",
+    "added_at": "2026-05-21T05:09:42.022Z"
+  },
+  {
+    "title": "Le fonds contre \"l'instrumentalisation\" de la justice voulu par Donald Trump contesté par une plainte",
+    "added_at": "2026-05-21T05:48:03.499Z"
+  },
+  {
+    "title": "\"Les Etats-Unis doivent remettre leur empreinte sur le Groenland\", affirme l’émissaire américain",
+    "added_at": "2026-05-21T05:48:03.499Z"
+  },
+  {
+    "title": "Tollé après les images de militants de la flottille pour Gaza humiliés par un ministre israélien",
+    "added_at": "2026-05-21T07:07:08.855Z"
+  },
+  {
+    "title": "Pourquoi la montre Swatch Audemars Piguet provoque-t-elle une telle folie commerciale? Interview de Fanny Parise",
+    "added_at": "2026-05-21T07:16:47.669Z"
   }
 ]
