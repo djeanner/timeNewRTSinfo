@@ -8226,10 +8226,7 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z",
-    "removed_at": "2026-05-15T08:08:12.933Z",
-    "duration_minutes": 514926,
-    "duration_str": "357d 14h 6m"
+    "added_at": "2025-05-22T18:01:52.008Z"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -80659,15 +80656,24 @@
   },
   {
     "title": "monde:::Les Etats-Unis inculpent Raúl Castro, une «escalade extraordinaire» de la pression américaine sur Cuba",
-    "added_at": "2026-05-21T03:26:32.373Z"
+    "added_at": "2026-05-21T03:26:32.373Z",
+    "removed_at": "2026-05-21T14:08:11.906Z",
+    "duration_minutes": 641,
+    "duration_str": "10h 41m"
   },
   {
     "title": "economie:::L’inflation commence à hanter les entreprises suisses",
-    "added_at": "2026-05-21T04:16:47.580Z"
+    "added_at": "2026-05-21T04:16:47.580Z",
+    "removed_at": "2026-05-21T14:22:36.717Z",
+    "duration_minutes": 605,
+    "duration_str": "10h 5m"
   },
   {
     "title": "economie:::De Nestlé à Lindt, toutes les entreprises jouent à l’élastique avec les prix. Au risque de fâcher parfois leurs clients",
-    "added_at": "2026-05-21T04:16:47.580Z"
+    "added_at": "2026-05-21T04:16:47.580Z",
+    "removed_at": "2026-05-21T15:15:24.808Z",
+    "duration_minutes": 658,
+    "duration_str": "10h 58m"
   },
   {
     "title": "economie:::La guerre en Iran, un test de crédibilité pour les banques centrales",
@@ -80700,7 +80706,10 @@
   },
   {
     "title": "sport:::La Grande-Bretagne, gloire oubliée du hockey sur glace",
-    "added_at": "2026-05-21T05:55:14.256Z"
+    "added_at": "2026-05-21T05:55:14.256Z",
+    "removed_at": "2026-05-21T13:01:06.079Z",
+    "duration_minutes": 425,
+    "duration_str": "7h 5m"
   },
   {
     "title": "monde:::En diffusant une vidéo humiliante de militants de la flottille pour Gaza, le ministre israélien Itamar Ben-Gvir expose sans fard sa politique de mauvais traitements des détenus",
@@ -80708,7 +80717,10 @@
   },
   {
     "title": "culture:::Festival de Cannes: dans «Minotaure», un mari trompé devient assassin tandis que les Russes partent au front",
-    "added_at": "2026-05-21T06:59:56.891Z"
+    "added_at": "2026-05-21T06:59:56.891Z",
+    "removed_at": "2026-05-21T13:17:50.999Z",
+    "duration_minutes": 377,
+    "duration_str": "6h 17m"
   },
   {
     "title": "monde:::Peu de bébés, donc peu de soldats: l’avenir de Taïwan fragilisé aussi par une natalité en chute libre",
@@ -80731,7 +80743,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël s’apprête à expulser les militants étrangers de la flottille pour Gaza",
-    "added_at": "2026-05-21T10:02:38.862Z"
+    "added_at": "2026-05-21T10:02:38.862Z",
+    "removed_at": "2026-05-21T13:20:15.341Z",
+    "duration_minutes": 197,
+    "duration_str": "3h 17m"
   },
   {
     "title": "monde:::Les Européens parqueront toujours plus de migrants déboutés dans des centres hors des frontières de l'UE",
@@ -80755,5 +80770,43 @@
   {
     "title": "monde:::Les Européens parqueront toujours plus de migrants déboutés dans des centres hors des frontières de l’UE",
     "added_at": "2026-05-21T11:48:14.028Z"
+  },
+  {
+    "title": "culture:::Yvo Muller, un réalisateur franco-suisse venu à Cannes présenter un film de résistance et de lutte sur «le procès de Bobigny»",
+    "added_at": "2026-05-21T13:01:06.079Z"
+  },
+  {
+    "title": "culture:::Festival de Cannes: «Fjord», la loi norvégienne de protection à l’enfance à l’épreuve du conservatisme religieux",
+    "added_at": "2026-05-21T13:17:50.999Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Israël dit avoir expulsé tous les militants de la flottille pour Gaza",
+    "added_at": "2026-05-21T13:20:15.341Z",
+    "removed_at": "2026-05-21T14:41:47.538Z",
+    "duration_minutes": 81,
+    "duration_str": "1h 21m"
+  },
+  {
+    "title": "monde:::17 ans après le crash du vol Rio-Paris, Airbus et Air France sont condamnés en appel pour homicides involontaires",
+    "added_at": "2026-05-21T14:08:11.906Z",
+    "removed_at": "2026-05-21T15:20:16.169Z",
+    "duration_minutes": 72,
+    "duration_str": "1h 12m"
+  },
+  {
+    "title": "economie:::«Il faut arrêter le Cremo-bashing»: englué dans les chiffres rouges, le groupe fribourgeois veut croire à son redressement",
+    "added_at": "2026-05-21T14:22:36.717Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Si le détroit d'Ormuz reste fermé, le marché pétrolier entrera «dans une zone rouge» cet été",
+    "added_at": "2026-05-21T14:41:47.538Z"
+  },
+  {
+    "title": "culture:::La polémique Canal+, quand l’audiovisuel français se déchire comme le reste du pays",
+    "added_at": "2026-05-21T14:48:59.315Z"
+  },
+  {
+    "title": "suisse:::Un accident de personne perturbe le trafic ferroviaire entre Genève et Coppet",
+    "added_at": "2026-05-21T15:20:16.169Z"
   }
 ]
