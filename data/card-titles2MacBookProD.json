@@ -80753,7 +80753,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L’Ukraine renforce la sécurité à sa frontière avec la Biélorussie",
-    "added_at": "2026-05-21T09:12:05.490Z"
+    "added_at": "2026-05-21T09:12:05.490Z",
+    "removed_at": "2026-05-22T02:23:59.200Z",
+    "duration_minutes": 1031,
+    "duration_str": "17h 11m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les efforts diplomatiques s'intensifient pour mettre fin à la guerre contre l'Iran",
@@ -80796,7 +80799,10 @@
   },
   {
     "title": "monde:::Les Européens parqueront toujours plus de migrants déboutés dans des centres hors des frontières de l’UE",
-    "added_at": "2026-05-21T11:48:14.028Z"
+    "added_at": "2026-05-21T11:48:14.028Z",
+    "removed_at": "2026-05-22T04:33:23.236Z",
+    "duration_minutes": 1005,
+    "duration_str": "16h 45m"
   },
   {
     "title": "culture:::Yvo Muller, un réalisateur franco-suisse venu à Cannes présenter un film de résistance et de lutte sur «le procès de Bobigny»",
@@ -80881,11 +80887,17 @@
   },
   {
     "title": "economie:::Face à la bataille des investissements, la Suisse doit cultiver ses forces",
-    "added_at": "2026-05-21T17:37:29.143Z"
+    "added_at": "2026-05-21T17:37:29.143Z",
+    "removed_at": "2026-05-22T04:23:50.198Z",
+    "duration_minutes": 646,
+    "duration_str": "10h 46m"
   },
   {
     "title": "sport:::Le paradoxe des apprentissages moteurs: progresser moins vite pour mieux apprendre",
-    "added_at": "2026-05-21T18:08:58.260Z"
+    "added_at": "2026-05-21T18:08:58.260Z",
+    "removed_at": "2026-05-22T04:38:14.510Z",
+    "duration_minutes": 629,
+    "duration_str": "10h 29m"
   },
   {
     "title": "monde:::«Un texte qui n’aurait jamais dû survivre»: Emmanuel Macron souhaite l’abrogation du Code noir, vestige anachronique (et raciste) de l’esclavage",
@@ -80900,7 +80912,10 @@
   },
   {
     "title": "culture:::Aux Amis, à Carouge, Yasmina Reza expose et explose les cinquante nuances de la conjugalité",
-    "added_at": "2026-05-21T19:33:08.182Z"
+    "added_at": "2026-05-21T19:33:08.182Z",
+    "removed_at": "2026-05-22T04:16:39.316Z",
+    "duration_minutes": 523,
+    "duration_str": "8h 43m"
   },
   {
     "title": "sport:::En demi-teinte, la Suisse bat 4-1 une Grande-Bretagne qui a crânement défendu ses cages",
@@ -80909,5 +80924,29 @@
   {
     "title": "monde:::Salle de bal, fonds d’indemnisation… Donald Trump voit ses projets malmenés au Congrès par sa majorité",
     "added_at": "2026-05-22T00:21:41.770Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Donald Trump annonce l'envoi de 5000 militaires américains en Pologne",
+    "added_at": "2026-05-22T02:23:59.200Z"
+  },
+  {
+    "title": "sciences:::SpaceX reporte le lancement très attendu de sa fusée Starship",
+    "added_at": "2026-05-22T03:16:43.265Z"
+  },
+  {
+    "title": "suisse:::Le Tessin menace de bloquer les rétrocessions fiscales des frontaliers à l’Italie",
+    "added_at": "2026-05-22T04:16:39.316Z"
+  },
+  {
+    "title": "suisse:::Pouvoir d’achat et franc fort poussent toujours plus de Tessinois à s’installer en Italie voisine",
+    "added_at": "2026-05-22T04:16:39.316Z"
+  },
+  {
+    "title": "suisse:::Le nouvel accord fiscal avec l’Italie fait craindre pour l’avenir de l’économie tessinoise",
+    "added_at": "2026-05-22T04:16:39.316Z"
+  },
+  {
+    "title": "monde:::Péter Magyar l’Européen, ou comment le premier ministre hongrois soigne son image de Bruxello-compatible",
+    "added_at": "2026-05-22T04:33:23.236Z"
   }
 ]
