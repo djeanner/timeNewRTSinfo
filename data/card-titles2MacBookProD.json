@@ -80502,7 +80502,10 @@
   },
   {
     "title": "suisse:::Pris entre deux feux, le Conseil d’Etat genevois autorise (avec un gros bémol) la manifestation de No-G7",
-    "added_at": "2026-05-20T12:48:15.488Z"
+    "added_at": "2026-05-20T12:48:15.488Z",
+    "removed_at": "2026-05-22T12:48:01.470Z",
+    "duration_minutes": 2879,
+    "duration_str": "1d 23h 59m"
   },
   {
     "title": "monde:::«L’épidémie continue de se propager»: selon l’OMS, il devient urgent de briser les chaînes de transmission d’Ebola en Afrique",
@@ -80838,7 +80841,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Si le détroit d'Ormuz reste fermé, le marché pétrolier entrera «dans une zone rouge» cet été",
-    "added_at": "2026-05-21T14:41:47.538Z"
+    "added_at": "2026-05-21T14:41:47.538Z",
+    "removed_at": "2026-05-22T11:02:25.733Z",
+    "duration_minutes": 1220,
+    "duration_str": "20h 20m"
   },
   {
     "title": "culture:::La polémique Canal+, quand l’audiovisuel français se déchire comme le reste du pays",
@@ -80999,11 +81005,17 @@
   },
   {
     "title": "monde:::Péter Magyar l’Européen, ou comment le premier ministre hongrois soigne son image de bruxello-compatible",
-    "added_at": "2026-05-22T06:28:35.940Z"
+    "added_at": "2026-05-22T06:28:35.940Z",
+    "removed_at": "2026-05-22T11:40:47.318Z",
+    "duration_minutes": 312,
+    "duration_str": "5h 12m"
   },
   {
     "title": "suisse:::En Grèce, la Suisse innove en plaçant son ambassade dans un centre culturel",
-    "added_at": "2026-05-22T06:57:20.504Z"
+    "added_at": "2026-05-22T06:57:20.504Z",
+    "removed_at": "2026-05-22T11:24:01.629Z",
+    "duration_minutes": 266,
+    "duration_str": "4h 26m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Le chef de l’OTAN «salue» l’annonce de Donald Trump sur l’envoi de troupes en Pologne",
@@ -81020,5 +81032,46 @@
   {
     "title": "sciences:::Les pangolins sont les victimes de plusieurs routes de trafic illégal, enfin placées sur la carte mondiale",
     "added_at": "2026-05-22T09:59:54.988Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – «Une peur panique de la pénurie»: la paralysie du détroit d’Ormuz fait de nouveau grimper le pétrole",
+    "added_at": "2026-05-22T11:02:25.733Z"
+  },
+  {
+    "title": "sport:::«J’ai beaucoup joué à «Football Manager»: Hiraç Yagan, un regard affûté au service de Stade Lausanne-Ouchy",
+    "added_at": "2026-05-22T11:24:01.629Z"
+  },
+  {
+    "title": "monde:::L’ancien premier ministre Gabriel Attal officialise sa candidature à la présidentielle française",
+    "added_at": "2026-05-22T11:28:47.242Z",
+    "removed_at": "2026-05-22T11:50:24.259Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
+  },
+  {
+    "title": "monde:::Sans surprise et peut-être sans illusions, l’ancien premier ministre Gabriel Attal officialise sa candidature à la présidentielle française",
+    "added_at": "2026-05-22T11:50:24.259Z",
+    "removed_at": "2026-05-22T11:55:11.853Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "monde:::Sans surprise et peut-être sans illusions, Gabriel Attal officialise sa candidature à la présidentielle française",
+    "added_at": "2026-05-22T11:55:11.853Z",
+    "removed_at": "2026-05-22T12:50:22.737Z",
+    "duration_minutes": 55,
+    "duration_str": "55m"
+  },
+  {
+    "title": "economie:::Début du procès du financier influenceur qui avait menti tout en disant parfois la vérité",
+    "added_at": "2026-05-22T12:14:20.580Z"
+  },
+  {
+    "title": "economie:::Dans un contexte tendu pour la place pharmaceutique suisse, Bristol-Myers Squibb inaugure une nouvelle usine à plus de 300 millions",
+    "added_at": "2026-05-22T12:48:01.470Z"
+  },
+  {
+    "title": "monde:::Sans surprise et peut-être sans illusion, Gabriel Attal officialise sa candidature à la présidentielle française",
+    "added_at": "2026-05-22T12:50:22.737Z"
   }
 ]
