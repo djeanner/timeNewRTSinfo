@@ -74670,7 +74670,10 @@
   },
   {
     "title": "sciences:::En graphiques – L’Europe se réchauffe deux fois plus vite que la Terre",
-    "added_at": "2026-04-29T08:36:22.861Z"
+    "added_at": "2026-04-29T08:36:22.861Z",
+    "removed_at": "2026-05-24T18:55:41.541Z",
+    "duration_minutes": 36619,
+    "duration_str": "25d 10h 19m"
   },
   {
     "title": "monde:::«Les conditions de vie des jeunes d’Afrique de l’Ouest se jouent en ce moment dans les pays du Sahel»: les enjeux des attaques récentes au Mali",
@@ -80064,7 +80067,10 @@
   },
   {
     "title": "monde:::Grâce aux drones et à Starlink, Kiev a enrayé l’avancée russe... mais se garde bien de crier victoire",
-    "added_at": "2026-05-19T04:33:03.851Z"
+    "added_at": "2026-05-19T04:33:03.851Z",
+    "removed_at": "2026-05-24T18:58:07.119Z",
+    "duration_minutes": 8065,
+    "duration_str": "5d 14h 25m"
   },
   {
     "title": "cyber:::Giotto.ai, le décollage d’un acteur suisse de l’intelligence artificielle extrêmement ambitieux",
@@ -81348,15 +81354,24 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump ne veut pas «se précipiter» pour conclure un accord avec l’Iran",
-    "added_at": "2026-05-24T14:58:14.392Z"
+    "added_at": "2026-05-24T14:58:14.392Z",
+    "removed_at": "2026-05-24T19:51:10.773Z",
+    "duration_minutes": 292,
+    "duration_str": "4h 52m"
   },
   {
     "title": "culture:::En 1904, quand Gaston Leroux, le père du «Fantôme de l’Opéra», arpentait le Maroc",
-    "added_at": "2026-05-24T15:34:25.813Z"
+    "added_at": "2026-05-24T15:34:25.813Z",
+    "removed_at": "2026-05-24T18:09:36.948Z",
+    "duration_minutes": 155,
+    "duration_str": "2h 35m"
   },
   {
     "title": "sport:::Belinda Bencic a ouvert Roland-Garros",
-    "added_at": "2026-05-24T15:44:05.054Z"
+    "added_at": "2026-05-24T15:44:05.054Z",
+    "removed_at": "2026-05-24T19:24:36.903Z",
+    "duration_minutes": 220,
+    "duration_str": "3h 40m"
   },
   {
     "title": "sport:::Revivez notre direct – A Berne, Saint-Gall a brisé le rêve de victoire historique de Stade Lausanne-Ouchy en finale de la Coupe de Suisse",
@@ -81364,7 +81379,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Les pays européens condamnent l’utilisation par Moscou d’un missile à capacité nucléaire contre Kiev",
-    "added_at": "2026-05-24T16:27:36.411Z"
+    "added_at": "2026-05-24T16:27:36.411Z",
+    "removed_at": "2026-05-24T18:21:42.004Z",
+    "duration_minutes": 114,
+    "duration_str": "1h 54m"
   },
   {
     "title": "culture:::Série: «L’Eté 36», un crime sous le soleil des congés payés",
@@ -81373,5 +81391,21 @@
   {
     "title": "suisse:::Les organisateurs se réjouissent du succès de la seconde édition du festival du journalisme à Bienne",
     "added_at": "2026-05-24T17:01:24.542Z"
+  },
+  {
+    "title": "sport:::La Coupe de Suisse a trouvé en Saint-Gall un vainqueur rationnel",
+    "added_at": "2026-05-24T18:21:42.004Z"
+  },
+  {
+    "title": "culture:::«L’Adieu au journal», un essai de Guillaume Pinson sur une épopée tissée d'encre et de papier",
+    "added_at": "2026-05-24T19:24:36.903Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Donald Trump ne veut pas «se précipiter» pour conclure un accord avec l’Iran",
+    "added_at": "2026-05-24T19:51:10.773Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Les pays européens condamnent l’utilisation par Moscou d’un missile à capacité nucléaire contre Kiev",
+    "added_at": "2026-05-24T19:58:25.700Z"
   }
 ]
