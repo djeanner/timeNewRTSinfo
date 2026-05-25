@@ -79290,7 +79290,10 @@
   },
   {
     "title": "suisse:::Nyon, 7h53: la ville au bord de l’asphyxie",
-    "added_at": "2026-05-16T05:21:04.731Z"
+    "added_at": "2026-05-16T05:21:04.731Z",
+    "removed_at": "2026-05-25T09:12:02.453Z",
+    "duration_minutes": 13190,
+    "duration_str": "9d 3h 50m"
   },
   {
     "title": "monde:::Des vacances à la plage sinon rien: cette année aussi, les touristes russes comptent se rendre à la mer Noire, en dépit des marées noires et des attaques ukrainiennes",
@@ -80442,10 +80445,7 @@
   },
   {
     "title": "cyber:::Google, Microsoft, Meta, Amazon: sous la mer d’Ormuz, l’Iran contrôle l’économie mondiale",
-    "added_at": "2026-05-20T09:54:41.623Z",
-    "removed_at": "2026-05-21T17:37:29.143Z",
-    "duration_minutes": 1902,
-    "duration_str": "1d 7h 42m"
+    "added_at": "2026-05-20T09:54:41.623Z"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La population de Vilnius aux abris après une brève alerte au drone",
@@ -80477,7 +80477,10 @@
   },
   {
     "title": "suisse:::Suisse à 10 millions: la chaotique campagne des opposants à «l’initiative du chaos»",
-    "added_at": "2026-05-20T11:11:46.377Z"
+    "added_at": "2026-05-20T11:11:46.377Z",
+    "removed_at": "2026-05-25T09:12:02.453Z",
+    "duration_minutes": 7080,
+    "duration_str": "4d 22h"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Chine est accusée de former secrètement des soldats russes",
@@ -81311,7 +81314,10 @@
   },
   {
     "title": "suisse:::Alain Prost a été légèrement blessé lors d’un cambriolage brutal à Nyon",
-    "added_at": "2026-05-24T14:35:25.210Z"
+    "added_at": "2026-05-24T14:35:25.210Z",
+    "removed_at": "2026-05-25T09:02:25.735Z",
+    "duration_minutes": 1107,
+    "duration_str": "18h 27m"
   },
   {
     "title": "suisse:::Nicolas Walder, ministre à la tête du Territoire: «Si on veut que la population accepte le développement de Genève, cela ne doit pas se faire à son détriment»",
@@ -81383,11 +81389,17 @@
   },
   {
     "title": "culture:::Série: «L’Eté 36», un crime sous le soleil des congés payés",
-    "added_at": "2026-05-24T16:59:02.264Z"
+    "added_at": "2026-05-24T16:59:02.264Z",
+    "removed_at": "2026-05-25T08:06:57.963Z",
+    "duration_minutes": 907,
+    "duration_str": "15h 7m"
   },
   {
     "title": "suisse:::Les organisateurs se réjouissent du succès de la seconde édition du festival du journalisme à Bienne",
-    "added_at": "2026-05-24T17:01:24.542Z"
+    "added_at": "2026-05-24T17:01:24.542Z",
+    "removed_at": "2026-05-25T08:04:30.548Z",
+    "duration_minutes": 903,
+    "duration_str": "15h 3m"
   },
   {
     "title": "sport:::La Coupe de Suisse a trouvé en Saint-Gall un vainqueur rationnel",
@@ -81444,7 +81456,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Un accord avec l'Iran est toujours possible lundi, selon Marco Rubio",
-    "added_at": "2026-05-25T04:03:14.943Z"
+    "added_at": "2026-05-25T04:03:14.943Z",
+    "removed_at": "2026-05-25T08:02:05.194Z",
+    "duration_minutes": 238,
+    "duration_str": "3h 58m"
   },
   {
     "title": "monde:::«Pas de Suisse à 10 millions!»: à Bruxelles, la crainte d’un nouveau psychodrame suisse",
@@ -81453,5 +81468,28 @@
   {
     "title": "monde:::Russie: pour redorer son blason, le Kremlin fait marche arrière sur certaines restrictions",
     "added_at": "2026-05-25T05:49:27.167Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Téhéran mentionne des progrès, mais écarte l'idée d'un accord imminent",
+    "added_at": "2026-05-25T08:02:05.194Z",
+    "removed_at": "2026-05-25T09:21:42.577Z",
+    "duration_minutes": 79,
+    "duration_str": "1h 19m"
+  },
+  {
+    "title": "economie:::François Fellay, patron de Romande Energie: «En 2040, on ne se battra plus pour avoir le kilowattheure le moins cher mais pour avoir une facture optimisée»",
+    "added_at": "2026-05-25T08:04:30.548Z"
+  },
+  {
+    "title": "culture:::Les festivals gratuits, une petite utopie qui résiste",
+    "added_at": "2026-05-25T08:06:57.963Z"
+  },
+  {
+    "title": "monde:::«Je ne travaille que pour manger»: à Téhéran, la détresse des Iraniens coupés d’Internet, soumis à l’inflation et à un chômage qui explose",
+    "added_at": "2026-05-25T09:12:02.453Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L'Iran mentionne des progrès, mais écarte l'idée d'un accord imminent avec les Etats-Unis",
+    "added_at": "2026-05-25T09:21:42.577Z"
   }
 ]
