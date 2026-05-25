@@ -79290,10 +79290,7 @@
   },
   {
     "title": "suisse:::Nyon, 7h53: la ville au bord de l’asphyxie",
-    "added_at": "2026-05-16T05:21:04.731Z",
-    "removed_at": "2026-05-25T09:12:02.453Z",
-    "duration_minutes": 13190,
-    "duration_str": "9d 3h 50m"
+    "added_at": "2026-05-16T05:21:04.731Z"
   },
   {
     "title": "monde:::Des vacances à la plage sinon rien: cette année aussi, les touristes russes comptent se rendre à la mer Noire, en dépit des marées noires et des attaques ukrainiennes",
@@ -80470,17 +80467,11 @@
   },
   {
     "title": "suisse:::Philipp Matthias Bregy, président du Centre: «L’initiative UDC n’est pas une solution, c’est un risque»",
-    "added_at": "2026-05-20T11:11:46.377Z",
-    "removed_at": "2026-05-20T16:32:38.932Z",
-    "duration_minutes": 320,
-    "duration_str": "5h 20m"
+    "added_at": "2026-05-20T11:11:46.377Z"
   },
   {
     "title": "suisse:::Suisse à 10 millions: la chaotique campagne des opposants à «l’initiative du chaos»",
-    "added_at": "2026-05-20T11:11:46.377Z",
-    "removed_at": "2026-05-25T09:12:02.453Z",
-    "duration_minutes": 7080,
-    "duration_str": "4d 22h"
+    "added_at": "2026-05-20T11:11:46.377Z"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Chine est accusée de former secrètement des soldats russes",
@@ -80828,7 +80819,10 @@
   },
   {
     "title": "culture:::Festival de Cannes: «Fjord», la loi norvégienne de protection à l’enfance à l’épreuve du conservatisme religieux",
-    "added_at": "2026-05-21T13:17:50.999Z"
+    "added_at": "2026-05-21T13:17:50.999Z",
+    "removed_at": "2026-05-25T10:19:48.847Z",
+    "duration_minutes": 5581,
+    "duration_str": "3d 21h 1m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël dit avoir expulsé tous les militants de la flottille pour Gaza",
@@ -81295,7 +81289,10 @@
   },
   {
     "title": "culture:::Le 79e Festival de Cannes se conclut sur un palmarès engagé, avec une deuxième Palme d’or pour le cinéaste roumain Cristian Mungiu",
-    "added_at": "2026-05-24T14:35:25.210Z"
+    "added_at": "2026-05-24T14:35:25.210Z",
+    "removed_at": "2026-05-25T10:19:48.847Z",
+    "duration_minutes": 1184,
+    "duration_str": "19h 44m"
   },
   {
     "title": "sciences:::Une gigantesque retenue d’eau au-dessus de Courchevel s’affaisse à une vitesse alarmante, nécessitant des mesures d’urgence",
@@ -81303,7 +81300,10 @@
   },
   {
     "title": "cyber:::«Dans un monde où tout peut être falsifié, qu’est-ce que la confiance?» Face aux deepfakes, cette bague imagine une nouvelle manière de prouver son identité en ligne",
-    "added_at": "2026-05-24T14:35:25.210Z"
+    "added_at": "2026-05-24T14:35:25.210Z",
+    "removed_at": "2026-05-25T10:27:03.361Z",
+    "duration_minutes": 1191,
+    "duration_str": "19h 51m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump a assuré à Benyamin Netanyahou que tout accord final avec l’Iran inclurait le dossier nucléaire",
@@ -81339,7 +81339,10 @@
   },
   {
     "title": "culture:::Festival de Cannes, jour 12: le palmarès du «Temps», avec une Palme d’or pour «Soudain», du Japonais Ryūsuke Hamaguchi",
-    "added_at": "2026-05-24T14:35:25.210Z"
+    "added_at": "2026-05-24T14:35:25.210Z",
+    "removed_at": "2026-05-25T10:19:48.847Z",
+    "duration_minutes": 1184,
+    "duration_str": "19h 44m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – «Une nuit terrible»: une attaque massive contre Kiev fait au moins quatre morts et plus de 100 blessés",
@@ -81491,5 +81494,38 @@
   {
     "title": "monde:::En direct, Moyen-Orient – L'Iran mentionne des progrès, mais écarte l'idée d'un accord imminent avec les Etats-Unis",
     "added_at": "2026-05-25T09:21:42.577Z"
+  },
+  {
+    "title": "cyber:::Le pape Léon XIV appelle à «désarmer l’IA» pour «l’empêcher de dominer l’humain»",
+    "added_at": "2026-05-25T10:17:23.153Z",
+    "removed_at": "2026-05-25T10:24:37.422Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "cyber:::Le pape Léon XIV appelle à «désarmer l’IA» et à la rendre «accessible» pour «l’empêcher de dominer l’humain»",
+    "added_at": "2026-05-25T10:24:37.422Z"
+  },
+  {
+    "title": "sport:::A la découverte du «mokhacha», ce hockey oublié pratiqué par les nomades du Sahara",
+    "added_at": "2026-05-25T10:27:03.361Z",
+    "removed_at": "2026-05-25T10:31:50.181Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "sport:::En images – A la découverte du «mokhacha», ce hockey pratiqué par les tribus nomades du Sahara",
+    "added_at": "2026-05-25T10:31:50.181Z",
+    "removed_at": "2026-05-25T10:36:39.180Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "sport:::A la découverte du «mokhacha», ce hockey pratiqué par les tribus nomades du Sahara",
+    "added_at": "2026-05-25T10:36:39.180Z"
+  },
+  {
+    "title": "culture:::Le Paléo Festival explique avoir banni Patrick Bruel dès 2019 après un «comportement inadmissible»",
+    "added_at": "2026-05-25T11:44:15.620Z"
   }
 ]
