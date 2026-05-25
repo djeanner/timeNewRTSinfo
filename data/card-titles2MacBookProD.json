@@ -81401,7 +81401,10 @@
   },
   {
     "title": "culture:::«L’Adieu au journal», un essai de Guillaume Pinson sur une épopée tissée d'encre et de papier",
-    "added_at": "2026-05-24T19:24:36.903Z"
+    "added_at": "2026-05-24T19:24:36.903Z",
+    "removed_at": "2026-05-25T03:48:47.376Z",
+    "duration_minutes": 504,
+    "duration_str": "8h 24m"
   },
   {
     "title": "monde:::Moyen-Orient – Donald Trump ne veut pas «se précipiter» pour conclure un accord avec l’Iran",
@@ -81419,10 +81422,28 @@
   },
   {
     "title": "monde:::Moyen-Orient, en direct – Donald Trump ne veut pas «se précipiter» pour conclure un accord avec l’Iran",
-    "added_at": "2026-05-24T23:30:57.050Z"
+    "added_at": "2026-05-24T23:30:57.050Z",
+    "removed_at": "2026-05-25T03:31:57.560Z",
+    "duration_minutes": 241,
+    "duration_str": "4h 1m"
   },
   {
     "title": "monde:::Guerre en Ukraine, en direct – Les pays européens condamnent l’utilisation par Moscou d’un missile à capacité nucléaire contre Kiev",
     "added_at": "2026-05-24T23:30:57.050Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient, en direct – Un accord avec l'Iran est toujours possible lundi, selon Marco Rubio",
+    "added_at": "2026-05-25T03:31:57.560Z",
+    "removed_at": "2026-05-25T04:03:14.943Z",
+    "duration_minutes": 31,
+    "duration_str": "31m"
+  },
+  {
+    "title": "sciences:::La Chine envoie avec succès trois hommes vers la station spatiale Tiangong",
+    "added_at": "2026-05-25T03:48:47.376Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Un accord avec l'Iran est toujours possible lundi, selon Marco Rubio",
+    "added_at": "2026-05-25T04:03:14.943Z"
   }
 ]
