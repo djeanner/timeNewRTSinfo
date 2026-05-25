@@ -82359,7 +82359,10 @@
   },
   {
     "title": "Entretien avec Rosy Canavese, Responsable des ramasseurs de balles",
-    "added_at": "2026-05-18T19:24:58.214Z"
+    "added_at": "2026-05-18T19:24:58.214Z",
+    "removed_at": "2026-05-25T17:03:32.332Z",
+    "duration_minutes": 9938,
+    "duration_str": "6d 21h 38m"
   },
   {
     "title": "Comme un lundi - Les assessments, vraiment pertinents?",
@@ -84194,7 +84197,10 @@
   },
   {
     "title": "Coupe de Suisse de football: finale dimanche entre le Stade Lausanne Ouchy et le FC Saint-Gall",
-    "added_at": "2026-05-24T14:35:25.146Z"
+    "added_at": "2026-05-24T14:35:25.146Z",
+    "removed_at": "2026-05-25T17:03:32.332Z",
+    "duration_minutes": 1588,
+    "duration_str": "1d 2h 28m"
   },
   {
     "title": "Le groupe pharmaceutique Bristol Meyers Squibb a inauguré un nouveau site de production dans le canton de Neuchâtel: interview de Jérôme Garcin",
@@ -84281,11 +84287,17 @@
   },
   {
     "title": "Ormuz, Malacca, le Bosphore, les détroits stratégiques au cœur du commerce international",
-    "added_at": "2026-05-24T14:35:25.146Z"
+    "added_at": "2026-05-24T14:35:25.146Z",
+    "removed_at": "2026-05-25T16:53:55.864Z",
+    "duration_minutes": 1578,
+    "duration_str": "1d 2h 18m"
   },
   {
     "title": "Burn-out académique: quand la performance mine l'estime de soi",
-    "added_at": "2026-05-24T14:35:25.146Z"
+    "added_at": "2026-05-24T14:35:25.146Z",
+    "removed_at": "2026-05-25T15:22:16.323Z",
+    "duration_minutes": 1486,
+    "duration_str": "1d 46m"
   },
   {
     "title": "Podcast - Rencontrer sa victime pour prendre conscience de ses actes",
@@ -84361,9 +84373,9 @@
   {
     "title": "Soulagement et inquiétude des proches au retour des militants suisses de la flottille pour Gaza",
     "added_at": "2026-05-24T21:03:44.442Z",
-    "removed_at": "2026-05-25T00:16:45.196Z",
-    "duration_minutes": 193,
-    "duration_str": "3h 13m"
+    "removed_at": "2026-05-25T17:22:54.077Z",
+    "duration_minutes": 1219,
+    "duration_str": "20h 19m"
   },
   {
     "title": "À Las Vegas, des jeux sportifs qui autorisent et encouragent le dopage",
@@ -84402,7 +84414,10 @@
   },
   {
     "title": "L'Iran fait état de progrès avec les Etats-Unis, mais un accord n'est pas imminent",
-    "added_at": "2026-05-25T08:43:05.346Z"
+    "added_at": "2026-05-25T08:43:05.346Z",
+    "removed_at": "2026-05-25T16:58:43.721Z",
+    "duration_minutes": 495,
+    "duration_str": "8h 15m"
   },
   {
     "title": "Quelles conséquences potentielles d'un oui à l'initiative de l'UDC pour limiter la population?",
@@ -84430,7 +84445,10 @@
   },
   {
     "title": "Paléo ne programmera plus Patrick Bruel après la plainte d'une bénévole",
-    "added_at": "2026-05-25T13:02:10.046Z"
+    "added_at": "2026-05-25T13:02:10.046Z",
+    "removed_at": "2026-05-25T17:18:01.687Z",
+    "duration_minutes": 255,
+    "duration_str": "4h 15m"
   },
   {
     "title": "Comment nos mythes ont forgé l’identité suisse",
@@ -84458,5 +84476,25 @@
   {
     "title": "La ville, un écosystème sauvage à redécouvrir",
     "added_at": "2026-05-25T14:29:00.002Z"
+  },
+  {
+    "title": "La Russie menace Kiev de nouveaux bombardements et appelle les ressortissants étrangers à évacuer",
+    "added_at": "2026-05-25T15:22:16.323Z"
+  },
+  {
+    "title": "Des supporters de Gottéron indignés par la hausse des prix des abonnements de la BCF Arena",
+    "added_at": "2026-05-25T16:53:55.864Z"
+  },
+  {
+    "title": "Donald Trump veut un accord de paix englobant Israël et des pays du Golfe",
+    "added_at": "2026-05-25T16:58:43.721Z"
+  },
+  {
+    "title": "\"Ça ne correspond pas à nos valeurs\": Patrick Bruel banni de Paléo après la plainte d'une bénévole",
+    "added_at": "2026-05-25T17:13:12.686Z"
+  },
+  {
+    "title": "Le Paléo Festival annonce bannir Patrick Bruel et déplore une affaire survenue en 2019",
+    "added_at": "2026-05-25T17:22:54.077Z"
   }
 ]
