@@ -82808,7 +82808,10 @@
   },
   {
     "title": "Où en est l'affaire Patrick Bruel ?",
-    "added_at": "2026-05-19T17:18:27.126Z"
+    "added_at": "2026-05-19T17:18:27.126Z",
+    "removed_at": "2026-05-26T15:03:54.125Z",
+    "duration_minutes": 9945,
+    "duration_str": "6d 21h 45m"
   },
   {
     "title": "Un nouveau glacier est sous étroite surveillance au-dessus de Blatten, en Valais",
@@ -84180,7 +84183,10 @@
   },
   {
     "title": "La piscine de Porrentruy durcit encore ses conditions d'accès pour les étrangers",
-    "added_at": "2026-05-24T14:35:25.146Z"
+    "added_at": "2026-05-24T14:35:25.146Z",
+    "removed_at": "2026-05-26T14:59:01.467Z",
+    "duration_minutes": 2903,
+    "duration_str": "2d 23m"
   },
   {
     "title": "\"On ne sait pas dans quel état ils sont\": une permanence médicale pour le retour des militants suisses arrêtés par Israël",
@@ -84233,31 +84239,52 @@
   },
   {
     "title": "Le Centre Vaud lance une enquête contre son président des Jeunes pour avoir critiqué Valérie Dittli",
-    "added_at": "2026-05-24T14:35:25.146Z"
+    "added_at": "2026-05-24T14:35:25.146Z",
+    "removed_at": "2026-05-26T14:30:00.348Z",
+    "duration_minutes": 2874,
+    "duration_str": "1d 23h 54m"
   },
   {
     "title": "\"Le DFAE a fait le choix très clair de ne pas agir\", accuse l'avocate des membres suisses de la flottille pour Gaza",
-    "added_at": "2026-05-24T14:35:25.146Z"
+    "added_at": "2026-05-24T14:35:25.146Z",
+    "removed_at": "2026-05-26T13:39:20.510Z",
+    "duration_minutes": 2823,
+    "duration_str": "1d 23h 3m"
   },
   {
     "title": "La République démocratique du Congo déplore plus de 200 décès liés au virus Ebola",
-    "added_at": "2026-05-24T14:35:25.146Z"
+    "added_at": "2026-05-24T14:35:25.146Z",
+    "removed_at": "2026-05-26T13:36:53.812Z",
+    "duration_minutes": 2821,
+    "duration_str": "1d 23h 1m"
   },
   {
     "title": "En Serbie, la police réprime des manifestants réclamant le départ du président Vucic",
-    "added_at": "2026-05-24T14:35:25.146Z"
+    "added_at": "2026-05-24T14:35:25.146Z",
+    "removed_at": "2026-05-26T13:24:52.188Z",
+    "duration_minutes": 2809,
+    "duration_str": "1d 22h 49m"
   },
   {
     "title": "La Suisse écrase la Hongrie 9-0 et signe son 6e succès en 6 matches dans \"son\" Mondial",
-    "added_at": "2026-05-24T14:35:25.146Z"
+    "added_at": "2026-05-24T14:35:25.146Z",
+    "removed_at": "2026-05-26T13:12:50.640Z",
+    "duration_minutes": 2797,
+    "duration_str": "1d 22h 37m"
   },
   {
     "title": "Des dizaines de blessés dans une collision de trams en Allemagne",
-    "added_at": "2026-05-24T14:35:25.146Z"
+    "added_at": "2026-05-24T14:35:25.146Z",
+    "removed_at": "2026-05-26T12:55:54.438Z",
+    "duration_minutes": 2780,
+    "duration_str": "1d 22h 20m"
   },
   {
     "title": "Sur 18 entreprises de pompes funèbres sondées, aucune n'est en règle sur la transparence des prix",
-    "added_at": "2026-05-24T14:35:25.146Z"
+    "added_at": "2026-05-24T14:35:25.146Z",
+    "removed_at": "2026-05-26T12:39:00.392Z",
+    "duration_minutes": 2763,
+    "duration_str": "1d 22h 3m"
   },
   {
     "title": "Accusé de discrimination, Canal+ est appelé à comparaître devant la justice française",
@@ -84665,7 +84692,10 @@
   },
   {
     "title": "Quatre personnes, dont deux enfants, tués dans une collision entre un train et un car scolaire en Belgique",
-    "added_at": "2026-05-26T10:35:49.969Z"
+    "added_at": "2026-05-26T10:35:49.969Z",
+    "removed_at": "2026-05-26T14:42:08.736Z",
+    "duration_minutes": 246,
+    "duration_str": "4h 6m"
   },
   {
     "title": "L'AVS verse pour la première fois plus de 2,6 millions de rentes de vieillesse",
@@ -84682,5 +84712,55 @@
   {
     "title": "Le Musée d'ethnographie de Genève dévoile 'Le futur, c'est quoi?', une exposition visionnaire",
     "added_at": "2026-05-26T11:14:22.950Z"
+  },
+  {
+    "title": "La situation sécuritaire mondiale inquiète davantage la population suisse",
+    "added_at": "2026-05-26T12:39:00.392Z"
+  },
+  {
+    "title": "Les ménages aisés comparent davantage les prix que ceux plus modestes",
+    "added_at": "2026-05-26T12:55:54.438Z",
+    "removed_at": "2026-05-26T12:58:22.142Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Les ménages suisses plus aisés comparent davantage les prix que ceux plus modestes",
+    "added_at": "2026-05-26T12:58:22.142Z",
+    "removed_at": "2026-05-26T13:12:50.640Z",
+    "duration_minutes": 14,
+    "duration_str": "14m"
+  },
+  {
+    "title": "Les ménages suisses plus aisés comparent davantage les prix que les plus modestes",
+    "added_at": "2026-05-26T13:12:50.640Z"
+  },
+  {
+    "title": "Le Temps se lance en France avec une édition 100% digitale",
+    "added_at": "2026-05-26T13:12:50.640Z"
+  },
+  {
+    "title": "Les gymnases vaudois adaptent leurs dispositifs d'examens après le drame Crans-Montana",
+    "added_at": "2026-05-26T13:20:05.157Z"
+  },
+  {
+    "title": "\"J'ai apporté des pommes d'amour aux enfants malades\": les Miss Luna Park, des ambassadrices de la vie foraine",
+    "added_at": "2026-05-26T13:36:53.812Z"
+  },
+  {
+    "title": "Le bras de fer entre la coalition NoG7 et le canton de Genève se poursuivra au tribunal",
+    "added_at": "2026-05-26T13:39:20.510Z"
+  },
+  {
+    "title": "La Chaux-de-Fonds Capitale culturelle 2027 lève un pan de voile sur sa programmation",
+    "added_at": "2026-05-26T14:30:00.348Z"
+  },
+  {
+    "title": "Quatre personnes, dont deux enfants, tuées dans une collision entre un train et un car scolaire en Belgique",
+    "added_at": "2026-05-26T14:42:08.736Z"
+  },
+  {
+    "title": "La loutre fait son retour en Suisse, mais son avenir reste incertain",
+    "added_at": "2026-05-26T14:59:01.467Z"
   }
 ]
