@@ -83878,7 +83878,10 @@
   },
   {
     "title": "L'invité de La Matinale (vidéo) - Ernesto Bertarelli, président du Tudor Team Alinghi",
-    "added_at": "2026-05-22T11:04:52.317Z"
+    "added_at": "2026-05-22T11:04:52.317Z",
+    "removed_at": "2026-05-26T20:23:44.047Z",
+    "duration_minutes": 6318,
+    "duration_str": "4d 9h 18m"
   },
   {
     "title": "Gabriel Attal officialise sa candidature à l'élection présidentielle de 2027",
@@ -83917,7 +83920,10 @@
   },
   {
     "title": "D’où viennent nos fantasmes ?",
-    "added_at": "2026-05-22T13:02:37.547Z"
+    "added_at": "2026-05-22T13:02:37.547Z",
+    "removed_at": "2026-05-26T19:03:49.339Z",
+    "duration_minutes": 6121,
+    "duration_str": "4d 6h 1m"
   },
   {
     "title": "Neuf ans de prison pour le financier genevois qui avait arnaqué ses clients avec une pyramide de Ponzi",
@@ -84140,15 +84146,24 @@
   },
   {
     "title": "L'asphalte de la route des Rangiers dans une montre pour fêter les 100 ans de la course jurassienne",
-    "added_at": "2026-05-24T14:35:25.146Z"
+    "added_at": "2026-05-24T14:35:25.146Z",
+    "removed_at": "2026-05-26T20:28:37.276Z",
+    "duration_minutes": 3233,
+    "duration_str": "2d 5h 53m"
   },
   {
     "title": "Les câbles sous-marins, nouvel enjeu du détroit d'Ormuz",
-    "added_at": "2026-05-24T14:35:25.146Z"
+    "added_at": "2026-05-24T14:35:25.146Z",
+    "removed_at": "2026-05-26T20:09:12.447Z",
+    "duration_minutes": 3213,
+    "duration_str": "2d 5h 33m"
   },
   {
     "title": "La cuisine, ce \"terrain de jeu où tous les pays essaient d'avancer leurs pions\"",
-    "added_at": "2026-05-24T14:35:25.146Z"
+    "added_at": "2026-05-24T14:35:25.146Z",
+    "removed_at": "2026-05-26T19:11:06.690Z",
+    "duration_minutes": 3155,
+    "duration_str": "2d 4h 35m"
   },
   {
     "title": "La crème solaire, à étaler plus généreusement qu'on ne le penserait",
@@ -84429,7 +84444,10 @@
   },
   {
     "title": "Après des annonces d'accord imminent avec l'Iran, Donald Trump dit qu'il n'entend pas \"se précipiter\"",
-    "added_at": "2026-05-24T15:22:21.997Z"
+    "added_at": "2026-05-24T15:22:21.997Z",
+    "removed_at": "2026-05-26T19:01:22.688Z",
+    "duration_minutes": 3099,
+    "duration_str": "2d 3h 39m"
   },
   {
     "title": "Avec l'aide du Maroc, la Suisse va accélérer les renvois de Marocains en situation irrégulière",
@@ -84702,7 +84720,10 @@
   },
   {
     "title": "Les primes d'assurance maladie pourraient augmenter de 5% en novembre",
-    "added_at": "2026-05-26T10:14:06.878Z"
+    "added_at": "2026-05-26T10:14:06.878Z",
+    "removed_at": "2026-05-26T18:30:00.342Z",
+    "duration_minutes": 495,
+    "duration_str": "8h 15m"
   },
   {
     "title": "Vague de chaleur inédite en mai, risque d'un emballement du changement climatique",
@@ -84836,6 +84857,55 @@
   },
   {
     "title": "Ferrari doit convaincre avec la \"Luce\", son premier bolide entièrement électrique",
-    "added_at": "2026-05-26T17:43:47.152Z"
+    "added_at": "2026-05-26T17:43:47.152Z",
+    "removed_at": "2026-05-26T19:08:38.362Z",
+    "duration_minutes": 84,
+    "duration_str": "1h 24m"
+  },
+  {
+    "title": "Les primes maladie pourraient à nouveau augmenter l'an prochain, de 5% environ",
+    "added_at": "2026-05-26T18:30:00.342Z"
+  },
+  {
+    "title": "Podcast - A quoi ça sert d'écrire à la main?",
+    "added_at": "2026-05-26T19:01:22.688Z",
+    "removed_at": "2026-05-26T19:13:29.267Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "MétéoSuisse émet pour la première fois un avis de canicule en mai: interview de Mikhaël Schwander",
+    "added_at": "2026-05-26T19:03:49.339Z"
+  },
+  {
+    "title": "Ferrari veut convaincre avec la \"Luce\", son premier bolide entièrement électrique",
+    "added_at": "2026-05-26T19:08:38.362Z",
+    "removed_at": "2026-05-26T19:11:06.690Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "De nombreux défis attendent Roger Nordmann à la tête du Département de la santé",
+    "added_at": "2026-05-26T19:11:06.690Z"
+  },
+  {
+    "title": "Ferrari veut convaincre avec la 'Luce', son premier bolide entièrement électrique",
+    "added_at": "2026-05-26T19:11:06.690Z"
+  },
+  {
+    "title": "A quoi ça sert d'écrire à la main?",
+    "added_at": "2026-05-26T19:13:29.267Z"
+  },
+  {
+    "title": "Patrick Bruel banni du Paléo après la plainte d’une bénévole en 2019",
+    "added_at": "2026-05-26T20:01:56.494Z"
+  },
+  {
+    "title": "Fribourg domine copieusement Genève en finale des playoffs pour un 23e titre de champion de Suisse",
+    "added_at": "2026-05-26T20:09:12.447Z"
+  },
+  {
+    "title": "Les records de température pour un mois de mai s'enchaînent en Europe",
+    "added_at": "2026-05-26T20:28:37.276Z"
   }
 ]

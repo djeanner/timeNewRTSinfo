@@ -81637,7 +81637,10 @@
   },
   {
     "title": "cyber:::Décryptage – Les entrées en bourse des géants de l’IA vont nous coûter cher",
-    "added_at": "2026-05-25T17:13:12.757Z"
+    "added_at": "2026-05-25T17:13:12.757Z",
+    "removed_at": "2026-05-26T18:39:37.520Z",
+    "duration_minutes": 1526,
+    "duration_str": "1d 1h 26m"
   },
   {
     "title": "economie:::Le fils du fondateur de Mango a-t-il tué son père? Centrée sur l’héritage familial, l’affaire défraie la chronique au-delà des frontières espagnoles",
@@ -81872,7 +81875,10 @@
   },
   {
     "title": "suisse:::Le Grand Conseil vaudois pourrait ouvrir une procédure civile dans l’affaire du bouclier fiscal",
-    "added_at": "2026-05-26T15:33:07.084Z"
+    "added_at": "2026-05-26T15:33:07.084Z",
+    "removed_at": "2026-05-26T19:54:41.862Z",
+    "duration_minutes": 261,
+    "duration_str": "4h 21m"
   },
   {
     "title": "suisse:::Pas d’accalmie sur le front des primes maladie: l’OFSP table sur une hausse de 5% en 2027",
@@ -81891,7 +81897,10 @@
   },
   {
     "title": "suisse:::Trois nouveaux jours de grève annoncés à Genève",
-    "added_at": "2026-05-26T16:38:27.540Z"
+    "added_at": "2026-05-26T16:38:27.540Z",
+    "removed_at": "2026-05-26T18:15:28.681Z",
+    "duration_minutes": 97,
+    "duration_str": "1h 37m"
   },
   {
     "title": "economie:::Les chiffres de l’assurance-invalidité virent au rouge",
@@ -81910,7 +81919,10 @@
   },
   {
     "title": "monde:::Incursions de drones: «Il ne s’agit pas d’incidents isolés, mais d’une stratégie délibérée de Moscou pour déstabiliser nos démocraties», dénonce Ursula von der Leyen",
-    "added_at": "2026-05-26T17:24:26.390Z"
+    "added_at": "2026-05-26T17:24:26.390Z",
+    "removed_at": "2026-05-26T18:44:31.567Z",
+    "duration_minutes": 80,
+    "duration_str": "1h 20m"
   },
   {
     "title": "monde:::Guerre en Ukraine: Vladimir Poutine durcit le ton contre Kiev après une attaque meurtrière, mais peine à convaincre des faucons de plus en plus critiques",
@@ -81921,7 +81933,10 @@
   },
   {
     "title": "economie:::Les chiffres de l’assurance invalidité virent au rouge",
-    "added_at": "2026-05-26T17:24:26.390Z"
+    "added_at": "2026-05-26T17:24:26.390Z",
+    "removed_at": "2026-05-26T18:27:31.312Z",
+    "duration_minutes": 63,
+    "duration_str": "1h 3m"
   },
   {
     "title": "monde:::Guerre en Ukraine: Vladimir Poutine menace Kiev, mais peine à convaincre ses propres faucons",
@@ -81929,10 +81944,54 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Après les menaces de Moscou de frapper Kiev, des diplomates russes convoqués par les Européens",
-    "added_at": "2026-05-26T17:38:58.200Z"
+    "added_at": "2026-05-26T17:38:58.200Z",
+    "removed_at": "2026-05-26T18:44:31.567Z",
+    "duration_minutes": 65,
+    "duration_str": "1h 5m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L'Iran accuse les Etats-Unis d'avoir violé le cessez-le-feu et menace de riposter",
-    "added_at": "2026-05-26T17:43:47.216Z"
+    "added_at": "2026-05-26T17:43:47.216Z",
+    "removed_at": "2026-05-26T17:56:04.425Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’Iran accuse les Etats-Unis d’avoir violé le cessez-le-feu et menace de riposter",
+    "added_at": "2026-05-26T17:56:04.425Z"
+  },
+  {
+    "title": "sport:::Moïse Kouamé, la terre battue promise et la traversée du désert tennistique français",
+    "added_at": "2026-05-26T18:15:28.681Z"
+  },
+  {
+    "title": "monde:::Hadj sous haute tension politique en Arabie saoudite, pressée par Trump de normaliser son lien avec Israël",
+    "added_at": "2026-05-26T18:27:31.312Z",
+    "removed_at": "2026-05-26T19:15:55.428Z",
+    "duration_minutes": 48,
+    "duration_str": "48m"
+  },
+  {
+    "title": "suisse:::Corine Mauch: «Je n’échangerais pour rien au monde la Zurich d’aujourd’hui avec celle des années 1990»",
+    "added_at": "2026-05-26T18:39:37.520Z",
+    "removed_at": "2026-05-26T19:42:35.239Z",
+    "duration_minutes": 62,
+    "duration_str": "1h 2m"
+  },
+  {
+    "title": "monde:::Dans la confusion la plus totale, Donald Trump propose d’élargir les Accords d’Abraham à plusieurs pays musulmans, dont l’Iran, pour mettre fin à la guerre avec Téhéran",
+    "added_at": "2026-05-26T18:44:31.567Z"
+  },
+  {
+    "title": "monde:::Hadj sous haute tension politique en Arabie saoudite, pressée par Donald Trump de normaliser son lien avec Israël",
+    "added_at": "2026-05-26T19:15:55.428Z"
+  },
+  {
+    "title": "suisse:::Corine Mauch: «Je n’échangerais pour rien au monde la Zurich d’aujourd’hui contre celle des années 1990»",
+    "added_at": "2026-05-26T19:42:35.239Z"
+  },
+  {
+    "title": "monde:::Alerte à la sécheresse en Suisse, la canicule va durer en Europe de l’ouest",
+    "added_at": "2026-05-26T19:54:41.862Z"
   }
 ]
