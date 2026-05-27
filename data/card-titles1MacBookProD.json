@@ -84452,7 +84452,10 @@
   },
   {
     "title": "Les engins agricoles peinent à passer sur des routes qui ne sont plus assez grandes",
-    "added_at": "2026-05-24T14:58:14.329Z"
+    "added_at": "2026-05-24T14:58:14.329Z",
+    "removed_at": "2026-05-27T07:03:46.146Z",
+    "duration_minutes": 3845,
+    "duration_str": "2d 16h 5m"
   },
   {
     "title": "Après des annonces d'accord imminent avec l'Iran, Donald Trump dit qu'il n'entend pas \"se précipiter\"",
@@ -84463,7 +84466,10 @@
   },
   {
     "title": "Avec l'aide du Maroc, la Suisse va accélérer les renvois de Marocains en situation irrégulière",
-    "added_at": "2026-05-24T17:45:14.037Z"
+    "added_at": "2026-05-24T17:45:14.037Z",
+    "removed_at": "2026-05-27T06:00:58.810Z",
+    "duration_minutes": 3615,
+    "duration_str": "2d 12h 15m"
   },
   {
     "title": "Douleurs pendant les rapports sexuels: un tabou encore trop présent",
@@ -84478,7 +84484,10 @@
   },
   {
     "title": "Les controversés \"Jeux du dopage\" débarquent à Las Vegas",
-    "added_at": "2026-05-24T18:38:45.005Z"
+    "added_at": "2026-05-24T18:38:45.005Z",
+    "removed_at": "2026-05-27T06:34:46.045Z",
+    "duration_minutes": 3596,
+    "duration_str": "2d 11h 56m"
   },
   {
     "title": "Plongée rare dans les centrales de Fedpol, dont  la coopération internationale est menacée par l'initiative de l'UDC",
@@ -84508,15 +84517,24 @@
   },
   {
     "title": "À Las Vegas, des jeux sportifs qui autorisent et encouragent le dopage",
-    "added_at": "2026-05-24T22:23:18.837Z"
+    "added_at": "2026-05-24T22:23:18.837Z",
+    "removed_at": "2026-05-27T05:03:06.164Z",
+    "duration_minutes": 3279,
+    "duration_str": "2d 6h 39m"
   },
   {
     "title": "Une étude cherche à mieux comprendre le rôle des bunkers dans le quotidien des suisses: interview de Francisco Klauser",
-    "added_at": "2026-05-25T00:16:45.196Z"
+    "added_at": "2026-05-25T00:16:45.196Z",
+    "removed_at": "2026-05-27T05:03:06.164Z",
+    "duration_minutes": 3166,
+    "duration_str": "2d 4h 46m"
   },
   {
     "title": "L'optimisme de rigueur en Californie face au risque d'explosion d'une cuve de produit chimique",
-    "added_at": "2026-05-25T02:48:36.076Z"
+    "added_at": "2026-05-25T02:48:36.076Z",
+    "removed_at": "2026-05-27T06:58:56.365Z",
+    "duration_minutes": 3130,
+    "duration_str": "2d 4h 10m"
   },
   {
     "title": "\"Nous n'avons jamais eu une telle réaction mondiale\" autour de l'épidémie d'Ebola, critique son codécouvreur",
@@ -84644,9 +84662,9 @@
   {
     "title": "Après des bombardements russes sans précédent sur Kiev, la crainte d’une escalade",
     "added_at": "2026-05-25T23:03:41.035Z",
-    "removed_at": "2026-05-27T04:05:02.506Z",
-    "duration_minutes": 1741,
-    "duration_str": "1d 5h 1m"
+    "removed_at": "2026-05-27T07:18:15.848Z",
+    "duration_minutes": 1934,
+    "duration_str": "1d 8h 14m"
   },
   {
     "title": "L'armée américaine annonce avoir frappé des sites de lancement de missiles en Iran",
@@ -84893,10 +84911,7 @@
   },
   {
     "title": "MétéoSuisse émet pour la première fois un avis de canicule en mai: interview de Mikhaël Schwander",
-    "added_at": "2026-05-26T19:03:49.339Z",
-    "removed_at": "2026-05-26T22:22:17.521Z",
-    "duration_minutes": 198,
-    "duration_str": "3h 18m"
+    "added_at": "2026-05-26T19:03:49.339Z"
   },
   {
     "title": "Ferrari veut convaincre avec la \"Luce\", son premier bolide entièrement électrique",
@@ -84956,5 +84971,32 @@
   {
     "title": "Quatre patients greffés lors d'une opération franco-suisse inédite",
     "added_at": "2026-05-27T04:24:17.272Z"
+  },
+  {
+    "title": "\"Je le voyais emmener des femmes aux toilettes\": une Romande témoigne des agissements de Patrick Bruel en 2012",
+    "added_at": "2026-05-27T04:58:13.903Z",
+    "removed_at": "2026-05-27T05:07:52.851Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "\"Je le voyais emmener des femmes aux toilettes\": une Romande témoigne des agissements de Patrick Bruel",
+    "added_at": "2026-05-27T05:07:52.851Z"
+  },
+  {
+    "title": "Le Valais voit sa réputation touristique affectée par le drame de Crans-Montana",
+    "added_at": "2026-05-27T06:00:58.810Z"
+  },
+  {
+    "title": "'La Suisse au cinéma', découvrez 100 films internationaux tournés en terres helvétiques",
+    "added_at": "2026-05-27T06:34:46.045Z"
+  },
+  {
+    "title": "La déforestation en Amazonie brésilienne au plus bas depuis 2019",
+    "added_at": "2026-05-27T06:58:56.365Z"
+  },
+  {
+    "title": "La Chaux-de-Fonds Capitale culturelle suisse 2027 dévoile les premiers éléments de son programme",
+    "added_at": "2026-05-27T07:18:15.848Z"
   }
 ]
