@@ -85132,7 +85132,10 @@
   },
   {
     "title": "La Suisse bat la Finlande sur le fil et jouera la Suède en quarts de \"son\" Mondial",
-    "added_at": "2026-05-26T21:02:37.495Z"
+    "added_at": "2026-05-26T21:02:37.495Z",
+    "removed_at": "2026-05-28T16:26:30.299Z",
+    "duration_minutes": 2603,
+    "duration_str": "1d 19h 23m"
   },
   {
     "title": "A quoi ça sert d'écrire à la main ?",
@@ -85140,7 +85143,10 @@
   },
   {
     "title": "Mondial de hockey sur glace: la Suisse affronte la Finlande pour le dernier match de la phase préliminaire",
-    "added_at": "2026-05-26T22:22:17.521Z"
+    "added_at": "2026-05-26T22:22:17.521Z",
+    "removed_at": "2026-05-28T17:22:10.648Z",
+    "duration_minutes": 2579,
+    "duration_str": "1d 18h 59m"
   },
   {
     "title": "La Corée du Nord dit avoir testé un nouveau système de lance-missiles",
@@ -85594,7 +85600,10 @@
   },
   {
     "title": "Le Conseil de la Paix de Donald Trump au point mort",
-    "added_at": "2026-05-28T13:22:18.328Z"
+    "added_at": "2026-05-28T13:22:18.328Z",
+    "removed_at": "2026-05-28T16:21:41.726Z",
+    "duration_minutes": 179,
+    "duration_str": "2h 59m"
   },
   {
     "title": "L'attaque à l'arme blanche à la gare de Winterthour qualifiée d'\"acte terroriste\"",
@@ -85629,10 +85638,7 @@
   },
   {
     "title": "120 secondes - Comment protéger plus efficacement les enseignants contre les effets des températures élevées?",
-    "added_at": "2026-05-28T14:17:59.030Z",
-    "removed_at": "2026-05-28T15:23:24.025Z",
-    "duration_minutes": 65,
-    "duration_str": "1h 5m"
+    "added_at": "2026-05-28T14:17:59.030Z"
   },
   {
     "title": "Une cérémonie d'hommage s'est tenue à Blatten un an jour pour jour après l'éboulement",
@@ -85661,5 +85667,13 @@
   {
     "title": "Une attaque au couteau fait trois blessés à la gare de Winterthour",
     "added_at": "2026-05-28T15:23:24.025Z"
+  },
+  {
+    "title": "Un décès suspect de bébé signalé en Suisse dans le scandale du lait contaminé",
+    "added_at": "2026-05-28T16:26:30.299Z"
+  },
+  {
+    "title": "Ici la Suisse - Des vaudoises se qualifient pour la finale du concours entrepreneurial de jeunes talents \"YES\"",
+    "added_at": "2026-05-28T17:22:10.648Z"
   }
 ]
