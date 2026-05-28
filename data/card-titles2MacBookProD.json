@@ -81601,10 +81601,7 @@
   },
   {
     "title": "monde:::«Je ne travaille que pour manger»: à Téhéran, la détresse des Iraniens coupés d’internet, soumis à l’inflation et à un chômage qui explose",
-    "added_at": "2026-05-25T15:03:01.399Z",
-    "removed_at": "2026-05-28T10:03:32.221Z",
-    "duration_minutes": 4020,
-    "duration_str": "2d 19h"
+    "added_at": "2026-05-25T15:03:01.399Z"
   },
   {
     "title": "suisse:::Philippe Eggimann: «Sans un apport continu de médecins venus de l’étranger, notre système de santé implosera»",
@@ -82314,7 +82311,10 @@
   },
   {
     "title": "culture:::Carouge coupe les vivres de l’Alchimic, théâtre genevois en pleines turbulences",
-    "added_at": "2026-05-27T17:58:57.506Z"
+    "added_at": "2026-05-27T17:58:57.506Z",
+    "removed_at": "2026-05-28T13:05:08.327Z",
+    "duration_minutes": 1146,
+    "duration_str": "19h 6m"
   },
   {
     "title": "monde:::Décapité par Israël, le Hamas prépare sa mue",
@@ -82368,7 +82368,10 @@
   },
   {
     "title": "economie:::Fans outrés et titre chahuté en bourse: les débuts houleux de la Luce, premier modèle 100% électrique de Ferrari",
-    "added_at": "2026-05-28T03:32:04.048Z"
+    "added_at": "2026-05-28T03:32:04.048Z",
+    "removed_at": "2026-05-28T10:35:13.530Z",
+    "duration_minutes": 423,
+    "duration_str": "7h 3m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis frappent l'Iran, les Gardiens de la Révolution répliquent en visant une base américaine",
@@ -82386,7 +82389,10 @@
   },
   {
     "title": "suisse:::Les CFF, ce géant de l’immobilier qui façonne les villes suisses",
-    "added_at": "2026-05-28T04:20:17.082Z"
+    "added_at": "2026-05-28T04:20:17.082Z",
+    "removed_at": "2026-05-28T12:48:13.792Z",
+    "duration_minutes": 507,
+    "duration_str": "8h 27m"
   },
   {
     "title": "suisse:::A Renens, les CFF ont construit une ville dans la ville pour le meilleur et pour le pire",
@@ -82402,11 +82408,17 @@
   },
   {
     "title": "economie:::Malgré la guerre des prix, les produits Fairtrade poursuivent leur croissance en Suisse",
-    "added_at": "2026-05-28T05:03:53.491Z"
+    "added_at": "2026-05-28T05:03:53.491Z",
+    "removed_at": "2026-05-28T11:25:54.551Z",
+    "duration_minutes": 382,
+    "duration_str": "6h 22m"
   },
   {
     "title": "suisse:::A Zurich, là où l’empire immobilier des CFF est le plus visible",
-    "added_at": "2026-05-28T05:03:53.491Z"
+    "added_at": "2026-05-28T05:03:53.491Z",
+    "removed_at": "2026-05-28T12:55:29.595Z",
+    "duration_minutes": 471,
+    "duration_str": "7h 51m"
   },
   {
     "title": "suisse:::Une soirée au congrès de l’initiative Boussole, avec la frange de l’économie qui déteste l’Europe",
@@ -82443,11 +82455,17 @@
   },
   {
     "title": "culture:::«La Guérisseuse de Catane», de la romancière Simona Lo Iacono, imagine la vie d'une médecin pionnière qui a bien existé",
-    "added_at": "2026-05-28T08:10:00.838Z"
+    "added_at": "2026-05-28T08:10:00.838Z",
+    "removed_at": "2026-05-28T11:21:06.776Z",
+    "duration_minutes": 191,
+    "duration_str": "3h 11m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’Iran dénonce des «violations» du cessez-le-feu par les Etats-Unis après les frappes dans le sud",
-    "added_at": "2026-05-28T08:53:28.601Z"
+    "added_at": "2026-05-28T08:53:28.601Z",
+    "removed_at": "2026-05-28T12:11:55.120Z",
+    "duration_minutes": 198,
+    "duration_str": "3h 18m"
   },
   {
     "title": "sciences:::Contrairement aux rumeurs, les nouveaux scénarios climatiques n’ont rien de rassurant",
@@ -82459,6 +82477,33 @@
   },
   {
     "title": "culture:::Le romancier Mircea Cărtărescu: «Je voulais ressembler aux Beatles»",
-    "added_at": "2026-05-28T10:01:06.140Z"
+    "added_at": "2026-05-28T10:01:06.140Z",
+    "removed_at": "2026-05-28T12:55:29.595Z",
+    "duration_minutes": 174,
+    "duration_str": "2h 54m"
+  },
+  {
+    "title": "economie:::Nouveaux doutes sur l’origine russe de l’uranium utilisé dans les centrales nucléaires suisses",
+    "added_at": "2026-05-28T10:35:13.530Z"
+  },
+  {
+    "title": "suisse:::Luigi Sartorelli, l’artisan ébéniste élu à la syndicature de Prilly",
+    "added_at": "2026-05-28T11:21:06.776Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L'Iran et les Etats-Unis s'accusent mutuellement d'avoir violé le cessez-le-feu",
+    "added_at": "2026-05-28T12:11:55.120Z"
+  },
+  {
+    "title": "suisse:::En graphiques – Les CFF, ce géant de l’immobilier qui façonne les villes suisses",
+    "added_at": "2026-05-28T12:48:13.792Z"
+  },
+  {
+    "title": "economie:::Une société genevoise se serait enrichie à millions après avoir fait passer du pétrole par le détroit d’Ormuz",
+    "added_at": "2026-05-28T12:55:29.595Z"
+  },
+  {
+    "title": "culture:::Le festival Usinesonore, 20 ans de «joyeuses bizarreries» dans le Jura bernois",
+    "added_at": "2026-05-28T13:05:08.327Z"
   }
 ]
