@@ -84881,7 +84881,10 @@
   },
   {
     "title": "Une vague de chaleur inédite en mai qui révèle une extension de la période des canicules",
-    "added_at": "2026-05-26T10:57:32.683Z"
+    "added_at": "2026-05-26T10:57:32.683Z",
+    "removed_at": "2026-05-27T23:47:33.009Z",
+    "duration_minutes": 2210,
+    "duration_str": "1d 12h 50m"
   },
   {
     "title": "Le Musée d'ethnographie de Genève dévoile 'Le futur, c'est quoi?', une exposition visionnaire",
@@ -85328,7 +85331,10 @@
   },
   {
     "title": "Israël déclare \"zone de combat\" une grande partie du sud du Liban",
-    "added_at": "2026-05-27T20:17:02.772Z"
+    "added_at": "2026-05-27T20:17:02.772Z",
+    "removed_at": "2026-05-28T01:31:13.638Z",
+    "duration_minutes": 314,
+    "duration_str": "5h 14m"
   },
   {
     "title": "Affaire Patrick Bruel: interview de Priscille Alber, directrice de festival",
@@ -85349,5 +85355,13 @@
   {
     "title": "Pourquoi fait-il déjà si chaud, en mai ?",
     "added_at": "2026-05-27T22:25:16.164Z"
+  },
+  {
+    "title": "Une représentation avec Patrick Bruel interrompue plusieurs minutes à Paris",
+    "added_at": "2026-05-27T23:47:33.009Z"
+  },
+  {
+    "title": "Les Etats-Unis mènent de nouvelles frappes \"défensives\" sur le sud de l'Iran",
+    "added_at": "2026-05-28T01:31:13.638Z"
   }
 ]
