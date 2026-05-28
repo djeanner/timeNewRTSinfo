@@ -84847,10 +84847,7 @@
   },
   {
     "title": "L'invitée de La Matinale (vidéo) - Anne Emery-Torracinta, sur l'implication de la Suisse dans le génocide des Tutsi au Rwanda",
-    "added_at": "2026-05-26T09:18:30.238Z",
-    "removed_at": "2026-05-28T15:23:24.025Z",
-    "duration_minutes": 3244,
-    "duration_str": "2d 6h 4m"
+    "added_at": "2026-05-26T09:18:30.238Z"
   },
   {
     "title": "Plusieurs victimes dans une collision entre un train et un car scolaire en Belgique",
@@ -85029,7 +85026,10 @@
   },
   {
     "title": "En Belgique, un minibus scolaire a été percuté par un train ce matin",
-    "added_at": "2026-05-26T16:23:55.212Z"
+    "added_at": "2026-05-26T16:23:55.212Z",
+    "removed_at": "2026-05-28T21:02:35.651Z",
+    "duration_minutes": 3158,
+    "duration_str": "2d 4h 38m"
   },
   {
     "title": "A Genève, le bras de fer entre la coalition No-G7 et les autorités prend une tournure judiciaire",
@@ -85100,7 +85100,10 @@
   },
   {
     "title": "Ferrari veut convaincre avec la 'Luce', son premier bolide entièrement électrique",
-    "added_at": "2026-05-26T19:11:06.690Z"
+    "added_at": "2026-05-26T19:11:06.690Z",
+    "removed_at": "2026-05-28T20:02:10.839Z",
+    "duration_minutes": 2931,
+    "duration_str": "2d 51m"
   },
   {
     "title": "A quoi ça sert d'écrire à la main?",
@@ -85171,7 +85174,10 @@
   },
   {
     "title": "Quatre patients greffés lors d'une opération franco-suisse inédite",
-    "added_at": "2026-05-27T04:24:17.272Z"
+    "added_at": "2026-05-27T04:24:17.272Z",
+    "removed_at": "2026-05-28T21:00:08.147Z",
+    "duration_minutes": 2435,
+    "duration_str": "1d 16h 35m"
   },
   {
     "title": "\"Je le voyais emmener des femmes aux toilettes\": une Romande témoigne des agissements de Patrick Bruel en 2012",
@@ -85222,7 +85228,10 @@
   },
   {
     "title": "Neutralité et alimentation au menu des votations du 27 septembre",
-    "added_at": "2026-05-27T10:05:41.454Z"
+    "added_at": "2026-05-27T10:05:41.454Z",
+    "removed_at": "2026-05-28T18:52:03.206Z",
+    "duration_minutes": 1966,
+    "duration_str": "1d 8h 46m"
   },
   {
     "title": "Le Conseil fédéral prolonge les indemnisations en cas de RHT",
@@ -85233,11 +85242,17 @@
   },
   {
     "title": "L'échange de données entre les services de police fait débat",
-    "added_at": "2026-05-27T10:15:22.256Z"
+    "added_at": "2026-05-27T10:15:22.256Z",
+    "removed_at": "2026-05-28T19:59:49.070Z",
+    "duration_minutes": 2024,
+    "duration_str": "1d 9h 44m"
   },
   {
     "title": "Usinesonore célèbre ses 20 ans et s’apprête à faire vibrer La Neuveville",
-    "added_at": "2026-05-27T10:25:02.645Z"
+    "added_at": "2026-05-27T10:25:02.645Z",
+    "removed_at": "2026-05-28T19:30:48.290Z",
+    "duration_minutes": 1985,
+    "duration_str": "1d 9h 5m"
   },
   {
     "title": "Le Tribunal cantonal désavoue Pascal Broulis dans l'affaire qui l'oppose à Tamedia",
@@ -85476,7 +85491,10 @@
   },
   {
     "title": "Regain de tension entre l'Iran et les Etats-Unis après des échanges de frappes",
-    "added_at": "2026-05-28T04:05:48.439Z"
+    "added_at": "2026-05-28T04:05:48.439Z",
+    "removed_at": "2026-05-28T19:13:51.100Z",
+    "duration_minutes": 908,
+    "duration_str": "15h 8m"
   },
   {
     "title": "Il y a un an, le village de Blatten était rayé de la carte",
@@ -85675,5 +85693,32 @@
   {
     "title": "Ici la Suisse - Des vaudoises se qualifient pour la finale du concours entrepreneurial de jeunes talents \"YES\"",
     "added_at": "2026-05-28T17:22:10.648Z"
+  },
+  {
+    "title": "L'Europe de l'Ouest bat des records de chaleur inédits en mai",
+    "added_at": "2026-05-28T18:52:03.206Z"
+  },
+  {
+    "title": "Une prolongation du cessez-le-feu entre Iran et USA attend la validation de Donald Trump",
+    "added_at": "2026-05-28T19:13:51.100Z"
+  },
+  {
+    "title": "Le 2M2C achève sa grande rénovation et est prêt à accueillir le Montreux Jazz Festival",
+    "added_at": "2026-05-28T19:30:48.290Z"
+  },
+  {
+    "title": "La tour RTS à Genève vendue à la Fondation Wilsdorf pour 150 millions de francs",
+    "added_at": "2026-05-28T19:59:49.070Z"
+  },
+  {
+    "title": "La Suisse bat la Suède 3-1 et affrontera la Norvège en demi-finales",
+    "added_at": "2026-05-28T21:00:08.147Z",
+    "removed_at": "2026-05-28T21:02:35.651Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "La Suisse bat la Suède 3-1 et affrontera la Norvège en demi-finale",
+    "added_at": "2026-05-28T21:02:35.651Z"
   }
 ]
