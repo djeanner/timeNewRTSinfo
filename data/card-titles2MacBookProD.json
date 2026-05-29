@@ -81952,7 +81952,10 @@
   },
   {
     "title": "monde:::Incursions de drones: «Il ne s’agit pas d’incidents isolés, mais d’une stratégie délibérée de Moscou pour déstabiliser nos démocraties», dénonce Ursula von der Leyen",
-    "added_at": "2026-05-26T17:24:26.390Z"
+    "added_at": "2026-05-26T17:24:26.390Z",
+    "removed_at": "2026-05-29T13:24:27.862Z",
+    "duration_minutes": 4080,
+    "duration_str": "2d 20h"
   },
   {
     "title": "monde:::Guerre en Ukraine: Vladimir Poutine durcit le ton contre Kiev après une attaque meurtrière, mais peine à convaincre des faucons de plus en plus critiques",
@@ -82019,10 +82022,7 @@
   },
   {
     "title": "monde:::Dans la confusion la plus totale, Donald Trump propose d’élargir les Accords d’Abraham à plusieurs pays musulmans, dont l’Iran, pour mettre fin à la guerre avec Téhéran",
-    "added_at": "2026-05-26T18:44:31.567Z",
-    "removed_at": "2026-05-28T14:51:52.370Z",
-    "duration_minutes": 2647,
-    "duration_str": "1d 20h 7m"
+    "added_at": "2026-05-26T18:44:31.567Z"
   },
   {
     "title": "monde:::Hadj sous haute tension politique en Arabie saoudite, pressée par Donald Trump de normaliser son lien avec Israël",
@@ -82545,10 +82545,7 @@
   },
   {
     "title": "economie:::Une société genevoise se serait enrichie à millions après avoir fait passer du pétrole par le détroit d’Ormuz",
-    "added_at": "2026-05-28T12:55:29.595Z",
-    "removed_at": "2026-05-28T13:53:50.829Z",
-    "duration_minutes": 58,
-    "duration_str": "58m"
+    "added_at": "2026-05-28T12:55:29.595Z"
   },
   {
     "title": "culture:::Le festival Usinesonore, 20 ans de «joyeuses bizarreries» dans le Jura bernois",
@@ -82745,7 +82742,10 @@
   },
   {
     "title": "suisse:::«Merci, au revoir, et bon débarras!»: le parlement genevois refuse d’interdire d’office les manifestations pendant le G7",
-    "added_at": "2026-05-29T01:18:45.328Z"
+    "added_at": "2026-05-29T01:18:45.328Z",
+    "removed_at": "2026-05-29T13:19:38.492Z",
+    "duration_minutes": 720,
+    "duration_str": "12h"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis et l’Iran ont fait «beaucoup de progrès» vers un accord, selon J.D. Vance",
@@ -82782,11 +82782,17 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Roumanie dénonce une «grave escalade» de la Russie après une attaque de drone",
-    "added_at": "2026-05-29T04:56:05.944Z"
+    "added_at": "2026-05-29T04:56:05.944Z",
+    "removed_at": "2026-05-29T11:16:01.140Z",
+    "duration_minutes": 379,
+    "duration_str": "6h 19m"
   },
   {
     "title": "suisse:::Civilistes: auxiliaires indispensables ou profiteurs du système?",
-    "added_at": "2026-05-29T05:05:47.476Z"
+    "added_at": "2026-05-29T05:05:47.476Z",
+    "removed_at": "2026-05-29T12:06:43.886Z",
+    "duration_minutes": 420,
+    "duration_str": "7h"
   },
   {
     "title": "monde:::Dans les zones occupées, Moscou accélère la saisie des biens immobiliers des Ukrainiens qui ont fui",
@@ -82813,7 +82819,10 @@
   },
   {
     "title": "suisse:::Le service de psychiatrie de Winterthour, qui a laissé sortir l'auteur des coups de couteau, lance une enquête externe",
-    "added_at": "2026-05-29T08:43:26.845Z"
+    "added_at": "2026-05-29T08:43:26.845Z",
+    "removed_at": "2026-05-29T11:03:52.922Z",
+    "duration_minutes": 140,
+    "duration_str": "2h 20m"
   },
   {
     "title": "economie:::Noémie Goldman, une carrière à cent à l’heure pour l’architecte lausannoise",
@@ -82824,7 +82833,10 @@
   },
   {
     "title": "monde:::Les Européens, impuissants face aux incursions de drones russes et ukrainiens? Un nouvel incident en Roumanie relance le débat",
-    "added_at": "2026-05-29T09:19:49.317Z"
+    "added_at": "2026-05-29T09:19:49.317Z",
+    "removed_at": "2026-05-29T12:50:22.178Z",
+    "duration_minutes": 210,
+    "duration_str": "3h 30m"
   },
   {
     "title": "suisse:::Elections fribourgeoises: les congrès du Centre et du PS promettent tensions et messages forts",
@@ -82837,5 +82849,21 @@
   {
     "title": "sciences:::Les déchets sont une mine de matériaux jugés critiques pour l’Europe",
     "added_at": "2026-05-29T10:15:20.440Z"
+  },
+  {
+    "title": "sport:::En demi-finale du Mondial de hockey sur glace, la Suisse face à l’irrationnel (et à la Norvège)",
+    "added_at": "2026-05-29T11:03:52.922Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Les alliés de l'OTAN condamnent Moscou après qu'un drone russe a touché un immeuble en Roumanie",
+    "added_at": "2026-05-29T11:16:01.140Z"
+  },
+  {
+    "title": "monde:::Les Européens, impuissants face aux incursions de drones russes et ukrainiens? Un nouvel incident en Roumanie provoque des tensions",
+    "added_at": "2026-05-29T12:50:22.178Z"
+  },
+  {
+    "title": "monde:::«Pour votre sécurité, évacuez»: ces rares messages israéliens qui redessinent le Liban sous les bombes",
+    "added_at": "2026-05-29T13:19:38.492Z"
   }
 ]
