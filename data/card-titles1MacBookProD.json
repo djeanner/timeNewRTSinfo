@@ -85567,7 +85567,10 @@
   },
   {
     "title": "Pourquoi fait-il déjà si chaud, en mai ?",
-    "added_at": "2026-05-27T22:25:16.164Z"
+    "added_at": "2026-05-27T22:25:16.164Z",
+    "removed_at": "2026-05-30T10:08:29.658Z",
+    "duration_minutes": 3583,
+    "duration_str": "2d 11h 43m"
   },
   {
     "title": "Une représentation avec Patrick Bruel interrompue plusieurs minutes à Paris",
@@ -85708,7 +85711,10 @@
   },
   {
     "title": "Quels sont les effets sur les assurances sociales en cas d'acceptation de la votation \"Pas de Suisse à 10 millions\"?",
-    "added_at": "2026-05-28T10:03:32.157Z"
+    "added_at": "2026-05-28T10:03:32.157Z",
+    "removed_at": "2026-05-30T09:01:01.685Z",
+    "duration_minutes": 2817,
+    "duration_str": "1d 22h 57m"
   },
   {
     "title": "Le nucléaire suisse reste dépendant de la Russie, déplore Greenpeace",
@@ -85797,15 +85803,24 @@
   },
   {
     "title": "Des entreprises suisses accusées par Washington de blanchir l'argent du pétrole iranien",
-    "added_at": "2026-05-28T14:05:54.288Z"
+    "added_at": "2026-05-28T14:05:54.288Z",
+    "removed_at": "2026-05-30T08:20:07.878Z",
+    "duration_minutes": 2534,
+    "duration_str": "1d 18h 14m"
   },
   {
     "title": "Jannik Sinner s'incline dès le 2e tour de Roland-Garros",
-    "added_at": "2026-05-28T14:08:16.265Z"
+    "added_at": "2026-05-28T14:08:16.265Z",
+    "removed_at": "2026-05-30T10:10:54.555Z",
+    "duration_minutes": 2642,
+    "duration_str": "1d 20h 2m"
   },
   {
     "title": "Un premier bilan positif pour Fribourg, qui a accueilli les stars du hockey à la maison",
-    "added_at": "2026-05-28T14:15:33.079Z"
+    "added_at": "2026-05-28T14:15:33.079Z",
+    "removed_at": "2026-05-30T08:58:36.468Z",
+    "duration_minutes": 2563,
+    "duration_str": "1d 18h 43m"
   },
   {
     "title": "120 secondes - Comment protéger plus efficacement les enseignants contre les effets des températures élevées?",
@@ -85831,11 +85846,17 @@
   },
   {
     "title": "Benjamin Netanyahu donne l'ordre à l'armée israélienne de prendre 70% de la bande de Gaza",
-    "added_at": "2026-05-28T15:13:36.953Z"
+    "added_at": "2026-05-28T15:13:36.953Z",
+    "removed_at": "2026-05-30T09:51:39.256Z",
+    "duration_minutes": 2558,
+    "duration_str": "1d 18h 38m"
   },
   {
     "title": "Cinq étudiantes vaudoises en finale du concours suisse des jeunes entrepreneurs YES",
-    "added_at": "2026-05-28T15:18:28.887Z"
+    "added_at": "2026-05-28T15:18:28.887Z",
+    "removed_at": "2026-05-30T08:00:54.461Z",
+    "duration_minutes": 2442,
+    "duration_str": "1d 16h 42m"
   },
   {
     "title": "Blatten - 1 an",
@@ -85870,7 +85891,10 @@
   },
   {
     "title": "La tour RTS à Genève vendue à la Fondation Wilsdorf pour 150 millions de francs",
-    "added_at": "2026-05-28T19:59:49.070Z"
+    "added_at": "2026-05-28T19:59:49.070Z",
+    "removed_at": "2026-05-30T08:29:50.231Z",
+    "duration_minutes": 2190,
+    "duration_str": "1d 12h 30m"
   },
   {
     "title": "La Suisse bat la Suède 3-1 et affrontera la Norvège en demi-finales",
@@ -85999,10 +86023,7 @@
   },
   {
     "title": "Les précisions d'Emilien Verdon à Blatten (VS)",
-    "added_at": "2026-05-29T11:03:52.853Z",
-    "removed_at": "2026-05-29T21:22:30.843Z",
-    "duration_minutes": 618,
-    "duration_str": "10h 18m"
+    "added_at": "2026-05-29T11:03:52.853Z"
   },
   {
     "title": "Même sans lien avec le terrorisme, des patients peuvent \"commettre des actes délictueux\"",
@@ -86228,5 +86249,40 @@
   {
     "title": "\"Braconnier du savoir\", le sociologue et philosophe Edgar Morin est décédé à l'âge de 104 ans",
     "added_at": "2026-05-30T07:43:49.655Z"
+  },
+  {
+    "title": "Une marque retourne l'insulte d'\"homme-soja\" à son avantage et piège des influenceurs masculinistes",
+    "added_at": "2026-05-30T08:00:54.461Z"
+  },
+  {
+    "title": "La Coupe du monde de football 2026, la plus polluante de l'Histoire",
+    "added_at": "2026-05-30T08:20:07.878Z"
+  },
+  {
+    "title": "'Mata' de Rachel Lang, thriller psychologique qui plonge dans le monde trouble de l'espionnage",
+    "added_at": "2026-05-30T08:29:50.231Z"
+  },
+  {
+    "title": "Nouveau record de détenus en France, mise en garde sur les conditions de vie dans ses prisons",
+    "added_at": "2026-05-30T08:58:36.468Z"
+  },
+  {
+    "title": "Les passagers de deux TGV passent la nuit bloqués sur les rails en Bourgogne",
+    "added_at": "2026-05-30T09:51:39.256Z"
+  },
+  {
+    "title": "Serge Zaka – Comment adapter l’agriculture au dérèglement climatique ?",
+    "added_at": "2026-05-30T10:01:15.767Z",
+    "removed_at": "2026-05-30T10:18:08.660Z",
+    "duration_minutes": 16,
+    "duration_str": "16m"
+  },
+  {
+    "title": "L'armée suisse veut réduire sa dépendance spatiale aux pays étrangers",
+    "added_at": "2026-05-30T10:10:54.555Z"
+  },
+  {
+    "title": "Une marque de produits à base de soja fait tourner en bourrique les influenceurs masculinistes",
+    "added_at": "2026-05-30T10:18:08.660Z"
   }
 ]
