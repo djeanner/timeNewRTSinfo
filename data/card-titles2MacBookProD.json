@@ -83420,7 +83420,10 @@
   },
   {
     "title": "sport:::Pour la Nati, une fin de match chaotique avant une Coupe du monde qui risque de l’être tout autant",
-    "added_at": "2026-05-31T16:04:55.690Z"
+    "added_at": "2026-05-31T16:04:55.690Z",
+    "removed_at": "2026-05-31T22:41:27.540Z",
+    "duration_minutes": 396,
+    "duration_str": "6h 36m"
   },
   {
     "title": "sport:::En direct, Mondial de hockey – La Suisse à un match d'un sacre historique. Suivez avec nous la finale contre la Finlande",
@@ -83431,7 +83434,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Une réunion d’urgence du Conseil de sécurité de l’ONU se tiendra lundi à la demande de Paris",
-    "added_at": "2026-05-31T16:38:51.520Z"
+    "added_at": "2026-05-31T16:38:51.520Z",
+    "removed_at": "2026-05-31T23:12:50.369Z",
+    "duration_minutes": 393,
+    "duration_str": "6h 33m"
   },
   {
     "title": "suisse:::Le Royaume-Uni post-Brexit: l’illustration de ce que pourrait devenir une «Suisse à 10 millions»",
@@ -83472,10 +83478,25 @@
   },
   {
     "title": "sport:::En direct, Mondial de hockey – La grande désillusion: la Finlande est championne du monde au détriment de la Suisse",
-    "added_at": "2026-05-31T21:09:40.034Z"
+    "added_at": "2026-05-31T21:09:40.034Z",
+    "removed_at": "2026-05-31T22:05:17.593Z",
+    "duration_minutes": 55,
+    "duration_str": "55m"
   },
   {
     "title": "sport:::Quelle déception: la Suisse n’arrive toujours pas à être championne du monde de hockey",
     "added_at": "2026-05-31T21:16:53.705Z"
+  },
+  {
+    "title": "sport:::Mondial de hockey – La grande désillusion: la Finlande est championne du monde au détriment de la Suisse. Revivez notre direct",
+    "added_at": "2026-05-31T22:05:17.593Z"
+  },
+  {
+    "title": "culture:::Aux Athénéennes à Genève, Chapelier Fou se paie «Le Roi et l’Oiseau», chef-d’œuvre de Paul Grimault et Jacques Prévert",
+    "added_at": "2026-05-31T22:41:27.540Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Notre suivi de la semaine du 25 mai",
+    "added_at": "2026-05-31T23:12:50.369Z"
   }
 ]
