@@ -83681,7 +83681,10 @@
   },
   {
     "title": "suisse:::A Lausanne, un conducteur de trottinette électrique tue un piéton en tentant d’échapper à un contrôle de police",
-    "added_at": "2026-06-01T14:39:54.215Z"
+    "added_at": "2026-06-01T14:39:54.215Z",
+    "removed_at": "2026-06-02T00:39:55.472Z",
+    "duration_minutes": 600,
+    "duration_str": "10h"
   },
   {
     "title": "suisse:::Fait rarissime à Genève: le Grand Conseil décide de gracier un condamné contre l’avis de sa propre commission",
@@ -83696,7 +83699,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Pour éviter des pénuries, la Russie interdit l'exportation de carburant pour les avions",
-    "added_at": "2026-06-01T15:47:20.116Z"
+    "added_at": "2026-06-01T15:47:20.116Z",
+    "removed_at": "2026-06-02T01:42:25.333Z",
+    "duration_minutes": 595,
+    "duration_str": "9h 55m"
   },
   {
     "title": "sport:::Mondial de hockey: la Suisse peut-elle rebondir après cette nouvelle défaite en finale?",
@@ -83716,7 +83722,10 @@
   },
   {
     "title": "cyber:::La France annonce des investissements étrangers gigantesques en intelligence artificielle: révolution industrielle ou opération de communication?",
-    "added_at": "2026-06-01T17:21:25.043Z"
+    "added_at": "2026-06-01T17:21:25.043Z",
+    "removed_at": "2026-06-02T00:39:55.472Z",
+    "duration_minutes": 438,
+    "duration_str": "7h 18m"
   },
   {
     "title": "economie:::Les guerres dopent les investissements dans la sécurité énergétique",
@@ -83739,6 +83748,25 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Hezbollah aurait accepté une proposition américaine de «cessation mutuelle des attaques» avec Israël",
-    "added_at": "2026-06-01T20:58:18.794Z"
+    "added_at": "2026-06-01T20:58:18.794Z",
+    "removed_at": "2026-06-02T01:37:37.840Z",
+    "duration_minutes": 279,
+    "duration_str": "4h 39m"
+  },
+  {
+    "title": "monde:::En Colombie, Abelardo de La Espriella, nouvel exemple de l’ultra-droite latino-américaine, bouleverse la course à la présidence",
+    "added_at": "2026-06-02T00:39:55.472Z"
+  },
+  {
+    "title": "monde:::Après l’affaire Bétharram, les députés français votent pour davantage de contrôle des écoles privées",
+    "added_at": "2026-06-02T00:39:55.472Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le Hezbollah attaque l'armée israélienne dans le sud du Liban",
+    "added_at": "2026-06-02T01:37:37.840Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Une attaque russe dans  l'est de l'Ukraine fait quatre morts",
+    "added_at": "2026-06-02T01:42:25.333Z"
   }
 ]
