@@ -68300,10 +68300,7 @@
   },
   {
     "title": "economie:::Le propriétaire de PrimeEnergy soupçonné d’avoir tenté de mettre des actifs à l’abri",
-    "added_at": "2026-03-13T05:31:17.674Z",
-    "removed_at": "2026-03-14T15:39:59.586Z",
-    "duration_minutes": 2048,
-    "duration_str": "1d 10h 8m"
+    "added_at": "2026-03-13T05:31:17.674Z"
   },
   {
     "title": "monde:::En Israël, les «enfants de la frontière» avec le Liban divisés sur la fin prochaine du Hezbollah",
@@ -72010,7 +72007,10 @@
   },
   {
     "title": "monde:::A Gaza, le Hamas profite de la guerre entre Israël et l’Iran pour réaffirmer son autorité par la force",
-    "added_at": "2026-03-27T06:02:32.537Z"
+    "added_at": "2026-03-27T06:02:32.537Z",
+    "removed_at": "2026-06-02T13:35:20.984Z",
+    "duration_minutes": 96932,
+    "duration_str": "67d 7h 32m"
   },
   {
     "title": "monde:::Contre toute attente, le Hezbollah résiste âprement",
@@ -72637,10 +72637,7 @@
   },
   {
     "title": "economie:::La sœur de l’actionnaire principal de PrimeEnergy a été arrêtée à son tour",
-    "added_at": "2026-03-31T19:23:00.768Z",
-    "removed_at": "2026-04-23T16:18:07.827Z",
-    "duration_minutes": 32935,
-    "duration_str": "22d 20h 55m"
+    "added_at": "2026-03-31T19:23:00.768Z"
   },
   {
     "title": "suisse:::Grégoire Junod, syndic de Lausanne: «Selon toute vraisemblance, ce sera ma dernière législature»",
@@ -83669,7 +83666,10 @@
   },
   {
     "title": "culture:::«Impossible de développer un propos nuancé»: le livre de Boualem Sansal chez Grasset, révélateur d’une guerre culturelle qui ronge la France",
-    "added_at": "2026-06-01T13:39:31.542Z"
+    "added_at": "2026-06-01T13:39:31.542Z",
+    "removed_at": "2026-06-02T13:35:20.984Z",
+    "duration_minutes": 1435,
+    "duration_str": "23h 55m"
   },
   {
     "title": "culture:::De Fayard à Grasset, Vincent Bolloré parachève sa mainmise idéologique sur ses maisons d’édition",
@@ -83833,7 +83833,10 @@
   },
   {
     "title": "monde:::Pourquoi l’Europe ralentit malgré les espoirs de reprise",
-    "added_at": "2026-06-02T04:45:20.283Z"
+    "added_at": "2026-06-02T04:45:20.283Z",
+    "removed_at": "2026-06-02T12:47:11.883Z",
+    "duration_minutes": 481,
+    "duration_str": "8h 1m"
   },
   {
     "title": "monde:::Vladimir Poutine combat l’«Occident dégénéré», mais ses fils sont élevés en «vrais petits Européens cultivés»",
@@ -83841,14 +83844,14 @@
   },
   {
     "title": "monde:::A Washington, les célébrations trumpistes des 250 ans des Etats-Unis prennent forme",
-    "added_at": "2026-06-02T05:28:39.025Z"
+    "added_at": "2026-06-02T05:28:39.025Z",
+    "removed_at": "2026-06-02T13:11:12.279Z",
+    "duration_minutes": 462,
+    "duration_str": "7h 42m"
   },
   {
     "title": "monde:::«Les Français ont d’autres priorités que de savoir dans quel palace dormira Donald Trump»: à Evian, le G7 suscite agacements, espoirs et inquiétudes",
-    "added_at": "2026-06-02T06:09:46.825Z",
-    "removed_at": "2026-06-02T11:01:05.983Z",
-    "duration_minutes": 291,
-    "duration_str": "4h 51m"
+    "added_at": "2026-06-02T06:09:46.825Z"
   },
   {
     "title": "monde:::En Colombie, Abelardo de la Espriella, nouvel exemple de l’ultra-droite latino-américaine, bouleverse la course à la présidence",
@@ -83867,14 +83870,47 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Une importante attaque russe fait au moins 13 morts et une centaine de blessés",
-    "added_at": "2026-06-02T09:12:47.297Z"
+    "added_at": "2026-06-02T09:12:47.297Z",
+    "removed_at": "2026-06-02T11:20:30.152Z",
+    "duration_minutes": 127,
+    "duration_str": "2h 7m"
   },
   {
     "title": "sciences:::Un phénomène «El Niño» est quasi-certain, et il ne sera pas «faible»",
-    "added_at": "2026-06-02T10:44:11.917Z"
+    "added_at": "2026-06-02T10:44:11.917Z",
+    "removed_at": "2026-06-02T11:25:18.572Z",
+    "duration_minutes": 41,
+    "duration_str": "41m"
   },
   {
     "title": "monde:::Il veut fuir Gaza, elle y est revenue: deux Palestiniens disent le supplice d’une vie «dans la vermine et les rats»",
     "added_at": "2026-06-02T11:01:05.983Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Une importante attaque russe fait au moins 18 morts et une centaine de blessés",
+    "added_at": "2026-06-02T11:20:30.152Z"
+  },
+  {
+    "title": "sciences:::Un phénomène «El Niño» est quasi certain, et il ne sera pas «faible»",
+    "added_at": "2026-06-02T11:25:18.572Z"
+  },
+  {
+    "title": "culture:::Lire «La Légende» de Boualem Sansal et ramener les polémiques à leur marge",
+    "added_at": "2026-06-02T13:03:58.747Z",
+    "removed_at": "2026-06-02T13:44:55.866Z",
+    "duration_minutes": 40,
+    "duration_str": "40m"
+  },
+  {
+    "title": "monde:::Josiane Lei, une maire en première ligne avec le G7: «Evian sera la ville la plus sécurisée au monde»",
+    "added_at": "2026-06-02T13:11:12.279Z"
+  },
+  {
+    "title": "monde:::Le sort d’un étudiant menotté par la police après avoir été poignardé à mort indigne au Royaume-Uni",
+    "added_at": "2026-06-02T13:13:38.380Z"
+  },
+  {
+    "title": "economie:::Faillite de PrimeEnergy Cleantech: le frère de l’actionnaire affirme avoir été trompé",
+    "added_at": "2026-06-02T13:35:20.984Z"
   }
 ]
