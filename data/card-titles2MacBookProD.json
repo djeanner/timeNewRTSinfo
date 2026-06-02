@@ -83694,7 +83694,10 @@
   },
   {
     "title": "suisse:::Fait rarissime à Genève: le Grand Conseil décide de gracier un condamné contre l’avis de sa propre commission",
-    "added_at": "2026-06-01T15:01:34.183Z"
+    "added_at": "2026-06-01T15:01:34.183Z",
+    "removed_at": "2026-06-02T17:39:05.116Z",
+    "duration_minutes": 1597,
+    "duration_str": "1d 2h 37m"
   },
   {
     "title": "suisse:::Vaud s'attaque de front aux troubles du comportement à l'école obligatoire",
@@ -83825,7 +83828,10 @@
   },
   {
     "title": "suisse:::Chômage des frontaliers: le Tessin redoute une surcharge des ORP",
-    "added_at": "2026-06-02T04:14:08.487Z"
+    "added_at": "2026-06-02T04:14:08.487Z",
+    "removed_at": "2026-06-02T18:05:33.777Z",
+    "duration_minutes": 831,
+    "duration_str": "13h 51m"
   },
   {
     "title": "monde:::La France va «mettre la pression» sur la Suisse concernant le chômage des frontaliers",
@@ -83865,7 +83871,10 @@
   },
   {
     "title": "economie:::«On peut être heureux dans la peau d’un locataire et malheureux dans celle du propriétaire»",
-    "added_at": "2026-06-02T08:17:13.673Z"
+    "added_at": "2026-06-02T08:17:13.673Z",
+    "removed_at": "2026-06-02T16:36:24.284Z",
+    "duration_minutes": 499,
+    "duration_str": "8h 19m"
   },
   {
     "title": "sciences:::Pour la première fois, l’histoire des insectes en Suisse a été reconstituée depuis 1930",
@@ -83897,11 +83906,17 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Une importante attaque russe fait au moins 18 morts et une centaine de blessés",
-    "added_at": "2026-06-02T11:20:30.152Z"
+    "added_at": "2026-06-02T11:20:30.152Z",
+    "removed_at": "2026-06-02T16:43:38.230Z",
+    "duration_minutes": 323,
+    "duration_str": "5h 23m"
   },
   {
     "title": "sciences:::Un phénomène «El Niño» est quasi certain, et il ne sera pas «faible»",
-    "added_at": "2026-06-02T11:25:18.572Z"
+    "added_at": "2026-06-02T11:25:18.572Z",
+    "removed_at": "2026-06-02T19:10:33.513Z",
+    "duration_minutes": 465,
+    "duration_str": "7h 45m"
   },
   {
     "title": "culture:::Lire «La Légende» de Boualem Sansal et ramener les polémiques à leur marge",
@@ -83912,7 +83927,10 @@
   },
   {
     "title": "monde:::Josiane Lei, une maire en première ligne avec le G7: «Evian sera la ville la plus sécurisée au monde»",
-    "added_at": "2026-06-02T13:11:12.279Z"
+    "added_at": "2026-06-02T13:11:12.279Z",
+    "removed_at": "2026-06-02T18:44:06.494Z",
+    "duration_minutes": 332,
+    "duration_str": "5h 32m"
   },
   {
     "title": "monde:::Le sort d’un étudiant menotté par la police après avoir été poignardé à mort indigne au Royaume-Uni",
@@ -83939,6 +83957,69 @@
   },
   {
     "title": "monde:::Ligne jaune, ligne orange… «Israël n’est pas plus protégé s’il contrôle 50, 60 ou 70% de Gaza»",
-    "added_at": "2026-06-02T16:02:25.954Z"
+    "added_at": "2026-06-02T16:02:25.954Z",
+    "removed_at": "2026-06-02T17:48:45.828Z",
+    "duration_minutes": 106,
+    "duration_str": "1h 46m"
+  },
+  {
+    "title": "suisse:::Un gradé de Champ-Dollon est condamné pour avoir violemment giflé un détenu trop bruyant avant de trafiquer son rapport",
+    "added_at": "2026-06-02T16:36:24.284Z",
+    "removed_at": "2026-06-02T17:00:33.193Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Kiev ordonne l'évacuation de milliers de civils dans la région de Kharkiv",
+    "added_at": "2026-06-02T16:43:38.230Z"
+  },
+  {
+    "title": "sport:::Alexandre Zverev résiste à la pression, écarte Rafael Jodar et s’affirme en favori de Roland-Garros",
+    "added_at": "2026-06-02T16:58:06.961Z",
+    "removed_at": "2026-06-02T17:46:19.466Z",
+    "duration_minutes": 48,
+    "duration_str": "48m"
+  },
+  {
+    "title": "suisse:::Un gradé de Champ-Dollon condamné pour avoir violemment giflé un détenu trop bruyant avant de trafiquer son rapport d'incident",
+    "added_at": "2026-06-02T17:00:33.193Z",
+    "removed_at": "2026-06-02T17:19:48.157Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
+  },
+  {
+    "title": "suisse:::Un gradé de Champ-Dollon est condamné pour avoir violemment giflé un détenu trop bruyant avant de trafiquer son rapport d'incident",
+    "added_at": "2026-06-02T17:19:48.157Z"
+  },
+  {
+    "title": "suisse:::Pascal Jaussi, fondateur de S3, se défend au tribunal: «Jamais je n’aurais piétiné vos rêves pour réaliser les miens»",
+    "added_at": "2026-06-02T17:39:05.116Z"
+  },
+  {
+    "title": "suisse:::Le Conseil national veut avoir à l’œil les activités de la Finma",
+    "added_at": "2026-06-02T17:46:19.466Z",
+    "removed_at": "2026-06-02T18:46:27.796Z",
+    "duration_minutes": 60,
+    "duration_str": "1h"
+  },
+  {
+    "title": "monde:::«Tu es complètement dingue»: Trump-Netanyahou, un duo en crise dans la guerre en Iran",
+    "added_at": "2026-06-02T17:46:19.466Z"
+  },
+  {
+    "title": "economie:::Perquisition dans les locaux genevois de Gunvor",
+    "added_at": "2026-06-02T17:48:45.828Z"
+  },
+  {
+    "title": "cyber:::La plainte contre OpenAI «peut avoir des conséquences juridiques dévastatrices et imposer de réels changements au sein de ChatGPT»",
+    "added_at": "2026-06-02T18:05:33.777Z"
+  },
+  {
+    "title": "culture:::«Siri Hustvedt – Dance Around the Self», un documentaire pour mettre en lumière l’écrivaine américaine, épouse de Paul Auster",
+    "added_at": "2026-06-02T18:44:06.494Z"
+  },
+  {
+    "title": "monde:::Un «pays druze»? Ce qu’Israël pourrait dessiner au Liban",
+    "added_at": "2026-06-02T18:46:27.796Z"
   }
 ]
