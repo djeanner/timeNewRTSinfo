@@ -82795,7 +82795,10 @@
   },
   {
     "title": "monde:::«J’en ai marre de la bêtise»: ces républicains qui défient Donald Trump au Congrès",
-    "added_at": "2026-05-29T04:34:23.179Z"
+    "added_at": "2026-05-29T04:34:23.179Z",
+    "removed_at": "2026-06-03T04:10:51.485Z",
+    "duration_minutes": 7176,
+    "duration_str": "4d 23h 36m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – La Roumanie, membre de l'Otan, affirme qu'un drone russe a frappé un immeuble sur son territoire",
@@ -83557,10 +83560,7 @@
   },
   {
     "title": "suisse:::«Il serait très difficile de faire fonctionner un hôpital sans nous»: à Morges, le personnel étranger est une question de survie",
-    "added_at": "2026-06-01T04:13:47.085Z",
-    "removed_at": "2026-06-02T04:45:20.283Z",
-    "duration_minutes": 1471,
-    "duration_str": "1d 31m"
+    "added_at": "2026-06-01T04:13:47.085Z"
   },
   {
     "title": "cyber:::Ne payez surtout pas pour les nouveaux abonnements de WhatsApp, Facebook et Instagram. Ils sont le début d’une spirale qui s’annonce infernale",
@@ -83858,7 +83858,10 @@
   },
   {
     "title": "monde:::Vladimir Poutine combat l’«Occident dégénéré», mais ses fils sont élevés en «vrais petits Européens cultivés»",
-    "added_at": "2026-06-02T05:04:33.187Z"
+    "added_at": "2026-06-02T05:04:33.187Z",
+    "removed_at": "2026-06-03T04:54:09.335Z",
+    "duration_minutes": 1429,
+    "duration_str": "23h 49m"
   },
   {
     "title": "monde:::A Washington, les célébrations trumpistes des 250 ans des Etats-Unis prennent forme",
@@ -83922,7 +83925,10 @@
   },
   {
     "title": "sciences:::Un phénomène «El Niño» est quasi certain, et il ne sera pas «faible»",
-    "added_at": "2026-06-02T11:25:18.572Z"
+    "added_at": "2026-06-02T11:25:18.572Z",
+    "removed_at": "2026-06-03T04:25:16.032Z",
+    "duration_minutes": 1019,
+    "duration_str": "16h 59m"
   },
   {
     "title": "culture:::Lire «La Légende» de Boualem Sansal et ramener les polémiques à leur marge",
@@ -84035,11 +84041,17 @@
   },
   {
     "title": "monde:::Un «pays druze»? Ce qu’Israël pourrait dessiner au Liban",
-    "added_at": "2026-06-02T18:46:27.796Z"
+    "added_at": "2026-06-02T18:46:27.796Z",
+    "removed_at": "2026-06-03T04:15:43.354Z",
+    "duration_minutes": 569,
+    "duration_str": "9h 29m"
   },
   {
     "title": "culture:::Dans son 20e album, «The Boys of Dungeon Lane», Paul McCartney soigne sa nostalgie d’ex-Beatles",
-    "added_at": "2026-06-02T19:25:13.681Z"
+    "added_at": "2026-06-02T19:25:13.681Z",
+    "removed_at": "2026-06-03T04:13:16.421Z",
+    "duration_minutes": 528,
+    "duration_str": "8h 48m"
   },
   {
     "title": "monde:::Pour diriger le renseignement national, Donald Trump nomme Bill Pulte, un des ses proches sans expérience dans le domaine",
@@ -84051,9 +84063,9 @@
   {
     "title": "monde:::Pour diriger le renseignement national, Donald Trump nomme Bill Pulte, un de ses proches sans expérience dans le domaine",
     "added_at": "2026-06-02T20:35:02.362Z",
-    "removed_at": "2026-06-03T03:03:20.375Z",
-    "duration_minutes": 388,
-    "duration_str": "6h 28m"
+    "removed_at": "2026-06-03T04:56:36.394Z",
+    "duration_minutes": 501,
+    "duration_str": "8h 21m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump affirme que les discussions avec l’Iran se poursuivent",
@@ -84079,10 +84091,39 @@
   },
   {
     "title": "monde:::L’administration Trump renonce à son fonds anti-instrumentalisation",
-    "added_at": "2026-06-03T03:03:20.375Z"
+    "added_at": "2026-06-03T03:03:20.375Z",
+    "removed_at": "2026-06-03T04:13:16.421Z",
+    "duration_minutes": 69,
+    "duration_str": "1h 9m"
   },
   {
     "title": "culture:::Au Blues Rules Crissier Festival, Super Chikan, un homme au parfum de légende venu du Mississippi",
-    "added_at": "2026-06-03T03:05:41.765Z"
+    "added_at": "2026-06-03T03:05:41.765Z",
+    "removed_at": "2026-06-03T05:47:05.605Z",
+    "duration_minutes": 161,
+    "duration_str": "2h 41m"
+  },
+  {
+    "title": "suisse:::Le non gagne du terrain face à l’initiative «Pas de Suisse à 10 millions!»",
+    "added_at": "2026-06-03T04:10:51.485Z"
+  },
+  {
+    "title": "suisse:::Agriculteurs en colère, frontaliers embêtés et étudiants stressés: les empêchés du G7 se préparent au chaos",
+    "added_at": "2026-06-03T04:25:16.032Z",
+    "removed_at": "2026-06-03T05:01:23.001Z",
+    "duration_minutes": 36,
+    "duration_str": "36m"
+  },
+  {
+    "title": "economie:::Après un revers devant la Cour suprême, Donald Trump relance sa guerre commerciale et vise la Suisse",
+    "added_at": "2026-06-03T04:54:09.335Z"
+  },
+  {
+    "title": "economie:::Attirée par la faiblesse du titre, une société d’investissement américaine convoite EasyJet",
+    "added_at": "2026-06-03T04:56:36.394Z"
+  },
+  {
+    "title": "suisse:::Agriculteurs en colère, frontaliers embêtés et étudiants stressés: les empêchés du G7 prennent leur mal en patience",
+    "added_at": "2026-06-03T05:01:23.001Z"
   }
 ]
