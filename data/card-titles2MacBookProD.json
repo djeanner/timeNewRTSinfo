@@ -84330,7 +84330,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – En visite à Kiev, le chef de l'OTAN estime que la Russie est «de plus en plus désespérée»",
-    "added_at": "2026-06-03T15:28:32.676Z"
+    "added_at": "2026-06-03T15:28:32.676Z",
+    "removed_at": "2026-06-03T21:14:54.605Z",
+    "duration_minutes": 346,
+    "duration_str": "5h 46m"
   },
   {
     "title": "cyber:::L’ONU alerte sur l’envolée des impacts environnementaux de l’intelligence artificielle",
@@ -84360,7 +84363,10 @@
   },
   {
     "title": "economie:::La Poste va licencier une soixantaine de personnes dans l’informatique en Suisse",
-    "added_at": "2026-06-03T16:45:43.344Z"
+    "added_at": "2026-06-03T16:45:43.344Z",
+    "removed_at": "2026-06-03T21:19:41.629Z",
+    "duration_minutes": 273,
+    "duration_str": "4h 33m"
   },
   {
     "title": "culture:::Antonin Baudry, réalisateur de «La Bataille de Gaulle – L’âge de fer»: «On n’a pas la moindre idée de la solitude qui a été celle de Charles de Gaulle»",
@@ -84422,5 +84428,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – L’Iran ne voit «aucun progrès tangible» dans les négociations avec les Etats-Unis",
     "added_at": "2026-06-03T19:23:47.886Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – L’Union européenne est prête à avancer sur les négociations d’adhésion avec l’Ukraine",
+    "added_at": "2026-06-03T21:14:54.605Z"
   }
 ]
