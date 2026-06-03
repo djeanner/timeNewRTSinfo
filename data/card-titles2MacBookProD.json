@@ -82700,7 +82700,10 @@
   },
   {
     "title": "monde:::Robert Kagan, politiste: «La guerre en Iran risque d’affaiblir durablement la position des Etats-Unis dans le monde»",
-    "added_at": "2026-05-28T19:13:51.163Z"
+    "added_at": "2026-05-28T19:13:51.163Z",
+    "removed_at": "2026-06-03T07:23:37.386Z",
+    "duration_minutes": 7929,
+    "duration_str": "5d 12h 9m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis et l'Iran auraient trouvé un cadre d'accord, en attende de validation par Donald Trump",
@@ -83560,7 +83563,10 @@
   },
   {
     "title": "suisse:::«Il serait très difficile de faire fonctionner un hôpital sans nous»: à Morges, le personnel étranger est une question de survie",
-    "added_at": "2026-06-01T04:13:47.085Z"
+    "added_at": "2026-06-01T04:13:47.085Z",
+    "removed_at": "2026-06-03T08:23:47.434Z",
+    "duration_minutes": 3130,
+    "duration_str": "2d 4h 10m"
   },
   {
     "title": "cyber:::Ne payez surtout pas pour les nouveaux abonnements de WhatsApp, Facebook et Instagram. Ils sont le début d’une spirale qui s’annonce infernale",
@@ -83939,10 +83945,7 @@
   },
   {
     "title": "monde:::Josiane Lei, une maire en première ligne avec le G7: «Evian sera la ville la plus sécurisée au monde»",
-    "added_at": "2026-06-02T13:11:12.279Z",
-    "removed_at": "2026-06-02T18:44:06.494Z",
-    "duration_minutes": 332,
-    "duration_str": "5h 32m"
+    "added_at": "2026-06-02T13:11:12.279Z"
   },
   {
     "title": "monde:::Le sort d’un étudiant menotté par la police après avoir été poignardé à mort indigne au Royaume-Uni",
@@ -83971,7 +83974,10 @@
   },
   {
     "title": "suisse:::La seconde vie politique de l’ancien maire de Genève Rémy Pagani passe par la France",
-    "added_at": "2026-06-02T15:02:09.460Z"
+    "added_at": "2026-06-02T15:02:09.460Z",
+    "removed_at": "2026-06-03T07:57:18.594Z",
+    "duration_minutes": 1015,
+    "duration_str": "16h 55m"
   },
   {
     "title": "monde:::Ligne jaune, ligne orange… «Israël n’est pas plus protégé s’il contrôle 50, 60 ou 70% de Gaza»",
@@ -83986,7 +83992,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Kiev ordonne l'évacuation de milliers de civils dans la région de Kharkiv",
-    "added_at": "2026-06-02T16:43:38.230Z"
+    "added_at": "2026-06-02T16:43:38.230Z",
+    "removed_at": "2026-06-03T06:59:31.759Z",
+    "duration_minutes": 855,
+    "duration_str": "14h 15m"
   },
   {
     "title": "sport:::Alexandre Zverev résiste à la pression, écarte Rafael Jodar et s’affirme en favori de Roland-Garros",
@@ -84083,7 +84092,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’armée américaine affirme avoir repoussé des attaques de missiles iraniens dans le Golfe",
-    "added_at": "2026-06-03T01:17:05.147Z"
+    "added_at": "2026-06-03T01:17:05.147Z",
+    "removed_at": "2026-06-03T06:08:56.533Z",
+    "duration_minutes": 291,
+    "duration_str": "4h 51m"
   },
   {
     "title": "monde:::Des filets anti-requins pour protéger les baigneurs? En Afrique du Sud, la polémique fait rage à la veille de l’ouverture d’un nouveau Club Med",
@@ -84116,14 +84128,72 @@
   },
   {
     "title": "economie:::Après un revers devant la Cour suprême, Donald Trump relance sa guerre commerciale et vise la Suisse",
-    "added_at": "2026-06-03T04:54:09.335Z"
+    "added_at": "2026-06-03T04:54:09.335Z",
+    "removed_at": "2026-06-03T08:38:15.821Z",
+    "duration_minutes": 224,
+    "duration_str": "3h 44m"
   },
   {
     "title": "economie:::Attirée par la faiblesse du titre, une société d’investissement américaine convoite EasyJet",
-    "added_at": "2026-06-03T04:56:36.394Z"
+    "added_at": "2026-06-03T04:56:36.394Z",
+    "removed_at": "2026-06-03T07:01:57.183Z",
+    "duration_minutes": 125,
+    "duration_str": "2h 5m"
   },
   {
     "title": "suisse:::Agriculteurs en colère, frontaliers embêtés et étudiants stressés: les empêchés du G7 prennent leur mal en patience",
     "added_at": "2026-06-03T05:01:23.001Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Une attaque de drones contre l'aéroport du Koweït fait plusieurs blessés, le trafic aérien suspendu",
+    "added_at": "2026-06-03T06:08:56.533Z",
+    "removed_at": "2026-06-03T06:18:35.504Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Une attaque de drones iraniens contre l'aéroport du Koweït fait plusieurs blessés, le trafic aérien suspendu",
+    "added_at": "2026-06-03T06:18:35.504Z",
+    "removed_at": "2026-06-03T06:21:02.562Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Une attaque iranienne contre l’aéroport du Koweït fait plusieurs blessés, le trafic aérien suspendu",
+    "added_at": "2026-06-03T06:21:02.562Z",
+    "removed_at": "2026-06-03T07:50:05.518Z",
+    "duration_minutes": 89,
+    "duration_str": "1h 29m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Des drones ukrainiens ont touché Saint-Pétersbourg où s’ouvre le forum économique",
+    "added_at": "2026-06-03T06:59:31.759Z",
+    "removed_at": "2026-06-03T08:11:47.626Z",
+    "duration_minutes": 72,
+    "duration_str": "1h 12m"
+  },
+  {
+    "title": "culture:::«L'Abandon», les derniers jours du prof assassiné Samuel Paty documentés dans un film important pour le débat démocratique",
+    "added_at": "2026-06-03T07:23:37.386Z"
+  },
+  {
+    "title": "culture:::Vincent Garenq, réalisateur de «L'Abandon»: «Raconter une histoire comme celle de Samuel Paty implique une responsabilité»",
+    "added_at": "2026-06-03T07:23:37.386Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L'Iran dit avoir attaqué un nouveau navire de MSC dans le Golfe",
+    "added_at": "2026-06-03T07:50:05.518Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Kiev affirme avoir visé une base militaire et un terminal pétrolier à Saint-Pétersbourg",
+    "added_at": "2026-06-03T08:11:47.626Z"
+  },
+  {
+    "title": "monde:::«La Russie s’accroche frénétiquement à l’Arménie parce que c’est son dernier rempart»",
+    "added_at": "2026-06-03T08:26:14.844Z"
+  },
+  {
+    "title": "sport:::Nice exclue de la carte des compétitions, les Jeux olympiques 2030 en France sont fragilisés sur fond de crise politique",
+    "added_at": "2026-06-03T08:38:15.821Z"
   }
 ]
