@@ -83088,7 +83088,10 @@
   },
   {
     "title": "suisse:::Saturation des transports et pénurie de logements: qu’est-ce qu’on a raté?",
-    "added_at": "2026-05-30T05:19:23.252Z"
+    "added_at": "2026-05-30T05:19:23.252Z",
+    "removed_at": "2026-06-05T08:55:11.128Z",
+    "duration_minutes": 8855,
+    "duration_str": "6d 3h 35m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – «La Russie prépare une nouvelle frappe massive» contre l'Ukraine, dit Volodymyr Zelensky",
@@ -84452,10 +84455,7 @@
   },
   {
     "title": "suisse:::«Nous sommes très engagés pour convaincre notre base»: les sondages redonnent de l’élan au camp du non à l’initiative de l’UDC",
-    "added_at": "2026-06-03T19:16:32.372Z",
-    "removed_at": "2026-06-04T14:30:58.360Z",
-    "duration_minutes": 1154,
-    "duration_str": "19h 14m"
+    "added_at": "2026-06-03T19:16:32.372Z"
   },
   {
     "title": "culture:::Aux Athénéennes à Genève, la chanteuse Elina Duni entre deux mondes: «J’ai autant besoin du chaos albanais que de la tranquillité suisse»",
@@ -84712,7 +84712,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Hezbollah douche les espoirs de cessez-le-feu au Liban",
-    "added_at": "2026-06-04T13:47:23.228Z"
+    "added_at": "2026-06-04T13:47:23.228Z",
+    "removed_at": "2026-06-05T07:38:13.768Z",
+    "duration_minutes": 1070,
+    "duration_str": "17h 50m"
   },
   {
     "title": "culture:::Au Théâtre du Loup, à Genève, une jardinière activiste et un passe-muraille philosophe transforment le PAV en espace poétique",
@@ -84784,7 +84787,10 @@
   },
   {
     "title": "monde:::Claque historique: «en perte de prestige», l’Allemagne est écartée du Conseil de sécurité de l’ONU",
-    "added_at": "2026-06-04T17:08:05.128Z"
+    "added_at": "2026-06-04T17:08:05.128Z",
+    "removed_at": "2026-06-05T06:38:07.303Z",
+    "duration_minutes": 810,
+    "duration_str": "13h 30m"
   },
   {
     "title": "suisse:::L’improvisateur veveysan accusé d’abus sexuels jugé en appel: «Il y a leur réalité, et il y a la mienne»",
@@ -84825,7 +84831,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky évoque notamment la Suisse pour accueillir une rencontre avec Vladimir Poutine",
-    "added_at": "2026-06-05T04:32:32.243Z"
+    "added_at": "2026-06-05T04:32:32.243Z",
+    "removed_at": "2026-06-05T09:02:24.318Z",
+    "duration_minutes": 269,
+    "duration_str": "4h 29m"
   },
   {
     "title": "suisse:::Pour Marcel Dettling, président de l’UDC, «le problème, ce ne sont pas les étrangers», mais une immigration que nous ne maîtrisons plus",
@@ -84834,5 +84843,32 @@
   {
     "title": "monde:::La lutte contre le crime, nouveau levier des Etats-Unis contre le Brésil dont les terres rares sont convoitées",
     "added_at": "2026-06-05T05:42:29.759Z"
+  },
+  {
+    "title": "sciences:::Hantavirus: le réchauffement climatique suspecté d’avoir contribué à la récente hausse des cas en Argentine",
+    "added_at": "2026-06-05T06:38:07.303Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient –Après le rejet du cessez-le-feu par le Hezbollah, l'armée israélienne élargit ses opérations au Liban",
+    "added_at": "2026-06-05T07:38:13.768Z"
+  },
+  {
+    "title": "culture:::Luz Casal, légende du pop ibérique: «J’ai tellement de gratitude pour Almodóvar»",
+    "added_at": "2026-06-05T08:09:26.364Z",
+    "removed_at": "2026-06-05T09:09:38.032Z",
+    "duration_minutes": 60,
+    "duration_str": "1h"
+  },
+  {
+    "title": "suisse:::L'audition de «confrontation» des Moretti s'est ouverte sereinement à Sion",
+    "added_at": "2026-06-05T08:55:11.128Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – En Russie, la lettre de Volodymyr Zelensky est lue comme une «attaque virulente et personnelle» contre Vladimir Poutine",
+    "added_at": "2026-06-05T09:02:24.318Z"
+  },
+  {
+    "title": "culture:::Luz Casal, légende de la pop ibérique: «J’ai tellement de gratitude pour Almodóvar»",
+    "added_at": "2026-06-05T09:09:38.032Z"
   }
 ]
