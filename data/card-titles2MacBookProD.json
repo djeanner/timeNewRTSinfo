@@ -84387,7 +84387,10 @@
   },
   {
     "title": "economie:::La Poste va licencier une soixantaine de personnes dans l’informatique en Suisse",
-    "added_at": "2026-06-03T16:45:43.344Z"
+    "added_at": "2026-06-03T16:45:43.344Z",
+    "removed_at": "2026-06-05T10:12:19.910Z",
+    "duration_minutes": 2486,
+    "duration_str": "1d 17h 26m"
   },
   {
     "title": "culture:::Antonin Baudry, réalisateur de «La Bataille de Gaulle – L’âge de fer»: «On n’a pas la moindre idée de la solitude qui a été celle de Charles de Gaulle»",
@@ -84540,10 +84543,7 @@
   },
   {
     "title": "monde:::L’Américano-Cubain Lisandro Pérez: «Avec un pouvoir cubain beaucoup plus monolithique qu’au Venezuela, un changement de régime serait très compliqué»",
-    "added_at": "2026-06-04T05:47:43.026Z",
-    "removed_at": "2026-06-04T14:26:10.765Z",
-    "duration_minutes": 518,
-    "duration_str": "8h 38m"
+    "added_at": "2026-06-04T05:47:43.026Z"
   },
   {
     "title": "economie:::Alors que la saison des ouragans débute, le marché des obligations catastrophes se montre imperméable aux crises",
@@ -84758,11 +84758,17 @@
   },
   {
     "title": "suisse:::«On ne peut pas mettre cela sous le tapis et passer au point suivant»: des députés fustigent l’attitude du PLR sur le bouclier fiscal",
-    "added_at": "2026-06-04T15:40:54.751Z"
+    "added_at": "2026-06-04T15:40:54.751Z",
+    "removed_at": "2026-06-05T10:17:05.965Z",
+    "duration_minutes": 1116,
+    "duration_str": "18h 36m"
   },
   {
     "title": "economie:::La Poste licencie dans l’informatique, une contradiction avec des promesses passées?",
-    "added_at": "2026-06-04T16:00:12.911Z"
+    "added_at": "2026-06-04T16:00:12.911Z",
+    "removed_at": "2026-06-05T10:12:19.910Z",
+    "duration_minutes": 1092,
+    "duration_str": "18h 12m"
   },
   {
     "title": "suisse:::«Je démissionne du PS avec effet immédiat»: entre Daniel Jositsch et le Parti socialiste, c’est fini",
@@ -84787,10 +84793,7 @@
   },
   {
     "title": "monde:::Claque historique: «en perte de prestige», l’Allemagne est écartée du Conseil de sécurité de l’ONU",
-    "added_at": "2026-06-04T17:08:05.128Z",
-    "removed_at": "2026-06-05T06:38:07.303Z",
-    "duration_minutes": 810,
-    "duration_str": "13h 30m"
+    "added_at": "2026-06-04T17:08:05.128Z"
   },
   {
     "title": "suisse:::L’improvisateur veveysan accusé d’abus sexuels jugé en appel: «Il y a leur réalité, et il y a la mienne»",
@@ -84802,7 +84805,10 @@
   },
   {
     "title": "economie:::HSBC Suisse mise en examen en France dans l’affaire Riad Salamé",
-    "added_at": "2026-06-04T18:49:19.797Z"
+    "added_at": "2026-06-04T18:49:19.797Z",
+    "removed_at": "2026-06-05T10:12:19.910Z",
+    "duration_minutes": 923,
+    "duration_str": "15h 23m"
   },
   {
     "title": "sport:::L’équipe de Suisse féminine de football veut faire le spectacle pour inaugurer le nouveau stade de Lugano",
@@ -84865,10 +84871,38 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – En Russie, la lettre de Volodymyr Zelensky est lue comme une «attaque virulente et personnelle» contre Vladimir Poutine",
-    "added_at": "2026-06-05T09:02:24.318Z"
+    "added_at": "2026-06-05T09:02:24.318Z",
+    "removed_at": "2026-06-05T10:19:32.943Z",
+    "duration_minutes": 77,
+    "duration_str": "1h 17m"
   },
   {
     "title": "culture:::Luz Casal, légende de la pop ibérique: «J’ai tellement de gratitude pour Almodóvar»",
-    "added_at": "2026-06-05T09:09:38.032Z"
+    "added_at": "2026-06-05T09:09:38.032Z",
+    "removed_at": "2026-06-05T09:45:53.462Z",
+    "duration_minutes": 36,
+    "duration_str": "36m"
+  },
+  {
+    "title": "suisse:::Un regard militant pour ausculter les violences policières et leur composante raciste à Genève",
+    "added_at": "2026-06-05T10:05:06.437Z"
+  },
+  {
+    "title": "economie:::Pilier 3a: payer moins d’impôts et s’assurer une meilleure prévoyance, est-ce possible?",
+    "added_at": "2026-06-05T10:12:19.910Z",
+    "removed_at": "2026-06-05T11:07:39.557Z",
+    "duration_minutes": 55,
+    "duration_str": "55m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Après la lettre de Volodymyr Zelensky, la Suisse se dit «prête à accueillir un sommet de haut niveau sur l’Ukraine»",
+    "added_at": "2026-06-05T10:19:32.943Z",
+    "removed_at": "2026-06-05T11:00:26.299Z",
+    "duration_minutes": 40,
+    "duration_str": "40m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky propose une rencontre à Vladimir Poutine, la Suisse se dit «prête à accueillir un sommet de haut niveau»",
+    "added_at": "2026-06-05T11:00:26.299Z"
   }
 ]
