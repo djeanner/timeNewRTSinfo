@@ -3747,10 +3747,7 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T19:02:44.375Z",
-    "removed_at": "2026-06-04T21:23:41.304Z",
-    "duration_minutes": 452300,
-    "duration_str": "314d 2h 20m"
+    "added_at": "2025-07-25T19:02:44.375Z"
   },
   {
     "title": "En Israël, la population sensible au sort des Gazaouis refuse d'en rendre son armée responsable",
@@ -87733,7 +87730,10 @@
   },
   {
     "title": "Les fonctionnaires ont débuté une grève de 3 jours pour dénoncer les mesures d'économie à Genève",
-    "added_at": "2026-06-02T18:22:26.077Z"
+    "added_at": "2026-06-02T18:22:26.077Z",
+    "removed_at": "2026-06-05T05:18:25.892Z",
+    "duration_minutes": 3535,
+    "duration_str": "2d 10h 55m"
   },
   {
     "title": "Une idylle entre deux juges fédéraux relance le débat sur les conflits d'intérêts",
@@ -87769,7 +87769,10 @@
   },
   {
     "title": "Rouven Gueissaz revient avec nous sur les enjeux sécuritaires au Parlement",
-    "added_at": "2026-06-02T21:23:11.081Z"
+    "added_at": "2026-06-02T21:23:11.081Z",
+    "removed_at": "2026-06-05T05:03:55.980Z",
+    "duration_minutes": 3340,
+    "duration_str": "2d 7h 40m"
   },
   {
     "title": "Le gouvernement Trump renonce à son très controversé \"fonds anti-instrumentalisation\" de la justice",
@@ -87788,7 +87791,10 @@
   },
   {
     "title": "Une courte majorité s'oppose à l'initiative \"Pas de Suisse à 10 millions\", selon le 2e sondage SSR",
-    "added_at": "2026-06-03T04:01:16.364Z"
+    "added_at": "2026-06-03T04:01:16.364Z",
+    "removed_at": "2026-06-05T06:18:39.201Z",
+    "duration_minutes": 3017,
+    "duration_str": "2d 2h 17m"
   },
   {
     "title": "Les syndicats craignent que la manifestation contre le G7 ne laisse les autres causes dans l'ombre",
@@ -87915,7 +87921,10 @@
   },
   {
     "title": "Le BPA s’inquiète des excès de vitesse et des projets de hausse des limitations",
-    "added_at": "2026-06-03T09:41:05.132Z"
+    "added_at": "2026-06-03T09:41:05.132Z",
+    "removed_at": "2026-06-05T06:21:06.934Z",
+    "duration_minutes": 2680,
+    "duration_str": "1d 20h 40m"
   },
   {
     "title": "La 13e rente AVS sera financée par une augmentation transitoire de la TVA",
@@ -87987,7 +87996,10 @@
   },
   {
     "title": "Le Montreux Jazz Festival propose plus de 700 événements gratuits sur 12 scènes",
-    "added_at": "2026-06-03T12:49:03.810Z"
+    "added_at": "2026-06-03T12:49:03.810Z",
+    "removed_at": "2026-06-05T05:03:55.980Z",
+    "duration_minutes": 2414,
+    "duration_str": "1d 16h 14m"
   },
   {
     "title": "Des manifestants s'en prennent à la police après le meurtre d'un étudiant au Royaume-Uni",
@@ -88351,7 +88363,10 @@
   },
   {
     "title": "Grève des fonctionnaires : le bras de fer continue à Genève.",
-    "added_at": "2026-06-04T21:23:41.304Z"
+    "added_at": "2026-06-04T21:23:41.304Z",
+    "removed_at": "2026-06-05T06:18:39.201Z",
+    "duration_minutes": 534,
+    "duration_str": "8h 54m"
   },
   {
     "title": "Football: Breel Embolo est toujours coincé en Suisse",
@@ -88364,5 +88379,25 @@
   {
     "title": "Anthropic suggère une pause concertée dans le développement de l'IA pour en garder le contrôle",
     "added_at": "2026-06-05T02:17:33.817Z"
+  },
+  {
+    "title": "\"Je serai libre quand il sera mort\": le long calvaire des femmes qui fuient les violences conjugales",
+    "added_at": "2026-06-05T04:25:15.488Z"
+  },
+  {
+    "title": "La justice confronte les versions des époux Moretti",
+    "added_at": "2026-06-05T05:03:55.980Z"
+  },
+  {
+    "title": "L’auteure franco-iranienne Marjane Satrapi est décédée: interview d’Haydé Ardalan",
+    "added_at": "2026-06-05T05:18:25.892Z"
+  },
+  {
+    "title": "Grève des fonctionnaires: le bras de fer continue à Genève",
+    "added_at": "2026-06-05T06:18:39.201Z"
+  },
+  {
+    "title": "Les affaires Dittli et du bouclier fiscal ont coûté 218'000 francs en rapports et frais d'avocats",
+    "added_at": "2026-06-05T06:21:06.934Z"
   }
 ]
