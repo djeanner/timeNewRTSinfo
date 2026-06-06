@@ -85391,7 +85391,10 @@
   },
   {
     "title": "sport:::Agée de seulement 19 ans, la Russe Mirra Andreeva remporte Roland-Garros",
-    "added_at": "2026-06-06T18:39:09.411Z"
+    "added_at": "2026-06-06T18:39:09.411Z",
+    "removed_at": "2026-06-06T20:18:04.860Z",
+    "duration_minutes": 98,
+    "duration_str": "1h 38m"
   },
   {
     "title": "culture:::Dans une nouvelle ensorcelante, écrite à 21 ans, Annemarie Schwarzenbach racontait un coup de foudre entre deux femmes, dans un hôtel des Grisons",
@@ -85411,10 +85414,35 @@
   },
   {
     "title": "monde:::Moyen-Orient – Israël cible «environ 150» positions du Hezbollah au Sud Liban",
-    "added_at": "2026-06-06T19:46:38.260Z"
+    "added_at": "2026-06-06T19:46:38.260Z",
+    "removed_at": "2026-06-06T20:32:33.173Z",
+    "duration_minutes": 45,
+    "duration_str": "45m"
   },
   {
     "title": "sport:::Cinq TF35 voguent vers la victoire du Bol d’Or 2026",
-    "added_at": "2026-06-06T20:01:07.339Z"
+    "added_at": "2026-06-06T20:01:07.339Z",
+    "removed_at": "2026-06-06T22:30:21.295Z",
+    "duration_minutes": 149,
+    "duration_str": "2h 29m"
+  },
+  {
+    "title": "sport:::L’équipe d’Iran s’est envolée vers le Mexique, alors que Téhéran dénonce le refus de visas américains",
+    "added_at": "2026-06-06T20:18:04.860Z",
+    "removed_at": "2026-06-06T21:42:16.430Z",
+    "duration_minutes": 84,
+    "duration_str": "1h 24m"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Israël a ciblé «environ 150» positions du Hezbollah au Sud Liban",
+    "added_at": "2026-06-06T20:32:33.173Z"
+  },
+  {
+    "title": "sport:::Tenue en échec par l'Australie (1-1), l'équipe de Suisse avait déjà la tête à la Coupe du monde",
+    "added_at": "2026-06-06T21:42:16.430Z"
+  },
+  {
+    "title": "sport:::Cinq ans après son premier sacre, Bertrand Demole triomphe à nouveau sur le Bol d'Or",
+    "added_at": "2026-06-06T22:30:21.295Z"
   }
 ]
