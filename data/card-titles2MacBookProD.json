@@ -85016,7 +85016,10 @@
   },
   {
     "title": "economie:::Horlogerie: selon Baume & Mercier, «dans dix ans, l’Inde figurera dans le top 3 ou 5 des débouchés mondiaux»",
-    "added_at": "2026-06-05T15:08:35.825Z"
+    "added_at": "2026-06-05T15:08:35.825Z",
+    "removed_at": "2026-06-06T15:28:50.114Z",
+    "duration_minutes": 1460,
+    "duration_str": "1d 20m"
   },
   {
     "title": "sciences:::Réparations en cours dans l’ISS, des astronautes mis à l’abri",
@@ -85196,7 +85199,10 @@
   },
   {
     "title": "monde:::Guerre en Ukraine – Une nouvelle attaque de drones dans la région de Saint-Pétersbourg",
-    "added_at": "2026-06-06T05:33:23.707Z"
+    "added_at": "2026-06-06T05:33:23.707Z",
+    "removed_at": "2026-06-06T17:02:38.688Z",
+    "duration_minutes": 689,
+    "duration_str": "11h 29m"
   },
   {
     "title": "monde:::Anniversaire du Débarquement: même les guides sont inquiets de la «D-Day disneylandisation»",
@@ -85225,7 +85231,10 @@
   },
   {
     "title": "monde:::Moyen-Orient – Au Liban, une une frappe israélienne tue plusieurs militaires malgré le cessez-le-feu",
-    "added_at": "2026-06-06T08:09:56.244Z"
+    "added_at": "2026-06-06T08:09:56.244Z",
+    "removed_at": "2026-06-06T17:02:38.688Z",
+    "duration_minutes": 532,
+    "duration_str": "8h 52m"
   },
   {
     "title": "suisse:::Incendie des Tattes: le Tribunal fédéral confirme la peine pour le coordinateur incendie",
@@ -85250,10 +85259,7 @@
   },
   {
     "title": "sciences:::«Weather Replay», machine à remonter le temps, rappelle le rôle crucial de la météorologie dans le D-Day, le 6 juin 1944, qui a sauvé l’Europe du nazisme",
-    "added_at": "2026-06-06T09:34:22.825Z",
-    "removed_at": "2026-06-06T13:06:36.880Z",
-    "duration_minutes": 212,
-    "duration_str": "3h 32m"
+    "added_at": "2026-06-06T09:34:22.825Z"
   },
   {
     "title": "suisse:::La population suisse toujours plus adepte de la randonnée",
@@ -85276,9 +85282,9 @@
   {
     "title": "suisse:::La population suisse toujours plus adepte de randonnée",
     "added_at": "2026-06-06T10:53:51.172Z",
-    "removed_at": "2026-06-06T12:23:17.467Z",
-    "duration_minutes": 89,
-    "duration_str": "1h 29m"
+    "removed_at": "2026-06-06T16:45:47.189Z",
+    "duration_minutes": 351,
+    "duration_str": "5h 51m"
   },
   {
     "title": "monde:::A Madrid, le pape Léon XIV appelle à mettre fin aux «discours qui divisent et polarisent» la société",
@@ -85293,7 +85299,10 @@
   },
   {
     "title": "culture:::Les Swiss Art Awards et les Swiss Design Awards sont des instruments essentiels»: une exception helvétique, qui fait de notre pays l’un des plus anciens à encourager la création",
-    "added_at": "2026-06-06T13:06:36.880Z"
+    "added_at": "2026-06-06T13:06:36.880Z",
+    "removed_at": "2026-06-06T17:19:33.138Z",
+    "duration_minutes": 252,
+    "duration_str": "4h 12m"
   },
   {
     "title": "culture:::«J’éprouve une nostalgie incompréhensible pour des contrées où je ne suis jamais allé»: l’artiste Fabrice Gygi cultive une esthétique de l’échappée",
@@ -85323,6 +85332,36 @@
   },
   {
     "title": "sport:::Un Décision 35 et un TF35 aux avant-postes à l’approche du Bouveret: suivez l’évolution de la 87e édition du Bol d'Or",
-    "added_at": "2026-06-06T14:23:38.065Z"
+    "added_at": "2026-06-06T14:23:38.065Z",
+    "removed_at": "2026-06-06T15:26:23.043Z",
+    "duration_minutes": 62,
+    "duration_str": "1h 2m"
+  },
+  {
+    "title": "sport:::X-Wing de Marco Favale passe en tête à la barge du Bouveret: suivez l’évolution de la 87e édition du Bol d'Or",
+    "added_at": "2026-06-06T15:26:23.043Z",
+    "removed_at": "2026-06-06T16:45:47.189Z",
+    "duration_minutes": 79,
+    "duration_str": "1h 19m"
+  },
+  {
+    "title": "economie:::Déjà l’homme le plus riche de la planète, Elon Musk a gagné 132… milliards de dollars l’an dernier",
+    "added_at": "2026-06-06T15:28:50.114Z"
+  },
+  {
+    "title": "sport:::X-Wing toujours en tête mais talonné par les poursuivants: suivez l’évolution de la 87e édition du Bol d'Or",
+    "added_at": "2026-06-06T16:45:47.189Z"
+  },
+  {
+    "title": "suisse:::A Lausanne, la transformation d’une vétuste oasis locative mobilise ses locataires",
+    "added_at": "2026-06-06T16:45:47.189Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Au Liban, une une frappe israélienne tue plusieurs militaires malgré le cessez-le-feu",
+    "added_at": "2026-06-06T17:02:38.688Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Une nouvelle attaque de drones dans la région de Saint-Pétersbourg",
+    "added_at": "2026-06-06T17:02:38.688Z"
   }
 ]
