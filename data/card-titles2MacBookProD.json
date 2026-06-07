@@ -85609,7 +85609,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Le Service de sécurité d’Ukraine promet de «punir» les responsables de la frappe sur Tchernobyl",
-    "added_at": "2026-06-07T13:58:05.366Z"
+    "added_at": "2026-06-07T13:58:05.366Z",
+    "removed_at": "2026-06-07T22:24:11.819Z",
+    "duration_minutes": 506,
+    "duration_str": "8h 26m"
   },
   {
     "title": "economie:::Erwin Heri, expert financier: «Placer son argent n’est pas difficile, mais pas trivial non plus»",
@@ -85665,7 +85668,10 @@
   },
   {
     "title": "sport:::La Coupe du monde 1930: à la découverte du nouveau monde",
-    "added_at": "2026-06-07T18:23:28.827Z"
+    "added_at": "2026-06-07T18:23:28.827Z",
+    "removed_at": "2026-06-07T22:04:59.507Z",
+    "duration_minutes": 221,
+    "duration_str": "3h 41m"
   },
   {
     "title": "sport:::Vainqueur de Roland-Garros, Alexander Zverev arrache son premier Grand Chelem à 29 ans",
@@ -85678,5 +85684,9 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Israël est sous le feu de missiles iraniens pour la première fois depuis le 8 avril",
     "added_at": "2026-06-07T19:52:28.223Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Paris, Berlin et Londres soutiennent la proposition de Volodymyr Zelensky d’un «dialogue direct» entre l’Ukraine et la Russie",
+    "added_at": "2026-06-07T22:24:11.819Z"
   }
 ]
