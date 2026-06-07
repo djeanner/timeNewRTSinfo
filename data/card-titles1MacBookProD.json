@@ -88794,7 +88794,10 @@
   },
   {
     "title": "Des flambées de gale touchent la région de la Broye",
-    "added_at": "2026-06-05T13:12:52.471Z"
+    "added_at": "2026-06-05T13:12:52.471Z",
+    "removed_at": "2026-06-07T20:06:54.967Z",
+    "duration_minutes": 3294,
+    "duration_str": "2d 6h 54m"
   },
   {
     "title": "La détection et le traitement de l'endométriose sont à améliorer, estime le Conseil fédéral",
@@ -88819,7 +88822,10 @@
   },
   {
     "title": "L'USS menace de lancer un référendum pour préserver les salaires minimums cantonaux",
-    "added_at": "2026-06-05T14:00:57.587Z"
+    "added_at": "2026-06-05T14:00:57.587Z",
+    "removed_at": "2026-06-07T20:06:54.967Z",
+    "duration_minutes": 3245,
+    "duration_str": "2d 6h 5m"
   },
   {
     "title": "Les attaques de bancomats ont diminué de moitié en 2025",
@@ -88837,7 +88843,10 @@
   },
   {
     "title": "Le Conseil fédéral renonce à la participation de la Suisse à Copernicus jusqu'en 2034",
-    "added_at": "2026-06-05T14:44:27.846Z"
+    "added_at": "2026-06-05T14:44:27.846Z",
+    "removed_at": "2026-06-07T17:49:41.523Z",
+    "duration_minutes": 3065,
+    "duration_str": "2d 3h 5m"
   },
   {
     "title": "Le niveau des lacs suisses reste trop bas pour la saison, malgré la pluie",
@@ -89110,7 +89119,10 @@
   },
   {
     "title": "Vladimir Poutine défend son bilan économique",
-    "added_at": "2026-06-07T05:04:58.655Z"
+    "added_at": "2026-06-07T05:04:58.655Z",
+    "removed_at": "2026-06-07T20:23:44.119Z",
+    "duration_minutes": 918,
+    "duration_str": "15h 18m"
   },
   {
     "title": "\"Ma patrie a donné l'ordre d'aller faire la guerre en Ukraine, alors j'y suis allé\"",
@@ -89236,11 +89248,17 @@
   },
   {
     "title": "Israël bombarde la banlieue sud de Beyrouth",
-    "added_at": "2026-06-07T14:10:05.350Z"
+    "added_at": "2026-06-07T14:10:05.350Z",
+    "removed_at": "2026-06-07T19:35:34.746Z",
+    "duration_minutes": 325,
+    "duration_str": "5h 25m"
   },
   {
     "title": "La colère des agriculteurs genevois contre les mesures liées au G7: interview de Patricia Bidaux",
-    "added_at": "2026-06-07T14:19:44.283Z"
+    "added_at": "2026-06-07T14:19:44.283Z",
+    "removed_at": "2026-06-07T19:21:09.339Z",
+    "duration_minutes": 301,
+    "duration_str": "5h 1m"
   },
   {
     "title": "L’éclairage public la nuit, un débat entre protection de l’environnement et sécurité",
@@ -89272,5 +89290,25 @@
   {
     "title": "Plus de 960 morts à Gaza malgré la trêve théoriquement en vigueur depuis octobre 2025",
     "added_at": "2026-06-07T17:23:01.205Z"
+  },
+  {
+    "title": "L'Allemand Alexander Zverev remporte enfin son premier titre du Grand Chelem",
+    "added_at": "2026-06-07T17:49:41.523Z"
+  },
+  {
+    "title": "Tirs de missiles iraniens sur Israël pour la première fois depuis le cessez-le-feu du 8 avril",
+    "added_at": "2026-06-07T19:35:34.746Z"
+  },
+  {
+    "title": "Valérie Dittli: \"Ce que je vis est d'une grande violence\"",
+    "added_at": "2026-06-07T20:06:54.967Z"
+  },
+  {
+    "title": "Jean-Luc Mélenchon lance sa campagne devant plus de 20'000 personnes à Saint-Denis",
+    "added_at": "2026-06-07T20:06:54.967Z"
+  },
+  {
+    "title": "La France rend hommage à Lyhanna lors d’une marche blanche",
+    "added_at": "2026-06-07T20:23:44.119Z"
   }
 ]
