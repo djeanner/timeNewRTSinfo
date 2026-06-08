@@ -85495,7 +85495,10 @@
   },
   {
     "title": "sport:::Litige sur le Bol d'Or: la victoire de Bertrand Demole est remise en cause et sera tranchée dans la journée",
-    "added_at": "2026-06-07T04:14:16.788Z"
+    "added_at": "2026-06-07T04:14:16.788Z",
+    "removed_at": "2026-06-08T06:49:35.208Z",
+    "duration_minutes": 1595,
+    "duration_str": "1d 2h 35m"
   },
   {
     "title": "monde:::Pékin et Washington, les ombres géantes qui planent sur le destin des Péruviens appelés aux urnes dimanche",
@@ -85684,7 +85687,10 @@
   },
   {
     "title": "sport:::Vainqueur de Roland-Garros, Alexander Zverev arrache son premier Grand Chelem à 29 ans",
-    "added_at": "2026-06-07T18:35:29.079Z"
+    "added_at": "2026-06-07T18:35:29.079Z",
+    "removed_at": "2026-06-08T04:32:33.417Z",
+    "duration_minutes": 597,
+    "duration_str": "9h 57m"
   },
   {
     "title": "monde:::Le parti du premier ministre kosovar Albin Kurti arrive en tête de législatives marquées par une forte abstention",
@@ -85731,15 +85737,24 @@
   },
   {
     "title": "monde:::Le parti du premier ministre Nikol Pachinian en tête des législatives en Arménie",
-    "added_at": "2026-06-08T03:27:25.173Z"
+    "added_at": "2026-06-08T03:27:25.173Z",
+    "removed_at": "2026-06-08T04:54:12.034Z",
+    "duration_minutes": 86,
+    "duration_str": "1h 26m"
   },
   {
     "title": "monde:::Qui est Xavier Becerra, le démocrate qui fait la course en tête pour remplacer Gavin Newsom au poste de gouverneur de Californie?",
-    "added_at": "2026-06-08T03:49:04.115Z"
+    "added_at": "2026-06-08T03:49:04.115Z",
+    "removed_at": "2026-06-08T06:08:41.632Z",
+    "duration_minutes": 139,
+    "duration_str": "2h 19m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Après avoir été ciblé par des missiles, Israël bombarde des «cibles militaires» en Iran",
-    "added_at": "2026-06-08T04:15:29.779Z"
+    "added_at": "2026-06-08T04:15:29.779Z",
+    "removed_at": "2026-06-08T05:54:16.532Z",
+    "duration_minutes": 98,
+    "duration_str": "1h 38m"
   },
   {
     "title": "economie:::En deux décennies, la libre circulation des personnes n’a pas eu les effets sur le marché du travail dénoncés par l’UDC",
@@ -85747,6 +85762,43 @@
   },
   {
     "title": "suisse:::Alors que l’on vote sur la Suisse à 10 millions, I’Italie vit un déclin démographique qui menace son économie",
-    "added_at": "2026-06-08T04:25:10.574Z"
+    "added_at": "2026-06-08T04:25:10.574Z",
+    "removed_at": "2026-06-08T04:37:19.735Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "culture:::Avec l’arrivée du chef russe Tugan Sokhiev au pupitre et une gouvernance élargie, l’OSR fixe son nouveau cap",
+    "added_at": "2026-06-08T04:32:33.417Z",
+    "removed_at": "2026-06-08T06:20:41.860Z",
+    "duration_minutes": 108,
+    "duration_str": "1h 48m"
+  },
+  {
+    "title": "suisse:::Alors que la Suisse vote pour limiter sa population, I’Italie vit un déclin démographique qui menace son économie",
+    "added_at": "2026-06-08T04:37:19.735Z"
+  },
+  {
+    "title": "economie:::Gestion de fortune: le palmarès change, les fondamentaux demeurent",
+    "added_at": "2026-06-08T05:06:11.226Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Israël et l'Iran reprennent les bombardements, la trêve est menacée",
+    "added_at": "2026-06-08T05:54:16.532Z",
+    "removed_at": "2026-06-08T06:06:16.850Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Israël et l'Iran reprennent les bombardements, la trêve est plus que jamais menacée",
+    "added_at": "2026-06-08T06:06:16.850Z"
+  },
+  {
+    "title": "monde:::Entre alliance historique et escalade nucléaire: pourquoi Xi Jinping rend visite à Kim Jong-un",
+    "added_at": "2026-06-08T06:08:41.632Z"
+  },
+  {
+    "title": "monde:::En Arménie, le premier ministre Nikol Pachinian remporte les élections législatives",
+    "added_at": "2026-06-08T06:44:49.124Z"
   }
 ]
