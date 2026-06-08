@@ -88864,7 +88864,10 @@
   },
   {
     "title": "Les astronautes de l'ISS brièvement évacués en raison d'une fuite d'air",
-    "added_at": "2026-06-05T15:37:26.638Z"
+    "added_at": "2026-06-05T15:37:26.638Z",
+    "removed_at": "2026-06-08T02:41:49.324Z",
+    "duration_minutes": 3544,
+    "duration_str": "2d 11h 4m"
   },
   {
     "title": "Volodymyr Zelensky propose un tête-à-tête à Vladimir Poutine, qui répond qu'il n'y voit \"pas d'intérêt\"",
@@ -89303,7 +89306,10 @@
   },
   {
     "title": "Tirs de missiles iraniens sur Israël pour la première fois depuis le cessez-le-feu du 8 avril",
-    "added_at": "2026-06-07T19:35:34.746Z"
+    "added_at": "2026-06-07T19:35:34.746Z",
+    "removed_at": "2026-06-08T02:36:57.665Z",
+    "duration_minutes": 421,
+    "duration_str": "7h 1m"
   },
   {
     "title": "Valérie Dittli: \"Ce que je vis est d'une grande violence\"",
@@ -89328,5 +89334,13 @@
   {
     "title": "Le pro-occidental Nikol Pachinian revendique la victoire aux législatives en Arménie",
     "added_at": "2026-06-08T01:41:29.788Z"
+  },
+  {
+    "title": "L'armée israélienne annonce avoir frappé l'Iran après les tirs de missiles iraniens sur Israël",
+    "added_at": "2026-06-08T02:34:36.759Z"
+  },
+  {
+    "title": "Alerte au tsunami en Asie après un séisme de 7,8 aux Philippines",
+    "added_at": "2026-06-08T02:41:49.324Z"
   }
 ]
