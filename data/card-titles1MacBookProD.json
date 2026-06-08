@@ -88905,7 +88905,10 @@
   },
   {
     "title": "Le corps retrouvé en France est bien celui de l'enfant qui avait disparu",
-    "added_at": "2026-06-05T16:42:26.098Z"
+    "added_at": "2026-06-05T16:42:26.098Z",
+    "removed_at": "2026-06-08T11:52:58.240Z",
+    "duration_minutes": 4030,
+    "duration_str": "2d 19h 10m"
   },
   {
     "title": "Une finale Alexander Zverev - Fabio Cobolli",
@@ -88934,7 +88937,10 @@
   },
   {
     "title": "Figure du PLR, Claude Ruey fustige le parti: \"Il n'y a pas de honte à reconnaître ses erreurs\"",
-    "added_at": "2026-06-05T17:59:43.306Z"
+    "added_at": "2026-06-05T17:59:43.306Z",
+    "removed_at": "2026-06-08T11:43:19.396Z",
+    "duration_minutes": 3943,
+    "duration_str": "2d 17h 43m"
   },
   {
     "title": "Surfacturations, personnel non qualifié: les cliniques dentaires B1 dénoncées pour leurs pratiques commerciales",
@@ -88999,7 +89005,10 @@
   },
   {
     "title": "L'Argentine continue d'étendre ses recherches sur le foyer d'hantavirus",
-    "added_at": "2026-06-06T02:47:20.217Z"
+    "added_at": "2026-06-06T02:47:20.217Z",
+    "removed_at": "2026-06-08T10:52:51.560Z",
+    "duration_minutes": 3365,
+    "duration_str": "2d 8h 5m"
   },
   {
     "title": "C’est important d’avoir à manger, \"mais il faut que cette nourriture ne nous empoisonne pas\"",
@@ -89224,10 +89233,7 @@
   },
   {
     "title": "Football: dernier match de préparation du Mondial pour l'équipe de Suisse contre l’Australie",
-    "added_at": "2026-06-07T11:02:02.119Z",
-    "removed_at": "2026-06-08T07:18:37.271Z",
-    "duration_minutes": 1216,
-    "duration_str": "20h 16m"
+    "added_at": "2026-06-07T11:02:02.119Z"
   },
   {
     "title": "Pourquoi les homicides et les viols augmentent-ils en Suisse?",
@@ -89424,7 +89430,10 @@
   },
   {
     "title": "L'Iran pointe la responsabilité des Etats-Unis dans la reprise des hostilités avec Israël",
-    "added_at": "2026-06-08T07:49:54.361Z"
+    "added_at": "2026-06-08T07:49:54.361Z",
+    "removed_at": "2026-06-08T10:00:01.227Z",
+    "duration_minutes": 130,
+    "duration_str": "2h 10m"
   },
   {
     "title": "\"On a tous des PFAS dans le sang\", alerte la journaliste d'investigation Stéphane Aurel",
@@ -89436,5 +89445,42 @@
   {
     "title": "\"On a tous des PFAS dans le sang\", alerte la journaliste d'investigation Stéphane Horel",
     "added_at": "2026-06-08T09:35:46.995Z"
+  },
+  {
+    "title": "Donald Trump exhorte Israël et l'Iran à cesser de \"tirer\" immédiatement",
+    "added_at": "2026-06-08T10:00:01.227Z",
+    "removed_at": "2026-06-08T11:57:44.316Z",
+    "duration_minutes": 117,
+    "duration_str": "1h 57m"
+  },
+  {
+    "title": "Le canton de Vaud mobilisera 2200 personnes pendant le G7",
+    "added_at": "2026-06-08T10:52:51.560Z"
+  },
+  {
+    "title": "L'art se fond dans le paysage pour la 16e édition de la Triennale Bex & Arts",
+    "added_at": "2026-06-08T11:43:19.396Z"
+  },
+  {
+    "title": "Le Parlement valaisan valide plusieurs soutiens pour le drame de Crans-Montana",
+    "added_at": "2026-06-08T11:52:58.240Z",
+    "removed_at": "2026-06-08T12:09:45.205Z",
+    "duration_minutes": 16,
+    "duration_str": "16m"
+  },
+  {
+    "title": "L'Iran annonce l'arrêt de ses tirs contre Israël",
+    "added_at": "2026-06-08T11:57:44.316Z",
+    "removed_at": "2026-06-08T12:07:24.076Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "L'Iran annonce l'arrêt de ses tirs contre Israël et assure rester à \"la table des négociations\"",
+    "added_at": "2026-06-08T12:07:24.076Z"
+  },
+  {
+    "title": "Le Parlement valaisan valide plusieurs soutiens pour les victimes du drame de Crans-Montana",
+    "added_at": "2026-06-08T12:09:45.205Z"
   }
 ]
