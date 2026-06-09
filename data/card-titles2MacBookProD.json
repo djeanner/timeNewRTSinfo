@@ -86301,7 +86301,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L'armée israélienne continue ses bombardements au Liban, la ville de Tyr se vide",
-    "added_at": "2026-06-09T12:59:14.113Z"
+    "added_at": "2026-06-09T12:59:14.113Z",
+    "removed_at": "2026-06-09T21:27:47.718Z",
+    "duration_minutes": 508,
+    "duration_str": "8h 28m"
   },
   {
     "title": "suisse:::Céline Weber: «Dans l’immédiat, on pourrait aller vers un non-financement de la 13e rente AVS»",
@@ -86364,7 +86367,10 @@
   },
   {
     "title": "economie:::Jody Jonsson, de Capital Group: «A long terme, les crises géopolitiques ont moins d’importance pour les marchés financiers que prévu»",
-    "added_at": "2026-06-09T16:57:30.767Z"
+    "added_at": "2026-06-09T16:57:30.767Z",
+    "removed_at": "2026-06-09T21:27:47.718Z",
+    "duration_minutes": 270,
+    "duration_str": "4h 30m"
   },
   {
     "title": "sciences:::Qui peuplait l’Age de glace? La réponse se trouve dans des crottes fossilisées",
@@ -86396,5 +86402,16 @@
   {
     "title": "sport:::Licencié de son poste de sélectionneur de l’équipe de Suisse de hockey, Patrick Fischer estime qu’un accord a été rompu avec le journaliste de la SRF",
     "added_at": "2026-06-09T19:07:57.261Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump accuse l’Iran d’avoir abattu un hélicoptère américain et promet de répliquer",
+    "added_at": "2026-06-09T21:27:47.718Z",
+    "removed_at": "2026-06-09T21:51:47.010Z",
+    "duration_minutes": 23,
+    "duration_str": "23m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis annoncent bombarder l’Iran après l’attaque contre un hélicoptère américain",
+    "added_at": "2026-06-09T21:51:47.010Z"
   }
 ]
