@@ -88760,7 +88760,10 @@
   },
   {
     "title": "Le tronçon de l'A1 entre Meyrin et la douane de Bardonnex sera fermé le temps du G7",
-    "added_at": "2026-06-05T12:17:35.266Z"
+    "added_at": "2026-06-05T12:17:35.266Z",
+    "removed_at": "2026-06-10T04:02:09.791Z",
+    "duration_minutes": 6704,
+    "duration_str": "4d 15h 44m"
   },
   {
     "title": "La disparition d'une enfant enflamme le débat sur le fonctionnement de la justice française",
@@ -89704,7 +89707,10 @@
   },
   {
     "title": "Issue de la présidentielle au Pérou encore incertaine, légère avance de la candidate de droite",
-    "added_at": "2026-06-08T12:34:02.105Z"
+    "added_at": "2026-06-08T12:34:02.105Z",
+    "removed_at": "2026-06-10T02:42:57.740Z",
+    "duration_minutes": 2288,
+    "duration_str": "1d 14h 8m"
   },
   {
     "title": "Le Parlement valaisan valide plusieurs soutiens en lien avec le drame de Crans-Montana",
@@ -89716,7 +89722,10 @@
   },
   {
     "title": "Le Russe Tugan Sokhiev nommé chef principal de l'Orchestre de la Suisse romande",
-    "added_at": "2026-06-08T13:55:53.611Z"
+    "added_at": "2026-06-08T13:55:53.611Z",
+    "removed_at": "2026-06-10T04:28:34.739Z",
+    "duration_minutes": 2312,
+    "duration_str": "1d 14h 32m"
   },
   {
     "title": "Le Kosovo, figé dans une impasse politique, organise de nouvelles élections",
@@ -90130,5 +90139,13 @@
   {
     "title": "Les Etats-Unis bombardent l'Iran après l'attaque contre un hélicoptère américain",
     "added_at": "2026-06-09T21:39:47.165Z"
+  },
+  {
+    "title": "Le Congrès américain débloque 70 milliards de dollars pour la lutte contre l'immigration",
+    "added_at": "2026-06-10T02:42:57.740Z"
+  },
+  {
+    "title": "\"Ça m'a détruit le visage\": peu sanctionnées, les injections esthétiques illégales sont en plein essor",
+    "added_at": "2026-06-10T04:28:34.739Z"
   }
 ]
