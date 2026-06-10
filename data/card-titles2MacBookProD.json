@@ -84187,10 +84187,7 @@
   },
   {
     "title": "suisse:::Agriculteurs en colère, frontaliers embêtés et étudiants stressés: les empêchés du G7 prennent leur mal en patience",
-    "added_at": "2026-06-03T05:01:23.001Z",
-    "removed_at": "2026-06-04T05:09:17.449Z",
-    "duration_minutes": 1447,
-    "duration_str": "1d 7m"
+    "added_at": "2026-06-03T05:01:23.001Z"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Une attaque de drones contre l'aéroport du Koweït fait plusieurs blessés, le trafic aérien suspendu",
@@ -84997,7 +84994,10 @@
   },
   {
     "title": "suisse:::Sommet du G7: l’autoroute de contournement de Genève sera en partie fermée",
-    "added_at": "2026-06-05T14:17:51.114Z"
+    "added_at": "2026-06-05T14:17:51.114Z",
+    "removed_at": "2026-06-10T06:04:54.341Z",
+    "duration_minutes": 6707,
+    "duration_str": "4d 15h 47m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le président libanais à l'adresse de l'Iran: «Ce n'est pas votre pays»",
@@ -86227,7 +86227,10 @@
   },
   {
     "title": "sciences:::Deux nouvelles approches permettent de limiter la reprise de poids après un traitement contre l’obésité",
-    "added_at": "2026-06-09T06:41:16.141Z"
+    "added_at": "2026-06-09T06:41:16.141Z",
+    "removed_at": "2026-06-10T06:07:15.612Z",
+    "duration_minutes": 1405,
+    "duration_str": "23h 25m"
   },
   {
     "title": "monde:::Louer des places de prison à l’étranger? Une nouvelle tendance européenne",
@@ -86392,7 +86395,10 @@
   },
   {
     "title": "monde:::Trois candidates pour diriger l’ONU croisent le fer à Genève, pour donner un nouveau souffle à l’organisation",
-    "added_at": "2026-06-09T18:48:40.687Z"
+    "added_at": "2026-06-09T18:48:40.687Z",
+    "removed_at": "2026-06-10T06:52:58.154Z",
+    "duration_minutes": 724,
+    "duration_str": "12h 4m"
   },
   {
     "title": "monde:::«Genève est le laboratoire du droit international»: trois femmes qui veulent diriger l’ONU en donnent leur vision",
@@ -86453,18 +86459,21 @@
   },
   {
     "title": "monde:::Dans le Maine, le sulfureux ostréiculteur Graham Platner remporte la primaire démocrate",
-    "added_at": "2026-06-10T03:28:32.021Z",
-    "removed_at": "2026-06-10T04:38:12.625Z",
-    "duration_minutes": 69,
-    "duration_str": "1h 9m"
-  },
-  {
-    "title": "economie:::A la veille d’un réexamen crucial, le chemin semé d’embûches de l’accord de libre-échange entre les Etats-Unis, le Canada et le Mexique",
     "added_at": "2026-06-10T03:28:32.021Z"
   },
   {
+    "title": "economie:::A la veille d’un réexamen crucial, le chemin semé d’embûches de l’accord de libre-échange entre les Etats-Unis, le Canada et le Mexique",
+    "added_at": "2026-06-10T03:28:32.021Z",
+    "removed_at": "2026-06-10T06:55:18.972Z",
+    "duration_minutes": 206,
+    "duration_str": "3h 26m"
+  },
+  {
     "title": "monde:::En direct, Moyen-Orient – L'armée américaine a mené une série de frappes en Iran",
-    "added_at": "2026-06-10T03:50:10.732Z"
+    "added_at": "2026-06-10T03:50:10.732Z",
+    "removed_at": "2026-06-10T07:29:00.964Z",
+    "duration_minutes": 218,
+    "duration_str": "3h 38m"
   },
   {
     "title": "suisse:::«C’est le genre d’événement qui arrive peut-être une fois dans une vie»: pour Anne Hiltpold, le G7 aura un goût particulier",
@@ -86473,5 +86482,17 @@
   {
     "title": "economie:::Malgré l’engouement croissant des clients pour ce type de produits, Migros ferme deux espaces bios à Genève",
     "added_at": "2026-06-10T04:38:12.625Z"
+  },
+  {
+    "title": "culture:::Dans «Love on Trial», l'amour en procès avec la J-pop et la domination masculine en accusation",
+    "added_at": "2026-06-10T06:55:18.972Z"
+  },
+  {
+    "title": "monde:::Vu de Berlin, la mort du SCAF, l’avion de combat franco-allemand, ouvre une nouvelle ère",
+    "added_at": "2026-06-10T06:55:18.972Z"
+  },
+  {
+    "title": "culture:::Patrick Bruel va être présenté à des juges d'instrcution, le parquet requiert sa mise en examen pour viols et son incarcération",
+    "added_at": "2026-06-10T07:29:00.964Z"
   }
 ]
