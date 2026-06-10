@@ -86634,7 +86634,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Kiev dit avoir touché une usine d'armements russe avec ses nouveaux missiles",
-    "added_at": "2026-06-10T11:28:28.002Z"
+    "added_at": "2026-06-10T11:28:28.002Z",
+    "removed_at": "2026-06-10T21:09:41.342Z",
+    "duration_minutes": 581,
+    "duration_str": "9h 41m"
   },
   {
     "title": "culture:::Dans «Bouchra», la chacale s’habille en Prada",
@@ -86663,7 +86666,10 @@
   },
   {
     "title": "suisse:::Après des décennies à promouvoir la Genève internationale et ses valeurs, Ivan Pictet rêve d’impliquer la nouvelle génération",
-    "added_at": "2026-06-10T13:33:53.757Z"
+    "added_at": "2026-06-10T13:33:53.757Z",
+    "removed_at": "2026-06-10T21:57:48.313Z",
+    "duration_minutes": 503,
+    "duration_str": "8h 23m"
   },
   {
     "title": "sport:::A midi à 2240 mètres d’altitude: le match d’ouverture de la Coupe du monde sera une performance physique",
@@ -86748,10 +86754,35 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump dit que les Etats-Unis vont «attaquer très durement» l’Iran",
-    "added_at": "2026-06-10T20:43:00.935Z"
+    "added_at": "2026-06-10T20:43:00.935Z",
+    "removed_at": "2026-06-10T21:55:27.441Z",
+    "duration_minutes": 72,
+    "duration_str": "1h 12m"
   },
   {
     "title": "monde:::Patrick Bruel a été mis en examen pour viol, tentative de viol, agression sexuelle et harcèlement sexuel",
-    "added_at": "2026-06-10T20:59:48.941Z"
+    "added_at": "2026-06-10T20:59:48.941Z",
+    "removed_at": "2026-06-10T23:02:43.008Z",
+    "duration_minutes": 122,
+    "duration_str": "2h 2m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky participera à une session du G7",
+    "added_at": "2026-06-10T21:09:41.342Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’armée américaine dit mener des «frappes défensives» contre l’Iran",
+    "added_at": "2026-06-10T21:55:27.441Z",
+    "removed_at": "2026-06-10T22:07:27.071Z",
+    "duration_minutes": 11,
+    "duration_str": "11m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis lancent de nouvelles frappes contre l’Iran",
+    "added_at": "2026-06-10T22:07:27.071Z"
+  },
+  {
+    "title": "monde:::Patrick Bruel inculpé de viol, tentative de viol, agression sexuelle et harcèlement sexuel",
+    "added_at": "2026-06-10T23:02:43.008Z"
   }
 ]
