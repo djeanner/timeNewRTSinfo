@@ -2655,10 +2655,7 @@
   },
   {
     "title": "Couleurs d'été",
-    "added_at": "2025-07-22T13:38:22.048Z",
-    "removed_at": "2026-06-10T21:21:42.923Z",
-    "duration_minutes": 465583,
-    "duration_str": "323d 7h 43m"
+    "added_at": "2025-07-22T13:38:22.048Z"
   },
   {
     "title": "À Berne, Odessa Blanc raconte l'ambiance au Wankdorf",
@@ -89005,7 +89002,10 @@
   },
   {
     "title": "En France, l’affaire Lyhanna révèle des dysfonctionnements majeurs dans le traitement des plaintes et des signalements",
-    "added_at": "2026-06-05T20:22:05.040Z"
+    "added_at": "2026-06-05T20:22:05.040Z",
+    "removed_at": "2026-06-11T04:03:28.430Z",
+    "duration_minutes": 7661,
+    "duration_str": "5d 7h 41m"
   },
   {
     "title": "Une finale Alexander Zverev - Flavio Cobolli",
@@ -89933,7 +89933,10 @@
   },
   {
     "title": "Donald Trump copieusement hué pendant l'hymne national en marge d'une finale NBA",
-    "added_at": "2026-06-09T02:17:00.767Z"
+    "added_at": "2026-06-09T02:17:00.767Z",
+    "removed_at": "2026-06-11T04:17:54.285Z",
+    "duration_minutes": 3000,
+    "duration_str": "2d 2h"
   },
   {
     "title": "Alerte levée suite au feu de brousse qui menaçait le camp de base de la Suisse à San Diego",
@@ -90069,11 +90072,17 @@
   },
   {
     "title": "Le Grand Conseil valaisan approuve des crédits supplémentaires de plus de 13 millions pour Blatten",
-    "added_at": "2026-06-09T10:51:33.092Z"
+    "added_at": "2026-06-09T10:51:33.092Z",
+    "removed_at": "2026-06-11T02:36:58.797Z",
+    "duration_minutes": 2385,
+    "duration_str": "1d 15h 45m"
   },
   {
     "title": "Le Théâtre de Vidy dévoile une première partie de saison 2026-2027 riche en créations",
-    "added_at": "2026-06-09T11:32:34.753Z"
+    "added_at": "2026-06-09T11:32:34.753Z",
+    "removed_at": "2026-06-11T04:29:51.593Z",
+    "duration_minutes": 2457,
+    "duration_str": "1d 16h 57m"
   },
   {
     "title": "Le National et les Etats s'opposent sur le financement de la 13e rente AVS",
@@ -90099,7 +90108,10 @@
   },
   {
     "title": "Accusé de manquements, le commandant des sapeurs-pompiers de Bienne quitte son poste",
-    "added_at": "2026-06-09T13:01:40.716Z"
+    "added_at": "2026-06-09T13:01:40.716Z",
+    "removed_at": "2026-06-11T04:37:04.247Z",
+    "duration_minutes": 2375,
+    "duration_str": "1d 15h 35m"
   },
   {
     "title": "A Paris, l'artiste JR emballe le Pont Neuf et réveille les passions",
@@ -90501,5 +90513,13 @@
   {
     "title": "Les Etats-Unis démentent la fermeture du détroit d'Ormuz annoncée par l'Iran",
     "added_at": "2026-06-11T01:41:30.202Z"
+  },
+  {
+    "title": "Le Canada veut à son tour interdire les réseaux sociaux aux moins de 16 ans",
+    "added_at": "2026-06-11T02:36:58.797Z"
+  },
+  {
+    "title": "Comment le soccer parvient à faire sa place dans la culture américaine",
+    "added_at": "2026-06-11T04:29:51.593Z"
   }
 ]
