@@ -90252,7 +90252,10 @@
   },
   {
     "title": "La garde à vue de Patrick Bruel est prolongée de 24 heures",
-    "added_at": "2026-06-09T18:22:09.198Z"
+    "added_at": "2026-06-09T18:22:09.198Z",
+    "removed_at": "2026-06-11T22:21:57.184Z",
+    "duration_minutes": 3119,
+    "duration_str": "2d 3h 59m"
   },
   {
     "title": "A Paris, l’artiste JR emballe le Pont-Neuf en hommage à Christo et Jeanne-Claude",
@@ -90900,5 +90903,9 @@
   {
     "title": "Le Mexique remporte le match d'ouverture face à l'Afrique du Sud",
     "added_at": "2026-06-11T21:09:42.237Z"
+  },
+  {
+    "title": "G7: Genève ferme ses frontières et se barricade",
+    "added_at": "2026-06-11T21:21:52.405Z"
   }
 ]
