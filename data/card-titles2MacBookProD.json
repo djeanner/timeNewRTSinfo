@@ -8226,10 +8226,7 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z",
-    "removed_at": "2026-06-06T05:26:10.569Z",
-    "duration_minutes": 546444,
-    "duration_str": "379d 11h 24m"
+    "added_at": "2025-05-22T18:01:52.008Z"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -84404,7 +84401,10 @@
   },
   {
     "title": "monde:::Pour sortir d’une guerre «sans victoire», les Ukrainiens bombardent le «Davos russe» de Saint-Pétersbourg",
-    "added_at": "2026-06-03T17:38:57.895Z"
+    "added_at": "2026-06-03T17:38:57.895Z",
+    "removed_at": "2026-06-11T14:27:12.079Z",
+    "duration_minutes": 11328,
+    "duration_str": "7d 20h 48m"
   },
   {
     "title": "cyber:::Cloud, intelligence artificielle et puces: comment l’Europe veut reprendre le contrôle de son destin numérique",
@@ -86618,7 +86618,10 @@
   },
   {
     "title": "suisse:::L’universitaire lausannois Daniel Maggetti, spécialiste de la littérature romande: «J’ai de la peine à épouser une identité au détriment des autres. C’est pourquoi les discours identitaires me hérissent»",
-    "added_at": "2026-06-10T11:11:34.187Z"
+    "added_at": "2026-06-10T11:11:34.187Z",
+    "removed_at": "2026-06-11T14:19:59.396Z",
+    "duration_minutes": 1628,
+    "duration_str": "1d 3h 8m"
   },
   {
     "title": "suisse:::À Genève, un camping prévu pour les manifestants de No-G7 emporté par une tempête de «messages agressifs»",
@@ -86762,7 +86765,10 @@
   },
   {
     "title": "sport:::A San Diego, une équipe de Suisse à l’écart du monde nourrit ses propres polémiques",
-    "added_at": "2026-06-10T18:28:08.026Z"
+    "added_at": "2026-06-10T18:28:08.026Z",
+    "removed_at": "2026-06-11T15:32:12.224Z",
+    "duration_minutes": 1264,
+    "duration_str": "21h 4m"
   },
   {
     "title": "monde:::L’inflation explose, la guerre en Iran reprend: un mercredi noir aux Etats-Unis",
@@ -86890,7 +86896,10 @@
   },
   {
     "title": "sport:::«Nous ne sommes pas les rois du monde»: à l’ouverture du Mondial, l’étonnant exercice de modestie de Gianni Infantino",
-    "added_at": "2026-06-11T04:25:06.375Z"
+    "added_at": "2026-06-11T04:25:06.375Z",
+    "removed_at": "2026-06-11T15:32:12.224Z",
+    "duration_minutes": 667,
+    "duration_str": "11h 7m"
   },
   {
     "title": "suisse:::«Les professionnels qui se trouvent en première ligne n’adhèrent pas du tout à ce tour de vis sécuritaire»: la justice juvénile chamboulée en Suisse",
@@ -86902,7 +86911,10 @@
   },
   {
     "title": "suisse:::«Schwexit», «crash-test» et mythe du «bon étranger»: ce que la presse étrangère dit de l’initiative «Pas de Suisse à 10 millions!»",
-    "added_at": "2026-06-11T06:37:33.751Z"
+    "added_at": "2026-06-11T06:37:33.751Z",
+    "removed_at": "2026-06-11T15:29:45.129Z",
+    "duration_minutes": 532,
+    "duration_str": "8h 52m"
   },
   {
     "title": "sciences:::Un groupe de climatologues révèlent une étude accablante sur la courbe du réchauffement planétaire",
@@ -86953,11 +86965,17 @@
   },
   {
     "title": "monde:::«Vous n'avez pas mobilisé les ressources nécessaires»: le ministre britannique de la Défense quitte le gouvernement de Keir Starmer",
-    "added_at": "2026-06-11T12:38:40.199Z"
+    "added_at": "2026-06-11T12:38:40.199Z",
+    "removed_at": "2026-06-11T14:03:13.020Z",
+    "duration_minutes": 84,
+    "duration_str": "1h 24m"
   },
   {
     "title": "sport:::En direct, Coupe du monde 2026 – Trois pays hôtes, un nombre d'équipes record... Suivez avec nous le tournoi de la démesure",
-    "added_at": "2026-06-11T12:45:53.951Z"
+    "added_at": "2026-06-11T12:45:53.951Z",
+    "removed_at": "2026-06-11T14:39:13.952Z",
+    "duration_minutes": 113,
+    "duration_str": "1h 53m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump promet de frapper l'Iran «très fort» ce soir",
@@ -86969,5 +86987,40 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump veut frapper «très fort» l'Iran ce soir et saisir ses infrastructures pétrolières",
     "added_at": "2026-06-11T13:05:12.684Z"
+  },
+  {
+    "title": "suisse:::L’armée suisse, maillon indispensable du branle-bas sécuritaire lié au sommet du G7",
+    "added_at": "2026-06-11T14:03:13.020Z"
+  },
+  {
+    "title": "suisse:::Lait infantile: vers une meilleure protection des nourrissons",
+    "added_at": "2026-06-11T14:19:59.396Z"
+  },
+  {
+    "title": "suisse:::La condamnation de l’improvisateur abuseur confirmée par le Tribunal cantonal vaudois",
+    "added_at": "2026-06-11T14:27:12.079Z"
+  },
+  {
+    "title": "monde:::Le Niger criminalise l’homosexualité avec de lourdes peines de prison",
+    "added_at": "2026-06-11T14:34:25.831Z",
+    "removed_at": "2026-06-11T14:48:52.768Z",
+    "duration_minutes": 14,
+    "duration_str": "14m"
+  },
+  {
+    "title": "sport:::En direct, Coupe du monde 2026 – Mexico prêt à donner le coup d'envoi d'un tournoi inédit et sous tension",
+    "added_at": "2026-06-11T14:39:13.952Z"
+  },
+  {
+    "title": "economie:::Le propriétaire indien de Valcambi soupçonné d’avoir gonflé son chiffre d’affaires",
+    "added_at": "2026-06-11T15:03:19.766Z"
+  },
+  {
+    "title": "suisse:::«Au sein de la coalition, personne ne défend un modèle social-démocrate»: quelles revendications derrière No-G7?",
+    "added_at": "2026-06-11T15:32:12.224Z"
+  },
+  {
+    "title": "suisse:::Les perturbations causées par le G7 ont commencé: notre guide chronologique pour les minimiser",
+    "added_at": "2026-06-11T15:34:33.259Z"
   }
 ]
