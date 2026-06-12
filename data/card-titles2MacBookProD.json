@@ -8226,7 +8226,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z"
+    "added_at": "2025-05-22T18:01:52.008Z",
+    "removed_at": "2026-06-12T07:01:24.457Z",
+    "duration_minutes": 555179,
+    "duration_str": "385d 12h 59m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -86057,7 +86060,10 @@
   },
   {
     "title": "monde:::«Nos rêves s’éloignent»: A Téhéran, le choc entre deux Iran, celui qui soutient la guerre et celui qui la regrette",
-    "added_at": "2026-06-08T16:15:37.410Z"
+    "added_at": "2026-06-08T16:15:37.410Z",
+    "removed_at": "2026-06-12T06:27:47.553Z",
+    "duration_minutes": 5172,
+    "duration_str": "3d 14h 12m"
   },
   {
     "title": "economie:::Ratification de la Convention sur le harcèlement au travail: la droite et le patronat ne s’entendent pas",
@@ -87091,10 +87097,7 @@
   },
   {
     "title": "suisse:::Avant le G7, Genève derrière les planches",
-    "added_at": "2026-06-11T18:21:01.508Z",
-    "removed_at": "2026-06-12T05:15:30.203Z",
-    "duration_minutes": 654,
-    "duration_str": "10h 54m"
+    "added_at": "2026-06-11T18:21:01.508Z"
   },
   {
     "title": "sport:::A la Coupe du monde 1954, l’invention qui changea le destin de l'Allemagne",
@@ -87119,11 +87122,17 @@
   },
   {
     "title": "sport:::Bon vent, Charlie",
-    "added_at": "2026-06-11T19:04:37.704Z"
+    "added_at": "2026-06-11T19:04:37.704Z",
+    "removed_at": "2026-06-12T07:01:24.457Z",
+    "duration_minutes": 716,
+    "duration_str": "11h 56m"
   },
   {
     "title": "sport:::«Ils connaissent et acceptent leur rôle», la phrase du début de la Coupe du monde",
-    "added_at": "2026-06-11T19:06:58.775Z"
+    "added_at": "2026-06-11T19:06:58.775Z",
+    "removed_at": "2026-06-12T06:32:34.039Z",
+    "duration_minutes": 685,
+    "duration_str": "11h 25m"
   },
   {
     "title": "culture:::Samuel Labarthe, cet acteur franco-suisse qui chérit les lettres d’écrivains et veut les mettre à portée de tous",
@@ -87178,7 +87187,10 @@
   },
   {
     "title": "economie:::SpaceX s’apprête à décoller pour un vol historique à Wall Street",
-    "added_at": "2026-06-12T04:10:41.778Z"
+    "added_at": "2026-06-12T04:10:41.778Z",
+    "removed_at": "2026-06-12T06:34:58.929Z",
+    "duration_minutes": 144,
+    "duration_str": "2h 24m"
   },
   {
     "title": "suisse:::Bilatérales III: la guerre des nerfs a commencé sous la Coupole",
@@ -87195,5 +87207,17 @@
   {
     "title": "monde:::En maths, la France peut-elle encore relever le niveau avec sa prise de conscience?",
     "added_at": "2026-06-12T05:15:30.203Z"
+  },
+  {
+    "title": "suisse:::Une panne d’électricité généralisée touche plusieurs quartiers de Bienne",
+    "added_at": "2026-06-12T06:13:23.482Z"
+  },
+  {
+    "title": "suisse:::En images – Genève avant le No-G7 vu par le photographe Niels Ackermann",
+    "added_at": "2026-06-12T06:34:58.929Z"
+  },
+  {
+    "title": "suisse:::Pigeonniers, abattage, alimentation… Bâle se prononce dans les urnes sur la régulation de ses pigeons",
+    "added_at": "2026-06-12T07:01:24.457Z"
   }
 ]
