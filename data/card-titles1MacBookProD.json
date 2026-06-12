@@ -2655,7 +2655,10 @@
   },
   {
     "title": "Couleurs d'été",
-    "added_at": "2025-07-22T13:38:22.048Z"
+    "added_at": "2025-07-22T13:38:22.048Z",
+    "removed_at": "2026-06-12T16:22:45.029Z",
+    "duration_minutes": 468164,
+    "duration_str": "325d 2h 44m"
   },
   {
     "title": "À Berne, Odessa Blanc raconte l'ambiance au Wankdorf",
@@ -90539,7 +90542,10 @@
   },
   {
     "title": "Des avocats demandent l’inculpation des époux Moretti pour meurtre par dol éventuel",
-    "added_at": "2026-06-10T14:50:57.548Z"
+    "added_at": "2026-06-10T14:50:57.548Z",
+    "removed_at": "2026-06-12T18:18:16.012Z",
+    "duration_minutes": 3087,
+    "duration_str": "2d 3h 27m"
   },
   {
     "title": "Le parcours de la manif anti-G7 validé à Genève, les policiers porteront un numéro d'identification",
@@ -90718,7 +90724,10 @@
   },
   {
     "title": "Comment le soccer parvient à faire sa place dans la culture américaine",
-    "added_at": "2026-06-11T04:29:51.593Z"
+    "added_at": "2026-06-11T04:29:51.593Z",
+    "removed_at": "2026-06-12T17:58:58.280Z",
+    "duration_minutes": 2249,
+    "duration_str": "1d 13h 29m"
   },
   {
     "title": "En Suisse et ailleurs, des citoyens s'unissent pour protéger les forêts",
@@ -90740,11 +90749,17 @@
   },
   {
     "title": "Les Etats valident le financement mixte de la 13e rente AVS par une hausse de la TVA et des cotisations",
-    "added_at": "2026-06-11T07:47:34.451Z"
+    "added_at": "2026-06-11T07:47:34.451Z",
+    "removed_at": "2026-06-12T18:30:15.879Z",
+    "duration_minutes": 2082,
+    "duration_str": "1d 10h 42m"
   },
   {
     "title": "Le déclin démographique du Japon profite aux ours sauvages, qui envahissent les villes",
-    "added_at": "2026-06-11T08:04:36.688Z"
+    "added_at": "2026-06-11T08:04:36.688Z",
+    "removed_at": "2026-06-12T17:03:38.088Z",
+    "duration_minutes": 1979,
+    "duration_str": "1d 8h 59m"
   },
   {
     "title": "Le football dans les films, séries, chansons ou au cinéma, testez vos connaissances dans notre quiz",
@@ -90777,7 +90792,10 @@
   },
   {
     "title": "Le football dans les films, séries, chansons ou livres, testez vos connaissances dans notre quiz",
-    "added_at": "2026-06-11T09:04:39.714Z"
+    "added_at": "2026-06-11T09:04:39.714Z",
+    "removed_at": "2026-06-12T16:17:57.225Z",
+    "duration_minutes": 1873,
+    "duration_str": "1d 7h 13m"
   },
   {
     "title": "Alexander Ospelt nouveau président de la FIS",
@@ -90795,11 +90813,17 @@
   },
   {
     "title": "Johan Eliasch battu, Alexander Ospelt nouveau président de la FIS",
-    "added_at": "2026-06-11T10:09:35.382Z"
+    "added_at": "2026-06-11T10:09:35.382Z",
+    "removed_at": "2026-06-12T17:54:10.178Z",
+    "duration_minutes": 1904,
+    "duration_str": "1d 7h 44m"
   },
   {
     "title": "Berne accueille la première mondiale de l'opéra 'L'Agamennone' de Salvatore Sciarrino",
-    "added_at": "2026-06-11T10:09:35.382Z"
+    "added_at": "2026-06-11T10:09:35.382Z",
+    "removed_at": "2026-06-12T16:03:24.396Z",
+    "duration_minutes": 1793,
+    "duration_str": "1d 5h 53m"
   },
   {
     "title": "Quelles sont vos propositions pour combattre la crise du logement en Suisse?",
@@ -91156,5 +91180,33 @@
   {
     "title": "Les Metallikids, un groupe fribourgeois de métal adapté aux enfants qui fait sensation à voir au Palp",
     "added_at": "2026-06-12T15:41:31.626Z"
+  },
+  {
+    "title": "Le sport ne protège pas de la nicotine, révèle une étude d'Unisanté",
+    "added_at": "2026-06-12T16:03:24.396Z"
+  },
+  {
+    "title": "D'où vient la fascination de Donald Trump pour les \"beaux mecs\"?",
+    "added_at": "2026-06-12T16:17:57.225Z"
+  },
+  {
+    "title": "A quoi sert vraiment le G7 ?",
+    "added_at": "2026-06-12T16:22:45.029Z"
+  },
+  {
+    "title": "L'action de SpaceX décolle de plus de 20%, la fortune d'Elon Musk dépasse les 1000 milliards",
+    "added_at": "2026-06-12T17:03:38.088Z"
+  },
+  {
+    "title": "La Suisse se propose pour accueillir la signature d'un accord entre les Etats-Unis et l'Iran",
+    "added_at": "2026-06-12T17:54:10.178Z"
+  },
+  {
+    "title": "Vers la fin du cumul des mandats pour les conseillers d'Etat valaisans",
+    "added_at": "2026-06-12T17:58:58.280Z"
+  },
+  {
+    "title": "Plusieurs centaines de personnes ont rendu hommage à Lyhanna en France",
+    "added_at": "2026-06-12T18:30:15.879Z"
   }
 ]
