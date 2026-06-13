@@ -2655,10 +2655,7 @@
   },
   {
     "title": "Couleurs d'été",
-    "added_at": "2025-07-22T13:38:22.048Z",
-    "removed_at": "2026-06-12T16:22:45.029Z",
-    "duration_minutes": 468164,
-    "duration_str": "325d 2h 44m"
+    "added_at": "2025-07-22T13:38:22.048Z"
   },
   {
     "title": "À Berne, Odessa Blanc raconte l'ambiance au Wankdorf",
@@ -90687,7 +90684,10 @@
   },
   {
     "title": "Les réactions affluent après la mort de Jean Ziegler",
-    "added_at": "2026-06-10T20:21:20.521Z"
+    "added_at": "2026-06-10T20:21:20.521Z",
+    "removed_at": "2026-06-13T10:18:22.631Z",
+    "duration_minutes": 3717,
+    "duration_str": "2d 13h 57m"
   },
   {
     "title": "Comment la population chinoise s'adapte à la surveillance de masse: interview d’Ariane Ollier-Malaterre",
@@ -90996,7 +90996,10 @@
   },
   {
     "title": "Plus des deux tiers des places d'apprentissage sont déjà attribuées",
-    "added_at": "2026-06-11T15:56:23.399Z"
+    "added_at": "2026-06-11T15:56:23.399Z",
+    "removed_at": "2026-06-13T09:37:32.963Z",
+    "duration_minutes": 2501,
+    "duration_str": "1d 17h 41m"
   },
   {
     "title": "SpaceX en bourse: l’empire Musk est-il solide?",
@@ -91344,5 +91347,9 @@
   {
     "title": "'Disclosure Day' de Steven Spielberg, la vérité sur les aliens ★★★★★",
     "added_at": "2026-06-13T08:03:34.123Z"
+  },
+  {
+    "title": "La vérité derrière votre t-shirt à 6 francs: le 'Shein Village' et ses conditions de travail extrêmes",
+    "added_at": "2026-06-13T09:37:32.963Z"
   }
 ]
