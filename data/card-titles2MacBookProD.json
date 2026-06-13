@@ -84428,7 +84428,10 @@
   },
   {
     "title": "monde:::Pour ses cyberattaques, l’Iran mise sur ChatGPT ou Gemini",
-    "added_at": "2026-06-03T18:25:51.291Z"
+    "added_at": "2026-06-03T18:25:51.291Z",
+    "removed_at": "2026-06-13T17:07:52.112Z",
+    "duration_minutes": 14322,
+    "duration_str": "9d 22h 42m"
   },
   {
     "title": "monde:::L’UE dénonce des droits de douane «injustifiés» et appelle au dialogue et au respect de l’accord de Turnberry",
@@ -87608,15 +87611,24 @@
   },
   {
     "title": "monde:::Joyeux anniversaire M. Trump! (comment les Etats-Unis ont pris un coup de vieux)",
-    "added_at": "2026-06-13T09:30:19.590Z"
+    "added_at": "2026-06-13T09:30:19.590Z",
+    "removed_at": "2026-06-13T18:51:14.264Z",
+    "duration_minutes": 560,
+    "duration_str": "9h 20m"
   },
   {
     "title": "culture:::Cet été, une plage normande déploie les images de femmes photographes",
-    "added_at": "2026-06-13T09:42:19.327Z"
+    "added_at": "2026-06-13T09:42:19.327Z",
+    "removed_at": "2026-06-13T17:41:29.663Z",
+    "duration_minutes": 479,
+    "duration_str": "7h 59m"
   },
   {
     "title": "culture:::A Annecy, le cinéma d’animation a désormais droit de cité toute l’année",
-    "added_at": "2026-06-13T10:49:38.898Z"
+    "added_at": "2026-06-13T10:49:38.898Z",
+    "removed_at": "2026-06-13T18:44:00.579Z",
+    "duration_minutes": 474,
+    "duration_str": "7h 54m"
   },
   {
     "title": "monde:::L’heure de changer un «modèle anti-industriel»: le réarmement français se fait dans la douleur alors que s’ouvre Eurosatory",
@@ -87652,7 +87664,10 @@
   },
   {
     "title": "culture:::«Que peut apprendre le monde de nous?»: la star de l’art contemporain, Ibrahim Mahama, investit Art Basel",
-    "added_at": "2026-06-13T13:18:57.629Z"
+    "added_at": "2026-06-13T13:18:57.629Z",
+    "removed_at": "2026-06-13T17:31:50.188Z",
+    "duration_minutes": 252,
+    "duration_str": "4h 12m"
   },
   {
     "title": "suisse:::Après un coup de mou, le parc technologique vaudois Y-Parc poursuit son essor",
@@ -87663,7 +87678,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Téhéran exclut tout accord avec Washington dans les 24h",
-    "added_at": "2026-06-13T13:30:58.704Z"
+    "added_at": "2026-06-13T13:30:58.704Z",
+    "removed_at": "2026-06-13T18:17:27.974Z",
+    "duration_minutes": 286,
+    "duration_str": "4h 46m"
   },
   {
     "title": "suisse:::En direct, G7 à Evian – Une flottille sur le Léman accuse le G7 de complicité de génocide",
@@ -87689,7 +87707,10 @@
   },
   {
     "title": "suisse:::En direct, G7 à Evian – Coup d’envoi de la manifestation féministe à Lausanne",
-    "added_at": "2026-06-13T15:17:01.248Z"
+    "added_at": "2026-06-13T15:17:01.248Z",
+    "removed_at": "2026-06-13T17:07:52.112Z",
+    "duration_minutes": 110,
+    "duration_str": "1h 50m"
   },
   {
     "title": "economie:::Chez les plus de 50 ans, la problématique du chômage de longue durée persiste",
@@ -87698,5 +87719,43 @@
   {
     "title": "culture:::«Au bout du compte, tout finit à la décharge»: Du design à l’art, Hella Jongerius se bat contre la destruction de notre monde",
     "added_at": "2026-06-13T15:55:31.093Z"
+  },
+  {
+    "title": "sport:::Sébastien Migné, sélectionneur d’Haïti à la Coupe du monde: «On a transformé la contrainte de ne pas pouvoir jouer sur notre île en force»",
+    "added_at": "2026-06-13T16:26:55.588Z"
+  },
+  {
+    "title": "suisse:::En direct, G7 à Evian – Entre 9000 et 15 000 manifestants à Lausanne",
+    "added_at": "2026-06-13T17:07:52.112Z",
+    "removed_at": "2026-06-13T18:03:02.413Z",
+    "duration_minutes": 55,
+    "duration_str": "55m"
+  },
+  {
+    "title": "cyber:::Entraînement des IA: «Nous assistons aujourd’hui à la naissance d’une nouvelle classe ouvrière»",
+    "added_at": "2026-06-13T17:31:50.188Z"
+  },
+  {
+    "title": "suisse:::En direct, G7 à Evian – Une première journée de contre-sommet sous les couleurs féministes",
+    "added_at": "2026-06-13T18:03:02.413Z",
+    "removed_at": "2026-06-13T18:15:06.463Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "sport:::En direct, Coupe du monde 2026 – Suivez avec nous l'entrée en lice de la Nati contre le Qatar!",
+    "added_at": "2026-06-13T18:15:06.463Z"
+  },
+  {
+    "title": "sport:::A la Coupe du monde 1962, Puskás et Di Stéfano restent sur leur faim",
+    "added_at": "2026-06-13T18:15:06.463Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump insiste: un accord avec Téhéran serait prévu pour dimanche exclut tout accord avec Washington dans les 24h",
+    "added_at": "2026-06-13T18:17:27.974Z"
+  },
+  {
+    "title": "suisse:::A la veille de manifestation «No-G7», la Grève féministe vaudoise a donné le ton de l’anti-impérialisme",
+    "added_at": "2026-06-13T18:44:00.579Z"
   }
 ]
