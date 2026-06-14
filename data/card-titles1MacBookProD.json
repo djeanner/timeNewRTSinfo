@@ -2655,7 +2655,10 @@
   },
   {
     "title": "Couleurs d'été",
-    "added_at": "2025-07-22T13:38:22.048Z"
+    "added_at": "2025-07-22T13:38:22.048Z",
+    "removed_at": "2026-06-14T18:05:24.651Z",
+    "duration_minutes": 471147,
+    "duration_str": "327d 4h 27m"
   },
   {
     "title": "À Berne, Odessa Blanc raconte l'ambiance au Wankdorf",
@@ -91177,10 +91180,7 @@
   },
   {
     "title": "Crans-Montana: la possible réouverture de deux établissements du couple Moretti fait scandale dans les médias italiens",
-    "added_at": "2026-06-12T06:23:00.943Z",
-    "removed_at": "2026-06-14T16:02:37.938Z",
-    "duration_minutes": 3459,
-    "duration_str": "2d 9h 39m"
+    "added_at": "2026-06-12T06:23:00.943Z"
   },
   {
     "title": "Les médias italiens se déchaînent contre les Moretti, qui veulent rouvrir leurs restaurants",
@@ -91357,7 +91357,10 @@
   },
   {
     "title": "Il y a 50 ans, le panier de courses était moins cher mais pesait plus lourd dans le budget",
-    "added_at": "2026-06-12T15:22:18.596Z"
+    "added_at": "2026-06-12T15:22:18.596Z",
+    "removed_at": "2026-06-14T17:07:41.423Z",
+    "duration_minutes": 2985,
+    "duration_str": "2d 1h 45m"
   },
   {
     "title": "\"Hong Kong est devenu un État policier\"",
@@ -91905,11 +91908,17 @@
   },
   {
     "title": "La question épineuse des logements pour les manifestants étrangers anti-G7 à Genève",
-    "added_at": "2026-06-14T16:02:37.938Z"
+    "added_at": "2026-06-14T16:02:37.938Z",
+    "removed_at": "2026-06-14T18:05:24.651Z",
+    "duration_minutes": 122,
+    "duration_str": "2h 2m"
   },
   {
     "title": "Voiture en feu, tirs de projectiles et gaz lacrymogène: des violences signalées à la manifestation anti-G7 à Genève",
-    "added_at": "2026-06-14T16:05:02.828Z"
+    "added_at": "2026-06-14T16:05:02.828Z",
+    "removed_at": "2026-06-14T16:43:42.461Z",
+    "duration_minutes": 38,
+    "duration_str": "38m"
   },
   {
     "title": "Le peuple suisse refuse l'initiative de l'UDC \"Pas de Suisse à 10 millions\" à 54,5% des voix",
@@ -91924,6 +91933,32 @@
   },
   {
     "title": "Le peuple suisse refuse l'initiative de l'UDC \"Pas de Suisse à 10 millions\" à 54,8% des voix",
-    "added_at": "2026-06-14T16:17:03.314Z"
+    "added_at": "2026-06-14T16:17:03.314Z",
+    "removed_at": "2026-06-14T16:26:51.163Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Non à 54,8% à l'initiative \"Pas de Suisse à 10 millions\", refus unanime des cantons romands",
+    "added_at": "2026-06-14T16:26:51.163Z"
+  },
+  {
+    "title": "Voiture en feu, vitres brisées et gaz lacrymogène: des violences signalées à la manifestation anti-G7 à Genève",
+    "added_at": "2026-06-14T16:43:42.461Z",
+    "removed_at": "2026-06-14T17:26:53.671Z",
+    "duration_minutes": 43,
+    "duration_str": "43m"
+  },
+  {
+    "title": "Au nom de la Commission européenne, Ursula von der Leyen salue le rejet de l'initiative de l'UDC",
+    "added_at": "2026-06-14T17:07:41.423Z"
+  },
+  {
+    "title": "La police disperse la manifestation anti-G7 à Genève après de nombreux dégâts, les heurts continuent",
+    "added_at": "2026-06-14T17:22:07.407Z"
+  },
+  {
+    "title": "Oui à la réforme sur le service civil: les réactions de Clarence Chollet et Nicolas Kolly",
+    "added_at": "2026-06-14T18:05:24.651Z"
   }
 ]
