@@ -91247,7 +91247,10 @@
   },
   {
     "title": "La ville de Bienne victime d'une panne totale d'électricité après un incendie",
-    "added_at": "2026-06-12T13:22:03.527Z"
+    "added_at": "2026-06-12T13:22:03.527Z",
+    "removed_at": "2026-06-14T05:38:27.246Z",
+    "duration_minutes": 2416,
+    "duration_str": "1d 16h 16m"
   },
   {
     "title": "Genève se barricade à l'approche des manifestations anti-G7",
@@ -91422,7 +91425,10 @@
   },
   {
     "title": "Une flottille pour Gaza navigue sur le Léman avant le G7",
-    "added_at": "2026-06-13T11:25:56.829Z"
+    "added_at": "2026-06-13T11:25:56.829Z",
+    "removed_at": "2026-06-14T05:33:39.746Z",
+    "duration_minutes": 1087,
+    "duration_str": "18h 7m"
   },
   {
     "title": "Un accord de paix entre l'Iran et les Etats-Unis devrait être signé dans les 24 heures, selon le Pakistan",
@@ -91533,5 +91539,13 @@
   {
     "title": "Nokia, HP ou Dell, certaines marques proches de la disparition profitent du boom de l'IA",
     "added_at": "2026-06-13T21:15:49.255Z"
+  },
+  {
+    "title": "L’aéroport de Genève se prépare à l’arrivée des délégations du G7",
+    "added_at": "2026-06-14T05:33:39.746Z"
+  },
+  {
+    "title": "Les contenus toxiques inondent TikTok et menacent la santé mentale de nos enfants",
+    "added_at": "2026-06-14T05:38:27.246Z"
   }
 ]
