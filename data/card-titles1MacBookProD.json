@@ -90633,7 +90633,10 @@
   },
   {
     "title": "Enfant aidant·e, ça veut dire quoi ?",
-    "added_at": "2026-06-10T18:23:21.658Z"
+    "added_at": "2026-06-10T18:23:21.658Z",
+    "removed_at": "2026-06-15T07:23:52.263Z",
+    "duration_minutes": 6540,
+    "duration_str": "4d 13h"
   },
   {
     "title": "Comment un couple genevois s'est retrouvé aux prises de faux employés d'UBS",
@@ -91413,19 +91416,31 @@
   },
   {
     "title": "Vers la fin du cumul des mandats pour les conseillers d'Etat valaisans",
-    "added_at": "2026-06-12T17:58:58.280Z"
+    "added_at": "2026-06-12T17:58:58.280Z",
+    "removed_at": "2026-06-15T06:45:31.318Z",
+    "duration_minutes": 3646,
+    "duration_str": "2d 12h 46m"
   },
   {
     "title": "Plusieurs centaines de personnes ont rendu hommage à Lyhanna en France",
-    "added_at": "2026-06-12T18:30:15.879Z"
+    "added_at": "2026-06-12T18:30:15.879Z",
+    "removed_at": "2026-06-15T06:07:01.552Z",
+    "duration_minutes": 3576,
+    "duration_str": "2d 11h 36m"
   },
   {
     "title": "Vol à la Caisse de prêts sur gages de Genève: le butin est estimé à 750'000 francs",
-    "added_at": "2026-06-12T18:44:54.867Z"
+    "added_at": "2026-06-12T18:44:54.867Z",
+    "removed_at": "2026-06-15T07:31:05.065Z",
+    "duration_minutes": 3646,
+    "duration_str": "2d 12h 46m"
   },
   {
     "title": "\"Comme une bataille de Titans\": il y a 100 ans, un \"cyclone\" dévastait les Franches-Montagnes",
-    "added_at": "2026-06-12T19:01:51.000Z"
+    "added_at": "2026-06-12T19:01:51.000Z",
+    "removed_at": "2026-06-15T08:09:27.376Z",
+    "duration_minutes": 3667,
+    "duration_str": "2d 13h 7m"
   },
   {
     "title": "La police genevoise confirme des tentatives de commande de boules de pétanque avant le G7",
@@ -91433,7 +91448,10 @@
   },
   {
     "title": "L'action de SpaceX clôture en hausse de 19%, la fortune d'Elon Musk dépasse les 1000 milliards",
-    "added_at": "2026-06-12T20:30:54.481Z"
+    "added_at": "2026-06-12T20:30:54.481Z",
+    "removed_at": "2026-06-15T07:31:05.065Z",
+    "duration_minutes": 3540,
+    "duration_str": "2d 11h"
   },
   {
     "title": "Plongée dans un centre de commandement secret en Ukraine où les drones dominent la guerre",
@@ -92080,7 +92098,10 @@
   },
   {
     "title": "Un joyau orthodoxe de Kiev, la cathédrale de la Dormition est en feu après des frappes russes",
-    "added_at": "2026-06-15T03:30:44.509Z"
+    "added_at": "2026-06-15T03:30:44.509Z",
+    "removed_at": "2026-06-15T07:23:52.263Z",
+    "duration_minutes": 233,
+    "duration_str": "3h 53m"
   },
   {
     "title": "La présence de Donald Trump \"possible\" à Genève vendredi pour signer l'accord entre les Etats-Unis et l'Iran",
@@ -92095,6 +92116,48 @@
   },
   {
     "title": "L'évacuation des 200 personnes encerclées par la police sur les quais de Genève s'est terminée au petit matin",
-    "added_at": "2026-06-15T05:01:56.455Z"
+    "added_at": "2026-06-15T05:01:56.455Z",
+    "removed_at": "2026-06-15T07:16:39.936Z",
+    "duration_minutes": 134,
+    "duration_str": "2h 14m"
+  },
+  {
+    "title": "Les Etats-Unis et l'Iran trouvent un accord pour arrêter la guerre, la signature prévue vendredi à Genève",
+    "added_at": "2026-06-15T06:07:01.552Z"
+  },
+  {
+    "title": "'Camaïeu', l'exploration sonore colorée du duo jazz Ton sur Ton",
+    "added_at": "2026-06-15T06:45:31.318Z"
+  },
+  {
+    "title": "L'évacuation des 200 personnes encerclées par la police à Genève s'est terminée au petit matin",
+    "added_at": "2026-06-15T07:14:15.394Z",
+    "removed_at": "2026-06-15T07:33:31.824Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
+  },
+  {
+    "title": "La cathédrale de la Dormition, joyau orthodoxe de Kiev, est en feu après des frappes russes",
+    "added_at": "2026-06-15T07:23:52.263Z"
+  },
+  {
+    "title": "Vingt-huit personnes en rétention, dont 3 arrestations provisoires, selon le porte-parole de la police genevoise",
+    "added_at": "2026-06-15T07:23:52.263Z"
+  },
+  {
+    "title": "Les Carolina Hurricanes triomphent des Vegas Golden Knights et soulèvent la Coupe Stanley",
+    "added_at": "2026-06-15T07:31:05.065Z"
+  },
+  {
+    "title": "La Suède brille à Monterrey et écrase la Tunisie 5-1",
+    "added_at": "2026-06-15T07:31:05.065Z"
+  },
+  {
+    "title": "Après 10 heures de nasse policière à Genève, une centaine de personnes libérées au petit matin",
+    "added_at": "2026-06-15T07:33:31.824Z"
+  },
+  {
+    "title": "Soupçons de corruption dans la construction du pont de Messine, entre l'Italie et la Sicile",
+    "added_at": "2026-06-15T08:09:27.376Z"
   }
 ]
