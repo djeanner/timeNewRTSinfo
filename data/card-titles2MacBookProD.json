@@ -87558,7 +87558,10 @@
   },
   {
     "title": "monde:::Guerre en Ukraine – Volodymyr Zelensky signe une loi retirant au russe son statut de langue protégée",
-    "added_at": "2026-06-12T20:11:39.833Z"
+    "added_at": "2026-06-12T20:11:39.833Z",
+    "removed_at": "2026-06-14T23:20:35.121Z",
+    "duration_minutes": 3068,
+    "duration_str": "2d 3h 8m"
   },
   {
     "title": "monde:::Moyen-Orient – Les États-Unis affirment avoir abattu des drones iraniens",
@@ -88255,10 +88258,7 @@
   },
   {
     "title": "monde:::Au G7 d’Evian, tout tournera autour de la gestion du «cas Trump»",
-    "added_at": "2026-06-14T19:53:50.884Z",
-    "removed_at": "2026-06-14T21:10:38.049Z",
-    "duration_minutes": 76,
-    "duration_str": "1h 16m"
+    "added_at": "2026-06-14T19:53:50.884Z"
   },
   {
     "title": "suisse:::En direct, G7 à Evian – La grande manifestation contre le G-7 s’est terminée en affrontements",
@@ -88269,7 +88269,10 @@
   },
   {
     "title": "suisse:::«Aucun blessé n’est à déplorer à l’heure actuelle», communique la police genevoise à l’issue d’une folle journée",
-    "added_at": "2026-06-14T21:10:38.049Z"
+    "added_at": "2026-06-14T21:10:38.049Z",
+    "removed_at": "2026-06-14T23:03:44.638Z",
+    "duration_minutes": 113,
+    "duration_str": "1h 53m"
   },
   {
     "title": "suisse:::Ouverture des commerces le dimanche: la sortie – enfin – d’un échec collectif",
@@ -88277,7 +88280,10 @@
   },
   {
     "title": "suisse:::En direct, G7 à Evian – La grande manifestation contre le G-7 s’est terminée en affrontements, plusieurs interpellations",
-    "added_at": "2026-06-14T21:13:03.238Z"
+    "added_at": "2026-06-14T21:13:03.238Z",
+    "removed_at": "2026-06-14T22:15:43.520Z",
+    "duration_minutes": 62,
+    "duration_str": "1h 2m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis et l'Iran signeront un accord de paix en Suisse le 19 juin",
@@ -88289,5 +88295,45 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis et l’Iran signeront un accord de paix à Genève le 19 juin",
     "added_at": "2026-06-14T21:44:22.359Z"
+  },
+  {
+    "title": "suisse:::En direct, G7 à Evian – La tension reste vive au le Quai Wilson",
+    "added_at": "2026-06-14T22:15:43.520Z",
+    "removed_at": "2026-06-14T22:20:35.697Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "suisse:::En direct, G7 à Evian – La tension reste vive au Quai Wilson: «environ 300 personnes sont toujours coincées»",
+    "added_at": "2026-06-14T22:20:35.697Z",
+    "removed_at": "2026-06-15T00:18:16.751Z",
+    "duration_minutes": 117,
+    "duration_str": "1h 57m"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Notre suivi du 14 juin 2026",
+    "added_at": "2026-06-14T23:20:35.121Z",
+    "removed_at": "2026-06-14T23:23:01.916Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Une attaque de missiles en cours sur Kiev",
+    "added_at": "2026-06-14T23:23:01.916Z",
+    "removed_at": "2026-06-15T00:20:37.732Z",
+    "duration_minutes": 57,
+    "duration_str": "57m"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Notre suivi du week-end du 12 au 14 juin 2026",
+    "added_at": "2026-06-14T23:51:47.640Z"
+  },
+  {
+    "title": "suisse:::En direct, G7 à Evian – La tension reste vive au Quai Wilson: près de 300 personnes sont toujours «coincées»",
+    "added_at": "2026-06-15T00:18:16.751Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Une attaque de missiles en cours sur Kiev, la cathédrale en feu",
+    "added_at": "2026-06-15T00:20:37.732Z"
   }
 ]
