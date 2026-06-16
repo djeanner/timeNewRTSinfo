@@ -88711,7 +88711,10 @@
   },
   {
     "title": "sport:::Pickles, le chien qui a gagné la Coupe du monde 1966 (et un an de croquettes)",
-    "added_at": "2026-06-15T18:45:43.668Z"
+    "added_at": "2026-06-15T18:45:43.668Z",
+    "removed_at": "2026-06-15T23:19:35.027Z",
+    "duration_minutes": 273,
+    "duration_str": "4h 33m"
   },
   {
     "title": "economie:::Après dix heures de débat, le parlement refuse de trancher sur le retour du nucléaire et exige des garanties financières",
@@ -88735,5 +88738,9 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky propose de rencontrer Vladimir Poutine aux Etats-Unis",
     "added_at": "2026-06-15T21:14:25.523Z"
+  },
+  {
+    "title": "sport:::En direct, Coupe du monde 2026 – L’Iran entre en lice à Los Angeles, où se préparent des manifestations contre le régime",
+    "added_at": "2026-06-15T23:19:35.027Z"
   }
 ]
