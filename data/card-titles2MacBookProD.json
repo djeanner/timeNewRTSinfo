@@ -88745,7 +88745,10 @@
   },
   {
     "title": "economie:::Après dix heures de débat, le parlement refuse de trancher sur le retour du nucléaire et exige des garanties financières",
-    "added_at": "2026-06-15T18:57:43.546Z"
+    "added_at": "2026-06-15T18:57:43.546Z",
+    "removed_at": "2026-06-16T09:23:29.225Z",
+    "duration_minutes": 865,
+    "duration_str": "14h 25m"
   },
   {
     "title": "sciences:::Faut-il vraiment prendre des compléments alimentaires à la ménopause?",
@@ -88802,7 +88805,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky participera à une réunion de travail au G7",
-    "added_at": "2026-06-16T02:53:38.144Z"
+    "added_at": "2026-06-16T02:53:38.144Z",
+    "removed_at": "2026-06-16T09:06:42.874Z",
+    "duration_minutes": 373,
+    "duration_str": "6h 13m"
   },
   {
     "title": "sport:::En direct, Coupe du monde 2026 – L'Iran accroché par la Nouvelle-Zelande",
@@ -88831,7 +88837,10 @@
   },
   {
     "title": "monde:::Un G7 pour faire pression sur Vladimir Poutine",
-    "added_at": "2026-06-16T04:54:01.411Z"
+    "added_at": "2026-06-16T04:54:01.411Z",
+    "removed_at": "2026-06-16T10:45:11.757Z",
+    "duration_minutes": 351,
+    "duration_str": "5h 51m"
   },
   {
     "title": "cyber:::«La Suisse a brutalement compris l’importance de la souveraineté numérique. Mais les autorités ne sont pas à la hauteur des enjeux»",
@@ -88839,10 +88848,7 @@
   },
   {
     "title": "sport:::En direct, Coupe du monde 2026 – Le sélectionneur et la star de l'Iran dénoncent le traitement infligé à leur équipe",
-    "added_at": "2026-06-16T05:34:51.148Z",
-    "removed_at": "2026-06-16T08:47:13.076Z",
-    "duration_minutes": 192,
-    "duration_str": "3h 12m"
+    "added_at": "2026-06-16T05:34:51.148Z"
   },
   {
     "title": "monde:::«Les Français peuvent être fiers»: avant son dernier G7, Emmanuel Macron se décrit au centre du monde",
@@ -88853,7 +88859,10 @@
   },
   {
     "title": "monde:::Guerre du Vietnam: l’«agent orange», ce défoliant toxique déversé par l’armée américaine, en procès en France",
-    "added_at": "2026-06-16T05:58:50.272Z"
+    "added_at": "2026-06-16T05:58:50.272Z",
+    "removed_at": "2026-06-16T10:45:11.757Z",
+    "duration_minutes": 286,
+    "duration_str": "4h 46m"
   },
   {
     "title": "sport:::A Los Angeles, deux drapeaux rivaux pour soutenir une même équipe d’Iran",
@@ -88869,7 +88878,10 @@
   },
   {
     "title": "suisse:::En direct, G7 – Volodymyr Zelensky est réuni avec les dirigeants du G7 pour une session de travail sur l'Ukraine",
-    "added_at": "2026-06-16T08:13:33.084Z"
+    "added_at": "2026-06-16T08:13:33.084Z",
+    "removed_at": "2026-06-16T10:45:11.757Z",
+    "duration_minutes": 151,
+    "duration_str": "2h 31m"
   },
   {
     "title": "culture:::Art Basel ouvre le 17 juin, mais ce n’est pas la seule foire du paysage bâlois",
@@ -88877,6 +88889,28 @@
   },
   {
     "title": "cyber:::En Suisse, l'intelligence artificielle impacte plus d'un emploi sur quatre",
-    "added_at": "2026-06-16T08:47:13.076Z"
+    "added_at": "2026-06-16T08:47:13.076Z",
+    "removed_at": "2026-06-16T10:35:37.885Z",
+    "duration_minutes": 108,
+    "duration_str": "1h 48m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – La Chine dément avoir formé des soldats russes sur son sol pour combattre contre Kiev",
+    "added_at": "2026-06-16T09:06:42.874Z"
+  },
+  {
+    "title": "suisse:::En direct, G7 à Evian – Les dirigeants du G7 se penchent sur l'Ukraine, Donald Trump conseille à Vladimir Poutine de «conclure un accord» avec Kiev",
+    "added_at": "2026-06-16T10:45:11.757Z",
+    "removed_at": "2026-06-16T11:21:16.911Z",
+    "duration_minutes": 36,
+    "duration_str": "36m"
+  },
+  {
+    "title": "sport:::«Tout le monde pense que le meilleur moyen de devenir riche est d’être footballeur»: notre série en région parisienne, premier vivier du football mondial",
+    "added_at": "2026-06-16T10:45:11.757Z"
+  },
+  {
+    "title": "suisse:::En direct, G7 à Evian – La France affirme que le G7 est «d'accord pour augmenter la pression» sur Moscou",
+    "added_at": "2026-06-16T11:21:16.911Z"
   }
 ]
