@@ -89450,7 +89450,10 @@
   },
   {
     "title": "culture:::A Bâle, la foire d’art tente de cultiver la surprise",
-    "added_at": "2026-06-17T15:26:16.725Z"
+    "added_at": "2026-06-17T15:26:16.725Z",
+    "removed_at": "2026-06-18T06:49:08.837Z",
+    "duration_minutes": 922,
+    "duration_str": "15h 22m"
   },
   {
     "title": "monde:::Missile Flamingo, intercepteurs de drones… les industriels ukrainiens envahissent Eurosatory et bientôt tout le juteux marché de l’armement",
@@ -89511,7 +89514,10 @@
   },
   {
     "title": "economie:::L’idée d’une présomption de blanchiment fâche les milieux bancaires",
-    "added_at": "2026-06-17T17:24:48.205Z"
+    "added_at": "2026-06-17T17:24:48.205Z",
+    "removed_at": "2026-06-18T09:18:19.613Z",
+    "duration_minutes": 953,
+    "duration_str": "15h 53m"
   },
   {
     "title": "suisse:::Après un débat houleux, le Conseil national refuse d’approuver l’accord avec le Mercosur",
@@ -89519,7 +89525,10 @@
   },
   {
     "title": "sport:::A quoi joue Tadej Pogacar? Incroyable mais vrai: à gagner une course de vélo",
-    "added_at": "2026-06-17T17:46:28.359Z"
+    "added_at": "2026-06-17T17:46:28.359Z",
+    "removed_at": "2026-06-18T09:18:19.613Z",
+    "duration_minutes": 931,
+    "duration_str": "15h 31m"
   },
   {
     "title": "suisse:::En direct, G7 à Evian – Emmanuel Macron remercie la Suisse pour son aide à l'organisation du sommet du G7",
@@ -89651,7 +89660,10 @@
   },
   {
     "title": "monde:::Guerre en Ukraine – Notre suivi du 17 juin 2026",
-    "added_at": "2026-06-18T01:31:11.593Z"
+    "added_at": "2026-06-18T01:31:11.593Z",
+    "removed_at": "2026-06-18T07:32:28.098Z",
+    "duration_minutes": 361,
+    "duration_str": "6h 1m"
   },
   {
     "title": "monde:::Donald Trump et Emmanuel Macron ont dîné au château de Versailles",
@@ -89670,7 +89682,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump et le président iranien Massoud Pezeshkian ont signé le protocole d’accord plus tôt que prévu",
-    "added_at": "2026-06-18T05:19:56.943Z"
+    "added_at": "2026-06-18T05:19:56.943Z",
+    "removed_at": "2026-06-18T07:18:01.130Z",
+    "duration_minutes": 118,
+    "duration_str": "1h 58m"
   },
   {
     "title": "sport:::En direct, Coupe du monde 2026 – L’Angleterre punit la Croatie 4-2 avec un doublé de Harry Kane",
@@ -89678,10 +89693,55 @@
   },
   {
     "title": "sport:::A Los Angeles, suivre la Coupe du monde sur un écran géant à 180 degrés pour 630 dollars",
-    "added_at": "2026-06-18T06:39:16.110Z"
+    "added_at": "2026-06-18T06:39:16.110Z",
+    "removed_at": "2026-06-18T06:46:39.258Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
   },
   {
     "title": "sport:::À Guadalajara, la Coupe du monde se joue au pied des charniers",
-    "added_at": "2026-06-18T06:39:16.110Z"
+    "added_at": "2026-06-18T06:39:16.110Z",
+    "removed_at": "2026-06-18T07:44:27.580Z",
+    "duration_minutes": 65,
+    "duration_str": "1h 5m"
+  },
+  {
+    "title": "monde:::«Roi» d’un nord défavorisé, le maire de Manchester, Andy Burnham, se prépare à remplacer Keir Starmer",
+    "added_at": "2026-06-18T06:41:51.323Z"
+  },
+  {
+    "title": "sport:::A Los Angeles, suivre la Coupe du monde sur un écran géant à 180 degrés pour 630 dollars",
+    "added_at": "2026-06-18T06:46:39.258Z"
+  },
+  {
+    "title": "culture:::Unlimited à Art Basel: une marelle géante pour décrypter les temps présents",
+    "added_at": "2026-06-18T06:49:08.837Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le Bürgenstock sera le théâtre de «négociations préliminaires» sur la mise en œuvre de l’accord entre les Etats-Unis et l'Iran",
+    "added_at": "2026-06-18T07:18:01.130Z"
+  },
+  {
+    "title": "economie:::La Suisse cède sa couronne de championne de la compétitivité, pénalisée par le recul des investissements",
+    "added_at": "2026-06-18T07:32:28.098Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Moscou visé par une attaque «à grande échelle» de drones ukrainiens",
+    "added_at": "2026-06-18T07:32:28.098Z",
+    "removed_at": "2026-06-18T07:46:54.307Z",
+    "duration_minutes": 14,
+    "duration_str": "14m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky justifie l'attaque de drones contre une raffinerie à Moscou",
+    "added_at": "2026-06-18T07:46:54.307Z"
+  },
+  {
+    "title": "suisse:::Le National fait volte-face et rouvre la porte à l’atome",
+    "added_at": "2026-06-18T08:59:01.078Z"
+  },
+  {
+    "title": "sport:::Après son match nul contre le Qatar, l’équipe de Suisse doit chasser le doute contre la Bosnie",
+    "added_at": "2026-06-18T09:15:52.803Z"
   }
 ]
