@@ -92629,7 +92629,10 @@
   },
   {
     "title": "Décès d'Erwan Jagut, caméraman emblématique de la RTS",
-    "added_at": "2026-06-15T19:12:11.137Z"
+    "added_at": "2026-06-15T19:12:11.137Z",
+    "removed_at": "2026-06-18T10:04:09.969Z",
+    "duration_minutes": 3771,
+    "duration_str": "2d 14h 51m"
   },
   {
     "title": "Controverse autour de la gestion policière de la manifestation anti-G7",
@@ -92781,7 +92784,10 @@
   },
   {
     "title": "Référence historique douteuse ou renne à cinq pattes: quand les marques s'auto-sabotent avec l'IA",
-    "added_at": "2026-06-16T10:25:58.336Z"
+    "added_at": "2026-06-16T10:25:58.336Z",
+    "removed_at": "2026-06-18T11:45:08.731Z",
+    "duration_minutes": 2959,
+    "duration_str": "2d 1h 19m"
   },
   {
     "title": "Donald Trump rencontre Volodymyr Zelensky au G7 et estime que \"la Russie devrait conclure un accord\"",
@@ -92792,7 +92798,10 @@
   },
   {
     "title": "Le canton de Neuchâtel réintroduit le vote électronique dès le 29 novembre",
-    "added_at": "2026-06-16T10:30:51.445Z"
+    "added_at": "2026-06-16T10:30:51.445Z",
+    "removed_at": "2026-06-18T11:13:49.982Z",
+    "duration_minutes": 2922,
+    "duration_str": "2d 42m"
   },
   {
     "title": "Le collectif ABAL a quitté les anciens abattoirs de Serrières (NE)",
@@ -92807,11 +92816,17 @@
   },
   {
     "title": "Les arbres fleurissent plus tôt, le réseau phénologique suisse le prouve",
-    "added_at": "2026-06-16T11:06:50.128Z"
+    "added_at": "2026-06-16T11:06:50.128Z",
+    "removed_at": "2026-06-18T10:11:23.214Z",
+    "duration_minutes": 2824,
+    "duration_str": "1d 23h 4m"
   },
   {
     "title": "Des arnaques aux QR-Code sévissent dans l'ouest lausannois",
-    "added_at": "2026-06-16T11:11:42.538Z"
+    "added_at": "2026-06-16T11:11:42.538Z",
+    "removed_at": "2026-06-18T11:37:56.069Z",
+    "duration_minutes": 2906,
+    "duration_str": "2d 26m"
   },
   {
     "title": "Stan Wawrinka obtient une wild-card pour son dernier Wimbledon",
@@ -92843,7 +92858,10 @@
   },
   {
     "title": "Manifestations, hymne sifflé: une partie du public de l'équipe d'Iran a exprimé sa colère",
-    "added_at": "2026-06-16T12:43:22.211Z"
+    "added_at": "2026-06-16T12:43:22.211Z",
+    "removed_at": "2026-06-18T11:25:49.921Z",
+    "duration_minutes": 2802,
+    "duration_str": "1d 22h 42m"
   },
   {
     "title": "Le Grand Conseil vaudois veut pouvoir destituer les ministres dans des cas exceptionnels",
@@ -93294,5 +93312,46 @@
   {
     "title": "L'acteur et réalisateur américain Sean Penn prépare un film sur l'assaut du Capitole",
     "added_at": "2026-06-18T09:20:40.606Z"
+  },
+  {
+    "title": "La Suisse confrontée à une canicule dès jeudi et jusqu'à mardi au moins",
+    "added_at": "2026-06-18T10:11:23.214Z",
+    "removed_at": "2026-06-18T11:42:41.576Z",
+    "duration_minutes": 91,
+    "duration_str": "1h 31m"
+  },
+  {
+    "title": "La Suisse perd sa première place au classement mondial de la compétitivité de l'IMD",
+    "added_at": "2026-06-18T11:13:49.982Z",
+    "removed_at": "2026-06-18T11:59:35.227Z",
+    "duration_minutes": 45,
+    "duration_str": "45m"
+  },
+  {
+    "title": "Donald Trump et le président Masoud Pezeshkian montrent leur signature sur le protocole d'accord américano-iranien.",
+    "added_at": "2026-06-18T11:25:49.921Z",
+    "removed_at": "2026-06-18T11:28:15.088Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Jusqu'à Fox News, les médias américains fustigent un accord \"trop favorable\" à l'Iran",
+    "added_at": "2026-06-18T11:28:15.088Z"
+  },
+  {
+    "title": "Les stocks de pétrole aux Etats-Unis sont au plus bas depuis 40 ans",
+    "added_at": "2026-06-18T11:37:56.069Z"
+  },
+  {
+    "title": "Le nombre de naissances et de mariages a continué à baisser en Suisse en 2025",
+    "added_at": "2026-06-18T11:37:56.069Z"
+  },
+  {
+    "title": "La Suisse doit faire face à une canicule de niveau 3 ou 4 jusqu'à mardi au moins",
+    "added_at": "2026-06-18T11:42:41.576Z"
+  },
+  {
+    "title": "La Suisse perd sa première place au classement mondial de la compétitivité",
+    "added_at": "2026-06-18T11:59:35.227Z"
   }
 ]
