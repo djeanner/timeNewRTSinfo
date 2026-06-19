@@ -74684,7 +74684,10 @@
   },
   {
     "title": "sciences:::En freinant la Terre, le réchauffement climatique va rallonger la durée du jour",
-    "added_at": "2026-04-29T08:38:50.236Z"
+    "added_at": "2026-04-29T08:38:50.236Z",
+    "removed_at": "2026-06-19T12:55:34.447Z",
+    "duration_minutes": 73696,
+    "duration_str": "51d 4h 16m"
   },
   {
     "title": "culture:::A Paris, Ariane Mnouchkine et le Théâtre du Soleil déploient avec brio les cauchemars de la vieille Europe",
@@ -89891,7 +89894,10 @@
   },
   {
     "title": "suisse:::Affaire Dittli: le Ministère public vaudois décide d’ouvrir une nouvelle enquête pénale à la suite du rapport Meylan",
-    "added_at": "2026-06-18T15:00:36.496Z"
+    "added_at": "2026-06-18T15:00:36.496Z",
+    "removed_at": "2026-06-19T14:24:38.063Z",
+    "duration_minutes": 1404,
+    "duration_str": "23h 24m"
   },
   {
     "title": "suisse:::A La Cathédrale Saint-Pierre de Genève, les adieux à Jean Ziegler",
@@ -90148,14 +90154,14 @@
   },
   {
     "title": "monde:::«A la faveur de l’accalmie avec les Etats-Unis, les Iraniens vont retrouver leurs divisions»",
-    "added_at": "2026-06-19T05:27:21.930Z",
-    "removed_at": "2026-06-19T11:26:17.066Z",
-    "duration_minutes": 358,
-    "duration_str": "5h 58m"
+    "added_at": "2026-06-19T05:27:21.930Z"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les combats font rage au Liban, premier test de l'accord conclu entre Washington et Téhéran",
-    "added_at": "2026-06-19T07:30:17.209Z"
+    "added_at": "2026-06-19T07:30:17.209Z",
+    "removed_at": "2026-06-19T13:29:14.485Z",
+    "duration_minutes": 358,
+    "duration_str": "5h 58m"
   },
   {
     "title": "culture:::«J’étais loin de me douter de ce que j’allais trouver»: un conservateur français proche de la retraite découvre un manuscrit inédit de Mozart",
@@ -90163,7 +90169,10 @@
   },
   {
     "title": "monde:::L’élection présidentielle française avec le plus de candidats? Nous avons cherché dans les archives et ce n’est pas si simple…",
-    "added_at": "2026-06-19T08:59:14.749Z"
+    "added_at": "2026-06-19T08:59:14.749Z",
+    "removed_at": "2026-06-19T14:12:32.519Z",
+    "duration_minutes": 313,
+    "duration_str": "5h 13m"
   },
   {
     "title": "sport:::Giorgio Contini: «Johan Manzambi a ce truc qu'on ne sait pas bien définir mais qui s'appelle le talent»",
@@ -90178,7 +90187,10 @@
   },
   {
     "title": "sport:::«La Mambo Cup veut montrer que les communautés immigrées apportent une contribution significative à la Suisse»",
-    "added_at": "2026-06-19T10:55:02.350Z"
+    "added_at": "2026-06-19T10:55:02.350Z",
+    "removed_at": "2026-06-19T14:48:39.662Z",
+    "duration_minutes": 233,
+    "duration_str": "3h 53m"
   },
   {
     "title": "sciences:::Une exceptionnelle éclipse de Soleil est attendue pour le mois d’août: préparez vos lunettes!",
@@ -90187,5 +90199,36 @@
   {
     "title": "economie:::Dans le détroit d’Ormuz, le trafic maritime n’a pas repris",
     "added_at": "2026-06-19T12:12:04.575Z"
+  },
+  {
+    "title": "economie:::La Royal Pop de Swatch et Audemars Piguet redonne des couleurs aux exportations horlogères",
+    "added_at": "2026-06-19T12:55:34.447Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Israël et le Hezbollah conviennent d’un cessez-le-feu au Liban",
+    "added_at": "2026-06-19T13:29:14.485Z"
+  },
+  {
+    "title": "economie:::Kevin Warsh tout en contrôle pour sa première",
+    "added_at": "2026-06-19T13:46:04.125Z"
+  },
+  {
+    "title": "sport:::A Montfermeil, où l’on s’efforce de développer aussi le rôle social du football",
+    "added_at": "2026-06-19T14:12:32.519Z"
+  },
+  {
+    "title": "monde:::Couronné à Makersfield, Andy Burnham prend le chemin de Downing Street",
+    "added_at": "2026-06-19T14:26:58.818Z",
+    "removed_at": "2026-06-19T14:53:32.558Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "suisse:::13e rente AVS: le Parlement vote une hausse de la TVA et un financement partiel",
+    "added_at": "2026-06-19T14:48:39.662Z"
+  },
+  {
+    "title": "monde:::Couronné à Makerfield, Andy Burnham prend le chemin de Downing Street",
+    "added_at": "2026-06-19T14:53:32.558Z"
   }
 ]
