@@ -89892,10 +89892,7 @@
   },
   {
     "title": "Couleurs d'été - 2026",
-    "added_at": "2026-06-08T19:23:21.165Z",
-    "removed_at": "2026-06-10T15:10:10.639Z",
-    "duration_minutes": 2626,
-    "duration_str": "1d 19h 46m"
+    "added_at": "2026-06-08T19:23:21.165Z"
   },
   {
     "title": "La France prévoit un dispositif de sécurité XXL pour protéger le sommet du G7 à Evian",
@@ -91796,7 +91793,10 @@
   },
   {
     "title": "Tuer une femme qui avorte : bientôt légal aux Etats-Unis ?",
-    "added_at": "2026-06-14T06:02:40.302Z"
+    "added_at": "2026-06-14T06:02:40.302Z",
+    "removed_at": "2026-06-19T20:28:44.713Z",
+    "duration_minutes": 8066,
+    "duration_str": "5d 14h 26m"
   },
   {
     "title": "Le marché aux puces de Kreuzlingen évacué en raison d'une menace",
@@ -93296,7 +93296,10 @@
   },
   {
     "title": "Une fillette de 6 ans agressée sexuellement à la bibliothèque d'Yverdon-les-Bains",
-    "added_at": "2026-06-17T15:40:42.506Z"
+    "added_at": "2026-06-17T15:40:42.506Z",
+    "removed_at": "2026-06-19T21:02:28.419Z",
+    "duration_minutes": 3201,
+    "duration_str": "2d 5h 21m"
   },
   {
     "title": "Que se passe-t-il dans la tête des mauvais perdants?",
@@ -93418,9 +93421,9 @@
   {
     "title": "Donald Trump dit vouloir reprendre les bombardements sur l'Iran s'il n'y a pas un accord complet d'ici 60 jours",
     "added_at": "2026-06-18T06:24:49.717Z",
-    "removed_at": "2026-06-19T20:02:03.986Z",
-    "duration_minutes": 2257,
-    "duration_str": "1d 13h 37m"
+    "removed_at": "2026-06-19T22:02:44.133Z",
+    "duration_minutes": 2377,
+    "duration_str": "1d 15h 37m"
   },
   {
     "title": "Donald Trump s'exprime sur l'accord avec l'Iran",
@@ -93517,7 +93520,10 @@
   },
   {
     "title": "Les stocks de pétrole aux Etats-Unis sont au plus bas depuis 40 ans",
-    "added_at": "2026-06-18T11:37:56.069Z"
+    "added_at": "2026-06-18T11:37:56.069Z",
+    "removed_at": "2026-06-19T21:07:21.633Z",
+    "duration_minutes": 2009,
+    "duration_str": "1d 9h 29m"
   },
   {
     "title": "Le nombre de naissances et de mariages a continué à baisser en Suisse en 2025",
@@ -93533,11 +93539,17 @@
   },
   {
     "title": "Le concours Giga Photo Award révèle en images l'urgence de la connectivité dans le monde",
-    "added_at": "2026-06-18T12:04:33.988Z"
+    "added_at": "2026-06-18T12:04:33.988Z",
+    "removed_at": "2026-06-19T21:02:28.419Z",
+    "duration_minutes": 1977,
+    "duration_str": "1d 8h 57m"
   },
   {
     "title": "Santé mentale des jeunes: la faute aux réseaux sociaux, vraiment?",
-    "added_at": "2026-06-18T13:02:29.155Z"
+    "added_at": "2026-06-18T13:02:29.155Z",
+    "removed_at": "2026-06-19T21:28:56.525Z",
+    "duration_minutes": 1946,
+    "duration_str": "1d 8h 26m"
   },
   {
     "title": "Une armurerie de Sion cambriolée à l'explosif, cinq suspects interpellés",
@@ -93633,7 +93645,10 @@
   },
   {
     "title": "G7 - Conférence de presse",
-    "added_at": "2026-06-18T20:04:12.079Z"
+    "added_at": "2026-06-18T20:04:12.079Z",
+    "removed_at": "2026-06-19T22:02:44.133Z",
+    "duration_minutes": 1558,
+    "duration_str": "1d 1h 58m"
   },
   {
     "title": "Pour Pascal de Crousaz, \"les résultats du protocole d'accord avec l'Iran sont bien maigres\"",
@@ -93918,5 +93933,28 @@
   {
     "title": "La Suisse pourrait s'équiper d'un système de défense anti-missile d'ici trois ans",
     "added_at": "2026-06-19T20:06:50.504Z"
+  },
+  {
+    "title": "Le Grand Conseil accepte les comptes 2025 de l'Etat de Genève",
+    "added_at": "2026-06-19T21:02:28.419Z"
+  },
+  {
+    "title": "Les Etats-Unis battent l'Australie 2-0 et passent en 16es",
+    "added_at": "2026-06-19T21:07:21.633Z",
+    "removed_at": "2026-06-19T21:12:08.270Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Les Etats-Unis battent l'Australie 2-0 et filent en 16es",
+    "added_at": "2026-06-19T21:12:08.270Z"
+  },
+  {
+    "title": "Un mort et plusieurs blessés dans une collision entre deux trains au Royaume-Uni",
+    "added_at": "2026-06-19T21:28:56.525Z"
+  },
+  {
+    "title": "Construction de nouvelles centrales nucléaires: décision renvoyée à plus tard",
+    "added_at": "2026-06-19T22:02:44.133Z"
   }
 ]
