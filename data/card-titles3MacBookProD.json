@@ -187167,7 +187167,10 @@
   },
   {
     "title": "San Francisco Film Patrons Are Found Dead on the Side of a Highway",
-    "added_at": "2026-06-19T05:58:39.109Z"
+    "added_at": "2026-06-19T05:58:39.109Z",
+    "removed_at": "2026-06-20T04:03:55.340Z",
+    "duration_minutes": 1325,
+    "duration_str": "22h 5m"
   },
   {
     "title": "Central Park Rides Halted After Teen’s Fatal Fall From Horse-Drawn Carriage",
@@ -187455,7 +187458,10 @@
   },
   {
     "title": "Europe Is Heating Up This Week. Here’s What to Know.",
-    "added_at": "2026-06-19T14:26:58.960Z"
+    "added_at": "2026-06-19T14:26:58.960Z",
+    "removed_at": "2026-06-20T04:03:55.340Z",
+    "duration_minutes": 816,
+    "duration_str": "13h 36m"
   },
   {
     "title": "Secret Vetting and Blocked Promotions: Inside Hegseth’s War on Diversity",
@@ -187643,7 +187649,10 @@
   },
   {
     "title": "U.S. Secures Spot in Knockout Stage With Pivotal 2-0 Victory Over Australia",
-    "added_at": "2026-06-19T22:17:06.357Z"
+    "added_at": "2026-06-19T22:17:06.357Z",
+    "removed_at": "2026-06-20T02:56:37.754Z",
+    "duration_minutes": 279,
+    "duration_str": "4h 39m"
   },
   {
     "title": "Scotland Faces Morocco as the Tartan Army Takes Over Boston",
@@ -187665,7 +187674,10 @@
   },
   {
     "title": "Seattle Dreamed of Hosting the World Cup for 3 Decades. On Friday, It Delivered.",
-    "added_at": "2026-06-19T23:12:44.892Z"
+    "added_at": "2026-06-19T23:12:44.892Z",
+    "removed_at": "2026-06-20T01:44:27.620Z",
+    "duration_minutes": 151,
+    "duration_str": "2h 31m"
   },
   {
     "title": "The Reflecting Pool Appears to Be Rejecting Its Makeover",
@@ -187677,7 +187689,10 @@
   },
   {
     "title": "Morocco Beats Scotland, 1-0, With Quickest Goal Yet of This Tournament",
-    "added_at": "2026-06-20T00:03:14.905Z"
+    "added_at": "2026-06-20T00:03:14.905Z",
+    "removed_at": "2026-06-20T02:56:37.754Z",
+    "duration_minutes": 173,
+    "duration_str": "2h 53m"
   },
   {
     "title": "A New Air Force One, via Qatar, Nears Its First Presidential Flight",
@@ -187685,7 +187700,10 @@
   },
   {
     "title": "Brazil Faces Haiti as Both Teams Seek Their First Win",
-    "added_at": "2026-06-20T00:36:59.955Z"
+    "added_at": "2026-06-20T00:36:59.955Z",
+    "removed_at": "2026-06-20T01:44:27.620Z",
+    "duration_minutes": 67,
+    "duration_str": "1h 7m"
   },
   {
     "title": "‘A Literal Coverup’: What Is the Kennedy Center Hiding Behind Those Tarps?",
@@ -187694,5 +187712,64 @@
   {
     "title": "Lebanon Emerges as Weak Link in U.S.-Iran Deal to End War",
     "added_at": "2026-06-20T01:25:04.968Z"
+  },
+  {
+    "title": "‘Just a Great Soccer City’: Spurned in 1994, Seattle Is Now a World Cup Draw",
+    "added_at": "2026-06-20T01:44:27.620Z",
+    "removed_at": "2026-06-20T03:30:17.244Z",
+    "duration_minutes": 105,
+    "duration_str": "1h 45m"
+  },
+  {
+    "title": "Brazil Is Rolling Against Haiti as It Seeks First Win",
+    "added_at": "2026-06-20T01:44:27.620Z",
+    "removed_at": "2026-06-20T02:39:47.554Z",
+    "duration_minutes": 55,
+    "duration_str": "55m"
+  },
+  {
+    "title": "Brazil’s Stars Shine Against Haiti in 3-0 Win",
+    "added_at": "2026-06-20T02:39:47.554Z",
+    "removed_at": "2026-06-20T04:06:22.588Z",
+    "duration_minutes": 86,
+    "duration_str": "1h 26m"
+  },
+  {
+    "title": "Can the U.S. Win the World Cup? Suddenly, America Is Starting to Believe.",
+    "added_at": "2026-06-20T02:56:37.754Z"
+  },
+  {
+    "title": "Turkey Faces Paraguay in Game With Possible Implications for the U.S.",
+    "added_at": "2026-06-20T02:56:37.754Z",
+    "removed_at": "2026-06-20T03:30:17.244Z",
+    "duration_minutes": 33,
+    "duration_str": "33m"
+  },
+  {
+    "title": "Spurned in 1994, Seattle Is Now a World Cup Draw",
+    "added_at": "2026-06-20T03:30:17.244Z"
+  },
+  {
+    "title": "Paraguay Takes Early Lead Over Turkey With Quickest Goal of This Tournament",
+    "added_at": "2026-06-20T03:30:17.244Z",
+    "removed_at": "2026-06-20T04:20:49.477Z",
+    "duration_minutes": 50,
+    "duration_str": "50m"
+  },
+  {
+    "title": "​A 175-Year-Old Shipwreck, Lots of Booze and an Island’s Quest to Survive",
+    "added_at": "2026-06-20T04:03:55.340Z"
+  },
+  {
+    "title": "‘God Is Cape Verdean’: Tiny Nation Is on a High After a Sensational Debut",
+    "added_at": "2026-06-20T04:06:22.588Z"
+  },
+  {
+    "title": "The Unquiet American: Charles Kushner Brings Trump Diplomacy to France",
+    "added_at": "2026-06-20T04:06:22.588Z"
+  },
+  {
+    "title": "Paraguay Gets Red Card, but Leads Turkey in Match With Implications for U.S.",
+    "added_at": "2026-06-20T04:20:49.477Z"
   }
 ]
