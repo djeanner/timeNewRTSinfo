@@ -187648,7 +187648,10 @@
   },
   {
     "title": "Two Passenger Trains Collide in Britain",
-    "added_at": "2026-06-19T21:43:24.252Z"
+    "added_at": "2026-06-19T21:43:24.252Z",
+    "removed_at": "2026-06-20T07:33:36.863Z",
+    "duration_minutes": 590,
+    "duration_str": "9h 50m"
   },
   {
     "title": "U.S. Secures Spot in Knockout Stage With Pivotal 2-0 Victory Over Australia",
@@ -187772,7 +187775,10 @@
   },
   {
     "title": "The Unquiet American: Charles Kushner Brings Trump Diplomacy to France",
-    "added_at": "2026-06-20T04:06:22.588Z"
+    "added_at": "2026-06-20T04:06:22.588Z",
+    "removed_at": "2026-06-20T09:17:19.078Z",
+    "duration_minutes": 310,
+    "duration_str": "5h 10m"
   },
   {
     "title": "Paraguay Gets Red Card, but Leads Turkey in Match With Implications for U.S.",
@@ -187817,5 +187823,13 @@
   {
     "title": "Trump’s Iran Deal Is Off to a Chaotic Start",
     "added_at": "2026-06-20T06:54:58.391Z"
+  },
+  {
+    "title": "One Killed and Dozens Injured in U.K. Passenger Train Collision",
+    "added_at": "2026-06-20T07:33:36.863Z"
+  },
+  {
+    "title": "Charles Kushner, U.S. Ambassador to France, Riles Paris With Trump Diplomacy",
+    "added_at": "2026-06-20T09:17:19.078Z"
   }
 ]

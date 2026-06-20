@@ -92511,7 +92511,10 @@
   },
   {
     "title": "Bilan de la manif No-G7: foule, fête, casse et nasse",
-    "added_at": "2026-06-15T13:22:16.220Z"
+    "added_at": "2026-06-15T13:22:16.220Z",
+    "removed_at": "2026-06-20T09:05:16.666Z",
+    "duration_minutes": 6943,
+    "duration_str": "4d 19h 43m"
   },
   {
     "title": "G7 à Évian: À quoi sert un sommet sans la Chine?",
@@ -93024,7 +93027,10 @@
   },
   {
     "title": "Lentilles: le plein de protéines… et de pesticides",
-    "added_at": "2026-06-16T18:57:50.941Z"
+    "added_at": "2026-06-16T18:57:50.941Z",
+    "removed_at": "2026-06-20T08:17:10.181Z",
+    "duration_minutes": 5119,
+    "duration_str": "3d 13h 19m"
   },
   {
     "title": "Nicolas Féraud: \"Cette blessure a meurtri notre commune et ses habitants\"",
@@ -93210,7 +93216,10 @@
   },
   {
     "title": "Quelle a été la meilleure époque pour vivre?",
-    "added_at": "2026-06-17T12:23:13.170Z"
+    "added_at": "2026-06-17T12:23:13.170Z",
+    "removed_at": "2026-06-20T09:05:16.666Z",
+    "duration_minutes": 4122,
+    "duration_str": "2d 20h 42m"
   },
   {
     "title": "Donald Trump menace de recommencer à \"balancer des bombes\" sur l'Iran \"ne se comporte pas bien\"",
@@ -93458,7 +93467,10 @@
   },
   {
     "title": "L'Ukraine lance une attaque massive de drones sur Moscou et touche une raffinerie",
-    "added_at": "2026-06-18T08:27:49.203Z"
+    "added_at": "2026-06-18T08:27:49.203Z",
+    "removed_at": "2026-06-20T08:05:10.242Z",
+    "duration_minutes": 2857,
+    "duration_str": "1d 23h 37m"
   },
   {
     "title": "Le Portugal, fébrile, est piégé 1-1 par la République démocratique du Congo",
@@ -93587,7 +93599,10 @@
   },
   {
     "title": "Le Conseil d'Etat ne veut pas présenter le bon sens vaudois à l'UNESCO",
-    "added_at": "2026-06-18T13:55:20.946Z"
+    "added_at": "2026-06-18T13:55:20.946Z",
+    "removed_at": "2026-06-20T08:00:09.823Z",
+    "duration_minutes": 2524,
+    "duration_str": "1d 18h 4m"
   },
   {
     "title": "Dans 'F. comme frères', Alain Claude Sulzer explore les liens qui résistent au temps",
@@ -93605,11 +93620,17 @@
   },
   {
     "title": "Israël coopère militairement \"depuis de longues années\" avec le Somaliland",
-    "added_at": "2026-06-18T14:55:46.685Z"
+    "added_at": "2026-06-18T14:55:46.685Z",
+    "removed_at": "2026-06-20T08:50:51.049Z",
+    "duration_minutes": 2515,
+    "duration_str": "1d 17h 55m"
   },
   {
     "title": "Que trouve-t-on (ou pas) dans cet accord Iran-Etats-Unis ?",
-    "added_at": "2026-06-18T15:07:49.896Z"
+    "added_at": "2026-06-18T15:07:49.896Z",
+    "removed_at": "2026-06-20T08:02:31.003Z",
+    "duration_minutes": 2454,
+    "duration_str": "1d 16h 54m"
   },
   {
     "title": "Une élection complémentaire dans le nord de l'Angleterre pourrait décider du destin de Keir Starmer",
@@ -94036,5 +94057,47 @@
   {
     "title": "L'émissaire américain Steve Witkoff en route pour la Suisse pour les pourparlers avec l'Iran",
     "added_at": "2026-06-20T06:54:58.173Z"
+  },
+  {
+    "title": "Un seul casque de pilote de F-35 coûte 500'000 dollars",
+    "added_at": "2026-06-20T08:00:09.823Z"
+  },
+  {
+    "title": "Huit jeunes adultes arrêtés pour des escroqueries organisées par des criminels étrangers",
+    "added_at": "2026-06-20T08:02:31.003Z",
+    "removed_at": "2026-06-20T08:24:22.004Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
+  },
+  {
+    "title": "'Toy Story 5' explore l'imaginaire créatif des enfants menacé par la dépendance aux écrans",
+    "added_at": "2026-06-20T08:05:10.242Z"
+  },
+  {
+    "title": "Pourquoi l’accord entre les États-Unis et l'Iran a été signé à distance?",
+    "added_at": "2026-06-20T08:05:10.242Z",
+    "removed_at": "2026-06-20T09:17:18.856Z",
+    "duration_minutes": 72,
+    "duration_str": "1h 12m"
+  },
+  {
+    "title": "Huit jeunes arrêtés pour des escroqueries organisées par des criminels étrangers",
+    "added_at": "2026-06-20T08:24:22.004Z"
+  },
+  {
+    "title": "L'hébergement d'urgence de Malley surchargé suite à la fermeture de squats",
+    "added_at": "2026-06-20T08:50:51.049Z"
+  },
+  {
+    "title": "Etre lucide face à l'urgence climatique peut affecter notre santé mentale",
+    "added_at": "2026-06-20T09:05:16.666Z"
+  },
+  {
+    "title": "Le National fait volte-face et ouvre la voie à de nouvelles centrales nucléaires",
+    "added_at": "2026-06-20T09:05:16.666Z"
+  },
+  {
+    "title": "Coûts exorbitants de la Coupe du Monde: pourquoi Montréal a dit non à la FIFA",
+    "added_at": "2026-06-20T09:17:18.856Z"
   }
 ]
