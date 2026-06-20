@@ -90437,7 +90437,10 @@
   },
   {
     "title": "monde:::Royaume-Uni: un mort et des dizaines de blessés dans une collision de deux trains",
-    "added_at": "2026-06-20T08:14:45.072Z"
+    "added_at": "2026-06-20T08:14:45.072Z",
+    "removed_at": "2026-06-20T14:44:58.661Z",
+    "duration_minutes": 390,
+    "duration_str": "6h 30m"
   },
   {
     "title": "cyber:::Comment casser une dépendance de plus en plus dangereuse à la tech américaine? Voici les atouts européens et suisses",
@@ -90445,7 +90448,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Des bombardements israéliens ont fait 16 morts à Nabatiyé au sud du Liban",
-    "added_at": "2026-06-20T09:31:46.967Z"
+    "added_at": "2026-06-20T09:31:46.967Z",
+    "removed_at": "2026-06-20T12:44:42.440Z",
+    "duration_minutes": 192,
+    "duration_str": "3h 12m"
   },
   {
     "title": "monde:::Lyhanna: les premiers résultats d’inspection attendus lundi",
@@ -90469,5 +90475,20 @@
   {
     "title": "sport:::En dilettante – Adieu au terrain C",
     "added_at": "2026-06-20T11:49:10.312Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Israël continue de mener des frappes meurtrières au Liban, malgré le cessez-le-feu",
+    "added_at": "2026-06-20T12:44:42.440Z",
+    "removed_at": "2026-06-20T13:32:47.819Z",
+    "duration_minutes": 48,
+    "duration_str": "48m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L'Iran annonce refermer le détroit d'Ormuz après des frappes meurtrières d'Israël au Liban, malgré le cessez-le-feu",
+    "added_at": "2026-06-20T13:32:47.819Z"
+  },
+  {
+    "title": "monde:::Un tribunal espagnol réclame le jugement pour corruption de l'épouse du premier ministre et lui interdit de quitter le territoire",
+    "added_at": "2026-06-20T14:44:58.661Z"
   }
 ]
