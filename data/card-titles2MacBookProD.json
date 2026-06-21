@@ -90540,14 +90540,14 @@
   },
   {
     "title": "sport:::A Paris, on ne fête pas que les Bleus: en immersion avec les supporters algériens, sénégalais, portugais et congolais",
-    "added_at": "2026-06-20T16:11:52.226Z",
-    "removed_at": "2026-06-21T09:50:02.181Z",
-    "duration_minutes": 1058,
-    "duration_str": "17h 38m"
+    "added_at": "2026-06-20T16:11:52.226Z"
   },
   {
     "title": "sport:::PSG, PFC, Red Star, les clubs pros parisiens à l’assaut de l’identité «banlieue»",
-    "added_at": "2026-06-20T16:11:52.226Z"
+    "added_at": "2026-06-20T16:11:52.226Z",
+    "removed_at": "2026-06-21T11:16:46.898Z",
+    "duration_minutes": 1144,
+    "duration_str": "19h 4m"
   },
   {
     "title": "monde:::Donald Trump ravive les tensions italo-américaines après une joute verbale avec Giorgia Meloni",
@@ -90610,7 +90610,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Américains, Iraniens et médiateurs sont arrivés au Bürgenstock",
-    "added_at": "2026-06-21T07:35:22.066Z"
+    "added_at": "2026-06-21T07:35:22.066Z",
+    "removed_at": "2026-06-21T12:12:14.155Z",
+    "duration_minutes": 276,
+    "duration_str": "4h 36m"
   },
   {
     "title": "sport:::Derrière Messi, Mbappé ou Kane, des buteurs doublement inattendus",
@@ -90621,7 +90624,10 @@
   },
   {
     "title": "culture:::«Dictionnaire du langage des fleurs», d’António Lobo Antunes, un roman singulier qui dit le manque",
-    "added_at": "2026-06-21T08:04:13.668Z"
+    "added_at": "2026-06-21T08:04:13.668Z",
+    "removed_at": "2026-06-21T10:38:19.771Z",
+    "duration_minutes": 154,
+    "duration_str": "2h 34m"
   },
   {
     "title": "monde:::Les poutres ajoulotes de Notre-Dame valent bien une messe",
@@ -90630,5 +90636,27 @@
   {
     "title": "sciences:::Des études suggèrent que l’IA nous fait perdre nos compétences professionnelles",
     "added_at": "2026-06-21T09:50:02.181Z"
+  },
+  {
+    "title": "culture:::Grégoire Bouillier: «Arsène Lupin, c’est le primesaut, c’est le printemps, c’est le soleil qui sensualise»",
+    "added_at": "2026-06-21T10:38:19.771Z",
+    "removed_at": "2026-06-21T11:41:00.263Z",
+    "duration_minutes": 62,
+    "duration_str": "1h 2m"
+  },
+  {
+    "title": "culture:::«Il est parfois soupe au lait, s’engueule avec ses proches pour des peccadilles, mais il a surtout un grand cœur»: la saga «Tora-san», 50 films pour raconter le Japon d’après-guerre",
+    "added_at": "2026-06-21T11:41:00.263Z",
+    "removed_at": "2026-06-21T11:57:48.309Z",
+    "duration_minutes": 16,
+    "duration_str": "16m"
+  },
+  {
+    "title": "culture:::«Il est parfois soupe au lait, s’engueule avec ses proches, mais il a surtout un grand cœur»: la saga «Tora-san», 50 films pour raconter le Japon d’après-guerre",
+    "added_at": "2026-06-21T11:57:48.309Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les discussions entre l'Iran et les Etats-Unis ont commencé au Bürgenstock, en présence du Qatar et du Pakistan",
+    "added_at": "2026-06-21T12:12:14.155Z"
   }
 ]
