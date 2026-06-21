@@ -90596,7 +90596,10 @@
   },
   {
     "title": "sport:::En direct, Coupe du monde 2026 – L’Allemagne réussit enfin à sortir de sa malédiction du Mondial",
-    "added_at": "2026-06-21T05:44:42.725Z"
+    "added_at": "2026-06-21T05:44:42.725Z",
+    "removed_at": "2026-06-21T18:31:35.988Z",
+    "duration_minutes": 766,
+    "duration_str": "12h 46m"
   },
   {
     "title": "suisse:::L’initiative populaire sur la neutralité serait rejetée",
@@ -90682,7 +90685,10 @@
   },
   {
     "title": "sciences:::Des médecins voient leurs performances baisser après avoir utilisé l’IA: le «deskilling» gagne du terrain",
-    "added_at": "2026-06-21T12:43:42.730Z"
+    "added_at": "2026-06-21T12:43:42.730Z",
+    "removed_at": "2026-06-21T19:10:01.990Z",
+    "duration_minutes": 386,
+    "duration_str": "6h 26m"
   },
   {
     "title": "sport:::Agent, coach privé, recruteur: les nouveaux métiers du football francilien",
@@ -90760,6 +90766,28 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’Iran et les Etats-Unis se menacent verbalement, pendant que les discussions se tiennent au Bürgenstock",
-    "added_at": "2026-06-21T17:55:20.826Z"
+    "added_at": "2026-06-21T17:55:20.826Z",
+    "removed_at": "2026-06-21T18:55:37.171Z",
+    "duration_minutes": 60,
+    "duration_str": "1h"
+  },
+  {
+    "title": "sport:::En direct, Coupe du monde 2026 – L’Espagne fait taire les doutes en signant une victoire éclatante face à l'Arabie saoudite",
+    "added_at": "2026-06-21T18:31:35.988Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – La délégation iranienne quitte le Bürgenstock après un message de Donald Trump jugé «insultant»",
+    "added_at": "2026-06-21T18:55:37.171Z"
+  },
+  {
+    "title": "monde:::«La musique, c’est purement politique»: le concert organisé par LFI relance le débat sur la politisation de la Fête de la musique",
+    "added_at": "2026-06-21T19:10:01.990Z",
+    "removed_at": "2026-06-21T19:12:28.566Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::Le concert organisé par LFI au coeur de Paris relance le débat sur la politisation de la Fête de la musique",
+    "added_at": "2026-06-21T19:12:28.566Z"
   }
 ]
