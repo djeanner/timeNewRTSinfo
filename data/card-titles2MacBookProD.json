@@ -90359,7 +90359,10 @@
   },
   {
     "title": "monde:::Annulation du sommet du Bürgenstock: l’épilogue d’une semaine chaotique entre Washington et Téhéran",
-    "added_at": "2026-06-19T17:54:21.918Z"
+    "added_at": "2026-06-19T17:54:21.918Z",
+    "removed_at": "2026-06-22T12:40:11.411Z",
+    "duration_minutes": 4005,
+    "duration_str": "2d 18h 45m"
   },
   {
     "title": "economie:::Durant le G7, les détaillants genevois auraient vu leurs ventes chuter de 30 et 50%",
@@ -90574,7 +90577,10 @@
   },
   {
     "title": "sciences:::Pourquoi le physicien Etienne Klein, star de la science, n’est plus docteur de l’université française ni producteur sur France Culture",
-    "added_at": "2026-06-20T18:07:40.999Z"
+    "added_at": "2026-06-20T18:07:40.999Z",
+    "removed_at": "2026-06-22T12:25:45.346Z",
+    "duration_minutes": 2538,
+    "duration_str": "1d 18h 18m"
   },
   {
     "title": "sport:::Moteur de camion et interview «poids lourd»: Marlen Reusser dans ses œuvres au Tour de Suisse féminin",
@@ -90655,7 +90661,10 @@
   },
   {
     "title": "monde:::Les poutres ajoulotes de Notre-Dame valent bien une messe",
-    "added_at": "2026-06-21T08:30:38.930Z"
+    "added_at": "2026-06-21T08:30:38.930Z",
+    "removed_at": "2026-06-22T13:01:50.436Z",
+    "duration_minutes": 1711,
+    "duration_str": "1d 4h 31m"
   },
   {
     "title": "sciences:::Des études suggèrent que l’IA nous fait perdre nos compétences professionnelles",
@@ -90757,7 +90766,10 @@
   },
   {
     "title": "cyber:::Les bouchons explosent en Suisse et les robots-taxis qui arrivent ne sont pas la solution miracle",
-    "added_at": "2026-06-21T16:30:23.184Z"
+    "added_at": "2026-06-21T16:30:23.184Z",
+    "removed_at": "2026-06-22T11:06:23.276Z",
+    "duration_minutes": 1116,
+    "duration_str": "18h 36m"
   },
   {
     "title": "cyber:::Ce n’est plus un fantasme: avec ses robots-taxis Waymo, Google accélère pour conquérir la planète",
@@ -90905,7 +90917,10 @@
   },
   {
     "title": "culture:::Jean-Guihen Queyras, le violoncelle joyeusement indépendant",
-    "added_at": "2026-06-22T07:00:48.579Z"
+    "added_at": "2026-06-22T07:00:48.579Z",
+    "removed_at": "2026-06-22T10:59:10.483Z",
+    "duration_minutes": 238,
+    "duration_str": "3h 58m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – La délégation iranienne quitte le Bürgenstock après des progrès sur les questions du Liban et d’Ormuz",
@@ -90956,10 +90971,62 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – La délégation iranienne de haut niveau quitte le Bürgenstock, les discussions techniques se poursuivent",
-    "added_at": "2026-06-22T09:20:29.066Z"
+    "added_at": "2026-06-22T09:20:29.066Z",
+    "removed_at": "2026-06-22T11:30:22.172Z",
+    "duration_minutes": 129,
+    "duration_str": "2h 9m"
   },
   {
     "title": "sport:::JO 2038: Le Conseil fédéral met 200 millions sur la table, mais sans référendum",
-    "added_at": "2026-06-22T10:10:51.643Z"
+    "added_at": "2026-06-22T10:10:51.643Z",
+    "removed_at": "2026-06-22T11:47:21.716Z",
+    "duration_minutes": 96,
+    "duration_str": "1h 36m"
+  },
+  {
+    "title": "sport:::Marcelo Bielsa, Mauricio Pochettino et les autres: pourquoi cinq sélectionneurs de la Coupe du monde sont issus de la province de Santa Fe",
+    "added_at": "2026-06-22T10:32:40.802Z"
+  },
+  {
+    "title": "culture:::Dénicheuse d’œuvres rares, Anne Delseth prend les rênes de Visions du Réel",
+    "added_at": "2026-06-22T10:59:10.483Z"
+  },
+  {
+    "title": "monde:::«Notre prison est chaque jour plus exiguë»: en Afghanistan, des femmes arrêtées puis reniées pour être sorties à visage découvert",
+    "added_at": "2026-06-22T11:06:23.276Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Selon JD Vance, Téhéran est prêt au retour des inspecteurs de l'AIEA en Iran",
+    "added_at": "2026-06-22T11:30:22.172Z",
+    "removed_at": "2026-06-22T11:32:50.668Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Selon J.D. Vance, Téhéran est prêt au retour des inspecteurs de l'AIEA en Iran",
+    "added_at": "2026-06-22T11:32:50.668Z",
+    "removed_at": "2026-06-22T11:49:42.503Z",
+    "duration_minutes": 16,
+    "duration_str": "16m"
+  },
+  {
+    "title": "sport:::JO 2038: le Conseil fédéral met 200 millions sur la table, mais sans référendum",
+    "added_at": "2026-06-22T11:47:21.716Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Selon J. D. Vance, Téhéran est prêt au retour des inspecteurs de l'AIEA en Iran",
+    "added_at": "2026-06-22T11:52:07.298Z"
+  },
+  {
+    "title": "sciences:::Elena Tessitore, un cœur vaillant à la tête d'un pôle dédié à la santé des femmes aux HUG",
+    "added_at": "2026-06-22T12:25:45.346Z"
+  },
+  {
+    "title": "monde:::Rapport Lyhanna: la plainte contre le suspect n’a «pas été traitée comme une procédure prioritaire»",
+    "added_at": "2026-06-22T12:42:38.683Z"
+  },
+  {
+    "title": "economie:::Mort d'Alan Greenspan, l'«Oracle» de la Fed",
+    "added_at": "2026-06-22T13:01:50.436Z"
   }
 ]

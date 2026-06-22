@@ -3747,10 +3747,7 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T19:02:44.375Z",
-    "removed_at": "2026-06-05T19:21:34.197Z",
-    "duration_minutes": 453618,
-    "duration_str": "315d 18m"
+    "added_at": "2025-07-25T19:02:44.375Z"
   },
   {
     "title": "En Israël, la population sensible au sort des Gazaouis refuse d'en rendre son armée responsable",
@@ -93437,7 +93434,10 @@
   },
   {
     "title": "Une fillette agressée sexuellement dans les WC de la bibliothèque d'Yverdon",
-    "added_at": "2026-06-18T01:23:58.165Z"
+    "added_at": "2026-06-18T01:23:58.165Z",
+    "removed_at": "2026-06-22T11:23:10.541Z",
+    "duration_minutes": 6359,
+    "duration_str": "4d 9h 59m"
   },
   {
     "title": "Donald Trump dit vouloir reprendre les bombardements sur l'Iran s'il n'y a pas un accord complet d'ici 60 jours",
@@ -94117,7 +94117,10 @@
   },
   {
     "title": "Affaire Daniel Marguerat: le Ministère public vaudois enquête sur des soupçons d’abus",
-    "added_at": "2026-06-19T17:22:51.764Z"
+    "added_at": "2026-06-19T17:22:51.764Z",
+    "removed_at": "2026-06-22T10:51:57.254Z",
+    "duration_minutes": 3929,
+    "duration_str": "2d 17h 29m"
   },
   {
     "title": "Un manque à gagner estimé à 300 millions de francs par les entreprises après le sommet d'Evian",
@@ -94142,7 +94145,10 @@
   },
   {
     "title": "La Suisse pourrait s'équiper d'un système de défense anti-missile d'ici trois ans",
-    "added_at": "2026-06-19T20:06:50.504Z"
+    "added_at": "2026-06-19T20:06:50.504Z",
+    "removed_at": "2026-06-22T12:08:58.895Z",
+    "duration_minutes": 3842,
+    "duration_str": "2d 16h 2m"
   },
   {
     "title": "Le Grand Conseil accepte les comptes 2025 de l'Etat de Genève",
@@ -94230,11 +94236,17 @@
   },
   {
     "title": "En Bolivie, le président décrète l'état d'exception pour faire taire la contestation",
-    "added_at": "2026-06-20T06:33:16.727Z"
+    "added_at": "2026-06-20T06:33:16.727Z",
+    "removed_at": "2026-06-22T11:37:36.683Z",
+    "duration_minutes": 3184,
+    "duration_str": "2d 5h 4m"
   },
   {
     "title": "Les Etats-Unis veulent \"reprendre le contrôle\" de Cuba",
-    "added_at": "2026-06-20T06:38:03.363Z"
+    "added_at": "2026-06-20T06:38:03.363Z",
+    "removed_at": "2026-06-22T11:15:56.829Z",
+    "duration_minutes": 3157,
+    "duration_str": "2d 4h 37m"
   },
   {
     "title": "Trionda, le ballon de la Coupe du monde, est une petite merveille technologique",
@@ -94698,7 +94710,10 @@
   },
   {
     "title": "MétéoSuisse relève ses alertes canicule au niveau maximal dans plusieurs régions romandes",
-    "added_at": "2026-06-22T10:01:18.338Z"
+    "added_at": "2026-06-22T10:01:18.338Z",
+    "removed_at": "2026-06-22T10:37:32.616Z",
+    "duration_minutes": 36,
+    "duration_str": "36m"
   },
   {
     "title": "En Syrie, le tourisme revit timidement mais sûrement à Palmyre",
@@ -94707,5 +94722,32 @@
   {
     "title": "Les discussions techniques ont débuté entre les Etats-Unis et l'Iran après la rencontre du Bürgenstock",
     "added_at": "2026-06-22T10:22:55.779Z"
+  },
+  {
+    "title": "MétéoSuisse relève ses alertes canicule dans plusieurs régions romandes",
+    "added_at": "2026-06-22T10:35:05.915Z",
+    "removed_at": "2026-06-22T10:42:18.725Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Le membre d'équipage suisse du MV Hondius est sorti de quarantaine",
+    "added_at": "2026-06-22T10:35:05.915Z"
+  },
+  {
+    "title": "MétéoSuisse relève ses alertes canicule au niveau 4 sur 5 dans plusieurs régions romandes",
+    "added_at": "2026-06-22T10:42:18.725Z"
+  },
+  {
+    "title": "Des élus veulent rapatrier les fonds de nos assurances sociales des Etats-Unis vers la Suisse",
+    "added_at": "2026-06-22T11:15:56.829Z"
+  },
+  {
+    "title": "Sur son album 'Megaptera', Rone fait dialoguer musique électronique et chants des baleines",
+    "added_at": "2026-06-22T11:37:36.683Z"
+  },
+  {
+    "title": "Anne Delseth nommée à la direction artistique de Visions du Réel",
+    "added_at": "2026-06-22T12:08:58.895Z"
   }
 ]
