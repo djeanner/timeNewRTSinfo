@@ -90243,7 +90243,10 @@
   },
   {
     "title": "economie:::Dans le détroit d’Ormuz, le trafic maritime n’a pas repris",
-    "added_at": "2026-06-19T12:12:04.575Z"
+    "added_at": "2026-06-19T12:12:04.575Z",
+    "removed_at": "2026-06-22T05:28:38.432Z",
+    "duration_minutes": 3916,
+    "duration_str": "2d 17h 16m"
   },
   {
     "title": "economie:::La Royal Pop de Swatch et Audemars Piguet redonne des couleurs aux exportations horlogères",
@@ -90440,7 +90443,10 @@
   },
   {
     "title": "culture:::Cette année, le très contemporain festival Belluard regarde vers le passé",
-    "added_at": "2026-06-20T07:19:10.683Z"
+    "added_at": "2026-06-20T07:19:10.683Z",
+    "removed_at": "2026-06-22T07:12:51.887Z",
+    "duration_minutes": 2873,
+    "duration_str": "1d 23h 53m"
   },
   {
     "title": "monde:::L’état d’exception décrété en Bolivie",
@@ -90617,11 +90623,17 @@
   },
   {
     "title": "monde:::Voici le texte en 14 points signé par l’Iran et les Etats-Unis",
-    "added_at": "2026-06-21T05:49:28.753Z"
+    "added_at": "2026-06-21T05:49:28.753Z",
+    "removed_at": "2026-06-22T05:28:38.432Z",
+    "duration_minutes": 1419,
+    "duration_str": "23h 39m"
   },
   {
     "title": "suisse:::L’espace aérien de l’est de la Suisse a été fermé en raison d’une panne",
-    "added_at": "2026-06-21T06:32:44.612Z"
+    "added_at": "2026-06-21T06:32:44.612Z",
+    "removed_at": "2026-06-22T05:21:26.622Z",
+    "duration_minutes": 1368,
+    "duration_str": "22h 48m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Américains, Iraniens et médiateurs sont arrivés au Bürgenstock",
@@ -90692,7 +90704,10 @@
   },
   {
     "title": "sport:::Agent, coach privé, recruteur: les nouveaux métiers du football francilien",
-    "added_at": "2026-06-21T13:39:02.262Z"
+    "added_at": "2026-06-21T13:39:02.262Z",
+    "removed_at": "2026-06-22T05:23:47.395Z",
+    "duration_minutes": 944,
+    "duration_str": "15h 44m"
   },
   {
     "title": "culture:::Série: «Alice & Steve», un rôle en or pour la fabuleuse Nicola Walker",
@@ -90724,7 +90739,10 @@
   },
   {
     "title": "culture:::Face à une canicule infernale, les parades des festivals de musique et de théâtre en Suisse romande",
-    "added_at": "2026-06-21T16:27:56.297Z"
+    "added_at": "2026-06-21T16:27:56.297Z",
+    "removed_at": "2026-06-22T07:00:48.579Z",
+    "duration_minutes": 872,
+    "duration_str": "14h 32m"
   },
   {
     "title": "monde:::«On ne peut pas travailler à 40 °C avec des enfants»: plus forte, plus tôt, la canicule fauche les écoles françaises, mal adaptées aux fortes chaleurs",
@@ -90846,7 +90864,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Au Bürgenstock, Américains et Iraniens progressent sur les questions du Liban et d’Ormuz",
-    "added_at": "2026-06-22T03:40:22.186Z"
+    "added_at": "2026-06-22T03:40:22.186Z",
+    "removed_at": "2026-06-22T07:34:30.467Z",
+    "duration_minutes": 234,
+    "duration_str": "3h 54m"
   },
   {
     "title": "monde:::Feuille de route, détroit d’Ormuz, Liban: que retenir des premières négociations chahutées entre l’Iran et les Etats-Unis au Bürgenstock?",
@@ -90859,5 +90880,36 @@
   {
     "title": "monde:::Keir Starmer serait prêt à quitter Downing Street, selon des médias britanniques",
     "added_at": "2026-06-22T04:30:48.357Z"
+  },
+  {
+    "title": "cyber:::«Avec l'IA, la transformation des rôles des employés dans les entreprises sera phénoménale»",
+    "added_at": "2026-06-22T05:21:26.622Z"
+  },
+  {
+    "title": "suisse:::Le casse-tête des parents frontaliers avant la rentrée ou quand «l’éducation des enfants compte plus que sa propre maison»",
+    "added_at": "2026-06-22T05:28:38.432Z"
+  },
+  {
+    "title": "economie:::Matador introduit le private equity secondaire à la bourse de Zurich",
+    "added_at": "2026-06-22T05:48:48.025Z",
+    "removed_at": "2026-06-22T06:53:35.926Z",
+    "duration_minutes": 64,
+    "duration_str": "1h 4m"
+  },
+  {
+    "title": "monde:::En Amérique Latine, la Colombie bascule à son tour à l’extrême droite",
+    "added_at": "2026-06-22T06:46:29.076Z"
+  },
+  {
+    "title": "culture:::Jean-Guihen Queyras, le violoncelle joyeusement indépendant",
+    "added_at": "2026-06-22T07:00:48.579Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – La délégation iranienne quitte le Bürgenstock après des progrès sur les questions du Liban et d’Ormuz",
+    "added_at": "2026-06-22T07:34:30.467Z"
+  },
+  {
+    "title": "monde:::Une mobilisation à Londres, dix ans après le vote: «Nous nous sommes tiré une balle dans le pied avec le Brexit»",
+    "added_at": "2026-06-22T07:39:16.691Z"
   }
 ]
