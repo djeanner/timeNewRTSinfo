@@ -94597,7 +94597,10 @@
   },
   {
     "title": "L’Allemagne fait plier la Côte d'Ivoire dans le temps additionnel",
-    "added_at": "2026-06-21T09:52:23.164Z"
+    "added_at": "2026-06-21T09:52:23.164Z",
+    "removed_at": "2026-06-23T02:32:14.659Z",
+    "duration_minutes": 2439,
+    "duration_str": "1d 16h 39m"
   },
   {
     "title": "La panne chez Skyguide était liée à la conférence du Bürgenstock",
@@ -94962,5 +94965,9 @@
   {
     "title": "Frappée par la canicule, la Suisse connaît une hausse des ventes de climatiseurs",
     "added_at": "2026-06-22T22:23:51.214Z"
+  },
+  {
+    "title": "Trois morts à Montréal dans une fusillade, le tireur abattu",
+    "added_at": "2026-06-23T02:32:14.659Z"
   }
 ]
