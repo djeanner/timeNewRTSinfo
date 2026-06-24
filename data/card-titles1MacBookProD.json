@@ -94777,7 +94777,10 @@
   },
   {
     "title": "Julien Guillaume en direct du Bürgenstock",
-    "added_at": "2026-06-21T19:24:28.138Z"
+    "added_at": "2026-06-21T19:24:28.138Z",
+    "removed_at": "2026-06-24T05:03:26.546Z",
+    "duration_minutes": 3458,
+    "duration_str": "2d 9h 38m"
   },
   {
     "title": "Qui paie l'addition?",
@@ -94827,7 +94830,10 @@
   },
   {
     "title": "La Colombie bascule à l'extrême droite en élisant un millionnaire pro-Trump à la tête du pays",
-    "added_at": "2026-06-22T03:33:10.875Z"
+    "added_at": "2026-06-22T03:33:10.875Z",
+    "removed_at": "2026-06-24T05:03:26.546Z",
+    "duration_minutes": 2970,
+    "duration_str": "2d 1h 30m"
   },
   {
     "title": "Applications, chatbots, IA: les robots vont-ils remplacer les psys?",
@@ -94877,11 +94883,17 @@
   },
   {
     "title": "Le Conseil fédéral veut organiser les JO 2038 en Suisse sans passer par le référendum",
-    "added_at": "2026-06-22T08:08:19.188Z"
+    "added_at": "2026-06-22T08:08:19.188Z",
+    "removed_at": "2026-06-24T04:10:38.300Z",
+    "duration_minutes": 2642,
+    "duration_str": "1d 20h 2m"
   },
   {
     "title": "La canicule met sous pression l'agriculture",
-    "added_at": "2026-06-22T08:37:10.815Z"
+    "added_at": "2026-06-22T08:37:10.815Z",
+    "removed_at": "2026-06-24T05:10:40.850Z",
+    "duration_minutes": 2673,
+    "duration_str": "1d 20h 33m"
   },
   {
     "title": "Le Premier ministre britannique Keir Starmer annonce sa démission",
@@ -95245,9 +95257,9 @@
   {
     "title": "VD: fonds de secours pour compenser les arrêts de chantier par canicule",
     "added_at": "2026-06-23T15:25:45.486Z",
-    "removed_at": "2026-06-23T21:22:57.596Z",
-    "duration_minutes": 357,
-    "duration_str": "5h 57m"
+    "removed_at": "2026-06-24T05:17:53.567Z",
+    "duration_minutes": 832,
+    "duration_str": "13h 52m"
   },
   {
     "title": "Tour Eiffel fermée, coupures de courant, hôpitaux surchauffés: l'Europe suffoque sans voir la fin",
@@ -95326,5 +95338,17 @@
   {
     "title": "Marc Bloch, historien et résistant français, entre au Panthéon",
     "added_at": "2026-06-24T02:29:28.274Z"
+  },
+  {
+    "title": "Quand l'intelligence artificielle écrit les livres que l'on raconte à nos enfants",
+    "added_at": "2026-06-24T04:10:38.300Z"
+  },
+  {
+    "title": "La comète 3I/ATLAS est probablement bien plus âgée que le Système solaire",
+    "added_at": "2026-06-24T05:10:40.850Z"
+  },
+  {
+    "title": "Pirates informatiques iraniens: explications de Claude-Olivier Volluz",
+    "added_at": "2026-06-24T05:17:53.567Z"
   }
 ]
