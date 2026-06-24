@@ -94790,7 +94790,10 @@
   },
   {
     "title": "Qui paie l'addition?",
-    "added_at": "2026-06-21T19:29:16.182Z"
+    "added_at": "2026-06-21T19:29:16.182Z",
+    "removed_at": "2026-06-24T20:02:02.440Z",
+    "duration_minutes": 4352,
+    "duration_str": "3d 32m"
   },
   {
     "title": "Atouts précieux face au loup, les \"patous\" apprennent à cohabiter avec les randonneurs",
@@ -95117,7 +95120,10 @@
   },
   {
     "title": "La barre des 36 degrés dépassée en Suisse, MétéoSuisse relève son alerte canicule au niveau maximal",
-    "added_at": "2026-06-22T16:43:44.845Z"
+    "added_at": "2026-06-22T16:43:44.845Z",
+    "removed_at": "2026-06-24T19:04:12.066Z",
+    "duration_minutes": 3020,
+    "duration_str": "2d 2h 20m"
   },
   {
     "title": "Soundcheck - Mort à 29 ans du producteur Tay Keith, prodige prometteur de la scène musicale américaine",
@@ -95163,7 +95169,10 @@
   },
   {
     "title": "La Conférence des Eglises réformées romandes prend ses distances avec Daniel Marguerat",
-    "added_at": "2026-06-22T20:13:50.091Z"
+    "added_at": "2026-06-22T20:13:50.091Z",
+    "removed_at": "2026-06-24T19:47:40.087Z",
+    "duration_minutes": 2853,
+    "duration_str": "1d 23h 33m"
   },
   {
     "title": "En France, un rapport épingle les dysfonctionnements de la justice qui ont conduit à la mort de Lyhanna",
@@ -95181,11 +95190,17 @@
   },
   {
     "title": "Trois morts à Montréal dans une fusillade, le tireur abattu",
-    "added_at": "2026-06-23T02:32:14.659Z"
+    "added_at": "2026-06-23T02:32:14.659Z",
+    "removed_at": "2026-06-24T20:11:43.258Z",
+    "duration_minutes": 2499,
+    "duration_str": "1d 17h 39m"
   },
   {
     "title": "Mines, déforestation et Ebola, comment la tech favorise les virus en RDC",
-    "added_at": "2026-06-23T04:30:11.235Z"
+    "added_at": "2026-06-23T04:30:11.235Z",
+    "removed_at": "2026-06-24T20:30:57.345Z",
+    "duration_minutes": 2400,
+    "duration_str": "1d 16h"
   },
   {
     "title": "Canicule: pourquoi les fortes chaleurs augmentent le risque d’arrêt cardiaque",
@@ -95235,7 +95250,10 @@
   },
   {
     "title": "La franchise minimale à 400 francs convainc à droite, mais pas à gauche",
-    "added_at": "2026-06-23T07:57:07.222Z"
+    "added_at": "2026-06-23T07:57:07.222Z",
+    "removed_at": "2026-06-24T20:18:56.098Z",
+    "duration_minutes": 2181,
+    "duration_str": "1d 12h 21m"
   },
   {
     "title": "Menacé, le droit du sol a fourni sa star à l'équipe nationale de football des Etats-Unis",
@@ -95265,7 +95283,10 @@
   },
   {
     "title": "La Suisse cartographie sa faune souterraine pour mieux la protéger",
-    "added_at": "2026-06-23T10:19:06.543Z"
+    "added_at": "2026-06-23T10:19:06.543Z",
+    "removed_at": "2026-06-24T20:59:53.004Z",
+    "duration_minutes": 2080,
+    "duration_str": "1d 10h 40m"
   },
   {
     "title": "Page spéciale Mondial: Gaëlle Cajeux reçoit l'ancienne joueuse Noémie Beney",
@@ -95556,7 +95577,10 @@
   },
   {
     "title": "Qui est vraiment Gianni Infantino ?",
-    "added_at": "2026-06-24T14:03:57.597Z"
+    "added_at": "2026-06-24T14:03:57.597Z",
+    "removed_at": "2026-06-24T19:04:12.066Z",
+    "duration_minutes": 300,
+    "duration_str": "5h"
   },
   {
     "title": "La Suisse se retire de la coopération au développement en Amérique latine",
@@ -95604,5 +95628,41 @@
   {
     "title": "Le logiciel informatique Epic pour les hôpitaux vaudois divise profondément les députés",
     "added_at": "2026-06-24T18:35:03.076Z"
+  },
+  {
+    "title": "Ebola hors de contrôle en RDC: \"Chaque jour, on court derrière l'épidémie\"",
+    "added_at": "2026-06-24T19:04:12.066Z"
+  },
+  {
+    "title": "Bisbille sur le lancement de Movodis, futur mastodonte des transports publics vaudois",
+    "added_at": "2026-06-24T19:47:40.087Z"
+  },
+  {
+    "title": "Sport matin - Football: match au sommet entre la Suisse et le Canada pour la première place du groupe B",
+    "added_at": "2026-06-24T20:02:02.440Z"
+  },
+  {
+    "title": "Deux mille enfants placés par Terre des hommes ont été utilisés comme cobayes le siècle passé",
+    "added_at": "2026-06-24T20:11:43.258Z"
+  },
+  {
+    "title": "Les Bains d'Ovronnaz échappent à la faillite, mais cherchent encore une bouée de sauvetage",
+    "added_at": "2026-06-24T20:18:56.098Z"
+  },
+  {
+    "title": "La France suffoque sous la canicule et le Royaume-Uni en alerte rouge",
+    "added_at": "2026-06-24T20:30:57.345Z"
+  },
+  {
+    "title": "La Suisse bat le Canada 2-1 et se qualifie pour les 16es en prenant la 1re place du groupe B",
+    "added_at": "2026-06-24T20:59:53.004Z"
+  },
+  {
+    "title": "L'Asloca a déposé son initiative sur les loyers à la Chancellerie fédérale",
+    "added_at": "2026-06-24T21:02:19.246Z"
+  },
+  {
+    "title": "Le PLR vaudois désavoue ses élus et soutient l'initiative 12% pour réduire la fiscalité",
+    "added_at": "2026-06-24T21:36:00.910Z"
   }
 ]
