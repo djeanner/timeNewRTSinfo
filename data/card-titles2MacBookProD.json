@@ -25803,7 +25803,10 @@
   },
   {
     "title": "sciences:::Pourquoi nous ne sommes pas égaux face à la chaleur",
-    "added_at": "2025-08-13T08:31:04.223Z"
+    "added_at": "2025-08-13T08:31:04.223Z",
+    "removed_at": "2026-06-24T09:11:57.370Z",
+    "duration_minutes": 453640,
+    "duration_str": "315d 40m"
   },
   {
     "title": "suisse:::Un corps sans vie a été retrouvé à la Testa del Leone, au-dessus de Zermatt",
@@ -91206,7 +91209,10 @@
   },
   {
     "title": "monde:::Par la création d’une «cellule de gestion des conflits», l’Iran réaffirme son emprise sur le Liban",
-    "added_at": "2026-06-22T19:20:49.913Z"
+    "added_at": "2026-06-22T19:20:49.913Z",
+    "removed_at": "2026-06-24T09:33:36.920Z",
+    "duration_minutes": 2292,
+    "duration_str": "1d 14h 12m"
   },
   {
     "title": "culture:::Dans «Balzac nous appartient», Judith Lyon-Caen retrace comment l’auteur de la «Comédie humaine» a été célébré par tous les bords politiques",
@@ -91361,7 +91367,10 @@
   },
   {
     "title": "sciences:::Un mystérieux et pharaonique projet de data center sème le trouble en Croatie",
-    "added_at": "2026-06-23T11:07:24.433Z"
+    "added_at": "2026-06-23T11:07:24.433Z",
+    "removed_at": "2026-06-24T10:26:29.378Z",
+    "duration_minutes": 1399,
+    "duration_str": "23h 19m"
   },
   {
     "title": "monde:::Les députés hongrois approuvent de futures mesures anti-corruption",
@@ -91439,7 +91448,10 @@
   },
   {
     "title": "economie:::Roi du cornichon suisse, Reitzel garde le cap et signe une nouvelle année record",
-    "added_at": "2026-06-23T15:16:11.714Z"
+    "added_at": "2026-06-23T15:16:11.714Z",
+    "removed_at": "2026-06-24T10:28:56.965Z",
+    "duration_minutes": 1152,
+    "duration_str": "19h 12m"
   },
   {
     "title": "suisse:::«C’est un mensonge de parler d’égalité des chances»: à Genève, du personnel de l’OMP à bout",
@@ -91476,7 +91488,10 @@
   },
   {
     "title": "cyber:::Finie «l’expérimentation naïve»: les entreprises suisses bataillent pour exploiter pleinement le potentiel de l’intelligence artificielle",
-    "added_at": "2026-06-23T16:26:09.019Z"
+    "added_at": "2026-06-23T16:26:09.019Z",
+    "removed_at": "2026-06-24T10:28:56.965Z",
+    "duration_minutes": 1082,
+    "duration_str": "18h 2m"
   },
   {
     "title": "suisse:::Déplacer les vacances, climatiser les classes? L’école face au défi de la canicule",
@@ -91612,10 +91627,66 @@
   },
   {
     "title": "monde:::Contraints par la crise du logement, des Français se mettent à la colocation sur le tard",
-    "added_at": "2026-06-24T06:57:02.625Z"
+    "added_at": "2026-06-24T06:57:02.625Z",
+    "removed_at": "2026-06-24T08:55:05.030Z",
+    "duration_minutes": 118,
+    "duration_str": "1h 58m"
   },
   {
     "title": "suisse:::«C’est un abus de pouvoir»: à Genève, les petits propriétaires priés de payer eux-mêmes la réparation des conduites d’eau potable",
     "added_at": "2026-06-24T07:28:16.855Z"
+  },
+  {
+    "title": "monde:::La ville frontalière de Divonne-les-Bains est sous le choc après le viol d’une fillette de 4 ans par un animateur du périscolaire",
+    "added_at": "2026-06-24T08:43:03.915Z",
+    "removed_at": "2026-06-24T10:43:25.411Z",
+    "duration_minutes": 120,
+    "duration_str": "2h"
+  },
+  {
+    "title": "culture:::Au cinéma, «Nous, l’orchestre» est une plongée magnifique dans la symphonie du collectif",
+    "added_at": "2026-06-24T08:43:03.915Z",
+    "removed_at": "2026-06-24T10:48:12.167Z",
+    "duration_minutes": 125,
+    "duration_str": "2h 5m"
+  },
+  {
+    "title": "monde:::En vingt ans, les prix des logements ont augmenté de 88%: les classes moyennes françaises basculent dans la colocation",
+    "added_at": "2026-06-24T08:55:05.030Z"
+  },
+  {
+    "title": "sport:::La Suisse et le Canada s’affrontent ce soir avec une ambition commune et des styles opposés",
+    "added_at": "2026-06-24T09:11:57.370Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Marco Rubio entame aux Emirats sa tournée éclair dans le Golfe",
+    "added_at": "2026-06-24T09:33:36.920Z"
+  },
+  {
+    "title": "cyber:::Une loi new-yorkaise obligeant à signaler les personnages générés par l’IA va bousculer le monde de la publicité",
+    "added_at": "2026-06-24T10:26:29.378Z"
+  },
+  {
+    "title": "monde:::Record de 2003 battu, écoles fermées en Angleterre et piscines gratuites à Amsterdam: les dernières informations sur la canicule qui sévit en Europe",
+    "added_at": "2026-06-24T10:26:29.378Z"
+  },
+  {
+    "title": "suisse:::Le Conseil fédéral veut fusionner la protection civile et le service civil",
+    "added_at": "2026-06-24T10:28:56.965Z"
+  },
+  {
+    "title": "monde:::Des parents sous le choc et en colère: la ville frontalière de Divonne-les-Bains secouée par une affaire de viol sur une fille de 4 ans par un animateur du périscolaire",
+    "added_at": "2026-06-24T10:43:25.411Z",
+    "removed_at": "2026-06-24T10:45:46.925Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::Des parents sous le choc et en colère: la ville frontalière de Divonne-les-Bains secouée par une affaire de viol sur une fillette de 4 ans par un animateur du périscolaire",
+    "added_at": "2026-06-24T10:45:46.925Z"
+  },
+  {
+    "title": "sport:::A la Coupe du monde 1990, le penalty manqué qui aurait pu sauver la Yougoslavie",
+    "added_at": "2026-06-24T10:48:12.167Z"
   }
 ]
