@@ -95333,7 +95333,10 @@
   },
   {
     "title": "A la recherche d'un peu de fraîcheur...",
-    "added_at": "2026-06-23T13:15:40.723Z"
+    "added_at": "2026-06-23T13:15:40.723Z",
+    "removed_at": "2026-06-25T01:40:39.058Z",
+    "duration_minutes": 2184,
+    "duration_str": "1d 12h 24m"
   },
   {
     "title": "Les salaires des grands patrons suisses ont bondi de 30% en cinq ans",
@@ -95678,5 +95681,30 @@
   {
     "title": "La Maison Blanche demande des milliards de dollars pour la guerre en Iran",
     "added_at": "2026-06-24T22:31:37.621Z"
+  },
+  {
+    "title": "Deux puissants séismes touchent le Venezuela, des immeubles effondrés à Caracas",
+    "added_at": "2026-06-25T01:40:39.058Z",
+    "removed_at": "2026-06-25T02:21:34.148Z",
+    "duration_minutes": 40,
+    "duration_str": "40m"
+  },
+  {
+    "title": "Un double séisme puissant touche le Venezuela, des immeubles effondrés à Caracas",
+    "added_at": "2026-06-25T02:21:34.148Z",
+    "removed_at": "2026-06-25T02:28:47.094Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Un double séisme puissant touche le Venezuela, faisant redouter une \"catastrophe considérable\"",
+    "added_at": "2026-06-25T02:28:47.094Z",
+    "removed_at": "2026-06-25T02:38:24.519Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Un double séisme puissant touche le Venezuela, faisant craindre une \"catastrophe considérable\"",
+    "added_at": "2026-06-25T02:38:24.519Z"
   }
 ]
