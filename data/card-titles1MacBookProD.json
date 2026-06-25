@@ -95381,7 +95381,10 @@
   },
   {
     "title": "Les comptes vaudois 2025 validés malgré un déficit de 156 millions",
-    "added_at": "2026-06-23T14:54:30.248Z"
+    "added_at": "2026-06-23T14:54:30.248Z",
+    "removed_at": "2026-06-25T11:12:08.314Z",
+    "duration_minutes": 2657,
+    "duration_str": "1d 20h 17m"
   },
   {
     "title": "Au Grand Théâtre de Genève, un '200 Motels' de Frank Zappa virtuose et décapant ★★★★☆",
@@ -95392,7 +95395,10 @@
   },
   {
     "title": "La justice ne va pas rouvrir l'enquête pour viol visant le réalisateur Luc Besson",
-    "added_at": "2026-06-23T15:04:11.151Z"
+    "added_at": "2026-06-23T15:04:11.151Z",
+    "removed_at": "2026-06-25T12:34:40.848Z",
+    "duration_minutes": 2730,
+    "duration_str": "1d 21h 30m"
   },
   {
     "title": "Manifestants pro-Palestine: pourquoi l'enquête de la police fait polémique",
@@ -95400,7 +95406,10 @@
   },
   {
     "title": "VD: fonds de secours pour compenser les arrêts de chantier par canicule",
-    "added_at": "2026-06-23T15:25:45.486Z"
+    "added_at": "2026-06-23T15:25:45.486Z",
+    "removed_at": "2026-06-25T13:01:10.582Z",
+    "duration_minutes": 2735,
+    "duration_str": "1d 21h 35m"
   },
   {
     "title": "Tour Eiffel fermée, coupures de courant, hôpitaux surchauffés: l'Europe suffoque sans voir la fin",
@@ -95418,7 +95427,10 @@
   },
   {
     "title": "Un centre de surveillance pour le virus du Nil occidental inauguré au Tessin",
-    "added_at": "2026-06-23T16:26:08.951Z"
+    "added_at": "2026-06-23T16:26:08.951Z",
+    "removed_at": "2026-06-25T12:07:34.951Z",
+    "duration_minutes": 2621,
+    "duration_str": "1d 19h 41m"
   },
   {
     "title": "Le record de chaleur pour un 23 juin battu à Genève avec 36 degrés",
@@ -95829,5 +95841,53 @@
   {
     "title": "Interdiction de travailler en extérieur à Genève tous les après-midi en raison de la canicule",
     "added_at": "2026-06-25T10:47:50.670Z"
+  },
+  {
+    "title": "La quasi-totalité de la Suisse romande désormais en \"fort danger\" canicule",
+    "added_at": "2026-06-25T11:12:08.314Z",
+    "removed_at": "2026-06-25T13:22:53.658Z",
+    "duration_minutes": 130,
+    "duration_str": "2h 10m"
+  },
+  {
+    "title": "Le Conseil fédéral sur les terres de Guy Parmelin pour sa traditonnelle course d'école",
+    "added_at": "2026-06-25T11:21:49.258Z",
+    "removed_at": "2026-06-25T12:34:40.848Z",
+    "duration_minutes": 72,
+    "duration_str": "1h 12m"
+  },
+  {
+    "title": "'Les chemins écarquillés' d'Aurélien Blanchard, un premier roman décoiffant",
+    "added_at": "2026-06-25T12:07:34.951Z"
+  },
+  {
+    "title": "Le Conseil fédéral sur les terres de Guy Parmelin pour sa traditionnelle course d'école",
+    "added_at": "2026-06-25T12:34:40.848Z"
+  },
+  {
+    "title": "Comment les différences culturelles façonnent la pratique du pourboire",
+    "added_at": "2026-06-25T12:34:40.848Z"
+  },
+  {
+    "title": "Canicule: \"C'est aux autorités d'agir\", juge Géraldine Pflieger",
+    "added_at": "2026-06-25T12:46:48.136Z"
+  },
+  {
+    "title": "La quasi-totalité de la Suisse romande désormais en \"fort danger\" canicule, le record de température pour le mois de juin battu",
+    "added_at": "2026-06-25T13:22:53.658Z",
+    "removed_at": "2026-06-25T13:30:07.633Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Le record de température pour un mois de juin en Suisse a été battu avec plus de 37 degrés",
+    "added_at": "2026-06-25T13:30:07.633Z",
+    "removed_at": "2026-06-25T13:32:32.820Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "La Suisse bat son record de chaleur pour un mois de juin avec plus de 37 degrés",
+    "added_at": "2026-06-25T13:32:32.820Z"
   }
 ]
