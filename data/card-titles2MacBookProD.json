@@ -92138,14 +92138,14 @@
   },
   {
     "title": "suisse:::Le record de température pour le mois de juin en Suisse a été battu",
-    "added_at": "2026-06-25T13:22:53.727Z",
-    "removed_at": "2026-06-25T16:36:17.899Z",
-    "duration_minutes": 193,
-    "duration_str": "3h 13m"
+    "added_at": "2026-06-25T13:22:53.727Z"
   },
   {
     "title": "sport:::«Avec Gregor Kobel, l’équipe de Suisse possède un gardien de qualité, et c’est important pour aller loin dans une Coupe du monde»",
-    "added_at": "2026-06-25T13:42:14.494Z"
+    "added_at": "2026-06-25T13:42:14.494Z",
+    "removed_at": "2026-06-26T13:59:02.231Z",
+    "duration_minutes": 1456,
+    "duration_str": "1d 16m"
   },
   {
     "title": "suisse:::Notre-Dame de Paris célèbre ses poutres ajoulotes dans la fournaise",
@@ -92212,7 +92212,10 @@
   },
   {
     "title": "suisse:::Le gestionnaire de fortune valaisan Sébastien B. est condamné à 6 ans et 6 mois de prison",
-    "added_at": "2026-06-25T17:14:56.502Z"
+    "added_at": "2026-06-25T17:14:56.502Z",
+    "removed_at": "2026-06-26T13:37:19.508Z",
+    "duration_minutes": 1222,
+    "duration_str": "20h 22m"
   },
   {
     "title": "monde:::A Washington, le secrétaire général de l’OTAN, Mark Rutte, a fait son «Trump Show» en crispant les Européens",
@@ -92362,11 +92365,17 @@
   },
   {
     "title": "monde:::L’ONU suspend son plan d’évacuation des navires d’Ormuz suite à une attaque",
-    "added_at": "2026-06-26T08:27:48.929Z"
+    "added_at": "2026-06-26T08:27:48.929Z",
+    "removed_at": "2026-06-26T12:34:05.198Z",
+    "duration_minutes": 246,
+    "duration_str": "4h 6m"
   },
   {
     "title": "monde:::A Washington, la «grande foire» des Etats-désunis",
-    "added_at": "2026-06-26T08:32:37.865Z"
+    "added_at": "2026-06-26T08:32:37.865Z",
+    "removed_at": "2026-06-26T13:03:37.753Z",
+    "duration_minutes": 270,
+    "duration_str": "4h 30m"
   },
   {
     "title": "sport:::A Los Angeles, un match des Etats-Unis est un show en tribunes",
@@ -92381,11 +92390,17 @@
   },
   {
     "title": "economie:::Gestion de fortune: un milliard, ça eut payé",
-    "added_at": "2026-06-26T08:37:31.266Z"
+    "added_at": "2026-06-26T08:37:31.266Z",
+    "removed_at": "2026-06-26T12:41:53.389Z",
+    "duration_minutes": 244,
+    "duration_str": "4h 4m"
   },
   {
     "title": "culture:::A Genève, la Scène Ella Fitzgerald fête ses 30 ans sans rien perdre de son souffle",
-    "added_at": "2026-06-26T08:39:55.846Z"
+    "added_at": "2026-06-26T08:39:55.846Z",
+    "removed_at": "2026-06-26T12:34:05.198Z",
+    "duration_minutes": 234,
+    "duration_str": "3h 54m"
   },
   {
     "title": "monde:::Aux Etats-Unis, la Cour suprême lève les obstacles à la politique anti-immigration de l’administration Trump",
@@ -92400,14 +92415,55 @@
   },
   {
     "title": "culture:::Le Jukebox de juin 2026: Olivia Rodrigo, Acid Arab, Lau Ro...",
-    "added_at": "2026-06-26T10:02:06.958Z"
+    "added_at": "2026-06-26T10:02:06.958Z",
+    "removed_at": "2026-06-26T13:59:02.231Z",
+    "duration_minutes": 236,
+    "duration_str": "3h 56m"
   },
   {
     "title": "monde:::Au Venezuela, l'aide internationale se met en place pendant que le bilan provisoire du séisme monte à 235 morts",
-    "added_at": "2026-06-26T10:02:06.958Z"
+    "added_at": "2026-06-26T10:02:06.958Z",
+    "removed_at": "2026-06-26T12:58:50.999Z",
+    "duration_minutes": 176,
+    "duration_str": "2h 56m"
   },
   {
     "title": "sport:::Pour l’ancien international et consultant français François Clerc, «l’équipe de Suisse sera difficile à sortir de la Coupe du monde»",
     "added_at": "2026-06-26T10:23:50.173Z"
+  },
+  {
+    "title": "suisse:::«Une ligne de contact a été arrachée par un train»: le trafic est complètement interrompu en gare de Lausanne",
+    "added_at": "2026-06-26T12:22:04.025Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – La Crimée annexée placée en «situation d'urgence» après des attaques ukrainiennes",
+    "added_at": "2026-06-26T12:34:05.198Z"
+  },
+  {
+    "title": "monde:::L’ONU suspend son plan d’évacuation des navires d’Ormuz après une attaque",
+    "added_at": "2026-06-26T12:34:05.198Z"
+  },
+  {
+    "title": "monde:::Au Venezuela, l'aide internationale se met en place pendant que le bilan provisoire du séisme monte à 589 morts",
+    "added_at": "2026-06-26T12:58:50.999Z",
+    "removed_at": "2026-06-26T13:01:12.281Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::Au Venezuela, l'aide internationale se met en place pendant que le bilan provisoire du séisme monte à 589 morts et près de 3000 blessés",
+    "added_at": "2026-06-26T13:01:12.281Z"
+  },
+  {
+    "title": "sport:::Stan Wawrinka fera ses adieux officiels au tennis à Genève en décembre, en présence de Roger Federer",
+    "added_at": "2026-06-26T13:03:37.753Z"
+  },
+  {
+    "title": "suisse:::Après le retrait de La Poste, Neuchâtel espère maintenir la dynamique du dossier électronique du patient",
+    "added_at": "2026-06-26T13:37:19.508Z"
+  },
+  {
+    "title": "sciences:::En direct, canicule – En Suisse, la centrale nucléaire de Beznau forcée de réduire sa production à cause des fortes chaleurs",
+    "added_at": "2026-06-26T13:59:02.231Z"
   }
 ]
