@@ -90161,7 +90161,10 @@
   },
   {
     "title": "suisse:::A la police de Lausanne, le grand ménage n’a pas été fait malgré les licenciements prononcés",
-    "added_at": "2026-06-19T04:27:20.847Z"
+    "added_at": "2026-06-19T04:27:20.847Z",
+    "removed_at": "2026-06-26T09:33:12.702Z",
+    "duration_minutes": 10385,
+    "duration_str": "7d 5h 5m"
   },
   {
     "title": "suisse:::Les graves discriminations au sein de la police lausannoise sont confirmées par des experts",
@@ -91868,7 +91871,10 @@
   },
   {
     "title": "suisse:::La gauche lausannoise exige plus de fermeté pour les employés de la ville condamnés pénalement",
-    "added_at": "2026-06-24T16:23:56.082Z"
+    "added_at": "2026-06-24T16:23:56.082Z",
+    "removed_at": "2026-06-26T09:33:12.702Z",
+    "duration_minutes": 2469,
+    "duration_str": "1d 17h 9m"
   },
   {
     "title": "suisse:::Genève post-G7: le Conseil d’Etat est content de lui et du dispositif exceptionnel déployé pour assurer la sécurité",
@@ -92185,7 +92191,10 @@
   },
   {
     "title": "suisse:::Pour la première fois, le renseignement suisse désigne la Russie comme la plus grande menace pour le pays",
-    "added_at": "2026-06-25T15:50:14.835Z"
+    "added_at": "2026-06-25T15:50:14.835Z",
+    "removed_at": "2026-06-26T10:23:50.173Z",
+    "duration_minutes": 1113,
+    "duration_str": "18h 33m"
   },
   {
     "title": "economie:::Le groupe appenzellois Huber + Suhner, gagnant inattendu de la ruée vers les centres de données",
@@ -92267,7 +92276,10 @@
   },
   {
     "title": "cyber:::La ruée mondiale sur les puces d’IA s’intensifie: OpenAI, Google et Microsoft créent leurs propres composants",
-    "added_at": "2026-06-25T19:23:30.783Z"
+    "added_at": "2026-06-25T19:23:30.783Z",
+    "removed_at": "2026-06-26T09:52:27.170Z",
+    "duration_minutes": 868,
+    "duration_str": "14h 28m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le plan d’évacuation du détroit d’Ormuz suspendu après une attaque dans le golfe d'Oman",
@@ -92344,9 +92356,9 @@
   {
     "title": "monde:::Au Venezuela, le bilan provisoire du séisme monte à 235 morts pendant que la recherche effrénée des disparus continue",
     "added_at": "2026-06-26T07:56:30.310Z",
-    "removed_at": "2026-06-26T08:27:48.929Z",
-    "duration_minutes": 31,
-    "duration_str": "31m"
+    "removed_at": "2026-06-26T10:02:06.958Z",
+    "duration_minutes": 125,
+    "duration_str": "2h 5m"
   },
   {
     "title": "monde:::L’ONU suspend son plan d’évacuation des navires d’Ormuz suite à une attaque",
@@ -92362,7 +92374,10 @@
   },
   {
     "title": "culture:::A Genève, Sandrine Kuster présente son avant-dernière saison à la tête de la Maison Saint-Gervais: que du beau monde!",
-    "added_at": "2026-06-26T08:35:03.422Z"
+    "added_at": "2026-06-26T08:35:03.422Z",
+    "removed_at": "2026-06-26T09:52:27.170Z",
+    "duration_minutes": 77,
+    "duration_str": "1h 17m"
   },
   {
     "title": "economie:::Gestion de fortune: un milliard, ça eut payé",
@@ -92371,5 +92386,28 @@
   {
     "title": "culture:::A Genève, la Scène Ella Fitzgerald fête ses 30 ans sans rien perdre de son souffle",
     "added_at": "2026-06-26T08:39:55.846Z"
+  },
+  {
+    "title": "monde:::Aux Etats-Unis, la Cour suprême lève les obstacles à la politique anti-immigration de l’administration Trump",
+    "added_at": "2026-06-26T09:33:12.702Z",
+    "removed_at": "2026-06-26T10:23:50.173Z",
+    "duration_minutes": 50,
+    "duration_str": "50m"
+  },
+  {
+    "title": "monde:::La gauche française se déchire toujours sur la question palestinienne, malgré une convergence de fond",
+    "added_at": "2026-06-26T09:52:27.170Z"
+  },
+  {
+    "title": "culture:::Le Jukebox de juin 2026: Olivia Rodrigo, Acid Arab, Lau Ro...",
+    "added_at": "2026-06-26T10:02:06.958Z"
+  },
+  {
+    "title": "monde:::Au Venezuela, l'aide internationale se met en place pendant que le bilan provisoire du séisme monte à 235 morts",
+    "added_at": "2026-06-26T10:02:06.958Z"
+  },
+  {
+    "title": "sport:::Pour l’ancien international et consultant français François Clerc, «l’équipe de Suisse sera difficile à sortir de la Coupe du monde»",
+    "added_at": "2026-06-26T10:23:50.173Z"
   }
 ]
