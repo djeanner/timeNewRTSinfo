@@ -96700,11 +96700,17 @@
   },
   {
     "title": "La Niña, révélation napolitaine au programme du Festival de la Cité",
-    "added_at": "2026-06-29T11:22:59.873Z"
+    "added_at": "2026-06-29T11:22:59.873Z",
+    "removed_at": "2026-06-30T21:47:28.818Z",
+    "duration_minutes": 2064,
+    "duration_str": "1d 10h 24m"
   },
   {
     "title": "Onze morts dans le crash d'un Pilatus transportant des parachutistes près de Nancy",
-    "added_at": "2026-06-29T11:22:59.873Z"
+    "added_at": "2026-06-29T11:22:59.873Z",
+    "removed_at": "2026-06-30T21:35:26.298Z",
+    "duration_minutes": 2052,
+    "duration_str": "1d 10h 12m"
   },
   {
     "title": "Céline Locatelli: \"Mes astuces pour survivre à l'été quand on est gros\"",
@@ -96741,7 +96747,10 @@
   },
   {
     "title": "Nouveau record de chaleur battu en juin à Bâle, avec 39°C",
-    "added_at": "2026-06-29T11:22:59.873Z"
+    "added_at": "2026-06-29T11:22:59.873Z",
+    "removed_at": "2026-06-30T23:23:38.691Z",
+    "duration_minutes": 2160,
+    "duration_str": "1d 12h"
   },
   {
     "title": "Logements trop chauds: quels droits pour les locataires ?",
@@ -96799,7 +96808,10 @@
   },
   {
     "title": "Après plus de 90 ans d’histoire, la Maison de la radio à la Sallaz ferme ses portes et diffuse Forum une dernière fois",
-    "added_at": "2026-06-29T11:22:59.873Z"
+    "added_at": "2026-06-29T11:22:59.873Z",
+    "removed_at": "2026-06-30T23:04:25.669Z",
+    "duration_minutes": 2141,
+    "duration_str": "1d 11h 41m"
   },
   {
     "title": "Vladimir Poutine reconnaît  \"une certaine pénurie\" de carburant",
@@ -97291,10 +97303,7 @@
   },
   {
     "title": "Le canton de Genève veut se doter d'un métro d'ici 2045",
-    "added_at": "2026-06-30T08:24:25.308Z",
-    "removed_at": "2026-06-30T11:21:16.821Z",
-    "duration_minutes": 176,
-    "duration_str": "2h 56m"
+    "added_at": "2026-06-30T08:24:25.308Z"
   },
   {
     "title": "Le guide ultime pour bien choisir votre crème solaire et protéger votre peau cet été",
@@ -97378,7 +97387,10 @@
   },
   {
     "title": "Onze morts dans le crash d'un avion transportant des parachutistes près de Nancy",
-    "added_at": "2026-06-30T14:03:35.596Z"
+    "added_at": "2026-06-30T14:03:35.596Z",
+    "removed_at": "2026-06-30T22:04:20.824Z",
+    "duration_minutes": 480,
+    "duration_str": "8h"
   },
   {
     "title": "Jennifer Covo succède à Philippe Revaz au 19h30, ce dernier rejoint Mise au Point",
@@ -97438,5 +97450,35 @@
   {
     "title": "L'auteur présumé de la fusillade de Stade aurait secoué son bébé il y a plusieurs mois",
     "added_at": "2026-06-30T21:01:35.359Z"
+  },
+  {
+    "title": "Stan Wawrinka sort d'entrée au terme d'un véritable combat contre Matteo Berrettini",
+    "added_at": "2026-06-30T21:35:26.298Z"
+  },
+  {
+    "title": "Un important incendie détruit un bâtiment à Romont",
+    "added_at": "2026-06-30T21:47:28.818Z",
+    "removed_at": "2026-06-30T21:59:34.285Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "La salle de sport des Avoines à Romont en partie détruite par un fort incendie",
+    "added_at": "2026-06-30T21:59:34.285Z",
+    "removed_at": "2026-06-30T22:11:34.561Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "Guy Parmelin n'a pas réussi à trouver un accord douanier avec les Etats-Unis",
+    "added_at": "2026-06-30T22:04:20.824Z"
+  },
+  {
+    "title": "La salle de sport des Avoines à Romont en partie détruite par un incendie",
+    "added_at": "2026-06-30T22:11:34.561Z"
+  },
+  {
+    "title": "Coup dur pour Berne: l'Union européenne limite les importations d'acier suisses",
+    "added_at": "2026-06-30T23:23:38.691Z"
   }
 ]

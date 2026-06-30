@@ -93093,7 +93093,10 @@
   },
   {
     "title": "sport:::En direct, Coupe du monde 2026 – La Norvège élimine la Côte d'Ivoire, place à la France contre la Suède",
-    "added_at": "2026-06-30T19:14:48.951Z"
+    "added_at": "2026-06-30T19:14:48.951Z",
+    "removed_at": "2026-06-30T23:02:00.851Z",
+    "duration_minutes": 227,
+    "duration_str": "3h 47m"
   },
   {
     "title": "monde:::La Cour suprême désavoue Donald Trump et maintient le droit du sol",
@@ -93106,5 +93109,9 @@
   {
     "title": "culture:::Avec «Ghost Elephants», le grand documentariste Werner Herzog repart en chasse d’une chimère",
     "added_at": "2026-06-30T19:49:16.441Z"
+  },
+  {
+    "title": "sport:::En direct, Coupe du monde 2026 – La Norvège élimine la Côte d'Ivoire, la France terrasse la Suède",
+    "added_at": "2026-06-30T23:02:00.851Z"
   }
 ]
