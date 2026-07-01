@@ -97342,11 +97342,17 @@
   },
   {
     "title": "Qantas lance une ligne Sydney-Londres, plus long vol passager sans escale au monde",
-    "added_at": "2026-06-29T20:20:53.297Z"
+    "added_at": "2026-06-29T20:20:53.297Z",
+    "removed_at": "2026-07-01T19:35:59.880Z",
+    "duration_minutes": 2835,
+    "duration_str": "1d 23h 15m"
   },
   {
     "title": "Six morts après des coups de feu à Stade en Allemagne, la piste d'une \"tragédie familiale\" privilégiée",
-    "added_at": "2026-06-29T20:30:36.138Z"
+    "added_at": "2026-06-29T20:30:36.138Z",
+    "removed_at": "2026-07-01T18:52:06.435Z",
+    "duration_minutes": 2781,
+    "duration_str": "1d 22h 21m"
   },
   {
     "title": "La Suisse n'a pas encore trouvé d'accord avec les Etats-Unis sur les droits de douane",
@@ -97392,7 +97398,10 @@
   },
   {
     "title": "Antonin Niclass, prodige genevois de l'animation, remporte un prix au Festival du film d'Annecy",
-    "added_at": "2026-06-30T08:09:43.898Z"
+    "added_at": "2026-06-30T08:09:43.898Z",
+    "removed_at": "2026-07-01T19:50:27.404Z",
+    "duration_minutes": 2140,
+    "duration_str": "1d 11h 40m"
   },
   {
     "title": "Le canton de Genève veut se doter d'un métro d'ici 2045",
@@ -97432,7 +97441,10 @@
   },
   {
     "title": "Lémuriens, tortues, cobras… le commerce illégal d’espèces sauvages prospère sur Facebook",
-    "added_at": "2026-06-30T10:23:03.707Z"
+    "added_at": "2026-06-30T10:23:03.707Z",
+    "removed_at": "2026-07-01T20:00:11.424Z",
+    "duration_minutes": 2017,
+    "duration_str": "1d 9h 37m"
   },
   {
     "title": "Les syndicats lancent un référendum contre la réforme des salaires minimaux",
@@ -97702,7 +97714,10 @@
   },
   {
     "title": "Défaite dramatique de l'Allemagne au Mondial de football 2026: interview de Polo Breitner",
-    "added_at": "2026-07-01T14:03:43.033Z"
+    "added_at": "2026-07-01T14:03:43.033Z",
+    "removed_at": "2026-07-01T19:23:31.452Z",
+    "duration_minutes": 319,
+    "duration_str": "5h 19m"
   },
   {
     "title": "Un oligarque ukrainien et deux personnes blessés dans l'explosion d'un \"colis piégé\" à Monaco",
@@ -97750,5 +97765,25 @@
   {
     "title": "L'Iran annonce la fin des négociations indirectes au Qatar qui avaient suivi la reprise des frappes",
     "added_at": "2026-07-01T18:05:50.747Z"
+  },
+  {
+    "title": "Les Etats-Unis signent un accord pour construire une ambassade permanente à Jérusalem",
+    "added_at": "2026-07-01T18:52:06.435Z"
+  },
+  {
+    "title": "Témoignage d’un parent d’une victime, six mois après l’incendie de Crans-Montana",
+    "added_at": "2026-07-01T19:23:31.452Z"
+  },
+  {
+    "title": "Des drones non identifiés repérés au-dessus d'une installation militaire suisse",
+    "added_at": "2026-07-01T19:35:59.880Z"
+  },
+  {
+    "title": "Le Parlement jurassien approuve la loi sur la violence domestique",
+    "added_at": "2026-07-01T19:50:27.404Z"
+  },
+  {
+    "title": "Martin Pfister rencontre la ministre française de la Défense Catherine Vautrin",
+    "added_at": "2026-07-01T20:00:11.424Z"
   }
 ]

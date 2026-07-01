@@ -93219,7 +93219,10 @@
   },
   {
     "title": "sport:::En direct, Coupe du monde 2026 – La France a terrassé la Suède par 3-0, naissance d’un «vrai groupe» selon les médias hexagonaux",
-    "added_at": "2026-07-01T05:20:49.617Z"
+    "added_at": "2026-07-01T05:20:49.617Z",
+    "removed_at": "2026-07-01T18:42:22.318Z",
+    "duration_minutes": 801,
+    "duration_str": "13h 21m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les émissaires américains et iraniens sont au Qatar pour des réunions",
@@ -93305,7 +93308,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump est dithyrambique sur les négociations à Doha avec les Iraniens",
-    "added_at": "2026-07-01T13:47:52.006Z"
+    "added_at": "2026-07-01T13:47:52.006Z",
+    "removed_at": "2026-07-01T19:52:54.282Z",
+    "duration_minutes": 365,
+    "duration_str": "6h 5m"
   },
   {
     "title": "cyber:::Des centaines de plateformes de cryptomonnaies, dont Binance, ont été exclues du marché européen par une nouvelle réglementation",
@@ -93392,5 +93398,17 @@
   {
     "title": "suisse:::Dans la lutte à la tête du Groupe Castel, un nouvel épisode s’ouvre devant la justice genevoise",
     "added_at": "2026-07-01T18:30:07.452Z"
+  },
+  {
+    "title": "sport:::En direct, Coupe du monde 2026 – La RDC manque de peu l'exploit face à l'Angleterre d'Harry Kane",
+    "added_at": "2026-07-01T18:42:22.318Z"
+  },
+  {
+    "title": "suisse:::Selon le chef de l'armée suisse, des drones non-identifiés ont survolé une installation militaire",
+    "added_at": "2026-07-01T19:40:48.540Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Après des discussions au Qatar, l'Iran affirme qu'il pourra utiliser six milliards de dollars de ses avoirs gelés",
+    "added_at": "2026-07-01T19:52:54.282Z"
   }
 ]
