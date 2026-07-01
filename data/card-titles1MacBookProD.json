@@ -96645,7 +96645,10 @@
   },
   {
     "title": "Les prix de l'électricité devraient diminuer l'an prochain en Suisse",
-    "added_at": "2026-06-29T11:22:59.873Z"
+    "added_at": "2026-06-29T11:22:59.873Z",
+    "removed_at": "2026-07-01T10:36:59.622Z",
+    "duration_minutes": 2833,
+    "duration_str": "1d 23h 13m"
   },
   {
     "title": "Guy Parmelin se rend aux Etats-Unis pour sécuriser un accord sur les droits de douane",
@@ -96688,7 +96691,10 @@
   },
   {
     "title": "D'où viennent les hymnes nationaux? Notre blind test sur les 48 pays présents à la Coupe du monde",
-    "added_at": "2026-06-29T11:22:59.873Z"
+    "added_at": "2026-06-29T11:22:59.873Z",
+    "removed_at": "2026-07-01T13:01:40.003Z",
+    "duration_minutes": 2978,
+    "duration_str": "2d 1h 38m"
   },
   {
     "title": "La canicule a déjà fait 1300 morts en Europe depuis le 21 juin, selon l'OMS",
@@ -97189,7 +97195,10 @@
   },
   {
     "title": "La péninsule de Crimée, annexée en 2014 par Moscou, sous le feu des attaques ukrainiennes",
-    "added_at": "2026-06-29T12:23:41.181Z"
+    "added_at": "2026-06-29T12:23:41.181Z",
+    "removed_at": "2026-07-01T12:03:47.017Z",
+    "duration_minutes": 2860,
+    "duration_str": "1d 23h 40m"
   },
   {
     "title": "Fribourg inaugure la pisciculture d'Estavayer après dix ans de déboires",
@@ -97219,7 +97228,10 @@
   },
   {
     "title": "De nouvelles centrales nucléaires ne seraient pas rentables en Suisse sans aide de l'Etat",
-    "added_at": "2026-06-29T13:40:00.592Z"
+    "added_at": "2026-06-29T13:40:00.592Z",
+    "removed_at": "2026-07-01T12:08:40.213Z",
+    "duration_minutes": 2788,
+    "duration_str": "1d 22h 28m"
   },
   {
     "title": "Nouvelle réplique au Venezuela cinq jours après le séisme meurtrier",
@@ -97241,11 +97253,17 @@
   },
   {
     "title": "Une femme trans expulsée par la police du bassin pour femmes du Marzili",
-    "added_at": "2026-06-29T15:12:37.067Z"
+    "added_at": "2026-06-29T15:12:37.067Z",
+    "removed_at": "2026-07-01T12:42:22.284Z",
+    "duration_minutes": 2729,
+    "duration_str": "1d 21h 29m"
   },
   {
     "title": "Comment c'est l'été à Kiev?",
-    "added_at": "2026-06-29T15:20:00.732Z"
+    "added_at": "2026-06-29T15:20:00.732Z",
+    "removed_at": "2026-07-01T10:56:17.760Z",
+    "duration_minutes": 2616,
+    "duration_str": "1d 19h 36m"
   },
   {
     "title": "Le fondateur de la société spatiale S3 Pascal Jaussi condamné à 5 ans et demi de prison",
@@ -97394,10 +97412,7 @@
   },
   {
     "title": "Des émissaires américains et iraniens au Qatar après une reprise des frappes",
-    "added_at": "2026-06-30T12:02:24.236Z",
-    "removed_at": "2026-07-01T05:18:22.363Z",
-    "duration_minutes": 1035,
-    "duration_str": "17h 15m"
+    "added_at": "2026-06-30T12:02:24.236Z"
   },
   {
     "title": "Les exportations d'acier suisse vers l'UE seront réduites dès juillet",
@@ -97570,10 +97585,7 @@
   },
   {
     "title": "Tennis: Stan Wawrinka affronte un ancien finaliste en ouverture de son dernier Wimbledon",
-    "added_at": "2026-07-01T05:20:49.546Z",
-    "removed_at": "2026-07-01T07:21:10.268Z",
-    "duration_minutes": 120,
-    "duration_str": "2h"
+    "added_at": "2026-07-01T05:20:49.546Z"
   },
   {
     "title": "Le Canton de Genève va rénover 300 bâtiments énergivores",
@@ -97628,5 +97640,21 @@
   {
     "title": "'Ma sœur est symphonique', une rocambolesque comédie signée Thomas Sandoz",
     "added_at": "2026-07-01T10:19:48.017Z"
+  },
+  {
+    "title": "Le Venezuela entre solidarité internationale et frustration populaire",
+    "added_at": "2026-07-01T10:36:59.622Z"
+  },
+  {
+    "title": "\"La reconnexion avec la réalité est encore plus dure\", témoigne le papa d'un ado décédé à Crans-Montana",
+    "added_at": "2026-07-01T10:56:17.760Z"
+  },
+  {
+    "title": "Le Rassemblement national visé par une nouvelle enquête, des perquisitions dans plusieurs pays",
+    "added_at": "2026-07-01T12:08:40.213Z"
+  },
+  {
+    "title": "La population valaisanne aura son mot à dire sur le projet de cantonalisation de l'aéroport de Sion",
+    "added_at": "2026-07-01T12:42:22.284Z"
   }
 ]
