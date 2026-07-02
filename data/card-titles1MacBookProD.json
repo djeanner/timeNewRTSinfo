@@ -96751,7 +96751,10 @@
   },
   {
     "title": "Des entreprises d'IA rachètent d'anciens livres, les numérisent puis les détruisent",
-    "added_at": "2026-06-29T11:22:59.873Z"
+    "added_at": "2026-06-29T11:22:59.873Z",
+    "removed_at": "2026-07-01T22:03:52.937Z",
+    "duration_minutes": 3520,
+    "duration_str": "2d 10h 40m"
   },
   {
     "title": "Au milieu de l'Atlantique, une intrigante 'bulle froide' pourrait accentuer les canicules",
@@ -97320,7 +97323,10 @@
   },
   {
     "title": "L'archive du jour - Dans les années 80, la pratique des seins nus sur les plages faisait polémique",
-    "added_at": "2026-06-29T16:22:24.875Z"
+    "added_at": "2026-06-29T16:22:24.875Z",
+    "removed_at": "2026-07-02T00:02:23.476Z",
+    "duration_minutes": 3339,
+    "duration_str": "2d 7h 39m"
   },
   {
     "title": "Les invités de la rédaction - Florence Grivel, Karine Vouillamoz, Yann Zitouni, Joël Marchetti et Simon Matthey-Doret",
@@ -97375,7 +97381,10 @@
   },
   {
     "title": "Un oligarque ukrainien et sa famille blessés dans une explosion à Monaco",
-    "added_at": "2026-06-30T05:13:18.772Z"
+    "added_at": "2026-06-30T05:13:18.772Z",
+    "removed_at": "2026-07-01T21:46:53.802Z",
+    "duration_minutes": 2433,
+    "duration_str": "1d 16h 33m"
   },
   {
     "title": "\"Pas de Suisse à 10 millions\": la pression publicitaire a conduit à une mobilisation plus forte Outre-Sarine",
@@ -97714,10 +97723,7 @@
   },
   {
     "title": "Défaite dramatique de l'Allemagne au Mondial de football 2026: interview de Polo Breitner",
-    "added_at": "2026-07-01T14:03:43.033Z",
-    "removed_at": "2026-07-01T19:23:31.452Z",
-    "duration_minutes": 319,
-    "duration_str": "5h 19m"
+    "added_at": "2026-07-01T14:03:43.033Z"
   },
   {
     "title": "Un oligarque ukrainien et deux personnes blessés dans l'explosion d'un \"colis piégé\" à Monaco",
@@ -97785,5 +97791,9 @@
   {
     "title": "Martin Pfister rencontre la ministre française de la Défense Catherine Vautrin",
     "added_at": "2026-07-01T20:00:11.424Z"
+  },
+  {
+    "title": "Une personne a été tuée en Grèce dans un attentat contre le parti conservateur au pouvoir",
+    "added_at": "2026-07-01T21:46:53.802Z"
   }
 ]
