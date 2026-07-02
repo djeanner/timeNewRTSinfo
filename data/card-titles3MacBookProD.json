@@ -195419,11 +195419,17 @@
   },
   {
     "title": "An American Mosaic",
-    "added_at": "2026-07-02T10:02:10.807Z"
+    "added_at": "2026-07-02T10:02:10.807Z",
+    "removed_at": "2026-07-02T20:29:49.047Z",
+    "duration_minutes": 627,
+    "duration_str": "10h 27m"
   },
   {
     "title": "How a Nation of Immigrants Traces Its Roots",
-    "added_at": "2026-07-02T10:02:10.807Z"
+    "added_at": "2026-07-02T10:02:10.807Z",
+    "removed_at": "2026-07-02T20:29:49.047Z",
+    "duration_minutes": 627,
+    "duration_str": "10h 27m"
   },
   {
     "title": "Brutal Heat Wave Broils Eastern U.S.",
@@ -195539,7 +195545,10 @@
   },
   {
     "title": "Facing New Pressure From Ukraine, Putin Signals His Intent to Dig In",
-    "added_at": "2026-07-02T12:41:23.892Z"
+    "added_at": "2026-07-02T12:41:23.892Z",
+    "removed_at": "2026-07-02T20:58:44.277Z",
+    "duration_minutes": 497,
+    "duration_str": "8h 17m"
   },
   {
     "title": "U.S. Hopes for Iran Investment Would Break With Decades of History",
@@ -195578,15 +195587,24 @@
   },
   {
     "title": "Iga Swiatek Advances on Day 4 of Wimbledon",
-    "added_at": "2026-07-02T13:56:22.132Z"
+    "added_at": "2026-07-02T13:56:22.132Z",
+    "removed_at": "2026-07-02T20:34:41.935Z",
+    "duration_minutes": 398,
+    "duration_str": "6h 38m"
   },
   {
     "title": "Iran Prepares to Bury Supreme Leader Over Four Months After Death",
-    "added_at": "2026-07-02T14:06:00.664Z"
+    "added_at": "2026-07-02T14:06:00.664Z",
+    "removed_at": "2026-07-02T19:02:55.458Z",
+    "duration_minutes": 296,
+    "duration_str": "4h 56m"
   },
   {
     "title": "U.S. Hopes for Investment in Iran Would Break With Decades of History",
-    "added_at": "2026-07-02T14:20:28.293Z"
+    "added_at": "2026-07-02T14:20:28.293Z",
+    "removed_at": "2026-07-02T19:02:55.458Z",
+    "duration_minutes": 282,
+    "duration_str": "4h 42m"
   },
   {
     "title": "Tesla Sales Surge on Recovery in Europe",
@@ -195683,7 +195701,10 @@
   },
   {
     "title": "Deadly Attack on Ukraine Reminds Europe of Its Own Vulnerabilities",
-    "added_at": "2026-07-02T16:54:55.033Z"
+    "added_at": "2026-07-02T16:54:55.033Z",
+    "removed_at": "2026-07-02T20:58:44.277Z",
+    "duration_minutes": 243,
+    "duration_str": "4h 3m"
   },
   {
     "title": "It’s America’s Big Birthday. Taylor and Trump Are Celebrating, in Their Own Way.",
@@ -195718,7 +195739,10 @@
   },
   {
     "title": "A Firm Run by Trump Allies is Organizing the 250th. Their Fee? Unclear.",
-    "added_at": "2026-07-02T18:43:21.679Z"
+    "added_at": "2026-07-02T18:43:21.679Z",
+    "removed_at": "2026-07-02T19:14:58.069Z",
+    "duration_minutes": 31,
+    "duration_str": "31m"
   },
   {
     "title": "New York Hits 100 Degrees as Heat Wave Stifles Eastern U.S.",
@@ -195726,6 +195750,63 @@
   },
   {
     "title": "Spain Takes On Austria for a Spot in the Round of 16",
-    "added_at": "2026-07-02T18:48:14.549Z"
+    "added_at": "2026-07-02T18:48:14.549Z",
+    "removed_at": "2026-07-02T20:20:14.047Z",
+    "duration_minutes": 91,
+    "duration_str": "1h 31m"
+  },
+  {
+    "title": "U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators",
+    "added_at": "2026-07-02T19:02:55.458Z"
+  },
+  {
+    "title": "A Firm Run by Trump Allies Is Organizing the 250th. Their Fee? Unclear.",
+    "added_at": "2026-07-02T19:14:58.069Z"
+  },
+  {
+    "title": "Olympian Is Indicted After Arrest at Washington’s Reflecting Pool",
+    "added_at": "2026-07-02T19:14:58.069Z"
+  },
+  {
+    "title": "Spain Takes Lead Over Austria in Round-of-32 Clash",
+    "added_at": "2026-07-02T20:20:14.047Z",
+    "removed_at": "2026-07-02T21:03:31.535Z",
+    "duration_minutes": 43,
+    "duration_str": "43m"
+  },
+  {
+    "title": "Teenagers Convicted of Rape in Britain Given Stricter Sentences After Outcry",
+    "added_at": "2026-07-02T20:29:49.047Z"
+  },
+  {
+    "title": "First Europe, Then North America: Welcome to Heat Dome Summer",
+    "added_at": "2026-07-02T20:29:49.047Z"
+  },
+  {
+    "title": "Less Than Ten Percent of Children Are Eligible for New Investment Accounts",
+    "added_at": "2026-07-02T20:29:49.047Z"
+  },
+  {
+    "title": "Iga Swiatek and Frances Tiafoe Advance on Day 4 of Wimbledon",
+    "added_at": "2026-07-02T20:34:41.935Z"
+  },
+  {
+    "title": "Man Rescued 8 Days After Quake, a Ray of Joy in Stricken Venezuela",
+    "added_at": "2026-07-02T20:44:17.962Z"
+  },
+  {
+    "title": "With Attacks on Crimea, Ukraine Hopes to Pressure Putin to End the War",
+    "added_at": "2026-07-02T20:58:44.277Z"
+  },
+  {
+    "title": "Spain Eliminates Austria to Reach the Round of 16",
+    "added_at": "2026-07-02T21:03:31.535Z",
+    "removed_at": "2026-07-02T21:08:24.773Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Spain Reaches Round of 16 With 3-0 Win Over Austria",
+    "added_at": "2026-07-02T21:08:24.773Z"
   }
 ]
