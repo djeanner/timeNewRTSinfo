@@ -97713,7 +97713,10 @@
   },
   {
     "title": "La salle de sport des Avoines à Romont complètement détruite par un incendie",
-    "added_at": "2026-07-01T02:51:28.598Z"
+    "added_at": "2026-07-01T02:51:28.598Z",
+    "removed_at": "2026-07-02T22:03:58.833Z",
+    "duration_minutes": 2592,
+    "duration_str": "1d 19h 12m"
   },
   {
     "title": "Le gouvernement Trump lève ses restrictions sur les modèles d'Anthropic",
@@ -97798,7 +97801,10 @@
   },
   {
     "title": "Pourquoi le modèle Volkswagen se fissure?",
-    "added_at": "2026-07-01T07:21:10.268Z"
+    "added_at": "2026-07-01T07:21:10.268Z",
+    "removed_at": "2026-07-03T00:05:01.769Z",
+    "duration_minutes": 2443,
+    "duration_str": "1d 16h 43m"
   },
   {
     "title": "Pourquoi ces petits oiseaux se jettent-ils de leur nid lors des fortes chaleurs?",
@@ -97873,7 +97879,10 @@
   },
   {
     "title": "Les riverains montent au créneau contre les nuisances sonores de l'aéroport de Genève",
-    "added_at": "2026-07-01T14:23:40.917Z"
+    "added_at": "2026-07-01T14:23:40.917Z",
+    "removed_at": "2026-07-02T21:42:17.407Z",
+    "duration_minutes": 1878,
+    "duration_str": "1d 7h 18m"
   },
   {
     "title": "Bad Bunny fait son entrée au musée Grévin de Paris",
@@ -98045,10 +98054,7 @@
   },
   {
     "title": "Ordination de quatre nouveaux évêques à Ecône: le témoignage d'un fidèle",
-    "added_at": "2026-07-02T12:05:15.914Z",
-    "removed_at": "2026-07-02T19:24:39.780Z",
-    "duration_minutes": 439,
-    "duration_str": "7h 19m"
+    "added_at": "2026-07-02T12:05:15.914Z"
   },
   {
     "title": "L'invité de La Matinale - Gaëtan de Lavilleon, cofondateur et président de Cog’X",
@@ -98180,5 +98186,9 @@
   {
     "title": "Deux gros incendies se déclarent au nord de Marseille",
     "added_at": "2026-07-02T21:37:20.258Z"
+  },
+  {
+    "title": "L'Espagne écarte l'Autriche et défiera le Portugal ou la Croatie en 8es de finale",
+    "added_at": "2026-07-02T21:42:17.407Z"
   }
 ]
