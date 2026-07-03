@@ -195399,7 +195399,10 @@
   },
   {
     "title": "Welcome to (Taylor’s) New York",
-    "added_at": "2026-07-02T10:02:10.807Z"
+    "added_at": "2026-07-02T10:02:10.807Z",
+    "removed_at": "2026-07-03T02:22:26.389Z",
+    "duration_minutes": 980,
+    "duration_str": "16h 20m"
   },
   {
     "title": "The Not-So-Simple Logistics Behind Taylor Swift’s N.Y.C. Bash",
@@ -195424,7 +195427,10 @@
   },
   {
     "title": "Plans for Unrealized ‘Trump Castle’ Surface 40 Years Later",
-    "added_at": "2026-07-02T10:02:10.807Z"
+    "added_at": "2026-07-02T10:02:10.807Z",
+    "removed_at": "2026-07-03T00:41:22.103Z",
+    "duration_minutes": 879,
+    "duration_str": "14h 39m"
   },
   {
     "title": "An American Mosaic",
@@ -195692,7 +195698,10 @@
   },
   {
     "title": "After the Earth Stopped Shaking",
-    "added_at": "2026-07-02T16:25:59.136Z"
+    "added_at": "2026-07-02T16:25:59.136Z",
+    "removed_at": "2026-07-03T01:39:03.379Z",
+    "duration_minutes": 553,
+    "duration_str": "9h 13m"
   },
   {
     "title": "Scorching Heat Wave Stifles Eastern U.S.",
@@ -195823,7 +195832,10 @@
   },
   {
     "title": "Less Than Ten Percent of Children Are Eligible for New Investment Accounts",
-    "added_at": "2026-07-02T20:29:49.047Z"
+    "added_at": "2026-07-02T20:29:49.047Z",
+    "removed_at": "2026-07-03T00:41:22.103Z",
+    "duration_minutes": 251,
+    "duration_str": "4h 11m"
   },
   {
     "title": "Iga Swiatek and Frances Tiafoe Advance on Day 4 of Wimbledon",
@@ -195860,7 +195872,10 @@
   },
   {
     "title": "Chris Froome, 4-Time Tour de France Champion, Retires From Professional Cycling",
-    "added_at": "2026-07-02T21:59:12.404Z"
+    "added_at": "2026-07-02T21:59:12.404Z",
+    "removed_at": "2026-07-03T00:48:34.530Z",
+    "duration_minutes": 169,
+    "duration_str": "2h 49m"
   },
   {
     "title": "Spain Breezes into Round of 16 With 3-0 Win Over Austria",
@@ -195871,7 +195886,10 @@
   },
   {
     "title": "Deadly Hantavirus Cruise Ship Outbreak Is Over 3 Months Later, W.H.O. Says",
-    "added_at": "2026-07-02T22:28:42.594Z"
+    "added_at": "2026-07-02T22:28:42.594Z",
+    "removed_at": "2026-07-03T00:43:43.319Z",
+    "duration_minutes": 135,
+    "duration_str": "2h 15m"
   },
   {
     "title": "Portugal Faces Croatia With a Round-of-16 Spot on the Line",
@@ -195910,7 +195928,10 @@
   },
   {
     "title": "Spain Breezes Into Round of 16 With 3-0 Win Over Austria",
-    "added_at": "2026-07-02T23:57:48.924Z"
+    "added_at": "2026-07-02T23:57:48.924Z",
+    "removed_at": "2026-07-03T02:39:19.024Z",
+    "duration_minutes": 161,
+    "duration_str": "2h 41m"
   },
   {
     "title": "MAGA Base Stays Quiet After Trump Reports Billions in Personal Gains",
@@ -195922,7 +195943,10 @@
   },
   {
     "title": "Croatia Leads Portugal in World Cup Elimination Game",
-    "added_at": "2026-07-03T00:19:29.303Z"
+    "added_at": "2026-07-03T00:19:29.303Z",
+    "removed_at": "2026-07-03T00:31:40.175Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
   },
   {
     "title": "As Ukraine War Escalates, Witkoff and Kushner Are Focused on Iran",
@@ -195931,5 +195955,57 @@
   {
     "title": "Trump’s Huge Windfall Has Few Known Global Precedents",
     "added_at": "2026-07-03T00:21:50.378Z"
+  },
+  {
+    "title": "Cristiano Ronaldo Scores Penalty to Bring Portugal Level With Croatia",
+    "added_at": "2026-07-03T00:31:40.175Z",
+    "removed_at": "2026-07-03T01:03:01.673Z",
+    "duration_minutes": 31,
+    "duration_str": "31m"
+  },
+  {
+    "title": "Many Children Don’t Have ‘Trump Accounts.’ Some Are Missing Out on $1,000.",
+    "added_at": "2026-07-03T00:41:22.103Z"
+  },
+  {
+    "title": "U.K. Lawmakers Demand Deportation of ‘Grooming Gang’ Leader",
+    "added_at": "2026-07-03T00:43:43.319Z"
+  },
+  {
+    "title": "Jaguar’s Electric Future: Curves Are Out, and Blunt Is In",
+    "added_at": "2026-07-03T00:48:34.530Z"
+  },
+  {
+    "title": "Portugal Leads Croatia Late in World Cup Elimination Game",
+    "added_at": "2026-07-03T01:03:01.673Z",
+    "removed_at": "2026-07-03T01:12:37.102Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Portugal Eliminates Croatia With Late Rally in Round of 32",
+    "added_at": "2026-07-03T01:12:37.102Z",
+    "removed_at": "2026-07-03T01:19:50.443Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Portugal Eliminates Croatia in Dramatic Knockout Game",
+    "added_at": "2026-07-03T01:19:50.443Z",
+    "removed_at": "2026-07-03T02:22:26.389Z",
+    "duration_minutes": 62,
+    "duration_str": "1h 2m"
+  },
+  {
+    "title": "Portugal Survives Croatia in Dramatic Knockout Game",
+    "added_at": "2026-07-03T02:22:26.389Z"
+  },
+  {
+    "title": "Black S.U.V.s, Barricades, Celebrities: You Know, the Usual Rehearsal Dinner",
+    "added_at": "2026-07-03T02:22:26.389Z"
+  },
+  {
+    "title": "Switzerland and Algeria Face Off in a Round-of-32 Showdown",
+    "added_at": "2026-07-03T02:39:19.024Z"
   }
 ]

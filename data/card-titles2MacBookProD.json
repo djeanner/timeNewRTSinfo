@@ -93646,7 +93646,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le régime iranien appelle à une participation massive aux obsèques d'Ali Khamenei pour le «venger»",
-    "added_at": "2026-07-02T15:08:39.434Z"
+    "added_at": "2026-07-02T15:08:39.434Z",
+    "removed_at": "2026-07-03T00:31:39.996Z",
+    "duration_minutes": 563,
+    "duration_str": "9h 23m"
   },
   {
     "title": "suisse:::Dans le Jura comme ailleurs, les efforts se multiplient pour lutter contre la sécheresse",
@@ -93685,7 +93688,10 @@
   },
   {
     "title": "sport:::En direct, Coupe du monde 2026 – La route s'élève pour la Suisse, suivez avec nous le seizième de finale matinal contre l'Algérie",
-    "added_at": "2026-07-02T18:24:04.152Z"
+    "added_at": "2026-07-02T18:24:04.152Z",
+    "removed_at": "2026-07-03T02:24:52.239Z",
+    "duration_minutes": 480,
+    "duration_str": "8h"
   },
   {
     "title": "sport:::Coupe du monde 2026 – La RDC manque de peu l'exploit face à l'Angleterre, les Belges sauvés sur le gong",
@@ -93693,10 +93699,35 @@
   },
   {
     "title": "culture:::Céline Bédat, cette activiste de la culture jurassienne qui ce week-end transformera Porrentruy en théâtre à ciel ouvert",
-    "added_at": "2026-07-02T19:14:57.889Z"
+    "added_at": "2026-07-02T19:14:57.889Z",
+    "removed_at": "2026-07-03T02:51:19.319Z",
+    "duration_minutes": 456,
+    "duration_str": "7h 36m"
   },
   {
     "title": "culture:::«C’est à cause de vous que je suis devenu fou!»: à Genève, François Nadin donne un cours d’anti-psychiatrie en ressuscitant un face-à-face historique entre un psychanalyste et son patient",
     "added_at": "2026-07-02T21:17:59.579Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Notre suivi du 2 juillet 2026",
+    "added_at": "2026-07-03T00:31:39.996Z",
+    "removed_at": "2026-07-03T00:36:28.981Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le régime iranien s'attend à une participation massive aux obsèques d'Ali Khamenei",
+    "added_at": "2026-07-03T00:36:28.981Z"
+  },
+  {
+    "title": "sport:::En direct, Coupe du monde 2026 – Debout tout le monde! Suivez avec nous le seizième de finale matinal contre l'Algérie",
+    "added_at": "2026-07-03T02:24:52.239Z",
+    "removed_at": "2026-07-03T02:56:08.210Z",
+    "duration_minutes": 31,
+    "duration_str": "31m"
+  },
+  {
+    "title": "sport:::En direct, Coupe du monde 2026 – Debout tout le monde! Suivez avec nous le seizième de finale matinal de la Suisse contre l'Algérie",
+    "added_at": "2026-07-03T02:56:08.210Z"
   }
 ]
