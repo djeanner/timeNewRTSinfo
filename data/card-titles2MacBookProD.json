@@ -8226,7 +8226,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z"
+    "added_at": "2025-05-22T18:01:52.008Z",
+    "removed_at": "2026-07-03T06:21:19.096Z",
+    "duration_minutes": 585379,
+    "duration_str": "406d 12h 19m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -93497,10 +93500,7 @@
   },
   {
     "title": "monde:::EXCLUSIF. «Je suis allée à l’étrange journée portes ouvertes de l’«école libre» du milliardaire ultraconservateur français Pierre-Edouard Stérin»",
-    "added_at": "2026-07-02T04:14:18.055Z",
-    "removed_at": "2026-07-02T18:24:04.152Z",
-    "duration_minutes": 849,
-    "duration_str": "14h 9m"
+    "added_at": "2026-07-02T04:14:18.055Z"
   },
   {
     "title": "suisse:::«Le plus difficile à vivre, c’est cette haine dans le regard de certains manifestants»: le témoignage d’un policier genevois mobilisé durant le G7",
@@ -93613,7 +93613,10 @@
   },
   {
     "title": "suisse:::AVS sous forte pression et AI au bord du gouffre: les nouvelles projections financières inquiètent",
-    "added_at": "2026-07-02T13:24:47.775Z"
+    "added_at": "2026-07-02T13:24:47.775Z",
+    "removed_at": "2026-07-03T05:59:37.920Z",
+    "duration_minutes": 994,
+    "duration_str": "16h 34m"
   },
   {
     "title": "suisse:::Le Vatican sanctionne le «schisme» de la Fraternité Saint-Pie X et excommunie les évêques sacrés à Ecône",
@@ -93674,7 +93677,10 @@
   },
   {
     "title": "economie:::L’explosion du prix des œufs aux Etats-Unis, devenue un symbole de l’inflation, n’était pas uniquement due à l’épidémie de grippe aviaire",
-    "added_at": "2026-07-02T17:19:00.198Z"
+    "added_at": "2026-07-02T17:19:00.198Z",
+    "removed_at": "2026-07-03T07:31:10.083Z",
+    "duration_minutes": 852,
+    "duration_str": "14h 12m"
   },
   {
     "title": "cyber:::Il n’y a pas que l’Asie ou les Etats-Unis: une fonderie pour les puces destinées à l’intelligence artificielle verra le jour à Neuchâtel",
@@ -93712,9 +93718,9 @@
   {
     "title": "culture:::Céline Bédat, cette activiste de la culture jurassienne qui ce week-end transformera Porrentruy en théâtre à ciel ouvert",
     "added_at": "2026-07-02T19:14:57.889Z",
-    "removed_at": "2026-07-03T02:51:19.319Z",
-    "duration_minutes": 456,
-    "duration_str": "7h 36m"
+    "removed_at": "2026-07-03T06:50:11.500Z",
+    "duration_minutes": 695,
+    "duration_str": "11h 35m"
   },
   {
     "title": "culture:::«C’est à cause de vous que je suis devenu fou!»: à Genève, François Nadin donne un cours d’anti-psychiatrie en ressuscitant un face-à-face historique entre un psychanalyste et son patient",
@@ -93775,11 +93781,17 @@
   },
   {
     "title": "monde:::La moitié est des Etats-Unis sous une chaleur «atroce»",
-    "added_at": "2026-07-03T04:23:10.158Z"
+    "added_at": "2026-07-03T04:23:10.158Z",
+    "removed_at": "2026-07-03T08:12:25.211Z",
+    "duration_minutes": 229,
+    "duration_str": "3h 49m"
   },
   {
     "title": "monde:::250e anniversaire des Etats-Unis: la fête des nationalistes chrétiens",
-    "added_at": "2026-07-03T04:37:36.996Z"
+    "added_at": "2026-07-03T04:37:36.996Z",
+    "removed_at": "2026-07-03T06:16:30.538Z",
+    "duration_minutes": 98,
+    "duration_str": "1h 38m"
   },
   {
     "title": "economie:::La puissance économique américaine en cinq lieux emblématiques",
@@ -93803,5 +93815,32 @@
   {
     "title": "sport:::L’équipe de Suisse passe brillamment l’obstacle algérien et se qualifie pour les huitièmes de finale",
     "added_at": "2026-07-03T05:16:06.103Z"
+  },
+  {
+    "title": "monde:::Le discours à la fois ambigu et rassurant de Jordan Bardella sur l’UE",
+    "added_at": "2026-07-03T06:11:43.493Z"
+  },
+  {
+    "title": "economie:::Pour les banques centrales, la communication proactive, c’est démodé",
+    "added_at": "2026-07-03T06:14:05.108Z"
+  },
+  {
+    "title": "monde:::«Ils se sentent investis d’une mission, ramener l’Amérique à Dieu»: le 250e anniversaire des Etats-Unis transformé en fête des nationalistes chrétiens",
+    "added_at": "2026-07-03T06:16:30.538Z"
+  },
+  {
+    "title": "sport:::Julien Bernard: «Paul Seixas, c’est juste un jeune qui a un talent terrible sur le vélo»",
+    "added_at": "2026-07-03T06:50:11.500Z",
+    "removed_at": "2026-07-03T07:14:20.256Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "sport:::«J'ai rencontré un enfant»: le coureur Julien Bernard raconte le prodige Paul Seixas avant son premier Tour de France",
+    "added_at": "2026-07-03T07:14:20.256Z"
+  },
+  {
+    "title": "sport:::Tour de France: le forfait d’Elise Chabbey ne résulte pas d’une blessure mais d’un heureux événement à venir",
+    "added_at": "2026-07-03T08:12:25.211Z"
   }
 ]
