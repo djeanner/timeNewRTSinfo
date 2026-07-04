@@ -3744,7 +3744,10 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T19:02:44.375Z"
+    "added_at": "2025-07-25T19:02:44.375Z",
+    "removed_at": "2026-07-04T20:23:39.740Z",
+    "duration_minutes": 495440,
+    "duration_str": "344d 1h 20m"
   },
   {
     "title": "En Israël, la population sensible au sort des Gazaouis refuse d'en rendre son armée responsable",
@@ -96780,9 +96783,9 @@
   {
     "title": "Canicule: l'invité du dimanche est le philosophe Dominique Bourg",
     "added_at": "2026-06-29T11:22:59.873Z",
-    "removed_at": "2026-07-04T17:00:58.997Z",
-    "duration_minutes": 7537,
-    "duration_str": "5d 5h 37m"
+    "removed_at": "2026-07-04T20:23:39.740Z",
+    "duration_minutes": 7740,
+    "duration_str": "5d 9h"
   },
   {
     "title": "Nouveau record de chaleur battu en juin à Bâle, avec 39°C",
@@ -98317,7 +98320,10 @@
   },
   {
     "title": "L'armée suisse rappelle les prêtres et les pasteurs sous les drapeaux",
-    "added_at": "2026-07-02T17:14:13.328Z"
+    "added_at": "2026-07-02T17:14:13.328Z",
+    "removed_at": "2026-07-04T19:32:58.997Z",
+    "duration_minutes": 3018,
+    "duration_str": "2d 2h 18m"
   },
   {
     "title": "Le canton de Zoug prévoit de rendre de l'argent aux contribuables",
@@ -98385,7 +98391,10 @@
   },
   {
     "title": "Patrick Bruel visé par trois nouvelles plaintes",
-    "added_at": "2026-07-02T19:48:49.778Z"
+    "added_at": "2026-07-02T19:48:49.778Z",
+    "removed_at": "2026-07-04T20:21:12.344Z",
+    "duration_minutes": 2912,
+    "duration_str": "2d 32m"
   },
   {
     "title": "Deux gros incendies se déclarent au nord de Marseille",
@@ -98781,5 +98790,21 @@
   {
     "title": "Au Portugal, plus de 1100 pompiers luttent contre un feu de forêt qui a ravagé 10'000 hectares",
     "added_at": "2026-07-04T19:20:42.130Z"
+  },
+  {
+    "title": "Des milliers de personnes manifestent en France contre les violences sexuelles",
+    "added_at": "2026-07-04T19:32:58.997Z"
+  },
+  {
+    "title": "Depuis la pandémie, les Jurassiens sortent moins et moins longtemps",
+    "added_at": "2026-07-04T20:21:12.344Z"
+  },
+  {
+    "title": "Aux Etats-Unis, la fête nationale n’échappe pas à la polarisation politique",
+    "added_at": "2026-07-04T20:23:39.740Z"
+  },
+  {
+    "title": "Fête nationale aux Etats-Unis: les explications de Tristan Dessert",
+    "added_at": "2026-07-04T20:23:39.740Z"
   }
 ]
