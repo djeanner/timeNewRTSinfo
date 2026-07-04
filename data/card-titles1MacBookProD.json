@@ -98059,7 +98059,10 @@
   },
   {
     "title": "Le Venezuela ne sera plus jamais comme avant",
-    "added_at": "2026-07-02T06:03:21.183Z"
+    "added_at": "2026-07-02T06:03:21.183Z",
+    "removed_at": "2026-07-03T22:03:17.175Z",
+    "duration_minutes": 2399,
+    "duration_str": "1d 15h 59m"
   },
   {
     "title": "Une nouvelle attaque massive de drones russes sur Kiev fait au moins treize morts",
@@ -98403,10 +98406,7 @@
   },
   {
     "title": "Le phénomène de la bulle froide et du dôme de chaleur, responsable de la canicule: interview de Samuel Jaccard",
-    "added_at": "2026-07-03T10:03:36.803Z",
-    "removed_at": "2026-07-03T21:24:33.582Z",
-    "duration_minutes": 680,
-    "duration_str": "11h 20m"
+    "added_at": "2026-07-03T10:03:36.803Z"
   },
   {
     "title": "27 vols en 17 jours pour assister à 24 matches: Gianni Infantino épinglé pour son lourd bilan carbone",
@@ -98525,5 +98525,9 @@
   {
     "title": "L'Egypte fait tomber l'Australie aux tirs au but et rallie les 8es de finale du Mondial",
     "added_at": "2026-07-03T21:14:53.352Z"
+  },
+  {
+    "title": "Coupe du Monde: retour en image sur la victoire de la Suisse face à l’Algérie",
+    "added_at": "2026-07-03T22:24:57.283Z"
   }
 ]
