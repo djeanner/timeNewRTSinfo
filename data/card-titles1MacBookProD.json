@@ -3744,7 +3744,10 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T19:02:44.375Z"
+    "added_at": "2025-07-25T19:02:44.375Z",
+    "removed_at": "2026-07-05T13:23:02.097Z",
+    "duration_minutes": 496460,
+    "duration_str": "344d 18h 20m"
   },
   {
     "title": "En Israël, la population sensible au sort des Gazaouis refuse d'en rendre son armée responsable",
@@ -96705,7 +96708,10 @@
   },
   {
     "title": "Faut-il avoir peur des serpents? Le danger réel des morsures en Suisse",
-    "added_at": "2026-06-29T11:22:59.873Z"
+    "added_at": "2026-06-29T11:22:59.873Z",
+    "removed_at": "2026-07-05T13:37:27.833Z",
+    "duration_minutes": 8774,
+    "duration_str": "6d 2h 14m"
   },
   {
     "title": "La Maison de la Radio à la Sallaz ferme définitivement ses micros après 91 ans",
@@ -98471,7 +98477,10 @@
   },
   {
     "title": "Debout avant l'aube, les supporters de la Nati savourent l’exploit face à l'Algérie",
-    "added_at": "2026-07-03T05:47:36.234Z"
+    "added_at": "2026-07-03T05:47:36.234Z",
+    "removed_at": "2026-07-05T13:06:13.268Z",
+    "duration_minutes": 3318,
+    "duration_str": "2d 7h 18m"
   },
   {
     "title": "Premier crime antisémite sanglant à motivation islamiste jugé en Suisse",
@@ -98489,7 +98498,10 @@
   },
   {
     "title": "Treize artistes à découvrir au coeur de la programmation gratuite du 60e Montreux Jazz Festival",
-    "added_at": "2026-07-03T07:38:21.626Z"
+    "added_at": "2026-07-03T07:38:21.626Z",
+    "removed_at": "2026-07-05T12:08:22.974Z",
+    "duration_minutes": 3150,
+    "duration_str": "2d 4h 30m"
   },
   {
     "title": "Dan Ndoye: \"Bons croissants, bons pains au chocolat à vous les fans en Suisse, on espère vous faire rêver encore plus!\"",
@@ -98522,7 +98534,10 @@
   },
   {
     "title": "L'Ukraine annonce reprendre des territoires sur un ton peu optimiste",
-    "added_at": "2026-07-03T09:46:41.538Z"
+    "added_at": "2026-07-03T09:46:41.538Z",
+    "removed_at": "2026-07-05T12:58:58.361Z",
+    "duration_minutes": 3072,
+    "duration_str": "2d 3h 12m"
   },
   {
     "title": "Le phénomène de la bulle froide et du dôme de chaleur, responsable de la canicule: interview de Samuel Jaccard",
@@ -98892,10 +98907,40 @@
   },
   {
     "title": "Un incendie fait rage dans les Pyrénées-Orientales en France, déjà 1000 hectares brûlés",
-    "added_at": "2026-07-05T09:58:11.494Z"
+    "added_at": "2026-07-05T09:58:11.494Z",
+    "removed_at": "2026-07-05T13:18:13.693Z",
+    "duration_minutes": 200,
+    "duration_str": "3h 20m"
   },
   {
     "title": "Ces interdictions étonnantes auxquelles vous devez faire attention en vacances cet été",
     "added_at": "2026-07-05T10:27:05.176Z"
+  },
+  {
+    "title": "'Archie' explore les coulisses de la carrière et de la vie privée de l'acteur Cary Grant",
+    "added_at": "2026-07-05T12:08:22.974Z"
+  },
+  {
+    "title": "Du deuil à la reconstruction, une agricultrice reprend la ferme familiale après le suicide de son mari",
+    "added_at": "2026-07-05T12:58:58.361Z"
+  },
+  {
+    "title": "Genève inaugure sa première Migros autonome les dimanches",
+    "added_at": "2026-07-05T13:06:13.268Z"
+  },
+  {
+    "title": "Un incendie fait rage dans les Pyrénées-Orientales en France, déjà 1500 hectares brûlés",
+    "added_at": "2026-07-05T13:18:13.693Z",
+    "removed_at": "2026-07-05T14:06:24.210Z",
+    "duration_minutes": 48,
+    "duration_str": "48m"
+  },
+  {
+    "title": "Etats-Unis: la fête nationale a été bouleversée par la météo",
+    "added_at": "2026-07-05T13:23:02.097Z"
+  },
+  {
+    "title": "Un incendie fait rage dans les Pyrénées-Orientales en France, l'étape du Tour de France en question",
+    "added_at": "2026-07-05T14:06:24.210Z"
   }
 ]
