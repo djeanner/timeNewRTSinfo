@@ -94081,7 +94081,10 @@
   },
   {
     "title": "cyber:::Comment Anthropic, géant de l’IA, vient développer un marketing subtil à Genève et dans le monde entier",
-    "added_at": "2026-07-03T19:50:16.188Z"
+    "added_at": "2026-07-03T19:50:16.188Z",
+    "removed_at": "2026-07-05T19:10:23.457Z",
+    "duration_minutes": 2840,
+    "duration_str": "1d 23h 20m"
   },
   {
     "title": "sport:::En direct, Coupe du monde 2026 – Le Cap-Vert, héroïque mais battu, a fait trembler l'Argentine. La chaleur s’abat sur les stades",
@@ -94198,7 +94201,10 @@
   },
   {
     "title": "monde:::Albert Gallatin, le Genevois qui sauva l’Amérique de la faillite: «S’il ressuscitait, il rentrerait par le premier bateau!»",
-    "added_at": "2026-07-04T17:42:00.110Z"
+    "added_at": "2026-07-04T17:42:00.110Z",
+    "removed_at": "2026-07-05T17:12:24.464Z",
+    "duration_minutes": 1410,
+    "duration_str": "23h 30m"
   },
   {
     "title": "monde:::Des milliers d’Iraniens affluent à Téhéran pour les funérailles d'Ali Khamenei",
@@ -94216,7 +94222,10 @@
   },
   {
     "title": "sport:::A Barcelone, le Tour de France s'élance sur un «crotte-la-montre»",
-    "added_at": "2026-07-04T19:54:41.700Z"
+    "added_at": "2026-07-04T19:54:41.700Z",
+    "removed_at": "2026-07-05T17:17:11.096Z",
+    "duration_minutes": 1282,
+    "duration_str": "21h 22m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les funérailles du Guide suprême iranien Ali Khamenei ont commencé à Téhéran, en présence de représentants du Hamas et du Hezbollah",
@@ -94236,9 +94245,9 @@
   {
     "title": "culture:::La sélection du «Temps»: 30 livres pour l’été",
     "added_at": "2026-07-05T08:24:01.987Z",
-    "removed_at": "2026-07-05T15:52:40.491Z",
-    "duration_minutes": 448,
-    "duration_str": "7h 28m"
+    "removed_at": "2026-07-05T19:12:44.801Z",
+    "duration_minutes": 648,
+    "duration_str": "10h 48m"
   },
   {
     "title": "monde:::Pourquoi la gauche française continue de croire en Dominique de Villepin malgré ses «casseroles»",
@@ -94254,7 +94263,10 @@
   },
   {
     "title": "sport:::Fabrice N’Sakala: «Kylian Mbappé a envoyé un message fort en ne cédant pas aux provocations du Paraguay»",
-    "added_at": "2026-07-05T13:44:41.759Z"
+    "added_at": "2026-07-05T13:44:41.759Z",
+    "removed_at": "2026-07-05T18:12:34.441Z",
+    "duration_minutes": 267,
+    "duration_str": "4h 27m"
   },
   {
     "title": "culture:::Au Festival d'Aix-en-Provence, «La Femme sans ombre» de Richard Strauss passe sur le divan du metteur en scène Barrie Kosky",
@@ -94271,5 +94283,42 @@
   {
     "title": "cyber:::Giotto.ai s’ouvre au grand public, offrant une nouvelle solution suisse dans l’intelligence artificielle",
     "added_at": "2026-07-05T15:52:40.491Z"
+  },
+  {
+    "title": "economie:::Déjà 20 ans que Jamie Dimon dirige JP Morgan… Et sa succession est un casse-tête",
+    "added_at": "2026-07-05T17:12:24.464Z"
+  },
+  {
+    "title": "monde:::Avant l’été, Édouard Philippe entre en campagne et tente de s’imposer comme le candidat de la droite et du centre pour 2027",
+    "added_at": "2026-07-05T17:17:11.096Z",
+    "removed_at": "2026-07-05T17:43:40.583Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "monde:::Avant la pause estivale, Édouard Philippe entre en campagne et vise l'Élysée en rassemblant la droite et le centre",
+    "added_at": "2026-07-05T17:43:40.583Z",
+    "removed_at": "2026-07-05T18:34:14.659Z",
+    "duration_minutes": 50,
+    "duration_str": "50m"
+  },
+  {
+    "title": "sport:::Au Tour de France, les cyclistes brûlent aussi",
+    "added_at": "2026-07-05T18:12:34.441Z"
+  },
+  {
+    "title": "monde:::Avant la pause estivale, Edouard Philippe entre en campagne et vise l’Elysée en rassemblant la droite et le centre",
+    "added_at": "2026-07-05T18:34:14.659Z",
+    "removed_at": "2026-07-05T19:10:23.457Z",
+    "duration_minutes": 36,
+    "duration_str": "36m"
+  },
+  {
+    "title": "monde:::A Ankara, un sommet de l'OTAN centré autour de Donald Trump",
+    "added_at": "2026-07-05T19:10:23.457Z"
+  },
+  {
+    "title": "monde:::A Ankara, Erdogan veut consacrer le retour en grâce de la Turquie dans l’OTAN",
+    "added_at": "2026-07-05T19:10:23.457Z"
   }
 ]
