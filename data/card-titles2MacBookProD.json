@@ -81355,7 +81355,10 @@
   },
   {
     "title": "culture:::Le grand guide des festivals de l’été 2026",
-    "added_at": "2026-05-24T14:35:25.210Z"
+    "added_at": "2026-05-24T14:35:25.210Z",
+    "removed_at": "2026-07-05T15:52:40.491Z",
+    "duration_minutes": 60557,
+    "duration_str": "42d 1h 17m"
   },
   {
     "title": "monde:::Moyen-Orient – Notre suivi de la semaine du 18 mai",
@@ -93973,7 +93976,10 @@
   },
   {
     "title": "economie:::Les lois restrictives en Suisse poussent la population vers des solutions de climatisation inefficaces et polluantes",
-    "added_at": "2026-07-03T14:51:13.026Z"
+    "added_at": "2026-07-03T14:51:13.026Z",
+    "removed_at": "2026-07-05T15:52:40.491Z",
+    "duration_minutes": 2941,
+    "duration_str": "2d 1h 1m"
   },
   {
     "title": "suisse:::Une centaine de chiens retrouvés à l’abandon à Ramiswil: le canton de Soleure a sous-estimé les risques",
@@ -94075,10 +94081,7 @@
   },
   {
     "title": "cyber:::Comment Anthropic, géant de l’IA, vient développer un marketing subtil à Genève et dans le monde entier",
-    "added_at": "2026-07-03T19:50:16.188Z",
-    "removed_at": "2026-07-04T12:47:38.245Z",
-    "duration_minutes": 1017,
-    "duration_str": "16h 57m"
+    "added_at": "2026-07-03T19:50:16.188Z"
   },
   {
     "title": "sport:::En direct, Coupe du monde 2026 – Le Cap-Vert, héroïque mais battu, a fait trembler l'Argentine. La chaleur s’abat sur les stades",
@@ -94124,7 +94127,10 @@
   },
   {
     "title": "culture:::Tiago Rodrigues, directeur du Festival d’Avignon: «Au vu des épisodes de canicule et du dérèglement climatique, un festival en mai ou en septembre ne serait pas absurde»",
-    "added_at": "2026-07-04T08:51:34.090Z"
+    "added_at": "2026-07-04T08:51:34.090Z",
+    "removed_at": "2026-07-05T15:52:40.491Z",
+    "duration_minutes": 1861,
+    "duration_str": "1d 7h 1m"
   },
   {
     "title": "culture:::De Tinguely à Kévin Germanier, en passant par Warhol et Haring, comment le Montreux Jazz Festival a créé un patrimoine artistique unique grâce à ses affiches",
@@ -94229,7 +94235,10 @@
   },
   {
     "title": "culture:::La sélection du «Temps»: 30 livres pour l’été",
-    "added_at": "2026-07-05T08:24:01.987Z"
+    "added_at": "2026-07-05T08:24:01.987Z",
+    "removed_at": "2026-07-05T15:52:40.491Z",
+    "duration_minutes": 448,
+    "duration_str": "7h 28m"
   },
   {
     "title": "monde:::Pourquoi la gauche française continue de croire en Dominique de Villepin malgré ses «casseroles»",
@@ -94250,5 +94259,17 @@
   {
     "title": "culture:::Au Festival d'Aix-en-Provence, «La Femme sans ombre» de Richard Strauss passe sur le divan du metteur en scène Barrie Kosky",
     "added_at": "2026-07-05T13:49:30.705Z"
+  },
+  {
+    "title": "monde:::La canicule historique à peine terminée, le mercure s’envole à nouveau",
+    "added_at": "2026-07-05T15:33:26.246Z"
+  },
+  {
+    "title": "economie:::Affaire Hermès-LVMH: des attestations bancaires incomplètes au cœur du «casse du siècle»",
+    "added_at": "2026-07-05T15:38:11.935Z"
+  },
+  {
+    "title": "cyber:::Giotto.ai s’ouvre au grand public, offrant une nouvelle solution suisse dans l’intelligence artificielle",
+    "added_at": "2026-07-05T15:52:40.491Z"
   }
 ]
