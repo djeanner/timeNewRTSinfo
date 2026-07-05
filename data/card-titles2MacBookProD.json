@@ -81355,10 +81355,7 @@
   },
   {
     "title": "culture:::Le grand guide des festivals de l’été 2026",
-    "added_at": "2026-05-24T14:35:25.210Z",
-    "removed_at": "2026-05-24T17:11:05.801Z",
-    "duration_minutes": 155,
-    "duration_str": "2h 35m"
+    "added_at": "2026-05-24T14:35:25.210Z"
   },
   {
     "title": "monde:::Moyen-Orient – Notre suivi de la semaine du 18 mai",
@@ -93908,7 +93905,10 @@
   },
   {
     "title": "suisse:::Le Tessin passe à l’acte et gèle l’argent à destination des communes frontalières. L’Italie proteste",
-    "added_at": "2026-07-03T09:41:54.595Z"
+    "added_at": "2026-07-03T09:41:54.595Z",
+    "removed_at": "2026-07-05T08:40:49.940Z",
+    "duration_minutes": 2818,
+    "duration_str": "1d 22h 58m"
   },
   {
     "title": "sport:::Vincent Cavin: «L’Algérie avait les mêmes intentions que la Suisse, et dans ce cas-là, la meilleure équipe l’emporte»",
@@ -93952,9 +93952,9 @@
   {
     "title": "monde:::Les Etats-Unis et la Suisse, deux démocraties qui se sont inspirées sans jamais se ressembler vraiment",
     "added_at": "2026-07-03T12:54:58.579Z",
-    "removed_at": "2026-07-04T17:39:33.232Z",
-    "duration_minutes": 1724,
-    "duration_str": "1d 4h 44m"
+    "removed_at": "2026-07-05T08:24:01.987Z",
+    "duration_minutes": 2609,
+    "duration_str": "1d 19h 29m"
   },
   {
     "title": "sport:::Walter Samuel, du banc du FC Lugano à celui des champions du monde argentins",
@@ -93966,7 +93966,10 @@
   },
   {
     "title": "culture:::Anoush Abrar, portraitiste du Montreux Jazz Festival: «Grace Jones m’a attrapé les fesses en riant»",
-    "added_at": "2026-07-03T14:41:33.664Z"
+    "added_at": "2026-07-03T14:41:33.664Z",
+    "removed_at": "2026-07-05T06:33:21.120Z",
+    "duration_minutes": 2391,
+    "duration_str": "1d 15h 51m"
   },
   {
     "title": "economie:::Les lois restrictives en Suisse poussent la population vers des solutions de climatisation inefficaces et polluantes",
@@ -94097,7 +94100,10 @@
   },
   {
     "title": "monde:::250 ans des Etats-Unis: à Boston, la révolution inachevée se poursuit",
-    "added_at": "2026-07-04T06:38:58.981Z"
+    "added_at": "2026-07-04T06:38:58.981Z",
+    "removed_at": "2026-07-05T08:24:01.987Z",
+    "duration_minutes": 1545,
+    "duration_str": "1d 1h 45m"
   },
   {
     "title": "culture:::Raye au Montreux Jazz Festival: «J’ai voulu raconter les moments qui ont marqué cette scène, mais aussi ceux qui restent encore à écrire»",
@@ -94169,7 +94175,10 @@
   },
   {
     "title": "monde:::«Pour Lyhanna, on n'oublie pas!»: la journée de samedi marquée par de nombreuses manifestations en France",
-    "added_at": "2026-07-04T17:32:19.088Z"
+    "added_at": "2026-07-04T17:32:19.088Z",
+    "removed_at": "2026-07-05T08:33:36.701Z",
+    "duration_minutes": 901,
+    "duration_str": "15h 1m"
   },
   {
     "title": "culture:::Raye au Montreux Jazz, quand la musique prend le temps",
@@ -94181,11 +94190,17 @@
   },
   {
     "title": "monde:::Des milliers d’Iraniens affluent à Téhéran pour les funérailles d'Ali Khamenei",
-    "added_at": "2026-07-04T19:11:06.763Z"
+    "added_at": "2026-07-04T19:11:06.763Z",
+    "removed_at": "2026-07-05T08:33:36.701Z",
+    "duration_minutes": 802,
+    "duration_str": "13h 22m"
   },
   {
     "title": "sport:::En direct, Coupe du monde 2026 – Le Maroc premier qualifié pour les quarts de finale en surclassant le Canada",
-    "added_at": "2026-07-04T19:18:20.566Z"
+    "added_at": "2026-07-04T19:18:20.566Z",
+    "removed_at": "2026-07-05T06:18:54.948Z",
+    "duration_minutes": 660,
+    "duration_str": "11h"
   },
   {
     "title": "sport:::A Barcelone, le Tour de France s'élance sur un «crotte-la-montre»",
@@ -94194,5 +94209,17 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Les funérailles du Guide suprême iranien Ali Khamenei ont commencé à Téhéran, en présence de représentants du Hamas et du Hezbollah",
     "added_at": "2026-07-04T20:21:12.413Z"
+  },
+  {
+    "title": "sport:::En direct, Coupe du monde 2026 – La France se sort du piège paraguayen et retrouvera le Maroc en quart de finale",
+    "added_at": "2026-07-05T06:18:54.948Z"
+  },
+  {
+    "title": "monde:::Aux Etats-Unis, Donald Trump célèbre le 4 juillet en mettant en garde contre le communisme",
+    "added_at": "2026-07-05T06:33:21.120Z"
+  },
+  {
+    "title": "culture:::La sélection du «Temps»: 30 livres pour l’été",
+    "added_at": "2026-07-05T08:24:01.987Z"
   }
 ]
