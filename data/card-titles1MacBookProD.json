@@ -89895,10 +89895,7 @@
   },
   {
     "title": "Couleurs d'été - 2026",
-    "added_at": "2026-06-08T19:23:21.165Z",
-    "removed_at": "2026-06-29T11:22:59.873Z",
-    "duration_minutes": 29759,
-    "duration_str": "20d 15h 59m"
+    "added_at": "2026-06-08T19:23:21.165Z"
   },
   {
     "title": "La France prévoit un dispositif de sécurité XXL pour protéger le sommet du G7 à Evian",
@@ -98598,7 +98595,10 @@
   },
   {
     "title": "L'Ukraine reprend des territoires mais reste prudente",
-    "added_at": "2026-07-03T12:21:13.669Z"
+    "added_at": "2026-07-03T12:21:13.669Z",
+    "removed_at": "2026-07-06T18:23:58.158Z",
+    "duration_minutes": 4682,
+    "duration_str": "3d 6h 2m"
   },
   {
     "title": "Un quartier de Neuchâtel bouclé pour l'évacuation d'un obus de 1920 encore dangereux",
@@ -98958,11 +98958,17 @@
   },
   {
     "title": "Arrêter ses médicaments psy, un parcours semé d'embûches",
-    "added_at": "2026-07-04T14:31:31.849Z"
+    "added_at": "2026-07-04T14:31:31.849Z",
+    "removed_at": "2026-07-06T19:53:12.190Z",
+    "duration_minutes": 3201,
+    "duration_str": "2d 5h 21m"
   },
   {
     "title": "L'Ukraine cible Saint-Pétersbourg avec des drones, Kiev dément la chute d'une ville-clé",
-    "added_at": "2026-07-04T15:24:27.154Z"
+    "added_at": "2026-07-04T15:24:27.154Z",
+    "removed_at": "2026-07-06T17:23:46.803Z",
+    "duration_minutes": 2999,
+    "duration_str": "2d 1h 59m"
   },
   {
     "title": "Reportage à Washington où les célébrations du 250e anniversaire attirent moins de monde qu’escompté",
@@ -99130,7 +99136,10 @@
   },
   {
     "title": "Meta lance des abonnements Plus avec de nouvelles fonctionnalités",
-    "added_at": "2026-07-05T20:20:50.401Z"
+    "added_at": "2026-07-05T20:20:50.401Z",
+    "removed_at": "2026-07-06T19:24:16.353Z",
+    "duration_minutes": 1383,
+    "duration_str": "23h 3m"
   },
   {
     "title": "Trump aurait demandé au patron de la FIFA le réexamen du carton rouge de Balogun",
@@ -99370,5 +99379,21 @@
   {
     "title": "Des bombardements russes font au moins 22 morts dans la région de Kiev",
     "added_at": "2026-07-06T16:42:36.986Z"
+  },
+  {
+    "title": "Martin Pfister reçoit son homologue autrichienne pour parler de défense",
+    "added_at": "2026-07-06T17:21:21.365Z"
+  },
+  {
+    "title": "Football: la FIFA lève la suspension d’un joueur américain à la suite d’une intervention de Donald Trump",
+    "added_at": "2026-07-06T18:23:58.158Z"
+  },
+  {
+    "title": "Michel Zen-Ruffinen: \"Une intervention étatique dans une révision sportive est un scandale\"",
+    "added_at": "2026-07-06T18:43:18.163Z"
+  },
+  {
+    "title": "Colère des ONG après les coupes du Conseil fédéral dans l'aide au développement",
+    "added_at": "2026-07-06T19:53:12.190Z"
   }
 ]
