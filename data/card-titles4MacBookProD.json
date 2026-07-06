@@ -245641,7 +245641,10 @@
   },
   {
     "title": "Daring rescue mission launches to save a 3,200-pound NASA observatory from an untimely end",
-    "added_at": "2026-07-03T13:53:21.858Z"
+    "added_at": "2026-07-03T13:53:21.858Z",
+    "removed_at": "2026-07-06T20:58:31.421Z",
+    "duration_minutes": 4745,
+    "duration_str": "3d 7h 5m"
   },
   {
     "title": "For these colonial reenactors, this July 4th is a bit meh",
@@ -246665,7 +246668,10 @@
   },
   {
     "title": "The addictive 8 seconds where ‘nothing else in the world matters’",
-    "added_at": "2026-07-05T04:11:14.201Z"
+    "added_at": "2026-07-05T04:11:14.201Z",
+    "removed_at": "2026-07-06T20:58:31.421Z",
+    "duration_minutes": 2447,
+    "duration_str": "1d 16h 47m"
   },
   {
     "title": "Inside scoop from Swift wedding ‘guest’",
@@ -246883,7 +246889,10 @@
   },
   {
     "title": "Fires ignite on Brooklyn Bridge during July Fourth fireworks",
-    "added_at": "2026-07-05T14:47:37.121Z"
+    "added_at": "2026-07-05T14:47:37.121Z",
+    "removed_at": "2026-07-06T20:00:38.375Z",
+    "duration_minutes": 1753,
+    "duration_str": "1d 5h 13m"
   },
   {
     "title": "Hear mourners’ message to Trump. CNN is on the ground in Iran",
@@ -246954,7 +246963,10 @@
   },
   {
     "title": "Burgum defends white nationalist march, citing ‘free speech’",
-    "added_at": "2026-07-05T17:00:08.482Z"
+    "added_at": "2026-07-05T17:00:08.482Z",
+    "removed_at": "2026-07-06T20:12:38.509Z",
+    "duration_minutes": 1632,
+    "duration_str": "1d 3h 12m"
   },
   {
     "title": "Folarin Balogun cleared to play against Belgium after FIFA lifts suspension ban",
@@ -246986,11 +246998,17 @@
   },
   {
     "title": "Firework apparently hits Delta flight in Chicago",
-    "added_at": "2026-07-05T18:53:29.787Z"
+    "added_at": "2026-07-05T18:53:29.787Z",
+    "removed_at": "2026-07-06T21:00:56.544Z",
+    "duration_minutes": 1567,
+    "duration_str": "1d 2h 7m"
   },
   {
     "title": "Detained Gaza Pediatrician: ‘They Brought Me Here to Kill Me’",
-    "added_at": "2026-07-05T19:07:56.037Z"
+    "added_at": "2026-07-05T19:07:56.037Z",
+    "removed_at": "2026-07-06T21:53:53.256Z",
+    "duration_minutes": 1605,
+    "duration_str": "1d 2h 45m"
   },
   {
     "title": "CNN is on the ground as huge crowds gather ahead of the main procession",
@@ -247012,7 +247030,10 @@
   },
   {
     "title": "Couples compete in Wife Carrying Championship in Finland",
-    "added_at": "2026-07-05T19:58:47.482Z"
+    "added_at": "2026-07-05T19:58:47.482Z",
+    "removed_at": "2026-07-06T22:01:05.970Z",
+    "duration_minutes": 1562,
+    "duration_str": "1d 2h 2m"
   },
   {
     "title": "Huge crowds have gathered, but some Iranians say they’re not mourning the late ayatollah",
@@ -247437,10 +247458,7 @@
   },
   {
     "title": "We knew this Super El Niño would be intense. But it could end up being even worse than anticipated",
-    "added_at": "2026-07-06T12:22:21.796Z",
-    "removed_at": "2026-07-06T18:19:09.690Z",
-    "duration_minutes": 356,
-    "duration_str": "5h 56m"
+    "added_at": "2026-07-06T12:22:21.796Z"
   },
   {
     "title": "OPEC is struggling to survive. It could mean $40 oil",
@@ -247548,7 +247566,10 @@
   },
   {
     "title": "Suspect in Charlie Kirk’s killing appears in court for multiday hearing that will preview prosecutors’ evidence",
-    "added_at": "2026-07-06T15:13:34.599Z"
+    "added_at": "2026-07-06T15:13:34.599Z",
+    "removed_at": "2026-07-06T20:05:24.666Z",
+    "duration_minutes": 291,
+    "duration_str": "4h 51m"
   },
   {
     "title": "Hear Trump speak about the red card",
@@ -247616,5 +247637,63 @@
   {
     "title": "Israeli police officer throws stun grenade inside Palestinians’ car",
     "added_at": "2026-07-06T19:50:45.095Z"
+  },
+  {
+    "title": "Passenger captures seaplane’s crash landing in New York’s East River",
+    "added_at": "2026-07-06T20:00:38.375Z"
+  },
+  {
+    "title": "Police officer describes shooting of Charlie Kirk as prosecutors start presenting evidence in case of accused killer",
+    "added_at": "2026-07-06T20:05:24.666Z"
+  },
+  {
+    "title": "Cape Verde soccer team returns to hero’s welcome",
+    "added_at": "2026-07-06T20:12:38.509Z"
+  },
+  {
+    "title": "Artemis II astronaut Jeremy Hansen announces space agency retirement weeks after historic moon mission",
+    "added_at": "2026-07-06T20:15:06.976Z"
+  },
+  {
+    "title": "Woman alleges Graham Platner raped her in 2021 while they were dating, which he denies",
+    "added_at": "2026-07-06T20:58:31.421Z",
+    "removed_at": "2026-07-06T21:37:05.880Z",
+    "duration_minutes": 38,
+    "duration_str": "38m"
+  },
+  {
+    "title": "How Nicki Minaj became one of Trump’s highest profile celebrity supporters",
+    "added_at": "2026-07-06T21:00:56.544Z"
+  },
+  {
+    "title": "Former FIFA referee: Balogun red card was inappropriate",
+    "added_at": "2026-07-06T21:03:23.449Z",
+    "removed_at": "2026-07-06T21:05:45.019Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Spain scores late to eliminate Portugal and potentially end Cristiano Ronaldo’s international career",
+    "added_at": "2026-07-06T21:05:45.019Z"
+  },
+  {
+    "title": "Why Trump’s red card intervention might fuel the corruption narrative surrounding him",
+    "added_at": "2026-07-06T21:08:10.523Z"
+  },
+  {
+    "title": "Woman alleges US Senate candidate raped her in 2021 while they were dating, which he denies",
+    "added_at": "2026-07-06T21:37:05.880Z"
+  },
+  {
+    "title": "Graham Platner says he is reflecting on ‘best path forward’ as pressure mounts to exit Maine Senate race",
+    "added_at": "2026-07-06T21:37:05.880Z"
+  },
+  {
+    "title": "FIFA denies Belgium’s appeal to overturn Balogun decision",
+    "added_at": "2026-07-06T21:53:53.256Z"
+  },
+  {
+    "title": "How to make the most of a Trump Account",
+    "added_at": "2026-07-06T22:01:05.970Z"
   }
 ]
