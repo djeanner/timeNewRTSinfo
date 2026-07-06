@@ -2655,7 +2655,10 @@
   },
   {
     "title": "Couleurs d'été",
-    "added_at": "2025-07-22T13:38:22.048Z"
+    "added_at": "2025-07-22T13:38:22.048Z",
+    "removed_at": "2026-07-06T04:03:25.806Z",
+    "duration_minutes": 501985,
+    "duration_str": "348d 14h 25m"
   },
   {
     "title": "À Berne, Odessa Blanc raconte l'ambiance au Wankdorf",
@@ -98560,7 +98563,10 @@
   },
   {
     "title": "27 vols en 17 jours pour assister à 24 matches: Gianni Infantino épinglé pour son lourd bilan carbone",
-    "added_at": "2026-07-03T10:17:58.802Z"
+    "added_at": "2026-07-03T10:17:58.802Z",
+    "removed_at": "2026-07-06T05:25:14.085Z",
+    "duration_minutes": 4027,
+    "duration_str": "2d 19h 7m"
   },
   {
     "title": "Canicule: comment Chine-USA-Europe s’adaptent?",
@@ -98607,11 +98613,17 @@
   },
   {
     "title": "Les frais de garde bientôt allégés pour les familles suisses",
-    "added_at": "2026-07-03T12:28:26.423Z"
+    "added_at": "2026-07-03T12:28:26.423Z",
+    "removed_at": "2026-07-06T05:25:14.085Z",
+    "duration_minutes": 3896,
+    "duration_str": "2d 16h 56m"
   },
   {
     "title": "Un quartier de Neuchâtel bouclé durant deux heures pour évacuer un obus de 1920 encore dangereux",
-    "added_at": "2026-07-03T12:33:15.163Z"
+    "added_at": "2026-07-03T12:33:15.163Z",
+    "removed_at": "2026-07-06T05:22:53.332Z",
+    "duration_minutes": 3889,
+    "duration_str": "2d 16h 49m"
   },
   {
     "title": "Le feu qui a ravagé une menuiserie à Chalais a pu être maîtrisé",
@@ -98629,7 +98641,10 @@
   },
   {
     "title": "Le crash d'un avion contre un gratte-ciel de Pékin souligne l'étroit contrôle des médias en Chine",
-    "added_at": "2026-07-03T13:33:33.080Z"
+    "added_at": "2026-07-03T13:33:33.080Z",
+    "removed_at": "2026-07-06T06:06:05.545Z",
+    "duration_minutes": 3872,
+    "duration_str": "2d 16h 32m"
   },
   {
     "title": "Bencic s'impose en trois sets et poursuit son parcours à Wimbledon",
@@ -98654,7 +98669,10 @@
   },
   {
     "title": "L'Iran rend un dernier hommage au guide suprême Ali Khamenei durant plusieurs jours",
-    "added_at": "2026-07-03T14:31:58.018Z"
+    "added_at": "2026-07-03T14:31:58.018Z",
+    "removed_at": "2026-07-06T05:51:38.584Z",
+    "duration_minutes": 3799,
+    "duration_str": "2d 15h 19m"
   },
   {
     "title": "Que faire ce week-end? Notre sélection de sorties culturelles du 3 au 5 juillet",
@@ -98665,11 +98683,17 @@
   },
   {
     "title": "Le Neuchâtel International Fantastic Film Festival propose 129 oeuvres venant de 33 pays",
-    "added_at": "2026-07-03T15:20:08.301Z"
+    "added_at": "2026-07-03T15:20:08.301Z",
+    "removed_at": "2026-07-06T05:22:53.332Z",
+    "duration_minutes": 3722,
+    "duration_str": "2d 14h 2m"
   },
   {
     "title": "Chine: comment le parti communiste efface les catastrophes pour survivre",
-    "added_at": "2026-07-03T15:24:55.298Z"
+    "added_at": "2026-07-03T15:24:55.298Z",
+    "removed_at": "2026-07-06T06:03:44.276Z",
+    "duration_minutes": 3758,
+    "duration_str": "2d 14h 38m"
   },
   {
     "title": "Des Girons fribourgeois rattrapés par les impôts après des oublis",
@@ -98681,7 +98705,10 @@
   },
   {
     "title": "Madonna signe avec 'Confessions II' une ode fiévreuse au pouvoir de la musique et de la danse",
-    "added_at": "2026-07-03T18:30:31.436Z"
+    "added_at": "2026-07-03T18:30:31.436Z",
+    "removed_at": "2026-07-06T05:42:05.486Z",
+    "duration_minutes": 3551,
+    "duration_str": "2d 11h 11m"
   },
   {
     "title": "Le futur mégacentre de données de Beringen (SH) inquiète par sa consommation d'eau et d'électricité",
@@ -99031,10 +99058,7 @@
   },
   {
     "title": "Meta lance des abonnements Plus avec de nouvelles fonctionnalités",
-    "added_at": "2026-07-05T20:20:50.401Z",
-    "removed_at": "2026-07-06T02:24:35.466Z",
-    "duration_minutes": 363,
-    "duration_str": "6h 3m"
+    "added_at": "2026-07-05T20:20:50.401Z"
   },
   {
     "title": "Trump aurait demandé au patron de la FIFA le réexamen du carton rouge de Balogun",
@@ -99079,5 +99103,37 @@
   {
     "title": "Le super typhon Bavi frappe violemment l'île américaine de Rota",
     "added_at": "2026-07-06T03:12:40.875Z"
+  },
+  {
+    "title": "L'Angleterre bat le Mexique 3-2 et se qualifie pour les quarts",
+    "added_at": "2026-07-06T05:22:53.332Z"
+  },
+  {
+    "title": "Neymar prend sa retraite internationale",
+    "added_at": "2026-07-06T05:22:53.332Z"
+  },
+  {
+    "title": "Un doublé de Haaland et la Norvège mate le Brésil en 8es de la Coupe du monde",
+    "added_at": "2026-07-06T05:25:14.085Z"
+  },
+  {
+    "title": "Summer McIntosh bat le plus vieux record du monde",
+    "added_at": "2026-07-06T05:25:14.085Z"
+  },
+  {
+    "title": "Le Portugal annonce la création d'un réseau national de refuges climatiques",
+    "added_at": "2026-07-06T05:42:05.486Z"
+  },
+  {
+    "title": "Le canton du Jura va élaborer un plan canicule pour 2027",
+    "added_at": "2026-07-06T05:51:38.584Z"
+  },
+  {
+    "title": "Comment des pontes de la médecine en Suisse peuvent se mettre au service d'hôpitaux des pays du Sud: interview de Julien Wegrzyn",
+    "added_at": "2026-07-06T06:03:44.276Z"
+  },
+  {
+    "title": "Médecins du Monde alerte sur l'avenir du programme pour les travailleuses du sexe à Neuchâtel",
+    "added_at": "2026-07-06T06:06:05.545Z"
   }
 ]
