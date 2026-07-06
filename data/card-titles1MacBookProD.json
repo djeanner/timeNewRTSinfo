@@ -98633,7 +98633,10 @@
   },
   {
     "title": "Bencic s'impose en trois sets et poursuit son parcours à Wimbledon",
-    "added_at": "2026-07-03T13:33:33.080Z"
+    "added_at": "2026-07-03T13:33:33.080Z",
+    "removed_at": "2026-07-06T02:34:15.616Z",
+    "duration_minutes": 3660,
+    "duration_str": "2d 13h"
   },
   {
     "title": "Des incendies précoces ont déjà ravagé des centaines d'hectares dans le sud de la France",
@@ -98644,7 +98647,10 @@
   },
   {
     "title": "Fribourg introduit de nouvelles mesures pour les soins infirmiers",
-    "added_at": "2026-07-03T14:10:17.857Z"
+    "added_at": "2026-07-03T14:10:17.857Z",
+    "removed_at": "2026-07-06T01:34:03.884Z",
+    "duration_minutes": 3563,
+    "duration_str": "2d 11h 23m"
   },
   {
     "title": "L'Iran rend un dernier hommage au guide suprême Ali Khamenei durant plusieurs jours",
@@ -99025,7 +99031,10 @@
   },
   {
     "title": "Meta lance des abonnements Plus avec de nouvelles fonctionnalités",
-    "added_at": "2026-07-05T20:20:50.401Z"
+    "added_at": "2026-07-05T20:20:50.401Z",
+    "removed_at": "2026-07-06T02:24:35.466Z",
+    "duration_minutes": 363,
+    "duration_str": "6h 3m"
   },
   {
     "title": "Trump aurait demandé au patron de la FIFA le réexamen du carton rouge de Balogun",
@@ -99037,5 +99046,38 @@
   {
     "title": "Donald Trump aurait demandé au patron de la FIFA le réexamen du carton rouge de Balogun",
     "added_at": "2026-07-05T21:33:03.265Z"
+  },
+  {
+    "title": "Le super typhon Bavi frappe violemment l'île américaine de Rota, dans le Pacifique",
+    "added_at": "2026-07-06T01:34:03.884Z",
+    "removed_at": "2026-07-06T03:12:40.875Z",
+    "duration_minutes": 98,
+    "duration_str": "1h 38m"
+  },
+  {
+    "title": "L’été des beaux parleurs",
+    "added_at": "2026-07-06T02:24:35.466Z"
+  },
+  {
+    "title": "Le président colombien Gustavo Petro annonce son départ anticipé et appelle à des manifestations",
+    "added_at": "2026-07-06T02:34:15.616Z",
+    "removed_at": "2026-07-06T02:41:28.398Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Le président colombien Gustavo Petro annonce son départ anticipé",
+    "added_at": "2026-07-06T02:41:28.398Z",
+    "removed_at": "2026-07-06T02:48:41.893Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Le président colombien Gustavo Petro quittera son poste plus tôt que prévu",
+    "added_at": "2026-07-06T02:48:41.893Z"
+  },
+  {
+    "title": "Le super typhon Bavi frappe violemment l'île américaine de Rota",
+    "added_at": "2026-07-06T03:12:40.875Z"
   }
 ]
