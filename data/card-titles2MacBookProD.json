@@ -94545,7 +94545,10 @@
   },
   {
     "title": "sport:::Le formateur et les champions d’Europe: la fable de Luis de la Fuente, humble sélectionneur de l’Espagne",
-    "added_at": "2026-07-06T12:00:41.579Z"
+    "added_at": "2026-07-06T12:00:41.579Z",
+    "removed_at": "2026-07-07T12:31:17.648Z",
+    "duration_minutes": 1470,
+    "duration_str": "1d 30m"
   },
   {
     "title": "sport:::En direct, Coupe du monde 2026 – La Belgique fait recours après le volte-face de la FIFA concernant la sanction du buteur étasunien Balogun",
@@ -94705,7 +94708,10 @@
   },
   {
     "title": "sport:::A Seattle, les Belges éteignent la polémique et les Etats-Unis, battus 4-1",
-    "added_at": "2026-07-07T02:35:53.200Z"
+    "added_at": "2026-07-07T02:35:53.200Z",
+    "removed_at": "2026-07-07T12:31:17.648Z",
+    "duration_minutes": 595,
+    "duration_str": "9h 55m"
   },
   {
     "title": "sport:::En direct, Coupe du monde 2026 – Tout ça pour ça! Après la polémique, la Belgique élimine facilement les Etats-Unis. La Suisse tremble pour Manzambi et Vargas",
@@ -94746,15 +94752,24 @@
   },
   {
     "title": "sport:::En direct, Coupe du monde 2026 – La Suisse tremble pour Johan Manzambi, très incertain contre la Colombie après une blessure à l'entraînement",
-    "added_at": "2026-07-07T08:22:44.995Z"
+    "added_at": "2026-07-07T08:22:44.995Z",
+    "removed_at": "2026-07-07T14:37:01.809Z",
+    "duration_minutes": 374,
+    "duration_str": "6h 14m"
   },
   {
     "title": "monde:::Coups de théâtre en France: 1974, la mort du président ouvre une campagne de bouleversements",
-    "added_at": "2026-07-07T08:42:01.507Z"
+    "added_at": "2026-07-07T08:42:01.507Z",
+    "removed_at": "2026-07-07T12:43:22.222Z",
+    "duration_minutes": 241,
+    "duration_str": "4h 1m"
   },
   {
     "title": "culture:::Avec Samantha Shannon, la fantasy appartient aux héroïnes fortes et queers, et c’est épique",
-    "added_at": "2026-07-07T09:06:09.902Z"
+    "added_at": "2026-07-07T09:06:09.902Z",
+    "removed_at": "2026-07-07T14:22:24.873Z",
+    "duration_minutes": 316,
+    "duration_str": "5h 16m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Deux explosions secouent Damas pendant la visite d'Emmanuel Macron",
@@ -94781,6 +94796,58 @@
   },
   {
     "title": "suisse:::«La Suisse est devenue moins sociale»: les écarts de revenus se creusent depuis 2016, pointe l'USS",
-    "added_at": "2026-07-07T11:23:34.680Z"
+    "added_at": "2026-07-07T11:23:34.680Z",
+    "removed_at": "2026-07-07T13:43:38.898Z",
+    "duration_minutes": 140,
+    "duration_str": "2h 20m"
+  },
+  {
+    "title": "monde:::Le verdict est tombé: la justice n’empêche pas Marine Le Pen de se présenter à la présidentielle",
+    "added_at": "2026-07-07T12:07:07.601Z",
+    "removed_at": "2026-07-07T12:14:25.310Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "monde:::Marine Le Pen devra porter un bracelet électronique, ce qui devrait l'empêcher de se présenter à la présidentielle",
+    "added_at": "2026-07-07T12:14:25.310Z",
+    "removed_at": "2026-07-07T12:26:26.174Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "monde:::Marine Le Pen devra porter un bracelet électronique, ce qui pourrait l’empêcher de se présenter à la présidentielle",
+    "added_at": "2026-07-07T12:26:26.174Z"
+  },
+  {
+    "title": "monde:::Coups de théâtre en France: 1974, la mort du président Georges Pompidou ouvre une campagne de bouleversements",
+    "added_at": "2026-07-07T12:43:22.222Z"
+  },
+  {
+    "title": "suisse:::Attaque antisémite à Zurich: un adolescent reconnu coupable de tentative d’assassinat",
+    "added_at": "2026-07-07T13:43:38.898Z",
+    "removed_at": "2026-07-07T14:05:26.515Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
+  },
+  {
+    "title": "suisse:::Sanglante attaque antisémite à Zurich: un adolescent reconnu coupable de tentative d’assassinat",
+    "added_at": "2026-07-07T14:05:26.515Z"
+  },
+  {
+    "title": "sport:::Bébé suisse de l’histoire du sport, le freeride intègre le programme des Jeux olympiques 2030",
+    "added_at": "2026-07-07T14:17:31.097Z"
+  },
+  {
+    "title": "economie:::Le genevois Givaudan investit dans une société zurichoise, spécialisée dans les parfums sans alcool",
+    "added_at": "2026-07-07T14:17:31.097Z"
+  },
+  {
+    "title": "monde:::Jordan Bardella ou Marine Le Pen? Avant même le verdict judiciaire, les adversaires du RN avaient leur préférence…",
+    "added_at": "2026-07-07T14:22:24.873Z"
+  },
+  {
+    "title": "sport:::En direct, Coupe du monde 2026 – La Suisse tremble pour Johan Manzambi avant d'affronter la Colombie, suivez avec nous ce huitième de finale",
+    "added_at": "2026-07-07T14:37:01.809Z"
   }
 ]
