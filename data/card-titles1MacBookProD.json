@@ -99494,7 +99494,10 @@
   },
   {
     "title": "Une nouvelle vague de chaleur s'abat sur la Suisse, plusieurs régions romandes en alerte canicule",
-    "added_at": "2026-07-06T12:41:37.942Z"
+    "added_at": "2026-07-06T12:41:37.942Z",
+    "removed_at": "2026-07-08T20:04:58.051Z",
+    "duration_minutes": 3323,
+    "duration_str": "2d 7h 23m"
   },
   {
     "title": "La Chine tire un missile dans le Pacifique, l'Australie et le Japon s'inquiètent",
@@ -99512,7 +99515,10 @@
   },
   {
     "title": "Le Hamas dissout ses instances dirigeantes à Gaza après  20 ans de pouvoir",
-    "added_at": "2026-07-06T13:08:04.972Z"
+    "added_at": "2026-07-06T13:08:04.972Z",
+    "removed_at": "2026-07-08T18:32:31.945Z",
+    "duration_minutes": 3204,
+    "duration_str": "2d 5h 24m"
   },
   {
     "title": "Les musiques sacrées résonnent à l’église du Collège St-Michel de Fribourg jusqu'au 12 juillet",
@@ -99596,11 +99602,17 @@
   },
   {
     "title": "Des odeurs pourraient un jour repousser les loups, selon une étude de l'Université de Neuchâtel",
-    "added_at": "2026-07-06T19:58:10.339Z"
+    "added_at": "2026-07-06T19:58:10.339Z",
+    "removed_at": "2026-07-08T19:33:24.675Z",
+    "duration_minutes": 2855,
+    "duration_str": "1d 23h 35m"
   },
   {
     "title": "Une partie de la flotte des chars M113 à nouveau opérationnels",
-    "added_at": "2026-07-06T20:29:37.886Z"
+    "added_at": "2026-07-06T20:29:37.886Z",
+    "removed_at": "2026-07-08T18:49:34.964Z",
+    "duration_minutes": 2779,
+    "duration_str": "1d 22h 19m"
   },
   {
     "title": "La Lombardie se constitue partie civile après l'incendie de Crans-Montana",
@@ -99608,7 +99620,10 @@
   },
   {
     "title": "En France, Cédric Jubillar avoue le meurtre de son épouse",
-    "added_at": "2026-07-06T21:03:22.817Z"
+    "added_at": "2026-07-06T21:03:22.817Z",
+    "removed_at": "2026-07-08T18:03:17.738Z",
+    "duration_minutes": 2699,
+    "duration_str": "1d 20h 59m"
   },
   {
     "title": "Mondial 2026: l’Espagne et le Portugal s’affrontent pour une place en quart de finale",
@@ -99965,7 +99980,10 @@
   },
   {
     "title": "Couleurs d'été - signé",
-    "added_at": "2026-07-08T11:23:07.582Z"
+    "added_at": "2026-07-08T11:23:07.582Z",
+    "removed_at": "2026-07-08T18:22:51.575Z",
+    "duration_minutes": 419,
+    "duration_str": "6h 59m"
   },
   {
     "title": "Musiques de jeux vidéo et de clubs de danse, un mariage heureux",
@@ -99981,7 +99999,10 @@
   },
   {
     "title": "Une attaque fait plusieurs blessés dans un gymnase de Bavière",
-    "added_at": "2026-07-08T12:36:09.286Z"
+    "added_at": "2026-07-08T12:36:09.286Z",
+    "removed_at": "2026-07-08T19:38:14.392Z",
+    "duration_minutes": 422,
+    "duration_str": "7h 2m"
   },
   {
     "title": "Comment l'équipe de Suisse peut-elle gérer la blessure au genou de Johan Manzambi?",
@@ -100012,14 +100033,59 @@
   },
   {
     "title": "La surmortalité liée à la canicule de juin bien inférieure à celle de 2003",
-    "added_at": "2026-07-08T15:19:17.465Z"
+    "added_at": "2026-07-08T15:19:17.465Z",
+    "removed_at": "2026-07-08T18:27:40.713Z",
+    "duration_minutes": 188,
+    "duration_str": "3h 8m"
   },
   {
     "title": "Marine Le Pen lance sa campagne présidentielle un jour après sa condamnation",
-    "added_at": "2026-07-08T15:21:44.031Z"
+    "added_at": "2026-07-08T15:21:44.031Z",
+    "removed_at": "2026-07-08T18:54:26.500Z",
+    "duration_minutes": 212,
+    "duration_str": "3h 32m"
   },
   {
     "title": "Du nucléaire pour l'IA: les mini-réacteurs sont-ils la solution?",
     "added_at": "2026-07-08T17:02:17.583Z"
+  },
+  {
+    "title": "Sport matin - Suisse-Colombie: un match pour marquer l'histoire",
+    "added_at": "2026-07-08T18:03:17.738Z"
+  },
+  {
+    "title": "En légère hausse, la surmortalité liée à la canicule de juin reste bien inférieure à celle de 2003",
+    "added_at": "2026-07-08T18:27:40.713Z"
+  },
+  {
+    "title": "Le canton de Fribourg renonce finalement à taxer rétroactivement les girons",
+    "added_at": "2026-07-08T18:32:31.945Z"
+  },
+  {
+    "title": "Non, il n'y aura pas de délai de tolérance pour acheter son billet après le départ du train",
+    "added_at": "2026-07-08T18:49:34.964Z"
+  },
+  {
+    "title": "Marine Le Pen lance sa campagne présidentielle un jour après la confirmation de sa condamnation",
+    "added_at": "2026-07-08T18:54:26.500Z"
+  },
+  {
+    "title": "Amendes et dénonciations après les festivités nocturnes liées à la victoire suisse face à la Colombie",
+    "added_at": "2026-07-08T19:04:10.920Z"
+  },
+  {
+    "title": "Une nouvelle tarification créée des divisions profondes au sein des physiothérapeutes",
+    "added_at": "2026-07-08T19:33:24.675Z",
+    "removed_at": "2026-07-08T20:34:10.568Z",
+    "duration_minutes": 60,
+    "duration_str": "1h"
+  },
+  {
+    "title": "Un adolescent de 16 ans arrêté après avoir blessé deux collégiennes dans un gymnase de Bavière",
+    "added_at": "2026-07-08T19:38:14.392Z"
+  },
+  {
+    "title": "Une nouvelle tarification crée des divisions profondes au sein des physiothérapeutes",
+    "added_at": "2026-07-08T20:34:10.568Z"
   }
 ]
