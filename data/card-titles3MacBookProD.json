@@ -199534,11 +199534,17 @@
   },
   {
     "title": "Iran Launches Attacks Across Gulf After Latest U.S. Strikes",
-    "added_at": "2026-07-08T05:02:39.334Z"
+    "added_at": "2026-07-08T05:02:39.334Z",
+    "removed_at": "2026-07-08T09:03:10.795Z",
+    "duration_minutes": 240,
+    "duration_str": "4h"
   },
   {
     "title": "Oil Prices Jump After Renewed Strikes in Gulf Put Shipping Recovery at Risk",
-    "added_at": "2026-07-08T05:09:54.425Z"
+    "added_at": "2026-07-08T05:09:54.425Z",
+    "removed_at": "2026-07-08T08:53:24.095Z",
+    "duration_minutes": 223,
+    "duration_str": "3h 43m"
   },
   {
     "title": "Rush to Evacuate as ‘Beams Started Bending’ and Floors Sagged",
@@ -199546,7 +199552,10 @@
   },
   {
     "title": "NATO Leaders Meet at Pivotal Moment for Alliance",
-    "added_at": "2026-07-08T06:17:32.640Z"
+    "added_at": "2026-07-08T06:17:32.640Z",
+    "removed_at": "2026-07-08T09:18:01.496Z",
+    "duration_minutes": 180,
+    "duration_str": "3h"
   },
   {
     "title": "Late Night Calls a Foul on Trump After His World Cup Intervention",
@@ -199555,5 +199564,24 @@
   {
     "title": "ICE Officer Kills a Mexican Man in Houston",
     "added_at": "2026-07-08T06:27:15.518Z"
+  },
+  {
+    "title": "Oil Prices Jump After Trump Says Deal With Iran Is ‘Over’",
+    "added_at": "2026-07-08T08:53:24.095Z"
+  },
+  {
+    "title": "Trump Casts Doubt on Future of Cease-Fire After Latest Strikes",
+    "added_at": "2026-07-08T09:03:10.795Z",
+    "removed_at": "2026-07-08T09:15:31.913Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "Trump Casts Doubt on Future of Cease-Fire With Iran After Latest Strikes",
+    "added_at": "2026-07-08T09:15:31.913Z"
+  },
+  {
+    "title": "Trump Lashes Out at Europe at NATO Summit",
+    "added_at": "2026-07-08T09:18:01.496Z"
   }
 ]

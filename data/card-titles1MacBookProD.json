@@ -3744,10 +3744,7 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T19:02:44.375Z",
-    "removed_at": "2026-07-08T07:01:17.704Z",
-    "duration_minutes": 500398,
-    "duration_str": "347d 11h 58m"
+    "added_at": "2025-07-25T19:02:44.375Z"
   },
   {
     "title": "En Israël, la population sensible au sort des Gazaouis refuse d'en rendre son armée responsable",
@@ -99490,7 +99487,10 @@
   },
   {
     "title": "La Chine tire un missile dans le Pacifique, plusieurs pays de la région s'inquiètent",
-    "added_at": "2026-07-06T13:05:44.072Z"
+    "added_at": "2026-07-06T13:05:44.072Z",
+    "removed_at": "2026-07-08T07:23:21.563Z",
+    "duration_minutes": 2537,
+    "duration_str": "1d 18h 17m"
   },
   {
     "title": "Le Hamas dissout ses instances dirigeantes à Gaza après  20 ans de pouvoir",
@@ -99785,7 +99785,10 @@
   },
   {
     "title": "L'invité de La Matinale - Yaniv Benhamou, professeur de droit du numérique",
-    "added_at": "2026-07-07T17:02:23.052Z"
+    "added_at": "2026-07-07T17:02:23.052Z",
+    "removed_at": "2026-07-08T09:03:10.543Z",
+    "duration_minutes": 960,
+    "duration_str": "16h"
   },
   {
     "title": "Au sommet de l'Otan, Donald Trump vante son \"alchimie\" avec le président turc Erdogan",
@@ -99822,7 +99825,10 @@
   },
   {
     "title": "10 ans plus tard, ces irréductibles jouent toujours à Pokémon Go",
-    "added_at": "2026-07-07T19:06:09.084Z"
+    "added_at": "2026-07-07T19:06:09.084Z",
+    "removed_at": "2026-07-08T09:03:10.543Z",
+    "duration_minutes": 837,
+    "duration_str": "13h 57m"
   },
   {
     "title": "En Crimée, l'Ukraine s'attaque désormais au réseau électrique",
@@ -99841,11 +99847,17 @@
   },
   {
     "title": "Les retombées économiques du F-35 pourraient dépasser les attentes de l’armée suisse",
-    "added_at": "2026-07-07T20:16:29.398Z"
+    "added_at": "2026-07-07T20:16:29.398Z",
+    "removed_at": "2026-07-08T09:12:58.360Z",
+    "duration_minutes": 776,
+    "duration_str": "12h 56m"
   },
   {
     "title": "Les Etats-Unis lancent des \"frappes puissantes\" contre l'Iran en réponse à des attaques dans le détroit d'Ormuz",
-    "added_at": "2026-07-07T21:41:31.379Z"
+    "added_at": "2026-07-07T21:41:31.379Z",
+    "removed_at": "2026-07-08T08:33:50.563Z",
+    "duration_minutes": 652,
+    "duration_str": "10h 52m"
   },
   {
     "title": "Une nouvelle canicule menace la Suisse et ses seniors",
@@ -99870,5 +99882,32 @@
   {
     "title": "Les supporters de la Nati: une histoire de football et d'émotion",
     "added_at": "2026-07-08T06:37:02.083Z"
+  },
+  {
+    "title": "'In Waves' retrace avec une infinie délicatesse une histoire d'amour et de résilience",
+    "added_at": "2026-07-08T07:23:21.563Z"
+  },
+  {
+    "title": "Donald Trump affirme que le cessez-le-feu avec l'Iran \"est terminé\" après la reprise des échanges de frappes",
+    "added_at": "2026-07-08T08:33:50.563Z",
+    "removed_at": "2026-07-08T08:41:09.027Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Donald Trump affirme que le cessez-le-feu avec l'Iran \"est terminé\" après la reprise des hostilités",
+    "added_at": "2026-07-08T08:41:09.027Z"
+  },
+  {
+    "title": "Faut-il créer des fonds d'indemnisation pour compenser les heures de travail perdues à cause de la canicule? Débat entre David Valterio et Pietro Carobbio",
+    "added_at": "2026-07-08T09:03:10.543Z"
+  },
+  {
+    "title": "Les retombées économiques du F-35 pourraient dépasser les attentes de l'armée suisse",
+    "added_at": "2026-07-08T09:12:58.360Z"
+  },
+  {
+    "title": "Genève Aéroport se prépare à un été record avec 3,5 millions de voyageurs",
+    "added_at": "2026-07-08T09:30:25.854Z"
   }
 ]
