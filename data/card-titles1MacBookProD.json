@@ -99129,7 +99129,10 @@
   },
   {
     "title": "Du deuil à la reconstruction, une agricultrice reprend la ferme familiale après le suicide de son mari",
-    "added_at": "2026-07-05T12:58:58.361Z"
+    "added_at": "2026-07-05T12:58:58.361Z",
+    "removed_at": "2026-07-08T15:04:28.791Z",
+    "duration_minutes": 4445,
+    "duration_str": "3d 2h 5m"
   },
   {
     "title": "Genève inaugure sa première Migros autonome les dimanches",
@@ -99365,7 +99368,10 @@
   },
   {
     "title": "\"Paradis perdu\", l'histoire méconnue du peuple de Bikini exilé pour les premiers essais nucléaires",
-    "added_at": "2026-07-06T06:59:13.185Z"
+    "added_at": "2026-07-06T06:59:13.185Z",
+    "removed_at": "2026-07-08T14:30:24.564Z",
+    "duration_minutes": 3331,
+    "duration_str": "2d 7h 31m"
   },
   {
     "title": "Sony va abandonner le format disque pour les nouveautés sur PlayStation début 2028",
@@ -99397,11 +99403,17 @@
   },
   {
     "title": "Le Français Cédric Jubillar reconnaît le meurtre de son épouse Delphine après cinq ans de dénégations",
-    "added_at": "2026-07-06T09:21:42.230Z"
+    "added_at": "2026-07-06T09:21:42.230Z",
+    "removed_at": "2026-07-08T14:01:13.502Z",
+    "duration_minutes": 3159,
+    "duration_str": "2d 4h 39m"
   },
   {
     "title": "Des centaines de pompiers continuent de lutter contre le feu dans le sud de la France",
-    "added_at": "2026-07-06T09:52:56.634Z"
+    "added_at": "2026-07-06T09:52:56.634Z",
+    "removed_at": "2026-07-08T12:53:09.541Z",
+    "duration_minutes": 3060,
+    "duration_str": "2d 3h"
   },
   {
     "title": "Plus de 700 familles fribourgeoises ont déjà reçu les prestations complémentaires",
@@ -99511,7 +99523,10 @@
   },
   {
     "title": "\"Tout internaute ou artiste devrait recevoir une part de la valeur captée par les plateformes d'écoute\"",
-    "added_at": "2026-07-06T13:12:56.951Z"
+    "added_at": "2026-07-06T13:12:56.951Z",
+    "removed_at": "2026-07-08T12:36:09.286Z",
+    "duration_minutes": 2843,
+    "duration_str": "1d 23h 23m"
   },
   {
     "title": "Des bombardements russes font au moins 18 morts dans la région de Kiev",
@@ -99526,11 +99541,17 @@
   },
   {
     "title": "Une vaste opération contre la traite humaine fait plus de 1000 arrestations dans 59 pays",
-    "added_at": "2026-07-06T14:47:01.539Z"
+    "added_at": "2026-07-06T14:47:01.539Z",
+    "removed_at": "2026-07-08T13:46:37.091Z",
+    "duration_minutes": 2819,
+    "duration_str": "1d 22h 59m"
   },
   {
     "title": "Retrouvez sur Play RTS le concert de Raye et ses invités en ouverture du 60e Montreux Jazz Festival",
-    "added_at": "2026-07-06T14:51:53.930Z"
+    "added_at": "2026-07-06T14:51:53.930Z",
+    "removed_at": "2026-07-08T14:27:57.538Z",
+    "duration_minutes": 2856,
+    "duration_str": "1d 23h 36m"
   },
   {
     "title": "Le secrétaire général de l'ONU propose un Pacte IA pour la sécurité des enfants",
@@ -99931,7 +99952,10 @@
   },
   {
     "title": "Donald Trump se dit \"très en colère\" contre l'Otan à propos du Groenland et de l'Iran",
-    "added_at": "2026-07-08T10:46:43.569Z"
+    "added_at": "2026-07-08T10:46:43.569Z",
+    "removed_at": "2026-07-08T15:02:06.133Z",
+    "duration_minutes": 255,
+    "duration_str": "4h 15m"
   },
   {
     "title": "Couleurs d'été - signé",
@@ -99948,5 +99972,36 @@
   {
     "title": "Comment lutter contre l'inactivité physique? Interview de Bengt Kayser",
     "added_at": "2026-07-08T12:04:29.567Z"
+  },
+  {
+    "title": "Une attaque fait plusieurs blessés dans un gymnase de Bavière",
+    "added_at": "2026-07-08T12:36:09.286Z"
+  },
+  {
+    "title": "Comment l'équipe de Suisse peut-elle gérer la blessure au genou de Johan Manzambi?",
+    "added_at": "2026-07-08T12:53:09.541Z"
+  },
+  {
+    "title": "Hannibal est probablement passé par un col français pour traverser les Alpes",
+    "added_at": "2026-07-08T13:46:37.091Z"
+  },
+  {
+    "title": "La Sélection suisse en Avignon, vitrine artistique reconnue, fête ses dix ans",
+    "added_at": "2026-07-08T14:27:57.538Z"
+  },
+  {
+    "title": "Plusieurs cantons autorisent bars et fans zones à rester ouverts toute la nuit pour la Nati",
+    "added_at": "2026-07-08T14:30:24.564Z",
+    "removed_at": "2026-07-08T14:37:41.737Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Des cantons autorisent bars et fans zones à rester ouverts toute la nuit pour le quart de la Nati",
+    "added_at": "2026-07-08T14:37:41.737Z"
+  },
+  {
+    "title": "Donald Trump souffle le chaud et le froid au sommet de l'Otan à Ankara",
+    "added_at": "2026-07-08T15:02:06.133Z"
   }
 ]
