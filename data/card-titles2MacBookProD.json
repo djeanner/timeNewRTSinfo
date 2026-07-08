@@ -95081,7 +95081,10 @@
   },
   {
     "title": "sport:::En direct, Coupe du monde 2026 – La Suisse est en quarts de finale! Revivez avec nous la victoire contre la Colombie aux tirs au but",
-    "added_at": "2026-07-07T23:14:17.780Z"
+    "added_at": "2026-07-07T23:14:17.780Z",
+    "removed_at": "2026-07-08T21:54:40.882Z",
+    "duration_minutes": 1360,
+    "duration_str": "22h 40m"
   },
   {
     "title": "sport:::Aux tirs au but, la Suisse brise enfin son plafond de verre et défiera l'Argentine en quart de finale à Kansas City",
@@ -95267,7 +95270,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis vont frapper «fort» l’Iran cette nuit, affirme Donald Trump",
-    "added_at": "2026-07-08T13:36:56.920Z"
+    "added_at": "2026-07-08T13:36:56.920Z",
+    "removed_at": "2026-07-08T20:49:01.104Z",
+    "duration_minutes": 432,
+    "duration_str": "7h 12m"
   },
   {
     "title": "culture:::La Genevoise Souheila Yacoub dans «Evil Dead Burn», ou l’éternel retour des morts-méchants",
@@ -95325,5 +95331,34 @@
   {
     "title": "sport:::Les nouveaux vélos «aéro» poussent les vitesses du Tour de France",
     "added_at": "2026-07-08T19:18:46.902Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis annoncent avoir lancé de nouvelles frappes contre l’Iran",
+    "added_at": "2026-07-08T20:49:01.104Z"
+  },
+  {
+    "title": "sport:::En direct, Coupe du monde 2026 – La France s'attaque ce jeudi au Maroc, puissance montante du football international",
+    "added_at": "2026-07-08T21:54:40.882Z",
+    "removed_at": "2026-07-08T21:57:03.497Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "sport:::En direct, Coupe du monde 2026 – La France s'attaque au Maroc, puissance montante du football international",
+    "added_at": "2026-07-08T21:57:03.497Z",
+    "removed_at": "2026-07-08T22:01:58.895Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "sport:::En direct, Coupe du monde 2026 – La France s'attaque jeudi au Maroc, puissance montante du football international",
+    "added_at": "2026-07-08T22:01:58.895Z",
+    "removed_at": "2026-07-08T22:04:22.097Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "sport:::En direct, Coupe du monde 2026 – La France s'attaque  au Maroc, puissance montante du football international",
+    "added_at": "2026-07-08T22:04:22.097Z"
   }
 ]
