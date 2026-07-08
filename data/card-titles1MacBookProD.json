@@ -3744,7 +3744,10 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T19:02:44.375Z"
+    "added_at": "2025-07-25T19:02:44.375Z",
+    "removed_at": "2026-07-08T07:01:17.704Z",
+    "duration_minutes": 500398,
+    "duration_str": "347d 11h 58m"
   },
   {
     "title": "En Israël, la population sensible au sort des Gazaouis refuse d'en rendre son armée responsable",
@@ -99129,11 +99132,17 @@
   },
   {
     "title": "Du deuil à la reconstruction, une agricultrice reprend la ferme familiale après le suicide de son mari",
-    "added_at": "2026-07-05T12:58:58.361Z"
+    "added_at": "2026-07-05T12:58:58.361Z",
+    "removed_at": "2026-07-08T06:05:28.516Z",
+    "duration_minutes": 3906,
+    "duration_str": "2d 17h 6m"
   },
   {
     "title": "Genève inaugure sa première Migros autonome les dimanches",
-    "added_at": "2026-07-05T13:06:13.268Z"
+    "added_at": "2026-07-05T13:06:13.268Z",
+    "removed_at": "2026-07-08T06:05:28.516Z",
+    "duration_minutes": 3899,
+    "duration_str": "2d 16h 59m"
   },
   {
     "title": "Un incendie fait rage dans les Pyrénées-Orientales en France, déjà 1500 hectares brûlés",
@@ -99246,7 +99255,10 @@
   },
   {
     "title": "Donald Trump aurait demandé au patron de la FIFA le réexamen du carton rouge de Balogun",
-    "added_at": "2026-07-05T21:33:03.265Z"
+    "added_at": "2026-07-05T21:33:03.265Z",
+    "removed_at": "2026-07-08T07:01:17.704Z",
+    "duration_minutes": 3448,
+    "duration_str": "2d 9h 28m"
   },
   {
     "title": "Le super typhon Bavi frappe violemment l'île américaine de Rota, dans le Pacifique",
@@ -99384,7 +99396,10 @@
   },
   {
     "title": "Un nombre record d'enfants maltraités ont été pris en charge en Suisse en 2025",
-    "added_at": "2026-07-06T09:14:29.134Z"
+    "added_at": "2026-07-06T09:14:29.134Z",
+    "removed_at": "2026-07-08T04:33:39.094Z",
+    "duration_minutes": 2599,
+    "duration_str": "1d 19h 19m"
   },
   {
     "title": "Le Français Cédric Jubillar reconnaît le meurtre de son épouse Delphine après cinq ans de dénégations",
@@ -99522,7 +99537,10 @@
   },
   {
     "title": "Des bombardements russes font au moins 22 morts dans la région de Kiev",
-    "added_at": "2026-07-06T16:42:36.986Z"
+    "added_at": "2026-07-06T16:42:36.986Z",
+    "removed_at": "2026-07-08T04:45:47.140Z",
+    "duration_minutes": 2163,
+    "duration_str": "1d 12h 3m"
   },
   {
     "title": "Martin Pfister reçoit son homologue autrichienne pour parler de défense",
@@ -99718,7 +99736,10 @@
   },
   {
     "title": "Les supporters de la Nati : une histoire de football et d'émotion",
-    "added_at": "2026-07-07T13:48:32.656Z"
+    "added_at": "2026-07-07T13:48:32.656Z",
+    "removed_at": "2026-07-08T06:37:02.083Z",
+    "duration_minutes": 1008,
+    "duration_str": "16h 48m"
   },
   {
     "title": "Peine de prison commuée en mesures thérapeutiques pour l'auteur de l'attaque antisémite de Zurich",
@@ -99801,10 +99822,7 @@
   },
   {
     "title": "10 ans plus tard, ces irréductibles jouent toujours à Pokémon Go",
-    "added_at": "2026-07-07T19:06:09.084Z",
-    "removed_at": "2026-07-08T03:23:24.392Z",
-    "duration_minutes": 497,
-    "duration_str": "8h 17m"
+    "added_at": "2026-07-07T19:06:09.084Z"
   },
   {
     "title": "En Crimée, l'Ukraine s'attaque désormais au réseau électrique",
@@ -99840,5 +99858,17 @@
   {
     "title": "Des rues de Manhattan évacuées après un affaissement dans un building",
     "added_at": "2026-07-08T03:08:54.192Z"
+  },
+  {
+    "title": "Après un match irrespirable, les supporters fêtent la qualification de la Suisse jusqu'au bout de la nuit",
+    "added_at": "2026-07-08T04:31:17.652Z"
+  },
+  {
+    "title": "Un policier de l'immigration tue un ressortissant mexicain à Houston",
+    "added_at": "2026-07-08T04:45:47.140Z"
+  },
+  {
+    "title": "Les supporters de la Nati: une histoire de football et d'émotion",
+    "added_at": "2026-07-08T06:37:02.083Z"
   }
 ]
