@@ -99568,7 +99568,10 @@
   },
   {
     "title": "Un Incendie à l'usine d'incinération des déchets d'Uvrier, sur la commune de Sion",
-    "added_at": "2026-07-06T15:49:36.073Z"
+    "added_at": "2026-07-06T15:49:36.073Z",
+    "removed_at": "2026-07-09T04:44:00.604Z",
+    "duration_minutes": 3654,
+    "duration_str": "2d 12h 54m"
   },
   {
     "title": "La LAMAL devrait-elle prendre en charge les expatriés?",
@@ -99619,7 +99622,10 @@
   },
   {
     "title": "La Lombardie se constitue partie civile après l'incendie de Crans-Montana",
-    "added_at": "2026-07-06T20:58:30.790Z"
+    "added_at": "2026-07-06T20:58:30.790Z",
+    "removed_at": "2026-07-09T02:25:32.734Z",
+    "duration_minutes": 3207,
+    "duration_str": "2d 5h 27m"
   },
   {
     "title": "En France, Cédric Jubillar avoue le meurtre de son épouse",
@@ -99630,7 +99636,10 @@
   },
   {
     "title": "Mondial 2026: l’Espagne et le Portugal s’affrontent pour une place en quart de finale",
-    "added_at": "2026-07-06T21:22:36.680Z"
+    "added_at": "2026-07-06T21:22:36.680Z",
+    "removed_at": "2026-07-09T02:18:14.502Z",
+    "duration_minutes": 3175,
+    "duration_str": "2d 4h 55m"
   },
   {
     "title": "L'Espagne crucifie le Portugal à la 91e et se qualifie pour les quarts de finale",
@@ -100002,9 +100011,9 @@
   {
     "title": "Comment lutter contre l'inactivité physique? Interview de Bengt Kayser",
     "added_at": "2026-07-08T12:04:29.567Z",
-    "removed_at": "2026-07-09T01:02:42.037Z",
-    "duration_minutes": 778,
-    "duration_str": "12h 58m"
+    "removed_at": "2026-07-09T04:02:40.644Z",
+    "duration_minutes": 958,
+    "duration_str": "15h 58m"
   },
   {
     "title": "Une attaque fait plusieurs blessés dans un gymnase de Bavière",
@@ -100104,5 +100113,17 @@
   {
     "title": "Relations: comment bien se parler? (1/4)",
     "added_at": "2026-07-09T00:21:25.086Z"
+  },
+  {
+    "title": "Le bilan du double séisme au Venezuela dépasse les 3800 morts",
+    "added_at": "2026-07-09T02:25:32.734Z"
+  },
+  {
+    "title": "Faut-il limiter le temps de travail quotidien des médecins? Débat entre Pierre-Yves Maillard et Séverine Oppliger-Pasquali",
+    "added_at": "2026-07-09T04:02:40.644Z"
+  },
+  {
+    "title": "Une application mesure le rayonnement des antennes 5G et de votre téléphone",
+    "added_at": "2026-07-09T04:44:00.604Z"
   }
 ]
