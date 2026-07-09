@@ -95222,7 +95222,10 @@
   },
   {
     "title": "culture:::Dans «Mr Brown», la jeune Agatha Christie créait une pure et savoureuse héroïne des Années folles",
-    "added_at": "2026-07-08T09:32:52.488Z"
+    "added_at": "2026-07-08T09:32:52.488Z",
+    "removed_at": "2026-07-09T06:17:14.146Z",
+    "duration_minutes": 1244,
+    "duration_str": "20h 44m"
   },
   {
     "title": "monde:::«Je ne joue pas la montre»: la première journée de campagne du ticket «trumpien» Le Pen/Bardella",
@@ -95247,7 +95250,10 @@
   },
   {
     "title": "monde:::Le favori abandonne en rase campagne, c’est l’un des coups de théâtre des élections présidentielles en France",
-    "added_at": "2026-07-08T10:32:02.852Z"
+    "added_at": "2026-07-08T10:32:02.852Z",
+    "removed_at": "2026-07-09T05:09:07.991Z",
+    "duration_minutes": 1117,
+    "duration_str": "18h 37m"
   },
   {
     "title": "sport:::Johan Vonlanthen après Suisse-Colombie: «Les provocations font partie du charme des tirs au but»",
@@ -95297,7 +95303,10 @@
   },
   {
     "title": "culture:::Au Casino Théâtre, à Rolle, la saison flamboyante de deux sœurs de cœur",
-    "added_at": "2026-07-08T15:09:24.638Z"
+    "added_at": "2026-07-08T15:09:24.638Z",
+    "removed_at": "2026-07-09T06:36:43.093Z",
+    "duration_minutes": 927,
+    "duration_str": "15h 27m"
   },
   {
     "title": "cyber:::Avec «Assassin’s Creed Black Flag Resynced», Ubisoft fait du neuf avec du vieux pour reconquérir ses adeptes",
@@ -95308,11 +95317,17 @@
   },
   {
     "title": "cyber:::Brad Smith, président de Microsoft: «Nous voulons utiliser l’IA pour construire un monde meilleur. Jugez-nous sur nos actes»",
-    "added_at": "2026-07-08T16:12:51.293Z"
+    "added_at": "2026-07-08T16:12:51.293Z",
+    "removed_at": "2026-07-09T05:35:52.111Z",
+    "duration_minutes": 803,
+    "duration_str": "13h 23m"
   },
   {
     "title": "cyber:::Le conseiller fédéral Albert Rösti: «Il faut une régulation minimale de l’intelligence artificielle»",
-    "added_at": "2026-07-08T17:09:35.239Z"
+    "added_at": "2026-07-08T17:09:35.239Z",
+    "removed_at": "2026-07-09T06:12:24.227Z",
+    "duration_minutes": 782,
+    "duration_str": "13h 2m"
   },
   {
     "title": "monde:::L’apparente fin de la trêve avec l’Iran, une aubaine pour Benyamin Netanyahou en guerre contre la Cour suprême",
@@ -95324,7 +95339,10 @@
   },
   {
     "title": "monde:::«Je ne joue pas la montre»: la première journée de campagne du ticket «trumpien» Marine Le Pen-Jordan Bardella",
-    "added_at": "2026-07-08T18:22:51.648Z"
+    "added_at": "2026-07-08T18:22:51.648Z",
+    "removed_at": "2026-07-09T07:01:04.762Z",
+    "duration_minutes": 758,
+    "duration_str": "12h 38m"
   },
   {
     "title": "monde:::L’Ukraine pourra fabriquer des missiles Patriot",
@@ -95404,7 +95422,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L'escalade se poursuit, l'armée américaine a atteint quelque 90 «cibles militaires»",
-    "added_at": "2026-07-09T03:57:45.713Z"
+    "added_at": "2026-07-09T03:57:45.713Z",
+    "removed_at": "2026-07-09T07:25:24.390Z",
+    "duration_minutes": 207,
+    "duration_str": "3h 27m"
   },
   {
     "title": "economie:::Schaffhouse, champ de bataille de la contestation contre la construction de centres de données en Suisse",
@@ -95416,6 +95437,37 @@
   },
   {
     "title": "economie:::Une liaison aérienne Genève - Lugano pourrait être réactivée",
-    "added_at": "2026-07-09T04:39:12.008Z"
+    "added_at": "2026-07-09T04:39:12.008Z",
+    "removed_at": "2026-07-09T06:19:42.753Z",
+    "duration_minutes": 100,
+    "duration_str": "1h 40m"
+  },
+  {
+    "title": "monde:::Tuée après l’attentat raté de Monaco: une Ukrainienne victime de la méthode de «l’agent jetable»",
+    "added_at": "2026-07-09T05:09:07.991Z"
+  },
+  {
+    "title": "monde:::Le tour d’honneur d’Emmanuel Macron, une dernière «Grande Boucle» pour le président qui aura aimé le vélo comme ses prédécesseurs",
+    "added_at": "2026-07-09T05:35:52.111Z"
+  },
+  {
+    "title": "sport:::«Avec un Mbappé, c’est mort.» La nouvelle règle du hors-jeu testée dans le modeste championnat canadien",
+    "added_at": "2026-07-09T06:12:24.227Z"
+  },
+  {
+    "title": "economie:::Une liaison aérienne Genève-Lugano pourrait être réactivée",
+    "added_at": "2026-07-09T06:19:42.753Z"
+  },
+  {
+    "title": "suisse:::Au Tessin, la droite se déchire avant les élections de 2027",
+    "added_at": "2026-07-09T06:36:43.093Z"
+  },
+  {
+    "title": "economie:::La CGN et la LNM, deux fleurons si semblables et si différents, en quête de renouveau",
+    "added_at": "2026-07-09T07:01:04.762Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – En Iran, 14 personnes ont été tuées par les frappes américaines depuis mercredi, selon le ministère de la Santé",
+    "added_at": "2026-07-09T07:25:24.390Z"
   }
 ]
