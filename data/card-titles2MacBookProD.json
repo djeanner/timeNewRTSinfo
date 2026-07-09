@@ -95404,7 +95404,10 @@
   },
   {
     "title": "sport:::En direct, Coupe du monde 2026 – La France s'attaque  au Maroc, puissance montante du football international",
-    "added_at": "2026-07-08T22:04:22.097Z"
+    "added_at": "2026-07-08T22:04:22.097Z",
+    "removed_at": "2026-07-09T23:04:10.563Z",
+    "duration_minutes": 1499,
+    "duration_str": "1d 59m"
   },
   {
     "title": "monde:::Moyen-Orient – Le suivi du 8 juillet 2026",
@@ -95675,5 +95678,9 @@
   {
     "title": "monde:::Dans le Maine, la débâcle de Graham Platner met le feu au Parti démocrate",
     "added_at": "2026-07-09T20:39:48.665Z"
+  },
+  {
+    "title": "sport:::En direct, Coupe du monde 2026 – La France se qualifie pour les demi-finales en battant le Maroc 2-0",
+    "added_at": "2026-07-09T23:04:10.563Z"
   }
 ]
