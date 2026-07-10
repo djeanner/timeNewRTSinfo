@@ -100282,15 +100282,24 @@
   },
   {
     "title": "Non, il n'y aura pas de délai de tolérance pour acheter son billet après le départ du train",
-    "added_at": "2026-07-08T18:49:34.964Z"
+    "added_at": "2026-07-08T18:49:34.964Z",
+    "removed_at": "2026-07-10T19:53:23.543Z",
+    "duration_minutes": 2943,
+    "duration_str": "2d 1h 3m"
   },
   {
     "title": "Marine Le Pen lance sa campagne présidentielle un jour après la confirmation de sa condamnation",
-    "added_at": "2026-07-08T18:54:26.500Z"
+    "added_at": "2026-07-08T18:54:26.500Z",
+    "removed_at": "2026-07-10T19:16:34.677Z",
+    "duration_minutes": 2902,
+    "duration_str": "2d 22m"
   },
   {
     "title": "Amendes et dénonciations après les festivités nocturnes liées à la victoire suisse face à la Colombie",
-    "added_at": "2026-07-08T19:04:10.920Z"
+    "added_at": "2026-07-08T19:04:10.920Z",
+    "removed_at": "2026-07-10T19:23:56.889Z",
+    "duration_minutes": 2899,
+    "duration_str": "2d 19m"
   },
   {
     "title": "Une nouvelle tarification créée des divisions profondes au sein des physiothérapeutes",
@@ -100308,7 +100317,10 @@
   },
   {
     "title": "Une nouvelle tarification crée des divisions profondes au sein des physiothérapeutes",
-    "added_at": "2026-07-08T20:34:10.568Z"
+    "added_at": "2026-07-08T20:34:10.568Z",
+    "removed_at": "2026-07-10T19:11:37.833Z",
+    "duration_minutes": 2797,
+    "duration_str": "1d 22h 37m"
   },
   {
     "title": "L'armée américaine annonce de nouveaux bombardements contre l'Iran",
@@ -100319,11 +100331,17 @@
   },
   {
     "title": "Relations: comment bien se parler? (1/4)",
-    "added_at": "2026-07-09T00:21:25.086Z"
+    "added_at": "2026-07-09T00:21:25.086Z",
+    "removed_at": "2026-07-10T21:21:26.998Z",
+    "duration_minutes": 2700,
+    "duration_str": "1d 21h"
   },
   {
     "title": "Le bilan du double séisme au Venezuela dépasse les 3800 morts",
-    "added_at": "2026-07-09T02:25:32.734Z"
+    "added_at": "2026-07-09T02:25:32.734Z",
+    "removed_at": "2026-07-10T21:09:14.740Z",
+    "duration_minutes": 2563,
+    "duration_str": "1d 18h 43m"
   },
   {
     "title": "Faut-il limiter le temps de travail quotidien des médecins? Débat entre Pierre-Yves Maillard et Séverine Oppliger-Pasquali",
@@ -100372,7 +100390,10 @@
   },
   {
     "title": "Khatia Buniatishvili, une virtuose du piano au cœur des festivals d'été suisses",
-    "added_at": "2026-07-09T07:54:50.304Z"
+    "added_at": "2026-07-09T07:54:50.304Z",
+    "removed_at": "2026-07-10T20:37:23.774Z",
+    "duration_minutes": 2202,
+    "duration_str": "1d 12h 42m"
   },
   {
     "title": "L'invité de La Matinale - Raoul Savoy, entraîneur de football, sur le match Suisse-Colombie",
@@ -100757,6 +100778,41 @@
   },
   {
     "title": "Légende du ski, Roland Collombin est décédé",
-    "added_at": "2026-07-10T17:45:38.596Z"
+    "added_at": "2026-07-10T17:45:38.596Z",
+    "removed_at": "2026-07-10T20:52:05.108Z",
+    "duration_minutes": 186,
+    "duration_str": "3h 6m"
+  },
+  {
+    "title": "La taxe CO2 sur l'essence dépasse-t-elle le cadre légal?",
+    "added_at": "2026-07-10T19:11:37.833Z"
+  },
+  {
+    "title": "Inusables, The Rolling Stones reviennent sans grandes audaces rock avec 'Foreign Tongues' ★★★☆☆",
+    "added_at": "2026-07-10T19:16:34.677Z"
+  },
+  {
+    "title": "Le chanteur français Patrick Bruel visé par une nouvelle plainte pour viol",
+    "added_at": "2026-07-10T19:23:56.889Z"
+  },
+  {
+    "title": "Les primes au retour pour encourager les réfugiés à quitter le territoire divisent en Scandinavie",
+    "added_at": "2026-07-10T19:53:23.543Z"
+  },
+  {
+    "title": "La volonté de la Suisse d'une régulation \"minimale\" de l'IA divise au Parlement",
+    "added_at": "2026-07-10T20:37:23.774Z"
+  },
+  {
+    "title": "Légende du ski suisse, Roland Collombin est décédé",
+    "added_at": "2026-07-10T20:52:05.108Z"
+  },
+  {
+    "title": "L'Espagne sort difficilement la Belgique et défiera la France en demi-finales",
+    "added_at": "2026-07-10T21:09:14.740Z"
+  },
+  {
+    "title": "Mondial 2026: La Belgique affronte l'Espagne en quarts de finale",
+    "added_at": "2026-07-10T21:21:26.998Z"
   }
 ]
