@@ -99408,7 +99408,10 @@
   },
   {
     "title": "VIDEO: World Cup Preview: Morocco plays France in quarterfinal opener",
-    "added_at": "2026-07-09T11:56:28.545Z"
+    "added_at": "2026-07-09T11:56:28.545Z",
+    "removed_at": "2026-07-10T02:43:44.185Z",
+    "duration_minutes": 887,
+    "duration_str": "14h 47m"
   },
   {
     "title": "‘Shoot me, just let my son pass’: Final moments of Palestinian Ahmad Zaid",
@@ -99466,9 +99469,9 @@
   {
     "title": "England’s Quansah banned for two matches after red card against Mexico",
     "added_at": "2026-07-09T18:47:27.624Z",
-    "removed_at": "2026-07-10T02:16:42.024Z",
-    "duration_minutes": 449,
-    "duration_str": "7h 29m"
+    "removed_at": "2026-07-10T04:30:46.860Z",
+    "duration_minutes": 583,
+    "duration_str": "9h 43m"
   },
   {
     "title": "A quest for closure: In search of the missing after Venezuela’s earthquakes",
@@ -99492,5 +99495,9 @@
   {
     "title": "Gaza mourns aid worker killed by Israel who helped them see the World Cup",
     "added_at": "2026-07-10T01:47:28.671Z"
+  },
+  {
+    "title": "Mbappe and Dembele net as France beat Morocco to reach World Cup semifinal",
+    "added_at": "2026-07-10T04:30:46.860Z"
   }
 ]
