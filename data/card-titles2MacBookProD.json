@@ -95124,7 +95124,10 @@
   },
   {
     "title": "sport:::Aux tirs au but, la Suisse brise enfin son plafond de verre et défiera l’Argentine en quart de finale à Kansas City",
-    "added_at": "2026-07-07T23:23:54.541Z"
+    "added_at": "2026-07-07T23:23:54.541Z",
+    "removed_at": "2026-07-10T09:05:28.346Z",
+    "duration_minutes": 3461,
+    "duration_str": "2d 9h 41m"
   },
   {
     "title": "sport:::Arvid de Kleijn, le sprinter du Team Tudor: «Il faut chercher dans toute chose la part de lumière»",
@@ -95349,7 +95352,10 @@
   },
   {
     "title": "monde:::L’apparente fin de la trêve avec l’Iran, une aubaine pour Benyamin Netanyahou en guerre contre la Cour suprême",
-    "added_at": "2026-07-08T17:33:54.029Z"
+    "added_at": "2026-07-08T17:33:54.029Z",
+    "removed_at": "2026-07-10T10:06:32.323Z",
+    "duration_minutes": 2432,
+    "duration_str": "1d 16h 32m"
   },
   {
     "title": "monde:::A Ankara, d’abord «très en colère contre l’OTAN» puis «sentant l’amour dans la pièce», Donald Trump fait son show et impose la guerre en Iran au sommet",
@@ -95608,10 +95614,7 @@
   },
   {
     "title": "monde:::Le très gênant cadeau de Recep Tayyip Erdoğan aux dirigeants venus à Ankara pour le sommet de l’OTAN: un revolver et six balles",
-    "added_at": "2026-07-09T15:23:35.362Z",
-    "removed_at": "2026-07-10T06:43:45.752Z",
-    "duration_minutes": 920,
-    "duration_str": "15h 20m"
+    "added_at": "2026-07-09T15:23:35.362Z"
   },
   {
     "title": "culture:::A Aix, désaccord majeur entre les acteurs de l'écosystème musical et le ministère de la Culture, qui annonce de nouvelles coupes budgétaires",
@@ -95679,7 +95682,10 @@
   },
   {
     "title": "monde:::Ré-escalade en Iran: «La question du contrôle du détroit, qui n’existait pas avant la guerre, est devenue l’enjeu principal»",
-    "added_at": "2026-07-09T18:52:16.960Z"
+    "added_at": "2026-07-09T18:52:16.960Z",
+    "removed_at": "2026-07-10T10:06:32.323Z",
+    "duration_minutes": 914,
+    "duration_str": "15h 14m"
   },
   {
     "title": "cyber:::A Genève, le CICR et Microsoft lancent un emblème numérique pour parer des cyberattaques aux conséquences dévastatrices",
@@ -95701,10 +95707,7 @@
   },
   {
     "title": "monde:::Dans le Maine, la débâcle de Graham Platner met le feu au Parti démocrate",
-    "added_at": "2026-07-09T20:39:48.665Z",
-    "removed_at": "2026-07-10T06:43:45.752Z",
-    "duration_minutes": 603,
-    "duration_str": "10h 3m"
+    "added_at": "2026-07-09T20:39:48.665Z"
   },
   {
     "title": "sport:::En direct, Coupe du monde 2026 – La France se qualifie pour les demi-finales en battant le Maroc 2-0",
@@ -95754,6 +95757,39 @@
   },
   {
     "title": "economie:::L’introduction en bourse repoussée de KNDS, un révélateur des tensions qui traversent l’industrie de la défense européenne",
-    "added_at": "2026-07-10T06:43:45.752Z"
+    "added_at": "2026-07-10T06:43:45.752Z",
+    "removed_at": "2026-07-10T08:53:14.536Z",
+    "duration_minutes": 129,
+    "duration_str": "2h 9m"
+  },
+  {
+    "title": "monde:::Un feu de forêt près d'Almeria fait au moins 11 morts",
+    "added_at": "2026-07-10T08:53:14.536Z",
+    "removed_at": "2026-07-10T09:10:18.750Z",
+    "duration_minutes": 17,
+    "duration_str": "17m"
+  },
+  {
+    "title": "sciences:::«Il peut y en avoir jusqu’à 20 00 par mètre carré»: face à l’invasion des moules quagga, le difficile combat des Services industriels de Genève",
+    "added_at": "2026-07-10T09:05:28.346Z",
+    "removed_at": "2026-07-10T09:59:11.682Z",
+    "duration_minutes": 53,
+    "duration_str": "53m"
+  },
+  {
+    "title": "suisse:::La Cour européenne des droits de l’homme condamne la Suisse pour violation de la liberté d’expression du journal genevois «Le Courrier»",
+    "added_at": "2026-07-10T09:10:18.750Z"
+  },
+  {
+    "title": "monde:::Coups de théâtre présidentiels: quand le favori est arrêté à New York",
+    "added_at": "2026-07-10T09:24:55.151Z"
+  },
+  {
+    "title": "sciences:::«Il peut y en avoir jusqu’à 20 000 par mètre carré»: face à l’invasion des moules quagga, le difficile combat des Services industriels de Genève",
+    "added_at": "2026-07-10T09:59:11.682Z"
+  },
+  {
+    "title": "economie:::Bataille autour d’EasyJet: Apollo sort du bois et fait monter les enchères",
+    "added_at": "2026-07-10T10:06:32.323Z"
   }
 ]
