@@ -95709,7 +95709,10 @@
   },
   {
     "title": "monde:::Ré-escalade en Iran: «La question du contrôle du détroit, qui n’existait pas avant la guerre, est devenue l’enjeu principal»",
-    "added_at": "2026-07-09T18:52:16.960Z"
+    "added_at": "2026-07-09T18:52:16.960Z",
+    "removed_at": "2026-07-11T13:01:43.149Z",
+    "duration_minutes": 2529,
+    "duration_str": "1d 18h 9m"
   },
   {
     "title": "cyber:::A Genève, le CICR et Microsoft lancent un emblème numérique pour parer des cyberattaques aux conséquences dévastatrices",
@@ -95769,10 +95772,7 @@
   },
   {
     "title": "sciences:::La chaleur tue plus en Europe que les armes à feu aux Etats-Unis. La climatisation est-elle la solution?",
-    "added_at": "2026-07-10T04:16:15.473Z",
-    "removed_at": "2026-07-11T09:13:12.514Z",
-    "duration_minutes": 1736,
-    "duration_str": "1d 4h 56m"
+    "added_at": "2026-07-10T04:16:15.473Z"
   },
   {
     "title": "sciences:::L’air conditionné, le facteur de croissance économique «le plus sous-estimé»",
@@ -96009,7 +96009,10 @@
   },
   {
     "title": "suisse:::«C’est un lieu unique en Suisse, on doit se battre»: à Fribourg, la Tour Vagabonde cherche un nouvel élan",
-    "added_at": "2026-07-11T05:14:07.516Z"
+    "added_at": "2026-07-11T05:14:07.516Z",
+    "removed_at": "2026-07-11T12:59:15.195Z",
+    "duration_minutes": 465,
+    "duration_str": "7h 45m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump menace de «décimer et détruire complètement» l’Iran s’il tente de l’assassiner",
@@ -96075,11 +96078,17 @@
   },
   {
     "title": "monde:::En 2017, Emmanuel Macron signe le hold-up du siècle",
-    "added_at": "2026-07-11T09:27:52.302Z"
+    "added_at": "2026-07-11T09:27:52.302Z",
+    "removed_at": "2026-07-11T15:04:03.409Z",
+    "duration_minutes": 336,
+    "duration_str": "5h 36m"
   },
   {
     "title": "sport:::En direct, Coupe du monde 2026 – «Allez la Suisse»: Martin Pfister va assister au quart de finale contre l'Argentine",
-    "added_at": "2026-07-11T09:44:56.495Z"
+    "added_at": "2026-07-11T09:44:56.495Z",
+    "removed_at": "2026-07-11T15:28:29.004Z",
+    "duration_minutes": 343,
+    "duration_str": "5h 43m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Entre Téhéran et Washington, les médiateurs reprennent leurs efforts après les frappes",
@@ -96095,5 +96104,21 @@
   {
     "title": "suisse:::Blanchiment d’argent: la prescription sauve la banque Cramer & Cie des poursuites pour avoir hébergé des pots-de-vin venus du Brésil",
     "added_at": "2026-07-11T12:02:50.415Z"
+  },
+  {
+    "title": "culture:::«Fragile beauté» au Jeu de Paume, un passionnant voyage au cœur de la stupéfiante collection photo d’Elton John",
+    "added_at": "2026-07-11T12:59:15.195Z"
+  },
+  {
+    "title": "monde:::«Allez à l’église et sonnez les cloches»: la fuite terrifiante face aux flammes en Espagne",
+    "added_at": "2026-07-11T13:01:43.149Z"
+  },
+  {
+    "title": "culture:::«J’ai accepté le fait que ce projet soit lent, et que je ne verrai peut-être pas sa conclusion de mon vivant»: La bibliothèque (toujours) fantôme d’Alberto Manguel",
+    "added_at": "2026-07-11T15:04:03.409Z"
+  },
+  {
+    "title": "sport:::En direct, Coupe du monde 2026 – Jayden Adams, milieu de terrain titulaire avec l'Afrique du Sud lors de la phase de poules, retrouvé mort",
+    "added_at": "2026-07-11T15:28:29.004Z"
   }
 ]

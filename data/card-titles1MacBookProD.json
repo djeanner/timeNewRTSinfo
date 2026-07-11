@@ -100429,7 +100429,10 @@
   },
   {
     "title": "Comment la Suisse contribue à surveiller la météo spatiale depuis l'espace",
-    "added_at": "2026-07-09T09:05:23.596Z"
+    "added_at": "2026-07-09T09:05:23.596Z",
+    "removed_at": "2026-07-11T14:42:02.191Z",
+    "duration_minutes": 3216,
+    "duration_str": "2d 5h 36m"
   },
   {
     "title": "Yverdon surveille ses températures pour mieux combattre les îlots de chaleur",
@@ -100472,7 +100475,10 @@
   },
   {
     "title": "Un nouveau recours attaque l'interdiction des signes religieux pour les élus genevois",
-    "added_at": "2026-07-09T11:07:46.857Z"
+    "added_at": "2026-07-09T11:07:46.857Z",
+    "removed_at": "2026-07-11T13:09:04.554Z",
+    "duration_minutes": 3001,
+    "duration_str": "2d 2h 1m"
   },
   {
     "title": "L'Europe occidentale vient de vivre son mois de juin le plus chaud depuis 1850",
@@ -100526,11 +100532,17 @@
   },
   {
     "title": "Une majorité de la population s'inquiète des PFAS, mais la Suisse reste mal informée",
-    "added_at": "2026-07-09T13:51:04.843Z"
+    "added_at": "2026-07-09T13:51:04.843Z",
+    "removed_at": "2026-07-11T14:56:42.769Z",
+    "duration_minutes": 2945,
+    "duration_str": "2d 1h 5m"
   },
   {
     "title": "La Suisse inaugure un nouveau bureau pour accompagner la reconstruction de la Syrie",
-    "added_at": "2026-07-09T14:00:49.850Z"
+    "added_at": "2026-07-09T14:00:49.850Z",
+    "removed_at": "2026-07-11T13:21:17.640Z",
+    "duration_minutes": 2840,
+    "duration_str": "1d 23h 20m"
   },
   {
     "title": "\"L'IA a déjà ses propres objectifs\", alerte Yoshua Bengio",
@@ -100926,5 +100938,25 @@
   {
     "title": "L'Iran vu de l'intérieur: espoirs, vie chère et libertés",
     "added_at": "2026-07-11T12:24:50.534Z"
+  },
+  {
+    "title": "En Irak, Washington pousse au désarmement des factions chiites pro-Iran",
+    "added_at": "2026-07-11T13:09:04.554Z"
+  },
+  {
+    "title": "La Suisse s'approche du degré maximal de danger d'incendie, la Savoie s'embrase",
+    "added_at": "2026-07-11T13:21:17.640Z"
+  },
+  {
+    "title": "Drones et colliers connectés: la révolution numérique va-t-elle bientôt déferler sur les alpages suisses?",
+    "added_at": "2026-07-11T14:42:02.191Z"
+  },
+  {
+    "title": "La Suisse n'a parlé que des \"coûts\" et des \"volets négatifs\" du G7, critique une ministre française",
+    "added_at": "2026-07-11T14:56:42.769Z"
+  },
+  {
+    "title": "Une compétition de caisses à savon se déroule ce week-end sur la Côte vaudoise",
+    "added_at": "2026-07-11T14:56:42.769Z"
   }
 ]
