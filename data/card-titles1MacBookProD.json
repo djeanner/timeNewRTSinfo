@@ -100678,7 +100678,10 @@
   },
   {
     "title": "Les locataires peuvent-ils demander une baisse de loyer en cas de logement surchauffé?",
-    "added_at": "2026-07-10T04:38:04.802Z"
+    "added_at": "2026-07-10T04:38:04.802Z",
+    "removed_at": "2026-07-12T16:22:38.152Z",
+    "duration_minutes": 3584,
+    "duration_str": "2d 11h 44m"
   },
   {
     "title": "Le CICR lance un projet d'emblème digital contre les cyberattaques",
@@ -100768,7 +100771,10 @@
   },
   {
     "title": "La communication, clé de la consultation gynécologique non-intrusive",
-    "added_at": "2026-07-10T11:57:33.636Z"
+    "added_at": "2026-07-10T11:57:33.636Z",
+    "removed_at": "2026-07-12T17:38:50.399Z",
+    "duration_minutes": 3221,
+    "duration_str": "2d 5h 41m"
   },
   {
     "title": "Polémique dans le Jura autour du voyage du gouvernement in corpore à Paris",
@@ -100899,9 +100905,9 @@
   {
     "title": "L'invitée de La Matinale - Jasmin Lienert, directrice du Groupe d'Intervention Médicale en Montagne",
     "added_at": "2026-07-10T17:28:33.815Z",
-    "removed_at": "2026-07-12T16:02:56.432Z",
-    "duration_minutes": 2794,
-    "duration_str": "1d 22h 34m"
+    "removed_at": "2026-07-12T17:04:11.773Z",
+    "duration_minutes": 2855,
+    "duration_str": "1d 23h 35m"
   },
   {
     "title": "Les locataires peuvent-ils demander une baisse de loyer en cas de logement surchauffé? Interview de John-David Burdet",
@@ -101323,5 +101329,9 @@
   {
     "title": "Marilyn, Einstein et l'IA: le pactole post-mortem des stars",
     "added_at": "2026-07-12T16:02:56.432Z"
+  },
+  {
+    "title": "Cervin, mortelle ascension pour les alpinistes amateurs",
+    "added_at": "2026-07-12T17:38:50.399Z"
   }
 ]
