@@ -96211,7 +96211,10 @@
   },
   {
     "title": "sport:::La vie après la glissade du Grand Prix de Gippingen: Liam Slock rebondit en attaquant du Tour de France",
-    "added_at": "2026-07-11T18:35:07.104Z"
+    "added_at": "2026-07-11T18:35:07.104Z",
+    "removed_at": "2026-07-12T12:47:09.728Z",
+    "duration_minutes": 1092,
+    "duration_str": "18h 12m"
   },
   {
     "title": "culture:::Le NIFFF consacre «Hen», un âpre film sud-africain en milieu aride et hostile",
@@ -96297,7 +96300,10 @@
   },
   {
     "title": "sport:::Mondial 2026: une Suisse admirable et un peu naïve tombe en quart de finale face à l'Argentine",
-    "added_at": "2026-07-12T04:20:18.967Z"
+    "added_at": "2026-07-12T04:20:18.967Z",
+    "removed_at": "2026-07-12T12:49:39.497Z",
+    "duration_minutes": 509,
+    "duration_str": "8h 29m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Américains et Iraniens reprennent les hostilités après l’attaque d’un navire dans le détroit d’Ormuz",
@@ -96320,10 +96326,32 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Après la reprise des hostilités avec les Etats-Unis, le principal négociateur iranien prévient que «l'ère des accords unilatéraux est révolue»",
-    "added_at": "2026-07-12T09:38:30.995Z"
+    "added_at": "2026-07-12T09:38:30.995Z",
+    "removed_at": "2026-07-12T13:04:20.751Z",
+    "duration_minutes": 205,
+    "duration_str": "3h 25m"
   },
   {
     "title": "culture:::«L’art ne peut pas changer le monde, mais il peut vous montrer un monde différent»: Alfredo Jaar, architecte de nos enfers et de nos paradis",
-    "added_at": "2026-07-12T09:50:42.689Z"
+    "added_at": "2026-07-12T09:50:42.689Z",
+    "removed_at": "2026-07-12T11:55:50.982Z",
+    "duration_minutes": 125,
+    "duration_str": "2h 5m"
+  },
+  {
+    "title": "culture:::«Kraken» nous plonge dans les tentacules des fjords",
+    "added_at": "2026-07-12T11:55:50.982Z"
+  },
+  {
+    "title": "monde:::En Albanie, le premier ministre et la Trump Organization font face au défi de la «révolution des flamants roses»",
+    "added_at": "2026-07-12T12:47:09.728Z"
+  },
+  {
+    "title": "sport:::Mondial 2026: une Suisse admirable et un peu naïve tombe en quart de finale face à l’Argentine",
+    "added_at": "2026-07-12T12:49:39.497Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Après des frappes iraniennes, l'armée américaine se dit prête à garantir «la liberté de navigation» dans le détroit d'Ormuz",
+    "added_at": "2026-07-12T13:04:20.751Z"
   }
 ]
