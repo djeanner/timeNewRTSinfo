@@ -95928,7 +95928,10 @@
   },
   {
     "title": "culture:::Joseph Farine, le cœur vibrant d’Andata Ritorno a cessé de battre",
-    "added_at": "2026-07-10T14:56:21.102Z"
+    "added_at": "2026-07-10T14:56:21.102Z",
+    "removed_at": "2026-07-12T04:49:37.924Z",
+    "duration_minutes": 2273,
+    "duration_str": "1d 13h 53m"
   },
   {
     "title": "suisse:::Monica Bonfanti, vingt ans à la tête de la police genevoise: «Il ne faut jamais avoir peur de donner son avis et de dire la vérité. Quitte à s’attirer les foudres»",
@@ -96117,7 +96120,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le guide suprême iranien Mojtaba Khamenei jure de venger la mort de son père",
-    "added_at": "2026-07-11T11:35:58.268Z"
+    "added_at": "2026-07-11T11:35:58.268Z",
+    "removed_at": "2026-07-12T04:44:46.862Z",
+    "duration_minutes": 1028,
+    "duration_str": "17h 8m"
   },
   {
     "title": "suisse:::Blanchiment d’argent: la prescription sauve la banque Cramer & Cie des poursuites pour avoir hébergé des pots-de-vin venus du Brésil",
@@ -96186,7 +96192,10 @@
   },
   {
     "title": "sport:::À Kansas City, la ferveur monte au sein de la communauté suisse à quelques heures du quart de finale contre l’Argentine",
-    "added_at": "2026-07-11T18:08:02.962Z"
+    "added_at": "2026-07-11T18:08:02.962Z",
+    "removed_at": "2026-07-12T04:15:28.210Z",
+    "duration_minutes": 607,
+    "duration_str": "10h 7m"
   },
   {
     "title": "sport:::La vie après la glissade du Grand Prix de Gippingen: Liam Slock rebondit en attaquant du Tour de France",
@@ -96216,6 +96225,70 @@
   },
   {
     "title": "sport:::En direct, Coupe du monde 2026 – 1-0 à la mi-temps: la Suisse doit réagir contre l'Argentine",
-    "added_at": "2026-07-12T01:53:33.485Z"
+    "added_at": "2026-07-12T01:53:33.485Z",
+    "removed_at": "2026-07-12T02:30:25.065Z",
+    "duration_minutes": 36,
+    "duration_str": "36m"
+  },
+  {
+    "title": "sport:::En direct, Coupe du monde 2026 – Egalisation de la Suisse! 1-1 entre la Suisse et l'Argentine après un but de Dan Ndoye",
+    "added_at": "2026-07-12T02:30:25.065Z",
+    "removed_at": "2026-07-12T02:42:36.876Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "sport:::En direct, Coupe du monde 2026 – Breel Embolo expulsé, la Suisse à dix contre l'Argentine, mais c'est toujours 1-1",
+    "added_at": "2026-07-12T02:42:36.876Z",
+    "removed_at": "2026-07-12T03:04:37.728Z",
+    "duration_minutes": 22,
+    "duration_str": "22m"
+  },
+  {
+    "title": "sport:::En direct, Coupe du monde 2026 – La Suisse à dix contre onze pour des prolongations qui s'annoncent suffocantes contre l'Argentine",
+    "added_at": "2026-07-12T03:04:37.728Z",
+    "removed_at": "2026-07-12T03:29:01.734Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "sport:::En direct, Coupe du monde 2026 – Toujours 1-1 entre une Suisse à dix et l'Argentine alors qu'on aborde la deuxième période de prolongation",
+    "added_at": "2026-07-12T03:29:01.734Z",
+    "removed_at": "2026-07-12T03:36:21.779Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "sport:::En direct, Coupe du monde 2026 – Julian Alvarez marque le 2-1 pour l'Argentine et noie la Suisse dans un océan de tristesse",
+    "added_at": "2026-07-12T03:36:21.779Z",
+    "removed_at": "2026-07-12T03:46:08.158Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "sport:::En direct, Coupe du monde 2026 – Le jour se lève et un rêve s'envole: battue 3-1 par l'Argentine, l'équipe de Suisse est éliminée aux portes des demi-finales",
+    "added_at": "2026-07-12T03:46:08.158Z",
+    "removed_at": "2026-07-12T04:17:51.544Z",
+    "duration_minutes": 31,
+    "duration_str": "31m"
+  },
+  {
+    "title": "sport:::Une Suisse admirable et un peu naïve tombe en quart de finale face à l'Argentine",
+    "added_at": "2026-07-12T04:15:28.210Z",
+    "removed_at": "2026-07-12T04:20:18.967Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "sport:::En direct, Coupe du monde 2026 – Le jour se lève et un rêve s'envole: relisez notre suivi en continu de l'élimination de la Suisse contre l'Argentine",
+    "added_at": "2026-07-12T04:17:51.544Z"
+  },
+  {
+    "title": "sport:::Mondial 2026: une Suisse admirable et un peu naïve tombe en quart de finale face à l'Argentine",
+    "added_at": "2026-07-12T04:20:18.967Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Américains et Iraniens reprennent les hostilités après l’attaque d’un navire dans le détroit d’Ormuz",
+    "added_at": "2026-07-12T04:44:46.862Z"
   }
 ]
