@@ -95885,7 +95885,10 @@
   },
   {
     "title": "sport:::Une nuit pour l’Histoire: où vivre le quart de finale Argentine-Suisse, dimanche à 3 heures?",
-    "added_at": "2026-07-10T12:34:16.647Z"
+    "added_at": "2026-07-10T12:34:16.647Z",
+    "removed_at": "2026-07-13T19:08:42.792Z",
+    "duration_minutes": 4714,
+    "duration_str": "3d 6h 34m"
   },
   {
     "title": "suisse:::La Suisse alémanique s’assèche, les restrictions d’eau se multiplient et la pluie se fait toujours attendre",
@@ -95917,7 +95920,10 @@
   },
   {
     "title": "sciences:::Observer les plantes alpines, championnes de l’adaptation au climat jusqu’à un certain point",
-    "added_at": "2026-07-10T14:29:26.108Z"
+    "added_at": "2026-07-10T14:29:26.108Z",
+    "removed_at": "2026-07-13T17:45:38.314Z",
+    "duration_minutes": 4516,
+    "duration_str": "3d 3h 16m"
   },
   {
     "title": "sciences:::«Certaines professions sont beaucoup plus exposées au cancer de la peau»",
@@ -96422,7 +96428,10 @@
   },
   {
     "title": "monde:::«Aujourd’hui, dans l’Arctique, tout est devenu une question de sécurité»",
-    "added_at": "2026-07-12T15:23:45.465Z"
+    "added_at": "2026-07-12T15:23:45.465Z",
+    "removed_at": "2026-07-13T17:33:17.674Z",
+    "duration_minutes": 1569,
+    "duration_str": "1d 2h 9m"
   },
   {
     "title": "economie:::Marchés privés en question: investir dans le monde de demain avec de nouveaux indices",
@@ -96605,9 +96614,9 @@
   {
     "title": "culture:::Sam Neill, disparition d’un acteur discret, inoubliable paléontologue émerveillé de «Jurassic Park»",
     "added_at": "2026-07-13T09:54:33.921Z",
-    "removed_at": "2026-07-13T16:43:56.334Z",
-    "duration_minutes": 409,
-    "duration_str": "6h 49m"
+    "removed_at": "2026-07-13T18:14:58.073Z",
+    "duration_minutes": 500,
+    "duration_str": "8h 20m"
   },
   {
     "title": "cyber:::Apple attaque OpenAI en justice, accusant l'éditeur de ChatGPT de lui avoir volé des secrets industriels",
@@ -96683,5 +96692,28 @@
   {
     "title": "monde:::Interdire l’accès des jeunes aux réseaux sociaux pour mieux les protéger: et si l’UE instaurait un minimum légal?",
     "added_at": "2026-07-13T16:43:56.334Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – La Grande-Bretagne va participer au prêt de 90 milliards de l’UE à l’Ukraine",
+    "added_at": "2026-07-13T17:33:17.674Z",
+    "removed_at": "2026-07-13T19:06:15.310Z",
+    "duration_minutes": 92,
+    "duration_str": "1h 32m"
+  },
+  {
+    "title": "sciences:::Comment la guerre en Ukraine a transformé la Pologne en puissance spatiale émergente",
+    "added_at": "2026-07-13T17:45:38.314Z"
+  },
+  {
+    "title": "suisse:::«J’aime lancer des piques»: comment Christian Lüscher a quitté Berne sans tourner le dos à la politique",
+    "added_at": "2026-07-13T18:14:58.073Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Les Européens amplifient leur aide à l'Ukraine, la Russie dénonce une coalition de «va-t-en guerre»",
+    "added_at": "2026-07-13T19:06:15.310Z"
+  },
+  {
+    "title": "sport:::Pendant la Coupe du monde 2018, quand Moscou était une fête cosmopolite",
+    "added_at": "2026-07-13T19:11:12.479Z"
   }
 ]
