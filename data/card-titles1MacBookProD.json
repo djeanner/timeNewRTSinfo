@@ -100331,7 +100331,10 @@
   },
   {
     "title": "Relations: comment bien se parler? (1/4)",
-    "added_at": "2026-07-09T00:21:25.086Z"
+    "added_at": "2026-07-09T00:21:25.086Z",
+    "removed_at": "2026-07-13T07:03:22.451Z",
+    "duration_minutes": 6161,
+    "duration_str": "4d 6h 41m"
   },
   {
     "title": "Le bilan du double séisme au Venezuela dépasse les 3800 morts",
@@ -100342,10 +100345,7 @@
   },
   {
     "title": "Faut-il limiter le temps de travail quotidien des médecins? Débat entre Pierre-Yves Maillard et Séverine Oppliger-Pasquali",
-    "added_at": "2026-07-09T04:02:40.644Z",
-    "removed_at": "2026-07-10T23:01:51.573Z",
-    "duration_minutes": 2579,
-    "duration_str": "1d 18h 59m"
+    "added_at": "2026-07-09T04:02:40.644Z"
   },
   {
     "title": "Une application mesure le rayonnement des antennes 5G et de votre téléphone",
@@ -100714,9 +100714,9 @@
   {
     "title": "Le mois de juin a été le plus chaud en Europe depuis 1850",
     "added_at": "2026-07-10T08:23:58.766Z",
-    "removed_at": "2026-07-12T15:04:14.020Z",
-    "duration_minutes": 3280,
-    "duration_str": "2d 6h 40m"
+    "removed_at": "2026-07-13T08:19:03.561Z",
+    "duration_minutes": 4315,
+    "duration_str": "2d 23h 55m"
   },
   {
     "title": "Une procureure enquêtant sur l'incendie du Constellation a donné sa démission",
@@ -100801,7 +100801,10 @@
   },
   {
     "title": "La \"Chaude Bataille de Lausanne\", ce quart de finale mythique perdu par la Suisse en 1954",
-    "added_at": "2026-07-10T12:34:16.568Z"
+    "added_at": "2026-07-10T12:34:16.568Z",
+    "removed_at": "2026-07-13T07:47:17.848Z",
+    "duration_minutes": 4033,
+    "duration_str": "2d 19h 13m"
   },
   {
     "title": "Le Festival de Locarno dévoilera plus de cent premières mondiales lors de sa 79e édition",
@@ -100872,7 +100875,10 @@
   },
   {
     "title": "A Téhéran, \"on peut tout trouver, mais les prix ne redescendent pas\"",
-    "added_at": "2026-07-10T15:15:55.740Z"
+    "added_at": "2026-07-10T15:15:55.740Z",
+    "removed_at": "2026-07-13T06:48:43.090Z",
+    "duration_minutes": 3812,
+    "duration_str": "2d 15h 32m"
   },
   {
     "title": "Comment bien vivre avec les autres?",
@@ -100934,7 +100940,10 @@
   },
   {
     "title": "L'invitée de La Matinale - Jasmin Lienert, directrice du Groupe d'Intervention Médicale en Montagne",
-    "added_at": "2026-07-10T17:28:33.815Z"
+    "added_at": "2026-07-10T17:28:33.815Z",
+    "removed_at": "2026-07-13T08:23:56.086Z",
+    "duration_minutes": 3775,
+    "duration_str": "2d 14h 55m"
   },
   {
     "title": "Les locataires peuvent-ils demander une baisse de loyer en cas de logement surchauffé? Interview de John-David Burdet",
@@ -101371,7 +101380,10 @@
   },
   {
     "title": "Cervin, mortelle ascension pour les alpinistes amateurs",
-    "added_at": "2026-07-12T17:38:50.399Z"
+    "added_at": "2026-07-12T17:38:50.399Z",
+    "removed_at": "2026-07-13T07:27:47.109Z",
+    "duration_minutes": 828,
+    "duration_str": "13h 48m"
   },
   {
     "title": "Jannik Sinner sacré après sa victoire contre Alexander Zverev",
@@ -101411,9 +101423,9 @@
   {
     "title": "Une conférence d'extrême droite annulée à La Chaux-sur-Cossonay (VD)",
     "added_at": "2026-07-12T22:03:14.748Z",
-    "removed_at": "2026-07-13T05:19:14.530Z",
-    "duration_minutes": 435,
-    "duration_str": "7h 15m"
+    "removed_at": "2026-07-13T07:27:47.109Z",
+    "duration_minutes": 564,
+    "duration_str": "9h 24m"
   },
   {
     "title": "Sortie de piste pour Breel Embolo et l’équipe de Suisse: débat entre Bernard Challandes, Sébastien Pache et Bernardin Allemann",
@@ -101434,5 +101446,17 @@
   {
     "title": "La canicule affecte aussi les animaux: reportage à la SVPA",
     "added_at": "2026-07-13T05:19:14.530Z"
+  },
+  {
+    "title": "Sam Neill, célèbre pour son rôle dans Jurassic Park, est mort à 78 ans",
+    "added_at": "2026-07-13T06:48:43.090Z"
+  },
+  {
+    "title": "Le Cervin, mortelle ascension pour les alpinistes amateurs",
+    "added_at": "2026-07-13T07:25:23.858Z"
+  },
+  {
+    "title": "Les mini-ventilateurs portables cartonnent cet été, mais leur qualité laisse souvent à désirer",
+    "added_at": "2026-07-13T07:47:17.848Z"
   }
 ]
