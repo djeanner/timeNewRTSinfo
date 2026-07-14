@@ -101527,11 +101527,17 @@
   },
   {
     "title": "Victime de douleurs chroniques aux pieds, une Vaudoise gravit un sommet de 3000 mètres",
-    "added_at": "2026-07-12T14:25:06.021Z"
+    "added_at": "2026-07-12T14:25:06.021Z",
+    "removed_at": "2026-07-14T20:16:03.270Z",
+    "duration_minutes": 3230,
+    "duration_str": "2d 5h 50m"
   },
   {
     "title": "Comment le groupe Deep Purple a composé son tube légendaire 'Smoke on the Water' à Montreux",
-    "added_at": "2026-07-12T15:50:39.340Z"
+    "added_at": "2026-07-12T15:50:39.340Z",
+    "removed_at": "2026-07-14T21:05:08.777Z",
+    "duration_minutes": 3194,
+    "duration_str": "2d 5h 14m"
   },
   {
     "title": "Marilyn, Einstein et l'IA: le pactole post-mortem des stars",
@@ -101616,7 +101622,10 @@
   },
   {
     "title": "La canicule affecte aussi les animaux: reportage à la SVPA",
-    "added_at": "2026-07-13T05:19:14.530Z"
+    "added_at": "2026-07-13T05:19:14.530Z",
+    "removed_at": "2026-07-14T21:05:08.777Z",
+    "duration_minutes": 2385,
+    "duration_str": "1d 15h 45m"
   },
   {
     "title": "Sam Neill, célèbre pour son rôle dans Jurassic Park, est mort à 78 ans",
@@ -101994,6 +102003,28 @@
   },
   {
     "title": "L'acteur Sam Neill, star de Jurassic Park, est décédé à l'âge de 78 ans",
-    "added_at": "2026-07-14T20:03:41.518Z"
+    "added_at": "2026-07-14T20:03:41.518Z",
+    "removed_at": "2026-07-14T20:23:25.347Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
+  },
+  {
+    "title": "Le Léman n'a jamais été aussi chaud, pour le plus grand malheur des poissons",
+    "added_at": "2026-07-14T20:16:03.270Z"
+  },
+  {
+    "title": "L'Espagne maîtrise son sujet en battant la France 2-0 et se qualifie pour la finale",
+    "added_at": "2026-07-14T21:05:08.777Z"
+  },
+  {
+    "title": "En France, l’incendie de la forêt de Fontainebleau a détruit plus de 800 hectares et n’est toujours pas maîtrisé",
+    "added_at": "2026-07-14T21:05:08.777Z",
+    "removed_at": "2026-07-14T21:24:40.689Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
+  },
+  {
+    "title": "Coupe du monde 2026 : la première demi-finale dans le stade de Dallas",
+    "added_at": "2026-07-14T21:24:40.689Z"
   }
 ]
