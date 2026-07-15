@@ -100108,7 +100108,10 @@
   },
   {
     "title": "Cuba’s power grid collapses again, triggering third blackout in 10 days",
-    "added_at": "2026-07-14T20:23:26.199Z"
+    "added_at": "2026-07-14T20:23:26.199Z",
+    "removed_at": "2026-07-15T11:47:50.449Z",
+    "duration_minutes": 924,
+    "duration_str": "15h 24m"
   },
   {
     "title": "Leading Houthi threatens ‘siege’ on Saudi Arabia after Yemen airport attack",
@@ -100162,7 +100165,10 @@
   },
   {
     "title": "Palestine weekly: Israel attacks children, hospitals in bloody week in Gaza",
-    "added_at": "2026-07-15T07:16:12.343Z"
+    "added_at": "2026-07-15T07:16:12.343Z",
+    "removed_at": "2026-07-15T11:40:30.056Z",
+    "duration_minutes": 264,
+    "duration_str": "4h 24m"
   },
   {
     "title": "Photos: France fireworks fade as Spain march into World Cup final",
@@ -100177,6 +100183,35 @@
   },
   {
     "title": "Photos: Spain ends Mbappe and France’s World Cup dream to reach final",
-    "added_at": "2026-07-15T09:01:19.553Z"
+    "added_at": "2026-07-15T09:01:19.553Z",
+    "removed_at": "2026-07-15T10:19:52.802Z",
+    "duration_minutes": 78,
+    "duration_str": "1h 18m"
+  },
+  {
+    "title": "‘Football is for everyone’: Djed Spence and the Three Lions’ Muslim moment",
+    "added_at": "2026-07-15T10:19:52.802Z",
+    "removed_at": "2026-07-15T10:22:22.363Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "World Cup Day 35: Mbappe’s World Cup dream ends, England vs Argentina next",
+    "added_at": "2026-07-15T10:22:22.363Z",
+    "removed_at": "2026-07-15T12:07:50.208Z",
+    "duration_minutes": 105,
+    "duration_str": "1h 45m"
+  },
+  {
+    "title": "How the failed 2016 coup reshaped Turkiye’s civil-military relations",
+    "added_at": "2026-07-15T11:40:30.056Z"
+  },
+  {
+    "title": "‘Cycle of chaos’: Israel killing Gaza civil officials to derail its future",
+    "added_at": "2026-07-15T11:47:50.449Z"
+  },
+  {
+    "title": "FIFA World Cup: England vs Argentina prediction, schedule, road to final",
+    "added_at": "2026-07-15T12:07:50.208Z"
   }
 ]
