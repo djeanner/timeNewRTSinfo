@@ -101409,7 +101409,10 @@
   },
   {
     "title": "La Suisse plie en prolongations face à l'Argentine (3-1) et s'arrête en quarts",
-    "added_at": "2026-07-12T03:48:37.298Z"
+    "added_at": "2026-07-12T03:48:37.298Z",
+    "removed_at": "2026-07-15T02:39:00.874Z",
+    "duration_minutes": 4250,
+    "duration_str": "2d 22h 50m"
   },
   {
     "title": "Les fans suisses abasourdis par la cruelle défaite de la Suisse contre l'Argentine",
@@ -101466,7 +101469,10 @@
   },
   {
     "title": "Les bourdons sont plus intelligents qu'on ne le pensait",
-    "added_at": "2026-07-12T09:11:33.791Z"
+    "added_at": "2026-07-12T09:11:33.791Z",
+    "removed_at": "2026-07-15T04:02:07.200Z",
+    "duration_minutes": 4010,
+    "duration_str": "2d 18h 50m"
   },
   {
     "title": "Comment le Web, une invention genevoise, a conquis le monde face à Archi, WAIS et Gopher",
@@ -102026,5 +102032,9 @@
   {
     "title": "Coupe du monde 2026 : la première demi-finale dans le stade de Dallas",
     "added_at": "2026-07-14T21:24:40.689Z"
+  },
+  {
+    "title": "Un demi-million d'enfants en Europe ne sont pas du tout vaccinés",
+    "added_at": "2026-07-15T02:39:00.874Z"
   }
 ]

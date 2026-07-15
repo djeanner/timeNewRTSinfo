@@ -96910,7 +96910,10 @@
   },
   {
     "title": "sport:::En direct, Coupe du monde 2026 – L'équipe de Suisse a été accueillie à Zurich par ses supporters",
-    "added_at": "2026-07-14T12:05:25.618Z"
+    "added_at": "2026-07-14T12:05:25.618Z",
+    "removed_at": "2026-07-15T03:05:56.541Z",
+    "duration_minutes": 900,
+    "duration_str": "15h"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis poursuivent leurs bombardements contre l'Iran et réinstaurent un blocus maritime",
@@ -97019,7 +97022,10 @@
   },
   {
     "title": "monde:::A Vichy, le Tour de France entre le douloureux passé de la collaboration et la nouvelle image de la ville",
-    "added_at": "2026-07-14T18:40:12.784Z"
+    "added_at": "2026-07-14T18:40:12.784Z",
+    "removed_at": "2026-07-15T04:04:30.744Z",
+    "duration_minutes": 564,
+    "duration_str": "9h 24m"
   },
   {
     "title": "monde:::Le cabillaud russe sème la zizanie au sein des capitales européennes",
@@ -97035,14 +97041,43 @@
   },
   {
     "title": "monde:::Aux Etats-Unis, Graham est mort, vive Graham!",
-    "added_at": "2026-07-14T19:36:36.717Z"
+    "added_at": "2026-07-14T19:36:36.717Z",
+    "removed_at": "2026-07-15T04:11:51.128Z",
+    "duration_minutes": 515,
+    "duration_str": "8h 35m"
   },
   {
     "title": "monde:::Moyen-Orient – Notre suivi du 14 juillet 2026",
-    "added_at": "2026-07-14T22:38:01.681Z"
+    "added_at": "2026-07-14T22:38:01.681Z",
+    "removed_at": "2026-07-15T03:47:27.325Z",
+    "duration_minutes": 309,
+    "duration_str": "5h 9m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump menace de frapper des centrales électriques en Iran",
-    "added_at": "2026-07-14T22:55:21.283Z"
+    "added_at": "2026-07-14T22:55:21.283Z",
+    "removed_at": "2026-07-15T03:37:38.702Z",
+    "duration_minutes": 282,
+    "duration_str": "4h 42m"
+  },
+  {
+    "title": "sport:::En direct, Coupe du monde 2026 – L'Espagne enterre les rêves français en demi-finale, l'équipe de Suisse accueillie à Zurich par ses supporters",
+    "added_at": "2026-07-15T03:05:56.541Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Quatrième nuit de frappes américaines consécutive, Téhéran riposte",
+    "added_at": "2026-07-15T03:37:38.702Z"
+  },
+  {
+    "title": "culture:::Intelligence artificielle: Google poursuivi pour violation des droits d'auteur",
+    "added_at": "2026-07-15T03:44:58.144Z"
+  },
+  {
+    "title": "culture:::«L’Odyssée» selon Christopher Nolan: Ulysse, ou l’arrogance des hommes qui se prennent pour des dieux",
+    "added_at": "2026-07-15T04:04:30.744Z"
+  },
+  {
+    "title": "monde:::Aux Etats-Unis, Graham est mort, vive Graham! Un sénateur américain décédé remplacé par sa soeur, sur recommandation de Donald Trump",
+    "added_at": "2026-07-15T04:11:51.128Z"
   }
 ]
