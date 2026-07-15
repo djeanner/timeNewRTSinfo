@@ -99287,10 +99287,7 @@
   },
   {
     "title": "L’été des beaux parleurs",
-    "added_at": "2026-07-06T02:24:35.466Z",
-    "removed_at": "2026-07-14T20:03:41.518Z",
-    "duration_minutes": 12579,
-    "duration_str": "8d 17h 39m"
+    "added_at": "2026-07-06T02:24:35.466Z"
   },
   {
     "title": "Le président colombien Gustavo Petro annonce son départ anticipé et appelle à des manifestations",
@@ -101848,15 +101845,24 @@
   },
   {
     "title": "Berne et Londres s'entendent sur un nouvel accord de libre-échange \"modernisé\"",
-    "added_at": "2026-07-13T16:07:13.244Z"
+    "added_at": "2026-07-13T16:07:13.244Z",
+    "removed_at": "2026-07-15T20:53:00.825Z",
+    "duration_minutes": 3165,
+    "duration_str": "2d 4h 45m"
   },
   {
     "title": "L'incendie hors norme de la forêt de Fontainebleau, près de Paris, pourrait être criminel",
-    "added_at": "2026-07-13T16:29:15.148Z"
+    "added_at": "2026-07-13T16:29:15.148Z",
+    "removed_at": "2026-07-15T21:07:47.176Z",
+    "duration_minutes": 3158,
+    "duration_str": "2d 4h 38m"
   },
   {
     "title": "L'UE veut instaurer un accès progressif des mineurs aux plateformes numériques",
-    "added_at": "2026-07-13T16:56:23.218Z"
+    "added_at": "2026-07-13T16:56:23.218Z",
+    "removed_at": "2026-07-15T21:02:54.010Z",
+    "duration_minutes": 3126,
+    "duration_str": "2d 4h 6m"
   },
   {
     "title": "Les invités de La Matinale - Noémie Beney et Joël Robert, sur le parcours de la Suisse au Mondial 2026",
@@ -101899,7 +101905,10 @@
   },
   {
     "title": "Incendie à Fontainebleau : le duplex de Benjamin Luis sur place.",
-    "added_at": "2026-07-13T20:24:52.494Z"
+    "added_at": "2026-07-13T20:24:52.494Z",
+    "removed_at": "2026-07-15T21:02:54.010Z",
+    "duration_minutes": 2918,
+    "duration_str": "2d 38m"
   },
   {
     "title": "Les alliés européens de l'Ukraine réunis à Paris pour renforcer leur soutien militaire",
@@ -101929,7 +101938,10 @@
   },
   {
     "title": "La Suisse et le Royaume-Uni : un accord de libre-échange actualisé",
-    "added_at": "2026-07-13T22:22:25.174Z"
+    "added_at": "2026-07-13T22:22:25.174Z",
+    "removed_at": "2026-07-15T21:02:54.010Z",
+    "duration_minutes": 2800,
+    "duration_str": "1d 22h 40m"
   },
   {
     "title": "Un Français de 19 ans condamné à Lausanne pour des arnaques au faux policier",
@@ -102277,5 +102289,21 @@
   {
     "title": "L'auteur d'un féminicide d'une \"violence inouïe\" condamné à 20 ans de prison à Vevey",
     "added_at": "2026-07-15T20:20:58.391Z"
+  },
+  {
+    "title": "Au Venezuela, la grogne des familles meurtries contre les autorités après les séismes",
+    "added_at": "2026-07-15T20:53:00.825Z"
+  },
+  {
+    "title": "Chillon transformé en écran géant par Greenpeace pour dénoncer l'extraction minière en haute mer",
+    "added_at": "2026-07-15T21:02:54.010Z"
+  },
+  {
+    "title": "Dans la forêt de Fontainebleau, les pompiers luttent toujours contre les flammes",
+    "added_at": "2026-07-15T21:02:54.010Z"
+  },
+  {
+    "title": "L'Argentine renverse l'Angleterre et affrontera l'Espagne en finale",
+    "added_at": "2026-07-15T21:07:47.176Z"
   }
 ]
