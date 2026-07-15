@@ -101587,7 +101587,10 @@
   },
   {
     "title": "L'incendie meurtrier s'est stabilisé en Andalousie, les déplacés rentrent chez eux",
-    "added_at": "2026-07-12T20:17:55.809Z"
+    "added_at": "2026-07-12T20:17:55.809Z",
+    "removed_at": "2026-07-15T04:46:15.731Z",
+    "duration_minutes": 3388,
+    "duration_str": "2d 8h 28m"
   },
   {
     "title": "Au moins 27 morts dans l'incendie d'un bar à Bangkok",
@@ -102036,5 +102039,16 @@
   {
     "title": "Un demi-million d'enfants en Europe ne sont pas du tout vaccinés",
     "added_at": "2026-07-15T02:39:00.874Z"
+  },
+  {
+    "title": "\"Le problème avec l'IA, c'est que les gens n'ont pas vu le champignon atomique!\"",
+    "added_at": "2026-07-15T04:46:15.731Z",
+    "removed_at": "2026-07-15T05:44:47.999Z",
+    "duration_minutes": 58,
+    "duration_str": "58m"
+  },
+  {
+    "title": "\"Le problème avec l'IA, c'est que les gens n'ont pas vu le 'champignon atomique'!\"",
+    "added_at": "2026-07-15T05:44:47.999Z"
   }
 ]
