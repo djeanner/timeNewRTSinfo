@@ -97191,7 +97191,10 @@
   },
   {
     "title": "culture:::Dans «L’Affaire Protheroe», Agatha Christie invente le «cosy murder»",
-    "added_at": "2026-07-15T06:51:31.432Z"
+    "added_at": "2026-07-15T06:51:31.432Z",
+    "removed_at": "2026-07-16T15:10:16.571Z",
+    "duration_minutes": 1938,
+    "duration_str": "1d 8h 18m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump menace d'étendre les bombardements contre l'Iran et de viser ses infrastructures civiles",
@@ -97394,7 +97397,10 @@
   },
   {
     "title": "economie:::Les panneaux solaires peuvent-ils prendre feu lors de canicules?",
-    "added_at": "2026-07-16T04:11:12.999Z"
+    "added_at": "2026-07-16T04:11:12.999Z",
+    "removed_at": "2026-07-16T13:35:15.667Z",
+    "duration_minutes": 564,
+    "duration_str": "9h 24m"
   },
   {
     "title": "culture:::Au Montreux Jazz, un Moby un peu sage salue la mémoire de son idole Bowie et fait applaudir la cause végane",
@@ -97423,7 +97429,10 @@
   },
   {
     "title": "monde:::Un anneau pour menotter les détenus au mur: le Liechtenstein épinglé par le Comité européen pour la prévention de la torture",
-    "added_at": "2026-07-16T06:14:31.027Z"
+    "added_at": "2026-07-16T06:14:31.027Z",
+    "removed_at": "2026-07-16T13:49:53.006Z",
+    "duration_minutes": 455,
+    "duration_str": "7h 35m"
   },
   {
     "title": "sport:::«Il y a toujours trois versions: la tienne, la mienne et la vérité.» Nadia Comăneci, un mythe et ses mystères",
@@ -97460,11 +97469,17 @@
   },
   {
     "title": "suisse:::La Suisse condamnée pour avoir violé la liberté d’expression du journal genevois «Le Courrier»",
-    "added_at": "2026-07-16T10:21:20.294Z"
+    "added_at": "2026-07-16T10:21:20.294Z",
+    "removed_at": "2026-07-16T15:12:43.316Z",
+    "duration_minutes": 291,
+    "duration_str": "4h 51m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis étendent leurs bombardements en Iran",
-    "added_at": "2026-07-16T10:48:18.146Z"
+    "added_at": "2026-07-16T10:48:18.146Z",
+    "removed_at": "2026-07-16T13:40:06.600Z",
+    "duration_minutes": 171,
+    "duration_str": "2h 51m"
   },
   {
     "title": "economie:::Insatiable, ABB ambitionne de réaliser la plus grande acquisition de son histoire en lançant une OPA sur le britannique Rotork",
@@ -97480,10 +97495,36 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky a sacrifié son populaire ministre de la Défense au profit du chef de l'armée",
-    "added_at": "2026-07-16T12:48:41.206Z"
+    "added_at": "2026-07-16T12:48:41.206Z",
+    "removed_at": "2026-07-16T14:31:18.666Z",
+    "duration_minutes": 102,
+    "duration_str": "1h 42m"
   },
   {
     "title": "monde:::Dans le Grand Nord, Emmanuel Macron fait miroiter son concept de «dissuasion nucléaire avancée»",
     "added_at": "2026-07-16T13:08:15.991Z"
+  },
+  {
+    "title": "economie:::Après la Royal Pop, Swatch écrit à sa sauce la grande histoire d’humour de l’or et de la Lune",
+    "added_at": "2026-07-16T13:35:15.667Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis et l'Iran s'enfoncent dans la guerre",
+    "added_at": "2026-07-16T13:40:06.600Z",
+    "removed_at": "2026-07-16T15:39:32.119Z",
+    "duration_minutes": 119,
+    "duration_str": "1h 59m"
+  },
+  {
+    "title": "monde:::Huit ans après la catastrophe de Gênes, la justice italienne condamne 32 accusés à de la prison ferme",
+    "added_at": "2026-07-16T13:49:53.006Z"
+  },
+  {
+    "title": "monde:::Pris entre deux feux, les Etats du Golfe cherchent à s’émanciper du parapluie sécuritaire américain",
+    "added_at": "2026-07-16T15:12:43.316Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Située près du détroit d’Ormuz, l’île de Qeshm a subi des bombardements américains",
+    "added_at": "2026-07-16T15:39:32.119Z"
   }
 ]
