@@ -3747,7 +3747,10 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T19:02:44.375Z"
+    "added_at": "2025-07-25T19:02:44.375Z",
+    "removed_at": "2026-07-16T21:05:17.483Z",
+    "duration_minutes": 512762,
+    "duration_str": "356d 2h 2m"
   },
   {
     "title": "En Israël, la population sensible au sort des Gazaouis refuse d'en rendre son armée responsable",
@@ -102147,7 +102150,10 @@
   },
   {
     "title": "Donald Trump abandonne déjà son idée de taxe commerciale de 20% dans le détroit d'Ormuz",
-    "added_at": "2026-07-14T15:50:31.441Z"
+    "added_at": "2026-07-14T15:50:31.441Z",
+    "removed_at": "2026-07-16T19:30:07.537Z",
+    "duration_minutes": 3099,
+    "duration_str": "2d 3h 39m"
   },
   {
     "title": "Pogacar s'impose en solitaire et conforte son maillot jaune sur le Tour de France",
@@ -102176,7 +102182,10 @@
   },
   {
     "title": "L'IA va-t-elle faire émerger un nouvel extrémisme violent anti-technologique?",
-    "added_at": "2026-07-14T17:21:04.860Z"
+    "added_at": "2026-07-14T17:21:04.860Z",
+    "removed_at": "2026-07-16T19:37:26.683Z",
+    "duration_minutes": 3016,
+    "duration_str": "2d 2h 16m"
   },
   {
     "title": "Les députés travaillistes donnent leur feu vert à Andy Burnham, qui sera bientôt Premier ministre",
@@ -102191,7 +102200,10 @@
   },
   {
     "title": "\"On est sur la bonne voie\", partage Dan Ndoye",
-    "added_at": "2026-07-14T18:52:32.689Z"
+    "added_at": "2026-07-14T18:52:32.689Z",
+    "removed_at": "2026-07-16T19:22:48.972Z",
+    "duration_minutes": 2910,
+    "duration_str": "2d 30m"
   },
   {
     "title": "L'acteur Sam Neill, star de Jurassic Park, est décédé à l'âge de 78 ans",
@@ -102351,10 +102363,7 @@
   },
   {
     "title": "Salomé Saqué : comment garder le courage d'agir quand tout va mal ? (Inspire 1/8)",
-    "added_at": "2026-07-15T17:04:07.556Z",
-    "removed_at": "2026-07-16T17:05:01.385Z",
-    "duration_minutes": 1440,
-    "duration_str": "1d"
+    "added_at": "2026-07-15T17:04:07.556Z"
   },
   {
     "title": "La France adopte définitivement la loi sur l'aide à mourir",
@@ -102435,7 +102444,10 @@
   },
   {
     "title": "Mondial 2026: La France affronte l'Espagne en demi-finale",
-    "added_at": "2026-07-16T08:51:14.610Z"
+    "added_at": "2026-07-16T08:51:14.610Z",
+    "removed_at": "2026-07-16T19:03:17.762Z",
+    "duration_minutes": 612,
+    "duration_str": "10h 12m"
   },
   {
     "title": "La Suisse condamnée par la CEDH pour avoir refusé des repas végétaliens à des militants antispécistes",
@@ -102470,7 +102482,10 @@
   },
   {
     "title": "Les guides de Zermatt renoncent à gravir le Cervin à cause de la canicule: interview de Pierre Mathey",
-    "added_at": "2026-07-16T11:02:54.831Z"
+    "added_at": "2026-07-16T11:02:54.831Z",
+    "removed_at": "2026-07-16T21:05:17.483Z",
+    "duration_minutes": 602,
+    "duration_str": "10h 2m"
   },
   {
     "title": "Rencontres avec Morris, le père de Lucky Luke",
@@ -102579,5 +102594,39 @@
   {
     "title": "Des capteurs de température ressentie sont en train d'être installés en Valais",
     "added_at": "2026-07-16T18:21:39.861Z"
+  },
+  {
+    "title": "Certains dress codes professionnels ont la vie dure malgré les fortes chaleurs",
+    "added_at": "2026-07-16T19:22:48.972Z"
+  },
+  {
+    "title": "Le Montreux Jazz évacue les lieux extérieurs du festival en raison d'un orage",
+    "added_at": "2026-07-16T19:30:07.537Z",
+    "removed_at": "2026-07-16T19:47:13.418Z",
+    "duration_minutes": 17,
+    "duration_str": "17m"
+  },
+  {
+    "title": "Plus de 12'000 personnes sont décédées fin juin en Europe en raison de la canicule",
+    "added_at": "2026-07-16T19:37:26.683Z"
+  },
+  {
+    "title": "Le Montreux Jazz a dû momentanément évacuer les lieux extérieurs du festival en raison d'un orage",
+    "added_at": "2026-07-16T19:47:13.418Z",
+    "removed_at": "2026-07-16T20:09:13.200Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
+  },
+  {
+    "title": "Le Montreux Jazz évacue momentanément les lieux extérieurs du festival en raison d'un orage",
+    "added_at": "2026-07-16T20:09:13.200Z"
+  },
+  {
+    "title": "Le Tribunal fédéral valide l'interdiction de vente de puffs en Valais",
+    "added_at": "2026-07-16T21:05:17.483Z"
+  },
+  {
+    "title": "La Coupe du monde, plus politique que le Tour de France ?",
+    "added_at": "2026-07-16T21:05:17.483Z"
   }
 ]
