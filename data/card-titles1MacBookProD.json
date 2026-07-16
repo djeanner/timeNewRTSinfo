@@ -3747,10 +3747,7 @@
   },
   {
     "title": "19h30 signé",
-    "added_at": "2025-07-25T19:02:44.375Z",
-    "removed_at": "2026-07-13T20:24:52.494Z",
-    "duration_minutes": 508402,
-    "duration_str": "353d 1h 22m"
+    "added_at": "2025-07-25T19:02:44.375Z"
   },
   {
     "title": "En Israël, la population sensible au sort des Gazaouis refuse d'en rendre son armée responsable",
@@ -99287,7 +99284,10 @@
   },
   {
     "title": "L’été des beaux parleurs",
-    "added_at": "2026-07-06T02:24:35.466Z"
+    "added_at": "2026-07-06T02:24:35.466Z",
+    "removed_at": "2026-07-16T06:04:42.119Z",
+    "duration_minutes": 14620,
+    "duration_str": "10d 3h 40m"
   },
   {
     "title": "Le président colombien Gustavo Petro annonce son départ anticipé et appelle à des manifestations",
@@ -101918,7 +101918,10 @@
   },
   {
     "title": "Les alliés européens de l'Ukraine réunis à Paris pour renforcer leur soutien militaire",
-    "added_at": "2026-07-13T20:39:28.923Z"
+    "added_at": "2026-07-13T20:39:28.923Z",
+    "removed_at": "2026-07-16T05:29:30.483Z",
+    "duration_minutes": 3410,
+    "duration_str": "2d 8h 50m"
   },
   {
     "title": "Les arnaques au faux policier se multiplient en Suisse romande",
@@ -101955,7 +101958,10 @@
   },
   {
     "title": "Le double séisme au Venezuela ne devrait pas affecter la production pétrolière du pays",
-    "added_at": "2026-07-14T03:25:48.869Z"
+    "added_at": "2026-07-14T03:25:48.869Z",
+    "removed_at": "2026-07-16T05:31:59.509Z",
+    "duration_minutes": 3006,
+    "duration_str": "2d 2h 6m"
   },
   {
     "title": "Le Parlement européen autorise les NGT, nouvelle forme d'OGM qui suscite des oppositions",
@@ -102322,5 +102328,13 @@
   {
     "title": "Jusqu'où faut-il aller dans l'analyse génétique des nouveau-nés?",
     "added_at": "2026-07-16T04:42:54.075Z"
+  },
+  {
+    "title": "Pourquoi les tempêtes de sable du Sahara s'intensifient en Europe",
+    "added_at": "2026-07-16T05:29:30.483Z"
+  },
+  {
+    "title": "La communauté française en passe de devenir la première communauté étrangère en Suisse romande",
+    "added_at": "2026-07-16T05:31:59.509Z"
   }
 ]
