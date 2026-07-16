@@ -97209,7 +97209,10 @@
   },
   {
     "title": "sport:::Nadia Comăneci, de la petite fée de la gymnastique à la femme libre",
-    "added_at": "2026-07-15T08:05:07.494Z"
+    "added_at": "2026-07-15T08:05:07.494Z",
+    "removed_at": "2026-07-16T13:08:15.991Z",
+    "duration_minutes": 1743,
+    "duration_str": "1d 5h 3m"
   },
   {
     "title": "economie:::Richemont affiche une croissance de 20% au premier trimestre, portée par la joaillerie",
@@ -97316,7 +97319,10 @@
   },
   {
     "title": "monde:::Le parlement français adopte l’aide à mourir. Que dit le texte définitif?",
-    "added_at": "2026-07-15T17:48:09.822Z"
+    "added_at": "2026-07-15T17:48:09.822Z",
+    "removed_at": "2026-07-16T11:22:28.259Z",
+    "duration_minutes": 1054,
+    "duration_str": "17h 34m"
   },
   {
     "title": "suisse:::Fin de partie pour les «puffs» en Valais: le Tribunal fédéral confirme l’interdiction du canton",
@@ -97377,7 +97383,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le système de défense antiaérienne activé à Téhéran après des frappes américaines",
-    "added_at": "2026-07-16T02:57:56.903Z"
+    "added_at": "2026-07-16T02:57:56.903Z",
+    "removed_at": "2026-07-16T10:48:18.146Z",
+    "duration_minutes": 470,
+    "duration_str": "7h 50m"
   },
   {
     "title": "economie:::«Pendant des décennies, toute notre culture constructive a été uniquement orientée vers l’hiver»: face à la canicule, la rénovation énergétique montre ses limites",
@@ -97422,7 +97431,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Indignation en Ukraine après le départ du ministre de la Défense Mykhaïlo Fedorov",
-    "added_at": "2026-07-16T09:00:55.714Z"
+    "added_at": "2026-07-16T09:00:55.714Z",
+    "removed_at": "2026-07-16T12:48:41.206Z",
+    "duration_minutes": 227,
+    "duration_str": "3h 47m"
   },
   {
     "title": "suisse:::La Cour européenne des droits de l’homme condamne la Suisse pour avoir refusé des repas véganes à des personnes privées de liberté",
@@ -97441,10 +97453,37 @@
   },
   {
     "title": "economie:::Insatiable, ABB ambitionne de réaliser la plus grande acquisition de son histoire en lançant une OPA sur le Britannique Rotork",
-    "added_at": "2026-07-16T10:09:12.163Z"
+    "added_at": "2026-07-16T10:09:12.163Z",
+    "removed_at": "2026-07-16T10:50:45.176Z",
+    "duration_minutes": 41,
+    "duration_str": "41m"
   },
   {
     "title": "suisse:::La Suisse condamnée pour avoir violé la liberté d’expression du journal genevois «Le Courrier»",
     "added_at": "2026-07-16T10:21:20.294Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les Etats-Unis étendent leurs bombardements en Iran",
+    "added_at": "2026-07-16T10:48:18.146Z"
+  },
+  {
+    "title": "economie:::Insatiable, ABB ambitionne de réaliser la plus grande acquisition de son histoire en lançant une OPA sur le britannique Rotork",
+    "added_at": "2026-07-16T10:50:45.176Z"
+  },
+  {
+    "title": "culture:::Marilyn Monroe, un volontarisme à toute épreuve",
+    "added_at": "2026-07-16T11:22:28.259Z"
+  },
+  {
+    "title": "monde:::Friedrich Merz et Emmanuel Macron face à l’accumulation des déceptions franco-allemandes",
+    "added_at": "2026-07-16T12:46:18.041Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky a sacrifié son populaire ministre de la Défense au profit du chef de l'armée",
+    "added_at": "2026-07-16T12:48:41.206Z"
+  },
+  {
+    "title": "monde:::Dans le Grand Nord, Emmanuel Macron fait miroiter son concept de «dissuasion nucléaire avancée»",
+    "added_at": "2026-07-16T13:08:15.991Z"
   }
 ]
