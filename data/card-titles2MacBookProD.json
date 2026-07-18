@@ -29765,7 +29765,10 @@
   },
   {
     "title": "sport:::A Ouessant, des pur-sang à la retraite coulent des jours paisibles",
-    "added_at": "2025-08-30T19:15:13.080Z"
+    "added_at": "2025-08-30T19:15:13.080Z",
+    "removed_at": "2026-07-18T19:02:59.573Z",
+    "duration_minutes": 463667,
+    "duration_str": "321d 23h 47m"
   },
   {
     "title": "monde:::Moyen-Orient – Israël dit avoir identifié les restes d'un otage retenu à Gaza",
@@ -97085,10 +97088,7 @@
   },
   {
     "title": "sport:::Tadej Pogačar, la première mort du Tour de France",
-    "added_at": "2026-07-14T19:24:22.841Z",
-    "removed_at": "2026-07-16T17:09:56.794Z",
-    "duration_minutes": 2745,
-    "duration_str": "1d 21h 45m"
+    "added_at": "2026-07-14T19:24:22.841Z"
   },
   {
     "title": "monde:::Aux Etats-Unis, Graham est mort, vive Graham!",
@@ -97790,7 +97790,10 @@
   },
   {
     "title": "economie:::La complication, ce petit plus qui fait de la montre un grand cirque",
-    "added_at": "2026-07-17T09:27:33.953Z"
+    "added_at": "2026-07-17T09:27:33.953Z",
+    "removed_at": "2026-07-18T18:03:28.138Z",
+    "duration_minutes": 1955,
+    "duration_str": "1d 8h 35m"
   },
   {
     "title": "sport:::77 pays, 1964 équipes, 4947 matchs: à Göteborg, la Coupe du monde des enfants",
@@ -97935,11 +97938,17 @@
   },
   {
     "title": "monde:::Omer Bartov, historien de l’Holocauste: «Le sionisme ne peut plus être réparé»",
-    "added_at": "2026-07-17T17:11:18.962Z"
+    "added_at": "2026-07-17T17:11:18.962Z",
+    "removed_at": "2026-07-18T17:41:36.946Z",
+    "duration_minutes": 1470,
+    "duration_str": "1d 30m"
   },
   {
     "title": "sport:::En direct, Coupe du monde 2026 – Donald Trump assistera à la finale aux côtés de Pedro Sanchez, Javier Milei boude le match par superstition",
-    "added_at": "2026-07-17T17:16:15.884Z"
+    "added_at": "2026-07-17T17:16:15.884Z",
+    "removed_at": "2026-07-18T19:32:14.342Z",
+    "duration_minutes": 1575,
+    "duration_str": "1d 2h 15m"
   },
   {
     "title": "suisse:::Laurent Kurth: «Se reconvertir, ce n’est pas aussi simple que certains le pensent!»",
@@ -97998,10 +98007,7 @@
   },
   {
     "title": "sport:::L’Argentine de Lionel Messi favorisée? Entre actions litigieuses, théorie du complot et biais de confirmation",
-    "added_at": "2026-07-18T09:02:05.078Z",
-    "removed_at": "2026-07-18T16:28:16.415Z",
-    "duration_minutes": 446,
-    "duration_str": "7h 26m"
+    "added_at": "2026-07-18T09:02:05.078Z"
   },
   {
     "title": "suisse:::Genève peut maintenir l’interdiction des puffs pendant le recours devant le Tribunal fédéral",
@@ -98042,10 +98048,51 @@
   },
   {
     "title": "sciences:::Les abeilles sont comme les artistes, elles adaptent leur danse à l’auditoire",
-    "added_at": "2026-07-18T15:54:13.198Z"
+    "added_at": "2026-07-18T15:54:13.198Z",
+    "removed_at": "2026-07-18T19:02:59.573Z",
+    "duration_minutes": 188,
+    "duration_str": "3h 8m"
   },
   {
     "title": "monde:::Comment la gestation pour autrui a entraîné la chute de Jens Spahn, le chef des conservateurs allemands",
     "added_at": "2026-07-18T16:28:16.415Z"
+  },
+  {
+    "title": "culture:::«Prisoner», une bonne petite série d’action pour l’été",
+    "added_at": "2026-07-18T17:24:30.587Z"
+  },
+  {
+    "title": "sport:::Tadej Pogacar remporte sa quatrième étape au Tour de France",
+    "added_at": "2026-07-18T17:41:36.946Z",
+    "removed_at": "2026-07-18T18:36:13.130Z",
+    "duration_minutes": 54,
+    "duration_str": "54m"
+  },
+  {
+    "title": "sport:::Au Tour de France, un podium électrique, «les fusibles sautent chez moi»",
+    "added_at": "2026-07-18T18:36:13.130Z",
+    "removed_at": "2026-07-18T18:46:01.061Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "sport:::Au Tour de France, un podium électrique avec six coureurs en embuscade",
+    "added_at": "2026-07-18T18:46:01.061Z"
+  },
+  {
+    "title": "sport:::Mélisey, le village que Thibaut Pinot a fait rayonner sans jamais le quitter",
+    "added_at": "2026-07-18T19:02:59.573Z"
+  },
+  {
+    "title": "culture:::«Très brève théorie de l’enfer», du romancier Jérôme Ferrari: l’exploitation des migrants, à notre corps défendant",
+    "added_at": "2026-07-18T19:27:24.140Z"
+  },
+  {
+    "title": "monde:::Le président hongrois accepte de signer une réforme mettant fin à son mandat ce dimanche",
+    "added_at": "2026-07-18T19:27:24.140Z"
+  },
+  {
+    "title": "sport:::En direct, Coupe du monde 2026 – «Nous aurions dû t’offrir une meilleure fin»: la France affronte l’Angleterre pour la 3e place",
+    "added_at": "2026-07-18T19:32:14.342Z"
   }
 ]
