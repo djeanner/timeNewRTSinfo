@@ -98167,7 +98167,10 @@
   },
   {
     "title": "sport:::L’adieu de Didier Deschamps, qui a rendu sa beauté à l’équipe de France",
-    "added_at": "2026-07-19T05:12:49.209Z"
+    "added_at": "2026-07-19T05:12:49.209Z",
+    "removed_at": "2026-07-19T16:05:27.506Z",
+    "duration_minutes": 652,
+    "duration_str": "10h 52m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – La trêve est bien lointaine, nouveaux bombardements américains sur l’Iran",
@@ -98219,7 +98222,10 @@
   },
   {
     "title": "suisse:::Déjà 12 km de file au Gothard, pendant que les régions proches disent leur énervement",
-    "added_at": "2026-07-19T10:05:58.695Z"
+    "added_at": "2026-07-19T10:05:58.695Z",
+    "removed_at": "2026-07-19T16:46:52.535Z",
+    "duration_minutes": 400,
+    "duration_str": "6h 40m"
   },
   {
     "title": "culture:::«Ride or Die», deux quinquas partent en cavale dans une série jubilatoire",
@@ -98227,11 +98233,17 @@
   },
   {
     "title": "economie:::Une nouvelle centrale nucléaire menacerait des milliers d’emplois",
-    "added_at": "2026-07-19T10:32:46.415Z"
+    "added_at": "2026-07-19T10:32:46.415Z",
+    "removed_at": "2026-07-19T16:00:32.522Z",
+    "duration_minutes": 327,
+    "duration_str": "5h 27m"
   },
   {
     "title": "sport:::En direct, Coupe du monde 2026 – Pressions de Donald Trump, omniprésence des firmes de paris: les sévères remarques d’Alain Berset à la FIFA",
-    "added_at": "2026-07-19T10:47:23.416Z"
+    "added_at": "2026-07-19T10:47:23.416Z",
+    "removed_at": "2026-07-19T16:02:59.449Z",
+    "duration_minutes": 315,
+    "duration_str": "5h 15m"
   },
   {
     "title": "culture:::Pauline Clément, cette comédienne chérie de Molière qui sème une formidable zizanie à la Comédie-Française",
@@ -98248,5 +98260,43 @@
   {
     "title": "sport:::En attendant de connaître son vainqueur, la Coupe du monde 2026 célèbre déjà «the greatest show on Earth»",
     "added_at": "2026-07-19T13:51:17.799Z"
+  },
+  {
+    "title": "suisse:::Pourquoi les auteurs de féminicides ont souvent plus de cinquante ans",
+    "added_at": "2026-07-19T14:54:48.485Z",
+    "removed_at": "2026-07-19T17:11:10.563Z",
+    "duration_minutes": 136,
+    "duration_str": "2h 16m"
+  },
+  {
+    "title": "cyber:::Logitech continue de conquérir des parts de marché dans le jeu vidéo en misant sur l'innovation",
+    "added_at": "2026-07-19T15:19:06.334Z"
+  },
+  {
+    "title": "economie:::Le football hypnotise l’Argentine, une aubaine pour le gouvernement",
+    "added_at": "2026-07-19T16:00:32.522Z",
+    "removed_at": "2026-07-19T17:11:10.563Z",
+    "duration_minutes": 70,
+    "duration_str": "1h 10m"
+  },
+  {
+    "title": "sport:::En direct, Coupe du monde 2026 – Les Argentins en haleine, pour «toucher le ciel» à nouveau",
+    "added_at": "2026-07-19T16:02:59.449Z"
+  },
+  {
+    "title": "sport:::Coupe du monde: «Généralement, la répression se calme durant la compétition, mais pas aux Etats-Unis»",
+    "added_at": "2026-07-19T16:05:27.506Z"
+  },
+  {
+    "title": "suisse:::Environ 14 km de bouchon au Gothard, pendant que les régions proches disent leur énervement",
+    "added_at": "2026-07-19T16:46:52.535Z"
+  },
+  {
+    "title": "monde:::En Ukraine, des milliers de manifestants réclament la démission du général Syrsky, commandant en chef de l’armée",
+    "added_at": "2026-07-19T17:11:10.563Z"
+  },
+  {
+    "title": "suisse:::Pourquoi les auteurs de féminicides ont souvent plus de 50 ans",
+    "added_at": "2026-07-19T17:11:10.563Z"
   }
 ]
