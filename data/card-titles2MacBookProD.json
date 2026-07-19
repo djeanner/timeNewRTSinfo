@@ -97796,7 +97796,10 @@
   },
   {
     "title": "economie:::La complication, ce petit plus qui fait de la montre un grand cirque",
-    "added_at": "2026-07-17T09:27:33.953Z"
+    "added_at": "2026-07-17T09:27:33.953Z",
+    "removed_at": "2026-07-19T18:05:02.462Z",
+    "duration_minutes": 3397,
+    "duration_str": "2d 8h 37m"
   },
   {
     "title": "sport:::77 pays, 1964 équipes, 4947 matchs: à Göteborg, la Coupe du monde des enfants",
@@ -98185,7 +98188,10 @@
   },
   {
     "title": "culture:::Pour sa 60e édition, le Montreux Jazz a enfin posé ses valises… et des jalons",
-    "added_at": "2026-07-19T07:00:43.639Z"
+    "added_at": "2026-07-19T07:00:43.639Z",
+    "removed_at": "2026-07-19T19:38:33.702Z",
+    "duration_minutes": 757,
+    "duration_str": "12h 37m"
   },
   {
     "title": "culture:::A Valangin, une exposition décrypte le coup d'Etat des royalistes prussiens contre la jeune République de Neuchâtel",
@@ -98196,7 +98202,10 @@
   },
   {
     "title": "suisse:::Après 57 ans d’existence, le «SonntagsBlick» pourrait disparaître à la fin de l’année",
-    "added_at": "2026-07-19T07:05:38.337Z"
+    "added_at": "2026-07-19T07:05:38.337Z",
+    "removed_at": "2026-07-19T20:03:00.426Z",
+    "duration_minutes": 777,
+    "duration_str": "12h 57m"
   },
   {
     "title": "monde:::La gestation pour autrui a entraîné la chute de Jens Spahn, le chef des conservateurs allemands",
@@ -98229,7 +98238,10 @@
   },
   {
     "title": "culture:::«Ride or Die», deux quinquas partent en cavale dans une série jubilatoire",
-    "added_at": "2026-07-19T10:32:46.415Z"
+    "added_at": "2026-07-19T10:32:46.415Z",
+    "removed_at": "2026-07-19T18:29:29.255Z",
+    "duration_minutes": 476,
+    "duration_str": "7h 56m"
   },
   {
     "title": "economie:::Une nouvelle centrale nucléaire menacerait des milliers d’emplois",
@@ -98274,14 +98286,14 @@
   },
   {
     "title": "economie:::Le football hypnotise l’Argentine, une aubaine pour le gouvernement",
-    "added_at": "2026-07-19T16:00:32.522Z",
-    "removed_at": "2026-07-19T17:11:10.563Z",
-    "duration_minutes": 70,
-    "duration_str": "1h 10m"
+    "added_at": "2026-07-19T16:00:32.522Z"
   },
   {
     "title": "sport:::En direct, Coupe du monde 2026 – Les Argentins en haleine, pour «toucher le ciel» à nouveau",
-    "added_at": "2026-07-19T16:02:59.449Z"
+    "added_at": "2026-07-19T16:02:59.449Z",
+    "removed_at": "2026-07-19T17:52:53.161Z",
+    "duration_minutes": 109,
+    "duration_str": "1h 49m"
   },
   {
     "title": "sport:::Coupe du monde: «Généralement, la répression se calme durant la compétition, mais pas aux Etats-Unis»",
@@ -98298,5 +98310,24 @@
   {
     "title": "suisse:::Pourquoi les auteurs de féminicides ont souvent plus de 50 ans",
     "added_at": "2026-07-19T17:11:10.563Z"
+  },
+  {
+    "title": "sport:::En direct, Coupe du monde 2026 – La cérémonie de clôture s’ouvre au MetLife Stadium",
+    "added_at": "2026-07-19T17:52:53.161Z",
+    "removed_at": "2026-07-19T19:14:08.276Z",
+    "duration_minutes": 81,
+    "duration_str": "1h 21m"
+  },
+  {
+    "title": "sport:::La chute de Jonas Vingegaard ramène le Tour de France à son humilité",
+    "added_at": "2026-07-19T18:29:29.255Z"
+  },
+  {
+    "title": "culture:::Au Menuhin Festival Gstaad, l’éclat viscéral de Mozart sous l’archet de Pinchas Zukerman",
+    "added_at": "2026-07-19T19:38:33.702Z"
+  },
+  {
+    "title": "sport:::A Gstaad, la renaissance de Tsitsipas accompagne la naissance de Collignon",
+    "added_at": "2026-07-19T20:03:00.426Z"
   }
 ]
