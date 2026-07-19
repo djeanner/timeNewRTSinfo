@@ -102752,7 +102752,10 @@
   },
   {
     "title": "Prison ferme pour 32 accusés pour leur rôle dans l'effondrement du pont Morandi à Gênes",
-    "added_at": "2026-07-16T15:29:48.562Z"
+    "added_at": "2026-07-16T15:29:48.562Z",
+    "removed_at": "2026-07-19T06:28:17.522Z",
+    "duration_minutes": 3778,
+    "duration_str": "2d 14h 58m"
   },
   {
     "title": "Podcast: Comment se désencombrer?",
@@ -102784,7 +102787,10 @@
   },
   {
     "title": "Mystère autour d'un corps démembré découvert dans un champ à Soleure",
-    "added_at": "2026-07-16T17:07:28.748Z"
+    "added_at": "2026-07-16T17:07:28.748Z",
+    "removed_at": "2026-07-19T04:09:34.642Z",
+    "duration_minutes": 3542,
+    "duration_str": "2d 11h 2m"
   },
   {
     "title": "Une banderole \"Les Malouines sont argentines\" déployée à Atlanta, Londres exige une enquête",
@@ -102879,7 +102885,10 @@
   },
   {
     "title": "SpaceX interrompt au dernier moment un vol d'essai de sa fusée géante Starship",
-    "added_at": "2026-07-17T01:40:54.667Z"
+    "added_at": "2026-07-17T01:40:54.667Z",
+    "removed_at": "2026-07-19T04:55:50.945Z",
+    "duration_minutes": 3074,
+    "duration_str": "2d 3h 14m"
   },
   {
     "title": "L'invité de La Matinale - Jérémie Moulin, biologiste et directeur de la fondation OPPAL",
@@ -102894,7 +102903,10 @@
   },
   {
     "title": "Truth Social va vendre un accès prioritaire aux publications de Donald Trump",
-    "added_at": "2026-07-17T04:29:00.414Z"
+    "added_at": "2026-07-17T04:29:00.414Z",
+    "removed_at": "2026-07-19T05:46:51.662Z",
+    "duration_minutes": 2957,
+    "duration_str": "2d 1h 17m"
   },
   {
     "title": "Aux Etats-Unis, Las Vegas mise tout sur le divertissement au détriment de ses habitants",
@@ -103250,5 +103262,21 @@
   {
     "title": "Les incendies au Canada perturbent les préparatifs avant la finale de la Coupe du Monde",
     "added_at": "2026-07-18T20:28:30.856Z"
+  },
+  {
+    "title": "Onze morts à Gaza dont trois enfants, dans des frappes israéliennes, annonce la Défense civile",
+    "added_at": "2026-07-19T04:09:34.642Z"
+  },
+  {
+    "title": "L'Angleterre s'adjuge la 3e place grâce à une première mi-temps de rêve face à la France",
+    "added_at": "2026-07-19T04:55:50.945Z"
+  },
+  {
+    "title": "Le Tour de France ferait reculer le vote d'extrême droite dans les petites communes françaises",
+    "added_at": "2026-07-19T05:46:51.662Z"
+  },
+  {
+    "title": "La Suisse unifie la signalisation des parcours de VTT avec cinq couleurs de difficulté",
+    "added_at": "2026-07-19T06:28:17.522Z"
   }
 ]
