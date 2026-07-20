@@ -103124,7 +103124,10 @@
   },
   {
     "title": "La vente de puffs interdite à Genève en attendant la décision finale de la justice fédérale",
-    "added_at": "2026-07-17T15:48:16.483Z"
+    "added_at": "2026-07-17T15:48:16.483Z",
+    "removed_at": "2026-07-20T02:23:58.573Z",
+    "duration_minutes": 3515,
+    "duration_str": "2d 10h 35m"
   },
   {
     "title": "Mauro Schmid remporte la 13e étape du Tour de France",
@@ -103136,7 +103139,10 @@
   },
   {
     "title": "Comment la précarité financière aggrave les inégalités de santé",
-    "added_at": "2026-07-17T16:17:32.226Z"
+    "added_at": "2026-07-17T16:17:32.226Z",
+    "removed_at": "2026-07-20T04:18:19.876Z",
+    "duration_minutes": 3600,
+    "duration_str": "2d 12h"
   },
   {
     "title": "Le rapport d'experts sur l'idylle entre deux juges fédéraux transmis aux Chambres",
@@ -103433,7 +103439,10 @@
   },
   {
     "title": "Escalade de tensions au Moyen-Orient après la mort de deux militaires américains",
-    "added_at": "2026-07-19T18:39:56.939Z"
+    "added_at": "2026-07-19T18:39:56.939Z",
+    "removed_at": "2026-07-20T02:43:25.785Z",
+    "duration_minutes": 483,
+    "duration_str": "8h 3m"
   },
   {
     "title": "Un nouveau câble de fibre optique de 100 km en cours d'installation dans les profondeurs du Léman",
@@ -103471,5 +103480,13 @@
   {
     "title": "Un incendie touche un hôtel près de la gare de Lucerne",
     "added_at": "2026-07-20T01:44:50.201Z"
+  },
+  {
+    "title": "Tension au plus fort pour la neuvième nuit consécutive de frappes au Moyen-Orient",
+    "added_at": "2026-07-20T02:43:25.785Z"
+  },
+  {
+    "title": "Au Superhumans Center, l'impression 3D aide à soigner les blessures de guerre des Ukrainiens",
+    "added_at": "2026-07-20T04:18:19.876Z"
   }
 ]
