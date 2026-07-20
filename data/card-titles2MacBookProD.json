@@ -2045,10 +2045,7 @@
   },
   {
     "title": "sciences:::Quand la science nous offre une recette infaillible de pâtes «cacio e pepe»",
-    "added_at": "2025-04-30T12:08:44.687Z",
-    "removed_at": "2025-05-01T06:12:12.117Z",
-    "duration_minutes": 1083,
-    "duration_str": "18h 3m"
+    "added_at": "2025-04-30T12:08:44.687Z"
   },
   {
     "title": "economie:::Le PIB des Etats-Unis s’est contracté de 0,3% au premier trimestre",
@@ -74726,10 +74723,7 @@
   },
   {
     "title": "sciences:::Bananes, Donald Trump et canard nécrophile: rencontre avec Marc Abrahams, le fondateur des Ig Nobels",
-    "added_at": "2026-04-29T13:03:42.585Z",
-    "removed_at": "2026-04-29T19:26:53.792Z",
-    "duration_minutes": 383,
-    "duration_str": "6h 23m"
+    "added_at": "2026-04-29T13:03:42.585Z"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Kiev soupçonne la Russie de vouloir recruter des milliers de mercenaires supplémentaires",
@@ -98339,7 +98333,10 @@
   },
   {
     "title": "suisse:::Pourquoi les auteurs de féminicides ont souvent plus de 50 ans",
-    "added_at": "2026-07-19T17:11:10.563Z"
+    "added_at": "2026-07-19T17:11:10.563Z",
+    "removed_at": "2026-07-20T12:38:39.535Z",
+    "duration_minutes": 1167,
+    "duration_str": "19h 27m"
   },
   {
     "title": "sport:::En direct, Coupe du monde 2026 – La cérémonie de clôture s’ouvre au MetLife Stadium",
@@ -98416,11 +98413,17 @@
   },
   {
     "title": "monde:::«Mauvais polar» à Annecy: la mairie accusée d'avoir racheté des centaines de journaux pour étouffer une affaire de viol",
-    "added_at": "2026-07-20T05:07:06.463Z"
+    "added_at": "2026-07-20T05:07:06.463Z",
+    "removed_at": "2026-07-20T10:51:26.427Z",
+    "duration_minutes": 344,
+    "duration_str": "5h 44m"
   },
   {
     "title": "suisse:::Navigation: l’or bleu rêve de devenir une mine d’or plus verte",
-    "added_at": "2026-07-20T06:17:43.268Z"
+    "added_at": "2026-07-20T06:17:43.268Z",
+    "removed_at": "2026-07-20T11:30:19.595Z",
+    "duration_minutes": 312,
+    "duration_str": "5h 12m"
   },
   {
     "title": "sport:::En direct, Coupe du monde 2026 – La Roja bat l'Argentine et remporte la deuxième Coupe du monde de son histoire",
@@ -98428,10 +98431,58 @@
   },
   {
     "title": "economie:::Les cours du pétrole repassent au-dessus de 90 dollars, sur fond de recrudescence du conflit au Moyen-Orient",
-    "added_at": "2026-07-20T09:33:03.821Z"
+    "added_at": "2026-07-20T09:33:03.821Z",
+    "removed_at": "2026-07-20T10:12:25.509Z",
+    "duration_minutes": 39,
+    "duration_str": "39m"
   },
   {
     "title": "suisse:::Prison à vie requise contre un ex-député UDC accusé d'avoir drogué et violé plusieurs femmes et une mineure",
-    "added_at": "2026-07-20T09:35:31.732Z"
+    "added_at": "2026-07-20T09:35:31.732Z",
+    "removed_at": "2026-07-20T10:00:16.903Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "suisse:::Prison à vie requise contre un ex-député UDC accusé d’avoir drogué et violé plusieurs femmes et une mineure",
+    "added_at": "2026-07-20T10:00:16.903Z",
+    "removed_at": "2026-07-20T10:44:07.779Z",
+    "duration_minutes": 43,
+    "duration_str": "43m"
+  },
+  {
+    "title": "sciences:::Pourquoi les spaghettis ne se cassent jamais en deux: la vengeance de la «pasta» expliquée par la physique",
+    "added_at": "2026-07-20T10:12:25.509Z"
+  },
+  {
+    "title": "suisse:::Un ex-député UDC accusé d’avoir drogué et violé plusieurs femmes ainsi qu'une mineure",
+    "added_at": "2026-07-20T10:44:07.779Z"
+  },
+  {
+    "title": "sciences:::Une étude documente la grande imposture des Community Notes de modération sur le réseau X",
+    "added_at": "2026-07-20T10:51:26.427Z"
+  },
+  {
+    "title": "economie:::L'Union européenne inflige une amende record à AliExpress pour la vente de produits illégaux",
+    "added_at": "2026-07-20T11:30:19.595Z",
+    "removed_at": "2026-07-20T12:38:39.535Z",
+    "duration_minutes": 68,
+    "duration_str": "1h 8m"
+  },
+  {
+    "title": "culture:::Un recueil de lettres inédites de Marcel Proust éclaire à la fois son œuvre et sa personnalité",
+    "added_at": "2026-07-20T12:11:50.340Z"
+  },
+  {
+    "title": "culture:::Philippe Jost, pilote de la reconstruction de la cathédrale: «En 2033, Notre-Dame présentera enfin le visage qu’elle mérite»",
+    "added_at": "2026-07-20T12:11:50.340Z"
+  },
+  {
+    "title": "culture:::Le Paléo Festival 2026 s’ouvre mardi avec une météo solaire",
+    "added_at": "2026-07-20T12:38:39.535Z"
+  },
+  {
+    "title": "sciences:::Face aux coupes budgétaires américaines, l'ETH Zurich rapatrie l'équivalent de 20 millions de films de données climatiques de la NASA",
+    "added_at": "2026-07-20T12:38:39.535Z"
   }
 ]

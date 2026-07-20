@@ -103183,15 +103183,24 @@
   },
   {
     "title": "Les toboggans pour billes de bois, nouveau filon pour attirer les vacanciers à la montagne",
-    "added_at": "2026-07-17T19:09:14.925Z"
+    "added_at": "2026-07-17T19:09:14.925Z",
+    "removed_at": "2026-07-20T12:19:09.266Z",
+    "duration_minutes": 3909,
+    "duration_str": "2d 17h 9m"
   },
   {
     "title": "Fin de partie annoncée pour l'emblématique SonntagsBlick, nouveau journal papier à quitter la scène",
-    "added_at": "2026-07-17T19:53:22.480Z"
+    "added_at": "2026-07-17T19:53:22.480Z",
+    "removed_at": "2026-07-20T09:57:47.985Z",
+    "duration_minutes": 3724,
+    "duration_str": "2d 14h 4m"
   },
   {
     "title": "\"Les élites politiques expriment plus souvent des stéréotypes de genre que les simples citoyens\"",
-    "added_at": "2026-07-17T20:37:10.373Z"
+    "added_at": "2026-07-17T20:37:10.373Z",
+    "removed_at": "2026-07-20T10:44:07.708Z",
+    "duration_minutes": 3726,
+    "duration_str": "2d 14h 6m"
   },
   {
     "title": "Cap des 10'000 habitants passé, la désormais ville du Mont-sur-Lausanne en quête d'identité",
@@ -103213,7 +103222,10 @@
   },
   {
     "title": "Une veste du patron de Nvidia vendue près d'un million de dollars",
-    "added_at": "2026-07-18T03:34:32.103Z"
+    "added_at": "2026-07-18T03:34:32.103Z",
+    "removed_at": "2026-07-20T11:13:14.820Z",
+    "duration_minutes": 3338,
+    "duration_str": "2d 7h 38m"
   },
   {
     "title": "Le vrai problème de la natalité en Suisse serait le renoncement au troisième enfant",
@@ -103274,7 +103286,10 @@
   },
   {
     "title": "Huit morts et une soixantaine de blessés dans une attaque ukrainienne sur deux centres logistiques russes",
-    "added_at": "2026-07-18T10:39:31.964Z"
+    "added_at": "2026-07-18T10:39:31.964Z",
+    "removed_at": "2026-07-20T12:31:20.156Z",
+    "duration_minutes": 2991,
+    "duration_str": "2d 1h 51m"
   },
   {
     "title": "La première fusée indienne de fabrication privée a été lancée avec succès",
@@ -103448,7 +103463,10 @@
   },
   {
     "title": "Deux heures d'attente pour atteindre le portail nord du Gothard dimanche après-midi",
-    "added_at": "2026-07-19T15:58:09.345Z"
+    "added_at": "2026-07-19T15:58:09.345Z",
+    "removed_at": "2026-07-20T12:28:56.908Z",
+    "duration_minutes": 1230,
+    "duration_str": "20h 30m"
   },
   {
     "title": "Moscou frappe massivement Kiev, riposte ukrainienne sur le secteur pétrolier russe",
@@ -103535,7 +103553,10 @@
   },
   {
     "title": "Andy Burnham va succéder à Keir Starmer au poste de Premier ministre du Royaume-Uni",
-    "added_at": "2026-07-20T09:01:25.966Z"
+    "added_at": "2026-07-20T09:01:25.966Z",
+    "removed_at": "2026-07-20T12:09:23.737Z",
+    "duration_minutes": 187,
+    "duration_str": "3h 7m"
   },
   {
     "title": "Des chercheurs de l'UNIL modélisent l'histoire des glaciers en Europe avec une précision inédite",
@@ -103543,6 +103564,48 @@
   },
   {
     "title": "Terre des Hommes mandate des experts indépendants pour enquêter sur son passé",
-    "added_at": "2026-07-20T09:50:18.014Z"
+    "added_at": "2026-07-20T09:50:18.014Z",
+    "removed_at": "2026-07-20T10:44:07.708Z",
+    "duration_minutes": 53,
+    "duration_str": "53m"
+  },
+  {
+    "title": "Le lac des Brenets manque cruellement d'eau, la navigation suspendue",
+    "added_at": "2026-07-20T09:57:47.985Z"
+  },
+  {
+    "title": "Prison à vie requise contre un ancien député cantonal argovien accusé de multiples délits sexuels",
+    "added_at": "2026-07-20T10:44:07.708Z"
+  },
+  {
+    "title": "Terre des hommes mandate des experts indépendants pour enquêter sur son passé",
+    "added_at": "2026-07-20T10:44:07.708Z"
+  },
+  {
+    "title": "Faute de spectateurs, l'opéra sur Charles le Téméraire jette l'éponge",
+    "added_at": "2026-07-20T11:13:14.820Z"
+  },
+  {
+    "title": "Andy Burnham succède à Keir Starmer au poste de Premier ministre du Royaume-Uni",
+    "added_at": "2026-07-20T12:09:23.737Z",
+    "removed_at": "2026-07-20T12:28:56.908Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
+  },
+  {
+    "title": "La Suisse à la pointe dans la surveillance des quantités d'ozone dans l'atmosphère",
+    "added_at": "2026-07-20T12:19:09.266Z"
+  },
+  {
+    "title": "Le nouveau Premier ministre Andy Burnham promet \"un plan sur dix ans\" pour redresser le Royaume-Uni",
+    "added_at": "2026-07-20T12:28:56.908Z"
+  },
+  {
+    "title": "Plus de deux heures d'attente pour atteindre le portail nord du Gothard lundi à la mi-journée",
+    "added_at": "2026-07-20T12:28:56.908Z"
+  },
+  {
+    "title": "Après Temu, l'UE sanctionne AliExpress pour la vente de produits illégaux",
+    "added_at": "2026-07-20T12:31:20.156Z"
   }
 ]
