@@ -98946,7 +98946,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Nouvelle salve de frappes américaines en Iran, la défense antiaérienne déclenchée à Téhéran",
-    "added_at": "2026-07-22T02:09:08.309Z"
+    "added_at": "2026-07-22T02:09:08.309Z",
+    "removed_at": "2026-07-22T06:37:48.838Z",
+    "duration_minutes": 268,
+    "duration_str": "4h 28m"
   },
   {
     "title": "culture:::A Paléo, Lorde se débat et, finalement, vous gagne",
@@ -98986,5 +98989,16 @@
   {
     "title": "culture:::Au Paléo, Lorde se débat et, finalement, vous gagne",
     "added_at": "2026-07-22T05:31:45.142Z"
+  },
+  {
+    "title": "suisse:::A Genève, la loi interdisant «vêtements longs» et burkini en piscines est suspendue",
+    "added_at": "2026-07-22T06:37:48.838Z",
+    "removed_at": "2026-07-22T06:45:07.845Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "suisse:::A Genève, la loi interdisant «vêtements longs» et burkini dans les piscines est suspendue",
+    "added_at": "2026-07-22T06:45:07.845Z"
   }
 ]
