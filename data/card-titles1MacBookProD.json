@@ -104036,7 +104036,10 @@
   },
   {
     "title": "Au moins 27 morts et 83 disparus dans le naufrage d'un ferry au Guyana",
-    "added_at": "2026-07-21T02:39:37.501Z"
+    "added_at": "2026-07-21T02:39:37.501Z",
+    "removed_at": "2026-07-23T02:36:54.894Z",
+    "duration_minutes": 2877,
+    "duration_str": "1d 23h 57m"
   },
   {
     "title": "Comment le nouveau \"patron\" du Royaume-Uni Andy Burnham a transformé Manchester",
@@ -104468,5 +104471,9 @@
   {
     "title": "Les incendies se multiplient en Sicile sous une chaleur extrême",
     "added_at": "2026-07-22T20:34:56.879Z"
+  },
+  {
+    "title": "Un budget record dans le plan de défense adopté par les députés américains pour 2027",
+    "added_at": "2026-07-23T02:36:54.894Z"
   }
 ]
