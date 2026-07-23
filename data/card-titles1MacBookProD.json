@@ -104188,7 +104188,10 @@
   },
   {
     "title": "Des fresques géantes de Saype visibles seulement quelques jours à Villars-sur-Ollon",
-    "added_at": "2026-07-21T14:38:24.286Z"
+    "added_at": "2026-07-21T14:38:24.286Z",
+    "removed_at": "2026-07-23T17:20:11.081Z",
+    "duration_minutes": 3041,
+    "duration_str": "2d 2h 41m"
   },
   {
     "title": "Des dizaines de personnes appellent à la libération d'un rappeur marocain à Genève",
@@ -104227,7 +104230,10 @@
   },
   {
     "title": "La justice suspend l'interdiction des costumes de bain longs à Genève",
-    "added_at": "2026-07-21T15:41:50.997Z"
+    "added_at": "2026-07-21T15:41:50.997Z",
+    "removed_at": "2026-07-23T18:55:33.037Z",
+    "duration_minutes": 3073,
+    "duration_str": "2d 3h 13m"
   },
   {
     "title": "Evenepoel remporte le chrono de la 16e étape du Tour de France, Voisard 10e du général",
@@ -104263,11 +104269,17 @@
   },
   {
     "title": "Le vin suisse est-il vraiment trop peu soutenu?",
-    "added_at": "2026-07-21T19:20:21.407Z"
+    "added_at": "2026-07-21T19:20:21.407Z",
+    "removed_at": "2026-07-23T19:27:47.960Z",
+    "duration_minutes": 2887,
+    "duration_str": "2d 7m"
   },
   {
     "title": "Arbres contre bitume: la bataille pour survivre à la chaleur dans les villes",
-    "added_at": "2026-07-21T19:30:09.935Z"
+    "added_at": "2026-07-21T19:30:09.935Z",
+    "removed_at": "2026-07-23T18:04:21.258Z",
+    "duration_minutes": 2794,
+    "duration_str": "1d 22h 34m"
   },
   {
     "title": "Le prix de l'essence repart à la hausse en pleine période de vacances",
@@ -104283,11 +104295,17 @@
   },
   {
     "title": "Plus de 2300 foyers privés de courant en raison d'un incendie qui progresse vite dans le Var",
-    "added_at": "2026-07-22T02:36:00.648Z"
+    "added_at": "2026-07-22T02:36:00.648Z",
+    "removed_at": "2026-07-23T19:10:12.745Z",
+    "duration_minutes": 2434,
+    "duration_str": "1d 16h 34m"
   },
   {
     "title": "Qui est Billy Meier, le Suisse à l'origine des plus célèbres photos d'ovnis?",
-    "added_at": "2026-07-22T04:35:43.427Z"
+    "added_at": "2026-07-22T04:35:43.427Z",
+    "removed_at": "2026-07-23T18:11:34.970Z",
+    "duration_minutes": 2255,
+    "duration_str": "1d 13h 35m"
   },
   {
     "title": "Forum - Présenté par Anne Fournier et Renaud Malik",
@@ -104609,7 +104627,10 @@
   },
   {
     "title": "La réaction du commentateur RTS David Lemos à l'issue du match",
-    "added_at": "2026-07-23T09:10:53.805Z"
+    "added_at": "2026-07-23T09:10:53.805Z",
+    "removed_at": "2026-07-23T19:15:04.634Z",
+    "duration_minutes": 604,
+    "duration_str": "10h 4m"
   },
   {
     "title": "Société fribourgeoise de restauration: des cas de racisme dénoncés",
@@ -104635,7 +104656,10 @@
   },
   {
     "title": "Dans l'ombre des personnalités (2/5): Nathalie Goumaz, la plus proche collaboratrice de Guy Parmelin",
-    "added_at": "2026-07-23T09:10:53.805Z"
+    "added_at": "2026-07-23T09:10:53.805Z",
+    "removed_at": "2026-07-23T18:14:01.968Z",
+    "duration_minutes": 543,
+    "duration_str": "9h 3m"
   },
   {
     "title": "L'invité de La Matinale - Daniel Rossellat, directeur du Paléo Festival",
@@ -104826,5 +104850,51 @@
   {
     "title": "La Grèce force l'UE à affaiblir son nouveau paquet de sanctions contre la Russie",
     "added_at": "2026-07-23T17:07:43.636Z"
+  },
+  {
+    "title": "Près de 100 moutons à nez noir tués par la foudre en Valais, parcs anti-loups pointés du doigt",
+    "added_at": "2026-07-23T17:20:11.081Z"
+  },
+  {
+    "title": "Le ministre israélien de la Sécurité nationale Itamar Ben Gvir prie sur l'esplanade des Mosquées à Jérusalem",
+    "added_at": "2026-07-23T18:04:21.258Z",
+    "removed_at": "2026-07-23T19:44:51.121Z",
+    "duration_minutes": 100,
+    "duration_str": "1h 40m"
+  },
+  {
+    "title": "Qui est Billy Meier, le Suisse à l'origine des plus célèbres photos d'OVNIs?",
+    "added_at": "2026-07-23T18:09:11.692Z"
+  },
+  {
+    "title": "Comment lutter contre le phénomène des rodéos urbains? Interview de Patrick Pulh",
+    "added_at": "2026-07-23T18:14:01.968Z"
+  },
+  {
+    "title": "Bachar Fleury, rescapé du Constellation: \"Je suis très fier de mes brûlures\"",
+    "added_at": "2026-07-23T18:55:33.037Z"
+  },
+  {
+    "title": "Des sculptures endommagées au musée en plein air de Séprais dans le canton du Jura",
+    "added_at": "2026-07-23T19:10:12.745Z"
+  },
+  {
+    "title": "Les rebelles houthis du Yémen ont annoncé lundi un blocus de l'Arabie Saoudite",
+    "added_at": "2026-07-23T19:15:04.634Z"
+  },
+  {
+    "title": "\"L'affaire Pelicot n'a pas de frontière\": réactions politiques à l'affaire suisse de viols par soumission chimique",
+    "added_at": "2026-07-23T19:25:18.708Z",
+    "removed_at": "2026-07-23T19:30:11.420Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "\"L'affaire Pelicot n'a pas de frontières\": réactions politiques à l'affaire suisse de viols par soumission chimique",
+    "added_at": "2026-07-23T19:30:11.420Z"
+  },
+  {
+    "title": "Un ministre israélien prie sur l'esplanade des Mosquées à Jérusalem, en violation du statu quo",
+    "added_at": "2026-07-23T19:44:51.121Z"
   }
 ]
