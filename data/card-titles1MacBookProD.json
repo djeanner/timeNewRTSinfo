@@ -104268,7 +104268,10 @@
   },
   {
     "title": "La France interdit les réseaux sociaux au moins de 15 ans, une première européenne",
-    "added_at": "2026-07-21T18:08:31.078Z"
+    "added_at": "2026-07-21T18:08:31.078Z",
+    "removed_at": "2026-07-23T23:09:22.562Z",
+    "duration_minutes": 3180,
+    "duration_str": "2d 5h"
   },
   {
     "title": "Le vin suisse est-il vraiment trop peu soutenu?",
@@ -104337,7 +104340,10 @@
   },
   {
     "title": "Plas Johnson, le saxophoniste de \"La Panthère rose\", est décédé à 94 ans",
-    "added_at": "2026-07-22T06:30:30.162Z"
+    "added_at": "2026-07-22T06:30:30.162Z",
+    "removed_at": "2026-07-24T00:49:19.282Z",
+    "duration_minutes": 2538,
+    "duration_str": "1d 18h 18m"
   },
   {
     "title": "L'épidémie d'Ebola hors de contrôle risque de plonger un million de personnes dans la pauvreté",
@@ -104941,9 +104947,9 @@
   {
     "title": "Aux Rencontres de la photographie d'Arles, une exposition est dédiée aux OVNIs: interview de Philippe Baudouin",
     "added_at": "2026-07-23T21:14:40.411Z",
-    "removed_at": "2026-07-23T22:15:34.655Z",
-    "duration_minutes": 60,
-    "duration_str": "1h"
+    "removed_at": "2026-07-24T01:16:06.589Z",
+    "duration_minutes": 241,
+    "duration_str": "4h 1m"
   },
   {
     "title": "Washington annonce 10 à 12,5% de nouveaux droits de douanes visant une soixantaine de pays",
@@ -104962,5 +104968,16 @@
   {
     "title": "Washington annonce 10 à 12,5% de nouveaux droits de douane visant une soixantaine de pays, dont la Suisse",
     "added_at": "2026-07-23T22:03:24.425Z"
+  },
+  {
+    "title": "Face aux incendies, l'Espagne et la France activent des plans de grande envergure",
+    "added_at": "2026-07-24T00:49:19.282Z",
+    "removed_at": "2026-07-24T00:59:00.886Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Face aux incendies, l'Espagne et la France activent des plans d'urgence de grande envergure",
+    "added_at": "2026-07-24T00:59:00.886Z"
   }
 ]
