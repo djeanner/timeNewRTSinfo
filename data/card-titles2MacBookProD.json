@@ -99324,7 +99324,10 @@
   },
   {
     "title": "culture:::Marilyn Monroe, un idéal féminin nouveau",
-    "added_at": "2026-07-23T08:17:03.954Z"
+    "added_at": "2026-07-23T08:17:03.954Z",
+    "removed_at": "2026-07-24T04:24:13.321Z",
+    "duration_minutes": 1207,
+    "duration_str": "20h 7m"
   },
   {
     "title": "culture:::La Genevoise Roxane au Paléo Festival, l’âme en armure",
@@ -99431,7 +99434,10 @@
   },
   {
     "title": "monde:::Le fort de Brégançon se dévoile pour le dernier été des Macron à Bormes-les-Mimosas",
-    "added_at": "2026-07-23T18:04:21.335Z"
+    "added_at": "2026-07-23T18:04:21.335Z",
+    "removed_at": "2026-07-24T04:21:44.503Z",
+    "duration_minutes": 617,
+    "duration_str": "10h 17m"
   },
   {
     "title": "culture:::Au Paléo Festival, Katarina Barruk fait chanter le sami, une langue menacée",
@@ -99447,11 +99453,17 @@
   },
   {
     "title": "sport:::En images: tu flashes ou tu tires?",
-    "added_at": "2026-07-23T19:12:41.150Z"
+    "added_at": "2026-07-23T19:12:41.150Z",
+    "removed_at": "2026-07-24T04:21:44.503Z",
+    "duration_minutes": 549,
+    "duration_str": "9h 9m"
   },
   {
     "title": "sport:::Ils pratiquent un «sport de vieux»: ces adolescents qui rajeunissent la pétanque suisse",
-    "added_at": "2026-07-23T19:12:41.150Z"
+    "added_at": "2026-07-23T19:12:41.150Z",
+    "removed_at": "2026-07-24T06:35:50.901Z",
+    "duration_minutes": 683,
+    "duration_str": "11h 23m"
   },
   {
     "title": "culture:::Gorillaz a retrouvé le Paléo Festival pour un concert «feel good» et magnifiquement fédérateur",
@@ -99477,7 +99489,10 @@
   },
   {
     "title": "economie:::Washington impose de nouveaux droits de douane de 10 à 12,5% à soixante pays, la Suisse espère qu'elle n'aura pas droit à un traitement plus défavorable",
-    "added_at": "2026-07-24T02:29:28.743Z"
+    "added_at": "2026-07-24T02:29:28.743Z",
+    "removed_at": "2026-07-24T04:09:35.820Z",
+    "duration_minutes": 100,
+    "duration_str": "1h 40m"
   },
   {
     "title": "economie:::Les guerres contre l’Ukraine et l’Iran génèrent une hausse des marées noires",
@@ -99486,5 +99501,50 @@
   {
     "title": "culture:::Disiz et Theodora, un «Melodrama» en deux actes au Paléo",
     "added_at": "2026-07-24T04:04:30.517Z"
+  },
+  {
+    "title": "economie:::Washington impose de nouveaux droits de douane de 10 à 12,5% à soixante pays, la Suisse espère qu’elle n’aura pas droit à un traitement plus défavorable",
+    "added_at": "2026-07-24T04:09:35.820Z"
+  },
+  {
+    "title": "economie:::Faut-il avoir peur des grandes IPO dans la tech?",
+    "added_at": "2026-07-24T04:21:44.503Z"
+  },
+  {
+    "title": "monde:::Confiance et crédibilité, maitres mots du débat des six candidats dans la course à la tête de l'ONU",
+    "added_at": "2026-07-24T04:21:44.503Z",
+    "removed_at": "2026-07-24T06:18:44.150Z",
+    "duration_minutes": 116,
+    "duration_str": "1h 56m"
+  },
+  {
+    "title": "monde:::Donald Trump ne s'opposera pas à l'extradition des frères Tate, réclamée par le Royaume-Uni",
+    "added_at": "2026-07-24T04:24:13.321Z",
+    "removed_at": "2026-07-24T06:11:24.838Z",
+    "duration_minutes": 107,
+    "duration_str": "1h 47m"
+  },
+  {
+    "title": "economie:::Nouvelle-Zélande, Japon, Australie: les alliés des États-Unis dénoncent des surtaxes douanières «injustifiées»",
+    "added_at": "2026-07-24T05:10:29.901Z",
+    "removed_at": "2026-07-24T05:51:56.658Z",
+    "duration_minutes": 41,
+    "duration_str": "41m"
+  },
+  {
+    "title": "economie:::«Injustifiés et incompréhensibles»: les réactions pleuvent après l’annonce des nouveaux droits de douane",
+    "added_at": "2026-07-24T05:51:56.658Z"
+  },
+  {
+    "title": "monde:::Le Canada inaugure tout seul son plus grand pont vers les Etats-Unis",
+    "added_at": "2026-07-24T05:54:23.834Z"
+  },
+  {
+    "title": "economie:::En Italie, le plein-emploi ne remplit pas les portefeuilles",
+    "added_at": "2026-07-24T06:11:24.838Z"
+  },
+  {
+    "title": "monde:::Incendies en Europe: la presqu’île du Cap-Ferret doit être évacuée, la France sollicite l’aide de l’UE",
+    "added_at": "2026-07-24T06:18:44.150Z"
   }
 ]
