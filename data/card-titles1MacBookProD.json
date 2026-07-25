@@ -103263,7 +103263,10 @@
   },
   {
     "title": "Les diverses interdictions de feux des cantons face à la sécheresse",
-    "added_at": "2026-07-18T07:19:35.944Z"
+    "added_at": "2026-07-18T07:19:35.944Z",
+    "removed_at": "2026-07-25T19:23:35.851Z",
+    "duration_minutes": 10803,
+    "duration_str": "7d 12h 3m"
   },
   {
     "title": "Plus de 20 kilomètres de bouchon devant le portail nord du Gothard",
@@ -104856,7 +104859,10 @@
   },
   {
     "title": "Un violent incendie entraîne l'évacuation de plus de 20'000 personnes en Gironde",
-    "added_at": "2026-07-23T10:48:29.269Z"
+    "added_at": "2026-07-23T10:48:29.269Z",
+    "removed_at": "2026-07-25T20:05:40.158Z",
+    "duration_minutes": 3437,
+    "duration_str": "2d 9h 17m"
   },
   {
     "title": "La Suisse condamnée par la CEDH pour avoir privé une détenue enceinte de la visite de son compagnon",
@@ -105501,5 +105507,13 @@
   {
     "title": "Les pompiers genevois préparent le matériel",
     "added_at": "2026-07-25T18:15:06.527Z"
+  },
+  {
+    "title": "Deux pilotes de Swiss privés de vol pour cause d'alcool: \"Ça montre que les contrôles fonctionnent bien!\"",
+    "added_at": "2026-07-25T19:23:35.851Z"
+  },
+  {
+    "title": "Le brunch à la ferme du 1er Août, une vitrine mais aussi un défi pour les agriculteurs",
+    "added_at": "2026-07-25T20:05:40.158Z"
   }
 ]
