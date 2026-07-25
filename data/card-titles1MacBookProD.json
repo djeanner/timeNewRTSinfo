@@ -104880,7 +104880,10 @@
   },
   {
     "title": "Les orques jouent avec leur nourriture ou la préparent cérémonieusement",
-    "added_at": "2026-07-23T12:16:30.351Z"
+    "added_at": "2026-07-23T12:16:30.351Z",
+    "removed_at": "2026-07-25T21:31:18.049Z",
+    "duration_minutes": 3434,
+    "duration_str": "2d 9h 14m"
   },
   {
     "title": "\"Tabasse-là comme je l'ai déjà fait moi-même\": Le conseiller d'Etat tessinois Claudio Zali au cœur d'un scandale",
@@ -105515,5 +105518,30 @@
   {
     "title": "Le brunch à la ferme du 1er Août, une vitrine mais aussi un défi pour les agriculteurs",
     "added_at": "2026-07-25T20:05:40.158Z"
+  },
+  {
+    "title": "Plusieurs personnes ont été blessées en marge d'une marche des fiertés à Berlin",
+    "added_at": "2026-07-25T21:31:18.049Z",
+    "removed_at": "2026-07-25T21:41:00.517Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Un mort et plusieurs blessés à Berlin après l'irruption d'une voiture dans un parc en marge de la marche des fiertés",
+    "added_at": "2026-07-25T21:41:00.517Z",
+    "removed_at": "2026-07-25T21:50:47.465Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Un mort et plusieurs blessés à Berlin après l'irruption d'un véhicule dans un parc en marge de la marche des fiertés",
+    "added_at": "2026-07-25T21:50:47.465Z",
+    "removed_at": "2026-07-25T23:30:43.705Z",
+    "duration_minutes": 99,
+    "duration_str": "1h 39m"
+  },
+  {
+    "title": "Un mort et plusieurs blessés à Berlin percutés par un véhicule en marge de la marche des fiertés",
+    "added_at": "2026-07-25T23:30:43.705Z"
   }
 ]
