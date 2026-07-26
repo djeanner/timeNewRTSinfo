@@ -105127,7 +105127,10 @@
   },
   {
     "title": "Un quartier de Fully en Valais passé à l'insecticide après un cas de dengue",
-    "added_at": "2026-07-23T20:04:39.985Z"
+    "added_at": "2026-07-23T20:04:39.985Z",
+    "removed_at": "2026-07-26T18:56:10.896Z",
+    "duration_minutes": 4251,
+    "duration_str": "2d 22h 51m"
   },
   {
     "title": "Un quartier lausannois bouclé quelques heures après une attaque au bancomat",
@@ -105145,7 +105148,10 @@
   },
   {
     "title": "Grand brûlé de Crans-Montana, Bachar Fleury revit déjà comme avant",
-    "added_at": "2026-07-23T21:14:40.411Z"
+    "added_at": "2026-07-23T21:14:40.411Z",
+    "removed_at": "2026-07-26T20:14:26.937Z",
+    "duration_minutes": 4259,
+    "duration_str": "2d 22h 59m"
   },
   {
     "title": "A cause de la sécheresse, des agriculteurs sont contraints de vendre prématurément leurs vaches à l’abattoir",
@@ -105223,11 +105229,17 @@
   },
   {
     "title": "La circonstance aggravante de racisme envisagée dans le meurtre de Crépol (F)",
-    "added_at": "2026-07-24T06:18:44.073Z"
+    "added_at": "2026-07-24T06:18:44.073Z",
+    "removed_at": "2026-07-26T19:13:18.654Z",
+    "duration_minutes": 3654,
+    "duration_str": "2d 12h 54m"
   },
   {
     "title": "Loin des podiums, Christian Lacroix expose à Arles ses dessins, gribouillages et graffitis",
-    "added_at": "2026-07-24T07:49:21.917Z"
+    "added_at": "2026-07-24T07:49:21.917Z",
+    "removed_at": "2026-07-26T20:26:38.906Z",
+    "duration_minutes": 3637,
+    "duration_str": "2d 12h 37m"
   },
   {
     "title": "Ex-député UDC argovien : l'acte d'accusation révèle l'ampleur des viols présumés",
@@ -105799,5 +105811,17 @@
   {
     "title": "Sempach, 1386: la bataille qui a sauvé la jeune Confédération",
     "added_at": "2026-07-26T18:53:34.379Z"
+  },
+  {
+    "title": "Un incendie ravage le restaurant \"Le Syrien\" à Vevey et fait quatre blessés",
+    "added_at": "2026-07-26T19:13:18.654Z"
+  },
+  {
+    "title": "Dans le Sud-ouest de la France, les incendies font rage",
+    "added_at": "2026-07-26T20:14:26.937Z"
+  },
+  {
+    "title": "À Nendaz, le plus grand cor des Alpes au monde fascine le public",
+    "added_at": "2026-07-26T20:26:38.906Z"
   }
 ]
