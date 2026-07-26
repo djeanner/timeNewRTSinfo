@@ -105210,7 +105210,10 @@
   },
   {
     "title": "Des Landes jusqu’en Grèce, le sud de l’Europe est ravagé par les feux de forêts",
-    "added_at": "2026-07-24T09:14:45.425Z"
+    "added_at": "2026-07-24T09:14:45.425Z",
+    "removed_at": "2026-07-26T03:13:28.593Z",
+    "duration_minutes": 2518,
+    "duration_str": "1d 17h 58m"
   },
   {
     "title": "Les mesures anti-loups sont-elles indirectement la cause de la centaine de moutons foudroyés en Valais?",
@@ -105516,7 +105519,10 @@
   },
   {
     "title": "Deux pilotes de Swiss privés de vol pour cause d'alcool: \"Ça montre que les contrôles fonctionnent bien!\"",
-    "added_at": "2026-07-25T19:23:35.851Z"
+    "added_at": "2026-07-25T19:23:35.851Z",
+    "removed_at": "2026-07-26T05:00:38.166Z",
+    "duration_minutes": 577,
+    "duration_str": "9h 37m"
   },
   {
     "title": "Le brunch à la ferme du 1er Août, une vitrine mais aussi un défi pour les agriculteurs",
@@ -105545,17 +105551,32 @@
   },
   {
     "title": "Un mort et plusieurs blessés à Berlin percutés par un véhicule en marge de la marche des fiertés",
-    "added_at": "2026-07-25T23:30:43.705Z"
+    "added_at": "2026-07-25T23:30:43.705Z",
+    "removed_at": "2026-07-26T03:15:51.641Z",
+    "duration_minutes": 225,
+    "duration_str": "3h 45m"
   },
   {
     "title": "En France, le feu ravage la Gironde: témoignage d’une évacuée",
-    "added_at": "2026-07-26T00:14:49.499Z",
-    "removed_at": "2026-07-26T01:45:28.602Z",
-    "duration_minutes": 90,
-    "duration_str": "1h 30m"
+    "added_at": "2026-07-26T00:14:49.499Z"
   },
   {
     "title": "Forum - Présenté par Mehmet Gultas",
     "added_at": "2026-07-26T01:45:28.602Z"
+  },
+  {
+    "title": "Un mort et plusieurs blessés à Berlin percutés par un véhicule en marge d'un défilé, un suspect en fuite",
+    "added_at": "2026-07-26T03:15:51.641Z",
+    "removed_at": "2026-07-26T03:37:47.480Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
+  },
+  {
+    "title": "Un mort et plusieurs blessés à Berlin percutés par un véhicule en marge d'un défilé, un suspect \"identifié\"",
+    "added_at": "2026-07-26T03:37:47.480Z"
+  },
+  {
+    "title": "Deux pilotes de Swiss privés de vol pour cause d'alcool: \"Ça montre que les contrôles fonctionnent bien\"",
+    "added_at": "2026-07-26T05:00:38.166Z"
   }
 ]
