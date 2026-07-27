@@ -105333,7 +105333,10 @@
   },
   {
     "title": "Les eaux du lac de Bretaye, au-dessus de Villars-sur-Ollon (VD), sont passées du vert au noir",
-    "added_at": "2026-07-24T10:42:39.374Z"
+    "added_at": "2026-07-24T10:42:39.374Z",
+    "removed_at": "2026-07-27T06:12:47.928Z",
+    "duration_minutes": 4050,
+    "duration_str": "2d 19h 30m"
   },
   {
     "title": "La pop animée de Gorillaz et le tralala de Theodora comblent le Paléo Festival",
@@ -105741,7 +105744,10 @@
   },
   {
     "title": "L'Iran épargné par les frappes américaines pour la deuxième nuit consécutive",
-    "added_at": "2026-07-26T11:55:50.416Z"
+    "added_at": "2026-07-26T11:55:50.416Z",
+    "removed_at": "2026-07-27T05:58:10.583Z",
+    "duration_minutes": 1082,
+    "duration_str": "18h 2m"
   },
   {
     "title": "L'incendie hors norme en Gironde se rapproche de plus en plus de Bordeaux",
@@ -105771,7 +105777,10 @@
   },
   {
     "title": "Football: le FC Sion affronte les Young Boys en Super League suisse",
-    "added_at": "2026-07-26T15:13:57.213Z"
+    "added_at": "2026-07-26T15:13:57.213Z",
+    "removed_at": "2026-07-27T06:15:15.831Z",
+    "duration_minutes": 901,
+    "duration_str": "15h 1m"
   },
   {
     "title": "Le Paléo Festival durera un jour de plus pour sa cinquantième édition",
@@ -105867,10 +105876,39 @@
   },
   {
     "title": "Le Brésil rappelle son ambassadeur d'Argentine après des propos offensants de Javier Milei",
-    "added_at": "2026-07-27T05:40:57.662Z"
+    "added_at": "2026-07-27T05:40:57.662Z",
+    "removed_at": "2026-07-27T07:13:41.593Z",
+    "duration_minutes": 92,
+    "duration_str": "1h 32m"
   },
   {
     "title": "Au moins deux morts dans des tirs à Seattle, deux suspects arrêtés",
-    "added_at": "2026-07-27T05:43:24.272Z"
+    "added_at": "2026-07-27T05:43:24.272Z",
+    "removed_at": "2026-07-27T05:55:43.799Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "Au moins deux morts dans des tirs à Seattle, un suspect arrêté",
+    "added_at": "2026-07-27T05:55:43.799Z"
+  },
+  {
+    "title": "Le Moyen-Orient sans nouvelles frappes pour la troisième nuit consécutive",
+    "added_at": "2026-07-27T05:58:10.583Z"
+  },
+  {
+    "title": "Les Suisses se détournent des voitures thermiques au profit de l'électrique",
+    "added_at": "2026-07-27T06:12:47.928Z",
+    "removed_at": "2026-07-27T07:23:27.611Z",
+    "duration_minutes": 70,
+    "duration_str": "1h 10m"
+  },
+  {
+    "title": "Le Brésil rappelle son ambassadeur en Argentine après des propos offensants de Javier Milei",
+    "added_at": "2026-07-27T07:13:41.593Z"
+  },
+  {
+    "title": "La population suisse se détourne des voitures thermiques au profit de l'électrique",
+    "added_at": "2026-07-27T07:23:27.611Z"
   }
 ]
