@@ -105618,7 +105618,10 @@
   },
   {
     "title": "Un collectif de citoyens lutte contre l'oubli de la catastrophe industrielle de Seveso",
-    "added_at": "2026-07-25T09:56:36.925Z"
+    "added_at": "2026-07-25T09:56:36.925Z",
+    "removed_at": "2026-07-27T19:29:33.936Z",
+    "duration_minutes": 3452,
+    "duration_str": "2d 9h 32m"
   },
   {
     "title": "Donald Trump au gala de la presse de Washington, trois mois après le chaos d'avril",
@@ -106114,10 +106117,7 @@
   },
   {
     "title": "Un attentat frappe la Marche des fiertés de Berlin: interview de Frédéric Esposito",
-    "added_at": "2026-07-27T15:15:35.730Z",
-    "removed_at": "2026-07-27T18:13:48.609Z",
-    "duration_minutes": 178,
-    "duration_str": "2h 58m"
+    "added_at": "2026-07-27T15:15:35.730Z"
   },
   {
     "title": "Porsche va supprimer 5000 emplois supplémentaires pour tenter de sortir de la crise",
@@ -106141,5 +106141,9 @@
   {
     "title": "La liberté d'action laissée à l'auteur de l'attentat de Berlin exacerbe les tensions",
     "added_at": "2026-07-27T19:14:43.929Z"
+  },
+  {
+    "title": "Veillée en Argovie en soutien aux victimes des viols perpétrés par un ancien député cantonal",
+    "added_at": "2026-07-27T19:29:33.936Z"
   }
 ]
