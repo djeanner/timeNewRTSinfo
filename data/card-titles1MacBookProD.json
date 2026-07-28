@@ -105595,7 +105595,10 @@
   },
   {
     "title": "Un projet de restaurant asiatique et de musée interactif à la Jungfrau divise l'Oberland bernois",
-    "added_at": "2026-07-25T07:07:51.641Z"
+    "added_at": "2026-07-25T07:07:51.641Z",
+    "removed_at": "2026-07-28T06:04:06.899Z",
+    "duration_minutes": 4256,
+    "duration_str": "2d 22h 56m"
   },
   {
     "title": "Antonio Guterres est arrivé en Syrie pour la première visite d'un chef de l'ONU depuis 2009",
@@ -105642,7 +105645,10 @@
   },
   {
     "title": "Les sternes pierregarins trouvent refuge à Genève grâce à des radeaux nichoirs",
-    "added_at": "2026-07-25T11:07:35.490Z"
+    "added_at": "2026-07-25T11:07:35.490Z",
+    "removed_at": "2026-07-28T04:21:51.099Z",
+    "duration_minutes": 3914,
+    "duration_str": "2d 17h 14m"
   },
   {
     "title": "La Suisse envisage de rouvrir ses bunkers militaires",
@@ -105735,7 +105741,10 @@
   },
   {
     "title": "En France, le feu ravage la Gironde: témoignage d’une évacuée",
-    "added_at": "2026-07-26T00:14:49.499Z"
+    "added_at": "2026-07-26T00:14:49.499Z",
+    "removed_at": "2026-07-28T05:15:27.236Z",
+    "duration_minutes": 3180,
+    "duration_str": "2d 5h"
   },
   {
     "title": "Forum - Présenté par Mehmet Gultas",
@@ -106123,10 +106132,7 @@
   },
   {
     "title": "Un attentat frappe la Marche des fiertés de Berlin: interview de Frédéric Esposito",
-    "added_at": "2026-07-27T15:15:35.730Z",
-    "removed_at": "2026-07-28T01:45:51.061Z",
-    "duration_minutes": 630,
-    "duration_str": "10h 30m"
+    "added_at": "2026-07-27T15:15:35.730Z"
   },
   {
     "title": "Porsche va supprimer 5000 emplois supplémentaires pour tenter de sortir de la crise",
@@ -106166,5 +106172,13 @@
   {
     "title": "Les autorités haïtiennes annoncent des élections en fin d'année, si la sécurité le permet",
     "added_at": "2026-07-28T02:34:33.095Z"
+  },
+  {
+    "title": "Swiss Rescue a amené \"un immense soulagement à la population\" du Venezuela, témoigne un secouriste",
+    "added_at": "2026-07-28T04:21:51.099Z"
+  },
+  {
+    "title": "Le chef du gouvernement tessinois Claudio Zali lâché par le Mattino, journal proche de la Lega",
+    "added_at": "2026-07-28T06:04:06.899Z"
   }
 ]
