@@ -105562,10 +105562,7 @@
   },
   {
     "title": "France : évacuations de masse en Gironde",
-    "added_at": "2026-07-25T00:15:48.637Z",
-    "removed_at": "2026-07-27T14:14:34.199Z",
-    "duration_minutes": 3718,
-    "duration_str": "2d 13h 58m"
+    "added_at": "2026-07-25T00:15:48.637Z"
   },
   {
     "title": "L'Europe fait face à des incendies historiques",
@@ -105617,7 +105614,10 @@
   },
   {
     "title": "Orelsan fait son cinéma et met en scène ses démons intérieurs sur la Grande scène de Paléo",
-    "added_at": "2026-07-25T09:49:17.831Z"
+    "added_at": "2026-07-25T09:49:17.831Z",
+    "removed_at": "2026-07-28T02:34:33.095Z",
+    "duration_minutes": 3885,
+    "duration_str": "2d 16h 45m"
   },
   {
     "title": "Un collectif de citoyens lutte contre l'oubli de la catastrophe industrielle de Seveso",
@@ -105985,10 +105985,7 @@
   },
   {
     "title": "Les Suisses se détournent des voitures thermiques au profit de l'électrique",
-    "added_at": "2026-07-27T06:12:47.928Z",
-    "removed_at": "2026-07-28T00:15:36.803Z",
-    "duration_minutes": 1082,
-    "duration_str": "18h 2m"
+    "added_at": "2026-07-27T06:12:47.928Z"
   },
   {
     "title": "Le Brésil rappelle son ambassadeur en Argentine après des propos offensants de Javier Milei",
@@ -106019,7 +106016,10 @@
   },
   {
     "title": "L'Iran sans nouvelles frappes pour la troisième nuit consécutive",
-    "added_at": "2026-07-27T09:38:09.155Z"
+    "added_at": "2026-07-27T09:38:09.155Z",
+    "removed_at": "2026-07-28T01:33:41.648Z",
+    "duration_minutes": 955,
+    "duration_str": "15h 55m"
   },
   {
     "title": "Le sport gratuit, un nouvel argument des communes pour séduire leurs habitants",
@@ -106065,7 +106065,10 @@
   },
   {
     "title": "Des pompiers romands envoyés en renfort en France pour lutter contre les feux",
-    "added_at": "2026-07-27T12:14:29.254Z"
+    "added_at": "2026-07-27T12:14:29.254Z",
+    "removed_at": "2026-07-28T01:14:15.463Z",
+    "duration_minutes": 779,
+    "duration_str": "12h 59m"
   },
   {
     "title": "La banque Lombard Odier condamnée à trois millions de francs d'amende dans une affaire de corruption",
@@ -106120,7 +106123,10 @@
   },
   {
     "title": "Un attentat frappe la Marche des fiertés de Berlin: interview de Frédéric Esposito",
-    "added_at": "2026-07-27T15:15:35.730Z"
+    "added_at": "2026-07-27T15:15:35.730Z",
+    "removed_at": "2026-07-28T01:45:51.061Z",
+    "duration_minutes": 630,
+    "duration_str": "10h 30m"
   },
   {
     "title": "Porsche va supprimer 5000 emplois supplémentaires pour tenter de sortir de la crise",
@@ -106152,5 +106158,13 @@
   {
     "title": "Forum - Présenté par Mehmet Gultas et Thibaut Schaller",
     "added_at": "2026-07-28T00:15:36.803Z"
+  },
+  {
+    "title": "Washington confirme de nouvelles discussions entre le Liban et Israël début août à Rome",
+    "added_at": "2026-07-28T01:33:41.648Z"
+  },
+  {
+    "title": "Les autorités haïtiennes annoncent des élections en fin d'année, si la sécurité le permet",
+    "added_at": "2026-07-28T02:34:33.095Z"
   }
 ]
