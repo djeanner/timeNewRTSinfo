@@ -106587,7 +106587,10 @@
   },
   {
     "title": "Le Jurassien Yannis Voisard termine 11e de son premier Tour de France: son interview",
-    "added_at": "2026-07-28T20:14:20.139Z"
+    "added_at": "2026-07-28T20:14:20.139Z",
+    "removed_at": "2026-07-29T21:14:17.283Z",
+    "duration_minutes": 1499,
+    "duration_str": "1d 59m"
   },
   {
     "title": "Pedro Sanchez évoque \"la lumière au bout du tunnel\" concernant les incendies",
@@ -106611,7 +106614,10 @@
   },
   {
     "title": "France: malgré la pluie, les incendies sont toujours hors de contrôle",
-    "added_at": "2026-07-28T23:14:54.009Z"
+    "added_at": "2026-07-28T23:14:54.009Z",
+    "removed_at": "2026-07-29T23:13:40.381Z",
+    "duration_minutes": 1438,
+    "duration_str": "23h 58m"
   },
   {
     "title": "Pourquoi les Albanais manifestent depuis 57 jours ?",
@@ -106807,5 +106813,13 @@
   {
     "title": "Le DDPS limite l'accès des voitures connectées aux infrastructures sensibles",
     "added_at": "2026-07-29T20:04:45.920Z"
+  },
+  {
+    "title": "Forum - Présenté par Thibaut Schaller et Mehmet Gultas",
+    "added_at": "2026-07-29T21:14:17.283Z"
+  },
+  {
+    "title": "Un séisme de magnitude 7,1 fait au moins un mort dans le Sud-Ouest du Japon",
+    "added_at": "2026-07-29T23:13:40.381Z"
   }
 ]
