@@ -100697,7 +100697,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Washington et Ryad mènent des frappes en Irak contre des alliés de l’Iran",
-    "added_at": "2026-07-29T01:19:52.492Z"
+    "added_at": "2026-07-29T01:19:52.492Z",
+    "removed_at": "2026-07-29T13:23:26.014Z",
+    "duration_minutes": 723,
+    "duration_str": "12h 3m"
   },
   {
     "title": "monde:::Le séisme au Japon a fait au moins 13 morts, des personnes toujours piégées dans les décombres",
@@ -100719,7 +100722,10 @@
   },
   {
     "title": "economie:::UBS enregistre une nette hausse de son bénéfice au 2e trimestre",
-    "added_at": "2026-07-29T04:53:02.534Z"
+    "added_at": "2026-07-29T04:53:02.534Z",
+    "removed_at": "2026-07-29T13:42:54.928Z",
+    "duration_minutes": 529,
+    "duration_str": "8h 49m"
   },
   {
     "title": "economie:::Les Etats-Unis perdent leur statut de principale puissance agricole en partie à cause des droits de douane",
@@ -100752,11 +100758,17 @@
   },
   {
     "title": "culture:::Le chef Gianandrea Noseda au Verbier Festival, l’Italie au bout d’une baguette ensorcelée",
-    "added_at": "2026-07-29T07:51:13.211Z"
+    "added_at": "2026-07-29T07:51:13.211Z",
+    "removed_at": "2026-07-29T14:12:29.274Z",
+    "duration_minutes": 381,
+    "duration_str": "6h 21m"
   },
   {
     "title": "suisse:::Sept ministres, un pays… et pas une minute ensemble pour le 1er août",
-    "added_at": "2026-07-29T07:56:03.171Z"
+    "added_at": "2026-07-29T07:56:03.171Z",
+    "removed_at": "2026-07-29T12:34:40.399Z",
+    "duration_minutes": 278,
+    "duration_str": "4h 38m"
   },
   {
     "title": "economie:::Les grands escrocs de la finance: Gregor MacGregor, l’homme qui a vendu un pays imaginaire… ou presque",
@@ -100767,15 +100779,24 @@
   },
   {
     "title": "monde:::L’année 2025 bat des records en nombre d’attaques antisémites meurtrières dans le monde",
-    "added_at": "2026-07-29T09:51:08.778Z"
+    "added_at": "2026-07-29T09:51:08.778Z",
+    "removed_at": "2026-07-29T12:32:11.174Z",
+    "duration_minutes": 161,
+    "duration_str": "2h 41m"
   },
   {
     "title": "suisse:::«Rester focus quoi qu’il arrive»: de Lausanne à Brigue, aux commandes d’un titan d’acier",
-    "added_at": "2026-07-29T10:05:46.452Z"
+    "added_at": "2026-07-29T10:05:46.452Z",
+    "removed_at": "2026-07-29T12:49:18.263Z",
+    "duration_minutes": 163,
+    "duration_str": "2h 43m"
   },
   {
     "title": "sciences:::Les orques collaborent pour pulvériser leurs proies: pour jouer ou pour mixer la nourriture de leurs bébés?",
-    "added_at": "2026-07-29T10:15:29.096Z"
+    "added_at": "2026-07-29T10:15:29.096Z",
+    "removed_at": "2026-07-29T14:00:15.612Z",
+    "duration_minutes": 224,
+    "duration_str": "3h 44m"
   },
   {
     "title": "culture:::«Monet au Havre», retour au temps de la jeunesse insouciante du peintre des «Nymphéas»",
@@ -100791,6 +100812,44 @@
   },
   {
     "title": "sport:::Faire de la FIFA une SA, la dernière tentation de Gianni Infantino",
-    "added_at": "2026-07-29T11:23:49.131Z"
+    "added_at": "2026-07-29T11:23:49.131Z",
+    "removed_at": "2026-07-29T15:04:04.903Z",
+    "duration_minutes": 220,
+    "duration_str": "3h 40m"
+  },
+  {
+    "title": "culture:::Kavinsky, auteur de «Nightcall», s’est évanoui dans la nuit",
+    "added_at": "2026-07-29T12:32:11.174Z"
+  },
+  {
+    "title": "suisse:::Sept ministres, un pays… et pas une minute ensemble pour le 1er Août",
+    "added_at": "2026-07-29T12:34:40.399Z"
+  },
+  {
+    "title": "culture:::Immersion dans un atelier de prospective pour apprendre à imaginer la France de 2040",
+    "added_at": "2026-07-29T12:49:18.263Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Donald Trump menace de frapper «fort» l'Iran suite à la reprise des affrontements",
+    "added_at": "2026-07-29T13:23:26.014Z"
+  },
+  {
+    "title": "economie:::Portée par la banque d’affaires, UBS enregistre une nette hausse de son bénéfice au deuxième trimestre",
+    "added_at": "2026-07-29T13:42:54.928Z"
+  },
+  {
+    "title": "culture:::«Napoli – New York», un minestrone réchauffé en mémoire de l'émigration italienne aux Etats-Unis",
+    "added_at": "2026-07-29T14:12:29.274Z",
+    "removed_at": "2026-07-29T15:01:35.726Z",
+    "duration_minutes": 49,
+    "duration_str": "49m"
+  },
+  {
+    "title": "culture:::«Napoli-New York», un minestrone réchauffé en mémoire de l’émigration italienne aux Etats-Unis",
+    "added_at": "2026-07-29T15:01:35.726Z"
+  },
+  {
+    "title": "monde:::Au cœur de la cellule de crise de l’UE, mobilisée 24h sur 24 pour les feux de forêt",
+    "added_at": "2026-07-29T15:04:04.903Z"
   }
 ]
