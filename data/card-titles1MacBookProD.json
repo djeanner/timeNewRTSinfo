@@ -106277,7 +106277,10 @@
   },
   {
     "title": "Alors qu'une nouvelle canicule est annoncée, le risque d'incendie est important en Suisse",
-    "added_at": "2026-07-27T13:03:15.475Z"
+    "added_at": "2026-07-27T13:03:15.475Z",
+    "removed_at": "2026-07-30T04:24:27.700Z",
+    "duration_minutes": 3801,
+    "duration_str": "2d 15h 21m"
   },
   {
     "title": "La banque Lombard Odier condamnée à trois millions de francs d'amende dans l'affaire \"Karimova\"",
@@ -106300,7 +106303,10 @@
   },
   {
     "title": "Les maladies psychiques restent la première cause d'invalidité en Suisse",
-    "added_at": "2026-07-27T14:31:39.984Z"
+    "added_at": "2026-07-27T14:31:39.984Z",
+    "removed_at": "2026-07-30T03:08:59.419Z",
+    "duration_minutes": 3637,
+    "duration_str": "2d 12h 37m"
   },
   {
     "title": "'De la Comédie-Française' démystifie avec humour la célèbre institution théâtrale française",
@@ -106417,7 +106423,10 @@
   },
   {
     "title": "Feux de forêt: pourquoi la France manque-t-elle de Canadairs?",
-    "added_at": "2026-07-28T09:14:45.727Z"
+    "added_at": "2026-07-28T09:14:45.727Z",
+    "removed_at": "2026-07-30T02:14:33.495Z",
+    "duration_minutes": 2459,
+    "duration_str": "1d 16h 59m"
   },
   {
     "title": "Zinédine Zidane nommé sélectionneur de la France pour 4 ans",
@@ -106799,10 +106808,7 @@
   },
   {
     "title": "Mon été en préventive (1/5): la prison du Bois-Mermet à Lausanne",
-    "added_at": "2026-07-29T17:15:53.110Z",
-    "removed_at": "2026-07-30T01:47:31.331Z",
-    "duration_minutes": 511,
-    "duration_str": "8h 31m"
+    "added_at": "2026-07-29T17:15:53.110Z"
   },
   {
     "title": "C'est quoi cette folie des tacos?",
@@ -106835,5 +106841,13 @@
   {
     "title": "Kavinsky, le géant de la musique électronique française, est décédé à l’âge de 50 ans: interview de Florence Halazy",
     "added_at": "2026-07-30T01:47:31.331Z"
+  },
+  {
+    "title": "Plus de 92'000 Romands recherchent activement un logement en France voisine",
+    "added_at": "2026-07-30T03:08:59.419Z"
+  },
+  {
+    "title": "En cinq ans, le nombre de nids de guêpes recensés par les assureurs a quintuplé en Suisse",
+    "added_at": "2026-07-30T04:24:27.700Z"
   }
 ]
