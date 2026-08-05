@@ -107110,15 +107110,24 @@
   },
   {
     "title": "De nombreux enfants sont arrivés seuls dans l'enclave espagnole de Ceuta",
-    "added_at": "2026-08-03T15:22:56.591Z"
+    "added_at": "2026-08-03T15:22:56.591Z",
+    "removed_at": "2026-08-05T14:24:14.704Z",
+    "duration_minutes": 2821,
+    "duration_str": "1d 23h 1m"
   },
   {
     "title": "Travis Scott transforme une forteresse tessinoise en décor de clip",
-    "added_at": "2026-08-03T15:22:56.591Z"
+    "added_at": "2026-08-03T15:22:56.591Z",
+    "removed_at": "2026-08-05T14:07:04.957Z",
+    "duration_minutes": 2804,
+    "duration_str": "1d 22h 44m"
   },
   {
     "title": "Un Suisse et un militaire tués dans une attaque en Centrafrique",
-    "added_at": "2026-08-03T15:22:56.591Z"
+    "added_at": "2026-08-03T15:22:56.591Z",
+    "removed_at": "2026-08-05T13:57:16.699Z",
+    "duration_minutes": 2794,
+    "duration_str": "1d 22h 34m"
   },
   {
     "title": "L'incendie dans les toits du centre-ville d'Aigle sous contrôle, l'intervention se poursuit",
@@ -107623,7 +107632,10 @@
   },
   {
     "title": "L'incendie dans les toits du centre-ville d'Aigle est éteint",
-    "added_at": "2026-08-03T15:32:42.921Z"
+    "added_at": "2026-08-03T15:32:42.921Z",
+    "removed_at": "2026-08-05T14:55:59.331Z",
+    "duration_minutes": 2843,
+    "duration_str": "1d 23h 23m"
   },
   {
     "title": "Naissances prématurées, infarctus, diabète… Les séquelles méconnues de la canicule sur notre santé",
@@ -107638,11 +107650,17 @@
   },
   {
     "title": "Le mystère est levé: c'est un virus qui sévit dans les troupeaux de vaches",
-    "added_at": "2026-08-03T15:49:56.735Z"
+    "added_at": "2026-08-03T15:49:56.735Z",
+    "removed_at": "2026-08-05T14:36:25.345Z",
+    "duration_minutes": 2806,
+    "duration_str": "1d 22h 46m"
   },
   {
     "title": "Fribourg demande l'aide de l'armée pour ravitailler ses alpages en eau",
-    "added_at": "2026-08-03T15:57:18.310Z"
+    "added_at": "2026-08-03T15:57:18.310Z",
+    "removed_at": "2026-08-05T14:24:14.704Z",
+    "duration_minutes": 2786,
+    "duration_str": "1d 22h 26m"
   },
   {
     "title": "Impressionnantes images de l'incendie de toitures à Aigle qui est sous contrôle",
@@ -107720,7 +107738,10 @@
   },
   {
     "title": "Le bilan du double séisme au Venezuela grimpe à plus de 6000 morts",
-    "added_at": "2026-08-04T04:19:03.069Z"
+    "added_at": "2026-08-04T04:19:03.069Z",
+    "removed_at": "2026-08-05T15:59:31.814Z",
+    "duration_minutes": 2140,
+    "duration_str": "1d 11h 40m"
   },
   {
     "title": "Le Conseil fédéral justifie la suppression des fonds pour adapter la forêt suisse au changement climatique",
@@ -108081,5 +108102,59 @@
   {
     "title": "Un drone muni d'un explosif a été découvert sur un hub militaire de l'Otan à Leipzig",
     "added_at": "2026-08-05T13:34:59.658Z"
+  },
+  {
+    "title": "L'écrivain Didier Decoin, prix Goncourt en 1977 et ancien président de son jury, est décédé",
+    "added_at": "2026-08-05T13:57:16.699Z"
+  },
+  {
+    "title": "Prison avec sursis pour deux streamers français après la mort en direct d'un comparse",
+    "added_at": "2026-08-05T14:07:04.957Z",
+    "removed_at": "2026-08-05T14:09:33.500Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Deux streamers français condamnés à de la prison avec sursis pour violence en ligne",
+    "added_at": "2026-08-05T14:09:33.500Z",
+    "removed_at": "2026-08-05T16:24:03.495Z",
+    "duration_minutes": 134,
+    "duration_str": "2h 14m"
+  },
+  {
+    "title": "Quatre hommes poignardés dans un quartier fréquenté de Londres, une femme arrêtée",
+    "added_at": "2026-08-05T14:24:14.704Z"
+  },
+  {
+    "title": "Les remontées mécaniques enregistrent un bon mois de juillet, mais Vaud et Fribourg sont à la peine",
+    "added_at": "2026-08-05T14:24:14.704Z"
+  },
+  {
+    "title": "Une partie de la fusée Falcon 9 de SpaceX s'est probablement écrasée sur la Lune",
+    "added_at": "2026-08-05T14:36:25.345Z"
+  },
+  {
+    "title": "Comment construire la paix?",
+    "added_at": "2026-08-05T14:55:59.331Z"
+  },
+  {
+    "title": "Chaleur et sécheresse fragilisent les arbres, qui n'ont plus besoin de tempête pour s'effondrer",
+    "added_at": "2026-08-05T15:49:43.916Z"
+  },
+  {
+    "title": "Les autorités de Ceuta alertent sur la situation des mineurs restés sur place",
+    "added_at": "2026-08-05T15:59:31.814Z"
+  },
+  {
+    "title": "Demi Vollering remporte la 5e étape du Tour de France, Marlen Reusser reste en jaune",
+    "added_at": "2026-08-05T16:09:21.730Z"
+  },
+  {
+    "title": "Lara Gut-Behrami met un terme à sa carrière",
+    "added_at": "2026-08-05T16:21:33.358Z"
+  },
+  {
+    "title": "Deux streamers français condamnés à de la prison avec sursis après la mort en direct d'un de leurs comparses",
+    "added_at": "2026-08-05T16:24:03.495Z"
   }
 ]
