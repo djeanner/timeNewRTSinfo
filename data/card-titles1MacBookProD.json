@@ -107106,7 +107106,10 @@
   },
   {
     "title": "A Bâle, 26 contaminations, dont un décès, après une flambée de légionellose",
-    "added_at": "2026-08-03T15:22:56.591Z"
+    "added_at": "2026-08-03T15:22:56.591Z",
+    "removed_at": "2026-08-05T17:08:54.037Z",
+    "duration_minutes": 2985,
+    "duration_str": "2d 1h 45m"
   },
   {
     "title": "De nombreux enfants sont arrivés seuls dans l'enclave espagnole de Ceuta",
@@ -107693,7 +107696,10 @@
   },
   {
     "title": "L'assèchement du Rhin a de lourdes conséquences économiques",
-    "added_at": "2026-08-03T19:38:27.946Z"
+    "added_at": "2026-08-03T19:38:27.946Z",
+    "removed_at": "2026-08-05T18:58:55.602Z",
+    "duration_minutes": 2840,
+    "duration_str": "1d 23h 20m"
   },
   {
     "title": "Des milliers de foyers privés d'électricité dans le canton de Genève après le passage d'orages",
@@ -107708,11 +107714,17 @@
   },
   {
     "title": "Une cinquantaine d'habitants évacués après un incendie à Aigle",
-    "added_at": "2026-08-03T21:16:31.611Z"
+    "added_at": "2026-08-03T21:16:31.611Z",
+    "removed_at": "2026-08-05T17:16:14.279Z",
+    "duration_minutes": 2639,
+    "duration_str": "1d 19h 59m"
   },
   {
     "title": "Vingt-cinq Etats démocrates contestent les derniers droits de douane en justice",
-    "added_at": "2026-08-03T22:26:09.744Z"
+    "added_at": "2026-08-03T22:26:09.744Z",
+    "removed_at": "2026-08-05T19:06:16.339Z",
+    "duration_minutes": 2680,
+    "duration_str": "1d 20h 40m"
   },
   {
     "title": "Forum – Présenté par Thibaut Schaller",
@@ -108156,5 +108168,17 @@
   {
     "title": "Deux streamers français condamnés à de la prison avec sursis après la mort en direct d'un de leurs comparses",
     "added_at": "2026-08-05T16:24:03.495Z"
+  },
+  {
+    "title": "Fonte des glaciers, interview du chercheur Christophe Lambiel",
+    "added_at": "2026-08-05T17:16:14.279Z"
+  },
+  {
+    "title": "La sécheresse a tué des centaines de milliers de poissons en Suisse cet été",
+    "added_at": "2026-08-05T18:58:55.602Z"
+  },
+  {
+    "title": "Le canton de Neuchâtel réduit son éclairage public pour mieux observer les Perséides",
+    "added_at": "2026-08-05T19:06:16.339Z"
   }
 ]
