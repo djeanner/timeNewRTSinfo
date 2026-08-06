@@ -81355,7 +81355,10 @@
   },
   {
     "title": "culture:::Le grand guide des festivals de l’été 2026",
-    "added_at": "2026-05-24T14:35:25.210Z"
+    "added_at": "2026-05-24T14:35:25.210Z",
+    "removed_at": "2026-08-06T08:58:37.268Z",
+    "duration_minutes": 106223,
+    "duration_str": "73d 18h 23m"
   },
   {
     "title": "monde:::Moyen-Orient – Notre suivi de la semaine du 18 mai",
@@ -94813,10 +94816,7 @@
   },
   {
     "title": "sciences:::Arpenter le Mont-Blanc: Compter les myrtilles, les têtards et les bourdons, et évaluer l’impact du changement climatique",
-    "added_at": "2026-07-07T09:25:35.618Z",
-    "removed_at": "2026-07-08T19:09:01.439Z",
-    "duration_minutes": 2023,
-    "duration_str": "1d 9h 43m"
+    "added_at": "2026-07-07T09:25:35.618Z"
   },
   {
     "title": "monde:::Aux Etats-Unis, l’essor croissant des démocrates socialistes interroge la direction du parti",
@@ -101826,7 +101826,10 @@
   },
   {
     "title": "monde:::En graphiques — L’économie plombe Donald Trump, plus impopulaire que jamais",
-    "added_at": "2026-08-05T18:05:05.566Z"
+    "added_at": "2026-08-05T18:05:05.566Z",
+    "removed_at": "2026-08-06T10:16:52.030Z",
+    "duration_minutes": 971,
+    "duration_str": "16h 11m"
   },
   {
     "title": "monde:::Dans le Michigan, Abdul El-Sayed l'emporte contre son adversaire soutenue par l'AIPAC",
@@ -101873,15 +101876,24 @@
   },
   {
     "title": "economie:::«L’incertitude est presque pire que la guerre»: à Dubaï, le cœur financier du Moyen-Orient, la crainte d’un conflit qui s’enlise",
-    "added_at": "2026-08-06T04:31:33.903Z"
+    "added_at": "2026-08-06T04:31:33.903Z",
+    "removed_at": "2026-08-06T10:21:42.279Z",
+    "duration_minutes": 350,
+    "duration_str": "5h 50m"
   },
   {
     "title": "sciences:::Pour la philosophe Joëlle Zask, «il faut une éducation au feu dès l’école»",
-    "added_at": "2026-08-06T05:08:41.154Z"
+    "added_at": "2026-08-06T05:08:41.154Z",
+    "removed_at": "2026-08-06T09:47:33.252Z",
+    "duration_minutes": 278,
+    "duration_str": "4h 38m"
   },
   {
     "title": "sport:::Au Tour de France, la Suissesse Marlen Reusser conserve son maillot jaune avec son sang-froid",
-    "added_at": "2026-08-06T05:16:00.400Z"
+    "added_at": "2026-08-06T05:16:00.400Z",
+    "removed_at": "2026-08-06T09:03:29.124Z",
+    "duration_minutes": 227,
+    "duration_str": "3h 47m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L'Iran affirme avoir trouvé un accord sur le détroit d'Ormuz avec Oman",
@@ -101901,10 +101913,25 @@
   },
   {
     "title": "culture:::Obligées de financer le cinéma et les séries suisses, Netflix, Disney & Co commencent timidement",
-    "added_at": "2026-08-06T08:02:07.950Z"
+    "added_at": "2026-08-06T08:02:07.950Z",
+    "removed_at": "2026-08-06T10:41:52.970Z",
+    "duration_minutes": 159,
+    "duration_str": "2h 39m"
   },
   {
     "title": "economie:::Le Rhin s'assèche, l'industrie allemande en quête de solutions",
     "added_at": "2026-08-06T08:46:08.542Z"
+  },
+  {
+    "title": "suisse:::Le prix des lettres va augmenter l'année prochaine",
+    "added_at": "2026-08-06T09:47:33.252Z"
+  },
+  {
+    "title": "suisse:::Avec les requérants d’asile mineurs non accompagnés, vacances en eaux vives",
+    "added_at": "2026-08-06T10:21:42.279Z"
+  },
+  {
+    "title": "culture:::Obligées de financer le cinéma et les séries suisses, Netflix, Disney & Co commencent timidement",
+    "added_at": "2026-08-06T10:41:52.970Z"
   }
 ]
