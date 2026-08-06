@@ -8226,10 +8226,7 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z",
-    "removed_at": "2026-07-28T21:25:04.758Z",
-    "duration_minutes": 622283,
-    "duration_str": "432d 3h 23m"
+    "added_at": "2025-05-22T18:01:52.008Z"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -101764,7 +101761,10 @@
   },
   {
     "title": "suisse:::Caserne, train d’extinction et déluge d’eau: à Olten, les pompiers du rail offrent un aperçu de leur quotidien",
-    "added_at": "2026-08-05T15:47:20.724Z"
+    "added_at": "2026-08-05T15:47:20.724Z",
+    "removed_at": "2026-08-06T13:18:26.653Z",
+    "duration_minutes": 1291,
+    "duration_str": "21h 31m"
   },
   {
     "title": "monde:::Raphaël Glucksmann et Gabriel Attal ciblés par des ingérences russes, la classe politique française appréhende une campagne sous influence",
@@ -101793,7 +101793,10 @@
   },
   {
     "title": "monde:::Deepfakes, faux médias et acteurs amateurs: Storm-1516, anatomie d’un réseau de désinformation russe",
-    "added_at": "2026-08-05T16:46:54.458Z"
+    "added_at": "2026-08-05T16:46:54.458Z",
+    "removed_at": "2026-08-06T12:44:13.262Z",
+    "duration_minutes": 1197,
+    "duration_str": "19h 57m"
   },
   {
     "title": "culture:::Ted Lasso est de retour, et le football redevient gentil",
@@ -101804,7 +101807,10 @@
   },
   {
     "title": "suisse:::Moscou sermonne le Conseil fédéral et s’immisce dans la campagne sur la neutralité",
-    "added_at": "2026-08-05T17:16:14.358Z"
+    "added_at": "2026-08-05T17:16:14.358Z",
+    "removed_at": "2026-08-06T12:32:02.737Z",
+    "duration_minutes": 1155,
+    "duration_str": "19h 15m"
   },
   {
     "title": "suisse:::Albert Rösti, sur les coupes dans l’adaptation des forêts: «Je ne peux pas justifier cette décision sur le fond. Ces moyens sont nécessaires»",
@@ -101826,10 +101832,7 @@
   },
   {
     "title": "monde:::En graphiques — L’économie plombe Donald Trump, plus impopulaire que jamais",
-    "added_at": "2026-08-05T18:05:05.566Z",
-    "removed_at": "2026-08-06T10:16:52.030Z",
-    "duration_minutes": 971,
-    "duration_str": "16h 11m"
+    "added_at": "2026-08-05T18:05:05.566Z"
   },
   {
     "title": "monde:::Dans le Michigan, Abdul El-Sayed l'emporte contre son adversaire soutenue par l'AIPAC",
@@ -101924,7 +101927,10 @@
   },
   {
     "title": "suisse:::Le prix des lettres va augmenter l'année prochaine",
-    "added_at": "2026-08-06T09:47:33.252Z"
+    "added_at": "2026-08-06T09:47:33.252Z",
+    "removed_at": "2026-08-06T13:06:13.422Z",
+    "duration_minutes": 198,
+    "duration_str": "3h 18m"
   },
   {
     "title": "suisse:::Avec les requérants d’asile mineurs non accompagnés, vacances en eaux vives",
@@ -101932,6 +101938,24 @@
   },
   {
     "title": "culture:::Obligées de financer le cinéma et les séries suisses, Netflix, Disney & Co commencent timidement",
-    "added_at": "2026-08-06T10:41:52.970Z"
+    "added_at": "2026-08-06T10:41:52.970Z",
+    "removed_at": "2026-08-06T13:45:18.319Z",
+    "duration_minutes": 183,
+    "duration_str": "3h 3m"
+  },
+  {
+    "title": "suisse:::Le prix des lettres va augmenter l’année prochaine",
+    "added_at": "2026-08-06T13:06:13.422Z"
+  },
+  {
+    "title": "culture:::De la «world music» au singeli, les musiques tanzaniennes dans tous leurs états au Castrum d’Yverdon",
+    "added_at": "2026-08-06T13:18:26.653Z",
+    "removed_at": "2026-08-06T13:57:35.438Z",
+    "duration_minutes": 39,
+    "duration_str": "39m"
+  },
+  {
+    "title": "culture:::De la world music au singeli, les musiques tanzaniennes dans tous leurs états au Castrum d’Yverdon",
+    "added_at": "2026-08-06T13:57:35.438Z"
   }
 ]
