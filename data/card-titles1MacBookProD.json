@@ -107698,7 +107698,10 @@
   },
   {
     "title": "Qui sont les Marocains qui ont afflué dans l'enclave espagnole de Ceuta?",
-    "added_at": "2026-08-03T19:21:17.694Z"
+    "added_at": "2026-08-03T19:21:17.694Z",
+    "removed_at": "2026-08-05T23:08:52.557Z",
+    "duration_minutes": 3107,
+    "duration_str": "2d 3h 47m"
   },
   {
     "title": "L'assèchement du Rhin a de lourdes conséquences économiques",
@@ -107829,7 +107832,10 @@
   },
   {
     "title": "Le Rhin au plus bas fait grimper le prix à la pompe en Suisse",
-    "added_at": "2026-08-04T11:20:28.522Z"
+    "added_at": "2026-08-04T11:20:28.522Z",
+    "removed_at": "2026-08-05T23:16:12.695Z",
+    "duration_minutes": 2155,
+    "duration_str": "1d 11h 55m"
   },
   {
     "title": "Les prix de l'AG augmenteront moins qu'annoncé, l'abo 2e classe à plus de 4000 francs",
@@ -107855,7 +107861,10 @@
   },
   {
     "title": "Incendie dans le centre historique d'Aigle",
-    "added_at": "2026-08-04T13:47:17.403Z"
+    "added_at": "2026-08-04T13:47:17.403Z",
+    "removed_at": "2026-08-06T00:14:53.876Z",
+    "duration_minutes": 2067,
+    "duration_str": "1d 10h 27m"
   },
   {
     "title": "'L’Être aux sommets', du théâtre montagnard qui fait du bien",
@@ -107871,10 +107880,7 @@
   },
   {
     "title": "La forêt suisse souffre, le financement de son adaptation fait débat",
-    "added_at": "2026-08-04T14:14:09.031Z",
-    "removed_at": "2026-08-05T09:13:15.060Z",
-    "duration_minutes": 1139,
-    "duration_str": "18h 59m"
+    "added_at": "2026-08-04T14:14:09.031Z"
   },
   {
     "title": "Un été 2026 aussi chaud que celui de 2003 en Suisse, un mois de juillet record en France",
@@ -108197,5 +108203,9 @@
   {
     "title": "Une partie de la fusée Falcon 9 de SpaceX s'est écrasée sur la Lune",
     "added_at": "2026-08-05T21:47:54.627Z"
+  },
+  {
+    "title": "Mousse acoustique, sorties de secours... L'incendie du Constellation s'est-il joué dès les travaux de 2015 ?",
+    "added_at": "2026-08-06T00:14:53.876Z"
   }
 ]
