@@ -107813,7 +107813,10 @@
   },
   {
     "title": "Une cyberattaque a visé les serveurs Sharepoint de l'Office fédéral de l'informatique",
-    "added_at": "2026-08-04T10:01:13.231Z"
+    "added_at": "2026-08-04T10:01:13.231Z",
+    "removed_at": "2026-08-06T03:40:15.090Z",
+    "duration_minutes": 2499,
+    "duration_str": "1d 17h 39m"
   },
   {
     "title": "Les partisans de l'initiative sur la neutralité lancent leur campagne",
@@ -108085,7 +108088,10 @@
   },
   {
     "title": "Les rebelles houthis du Yémen affirment avoir attaqué un pétrolier saoudien en mer Rouge",
-    "added_at": "2026-08-05T10:16:40.936Z"
+    "added_at": "2026-08-05T10:16:40.936Z",
+    "removed_at": "2026-08-06T03:52:29.938Z",
+    "duration_minutes": 1055,
+    "duration_str": "17h 35m"
   },
   {
     "title": "Un septuagénaire grièvement blessé à Sainte-Croix à la suite d'une altercation avec des jeunes",
@@ -108221,5 +108227,17 @@
   {
     "title": "Lara Gut- Behrami met fin à sa carrière",
     "added_at": "2026-08-06T03:15:43.056Z"
+  },
+  {
+    "title": "La FIFA présente ses excuses mais réaffirme son soutien à Gianni Infantino",
+    "added_at": "2026-08-06T03:40:15.090Z"
+  },
+  {
+    "title": "L'Iran dit s'être accordé avec Oman sur un nouvel itinéraire dans le détroit d'Ormuz",
+    "added_at": "2026-08-06T03:52:29.938Z"
+  },
+  {
+    "title": "\"Volna Kupol Garant\", le brouilleur russe qui veut aveugler les drones ukrainiens",
+    "added_at": "2026-08-06T04:16:53.748Z"
   }
 ]
