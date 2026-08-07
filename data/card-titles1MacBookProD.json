@@ -108162,7 +108162,10 @@
   },
   {
     "title": "Marlen Reusser remporte le chrono et prend le maillot jaune",
-    "added_at": "2026-08-05T08:17:01.324Z"
+    "added_at": "2026-08-05T08:17:01.324Z",
+    "removed_at": "2026-08-06T23:14:14.345Z",
+    "duration_minutes": 2337,
+    "duration_str": "1d 14h 57m"
   },
   {
     "title": "Comment expliquer cette vague migratoire spontanée à Ceuta?",
@@ -108329,10 +108332,7 @@
   },
   {
     "title": "Mousse acoustique, sorties de secours... L'incendie du Constellation s'est-il joué dès les travaux de 2015 ?",
-    "added_at": "2026-08-06T00:14:53.876Z",
-    "removed_at": "2026-08-06T01:45:21.367Z",
-    "duration_minutes": 90,
-    "duration_str": "1h 30m"
+    "added_at": "2026-08-06T00:14:53.876Z"
   },
   {
     "title": "Fin de carrière pour Lara Gut-Behrami: son parcours avec Romain Roseng",
@@ -108490,7 +108490,10 @@
   },
   {
     "title": "Le potentiel des batteries à grande capacité, en rediffusion",
-    "added_at": "2026-08-06T12:17:20.932Z"
+    "added_at": "2026-08-06T12:17:20.932Z",
+    "removed_at": "2026-08-07T00:14:00.426Z",
+    "duration_minutes": 716,
+    "duration_str": "11h 56m"
   },
   {
     "title": "Donald Trump réfute toute pénurie d'armements américains et fustige les médias",
@@ -108599,5 +108602,9 @@
   {
     "title": "L'UEFA maintient son boycott des Coupes du monde de la FIFA",
     "added_at": "2026-08-06T19:58:12.653Z"
+  },
+  {
+    "title": "Lara Gut-Behrami met un terme à sa carrière: interview de Patrice Morisod",
+    "added_at": "2026-08-07T00:14:00.426Z"
   }
 ]
