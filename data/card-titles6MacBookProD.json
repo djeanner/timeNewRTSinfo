@@ -104001,7 +104001,10 @@
   },
   {
     "title": "UNICEF says one child killed per day in Gaza since ‘ceasefire’",
-    "added_at": "2026-08-06T21:16:27.986Z"
+    "added_at": "2026-08-06T21:16:27.986Z",
+    "removed_at": "2026-08-07T08:04:46.080Z",
+    "duration_minutes": 648,
+    "duration_str": "10h 48m"
   },
   {
     "title": "Toronto police arrest two in US Consulate shooting investigation",
@@ -104021,5 +104024,12 @@
   {
     "title": "Travel restrictions – from Israel and Europe – trap students in Gaza",
     "added_at": "2026-08-07T04:13:46.906Z"
+  },
+  {
+    "title": "Israeli raid in West Bank’s Qalandiya injures 51 Palestinians",
+    "added_at": "2026-08-07T08:04:46.080Z",
+    "removed_at": "2026-08-07T09:08:18.038Z",
+    "duration_minutes": 63,
+    "duration_str": "1h 3m"
   }
 ]

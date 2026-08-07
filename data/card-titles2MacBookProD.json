@@ -89906,10 +89906,7 @@
   },
   {
     "title": "suisse:::Affaire Dittli: le Ministère public vaudois décide d’ouvrir une nouvelle enquête pénale à la suite du rapport Meylan",
-    "added_at": "2026-06-18T15:00:36.496Z",
-    "removed_at": "2026-06-19T14:24:38.063Z",
-    "duration_minutes": 1404,
-    "duration_str": "23h 24m"
+    "added_at": "2026-06-18T15:00:36.496Z"
   },
   {
     "title": "suisse:::A La Cathédrale Saint-Pierre de Genève, les adieux à Jean Ziegler",
@@ -92538,10 +92535,7 @@
   },
   {
     "title": "suisse:::Election au Conseil d’Etat vaudois: l’UDC Jean-François Thuillard rempile, le mystère reste entier pour Valérie Dittli",
-    "added_at": "2026-06-26T14:18:30.958Z",
-    "removed_at": "2026-06-29T11:22:59.950Z",
-    "duration_minutes": 4144,
-    "duration_str": "2d 21h 4m"
+    "added_at": "2026-06-26T14:18:30.958Z"
   },
   {
     "title": "sciences:::En direct, canicule – La centrale nucléaire de Beznau réduit sa production à cause des fortes chaleurs, le mercure atteint des sommets à Bâle",
@@ -101022,7 +101016,10 @@
   },
   {
     "title": "monde:::Benyamin Netanyahou, un allié de plus en plus encombrant pour Donald Trump",
-    "added_at": "2026-07-30T04:17:08.950Z"
+    "added_at": "2026-07-30T04:17:08.950Z",
+    "removed_at": "2026-08-07T09:20:26.847Z",
+    "duration_minutes": 11823,
+    "duration_str": "8d 5h 3m"
   },
   {
     "title": "monde:::Cisjordanie: «Qui peut nous défendre?» s’interrogent les Palestiniens après l’irruption meurtrière de colons",
@@ -101869,7 +101866,10 @@
   },
   {
     "title": "suisse:::Laura et Valérie Dittli, deux sœurs à la tête de l’Etat mais aux destins diamétralement opposés",
-    "added_at": "2026-08-05T18:51:33.392Z"
+    "added_at": "2026-08-05T18:51:33.392Z",
+    "removed_at": "2026-08-07T08:48:41.056Z",
+    "duration_minutes": 2277,
+    "duration_str": "1d 13h 57m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’Iran dit avoir trouvé un accord avec Oman sur une nouvelle voie de navigation",
@@ -102028,7 +102028,10 @@
   },
   {
     "title": "cyber:::Imitant La Poste, Swisscom veut délocaliser des dizaines d’emplois au Portugal – et des suppressions de postes sont possibles en Suisse",
-    "added_at": "2026-08-06T16:22:14.653Z"
+    "added_at": "2026-08-06T16:22:14.653Z",
+    "removed_at": "2026-08-07T07:01:15.233Z",
+    "duration_minutes": 879,
+    "duration_str": "14h 39m"
   },
   {
     "title": "sport:::La fiancée du Mont-Ventoux: le Tour de France ramène Justine Ghekiere sur le lieu de sa demande en mariage",
@@ -102058,7 +102061,10 @@
   },
   {
     "title": "sport:::«Vous savez bien que tout peut se passer sur le Tour!»: face au mur du Mont-Ventoux, la Bernoise Marlen Reusser prête à défendre son maillot jaune",
-    "added_at": "2026-08-06T19:11:35.745Z"
+    "added_at": "2026-08-06T19:11:35.745Z",
+    "removed_at": "2026-08-07T08:43:49.348Z",
+    "duration_minutes": 812,
+    "duration_str": "13h 32m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Au moins 58 soldats morts dans des attaques des rebelles houthis au Yémen",
@@ -102074,7 +102080,10 @@
   },
   {
     "title": "monde:::Donald Trump tente à nouveau de contester le droit du sol",
-    "added_at": "2026-08-07T04:16:15.754Z"
+    "added_at": "2026-08-07T04:16:15.754Z",
+    "removed_at": "2026-08-07T08:43:49.348Z",
+    "duration_minutes": 267,
+    "duration_str": "4h 27m"
   },
   {
     "title": "economie:::Apollo confirme son offre de rachat d’EasyJet pour 6 milliards de francs suisses",
@@ -102083,5 +102092,32 @@
   {
     "title": "suisse:::Pourquoi le plafonnement des prestations médicales, qui devait traquer les abus, divise les médecins?",
     "added_at": "2026-08-07T04:38:13.008Z"
+  },
+  {
+    "title": "cyber:::Mots de passe uniques, passkeys et double authentification: les trois piliers de la sécurité en ligne",
+    "added_at": "2026-08-07T07:01:15.233Z"
+  },
+  {
+    "title": "suisse:::En direct – Valérie Dittli contre-attaque: son droit à être entendu a été bafoué, selon deux constitutionnalistes",
+    "added_at": "2026-08-07T08:31:38.082Z",
+    "removed_at": "2026-08-07T08:41:21.816Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "suisse:::En direct – Valérie Dittli contre-attaque: son droit à être entendue a été «gravement violé», selon deux constitutionnalistes",
+    "added_at": "2026-08-07T08:41:21.816Z"
+  },
+  {
+    "title": "economie:::Après maints rebondissements, le procès en appel de l’ancien patron de Raiffeisen débute lundi",
+    "added_at": "2026-08-07T08:43:49.348Z"
+  },
+  {
+    "title": "culture:::«Il peut être nécessaire de fixer des limites»: Ariana Grande, une pop star à bout de souffle",
+    "added_at": "2026-08-07T09:20:26.847Z"
+  },
+  {
+    "title": "economie:::Le mouvement, ce mécanisme dont la première fonction est de ne jamais s’arrêter",
+    "added_at": "2026-08-07T09:25:19.854Z"
   }
 ]
