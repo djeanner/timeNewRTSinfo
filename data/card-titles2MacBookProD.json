@@ -102054,7 +102054,10 @@
   },
   {
     "title": "suisse:::Les Moeschler, une lignée de combat sous la bannière rouge",
-    "added_at": "2026-08-06T17:23:53.853Z"
+    "added_at": "2026-08-06T17:23:53.853Z",
+    "removed_at": "2026-08-07T16:59:28.934Z",
+    "duration_minutes": 1415,
+    "duration_str": "23h 35m"
   },
   {
     "title": "sciences:::Une image inédite de la surface du Soleil permet de mieux comprendre l’activité explosive de notre étoile",
@@ -102105,7 +102108,10 @@
   },
   {
     "title": "economie:::Apollo confirme son offre de rachat d’EasyJet pour 6 milliards de francs suisses",
-    "added_at": "2026-08-07T04:30:53.564Z"
+    "added_at": "2026-08-07T04:30:53.564Z",
+    "removed_at": "2026-08-07T17:33:39.477Z",
+    "duration_minutes": 782,
+    "duration_str": "13h 2m"
   },
   {
     "title": "suisse:::Pourquoi le plafonnement des prestations médicales, qui devait traquer les abus, divise les médecins?",
@@ -102113,7 +102119,10 @@
   },
   {
     "title": "cyber:::Mots de passe uniques, passkeys et double authentification: les trois piliers de la sécurité en ligne",
-    "added_at": "2026-08-07T07:01:15.233Z"
+    "added_at": "2026-08-07T07:01:15.233Z",
+    "removed_at": "2026-08-07T16:41:52.923Z",
+    "duration_minutes": 580,
+    "duration_str": "9h 40m"
   },
   {
     "title": "suisse:::En direct – Valérie Dittli contre-attaque: son droit à être entendu a été bafoué, selon deux constitutionnalistes",
@@ -102161,15 +102170,24 @@
   },
   {
     "title": "sport:::L’UEFA veut-elle faire tomber Gianni Infantino? On en aura le cœur net dans moins d’un mois",
-    "added_at": "2026-08-07T13:06:43.233Z"
+    "added_at": "2026-08-07T13:06:43.233Z",
+    "removed_at": "2026-08-07T16:27:12.688Z",
+    "duration_minutes": 200,
+    "duration_str": "3h 20m"
   },
   {
     "title": "sciences:::SOS dans l’espace: la dépanneuse d’un télescope de la NASA est en panne",
-    "added_at": "2026-08-07T13:21:17.037Z"
+    "added_at": "2026-08-07T13:21:17.037Z",
+    "removed_at": "2026-08-07T15:48:08.527Z",
+    "duration_minutes": 146,
+    "duration_str": "2h 26m"
   },
   {
     "title": "economie:::Donald Trump menace à nouveau la Suisse d'un embargo sur les montres pour éliminer le déficit commercial",
-    "added_at": "2026-08-07T14:29:45.237Z"
+    "added_at": "2026-08-07T14:29:45.237Z",
+    "removed_at": "2026-08-07T15:35:56.964Z",
+    "duration_minutes": 66,
+    "duration_str": "1h 6m"
   },
   {
     "title": "suisse:::Entre le Conseil d’Etat et Valérie Dittli, deux versions qui s’opposent et un fossé qui ne cesse de grandir",
@@ -102182,5 +102200,40 @@
   {
     "title": "suisse:::Menacés par des coupes fédérales, les éleveurs de chevaux franches-montagnes profitent du Marché-Concours pour exprimer leur désarroi",
     "added_at": "2026-08-07T14:54:10.270Z"
+  },
+  {
+    "title": "economie:::Donald Trump menace à nouveau la Suisse d’un embargo sur les montres pour éliminer le déficit commercial",
+    "added_at": "2026-08-07T15:35:56.964Z",
+    "removed_at": "2026-08-07T16:17:27.506Z",
+    "duration_minutes": 41,
+    "duration_str": "41m"
+  },
+  {
+    "title": "suisse:::Face aux sécheresses répétées, la Suisse mise sur l’irrigation et les variétés résistantes pour sauver son agriculture",
+    "added_at": "2026-08-07T15:48:08.527Z"
+  },
+  {
+    "title": "economie:::Donald Trump menace de nouveau la Suisse d’un embargo sur les montres pour éliminer le déficit commercial",
+    "added_at": "2026-08-07T16:17:27.506Z"
+  },
+  {
+    "title": "cyber:::Des institutions financières aux réseaux d’eau potable, les Etats-Unis frappés par une double vague de cyberattaques",
+    "added_at": "2026-08-07T16:27:12.688Z"
+  },
+  {
+    "title": "suisse:::La justice genevoise confirme les sanctions contre l’association de Pierre Maudet pour des dons sous pseudonyme",
+    "added_at": "2026-08-07T16:41:52.923Z"
+  },
+  {
+    "title": "monde:::A Memphis comme dans le reste des Etats-Unis, la représentation des Noirs en politique remise en question",
+    "added_at": "2026-08-07T16:59:28.934Z"
+  },
+  {
+    "title": "monde:::70 000 migrants à Ceuta en une semaine",
+    "added_at": "2026-08-07T17:04:20.121Z"
+  },
+  {
+    "title": "suisse:::Dans le Haut-Valais, des pompiers bernois se préparent à affronter des feux de forêt hors norme",
+    "added_at": "2026-08-07T17:36:09.188Z"
   }
 ]
