@@ -108134,7 +108134,10 @@
   },
   {
     "title": "Assis 21 heures: comment le corps humain réagit à un vol ultra-long-courrier",
-    "added_at": "2026-08-05T05:52:36.838Z"
+    "added_at": "2026-08-05T05:52:36.838Z",
+    "removed_at": "2026-08-07T11:09:10.809Z",
+    "duration_minutes": 3196,
+    "duration_str": "2d 5h 16m"
   },
   {
     "title": "\"On n'a jamais vu ça!\": des agriculteurs obligés de redescendre leurs troupeaux à cause de la sécheresse",
@@ -108194,7 +108197,10 @@
   },
   {
     "title": "Les incendies de l'été risquent de faire flamber les budgets de plusieurs pays européens",
-    "added_at": "2026-08-05T08:26:51.402Z"
+    "added_at": "2026-08-05T08:26:51.402Z",
+    "removed_at": "2026-08-07T09:40:09.121Z",
+    "duration_minutes": 2953,
+    "duration_str": "2d 1h 13m"
   },
   {
     "title": "Une nouvelle vague de bombardements russes fait 17 morts dans la région de Kiev",
@@ -108247,7 +108253,10 @@
   },
   {
     "title": "Fragilisé, Infantino tient une réunion de crise au Maroc",
-    "added_at": "2026-08-05T10:53:34.604Z"
+    "added_at": "2026-08-05T10:53:34.604Z",
+    "removed_at": "2026-08-07T11:09:10.809Z",
+    "duration_minutes": 2895,
+    "duration_str": "2d 15m"
   },
   {
     "title": "Le boom de l'énergie solaire accélère l'essor des batteries de stockage",
@@ -108255,7 +108264,10 @@
   },
   {
     "title": "Le Festival de Locarno lance sa 79e édition avec 233 films au programme",
-    "added_at": "2026-08-05T11:27:57.292Z"
+    "added_at": "2026-08-05T11:27:57.292Z",
+    "removed_at": "2026-08-07T10:14:24.567Z",
+    "duration_minutes": 2806,
+    "duration_str": "1d 22h 46m"
   },
   {
     "title": "Bâle estime avoir maîtrisé la flambée de légionellose, mais ses habitants critiquent la lenteur de l'alerte",
@@ -108282,7 +108294,10 @@
   },
   {
     "title": "L'écrivain Didier Decoin, prix Goncourt en 1977 et ancien président de son jury, est décédé",
-    "added_at": "2026-08-05T13:57:16.699Z"
+    "added_at": "2026-08-05T13:57:16.699Z",
+    "removed_at": "2026-08-07T10:36:18.787Z",
+    "duration_minutes": 2679,
+    "duration_str": "1d 20h 39m"
   },
   {
     "title": "Prison avec sursis pour deux streamers français après la mort en direct d'un comparse",
@@ -108315,7 +108330,10 @@
   },
   {
     "title": "Comment construire la paix?",
-    "added_at": "2026-08-05T14:55:59.331Z"
+    "added_at": "2026-08-05T14:55:59.331Z",
+    "removed_at": "2026-08-07T11:06:43.531Z",
+    "duration_minutes": 2650,
+    "duration_str": "1d 20h 10m"
   },
   {
     "title": "Chaleur et sécheresse fragilisent les arbres, qui n'ont plus besoin de tempête pour s'effondrer",
@@ -108681,18 +108699,87 @@
   },
   {
     "title": "Une fusillade dans un lycée près de Bangkok fait 8 morts et 15 blessés",
-    "added_at": "2026-08-07T07:45:14.351Z"
+    "added_at": "2026-08-07T07:45:14.351Z",
+    "removed_at": "2026-08-07T10:14:24.567Z",
+    "duration_minutes": 149,
+    "duration_str": "2h 29m"
   },
   {
     "title": "Avec la sécheresse record, les poissons suffoquent",
-    "added_at": "2026-08-07T08:14:30.023Z"
+    "added_at": "2026-08-07T08:14:30.023Z",
+    "removed_at": "2026-08-07T12:15:09.980Z",
+    "duration_minutes": 240,
+    "duration_str": "4h"
   },
   {
     "title": "Valérie Dittli contre-attaque avec un avis de droit affirmant que ses droits n'ont pas été respectés",
-    "added_at": "2026-08-07T08:48:40.976Z"
+    "added_at": "2026-08-07T08:48:40.976Z",
+    "removed_at": "2026-08-07T10:52:03.876Z",
+    "duration_minutes": 123,
+    "duration_str": "2h 3m"
   },
   {
     "title": "Fini pour les offices des poursuites et faillites valaisans de vendre des biens sur Ricardo",
     "added_at": "2026-08-07T08:55:59.812Z"
+  },
+  {
+    "title": "Nouvelle tentative de Donald Trump pour remettre en cause le droit du sol aux Etats-Unis",
+    "added_at": "2026-08-07T09:40:09.121Z"
+  },
+  {
+    "title": "La Suisse harmonise ses amendes pour les déchets",
+    "added_at": "2026-08-07T09:42:36.084Z"
+  },
+  {
+    "title": "Une partie d’une fusée de SpaceX aurait accidentellement percuté la lune: interview de Benjamin Guyot",
+    "added_at": "2026-08-07T09:42:36.084Z",
+    "removed_at": "2026-08-07T09:45:05.446Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Des araignées affolent les détecteurs d'incendie du Pont de la chapelle de Lucerne",
+    "added_at": "2026-08-07T10:14:24.567Z"
+  },
+  {
+    "title": "Une fusillade dans une école près de Bangkok fait 8 morts et 15 blessés",
+    "added_at": "2026-08-07T10:14:24.567Z",
+    "removed_at": "2026-08-07T10:54:31.220Z",
+    "duration_minutes": 40,
+    "duration_str": "40m"
+  },
+  {
+    "title": "Le canton de Berne invité d'honneur du Marché-concours de Saignelégier, reflet d'un apaisement des tensions",
+    "added_at": "2026-08-07T10:36:18.787Z",
+    "removed_at": "2026-08-07T10:54:31.220Z",
+    "duration_minutes": 18,
+    "duration_str": "18m"
+  },
+  {
+    "title": "Valérie Dittli contre-attaque avec un avis de droit et demande le retrait du rapport Meylan",
+    "added_at": "2026-08-07T10:52:03.876Z"
+  },
+  {
+    "title": "Le canton de Berne invité d'honneur du Marché-Concours de Saignelégier, reflet d'un apaisement des tensions",
+    "added_at": "2026-08-07T10:54:31.220Z"
+  },
+  {
+    "title": "Une fusillade dans une école près de Bangkok fait 8 morts et plus de 30 blessés",
+    "added_at": "2026-08-07T10:54:31.220Z"
+  },
+  {
+    "title": "Un nouveau cas d'agressions sexuelles au GHB révélé en Argovie",
+    "added_at": "2026-08-07T11:06:43.531Z"
+  },
+  {
+    "title": "Meta doit payer pour la santé mentale des jeunes sur les réseaux sociaux au Nouveau-Mexique",
+    "added_at": "2026-08-07T11:09:10.809Z",
+    "removed_at": "2026-08-07T12:17:33.168Z",
+    "duration_minutes": 68,
+    "duration_str": "1h 8m"
+  },
+  {
+    "title": "Meta condamné à payer pour réparer ses dégâts sur la santé mentale des jeunes",
+    "added_at": "2026-08-07T12:17:33.168Z"
   }
 ]
