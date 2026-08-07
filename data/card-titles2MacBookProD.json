@@ -101938,7 +101938,10 @@
   },
   {
     "title": "suisse:::A Ovronnaz et dans les Alpes, le tourisme de la fraîcheur dope la fréquentation des stations",
-    "added_at": "2026-08-06T06:26:57.714Z"
+    "added_at": "2026-08-06T06:26:57.714Z",
+    "removed_at": "2026-08-07T18:44:57.749Z",
+    "duration_minutes": 2178,
+    "duration_str": "1d 12h 18m"
   },
   {
     "title": "cyber:::Arnaques aux cryptomonnaies: comment les escrocs exploitent l’espoir de gains rapides pour voler des fortunes",
@@ -102089,7 +102092,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Au moins 58 soldats morts dans des attaques des rebelles houthis au Yémen",
-    "added_at": "2026-08-07T01:44:42.549Z"
+    "added_at": "2026-08-07T01:44:42.549Z",
+    "removed_at": "2026-08-07T19:02:04.505Z",
+    "duration_minutes": 1037,
+    "duration_str": "17h 17m"
   },
   {
     "title": "monde:::Quand Israël réécrit le plan de paix pour Gaza, en cours de route",
@@ -102115,7 +102121,10 @@
   },
   {
     "title": "suisse:::Pourquoi le plafonnement des prestations médicales, qui devait traquer les abus, divise les médecins?",
-    "added_at": "2026-08-07T04:38:13.008Z"
+    "added_at": "2026-08-07T04:38:13.008Z",
+    "removed_at": "2026-08-07T19:16:46.486Z",
+    "duration_minutes": 878,
+    "duration_str": "14h 38m"
   },
   {
     "title": "cyber:::Mots de passe uniques, passkeys et double authentification: les trois piliers de la sécurité en ligne",
@@ -102230,10 +102239,40 @@
   },
   {
     "title": "monde:::70 000 migrants à Ceuta en une semaine",
-    "added_at": "2026-08-07T17:04:20.121Z"
+    "added_at": "2026-08-07T17:04:20.121Z",
+    "removed_at": "2026-08-07T18:18:05.131Z",
+    "duration_minutes": 73,
+    "duration_str": "1h 13m"
   },
   {
     "title": "suisse:::Dans le Haut-Valais, des pompiers bernois se préparent à affronter des feux de forêt hors norme",
     "added_at": "2026-08-07T17:36:09.188Z"
+  },
+  {
+    "title": "monde:::70 000 migrants à Ceuta en une semaine: une plongée dans le drame de ces jours",
+    "added_at": "2026-08-07T18:18:05.131Z",
+    "removed_at": "2026-08-07T18:22:58.086Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "monde:::70 000 migrants à Ceuta en une semaine: les indices d'une opération organisée sur les réseaux sociaux",
+    "added_at": "2026-08-07T18:22:58.086Z"
+  },
+  {
+    "title": "suisse:::Les Levrat: quand la nouvelle génération dicte le rythme",
+    "added_at": "2026-08-07T18:35:14.469Z"
+  },
+  {
+    "title": "sport:::Au Mont-Ventoux, Marlen Reusser s’enterre et perd le maillot jaune",
+    "added_at": "2026-08-07T18:44:57.749Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Nouvelles attaques meurtrières des rebelles houthis dans une région pétrolifère du Yémen",
+    "added_at": "2026-08-07T19:02:04.505Z"
+  },
+  {
+    "title": "suisse:::«Ça se passe bien, sauf quand le vieux monsieur vient nous crier dessus»: aux Vernets, un été pour apprivoiser un nouveau quartier",
+    "added_at": "2026-08-07T19:16:46.486Z"
   }
 ]
