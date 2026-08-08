@@ -108576,7 +108576,10 @@
   },
   {
     "title": "Envoyer une lettre va coûter plus cher: 1,40 franc pour un courrier A et 1,10 pour un courrier B",
-    "added_at": "2026-08-06T09:40:12.233Z"
+    "added_at": "2026-08-06T09:40:12.233Z",
+    "removed_at": "2026-08-08T12:39:42.913Z",
+    "duration_minutes": 3059,
+    "duration_str": "2d 2h 59m"
   },
   {
     "title": "L'Ukraine dénonce un \"safari humain\" après la traque d'un civil par un drone russe à Kherson",
@@ -108676,11 +108679,17 @@
   },
   {
     "title": "Le trafic ferroviaire est rétabli en gare de Genève après une interruption",
-    "added_at": "2026-08-06T13:45:18.238Z"
+    "added_at": "2026-08-06T13:45:18.238Z",
+    "removed_at": "2026-08-08T10:29:33.954Z",
+    "duration_minutes": 2684,
+    "duration_str": "1d 20h 44m"
   },
   {
     "title": "Six guépardeaux sont nés début juin au zoo de Bâle",
-    "added_at": "2026-08-06T13:55:06.017Z"
+    "added_at": "2026-08-06T13:55:06.017Z",
+    "removed_at": "2026-08-08T11:14:13.751Z",
+    "duration_minutes": 2719,
+    "duration_str": "1d 21h 19m"
   },
   {
     "title": "Le drone explosif découvert à Leipzig se trouvait près d'un avion ukrainien chargé de munitions",
@@ -108688,7 +108697,10 @@
   },
   {
     "title": "Victoire Tuaillon: comment ne pas se résigner face à l'état du monde?",
-    "added_at": "2026-08-06T15:04:02.977Z"
+    "added_at": "2026-08-06T15:04:02.977Z",
+    "removed_at": "2026-08-08T11:28:51.863Z",
+    "duration_minutes": 2664,
+    "duration_str": "1d 20h 24m"
   },
   {
     "title": "Le fonds américain Apollon confirme son offre de rachat d'EasyJet",
@@ -108714,7 +108726,10 @@
   },
   {
     "title": "À Kherson, les civils ukrainiens pris pour cibles par des drones russes",
-    "added_at": "2026-08-06T15:13:46.387Z"
+    "added_at": "2026-08-06T15:13:46.387Z",
+    "removed_at": "2026-08-08T11:16:40.893Z",
+    "duration_minutes": 2642,
+    "duration_str": "1d 20h 2m"
   },
   {
     "title": "Des forêts imaginaires aux rêves enfouis, le Musée d'art du Valais célèbre l'inspiration",
@@ -109071,7 +109086,10 @@
   },
   {
     "title": "Jessica Jaccoud se lance dans la course au Conseil d'Etat vaudois",
-    "added_at": "2026-08-08T08:27:18.692Z"
+    "added_at": "2026-08-08T08:27:18.692Z",
+    "removed_at": "2026-08-08T11:58:12.354Z",
+    "duration_minutes": 210,
+    "duration_str": "3h 30m"
   },
   {
     "title": "Les mesures de contrainte contre les époux Moretti prolongées de trois mois par le Tribunal",
@@ -109088,5 +109106,50 @@
   {
     "title": "Volé durant la colonisation, l'emblématique tambour Djidji Ayôkwé sera exposé en Côte d'Ivoire",
     "added_at": "2026-08-08T10:12:21.799Z"
+  },
+  {
+    "title": "A Schaffhouse, une nouvelle station de radio est intégralement animée par des voix générées par IA",
+    "added_at": "2026-08-08T10:29:33.954Z"
+  },
+  {
+    "title": "L'ex-avocat personnel de Donald Trump Todd Blanche formellement nommé ministre de la Justice",
+    "added_at": "2026-08-08T11:14:13.751Z"
+  },
+  {
+    "title": "Ceuta: la Garde civile espagnole alerte sur une campagne en ligne visant à mobiliser une nouvelle tentative d'entrées massives",
+    "added_at": "2026-08-08T11:16:40.893Z"
+  },
+  {
+    "title": "En Bulgarie, un drone explose près d'un gazoduc qui relie la Turquie à l'Ukraine",
+    "added_at": "2026-08-08T11:28:51.863Z",
+    "removed_at": "2026-08-08T11:31:20.049Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "En Bulgarie, un drone explose près du gazoduc qui relie la Turquie à l'Ukraine",
+    "added_at": "2026-08-08T11:31:20.049Z"
+  },
+  {
+    "title": "Jessica Jaccoud est candidate à la candidature socialiste pour le Conseil d'Etat vaudois",
+    "added_at": "2026-08-08T11:58:12.354Z",
+    "removed_at": "2026-08-08T12:00:41.593Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Jessica Jaccoud candidate au ticket à trois du PS pour le Conseil d'Etat vaudois",
+    "added_at": "2026-08-08T12:00:41.593Z",
+    "removed_at": "2026-08-08T12:03:04.979Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Election au Conseil d'Etat vaudois: Jessica Jaccoud est candidate pour le ticket à trois du PS",
+    "added_at": "2026-08-08T12:03:04.979Z"
+  },
+  {
+    "title": "Le Kényan Philemon Kiriago et la Roumaine Madalina Florea domptent Sierre-Zinal",
+    "added_at": "2026-08-08T12:39:42.913Z"
   }
 ]
