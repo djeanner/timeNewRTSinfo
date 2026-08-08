@@ -108550,7 +108550,10 @@
   },
   {
     "title": "Un glissement de terrain dévale le versant italien du Cervin",
-    "added_at": "2026-08-06T08:31:26.343Z"
+    "added_at": "2026-08-06T08:31:26.343Z",
+    "removed_at": "2026-08-08T20:08:10.988Z",
+    "duration_minutes": 3576,
+    "duration_str": "2d 11h 36m"
   },
   {
     "title": "Le coprésident du PS tessinois retire sa candidature au Conseil d'Etat après un excès de vitesse",
@@ -108561,7 +108564,10 @@
   },
   {
     "title": "Fribourg-Gottéron instaure une obligation de présence minimale pour les abonnés: interview de John Gobbi",
-    "added_at": "2026-08-06T09:15:44.792Z"
+    "added_at": "2026-08-06T09:15:44.792Z",
+    "removed_at": "2026-08-08T20:15:31.943Z",
+    "duration_minutes": 3539,
+    "duration_str": "2d 10h 59m"
   },
   {
     "title": "L'Ukraine dénonce une chasse à l'homme par un drone russe à Kherson",
@@ -108740,7 +108746,10 @@
   },
   {
     "title": "Swisscom prévoit d'ouvrir un bureau à Lisbonne et fâche les syndicats",
-    "added_at": "2026-08-06T15:11:22.836Z"
+    "added_at": "2026-08-06T15:11:22.836Z",
+    "removed_at": "2026-08-08T20:05:47.190Z",
+    "duration_minutes": 3174,
+    "duration_str": "2d 4h 54m"
   },
   {
     "title": "À Kherson, les civils ukrainiens pris pour cibles par des drones russes",
@@ -108792,11 +108801,17 @@
   },
   {
     "title": "Les ingérences russes se multiplient en France à moins d'un an de la présidentielle",
-    "added_at": "2026-08-06T19:13:59.247Z"
+    "added_at": "2026-08-06T19:13:59.247Z",
+    "removed_at": "2026-08-08T20:25:20.783Z",
+    "duration_minutes": 2951,
+    "duration_str": "2d 1h 11m"
   },
   {
     "title": "L'UEFA maintient son boycott des Coupes du monde de la FIFA",
-    "added_at": "2026-08-06T19:58:12.653Z"
+    "added_at": "2026-08-06T19:58:12.653Z",
+    "removed_at": "2026-08-08T19:43:45.679Z",
+    "duration_minutes": 2865,
+    "duration_str": "1d 23h 45m"
   },
   {
     "title": "Lara Gut-Behrami met un terme à sa carrière: interview de Patrice Morisod",
@@ -109225,5 +109240,28 @@
   {
     "title": "Le point sur la course de Sierre-Zinal",
     "added_at": "2026-08-08T18:15:28.782Z"
+  },
+  {
+    "title": "Une nouvelle vague de chaleur pourrait faire grimper la température à 36 degrés à partir de dimanche",
+    "added_at": "2026-08-08T19:43:45.679Z",
+    "removed_at": "2026-08-08T19:48:36.568Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Une nouvelle vague de chaleur pourrait faire grimper la température jusqu'à 36 degrés à partir de dimanche",
+    "added_at": "2026-08-08T19:48:36.568Z"
+  },
+  {
+    "title": "La Plage des Six Pompes tire un bilan positif, mais les soucis financiers demeurent",
+    "added_at": "2026-08-08T20:05:47.190Z"
+  },
+  {
+    "title": "Valérie Dittli conteste la procédure du rapport Meylan: son interview",
+    "added_at": "2026-08-08T20:15:31.943Z"
+  },
+  {
+    "title": "Après l'incendie d'Aigle, des familles peinent à retrouver un logement",
+    "added_at": "2026-08-08T20:25:20.783Z"
   }
 ]
