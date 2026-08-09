@@ -102585,7 +102585,10 @@
   },
   {
     "title": "economie:::Pernod Ricard, roi des cafés de Provence et du Tour de France, a été biberonné au «lait du Val-de-Travers»",
-    "added_at": "2026-08-09T10:08:07.340Z"
+    "added_at": "2026-08-09T10:08:07.340Z",
+    "removed_at": "2026-08-09T18:36:05.838Z",
+    "duration_minutes": 507,
+    "duration_str": "8h 27m"
   },
   {
     "title": "culture:::Au Locarno Film Festival, des histoires de corps et de mort, entre suicide assisté et transidentité",
@@ -102620,14 +102623,40 @@
   },
   {
     "title": "monde:::Entre l'Espagne et l'Italie, la crise de Ceuta sert les calculs électoraux de Pedro Sánchez et Giorgia Meloni",
-    "added_at": "2026-08-09T15:22:11.703Z"
+    "added_at": "2026-08-09T15:22:11.703Z",
+    "removed_at": "2026-08-09T16:57:51.617Z",
+    "duration_minutes": 95,
+    "duration_str": "1h 35m"
   },
   {
     "title": "culture:::Série: «The Shards», la jeunesse de Beverly Hills et le tueur en série",
-    "added_at": "2026-08-09T15:27:04.889Z"
+    "added_at": "2026-08-09T15:27:04.889Z",
+    "removed_at": "2026-08-09T17:10:22.099Z",
+    "duration_minutes": 103,
+    "duration_str": "1h 43m"
   },
   {
     "title": "suisse:::Le Jura et Berne resserrent leurs liens au Marché-Concours de Saignelégier, tandis que les éleveurs de chevaux s’inquiètent pour leur avenir",
     "added_at": "2026-08-09T16:03:45.661Z"
+  },
+  {
+    "title": "monde:::Entre l’Espagne et l’Italie, la crise de Ceuta sert les calculs électoraux de Pedro Sánchez et Giorgia Meloni",
+    "added_at": "2026-08-09T16:57:51.617Z"
+  },
+  {
+    "title": "culture:::Au Locarno Film Festival, deux adolescents dans la tourmente, entre la Sicile et la Roumanie",
+    "added_at": "2026-08-09T17:10:22.099Z"
+  },
+  {
+    "title": "economie:::Douche géante, magasin fantôme et monstres: immersion dans le chaudron haut-savoyard de Decathlon",
+    "added_at": "2026-08-09T18:06:44.305Z"
+  },
+  {
+    "title": "culture:::Quand Charles-Albert Cingria inventait une nouvelle façon de raconter le monde: un essai revient sur le style de l’écrivain suisse qui s’est construit en rupture avec le surréalisme",
+    "added_at": "2026-08-09T18:36:05.838Z"
+  },
+  {
+    "title": "sport:::Marlen Reusser, le rêve inachevé du Tour de France",
+    "added_at": "2026-08-09T18:55:42.423Z"
   }
 ]
