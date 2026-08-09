@@ -102069,7 +102069,10 @@
   },
   {
     "title": "suisse:::Les Moeschler, une lignée de combat sous la bannière rouge",
-    "added_at": "2026-08-06T17:23:53.853Z"
+    "added_at": "2026-08-06T17:23:53.853Z",
+    "removed_at": "2026-08-09T12:33:20.862Z",
+    "duration_minutes": 4029,
+    "duration_str": "2d 19h 9m"
   },
   {
     "title": "sciences:::Une image inédite de la surface du Soleil permet de mieux comprendre l’activité explosive de notre étoile",
@@ -102327,10 +102330,7 @@
   },
   {
     "title": "suisse:::«Ça se passe bien, sauf quand le vieux monsieur vient nous crier dessus»: aux Vernets, un été pour apprivoiser un nouveau quartier",
-    "added_at": "2026-08-07T19:16:46.486Z",
-    "removed_at": "2026-08-09T09:41:14.992Z",
-    "duration_minutes": 2304,
-    "duration_str": "1d 14h 24m"
+    "added_at": "2026-08-07T19:16:46.486Z"
   },
   {
     "title": "monde:::«Dormir sous un pont, on le fait déjà ici!»: au nord du Maroc, avec les jeunes qui se préparent à la prochaine «vague» migratoire vers l’Espagne",
@@ -102444,7 +102444,10 @@
   },
   {
     "title": "culture:::«L’Attentat du vol Pan Am 103», une série humble sur le drame de Lockerbie",
-    "added_at": "2026-08-08T13:31:12.981Z"
+    "added_at": "2026-08-08T13:31:12.981Z",
+    "removed_at": "2026-08-09T11:37:06.702Z",
+    "duration_minutes": 1325,
+    "duration_str": "22h 5m"
   },
   {
     "title": "culture:::«Colon ne s’écrit pas au féminin», l’ambitieuse fresque helvético-coloniale de Lolvé Tillmanns",
@@ -102473,7 +102476,10 @@
   },
   {
     "title": "culture:::Des animaux translucides à Lausanne aux Vénus soufflées à Genève, le verre déploie ses sortilèges",
-    "added_at": "2026-08-08T17:16:44.443Z"
+    "added_at": "2026-08-08T17:16:44.443Z",
+    "removed_at": "2026-08-09T11:02:06.975Z",
+    "duration_minutes": 1065,
+    "duration_str": "17h 45m"
   },
   {
     "title": "sport:::Au Tour de France, un maillot jaune plein de panache pour Demi Vollering et un «objectif troisième place» pour Marlen Reusser",
@@ -102509,7 +102515,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Le Hamas redit être prêt à mettre en œuvre le plan américain pour Gaza",
-    "added_at": "2026-08-09T06:20:51.016Z"
+    "added_at": "2026-08-09T06:20:51.016Z",
+    "removed_at": "2026-08-09T11:41:58.168Z",
+    "duration_minutes": 321,
+    "duration_str": "5h 21m"
   },
   {
     "title": "sport:::Audrey Werro en cheffe de file d’une délégation suisse ambitieuse aux Championnats d’Europe d’athlétisme",
@@ -102524,7 +102533,10 @@
   },
   {
     "title": "suisse:::La Street Parade fait vibrer Zurich sous 32 degrés et sous haute surveillance après l’attentat de Berlin",
-    "added_at": "2026-08-09T08:03:18.995Z"
+    "added_at": "2026-08-09T08:03:18.995Z",
+    "removed_at": "2026-08-09T11:44:27.664Z",
+    "duration_minutes": 221,
+    "duration_str": "3h 41m"
   },
   {
     "title": "sport:::La Fifa défend Gianni Infantino, visé par des accusations de favoritisme remontant à sa période à l'UEFA",
@@ -102535,7 +102547,10 @@
   },
   {
     "title": "culture:::A Finhaut, une exposition célèbre les gares-chalets, témoins d'un patrimoine ferroviaire suisse en voie de disparition",
-    "added_at": "2026-08-09T08:10:38.757Z"
+    "added_at": "2026-08-09T08:10:38.757Z",
+    "removed_at": "2026-08-09T11:22:20.786Z",
+    "duration_minutes": 191,
+    "duration_str": "3h 11m"
   },
   {
     "title": "sport:::«Je suis quelqu’un de minutieux»: l’insoluble quête de perfection du lanceur de poids Jephté Vogel",
@@ -102556,5 +102571,25 @@
   {
     "title": "economie:::Pernod Ricard, roi des cafés de Provence et du Tour de France, a été biberonné au «lait du Val-de-Travers»",
     "added_at": "2026-08-09T10:08:07.340Z"
+  },
+  {
+    "title": "culture:::Au Locarno Film Festival, des histoires de corps et de mort, entre suicide assisté et transidentité",
+    "added_at": "2026-08-09T11:37:06.702Z"
+  },
+  {
+    "title": "monde:::Incendie dans l'ouest du Canada: 20 000 personnes ont été évacuées et l'état d'urgence a été déclaré",
+    "added_at": "2026-08-09T11:41:58.168Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Israël «rejette» le plan américain pour Gaza accepté par le Hamas",
+    "added_at": "2026-08-09T11:41:58.168Z"
+  },
+  {
+    "title": "economie:::Les taxis autonomes Waymo arrivent en Suisse",
+    "added_at": "2026-08-09T12:33:20.862Z"
+  },
+  {
+    "title": "culture:::A Sion, trois artistes contemporains répondent à des paysages et des portraits valaisans peints il y a plus d'un siècle",
+    "added_at": "2026-08-09T12:45:31.986Z"
   }
 ]
