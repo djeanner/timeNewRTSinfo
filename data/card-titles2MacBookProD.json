@@ -101715,7 +101715,10 @@
   },
   {
     "title": "sciences:::Dans le monde entier, des papillons se déplacent vers les pôles en réponse au changement climatique",
-    "added_at": "2026-08-05T11:35:17.245Z"
+    "added_at": "2026-08-05T11:35:17.245Z",
+    "removed_at": "2026-08-09T16:18:28.649Z",
+    "duration_minutes": 6043,
+    "duration_str": "4d 4h 43m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël annonce mener des frappes sur le sud du Liban",
@@ -102255,7 +102258,10 @@
   },
   {
     "title": "suisse:::Face aux sécheresses répétées, la Suisse mise sur l’irrigation et les variétés résistantes pour sauver son agriculture",
-    "added_at": "2026-08-07T15:48:08.527Z"
+    "added_at": "2026-08-07T15:48:08.527Z",
+    "removed_at": "2026-08-09T16:18:28.649Z",
+    "duration_minutes": 2910,
+    "duration_str": "2d 30m"
   },
   {
     "title": "economie:::Donald Trump menace de nouveau la Suisse d’un embargo sur les montres pour éliminer le déficit commercial",
@@ -102294,7 +102300,10 @@
   },
   {
     "title": "suisse:::Dans le Haut-Valais, des pompiers bernois se préparent à affronter des feux de forêt hors norme",
-    "added_at": "2026-08-07T17:36:09.188Z"
+    "added_at": "2026-08-07T17:36:09.188Z",
+    "removed_at": "2026-08-09T16:18:28.649Z",
+    "duration_minutes": 2802,
+    "duration_str": "1d 22h 42m"
   },
   {
     "title": "monde:::70 000 migrants à Ceuta en une semaine: une plongée dans le drame de ces jours",
@@ -102305,10 +102314,7 @@
   },
   {
     "title": "monde:::70 000 migrants à Ceuta en une semaine: les indices d'une opération organisée sur les réseaux sociaux",
-    "added_at": "2026-08-07T18:22:58.086Z",
-    "removed_at": "2026-08-09T05:17:14.608Z",
-    "duration_minutes": 2094,
-    "duration_str": "1d 10h 54m"
+    "added_at": "2026-08-07T18:22:58.086Z"
   },
   {
     "title": "suisse:::Les Levrat: quand la nouvelle génération dicte le rythme",
@@ -102415,7 +102421,10 @@
   },
   {
     "title": "suisse:::A Zurich, le squat d’un ancien consulat à l’abandon implique la police, le DFAE et la Macédoine du Nord",
-    "added_at": "2026-08-08T10:09:52.595Z"
+    "added_at": "2026-08-08T10:09:52.595Z",
+    "removed_at": "2026-08-09T15:22:11.703Z",
+    "duration_minutes": 1752,
+    "duration_str": "1d 5h 12m"
   },
   {
     "title": "culture:::Locarno Film Festival: «Rehmat», un voyage humaniste au cœur du Pendjab",
@@ -102554,11 +102563,17 @@
   },
   {
     "title": "sport:::«Je suis quelqu’un de minutieux»: l’insoluble quête de perfection du lanceur de poids Jephté Vogel",
-    "added_at": "2026-08-09T08:13:15.539Z"
+    "added_at": "2026-08-09T08:13:15.539Z",
+    "removed_at": "2026-08-09T16:16:01.274Z",
+    "duration_minutes": 482,
+    "duration_str": "8h 2m"
   },
   {
     "title": "culture:::Cinq classiques suisses et internationaux à voir ou revoir au Locarno Film Festival",
-    "added_at": "2026-08-09T08:52:24.850Z"
+    "added_at": "2026-08-09T08:52:24.850Z",
+    "removed_at": "2026-08-09T14:06:25.226Z",
+    "duration_minutes": 314,
+    "duration_str": "5h 14m"
   },
   {
     "title": "suisse:::Elections au gouvernement vaudois, les grandes manœuvres ont commencé: Jessica Jaccoud candidate",
@@ -102591,5 +102606,28 @@
   {
     "title": "culture:::A Sion, trois artistes contemporains répondent à des paysages et des portraits valaisans peints il y a plus d'un siècle",
     "added_at": "2026-08-09T12:45:31.986Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Des échanges de frappes font cinq morts en Ukraine et en Russie",
+    "added_at": "2026-08-09T14:06:25.226Z",
+    "removed_at": "2026-08-09T16:03:45.661Z",
+    "duration_minutes": 117,
+    "duration_str": "1h 57m"
+  },
+  {
+    "title": "sciences:::Une quatrième vague de chaleur s’abat sur la Suisse",
+    "added_at": "2026-08-09T14:40:37.528Z"
+  },
+  {
+    "title": "monde:::Entre l'Espagne et l'Italie, la crise de Ceuta sert les calculs électoraux de Pedro Sánchez et Giorgia Meloni",
+    "added_at": "2026-08-09T15:22:11.703Z"
+  },
+  {
+    "title": "culture:::Série: «The Shards», la jeunesse de Beverly Hills et le tueur en série",
+    "added_at": "2026-08-09T15:27:04.889Z"
+  },
+  {
+    "title": "suisse:::Le Jura et Berne resserrent leurs liens au Marché-Concours de Saignelégier, tandis que les éleveurs de chevaux s’inquiètent pour leur avenir",
+    "added_at": "2026-08-09T16:03:45.661Z"
   }
 ]
