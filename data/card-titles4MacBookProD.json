@@ -272784,11 +272784,17 @@
   },
   {
     "title": "Video shows alleged teen school shooter in Thailand",
-    "added_at": "2026-08-07T23:30:34.195Z"
+    "added_at": "2026-08-07T23:30:34.195Z",
+    "removed_at": "2026-08-10T01:35:43.606Z",
+    "duration_minutes": 3005,
+    "duration_str": "2d 2h 5m"
   },
   {
     "title": "Hillary Clinton blasts Trump’s construction projects",
-    "added_at": "2026-08-07T23:59:52.247Z"
+    "added_at": "2026-08-07T23:59:52.247Z",
+    "removed_at": "2026-08-10T01:35:43.606Z",
+    "duration_minutes": 2975,
+    "duration_str": "2d 1h 35m"
   },
   {
     "title": "The move comes with the Middle East in turmoil. Iran says the Saudis should change their policies rather than ‘beg’ for security.",
@@ -272799,7 +272805,10 @@
   },
   {
     "title": "Stage 4 ‘breast cancer thriver’ discusses living with diagnosis",
-    "added_at": "2026-08-08T00:11:27.885Z"
+    "added_at": "2026-08-08T00:11:27.885Z",
+    "removed_at": "2026-08-10T03:10:56.590Z",
+    "duration_minutes": 3059,
+    "duration_str": "2d 2h 59m"
   },
   {
     "title": "‘Airpower has its limits’ – and munitions are running low",
@@ -272828,7 +272837,10 @@
   },
   {
     "title": "Homeowners file suit challenging Mamdani’s pied-à-terre tax",
-    "added_at": "2026-08-08T01:09:59.688Z"
+    "added_at": "2026-08-08T01:09:59.688Z",
+    "removed_at": "2026-08-10T03:20:39.502Z",
+    "duration_minutes": 3010,
+    "duration_str": "2d 2h 10m"
   },
   {
     "title": "Surveillance footage shows details from Idaho In-N-Out shooting",
@@ -272984,10 +272996,7 @@
   },
   {
     "title": "Is watching too much TV bad for your brain? Possibly",
-    "added_at": "2026-08-08T10:46:40.791Z",
-    "removed_at": "2026-08-09T10:17:51.296Z",
-    "duration_minutes": 1411,
-    "duration_str": "23h 31m"
+    "added_at": "2026-08-08T10:46:40.791Z"
   },
   {
     "title": "AI is booming on the West Coast. So why is unemployment so high there?",
@@ -273158,7 +273167,10 @@
   },
   {
     "title": "Jorge Messi, father and agent of Argentine football legend Lionel Messi, dies at 68",
-    "added_at": "2026-08-08T16:10:19.434Z"
+    "added_at": "2026-08-08T16:10:19.434Z",
+    "removed_at": "2026-08-10T00:41:21.551Z",
+    "duration_minutes": 1951,
+    "duration_str": "1d 8h 31m"
   },
   {
     "title": "A month after Nolan Wells’ death, a lack of clear answers has fueled speculation, distrust and threats",
@@ -273448,7 +273460,10 @@
   },
   {
     "title": "Israeli Prime Minister Netanyahu says the military will not withdraw from the territory without Hamas disarming",
-    "added_at": "2026-08-09T11:56:38.563Z"
+    "added_at": "2026-08-09T11:56:38.563Z",
+    "removed_at": "2026-08-10T02:09:50.197Z",
+    "duration_minutes": 853,
+    "duration_str": "14h 13m"
   },
   {
     "title": "It’s a squishy toy summer, and that’s a good thing",
@@ -273490,7 +273505,10 @@
   },
   {
     "title": "Trump’s Patriot Games are billed as a youth sports contest. They’re also a test of patriotic branding",
-    "added_at": "2026-08-09T15:10:00.476Z"
+    "added_at": "2026-08-09T15:10:00.476Z",
+    "removed_at": "2026-08-10T02:24:30.859Z",
+    "duration_minutes": 674,
+    "duration_str": "11h 14m"
   },
   {
     "title": "Syria agrees deal with Russia over future use of two key Mediterranean bases",
@@ -273561,5 +273579,48 @@
   {
     "title": "An eerie phenomenon occurs around eclipse totality. Scientists are trying to unravel the mystery",
     "added_at": "2026-08-10T00:24:03.641Z"
+  },
+  {
+    "title": "Accused Thai school shooter had watched violent content online, police say",
+    "added_at": "2026-08-10T00:41:21.551Z"
+  },
+  {
+    "title": "Kristi Noem statue erected in South Dakota",
+    "added_at": "2026-08-10T01:35:43.606Z"
+  },
+  {
+    "title": "AOC shares she’s freezing her eggs, and why talking about it matters",
+    "added_at": "2026-08-10T01:35:43.606Z"
+  },
+  {
+    "title": "Alexandria Ocasio-Cortez shares she’s freezing her eggs, and why talking about it matters",
+    "added_at": "2026-08-10T02:00:07.297Z"
+  },
+  {
+    "title": "Netanyahu calculates upsetting Trump is his least-bad option",
+    "added_at": "2026-08-10T02:04:57.875Z",
+    "removed_at": "2026-08-10T02:09:50.197Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Israel’s leader rejects US-backed Gaza peace plan as election cycle approaches",
+    "added_at": "2026-08-10T02:09:50.197Z"
+  },
+  {
+    "title": "Israel demands Hamas disarms before Israeli forces withdraw",
+    "added_at": "2026-08-10T02:19:37.211Z"
+  },
+  {
+    "title": "The Trump-backed Patriot Games promise athletic competition. Their contestants tell a more political story",
+    "added_at": "2026-08-10T02:24:30.859Z"
+  },
+  {
+    "title": "Roman shipwreck discovered off the coast of Sicily",
+    "added_at": "2026-08-10T03:10:56.590Z"
+  },
+  {
+    "title": "Boat recovered, captain arrested after capsizing near Statue of Liberty",
+    "added_at": "2026-08-10T03:20:39.502Z"
   }
 ]
