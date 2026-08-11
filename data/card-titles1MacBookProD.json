@@ -109404,7 +109404,10 @@
   },
   {
     "title": "\"Oui, on est en culotte, mais on n'accepte pas des plans qui ne servent à rien\"",
-    "added_at": "2026-08-08T14:42:06.039Z"
+    "added_at": "2026-08-08T14:42:06.039Z",
+    "removed_at": "2026-08-11T04:26:33.177Z",
+    "duration_minutes": 3704,
+    "duration_str": "2d 13h 44m"
   },
   {
     "title": "Les femmes afghanes misent sur l'entrepreneuriat à domicile pour continuer à travailler",
@@ -109429,7 +109432,10 @@
   },
   {
     "title": "Déjà sous pression, Gianni Infantino est mis en cause dans une affaire de favoritisme",
-    "added_at": "2026-08-08T17:29:02.835Z"
+    "added_at": "2026-08-08T17:29:02.835Z",
+    "removed_at": "2026-08-11T05:50:33.200Z",
+    "duration_minutes": 3621,
+    "duration_str": "2d 12h 21m"
   },
   {
     "title": "Elisabeth Baume-Schneider: \"La culture est un terreau fertile pour la diversité et la cohésion sociale\"",
@@ -109475,7 +109481,10 @@
   },
   {
     "title": "Après l'incendie d'Aigle, des familles peinent à retrouver un logement",
-    "added_at": "2026-08-08T20:25:20.783Z"
+    "added_at": "2026-08-08T20:25:20.783Z",
+    "removed_at": "2026-08-11T06:22:20.450Z",
+    "duration_minutes": 3476,
+    "duration_str": "2d 9h 56m"
   },
   {
     "title": "Les photos du nouveau cratère sur la Lune, créé par SpaceX",
@@ -109497,11 +109506,17 @@
   },
   {
     "title": "Elisabeth Baume-Schneider veut améliorer la protection face à la soumission chimique",
-    "added_at": "2026-08-09T03:19:07.229Z"
+    "added_at": "2026-08-09T03:19:07.229Z",
+    "removed_at": "2026-08-11T05:26:08.939Z",
+    "duration_minutes": 3007,
+    "duration_str": "2d 2h 7m"
   },
   {
     "title": "Batterie de vélo électrique: faut-il la remplacer ou la réparer?",
-    "added_at": "2026-08-09T05:14:45.489Z"
+    "added_at": "2026-08-09T05:14:45.489Z",
+    "removed_at": "2026-08-11T06:32:03.552Z",
+    "duration_minutes": 2957,
+    "duration_str": "2d 1h 17m"
   },
   {
     "title": "Les scientifiques du Jungfraujoch alertent sur les PFAS libérés par les climatiseurs de voitures",
@@ -109800,7 +109815,10 @@
   },
   {
     "title": "Noè Ponti qualifié pour la finale du 50m papillon",
-    "added_at": "2026-08-10T17:20:58.434Z"
+    "added_at": "2026-08-10T17:20:58.434Z",
+    "removed_at": "2026-08-11T06:44:19.313Z",
+    "duration_minutes": 803,
+    "duration_str": "13h 23m"
   },
   {
     "title": "Police, putsch et tensions: récit des AG houleuses de l'Association suisse des assurés",
@@ -109886,10 +109904,7 @@
   },
   {
     "title": "Aux Etats-Unis, une vague de sabotages vise une entreprise de surveillance de masse",
-    "added_at": "2026-08-11T00:15:09.624Z",
-    "removed_at": "2026-08-11T03:15:34.407Z",
-    "duration_minutes": 180,
-    "duration_str": "3h"
+    "added_at": "2026-08-11T00:15:09.624Z"
   },
   {
     "title": "Un gigantesque coffre-fort pour les riches construit dans les Alpes obwaldienne",
@@ -109910,5 +109925,29 @@
   {
     "title": "Trump Media & Technology Group annonce, à nouveau, des centaines de millions de pertes",
     "added_at": "2026-08-11T03:42:23.591Z"
+  },
+  {
+    "title": "Une entreprise américaine tente de forer au Groenland sans avoir reçu d'autorisation",
+    "added_at": "2026-08-11T04:26:33.177Z"
+  },
+  {
+    "title": "Se reloger à long terme après un incendie? Ça peut être compliqué",
+    "added_at": "2026-08-11T05:26:08.939Z"
+  },
+  {
+    "title": "La mer du Nord, nouveau paradis des poulpes, calamars et autres seiches",
+    "added_at": "2026-08-11T05:50:33.200Z"
+  },
+  {
+    "title": "Ignazio Cassis entre en campagne pour défendre le non à l'initiative sur la neutralité",
+    "added_at": "2026-08-11T06:22:20.450Z"
+  },
+  {
+    "title": "Pollution, accidents, bouchons: faire payer tous les coûts du trafic inciterait à délaisser la voiture",
+    "added_at": "2026-08-11T06:32:03.552Z"
+  },
+  {
+    "title": "Noè Ponti jouera une médaille ce soir",
+    "added_at": "2026-08-11T06:44:19.313Z"
   }
 ]
