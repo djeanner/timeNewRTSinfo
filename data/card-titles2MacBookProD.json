@@ -101953,7 +101953,10 @@
   },
   {
     "title": "suisse:::A Ovronnaz et dans les Alpes, le tourisme de la fraîcheur dope la fréquentation des stations",
-    "added_at": "2026-08-06T06:26:57.714Z"
+    "added_at": "2026-08-06T06:26:57.714Z",
+    "removed_at": "2026-08-11T14:34:38.084Z",
+    "duration_minutes": 7687,
+    "duration_str": "5d 8h 7m"
   },
   {
     "title": "cyber:::Arnaques aux cryptomonnaies: comment les escrocs exploitent l’espoir de gains rapides pour voler des fortunes",
@@ -102649,7 +102652,10 @@
   },
   {
     "title": "sciences:::Une quatrième vague de chaleur s’abat sur la Suisse",
-    "added_at": "2026-08-09T14:40:37.528Z"
+    "added_at": "2026-08-09T14:40:37.528Z",
+    "removed_at": "2026-08-11T14:32:08.120Z",
+    "duration_minutes": 2871,
+    "duration_str": "1d 23h 51m"
   },
   {
     "title": "monde:::Entre l'Espagne et l'Italie, la crise de Ceuta sert les calculs électoraux de Pedro Sánchez et Giorgia Meloni",
@@ -102748,10 +102754,7 @@
   },
   {
     "title": "economie:::Depuis trois ans, la Finma muscle sa surveillance d’UBS",
-    "added_at": "2026-08-10T04:34:05.310Z",
-    "removed_at": "2026-08-10T18:14:41.490Z",
-    "duration_minutes": 820,
-    "duration_str": "13h 40m"
+    "added_at": "2026-08-10T04:34:05.310Z"
   },
   {
     "title": "economie:::Après maints rebondissements, le procès en appel de l’ancien patron de Raiffeisen débute ce lundi",
@@ -102797,7 +102800,10 @@
   },
   {
     "title": "suisse:::Samuel Sommaruga, le visage romand inattendu de l’initiative pour la neutralité",
-    "added_at": "2026-08-10T09:35:06.809Z"
+    "added_at": "2026-08-10T09:35:06.809Z",
+    "removed_at": "2026-08-11T12:27:33.503Z",
+    "duration_minutes": 1612,
+    "duration_str": "1d 2h 52m"
   },
   {
     "title": "sport:::Les fédérations d’Europe, Amérique du Nord et Asie insistent en visant Gianni Infantino: le football «n’appartient à aucun individu»",
@@ -102942,10 +102948,7 @@
   },
   {
     "title": "economie:::Les AT1, une solution attractive pour UBS (et les investisseurs)",
-    "added_at": "2026-08-10T17:15:41.873Z",
-    "removed_at": "2026-08-10T18:14:41.490Z",
-    "duration_minutes": 58,
-    "duration_str": "58m"
+    "added_at": "2026-08-10T17:15:41.873Z"
   },
   {
     "title": "monde:::La Colombie secouée par un puissant séisme, au moins 69 habitants ont péri sous les décombres",
@@ -102995,7 +102998,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump vante une «très bonne» relation avec Netanyahou en dépit des désaccords sur Gaza",
-    "added_at": "2026-08-11T01:26:45.000Z"
+    "added_at": "2026-08-11T01:26:45.000Z",
+    "removed_at": "2026-08-11T14:39:29.377Z",
+    "duration_minutes": 792,
+    "duration_str": "13h 12m"
   },
   {
     "title": "monde:::La Colombie à la recherche de survivants après un séisme meurtrier, les aides affluent",
@@ -103060,7 +103066,10 @@
   },
   {
     "title": "sciences:::La dernière méga-sécheresse comparable à 2026 remonte à 1540, mais elle survient aujourd’hui dans un climat radicalement différent",
-    "added_at": "2026-08-11T08:29:36.648Z"
+    "added_at": "2026-08-11T08:29:36.648Z",
+    "removed_at": "2026-08-11T14:46:50.211Z",
+    "duration_minutes": 377,
+    "duration_str": "6h 17m"
   },
   {
     "title": "economie:::Le braquage du Château des Monts au Locle rappelle la périlleuse attractivité des musées d’horlogerie",
@@ -103071,7 +103080,10 @@
   },
   {
     "title": "suisse:::Ex-député accusé d’avoir drogué et violé plusieurs femmes: le canton d’Argovie mandate une enquête externe",
-    "added_at": "2026-08-11T09:06:19.614Z"
+    "added_at": "2026-08-11T09:06:19.614Z",
+    "removed_at": "2026-08-11T12:42:11.765Z",
+    "duration_minutes": 215,
+    "duration_str": "3h 35m"
   },
   {
     "title": "cyber:::L’hypocrisie de Mark Zuckerberg: il fustige la concentration du pouvoir, mais rêve de régner sur une superintelligence artificielle",
@@ -103095,5 +103107,17 @@
   {
     "title": "suisse:::Genève lance son offensive pour attirer les tournages de films et de séries",
     "added_at": "2026-08-11T12:02:53.169Z"
+  },
+  {
+    "title": "economie:::Pas de décision concernant les fonds propres d’UBS",
+    "added_at": "2026-08-11T12:42:11.765Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – La Syrie condamne le dictateur déchu Bachar el-Assad à la peine de mort, le Liban, lui, abolit le châtiment suprême",
+    "added_at": "2026-08-11T14:39:29.377Z"
+  },
+  {
+    "title": "suisse:::Après une décennie de galopades, le couple Robin Godel et Grandeur de Lully écrira son épilogue à Aix-la-Chapelle",
+    "added_at": "2026-08-11T14:46:50.211Z"
   }
 ]
