@@ -110517,7 +110517,10 @@
   },
   {
     "title": "Après des années d'attente et un budget record, GTA VI veut être le jeu vidéo du siècle",
-    "added_at": "2026-09-02T12:26:54.197Z"
+    "added_at": "2026-09-02T12:26:54.197Z",
+    "removed_at": "2026-09-03T21:30:16.950Z",
+    "duration_minutes": 1983,
+    "duration_str": "1d 9h 3m"
   },
   {
     "title": "OpenAI promet un dispositif de surveillance pour brider Astra, son prochain modèle d'IA",
@@ -110705,7 +110708,10 @@
   },
   {
     "title": "'L'odeur du désinfectant' d'Ombeline Desjonquères, une plongée dans les études de médecine",
-    "added_at": "2026-09-02T12:26:54.197Z"
+    "added_at": "2026-09-02T12:26:54.197Z",
+    "removed_at": "2026-09-03T21:10:55.923Z",
+    "duration_minutes": 1964,
+    "duration_str": "1d 8h 44m"
   },
   {
     "title": "Cristina Gaggini: \"Il faut recentrer l'enseignement primaire sur les compétences de base\"",
@@ -111264,10 +111270,24 @@
   },
   {
     "title": "Mis en examen, Patrick Bruel annule sa tournée",
-    "added_at": "2026-09-03T20:17:39.829Z"
+    "added_at": "2026-09-03T20:17:39.829Z",
+    "removed_at": "2026-09-03T21:13:21.778Z",
+    "duration_minutes": 55,
+    "duration_str": "55m"
   },
   {
     "title": "Des slips enterrés dans le sol distingués par un Ig-Nobel",
     "added_at": "2026-09-03T20:49:01.868Z"
+  },
+  {
+    "title": "Volkswagen approuve un plan de restructuration supprimant 50'000 postes de plus dans le monde",
+    "added_at": "2026-09-03T21:30:16.950Z",
+    "removed_at": "2026-09-03T21:44:46.624Z",
+    "duration_minutes": 14,
+    "duration_str": "14m"
+  },
+  {
+    "title": "Volkswagen approuve un plan de restructuration supprimant 50'000 postes de plus",
+    "added_at": "2026-09-03T21:44:46.624Z"
   }
 ]
