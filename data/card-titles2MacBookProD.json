@@ -8226,7 +8226,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z"
+    "added_at": "2025-05-22T18:01:52.008Z",
+    "removed_at": "2026-09-03T19:12:28.862Z",
+    "duration_minutes": 675430,
+    "duration_str": "469d 1h 10m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -103290,7 +103293,10 @@
   },
   {
     "title": "suisse:::La fusillade d’Aarau et ses suites, minute par minute",
-    "added_at": "2026-09-02T12:26:54.283Z"
+    "added_at": "2026-09-02T12:26:54.283Z",
+    "removed_at": "2026-09-03T18:16:52.165Z",
+    "duration_minutes": 1789,
+    "duration_str": "1d 5h 49m"
   },
   {
     "title": "suisse:::«C’est un calibre de guerre»: un suspect arrêté mais beaucoup de questions en suspens après la fusillade lors d’une rave à Aarau",
@@ -103486,7 +103492,10 @@
   },
   {
     "title": "suisse:::Fusillade d’Aarau: la virée meurtrière d’un Jurassien encore entourée de nombreuses zones d’ombre",
-    "added_at": "2026-09-02T14:01:41.747Z"
+    "added_at": "2026-09-02T14:01:41.747Z",
+    "removed_at": "2026-09-03T18:16:52.165Z",
+    "duration_minutes": 1695,
+    "duration_str": "1d 4h 15m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël se dit prêt à déplacer les habitants de Gaza «par la mer et les airs»",
@@ -103627,7 +103636,10 @@
   },
   {
     "title": "suisse:::Le Centre Vaud tourne la page Valérie Dittli, quitte l’Alliance vaudoise et cherche désormais son candidat au Conseil d’Etat",
-    "added_at": "2026-09-02T21:04:06.323Z"
+    "added_at": "2026-09-02T21:04:06.323Z",
+    "removed_at": "2026-09-03T19:14:54.556Z",
+    "duration_minutes": 1330,
+    "duration_str": "22h 10m"
   },
   {
     "title": "economie:::Uber coupe 10% de ses effectifs, la plus importante réduction d’effectifs depuis le Covid-19",
@@ -103673,7 +103685,10 @@
   },
   {
     "title": "cyber:::Les émissions de CO2 des géants de la tech et de l’IA explosent et toutes leurs promesses volent en éclats",
-    "added_at": "2026-09-03T04:12:21.883Z"
+    "added_at": "2026-09-03T04:12:21.883Z",
+    "removed_at": "2026-09-03T18:16:52.165Z",
+    "duration_minutes": 844,
+    "duration_str": "14h 4m"
   },
   {
     "title": "suisse:::Face à la crise du vin, les vignerons romands devront se mettre au suisse-allemand",
@@ -103801,7 +103816,10 @@
   },
   {
     "title": "suisse:::A Genève, le syndicat Unia dépose une requête de faillite contre Ronin Primeurs, société qui ploie sous les dettes",
-    "added_at": "2026-09-03T13:43:16.931Z"
+    "added_at": "2026-09-03T13:43:16.931Z",
+    "removed_at": "2026-09-03T19:48:41.909Z",
+    "duration_minutes": 365,
+    "duration_str": "6h 5m"
   },
   {
     "title": "economie:::Emmenée par l’industrie pharmaceutique, l’économie suisse a pressé sur l’accélérateur ce printemps",
@@ -103823,7 +103841,10 @@
   },
   {
     "title": "sciences:::Aleksandra Walczak, biophysicienne: «A partir des données extraites du vivant, nous faisons apparaître des formules et des algorithmes»",
-    "added_at": "2026-09-03T14:53:15.309Z"
+    "added_at": "2026-09-03T14:53:15.309Z",
+    "removed_at": "2026-09-03T18:19:19.841Z",
+    "duration_minutes": 206,
+    "duration_str": "3h 26m"
   },
   {
     "title": "suisse:::La fusillade d’Aarau oblige la Suisse à se pencher sur sa législation en matière d’armes à feu",
@@ -103873,5 +103894,29 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Volodymyr Zelensky espère une visite à Kiev des émissaires américains «dans les prochains jours»",
     "added_at": "2026-09-03T17:45:13.668Z"
+  },
+  {
+    "title": "sciences:::Le verdissement des Alpes, un boom de biodiversité aux apparences trompeuses",
+    "added_at": "2026-09-03T18:16:52.165Z"
+  },
+  {
+    "title": "culture:::La maison d’édition lausannoise Noir sur Blanc fête quarante ans de traduction et de diffusion des littératures slaves dans la francophonie",
+    "added_at": "2026-09-03T18:21:41.513Z"
+  },
+  {
+    "title": "suisse:::Pour le spécialiste des dangers naturels Markus Stoffel, «nous devons nous préparer à des événements sans précédent»",
+    "added_at": "2026-09-03T18:48:19.365Z"
+  },
+  {
+    "title": "sport:::L’Omega European Masters, laboratoire pour le retour des joueurs «renégats» partis sur le LIV Golf",
+    "added_at": "2026-09-03T19:12:28.862Z"
+  },
+  {
+    "title": "culture:::La cave12, lieu emblématique à Genève, remporte le Prix culturel Leenaards 2026",
+    "added_at": "2026-09-03T19:14:54.556Z"
+  },
+  {
+    "title": "suisse:::Le Site archéologique Saint-Antoine rend enfin accessibles au public des pans de l’Histoire genevoise",
+    "added_at": "2026-09-03T19:48:41.909Z"
   }
 ]
