@@ -277711,7 +277711,10 @@
   },
   {
     "title": "Water erupts from sewer after heavy rain in Pittsburgh",
-    "added_at": "2026-09-04T10:46:12.883Z"
+    "added_at": "2026-09-04T10:46:12.883Z",
+    "removed_at": "2026-09-05T06:51:55.891Z",
+    "duration_minutes": 1205,
+    "duration_str": "20h 5m"
   },
   {
     "title": "How two men were rescued from a flood-stricken Nepali power plant",
@@ -278123,7 +278126,10 @@
   },
   {
     "title": "Hurricane Lowell strengthens to Category 4 as Hawaii braces for possible impacts",
-    "added_at": "2026-09-04T23:42:06.253Z"
+    "added_at": "2026-09-04T23:42:06.253Z",
+    "removed_at": "2026-09-05T06:59:09.720Z",
+    "duration_minutes": 437,
+    "duration_str": "7h 17m"
   },
   {
     "title": "CNN team witnesses rescue operation after two men found alive in tunnel",
@@ -278166,7 +278172,10 @@
   },
   {
     "title": "Denmark’s largest Viking Age silver hoard discovered in backyard",
-    "added_at": "2026-09-05T00:37:39.088Z"
+    "added_at": "2026-09-05T00:37:39.088Z",
+    "removed_at": "2026-09-05T07:13:32.515Z",
+    "duration_minutes": 395,
+    "duration_str": "6h 35m"
   },
   {
     "title": "Trump’s proposed Space Academy aims to educate a new generation of astronauts and engineers",
@@ -278241,5 +278250,17 @@
   {
     "title": "Germany’s far-right AfD is poised for power – and split on whether to cozy up to Trump",
     "added_at": "2026-09-05T04:22:02.346Z"
+  },
+  {
+    "title": "Stars and Stripes editor speaks out after judge okays firing",
+    "added_at": "2026-09-05T06:51:55.891Z"
+  },
+  {
+    "title": "Hurricane Lowell strengthens to Category 5 as Hawaii braces for possible impacts",
+    "added_at": "2026-09-05T06:59:09.720Z"
+  },
+  {
+    "title": "Inside China’s robot-filled ‘dark factories’",
+    "added_at": "2026-09-05T07:13:32.515Z"
   }
 ]

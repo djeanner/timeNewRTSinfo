@@ -111157,7 +111157,10 @@
   },
   {
     "title": "Témoignage d'un jeune qui a tenté de porter secours à la victime de la fusillade d'Aarau",
-    "added_at": "2026-09-03T00:15:31.038Z"
+    "added_at": "2026-09-03T00:15:31.038Z",
+    "removed_at": "2026-09-05T06:15:44.440Z",
+    "duration_minutes": 3240,
+    "duration_str": "2d 6h"
   },
   {
     "title": "Trois cyclones traversent simultanément le Pacifique, un phénomène rare",
@@ -111276,7 +111279,10 @@
   },
   {
     "title": "Icône du mouvement féministe, la journaliste américaine Gloria Steinem est décédée",
-    "added_at": "2026-09-03T11:35:08.381Z"
+    "added_at": "2026-09-03T11:35:08.381Z",
+    "removed_at": "2026-09-05T06:37:26.162Z",
+    "duration_minutes": 2582,
+    "duration_str": "1d 19h 2m"
   },
   {
     "title": "La Suisse et la France célèbrent l'inscription à l'Unesco de la \"paix perpétuelle\"",
@@ -111294,14 +111300,14 @@
   },
   {
     "title": "La Suisse et la France célèbrent à Fribourg l'inscription à l'Unesco de la \"paix perpétuelle\"",
-    "added_at": "2026-09-03T12:45:08.492Z"
+    "added_at": "2026-09-03T12:45:08.492Z",
+    "removed_at": "2026-09-05T06:27:46.520Z",
+    "duration_minutes": 2502,
+    "duration_str": "1d 17h 42m"
   },
   {
     "title": "La boucherie en gros Carnadis rappelle ses produits potentiellement contaminés à la listeria",
-    "added_at": "2026-09-03T13:07:04.646Z",
-    "removed_at": "2026-09-05T05:15:18.336Z",
-    "duration_minutes": 2408,
-    "duration_str": "1d 16h 8m"
+    "added_at": "2026-09-03T13:07:04.646Z"
   },
   {
     "title": "\"La police m'a violenté pour un keffieh\"",
@@ -111337,7 +111343,10 @@
   },
   {
     "title": "Le Premier ministre espagnol défend le Maroc accusé de l'affluence d'immigrants à Ceuta",
-    "added_at": "2026-09-03T13:33:36.459Z"
+    "added_at": "2026-09-03T13:33:36.459Z",
+    "removed_at": "2026-09-05T06:44:40.528Z",
+    "duration_minutes": 2471,
+    "duration_str": "1d 17h 11m"
   },
   {
     "title": "Avec 'Glissando', Anne-Sophie Subilia ausculte avec brio l'épuisement d'une jeune mère",
@@ -111359,7 +111368,10 @@
   },
   {
     "title": "\"Je gère!\", la campagne fribourgeoise pour aider les jeunes",
-    "added_at": "2026-09-03T15:48:57.899Z"
+    "added_at": "2026-09-03T15:48:57.899Z",
+    "removed_at": "2026-09-05T05:46:49.308Z",
+    "duration_minutes": 2277,
+    "duration_str": "1d 13h 57m"
   },
   {
     "title": "Une série de dons sur un compte de soutien destiné à Valérie Dittli interroge",
@@ -111367,7 +111379,10 @@
   },
   {
     "title": "La mission BepiColombo amorce une arrivée à haut risque vers Mercure",
-    "added_at": "2026-09-03T16:37:23.581Z"
+    "added_at": "2026-09-03T16:37:23.581Z",
+    "removed_at": "2026-09-05T07:37:39.772Z",
+    "duration_minutes": 2340,
+    "duration_str": "1d 15h"
   },
   {
     "title": "Les Ig-Nobel, récompenses qui font 'rire puis réfléchir', débarquent à Zurich",
@@ -111639,7 +111654,10 @@
   },
   {
     "title": "Le deal de stupéfiants quitte les gares pour s'installer dans les trains du Nord vaudois",
-    "added_at": "2026-09-04T19:40:36.757Z"
+    "added_at": "2026-09-04T19:40:36.757Z",
+    "removed_at": "2026-09-05T06:51:55.280Z",
+    "duration_minutes": 671,
+    "duration_str": "11h 11m"
   },
   {
     "title": "Qualification de Servette Chênois à la Ligue des Championnes.",
@@ -111666,10 +111684,41 @@
   },
   {
     "title": "Important déploiement policier après des détonations dans une école saint-galloise",
-    "added_at": "2026-09-05T03:36:14.738Z"
+    "added_at": "2026-09-05T03:36:14.738Z",
+    "removed_at": "2026-09-05T05:37:10.955Z",
+    "duration_minutes": 120,
+    "duration_str": "2h"
   },
   {
     "title": "Donald Trump sème la confusion sur les élections de mi-mandat quant au vote par correspondance",
     "added_at": "2026-09-05T04:24:29.012Z"
+  },
+  {
+    "title": "Important déploiement policier après des détonations entendues dans une école saint-galloise",
+    "added_at": "2026-09-05T05:37:10.955Z"
+  },
+  {
+    "title": "\"Face aux tensions géopolitiques, le train est un outil stratégique\"",
+    "added_at": "2026-09-05T05:46:49.308Z"
+  },
+  {
+    "title": "La grotte du glacier du Rhône devra fermer définitivement",
+    "added_at": "2026-09-05T06:15:44.440Z"
+  },
+  {
+    "title": "Ces artistes partagent leurs souvenirs et anecdotes d'été à travers la Suisse romande",
+    "added_at": "2026-09-05T06:27:46.520Z"
+  },
+  {
+    "title": "Un nouveau message de prévention déclenche une bataille autour de la bière en Belgique",
+    "added_at": "2026-09-05T06:44:40.528Z"
+  },
+  {
+    "title": "Après les gares, le deal de stupéfiants s'installe aussi dans les trains du Nord vaudois",
+    "added_at": "2026-09-05T06:51:55.280Z"
+  },
+  {
+    "title": "Dans 'Une histoire d'amours', Serge Joncour fait dialoguer romantisme et urgence écologique",
+    "added_at": "2026-09-05T07:37:39.772Z"
   }
 ]
