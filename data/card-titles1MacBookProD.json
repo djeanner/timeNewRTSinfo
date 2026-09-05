@@ -111504,7 +111504,10 @@
   },
   {
     "title": "Volkswagen approuve un plan de restructuration supprimant 50'000 postes de plus",
-    "added_at": "2026-09-03T21:44:46.624Z"
+    "added_at": "2026-09-03T21:44:46.624Z",
+    "removed_at": "2026-09-05T18:56:58.343Z",
+    "duration_minutes": 2712,
+    "duration_str": "1d 21h 12m"
   },
   {
     "title": "OpenAI lance GPT-6, son modèle le plus puissant, avec des garde-fous",
@@ -111515,7 +111518,10 @@
   },
   {
     "title": "La sénatrice fribourgeoise Johanna Gapany renonce à un troisième mandat au Conseil des Etats",
-    "added_at": "2026-09-04T02:10:04.946Z"
+    "added_at": "2026-09-04T02:10:04.946Z",
+    "removed_at": "2026-09-05T19:47:38.092Z",
+    "duration_minutes": 2497,
+    "duration_str": "1d 17h 37m"
   },
   {
     "title": "Javier Milei durcit le ton sur la revendication argentine des îles Malouines",
@@ -111530,7 +111536,10 @@
   },
   {
     "title": "Les vignerons romands font face à une crise sans précédent",
-    "added_at": "2026-09-04T04:24:23.208Z"
+    "added_at": "2026-09-04T04:24:23.208Z",
+    "removed_at": "2026-09-05T19:47:38.092Z",
+    "duration_minutes": 2363,
+    "duration_str": "1d 15h 23m"
   },
   {
     "title": "Votations fédérales du 27 septembre: participez à notre deuxième sondage",
@@ -111556,7 +111565,10 @@
   },
   {
     "title": "Uber est visé par une action collective de chauffeurs européens",
-    "added_at": "2026-09-04T06:05:53.353Z"
+    "added_at": "2026-09-04T06:05:53.353Z",
+    "removed_at": "2026-09-05T19:30:40.980Z",
+    "duration_minutes": 2244,
+    "duration_str": "1d 13h 24m"
   },
   {
     "title": "Montreux, épicentre des célébrations des 80 ans de la naissance de Freddie Mercury",
@@ -111606,7 +111618,10 @@
   },
   {
     "title": "Au Festival Jazz au Peuple, Vincent Courtois et Colin Vallon font dialoguer leurs instruments",
-    "added_at": "2026-09-04T11:29:56.112Z"
+    "added_at": "2026-09-04T11:29:56.112Z",
+    "removed_at": "2026-09-05T19:59:39.910Z",
+    "duration_minutes": 1949,
+    "duration_str": "1d 8h 29m"
   },
   {
     "title": "Le canton de Genève juge \"licite\" le début de la nasse lors de la manifestation No G7",
@@ -111744,7 +111759,10 @@
   },
   {
     "title": "Marine Le Pen a-t-elle déjà gagné la présidentielle? Avec Nathalie Saint-Cricq",
-    "added_at": "2026-09-04T20:16:50.150Z"
+    "added_at": "2026-09-04T20:16:50.150Z",
+    "removed_at": "2026-09-05T21:16:46.831Z",
+    "duration_minutes": 1499,
+    "duration_str": "1d 59m"
   },
   {
     "title": "Environ 300 personnes à une marche commémorative pour les victimes de la fusillade d'Aarau",
@@ -111909,7 +111927,10 @@
   },
   {
     "title": "Après la crue au Népal, les secours ont miraculeusement retrouvé quatre rescapés",
-    "added_at": "2026-09-05T14:52:37.058Z"
+    "added_at": "2026-09-05T14:52:37.058Z",
+    "removed_at": "2026-09-05T19:57:12.527Z",
+    "duration_minutes": 304,
+    "duration_str": "5h 4m"
   },
   {
     "title": "'Le Mystère de la chambre jaune', le lifting réussi d'un classique ★★★★☆",
@@ -111917,7 +111938,10 @@
   },
   {
     "title": "L'armée américaine dit avoir \"détruit\" trois pétroliers iraniens dans le golfe",
-    "added_at": "2026-09-05T15:26:23.752Z"
+    "added_at": "2026-09-05T15:26:23.752Z",
+    "removed_at": "2026-09-05T19:11:26.662Z",
+    "duration_minutes": 225,
+    "duration_str": "3h 45m"
   },
   {
     "title": "Une manifestation \"pour la démocratie\" en Saxe-Anhalt, où l'AfD se prépare à une victoire historique",
@@ -111941,5 +111965,37 @@
   {
     "title": "A Fafleralp, au fond du Lötschental, un hôtel a rouvert malgré les défis logistiques",
     "added_at": "2026-09-05T18:51:55.054Z"
+  },
+  {
+    "title": "A Gaza, le football redonne le sourire à de jeunes victimes amputées",
+    "added_at": "2026-09-05T18:56:58.343Z"
+  },
+  {
+    "title": "L'armée américaine \"détruit\" trois pétroliers iraniens dans le golfe, Téhéran menace",
+    "added_at": "2026-09-05T19:11:26.662Z"
+  },
+  {
+    "title": "Montreux rend hommage à Freddie Mercury pour les 80 ans de sa naissance",
+    "added_at": "2026-09-05T19:30:40.980Z"
+  },
+  {
+    "title": "Le vote sur la neutralité suisse fait ressurgir de profondes divisions à gauche",
+    "added_at": "2026-09-05T19:47:38.092Z"
+  },
+  {
+    "title": "Le nouveau site archéologique Saint-Antoine ouvre ses portes à Genève",
+    "added_at": "2026-09-05T19:47:38.092Z"
+  },
+  {
+    "title": "Audrey Werro remporte le 800m des finales de Bruxelles",
+    "added_at": "2026-09-05T19:57:12.527Z"
+  },
+  {
+    "title": "À Genève, les jeunes marques horlogères cherchent à bousculer le luxe",
+    "added_at": "2026-09-05T19:59:39.910Z"
+  },
+  {
+    "title": "Attaques hybrides: l'Europe est-elle déjà en guerre avec la Russie? Avec Ulrike Franke",
+    "added_at": "2026-09-05T21:16:46.831Z"
   }
 ]
