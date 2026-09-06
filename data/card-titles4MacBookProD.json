@@ -277718,7 +277718,10 @@
   },
   {
     "title": "Would you zipline through this Turkish canyon?",
-    "added_at": "2026-09-04T10:26:46.665Z"
+    "added_at": "2026-09-04T10:26:46.665Z",
+    "removed_at": "2026-09-06T06:10:30.180Z",
+    "duration_minutes": 2623,
+    "duration_str": "1d 19h 43m"
   },
   {
     "title": "CNN team witnesses ongoing rescue operation after two men found alive in tunnel",
@@ -278324,7 +278327,10 @@
   },
   {
     "title": "Serena and Venus Williams lose in a match tiebreaker in their return to the US Open",
-    "added_at": "2026-09-05T02:50:21.953Z"
+    "added_at": "2026-09-05T02:50:21.953Z",
+    "removed_at": "2026-09-06T06:05:43.347Z",
+    "duration_minutes": 1635,
+    "duration_str": "1d 3h 15m"
   },
   {
     "title": "Nearly two weeks after it was announced, the impact of the US’ pressure campaign on Tehran is under question",
@@ -278665,7 +278671,10 @@
   },
   {
     "title": "Trump’s PAC wades into midterms with $10 million ad buy to boost Ken Paxton",
-    "added_at": "2026-09-05T19:16:14.433Z"
+    "added_at": "2026-09-05T19:16:14.433Z",
+    "removed_at": "2026-09-06T06:36:59.962Z",
+    "duration_minutes": 680,
+    "duration_str": "11h 20m"
   },
   {
     "title": "Putin holds talks with US mediators Witkoff and Kushner in Moscow",
@@ -278680,10 +278689,7 @@
   },
   {
     "title": "Witkoff and Kushner to take US peace push to Kyiv after meeting Putin in Moscow",
-    "added_at": "2026-09-05T23:12:55.177Z",
-    "removed_at": "2026-09-05T23:34:39.554Z",
-    "duration_minutes": 21,
-    "duration_str": "21m"
+    "added_at": "2026-09-05T23:12:55.177Z"
   },
   {
     "title": "First Filipina receives star on Hollywood Walk of Fame",
@@ -278695,15 +278701,24 @@
   },
   {
     "title": "See the strike disable two oil tankers and destroy a third",
-    "added_at": "2026-09-05T23:34:39.554Z"
+    "added_at": "2026-09-05T23:34:39.554Z",
+    "removed_at": "2026-09-06T07:29:58.550Z",
+    "duration_minutes": 475,
+    "duration_str": "7h 55m"
   },
   {
     "title": "The US team is set to meet with Zelensky after talks with Putin, as part of renewed effort to end war",
-    "added_at": "2026-09-05T23:34:39.554Z"
+    "added_at": "2026-09-05T23:34:39.554Z",
+    "removed_at": "2026-09-06T06:36:59.962Z",
+    "duration_minutes": 422,
+    "duration_str": "7h 2m"
   },
   {
     "title": "Russia struck Ukraine Security Service headquarters in central Kyiv Friday",
-    "added_at": "2026-09-05T23:34:39.554Z"
+    "added_at": "2026-09-05T23:34:39.554Z",
+    "removed_at": "2026-09-06T07:29:58.550Z",
+    "duration_minutes": 475,
+    "duration_str": "7h 55m"
   },
   {
     "title": "Cubans are coming up with creative ways to generate power when their island has almost none left",
@@ -278751,5 +278766,24 @@
   {
     "title": "How a new FDA cleared AI system could save thousands of lives lost to sepsis",
     "added_at": "2026-09-06T05:07:40.347Z"
+  },
+  {
+    "title": "Serena and Venus Williams lose in a match tiebreaker in their US Open return",
+    "added_at": "2026-09-06T06:05:43.347Z"
+  },
+  {
+    "title": "Why skateboarding is more than a sport in Nigeria",
+    "added_at": "2026-09-06T06:10:30.180Z"
+  },
+  {
+    "title": "Witkoff and Kushner take US peace push to Moscow and Kyiv",
+    "added_at": "2026-09-06T06:36:59.962Z",
+    "removed_at": "2026-09-06T06:56:14.529Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
+  },
+  {
+    "title": "CNN is in Tibet to witness the scale of the destruction at a bustling checkpoint washed from existence by last week’s catastrophic flash floods",
+    "added_at": "2026-09-06T06:36:59.962Z"
   }
 ]
