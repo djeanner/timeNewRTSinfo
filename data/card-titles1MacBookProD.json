@@ -111608,7 +111608,10 @@
   },
   {
     "title": "Nouveau retard de livraison après l'échec des négociations entre Berne et Berlin sur les systèmes Patriot",
-    "added_at": "2026-09-04T09:48:05.847Z"
+    "added_at": "2026-09-04T09:48:05.847Z",
+    "removed_at": "2026-09-06T03:14:18.457Z",
+    "duration_minutes": 2486,
+    "duration_str": "1d 17h 26m"
   },
   {
     "title": "La justice ouvre une nouvelle enquête contre l'ancien député UDC argovien Patrick Frei",
@@ -112018,7 +112021,10 @@
   },
   {
     "title": "Le Chant du Gros attire 43000 festivaliers pour son édition 2026",
-    "added_at": "2026-09-06T00:18:11.866Z"
+    "added_at": "2026-09-06T00:18:11.866Z",
+    "removed_at": "2026-09-06T05:36:36.691Z",
+    "duration_minutes": 318,
+    "duration_str": "5h 18m"
   },
   {
     "title": "L'armée américaine dit avoir \"détruit\" trois pétroliers iraniens",
@@ -112034,10 +112040,33 @@
   },
   {
     "title": "\"La situation n'est pas simple\", confie Vladimir Poutine, la Maison-Blanche évoque des \"plans substantiels\" pour l'Ukraine",
-    "added_at": "2026-09-06T01:47:22.588Z"
+    "added_at": "2026-09-06T01:47:22.588Z",
+    "removed_at": "2026-09-06T05:34:08.980Z",
+    "duration_minutes": 226,
+    "duration_str": "3h 46m"
   },
   {
     "title": "Durant trois semaines des jeunes valaisans ont vécu en autonomie au Groenland",
     "added_at": "2026-09-06T01:47:22.588Z"
+  },
+  {
+    "title": "Record d'affluence pour le 20e Festival Avenches Tatoo",
+    "added_at": "2026-09-06T03:14:18.457Z"
+  },
+  {
+    "title": "Forum",
+    "added_at": "2026-09-06T03:16:45.564Z"
+  },
+  {
+    "title": "L'aéroport de Jakarta suspend ses opérations en raison des cendres d'un volcan réputé explosif",
+    "added_at": "2026-09-06T04:31:24.023Z"
+  },
+  {
+    "title": "\"La situation n'est pas simple\", confie Vladimir Poutine, la Maison Blanche évoque des \"plans substantiels\" pour l'Ukraine",
+    "added_at": "2026-09-06T05:31:43.837Z"
+  },
+  {
+    "title": "Le Chant du Gros attire 43'000 festivaliers pour son édition 2026",
+    "added_at": "2026-09-06T05:36:36.691Z"
   }
 ]
