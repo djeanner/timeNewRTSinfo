@@ -104373,7 +104373,10 @@
   },
   {
     "title": "economie:::Le franc est à un plus bas annuel face à l’euro",
-    "added_at": "2026-09-05T06:06:05.826Z"
+    "added_at": "2026-09-05T06:06:05.826Z",
+    "removed_at": "2026-09-06T14:28:08.656Z",
+    "duration_minutes": 1942,
+    "duration_str": "1d 8h 22m"
   },
   {
     "title": "monde:::Guerre en Ukraine – Volodymyr Zelensky propose un arrêt des bombardements pendant la visite des émissaires américains",
@@ -104399,7 +104402,10 @@
   },
   {
     "title": "monde:::L’extrême droite allemande aux portes du pouvoir en Saxe-Anhalt",
-    "added_at": "2026-09-05T08:55:00.882Z"
+    "added_at": "2026-09-05T08:55:00.882Z",
+    "removed_at": "2026-09-06T16:21:30.301Z",
+    "duration_minutes": 1886,
+    "duration_str": "1d 7h 26m"
   },
   {
     "title": "sport:::Danny Willett: «Tout d’un coup, j’ai eu 3 coups d’avance au Masters»",
@@ -104548,7 +104554,10 @@
   },
   {
     "title": "sciences:::«Les lois de la jungle», épisode 2: A Kinshasa, au rythme du charbon de bois",
-    "added_at": "2026-09-05T19:01:45.218Z"
+    "added_at": "2026-09-05T19:01:45.218Z",
+    "removed_at": "2026-09-06T14:59:33.522Z",
+    "duration_minutes": 1197,
+    "duration_str": "19h 57m"
   },
   {
     "title": "monde:::Moyen-Orient – L'armée américaine dit avoir «détruit» trois pétroliers iraniens, Téhéran promet des représailles",
@@ -104584,11 +104593,17 @@
   },
   {
     "title": "suisse:::La fondation Beloved, née du drame de Crans-Montana, a reçu une septantaine de demandes",
-    "added_at": "2026-09-06T07:25:11.382Z"
+    "added_at": "2026-09-06T07:25:11.382Z",
+    "removed_at": "2026-09-06T15:01:55.599Z",
+    "duration_minutes": 456,
+    "duration_str": "7h 36m"
   },
   {
     "title": "monde:::«Il est important d’être acteur de ce que l’on veut dire»: à Bâle, la nouvelle narration du continent africain",
-    "added_at": "2026-09-06T08:06:08.281Z"
+    "added_at": "2026-09-06T08:06:08.281Z",
+    "removed_at": "2026-09-06T14:23:19.450Z",
+    "duration_minutes": 377,
+    "duration_str": "6h 17m"
   },
   {
     "title": "sciences:::Une première mise en orbite privée a eu lieu en partant d'Europe, au nord de la Norvège",
@@ -104651,11 +104666,17 @@
   },
   {
     "title": "monde:::En direct – Moyen-Orient – L'Iran dit avoir visé des navires américains en représailles des attaques contre trois pétroliers",
-    "added_at": "2026-09-06T13:10:41.714Z"
+    "added_at": "2026-09-06T13:10:41.714Z",
+    "removed_at": "2026-09-06T15:01:55.599Z",
+    "duration_minutes": 111,
+    "duration_str": "1h 51m"
   },
   {
     "title": "monde:::En direct – Guerre en Ukraine – Volodymyr Zelensky rendra compte aux Européens de ses discussions avec les émissaires américains",
-    "added_at": "2026-09-06T13:25:11.424Z"
+    "added_at": "2026-09-06T13:25:11.424Z",
+    "removed_at": "2026-09-06T15:21:16.837Z",
+    "duration_minutes": 116,
+    "duration_str": "1h 56m"
   },
   {
     "title": "cyber:::Le marquage imparfait des contenus générés par l’IA",
@@ -104664,5 +104685,29 @@
   {
     "title": "economie:::La Pologne n’est plus un territoire d’émigration mais un pôle d’attraction pour ses expatriés",
     "added_at": "2026-09-06T13:30:00.251Z"
+  },
+  {
+    "title": "sciences:::Alors que l’été joue les prolongations, les Suisses enquillent les jours de forte chaleur comme jamais",
+    "added_at": "2026-09-06T14:28:08.656Z"
+  },
+  {
+    "title": "economie:::82 millions de rétrocommissions: l’ancien associé de la banque Mirabaud accepte deux ans de prison avec sursis",
+    "added_at": "2026-09-06T14:59:33.522Z"
+  },
+  {
+    "title": "suisse:::La Fondation Beloved, née du drame de Crans-Montana, a reçu une septantaine de requêtes",
+    "added_at": "2026-09-06T15:01:55.599Z"
+  },
+  {
+    "title": "monde:::En direct – Moyen-Orient – Les combats redoublent au Yémen pour le contrôle de la mer Rouge, alternative au détroit d'Ormuz",
+    "added_at": "2026-09-06T15:01:55.599Z"
+  },
+  {
+    "title": "monde:::En direct – Guerre en Ukraine – Les émissaires américains se félicitent de leurs discussions avec Volodymyr Zelensky pour trouver une issue au conflit",
+    "added_at": "2026-09-06T15:21:16.837Z"
+  },
+  {
+    "title": "culture:::L’artiste JR: «Je suis de plus en plus convaincu que l’art peut changer le monde»",
+    "added_at": "2026-09-06T16:21:30.301Z"
   }
 ]

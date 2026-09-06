@@ -111751,7 +111751,10 @@
   },
   {
     "title": "Un drone russe frappe le quartier général des services secrets ukrainiens à Kiev",
-    "added_at": "2026-09-04T15:19:18.256Z"
+    "added_at": "2026-09-04T15:19:18.256Z",
+    "removed_at": "2026-09-06T15:23:38.393Z",
+    "duration_minutes": 2884,
+    "duration_str": "2d 4m"
   },
   {
     "title": "Un canular met dans l'embarras le ministre tchèque des Affaires étrangères",
@@ -111759,11 +111762,17 @@
   },
   {
     "title": "Une \"rupture de deux fils\" signalée après le transfert à Londres de la tapisserie de Bayeux",
-    "added_at": "2026-09-04T16:02:59.435Z"
+    "added_at": "2026-09-04T16:02:59.435Z",
+    "removed_at": "2026-09-06T14:25:46.950Z",
+    "duration_minutes": 2782,
+    "duration_str": "1d 22h 22m"
   },
   {
     "title": "Le groupuscule d'extrême droite Junge Tat jugé à Zurich pour discrimination et incitation à la haine",
-    "added_at": "2026-09-04T16:44:10.100Z"
+    "added_at": "2026-09-04T16:44:10.100Z",
+    "removed_at": "2026-09-06T15:21:16.754Z",
+    "duration_minutes": 2797,
+    "duration_str": "1d 22h 37m"
   },
   {
     "title": "La grotte du glacier du Rhône sera bien contrainte de fermer",
@@ -112116,10 +112125,7 @@
   },
   {
     "title": "L'aéroport de Jakarta suspend ses opérations en raison des cendres d'un volcan réputé explosif",
-    "added_at": "2026-09-06T04:31:24.023Z",
-    "removed_at": "2026-09-06T07:37:12.181Z",
-    "duration_minutes": 185,
-    "duration_str": "3h 5m"
+    "added_at": "2026-09-06T04:31:24.023Z"
   },
   {
     "title": "\"La situation n'est pas simple\", confie Vladimir Poutine, la Maison Blanche évoque des \"plans substantiels\" pour l'Ukraine",
@@ -112171,7 +112177,10 @@
   },
   {
     "title": "Les bureaux de vote ouvrent en Saxe-Anhalt pour des élections où l'extrême droite part favorite",
-    "added_at": "2026-09-06T08:06:08.197Z"
+    "added_at": "2026-09-06T08:06:08.197Z",
+    "removed_at": "2026-09-06T16:19:04.408Z",
+    "duration_minutes": 492,
+    "duration_str": "8h 12m"
   },
   {
     "title": "'Becaària' d'Erik Bernasconi retrace un voyage initiatique au cœur des montagnes tessinoises",
@@ -112216,7 +112225,10 @@
   },
   {
     "title": "L'armée israélienne a mené des frappes dans le sud du Liban, tuant quatre personnes",
-    "added_at": "2026-09-06T09:50:02.567Z"
+    "added_at": "2026-09-06T09:50:02.567Z",
+    "removed_at": "2026-09-06T16:26:18.966Z",
+    "duration_minutes": 396,
+    "duration_str": "6h 36m"
   },
   {
     "title": "Les émissaires de Donald Trump sont attendus en Ukraine pour la première fois, après Moscou",
@@ -112261,7 +112273,10 @@
   },
   {
     "title": "Les émissaires de Donald Trump rencontrent Volodymyr Zelensky à Kiev, après leur visite à Moscou",
-    "added_at": "2026-09-06T12:07:59.553Z"
+    "added_at": "2026-09-06T12:07:59.553Z",
+    "removed_at": "2026-09-06T15:16:24.184Z",
+    "duration_minutes": 188,
+    "duration_str": "3h 8m"
   },
   {
     "title": "L'éruption du volcan Krakatoa paralyse huit aéroports en Indonésie",
@@ -112285,5 +112300,40 @@
   {
     "title": "Embolo marque pour ses débuts en MLS",
     "added_at": "2026-09-06T13:39:40.117Z"
+  },
+  {
+    "title": "Gianni Infantino est bien candidat à sa réélection à la tête de la FIFA malgré la crise",
+    "added_at": "2026-09-06T14:23:19.366Z"
+  },
+  {
+    "title": "Le Théâtre Montreux-Riviera célèbre 50 ans d'histoire et de savoir-faire dans une exposition",
+    "added_at": "2026-09-06T14:25:46.950Z"
+  },
+  {
+    "title": "L'émissaire américain Steve Widkoff fait état de pourparlers \"significatifs\" à Kiev",
+    "added_at": "2026-09-06T15:16:24.184Z",
+    "removed_at": "2026-09-06T15:42:54.370Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "Et si le heavy metal remplaçait les musiques douces dans les thérapies contre la douleur?",
+    "added_at": "2026-09-06T15:21:16.754Z"
+  },
+  {
+    "title": "Kimi Antonelli remporte le GP d'Italie après être parti de la... 19e place",
+    "added_at": "2026-09-06T15:23:38.393Z"
+  },
+  {
+    "title": "L'émissaire américain Steve Witkoff fait état de pourparlers \"significatifs\" à Kiev",
+    "added_at": "2026-09-06T15:42:54.370Z"
+  },
+  {
+    "title": "Large victoire de l'extrême droite à l'élection régionale de Saxe-Anhalt en Allemagne",
+    "added_at": "2026-09-06T16:19:04.408Z"
+  },
+  {
+    "title": "L'armée israélienne a mené des frappes dans le sud du Liban, tuant sept personnes",
+    "added_at": "2026-09-06T16:26:18.966Z"
   }
 ]
