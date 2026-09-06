@@ -111261,7 +111261,10 @@
   },
   {
     "title": "Fusillade à Aarau : ce que l'on sait du tireur",
-    "added_at": "2026-09-03T09:17:09.762Z"
+    "added_at": "2026-09-03T09:17:09.762Z",
+    "removed_at": "2026-09-06T20:16:06.984Z",
+    "duration_minutes": 4978,
+    "duration_str": "3d 10h 58m"
   },
   {
     "title": "Un incendie dans un centre de traitement des déchets à Morat dégage une importante fumée",
@@ -111788,7 +111791,10 @@
   },
   {
     "title": "La grotte du glacier du Rhône sera bien contrainte de fermer",
-    "added_at": "2026-09-04T16:49:02.800Z"
+    "added_at": "2026-09-04T16:49:02.800Z",
+    "removed_at": "2026-09-06T20:32:56.586Z",
+    "duration_minutes": 3103,
+    "duration_str": "2d 3h 43m"
   },
   {
     "title": "La police cantonale argovienne confirme que le suspect arrêté est bien l’auteur de la fusillade à Aarau",
@@ -111799,7 +111805,10 @@
   },
   {
     "title": "C’est quoi cette initiative sur la neutralité ?",
-    "added_at": "2026-09-04T17:13:08.431Z"
+    "added_at": "2026-09-04T17:13:08.431Z",
+    "removed_at": "2026-09-06T21:18:48.003Z",
+    "duration_minutes": 3125,
+    "duration_str": "2d 4h 5m"
   },
   {
     "title": "Jusqu'à 15'000 m3 de masse rocheuse menace de s'effondrer dans le massif du Säntis",
@@ -111853,7 +111862,10 @@
   },
   {
     "title": "Environ 300 personnes à une marche commémorative pour les victimes de la fusillade d'Aarau",
-    "added_at": "2026-09-04T20:21:39.111Z"
+    "added_at": "2026-09-04T20:21:39.111Z",
+    "removed_at": "2026-09-06T19:35:05.024Z",
+    "duration_minutes": 2833,
+    "duration_str": "1d 23h 13m"
   },
   {
     "title": "L'ONU vote pour des cartes du monde plus fidèles à la réalité des continents",
@@ -111880,11 +111892,17 @@
   },
   {
     "title": "La grotte du glacier du Rhône devra fermer définitivement",
-    "added_at": "2026-09-05T06:15:44.440Z"
+    "added_at": "2026-09-05T06:15:44.440Z",
+    "removed_at": "2026-09-06T20:16:06.984Z",
+    "duration_minutes": 2280,
+    "duration_str": "1d 14h"
   },
   {
     "title": "Ces artistes partagent leurs souvenirs et anecdotes d'été à travers la Suisse romande",
-    "added_at": "2026-09-05T06:27:46.520Z"
+    "added_at": "2026-09-05T06:27:46.520Z",
+    "removed_at": "2026-09-06T20:28:07.292Z",
+    "duration_minutes": 2280,
+    "duration_str": "1d 14h"
   },
   {
     "title": "Un nouveau message de prévention déclenche une bataille autour de la bière en Belgique",
@@ -112268,9 +112286,9 @@
   {
     "title": "L'hôtel de Fafleralp rouvre après plus d'un an d'isolement au-delà de Blatten",
     "added_at": "2026-09-06T10:50:16.082Z",
-    "removed_at": "2026-09-06T18:15:10.231Z",
-    "duration_minutes": 444,
-    "duration_str": "7h 24m"
+    "removed_at": "2026-09-06T21:18:48.003Z",
+    "duration_minutes": 628,
+    "duration_str": "10h 28m"
   },
   {
     "title": "Les émissaires de Donald Trump arrivent à Kiev, après leur rencontre avec Vladimir Poutine à Moscou",
@@ -112404,5 +112422,54 @@
   {
     "title": "En Suisse, les autorisations pour des armes interdites se comptent par milliers",
     "added_at": "2026-09-06T19:08:15.100Z"
+  },
+  {
+    "title": "\"Je ne pensais pas être aussi bien sans alcool\": cette nouvelle génération qui assume sa sobriété",
+    "added_at": "2026-09-06T19:35:05.024Z"
+  },
+  {
+    "title": "Benjamin Netanyahu a ordonné d'évacuer des implantations de colons en Cisjordanie",
+    "added_at": "2026-09-06T19:51:57.879Z"
+  },
+  {
+    "title": "A Ceuta, des migrants accusés de jet de pierre contre une patrouille militaire renvoyés au Maroc",
+    "added_at": "2026-09-06T20:28:07.292Z",
+    "removed_at": "2026-09-06T20:30:35.017Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "A Ceuta, des migrants accusés de jets de pierres contre une patrouille militaire renvoyés au Maroc",
+    "added_at": "2026-09-06T20:30:35.017Z"
+  },
+  {
+    "title": "Un avion-cargo d'Amazon sort de piste à Miami, percute des véhicules et prend feu",
+    "added_at": "2026-09-06T20:32:56.586Z",
+    "removed_at": "2026-09-06T21:47:45.378Z",
+    "duration_minutes": 74,
+    "duration_str": "1h 14m"
+  },
+  {
+    "title": "Nouvelle carte du monde: L'Onu redonne de la place aux continents",
+    "added_at": "2026-09-06T21:18:48.003Z"
+  },
+  {
+    "title": "Les émissaires américains Steve Witkoff et Jared Kushner arrivent en Ukraine après une visite en Russie",
+    "added_at": "2026-09-06T21:18:48.003Z"
+  },
+  {
+    "title": "Le tabou des Suisses précaires en France",
+    "added_at": "2026-09-06T21:18:48.003Z"
+  },
+  {
+    "title": "Un avion-cargo d'Amazon sort de piste à Miami, fait 5 morts et plusieurs blessés",
+    "added_at": "2026-09-06T21:47:45.378Z",
+    "removed_at": "2026-09-06T21:50:07.226Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Un avion-cargo d'Amazon fait cinq morts et cinq blessés dans un accident à Miami",
+    "added_at": "2026-09-06T21:50:07.226Z"
   }
 ]

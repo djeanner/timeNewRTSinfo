@@ -278839,7 +278839,10 @@
   },
   {
     "title": "Indonesia’s volcanic eruption halts flights, schools, fishing",
-    "added_at": "2026-09-06T05:07:40.347Z"
+    "added_at": "2026-09-06T05:07:40.347Z",
+    "removed_at": "2026-09-06T19:20:35.603Z",
+    "duration_minutes": 852,
+    "duration_str": "14h 12m"
   },
   {
     "title": "How a new FDA cleared AI system could save thousands of lives lost to sepsis",
@@ -279060,5 +279063,23 @@
   {
     "title": "Colorado murder suspect flees alleged hit-and-run",
     "added_at": "2026-09-06T18:44:09.560Z"
+  },
+  {
+    "title": "Boeing 767 cargo aircraft overruns runway in Miami, FAA says",
+    "added_at": "2026-09-06T19:20:35.603Z",
+    "removed_at": "2026-09-06T19:51:58.475Z",
+    "duration_minutes": 31,
+    "duration_str": "31m"
+  },
+  {
+    "title": "Prime Air 767 cargo aircraft overruns runway in Miami, striking multiple vehicles",
+    "added_at": "2026-09-06T19:51:58.475Z",
+    "removed_at": "2026-09-06T20:40:12.089Z",
+    "duration_minutes": 48,
+    "duration_str": "48m"
+  },
+  {
+    "title": "Amazon cargo aircraft overruns runway in Miami, striking multiple vehicles",
+    "added_at": "2026-09-06T20:40:12.089Z"
   }
 ]
