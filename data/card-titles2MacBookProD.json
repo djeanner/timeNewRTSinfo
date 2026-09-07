@@ -104753,7 +104753,10 @@
   },
   {
     "title": "culture:::Dans «Le Mystère de la chambre jaune», Joséphine Rouletabille mène l’enquête",
-    "added_at": "2026-09-06T17:05:07.184Z"
+    "added_at": "2026-09-06T17:05:07.184Z",
+    "removed_at": "2026-09-07T06:24:45.520Z",
+    "duration_minutes": 799,
+    "duration_str": "13h 19m"
   },
   {
     "title": "monde:::En direct – Guerre en Ukraine – Steve Witkoff appelle à des «concessions» pour mettre fin au conflit, Volodymyr Zelensky ne voit pas d'issue rapide",
@@ -104825,7 +104828,10 @@
   },
   {
     "title": "monde:::En direct – Moyen-Orient – L'armée israélienne ordonne l'évacuation d'une localité du sud du Liban avant des bombardements",
-    "added_at": "2026-09-07T03:57:19.167Z"
+    "added_at": "2026-09-07T03:57:19.167Z",
+    "removed_at": "2026-09-07T06:31:59.005Z",
+    "duration_minutes": 154,
+    "duration_str": "2h 34m"
   },
   {
     "title": "monde:::La Cisjordanie occupée sous tension en raison de nouvelles attaques d’extrémistes juifs",
@@ -104845,5 +104851,17 @@
   {
     "title": "sciences:::Les feux de forêts et les vagues de chaleur menacent la qualité de l’air",
     "added_at": "2026-09-07T05:26:44.281Z"
+  },
+  {
+    "title": "monde:::Ulrich Siegmund, le visage lisse et charmant d’une extrême droite allemande décomplexée",
+    "added_at": "2026-09-07T06:00:43.383Z"
+  },
+  {
+    "title": "suisse:::Les Genevois doivent-ils payer pour la mobilité des frontaliers? Pierre Maudet et Mauro Poggia, deux visions que tout oppose sur le rôle de la France",
+    "added_at": "2026-09-07T06:22:23.899Z"
+  },
+  {
+    "title": "monde:::En direct – Moyen-Orient – Des frappes israéliennes nocturnes ont tué 11 personnes au sud du Liban",
+    "added_at": "2026-09-07T06:31:59.005Z"
   }
 ]
