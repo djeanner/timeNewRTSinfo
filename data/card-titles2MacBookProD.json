@@ -104689,7 +104689,10 @@
   },
   {
     "title": "suisse:::Incendie d’Ecublens: coincé entre l’autoroute, les trains et les habitations, Thévenaz-Leduc doit-il être déplacé?",
-    "added_at": "2026-09-06T12:34:30.734Z"
+    "added_at": "2026-09-06T12:34:30.734Z",
+    "removed_at": "2026-09-08T04:32:43.789Z",
+    "duration_minutes": 2398,
+    "duration_str": "1d 15h 58m"
   },
   {
     "title": "monde:::En direct – Moyen-Orient – L'Iran dit avoir visé des navires américains en représailles des attaques contre trois pétroliers",
@@ -104876,7 +104879,10 @@
   },
   {
     "title": "economie:::Malgré les chocs, les marchés financiers émergents flambent",
-    "added_at": "2026-09-07T05:19:30.292Z"
+    "added_at": "2026-09-07T05:19:30.292Z",
+    "removed_at": "2026-09-08T04:32:43.789Z",
+    "duration_minutes": 1393,
+    "duration_str": "23h 13m"
   },
   {
     "title": "sciences:::Les feux de forêts et les vagues de chaleur menacent la qualité de l’air",
@@ -105008,7 +105014,10 @@
   },
   {
     "title": "suisse:::Acquittement confirmé à Genève pour Frère Johnson, prédicateur de la guérison divine",
-    "added_at": "2026-09-07T14:51:47.625Z"
+    "added_at": "2026-09-07T14:51:47.625Z",
+    "removed_at": "2026-09-08T05:18:30.793Z",
+    "duration_minutes": 866,
+    "duration_str": "14h 26m"
   },
   {
     "title": "culture:::Opéra hors les murs: à Lausanne, la biennale In Situ réinvente l’hospitalité",
@@ -105053,11 +105062,17 @@
   },
   {
     "title": "culture:::Forger le présent pour construire l’avenir, l'émancipation de l'Afrique selon Felwine Sarr",
-    "added_at": "2026-09-07T18:40:44.971Z"
+    "added_at": "2026-09-07T18:40:44.971Z",
+    "removed_at": "2026-09-08T04:15:51.324Z",
+    "duration_minutes": 575,
+    "duration_str": "9h 35m"
   },
   {
     "title": "suisse:::«Des séances de torture»: l’attendu procès d’un Vaudois accusé d’agressions en série",
-    "added_at": "2026-09-07T18:45:34.098Z"
+    "added_at": "2026-09-07T18:45:34.098Z",
+    "removed_at": "2026-09-08T04:15:51.324Z",
+    "duration_minutes": 570,
+    "duration_str": "9h 30m"
   },
   {
     "title": "sport:::«C’est ludique et technique»: deux Genevoises en route pour les championnats du monde d’équitation de travail",
@@ -105073,5 +105088,17 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Fortes explosions cette nuit à Kiev",
     "added_at": "2026-09-08T01:05:13.718Z"
+  },
+  {
+    "title": "suisse:::Les 100 élus à la une de l’actualité économique, politique, sportive ou culturelle",
+    "added_at": "2026-09-08T04:23:05.254Z"
+  },
+  {
+    "title": "suisse:::Albert Rösti à la recherche d’un nouveau souffle pour l’hydraulique",
+    "added_at": "2026-09-08T04:32:43.789Z"
+  },
+  {
+    "title": "cyber:::Les voitures autonomes et les robotaxis veulent soudainement percer partout en Europe, et la Suisse s’y prépare activement",
+    "added_at": "2026-09-08T05:18:30.793Z"
   }
 ]
