@@ -105067,7 +105067,10 @@
   },
   {
     "title": "monde:::En Allemagne, la victoire historique de l’AfD en Saxe-Anhalt fragilise le chancelier Friedrich Merz et fait vaciller le cordon sanitaire",
-    "added_at": "2026-09-07T16:23:44.693Z"
+    "added_at": "2026-09-07T16:23:44.693Z",
+    "removed_at": "2026-09-08T17:55:19.651Z",
+    "duration_minutes": 1531,
+    "duration_str": "1d 1h 31m"
   },
   {
     "title": "monde:::«Le Groenland est un allié stratégique et un ami de confiance»: après le non islandais, Bruxelles met le paquet sur l’île convoitée par Donald Trump",
@@ -105141,7 +105144,10 @@
   },
   {
     "title": "cyber:::Les voitures autonomes et les robotaxis veulent soudainement percer partout en Europe, et la Suisse s’y prépare activement",
-    "added_at": "2026-09-08T05:18:30.793Z"
+    "added_at": "2026-09-08T05:18:30.793Z",
+    "removed_at": "2026-09-08T17:55:19.651Z",
+    "duration_minutes": 756,
+    "duration_str": "12h 36m"
   },
   {
     "title": "suisse:::Initiative 12%: les divergences de calculs rendent la baisse d’impôts illisible pour les votants vaudois",
@@ -105278,7 +105284,10 @@
   },
   {
     "title": "sciences:::Ebola: les vaccins seront nécessaires mais pas suffisants",
-    "added_at": "2026-09-08T14:26:58.636Z"
+    "added_at": "2026-09-08T14:26:58.636Z",
+    "removed_at": "2026-09-08T17:38:23.880Z",
+    "duration_minutes": 191,
+    "duration_str": "3h 11m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L’UE autorise l’Ukraine à acheter des missiles Patriot, l’Allemagne promet d’en envoyer",
@@ -105286,7 +105295,10 @@
   },
   {
     "title": "economie:::Figure du monde bancaire helvétique, Pierre Mirabaud est condamné pour corruption et blanchiment",
-    "added_at": "2026-09-08T15:08:05.132Z"
+    "added_at": "2026-09-08T15:08:05.132Z",
+    "removed_at": "2026-09-08T19:00:31.088Z",
+    "duration_minutes": 232,
+    "duration_str": "3h 52m"
   },
   {
     "title": "economie:::A quelques mois de l’hiver, le marché du gaz se tend en Europe et en Suisse",
@@ -105305,11 +105317,17 @@
   },
   {
     "title": "suisse:::Harcèlement scolaire, pourquoi la Suisse fait moins bien que l'OCDE",
-    "added_at": "2026-09-08T16:15:32.174Z"
+    "added_at": "2026-09-08T16:15:32.174Z",
+    "removed_at": "2026-09-08T17:38:23.880Z",
+    "duration_minutes": 82,
+    "duration_str": "1h 22m"
   },
   {
     "title": "culture:::Nouveau coup de théâtre à la Comédie de Genève: l'institution doit annuler les représentations estivales d'un «Sacre du  printemps»",
-    "added_at": "2026-09-08T16:32:21.777Z"
+    "added_at": "2026-09-08T16:32:21.777Z",
+    "removed_at": "2026-09-08T18:17:04.293Z",
+    "duration_minutes": 104,
+    "duration_str": "1h 44m"
   },
   {
     "title": "suisse:::«On ressent clairement une diminution des compétences»: des patrons de PME face aux difficultés à former les nouveaux apprentis",
@@ -105318,5 +105336,54 @@
   {
     "title": "economie:::En graphiques – PISA 2025: le niveau scolaire suisse continue à décliner, mais reste supérieur à celui des pays voisins",
     "added_at": "2026-09-08T16:44:41.720Z"
+  },
+  {
+    "title": "suisse:::Débat en direct – Quelle neutralité pour la Suisse?",
+    "added_at": "2026-09-08T17:06:45.112Z",
+    "removed_at": "2026-09-08T17:36:01.872Z",
+    "duration_minutes": 29,
+    "duration_str": "29m"
+  },
+  {
+    "title": "suisse:::Lausanne ferme son poste de contrôle des champignons en pleine saison de cueillette",
+    "added_at": "2026-09-08T17:36:01.872Z",
+    "removed_at": "2026-09-08T18:02:34.633Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "suisse:::Harcèlement scolaire, pourquoi la Suisse fait moins bien que l’OCDE",
+    "added_at": "2026-09-08T17:38:23.880Z"
+  },
+  {
+    "title": "monde:::«La ville savait»: 25 ans après le 11-Septembre, New York révèle avoir caché la toxicité de l’air à Ground Zero",
+    "added_at": "2026-09-08T17:38:23.880Z",
+    "removed_at": "2026-09-08T18:21:51.863Z",
+    "duration_minutes": 43,
+    "duration_str": "43m"
+  },
+  {
+    "title": "culture:::«Nous entrons dans la fin du droit»: Elias Sanbar alerte sur le basculement en cours au Proche-Orient",
+    "added_at": "2026-09-08T17:48:04.407Z"
+  },
+  {
+    "title": "culture:::Pascal Cottin, des Editions d’En bas: «Nous voulons continuer à faire entendre des choses tues ou inaudibles»",
+    "added_at": "2026-09-08T17:55:19.651Z"
+  },
+  {
+    "title": "suisse:::Lausanne ferme son poste de contrôle des champignons en pleine saison de la cueillette",
+    "added_at": "2026-09-08T18:02:34.633Z"
+  },
+  {
+    "title": "culture:::Nouveau coup de théâtre à la Comédie de Genève: l’institution doit annuler les représentations estivales d’un «Sacre du printemps»",
+    "added_at": "2026-09-08T18:17:04.293Z"
+  },
+  {
+    "title": "monde:::Le triomphe de l’AfD marque-t-il l’échec de la réunification culturelle de l’Allemagne?",
+    "added_at": "2026-09-08T18:21:51.863Z"
+  },
+  {
+    "title": "culture:::«Pressure», ou quand deux météorologues décidaient en juin 1944 de la réussite du débarquement et du sort de l’Europe",
+    "added_at": "2026-09-08T19:00:31.088Z"
   }
 ]
