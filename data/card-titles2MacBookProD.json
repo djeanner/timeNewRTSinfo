@@ -104155,10 +104155,7 @@
   },
   {
     "title": "monde:::Cartographie – Dans le piège du détroit d’Ormuz",
-    "added_at": "2026-09-04T10:14:38.993Z",
-    "removed_at": "2026-09-07T04:02:11.651Z",
-    "duration_minutes": 3947,
-    "duration_str": "2d 17h 47m"
+    "added_at": "2026-09-04T10:14:38.993Z"
   },
   {
     "title": "suisse:::Pour le canton de Genève, les deux premières heures de la nasse qui a suivi la manifestation No-G7 étaient licites. Il doit encore se déterminer sur la suite",
@@ -105151,7 +105148,10 @@
   },
   {
     "title": "suisse:::Initiative 12%: les divergences de calculs rendent la baisse d’impôts illisible pour les votants vaudois",
-    "added_at": "2026-09-08T06:21:45.872Z"
+    "added_at": "2026-09-08T06:21:45.872Z",
+    "removed_at": "2026-09-09T01:31:35.132Z",
+    "duration_minutes": 1149,
+    "duration_str": "19h 9m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Kiev visée cette nuit par une attaque «massive et horrible»",
@@ -105162,7 +105162,10 @@
   },
   {
     "title": "sport:::La Ligue des champions concentre toujours plus d’intérêt, d’argent et de talent",
-    "added_at": "2026-09-08T07:34:03.249Z"
+    "added_at": "2026-09-08T07:34:03.249Z",
+    "removed_at": "2026-09-09T01:31:35.132Z",
+    "duration_minutes": 1077,
+    "duration_str": "17h 57m"
   },
   {
     "title": "economie:::En graphiques – PISA 2025: le niveau scolaire suisse continue de décliner, mais reste supérieur aux pays voisins",
@@ -105406,5 +105409,16 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – L’UE autorise l’Ukraine à acheter des missiles Patriot, Berlin promet d’en envoyer",
     "added_at": "2026-09-09T00:45:14.949Z"
+  },
+  {
+    "title": "economie:::Riposte douanière, des produits canadiens interdits d'entrée aux Etats-Unis",
+    "added_at": "2026-09-09T01:34:01.217Z",
+    "removed_at": "2026-09-09T02:31:58.220Z",
+    "duration_minutes": 57,
+    "duration_str": "57m"
+  },
+  {
+    "title": "economie:::Washington surenchérit face à Ottawa et interdit d’entrée des produits canadiens",
+    "added_at": "2026-09-09T02:31:58.220Z"
   }
 ]

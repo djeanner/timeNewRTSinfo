@@ -11643,7 +11643,10 @@
   },
   {
     "title": "Couleurs locales",
-    "added_at": "2025-08-28T06:01:32.713Z"
+    "added_at": "2025-08-28T06:01:32.713Z",
+    "removed_at": "2026-09-09T01:46:03.087Z",
+    "duration_minutes": 542624,
+    "duration_str": "376d 19h 44m"
   },
   {
     "title": "Les entreprises suisses à la conquête du marché irakien",
@@ -112886,7 +112889,10 @@
   },
   {
     "title": "La coalition 'Pas d'été à 50 degrés' prévoit plusieurs manifestations pour le climat cet automne",
-    "added_at": "2026-09-07T13:24:40.800Z"
+    "added_at": "2026-09-07T13:24:40.800Z",
+    "removed_at": "2026-09-09T03:29:44.811Z",
+    "duration_minutes": 2285,
+    "duration_str": "1d 14h 5m"
   },
   {
     "title": "\"Profondément choqué\", Friedrich Merz exclut toute démission après la victoire de l'extrême droite",
@@ -113244,5 +113250,17 @@
   {
     "title": "Les lacs suisses en surchauffe",
     "added_at": "2026-09-08T20:15:40.140Z"
+  },
+  {
+    "title": "Flambée du prix du baril après des tirs américains sur des pétroliers dans la région du Golfe",
+    "added_at": "2026-09-09T01:38:48.856Z"
+  },
+  {
+    "title": "De plus en plus d'incendies dans les centres de recyclage",
+    "added_at": "2026-09-09T01:46:03.087Z"
+  },
+  {
+    "title": "Donald Trump se réjouit de la \"très bonne soirée\" de l'extrême droite en Allemagne",
+    "added_at": "2026-09-09T03:29:44.811Z"
   }
 ]
