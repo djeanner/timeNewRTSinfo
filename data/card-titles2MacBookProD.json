@@ -105422,7 +105422,10 @@
   },
   {
     "title": "monde:::En direct – Moyen-Orient – Téhéran frappe une base américaine en Jordanie après des attaques sur des pétroliers iraniens",
-    "added_at": "2026-09-09T00:06:37.996Z"
+    "added_at": "2026-09-09T00:06:37.996Z",
+    "removed_at": "2026-09-09T08:22:04.766Z",
+    "duration_minutes": 495,
+    "duration_str": "8h 15m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L’UE autorise l’Ukraine à acheter des missiles Patriot, Berlin promet d’en envoyer",
@@ -105437,7 +105440,10 @@
   },
   {
     "title": "economie:::Washington surenchérit face à Ottawa et interdit d’entrée des produits canadiens",
-    "added_at": "2026-09-09T02:31:58.220Z"
+    "added_at": "2026-09-09T02:31:58.220Z",
+    "removed_at": "2026-09-09T07:09:40.544Z",
+    "duration_minutes": 277,
+    "duration_str": "4h 37m"
   },
   {
     "title": "monde:::Au Texas, les élections de mi-mandat se jouent entre la mosquée et le barbecue",
@@ -105460,7 +105466,10 @@
   },
   {
     "title": "economie:::Surprise au pays des barrages: cet été, le solaire a commencé à chatouiller l’hydraulique en Suisse",
-    "added_at": "2026-09-09T04:37:32.292Z"
+    "added_at": "2026-09-09T04:37:32.292Z",
+    "removed_at": "2026-09-09T08:34:07.119Z",
+    "duration_minutes": 236,
+    "duration_str": "3h 56m"
   },
   {
     "title": "monde:::A Pékin, 50 ans après sa mort, deux mémoires de Mao cohabitent",
@@ -105469,5 +105478,45 @@
   {
     "title": "cyber:::«Nous naviguons en eaux inconnues»: certains risques posés par l’intelligence artificielle pourraient devenir «existentiels»",
     "added_at": "2026-09-09T06:33:18.786Z"
+  },
+  {
+    "title": "monde:::Kristrún Frostadóttir, la plus jeune première ministre d’Islande, prête à tenir tête à Donald Trump",
+    "added_at": "2026-09-09T07:09:40.544Z"
+  },
+  {
+    "title": "monde:::En direct – Moyen-Orient – Le baril de pétrole atteint à nouveau 100 dollars avec l'intensification de la guerre des tankers",
+    "added_at": "2026-09-09T08:22:04.766Z",
+    "removed_at": "2026-09-09T08:24:26.526Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "sport:::Ben Shelton, un ouragan en formation au-dessus de l’US Open",
+    "added_at": "2026-09-09T08:24:26.526Z",
+    "removed_at": "2026-09-09T08:26:52.258Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "sport:::A l'US Open, Ben Shelton fait chuter Carlos Alcaraz au bout de la nuit",
+    "added_at": "2026-09-09T08:26:52.258Z",
+    "removed_at": "2026-09-09T09:00:39.810Z",
+    "duration_minutes": 33,
+    "duration_str": "33m"
+  },
+  {
+    "title": "monde:::En Israël, les révélations sur l’alerte reçue par Benyamin Nétanyahou avant le 7 octobre provoquent un séisme politique",
+    "added_at": "2026-09-09T08:34:07.119Z",
+    "removed_at": "2026-09-09T08:41:20.711Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "monde:::En Israël, les révélations sur l’alerte reçue par Benyamin Nétanyahou avant le 7-Octobre provoquent un séisme politique",
+    "added_at": "2026-09-09T08:41:20.711Z"
+  },
+  {
+    "title": "sport:::A l’US Open, Ben Shelton fait chuter Carlos Alcaraz au bout de la nuit",
+    "added_at": "2026-09-09T09:00:39.810Z"
   }
 ]
