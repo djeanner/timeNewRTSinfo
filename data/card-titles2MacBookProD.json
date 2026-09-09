@@ -104538,7 +104538,10 @@
   },
   {
     "title": "economie:::Moins de pétrole, plus de voitures électriques: la guerre contre l’Iran freine les ventes d’hydrocarbures et dope les énergies renouvelables, en Suisse également",
-    "added_at": "2026-09-05T17:22:30.127Z"
+    "added_at": "2026-09-05T17:22:30.127Z",
+    "removed_at": "2026-09-09T11:13:35.245Z",
+    "duration_minutes": 5391,
+    "duration_str": "3d 17h 51m"
   },
   {
     "title": "sport:::L’US Open de tennis, le tournoi dont vous êtes le héros",
@@ -105324,7 +105327,10 @@
   },
   {
     "title": "economie:::Les bons rendements des caisses de pension cachent une fragilité croissante",
-    "added_at": "2026-09-08T16:01:04.391Z"
+    "added_at": "2026-09-08T16:01:04.391Z",
+    "removed_at": "2026-09-09T10:44:38.410Z",
+    "duration_minutes": 1123,
+    "duration_str": "18h 43m"
   },
   {
     "title": "suisse:::«On ressent clairement une diminution des compétences»: des patrons de PME racontent la difficulté de former la nouvelle génération d’apprentis",
@@ -105353,7 +105359,10 @@
   },
   {
     "title": "economie:::En graphiques – PISA 2025: le niveau scolaire suisse continue à décliner, mais reste supérieur à celui des pays voisins",
-    "added_at": "2026-09-08T16:44:41.720Z"
+    "added_at": "2026-09-08T16:44:41.720Z",
+    "removed_at": "2026-09-09T11:47:29.065Z",
+    "duration_minutes": 1142,
+    "duration_str": "19h 2m"
   },
   {
     "title": "suisse:::Débat en direct – Quelle neutralité pour la Suisse?",
@@ -105411,7 +105420,10 @@
   },
   {
     "title": "culture:::«Pressure», ou quand deux météorologues décidaient en juin 1944 de la réussite du débarquement et du sort de l’Europe",
-    "added_at": "2026-09-08T19:00:31.088Z"
+    "added_at": "2026-09-08T19:00:31.088Z",
+    "removed_at": "2026-09-09T11:06:20.128Z",
+    "duration_minutes": 965,
+    "duration_str": "16h 5m"
   },
   {
     "title": "culture:::«Fauda» revient en évoquant le 7-octobre et en plongeant plus encore dans la vendetta",
@@ -105473,7 +105485,10 @@
   },
   {
     "title": "monde:::A Pékin, 50 ans après sa mort, deux mémoires de Mao cohabitent",
-    "added_at": "2026-09-09T06:16:28.487Z"
+    "added_at": "2026-09-09T06:16:28.487Z",
+    "removed_at": "2026-09-09T10:10:53.629Z",
+    "duration_minutes": 234,
+    "duration_str": "3h 54m"
   },
   {
     "title": "cyber:::«Nous naviguons en eaux inconnues»: certains risques posés par l’intelligence artificielle pourraient devenir «existentiels»",
@@ -105513,10 +105528,47 @@
   },
   {
     "title": "monde:::En Israël, les révélations sur l’alerte reçue par Benyamin Nétanyahou avant le 7-Octobre provoquent un séisme politique",
-    "added_at": "2026-09-09T08:41:20.711Z"
+    "added_at": "2026-09-09T08:41:20.711Z",
+    "removed_at": "2026-09-09T09:37:02.921Z",
+    "duration_minutes": 55,
+    "duration_str": "55m"
   },
   {
     "title": "sport:::A l’US Open, Ben Shelton fait chuter Carlos Alcaraz au bout de la nuit",
     "added_at": "2026-09-09T09:00:39.810Z"
+  },
+  {
+    "title": "monde:::En Israël, les révélations sur l’alerte reçue par Benyamin Netanyahou avant le 7-Octobre provoquent un séisme politique",
+    "added_at": "2026-09-09T09:37:02.921Z"
+  },
+  {
+    "title": "suisse:::Tessin: deux blessés graves lors de l'explosion d'une centrale électrique",
+    "added_at": "2026-09-09T10:44:38.410Z",
+    "removed_at": "2026-09-09T10:47:00.064Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "suisse:::Tessin: deux blessés graves lors de l’explosion d’une centrale électrique",
+    "added_at": "2026-09-09T10:47:00.064Z"
+  },
+  {
+    "title": "suisse:::«J’y vais avec détermination, pour être élu, pas pour perdre»: avec Giancarlo Sergi, Le Centre Vaud tient son candidat pour le Conseil d’Etat",
+    "added_at": "2026-09-09T11:06:20.128Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – De nouveaux navires en feu, la guerre des pétroliers fait rage dans le Golfe",
+    "added_at": "2026-09-09T11:13:35.245Z",
+    "removed_at": "2026-09-09T11:57:04.930Z",
+    "duration_minutes": 43,
+    "duration_str": "43m"
+  },
+  {
+    "title": "economie:::La famille Rupert fait un pas de plus vers le changement de génération aux manettes de Richemont",
+    "added_at": "2026-09-09T11:47:29.065Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – De nouveaux navires en feu dans le Golfe, le prix du pétrole flambe",
+    "added_at": "2026-09-09T11:57:04.930Z"
   }
 ]

@@ -107047,10 +107047,7 @@
   },
   {
     "title": "Forum - Présenté par Thibaut Schaller et Mehmet Gultas",
-    "added_at": "2026-07-29T21:14:17.283Z",
-    "removed_at": "2026-07-30T05:50:27.740Z",
-    "duration_minutes": 516,
-    "duration_str": "8h 36m"
+    "added_at": "2026-07-29T21:14:17.283Z"
   },
   {
     "title": "Un séisme de magnitude 7,1 fait au moins un mort dans le Sud-Ouest du Japon",
@@ -112703,7 +112700,10 @@
   },
   {
     "title": "Forum - Présenté par Anne Fournier et Coralie Claude",
-    "added_at": "2026-09-07T01:44:38.215Z"
+    "added_at": "2026-09-07T01:44:38.215Z",
+    "removed_at": "2026-09-09T11:13:35.162Z",
+    "duration_minutes": 3448,
+    "duration_str": "2d 9h 28m"
   },
   {
     "title": "À qui la faute?",
@@ -112742,7 +112742,10 @@
   },
   {
     "title": "Accusé de violentes agressions sur 15 victimes, un Vaudois fait face à la justice à Renens",
-    "added_at": "2026-09-07T06:46:27.048Z"
+    "added_at": "2026-09-07T06:46:27.048Z",
+    "removed_at": "2026-09-09T11:13:35.162Z",
+    "duration_minutes": 3147,
+    "duration_str": "2d 4h 27m"
   },
   {
     "title": "Le Pilates reformer, sport tendance ou réel bénéfice physique?",
@@ -112912,7 +112915,10 @@
   },
   {
     "title": "Ursula von der Leyen annonce une enveloppe de 200 millions d'euros pour le Groenland",
-    "added_at": "2026-09-07T14:10:45.881Z"
+    "added_at": "2026-09-07T14:10:45.881Z",
+    "removed_at": "2026-09-09T11:11:13.469Z",
+    "duration_minutes": 2700,
+    "duration_str": "1d 21h"
   },
   {
     "title": "La Poste réduit ses coûts et prévoit jusqu'à 110 licenciements",
@@ -112963,7 +112969,10 @@
   },
   {
     "title": "La Foire de Chaindon réunit le monde agricole dans une ambiance moins festive que d'habitude",
-    "added_at": "2026-09-07T19:12:14.699Z"
+    "added_at": "2026-09-07T19:12:14.699Z",
+    "removed_at": "2026-09-09T09:32:13.665Z",
+    "duration_minutes": 2299,
+    "duration_str": "1d 14h 19m"
   },
   {
     "title": "De nombreuses régions suisses font face à un manque criant de pédiatres",
@@ -113328,5 +113337,31 @@
   {
     "title": "Dans 'Spectres', Thomas Gunzig ouvre la porte de l’au-delà et de la mémoire collective",
     "added_at": "2026-09-09T09:15:08.473Z"
+  },
+  {
+    "title": "Une explosion à la centrale électrique Ritom à Piotta",
+    "added_at": "2026-09-09T09:32:13.665Z",
+    "removed_at": "2026-09-09T09:34:41.460Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Une explosion à la centrale hydroélectrique de Ritom à Piotta (TI)",
+    "added_at": "2026-09-09T09:34:41.460Z",
+    "removed_at": "2026-09-09T10:27:42.015Z",
+    "duration_minutes": 53,
+    "duration_str": "53m"
+  },
+  {
+    "title": "Une explosion à la centrale hydroélectrique de Ritom à Piotta, deux blessés graves",
+    "added_at": "2026-09-09T10:27:42.015Z"
+  },
+  {
+    "title": "Un vote se précise sur la journée d'information militaire pour les femmes",
+    "added_at": "2026-09-09T11:11:13.469Z"
+  },
+  {
+    "title": "Donald Trump interdit l'importation de certains produits canadiens aux Etats-Unis",
+    "added_at": "2026-09-09T11:13:35.162Z"
   }
 ]
