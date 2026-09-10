@@ -112711,7 +112711,10 @@
   },
   {
     "title": "À qui la faute ?",
-    "added_at": "2026-09-07T01:44:38.215Z"
+    "added_at": "2026-09-07T01:44:38.215Z",
+    "removed_at": "2026-09-10T20:16:51.608Z",
+    "duration_minutes": 5432,
+    "duration_str": "3d 18h 32m"
   },
   {
     "title": "Forum - Présenté par Anne Fournier et Coralie Claude",
@@ -113405,7 +113408,10 @@
   },
   {
     "title": "Benjamin Netanyahu aurait été informé de l'attaque du 7 octobre, selon un média israélien",
-    "added_at": "2026-09-08T17:11:32.087Z"
+    "added_at": "2026-09-08T17:11:32.087Z",
+    "removed_at": "2026-09-10T20:12:04.299Z",
+    "duration_minutes": 3060,
+    "duration_str": "2d 3h"
   },
   {
     "title": "\"Mensonge\", \"fiasco\" et \"amateurisme\": le rapport sur le F35 fait bondir la classe politique",
@@ -113445,7 +113451,10 @@
   },
   {
     "title": "Le déclin des performances et les inégalités inquiètent en Suisse après l'étude PISA",
-    "added_at": "2026-09-08T19:22:16.786Z"
+    "added_at": "2026-09-08T19:22:16.786Z",
+    "removed_at": "2026-09-10T18:28:04.440Z",
+    "duration_minutes": 2825,
+    "duration_str": "1d 23h 5m"
   },
   {
     "title": "De nombreux vols annulés après un \"problème technique\" du contrôle aérien britannique",
@@ -113500,7 +113509,10 @@
   },
   {
     "title": "'DAS-WAS', nouveau parti de la gauche radicale, veut réitérer sa performance à Fribourg",
-    "added_at": "2026-09-09T07:24:09.660Z"
+    "added_at": "2026-09-09T07:24:09.660Z",
+    "removed_at": "2026-09-10T18:03:47.245Z",
+    "duration_minutes": 2079,
+    "duration_str": "1d 10h 39m"
   },
   {
     "title": "Lauris Loat est reconduit comme préposé valaisan à la protection des données",
@@ -113663,7 +113675,10 @@
   },
   {
     "title": "Forum (vidéo) - Présenté par Thibaut Schaller et Mehmet Gultas",
-    "added_at": "2026-09-09T23:16:51.591Z"
+    "added_at": "2026-09-09T23:16:51.591Z",
+    "removed_at": "2026-09-10T18:15:53.317Z",
+    "duration_minutes": 1139,
+    "duration_str": "18h 59m"
   },
   {
     "title": "Forum- Présenté par Coralie Claude et Coraline Pauchard",
@@ -113879,5 +113894,59 @@
   {
     "title": "Premier coup de pioche pour le tunnel des Arêtes à La Chaux-de-Fonds",
     "added_at": "2026-09-10T17:22:12.166Z"
+  },
+  {
+    "title": "Les secours mobilisés après un \"grave\" accident d’autocar aux Grisons",
+    "added_at": "2026-09-10T18:03:47.245Z",
+    "removed_at": "2026-09-10T18:15:53.317Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "Les secours mobilisés après un grave accident d’autocar aux Grisons",
+    "added_at": "2026-09-10T18:15:53.317Z",
+    "removed_at": "2026-09-10T18:20:47.661Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "L'invité de La Matinale (vidéo) - Clément Viktorovitch, spécialiste de la rhétorique en politique",
+    "added_at": "2026-09-10T18:15:53.317Z"
+  },
+  {
+    "title": "Les secours mobilisés après un grave accident d’autocar aux Grisons ayant fait plusieurs morts",
+    "added_at": "2026-09-10T18:20:47.661Z",
+    "removed_at": "2026-09-10T18:23:10.090Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Les secours mobilisés après un grave accident d'autocar aux Grisons ayant fait plusieurs morts",
+    "added_at": "2026-09-10T18:23:10.090Z",
+    "removed_at": "2026-09-10T18:25:36.501Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Les secours mobilisés après un grave accident d'autocar  ayant fait plusieurs morts dans les Grisons",
+    "added_at": "2026-09-10T18:25:36.501Z",
+    "removed_at": "2026-09-10T19:18:48.741Z",
+    "duration_minutes": 53,
+    "duration_str": "53m"
+  },
+  {
+    "title": "Un incendie dans un centre de tri près de Bienne provoque un gros dégagement de fumée.",
+    "added_at": "2026-09-10T18:28:04.440Z",
+    "removed_at": "2026-09-10T18:32:51.619Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Un incendie s'est déclaré dans un centre de tri à côté de Bienne, important dégagement de fumée",
+    "added_at": "2026-09-10T18:32:51.619Z"
+  },
+  {
+    "title": "Un accident d'autocar fait plusieurs morts et blessés dans les Grisons",
+    "added_at": "2026-09-10T19:18:48.741Z"
   }
 ]
