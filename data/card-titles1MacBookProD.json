@@ -11643,10 +11643,7 @@
   },
   {
     "title": "Couleurs locales",
-    "added_at": "2025-08-28T06:01:32.713Z",
-    "removed_at": "2026-09-09T20:13:22.808Z",
-    "duration_minutes": 543731,
-    "duration_str": "377d 14h 11m"
+    "added_at": "2025-08-28T06:01:32.713Z"
   },
   {
     "title": "Les entreprises suisses à la conquête du marché irakien",
@@ -113154,7 +113151,10 @@
   },
   {
     "title": "Grève à la tour Eiffel contre l'éviction du personnel féminin pour la visite d'un groupe hindou",
-    "added_at": "2026-09-08T09:20:17.759Z"
+    "added_at": "2026-09-08T09:20:17.759Z",
+    "removed_at": "2026-09-10T02:18:07.989Z",
+    "duration_minutes": 2457,
+    "duration_str": "1d 16h 57m"
   },
   {
     "title": "Les prix de l'électricité en Suisse vont baisser de 4% en 2027",
@@ -113162,11 +113162,17 @@
   },
   {
     "title": "Neuchâtel et La Chaux-de-Fonds se transforment en capitales scientifiques durant une semaine",
-    "added_at": "2026-09-08T09:32:20.042Z"
+    "added_at": "2026-09-08T09:32:20.042Z",
+    "removed_at": "2026-09-10T03:30:29.511Z",
+    "duration_minutes": 2518,
+    "duration_str": "1d 17h 58m"
   },
   {
     "title": "Labels ou concours, comment la musique classique façonne un jeune prodige comme Lyam Chenaux",
-    "added_at": "2026-09-08T09:44:26.927Z"
+    "added_at": "2026-09-08T09:44:26.927Z",
+    "removed_at": "2026-09-10T01:39:36.418Z",
+    "duration_minutes": 2395,
+    "duration_str": "1d 15h 55m"
   },
   {
     "title": "Dix titres inédits de Prince réunis dans 'Timeless', une compilation de quatre décennies de création",
@@ -113177,7 +113183,10 @@
   },
   {
     "title": "La Suisse doit puiser dans ses réserves d'essence en raison d'une panne à Cressier",
-    "added_at": "2026-09-08T09:54:02.637Z"
+    "added_at": "2026-09-08T09:54:02.637Z",
+    "removed_at": "2026-09-10T03:47:19.835Z",
+    "duration_minutes": 2513,
+    "duration_str": "1d 17h 53m"
   },
   {
     "title": "Se lancer dans l'arène ou mettre un frein à son engagement: le défi des jeunes impliqués en politique",
@@ -113208,7 +113217,10 @@
   },
   {
     "title": "Premier signal de ce qui pourrait être une particule de \"matière sombre\"",
-    "added_at": "2026-09-08T12:19:01.993Z"
+    "added_at": "2026-09-08T12:19:01.993Z",
+    "removed_at": "2026-09-10T02:18:07.989Z",
+    "duration_minutes": 2279,
+    "duration_str": "1d 13h 59m"
   },
   {
     "title": "Comment le sentiment identitaire de l'ex-Allemagne de l'Est alimente le succès de l'AfD",
@@ -113520,10 +113532,7 @@
   },
   {
     "title": "Iran : pourquoi cette escalade soudaine ?",
-    "added_at": "2026-09-09T18:17:16.260Z",
-    "removed_at": "2026-09-10T00:14:59.996Z",
-    "duration_minutes": 357,
-    "duration_str": "5h 57m"
+    "added_at": "2026-09-09T18:17:16.260Z"
   },
   {
     "title": "Face à la hausse des prix, les propriétaires retardent l'achat de mazout",
@@ -113551,5 +113560,17 @@
   {
     "title": "Forum- Présenté par Coralie Claude et Coraline Pauchard",
     "added_at": "2026-09-10T00:14:59.996Z"
+  },
+  {
+    "title": "Les filles sont davantage exposées au décrochage scolaire à cause des aléas climatiques, déplore l'Unicef",
+    "added_at": "2026-09-10T01:39:36.418Z"
+  },
+  {
+    "title": "Août 2026 est le mois le plus chaud jamais mesuré sur terre",
+    "added_at": "2026-09-10T03:30:29.511Z"
+  },
+  {
+    "title": "Le Dossier Electronique du Patient ne fonctionne pas, selon Avenir Suisse",
+    "added_at": "2026-09-10T03:47:19.835Z"
   }
 ]
