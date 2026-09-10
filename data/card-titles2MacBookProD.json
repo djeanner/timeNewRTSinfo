@@ -105903,7 +105903,10 @@
   },
   {
     "title": "suisse:::Le «Baromètre fiscal» met à nu les faiblesses vaudoises",
-    "added_at": "2026-09-10T12:46:46.436Z"
+    "added_at": "2026-09-10T12:46:46.436Z",
+    "removed_at": "2026-09-10T21:15:02.431Z",
+    "duration_minutes": 508,
+    "duration_str": "8h 28m"
   },
   {
     "title": "culture:::Un documentaire sur «Notre argent», un sujet encore tabou mais qui concerne tout le monde, du PDG fortuné au salarié endetté",
@@ -106022,5 +106025,9 @@
   {
     "title": "economie:::La dernière collection de haute joaillerie de Van Cleef & Arpels célèbre les mystères de l’Egypte antique",
     "added_at": "2026-09-10T20:16:51.688Z"
+  },
+  {
+    "title": "suisse:::Les délégués du PLR Vaud valident la candidature de Christelle Luisier, Isabelle Moret et Frédéric Borloz",
+    "added_at": "2026-09-10T21:15:02.431Z"
   }
 ]

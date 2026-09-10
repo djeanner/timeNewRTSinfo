@@ -112049,7 +112049,10 @@
   },
   {
     "title": "A Genève, la Manivelle vient de dépasser le cap symbolique des 100'000 objets empruntés",
-    "added_at": "2026-09-05T12:18:04.065Z"
+    "added_at": "2026-09-05T12:18:04.065Z",
+    "removed_at": "2026-09-10T21:15:02.352Z",
+    "duration_minutes": 7736,
+    "duration_str": "5d 8h 56m"
   },
   {
     "title": "Aarau relance le débat sur la possession d'armes",
@@ -113426,7 +113429,10 @@
   },
   {
     "title": "Le Conseil d'Etat vaudois appelé à prendre des mesures face aux incendies de centres de recyclage",
-    "added_at": "2026-09-08T18:58:09.104Z"
+    "added_at": "2026-09-08T18:58:09.104Z",
+    "removed_at": "2026-09-10T22:00:52.350Z",
+    "duration_minutes": 3062,
+    "duration_str": "2d 3h 2m"
   },
   {
     "title": "Une maquette en 3D pour mieux comprendre l'éboulement de Blatten",
@@ -113889,7 +113895,10 @@
   },
   {
     "title": "Les Etats-Unis disent avoir détruit cinq pétroliers iraniens, les Gardiens de la révolution répliquent",
-    "added_at": "2026-09-10T17:19:43.928Z"
+    "added_at": "2026-09-10T17:19:43.928Z",
+    "removed_at": "2026-09-10T21:19:51.372Z",
+    "duration_minutes": 240,
+    "duration_str": "4h"
   },
   {
     "title": "Premier coup de pioche pour le tunnel des Arêtes à La Chaux-de-Fonds",
@@ -113929,10 +113938,7 @@
   },
   {
     "title": "Les secours mobilisés après un grave accident d'autocar  ayant fait plusieurs morts dans les Grisons",
-    "added_at": "2026-09-10T18:25:36.501Z",
-    "removed_at": "2026-09-10T19:18:48.741Z",
-    "duration_minutes": 53,
-    "duration_str": "53m"
+    "added_at": "2026-09-10T18:25:36.501Z"
   },
   {
     "title": "Un incendie dans un centre de tri près de Bienne provoque un gros dégagement de fumée.",
@@ -113948,5 +113954,21 @@
   {
     "title": "Un accident d'autocar fait plusieurs morts et blessés dans les Grisons",
     "added_at": "2026-09-10T19:18:48.741Z"
+  },
+  {
+    "title": "Forum (vidéo) - Présenté par Coralie Claude et Coraline Pauchard",
+    "added_at": "2026-09-10T21:15:02.352Z"
+  },
+  {
+    "title": "Forum - Présenté par Renaud Malik et Coralie Claude",
+    "added_at": "2026-09-10T21:19:51.372Z"
+  },
+  {
+    "title": "Casablanca: rasés pour le tourisme, des quartiers populaires disparaissent",
+    "added_at": "2026-09-10T21:19:51.372Z"
+  },
+  {
+    "title": "Le PLR vaudois adoube ses trois ministres sortants pour les élections cantonales de 2027",
+    "added_at": "2026-09-10T22:00:52.350Z"
   }
 ]
