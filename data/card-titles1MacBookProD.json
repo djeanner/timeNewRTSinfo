@@ -113494,7 +113494,10 @@
   },
   {
     "title": "De plus en plus d'incendies dans les centres de recyclage",
-    "added_at": "2026-09-09T01:46:03.087Z"
+    "added_at": "2026-09-09T01:46:03.087Z",
+    "removed_at": "2026-09-11T21:14:24.899Z",
+    "duration_minutes": 4048,
+    "duration_str": "2d 19h 28m"
   },
   {
     "title": "Donald Trump se réjouit de la \"très bonne soirée\" de l'extrême droite en Allemagne",
@@ -114289,5 +114292,9 @@
   {
     "title": "Les Houthis du Yémen s'emparent du stratégique détroit de Bab el-Mandeb sur la mer Rouge",
     "added_at": "2026-09-11T20:35:32.846Z"
+  },
+  {
+    "title": "Un accident d'autocar néerlandais fait plusieurs morts dans les Grisons",
+    "added_at": "2026-09-11T21:14:24.899Z"
   }
 ]
