@@ -8226,7 +8226,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z"
+    "added_at": "2025-05-22T18:01:52.008Z",
+    "removed_at": "2026-09-11T08:46:27.942Z",
+    "duration_minutes": 686324,
+    "duration_str": "476d 14h 44m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -104152,7 +104155,10 @@
   },
   {
     "title": "monde:::Cartographie – Dans le piège du détroit d’Ormuz",
-    "added_at": "2026-09-04T10:14:38.993Z"
+    "added_at": "2026-09-04T10:14:38.993Z",
+    "removed_at": "2026-09-11T07:12:17.974Z",
+    "duration_minutes": 9897,
+    "duration_str": "6d 20h 57m"
   },
   {
     "title": "suisse:::Pour le canton de Genève, les deux premières heures de la nasse qui a suivi la manifestation No-G7 étaient licites. Il doit encore se déterminer sur la suite",
@@ -105720,10 +105726,7 @@
   },
   {
     "title": "monde:::Exclusif – A Genève, une nouvelle procédure pénale vise les malversations de la Guinée équatoriale",
-    "added_at": "2026-09-09T17:33:44.297Z",
-    "removed_at": "2026-09-11T06:16:37.472Z",
-    "duration_minutes": 2202,
-    "duration_str": "1d 12h 42m"
+    "added_at": "2026-09-09T17:33:44.297Z"
   },
   {
     "title": "suisse:::F-35: Martin Pfister pris au piège de l’héritage de Viola Amherd",
@@ -105981,7 +105984,10 @@
   },
   {
     "title": "sport:::La Nati perd Alessandro Romano, qui jouera pour l’Italie",
-    "added_at": "2026-09-10T16:09:43.536Z"
+    "added_at": "2026-09-10T16:09:43.536Z",
+    "removed_at": "2026-09-11T09:24:59.988Z",
+    "duration_minutes": 1035,
+    "duration_str": "17h 15m"
   },
   {
     "title": "monde:::«Toutes les unités doivent se retirer»: les Houthis sur le point de conquérir le détroit crucial de Bab el-Mandeb grâce à l’intelligence artificielle",
@@ -106035,7 +106041,10 @@
   },
   {
     "title": "suisse:::Un car de touristes s’est renversé dans les Grisons, plusieurs passagers sont morts, d’autres sont blessés",
-    "added_at": "2026-09-10T20:12:04.385Z"
+    "added_at": "2026-09-10T20:12:04.385Z",
+    "removed_at": "2026-09-11T07:53:17.671Z",
+    "duration_minutes": 701,
+    "duration_str": "11h 41m"
   },
   {
     "title": "economie:::La dernière collection de haute joaillerie de Van Cleef & Arpels célèbre les mystères de l’Egypte antique",
@@ -106061,10 +106070,7 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les Houthis auraient atteint les îles Hanish, se rapprochant du détroit de Bab el-Mandeb",
-    "added_at": "2026-09-11T03:15:13.097Z",
-    "removed_at": "2026-09-11T07:09:41.579Z",
-    "duration_minutes": 234,
-    "duration_str": "3h 54m"
+    "added_at": "2026-09-11T03:15:13.097Z"
   },
   {
     "title": "monde:::Le 11 septembre 2001, le jour où tout a basculé",
@@ -106077,5 +106083,25 @@
   {
     "title": "monde:::Après son utilisation au Liban-Sud, Human Rights Watch réclame une loi pour interdire les munitions au phosphore blanc",
     "added_at": "2026-09-11T06:40:41.642Z"
+  },
+  {
+    "title": "cyber:::Mohammad Hosseini: «Je reçois un torrent d’études scientifiques de mauvaise qualité produites par l’IA»",
+    "added_at": "2026-09-11T07:12:17.974Z"
+  },
+  {
+    "title": "monde:::«Toutes les unités doivent se retirer»: les houthis sur le point de conquérir le détroit crucial de Bab el-Mandeb",
+    "added_at": "2026-09-11T07:12:17.974Z"
+  },
+  {
+    "title": "suisse:::Un car de touristes s’est renversé dans les Grisons, faisant cinq morts et quarante blessés",
+    "added_at": "2026-09-11T07:53:17.671Z"
+  },
+  {
+    "title": "suisse:::«Elle pourrait être un outil promotionnel fantastique»: les capites de Lavaux, bâtisses oubliées du patrimoine viticole",
+    "added_at": "2026-09-11T08:46:27.942Z"
+  },
+  {
+    "title": "culture:::«Dix pour cent» revient avec un pétillant épisode de deux heures",
+    "added_at": "2026-09-11T09:24:59.988Z"
   }
 ]
