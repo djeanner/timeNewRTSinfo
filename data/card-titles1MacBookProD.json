@@ -113494,10 +113494,7 @@
   },
   {
     "title": "De plus en plus d'incendies dans les centres de recyclage",
-    "added_at": "2026-09-09T01:46:03.087Z",
-    "removed_at": "2026-09-11T12:14:41.100Z",
-    "duration_minutes": 3508,
-    "duration_str": "2d 10h 28m"
+    "added_at": "2026-09-09T01:46:03.087Z"
   },
   {
     "title": "Donald Trump se réjouit de la \"très bonne soirée\" de l'extrême droite en Allemagne",
@@ -113804,7 +113801,10 @@
   },
   {
     "title": "Le mois d'août 2026 devient le plus chaud jamais enregistré sur Terre",
-    "added_at": "2026-09-10T04:33:20.695Z"
+    "added_at": "2026-09-10T04:33:20.695Z",
+    "removed_at": "2026-09-11T18:20:11.445Z",
+    "duration_minutes": 2266,
+    "duration_str": "1d 13h 46m"
   },
   {
     "title": "Le dossier électronique du patient ne fonctionne pas, selon Avenir Suisse",
@@ -113845,7 +113845,10 @@
   },
   {
     "title": "Le Kunsthaus de Zurich demande une hausse de 40% de sa subvention",
-    "added_at": "2026-09-10T07:59:06.492Z"
+    "added_at": "2026-09-10T07:59:06.492Z",
+    "removed_at": "2026-09-11T18:54:05.925Z",
+    "duration_minutes": 2094,
+    "duration_str": "1d 10h 54m"
   },
   {
     "title": "La représentation fidèle de notre planète, un sujet scientifique et politique",
@@ -114065,7 +114068,10 @@
   },
   {
     "title": "Forum (vidéo) - Présenté par Coralie Claude et Coraline Pauchard",
-    "added_at": "2026-09-10T21:15:02.352Z"
+    "added_at": "2026-09-10T21:15:02.352Z",
+    "removed_at": "2026-09-11T20:16:14.838Z",
+    "duration_minutes": 1381,
+    "duration_str": "23h 1m"
   },
   {
     "title": "Forum - Présenté par Renaud Malik et Coralie Claude",
@@ -114135,7 +114141,10 @@
   },
   {
     "title": "Les Houthis ont pris le contrôle de la ville stratégique de Mokha",
-    "added_at": "2026-09-11T08:51:15.038Z"
+    "added_at": "2026-09-11T08:51:15.038Z",
+    "removed_at": "2026-09-11T20:30:45.601Z",
+    "duration_minutes": 699,
+    "duration_str": "11h 39m"
   },
   {
     "title": "Fichtre, l'artiste qui signe la collaboration des 80 ans de Migros Vaud",
@@ -114225,7 +114234,10 @@
   },
   {
     "title": "Le Grand Conseil valaisan veut interdire les boissons énergisantes aux moins de 16 ans",
-    "added_at": "2026-09-11T16:02:01.616Z"
+    "added_at": "2026-09-11T16:02:01.616Z",
+    "removed_at": "2026-09-11T20:16:14.838Z",
+    "duration_minutes": 254,
+    "duration_str": "4h 14m"
   },
   {
     "title": "Un quart de siècle après, New York pleure ses morts victimes des attaques du 11 septembre",
@@ -114254,5 +114266,28 @@
   {
     "title": "Le \"décrochage\" de l'économie française entraîne une révision à la baisse de sa croissance",
     "added_at": "2026-09-11T17:53:23.917Z"
+  },
+  {
+    "title": "L'emploi de la croix suisse sur des produits fabriqués à l'étranger divise le Parlement",
+    "added_at": "2026-09-11T18:17:49.316Z"
+  },
+  {
+    "title": "Le Parlement britannique refuse de légaliser le suicide assisté",
+    "added_at": "2026-09-11T18:54:05.925Z"
+  },
+  {
+    "title": "Le Grand Conseil valaisan vote l'interdiction des boissons énergisantes aux moins de 16 ans",
+    "added_at": "2026-09-11T20:16:14.838Z"
+  },
+  {
+    "title": "Les Houthis du Yémen s'emparent du stratégique détroit de Bab el-Mandeb",
+    "added_at": "2026-09-11T20:30:45.601Z",
+    "removed_at": "2026-09-11T20:35:32.846Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Les Houthis du Yémen s'emparent du stratégique détroit de Bab el-Mandeb sur la mer Rouge",
+    "added_at": "2026-09-11T20:35:32.846Z"
   }
 ]
