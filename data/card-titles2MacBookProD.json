@@ -105492,7 +105492,10 @@
   },
   {
     "title": "monde:::Au Texas, les élections de mi-mandat se jouent entre la mosquée et le barbecue",
-    "added_at": "2026-09-09T04:11:01.205Z"
+    "added_at": "2026-09-09T04:11:01.205Z",
+    "removed_at": "2026-09-11T16:06:51.471Z",
+    "duration_minutes": 3595,
+    "duration_str": "2d 11h 55m"
   },
   {
     "title": "monde:::Tout comprendre aux élections de mi-mandat aux Etats-Unis",
@@ -106130,7 +106133,10 @@
   },
   {
     "title": "suisse:::Un car de touristes s’est renversé dans les Grisons, faisant cinq morts et quarante blessés",
-    "added_at": "2026-09-11T07:53:17.671Z"
+    "added_at": "2026-09-11T07:53:17.671Z",
+    "removed_at": "2026-09-11T15:42:44.557Z",
+    "duration_minutes": 469,
+    "duration_str": "7h 49m"
   },
   {
     "title": "suisse:::«Elle pourrait être un outil promotionnel fantastique»: les capites de Lavaux, bâtisses oubliées du patrimoine viticole",
@@ -106204,10 +106210,51 @@
   },
   {
     "title": "sport:::«Je n’arrivais plus à lancer mon ballon.» Quand le mental se bloque et que le geste se grippe",
-    "added_at": "2026-09-11T14:51:48.203Z"
+    "added_at": "2026-09-11T14:51:48.203Z",
+    "removed_at": "2026-09-11T17:24:04.702Z",
+    "duration_minutes": 152,
+    "duration_str": "2h 32m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – L’Union européenne approuve une aide de 6,1 milliards à Kiev pour renforcer sa défense aérienne",
     "added_at": "2026-09-11T14:51:48.203Z"
+  },
+  {
+    "title": "suisse:::L’accident mortel de car aux Grisons choque la Suisse et les Pays-Bas",
+    "added_at": "2026-09-11T15:42:44.557Z"
+  },
+  {
+    "title": "economie:::«Depuis mon arrivée, nous avons encaissé beaucoup de coups très durs. Logitech est résilient, mais pas invincible»",
+    "added_at": "2026-09-11T15:47:31.559Z"
+  },
+  {
+    "title": "monde:::A Ground Zero, l'Amérique unie par l'émotion pour la commémoration des 25 ans du 11-Septembre",
+    "added_at": "2026-09-11T15:47:31.559Z"
+  },
+  {
+    "title": "economie:::L'inclusion automatique de la Suisse au «Made in Europe» divise le Parlement européen et la Commission",
+    "added_at": "2026-09-11T15:47:31.559Z",
+    "removed_at": "2026-09-11T16:38:14.956Z",
+    "duration_minutes": 50,
+    "duration_str": "50m"
+  },
+  {
+    "title": "monde:::Vingt-cinq ans après le 11-Septembre: «Al-Qaida a les mêmes intentions mais choisit d’être moins visible»",
+    "added_at": "2026-09-11T16:06:51.471Z"
+  },
+  {
+    "title": "economie:::Pas de répit sur le front de l'inflation aux Etats-Unis",
+    "added_at": "2026-09-11T16:38:14.956Z",
+    "removed_at": "2026-09-11T17:41:00.971Z",
+    "duration_minutes": 62,
+    "duration_str": "1h 2m"
+  },
+  {
+    "title": "economie:::A Zurich, le nombre de banquiers au chômage atteint un record depuis 2004",
+    "added_at": "2026-09-11T17:24:04.702Z"
+  },
+  {
+    "title": "economie:::Pas de répit sur le front de l’inflation aux Etats-Unis",
+    "added_at": "2026-09-11T17:41:00.971Z"
   }
 ]
