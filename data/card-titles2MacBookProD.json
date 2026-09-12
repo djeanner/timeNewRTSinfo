@@ -106340,7 +106340,10 @@
   },
   {
     "title": "monde:::Moyen-Orient – L’Arabie saoudite ferme son oléoduc contournant le détroit d’Ormuz au lendemain d’attaques des houthis",
-    "added_at": "2026-09-11T20:01:44.999Z"
+    "added_at": "2026-09-11T20:01:44.999Z",
+    "removed_at": "2026-09-12T19:38:28.556Z",
+    "duration_minutes": 1416,
+    "duration_str": "23h 36m"
   },
   {
     "title": "monde:::Guerre en Ukraine – L’Union européenne approuve une aide de 6,1 milliards à Kiev pour renforcer sa défense aérienne",
@@ -106387,7 +106390,10 @@
   },
   {
     "title": "monde:::Selon Donald Trump, les Houthis du Yémen ont demandé aux Etats-Unis de ne pas intervenir",
-    "added_at": "2026-09-12T11:42:15.428Z"
+    "added_at": "2026-09-12T11:42:15.428Z",
+    "removed_at": "2026-09-12T18:26:01.441Z",
+    "duration_minutes": 403,
+    "duration_str": "6h 43m"
   },
   {
     "title": "culture:::Julien Clerc: «Il ne faut pas trahir les souvenirs du public»",
@@ -106432,5 +106438,13 @@
   {
     "title": "cyber:::Le patron d’Anthropic appelle à ralentir l’IA après des incidents où des agents autonomes ont pris le contrôle",
     "added_at": "2026-09-12T17:27:48.951Z"
+  },
+  {
+    "title": "monde:::Guerre en Ukraine – Le Kremlin refuse que Volodymyr Zelensky rencontre Vladimir Poutine au G20",
+    "added_at": "2026-09-12T18:26:01.441Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Les Houthis affirment avoir libéré plus de 200 détenus au Yémen",
+    "added_at": "2026-09-12T19:38:28.556Z"
   }
 ]

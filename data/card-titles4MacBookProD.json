@@ -282723,7 +282723,10 @@
   },
   {
     "title": "Havana was the ‘city of lights’. It’s now pitch black",
-    "added_at": "2026-09-11T09:05:45.729Z"
+    "added_at": "2026-09-11T09:05:45.729Z",
+    "removed_at": "2026-09-12T18:38:10.197Z",
+    "duration_minutes": 2012,
+    "duration_str": "1d 9h 32m"
   },
   {
     "title": "Cyclist attempts to cover 14,000 kilometers through 17 countries for peace in DR Congo",
@@ -282808,7 +282811,10 @@
   },
   {
     "title": "‘Trump-a-palooza’ a preview of the GOP’s future?",
-    "added_at": "2026-09-11T10:20:42.939Z"
+    "added_at": "2026-09-11T10:20:42.939Z",
+    "removed_at": "2026-09-12T19:52:59.152Z",
+    "duration_minutes": 2012,
+    "duration_str": "1d 9h 32m"
   },
   {
     "title": "14,000 kilometers, 17 countries, 2 wheels, and 1 request: Peace in DR Congo",
@@ -282851,7 +282857,10 @@
   },
   {
     "title": "Trump says Congress may not need to approve $5,000 checks",
-    "added_at": "2026-09-11T11:52:57.376Z"
+    "added_at": "2026-09-11T11:52:57.376Z",
+    "removed_at": "2026-09-12T20:43:41.207Z",
+    "duration_minutes": 1970,
+    "duration_str": "1d 8h 50m"
   },
   {
     "title": "Iran-backed Houthis capture key island in vital waterway",
@@ -283095,7 +283104,10 @@
   },
   {
     "title": "House Democrats urge Speaker Johnson to cancel recess to pass AI safeguards, citing ‘catastrophic’ risk",
-    "added_at": "2026-09-11T22:00:11.863Z"
+    "added_at": "2026-09-11T22:00:11.863Z",
+    "removed_at": "2026-09-12T20:26:45.094Z",
+    "duration_minutes": 1346,
+    "duration_str": "22h 26m"
   },
   {
     "title": "Over 2,000 pounds of meth found hidden in shipment of cabbage, DEA says",
@@ -283110,7 +283122,10 @@
   },
   {
     "title": "CNN’s Erin Burnett explains the economic impact of the pipeline shutdown",
-    "added_at": "2026-09-12T00:23:27.228Z"
+    "added_at": "2026-09-12T00:23:27.228Z",
+    "removed_at": "2026-09-12T20:12:15.664Z",
+    "duration_minutes": 1188,
+    "duration_str": "19h 48m"
   },
   {
     "title": "US lawmakers look to stave off AI catastrophe with ‘Kill Switch’ bill",
@@ -283189,10 +283204,7 @@
   },
   {
     "title": "‘A f***-up of epic proportions’: Blame game begins after Iran-backed Houthis’ lightning advance down Red Sea coast",
-    "added_at": "2026-09-12T04:15:07.340Z",
-    "removed_at": "2026-09-12T09:00:26.172Z",
-    "duration_minutes": 285,
-    "duration_str": "4h 45m"
+    "added_at": "2026-09-12T04:15:07.340Z"
   },
   {
     "title": "Rapper Lil Durk acquitted of murder-for-hire at Los Angeles trial",
@@ -283265,10 +283277,7 @@
   },
   {
     "title": "Lawmaker to CNN: ‘Kill switch’ needed to take on rogue AI systems",
-    "added_at": "2026-09-12T08:29:04.765Z",
-    "removed_at": "2026-09-12T10:51:33.978Z",
-    "duration_minutes": 142,
-    "duration_str": "2h 22m"
+    "added_at": "2026-09-12T08:29:04.765Z"
   },
   {
     "title": "‘A f**k up of epic proportions\": The group’s tightened grip on the Red Sea threatens to become second war front and push oil prices even higher",
@@ -283394,11 +283403,17 @@
   },
   {
     "title": "Anthropic CEO calls for ‘pacing the frontier’ of AI race amid safety concerns",
-    "added_at": "2026-09-12T14:21:44.104Z"
+    "added_at": "2026-09-12T14:21:44.104Z",
+    "removed_at": "2026-09-12T20:12:15.664Z",
+    "duration_minutes": 350,
+    "duration_str": "5h 50m"
   },
   {
     "title": "‘A f**k up of epic proportions\": Houthis’ tightened grip on Red Sea threatens to become second war front and push oil prices even higher",
-    "added_at": "2026-09-12T14:33:47.855Z"
+    "added_at": "2026-09-12T14:33:47.855Z",
+    "removed_at": "2026-09-12T18:50:12.615Z",
+    "duration_minutes": 256,
+    "duration_str": "4h 16m"
   },
   {
     "title": "Trump says Iran likely responsible for attack that shut vital Saudi oil pipeline",
@@ -283430,5 +283445,50 @@
   {
     "title": "New video shows interaction between NYC Mayor Mamdani and AOC at 9/11 ceremony after the moment sparked debate",
     "added_at": "2026-09-12T17:47:12.243Z"
+  },
+  {
+    "title": "Dems fear GOP attacks on candidate could actually work",
+    "added_at": "2026-09-12T18:38:10.197Z"
+  },
+  {
+    "title": "US defense secretary met with airmen to hear concerns over speaking with journalists about classified operation",
+    "added_at": "2026-09-12T18:50:12.615Z",
+    "removed_at": "2026-09-12T20:12:15.664Z",
+    "duration_minutes": 82,
+    "duration_str": "1h 22m"
+  },
+  {
+    "title": "‘A f***-up of epic proportions’: Blame game begins after big gains by Iranian allies",
+    "added_at": "2026-09-12T18:50:12.615Z",
+    "removed_at": "2026-09-12T20:12:15.664Z",
+    "duration_minutes": 82,
+    "duration_str": "1h 22m"
+  },
+  {
+    "title": "Trump says Irish unification would be ‘fantastic’",
+    "added_at": "2026-09-12T19:52:59.152Z"
+  },
+  {
+    "title": "Inside Hegseth’s push to showcase a dramatic Iran rescue on ‘60 Minutes’",
+    "added_at": "2026-09-12T20:12:15.664Z",
+    "removed_at": "2026-09-12T20:38:48.415Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "Amodei says the risks are serious even if the benefits could change humanity for the better",
+    "added_at": "2026-09-12T20:12:15.664Z"
+  },
+  {
+    "title": "Death toll in Philippine ferry fire rises to 76 as rescuers recover more remains",
+    "added_at": "2026-09-12T20:26:45.094Z"
+  },
+  {
+    "title": "Hegseth met with airmen to hear concerns over speaking with ‘60 Minutes’ about classified Iran rescue",
+    "added_at": "2026-09-12T20:38:48.415Z"
+  },
+  {
+    "title": "Iran-backed Houthis gain leverage in Red Sea",
+    "added_at": "2026-09-12T20:43:41.207Z"
   }
 ]
