@@ -114216,11 +114216,17 @@
   },
   {
     "title": "L'alerte a été levée à Bienne après un gros incendie dans un centre de tri",
-    "added_at": "2026-09-11T05:50:04.905Z"
+    "added_at": "2026-09-11T05:50:04.905Z",
+    "removed_at": "2026-09-13T07:59:57.466Z",
+    "duration_minutes": 3009,
+    "duration_str": "2d 2h 9m"
   },
   {
     "title": "Le tortionnaire présumé de Moudon interrogé sur les sévices qui lui sont reprochés",
-    "added_at": "2026-09-11T06:09:22.231Z"
+    "added_at": "2026-09-11T06:09:22.231Z",
+    "removed_at": "2026-09-13T10:12:43.819Z",
+    "duration_minutes": 3123,
+    "duration_str": "2d 4h 3m"
   },
   {
     "title": "Le Conseil fédéral soutient la suppression du statut de \"divorcé\"",
@@ -114231,11 +114237,17 @@
   },
   {
     "title": "Nostalgie sur bande magnétique: le succès fou d’une Neuchâteloise sur les réseaux sociaux",
-    "added_at": "2026-09-11T07:26:47.685Z"
+    "added_at": "2026-09-11T07:26:47.685Z",
+    "removed_at": "2026-09-13T09:14:45.789Z",
+    "duration_minutes": 2987,
+    "duration_str": "2d 1h 47m"
   },
   {
     "title": "Daniel Humair: \"Le jazz est formidable car ce n'est pas une musique figée\"",
-    "added_at": "2026-09-11T07:26:47.685Z"
+    "added_at": "2026-09-11T07:26:47.685Z",
+    "removed_at": "2026-09-13T07:59:57.466Z",
+    "duration_minutes": 2913,
+    "duration_str": "2d 33m"
   },
   {
     "title": "Cinq morts et 40 blessés dans l'accident d'autocar dans les Grisons",
@@ -114246,11 +114258,17 @@
   },
   {
     "title": "La Suisse ne produit plus que la moitié de ce qu'elle consomme: comment en est-on arrivé là ?",
-    "added_at": "2026-09-11T07:58:10.354Z"
+    "added_at": "2026-09-11T07:58:10.354Z",
+    "removed_at": "2026-09-13T08:36:10.295Z",
+    "duration_minutes": 2917,
+    "duration_str": "2d 37m"
   },
   {
     "title": "IA et tri optique pour une nouvelle usine 2.0 de recyclage des déchets plastiques à Grandson",
-    "added_at": "2026-09-11T08:29:27.932Z"
+    "added_at": "2026-09-11T08:29:27.932Z",
+    "removed_at": "2026-09-13T08:14:26.904Z",
+    "duration_minutes": 2864,
+    "duration_str": "1d 23h 44m"
   },
   {
     "title": "Un Suisse derrière le principal site français de prostitution, désormais sous enquête",
@@ -114272,7 +114290,10 @@
   },
   {
     "title": "Les Grisons endeuillés par un accident d'autocar",
-    "added_at": "2026-09-11T09:17:45.183Z"
+    "added_at": "2026-09-11T09:17:45.183Z",
+    "removed_at": "2026-09-13T08:19:15.984Z",
+    "duration_minutes": 2821,
+    "duration_str": "1d 23h 1m"
   },
   {
     "title": "Gros dégagement de fumée près de Bienne après un incendie dans un centre de déchets (source: Anissa Chalbia)",
@@ -114387,7 +114408,10 @@
   },
   {
     "title": "Accident de bus dans les Grisons: le point avec Nicole Della Pietra",
-    "added_at": "2026-09-11T17:19:17.757Z"
+    "added_at": "2026-09-11T17:19:17.757Z",
+    "removed_at": "2026-09-13T08:16:54.371Z",
+    "duration_minutes": 2337,
+    "duration_str": "1d 14h 57m"
   },
   {
     "title": "Le \"décrochage\" de l'économie française entraîne une révision à la baisse de sa croissance",
@@ -114466,7 +114490,10 @@
   },
   {
     "title": "Agression d’un arbitre à Romanel: quelles sont les sanctions prononcées par les associations de football?",
-    "added_at": "2026-09-12T09:17:15.468Z"
+    "added_at": "2026-09-12T09:17:15.468Z",
+    "removed_at": "2026-09-13T09:19:39.212Z",
+    "duration_minutes": 1442,
+    "duration_str": "1d 2m"
   },
   {
     "title": "La police suspecte un acte malveillant après le déraillement d'un train en Normandie",
@@ -114611,5 +114638,44 @@
   {
     "title": "Après la débâcle du F-35, le PS réclame une commission d'enquête parlementaire",
     "added_at": "2026-09-13T07:57:21.129Z"
+  },
+  {
+    "title": "Quels sont les succès et les ratés du modèle d'IA suisse Apertus, lancé il y a un an?",
+    "added_at": "2026-09-13T07:59:57.466Z"
+  },
+  {
+    "title": "Et si le voyage commençait près de chez soi?",
+    "added_at": "2026-09-13T08:14:26.904Z"
+  },
+  {
+    "title": "L’accident d’un car néerlandais dans les Grisons fait cinq morts",
+    "added_at": "2026-09-13T08:16:54.371Z",
+    "removed_at": "2026-09-13T09:19:39.212Z",
+    "duration_minutes": 62,
+    "duration_str": "1h 2m"
+  },
+  {
+    "title": "L'opérateur téléphonique Salt victime d'un vol de données",
+    "added_at": "2026-09-13T08:19:15.984Z"
+  },
+  {
+    "title": "Des centaines de bovins tués dans l'incendie d'une grande ferme à Palézieux (VD)",
+    "added_at": "2026-09-13T08:36:10.295Z"
+  },
+  {
+    "title": "La série culte 'Star Trek' explore depuis 60 ans les frontières de l'infini",
+    "added_at": "2026-09-13T09:14:45.789Z"
+  },
+  {
+    "title": "Céline Dion débute sa série de concerts à Paris: reportage avec ses fans",
+    "added_at": "2026-09-13T09:19:39.212Z"
+  },
+  {
+    "title": "Céline Dion: la mécanique d'un empire culturel international",
+    "added_at": "2026-09-13T09:19:39.212Z"
+  },
+  {
+    "title": "La politique attire-t-elle moins les personnes honnêtes?",
+    "added_at": "2026-09-13T10:12:43.819Z"
   }
 ]
