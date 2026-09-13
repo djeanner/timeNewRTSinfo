@@ -106503,7 +106503,10 @@
   },
   {
     "title": "monde:::La Suède vote ce dimanche pour des élections à l’issue incertaine",
-    "added_at": "2026-09-13T09:48:34.875Z"
+    "added_at": "2026-09-13T09:48:34.875Z",
+    "removed_at": "2026-09-13T15:56:13.895Z",
+    "duration_minutes": 367,
+    "duration_str": "6h 7m"
   },
   {
     "title": "suisse:::250 bovins périssent dans un incendie à Palézieux",
@@ -106525,7 +106528,10 @@
   },
   {
     "title": "sport:::Melissa Arnot Reid: «Je n’ai plus besoin de réaliser d’exploits pour être en paix avec moi-même»",
-    "added_at": "2026-09-13T10:44:22.452Z"
+    "added_at": "2026-09-13T10:44:22.452Z",
+    "removed_at": "2026-09-13T14:38:52.939Z",
+    "duration_minutes": 234,
+    "duration_str": "3h 54m"
   },
   {
     "title": "culture:::De Birmingham aux Appalaches, le poids du déterminisme social interrogé à Images Vevey",
@@ -106537,7 +106543,10 @@
   },
   {
     "title": "culture:::Robbie Williams à la Vaudoise aréna, un quinqua en mode gentil papa, revenu de tous les excès",
-    "added_at": "2026-09-13T11:01:13.891Z"
+    "added_at": "2026-09-13T11:01:13.891Z",
+    "removed_at": "2026-09-13T13:31:14.046Z",
+    "duration_minutes": 150,
+    "duration_str": "2h 30m"
   },
   {
     "title": "cyber:::La Suisse se montre toujours incapable de réglementer les plateformes numériques. Mais il y a urgence à agir, affirment des experts",
@@ -106545,10 +106554,29 @@
   },
   {
     "title": "sport:::La révolution de velours d’Elena Rybakina, vainqueure de l’US Open et nouvelle numéro un mondiale",
-    "added_at": "2026-09-13T12:35:27.742Z"
+    "added_at": "2026-09-13T12:35:27.742Z",
+    "removed_at": "2026-09-13T13:28:48.458Z",
+    "duration_minutes": 53,
+    "duration_str": "53m"
   },
   {
     "title": "monde:::Guerre en Ukraine – Un train à destination de Varsovie frappé par un drone russe",
     "added_at": "2026-09-13T12:45:02.864Z"
+  },
+  {
+    "title": "cyber:::Face à une IA capable de «prendre le contrôle de l’intégralité d’internet», les géants appellent à ralentir. Mais leur sincérité est sérieusement mise en doute",
+    "added_at": "2026-09-13T13:45:43.677Z"
+  },
+  {
+    "title": "monde:::Derrière la vitrine des Jeux nomades, le Kirghizistan sombre dans une répression politique",
+    "added_at": "2026-09-13T13:52:57.670Z"
+  },
+  {
+    "title": "culture:::Avec le second tome de sa pentalogie «Long London», Alan Moore accuse un coup de mou",
+    "added_at": "2026-09-13T14:38:52.939Z"
+  },
+  {
+    "title": "suisse:::La Commune de Crans-Montana licencie un employé dans une affaire d’usurpation d’identité sur un projet du Constellation",
+    "added_at": "2026-09-13T15:56:13.895Z"
   }
 ]
