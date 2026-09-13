@@ -114201,7 +114201,10 @@
   },
   {
     "title": "Couvrir les attentats du 11 Septembre en direct: retour sur une journée historique à la RTS",
-    "added_at": "2026-09-11T04:17:56.010Z"
+    "added_at": "2026-09-11T04:17:56.010Z",
+    "removed_at": "2026-09-13T20:15:49.281Z",
+    "duration_minutes": 3837,
+    "duration_str": "2d 15h 57m"
   },
   {
     "title": "Des employées de Claire's dénoncent des mois de salaires impayés",
@@ -114413,7 +114416,10 @@
   },
   {
     "title": "Les \"périls\" contemporains interrogés dans le cadre des 33e Journées du patrimoine",
-    "added_at": "2026-09-11T14:39:39.868Z"
+    "added_at": "2026-09-11T14:39:39.868Z",
+    "removed_at": "2026-09-13T19:32:18.769Z",
+    "duration_minutes": 3172,
+    "duration_str": "2d 4h 52m"
   },
   {
     "title": "Le Grand Conseil valaisan veut interdire les boissons énergisantes aux moins de 16 ans",
@@ -114454,7 +114460,10 @@
   },
   {
     "title": "Le \"décrochage\" de l'économie française entraîne une révision à la baisse de sa croissance",
-    "added_at": "2026-09-11T17:53:23.917Z"
+    "added_at": "2026-09-11T17:53:23.917Z",
+    "removed_at": "2026-09-13T19:10:34.655Z",
+    "duration_minutes": 2957,
+    "duration_str": "2d 1h 17m"
   },
   {
     "title": "L'emploi de la croix suisse sur des produits fabriqués à l'étranger divise le Parlement",
@@ -114666,7 +114675,10 @@
   },
   {
     "title": "25 ans après les attentats du 11 septembre, les États-Unis toujours endeuillés",
-    "added_at": "2026-09-13T02:19:01.244Z"
+    "added_at": "2026-09-13T02:19:01.244Z",
+    "removed_at": "2026-09-13T20:18:10.481Z",
+    "duration_minutes": 1079,
+    "duration_str": "17h 59m"
   },
   {
     "title": "Le patron d'Anthropic presse les acteurs de l'IA de ralentir le développement de leurs modèles",
@@ -114694,7 +114706,10 @@
   },
   {
     "title": "L’accident d’un car néerlandais dans les Grisons fait cinq morts",
-    "added_at": "2026-09-13T08:16:54.371Z"
+    "added_at": "2026-09-13T08:16:54.371Z",
+    "removed_at": "2026-09-13T20:15:49.281Z",
+    "duration_minutes": 718,
+    "duration_str": "11h 58m"
   },
   {
     "title": "L'opérateur téléphonique Salt victime d'un vol de données",
@@ -114776,10 +114791,7 @@
   },
   {
     "title": "La commune de Crans Montana licencie un employé déjà impliqué dans l'instruction pénale sur le drame du Constellation",
-    "added_at": "2026-09-13T17:18:51.300Z",
-    "removed_at": "2026-09-13T18:14:44.720Z",
-    "duration_minutes": 55,
-    "duration_str": "55m"
+    "added_at": "2026-09-13T17:18:51.300Z"
   },
   {
     "title": "La 50e édition de La Bâtie-Festival de Genève réunit près de 23'000 personnes",
@@ -114803,5 +114815,38 @@
   {
     "title": "Céline Dion livre son premier concert après six ans d'absence",
     "added_at": "2026-09-13T18:17:06.620Z"
+  },
+  {
+    "title": "Les premières estimations placent la gauche en tête aux élections legislatives en Suède",
+    "added_at": "2026-09-13T19:10:34.655Z",
+    "removed_at": "2026-09-13T19:37:08.223Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "La prise du détroit de Bab el-Mandeb par les Houthis risque de faire flamber les prix du pétrole",
+    "added_at": "2026-09-13T19:32:18.769Z"
+  },
+  {
+    "title": "Les premières estimations placent la gauche en tête des élections législatives en Suède",
+    "added_at": "2026-09-13T19:37:08.223Z",
+    "removed_at": "2026-09-13T19:58:52.485Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
+  },
+  {
+    "title": "La gauche en tête des élections législatives en Suède, selon les premières estimations",
+    "added_at": "2026-09-13T19:58:52.485Z"
+  },
+  {
+    "title": "Accord Suisse-Mercosur: deux visions de l'agriculture qui s'affrontent, des Alpes suisses à l'Argentine",
+    "added_at": "2026-09-13T20:15:49.281Z"
+  },
+  {
+    "title": "Yémen: les Houthis progressent en direction du détroit de Bab el-Mandeb",
+    "added_at": "2026-09-13T20:18:10.481Z",
+    "removed_at": "2026-09-13T21:13:41.418Z",
+    "duration_minutes": 55,
+    "duration_str": "55m"
   }
 ]
