@@ -106641,13 +106641,16 @@
   {
     "title": "sport:::A Lausanne, le derby de la peur sourit à Servette",
     "added_at": "2026-09-13T17:11:35.379Z",
-    "removed_at": "2026-09-14T05:14:28.636Z",
-    "duration_minutes": 722,
-    "duration_str": "12h 2m"
+    "removed_at": "2026-09-14T18:27:57.300Z",
+    "duration_minutes": 1516,
+    "duration_str": "1d 1h 16m"
   },
   {
     "title": "monde:::L’Islande, ce pays sans armée, au cœur de l’OTAN, qui doit repenser ses liens avec les Etats-Unis",
-    "added_at": "2026-09-13T17:11:35.379Z"
+    "added_at": "2026-09-13T17:11:35.379Z",
+    "removed_at": "2026-09-14T16:45:50.867Z",
+    "duration_minutes": 1414,
+    "duration_str": "23h 34m"
   },
   {
     "title": "economie:::Gabriel Brenna, patron de Raiffeisen: «Aucune autre banque en Suisse ne possède autant de potentiel dans la gestion de fortune»",
@@ -106672,7 +106675,10 @@
   },
   {
     "title": "suisse:::Christophe Champod, nouveau recteur de l’Université de Lausanne: «Face à l’IA, l’Université doit reprendre la main sur son destin»",
-    "added_at": "2026-09-13T23:29:00.478Z"
+    "added_at": "2026-09-13T23:29:00.478Z",
+    "removed_at": "2026-09-14T17:58:25.934Z",
+    "duration_minutes": 1109,
+    "duration_str": "18h 29m"
   },
   {
     "title": "economie:::Annuler la dette française, une proposition aussi alléchante que dangereuse",
@@ -106733,10 +106739,7 @@
   },
   {
     "title": "suisse:::Des débordements à Lausanne après le match entre le Lausanne-Sport et Servette",
-    "added_at": "2026-09-14T04:35:57.504Z",
-    "removed_at": "2026-09-14T11:45:58.198Z",
-    "duration_minutes": 430,
-    "duration_str": "7h 10m"
+    "added_at": "2026-09-14T04:35:57.504Z"
   },
   {
     "title": "economie:::Pour la BNS, pas de «Qu’importe!»",
@@ -106798,7 +106801,10 @@
   },
   {
     "title": "suisse:::La Suisse se prépare à un séisme fictif avec l'Europe",
-    "added_at": "2026-09-14T11:45:58.198Z"
+    "added_at": "2026-09-14T11:45:58.198Z",
+    "removed_at": "2026-09-14T18:52:07.320Z",
+    "duration_minutes": 426,
+    "duration_str": "7h 6m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Le Kremlin estime justifiées les frappes russes proches de la Pologne",
@@ -106823,7 +106829,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – En Arctique, douze pays appellent l’Union européenne à muscler sa présence face à la menace russe",
-    "added_at": "2026-09-14T13:44:32.094Z"
+    "added_at": "2026-09-14T13:44:32.094Z",
+    "removed_at": "2026-09-14T18:23:04.558Z",
+    "duration_minutes": 278,
+    "duration_str": "4h 38m"
   },
   {
     "title": "monde:::Des pays européens mettent la pression sur l'UE pour défendre d'Arctique européen",
@@ -106848,7 +106857,10 @@
   },
   {
     "title": "suisse:::Avec un nouveau déficit attendu de 356 millions de francs en 2027, Vaud pourrait avoir consommé deux tiers de ses réserves à la fin de la législature",
-    "added_at": "2026-09-14T14:20:45.781Z"
+    "added_at": "2026-09-14T14:20:45.781Z",
+    "removed_at": "2026-09-14T18:47:17.463Z",
+    "duration_minutes": 266,
+    "duration_str": "4h 26m"
   },
   {
     "title": "suisse:::Gastrovaud appelle le canton à changer de cap dans sa chasse aux indemnités covid illicites",
@@ -106868,5 +106880,36 @@
   {
     "title": "suisse:::Quatre jeunes mercenaires du crime, recrutés sur Snapchat, sont condamnés à Nyon",
     "added_at": "2026-09-14T15:57:18.360Z"
+  },
+  {
+    "title": "monde:::En Turquie, la répression des LGBT franchit un nouveau cap",
+    "added_at": "2026-09-14T16:45:50.867Z"
+  },
+  {
+    "title": "suisse:::Après le Château des Monts, le musée Ulysse Nardin au Locle a été cambriolé à son tour",
+    "added_at": "2026-09-14T17:58:25.934Z",
+    "removed_at": "2026-09-14T18:37:35.589Z",
+    "duration_minutes": 39,
+    "duration_str": "39m"
+  },
+  {
+    "title": "sport:::Pourquoi les supporters de Servette n’ont-ils finalement rien vu du match à Lausanne?",
+    "added_at": "2026-09-14T18:08:33.654Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Donald Trump annonce une trêve énergétique entre Kiev et Moscou",
+    "added_at": "2026-09-14T18:23:04.558Z"
+  },
+  {
+    "title": "suisse:::Avec un demi-milliard, le Conseil des Etats veut rallier les agriculteurs au Mercosur",
+    "added_at": "2026-09-14T18:37:35.589Z"
+  },
+  {
+    "title": "suisse:::Les impôts des couples mariés sèment à nouveau la pagaille au parlement",
+    "added_at": "2026-09-14T18:47:17.463Z"
+  },
+  {
+    "title": "monde:::Et si la campagne présidentielle française était frappée par un retour des Gilets jaunes?",
+    "added_at": "2026-09-14T18:49:45.503Z"
   }
 ]
