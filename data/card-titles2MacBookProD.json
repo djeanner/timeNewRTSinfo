@@ -106302,10 +106302,7 @@
   },
   {
     "title": "economie:::A Zurich, le nombre de banquiers au chômage atteint un record depuis 2004",
-    "added_at": "2026-09-11T17:24:04.702Z",
-    "removed_at": "2026-09-14T04:21:27.014Z",
-    "duration_minutes": 3537,
-    "duration_str": "2d 10h 57m"
+    "added_at": "2026-09-11T17:24:04.702Z"
   },
   {
     "title": "economie:::Pas de répit sur le front de l’inflation aux Etats-Unis",
@@ -106457,7 +106454,10 @@
   },
   {
     "title": "cyber:::«On est les ouvriers des algos»: derrière les paillettes, la santé mentale des influenceurs en danger",
-    "added_at": "2026-09-12T16:58:54.043Z"
+    "added_at": "2026-09-12T16:58:54.043Z",
+    "removed_at": "2026-09-14T06:24:59.389Z",
+    "duration_minutes": 2246,
+    "duration_str": "1d 13h 26m"
   },
   {
     "title": "cyber:::Le patron d’Anthropic appelle à ralentir l’IA après des incidents où des agents autonomes ont pris le contrôle",
@@ -106689,7 +106689,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Varsovie et Kiev dénoncent une escalade après des frappes russes",
-    "added_at": "2026-09-14T02:42:23.522Z"
+    "added_at": "2026-09-14T02:42:23.522Z",
+    "removed_at": "2026-09-14T06:10:30.430Z",
+    "duration_minutes": 208,
+    "duration_str": "3h 28m"
   },
   {
     "title": "monde:::Moyen-Orient – Notre suivi du 12 au 13 septembre 2026",
@@ -106700,7 +106703,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – La réunion entre l'Iran et les pays du Golfe sur Ormuz reportée",
-    "added_at": "2026-09-14T03:09:03.817Z"
+    "added_at": "2026-09-14T03:09:03.817Z",
+    "removed_at": "2026-09-14T07:49:25.551Z",
+    "duration_minutes": 280,
+    "duration_str": "4h 40m"
   },
   {
     "title": "suisse:::Ne négligeons pas les hautes écoles",
@@ -106720,6 +106726,29 @@
   },
   {
     "title": "sport:::US Open: Alexander Zverev, le «loser» devenu joueur de l'année",
-    "added_at": "2026-09-14T05:14:28.636Z"
+    "added_at": "2026-09-14T05:14:28.636Z",
+    "removed_at": "2026-09-14T07:03:35.135Z",
+    "duration_minutes": 109,
+    "duration_str": "1h 49m"
+  },
+  {
+    "title": "economie:::Pendant que la Suisse serre la vis, le Royaume-Uni cherche à assouplir sa réglementation bancaire",
+    "added_at": "2026-09-14T05:50:51.861Z"
+  },
+  {
+    "title": "economie:::«Lex UBS»: la Commission de l’économie et des redevances fait un pas en direction de la grande banque",
+    "added_at": "2026-09-14T05:53:19.064Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Donald Trump a demandé à Volodymyr Zelensky de cesser de bombarder les raffineries russes",
+    "added_at": "2026-09-14T06:10:30.430Z"
+  },
+  {
+    "title": "sport:::US Open: Alexander Zverev, le «loser» devenu joueur de l’année",
+    "added_at": "2026-09-14T07:03:35.135Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Téhéran accuse Washington d'avoir empêché son responsable nucléaire de se rendre à Vienne",
+    "added_at": "2026-09-14T07:49:25.551Z"
   }
 ]
