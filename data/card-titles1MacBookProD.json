@@ -114190,7 +114190,10 @@
   },
   {
     "title": "Casablanca: rasés pour le tourisme, des quartiers populaires disparaissent",
-    "added_at": "2026-09-10T21:19:51.372Z"
+    "added_at": "2026-09-10T21:19:51.372Z",
+    "removed_at": "2026-09-13T23:19:18.929Z",
+    "duration_minutes": 4439,
+    "duration_str": "3d 1h 59m"
   },
   {
     "title": "Le PLR vaudois adoube ses trois ministres sortants pour les élections cantonales de 2027",
@@ -114380,7 +114383,10 @@
   },
   {
     "title": "\"Céline Dion est une artiste qui traverse le temps\"",
-    "added_at": "2026-09-11T13:12:50.030Z"
+    "added_at": "2026-09-11T13:12:50.030Z",
+    "removed_at": "2026-09-13T23:41:03.062Z",
+    "duration_minutes": 3508,
+    "duration_str": "2d 10h 28m"
   },
   {
     "title": "Les hôpitaux suisses ne sont pas rentables, selon une étude",
@@ -114713,7 +114719,10 @@
   },
   {
     "title": "L'opérateur téléphonique Salt victime d'un vol de données",
-    "added_at": "2026-09-13T08:19:15.984Z"
+    "added_at": "2026-09-13T08:19:15.984Z",
+    "removed_at": "2026-09-13T23:14:30.055Z",
+    "duration_minutes": 895,
+    "duration_str": "14h 55m"
   },
   {
     "title": "Des centaines de bovins tués dans l'incendie d'une grande ferme à Palézieux (VD)",
@@ -114848,5 +114857,24 @@
     "removed_at": "2026-09-13T21:13:41.418Z",
     "duration_minutes": 55,
     "duration_str": "55m"
+  },
+  {
+    "title": "Les agriculteurs de demain seront toujours plus spécialisés",
+    "added_at": "2026-09-13T23:14:30.055Z"
+  },
+  {
+    "title": "La commune de Crans-Montana licencie un employé pour avoir falsifié un document pour Le Constellation",
+    "added_at": "2026-09-13T23:19:18.929Z"
+  },
+  {
+    "title": "Des échauffourées entre policiers et supporters genevois à Lausanne après le match entre le LS et Servette FC",
+    "added_at": "2026-09-13T23:41:03.062Z",
+    "removed_at": "2026-09-13T23:48:17.654Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Des échauffourées entre policiers et supporters genevois à Lausanne après le match entre le LS et le Servette FC",
+    "added_at": "2026-09-13T23:48:17.654Z"
   }
 ]
