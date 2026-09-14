@@ -106302,7 +106302,10 @@
   },
   {
     "title": "economie:::A Zurich, le nombre de banquiers au chômage atteint un record depuis 2004",
-    "added_at": "2026-09-11T17:24:04.702Z"
+    "added_at": "2026-09-11T17:24:04.702Z",
+    "removed_at": "2026-09-14T04:21:27.014Z",
+    "duration_minutes": 3537,
+    "duration_str": "2d 10h 57m"
   },
   {
     "title": "economie:::Pas de répit sur le front de l’inflation aux Etats-Unis",
@@ -106472,7 +106475,10 @@
   },
   {
     "title": "monde:::Moyen-Orient – Les Houthis affirment avoir libéré plus de 200 détenus au Yémen",
-    "added_at": "2026-09-12T19:38:28.556Z"
+    "added_at": "2026-09-12T19:38:28.556Z",
+    "removed_at": "2026-09-14T03:01:49.687Z",
+    "duration_minutes": 1883,
+    "duration_str": "1d 7h 23m"
   },
   {
     "title": "culture:::«J’ai promis de ne pas pleurer»: le retour touchant et triomphant de Céline Dion",
@@ -106550,7 +106556,10 @@
   },
   {
     "title": "culture:::De Birmingham aux Appalaches, le poids du déterminisme social interrogé à Images Vevey",
-    "added_at": "2026-09-13T10:46:43.840Z"
+    "added_at": "2026-09-13T10:46:43.840Z",
+    "removed_at": "2026-09-14T04:18:59.704Z",
+    "duration_minutes": 1052,
+    "duration_str": "17h 32m"
   },
   {
     "title": "economie:::Une sélection de montres créées par des clubs de passionnés",
@@ -106590,7 +106599,10 @@
   },
   {
     "title": "monde:::Derrière la vitrine des Jeux nomades, le Kirghizistan sombre dans une répression politique",
-    "added_at": "2026-09-13T13:52:57.670Z"
+    "added_at": "2026-09-13T13:52:57.670Z",
+    "removed_at": "2026-09-14T04:21:27.014Z",
+    "duration_minutes": 868,
+    "duration_str": "14h 28m"
   },
   {
     "title": "culture:::Avec le second tome de sa pentalogie «Long London», Alan Moore accuse un coup de mou",
@@ -106616,7 +106628,10 @@
   },
   {
     "title": "sport:::A Lausanne, le derby de la peur sourit à Servette",
-    "added_at": "2026-09-13T17:11:35.379Z"
+    "added_at": "2026-09-13T17:11:35.379Z",
+    "removed_at": "2026-09-14T05:14:28.636Z",
+    "duration_minutes": 722,
+    "duration_str": "12h 2m"
   },
   {
     "title": "monde:::L’Islande, ce pays sans armée, au cœur de l’OTAN, qui doit repenser ses liens avec les Etats-Unis",
@@ -106646,15 +106661,24 @@
   },
   {
     "title": "economie:::Annuler la dette française, une proposition aussi alléchante que dangereuse",
-    "added_at": "2026-09-13T23:31:27.143Z"
+    "added_at": "2026-09-13T23:31:27.143Z",
+    "removed_at": "2026-09-14T05:12:03.157Z",
+    "duration_minutes": 340,
+    "duration_str": "5h 40m"
   },
   {
     "title": "suisse:::Des débordements à Lausanne après le match entre le Lausanne-Sport et le FC Servette",
-    "added_at": "2026-09-13T23:31:27.143Z"
+    "added_at": "2026-09-13T23:31:27.143Z",
+    "removed_at": "2026-09-14T04:35:57.504Z",
+    "duration_minutes": 304,
+    "duration_str": "5h 4m"
   },
   {
     "title": "monde:::Guerre en Ukraine – Notre suivi du 12 au 13 septembre 2026",
-    "added_at": "2026-09-14T02:20:40.783Z"
+    "added_at": "2026-09-14T02:20:40.783Z",
+    "removed_at": "2026-09-14T04:04:31.953Z",
+    "duration_minutes": 103,
+    "duration_str": "1h 43m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Varsovie et Kiev ont dénoncé une escalade après des frappes russes",
@@ -106666,5 +106690,36 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Varsovie et Kiev dénoncent une escalade après des frappes russes",
     "added_at": "2026-09-14T02:42:23.522Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Notre suivi du 12 au 13 septembre 2026",
+    "added_at": "2026-09-14T03:01:49.687Z",
+    "removed_at": "2026-09-14T03:09:03.817Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – La réunion entre l'Iran et les pays du Golfe sur Ormuz reportée",
+    "added_at": "2026-09-14T03:09:03.817Z"
+  },
+  {
+    "title": "suisse:::Ne négligeons pas les hautes écoles",
+    "added_at": "2026-09-14T04:16:34.401Z"
+  },
+  {
+    "title": "suisse:::A Berne, la santé cherche encore et toujours son remède de cheval",
+    "added_at": "2026-09-14T04:18:59.704Z"
+  },
+  {
+    "title": "suisse:::Des débordements à Lausanne après le match entre le Lausanne-Sport et Servette",
+    "added_at": "2026-09-14T04:35:57.504Z"
+  },
+  {
+    "title": "economie:::Pour la BNS, pas de «Qu’importe!»",
+    "added_at": "2026-09-14T05:12:03.157Z"
+  },
+  {
+    "title": "sport:::US Open: Alexander Zverev, le «loser» devenu joueur de l'année",
+    "added_at": "2026-09-14T05:14:28.636Z"
   }
 ]
