@@ -104774,10 +104774,7 @@
   },
   {
     "title": "culture:::L’artiste JR: «Je suis de plus en plus convaincu que l’art peut changer le monde»",
-    "added_at": "2026-09-06T16:21:30.301Z",
-    "removed_at": "2026-09-08T07:34:03.249Z",
-    "duration_minutes": 2352,
-    "duration_str": "1d 15h 12m"
+    "added_at": "2026-09-06T16:21:30.301Z"
   },
   {
     "title": "monde:::Funérailles de Ratko Mladić: Aleksandar Vučić défie l’Europe à quelques semaines des élections serbes",
@@ -105166,7 +105163,10 @@
   },
   {
     "title": "suisse:::Initiative 12%: les divergences de calculs rendent la baisse d’impôts illisible pour les votants vaudois",
-    "added_at": "2026-09-08T06:21:45.872Z"
+    "added_at": "2026-09-08T06:21:45.872Z",
+    "removed_at": "2026-09-14T12:22:16.368Z",
+    "duration_minutes": 9000,
+    "duration_str": "6d 6h"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Kiev visée cette nuit par une attaque «massive et horrible»",
@@ -105927,7 +105927,10 @@
   },
   {
     "title": "suisse:::Le «Baromètre fiscal» met à nu les faiblesses vaudoises",
-    "added_at": "2026-09-10T12:46:46.436Z"
+    "added_at": "2026-09-10T12:46:46.436Z",
+    "removed_at": "2026-09-14T12:22:16.368Z",
+    "duration_minutes": 5735,
+    "duration_str": "3d 23h 35m"
   },
   {
     "title": "culture:::Un documentaire sur «Notre argent», un sujet encore tabou mais qui concerne tout le monde, du PDG fortuné au salarié endetté",
@@ -106187,10 +106190,7 @@
   },
   {
     "title": "culture:::Dix expos de la 10e édition d’Images Vevey à ne pas manquer",
-    "added_at": "2026-09-11T10:54:28.884Z",
-    "removed_at": "2026-09-12T08:41:05.992Z",
-    "duration_minutes": 1306,
-    "duration_str": "21h 46m"
+    "added_at": "2026-09-11T10:54:28.884Z"
   },
   {
     "title": "monde:::Après la crue meurtrière au Népal, le coût de la reconstruction évalué à 4,78 milliards de dollars",
@@ -106721,7 +106721,10 @@
   },
   {
     "title": "suisse:::Des débordements à Lausanne après le match entre le Lausanne-Sport et Servette",
-    "added_at": "2026-09-14T04:35:57.504Z"
+    "added_at": "2026-09-14T04:35:57.504Z",
+    "removed_at": "2026-09-14T11:45:58.198Z",
+    "duration_minutes": 430,
+    "duration_str": "7h 10m"
   },
   {
     "title": "economie:::Pour la BNS, pas de «Qu’importe!»",
@@ -106747,7 +106750,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Donald Trump a demandé à Volodymyr Zelensky de cesser de bombarder les raffineries russes",
-    "added_at": "2026-09-14T06:10:30.430Z"
+    "added_at": "2026-09-14T06:10:30.430Z",
+    "removed_at": "2026-09-14T11:45:58.198Z",
+    "duration_minutes": 335,
+    "duration_str": "5h 35m"
   },
   {
     "title": "sport:::US Open: Alexander Zverev, le «loser» devenu joueur de l’année",
@@ -106762,7 +106768,10 @@
   },
   {
     "title": "suisse:::Le budget vaudois 2027 affiche un déficit de 356 millions de francs, sans prendre en compte l'initiative 12%",
-    "added_at": "2026-09-14T08:35:07.511Z"
+    "added_at": "2026-09-14T08:35:07.511Z",
+    "removed_at": "2026-09-14T12:46:22.824Z",
+    "duration_minutes": 251,
+    "duration_str": "4h 11m"
   },
   {
     "title": "culture:::Quand l’art crée des mondes parallèles: à Vevey, Emmanuelle Antille nous entraîne sur les chemins labyrinthiques de la création",
@@ -106771,5 +106780,24 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Oléoduc bombardé, report des négociations sur Ormuz… Le prix du baril n’en finit pas de monter",
     "added_at": "2026-09-14T10:04:22.964Z"
+  },
+  {
+    "title": "suisse:::La Suisse se prépare à un séisme fictif avec l'Europe",
+    "added_at": "2026-09-14T11:45:58.198Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Le Kremlin estime justifiées les frappes russes proches de la Pologne",
+    "added_at": "2026-09-14T11:45:58.198Z"
+  },
+  {
+    "title": "suisse:::Avec un nouveau déficit attendu de 356 millions de francs en 2027, Vaud pourrait avoir consommé deux tiers de ses liquidités à la fin de la législature",
+    "added_at": "2026-09-14T12:46:22.824Z",
+    "removed_at": "2026-09-14T13:00:50.851Z",
+    "duration_minutes": 14,
+    "duration_str": "14m"
+  },
+  {
+    "title": "suisse:::Avec un nouveau déficit attendu de 356 millions de francs en 2027, Vaud pourrait avoir consommé deux tiers de ses réserves à la fin de la législature",
+    "added_at": "2026-09-14T13:00:50.851Z"
   }
 ]
