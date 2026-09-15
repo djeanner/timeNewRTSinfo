@@ -114936,7 +114936,10 @@
   },
   {
     "title": "A-t-on le droit de nous faire payer pour un produit qui n’existe plus?",
-    "added_at": "2026-09-13T13:19:00.591Z"
+    "added_at": "2026-09-13T13:19:00.591Z",
+    "removed_at": "2026-09-15T17:14:39.161Z",
+    "duration_minutes": 3115,
+    "duration_str": "2d 3h 55m"
   },
   {
     "title": "Ananda Devi revisite les origines de l'île Maurice avec 'Chronique d'un royaume perdu'",
@@ -114961,7 +114964,10 @@
   },
   {
     "title": "Un drone russe frappe un train en Ukraine à destination de la Pologne",
-    "added_at": "2026-09-13T14:46:08.405Z"
+    "added_at": "2026-09-13T14:46:08.405Z",
+    "removed_at": "2026-09-15T17:14:39.161Z",
+    "duration_minutes": 3028,
+    "duration_str": "2d 2h 28m"
   },
   {
     "title": "Les images de l'incendie de Palézieux depuis la route (source: Elsa Goanvic)",
@@ -114969,7 +114975,10 @@
   },
   {
     "title": "Environ 250 animaux ont péri dans l'incendie d'une ferme à Palézieux (VD)",
-    "added_at": "2026-09-13T17:13:57.351Z"
+    "added_at": "2026-09-13T17:13:57.351Z",
+    "removed_at": "2026-09-15T17:14:39.161Z",
+    "duration_minutes": 2880,
+    "duration_str": "2d"
   },
   {
     "title": "Forum (vidéo) - Présenté par Mehmet Gultas et Thibaut Schaller",
@@ -115023,10 +115032,7 @@
   },
   {
     "title": "La prise du détroit de Bab el-Mandeb par les Houthis risque de faire flamber les prix du pétrole",
-    "added_at": "2026-09-13T19:32:18.769Z",
-    "removed_at": "2026-09-15T14:49:26.940Z",
-    "duration_minutes": 2597,
-    "duration_str": "1d 19h 17m"
+    "added_at": "2026-09-13T19:32:18.769Z"
   },
   {
     "title": "Les premières estimations placent la gauche en tête des élections législatives en Suède",
@@ -115141,7 +115147,10 @@
   },
   {
     "title": "Visana remplace des cartes d’assuré encore valables pour une question de design",
-    "added_at": "2026-09-14T05:07:14.077Z"
+    "added_at": "2026-09-14T05:07:14.077Z",
+    "removed_at": "2026-09-15T19:20:44.854Z",
+    "duration_minutes": 2293,
+    "duration_str": "1d 14h 13m"
   },
   {
     "title": "Deux caves vaudoises sanctionnées pour avoir sucré leur vin",
@@ -115149,11 +115158,17 @@
   },
   {
     "title": "Mike D, ancien membre des Beastie Boys, sort à 60 ans son premier album solo",
-    "added_at": "2026-09-14T06:51:27.975Z"
+    "added_at": "2026-09-14T06:51:27.975Z",
+    "removed_at": "2026-09-15T17:33:59.389Z",
+    "duration_minutes": 2082,
+    "duration_str": "1d 10h 42m"
   },
   {
     "title": "Les pays des BRICS développent BRICS Pay pour se passer du dollar",
-    "added_at": "2026-09-14T07:25:15.746Z"
+    "added_at": "2026-09-14T07:25:15.746Z",
+    "removed_at": "2026-09-15T18:07:47.347Z",
+    "duration_minutes": 2082,
+    "duration_str": "1d 10h 42m"
   },
   {
     "title": "Etudiants gazaouis en Suisse: un parcours semé d'embûches",
@@ -115463,5 +115478,25 @@
   {
     "title": "A Zurich, l'Eglise réformée appelle ses fidèles à voter sur la neutralité carbone",
     "added_at": "2026-09-15T15:52:11.611Z"
+  },
+  {
+    "title": "Près de 250 bovins périssent dans l'incendie d'une ferme à Palézieux",
+    "added_at": "2026-09-15T17:14:39.161Z"
+  },
+  {
+    "title": "À Lausanne, un habitant sur deux vit dans un quartier qui manque d’arbres",
+    "added_at": "2026-09-15T17:33:59.389Z"
+  },
+  {
+    "title": "Un nouveau \"Point d'eau\" accueille les plus précaires pour se laver et faire la lessive à Carouge",
+    "added_at": "2026-09-15T18:07:47.347Z"
+  },
+  {
+    "title": "L’OCDE préconise une hausse de la TVA et une retraite plus tardive en Suisse",
+    "added_at": "2026-09-15T18:37:07.703Z"
+  },
+  {
+    "title": "Les géants américains de l'IA travaillent à la création d'un organe de supervision des risques",
+    "added_at": "2026-09-15T19:20:44.854Z"
   }
 ]
