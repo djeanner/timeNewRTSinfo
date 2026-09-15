@@ -106803,7 +106803,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Oléoduc bombardé, report des négociations sur Ormuz… Le prix du baril n’en finit pas de monter",
-    "added_at": "2026-09-14T10:04:22.964Z"
+    "added_at": "2026-09-14T10:04:22.964Z",
+    "removed_at": "2026-09-15T02:29:07.883Z",
+    "duration_minutes": 984,
+    "duration_str": "16h 24m"
   },
   {
     "title": "suisse:::La Suisse se prépare à un séisme fictif avec l'Europe",
@@ -106910,7 +106913,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Donald Trump annonce une trêve énergétique entre Kiev et Moscou",
-    "added_at": "2026-09-14T18:23:04.558Z"
+    "added_at": "2026-09-14T18:23:04.558Z",
+    "removed_at": "2026-09-15T01:52:59.348Z",
+    "duration_minutes": 449,
+    "duration_str": "7h 29m"
   },
   {
     "title": "suisse:::Avec un demi-milliard, le Conseil des Etats veut rallier les agriculteurs au Mercosur",
@@ -106946,5 +106952,13 @@
   {
     "title": "culture:::Symbole national de la culture américaine, le Kennedy Center touche le fond",
     "added_at": "2026-09-15T00:21:10.973Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Kiev est prêt à prendre des «mesures de désescalade» si Moscou en fait de même",
+    "added_at": "2026-09-15T01:52:59.348Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le Pentagone reconnaît une «pénurie» de munitions avec la guerre en Iran",
+    "added_at": "2026-09-15T02:29:07.883Z"
   }
 ]
