@@ -108172,7 +108172,10 @@
   },
   {
     "title": "Gold mine collapse kills at least 70 people in Sudan’s West Kordofan",
-    "added_at": "2026-09-16T14:24:41.733Z"
+    "added_at": "2026-09-16T14:24:41.733Z",
+    "removed_at": "2026-09-16T21:47:05.419Z",
+    "duration_minutes": 442,
+    "duration_str": "7h 22m"
   },
   {
     "title": "Gold mine collapse kills at least 82 people in Sudan’s West Kordofan",
@@ -108248,6 +108251,31 @@
   },
   {
     "title": "Malaysia offers to invite Myanmar leader in Rohingya repatriation push",
-    "added_at": "2026-09-16T18:02:19.162Z"
+    "added_at": "2026-09-16T18:02:19.162Z",
+    "removed_at": "2026-09-16T19:49:01.919Z",
+    "duration_minutes": 106,
+    "duration_str": "1h 46m"
+  },
+  {
+    "title": "Lebanon returns 37 artefacts smuggled out of Egypt six years ago",
+    "added_at": "2026-09-16T19:49:01.919Z"
+  },
+  {
+    "title": "US removes Venezuela from list of drug transit, production countries",
+    "added_at": "2026-09-16T21:47:05.419Z",
+    "removed_at": "2026-09-16T22:01:32.589Z",
+    "duration_minutes": 14,
+    "duration_str": "14m"
+  },
+  {
+    "title": "US removes Venezuela from drug list",
+    "added_at": "2026-09-16T22:01:32.589Z",
+    "removed_at": "2026-09-16T22:03:53.623Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "US removes Venezuela from drug list, Trump says",
+    "added_at": "2026-09-16T22:03:53.623Z"
   }
 ]
