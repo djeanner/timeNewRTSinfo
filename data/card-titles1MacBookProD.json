@@ -104397,7 +104397,10 @@
   },
   {
     "title": "Forum - Présenté par Renaud Malik",
-    "added_at": "2026-07-22T07:26:39.546Z"
+    "added_at": "2026-07-22T07:26:39.546Z",
+    "removed_at": "2026-09-15T23:15:15.511Z",
+    "duration_minutes": 80148,
+    "duration_str": "55d 15h 48m"
   },
   {
     "title": "Pourquoi des fonds américains veulent s'offrir Easyjet?",
@@ -114982,10 +114985,7 @@
   },
   {
     "title": "Forum (vidéo) - Présenté par Mehmet Gultas et Thibaut Schaller",
-    "added_at": "2026-09-13T17:13:57.351Z",
-    "removed_at": "2026-09-13T18:17:06.620Z",
-    "duration_minutes": 63,
-    "duration_str": "1h 3m"
+    "added_at": "2026-09-13T17:13:57.351Z"
   },
   {
     "title": "La commune de Crans Montana licencie un employé déjà impliqué dans l'instruction pénale sur le drame du Constellation",
@@ -115010,7 +115010,10 @@
   },
   {
     "title": "Des propos antisémites lors d'une conférence d'extrême droite en Suisse romande",
-    "added_at": "2026-09-13T18:07:28.532Z"
+    "added_at": "2026-09-13T18:07:28.532Z",
+    "removed_at": "2026-09-16T00:13:18.764Z",
+    "duration_minutes": 3245,
+    "duration_str": "2d 6h 5m"
   },
   {
     "title": "Les chercheurs en IA craignent que celle-ci provoque l’extinction humaine: interview de Sébastien Marcel",
@@ -115032,7 +115035,10 @@
   },
   {
     "title": "La prise du détroit de Bab el-Mandeb par les Houthis risque de faire flamber les prix du pétrole",
-    "added_at": "2026-09-13T19:32:18.769Z"
+    "added_at": "2026-09-13T19:32:18.769Z",
+    "removed_at": "2026-09-15T23:10:22.509Z",
+    "duration_minutes": 3098,
+    "duration_str": "2d 3h 38m"
   },
   {
     "title": "Les premières estimations placent la gauche en tête des élections législatives en Suède",
@@ -115210,7 +115216,10 @@
   },
   {
     "title": "Pétrole: la prise du détroit de Bab el-Mandeb asphyxie l’Arabie saoudite",
-    "added_at": "2026-09-14T11:14:33.722Z"
+    "added_at": "2026-09-14T11:14:33.722Z",
+    "removed_at": "2026-09-16T00:13:18.764Z",
+    "duration_minutes": 2218,
+    "duration_str": "1d 12h 58m"
   },
   {
     "title": "La crue au Népal met en lumière le défi de la gestion des risques naturels dans l'Himalaya",
@@ -115487,7 +115496,10 @@
   },
   {
     "title": "Près de 250 bovins périssent dans l'incendie d'une ferme à Palézieux",
-    "added_at": "2026-09-15T17:14:39.161Z"
+    "added_at": "2026-09-15T17:14:39.161Z",
+    "removed_at": "2026-09-15T23:17:38.393Z",
+    "duration_minutes": 362,
+    "duration_str": "6h 2m"
   },
   {
     "title": "À Lausanne, un habitant sur deux vit dans un quartier qui manque d’arbres",
@@ -115523,5 +115535,13 @@
   {
     "title": "La guerre contre l'Iran a coûté 38 milliards de dollars aux Etats-Unis",
     "added_at": "2026-09-15T21:52:59.204Z"
+  },
+  {
+    "title": "Après la crue meurtrière au Népal, comment prévenir le risque dans l'Himalaya?",
+    "added_at": "2026-09-15T23:15:15.511Z"
+  },
+  {
+    "title": "Une réunion d'extrême droite fait polémique en Suisse romande",
+    "added_at": "2026-09-16T00:13:18.764Z"
   }
 ]
