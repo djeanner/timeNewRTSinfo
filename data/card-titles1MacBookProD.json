@@ -11640,7 +11640,10 @@
   },
   {
     "title": "Couleurs locales",
-    "added_at": "2025-08-28T06:01:32.713Z"
+    "added_at": "2025-08-28T06:01:32.713Z",
+    "removed_at": "2026-09-17T20:14:54.258Z",
+    "duration_minutes": 555253,
+    "duration_str": "385d 14h 13m"
   },
   {
     "title": "Les entreprises suisses à la conquête du marché irakien",
@@ -114700,9 +114703,9 @@
   {
     "title": "Etre malhonnête, ça aide à percer en politique ?",
     "added_at": "2026-09-12T12:16:03.444Z",
-    "removed_at": "2026-09-17T12:20:49.922Z",
-    "duration_minutes": 7204,
-    "duration_str": "5d 4m"
+    "removed_at": "2026-09-17T21:17:32.062Z",
+    "duration_minutes": 7741,
+    "duration_str": "5d 9h 1m"
   },
   {
     "title": "Ressuscité par IA, l'ex-Premier ministre Olof Palme participe aux élections en Suède",
@@ -115880,7 +115883,10 @@
   },
   {
     "title": "L'épidémie de rougeole tue une quatrième personne en Pennsylvanie",
-    "added_at": "2026-09-16T10:51:43.884Z"
+    "added_at": "2026-09-16T10:51:43.884Z",
+    "removed_at": "2026-09-17T20:22:07.819Z",
+    "duration_minutes": 2010,
+    "duration_str": "1d 9h 30m"
   },
   {
     "title": "Les Etats-Unis reconnaissent une pénurie de munitions après la guerre en Iran",
@@ -115898,7 +115904,10 @@
   },
   {
     "title": "La série 'Professeur Raoult versus le gang des cerises' revient sur la controverse de l'hydroxychloroquine",
-    "added_at": "2026-09-16T11:52:14.714Z"
+    "added_at": "2026-09-16T11:52:14.714Z",
+    "removed_at": "2026-09-17T20:17:21.459Z",
+    "duration_minutes": 1945,
+    "duration_str": "1d 8h 25m"
   },
   {
     "title": "'Des idées d'incendie' d'Angélique Villeneuve, le roman bouleversant d'une vie paysanne",
@@ -115909,7 +115918,10 @@
   },
   {
     "title": "Un candidat socialiste accusé de violences exclu de la primaire de la gauche française",
-    "added_at": "2026-09-16T11:54:40.681Z"
+    "added_at": "2026-09-16T11:54:40.681Z",
+    "removed_at": "2026-09-17T20:48:37.486Z",
+    "duration_minutes": 1973,
+    "duration_str": "1d 8h 53m"
   },
   {
     "title": "La RSI prévoit de supprimer entre 8 à 12 postes à l'horizon 2027",
@@ -116029,7 +116041,10 @@
   },
   {
     "title": "Forum (vidéo) - Présenté par Coralie Claude et Mehmet Gultas",
-    "added_at": "2026-09-16T23:18:01.565Z"
+    "added_at": "2026-09-16T23:18:01.565Z",
+    "removed_at": "2026-09-17T21:17:32.062Z",
+    "duration_minutes": 1319,
+    "duration_str": "21h 59m"
   },
   {
     "title": "Pourquoi FC 27 est passé de PEGI 3 à PEGI 16",
@@ -116238,7 +116253,10 @@
   },
   {
     "title": "Les pruneaux suisses n'ont pas bonne mine cette année",
-    "added_at": "2026-09-17T18:16:05.493Z"
+    "added_at": "2026-09-17T18:16:05.493Z",
+    "removed_at": "2026-09-17T21:19:58.189Z",
+    "duration_minutes": 183,
+    "duration_str": "3h 3m"
   },
   {
     "title": "Une panne électrique bloque toujours le trafic CFF entre Renens et Morges",
@@ -116254,5 +116272,40 @@
   {
     "title": "Nicole Gnesotto: l'accord entre le Canada et l'Europe \"est la refondation d'un nouvel Occident\"",
     "added_at": "2026-09-17T19:48:13.819Z"
+  },
+  {
+    "title": "La Matinale (vidéo) - Présentée par Yann Amedro",
+    "added_at": "2026-09-17T20:14:54.258Z",
+    "removed_at": "2026-09-17T21:17:32.062Z",
+    "duration_minutes": 62,
+    "duration_str": "1h 2m"
+  },
+  {
+    "title": "Kylian Mbappé refuse d'afficher son soutien aux habitants de Ceuta et déclenche une polémique",
+    "added_at": "2026-09-17T20:17:21.459Z"
+  },
+  {
+    "title": "Le diesel frôle son record et met les transporteurs sous pression",
+    "added_at": "2026-09-17T20:22:07.819Z"
+  },
+  {
+    "title": "La défense du tortionnaire présumé de Moudon décrit un homme \"immature\", mais pas sadique",
+    "added_at": "2026-09-17T20:48:37.486Z"
+  },
+  {
+    "title": "Le trafic est perturbé sur l'autoroute A1 entre Rolle et Ecublens (VD) en raison d'un incendie",
+    "added_at": "2026-09-17T21:17:32.062Z"
+  },
+  {
+    "title": "Des passagers attendent à la gare de Renens (VD) après une interruption du trafic CFF",
+    "added_at": "2026-09-17T21:17:32.062Z"
+  },
+  {
+    "title": "Une baleine fait le deuil de son petit mort-né",
+    "added_at": "2026-09-17T21:17:32.062Z"
+  },
+  {
+    "title": "RTSreligion - Les chrétiens repentis du camp Trump toujours plus nombreux",
+    "added_at": "2026-09-17T21:19:58.189Z"
   }
 ]
