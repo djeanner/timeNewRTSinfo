@@ -115925,7 +115925,10 @@
   },
   {
     "title": "La RSI prévoit de supprimer entre 8 à 12 postes à l'horizon 2027",
-    "added_at": "2026-09-16T13:09:33.168Z"
+    "added_at": "2026-09-16T13:09:33.168Z",
+    "removed_at": "2026-09-18T04:40:08.496Z",
+    "duration_minutes": 2370,
+    "duration_str": "1d 15h 30m"
   },
   {
     "title": "En Suisse, 8,4% de la population vit sous le seuil de pauvreté",
@@ -115933,7 +115936,10 @@
   },
   {
     "title": "Avec 'Bahía', Isabelle Cornaz mêle mémoire personnelle et exploration poétique",
-    "added_at": "2026-09-16T13:26:29.566Z"
+    "added_at": "2026-09-16T13:26:29.566Z",
+    "removed_at": "2026-09-18T04:25:43.311Z",
+    "duration_minutes": 2339,
+    "duration_str": "1d 14h 59m"
   },
   {
     "title": "La directrice du Seco, négociatrice de l'accord avec les Etats-Unis, démissionne",
@@ -116331,5 +116337,13 @@
   {
     "title": "Sandrine Hochstrasser en direct depuis Echandens",
     "added_at": "2026-09-18T00:16:50.126Z"
+  },
+  {
+    "title": "Genève face au défi de l'hébergement d'urgence pour les sans-abri",
+    "added_at": "2026-09-18T04:25:43.311Z"
+  },
+  {
+    "title": "Des cas de paludisme s'étendent au voisinage de l'aéroport de Francfort",
+    "added_at": "2026-09-18T04:40:08.496Z"
   }
 ]
