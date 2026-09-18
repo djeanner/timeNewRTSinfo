@@ -116083,7 +116083,10 @@
   },
   {
     "title": "Malgré la pression de Donald Trump, la Fed augmente ses taux d'intérêt",
-    "added_at": "2026-09-16T19:31:53.564Z"
+    "added_at": "2026-09-16T19:31:53.564Z",
+    "removed_at": "2026-09-18T21:09:29.967Z",
+    "duration_minutes": 2977,
+    "duration_str": "2d 1h 37m"
   },
   {
     "title": "La Suisse recule de 10 rangs dans l'indice du WEF sur l'égalité",
@@ -116189,7 +116192,10 @@
   },
   {
     "title": "Près d'un milliard de francs de dommages annoncés pour la grêle qui a frappé fin août",
-    "added_at": "2026-09-17T07:57:44.016Z"
+    "added_at": "2026-09-17T07:57:44.016Z",
+    "removed_at": "2026-09-18T20:26:09.419Z",
+    "duration_minutes": 2188,
+    "duration_str": "1d 12h 28m"
   },
   {
     "title": "Quinze ans de prison et une mesure thérapeutique requis contre le tortionnaire présumé de Moudon",
@@ -116269,10 +116275,7 @@
   },
   {
     "title": "Soundcheck - C’est la mort qui l’a emmenée, Catherine Ringer",
-    "added_at": "2026-09-17T12:16:01.665Z",
-    "removed_at": "2026-09-18T14:13:54.490Z",
-    "duration_minutes": 1557,
-    "duration_str": "1d 1h 57m"
+    "added_at": "2026-09-17T12:16:01.665Z"
   },
   {
     "title": "Élargissement de l’Europe: le défi des Balkans",
@@ -116352,7 +116355,10 @@
   },
   {
     "title": "Les pruneaux suisses n'ont pas bonne mine cette année",
-    "added_at": "2026-09-17T18:16:05.493Z"
+    "added_at": "2026-09-17T18:16:05.493Z",
+    "removed_at": "2026-09-18T21:19:04.185Z",
+    "duration_minutes": 1622,
+    "duration_str": "1d 3h 2m"
   },
   {
     "title": "Une panne électrique bloque toujours le trafic CFF entre Renens et Morges",
@@ -116594,5 +116600,9 @@
   {
     "title": "Les Eglises suisses ont continué de perdre des fidèles en 2025",
     "added_at": "2026-09-18T19:25:40.416Z"
+  },
+  {
+    "title": "Des milliers de personnes manifestent au Kosovo en soutien à l'ex-président Hashim Thaçi",
+    "added_at": "2026-09-18T20:26:09.419Z"
   }
 ]
