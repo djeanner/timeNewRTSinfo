@@ -104168,10 +104168,7 @@
   },
   {
     "title": "suisse:::Pour le canton de Genève, les deux premières heures de la nasse qui a suivi la manifestation No-G7 étaient licites. Il doit encore se déterminer sur la suite",
-    "added_at": "2026-09-04T12:03:40.925Z",
-    "removed_at": "2026-09-05T06:30:13.415Z",
-    "duration_minutes": 1106,
-    "duration_str": "18h 26m"
+    "added_at": "2026-09-04T12:03:40.925Z"
   },
   {
     "title": "sport:::Lyon, le Barça et l’AS Roma parmi les adversaires de Servette en Ligue des championnes",
@@ -106993,7 +106990,10 @@
   },
   {
     "title": "cyber:::Pressions financières et concurrence, les motivations des géants de l’IA derrière le discours alarmiste",
-    "added_at": "2026-09-14T19:38:19.720Z"
+    "added_at": "2026-09-14T19:38:19.720Z",
+    "removed_at": "2026-09-19T07:24:52.759Z",
+    "duration_minutes": 6466,
+    "duration_str": "4d 11h 46m"
   },
   {
     "title": "culture:::Avec «Baignade surveillée», roman sur la culpabilité, Laura Kasischke signe un retour très attendu et réussi",
@@ -107766,7 +107766,10 @@
   },
   {
     "title": "cyber:::Marcel Salathé: «L’IA ne va pas nous tuer, c’est totalement ridicule. Les dirigeants des empires de la tech ont perdu toute crédibilité»",
-    "added_at": "2026-09-17T06:16:00.907Z"
+    "added_at": "2026-09-17T06:16:00.907Z",
+    "removed_at": "2026-09-19T07:24:52.759Z",
+    "duration_minutes": 2948,
+    "duration_str": "2d 1h 8m"
   },
   {
     "title": "monde:::L’Allemagne va-t-elle lâcher l’Ukraine sous la pression de l’AfD et de l’ex-RDA?",
@@ -108248,7 +108251,10 @@
   },
   {
     "title": "suisse:::Pas de censure, mais une pression grandissante: l’enquête sur l’«affaire Protestinfo» épingle les Eglises réformées romandes",
-    "added_at": "2026-09-18T15:14:20.368Z"
+    "added_at": "2026-09-18T15:14:20.368Z",
+    "removed_at": "2026-09-19T07:48:59.212Z",
+    "duration_minutes": 994,
+    "duration_str": "16h 34m"
   },
   {
     "title": "monde:::«Ces deux dernières semaines ont été très, très difficiles pour Donald Trump»: aux Etats-Unis, le président accumule les déconvenues",
@@ -108293,11 +108299,17 @@
   },
   {
     "title": "economie:::Friedrich Merz face à la double crise de l’économie et de la poussée de l’extrême droite",
-    "added_at": "2026-09-18T18:17:42.830Z"
+    "added_at": "2026-09-18T18:17:42.830Z",
+    "removed_at": "2026-09-19T08:10:33.117Z",
+    "duration_minutes": 832,
+    "duration_str": "13h 52m"
   },
   {
     "title": "sciences:::Les mathématiques, «une science éminemment humaine», sont bouleversées par les progrès spectaculaires de l’IA",
-    "added_at": "2026-09-18T18:39:51.160Z"
+    "added_at": "2026-09-18T18:39:51.160Z",
+    "removed_at": "2026-09-19T08:12:58.184Z",
+    "duration_minutes": 813,
+    "duration_str": "13h 33m"
   },
   {
     "title": "suisse:::Les CFF ne veulent pas baisser des prix sur la ligne Genève-Lausanne pour compenser les perturbations",
@@ -108343,5 +108355,23 @@
   {
     "title": "sport:::Le SailGP à Genève, un spectacle au coin de la rue",
     "added_at": "2026-09-19T06:26:04.748Z"
+  },
+  {
+    "title": "sport:::Dalibor Stevanović, entraîneur à succès du Stade Lausanne-Ouchy: «Ce serait un honneur si un club comme le FC Bâle s’intéressait à moi»",
+    "added_at": "2026-09-19T07:24:52.759Z",
+    "removed_at": "2026-09-19T07:41:45.345Z",
+    "duration_minutes": 16,
+    "duration_str": "16m"
+  },
+  {
+    "title": "suisse:::De Denis de Rougemont à Georges Bernanos, comment Genève est redevenue, en 1946, une ville des Lumières",
+    "added_at": "2026-09-19T08:51:31.535Z",
+    "removed_at": "2026-09-19T09:01:05.304Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "suisse:::Dans les épiceries de Caritas, Rudy Geronimo constate chaque jour que «la pauvreté n'est pas que financière»",
+    "added_at": "2026-09-19T09:01:05.304Z"
   }
 ]
