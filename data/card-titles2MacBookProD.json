@@ -108189,7 +108189,10 @@
   },
   {
     "title": "suisse:::«Cet été, on a eu peur qu’il y ait des morts»: machiniste, éducatrice ou infirmier, ces employés ont subi la canicule et iront manifester pour le climat",
-    "added_at": "2026-09-18T11:15:12.580Z"
+    "added_at": "2026-09-18T11:15:12.580Z",
+    "removed_at": "2026-09-19T20:26:01.237Z",
+    "duration_minutes": 1990,
+    "duration_str": "1d 9h 10m"
   },
   {
     "title": "suisse:::A Neuchâtel, Violaine Blétry-de-Montmollin quitte la politique et relance le suspense sur la succession de Laurent Favre au Conseil d’Etat",
@@ -108400,7 +108403,10 @@
   },
   {
     "title": "cyber:::Des clients suisses sont concernés par un vol de données chez Revolut",
-    "added_at": "2026-09-19T10:30:27.811Z"
+    "added_at": "2026-09-19T10:30:27.811Z",
+    "removed_at": "2026-09-19T20:26:01.237Z",
+    "duration_minutes": 595,
+    "duration_str": "9h 55m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Des flammes et de la fumée noire: l'aéroport de Riyad rencontre des «problèmes majeures»",
@@ -108493,10 +108499,25 @@
   },
   {
     "title": "monde:::L'accès à la Maison Blanche interdit à trois médias, conformément à une annonce de Donald Trump",
-    "added_at": "2026-09-19T16:44:02.694Z"
+    "added_at": "2026-09-19T16:44:02.694Z",
+    "removed_at": "2026-09-19T18:20:35.996Z",
+    "duration_minutes": 96,
+    "duration_str": "1h 36m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les houthis revendiquent des attaques menées à Riyad et sur la mer Rouge",
     "added_at": "2026-09-19T17:51:32.070Z"
+  },
+  {
+    "title": "sport:::Au SailGP à Genève, le bateau suisse est toujours dans la course",
+    "added_at": "2026-09-19T18:20:35.996Z"
+  },
+  {
+    "title": "economie:::Avec plus de 125 000 signatures, le référendum contre le retour du nucléaire a largement abouti",
+    "added_at": "2026-09-19T20:26:01.237Z"
+  },
+  {
+    "title": "sciences:::«Les lois de la jungle», épisode 3: Des radeaux de la Méduse dans la forêt équatoriale",
+    "added_at": "2026-09-19T20:26:01.237Z"
   }
 ]
