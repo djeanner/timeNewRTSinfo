@@ -108300,7 +108300,10 @@
   },
   {
     "title": "economie:::Actifs de Nestlé saisis «temporairement» en Russie, une première troublante pour la Suisse",
-    "added_at": "2026-09-18T16:43:27.059Z"
+    "added_at": "2026-09-18T16:43:27.059Z",
+    "removed_at": "2026-09-19T15:51:06.940Z",
+    "duration_minutes": 1387,
+    "duration_str": "23h 7m"
   },
   {
     "title": "monde:::Rachida Dati après Sarkozy, Bayrou et Le Pen… Les procès d’un changement d’époque, pour les citoyens comme pour les magistrats",
@@ -108343,7 +108346,10 @@
   },
   {
     "title": "monde:::Donald Trump annonce avoir obtenu un accord sur la sécurité du Groenland",
-    "added_at": "2026-09-19T05:25:58.334Z"
+    "added_at": "2026-09-19T05:25:58.334Z",
+    "removed_at": "2026-09-19T16:44:02.694Z",
+    "duration_minutes": 678,
+    "duration_str": "11h 18m"
   },
   {
     "title": "cyber:::Hypocrisie, double langage et secrets bien gardés: les géants de l’intelligence artificielle ont semé la panique avec une stratégie diabolique",
@@ -108390,10 +108396,7 @@
   },
   {
     "title": "suisse:::Dans les épiceries de Caritas, Rudy Geronimo constate chaque jour que «la pauvreté n'est pas que financière»",
-    "added_at": "2026-09-19T09:01:05.304Z",
-    "removed_at": "2026-09-19T13:40:54.648Z",
-    "duration_minutes": 279,
-    "duration_str": "4h 39m"
+    "added_at": "2026-09-19T09:01:05.304Z"
   },
   {
     "title": "cyber:::Des clients suisses sont concernés par un vol de données chez Revolut",
@@ -108415,7 +108418,10 @@
   },
   {
     "title": "culture:::«La photographie est devenue l’une des voies principales par lesquelles nous consommons la beauté»: l’artiste Carla Rossi plonge dans l’abysse des standards esthétiques",
-    "added_at": "2026-09-19T11:40:10.694Z"
+    "added_at": "2026-09-19T11:40:10.694Z",
+    "removed_at": "2026-09-19T17:05:43.286Z",
+    "duration_minutes": 325,
+    "duration_str": "5h 25m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Des flammes et de la fumée noire: l'aéroport de Riyad rencontre des «perturbations majeures»",
@@ -108437,7 +108443,10 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Moldavie, Luxembourg, Royaume-Uni… L'Europe est confrontée à la menace grandissante des drones",
-    "added_at": "2026-09-19T12:16:21.901Z"
+    "added_at": "2026-09-19T12:16:21.901Z",
+    "removed_at": "2026-09-19T15:51:06.940Z",
+    "duration_minutes": 214,
+    "duration_str": "3h 34m"
   },
   {
     "title": "suisse:::Ce samedi, Lausanne et Genève donnent le ton d’une nouvelle vague de lutte pour le climat",
@@ -108448,7 +108457,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Berne se dit «profondément préoccupé» par les attaques des houthis visant l'Arabie saoudite",
-    "added_at": "2026-09-19T13:19:19.156Z"
+    "added_at": "2026-09-19T13:19:19.156Z",
+    "removed_at": "2026-09-19T17:51:32.070Z",
+    "duration_minutes": 272,
+    "duration_str": "4h 32m"
   },
   {
     "title": "suisse:::Plus de 10'000 de manifestants à Lausanne et Genève exigent des actions radicales et urgentes contre des «étés à 50 degrés»",
@@ -108478,5 +108490,13 @@
   {
     "title": "suisse:::«Une question de survie»: plus de 15 000 manifestants exigent un sursaut climatique à Lausanne et Genève",
     "added_at": "2026-09-19T14:26:41.443Z"
+  },
+  {
+    "title": "monde:::L'accès à la Maison Blanche interdit à trois médias, conformément à une annonce de Donald Trump",
+    "added_at": "2026-09-19T16:44:02.694Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les houthis revendiquent des attaques menées à Riyad et sur la mer Rouge",
+    "added_at": "2026-09-19T17:51:32.070Z"
   }
 ]
