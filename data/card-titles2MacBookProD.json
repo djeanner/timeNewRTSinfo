@@ -104168,7 +104168,10 @@
   },
   {
     "title": "suisse:::Pour le canton de Genève, les deux premières heures de la nasse qui a suivi la manifestation No-G7 étaient licites. Il doit encore se déterminer sur la suite",
-    "added_at": "2026-09-04T12:03:40.925Z"
+    "added_at": "2026-09-04T12:03:40.925Z",
+    "removed_at": "2026-09-19T11:35:24.652Z",
+    "duration_minutes": 21571,
+    "duration_str": "14d 23h 31m"
   },
   {
     "title": "sport:::Lyon, le Barça et l’AS Roma parmi les adversaires de Servette en Ligue des championnes",
@@ -105810,7 +105813,10 @@
   },
   {
     "title": "monde:::Déçus par Donald Trump, les jeunes hommes pourraient-ils faire basculer les élections de mi-mandat?",
-    "added_at": "2026-09-10T04:16:27.390Z"
+    "added_at": "2026-09-10T04:16:27.390Z",
+    "removed_at": "2026-09-19T11:35:24.652Z",
+    "duration_minutes": 13398,
+    "duration_str": "9d 7h 18m"
   },
   {
     "title": "monde:::Un changement «majeur» et «radical»: Donald Trump souhaite exclure des millions de personnes du recensement, déterminant pour le Congrès",
@@ -107952,7 +107958,10 @@
   },
   {
     "title": "suisse:::A Genève, le sort très incertain d’un budget très déficitaire",
-    "added_at": "2026-09-17T17:32:37.049Z"
+    "added_at": "2026-09-17T17:32:37.049Z",
+    "removed_at": "2026-09-19T11:30:36.527Z",
+    "duration_minutes": 2517,
+    "duration_str": "1d 17h 57m"
   },
   {
     "title": "monde:::«Nous avons imposé nos idées»: en Suède, la défaite trompeuse de l’extrême droite aux élections",
@@ -108346,11 +108355,17 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Cible des Houthis, la capitale saoudienne Riyad secouée par des explosions",
-    "added_at": "2026-09-19T05:59:37.991Z"
+    "added_at": "2026-09-19T05:59:37.991Z",
+    "removed_at": "2026-09-19T11:28:11.367Z",
+    "duration_minutes": 328,
+    "duration_str": "5h 28m"
   },
   {
     "title": "monde:::A Berlin, capitale «pauvre mais sexy» devenue bien trop chère, l’enjeu du prix des loyers au cœur des élections",
-    "added_at": "2026-09-19T06:11:39.911Z"
+    "added_at": "2026-09-19T06:11:39.911Z",
+    "removed_at": "2026-09-19T11:47:25.985Z",
+    "duration_minutes": 335,
+    "duration_str": "5h 35m"
   },
   {
     "title": "sport:::Le SailGP à Genève, un spectacle au coin de la rue",
@@ -108373,5 +108388,43 @@
   {
     "title": "suisse:::Dans les épiceries de Caritas, Rudy Geronimo constate chaque jour que «la pauvreté n'est pas que financière»",
     "added_at": "2026-09-19T09:01:05.304Z"
+  },
+  {
+    "title": "cyber:::Des clients suisses sont concernés par un vol de données chez Revolut",
+    "added_at": "2026-09-19T10:30:27.811Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Des flammes et de la fumée noire: l'aéroport de Riyad rencontre des «problèmes majeures»",
+    "added_at": "2026-09-19T11:28:11.367Z",
+    "removed_at": "2026-09-19T11:45:04.012Z",
+    "duration_minutes": 16,
+    "duration_str": "16m"
+  },
+  {
+    "title": "suisse:::Ce samedi, Lausanne et Genève donnent le ton d'une nouvelle vague de lutte pour le climat",
+    "added_at": "2026-09-19T11:35:24.652Z"
+  },
+  {
+    "title": "culture:::«La photographie est devenue l’une des voies principales par lesquelles nous consommons la beauté»: l’artiste Carla Rossi plonge dans l’abysse des standards esthétiques",
+    "added_at": "2026-09-19T11:40:10.694Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Des flammes et de la fumée noire: l'aéroport de Riyad rencontre des «perturbations majeures»",
+    "added_at": "2026-09-19T11:45:04.012Z"
+  },
+  {
+    "title": "monde:::La Pologne se prépare dans l’urgence à des bombardements russes: «Il n’y a pas d’abris ici!»",
+    "added_at": "2026-09-19T11:47:25.985Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Après la saisie d'actifs européens, Dmitri Medvedev affirme que l’Europe ne comprend que le langage de la «force»",
+    "added_at": "2026-09-19T11:47:25.985Z",
+    "removed_at": "2026-09-19T12:16:21.901Z",
+    "duration_minutes": 28,
+    "duration_str": "28m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Moldavie, Luxembourg, Royaume-Uni… L'Europe est confrontée à la menace grandissante des drones",
+    "added_at": "2026-09-19T12:16:21.901Z"
   }
 ]
