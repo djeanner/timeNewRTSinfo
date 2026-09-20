@@ -116609,7 +116609,10 @@
   },
   {
     "title": "Des drones ukrainiens visent Moscou pour le premier jour des législatives",
-    "added_at": "2026-09-18T09:53:24.037Z"
+    "added_at": "2026-09-18T09:53:24.037Z",
+    "removed_at": "2026-09-20T12:45:50.429Z",
+    "duration_minutes": 3052,
+    "duration_str": "2d 2h 52m"
   },
   {
     "title": "Le projet fédéral pour gérer les denrées alimentaires contaminées aux PFAS attaqué de plusieurs côtés",
@@ -116863,10 +116866,7 @@
   },
   {
     "title": "Les Houthis frappent Riyad, une première depuis la reprise du conflit",
-    "added_at": "2026-09-19T12:06:45.332Z",
-    "removed_at": "2026-09-20T06:44:08.920Z",
-    "duration_minutes": 1117,
-    "duration_str": "18h 37m"
+    "added_at": "2026-09-19T12:06:45.332Z"
   },
   {
     "title": "Un Genevois est soupçonné d’avoir drogué, agressé sexuellement et filmé son épouse pendant plusieurs années",
@@ -117040,14 +117040,14 @@
   },
   {
     "title": "A Blatten, 150 mille litres de mazout se trouveraient encore sous les décombres",
-    "added_at": "2026-09-20T08:15:48.549Z"
+    "added_at": "2026-09-20T08:15:48.549Z",
+    "removed_at": "2026-09-20T12:16:42.740Z",
+    "duration_minutes": 240,
+    "duration_str": "4h"
   },
   {
     "title": "Forum (vidéo) - Présenté par Renaud Malik et Coralie Claude",
-    "added_at": "2026-09-20T08:15:48.549Z",
-    "removed_at": "2026-09-20T09:18:23.478Z",
-    "duration_minutes": 62,
-    "duration_str": "1h 2m"
+    "added_at": "2026-09-20T08:15:48.549Z"
   },
   {
     "title": "'Prisonnière 951', une série déchirante qui raconte l'affaire Ratcliffe ★★★★★",
@@ -117072,5 +117072,9 @@
   {
     "title": "Apprentie ébéniste à la CGN, elle reproduit une pièce ancienne du bateau La Suisse",
     "added_at": "2026-09-20T10:04:07.004Z"
+  },
+  {
+    "title": "Dès 2029, la Confédération devrait retirer son aide au développement à 13 pays",
+    "added_at": "2026-09-20T12:45:50.429Z"
   }
 ]
