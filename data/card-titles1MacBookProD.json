@@ -117202,7 +117202,10 @@
   },
   {
     "title": "Donald Trump rentre à la Maison Blanche en pleine intensification des hostilités au Moyen-Orient",
-    "added_at": "2026-09-20T06:29:33.052Z"
+    "added_at": "2026-09-20T06:29:33.052Z",
+    "removed_at": "2026-09-22T17:35:59.318Z",
+    "duration_minutes": 3546,
+    "duration_str": "2d 11h 6m"
   },
   {
     "title": "Une attaque massive de drones perturbe le dernier jour des élections législatives russes",
@@ -117297,7 +117300,10 @@
   },
   {
     "title": "Dès 2029, la Confédération devrait retirer son aide au développement à 13 pays",
-    "added_at": "2026-09-20T12:45:50.429Z"
+    "added_at": "2026-09-20T12:45:50.429Z",
+    "removed_at": "2026-09-22T18:48:18.125Z",
+    "duration_minutes": 3242,
+    "duration_str": "2d 6h 2m"
   },
   {
     "title": "La série \"Placée\" de Léa Fazer primée au festival de la Fiction de La Rochelle",
@@ -117308,7 +117314,10 @@
   },
   {
     "title": "Le concept de ville éponge pour mieux gérer les précipitations et les sécheresses",
-    "added_at": "2026-09-20T14:32:01.324Z"
+    "added_at": "2026-09-20T14:32:01.324Z",
+    "removed_at": "2026-09-22T16:31:01.836Z",
+    "duration_minutes": 2999,
+    "duration_str": "2d 1h 59m"
   },
   {
     "title": "Dans le Triangle d'or, l'État Wa délaisse l'héroïne et se tourne vers les drogues de synthèse",
@@ -117330,11 +117339,17 @@
   },
   {
     "title": "En démonstration, Marlen Reusser conserve son titre en contre-la-montre!",
-    "added_at": "2026-09-20T15:54:11.991Z"
+    "added_at": "2026-09-20T15:54:11.991Z",
+    "removed_at": "2026-09-22T18:48:18.125Z",
+    "duration_minutes": 3054,
+    "duration_str": "2d 2h 54m"
   },
   {
     "title": "Le festival Label Suisse a attiré 67'000 spectateurs à Lausanne",
-    "added_at": "2026-09-20T16:11:01.378Z"
+    "added_at": "2026-09-20T16:11:01.378Z",
+    "removed_at": "2026-09-22T16:40:39.665Z",
+    "duration_minutes": 2909,
+    "duration_str": "2d 29m"
   },
   {
     "title": "Surclassé par Lugano, Lausanne enchaîne un 8e match sans victoire",
@@ -117349,11 +117364,17 @@
   },
   {
     "title": "Les manifestations pour le climat ont réuni des milliers de personnes à Lausanne, Genève et Fribourg",
-    "added_at": "2026-09-20T17:45:07.807Z"
+    "added_at": "2026-09-20T17:45:07.807Z",
+    "removed_at": "2026-09-22T16:38:14.218Z",
+    "duration_minutes": 2813,
+    "duration_str": "1d 22h 53m"
   },
   {
     "title": "Les chiens ont eu droit à la baignade en piscine dans plusieurs bassins zurichois",
-    "added_at": "2026-09-20T18:09:12.493Z"
+    "added_at": "2026-09-20T18:09:12.493Z",
+    "removed_at": "2026-09-22T16:33:26.701Z",
+    "duration_minutes": 2784,
+    "duration_str": "1d 22h 24m"
   },
   {
     "title": "La sécheresse devrait se prolonger ces prochaines semaines, au grand dam des agriculteurs",
@@ -117704,7 +117725,10 @@
   },
   {
     "title": "Les Bois (JU) n’a plus d’exécutif après la démission de tous ses membres",
-    "added_at": "2026-09-22T14:18:25.385Z"
+    "added_at": "2026-09-22T14:18:25.385Z",
+    "removed_at": "2026-09-22T18:19:23.664Z",
+    "duration_minutes": 240,
+    "duration_str": "4h"
   },
   {
     "title": "Le Grand Conseil valide le choix du logiciel Epic pour les hôpitaux vaudois après un long débat",
@@ -117733,5 +117757,37 @@
   {
     "title": "Le Conseil national veut renforcer la Lex Koller",
     "added_at": "2026-09-22T15:59:29.253Z"
+  },
+  {
+    "title": "Devant l'ONU, Donald Trump vise tour à tour la CPI, l'Iran ou Cuba",
+    "added_at": "2026-09-22T16:31:01.836Z"
+  },
+  {
+    "title": "Sergio Ermotti s'élève encore une fois contre le durcissement des conditions d'UBS",
+    "added_at": "2026-09-22T16:33:26.701Z"
+  },
+  {
+    "title": "Un réseau de trafiquants employant des dizaines de mineurs démantelé à Fribourg",
+    "added_at": "2026-09-22T16:38:14.218Z"
+  },
+  {
+    "title": "À Fribourg, une maison d'accueil aide les victimes à se reconstruire",
+    "added_at": "2026-09-22T16:40:39.665Z"
+  },
+  {
+    "title": "Floraison exceptionnelle dans le désert d'Atacama après les pluies d'El Niño",
+    "added_at": "2026-09-22T17:35:59.318Z"
+  },
+  {
+    "title": "Prospera: une ville privée avec ses propres lois",
+    "added_at": "2026-09-22T18:19:23.664Z"
+  },
+  {
+    "title": "Le projet Solar Express de la Confédération peine à tenir ses promesses",
+    "added_at": "2026-09-22T18:48:18.125Z"
+  },
+  {
+    "title": "Erwin Sperisen saisit à nouveau la CEDH contre la Suisse",
+    "added_at": "2026-09-22T18:48:18.125Z"
   }
 ]
