@@ -109175,7 +109175,10 @@
   },
   {
     "title": "suisse:::Genève obtient son congé parental étendu après une révision de la loi fédérale",
-    "added_at": "2026-09-22T11:03:03.652Z"
+    "added_at": "2026-09-22T11:03:03.652Z",
+    "removed_at": "2026-09-22T20:05:38.850Z",
+    "duration_minutes": 542,
+    "duration_str": "9h 2m"
   },
   {
     "title": "suisse:::Le National adopte un durcissement de la Lex Koller pour limiter l’achat de logements suisses par des étrangers",
@@ -109228,7 +109231,10 @@
   },
   {
     "title": "suisse:::Le Grand Conseil vaudois valide le choix du logiciel américain Epic pour les hôpitaux du canton",
-    "added_at": "2026-09-22T14:32:49.357Z"
+    "added_at": "2026-09-22T14:32:49.357Z",
+    "removed_at": "2026-09-22T19:31:59.449Z",
+    "duration_minutes": 299,
+    "duration_str": "4h 59m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – A la tribune de l’ONU, Donald Trump se livre à une dénonciation en règle du régime iranien",
@@ -109288,10 +109294,7 @@
   },
   {
     "title": "suisse:::La candidature de Rebecca Joly au Conseil d’Etat vaudois ne fait pas l’unanimité chez les Vert·e·s",
-    "added_at": "2026-09-22T17:40:48.771Z",
-    "removed_at": "2026-09-22T18:09:43.669Z",
-    "duration_minutes": 28,
-    "duration_str": "28m"
+    "added_at": "2026-09-22T17:40:48.771Z"
   },
   {
     "title": "sport:::Melchie Dumornay, la footballeuse qui monte: «J’aime surprendre»",
@@ -109312,5 +109315,13 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump annonce qu’il a renoué le dialogue avec les Iraniens à New York",
     "added_at": "2026-09-22T18:36:12.141Z"
+  },
+  {
+    "title": "culture:::Troie, détruite il y a trente-trois siècles, est pour l’écrivain Olivier Rolin la mère de toutes les villes suppliciées, jusqu’à Hiroshima, Marioupol ou Gaza",
+    "added_at": "2026-09-22T20:05:38.850Z"
+  },
+  {
+    "title": "monde:::Washington, Nuuk et Copenhague ont signé à New York l’accord sur le Groenland",
+    "added_at": "2026-09-22T21:08:10.512Z"
   }
 ]
