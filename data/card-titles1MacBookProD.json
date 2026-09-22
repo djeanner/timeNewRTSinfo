@@ -116965,7 +116965,10 @@
   },
   {
     "title": "Une opération humanitaire suisse a exfiltré d'anciens membres de la SS au Brésil",
-    "added_at": "2026-09-19T10:20:46.895Z"
+    "added_at": "2026-09-19T10:20:46.895Z",
+    "removed_at": "2026-09-22T07:16:32.089Z",
+    "duration_minutes": 4135,
+    "duration_str": "2d 20h 55m"
   },
   {
     "title": "Nathalie Froehlich et Hook en colère contre l'époque dans la création 'Borderline' à Label Suisse",
@@ -117046,7 +117049,10 @@
   },
   {
     "title": "Que récompensent les Prix suisses de musique remis ce samedi soir à Lausanne?",
-    "added_at": "2026-09-19T15:14:58.641Z"
+    "added_at": "2026-09-19T15:14:58.641Z",
+    "removed_at": "2026-09-22T07:33:26.699Z",
+    "duration_minutes": 3858,
+    "duration_str": "2d 16h 18m"
   },
   {
     "title": "L'e-banking de Postfinance est tombé en panne et affichait des soldes de comptes à 0",
@@ -117085,7 +117091,10 @@
   },
   {
     "title": "L'e-banking de PostFinance est tombé en panne et affichait des soldes de comptes à 0",
-    "added_at": "2026-09-19T19:23:23.582Z"
+    "added_at": "2026-09-19T19:23:23.582Z",
+    "removed_at": "2026-09-22T05:32:53.922Z",
+    "duration_minutes": 3489,
+    "duration_str": "2d 10h 9m"
   },
   {
     "title": "Après sa victoire en Saxe, l'AfD a le vent dans le dos à Berlin et dans le Mecklembourg",
@@ -117104,11 +117113,17 @@
   },
   {
     "title": "Des opposants à l'avortement défilent à Zurich accompagnés d'un gros dispositif policier",
-    "added_at": "2026-09-19T21:19:06.582Z"
+    "added_at": "2026-09-19T21:19:06.582Z",
+    "removed_at": "2026-09-22T06:49:54.111Z",
+    "duration_minutes": 3450,
+    "duration_str": "2d 9h 30m"
   },
   {
     "title": "Responsable de Valeurs actuelles, Charles Sapin ne sera plus sur France Inter pour son édito contesté",
-    "added_at": "2026-09-19T21:43:14.903Z"
+    "added_at": "2026-09-19T21:43:14.903Z",
+    "removed_at": "2026-09-22T07:57:29.256Z",
+    "duration_minutes": 3494,
+    "duration_str": "2d 10h 14m"
   },
   {
     "title": "Le peuple se prononcera sur la construction de nouvelles centrales nucléaires",
@@ -117171,7 +117186,10 @@
   },
   {
     "title": "Les Houthis frappent Ryad, une première depuis la reprise du conflit",
-    "added_at": "2026-09-20T06:44:08.920Z"
+    "added_at": "2026-09-20T06:44:08.920Z",
+    "removed_at": "2026-09-22T05:40:07.062Z",
+    "duration_minutes": 2815,
+    "duration_str": "1d 22h 55m"
   },
   {
     "title": "Narcotrafic: une frappe américaine tue quatre personnes dans les Caraïbes",
@@ -117254,7 +117272,10 @@
   },
   {
     "title": "La série \"Placée\" de Léa Fazer primée au Festival de la Fiction de La Rochelle",
-    "added_at": "2026-09-20T15:30:02.792Z"
+    "added_at": "2026-09-20T15:30:02.792Z",
+    "removed_at": "2026-09-22T07:45:27.128Z",
+    "duration_minutes": 2415,
+    "duration_str": "1d 16h 15m"
   },
   {
     "title": "En démonstration, Marlen Reusser conserve son titre en contre-la-montre!",
@@ -117404,7 +117425,10 @@
   },
   {
     "title": "Les ambitions du HC Bienne: interview de Stéphanie Mérillat",
-    "added_at": "2026-09-21T12:18:39.787Z"
+    "added_at": "2026-09-21T12:18:39.787Z",
+    "removed_at": "2026-09-22T06:21:03.506Z",
+    "duration_minutes": 1082,
+    "duration_str": "18h 2m"
   },
   {
     "title": "Le parti de Vladimir Poutine remporte un nombre record de 355 sièges sur 450 à la Douma",
@@ -117517,5 +117541,33 @@
   {
     "title": "Le moustique tigre fait des ravages à Genève, mais \"il va falloir vivre avec\"",
     "added_at": "2026-09-22T04:45:54.467Z"
+  },
+  {
+    "title": "Comprendre les écarts de prix des montures de lunettes",
+    "added_at": "2026-09-22T05:32:53.922Z"
+  },
+  {
+    "title": "Une infection pulmonaire nécessite l'abattage de 1500 porcs",
+    "added_at": "2026-09-22T05:40:07.062Z"
+  },
+  {
+    "title": "Pour ses vingt ans, le groupe a cappella Voxset offre un show immersif dans un cube itinérant",
+    "added_at": "2026-09-22T06:49:54.111Z"
+  },
+  {
+    "title": "Dans le Pacifique, El Niño atteint des records d'intensité et continue d'inquiéter",
+    "added_at": "2026-09-22T07:16:32.089Z"
+  },
+  {
+    "title": "L'alcool est à éviter par les futurs parents avant même la conception",
+    "added_at": "2026-09-22T07:33:26.699Z"
+  },
+  {
+    "title": "La série 'Placée' de Léa Fazer primée au Festival de la Fiction de La Rochelle",
+    "added_at": "2026-09-22T07:45:27.128Z"
+  },
+  {
+    "title": "Les Etats-Unis sont-ils toujours aux côtés de l'Arabie saoudite contre les Houthis?",
+    "added_at": "2026-09-22T07:57:29.256Z"
   }
 ]
