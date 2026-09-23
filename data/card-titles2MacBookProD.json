@@ -107448,7 +107448,10 @@
   },
   {
     "title": "monde:::«Elle a sauvé les élections de mi-mandat»: Les Etats-Unis délivrés après que la Cour suprême a préservé le vote par correspondance et évité le chaos",
-    "added_at": "2026-09-16T04:12:33.648Z"
+    "added_at": "2026-09-16T04:12:33.648Z",
+    "removed_at": "2026-09-23T14:26:19.894Z",
+    "duration_minutes": 10693,
+    "duration_str": "7d 10h 13m"
   },
   {
     "title": "suisse:::A Berne, la lutte contre la pénurie d’enseignants pourrait passer par un changement constitutionnel",
@@ -108279,7 +108282,10 @@
   },
   {
     "title": "monde:::«Ces deux dernières semaines ont été très, très difficiles pour Donald Trump»: aux Etats-Unis, le président accumule les déconvenues",
-    "added_at": "2026-09-18T15:38:29.818Z"
+    "added_at": "2026-09-18T15:38:29.818Z",
+    "removed_at": "2026-09-23T14:38:21.454Z",
+    "duration_minutes": 7139,
+    "duration_str": "4d 22h 59m"
   },
   {
     "title": "economie:::Entre Glencore et Radiant, des tensions croissantes sur fond de documents falsifiés",
@@ -109176,7 +109182,10 @@
   },
   {
     "title": "economie:::La Banque nationale suisse va-t-elle augmenter ses taux d'intérêt? Avant la décision attendue jeudi, posez vos questions à nos spécialistes",
-    "added_at": "2026-09-22T09:43:29.262Z"
+    "added_at": "2026-09-22T09:43:29.262Z",
+    "removed_at": "2026-09-23T14:23:54.645Z",
+    "duration_minutes": 1720,
+    "duration_str": "1d 4h 40m"
   },
   {
     "title": "culture:::A la découverte d’une Lausanne de verre et en noir et blanc au Musée historique de la ville",
@@ -109282,7 +109291,10 @@
   },
   {
     "title": "suisse:::A Genève, le procès qui révèle les relations coupables d’un moniteur et influenceur charismatique",
-    "added_at": "2026-09-22T16:01:50.046Z"
+    "added_at": "2026-09-22T16:01:50.046Z",
+    "removed_at": "2026-09-23T15:04:46.661Z",
+    "duration_minutes": 1382,
+    "duration_str": "23h 2m"
   },
   {
     "title": "monde:::L’électorat hispanique, cet imprévisible «géant» dont le cœur ne bat plus pour Donald Trump à la veille des «midterms»",
@@ -109448,7 +109460,10 @@
   },
   {
     "title": "suisse:::Le Conseil des Etats veut qu'UBS couvre 90% de ses filiales étrangères en fonds propres",
-    "added_at": "2026-09-23T09:44:25.023Z"
+    "added_at": "2026-09-23T09:44:25.023Z",
+    "removed_at": "2026-09-23T16:09:43.785Z",
+    "duration_minutes": 385,
+    "duration_str": "6h 25m"
   },
   {
     "title": "economie:::Ringier supprime 14 postes en Suisse romande",
@@ -109459,11 +109474,17 @@
   },
   {
     "title": "culture:::«Et Dieu créa la femme. Puis les femmes créèrent Lucas Vuilleumier»: au Théâtre Boulimie, le journaliste et humoriste rit de ses égéries",
-    "added_at": "2026-09-23T10:49:28.817Z"
+    "added_at": "2026-09-23T10:49:28.817Z",
+    "removed_at": "2026-09-23T16:02:30.362Z",
+    "duration_minutes": 313,
+    "duration_str": "5h 13m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les houthis menacent de s'en prendre à des intérêts américains si Washington intervient militairement au Yémen",
-    "added_at": "2026-09-23T11:20:52.216Z"
+    "added_at": "2026-09-23T11:20:52.216Z",
+    "removed_at": "2026-09-23T14:57:33.727Z",
+    "duration_minutes": 216,
+    "duration_str": "3h 36m"
   },
   {
     "title": "sport:::Au LHC, Ewan Huet patine dans les traces de Cristobal: pourquoi le poste de gardien de but se transmet si souvent de père en fils",
@@ -109472,5 +109493,51 @@
   {
     "title": "monde:::«La trêve devrait être préservée»: une Chine prudente à l’heure du sommet entre Xi Jinping et Donald Trump",
     "added_at": "2026-09-23T13:06:43.795Z"
+  },
+  {
+    "title": "suisse:::A Genève, verdict nuancé pour la star des moniteurs qui couchait avec des filles de 14 ans",
+    "added_at": "2026-09-23T14:23:54.645Z"
+  },
+  {
+    "title": "culture:::Thélyson Orélien accusé par un obscur groupuscule d’avoir écrit son roman avec l’aide de l’IA",
+    "added_at": "2026-09-23T14:26:19.894Z"
+  },
+  {
+    "title": "monde:::A six semaines des «midterms», les démocrates gagnent du terrain dans les sondages",
+    "added_at": "2026-09-23T14:38:21.454Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le président iranien à l’ONU: l’Iran n’a «jamais été un agresseur»",
+    "added_at": "2026-09-23T14:57:33.727Z",
+    "removed_at": "2026-09-23T15:45:38.119Z",
+    "duration_minutes": 48,
+    "duration_str": "48m"
+  },
+  {
+    "title": "suisse:::À Lausanne, les huit éoliennes des Bois du Jorat franchissent une nouvelle étape judiciaire capitale et pourraient voir le jour en 2029",
+    "added_at": "2026-09-23T15:04:46.661Z",
+    "removed_at": "2026-09-23T16:07:18.820Z",
+    "duration_minutes": 62,
+    "duration_str": "1h 2m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le président iranien à l’ONU: l’Iran «n’a jamais été un agresseur»",
+    "added_at": "2026-09-23T15:45:38.119Z"
+  },
+  {
+    "title": "economie:::«Ce choix politique n’est pas un compromis», estime UBS après le vote au Conseil des Etats sur ses fonds propres",
+    "added_at": "2026-09-23T15:48:03.269Z"
+  },
+  {
+    "title": "monde:::Un rempart gaulois découvert près de Notre-Dame confirmerait que Lutèce se situait bien sur l’île de la Cité (et pas à Nanterre)",
+    "added_at": "2026-09-23T16:02:30.362Z"
+  },
+  {
+    "title": "suisse:::A Lausanne, les huit éoliennes des bois du Jorat franchissent une nouvelle étape judiciaire capitale et pourraient voir le jour en 2029",
+    "added_at": "2026-09-23T16:07:18.820Z"
+  },
+  {
+    "title": "suisse:::Défaite pour UBS: le Conseil des Etats veut une couverture des filiales étrangères couverte par 90% de fonds propres",
+    "added_at": "2026-09-23T16:09:43.785Z"
   }
 ]
