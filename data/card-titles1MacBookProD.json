@@ -11643,10 +11643,7 @@
   },
   {
     "title": "Couleurs locales",
-    "added_at": "2025-08-28T06:01:32.713Z",
-    "removed_at": "2026-09-23T07:43:53.035Z",
-    "duration_minutes": 563142,
-    "duration_str": "391d 1h 42m"
+    "added_at": "2025-08-28T06:01:32.713Z"
   },
   {
     "title": "Les entreprises suisses à la conquête du marché irakien",
@@ -110715,10 +110712,7 @@
   },
   {
     "title": "La Matinale - Présentée par Valérie Hauert",
-    "added_at": "2026-09-02T12:26:54.197Z",
-    "removed_at": "2026-09-04T09:19:09.468Z",
-    "duration_minutes": 2692,
-    "duration_str": "1d 20h 52m"
+    "added_at": "2026-09-02T12:26:54.197Z"
   },
   {
     "title": "Malbouffe: quand l'agroalimentaire attaque les Etats en justice",
@@ -117366,7 +117360,10 @@
   },
   {
     "title": "L'AfD en forte progression à Berlin et dans le Mecklembourg, mais Die Linke en tête dans la capitale",
-    "added_at": "2026-09-20T16:32:42.979Z"
+    "added_at": "2026-09-20T16:32:42.979Z",
+    "removed_at": "2026-09-23T09:05:59.986Z",
+    "duration_minutes": 3873,
+    "duration_str": "2d 16h 33m"
   },
   {
     "title": "Les manifestations pour le climat ont réuni des milliers de personnes à Lausanne, Genève et Fribourg",
@@ -117384,7 +117381,10 @@
   },
   {
     "title": "La sécheresse devrait se prolonger ces prochaines semaines, au grand dam des agriculteurs",
-    "added_at": "2026-09-20T18:33:33.604Z"
+    "added_at": "2026-09-20T18:33:33.604Z",
+    "removed_at": "2026-09-23T09:08:20.903Z",
+    "duration_minutes": 3754,
+    "duration_str": "2d 14h 34m"
   },
   {
     "title": "Le parti de Vladimir Poutine donné vainqueur des premières élections depuis la guerre en Ukraine",
@@ -117452,7 +117452,10 @@
   },
   {
     "title": "Les restaurateurs vaudois contestent le remboursement jugé disproportionné des aides Covid",
-    "added_at": "2026-09-21T05:04:43.361Z"
+    "added_at": "2026-09-21T05:04:43.361Z",
+    "removed_at": "2026-09-23T09:13:12.839Z",
+    "duration_minutes": 3128,
+    "duration_str": "2d 4h 8m"
   },
   {
     "title": "Une nouvelle espèce de chat sauvage découverte en Bolivie",
@@ -117488,7 +117491,10 @@
   },
   {
     "title": "Migros envisagerait de réduire le nombre de ses coopératives régionales",
-    "added_at": "2026-09-21T08:27:21.780Z"
+    "added_at": "2026-09-21T08:27:21.780Z",
+    "removed_at": "2026-09-23T08:44:17.279Z",
+    "duration_minutes": 2896,
+    "duration_str": "2d 16m"
   },
   {
     "title": "Granit Xhaka manque le rassemblement de la Nati après l'aveu d'un faux certificat Covid",
@@ -117835,7 +117841,10 @@
   },
   {
     "title": "Le nombre exact de F35 livrés à la Suisse dépendra de l’évolution des coûts",
-    "added_at": "2026-09-22T20:15:12.815Z"
+    "added_at": "2026-09-22T20:15:12.815Z",
+    "removed_at": "2026-09-23T08:49:03.566Z",
+    "duration_minutes": 753,
+    "duration_str": "12h 33m"
   },
   {
     "title": "Zéro déchet et tout à vélo, les aliens genevois de la livraison de repas",
@@ -117894,5 +117903,28 @@
   {
     "title": "Accusé d'avoir eu recours à l'IA, Thélyson Orélien, révélation de la rentrée littéraire, se défend",
     "added_at": "2026-09-23T07:46:19.877Z"
+  },
+  {
+    "title": "Le jazz et la spiritualité de John Coltrane continuent d'inspirer, un siècle après sa naissance",
+    "added_at": "2026-09-23T08:44:17.279Z"
+  },
+  {
+    "title": "L'éditeur Ringier va supprimer 14 postes à Lausanne, dont six postes de journalistes",
+    "added_at": "2026-09-23T09:03:32.944Z"
+  },
+  {
+    "title": "Erich Dürst sur la guerre en Ukraine: \"La population a été extrêmement ouverte et bienveillante\"",
+    "added_at": "2026-09-23T09:08:20.903Z"
+  },
+  {
+    "title": "\"Chunk\" défend son titre d'ours brun le plus gras d'Alaska lors d'une élection en ligne",
+    "added_at": "2026-09-23T09:13:12.839Z",
+    "removed_at": "2026-09-23T09:32:25.019Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
+  },
+  {
+    "title": "'Chunk' défend son titre d'ours brun le plus gras d'Alaska lors d'une élection en ligne",
+    "added_at": "2026-09-23T09:32:25.019Z"
   }
 ]
