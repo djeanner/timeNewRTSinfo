@@ -117769,7 +117769,10 @@
   },
   {
     "title": "Les Etats-Unis sont-ils toujours aux côtés de l'Arabie saoudite contre les Houthis?",
-    "added_at": "2026-09-22T07:57:29.256Z"
+    "added_at": "2026-09-22T07:57:29.256Z",
+    "removed_at": "2026-09-24T02:45:29.720Z",
+    "duration_minutes": 2568,
+    "duration_str": "1d 18h 48m"
   },
   {
     "title": "Forum (vidéo) - Présenté par Mehmet Gultas et Julien Bangerter",
@@ -118063,7 +118066,10 @@
   },
   {
     "title": "Reportage dans les usines Lockheed Martin de Fort Worth, près de Dallas, qui construisent les F-35",
-    "added_at": "2026-09-23T14:14:20.534Z"
+    "added_at": "2026-09-23T14:14:20.534Z",
+    "removed_at": "2026-09-24T01:52:36.177Z",
+    "duration_minutes": 698,
+    "duration_str": "11h 38m"
   },
   {
     "title": "UBS fait la moue après le vote du Conseil des Etats sur ses fonds propres",
@@ -118129,10 +118135,7 @@
   },
   {
     "title": "Comment savoir quoi faire de sa vie ?",
-    "added_at": "2026-09-23T18:20:01.722Z",
-    "removed_at": "2026-09-24T00:21:22.139Z",
-    "duration_minutes": 361,
-    "duration_str": "6h 1m"
+    "added_at": "2026-09-23T18:20:01.722Z"
   },
   {
     "title": "Quand une élue verte finlandaise pousse la Suisse vers le nucléaire",
@@ -118157,5 +118160,9 @@
   {
     "title": "La pépite du football suisse Johan Manzambi de retour aux affaires avec la Nati",
     "added_at": "2026-09-24T00:18:56.880Z"
+  },
+  {
+    "title": "L'Australie accuse un agent autonome d'OpenAI d'avoir piraté un site internet du gouvernement",
+    "added_at": "2026-09-24T02:45:29.720Z"
   }
 ]
