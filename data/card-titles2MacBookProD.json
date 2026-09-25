@@ -109873,7 +109873,10 @@
   },
   {
     "title": "suisse:::Système de milice en crise: dans le canton de Vaud, deux communes sur trois ont perdu un membre de leur municipalité en quatre ans",
-    "added_at": "2026-09-24T11:44:58.977Z"
+    "added_at": "2026-09-24T11:44:58.977Z",
+    "removed_at": "2026-09-25T13:39:32.989Z",
+    "duration_minutes": 1554,
+    "duration_str": "1d 1h 54m"
   },
   {
     "title": "economie:::Quand l’IA et l’«open science» servent à huiler les rouages de l’innovation horlogère",
@@ -109952,9 +109955,9 @@
   {
     "title": "sciences:::Des «supermâles» dopés au chromosome Y ont éradiqué un poisson invasif dans des rivières de l’Idaho",
     "added_at": "2026-09-24T18:17:58.422Z",
-    "removed_at": "2026-09-25T11:19:35.941Z",
-    "duration_minutes": 1021,
-    "duration_str": "17h 1m"
+    "removed_at": "2026-09-25T12:19:58.686Z",
+    "duration_minutes": 1082,
+    "duration_str": "18h 2m"
   },
   {
     "title": "culture:::Léon Phal, de souffle et d’esprit: une odyssée jazz aux portes du paradis",
@@ -110015,9 +110018,9 @@
   {
     "title": "monde:::Mgr Etienne Guillet, évêque de Saint-Denis qui reçoit le pape: «Ici, les habitants sont peut-être pauvres économiquement mais ils sont riches de leur sens de l’accueil»",
     "added_at": "2026-09-25T04:20:42.426Z",
-    "removed_at": "2026-09-25T11:19:35.941Z",
-    "duration_minutes": 418,
-    "duration_str": "6h 58m"
+    "removed_at": "2026-09-25T13:29:58.441Z",
+    "duration_minutes": 549,
+    "duration_str": "9h 9m"
   },
   {
     "title": "sciences:::A vos votes: l’élection de l’ours brun le plus gras d’Alaska est de retour",
@@ -110104,5 +110107,24 @@
   {
     "title": "culture:::L'essayiste français Samuel Fitoussi affirme être derrière le compte «Balance ton Claude», à l'origine de l'affaire Thélyson Orélien",
     "added_at": "2026-09-25T11:14:48.222Z"
+  },
+  {
+    "title": "monde:::Nicolas Demorand, journaliste star de France Inter, fait son grand retour en radio avec l'émission «Recto/Verso»",
+    "added_at": "2026-09-25T13:29:58.441Z",
+    "removed_at": "2026-09-25T13:56:25.513Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "culture:::Affaire Thélyson Orélien: les écrivains utilisent l’IA. Et alors?",
+    "added_at": "2026-09-25T13:37:11.988Z"
+  },
+  {
+    "title": "suisse:::Le canton de Vaud face au grand défi du vieillissement: le nombre de seniors dépassera celui des jeunes dès 2037",
+    "added_at": "2026-09-25T13:39:32.989Z"
+  },
+  {
+    "title": "monde:::Nicolas Demorand, de retour sur France Inter avec «Recto/Verso», devient le phénix de la maladie mentale",
+    "added_at": "2026-09-25T13:56:25.513Z"
   }
 ]
