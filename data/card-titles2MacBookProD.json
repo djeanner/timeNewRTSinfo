@@ -105180,10 +105180,7 @@
   },
   {
     "title": "sport:::La Ligue des champions concentre toujours plus d’intérêt, d’argent et de talent",
-    "added_at": "2026-09-08T07:34:03.249Z",
-    "removed_at": "2026-09-09T01:31:35.132Z",
-    "duration_minutes": 1077,
-    "duration_str": "17h 57m"
+    "added_at": "2026-09-08T07:34:03.249Z"
   },
   {
     "title": "economie:::En graphiques – PISA 2025: le niveau scolaire suisse continue de décliner, mais reste supérieur aux pays voisins",
@@ -108986,10 +108983,7 @@
   },
   {
     "title": "sport:::Granit Xhaka en retrait de la Nati après avoir admis s’être procuré un faux certificat covid",
-    "added_at": "2026-09-21T17:16:18.053Z",
-    "removed_at": "2026-09-22T04:12:14.943Z",
-    "duration_minutes": 655,
-    "duration_str": "10h 55m"
+    "added_at": "2026-09-21T17:16:18.053Z"
   },
   {
     "title": "suisse:::A Genève, le Conseil d’Etat entend doter les écoles primaires de psychologues, psychomotriciens et logopédistes",
@@ -109908,7 +109902,10 @@
   },
   {
     "title": "suisse:::Pour son lancement, le Mouvement libéral de Valérie Dittli veut faire entrer Vaud parmi les douze cantons les plus attractifs fiscalement",
-    "added_at": "2026-09-24T14:29:01.411Z"
+    "added_at": "2026-09-24T14:29:01.411Z",
+    "removed_at": "2026-09-25T15:59:14.472Z",
+    "duration_minutes": 1530,
+    "duration_str": "1d 1h 30m"
   },
   {
     "title": "suisse:::Après «l’affaire On», le Conseil des Etats veut mieux protéger la croix suisse",
@@ -110094,11 +110091,17 @@
   },
   {
     "title": "suisse:::Depuis plus d’un an, des attaques contre la transparence fragilisent la démocratie vaudoise",
-    "added_at": "2026-09-25T10:02:36.757Z"
+    "added_at": "2026-09-25T10:02:36.757Z",
+    "removed_at": "2026-09-25T15:27:59.050Z",
+    "duration_minutes": 325,
+    "duration_str": "5h 25m"
   },
   {
     "title": "suisse:::A Yvonand, Magdalena Martullo-Blocher lance déjà la bataille des bilatérales III",
-    "added_at": "2026-09-25T10:57:55.206Z"
+    "added_at": "2026-09-25T10:57:55.206Z",
+    "removed_at": "2026-09-25T16:01:39.612Z",
+    "duration_minutes": 303,
+    "duration_str": "5h 3m"
   },
   {
     "title": "economie:::Georges Kern, président de Breitling, Universal et Gallet: «Il faut créer de la beauté, de la joie et du plaisir, et ce n’est pas si facile que cela»",
@@ -110126,5 +110129,39 @@
   {
     "title": "monde:::Nicolas Demorand, de retour sur France Inter avec «Recto/Verso», devient le phénix de la maladie mentale",
     "added_at": "2026-09-25T13:56:25.513Z"
+  },
+  {
+    "title": "suisse:::Un incendie provoqué par un oiseau interrompt le trafic CFF entre Lausanne et Fribourg",
+    "added_at": "2026-09-25T15:15:59.914Z",
+    "removed_at": "2026-09-25T15:59:14.472Z",
+    "duration_minutes": 43,
+    "duration_str": "43m"
+  },
+  {
+    "title": "sport:::Granit Xhaka peut-il rester le capitaine de l’équipe de Suisse?",
+    "added_at": "2026-09-25T15:27:59.050Z"
+  },
+  {
+    "title": "suisse:::A Neuchâtel, le Conseil d’Etat est critiqué pour son manque de vision et sa gestion de crises",
+    "added_at": "2026-09-25T15:54:27.949Z"
+  },
+  {
+    "title": "suisse:::Un problème technique interrompt le trafic CFF entre Lausanne et Fribourg",
+    "added_at": "2026-09-25T15:59:14.472Z",
+    "removed_at": "2026-09-25T16:35:19.704Z",
+    "duration_minutes": 36,
+    "duration_str": "36m"
+  },
+  {
+    "title": "suisse:::Avec son contre-projet sur les loyers, le Conseil fédéral fâche les locataires",
+    "added_at": "2026-09-25T15:59:14.472Z"
+  },
+  {
+    "title": "suisse:::Frédéric Mairy, président du gouvernement neuchâtelois: «Ce n’est pas un signe de faiblesse que de veiller à la stabilité de l’action du gouvernement»",
+    "added_at": "2026-09-25T16:01:39.612Z"
+  },
+  {
+    "title": "suisse:::Le trafic CFF est rétabli entre Lausanne et Fribourg",
+    "added_at": "2026-09-25T16:35:19.704Z"
   }
 ]
