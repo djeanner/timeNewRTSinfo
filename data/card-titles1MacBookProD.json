@@ -110712,7 +110712,10 @@
   },
   {
     "title": "La Matinale - Présentée par Valérie Hauert",
-    "added_at": "2026-09-02T12:26:54.197Z"
+    "added_at": "2026-09-02T12:26:54.197Z",
+    "removed_at": "2026-09-25T01:46:41.434Z",
+    "duration_minutes": 32479,
+    "duration_str": "22d 13h 19m"
   },
   {
     "title": "Malbouffe: quand l'agroalimentaire attaque les Etats en justice",
@@ -117683,10 +117686,7 @@
   },
   {
     "title": "Forum - Présenté par Mehmet Gultas et Renaud Malik",
-    "added_at": "2026-09-21T21:16:51.632Z",
-    "removed_at": "2026-09-24T20:16:14.322Z",
-    "duration_minutes": 4259,
-    "duration_str": "2d 22h 59m"
+    "added_at": "2026-09-21T21:16:51.632Z"
   },
   {
     "title": "Faux certificat covid : Granit Xhaka manquera le rassemblement de la Nati",
@@ -118140,7 +118140,10 @@
   },
   {
     "title": "Nous ne sommes pas égaux face aux effets secondaires des vaccins",
-    "added_at": "2026-09-23T12:49:47.807Z"
+    "added_at": "2026-09-23T12:49:47.807Z",
+    "removed_at": "2026-09-25T01:20:16.526Z",
+    "duration_minutes": 2190,
+    "duration_str": "1d 12h 30m"
   },
   {
     "title": "Promotion Santé Valais lance un atelier interactif pour renforcer l'esprit critique des adolescents",
@@ -118156,7 +118159,10 @@
   },
   {
     "title": "Des affrontements au Tigré et dans l'État voisin ravivent le spectre d'une guerre dévastatrice",
-    "added_at": "2026-09-23T13:25:58.969Z"
+    "added_at": "2026-09-23T13:25:58.969Z",
+    "removed_at": "2026-09-25T01:53:56.916Z",
+    "duration_minutes": 2187,
+    "duration_str": "1d 12h 27m"
   },
   {
     "title": "Paralysée, l'ONU? \"Elle reste efficace au jour le jour pour l'aide humanitaire\"",
@@ -118460,5 +118466,13 @@
   {
     "title": "C'est quoi le néonazisme aujourd'hui ?",
     "added_at": "2026-09-24T23:19:07.505Z"
+  },
+  {
+    "title": "Starbucks continue de boire la tasse et ferme 250 cafés en Amérique du Nord",
+    "added_at": "2026-09-25T01:20:16.526Z"
+  },
+  {
+    "title": "L'Italie interdit les burqas dans les écoles et plafonne le nombre d'élèves étrangers par classe",
+    "added_at": "2026-09-25T01:53:56.916Z"
   }
 ]
