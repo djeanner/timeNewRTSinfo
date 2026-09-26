@@ -8226,7 +8226,10 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z"
+    "added_at": "2025-05-22T18:01:52.008Z",
+    "removed_at": "2026-09-26T20:11:50.812Z",
+    "duration_minutes": 708609,
+    "duration_str": "492d 2h 9m"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -110297,7 +110300,10 @@
   },
   {
     "title": "culture:::À New York, Zohran Mamdani et le Met Opera vont offrir 70 000 billets pour démocratiser l’art lyrique",
-    "added_at": "2026-09-26T11:57:20.438Z"
+    "added_at": "2026-09-26T11:57:20.438Z",
+    "removed_at": "2026-09-26T19:54:58.939Z",
+    "duration_minutes": 477,
+    "duration_str": "7h 57m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump aurait refusé la proposition iranienne pour une réouverture du détroit d'Ormuz",
@@ -110354,5 +110360,20 @@
   {
     "title": "monde:::En direct, guerre en Ukraine – Selon Moscou, l'Europe empêche la résolution du conflit",
     "added_at": "2026-09-26T19:15:48.226Z"
+  },
+  {
+    "title": "sport:::Demi Vollering sacrée championne du monde, Marlen Reusser quatrième: deux cyclistes presque parfaites",
+    "added_at": "2026-09-26T19:54:58.939Z"
+  },
+  {
+    "title": "suisse:::Plusieurs milliers de personnes manifestent à Berne en faveur de l’asile et des migrants",
+    "added_at": "2026-09-26T20:11:50.812Z",
+    "removed_at": "2026-09-26T20:52:41.616Z",
+    "duration_minutes": 40,
+    "duration_str": "40m"
+  },
+  {
+    "title": "sport:::Après les polémiques, le succès très tranquille de l'équipe de Suisse en Macédoine du Nord",
+    "added_at": "2026-09-26T20:47:49.307Z"
   }
 ]
