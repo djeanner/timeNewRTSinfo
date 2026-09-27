@@ -110191,10 +110191,7 @@
   },
   {
     "title": "suisse:::A Neuchâtel, le Conseil d’Etat est critiqué pour son manque de vision et sa gestion de crises",
-    "added_at": "2026-09-25T15:54:27.949Z",
-    "removed_at": "2026-09-27T11:33:00.701Z",
-    "duration_minutes": 2618,
-    "duration_str": "1d 19h 38m"
+    "added_at": "2026-09-25T15:54:27.949Z"
   },
   {
     "title": "suisse:::Un problème technique interrompt le trafic CFF entre Lausanne et Fribourg",
@@ -110226,7 +110223,10 @@
   },
   {
     "title": "monde:::Comment le «christianisme de combat» s'invite dans le débat politique français",
-    "added_at": "2026-09-25T17:04:26.426Z"
+    "added_at": "2026-09-25T17:04:26.426Z",
+    "removed_at": "2026-09-27T12:33:21.893Z",
+    "duration_minutes": 2608,
+    "duration_str": "1d 19h 28m"
   },
   {
     "title": "monde:::A New York, dans les coulisses de l’ONU, on parle davantage de guerre que de paix",
@@ -110436,7 +110436,10 @@
   },
   {
     "title": "culture:::Dans «Toxic», nouvelle série RTS, le Léman devient fatal",
-    "added_at": "2026-09-27T07:14:55.115Z"
+    "added_at": "2026-09-27T07:14:55.115Z",
+    "removed_at": "2026-09-27T14:26:26.477Z",
+    "duration_minutes": 431,
+    "duration_str": "7h 11m"
   },
   {
     "title": "culture:::«Au sein d’une société toujours plus violente, la routine \"skincare\" est une bulle de réconfort»: Mona Chollet offre un éclairage sur l’histoire et l’économie de la beauté",
@@ -110458,11 +110461,17 @@
   },
   {
     "title": "economie:::La folle histoire des leurres qui ne donnaient pas l’heure",
-    "added_at": "2026-09-27T08:39:05.897Z"
+    "added_at": "2026-09-27T08:39:05.897Z",
+    "removed_at": "2026-09-27T14:23:59.246Z",
+    "duration_minutes": 344,
+    "duration_str": "5h 44m"
   },
   {
     "title": "sport:::Un succès qui émancipe l'équipe de Suisse de l'affaire Xhaka",
-    "added_at": "2026-09-27T08:51:06.968Z"
+    "added_at": "2026-09-27T08:51:06.968Z",
+    "removed_at": "2026-09-27T14:12:00.060Z",
+    "duration_minutes": 320,
+    "duration_str": "5h 20m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Des frappes russes tuent cinq personnes en Ukraine, dont une à Kiev",
@@ -110488,7 +110497,10 @@
   },
   {
     "title": "monde:::En Espagne, la crise du logement s’invite au cœur de Madrid",
-    "added_at": "2026-09-27T10:28:08.270Z"
+    "added_at": "2026-09-27T10:28:08.270Z",
+    "removed_at": "2026-09-27T13:35:55.190Z",
+    "duration_minutes": 187,
+    "duration_str": "3h 7m"
   },
   {
     "title": "suisse:::En direct – Les initiatives sur la neutralité et la souveraineté alimentaire seront largement refusées, la baisse fiscale vaudoise acceptée",
@@ -110501,5 +110513,28 @@
   {
     "title": "cyber:::«S’il y a une place pour parler de cinéma, de livres, de séries, d’albums musicaux, alors il y a une place pour parler de jeux vidéo»: la double mutation de la presse spécialisée",
     "added_at": "2026-09-27T11:35:25.615Z"
+  },
+  {
+    "title": "suisse:::Christelle Luisier: «Le rôle du gouvernement est de préserver au mieux les prestations à la population»",
+    "added_at": "2026-09-27T13:35:55.190Z"
+  },
+  {
+    "title": "suisse:::Le ras-le-bol comptable bouscule l’exécutif vaudois",
+    "added_at": "2026-09-27T13:35:55.190Z"
+  },
+  {
+    "title": "sport:::Un succès qui émancipe l’équipe de Suisse de l’affaire Xhaka",
+    "added_at": "2026-09-27T14:12:00.060Z"
+  },
+  {
+    "title": "suisse:::Aide au suicide: les Zurichois désavouent Natalie Rickli et suivent la Suisse romande",
+    "added_at": "2026-09-27T14:23:59.246Z",
+    "removed_at": "2026-09-27T14:26:26.477Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "sport:::Pas de Mondial de padel pour la Suisse: l’équipe nationale dénonce une «prise d’otage» par sa fédération",
+    "added_at": "2026-09-27T14:28:47.654Z"
   }
 ]
