@@ -110638,7 +110638,10 @@
   },
   {
     "title": "suisse:::A Genève, la population repousse une première fois les économies promises à la HES-SO (et au monde académique)",
-    "added_at": "2026-09-27T16:38:55.728Z"
+    "added_at": "2026-09-27T16:38:55.728Z",
+    "removed_at": "2026-09-28T07:20:22.381Z",
+    "duration_minutes": 881,
+    "duration_str": "14h 41m"
   },
   {
     "title": "suisse:::Les initiatives sur la neutralité et la souveraineté alimentaire largement refusées, une baisse d'impôts acceptée dans le canton de Vaud: notre suivi du dimanche 27 septembre 2026",
@@ -110675,7 +110678,10 @@
   },
   {
     "title": "monde:::Cinq hommes suspectés de préparer «un acte terroriste» arrêtés près d’une base militaire anglaise",
-    "added_at": "2026-09-27T18:32:15.919Z"
+    "added_at": "2026-09-27T18:32:15.919Z",
+    "removed_at": "2026-09-28T06:58:44.191Z",
+    "duration_minutes": 746,
+    "duration_str": "12h 26m"
   },
   {
     "title": "culture:::Avec «Ici, maintenant», Tom Newlands donne vie à Cora, inoubliable adolescente hyperactive dans une Ecosse en pleine déglingue",
@@ -110746,11 +110752,17 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël annonce avoir tué le ravisseur d'un couple d'otages du 7-octobre",
-    "added_at": "2026-09-28T02:46:02.023Z"
+    "added_at": "2026-09-28T02:46:02.023Z",
+    "removed_at": "2026-09-28T07:34:54.059Z",
+    "duration_minutes": 288,
+    "duration_str": "4h 48m"
   },
   {
     "title": "economie:::Quel est le seuil de douleur de la BNS?",
-    "added_at": "2026-09-28T02:55:40.358Z"
+    "added_at": "2026-09-28T02:55:40.358Z",
+    "removed_at": "2026-09-28T08:54:16.645Z",
+    "duration_minutes": 358,
+    "duration_str": "5h 58m"
   },
   {
     "title": "monde:::Avec au moins 15 sièges, le Rassemblement national obtient un groupe parlementaire au Sénat",
@@ -110762,7 +110774,10 @@
   },
   {
     "title": "suisse:::Face à la menace d’un tremblement de terre dévastateur, la Suisse n’a toujours pas trouvé son filet de sécurité",
-    "added_at": "2026-09-28T04:22:25.708Z"
+    "added_at": "2026-09-28T04:22:25.708Z",
+    "removed_at": "2026-09-28T08:08:32.575Z",
+    "duration_minutes": 226,
+    "duration_str": "3h 46m"
   },
   {
     "title": "suisse:::Sacha Zala: «Aucun Suisse n’accepte de voir son pays comme normal»",
@@ -110788,10 +110803,47 @@
   },
   {
     "title": "monde:::«Ebola m’a choisi pour agir»: dans l’est de la RDC, le combat d’Alex Bonane Murutsi, médecin réchappé de la maladie",
-    "added_at": "2026-09-28T05:34:27.547Z"
+    "added_at": "2026-09-28T05:34:27.547Z",
+    "removed_at": "2026-09-28T09:18:31.401Z",
+    "duration_minutes": 224,
+    "duration_str": "3h 44m"
   },
   {
     "title": "cyber:::Un passionné crée un incroyable jumeau numérique du canton de Genève, avec ses transports en direct, sa météo et même son passé",
     "added_at": "2026-09-28T06:20:08.607Z"
+  },
+  {
+    "title": "monde:::Pourquoi la France est le pays le plus pessimiste sur l’avenir de sa jeunesse",
+    "added_at": "2026-09-28T07:01:08.896Z"
+  },
+  {
+    "title": "suisse:::«Le tunnel Morges-Perroy doit être mené en priorité absolue», selon l’Union des transports suisse",
+    "added_at": "2026-09-28T07:20:22.381Z",
+    "removed_at": "2026-09-28T08:08:32.575Z",
+    "duration_minutes": 48,
+    "duration_str": "48m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L'Iran dément Donald Trump et affirme qu'aucune négociation n'est prévue",
+    "added_at": "2026-09-28T07:34:54.059Z",
+    "removed_at": "2026-09-28T09:23:23.141Z",
+    "duration_minutes": 108,
+    "duration_str": "1h 48m"
+  },
+  {
+    "title": "suisse:::Le doublement de la ligne ferroviaire entre Lausanne et Genève doit être «une priorité absolue», selon l’Union des transports suisse",
+    "added_at": "2026-09-28T08:08:32.575Z"
+  },
+  {
+    "title": "culture:::Dafné Kritharas, la promesse du laurier: entre mémoire grecque et chant de liberté",
+    "added_at": "2026-09-28T08:08:32.575Z"
+  },
+  {
+    "title": "suisse:::Virginie Heyer, députée bernoise: «En fait, je suis une Suissesse de base»",
+    "added_at": "2026-09-28T09:18:31.401Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – La police britannique enquête sur une implication de l’Iran après la découverte d’explosifs près d’une base militaire",
+    "added_at": "2026-09-28T09:23:23.141Z"
   }
 ]
