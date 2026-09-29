@@ -109511,7 +109511,10 @@
   },
   {
     "title": "Forum - Présenté par Coralie Claude",
-    "added_at": "2026-08-09T01:46:06.087Z"
+    "added_at": "2026-08-09T01:46:06.087Z",
+    "removed_at": "2026-09-29T11:17:53.112Z",
+    "duration_minutes": 74011,
+    "duration_str": "51d 9h 31m"
   },
   {
     "title": "Elisabeth Baume-Schneider veut améliorer la protection face à la soumission chimique",
@@ -119627,15 +119630,24 @@
   },
   {
     "title": "Le peuple suisse rejette l'initiative pour la neutralité par 70,2% des voix",
-    "added_at": "2026-09-27T14:45:49.357Z"
+    "added_at": "2026-09-27T14:45:49.357Z",
+    "removed_at": "2026-09-29T10:39:26.252Z",
+    "duration_minutes": 2633,
+    "duration_str": "1d 19h 53m"
   },
   {
     "title": "Non massif à l'initiative sur l'alimentation dans tous les cantons",
-    "added_at": "2026-09-27T14:48:16.436Z"
+    "added_at": "2026-09-27T14:48:16.436Z",
+    "removed_at": "2026-09-29T09:53:43.691Z",
+    "duration_minutes": 2585,
+    "duration_str": "1d 19h 5m"
   },
   {
     "title": "Cinq hommes arrêtés pour préparation d'un \"acte terroriste\" près d'une base aérienne en Angleterre",
-    "added_at": "2026-09-27T14:50:37.586Z"
+    "added_at": "2026-09-27T14:50:37.586Z",
+    "removed_at": "2026-09-29T12:15:37.947Z",
+    "duration_minutes": 2725,
+    "duration_str": "1d 21h 25m"
   },
   {
     "title": "Neuf communes votent en faveur d'une STEP régionalisée sur le site d'AgriCo à St-Aubin",
@@ -119688,7 +119700,10 @@
   },
   {
     "title": "\"Pas loin des 400'000 visiteurs\": succès populaire pour la 99e Fête des vendanges à Neuchâtel",
-    "added_at": "2026-09-27T19:37:15.635Z"
+    "added_at": "2026-09-27T19:37:15.635Z",
+    "removed_at": "2026-09-29T09:53:43.691Z",
+    "duration_minutes": 2296,
+    "duration_str": "1d 14h 16m"
   },
   {
     "title": "La Russie au centre de la couverture du vote sur la neutralité par les médias étrangers",
@@ -119706,11 +119721,17 @@
   },
   {
     "title": "Le président serbe Aleksandar Vucic démissionne et brigue le poste de Premier ministre",
-    "added_at": "2026-09-27T19:44:28.894Z"
+    "added_at": "2026-09-27T19:44:28.894Z",
+    "removed_at": "2026-09-29T12:03:35.702Z",
+    "duration_minutes": 2419,
+    "duration_str": "1d 16h 19m"
   },
   {
     "title": "Vote sur la neutralité: la Russie au centre de la couverture par les médias étrangers",
-    "added_at": "2026-09-27T20:08:47.040Z"
+    "added_at": "2026-09-27T20:08:47.040Z",
+    "removed_at": "2026-09-29T11:44:18.308Z",
+    "duration_minutes": 2375,
+    "duration_str": "1d 15h 35m"
   },
   {
     "title": "Les Suisses n’ont jamais mangé autant de poulet",
@@ -119728,7 +119749,10 @@
   },
   {
     "title": "Les Suisses n'ont jamais mangé autant de poulet",
-    "added_at": "2026-09-27T20:23:13.804Z"
+    "added_at": "2026-09-27T20:23:13.804Z",
+    "removed_at": "2026-09-29T12:10:48.773Z",
+    "duration_minutes": 2387,
+    "duration_str": "1d 15h 47m"
   },
   {
     "title": "Le Rassemblement national frappe un grand coup lors des élections sénatoriales",
@@ -119772,7 +119796,10 @@
   },
   {
     "title": "La côte Nord-Est des Etats-Unis balayée par une tempête",
-    "added_at": "2026-09-28T09:16:09.941Z"
+    "added_at": "2026-09-28T09:16:09.941Z",
+    "removed_at": "2026-09-29T11:15:32.020Z",
+    "duration_minutes": 1559,
+    "duration_str": "1d 1h 59m"
   },
   {
     "title": "Qui a le droit?",
@@ -120040,5 +120067,48 @@
   {
     "title": "Avec 'L'inconnue du quai de Javel', Philippe Jaenada résout un \"cold-case\" à la manière de Maigret",
     "added_at": "2026-09-29T09:39:06.990Z"
+  },
+  {
+    "title": "Après Vaud, Neuchâtel pourrait aussi voter sur une baisse d'impôts",
+    "added_at": "2026-09-29T09:53:43.691Z"
+  },
+  {
+    "title": "L'action Shein plonge de plus de 10% après des résultats maussades",
+    "added_at": "2026-09-29T09:53:43.691Z"
+  },
+  {
+    "title": "Le Conseil des Etats valide une nouvelle taxe d'immigration",
+    "added_at": "2026-09-29T10:39:26.252Z",
+    "removed_at": "2026-09-29T10:44:12.708Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Le Conseil des Etats en faveur d'une taxe d'immigration pour les étrangers qui s'installent en Suisse",
+    "added_at": "2026-09-29T10:41:47.772Z"
+  },
+  {
+    "title": "Vote sur la neutralité: l'analyse de Pierre-Olivier Volet, rédacteur en chef",
+    "added_at": "2026-09-29T11:15:32.020Z"
+  },
+  {
+    "title": "Votations: conséquence du oui à la baisse d’impôts, Vaud abandonne la réforme du bouclier fiscal",
+    "added_at": "2026-09-29T11:17:53.112Z"
+  },
+  {
+    "title": "Une explosion dans un immeuble mobilise la police neuchâteloise",
+    "added_at": "2026-09-29T11:44:18.308Z"
+  },
+  {
+    "title": "Une hausse moyenne de 5% pour les primes maladie en Suisse l'an prochain",
+    "added_at": "2026-09-29T12:03:35.702Z"
+  },
+  {
+    "title": "Bientôt une votation pour ou contre le droit de vote des personnes sous curatelle à Neuchâtel",
+    "added_at": "2026-09-29T12:10:48.773Z"
+  },
+  {
+    "title": "La Finma classe sa procédure de mise en conformité visant la banque privée Julius Bär",
+    "added_at": "2026-09-29T12:15:37.947Z"
   }
 ]
