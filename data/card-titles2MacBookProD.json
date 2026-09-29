@@ -108477,7 +108477,10 @@
   },
   {
     "title": "monde:::La Pologne se prépare dans l’urgence à des bombardements russes: «Il n’y a pas d’abris ici!»",
-    "added_at": "2026-09-19T11:47:25.985Z"
+    "added_at": "2026-09-19T11:47:25.985Z",
+    "removed_at": "2026-09-29T16:48:21.361Z",
+    "duration_minutes": 14700,
+    "duration_str": "10d 5h"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Après la saisie d'actifs européens, Dmitri Medvedev affirme que l’Europe ne comprend que le langage de la «force»",
@@ -111082,7 +111085,10 @@
   },
   {
     "title": "suisse:::Le PS lancera mardi son initiative sur les primes maladie en fonction du revenu",
-    "added_at": "2026-09-28T19:30:59.070Z"
+    "added_at": "2026-09-28T19:30:59.070Z",
+    "removed_at": "2026-09-29T16:31:30.849Z",
+    "duration_minutes": 1260,
+    "duration_str": "21h"
   },
   {
     "title": "cyber:::Ils sont les nouveaux juges de la vérité: que valent les logiciels de détection d’IA, dont la superstar Pangram utilisée dans la polémique à propos de Thélyson Orélien?",
@@ -111191,7 +111197,10 @@
   },
   {
     "title": "culture:::Ferdinand Hodler, de l’intime à l’infini, du physique au mystique",
-    "added_at": "2026-09-29T09:53:43.768Z"
+    "added_at": "2026-09-29T09:53:43.768Z",
+    "removed_at": "2026-09-29T16:12:07.956Z",
+    "duration_minutes": 378,
+    "duration_str": "6h 18m"
   },
   {
     "title": "economie:::La fabrique des légendes ou l’art de transformer l’histoire en montres",
@@ -111213,7 +111222,10 @@
   },
   {
     "title": "suisse:::La nuit où l’UDC a désigné le parlement comme «le danger»",
-    "added_at": "2026-09-29T10:08:09.090Z"
+    "added_at": "2026-09-29T10:08:09.090Z",
+    "removed_at": "2026-09-29T16:07:18.940Z",
+    "duration_minutes": 359,
+    "duration_str": "5h 59m"
   },
   {
     "title": "suisse:::Le Grand Conseil neuchâtelois soutient le dispositif cantonal de régularisation des sans-papiers",
@@ -111246,11 +111258,17 @@
   },
   {
     "title": "suisse:::En direct – «Le poids des primes maladie est trop élevé», reconnaît la conseillère fédérale Elisabeth Baume-Schneider",
-    "added_at": "2026-09-29T12:51:59.503Z"
+    "added_at": "2026-09-29T12:51:59.503Z",
+    "removed_at": "2026-09-29T15:40:49.659Z",
+    "duration_minutes": 168,
+    "duration_str": "2h 48m"
   },
   {
     "title": "suisse:::Une explosion fait quatre blessés dans un immeuble de Neuchâtel",
-    "added_at": "2026-09-29T12:59:12.783Z"
+    "added_at": "2026-09-29T12:59:12.783Z",
+    "removed_at": "2026-09-29T16:24:14.533Z",
+    "duration_minutes": 205,
+    "duration_str": "3h 25m"
   },
   {
     "title": "monde:::Derrière la vitrine de la dédiabolisation, les casseroles de Jordan Bardella, Marine Le Pen et leurs proches",
@@ -111270,6 +111288,47 @@
   },
   {
     "title": "suisse:::Le Parlement prolonge le taux réduit de TVA pour l'hôtellerie jusqu'en 2031 malgré l'opposition du Conseil fédéral",
-    "added_at": "2026-09-29T15:02:04.300Z"
+    "added_at": "2026-09-29T15:02:04.300Z",
+    "removed_at": "2026-09-29T15:36:02.758Z",
+    "duration_minutes": 33,
+    "duration_str": "33m"
+  },
+  {
+    "title": "suisse:::Trois jours après le vote sur l’initiative 12%, la droite vaudoise veut rétablir l’ancien bouclier fiscal en urgence",
+    "added_at": "2026-09-29T15:36:02.758Z"
+  },
+  {
+    "title": "suisse:::En direct – Face à la nouvelle hausse annoncée des primes maladie, un ras-le-bol généralisé mais des solutions divergentes",
+    "added_at": "2026-09-29T15:40:49.659Z"
+  },
+  {
+    "title": "culture:::«Digger», l’apocalypse climatique servie sur un plateau par un Tom Cruise qui vise un oscar",
+    "added_at": "2026-09-29T16:12:07.956Z"
+  },
+  {
+    "title": "suisse:::Bilatérales III: le Conseil des États muscle la clause de sauvegarde avec une taxe sur l’immigration",
+    "added_at": "2026-09-29T16:24:14.533Z",
+    "removed_at": "2026-09-29T16:38:46.001Z",
+    "duration_minutes": 14,
+    "duration_str": "14m"
+  },
+  {
+    "title": "suisse:::Primes maladie en hausse: Berne renvoie la balle aux acteurs de la santé",
+    "added_at": "2026-09-29T16:33:52.948Z",
+    "removed_at": "2026-09-29T16:58:00.826Z",
+    "duration_minutes": 24,
+    "duration_str": "24m"
+  },
+  {
+    "title": "suisse:::Bilatérales III: le Conseil des Etats muscle la clause de sauvegarde avec une taxe sur l’immigration",
+    "added_at": "2026-09-29T16:38:46.001Z"
+  },
+  {
+    "title": "suisse:::Le Conseil fédéral soutient une loi sur l’armement qui ne bénéficie en rien à l’Ukraine",
+    "added_at": "2026-09-29T16:48:21.361Z"
+  },
+  {
+    "title": "suisse:::Primes d’assurance maladie en hausse: Berne renvoie la balle aux acteurs de la santé",
+    "added_at": "2026-09-29T16:58:00.826Z"
   }
 ]
