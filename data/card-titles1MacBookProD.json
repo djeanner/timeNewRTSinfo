@@ -111153,7 +111153,10 @@
   },
   {
     "title": "Forum (vidéo) - Présenté par Coralie Claude et Thibaut Schaller",
-    "added_at": "2026-09-03T00:15:31.038Z"
+    "added_at": "2026-09-03T00:15:31.038Z",
+    "removed_at": "2026-09-29T20:16:33.763Z",
+    "duration_minutes": 38641,
+    "duration_str": "26d 20h 1m"
   },
   {
     "title": "Témoignage d'un jeune qui a tenté de porter secours à la victime de la fusillade d'Aarau",
@@ -119558,7 +119561,10 @@
   },
   {
     "title": "Initiatives sur la neutralité et sur l'alimentation: les résultats des votations sur nos cartes",
-    "added_at": "2026-09-27T11:18:34.284Z"
+    "added_at": "2026-09-27T11:18:34.284Z",
+    "removed_at": "2026-09-29T20:14:05.279Z",
+    "duration_minutes": 3415,
+    "duration_str": "2d 8h 55m"
   },
   {
     "title": "A Lourdes, Léon XIV exhorte à poursuivre la lutte contre le \"fléau\" des violences sexuelles",
@@ -119762,7 +119768,10 @@
   },
   {
     "title": "Le Rassemblement national frappe un grand coup lors des élections sénatoriales",
-    "added_at": "2026-09-27T20:49:40.555Z"
+    "added_at": "2026-09-27T20:49:40.555Z",
+    "removed_at": "2026-09-29T18:12:56.708Z",
+    "duration_minutes": 2723,
+    "duration_str": "1d 21h 23m"
   },
   {
     "title": "Résultats et commentaires",
@@ -119809,7 +119818,10 @@
   },
   {
     "title": "Joseph Deiss: \"Nous voulons une neutralité active, présente et pas simplement passive\"",
-    "added_at": "2026-09-28T08:51:49.309Z"
+    "added_at": "2026-09-28T08:51:49.309Z",
+    "removed_at": "2026-09-29T19:54:36.326Z",
+    "duration_minutes": 2102,
+    "duration_str": "1d 11h 2m"
   },
   {
     "title": "Jean Liermier: \"Je suis tombé tout petit dans le théâtre, qui a été ma colonne vertébrale\"",
@@ -119892,11 +119904,17 @@
   },
   {
     "title": "L'hérédité n'est pas qu'une question d'ADN, selon une étude",
-    "added_at": "2026-09-28T14:14:56.264Z"
+    "added_at": "2026-09-28T14:14:56.264Z",
+    "removed_at": "2026-09-29T19:03:39.269Z",
+    "duration_minutes": 1728,
+    "duration_str": "1d 4h 48m"
   },
   {
     "title": "Volodymyr Zelensky divulgue un secret qui embarrasse la Corée du sud",
-    "added_at": "2026-09-28T14:19:44.332Z"
+    "added_at": "2026-09-28T14:19:44.332Z",
+    "removed_at": "2026-09-29T18:15:22.818Z",
+    "duration_minutes": 1675,
+    "duration_str": "1d 3h 55m"
   },
   {
     "title": "Pour le PLR, une hausse de la TVA nuirait aux ménages et à l'économie",
@@ -120127,7 +120145,10 @@
   },
   {
     "title": "Le Conseil des Etats en faveur d'une taxe d'immigration pour les étrangers qui s'installent en Suisse",
-    "added_at": "2026-09-29T10:41:47.772Z"
+    "added_at": "2026-09-29T10:41:47.772Z",
+    "removed_at": "2026-09-29T18:58:51.979Z",
+    "duration_minutes": 497,
+    "duration_str": "8h 17m"
   },
   {
     "title": "Vote sur la neutralité: l'analyse de Pierre-Olivier Volet, rédacteur en chef",
@@ -120256,5 +120277,32 @@
   {
     "title": "Une réunion d’extrême droite dans le viseur de la justice vaudoise",
     "added_at": "2026-09-29T17:29:19.080Z"
+  },
+  {
+    "title": "FLe Conseil des Etats en faveur d'une taxe d'immigration pour les étrangers qui s'installent en Suisse",
+    "added_at": "2026-09-29T18:58:51.979Z"
+  },
+  {
+    "title": "En Suisse, beaucoup d'hommes veulent travailler à temps partiel, mais peu font le pas",
+    "added_at": "2026-09-29T19:03:39.269Z"
+  },
+  {
+    "title": "Une explosion dans un immeuble à Neuchâtel fait quatre blessés, dont un grave",
+    "added_at": "2026-09-29T19:15:46.372Z"
+  },
+  {
+    "title": "Le Maroc désigne une femme à la tête du gouvernement, une première",
+    "added_at": "2026-09-29T19:54:36.326Z",
+    "removed_at": "2026-09-29T20:06:46.497Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "Le Maroc désigne une femme à la tête de son gouvernement, une première",
+    "added_at": "2026-09-29T20:06:46.497Z"
+  },
+  {
+    "title": "L'invité de La Matinale (vidéo) - Joseph Deiss, ancien président de la Confédération",
+    "added_at": "2026-09-29T20:16:33.763Z"
   }
 ]
