@@ -119965,7 +119965,10 @@
   },
   {
     "title": "Podcast - Pourquoi veut-on tant ressembler aux autres?",
-    "added_at": "2026-09-28T15:36:59.247Z"
+    "added_at": "2026-09-28T15:36:59.247Z",
+    "removed_at": "2026-09-30T03:23:25.314Z",
+    "duration_minutes": 2146,
+    "duration_str": "1d 11h 46m"
   },
   {
     "title": "La mégafusée Straship de SpaceX a été lancée en orbite terrestre avec succès",
@@ -120342,5 +120345,9 @@
   {
     "title": "L'EPFL et l'EPFZ perdent une place dans le classement mondial des universités",
     "added_at": "2026-09-30T01:25:22.139Z"
+  },
+  {
+    "title": "Les patrons de l'IA promettent de s'autoréguler et adoptent un code de bonne conduite",
+    "added_at": "2026-09-30T03:23:25.314Z"
   }
 ]

@@ -111155,7 +111155,10 @@
   },
   {
     "title": "suisse:::Victoire d’étape pour ce détenu neuchâtelois, condamné à 16 mois de prison et enfermé depuis vingt ans",
-    "added_at": "2026-09-29T04:54:57.582Z"
+    "added_at": "2026-09-29T04:54:57.582Z",
+    "removed_at": "2026-09-30T03:21:04.432Z",
+    "duration_minutes": 1346,
+    "duration_str": "22h 26m"
   },
   {
     "title": "monde:::Bakary Sambe: «L’Europe ne peut pas se désintéresser du Sahel»",
@@ -111202,10 +111205,7 @@
   },
   {
     "title": "suisse:::Le négociant genevois Trafigura aurait convaincu Washington d’importer l’or vénézuélien, et une partie serait liée à un gang criminel",
-    "added_at": "2026-09-29T08:58:12.473Z",
-    "removed_at": "2026-09-29T18:44:21.570Z",
-    "duration_minutes": 586,
-    "duration_str": "9h 46m"
+    "added_at": "2026-09-29T08:58:12.473Z"
   },
   {
     "title": "culture:::Ferdinand Hodler, de l’intime à l’infini, du physique au mystique",
@@ -111324,7 +111324,10 @@
   },
   {
     "title": "culture:::«Digger», l’apocalypse climatique servie sur un plateau par un Tom Cruise qui vise un oscar",
-    "added_at": "2026-09-29T16:12:07.956Z"
+    "added_at": "2026-09-29T16:12:07.956Z",
+    "removed_at": "2026-09-30T04:26:02.891Z",
+    "duration_minutes": 733,
+    "duration_str": "12h 13m"
   },
   {
     "title": "suisse:::Bilatérales III: le Conseil des États muscle la clause de sauvegarde avec une taxe sur l’immigration",
@@ -111390,5 +111393,9 @@
   {
     "title": "suisse:::L'Ecole polytechnique fédérale de Zurich recule à la 12e place au classement du Times Higher Education",
     "added_at": "2026-09-30T00:49:14.800Z"
+  },
+  {
+    "title": "monde:::Course à la succession d’António Guterres à l’ONU: les cinq membres permanents n’ont toujours pas tranché",
+    "added_at": "2026-09-30T04:26:02.891Z"
   }
 ]
