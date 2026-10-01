@@ -107050,7 +107050,10 @@
   },
   {
     "title": "Forum - Présenté par Thibaut Schaller et Mehmet Gultas",
-    "added_at": "2026-07-29T21:14:17.283Z"
+    "added_at": "2026-07-29T21:14:17.283Z",
+    "removed_at": "2026-10-01T17:14:08.548Z",
+    "duration_minutes": 91919,
+    "duration_str": "63d 19h 59m"
   },
   {
     "title": "Un séisme de magnitude 7,1 fait au moins un mort dans le Sud-Ouest du Japon",
@@ -110715,10 +110718,7 @@
   },
   {
     "title": "La Matinale - Présentée par Valérie Hauert",
-    "added_at": "2026-09-02T12:26:54.197Z",
-    "removed_at": "2026-10-01T11:14:16.604Z",
-    "duration_minutes": 41687,
-    "duration_str": "28d 22h 47m"
+    "added_at": "2026-09-02T12:26:54.197Z"
   },
   {
     "title": "Malbouffe: quand l'agroalimentaire attaque les Etats en justice",
@@ -120399,9 +120399,9 @@
   {
     "title": "Infarctus: les signes à reconnaître et les bons réflexes à adopter",
     "added_at": "2026-09-29T15:14:20.648Z",
-    "removed_at": "2026-10-01T13:35:21.609Z",
-    "duration_minutes": 2781,
-    "duration_str": "1d 22h 21m"
+    "removed_at": "2026-10-01T16:57:07.613Z",
+    "duration_minutes": 2982,
+    "duration_str": "2d 1h 42m"
   },
   {
     "title": "Une explosion a eu lieu dans un immeuble à Neuchâtel",
@@ -120488,7 +120488,10 @@
   },
   {
     "title": "En Suisse, beaucoup d'hommes veulent travailler à temps partiel, mais peu font le pas",
-    "added_at": "2026-09-29T19:03:39.269Z"
+    "added_at": "2026-09-29T19:03:39.269Z",
+    "removed_at": "2026-10-01T18:14:55.959Z",
+    "duration_minutes": 2831,
+    "duration_str": "1d 23h 11m"
   },
   {
     "title": "Une explosion dans un immeuble à Neuchâtel fait quatre blessés, dont un grave",
@@ -120506,7 +120509,10 @@
   },
   {
     "title": "Le Maroc désigne une femme à la tête de son gouvernement, une première",
-    "added_at": "2026-09-29T20:06:46.497Z"
+    "added_at": "2026-09-29T20:06:46.497Z",
+    "removed_at": "2026-10-01T17:45:44.665Z",
+    "duration_minutes": 2738,
+    "duration_str": "1d 21h 38m"
   },
   {
     "title": "L'invité de La Matinale (vidéo) - Joseph Deiss, ancien président de la Confédération",
@@ -120792,7 +120798,10 @@
   },
   {
     "title": "Tourisme et surtourisme, quel avenir pour nos voyages?",
-    "added_at": "2026-10-01T08:21:43.188Z"
+    "added_at": "2026-10-01T08:21:43.188Z",
+    "removed_at": "2026-10-01T17:14:08.548Z",
+    "duration_minutes": 532,
+    "duration_str": "8h 52m"
   },
   {
     "title": "Garry Kasparov et son associé Ivan Tyutrin placés \"sur une liste de cibles à assassiner\"",
@@ -120831,9 +120840,9 @@
   {
     "title": "Au Maroc, une femme nommée cheffe du gouvernement",
     "added_at": "2026-10-01T11:14:16.604Z",
-    "removed_at": "2026-10-01T15:17:16.272Z",
-    "duration_minutes": 242,
-    "duration_str": "4h 2m"
+    "removed_at": "2026-10-01T18:17:25.025Z",
+    "duration_minutes": 423,
+    "duration_str": "7h 3m"
   },
   {
     "title": "Un comité lance une initiative pour supprimer la pénalisation fiscale du mariage",
@@ -120922,5 +120931,17 @@
   {
     "title": "Pourquoi le scandale des F-35 continue ?",
     "added_at": "2026-10-01T15:12:27.834Z"
+  },
+  {
+    "title": "Les discussions européennes \"avancent\" sur les hubs de renvoi de migrants",
+    "added_at": "2026-10-01T17:45:44.665Z"
+  },
+  {
+    "title": "L'entreprise Infomaniak débute en fanfare à la Bourse suisse",
+    "added_at": "2026-10-01T18:14:55.959Z"
+  },
+  {
+    "title": "Ranger pour se sentir mieux",
+    "added_at": "2026-10-01T18:17:25.025Z"
   }
 ]

@@ -61129,7 +61129,10 @@
   },
   {
     "title": "sport:::Pour les Jeux olympiques d’hiver 2038, la Suisse invente «un nouveau modèle»",
-    "added_at": "2026-01-12T21:50:58.747Z"
+    "added_at": "2026-01-12T21:50:58.747Z",
+    "removed_at": "2026-10-01T17:11:40.095Z",
+    "duration_minutes": 377000,
+    "duration_str": "261d 19h 20m"
   },
   {
     "title": "monde:::«Aujourd’hui, on meurt de froid, demain, on risque de mourir de faim»: à Gaza, un hiver loin des regards",
@@ -94642,7 +94645,10 @@
   },
   {
     "title": "sport:::Christophe Dubi, directeur exécutif des Jeux olympiques: «Le CIO ne craint pas un référendum au sujet des JO 2038 en Suisse»",
-    "added_at": "2026-07-06T17:35:49.363Z"
+    "added_at": "2026-07-06T17:35:49.363Z",
+    "removed_at": "2026-10-01T17:11:40.095Z",
+    "duration_minutes": 125255,
+    "duration_str": "86d 23h 35m"
   },
   {
     "title": "monde:::«Vengeance contre les assassins!»: à Téhéran, l’adieu au guide et le serment à son fils absent",
@@ -104068,10 +104074,7 @@
   },
   {
     "title": "suisse:::La tempête politique qui met le Tessin à nu: «L’affaire Zali est la plus grave que le Tessin ait traversée»",
-    "added_at": "2026-09-04T06:29:55.716Z",
-    "removed_at": "2026-09-04T16:17:37.807Z",
-    "duration_minutes": 587,
-    "duration_str": "9h 47m"
+    "added_at": "2026-09-04T06:29:55.716Z"
   },
   {
     "title": "culture:::Alix Billen, directrice du Livre sur les quais: «Nous cherchons à favoriser les rencontres entre les générations tout au long de l’année»",
@@ -109693,7 +109696,10 @@
   },
   {
     "title": "monde:::En Israël, les partis arabes écartés pour la première fois de l'histoire: «La démocratie est devenue une arme»",
-    "added_at": "2026-09-23T18:58:37.706Z"
+    "added_at": "2026-09-23T18:58:37.706Z",
+    "removed_at": "2026-10-01T15:58:47.191Z",
+    "duration_minutes": 11340,
+    "duration_str": "7d 21h"
   },
   {
     "title": "sport:::0-8 contre l’OL Lyonnes: les retrouvailles de Servette avec la Ligue des championnes virent au déjà-vu",
@@ -111817,7 +111823,10 @@
   },
   {
     "title": "economie:::Un an après l’entrée en vigueur de l’accord de libre-échange entre l’Inde et la Suisse, l’horlogerie sourit et l’industrie de la tech ronge son frein",
-    "added_at": "2026-10-01T04:28:39.263Z"
+    "added_at": "2026-10-01T04:28:39.263Z",
+    "removed_at": "2026-10-01T16:59:36.466Z",
+    "duration_minutes": 750,
+    "duration_str": "12h 30m"
   },
   {
     "title": "monde:::Après un ultime retournement de situation, la condamnée Christa Pike va finalement être exécutée dans le Tennessee",
@@ -111842,7 +111851,10 @@
   },
   {
     "title": "monde:::A New York, Zohran Mamdani perd une manche contre les riches propriétaires",
-    "added_at": "2026-10-01T06:17:53.066Z"
+    "added_at": "2026-10-01T06:17:53.066Z",
+    "removed_at": "2026-10-01T17:04:25.040Z",
+    "duration_minutes": 646,
+    "duration_str": "10h 46m"
   },
   {
     "title": "culture:::«Que seraient nos vies si nos amis avaient autant d’importance que nos amours?»: à La Grange à Dorigny, avant une tournée romande, la question électrise un public adolescent",
@@ -111860,7 +111872,10 @@
   },
   {
     "title": "monde:::«Frein d’urgence»: le gouvernement français présente son très tendu budget pour 2027",
-    "added_at": "2026-10-01T09:34:28.585Z"
+    "added_at": "2026-10-01T09:34:28.585Z",
+    "removed_at": "2026-10-01T17:31:08.261Z",
+    "duration_minutes": 476,
+    "duration_str": "7h 56m"
   },
   {
     "title": "economie:::L’inflation suisse atteint 1%, poussée par un bond de 31% des prix du pétrole qui inquiète peu la Banque nationale",
@@ -111878,7 +111893,10 @@
   },
   {
     "title": "economie:::Un actionnaire d’UBS exhorte la banque à quitter la Suisse face aux nouvelles exigences de fonds propres",
-    "added_at": "2026-10-01T10:25:28.566Z"
+    "added_at": "2026-10-01T10:25:28.566Z",
+    "removed_at": "2026-10-01T17:33:34.506Z",
+    "duration_minutes": 428,
+    "duration_str": "7h 8m"
   },
   {
     "title": "suisse:::Fin de partie dans l’affaire de la plume et du notable qui plaidait le jeu sexuel ayant mal tourné: la condamnation pour meurtre est confirmée par le Tribunal fédéral",
@@ -111889,15 +111907,24 @@
   },
   {
     "title": "monde:::En direct, guerre en Ukraine – Un drone russe a frappé un site de recherche nucléaire à Kiev",
-    "added_at": "2026-10-01T12:22:16.408Z"
+    "added_at": "2026-10-01T12:22:16.408Z",
+    "removed_at": "2026-10-01T16:06:05.329Z",
+    "duration_minutes": 223,
+    "duration_str": "3h 43m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les Emirats arabes unis enquêtent sur une possible piste «terroriste» après l'attaque présumée survenue à bord d'un vol Flydubai",
-    "added_at": "2026-10-01T12:29:32.969Z"
+    "added_at": "2026-10-01T12:29:32.969Z",
+    "removed_at": "2026-10-01T17:57:51.785Z",
+    "duration_minutes": 328,
+    "duration_str": "5h 28m"
   },
   {
     "title": "economie:::A Zwickau, en Allemagne, le désarroi des employés et sous-traitants de VW: «Pour la plupart d’entre nous, il n’y a pas d’alternative à l’automobile»",
-    "added_at": "2026-10-01T12:46:30.615Z"
+    "added_at": "2026-10-01T12:46:30.615Z",
+    "removed_at": "2026-10-01T17:11:40.095Z",
+    "duration_minutes": 265,
+    "duration_str": "4h 25m"
   },
   {
     "title": "sciences:::A Fribourg, le confort thermique des piétons au cœur d’une étude scientifique",
@@ -111924,22 +111951,96 @@
   },
   {
     "title": "culture:::D’Annecy à Fribourg, le festival JazzContreBand étend ses antennes pendant un mois",
-    "added_at": "2026-10-01T14:50:36.565Z"
+    "added_at": "2026-10-01T14:50:36.565Z",
+    "removed_at": "2026-10-01T17:04:25.040Z",
+    "duration_minutes": 133,
+    "duration_str": "2h 13m"
   },
   {
     "title": "suisse:::À Genève, un accord solde le conflit social qui menaçait le secteur principal de la construction",
-    "added_at": "2026-10-01T15:12:27.916Z"
+    "added_at": "2026-10-01T15:12:27.916Z",
+    "removed_at": "2026-10-01T16:25:34.700Z",
+    "duration_minutes": 73,
+    "duration_str": "1h 13m"
   },
   {
     "title": "suisse:::«Cette loi n’est plus en phase avec notre métier»: les travailleuses du sexe dénoncent un cadre légal suisse obsolète face au numérique",
-    "added_at": "2026-10-01T15:17:16.354Z"
+    "added_at": "2026-10-01T15:17:16.354Z",
+    "removed_at": "2026-10-01T18:07:37.722Z",
+    "duration_minutes": 170,
+    "duration_str": "2h 50m"
   },
   {
     "title": "suisse:::JO 2038: Après bientôt 80 ans sans Jeux olympiques d’hiver, le National ouvre la voie à une candidature suisse",
-    "added_at": "2026-10-01T15:31:52.577Z"
+    "added_at": "2026-10-01T15:31:52.577Z",
+    "removed_at": "2026-10-01T17:53:01.994Z",
+    "duration_minutes": 141,
+    "duration_str": "2h 21m"
   },
   {
     "title": "culture:::A Genève et Lausanne, l’OSR dirigé avec maestria par la hongkongaise Elim Chan",
-    "added_at": "2026-10-01T15:36:44.720Z"
+    "added_at": "2026-10-01T15:36:44.720Z",
+    "removed_at": "2026-10-01T17:31:08.261Z",
+    "duration_minutes": 114,
+    "duration_str": "1h 54m"
+  },
+  {
+    "title": "economie:::Leclanché obtient un délai auprès de la bourse alors que le bilan s’alourdit à deux mois de salaires impayés",
+    "added_at": "2026-10-01T15:58:47.191Z"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine – Pour la première fois depuis le début de son invasion, la Russie a visé un viaduc à Kiev",
+    "added_at": "2026-10-01T16:06:05.329Z",
+    "removed_at": "2026-10-01T17:31:08.261Z",
+    "duration_minutes": 85,
+    "duration_str": "1h 25m"
+  },
+  {
+    "title": "suisse:::A Genève, un accord solde le conflit social qui menaçait le secteur principal de la construction",
+    "added_at": "2026-10-01T16:25:34.700Z"
+  },
+  {
+    "title": "monde:::«Cornell 7», l'affaire du viol collectif qui questionne la protection des victimes par les grandes universités américaines",
+    "added_at": "2026-10-01T16:59:36.466Z"
+  },
+  {
+    "title": "monde:::Mediapart affirme avoir pu authentifier les messages antisémites attribués à Jordan Bardella",
+    "added_at": "2026-10-01T17:04:25.040Z"
+  },
+  {
+    "title": "monde:::«Il va tenter de s’en prendre à moi»: en Grande-Bretagne, les victimes redoutent la libération anticipée de 4500 prisonniers, dont 700 ce jeudi",
+    "added_at": "2026-10-01T17:04:25.040Z"
+  },
+  {
+    "title": "suisse:::Violences présumées, ingérences, mort d’une ex-amante: l’affaire Zali plonge le Tessin dans la tourmente",
+    "added_at": "2026-10-01T17:11:40.095Z"
+  },
+  {
+    "title": "suisse:::Après l’imposition individuelle, un comité féminin repart en campagne pour les couples mariés",
+    "added_at": "2026-10-01T17:31:08.261Z"
+  },
+  {
+    "title": "suisse:::A Berne, des élus demandent de sanctionner les colons israéliens violents",
+    "added_at": "2026-10-01T17:31:08.261Z"
+  },
+  {
+    "title": "monde:::En direct, guerre contre l’Ukraine – Vladimir Poutine juge «ridicule» l’idée d’un arrêt mutuel des frappes de longue portée avec l’Ukraine",
+    "added_at": "2026-10-01T17:31:08.261Z"
+  },
+  {
+    "title": "cyber:::Pour ses débuts en bourse, Infomaniak voit sa valorisation s’envoler à 400 millions de francs",
+    "added_at": "2026-10-01T17:33:34.506Z"
+  },
+  {
+    "title": "suisse:::JO 2038: après bientôt 80 ans sans Jeux olympiques d’hiver en Suisse, le National ouvre la voie à une candidature",
+    "added_at": "2026-10-01T17:53:01.994Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Le Royaume-Uni a arrêté un double national britannique et iranien soupçonné d'avoir préparé un attentat contre la base de Fairford",
+    "added_at": "2026-10-01T17:57:51.785Z"
+  },
+  {
+    "title": "monde:::«Une bascule avec un changement de discours, plus radical»: les blocages de lycées français s’étendent et virent aux violences",
+    "added_at": "2026-10-01T18:07:37.722Z"
   }
 ]
