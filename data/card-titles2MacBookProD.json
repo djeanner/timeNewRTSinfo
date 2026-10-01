@@ -111604,7 +111604,10 @@
   },
   {
     "title": "sciences:::Plongée dans un élevage de tardigrades, pour percer les secrets de leurs super-pouvoirs",
-    "added_at": "2026-09-30T13:15:05.864Z"
+    "added_at": "2026-09-30T13:15:05.864Z",
+    "removed_at": "2026-10-01T06:17:53.066Z",
+    "duration_minutes": 1022,
+    "duration_str": "17h 2m"
   },
   {
     "title": "suisse:::Avec la fin de la concertation publique, la riposte des opposants au mégacollisionneur du CERN se précise",
@@ -111689,10 +111692,7 @@
   },
   {
     "title": "suisse:::Exclusif – Deux élus demandent le remboursement et la fin des rabais sur les médicaments",
-    "added_at": "2026-09-30T16:08:17.058Z",
-    "removed_at": "2026-10-01T04:28:39.263Z",
-    "duration_minutes": 740,
-    "duration_str": "12h 20m"
+    "added_at": "2026-09-30T16:08:17.058Z"
   },
   {
     "title": "cyber:::Au diable, toute contrainte: les géants américains de l’IA obtiennent le feu vert pour une petite autorégulation entre amis",
@@ -111715,11 +111715,17 @@
   },
   {
     "title": "cyber:::Anthropic se met à nu avant son entrée en bourse, dévoilant plus de 500 milliards de dollars d’investissement",
-    "added_at": "2026-09-30T17:16:19.542Z"
+    "added_at": "2026-09-30T17:16:19.542Z",
+    "removed_at": "2026-10-01T06:49:26.164Z",
+    "duration_minutes": 813,
+    "duration_str": "13h 33m"
   },
   {
     "title": "suisse:::Après l’été historique, le parlement passe Albert Rösti sur le gril",
-    "added_at": "2026-09-30T17:16:19.542Z"
+    "added_at": "2026-09-30T17:16:19.542Z",
+    "removed_at": "2026-10-01T05:10:01.675Z",
+    "duration_minutes": 713,
+    "duration_str": "11h 53m"
   },
   {
     "title": "suisse:::Complicité de meurtre, aide au suicide, abus sexuels: en procès à Lausanne, face à l’accumulation, reste le fardeau de la preuve",
@@ -111738,7 +111744,10 @@
   },
   {
     "title": "culture:::Avec «Fête de famille», l'humoriste Jeremy Crausaz se met à table",
-    "added_at": "2026-09-30T19:22:57.768Z"
+    "added_at": "2026-09-30T19:22:57.768Z",
+    "removed_at": "2026-10-01T05:34:19.592Z",
+    "duration_minutes": 611,
+    "duration_str": "10h 11m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Flydubai suspend ses vols avec Israël pendant l’enquête sur le vol FZ 1073",
@@ -111794,5 +111803,31 @@
   {
     "title": "economie:::Un an après l’entrée en vigueur de l’accord de libre-échange entre l’Inde et la Suisse, l’horlogerie sourit et l’industrie de la tech ronge son frein",
     "added_at": "2026-10-01T04:28:39.263Z"
+  },
+  {
+    "title": "monde:::Après un ultime retournement de situation, la condamnée Christa Pike va finalement être exécutée dans le Tennessee",
+    "added_at": "2026-10-01T05:10:01.675Z",
+    "removed_at": "2026-10-01T05:48:53.358Z",
+    "duration_minutes": 38,
+    "duration_str": "38m"
+  },
+  {
+    "title": "monde:::Christa Pike survit à son exécution: «difficulté d’accès aux veines, veines rompues, pentobarbital dégradé»",
+    "added_at": "2026-10-01T05:48:53.358Z",
+    "removed_at": "2026-10-01T06:15:31.124Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "monde:::Aux Etats-Unis, Christa Pike a survécu à la tentative d’exécution: «difficulté d’accès aux veines, veines rompues, pentobarbital dégradé»",
+    "added_at": "2026-10-01T06:15:31.124Z"
+  },
+  {
+    "title": "monde:::A New York, Zohran Mamdani perd une manche contre les riches propriétaires",
+    "added_at": "2026-10-01T06:17:53.066Z"
+  },
+  {
+    "title": "culture:::«Que seraient nos vies si nos amis avaient autant d’importance que nos amours?»: à La Grange à Dorigny, avant une tournée romande, la question électrise un public adolescent",
+    "added_at": "2026-10-01T07:11:14.035Z"
   }
 ]
