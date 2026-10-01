@@ -110715,7 +110715,10 @@
   },
   {
     "title": "La Matinale - Présentée par Valérie Hauert",
-    "added_at": "2026-09-02T12:26:54.197Z"
+    "added_at": "2026-09-02T12:26:54.197Z",
+    "removed_at": "2026-10-01T11:14:16.604Z",
+    "duration_minutes": 41687,
+    "duration_str": "28d 22h 47m"
   },
   {
     "title": "Malbouffe: quand l'agroalimentaire attaque les Etats en justice",
@@ -120208,7 +120211,10 @@
   },
   {
     "title": "Pourquoi les politiques n'ont pas réagi plus vite et plus fort contre le réchauffement climatique?",
-    "added_at": "2026-09-29T07:43:28.116Z"
+    "added_at": "2026-09-29T07:43:28.116Z",
+    "removed_at": "2026-10-01T11:16:39.168Z",
+    "duration_minutes": 3093,
+    "duration_str": "2d 3h 33m"
   },
   {
     "title": "Il y a 200 ans, la première fabrique Suchard voyait le jour à Serrières",
@@ -120340,7 +120346,10 @@
   },
   {
     "title": "A cause des attaques russes en plein jour, une université de Kiev instaure les cours à distance",
-    "added_at": "2026-09-29T13:01:40.189Z"
+    "added_at": "2026-09-29T13:01:40.189Z",
+    "removed_at": "2026-10-01T11:21:33.970Z",
+    "duration_minutes": 2779,
+    "duration_str": "1d 22h 19m"
   },
   {
     "title": "Le journal bilingue gratuit Biel Bienne cesse de paraître à la fin de l'année",
@@ -120358,7 +120367,10 @@
   },
   {
     "title": "Sous pression populaire, le gouvernement espagnol se penche sur la crise du logement",
-    "added_at": "2026-09-29T13:37:46.508Z"
+    "added_at": "2026-09-29T13:37:46.508Z",
+    "removed_at": "2026-10-01T11:26:23.275Z",
+    "duration_minutes": 2748,
+    "duration_str": "1d 21h 48m"
   },
   {
     "title": "Jordan Bardella dénonce \"une guerre totale\" contre le RN",
@@ -120373,7 +120385,10 @@
   },
   {
     "title": "Reine du fragment, Corinne Desarzens explore avec 'Trois' les liens unissant adultes et enfants",
-    "added_at": "2026-09-29T14:50:02.914Z"
+    "added_at": "2026-09-29T14:50:02.914Z",
+    "removed_at": "2026-10-01T11:28:45.770Z",
+    "duration_minutes": 2678,
+    "duration_str": "1d 20h 38m"
   },
   {
     "title": "Infarctus: les signes à reconnaître et les bons réflexes à adopter",
@@ -120770,7 +120785,10 @@
   },
   {
     "title": "Des demandeurs d'asile logés à prix d'or dans les maisons Sugus de Zurich après l'expulsion des locataires",
-    "added_at": "2026-10-01T09:39:24.189Z"
+    "added_at": "2026-10-01T09:39:24.189Z",
+    "removed_at": "2026-10-01T12:22:16.328Z",
+    "duration_minutes": 162,
+    "duration_str": "2h 42m"
   },
   {
     "title": "\"Backpack\" gagne le titre de l'ours brun le plus gras d'Alaska au terme d'une compétition serrée",
@@ -120779,5 +120797,43 @@
   {
     "title": "Les étudiants français rejoignent les lycéens dans leur mouvement de protestation",
     "added_at": "2026-10-01T10:08:31.527Z"
+  },
+  {
+    "title": "Au Maroc, une femme nommée cheffe du gouvernement",
+    "added_at": "2026-10-01T11:14:16.604Z"
+  },
+  {
+    "title": "Un comité lance une initiative pour supprimer la pénalisation fiscale du mariage",
+    "added_at": "2026-10-01T11:16:39.168Z",
+    "removed_at": "2026-10-01T11:21:33.970Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Un comité lance une nouvelle campagne pour supprimer la pénalisation fiscale du mariage",
+    "added_at": "2026-10-01T11:21:33.970Z"
+  },
+  {
+    "title": "Neuchâtel va surveiller des auteurs de violence domestique avec des bracelets électroniques",
+    "added_at": "2026-10-01T11:21:33.970Z"
+  },
+  {
+    "title": "Une création d'Erik Truffaz pour fêter les 30 ans du festival franco-suisse JazzContreBand",
+    "added_at": "2026-10-01T11:26:23.275Z"
+  },
+  {
+    "title": "Le volet chablaisien de la troisième correction du Rhône mis à l'enquête",
+    "added_at": "2026-10-01T11:28:45.770Z"
+  },
+  {
+    "title": "A Zurich, des appartements Sugus reloués deux fois plus cher après l'expulsion des précédents locataires",
+    "added_at": "2026-10-01T12:22:16.328Z",
+    "removed_at": "2026-10-01T12:51:25.635Z",
+    "duration_minutes": 29,
+    "duration_str": "29m"
+  },
+  {
+    "title": "A Zurich, l'Etat paie cher la location d'appartements 'Sugus' pour des personnes relevant du domaine de l'asile",
+    "added_at": "2026-10-01T12:51:25.635Z"
   }
 ]
