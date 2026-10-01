@@ -118692,10 +118692,7 @@
   },
   {
     "title": "La Matinale (vidéo) - Présentée par Valérie Hauert",
-    "added_at": "2026-09-24T23:19:07.505Z",
-    "removed_at": "2026-09-25T07:16:35.767Z",
-    "duration_minutes": 477,
-    "duration_str": "7h 57m"
+    "added_at": "2026-09-24T23:19:07.505Z"
   },
   {
     "title": "C'est quoi le néonazisme aujourd'hui ?",
@@ -120405,7 +120402,10 @@
   },
   {
     "title": "Une explosion a eu lieu dans un immeuble à Neuchâtel",
-    "added_at": "2026-09-29T15:14:20.648Z"
+    "added_at": "2026-09-29T15:14:20.648Z",
+    "removed_at": "2026-10-01T20:16:44.671Z",
+    "duration_minutes": 3182,
+    "duration_str": "2d 5h 2m"
   },
   {
     "title": "Des pluies torrentielles et un glissement de terrain ravagent encore le Népal",
@@ -120462,7 +120462,10 @@
   },
   {
     "title": "Les assurés sont \"pris à la gorge\": les réactions fusent après l'annonce de la hausse des primes maladie",
-    "added_at": "2026-09-29T16:19:21.172Z"
+    "added_at": "2026-09-29T16:19:21.172Z",
+    "removed_at": "2026-10-01T18:44:21.485Z",
+    "duration_minutes": 3025,
+    "duration_str": "2d 2h 25m"
   },
   {
     "title": "Les primes maladie grimperont de 5% en 2027. Et chez vous? Nos cartes pour le découvrir",
@@ -120470,7 +120473,10 @@
   },
   {
     "title": "Le \"tortionnaire de Moudon\" écope de 13 ans de prison et d'une mesure thérapeutique",
-    "added_at": "2026-09-29T17:10:01.675Z"
+    "added_at": "2026-09-29T17:10:01.675Z",
+    "removed_at": "2026-10-01T20:36:05.076Z",
+    "duration_minutes": 3086,
+    "duration_str": "2d 3h 26m"
   },
   {
     "title": "Une réunion d’extrême droite dans le viseur de la justice vaudoise",
@@ -120538,7 +120544,10 @@
   },
   {
     "title": "La commune de Martigny dit oui au projet de fusion avec Vernayaz",
-    "added_at": "2026-09-29T23:49:03.645Z"
+    "added_at": "2026-09-29T23:49:03.645Z",
+    "removed_at": "2026-10-01T20:57:56.217Z",
+    "duration_minutes": 2708,
+    "duration_str": "1d 21h 8m"
   },
   {
     "title": "L'EPFL et l'EPFZ perdent une place dans le classement mondial des universités",
@@ -120570,7 +120579,10 @@
   },
   {
     "title": "Une réunion d'extrême droite dans le viseur de la justice vaudoise",
-    "added_at": "2026-09-30T08:21:12.794Z"
+    "added_at": "2026-09-30T08:21:12.794Z",
+    "removed_at": "2026-10-01T19:59:44.811Z",
+    "duration_minutes": 2138,
+    "duration_str": "1d 11h 38m"
   },
   {
     "title": "Le Conseil des Etats valide les mesures de protection des salaires liées aux accords avec l'UE",
@@ -120943,5 +120955,35 @@
   {
     "title": "Ranger pour se sentir mieux",
     "added_at": "2026-10-01T18:17:25.025Z"
+  },
+  {
+    "title": "Mediapart authentifie les messages antisémites de Jordan Bardella, qui continue de nier",
+    "added_at": "2026-10-01T18:44:21.485Z",
+    "removed_at": "2026-10-01T18:46:51.474Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Mediapart révèle avoir pu authentifier les messages antisémites de Bardella, qui continue de nier",
+    "added_at": "2026-10-01T18:46:51.474Z",
+    "removed_at": "2026-10-01T18:49:14.996Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Mediapart révèle avoir pu authentifier les messages antisémites de Jordan Bardella, qui continue de nier",
+    "added_at": "2026-10-01T18:49:14.996Z"
+  },
+  {
+    "title": "À Yverdon-les-Bains, le fabricant de batteries Leclanché joue sa survie",
+    "added_at": "2026-10-01T19:59:44.811Z"
+  },
+  {
+    "title": "La Russie pourrait utiliser \"tous les types d'armes\" en cas d'attaque contre Kaliningrad, avertit Poutine",
+    "added_at": "2026-10-01T20:36:05.076Z"
+  },
+  {
+    "title": "Un sixième suspect arrêté après le projet d'attentat évité à Fairford, Israël dit avoir averti Londres",
+    "added_at": "2026-10-01T20:57:56.217Z"
   }
 ]
