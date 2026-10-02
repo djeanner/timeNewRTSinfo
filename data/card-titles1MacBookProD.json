@@ -11643,10 +11643,7 @@
   },
   {
     "title": "Couleurs locales",
-    "added_at": "2025-08-28T06:01:32.713Z",
-    "removed_at": "2026-10-02T15:14:10.176Z",
-    "duration_minutes": 576552,
-    "duration_str": "400d 9h 12m"
+    "added_at": "2025-08-28T06:01:32.713Z"
   },
   {
     "title": "Les entreprises suisses à la conquête du marché irakien",
@@ -120660,7 +120657,10 @@
   },
   {
     "title": "A Genève, la contraception sera bientôt gratuite",
-    "added_at": "2026-09-30T09:16:56.838Z"
+    "added_at": "2026-09-30T09:16:56.838Z",
+    "removed_at": "2026-10-02T20:18:24.675Z",
+    "duration_minutes": 3541,
+    "duration_str": "2d 11h 1m"
   },
   {
     "title": "La Fondation Martin Bodmer dévoile ses manuscrits mythiques dans un écrin métamorphosé",
@@ -120822,7 +120822,10 @@
   },
   {
     "title": "L'Association suisse de football lâche Gianni Infantino, évoquant une \"rupture de confiance\"",
-    "added_at": "2026-09-30T15:48:45.901Z"
+    "added_at": "2026-09-30T15:48:45.901Z",
+    "removed_at": "2026-10-02T19:49:21.422Z",
+    "duration_minutes": 3120,
+    "duration_str": "2d 4h"
   },
   {
     "title": "Les infrastructures menacées par le réchauffement des océans polaires",
@@ -120854,7 +120857,10 @@
   },
   {
     "title": "Un gigantesque \"Help\" tracé sur le lit asséché du lac des Brenets",
-    "added_at": "2026-09-30T16:47:18.368Z"
+    "added_at": "2026-09-30T16:47:18.368Z",
+    "removed_at": "2026-10-02T20:08:45.804Z",
+    "duration_minutes": 3081,
+    "duration_str": "2d 3h 21m"
   },
   {
     "title": "Une commission pourra recommander la restitution d'objets liés aux spoliations nazies ou coloniales",
@@ -121135,7 +121141,10 @@
   },
   {
     "title": "Il y a 25 ans, le grounding de Swissair créait la stupeur dans toute la Suisse",
-    "added_at": "2026-10-02T06:48:08.155Z"
+    "added_at": "2026-10-02T06:48:08.155Z",
+    "removed_at": "2026-10-02T20:35:26.036Z",
+    "duration_minutes": 827,
+    "duration_str": "13h 47m"
   },
   {
     "title": "Catherine Meurisse signe 'Le Clan de Walden', une fable qui célèbre le vivant avec humour",
@@ -121166,16 +121175,13 @@
   {
     "title": "Le portrait de Guy Parmelin, qui démissionnera du Conseil fédéral à la fin de l'année",
     "added_at": "2026-10-02T09:11:51.632Z",
-    "removed_at": "2026-10-02T09:19:10.122Z",
-    "duration_minutes": 7,
-    "duration_str": "7m"
+    "removed_at": "2026-10-02T21:09:21.507Z",
+    "duration_minutes": 717,
+    "duration_str": "11h 57m"
   },
   {
     "title": "Forum (vidéo) - Présenté par Thibaut Schaller et Guillaume Rey",
-    "added_at": "2026-10-02T09:14:17.896Z",
-    "removed_at": "2026-10-02T18:58:02.742Z",
-    "duration_minutes": 583,
-    "duration_str": "9h 43m"
+    "added_at": "2026-10-02T09:14:17.896Z"
   },
   {
     "title": "Le ministre français de l'Education tente de calmer la contestation dans les lycées",
@@ -121228,7 +121234,10 @@
   },
   {
     "title": "Dans le Doubs, un «Help» géant dans un lac à sec pour alerter sur la sécheresse",
-    "added_at": "2026-10-02T11:20:44.144Z"
+    "added_at": "2026-10-02T11:20:44.144Z",
+    "removed_at": "2026-10-02T20:16:02.194Z",
+    "duration_minutes": 535,
+    "duration_str": "8h 55m"
   },
   {
     "title": "Dans 'Digger', Tom Cruise creuse la tombe de notre humanité ★★★★☆",
@@ -121330,5 +121339,13 @@
   {
     "title": "Guy Parmelin annonce sa démission du Conseil fédéral au 31 décembre",
     "added_at": "2026-10-02T18:19:04.031Z"
+  },
+  {
+    "title": "La mobilisation lycéenne se poursuit en France malgré les annonces du gouvernement",
+    "added_at": "2026-10-02T19:49:21.422Z"
+  },
+  {
+    "title": "Il y a 25 ans, le grounding de Swissair créait la stupeur à travers le pays",
+    "added_at": "2026-10-02T20:35:26.036Z"
   }
 ]
