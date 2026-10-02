@@ -118692,7 +118692,10 @@
   },
   {
     "title": "La Matinale (vidéo) - Présentée par Valérie Hauert",
-    "added_at": "2026-09-24T23:19:07.505Z"
+    "added_at": "2026-09-24T23:19:07.505Z",
+    "removed_at": "2026-10-01T21:22:26.348Z",
+    "duration_minutes": 9963,
+    "duration_str": "6d 22h 3m"
   },
   {
     "title": "C'est quoi le néonazisme aujourd'hui ?",
@@ -120551,7 +120554,10 @@
   },
   {
     "title": "L'EPFL et l'EPFZ perdent une place dans le classement mondial des universités",
-    "added_at": "2026-09-30T01:25:22.139Z"
+    "added_at": "2026-09-30T01:25:22.139Z",
+    "removed_at": "2026-10-01T21:51:33.346Z",
+    "duration_minutes": 2666,
+    "duration_str": "1d 20h 26m"
   },
   {
     "title": "Les patrons de l'IA promettent de s'autoréguler et adoptent un code de bonne conduite",
@@ -120985,5 +120991,13 @@
   {
     "title": "Un sixième suspect arrêté après le projet d'attentat évité à Fairford, Israël dit avoir averti Londres",
     "added_at": "2026-10-01T20:57:56.217Z"
+  },
+  {
+    "title": "Qui est le \"tortionnaire de Moudon\" ?",
+    "added_at": "2026-10-01T21:22:26.348Z"
+  },
+  {
+    "title": "Une enquête indépendante est demandée sur le département de Maudet",
+    "added_at": "2026-10-01T21:51:33.346Z"
   }
 ]
