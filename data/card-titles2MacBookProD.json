@@ -112099,7 +112099,10 @@
   },
   {
     "title": "sport:::Lionel Messi et Cristiano Ronaldo s’opposent jusqu’au bout. L’un part en héros, l’autre en star déchue",
-    "added_at": "2026-10-01T18:39:32.335Z"
+    "added_at": "2026-10-01T18:39:32.335Z",
+    "removed_at": "2026-10-02T16:19:58.755Z",
+    "duration_minutes": 1300,
+    "duration_str": "21h 40m"
   },
   {
     "title": "sport:::Une grande déception et une petite consolation pour Servette FCCF",
@@ -112283,7 +112286,10 @@
   },
   {
     "title": "culture:::Maîtresse de la farce subversive, l'artiste Rébecca Chaillon fait l'éloge du gras à la Comédie de Genève, dans «La Parabole du Seum»",
-    "added_at": "2026-10-02T09:43:27.499Z"
+    "added_at": "2026-10-02T09:43:27.499Z",
+    "removed_at": "2026-10-02T18:58:02.828Z",
+    "duration_minutes": 554,
+    "duration_str": "9h 14m"
   },
   {
     "title": "economie:::A Zurich, Mario Draghi met l’Europe en garde: la BCE ne pourra pas absorber le choc de la dette",
@@ -112308,7 +112314,10 @@
   },
   {
     "title": "economie:::A Zurich, Mario Draghi met l’Europe en garde: la BCE ne pourra pas absorber seule le choc de la dette",
-    "added_at": "2026-10-02T11:50:00.655Z"
+    "added_at": "2026-10-02T11:50:00.655Z",
+    "removed_at": "2026-10-02T16:37:03.126Z",
+    "duration_minutes": 287,
+    "duration_str": "4h 47m"
   },
   {
     "title": "suisse:::En direct – Les milieux économiques applaudissent Guy Parmelin, qui a annoncé son départ du Conseil fédéral",
@@ -112356,7 +112365,10 @@
   },
   {
     "title": "suisse:::De l’UDC au PS, les Vaudois rendent hommage à Guy Parmelin: un conseiller fédéral «modeste et efficace» qui a su dialoguer",
-    "added_at": "2026-10-02T14:49:57.251Z"
+    "added_at": "2026-10-02T14:49:57.251Z",
+    "removed_at": "2026-10-02T17:13:30.725Z",
+    "duration_minutes": 143,
+    "duration_str": "2h 23m"
   },
   {
     "title": "economie:::«Pour s’affranchir d’un héritage devenu encombrant»: le géant des matières premières Gunvor s’appellera Centalion",
@@ -112368,10 +112380,65 @@
   },
   {
     "title": "monde:::Les ambassadeurs suisses auprès de l’UE et de l’OTAN seront remplacés en 2027",
-    "added_at": "2026-10-02T15:38:29.776Z"
+    "added_at": "2026-10-02T15:38:29.776Z",
+    "removed_at": "2026-10-02T18:28:49.895Z",
+    "duration_minutes": 170,
+    "duration_str": "2h 50m"
   },
   {
     "title": "economie:::Les dirigeants du G7 conviennent de libérer à nouveau des stocks de gazole pour enrayer la flambée des prix",
-    "added_at": "2026-10-02T15:40:52.348Z"
+    "added_at": "2026-10-02T15:40:52.348Z",
+    "removed_at": "2026-10-02T17:40:10.895Z",
+    "duration_minutes": 119,
+    "duration_str": "1h 59m"
+  },
+  {
+    "title": "suisse:::Procès à Lausanne: condamné à 4 ans et demi de prison pour son «soutien indéfectible» au projet «égoïste et cruel» de son amie",
+    "added_at": "2026-10-02T16:19:58.755Z",
+    "removed_at": "2026-10-02T18:36:07.256Z",
+    "duration_minutes": 136,
+    "duration_str": "2h 16m"
+  },
+  {
+    "title": "economie:::Crise de gouvernance à la tête du géant du vin Castel, la justice singapourienne a tranché",
+    "added_at": "2026-10-02T16:37:03.126Z"
+  },
+  {
+    "title": "suisse:::Avec le départ de Guy Parmelin, un département de l’Economie orphelin avant des échéances politiques cruciales",
+    "added_at": "2026-10-02T17:13:30.725Z",
+    "removed_at": "2026-10-02T18:11:46.502Z",
+    "duration_minutes": 58,
+    "duration_str": "58m"
+  },
+  {
+    "title": "suisse:::Guy Parmelin tire sa révérence: «Le feu sacré n’est plus aussi sacré»",
+    "added_at": "2026-10-02T17:20:41.431Z",
+    "removed_at": "2026-10-02T18:26:20.737Z",
+    "duration_minutes": 65,
+    "duration_str": "1h 5m"
+  },
+  {
+    "title": "economie:::UBS, la banque trop suisse pour être vendue",
+    "added_at": "2026-10-02T17:40:10.895Z"
+  },
+  {
+    "title": "suisse:::Avec le départ de Guy Parmelin, un Département de l’économie orphelin avant des échéances politiques cruciales",
+    "added_at": "2026-10-02T18:11:46.502Z"
+  },
+  {
+    "title": "economie:::Guy Parmelin ou l’hyperactivisme commercial",
+    "added_at": "2026-10-02T18:26:20.737Z"
+  },
+  {
+    "title": "monde:::«Si j’avais démissionné, j’aurais offert cette victoire sur un plateau»: Philippe Lazzarini raconte son combat à l’UNRWA",
+    "added_at": "2026-10-02T18:28:49.895Z"
+  },
+  {
+    "title": "suisse:::Procès à Lausanne: condamné à 4 ans et demi de prison pour son «soutien indéfectible» au projet «égoïste et cruel» de son amie",
+    "added_at": "2026-10-02T18:36:07.256Z"
+  },
+  {
+    "title": "culture:::A Renens avant Bulle, Monthey et Fribourg, «La Visite de la Vieille dame» d'Omar Porras et Friedrich Dürrenmatt est plus canaille que jamais",
+    "added_at": "2026-10-02T18:58:02.828Z"
   }
 ]
