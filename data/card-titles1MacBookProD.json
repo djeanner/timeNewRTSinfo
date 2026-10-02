@@ -110718,10 +110718,7 @@
   },
   {
     "title": "La Matinale - Présentée par Valérie Hauert",
-    "added_at": "2026-09-02T12:26:54.197Z",
-    "removed_at": "2026-10-02T00:17:20.674Z",
-    "duration_minutes": 42470,
-    "duration_str": "29d 11h 50m"
+    "added_at": "2026-09-02T12:26:54.197Z"
   },
   {
     "title": "Malbouffe: quand l'agroalimentaire attaque les Etats en justice",
@@ -120570,7 +120567,10 @@
   },
   {
     "title": "Les patrons de l'IA promettent de s'autoréguler et adoptent un code de bonne conduite",
-    "added_at": "2026-09-30T03:23:25.314Z"
+    "added_at": "2026-09-30T03:23:25.314Z",
+    "removed_at": "2026-10-02T07:05:04.627Z",
+    "duration_minutes": 3101,
+    "duration_str": "2d 3h 41m"
   },
   {
     "title": "Le premier robotaxi de Suisse est en service",
@@ -120592,7 +120592,10 @@
   },
   {
     "title": "La coalition antidjihadiste dirigée par les Etats-Unis quitte l'Irak",
-    "added_at": "2026-09-30T07:01:03.204Z"
+    "added_at": "2026-09-30T07:01:03.204Z",
+    "removed_at": "2026-10-02T07:58:51.031Z",
+    "duration_minutes": 2937,
+    "duration_str": "2d 57m"
   },
   {
     "title": "Malgré une baisse d’impôts de 12%, la charge fiscale dans le canton de Vaud reste au-dessus de la moyenne nationale",
@@ -120632,7 +120635,10 @@
   },
   {
     "title": "Unisanté rejoint un réseau international de l'OMS pour la santé des personnes migrantes",
-    "added_at": "2026-09-30T09:04:51.861Z"
+    "added_at": "2026-09-30T09:04:51.861Z",
+    "removed_at": "2026-10-02T06:48:08.155Z",
+    "duration_minutes": 2743,
+    "duration_str": "1d 21h 43m"
   },
   {
     "title": "A Genève, la contraception sera bientôt gratuite",
@@ -120712,9 +120718,9 @@
   {
     "title": "Neuchâtel: un immeuble touché par une explosion",
     "added_at": "2026-09-30T13:44:13.390Z",
-    "removed_at": "2026-10-02T01:15:33.920Z",
-    "duration_minutes": 2131,
-    "duration_str": "1d 11h 31m"
+    "removed_at": "2026-10-02T08:03:39.886Z",
+    "duration_minutes": 2539,
+    "duration_str": "1d 18h 19m"
   },
   {
     "title": "Une femme meurt dans une explosion dans un immeuble à Neuchâtel",
@@ -121023,11 +121029,17 @@
   },
   {
     "title": "Forum - Présenté par Thibaut Schaller et Guillaume Rey",
-    "added_at": "2026-10-02T00:17:20.674Z"
+    "added_at": "2026-10-02T00:17:20.674Z",
+    "removed_at": "2026-10-02T07:27:14.459Z",
+    "duration_minutes": 429,
+    "duration_str": "7h 9m"
   },
   {
     "title": "Elon Musk va plancher sur les futures guerres des Etats-Unis",
-    "added_at": "2026-10-02T00:17:20.674Z"
+    "added_at": "2026-10-02T00:17:20.674Z",
+    "removed_at": "2026-10-02T07:27:14.459Z",
+    "duration_minutes": 429,
+    "duration_str": "7h 9m"
   },
   {
     "title": "Nike prévoit des suppressions d'emplois après des résultats contrastés",
@@ -121048,5 +121060,21 @@
   {
     "title": "Nicolas Roulin, rédacteur en chef de la rédaction numérique de la RTS, part à la retraite",
     "added_at": "2026-10-02T05:23:02.863Z"
+  },
+  {
+    "title": "Il y a 25 ans, le grounding de Swissair créait la stupeur dans toute la Suisse",
+    "added_at": "2026-10-02T06:48:08.155Z"
+  },
+  {
+    "title": "Catherine Meurisse signe 'Le Clan de Walden', une fable qui célèbre le vivant avec humour",
+    "added_at": "2026-10-02T07:05:04.627Z"
+  },
+  {
+    "title": "A Genève, des parents d’élèves dénoncent des cycles d’orientation trop grands et surpeuplés",
+    "added_at": "2026-10-02T07:27:14.459Z"
+  },
+  {
+    "title": "Jusqu'à 900'000 Suisses veulent changer d'assurance maladie, selon un sondage de Deloitte",
+    "added_at": "2026-10-02T07:58:51.031Z"
   }
 ]
