@@ -120577,7 +120577,10 @@
   },
   {
     "title": "Le premier robotaxi de Suisse est en service",
-    "added_at": "2026-09-30T04:38:17.401Z"
+    "added_at": "2026-09-30T04:38:17.401Z",
+    "removed_at": "2026-10-02T11:08:38.712Z",
+    "duration_minutes": 3270,
+    "duration_str": "2d 6h 30m"
   },
   {
     "title": "Au congrès du Labour, Andy Burnham défend un réengagement de l'Etat",
@@ -120602,7 +120605,10 @@
   },
   {
     "title": "Malgré une baisse d’impôts de 12%, la charge fiscale dans le canton de Vaud reste au-dessus de la moyenne nationale",
-    "added_at": "2026-09-30T08:18:46.539Z"
+    "added_at": "2026-09-30T08:18:46.539Z",
+    "removed_at": "2026-10-02T12:19:06.253Z",
+    "duration_minutes": 3120,
+    "duration_str": "2d 4h"
   },
   {
     "title": "Une réunion d'extrême droite dans le viseur de la justice vaudoise",
@@ -120695,7 +120701,10 @@
   },
   {
     "title": "Fleur de Pavé accompagne depuis 30 ans un milieu de la prostitution en pleine mutation",
-    "added_at": "2026-09-30T12:14:11.491Z"
+    "added_at": "2026-09-30T12:14:11.491Z",
+    "removed_at": "2026-10-02T11:37:44.611Z",
+    "duration_minutes": 2843,
+    "duration_str": "1d 23h 23m"
   },
   {
     "title": "Un avion reliant Dubaï à Tel-Aviv atterrit en urgence après une violente altercation dans le cockpit",
@@ -120724,7 +120733,10 @@
   },
   {
     "title": "Les économistes du KOF revoient nettement la croissance suisse à la hausse",
-    "added_at": "2026-09-30T13:44:13.390Z"
+    "added_at": "2026-09-30T13:44:13.390Z",
+    "removed_at": "2026-10-02T11:11:06.862Z",
+    "duration_minutes": 2726,
+    "duration_str": "1d 21h 26m"
   },
   {
     "title": "L'invité de La Matinale - Mauro Poggia, nouveau président de l'Association suisse des assurés",
@@ -120757,7 +120769,10 @@
   },
   {
     "title": "Sous pression, le fabricant de batteries Leclanché ne révèle toujours pas ses résultats 2025",
-    "added_at": "2026-09-30T14:32:57.808Z"
+    "added_at": "2026-09-30T14:32:57.808Z",
+    "removed_at": "2026-10-02T12:14:17.753Z",
+    "duration_minutes": 2741,
+    "duration_str": "1d 21h 41m"
   },
   {
     "title": "Dix-huit semaines de congé pour les mères comme pour les pères? Le peuple tranchera",
@@ -120765,7 +120780,10 @@
   },
   {
     "title": "Alain Perroux et Claude Cortese, deux directeurs d'opéras unis par une volonté de collaboration",
-    "added_at": "2026-09-30T14:42:43.612Z"
+    "added_at": "2026-09-30T14:42:43.612Z",
+    "removed_at": "2026-10-02T13:34:25.570Z",
+    "duration_minutes": 2811,
+    "duration_str": "1d 22h 51m"
   },
   {
     "title": "Volodymyr Zelensky se rend auprès des troupes sur le front de l'Est",
@@ -121116,9 +121134,9 @@
   {
     "title": "Forum (vidéo) - Présenté par Thibaut Schaller et Guillaume Rey",
     "added_at": "2026-10-02T09:14:17.896Z",
-    "removed_at": "2026-10-02T10:49:03.676Z",
-    "duration_minutes": 94,
-    "duration_str": "1h 34m"
+    "removed_at": "2026-10-02T13:24:45.847Z",
+    "duration_minutes": 250,
+    "duration_str": "4h 10m"
   },
   {
     "title": "Le ministre français de l'Education tente de calmer la contestation dans les lycées",
@@ -121158,5 +121176,33 @@
   {
     "title": "Revoir l'archive du sujet du 19h30 consacré à l'élection de Guy Parmelin au Conseil fédéral le 9 décembre 2015",
     "added_at": "2026-10-02T09:58:02.173Z"
+  },
+  {
+    "title": "Quelle sexualité après le cancer? Une femme en rémission témoigne",
+    "added_at": "2026-10-02T11:11:06.862Z"
+  },
+  {
+    "title": "Dans le Doubs, un «Help» géant dans un lac à sec pour alerter sur la sécheresse",
+    "added_at": "2026-10-02T11:20:44.144Z"
+  },
+  {
+    "title": "Dans 'Digger', Tom Cruise creuse la tombe de notre humanité ★★★★☆",
+    "added_at": "2026-10-02T11:37:44.611Z"
+  },
+  {
+    "title": "Menacés par un glissement de terrain, deux immeubles de Lutry doivent être évacués",
+    "added_at": "2026-10-02T12:14:17.753Z"
+  },
+  {
+    "title": "Mediapart défend son enquête sur Jordan Bardella: interview de Youmni Kezzouf",
+    "added_at": "2026-10-02T12:19:06.253Z"
+  },
+  {
+    "title": "BirdLife invite à observer la migration des oiseaux ce week-end sur plus de 50 sites",
+    "added_at": "2026-10-02T13:19:50.116Z"
+  },
+  {
+    "title": "Avec 'Pionnières!', DeLaurentis joue l'histoire de la musique électronique au féminin à Genève",
+    "added_at": "2026-10-02T13:34:25.570Z"
   }
 ]
