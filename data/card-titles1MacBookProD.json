@@ -11643,7 +11643,10 @@
   },
   {
     "title": "Couleurs locales",
-    "added_at": "2025-08-28T06:01:32.713Z"
+    "added_at": "2025-08-28T06:01:32.713Z",
+    "removed_at": "2026-10-03T00:14:30.173Z",
+    "duration_minutes": 577092,
+    "duration_str": "400d 18h 12m"
   },
   {
     "title": "Les entreprises suisses à la conquête du marché irakien",
@@ -121181,7 +121184,10 @@
   },
   {
     "title": "Forum (vidéo) - Présenté par Thibaut Schaller et Guillaume Rey",
-    "added_at": "2026-10-02T09:14:17.896Z"
+    "added_at": "2026-10-02T09:14:17.896Z",
+    "removed_at": "2026-10-03T00:16:58.140Z",
+    "duration_minutes": 902,
+    "duration_str": "15h 2m"
   },
   {
     "title": "Le ministre français de l'Education tente de calmer la contestation dans les lycées",
@@ -121347,5 +121353,9 @@
   {
     "title": "Il y a 25 ans, le grounding de Swissair créait la stupeur à travers le pays",
     "added_at": "2026-10-02T20:35:26.036Z"
+  },
+  {
+    "title": "Comment le temps d'écran affecte le développement des enfants",
+    "added_at": "2026-10-03T00:14:30.173Z"
   }
 ]
