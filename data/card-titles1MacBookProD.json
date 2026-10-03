@@ -120744,7 +120744,10 @@
   },
   {
     "title": "Vol vers Tel Aviv dérouté après que le copilote a poignardé le commandant de bord",
-    "added_at": "2026-09-30T13:15:05.783Z"
+    "added_at": "2026-09-30T13:15:05.783Z",
+    "removed_at": "2026-10-03T05:10:37.605Z",
+    "duration_minutes": 3835,
+    "duration_str": "2d 15h 55m"
   },
   {
     "title": "Les économistes du KOF revoient nettement la croissance suisse à la hausse",
@@ -120903,7 +120906,10 @@
   },
   {
     "title": "L'eau douce se raréfie sous l'impact du changement climatique, malgré le cycle de l'eau",
-    "added_at": "2026-10-01T04:38:17.606Z"
+    "added_at": "2026-10-01T04:38:17.606Z",
+    "removed_at": "2026-10-03T05:46:59.736Z",
+    "duration_minutes": 2948,
+    "duration_str": "2d 1h 8m"
   },
   {
     "title": "Le Conseil d'Etat genevois veut réformer la prise en charge des personnes sous curatelle",
@@ -121108,7 +121114,10 @@
   },
   {
     "title": "Qui est le \"tortionnaire de Moudon\" ?",
-    "added_at": "2026-10-01T21:22:26.348Z"
+    "added_at": "2026-10-01T21:22:26.348Z",
+    "removed_at": "2026-10-03T05:51:50.904Z",
+    "duration_minutes": 1949,
+    "duration_str": "1d 8h 29m"
   },
   {
     "title": "Une enquête indépendante est demandée sur le département de Maudet",
@@ -121191,9 +121200,9 @@
   {
     "title": "Forum (vidéo) - Présenté par Thibaut Schaller et Guillaume Rey",
     "added_at": "2026-10-02T09:14:17.896Z",
-    "removed_at": "2026-10-03T03:06:57.421Z",
-    "duration_minutes": 1072,
-    "duration_str": "17h 52m"
+    "removed_at": "2026-10-03T05:37:17.373Z",
+    "duration_minutes": 1222,
+    "duration_str": "20h 22m"
   },
   {
     "title": "Le ministre français de l'Education tente de calmer la contestation dans les lycées",
@@ -121378,5 +121387,13 @@
   {
     "title": "C'est quoi, les coûts de la santé?",
     "added_at": "2026-10-03T01:44:23.928Z"
+  },
+  {
+    "title": "L'interview de Guy Parmelin à Forum",
+    "added_at": "2026-10-03T03:14:22.704Z"
+  },
+  {
+    "title": "Le prix du gaz triple depuis janvier et inquiète l'industrie gazière à l'approche de l'hiver",
+    "added_at": "2026-10-03T05:46:59.736Z"
   }
 ]
