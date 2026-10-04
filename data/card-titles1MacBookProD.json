@@ -107285,10 +107285,7 @@
   },
   {
     "title": "Forum - Présenté par Anne Fournier",
-    "added_at": "2026-08-03T15:22:56.591Z",
-    "removed_at": "2026-09-08T09:20:17.759Z",
-    "duration_minutes": 51477,
-    "duration_str": "35d 17h 57m"
+    "added_at": "2026-08-03T15:22:56.591Z"
   },
   {
     "title": "Incendie à Aigle: interview d'Alexandre Bisenz, porte-parole de la police vaudoise",
@@ -121193,7 +121190,10 @@
   },
   {
     "title": "La Russie pourrait utiliser \"tous les types d'armes\" en cas d'attaque contre Kaliningrad, avertit Poutine",
-    "added_at": "2026-10-01T20:36:05.076Z"
+    "added_at": "2026-10-01T20:36:05.076Z",
+    "removed_at": "2026-10-03T23:09:34.991Z",
+    "duration_minutes": 3033,
+    "duration_str": "2d 2h 33m"
   },
   {
     "title": "Un sixième suspect arrêté après le projet d'attentat évité à Fairford, Israël dit avoir averti Londres",
@@ -121262,7 +121262,10 @@
   },
   {
     "title": "Catherine Meurisse signe 'Le Clan de Walden', une fable qui célèbre le vivant avec humour",
-    "added_at": "2026-10-02T07:05:04.627Z"
+    "added_at": "2026-10-02T07:05:04.627Z",
+    "removed_at": "2026-10-03T23:36:16.794Z",
+    "duration_minutes": 2431,
+    "duration_str": "1d 16h 31m"
   },
   {
     "title": "A Genève, des parents d’élèves dénoncent des cycles d’orientation trop grands et surpeuplés",
@@ -121293,9 +121296,9 @@
   {
     "title": "Forum (vidéo) - Présenté par Thibaut Schaller et Guillaume Rey",
     "added_at": "2026-10-02T09:14:17.896Z",
-    "removed_at": "2026-10-03T22:06:21.532Z",
-    "duration_minutes": 2212,
-    "duration_str": "1d 12h 52m"
+    "removed_at": "2026-10-04T00:44:19.825Z",
+    "duration_minutes": 2370,
+    "duration_str": "1d 15h 30m"
   },
   {
     "title": "Le ministre français de l'Education tente de calmer la contestation dans les lycées",
@@ -121591,7 +121594,10 @@
   },
   {
     "title": "Colères en France: vers le retour des gilets jaunes?",
-    "added_at": "2026-10-03T17:19:31.245Z"
+    "added_at": "2026-10-03T17:19:31.245Z",
+    "removed_at": "2026-10-04T00:20:01.850Z",
+    "duration_minutes": 420,
+    "duration_str": "7h"
   },
   {
     "title": "Quelle influence la fratrie exerce-t-elle réellement sur notre caractère?",
@@ -121620,5 +121626,9 @@
   {
     "title": "La Suisse continue son sans-faute en battant la Slovénie 2-1",
     "added_at": "2026-10-03T20:43:51.908Z"
+  },
+  {
+    "title": "Deux membres de la délégation iranienne à l'ONU, expulsés des Etats-Unis",
+    "added_at": "2026-10-03T23:36:16.794Z"
   }
 ]
