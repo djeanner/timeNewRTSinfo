@@ -113771,10 +113771,7 @@
   },
   {
     "title": "Forum (vidéo) - Présenté par Thibaut Schaller et Mehmet Gultas",
-    "added_at": "2026-09-09T23:16:51.591Z",
-    "removed_at": "2026-10-04T19:53:17.384Z",
-    "duration_minutes": 35796,
-    "duration_str": "24d 20h 36m"
+    "added_at": "2026-09-09T23:16:51.591Z"
   },
   {
     "title": "Forum- Présenté par Coralie Claude et Coraline Pauchard",
@@ -121322,7 +121319,10 @@
   },
   {
     "title": "Forum (vidéo) - Présenté par Thibaut Schaller et Guillaume Rey",
-    "added_at": "2026-10-02T09:14:17.896Z"
+    "added_at": "2026-10-02T09:14:17.896Z",
+    "removed_at": "2026-10-04T22:29:04.094Z",
+    "duration_minutes": 3674,
+    "duration_str": "2d 13h 14m"
   },
   {
     "title": "Le ministre français de l'Education tente de calmer la contestation dans les lycées",
@@ -121566,9 +121566,9 @@
   {
     "title": "Deux pétroliers à nouveau touchés par des tirs dans le détroit d'Ormuz",
     "added_at": "2026-10-03T01:27:29.931Z",
-    "removed_at": "2026-10-04T19:11:57.677Z",
-    "duration_minutes": 2504,
-    "duration_str": "1d 17h 44m"
+    "removed_at": "2026-10-04T22:12:03.247Z",
+    "duration_minutes": 2684,
+    "duration_str": "1d 20h 44m"
   },
   {
     "title": "C'est quoi, les coûts de la santé?",
@@ -121576,7 +121576,10 @@
   },
   {
     "title": "L'interview de Guy Parmelin à Forum",
-    "added_at": "2026-10-03T03:14:22.704Z"
+    "added_at": "2026-10-03T03:14:22.704Z",
+    "removed_at": "2026-10-04T21:18:27.133Z",
+    "duration_minutes": 2524,
+    "duration_str": "1d 18h 4m"
   },
   {
     "title": "Le prix du gaz triple depuis janvier et inquiète l'industrie gazière à l'approche de l'hiver",
@@ -121837,7 +121840,10 @@
   },
   {
     "title": "À Genève, 1500 manifestants pro-palestiniens dénoncent la politique suisse envers Israël",
-    "added_at": "2026-10-04T15:15:27.859Z"
+    "added_at": "2026-10-04T15:15:27.859Z",
+    "removed_at": "2026-10-04T21:16:04.664Z",
+    "duration_minutes": 360,
+    "duration_str": "6h"
   },
   {
     "title": "Pourquoi nos matous planent-ils en se frottant à de l'herbe à chat?",
@@ -121845,7 +121851,10 @@
   },
   {
     "title": "Lula ou Flavio Bolsonaro? Le Brésil se rend aux urnes, sous l'œil attentif de Donald Trump",
-    "added_at": "2026-10-04T15:49:33.576Z"
+    "added_at": "2026-10-04T15:49:33.576Z",
+    "removed_at": "2026-10-04T20:22:36.330Z",
+    "duration_minutes": 273,
+    "duration_str": "4h 33m"
   },
   {
     "title": "Conseil d'Etat zougois: les sept sortants sont reconduits, la gauche exclue depuis 2018",
@@ -121853,10 +121862,7 @@
   },
   {
     "title": "L’affaire Bardella remet en lumière l’antisémitisme historique du Rassemblement national: interview de Marc Knobel",
-    "added_at": "2026-10-04T17:19:51.480Z",
-    "removed_at": "2026-10-04T18:15:58.232Z",
-    "duration_minutes": 56,
-    "duration_str": "56m"
+    "added_at": "2026-10-04T17:19:51.480Z"
   },
   {
     "title": "L'archive du jour - Retour sur la carrière d'ambassadeur de la Suisse et d'acteur de publicité de Roger Federer",
@@ -121873,5 +121879,13 @@
   {
     "title": "L'industrie du chocolat fait face à une baisse de la consommation en Suisse",
     "added_at": "2026-10-04T19:11:57.677Z"
+  },
+  {
+    "title": "Qui croire?",
+    "added_at": "2026-10-04T21:18:27.133Z"
+  },
+  {
+    "title": "A un quart des dépouillements, Flavio Bolsonaro devance Lula et pourrait gagner au 1er tour",
+    "added_at": "2026-10-04T22:12:03.247Z"
   }
 ]
