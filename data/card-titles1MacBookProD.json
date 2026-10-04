@@ -113768,7 +113768,10 @@
   },
   {
     "title": "Forum (vidéo) - Présenté par Thibaut Schaller et Mehmet Gultas",
-    "added_at": "2026-09-09T23:16:51.591Z"
+    "added_at": "2026-09-09T23:16:51.591Z",
+    "removed_at": "2026-10-04T17:09:55.558Z",
+    "duration_minutes": 35633,
+    "duration_str": "24d 17h 53m"
   },
   {
     "title": "Forum- Présenté par Coralie Claude et Coraline Pauchard",
@@ -121316,10 +121319,7 @@
   },
   {
     "title": "Forum (vidéo) - Présenté par Thibaut Schaller et Guillaume Rey",
-    "added_at": "2026-10-02T09:14:17.896Z",
-    "removed_at": "2026-10-04T14:26:29.187Z",
-    "duration_minutes": 3192,
-    "duration_str": "2d 5h 12m"
+    "added_at": "2026-10-02T09:14:17.896Z"
   },
   {
     "title": "Le ministre français de l'Education tente de calmer la contestation dans les lycées",
@@ -121479,7 +121479,10 @@
   },
   {
     "title": "\"Où la chatte a mal aux pieds\", \"oreiller de paresse\": les expressions cultes de Guy Parmelin",
-    "added_at": "2026-10-02T15:50:37.151Z"
+    "added_at": "2026-10-02T15:50:37.151Z",
+    "removed_at": "2026-10-04T15:49:33.576Z",
+    "duration_minutes": 2878,
+    "duration_str": "1d 23h 58m"
   },
   {
     "title": "Guy Parmelin: \"Je sentais que j'avais un petit peu moins le feu sacré\"",
@@ -121527,11 +121530,17 @@
   },
   {
     "title": "Guy Parmelin annonce sa démission du Conseil fédéral au 31 décembre",
-    "added_at": "2026-10-02T18:19:04.031Z"
+    "added_at": "2026-10-02T18:19:04.031Z",
+    "removed_at": "2026-10-04T15:15:27.859Z",
+    "duration_minutes": 2696,
+    "duration_str": "1d 20h 56m"
   },
   {
     "title": "La mobilisation lycéenne se poursuit en France malgré les annonces du gouvernement",
-    "added_at": "2026-10-02T19:49:21.422Z"
+    "added_at": "2026-10-02T19:49:21.422Z",
+    "removed_at": "2026-10-04T15:49:33.576Z",
+    "duration_minutes": 2640,
+    "duration_str": "1d 20h"
   },
   {
     "title": "Il y a 25 ans, le grounding de Swissair créait la stupeur à travers le pays",
@@ -121813,5 +121822,21 @@
   {
     "title": "La colère ne retombe pas en France devant les lycées, malgré de premières annonces",
     "added_at": "2026-10-04T14:26:29.187Z"
+  },
+  {
+    "title": "À Genève, 1500 manifestants pro-palestiniens dénoncent la politique suisse envers Israël",
+    "added_at": "2026-10-04T15:15:27.859Z"
+  },
+  {
+    "title": "Pourquoi nos matous planent-ils en se frottant à de l'herbe à chat?",
+    "added_at": "2026-10-04T15:49:33.576Z"
+  },
+  {
+    "title": "Lula ou Flavio Bolsonaro? Le Brésil se rend aux urnes, sous l'œil attentif de Donald Trump",
+    "added_at": "2026-10-04T15:49:33.576Z"
+  },
+  {
+    "title": "Conseil d'Etat zougois: les sept sortants sont reconduits, la gauche exclue depuis 2018",
+    "added_at": "2026-10-04T16:28:29.121Z"
   }
 ]
