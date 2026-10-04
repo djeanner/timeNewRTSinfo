@@ -113768,10 +113768,7 @@
   },
   {
     "title": "Forum (vidéo) - Présenté par Thibaut Schaller et Mehmet Gultas",
-    "added_at": "2026-09-09T23:16:51.591Z",
-    "removed_at": "2026-09-24T20:18:39.404Z",
-    "duration_minutes": 21421,
-    "duration_str": "14d 21h 1m"
+    "added_at": "2026-09-09T23:16:51.591Z"
   },
   {
     "title": "Forum- Présenté par Coralie Claude et Coraline Pauchard",
@@ -121260,7 +121257,10 @@
   },
   {
     "title": "Nicolas Roulin, rédacteur en chef de la rédaction numérique de la RTS, part à la retraite",
-    "added_at": "2026-10-02T05:23:02.863Z"
+    "added_at": "2026-10-02T05:23:02.863Z",
+    "removed_at": "2026-10-04T06:39:36.178Z",
+    "duration_minutes": 2956,
+    "duration_str": "2d 1h 16m"
   },
   {
     "title": "Il y a 25 ans, le grounding de Swissair créait la stupeur dans toute la Suisse",
@@ -121282,7 +121282,10 @@
   },
   {
     "title": "Jusqu'à 900'000 Suisses veulent changer d'assurance maladie, selon un sondage de Deloitte",
-    "added_at": "2026-10-02T07:58:51.031Z"
+    "added_at": "2026-10-02T07:58:51.031Z",
+    "removed_at": "2026-10-04T08:50:46.868Z",
+    "duration_minutes": 2931,
+    "duration_str": "2d 51m"
   },
   {
     "title": "Rumeur de démission: Guy Parmelin prend la parole à 11h00",
@@ -121305,13 +121308,16 @@
   {
     "title": "Forum (vidéo) - Présenté par Thibaut Schaller et Guillaume Rey",
     "added_at": "2026-10-02T09:14:17.896Z",
-    "removed_at": "2026-10-04T06:10:17.824Z",
-    "duration_minutes": 2695,
-    "duration_str": "1d 20h 55m"
+    "removed_at": "2026-10-04T08:53:09.918Z",
+    "duration_minutes": 2858,
+    "duration_str": "1d 23h 38m"
   },
   {
     "title": "Le ministre français de l'Education tente de calmer la contestation dans les lycées",
-    "added_at": "2026-10-02T09:16:47.551Z"
+    "added_at": "2026-10-02T09:16:47.551Z",
+    "removed_at": "2026-10-04T08:43:29.433Z",
+    "duration_minutes": 2846,
+    "duration_str": "1d 23h 26m"
   },
   {
     "title": "Guy Parmelin, le terrien vaudois propulsé au sommet de l'Etat",
@@ -121392,11 +121398,17 @@
   },
   {
     "title": "Avec 'Pionnières!', DeLaurentis joue l'histoire de la musique électronique au féminin à Genève",
-    "added_at": "2026-10-02T13:34:25.570Z"
+    "added_at": "2026-10-02T13:34:25.570Z",
+    "removed_at": "2026-10-04T07:01:25.079Z",
+    "duration_minutes": 2486,
+    "duration_str": "1d 17h 26m"
   },
   {
     "title": "Avec un budget quasi à l'équilibre, le Jura se tourne vers une hausse de ses investissements",
-    "added_at": "2026-10-02T13:44:21.220Z"
+    "added_at": "2026-10-02T13:44:21.220Z",
+    "removed_at": "2026-10-04T06:22:39.188Z",
+    "duration_minutes": 2438,
+    "duration_str": "1d 16h 38m"
   },
   {
     "title": "Après des mois de faiblesse, le franc retrouve de la vigueur",
@@ -121672,5 +121684,25 @@
   {
     "title": "Des panneaux solaires révolutionnaires permettent de produire de l'électricité sous la mer",
     "added_at": "2026-10-04T06:05:26.373Z"
+  },
+  {
+    "title": "Le chancelier allemand est arrivé à Kiev pour une visite imprévue",
+    "added_at": "2026-10-04T06:22:39.188Z"
+  },
+  {
+    "title": "Face aux importations, les producteurs suisses de raisin de table triment pour des prunes",
+    "added_at": "2026-10-04T06:39:36.178Z"
+  },
+  {
+    "title": "En Suisse, les outils technologiques remplacent peu à peu l'écriture tactile",
+    "added_at": "2026-10-04T07:01:25.079Z"
+  },
+  {
+    "title": "A l'occasion des 80 ans de Susan Sarandon, retour sur le parcours d'une actrice engagée et libre",
+    "added_at": "2026-10-04T08:43:29.433Z"
+  },
+  {
+    "title": "La Foire du Valais renforce sa sécurité anti-incendie après le drame de Crans-Montana",
+    "added_at": "2026-10-04T08:50:46.868Z"
   }
 ]

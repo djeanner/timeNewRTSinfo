@@ -112446,7 +112446,10 @@
   },
   {
     "title": "economie:::UBS, la banque trop suisse pour être vendue",
-    "added_at": "2026-10-02T17:40:10.895Z"
+    "added_at": "2026-10-02T17:40:10.895Z",
+    "removed_at": "2026-10-04T08:41:00.991Z",
+    "duration_minutes": 2340,
+    "duration_str": "1d 15h"
   },
   {
     "title": "suisse:::Avec le départ de Guy Parmelin, un Département de l’économie orphelin avant des échéances politiques cruciales",
@@ -112489,7 +112492,10 @@
   },
   {
     "title": "monde:::En direct, guerre contre l’Ukraine – Un nouveau pont majeur de Kiev touché par une frappe russe",
-    "added_at": "2026-10-03T05:37:17.455Z"
+    "added_at": "2026-10-03T05:37:17.455Z",
+    "removed_at": "2026-10-04T08:55:37.401Z",
+    "duration_minutes": 1638,
+    "duration_str": "1d 3h 18m"
   },
   {
     "title": "economie:::Au «théâtre» des enchères horlogères en compagnie de Monsieur X",
@@ -112594,11 +112600,17 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les houthis accusent l’Arabie saoudite de pilonner Sanaa et frappent une installation pétrolière à Riyad",
-    "added_at": "2026-10-03T19:45:44.107Z"
+    "added_at": "2026-10-03T19:45:44.107Z",
+    "removed_at": "2026-10-04T07:33:00.917Z",
+    "duration_minutes": 707,
+    "duration_str": "11h 47m"
   },
   {
     "title": "sport:::Dans la douleur, l'équipe de Suisse bat la Slovénie et poursuit son sans-faute",
-    "added_at": "2026-10-03T20:58:26.879Z"
+    "added_at": "2026-10-03T20:58:26.879Z",
+    "removed_at": "2026-10-04T06:39:36.269Z",
+    "duration_minutes": 581,
+    "duration_str": "9h 41m"
   },
   {
     "title": "monde:::A l’approche des élections brésiliennes, certains candidats changent de couleur de peau",
@@ -112607,5 +112619,25 @@
   {
     "title": "monde:::«Père des pauvres», figure de la gauche d’Amérique latine, le Brésilien Lula au défi de sa dernière campagne",
     "added_at": "2026-10-04T06:12:44.475Z"
+  },
+  {
+    "title": "monde:::«Nous sommes à un tournant critique»: l’été où les socialistes démocrates ont pris leur envol aux Etats-Unis",
+    "added_at": "2026-10-04T06:39:36.269Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les Houthis accusent l’Arabie saoudite de pilonner Sanaa et assurent avoir frappé une installation pétrolière à Riyad",
+    "added_at": "2026-10-04T07:33:00.917Z"
+  },
+  {
+    "title": "monde:::Marine Le Pen garde «totalement confiance» en Jordan Bardella, malgré l'affaire des écrits antisémites",
+    "added_at": "2026-10-04T08:38:34.253Z"
+  },
+  {
+    "title": "sport:::Le sponsoring classique ne suffit plus: les stars du sport veulent s’impliquer dans les affaires",
+    "added_at": "2026-10-04T08:41:00.991Z"
+  },
+  {
+    "title": "monde:::En direct, guerre contre l’Ukraine – Le chancelier allemand Merz en visite en Ukraine, un pont de Kiev attaqué de nouveau",
+    "added_at": "2026-10-04T08:55:37.401Z"
   }
 ]
