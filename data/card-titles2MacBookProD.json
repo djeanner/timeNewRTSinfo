@@ -110178,7 +110178,10 @@
   },
   {
     "title": "suisse:::Le canton de Vaud face au grand défi du vieillissement: le nombre de seniors dépassera celui des jeunes dès 2037",
-    "added_at": "2026-09-25T13:39:32.989Z"
+    "added_at": "2026-09-25T13:39:32.989Z",
+    "removed_at": "2026-10-04T18:15:58.325Z",
+    "duration_minutes": 13236,
+    "duration_str": "9d 4h 36m"
   },
   {
     "title": "monde:::Nicolas Demorand, de retour sur France Inter avec «Recto/Verso», devient le phénix de la maladie mentale",
@@ -111545,10 +111548,7 @@
   },
   {
     "title": "culture:::Emmanuel Marre, réalisateur de «Notre salut»: «Il y a énormément de nuances dans le spectre qui sépare les collabos des résistants»",
-    "added_at": "2026-09-30T09:09:40.071Z",
-    "removed_at": "2026-09-30T13:15:05.864Z",
-    "duration_minutes": 245,
-    "duration_str": "4h 5m"
+    "added_at": "2026-09-30T09:09:40.071Z"
   },
   {
     "title": "culture:::«On nous demande de construire vite, alors que notre geste devrait être éternel.» Amelia Tavella, architecte au tempérament minéral",
@@ -112748,7 +112748,10 @@
   },
   {
     "title": "sport:::Rajeunie, renforcée, régénérée, la Nati a pleinement profité de son séjour dans la Ligue B des nations",
-    "added_at": "2026-10-04T14:19:10.447Z"
+    "added_at": "2026-10-04T14:19:10.447Z",
+    "removed_at": "2026-10-04T18:06:16.909Z",
+    "duration_minutes": 227,
+    "duration_str": "3h 47m"
   },
   {
     "title": "culture:::Label, charte, échelle: comment certains éditeurs encadrent déjà l’usage de l’IA",
@@ -112760,15 +112763,24 @@
   },
   {
     "title": "monde:::Face à la contestation des lycéens, les cours seront suspendus «totalement ou partiellement» lundi dans 400 à 500 établissements français",
-    "added_at": "2026-10-04T14:51:03.067Z"
+    "added_at": "2026-10-04T14:51:03.067Z",
+    "removed_at": "2026-10-04T18:11:07.828Z",
+    "duration_minutes": 200,
+    "duration_str": "3h 20m"
   },
   {
     "title": "culture:::Pully expose Cuno Amiet, le peintre qui voyait les saisons en couleur",
-    "added_at": "2026-10-04T14:55:54.467Z"
+    "added_at": "2026-10-04T14:55:54.467Z",
+    "removed_at": "2026-10-04T17:56:28.676Z",
+    "duration_minutes": 180,
+    "duration_str": "3h"
   },
   {
     "title": "economie:::Les banques suisses face au renforcement des pouvoirs de la Finma",
-    "added_at": "2026-10-04T14:55:54.467Z"
+    "added_at": "2026-10-04T14:55:54.467Z",
+    "removed_at": "2026-10-04T19:11:57.770Z",
+    "duration_minutes": 256,
+    "duration_str": "4h 16m"
   },
   {
     "title": "suisse:::Permis de conduire et seniors: une étude montre que le système doit être réformé",
@@ -112780,5 +112792,21 @@
   {
     "title": "suisse:::Permis et seniors: alors que la population vieillit, les méthodes d'évaluation de la conduite après 75 ans sont de plus en plus contestées",
     "added_at": "2026-10-04T16:21:09.908Z"
+  },
+  {
+    "title": "economie:::La finance durable sort de l’ornière: les investisseurs misent sur la rentabilité de la transition climatique",
+    "added_at": "2026-10-04T18:06:16.909Z"
+  },
+  {
+    "title": "culture:::«Les Rayons et les Ombres», «La Bataille de Gaulle», «Notre salut», «Moulin»: comment le cinéma français réinvestit 39-45 pour éclairer les menaces actuelles",
+    "added_at": "2026-10-04T18:11:07.828Z"
+  },
+  {
+    "title": "culture:::Histoire et cinéma: mettre en scène le passé pour parler du présent",
+    "added_at": "2026-10-04T18:15:58.325Z"
+  },
+  {
+    "title": "economie:::Hausse des taux, flambée du pétrole et effets sur les portefeuilles",
+    "added_at": "2026-10-04T19:11:57.770Z"
   }
 ]

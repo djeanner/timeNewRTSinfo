@@ -110712,7 +110712,10 @@
   },
   {
     "title": "La Matinale - Présentée par Valérie Hauert",
-    "added_at": "2026-09-02T12:26:54.197Z"
+    "added_at": "2026-09-02T12:26:54.197Z",
+    "removed_at": "2026-10-04T17:19:51.480Z",
+    "duration_minutes": 46372,
+    "duration_str": "32d 4h 52m"
   },
   {
     "title": "Malbouffe: quand l'agroalimentaire attaque les Etats en justice",
@@ -113769,9 +113772,9 @@
   {
     "title": "Forum (vidéo) - Présenté par Thibaut Schaller et Mehmet Gultas",
     "added_at": "2026-09-09T23:16:51.591Z",
-    "removed_at": "2026-10-04T17:09:55.558Z",
-    "duration_minutes": 35633,
-    "duration_str": "24d 17h 53m"
+    "removed_at": "2026-10-04T19:53:17.384Z",
+    "duration_minutes": 35796,
+    "duration_str": "24d 20h 36m"
   },
   {
     "title": "Forum- Présenté par Coralie Claude et Coraline Pauchard",
@@ -121555,11 +121558,17 @@
   },
   {
     "title": "La Corée du Nord tire un missile balistique quelques jours après un incident avec la Corée du Sud",
-    "added_at": "2026-10-03T00:55:55.354Z"
+    "added_at": "2026-10-03T00:55:55.354Z",
+    "removed_at": "2026-10-04T19:02:12.271Z",
+    "duration_minutes": 2526,
+    "duration_str": "1d 18h 6m"
   },
   {
     "title": "Deux pétroliers à nouveau touchés par des tirs dans le détroit d'Ormuz",
-    "added_at": "2026-10-03T01:27:29.931Z"
+    "added_at": "2026-10-03T01:27:29.931Z",
+    "removed_at": "2026-10-04T19:11:57.677Z",
+    "duration_minutes": 2504,
+    "duration_str": "1d 17h 44m"
   },
   {
     "title": "C'est quoi, les coûts de la santé?",
@@ -121813,7 +121822,10 @@
   },
   {
     "title": "Le président de l'UDC Marcel Dettling ne vise pas la succession de Guy Parmelin",
-    "added_at": "2026-10-04T13:49:57.168Z"
+    "added_at": "2026-10-04T13:49:57.168Z",
+    "removed_at": "2026-10-04T18:30:35.634Z",
+    "duration_minutes": 280,
+    "duration_str": "4h 40m"
   },
   {
     "title": "'Photo-sensible', un voyage dans le temps à travers l'objectif pionnier d'André Schmid",
@@ -121838,5 +121850,28 @@
   {
     "title": "Conseil d'Etat zougois: les sept sortants sont reconduits, la gauche exclue depuis 2018",
     "added_at": "2026-10-04T16:28:29.121Z"
+  },
+  {
+    "title": "L’affaire Bardella remet en lumière l’antisémitisme historique du Rassemblement national: interview de Marc Knobel",
+    "added_at": "2026-10-04T17:19:51.480Z",
+    "removed_at": "2026-10-04T18:15:58.232Z",
+    "duration_minutes": 56,
+    "duration_str": "56m"
+  },
+  {
+    "title": "L'archive du jour - Retour sur la carrière d'ambassadeur de la Suisse et d'acteur de publicité de Roger Federer",
+    "added_at": "2026-10-04T18:15:58.232Z"
+  },
+  {
+    "title": "Papables évoqués à la succession de Guy Parmelin, Marcel Dettling et Sylvain Freymond renoncent",
+    "added_at": "2026-10-04T18:30:35.634Z"
+  },
+  {
+    "title": "\"Il va falloir être dure\": le métier de berger face à ses propres limites",
+    "added_at": "2026-10-04T19:02:12.271Z"
+  },
+  {
+    "title": "L'industrie du chocolat fait face à une baisse de la consommation en Suisse",
+    "added_at": "2026-10-04T19:11:57.677Z"
   }
 ]
