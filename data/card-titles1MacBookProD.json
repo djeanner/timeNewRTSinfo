@@ -121239,7 +121239,10 @@
   },
   {
     "title": "Ryad accuse les Houthis d'avoir mené une attaque à Médine, cité sacrée en Arabie saoudite",
-    "added_at": "2026-10-02T02:57:33.535Z"
+    "added_at": "2026-10-02T02:57:33.535Z",
+    "removed_at": "2026-10-04T03:15:26.980Z",
+    "duration_minutes": 2897,
+    "duration_str": "2d 17m"
   },
   {
     "title": "OpenAI exclut trois chercheurs accusés de fuites d'éléments sensibles vers des experts",
@@ -121296,9 +121299,9 @@
   {
     "title": "Forum (vidéo) - Présenté par Thibaut Schaller et Guillaume Rey",
     "added_at": "2026-10-02T09:14:17.896Z",
-    "removed_at": "2026-10-04T00:44:19.825Z",
-    "duration_minutes": 2370,
-    "duration_str": "1d 15h 30m"
+    "removed_at": "2026-10-04T03:34:51.209Z",
+    "duration_minutes": 2540,
+    "duration_str": "1d 18h 20m"
   },
   {
     "title": "Le ministre français de l'Education tente de calmer la contestation dans les lycées",
@@ -121630,5 +121633,9 @@
   {
     "title": "Deux membres de la délégation iranienne à l'ONU, expulsés des Etats-Unis",
     "added_at": "2026-10-03T23:36:16.794Z"
+  },
+  {
+    "title": "Un incendie qui menace la voie d'accès au Machu Picchu fait un mort",
+    "added_at": "2026-10-04T03:15:26.980Z"
   }
 ]
