@@ -122771,7 +122771,10 @@
   },
   {
     "title": "La flemme n'est pas de la paresse mais un calcul, selon des chercheurs genevois",
-    "added_at": "2026-10-17T22:23:26.062Z"
+    "added_at": "2026-10-17T22:23:26.062Z",
+    "removed_at": "2026-10-19T10:23:06.494Z",
+    "duration_minutes": 2159,
+    "duration_str": "1d 11h 59m"
   },
   {
     "title": "Des enfants travaillent vraiment pour produire du chocolat Lindt ?",
@@ -122836,15 +122839,24 @@
   },
   {
     "title": "Les grands sujets de l'actualité de la semaine expliqués aux enfants",
-    "added_at": "2026-10-17T22:23:26.062Z"
+    "added_at": "2026-10-17T22:23:26.062Z",
+    "removed_at": "2026-10-19T10:47:13.946Z",
+    "duration_minutes": 2183,
+    "duration_str": "1d 12h 23m"
   },
   {
     "title": "Le niveau d'alerte maximal déclenché en Asie du Sud-Est en raison de fumées toxiques",
-    "added_at": "2026-10-17T22:23:26.062Z"
+    "added_at": "2026-10-17T22:23:26.062Z",
+    "removed_at": "2026-10-19T10:03:43.379Z",
+    "duration_minutes": 2140,
+    "duration_str": "1d 11h 40m"
   },
   {
     "title": "Avec ses œuvres, Delphine Reist orchestre la métamorphose des objets du quotidien",
-    "added_at": "2026-10-17T22:23:26.062Z"
+    "added_at": "2026-10-17T22:23:26.062Z",
+    "removed_at": "2026-10-19T09:54:06.795Z",
+    "duration_minutes": 2130,
+    "duration_str": "1d 11h 30m"
   },
   {
     "title": "Quatrième journée de protestation à Tirana, le Premier ministre dénonce une influence étrangère",
@@ -123082,7 +123094,10 @@
   },
   {
     "title": "Les scènes d'émeutes en France se sont prolongées dans la nuit",
-    "added_at": "2026-10-18T21:18:57.720Z"
+    "added_at": "2026-10-18T21:18:57.720Z",
+    "removed_at": "2026-10-19T09:17:53.741Z",
+    "duration_minutes": 718,
+    "duration_str": "11h 58m"
   },
   {
     "title": "Le préfet de Guadeloupe instaure un couvre-feu pour les mineurs suite aux violences",
@@ -123104,14 +123119,14 @@
   },
   {
     "title": "Cowboy végan vs. flic pro-Trump: un des duels qui pourraient faire basculer le Congrès américain",
-    "added_at": "2026-10-19T04:47:32.926Z",
-    "removed_at": "2026-10-19T04:59:39.398Z",
-    "duration_minutes": 12,
-    "duration_str": "12m"
+    "added_at": "2026-10-19T04:47:32.926Z"
   },
   {
     "title": "Cowboy végan vs flic pro-Trump: un des duels qui pourraient faire basculer le Congrès américain",
-    "added_at": "2026-10-19T04:59:39.398Z"
+    "added_at": "2026-10-19T04:59:39.398Z",
+    "removed_at": "2026-10-19T10:03:43.379Z",
+    "duration_minutes": 304,
+    "duration_str": "5h 4m"
   },
   {
     "title": "Premier débat télévisé houleux entre Lula et Flavio Bolsonaro à une semaine de la présidentielle au Brésil",
@@ -123126,7 +123141,10 @@
   },
   {
     "title": "Le président Macron refuse la démission du ministre de l'Intérieur Laurent Nuñez",
-    "added_at": "2026-10-19T05:38:21.447Z"
+    "added_at": "2026-10-19T05:38:21.447Z",
+    "removed_at": "2026-10-19T09:49:20.195Z",
+    "duration_minutes": 250,
+    "duration_str": "4h 10m"
   },
   {
     "title": "Le Tabeillon pourrait être utilisé pour le projet de géothermie à Haute-Sorne, à part en cas de sécheresse",
@@ -123155,5 +123173,36 @@
   {
     "title": "Le discours d'Emmanuel Macron \"n'accroche plus sur le réel\", analyse l'expert Éric Delbecque",
     "added_at": "2026-10-19T07:46:07.767Z"
+  },
+  {
+    "title": "Après le chaos du 17 octobre, l'heure est aux questions et polémiques en France",
+    "added_at": "2026-10-19T09:17:53.741Z"
+  },
+  {
+    "title": "De nouvelles manifestations annoncées samedi prochain en France, l'accès au Louvre bloqué",
+    "added_at": "2026-10-19T09:49:20.195Z"
+  },
+  {
+    "title": "Douze personnes migrantes, dont un bébé, se sont noyés en mer Égée suite à deux accidents",
+    "added_at": "2026-10-19T09:54:06.795Z",
+    "removed_at": "2026-10-19T10:01:21.853Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Douze personnes migrantes, dont un bébé, se sont noyées en mer Égée suite à deux accidents",
+    "added_at": "2026-10-19T10:01:21.853Z"
+  },
+  {
+    "title": "La salle de sport, un nouveau temple pour les jeunes à l'ère des influenceurs",
+    "added_at": "2026-10-19T10:03:43.379Z"
+  },
+  {
+    "title": "Le Programme alimentaire mondial réduit son aide à Gaza, 500'000 personnes touchées",
+    "added_at": "2026-10-19T10:23:06.494Z"
+  },
+  {
+    "title": "La bibliothèque de La Chaux-de-Fonds touchée par un incendie",
+    "added_at": "2026-10-19T10:47:13.946Z"
   }
 ]
