@@ -104388,7 +104388,10 @@
   },
   {
     "title": "Forum - Présenté par Renaud Malik et Anne Fournier",
-    "added_at": "2026-07-22T07:26:39.546Z"
+    "added_at": "2026-07-22T07:26:39.546Z",
+    "removed_at": "2026-10-19T05:18:54.518Z",
+    "duration_minutes": 128032,
+    "duration_str": "88d 21h 52m"
   },
   {
     "title": "Deux nouvelles fresques de Saype à Villars-sur-Ollon (VD)",
@@ -122190,7 +122193,10 @@
   },
   {
     "title": "Un projet immobilier de Christian Constantin divise Gandria, au Tessin",
-    "added_at": "2026-10-17T00:31:51.424Z"
+    "added_at": "2026-10-17T00:31:51.424Z",
+    "removed_at": "2026-10-19T04:25:58.635Z",
+    "duration_minutes": 3114,
+    "duration_str": "2d 3h 54m"
   },
   {
     "title": "Après la Thurgovie, le canton de Saint-Gall introduit des drones pour observer les chauffards",
@@ -122853,10 +122859,7 @@
   },
   {
     "title": "Des heurts déjà observés en France, en attendant les manifestations de l'après-midi",
-    "added_at": "2026-10-18T00:22:04.214Z",
-    "removed_at": "2026-10-18T21:16:36.131Z",
-    "duration_minutes": 1254,
-    "duration_str": "20h 54m"
+    "added_at": "2026-10-18T00:22:04.214Z"
   },
   {
     "title": "Un retour sur scène réussit pour Céline Dion",
@@ -123064,5 +123067,23 @@
   {
     "title": "Premier débat télévisé houleux entre Lula et Flavio Bolsonaro à une semaine de l'élection",
     "added_at": "2026-10-19T02:42:11.592Z"
+  },
+  {
+    "title": "Cowboy végan contre flic pro-Trump: le duel qui pourrait faire basculer le Congrès américain",
+    "added_at": "2026-10-19T04:25:58.635Z",
+    "removed_at": "2026-10-19T04:47:32.926Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
+  },
+  {
+    "title": "Cowboy végan vs. flic pro-Trump: un des duels qui pourraient faire basculer le Congrès américain",
+    "added_at": "2026-10-19T04:47:32.926Z",
+    "removed_at": "2026-10-19T04:59:39.398Z",
+    "duration_minutes": 12,
+    "duration_str": "12m"
+  },
+  {
+    "title": "Cowboy végan vs flic pro-Trump: un des duels qui pourraient faire basculer le Congrès américain",
+    "added_at": "2026-10-19T04:59:39.398Z"
   }
 ]
