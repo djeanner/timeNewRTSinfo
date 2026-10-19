@@ -122194,11 +122194,17 @@
   },
   {
     "title": "Après la Thurgovie, le canton de Saint-Gall introduit des drones pour observer les chauffards",
-    "added_at": "2026-10-17T00:31:51.424Z"
+    "added_at": "2026-10-17T00:31:51.424Z",
+    "removed_at": "2026-10-19T02:42:11.592Z",
+    "duration_minutes": 3010,
+    "duration_str": "2d 2h 10m"
   },
   {
     "title": "L'UDC vaudois Yvan Pahud ne se présente pas comme candidat au Conseil fédéral",
-    "added_at": "2026-10-17T00:31:51.424Z"
+    "added_at": "2026-10-17T00:31:51.424Z",
+    "removed_at": "2026-10-19T02:18:08.943Z",
+    "duration_minutes": 2986,
+    "duration_str": "2d 1h 46m"
   },
   {
     "title": "La Chine soupçonnée après une cyberattaque contre Beyond Gravity",
@@ -122765,7 +122771,10 @@
   },
   {
     "title": "La nouvelle porte-parole de la Maison Blanche quitte son poste après une semaine difficile",
-    "added_at": "2026-10-17T22:23:26.062Z"
+    "added_at": "2026-10-17T22:23:26.062Z",
+    "removed_at": "2026-10-19T02:18:08.943Z",
+    "duration_minutes": 1674,
+    "duration_str": "1d 3h 54m"
   },
   {
     "title": "Soundcheck – Stevie Wonder de retour sur scène",
@@ -122851,10 +122860,7 @@
   },
   {
     "title": "Un retour sur scène réussit pour Céline Dion",
-    "added_at": "2026-10-18T00:22:04.214Z",
-    "removed_at": "2026-10-18T21:16:36.131Z",
-    "duration_minutes": 1254,
-    "duration_str": "20h 54m"
+    "added_at": "2026-10-18T00:22:04.214Z"
   },
   {
     "title": "À Paris, des manifestants entre revendications et peur des violences",
@@ -123050,5 +123056,13 @@
   {
     "title": "Les scènes d'émeutes en France se sont prolongées dans la nuit",
     "added_at": "2026-10-18T21:18:57.720Z"
+  },
+  {
+    "title": "Le préfet de Guadeloupe instaure un couvre-feu pour les mineurs suite aux violences",
+    "added_at": "2026-10-19T02:18:08.943Z"
+  },
+  {
+    "title": "Premier débat télévisé houleux entre Lula et Flavio Bolsonaro à une semaine de l'élection",
+    "added_at": "2026-10-19T02:42:11.592Z"
   }
 ]

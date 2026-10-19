@@ -113195,7 +113195,10 @@
   },
   {
     "title": "monde:::En direct, guerre contre l’Ukraine – L’Ukraine a attaqué un terminal pétrolier de Saint-Pétersbourg",
-    "added_at": "2026-10-18T06:47:11.806Z"
+    "added_at": "2026-10-18T06:47:11.806Z",
+    "removed_at": "2026-10-19T02:18:09.034Z",
+    "duration_minutes": 1170,
+    "duration_str": "19h 30m"
   },
   {
     "title": "culture:::Dans le documentaire «La Hype – 2020 revisitée», le Bernois Mike Wyniger revient sur la gestion de la crise du Covid-19",
@@ -113320,7 +113323,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump apporte son soutien à Benyamin Netanyahou avant les élections en Israël",
-    "added_at": "2026-10-18T16:05:10.472Z"
+    "added_at": "2026-10-18T16:05:10.472Z",
+    "removed_at": "2026-10-19T02:39:50.841Z",
+    "duration_minutes": 634,
+    "duration_str": "10h 34m"
   },
   {
     "title": "monde:::«Certains ont voulu brûler le château»: stupéfaction et tensions à Limoges au lendemain de l’incendie de l’hôtel de ville brûlé par des émeutiers",
@@ -113367,5 +113373,20 @@
   {
     "title": "monde:::La France sidérée et en quête d'explications après le chaos en marge des manifestations",
     "added_at": "2026-10-18T20:35:27.458Z"
+  },
+  {
+    "title": "monde:::Guerre contre l’Ukraine – Notre suivi du 15 au 18 octobre 2026",
+    "added_at": "2026-10-19T02:18:09.034Z",
+    "removed_at": "2026-10-19T02:22:55.966Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "monde:::En direct, guerre contre l’Ukraine – Donald Trump accuse Volodymyr Zelensky de «ne pas vouloir mettre fin» à la guerre",
+    "added_at": "2026-10-19T02:22:55.966Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Notre suivi du 15 au 18 octobre 2026",
+    "added_at": "2026-10-19T02:39:50.841Z"
   }
 ]
