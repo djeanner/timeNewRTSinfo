@@ -104388,10 +104388,7 @@
   },
   {
     "title": "Forum - Présenté par Renaud Malik et Anne Fournier",
-    "added_at": "2026-07-22T07:26:39.546Z",
-    "removed_at": "2026-10-19T05:18:54.518Z",
-    "duration_minutes": 128032,
-    "duration_str": "88d 21h 52m"
+    "added_at": "2026-07-22T07:26:39.546Z"
   },
   {
     "title": "Deux nouvelles fresques de Saype à Villars-sur-Ollon (VD)",
@@ -123199,7 +123196,10 @@
   },
   {
     "title": "Les enfants de moins de 2 ans passent près d'une heure par jour devant un écran",
-    "added_at": "2026-10-18T16:53:26.917Z"
+    "added_at": "2026-10-18T16:53:26.917Z",
+    "removed_at": "2026-10-20T20:06:01.584Z",
+    "duration_minutes": 3072,
+    "duration_str": "2d 3h 12m"
   },
   {
     "title": "Au moins quatre morts dans l'incendie d'une base militaire canadienne",
@@ -123230,7 +123230,10 @@
   },
   {
     "title": "Les habitants de la Vallée de Joux ont désigné tous les membres de leur première municipalité",
-    "added_at": "2026-10-18T20:25:51.838Z"
+    "added_at": "2026-10-18T20:25:51.838Z",
+    "removed_at": "2026-10-20T20:15:43.438Z",
+    "duration_minutes": 2869,
+    "duration_str": "1d 23h 49m"
   },
   {
     "title": "L'âge de raison",
@@ -123245,7 +123248,10 @@
   },
   {
     "title": "Le préfet de Guadeloupe instaure un couvre-feu pour les mineurs suite aux violences",
-    "added_at": "2026-10-19T02:18:08.943Z"
+    "added_at": "2026-10-19T02:18:08.943Z",
+    "removed_at": "2026-10-20T20:59:16.198Z",
+    "duration_minutes": 2561,
+    "duration_str": "1d 18h 41m"
   },
   {
     "title": "Premier débat télévisé houleux entre Lula et Flavio Bolsonaro à une semaine de l'élection",
@@ -123598,14 +123604,14 @@
   },
   {
     "title": "Le Forum des médias - Céline Amaudruz divise-t-elle l’UDC?",
-    "added_at": "2026-10-20T14:14:20.482Z"
+    "added_at": "2026-10-20T14:14:20.482Z",
+    "removed_at": "2026-10-20T21:13:40.544Z",
+    "duration_minutes": 419,
+    "duration_str": "6h 59m"
   },
   {
     "title": "Comment Sam Altman est devenu le visage de l’IA (sans l’avoir inventée) ? (4/4)",
-    "added_at": "2026-10-20T14:14:20.482Z",
-    "removed_at": "2026-10-20T15:17:14.777Z",
-    "duration_minutes": 62,
-    "duration_str": "1h 2m"
+    "added_at": "2026-10-20T14:14:20.482Z"
   },
   {
     "title": "Le sauna, c'est bon pour la santé?",
@@ -123621,7 +123627,10 @@
   },
   {
     "title": "Les enfants de moins de 2 ans passent en moyenne 53 minutes par jour devant un écran: interview de Florent de Bodman",
-    "added_at": "2026-10-20T15:17:14.777Z"
+    "added_at": "2026-10-20T15:17:14.777Z",
+    "removed_at": "2026-10-20T20:15:43.438Z",
+    "duration_minutes": 298,
+    "duration_str": "4h 58m"
   },
   {
     "title": "En Ukraine, les habitants d'Olechky réduits à manger des plantes sauvages pour survivre",
@@ -123637,7 +123646,10 @@
   },
   {
     "title": "Lyon, un dur réveil après une nuit de violences urbaines",
-    "added_at": "2026-10-20T17:13:48.831Z"
+    "added_at": "2026-10-20T17:13:48.831Z",
+    "removed_at": "2026-10-20T20:15:43.438Z",
+    "duration_minutes": 181,
+    "duration_str": "3h 1m"
   },
   {
     "title": "Tamara Muncanovic revient sur les conséquences des émeutes du 17 octobre",
@@ -123650,5 +123662,25 @@
   {
     "title": "Le mouvement social gagne plusieurs pays d'Europe, la Suisse pour l'heure épargnée",
     "added_at": "2026-10-20T19:22:16.047Z"
+  },
+  {
+    "title": "L'UE veut muscler sa présence dans l'Arctique après les menaces de Donald Trump",
+    "added_at": "2026-10-20T20:06:01.584Z"
+  },
+  {
+    "title": "Le gouvernement français maintient ses accusations contre LFI, échanges houleux au Parlement",
+    "added_at": "2026-10-20T20:15:43.438Z"
+  },
+  {
+    "title": "Hockey: retour en image sur les résultats des clubs romands",
+    "added_at": "2026-10-20T20:15:43.438Z"
+  },
+  {
+    "title": "Un satellite russe s'approche d'un satellite au service de l'Ukraine",
+    "added_at": "2026-10-20T20:59:16.198Z"
+  },
+  {
+    "title": "Le président brésilien Lula veut disqualifier Flavio Bolsonaro pour \"ingérence\" de Meta",
+    "added_at": "2026-10-20T21:06:30.296Z"
   }
 ]
