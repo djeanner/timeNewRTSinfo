@@ -122746,7 +122746,10 @@
   },
   {
     "title": "La sécheresse estivale fait grimper le prix des truffes",
-    "added_at": "2026-10-17T22:23:26.062Z"
+    "added_at": "2026-10-17T22:23:26.062Z",
+    "removed_at": "2026-10-20T02:52:56.936Z",
+    "duration_minutes": 3149,
+    "duration_str": "2d 4h 29m"
   },
   {
     "title": "Réuni en assemblée, le PS lance une initiative pour protéger les femmes de la violence",
@@ -122799,7 +122802,10 @@
   },
   {
     "title": "Des enfants travaillent vraiment pour produire du chocolat Lindt ?",
-    "added_at": "2026-10-17T22:23:26.062Z"
+    "added_at": "2026-10-17T22:23:26.062Z",
+    "removed_at": "2026-10-20T01:14:10.859Z",
+    "duration_minutes": 3050,
+    "duration_str": "2d 2h 50m"
   },
   {
     "title": "La marque Tesla présente Roadster, la première voiture volante de l’histoire",
@@ -123379,5 +123385,13 @@
   {
     "title": "Une sonde japonaise décolle vers les lunes de Mars pour une mission inédite",
     "added_at": "2026-10-20T00:16:02.339Z"
+  },
+  {
+    "title": "De nouvelles tensions ont lieu à Paris, au lendemain des émeutes du 17 octobre",
+    "added_at": "2026-10-20T01:14:10.859Z"
+  },
+  {
+    "title": "L'Ukraine accuse les Etats-Unis de retarder délibérément la livraison de missiles",
+    "added_at": "2026-10-20T02:52:56.936Z"
   }
 ]
