@@ -113119,7 +113119,10 @@
   },
   {
     "title": "monde:::«Une frustration qui ne peut plus s’exprimer autrement»: en France, la jeunesse répond à l’appel des Gilets jaunes dans une journée marquée par les violences extrêmes",
-    "added_at": "2026-10-17T22:23:26.175Z"
+    "added_at": "2026-10-17T22:23:26.175Z",
+    "removed_at": "2026-10-20T13:42:42.691Z",
+    "duration_minutes": 3799,
+    "duration_str": "2d 15h 19m"
   },
   {
     "title": "monde:::Gilets jaunes, lycéens… des mobilisations symboles du «crépuscule» sans fin du macronisme",
@@ -113158,7 +113161,10 @@
   },
   {
     "title": "suisse:::Une candidature de Natalie Rickli pour remplacer Guy Parmelin? Un bon profil, mais un mauvais timing électoral",
-    "added_at": "2026-10-17T22:23:26.175Z"
+    "added_at": "2026-10-17T22:23:26.175Z",
+    "removed_at": "2026-10-20T12:56:40.913Z",
+    "duration_minutes": 3753,
+    "duration_str": "2d 14h 33m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – En Cisjordanie, des colons ont attaqué un convoi diplomatique européen",
@@ -113359,7 +113365,10 @@
   },
   {
     "title": "monde:::Callista Gingrich, ambassadrice des Etats-Unis en Suisse: «Je ne peux pas spéculer sur les futures décisions en matière de droits de douane»",
-    "added_at": "2026-10-18T17:12:38.962Z"
+    "added_at": "2026-10-18T17:12:38.962Z",
+    "removed_at": "2026-10-20T13:47:35.135Z",
+    "duration_minutes": 2674,
+    "duration_str": "1d 20h 34m"
   },
   {
     "title": "sport:::A Pully, deux footballs face à face le temps d'un tour de Coupe de Suisse",
@@ -113794,7 +113803,10 @@
   },
   {
     "title": "monde:::La France étend ses couvre-feux après une première nuit jugée calme",
-    "added_at": "2026-10-20T07:18:19.114Z"
+    "added_at": "2026-10-20T07:18:19.114Z",
+    "removed_at": "2026-10-20T13:45:08.079Z",
+    "duration_minutes": 386,
+    "duration_str": "6h 26m"
   },
   {
     "title": "culture:::Sous ses perruques, Moguiz donne vie à nos petits travers et à nos pires collègues",
@@ -113802,7 +113814,10 @@
   },
   {
     "title": "economie:::Le commerce extérieur de la Suisse confirme sa reprise malgré une chute des exportations vers les États-Unis",
-    "added_at": "2026-10-20T09:38:21.223Z"
+    "added_at": "2026-10-20T09:38:21.223Z",
+    "removed_at": "2026-10-20T13:42:42.691Z",
+    "duration_minutes": 244,
+    "duration_str": "4h 4m"
   },
   {
     "title": "economie:::Après les violences urbaines du 17 octobre, assureurs et Etat se disputent le partage des responsabilités",
@@ -113817,10 +113832,55 @@
   },
   {
     "title": "suisse:::En Valais, au moment où Marianne Maret officialise son retrait, Christophe Darbellay annonce qu’il sera candidat au Conseil des Etats en 2027",
-    "added_at": "2026-10-20T10:31:28.186Z"
+    "added_at": "2026-10-20T10:31:28.186Z",
+    "removed_at": "2026-10-20T13:49:57.306Z",
+    "duration_minutes": 198,
+    "duration_str": "3h 18m"
   },
   {
     "title": "monde:::En direct, guerre contre l’Ukraine – Zelensky attendu à Oslo pour remettre la diplomatie sur les rails avec les émissaires américains",
-    "added_at": "2026-10-20T10:48:25.083Z"
+    "added_at": "2026-10-20T10:48:25.083Z",
+    "removed_at": "2026-10-20T12:03:35.243Z",
+    "duration_minutes": 75,
+    "duration_str": "1h 15m"
+  },
+  {
+    "title": "monde:::En direct, guerre contre l’Ukraine – Volodymyr Zelensky attendu à Oslo pour remettre la diplomatie sur les rails avec les émissaires américains",
+    "added_at": "2026-10-20T12:03:35.243Z"
+  },
+  {
+    "title": "suisse:::Nouveau désistement à l’UDC: le favori de Christoph Blocher, le conseiller national Pascal Schmid ne sera pas candidat",
+    "added_at": "2026-10-20T12:56:40.913Z"
+  },
+  {
+    "title": "culture:::Julian Charrière, un artiste planétaire qui ne cesse d'inventer des formes",
+    "added_at": "2026-10-20T13:18:30.001Z"
+  },
+  {
+    "title": "suisse:::Après le vote suisse, Moscou veut «clarifier» le statut de la neutralité à l’ONU",
+    "added_at": "2026-10-20T13:45:08.079Z"
+  },
+  {
+    "title": "suisse:::«J’ai été évacué à deux reprises du train durant la nuit»: malgré les bombardements et les menaces russes, les diplomates suisses restent à Kiev",
+    "added_at": "2026-10-20T13:45:08.079Z"
+  },
+  {
+    "title": "economie:::ABB crée une coentreprise avec Mitsubishi Electric pour 495 millions de dollars",
+    "added_at": "2026-10-20T13:45:08.079Z"
+  },
+  {
+    "title": "monde:::«Ceux qui étudient la Torah défendent aussi le pays!» L’armée, pilier d’Israël fragilisé par le nombre croissant d’exemptions",
+    "added_at": "2026-10-20T13:47:35.135Z"
+  },
+  {
+    "title": "suisse:::En Valais, peu après le retrait de Marianne Maret, Christophe Darbellay annonce qu’il sera candidat au Conseil des Etats en 2027",
+    "added_at": "2026-10-20T13:49:57.306Z",
+    "removed_at": "2026-10-20T13:54:51.275Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "suisse:::En Valais, peu après le retrait de Marianne Maret, Christophe Darbellay annonce sa candidature au Conseil des Etats en 2027",
+    "added_at": "2026-10-20T13:54:51.275Z"
   }
 ]
