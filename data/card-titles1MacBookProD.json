@@ -123185,7 +123185,10 @@
   },
   {
     "title": "Le fisc vaudois demande à une victime de payer des impôts sur une indemnité versée par l'Eglise",
-    "added_at": "2026-10-18T16:17:15.248Z"
+    "added_at": "2026-10-18T16:17:15.248Z",
+    "removed_at": "2026-10-20T23:08:07.013Z",
+    "duration_minutes": 3290,
+    "duration_str": "2d 6h 50m"
   },
   {
     "title": "En France, les enfants de moins de 2 ans passent près d'une heure par jour devant un écran",
@@ -123196,10 +123199,7 @@
   },
   {
     "title": "Les enfants de moins de 2 ans passent près d'une heure par jour devant un écran",
-    "added_at": "2026-10-18T16:53:26.917Z",
-    "removed_at": "2026-10-20T20:06:01.584Z",
-    "duration_minutes": 3072,
-    "duration_str": "2d 3h 12m"
+    "added_at": "2026-10-18T16:53:26.917Z"
   },
   {
     "title": "Au moins quatre morts dans l'incendie d'une base militaire canadienne",
@@ -123611,7 +123611,10 @@
   },
   {
     "title": "Comment Sam Altman est devenu le visage de l’IA (sans l’avoir inventée) ? (4/4)",
-    "added_at": "2026-10-20T14:14:20.482Z"
+    "added_at": "2026-10-20T14:14:20.482Z",
+    "removed_at": "2026-10-21T00:15:42.982Z",
+    "duration_minutes": 601,
+    "duration_str": "10h 1m"
   },
   {
     "title": "Le sauna, c'est bon pour la santé?",
@@ -123653,7 +123656,10 @@
   },
   {
     "title": "Tamara Muncanovic revient sur les conséquences des émeutes du 17 octobre",
-    "added_at": "2026-10-20T17:13:48.831Z"
+    "added_at": "2026-10-20T17:13:48.831Z",
+    "removed_at": "2026-10-20T23:15:21.805Z",
+    "duration_minutes": 361,
+    "duration_str": "6h 1m"
   },
   {
     "title": "Donald Trump tente-t-il délibérément d'affaiblir l'Ukraine?",
@@ -123682,5 +123688,24 @@
   {
     "title": "Le président brésilien Lula veut disqualifier Flavio Bolsonaro pour \"ingérence\" de Meta",
     "added_at": "2026-10-20T21:06:30.296Z"
+  },
+  {
+    "title": "USA : point de bascule",
+    "added_at": "2026-10-20T23:15:21.805Z"
+  },
+  {
+    "title": "SpaceX dépasse les attentes et devient bénéficiaire au 3ème trimestre",
+    "added_at": "2026-10-21T00:15:42.982Z",
+    "removed_at": "2026-10-21T00:25:23.719Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Comment débusquer le bullshit dans les décisions en entreprise?",
+    "added_at": "2026-10-21T00:15:42.982Z"
+  },
+  {
+    "title": "Space X dépasse les attentes et devient bénéficiaire au 3ème trimestre",
+    "added_at": "2026-10-21T00:25:23.719Z"
   }
 ]
