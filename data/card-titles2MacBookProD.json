@@ -114114,11 +114114,17 @@
   },
   {
     "title": "suisse:::Le Soleurois Rémy Wyssmann se lance dans la course au Conseil fédéral",
-    "added_at": "2026-10-21T09:02:59.385Z"
+    "added_at": "2026-10-21T09:02:59.385Z",
+    "removed_at": "2026-10-21T15:54:53.122Z",
+    "duration_minutes": 411,
+    "duration_str": "6h 51m"
   },
   {
     "title": "culture:::Dans «Une Femme aujourd’hui», Robert Guédiguian raconte les violences faites aux femmes et signe l’un de ses plus beaux films",
-    "added_at": "2026-10-21T09:53:54.753Z"
+    "added_at": "2026-10-21T09:53:54.753Z",
+    "removed_at": "2026-10-21T16:14:21.093Z",
+    "duration_minutes": 380,
+    "duration_str": "6h 20m"
   },
   {
     "title": "suisse:::La sécurité suisse peut-elle encore se permettre 26 polices cantonales?",
@@ -114130,7 +114136,10 @@
   },
   {
     "title": "culture:::Comment Karim Crippa, nageur de compétition à Lausanne est devenu directeur d’Art Basel Paris",
-    "added_at": "2026-10-21T12:14:22.119Z"
+    "added_at": "2026-10-21T12:14:22.119Z",
+    "removed_at": "2026-10-21T15:01:31.497Z",
+    "duration_minutes": 167,
+    "duration_str": "2h 47m"
   },
   {
     "title": "monde:::En direct, guerre contre l’Ukraine – Steve Witkoff dit avoir apporté à Vladimir Poutine «des idées» pour un «accord de paix» en Ukraine",
@@ -114154,7 +114163,10 @@
   },
   {
     "title": "suisse:::Votations du 29 novembre: le financement de la 13e rente AVS par la TVA serait rejeté, selon un sondage Yougov",
-    "added_at": "2026-10-21T14:10:29.968Z"
+    "added_at": "2026-10-21T14:10:29.968Z",
+    "removed_at": "2026-10-21T15:47:36.211Z",
+    "duration_minutes": 97,
+    "duration_str": "1h 37m"
   },
   {
     "title": "monde:::«La prison, ce n’est pas pour lui»: à Paris, un après-midi dans la masse des comparutions immédiates à la suite des émeutes du 17 octobre",
@@ -114163,5 +114175,25 @@
   {
     "title": "monde:::«En Grèce comme en France», les élèves, étudiants, enseignants et fonctionnaires prennent la rue",
     "added_at": "2026-10-21T14:27:33.452Z"
+  },
+  {
+    "title": "cyber:::Alerte sur le Web: des millions de sites sont débranchés en urgence à cause de failles majeures au cœur de PHP",
+    "added_at": "2026-10-21T15:01:31.497Z"
+  },
+  {
+    "title": "economie:::SpaceX dégage son premier bénéfice et Elon Musk évoque une fusion avec Tesla",
+    "added_at": "2026-10-21T15:47:36.211Z"
+  },
+  {
+    "title": "suisse:::Lancé dans la course au Conseil fédéral, le Soleurois Rémy Wyssmann veut séduire les Romands",
+    "added_at": "2026-10-21T15:54:53.122Z"
+  },
+  {
+    "title": "culture:::Ariane Ascaride: «Pour Robert Guédiguian, les acteurs sont aussi des auteurs»",
+    "added_at": "2026-10-21T16:14:21.093Z"
+  },
+  {
+    "title": "culture:::L’IA a été utilisée dans l’écriture du roman de Thélyson Orélien, annonce finalement son éditeur québécois",
+    "added_at": "2026-10-21T16:31:14.462Z"
   }
 ]
