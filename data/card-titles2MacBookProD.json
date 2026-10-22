@@ -114223,7 +114223,10 @@
   },
   {
     "title": "cyber:::Alerte sur le Web: des millions de sites sont débranchés en urgence à cause de failles majeures au cœur de PHP",
-    "added_at": "2026-10-21T15:01:31.497Z"
+    "added_at": "2026-10-21T15:01:31.497Z",
+    "removed_at": "2026-10-22T18:48:04.605Z",
+    "duration_minutes": 1666,
+    "duration_str": "1d 3h 46m"
   },
   {
     "title": "economie:::SpaceX dégage son premier bénéfice et Elon Musk évoque une fusion avec Tesla",
@@ -114386,7 +114389,10 @@
   },
   {
     "title": "economie:::Zenith se repositionne sur le très haut de gamme: 100 emplois menacés au Locle",
-    "added_at": "2026-10-22T08:29:34.605Z"
+    "added_at": "2026-10-22T08:29:34.605Z",
+    "removed_at": "2026-10-22T18:48:04.605Z",
+    "duration_minutes": 618,
+    "duration_str": "10h 18m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L'attaque contre l'aéroport de Dammam fait deux morts",
@@ -114438,7 +114444,10 @@
   },
   {
     "title": "suisse:::Faire son école de recrues aujourd’hui: «D’un coup, on réalise qu’un jour ça pourrait ne plus être un exercice»",
-    "added_at": "2026-10-22T13:39:42.421Z"
+    "added_at": "2026-10-22T13:39:42.421Z",
+    "removed_at": "2026-10-22T18:48:04.605Z",
+    "duration_minutes": 308,
+    "duration_str": "5h 8m"
   },
   {
     "title": "monde:::«Une violence algorithmique»: La France fait face à la question des ingérences étrangères et des réseaux sociaux",
@@ -114470,7 +114479,10 @@
   },
   {
     "title": "suisse:::L’UDC lance sa campagne pour les Fédérales 2027 avec un livre noir et un vocabulaire crépusculaire",
-    "added_at": "2026-10-22T16:07:41.811Z"
+    "added_at": "2026-10-22T16:07:41.811Z",
+    "removed_at": "2026-10-22T18:11:45.852Z",
+    "duration_minutes": 124,
+    "duration_str": "2h 4m"
   },
   {
     "title": "suisse:::Avec Pierre Alain Schnegg, la Suisse Romande tient un second candidat au Conseil fédéral",
@@ -114492,7 +114504,10 @@
   },
   {
     "title": "culture:::Dans «L’Echelle de Turin», Marc van Dongen plonge dans le vertige de ses nuits d’insomnie où se déploie son obsession pour un astéroïde",
-    "added_at": "2026-10-22T16:53:43.676Z"
+    "added_at": "2026-10-22T16:53:43.676Z",
+    "removed_at": "2026-10-22T18:11:45.852Z",
+    "duration_minutes": 78,
+    "duration_str": "1h 18m"
   },
   {
     "title": "monde:::La France face à une violence «algorithmique»: des experts alertent sur l’amplification des récits de colère par des puissances étrangères",
@@ -114500,7 +114515,10 @@
   },
   {
     "title": "sport:::La première Coupe du monde des clubs féminine de football aura lieu aux États-Unis en 2028",
-    "added_at": "2026-10-22T17:05:53.759Z"
+    "added_at": "2026-10-22T17:05:53.759Z",
+    "removed_at": "2026-10-22T17:57:09.778Z",
+    "duration_minutes": 51,
+    "duration_str": "51m"
   },
   {
     "title": "cyber:::De l’EPFL à Neuchâtel, de Londres à Tokyo, une course contre la montre est lancée pour sécuriser le web",
@@ -114513,5 +114531,28 @@
   {
     "title": "suisse:::Pierre Alain Schnegg, Marco Chiesa: deux nouvelles candidatures latines au Conseil fédéral",
     "added_at": "2026-10-22T17:35:03.941Z"
+  },
+  {
+    "title": "culture:::Un tableau de Monet vendu 50 millions d’euros à Paris devient l’œuvre d’art la plus chère jamais vendue aux enchères en France",
+    "added_at": "2026-10-22T17:57:09.778Z",
+    "removed_at": "2026-10-22T18:19:03.623Z",
+    "duration_minutes": 21,
+    "duration_str": "21m"
+  },
+  {
+    "title": "suisse:::L’UDC lance sa campagne pour les fédérales 2027 avec un livre noir et un vocabulaire crépusculaire",
+    "added_at": "2026-10-22T18:11:45.852Z"
+  },
+  {
+    "title": "monde:::Les Etats-Unis créent un nouveau parc national mais aucun conservationniste ne sabre le champagne",
+    "added_at": "2026-10-22T18:11:45.852Z"
+  },
+  {
+    "title": "monde:::Les autorités annoncent prolonger le couvre-feu dans certains secteurs de Paris toutes les nuits jusqu’à lundi matin",
+    "added_at": "2026-10-22T18:19:03.623Z"
+  },
+  {
+    "title": "monde:::«Il faut terminer le travail»: en Serbie, les étudiants bousculent le régime d'Aleksandar Vučić",
+    "added_at": "2026-10-22T18:48:04.605Z"
   }
 ]
