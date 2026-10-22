@@ -123332,7 +123332,10 @@
   },
   {
     "title": "Forum - Présenté par Anne Fournier et Guillaume Rey",
-    "added_at": "2026-10-19T06:14:31.958Z"
+    "added_at": "2026-10-19T06:14:31.958Z",
+    "removed_at": "2026-10-22T05:18:22.286Z",
+    "duration_minutes": 4263,
+    "duration_str": "2d 23h 3m"
   },
   {
     "title": "Au Kirghizistan, la panthère des neiges est devenue un symbole national pour mieux la protéger",
@@ -123624,7 +123627,10 @@
   },
   {
     "title": "Au Canada, l'Alberta vote très largement contre l'organisation d'un référendum d'indépendance",
-    "added_at": "2026-10-20T05:53:59.754Z"
+    "added_at": "2026-10-20T05:53:59.754Z",
+    "removed_at": "2026-10-22T05:59:27.110Z",
+    "duration_minutes": 2885,
+    "duration_str": "2d 5m"
   },
   {
     "title": "Le Premier ministre français Sébastien Lecornu se félicite d'une nuit \"calme\" sous couvre-feu partiel",
@@ -123693,7 +123699,10 @@
   },
   {
     "title": "La centrale de Gösgen mise hors service à cause d'une sous-tension, aucun rejet radioactif constaté",
-    "added_at": "2026-10-20T10:09:46.632Z"
+    "added_at": "2026-10-20T10:09:46.632Z",
+    "removed_at": "2026-10-22T04:37:14.141Z",
+    "duration_minutes": 2547,
+    "duration_str": "1d 18h 27m"
   },
   {
     "title": "Avec Melat Kiros, la Gen Z va entrer au Congrès étasunien",
@@ -123704,11 +123713,17 @@
   },
   {
     "title": "\"Je me réjouis de mettre les deux pieds dans la saison\", sourit Loïc Meillard",
-    "added_at": "2026-10-20T10:53:13.993Z"
+    "added_at": "2026-10-20T10:53:13.993Z",
+    "removed_at": "2026-10-22T06:47:48.170Z",
+    "duration_minutes": 2634,
+    "duration_str": "1d 19h 54m"
   },
   {
     "title": "Comment gagner une élection au Conseil fédéral, mode d'emploi",
-    "added_at": "2026-10-20T11:10:09.790Z"
+    "added_at": "2026-10-20T11:10:09.790Z",
+    "removed_at": "2026-10-22T06:42:58.379Z",
+    "duration_minutes": 2612,
+    "duration_str": "1d 19h 32m"
   },
   {
     "title": "'Je suis né dans la tempête' de Jérôme Colin, un livre pour habiter un monde devenu trop rapide",
@@ -124034,7 +124049,10 @@
   },
   {
     "title": "L'éditeur de Thélyson Orélien rompt son contrat après l'usage confirmé d'IA",
-    "added_at": "2026-10-21T17:00:20.206Z"
+    "added_at": "2026-10-21T17:00:20.206Z",
+    "removed_at": "2026-10-22T05:28:04.973Z",
+    "duration_minutes": 747,
+    "duration_str": "12h 27m"
   },
   {
     "title": "L'invité de La Matinale - Sébastien Kessler, député au Grand Conseil vaudois et premier élu en fauteuil roulant",
@@ -124069,7 +124087,10 @@
   },
   {
     "title": "Une personne sur six en Suisse dépasse plus du tiers de ses revenus pour se loger",
-    "added_at": "2026-10-22T01:38:15.962Z"
+    "added_at": "2026-10-22T01:38:15.962Z",
+    "removed_at": "2026-10-22T05:20:50.167Z",
+    "duration_minutes": 222,
+    "duration_str": "3h 42m"
   },
   {
     "title": "Meta condamné à payer 25 milliards de dollars au Nouveau-Mexique",
@@ -124078,5 +124099,51 @@
   {
     "title": "Les Emirats arabes unis proposent une candidate au poste de secrétaire générale de l'ONU",
     "added_at": "2026-10-22T04:10:30.846Z"
+  },
+  {
+    "title": "A Gaza, au moins 8000 disparus et des preuves de crimes gisent encore sous les décombres",
+    "added_at": "2026-10-22T04:37:14.141Z"
+  },
+  {
+    "title": "Thélyson Orélien a utilisé de l'IA dans son roman, dit son éditeur",
+    "added_at": "2026-10-22T05:18:22.286Z"
+  },
+  {
+    "title": "Une personne sur six en Suisse dépense plus du tiers de ses revenus pour se loger",
+    "added_at": "2026-10-22T05:20:50.167Z"
+  },
+  {
+    "title": "L'éditeur de Thélyson Orélien rompt son contrat après la détection d'usage de l'IA dans son roman",
+    "added_at": "2026-10-22T05:28:04.973Z"
+  },
+  {
+    "title": "La Libye libère une otage suisse retenue au Niger",
+    "added_at": "2026-10-22T05:59:27.110Z",
+    "removed_at": "2026-10-22T06:04:14.260Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Une Suisse enlevée en 2025 au Niger a été libérée",
+    "added_at": "2026-10-22T06:04:14.260Z",
+    "removed_at": "2026-10-22T06:23:37.249Z",
+    "duration_minutes": 19,
+    "duration_str": "19m"
+  },
+  {
+    "title": "Faut-il casser pour se faire entendre ?",
+    "added_at": "2026-10-22T06:13:55.988Z"
+  },
+  {
+    "title": "Une Suissesse enlevée en 2025 au Niger a été libérée",
+    "added_at": "2026-10-22T06:23:37.249Z"
+  },
+  {
+    "title": "Tirs de missiles et attaques de drones entre la Russie et l'Ukraine après les pourparlers russo-américains",
+    "added_at": "2026-10-22T06:42:58.379Z"
+  },
+  {
+    "title": "Un projet bâlois associe photovoltaïque et viticulture sur la même parcelle",
+    "added_at": "2026-10-22T06:47:48.170Z"
   }
 ]
