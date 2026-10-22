@@ -114165,7 +114165,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Emmanuel Macron atterrit à Riyad, étape surprise d’une tournée dans le Golfe",
-    "added_at": "2026-10-21T13:12:24.738Z"
+    "added_at": "2026-10-21T13:12:24.738Z",
+    "removed_at": "2026-10-21T22:56:02.672Z",
+    "duration_minutes": 583,
+    "duration_str": "9h 43m"
   },
   {
     "title": "suisse:::Comment sauver Tox Info? En faisant payer la chimie et la pharma",
@@ -114244,7 +114247,10 @@
   },
   {
     "title": "monde:::En direct, guerre contre l’Ukraine – Volodymyr Zelensky favorable à une réunion trilatérale avec Moscou et Washington «dès que possible»",
-    "added_at": "2026-10-21T18:59:23.658Z"
+    "added_at": "2026-10-21T18:59:23.658Z",
+    "removed_at": "2026-10-21T23:37:13.632Z",
+    "duration_minutes": 277,
+    "duration_str": "4h 37m"
   },
   {
     "title": "culture:::Gérard Jugnot, invité d’honneur du VIFFF: «C’est justement dans les moments de crise que le rire a toute sa place»",
@@ -114253,5 +114259,27 @@
   {
     "title": "cyber:::Meta condamnée à payer 25 milliards de dollars au Nouveau-Mexique pour avoir trompé ses habitants sur l'usage de leurs données",
     "added_at": "2026-10-21T20:05:06.372Z"
+  },
+  {
+    "title": "monde:::Moyen-Orient – Notre suivi du 19 au 21 octobre 2026",
+    "added_at": "2026-10-21T22:56:02.672Z",
+    "removed_at": "2026-10-21T23:00:55.992Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Une attaque contre l'aéroport international à Dammam fait au moins un mort",
+    "added_at": "2026-10-21T23:00:55.992Z"
+  },
+  {
+    "title": "monde:::Guerre contre l’Ukraine – Notre suivi du 19 au 21 octobre 2026",
+    "added_at": "2026-10-21T23:37:13.632Z",
+    "removed_at": "2026-10-21T23:39:36.097Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::En direct, guerre contre l’Ukraine – La diplomatie est relancée, les attaques se poursuivent sur Kiev",
+    "added_at": "2026-10-21T23:39:36.097Z"
   }
 ]
