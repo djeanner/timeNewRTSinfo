@@ -118701,10 +118701,7 @@
   },
   {
     "title": "La Matinale (vidéo) - Présentée par Valérie Hauert",
-    "added_at": "2026-09-24T23:19:07.505Z",
-    "removed_at": "2026-10-02T09:14:17.896Z",
-    "duration_minutes": 10675,
-    "duration_str": "7d 9h 55m"
+    "added_at": "2026-09-24T23:19:07.505Z"
   },
   {
     "title": "C'est quoi le néonazisme aujourd'hui ?",
@@ -122335,7 +122332,10 @@
   },
   {
     "title": "Ces Suisse·sses qui manifestent à Paris le 17",
-    "added_at": "2026-10-17T00:31:51.424Z"
+    "added_at": "2026-10-17T00:31:51.424Z",
+    "removed_at": "2026-10-22T17:22:51.982Z",
+    "duration_minutes": 8211,
+    "duration_str": "5d 16h 51m"
   },
   {
     "title": "Passionnée de loup, elle les filme pour changer leur image",
@@ -123900,7 +123900,10 @@
   },
   {
     "title": "Le président brésilien Lula veut disqualifier Flavio Bolsonaro pour \"ingérence\" de Meta",
-    "added_at": "2026-10-20T21:06:30.296Z"
+    "added_at": "2026-10-20T21:06:30.296Z",
+    "removed_at": "2026-10-22T16:36:47.237Z",
+    "duration_minutes": 2610,
+    "duration_str": "1d 19h 30m"
   },
   {
     "title": "USA : point de bascule",
@@ -123932,11 +123935,17 @@
   },
   {
     "title": "Les discussions progressent entre Kiev et Washington malgré des tensions toujours vives",
-    "added_at": "2026-10-21T03:16:59.306Z"
+    "added_at": "2026-10-21T03:16:59.306Z",
+    "removed_at": "2026-10-22T15:31:22.399Z",
+    "duration_minutes": 2174,
+    "duration_str": "1d 12h 14m"
   },
   {
     "title": "La banane est-elle radioactive? Oui, mais elle ne présente aucun risque pour la santé",
-    "added_at": "2026-10-21T04:46:31.794Z"
+    "added_at": "2026-10-21T04:46:31.794Z",
+    "removed_at": "2026-10-22T16:02:52.909Z",
+    "duration_minutes": 2116,
+    "duration_str": "1d 11h 16m"
   },
   {
     "title": "Elon Musk aurait ordonné de ralentir le réseau Starshield en Ukraine",
@@ -123962,7 +123971,10 @@
   },
   {
     "title": "Daniel de Roulet raconte une Suisse contestataire dans 'Trois garçons'",
-    "added_at": "2026-10-21T06:57:14.991Z"
+    "added_at": "2026-10-21T06:57:14.991Z",
+    "removed_at": "2026-10-22T17:35:03.856Z",
+    "duration_minutes": 2077,
+    "duration_str": "1d 10h 37m"
   },
   {
     "title": "Des tonnes de sable puisées au large pour sauver la Grande Cariçaie de l'érosion",
@@ -124313,5 +124325,21 @@
   {
     "title": "'Je n'ai jamais vu le Kremlin', la révolte d'un ivrogne dans la Russie de Poutine ★★★★☆",
     "added_at": "2026-10-22T14:54:51.960Z"
+  },
+  {
+    "title": "Le Bernois Pierre Alain Schnegg se porte candidat à la succession de Guy Parmelin",
+    "added_at": "2026-10-22T15:31:22.399Z"
+  },
+  {
+    "title": "Huit entreprises de soins à domicile bannies en Suisse romande",
+    "added_at": "2026-10-22T16:02:52.909Z"
+  },
+  {
+    "title": "Le Tessinois Marco Chiesa est candidat à la succession de Guy Parmelin",
+    "added_at": "2026-10-22T16:36:47.237Z"
+  },
+  {
+    "title": "Manon Schick affronte de vives critiques au sein de la protection des mineurs vaudoise",
+    "added_at": "2026-10-22T17:35:03.856Z"
   }
 ]

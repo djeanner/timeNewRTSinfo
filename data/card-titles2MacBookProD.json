@@ -114159,7 +114159,10 @@
   },
   {
     "title": "suisse:::A la tourbière de la Gruère, le «chantier du siècle» redonne vie à un joyau écologique jurassien",
-    "added_at": "2026-10-21T11:45:11.027Z"
+    "added_at": "2026-10-21T11:45:11.027Z",
+    "removed_at": "2026-10-22T17:13:11.253Z",
+    "duration_minutes": 1768,
+    "duration_str": "1d 5h 28m"
   },
   {
     "title": "culture:::Comment Karim Crippa, nageur de compétition à Lausanne est devenu directeur d’Art Basel Paris",
@@ -114231,7 +114234,10 @@
   },
   {
     "title": "suisse:::Lancé dans la course au Conseil fédéral, le Soleurois Rémy Wyssmann veut séduire les Romands",
-    "added_at": "2026-10-21T15:54:53.122Z"
+    "added_at": "2026-10-21T15:54:53.122Z",
+    "removed_at": "2026-10-22T17:13:11.253Z",
+    "duration_minutes": 1518,
+    "duration_str": "1d 1h 18m"
   },
   {
     "title": "culture:::Ariane Ascaride: «Pour Robert Guédiguian, les acteurs sont aussi des auteurs»",
@@ -114388,11 +114394,17 @@
   },
   {
     "title": "sciences:::Un siècle de recettes britanniques révèle comment cinq espèces de poissons et crustacés ont gommé la diversité marine dans les assiettes",
-    "added_at": "2026-10-22T08:36:49.899Z"
+    "added_at": "2026-10-22T08:36:49.899Z",
+    "removed_at": "2026-10-22T16:53:43.676Z",
+    "duration_minutes": 496,
+    "duration_str": "8h 16m"
   },
   {
     "title": "sciences:::L’urgence de développer des systèmes d’alerte: au Népal, un signal sismique 17 minutes avant la catastrophe aurait pu sauver des vies",
-    "added_at": "2026-10-22T08:56:10.528Z"
+    "added_at": "2026-10-22T08:56:10.528Z",
+    "removed_at": "2026-10-22T16:17:27.225Z",
+    "duration_minutes": 441,
+    "duration_str": "7h 21m"
   },
   {
     "title": "suisse:::A Vevey, le grand «gâchis» du Service de la culture",
@@ -114404,7 +114416,10 @@
   },
   {
     "title": "culture:::Lâché par son éditeur québécois, Thélyson Orélien affirme avoir utilisé l’IA uniquement pour des «recherches historiques»",
-    "added_at": "2026-10-22T09:49:38.438Z"
+    "added_at": "2026-10-22T09:49:38.438Z",
+    "removed_at": "2026-10-22T16:53:43.676Z",
+    "duration_minutes": 424,
+    "duration_str": "7h 4m"
   },
   {
     "title": "monde:::Jacques Pitteloud: «En cas de conflit entre la Russie et l’OTAN, la Suisse pourrait devenir une cible d’opportunité»",
@@ -114412,7 +114427,10 @@
   },
   {
     "title": "monde:::En Israël, une natalité record malgré les guerres: «Ici, une femme doit avoir des enfants pour légitimer sa carrière»",
-    "added_at": "2026-10-22T11:36:05.175Z"
+    "added_at": "2026-10-22T11:36:05.175Z",
+    "removed_at": "2026-10-22T17:13:11.253Z",
+    "duration_minutes": 337,
+    "duration_str": "5h 37m"
   },
   {
     "title": "economie:::Nestlé accélère enfin, mais doit convaincre sur la durée",
@@ -114421,5 +114439,79 @@
   {
     "title": "suisse:::Faire son école de recrues aujourd’hui: «D’un coup, on réalise qu’un jour ça pourrait ne plus être un exercice»",
     "added_at": "2026-10-22T13:39:42.421Z"
+  },
+  {
+    "title": "monde:::«Une violence algorithmique»: La France fait face à la question des ingérences étrangères et des réseaux sociaux",
+    "added_at": "2026-10-22T15:21:45.801Z",
+    "removed_at": "2026-10-22T15:24:07.933Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::La France face à une «violence algorithmique»: le rôle trouble des réseaux sociaux dans les manifestations",
+    "added_at": "2026-10-22T15:24:07.933Z",
+    "removed_at": "2026-10-22T15:29:00.518Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "monde:::Des agents d'influence russes et iraniens accusés d'amplifier les récits de violence en France",
+    "added_at": "2026-10-22T15:29:00.518Z",
+    "removed_at": "2026-10-22T15:33:48.391Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "monde:::La France face à une violence «algorithmique»: des experts alertent sur l’amplification des récits de colère en ligne par des puissances étrangères",
+    "added_at": "2026-10-22T15:33:48.391Z",
+    "removed_at": "2026-10-22T17:01:00.061Z",
+    "duration_minutes": 87,
+    "duration_str": "1h 27m"
+  },
+  {
+    "title": "suisse:::L’UDC lance sa campagne pour les Fédérales 2027 avec un livre noir et un vocabulaire crépusculaire",
+    "added_at": "2026-10-22T16:07:41.811Z"
+  },
+  {
+    "title": "suisse:::Avec Pierre Alain Schnegg, la Suisse Romande tient un second candidat au Conseil fédéral",
+    "added_at": "2026-10-22T16:17:27.225Z",
+    "removed_at": "2026-10-22T16:24:43.207Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "suisse:::Avec Pierre Alain Schnegg, la Suisse romande tient un second candidat au Conseil fédéral",
+    "added_at": "2026-10-22T16:24:43.207Z",
+    "removed_at": "2026-10-22T17:35:03.941Z",
+    "duration_minutes": 70,
+    "duration_str": "1h 10m"
+  },
+  {
+    "title": "sciences:::«On se croirait au Victoria Hall»: aux HUG, une symphonie en réalité virtuelle pour soulager la douleur des dialyses",
+    "added_at": "2026-10-22T16:53:43.676Z"
+  },
+  {
+    "title": "culture:::Dans «L’Echelle de Turin», Marc van Dongen plonge dans le vertige de ses nuits d’insomnie où se déploie son obsession pour un astéroïde",
+    "added_at": "2026-10-22T16:53:43.676Z"
+  },
+  {
+    "title": "monde:::La France face à une violence «algorithmique»: des experts alertent sur l’amplification des récits de colère par des puissances étrangères",
+    "added_at": "2026-10-22T17:01:00.061Z"
+  },
+  {
+    "title": "sport:::La première Coupe du monde des clubs féminine de football aura lieu aux États-Unis en 2028",
+    "added_at": "2026-10-22T17:05:53.759Z"
+  },
+  {
+    "title": "cyber:::De l’EPFL à Neuchâtel, de Londres à Tokyo, une course contre la montre est lancée pour sécuriser le web",
+    "added_at": "2026-10-22T17:13:11.253Z"
+  },
+  {
+    "title": "cyber:::Faille de cybersécurité: «Faute de moyens, beaucoup de sites de PME et d'associations vont rester vulnérables ces prochaines semaines»",
+    "added_at": "2026-10-22T17:13:11.253Z"
+  },
+  {
+    "title": "suisse:::Pierre Alain Schnegg, Marco Chiesa: deux nouvelles candidatures latines au Conseil fédéral",
+    "added_at": "2026-10-22T17:35:03.941Z"
   }
 ]
