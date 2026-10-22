@@ -123609,7 +123609,10 @@
   },
   {
     "title": "Une enquête révèle comment Securitas contourne les règles sur le temps de travail",
-    "added_at": "2026-10-20T04:31:56.138Z"
+    "added_at": "2026-10-20T04:31:56.138Z",
+    "removed_at": "2026-10-22T07:21:54.187Z",
+    "duration_minutes": 3049,
+    "duration_str": "2d 2h 49m"
   },
   {
     "title": "Une députée australienne percutée volontairement par une voiture perd sa jambe",
@@ -123634,7 +123637,10 @@
   },
   {
     "title": "Le Premier ministre français Sébastien Lecornu se félicite d'une nuit \"calme\" sous couvre-feu partiel",
-    "added_at": "2026-10-20T06:32:33.772Z"
+    "added_at": "2026-10-20T06:32:33.772Z",
+    "removed_at": "2026-10-22T07:26:42.624Z",
+    "duration_minutes": 2934,
+    "duration_str": "2d 54m"
   },
   {
     "title": "Louis Clichy transforme son adolescence en conte d’émancipation dans 'Le Corset'",
@@ -123666,7 +123672,10 @@
   },
   {
     "title": "De fortes pluies et des inondations font quatre morts dans l'est de l'Espagne",
-    "added_at": "2026-10-20T08:09:00.396Z"
+    "added_at": "2026-10-20T08:09:00.396Z",
+    "removed_at": "2026-10-22T07:14:38.924Z",
+    "duration_minutes": 2825,
+    "duration_str": "1d 23h 5m"
   },
   {
     "title": "Donald Trump s'investit sur le terrain avant les élections de mi-mandat",
@@ -123727,11 +123736,17 @@
   },
   {
     "title": "'Je suis né dans la tempête' de Jérôme Colin, un livre pour habiter un monde devenu trop rapide",
-    "added_at": "2026-10-20T11:10:09.790Z"
+    "added_at": "2026-10-20T11:10:09.790Z",
+    "removed_at": "2026-10-22T07:17:01.112Z",
+    "duration_minutes": 2646,
+    "duration_str": "1d 20h 6m"
   },
   {
     "title": "Avec Melat Kiros, la Gen Z va entrer au Congrès des États-Unis",
-    "added_at": "2026-10-20T11:39:22.441Z"
+    "added_at": "2026-10-20T11:39:22.441Z",
+    "removed_at": "2026-10-22T09:20:26.745Z",
+    "duration_minutes": 2741,
+    "duration_str": "1d 21h 41m"
   },
   {
     "title": "Pascal Schmid, le \"favori\" de Christoph Blocher, n'est pas candidat au Conseil fédéral",
@@ -123765,15 +123780,24 @@
   },
   {
     "title": "Le sauna, c'est bon pour la santé?",
-    "added_at": "2026-10-20T14:31:18.101Z"
+    "added_at": "2026-10-20T14:31:18.101Z",
+    "removed_at": "2026-10-22T07:38:45.438Z",
+    "duration_minutes": 2467,
+    "duration_str": "1d 17h 7m"
   },
   {
     "title": "Les sages-femmes du CHUV réclament un salaire harmonisé dans la classe 10, mieux rémunérée",
-    "added_at": "2026-10-20T15:02:40.629Z"
+    "added_at": "2026-10-20T15:02:40.629Z",
+    "removed_at": "2026-10-22T08:02:59.734Z",
+    "duration_minutes": 2460,
+    "duration_str": "1d 17h"
   },
   {
     "title": "L'agence fribourgeoise Mégafeux fait sortir la poésie du cadre des livres",
-    "added_at": "2026-10-20T15:12:24.641Z"
+    "added_at": "2026-10-20T15:12:24.641Z",
+    "removed_at": "2026-10-22T08:46:28.187Z",
+    "duration_minutes": 2494,
+    "duration_str": "1d 17h 34m"
   },
   {
     "title": "Les enfants de moins de 2 ans passent en moyenne 53 minutes par jour devant un écran: interview de Florent de Bodman",
@@ -124106,7 +124130,10 @@
   },
   {
     "title": "Thélyson Orélien a utilisé de l'IA dans son roman, dit son éditeur",
-    "added_at": "2026-10-22T05:18:22.286Z"
+    "added_at": "2026-10-22T05:18:22.286Z",
+    "removed_at": "2026-10-22T09:15:31.495Z",
+    "duration_minutes": 237,
+    "duration_str": "3h 57m"
   },
   {
     "title": "Une personne sur six en Suisse dépense plus du tiers de ses revenus pour se loger",
@@ -124118,10 +124145,7 @@
   },
   {
     "title": "La Libye libère une otage suisse retenue au Niger",
-    "added_at": "2026-10-22T05:59:27.110Z",
-    "removed_at": "2026-10-22T06:04:14.260Z",
-    "duration_minutes": 4,
-    "duration_str": "4m"
+    "added_at": "2026-10-22T05:59:27.110Z"
   },
   {
     "title": "Une Suisse enlevée en 2025 au Niger a été libérée",
@@ -124145,5 +124169,44 @@
   {
     "title": "Un projet bâlois associe photovoltaïque et viticulture sur la même parcelle",
     "added_at": "2026-10-22T06:47:48.170Z"
+  },
+  {
+    "title": "Le plumage des chouettes effraies suisses s'est modifié en seulement trente ans",
+    "added_at": "2026-10-22T07:14:38.924Z"
+  },
+  {
+    "title": "Erwin Sperisen définitivement condamné en Suisse après quinze ans de procédure",
+    "added_at": "2026-10-22T07:17:01.112Z"
+  },
+  {
+    "title": "Etats généreux, le collectif qui veut redonner du pouvoir aux auteurs et aux autrices",
+    "added_at": "2026-10-22T07:21:54.187Z"
+  },
+  {
+    "title": "Faille PHP: \"une bataille s'est ouverte\" entre les équipes informatiques et les cybercriminels",
+    "added_at": "2026-10-22T07:26:42.624Z"
+  },
+  {
+    "title": "Le Lucernois Franz Grüter ne sera pas candidat au Conseil fédéral",
+    "added_at": "2026-10-22T07:38:45.438Z"
+  },
+  {
+    "title": "La \"mamie émeutière\" zurichoise Andrea Stauffacher écope d'un an de prison ferme",
+    "added_at": "2026-10-22T08:02:59.734Z"
+  },
+  {
+    "title": "La guerre à hauteur d’enfants",
+    "added_at": "2026-10-22T08:17:32.396Z",
+    "removed_at": "2026-10-22T09:15:31.495Z",
+    "duration_minutes": 57,
+    "duration_str": "57m"
+  },
+  {
+    "title": "Le Conseil fédéral lance sa campagne contre l'interdiction des feux d'artifice",
+    "added_at": "2026-10-22T08:41:39.989Z"
+  },
+  {
+    "title": "Un séisme de magnitude 3,8 ressenti près des Diablerets",
+    "added_at": "2026-10-22T09:20:26.745Z"
   }
 ]
