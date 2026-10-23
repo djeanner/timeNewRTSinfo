@@ -114401,7 +114401,10 @@
   },
   {
     "title": "economie:::Zenith se repositionne sur le très haut de gamme: 100 emplois menacés au Locle",
-    "added_at": "2026-10-22T08:29:34.605Z"
+    "added_at": "2026-10-22T08:29:34.605Z",
+    "removed_at": "2026-10-23T19:20:32.659Z",
+    "duration_minutes": 2090,
+    "duration_str": "1d 10h 50m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L'attaque contre l'aéroport de Dammam fait deux morts",
@@ -114642,7 +114645,10 @@
   },
   {
     "title": "sciences:::«La crise des PFAS n’aurait pas existé si les Etats avaient régulé les activités industrielles»: interview de la journaliste Stéphane Horel",
-    "added_at": "2026-10-23T05:32:48.281Z"
+    "added_at": "2026-10-23T05:32:48.281Z",
+    "removed_at": "2026-10-23T19:20:32.659Z",
+    "duration_minutes": 827,
+    "duration_str": "13h 47m"
   },
   {
     "title": "suisse:::Votations du 29 novembre: les feux d'artifice vers l'interdiction, le financement de l'AVS dans l'impasse",
@@ -114735,7 +114741,10 @@
   },
   {
     "title": "cyber:::Faille de cybersécurité: «Faute de moyens, beaucoup de sites de PME et d’associations vont rester vulnérables ces prochaines semaines»",
-    "added_at": "2026-10-23T13:57:15.099Z"
+    "added_at": "2026-10-23T13:57:15.099Z",
+    "removed_at": "2026-10-23T19:10:51.842Z",
+    "duration_minutes": 313,
+    "duration_str": "5h 13m"
   },
   {
     "title": "sport:::Gianni Infantino retrouve le soutien de l’Asie (et sans doute un peu de sérénité)",
@@ -114769,10 +114778,7 @@
   },
   {
     "title": "monde:::Israël, ce refuge que les Juifs quittent en nombre: «Mon passeport allemand est devenu une porte de secours»",
-    "added_at": "2026-10-23T17:31:05.975Z",
-    "removed_at": "2026-10-23T18:34:15.348Z",
-    "duration_minutes": 63,
-    "duration_str": "1h 3m"
+    "added_at": "2026-10-23T17:31:05.975Z"
   },
   {
     "title": "suisse:::Huit candidats UDC, un siège et la question romande",
@@ -114793,5 +114799,9 @@
   {
     "title": "monde:::Lula ou Flavio Bolsonaro, un Brésil désenchanté se rend aux urnes dimanche",
     "added_at": "2026-10-23T18:34:15.348Z"
+  },
+  {
+    "title": "monde:::Attaque aux Yvelines: Emmanuel Macron dénonce un «attentat terroriste raciste» ayant fait un mort et des blessés",
+    "added_at": "2026-10-23T19:20:32.659Z"
   }
 ]
