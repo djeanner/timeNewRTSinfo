@@ -113104,7 +113104,10 @@
   },
   {
     "title": "monde:::Les frappes ukrainiennes sur des data centers perturbent les services en ligne en Russie",
-    "added_at": "2026-10-17T00:31:51.531Z"
+    "added_at": "2026-10-17T00:31:51.531Z",
+    "removed_at": "2026-10-23T08:44:13.527Z",
+    "duration_minutes": 9132,
+    "duration_str": "6d 8h 12m"
   },
   {
     "title": "monde:::Alors que l’hiver approche, une nouvelle génération de drones russes met l’Ukraine au pied du mur",
@@ -114455,7 +114458,10 @@
   },
   {
     "title": "economie:::Nestlé accélère enfin, mais doit convaincre sur la durée",
-    "added_at": "2026-10-22T12:36:47.706Z"
+    "added_at": "2026-10-22T12:36:47.706Z",
+    "removed_at": "2026-10-23T08:34:34.819Z",
+    "duration_minutes": 1197,
+    "duration_str": "19h 57m"
   },
   {
     "title": "suisse:::Faire son école de recrues aujourd’hui: «D’un coup, on réalise qu’un jour ça pourrait ne plus être un exercice»",
@@ -114545,7 +114551,10 @@
   },
   {
     "title": "suisse:::Pierre Alain Schnegg, Marco Chiesa: deux nouvelles candidatures latines au Conseil fédéral",
-    "added_at": "2026-10-22T17:35:03.941Z"
+    "added_at": "2026-10-22T17:35:03.941Z",
+    "removed_at": "2026-10-23T10:18:42.507Z",
+    "duration_minutes": 1003,
+    "duration_str": "16h 43m"
   },
   {
     "title": "culture:::Un tableau de Monet vendu 50 millions d’euros à Paris devient l’œuvre d’art la plus chère jamais vendue aux enchères en France",
@@ -114571,7 +114580,10 @@
   },
   {
     "title": "monde:::«Il faut terminer le travail»: en Serbie, les étudiants bousculent le régime d'Aleksandar Vučić",
-    "added_at": "2026-10-22T18:48:04.605Z"
+    "added_at": "2026-10-22T18:48:04.605Z",
+    "removed_at": "2026-10-23T08:34:34.819Z",
+    "duration_minutes": 826,
+    "duration_str": "13h 46m"
   },
   {
     "title": "monde:::Un séisme de magnitude 7 fait au moins 16 morts dans la région himalayenne du Tibet",
@@ -114590,11 +114602,17 @@
   },
   {
     "title": "monde:::«On a des couteaux… et pas que»: ces commerçants et restaurateurs parisiens qui envisagent de sombrer dans l’autodéfense lors des prochaines manifestations",
-    "added_at": "2026-10-23T04:58:43.703Z"
+    "added_at": "2026-10-23T04:58:43.703Z",
+    "removed_at": "2026-10-23T09:54:24.647Z",
+    "duration_minutes": 295,
+    "duration_str": "4h 55m"
   },
   {
     "title": "economie:::Hyperliquid veut mettre tous les marchés financiers sur la blockchain",
-    "added_at": "2026-10-23T04:58:43.703Z"
+    "added_at": "2026-10-23T04:58:43.703Z",
+    "removed_at": "2026-10-23T09:01:10.992Z",
+    "duration_minutes": 242,
+    "duration_str": "4h 2m"
   },
   {
     "title": "economie:::Les huit grands dilemmes: comment investir sans maux de ventre",
@@ -114605,7 +114623,10 @@
   },
   {
     "title": "suisse:::Nicolas Kolly renonce à briguer le Conseil fédéral",
-    "added_at": "2026-10-23T05:05:58.929Z"
+    "added_at": "2026-10-23T05:05:58.929Z",
+    "removed_at": "2026-10-23T08:41:51.341Z",
+    "duration_minutes": 215,
+    "duration_str": "3h 35m"
   },
   {
     "title": "sciences:::«La crise des PFAS n’aurait pas existé si les Etats avaient régulé les activités industrielles»: interview de la journaliste Stéphane Horel",
@@ -114618,5 +114639,25 @@
   {
     "title": "monde:::La Suisse se positionne comme partenaire de confiance du Canada dans un contexte mondial incertain",
     "added_at": "2026-10-23T06:09:02.598Z"
+  },
+  {
+    "title": "monde:::«Pourquoi cette maladie a pris ma mère?» Dans l’est de la RDC, au chevet des orphelins d’Ebola",
+    "added_at": "2026-10-23T08:34:34.819Z"
+  },
+  {
+    "title": "sport:::«Si tu ne respectes pas la boxe, la boxe ne te respecte pas»: Félix Meier, les débuts fulgurants d’un autodidacte",
+    "added_at": "2026-10-23T08:34:34.819Z"
+  },
+  {
+    "title": "suisse:::Les Haut-Valaisans Michael Graber et Franz Ruppen espèrent tous deux succéder à Guy Parmelin au Conseil fédéral",
+    "added_at": "2026-10-23T08:41:51.341Z"
+  },
+  {
+    "title": "monde:::«On a des couteaux… et pas que»: ces commerçants et restaurateurs parisiens qui envisagent de passer à l’autodéfense lors des prochaines manifestations",
+    "added_at": "2026-10-23T09:54:24.647Z"
+  },
+  {
+    "title": "sciences:::Francis Martin, biologiste: «Sur la planète, la majorité des plantes vivent en symbiose avec des champignons»",
+    "added_at": "2026-10-23T10:18:42.507Z"
   }
 ]
