@@ -8226,10 +8226,7 @@
   },
   {
     "title": "culture:::Expos, concerts, théâtre, cinéma: nos recommandations culturelles de la semaine",
-    "added_at": "2025-05-22T18:01:52.008Z",
-    "removed_at": "2026-10-02T14:47:29.342Z",
-    "duration_minutes": 716925,
-    "duration_str": "497d 20h 45m"
+    "added_at": "2025-05-22T18:01:52.008Z"
   },
   {
     "title": "culture:::Festival de Cannes, jour 10: Staline et Mengele hier, Poutine aujourd’hui, voyages au bout de l’enfer",
@@ -114546,7 +114543,10 @@
   },
   {
     "title": "cyber:::De l’EPFL à Neuchâtel, de Londres à Tokyo, une course contre la montre est lancée pour sécuriser le web",
-    "added_at": "2026-10-22T17:13:11.253Z"
+    "added_at": "2026-10-22T17:13:11.253Z",
+    "removed_at": "2026-10-23T17:45:40.783Z",
+    "duration_minutes": 1472,
+    "duration_str": "1d 32m"
   },
   {
     "title": "cyber:::Faille de cybersécurité: «Faute de moyens, beaucoup de sites de PME et d'associations vont rester vulnérables ces prochaines semaines»",
@@ -114582,7 +114582,10 @@
   },
   {
     "title": "monde:::Les autorités annoncent prolonger le couvre-feu dans certains secteurs de Paris toutes les nuits jusqu’à lundi matin",
-    "added_at": "2026-10-22T18:19:03.623Z"
+    "added_at": "2026-10-22T18:19:03.623Z",
+    "removed_at": "2026-10-23T16:42:29.880Z",
+    "duration_minutes": 1343,
+    "duration_str": "22h 23m"
   },
   {
     "title": "monde:::«Il faut terminer le travail»: en Serbie, les étudiants bousculent le régime d'Aleksandar Vučić",
@@ -114604,7 +114607,10 @@
   },
   {
     "title": "monde:::En direct, guerre contre l’Ukraine – La Russie se dit prête à négocier un accord final",
-    "added_at": "2026-10-23T04:53:55.647Z"
+    "added_at": "2026-10-23T04:53:55.647Z",
+    "removed_at": "2026-10-23T18:12:21.764Z",
+    "duration_minutes": 798,
+    "duration_str": "13h 18m"
   },
   {
     "title": "monde:::«On a des couteaux… et pas que»: ces commerçants et restaurateurs parisiens qui envisagent de sombrer dans l’autodéfense lors des prochaines manifestations",
@@ -114647,11 +114653,17 @@
   },
   {
     "title": "monde:::La Suisse se positionne comme partenaire de confiance du Canada dans un contexte mondial incertain",
-    "added_at": "2026-10-23T06:09:02.598Z"
+    "added_at": "2026-10-23T06:09:02.598Z",
+    "removed_at": "2026-10-23T17:45:40.783Z",
+    "duration_minutes": 696,
+    "duration_str": "11h 36m"
   },
   {
     "title": "monde:::«Pourquoi cette maladie a pris ma mère?» Dans l’est de la RDC, au chevet des orphelins d’Ebola",
-    "added_at": "2026-10-23T08:34:34.819Z"
+    "added_at": "2026-10-23T08:34:34.819Z",
+    "removed_at": "2026-10-23T18:34:15.348Z",
+    "duration_minutes": 599,
+    "duration_str": "9h 59m"
   },
   {
     "title": "sport:::«Si tu ne respectes pas la boxe, la boxe ne te respecte pas»: Félix Meier, les débuts fulgurants d’un autodidacte",
@@ -114680,7 +114692,10 @@
   },
   {
     "title": "suisse:::Neuf candidatures au Conseil fédéral, dont huit élus UDC",
-    "added_at": "2026-10-23T10:45:29.445Z"
+    "added_at": "2026-10-23T10:45:29.445Z",
+    "removed_at": "2026-10-23T17:31:05.975Z",
+    "duration_minutes": 405,
+    "duration_str": "6h 45m"
   },
   {
     "title": "culture:::De Niépce à Photoshop: une exposition au Locle interroge l’idée de la «première photo»",
@@ -114691,7 +114706,10 @@
   },
   {
     "title": "culture:::Olivier Vogelsang, photographe: «Cette place est un défilé permanent, on y trouve une diversité folle»",
-    "added_at": "2026-10-23T12:15:12.101Z"
+    "added_at": "2026-10-23T12:15:12.101Z",
+    "removed_at": "2026-10-23T16:44:52.425Z",
+    "duration_minutes": 269,
+    "duration_str": "4h 29m"
   },
   {
     "title": "culture:::Laurent Voulzy: «Alain Souchon et moi, c’est quelque chose de surnaturel»",
@@ -114721,7 +114739,10 @@
   },
   {
     "title": "sport:::Gianni Infantino retrouve le soutien de l’Asie (et sans doute un peu de sérénité)",
-    "added_at": "2026-10-23T14:36:00.220Z"
+    "added_at": "2026-10-23T14:36:00.220Z",
+    "removed_at": "2026-10-23T16:03:32.738Z",
+    "duration_minutes": 87,
+    "duration_str": "1h 27m"
   },
   {
     "title": "suisse:::Le bras de fer autour des fonds propres d’UBS reprend au parlement",
@@ -114729,10 +114750,48 @@
   },
   {
     "title": "economie:::Le prix à payer pour une garantie d’Etat divise le parlement et le secteur bancaire",
-    "added_at": "2026-10-23T15:39:06.754Z"
+    "added_at": "2026-10-23T15:39:06.754Z",
+    "removed_at": "2026-10-23T17:31:05.975Z",
+    "duration_minutes": 111,
+    "duration_str": "1h 51m"
   },
   {
     "title": "economie:::En Europe, le mouvement pour contrer le monopole de Starlink s’organise",
     "added_at": "2026-10-23T15:41:32.897Z"
+  },
+  {
+    "title": "monde:::Un ancien du renseignement français analyse la situation en France: «La principale difficulté est le caractère volatil d’une partie de la contestation»",
+    "added_at": "2026-10-23T16:03:32.738Z"
+  },
+  {
+    "title": "economie:::Les nouveaux barrages suisses produiront 40% d’électricité hivernale de moins que prévu",
+    "added_at": "2026-10-23T16:44:52.425Z"
+  },
+  {
+    "title": "monde:::Israël, ce refuge que les Juifs quittent en nombre: «Mon passeport allemand est devenu une porte de secours»",
+    "added_at": "2026-10-23T17:31:05.975Z",
+    "removed_at": "2026-10-23T18:34:15.348Z",
+    "duration_minutes": 63,
+    "duration_str": "1h 3m"
+  },
+  {
+    "title": "suisse:::Huit candidats UDC, un siège et la question romande",
+    "added_at": "2026-10-23T17:31:05.975Z"
+  },
+  {
+    "title": "cyber:::Vols de données: la Suisse n’a pas retenu les leçons du passé, et nos informations personnelles en paient le prix",
+    "added_at": "2026-10-23T17:45:40.783Z"
+  },
+  {
+    "title": "monde:::Pour les Serbes de Suisse, un parcours d’obstacles entrave l’accès aux urnes",
+    "added_at": "2026-10-23T18:07:26.388Z"
+  },
+  {
+    "title": "monde:::En direct, guerre contre l’Ukraine – La Russie accepte une trêve à Olechky, l’Ukraine y prépare une «mission humanitaire»",
+    "added_at": "2026-10-23T18:12:21.764Z"
+  },
+  {
+    "title": "monde:::Lula ou Flavio Bolsonaro, un Brésil désenchanté se rend aux urnes dimanche",
+    "added_at": "2026-10-23T18:34:15.348Z"
   }
 ]
