@@ -114612,7 +114612,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L'Iran menace d'étendre la guerre",
-    "added_at": "2026-10-23T04:53:55.647Z"
+    "added_at": "2026-10-23T04:53:55.647Z",
+    "removed_at": "2026-10-24T14:23:11.886Z",
+    "duration_minutes": 2009,
+    "duration_str": "1d 9h 29m"
   },
   {
     "title": "monde:::En direct, guerre contre l’Ukraine – La Russie se dit prête à négocier un accord final",
@@ -114785,10 +114788,7 @@
   },
   {
     "title": "monde:::Un ancien du renseignement français analyse la situation en France: «La principale difficulté est le caractère volatil d’une partie de la contestation»",
-    "added_at": "2026-10-23T16:03:32.738Z",
-    "removed_at": "2026-10-24T10:20:15.065Z",
-    "duration_minutes": 1096,
-    "duration_str": "18h 16m"
+    "added_at": "2026-10-23T16:03:32.738Z"
   },
   {
     "title": "economie:::Les nouveaux barrages suisses produiront 40% d’électricité hivernale de moins que prévu",
@@ -114824,7 +114824,10 @@
   },
   {
     "title": "monde:::En direct, guerre contre l’Ukraine – La Russie accepte une trêve à Olechky, l’Ukraine y prépare une «mission humanitaire»",
-    "added_at": "2026-10-23T18:12:21.764Z"
+    "added_at": "2026-10-23T18:12:21.764Z",
+    "removed_at": "2026-10-24T14:01:16.547Z",
+    "duration_minutes": 1188,
+    "duration_str": "19h 48m"
   },
   {
     "title": "monde:::Lula ou Flavio Bolsonaro, un Brésil désenchanté se rend aux urnes dimanche",
@@ -114860,7 +114863,10 @@
   },
   {
     "title": "sport:::Les champions se résolvent à choisir leurs courses: les illusions perdues des skieurs complets",
-    "added_at": "2026-10-24T06:03:09.850Z"
+    "added_at": "2026-10-24T06:03:09.850Z",
+    "removed_at": "2026-10-24T15:04:27.472Z",
+    "duration_minutes": 541,
+    "duration_str": "9h 1m"
   },
   {
     "title": "monde:::En images: En France et en Italie, des centres-villes barricadés pour cette nouvelle journée de protestations",
@@ -114893,7 +114899,10 @@
   },
   {
     "title": "suisse:::Rosalie Beuret Siess, présidente du Gouvernement jurassien: «L’«Initiative Soubey» ne nous préoccupe pas, mais elle fait l’objet d’une vigilance accrue»",
-    "added_at": "2026-10-24T10:20:15.065Z"
+    "added_at": "2026-10-24T10:20:15.065Z",
+    "removed_at": "2026-10-24T14:25:34.441Z",
+    "duration_minutes": 245,
+    "duration_str": "4h 5m"
   },
   {
     "title": "monde:::En images: En France, les défilés ont commencé dans des centres-villes barricadés pour une nouvelle journée de protestations",
@@ -114911,7 +114920,10 @@
   },
   {
     "title": "monde:::La France sous-tension, les manifestants défilent déjà à Orléans, contre le RN et la vie chère",
-    "added_at": "2026-10-24T10:51:42.802Z"
+    "added_at": "2026-10-24T10:51:42.802Z",
+    "removed_at": "2026-10-24T13:49:04.127Z",
+    "duration_minutes": 177,
+    "duration_str": "2h 57m"
   },
   {
     "title": "economie:::Quand le «roi» Alfred Escher posait les fondations du miracle économique suisse",
@@ -114926,11 +114938,17 @@
   },
   {
     "title": "culture:::Lauren Dällenbach, réalisatrice de «Nicole Nicole»: «C’est comme si ma tante était bloquée dans l’adolescence»",
-    "added_at": "2026-10-24T12:38:35.162Z"
+    "added_at": "2026-10-24T12:38:35.162Z",
+    "removed_at": "2026-10-24T15:57:45.535Z",
+    "duration_minutes": 199,
+    "duration_str": "3h 19m"
   },
   {
     "title": "monde:::En images: Les cortèges du mouvement social défilent dans des villes barricadées et sous haute surveillance",
-    "added_at": "2026-10-24T13:00:25.088Z"
+    "added_at": "2026-10-24T13:00:25.088Z",
+    "removed_at": "2026-10-24T13:58:48.217Z",
+    "duration_minutes": 58,
+    "duration_str": "58m"
   },
   {
     "title": "culture:::Comment rendre visible une odeur? La photographe Christelle Boulé révèle en images la signature olfactive des parfums",
@@ -114939,5 +114957,43 @@
   {
     "title": "culture:::Le Locle creuse une piscine pour plonger dans l’art et nager au musée",
     "added_at": "2026-10-24T13:36:46.489Z"
+  },
+  {
+    "title": "monde:::Début du congrès du RN à Orléans, tandis qu'à Paris,  Mélenchon exhorte Emmanuel Macron à «céder»",
+    "added_at": "2026-10-24T13:49:04.127Z",
+    "removed_at": "2026-10-24T14:28:00.210Z",
+    "duration_minutes": 38,
+    "duration_str": "38m"
+  },
+  {
+    "title": "monde:::En images – Les cortèges du mouvement social défilent dans des villes sous haute surveillance",
+    "added_at": "2026-10-24T13:58:48.217Z"
+  },
+  {
+    "title": "monde:::En direct, guerre contre l’Ukraine – Kiev affirme avoir retrouvé une «connexion stable» au système Starlink, crucial pour son armée",
+    "added_at": "2026-10-24T14:01:16.547Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les houthis du Yémen accusent l’Arabie saoudite de frappes meurtrières sur Sanaa",
+    "added_at": "2026-10-24T14:23:11.886Z",
+    "removed_at": "2026-10-24T15:55:18.904Z",
+    "duration_minutes": 92,
+    "duration_str": "1h 32m"
+  },
+  {
+    "title": "monde:::Jordan Bardella réélu à la présidence du RN, tandis qu'à Paris, Mélenchon exhorte Emmanuel Macron à «céder»",
+    "added_at": "2026-10-24T14:28:00.210Z"
+  },
+  {
+    "title": "culture:::Un classique de la botanique américaine du XIXe siècle, signé Frances Theodora Parsons, célèbre désormais en français la beauté du monde au fil des saisons",
+    "added_at": "2026-10-24T15:01:59.020Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Les houthis accusent Riyad de frappes meurtrières sur Sanaa et disent avoir visé des sites stratégiques saoudiens au Yémen",
+    "added_at": "2026-10-24T15:55:18.904Z"
+  },
+  {
+    "title": "culture:::«Obituary», l’histoire de la chroniqueuse nécrologique qui tuait ses sujets",
+    "added_at": "2026-10-24T15:57:45.535Z"
   }
 ]
