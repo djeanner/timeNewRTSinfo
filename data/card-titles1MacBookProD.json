@@ -118701,7 +118701,10 @@
   },
   {
     "title": "La Matinale (vidéo) - Présentée par Valérie Hauert",
-    "added_at": "2026-09-24T23:19:07.505Z"
+    "added_at": "2026-09-24T23:19:07.505Z",
+    "removed_at": "2026-10-24T11:18:38.236Z",
+    "duration_minutes": 42479,
+    "duration_str": "29d 11h 59m"
   },
   {
     "title": "C'est quoi le néonazisme aujourd'hui ?",
@@ -124269,7 +124272,10 @@
   },
   {
     "title": "Forum - Présenté par Thibaut Schaller et Diana-Alice Ramsauer",
-    "added_at": "2026-10-22T00:15:55.182Z"
+    "added_at": "2026-10-22T00:15:55.182Z",
+    "removed_at": "2026-10-24T11:16:09.457Z",
+    "duration_minutes": 3540,
+    "duration_str": "2d 11h"
   },
   {
     "title": "Une personne sur six en Suisse dépasse plus du tiers de ses revenus pour se loger",
@@ -124336,10 +124342,7 @@
   },
   {
     "title": "Faut-il casser pour se faire entendre ?",
-    "added_at": "2026-10-22T06:13:55.988Z",
-    "removed_at": "2026-10-24T09:17:15.194Z",
-    "duration_minutes": 3063,
-    "duration_str": "2d 3h 3m"
+    "added_at": "2026-10-22T06:13:55.988Z"
   },
   {
     "title": "Une Suissesse enlevée en 2025 au Niger a été libérée",
@@ -124448,7 +124451,10 @@
   },
   {
     "title": "Le prix Sakharov décerné à la Cour pénale internationale",
-    "added_at": "2026-10-22T10:25:58.653Z"
+    "added_at": "2026-10-22T10:25:58.653Z",
+    "removed_at": "2026-10-24T12:36:12.494Z",
+    "duration_minutes": 3010,
+    "duration_str": "2d 2h 10m"
   },
   {
     "title": "La marque horlogère Zenith va supprimer une centaine de postes au Locle",
@@ -124474,11 +124480,17 @@
   },
   {
     "title": "Le prince du Liechtenstein met son veto à la légalisation de l'avortement",
-    "added_at": "2026-10-22T12:27:05.209Z"
+    "added_at": "2026-10-22T12:27:05.209Z",
+    "removed_at": "2026-10-24T12:21:39.986Z",
+    "duration_minutes": 2874,
+    "duration_str": "1d 23h 54m"
   },
   {
     "title": "The Avalanches réinvente l'art du sampling avec 'No Bad Memories'",
-    "added_at": "2026-10-22T12:51:18.211Z"
+    "added_at": "2026-10-22T12:51:18.211Z",
+    "removed_at": "2026-10-24T11:01:34.527Z",
+    "duration_minutes": 2770,
+    "duration_str": "1d 22h 10m"
   },
   {
     "title": "Jérôme Fourquet: \"Nous voyons progressivement s'installer une culture de l'émeute en France\"",
@@ -124489,7 +124501,10 @@
   },
   {
     "title": "Une maman biennoise se bat pour prolonger le remboursement des soins post-accouchement",
-    "added_at": "2026-10-22T13:20:22.684Z"
+    "added_at": "2026-10-22T13:20:22.684Z",
+    "removed_at": "2026-10-24T13:27:04.044Z",
+    "duration_minutes": 2886,
+    "duration_str": "2d 6m"
   },
   {
     "title": "Emmanuel Macron restreint les manifestations en France avant un nouveau samedi de mobilisation",
@@ -124497,11 +124512,17 @@
   },
   {
     "title": "Bienne met en lumière son histoire horlogère et son patrimoine architectural",
-    "added_at": "2026-10-22T14:42:46.152Z"
+    "added_at": "2026-10-22T14:42:46.152Z",
+    "removed_at": "2026-10-24T11:06:25.217Z",
+    "duration_minutes": 2663,
+    "duration_str": "1d 20h 23m"
   },
   {
     "title": "'Je n'ai jamais vu le Kremlin', la révolte d'un ivrogne dans la Russie de Poutine ★★★★☆",
-    "added_at": "2026-10-22T14:54:51.960Z"
+    "added_at": "2026-10-22T14:54:51.960Z",
+    "removed_at": "2026-10-24T12:26:28.125Z",
+    "duration_minutes": 2731,
+    "duration_str": "1d 21h 31m"
   },
   {
     "title": "Le Bernois Pierre Alain Schnegg se porte candidat à la succession de Guy Parmelin",
@@ -124882,7 +124903,10 @@
   },
   {
     "title": "Le \"Nid d'Aigle\" d'Adolf Hitler ravagé par un incendie au-dessus de Berchtesgaden",
-    "added_at": "2026-10-24T06:58:50.391Z"
+    "added_at": "2026-10-24T06:58:50.391Z",
+    "removed_at": "2026-10-24T11:25:54.780Z",
+    "duration_minutes": 267,
+    "duration_str": "4h 27m"
   },
   {
     "title": "Il y a 25 ans, onze personnes perdaient la vie dans le brasier du tunnel routier du Gothard",
@@ -124890,7 +124914,10 @@
   },
   {
     "title": "Nouvelle journée de mobilisation sous très haute sécurité en France après les débordements du 17 octobre",
-    "added_at": "2026-10-24T07:44:55.700Z"
+    "added_at": "2026-10-24T07:44:55.700Z",
+    "removed_at": "2026-10-24T12:43:29.902Z",
+    "duration_minutes": 298,
+    "duration_str": "4h 58m"
   },
   {
     "title": "Les dangereux cannabinoïdes de synthèse s'invitent dans les vapes des Suisses, même à l'école",
@@ -124923,5 +124950,44 @@
   {
     "title": "La Suisse repasse à l'heure d'hiver dans la nuit de samedi à dimanche",
     "added_at": "2026-10-24T10:20:14.962Z"
+  },
+  {
+    "title": "Ultime débat entre Lula et Flavio Bolsonaro avant le deuxième tour de la présidentielle",
+    "added_at": "2026-10-24T11:01:34.527Z"
+  },
+  {
+    "title": "La plus ancienne épave connue, vieille d'environ 4500 ans, retrouvée en Turquie",
+    "added_at": "2026-10-24T11:06:25.217Z"
+  },
+  {
+    "title": "Le 'Nid d'Aigle' d'Adolf Hitler ravagé par un incendie au-dessus de Berchtesgaden",
+    "added_at": "2026-10-24T11:25:54.780Z"
+  },
+  {
+    "title": "Des terrains interdits aux records d’audience: deux générations de passionnées racontent leur combat",
+    "added_at": "2026-10-24T12:21:39.986Z"
+  },
+  {
+    "title": "Environ 30 centimes sur votre café de 4 francs: la TVA suisse en quelques chiffres",
+    "added_at": "2026-10-24T12:26:28.125Z"
+  },
+  {
+    "title": "Une première victoire en Coupe du monde pour l'Américaine Paula Moltzan, Camille Rast 6e",
+    "added_at": "2026-10-24T12:36:12.494Z"
+  },
+  {
+    "title": "Nouvelle journée de mobilisation sous haute sécurité en France après les débordements du 17 octobre",
+    "added_at": "2026-10-24T12:43:29.902Z",
+    "removed_at": "2026-10-24T12:48:18.976Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Nouvelle journée de mobilisation sous haute sécurité en France, des milliers de policiers déployés",
+    "added_at": "2026-10-24T12:48:18.976Z"
+  },
+  {
+    "title": "Plusieurs centaines de manifestants au Liechtenstein après le veto sur l'avortement",
+    "added_at": "2026-10-24T13:27:04.044Z"
   }
 ]
