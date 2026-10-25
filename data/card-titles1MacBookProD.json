@@ -124880,7 +124880,10 @@
   },
   {
     "title": "Benjamin Netanyahu annonce une opération militaire majeure en Cisjordanie après une attaque à Hébron",
-    "added_at": "2026-10-23T14:28:45.307Z"
+    "added_at": "2026-10-23T14:28:45.307Z",
+    "removed_at": "2026-10-25T18:27:24.851Z",
+    "duration_minutes": 3118,
+    "duration_str": "2d 3h 58m"
   },
   {
     "title": "Un premier pétrolier chargé de diesel russe est en route vers les Etats-Unis",
@@ -124909,7 +124912,10 @@
   },
   {
     "title": "Dans la vallée de Lauterbrunnen, des pièges en fils de nylon menacent les base-jumpers",
-    "added_at": "2026-10-23T15:34:16.341Z"
+    "added_at": "2026-10-23T15:34:16.341Z",
+    "removed_at": "2026-10-25T17:12:11.743Z",
+    "duration_minutes": 2977,
+    "duration_str": "2d 1h 37m"
   },
   {
     "title": "A Chavannes-près-Renens, une chapelle reconvertie en librairie",
@@ -124995,7 +125001,10 @@
   },
   {
     "title": "Après une fusillade mortelle en région parisienne, Emmanuel Macron dénonce \"un attentat terroriste raciste\"",
-    "added_at": "2026-10-23T19:03:34.764Z"
+    "added_at": "2026-10-23T19:03:34.764Z",
+    "removed_at": "2026-10-25T17:12:11.743Z",
+    "duration_minutes": 2768,
+    "duration_str": "1d 22h 8m"
   },
   {
     "title": "Melania Trump participe à l'élaboration d'un cessez-le-feu dans la ville d'Olechky",
@@ -125010,7 +125019,10 @@
   },
   {
     "title": "Les champignons n'ont jamais été aussi peu nombreux, pour le malheur de nos assiettes et de l'environnement",
-    "added_at": "2026-10-23T20:47:56.162Z"
+    "added_at": "2026-10-23T20:47:56.162Z",
+    "removed_at": "2026-10-25T17:48:34.491Z",
+    "duration_minutes": 2700,
+    "duration_str": "1d 21h"
   },
   {
     "title": "Qu'est que PHP, ce langage informatique à l'origine de deux failles critiques ?",
@@ -125371,7 +125383,10 @@
   },
   {
     "title": "Dix moutons tués dans une probable attaque de loups dans la Broye",
-    "added_at": "2026-10-25T15:32:29.550Z"
+    "added_at": "2026-10-25T15:32:29.550Z",
+    "removed_at": "2026-10-25T18:34:44.129Z",
+    "duration_minutes": 182,
+    "duration_str": "3h 2m"
   },
   {
     "title": "Grâce à la pluie, la navigation va pouvoir reprendre sur le lac des Brenets (NE)",
@@ -125387,14 +125402,47 @@
   },
   {
     "title": "Vols annulés et coupures d'électricité dans le nord de l'Europe à cause de deux tempêtes successives",
-    "added_at": "2026-10-25T16:38:03.138Z"
+    "added_at": "2026-10-25T16:38:03.138Z",
+    "removed_at": "2026-10-25T18:39:34.086Z",
+    "duration_minutes": 121,
+    "duration_str": "2h 1m"
   },
   {
     "title": "Lula et Flavio Bolsonaro s'affrontent dans un scrutin serré mais décisif",
-    "added_at": "2026-10-25T16:45:20.362Z"
+    "added_at": "2026-10-25T16:45:20.362Z",
+    "removed_at": "2026-10-25T17:02:28.029Z",
+    "duration_minutes": 17,
+    "duration_str": "17m"
   },
   {
     "title": "Le Parquet suspend la garde à vue de l'assaillant des Yvelines pour raisons psychiatriques",
     "added_at": "2026-10-25T16:45:20.362Z"
+  },
+  {
+    "title": "Lula et Flavio Bolsonaro s'affrontent dans un scrutin qui s'annonce serré",
+    "added_at": "2026-10-25T17:02:28.029Z"
+  },
+  {
+    "title": "Marine Le Pen a donné son premier grand meeting présidentiel à Orléans",
+    "added_at": "2026-10-25T17:48:34.491Z",
+    "removed_at": "2026-10-25T18:15:13.336Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "Marine Le Pen promet une \"renaissance\" lors de son premier grand meeting présidentiel",
+    "added_at": "2026-10-25T18:15:13.336Z"
+  },
+  {
+    "title": "L'opposante et prix Nobel de la paix Maria Corina Machado annonce être de retour au Venezuela",
+    "added_at": "2026-10-25T18:27:24.851Z"
+  },
+  {
+    "title": "Dix moutons tués par un ou plusieurs loups dans la Broye",
+    "added_at": "2026-10-25T18:34:44.129Z"
+  },
+  {
+    "title": "Un mort et d'importantes perturbations dans le nord de l'Europe à cause de deux tempêtes successives",
+    "added_at": "2026-10-25T18:39:34.086Z"
   }
 ]
