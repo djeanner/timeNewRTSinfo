@@ -115074,11 +115074,17 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Nouvelles explosions à Riyad où l’aéroport doit rouvrir, la coalition indique avoir abattu un missile",
-    "added_at": "2026-10-25T06:21:27.828Z"
+    "added_at": "2026-10-25T06:21:27.828Z",
+    "removed_at": "2026-10-25T20:12:00.650Z",
+    "duration_minutes": 830,
+    "duration_str": "13h 50m"
   },
   {
     "title": "monde:::En direct, guerre contre l’Ukraine – Kiev affirme avoir retrouvé une «connexion stable» au système Starlink, mais Elon Musk l’accuse d’en violer les conditions d’utilisation",
-    "added_at": "2026-10-25T06:38:26.361Z"
+    "added_at": "2026-10-25T06:38:26.361Z",
+    "removed_at": "2026-10-25T19:50:10.480Z",
+    "duration_minutes": 791,
+    "duration_str": "13h 11m"
   },
   {
     "title": "economie:::Pour l’industrie suisse de la défense, le cadre légal actuel n’offre que deux choix: délocaliser ou fermer",
@@ -115129,7 +115135,10 @@
   },
   {
     "title": "sport:::Lucas Pinheiro Braathen devant Marco Odermatt et Loïc Meillard à Sölden: la lutte pour le grand globe de cristal est lancée",
-    "added_at": "2026-10-25T13:04:08.741Z"
+    "added_at": "2026-10-25T13:04:08.741Z",
+    "removed_at": "2026-10-25T19:52:33.042Z",
+    "duration_minutes": 408,
+    "duration_str": "6h 48m"
   },
   {
     "title": "monde:::Scandale des abus sexuels au Tchad: la Confédération gèle 1,25 million de francs destinés à Médecins Sans Frontières",
@@ -115177,6 +115186,42 @@
   },
   {
     "title": "monde:::En Serbie, une mobilisation électorale record et un déploiement policier massif trahissent les tensions du scrutin",
-    "added_at": "2026-10-25T18:42:00.383Z"
+    "added_at": "2026-10-25T18:42:00.383Z",
+    "removed_at": "2026-10-25T21:12:36.711Z",
+    "duration_minutes": 150,
+    "duration_str": "2h 30m"
+  },
+  {
+    "title": "monde:::En direct, guerre contre l’Ukraine – Volodymyr Zelensky annonce la tenue d'une réunion entre Russes et Ukrainiens sous médiation américaine en novembre",
+    "added_at": "2026-10-25T19:50:10.480Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L'Autorité palestinienne recense près de 2700 «déplacés de force» à Hébron depuis le début de l'opération militaire israélienne",
+    "added_at": "2026-10-25T20:12:00.650Z",
+    "removed_at": "2026-10-25T21:24:41.205Z",
+    "duration_minutes": 72,
+    "duration_str": "1h 12m"
+  },
+  {
+    "title": "monde:::En Serbie, Aleksandar Vucic reconnaît sa défaite après une mobilisation électorale record et un déploiement policier massif",
+    "added_at": "2026-10-25T21:12:36.711Z",
+    "removed_at": "2026-10-25T21:15:04.596Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::En Serbie, Aleksandar Vučić reconnaît sa défaite après une mobilisation électorale record et un déploiement policier massif",
+    "added_at": "2026-10-25T21:15:04.596Z",
+    "removed_at": "2026-10-25T21:17:26.218Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::En Serbie, Aleksandar Vučić reconnaît sa défaite aux législatives anticipées après une mobilisation électorale record",
+    "added_at": "2026-10-25T21:17:26.218Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – L’Autorité palestinienne recense près de 2700 «déplacés de force» à Hébron depuis vendredi",
+    "added_at": "2026-10-25T21:24:41.205Z"
   }
 ]
