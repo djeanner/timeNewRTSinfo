@@ -124633,7 +124633,10 @@
   },
   {
     "title": "Deux policiers gravement blessés dans une collision avec un fuyard à contresens, au Tessin",
-    "added_at": "2026-10-23T01:31:15.933Z"
+    "added_at": "2026-10-23T01:31:15.933Z",
+    "removed_at": "2026-10-25T05:11:04.110Z",
+    "duration_minutes": 3099,
+    "duration_str": "2d 3h 39m"
   },
   {
     "title": "120 secondes - Des solutions originales face à la crise de la viticulture suisse",
@@ -125168,5 +125171,9 @@
   {
     "title": "Ce corps qui nous épuise",
     "added_at": "2026-10-25T01:13:46.177Z"
+  },
+  {
+    "title": "Selon les derniers sondages, Flavio Bolsonaro devance Lula à la veille du second tour",
+    "added_at": "2026-10-25T05:11:04.110Z"
   }
 ]
