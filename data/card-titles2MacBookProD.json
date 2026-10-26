@@ -115269,10 +115269,7 @@
   },
   {
     "title": "monde:::En Serbie, Aleksandar Vučić reconnaît sa défaite aux législatives anticipées après une mobilisation électorale record",
-    "added_at": "2026-10-25T21:17:26.218Z",
-    "removed_at": "2026-10-26T14:52:56.543Z",
-    "duration_minutes": 1055,
-    "duration_str": "17h 35m"
+    "added_at": "2026-10-25T21:17:26.218Z"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – L’Autorité palestinienne recense près de 2700 «déplacés de force» à Hébron depuis vendredi",
@@ -115527,7 +115524,10 @@
   },
   {
     "title": "sciences:::Une Suissesse atteinte d'Ebola rapatriée du Nigeria pour être soignée à Genève",
-    "added_at": "2026-10-26T17:18:52.825Z"
+    "added_at": "2026-10-26T17:18:52.825Z",
+    "removed_at": "2026-10-26T21:41:23.067Z",
+    "duration_minutes": 262,
+    "duration_str": "4h 22m"
   },
   {
     "title": "sport:::Marc-Anthony Anner: «Il faut remettre en question la culture de la bagarre dans le hockey sur glace»",
@@ -115551,10 +115551,17 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient: Dans la dernière ligne droite de la campagne, Benyamin Netanyahou agite la menace iranienne",
-    "added_at": "2026-10-26T19:39:49.089Z"
+    "added_at": "2026-10-26T19:39:49.089Z",
+    "removed_at": "2026-10-26T21:36:32.101Z",
+    "duration_minutes": 116,
+    "duration_str": "1h 56m"
   },
   {
     "title": "monde:::En Israël, les électeurs arabes comptent défendre leurs droits: «Ici, un bon Arabe ne parle pas politique»",
     "added_at": "2026-10-26T19:47:06.263Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient: Une commission mandatée par l’ONU accuse Israël d’extermination, de torture et de persécution en Cisjordanie",
+    "added_at": "2026-10-26T21:36:32.101Z"
   }
 ]
