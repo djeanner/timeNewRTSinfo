@@ -124993,7 +124993,10 @@
   },
   {
     "title": "\"J'étais totalement isolé du groupe\": des anciens résidents de la Ferme du Soleil à Bienne témoignent",
-    "added_at": "2026-10-23T18:22:01.016Z"
+    "added_at": "2026-10-23T18:22:01.016Z",
+    "removed_at": "2026-10-26T01:41:50.094Z",
+    "duration_minutes": 3319,
+    "duration_str": "2d 7h 19m"
   },
   {
     "title": "Le Zougois Thomas Aeschi et l'Argovien Jean-Pierre Gallati candidats au Conseil fédéral",
@@ -125084,7 +125087,10 @@
   },
   {
     "title": "Plombé par la concurrence chinoise, Volvo licencie et son action s'effondre",
-    "added_at": "2026-10-24T08:57:51.354Z"
+    "added_at": "2026-10-24T08:57:51.354Z",
+    "removed_at": "2026-10-26T01:27:17.569Z",
+    "duration_minutes": 2429,
+    "duration_str": "1d 16h 29m"
   },
   {
     "title": "L'acteur et réalisateur Gérard Jugnot, artisan du \"Français ordinaire\"",
@@ -125349,9 +125355,9 @@
   {
     "title": "La manifestation rassemblée à Orléans pour protester contre le 19e Congrès du RN compte plusieurs milliers de personnes",
     "added_at": "2026-10-25T12:15:33.828Z",
-    "removed_at": "2026-10-26T00:19:14.672Z",
-    "duration_minutes": 723,
-    "duration_str": "12h 3m"
+    "removed_at": "2026-10-26T03:18:47.144Z",
+    "duration_minutes": 903,
+    "duration_str": "15h 3m"
   },
   {
     "title": "Plus d'une centaine d'interpellations à Barcelone pour des pillages",
@@ -125510,5 +125516,27 @@
   {
     "title": "Aller, retour",
     "added_at": "2026-10-26T00:19:14.672Z"
+  },
+  {
+    "title": "Lula décroche un quatrième mandat inédit à la tête du Brésil",
+    "added_at": "2026-10-26T01:27:17.569Z",
+    "removed_at": "2026-10-26T03:33:22.466Z",
+    "duration_minutes": 126,
+    "duration_str": "2h 6m"
+  },
+  {
+    "title": "Quinze jeunes attaquent l'Etat canadien pour inaction climatique",
+    "added_at": "2026-10-26T01:41:50.094Z"
+  },
+  {
+    "title": "Lula remporte la présidentielle au Brésil, Flavio Bolsonaro veut \"demander l’annulation\" du scrutin",
+    "added_at": "2026-10-26T03:33:22.466Z",
+    "removed_at": "2026-10-26T03:35:50.647Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "Lula remporte la présidentielle au Brésil, Flavio Bolsonaro veut \"demander l'annulation de l'élection\"",
+    "added_at": "2026-10-26T03:35:50.647Z"
   }
 ]
