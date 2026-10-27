@@ -125141,7 +125141,10 @@
   },
   {
     "title": "La Suisse repasse à l'heure d'hiver dans la nuit de samedi à dimanche",
-    "added_at": "2026-10-24T10:20:14.962Z"
+    "added_at": "2026-10-24T10:20:14.962Z",
+    "removed_at": "2026-10-26T23:11:10.671Z",
+    "duration_minutes": 3650,
+    "duration_str": "2d 12h 50m"
   },
   {
     "title": "Ultime débat entre Lula et Flavio Bolsonaro avant le deuxième tour de la présidentielle",
@@ -125328,7 +125331,10 @@
   },
   {
     "title": "De nouvelles manifestations massives en France et des heurts limités dans plusieurs villes",
-    "added_at": "2026-10-24T19:24:12.855Z"
+    "added_at": "2026-10-24T19:24:12.855Z",
+    "removed_at": "2026-10-26T23:11:10.671Z",
+    "duration_minutes": 3106,
+    "duration_str": "2d 3h 46m"
   },
   {
     "title": "Des manifestations modestes en Italie face à des forces de l'ordre déployées en masse",
@@ -125367,7 +125373,10 @@
   },
   {
     "title": "Une journée de mobilisation en France plus calme que le 17 octobre",
-    "added_at": "2026-10-25T00:15:26.389Z"
+    "added_at": "2026-10-25T00:15:26.389Z",
+    "removed_at": "2026-10-26T23:15:58.403Z",
+    "duration_minutes": 2820,
+    "duration_str": "1d 23h"
   },
   {
     "title": "Ce corps qui nous épuise",
@@ -125844,10 +125853,7 @@
   },
   {
     "title": "Débordements en marge du match entre le Lausanne HC et Fribourg-Gottéron",
-    "added_at": "2026-10-26T20:16:25.182Z",
-    "removed_at": "2026-10-26T21:17:10.735Z",
-    "duration_minutes": 60,
-    "duration_str": "1h"
+    "added_at": "2026-10-26T20:16:25.182Z"
   },
   {
     "title": "Les Israéliens élisent mardi les nouveaux députés de la Knesset, un vote crucial pour l'avenir de Benjamin Netanyahu",
