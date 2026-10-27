@@ -110724,10 +110724,7 @@
   },
   {
     "title": "La Matinale - Présentée par Valérie Hauert",
-    "added_at": "2026-09-02T12:26:54.197Z",
-    "removed_at": "2026-10-25T11:14:49.281Z",
-    "duration_minutes": 76247,
-    "duration_str": "52d 22h 47m"
+    "added_at": "2026-09-02T12:26:54.197Z"
   },
   {
     "title": "Malbouffe: quand l'agroalimentaire attaque les Etats en justice",
@@ -125484,7 +125481,10 @@
   },
   {
     "title": "Forum - Présenté par Thibaut Schaller",
-    "added_at": "2026-10-25T11:14:49.281Z"
+    "added_at": "2026-10-25T11:14:49.281Z",
+    "removed_at": "2026-10-27T15:20:00.554Z",
+    "duration_minutes": 3125,
+    "duration_str": "2d 4h 5m"
   },
   {
     "title": "Plus de 1300 interpellations après les manifestations de samedi en France",
@@ -125534,7 +125534,10 @@
   },
   {
     "title": "Deux blessés graves après les altercations qui ont suivi le match de hockey entre Lausanne et Fribourg",
-    "added_at": "2026-10-25T14:24:29.547Z"
+    "added_at": "2026-10-25T14:24:29.547Z",
+    "removed_at": "2026-10-27T17:12:28.777Z",
+    "duration_minutes": 3047,
+    "duration_str": "2d 2h 47m"
   },
   {
     "title": "Des employés de MSF exploitent sexuellement des femmes au Tchad, la DDC suspend son aide",
@@ -125573,7 +125576,10 @@
   },
   {
     "title": "Grâce à la pluie, la navigation va pouvoir reprendre sur le lac des Brenets (NE)",
-    "added_at": "2026-10-25T15:42:15.772Z"
+    "added_at": "2026-10-25T15:42:15.772Z",
+    "removed_at": "2026-10-27T17:17:20.929Z",
+    "duration_minutes": 2975,
+    "duration_str": "2d 1h 35m"
   },
   {
     "title": "Maxime Chabloz champion du monde de freestyle",
@@ -125637,7 +125643,10 @@
   },
   {
     "title": "Dix moutons tués par un ou plusieurs loups dans la Broye",
-    "added_at": "2026-10-25T18:34:44.129Z"
+    "added_at": "2026-10-25T18:34:44.129Z",
+    "removed_at": "2026-10-27T17:12:28.777Z",
+    "duration_minutes": 2797,
+    "duration_str": "1d 22h 37m"
   },
   {
     "title": "Un mort et d'importantes perturbations dans le nord de l'Europe à cause de deux tempêtes successives",
@@ -125724,7 +125733,10 @@
   },
   {
     "title": "Le gypaète barbu reconquiert les Alpes, un siècle après son extinction",
-    "added_at": "2026-10-26T06:06:07.571Z"
+    "added_at": "2026-10-26T06:06:07.571Z",
+    "removed_at": "2026-10-27T16:25:50.166Z",
+    "duration_minutes": 2059,
+    "duration_str": "1d 10h 19m"
   },
   {
     "title": "Des métaux lourds contaminent l'eau potable du Svalbard en Norvège",
@@ -125735,11 +125747,17 @@
   },
   {
     "title": "Un prix national de reconnaissance récompense les secours engagés à Crans-Montana",
-    "added_at": "2026-10-26T07:23:55.300Z"
+    "added_at": "2026-10-26T07:23:55.300Z",
+    "removed_at": "2026-10-27T15:49:13.837Z",
+    "duration_minutes": 1945,
+    "duration_str": "1d 8h 25m"
   },
   {
     "title": "Entre photographie et peinture, les cyanotypes de Fanny Zambaz s'exposent en Valais",
-    "added_at": "2026-10-26T08:14:47.260Z"
+    "added_at": "2026-10-26T08:14:47.260Z",
+    "removed_at": "2026-10-27T15:15:06.829Z",
+    "duration_minutes": 1860,
+    "duration_str": "1d 7h"
   },
   {
     "title": "La flambée du prix du gaz relance la consommation mondiale de charbon",
@@ -125848,7 +125866,10 @@
   },
   {
     "title": "Les fausses informations envahissent de plus en plus la Suisse, selon une étude",
-    "added_at": "2026-10-26T13:23:03.391Z"
+    "added_at": "2026-10-26T13:23:03.391Z",
+    "removed_at": "2026-10-27T16:45:27.913Z",
+    "duration_minutes": 1642,
+    "duration_str": "1d 3h 22m"
   },
   {
     "title": "Un vaccin personnalisé contre le cancer de la peau réduit les récidives de 42%",
@@ -126100,5 +126121,33 @@
   {
     "title": "La participation s'annonce historique en Israël pour les premières législatives depuis le 7 Octobre",
     "added_at": "2026-10-27T14:41:00.799Z"
+  },
+  {
+    "title": "L'UE veut renforcer Frontex et élargir ses pouvoirs d'expulsion de migrants",
+    "added_at": "2026-10-27T14:58:10.020Z"
+  },
+  {
+    "title": "Dans la tourmente après ses propos sur l'ancien dirigeant chinois, Mbappé présente ses excuses",
+    "added_at": "2026-10-27T15:15:06.829Z"
+  },
+  {
+    "title": "En Syrie, des femmes de la minorité alaouite subissent viols, enlèvements et esclavage sexuel",
+    "added_at": "2026-10-27T15:49:13.837Z"
+  },
+  {
+    "title": "Tetsuya Chiba, figure majeure du manga, est mort à l'âge de 87 ans",
+    "added_at": "2026-10-27T15:49:13.837Z"
+  },
+  {
+    "title": "Comment les démocrates se mobilisent face à Donald Trump?",
+    "added_at": "2026-10-27T16:25:50.166Z"
+  },
+  {
+    "title": "La justice brésilienne annule les passeports de Flavio Bolsonaro, craignant une fuite",
+    "added_at": "2026-10-27T16:45:27.913Z"
+  },
+  {
+    "title": "Le trafic CFF entre Lausanne et Berne est interrompu entre Romont et Fribourg",
+    "added_at": "2026-10-27T16:50:22.756Z"
   }
 ]
