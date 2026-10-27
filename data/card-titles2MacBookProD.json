@@ -113927,7 +113927,10 @@
   },
   {
     "title": "monde:::«Ceux qui étudient la Torah défendent aussi le pays!» L’armée, pilier d’Israël fragilisé par le nombre croissant d’exemptions",
-    "added_at": "2026-10-20T13:47:35.135Z"
+    "added_at": "2026-10-20T13:47:35.135Z",
+    "removed_at": "2026-10-27T07:35:53.273Z",
+    "duration_minutes": 9708,
+    "duration_str": "6d 17h 48m"
   },
   {
     "title": "suisse:::En Valais, peu après le retrait de Marianne Maret, Christophe Darbellay annonce qu’il sera candidat au Conseil des Etats en 2027",
@@ -115475,7 +115478,10 @@
   },
   {
     "title": "sciences:::Un vaccin personnalisé pourrait venir renforcer l’arsenal thérapeutique contre la rechute du mélanome",
-    "added_at": "2026-10-26T15:43:59.443Z"
+    "added_at": "2026-10-26T15:43:59.443Z",
+    "removed_at": "2026-10-27T07:45:35.589Z",
+    "duration_minutes": 961,
+    "duration_str": "16h 1m"
   },
   {
     "title": "economie:::La restructuration chez Migros menace surtout le personnel administratif et managérial",
@@ -115555,14 +115561,14 @@
   },
   {
     "title": "cyber:::L’entrée en bourse d’Anthropic est imminente: quatre chiffres pour saisir l’opération record du géant de l’IA",
-    "added_at": "2026-10-26T18:17:07.868Z",
-    "removed_at": "2026-10-27T06:10:50.820Z",
-    "duration_minutes": 713,
-    "duration_str": "11h 53m"
+    "added_at": "2026-10-26T18:17:07.868Z"
   },
   {
     "title": "culture:::Joseph Brodsky, Prix Nobel de littérature: de Leningrad à New York, en passant par l’Italie",
-    "added_at": "2026-10-26T19:10:33.562Z"
+    "added_at": "2026-10-26T19:10:33.562Z",
+    "removed_at": "2026-10-27T07:40:47.987Z",
+    "duration_minutes": 750,
+    "duration_str": "12h 30m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient: Dans la dernière ligne droite de la campagne, Benyamin Netanyahou agite la menace iranienne",
@@ -115573,10 +115579,7 @@
   },
   {
     "title": "monde:::En Israël, les électeurs arabes comptent défendre leurs droits: «Ici, un bon Arabe ne parle pas politique»",
-    "added_at": "2026-10-26T19:47:06.263Z",
-    "removed_at": "2026-10-27T05:12:41.140Z",
-    "duration_minutes": 565,
-    "duration_str": "9h 25m"
+    "added_at": "2026-10-26T19:47:06.263Z"
   },
   {
     "title": "monde:::En direct, Moyen-Orient: Une commission mandatée par l’ONU accuse Israël d’extermination, de torture et de persécution en Cisjordanie",
@@ -115594,7 +115597,10 @@
   },
   {
     "title": "sport:::Alexia Putellas et Harry Kane sont sacrés Ballon d’or 2026",
-    "added_at": "2026-10-26T23:42:39.447Z"
+    "added_at": "2026-10-26T23:42:39.447Z",
+    "removed_at": "2026-10-27T07:11:40.293Z",
+    "duration_minutes": 449,
+    "duration_str": "7h 29m"
   },
   {
     "title": "monde:::En direct, guerre contre l’Ukraine – La trêve humanitaire débute à Olechky",
@@ -115639,6 +115645,50 @@
   },
   {
     "title": "monde:::Une juge suspend le projet de golf de Donald Trump à Washington",
-    "added_at": "2026-10-27T06:10:50.820Z"
+    "added_at": "2026-10-27T06:10:50.820Z",
+    "removed_at": "2026-10-27T07:57:42.491Z",
+    "duration_minutes": 106,
+    "duration_str": "1h 46m"
+  },
+  {
+    "title": "cyber:::Armes biologiques: les craintes liées à l’IA risquent de nous détourner du véritable danger",
+    "added_at": "2026-10-27T07:04:24.563Z"
+  },
+  {
+    "title": "monde:::En France, la malédiction des seconds mandats présidentiels",
+    "added_at": "2026-10-27T07:11:40.293Z",
+    "removed_at": "2026-10-27T07:14:02.373Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::«Une situation historique confuse»: en France, la malédiction des seconds mandats présidentiels",
+    "added_at": "2026-10-27T07:14:02.373Z",
+    "removed_at": "2026-10-27T07:16:29.076Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::De Gaulle, Mitterrand, Chirac et maintenant Macron: en France, les seconds mandats présidentiels semblent maudits",
+    "added_at": "2026-10-27T07:16:29.076Z",
+    "removed_at": "2026-10-27T07:21:19.859Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "monde:::De Gaulle, Mitterrand, Chirac et maintenant Macron: en France, les seconds mandats présidentiels sont maudits",
+    "added_at": "2026-10-27T07:21:19.859Z"
+  },
+  {
+    "title": "monde:::Course au poste de secrétaire général de l’ONU: les Etats-Unis proposeraient Viktor Orbán, tandis que les Emirats lancent une candidate controversée",
+    "added_at": "2026-10-27T07:35:53.273Z"
+  },
+  {
+    "title": "sciences:::Seulement 6% de baisse des émissions de gaz à effet de serre attendue d'ici 2035, contre 60% espérée",
+    "added_at": "2026-10-27T07:45:35.589Z"
+  },
+  {
+    "title": "cyber:::«Nous ne pouvons plus attendre»: la Suisse doit urgemment définir une stratégie numérique, alertent des chercheurs",
+    "added_at": "2026-10-27T07:57:42.491Z"
   }
 ]
