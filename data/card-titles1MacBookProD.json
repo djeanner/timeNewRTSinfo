@@ -110724,7 +110724,10 @@
   },
   {
     "title": "La Matinale - Présentée par Valérie Hauert",
-    "added_at": "2026-09-02T12:26:54.197Z"
+    "added_at": "2026-09-02T12:26:54.197Z",
+    "removed_at": "2026-10-28T00:16:08.134Z",
+    "duration_minutes": 79909,
+    "duration_str": "55d 11h 49m"
   },
   {
     "title": "Malbouffe: quand l'agroalimentaire attaque les Etats en justice",
@@ -125029,10 +125032,7 @@
   },
   {
     "title": "Qu'est que PHP, ce langage informatique à l'origine de deux failles critiques ?",
-    "added_at": "2026-10-23T23:18:23.370Z",
-    "removed_at": "2026-10-26T20:16:25.182Z",
-    "duration_minutes": 4138,
-    "duration_str": "2d 20h 58m"
+    "added_at": "2026-10-23T23:18:23.370Z"
   },
   {
     "title": "Forum – Présenté par Coralie Claude et Anne Fournier",
@@ -125663,7 +125663,10 @@
   },
   {
     "title": "De nouvelles attaques en Suisse alémanique contre Céline Amaudruz, qui dit \"savoir faire face à l'adversité\"",
-    "added_at": "2026-10-25T20:19:17.672Z"
+    "added_at": "2026-10-25T20:19:17.672Z",
+    "removed_at": "2026-10-27T23:12:56.136Z",
+    "duration_minutes": 3053,
+    "duration_str": "2d 2h 53m"
   },
   {
     "title": "Kiev confirme qu'une réunion entre Russes, Ukrainiens et Américains aura lieu en novembre",
@@ -125688,7 +125691,10 @@
   },
   {
     "title": "Le nationaliste Aleksandar Vucic concède sa défaite face au mouvement étudiant lors des législatives serbes",
-    "added_at": "2026-10-25T20:55:35.391Z"
+    "added_at": "2026-10-25T20:55:35.391Z",
+    "removed_at": "2026-10-27T23:12:56.136Z",
+    "duration_minutes": 3017,
+    "duration_str": "2d 2h 17m"
   },
   {
     "title": "La montée en puissance des ultra-orthodoxes devient un enjeu des élections en Israël",
@@ -125958,7 +125964,10 @@
   },
   {
     "title": "Débordements en marge du match entre le Lausanne HC et Fribourg-Gottéron",
-    "added_at": "2026-10-26T20:16:25.182Z"
+    "added_at": "2026-10-26T20:16:25.182Z",
+    "removed_at": "2026-10-27T23:17:46.081Z",
+    "duration_minutes": 1621,
+    "duration_str": "1d 3h 1m"
   },
   {
     "title": "Les Israéliens élisent mardi les nouveaux députés de la Knesset, un vote crucial pour l'avenir de Benjamin Netanyahu",
@@ -126205,7 +126214,10 @@
   },
   {
     "title": "En Israël, le bloc de l'opposition serait légèrement en tête, mais sans majorité, selon les sondages",
-    "added_at": "2026-10-27T20:12:25.841Z"
+    "added_at": "2026-10-27T20:12:25.841Z",
+    "removed_at": "2026-10-28T01:19:30.560Z",
+    "duration_minutes": 307,
+    "duration_str": "5h 7m"
   },
   {
     "title": "Le parti de Flavio Bolsonaro reconnaît la défaite face à Lula",
@@ -126257,5 +126269,17 @@
   {
     "title": "Flavio Bolsonaro a fui le Brésil pour les Etats-Unis et Washington va lui accorder un visa",
     "added_at": "2026-10-27T21:23:19.977Z"
+  },
+  {
+    "title": "Après les débordements entre ultras du LHC et de Gottéron, les sanctions tombent",
+    "added_at": "2026-10-27T23:17:46.081Z"
+  },
+  {
+    "title": "Les passeports du sénateur brésilien Flavio Bolsonaro ont été annulés",
+    "added_at": "2026-10-28T00:16:08.134Z"
+  },
+  {
+    "title": "En Israël, les deux camps sont désormais donnés à égalité, selon de nouveaux sondages",
+    "added_at": "2026-10-28T01:14:35.180Z"
   }
 ]
