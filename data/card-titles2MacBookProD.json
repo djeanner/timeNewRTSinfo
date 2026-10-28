@@ -115934,7 +115934,10 @@
   },
   {
     "title": "sport:::Stan Wawrinka, le dernier match d’un passionné",
-    "added_at": "2026-10-27T23:05:37.472Z"
+    "added_at": "2026-10-27T23:05:37.472Z",
+    "removed_at": "2026-10-28T13:41:03.281Z",
+    "duration_minutes": 875,
+    "duration_str": "14h 35m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – De nouveaux sondages donnent désormais Benyamin Netanyahou et l'opposition à égalité",
@@ -115984,7 +115987,10 @@
   },
   {
     "title": "sciences:::Une cartographie inédite du Rhône révèle l’omniprésence de polluants persistants de la source à la Méditerranée",
-    "added_at": "2026-10-28T06:17:19.169Z"
+    "added_at": "2026-10-28T06:17:19.169Z",
+    "removed_at": "2026-10-28T13:11:54.941Z",
+    "duration_minutes": 414,
+    "duration_str": "6h 54m"
   },
   {
     "title": "economie:::UBS enregistre un bénéfice net de 2,7 milliards de dollars au 3e trimestre, en hausse de 8% sur un an",
@@ -116009,7 +116015,10 @@
   },
   {
     "title": "monde:::Le Sénat français adopte la contestée loi «casseur payeur», tentative de répondre aux violences récurrentes dans les manifestations",
-    "added_at": "2026-10-28T07:35:42.182Z"
+    "added_at": "2026-10-28T07:35:42.182Z",
+    "removed_at": "2026-10-28T14:10:11.287Z",
+    "duration_minutes": 394,
+    "duration_str": "6h 34m"
   },
   {
     "title": "economie:::Genève attire les fortunes du Moyen-Orient mais craint un départ d’UBS et une Finma «toute-puissante»",
@@ -116028,7 +116037,10 @@
   },
   {
     "title": "suisse:::Drame de Crans-Montana: la confrontation entre Jessica et Jacques Moretti est annulée après les violences de cet été",
-    "added_at": "2026-10-28T10:00:26.560Z"
+    "added_at": "2026-10-28T10:00:26.560Z",
+    "removed_at": "2026-10-28T12:17:33.344Z",
+    "duration_minutes": 137,
+    "duration_str": "2h 17m"
   },
   {
     "title": "monde:::Au moins dix morts dans une collision entre deux trains en Espagne",
@@ -116039,11 +116051,17 @@
   },
   {
     "title": "culture:::Adapté pour la première fois en France, «Le Fantôme de l’Opéra» reçoit un troublant mais séduisant rajeunissement",
-    "added_at": "2026-10-28T10:10:44.347Z"
+    "added_at": "2026-10-28T10:10:44.347Z",
+    "removed_at": "2026-10-28T13:48:21.236Z",
+    "duration_minutes": 217,
+    "duration_str": "3h 37m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Après le dépouillement des deux tiers des bulletins, la coalition de Benyamin Netanyahou est en tête, mais sans majorité",
-    "added_at": "2026-10-28T10:39:53.716Z"
+    "added_at": "2026-10-28T10:39:53.716Z",
+    "removed_at": "2026-10-28T13:11:54.941Z",
+    "duration_minutes": 152,
+    "duration_str": "2h 32m"
   },
   {
     "title": "monde:::En direct, guerre contre l’Ukraine – la trêve humanitaire à Olechky tient pour la deuxième journée consécutive",
@@ -116058,10 +116076,65 @@
   },
   {
     "title": "monde:::Au moins 30 morts dans une collision entre deux trains en Espagne",
-    "added_at": "2026-10-28T11:00:27.411Z"
+    "added_at": "2026-10-28T11:00:27.411Z",
+    "removed_at": "2026-10-28T13:11:54.941Z",
+    "duration_minutes": 131,
+    "duration_str": "2h 11m"
   },
   {
     "title": "economie:::Sergio Ermotti: «Notre clientèle s’attend à des prix compétitifs et un passeport suisse n’est pas suffisant»",
-    "added_at": "2026-10-28T11:37:56.510Z"
+    "added_at": "2026-10-28T11:37:56.510Z",
+    "removed_at": "2026-10-28T13:11:54.941Z",
+    "duration_minutes": 93,
+    "duration_str": "1h 33m"
+  },
+  {
+    "title": "suisse:::A Genève, un accord est trouvé dans l’affaire des résiliations massives de baux au boulevard Carl-Vogt",
+    "added_at": "2026-10-28T12:17:33.344Z"
+  },
+  {
+    "title": "culture:::Kenny Barron au festival JazzOnze+, l’histoire au bout des doigts",
+    "added_at": "2026-10-28T13:11:54.941Z",
+    "removed_at": "2026-10-28T14:30:19.060Z",
+    "duration_minutes": 78,
+    "duration_str": "1h 18m"
+  },
+  {
+    "title": "economie:::Sergio Ermotti, patron d'UBS: «Notre clientèle s’attend à des prix compétitifs et un passeport suisse n’est pas suffisant»",
+    "added_at": "2026-10-28T13:11:54.941Z",
+    "removed_at": "2026-10-28T13:53:09.910Z",
+    "duration_minutes": 41,
+    "duration_str": "41m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Après le dépouillement de trois quarts des bulletins, toujours pas de majorité pour la coalition de Benyamin Netanyahou",
+    "added_at": "2026-10-28T13:11:54.941Z"
+  },
+  {
+    "title": "monde:::Plus de 60 morts dans une collision entre deux trains en Espagne",
+    "added_at": "2026-10-28T13:11:54.941Z",
+    "removed_at": "2026-10-28T13:14:22.634Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::Dans la collision entre deux trains en Espagne, le bilan grimpe à 64 morts",
+    "added_at": "2026-10-28T13:14:22.634Z"
+  },
+  {
+    "title": "culture:::De Paléo à un abri souterrain: Alain Weber relance sa revue d'art vingt ans après sa disparition",
+    "added_at": "2026-10-28T13:48:21.236Z"
+  },
+  {
+    "title": "economie:::Sergio Ermotti, patron d’UBS: «Notre clientèle s’attend à des prix compétitifs et un passeport suisse n’est pas suffisant»",
+    "added_at": "2026-10-28T13:53:09.910Z"
+  },
+  {
+    "title": "culture:::«Avec «Impossible», on remet la question de la fraternité et de l’engagement au cœur du débat»: A Genève, le célèbre roman d’Erri de Luca est porté à la scène",
+    "added_at": "2026-10-28T14:10:11.287Z"
+  },
+  {
+    "title": "suisse:::Selon un sondage, seuls 19% des électeurs interrogés envisagent de voter pour Valérie Dittli aux élections cantonales de 2027",
+    "added_at": "2026-10-28T14:30:19.060Z"
   }
 ]
