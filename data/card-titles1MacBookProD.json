@@ -105,14 +105,14 @@
   },
   {
     "title": "Des centaines de livreurs risquent d'être licenciés par Just Eat",
-    "added_at": "2026-10-29T14:34:59.596Z"
+    "added_at": "2026-10-29T14:34:59.596Z",
+    "removed_at": "2026-10-29T20:31:56.995Z",
+    "duration_minutes": 356,
+    "duration_str": "5h 56m"
   },
   {
     "title": "Couleurs locales",
-    "added_at": "2026-10-29T14:34:59.596Z",
-    "removed_at": "2026-10-29T18:14:50.001Z",
-    "duration_minutes": 219,
-    "duration_str": "3h 39m"
+    "added_at": "2026-10-29T14:34:59.596Z"
   },
   {
     "title": "Forum (vidéo) - Présenté par Coralie Claude et Anne Fournier",
@@ -305,11 +305,17 @@
   },
   {
     "title": "Le cyclone Arnab s'abat sur l'Inde, près de 100'000 personnes évacuées",
-    "added_at": "2026-10-29T14:34:59.596Z"
+    "added_at": "2026-10-29T14:34:59.596Z",
+    "removed_at": "2026-10-29T20:48:51.944Z",
+    "duration_minutes": 373,
+    "duration_str": "6h 13m"
   },
   {
     "title": "Bracelet électronique: test grandeur nature de la police neuchâteloise avant le déploiement",
-    "added_at": "2026-10-29T14:34:59.596Z"
+    "added_at": "2026-10-29T14:34:59.596Z",
+    "removed_at": "2026-10-29T19:36:19.512Z",
+    "duration_minutes": 301,
+    "duration_str": "5h 1m"
   },
   {
     "title": "Granit Xhaka et Breel Embolo à nouveau sélectionnables en équipe de Suisse",
@@ -452,5 +458,20 @@
   {
     "title": "Allemagne: incendie du 'Nid d'Aigle' d'Hitler, un suspect arrêté",
     "added_at": "2026-10-29T18:19:42.944Z"
+  },
+  {
+    "title": "La colère monte en Espagne après la collision de deux trains qui a fait au moins 69 morts",
+    "added_at": "2026-10-29T19:36:19.512Z"
+  },
+  {
+    "title": "Bienne-Granges Sud: le trafic régional remplacé par des bus pour plusieurs mois dès vendredi",
+    "added_at": "2026-10-29T20:48:51.944Z"
+  },
+  {
+    "title": "Patrick Stewart, acteur star des sagas \"X-Men\" et \"Star Trek\", est mort",
+    "added_at": "2026-10-29T21:32:33.033Z",
+    "removed_at": "2026-10-29T21:34:58.641Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
   }
 ]
