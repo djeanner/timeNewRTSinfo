@@ -1,255 +1,31 @@
 [
   {
-    "title": "L'enquête sur l'accident de funiculaire à Lisbonne révèle que le câble n'était pas aux normes",
-    "added_at": "2025-10-20T20:30:07.928Z",
-    "removed_at": "2025-10-22T16:41:10.255Z",
-    "duration_minutes": 2651,
-    "duration_str": "1d 20h 11m"
-  },
-  {
-    "title": "Comment une panne d'Amazon a paralysé une partie du web mondial",
-    "added_at": "2025-10-20T17:58:47.023Z",
-    "removed_at": "2025-10-22T18:03:33.211Z",
-    "duration_minutes": 2885,
-    "duration_str": "2d 5m"
-  },
-  {
-    "title": "Battu avec les honneurs, Henry Bernet a pris date",
-    "added_at": "2025-10-20T21:15:36.179Z",
-    "removed_at": "2025-10-22T15:31:33.285Z",
-    "duration_minutes": 2536,
-    "duration_str": "1d 18h 16m"
-  },
-  {
-    "title": "Le chantier extérieur de la Tour Malley relancé quinze mois après l'accident mortel",
-    "added_at": "2025-10-20T19:10:46.437Z",
-    "removed_at": "2025-10-22T15:23:09.190Z",
-    "duration_minutes": 2652,
-    "duration_str": "1d 20h 12m"
-  },
-  {
-    "title": "La vidéo d'un influenceur gravissant le Cervin inquiète les milieux du sauvetage en montagne",
-    "added_at": "2025-10-20T06:24:56.108Z",
-    "removed_at": "2025-10-23T10:24:09.475Z",
-    "duration_minutes": 4559,
-    "duration_str": "3d 3h 59m"
-  },
-  {
-    "title": "Le vol de bijoux au Louvre ébranle \"l'Histoire de France\" et la sécurité du musée",
-    "added_at": "2025-10-20T09:28:24.267Z",
-    "removed_at": "2025-10-22T20:31:56.027Z",
-    "duration_minutes": 3544,
-    "duration_str": "2d 11h 4m"
-  },
-  {
-    "title": "Une panne informatique chez Amazon impacte des millions de personnes dans le monde: interview de Steven Meyer",
-    "added_at": "2025-10-20T20:16:58.203Z",
-    "removed_at": "2025-10-24T06:06:33.102Z",
-    "duration_minutes": 4910,
-    "duration_str": "3d 9h 50m"
-  },
-  {
-    "title": "L'invitée de La Matinale (vidéo) - Marie Levrat, députée socialiste au Grand Conseil fribourgeois",
-    "added_at": "2025-10-20T10:25:03.526Z",
-    "removed_at": "2025-10-25T08:29:59.079Z",
-    "duration_minutes": 7085,
-    "duration_str": "4d 22h 5m"
-  },
-  {
-    "title": "À Genève, près de la moitié des responsables RH seraient des frontaliers: débat entre Ana Roch et René Deléglise",
-    "added_at": "2025-10-20T05:22:39.655Z",
-    "removed_at": "2025-10-21T14:00:39.305Z",
-    "duration_minutes": 1958,
-    "duration_str": "1d 8h 38m"
-  },
-  {
-    "title": "En 7 minutes, des cambrioleurs ont réussi à voler des bijoux \"inestimables\" exposés au Louvre",
-    "added_at": "2025-10-20T17:58:47.023Z",
-    "removed_at": "2025-10-21T14:00:39.305Z",
-    "duration_minutes": 1202,
-    "duration_str": "20h 2m"
-  },
-  {
-    "title": "Lausanne fête les 750 ans de sa cathédrale, un joyau gothique fragile",
-    "added_at": "2025-10-20T18:51:55.723Z",
-    "removed_at": "2025-10-22T15:18:17.638Z",
-    "duration_minutes": 2666,
-    "duration_str": "1d 20h 26m"
-  },
-  {
-    "title": "Des bombardements israéliens et des groupes dissidents sèment la confusion à Gaza malgré le cessez-le-feu",
-    "added_at": "2025-10-20T18:06:23.488Z",
-    "removed_at": "2025-10-22T15:06:35.931Z",
-    "duration_minutes": 2700,
-    "duration_str": "1d 21h"
-  },
-  {
-    "title": "Sous une apparente apathie, une contestation étendue et tenace aux Etats-Unis",
-    "added_at": "2025-10-20T13:20:46.643Z",
-    "removed_at": "2025-10-22T14:57:22.391Z",
-    "duration_minutes": 2977,
-    "duration_str": "2d 1h 37m"
-  },
-  {
-    "title": "L'UE envisage de collaborer avec les talibans pour expulser les réfugiés afghans déboutés",
-    "added_at": "2025-10-20T15:36:54.125Z",
-    "removed_at": "2025-10-22T14:46:01.943Z",
-    "duration_minutes": 2829,
-    "duration_str": "1d 23h 9m"
-  },
-  {
-    "title": "La résurrection de Valendas (GR), nommé parmi les meilleurs villages touristiques du monde",
-    "added_at": "2025-10-20T13:15:07.195Z",
-    "removed_at": "2025-10-22T14:44:05.925Z",
-    "duration_minutes": 2969,
-    "duration_str": "2d 1h 29m"
-  },
-  {
-    "title": "Uli Forte viré par Winterthour",
-    "added_at": "2025-10-20T20:26:22.119Z",
-    "removed_at": "2025-10-21T14:00:39.305Z",
-    "duration_minutes": 1054,
-    "duration_str": "17h 34m"
-  },
-  {
-    "title": "Un Suisse recherché pour fraude depuis 26 ans arrêté sur un catamaran en Italie",
-    "added_at": "2025-10-20T14:32:41.704Z",
-    "removed_at": "2025-10-22T16:03:39.032Z",
-    "duration_minutes": 2971,
-    "duration_str": "2d 1h 31m"
-  },
-  {
-    "title": "Comment la baisse de la luminosité favorise la dépression automnale",
-    "added_at": "2025-10-20T13:28:23.193Z",
-    "removed_at": "2025-10-22T14:06:21.137Z",
-    "duration_minutes": 2918,
-    "duration_str": "2d 38m"
-  },
-  {
-    "title": "Pour l'UDC, les nouveaux accords avec l'UE constituent un \"traité colonial\" de soumission",
-    "added_at": "2025-10-20T09:54:49.534Z",
-    "removed_at": "2025-10-22T14:04:25.253Z",
-    "duration_minutes": 3130,
-    "duration_str": "2d 4h 10m"
-  },
-  {
-    "title": "La chanteuse Rebeka Warrior signe \"Toutes les vies\", récit poignant sur le cancer et l'amour",
-    "added_at": "2025-10-20T15:02:54.685Z",
-    "removed_at": "2025-10-22T13:41:44.341Z",
-    "duration_minutes": 2799,
-    "duration_str": "1d 22h 39m"
-  },
-  {
-    "title": "Le faible taux de participation de Moutier aux élections jurassiennes interroge",
-    "added_at": "2025-10-20T14:23:15.494Z",
-    "removed_at": "2025-10-22T13:26:14.572Z",
-    "duration_minutes": 2823,
-    "duration_str": "1d 23h 3m"
-  },
-  {
-    "title": "Ali Khamenei estime que Donald Trump \"rêve\" s'il pense que le programme nucléaire iranien est détruit",
-    "added_at": "2025-10-20T14:28:55.779Z",
-    "removed_at": "2025-10-22T11:25:23.341Z",
-    "duration_minutes": 2696,
-    "duration_str": "1d 20h 56m"
-  },
-  {
-    "title": "Modérée ou radicale, la droite à la reconquête de l'Amérique du Sud",
-    "added_at": "2025-10-20T10:40:08.014Z",
-    "removed_at": "2025-10-22T11:19:43.162Z",
-    "duration_minutes": 2920,
-    "duration_str": "2d 40m"
-  },
-  {
-    "title": "Les chauffeurs d'Uber manifestent à Zurich face à des revenus trop bas",
-    "added_at": "2025-10-20T13:30:12.925Z",
-    "removed_at": "2025-10-22T10:27:40.415Z",
-    "duration_minutes": 2697,
-    "duration_str": "1d 20h 57m"
-  },
-  {
-    "title": "Wikipédia est-elle trop \"woke\"? Les enjeux d'un débat qui s'intensifie",
-    "added_at": "2025-10-20T10:06:09.716Z",
-    "removed_at": "2025-10-21T14:00:39.305Z",
-    "duration_minutes": 1674,
-    "duration_str": "1d 3h 54m"
-  },
-  {
-    "title": "L'UE approuve l'interdiction d'importer du gaz russe dès 2028",
-    "added_at": "2025-10-20T12:16:34.192Z",
-    "removed_at": "2025-10-21T14:00:39.305Z",
-    "duration_minutes": 1544,
-    "duration_str": "1d 1h 44m"
-  },
-  {
-    "title": "Guy Parmelin ouvre avec gravité la 16e Conférence de l'ONU sur le commerce à Genève",
-    "added_at": "2025-10-20T11:02:48.504Z",
-    "removed_at": "2025-10-21T14:00:39.305Z",
-    "duration_minutes": 1618,
-    "duration_str": "1d 2h 58m"
-  },
-  {
-    "title": "Marie Levrat: \"Je ne vois pas pourquoi on ne soumettrait pas le plan d'économie fribourgeois à la population\"",
-    "added_at": "2025-10-20T09:36:00.103Z",
-    "removed_at": "2025-10-21T14:00:39.305Z",
-    "duration_minutes": 1705,
-    "duration_str": "1d 4h 25m"
-  },
-  {
-    "title": "Suzane revient avec \"Millénium\", album aussi engagé qu'intime aux sujets sociétaux",
-    "added_at": "2025-10-20T11:10:31.783Z",
-    "removed_at": "2025-10-21T14:00:39.305Z",
-    "duration_minutes": 1610,
-    "duration_str": "1d 2h 50m"
-  },
-  {
-    "title": "Genève accueille un congrès de l'OMM pour améliorer les alertes face aux catastrophes naturelles",
-    "added_at": "2025-10-20T10:13:43.293Z",
-    "removed_at": "2025-10-21T14:00:39.305Z",
-    "duration_minutes": 1667,
-    "duration_str": "1d 3h 47m"
-  },
-  {
-    "title": "L'association Pegasos ravive la controverse sur les procédures de l'assistance au suicide en Suisse",
-    "added_at": "2025-10-20T04:26:00.198Z",
-    "removed_at": "2025-10-21T14:00:39.305Z",
-    "duration_minutes": 2015,
-    "duration_str": "1d 9h 35m"
-  },
-  {
-    "title": "Zurich prolonge son projet de vente régulée de cannabis jusqu'en 2028",
-    "added_at": "2025-10-20T10:47:42.312Z",
-    "removed_at": "2025-10-21T14:00:39.305Z",
-    "duration_minutes": 1633,
-    "duration_str": "1d 3h 13m"
-  },
-  {
-    "title": "Les contrôleurs de champignons mettent en garde contre le manque de fiabilité des apps",
-    "added_at": "2025-10-20T07:59:30.564Z",
-    "removed_at": "2025-10-21T14:00:39.305Z",
-    "duration_minutes": 1801,
-    "duration_str": "1d 6h 1m"
+    "title": "Le sénateur de centre-droit Rodrigo Paz élu président de la Bolivie",
+    "added_at": "2025-10-20T01:33:55.199Z",
+    "removed_at": "2025-10-21T17:46:00.566Z",
+    "duration_minutes": 2412,
+    "duration_str": "1d 16h 12m"
   },
   {
     "title": "Une collision lors de l'atterrissage d'un avion-cargo à Hong Kong fait deux morts",
     "added_at": "2025-10-20T02:32:32.689Z",
-    "removed_at": "2025-10-21T14:00:39.305Z",
-    "duration_minutes": 2128,
-    "duration_str": "1d 11h 28m"
+    "removed_at": "2025-10-22T00:40:35.873Z",
+    "duration_minutes": 2768,
+    "duration_str": "1d 22h 8m"
   },
   {
-    "title": "L'exposition \"Dinos Alive\" attire de nombreux passionnés de dinosaures à Lausanne",
-    "added_at": "2025-10-20T07:10:23.817Z",
-    "removed_at": "2025-10-21T14:00:39.305Z",
-    "duration_minutes": 1850,
-    "duration_str": "1d 6h 50m"
+    "title": "L'association Pegasos ravive la controverse sur les procédures de l'assistance au suicide en Suisse",
+    "added_at": "2025-10-20T04:26:00.198Z",
+    "removed_at": "2025-10-22T04:23:40.915Z",
+    "duration_minutes": 2878,
+    "duration_str": "1d 23h 58m"
   },
   {
-    "title": "Le sénateur de centre-droit Rodrigo Paz élu président de la Bolivie",
-    "added_at": "2025-10-20T01:33:55.199Z",
-    "removed_at": "2025-10-21T14:00:39.305Z",
-    "duration_minutes": 2187,
-    "duration_str": "1d 12h 27m"
+    "title": "À Genève, près de la moitié des responsables RH seraient des frontaliers: débat entre Ana Roch et René Deléglise",
+    "added_at": "2025-10-20T05:22:39.655Z",
+    "removed_at": "2025-10-22T08:04:47.715Z",
+    "duration_minutes": 3042,
+    "duration_str": "2d 2h 42m"
   },
   {
     "title": "Les corps d'otages encore à Gaza sont \"dans des tunnels détruits\" ou \"sous des décombres\", assure le Hamas",
@@ -259,11 +35,130 @@
     "duration_str": "6h 54m"
   },
   {
+    "title": "La vidéo d'un influenceur gravissant le Cervin inquiète les milieux du sauvetage en montagne",
+    "added_at": "2025-10-20T06:24:56.108Z",
+    "removed_at": "2025-10-23T10:24:09.475Z",
+    "duration_minutes": 4559,
+    "duration_str": "3d 3h 59m"
+  },
+  {
+    "title": "L'exposition \"Dinos Alive\" attire de nombreux passionnés de dinosaures à Lausanne",
+    "added_at": "2025-10-20T07:10:23.817Z",
+    "removed_at": "2025-10-21T19:20:43.737Z",
+    "duration_minutes": 2170,
+    "duration_str": "1d 12h 10m"
+  },
+  {
+    "title": "Les contrôleurs de champignons mettent en garde contre le manque de fiabilité des apps",
+    "added_at": "2025-10-20T07:59:30.564Z",
+    "removed_at": "2025-10-22T01:37:24.642Z",
+    "duration_minutes": 2498,
+    "duration_str": "1d 17h 38m"
+  },
+  {
+    "title": "Le vol de bijoux au Louvre ébranle \"l'Histoire de France\" et la sécurité du musée",
+    "added_at": "2025-10-20T09:28:24.267Z",
+    "removed_at": "2025-10-22T20:32:20.356Z",
+    "duration_minutes": 3544,
+    "duration_str": "2d 11h 4m"
+  },
+  {
+    "title": "Marie Levrat: \"Je ne vois pas pourquoi on ne soumettrait pas le plan d'économie fribourgeois à la population\"",
+    "added_at": "2025-10-20T09:36:00.103Z",
+    "removed_at": "2025-10-22T07:19:26.730Z",
+    "duration_minutes": 2743,
+    "duration_str": "1d 21h 43m"
+  },
+  {
+    "title": "Pour l'UDC, les nouveaux accords avec l'UE constituent un \"traité colonial\" de soumission",
+    "added_at": "2025-10-20T09:54:49.534Z",
+    "removed_at": "2025-10-22T14:04:25.253Z",
+    "duration_minutes": 3130,
+    "duration_str": "2d 4h 10m"
+  },
+  {
+    "title": "Wikipédia est-elle trop \"woke\"? Les enjeux d'un débat qui s'intensifie",
+    "added_at": "2025-10-20T10:06:09.716Z",
+    "removed_at": "2025-10-22T08:52:12.213Z",
+    "duration_minutes": 2806,
+    "duration_str": "1d 22h 46m"
+  },
+  {
+    "title": "Genève accueille un congrès de l'OMM pour améliorer les alertes face aux catastrophes naturelles",
+    "added_at": "2025-10-20T10:13:43.293Z",
+    "removed_at": "2025-10-22T04:25:35.381Z",
+    "duration_minutes": 2532,
+    "duration_str": "1d 18h 12m"
+  },
+  {
+    "title": "L'invitée de La Matinale (vidéo) - Marie Levrat, députée socialiste au Grand Conseil fribourgeois",
+    "added_at": "2025-10-20T10:25:03.526Z",
+    "removed_at": "2025-10-25T08:29:59.079Z",
+    "duration_minutes": 7085,
+    "duration_str": "4d 22h 5m"
+  },
+  {
+    "title": "Modérée ou radicale, la droite à la reconquête de l'Amérique du Sud",
+    "added_at": "2025-10-20T10:40:08.014Z",
+    "removed_at": "2025-10-22T11:19:43.162Z",
+    "duration_minutes": 2920,
+    "duration_str": "2d 40m"
+  },
+  {
+    "title": "Zurich prolonge son projet de vente régulée de cannabis jusqu'en 2028",
+    "added_at": "2025-10-20T10:47:42.312Z",
+    "removed_at": "2025-10-22T03:30:52.416Z",
+    "duration_minutes": 2443,
+    "duration_str": "1d 16h 43m"
+  },
+  {
+    "title": "Guy Parmelin ouvre avec gravité la 16e Conférence de l'ONU sur le commerce à Genève",
+    "added_at": "2025-10-20T11:02:48.504Z",
+    "removed_at": "2025-10-22T08:31:28.164Z",
+    "duration_minutes": 2729,
+    "duration_str": "1d 21h 29m"
+  },
+  {
+    "title": "Suzane revient avec \"Millénium\", album aussi engagé qu'intime aux sujets sociétaux",
+    "added_at": "2025-10-20T11:10:31.783Z",
+    "removed_at": "2025-10-22T07:11:56.779Z",
+    "duration_minutes": 2641,
+    "duration_str": "1d 20h 1m"
+  },
+  {
+    "title": "L'UE approuve l'interdiction d'importer du gaz russe dès 2028",
+    "added_at": "2025-10-20T12:16:34.192Z",
+    "removed_at": "2025-10-22T08:44:38.639Z",
+    "duration_minutes": 2668,
+    "duration_str": "1d 20h 28m"
+  },
+  {
     "title": "L'accord de coalition signé, Sanae Takaichi est parée à devenir Première ministre du Japon",
     "added_at": "2025-10-20T12:35:27.828Z",
     "removed_at": "2025-10-20T13:28:23.193Z",
     "duration_minutes": 53,
     "duration_str": "53m"
+  },
+  {
+    "title": "La résurrection de Valendas (GR), nommé parmi les meilleurs villages touristiques du monde",
+    "added_at": "2025-10-20T13:15:07.195Z",
+    "removed_at": "2025-10-22T14:44:05.925Z",
+    "duration_minutes": 2969,
+    "duration_str": "2d 1h 29m"
+  },
+  {
+    "title": "Sous une apparente apathie, une contestation étendue et tenace aux Etats-Unis",
+    "added_at": "2025-10-20T13:20:46.643Z",
+    "removed_at": "2025-10-22T14:57:22.391Z",
+    "duration_minutes": 2977,
+    "duration_str": "2d 1h 37m"
+  },
+  {
+    "title": "Comment la baisse de la luminosité favorise la dépression automnale",
+    "added_at": "2025-10-20T13:28:23.193Z",
+    "removed_at": "2025-10-22T14:06:21.137Z",
+    "duration_minutes": 2918,
+    "duration_str": "2d 38m"
   },
   {
     "title": "L'accord de coalition signé, Sanae Takaichi va devenir Première ministre du Japon",
@@ -273,11 +168,74 @@
     "duration_str": "15h 43m"
   },
   {
+    "title": "Les chauffeurs d'Uber manifestent à Zurich face à des revenus trop bas",
+    "added_at": "2025-10-20T13:30:12.925Z",
+    "removed_at": "2025-10-22T10:28:44.058Z",
+    "duration_minutes": 2699,
+    "duration_str": "1d 20h 59m"
+  },
+  {
+    "title": "Le faible taux de participation de Moutier aux élections jurassiennes interroge",
+    "added_at": "2025-10-20T14:23:15.494Z",
+    "removed_at": "2025-10-22T13:26:37.345Z",
+    "duration_minutes": 2823,
+    "duration_str": "1d 23h 3m"
+  },
+  {
     "title": "Ali Khamenei estime que Donald Trump \"rêve\", s'il pense que le programme nucléaire iranien est détruit",
     "added_at": "2025-10-20T14:25:11.416Z",
     "removed_at": "2025-10-20T14:28:55.779Z",
     "duration_minutes": 4,
     "duration_str": "4m"
+  },
+  {
+    "title": "Ali Khamenei estime que Donald Trump \"rêve\" s'il pense que le programme nucléaire iranien est détruit",
+    "added_at": "2025-10-20T14:28:55.779Z",
+    "removed_at": "2025-10-22T11:25:23.341Z",
+    "duration_minutes": 2696,
+    "duration_str": "1d 20h 56m"
+  },
+  {
+    "title": "Un Suisse recherché pour fraude depuis 26 ans arrêté sur un catamaran en Italie",
+    "added_at": "2025-10-20T14:32:41.704Z",
+    "removed_at": "2025-10-22T16:03:39.032Z",
+    "duration_minutes": 2971,
+    "duration_str": "2d 1h 31m"
+  },
+  {
+    "title": "La chanteuse Rebeka Warrior signe \"Toutes les vies\", récit poignant sur le cancer et l'amour",
+    "added_at": "2025-10-20T15:02:54.685Z",
+    "removed_at": "2025-10-22T13:41:44.341Z",
+    "duration_minutes": 2799,
+    "duration_str": "1d 22h 39m"
+  },
+  {
+    "title": "L'UE envisage de collaborer avec les talibans pour expulser les réfugiés afghans déboutés",
+    "added_at": "2025-10-20T15:36:54.125Z",
+    "removed_at": "2025-10-22T14:46:01.943Z",
+    "duration_minutes": 2829,
+    "duration_str": "1d 23h 9m"
+  },
+  {
+    "title": "Comment une panne d'Amazon a paralysé une partie du web mondial",
+    "added_at": "2025-10-20T17:58:47.023Z",
+    "removed_at": "2025-10-22T18:04:45.850Z",
+    "duration_minutes": 2886,
+    "duration_str": "2d 6m"
+  },
+  {
+    "title": "En 7 minutes, des cambrioleurs ont réussi à voler des bijoux \"inestimables\" exposés au Louvre",
+    "added_at": "2025-10-20T17:58:47.023Z",
+    "removed_at": "2025-10-21T16:28:24.974Z",
+    "duration_minutes": 1350,
+    "duration_str": "22h 30m"
+  },
+  {
+    "title": "Des bombardements israéliens et des groupes dissidents sèment la confusion à Gaza malgré le cessez-le-feu",
+    "added_at": "2025-10-20T18:06:23.488Z",
+    "removed_at": "2025-10-22T15:06:47.440Z",
+    "duration_minutes": 2700,
+    "duration_str": "1d 21h"
   },
   {
     "title": "Fin de l'aventure pour le Tessinois Remy Bertola",
@@ -294,11 +252,53 @@
     "duration_str": "23m"
   },
   {
+    "title": "Lausanne fête les 750 ans de sa cathédrale, un joyau gothique fragile",
+    "added_at": "2025-10-20T18:51:55.723Z",
+    "removed_at": "2025-10-22T15:18:17.638Z",
+    "duration_minutes": 2666,
+    "duration_str": "1d 20h 26m"
+  },
+  {
+    "title": "Le chantier extérieur de la Tour Malley relancé quinze mois après l'accident mortel",
+    "added_at": "2025-10-20T19:10:46.437Z",
+    "removed_at": "2025-10-22T15:23:58.474Z",
+    "duration_minutes": 2653,
+    "duration_str": "1d 20h 13m"
+  },
+  {
+    "title": "Une panne informatique chez Amazon impacte des millions de personnes dans le monde: interview de Steven Meyer",
+    "added_at": "2025-10-20T20:16:58.203Z",
+    "removed_at": "2025-10-24T06:06:33.102Z",
+    "duration_minutes": 4910,
+    "duration_str": "3d 9h 50m"
+  },
+  {
+    "title": "Uli Forte viré par Winterthour",
+    "added_at": "2025-10-20T20:26:22.119Z",
+    "removed_at": "2025-10-21T17:42:10.452Z",
+    "duration_minutes": 1276,
+    "duration_str": "21h 16m"
+  },
+  {
+    "title": "L'enquête sur l'accident de funiculaire à Lisbonne révèle que le câble n'était pas aux normes",
+    "added_at": "2025-10-20T20:30:07.928Z",
+    "removed_at": "2025-10-22T16:41:25.457Z",
+    "duration_minutes": 2651,
+    "duration_str": "1d 20h 11m"
+  },
+  {
     "title": "Le Centre Jura confirme un ticket à deux pour le deuxième tour au Gouvernement, le PLR persiste avec Martin Brichet",
     "added_at": "2025-10-20T21:13:46.341Z",
     "removed_at": "2025-10-20T21:47:44.694Z",
     "duration_minutes": 34,
     "duration_str": "34m"
+  },
+  {
+    "title": "Battu avec les honneurs, Henry Bernet a pris date",
+    "added_at": "2025-10-20T21:15:36.179Z",
+    "removed_at": "2025-10-22T15:31:33.285Z",
+    "duration_minutes": 2536,
+    "duration_str": "1d 18h 16m"
   },
   {
     "title": "Le Centre Jura confirme un ticket à deux pour le deuxième tour au Gouvernement, le PLR persiste avec Martin Braichet",
