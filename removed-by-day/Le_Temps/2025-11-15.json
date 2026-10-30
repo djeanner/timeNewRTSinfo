@@ -1,26 +1,5 @@
 [
   {
-    "title": "suisse:::L’Arc jurassien en pleine révolution médiatique",
-    "added_at": "2025-11-15T17:04:49.799Z",
-    "removed_at": "2025-11-17T19:53:11.380Z",
-    "duration_minutes": 3048,
-    "duration_str": "2d 2h 48m"
-  },
-  {
-    "title": "suisse:::Taxes américaines: Cenni Najy souligne l'importante contribution de la Suisse romande",
-    "added_at": "2025-11-15T23:42:37.298Z",
-    "removed_at": "2025-11-18T12:52:41.710Z",
-    "duration_minutes": 3670,
-    "duration_str": "2d 13h 10m"
-  },
-  {
-    "title": "monde:::«Les Israéliens ouvrent un peu les yeux sur les exactions de certains colons»",
-    "added_at": "2025-11-15T16:07:56.334Z",
-    "removed_at": "2025-11-26T19:10:10.030Z",
-    "duration_minutes": 16022,
-    "duration_str": "11d 3h 2m"
-  },
-  {
     "title": "sport:::En dilettante – 12 ans, l’âge d’or du passionné de football",
     "added_at": "2025-11-15T06:04:06.381Z",
     "removed_at": "2025-11-16T10:01:06.780Z",
@@ -140,11 +119,25 @@
     "duration_str": "1h 54m"
   },
   {
+    "title": "monde:::«Les Israéliens ouvrent un peu les yeux sur les exactions de certains colons»",
+    "added_at": "2025-11-15T16:07:56.334Z",
+    "removed_at": "2025-11-26T19:10:10.030Z",
+    "duration_minutes": 16022,
+    "duration_str": "11d 3h 2m"
+  },
+  {
     "title": "suisse:::Manifestation pour la justice climatique et sociale à Genève",
     "added_at": "2025-11-15T16:07:56.334Z",
     "removed_at": "2025-11-16T16:29:57.042Z",
     "duration_minutes": 1462,
     "duration_str": "1d 22m"
+  },
+  {
+    "title": "suisse:::L’Arc jurassien en pleine révolution médiatique",
+    "added_at": "2025-11-15T17:04:49.799Z",
+    "removed_at": "2025-11-17T19:54:28.345Z",
+    "duration_minutes": 3050,
+    "duration_str": "2d 2h 50m"
   },
   {
     "title": "economie:::Motosacoche ou une tentative avortée de régater avec des vélos locaux et de qualité",
@@ -173,5 +166,12 @@
     "removed_at": "2025-11-16T06:04:33.862Z",
     "duration_minutes": 486,
     "duration_str": "8h 6m"
+  },
+  {
+    "title": "suisse:::Taxes américaines: Cenni Najy souligne l'importante contribution de la Suisse romande",
+    "added_at": "2025-11-15T23:42:37.298Z",
+    "removed_at": "2025-11-18T12:52:41.710Z",
+    "duration_minutes": 3670,
+    "duration_str": "2d 13h 10m"
   }
 ]

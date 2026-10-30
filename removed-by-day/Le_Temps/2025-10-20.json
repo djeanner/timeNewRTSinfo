@@ -1,54 +1,5 @@
 [
   {
-    "title": "suisse:::A Genève, Les Vert·e·s veulent garder la main sur le Territoire",
-    "added_at": "2025-10-20T18:32:59.847Z",
-    "removed_at": "2025-10-21T14:00:39.326Z",
-    "duration_minutes": 1168,
-    "duration_str": "19h 28m"
-  },
-  {
-    "title": "monde:::Après le Venezuela, l’administration Trump menace d’intervenir en Colombie",
-    "added_at": "2025-10-20T18:49:59.776Z",
-    "removed_at": "2025-10-21T09:37:49.205Z",
-    "duration_minutes": 888,
-    "duration_str": "14h 48m"
-  },
-  {
-    "title": "monde:::Cinq regards d’ambassadeurs sur la Suisse, ce petit pays parfois surprenant qui doit relever beaucoup de défis",
-    "added_at": "2025-10-20T10:06:09.780Z",
-    "removed_at": "2025-10-22T15:16:23.728Z",
-    "duration_minutes": 3190,
-    "duration_str": "2d 5h 10m"
-  },
-  {
-    "title": "monde:::«Humiliation» de Volodymyr Zelensky et sommet de Budapest: à Moscou, on célèbre le «coup de maître» de Vladimir Poutine",
-    "added_at": "2025-10-20T13:54:56.184Z",
-    "removed_at": "2025-10-23T15:55:11.903Z",
-    "duration_minutes": 4440,
-    "duration_str": "3d 2h"
-  },
-  {
-    "title": "monde:::En direct, guerre en Ukraine − Une majorité de pays européens veulent se passer du gaz russe d'ici fin 2027",
-    "added_at": "2025-10-20T10:13:43.353Z",
-    "removed_at": "2025-10-21T14:00:39.326Z",
-    "duration_minutes": 1667,
-    "duration_str": "1d 3h 47m"
-  },
-  {
-    "title": "monde:::Comment la Suisse cherche à exister au cœur d’une Europe qui se réarme",
-    "added_at": "2025-10-20T18:25:25.179Z",
-    "removed_at": "2025-10-23T10:35:29.531Z",
-    "duration_minutes": 3850,
-    "duration_str": "2d 16h 10m"
-  },
-  {
-    "title": "culture:::Claude-Inga Barbey, Laurent Deshusses et «La Revue genevoise» défient l’IA et gagnent le match",
-    "added_at": "2025-10-20T17:26:40.592Z",
-    "removed_at": "2026-01-06T17:18:38.514Z",
-    "duration_minutes": 112312,
-    "duration_str": "77d 23h 52m"
-  },
-  {
     "title": "monde:::Moyen-Orient – Notre suivi de la semaine du 13 octobre",
     "added_at": "2025-10-20T00:25:58.972Z",
     "removed_at": "2025-10-20T03:36:43.681Z",
@@ -224,11 +175,25 @@
     "duration_str": "9h 8m"
   },
   {
+    "title": "monde:::Cinq regards d’ambassadeurs sur la Suisse, ce petit pays parfois surprenant qui doit relever beaucoup de défis",
+    "added_at": "2025-10-20T10:06:09.780Z",
+    "removed_at": "2025-10-22T15:16:23.728Z",
+    "duration_minutes": 3190,
+    "duration_str": "2d 5h 10m"
+  },
+  {
     "title": "cyber:::La panne d’un service d’Amazon a affecté Snapchat «Fortnite», Signal et de nombreuses autres applications",
     "added_at": "2025-10-20T10:13:43.353Z",
     "removed_at": "2025-10-20T13:34:12.980Z",
     "duration_minutes": 200,
     "duration_str": "3h 20m"
+  },
+  {
+    "title": "monde:::En direct, guerre en Ukraine − Une majorité de pays européens veulent se passer du gaz russe d'ici fin 2027",
+    "added_at": "2025-10-20T10:13:43.353Z",
+    "removed_at": "2025-10-21T16:34:05.288Z",
+    "duration_minutes": 1820,
+    "duration_str": "1d 6h 20m"
   },
   {
     "title": "suisse:::En Suisse, le voile se lève sur une enquête pour crimes de guerre: le prévenu est rwandais et il a pris Claude Nicati comme avocat",
@@ -273,6 +238,13 @@
     "duration_str": "15h 22m"
   },
   {
+    "title": "monde:::«Humiliation» de Volodymyr Zelensky et sommet de Budapest: à Moscou, on célèbre le «coup de maître» de Vladimir Poutine",
+    "added_at": "2025-10-20T13:54:56.184Z",
+    "removed_at": "2025-10-23T15:55:11.903Z",
+    "duration_minutes": 4440,
+    "duration_str": "3d 2h"
+  },
+  {
     "title": "cyber:::La panne d’un service d’Amazon ayant affecté Snapchat «Fortnite», Signal et de nombreuses autres applications est résolue",
     "added_at": "2025-10-20T14:00:36.080Z",
     "removed_at": "2025-10-20T15:12:21.095Z",
@@ -315,6 +287,13 @@
     "duration_str": "12h 53m"
   },
   {
+    "title": "culture:::Claude-Inga Barbey, Laurent Deshusses et «La Revue genevoise» défient l’IA et gagnent le match",
+    "added_at": "2025-10-20T17:26:40.592Z",
+    "removed_at": "2026-01-06T17:18:38.514Z",
+    "duration_minutes": 112312,
+    "duration_str": "77d 23h 52m"
+  },
+  {
     "title": "suisse:::A Genève, les Vert·e·s veulent garder la main sur le Territoire",
     "added_at": "2025-10-20T17:47:26.127Z",
     "removed_at": "2025-10-20T18:32:59.847Z",
@@ -322,11 +301,32 @@
     "duration_str": "46m"
   },
   {
+    "title": "monde:::Comment la Suisse cherche à exister au cœur d’une Europe qui se réarme",
+    "added_at": "2025-10-20T18:25:25.179Z",
+    "removed_at": "2025-10-23T10:35:29.531Z",
+    "duration_minutes": 3850,
+    "duration_str": "2d 16h 10m"
+  },
+  {
+    "title": "suisse:::A Genève, Les Vert·e·s veulent garder la main sur le Territoire",
+    "added_at": "2025-10-20T18:32:59.847Z",
+    "removed_at": "2025-10-21T15:10:43.582Z",
+    "duration_minutes": 1238,
+    "duration_str": "20h 38m"
+  },
+  {
     "title": "monde:::En direct, Moyen-Orient – Steve Witkoff et Jared Kushner ont rencontré Benyamin Netanyahou en Israël pour consolider le cessez-le-feu à Gaza",
     "added_at": "2025-10-20T18:44:19.102Z",
     "removed_at": "2025-10-21T03:43:08.269Z",
     "duration_minutes": 539,
     "duration_str": "8h 59m"
+  },
+  {
+    "title": "monde:::Après le Venezuela, l’administration Trump menace d’intervenir en Colombie",
+    "added_at": "2025-10-20T18:49:59.776Z",
+    "removed_at": "2025-10-21T09:37:49.205Z",
+    "duration_minutes": 888,
+    "duration_str": "14h 48m"
   },
   {
     "title": "culture:::Dans «De l’autre côté de la vie», Fabrice Humbert imagine la France basculer dans la guerre civile",

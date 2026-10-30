@@ -1,52 +1,17 @@
 [
   {
-    "title": "suisse:::Le Refettorio, restaurant solidaire à Genève, au bord du précipice",
-    "added_at": "2025-11-16T18:32:58.910Z",
-    "removed_at": "2025-11-18T06:16:48.253Z",
-    "duration_minutes": 2144,
-    "duration_str": "1d 11h 44m"
-  },
-  {
-    "title": "monde:::Giuliano da Empoli: «Aux Etats-Unis, la tentative de changement de régime ne s’arrêtera pas avec l’élection de quelques démocrates»",
-    "added_at": "2025-11-16T17:38:00.765Z",
-    "removed_at": "2025-11-17T12:31:20.559Z",
-    "duration_minutes": 1133,
-    "duration_str": "18h 53m"
-  },
-  {
-    "title": "monde:::Prise au piège entre les ruines et les tireurs embusqués: Pokrovsk face à l’impossible retraite",
-    "added_at": "2025-11-16T16:29:57.042Z",
-    "removed_at": "2025-11-21T07:59:31.657Z",
-    "duration_minutes": 6690,
-    "duration_str": "4d 15h 30m"
-  },
-  {
-    "title": "culture:::«L’Empire», une enquête stupéfiante sur l’industrie du rap français et ses liens avec le crime organisé",
-    "added_at": "2025-11-16T11:03:29.094Z",
-    "removed_at": "2025-11-17T12:06:47.335Z",
-    "duration_minutes": 1503,
-    "duration_str": "1d 1h 3m"
-  },
-  {
-    "title": "economie:::Derrière l’accord avec les Etats-Unis, la diplomatie parallèle des patrons suisses",
-    "added_at": "2025-11-16T09:44:06.575Z",
-    "removed_at": "2025-11-27T19:54:12.514Z",
-    "duration_minutes": 16450,
-    "duration_str": "11d 10h 10m"
-  },
-  {
-    "title": "economie:::200 milliards de dollars: les promesses d’investissements suisses aux Etats-Unis donnent le vertige",
-    "added_at": "2025-11-16T06:12:09.598Z",
-    "removed_at": "2025-11-18T07:35:04.728Z",
-    "duration_minutes": 2963,
-    "duration_str": "2d 1h 23m"
-  },
-  {
     "title": "sport:::La Suisse surclasse la Suède et assure quasiment sa qualification pour la Coupe du monde",
     "added_at": "2025-11-16T06:04:33.862Z",
     "removed_at": "2025-11-16T14:47:00.290Z",
     "duration_minutes": 522,
     "duration_str": "8h 42m"
+  },
+  {
+    "title": "economie:::200 milliards de dollars: les promesses d’investissements suisses aux Etats-Unis donnent le vertige",
+    "added_at": "2025-11-16T06:12:09.598Z",
+    "removed_at": "2025-11-18T07:36:24.994Z",
+    "duration_minutes": 2964,
+    "duration_str": "2d 1h 24m"
   },
   {
     "title": "monde:::Maduro dénonce comme «irresponsables» les nouveaux exercices militaires américains près du Venezuela",
@@ -84,11 +49,25 @@
     "duration_str": "5h 27m"
   },
   {
+    "title": "economie:::Derrière l’accord avec les Etats-Unis, la diplomatie parallèle des patrons suisses",
+    "added_at": "2025-11-16T09:44:06.575Z",
+    "removed_at": "2025-11-27T19:54:57.295Z",
+    "duration_minutes": 16451,
+    "duration_str": "11d 10h 11m"
+  },
+  {
     "title": "sciences:::Pour faire fuir les goélands, un bon cri vaut mieux qu’une parole ou un gazouillis de rouge-gorge",
     "added_at": "2025-11-16T10:06:46.951Z",
     "removed_at": "2025-11-17T05:50:06.783Z",
     "duration_minutes": 1183,
     "duration_str": "19h 43m"
+  },
+  {
+    "title": "culture:::«L’Empire», une enquête stupéfiante sur l’industrie du rap français et ses liens avec le crime organisé",
+    "added_at": "2025-11-16T11:03:29.094Z",
+    "removed_at": "2025-11-17T12:06:47.335Z",
+    "duration_minutes": 1503,
+    "duration_str": "1d 1h 3m"
   },
   {
     "title": "culture:::La Constellation d’elie zoé: «L’ortie est une plante folle!»",
@@ -126,11 +105,32 @@
     "duration_str": "15h 57m"
   },
   {
+    "title": "monde:::Prise au piège entre les ruines et les tireurs embusqués: Pokrovsk face à l’impossible retraite",
+    "added_at": "2025-11-16T16:29:57.042Z",
+    "removed_at": "2025-11-21T07:59:31.657Z",
+    "duration_minutes": 6690,
+    "duration_str": "4d 15h 30m"
+  },
+  {
+    "title": "monde:::Giuliano da Empoli: «Aux Etats-Unis, la tentative de changement de régime ne s’arrêtera pas avec l’élection de quelques démocrates»",
+    "added_at": "2025-11-16T17:38:00.765Z",
+    "removed_at": "2025-11-17T12:31:20.559Z",
+    "duration_minutes": 1133,
+    "duration_str": "18h 53m"
+  },
+  {
     "title": "monde:::En Israël, des décisions gouvernementales à l’assaut de la liberté de la presse",
     "added_at": "2025-11-16T18:08:17.081Z",
     "removed_at": "2025-11-17T09:12:35.828Z",
     "duration_minutes": 904,
     "duration_str": "15h 4m"
+  },
+  {
+    "title": "suisse:::Le Refettorio, restaurant solidaire à Genève, au bord du précipice",
+    "added_at": "2025-11-16T18:32:58.910Z",
+    "removed_at": "2025-11-18T06:17:00.598Z",
+    "duration_minutes": 2144,
+    "duration_str": "1d 11h 44m"
   },
   {
     "title": "economie:::Les trois raisons de dire oui aux bilatérales III",

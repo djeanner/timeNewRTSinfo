@@ -1,33 +1,5 @@
 [
   {
-    "title": "monde:::Pékin et Washington brisent la glace à Genève pour tenter de désamorcer leur guerre commerciale",
-    "added_at": "2025-05-10T18:10:43.360Z",
-    "removed_at": "2025-05-12T04:43:06.090Z",
-    "duration_minutes": 2072,
-    "duration_str": "1d 10h 32m"
-  },
-  {
-    "title": "culture:::Téléfilms: «Les Empoisonneurs» et «Le Vengeur masqué», aperçus du polar allemand",
-    "added_at": "2025-05-10T18:54:09.879Z",
-    "removed_at": "2025-05-11T16:24:27.751Z",
-    "duration_minutes": 1290,
-    "duration_str": "21h 30m"
-  },
-  {
-    "title": "monde:::Benjamin Bürbaumer: «La Chine et les Etats-Unis exportent leurs déséquilibres dans le reste du monde»",
-    "added_at": "2025-05-10T07:15:25.894Z",
-    "removed_at": "2025-05-12T04:26:44.963Z",
-    "duration_minutes": 2711,
-    "duration_str": "1d 21h 11m"
-  },
-  {
-    "title": "economie:::Swatch Group, l’imprenable citadelle des Hayek",
-    "added_at": "2025-05-10T15:35:43.306Z",
-    "removed_at": "2025-05-11T17:17:29.208Z",
-    "duration_minutes": 1542,
-    "duration_str": "1d 1h 42m"
-  },
-  {
     "title": "monde:::Le Pakistan frappe l’Inde en riposte à des missiles indiens contre Islamabad",
     "added_at": "2025-05-10T05:20:19.138Z",
     "removed_at": "2025-05-10T11:28:22.048Z",
@@ -68,6 +40,13 @@
     "removed_at": "2025-05-11T05:52:04.801Z",
     "duration_minutes": 1372,
     "duration_str": "22h 52m"
+  },
+  {
+    "title": "monde:::Benjamin Bürbaumer: «La Chine et les Etats-Unis exportent leurs déséquilibres dans le reste du monde»",
+    "added_at": "2025-05-10T07:15:25.894Z",
+    "removed_at": "2025-05-12T04:26:44.963Z",
+    "duration_minutes": 2711,
+    "duration_str": "1d 21h 11m"
   },
   {
     "title": "sport:::Bienvenue à Herning, cœur battant du hockey danois, où la Suisse dispute le premier tour du Mondial",
@@ -161,6 +140,13 @@
     "duration_str": "5h 13m"
   },
   {
+    "title": "economie:::Swatch Group, l’imprenable citadelle des Hayek",
+    "added_at": "2025-05-10T15:35:43.306Z",
+    "removed_at": "2025-05-11T17:17:29.208Z",
+    "duration_minutes": 1542,
+    "duration_str": "1d 1h 42m"
+  },
+  {
     "title": "economie:::La Réforme protestante est-elle la mère du capitalisme?",
     "added_at": "2025-05-10T16:51:21.986Z",
     "removed_at": "2025-05-10T18:54:09.879Z",
@@ -182,11 +168,25 @@
     "duration_str": "13h 44m"
   },
   {
+    "title": "monde:::Pékin et Washington brisent la glace à Genève pour tenter de désamorcer leur guerre commerciale",
+    "added_at": "2025-05-10T18:10:43.360Z",
+    "removed_at": "2025-05-12T04:43:40.891Z",
+    "duration_minutes": 2073,
+    "duration_str": "1d 10h 33m"
+  },
+  {
     "title": "sciences:::La sonde spatiale soviétique Kosmos 482 s'est abimée dans l'océan Indien",
     "added_at": "2025-05-10T18:10:43.360Z",
     "removed_at": "2025-05-10T20:43:37.669Z",
     "duration_minutes": 153,
     "duration_str": "2h 33m"
+  },
+  {
+    "title": "culture:::Téléfilms: «Les Empoisonneurs» et «Le Vengeur masqué», aperçus du polar allemand",
+    "added_at": "2025-05-10T18:54:09.879Z",
+    "removed_at": "2025-05-11T16:24:38.566Z",
+    "duration_minutes": 1290,
+    "duration_str": "21h 30m"
   },
   {
     "title": "economie:::Van Cleef & Arpels a présenté 35 pièces historiques à l'occasion de la foire d’art Tefaf Maastricht",

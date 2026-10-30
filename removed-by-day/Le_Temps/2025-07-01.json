@@ -1,54 +1,5 @@
 [
   {
-    "title": "suisse:::Face aux juges cantonaux, Cédric Flaction maintient n’avoir jamais coupé ses vins avec des crus étrangers",
-    "added_at": "2025-07-01T17:45:38.628Z",
-    "removed_at": "2025-07-02T10:17:27.471Z",
-    "duration_minutes": 992,
-    "duration_str": "16h 32m"
-  },
-  {
-    "title": "cyber:::Comment Salt et Starlink veulent faire communiquer nos smartphones avec les satellites d’Elon Musk",
-    "added_at": "2025-07-01T18:34:49.973Z",
-    "removed_at": "2025-07-02T12:26:13.590Z",
-    "duration_minutes": 1071,
-    "duration_str": "17h 51m"
-  },
-  {
-    "title": "monde:::Désormais adopté au Sénat, le «Big Beautiful Bill», féroce objet de discorde entre Donald Trump et Elon Musk",
-    "added_at": "2025-07-01T16:37:46.136Z",
-    "removed_at": "2025-07-02T10:24:22.526Z",
-    "duration_minutes": 1067,
-    "duration_str": "17h 47m"
-  },
-  {
-    "title": "sport:::Caroline Graham Hansen avant Norvège-Suisse: «Soit vous êtes dans le train, soit vous le regardez partir sans vous»",
-    "added_at": "2025-07-01T13:33:02.460Z",
-    "removed_at": "2025-07-03T04:28:20.961Z",
-    "duration_minutes": 2335,
-    "duration_str": "1d 14h 55m"
-  },
-  {
-    "title": "suisse:::Au nom du sport, les adversaires politiques acceptent de jouer dans la même équipe",
-    "added_at": "2025-07-01T10:11:19.872Z",
-    "removed_at": "2025-07-03T04:28:20.961Z",
-    "duration_minutes": 2537,
-    "duration_str": "1d 18h 17m"
-  },
-  {
-    "title": "monde:::François Heisbourg: «La fin de l’empire américain pourrait être rapide et irréversible»",
-    "added_at": "2025-07-01T06:25:10.802Z",
-    "removed_at": "2025-07-03T06:12:11.585Z",
-    "duration_minutes": 2867,
-    "duration_str": "1d 23h 47m"
-  },
-  {
-    "title": "monde:::Karin Keller-Sutter affirme qu’Emmanuel Macron soutient l’idée d’une «plateforme» de négociation entre l’Ukraine et la Russie à Genève",
-    "added_at": "2025-07-01T11:49:19.440Z",
-    "removed_at": "2025-07-02T08:47:05.119Z",
-    "duration_minutes": 1258,
-    "duration_str": "20h 58m"
-  },
-  {
     "title": "monde:::En direct, Moyen-Orient – Donald Trump démantèle les sanctions contre la Syrie",
     "added_at": "2025-07-01T02:10:45.246Z",
     "removed_at": "2025-07-01T07:02:49.381Z",
@@ -96,6 +47,13 @@
     "removed_at": "2025-07-01T08:06:54.468Z",
     "duration_minutes": 104,
     "duration_str": "1h 44m"
+  },
+  {
+    "title": "monde:::François Heisbourg: «La fin de l’empire américain pourrait être rapide et irréversible»",
+    "added_at": "2025-07-01T06:25:10.802Z",
+    "removed_at": "2025-07-03T06:37:35.450Z",
+    "duration_minutes": 2892,
+    "duration_str": "2d 12m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Hécatombe après des frappes israéliennes sur un café internet à Gaza",
@@ -175,6 +133,13 @@
     "duration_str": "7h"
   },
   {
+    "title": "suisse:::Au nom du sport, les adversaires politiques acceptent de jouer dans la même équipe",
+    "added_at": "2025-07-01T10:11:19.872Z",
+    "removed_at": "2025-07-03T04:28:20.961Z",
+    "duration_minutes": 2537,
+    "duration_str": "1d 18h 17m"
+  },
+  {
     "title": "cyber:::Comment les géants de l’intelligence artificielle gagnent la bataille sur les œuvres protégées par droit d’auteur",
     "added_at": "2025-07-01T10:37:39.344Z",
     "removed_at": "2025-07-01T16:11:24.449Z",
@@ -196,11 +161,25 @@
     "duration_str": "9m"
   },
   {
+    "title": "monde:::Karin Keller-Sutter affirme qu’Emmanuel Macron soutient l’idée d’une «plateforme» de négociation entre l’Ukraine et la Russie à Genève",
+    "added_at": "2025-07-01T11:49:19.440Z",
+    "removed_at": "2025-07-02T08:47:05.119Z",
+    "duration_minutes": 1258,
+    "duration_str": "20h 58m"
+  },
+  {
     "title": "monde:::Le «Big Beautiful Bill», féroce objet de discorde entre Donald Trump et Elon Musk",
     "added_at": "2025-07-01T12:10:05.701Z",
     "removed_at": "2025-07-01T16:37:46.136Z",
     "duration_minutes": 268,
     "duration_str": "4h 28m"
+  },
+  {
+    "title": "sport:::Caroline Graham Hansen avant Norvège-Suisse: «Soit vous êtes dans le train, soit vous le regardez partir sans vous»",
+    "added_at": "2025-07-01T13:33:02.460Z",
+    "removed_at": "2025-07-03T04:28:20.961Z",
+    "duration_minutes": 2335,
+    "duration_str": "1d 14h 55m"
   },
   {
     "title": "monde:::A la tête de la présidence de l’Union Européenne, le Danemark veut promouvoir une politique migratoire plus restrictive",
@@ -252,6 +231,13 @@
     "duration_str": "12h 48m"
   },
   {
+    "title": "monde:::Désormais adopté au Sénat, le «Big Beautiful Bill», féroce objet de discorde entre Donald Trump et Elon Musk",
+    "added_at": "2025-07-01T16:37:46.136Z",
+    "removed_at": "2025-07-02T10:25:09.561Z",
+    "duration_minutes": 1067,
+    "duration_str": "17h 47m"
+  },
+  {
     "title": "suisse:::Enquête en vue sur les F-35A: «Les dépassements de coûts pourraient être de 3 ou 4 milliards», selon Pierre-Alain Fridez",
     "added_at": "2025-07-01T17:11:42.382Z",
     "removed_at": "2025-07-01T17:21:10.385Z",
@@ -264,6 +250,20 @@
     "removed_at": "2025-07-02T03:30:33.517Z",
     "duration_minutes": 609,
     "duration_str": "10h 9m"
+  },
+  {
+    "title": "suisse:::Face aux juges cantonaux, Cédric Flaction maintient n’avoir jamais coupé ses vins avec des crus étrangers",
+    "added_at": "2025-07-01T17:45:38.628Z",
+    "removed_at": "2025-07-02T10:17:27.471Z",
+    "duration_minutes": 992,
+    "duration_str": "16h 32m"
+  },
+  {
+    "title": "cyber:::Comment Salt et Starlink veulent faire communiquer nos smartphones avec les satellites d’Elon Musk",
+    "added_at": "2025-07-01T18:34:49.973Z",
+    "removed_at": "2025-07-02T12:27:26.893Z",
+    "duration_minutes": 1073,
+    "duration_str": "17h 53m"
   },
   {
     "title": "sport:::Le gazon de Wimbledon résiste encore à Jil Teichmann",

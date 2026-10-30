@@ -1,40 +1,5 @@
 [
   {
-    "title": "suisse:::A Lausanne, au quartier de Prélaz, la mort du jeune Marvin suscite un immense émoi",
-    "added_at": "2025-08-25T19:43:52.565Z",
-    "removed_at": "2025-08-27T15:32:50.263Z",
-    "duration_minutes": 2629,
-    "duration_str": "1d 19h 49m"
-  },
-  {
-    "title": "monde:::Guerre en Ukraine: A Kostiantynivka, des volontaires bravent le danger pour évacuer les habitants apeurés",
-    "added_at": "2025-08-25T06:54:57.184Z",
-    "removed_at": "2025-09-15T04:13:39.846Z",
-    "duration_minutes": 30079,
-    "duration_str": "20d 21h 19m"
-  },
-  {
-    "title": "monde:::Décryptage – Pourquoi les efforts diplomatiques pour mettre fin à la guerre contre l’Ukraine sont-ils si laborieux?",
-    "added_at": "2025-08-25T09:14:33.734Z",
-    "removed_at": "2025-08-28T16:10:53.565Z",
-    "duration_minutes": 4736,
-    "duration_str": "3d 6h 56m"
-  },
-  {
-    "title": "monde:::François Bayrou empoigne sa rentrée couperet et met son poste dans la balance",
-    "added_at": "2025-08-25T14:58:22.521Z",
-    "removed_at": "2025-08-28T17:52:33.060Z",
-    "duration_minutes": 4494,
-    "duration_str": "3d 2h 54m"
-  },
-  {
-    "title": "monde:::Mette Frederiksen, la «dame de fer scandinave»",
-    "added_at": "2025-08-25T07:06:15.241Z",
-    "removed_at": "2025-08-25T12:12:01.937Z",
-    "duration_minutes": 306,
-    "duration_str": "5h 6m"
-  },
-  {
     "title": "monde:::Guerre en Ukraine, en direct – Volodylmyr Zelensky réclame à nouveau une rencontre avec Vladimir Poutine",
     "added_at": "2025-08-25T02:40:11.184Z",
     "removed_at": "2025-08-25T05:14:59.911Z",
@@ -119,6 +84,20 @@
     "duration_str": "3h 7m"
   },
   {
+    "title": "monde:::Guerre en Ukraine: A Kostiantynivka, des volontaires bravent le danger pour évacuer les habitants apeurés",
+    "added_at": "2025-08-25T06:54:57.184Z",
+    "removed_at": "2025-09-15T04:13:41.536Z",
+    "duration_minutes": 30079,
+    "duration_str": "20d 21h 19m"
+  },
+  {
+    "title": "monde:::Mette Frederiksen, la «dame de fer scandinave»",
+    "added_at": "2025-08-25T07:06:15.241Z",
+    "removed_at": "2025-08-25T12:12:01.937Z",
+    "duration_minutes": 306,
+    "duration_str": "5h 6m"
+  },
+  {
     "title": "suisse:::Genève accueillera ce mardi les pourparlers entre l’Iran et les Européens sur le nucléaire",
     "added_at": "2025-08-25T07:23:12.212Z",
     "removed_at": "2025-08-25T16:40:28.368Z",
@@ -138,6 +117,13 @@
     "removed_at": "2025-08-25T09:22:06.847Z",
     "duration_minutes": 38,
     "duration_str": "38m"
+  },
+  {
+    "title": "monde:::Décryptage – Pourquoi les efforts diplomatiques pour mettre fin à la guerre contre l’Ukraine sont-ils si laborieux?",
+    "added_at": "2025-08-25T09:14:33.734Z",
+    "removed_at": "2025-08-28T16:10:53.565Z",
+    "duration_minutes": 4736,
+    "duration_str": "3d 6h 56m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Israël bombarde un hôpital dans le sud de Gaza. Quatre journalistes parmi les victimes",
@@ -231,6 +217,13 @@
     "duration_str": "3h 35m"
   },
   {
+    "title": "monde:::François Bayrou empoigne sa rentrée couperet et met son poste dans la balance",
+    "added_at": "2025-08-25T14:58:22.521Z",
+    "removed_at": "2025-08-28T17:52:33.060Z",
+    "duration_minutes": 4494,
+    "duration_str": "3d 2h 54m"
+  },
+  {
     "title": "suisse:::Un nouveau réseau de soins intégrés voit le jour dans le Jura",
     "added_at": "2025-08-25T15:21:01.733Z",
     "removed_at": "2025-08-25T21:05:10.382Z",
@@ -313,6 +306,13 @@
     "removed_at": "2025-08-26T08:13:25.740Z",
     "duration_minutes": 827,
     "duration_str": "13h 47m"
+  },
+  {
+    "title": "suisse:::A Lausanne, au quartier de Prélaz, la mort du jeune Marvin suscite un immense émoi",
+    "added_at": "2025-08-25T19:43:52.565Z",
+    "removed_at": "2025-08-27T15:33:50.318Z",
+    "duration_minutes": 2630,
+    "duration_str": "1d 19h 50m"
   },
   {
     "title": "economie:::Quatre incendies dus à des batteries au lithium en août en Suisse romande: les recycleurs sonnent l’alarme",

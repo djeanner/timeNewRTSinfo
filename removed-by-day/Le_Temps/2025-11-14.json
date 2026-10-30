@@ -1,54 +1,5 @@
 [
   {
-    "title": "suisse:::«On ne peut pas être enthousiastes d’être taxés à 15%»: à Berne, les élus craignent les conséquences du deal avec les Etats-Unis",
-    "added_at": "2025-11-14T18:12:31.070Z",
-    "removed_at": "2025-11-19T09:23:29.870Z",
-    "duration_minutes": 6671,
-    "duration_str": "4d 15h 11m"
-  },
-  {
-    "title": "economie:::«Soulagement», «signal positif», mais aussi «appel au politique» et «état d’alerte maintenu»: les réactions contrastées des milieux économiques",
-    "added_at": "2025-11-14T18:58:04.811Z",
-    "removed_at": "2025-11-17T19:27:53.186Z",
-    "duration_minutes": 4350,
-    "duration_str": "3d 30m"
-  },
-  {
-    "title": "economie:::Derrière la course à l’IA, des montagnes de dette s’accumulent",
-    "added_at": "2025-11-14T11:08:26.417Z",
-    "removed_at": "2025-12-16T18:58:40.486Z",
-    "duration_minutes": 46550,
-    "duration_str": "32d 7h 50m"
-  },
-  {
-    "title": "suisse:::Alexandre Vautravers: «Le manque d’investissement dans la défense peut être interprété comme un manque de fiabilité et de solidarité de la Suisse»",
-    "added_at": "2025-11-14T06:03:46.232Z",
-    "removed_at": "2025-11-27T17:10:43.396Z",
-    "duration_minutes": 19387,
-    "duration_str": "13d 11h 7m"
-  },
-  {
-    "title": "suisse:::Le Conseil d’Etat vaudois a trouvé la successeure de Marinette Kellenberger pour remettre de l’ordre au sein de la direction générale de la fiscalité",
-    "added_at": "2025-11-14T13:36:08.805Z",
-    "removed_at": "2025-11-20T11:10:19.598Z",
-    "duration_minutes": 8494,
-    "duration_str": "5d 21h 34m"
-  },
-  {
-    "title": "cyber:::Ce n’est plus un fantasme: avec ses robots-taxis Waymo, Google accélère pour conquérir la planète",
-    "added_at": "2025-11-14T05:16:35.610Z",
-    "removed_at": "2025-11-14T08:16:09.190Z",
-    "duration_minutes": 180,
-    "duration_str": "3h"
-  },
-  {
-    "title": "monde:::«Nouvelle pratique mafieuse à Marseille»? L’assassinat du frère d’un militant fait craindre le pire",
-    "added_at": "2025-11-14T10:09:49.143Z",
-    "removed_at": "2025-11-15T06:43:48.406Z",
-    "duration_minutes": 1234,
-    "duration_str": "20h 34m"
-  },
-  {
     "title": "monde:::En direct, guerre en Ukraine − Kiev ciblée par une vaste attaque, une dizaine de blessés",
     "added_at": "2025-11-14T02:37:48.971Z",
     "removed_at": "2025-11-14T05:37:20.654Z",
@@ -61,6 +12,13 @@
     "removed_at": "2025-11-15T07:57:36.260Z",
     "duration_minutes": 1635,
     "duration_str": "1d 3h 15m"
+  },
+  {
+    "title": "cyber:::Ce n’est plus un fantasme: avec ses robots-taxis Waymo, Google accélère pour conquérir la planète",
+    "added_at": "2025-11-14T05:16:35.610Z",
+    "removed_at": "2025-11-14T08:16:09.190Z",
+    "duration_minutes": 180,
+    "duration_str": "3h"
   },
   {
     "title": "suisse:::Des bons pour aller chez le dentiste? La gauche y croit, la droite montre les dents, les Genevois trancheront",
@@ -82,6 +40,13 @@
     "removed_at": "2025-11-14T10:34:24.811Z",
     "duration_minutes": 276,
     "duration_str": "4h 36m"
+  },
+  {
+    "title": "suisse:::Alexandre Vautravers: «Le manque d’investissement dans la défense peut être interprété comme un manque de fiabilité et de solidarité de la Suisse»",
+    "added_at": "2025-11-14T06:03:46.232Z",
+    "removed_at": "2025-11-27T17:10:43.396Z",
+    "duration_minutes": 19387,
+    "duration_str": "13d 11h 7m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Une vaste attaque contre Kiev a fait au moins un mort et une vingtaine de blessés",
@@ -133,6 +98,13 @@
     "duration_str": "4h 40m"
   },
   {
+    "title": "monde:::«Nouvelle pratique mafieuse à Marseille»? L’assassinat du frère d’un militant fait craindre le pire",
+    "added_at": "2025-11-14T10:09:49.143Z",
+    "removed_at": "2025-11-15T06:43:48.406Z",
+    "duration_minutes": 1234,
+    "duration_str": "20h 34m"
+  },
+  {
     "title": "suisse:::À Genève, un audit pointe des «conflits d’intérêts structurels» à la tête des HUG",
     "added_at": "2025-11-14T10:34:24.811Z",
     "removed_at": "2025-11-14T13:34:12.381Z",
@@ -159,6 +131,13 @@
     "removed_at": "2025-11-14T19:30:13.232Z",
     "duration_minutes": 504,
     "duration_str": "8h 24m"
+  },
+  {
+    "title": "economie:::Derrière la course à l’IA, des montagnes de dette s’accumulent",
+    "added_at": "2025-11-14T11:08:26.417Z",
+    "removed_at": "2025-12-16T18:59:58.634Z",
+    "duration_minutes": 46552,
+    "duration_str": "32d 7h 52m"
   },
   {
     "title": "monde:::En direct, guerre en Ukraine − Kiev panse ses plaies après une attaque massive russe la nuit dernière",
@@ -194,6 +173,13 @@
     "removed_at": "2025-11-14T15:07:05.149Z",
     "duration_minutes": 106,
     "duration_str": "1h 46m"
+  },
+  {
+    "title": "suisse:::Le Conseil d’Etat vaudois a trouvé la successeure de Marinette Kellenberger pour remettre de l’ordre au sein de la direction générale de la fiscalité",
+    "added_at": "2025-11-14T13:36:08.805Z",
+    "removed_at": "2025-11-20T11:11:44.176Z",
+    "duration_minutes": 8496,
+    "duration_str": "5d 21h 36m"
   },
   {
     "title": "suisse:::A Genève, un audit pointe des «conflits d’intérêts structurels» à la tête des HUG",
@@ -327,6 +313,20 @@
     "removed_at": "2025-11-14T18:12:31.070Z",
     "duration_minutes": 11,
     "duration_str": "11m"
+  },
+  {
+    "title": "suisse:::«On ne peut pas être enthousiastes d’être taxés à 15%»: à Berne, les élus craignent les conséquences du deal avec les Etats-Unis",
+    "added_at": "2025-11-14T18:12:31.070Z",
+    "removed_at": "2025-11-19T09:23:29.870Z",
+    "duration_minutes": 6671,
+    "duration_str": "4d 15h 11m"
+  },
+  {
+    "title": "economie:::«Soulagement», «signal positif», mais aussi «appel au politique» et «état d’alerte maintenu»: les réactions contrastées des milieux économiques",
+    "added_at": "2025-11-14T18:58:04.811Z",
+    "removed_at": "2025-11-17T19:28:00.664Z",
+    "duration_minutes": 4350,
+    "duration_str": "3d 30m"
   },
   {
     "title": "monde:::Guerre en Ukraine − Kiev panse ses plaies après une attaque massive russe la nuit dernière",
