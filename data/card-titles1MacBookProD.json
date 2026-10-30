@@ -97,11 +97,17 @@
   },
   {
     "title": "Combien de personnes sont mortes en marge des manifestations du 17 octobre en France ?",
-    "added_at": "2026-10-29T14:34:59.596Z"
+    "added_at": "2026-10-29T14:34:59.596Z",
+    "removed_at": "2026-10-30T00:15:06.637Z",
+    "duration_minutes": 580,
+    "duration_str": "9h 40m"
   },
   {
     "title": "Après sa défaite électorale, Flavio Bolsonaro aurait fui le Brésil pour les US",
-    "added_at": "2026-10-29T14:34:59.596Z"
+    "added_at": "2026-10-29T14:34:59.596Z",
+    "removed_at": "2026-10-29T23:19:19.423Z",
+    "duration_minutes": 524,
+    "duration_str": "8h 44m"
   },
   {
     "title": "Des centaines de livreurs risquent d'être licenciés par Just Eat",
@@ -142,7 +148,10 @@
   },
   {
     "title": "Les passeports du sénateur brésilien Flavio Bolsonaro ont été annulés",
-    "added_at": "2026-10-29T14:34:59.596Z"
+    "added_at": "2026-10-29T14:34:59.596Z",
+    "removed_at": "2026-10-29T23:16:57.363Z",
+    "duration_minutes": 521,
+    "duration_str": "8h 41m"
   },
   {
     "title": "Insultes sexistes et affiches dégradées ternissent la campagne électorale à Fribourg",
@@ -289,19 +298,31 @@
   },
   {
     "title": "Le Conseil d'Etat fribourgeois tire un bilan \"positif\" de la législature écoulée",
-    "added_at": "2026-10-29T14:34:59.596Z"
+    "added_at": "2026-10-29T14:34:59.596Z",
+    "removed_at": "2026-10-30T00:20:01.613Z",
+    "duration_minutes": 585,
+    "duration_str": "9h 45m"
   },
   {
     "title": "Les syndicats se déchirent autour du financement de la 13e rente AVS",
-    "added_at": "2026-10-29T14:34:59.596Z"
+    "added_at": "2026-10-29T14:34:59.596Z",
+    "removed_at": "2026-10-29T23:02:24.396Z",
+    "duration_minutes": 507,
+    "duration_str": "8h 27m"
   },
   {
     "title": "Des chercheurs appellent à déclarer le changement climatique comme \"urgence sanitaire mondiale\"",
-    "added_at": "2026-10-29T14:34:59.596Z"
+    "added_at": "2026-10-29T14:34:59.596Z",
+    "removed_at": "2026-10-29T22:26:00.355Z",
+    "duration_minutes": 471,
+    "duration_str": "7h 51m"
   },
   {
     "title": "L'exposition 'Le verre, au-delà de la matière' explore les métamorphoses de cet élément au Musée Ariana",
-    "added_at": "2026-10-29T14:34:59.596Z"
+    "added_at": "2026-10-29T14:34:59.596Z",
+    "removed_at": "2026-10-29T22:16:17.252Z",
+    "duration_minutes": 461,
+    "duration_str": "7h 41m"
   },
   {
     "title": "Le cyclone Arnab s'abat sur l'Inde, près de 100'000 personnes évacuées",
@@ -469,9 +490,47 @@
   },
   {
     "title": "Patrick Stewart, acteur star des sagas \"X-Men\" et \"Star Trek\", est mort",
-    "added_at": "2026-10-29T21:32:33.033Z",
-    "removed_at": "2026-10-29T21:34:58.641Z",
+    "added_at": "2026-10-29T21:32:33.033Z"
+  },
+  {
+    "title": "Quatre militaires italiens de l’Eufor meurent dans le crash d’un hélicoptère en Bosnie",
+    "added_at": "2026-10-29T22:26:00.355Z"
+  },
+  {
+    "title": "Plus de 5 millions de francs récoltés pour le Soudan lors de la journée de dons de la Chaîne du Bonheur",
+    "added_at": "2026-10-29T23:02:24.396Z"
+  },
+  {
+    "title": "Drame de Crans-Montana: la confrontation entre Jessica et Jacques Moretti n’aura finalement pas lieu",
+    "added_at": "2026-10-29T23:16:57.363Z",
+    "removed_at": "2026-10-30T00:17:33.025Z",
+    "duration_minutes": 60,
+    "duration_str": "1h"
+  },
+  {
+    "title": "Forum (vidéo) - Présenté par Renaud Malik et Mehmet Gultas",
+    "added_at": "2026-10-29T23:19:19.423Z",
+    "removed_at": "2026-10-30T00:15:06.637Z",
+    "duration_minutes": 55,
+    "duration_str": "55m"
+  },
+  {
+    "title": "Reportage dans le village d’Urda, épicentre de la tragédie ferroviaire",
+    "added_at": "2026-10-30T00:15:06.637Z"
+  },
+  {
+    "title": "La pénurie de foin attise les tensions avec nos voisins européens",
+    "added_at": "2026-10-30T00:15:06.637Z"
+  },
+  {
+    "title": "Le camp de Benjamin Netanyahou vainqueur mais sans majorité, selon les résultats définitifs",
+    "added_at": "2026-10-30T00:20:01.613Z",
+    "removed_at": "2026-10-30T00:22:23.264Z",
     "duration_minutes": 2,
     "duration_str": "2m"
+  },
+  {
+    "title": "Le camp de Benjamin Netanyahu vainqueur mais sans majorité, selon les résultats définitifs",
+    "added_at": "2026-10-30T00:22:23.264Z"
   }
 ]

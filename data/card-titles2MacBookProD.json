@@ -116453,7 +116453,10 @@
   },
   {
     "title": "monde:::En direct, Moyen-Orient – 90% des bulletins dépouillés, les partis arabes soupçonnés d'être financés par le Qatar",
-    "added_at": "2026-10-29T09:08:44.927Z"
+    "added_at": "2026-10-29T09:08:44.927Z",
+    "removed_at": "2026-10-29T21:44:51.067Z",
+    "duration_minutes": 756,
+    "duration_str": "12h 36m"
   },
   {
     "title": "culture:::Dans «Le Mal invisible», Giulia Caminito fait de l’hypocondrie le symptôme d’une génération en mal de repères",
@@ -116574,5 +116577,23 @@
   {
     "title": "suisse:::A Genève, l’histoire sans fin de la loi climat",
     "added_at": "2026-10-29T21:15:36.728Z"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – 99,9% des bulletins israéliens dépouillés, et un Benyamin Netanyahou contrarié dénonçant une élection «volée»",
+    "added_at": "2026-10-29T21:44:51.067Z",
+    "removed_at": "2026-10-30T00:05:26.741Z",
+    "duration_minutes": 140,
+    "duration_str": "2h 20m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Résultats définitifs en Israël: le camp de Benyamin Netanyahou perd 8 sièges par rapport à 2022",
+    "added_at": "2026-10-30T00:05:26.741Z",
+    "removed_at": "2026-10-30T00:10:16.042Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "monde:::En direct, Moyen-Orient – Résultats définitifs en Israël: le camp de Benyamin Netanyahou perd 11 sièges par rapport à 2022",
+    "added_at": "2026-10-30T00:10:16.042Z"
   }
 ]
