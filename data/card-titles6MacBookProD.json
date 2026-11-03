@@ -344,11 +344,17 @@
   },
   {
     "title": "Israeli forces kill four in Gaza as fifth Palestinian dies of wounds",
-    "added_at": "2026-11-03T05:05:55.914Z"
+    "added_at": "2026-11-03T05:05:55.914Z",
+    "removed_at": "2026-11-03T11:36:41.336Z",
+    "duration_minutes": 390,
+    "duration_str": "6h 30m"
   },
   {
     "title": "California’s Bay Area debates data centres ahead of US midterm elections",
-    "added_at": "2026-11-03T05:17:51.285Z"
+    "added_at": "2026-11-03T05:17:51.285Z",
+    "removed_at": "2026-11-03T10:46:40.657Z",
+    "duration_minutes": 328,
+    "duration_str": "5h 28m"
   },
   {
     "title": "UK to double wait for permanent residency, with exemptions for care workers",
@@ -359,7 +365,10 @@
   },
   {
     "title": "Australia’s High Court hears bid to overturn under-16s social media ban",
-    "added_at": "2026-11-03T07:17:05.968Z"
+    "added_at": "2026-11-03T07:17:05.968Z",
+    "removed_at": "2026-11-03T11:36:41.336Z",
+    "duration_minutes": 259,
+    "duration_str": "4h 19m"
   },
   {
     "title": "Palestine weekly: Election deadlock meets West Bank sieges, Gaza killings",
@@ -371,6 +380,46 @@
   },
   {
     "title": "Russian attack on Ukraine aid hub kills 26 as US announces new peace talks",
-    "added_at": "2026-11-03T09:40:09.367Z"
+    "added_at": "2026-11-03T09:40:09.367Z",
+    "removed_at": "2026-11-03T09:47:26.473Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "Russian attack on Ukraine aid hub kills 29 as US announces new peace talks",
+    "added_at": "2026-11-03T09:47:26.473Z",
+    "removed_at": "2026-11-03T10:46:40.657Z",
+    "duration_minutes": 59,
+    "duration_str": "59m"
+  },
+  {
+    "title": "Lebanon cuts power to public bodies as electricity crisis deepens",
+    "added_at": "2026-11-03T10:46:40.657Z",
+    "removed_at": "2026-11-03T11:36:41.336Z",
+    "duration_minutes": 50,
+    "duration_str": "50m"
+  },
+  {
+    "title": "Tenerife’s Jesus de Miguel dies after on-field collision with goalkeeper",
+    "added_at": "2026-11-03T10:46:40.657Z",
+    "removed_at": "2026-11-03T12:14:51.356Z",
+    "duration_minutes": 88,
+    "duration_str": "1h 28m"
+  },
+  {
+    "title": "‘Going hungry’: Garment workers in Bangladesh say wages barely cover needs",
+    "added_at": "2026-11-03T11:36:41.336Z"
+  },
+  {
+    "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
+    "added_at": "2026-11-03T11:36:41.336Z"
+  },
+  {
+    "title": "Cyclone Murasu makes landfall on India’s eastern coast",
+    "added_at": "2026-11-03T11:36:41.336Z"
+  },
+  {
+    "title": "Grain under fire: Black Sea attacks threaten global food supplies",
+    "added_at": "2026-11-03T12:14:51.356Z"
   }
 ]
