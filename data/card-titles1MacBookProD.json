@@ -1218,7 +1218,10 @@
   },
   {
     "title": "Un élève serait à l'origine du vol de données dans les écoles vaudoises",
-    "added_at": "2026-10-31T19:46:59.118Z"
+    "added_at": "2026-10-31T19:46:59.118Z",
+    "removed_at": "2026-11-02T23:13:00.884Z",
+    "duration_minutes": 3086,
+    "duration_str": "2d 3h 26m"
   },
   {
     "title": "\"Les jeunes ne sont toujours pas entendus\": la Gen Z allemande manifeste dans tout le pays samedi",
@@ -1429,7 +1432,10 @@
   },
   {
     "title": "Waldstätten: la griffe fribourgeoise qui bouscule les codes suisses",
-    "added_at": "2026-11-01T09:57:39.080Z"
+    "added_at": "2026-11-01T09:57:39.080Z",
+    "removed_at": "2026-11-03T01:19:28.747Z",
+    "duration_minutes": 2361,
+    "duration_str": "1d 15h 21m"
   },
   {
     "title": "Vaste déploiement de soldats salvadoriens à Haïti: plus qu'une opération de sauvetage",
@@ -1789,5 +1795,13 @@
   {
     "title": "Des frappes russes font au moins 26 morts dans le sud de l'Ukraine, juste après une trêve",
     "added_at": "2026-11-02T21:32:27.460Z"
+  },
+  {
+    "title": "Incendie à Thoune: la piste criminelle privilégiée",
+    "added_at": "2026-11-02T23:15:21.188Z"
+  },
+  {
+    "title": "Des négociations entre Kiev et Moscou s'ouvriront la semaine prochaine",
+    "added_at": "2026-11-03T01:19:28.747Z"
   }
 ]

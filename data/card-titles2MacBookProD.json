@@ -820,7 +820,10 @@
   },
   {
     "title": "suisse:::GastroLausanne lance ses bons cadeaux pour dynamiser les tables locales",
-    "added_at": "2026-11-02T16:06:23.233Z"
+    "added_at": "2026-11-02T16:06:23.233Z",
+    "removed_at": "2026-11-03T01:36:13.206Z",
+    "duration_minutes": 569,
+    "duration_str": "9h 29m"
   },
   {
     "title": "economie:::«Les lois de la jungle», épisode 6: A Kolwezi, cité dévorée par les mines chinoises et la pollution",
@@ -909,7 +912,10 @@
   },
   {
     "title": "monde:::En direct, J-1 des «midterms» aux Etats-Unis – Le dernier discours de campagne de Donald Trump axé sur le bassin du Lincoln Memorial",
-    "added_at": "2026-11-02T21:08:33.842Z"
+    "added_at": "2026-11-02T21:08:33.842Z",
+    "removed_at": "2026-11-02T23:36:50.015Z",
+    "duration_minutes": 148,
+    "duration_str": "2h 28m"
   },
   {
     "title": "monde:::En direct, guerre contre l’Ukraine – Une vingtaine de personnes tuées dans des bombardements sur une école",
@@ -918,5 +924,20 @@
   {
     "title": "monde:::En direct, Moyen-Orient – L’Iran assure être prêt à rouvrir le détroit d’Ormuz sous deux jours si Washington accepte ses conditions",
     "added_at": "2026-11-02T21:20:29.969Z"
+  },
+  {
+    "title": "monde:::En direct, J-1 des «midterms» aux Etats-Unis – La Cour suprême rejette la mise à l'écart de bulletins de vote californiens",
+    "added_at": "2026-11-02T23:36:50.015Z",
+    "removed_at": "2026-11-02T23:46:24.215Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "monde:::En direct, J-1 des «midterms» aux Etats-Unis – La Cour suprême rejette la saisie de bulletins de vote californiens",
+    "added_at": "2026-11-02T23:46:24.215Z"
+  },
+  {
+    "title": "monde:::A la veille des «midterms», le baroud d’honneur de Donald Trump en Californie enterré par la Cour suprême",
+    "added_at": "2026-11-03T01:36:13.206Z"
   }
 ]
