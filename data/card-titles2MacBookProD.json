@@ -795,7 +795,10 @@
   },
   {
     "title": "sport:::Alexander Zverev nouveau numéro 1 mondial du tennis: une couronne et des épines",
-    "added_at": "2026-11-02T11:51:13.177Z"
+    "added_at": "2026-11-02T11:51:13.177Z",
+    "removed_at": "2026-11-03T12:38:53.997Z",
+    "duration_minutes": 1487,
+    "duration_str": "1d 47m"
   },
   {
     "title": "suisse:::Carole Melly-Basili, la centriste qui défie Christophe Darbellay en Valais",
@@ -909,7 +912,10 @@
   },
   {
     "title": "suisse:::A Genève, les dessous de l’accord entre le propriétaire PKBS et l’Asloca sur les baux résiliés de Carl-Vogt",
-    "added_at": "2026-11-02T19:49:16.231Z"
+    "added_at": "2026-11-02T19:49:16.231Z",
+    "removed_at": "2026-11-03T14:35:49.547Z",
+    "duration_minutes": 1126,
+    "duration_str": "18h 46m"
   },
   {
     "title": "culture:::Avec «Le Champ de roses», Philip Pullman clôt de façon décevante sa double trilogie de fantasy",
@@ -983,7 +989,10 @@
   },
   {
     "title": "monde:::A la veille des «midterms», le baroud d’honneur de Donald Trump en Californie enterré par la Cour suprême",
-    "added_at": "2026-11-03T01:36:13.206Z"
+    "added_at": "2026-11-03T01:36:13.206Z",
+    "removed_at": "2026-11-03T13:48:03.866Z",
+    "duration_minutes": 731,
+    "duration_str": "12h 11m"
   },
   {
     "title": "monde:::En direct, Moyen-Orient – Les États-Unis ont mené des frappes contre l'île iranienne de Qeshm, selon le Wall Street Journal",
@@ -1013,7 +1022,10 @@
   },
   {
     "title": "economie:::Le paradoxe des banques privées: les actifs sous gestion croissent mais pas la rentabilité",
-    "added_at": "2026-11-03T05:32:07.321Z"
+    "added_at": "2026-11-03T05:32:07.321Z",
+    "removed_at": "2026-11-03T13:09:53.246Z",
+    "duration_minutes": 457,
+    "duration_str": "7h 37m"
   },
   {
     "title": "suisse:::Pierre Alain Schnegg, «un animal à sang froid» qui veut devenir conseiller fédéral",
@@ -1025,7 +1037,10 @@
   },
   {
     "title": "economie:::Haute Capital: une société zougoise veut racheter ses actifs pour récupérer sa base d’actionnaires",
-    "added_at": "2026-11-03T06:55:31.330Z"
+    "added_at": "2026-11-03T06:55:31.330Z",
+    "removed_at": "2026-11-03T13:50:23.799Z",
+    "duration_minutes": 414,
+    "duration_str": "6h 54m"
   },
   {
     "title": "monde:::«Midterms» aux Etats-Unis – Notre suivi du 28 octobre au 3 novembre",
@@ -1040,7 +1055,10 @@
   },
   {
     "title": "monde:::En direct, «Midterms» aux Etats-Unis – Les premiers bureaux de vote ont ouvert sur la côte est",
-    "added_at": "2026-11-03T10:41:50.350Z"
+    "added_at": "2026-11-03T10:41:50.350Z",
+    "removed_at": "2026-11-03T13:43:13.504Z",
+    "duration_minutes": 181,
+    "duration_str": "3h 1m"
   },
   {
     "title": "sciences:::Neandertal, artisan du bois: en Espagne, les secrets dévoilés d’un monde disparu",
@@ -1069,10 +1087,55 @@
   },
   {
     "title": "suisse:::Un élu écologiste veut taxer davantage les fortunes vaudoises supérieures à 10 millions de francs pour renflouer les caisses du canton",
-    "added_at": "2026-11-03T11:53:21.999Z"
+    "added_at": "2026-11-03T11:53:21.999Z",
+    "removed_at": "2026-11-03T12:36:28.034Z",
+    "duration_minutes": 43,
+    "duration_str": "43m"
   },
   {
     "title": "culture:::Le Prix Goncourt 2026 attribué à Philippe Jaenada pour «L'Inconnue du quai de Javel»",
-    "added_at": "2026-11-03T12:00:31.631Z"
+    "added_at": "2026-11-03T12:00:31.631Z",
+    "removed_at": "2026-11-03T13:28:55.447Z",
+    "duration_minutes": 88,
+    "duration_str": "1h 28m"
+  },
+  {
+    "title": "culture:::Monstre suédois, braquage de banque grec, variole polonaise: des séries à découvrir au GIFF",
+    "added_at": "2026-11-03T12:34:04.140Z"
+  },
+  {
+    "title": "suisse:::Un élu écologiste veut taxer davantage les fortunes vaudoises supérieures à 10 millions de francs pour renflouer les caisses du canton",
+    "added_at": "2026-11-03T12:36:28.034Z"
+  },
+  {
+    "title": "sport:::La skieuse Michelle Gisin prend sa retraite sportive: un soleil se couche",
+    "added_at": "2026-11-03T12:38:53.997Z"
+  },
+  {
+    "title": "suisse:::François Monin met le pied à l’étrier pour redonner de l’élan au Marché-Concours de Saignelégier",
+    "added_at": "2026-11-03T13:09:53.246Z"
+  },
+  {
+    "title": "culture:::Philippe Jaenada reçoit le Prix Goncourt pour «L’Inconnue du quai de Javel»",
+    "added_at": "2026-11-03T13:28:55.447Z"
+  },
+  {
+    "title": "monde:::En direct, «Midterms» aux Etats-Unis – Alors que le vote a débuté, les démocrates espèrent une «vague bleue»",
+    "added_at": "2026-11-03T13:43:13.504Z"
+  },
+  {
+    "title": "monde:::En images: le suivi des Midterms par les photographes d’agences",
+    "added_at": "2026-11-03T13:48:03.866Z",
+    "removed_at": "2026-11-03T13:55:13.293Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "monde:::En images: le suivi des «Midterms» par les photographes d’agences",
+    "added_at": "2026-11-03T13:55:13.293Z"
+  },
+  {
+    "title": "sport:::L'attaquant espagnol Jesus de Miguel décède après un choc avec le gardien adverse lors d'un match de deuxième division",
+    "added_at": "2026-11-03T14:35:49.547Z"
   }
 ]
