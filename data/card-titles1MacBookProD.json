@@ -1428,7 +1428,10 @@
   },
   {
     "title": "Le FBI accuse la Corée du Nord d'avoir dérobé six milliards de cryptomonnaies à Binance",
-    "added_at": "2026-11-01T09:57:39.080Z"
+    "added_at": "2026-11-01T09:57:39.080Z",
+    "removed_at": "2026-11-03T03:30:41.477Z",
+    "duration_minutes": 2493,
+    "duration_str": "1d 17h 33m"
   },
   {
     "title": "Waldstätten: la griffe fribourgeoise qui bouscule les codes suisses",
@@ -1803,5 +1806,9 @@
   {
     "title": "Des négociations entre Kiev et Moscou s'ouvriront la semaine prochaine",
     "added_at": "2026-11-03T01:19:28.747Z"
+  },
+  {
+    "title": "De nouvelles frappes américaines ont visé l'île iranienne de Qeshm",
+    "added_at": "2026-11-03T03:30:41.477Z"
   }
 ]
