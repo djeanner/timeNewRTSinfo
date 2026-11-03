@@ -886,7 +886,10 @@
   },
   {
     "title": "cyber:::«Montez à bord ou vous vous ferez écraser»: Proton pris dans une polémique autour de l’adoption ultra-rapide de l’intelligence artificielle",
-    "added_at": "2026-11-02T19:49:16.231Z"
+    "added_at": "2026-11-02T19:49:16.231Z",
+    "removed_at": "2026-11-03T20:29:56.927Z",
+    "duration_minutes": 1480,
+    "duration_str": "1d 40m"
   },
   {
     "title": "cyber:::«Avec l'IA, la transformation des rôles des employés dans les entreprises sera phénoménale»",
@@ -1232,10 +1235,7 @@
   },
   {
     "title": "economie:::La zone euro résiste, mais le spectre de la stagflation ressurgit",
-    "added_at": "2026-11-03T17:19:48.737Z",
-    "removed_at": "2026-11-03T18:51:11.629Z",
-    "duration_minutes": 91,
-    "duration_str": "1h 31m"
+    "added_at": "2026-11-03T17:19:48.737Z"
   },
   {
     "title": "monde:::Contre-pouvoirs, Ukraine, Iran... Que peuvent changer les «Midterms» aux Etats-Unis? Nos journalistes ont répondu à vos questions",
@@ -1243,11 +1243,17 @@
   },
   {
     "title": "suisse:::Révision des PIB cantonaux: Zurich, poumon économique mais asthmatique de la Suisse",
-    "added_at": "2026-11-03T17:46:17.403Z"
+    "added_at": "2026-11-03T17:46:17.403Z",
+    "removed_at": "2026-11-03T21:25:06.255Z",
+    "duration_minutes": 218,
+    "duration_str": "3h 38m"
   },
   {
     "title": "monde:::En direct, «Midterms» aux Etats-Unis – Les Américains se rendent massivement aux urnes, les premiers résultats seront connus dans la nuit",
-    "added_at": "2026-11-03T18:17:37.878Z"
+    "added_at": "2026-11-03T18:17:37.878Z",
+    "removed_at": "2026-11-03T21:13:09.136Z",
+    "duration_minutes": 175,
+    "duration_str": "2h 55m"
   },
   {
     "title": "culture:::Philippe Jaenada, enquêteur lancé sur la piste du temps, reçoit le Prix Goncourt pour «L’Inconnue du quai de Javel»",
@@ -1255,7 +1261,10 @@
   },
   {
     "title": "culture:::Avec «La Hantise», Jean-Philippe Toussaint signe un roman crépusculaire et inquiétant, dans les rues de Bruxelles",
-    "added_at": "2026-11-03T18:22:24.067Z"
+    "added_at": "2026-11-03T18:22:24.067Z",
+    "removed_at": "2026-11-03T20:29:56.927Z",
+    "duration_minutes": 127,
+    "duration_str": "2h 7m"
   },
   {
     "title": "suisse:::Santé: le financement uniforme coûtera près du double aux cantons, sans baisse de primes garantie",
@@ -1279,10 +1288,32 @@
   },
   {
     "title": "suisse:::Trafic ferroviaire fortement perturbé entre Lausanne et Genève après un accident de personne",
-    "added_at": "2026-11-03T19:36:47.745Z"
+    "added_at": "2026-11-03T19:36:47.745Z",
+    "removed_at": "2026-11-03T21:05:57.829Z",
+    "duration_minutes": 89,
+    "duration_str": "1h 29m"
   },
   {
     "title": "monde:::Donald Trump se prépare à gouverner sans le Congrès après les «midterms», à coups de décrets et de veto",
     "added_at": "2026-11-03T20:12:56.159Z"
+  },
+  {
+    "title": "culture:::Dans «La Gradiva», un vent de jeunesse souffle sur les cendres de Pompéi",
+    "added_at": "2026-11-03T20:29:56.927Z"
+  },
+  {
+    "title": "monde:::En Espagne, le ministre des Transports présente sa démission, à la suite de la catastrophe ferroviaire",
+    "added_at": "2026-11-03T21:05:57.829Z"
+  },
+  {
+    "title": "monde:::En direct, «Midterms» aux Etats-Unis – L’administration américaine pousse la théorie de la fraude électorales sur ses comptes officiels",
+    "added_at": "2026-11-03T21:13:09.136Z",
+    "removed_at": "2026-11-03T21:39:29.238Z",
+    "duration_minutes": 26,
+    "duration_str": "26m"
+  },
+  {
+    "title": "monde:::En direct, «Midterms» aux Etats-Unis – Plus de 60 millions de personnes ont déjà voté",
+    "added_at": "2026-11-03T21:39:29.238Z"
   }
 ]
