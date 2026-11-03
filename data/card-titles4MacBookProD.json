@@ -526,7 +526,10 @@
   },
   {
     "title": "Coffee’s new status symbol is a machine without plastic",
-    "added_at": "2026-11-02T16:06:23.655Z"
+    "added_at": "2026-11-02T16:06:23.655Z",
+    "removed_at": "2026-11-03T09:35:23.058Z",
+    "duration_minutes": 1048,
+    "duration_str": "17h 28m"
   },
   {
     "title": "Historic flooding forces evacuations in Southwest as storm shifts east for Election Day",
@@ -698,11 +701,17 @@
   },
   {
     "title": "NTSB lays out timeline of fatal Florida jet crash",
-    "added_at": "2026-11-02T20:08:32.129Z"
+    "added_at": "2026-11-02T20:08:32.129Z",
+    "removed_at": "2026-11-03T07:57:35.380Z",
+    "duration_minutes": 709,
+    "duration_str": "11h 49m"
   },
   {
     "title": "El-Sayed supporters react to Stevens’ switch",
-    "added_at": "2026-11-02T20:15:42.931Z"
+    "added_at": "2026-11-02T20:15:42.931Z",
+    "removed_at": "2026-11-03T08:59:34.282Z",
+    "duration_minutes": 763,
+    "duration_str": "12h 43m"
   },
   {
     "title": "Pilot declared ‘mayday’ before deadly crash",
@@ -884,10 +893,7 @@
   },
   {
     "title": "Man returns home after 28-year walk around the world",
-    "added_at": "2026-11-03T00:34:10.727Z",
-    "removed_at": "2026-11-03T02:50:14.057Z",
-    "duration_minutes": 136,
-    "duration_str": "2h 16m"
+    "added_at": "2026-11-03T00:34:10.727Z"
   },
   {
     "title": "NYC Marathon runner dedicates medal to slain Oberlin professor",
@@ -994,7 +1000,10 @@
   },
   {
     "title": "Marathon runner dedicates medal to slain professor",
-    "added_at": "2026-11-03T02:50:14.057Z"
+    "added_at": "2026-11-03T02:50:14.057Z",
+    "removed_at": "2026-11-03T08:52:23.413Z",
+    "duration_minutes": 362,
+    "duration_str": "6h 2m"
   },
   {
     "title": "Abdul El-Sayed’s wife on how he is at home",
@@ -1053,5 +1062,17 @@
   {
     "title": "Cyberattacks spread across European supermarkets",
     "added_at": "2026-11-03T06:03:08.238Z"
+  },
+  {
+    "title": "‘We can see hypocrisy’: Peltola urges Alaskans to vote in final rally",
+    "added_at": "2026-11-03T07:57:35.380Z"
+  },
+  {
+    "title": "Stevens defends GOP endorsement in lengthy social media post",
+    "added_at": "2026-11-03T08:59:34.282Z"
+  },
+  {
+    "title": "It’s a go-to luxury bag across the globe. Yet few know where in the world it’s made",
+    "added_at": "2026-11-03T09:35:23.058Z"
   }
 ]
