@@ -1587,7 +1587,10 @@
   },
   {
     "title": "Lourds dégâts après des manifestations nocturnes à Bâle et à Zurich",
-    "added_at": "2026-11-01T19:47:45.796Z"
+    "added_at": "2026-11-01T19:47:45.796Z",
+    "removed_at": "2026-11-03T15:19:07.729Z",
+    "duration_minutes": 2611,
+    "duration_str": "1d 19h 31m"
   },
   {
     "title": "L’Etat de Vaud annonce avoir subi une cyberattaque",
@@ -1656,7 +1659,10 @@
   },
   {
     "title": "La nouvelle carte d'identité biométrique peut être commandée dès ce lundi",
-    "added_at": "2026-11-02T09:22:51.746Z"
+    "added_at": "2026-11-02T09:22:51.746Z",
+    "removed_at": "2026-11-03T16:04:40.679Z",
+    "duration_minutes": 1841,
+    "duration_str": "1d 6h 41m"
   },
   {
     "title": "Brasseries artisanales: après l'euphorie, les lendemains difficiles",
@@ -1739,7 +1745,10 @@
   },
   {
     "title": "Juan Atkins, pionnier de la musique techno, est mort à 64 ans",
-    "added_at": "2026-11-02T11:51:13.130Z"
+    "added_at": "2026-11-02T11:51:13.130Z",
+    "removed_at": "2026-11-03T15:47:57.607Z",
+    "duration_minutes": 1676,
+    "duration_str": "1d 3h 56m"
   },
   {
     "title": "Pour 'Des Boum et des Paf', Gaston Lagaffe s'offre une reprise inédite à quatre mains",
@@ -1764,7 +1773,10 @@
   },
   {
     "title": "La SSR diffusera à nouveau sur les ondes FM dès la mi-novembre",
-    "added_at": "2026-11-02T11:53:34.585Z"
+    "added_at": "2026-11-02T11:53:34.585Z",
+    "removed_at": "2026-11-03T17:05:25.387Z",
+    "duration_minutes": 1751,
+    "duration_str": "1d 5h 11m"
   },
   {
     "title": "Pour Bruno Meyerfeld, prix Albert Londres, \"Lula joue sur plusieurs tableaux\" avec les peuples indigènes",
@@ -1835,11 +1847,17 @@
   },
   {
     "title": "La rentrée des lycéens français se fait dans le calme, malgré quelques mobilisations",
-    "added_at": "2026-11-02T16:06:23.191Z"
+    "added_at": "2026-11-02T16:06:23.191Z",
+    "removed_at": "2026-11-03T17:43:44.332Z",
+    "duration_minutes": 1537,
+    "duration_str": "1d 1h 37m"
   },
   {
     "title": "La pollution due aux incendies en Indonésie a fait des milliers de morts dans la région",
-    "added_at": "2026-11-02T16:06:23.191Z"
+    "added_at": "2026-11-02T16:06:23.191Z",
+    "removed_at": "2026-11-03T17:05:25.387Z",
+    "duration_minutes": 1499,
+    "duration_str": "1d 59m"
   },
   {
     "title": "Le procès des \"Dubaï Papers\" s'est ouvert à Paris, une ancienne société suisse visée",
@@ -2065,7 +2083,10 @@
   },
   {
     "title": "Le nombre de personnes qui interroge l'IA sur leur santé explose, dans toutes les classes d'âge",
-    "added_at": "2026-11-03T14:11:51.978Z"
+    "added_at": "2026-11-03T14:11:51.978Z",
+    "removed_at": "2026-11-03T15:52:43.197Z",
+    "duration_minutes": 100,
+    "duration_str": "1h 40m"
   },
   {
     "title": "Bienne abrite un patrimoine d'exception de l'architecture moderniste en Suisse",
@@ -2082,5 +2103,41 @@
   {
     "title": "J'ai besoin d’aide pour changer d’assurance maladie, à qui m’adresser?",
     "added_at": "2026-11-03T14:57:24.646Z"
+  },
+  {
+    "title": "Les CFF envisagent de confier l'entretien de leurs tunnels à des robots",
+    "added_at": "2026-11-03T15:14:17.173Z"
+  },
+  {
+    "title": "Ce que les élections de mi-mandat pourraient changer pour Trump",
+    "added_at": "2026-11-03T15:19:07.729Z"
+  },
+  {
+    "title": "Feu vert des députés vaudois pour la rénovation de l'Hôpital intercantonal de la Broye",
+    "added_at": "2026-11-03T15:45:31.155Z"
+  },
+  {
+    "title": "L'Ossétie du Sud, région occupée en Géorgie, subit l'annexion silencieuse par la Russie",
+    "added_at": "2026-11-03T15:47:57.607Z"
+  },
+  {
+    "title": "Le nombre de personnes qui interrogent l'IA sur leur santé explose, dans toutes les classes d'âge",
+    "added_at": "2026-11-03T15:52:43.197Z"
+  },
+  {
+    "title": "Piratage dans les écoles vaudoises: un élève a été interpellé samedi",
+    "added_at": "2026-11-03T16:04:40.679Z"
+  },
+  {
+    "title": "L'armée gère mal son parc immobilier, dénonce le Contrôle fédéral des finances",
+    "added_at": "2026-11-03T17:05:25.387Z"
+  },
+  {
+    "title": "Le milieu culturel genevois craint des conséquences en cascades après des coupes budgétaires",
+    "added_at": "2026-11-03T17:05:25.387Z"
+  },
+  {
+    "title": "Le produit dérivé, accessoire chéri pour parler politique avant la présidentielle 2027 en France",
+    "added_at": "2026-11-03T17:43:44.332Z"
   }
 ]
