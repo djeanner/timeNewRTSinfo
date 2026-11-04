@@ -1982,7 +1982,10 @@
   },
   {
     "title": "Nouvelle cyberattaque sur des frigos de supermarchés",
-    "added_at": "2026-11-02T20:25:11.847Z"
+    "added_at": "2026-11-02T20:25:11.847Z",
+    "removed_at": "2026-11-04T23:13:09.413Z",
+    "duration_minutes": 3047,
+    "duration_str": "2d 2h 47m"
   },
   {
     "title": "Micasa supprime 70 postes et quatre magasins, dont un dans le canton de Vaud",
@@ -2119,7 +2122,10 @@
   },
   {
     "title": "Radio Fribourg licencie deux animateurs pour raisons économiques",
-    "added_at": "2026-11-03T10:25:12.362Z"
+    "added_at": "2026-11-03T10:25:12.362Z",
+    "removed_at": "2026-11-04T21:08:42.919Z",
+    "duration_minutes": 2083,
+    "duration_str": "1d 10h 43m"
   },
   {
     "title": "Les chevaux du Jura et du Jura bernois subissent une hécatombe à cause d'un fruit mortel",
@@ -2651,5 +2657,9 @@
   {
     "title": "Le Conseil d'Etat vaudois accorde la pleine indexation des salaires au personnel de l'Etat",
     "added_at": "2026-11-04T20:23:06.458Z"
+  },
+  {
+    "title": "Un adolescent sur quatre ne fait aucune activité physique, alerte l'OMS",
+    "added_at": "2026-11-04T21:08:42.919Z"
   }
 ]
