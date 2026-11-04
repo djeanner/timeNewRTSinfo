@@ -1344,7 +1344,10 @@
   },
   {
     "title": "Les colis suisses envoyés vers l'UE seront soumis à un nouveau droit de douane",
-    "added_at": "2026-10-31T19:46:59.118Z"
+    "added_at": "2026-10-31T19:46:59.118Z",
+    "removed_at": "2026-11-04T06:19:27.788Z",
+    "duration_minutes": 4952,
+    "duration_str": "3d 10h 32m"
   },
   {
     "title": "Du sapin blanc à l’huile essentielle, le savoir-faire d’une distillerie vaudoise",
@@ -1807,15 +1810,24 @@
   },
   {
     "title": "John Legend revient avec 'Muse', un album audacieux produit par Pharrell Williams",
-    "added_at": "2026-11-02T16:06:23.191Z"
+    "added_at": "2026-11-02T16:06:23.191Z",
+    "removed_at": "2026-11-04T05:50:43.451Z",
+    "duration_minutes": 2264,
+    "duration_str": "1d 13h 44m"
   },
   {
     "title": "Ce que l'on sait des cyberattaques contre les applications d'alerte en Russie et en Ukraine",
-    "added_at": "2026-11-02T16:06:23.191Z"
+    "added_at": "2026-11-02T16:06:23.191Z",
+    "removed_at": "2026-11-04T05:31:33.685Z",
+    "duration_minutes": 2245,
+    "duration_str": "1d 13h 25m"
   },
   {
     "title": "Israël met fin à son opération militaire à Hébron après près de deux semaines",
-    "added_at": "2026-11-02T16:06:23.191Z"
+    "added_at": "2026-11-02T16:06:23.191Z",
+    "removed_at": "2026-11-04T05:17:13.924Z",
+    "duration_minutes": 2230,
+    "duration_str": "1d 13h 10m"
   },
   {
     "title": "La présence de Marco Rubio et Sergueï Lavrov à l'OSCE à Lugano en décembre pas encore confirmée",
@@ -1915,7 +1927,10 @@
   },
   {
     "title": "Podcast – Qu'est-ce qui fait qu'une révolution l'emporte?",
-    "added_at": "2026-11-02T19:49:16.189Z"
+    "added_at": "2026-11-02T19:49:16.189Z",
+    "removed_at": "2026-11-04T06:21:54.372Z",
+    "duration_minutes": 2072,
+    "duration_str": "1d 10h 32m"
   },
   {
     "title": "Nouvelle cyberattaque sur des frigos de supermarchés",
@@ -2270,10 +2285,65 @@
   },
   {
     "title": "Les démocrates prennent le contrôle de la Chambre des représentants aux élections de mi-mandat aux États-Unis",
-    "added_at": "2026-11-04T03:29:23.263Z"
+    "added_at": "2026-11-04T03:29:23.263Z",
+    "removed_at": "2026-11-04T04:34:08.215Z",
+    "duration_minutes": 64,
+    "duration_str": "1h 4m"
   },
   {
     "title": "Les résultats détaillés des élections de mi-mandat aux Etats-Unis",
     "added_at": "2026-11-04T04:12:26.226Z"
+  },
+  {
+    "title": "Les démocrates prennent le contrôle de la Chambre des représentants et sont en passe de ravir le Sénat",
+    "added_at": "2026-11-04T04:29:20.779Z",
+    "removed_at": "2026-11-04T04:46:10.073Z",
+    "duration_minutes": 16,
+    "duration_str": "16m"
+  },
+  {
+    "title": "Les démocrates reprennent le contrôle du Sénat et de la Chambre des représentants, infligeant une lourde défaite au camp Trump",
+    "added_at": "2026-11-04T04:43:43.744Z",
+    "removed_at": "2026-11-04T06:07:30.559Z",
+    "duration_minutes": 83,
+    "duration_str": "1h 23m"
+  },
+  {
+    "title": "Les démocrates reprennent le contrôle du Sénat et de la Chambre des représentants",
+    "added_at": "2026-11-04T04:46:10.073Z",
+    "removed_at": "2026-11-04T04:50:55.230Z",
+    "duration_minutes": 4,
+    "duration_str": "4m"
+  },
+  {
+    "title": "Les crises mondiales reconfigurent l'approvisionnement du café en Suisse",
+    "added_at": "2026-11-04T05:17:13.924Z"
+  },
+  {
+    "title": "Enquêtes, nominations: les conséquences de l'écrasante victoire des démocrates aux élections de mi-mandat",
+    "added_at": "2026-11-04T05:31:33.685Z"
+  },
+  {
+    "title": "Donald Trump reconnaît sa défaite et félicite les démocrates, qui se sont \"bien battus\"",
+    "added_at": "2026-11-04T05:50:43.451Z",
+    "removed_at": "2026-11-04T06:00:19.168Z",
+    "duration_minutes": 9,
+    "duration_str": "9m"
+  },
+  {
+    "title": "Donald Trump reconnaît la défaite des siens et félicite les démocrates, qui se sont \"bien battus\"",
+    "added_at": "2026-11-04T06:00:19.168Z"
+  },
+  {
+    "title": "\"C'est une répudiation totale de Donald Trump\": les démocrates reprennent le contrôle du Sénat et de la Chambre des représentants",
+    "added_at": "2026-11-04T06:05:06.097Z"
+  },
+  {
+    "title": "Manifestations en France: dans quel état est l'Etat de droit?",
+    "added_at": "2026-11-04T06:19:27.788Z"
+  },
+  {
+    "title": "Le ministre espagnol des Transports démissionne après le drame d'Urda et ses 69 morts",
+    "added_at": "2026-11-04T06:21:54.372Z"
   }
 ]
