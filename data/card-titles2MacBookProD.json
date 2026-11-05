@@ -1298,7 +1298,10 @@
   },
   {
     "title": "suisse:::Santé: le financement uniforme coûtera près du double aux cantons, sans baisse de primes garantie",
-    "added_at": "2026-11-03T18:39:15.647Z"
+    "added_at": "2026-11-03T18:39:15.647Z",
+    "removed_at": "2026-11-05T05:05:15.945Z",
+    "duration_minutes": 2066,
+    "duration_str": "1d 10h 26m"
   },
   {
     "title": "suisse:::La promesse qui s’est fracassée sur les coûts de la santé",
@@ -1309,7 +1312,10 @@
   },
   {
     "title": "suisse:::A Neuchâtel, le PIB explose mais cette richesse profite encore peu au canton",
-    "added_at": "2026-11-03T18:46:20.849Z"
+    "added_at": "2026-11-03T18:46:20.849Z",
+    "removed_at": "2026-11-05T06:05:02.209Z",
+    "duration_minutes": 2118,
+    "duration_str": "1d 11h 18m"
   },
   {
     "title": "economie:::Les entreprises suisses prévoient des augmentations salariales de 1% pour 2027, tandis que des incertitudes planent sur l’inflation",
@@ -1506,7 +1512,10 @@
   },
   {
     "title": "economie:::A quatre mois du scrutin, le débat sur l’atome est déjà nucléaire",
-    "added_at": "2026-11-04T09:35:59.341Z"
+    "added_at": "2026-11-04T09:35:59.341Z",
+    "removed_at": "2026-11-05T05:14:52.961Z",
+    "duration_minutes": 1178,
+    "duration_str": "19h 38m"
   },
   {
     "title": "culture:::«Godzilla Minus Zero», une grandiose reformulation de la saga",
@@ -1589,7 +1598,10 @@
   },
   {
     "title": "economie:::En portant le taux d’intérêt minimal LPP à 2%, le Conseil fédéral réjouit les syndicats, mais provoque la colère des organisations patronales",
-    "added_at": "2026-11-04T16:32:16.420Z"
+    "added_at": "2026-11-04T16:32:16.420Z",
+    "removed_at": "2026-11-05T06:00:14.916Z",
+    "duration_minutes": 807,
+    "duration_str": "13h 27m"
   },
   {
     "title": "suisse:::Après le revers républicain, la Suisse ne s’attend pas à voir ses relations avec Donald Trump s’améliorer",
@@ -1633,18 +1645,21 @@
   },
   {
     "title": "economie:::Après des années difficiles, le géant du chocolat Barry Callebaut commence à redresser la barre",
-    "added_at": "2026-11-04T18:37:29.769Z"
+    "added_at": "2026-11-04T18:37:29.769Z",
+    "removed_at": "2026-11-05T05:45:54.383Z",
+    "duration_minutes": 668,
+    "duration_str": "11h 8m"
   },
   {
     "title": "sport:::Le Lausanne-Sport invoque Ludovic Magnin pour se sortir de sa crise",
-    "added_at": "2026-11-04T18:37:29.769Z",
-    "removed_at": "2026-11-04T20:27:52.113Z",
-    "duration_minutes": 110,
-    "duration_str": "1h 50m"
+    "added_at": "2026-11-04T18:37:29.769Z"
   },
   {
     "title": "monde:::«Les juges ont joué leur rôle de garde-fou»: ce jour où la démocratie américaine a résisté à Donald Trump",
-    "added_at": "2026-11-04T19:08:42.273Z"
+    "added_at": "2026-11-04T19:08:42.273Z",
+    "removed_at": "2026-11-05T07:02:28.098Z",
+    "duration_minutes": 713,
+    "duration_str": "11h 53m"
   },
   {
     "title": "economie:::«It’s the inflation, stupid!»",
@@ -1696,7 +1711,10 @@
   },
   {
     "title": "monde:::En direct, «midterms» aux Etats-Unis – La bourse de Wall Street affiche l'une de ses meilleures journées depuis des mois",
-    "added_at": "2026-11-04T23:42:00.163Z"
+    "added_at": "2026-11-04T23:42:00.163Z",
+    "removed_at": "2026-11-05T04:38:59.138Z",
+    "duration_minutes": 296,
+    "duration_str": "4h 56m"
   },
   {
     "title": "monde:::Guerre contre l’Ukraine – Notre suivi du 2 au 4 novembre 2026",
@@ -1707,7 +1725,10 @@
   },
   {
     "title": "monde:::En direct, guerre contre l’Ukraine – Volodymyr Zelensky à Madrid pour rencontrer Pedro Sánchez",
-    "added_at": "2026-11-05T00:37:02.609Z"
+    "added_at": "2026-11-05T00:37:02.609Z",
+    "removed_at": "2026-11-05T07:02:28.098Z",
+    "duration_minutes": 385,
+    "duration_str": "6h 25m"
   },
   {
     "title": "monde:::Moyen-Orient – Notre suivi du 2 au 4 novembre 2026",
@@ -1726,5 +1747,58 @@
   {
     "title": "monde:::En direct, Moyen-Orient – Séoul va déployer sa marine près du détroit d'Ormuz",
     "added_at": "2026-11-05T02:03:17.812Z"
+  },
+  {
+    "title": "monde:::En direct, «midterms» aux Etats-Unis – La bourse de Wall Street a affiché mercredi l'une de ses meilleures journées depuis des mois",
+    "added_at": "2026-11-05T04:38:59.138Z",
+    "removed_at": "2026-11-05T04:41:19.370Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::En direct, «midterms» aux Etats-Unis – La bourse de Wall Street a affiché mercredi l’une de ses meilleures journées depuis des mois",
+    "added_at": "2026-11-05T04:41:19.370Z",
+    "removed_at": "2026-11-05T04:48:30.169Z",
+    "duration_minutes": 7,
+    "duration_str": "7m"
+  },
+  {
+    "title": "monde:::En direct, «midterms» aux Etats-Unis – Une vague bleue portée par les Latino-Américains, les plus défavorisés, les jeunes et les milieux ruraux",
+    "added_at": "2026-11-05T04:48:30.169Z",
+    "removed_at": "2026-11-05T04:50:54.538Z",
+    "duration_minutes": 2,
+    "duration_str": "2m"
+  },
+  {
+    "title": "monde:::En direct, «midterms» aux Etats-Unis – Une percée bleue chez les Latino-Américains, les plus défavorisés, les jeunes et les milieux ruraux",
+    "added_at": "2026-11-05T04:50:54.538Z"
+  },
+  {
+    "title": "suisse:::Aides covid: des entreprises distribuent encore des dividendes interdits",
+    "added_at": "2026-11-05T05:22:02.837Z"
+  },
+  {
+    "title": "monde:::«Victoire de Téhéran» et «Israël seul au monde»: la déculottée des républicains aux «midterms» vue depuis le Moyen-Orient",
+    "added_at": "2026-11-05T05:22:02.837Z"
+  },
+  {
+    "title": "suisse:::Thomas Aeschi, le candidat qui ne dit pas son nom",
+    "added_at": "2026-11-05T05:45:54.383Z"
+  },
+  {
+    "title": "monde:::«Je ne peux plus manger de viande»: reportage sur le parking d’un discounter à Tours en ces temps de grande colère sur le pouvoir d’achat",
+    "added_at": "2026-11-05T06:00:14.916Z"
+  },
+  {
+    "title": "monde:::Budget 2027: comment la France peut-elle répondre à la colère sociale face au déficit?",
+    "added_at": "2026-11-05T06:31:11.377Z"
+  },
+  {
+    "title": "suisse:::A Vernier, les débuts réussis du centre pour jeunes requérants d’asile, un temps redouté par la population et contesté en justice",
+    "added_at": "2026-11-05T07:02:28.098Z"
+  },
+  {
+    "title": "monde:::En direct, guerre contre l’Ukraine – Melania Trump réunit jeudi des représentants russes et ukrainiens à la Maison-Blanche",
+    "added_at": "2026-11-05T07:02:28.098Z"
   }
 ]

@@ -2110,7 +2110,10 @@
   },
   {
     "title": "Swiss maintient des résultats à la hausse malgré l'envolée des prix du kérosène",
-    "added_at": "2026-11-03T09:32:58.453Z"
+    "added_at": "2026-11-03T09:32:58.453Z",
+    "removed_at": "2026-11-05T05:50:39.510Z",
+    "duration_minutes": 2657,
+    "duration_str": "1d 20h 17m"
   },
   {
     "title": "Michelle Gisin range ses lattes. Une immense championne s'en va",
@@ -2631,10 +2634,7 @@
   },
   {
     "title": "En Ukraine, la survie au quotidien prime sur les Midterms",
-    "added_at": "2026-11-04T17:15:32.729Z",
-    "removed_at": "2026-11-05T03:17:28.939Z",
-    "duration_minutes": 601,
-    "duration_str": "10h 1m"
+    "added_at": "2026-11-04T17:15:32.729Z"
   },
   {
     "title": "Le Conseil d'Etat valaisan cherche à économiser 180 millions de francs d'ici à 2030",
@@ -2650,7 +2650,10 @@
   },
   {
     "title": "Une vague bleue déferle sur les Etats-Unis avec la franche victoire démocrate aux élections de mi-mandat",
-    "added_at": "2026-11-04T18:18:20.306Z"
+    "added_at": "2026-11-04T18:18:20.306Z",
+    "removed_at": "2026-11-05T06:19:11.384Z",
+    "duration_minutes": 720,
+    "duration_str": "12h"
   },
   {
     "title": "Comment le Muséum d'Histoire naturelle de Genève lutte contre la vrillette du pain",
@@ -2665,7 +2668,10 @@
   },
   {
     "title": "Le Conseil d'Etat vaudois accorde la pleine indexation des salaires au personnel de l'Etat",
-    "added_at": "2026-11-04T20:23:06.458Z"
+    "added_at": "2026-11-04T20:23:06.458Z",
+    "removed_at": "2026-11-05T06:52:49.778Z",
+    "duration_minutes": 629,
+    "duration_str": "10h 29m"
   },
   {
     "title": "Un adolescent sur quatre ne fait aucune activité physique, alerte l'OMS",
@@ -2677,10 +2683,25 @@
   },
   {
     "title": "Google va désactiver par défaut ses outils d'IA pour les élèves",
-    "added_at": "2026-11-05T02:46:25.231Z"
+    "added_at": "2026-11-05T02:46:25.231Z",
+    "removed_at": "2026-11-05T06:31:11.327Z",
+    "duration_minutes": 224,
+    "duration_str": "3h 44m"
   },
   {
     "title": "Forum - Présenté par Renaud Malik",
     "added_at": "2026-11-05T03:17:28.939Z"
+  },
+  {
+    "title": "Relèvement du taux d'intérêt de la LPP: ce que ça change",
+    "added_at": "2026-11-05T05:48:19.279Z"
+  },
+  {
+    "title": "Google ne va plus activer par défaut ses outils d'IA pour les élèves",
+    "added_at": "2026-11-05T06:31:11.327Z"
+  },
+  {
+    "title": "Le Conseil d'Etat vaudois fait un geste pour les salaires du personnel de l'Etat avant une mobilisation",
+    "added_at": "2026-11-05T06:52:49.778Z"
   }
 ]
